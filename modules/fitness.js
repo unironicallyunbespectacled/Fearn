@@ -791,9 +791,9 @@
     wrapper.appendChild(header);
 
     // Wire Tabs & Location Mode Buttons
-    header.querySelector('#tab-daily-btn').onclick = () => { setViewMode('daily'); renderFitness(container); };
-    header.querySelector('#tab-apex-btn').onclick = () => { setViewMode('apex'); renderFitness(container); };
-    header.querySelector('#tab-library-btn').onclick = () => { setViewMode('library'); renderFitness(container); };
+    var tabDaily = header.querySelector('#tab-daily-btn'); if (tabDaily) tabDaily.onclick = () => { setViewMode('daily'); renderFitness(container); };
+    var tabApex = header.querySelector('#tab-apex-btn'); if (tabApex) tabApex.onclick = () => { setViewMode('apex'); renderFitness(container); };
+    var tabLib = header.querySelector('#tab-library-btn'); if (tabLib) tabLib.onclick = () => { setViewMode('library'); renderFitness(container); };
 
     header.querySelectorAll('.fearn-mode-pill').forEach(pill => {
       pill.onclick = () => {
@@ -1003,7 +1003,7 @@
       };
     });
 
-    card.querySelector('#start-guided-workout-btn').onclick = () => {
+    var startGuided = card.querySelector('#start-guided-workout-btn'); if (startGuided) startGuided.onclick = () => {
       launchGuidedSession(dayPlan, container);
     };
 
@@ -1252,7 +1252,7 @@
       };
     });
 
-    card.querySelector('#log-apex-run-btn').onclick = () => {
+    var logApex = card.querySelector('#log-apex-run-btn'); if (logApex) logApex.onclick = () => {
       if (FEARN.telemetry) {
         FEARN.telemetry.log({
           category: 'fitness',

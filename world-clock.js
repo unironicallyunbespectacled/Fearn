@@ -519,11 +519,15 @@
     var backdrop = document.getElementById('fearn-world-clock-backdrop');
     if (backdrop) backdrop.addEventListener('click', closeClockModal);
 
-    window.addEventListener('keydown', function (e) {
-      if (e.key === 'Escape' && state.modalOpen) closeClockModal();
-    });
+    if (typeof window !== 'undefined' && typeof window.addEventListener === 'function') {
+      window.addEventListener('keydown', function (e) {
+        if (e.key === 'Escape' && state.modalOpen) closeClockModal();
+      });
+    }
 
-    requestAnimationFrame(tick);
+    if (typeof requestAnimationFrame === 'function') {
+      requestAnimationFrame(tick);
+    }
   }
 
   root.FEARN_WORLD_CLOCK = {
@@ -531,13 +535,16 @@
     setActiveSubject: setActiveSubject,
     openModal: openClockModal,
     closeModal: closeClockModal,
-    init: init
+    init: init,
+    getActive: function () { return state.activeSubject ? (CULTURAL_CAPITALS[state.activeSubject] || CULTURAL_CAPITALS['lang-japanese']) : CULTURAL_CAPITALS['lang-japanese']; }
   };
 
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', init);
-  } else {
-    init();
+  if (typeof document !== 'undefined') {
+    if (document.readyState === 'loading' && typeof document.addEventListener === 'function') {
+      document.addEventListener('DOMContentLoaded', init);
+    } else {
+      init();
+    }
   }
 
 })(typeof window !== 'undefined' ? window : globalThis);

@@ -38,33 +38,53 @@
   ];
 
   function openCommandPalette() {
-    var existing = document.getElementById('fearn-command-palette-modal');
+    var doc = (typeof document !== 'undefined') ? document : (global.document || null);
+    if (!doc || !doc.createElement) return;
+
+    var existing = doc.getElementById ? doc.getElementById('fearn-command-palette-modal') : null;
     if (existing && existing.parentNode) {
       existing.parentNode.removeChild(existing);
     }
 
-    var overlay = document.createElement('div');
+    var overlay = doc.createElement('div');
     overlay.id = 'fearn-command-palette-modal';
     overlay.style.cssText = 'position:fixed; inset:0; z-index:100000; background:rgba(0,0,0,0.75); backdrop-filter:blur(16px); display:flex; align-items:flex-start; justify-content:center; padding:12vh 20px 20px 20px;';
 
-    var card = document.createElement('div');
+    var card = doc.createElement('div');
     card.style.cssText = 'width:100%; max-width:640px; background:rgba(15,23,42,0.92); border:1.5px solid rgba(56,189,248,0.35); border-radius:24px; box-shadow:0 25px 60px rgba(0,0,0,0.8), 0 0 40px rgba(56,189,248,0.2); overflow:hidden; display:flex; flex-direction:column; max-height:75vh;';
 
-    var header = document.createElement('div');
+    var header = doc.createElement('div');
     header.style.cssText = 'padding:16px 20px; border-bottom:1px solid rgba(255,255,255,0.1); display:flex; align-items:center; gap:12px;';
-    header.innerHTML = '<span style="font-size:1.2rem; color:#38bdf8;">🔍</span><input id="fearn-palette-input" type="text" placeholder="Jump to any subject (e.g. Swahili, Chess, CS110)..." style="flex:1; background:transparent; border:none; outline:none; font-size:1.05rem; font-weight:600; color:#f8fafc; font-family:inherit;" autocomplete="off" /><span style="font-size:0.75rem; color:#64748b; font-weight:700; background:rgba(255,255,255,0.06); padding:4px 8px; border-radius:6px;">ESC to close</span>';
+    
+    var iconSpan = doc.createElement('span');
+    iconSpan.style.cssText = 'font-size:1.2rem; color:#38bdf8;';
+    iconSpan.textContent = '🔍';
 
-    var list = document.createElement('div');
+    var input = doc.createElement('input');
+    input.id = 'fearn-palette-input';
+    input.type = 'text';
+    input.placeholder = 'Jump to any subject (e.g. Swahili, Chess, CS110)...';
+    input.style.cssText = 'flex:1; background:transparent; border:none; outline:none; font-size:1.05rem; font-weight:600; color:#f8fafc; font-family:inherit;';
+    input.setAttribute('autocomplete', 'off');
+
+    var escBadge = doc.createElement('span');
+    escBadge.style.cssText = 'font-size:0.75rem; color:#64748b; font-weight:700; background:rgba(255,255,255,0.06); padding:4px 8px; border-radius:6px;';
+    escBadge.textContent = 'ESC to close';
+
+    header.appendChild(iconSpan);
+    header.appendChild(input);
+    header.appendChild(escBadge);
+
+    var list = doc.createElement('div');
     list.id = 'fearn-palette-list';
     list.style.cssText = 'flex:1; overflow-y:auto; padding:10px; display:flex; flex-direction:column; gap:6px;';
 
     card.appendChild(header);
     card.appendChild(list);
     overlay.appendChild(card);
-    document.body.appendChild(overlay);
+    if (doc.body) doc.body.appendChild(overlay);
 
-    var input = document.getElementById('fearn-palette-input');
-    if (input) input.focus();
+    if (input.focus) input.focus();
 
     function renderItems(filterText) {
       list.innerHTML = '';
@@ -74,12 +94,15 @@
       });
 
       if (filtered.length === 0) {
-        list.innerHTML = '<div style="padding:24px; text-align:center; color:#64748b; font-size:0.9rem;">No matching disciplines found.</div>';
+        var empty = doc.createElement('div');
+        empty.style.cssText = 'padding:24px; text-align:center; color:#64748b; font-size:0.9rem;';
+        empty.textContent = 'No matching disciplines found.';
+        list.appendChild(empty);
         return;
       }
 
-      filtered.forEach(function (m, idx) {
-        var item = document.createElement('div');
+      filtered.forEach(function (m) {
+        var item = doc.createElement('div');
         item.style.cssText = 'display:flex; align-items:center; justify-content:space-between; padding:10px 14px; border-radius:12px; background:rgba(255,255,255,0.03); border:1px solid rgba(255,255,255,0.06); cursor:pointer; transition:all 0.15s ease;';
         item.innerHTML = '<div style="display:flex; align-items:center; gap:12px;"><span style="font-size:1.3rem;">' + m.icon + '</span><div><div style="font-size:0.92rem; font-weight:700; color:#f1f5f9;">' + m.name + '</div><div style="font-size:0.75rem; color:#94a3b8;">' + m.cat + ' · ' + m.level + '</div></div></div><span style="font-size:0.75rem; color:#38bdf8; font-weight:700; background:rgba(56,189,248,0.1); padding:4px 10px; border-radius:9999px;">Open ➔</span>';
 
@@ -95,7 +118,7 @@
         };
         item.onclick = function () {
           if (overlay.parentNode) overlay.parentNode.removeChild(overlay);
-          location.hash = '#module=' + encodeURIComponent(m.id);
+          if (global.location) global.location.hash = '#module=' + encodeURIComponent(m.id);
         };
         list.appendChild(item);
       });
@@ -114,13 +137,15 @@
     };
   }
 
-  window.addEventListener('keydown', function (e) {
-    if ((e.ctrlKey || e.metaKey) && (e.key === 'k' || e.key === 'K')) {
-      e.preventDefault();
-      openCommandPalette();
-    }
-  });
+  if (typeof window !== 'undefined' && typeof window.addEventListener === 'function') {
+    window.addEventListener('keydown', function (e) {
+      if ((e.ctrlKey || e.metaKey) && (e.key === 'k' || e.key === 'K')) {
+        e.preventDefault();
+        openCommandPalette();
+      }
+    });
+  }
 
   global.openCommandPalette = openCommandPalette;
 
-})(window);
+})(typeof window !== 'undefined' ? window : globalThis);
