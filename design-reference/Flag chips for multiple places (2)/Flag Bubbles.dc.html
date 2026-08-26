@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flag-icons/7.2.3/css/flag-icons.min.css">
+<style>
+  body { margin: 0; }
+  @keyframes floaty {
+    0%, 100% { transform: translateY(0) rotate(var(--rot)); }
+    50% { transform: translateY(-22px) rotate(var(--rot)); }
+  }
+  .fi { background-size: cover; background-position: center; display: inline-block; }
+</style>
+</helmet>
+<div style="position:relative; width:100%; height:2400px; overflow:hidden; background: linear-gradient(160deg, oklch(0.96 0.01 240), oklch(0.9 0.02 260)); font-family: Helvetica, Arial, sans-serif;">
+  <sc-for list="{{ flags }}" as="f" hint-placeholder-count="160">
+    <span class="fi fi-{{ f.code }}" style="{{ f.style }}"></span>
+  </sc-for>
+</div>
+
+</x-dc>
+<script type="text/x-dc" data-dc-script>
+class Component extends DCLogic {
+  renderVals() {
+    const codes = [
+      { code: 'jp' }, { code: 'es' }, { code: 'sa' }, { code: 'br' }, { code: 'ro' },
+      { code: 'vn' }, { code: 'ru' }, { code: 'tr' }, { code: 'gb' }, { code: 'de' },
+      { code: 'ar' }, { code: 'cn' }, { code: 'hk' }, { code: 'kr' }, { code: 'fr' },
+      { code: 'in' }, { code: 'pk' }, { code: 'et' }, { code: 'ke' }, { code: 'ua' },
+    ];
+    const clips = {
+      circle: 'circle(50% at 50% 50%)',
+      square: 'none',
+      rect: 'none',
+      triangle: 'polygon(50% 0%, 0% 100%, 100% 100%)',
+      diamond: 'polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%)',
+      hexagon: 'polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%)',
+      pentagon: 'polygon(50% 0%, 100% 38%, 82% 100%, 18% 100%, 0% 38%)',
+      star: 'polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%)',
+    };
+    const shapeCycle = ['circle', 'star', 'square', 'triangle', 'diamond', 'hexagon', 'rect', 'pentagon'];
+    // deterministic pseudo-random scatter so every flag repeats across every shape at varied sizes/positions
+    const hash = (n) => { const x = Math.sin(n * 12.9898) * 43758.5453; return x - Math.floor(x); };
+    const flags = [];
+    let i = 0;
+    codes.forEach((c) => {
+      shapeCycle.forEach((shapeKey) => {
+        const r1 = hash(i * 3.7 + 1);
+        const r2 = hash(i * 5.3 + 2);
+        const r3 = hash(i * 7.1 + 3);
+        const r4 = hash(i * 9.9 + 4);
+        const top = 2 + r1 * 88;
+        const left = 2 + r2 * 88;
+        const size = 44 + r3 * 92;
+        const isRect = shapeKey === 'rect';
+        const w = isRect ? size * 1.5 : size;
+        const h = isRect ? size * 0.85 : size;
+        const rot = Math.round(r4 * 60) - 30;
+        const dur = 5 + (i % 6);
+        const delay = -(i * 0.35);
+        const radius = (shapeKey === 'square' || shapeKey === 'rect') ? '10px' : '0px';
+        const style = `position:absolute; top:${top}%; left:${left}%; width:${w}px; height:${h}px; clip-path:${clips[shapeKey]}; border-radius:${radius}; --rot:${rot}deg; animation: floaty ${dur}s ease-in-out infinite; animation-delay:${delay}s; box-shadow: 0 8px 24px oklch(0 0 0 / 0.15); transform: rotate(${rot}deg); z-index:${Math.round(size)};`;
+        flags.push({ code: c.code, style, key: c.code + '-' + shapeKey });
+        i++;
+      });
+    });
+    return { flags };
+  }
+}
+</script>
+</body>
+</html>

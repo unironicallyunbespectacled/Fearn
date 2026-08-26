@@ -1,0 +1,2426 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <!-- Apple iOS & iPadOS Native PWA Optimization -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="FEARN">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="theme-color" content="#05060a">
+  <meta name="format-detection" content="telephone=no">
+
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+<title>FEARN</title>
+<link rel="stylesheet" href="theme.css" />
+<link rel="stylesheet" href="components.css" />
+  <link rel="manifest" href="./manifest.json">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="FEARN">
+  <meta name="theme-color" content="#0a0f1d">
+</head>
+<body>
+
+  <!-- ================= SCATTERED GALAXY EMOJI LOADING SCREEN ================= -->
+  <div id="fearn-loading-overlay" class="fearn-loading-overlay">
+    <div id="fearn-loading-galaxy" class="fearn-loading-galaxy"></div>
+    <div class="fearn-loading-center-pill">
+      <div class="fearn-loading-badge">CLASS IN SESSION</div>
+      <div class="fearn-loading-subtext">Calibrating Knowledge Graph & Neural Pathways…</div>
+      <div class="fearn-loading-progress-bar">
+        <div class="fearn-loading-progress-fill"></div>
+      </div>
+    </div>
+  </div>
+
+
+  <!-- animated background -->
+  <div class="fearn-bg-blobs" aria-hidden="true">
+    <div class="fearn-blob fearn-blob--1"></div>
+    <div class="fearn-blob fearn-blob--2"></div>
+    <div class="fearn-blob fearn-blob--3"></div>
+    <div class="fearn-blob fearn-blob--4"></div>
+  </div>
+  <div class="fearn-noise-veil" aria-hidden="true"></div>
+
+  <div class="fearn-shell">
+
+    <!-- ================= top status strip ================= -->
+    <div class="fearn-status-strip">
+      <div class="fearn-status-strip-left">
+        <div class="fearn-status-pill" id="fearn-pwa-badge">
+          <span class="fearn-status-dot"></span> 🟢 Offline Ready · 104 Assets Cached
+        </div>
+        <div class="fearn-audio-rate-picker" title="Pronunciation Speed">
+          <span style="font-size:0.72rem; color:#64748b; font-weight:700; padding-left:4px;">Speed:</span>
+          <button class="fearn-rate-btn" data-rate="0.75" onclick="setSpeechSpeed(0.75)">0.75x</button>
+          <button class="fearn-rate-btn active" data-rate="1.0" onclick="setSpeechSpeed(1.0)">1.0x</button>
+          <button class="fearn-rate-btn" data-rate="1.25" onclick="setSpeechSpeed(1.25)">1.25x</button>
+        </div>
+      </div>
+      <div class="fearn-status-strip-right">
+        <button class="fearn-focus-btn" id="fearn-cabin-noise-btn" onclick="toggleCabinNoise()" type="button" title="Generates soothing acoustic brown noise to block cabin engine rumble">
+          🎧 Cabin Blocker (Brown Noise)
+        </button>
+      </div>
+    </div>
+
+    <!-- ================= topbar ================= -->
+    <header class="fearn-topbar fearn-glass">
+      <div class="fearn-brand" id="fearn-brand-home" style="cursor:pointer;" title="Return to Dashboard">
+        <svg class="fearn-fern-logo" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <defs>
+            <linearGradient id="fernGrad" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+              <stop offset="0" stop-color="var(--lang-1)"/>
+              <stop offset="1" stop-color="var(--skill-1)"/>
+            </linearGradient>
+          </defs>
+          <g class="fearn-fern-frond" fill="none" stroke-linecap="round">
+            <g class="fearn-fern-layer fearn-fern-layer--a" transform="translate(-0.8,0.6)" stroke="var(--lang-1)">
+              <path d="M32 59 C29 47 28 35 30 23 C31 17 32.5 12 34 7"/>
+              <path d="M30.5 49 L20 42 M30.5 49 L41 44"/>
+              <path d="M30 39 L18.5 33 M30 39 L42 35"/>
+              <path d="M30.5 29 L20 24 M30.5 29 L41 26"/>
+              <path d="M32 19 L24 15.5 M32 19 L40 16.5"/>
+            </g>
+            <g class="fearn-fern-layer fearn-fern-layer--b" transform="translate(0.8,-0.6)" stroke="var(--skill-1)">
+              <path d="M32 59 C29 47 28 35 30 23 C31 17 32.5 12 34 7"/>
+              <path d="M30.5 49 L20 42 M30.5 49 L41 44"/>
+              <path d="M30 39 L18.5 33 M30 39 L42 35"/>
+              <path d="M30.5 29 L20 24 M30.5 29 L41 26"/>
+              <path d="M32 19 L24 15.5 M32 19 L40 16.5"/>
+            </g>
+            <g class="fearn-fern-layer" stroke="url(#fernGrad)">
+              <path d="M32 59 C29 47 28 35 30 23 C31 17 32.5 12 34 7"/>
+              <path d="M30.5 49 L20 42 M30.5 49 L41 44"/>
+              <path d="M30 39 L18.5 33 M30 39 L42 35"/>
+              <path d="M30.5 29 L20 24 M30.5 29 L41 26"/>
+              <path d="M32 19 L24 15.5 M32 19 L40 16.5"/>
+            </g>
+          </g>
+          <circle cx="34" cy="7" r="3" fill="url(#fernGrad)"/>
+        </svg>
+        <div>
+          <div class="fearn-brand-name">FEARN</div>
+          <div class="fearn-brand-tagline">the whole-self school</div>
+        </div>
+      </div>
+      <div class="fearn-topbar-actions">
+        <button class="fearn-btn" onclick="openCommandPalette()" type="button" title="Quick Switcher (Ctrl+K)">🔍 Find</button>
+        <button id="fearn-env-toggle" class="fearn-env-btn" type="button" onclick="window.FEARN_ENV && window.FEARN_ENV.cycleEnv()" title="Switch Theme (Alt+T)">🌌 <span>Dark</span></button>
+        <button id="fearn-world-clock-btn" class="fearn-world-clock-widget" type="button" title="World Time, Cultural Capitals & Yocto Precision">
+          <span class="fearn-clock-mini-dial"></span>
+          <span class="fearn-clock-flag">🇯🇵</span>
+          <span class="fearn-clock-city">Tokyo</span>
+          <span class="fearn-clock-time">--:--:--</span>
+        </button>
+        <button id="celebrate-toggle-btn" class="fearn-btn fearn-btn--icon" type="button" title="Toggle checkpoint celebrations">🎉</button>
+        <button id="telemetry-dossier-btn" class="fearn-btn" type="button" title="View nanosecond activity timeline & export PDF">📊 Daily Journal</button>
+        <button id="fearn-home-btn" class="fearn-home-nav-btn" type="button" title="Return to Dashboard (Home)">🏠</button>
+        <button id="journey-mode-btn" class="fearn-btn" type="button">🧭 Journey Mode</button>
+        <button id="library-btn" class="fearn-btn" type="button">📖 Library</button>
+      </div>
+    </header>
+
+    <!-- ================= spider-web nav hub ================= -->
+    <nav class="web-nav fearn-glass" id="web-nav" aria-label="Subject navigation">
+      <svg class="web-lines" id="web-lines" aria-hidden="true"></svg>
+      <div class="web-hub" id="web-hub" title="FEARN">
+        <svg width="30" height="30" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <defs>
+            <linearGradient id="fernGradHub" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+              <stop offset="0" stop-color="var(--lang-1)"/>
+              <stop offset="1" stop-color="var(--skill-1)"/>
+            </linearGradient>
+          </defs>
+          <g class="fearn-fern-frond" fill="none" stroke-linecap="round">
+            <g class="fearn-fern-layer fearn-fern-layer--a" transform="translate(-0.8,0.6)" stroke="var(--lang-1)">
+              <path d="M32 59 C29 47 28 35 30 23 C31 17 32.5 12 34 7"/>
+              <path d="M30.5 49 L20 42 M30.5 49 L41 44"/>
+              <path d="M30 39 L18.5 33 M30 39 L42 35"/>
+              <path d="M30.5 29 L20 24 M30.5 29 L41 26"/>
+            </g>
+            <g class="fearn-fern-layer fearn-fern-layer--b" transform="translate(0.8,-0.6)" stroke="var(--skill-1)">
+              <path d="M32 59 C29 47 28 35 30 23 C31 17 32.5 12 34 7"/>
+              <path d="M30.5 49 L20 42 M30.5 49 L41 44"/>
+              <path d="M30 39 L18.5 33 M30 39 L42 35"/>
+              <path d="M30.5 29 L20 24 M30.5 29 L41 26"/>
+            </g>
+            <g class="fearn-fern-layer" stroke="url(#fernGradHub)" stroke-width="2.2">
+              <path d="M32 59 C29 47 28 35 30 23 C31 17 32.5 12 34 7"/>
+              <path d="M30.5 49 L20 42 M30.5 49 L41 44"/>
+              <path d="M30 39 L18.5 33 M30 39 L42 35"/>
+              <path d="M30.5 29 L20 24 M30.5 29 L41 26"/>
+            </g>
+          </g>
+          <circle cx="34" cy="7" r="3.4" fill="url(#fernGradHub)"/>
+        </svg>
+      </div>
+      <div class="web-clusters" id="web-clusters"><!-- populated by app-shell.js logic below --></div>
+    </nav>
+
+    <!-- ================= main ================= -->
+    <main id="app-main">
+
+      <!-- ---- dashboard ---- -->
+      <section class="fearn-view" id="view-dashboard">
+
+        <div class="fearn-greeting fearn-glass">
+          <svg class="fearn-goat-icon" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <path d="M24 20 C19 15 16 9 15 3 C20 4 24 8 26 13 C27 16 27 18 27 20 Z" fill="currentColor" opacity="0.9"/>
+            <path d="M40 20 C45 15 48 9 49 3 C44 4 40 8 38 13 C37 16 37 18 37 20 Z" fill="currentColor" opacity="0.9"/>
+            <path d="M16 27 L8 23 L14 35 Z" fill="currentColor" opacity="0.7"/>
+            <path d="M48 27 L56 23 L50 35 Z" fill="currentColor" opacity="0.7"/>
+            <path d="M32 17 L44 25 L47 37 L40 51 L32 57 L24 51 L17 37 L20 25 Z" stroke="currentColor" stroke-width="2" stroke-linejoin="round" fill="none"/>
+            <circle cx="27" cy="33" r="1.7" fill="currentColor"/>
+            <circle cx="37" cy="33" r="1.7" fill="currentColor"/>
+            <path d="M27 42 Q32 46 37 42" stroke="currentColor" stroke-width="1.6" fill="none" stroke-linecap="round"/>
+            <path d="M29 51 Q32 59 35 51" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round"/>
+          </svg>
+          <div>
+            <h1 id="greeting-heading">Welcome back</h1>
+            <p>Pick a thread from the web above, or check your streaks below.</p>
+          </div>
+        </div>
+
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px;"><div style="font-family:var(--font-display); font-size:1.1rem; color:var(--text-main); font-weight:700;">🔥 Streak & Flame Matrix</div><button id="open-calendar-btn" type="button" class="fearn-btn fearn-btn--ghost" style="padding:6px 14px; font-size:0.8rem; cursor:pointer;">📅 View Monthly Calendar</button></div>
+      <div class="fearn-streak-row">
+          <div class="fearn-streak-card fearn-glass" data-accent="language">
+            <div class="fearn-streak-card-title">🌿 Frond Streak</div>
+            <div class="fearn-streak-main">
+              <span class="fearn-streak-value" id="journey-streak-current">0</span>
+              <span class="fearn-streak-unit">days</span>
+            </div>
+            <div class="fearn-streak-sub" id="journey-streak-sub">Best: 0 days · the visible growth — log activity in any module to build this streak</div>
+          </div>
+
+          <div class="fearn-streak-card fearn-glass" data-accent="skill">
+            <div class="fearn-streak-card-title">🌱 Root Streak</div>
+            <div class="fearn-appendage-row">
+              <div class="fearn-appendage-item">
+                <div class="fearn-appendage-info">🗂️ Anki — <strong id="anki-streak-current">0</strong> days</div>
+                <button class="fearn-appendage-btn" id="anki-log-btn" type="button">I did this today</button>
+              </div>
+              <div class="fearn-appendage-item">
+                <div class="fearn-appendage-info">🀄 WaniKani — <strong id="wanikani-streak-current">0</strong> days</div>
+                <button class="fearn-appendage-btn" id="wanikani-log-btn" type="button">I did this today</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div>
+          <div class="fearn-section-heading">
+            <h2>Your modules</h2>
+          </div>
+          <div class="fearn-modules-grid" id="modules-grid"></div>
+        </div>
+      </section>
+
+      <!-- ---- single module view ---- -->
+      <section class="fearn-view fearn-hidden" id="view-module">
+        <div class="fearn-view-header">
+          <button class="fearn-btn fearn-btn--ghost" id="module-back-btn" type="button">← Back</button>
+        </div>
+        <div class="fearn-glass" id="module-root"></div>
+      </section>
+
+      <!-- ---- aggregate journey mode ---- -->
+      <section class="fearn-view fearn-hidden" id="view-journey">
+        <div class="fearn-view-header">
+          <button class="fearn-btn fearn-btn--ghost" id="journey-back-btn" type="button">← Back</button>
+          <h2>🧭 Journey Mode</h2>
+        </div>
+
+        <div>
+          <div class="fearn-section-heading"><h2>Every thread, one view</h2></div>
+          <div class="fearn-glass" style="padding:16px;">
+            <div class="fearn-journey-mode-grid" id="journey-progress-grid"></div>
+          </div>
+        </div>
+
+        <div>
+          <div class="fearn-section-heading" style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:10px;">
+          <h2>Due today, across everything</h2>
+          <button class="fearn-btn-backup" onclick="openSRSFlashcardDeck()" type="button" style="background:rgba(99,102,241,0.18); color:#a5b4fc; border-color:rgba(99,102,241,0.4);">
+            🎴 Start Daily SRS Review Deck
+          </button>
+        </div>
+          <div class="fearn-glass" style="padding:16px;" id="journey-due-queue"></div>
+        </div>
+
+        <div>
+          <div class="fearn-section-heading"><h2>Journey log</h2></div>
+          <div class="fearn-glass" style="padding:16px;" id="journey-diary-list"></div>
+        </div>
+      </section>
+
+    </main>
+
+    <!-- ================= App Footer & Discreet Safe Reset ================= -->
+    <footer class="fearn-app-footer">
+      <div class="fearn-footer-inner">
+        <div class="fearn-footer-text">FEARN · Sovereign Local-First School</div>
+        <div class="fearn-footer-actions">
+          <button class="fearn-btn-backup" id="fearn-export-vault-btn" onclick="exportVaultData()" type="button" title="Download backup of streaks, SRS intervals, and quiz scores">
+            📥 Export Backup (.json)
+          </button>
+          <button class="fearn-btn-backup" id="fearn-import-vault-btn" onclick="triggerVaultImport()" type="button" title="Restore learning progress from backup">
+            📤 Import Backup
+          </button>
+          <input type="file" id="fearn-vault-file-input" accept=".json" style="display:none;" onchange="handleVaultFile(event)">
+        </div>
+        <button class="fearn-discreet-reset-btn" id="fearn-open-archive-reset-btn" type="button" title="Reset and purge your local vault data">
+          <span style="font-size:0.95rem;">↺</span> Reset Vault Data
+        </button>
+      </div>
+    </footer>
+  </div>
+
+  <!-- ================= Center Translucent Liquid-Glass Spotlight Modal ================= -->
+  <div class="fearn-entry-modal-backdrop" id="entry-modal-backdrop"></div>
+  <div class="fearn-entry-modal" id="entry-modal" role="dialog" aria-modal="true" aria-labelledby="entry-modal-title">
+    <div class="fearn-entry-modal-header">
+      <div>
+        <div style="display:flex; align-items:center; gap:10px; margin-bottom:4px;">
+          <h2 id="entry-modal-title" style="font-size:1.6rem; font-weight:900; color:#f8fafc; margin:0;"></h2>
+          <span id="entry-modal-frond" style="font-size:0.75rem; font-weight:800; padding:3px 10px; border-radius:999px; background:rgba(56,189,248,0.18); color:#38bdf8; text-transform:uppercase;"></span>
+        </div>
+        <div id="entry-modal-pron" style="font-size:0.95rem; color:#a78bfa; font-family:var(--font-code);"></div>
+      </div>
+      <button class="fearn-btn fearn-btn--icon fearn-btn--ghost" id="entry-modal-close" type="button" aria-label="Close dossier">✕</button>
+    </div>
+    <div class="fearn-entry-modal-body" id="entry-modal-body"></div>
+  </div>
+  <!-- ================= library / dictionary / glossary panel ================= -->
+  <div class="fearn-panel-backdrop" id="library-backdrop"></div>
+  <aside class="fearn-library-panel fearn-glass--strong" id="library-panel" aria-label="Library, dictionary and glossary search">
+    <div class="fearn-library-header">
+      <h2>📖 Library</h2>
+      <button class="fearn-btn fearn-btn--icon fearn-btn--ghost" id="library-close-btn" type="button" aria-label="Close library">✕</button>
+    </div>
+    <div class="fearn-frond-selector-bar" id="library-fronds-bar"></div>
+    <input class="fearn-library-search" id="library-search" type="search" placeholder="Search across all 30 Fronds, roots & grammar hooks…" />
+    <div class="fearn-library-results" id="library-results"></div>
+  </aside>
+
+  <!-- ================= daily journal / telemetry dossier ================= -->
+  <div class="fearn-panel-backdrop" id="dossier-backdrop"></div>
+  <aside class="fearn-dossier-panel fearn-glass--strong" id="dossier-panel" aria-label="Daily journal activity timeline">
+    <div class="fearn-dossier-header">
+      <div>
+        <div class="fearn-dossier-title">📊 Daily Journal</div>
+        <div class="fearn-dossier-sub">Today's activity timeline</div>
+      </div>
+      <button class="fearn-btn fearn-btn--icon fearn-btn--ghost" id="dossier-close-btn" type="button" aria-label="Close daily journal">✕</button>
+    </div>
+    <div class="fearn-dossier-summary-bar" id="dossier-summary-bar"></div>
+    <div class="fearn-dossier-body" id="dossier-body"></div>
+    <div class="fearn-dossier-footer">
+      <button class="fearn-btn" id="dossier-print-btn" type="button">🖨️ Print / Save PDF</button>
+      <button class="fearn-btn" id="dossier-export-json-btn" type="button">💾 Export JSON</button>
+    </div>
+  </aside>
+
+  <!-- ================= cultural world clock & yocto-precision modal ================= -->
+  <div class="fearn-clock-modal-backdrop" id="fearn-world-clock-backdrop"></div>
+  <div class="fearn-world-clock-modal" id="fearn-world-clock-modal" role="dialog" aria-modal="true" aria-label="Cultural World Clock & Quantum Metrology">
+    <div class="fearn-clock-modal-header">
+      <div class="fearn-clock-modal-title">
+        <span>🌐 World Time &amp; Cultural Capitals</span>
+      </div>
+      <button class="fearn-clock-close-btn" id="fearn-clock-close-btn" type="button" aria-label="Close clock modal">✕</button>
+    </div>
+
+    <div class="fearn-clock-featured-card">
+      <div class="fearn-clock-big-dial-wrap" id="fearn-clock-big-dial"></div>
+      <div class="fearn-clock-featured-details">
+        <div class="fearn-clock-featured-title" id="fearn-clock-featured-title">🇯🇵 Tokyo, Japan</div>
+        <div class="fearn-clock-featured-tz" id="fearn-clock-featured-tz">JST · Nihon Standard Time (UTC+9)</div>
+        <div class="fearn-clock-featured-digital-wrap">
+          <span class="fearn-clock-big-digital" id="fearn-clock-big-digital">00:00:00</span>
+          <span class="fearn-clock-ms" id="fearn-clock-ms">.00</span>
+        </div>
+        <div class="fearn-clock-featured-note" id="fearn-clock-featured-note">Dawn of the Rising Sun · Tokyo &amp; Kyoto</div>
+      </div>
+    </div>
+
+    <!-- Yocto-Precision Quantum Readout -->
+    <div class="fearn-clock-yocto-box">
+      <div class="fearn-clock-yocto-header">
+        <span>⚛️ Quantum Precision Metrology (Sub-Millisecond Oscillations)</span>
+        <span style="font-size:0.7rem;color:#7dd3fc;">Down to Yoctoseconds (10⁻²⁴s)</span>
+      </div>
+      <div class="fearn-yocto-grid" id="fearn-clock-yocto-levels"></div>
+    </div>
+
+    <!-- Multi-Capital World Grid -->
+    <div>
+      <div class="fearn-clock-capitals-section-title" style="margin-bottom:10px;">Select Language / Subject Cultural Hub</div>
+      <div class="fearn-clock-capitals-grid" id="fearn-clock-capitals-grid"></div>
+    </div>
+  </div>
+
+  
+  <!-- ================= STREAK FLAME CALENDAR MODAL ================= -->
+  <div id="fearn-streak-calendar-modal" class="fearn-calendar-modal-backdrop fearn-hidden">
+    <div class="fearn-calendar-modal-content">
+      <div class="fearn-calendar-header">
+        <div class="fearn-calendar-title-wrap">
+          <h2>🔥 The Hearth & Frond Chronicles</h2>
+          <div class="fearn-calendar-subtitle">A permanent library record of days ignited in scholarship.</div>
+        </div>
+        <button class="fearn-modal-close-btn" id="close-calendar-modal-btn" type="button">✕</button>
+      </div>
+
+      <div class="fearn-flame-stats-row">
+        <div class="fearn-flame-stat-card">
+          <div class="fearn-flame-stat-label">Current Flame</div>
+          <div class="fearn-flame-stat-val" id="cal-stat-current">0 <span style="font-size:0.9rem">days</span></div>
+        </div>
+        <div class="fearn-flame-stat-card">
+          <div class="fearn-flame-stat-label">Best Streak</div>
+          <div class="fearn-flame-stat-val" id="cal-stat-best">0 <span style="font-size:0.9rem">days</span></div>
+        </div>
+        <div class="fearn-flame-stat-card">
+          <div class="fearn-flame-stat-label">Flame Tier</div>
+          <div class="fearn-flame-stat-val" id="cal-stat-tier" style="font-size:1.05rem">🕯️ Spark</div>
+        </div>
+      </div>
+
+      <div class="fearn-month-nav">
+        <button class="fearn-month-nav-btn" id="cal-prev-month-btn" type="button">← Prev</button>
+        <div class="fearn-month-label" id="cal-current-month-label">August 2026</div>
+        <button class="fearn-month-nav-btn" id="cal-next-month-btn" type="button">Next →</button>
+      </div>
+
+      <div class="fearn-calendar-grid" id="fearn-calendar-grid-cells"></div>
+
+      <div style="font-size:0.78rem; color:var(--text-faint); text-align:center; padding-top:10px; border-top:1px solid rgba(255,255,255,0.06);">
+        🔥 Burning Ember = Active Day Logged · Plain Cell = Naked Rest Day
+      </div>
+    </div>
+  </div>
+
+  <!-- ================= ARCHIVE & RESET CONFIRM MODAL ================= -->
+  <div id="fearn-archive-reset-modal" class="fearn-calendar-modal-backdrop fearn-hidden">
+    <div class="fearn-calendar-modal-content" style="max-width:500px; text-align:center;">
+      <div style="font-size:2.4rem; margin-bottom:12px;">↺</div>
+      <h2 style="font-family:var(--font-display); font-size:1.35rem; margin:0 0 10px 0; color:#ff6666;">Archive & Reset Active Track?</h2>
+      <p style="font-size:0.85rem; color:var(--text-sub); line-height:1.5; margin-bottom:20px;">
+        This will immortalize your current session progress and streak into your permanent <strong>Historical Grimoire Ledger</strong> before clearing your active canvas for a fresh run. Nothing is ever lost.
+      </p>
+      <div style="display:flex; gap:12px; justify-content:center;">
+        <button class="fearn-btn fearn-btn--ghost" id="cancel-reset-modal-btn" type="button">Keep Current Run</button>
+        <button class="fearn-btn" id="confirm-reset-modal-btn" style="background:#cc2222; border-color:#ff4444; color:#fff;" type="button">Yes, Archive & Reset</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ================= scripts ================= -->
+  <script src="engine.js"></script>
+  <script src="schema.js"></script>
+  <script src="ui-components.js"></script>
+  <script src="world-clock.js"></script>
+
+  <!-- language curricula + ledgers (must load before their modules) -->
+  <script src="data/curricula/japanese.js"></script>
+  <script src="data/curricula/japanese.ledger.js"></script>
+  <script src="data/curricula/spanish.js"></script>
+  <script src="data/curricula/spanish.ledger.js"></script>
+  <script src="data/curricula/arabic.js"></script>
+  <script src="data/curricula/arabic.ledger.js"></script>
+  <script src="data/curricula/brazilian-portuguese.js"></script>
+  <script src="data/curricula/brazilian-portuguese.ledger.js"></script>
+  <script src="data/curricula/romanian.js"></script>
+  <script src="data/curricula/romanian.ledger.js"></script>
+  <script src="data/curricula/vietnamese.js"></script>
+  <script src="data/curricula/vietnamese.ledger.js"></script>
+  <script src="data/curricula/russian.js"></script>
+  <script src="data/curricula/russian.ledger.js"></script>
+  <script src="data/curricula/turkish.js"></script>
+  <script src="data/curricula/turkish.ledger.js"></script>
+  <script src="data/curricula/english.js"></script>
+  <script src="data/curricula/english.ledger.js"></script>
+  <script src="data/curricula/german.js"></script>
+  <script src="data/curricula/german.ledger.js"></script>
+  <script src="data/curricula/argentine-spanish.js"></script>
+  <script src="data/curricula/argentine-spanish.ledger.js"></script>
+
+  <!-- skills curricula + ledgers -->
+  <script src="data/curricula/chess.js"></script>
+  <script src="data/curricula/chess.ledger.js"></script>
+  <script src="data/curricula/morse.js"></script>
+  <script src="data/curricula/morse.ledger.js"></script>
+  <script src="data/curricula/typing.js"></script>
+  <script src="data/curricula/typing.ledger.js"></script>
+  <script src="data/curricula/mentalmath.js"></script>
+  <script src="data/curricula/mentalmath.ledger.js"></script>
+  <script src="data/curricula/scrabble.js"></script>
+  <script src="data/curricula/scrabble.ledger.js"></script>
+  <script src="data/curricula/songwriting.js"></script>
+  <script src="data/curricula/songwriting.ledger.js"></script>
+
+
+  <!-- additional 9 language curricula + ledgers -->
+  <script src="data/curricula/mandarin.js"></script>
+  <script src="data/curricula/mandarin.ledger.js"></script>
+  <script src="data/curricula/cantonese.js"></script>
+  <script src="data/curricula/cantonese.ledger.js"></script>
+  <script src="data/curricula/korean.js"></script>
+  <script src="data/curricula/korean.ledger.js"></script>
+  <script src="data/curricula/french.js"></script>
+  <script src="data/curricula/french.ledger.js"></script>
+  <script src="data/curricula/hindi.js"></script>
+  <script src="data/curricula/hindi.ledger.js"></script>
+  <script src="data/curricula/urdu.js"></script>
+  <script src="data/curricula/urdu.ledger.js"></script>
+  <script src="data/curricula/amharic.js"></script>
+  <script src="data/curricula/amharic.ledger.js"></script>
+  <script src="data/curricula/swahili.js"></script>
+  <script src="data/curricula/swahili.ledger.js"></script>
+  <script src="data/curricula/ukrainian.js"></script>
+  <script src="data/curricula/ukrainian.ledger.js"></script>
+
+  <!-- university elite curricula + ledgers -->
+  <script src="data/curricula/cs110.js"></script>
+  <script src="data/curricula/cs110.ledger.js"></script>
+  <script src="data/curricula/b110.js"></script>
+  <script src="data/curricula/b110.ledger.js"></script>
+  <script src="data/curricula/b111.js"></script>
+  <script src="data/curricula/b111.ledger.js"></script>
+
+  <!-- fitness data + ledger -->
+  <script src="data/fitness-program.js"></script>
+  <script src="data/fitness.ledger.js"></script>
+
+  <!-- omni mastery registry (20 languages + university elite) -->
+  <script src="data/omni_dictionary.js"></script>
+  <script src="data/omni_lexicon.js"></script>
+
+  <!-- language modules -->
+  <script src="modules/languages/japanese.js"></script>
+  <script src="modules/languages/spanish.js"></script>
+  <script src="modules/languages/arabic.js"></script>
+  <script src="modules/languages/brazilian-portuguese.js"></script>
+  <script src="modules/languages/romanian.js"></script>
+  <script src="modules/languages/vietnamese.js"></script>
+  <script src="modules/languages/russian.js"></script>
+  <script src="modules/languages/turkish.js"></script>
+  <script src="modules/languages/english.js"></script>
+  <script src="modules/languages/german.js"></script>
+  <script src="modules/languages/argentine-spanish.js"></script>
+
+  <!-- skills modules -->
+  <script src="modules/skills/chess.js"></script>
+  <script src="modules/skills/morse.js"></script>
+  <script src="modules/skills/typing.js"></script>
+  <script src="modules/skills/mentalmath.js"></script>
+  <script src="modules/skills/scrabble.js"></script>
+  <script src="modules/skills/songwriting.js"></script>
+
+
+  <!-- additional 9 language modules -->
+  <script src="modules/languages/mandarin.js"></script>
+  <script src="modules/languages/cantonese.js"></script>
+  <script src="modules/languages/korean.js"></script>
+  <script src="modules/languages/french.js"></script>
+  <script src="modules/languages/hindi.js"></script>
+  <script src="modules/languages/urdu.js"></script>
+  <script src="modules/languages/amharic.js"></script>
+  <script src="modules/languages/swahili.js"></script>
+  <script src="modules/languages/ukrainian.js"></script>
+
+  <!-- university elite modules -->
+  <script src="modules/skills/cs110.js"></script>
+  <script src="modules/skills/b110.js"></script>
+  <script src="modules/skills/b111.js"></script>
+
+  <!-- fitness module -->
+  <script src="modules/fitness.js"></script>
+
+  
+  
+  <script>
+
+  (function () {
+    'use strict';
+
+    if (!window.FEARN) {
+      console.error('FEARN engine failed to load — app shell cannot start.');
+      return;
+    }
+
+    // -----------------------------------------------------------------
+    // slot catalog — the full nav surface, independent of what's
+    // actually registered yet. Zero modules are registered on first
+    // load; every slot below renders as a "coming soon" dormant node
+    // until a real module.registerModule() call with a matching id
+    // shows up.
+    // -----------------------------------------------------------------
+    var SLOT_CATALOG = (function () {
+      // ids MUST exactly match each module's real registerModule({id}) — see
+      // modules/languages/*.js (MODULE_ID = 'lang-' + SUBJECT) and
+      // modules/skills/*.js (MODULE_ID = 'skill-' + subject). This catalog was
+      // originally built with placeholder ids before the other lanes existed;
+      // keep it in sync if a module's id ever changes.
+      var slots = [
+        { category: 'language', id: 'lang-japanese', name: 'Japanese', icon: '🇯🇵' },
+        { category: 'language', id: 'lang-spanish', name: 'Spanish', icon: '🇪🇸' },
+        { category: 'language', id: 'lang-arabic', name: 'Arabic', icon: '🇸🇦' },
+        { category: 'language', id: 'lang-brazilian-portuguese', name: 'Brazilian Portuguese', icon: '🇧🇷' },
+        { category: 'language', id: 'lang-romanian', name: 'Romanian', icon: '🇷🇴' },
+        { category: 'language', id: 'lang-vietnamese', name: 'Vietnamese', icon: '🇻🇳' },
+        { category: 'language', id: 'lang-russian', name: 'Russian', icon: '🇷🇺' },
+        { category: 'language', id: 'lang-turkish', name: 'Turkish', icon: '🇹🇷' },
+        { category: 'language', id: 'lang-english', name: 'English', icon: '🇬🇧' },
+        { category: 'language', id: 'lang-german', name: 'German', icon: '🇩🇪' },
+        { category: 'language', id: 'lang-argentine-spanish', name: 'Argentine Spanish', icon: '🇦🇷' },
+        { category: 'language', id: 'lang-mandarin', name: 'Mandarin Chinese', icon: '🇨🇳' },
+        { category: 'language', id: 'lang-cantonese', name: 'Cantonese', icon: '🇭🇰' },
+        { category: 'language', id: 'lang-korean', name: 'Korean', icon: '🇰🇷' },
+        { category: 'language', id: 'lang-french', name: 'French', icon: '🇫🇷' },
+        { category: 'language', id: 'lang-hindi', name: 'Hindi', icon: '🇮🇳' },
+        { category: 'language', id: 'lang-urdu', name: 'Urdu', icon: '🇵🇰' },
+        { category: 'language', id: 'lang-amharic', name: 'Amharic', icon: '🇪🇹' },
+        { category: 'language', id: 'lang-swahili', name: 'Swahili', icon: '🇰🇪' },
+        { category: 'language', id: 'lang-ukrainian', name: 'Ukrainian', icon: '🇺🇦' },
+        { category: 'skill', id: 'skill-chess', name: 'Chess', icon: '♞' },
+        { category: 'skill', id: 'skill-morse', name: 'Morse Code', icon: '📡' },
+        { category: 'skill', id: 'skill-typing', name: 'Typing Speed', icon: '⌨️' },
+        { category: 'skill', id: 'skill-mentalmath', name: 'Mental Math', icon: '🧮' },
+        { category: 'skill', id: 'skill-scrabble', name: 'Scrabble & Word Skills', icon: '🔤' },
+        { category: 'skill', id: 'skill-songwriting', name: 'Songwriting', icon: '🎵' },
+        { category: 'skill', id: 'skill-cs110', name: 'CS110: Algorithms & Data Structures', icon: '💻' },
+        { category: 'skill', id: 'skill-b110', name: 'B110: Market Dynamics & Consumer Psych', icon: '📊' },
+        { category: 'skill', id: 'skill-b111', name: 'B111: Financial Modeling & Valuation', icon: '📈' },
+        { category: 'fitness', id: 'fitness', name: 'Fitness', icon: '🏃' },
+      ];
+      return slots;
+    })();
+
+    var FITNESS_MODES = [
+      { id: 'large-gym', label: 'Large gym' },
+      { id: 'small-gym', label: 'Small gym' },
+      { id: 'open-space', label: 'Open space' },
+      { id: 'small-room', label: 'Small room' },
+    ];
+
+    function slotById(id) {
+      for (var i = 0; i < SLOT_CATALOG.length; i++) {
+        if (SLOT_CATALOG[i].id === id) return SLOT_CATALOG[i];
+      }
+      return null;
+    }
+
+    function escapeHtml(str) {
+      if (str === null || str === undefined) return '';
+      return String(str).replace(/[&<>"']/g, function (c) {
+        return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+      });
+    }
+
+    function debounce(fn, ms) {
+      var t;
+      return function () {
+        var args = arguments;
+        clearTimeout(t);
+        t = setTimeout(function () { fn.apply(null, args); }, ms);
+      };
+    }
+
+    // Local calendar day as YYYY-MM-DD (not toISOString, which is UTC and can
+    // land on the wrong day for the user's actual local evening/morning).
+    // Mirrors the same fix applied to engine.js's internal date bookkeeping.
+    function localDateStr(d) {
+      var y = d.getFullYear();
+      var m = String(d.getMonth() + 1).padStart(2, '0');
+      var day = String(d.getDate()).padStart(2, '0');
+      return y + '-' + m + '-' + day;
+    }
+
+    // -----------------------------------------------------------------
+    // build the spider-web nav
+    // -----------------------------------------------------------------
+    var clustersRoot = document.getElementById('web-clusters');
+
+    function buildCluster(category, label, slots) {
+      var cluster = document.createElement('div');
+      cluster.className = 'web-cluster';
+      cluster.setAttribute('data-cluster', category);
+      cluster.setAttribute('data-accent', category);
+
+      var labelEl = document.createElement('div');
+      labelEl.className = 'web-cluster-label';
+      labelEl.textContent = label;
+      labelEl.setAttribute('data-web-id', 'cluster-' + category);
+      cluster.appendChild(labelEl);
+
+      var nodesWrap = document.createElement('div');
+      nodesWrap.className = 'web-cluster-nodes';
+
+      slots.forEach(function (slot) {
+        var node = document.createElement('button');
+        node.type = 'button';
+        node.className = 'web-node';
+        node.setAttribute('data-web-id', slot.id);
+        node.setAttribute('data-accent', slot.category);
+        node.title = slot.name;
+
+        var iconEl = document.createElement('div');
+        iconEl.className = 'web-node-icon';
+        iconEl.textContent = slot.icon;
+        node.appendChild(iconEl);
+
+        var nameEl = document.createElement('div');
+        nameEl.textContent = slot.name;
+        node.appendChild(nameEl);
+
+        // fitness mode is controlled globally inside the module UI
+
+        node.addEventListener('click', function () { selectSlot(slot.id); });
+        nodesWrap.appendChild(node);
+      });
+
+      cluster.appendChild(nodesWrap);
+      return cluster;
+    }
+
+    function refreshNavRegistrationState() {
+      SLOT_CATALOG.forEach(function (slot) {
+        var node = clustersRoot.querySelector('[data-web-id="' + slot.id + '"]');
+        if (!node) return;
+        var mod = window.FEARN.getModule(slot.id);
+        node.classList.toggle('is-registered', !!mod);
+        node.classList.toggle('is-dormant', !mod);
+      });
+    }
+
+    function buildNav() {
+      clustersRoot.innerHTML = '';
+      clustersRoot.appendChild(buildCluster('language', 'Languages', SLOT_CATALOG.filter(function (s) { return s.category === 'language'; })));
+      clustersRoot.appendChild(buildCluster('skill', 'Skills', SLOT_CATALOG.filter(function (s) { return s.category === 'skill'; })));
+      clustersRoot.appendChild(buildCluster('fitness', 'Fitness', SLOT_CATALOG.filter(function (s) { return s.category === 'fitness'; })));
+      refreshNavRegistrationState();
+    }
+
+    // -----------------------------------------------------------------
+    // spider-web line drawing
+    // -----------------------------------------------------------------
+    function computeWebLines() {
+      var svg = document.getElementById('web-lines');
+      var nav = document.getElementById('web-nav');
+      var hub = document.getElementById('web-hub');
+      if (!svg || !nav || !hub) return;
+
+      var navRect = nav.getBoundingClientRect();
+      if (navRect.width === 0 || navRect.height === 0) return;
+
+      svg.setAttribute('width', navRect.width);
+      svg.setAttribute('height', navRect.height);
+      svg.setAttribute('viewBox', '0 0 ' + navRect.width + ' ' + navRect.height);
+      svg.innerHTML = '';
+
+      function center(elm) {
+        var r = elm.getBoundingClientRect();
+        return { x: r.left - navRect.left + r.width / 2, y: r.top - navRect.top + r.height / 2 };
+      }
+
+      var hubC = center(hub);
+      var ns = 'http://www.w3.org/2000/svg';
+      var clusters = nav.querySelectorAll('.web-cluster');
+
+      clusters.forEach(function (cluster) {
+        var label = cluster.querySelector('.web-cluster-label');
+        if (!label) return;
+        var labelC = center(label);
+        drawLine(hubC, labelC, 'spoke', 'hub', label.getAttribute('data-web-id'));
+
+        var nodes = cluster.querySelectorAll('.web-node');
+        var prevC = null;
+        nodes.forEach(function (node) {
+          var nc = center(node);
+          drawLine(labelC, nc, 'spoke', label.getAttribute('data-web-id'), node.getAttribute('data-web-id'));
+          if (prevC) {
+            drawLine(prevC, nc, 'ring', null, null);
+          }
+          prevC = nc;
+        });
+      });
+
+      function drawLine(from, to, kind, a, b) {
+        var line = document.createElementNS(ns, 'line');
+        line.setAttribute('x1', from.x);
+        line.setAttribute('y1', from.y);
+        line.setAttribute('x2', to.x);
+        line.setAttribute('y2', to.y);
+        line.setAttribute('class', 'web-line web-line--' + kind);
+        if (a) line.setAttribute('data-a', a);
+        if (b) line.setAttribute('data-b', b);
+        svg.appendChild(line);
+      }
+    }
+
+    function highlightWebPathTo(nodeId) {
+      var svg = document.getElementById('web-lines');
+      if (!svg) return;
+      var lines = svg.querySelectorAll('.web-line');
+      lines.forEach(function (l) { l.classList.remove('web-line--active'); });
+      if (!nodeId) return;
+      lines.forEach(function (l) {
+        if (l.getAttribute('data-b') === nodeId) {
+          l.classList.add('web-line--active');
+          var a = l.getAttribute('data-a');
+          if (a) {
+            lines.forEach(function (l2) {
+              if (l2.getAttribute('data-b') === a) l2.classList.add('web-line--active');
+            });
+          }
+        }
+      });
+    }
+
+    // -----------------------------------------------------------------
+    // view routing
+    // -----------------------------------------------------------------
+    var VIEWS = ['dashboard', 'module', 'journey'];
+    function showView(name) {
+      VIEWS.forEach(function (v) {
+        var section = document.getElementById('view-' + v);
+        if (section) section.classList.toggle('fearn-hidden', v !== name);
+      });
+      document.getElementById('journey-mode-btn').classList.toggle('is-active', name === 'journey');
+    }
+
+    // -----------------------------------------------------------------
+    // minimal hash-based routing — no history-stack/back-forward complexity,
+    // just "remember and restore which slot/view was open" across a refresh
+    // or a shared/bookmarked link. Uses replaceState (not location.hash=)
+    // so switching modules doesn't spam the browser history.
+    // -----------------------------------------------------------------
+    function syncHash(view, slotId) {
+      var newHash = view === 'module' && slotId ? '#module=' + encodeURIComponent(slotId)
+        : view === 'journey' ? '#journey'
+        : '#';
+      if (location.hash !== newHash) {
+        history.replaceState(null, '', newHash);
+      }
+    }
+
+    // Returns true if the current hash named a real view to restore into.
+    function restoreFromHash() {
+      var hash = location.hash.replace(/^#/, '');
+      if (hash.indexOf('module=') === 0) {
+        var slotId = decodeURIComponent(hash.slice('module='.length));
+        if (slotById(slotId)) {
+          selectSlot(slotId);
+          return true;
+        }
+      } else if (hash === 'journey') {
+        renderJourneyModeView();
+        showView('journey');
+        return true;
+      }
+      return false;
+    }
+
+    function comingSoonHTML(slot, errored) {
+      var name = slot ? slot.name : 'Module';
+      var icon = slot ? slot.icon : '✦';
+      return (
+        '<div class="fearn-coming-soon">' +
+        '<div class="fearn-coming-soon-icon">' + icon + '</div>' +
+        '<h3>' + escapeHtml(name) + '</h3>' +
+        '<p>' + (errored
+          ? 'This module hit an error while loading. Check the console for details.'
+          : 'Coming soon — this module has not been built yet. Once it registers itself with FEARN.registerModule(), it will render here.') +
+        '</p>' +
+        '</div>'
+      );
+    }
+
+    function selectSlot(slotId) {
+      if (window.FEARN_WORLD_CLOCK && typeof window.FEARN_WORLD_CLOCK.setActiveSubject === 'function') {
+        window.FEARN_WORLD_CLOCK.setActiveSubject(slotId);
+      }
+      var moduleRoot = document.getElementById('module-root');
+      moduleRoot.innerHTML = '';
+      var mod = window.FEARN.getModule(slotId);
+      if (mod && typeof mod.render === 'function') {
+        try {
+          mod.render(moduleRoot);
+        } catch (err) {
+          console.error('Module "' + slotId + '" threw while rendering:', err);
+          moduleRoot.innerHTML = comingSoonHTML(slotById(slotId), true);
+        }
+      } else {
+        moduleRoot.innerHTML = comingSoonHTML(slotById(slotId));
+      }
+      showView('module');
+      highlightWebPathTo(slotId);
+      syncHash('module', slotId);
+    }
+
+    document.getElementById('module-back-btn').addEventListener('click', function () {
+      showView('dashboard');
+      highlightWebPathTo(null);
+      syncHash('dashboard');
+    });
+
+    window.addEventListener('fearn:open-module', function (evt) {
+      if (evt && evt.detail && evt.detail.id) selectSlot(evt.detail.id);
+    });
+
+    // -----------------------------------------------------------------
+    // dashboard: streaks
+    // -----------------------------------------------------------------
+    function renderStreaks() {
+      var journey = window.FEARN.journey.getStreak();
+      document.getElementById('journey-streak-current').textContent = journey.current;
+      document.getElementById('journey-streak-sub').textContent =
+        'Best: ' + journey.best + ' days' + (journey.lastDate ? ' · last logged ' + journey.lastDate : ' · log activity in any module to build this streak');
+
+      ['anki', 'wanikani'].forEach(function (name) {
+        var s = window.FEARN.streak.getExternal(name);
+        document.getElementById(name + '-streak-current').textContent = s.current;
+        var today = localDateStr(new Date()); // local calendar day, matches engine.js's streak bookkeeping — not toISOString (UTC)
+        var btn = document.getElementById(name + '-log-btn');
+        var doneToday = s.lastDate === today;
+        btn.classList.toggle('is-done-today', doneToday);
+        btn.textContent = doneToday ? 'Logged today ✓' : 'I did this today';
+      });
+    }
+
+    document.getElementById('anki-log-btn').addEventListener('click', function () {
+      window.FEARN.streak.logExternal('anki');
+      renderStreaks();
+    });
+    document.getElementById('wanikani-log-btn').addEventListener('click', function () {
+      window.FEARN.streak.logExternal('wanikani');
+      renderStreaks();
+    });
+
+    // -----------------------------------------------------------------
+    // dashboard: module grid (registered cards via FEARN.ui, dormant
+    // slots rendered locally as "coming soon" teasers)
+    // -----------------------------------------------------------------
+    function renderModulesGrid() {
+      var grid = document.getElementById('modules-grid');
+      grid.innerHTML = '';
+      SLOT_CATALOG.forEach(function (slot) {
+        var mod = window.FEARN.getModule(slot.id);
+        if (mod) {
+          window.FEARN.ui.renderModuleCard(grid, mod);
+        } else {
+          var card = document.createElement('button');
+          card.type = 'button';
+          card.className = 'fearn-slot-card';
+          card.setAttribute('data-accent', slot.category);
+          card.innerHTML =
+            '<div class="fearn-slot-card-icon">' + slot.icon + '</div>' +
+            '<div>' +
+            '<div class="fearn-slot-card-name">' + escapeHtml(slot.name) + '</div>' +
+            '<div class="fearn-slot-card-tag">Coming soon</div>' +
+            '</div>';
+          card.addEventListener('click', function () { selectSlot(slot.id); });
+          grid.appendChild(card);
+        }
+      });
+    }
+
+    // -----------------------------------------------------------------
+    // aggregate Journey Mode view
+    // -----------------------------------------------------------------
+    function renderModulesProgressGrid() {
+      var container = document.getElementById('journey-progress-grid');
+      container.innerHTML = '';
+      var mods = window.FEARN.getAllModulesProgress();
+      if (!mods.length) {
+        container.innerHTML = '<div class="fearn-empty-state">No modules registered yet. Once language and skill modules come online, their progress will show up here.</div>';
+        return;
+      }
+      mods.forEach(function (mp) {
+        var card = document.createElement('div');
+        card.className = 'fearn-progress-card fearn-glass--soft';
+        card.innerHTML =
+          '<div class="fearn-progress-icon">' + (mp.icon || '✦') + '</div>' +
+          '<div class="fearn-progress-name">' + escapeHtml(mp.name || mp.id) + '</div>' +
+          '<div class="fearn-progress-value">' + escapeHtml(window.FEARN.ui.summarizeProgress(mp.progress)) + '</div>';
+        container.appendChild(card);
+      });
+    }
+
+    function renderDueQueue() {
+      var container = document.getElementById('journey-due-queue');
+      container.innerHTML = '';
+      var due = window.FEARN.getAllDueReviews();
+      if (!due.length) {
+        container.innerHTML = '<div class="fearn-empty-state">Nothing due today — nice and clear.</div>';
+        return;
+      }
+      var list = document.createElement('ul');
+      list.className = 'fearn-due-list';
+      due.forEach(function (item) {
+        var mod = window.FEARN.getModule(item.moduleId);
+        var li = document.createElement('li');
+        li.className = 'fearn-due-item';
+        li.innerHTML =
+          '<span class="fearn-due-icon">' + (mod && mod.icon ? mod.icon : '📌') + '</span>' +
+          '<span class="fearn-due-name">' + escapeHtml(mod && mod.name ? mod.name : (item.moduleId || 'Unknown module')) + '</span>' +
+          '<span class="fearn-due-item-id">' + escapeHtml(item.itemId) + '</span>' +
+          '<span class="fearn-due-date">due ' + escapeHtml(item.dueDate) + '</span>';
+        list.appendChild(li);
+      });
+      container.innerHTML = '';
+      container.appendChild(list);
+    }
+
+    function buildDiaryEntries() {
+      var entries = [];
+
+      var journey = window.FEARN.journey.getStreak();
+      (journey.history || []).forEach(function (date) {
+        entries.push({ date: date, icon: '🕸️', text: 'Logged FEARN journey activity.' });
+      });
+
+      [['anki', '🗂️', 'Anki'], ['wanikani', '🀄', 'WaniKani']].forEach(function (pair) {
+        var s = window.FEARN.streak.getExternal(pair[0]);
+        (s.history || []).forEach(function (date) {
+          entries.push({ date: date, icon: pair[1], text: 'Logged ' + pair[2] + ' practice.' });
+        });
+      });
+
+      window.FEARN.getAllModulesProgress().forEach(function (mp) {
+        var p = mp.progress;
+        if (p && typeof p === 'object' && Array.isArray(p.history)) {
+          p.history.forEach(function (h) {
+            var date = typeof h === 'string' ? h : (h && h.date);
+            if (!date) return;
+            entries.push({ date: date, icon: mp.icon || '✦', text: 'Practiced ' + (mp.name || mp.id) + '.' });
+          });
+        }
+      });
+
+      entries.sort(function (a, b) { return a.date < b.date ? 1 : (a.date > b.date ? -1 : 0); });
+      return entries;
+    }
+
+    function renderDiary() {
+      var container = document.getElementById('journey-diary-list');
+      var entries = buildDiaryEntries();
+      container.innerHTML = '';
+      if (!entries.length) {
+        container.innerHTML = '<div class="fearn-empty-state">Your journey log will appear here once you start logging activity — try the streak buttons on the dashboard.</div>';
+        return;
+      }
+      var list = document.createElement('div');
+      list.className = 'fearn-diary-list';
+      entries.slice(0, 100).forEach(function (entry) {
+        var row = document.createElement('div');
+        row.className = 'fearn-diary-entry';
+        row.innerHTML =
+          '<span class="fearn-diary-date">' + escapeHtml(entry.date) + '</span>' +
+          '<span class="fearn-diary-icon">' + entry.icon + '</span>' +
+          '<span class="fearn-diary-text">' + escapeHtml(entry.text) + '</span>';
+        list.appendChild(row);
+      });
+      container.appendChild(list);
+    }
+
+    function renderJourneyModeView() {
+      renderModulesProgressGrid();
+      renderDueQueue();
+      renderDiary();
+    }
+
+    document.getElementById('journey-mode-btn').addEventListener('click', function () {
+      renderJourneyModeView();
+      showView('journey');
+      syncHash('journey');
+    });
+    document.getElementById('journey-back-btn').addEventListener('click', function () {
+      showView('dashboard');
+      syncHash('dashboard');
+    });
+
+    // -----------------------------------------------------------------
+    // checkpoint celebration — a light-touch, skippable/mutable "you passed
+    // a checkpoint" moment (FEARN.ui.celebrateCheckpoint, see ui-components.js).
+    //
+    // We can't edit the 18 subject modules directly, so instead of requiring
+    // each one to call the celebration itself, this watches #module-root for
+    // the two real, uniform "checkpoint passed" signals that already exist
+    // in the current code today:
+    //   - all 11 language modules render a `.fearn-lang-checkpoint-result`
+    //     node whose text ends "— Passed!" once a checkpoint is passed.
+    //   - the fitness module sets `.fm-result` to className "fm-result pass"
+    //     on the same (pre-existing) result element when a phase checkpoint
+    //     is passed (an attribute mutation, not a new node).
+    // Chess/morse's checkpoints are self-graded (no pass/fail threshold), so
+    // there's no equivalent "passed" signal to key off there.
+    // -----------------------------------------------------------------
+    (function setUpCheckpointCelebration() {
+      var celebrateBtn = document.getElementById('celebrate-toggle-btn');
+      function syncCelebrateBtn() {
+        var enabled = window.FEARN.storage.get('shell:celebrationsEnabled', true);
+        celebrateBtn.classList.toggle('is-active', enabled);
+        celebrateBtn.title = enabled ? 'Checkpoint celebrations: on (click to mute)' : 'Checkpoint celebrations: off (click to unmute)';
+        celebrateBtn.style.opacity = enabled ? '' : '0.5';
+      }
+      celebrateBtn.addEventListener('click', function () {
+        var enabled = window.FEARN.storage.get('shell:celebrationsEnabled', true);
+        window.FEARN.storage.set('shell:celebrationsEnabled', !enabled);
+        syncCelebrateBtn();
+      });
+      syncCelebrateBtn();
+
+      var moduleRoot = document.getElementById('module-root');
+      if (!moduleRoot || !window.MutationObserver) return;
+
+      function celebrate() {
+        if (window.FEARN.ui && typeof window.FEARN.ui.celebrateCheckpoint === 'function') {
+          window.FEARN.ui.celebrateCheckpoint({ message: 'Checkpoint passed!' });
+        }
+      }
+
+      var observer = new MutationObserver(function (mutations) {
+        mutations.forEach(function (m) {
+          if (m.type === 'childList') {
+            m.addedNodes.forEach(function (node) {
+              if (node.nodeType !== 1) return;
+              var hit = node.classList && node.classList.contains('fearn-lang-checkpoint-result')
+                ? node
+                : node.querySelector && node.querySelector('.fearn-lang-checkpoint-result');
+              if (hit && !hit.hasAttribute('data-fearn-celebrated') && /Passed!/.test(hit.textContent || '')) {
+                hit.setAttribute('data-fearn-celebrated', '1');
+                celebrate();
+              }
+            });
+          } else if (m.type === 'attributes' && m.attributeName === 'class') {
+            var target = m.target;
+            if (target.classList && target.classList.contains('fm-result') && target.classList.contains('pass') && !target.hasAttribute('data-fearn-celebrated')) {
+              target.setAttribute('data-fearn-celebrated', '1');
+              celebrate();
+            }
+          }
+        });
+      });
+      observer.observe(moduleRoot, { childList: true, subtree: true, attributes: true, attributeFilter: ['class'] });
+    })();
+
+    // -----------------------------------------------------------------
+    // 30 FRONDS OMNI-MASTERY SYSTEM & LIQUID-GLASS SPOTLIGHT MODAL
+    // -----------------------------------------------------------------
+    var FRONDS_CATALOG = [
+      { id: 'all', name: 'All 30 Fronds', icon: '✨', category: 'Global' },
+      // 20 Language Fronds
+      { id: 'spanish', name: 'Spanish', icon: '🇪🇸', category: 'Language' },
+      { id: 'japanese', name: 'Japanese', icon: '🇯🇵', category: 'Language' },
+      { id: 'arabic', name: 'Arabic', icon: '🇸🇦', category: 'Language' },
+      { id: 'argentine-spanish', name: 'Argentine Spanish', icon: '🇦🇷', category: 'Language' },
+      { id: 'brazilian-portuguese', name: 'Brazilian Portuguese', icon: '🇧🇷', category: 'Language' },
+      { id: 'german', name: 'German', icon: '🇩🇪', category: 'Language' },
+      { id: 'romanian', name: 'Romanian', icon: '🇷🇴', category: 'Language' },
+      { id: 'vietnamese', name: 'Vietnamese', icon: '🇻🇳', category: 'Language' },
+      { id: 'russian', name: 'Russian', icon: '🇷🇺', category: 'Language' },
+      { id: 'turkish', name: 'Turkish', icon: '🇹🇷', category: 'Language' },
+      { id: 'english', name: 'English', icon: '🇬🇧', category: 'Language' },
+      { id: 'mandarin', name: 'Mandarin', icon: '🇨🇳', category: 'Language' },
+      { id: 'cantonese', name: 'Cantonese', icon: '🇭🇰', category: 'Language' },
+      { id: 'korean', name: 'Korean', icon: '🇰🇷', category: 'Language' },
+      { id: 'french', name: 'French', icon: '🇫🇷', category: 'Language' },
+      { id: 'hindi', name: 'Hindi', icon: '🇮🇳', category: 'Language' },
+      { id: 'urdu', name: 'Urdu', icon: '🇵🇰', category: 'Language' },
+      { id: 'amharic', name: 'Amharic', icon: '🇪🇹', category: 'Language' },
+      { id: 'swahili', name: 'Swahili', icon: '🇰🇪', category: 'Language' },
+      { id: 'ukrainian', name: 'Ukrainian', icon: '🇺🇦', category: 'Language' },
+      // 6 Cognitive Fronds
+      { id: 'chess', name: 'Chess Grandmastery', icon: '♟️', category: 'Cognitive' },
+      { id: 'mentalmath', name: 'Mental Mathematics', icon: '🔢', category: 'Cognitive' },
+      { id: 'morse', name: 'Morse Code Telegraphy', icon: '📻', category: 'Cognitive' },
+      { id: 'scrabble', name: 'Scrabble Lexicon', icon: '🔤', category: 'Cognitive' },
+      { id: 'songwriting', name: 'Songwriting & Prosody', icon: '🎵', category: 'Cognitive' },
+      { id: 'typing', name: 'Speed Touch Typing', icon: '⌨️', category: 'Cognitive' },
+      // 3 University Fronds
+      { id: 'cs110', name: 'CS110: Algorithms', icon: '💻', category: 'University' },
+      { id: 'b110', name: 'B110: Consumer Psych', icon: '📈', category: 'University' },
+      { id: 'b111', name: 'B111: Financial Valuation', icon: '💼', category: 'University' },
+      // 1 Fitness Frond
+      { id: 'fitness', name: 'Physical Conditioning Matrix', icon: '🏋️', category: 'Fitness' }
+    ];
+
+    var _cachedLibraryIndex = null;
+    var _selectedFrond = 'all';
+
+    function buildLibraryIndex() {
+      if (_cachedLibraryIndex) return _cachedLibraryIndex;
+      var entries = [];
+      var seen = {};
+
+      function addEntry(term, def, frondId, frondName, frondIcon, extra) {
+        if (!term) return;
+        var key = (term + '|' + frondId).toLowerCase();
+        if (seen[key]) return;
+        seen[key] = true;
+        entries.push(Object.assign({
+          term: String(term),
+          definition: String(def || ''),
+          frondId: frondId || 'global',
+          frondName: frondName || 'FEARN Global',
+          frondIcon: frondIcon || '📖',
+          pron: '',
+          pos: '',
+          etym: '',
+          ex: '',
+          lt: '',
+          notes: ''
+        }, extra || {}));
+      }
+
+      // 1. Index dedicated global FEARN_DICTIONARY
+      if (window.FEARN_DICTIONARY) {
+        Object.keys(window.FEARN_DICTIONARY).forEach(function (subj) {
+          var dictList = window.FEARN_DICTIONARY[subj] || [];
+          dictList.forEach(function (item) {
+            if (!item) return;
+            addEntry(
+              item.term,
+              item.definition,
+              subj,
+              subj.toUpperCase(),
+              '📚',
+              {
+                pos: item.category || 'Vocabulary',
+                notes: item.level ? 'Mastery Level: ' + item.level : '',
+                etym: item.etymology || ''
+              }
+            );
+          });
+        });
+      }
+
+      // 2. Index Language Transfer Thinking Method tracks
+      if (window.FEARN_OMNI_LEXICON && window.FEARN_OMNI_LEXICON.TRACKS_DATABASE) {
+        var db = window.FEARN_OMNI_LEXICON.TRACKS_DATABASE;
+        Object.keys(db).forEach(function (langKey) {
+          var course = db[langKey];
+          course.tracks.forEach(function (t) {
+            t.examples.forEach(function (ex) {
+              addEntry(
+                ex.target,
+                t.title + ': ' + t.hook,
+                langKey,
+                course.name,
+                '🧠',
+                {
+                  pron: '[' + course.name + ' • Track ' + t.track + ']',
+                  pos: 'Language Transfer Structural Hook',
+                  etym: t.insight,
+                  ex: ex.target + ' — (' + ex.english + ') • ' + ex.note,
+                  lt: 'Thinking Method (' + course.courseName + '): ' + t.hook
+                }
+              );
+            });
+          });
+        });
+      }
+
+      // 3. Deep scan across all 29 curricula
+      if (window.FEARN_CURRICULA) {
+        Object.keys(window.FEARN_CURRICULA).forEach(function (subject) {
+          var curr = window.FEARN_CURRICULA[subject];
+          if (!curr || !curr.lessons) return;
+          var frondInfo = FRONDS_CATALOG.find(function (f) { return f.id === subject; }) || { name: subject.toUpperCase(), icon: '📖' };
+
+          Object.keys(curr.lessons).forEach(function (lid) {
+            var lesson = curr.lessons[lid];
+            if (!lesson) return;
+
+            // Examples
+            if (lesson.presentation && Array.isArray(lesson.presentation.examples)) {
+              lesson.presentation.examples.forEach(function (ex) {
+                if (!ex) return;
+                var term = typeof ex === 'string' ? ex : (ex.target || ex.word);
+                var def = typeof ex === 'string' ? '' : (ex.translation || '');
+                var pron = typeof ex === 'object' ? (ex.reading || '') : '';
+                var notes = (lesson.presentation.culturalNotes && lesson.presentation.culturalNotes[0]) || '';
+                var etym = (lesson.presentation.mnemonics && lesson.presentation.mnemonics[0]) || '';
+                addEntry(term, def, subject, frondInfo.name, frondInfo.icon, {
+                  pron: pron,
+                  notes: notes,
+                  etym: etym,
+                  pos: lesson.level || 'Mastery Term'
+                });
+              });
+            }
+          });
+        });
+      }
+
+      _cachedLibraryIndex = entries;
+      return entries;
+    }
+
+    // Modal Spotlight Viewer
+    function openEntryModal(entry) {
+      var modal = document.getElementById('entry-modal');
+      var backdrop = document.getElementById('entry-modal-backdrop');
+      var title = document.getElementById('entry-modal-title');
+      var frondBadge = document.getElementById('entry-modal-frond');
+      var pron = document.getElementById('entry-modal-pron');
+      var body = document.getElementById('entry-modal-body');
+
+      if (!modal || !backdrop) return;
+
+      title.textContent = entry.term;
+      frondBadge.textContent = entry.frondIcon + ' ' + entry.frondName;
+      pron.textContent = entry.pron ? '🗣️ ' + entry.pron : (entry.pos ? '[' + entry.pos + ']' : '');
+
+      var html = '';
+
+      if (entry.definition) {
+        html += '<div class="fearn-entry-modal-section">' +
+          '<div class="fearn-entry-modal-label">📖 Core Definition & Concept</div>' +
+          '<div class="fearn-entry-modal-box" style="background:rgba(255,255,255,0.04); color:#f8fafc; font-size:1.02rem; font-weight:600;">' + escapeHtml(entry.definition) + '</div>' +
+        '</div>';
+      }
+
+      if (entry.lt) {
+        html += '<div class="fearn-entry-modal-section">' +
+          '<div class="fearn-entry-modal-label" style="color:#a78bfa;">🧠 Language Transfer Cognitive Hook</div>' +
+          '<div class="fearn-entry-modal-box" style="background:rgba(167,139,250,0.1); border-color:rgba(167,139,250,0.3); color:#ddd6fe;">' + escapeHtml(entry.lt) + '</div>' +
+        '</div>';
+      }
+
+      if (entry.ex) {
+        html += '<div class="fearn-entry-modal-section">' +
+          '<div class="fearn-entry-modal-label" style="color:#4ade80;">💬 Contextual Exemplar</div>' +
+          '<div class="fearn-entry-modal-box" style="background:rgba(34,197,94,0.08); border-color:rgba(34,197,94,0.25); color:#bbf7d0;">' + escapeHtml(entry.ex) + '</div>' +
+        '</div>';
+      }
+
+      if (entry.etym) {
+        html += '<div class="fearn-entry-modal-section">' +
+          '<div class="fearn-entry-modal-label" style="color:#fbbf24;">📜 Etymology, Mnemonic & Structural Lineage</div>' +
+          '<div class="fearn-entry-modal-box" style="background:rgba(251,191,36,0.08); border-color:rgba(251,191,36,0.25); color:#fde68a;">' + escapeHtml(entry.etym) + '</div>' +
+        '</div>';
+      }
+
+      if (entry.notes) {
+        html += '<div class="fearn-entry-modal-section">' +
+          '<div class="fearn-entry-modal-label" style="color:#38bdf8;">💡 Cultural & Strategic Mastery Notes</div>' +
+          '<div class="fearn-entry-modal-box" style="background:rgba(56,189,248,0.08); border-color:rgba(56,189,248,0.25); color:#bae6fd;">' + escapeHtml(entry.notes) + '</div>' +
+        '</div>';
+      }
+
+      body.innerHTML = html;
+      modal.classList.add('is-open');
+      backdrop.classList.add('is-open');
+    }
+
+    function closeEntryModal() {
+      var modal = document.getElementById('entry-modal');
+      var backdrop = document.getElementById('entry-modal-backdrop');
+      if (modal) modal.classList.remove('is-open');
+      if (backdrop) backdrop.classList.remove('is-open');
+    }
+
+    // Render Frond Filter Bar
+    function renderFrondBar() {
+      var bar = document.getElementById('library-fronds-bar');
+      if (!bar) return;
+      bar.innerHTML = '';
+
+      FRONDS_CATALOG.forEach(function (frond) {
+        var pill = document.createElement('button');
+        pill.type = 'button';
+        pill.className = 'fearn-frond-pill' + (frond.id === _selectedFrond ? ' is-active' : '');
+        pill.innerHTML = '<span>' + frond.icon + '</span> <span>' + escapeHtml(frond.name) + '</span>';
+        pill.addEventListener('click', function () {
+          _selectedFrond = frond.id;
+          renderFrondBar();
+          var searchInput = document.getElementById('library-search');
+          renderLibraryResults(searchInput ? searchInput.value : '');
+        });
+        bar.appendChild(pill);
+      });
+    }
+
+    function renderLibraryResults(query) {
+      var container = document.getElementById('library-results');
+      if (!container) return;
+      container.innerHTML = '';
+
+      var q = (query || '').trim().toLowerCase();
+      var index = buildLibraryIndex();
+
+      // Filter by selected Frond
+      var filtered = index;
+      if (_selectedFrond !== 'all') {
+        filtered = filtered.filter(function (e) {
+          return e.frondId === _selectedFrond || e.frondName.toLowerCase().indexOf(_selectedFrond) !== -1;
+        });
+      }
+
+      // Filter by query
+      if (q) {
+        filtered = filtered.filter(function (e) {
+          return (e.term && e.term.toLowerCase().indexOf(q) !== -1) ||
+                 (e.definition && e.definition.toLowerCase().indexOf(q) !== -1) ||
+                 (e.lt && e.lt.toLowerCase().indexOf(q) !== -1) ||
+                 (e.etym && e.etym.toLowerCase().indexOf(q) !== -1);
+        });
+      }
+
+      var currentFrondObj = FRONDS_CATALOG.find(function (f) { return f.id === _selectedFrond; }) || FRONDS_CATALOG[0];
+
+      var headerStats = document.createElement('div');
+      headerStats.style.padding = '8px 12px';
+      headerStats.style.marginBottom = '12px';
+      headerStats.style.borderRadius = '8px';
+      headerStats.style.background = 'rgba(56,189,248,0.1)';
+      headerStats.style.border = '1px solid rgba(56,189,248,0.25)';
+      headerStats.style.color = '#38bdf8';
+      headerStats.style.fontSize = '0.82rem';
+      headerStats.style.fontWeight = '700';
+      headerStats.innerHTML = currentFrondObj.icon + ' ' + currentFrondObj.name + ' • ' + filtered.length.toLocaleString() + ' Verified Entries (Click any card for full liquid-glass dossier)';
+      container.appendChild(headerStats);
+
+      if (!filtered.length) {
+        var empty = document.createElement('div');
+        empty.className = 'fearn-empty-state';
+        empty.innerHTML = q ? 'No entries found matching "' + escapeHtml(query) + '" in ' + currentFrondObj.name + '.' : 'Select a Frond above or search any keyword, root, or grammar concept.';
+        container.appendChild(empty);
+        return;
+      }
+
+      filtered.slice(0, 100).forEach(function (entry) {
+        var card = document.createElement('div');
+        card.className = 'fearn-library-card';
+
+        var cardHtml = '<div class="fearn-library-card-header">' +
+          '<div class="fearn-library-card-term">' + escapeHtml(entry.term) + '</div>' +
+          '<div class="fearn-library-card-frond">' + entry.frondIcon + ' ' + escapeHtml(entry.frondName) + '</div>' +
+        '</div>';
+
+        if (entry.pron) {
+          cardHtml += '<div class="fearn-library-card-pron">🗣️ ' + escapeHtml(entry.pron) + '</div>';
+        }
+
+        if (entry.definition) {
+          cardHtml += '<div class="fearn-library-card-def">' + escapeHtml(entry.definition) + '</div>';
+        }
+
+        card.innerHTML = cardHtml;
+        card.addEventListener('click', function () {
+          openEntryModal(entry);
+        });
+        container.appendChild(card);
+      });
+    }
+
+    var libraryPanel = document.getElementById('library-panel');
+    var libraryBackdrop = document.getElementById('library-backdrop');
+    var librarySearch = document.getElementById('library-search');
+
+    function openLibrary() {
+      if (libraryPanel) libraryPanel.classList.add('is-open');
+      if (libraryBackdrop) libraryBackdrop.classList.add('is-open');
+      renderFrondBar();
+      renderLibraryResults(librarySearch ? librarySearch.value : '');
+      if (librarySearch) librarySearch.focus();
+    }
+    function closeLibrary() {
+      if (libraryPanel) libraryPanel.classList.remove('is-open');
+      if (libraryBackdrop) libraryBackdrop.classList.remove('is-open');
+    }
+
+    var libBtn = document.getElementById('library-btn');
+    if (libBtn) libBtn.addEventListener('click', openLibrary);
+    var libCloseBtn = document.getElementById('library-close-btn');
+    if (libCloseBtn) libCloseBtn.addEventListener('click', closeLibrary);
+    if (libraryBackdrop) libraryBackdrop.addEventListener('click', closeLibrary);
+
+    var modalCloseBtn = document.getElementById('entry-modal-close');
+    if (modalCloseBtn) modalCloseBtn.addEventListener('click', closeEntryModal);
+    var modalBackdrop = document.getElementById('entry-modal-backdrop');
+    if (modalBackdrop) modalBackdrop.addEventListener('click', closeEntryModal);
+
+    document.addEventListener('keydown', function (evt) {
+      if (evt.key === 'Escape') {
+        closeEntryModal();
+        closeLibrary();
+      }
+    });
+
+    if (librarySearch) {
+      librarySearch.addEventListener('input', debounce(function () {
+        renderLibraryResults(librarySearch.value);
+      }, 150));
+    }
+
+    
+    // -----------------------------------------------------------------
+    // Daily Journal & Telemetry Dossier Modal Controller
+    // -----------------------------------------------------------------
+    var dossierPanel = document.getElementById('dossier-panel');
+    var dossierBackdrop = document.getElementById('dossier-backdrop');
+    var dossierBody = document.getElementById('dossier-body');
+    var dossierSummaryBar = document.getElementById('dossier-summary-bar');
+
+    function renderDossier() {
+      if (!window.FEARN.telemetry) return;
+      var today = localDateStr(new Date());
+      var summary = window.FEARN.telemetry.getDailySummary(today);
+      var events = summary.events || [];
+
+      dossierSummaryBar.innerHTML =
+        '<div class="fearn-dossier-stat">📅 Date: <b>' + escapeHtml(today) + '</b></div>' +
+        '<div class="fearn-dossier-stat">⚡ Total Events: <b>' + events.length + '</b></div>' +
+        '<div class="fearn-dossier-stat">🎯 Modules: <b>' + summary.modulesTouched.length + '</b></div>';
+
+      dossierBody.innerHTML = '';
+      if (!events.length) {
+        dossierBody.innerHTML = '<div class="fearn-empty-state">No activities logged yet today. Practice in any module, log a set, or run an Apex Stride session to see high-precision telemetry recorded here!</div>';
+        return;
+      }
+
+      events.slice().reverse().forEach(function (ev) {
+        var card = document.createElement('div');
+        card.className = 'fearn-dossier-event-card';
+
+        var nanoFraction = ev.highResFractionMs ? (ev.highResFractionMs.toFixed(6).slice(2)) : '000000';
+        var timeLabel = ev.localTime + '.' + nanoFraction + 's';
+
+        card.innerHTML =
+          '<div class="fearn-dossier-event-top">' +
+          '<div class="fearn-dossier-event-title">' + escapeHtml(ev.details || ev.action) + '</div>' +
+          '<div class="fearn-dossier-timestamp">' + escapeHtml(timeLabel) + '</div>' +
+          '</div>' +
+          (ev.why ? '<div class="fearn-dossier-why-how"><b>Why:</b> ' + escapeHtml(ev.why) + '</div>' : '') +
+          (ev.how ? '<div class="fearn-dossier-why-how"><b>How:</b> ' + escapeHtml(ev.how) + '</div>' : '') +
+          (ev.locationMode ? '<div class="fearn-dossier-metadata">Mode: ' + escapeHtml(ev.locationMode) + ' · Module: ' + escapeHtml(ev.moduleId) + '</div>' : '');
+
+        dossierBody.appendChild(card);
+      });
+    }
+
+    function openDossier() {
+      dossierPanel.classList.add('is-open');
+      dossierBackdrop.classList.add('is-open');
+      renderDossier();
+    }
+    function closeDossier() {
+      dossierPanel.classList.remove('is-open');
+      dossierBackdrop.classList.remove('is-open');
+    }
+
+    document.getElementById('telemetry-dossier-btn').addEventListener('click', openDossier);
+    document.getElementById('dossier-close-btn').addEventListener('click', closeDossier);
+    dossierBackdrop.addEventListener('click', closeDossier);
+
+    document.getElementById('dossier-print-btn').addEventListener('click', function () {
+      window.print();
+    });
+
+    document.getElementById('dossier-export-json-btn').addEventListener('click', function () {
+      if (!window.FEARN.telemetry) return;
+      var dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(window.FEARN.telemetry.exportJSON());
+      var dlAnchor = document.createElement('a');
+      dlAnchor.setAttribute("href", dataStr);
+      dlAnchor.setAttribute("download", "FEARN_Telemetry_Dossier_" + localDateStr(new Date()) + ".json");
+      document.body.appendChild(dlAnchor);
+      dlAnchor.click();
+      dlAnchor.remove();
+    });
+
+    // -----------------------------------------------------------------
+    // greeting
+    // -----------------------------------------------------------------
+    function renderGreeting() {
+      var hour = new Date().getHours();
+      var word = hour < 12 ? 'Good morning' : hour < 18 ? 'Good afternoon' : 'Good evening';
+      document.getElementById('greeting-heading').textContent = word + ', learner';
+    }
+
+    // -----------------------------------------------------------------
+    // init
+    // -----------------------------------------------------------------
+    
+    // -----------------------------------------------------------------
+    // Flame Calendar & Streak History Controller
+    // -----------------------------------------------------------------
+    var calViewYear = new Date().getFullYear();
+    var calViewMonth = new Date().getMonth();
+
+    function getFlameTier(streakDays) {
+      if (streakDays === 0) return '🌑 Extinguished';
+      if (streakDays <= 3) return '🕯️ Candle Spark';
+      if (streakDays <= 7) return '🔥 Kindled Flame';
+      if (streakDays <= 20) return '🪵 Raging Hearth';
+      if (streakDays <= 50) return '✨ Astral Beacon';
+      return '🌟 Supernova Blaze';
+    }
+
+    function renderFlameCalendar() {
+      var journey = (window.FEARN && window.FEARN.journey && window.FEARN.journey.getStreak()) || { current: 0, best: 0, history: [] };
+      var activeDays = journey.history || [];
+      var activeSet = new Set(activeDays);
+
+      var curEl = document.getElementById('cal-stat-current');
+      if (curEl) curEl.innerHTML = journey.current + ' <span style="font-size:0.9rem">days</span>';
+      
+      var bestEl = document.getElementById('cal-stat-best');
+      if (bestEl) bestEl.innerHTML = journey.best + ' <span style="font-size:0.9rem">days</span>';
+      
+      var tierEl = document.getElementById('cal-stat-tier');
+      if (tierEl) tierEl.textContent = getFlameTier(journey.current);
+
+      var monthNames = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+      var labelEl = document.getElementById('cal-current-month-label');
+      if (labelEl) labelEl.textContent = monthNames[calViewMonth] + ' ' + calViewYear;
+
+      var container = document.getElementById('fearn-calendar-grid-cells');
+      if (!container) return;
+      container.innerHTML = '';
+
+      var firstDay = new Date(calViewYear, calViewMonth, 1).getDay();
+      var daysInMonth = new Date(calViewYear, calViewMonth + 1, 0).getDate();
+      var today = localDateStr(new Date());
+
+      for (var b = 0; b < firstDay; b++) {
+        var blank = document.createElement('div');
+        blank.className = 'fearn-calendar-cell empty';
+        container.appendChild(blank);
+      }
+
+      for (var d = 1; d <= daysInMonth; d++) {
+        var cell = document.createElement('div');
+        cell.className = 'fearn-calendar-cell';
+        var mStr = String(calViewMonth + 1).padStart(2, '0');
+        var dStr = String(d).padStart(2, '0');
+        var dateKey = calViewYear + '-' + mStr + '-' + dStr;
+
+        var isIgnited = activeSet.has(dateKey);
+        var isToday = (dateKey === today);
+
+        if (isIgnited) {
+          cell.classList.add('ignited');
+          cell.innerHTML = '<span>' + d + '</span><span class="flame-icon">🔥</span>';
+          cell.title = 'Ignited: Active scholarship logged on ' + dateKey;
+        } else {
+          cell.classList.add('naked');
+          cell.innerHTML = '<span>' + d + '</span>';
+          cell.title = 'Naked Rest Day (' + dateKey + ')';
+        }
+
+        if (isToday) {
+          cell.classList.add('today');
+        }
+
+        container.appendChild(cell);
+      }
+    }
+
+    function openFlameCalendarModal() {
+      calViewYear = new Date().getFullYear();
+      calViewMonth = new Date().getMonth();
+      renderFlameCalendar();
+      var m = document.getElementById('fearn-streak-calendar-modal');
+      if (m) m.classList.remove('fearn-hidden');
+    }
+
+    function closeFlameCalendarModal() {
+      var m = document.getElementById('fearn-streak-calendar-modal');
+      if (m) m.classList.add('fearn-hidden');
+    }
+
+    function setupStreakCalendarEvents() {
+      var cards = document.querySelectorAll('.fearn-streak-card');
+      cards.forEach(function (c) {
+        c.style.cursor = 'pointer';
+        c.addEventListener('click', openFlameCalendarModal);
+      });
+
+      var calOpenBtn = document.getElementById('open-calendar-btn');
+      if (calOpenBtn) calOpenBtn.addEventListener('click', openFlameCalendarModal);
+
+      var closeBtn = document.getElementById('close-calendar-modal-btn');
+      if (closeBtn) closeBtn.addEventListener('click', closeFlameCalendarModal);
+
+      var modalBackdrop = document.getElementById('fearn-streak-calendar-modal');
+      if (modalBackdrop) {
+        modalBackdrop.addEventListener('click', function (e) {
+          if (e.target === this) closeFlameCalendarModal();
+        });
+      }
+
+      var prevBtn = document.getElementById('cal-prev-month-btn');
+      if (prevBtn) {
+        prevBtn.addEventListener('click', function () {
+          calViewMonth--;
+          if (calViewMonth < 0) {
+            calViewMonth = 11;
+            calViewYear--;
+          }
+          renderFlameCalendar();
+        });
+      }
+
+      var nextBtn = document.getElementById('cal-next-month-btn');
+      if (nextBtn) {
+        nextBtn.addEventListener('click', function () {
+          calViewMonth++;
+          if (calViewMonth > 11) {
+            calViewMonth = 0;
+            calViewYear++;
+          }
+          renderFlameCalendar();
+        });
+      }
+    }
+
+    function init() {
+      setupStreakCalendarEvents();
+      var resetBtn = document.getElementById('fearn-open-archive-reset-btn');
+      if (resetBtn) {
+        resetBtn.addEventListener('click', function () {
+          if (typeof window.openSafeVaultResetDialog === 'function') {
+            window.openSafeVaultResetDialog();
+          }
+        });
+      }
+
+      buildNav();
+      renderGreeting();
+      renderStreaks();
+      renderModulesGrid();
+
+      computeWebLines();
+      requestAnimationFrame(computeWebLines);
+      window.addEventListener('load', computeWebLines);
+      window.addEventListener('resize', debounce(computeWebLines, 150));
+      if (window.ResizeObserver) {
+        new ResizeObserver(debounce(computeWebLines, 100)).observe(document.getElementById('web-nav'));
+      }
+
+      // Restore whichever module/journey view the URL hash points at (e.g. a
+      // refresh, or a shared/bookmarked link) — falls back to the dashboard.
+      if (!restoreFromHash()) {
+        showView('dashboard');
+      }
+      window.addEventListener('hashchange', function () {
+        if (!restoreFromHash()) {
+          showView('dashboard');
+          highlightWebPathTo(null);
+        }
+      });
+    }
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', init);
+    } else {
+      init();
+    }
+  })();
+  
+  </script>
+
+  <script>
+  (function () {
+    'use strict';
+    // Safe Two-Step Vault Reset Modal with Quadrilateral Confirmation Buttons
+    window.openSafeVaultResetDialog = function () {
+      var overlay = document.createElement('div');
+      overlay.className = 'fearn-confirm-modal-overlay';
+      overlay.id = 'fearn-vault-reset-modal';
+
+      function renderStep1() {
+        overlay.innerHTML = `
+          <div class="fearn-confirm-dialog-card">
+            <h3 class="fearn-confirm-dialog-title">⚠️ Reset Knowledge Vault?</h3>
+            <p class="fearn-confirm-dialog-body">
+              Are you sure you want to reset your vault data? This will initiate the purge sequence for your local learning progress.
+            </p>
+            <div class="fearn-confirm-btn-group">
+              <button class="fearn-btn-yes-red" id="reset-step1-yes" type="button">Yes, Proceed</button>
+              <button class="fearn-btn-no-green" id="reset-step1-no" type="button">No, Keep Progress</button>
+            </div>
+          </div>
+        `;
+        document.body.appendChild(overlay);
+
+        document.getElementById('reset-step1-no').onclick = function () {
+          if (overlay.parentNode) overlay.parentNode.removeChild(overlay);
+        };
+
+        document.getElementById('reset-step1-yes').onclick = function () {
+          renderStep2();
+        };
+      }
+
+      function renderStep2() {
+        overlay.innerHTML = `
+          <div class="fearn-confirm-dialog-card">
+            <h3 class="fearn-confirm-dialog-title">🔥 Confirm Permanent Deletion</h3>
+            <p class="fearn-confirm-dialog-body">
+              Review what will be permanently deleted before proceeding:
+            </p>
+            <div class="fearn-reset-details-box">
+              <div class="fearn-reset-details-title">Data Scheduled for Purge:</div>
+              <ul class="fearn-reset-list">
+                <li>🔥 <strong>Streak Records</strong>: Current & best daily streak counters and activity heatmaps.</li>
+                <li>🧠 <strong>Spaced Repetition (SRS)</strong>: All memory interval schedules and review queues.</li>
+                <li>🏆 <strong>Curriculum Mastery</strong>: Progress and checkpoint scores across all 3,740 lessons.</li>
+                <li>🏋️ <strong>Fitness & Health Logs</strong>: Periodized training history and location-mode presets.</li>
+                <li>⚙️ <strong>Vault Storage & Cache</strong>: All local preferences, journal telemetry, and ledger caches.</li>
+              </ul>
+              <div class="fearn-reset-warning-note">⚠️ This operation is irreversible. Your application will reload with a fresh slate.</div>
+            </div>
+            <div class="fearn-confirm-btn-group">
+              <button class="fearn-btn-yes-red" id="reset-step2-yes" type="button">Yes, Permanently Delete</button>
+              <button class="fearn-btn-no-green" id="reset-step2-no" type="button">No, Cancel</button>
+            </div>
+          </div>
+        `;
+
+        document.getElementById('reset-step2-no').onclick = function () {
+          if (overlay.parentNode) overlay.parentNode.removeChild(overlay);
+        };
+
+        document.getElementById('reset-step2-yes').onclick = function () {
+          try {
+            localStorage.clear();
+            sessionStorage.clear();
+          } catch (e) {}
+          overlay.innerHTML = `
+            <div class="fearn-confirm-dialog-card">
+              <h3 class="fearn-confirm-dialog-title" style="color: #22c55e;">✓ Vault Purged</h3>
+              <p class="fearn-confirm-dialog-body">All records successfully reset. Reloading FEARN...</p>
+            </div>
+          `;
+          setTimeout(function () {
+            window.location.reload();
+          }, 800);
+        };
+      }
+
+      renderStep1();
+    };
+  })();
+  </script>
+
+
+
+<script>
+
+  // -----------------------------------------------------------------
+  // Scattered Galaxy Emoji Loading Screen Controller
+  // -----------------------------------------------------------------
+  (function initEmojiGalaxy() {
+    var galaxyContainer = document.getElementById('fearn-loading-galaxy');
+    if (!galaxyContainer) return;
+
+    var EMOJIS = [
+      '🧠', '📚', '🌍', '⚡', '🏆', '🎯', '🚀', '💡', '🧩', '✍️',
+      '📖', '🔬', '🪐', '🎨', '⚔️', '🏛️', '🗺️', '🗝️', '📜', '🛡️',
+      '🌟', '✨', '🔥', '💎', '🏅', '🎓', '🔮', '🔭', '♟️', '🎼',
+      '🎲', '🏋️', '🧘', '🌐', '💻', '🖋️', '🌿', '🦁', '🦉', '🌙'
+    ];
+
+    galaxyContainer.innerHTML = '';
+    var TOTAL_EMOJIS = 96; // 80-100 random emojis scattered across entire viewport
+
+    for (var i = 0; i < TOTAL_EMOJIS; i++) {
+      var span = document.createElement('span');
+      span.className = 'fearn-galaxy-emoji';
+      
+      // Random emoji
+      span.textContent = EMOJIS[Math.floor(Math.random() * EMOJIS.length)];
+
+      // Sizing constraint: Exactly half size (1.1rem) or twice size (4.4rem)
+      var isDouble = (Math.random() > 0.5);
+      span.classList.add(isDouble ? 'size-double' : 'size-half');
+
+      // Random scattered viewport coordinates (0 to 95vw/vh)
+      var posX = (Math.random() * 95).toFixed(2);
+      var posY = (Math.random() * 95).toFixed(2);
+      span.style.left = posX + 'vw';
+      span.style.top = posY + 'vh';
+
+      // Random opacity, rotation, and animation phase
+      span.style.opacity = (0.2 + Math.random() * 0.45).toFixed(2);
+      span.style.animationDelay = (Math.random() * 3).toFixed(2) + 's';
+      span.style.animationDuration = (3 + Math.random() * 4).toFixed(2) + 's';
+
+      galaxyContainer.appendChild(span);
+    }
+
+    // Dismiss loading overlay once app ready with smooth fade and safety fallback
+    function dismissLoading() {
+      var overlay = document.getElementById('fearn-loading-overlay');
+      if (overlay && !overlay.classList.contains('fearn-loaded')) {
+        overlay.classList.add('fearn-loaded');
+        setTimeout(function () {
+          overlay.style.display = 'none';
+        }, 650);
+      }
+    }
+
+    if (document.readyState === 'complete') {
+      setTimeout(dismissLoading, 700);
+    } else {
+      window.addEventListener('load', function () {
+        setTimeout(dismissLoading, 700);
+      });
+      // Fallback timer in case load event was already triggered or delayed by network
+      setTimeout(dismissLoading, 2200);
+    }
+  })();
+
+</script>
+
+  <!-- PWA Offline Service Worker Registration -->
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', function () {
+        navigator.serviceWorker.register('./sw.js')
+          .then(function (reg) {
+            console.log('[FEARN PWA] Offline Service Worker active. All 3,740 lessons ready for Airplane Mode.');
+          })
+          .catch(function (err) {
+            console.warn('[FEARN PWA] Service worker registration note:', err);
+          });
+      });
+    }
+  </script>
+
+  <!-- ================= FLIGHT SUITE CONTROLLER ================= -->
+  <script src="./focus-noise.js"></script>
+  <script>
+  (function initFlightSuite() {
+    'use strict';
+
+    // 0. FEARN Adaptive 5-Theme Environment Engine (window.FEARN_ENV)
+    var THEMES = [
+      { id: 'dark', name: 'Dark', icon: '🌌' },
+      { id: 'cabin', name: 'Night Flight', icon: '✈️' },
+      { id: 'solar', name: 'Daylight', icon: '☀️' },
+      { id: 'sepia', name: 'Sepia', icon: '🌘' },
+      { id: 'colorblind', name: 'High Contrast', icon: '👁️' }
+    ];
+
+    var STORAGE_KEY = 'fearn:env_theme';
+
+    function applyEnv(themeId) {
+      var found = THEMES.find(function (t) { return t.id === themeId; }) || THEMES[0];
+      THEMES.forEach(function (t) {
+        document.body.classList.remove('env-' + t.id);
+      });
+      document.body.classList.add('env-' + found.id);
+      document.body.setAttribute('data-env', found.id);
+      if (found.id === 'solar') {
+        document.body.setAttribute('data-theme', 'light');
+      } else {
+        document.body.removeAttribute('data-theme');
+      }
+      try {
+        localStorage.setItem(STORAGE_KEY, found.id);
+      } catch (e) {}
+
+      var btn = document.getElementById('fearn-env-toggle');
+      if (btn) {
+        btn.innerHTML = found.icon + ' <span>' + found.name + '</span>';
+        btn.title = 'Switch Theme (Alt+T) — Current: ' + found.name;
+      }
+    }
+
+    function getSavedEnv() {
+      try {
+        return localStorage.getItem(STORAGE_KEY) || 'dark';
+      } catch (e) {
+        return 'dark';
+      }
+    }
+
+    function cycleEnv() {
+      var current = getSavedEnv();
+      var idx = THEMES.findIndex(function (t) { return t.id === current; });
+      var nextIdx = (idx + 1) % THEMES.length;
+      applyEnv(THEMES[nextIdx].id);
+    }
+
+    window.FEARN_ENV = {
+      cycleEnv: cycleEnv,
+      setEnv: applyEnv,
+      getCurrent: getSavedEnv,
+      themes: THEMES
+    };
+
+    applyEnv(getSavedEnv());
+
+    // 1. Live PWA Offline Status Badge Controller
+    function updateOnlineBadge() {
+      var badge = document.getElementById('fearn-pwa-badge');
+      if (!badge) return;
+      var isOffline = !navigator.onLine;
+      if (isOffline) {
+        badge.className = 'fearn-status-pill offline-active';
+        badge.innerHTML = '<span class="fearn-status-dot"></span> ✈️ Flight Mode (Offline Ready)';
+      } else {
+        badge.className = 'fearn-status-pill';
+        badge.innerHTML = '<span class="fearn-status-dot"></span> 🟢 Offline Ready · 104 Assets Cached';
+      }
+    }
+    window.addEventListener('online', updateOnlineBadge);
+    window.addEventListener('offline', updateOnlineBadge);
+    setTimeout(updateOnlineBadge, 500);
+
+    // 2. Focus Cabin Noise Canceller Controller
+    window.toggleCabinNoise = function () {
+      if (!window.FEARN || !window.FEARN.focus) return;
+      var btn = document.getElementById('fearn-cabin-noise-btn');
+      var isPlaying = window.FEARN.focus.toggle('brown');
+      if (btn) {
+        if (isPlaying) {
+          btn.classList.add('playing');
+          btn.innerHTML = '🔊 Cabin Blocker (Active)';
+        } else {
+          btn.classList.remove('playing');
+          btn.innerHTML = '🎧 Cabin Blocker (Brown Noise)';
+        }
+      }
+    };
+
+    // 3. Audio Speech Rate Controller
+    window.setSpeechSpeed = function (rate) {
+      if (window.FEARN && window.FEARN.audio) {
+        window.FEARN.audio.setRate(rate);
+        var btns = document.querySelectorAll('.fearn-rate-btn');
+        btns.forEach(function (b) {
+          b.classList.toggle('active', parseFloat(b.getAttribute('data-rate')) === rate);
+        });
+      }
+    };
+
+    // 4. Vault Export & Import (Cross-Device Sync Without Cloud)
+    window.exportVaultData = function () {
+      var data = {};
+      for (var i = 0; i < localStorage.length; i++) {
+        var key = localStorage.key(i);
+        data[key] = localStorage.getItem(key);
+      }
+      var jsonStr = JSON.stringify(data, null, 2);
+      var blob = new Blob([jsonStr], { type: 'application/json' });
+      var url = URL.createObjectURL(blob);
+      var a = document.createElement('a');
+      var dateStr = new Date().toISOString().slice(0, 10);
+      a.href = url;
+      a.download = 'fearn-vault-backup-' + dateStr + '.json';
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+      URL.revokeObjectURL(url);
+      if (window.FEARN && window.FEARN.ui && typeof window.FEARN.ui.celebrateCheckpoint === 'function') {
+        window.FEARN.ui.celebrateCheckpoint({ message: '📥 Vault Backup exported successfully!' });
+      } else {
+        alert('Vault backup exported successfully!');
+      }
+    };
+
+    window.triggerVaultImport = function () {
+      var inp = document.getElementById('fearn-vault-file-input');
+      if (inp) inp.click();
+    };
+
+    window.handleVaultFile = function (event) {
+      var file = event.target.files && event.target.files[0];
+      if (!file) return;
+      var reader = new FileReader();
+      reader.onload = function (e) {
+        try {
+          var imported = JSON.parse(e.target.result);
+          if (typeof imported === 'object' && imported !== null) {
+            Object.keys(imported).forEach(function (k) {
+              localStorage.setItem(k, imported[k]);
+            });
+            alert('Vault successfully restored! Reloading application with your learning progress...');
+            window.location.reload();
+          } else {
+            alert('Invalid backup file format.');
+          }
+        } catch (err) {
+          alert('Error restoring backup file: ' + err.message);
+        }
+      };
+      reader.readAsText(file);
+    };
+
+    // 5. Global Keyboard Shortcuts (Alt+T, Alt+J, Alt+L, Alt+D, 1-4 for MC, Enter for Next/Submit, Esc for Modals)
+    window.addEventListener('keydown', function (e) {
+      if (e.altKey && (e.key === 't' || e.key === 'T')) {
+        e.preventDefault();
+        cycleEnv();
+        return;
+      }
+      if (e.altKey && (e.key === 'j' || e.key === 'J')) {
+        e.preventDefault();
+        var jBtn = document.getElementById('journey-mode-btn');
+        if (jBtn) jBtn.click();
+        return;
+      }
+      if (e.altKey && (e.key === 'l' || e.key === 'L')) {
+        e.preventDefault();
+        var lBtn = document.getElementById('library-btn');
+        if (lBtn) lBtn.click();
+        return;
+      }
+      if (e.altKey && (e.key === 'd' || e.key === 'D')) {
+        e.preventDefault();
+        var hBtn = document.getElementById('fearn-home-btn') || document.getElementById('fearn-brand-home');
+        if (hBtn) hBtn.click();
+        return;
+      }
+
+      var tag = (e.target && e.target.tagName) || '';
+      var isInput = (tag === 'INPUT' || tag === 'TEXTAREA');
+
+      if (e.key === 'Escape') {
+        var modal = document.querySelector('.fearn-confirm-modal-overlay, .fearn-modal-overlay, #fearn-vault-reset-modal');
+        if (modal && modal.parentNode) modal.parentNode.removeChild(modal);
+        var calModal = document.getElementById('fearn-streak-calendar-modal');
+        if (calModal) calModal.style.display = 'none';
+        var lib = document.getElementById('library-panel');
+        var libBackdrop = document.getElementById('library-backdrop');
+        if (lib) lib.classList.remove('fearn-panel--open');
+        if (libBackdrop) libBackdrop.classList.remove('fearn-backdrop--open');
+        var entryModal = document.getElementById('entry-modal');
+        var entryBackdrop = document.getElementById('entry-modal-backdrop');
+        if (entryModal) entryModal.classList.remove('fearn-modal--open');
+        if (entryBackdrop) entryBackdrop.classList.remove('fearn-backdrop--open');
+        return;
+      }
+
+      if (isInput) {
+        if (e.key === 'Enter') {
+          var submitBtn = document.querySelector('.fearn-lang-btn-primary, .fearn-btn-primary');
+          if (submitBtn) submitBtn.click();
+        }
+        return;
+      }
+
+      if (['1', '2', '3', '4'].indexOf(e.key) !== -1) {
+        var optIdx = parseInt(e.key, 10) - 1;
+        var optBtns = document.querySelectorAll('.fearn-lang-option-btn, .fearn-mc-btn');
+        if (optBtns && optBtns[optIdx]) {
+          optBtns[optIdx].click();
+        }
+      }
+
+      if (e.key === 'Enter' || e.key === ' ') {
+        var primaryBtn = document.querySelector('.fearn-lang-btn-primary, .fearn-btn-primary');
+        if (primaryBtn) {
+          e.preventDefault();
+          primaryBtn.click();
+        }
+      }
+    });
+
+  })();
+  </script>
+
+
+  
+  <!-- ================= FEARN COMMAND CENTER & 3D SRS FLASHCARD DECK ================= -->
+  <script>
+  (function initFearnMasterSuite() {
+    'use strict';
+
+    var ALL_MODULES = [
+      { id: 'lang-spanish', name: 'Spanish', icon: '🇪🇸', cat: 'Language', level: 'C2 Native' },
+      { id: 'lang-japanese', name: 'Japanese', icon: '🇯🇵', cat: 'Language', level: 'N1 Advanced' },
+      { id: 'lang-swahili', name: 'Swahili', icon: '🇰🇪', cat: 'Language', level: 'C2 Native' },
+      { id: 'lang-french', name: 'French', icon: '🇫🇷', cat: 'Language', level: 'C2 Native' },
+      { id: 'lang-german', name: 'German', icon: '🇩🇪', cat: 'Language', level: 'C2 Native' },
+      { id: 'lang-mandarin', name: 'Mandarin', icon: '🇨🇳', cat: 'Language', level: 'HSK 6' },
+      { id: 'lang-cantonese', name: 'Cantonese', icon: '🇭🇰', cat: 'Language', level: 'C2 Native' },
+      { id: 'lang-korean', name: 'Korean', icon: '🇰🇷', cat: 'Language', level: 'TOPIK VI' },
+      { id: 'lang-hindi', name: 'Hindi', icon: '🇮🇳', cat: 'Language', level: 'C2 Native' },
+      { id: 'lang-urdu', name: 'Urdu', icon: '🇵🇰', cat: 'Language', level: 'C2 Native' },
+      { id: 'lang-arabic', name: 'Arabic', icon: '🇦🇪', cat: 'Language', level: 'C2 Native' },
+      { id: 'lang-russian', name: 'Russian', icon: '🇷🇺', cat: 'Language', level: 'TRKI-4' },
+      { id: 'lang-ukrainian', name: 'Ukrainian', icon: '🇺🇦', cat: 'Language', level: 'C2 Native' },
+      { id: 'lang-amharic', name: 'Amharic', icon: '🇪🇹', cat: 'Language', level: 'C2 Native' },
+      { id: 'lang-turkish', name: 'Turkish', icon: '🇹🇷', cat: 'Language', level: 'C2 Native' },
+      { id: 'lang-vietnamese', name: 'Vietnamese', icon: '🇻🇳', cat: 'Language', level: 'C2 Native' },
+      { id: 'lang-romanian', name: 'Romanian', icon: '🇷🇴', cat: 'Language', level: 'C2 Native' },
+      { id: 'lang-english', name: 'English C2', icon: '🇬🇧', cat: 'Language', level: 'C2 Native' },
+      { id: 'lang-brazilian-portuguese', name: 'Brazilian Portuguese', icon: '🇧🇷', cat: 'Language', level: 'Celpe-Bras' },
+      { id: 'lang-argentine-spanish', name: 'Argentine Spanish', icon: '🇦🇷', cat: 'Language', level: 'C2 Rioplatense' },
+      { id: 'skill-chess', name: 'Chess Tactics & Strategy', icon: '♟️', cat: 'Cognitive Skill', level: '2200 Elo' },
+      { id: 'skill-morse', name: 'Morse Code High-Speed', icon: '📻', cat: 'Cognitive Skill', level: '35 WPM' },
+      { id: 'skill-typing', name: 'Touch Typing Mastery', icon: '⌨️', cat: 'Cognitive Skill', level: '140 WPM' },
+      { id: 'skill-mentalmath', name: 'Mental Math Calculation', icon: '🧮', cat: 'Cognitive Skill', level: 'Grandmaster' },
+      { id: 'skill-scrabble', name: 'Tournament Scrabble', icon: '🔠', cat: 'Cognitive Skill', level: 'Expert' },
+      { id: 'skill-songwriting', name: 'Songwriting & Prosody', icon: '🎼', cat: 'Cognitive Skill', level: 'Advanced' },
+      { id: 'course-cs110', name: 'CS110: Advanced Algorithms', icon: '💻', cat: 'University', level: 'Stanford Core' },
+      { id: 'course-b110', name: 'B110: Strategic Marketing', icon: '📊', cat: 'University', level: 'Graduate' },
+      { id: 'course-b111', name: 'B111: Financial Valuation', icon: '📈', cat: 'University', level: 'Wall Street' },
+      { id: 'fitness-hub', name: 'Biomechanics Fitness Hub', icon: '🏋️', cat: 'Fitness', level: '14 Tracks' }
+    ];
+
+    // ================= 1. GLOBAL COMMAND CENTER (Ctrl+K) =================
+    window.openCommandPalette = function () {
+      var existing = document.getElementById('fearn-command-palette');
+      if (existing) { existing.remove(); return; }
+
+      var overlay = document.createElement('div');
+      overlay.id = 'fearn-command-palette';
+      overlay.className = 'fearn-palette-overlay';
+
+      var card = document.createElement('div');
+      card.className = 'fearn-palette-card';
+
+      card.innerHTML = `
+        <div class="fearn-palette-header">
+          <span class="fearn-palette-search-icon">🔍</span>
+          <input type="text" class="fearn-palette-input" id="fearn-palette-search" placeholder="Jump to language, skill, or course (e.g. Swahili, Chess, CS110)...">
+          <span style="font-size:0.72rem; color:#94a3b8; font-weight:700; border:1px solid rgba(255,255,255,0.14); padding:3px 7px; border-radius:6px;">ESC</span>
+        </div>
+        <div class="fearn-palette-tabs">
+          <button class="fearn-palette-tab-btn active" id="tab-all" onclick="window.setPaletteTab('all')">All Disciplines</button>
+          <button class="fearn-palette-tab-btn" id="tab-lang" onclick="window.setPaletteTab('Language')">Languages (20)</button>
+          <button class="fearn-palette-tab-btn" id="tab-skill" onclick="window.setPaletteTab('Cognitive Skill')">Skills (6)</button>
+          <button class="fearn-palette-tab-btn" id="tab-univ" onclick="window.setPaletteTab('University')">University (3)</button>
+          <button class="fearn-palette-tab-btn" id="tab-shortcuts" onclick="window.setPaletteTab('shortcuts')">⌨️ Shortcuts</button>
+        </div>
+        <div class="fearn-palette-body" id="fearn-palette-list"></div>
+      `;
+
+      overlay.appendChild(card);
+      document.body.appendChild(overlay);
+
+      overlay.onclick = function (e) {
+        if (e.target === overlay) overlay.remove();
+      };
+
+      var input = document.getElementById('fearn-palette-search');
+      var list = document.getElementById('fearn-palette-list');
+      var currentTab = 'all';
+      var activeIndex = 0;
+
+      window.setPaletteTab = function (tab) {
+        currentTab = tab;
+        document.querySelectorAll('.fearn-palette-tab-btn').forEach(function (btn) {
+          btn.classList.toggle('active', btn.id === ('tab-' + (tab === 'Cognitive Skill' ? 'skill' : tab === 'Language' ? 'lang' : tab === 'University' ? 'univ' : tab)));
+        });
+        renderList(input.value);
+      };
+
+      function renderList(query) {
+        list.innerHTML = '';
+        var q = (query || '').toLowerCase().trim();
+
+        if (currentTab === 'shortcuts') {
+          list.innerHTML = `
+            <div class="fearn-shortcuts-grid">
+              <div class="fearn-shortcut-row"><span>Quick Switcher</span><span class="fearn-kbd-badge">Ctrl + K</span></div>
+              <div class="fearn-shortcut-row"><span>Cycle 5 Themes</span><span class="fearn-kbd-badge">Alt + T</span></div>
+              <div class="fearn-shortcut-row"><span>Journey Mode</span><span class="fearn-kbd-badge">Alt + J</span></div>
+              <div class="fearn-shortcut-row"><span>Omni-Library</span><span class="fearn-kbd-badge">Alt + L</span></div>
+              <div class="fearn-shortcut-row"><span>Dashboard Home</span><span class="fearn-kbd-badge">Alt + D</span></div>
+              <div class="fearn-shortcut-row"><span>Select Answers</span><span class="fearn-kbd-badge">1 · 2 · 3 · 4</span></div>
+              <div class="fearn-shortcut-row"><span>Submit / Advance</span><span class="fearn-kbd-badge">Enter / Space</span></div>
+              <div class="fearn-shortcut-row"><span>Close Modals</span><span class="fearn-kbd-badge">Escape</span></div>
+            </div>
+          `;
+          return;
+        }
+
+        var filtered = ALL_MODULES.filter(function (m) {
+          var matchesTab = (currentTab === 'all' || m.cat === currentTab);
+          var matchesQuery = !q || m.name.toLowerCase().indexOf(q) !== -1 || m.cat.toLowerCase().indexOf(q) !== -1;
+          return matchesTab && matchesQuery;
+        });
+
+        if (!filtered.length) {
+          list.innerHTML = '<div style="padding:28px; text-align:center; color:#64748b; font-size:0.95rem;">No matching disciplines found.</div>';
+          return;
+        }
+
+        filtered.forEach(function (m, idx) {
+          var item = document.createElement('div');
+          item.className = 'fearn-palette-item' + (idx === activeIndex ? ' active' : '');
+          item.innerHTML = `
+            <div class="fearn-palette-item-left">
+              <span style="font-size:1.4rem;">${m.icon}</span>
+              <div>
+                <div style="font-weight:700; font-size:0.98rem;">${m.name}</div>
+                <div style="font-size:0.75rem; color:#64748b;">${m.level}</div>
+              </div>
+            </div>
+            <span class="fearn-palette-badge">${m.cat}</span>
+          `;
+          item.onclick = function () {
+            overlay.remove();
+            window.dispatchEvent(new CustomEvent('fearn:open-module', { detail: { id: m.id } }));
+          };
+          list.appendChild(item);
+        });
+      }
+
+      renderList('');
+      setTimeout(function () { input.focus(); }, 50);
+
+      input.oninput = function () {
+        activeIndex = 0;
+        renderList(input.value);
+      };
+
+      input.onkeydown = function (e) {
+        var items = list.querySelectorAll('.fearn-palette-item');
+        if (e.key === 'ArrowDown') {
+          e.preventDefault();
+          if (activeIndex < items.length - 1) activeIndex++;
+          renderList(input.value);
+        } else if (e.key === 'ArrowUp') {
+          e.preventDefault();
+          if (activeIndex > 0) activeIndex--;
+          renderList(input.value);
+        } else if (e.key === 'Enter') {
+          e.preventDefault();
+          if (items[activeIndex]) items[activeIndex].click();
+        }
+      };
+    };
+
+    // ================= 2. 3D INTERACTIVE SRS FLASHCARD DECK =================
+    window.openSRSFlashcardDeck = function () {
+      var existing = document.getElementById('fearn-srs-deck');
+      if (existing) { existing.remove(); return; }
+
+      // Get real due reviews or sample high-yield deck
+      var due = (window.FEARN && typeof window.FEARN.getAllDueReviews === 'function') ? window.FEARN.getAllDueReviews() : [];
+      
+      // Fallback deck for instant practice if no reviews are due
+      if (!due || !due.length) {
+        due = [
+          { itemId: 'sample-es-1', moduleId: 'lang-spanish', prompt: 'Hacer caso omiso de algo', answer: 'To completely disregard or ignore something', note: 'Advanced C2 Idiomatic Expression · Spanish', audioLang: 'spanish' },
+          { itemId: 'sample-sw-1', moduleId: 'lang-swahili', prompt: 'Wageni wetu watawasili kesho asubuhi', answer: 'Our guests will arrive tomorrow morning', note: 'Class 2 (WA-) Plural Agreement · Swahili C2', audioLang: 'swahili' },
+          { itemId: 'sample-fr-1', moduleId: 'lang-french', prompt: 'Il convient de souligner que...', answer: 'It is worth emphasizing that...', note: 'Diplomatic & Academic Register · French C2', audioLang: 'french' },
+          { itemId: 'sample-ja-1', moduleId: 'lang-japanese', prompt: '一期一会 (Ichigo Ichie)', answer: 'Treasure every unrepeatable encounter in life', note: 'Cultural Idiom & Zen Philosophy · Japanese', audioLang: 'japanese' },
+          { itemId: 'sample-ch-1', moduleId: 'skill-chess', prompt: 'Smothered Mate (Philidor Legacy)', answer: 'Nf7+ -> Nh6+ -> Qg8+! -> Nf7#', note: 'Classic Queen sacrifice followed by Knight smother', audioLang: 'english' }
+        ];
+      }
+
+      var currentIndex = 0;
+
+      var overlay = document.createElement('div');
+      overlay.id = 'fearn-srs-deck';
+      overlay.className = 'fearn-srs-deck-overlay';
+
+      var card = document.createElement('div');
+      card.className = 'fearn-srs-deck-card';
+
+      function renderCard() {
+        var item = due[currentIndex];
+        var total = due.length;
+        
+        card.innerHTML = `
+          <div style="display:flex; align-items:center; justify-content:space-between; width:100%;">
+            <div style="font-size:0.85rem; font-weight:700; color:#38bdf8;">🎴 SRS Spaced Repetition · Card ${currentIndex + 1} of ${total}</div>
+            <button onclick="document.getElementById('fearn-srs-deck').remove()" style="background:transparent; border:none; color:#64748b; font-size:1.2rem; cursor:pointer;">✕</button>
+          </div>
+
+          <div class="fearn-srs-flashcard-perspective">
+            <div class="fearn-srs-flashcard-inner" id="fearn-active-flashcard" onclick="this.classList.toggle('is-flipped')">
+              <div class="fearn-srs-card-front">
+                <div style="font-size:0.75rem; font-weight:700; color:#94a3b8; text-transform:uppercase; letter-spacing:0.06em; margin-bottom:8px;">${item.moduleId || 'FEARN Practice'}</div>
+                <div style="font-size:1.4rem; font-weight:800; color:#f8fafc; margin-bottom:12px;">${item.prompt}</div>
+                <div style="font-size:0.8rem; color:#64748b;">(Tap card to reveal answer & pronunciation)</div>
+              </div>
+              <div class="fearn-srs-card-back">
+                <div style="font-size:1.2rem; font-weight:700; color:#34d399; margin-bottom:8px;">${item.answer}</div>
+                <div style="font-size:0.85rem; color:#cbd5e1; margin-bottom:14px;">${item.note || ''}</div>
+                <button class="fearn-btn-backup" onclick="event.stopPropagation(); window.FEARN && window.FEARN.audio && window.FEARN.audio.speak('${item.prompt.replace(/'/g, "\\'")}', '${item.audioLang || 'english'}')" style="margin-bottom:4px;">
+                  🔊 Hear Pronunciation
+                </button>
+              </div>
+            </div>
+          </div>
+
+          <div>
+            <div style="font-size:0.75rem; color:#94a3b8; font-weight:700; margin-bottom:6px; text-align:center;">Rate Recall Difficulty (SuperMemo SM-2):</div>
+            <div class="fearn-srs-rating-grid">
+              <button class="fearn-srs-rate-btn fearn-srs-btn-again" onclick="window.rateSRSCard(1)">
+                <span>Again</span><span style="font-size:0.7rem; opacity:0.8;">&lt; 1 min</span>
+              </button>
+              <button class="fearn-srs-rate-btn fearn-srs-btn-hard" onclick="window.rateSRSCard(2)">
+                <span>Hard</span><span style="font-size:0.7rem; opacity:0.8;">1 day</span>
+              </button>
+              <button class="fearn-srs-rate-btn fearn-srs-btn-good" onclick="window.rateSRSCard(3)">
+                <span>Good</span><span style="font-size:0.7rem; opacity:0.8;">3 days</span>
+              </button>
+              <button class="fearn-srs-rate-btn fearn-srs-btn-easy" onclick="window.rateSRSCard(5)">
+                <span>Easy</span><span style="font-size:0.7rem; opacity:0.8;">7 days</span>
+              </button>
+            </div>
+          </div>
+        `;
+      }
+
+      window.rateSRSCard = function (quality) {
+        var item = due[currentIndex];
+        if (window.FEARN && window.FEARN.srs) {
+          window.FEARN.srs.schedule(item.itemId, quality, item.moduleId);
+        }
+        if (currentIndex < due.length - 1) {
+          currentIndex++;
+          renderCard();
+        } else {
+          card.innerHTML = `
+            <div style="text-align:center; padding:32px 16px;">
+              <div style="font-size:3rem; margin-bottom:12px;">🏆</div>
+              <h3 style="font-size:1.4rem; color:#f8fafc; margin-bottom:8px;">Daily Review Complete!</h3>
+              <p style="color:#94a3b8; font-size:0.95rem; margin-bottom:20px;">All scheduled flashcards have been reviewed and committed to your local memory ledger.</p>
+              <button class="fearn-lang-btn-primary" onclick="document.getElementById('fearn-srs-deck').remove()">Return to FEARN</button>
+            </div>
+          `;
+        }
+      };
+
+      renderCard();
+      overlay.appendChild(card);
+      document.body.appendChild(overlay);
+    };
+
+    // Global Key Listener for Ctrl+K / Cmd+K and Esc
+    window.addEventListener('keydown', function (e) {
+      if ((e.ctrlKey || e.metaKey) && (e.key === 'k' || e.key === 'K')) {
+        e.preventDefault();
+        window.openCommandPalette();
+      }
+    });
+
+  })();
+  </script>
+
+
+
+  <!-- ================= MOBILE FLOATING QUICK-NAV ISLAND (IPHONE & IPAD) ================= -->
+  <aside class="fearn-mobile-floating-island" aria-label="Mobile Quick Navigation">
+    <button class="fearn-island-btn fearn-island-btn--primary" onclick="openCommandPalette()" type="button" title="Quick Switcher & Search">
+      <span>🔍</span> <span style="font-size:0.75rem; font-weight:800;">Quick Nav</span>
+    </button>
+    <button class="fearn-island-btn" onclick="openSRSFlashcardDeck()" type="button" title="Daily SRS Flashcards">
+      <span>🎴</span>
+    </button>
+    <button class="fearn-island-btn" onclick="window.FEARN_ENV && window.FEARN_ENV.cycleEnv()" type="button" title="Cycle Themes">
+      <span>🌌</span>
+    </button>
+  </aside>
+
+</body>
+</html>

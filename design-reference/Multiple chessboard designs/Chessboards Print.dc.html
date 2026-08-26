@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet data-dc-atomics>
+<style>doc-page:not(:defined){visibility:hidden}
+.page{padding:0.6in 0.55in;box-sizing:border-box;font-family:Helvetica,Arial,sans-serif;display:flex;flex-direction:column;gap:0.25in}
+.hd{font:700 20px Helvetica,Arial,sans-serif;color:#1a1a1a;margin:0}
+.sub{font:12px Helvetica,Arial,sans-serif;color:#666;margin:0 0 6px}
+.cap{font:11px ui-monospace,Menlo,monospace;color:#999;text-transform:uppercase;letter-spacing:.04em;margin:0 0 4px}
+.imgwrap{border:1px solid #e5e2dc;border-radius:6px;padding:10px;display:flex;justify-content:center}
+</style>
+<script src="./doc-page.js"></script>
+</helmet>
+<doc-page>
+<sc-for list="{{ themes }}" as="theme" hint-placeholder-count="5">
+  <section class="page">
+    <h1 class="hd">{{ theme.name }}</h1>
+    <p class="sub">Chessboard set {{ theme.index }} of 5 — board and pieces</p>
+    <p class="cap">Board</p>
+    <div class="imgwrap"><img src="{{ theme.boardSrc }}" alt="{{ theme.name }} board" style="width:5.2in;height:auto;display:block" /></div>
+    <p class="cap">Pieces</p>
+    <div class="imgwrap"><img src="{{ theme.pieceSrc }}" alt="{{ theme.name }} pieces" style="width:6.5in;height:auto;display:block" /></div>
+  </section>
+</sc-for>
+</doc-page>
+
+</x-dc>
+<script type="text/x-dc" data-dc-script>
+class Component extends DCLogic {
+  renderVals() {
+    const defs = [
+      {id:'wood', name:'Classic Walnut'},
+      {id:'marble', name:'Carrara Marble'},
+      {id:'glass', name:'Glass Teal'},
+      {id:'vinyl', name:'Tournament Vinyl'},
+      {id:'mono', name:'High-Contrast Mono'},
+    ];
+    const themes = defs.map((d, i) => ({
+      name: d.name,
+      index: i + 1,
+      boardSrc: `boards/${d.id}.svg`,
+      pieceSrc: `pieces/${d.id}.svg`,
+    }));
+    return { themes };
+  }
+}
+</script>
+</body>
+</html>

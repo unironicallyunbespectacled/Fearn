@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FEARN — Small Room Biomechanics & Physiological Engineering Report</title>
+  <link rel="stylesheet" href="./theme.css">
+  <link rel="stylesheet" href="./components.css">
+  <style>
+    body {
+      background: radial-gradient(circle at 50% 0%, #111827 0%, #030712 100%);
+      color: #e5e7eb;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      line-height: 1.7;
+      padding: 40px 20px;
+      margin: 0;
+    }
+    .report-container {
+      max-width: 900px;
+      margin: 0 auto;
+      background: rgba(17, 24, 39, 0.7);
+      backdrop-filter: blur(24px);
+      -webkit-backdrop-filter: blur(24px);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      border-radius: 16px;
+      padding: 48px;
+      box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+    }
+    h1 {
+      font-size: 2.2rem;
+      font-weight: 800;
+      color: #10b981;
+      border-bottom: 1px solid rgba(16, 185, 129, 0.2);
+      padding-bottom: 16px;
+      margin-top: 0;
+    }
+    h2 {
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: #38bdf8;
+      margin-top: 36px;
+      border-bottom: 1px solid rgba(56, 189, 248, 0.15);
+      padding-bottom: 8px;
+    }
+    h3 {
+      font-size: 1.2rem;
+      color: #a78bfa;
+      margin-top: 24px;
+    }
+    pre {
+      background: #090d16;
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      border-radius: 8px;
+      padding: 16px;
+      overflow-x: auto;
+      font-family: "JetBrains Mono", Consolas, monospace;
+      font-size: 0.9rem;
+      color: #34d399;
+    }
+    code {
+      background: rgba(255, 255, 255, 0.08);
+      padding: 2px 6px;
+      border-radius: 4px;
+      color: #f472b6;
+      font-family: monospace;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 20px 0;
+      font-size: 0.95rem;
+    }
+    th, td {
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      padding: 12px 14px;
+      text-align: left;
+    }
+    th {
+      background: rgba(16, 185, 129, 0.1);
+      color: #10b981;
+    }
+    blockquote {
+      border-left: 4px solid #10b981;
+      padding-left: 16px;
+      margin: 20px 0;
+      color: #9ca3af;
+      font-style: italic;
+    }
+    .back-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      color: #10b981;
+      text-decoration: none;
+      font-weight: 600;
+      margin-bottom: 24px;
+      padding: 8px 16px;
+      background: rgba(16, 185, 129, 0.1);
+      border: 1px solid rgba(16, 185, 129, 0.2);
+      border-radius: 8px;
+      transition: all 0.2s;
+    }
+    .back-btn:hover {
+      background: rgba(16, 185, 129, 0.2);
+    }
+  </style>
+</head>
+<body>
+  <div class="report-container">
+    <a href="./index.html" class="back-btn">← Back to FEARN App</a>
+    <p><h1>🏋️ FEARN SMALL-ROOM BIOMECHANICS & PHYSIOLOGICAL ENGINEERING REPORT</h1></p><p>---</p><p><h2>Executive Summary</h2></p><p>The <strong>Small Room</strong> workout paradigm in FEARN represents a solution to one of modern fitness engineering's most demanding optimization problems: <strong>How to induce maximal athletic adaptations (rate of force development, hypertrophy, aerobic capacity, joint mobility, and neuromuscular coordination) within an uncompromising $1.5\text{m} \times 2.0\text{m}$ footprint, with zero equipment and zero acoustic impact (neighbor-safe/silent).</strong></p><p>This document provides a forensic physiological analysis of the engineering decisions, objective goals, prioritized kinetic hierarchies, and deliberate trade-offs governing the Small Room track across all 170 periodized days.</p><p>---</p><p><h2>1. Design Constraints & The Physics of the Environment</h2></p><p>``<code>
+┌───────────────────────────────┬────────────────────────────────────────────────────────────────────────┐
+│ ENVIRONMENTAL CONSTRAINT      │ ENGINEERING SOLUTION                                                   │
+├───────────────────────────────┼────────────────────────────────────────────────────────────────────────┤
+│ 1. Spatial Boundary           │ Strictly confined to a 1.5m × 2.0m mat area. Zero requirement for horizontal│
+│    ($\le 3.0\text{ m}^2$)     │ displacement or linear runways.                                        │
+├───────────────────────────────┼────────────────────────────────────────────────────────────────────────┤
+│ 2. Acoustic & Impact Ceiling  │ Zero foot-strikes, stomping, or ballistic landings. Eliminates floor   │
+│    ($< 30\text{ dB}$)         │ vibration to ensure 100% neighbor-safe training at any hour.           │
+├───────────────────────────────┼────────────────────────────────────────────────────────────────────────┤
+│ 3. Zero Equipment Availability│ Utilizes ground reaction forces, overcoming isometrics against walls/  │
+│    ($0\text{ kg}$ external)   │ doorframes, internal torque generation, and extreme biomechanical      │
+│                               │ leverage manipulation (lever length, tempo, deficit ranges).           │
+├───────────────────────────────┼────────────────────────────────────────────────────────────────────────┤
+│ 4. Ceiling Height Safety      │ No overhead vertical jumping or dangerous ceiling-clearance movements. │
+└───────────────────────────────┴────────────────────────────────────────────────────────────────────────┘
+</code>`<code></p><p>---</p><p><h2>2. Objective Goals: What Adaptations Are We Driving?</h2></p><p>Standard bodyweight routines default to high-rep, low-tension calisthenics (e.g., 50 sloppy air squats or endless crunches). FEARN's Small Room protocol rejects this and targets <strong>five high-yield physiological adaptations</strong>:</p><p>1. <strong>High-Threshold Motor Unit (HTMU) Recruitment via Overcoming Isometrics</strong>:
+   - <em>Mechanism</em>: When driving aggressively against an immovable object (such as a 45° wall sprint drive or doorframe isometric row), Henneman’s Size Principle dictates that the central nervous system must recruit high-threshold Type IIx fast-twitch muscle fibers to match perceived maximal resistance.
+2. <strong>Mechanical Tension via Extreme Leverage & Time-Under-Tension (TUT)</strong>:
+   - <em>Mechanism</em>: In the absence of external iron plates, mechanical load is scaled by altering joint moment arms (e.g., transitioning from bent-knee deadbugs to long-lever hollow-body holds, or utilizing 4-second eccentric tempos on unilateral Bulgarian split squats).
+3. <strong>End-Range Joint Centration & Active Mobility</strong>:
+   - <em>Mechanism</em>: Controlled Articular Rotations (CARs) and active end-range contractions (e.g., 90/90 hip transitions, Jefferson curls, seated L-sit compressions) stimulate mechanoreceptors, strengthen joint capsules, and expand usable mobility without passive tissue laxity.
+4. <strong>Intra-Abdominal Pressure (IAP) & Pelvic Diaphragm Integration</strong>:
+   - <em>Mechanism</em>: Synchronizing Kegel pelvic floor activations with diaphragmatic breathing and rigid abdominal bracing (anti-extension, anti-rotation) eliminates lumbar shear forces and fixes anterior pelvic tilt.
+5. <strong>Non-Impact Zone 2 / Anaerobic Conditioning</strong>:
+   - <em>Mechanism</em>: Sustained rotational shadowboxing, silent pause mountain climbers, and isometric continuous tension complexes elevate heart rate into specific metabolic conditioning zones without floor impact.</p><p>---</p><p><h2>3. Kinetic Chain Priorities & Ordering Logic</h2></p><p>Within every 45-minute Small Room session, exercises are ordered strictly according to <strong>neurological freshness and kinetic chain transfer</strong>:</p><p></code>`<code>mermaid
+graph TD
+    A["1. Neural Activation & High-Velocity Isometrics"] --> B["2. Primary Unilateral Strength & Mechanical Tension"]
+    B --> C["3. Posterior Chain & Anti-Rotational Stability"]
+    C --> D["4. High-Density Metabolic Flow & Work Capacity"]
+    D --> E["5. Joint Centration & Parasympathetic Downregulation"]
+</code>`<code></p><p><h3>Detailed Stage Breakdown:</h3></p><p>| Stage | Focus Area | Biomechanical Purpose | Example Movements |
+|---|---|---|---|
+| <strong>Phase A (0–10 min)</strong> | <em>Neural Activation</em> | Potentiates the CNS; recruits Type II motor units while glycogen and neural pathways are completely fresh. | Wall-Supported Isometric Sprint Drives, Plank Knee-to-Elbow Drives |
+| <strong>Phase B (10–25 min)</strong> | <em>Primary Compound Strength</em> | Maximizes mechanical tension across single-leg and upper-body levers with strict eccentric control. | Unilateral Bulgarian Split Squats (4s eccentric), Pike Deficit Push-Ups |
+| <strong>Phase C (25–35 min)</strong> | <em>Core & Posterior Chain</em> | Reinforces lumbar-pelvic-hip complex and counteracts desk-bound postural flexion. | Deadbug Lumbar Glue Press, Prone Y-T-W Scapular Series, Single-Leg Romanian Hinges |
+| <strong>Phase D (35–42 min)</strong> | <em>Metabolic Density</em> | Sustains elevated cardiac output and lactate clearance in a fixed spot. | Silent Tempo Mountain Climbers, Rotational Shadowboxing Sequences |
+| <strong>Phase E (42–45 min)</strong> | <em>Regeneration & CARs</em> | Stimulates parasympathetic recovery, restores joint range of motion, downregulates cortisol. | 90/90 Hip Rotations, Diaphragmatic Box Breathing |</p><p>---</p><p><h2>4. The Opportunity Cost Matrix: Deliberate Engineering Trade-offs</h2></p><p>Every fitness design involves trade-offs. FEARN's Small Room mode makes deliberate, calculated compromises:</p><p></code>`<code>
+┌──────────────────────────────────────┬────────────────────────────────────────────────────────────────────────┐
+│ WHAT WAS SACRIFICED (OPPORTUNITY COST)│ WHAT WAS GAINED IN EXCHANGE (THE ADVANTAGE)                            │
+├──────────────────────────────────────┼────────────────────────────────────────────────────────────────────────┤
+│ ❌ Maximal Heavy Axial Loading       │ ✅ Extreme Joint Longevity & Tendon Health                             │
+│    (No 200kg barbell squats/deadlifts)│    Eliminates spinal compression risk while building unilateral tendon │
+│                                      │    resilience and fixing left/right muscle imbalances.                 │
+├──────────────────────────────────────┼────────────────────────────────────────────────────────────────────────┤
+│ ❌ Ballistic Linear Sprint Runways   │ ✅ Maximal Ground Reaction Force Mechanics                             │
+│    (No 100m sprint tracks)           │    Wall isometrics allow zero-speed overspeed drive, training hip      │
+│                                      │    flexion angle and ankle dorsiflexion without hamstring pull risks.  │
+├──────────────────────────────────────┼────────────────────────────────────────────────────────────────────────┤
+│ ❌ Heavy Lat Pulldowns / Cable Racks │ ✅ Scapular Retraction & Rotator Cuff Mastery                          │
+│    (No cable stacks)                 │    Towel sliding pulldowns and isometric doorframe contractions target │
+│                                      │    rhomboids and lower traps with zero elbow impingement.              │
+└──────────────────────────────────────┴────────────────────────────────────────────────────────────────────────┘
+</code>`<code></p><p>---</p><p><h2>5. Master Blueprint: The 7-Day Microcycle in Small Room Mode</h2></p><p></code>`<code>
+Day 1: Speed, Power & Core Foundation      ➔ Wall Sprint Drives, Deadbug Lumbar Press, Hollow Body Holds
+Day 2: Lower Hypertrophy & Posture        ➔ 4s Tempo Split Squats, Single-Leg RDL Wall Hinges, Prone Y-T-W
+Day 3: Cardiovascular & Metabolic Engine  ➔ Silent Pause Climbers, Shadowboxing Rotational Pivots, Bear Crawls
+Day 4: Active Mobility & Hip Centration    ➔ CARs Mobility, 90/90 Flow, Thoracic Windmills, Jefferson Curls
+Day 5: Upper Push/Pull Structural Armor    ➔ Pike Push-up Deficits, Doorframe Rows, Diamond Push-up Tempos
+Day 6: Martial Striking & Footwork Agility ➔ Taekwondo Chamber Holds, Stance Micro-Pivots, Reaction Drills
+Day 7: Pelvic Floor, IAP & Active Recovery ➔ Diaphragmatic Box Breathing, Sub-Maximal Kegel Holds, Psoas Flow
+</code>``</p><p>---</p><p><h2>6. Conclusion</h2></p><p>The Small Room workout track is not a compromised "fallback" routine—it is a <strong>scientifically calibrated, self-contained athletic conditioning system</strong>. By transforming spatial and acoustic constraints into parameters for isometric intensity, eccentric control, and joint centration, it delivers elite athletic progression anywhere in the world.
+</p>
+  </div>
+</body>
+</html>

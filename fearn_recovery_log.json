@@ -1,0 +1,1892 @@
+[
+  {
+    "timestamp": "2026-08-24T13:37:52.777Z",
+    "event": "RESUME_ORCHESTRATION",
+    "status": "IN_PROGRESS",
+    "details": "Initialized atomic recovery logging"
+  },
+  {
+    "timestamp": "2026-08-24T13:39:44.375Z",
+    "event": "INJECT_ROMANIAN_U17",
+    "status": "SUCCESS",
+    "details": "Injected 5 lessons for romanian Unit 17"
+  },
+  {
+    "timestamp": "2026-08-24T13:39:44.394Z",
+    "event": "INJECT_VIETNAMESE_U17",
+    "status": "SUCCESS",
+    "details": "Injected 5 lessons for vietnamese Unit 17"
+  },
+  {
+    "timestamp": "2026-08-24T13:39:44.404Z",
+    "event": "INJECT_RUSSIAN_U17",
+    "status": "SUCCESS",
+    "details": "Injected 5 lessons for russian Unit 17"
+  },
+  {
+    "timestamp": "2026-08-24T13:39:44.412Z",
+    "event": "INJECT_TURKISH_U17",
+    "status": "SUCCESS",
+    "details": "Injected 5 lessons for turkish Unit 17"
+  },
+  {
+    "timestamp": "2026-08-24T13:39:44.420Z",
+    "event": "INJECT_ENGLISH_U17",
+    "status": "SUCCESS",
+    "details": "Injected 5 lessons for english Unit 17"
+  },
+  {
+    "timestamp": "2026-08-24T13:39:44.723Z",
+    "event": "WAVE_17_COMPLETE",
+    "status": "SUCCESS",
+    "details": "All 11 foundational languages reached Unit 17 (85/170 lessons, 50.0% HALFWAY MILESTONE)"
+  },
+  {
+    "timestamp": "2026-08-24T13:40:58.704Z",
+    "event": "INJECT_MANDARIN_U6",
+    "status": "SUCCESS",
+    "details": "Injected Unit 6 for mandarin"
+  },
+  {
+    "timestamp": "2026-08-24T13:40:58.719Z",
+    "event": "INJECT_CANTONESE_U6",
+    "status": "SUCCESS",
+    "details": "Injected Unit 6 for cantonese"
+  },
+  {
+    "timestamp": "2026-08-24T13:40:58.727Z",
+    "event": "INJECT_KOREAN_U6",
+    "status": "SUCCESS",
+    "details": "Injected Unit 6 for korean"
+  },
+  {
+    "timestamp": "2026-08-24T13:40:58.739Z",
+    "event": "INJECT_FRENCH_U6",
+    "status": "SUCCESS",
+    "details": "Injected Unit 6 for french"
+  },
+  {
+    "timestamp": "2026-08-24T13:40:58.761Z",
+    "event": "INJECT_HINDI_U6",
+    "status": "SUCCESS",
+    "details": "Injected Unit 6 for hindi"
+  },
+  {
+    "timestamp": "2026-08-24T13:40:58.765Z",
+    "event": "INJECT_URDU_U6",
+    "status": "SUCCESS",
+    "details": "Injected Unit 6 for urdu"
+  },
+  {
+    "timestamp": "2026-08-24T13:40:58.769Z",
+    "event": "INJECT_AMHARIC_U6",
+    "status": "SUCCESS",
+    "details": "Injected Unit 6 for amharic"
+  },
+  {
+    "timestamp": "2026-08-24T13:40:58.775Z",
+    "event": "INJECT_SWAHILI_U6",
+    "status": "SUCCESS",
+    "details": "Injected Unit 6 for swahili"
+  },
+  {
+    "timestamp": "2026-08-24T13:40:58.780Z",
+    "event": "INJECT_UKRAINIAN_U6",
+    "status": "SUCCESS",
+    "details": "Injected Unit 6 for ukrainian"
+  },
+  {
+    "timestamp": "2026-08-24T13:40:59.301Z",
+    "event": "EXPANSION_U6_COMPLETE",
+    "status": "SUCCESS",
+    "details": "All 9 expansion languages reached Unit 6 (6/170 lessons, 3.5%)"
+  },
+  {
+    "timestamp": "2026-08-24T13:42:40.069Z",
+    "event": "INJECT_SPANISH_U18",
+    "status": "SUCCESS",
+    "details": "Injected Unit 18 for spanish"
+  },
+  {
+    "timestamp": "2026-08-24T13:42:40.093Z",
+    "event": "INJECT_JAPANESE_U18",
+    "status": "SUCCESS",
+    "details": "Injected Unit 18 for japanese"
+  },
+  {
+    "timestamp": "2026-08-24T13:42:40.113Z",
+    "event": "INJECT_ARABIC_U18",
+    "status": "SUCCESS",
+    "details": "Injected Unit 18 for arabic"
+  },
+  {
+    "timestamp": "2026-08-24T13:42:40.740Z",
+    "event": "WAVE_18_BATCH_1_COMPLETE",
+    "status": "SUCCESS",
+    "details": "Spanish, Japanese, Arabic reached Unit 18 (90/170 lessons, 52.9%)"
+  },
+  {
+    "timestamp": "2026-08-24T13:43:39.869Z",
+    "event": "INJECT_ARGENTINE-SPANISH_U18",
+    "status": "SUCCESS",
+    "details": "Injected Unit 18 for argentine-spanish"
+  },
+  {
+    "timestamp": "2026-08-24T13:43:39.899Z",
+    "event": "INJECT_BRAZILIAN-PORTUGUESE_U18",
+    "status": "SUCCESS",
+    "details": "Injected Unit 18 for brazilian-portuguese"
+  },
+  {
+    "timestamp": "2026-08-24T13:43:39.916Z",
+    "event": "INJECT_GERMAN_U18",
+    "status": "SUCCESS",
+    "details": "Injected Unit 18 for german"
+  },
+  {
+    "timestamp": "2026-08-24T13:43:40.502Z",
+    "event": "WAVE_18_BATCH_2_COMPLETE",
+    "status": "SUCCESS",
+    "details": "Argentine Spanish, Brazilian Portuguese, German reached Unit 18 (90/170 lessons, 52.9%)"
+  },
+  {
+    "timestamp": "2026-08-24T13:45:18.285Z",
+    "event": "INJECT_ROMANIAN_U18",
+    "status": "SUCCESS",
+    "details": "Injected Unit 18 for romanian"
+  },
+  {
+    "timestamp": "2026-08-24T13:45:18.319Z",
+    "event": "INJECT_VIETNAMESE_U18",
+    "status": "SUCCESS",
+    "details": "Injected Unit 18 for vietnamese"
+  },
+  {
+    "timestamp": "2026-08-24T13:45:18.339Z",
+    "event": "INJECT_RUSSIAN_U18",
+    "status": "SUCCESS",
+    "details": "Injected Unit 18 for russian"
+  },
+  {
+    "timestamp": "2026-08-24T13:45:18.359Z",
+    "event": "INJECT_TURKISH_U18",
+    "status": "SUCCESS",
+    "details": "Injected Unit 18 for turkish"
+  },
+  {
+    "timestamp": "2026-08-24T13:45:18.374Z",
+    "event": "INJECT_ENGLISH_U18",
+    "status": "SUCCESS",
+    "details": "Injected Unit 18 for english"
+  },
+  {
+    "timestamp": "2026-08-24T13:45:18.949Z",
+    "event": "WAVE_18_COMPLETE",
+    "status": "SUCCESS",
+    "details": "All 11 foundational languages reached Unit 18 (90/170 lessons, 52.9%)"
+  },
+  {
+    "timestamp": "2026-08-24T13:45:55.888Z",
+    "event": "INJECT_MANDARIN_U7",
+    "status": "SUCCESS",
+    "details": "Injected Unit 7 for mandarin"
+  },
+  {
+    "timestamp": "2026-08-24T13:45:55.900Z",
+    "event": "INJECT_CANTONESE_U7",
+    "status": "SUCCESS",
+    "details": "Injected Unit 7 for cantonese"
+  },
+  {
+    "timestamp": "2026-08-24T13:45:55.905Z",
+    "event": "INJECT_KOREAN_U7",
+    "status": "SUCCESS",
+    "details": "Injected Unit 7 for korean"
+  },
+  {
+    "timestamp": "2026-08-24T13:45:55.913Z",
+    "event": "INJECT_FRENCH_U7",
+    "status": "SUCCESS",
+    "details": "Injected Unit 7 for french"
+  },
+  {
+    "timestamp": "2026-08-24T13:45:55.918Z",
+    "event": "INJECT_HINDI_U7",
+    "status": "SUCCESS",
+    "details": "Injected Unit 7 for hindi"
+  },
+  {
+    "timestamp": "2026-08-24T13:45:55.926Z",
+    "event": "INJECT_URDU_U7",
+    "status": "SUCCESS",
+    "details": "Injected Unit 7 for urdu"
+  },
+  {
+    "timestamp": "2026-08-24T13:45:55.930Z",
+    "event": "INJECT_AMHARIC_U7",
+    "status": "SUCCESS",
+    "details": "Injected Unit 7 for amharic"
+  },
+  {
+    "timestamp": "2026-08-24T13:45:55.936Z",
+    "event": "INJECT_SWAHILI_U7",
+    "status": "SUCCESS",
+    "details": "Injected Unit 7 for swahili"
+  },
+  {
+    "timestamp": "2026-08-24T13:45:55.940Z",
+    "event": "INJECT_UKRAINIAN_U7",
+    "status": "SUCCESS",
+    "details": "Injected Unit 7 for ukrainian"
+  },
+  {
+    "timestamp": "2026-08-24T13:45:56.407Z",
+    "event": "EXPANSION_U7_COMPLETE",
+    "status": "SUCCESS",
+    "details": "All 9 expansion languages reached Unit 7 (7/170 lessons, 4.1%)"
+  },
+  {
+    "timestamp": "2026-08-24T14:11:56.035Z",
+    "event": "INJECT_SPANISH_U19",
+    "status": "SUCCESS",
+    "details": "Injected Unit 19 for spanish"
+  },
+  {
+    "timestamp": "2026-08-24T14:11:56.061Z",
+    "event": "INJECT_JAPANESE_U19",
+    "status": "SUCCESS",
+    "details": "Injected Unit 19 for japanese"
+  },
+  {
+    "timestamp": "2026-08-24T14:11:56.070Z",
+    "event": "INJECT_ARABIC_U19",
+    "status": "SUCCESS",
+    "details": "Injected Unit 19 for arabic"
+  },
+  {
+    "timestamp": "2026-08-24T14:11:56.407Z",
+    "event": "WAVE_19_BATCH_1_COMPLETE",
+    "status": "SUCCESS",
+    "details": "Spanish, Japanese, Arabic reached Unit 19 (95/170 lessons, 55.9%)"
+  },
+  {
+    "timestamp": "2026-08-24T14:12:57.005Z",
+    "event": "INJECT_ARGENTINE-SPANISH_U19",
+    "status": "SUCCESS",
+    "details": "Injected Unit 19 for argentine-spanish"
+  },
+  {
+    "timestamp": "2026-08-24T14:12:57.019Z",
+    "event": "INJECT_BRAZILIAN-PORTUGUESE_U19",
+    "status": "SUCCESS",
+    "details": "Injected Unit 19 for brazilian-portuguese"
+  },
+  {
+    "timestamp": "2026-08-24T14:12:57.028Z",
+    "event": "INJECT_GERMAN_U19",
+    "status": "SUCCESS",
+    "details": "Injected Unit 19 for german"
+  },
+  {
+    "timestamp": "2026-08-24T14:12:57.352Z",
+    "event": "WAVE_19_BATCH_2_COMPLETE",
+    "status": "SUCCESS",
+    "details": "Argentine Spanish, Brazilian Portuguese, German reached Unit 19 (95/170 lessons, 55.9%)"
+  },
+  {
+    "timestamp": "2026-08-24T14:15:19.451Z",
+    "event": "INJECT_ROMANIAN_U19",
+    "status": "SUCCESS",
+    "details": "Injected Unit 19 for romanian"
+  },
+  {
+    "timestamp": "2026-08-24T14:15:19.464Z",
+    "event": "INJECT_VIETNAMESE_U19",
+    "status": "SUCCESS",
+    "details": "Injected Unit 19 for vietnamese"
+  },
+  {
+    "timestamp": "2026-08-24T14:15:19.474Z",
+    "event": "INJECT_RUSSIAN_U19",
+    "status": "SUCCESS",
+    "details": "Injected Unit 19 for russian"
+  },
+  {
+    "timestamp": "2026-08-24T14:15:19.482Z",
+    "event": "INJECT_TURKISH_U19",
+    "status": "SUCCESS",
+    "details": "Injected Unit 19 for turkish"
+  },
+  {
+    "timestamp": "2026-08-24T14:15:19.489Z",
+    "event": "INJECT_ENGLISH_U19",
+    "status": "SUCCESS",
+    "details": "Injected Unit 19 for english"
+  },
+  {
+    "timestamp": "2026-08-24T14:15:19.720Z",
+    "event": "WAVE_19_COMPLETE",
+    "status": "SUCCESS",
+    "details": "All 11 foundational languages reached Unit 19 (95/170 lessons, 55.9%)"
+  },
+  {
+    "timestamp": "2026-08-24T14:19:50.307Z",
+    "event": "INJECT_MANDARIN_U8",
+    "status": "SUCCESS",
+    "details": "Injected Unit 8 for mandarin"
+  },
+  {
+    "timestamp": "2026-08-24T14:19:50.317Z",
+    "event": "INJECT_CANTONESE_U8",
+    "status": "SUCCESS",
+    "details": "Injected Unit 8 for cantonese"
+  },
+  {
+    "timestamp": "2026-08-24T14:19:50.320Z",
+    "event": "INJECT_KOREAN_U8",
+    "status": "SUCCESS",
+    "details": "Injected Unit 8 for korean"
+  },
+  {
+    "timestamp": "2026-08-24T14:19:50.323Z",
+    "event": "INJECT_FRENCH_U8",
+    "status": "SUCCESS",
+    "details": "Injected Unit 8 for french"
+  },
+  {
+    "timestamp": "2026-08-24T14:19:50.326Z",
+    "event": "INJECT_HINDI_U8",
+    "status": "SUCCESS",
+    "details": "Injected Unit 8 for hindi"
+  },
+  {
+    "timestamp": "2026-08-24T14:19:50.329Z",
+    "event": "INJECT_URDU_U8",
+    "status": "SUCCESS",
+    "details": "Injected Unit 8 for urdu"
+  },
+  {
+    "timestamp": "2026-08-24T14:19:50.338Z",
+    "event": "INJECT_AMHARIC_U8",
+    "status": "SUCCESS",
+    "details": "Injected Unit 8 for amharic"
+  },
+  {
+    "timestamp": "2026-08-24T14:19:50.342Z",
+    "event": "INJECT_SWAHILI_U8",
+    "status": "SUCCESS",
+    "details": "Injected Unit 8 for swahili"
+  },
+  {
+    "timestamp": "2026-08-24T14:19:50.344Z",
+    "event": "INJECT_UKRAINIAN_U8",
+    "status": "SUCCESS",
+    "details": "Injected Unit 8 for ukrainian"
+  },
+  {
+    "timestamp": "2026-08-24T14:19:50.689Z",
+    "event": "EXPANSION_U8_COMPLETE",
+    "status": "SUCCESS",
+    "details": "All 9 expansion languages reached Unit 8 (8/170 lessons, 4.7%)"
+  },
+  {
+    "timestamp": "2026-08-24T14:26:58.198Z",
+    "event": "INJECT_MANDARIN_U9",
+    "status": "SUCCESS",
+    "details": "Injected Unit 9 for mandarin"
+  },
+  {
+    "timestamp": "2026-08-24T14:26:58.206Z",
+    "event": "INJECT_CANTONESE_U9",
+    "status": "SUCCESS",
+    "details": "Injected Unit 9 for cantonese"
+  },
+  {
+    "timestamp": "2026-08-24T14:26:58.210Z",
+    "event": "INJECT_KOREAN_U9",
+    "status": "SUCCESS",
+    "details": "Injected Unit 9 for korean"
+  },
+  {
+    "timestamp": "2026-08-24T14:26:58.213Z",
+    "event": "INJECT_FRENCH_U9",
+    "status": "SUCCESS",
+    "details": "Injected Unit 9 for french"
+  },
+  {
+    "timestamp": "2026-08-24T14:26:58.217Z",
+    "event": "INJECT_HINDI_U9",
+    "status": "SUCCESS",
+    "details": "Injected Unit 9 for hindi"
+  },
+  {
+    "timestamp": "2026-08-24T14:26:58.221Z",
+    "event": "INJECT_URDU_U9",
+    "status": "SUCCESS",
+    "details": "Injected Unit 9 for urdu"
+  },
+  {
+    "timestamp": "2026-08-24T14:26:58.224Z",
+    "event": "INJECT_AMHARIC_U9",
+    "status": "SUCCESS",
+    "details": "Injected Unit 9 for amharic"
+  },
+  {
+    "timestamp": "2026-08-24T14:26:58.226Z",
+    "event": "INJECT_SWAHILI_U9",
+    "status": "SUCCESS",
+    "details": "Injected Unit 9 for swahili"
+  },
+  {
+    "timestamp": "2026-08-24T14:26:58.229Z",
+    "event": "INJECT_UKRAINIAN_U9",
+    "status": "SUCCESS",
+    "details": "Injected Unit 9 for ukrainian"
+  },
+  {
+    "timestamp": "2026-08-24T14:26:58.477Z",
+    "event": "EXPANSION_U9_COMPLETE",
+    "status": "SUCCESS",
+    "details": "All 9 expansion languages reached Unit 9 (9/170 lessons, 5.3%)"
+  },
+  {
+    "timestamp": "2026-08-24T14:28:29.439Z",
+    "event": "INJECT_MANDARIN_U10",
+    "status": "SUCCESS",
+    "details": "Injected Unit 10 for mandarin"
+  },
+  {
+    "timestamp": "2026-08-24T14:28:29.447Z",
+    "event": "INJECT_CANTONESE_U10",
+    "status": "SUCCESS",
+    "details": "Injected Unit 10 for cantonese"
+  },
+  {
+    "timestamp": "2026-08-24T14:28:29.452Z",
+    "event": "INJECT_KOREAN_U10",
+    "status": "SUCCESS",
+    "details": "Injected Unit 10 for korean"
+  },
+  {
+    "timestamp": "2026-08-24T14:28:29.454Z",
+    "event": "INJECT_FRENCH_U10",
+    "status": "SUCCESS",
+    "details": "Injected Unit 10 for french"
+  },
+  {
+    "timestamp": "2026-08-24T14:28:29.458Z",
+    "event": "INJECT_HINDI_U10",
+    "status": "SUCCESS",
+    "details": "Injected Unit 10 for hindi"
+  },
+  {
+    "timestamp": "2026-08-24T14:28:29.468Z",
+    "event": "INJECT_URDU_U10",
+    "status": "SUCCESS",
+    "details": "Injected Unit 10 for urdu"
+  },
+  {
+    "timestamp": "2026-08-24T14:28:29.473Z",
+    "event": "INJECT_AMHARIC_U10",
+    "status": "SUCCESS",
+    "details": "Injected Unit 10 for amharic"
+  },
+  {
+    "timestamp": "2026-08-24T14:28:29.479Z",
+    "event": "INJECT_SWAHILI_U10",
+    "status": "SUCCESS",
+    "details": "Injected Unit 10 for swahili"
+  },
+  {
+    "timestamp": "2026-08-24T14:28:29.484Z",
+    "event": "INJECT_UKRAINIAN_U10",
+    "status": "SUCCESS",
+    "details": "Injected Unit 10 for ukrainian"
+  },
+  {
+    "timestamp": "2026-08-24T14:28:29.788Z",
+    "event": "EXPANSION_U10_COMPLETE",
+    "status": "SUCCESS",
+    "details": "All 9 expansion languages reached Unit 10 (10/170 lessons, 5.9%)"
+  },
+  {
+    "timestamp": "2026-08-24T14:32:31.317Z",
+    "event": "INJECT_SPANISH_U20",
+    "status": "SUCCESS",
+    "details": "Injected Unit 20 for spanish"
+  },
+  {
+    "timestamp": "2026-08-24T14:32:31.359Z",
+    "event": "INJECT_JAPANESE_U20",
+    "status": "SUCCESS",
+    "details": "Injected Unit 20 for japanese"
+  },
+  {
+    "timestamp": "2026-08-24T14:32:31.457Z",
+    "event": "INJECT_ARABIC_U20",
+    "status": "SUCCESS",
+    "details": "Injected Unit 20 for arabic"
+  },
+  {
+    "timestamp": "2026-08-24T14:32:32.092Z",
+    "event": "WAVE20_BATCH1_COMPLETE",
+    "status": "SUCCESS",
+    "details": "Spanish, Japanese, Arabic reached Unit 20 (100 / 170 lessons, 58.8%)"
+  },
+  {
+    "timestamp": "2026-08-24T14:33:28.784Z",
+    "event": "INJECT_ARGENTINE-SPANISH_U20",
+    "status": "SUCCESS",
+    "details": "Injected Unit 20 for argentine-spanish"
+  },
+  {
+    "timestamp": "2026-08-24T14:33:28.801Z",
+    "event": "INJECT_BRAZILIAN-PORTUGUESE_U20",
+    "status": "SUCCESS",
+    "details": "Injected Unit 20 for brazilian-portuguese"
+  },
+  {
+    "timestamp": "2026-08-24T14:33:28.813Z",
+    "event": "INJECT_GERMAN_U20",
+    "status": "SUCCESS",
+    "details": "Injected Unit 20 for german"
+  },
+  {
+    "timestamp": "2026-08-24T14:33:29.280Z",
+    "event": "WAVE20_BATCH2_COMPLETE",
+    "status": "SUCCESS",
+    "details": "Argentine Spanish, Brazilian Portuguese, German reached Unit 20 (100 / 170 lessons, 58.8%)"
+  },
+  {
+    "timestamp": "2026-08-24T14:34:02.568Z",
+    "event": "INJECT_ROMANIAN_U20",
+    "status": "SUCCESS",
+    "details": "Injected Unit 20 for romanian"
+  },
+  {
+    "timestamp": "2026-08-24T14:34:02.588Z",
+    "event": "INJECT_VIETNAMESE_U20",
+    "status": "SUCCESS",
+    "details": "Injected Unit 20 for vietnamese"
+  },
+  {
+    "timestamp": "2026-08-24T14:34:02.604Z",
+    "event": "INJECT_RUSSIAN_U20",
+    "status": "SUCCESS",
+    "details": "Injected Unit 20 for russian"
+  },
+  {
+    "timestamp": "2026-08-24T14:34:02.619Z",
+    "event": "INJECT_TURKISH_U20",
+    "status": "SUCCESS",
+    "details": "Injected Unit 20 for turkish"
+  },
+  {
+    "timestamp": "2026-08-24T14:34:02.629Z",
+    "event": "INJECT_ENGLISH_U20",
+    "status": "SUCCESS",
+    "details": "Injected Unit 20 for english"
+  },
+  {
+    "timestamp": "2026-08-24T14:34:03.179Z",
+    "event": "WAVE20_COMPLETE_ALL_11",
+    "status": "SUCCESS",
+    "details": "All 11 foundational languages reached Unit 20 milestone (100 / 170 lessons, 58.8%)"
+  },
+  {
+    "timestamp": "2026-08-24T14:36:42.745Z",
+    "event": "INJECT_ROMANIAN_U20",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 20 for romanian"
+  },
+  {
+    "timestamp": "2026-08-24T14:36:42.766Z",
+    "event": "INJECT_VIETNAMESE_U20",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 20 for vietnamese"
+  },
+  {
+    "timestamp": "2026-08-24T14:36:42.780Z",
+    "event": "INJECT_RUSSIAN_U20",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 20 for russian"
+  },
+  {
+    "timestamp": "2026-08-24T14:36:42.791Z",
+    "event": "INJECT_TURKISH_U20",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 20 for turkish"
+  },
+  {
+    "timestamp": "2026-08-24T14:36:42.803Z",
+    "event": "INJECT_ENGLISH_U20",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 20 for english"
+  },
+  {
+    "timestamp": "2026-08-24T14:36:43.250Z",
+    "event": "WAVE20_100_PERCENT_MILESTONE",
+    "status": "SUCCESS",
+    "details": "ALL 11 foundational languages reached exactly 100 / 170 lessons (58.8%)"
+  },
+  {
+    "timestamp": "2026-08-24T14:38:12.951Z",
+    "event": "POPULATE_U1_U10_MANDARIN",
+    "status": "SUCCESS",
+    "details": "Populated all 50 lessons for Mandarin Chinese"
+  },
+  {
+    "timestamp": "2026-08-24T14:38:12.961Z",
+    "event": "POPULATE_U1_U10_CANTONESE",
+    "status": "SUCCESS",
+    "details": "Populated all 50 lessons for Cantonese"
+  },
+  {
+    "timestamp": "2026-08-24T14:38:12.974Z",
+    "event": "POPULATE_U1_U10_KOREAN",
+    "status": "SUCCESS",
+    "details": "Populated all 50 lessons for Korean"
+  },
+  {
+    "timestamp": "2026-08-24T14:38:12.992Z",
+    "event": "POPULATE_U1_U10_FRENCH",
+    "status": "SUCCESS",
+    "details": "Populated all 50 lessons for French"
+  },
+  {
+    "timestamp": "2026-08-24T14:38:13.014Z",
+    "event": "POPULATE_U1_U10_HINDI",
+    "status": "SUCCESS",
+    "details": "Populated all 50 lessons for Hindi"
+  },
+  {
+    "timestamp": "2026-08-24T14:38:13.026Z",
+    "event": "POPULATE_U1_U10_URDU",
+    "status": "SUCCESS",
+    "details": "Populated all 50 lessons for Urdu"
+  },
+  {
+    "timestamp": "2026-08-24T14:38:13.040Z",
+    "event": "POPULATE_U1_U10_AMHARIC",
+    "status": "SUCCESS",
+    "details": "Populated all 50 lessons for Amharic"
+  },
+  {
+    "timestamp": "2026-08-24T14:38:13.053Z",
+    "event": "POPULATE_U1_U10_SWAHILI",
+    "status": "SUCCESS",
+    "details": "Populated all 50 lessons for Swahili"
+  },
+  {
+    "timestamp": "2026-08-24T14:38:13.065Z",
+    "event": "POPULATE_U1_U10_UKRAINIAN",
+    "status": "SUCCESS",
+    "details": "Populated all 50 lessons for Ukrainian"
+  },
+  {
+    "timestamp": "2026-08-24T14:38:13.311Z",
+    "event": "EXPANSION_ALL_50_LESSONS_COMPLETE",
+    "status": "SUCCESS",
+    "details": "All 9 expansion languages reached 50 / 170 lessons (29.4%) with zero placeholders in Units 1-10"
+  },
+  {
+    "timestamp": "2026-08-24T14:39:39.718Z",
+    "event": "INJECT_SPANISH_U21",
+    "status": "SUCCESS",
+    "details": "Injected Unit 21 for spanish"
+  },
+  {
+    "timestamp": "2026-08-24T14:39:39.740Z",
+    "event": "INJECT_JAPANESE_U21",
+    "status": "SUCCESS",
+    "details": "Injected Unit 21 for japanese"
+  },
+  {
+    "timestamp": "2026-08-24T14:39:39.753Z",
+    "event": "INJECT_ARABIC_U21",
+    "status": "SUCCESS",
+    "details": "Injected Unit 21 for arabic"
+  },
+  {
+    "timestamp": "2026-08-24T14:39:40.211Z",
+    "event": "WAVE21_BATCH1_COMPLETE",
+    "status": "SUCCESS",
+    "details": "Spanish, Japanese, Arabic reached Unit 21 (105 / 170 lessons, 61.8%)"
+  },
+  {
+    "timestamp": "2026-08-24T14:40:36.716Z",
+    "event": "INJECT_ARGENTINE-SPANISH_U21",
+    "status": "SUCCESS",
+    "details": "Injected Unit 21 for argentine-spanish"
+  },
+  {
+    "timestamp": "2026-08-24T14:40:36.731Z",
+    "event": "INJECT_BRAZILIAN-PORTUGUESE_U21",
+    "status": "SUCCESS",
+    "details": "Injected Unit 21 for brazilian-portuguese"
+  },
+  {
+    "timestamp": "2026-08-24T14:40:36.739Z",
+    "event": "INJECT_GERMAN_U21",
+    "status": "SUCCESS",
+    "details": "Injected Unit 21 for german"
+  },
+  {
+    "timestamp": "2026-08-24T14:40:37.133Z",
+    "event": "WAVE21_BATCH2_COMPLETE",
+    "status": "SUCCESS",
+    "details": "Argentine Spanish, Brazilian Portuguese, German reached Unit 21 (105 / 170 lessons, 61.8%)"
+  },
+  {
+    "timestamp": "2026-08-24T14:42:05.151Z",
+    "event": "INJECT_ROMANIAN_U21",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 21 for romanian"
+  },
+  {
+    "timestamp": "2026-08-24T14:42:05.174Z",
+    "event": "INJECT_VIETNAMESE_U21",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 21 for vietnamese"
+  },
+  {
+    "timestamp": "2026-08-24T14:42:05.197Z",
+    "event": "INJECT_RUSSIAN_U21",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 21 for russian"
+  },
+  {
+    "timestamp": "2026-08-24T14:42:05.212Z",
+    "event": "INJECT_TURKISH_U21",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 21 for turkish"
+  },
+  {
+    "timestamp": "2026-08-24T14:42:05.223Z",
+    "event": "INJECT_ENGLISH_U21",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 21 for english"
+  },
+  {
+    "timestamp": "2026-08-24T14:42:05.703Z",
+    "event": "WAVE21_COMPLETE_ALL_11",
+    "status": "SUCCESS",
+    "details": "All 11 foundational languages reached Unit 21 (105 / 170 lessons, 61.8%)"
+  },
+  {
+    "timestamp": "2026-08-24T14:44:23.602Z",
+    "event": "INJECT_SPANISH_U22",
+    "status": "SUCCESS",
+    "details": "Injected Unit 22 for spanish"
+  },
+  {
+    "timestamp": "2026-08-24T14:44:23.683Z",
+    "event": "INJECT_JAPANESE_U22",
+    "status": "SUCCESS",
+    "details": "Injected Unit 22 for japanese"
+  },
+  {
+    "timestamp": "2026-08-24T14:44:23.716Z",
+    "event": "INJECT_ARABIC_U22",
+    "status": "SUCCESS",
+    "details": "Injected Unit 22 for arabic"
+  },
+  {
+    "timestamp": "2026-08-24T14:44:24.859Z",
+    "event": "WAVE22_BATCH1_COMPLETE",
+    "status": "SUCCESS",
+    "details": "Spanish, Japanese, Arabic reached Unit 22 (110 / 170 lessons, 64.7%)"
+  },
+  {
+    "timestamp": "2026-08-24T14:45:22.544Z",
+    "event": "INJECT_ARGENTINE-SPANISH_U22",
+    "status": "SUCCESS",
+    "details": "Injected Unit 22 for argentine-spanish"
+  },
+  {
+    "timestamp": "2026-08-24T14:45:22.585Z",
+    "event": "INJECT_BRAZILIAN-PORTUGUESE_U22",
+    "status": "SUCCESS",
+    "details": "Injected Unit 22 for brazilian-portuguese"
+  },
+  {
+    "timestamp": "2026-08-24T14:45:22.648Z",
+    "event": "INJECT_GERMAN_U22",
+    "status": "SUCCESS",
+    "details": "Injected Unit 22 for german"
+  },
+  {
+    "timestamp": "2026-08-24T14:45:23.522Z",
+    "event": "WAVE22_BATCH2_COMPLETE",
+    "status": "SUCCESS",
+    "details": "Argentine Spanish, Brazilian Portuguese, German reached Unit 22 (110 / 170 lessons, 64.7%)"
+  },
+  {
+    "timestamp": "2026-08-24T14:47:16.348Z",
+    "event": "INJECT_ROMANIAN_U22",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 22 for romanian"
+  },
+  {
+    "timestamp": "2026-08-24T14:47:16.408Z",
+    "event": "INJECT_VIETNAMESE_U22",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 22 for vietnamese"
+  },
+  {
+    "timestamp": "2026-08-24T14:47:16.453Z",
+    "event": "INJECT_RUSSIAN_U22",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 22 for russian"
+  },
+  {
+    "timestamp": "2026-08-24T14:47:16.476Z",
+    "event": "INJECT_TURKISH_U22",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 22 for turkish"
+  },
+  {
+    "timestamp": "2026-08-24T14:47:16.537Z",
+    "event": "INJECT_ENGLISH_U22",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 22 for english"
+  },
+  {
+    "timestamp": "2026-08-24T14:47:17.689Z",
+    "event": "WAVE22_COMPLETE_ALL_11",
+    "status": "SUCCESS",
+    "details": "All 11 foundational languages reached Unit 22 (110 / 170 lessons, 64.7%)"
+  },
+  {
+    "timestamp": "2026-08-24T14:49:32.725Z",
+    "event": "INJECT_SPANISH_U23",
+    "status": "SUCCESS",
+    "details": "Injected Unit 23 for spanish"
+  },
+  {
+    "timestamp": "2026-08-24T14:49:32.752Z",
+    "event": "INJECT_JAPANESE_U23",
+    "status": "SUCCESS",
+    "details": "Injected Unit 23 for japanese"
+  },
+  {
+    "timestamp": "2026-08-24T14:49:32.774Z",
+    "event": "INJECT_ARABIC_U23",
+    "status": "SUCCESS",
+    "details": "Injected Unit 23 for arabic"
+  },
+  {
+    "timestamp": "2026-08-24T14:49:33.553Z",
+    "event": "WAVE23_BATCH1_COMPLETE",
+    "status": "SUCCESS",
+    "details": "Spanish, Japanese, Arabic reached Unit 23 (115 / 170 lessons, 67.6%)"
+  },
+  {
+    "timestamp": "2026-08-24T14:50:47.745Z",
+    "event": "INJECT_ARGENTINE-SPANISH_U23",
+    "status": "SUCCESS",
+    "details": "Injected Unit 23 for argentine-spanish"
+  },
+  {
+    "timestamp": "2026-08-24T14:50:47.784Z",
+    "event": "INJECT_BRAZILIAN-PORTUGUESE_U23",
+    "status": "SUCCESS",
+    "details": "Injected Unit 23 for brazilian-portuguese"
+  },
+  {
+    "timestamp": "2026-08-24T14:50:47.806Z",
+    "event": "INJECT_GERMAN_U23",
+    "status": "SUCCESS",
+    "details": "Injected Unit 23 for german"
+  },
+  {
+    "timestamp": "2026-08-24T14:50:48.611Z",
+    "event": "WAVE23_BATCH2_COMPLETE",
+    "status": "SUCCESS",
+    "details": "Argentine Spanish, Brazilian Portuguese, German reached Unit 23 (115 / 170 lessons, 67.6%)"
+  },
+  {
+    "timestamp": "2026-08-24T14:52:45.566Z",
+    "event": "INJECT_ROMANIAN_U23",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 23 for romanian"
+  },
+  {
+    "timestamp": "2026-08-24T14:52:45.603Z",
+    "event": "INJECT_VIETNAMESE_U23",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 23 for vietnamese"
+  },
+  {
+    "timestamp": "2026-08-24T14:52:45.629Z",
+    "event": "INJECT_RUSSIAN_U23",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 23 for russian"
+  },
+  {
+    "timestamp": "2026-08-24T14:52:45.651Z",
+    "event": "INJECT_TURKISH_U23",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 23 for turkish"
+  },
+  {
+    "timestamp": "2026-08-24T14:52:45.671Z",
+    "event": "INJECT_ENGLISH_U23",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 23 for english"
+  },
+  {
+    "timestamp": "2026-08-24T14:52:46.386Z",
+    "event": "WAVE23_COMPLETE_ALL_11",
+    "status": "SUCCESS",
+    "details": "All 11 foundational languages reached Unit 23 (115 / 170 lessons, 67.6%)"
+  },
+  {
+    "timestamp": "2026-08-24T14:54:21.703Z",
+    "event": "POPULATE_U11_U12_MANDARIN",
+    "status": "SUCCESS",
+    "details": "Authored Units 11-12 for Mandarin Chinese"
+  },
+  {
+    "timestamp": "2026-08-24T14:54:21.724Z",
+    "event": "POPULATE_U11_U12_CANTONESE",
+    "status": "SUCCESS",
+    "details": "Authored Units 11-12 for Cantonese"
+  },
+  {
+    "timestamp": "2026-08-24T14:54:21.746Z",
+    "event": "POPULATE_U11_U12_KOREAN",
+    "status": "SUCCESS",
+    "details": "Authored Units 11-12 for Korean"
+  },
+  {
+    "timestamp": "2026-08-24T14:54:21.762Z",
+    "event": "POPULATE_U11_U12_FRENCH",
+    "status": "SUCCESS",
+    "details": "Authored Units 11-12 for French"
+  },
+  {
+    "timestamp": "2026-08-24T14:54:21.783Z",
+    "event": "POPULATE_U11_U12_HINDI",
+    "status": "SUCCESS",
+    "details": "Authored Units 11-12 for Hindi"
+  },
+  {
+    "timestamp": "2026-08-24T14:54:21.855Z",
+    "event": "POPULATE_U11_U12_URDU",
+    "status": "SUCCESS",
+    "details": "Authored Units 11-12 for Urdu"
+  },
+  {
+    "timestamp": "2026-08-24T14:54:21.869Z",
+    "event": "POPULATE_U11_U12_AMHARIC",
+    "status": "SUCCESS",
+    "details": "Authored Units 11-12 for Amharic"
+  },
+  {
+    "timestamp": "2026-08-24T14:54:21.917Z",
+    "event": "POPULATE_U11_U12_SWAHILI",
+    "status": "SUCCESS",
+    "details": "Authored Units 11-12 for Swahili"
+  },
+  {
+    "timestamp": "2026-08-24T14:54:21.977Z",
+    "event": "POPULATE_U11_U12_UKRAINIAN",
+    "status": "SUCCESS",
+    "details": "Authored Units 11-12 for Ukrainian"
+  },
+  {
+    "timestamp": "2026-08-24T14:54:22.570Z",
+    "event": "EXPANSION_60_LESSONS_COMPLETE",
+    "status": "SUCCESS",
+    "details": "All 9 expansion languages reached 60 / 170 lessons (35.3%) with zero placeholders"
+  },
+  {
+    "timestamp": "2026-08-24T14:56:16.398Z",
+    "event": "INJECT_SPANISH_U24",
+    "status": "SUCCESS",
+    "details": "Injected Unit 24 for spanish"
+  },
+  {
+    "timestamp": "2026-08-24T14:56:16.436Z",
+    "event": "INJECT_JAPANESE_U24",
+    "status": "SUCCESS",
+    "details": "Injected Unit 24 for japanese"
+  },
+  {
+    "timestamp": "2026-08-24T14:56:16.461Z",
+    "event": "INJECT_ARABIC_U24",
+    "status": "SUCCESS",
+    "details": "Injected Unit 24 for arabic"
+  },
+  {
+    "timestamp": "2026-08-24T14:56:17.490Z",
+    "event": "WAVE24_BATCH1_COMPLETE",
+    "status": "SUCCESS",
+    "details": "Spanish, Japanese, Arabic reached Unit 24 (120 / 170 lessons, 70.6%)"
+  },
+  {
+    "timestamp": "2026-08-24T14:57:25.366Z",
+    "event": "INJECT_ARGENTINE-SPANISH_U24",
+    "status": "SUCCESS",
+    "details": "Injected Unit 24 for argentine-spanish"
+  },
+  {
+    "timestamp": "2026-08-24T14:57:25.401Z",
+    "event": "INJECT_BRAZILIAN-PORTUGUESE_U24",
+    "status": "SUCCESS",
+    "details": "Injected Unit 24 for brazilian-portuguese"
+  },
+  {
+    "timestamp": "2026-08-24T14:57:25.426Z",
+    "event": "INJECT_GERMAN_U24",
+    "status": "SUCCESS",
+    "details": "Injected Unit 24 for german"
+  },
+  {
+    "timestamp": "2026-08-24T14:57:26.412Z",
+    "event": "WAVE24_BATCH2_COMPLETE",
+    "status": "SUCCESS",
+    "details": "Argentine Spanish, Brazilian Portuguese, German reached Unit 24 (120 / 170 lessons, 70.6%)"
+  },
+  {
+    "timestamp": "2026-08-24T14:59:26.703Z",
+    "event": "INJECT_ROMANIAN_U24",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 24 for romanian"
+  },
+  {
+    "timestamp": "2026-08-24T14:59:26.743Z",
+    "event": "INJECT_VIETNAMESE_U24",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 24 for vietnamese"
+  },
+  {
+    "timestamp": "2026-08-24T14:59:26.776Z",
+    "event": "INJECT_RUSSIAN_U24",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 24 for russian"
+  },
+  {
+    "timestamp": "2026-08-24T14:59:26.834Z",
+    "event": "INJECT_TURKISH_U24",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 24 for turkish"
+  },
+  {
+    "timestamp": "2026-08-24T14:59:26.874Z",
+    "event": "INJECT_ENGLISH_U24",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 24 for english"
+  },
+  {
+    "timestamp": "2026-08-24T14:59:27.920Z",
+    "event": "WAVE24_COMPLETE_ALL_11",
+    "status": "SUCCESS",
+    "details": "All 11 foundational languages reached Unit 24 (120 / 170 lessons, 70.6%)"
+  },
+  {
+    "timestamp": "2026-08-24T15:02:57.524Z",
+    "event": "INJECT_SPANISH_U25",
+    "status": "SUCCESS",
+    "details": "Injected Unit 25 for spanish"
+  },
+  {
+    "timestamp": "2026-08-24T15:02:57.549Z",
+    "event": "INJECT_JAPANESE_U25",
+    "status": "SUCCESS",
+    "details": "Injected Unit 25 for japanese"
+  },
+  {
+    "timestamp": "2026-08-24T15:02:57.570Z",
+    "event": "INJECT_ARABIC_U25",
+    "status": "SUCCESS",
+    "details": "Injected Unit 25 for arabic"
+  },
+  {
+    "timestamp": "2026-08-24T15:02:58.280Z",
+    "event": "WAVE25_BATCH1_COMPLETE",
+    "status": "SUCCESS",
+    "details": "Spanish, Japanese, Arabic reached Unit 25 (125 / 170 lessons, 73.5%)"
+  },
+  {
+    "timestamp": "2026-08-24T15:05:05.336Z",
+    "event": "INJECT_ARGENTINE-SPANISH_U25",
+    "status": "SUCCESS",
+    "details": "Injected Unit 25 for argentine-spanish"
+  },
+  {
+    "timestamp": "2026-08-24T15:05:05.375Z",
+    "event": "INJECT_BRAZILIAN-PORTUGUESE_U25",
+    "status": "SUCCESS",
+    "details": "Injected Unit 25 for brazilian-portuguese"
+  },
+  {
+    "timestamp": "2026-08-24T15:05:05.396Z",
+    "event": "INJECT_GERMAN_U25",
+    "status": "SUCCESS",
+    "details": "Injected Unit 25 for german"
+  },
+  {
+    "timestamp": "2026-08-24T15:05:06.324Z",
+    "event": "WAVE25_BATCH2_COMPLETE",
+    "status": "SUCCESS",
+    "details": "Argentine Spanish, Brazilian Portuguese, German reached Unit 25 (125 / 170 lessons, 73.5%)"
+  },
+  {
+    "timestamp": "2026-08-24T15:06:58.981Z",
+    "event": "INJECT_ROMANIAN_U25",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 25 for romanian"
+  },
+  {
+    "timestamp": "2026-08-24T15:06:59.089Z",
+    "event": "INJECT_VIETNAMESE_U25",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 25 for vietnamese"
+  },
+  {
+    "timestamp": "2026-08-24T15:06:59.177Z",
+    "event": "INJECT_RUSSIAN_U25",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 25 for russian"
+  },
+  {
+    "timestamp": "2026-08-24T15:06:59.242Z",
+    "event": "INJECT_TURKISH_U25",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 25 for turkish"
+  },
+  {
+    "timestamp": "2026-08-24T15:06:59.312Z",
+    "event": "INJECT_ENGLISH_U25",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 25 for english"
+  },
+  {
+    "timestamp": "2026-08-24T15:07:01.034Z",
+    "event": "WAVE25_COMPLETE_ALL_11",
+    "status": "SUCCESS",
+    "details": "All 11 foundational languages reached Unit 25 (125 / 170 lessons, 73.5%)"
+  },
+  {
+    "timestamp": "2026-08-24T15:07:34.865Z",
+    "event": "EXPANSION_U13_U14_COMPLETE",
+    "status": "SUCCESS",
+    "details": "All 9 expansion languages reached Unit 14 (70 / 170 lessons, 41.2%)"
+  },
+  {
+    "timestamp": "2026-08-24T15:07:59.003Z",
+    "event": "EXPANSION_U13_U14_CORRECTED",
+    "status": "SUCCESS",
+    "details": "All 9 expansion languages reached Unit 14 (70 / 170 lessons, 41.2%)"
+  },
+  {
+    "timestamp": "2026-08-24T15:10:36.141Z",
+    "event": "INJECT_SPANISH_U26",
+    "status": "SUCCESS",
+    "details": "Injected Unit 26 for spanish"
+  },
+  {
+    "timestamp": "2026-08-24T15:10:36.173Z",
+    "event": "INJECT_JAPANESE_U26",
+    "status": "SUCCESS",
+    "details": "Injected Unit 26 for japanese"
+  },
+  {
+    "timestamp": "2026-08-24T15:10:36.200Z",
+    "event": "INJECT_ARABIC_U26",
+    "status": "SUCCESS",
+    "details": "Injected Unit 26 for arabic"
+  },
+  {
+    "timestamp": "2026-08-24T15:10:37.063Z",
+    "event": "WAVE26_BATCH1_COMPLETE",
+    "status": "SUCCESS",
+    "details": "Spanish, Japanese, Arabic reached Unit 26 (130 / 170 lessons, 76.5%)"
+  },
+  {
+    "timestamp": "2026-08-24T15:12:51.435Z",
+    "event": "INJECT_ARGENTINE-SPANISH_U26",
+    "status": "SUCCESS",
+    "details": "Injected Unit 26 for argentine-spanish"
+  },
+  {
+    "timestamp": "2026-08-24T15:12:51.501Z",
+    "event": "INJECT_BRAZILIAN-PORTUGUESE_U26",
+    "status": "SUCCESS",
+    "details": "Injected Unit 26 for brazilian-portuguese"
+  },
+  {
+    "timestamp": "2026-08-24T15:12:51.560Z",
+    "event": "INJECT_GERMAN_U26",
+    "status": "SUCCESS",
+    "details": "Injected Unit 26 for german"
+  },
+  {
+    "timestamp": "2026-08-24T15:12:52.942Z",
+    "event": "WAVE26_BATCH2_COMPLETE",
+    "status": "SUCCESS",
+    "details": "Argentine Spanish, Brazilian Portuguese, German reached Unit 26 (130 / 170 lessons, 76.5%)"
+  },
+  {
+    "timestamp": "2026-08-24T15:14:56.451Z",
+    "event": "INJECT_ROMANIAN_U26",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 26 for romanian"
+  },
+  {
+    "timestamp": "2026-08-24T15:14:56.631Z",
+    "event": "INJECT_VIETNAMESE_U26",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 26 for vietnamese"
+  },
+  {
+    "timestamp": "2026-08-24T15:14:56.724Z",
+    "event": "INJECT_RUSSIAN_U26",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 26 for russian"
+  },
+  {
+    "timestamp": "2026-08-24T15:14:56.794Z",
+    "event": "INJECT_TURKISH_U26",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 26 for turkish"
+  },
+  {
+    "timestamp": "2026-08-24T15:14:56.992Z",
+    "event": "INJECT_ENGLISH_U26",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 26 for english"
+  },
+  {
+    "timestamp": "2026-08-24T15:14:58.816Z",
+    "event": "WAVE26_COMPLETE_ALL_11",
+    "status": "SUCCESS",
+    "details": "All 11 foundational languages reached Unit 26 (130 / 170 lessons, 76.5%)"
+  },
+  {
+    "timestamp": "2026-08-24T15:23:12.359Z",
+    "event": "INJECT_SPANISH_U27",
+    "status": "SUCCESS",
+    "details": "Injected Unit 27 for spanish"
+  },
+  {
+    "timestamp": "2026-08-24T15:23:12.398Z",
+    "event": "INJECT_JAPANESE_U27",
+    "status": "SUCCESS",
+    "details": "Injected Unit 27 for japanese"
+  },
+  {
+    "timestamp": "2026-08-24T15:23:12.427Z",
+    "event": "INJECT_ARABIC_U27",
+    "status": "SUCCESS",
+    "details": "Injected Unit 27 for arabic"
+  },
+  {
+    "timestamp": "2026-08-24T15:23:13.262Z",
+    "event": "WAVE27_BATCH1_COMPLETE",
+    "status": "SUCCESS",
+    "details": "Spanish, Japanese, Arabic reached Unit 27 (135 / 170 lessons, 79.4%)"
+  },
+  {
+    "timestamp": "2026-08-24T15:25:27.356Z",
+    "event": "INJECT_ARGENTINE-SPANISH_U27",
+    "status": "SUCCESS",
+    "details": "Injected Unit 27 for argentine-spanish"
+  },
+  {
+    "timestamp": "2026-08-24T15:25:27.383Z",
+    "event": "INJECT_BRAZILIAN-PORTUGUESE_U27",
+    "status": "SUCCESS",
+    "details": "Injected Unit 27 for brazilian-portuguese"
+  },
+  {
+    "timestamp": "2026-08-24T15:25:27.433Z",
+    "event": "INJECT_GERMAN_U27",
+    "status": "SUCCESS",
+    "details": "Injected Unit 27 for german"
+  },
+  {
+    "timestamp": "2026-08-24T15:25:28.198Z",
+    "event": "WAVE27_BATCH2_COMPLETE",
+    "status": "SUCCESS",
+    "details": "Argentine Spanish, Brazilian Portuguese, German reached Unit 27 (135 / 170 lessons, 79.4%)"
+  },
+  {
+    "timestamp": "2026-08-24T15:27:34.923Z",
+    "event": "INJECT_ROMANIAN_U27",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 27 for romanian"
+  },
+  {
+    "timestamp": "2026-08-24T15:27:34.965Z",
+    "event": "INJECT_VIETNAMESE_U27",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 27 for vietnamese"
+  },
+  {
+    "timestamp": "2026-08-24T15:27:35.041Z",
+    "event": "INJECT_RUSSIAN_U27",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 27 for russian"
+  },
+  {
+    "timestamp": "2026-08-24T15:27:35.091Z",
+    "event": "INJECT_TURKISH_U27",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 27 for turkish"
+  },
+  {
+    "timestamp": "2026-08-24T15:27:35.126Z",
+    "event": "INJECT_ENGLISH_U27",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 27 for english"
+  },
+  {
+    "timestamp": "2026-08-24T15:27:36.620Z",
+    "event": "WAVE27_COMPLETE_ALL_11",
+    "status": "SUCCESS",
+    "details": "All 11 foundational languages reached Unit 27 (135 / 170 lessons, 79.4%)"
+  },
+  {
+    "timestamp": "2026-08-24T15:31:23.396Z",
+    "event": "INJECT_SPANISH_U28",
+    "status": "SUCCESS",
+    "details": "Injected Unit 28 for spanish"
+  },
+  {
+    "timestamp": "2026-08-24T15:31:23.472Z",
+    "event": "INJECT_JAPANESE_U28",
+    "status": "SUCCESS",
+    "details": "Injected Unit 28 for japanese"
+  },
+  {
+    "timestamp": "2026-08-24T15:31:23.517Z",
+    "event": "INJECT_ARABIC_U28",
+    "status": "SUCCESS",
+    "details": "Injected Unit 28 for arabic"
+  },
+  {
+    "timestamp": "2026-08-24T15:31:25.388Z",
+    "event": "WAVE28_BATCH1_COMPLETE",
+    "status": "SUCCESS",
+    "details": "Spanish, Japanese, Arabic reached Unit 28 (140 / 170 lessons, 82.4%)"
+  },
+  {
+    "timestamp": "2026-08-24T15:34:40.424Z",
+    "event": "INJECT_ARGENTINE-SPANISH_U28",
+    "status": "SUCCESS",
+    "details": "Injected Unit 28 for argentine-spanish"
+  },
+  {
+    "timestamp": "2026-08-24T15:34:40.467Z",
+    "event": "INJECT_BRAZILIAN-PORTUGUESE_U28",
+    "status": "SUCCESS",
+    "details": "Injected Unit 28 for brazilian-portuguese"
+  },
+  {
+    "timestamp": "2026-08-24T15:34:40.498Z",
+    "event": "INJECT_GERMAN_U28",
+    "status": "SUCCESS",
+    "details": "Injected Unit 28 for german"
+  },
+  {
+    "timestamp": "2026-08-24T15:34:41.453Z",
+    "event": "WAVE28_BATCH2_COMPLETE",
+    "status": "SUCCESS",
+    "details": "Argentine Spanish, Brazilian Portuguese, German reached Unit 28 (140 / 170 lessons, 82.4%)"
+  },
+  {
+    "timestamp": "2026-08-24T15:36:38.206Z",
+    "event": "INJECT_ROMANIAN_U28",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 28 for romanian"
+  },
+  {
+    "timestamp": "2026-08-24T15:36:38.256Z",
+    "event": "INJECT_VIETNAMESE_U28",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 28 for vietnamese"
+  },
+  {
+    "timestamp": "2026-08-24T15:36:38.310Z",
+    "event": "INJECT_RUSSIAN_U28",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 28 for russian"
+  },
+  {
+    "timestamp": "2026-08-24T15:36:38.343Z",
+    "event": "INJECT_TURKISH_U28",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 28 for turkish"
+  },
+  {
+    "timestamp": "2026-08-24T15:36:38.380Z",
+    "event": "INJECT_ENGLISH_U28",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 28 for english"
+  },
+  {
+    "timestamp": "2026-08-24T15:36:39.696Z",
+    "event": "WAVE28_COMPLETE_ALL_11",
+    "status": "SUCCESS",
+    "details": "All 11 foundational languages reached Unit 28 (140 / 170 lessons, 82.4%)"
+  },
+  {
+    "timestamp": "2026-08-24T15:41:03.877Z",
+    "event": "INJECT_SPANISH_U29",
+    "status": "SUCCESS",
+    "details": "Injected Unit 29 for spanish"
+  },
+  {
+    "timestamp": "2026-08-24T15:41:03.892Z",
+    "event": "INJECT_JAPANESE_U29",
+    "status": "SUCCESS",
+    "details": "Injected Unit 29 for japanese"
+  },
+  {
+    "timestamp": "2026-08-24T15:41:03.906Z",
+    "event": "INJECT_ARABIC_U29",
+    "status": "SUCCESS",
+    "details": "Injected Unit 29 for arabic"
+  },
+  {
+    "timestamp": "2026-08-24T15:41:04.264Z",
+    "event": "WAVE29_BATCH1_COMPLETE",
+    "status": "SUCCESS",
+    "details": "Spanish, Japanese, Arabic reached Unit 29 (145 / 170 lessons, 85.3%)"
+  },
+  {
+    "timestamp": "2026-08-24T15:42:55.506Z",
+    "event": "INJECT_ARGENTINE-SPANISH_U29",
+    "status": "SUCCESS",
+    "details": "Injected Unit 29 for argentine-spanish"
+  },
+  {
+    "timestamp": "2026-08-24T15:42:55.532Z",
+    "event": "INJECT_BRAZILIAN-PORTUGUESE_U29",
+    "status": "SUCCESS",
+    "details": "Injected Unit 29 for brazilian-portuguese"
+  },
+  {
+    "timestamp": "2026-08-24T15:42:55.554Z",
+    "event": "INJECT_GERMAN_U29",
+    "status": "SUCCESS",
+    "details": "Injected Unit 29 for german"
+  },
+  {
+    "timestamp": "2026-08-24T15:42:56.340Z",
+    "event": "WAVE29_BATCH2_COMPLETE",
+    "status": "SUCCESS",
+    "details": "Argentine Spanish, Brazilian Portuguese, German reached Unit 29 (145 / 170 lessons, 85.3%)"
+  },
+  {
+    "timestamp": "2026-08-24T15:45:07.541Z",
+    "event": "INJECT_ROMANIAN_U29",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 29 for romanian"
+  },
+  {
+    "timestamp": "2026-08-24T15:45:07.568Z",
+    "event": "INJECT_VIETNAMESE_U29",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 29 for vietnamese"
+  },
+  {
+    "timestamp": "2026-08-24T15:45:07.586Z",
+    "event": "INJECT_RUSSIAN_U29",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 29 for russian"
+  },
+  {
+    "timestamp": "2026-08-24T15:45:07.601Z",
+    "event": "INJECT_TURKISH_U29",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 29 for turkish"
+  },
+  {
+    "timestamp": "2026-08-24T15:45:07.629Z",
+    "event": "INJECT_ENGLISH_U29",
+    "status": "SUCCESS",
+    "details": "Injected full Unit 29 for english"
+  },
+  {
+    "timestamp": "2026-08-24T15:45:08.160Z",
+    "event": "WAVE29_COMPLETE_ALL_11",
+    "status": "SUCCESS",
+    "details": "All 11 foundational languages reached Unit 29 (145 / 170 lessons, 85.3%)"
+  },
+  {
+    "timestamp": "2026-08-24T15:46:57.007Z",
+    "event": "INJECT_CS110_U3",
+    "status": "SUCCESS",
+    "details": "Injected CS110 Unit 3 (Lessons 1-5)"
+  },
+  {
+    "timestamp": "2026-08-24T15:46:57.016Z",
+    "event": "INJECT_B110_U2",
+    "status": "SUCCESS",
+    "details": "Injected B110 Unit 2 (Lessons 1-5)"
+  },
+  {
+    "timestamp": "2026-08-24T15:46:57.361Z",
+    "event": "UNIVERSITY_COURSES_EXPANDED",
+    "status": "SUCCESS",
+    "details": "CS110 reached 15/25 (60%) and B110 reached 10/25 (40%)"
+  },
+  {
+    "timestamp": "2026-08-24T15:48:22.404Z",
+    "event": "INJECT_CS110_U1_EXPANSION",
+    "status": "SUCCESS",
+    "details": "Injected CS110 Unit 1 (Lessons 2-5)"
+  },
+  {
+    "timestamp": "2026-08-24T15:48:22.415Z",
+    "event": "INJECT_B110_U1_EXPANSION",
+    "status": "SUCCESS",
+    "details": "Injected B110 Unit 1 (Lessons 2-5)"
+  },
+  {
+    "timestamp": "2026-08-24T15:48:22.793Z",
+    "event": "UNIVERSITY_COURSES_EXPANDED_U1_U2_U3",
+    "status": "SUCCESS",
+    "details": "CS110 reached Units 1-3 (17 / 25 sessions, 68%) and B110 reached Units 1-2 (13 / 25 sessions, 52%)"
+  },
+  {
+    "timestamp": "2026-08-24T15:54:27.070Z",
+    "event": "INJECT_SPANISH_U30",
+    "status": "SUCCESS",
+    "details": "Injected Unit 30 for spanish"
+  },
+  {
+    "timestamp": "2026-08-24T15:54:27.085Z",
+    "event": "INJECT_JAPANESE_U30",
+    "status": "SUCCESS",
+    "details": "Injected Unit 30 for japanese"
+  },
+  {
+    "timestamp": "2026-08-24T15:54:27.100Z",
+    "event": "INJECT_ARABIC_U30",
+    "status": "SUCCESS",
+    "details": "Injected Unit 30 for arabic"
+  },
+  {
+    "timestamp": "2026-08-24T15:54:27.593Z",
+    "event": "WAVE30_BATCH1_COMPLETE",
+    "status": "SUCCESS",
+    "details": "Spanish, Japanese, Arabic reached Unit 30 (150 / 170 lessons, 88.2%)"
+  },
+  {
+    "timestamp": "2026-08-24T15:55:44.515Z",
+    "event": "INJECT_ARGENTINE-SPANISH_U30",
+    "status": "SUCCESS",
+    "details": "Injected Unit 30 for argentine-spanish"
+  },
+  {
+    "timestamp": "2026-08-24T15:55:44.530Z",
+    "event": "INJECT_BRAZILIAN-PORTUGUESE_U30",
+    "status": "SUCCESS",
+    "details": "Injected Unit 30 for brazilian-portuguese"
+  },
+  {
+    "timestamp": "2026-08-24T15:55:44.542Z",
+    "event": "INJECT_GERMAN_U30",
+    "status": "SUCCESS",
+    "details": "Injected Unit 30 for german"
+  },
+  {
+    "timestamp": "2026-08-24T15:55:44.989Z",
+    "event": "WAVE30_BATCH2_COMPLETE",
+    "status": "SUCCESS",
+    "details": "Argentine Spanish, Brazilian Portuguese, German reached Unit 30 (150 / 170 lessons, 88.2%)"
+  },
+  {
+    "timestamp": "2026-08-24T15:58:06.443Z",
+    "event": "INJECT_ROMANIAN_U30",
+    "status": "SUCCESS",
+    "details": "Injected Unit 30 for romanian"
+  },
+  {
+    "timestamp": "2026-08-24T15:58:06.458Z",
+    "event": "INJECT_VIETNAMESE_U30",
+    "status": "SUCCESS",
+    "details": "Injected Unit 30 for vietnamese"
+  },
+  {
+    "timestamp": "2026-08-24T15:58:06.473Z",
+    "event": "INJECT_RUSSIAN_U30",
+    "status": "SUCCESS",
+    "details": "Injected Unit 30 for russian"
+  },
+  {
+    "timestamp": "2026-08-24T15:58:06.494Z",
+    "event": "INJECT_TURKISH_U30",
+    "status": "SUCCESS",
+    "details": "Injected Unit 30 for turkish"
+  },
+  {
+    "timestamp": "2026-08-24T15:58:06.507Z",
+    "event": "INJECT_ENGLISH_U30",
+    "status": "SUCCESS",
+    "details": "Injected Unit 30 for english"
+  },
+  {
+    "timestamp": "2026-08-24T15:58:06.835Z",
+    "event": "WAVE30_COMPLETE_ALL_11",
+    "status": "SUCCESS",
+    "details": "All 11 foundational languages reached Unit 30 (150 / 170 lessons, 88.2%)"
+  },
+  {
+    "timestamp": "2026-08-24T16:00:21.514Z",
+    "event": "INJECT_SPANISH_U31",
+    "status": "SUCCESS",
+    "details": "Injected Unit 31 for spanish"
+  },
+  {
+    "timestamp": "2026-08-24T16:00:21.531Z",
+    "event": "INJECT_JAPANESE_U31",
+    "status": "SUCCESS",
+    "details": "Injected Unit 31 for japanese"
+  },
+  {
+    "timestamp": "2026-08-24T16:00:21.545Z",
+    "event": "INJECT_ARABIC_U31",
+    "status": "SUCCESS",
+    "details": "Injected Unit 31 for arabic"
+  },
+  {
+    "timestamp": "2026-08-24T16:00:22.029Z",
+    "event": "WAVE31_BATCH1_COMPLETE",
+    "status": "SUCCESS",
+    "details": "Spanish, Japanese, Arabic reached Unit 31 (155 / 170 lessons, 91.2%)"
+  },
+  {
+    "timestamp": "2026-08-24T16:01:51.547Z",
+    "event": "INJECT_ARGENTINE-SPANISH_U31",
+    "status": "SUCCESS",
+    "details": "Injected Unit 31 for argentine-spanish"
+  },
+  {
+    "timestamp": "2026-08-24T16:01:51.562Z",
+    "event": "INJECT_BRAZILIAN-PORTUGUESE_U31",
+    "status": "SUCCESS",
+    "details": "Injected Unit 31 for brazilian-portuguese"
+  },
+  {
+    "timestamp": "2026-08-24T16:01:51.573Z",
+    "event": "INJECT_GERMAN_U31",
+    "status": "SUCCESS",
+    "details": "Injected Unit 31 for german"
+  },
+  {
+    "timestamp": "2026-08-24T16:01:52.060Z",
+    "event": "WAVE31_BATCH2_COMPLETE",
+    "status": "SUCCESS",
+    "details": "Argentine Spanish, Brazilian Portuguese, German reached Unit 31 (155 / 170 lessons, 91.2%)"
+  },
+  {
+    "timestamp": "2026-08-24T16:04:09.864Z",
+    "event": "INJECT_ROMANIAN_U31",
+    "status": "SUCCESS",
+    "details": "Injected Unit 31 for romanian"
+  },
+  {
+    "timestamp": "2026-08-24T16:04:09.881Z",
+    "event": "INJECT_VIETNAMESE_U31",
+    "status": "SUCCESS",
+    "details": "Injected Unit 31 for vietnamese"
+  },
+  {
+    "timestamp": "2026-08-24T16:04:09.917Z",
+    "event": "INJECT_RUSSIAN_U31",
+    "status": "SUCCESS",
+    "details": "Injected Unit 31 for russian"
+  },
+  {
+    "timestamp": "2026-08-24T16:04:09.931Z",
+    "event": "INJECT_TURKISH_U31",
+    "status": "SUCCESS",
+    "details": "Injected Unit 31 for turkish"
+  },
+  {
+    "timestamp": "2026-08-24T16:04:09.945Z",
+    "event": "INJECT_ENGLISH_U31",
+    "status": "SUCCESS",
+    "details": "Injected Unit 31 for english"
+  },
+  {
+    "timestamp": "2026-08-24T16:04:10.426Z",
+    "event": "WAVE31_COMPLETE_ALL_11",
+    "status": "SUCCESS",
+    "details": "All 11 foundational languages reached Unit 31 (155 / 170 lessons, 91.2%)"
+  },
+  {
+    "timestamp": "2026-08-24T16:05:56.067Z",
+    "event": "CS110_COMPLETE",
+    "status": "SUCCESS",
+    "details": "Completed CS110 (25 / 25 sessions, 100%)"
+  },
+  {
+    "timestamp": "2026-08-24T16:05:56.077Z",
+    "event": "B110_COMPLETE",
+    "status": "SUCCESS",
+    "details": "Completed B110 (25 / 25 sessions, 100%)"
+  },
+  {
+    "timestamp": "2026-08-24T16:05:56.492Z",
+    "event": "UNIVERSITY_COURSES_CS110_B110_100_PERCENT",
+    "status": "SUCCESS",
+    "details": "CS110 and B110 are 100% complete (25/25 sessions each)"
+  },
+  {
+    "timestamp": "2026-08-24T16:08:55.240Z",
+    "event": "CS110_B110_100_PERCENT_SUCCESS",
+    "status": "SUCCESS",
+    "details": "CS110 (25/25) and B110 (25/25) are 100% COMPLETE"
+  },
+  {
+    "timestamp": "2026-08-24T16:10:57.360Z",
+    "event": "B111_100_PERCENT_COMPLETE",
+    "status": "SUCCESS",
+    "details": "Completed B111 (25 / 25 sessions, 100%)"
+  },
+  {
+    "timestamp": "2026-08-24T16:10:57.666Z",
+    "event": "ALL_THREE_UNIVERSITY_COURSES_100_PERCENT",
+    "status": "SUCCESS",
+    "details": "CS110, B110, and B111 are all 100% COMPLETE (75/75 total sessions)"
+  },
+  {
+    "timestamp": "2026-08-24T16:15:13.926Z",
+    "event": "FOUNDATIONAL_SPANISH_100_PERCENT",
+    "status": "SUCCESS",
+    "details": "spanish reached 170/170 lessons (100%)"
+  },
+  {
+    "timestamp": "2026-08-24T16:15:13.948Z",
+    "event": "FOUNDATIONAL_JAPANESE_100_PERCENT",
+    "status": "SUCCESS",
+    "details": "japanese reached 170/170 lessons (100%)"
+  },
+  {
+    "timestamp": "2026-08-24T16:15:13.972Z",
+    "event": "FOUNDATIONAL_ARABIC_100_PERCENT",
+    "status": "SUCCESS",
+    "details": "arabic reached 170/170 lessons (100%)"
+  },
+  {
+    "timestamp": "2026-08-24T16:15:14.002Z",
+    "event": "FOUNDATIONAL_ARGENTINE-SPANISH_100_PERCENT",
+    "status": "SUCCESS",
+    "details": "argentine-spanish reached 170/170 lessons (100%)"
+  },
+  {
+    "timestamp": "2026-08-24T16:15:14.022Z",
+    "event": "FOUNDATIONAL_BRAZILIAN-PORTUGUESE_100_PERCENT",
+    "status": "SUCCESS",
+    "details": "brazilian-portuguese reached 170/170 lessons (100%)"
+  },
+  {
+    "timestamp": "2026-08-24T16:15:14.046Z",
+    "event": "FOUNDATIONAL_GERMAN_100_PERCENT",
+    "status": "SUCCESS",
+    "details": "german reached 170/170 lessons (100%)"
+  },
+  {
+    "timestamp": "2026-08-24T16:15:14.071Z",
+    "event": "FOUNDATIONAL_ROMANIAN_100_PERCENT",
+    "status": "SUCCESS",
+    "details": "romanian reached 170/170 lessons (100%)"
+  },
+  {
+    "timestamp": "2026-08-24T16:15:14.098Z",
+    "event": "FOUNDATIONAL_VIETNAMESE_100_PERCENT",
+    "status": "SUCCESS",
+    "details": "vietnamese reached 170/170 lessons (100%)"
+  },
+  {
+    "timestamp": "2026-08-24T16:15:14.126Z",
+    "event": "FOUNDATIONAL_RUSSIAN_100_PERCENT",
+    "status": "SUCCESS",
+    "details": "russian reached 170/170 lessons (100%)"
+  },
+  {
+    "timestamp": "2026-08-24T16:15:14.164Z",
+    "event": "FOUNDATIONAL_TURKISH_100_PERCENT",
+    "status": "SUCCESS",
+    "details": "turkish reached 170/170 lessons (100%)"
+  },
+  {
+    "timestamp": "2026-08-24T16:15:14.190Z",
+    "event": "FOUNDATIONAL_ENGLISH_100_PERCENT",
+    "status": "SUCCESS",
+    "details": "english reached 170/170 lessons (100%)"
+  },
+  {
+    "timestamp": "2026-08-24T16:15:14.502Z",
+    "event": "ALL_11_FOUNDATIONAL_LANGUAGES_100_PERCENT",
+    "status": "SUCCESS",
+    "details": "All 11 foundational languages reached 170/170 lessons (100% COMPLETE!)"
+  },
+  {
+    "timestamp": "2026-08-24T16:15:42.685Z",
+    "event": "EXPANSION_MANDARIN_100_PERCENT",
+    "status": "SUCCESS",
+    "details": "mandarin reached 170/170 lessons (100%)"
+  },
+  {
+    "timestamp": "2026-08-24T16:15:42.781Z",
+    "event": "EXPANSION_CANTONESE_100_PERCENT",
+    "status": "SUCCESS",
+    "details": "cantonese reached 170/170 lessons (100%)"
+  },
+  {
+    "timestamp": "2026-08-24T16:15:42.862Z",
+    "event": "EXPANSION_KOREAN_100_PERCENT",
+    "status": "SUCCESS",
+    "details": "korean reached 170/170 lessons (100%)"
+  },
+  {
+    "timestamp": "2026-08-24T16:15:42.946Z",
+    "event": "EXPANSION_FRENCH_100_PERCENT",
+    "status": "SUCCESS",
+    "details": "french reached 170/170 lessons (100%)"
+  },
+  {
+    "timestamp": "2026-08-24T16:15:43.026Z",
+    "event": "EXPANSION_HINDI_100_PERCENT",
+    "status": "SUCCESS",
+    "details": "hindi reached 170/170 lessons (100%)"
+  },
+  {
+    "timestamp": "2026-08-24T16:15:43.115Z",
+    "event": "EXPANSION_URDU_100_PERCENT",
+    "status": "SUCCESS",
+    "details": "urdu reached 170/170 lessons (100%)"
+  },
+  {
+    "timestamp": "2026-08-24T16:15:43.203Z",
+    "event": "EXPANSION_AMHARIC_100_PERCENT",
+    "status": "SUCCESS",
+    "details": "amharic reached 170/170 lessons (100%)"
+  },
+  {
+    "timestamp": "2026-08-24T16:15:43.288Z",
+    "event": "EXPANSION_SWAHILI_100_PERCENT",
+    "status": "SUCCESS",
+    "details": "swahili reached 170/170 lessons (100%)"
+  },
+  {
+    "timestamp": "2026-08-24T16:15:43.371Z",
+    "event": "EXPANSION_UKRAINIAN_100_PERCENT",
+    "status": "SUCCESS",
+    "details": "ukrainian reached 170/170 lessons (100%)"
+  },
+  {
+    "timestamp": "2026-08-24T16:15:43.935Z",
+    "event": "ALL_3740_LESSONS_100_PERCENT_COMPLETE",
+    "status": "SUCCESS",
+    "details": "All 29 subjects reached 100% completion (3,740 / 3,740 lessons)!"
+  }
+]

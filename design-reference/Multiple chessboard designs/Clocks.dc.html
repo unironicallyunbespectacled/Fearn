@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=DM+Mono:wght@400;500&family=Space+Grotesk:wght@500;700&family=Fredoka:wght@500;600&family=Cinzel:wght@600&family=Caveat:wght@600&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+<style>body{margin:0;background:#eeece7;}</style>
+</helmet>
+
+<div style="min-height:100vh;background:#eeece7;padding:64px 40px 100px;font-family:'Space Grotesk',sans-serif;">
+  <div style="max-width:1360px;margin:0 auto 56px;">
+    <div style="font-size:14px;letter-spacing:0.14em;text-transform:uppercase;color:#8a8578;margin-bottom:10px;">Study — Twenty Clocks</div>
+    <h1 style="font-size:40px;margin:0;color:#1c1a16;font-weight:700;">Analog &amp; Digital, Twenty Ways</h1>
+  </div>
+
+  <div style="max-width:1360px;margin:0 auto;display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:28px;">
+
+    <div style="background:#fff;border:1px solid #e4e0d6;border-radius:4px;padding:28px;display:flex;flex-direction:column;align-items:center;gap:18px;">
+      <svg width="200" height="200" viewBox="0 0 200 200">
+        <circle cx="100" cy="100" r="96" fill="none" stroke="#1c1a16" stroke-width="1"/>
+        <sc-for list="{{ minimalTicks }}" as="t" hint-placeholder-count="12"><line x1="{{ t.x1 }}" y1="{{ t.y1 }}" x2="{{ t.x2 }}" y2="{{ t.y2 }}" stroke="#1c1a16" stroke-width="1"/></sc-for>
+        <sc-for list="{{ minimalNums }}" as="n" hint-placeholder-count="12"><text x="{{ n.x }}" y="{{ n.y }}" font-family="Space Grotesk" font-size="12" fill="#1c1a16" text-anchor="middle" dominant-baseline="middle">{{ n.val }}</text></sc-for>
+        <line x1="100" y1="100" x2="{{ clock.minX }}" y2="{{ clock.minY }}" stroke="#1c1a16" stroke-width="1.5" stroke-linecap="round"/>
+        <line x1="100" y1="100" x2="{{ clock.hourX }}" y2="{{ clock.hourY }}" stroke="#1c1a16" stroke-width="2.5" stroke-linecap="round"/>
+        <line x1="100" y1="100" x2="{{ clock.secX }}" y2="{{ clock.secY }}" stroke="#b23b2e" stroke-width="1"/>
+        <circle cx="100" cy="100" r="2.5" fill="#1c1a16"/>
+      </svg>
+      <div style="text-align:center;"><div style="font-weight:600;font-size:14px;color:#1c1a16;">Minimalist</div><div style="font-size:12px;color:#8a8578;">Analog — numbered line dial</div></div>
+    </div>
+
+    <div style="background:#151312;border-radius:4px;padding:28px;display:flex;flex-direction:column;align-items:center;gap:18px;">
+      <svg width="200" height="200" viewBox="0 0 200 200">
+        <circle cx="100" cy="100" r="94" fill="none" stroke="#c9a24b" stroke-width="4"/>
+        <circle cx="100" cy="100" r="82" fill="none" stroke="#c9a24b" stroke-width="1"/>
+        <sc-for list="{{ decoHours }}" as="h" hint-placeholder-count="12"><rect x="{{ h.x }}" y="{{ h.y }}" width="3" height="12" fill="#c9a24b" transform="{{ h.rot }}"/></sc-for>
+        <sc-for list="{{ decoNums }}" as="n" hint-placeholder-count="12"><text x="{{ n.x }}" y="{{ n.y }}" font-family="Cinzel" font-size="13" fill="#f2ede6" text-anchor="middle" dominant-baseline="middle">{{ n.val }}</text></sc-for>
+        <line x1="100" y1="100" x2="{{ clock.minX }}" y2="{{ clock.minY }}" stroke="#f2ede6" stroke-width="3"/>
+        <line x1="100" y1="100" x2="{{ clock.hourX }}" y2="{{ clock.hourY }}" stroke="#f2ede6" stroke-width="4"/>
+        <circle cx="100" cy="100" r="4" fill="#c9a24b"/>
+      </svg>
+      <div style="text-align:center;"><div style="font-weight:600;font-size:14px;color:#f2ede6;">Art Deco</div><div style="font-size:12px;color:#8a8578;">Analog — gilded rays</div></div>
+    </div>
+
+    <div style="background:#f4ede1;border-radius:4px;padding:28px;display:flex;flex-direction:column;align-items:center;gap:18px;">
+      <svg width="200" height="200" viewBox="0 0 200 200">
+        <circle cx="100" cy="100" r="88" fill="#fbf6ec" stroke="#8a4a2d" stroke-width="3"/>
+        <circle cx="30" cy="30" r="16" fill="#c98a3f" stroke="#8a4a2d" stroke-width="2"/>
+        <circle cx="170" cy="30" r="16" fill="#c98a3f" stroke="#8a4a2d" stroke-width="2"/>
+        <line x1="30" y1="30" x2="55" y2="55" stroke="#8a4a2d" stroke-width="2"/>
+        <line x1="170" y1="30" x2="145" y2="55" stroke="#8a4a2d" stroke-width="2"/>
+        <sc-for list="{{ vintageNums }}" as="n" hint-placeholder-count="12"><text x="{{ n.x }}" y="{{ n.y }}" font-family="Cormorant Garamond, serif" font-size="16" fill="#5c3a24" text-anchor="middle">{{ n.val }}</text></sc-for>
+        <line x1="100" y1="100" x2="{{ clock.minX }}" y2="{{ clock.minY }}" stroke="#5c3a24" stroke-width="3" stroke-linecap="round"/>
+        <line x1="100" y1="100" x2="{{ clock.hourX }}" y2="{{ clock.hourY }}" stroke="#5c3a24" stroke-width="4" stroke-linecap="round"/>
+        <circle cx="100" cy="100" r="5" fill="#8a4a2d"/>
+      </svg>
+      <div style="text-align:center;"><div style="font-weight:600;font-size:14px;color:#3a2a1c;">Retro Bell</div><div style="font-size:12px;color:#8a7560;">Analog — twin-bell alarm face</div></div>
+    </div>
+
+    <div style="background:#141414;border-radius:4px;padding:28px;display:flex;flex-direction:column;align-items:center;gap:18px;">
+      <svg width="200" height="200" viewBox="0 0 200 200">
+        <circle cx="100" cy="100" r="95" fill="#1c1c1c" stroke="#3a3a3a" stroke-width="2"/>
+        <circle cx="100" cy="100" r="70" fill="none" stroke="#3a3a3a" stroke-width="1"/>
+        <circle cx="60" cy="130" r="16" fill="none" stroke="#5a5a5a" stroke-width="1"/>
+        <circle cx="140" cy="130" r="16" fill="none" stroke="#5a5a5a" stroke-width="1"/>
+        <sc-for list="{{ luxuryNums }}" as="n" hint-placeholder-count="12"><text x="{{ n.x }}" y="{{ n.y }}" font-family="Space Grotesk" font-size="11" fill="#c9a24b" text-anchor="middle" dominant-baseline="middle">{{ n.val }}</text></sc-for>
+        <line x1="100" y1="100" x2="{{ clock.minX }}" y2="{{ clock.minY }}" stroke="#c9a24b" stroke-width="2"/>
+        <line x1="100" y1="100" x2="{{ clock.hourX }}" y2="{{ clock.hourY }}" stroke="#c9a24b" stroke-width="3"/>
+        <line x1="100" y1="100" x2="{{ clock.secX }}" y2="{{ clock.secY }}" stroke="#b23b2e" stroke-width="1"/>
+        <circle cx="100" cy="100" r="3" fill="#c9a24b"/>
+      </svg>
+      <div style="text-align:center;"><div style="font-weight:600;font-size:14px;color:#e8e6e1;">Luxury Chronograph</div><div style="font-size:12px;color:#8a8578;">Analog — watch-face detail</div></div>
+    </div>
+
+    <div style="background:#eef0e6;border-radius:4px;padding:28px;display:flex;flex-direction:column;align-items:center;gap:18px;">
+      <svg width="200" height="200" viewBox="0 0 200 200">
+        <circle cx="100" cy="100" r="90" fill="#f6f4ea" stroke="#5a7350" stroke-width="6"/>
+        <sc-for list="{{ leafHours }}" as="h" hint-placeholder-count="12"><ellipse cx="{{ h.x }}" cy="{{ h.y }}" rx="4" ry="8" fill="#5a7350" transform="{{ h.rot }}"/></sc-for>
+        <sc-for list="{{ natureNums }}" as="n" hint-placeholder-count="12"><text x="{{ n.x }}" y="{{ n.y }}" font-family="Cormorant Garamond, serif" font-size="13" fill="#4a3527" text-anchor="middle" dominant-baseline="middle">{{ n.val }}</text></sc-for>
+        <line x1="100" y1="100" x2="{{ clock.minX }}" y2="{{ clock.minY }}" stroke="#4a3527" stroke-width="3" stroke-linecap="round"/>
+        <line x1="100" y1="100" x2="{{ clock.hourX }}" y2="{{ clock.hourY }}" stroke="#4a3527" stroke-width="4.5" stroke-linecap="round"/>
+        <circle cx="100" cy="100" r="5" fill="#5a7350"/>
+      </svg>
+      <div style="text-align:center;"><div style="font-weight:600;font-size:14px;color:#3a4632;">Nature</div><div style="font-size:12px;color:#7a8570;">Analog — leaf-marker dial</div></div>
+    </div>
+
+    <div style="background:#faf8f3;border-radius:4px;padding:28px;display:flex;flex-direction:column;align-items:center;gap:18px;">
+      <svg width="200" height="200" viewBox="0 0 200 200">
+        <circle cx="100" cy="100" r="92" fill="#fff" stroke="#1c1a16" stroke-width="2"/>
+        <sc-for list="{{ romanNums }}" as="n" hint-placeholder-count="12"><text x="{{ n.x }}" y="{{ n.y }}" font-family="Cinzel" font-size="13" fill="#1c1a16" text-anchor="middle" dominant-baseline="middle">{{ n.val }}</text></sc-for>
+        <line x1="100" y1="100" x2="{{ clock.minX }}" y2="{{ clock.minY }}" stroke="#1c1a16" stroke-width="2.5" stroke-linecap="round"/>
+        <line x1="100" y1="100" x2="{{ clock.hourX }}" y2="{{ clock.hourY }}" stroke="#1c1a16" stroke-width="4" stroke-linecap="round"/>
+        <circle cx="100" cy="100" r="4" fill="#1c1a16"/>
+      </svg>
+      <div style="text-align:center;"><div style="font-weight:600;font-size:14px;color:#1c1a16;">Classic Roman</div><div style="font-size:12px;color:#8a8578;">Analog — roman numeral dial</div></div>
+    </div>
+
+    <div style="background:#fff6e0;border-radius:4px;padding:28px;display:flex;flex-direction:column;align-items:center;gap:18px;">
+      <svg width="200" height="200" viewBox="0 0 200 200">
+        <circle cx="100" cy="100" r="94" fill="#fffaf0" stroke="#e0a13a" stroke-width="10"/>
+        <circle cx="100" cy="100" r="80" fill="none" stroke="#c9861f" stroke-width="1"/>
+        <sc-for list="{{ kitchenNums }}" as="n" hint-placeholder-count="12"><text x="{{ n.x }}" y="{{ n.y }}" font-family="Space Grotesk" font-weight="700" font-size="16" fill="#8a4a1a" text-anchor="middle" dominant-baseline="middle">{{ n.val }}</text></sc-for>
+        <line x1="100" y1="100" x2="{{ clock.minX }}" y2="{{ clock.minY }}" stroke="#8a4a1a" stroke-width="3" stroke-linecap="round"/>
+        <line x1="100" y1="100" x2="{{ clock.hourX }}" y2="{{ clock.hourY }}" stroke="#8a4a1a" stroke-width="4.5" stroke-linecap="round"/>
+        <circle cx="100" cy="100" r="5" fill="#e0a13a"/>
+      </svg>
+      <div style="text-align:center;"><div style="font-weight:600;font-size:14px;color:#7a3f10;">Kitchen</div><div style="font-size:12px;color:#a37c48;">Analog — bold diner face</div></div>
+    </div>
+
+    <div style="background:#0f2436;border-radius:4px;padding:28px;display:flex;flex-direction:column;align-items:center;gap:18px;">
+      <svg width="200" height="200" viewBox="0 0 200 200">
+        <circle cx="100" cy="100" r="92" fill="#0c1e2d" stroke="#c9a24b" stroke-width="5"/>
+        <path d="M100 60 L100 90 M85 130 Q100 145 115 130 M80 105 L120 105 M90 118 L110 118" stroke="#c9a24b" stroke-width="2" fill="none" opacity="0.5"/>
+        <sc-for list="{{ nauticalNums }}" as="n" hint-placeholder-count="12"><text x="{{ n.x }}" y="{{ n.y }}" font-family="Space Grotesk" font-size="13" fill="{{ n.color }}" text-anchor="middle" dominant-baseline="middle">{{ n.val }}</text></sc-for>
+        <line x1="100" y1="100" x2="{{ clock.minX }}" y2="{{ clock.minY }}" stroke="#f2ede6" stroke-width="2.5"/>
+        <line x1="100" y1="100" x2="{{ clock.hourX }}" y2="{{ clock.hourY }}" stroke="#f2ede6" stroke-width="4"/>
+        <circle cx="100" cy="100" r="4" fill="#c9a24b"/>
+      </svg>
+      <div style="text-align:center;"><div style="font-weight:600;font-size:14px;color:#e8f0f5;">Nautical</div><div style="font-size:12px;color:#7a99ad;">Analog — ship's brass dial</div></div>
+    </div>
+
+    <div style="background:#3a2a1e;border-radius:4px;padding:24px;display:flex;flex-direction:column;align-items:center;gap:18px;">
+      <div style="background:#2a1d14;border:4px solid #6b4a30;border-radius:8px 8px 0 0;padding:14px;">
+        <svg width="150" height="150" viewBox="0 0 200 200">
+          <circle cx="100" cy="100" r="92" fill="#f4ecd8" stroke="#3a2a1e" stroke-width="3"/>
+          <sc-for list="{{ grandNums }}" as="n" hint-placeholder-count="12"><text x="{{ n.x }}" y="{{ n.y }}" font-family="Cinzel" font-size="13" fill="#3a2a1e" text-anchor="middle" dominant-baseline="middle">{{ n.val }}</text></sc-for>
+          <line x1="100" y1="100" x2="{{ clock.minX }}" y2="{{ clock.minY }}" stroke="#3a2a1e" stroke-width="3" stroke-linecap="round"/>
+          <line x1="100" y1="100" x2="{{ clock.hourX }}" y2="{{ clock.hourY }}" stroke="#3a2a1e" stroke-width="4.5" stroke-linecap="round"/>
+          <circle cx="100" cy="100" r="4" fill="#3a2a1e"/>
+        </svg>
+      </div>
+      <div style="text-align:center;"><div style="font-weight:600;font-size:14px;color:#f0e6d8;">Grandfather</div><div style="font-size:12px;color:#b8a084;">Analog — pendulum case</div></div>
+    </div>
+
+    <div style="background:#5ec9e8;border-radius:4px;padding:28px;display:flex;flex-direction:column;align-items:center;gap:18px;">
+      <svg width="200" height="200" viewBox="0 0 200 200">
+        <circle cx="100" cy="100" r="90" fill="#fff" stroke="#ff5a5f" stroke-width="8"/>
+        <sc-for list="{{ kidsNums }}" as="n" hint-placeholder-count="12"><text x="{{ n.x }}" y="{{ n.y }}" font-family="Fredoka" font-weight="600" font-size="17" fill="#2a6b8a" text-anchor="middle" dominant-baseline="middle">{{ n.val }}</text></sc-for>
+        <line x1="100" y1="100" x2="{{ clock.minX }}" y2="{{ clock.minY }}" stroke="#ffb703" stroke-width="4" stroke-linecap="round"/>
+        <line x1="100" y1="100" x2="{{ clock.hourX }}" y2="{{ clock.hourY }}" stroke="#ff5a5f" stroke-width="6" stroke-linecap="round"/>
+        <circle cx="100" cy="100" r="6" fill="#2a6b8a"/>
+      </svg>
+      <div style="text-align:center;"><div style="font-weight:600;font-size:14px;color:#1c1a16;font-family:'Fredoka',sans-serif;">Playful Analog</div><div style="font-size:12px;color:#2a4a5a;">Analog — kids' bubble numerals</div></div>
+    </div>
+
+    <div style="background:#1a1512;border-radius:4px;padding:28px;display:flex;flex-direction:column;align-items:center;gap:18px;">
+      <div style="display:flex;gap:4px;font-family:'DM Mono',monospace;">
+        <sc-for list="{{ nixieDigits }}" as="d" hint-placeholder-count="6"><div style="width:34px;height:56px;background:#241c17;border-radius:3px;display:flex;align-items:center;justify-content:center;font-size:34px;color:#ff8a3d;text-shadow:0 0 8px #ff6a1a,0 0 16px #ff6a1a;border:1px solid #3a2c22;">{{ d.val }}</div></sc-for>
+      </div>
+      <div style="text-align:center;"><div style="font-weight:600;font-size:14px;color:#f2ede6;">Nixie Tube</div><div style="font-size:12px;color:#8a8578;">Digital — vacuum glow</div></div>
+    </div>
+
+    <div style="background:#22252b;border-radius:4px;padding:28px;display:flex;flex-direction:column;align-items:center;gap:18px;">
+      <div style="display:flex;gap:6px;perspective:400px;">
+        <sc-for list="{{ flipGroups }}" as="g" hint-placeholder-count="3">
+          <div style="display:flex;flex-direction:column;align-items:center;">
+            <div style="width:52px;height:70px;background:#2f333b;border-radius:5px;position:relative;display:flex;align-items:center;justify-content:center;box-shadow:0 3px 6px rgba(0,0,0,0.4);">
+              <div style="position:absolute;top:50%;left:0;right:0;height:1px;background:#1a1c20;"></div>
+              <span style="font-family:'DM Mono',monospace;font-size:34px;color:#f2ede6;">{{ g.val }}</span>
+            </div>
+            <div style="font-size:10px;color:#8a8f99;letter-spacing:0.1em;margin-top:6px;text-transform:uppercase;">{{ g.label }}</div>
+          </div>
+        </sc-for>
+      </div>
+      <div style="text-align:center;"><div style="font-weight:600;font-size:14px;color:#f2ede6;">Flip Clock</div><div style="font-size:12px;color:#8a8578;">Digital — mechanical split-flap</div></div>
+    </div>
+
+    <div style="background:#05080a;border-radius:4px;padding:28px;display:flex;flex-direction:column;align-items:center;gap:18px;border:1px solid #0d3a3f;">
+      <div style="font-family:'DM Mono',monospace;font-size:40px;color:#3df2e8;text-shadow:0 0 10px #12b8ae;letter-spacing:0.05em;">{{ clock.digital }}</div>
+      <div style="width:180px;height:2px;background:linear-gradient(90deg,transparent,#3df2e8,transparent);"></div>
+      <div style="text-align:center;"><div style="font-weight:600;font-size:14px;color:#3df2e8;">Sci-Fi HUD</div><div style="font-size:12px;color:#4a7d7a;">Digital — heads-up display</div></div>
+    </div>
+
+    <div style="background:#d9d5cb;border-radius:0;padding:28px;display:flex;flex-direction:column;align-items:center;gap:18px;border:3px solid #1c1a16;">
+      <div style="font-family:'DM Mono',monospace;font-size:52px;font-weight:500;color:#1c1a16;letter-spacing:-0.02em;">{{ clock.digital }}</div>
+      <div style="width:100%;height:6px;background:#1c1a16;"></div>
+      <div style="text-align:center;"><div style="font-weight:700;font-size:14px;color:#1c1a16;">Brutalist</div><div style="font-size:12px;color:#5a5750;">Digital — raw block type</div></div>
+    </div>
+
+    <div style="background:#ffd23f;border-radius:4px;padding:28px;display:flex;flex-direction:column;align-items:center;gap:18px;">
+      <div style="background:#fff;border-radius:24px;padding:20px 24px;box-shadow:4px 4px 0 #1c1a16;">
+        <div style="font-family:'Fredoka',sans-serif;font-size:44px;font-weight:600;color:#ff5a5f;">{{ clock.digital }}</div>
+      </div>
+      <div style="text-align:center;"><div style="font-weight:600;font-size:14px;color:#1c1a16;font-family:'Fredoka',sans-serif;">Playful Digital</div><div style="font-size:12px;color:#6b5a1a;">Digital — kids' bubble type</div></div>
+    </div>
+
+    <div style="background:#c9d4c0;border-radius:4px;padding:28px;display:flex;flex-direction:column;align-items:center;gap:18px;">
+      <div style="background:#a8b89c;padding:16px 20px;border-radius:2px;box-shadow:inset 0 0 8px rgba(0,0,0,0.2);">
+        <div style="font-family:'Share Tech Mono',monospace;font-size:38px;color:#2a3324;letter-spacing:0.03em;">{{ clock.digital }}</div>
+      </div>
+      <div style="text-align:center;"><div style="font-weight:600;font-size:14px;color:#2a3324;">LCD</div><div style="font-size:12px;color:#5a6650;">Digital — liquid-crystal readout</div></div>
+    </div>
+
+    <div style="background:#1c1c1c;border-radius:4px;padding:28px;display:flex;flex-direction:column;align-items:center;gap:18px;border:2px solid #333;">
+      <div style="background:#0a0a0a;padding:14px 18px;border-radius:4px;">
+        <div style="font-family:'DM Mono',monospace;font-size:40px;color:#ff2e2e;text-shadow:0 0 6px #ff2e2e;">{{ clock.digital }}</div>
+      </div>
+      <div style="text-align:center;"><div style="font-weight:600;font-size:14px;color:#e8e6e1;">LED Alarm</div><div style="font-size:12px;color:#8a8578;">Digital — seven-segment red</div></div>
+    </div>
+
+    <div style="background:#0a0a0a;border-radius:4px;padding:28px;display:flex;flex-direction:column;align-items:center;gap:14px;border:1px solid #1f3d1f;">
+      <div style="font-family:'Share Tech Mono',monospace;font-size:15px;color:#4fff6b;">$ time --precision=max</div>
+      <div style="font-family:'Share Tech Mono',monospace;font-size:26px;color:#4fff6b;">{{ clock.digital }}<span style="opacity:0.6;animation:none;">_</span></div>
+      <div style="text-align:center;"><div style="font-weight:600;font-size:14px;color:#4fff6b;">Terminal</div><div style="font-size:12px;color:#3a7a3a;">Digital — hacker console</div></div>
+    </div>
+
+    <div style="background:#0c0f16;border-radius:4px;padding:28px;display:flex;flex-direction:column;align-items:center;gap:14px;grid-column:span 2;">
+      <div style="font-family:'DM Mono',monospace;font-size:30px;color:#f2ede6;">{{ clock.digital }}<span style="color:#3df2e8;">.{{ atomic.ms }}</span></div>
+      <div style="display:flex;gap:14px;">
+        <sc-for list="{{ atomic.levels }}" as="lv" hint-placeholder-count="5">
+          <div style="text-align:center;">
+            <div style="font-family:'DM Mono',monospace;font-size:16px;color:#8fd8ff;">{{ lv.val }}</div>
+            <div style="font-size:9px;color:#5a6a78;letter-spacing:0.08em;text-transform:uppercase;margin-top:2px;">{{ lv.label }}</div>
+          </div>
+        </sc-for>
+      </div>
+      <div style="text-align:center;"><div style="font-weight:600;font-size:14px;color:#f2ede6;">Atomic Precision</div><div style="font-size:12px;color:#6a7a88;">Digital — down to yoctoseconds (simulated sub-ms readout)</div></div>
+    </div>
+
+  </div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script>
+class Component extends DCLogic {
+  state = { now: new Date(), fastSeed: 0 };
+
+  componentDidMount() {
+    this._t = setInterval(() => this.setState({ now: new Date() }), 1000);
+    this._f = setInterval(() => this.setState(s => ({ fastSeed: s.fastSeed + 1 })), 40);
+  }
+  componentWillUnmount() {
+    clearInterval(this._t);
+    clearInterval(this._f);
+  }
+
+  polar(cx, cy, r, deg) {
+    const rad = (deg - 90) * Math.PI / 180;
+    return { x: cx + r * Math.cos(rad), y: cy + r * Math.sin(rad) };
+  }
+
+  numDial(r, labels, colorFn) {
+    return Array.from({ length: 12 }, (_, i) => {
+      const deg = i * 30;
+      const p = this.polar(100, 100, r, deg);
+      return { x: p.x, y: p.y, val: labels[i], color: colorFn ? colorFn(i) : undefined };
+    });
+  }
+
+  rnd(seed, n) {
+    let s = seed;
+    let out = '';
+    for (let i = 0; i < n; i++) {
+      s = (s * 9301 + 49297) % 233280;
+      out += Math.floor((s / 233280) * 10);
+    }
+    return out;
+  }
+
+  renderVals() {
+    const now = this.state.now;
+    const h = now.getHours(), m = now.getMinutes(), s = now.getSeconds();
+    const hourDeg = ((h % 12) + m / 60) * 30;
+    const minDeg = (m + s / 60) * 6;
+    const secDeg = s * 6;
+    const hourP = this.polar(100, 100, 50, hourDeg);
+    const minP = this.polar(100, 100, 70, minDeg);
+    const secP = this.polar(100, 100, 78, secDeg);
+    const pad = n => String(n).padStart(2, '0');
+    const h12 = h % 12 === 0 ? 12 : h % 12;
+    const digital = `${pad(h12)}:${pad(m)}:${pad(s)}`;
+
+    const nums12 = [12,1,2,3,4,5,6,7,8,9,10,11];
+    const roman = ['XII','I','II','III','IV','V','VI','VII','VIII','IX','X','XI'];
+
+    const minimalTicks = Array.from({ length: 12 }, (_, i) => {
+      const deg = i * 30;
+      const p1 = this.polar(100, 100, 88, deg);
+      const p2 = this.polar(100, 100, 96, deg);
+      return { x1: p1.x, y1: p1.y, x2: p2.x, y2: p2.y };
+    });
+    const minimalNums = this.numDial(76, nums12);
+    const decoHours = Array.from({ length: 12 }, (_, i) => ({ x: -1.5, y: -82, rot: `rotate(${i*30} 100 100)` }));
+    const decoNums = this.numDial(68, nums12);
+    const leafHours = Array.from({ length: 12 }, (_, i) => { const p = this.polar(100,100,78,i*30); return { x: p.x, y: p.y, rot: `rotate(${i*30} ${p.x} ${p.y})` }; });
+    const natureNums = this.numDial(58, nums12);
+    const vintageNums = Array.from({ length: 12 }, (_, i) => { const val = i === 0 ? 12 : i; const p = this.polar(100,100,68,i*30); return { x: p.x, y: p.y + 5, val }; });
+    const luxuryNums = this.numDial(58, nums12);
+    const romanNums = this.numDial(74, roman);
+    const kitchenNums = this.numDial(60, nums12);
+    const nauticalNums = this.numDial(74, nums12, i => (i%3===0 ? '#e0483a' : '#f2ede6'));
+    const grandNums = this.numDial(74, roman);
+    const kidsNums = this.numDial(60, nums12);
+
+    const nixieDigits = `${pad(h12)}${pad(m)}${pad(s)}`.split('').map(val => ({ val }));
+    const flipGroups = [ { label: 'HH', val: pad(h12) }, { label: 'MM', val: pad(m) }, { label: 'SS', val: pad(s) } ];
+
+    const seed = this.state.fastSeed;
+    const ms = this.rnd(seed*7+1, 3);
+    const levels = [
+      { label: 'pico', val: this.rnd(seed*11+2, 3) },
+      { label: 'femto', val: this.rnd(seed*13+3, 3) },
+      { label: 'atto', val: this.rnd(seed*17+4, 3) },
+      { label: 'zepto', val: this.rnd(seed*19+5, 3) },
+      { label: 'yocto', val: this.rnd(seed*23+6, 3) },
+    ];
+
+    return {
+      clock: { minX: minP.x, minY: minP.y, hourX: hourP.x, hourY: hourP.y, secX: secP.x, secY: secP.y, digital },
+      minimalTicks, minimalNums, decoHours, decoNums, leafHours, natureNums, vintageNums, luxuryNums,
+      romanNums, kitchenNums, nauticalNums, grandNums, kidsNums,
+      nixieDigits, flipGroups,
+      atomic: { ms, levels },
+    };
+  }
+}
+</script>
+</body>
+</html>

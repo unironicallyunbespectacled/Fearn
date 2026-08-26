@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+<template id="__bundler_thumbnail" data-bg-color="#eef1f5">
+  <svg viewBox="0 0 120 80" xmlns="http://www.w3.org/2000/svg">
+    <rect width="120" height="80" fill="#eef1f5"/>
+    <rect x="10" y="20" width="24" height="24" rx="4" fill="#fff" stroke="#7aa7e0" stroke-width="2"/>
+    <rect x="48" y="20" width="24" height="24" rx="4" fill="#fff" stroke="#7aa7e0" stroke-width="2"/>
+    <rect x="86" y="20" width="24" height="24" rx="4" fill="#fff" stroke="#7aa7e0" stroke-width="2"/>
+  </svg>
+</template>
+</head>
+<body>
+<x-dc>
+<helmet>
+<style>
+  @font-face { font-family: 'system'; src: local('Helvetica'); }
+  body { margin: 0; }
+  .fi { border-radius: 3px; box-shadow: 0 0 0 1px oklch(0 0 0 / 0.08); }
+</style>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flag-icons/7.2.3/css/flag-icons.min.css">
+</helmet>
+<div style="font-family: Helvetica, Arial, sans-serif; background: linear-gradient(135deg, oklch(0.97 0.005 250), oklch(0.93 0.005 250)); padding: 48px 32px; min-height: 100vh; box-sizing: border-box;">
+
+  <div style="display:flex; justify-content:center; margin-bottom:28px;">
+    <div style="border:1px solid oklch(0.72 0.13 240); color:oklch(0.5 0.15 240); background:white; padding:6px 20px; border-radius:999px; font-size:13px; font-weight:700; letter-spacing:0.05em;">LANGUAGES</div>
+  </div>
+
+  <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; max-width:1200px; margin:0 auto 40px;">
+    <sc-for list="{{ languages }}" as="lang" hint-placeholder-count="20">
+      <div style="width:96px; height:96px; border:1.5px solid oklch(0.72 0.13 240); border-radius:14px; background:white; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:6px; box-shadow:0 1px 3px oklch(0 0 0 / 0.06);">
+        <span class="fi fi-{{ lang.code }}" style="width:44px; height:32px; background-size:cover; background-position:center;"></span>
+        <div style="font-size:11px; font-weight:600; color:oklch(0.35 0.02 250); text-align:center; padding:0 4px;">{{ lang.name }}</div>
+      </div>
+    </sc-for>
+  </div>
+
+  <div style="display:flex; justify-content:center; margin-bottom:28px;">
+    <div style="border:1px solid oklch(0.65 0.14 300); color:oklch(0.5 0.16 300); background:white; padding:6px 20px; border-radius:999px; font-size:13px; font-weight:700; letter-spacing:0.05em;">SKILLS</div>
+  </div>
+
+  <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; max-width:1000px; margin:0 auto 40px;">
+    <sc-for list="{{ skills }}" as="skill" hint-placeholder-count="9">
+      <div style="width:96px; height:96px; border:1.5px solid oklch(0.65 0.14 300); border-radius:14px; background:white; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:6px; box-shadow:0 1px 3px oklch(0 0 0 / 0.06);">
+        <div style="font-size:28px; line-height:1;">{{ skill.icon }}</div>
+        <div style="font-size:10.5px; font-weight:600; color:oklch(0.35 0.02 250); text-align:center; padding:0 4px;">{{ skill.name }}</div>
+      </div>
+    </sc-for>
+  </div>
+
+  <div style="display:flex; justify-content:center; margin-bottom:28px;">
+    <div style="border:1px solid oklch(0.7 0.15 60); color:oklch(0.5 0.17 60); background:white; padding:6px 20px; border-radius:999px; font-size:13px; font-weight:700; letter-spacing:0.05em;">FITNESS</div>
+  </div>
+
+  <div style="display:flex; justify-content:center;">
+    <div style="width:96px; height:96px; border:1.5px solid oklch(0.7 0.15 60); border-radius:14px; background:white; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:6px; box-shadow:0 1px 3px oklch(0 0 0 / 0.06);">
+      <div style="font-size:28px; line-height:1;">🏃</div>
+      <div style="font-size:11px; font-weight:600; color:oklch(0.35 0.02 250);">Fitness</div>
+    </div>
+  </div>
+
+</div>
+
+</x-dc>
+<script type="text/x-dc" data-dc-script>
+class Component extends DCLogic {
+  renderVals() {
+    return {
+      languages: [
+        { code: 'jp', name: 'Japanese' },
+        { code: 'es', name: 'Spanish' },
+        { code: 'sa', name: 'Arabic' },
+        { code: 'br', name: 'Brazilian Portuguese' },
+        { code: 'ro', name: 'Romanian' },
+        { code: 'vn', name: 'Vietnamese' },
+        { code: 'ru', name: 'Russian' },
+        { code: 'tr', name: 'Turkish' },
+        { code: 'gb', name: 'English' },
+        { code: 'de', name: 'German' },
+        { code: 'ar', name: 'Argentine Spanish' },
+        { code: 'cn', name: 'Mandarin Chinese' },
+        { code: 'hk', name: 'Cantonese' },
+        { code: 'kr', name: 'Korean' },
+        { code: 'fr', name: 'French' },
+        { code: 'in', name: 'Hindi' },
+        { code: 'pk', name: 'Urdu' },
+        { code: 'et', name: 'Amharic' },
+        { code: 'ke', name: 'Swahili' },
+        { code: 'ua', name: 'Ukrainian' },
+      ],
+      skills: [
+        { icon: '♞', name: 'Chess' },
+        { icon: '···', name: 'Morse Code' },
+        { icon: '⌨️', name: 'Typing Speed' },
+        { icon: '🔢', name: 'Mental Math' },
+        { icon: '🔤', name: 'Scrabble & Word Skills' },
+        { icon: '🎵', name: 'Songwriting' },
+        { icon: '💻', name: 'CS110: Algorithms & Data Structures' },
+        { icon: '📊', name: 'B110: Market Dynamics & Consumer Psych' },
+        { icon: '📈', name: 'B111: Financial Modeling & Valuation' },
+      ],
+    };
+  }
+}
+</script>
+</body>
+</html>

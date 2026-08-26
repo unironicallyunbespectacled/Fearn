@@ -1,0 +1,22 @@
+# Dependencies and Environment
+node_modules/
+.env
+.env.*
+*.log
+
+# Large Datasets exceeding GitHub 100MB Limit
+data/omni_lexicon_100k.js
+data/omni_lexicon_500k.js
+*.zip
+*.tar.gz
+
+# System and OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary and Scratch Files
+scratch/
+tmp/
+*.tmp
+*.bak

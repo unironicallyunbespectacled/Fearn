@@ -1,0 +1,971 @@
+/* ==========================================================================
+   FEARN — theme.css
+   Global tokens, background system, and glass primitives.
+   Component-level rules live in components.css.
+   ========================================================================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Space+Grotesk:wght@500;600;700&display=swap');
+
+:root {
+  /* --- base surface --- */
+  --bg-void: #05060a;
+  --bg-deep: #0a0d16;
+  --bg-deep-2: #0e1220;
+
+  /* --- glass --- */
+  --glass-bg: rgba(255, 255, 255, 0.055);
+  --glass-bg-strong: rgba(255, 255, 255, 0.1);
+  --glass-bg-soft: rgba(255, 255, 255, 0.03);
+  --glass-border: rgba(255, 255, 255, 0.13);
+  --glass-border-strong: rgba(255, 255, 255, 0.24);
+  --glass-shadow: 0 8px 32px rgba(0, 0, 0, 0.45);
+  --glass-shadow-lg: 0 20px 60px rgba(0, 0, 0, 0.55);
+
+  /* --- text --- */
+  --text-main: #f4f6fb;
+  --text-sub: #9aa4bf;
+  --text-faint: #5c6685;
+  --text-on-accent: #06070c;
+
+  /* --- subject accent families --- */
+  --lang-1: #12e6c8;
+  --lang-2: #4fb0ff;
+  --lang-glow: rgba(18, 230, 200, 0.35);
+
+  --skill-1: #b26bff;
+  --skill-2: #ff5fa8;
+  --skill-glow: rgba(178, 107, 255, 0.35);
+
+  --fit-1: #ffb347;
+  --fit-2: #7dff8a;
+  --fit-glow: rgba(255, 179, 71, 0.35);
+
+  --special-1: #ffd76a;
+  --special-2: #ff8a5c;
+  --special-glow: rgba(255, 215, 106, 0.32);
+
+  /* --- semantic --- */
+  --gold: #ffd76a;
+  --danger: #ff4d6d;
+  --success: #33e39a;
+
+  /* --- radii --- */
+  --radius-xl: 32px;
+  --radius-lg: 24px;
+  --radius-md: 16px;
+  --radius-sm: 10px;
+  --radius-pill: 999px;
+
+  /* --- fonts --- */
+  --font-body: 'Outfit', system-ui, -apple-system, sans-serif;
+  --font-display: 'Space Grotesk', 'Outfit', system-ui, sans-serif;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  font-family: var(--font-body);
+  background: var(--bg-void);
+  color: var(--text-main);
+  min-height: 100vh;
+  position: relative;
+  overflow-x: hidden;
+  line-height: 1.4;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--font-display);
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+a { color: inherit; }
+
+button {
+  font-family: inherit;
+  color: inherit;
+  cursor: pointer;
+}
+
+input {
+  font-family: inherit;
+  color: inherit;
+}
+
+/* ---------- animated background ---------- */
+.fearn-bg-blobs {
+  position: fixed;
+  inset: 0;
+  z-index: -2;
+  filter: blur(90px);
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.fearn-blob {
+  position: absolute;
+  border-radius: 50%;
+  opacity: 0.45;
+  animation: fearn-float 28s ease-in-out infinite alternate;
+  will-change: transform;
+}
+
+.fearn-blob--1 {
+  width: 34vw;
+  height: 34vw;
+  min-width: 360px;
+  min-height: 360px;
+  background: var(--lang-1);
+  top: -12%;
+  left: -10%;
+}
+
+.fearn-blob--2 {
+  width: 38vw;
+  height: 38vw;
+  min-width: 420px;
+  min-height: 420px;
+  background: var(--skill-1);
+  bottom: -18%;
+  right: -12%;
+  animation-delay: -9s;
+}
+
+.fearn-blob--3 {
+  width: 26vw;
+  height: 26vw;
+  min-width: 280px;
+  min-height: 280px;
+  background: var(--fit-1);
+  top: 42%;
+  left: 58%;
+  animation-delay: -16s;
+}
+
+.fearn-blob--4 {
+  width: 22vw;
+  height: 22vw;
+  min-width: 240px;
+  min-height: 240px;
+  background: var(--skill-2);
+  top: 6%;
+  right: 22%;
+  animation-delay: -21s;
+}
+
+@keyframes fearn-float {
+  0%   { transform: translate(0, 0) scale(1); }
+  50%  { transform: translate(6vw, 4vh) scale(1.18); }
+  100% { transform: translate(-4vw, 8vh) scale(0.88); }
+}
+
+.fearn-noise-veil {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  background:
+    radial-gradient(circle at 50% -10%, rgba(255, 255, 255, 0.05), transparent 55%),
+    radial-gradient(circle at 100% 100%, rgba(0, 0, 0, 0.4), transparent 60%);
+}
+
+/* ---------- glass primitives (reusable across shell + modules) ---------- */
+.fearn-glass {
+  background: var(--glass-bg);
+  backdrop-filter: blur(22px);
+  -webkit-backdrop-filter: blur(22px);
+  border: 1px solid var(--glass-border);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--glass-shadow);
+}
+
+.fearn-glass--strong {
+  background: var(--glass-bg-strong);
+  border-color: var(--glass-border-strong);
+}
+
+.fearn-glass--soft {
+  background: var(--glass-bg-soft);
+}
+
+.fearn-glow {
+  transition: box-shadow 0.3s ease, border-color 0.3s ease, transform 0.2s ease;
+}
+
+.fearn-glow:hover,
+.fearn-glow.is-active {
+  box-shadow: 0 0 36px rgba(255, 255, 255, 0.1);
+  border-color: var(--glass-border-strong);
+}
+
+.fearn-hidden {
+  display: none !important;
+}
+
+.fearn-visually-hidden {
+  position: absolute !important;
+  width: 1px; height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+/* ---------- scrollbars ---------- */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.14);
+  border-radius: 8px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.22);
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* ---------- generic empty state (used across shell + modules) ---------- */
+.fearn-empty-state {
+  padding: 28px 20px;
+  text-align: center;
+  color: var(--text-sub);
+  font-size: 0.95rem;
+  border: 1px dashed var(--glass-border);
+  border-radius: var(--radius-md);
+  background: var(--glass-bg-soft);
+}
+
+
+/* ==========================================================================
+   FEARN 5-THEME ADAPTIVE ENGINE (Dark, Night Flight, Daylight, Sepia, Colorblind)
+   ========================================================================== */
+
+/* 1. NIGHT FLIGHT (✈️) - True OLED Black & Aviation Amber (Anti-Glare for Dark Cabins) */
+body.env-cabin,
+body[data-env="cabin"] {
+  --bg-void: #000000 !important;
+  --bg-deep: #0a0604 !important;
+  --bg-deep-2: #140c07 !important;
+  --text-main: #ffbe98 !important;
+  --text-sub: #d48f67 !important;
+  --text-faint: #8f5536 !important;
+  --text-on-accent: #000000 !important;
+
+  --glass-bg: rgba(255, 130, 60, 0.08) !important;
+  --glass-bg-strong: rgba(255, 130, 60, 0.16) !important;
+  --glass-bg-soft: rgba(255, 130, 60, 0.04) !important;
+  --glass-border: rgba(255, 130, 60, 0.35) !important;
+  --glass-border-strong: rgba(255, 130, 60, 0.6) !important;
+  --glass-shadow: 0 8px 32px rgba(0, 0, 0, 0.95) !important;
+
+  --lang-1: #ff9d5c !important;
+  --lang-2: #ff7a38 !important;
+  --lang-glow: rgba(255, 157, 92, 0.35) !important;
+
+  --skill-1: #ffb870 !important;
+  --skill-2: #ff8c42 !important;
+  --skill-glow: rgba(255, 184, 112, 0.35) !important;
+
+  --fit-1: #ffa347 !important;
+  --fit-2: #ff7033 !important;
+  background-color: #000000 !important;
+  color: #ffbe98 !important;
+}
+
+body.env-cabin .fearn-bg-blobs,
+body[data-env="cabin"] .fearn-bg-blobs {
+  opacity: 0.12 !important;
+  filter: blur(120px) !important;
+}
+
+body.env-cabin .fearn-topbar,
+body[data-env="cabin"] .fearn-topbar {
+  background: #000000 !important;
+  border-bottom: 1px solid rgba(255, 130, 60, 0.4) !important;
+}
+
+/* 2. DAYLIGHT (☀️) - Crisp White Paper & Polarized Sunlight E-Ink */
+body.env-solar,
+body.env-sunlight,
+body[data-env="solar"],
+body[data-env="sunlight"],
+body[data-theme="light"] {
+  --bg-void: #ffffff !important;
+  --bg-deep: #f8fafc !important;
+  --bg-deep-2: #eef2f6 !important;
+  --text-main: #0f172a !important;
+  --text-sub: #334155 !important;
+  --text-faint: #64748b !important;
+  --text-on-accent: #ffffff !important;
+
+  --glass-bg: rgba(0, 0, 0, 0.04) !important;
+  --glass-bg-strong: rgba(0, 0, 0, 0.08) !important;
+  --glass-bg-soft: rgba(0, 0, 0, 0.02) !important;
+  --glass-border: rgba(0, 0, 0, 0.2) !important;
+  --glass-border-strong: rgba(0, 0, 0, 0.5) !important;
+  --glass-shadow: 0 4px 20px rgba(0, 0, 0, 0.08) !important;
+
+  --lang-1: #0284c7 !important;
+  --lang-2: #0369a1 !important;
+  --lang-glow: rgba(2, 132, 199, 0.25) !important;
+
+  --skill-1: #7c3aed !important;
+  --skill-2: #6d28d9 !important;
+  --skill-glow: rgba(124, 58, 237, 0.25) !important;
+
+  --fit-1: #d97706 !important;
+  --fit-2: #059669 !important;
+  background-color: #ffffff !important;
+  color: #0f172a !important;
+}
+
+body.env-solar .fearn-bg-blobs,
+body[data-env="solar"] .fearn-bg-blobs {
+  display: none !important;
+}
+
+body.env-solar .fearn-topbar,
+body[data-env="solar"] .fearn-topbar {
+  background: #ffffff !important;
+  border-bottom: 2px solid #cbd5e1 !important;
+}
+
+/* 3. SEPIA (🌘) - Warm Antique Parchment for Restful Reading */
+body.env-sepia,
+body.env-vesper,
+body.env-twilight,
+body[data-env="sepia"],
+body[data-env="vesper"],
+body[data-env="twilight"] {
+  --bg-void: #fbf0d9 !important;
+  --bg-deep: #f4e4c1 !important;
+  --bg-deep-2: #ebd7ab !important;
+  --text-main: #433422 !important;
+  --text-sub: #5c4730 !important;
+  --text-faint: #876d4e !important;
+  --text-on-accent: #ffffff !important;
+
+  --glass-bg: rgba(67, 52, 34, 0.05) !important;
+  --glass-bg-strong: rgba(67, 52, 34, 0.1) !important;
+  --glass-bg-soft: rgba(67, 52, 34, 0.02) !important;
+  --glass-border: rgba(67, 52, 34, 0.22) !important;
+  --glass-border-strong: rgba(67, 52, 34, 0.45) !important;
+  --glass-shadow: 0 4px 20px rgba(67, 52, 34, 0.08) !important;
+
+  --lang-1: #c85a17 !important;
+  --lang-2: #a04000 !important;
+  --lang-glow: rgba(200, 90, 23, 0.25) !important;
+
+  --skill-1: #8b4513 !important;
+  --skill-2: #65300b !important;
+  --skill-glow: rgba(139, 69, 19, 0.25) !important;
+
+  --fit-1: #a0522d !important;
+  --fit-2: #556b2f !important;
+  background-color: #fbf0d9 !important;
+  color: #433422 !important;
+}
+
+body.env-sepia .fearn-bg-blobs,
+body[data-env="sepia"] .fearn-bg-blobs {
+  display: none !important;
+}
+
+body.env-sepia .fearn-topbar,
+body[data-env="sepia"] .fearn-topbar {
+  background: #f4e4c1 !important;
+  border-bottom: 2px solid #d8c399 !important;
+}
+
+/* 4. COLORBLIND HIGH CONTRAST (👁️) - Universal High-Contrast Distinction */
+body.env-colorblind,
+body[data-env="colorblind"] {
+  --bg-void: #000000 !important;
+  --bg-deep: #0d1117 !important;
+  --bg-deep-2: #161b22 !important;
+  --text-main: #ffffff !important;
+  --text-sub: #ffff00 !important;
+  --text-faint: #56b4e9 !important;
+  --text-on-accent: #000000 !important;
+
+  --glass-bg: rgba(255, 255, 255, 0.1) !important;
+  --glass-bg-strong: rgba(255, 255, 255, 0.2) !important;
+  --glass-bg-soft: rgba(255, 255, 255, 0.05) !important;
+  --glass-border: #ffffff !important;
+  --glass-border-strong: #ffff00 !important;
+  --glass-shadow: 0 4px 20px rgba(255, 255, 255, 0.2) !important;
+
+  --lang-1: #0072b2 !important;  /* Accessible Cobalt */
+  --lang-2: #56b4e9 !important;  /* Sky Blue */
+  --lang-glow: rgba(86, 180, 233, 0.5) !important;
+
+  --skill-1: #e69f00 !important; /* Accessible Orange */
+  --skill-2: #f0e442 !important; /* Accessible Yellow */
+  --skill-glow: rgba(240, 228, 66, 0.5) !important;
+
+  --fit-1: #009e73 !important;   /* Bluish Green */
+  --fit-2: #d55e00 !important;   /* Vermillion */
+  background-color: #000000 !important;
+  color: #ffffff !important;
+}
+
+body.env-colorblind .fearn-bg-blobs,
+body[data-env="colorblind"] .fearn-bg-blobs {
+  display: none !important;
+}
+
+body.env-colorblind .fearn-topbar,
+body[data-env="colorblind"] .fearn-topbar {
+  background: #000000 !important;
+  border-bottom: 2px solid #ffff00 !important;
+}
+
+/* Topbar Environment Switcher Button Styles */
+.fearn-env-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: var(--glass-bg);
+  border: 1px solid var(--glass-border);
+  color: var(--text-main);
+  padding: 6px 12px;
+  border-radius: var(--radius-pill);
+  font-size: 0.82rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+.fearn-env-btn:hover {
+  background: var(--glass-bg-strong);
+  border-color: var(--lang-1);
+}
+
+
+/* ==========================================================================
+   FEARN — Apple iOS & iPadOS Hardware Optimization Engine
+   Tailored for iPhone 16+ (Dynamic Island, 430x932pt) & iPad A16 (820x1180pt)
+   ========================================================================== */
+
+:root {
+  --sat: env(safe-area-inset-top, 0px);
+  --sab: env(safe-area-inset-bottom, 0px);
+  --sal: env(safe-area-inset-left, 0px);
+  --sar: env(safe-area-inset-right, 0px);
+}
+
+/* Base Mobile & Touch Reset */
+html {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
+  scroll-behavior: smooth;
+}
+
+body {
+  padding-top: max(var(--sat), 0px);
+  padding-bottom: max(var(--sab), 16px);
+  padding-left: max(var(--sal), 0px);
+  padding-right: max(var(--sar), 0px);
+  -webkit-overflow-scrolling: touch;
+}
+
+/* Touch targets minimum 44x44px for Apple HIG compliance */
+button, 
+.fearn-btn, 
+.action-btn, 
+.hub-nav-pill, 
+.mode-toggle-btn,
+.fearn-env-toggle-btn {
+  min-height: 44px;
+  min-width: 44px;
+  touch-action: manipulation;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+/* Topbar & Fixed Navigation dynamic island clearance */
+.fearn-topbar, 
+.app-header, 
+.top-nav {
+  padding-top: max(var(--sat), 12px) !important;
+  padding-left: max(var(--sal), 16px) !important;
+  padding-right: max(var(--sar), 16px) !important;
+}
+
+/* Bottom bar & modal action safe clearance for Home Indicator */
+.bottom-dock, 
+.dock-nav, 
+.modal-footer, 
+.quiz-action-dock {
+  padding-bottom: max(var(--sab), 16px) !important;
+}
+
+/* ---------- iPhone 16 Plus (Viewport 430px) & Modern Smartphones ---------- */
+@media screen and (max-width: 600px) {
+  body {
+    font-size: 15px;
+  }
+
+  .fearn-topbar {
+    flex-wrap: wrap;
+    gap: 8px;
+    padding: 10px 12px;
+  }
+
+  .fearn-topbar-title {
+    font-size: 1.1rem;
+  }
+
+  .hub-grid, 
+  .disciplines-grid, 
+  .module-grid, 
+  .curriculum-grid {
+    grid-template-columns: 1fr !important;
+    gap: 14px !important;
+  }
+
+  .card, 
+  .glass-card, 
+  .roadmap-card, 
+  .lexicon-card {
+    padding: 16px !important;
+    border-radius: var(--radius-md) !important;
+  }
+
+  .roadmap-timeline {
+    padding-left: 12px;
+  }
+
+  /* Modal Full-Screen on Mobile */
+  .fearn-modal-content, 
+  .modal-dialog {
+    width: 96vw !important;
+    max-height: 90vh !important;
+    padding: 18px !important;
+    border-radius: var(--radius-lg) !important;
+  }
+}
+
+/* ---------- iPad A16 / Tablets (Viewport 601px to 1200px) ---------- */
+@media screen and (min-width: 601px) and (max-width: 1200px) {
+  .hub-grid, 
+  .disciplines-grid, 
+  .module-grid, 
+  .curriculum-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+    gap: 20px !important;
+  }
+
+  .fearn-container, 
+  .app-layout {
+    padding: 24px max(var(--sar), 24px) 24px max(var(--sal), 24px) !important;
+  }
+}
+
+
+/* Zero-Bleed Contrast & Visibility Protections Across All Themes */
+body.env-solar input, body.env-solar textarea, body.env-solar select,
+body[data-env="solar"] input, body[data-env="solar"] textarea, body[data-env="solar"] select {
+  background: #ffffff !important;
+  color: #0f172a !important;
+  border-color: #cbd5e1 !important;
+}
+
+body.env-sepia input, body.env-sepia textarea, body.env-sepia select,
+body[data-env="sepia"] input, body[data-env="sepia"] textarea, body[data-env="sepia"] select {
+  background: #fbf0d9 !important;
+  color: #433422 !important;
+  border-color: #d8c399 !important;
+}
+
+body.env-cabin input, body.env-cabin textarea, body.env-cabin select,
+body[data-env="cabin"] input, body[data-env="cabin"] textarea, body[data-env="cabin"] select {
+  background: #080503 !important;
+  color: #ffbe98 !important;
+  border-color: rgba(255, 130, 60, 0.4) !important;
+}
+
+body.env-colorblind input, body.env-colorblind textarea, body.env-colorblind select,
+body[data-env="colorblind"] input, body[data-env="colorblind"] textarea, body[data-env="colorblind"] select {
+  background: #000000 !important;
+  color: #ffffff !important;
+  border: 2px solid #ffffff !important;
+}
+
+/* Modal and Dropdown Visibility */
+body.env-solar .fearn-modal, body.env-solar .fearn-card,
+body[data-env="solar"] .fearn-modal, body[data-env="solar"] .fearn-card {
+  background: #ffffff !important;
+  border: 1px solid #e2e8f0 !important;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08) !important;
+}
+
+body.env-sepia .fearn-modal, body.env-sepia .fearn-card,
+body[data-env="sepia"] .fearn-modal, body[data-env="sepia"] .fearn-card {
+  background: #f4e4c1 !important;
+  border: 1px solid #d8c399 !important;
+  box-shadow: 0 10px 25px rgba(67, 52, 34, 0.1) !important;
+}
+
+body.env-cabin .fearn-modal, body.env-cabin .fearn-card,
+body[data-env="cabin"] .fearn-modal, body[data-env="cabin"] .fearn-card {
+  background: #080503 !important;
+  border: 1px solid rgba(255, 130, 60, 0.35) !important;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.9) !important;
+}
+
+body.env-colorblind .fearn-modal, body.env-colorblind .fearn-card,
+body[data-env="colorblind"] .fearn-modal, body[data-env="colorblind"] .fearn-card {
+  background: #0d1117 !important;
+  border: 2px solid #ffffff !important;
+  box-shadow: 0 10px 25px rgba(255, 255, 255, 0.15) !important;
+}
+
+
+/* ==========================================================================
+   FEARN — Deep Typography, Math Formula, Table & Number Wrap Protections
+   ========================================================================== */
+
+/* Universal Text & Word Wrapping */
+p, span, div, li, td, th, label, blockquote {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+}
+
+/* Formula & Math Block Protection */
+pre, code, .fearn-formula, .math-block, .katex-display, .latex-expr {
+  font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace;
+  max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  white-space: pre-wrap;
+  word-break: break-word;
+  line-height: 1.5;
+  border-radius: var(--radius-sm);
+}
+
+pre {
+  background: var(--glass-bg-strong);
+  border: 1px solid var(--glass-border);
+  padding: 12px 16px;
+  margin: 10px 0;
+}
+
+code {
+  background: var(--glass-bg-strong);
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.9em;
+}
+
+/* Table & Matrix Overflow Handling */
+table {
+  width: 100%;
+  max-width: 100%;
+  border-collapse: collapse;
+  margin: 12px 0;
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+th, td {
+  padding: 10px 14px;
+  border: 1px solid var(--glass-border);
+  text-align: left;
+  white-space: normal;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  vertical-align: top;
+}
+
+/* Fitness Engine & Numeric Stat Wrappers */
+.fearn-stat-number, .fearn-timer, .fearn-reps, .fearn-weight {
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -0.02em;
+  white-space: nowrap;
+  font-weight: 700;
+}
+
+.fearn-workout-card, .fearn-lesson-card {
+  overflow: hidden;
+  word-break: break-word;
+}
+
+/* Clear Capitalization & Heading Aesthetics */
+h1, h2, h3, h4, .fearn-unit-title, .fearn-module-title {
+  text-transform: none;
+  line-height: 1.25;
+}
+
+/* Theme overrides for code & pre blocks */
+body.env-solar pre, body[data-env="solar"] pre {
+  background: #f1f5f9 !important;
+  color: #0f172a !important;
+  border-color: #cbd5e1 !important;
+}
+
+body.env-sepia pre, body[data-env="sepia"] pre {
+  background: #eedbc0 !important;
+  color: #3b2c1b !important;
+  border-color: #d1b794 !important;
+}
+
+body.env-cabin pre, body[data-env="cabin"] pre {
+  background: #000000 !important;
+  color: #ffbe98 !important;
+  border-color: rgba(255, 130, 60, 0.4) !important;
+}
+
+body.env-colorblind pre, body[data-env="colorblind"] pre {
+  background: #000000 !important;
+  color: #ffffff !important;
+  border: 2px solid #ffff00 !important;
+}
+
+
+/* ==========================================================================
+   FEARN OMNI-SURFACE ANTI-BLEEDING & OVERFLOW RESILIENCE ENGINE
+   ========================================================================== */
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body, html {
+  overflow-x: hidden;
+  max-width: 100vw;
+}
+
+/* Universal text wrapping across all cards, containers and modals */
+p, span, div, h1, h2, h3, h4, h5, h6, li, label, td, th, blockquote {
+  overflow-wrap: break-word;
+  word-break: break-word;
+}
+
+.fearn-card,
+.fearn-glass,
+.fearn-glass--strong,
+.fearn-module-card,
+.fearn-workout-card,
+.fearn-lesson-card,
+.fearn-lang-lesson-flow,
+.fearn-lang-explanation,
+.fearn-lang-examples,
+.fearn-practice,
+.fearn-checkpoint,
+.fearn-guided-exercise-card,
+.fearn-entry-modal,
+.fearn-library-card,
+.fearn-journey-track {
+  min-width: 0;
+  max-width: 100%;
+}
+
+/* Code, Pre, and Math formula block containment */
+pre, code, .fearn-formula, .math-block, .latex-expr {
+  max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  white-space: pre-wrap;
+  word-break: break-word;
+  overflow-wrap: break-word;
+}
+
+/* Table Responsive Scrolling */
+table {
+  width: 100%;
+  max-width: 100%;
+  border-collapse: collapse;
+  margin: 12px 0;
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+th, td {
+  padding: 10px 14px;
+  border: 1px solid var(--glass-border);
+  text-align: left;
+  white-space: normal;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  vertical-align: top;
+}
+
+/* Flexbox Truncation Protection */
+.fearn-flex,
+.fearn-row,
+.fearn-stack,
+.fearn-header,
+.fearn-section-heading {
+  min-width: 0;
+}
+
+
+/* ==========================================================================
+   SCATTERED GALAXY EMOJI LOADING SCREEN
+   ========================================================================== */
+.fearn-loading-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 999999;
+  background: radial-gradient(circle at 50% 50%, #0d1527 0%, #060913 100%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  opacity: 1;
+  visibility: visible;
+  transition: opacity 0.6s cubic-bezier(0.16, 1, 0.3, 1), visibility 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+  pointer-events: auto;
+}
+
+.fearn-loading-overlay.fearn-loaded {
+  opacity: 0 !important;
+  visibility: hidden !important;
+  pointer-events: none !important;
+}
+
+.fearn-loading-galaxy {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  overflow: hidden;
+  z-index: 1;
+}
+
+.fearn-galaxy-emoji {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  user-select: none;
+  pointer-events: none;
+  animation: floatEmoji 4s ease-in-out infinite alternate;
+  filter: drop-shadow(0 0 12px rgba(255, 255, 255, 0.25));
+}
+
+.fearn-galaxy-emoji.size-half {
+  font-size: 1.15rem;
+}
+
+.fearn-galaxy-emoji.size-double {
+  font-size: 3.2rem;
+}
+
+@keyframes floatEmoji {
+  0% {
+    transform: translate(-50%, -50%) translateY(0) rotate(0deg) scale(1);
+  }
+  50% {
+    transform: translate(-50%, -50%) translateY(-18px) rotate(8deg) scale(1.08);
+  }
+  100% {
+    transform: translate(-50%, -50%) translateY(14px) rotate(-6deg) scale(0.95);
+  }
+}
+
+.fearn-loading-center-pill {
+  position: relative;
+  z-index: 10;
+  background: rgba(15, 23, 42, 0.82);
+  backdrop-filter: blur(28px) saturate(190%);
+  -webkit-backdrop-filter: blur(28px) saturate(190%);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  box-shadow: 0 25px 60px -12px rgba(0, 0, 0, 0.75),
+              0 0 40px rgba(56, 189, 248, 0.2),
+              inset 0 1px 1px rgba(255, 255, 255, 0.2);
+  border-radius: 9999px;
+  padding: 1.25rem 2.75rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 0.65rem;
+  max-width: 90vw;
+  animation: pillPulse 3s ease-in-out infinite alternate;
+}
+
+@keyframes pillPulse {
+  0% {
+    box-shadow: 0 25px 60px -12px rgba(0, 0, 0, 0.75), 0 0 30px rgba(56, 189, 248, 0.2);
+  }
+  100% {
+    box-shadow: 0 25px 60px -12px rgba(0, 0, 0, 0.75), 0 0 60px rgba(168, 85, 247, 0.35);
+  }
+}
+
+.fearn-loading-badge {
+  font-size: 0.75rem;
+  font-weight: 800;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: #38bdf8;
+  background: rgba(56, 189, 248, 0.12);
+  border: 1px solid rgba(56, 189, 248, 0.35);
+  padding: 0.25rem 0.85rem;
+  border-radius: 9999px;
+  text-shadow: 0 0 12px rgba(56, 189, 248, 0.6);
+}
+
+.fearn-loading-subtext {
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: #f1f5f9;
+  letter-spacing: 0.02em;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.6);
+}
+
+.fearn-loading-progress-bar {
+  width: 100%;
+  max-width: 220px;
+  height: 4px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 9999px;
+  overflow: hidden;
+  position: relative;
+  margin-top: 0.25rem;
+}
+
+.fearn-loading-progress-fill {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background: linear-gradient(90deg, #38bdf8, #818cf8, #c084fc);
+  border-radius: 9999px;
+  animation: fearnProgressAnim 1.4s ease-in-out infinite;
+  transform-origin: left center;
+}
+
+@keyframes fearnProgressAnim {
+  0% {
+    transform: translateX(-100%) scaleX(0.2);
+  }
+  50% {
+    transform: translateX(0%) scaleX(0.7);
+  }
+  100% {
+    transform: translateX(100%) scaleX(0.2);
+  }
+}
+
