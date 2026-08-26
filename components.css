@@ -3609,3 +3609,46 @@ button.fearn-lang-btn-primary:hover:not(:disabled) {
   color: #38bdf8;
   transform: translateY(-1px);
 }
+
+
+/* Responsive Mobile & Touch Enhancements for Footer Actions */
+@media (max-width: 768px) {
+  .fearn-app-footer {
+    margin-top: 36px;
+    padding: 20px 16px calc(28px + env(safe-area-inset-bottom, 16px));
+  }
+  .fearn-footer-inner {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 14px;
+    width: 100%;
+  }
+  .fearn-footer-actions {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    max-width: 420px;
+    gap: 10px;
+  }
+  .fearn-btn-backup {
+    flex: 1;
+    min-height: 44px;
+    justify-content: center;
+    font-size: 0.82rem;
+    font-weight: 700;
+    padding: 10px 14px;
+    border-radius: 9999px;
+    background: rgba(15, 23, 42, 0.7);
+    border: 1px solid rgba(255, 255, 255, 0.16);
+    backdrop-filter: blur(14px);
+    -webkit-backdrop-filter: blur(14px);
+  }
+  .fearn-discreet-reset-btn {
+    min-height: 38px;
+    justify-content: center;
+    padding: 8px 18px;
+    border-radius: 9999px;
+    background: rgba(15, 23, 42, 0.5);
+  }
+}
