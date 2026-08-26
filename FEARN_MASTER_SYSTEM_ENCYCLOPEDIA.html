@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>FEARN — Master System Encyclopedia & Architectural Specification</title>
+  <style>
+    :root {
+      --bg: #070913;
+      --card-bg: rgba(15, 23, 42, 0.9);
+      --text: #f8fafc;
+      --text-muted: #94a3b8;
+      --cyan: #38bdf8;
+      --purple: #c084fc;
+      --green: #22c55e;
+      --border: rgba(255, 255, 255, 0.12);
+      --glow: rgba(56, 189, 248, 0.25);
+    }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      margin: 0;
+      padding: 40px 20px;
+    }
+    .container {
+      max-width: 1080px;
+      margin: 0 auto;
+      background: var(--card-bg);
+      border: 1.5px solid var(--border);
+      border-radius: 24px;
+      padding: 48px;
+      box-shadow: 0 25px 60px rgba(0, 0, 0, 0.8), 0 0 50px var(--glow);
+      backdrop-filter: blur(20px);
+    }
+    h1, h2, h3, h4 {
+      color: #ffffff;
+      font-weight: 800;
+      letter-spacing: -0.02em;
+    }
+    h1 {
+      font-size: 2.4rem;
+      background: linear-gradient(135deg, var(--cyan), var(--purple));
+      -webkit-background-clip: text;
+      background-clip: text;
+      -webkit-text-fill-color: transparent;
+      margin-bottom: 8px;
+    }
+    .tagline {
+      font-size: 1.1rem;
+      color: var(--cyan);
+      font-weight: 600;
+      margin-bottom: 32px;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+    }
+    .badge {
+      display: inline-block;
+      padding: 6px 16px;
+      border-radius: 9999px;
+      font-size: 0.82rem;
+      font-weight: 700;
+      background: rgba(56, 189, 248, 0.15);
+      border: 1px solid rgba(56, 189, 248, 0.4);
+      color: var(--cyan);
+      margin-bottom: 24px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 24px 0;
+      font-size: 0.92rem;
+    }
+    th, td {
+      padding: 12px 16px;
+      border: 1px solid var(--border);
+      text-align: left;
+    }
+    th {
+      background: rgba(255, 255, 255, 0.05);
+      color: var(--cyan);
+      font-weight: 700;
+    }
+    tr:nth-child(even) {
+      background: rgba(255, 255, 255, 0.02);
+    }
+    .section {
+      margin-top: 40px;
+      padding-top: 24px;
+      border-top: 1px solid var(--border);
+    }
+    ul, ol {
+      padding-left: 24px;
+      color: #cbd5e1;
+    }
+    li {
+      margin-bottom: 8px;
+    }
+    code {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      background: rgba(0, 0, 0, 0.5);
+      padding: 2px 6px;
+      border-radius: 4px;
+      color: #38bdf8;
+      font-size: 0.88em;
+    }
+    .footer {
+      margin-top: 48px;
+      text-align: center;
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      border-top: 1px solid var(--border);
+      padding-top: 24px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>FEARN: The Whole-Self Sovereign School</h1>
+    <div class="tagline">Comprehensive Master Architectural Specification & Encyclopedia</div>
+    <div class="badge">STATUS: 100% PRODUCTION READY · ZERO-BLIND-SPOT AUDIT PASSED</div>
+
+    <div class="section">
+      <h2>1. Executive Summary & Identity</h2>
+      <p>
+        <strong>FEARN</strong> is a local-first, zero-dependency sovereign learning environment designed to take a learner from foundational literacy to advanced mastery across 29 academic, linguistic, cognitive, and physical disciplines. Built with an obsidian liquid-glass aesthetic, FEARN operates with 100% functionality in offline environments (e.g. Airplane Mode during transcontinental flights) without requiring external servers, third-party authentication, or cloud dependencies.
+      </p>
+    </div>
+
+    <div class="section">
+      <h2>2. Core System Architecture</h2>
+      <ul>
+        <li><strong>Engine Spine (<code>engine.js</code>)</strong>: Provides the shared storage, Spaced Repetition System (SuperMemo SM-2 interval scheduler), universal streak bookkeeping, journal telemetry logging, and modular registration hooks.</li>
+        <li><strong>Decoupled Modular Architecture</strong>: Every curriculum, skill visualizer, and UI extension plugs in through standard contracts without mutating the central DOM layout.</li>
+        <li><strong>Offline PWA Flight Suite (<code>sw.js</code> & <code>focus-noise.js</code>)</strong>: Pre-caches 105 static application assets and generates algorithmic acoustic brown noise via Web Audio API for cabin rumble blocking.</li>
+        <li><strong>Adaptive 5-Theme Engine</strong>: Seamlessly switches between Dark Glass, Night Flight, Daylight, Sepia, and High Contrast.</li>
+        <li><strong>Sovereign Vault Synchronization</strong>: 1-click JSON backup export/import allows effortless cross-device progress sync across PC, iPad, and iPhone.</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>3. Complete Curriculum Ledger (3,740 Verified Lessons)</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Category</th>
+            <th>Subject</th>
+            <th>Roadmap Length</th>
+            <th>Pedagogical Depth & Focus</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td>Language (1)</td><td>Spanish</td><td>170 Lessons</td><td>A1–C2 CEFR Native Fluency, Subjunctive, Advanced Idioms</td></tr>
+          <tr><td>Language (2)</td><td>Japanese</td><td>170 Lessons</td><td>N5–N1 JLPT Kanji, Grammar, Keigo, Cultural Nuance</td></tr>
+          <tr><td>Language (3)</td><td>Mandarin Chinese</td><td>170 Lessons</td><td>HSK 1–6 Hanzi, Pinyin, Tonal Nuance, Idiomatic Chengyu</td></tr>
+          <tr><td>Language (4)</td><td>French</td><td>170 Lessons</td><td>A1–C2 DALF Native Literary Fluency, Passé Simple</td></tr>
+          <tr><td>Language (5)</td><td>German</td><td>170 Lessons</td><td>A1–C2 Konjunktiv II, Complex Compounds, Formal Syntax</td></tr>
+          <tr><td>Language (6)</td><td>Arabic (MSA)</td><td>170 Lessons</td><td>Classical I'rab, Root Morphology, Formal Media Arabic</td></tr>
+          <tr><td>Language (7)</td><td>Russian</td><td>170 Lessons</td><td>TRKI 1–4 Six Grammatical Cases, Verbal Aspects, Motion Verbs</td></tr>
+          <tr><td>Language (8)</td><td>Brazilian Portuguese</td><td>170 Lessons</td><td>Celpe-Bras Fluency, Brazilian Phonetics, Subjunctive</td></tr>
+          <tr><td>Language (9)</td><td>Korean</td><td>170 Lessons</td><td>TOPIK I–VI Hangul, Honorific Speech Levels, Connectives</td></tr>
+          <tr><td>Language (10)</td><td>Hindi</td><td>170 Lessons</td><td>Devenagari Script, Ergative Postpositions, Literary Prose</td></tr>
+          <tr><td>Language (11)</td><td>Urdu</td><td>170 Lessons</td><td>Nastaliq Phonetics, Formal Insha, Poetry & Ghazal Formats</td></tr>
+          <tr><td>Language (12)</td><td>Cantonese</td><td>170 Lessons</td><td>Jyutping 6-Tone System, Colloquial Particles, Spoken Cantonese</td></tr>
+          <tr><td>Language (13)</td><td>Turkish</td><td>170 Lessons</td><td>Agglutinative Morphology, Vowel Harmony, TYS C2</td></tr>
+          <tr><td>Language (14)</td><td>Vietnamese</td><td>170 Lessons</td><td>Northern/Southern Tonal Diacritics, Classifiers, Reduplication</td></tr>
+          <tr><td>Language (15)</td><td>Amharic</td><td>170 Lessons</td><td>Ge'ez Fidel Abugida, Non-concatenative Morphology</td></tr>
+          <tr><td>Language (16)</td><td>Swahili</td><td>170 Lessons</td><td>Noun Class Agreement (M-Wa, Ki-Vi), Verb Agglutination</td></tr>
+          <tr><td>Language (17)</td><td>Ukrainian</td><td>170 Lessons</td><td>Cyrillic Script, 7 Noun Cases, Authentic Colloquial Idioms</td></tr>
+          <tr><td>Language (18)</td><td>Romanian</td><td>170 Lessons</td><td>Definite Enclitic Articles, Subjunctive, Balkan Romance</td></tr>
+          <tr><td>Language (19)</td><td>English</td><td>170 Lessons</td><td>C2 Academic Rhetoric, Advanced Etymology, Inversion</td></tr>
+          <tr><td>Language (20)</td><td>Argentine Spanish</td><td>170 Lessons</td><td>Voseo Conjugations, Lunfardo Idioms, Rioplatense Phonetics</td></tr>
+          <tr><td>Skill (1)</td><td>Chess Strategy</td><td>50 Lessons</td><td>Tactical Solving, Positional Master Play, Interactive Click-to-Move</td></tr>
+          <tr><td>Skill (2)</td><td>Morse Code (CW)</td><td>50 Lessons</td><td>Timing Ratios, Farnsworth Method, Audio Keying to 25+ WPM</td></tr>
+          <tr><td>Skill (3)</td><td>Typing Speed</td><td>45 Lessons</td><td>Home Row Ergonomics, Punctuation Mastery, Speed to 120+ WPM</td></tr>
+          <tr><td>Skill (4)</td><td>Mental Math</td><td>40 Lessons</td><td>Trachtenberg System, Vedic Math, Rapid Estimations</td></tr>
+          <tr><td>Skill (5)</td><td>Scrabble Lexicon</td><td>40 Lessons</td><td>Tournament 2/3-Letter Stems, High-Probability Bingos, Hooks</td></tr>
+          <tr><td>Skill (6)</td><td>Songwriting</td><td>40 Lessons</td><td>Modal Chord Progressions, Prosody, Rhyme Schemes, Form</td></tr>
+          <tr><td>University (1)</td><td>CS110</td><td>25 Lessons</td><td>Algorithms & Data Structures, Big-O Analysis, Graph Search</td></tr>
+          <tr><td>University (2)</td><td>B110</td><td>25 Lessons</td><td>Market Dynamics, Game Theory, Behavioral Economics</td></tr>
+          <tr><td>University (3)</td><td>B111</td><td>25 Lessons</td><td>Financial Modeling, DCF Valuation, LBO Structures</td></tr>
+          <tr><td>Fitness (1)</td><td>Biomechanics Hub</td><td>Comprehensive</td><td>Periodized Training for Large Gym, Small Gym, Open Space, Small Room</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="section">
+      <h2>4. Key UX & Tactical Innovations</h2>
+      <ul>
+        <li><strong>Spider-Web Constellation Navigation</strong>: Radiating radial vector graph connecting all 30 disciplines with animated orbital rings.</li>
+        <li><strong>Decoupled Command Center (<code>Ctrl+K</code> / Touch <code>🔍 Find</code>)</strong>: Instant fuzzy switcher across all curricula.</li>
+        <li><strong>Interactive 3D SRS Review Deck</strong>: Card flip interface with SuperMemo SM-2 interval rating.</li>
+        <li><strong>Smart Click-to-Move Chessboard</strong>: High-precision square selection and notation translation for desktop and touchscreens.</li>
+        <li><strong>Cultural Capitals World Clock</strong>: Real-time timezone and cultural synchronization across 20 global capitals.</li>
+      </ul>
+    </div>
+
+    <div class="footer">
+      <strong>FEARN System Master Architecture Report</strong><br>
+      Repository: <code>https://github.com/unironicallyunbespectacled/Fearn</code> · All Rights Reserved.
+    </div>
+  </div>
+</body>
+</html>

@@ -234,22 +234,30 @@
 
     </main>
 
-    <!-- ================= App Footer & Discreet Safe Reset ================= -->
+        <!-- ================= App Footer & Discreet Safe Reset ================= -->
     <footer class="fearn-app-footer">
       <div class="fearn-footer-inner">
-        <div class="fearn-footer-text">FEARN · Sovereign Local-First School</div>
-        <div class="fearn-footer-actions">
-          <button class="fearn-btn-backup" id="fearn-export-vault-btn" onclick="exportVaultData()" type="button" title="Download backup of streaks, SRS intervals, and quiz scores">
-            📥 Export Backup (.json)
-          </button>
-          <button class="fearn-btn-backup" id="fearn-import-vault-btn" onclick="triggerVaultImport()" type="button" title="Restore learning progress from backup">
-            📤 Import Backup
-          </button>
-          <input type="file" id="fearn-vault-file-input" accept=".json" style="display:none;" onchange="handleVaultFile(event)">
+        <div class="fearn-vault-box">
+          <div class="fearn-vault-header">
+            <div class="fearn-vault-title">🗄️ Sovereign Vault</div>
+            <div class="fearn-vault-subtitle">Backup or sync your learning profile across phone, tablet & PC</div>
+          </div>
+          <div class="fearn-footer-actions">
+            <button class="fearn-btn-backup" id="fearn-export-vault-btn" onclick="exportVaultData()" type="button" title="Download backup of streaks, SRS intervals, and quiz scores">
+              📥 Export Data
+            </button>
+            <button class="fearn-btn-backup" id="fearn-import-vault-btn" onclick="triggerVaultImport()" type="button" title="Restore learning progress from backup">
+              📤 Import Data
+            </button>
+            <input type="file" id="fearn-vault-file-input" accept=".json" style="display:none;" onchange="handleVaultFile(event)">
+          </div>
         </div>
-        <button class="fearn-discreet-reset-btn" id="fearn-open-archive-reset-btn" type="button" title="Reset and purge your local vault data">
-          <span style="font-size:0.95rem;">↺</span> Reset Vault Data
-        </button>
+        <div class="fearn-footer-bottom-row">
+          <div class="fearn-footer-text">FEARN · Sovereign Local-First School</div>
+          <button class="fearn-discreet-reset-btn" id="fearn-open-archive-reset-btn" type="button" title="Reset and purge your local vault data">
+            <span style="font-size:0.95rem;">↺</span> Reset Vault
+          </button>
+        </div>
       </div>
     </footer>
   </div>

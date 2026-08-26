@@ -1,5 +1,5 @@
 // FEARN Service Worker — Offline Flight Ready & Live Sync (v3.2)
-const CACHE_NAME = 'fearn-v3.2-live-sync-flight-suite';
+const CACHE_NAME = 'fearn-v3.3-live-sync-flight-suite';
 
 const ASSETS_TO_CACHE = [
   './',
