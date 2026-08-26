@@ -1,5 +1,5 @@
-// FEARN Service Worker — Offline Flight Ready (v3.0)
-const CACHE_NAME = 'fearn-v3.0-airplane-mode-complete';
+// FEARN Service Worker — Offline Flight Ready & Live Sync (v3.2)
+const CACHE_NAME = 'fearn-v3.2-live-sync-flight-suite';
 
 const ASSETS_TO_CACHE = [
   './',
@@ -109,45 +109,56 @@ const ASSETS_TO_CACHE = [
   './data/curricula/vietnamese.ledger.js'
 ];
 
+// Install: Pre-cache all assets immediately
 self.addEventListener('install', event => {
+  self.skipWaiting();
   event.waitUntil(
     caches.open(CACHE_NAME).then(cache => {
       console.log('[FEARN SW] Pre-caching all flight suite assets');
       return cache.addAll(ASSETS_TO_CACHE);
-    }).then(() => self.skipWaiting())
+    })
   );
 });
 
+// Activate: Clean up old cache versions immediately
 self.addEventListener('activate', event => {
   event.waitUntil(
     caches.keys().then(cacheNames => {
       return Promise.all(
-        cacheNames.filter(name => name !== CACHE_NAME).map(name => caches.delete(name))
+        cacheNames.filter(name => name !== CACHE_NAME).map(name => {
+          console.log('[FEARN SW] Purging stale cache:', name);
+          return caches.delete(name);
+        })
       );
     }).then(() => self.clients.claim())
   );
 });
 
+// Fetch Strategy: Network-First when Online, Cache-Fallback when in Flight / Offline
 self.addEventListener('fetch', event => {
+  if (event.request.method !== 'GET') return;
+
   event.respondWith(
-    caches.match(event.request).then(response => {
-      if (response) {
-        return response;
-      }
-      return fetch(event.request).then(networkResponse => {
-        if (!networkResponse || networkResponse.status !== 200 || networkResponse.type !== 'basic') {
-          return networkResponse;
+    fetch(event.request)
+      .then(networkResponse => {
+        if (networkResponse && networkResponse.status === 200) {
+          const responseToCache = networkResponse.clone();
+          caches.open(CACHE_NAME).then(cache => {
+            cache.put(event.request, responseToCache);
+          });
         }
-        const responseToCache = networkResponse.clone();
-        caches.open(CACHE_NAME).then(cache => {
-          cache.put(event.request, responseToCache);
-        });
         return networkResponse;
-      });
-    }).catch(() => {
-      if (event.request.headers.get('accept') && event.request.headers.get('accept').includes('text/html')) {
-        return caches.match('./index.html') || caches.match('./app.html');
-      }
-    })
+      })
+      .catch(() => {
+        // Offline / Airplane Mode: Serve directly from Cache
+        return caches.match(event.request).then(cachedResponse => {
+          if (cachedResponse) {
+            return cachedResponse;
+          }
+          if (event.request.headers.get('accept') && event.request.headers.get('accept').includes('text/html')) {
+            return caches.match('./index.html') || caches.match('./app.html');
+          }
+        });
+      })
   );
 });
