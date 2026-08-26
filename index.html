@@ -47,26 +47,6 @@
 
   <div class="fearn-shell">
 
-    <!-- ================= top status strip ================= -->
-    <div class="fearn-status-strip">
-      <div class="fearn-status-strip-left">
-        <div class="fearn-status-pill" id="fearn-pwa-badge">
-          <span class="fearn-status-dot"></span> 🟢 Offline Ready · 104 Assets Cached
-        </div>
-        <div class="fearn-audio-rate-picker" title="Pronunciation Speed">
-          <span style="font-size:0.72rem; color:#64748b; font-weight:700; padding-left:4px;">Speed:</span>
-          <button class="fearn-rate-btn" data-rate="0.75" onclick="setSpeechSpeed(0.75)">0.75x</button>
-          <button class="fearn-rate-btn active" data-rate="1.0" onclick="setSpeechSpeed(1.0)">1.0x</button>
-          <button class="fearn-rate-btn" data-rate="1.25" onclick="setSpeechSpeed(1.25)">1.25x</button>
-        </div>
-      </div>
-      <div class="fearn-status-strip-right">
-        <button class="fearn-focus-btn" id="fearn-cabin-noise-btn" onclick="toggleCabinNoise()" type="button" title="Generates soothing acoustic brown noise to block cabin engine rumble">
-          🎧 Cabin Blocker (Brown Noise)
-        </button>
-      </div>
-    </div>
-
     <!-- ================= topbar ================= -->
     <header class="fearn-topbar fearn-glass">
       <div class="fearn-brand" id="fearn-brand-home" style="cursor:pointer;" title="Return to Dashboard">
@@ -108,7 +88,6 @@
         </div>
       </div>
       <div class="fearn-topbar-actions">
-        <button class="fearn-btn" onclick="openCommandPalette()" type="button" title="Quick Switcher (Ctrl+K)">🔍 Find</button>
         <button id="fearn-env-toggle" class="fearn-env-btn" type="button" onclick="window.FEARN_ENV && window.FEARN_ENV.cycleEnv()" title="Switch Theme (Alt+T)">🌌 <span>Dark</span></button>
         <button id="fearn-world-clock-btn" class="fearn-world-clock-widget" type="button" title="World Time, Cultural Capitals & Yocto Precision">
           <span class="fearn-clock-mini-dial"></span>
@@ -242,12 +221,7 @@
         </div>
 
         <div>
-          <div class="fearn-section-heading" style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:10px;">
-          <h2>Due today, across everything</h2>
-          <button class="fearn-btn-backup" onclick="openSRSFlashcardDeck()" type="button" style="background:rgba(99,102,241,0.18); color:#a5b4fc; border-color:rgba(99,102,241,0.4);">
-            🎴 Start Daily SRS Review Deck
-          </button>
-        </div>
+          <div class="fearn-section-heading"><h2>Due today, across everything</h2></div>
           <div class="fearn-glass" style="padding:16px;" id="journey-due-queue"></div>
         </div>
 
@@ -811,7 +785,7 @@
 
     // Returns true if the current hash named a real view to restore into.
     function restoreFromHash() {
-      var hash = location.hash.replace(/^#/, '');
+      var hash = (location.hash || '').replace(/^#/, '');
       if (hash.indexOf('module=') === 0) {
         var slotId = decodeURIComponent(hash.slice('module='.length));
         if (slotById(slotId)) {
@@ -2130,297 +2104,6 @@
 
   })();
   </script>
-
-
-  
-  <!-- ================= FEARN COMMAND CENTER & 3D SRS FLASHCARD DECK ================= -->
-  <script>
-  (function initFearnMasterSuite() {
-    'use strict';
-
-    var ALL_MODULES = [
-      { id: 'lang-spanish', name: 'Spanish', icon: '🇪🇸', cat: 'Language', level: 'C2 Native' },
-      { id: 'lang-japanese', name: 'Japanese', icon: '🇯🇵', cat: 'Language', level: 'N1 Advanced' },
-      { id: 'lang-swahili', name: 'Swahili', icon: '🇰🇪', cat: 'Language', level: 'C2 Native' },
-      { id: 'lang-french', name: 'French', icon: '🇫🇷', cat: 'Language', level: 'C2 Native' },
-      { id: 'lang-german', name: 'German', icon: '🇩🇪', cat: 'Language', level: 'C2 Native' },
-      { id: 'lang-mandarin', name: 'Mandarin', icon: '🇨🇳', cat: 'Language', level: 'HSK 6' },
-      { id: 'lang-cantonese', name: 'Cantonese', icon: '🇭🇰', cat: 'Language', level: 'C2 Native' },
-      { id: 'lang-korean', name: 'Korean', icon: '🇰🇷', cat: 'Language', level: 'TOPIK VI' },
-      { id: 'lang-hindi', name: 'Hindi', icon: '🇮🇳', cat: 'Language', level: 'C2 Native' },
-      { id: 'lang-urdu', name: 'Urdu', icon: '🇵🇰', cat: 'Language', level: 'C2 Native' },
-      { id: 'lang-arabic', name: 'Arabic', icon: '🇦🇪', cat: 'Language', level: 'C2 Native' },
-      { id: 'lang-russian', name: 'Russian', icon: '🇷🇺', cat: 'Language', level: 'TRKI-4' },
-      { id: 'lang-ukrainian', name: 'Ukrainian', icon: '🇺🇦', cat: 'Language', level: 'C2 Native' },
-      { id: 'lang-amharic', name: 'Amharic', icon: '🇪🇹', cat: 'Language', level: 'C2 Native' },
-      { id: 'lang-turkish', name: 'Turkish', icon: '🇹🇷', cat: 'Language', level: 'C2 Native' },
-      { id: 'lang-vietnamese', name: 'Vietnamese', icon: '🇻🇳', cat: 'Language', level: 'C2 Native' },
-      { id: 'lang-romanian', name: 'Romanian', icon: '🇷🇴', cat: 'Language', level: 'C2 Native' },
-      { id: 'lang-english', name: 'English C2', icon: '🇬🇧', cat: 'Language', level: 'C2 Native' },
-      { id: 'lang-brazilian-portuguese', name: 'Brazilian Portuguese', icon: '🇧🇷', cat: 'Language', level: 'Celpe-Bras' },
-      { id: 'lang-argentine-spanish', name: 'Argentine Spanish', icon: '🇦🇷', cat: 'Language', level: 'C2 Rioplatense' },
-      { id: 'skill-chess', name: 'Chess Tactics & Strategy', icon: '♟️', cat: 'Cognitive Skill', level: '2200 Elo' },
-      { id: 'skill-morse', name: 'Morse Code High-Speed', icon: '📻', cat: 'Cognitive Skill', level: '35 WPM' },
-      { id: 'skill-typing', name: 'Touch Typing Mastery', icon: '⌨️', cat: 'Cognitive Skill', level: '140 WPM' },
-      { id: 'skill-mentalmath', name: 'Mental Math Calculation', icon: '🧮', cat: 'Cognitive Skill', level: 'Grandmaster' },
-      { id: 'skill-scrabble', name: 'Tournament Scrabble', icon: '🔠', cat: 'Cognitive Skill', level: 'Expert' },
-      { id: 'skill-songwriting', name: 'Songwriting & Prosody', icon: '🎼', cat: 'Cognitive Skill', level: 'Advanced' },
-      { id: 'course-cs110', name: 'CS110: Advanced Algorithms', icon: '💻', cat: 'University', level: 'Stanford Core' },
-      { id: 'course-b110', name: 'B110: Strategic Marketing', icon: '📊', cat: 'University', level: 'Graduate' },
-      { id: 'course-b111', name: 'B111: Financial Valuation', icon: '📈', cat: 'University', level: 'Wall Street' },
-      { id: 'fitness-hub', name: 'Biomechanics Fitness Hub', icon: '🏋️', cat: 'Fitness', level: '14 Tracks' }
-    ];
-
-    // ================= 1. GLOBAL COMMAND CENTER (Ctrl+K) =================
-    window.openCommandPalette = function () {
-      var existing = document.getElementById('fearn-command-palette');
-      if (existing) { existing.remove(); return; }
-
-      var overlay = document.createElement('div');
-      overlay.id = 'fearn-command-palette';
-      overlay.className = 'fearn-palette-overlay';
-
-      var card = document.createElement('div');
-      card.className = 'fearn-palette-card';
-
-      card.innerHTML = `
-        <div class="fearn-palette-header">
-          <span class="fearn-palette-search-icon">🔍</span>
-          <input type="text" class="fearn-palette-input" id="fearn-palette-search" placeholder="Jump to language, skill, or course (e.g. Swahili, Chess, CS110)...">
-          <span style="font-size:0.72rem; color:#94a3b8; font-weight:700; border:1px solid rgba(255,255,255,0.14); padding:3px 7px; border-radius:6px;">ESC</span>
-        </div>
-        <div class="fearn-palette-tabs">
-          <button class="fearn-palette-tab-btn active" id="tab-all" onclick="window.setPaletteTab('all')">All Disciplines</button>
-          <button class="fearn-palette-tab-btn" id="tab-lang" onclick="window.setPaletteTab('Language')">Languages (20)</button>
-          <button class="fearn-palette-tab-btn" id="tab-skill" onclick="window.setPaletteTab('Cognitive Skill')">Skills (6)</button>
-          <button class="fearn-palette-tab-btn" id="tab-univ" onclick="window.setPaletteTab('University')">University (3)</button>
-          <button class="fearn-palette-tab-btn" id="tab-shortcuts" onclick="window.setPaletteTab('shortcuts')">⌨️ Shortcuts</button>
-        </div>
-        <div class="fearn-palette-body" id="fearn-palette-list"></div>
-      `;
-
-      overlay.appendChild(card);
-      document.body.appendChild(overlay);
-
-      overlay.onclick = function (e) {
-        if (e.target === overlay) overlay.remove();
-      };
-
-      var input = document.getElementById('fearn-palette-search');
-      var list = document.getElementById('fearn-palette-list');
-      var currentTab = 'all';
-      var activeIndex = 0;
-
-      window.setPaletteTab = function (tab) {
-        currentTab = tab;
-        document.querySelectorAll('.fearn-palette-tab-btn').forEach(function (btn) {
-          btn.classList.toggle('active', btn.id === ('tab-' + (tab === 'Cognitive Skill' ? 'skill' : tab === 'Language' ? 'lang' : tab === 'University' ? 'univ' : tab)));
-        });
-        renderList(input.value);
-      };
-
-      function renderList(query) {
-        list.innerHTML = '';
-        var q = (query || '').toLowerCase().trim();
-
-        if (currentTab === 'shortcuts') {
-          list.innerHTML = `
-            <div class="fearn-shortcuts-grid">
-              <div class="fearn-shortcut-row"><span>Quick Switcher</span><span class="fearn-kbd-badge">Ctrl + K</span></div>
-              <div class="fearn-shortcut-row"><span>Cycle 5 Themes</span><span class="fearn-kbd-badge">Alt + T</span></div>
-              <div class="fearn-shortcut-row"><span>Journey Mode</span><span class="fearn-kbd-badge">Alt + J</span></div>
-              <div class="fearn-shortcut-row"><span>Omni-Library</span><span class="fearn-kbd-badge">Alt + L</span></div>
-              <div class="fearn-shortcut-row"><span>Dashboard Home</span><span class="fearn-kbd-badge">Alt + D</span></div>
-              <div class="fearn-shortcut-row"><span>Select Answers</span><span class="fearn-kbd-badge">1 · 2 · 3 · 4</span></div>
-              <div class="fearn-shortcut-row"><span>Submit / Advance</span><span class="fearn-kbd-badge">Enter / Space</span></div>
-              <div class="fearn-shortcut-row"><span>Close Modals</span><span class="fearn-kbd-badge">Escape</span></div>
-            </div>
-          `;
-          return;
-        }
-
-        var filtered = ALL_MODULES.filter(function (m) {
-          var matchesTab = (currentTab === 'all' || m.cat === currentTab);
-          var matchesQuery = !q || m.name.toLowerCase().indexOf(q) !== -1 || m.cat.toLowerCase().indexOf(q) !== -1;
-          return matchesTab && matchesQuery;
-        });
-
-        if (!filtered.length) {
-          list.innerHTML = '<div style="padding:28px; text-align:center; color:#64748b; font-size:0.95rem;">No matching disciplines found.</div>';
-          return;
-        }
-
-        filtered.forEach(function (m, idx) {
-          var item = document.createElement('div');
-          item.className = 'fearn-palette-item' + (idx === activeIndex ? ' active' : '');
-          item.innerHTML = `
-            <div class="fearn-palette-item-left">
-              <span style="font-size:1.4rem;">${m.icon}</span>
-              <div>
-                <div style="font-weight:700; font-size:0.98rem;">${m.name}</div>
-                <div style="font-size:0.75rem; color:#64748b;">${m.level}</div>
-              </div>
-            </div>
-            <span class="fearn-palette-badge">${m.cat}</span>
-          `;
-          item.onclick = function () {
-            overlay.remove();
-            window.dispatchEvent(new CustomEvent('fearn:open-module', { detail: { id: m.id } }));
-          };
-          list.appendChild(item);
-        });
-      }
-
-      renderList('');
-      setTimeout(function () { input.focus(); }, 50);
-
-      input.oninput = function () {
-        activeIndex = 0;
-        renderList(input.value);
-      };
-
-      input.onkeydown = function (e) {
-        var items = list.querySelectorAll('.fearn-palette-item');
-        if (e.key === 'ArrowDown') {
-          e.preventDefault();
-          if (activeIndex < items.length - 1) activeIndex++;
-          renderList(input.value);
-        } else if (e.key === 'ArrowUp') {
-          e.preventDefault();
-          if (activeIndex > 0) activeIndex--;
-          renderList(input.value);
-        } else if (e.key === 'Enter') {
-          e.preventDefault();
-          if (items[activeIndex]) items[activeIndex].click();
-        }
-      };
-    };
-
-    // ================= 2. 3D INTERACTIVE SRS FLASHCARD DECK =================
-    window.openSRSFlashcardDeck = function () {
-      var existing = document.getElementById('fearn-srs-deck');
-      if (existing) { existing.remove(); return; }
-
-      // Get real due reviews or sample high-yield deck
-      var due = (window.FEARN && typeof window.FEARN.getAllDueReviews === 'function') ? window.FEARN.getAllDueReviews() : [];
-      
-      // Fallback deck for instant practice if no reviews are due
-      if (!due || !due.length) {
-        due = [
-          { itemId: 'sample-es-1', moduleId: 'lang-spanish', prompt: 'Hacer caso omiso de algo', answer: 'To completely disregard or ignore something', note: 'Advanced C2 Idiomatic Expression · Spanish', audioLang: 'spanish' },
-          { itemId: 'sample-sw-1', moduleId: 'lang-swahili', prompt: 'Wageni wetu watawasili kesho asubuhi', answer: 'Our guests will arrive tomorrow morning', note: 'Class 2 (WA-) Plural Agreement · Swahili C2', audioLang: 'swahili' },
-          { itemId: 'sample-fr-1', moduleId: 'lang-french', prompt: 'Il convient de souligner que...', answer: 'It is worth emphasizing that...', note: 'Diplomatic & Academic Register · French C2', audioLang: 'french' },
-          { itemId: 'sample-ja-1', moduleId: 'lang-japanese', prompt: '一期一会 (Ichigo Ichie)', answer: 'Treasure every unrepeatable encounter in life', note: 'Cultural Idiom & Zen Philosophy · Japanese', audioLang: 'japanese' },
-          { itemId: 'sample-ch-1', moduleId: 'skill-chess', prompt: 'Smothered Mate (Philidor Legacy)', answer: 'Nf7+ -> Nh6+ -> Qg8+! -> Nf7#', note: 'Classic Queen sacrifice followed by Knight smother', audioLang: 'english' }
-        ];
-      }
-
-      var currentIndex = 0;
-
-      var overlay = document.createElement('div');
-      overlay.id = 'fearn-srs-deck';
-      overlay.className = 'fearn-srs-deck-overlay';
-
-      var card = document.createElement('div');
-      card.className = 'fearn-srs-deck-card';
-
-      function renderCard() {
-        var item = due[currentIndex];
-        var total = due.length;
-        
-        card.innerHTML = `
-          <div style="display:flex; align-items:center; justify-content:space-between; width:100%;">
-            <div style="font-size:0.85rem; font-weight:700; color:#38bdf8;">🎴 SRS Spaced Repetition · Card ${currentIndex + 1} of ${total}</div>
-            <button onclick="document.getElementById('fearn-srs-deck').remove()" style="background:transparent; border:none; color:#64748b; font-size:1.2rem; cursor:pointer;">✕</button>
-          </div>
-
-          <div class="fearn-srs-flashcard-perspective">
-            <div class="fearn-srs-flashcard-inner" id="fearn-active-flashcard" onclick="this.classList.toggle('is-flipped')">
-              <div class="fearn-srs-card-front">
-                <div style="font-size:0.75rem; font-weight:700; color:#94a3b8; text-transform:uppercase; letter-spacing:0.06em; margin-bottom:8px;">${item.moduleId || 'FEARN Practice'}</div>
-                <div style="font-size:1.4rem; font-weight:800; color:#f8fafc; margin-bottom:12px;">${item.prompt}</div>
-                <div style="font-size:0.8rem; color:#64748b;">(Tap card to reveal answer & pronunciation)</div>
-              </div>
-              <div class="fearn-srs-card-back">
-                <div style="font-size:1.2rem; font-weight:700; color:#34d399; margin-bottom:8px;">${item.answer}</div>
-                <div style="font-size:0.85rem; color:#cbd5e1; margin-bottom:14px;">${item.note || ''}</div>
-                <button class="fearn-btn-backup" onclick="event.stopPropagation(); window.FEARN && window.FEARN.audio && window.FEARN.audio.speak('${item.prompt.replace(/'/g, "\\'")}', '${item.audioLang || 'english'}')" style="margin-bottom:4px;">
-                  🔊 Hear Pronunciation
-                </button>
-              </div>
-            </div>
-          </div>
-
-          <div>
-            <div style="font-size:0.75rem; color:#94a3b8; font-weight:700; margin-bottom:6px; text-align:center;">Rate Recall Difficulty (SuperMemo SM-2):</div>
-            <div class="fearn-srs-rating-grid">
-              <button class="fearn-srs-rate-btn fearn-srs-btn-again" onclick="window.rateSRSCard(1)">
-                <span>Again</span><span style="font-size:0.7rem; opacity:0.8;">&lt; 1 min</span>
-              </button>
-              <button class="fearn-srs-rate-btn fearn-srs-btn-hard" onclick="window.rateSRSCard(2)">
-                <span>Hard</span><span style="font-size:0.7rem; opacity:0.8;">1 day</span>
-              </button>
-              <button class="fearn-srs-rate-btn fearn-srs-btn-good" onclick="window.rateSRSCard(3)">
-                <span>Good</span><span style="font-size:0.7rem; opacity:0.8;">3 days</span>
-              </button>
-              <button class="fearn-srs-rate-btn fearn-srs-btn-easy" onclick="window.rateSRSCard(5)">
-                <span>Easy</span><span style="font-size:0.7rem; opacity:0.8;">7 days</span>
-              </button>
-            </div>
-          </div>
-        `;
-      }
-
-      window.rateSRSCard = function (quality) {
-        var item = due[currentIndex];
-        if (window.FEARN && window.FEARN.srs) {
-          window.FEARN.srs.schedule(item.itemId, quality, item.moduleId);
-        }
-        if (currentIndex < due.length - 1) {
-          currentIndex++;
-          renderCard();
-        } else {
-          card.innerHTML = `
-            <div style="text-align:center; padding:32px 16px;">
-              <div style="font-size:3rem; margin-bottom:12px;">🏆</div>
-              <h3 style="font-size:1.4rem; color:#f8fafc; margin-bottom:8px;">Daily Review Complete!</h3>
-              <p style="color:#94a3b8; font-size:0.95rem; margin-bottom:20px;">All scheduled flashcards have been reviewed and committed to your local memory ledger.</p>
-              <button class="fearn-lang-btn-primary" onclick="document.getElementById('fearn-srs-deck').remove()">Return to FEARN</button>
-            </div>
-          `;
-        }
-      };
-
-      renderCard();
-      overlay.appendChild(card);
-      document.body.appendChild(overlay);
-    };
-
-    // Global Key Listener for Ctrl+K / Cmd+K and Esc
-    window.addEventListener('keydown', function (e) {
-      if ((e.ctrlKey || e.metaKey) && (e.key === 'k' || e.key === 'K')) {
-        e.preventDefault();
-        window.openCommandPalette();
-      }
-    });
-
-  })();
-  </script>
-
-
-
-  <!-- ================= MOBILE FLOATING QUICK-NAV ISLAND (IPHONE & IPAD) ================= -->
-  <aside class="fearn-mobile-floating-island" aria-label="Mobile Quick Navigation">
-    <button class="fearn-island-btn fearn-island-btn--primary" onclick="openCommandPalette()" type="button" title="Quick Switcher & Search">
-      <span>🔍</span> <span style="font-size:0.75rem; font-weight:800;">Quick Nav</span>
-    </button>
-    <button class="fearn-island-btn" onclick="openSRSFlashcardDeck()" type="button" title="Daily SRS Flashcards">
-      <span>🎴</span>
-    </button>
-    <button class="fearn-island-btn" onclick="window.FEARN_ENV && window.FEARN_ENV.cycleEnv()" type="button" title="Cycle Themes">
-      <span>🌌</span>
-    </button>
-  </aside>
 
 </body>
 </html>

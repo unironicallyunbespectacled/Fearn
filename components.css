@@ -1,373 +1,3601 @@
-
-
-
 /* ==========================================================================
-   OBSIDIAN LIQUID-GLASS COMMAND PALETTE, SHORTCUTS & 3D SRS FLASHCARD DECK
+   FEARN — components.css
+   Shell layout + component styling. Depends on tokens defined in theme.css.
    ========================================================================== */
 
-/* Command Center Modal */
-.fearn-palette-overlay {
-  position: fixed;
-  inset: 0;
-  z-index: 100000;
-  background: rgba(3, 7, 18, 0.78);
-  backdrop-filter: blur(24px) saturate(190%);
-  -webkit-backdrop-filter: blur(24px) saturate(190%);
-  display: flex;
-  align-items: flex-start;
-  justify-content: center;
-  padding-top: 10vh;
-  animation: fearnPaletteFadeIn 0.22s cubic-bezier(0.16, 1, 0.3, 1);
-}
+/* ---------- accent helpers (per subject-area families) ---------- */
+[data-accent="language"]  { --accent-1: var(--lang-1);    --accent-2: var(--lang-2);    --accent-glow: var(--lang-glow); }
+[data-accent="skill"]     { --accent-1: var(--skill-1);   --accent-2: var(--skill-2);   --accent-glow: var(--skill-glow); }
+[data-accent="fitness"]   { --accent-1: var(--fit-1);     --accent-2: var(--fit-2);     --accent-glow: var(--fit-glow); }
+[data-accent="special"]   { --accent-1: var(--special-1); --accent-2: var(--special-2); --accent-glow: var(--special-glow); }
 
-@keyframes fearnPaletteFadeIn {
-  from { opacity: 0; transform: scale(0.97) translateY(-8px); }
-  to { opacity: 1; transform: scale(1) translateY(0); }
-}
+/* ==========================================================================
+   Shell layout
+   ========================================================================== */
 
-.fearn-palette-card {
-  width: 94%;
-  max-width: 680px;
-  background: rgba(13, 20, 36, 0.94);
-  border: 1px solid rgba(255, 255, 255, 0.16);
-  border-radius: 24px;
-  box-shadow: 0 35px 90px rgba(0, 0, 0, 0.88), 0 0 50px rgba(56, 189, 248, 0.22);
-  overflow: hidden;
+.fearn-shell {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 24px 20px 80px;
   display: flex;
   flex-direction: column;
+  gap: 28px;
 }
 
-.fearn-palette-header {
-  display: flex;
-  align-items: center;
-  gap: 12px;
-  padding: 18px 22px;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
-  background: rgba(0, 0, 0, 0.3);
-}
-
-.fearn-palette-search-icon {
-  font-size: 1.25rem;
-  color: #38bdf8;
-}
-
-.fearn-palette-input {
-  flex: 1;
-  background: transparent;
-  border: none;
-  color: #f8fafc;
-  font-size: 1.12rem;
-  font-weight: 600;
-  outline: none;
-  font-family: inherit;
-}
-.fearn-palette-input::placeholder {
-  color: #64748b;
-  font-weight: 400;
-}
-
-.fearn-palette-tabs {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  padding: 10px 20px;
-  background: rgba(0, 0, 0, 0.2);
-  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
-}
-
-.fearn-palette-tab-btn {
-  background: transparent;
-  border: 1px solid transparent;
-  color: #94a3b8;
-  font-size: 0.8rem;
-  font-weight: 700;
-  padding: 5px 12px;
-  border-radius: 9999px;
-  cursor: pointer;
-  transition: all 0.2s ease;
-}
-.fearn-palette-tab-btn.active, .fearn-palette-tab-btn:hover {
-  background: rgba(56, 189, 248, 0.14);
-  border-color: rgba(56, 189, 248, 0.35);
-  color: #38bdf8;
-}
-
-.fearn-palette-body {
-  max-height: 420px;
-  overflow-y: auto;
-  padding: 12px 14px;
-  display: flex;
-  flex-direction: column;
-  gap: 6px;
-}
-
-.fearn-palette-item {
+.fearn-topbar {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 12px 16px;
-  border-radius: 12px;
-  cursor: pointer;
-  color: #e2e8f0;
-  background: rgba(255, 255, 255, 0.02);
-  border: 1px solid rgba(255, 255, 255, 0.04);
-  transition: all 0.15s ease;
+  gap: 16px;
+  padding: 14px 22px;
 }
-.fearn-palette-item:hover, .fearn-palette-item.active {
-  background: rgba(56, 189, 248, 0.15);
-  border-color: rgba(56, 189, 248, 0.35);
-  color: #38bdf8;
-  transform: translateX(3px);
-}
-.fearn-palette-item-left {
+
+.fearn-brand {
   display: flex;
   align-items: center;
   gap: 12px;
 }
-.fearn-palette-badge {
+
+.fearn-fern-logo {
+  width: 38px;
+  height: 38px;
+  flex-shrink: 0;
+}
+
+/* RGB-split "holographic" fern rendering: two offset color layers screen-blend
+   against the core gradient stroke, same technique as the liquid-glass poster
+   reference this was adapted from. Requires a dark backdrop to read correctly. */
+.fearn-fern-frond .fearn-fern-layer path {
+  stroke-width: 2;
+}
+.fearn-fern-layer--a,
+.fearn-fern-layer--b {
+  mix-blend-mode: screen;
+  opacity: 0.8;
+}
+
+.fearn-brand-name {
+  font-family: var(--font-display);
+  font-size: 1.4rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  background: linear-gradient(120deg, var(--lang-1), var(--skill-1) 60%, var(--fit-1));
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.fearn-brand-tagline {
   font-size: 0.72rem;
-  font-weight: 700;
-  padding: 3px 8px;
-  border-radius: 9999px;
-  background: rgba(255, 255, 255, 0.06);
-  color: #94a3b8;
+  color: var(--text-faint);
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  margin-top: -2px;
 }
 
-.fearn-shortcuts-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  gap: 10px;
-  padding: 8px;
-}
-.fearn-shortcut-row {
+.fearn-topbar-actions {
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  padding: 10px 14px;
-  background: rgba(0, 0, 0, 0.25);
-  border: 1px solid rgba(255, 255, 255, 0.06);
-  border-radius: 10px;
+  gap: 10px;
 }
-.fearn-kbd-badge {
+
+/* ==========================================================================
+   Buttons
+   ========================================================================== */
+
+.fearn-btn {
   display: inline-flex;
   align-items: center;
-  gap: 4px;
-  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
-  font-size: 0.78rem;
-  font-weight: 700;
-  background: rgba(255, 255, 255, 0.1);
-  border: 1px solid rgba(255, 255, 255, 0.2);
-  color: #38bdf8;
-  padding: 3px 7px;
-  border-radius: 6px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+  gap: 8px;
+  border: 1px solid var(--glass-border);
+  background: var(--glass-bg);
+  color: var(--text-main);
+  padding: 10px 18px;
+  border-radius: var(--radius-pill);
+  font-size: 0.9rem;
+  font-weight: 500;
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  transition: all 0.2s ease;
 }
 
-/* 3D Interactive SRS Flashcard Drill Hub */
-.fearn-srs-deck-overlay {
-  position: fixed;
+.fearn-btn:hover {
+  border-color: var(--glass-border-strong);
+  background: var(--glass-bg-strong);
+  transform: translateY(-1px);
+}
+
+.fearn-btn.is-active {
+  border-color: var(--special-1);
+  box-shadow: 0 0 22px var(--special-glow);
+  color: var(--special-1);
+}
+
+.fearn-btn--primary {
+  background: linear-gradient(135deg, var(--lang-1), var(--skill-1));
+  color: var(--text-on-accent);
+  font-weight: 700;
+  border: none;
+  box-shadow: 0 6px 20px rgba(178, 107, 255, 0.3);
+}
+
+.fearn-btn--primary:hover {
+  transform: translateY(-2px) scale(1.01);
+  box-shadow: 0 10px 28px rgba(178, 107, 255, 0.45);
+}
+
+.fearn-btn--ghost {
+  background: transparent;
+  border-color: transparent;
+}
+
+.fearn-btn--ghost:hover {
+  background: var(--glass-bg-soft);
+  border-color: var(--glass-border);
+}
+
+.fearn-btn--icon {
+  width: 42px;
+  height: 42px;
+  padding: 0;
+  justify-content: center;
+  border-radius: 50%;
+  font-size: 1.1rem;
+}
+
+/* ==========================================================================
+   Spider-web navigation hub
+   ========================================================================== */
+
+.web-nav {
+  position: relative;
+  padding: 34px 18px 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 22px;
+}
+
+.web-lines {
+  position: absolute;
   inset: 0;
-  z-index: 100000;
-  background: rgba(3, 7, 18, 0.88);
-  backdrop-filter: blur(28px) saturate(180%);
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.web-line {
+  stroke: rgba(255, 255, 255, 0.34);
+  stroke-width: 1.2;
+  vector-effect: non-scaling-stroke;
+  transition: stroke 0.4s ease, stroke-width 0.4s ease, opacity 0.4s ease;
+}
+
+.web-line--ring {
+  stroke: rgba(255, 255, 255, 0.2);
+  stroke-dasharray: 2 5;
+  animation: web-pulse 5s linear infinite;
+}
+
+@keyframes web-pulse {
+  to { stroke-dashoffset: -70; }
+}
+
+.web-line--active {
+  stroke: var(--special-1);
+  stroke-width: 1.6;
+  opacity: 0.9;
+  filter: drop-shadow(0 0 6px var(--special-glow));
+}
+
+.web-hub {
+  position: relative;
+  z-index: 2;
+  width: 76px;
+  height: 76px;
+  border-radius: 50%;
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 20px;
-  animation: fearnPaletteFadeIn 0.25s ease-out;
+  background: radial-gradient(circle at 35% 30%, rgba(255, 255, 255, 0.16), var(--glass-bg-strong));
+  border: 1px solid var(--glass-border-strong);
+  box-shadow: 0 0 40px rgba(255, 255, 255, 0.08);
 }
 
-.fearn-srs-deck-card {
-  width: 96%;
-  max-width: 600px;
-  background: rgba(15, 23, 42, 0.96);
-  border: 1.5px solid rgba(255, 255, 255, 0.18);
-  border-radius: 28px;
-  padding: 28px;
-  box-shadow: 0 40px 100px rgba(0, 0, 0, 0.95), 0 0 60px rgba(99, 102, 241, 0.28);
+.web-clusters {
+  position: relative;
+  z-index: 2;
+  width: 100%;
   display: flex;
   flex-direction: column;
   gap: 20px;
 }
 
-.fearn-srs-flashcard-perspective {
-  perspective: 1200px;
-  width: 100%;
-}
-
-.fearn-srs-flashcard-inner {
-  position: relative;
-  width: 100%;
-  min-height: 240px;
-  text-align: center;
-  transition: transform 0.6s cubic-bezier(0.34, 1.56, 0.64, 1);
-  transform-style: preserve-3d;
-  cursor: pointer;
-}
-
-.fearn-srs-flashcard-inner.is-flipped {
-  transform: rotateY(180deg);
-}
-
-.fearn-srs-card-front, .fearn-srs-card-back {
-  position: absolute;
-  inset: 0;
-  width: 100%;
-  height: 100%;
-  -webkit-backface-visibility: hidden;
-  backface-visibility: hidden;
-  border-radius: 20px;
-  padding: 24px;
+.web-cluster {
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  border: 1.5px solid rgba(255, 255, 255, 0.12);
-  background: linear-gradient(145deg, rgba(30, 41, 59, 0.8), rgba(15, 23, 42, 0.9));
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
+  gap: 12px;
 }
 
-.fearn-srs-card-back {
-  transform: rotateY(180deg);
-  border-color: rgba(56, 189, 248, 0.35);
-  background: linear-gradient(145deg, rgba(15, 23, 42, 0.95), rgba(30, 41, 59, 0.85));
-}
-
-.fearn-srs-rating-grid {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 10px;
-  margin-top: 10px;
-}
-
-.fearn-srs-rate-btn {
-  padding: 12px 8px;
-  border-radius: 12px;
-  font-size: 0.85rem;
+.web-cluster-label {
+  font-size: 0.72rem;
   font-weight: 700;
-  cursor: pointer;
-  border: 1px solid transparent;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  color: var(--accent-1, var(--text-sub));
+  padding: 6px 14px;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--glass-border);
+  background: var(--glass-bg-soft);
+}
+
+.web-cluster-nodes {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  max-width: 900px;
+}
+
+.web-node {
+  position: relative;
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 4px;
+  width: 68px;
+  padding: 10px 4px 8px;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--glass-border);
+  background: var(--glass-bg);
+  color: var(--text-sub);
+  font-size: 0.65rem;
+  text-align: center;
   transition: all 0.2s ease;
 }
-.fearn-srs-btn-again { background: rgba(239, 68, 68, 0.16); color: #f87171; border-color: rgba(239, 68, 68, 0.35); }
-.fearn-srs-btn-hard { background: rgba(245, 158, 11, 0.16); color: #fbbf24; border-color: rgba(245, 158, 11, 0.35); }
-.fearn-srs-btn-good { background: rgba(59, 130, 246, 0.16); color: #60a5fa; border-color: rgba(59, 130, 246, 0.35); }
-.fearn-srs-btn-easy { background: rgba(16, 185, 129, 0.16); color: #34d399; border-color: rgba(16, 185, 129, 0.35); }
 
-.fearn-srs-rate-btn:hover {
+.web-node-icon {
+  font-size: 1.25rem;
+  line-height: 1;
+}
+
+.web-node:hover {
+  transform: translateY(-3px);
+  border-color: var(--accent-1, var(--glass-border-strong));
+  color: var(--text-main);
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.35);
+}
+
+.web-node.is-registered {
+  border-color: var(--accent-1, var(--glass-border-strong));
+  box-shadow: 0 0 0 1px var(--accent-1, transparent) inset;
+}
+
+.web-node.is-registered .web-node-icon {
+  filter: drop-shadow(0 0 6px var(--accent-glow, transparent));
+}
+
+.web-node.is-dormant {
+  opacity: 0.55;
+}
+
+.web-node.is-active {
+  border-color: var(--accent-1, var(--special-1));
+  background: var(--glass-bg-strong);
+  color: var(--text-main);
+  box-shadow: 0 0 26px var(--accent-glow, var(--special-glow));
+}
+
+.web-node-dot {
+  position: absolute;
+  top: 6px;
+  right: 6px;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--success);
+  box-shadow: 0 0 8px var(--success);
+}
+
+/* fitness mode segmented control, nested inside its web-node's cluster */
+.fearn-fitness-modes {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 6px;
+  margin-top: 2px;
+}
+
+.fearn-mode-pill {
+  font-size: 0.68rem;
+  padding: 6px 11px;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--glass-border);
+  background: var(--glass-bg-soft);
+  color: var(--text-sub);
+  transition: all 0.2s ease;
+}
+
+.fearn-mode-pill:hover {
+  color: var(--text-main);
+  border-color: var(--fit-1);
+}
+
+.fearn-mode-pill.is-selected {
+  background: linear-gradient(135deg, var(--fit-1), var(--fit-2));
+  color: var(--text-on-accent);
+  border-color: transparent;
+  font-weight: 700;
+}
+
+/* ==========================================================================
+   Views
+   ========================================================================== */
+
+.fearn-view {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.fearn-view-header {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.fearn-view-header h2 {
+  font-size: 1.5rem;
+}
+
+/* ==========================================================================
+   Dashboard
+   ========================================================================== */
+
+.fearn-greeting {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 22px 26px;
+}
+
+.fearn-goat-icon {
+  width: 46px;
+  height: 46px;
+  flex-shrink: 0;
+  color: var(--fit-1);
+}
+
+.fearn-greeting h1 {
+  font-size: 1.5rem;
+}
+
+.fearn-greeting p {
+  color: var(--text-sub);
+  font-size: 0.9rem;
+  margin-top: 2px;
+}
+
+.fearn-streak-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 18px;
+}
+
+.fearn-streak-card {
+  padding: 22px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.fearn-streak-card-title {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--text-sub);
+}
+
+.fearn-streak-main {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+}
+
+.fearn-streak-value {
+  font-family: var(--font-display);
+  font-size: 2.6rem;
+  font-weight: 700;
+  background: linear-gradient(120deg, var(--lang-1), var(--lang-2));
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.fearn-streak-unit {
+  color: var(--text-sub);
+  font-size: 0.9rem;
+}
+
+.fearn-streak-sub {
+  font-size: 0.78rem;
+  color: var(--text-faint);
+}
+
+.fearn-appendage-row {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.fearn-appendage-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 10px 14px;
+  border-radius: var(--radius-md);
+  background: var(--glass-bg-soft);
+  border: 1px solid var(--glass-border);
+}
+
+.fearn-appendage-info {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 0.88rem;
+}
+
+.fearn-appendage-info strong {
+  font-family: var(--font-display);
+  color: var(--skill-1);
+}
+
+.fearn-appendage-btn {
+  font-size: 0.78rem;
+  padding: 8px 14px;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--skill-1);
+  color: var(--skill-1);
+  background: transparent;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.fearn-appendage-btn:hover {
+  background: var(--skill-1);
+  color: var(--text-on-accent);
+}
+
+.fearn-appendage-btn.is-done-today {
+  background: var(--success);
+  border-color: var(--success);
+  color: var(--text-on-accent);
+  font-weight: 600;
+}
+
+.fearn-section-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  margin-bottom: 4px;
+}
+
+.fearn-section-heading h2 {
+  font-size: 1.1rem;
+}
+
+.fearn-modules-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+  gap: 14px;
+}
+
+/* ==========================================================================
+   Module cards (also produced by FEARN.ui.renderModuleCard)
+   ========================================================================== */
+
+.fearn-module-card {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 16px;
+  text-align: left;
+  border: none;
+  width: 100%;
+}
+
+.fearn-module-card-icon {
+  width: 42px;
+  height: 42px;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.3rem;
+  border-radius: var(--radius-sm);
+  background: var(--glass-bg-soft);
+  border: 1px solid var(--glass-border);
+  box-shadow: 0 0 18px var(--accent-glow, transparent) inset;
+}
+
+.fearn-module-card-body {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  min-width: 0;
+}
+
+.fearn-module-card-name {
+  font-weight: 600;
+  font-size: 0.92rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.fearn-module-card-progress {
+  font-size: 0.74rem;
+  color: var(--text-sub);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* dormant / "coming soon" slot card used on the dashboard for unregistered modules */
+.fearn-slot-card {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 16px;
+  border: 1px dashed var(--glass-border);
+  border-radius: var(--radius-lg);
+  background: var(--glass-bg-soft);
+  opacity: 0.7;
+  text-align: left;
+  width: 100%;
+  transition: all 0.2s ease;
+}
+
+.fearn-slot-card:hover {
+  opacity: 1;
+  border-color: var(--glass-border-strong);
+}
+
+.fearn-slot-card-icon {
+  width: 42px;
+  height: 42px;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.3rem;
+  border-radius: var(--radius-sm);
+  background: rgba(255, 255, 255, 0.03);
+}
+
+.fearn-slot-card-name {
+  font-weight: 600;
+  font-size: 0.92rem;
+}
+
+.fearn-slot-card-tag {
+  font-size: 0.7rem;
+  color: var(--text-faint);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+/* ==========================================================================
+   Coming-soon detail panel (module view for unregistered slots)
+   ========================================================================== */
+
+.fearn-coming-soon {
+  padding: 60px 30px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+.fearn-coming-soon-icon {
+  font-size: 2.6rem;
+  margin-bottom: 6px;
+}
+
+.fearn-coming-soon h3 {
+  font-size: 1.3rem;
+}
+
+.fearn-coming-soon p {
+  color: var(--text-sub);
+  max-width: 420px;
+}
+
+/* ==========================================================================
+   Journey path component (FEARN.ui.renderJourneyPath output)
+   ========================================================================== */
+
+.fearn-journey-path {
+  padding: 18px 6px;
+}
+
+.fearn-journey-track {
+  display: flex;
+  align-items: center;
+  overflow-x: auto;
+  padding: 20px 14px 28px;
+  gap: 0;
+}
+
+.fearn-journey-node {
+  position: relative;
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  width: 84px;
+}
+
+.fearn-journey-dot {
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.85rem;
+  font-weight: 700;
+  border: 2px solid var(--glass-border);
+  background: var(--glass-bg-soft);
+  color: var(--text-faint);
+  transition: all 0.25s ease;
+}
+
+.fearn-journey-label {
+  font-size: 0.68rem;
+  color: var(--text-sub);
+  text-align: center;
+  max-width: 84px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.fearn-journey-here {
+  position: absolute;
+  top: -22px;
+  font-size: 0.62rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--special-1);
+  white-space: nowrap;
+}
+
+.fearn-journey-connector {
+  flex: 0 0 26px;
+  height: 2px;
+  background: var(--glass-border);
+  margin-bottom: 24px;
+}
+
+.fearn-journey-connector--completed {
+  background: linear-gradient(90deg, var(--success), var(--lang-1));
+}
+
+.fearn-journey-connector--authored {
+  background: repeating-linear-gradient(90deg, var(--glass-border-strong) 0 6px, transparent 6px 10px);
+}
+
+.fearn-journey-node--completed .fearn-journey-dot {
+  background: linear-gradient(135deg, var(--success), var(--lang-1));
+  border-color: transparent;
+  color: var(--text-on-accent);
+}
+
+.fearn-journey-node--current .fearn-journey-dot {
+  border-color: var(--special-1);
+  background: var(--glass-bg-strong);
+  color: var(--special-1);
+  box-shadow: 0 0 0 6px var(--special-glow), 0 0 22px var(--special-glow);
+  animation: journey-pulse 2.2s ease-in-out infinite;
+}
+
+.fearn-journey-node--current .fearn-journey-label {
+  color: var(--text-main);
+  font-weight: 700;
+}
+
+@keyframes journey-pulse {
+  0%, 100% { box-shadow: 0 0 0 6px var(--special-glow), 0 0 18px var(--special-glow); }
+  50%      { box-shadow: 0 0 0 10px transparent, 0 0 28px var(--special-glow); }
+}
+
+.fearn-journey-node--authored .fearn-journey-dot {
+  border-color: var(--glass-border-strong);
+  color: var(--text-sub);
+}
+
+.fearn-journey-node--stub .fearn-journey-dot {
+  border-style: dashed;
+  opacity: 0.5;
+}
+
+.fearn-journey-node--stub .fearn-journey-label {
+  opacity: 0.5;
+}
+
+.fearn-journey-level {
+  flex: 0 0 auto;
+  font-size: 0.68rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--text-faint);
+  padding: 0 14px;
+  border-right: 1px solid var(--glass-border);
+  margin-right: 6px;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+}
+
+.fearn-journey-empty {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  padding: 30px;
+  text-align: center;
+  color: var(--text-sub);
+}
+
+.fearn-journey-empty-icon {
+  font-size: 1.8rem;
+}
+
+/* Baseline click affordance for every journey node — modules attach their own
+   click handlers (some inline-styled, some not), so this guarantees the
+   cursor/hover cue exists everywhere regardless of which module is showing. */
+.fearn-journey-node {
+  cursor: pointer;
+}
+
+.fearn-journey-node:hover .fearn-journey-dot {
+  transform: scale(1.08);
+  border-color: var(--glass-border-strong);
+}
+
+.fearn-journey-node:hover .fearn-journey-label {
+  color: var(--text-main);
+}
+
+/* ==========================================================================
+   Lesson flow & practice content (language + skill modules)
+   Every language module (`.fearn-lang-*`) and every skill module renders its
+   own fully custom markup for warm-ups, presentations, practice items and
+   checkpoint tests — none of those class names had any CSS at all, so this
+   content was rendering as raw, unreadable browser-default buttons/inputs
+   (light-grey background, black outset border) on top of the dark glass
+   theme. This section gives that whole surface a consistent look.
+   ========================================================================== */
+
+#module-root {
+  padding: 24px;
+}
+
+@media (max-width: 720px) {
+  #module-root { padding: 16px; }
+}
+
+.fearn-lang-path-container,
+.fearn-journey-path-slot,
+.fearn-lang-fallback-roadmap {
+  margin-bottom: 4px;
+}
+
+.fearn-lang-unit-detail,
+.fearn-lang-lesson-area,
+.fearn-practice {
+  margin-top: 22px;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.fearn-lang-unit-header {
+  font-size: 1.25rem;
+}
+
+.fearn-lang-unit-goal {
+  color: var(--text-sub);
+  font-size: 0.9rem;
+  margin-top: -10px;
+}
+
+.fearn-lang-lesson-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.fearn-lang-fallback-unit {
+  padding: 10px 4px;
+  border-bottom: 1px solid var(--glass-bg-soft);
+  color: var(--text-sub);
+  font-size: 0.88rem;
+}
+
+.fjf-level {
+  padding: 10px 0 4px;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--text-faint);
+}
+
+.fjf-unit {
+  padding: 8px 4px;
+  border-bottom: 1px solid var(--glass-bg-soft);
+  color: var(--text-sub);
+  font-size: 0.88rem;
+}
+
+.fearn-lang-lesson-flow {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.fearn-lang-section-title,
+.fearn-checkpoint > h4,
+.fearn-adaptive-drill > h4,
+.fearn-math-drill > h4,
+.fearn-scrabble-drill > h4,
+.fearn-speed-drill > h4,
+.fearn-writing-exercise > h4 {
+  font-size: 1.05rem;
+  color: var(--text-main);
+}
+
+.fearn-lang-explanation,
+.fearn-lang-unit-goal,
+.fearn-objective,
+.fearn-prompt,
+.fearn-problem,
+.fearn-drill-target {
+  color: var(--text-sub);
+  font-size: 0.92rem;
+  line-height: 1.55;
+}
+
+.fearn-lang-warmup,
+.fearn-lang-examples,
+.fearn-lang-mnemonics,
+.fearn-lang-cultural-notes,
+.fearn-examples,
+.fearn-feedback-checklist,
+.fearn-checkpoint,
+.fearn-adaptive-drill,
+.fearn-math-drill,
+.fearn-scrabble-drill,
+.fearn-speed-drill,
+.fearn-writing-exercise,
+.fearn-lesson-presentation,
+.fearn-lang-practice-item,
+.fearn-lang-checkpoint-item,
+.fearn-checkpoint-item {
+  padding: 16px 18px;
+  border-radius: var(--radius-md);
+  background: var(--glass-bg-soft);
+  border: 1px solid var(--glass-border);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.fearn-lang-mnemonics p,
+.fearn-lang-cultural-notes p {
+  color: var(--text-sub);
+  font-size: 0.88rem;
+}
+
+.fearn-lang-review-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 10px 14px;
+  border-radius: var(--radius-sm);
+  background: var(--glass-bg-soft);
+  border: 1px solid var(--glass-border);
+  font-size: 0.88rem;
+}
+
+.fearn-lang-example-row {
+  padding: 6px 0;
+  font-size: 0.92rem;
+  border-bottom: 1px solid var(--glass-bg-soft);
+}
+.fearn-lang-example-row:last-child { border-bottom: none; }
+
+.fearn-example {
+  padding: 10px 0;
+  border-bottom: 1px solid var(--glass-bg-soft);
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+.fearn-example:last-child { border-bottom: none; }
+
+.fearn-example-pos,
+.fearn-example-pattern {
+  font-family: 'Space Grotesk', monospace;
+}
+
+.fearn-example-char {
+  font-weight: 700;
+  color: var(--skill-1);
+}
+
+.fearn-example-desc {
+  color: var(--text-sub);
+  font-size: 0.88rem;
+}
+
+.fearn-rating,
+.fearn-puzzle-difficulty,
+.fearn-item-difficulty,
+.fearn-drill-target {
+  font-size: 0.78rem;
+  color: var(--text-faint);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+.fearn-drill-text code,
+.fearn-lang-lesson-flow code,
+.fearn-checkpoint code,
+.fearn-adaptive-drill code,
+.fearn-lesson-presentation code {
+  display: inline-block;
+  margin-top: 4px;
+  padding: 8px 12px;
+  border-radius: var(--radius-sm);
+  background: rgba(0, 0, 0, 0.3);
+  color: var(--lang-1);
+  font-family: 'Space Grotesk', monospace;
+  font-size: 0.85rem;
+}
+
+.fearn-feedback-checklist ul,
+.fearn-lang-lesson-flow ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.fearn-feedback-checklist li,
+.fearn-lang-lesson-flow li {
+  padding-left: 18px;
+  position: relative;
+  color: var(--text-sub);
+  font-size: 0.88rem;
+}
+
+.fearn-feedback-checklist li::before,
+.fearn-lang-lesson-flow li::before {
+  content: '\2713';
+  position: absolute;
+  left: 0;
+  color: var(--success);
+}
+
+/* -------- buttons & inputs inside lesson/practice content -------- */
+
+.fearn-lang-lesson-flow button,
+.fearn-lang-lesson-list button,
+.fearn-practice button,
+.fearn-checkpoint button,
+.fearn-adaptive-drill button,
+.fearn-math-drill button,
+.fearn-scrabble-drill button,
+.fearn-speed-drill button,
+.fearn-writing-exercise button,
+.fearn-lesson-presentation button {
+  appearance: none;
+  -webkit-appearance: none;
+  border: 1px solid var(--glass-border);
+  background: var(--glass-bg);
+  color: var(--text-main);
+  padding: 10px 16px;
+  border-radius: var(--radius-md);
+  font-size: 0.85rem;
+  font-weight: 500;
+  transition: all 0.2s ease;
+}
+
+.fearn-lang-lesson-flow button:hover:not(:disabled),
+.fearn-lang-lesson-list button:hover:not(:disabled),
+.fearn-practice button:hover:not(:disabled),
+.fearn-checkpoint button:hover:not(:disabled),
+.fearn-adaptive-drill button:hover:not(:disabled),
+.fearn-math-drill button:hover:not(:disabled),
+.fearn-scrabble-drill button:hover:not(:disabled),
+.fearn-speed-drill button:hover:not(:disabled),
+.fearn-writing-exercise button:hover:not(:disabled),
+.fearn-lesson-presentation button:hover:not(:disabled) {
+  border-color: var(--glass-border-strong);
+  background: var(--glass-bg-strong);
+  transform: translateY(-1px);
+}
+
+.fearn-lang-lesson-flow button:disabled,
+.fearn-practice button:disabled,
+.fearn-checkpoint button:disabled,
+.fearn-adaptive-drill button:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+  transform: none;
+}
+
+.fearn-lang-lesson-flow input,
+.fearn-lang-lesson-flow textarea,
+.fearn-practice input,
+.fearn-practice textarea,
+.fearn-checkpoint input,
+.fearn-adaptive-drill input,
+.fearn-math-drill input,
+.fearn-scrabble-drill input,
+.fearn-speed-drill textarea,
+.fearn-writing-exercise textarea {
+  border: 1px solid var(--glass-border);
+  background: var(--glass-bg-soft);
+  color: var(--text-main);
+  padding: 10px 14px;
+  border-radius: var(--radius-sm);
+  font-size: 0.88rem;
+  font-family: inherit;
+  outline: none;
+  width: 100%;
+  max-width: 360px;
+}
+
+.fearn-writing-exercise textarea,
+.fearn-speed-drill textarea {
+  max-width: 100%;
+  resize: vertical;
+}
+
+.fearn-lang-lesson-flow input:focus,
+.fearn-lang-lesson-flow textarea:focus,
+.fearn-practice input:focus,
+.fearn-practice textarea:focus,
+.fearn-checkpoint input:focus,
+.fearn-adaptive-drill input:focus,
+.fearn-math-drill input:focus,
+.fearn-scrabble-drill input:focus {
+  border-color: var(--lang-1);
+  box-shadow: 0 0 0 3px var(--lang-glow);
+}
+
+.fearn-lang-btn-primary,
+.fearn-lang-lesson-btn {
+  align-self: flex-start;
+}
+
+/* `button.` prefix matches the specificity of the generic
+   ".fearn-lang-lesson-flow button" reset above (one class + one type) so
+   this — declared later — actually wins instead of silently losing to it. */
+button.fearn-lang-btn-primary {
+  background: linear-gradient(135deg, var(--lang-1), var(--skill-1));
+  color: var(--text-on-accent);
+  font-weight: 700;
+  border: none;
+  padding: 12px 22px;
+  box-shadow: 0 6px 20px rgba(178, 107, 255, 0.25);
+}
+
+button.fearn-lang-btn-primary:hover:not(:disabled) {
   transform: translateY(-2px);
-  filter: brightness(1.25);
-  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.4);
+  box-shadow: 0 10px 26px rgba(178, 107, 255, 0.35);
+}
+
+.fearn-lang-lesson-btn {
+  align-self: stretch;
+  text-align: left;
+  white-space: normal;
+}
+
+.fearn-lang-option-btn {
+  align-self: stretch;
+  text-align: left;
+  white-space: normal;
+  margin-bottom: 6px;
+  display: block;
+  width: 100%;
+}
+
+.fearn-lang-option-btn.selected {
+  border-color: var(--lang-1);
+  background: var(--glass-bg-strong);
+}
+
+.fearn-lang-option-btn.correct {
+  border-color: var(--success);
+  background: rgba(51, 227, 154, 0.16);
+  color: var(--success);
+  font-weight: 600;
+}
+
+.fearn-lang-option-btn.incorrect {
+  border-color: var(--danger);
+  background: rgba(255, 77, 109, 0.14);
+  color: var(--danger);
+}
+
+.fearn-lang-feedback {
+  color: var(--text-sub);
+  font-size: 0.85rem;
+  margin-top: 4px;
+}
+
+.fearn-lang-checkpoint-result {
+  padding: 12px 16px;
+  border-radius: var(--radius-sm);
+  background: var(--glass-bg-soft);
+  border: 1px solid var(--glass-border);
+  font-weight: 600;
+}
+
+.fearn-lang-stub-notice,
+.fm-stub-note {
+  padding: 20px;
+  border-radius: var(--radius-md);
+  border: 1px dashed var(--glass-border);
+  background: var(--glass-bg-soft);
+  color: var(--text-sub);
+  font-size: 0.9rem;
+}
+
+.fearn-lang-done {
+  padding: 24px;
+  text-align: center;
+  color: var(--success);
+  font-size: 1.05rem;
+  font-weight: 600;
+}
+
+/* checkpoint grading rows (chess/morse: Again/Hard/Good/Easy) need a bit more
+   breathing room between the answer buttons and the reveal/answer text */
+.fearn-checkpoint-item > div {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+/* ==========================================================================
+   Aggregate Journey Mode view
+   ========================================================================== */
+
+.fearn-journey-mode-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+  gap: 12px;
+}
+
+.fearn-progress-card {
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  align-items: flex-start;
+}
+
+.fearn-progress-icon {
+  font-size: 1.3rem;
+}
+
+.fearn-progress-name {
+  font-weight: 600;
+  font-size: 0.88rem;
+}
+
+.fearn-progress-value {
+  font-size: 0.76rem;
+  color: var(--text-sub);
+}
+
+.fearn-due-list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.fearn-due-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 14px;
+  border-radius: var(--radius-md);
+  background: var(--glass-bg-soft);
+  border: 1px solid var(--glass-border);
+  font-size: 0.85rem;
+}
+
+.fearn-due-icon {
+  font-size: 1rem;
+}
+
+.fearn-due-name {
+  font-weight: 600;
+  flex: 1;
+}
+
+.fearn-due-item-id {
+  color: var(--text-faint);
+  font-size: 0.76rem;
+}
+
+.fearn-due-date {
+  color: var(--danger);
+  font-size: 0.76rem;
+  white-space: nowrap;
+}
+
+.fearn-diary-list {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.fearn-diary-entry {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  padding: 10px 4px;
+  border-bottom: 1px solid var(--glass-bg-soft);
+  font-size: 0.85rem;
+}
+
+.fearn-diary-date {
+  color: var(--text-faint);
+  font-size: 0.74rem;
+  width: 84px;
+  flex-shrink: 0;
+}
+
+.fearn-diary-icon {
+  flex-shrink: 0;
+}
+
+.fearn-diary-text {
+  color: var(--text-sub);
+}
+
+/* ==========================================================================
+   Library / Dictionary / Glossary panel
+   ========================================================================== */
+
+.fearn-panel-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(4, 5, 10, 0.55);
+  backdrop-filter: blur(2px);
+  z-index: 40;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.25s ease;
+}
+
+.fearn-panel-backdrop.is-open {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.fearn-library-panel {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: min(420px, 100vw);
+  z-index: 41;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 22px;
+  border-radius: 0;
+  border-left: 1px solid var(--glass-border);
+  transform: translateX(100%);
+  transition: transform 0.3s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.fearn-library-panel.is-open {
+  transform: translateX(0);
+}
+
+.fearn-library-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.fearn-library-search {
+  width: 100%;
+  padding: 12px 16px;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--glass-border);
+  background: var(--glass-bg-soft);
+  color: var(--text-main);
+  font-size: 0.9rem;
+  outline: none;
+}
+
+.fearn-library-search:focus {
+  border-color: var(--lang-1);
+  box-shadow: 0 0 0 3px var(--lang-glow);
+}
+
+.fearn-library-results {
+  flex: 1;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.fearn-library-entry {
+  padding: 12px 14px;
+  border-radius: var(--radius-md);
+  background: var(--glass-bg-soft);
+  border: 1px solid var(--glass-border);
+}
+
+.fearn-library-term {
+  font-weight: 700;
+  font-size: 0.9rem;
+}
+
+.fearn-library-def {
+  font-size: 0.8rem;
+  color: var(--text-sub);
+  margin-top: 2px;
+}
+
+.fearn-library-source {
+  font-size: 0.68rem;
+  color: var(--text-faint);
+  margin-top: 4px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+/* ==========================================================================
+   Checkpoint celebration (FEARN.ui.celebrateCheckpoint)
+   ========================================================================== */
+
+.fearn-celebrate-canvas {
+  position: fixed;
+  inset: 0;
+  z-index: 90;
+  pointer-events: none;
+}
+
+.fearn-celebrate-toast {
+  position: fixed;
+  top: 24px;
+  left: 50%;
+  transform: translate(-50%, -16px);
+  z-index: 91;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 14px 22px;
+  border-radius: var(--radius-pill);
+  background: var(--glass-bg-strong);
+  border: 1px solid var(--special-1);
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.45), 0 0 24px var(--special-glow);
+  backdrop-filter: blur(18px);
+  -webkit-backdrop-filter: blur(18px);
+  font-weight: 600;
+  font-size: 0.92rem;
+  color: var(--text-main);
+  opacity: 0;
+  cursor: pointer;
+  transition: opacity 0.35s ease, transform 0.35s ease;
+}
+
+.fearn-celebrate-toast.is-visible {
+  opacity: 1;
+  transform: translate(-50%, 0);
+}
+
+.fearn-celebrate-toast-icon {
+  font-size: 1.1rem;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .fearn-celebrate-toast {
+    transition: opacity 0.01ms;
+  }
+}
+
+/* ==========================================================================
+   Responsive
+   ========================================================================== */
+
+@media (max-width: 720px) {
+  .fearn-shell { padding: 16px 12px 60px; gap: 20px; }
+  .fearn-topbar { flex-wrap: wrap; padding: 14px 16px; }
+  .fearn-brand-name { font-size: 1.15rem; }
+  .fearn-streak-value { font-size: 2.1rem; }
+  .web-node { width: 60px; font-size: 0.6rem; padding: 8px 3px 6px; gap: 2px; }
+  .web-node-icon { font-size: 1.05rem; }
+  .web-cluster-nodes { gap: 6px 8px; }
+  .web-clusters { gap: 14px; }
+  .web-nav { padding: 22px 12px 16px; gap: 14px; }
+  .fearn-library-panel { width: 100vw; }
+  .fearn-celebrate-toast { top: 12px; padding: 12px 18px; font-size: 0.85rem; max-width: calc(100vw - 32px); }
 }
 
 
 /* ==========================================================================
-   MOBILE FLOATING QUICK-NAV DYNAMIC ISLAND (IPHONE 16+ & IPAD A16)
+   Daily Journal & Activity Dossier
    ========================================================================== */
 
-.fearn-mobile-floating-island {
+.fearn-dossier-panel {
   position: fixed;
-  bottom: calc(18px + env(safe-area-inset-bottom, 0px));
-  right: 18px;
-  z-index: 9999;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: min(620px, 100vw);
+  background: var(--glass-bg-strong);
+  border-left: 1px solid var(--glass-border-strong);
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px);
+  z-index: 100;
+  display: flex;
+  flex-direction: column;
+  box-shadow: -12px 0 40px rgba(0, 0, 0, 0.6);
+  transform: translateX(100%);
+  transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.fearn-dossier-panel.is-open {
+  transform: translateX(0);
+}
+
+.fearn-dossier-header {
+  padding: 18px 22px;
+  border-bottom: 1px solid var(--glass-border);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.fearn-dossier-title {
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--text-main);
+}
+
+.fearn-dossier-sub {
+  font-size: 0.78rem;
+  color: var(--text-sub);
+}
+
+.fearn-dossier-summary-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  padding: 12px 18px;
+  background: rgba(0, 0, 0, 0.25);
+  border-bottom: 1px solid var(--glass-border);
+  font-size: 0.8rem;
+  color: var(--text-sub);
+}
+
+.fearn-dossier-stat {
   display: flex;
   align-items: center;
+  gap: 4px;
+}
+
+.fearn-dossier-stat b {
+  color: var(--text-main);
+}
+
+.fearn-dossier-event-card {
+  border: 1px solid var(--glass-border);
+  border-radius: var(--radius-md);
+  padding: 14px;
+  background: var(--glass-bg-soft);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  font-size: 0.85rem;
+}
+
+.fearn-dossier-event-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
   gap: 6px;
-  background: rgba(15, 23, 42, 0.88);
-  border: 1.5px solid rgba(255, 255, 255, 0.18);
-  border-radius: 9999px;
-  padding: 6px 10px;
-  box-shadow: 0 12px 35px rgba(0, 0, 0, 0.65), 0 0 25px rgba(56, 189, 248, 0.25);
-  backdrop-filter: blur(20px) saturate(180%);
-  -webkit-backdrop-filter: blur(20px) saturate(180%);
-  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
-  user-select: none;
 }
 
-.fearn-mobile-floating-island:hover {
-  transform: translateY(-2px);
-  border-color: rgba(56, 189, 248, 0.45);
-  box-shadow: 0 16px 45px rgba(0, 0, 0, 0.8), 0 0 35px rgba(56, 189, 248, 0.4);
-}
-
-.fearn-island-btn {
-  background: rgba(255, 255, 255, 0.05);
-  border: 1px solid rgba(255, 255, 255, 0.1);
-  color: #f1f5f9;
-  font-size: 0.82rem;
+.fearn-dossier-event-title {
   font-weight: 700;
-  padding: 8px 12px;
-  border-radius: 9999px;
+  color: var(--text-main);
+  font-size: 0.92rem;
+}
+
+.fearn-dossier-timestamp {
+  font-family: monospace;
+  font-size: 0.72rem;
+  color: var(--special-1);
+  background: rgba(0,0,0,0.3);
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+.fearn-dossier-why-how {
+  font-size: 0.78rem;
+  color: var(--text-sub);
+  line-height: 1.4;
+  border-left: 2px solid var(--special-1);
+  padding-left: 8px;
+}
+
+.fearn-dossier-metadata {
+  font-size: 0.72rem;
+  font-family: monospace;
+  color: var(--text-faint);
+}
+
+.fearn-dossier-body {
+  flex: 1;
+  overflow-y: auto;
+  padding: 14px 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.fearn-dossier-footer {
+  display: flex;
+  gap: 10px;
+  padding: 14px 18px;
+  border-top: 1px solid var(--glass-border);
+}
+
+/* Print Optimization for PDF Saving */
+@media print {
+  body * {
+    visibility: hidden;
+  }
+  .fearn-dossier-panel,
+  .fearn-dossier-panel * {
+    visibility: visible;
+  }
+  .fearn-dossier-panel {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    transform: none !important;
+    background: #fff !important;
+    color: #111 !important;
+    border: none !important;
+    box-shadow: none !important;
+  }
+  .fearn-dossier-title,
+  .fearn-dossier-event-title,
+  .fearn-dossier-stat b {
+    color: #000 !important;
+  }
+  .fearn-dossier-sub,
+  .fearn-dossier-why-how,
+  .fearn-dossier-stat {
+    color: #444 !important;
+  }
+  .fearn-dossier-event-card {
+    background: #f9f9f9 !important;
+    border: 1px solid #ccc !important;
+    page-break-inside: avoid;
+  }
+  .fearn-dossier-timestamp {
+    background: #eee !important;
+    color: #111 !important;
+  }
+  #dossier-print-btn,
+  #dossier-export-json-btn,
+  #dossier-close-btn {
+    display: none !important;
+  }
+}
+
+
+/* ==========================================================================
+   FEARN Guided Workout Session UX (Nike Training Club Style)
+   ========================================================================== */
+
+.fearn-guided-workout-overlay {
+  position: fixed;
+  inset: 0;
+  background: var(--bg-deep, #0c111a);
+  z-index: 120;
+  display: flex;
+  flex-direction: column;
+  color: var(--text-main, #f0f4f8);
+  font-family: inherit;
+  overflow: hidden;
+}
+
+.fearn-guided-topbar {
+  padding: 16px 24px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid var(--glass-border, rgba(255, 255, 255, 0.1));
+  background: rgba(12, 17, 26, 0.85);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+}
+
+.fearn-guided-progress-wrap {
+  flex: 1;
+  max-width: 400px;
+  margin: 0 16px;
+}
+
+.fearn-guided-progress-text {
+  font-size: 0.78rem;
+  color: var(--text-sub, #94a3b8);
+  margin-bottom: 4px;
+  display: flex;
+  justify-content: space-between;
+  font-weight: 600;
+}
+
+.fearn-guided-progress-bar {
+  height: 6px;
+  border-radius: 3px;
+  background: rgba(255, 255, 255, 0.1);
+  overflow: hidden;
+}
+
+.fearn-guided-progress-fill {
+  height: 100%;
+  background: linear-gradient(90deg, #10b981, #06b6d4);
+  transition: width 0.4s ease;
+}
+
+.fearn-guided-body {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  text-align: center;
+  position: relative;
+  overflow-y: auto;
+}
+
+.fearn-guided-exercise-card {
+  max-width: 580px;
+  width: 100%;
+  background: var(--glass-bg-strong, rgba(20, 30, 48, 0.7));
+  border: 1px solid var(--glass-border-strong, rgba(255, 255, 255, 0.15));
+  border-radius: 24px;
+  padding: 36px 28px;
+  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.5);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 18px;
+  animation: fearn-guided-pop 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@keyframes fearn-guided-pop {
+  from { opacity: 0; transform: scale(0.94) translateY(12px); }
+  to { opacity: 1; transform: scale(1) translateY(0); }
+}
+
+.fearn-guided-badge {
   display: inline-flex;
   align-items: center;
   gap: 6px;
-  cursor: pointer;
-  min-height: 38px;
-  min-width: 38px;
+  padding: 4px 14px;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  background: rgba(16, 185, 129, 0.15);
+  color: #10b981;
+  border: 1px solid rgba(16, 185, 129, 0.3);
+}
+
+.fearn-guided-badge--rest {
+  background: rgba(245, 158, 11, 0.15);
+  color: #f59e0b;
+  border-color: rgba(245, 158, 11, 0.3);
+}
+
+.fearn-guided-title {
+  font-size: 2.1rem;
+  font-weight: 800;
+  color: #fff;
+  line-height: 1.2;
+}
+
+.fearn-guided-set-label {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--text-sub, #94a3b8);
+}
+
+.fearn-guided-timer-display {
+  font-size: 4.5rem;
+  font-weight: 900;
+  font-variant-numeric: tabular-nums;
+  font-family: monospace, system-ui;
+  color: #38bdf8;
+  text-shadow: 0 0 30px rgba(56, 189, 248, 0.35);
+  margin: 10px 0;
+}
+
+.fearn-guided-timer-display--rest {
+  color: #f59e0b;
+  text-shadow: 0 0 30px rgba(245, 158, 11, 0.35);
+}
+
+.fearn-guided-rep-target {
+  font-size: 3.2rem;
+  font-weight: 800;
+  color: #10b981;
+  text-shadow: 0 0 25px rgba(16, 185, 129, 0.3);
+}
+
+.fearn-guided-cue-box {
+  background: rgba(0, 0, 0, 0.3);
+  border-left: 3px solid #38bdf8;
+  padding: 12px 16px;
+  border-radius: 8px;
+  font-size: 0.88rem;
+  text-align: left;
+  color: #e2e8f0;
+  line-height: 1.5;
+  width: 100%;
+}
+
+.fearn-guided-controls {
+  display: flex;
+  gap: 14px;
   justify-content: center;
-  transition: all 0.2s ease;
-  -webkit-tap-highlight-color: transparent;
+  align-items: center;
+  width: 100%;
+  margin-top: 10px;
 }
 
-.fearn-island-btn:active {
-  transform: scale(0.94);
-  background: rgba(56, 189, 248, 0.25);
+.fearn-guided-btn--big {
+  padding: 16px 36px;
+  font-size: 1.15rem;
+  font-weight: 700;
+  border-radius: 50px;
+  background: linear-gradient(135deg, #10b981, #059669);
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0 8px 24px rgba(16, 185, 129, 0.4);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
 
-.fearn-island-btn--primary {
-  background: linear-gradient(135deg, rgba(56, 189, 248, 0.25), rgba(99, 102, 241, 0.3));
-  border-color: rgba(56, 189, 248, 0.45);
+.fearn-guided-btn--big:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 30px rgba(16, 185, 129, 0.5);
+}
+
+.fearn-guided-btn--secondary {
+  padding: 14px 22px;
+  font-size: 0.95rem;
+  font-weight: 600;
+  border-radius: 50px;
+  background: rgba(255, 255, 255, 0.1);
+  color: #fff;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  cursor: pointer;
+}
+
+/* Info Overlay Modal */
+.fearn-guided-info-modal {
+  position: absolute;
+  inset: 20px;
+  background: rgba(15, 23, 42, 0.96);
+  border: 1px solid var(--glass-border-strong, rgba(255, 255, 255, 0.2));
+  border-radius: 20px;
+  z-index: 130;
+  padding: 28px;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  overflow-y: auto;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.8);
+}
+
+.fearn-guided-summary-card {
+  max-width: 520px;
+  width: 100%;
+  background: var(--glass-bg-strong, rgba(20, 30, 48, 0.8));
+  border: 1px solid rgba(16, 185, 129, 0.3);
+  border-radius: 24px;
+  padding: 36px 28px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  text-align: center;
+}
+
+.fearn-guided-stat-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  width: 100%;
+}
+
+.fearn-guided-stat-tile {
+  background: rgba(0, 0, 0, 0.35);
+  border: 1px solid var(--glass-border, rgba(255, 255, 255, 0.1));
+  padding: 14px;
+  border-radius: 14px;
+}
+
+.fearn-guided-stat-val {
+  font-size: 1.6rem;
+  font-weight: 800;
   color: #38bdf8;
 }
 
-/* Touch-optimized active states for iPhone & iPad */
-@media (max-width: 768px) {
-  .fearn-mobile-floating-island {
-    bottom: calc(14px + env(safe-area-inset-bottom, 0px));
-    right: 14px;
-    padding: 5px 8px;
-  }
-  .fearn-island-btn {
-    padding: 7px 10px;
-    font-size: 0.78rem;
-  }
-  .fearn-palette-card {
-    width: 96%;
-    max-height: 85vh;
-  }
-  .fearn-srs-deck-card {
-    width: 96%;
-    padding: 20px 16px;
-  }
-  .fearn-srs-rating-grid {
-    gap: 6px;
-  }
-  .fearn-srs-rate-btn {
-    padding: 10px 4px;
-    font-size: 0.76rem;
+.fearn-guided-stat-label {
+  font-size: 0.75rem;
+  color: var(--text-sub, #94a3b8);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-top: 2px;
+}
+
+.fearn-guided-feedback-row {
+  display: flex;
+  gap: 8px;
+  width: 100%;
+  justify-content: center;
+}
+
+.fearn-guided-feedback-btn {
+  flex: 1;
+  padding: 12px 8px;
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  color: #fff;
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.fearn-guided-feedback-btn:hover {
+  background: rgba(16, 185, 129, 0.2);
+  border-color: #10b981;
+}
+
+.fearn-guided-feedback-btn.is-selected {
+  background: #10b981;
+  border-color: #10b981;
+  color: #000;
+  font-weight: 700;
+}
+
+/* ==========================================================================
+   Cultural World Clock & Yocto-Precision Component Styles
+   ========================================================================== */
+
+.fearn-world-clock-widget {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: rgba(18, 24, 38, 0.65);
+  border: 1px solid rgba(212, 175, 55, 0.25);
+  padding: 6px 14px;
+  border-radius: var(--radius-pill);
+  color: var(--text-main);
+  cursor: pointer;
+  font-family: var(--font-mono, monospace);
+  font-size: 0.82rem;
+  transition: all 0.2s ease;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  white-space: nowrap;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+
+.fearn-topbar-actions {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: nowrap;
+}
+
+@media (max-width: 900px) {
+  .fearn-topbar-actions {
+    flex-wrap: wrap;
   }
 }
 
+.fearn-world-clock-widget:hover {
+  background: rgba(212, 175, 55, 0.12);
+  border-color: rgba(212, 175, 55, 0.6);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 14px rgba(212, 175, 55, 0.18);
+}
 
-/* Top Status Strip */
-.fearn-status-strip {
+.fearn-clock-mini-dial {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.fearn-clock-flag {
+  font-size: 1rem;
+}
+
+.fearn-clock-city {
+  font-family: var(--font-sans, system-ui);
+  font-weight: 600;
+  color: var(--text-main);
+  letter-spacing: 0.02em;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 130px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.fearn-clock-time {
+  color: #f6e05e;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+}
+
+/* Clock Modal */
+.fearn-world-clock-modal {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(0.95);
+  width: 92%;
+  max-width: 820px;
+  max-height: 88vh;
+  overflow-y: auto;
+  background: rgba(13, 16, 26, 0.94);
+  backdrop-filter: blur(28px);
+  -webkit-backdrop-filter: blur(28px);
+  border: 1px solid rgba(212, 175, 55, 0.3);
+  border-radius: 28px;
+  padding: 32px 28px;
+  z-index: 10000;
+  box-shadow: 0 25px 60px rgba(0, 0, 0, 0.7), 0 0 40px rgba(212, 175, 55, 0.12);
+  opacity: 0;
+  pointer-events: none;
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+}
+
+.fearn-world-clock-modal.is-open {
+  opacity: 1;
+  pointer-events: auto;
+  transform: translate(-50%, -50%) scale(1);
+}
+
+.fearn-clock-modal-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.7);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  z-index: 9999;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+}
+
+.fearn-clock-modal-backdrop.is-open {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.fearn-clock-modal-header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  width: 100%;
-  max-width: 1300px;
-  margin: 0 auto 8px auto;
-  padding: 0 4px;
-  flex-wrap: wrap;
-  gap: 8px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  padding-bottom: 16px;
 }
-.fearn-status-strip-left, .fearn-status-strip-right {
+
+.fearn-clock-modal-title {
+  font-family: var(--font-display, serif);
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: #fff;
   display: flex;
   align-items: center;
+  gap: 10px;
+}
+
+.fearn-clock-close-btn {
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  color: #fff;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-size: 1.1rem;
+  transition: all 0.2s ease;
+}
+
+.fearn-clock-close-btn:hover {
+  background: rgba(239, 68, 68, 0.25);
+  border-color: #ef4444;
+  color: #ef4444;
+}
+
+.fearn-clock-featured-card {
+  display: grid;
+  grid-template-columns: 160px 1fr;
+  gap: 24px;
+  align-items: center;
+  background: linear-gradient(135deg, rgba(212, 175, 55, 0.08), rgba(20, 24, 40, 0.6));
+  border: 1px solid rgba(212, 175, 55, 0.25);
+  border-radius: 20px;
+  padding: 24px;
+}
+
+@media (max-width: 640px) {
+  .fearn-clock-featured-card {
+    grid-template-columns: 1fr;
+    text-align: center;
+    justify-items: center;
+  }
+}
+
+.fearn-clock-big-dial-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.fearn-clock-featured-details {
+  display: flex;
+  flex-direction: column;
   gap: 8px;
+}
+
+.fearn-clock-featured-title {
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: #fff;
+}
+
+.fearn-clock-featured-digital-wrap {
+  display: flex;
+  align-items: baseline;
+  gap: 4px;
+}
+
+.fearn-clock-big-digital {
+  font-family: var(--font-mono, monospace);
+  font-size: 2.8rem;
+  font-weight: 800;
+  color: #f6e05e;
+  letter-spacing: 0.02em;
+  text-shadow: 0 0 20px rgba(246, 224, 94, 0.25);
+}
+
+.fearn-clock-ms {
+  font-family: var(--font-mono, monospace);
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #38bdf8;
+}
+
+.fearn-clock-featured-tz {
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: #38bdf8;
+  letter-spacing: 0.04em;
+}
+
+.fearn-clock-featured-note {
+  font-size: 0.88rem;
+  color: var(--text-sub, #94a3b8);
+  line-height: 1.4;
+}
+
+/* Yocto-Precision Quantum Readout */
+.fearn-clock-yocto-box {
+  background: rgba(0, 0, 0, 0.4);
+  border: 1px solid rgba(56, 189, 248, 0.2);
+  border-radius: 16px;
+  padding: 16px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.fearn-clock-yocto-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: #38bdf8;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.fearn-yocto-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
+  gap: 10px;
+}
+
+.fearn-yocto-cell {
+  background: rgba(15, 23, 42, 0.6);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  border-radius: 8px;
+  padding: 8px 6px;
+  text-align: center;
+}
+
+.fearn-yocto-val {
+  font-family: var(--font-mono, monospace);
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #7dd3fc;
+}
+
+.fearn-yocto-lbl {
+  font-size: 0.62rem;
+  color: var(--text-faint, #64748b);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-top: 2px;
+}
+
+/* Multi-city grid */
+.fearn-clock-capitals-section-title {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--text-sub, #94a3b8);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.fearn-clock-capitals-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 10px;
+  max-height: 240px;
+  overflow-y: auto;
+  padding-right: 6px;
+}
+
+.fearn-clock-city-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 12px;
+  padding: 10px 14px;
+  color: #fff;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  text-align: left;
+}
+
+.fearn-clock-city-row:hover {
+  background: rgba(212, 175, 55, 0.1);
+  border-color: rgba(212, 175, 55, 0.35);
+  transform: translateX(2px);
+}
+
+.fearn-clock-city-row.is-active {
+  background: rgba(212, 175, 55, 0.18);
+  border-color: #d4af37;
+}
+
+.fearn-city-left {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.fearn-city-flag {
+  font-size: 1.2rem;
+}
+
+.fearn-city-meta {
+  display: flex;
+  flex-direction: column;
+}
+
+.fearn-city-name {
+  font-size: 0.88rem;
+  font-weight: 700;
+}
+
+.fearn-city-sub {
+  font-size: 0.7rem;
+  color: var(--text-faint, #64748b);
+}
+
+.fearn-city-time-txt {
+  font-family: var(--font-mono, monospace);
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: #f6e05e;
+}
+
+
+
+/* ==========================================================================
+   FEARN 30-FRONDS LIBRARY & TRANSLUCENT LIQUID-GLASS SPOTLIGHT MODAL
+   ========================================================================== */
+
+.fearn-frond-selector-bar {
+  display: flex;
+  gap: 6px;
+  overflow-x: auto;
+  padding: 6px 2px 10px 2px;
+  margin-bottom: 12px;
+  scrollbar-width: thin;
+}
+
+.fearn-frond-selector-bar::-webkit-scrollbar {
+  height: 4px;
+}
+
+.fearn-frond-selector-bar::-webkit-scrollbar-thumb {
+  background: var(--glass-border);
+  border-radius: 4px;
+}
+
+.fearn-frond-pill {
+  flex-shrink: 0;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 12px;
+  border-radius: var(--radius-pill);
+  background: var(--glass-bg-soft);
+  border: 1px solid var(--glass-border);
+  color: var(--text-muted);
+  font-size: 0.78rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.fearn-frond-pill:hover {
+  background: var(--glass-bg-hover);
+  color: var(--text-main);
+  border-color: var(--glass-border-strong);
+}
+
+.fearn-frond-pill.is-active {
+  background: var(--gradient-accent-1);
+  color: #ffffff;
+  border-color: transparent;
+  box-shadow: 0 2px 10px rgba(56, 189, 248, 0.3);
+}
+
+.fearn-library-card {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 14px 16px;
+  border-radius: var(--radius-lg);
+  background: rgba(15, 23, 42, 0.65);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  cursor: pointer;
+  transition: all 0.22s cubic-bezier(0.16, 1, 0.3, 1);
+  margin-bottom: 8px;
+}
+
+.fearn-library-card:hover {
+  transform: translateY(-2px);
+  background: rgba(30, 41, 59, 0.85);
+  border-color: rgba(56, 189, 248, 0.4);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.35);
+}
+
+.fearn-library-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+}
+
+.fearn-library-card-term {
+  font-size: 1.05rem;
+  font-weight: 800;
+  color: #f8fafc;
+}
+
+.fearn-library-card-frond {
+  font-size: 0.72rem;
+  font-weight: 800;
+  padding: 2px 8px;
+  border-radius: var(--radius-pill);
+  background: rgba(56, 189, 248, 0.15);
+  color: #38bdf8;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.fearn-library-card-pron {
+  font-size: 0.82rem;
+  color: #a78bfa;
+  font-family: var(--font-code);
+}
+
+.fearn-library-card-def {
+  font-size: 0.88rem;
+  color: #cbd5e1;
+  line-height: 1.4;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* Translucent Liquid-Glass Spotlight Modal */
+.fearn-entry-modal-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 99998;
+  background: rgba(3, 7, 18, 0.75);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.fearn-entry-modal-backdrop.is-open {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.fearn-entry-modal {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -46%) scale(0.94);
+  width: min(680px, 92vw);
+  max-height: 86vh;
+  z-index: 99999;
+  display: flex;
+  flex-direction: column;
+  background: rgba(15, 23, 42, 0.85);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  border-radius: 20px;
+  box-shadow: 0 25px 60px rgba(0, 0, 0, 0.75), 0 0 40px rgba(56, 189, 248, 0.2);
+  backdrop-filter: blur(28px);
+  -webkit-backdrop-filter: blur(28px);
+  opacity: 0;
+  pointer-events: none;
+  transition: all 0.32s cubic-bezier(0.16, 1, 0.3, 1);
+  overflow: hidden;
+}
+
+.fearn-entry-modal.is-open {
+  transform: translate(-50%, -50%) scale(1);
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.fearn-entry-modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 24px 28px 16px 28px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.fearn-entry-modal-body {
+  padding: 24px 28px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.fearn-entry-modal-section {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.fearn-entry-modal-label {
+  font-size: 0.75rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #94a3b8;
+}
+
+.fearn-entry-modal-box {
+  padding: 12px 16px;
+  border-radius: var(--radius-md);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  font-size: 0.92rem;
+  line-height: 1.5;
+}
+
+
+/* ==========================================================================
+   FEARN COMPONENT ANTI-BLEEDING, ROADMAP & FITNESS LAYOUT FIXES
+   ========================================================================== */
+
+/* 1. Roadmap & Journey Path */
+.fearn-journey-path {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  padding: 18px 6px;
+}
+
+.fearn-journey-track {
+  display: flex;
+  align-items: center;
+  gap: 0;
+  min-width: max-content;
+  padding: 8px 12px;
+}
+
+.fearn-journey-node {
+  position: relative;
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  width: 90px;
+  min-width: 90px;
+  text-align: center;
+}
+
+.fearn-journey-label {
+  font-size: 0.72rem;
+  color: var(--text-sub);
+  text-align: center;
+  width: 100%;
+  max-width: 90px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  line-height: 1.2;
+}
+
+.fearn-journey-here {
+  position: absolute;
+  top: -24px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 0.62rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--special-1);
+  white-space: nowrap;
+  background: rgba(0, 0, 0, 0.6);
+  padding: 2px 6px;
+  border-radius: 4px;
+  border: 1px solid var(--special-1);
+}
+
+/* 2. Fitness Frond UI Layouts & Guided Overlay */
+.fearn-guided-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 99999;
+  background: rgba(3, 7, 18, 0.92);
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 16px;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.fearn-guided-exercise-card {
+  width: min(640px, 94vw);
+  max-height: 90vh;
+  overflow-y: auto;
+  background: rgba(15, 23, 42, 0.85);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 24px;
+  padding: 28px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  text-align: center;
+  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.7), 0 0 30px rgba(56, 189, 248, 0.15);
+}
+
+.fearn-guided-title {
+  font-size: clamp(1.2rem, 3.5vw, 1.8rem);
+  font-weight: 800;
+  color: #ffffff;
+  line-height: 1.25;
+  word-break: break-word;
+}
+
+.fearn-guided-cue-box {
+  background: rgba(0, 0, 0, 0.35);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-left: 3px solid #10b981;
+  padding: 14px 16px;
+  border-radius: 12px;
+  font-size: 0.92rem;
+  line-height: 1.5;
+  color: #e2e8f0;
+  text-align: left;
+  word-break: break-word;
+  max-height: 200px;
+  overflow-y: auto;
+}
+
+.fearn-guided-controls {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
   flex-wrap: wrap;
+  margin-top: 8px;
+}
+
+.fearn-guided-btn--big {
+  padding: 14px 28px;
+  font-size: 1.05rem;
+  font-weight: 800;
+  border-radius: var(--radius-pill);
+  background: linear-gradient(135deg, #10b981, #059669);
+  color: #ffffff;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0 4px 18px rgba(16, 185, 129, 0.4);
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.fearn-guided-btn--big:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 24px rgba(16, 185, 129, 0.55);
+}
+
+.fearn-guided-btn--secondary {
+  padding: 12px 20px;
+  font-size: 0.95rem;
+  font-weight: 700;
+  border-radius: var(--radius-pill);
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  color: #f8fafc;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+/* 3. Track Lesson & Presentation Area */
+.fearn-lang-lesson-flow,
+.fearn-lang-explanation,
+.fearn-lang-warmup,
+.fearn-lang-examples,
+.fearn-lang-practice-item,
+.fearn-checkpoint-item {
+  width: 100%;
+  max-width: 100%;
+  word-break: break-word;
+  overflow-wrap: break-word;
+}
+
+.fearn-lang-example-row {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 8px 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+  word-break: break-word;
+}
+
+.fearn-lang-example-target {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--lang-1);
+}
+
+.fearn-lang-example-trans {
+  font-size: 0.88rem;
+  color: var(--text-sub);
+}
+
+/* 4. Library & Frond Selector Container */
+.fearn-library-panel {
+  width: min(480px, 100vw);
+  max-width: 100vw;
+  box-sizing: border-box;
+}
+
+.fearn-frond-selector-bar {
+  display: flex;
+  gap: 6px;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  width: 100%;
+  max-width: 100%;
+  padding: 6px 2px 10px 2px;
+  margin-bottom: 12px;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+}
+
+.fearn-library-results {
+  flex: 1;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  width: 100%;
+  max-width: 100%;
+}
+
+.fearn-library-card {
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+  word-break: break-word;
+}
+
+.fearn-entry-modal {
+  width: min(720px, 94vw);
+  max-height: 88vh;
+  box-sizing: border-box;
+}
+
+.fearn-entry-modal-body {
+  word-break: break-word;
+  overflow-wrap: break-word;
+}
+
+
+/* ==========================================================================
+   FEARN FLAME CALENDAR & ARCHIVE RESET STYLES
+   ========================================================================== */
+
+.fearn-streak-card {
+  cursor: pointer;
+  position: relative;
+  transition: transform 0.2s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.2s, border-color 0.2s;
+}
+
+.fearn-streak-card:hover {
+  transform: translateY(-2px);
+  border-color: rgba(255, 120, 40, 0.4);
+  box-shadow: 0 10px 30px rgba(255, 80, 0, 0.15);
+}
+
+
+
+/* Modal Backdrop */
+.fearn-calendar-modal-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(4, 7, 12, 0.85);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  animation: fearnFadeIn 0.25s ease-out;
+}
+
+.fearn-calendar-modal-content {
+  background: linear-gradient(145deg, rgba(20, 24, 33, 0.95), rgba(11, 14, 20, 0.98));
+  border: 1px solid rgba(255, 140, 60, 0.25);
+  border-radius: 20px;
+  max-width: 640px;
+  width: 100%;
+  max-height: 90vh;
+  overflow-y: auto;
+  box-shadow: 0 25px 60px rgba(0, 0, 0, 0.8), 0 0 40px rgba(255, 90, 0, 0.15);
+  padding: 28px;
+  position: relative;
+  color: var(--text-main);
+  animation: fearnSlideUp 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@keyframes fearnSlideUp {
+  from { opacity: 0; transform: translateY(20px) scale(0.97); }
+  to { opacity: 1; transform: translateY(0) scale(1); }
+}
+
+.fearn-calendar-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  padding-bottom: 16px;
+}
+
+.fearn-calendar-title-wrap h2 {
+  font-family: var(--font-display);
+  font-size: 1.45rem;
+  margin: 0 0 6px 0;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background: linear-gradient(120deg, #ff9944, #ff4411);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.fearn-calendar-subtitle {
+  font-size: 0.82rem;
+  color: var(--text-sub);
+}
+
+.fearn-modal-close-btn {
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  color: var(--text-sub);
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: all 0.2s;
+}
+
+.fearn-modal-close-btn:hover {
+  background: rgba(255, 255, 255, 0.15);
+  color: #fff;
+  transform: scale(1.08);
+}
+
+/* Flame Stats Row */
+.fearn-flame-stats-row {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+  margin-bottom: 22px;
+}
+
+.fearn-flame-stat-card {
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.07);
+  border-radius: 12px;
+  padding: 12px 14px;
+  text-align: center;
+}
+
+.fearn-flame-stat-label {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--text-faint);
+  margin-bottom: 4px;
+}
+
+.fearn-flame-stat-val {
+  font-family: var(--font-display);
+  font-size: 1.35rem;
+  font-weight: 700;
+  color: #ff9944;
+}
+
+/* Month Navigation */
+.fearn-month-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 16px;
+}
+
+.fearn-month-label {
+  font-family: var(--font-display);
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--text-main);
+}
+
+.fearn-month-nav-btn {
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  color: var(--text-main);
+  padding: 6px 14px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 0.88rem;
+  transition: all 0.2s;
+}
+
+.fearn-month-nav-btn:hover {
+  background: rgba(255, 255, 255, 0.12);
+  border-color: rgba(255, 120, 40, 0.3);
+}
+
+/* Calendar Grid */
+.fearn-calendar-grid {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 8px;
+  margin-bottom: 22px;
+}
+
+.fearn-cal-day-head {
+  text-align: center;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-faint);
+  padding-bottom: 4px;
+}
+
+.fearn-cal-day-cell {
+  aspect-ratio: 1;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.85rem;
+  position: relative;
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  background: rgba(255, 255, 255, 0.02);
+  color: var(--text-sub);
+}
+
+/* Naked / Inactive Day */
+.fearn-cal-day-cell.naked {
+  opacity: 0.45;
+}
+
+/* Ignited / Flame Costume Day */
+.fearn-cal-day-cell.ignited {
+  background: radial-gradient(circle at center, rgba(255, 85, 0, 0.45) 0%, rgba(200, 40, 0, 0.25) 70%, rgba(30, 15, 10, 0.5) 100%);
+  border: 1px solid rgba(255, 140, 40, 0.7);
+  box-shadow: 0 0 14px rgba(255, 80, 0, 0.4), inset 0 0 8px rgba(255, 150, 50, 0.3);
+  color: #fff;
+  font-weight: 700;
+  transform: scale(1.04);
+  animation: emberPulse 2.5s infinite alternate ease-in-out;
+}
+
+@keyframes emberPulse {
+  0% { box-shadow: 0 0 10px rgba(255, 80, 0, 0.3); border-color: rgba(255, 120, 30, 0.5); }
+  100% { box-shadow: 0 0 20px rgba(255, 110, 0, 0.65), inset 0 0 10px rgba(255, 180, 60, 0.5); border-color: rgba(255, 180, 50, 0.9); }
+}
+
+.fearn-cal-day-cell.ignited .flame-icon {
+  font-size: 0.7rem;
+  margin-top: 2px;
+  filter: drop-shadow(0 0 4px #ff5500);
+}
+
+.fearn-cal-day-cell.today {
+  outline: 2px solid #ffaa44;
+  outline-offset: 1px;
+}
+
+.fearn-cal-day-cell.empty {
+  visibility: hidden;
+}
+
+/* Discreet Reset Button at Bottom */
+.fearn-vault-reset-wrapper {
+  margin-top: 60px;
+  padding-top: 30px;
+  border-top: 1px solid rgba(255, 255, 255, 0.05);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  text-align: center;
+}
+
+.fearn-discreet-reset-btn {
+  background: transparent;
+  border: 1px dashed rgba(255, 255, 255, 0.12);
+  color: var(--text-faint);
+  padding: 8px 18px;
+  border-radius: 8px;
+  font-size: 0.78rem;
+  letter-spacing: 0.04em;
+  cursor: pointer;
+  transition: all 0.25s;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.fearn-discreet-reset-btn:hover {
+  background: rgba(255, 50, 50, 0.08);
+  border-color: rgba(255, 70, 70, 0.35);
+  color: #ff6666;
+  transform: translateY(-1px);
+}
+
+.fearn-vault-hint {
+  font-size: 0.72rem;
+  color: var(--text-faint);
+  opacity: 0.6;
+}
+
+
+
+/* ==========================================================================
+   BULLETPROOF TOPBAR & WORLD CLOCK NOWRAP SYSTEM
+   ========================================================================== */
+.fearn-topbar {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+  flex-wrap: nowrap !important;
+  white-space: nowrap !important;
+  overflow-x: auto !important;
+  scrollbar-width: none !important;
+}
+.fearn-topbar::-webkit-scrollbar {
+  display: none !important;
+}
+
+.fearn-brand {
+  display: inline-flex !important;
+  align-items: center !important;
+  gap: 8px !important;
+  white-space: nowrap !important;
+  flex-shrink: 0 !important;
+}
+
+.fearn-topbar-actions {
+  display: inline-flex !important;
+  align-items: center !important;
+  gap: 10px !important;
+  white-space: nowrap !important;
+  flex-shrink: 0 !important;
+}
+
+.fearn-world-clock-widget {
+  display: inline-flex !important;
+  align-items: center !important;
+  gap: 7px !important;
+  white-space: nowrap !important;
+  flex-shrink: 0 !important;
+  padding: 6px 14px !important;
+  border-radius: 9999px !important;
+  background: rgba(18, 24, 38, 0.7) !important;
+  border: 1px solid rgba(212, 175, 55, 0.3) !important;
+  color: var(--text-main) !important;
+}
+
+.fearn-clock-city {
+  display: inline-block !important;
+  white-space: nowrap !important;
+  flex-shrink: 0 !important;
+  font-weight: 600 !important;
+  font-size: 0.84rem !important;
+}
+
+.fearn-clock-time {
+  display: inline-block !important;
+  white-space: nowrap !important;
+  flex-shrink: 0 !important;
+  font-weight: 700 !important;
+  color: #f6e05e !important;
+  font-family: var(--font-mono, monospace) !important;
+}
+
+.fearn-home-nav-btn {
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  width: 38px !important;
+  height: 38px !important;
+  padding: 0 !important;
+  border-radius: 50% !important;
+  background: rgba(255, 255, 255, 0.06) !important;
+  border: 1px solid rgba(255, 255, 255, 0.12) !important;
+  font-size: 1.15rem !important;
+  cursor: pointer !important;
+  transition: all 0.2s ease !important;
+  flex-shrink: 0 !important;
+}
+.fearn-home-nav-btn:hover {
+  background: rgba(255, 255, 255, 0.16) !important;
+  transform: scale(1.08) !important;
+}
+
+/* ==========================================================================
+   MAGICAL CELEBRATORY OPENING GATE
+   ========================================================================== */
+#fearn-welcome-gate {
+  position: fixed;
+  inset: 0;
+  z-index: 100000;
+  background: radial-gradient(circle at center, #0f172a 0%, #030712 100%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  transition: opacity 0.6s cubic-bezier(0.16, 1, 0.3, 1), visibility 0.6s;
+  pointer-events: all;
+  overflow: hidden;
+}
+
+#fearn-welcome-gate.gate-closed {
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+}
+
+.gate-content-wrap {
+  text-align: center;
+  position: relative;
+  z-index: 2;
+  padding: 24px;
+  animation: gatePopIn 0.8s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@keyframes gatePopIn {
+  0% { transform: scale(0.85); opacity: 0; filter: blur(8px); }
+  100% { transform: scale(1); opacity: 1; filter: blur(0px); }
+}
+
+.gate-emojis-cluster {
+  font-size: 2.6rem;
+  margin-bottom: 16px;
+  animation: gateFloat 2.5s ease-in-out infinite alternate;
+  letter-spacing: 0.2em;
+}
+
+@keyframes gateFloat {
+  0% { transform: translateY(0px) scale(1); }
+  100% { transform: translateY(-8px) scale(1.05); }
+}
+
+.gate-title {
+  font-family: var(--font-display, 'Cinzel', serif);
+  font-size: 2.8rem;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  margin: 0 0 12px 0;
+  background: linear-gradient(135deg, #ffd700 0%, #ff8c00 50%, #ff4500 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 0 0 40px rgba(255, 140, 0, 0.4);
+}
+
+.gate-subtitle {
+  font-size: 1.15rem;
+  font-style: italic;
+  color: rgba(255, 255, 255, 0.8);
+  margin-bottom: 24px;
+}
+
+.gate-dots {
+  display: inline-flex;
+  gap: 6px;
+}
+.gate-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #ffd700;
+  animation: gateDotBlink 1.2s infinite ease-in-out both;
+}
+.gate-dot:nth-child(1) { animation-delay: -0.32s; }
+.gate-dot:nth-child(2) { animation-delay: -0.16s; }
+.gate-dot:nth-child(3) { animation-delay: 0s; }
+
+@keyframes gateDotBlink {
+  0%, 80%, 100% { transform: scale(0); opacity: 0.3; }
+  40% { transform: scale(1); opacity: 1; box-shadow: 0 0 10px #ffd700; }
+}
+
+/* Confetti particles */
+.gate-confetti-particle {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  border-radius: 2px;
+  opacity: 0.85;
+  animation: confettiFall 3s linear infinite;
+}
+
+@keyframes confettiFall {
+  0% { transform: translateY(-10vh) rotate(0deg); opacity: 1; }
+  100% { transform: translateY(110vh) rotate(720deg); opacity: 0; }
+}
+
+
+/* ==========================================================================
+   SAFE 2-STEP VAULT RESET DIALOG & RED/GREEN AESTHETIC
+   ========================================================================== */
+.fearn-vault-reset-trigger-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 14px;
+  background: rgba(239, 68, 68, 0.12);
+  border: 1px solid rgba(239, 68, 68, 0.35);
+  border-radius: 6px;
+  color: #fca5a5;
+  font-size: 0.82rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+.fearn-vault-reset-trigger-btn:hover {
+  background: rgba(239, 68, 68, 0.22);
+  border-color: #ef4444;
+  color: #fff;
+}
+
+.fearn-confirm-modal-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 100005;
+  background: rgba(0, 0, 0, 0.75);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.fearn-confirm-dialog-card {
+  background: #0f172a;
+/* ==========================================================================
+   FASHIONABLE LIQUID-GLASS CONFIRMATION DIALOG & SAFE RESET SYSTEM
+   ========================================================================== */
+.fearn-confirm-modal-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 999990;
+  background: rgba(5, 8, 16, 0.78);
+  backdrop-filter: blur(24px) saturate(180%);
+  -webkit-backdrop-filter: blur(24px) saturate(180%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  animation: fadeInModal 0.25s ease-out;
+}
+
+@keyframes fadeInModal {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+.fearn-confirm-dialog-card {
+  background: rgba(15, 23, 42, 0.88);
+  backdrop-filter: blur(32px);
+  -webkit-backdrop-filter: blur(32px);
+  border: 1px solid rgba(255, 255, 255, 0.16);
+  box-shadow: 0 25px 60px -10px rgba(0, 0, 0, 0.85),
+              0 0 40px rgba(239, 68, 68, 0.15),
+              inset 0 1px 1px rgba(255, 255, 255, 0.2);
+  border-radius: 20px;
+  max-width: 520px;
+  width: 100%;
+  padding: 32px 28px;
+  color: #f1f5f9;
+  text-align: center;
+  animation: dialogPop 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@keyframes dialogPop {
+  0% { transform: scale(0.9) translateY(10px); opacity: 0; }
+  100% { transform: scale(1) translateY(0); opacity: 1; }
+}
+
+.fearn-confirm-dialog-title {
+  font-size: 1.4rem;
+  font-weight: 800;
+  letter-spacing: -0.01em;
+  margin: 0 0 14px 0;
+  color: #f87171;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+.fearn-confirm-dialog-body {
+  font-size: 0.95rem;
+  line-height: 1.65;
+  color: #cbd5e1;
+  margin-bottom: 24px;
+}
+
+.fearn-reset-details-box {
+  background: rgba(0, 0, 0, 0.35);
+  border: 1px solid rgba(239, 68, 68, 0.25);
+  border-radius: 12px;
+  padding: 16px;
+  margin: 18px 0 24px 0;
+  text-align: left;
+}
+
+.fearn-reset-details-title {
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #fca5a5;
+  margin-bottom: 10px;
+}
+
+.fearn-reset-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 12px 0;
+  font-size: 0.88rem;
+  color: #e2e8f0;
+}
+
+.fearn-reset-list li {
+  padding: 5px 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  line-height: 1.45;
+}
+
+.fearn-reset-list li:last-child {
+  border-bottom: none;
+}
+
+.fearn-reset-warning-note {
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: #ef4444;
+  background: rgba(239, 68, 68, 0.1);
+  padding: 6px 10px;
+  border-radius: 6px;
+  border-left: 3px solid #ef4444;
+  margin-top: 8px;
+}
+
+.fearn-confirm-btn-group {
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+/* Quadrilateral RED Yes Button */
+.fearn-btn-yes-red {
+  background: linear-gradient(135deg, #ef4444 0%, #b91c1c 100%) !important;
+  color: #ffffff !important;
+  border: 1px solid #f87171 !important;
+  padding: 12px 28px !important;
+  clip-path: polygon(12px 0%, 100% 0%, calc(100% - 12px) 100%, 0% 100%) !important;
+  font-weight: 800 !important;
+  font-size: 0.92rem !important;
+  letter-spacing: 0.05em !important;
+  text-transform: uppercase !important;
+  cursor: pointer !important;
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1) !important;
+  box-shadow: 0 4px 15px rgba(239, 68, 68, 0.4), inset 0 1px 1px rgba(255, 255, 255, 0.3) !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  min-width: 150px !important;
+}
+
+.fearn-btn-yes-red:hover {
+  background: linear-gradient(135deg, #f87171 0%, #dc2626 100%) !important;
+  box-shadow: 0 0 25px rgba(239, 68, 68, 0.75), inset 0 1px 2px rgba(255, 255, 255, 0.5) !important;
+  transform: translateY(-2px) scale(1.03) !important;
+}
+
+.fearn-btn-yes-red:active {
+  transform: translateY(1px) scale(0.98) !important;
+}
+
+/* Green NO Button */
+.fearn-btn-no-green {
+  background: linear-gradient(135deg, #22c55e 0%, #15803d 100%) !important;
+  color: #ffffff !important;
+  border: 1px solid #4ade80 !important;
+  padding: 12px 28px !important;
+  clip-path: polygon(12px 0%, 100% 0%, calc(100% - 12px) 100%, 0% 100%) !important;
+  font-weight: 800 !important;
+  font-size: 0.92rem !important;
+  letter-spacing: 0.05em !important;
+  text-transform: uppercase !important;
+  cursor: pointer !important;
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1) !important;
+  box-shadow: 0 4px 15px rgba(34, 197, 94, 0.4), inset 0 1px 1px rgba(255, 255, 255, 0.3) !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  min-width: 150px !important;
+}
+
+.fearn-btn-no-green:hover {
+  background: linear-gradient(135deg, #4ade80 0%, #16a34a 100%) !important;
+  box-shadow: 0 0 25px rgba(34, 197, 94, 0.75), inset 0 1px 2px rgba(255, 255, 255, 0.5) !important;
+  transform: translateY(-2px) scale(1.03) !important;
+}
+
+.fearn-btn-no-green:active {
+  transform: translateY(1px) scale(0.98) !important;
+}
+
+/* Discreet Bottom Page Footer */
+.fearn-app-footer {
+  margin-top: 60px;
+  padding: 24px 20px 40px;
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.fearn-footer-inner {
+  max-width: 1200px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+.fearn-footer-text {
+  font-size: 0.8rem;
+  color: var(--text-faint, #64748b);
+  letter-spacing: 0.04em;
+}
+
+.fearn-discreet-reset-btn {
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  color: #94a3b8;
+  padding: 6px 14px;
+  border-radius: 6px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  cursor: pointer;
+  transition: all 0.25s ease;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  opacity: 0.7;
+}
+
+.fearn-discreet-reset-btn:hover {
+  background: rgba(239, 68, 68, 0.12);
+  border-color: rgba(239, 68, 68, 0.4);
+  color: #fca5a5;
+  opacity: 1;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(239, 68, 68, 0.2);
+}
+
+/* Floating celebratory emojis animation */
+.gate-floating-emoji {
+  position: absolute;
+  font-size: 1.8rem;
+  user-select: none;
+  pointer-events: none;
+  animation: emojiFloatUp linear infinite;
+}
+
+@keyframes emojiFloatUp {
+  0% {
+    transform: translateY(105vh) rotate(0deg) scale(0.6);
+    opacity: 0;
+  }
+  15% {
+    opacity: 0.9;
+  }
+  85% {
+    opacity: 0.9;
+  }
+  100% {
+    transform: translateY(-10vh) rotate(360deg) scale(1.1);
+    opacity: 0;
+  }
+}
+
+
+/* ==========================================================================
+   FLIGHT SUITE: PWA STATUS, AUDIO RATE, FOCUS SOUND & VAULT BACKUP
+   ========================================================================== */
+
+/* PWA Live Offline Status Badge */
+.fearn-status-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 5px 12px;
+  border-radius: 9999px;
+  font-size: 0.76rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  background: rgba(16, 185, 129, 0.12);
+  color: #34d399;
+  border: 1px solid rgba(16, 185, 129, 0.3);
+  backdrop-filter: blur(12px);
+  user-select: none;
+  transition: all 0.3s ease;
+}
+.fearn-status-pill.offline-active {
+  background: rgba(56, 189, 248, 0.14);
+  color: #38bdf8;
+  border-color: rgba(56, 189, 248, 0.4);
+}
+.fearn-status-dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: #10b981;
+  box-shadow: 0 0 8px #10b981;
+  animation: pulseDot 2s infinite alternate;
+}
+.fearn-status-pill.offline-active .fearn-status-dot {
+  background: #38bdf8;
+  box-shadow: 0 0 8px #38bdf8;
+}
+@keyframes pulseDot {
+  0% { transform: scale(0.9); opacity: 0.7; }
+  100% { transform: scale(1.2); opacity: 1; }
+}
+
+/* Audio Speech Rate Controller */
+.fearn-audio-rate-picker {
+  display: inline-flex;
+  align-items: center;
+  background: rgba(15, 23, 42, 0.6);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 9999px;
+  padding: 2px 4px;
+  gap: 2px;
+  margin-left: 8px;
+}
+.fearn-rate-btn {
+  background: transparent;
+  border: none;
+  color: var(--text-sub, #94a3b8);
+  font-size: 0.72rem;
+  font-weight: 700;
+  padding: 3px 8px;
+  border-radius: 9999px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+.fearn-rate-btn.active, .fearn-rate-btn:hover {
+  background: rgba(56, 189, 248, 0.2);
+  color: #38bdf8;
+}
+
+/* Focus Sound Cabin Canceller Bar */
+.fearn-focus-bar {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: rgba(15, 23, 42, 0.7);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 9999px;
+  padding: 4px 12px;
+  backdrop-filter: blur(12px);
+  font-size: 0.8rem;
+  color: #cbd5e1;
+}
+.fearn-focus-btn {
+  background: rgba(56, 189, 248, 0.12);
+  border: 1px solid rgba(56, 189, 248, 0.3);
+  color: #38bdf8;
+  font-size: 0.76rem;
+  font-weight: 700;
+  padding: 4px 10px;
+  border-radius: 9999px;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  transition: all 0.25s ease;
+}
+.fearn-focus-btn.playing {
+  background: #0284c7;
+  color: #ffffff;
+  border-color: #38bdf8;
+  box-shadow: 0 0 12px rgba(56, 189, 248, 0.5);
+}
+
+/* Vault Backup & Sync Buttons */
+.fearn-footer-actions {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.fearn-btn-backup {
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  color: #cbd5e1;
+  font-size: 0.78rem;
+  font-weight: 600;
+  padding: 5px 12px;
+  border-radius: 8px;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  transition: all 0.2s ease;
+}
+.fearn-btn-backup:hover {
+  background: rgba(56, 189, 248, 0.12);
+  border-color: rgba(56, 189, 248, 0.4);
+  color: #38bdf8;
+  transform: translateY(-1px);
 }
