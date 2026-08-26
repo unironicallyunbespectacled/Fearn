@@ -785,7 +785,7 @@
 
     // Returns true if the current hash named a real view to restore into.
     function restoreFromHash() {
-      var hash = location.hash.replace(/^#/, '');
+      var hash = (location.hash || '').replace(/^#/, '');
       if (hash.indexOf('module=') === 0) {
         var slotId = decodeURIComponent(hash.slice('module='.length));
         if (slotById(slotId)) {

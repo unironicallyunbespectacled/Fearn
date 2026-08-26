@@ -97,7 +97,7 @@
   // ---------------------------------------------------------------------
   FEARN.ui.renderModuleCard = function renderModuleCard(container, moduleDef) {
     try {
-      if (!container || !(container instanceof Element)) {
+      if (!container || (typeof Element !== 'undefined' && !(container instanceof Element) && !container.nodeType)) {
         console.warn('FEARN.ui.renderModuleCard: no valid container element given');
         return;
       }
@@ -169,7 +169,7 @@
   // ---------------------------------------------------------------------
   FEARN.ui.renderJourneyPath = function renderJourneyPath(container, opts) {
     try {
-      if (!container || !(container instanceof Element)) {
+      if (!container || (typeof Element !== 'undefined' && !(container instanceof Element) && !container.nodeType)) {
         console.warn('FEARN.ui.renderJourneyPath: no valid container element given');
         return;
       }
