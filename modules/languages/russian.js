@@ -223,7 +223,7 @@
         mnWrap.innerHTML = '<b>Mnemonics</b>';
         pres.mnemonics.forEach(function (m) {
           var p2 = document.createElement('p');
-          p2.textContent = m;
+          if (window.FEARN && window.FEARN.formatText) { p2.innerHTML = window.FEARN.formatText(m); } else { p2.textContent = m; }
           mnWrap.appendChild(p2);
         });
         flowRoot.appendChild(mnWrap);
@@ -234,7 +234,7 @@
         cnWrap.innerHTML = '<b>Cultural notes</b>';
         pres.culturalNotes.forEach(function (c) {
           var p3 = document.createElement('p');
-          p3.textContent = c;
+          if (window.FEARN && window.FEARN.formatText) { p3.innerHTML = window.FEARN.formatText(c); } else { p3.textContent = c; }
           cnWrap.appendChild(p3);
         });
         flowRoot.appendChild(cnWrap);

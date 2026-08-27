@@ -21,7 +21,7 @@
   FEARN.ui = FEARN.ui || {};
 
   // ---------------------------------------------------------------------
-  // small internal helpers
+  // small internal helpers & Universal Math/Text Formatter
   // ---------------------------------------------------------------------
   function escapeHtml(str) {
     if (str === null || str === undefined) return '';
@@ -29,6 +29,111 @@
       { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]
     ));
   }
+
+  function formatMathAndText(str) {
+    if (str === null || str === undefined) return '';
+    let s = String(str);
+
+    // Escape basic HTML special chars first to prevent XSS
+    s = s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+
+    // Greek letters
+    const greek = {
+      '\\\\alpha': 'α', '\\\\beta': 'β', '\\\\gamma': 'γ', '\\\\Gamma': 'Γ',
+      '\\\\delta': 'δ', '\\\\Delta': 'Δ', '\\\\epsilon': 'ε', '\\\\varepsilon': 'ε',
+      '\\\\zeta': 'ζ', '\\\\eta': 'η', '\\\\theta': 'θ', '\\\\Theta': 'Θ',
+      '\\\\iota': 'ι', '\\\\kappa': 'κ', '\\\\lambda': 'λ', '\\\\Lambda': 'Λ',
+      '\\\\mu': 'μ', '\\\\nu': 'ν', '\\\\xi': 'ξ', '\\\\Xi': 'Ξ',
+      '\\\\pi': 'π', '\\\\Pi': 'Π', '\\\\rho': 'ρ', '\\\\sigma': 'σ',
+      '\\\\Sigma': 'Σ', '\\\\tau': 'τ', '\\\\upsilon': 'υ', '\\\\phi': 'φ',
+      '\\\\varphi': 'φ', '\\\\Phi': 'Φ', '\\\\chi': 'χ', '\\\\psi': 'ψ',
+      '\\\\Psi': 'Ψ', '\\\\omega': 'ω', '\\\\Omega': 'Ω'
+    };
+    for (const [k, v] of Object.entries(greek)) {
+      s = s.replace(new RegExp(k + '(?![a-zA-Z])', 'g'), v);
+    }
+
+    // Mathematical symbols & relations
+    const symbols = {
+      '\\\\le(?!t)': '≤', '\\\\leq': '≤', '\\\\ge': '≥', '\\\\geq': '≥',
+      '\\\\ne(?!w)': '≠', '\\\\neq': '≠', '\\\\approx': '≈', '\\\\equiv': '≡',
+      '\\\\sim': '∼', '\\\\propto': '∝', '\\\\pm': '±', '\\\\mp': '∓',
+      '\\\\times': '×', '\\\\div': '÷', '\\\\cdot': '·', '\\\\bullet': '•',
+      '\\\\to': '→', '\\\\rightarrow': '→', '\\\\leftarrow': '←',
+      '\\\\implies': '⇒', '\\\\Rightarrow': '⇒', '\\\\iff': '⇔',
+      '\\\\in': '∈', '\\\\notin': '∉', '\\\\subset': '⊂', '\\\\subseteq': '⊆',
+      '\\\\cup': '∪', '\\\\cap': '∩', '\\\\infty': '∞', '\\\\partial': '∂',
+      '\\\\nabla': '∇', '\\\\sum': '∑', '\\\\prod': '∏', '\\\\int': '∫',
+      '\\\\forall': '∀', '\\\\exists': '∃', '\\\\emptyset': '∅',
+      '\\\\lceil': '⌈', '\\\\rceil': '⌉', '\\\\lfloor': '⌊', '\\\\rfloor': '⌋',
+      '\\\\ll': '≪', '\\\\gg': '≫'
+    };
+    for (const [k, v] of Object.entries(symbols)) {
+      s = s.replace(new RegExp(k + '(?![a-zA-Z])', 'g'), v);
+    }
+
+    // Number sets & Blackboard Bold
+    s = s.replace(/\\mathbb\{R\}/g, 'ℝ')
+         .replace(/\\mathbb\{Z\}/g, 'ℤ')
+         .replace(/\\mathbb\{N\}/g, 'ℕ')
+         .replace(/\\mathbb\{Q\}/g, 'ℚ')
+         .replace(/\\mathbb\{C\}/g, 'ℂ');
+
+    // Text commands in math mode
+    s = s.replace(/\\(?:text|textbf|mathbf|mathrm|mathit)\{([^}]+)\}/g, '$1');
+
+    // Fractions: \frac{num}{den} -> (num / den)
+    s = s.replace(/\\frac\{([^{}]+)\}\{([^{}]+)\}/g, '($1 / $2)');
+    s = s.replace(/\\frac\{([^{}]+)\}\{([^{}]+)\}/g, '($1 / $2)');
+
+    // Roots: \sqrt{x} -> √(x), \sqrt[n]{x} -> ⁿ√(x)
+    s = s.replace(/\\sqrt\[([^{}]+)\]\{([^{}]+)\}/g, '$1√($2)');
+    s = s.replace(/\\sqrt\{([^{}]+)\}/g, '√($1)');
+
+    // Delimiter cleaners
+    s = s.replace(/\\left\(/g, '(').replace(/\\right\)/g, ')');
+    s = s.replace(/\\left\[/g, '[').replace(/\\right\]/g, ']');
+    s = s.replace(/\\left\\\{/g, '{').replace(/\\right\\\}/g, '}');
+    s = s.replace(/\\left\|/g, '|').replace(/\\right\|/g, '|');
+    s = s.replace(/\\quad/g, '  ').replace(/\\qquad/g, '    ');
+    s = s.replace(/\\\\/g, '<br>');
+
+    // Braced super and subscripts
+    s = s.replace(/\^\{([^}]+)\}/g, '<sup>$1</sup>');
+    s = s.replace(/_\{([^}]+)\}/g, '<sub>$1</sub>');
+
+    // Common non-braced superscripts
+    s = s.replace(/\^2(?![0-9])/g, '²')
+         .replace(/\^3(?![0-9])/g, '³')
+         .replace(/\^0(?![0-9])/g, '⁰')
+         .replace(/\^1(?![0-9])/g, '¹')
+         .replace(/\^n(?![a-zA-Z])/g, 'ⁿ')
+         .replace(/\^t(?![a-zA-Z])/g, 'ᵗ')
+         .replace(/\^k(?![a-zA-Z])/g, 'ᵏ')
+         .replace(/\^([0-9]+)/g, '<sup>$1</sup>');
+
+    // Common non-braced subscripts
+    s = s.replace(/_([0-9a-zA-Z]+)/g, '<sub>$1</sub>');
+
+    // Display math: $$ ... $$ -> formatted block
+    s = s.replace(/\$\$([\s\S]*?)\$\$/g, '<div class="fearn-math-block" style="margin:10px 0; padding:10px 14px; background:rgba(0,0,0,0.3); border-left:3px solid var(--lang-1, #38bdf8); border-radius:6px; font-family:\'Fira Code\', monospace; font-size:1.02em; overflow-x:auto;">$1</div>');
+
+    // Inline math: $ ... $ -> styled inline math span
+    s = s.replace(/\$([^$\n]+?)\$/g, '<span class="fearn-math-inline" style="font-family:\'Fira Code\', monospace; font-weight:600; color:#7dd3fc;">$1</span>');
+
+    // Markdown bold: **text** -> <strong>text</strong>
+    s = s.replace(/\*\*([^*]+)\*\*/g, '<strong style="color:#f8fafc; font-weight:700;">$1</strong>');
+
+    // Markdown inline code: `code` -> <code>code</code>
+    s = s.replace(/`([^`]+)`/g, '<code style="background:rgba(255,255,255,0.1); padding:2px 6px; border-radius:4px; font-family:\'Fira Code\', monospace; font-size:0.9em; color:#a78bfa;">$1</code>');
+
+    return s;
+  }
+
+  FEARN.formatText = formatMathAndText;
+  FEARN.formatMath = formatMathAndText;
+  FEARN.ui.formatText = formatMathAndText;
+  FEARN.ui.formatMath = formatMathAndText;
 
   function el(tag, className, text) {
     const node = document.createElement(tag);

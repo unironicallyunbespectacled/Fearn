@@ -64,7 +64,12 @@
   }
 
   function escapeHtml(s) {
-    return String(s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+    return String(s || "").replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+  }
+
+  function formatRich(s) {
+    return (global.FEARN && global.FEARN.formatText) ? global.FEARN.formatText(s) : escapeHtml(s);
+  }[c]));
   }
 
     function renderFallbackJourneyPath(container) {
@@ -142,8 +147,8 @@
     box.className = 'fearn-lesson-presentation';
     box.innerHTML = `
       <h3>${escapeHtml(lesson.unit)} · ${escapeHtml(lesson.level)}</h3>
-      <p class="fearn-objective"><strong>Goal:</strong> ${escapeHtml(lesson.objective)}</p>
-      <p>${escapeHtml(lesson.presentation.explanation)}</p>
+      <p class="fearn-objective"><strong>Goal:</strong> ${formatRich(lesson.objective)}</p>
+      <p>${formatRich(lesson.presentation.explanation)}</p>
       <div class="fearn-examples">
         ${lesson.presentation.examples
           .map(
@@ -168,8 +173,8 @@
       const row = document.createElement('div');
       row.className = 'fearn-checkpoint-item';
       row.innerHTML = `
-        <p>${escapeHtml(item.prompt)}</p>
-        ${item.options ? `<ul>${item.options.map((o) => `<li>${escapeHtml(o)}</li>`).join('')}</ul>` : ''}
+        <p>${formatRich(item.prompt)}</p>
+        ${item.options ? `<ul>${item.options.map((o) => `<li>${formatRich(o)}</li>`).join('')}</ul>` : ''}
       `;
       const input = document.createElement('input');
       input.placeholder = 'Your answer';

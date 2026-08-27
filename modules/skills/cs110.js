@@ -31,7 +31,12 @@
   function setLessonState(s) { FEARN.storage.set(STATE_KEY + ':lesson', s); }
 
   function escapeHtml(s) {
-    return String(s || '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+    return String(s || "").replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+  }
+
+  function formatRich(s) {
+    return (global.FEARN && global.FEARN.formatText) ? global.FEARN.formatText(s) : escapeHtml(s);
+  }[c]));
   }
 
   function markLessonComplete(lessonId) {
@@ -185,7 +190,7 @@
             <span style="font-size:0.85rem; color:#94a3b8;">CS110 Core Curriculum</span>
           </div>
           <h2 style="margin:12px 0 6px; font-size:1.4rem; color:#f8fafc; font-weight:800;">
-            ${escapeHtml(activeLesson.objective)}
+            ${formatRich(activeLesson.objective)}
           </h2>
         </div>
 
@@ -195,7 +200,7 @@
             📖 Theoretical Lecture & Mathematical Formulation
           </h4>
           <div style="background:rgba(15, 23, 42, 0.8); border:1px solid rgba(56,189,248,0.2); border-radius:8px; padding:18px; line-height:1.7; color:#e2e8f0; font-size:0.95rem; white-space:pre-wrap; font-family:'Fira Code', monospace, sans-serif;">
-${escapeHtml(activeLesson.presentation.explanation)}
+${formatRich(activeLesson.presentation.explanation)}
           </div>
         </div>
 
@@ -208,8 +213,8 @@ ${escapeHtml(activeLesson.presentation.explanation)}
             <div style="display:flex; flex-direction:column; gap:10px;">
               ${activeLesson.presentation.examples.map(ex => `
                 <div style="background:rgba(167,139,250,0.08); border-left:4px solid #a78bfa; padding:12px 16px; border-radius:0 6px 6px 0;">
-                  <div style="font-weight:700; color:#f1f5f9; font-family:monospace;">${escapeHtml(ex.target)}</div>
-                  <div style="color:#cbd5e1; font-size:0.9rem; margin-top:4px;">${escapeHtml(ex.translation || ex.reading || '')}</div>
+                  <div style="font-weight:700; color:#f1f5f9; font-family:monospace;">${formatRich(ex.target)}</div>
+                  <div style="color:#cbd5e1; font-size:0.9rem; margin-top:4px;">${formatRich(ex.translation || ex.reading || '')}</div>
                 </div>
               `).join('')}
             </div>
@@ -246,7 +251,7 @@ ${escapeHtml(activeLesson.presentation.explanation)}
 
             qBox.innerHTML = `
               <div style="font-weight:600; color:#f1f5f9; margin-bottom:10px; font-size:0.95rem;">
-                Q${qIdx + 1}: ${escapeHtml(item.prompt)}
+                Q${qIdx + 1}: ${formatRich(item.prompt)}
               </div>
             `;
 
@@ -276,7 +281,7 @@ ${escapeHtml(activeLesson.presentation.explanation)}
               optBtn.style.color = '#e2e8f0';
               optBtn.style.fontSize = '0.9rem';
               optBtn.style.cursor = 'pointer';
-              optBtn.innerText = opt;
+              optBtn.innerHTML = formatRich(opt);
 
               optBtn.addEventListener('click', () => {
                 if (answered) return;
@@ -304,7 +309,7 @@ ${escapeHtml(activeLesson.presentation.explanation)}
                 exp.style.fontSize = '0.85rem';
                 exp.style.color = '#94a3b8';
                 exp.style.fontStyle = 'italic';
-                exp.innerText = 'Explanation: ' + (item.explanation || 'See formal proof in lecture notes.');
+                exp.innerHTML = '<strong>Explanation:</strong> ' + formatRich(item.explanation || 'See formal proof in lecture notes.');
                 qBox.appendChild(exp);
 
                 if (answeredCount === items.length) {

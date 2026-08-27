@@ -1280,35 +1280,35 @@
       if (entry.definition) {
         html += '<div class="fearn-entry-modal-section">' +
           '<div class="fearn-entry-modal-label">📖 Core Definition & Concept</div>' +
-          '<div class="fearn-entry-modal-box" style="background:rgba(255,255,255,0.04); color:#f8fafc; font-size:1.02rem; font-weight:600;">' + escapeHtml(entry.definition) + '</div>' +
+          '<div class="fearn-entry-modal-box" style="background:rgba(255,255,255,0.04); color:#f8fafc; font-size:1.02rem; font-weight:600;">' + (window.FEARN && window.FEARN.formatText ? window.FEARN.formatText(entry.definition) : escapeHtml(entry.definition)) + '</div>' +
         '</div>';
       }
 
       if (entry.lt) {
         html += '<div class="fearn-entry-modal-section">' +
           '<div class="fearn-entry-modal-label" style="color:#a78bfa;">🧠 Language Transfer Cognitive Hook</div>' +
-          '<div class="fearn-entry-modal-box" style="background:rgba(167,139,250,0.1); border-color:rgba(167,139,250,0.3); color:#ddd6fe;">' + escapeHtml(entry.lt) + '</div>' +
+          '<div class="fearn-entry-modal-box" style="background:rgba(167,139,250,0.1); border-color:rgba(167,139,250,0.3); color:#ddd6fe;">' + (window.FEARN && window.FEARN.formatText ? window.FEARN.formatText(entry.lt) : escapeHtml(entry.lt)) + '</div>' +
         '</div>';
       }
 
       if (entry.ex) {
         html += '<div class="fearn-entry-modal-section">' +
           '<div class="fearn-entry-modal-label" style="color:#4ade80;">💬 Contextual Exemplar</div>' +
-          '<div class="fearn-entry-modal-box" style="background:rgba(34,197,94,0.08); border-color:rgba(34,197,94,0.25); color:#bbf7d0;">' + escapeHtml(entry.ex) + '</div>' +
+          '<div class="fearn-entry-modal-box" style="background:rgba(34,197,94,0.08); border-color:rgba(34,197,94,0.25); color:#bbf7d0;">' + (window.FEARN && window.FEARN.formatText ? window.FEARN.formatText(entry.ex) : escapeHtml(entry.ex)) + '</div>' +
         '</div>';
       }
 
       if (entry.etym) {
         html += '<div class="fearn-entry-modal-section">' +
           '<div class="fearn-entry-modal-label" style="color:#fbbf24;">📜 Etymology, Mnemonic & Structural Lineage</div>' +
-          '<div class="fearn-entry-modal-box" style="background:rgba(251,191,36,0.08); border-color:rgba(251,191,36,0.25); color:#fde68a;">' + escapeHtml(entry.etym) + '</div>' +
+          '<div class="fearn-entry-modal-box" style="background:rgba(251,191,36,0.08); border-color:rgba(251,191,36,0.25); color:#fde68a;">' + (window.FEARN && window.FEARN.formatText ? window.FEARN.formatText(entry.etym) : escapeHtml(entry.etym)) + '</div>' +
         '</div>';
       }
 
       if (entry.notes) {
         html += '<div class="fearn-entry-modal-section">' +
           '<div class="fearn-entry-modal-label" style="color:#38bdf8;">💡 Cultural & Strategic Mastery Notes</div>' +
-          '<div class="fearn-entry-modal-box" style="background:rgba(56,189,248,0.08); border-color:rgba(56,189,248,0.25); color:#bae6fd;">' + escapeHtml(entry.notes) + '</div>' +
+          '<div class="fearn-entry-modal-box" style="background:rgba(56,189,248,0.08); border-color:rgba(56,189,248,0.25); color:#bae6fd;">' + (window.FEARN && window.FEARN.formatText ? window.FEARN.formatText(entry.notes) : escapeHtml(entry.notes)) + '</div>' +
         '</div>';
       }
 
@@ -1407,7 +1407,7 @@
         }
 
         if (entry.definition) {
-          cardHtml += '<div class="fearn-library-card-def">' + escapeHtml(entry.definition) + '</div>';
+          cardHtml += '<div class="fearn-library-card-def">' + (window.FEARN && window.FEARN.formatText ? window.FEARN.formatText(entry.definition) : escapeHtml(entry.definition)) + '</div>';
         }
 
         card.innerHTML = cardHtml;
