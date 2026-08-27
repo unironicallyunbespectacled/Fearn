@@ -18,6 +18,64 @@
   const RATING_ID = 'morse';
   const STATE_KEY = MODULE_ID + ':state';
 
+  let _morseAudioCtx = null;
+  function getMorseAudioCtx() {
+    if (!_morseAudioCtx) {
+      const Ctor = global.AudioContext || global.webkitAudioContext;
+      if (Ctor) _morseAudioCtx = new Ctor();
+    }
+    if (_morseAudioCtx && _morseAudioCtx.state === 'suspended') {
+      _morseAudioCtx.resume();
+    }
+    return _morseAudioCtx;
+  }
+
+  function playMorsePattern(pattern, wpm) {
+    try {
+      const ctx = getMorseAudioCtx();
+      if (!ctx) return;
+      const speed = wpm || 20;
+      const dotDuration = 1.2 / speed;
+      const dashDuration = dotDuration * 3;
+      const elementSpace = dotDuration;
+      const charSpace = dotDuration * 3;
+      const wordSpace = dotDuration * 7;
+
+      let time = ctx.currentTime + 0.04;
+      const osc = ctx.createOscillator();
+      const gain = ctx.createGain();
+      osc.type = 'sine';
+      osc.frequency.setValueAtTime(750, time);
+      gain.gain.setValueAtTime(0, time);
+      osc.connect(gain);
+      gain.connect(ctx.destination);
+      osc.start(time);
+
+      for (let i = 0; i < pattern.length; i++) {
+        const ch = pattern[i];
+        if (ch === '.' || ch === '•') {
+          gain.gain.setValueAtTime(0.18, time);
+          time += dotDuration;
+          gain.gain.setValueAtTime(0, time);
+          time += elementSpace;
+        } else if (ch === '-' || ch === '—' || ch === '_') {
+          gain.gain.setValueAtTime(0.18, time);
+          time += dashDuration;
+          gain.gain.setValueAtTime(0, time);
+          time += elementSpace;
+        } else if (ch === ' ') {
+          time += charSpace;
+        } else if (ch === '/') {
+          time += wordSpace;
+        }
+      }
+      osc.stop(time + 0.1);
+    } catch (e) {
+      console.warn('Morse audio play error:', e);
+    }
+  }
+  global.FEARN_PLAY_MORSE = playMorsePattern;
+
   function defaultState() {
     return {
       currentLessonId: LEDGER.authoredInFull[0] || null,
@@ -169,10 +227,13 @@
         ${lesson.presentation.examples
           .map(
             (ex) => `
-          <div class="fearn-example">
-            <div class="fearn-example-pattern"><code>${escapeHtml(ex.pattern || '')}</code></div>
-            <div class="fearn-example-char">${escapeHtml(ex.character || '')}</div>
-            <div class="fearn-example-desc">${escapeHtml(ex.description || '')}</div>
+          <div class="fearn-example" style="display:flex; align-items:center; justify-content:space-between; gap:10px; margin-bottom:8px;">
+            <div style="display:flex; align-items:center; gap:12px;">
+              <div class="fearn-example-pattern"><code>${escapeHtml(ex.pattern || '')}</code></div>
+              <div class="fearn-example-char"><strong>${escapeHtml(ex.character || '')}</strong></div>
+              <div class="fearn-example-desc">${escapeHtml(ex.description || '')}</div>
+            </div>
+            ${ex.pattern ? `<button type="button" class="fearn-btn fearn-btn--ghost" onclick="window.FEARN_PLAY_MORSE && window.FEARN_PLAY_MORSE('${escapeHtml(ex.pattern)}')" title="Play CW Audio Tone" style="padding:4px 10px; font-size:0.8rem; cursor:pointer;">🔊 Tone</button>` : ''}
           </div>`
           )
           .join('')}

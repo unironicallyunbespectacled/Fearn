@@ -444,6 +444,47 @@
   };
 
   let currentSpeechRate = parseFloat(localStorage.getItem('fearn:audio-rate') || '1.0');
+  let availableVoices = [];
+  const activeUtterances = new Set();
+
+  function populateVoices() {
+    if (typeof window === 'undefined' || !window.speechSynthesis) return;
+    try {
+      availableVoices = window.speechSynthesis.getVoices() || [];
+    } catch (e) {
+      availableVoices = [];
+    }
+  }
+
+  if (typeof window !== 'undefined' && window.speechSynthesis) {
+    populateVoices();
+    if (window.speechSynthesis.onvoiceschanged !== undefined) {
+      window.speechSynthesis.onvoiceschanged = populateVoices;
+    }
+  }
+
+  function findBestVoice(langTag) {
+    if (!availableVoices.length) populateVoices();
+    if (!availableVoices.length) return null;
+
+    const normalizedTag = (langTag || 'en-US').toLowerCase().replace('_', '-');
+    const primaryLang = normalizedTag.split('-')[0];
+
+    // 1. Exact match (e.g. ja-JP === ja-JP)
+    let matched = availableVoices.find(v => (v.lang || '').toLowerCase().replace('_', '-') === normalizedTag);
+    if (matched) return matched;
+
+    // 2. Prefix match (e.g. ja-* matches ja-JP)
+    matched = availableVoices.find(v => (v.lang || '').toLowerCase().startsWith(primaryLang));
+    if (matched) return matched;
+
+    // 3. Fallback: match by voice name containing language
+    matched = availableVoices.find(v => (v.name || '').toLowerCase().includes(primaryLang));
+    if (matched) return matched;
+
+    // 4. Fallback: default voice
+    return availableVoices.find(v => v.default) || availableVoices[0] || null;
+  }
 
   FEARN.audio = {
     getRate() { return currentSpeechRate; },
@@ -455,6 +496,7 @@
       try {
         if (typeof window !== 'undefined' && window.speechSynthesis) {
           window.speechSynthesis.cancel();
+          activeUtterances.clear();
         }
       } catch (e) {}
     },
@@ -463,11 +505,38 @@
         if (typeof window === 'undefined' || !window.speechSynthesis) {
           return false;
         }
+
+        // Unfreeze stuck synthesis queue common in desktop Chromium
+        if (window.speechSynthesis.paused) {
+          window.speechSynthesis.resume();
+        }
         window.speechSynthesis.cancel();
+
+        const langTag = AUDIO_LANG_TAGS[langKey] || 'en-US';
         const utter = new SpeechSynthesisUtterance(text);
-        utter.lang = AUDIO_LANG_TAGS[langKey] || 'en-US';
+        utter.lang = langTag;
         utter.rate = currentSpeechRate || 0.9;
-        window.speechSynthesis.speak(utter);
+
+        const bestVoice = findBestVoice(langTag);
+        if (bestVoice) {
+          utter.voice = bestVoice;
+        }
+
+        // Prevent Chrome/Edge desktop garbage collector from dropping utterance mid-speech
+        activeUtterances.add(utter);
+        utter.onend = function () { activeUtterances.delete(utter); };
+        utter.onerror = function () { activeUtterances.delete(utter); };
+
+        // 10ms micro-delay prevents Chromium cancel() race condition from killing new utterance
+        setTimeout(function () {
+          try {
+            if (window.speechSynthesis.paused) window.speechSynthesis.resume();
+            window.speechSynthesis.speak(utter);
+          } catch (speakErr) {
+            console.warn('FEARN.audio speak dispatch error:', speakErr);
+          }
+        }, 12);
+
         return true;
       } catch (err) {
         console.warn('FEARN.audio.speak error:', err);

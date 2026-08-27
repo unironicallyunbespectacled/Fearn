@@ -97,6 +97,7 @@
           <span class="fearn-clock-time">--:--:--</span>
         </button>
         <button id="celebrate-toggle-btn" class="fearn-btn fearn-btn--icon" type="button" title="Toggle checkpoint celebrations">🎉</button>
+        <button id="fearn-focus-btn" class="fearn-btn fearn-btn--icon" type="button" title="Toggle Brown Noise (Cabin Focus)">🎧</button>
         <button id="telemetry-dossier-btn" class="fearn-btn" type="button" title="View nanosecond activity timeline & export PDF">📊 Daily Journal</button>
         <button id="fearn-home-btn" class="fearn-home-nav-btn" type="button" title="Return to Dashboard (Home)">🏠</button>
         <button id="journey-mode-btn" class="fearn-btn" type="button">🧭 Journey Mode</button>
@@ -1045,6 +1046,19 @@
     // there's no equivalent "passed" signal to key off there.
     // -----------------------------------------------------------------
     (function setUpCheckpointCelebration() {
+      var focusBtn = document.getElementById('fearn-focus-btn');
+      if (focusBtn) {
+        focusBtn.addEventListener('click', function () {
+          if (window.FEARN && window.FEARN.focus) {
+            var isPlaying = window.FEARN.focus.toggle('brown');
+            focusBtn.classList.toggle('is-active', isPlaying);
+            focusBtn.style.color = isPlaying ? '#38bdf8' : '';
+            focusBtn.style.borderColor = isPlaying ? '#38bdf8' : '';
+            focusBtn.title = isPlaying ? 'Cabin Focus Noise: ON (Click to Mute)' : 'Cabin Focus Noise: OFF (Click to Start)';
+          }
+        });
+      }
+
       var celebrateBtn = document.getElementById('celebrate-toggle-btn');
       function syncCelebrateBtn() {
         var enabled = window.FEARN.storage.get('shell:celebrationsEnabled', true);
