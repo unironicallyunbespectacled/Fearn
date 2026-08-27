@@ -452,12 +452,17 @@
       if (reduceMotion) return;
 
       const canvas = document.createElement('canvas');
+      if (!canvas || typeof canvas.getContext !== 'function') return;
       canvas.className = 'fearn-celebrate-canvas';
-      canvas.width = window.innerWidth;
-      canvas.height = window.innerHeight;
+      canvas.width = window.innerWidth || 1024;
+      canvas.height = window.innerHeight || 768;
       document.body.appendChild(canvas);
       const ctx2d = canvas.getContext('2d');
-      if (!ctx2d) { canvas.remove(); return; }
+      if (!ctx2d) {
+        if (typeof canvas.remove === 'function') canvas.remove();
+        else if (canvas.parentNode) canvas.parentNode.removeChild(canvas);
+        return;
+      }
 
       const colors = ['#12e6c8', '#4fb0ff', '#b26bff', '#ff5fa8', '#ffd76a', '#33e39a'];
       const pieces = [];
@@ -475,51 +480,63 @@
         });
       }
 
-      const start = performance.now();
+      const start = typeof performance !== 'undefined' && performance.now ? performance.now() : Date.now();
       const durationMs = 2200;
       function frame(now) {
-        const elapsed = now - start;
+        const elapsed = (now || Date.now()) - start;
+        if (elapsed > durationMs) {
+          if (typeof canvas.remove === 'function') canvas.remove();
+          else if (canvas.parentNode) canvas.parentNode.removeChild(canvas);
+          return;
+        }
         ctx2d.clearRect(0, 0, canvas.width, canvas.height);
         pieces.forEach((p) => {
           p.x += p.vx;
           p.y += p.vy;
-          p.vy += 0.045; // gravity
           p.rot += p.vrot;
           ctx2d.save();
           ctx2d.translate(p.x, p.y);
           ctx2d.rotate(p.rot);
           ctx2d.fillStyle = p.color;
-          ctx2d.fillRect(-p.size / 2, -p.size / 4, p.size, p.size / 2);
+          ctx2d.fillRect(-p.size / 2, -p.size / 2, p.size, p.size);
           ctx2d.restore();
         });
-        if (elapsed < durationMs) {
+        if (typeof requestAnimationFrame === 'function') {
           requestAnimationFrame(frame);
-        } else {
-          canvas.remove();
         }
       }
-      requestAnimationFrame(frame);
+      if (typeof requestAnimationFrame === 'function') {
+        requestAnimationFrame(frame);
+      }
     } catch (err) {
-      console.error('FEARN.ui.celebrateCheckpoint: confetti render failed', err);
+      console.warn('FEARN.ui.celebrateCheckpoint: confetti notice', err);
     }
   }
 
   function __showToast(message) {
     try {
-      const toast = el('div', 'fearn-celebrate-toast', null);
+      const toast = el('div', 'fearn-celebrate-toast');
       toast.innerHTML =
         '<span class="fearn-celebrate-toast-icon">✨</span>' +
         '<span>' + escapeHtml(message) + '</span>';
       toast.title = 'Click to dismiss';
-      toast.addEventListener('click', () => toast.remove());
+      function removeToast() {
+        if (toast && typeof toast.remove === 'function') toast.remove();
+        else if (toast && toast.parentNode) toast.parentNode.removeChild(toast);
+      }
+      toast.addEventListener('click', removeToast);
       document.body.appendChild(toast);
-      requestAnimationFrame(() => toast.classList.add('is-visible'));
+      if (typeof requestAnimationFrame === 'function') {
+        requestAnimationFrame(() => {
+          if (toast && toast.classList) toast.classList.add('is-visible');
+        });
+      }
       setTimeout(() => {
-        toast.classList.remove('is-visible');
-        setTimeout(() => toast.remove(), 400);
+        if (toast && toast.classList) toast.classList.remove('is-visible');
+        setTimeout(removeToast, 400);
       }, 2600);
     } catch (err) {
-      console.error('FEARN.ui.celebrateCheckpoint: toast render failed', err);
+      console.warn('FEARN.ui.celebrateCheckpoint: toast notice', err);
     }
   }
 

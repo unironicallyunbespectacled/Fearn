@@ -2005,10 +2005,22 @@
     // 4. Vault Export & Import (Cross-Device Sync Without Cloud)
     window.exportVaultData = function () {
       var data = {};
-      for (var i = 0; i < localStorage.length; i++) {
-        var key = localStorage.key(i);
-        data[key] = localStorage.getItem(key);
+      try {
+        for (var i = 0; i < localStorage.length; i++) {
+          var key = localStorage.key(i);
+          if (key) {
+            data[key] = localStorage.getItem(key);
+          }
+        }
+        Object.keys(localStorage).forEach(function (k) {
+          if (k && data[k] === undefined && typeof localStorage.getItem === 'function') {
+            data[k] = localStorage.getItem(k);
+          }
+        });
+      } catch (e) {
+        console.warn('Vault export iteration notice:', e);
       }
+
       var jsonStr = JSON.stringify(data, null, 2);
       var blob = new Blob([jsonStr], { type: 'application/json' });
       var url = URL.createObjectURL(blob);
@@ -2018,8 +2030,11 @@
       a.download = 'fearn-vault-backup-' + dateStr + '.json';
       document.body.appendChild(a);
       a.click();
-      document.body.removeChild(a);
-      URL.revokeObjectURL(url);
+      setTimeout(function () {
+        if (a.parentNode) document.body.removeChild(a);
+        URL.revokeObjectURL(url);
+      }, 100);
+
       if (window.FEARN && window.FEARN.ui && typeof window.FEARN.ui.celebrateCheckpoint === 'function') {
         window.FEARN.ui.celebrateCheckpoint({ message: '📥 Vault Backup exported successfully!' });
       } else {
@@ -2041,7 +2056,12 @@
           var imported = JSON.parse(e.target.result);
           if (typeof imported === 'object' && imported !== null) {
             Object.keys(imported).forEach(function (k) {
-              localStorage.setItem(k, imported[k]);
+              var val = imported[k];
+              if (typeof val === 'object' && val !== null) {
+                localStorage.setItem(k, JSON.stringify(val));
+              } else {
+                localStorage.setItem(k, String(val));
+              }
             });
             alert('Vault successfully restored! Reloading application with your learning progress...');
             window.location.reload();
