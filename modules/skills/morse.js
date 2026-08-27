@@ -125,7 +125,7 @@
       const def = findUnitDef(u.id);
       const total = (def && def.lessons) ? def.lessons.length : 0;
       const doneCount = (def && def.lessons) ? def.lessons.filter((id) => authoredSet.has(id)).length : 0;
-      rows.push('<div class="fjf-unit">[' + escapeHtml(u.level) + '] ' + escapeHtml(u.label) + ' — ' + doneCount + '/' + total + ' lessons ready</div>');
+      rows.push('<div class="fjf-unit"><span class="fearn-cefr-pill" style="font-size:0.72rem; font-weight:800; padding:2px 6px; border-radius:4px; background:rgba(56,189,248,0.12); color:#38bdf8; margin-right:6px;">' + escapeHtml(u.level) + '</span>' + escapeHtml(u.label) + ' — ' + doneCount + '/' + total + ' lessons ready</div>');
     });
     wrap.innerHTML = rows.join('');
     container.appendChild(wrap);
@@ -219,8 +219,15 @@
   function renderLessonPresentation(container, lesson) {
     const box = document.createElement('div');
     box.className = 'fearn-lesson-presentation';
+    const uDef = findUnitDef(lesson.unit);
+    const uName = uDef ? (uDef.name || uDef.title || ('Unit ' + (uDef.unit || '1'))) : String(lesson.unit || '').replace(/^[a-z]+-u/i, 'Unit ');
+    const formattedLevel = String(lesson.level || 'Beginner').replace(/^./, (c) => c.toUpperCase());
+
     box.innerHTML = `
-      <h3>${escapeHtml(lesson.unit)} · ${escapeHtml(lesson.level)}</h3>
+      <div style="display:flex; align-items:center; gap:8px; margin-bottom:12px; flex-wrap:wrap;">
+        <span style="font-size:0.75rem; font-weight:800; padding:3px 8px; border-radius:6px; background:rgba(56,189,248,0.15); color:#38bdf8; border:1px solid rgba(56,189,248,0.3); text-transform:uppercase; letter-spacing:0.05em;">${escapeHtml(formattedLevel)}</span>
+        <h3 style="margin:0; font-size:1.15rem; font-weight:700; color:#f8fafc;">${escapeHtml(uName)}</h3>
+      </div>
       <p class="fearn-objective"><strong>Goal:</strong> ${escapeHtml(lesson.objective)}</p>
       <p>${escapeHtml(lesson.presentation.explanation)}</p>
       <div class="fearn-examples">

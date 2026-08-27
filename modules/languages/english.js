@@ -552,7 +552,7 @@
 
     var header = document.createElement('h3');
     header.className = 'fearn-lang-unit-header';
-    header.textContent = '[' + uLevel + '] ' + uTitle;
+    header.innerHTML = '<span class="fearn-cefr-pill" style="font-size:0.75rem; font-weight:800; padding:3px 8px; border-radius:6px; background:rgba(56,189,248,0.15); color:#38bdf8; border:1px solid rgba(56,189,248,0.3); text-transform:uppercase; letter-spacing:0.05em; margin-right:8px;">' + escapeHtml(uLevel) + '</span>' + escapeHtml(uTitle);
     container.appendChild(header);
 
     var goal = document.createElement('p');
@@ -649,7 +649,7 @@
           var u = document.createElement('div');
           u.className = 'fearn-lang-fallback-unit';
           var title = document.createElement('b');
-          title.textContent = '[' + unit.level + '] ' + unit.title;
+          title.innerHTML = '<span class="fearn-cefr-pill" style="font-size:0.72rem; font-weight:800; padding:2px 7px; border-radius:5px; background:rgba(56,189,248,0.12); color:#38bdf8; border:1px solid rgba(56,189,248,0.25); text-transform:uppercase; margin-right:6px;">' + escapeHtml(unit.level) + '</span>' + escapeHtml(unit.title || unit.name || ('Unit ' + (unit.unit || '')));
           u.appendChild(title);
           fallback.appendChild(u);
         });
