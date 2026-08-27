@@ -877,11 +877,13 @@
       });
     }
 
-    document.getElementById('anki-log-btn').addEventListener('click', function () {
+    document.getElementById('anki-log-btn').addEventListener('click', function (e) {
+      e.stopPropagation();
       window.FEARN.streak.logExternal('anki');
       renderStreaks();
     });
-    document.getElementById('wanikani-log-btn').addEventListener('click', function () {
+    document.getElementById('wanikani-log-btn').addEventListener('click', function (e) {
+      e.stopPropagation();
       window.FEARN.streak.logExternal('wanikani');
       renderStreaks();
     });

@@ -1,0 +1,81 @@
+From a90db4a7a551821870861a175c561811f9cf8190 Mon Sep 17 00:00:00 2001
+From: Claude <noreply@anthropic.com>
+Date: Thu, 27 Aug 2026 21:22:23 +0000
+Subject: [PATCH 2/2] docs(audit): document systemic fake/templated content in
+ 9 language courses
+
+Deep-dive scan found Amharic, Cantonese, French, Hindi, Korean, Mandarin,
+Swahili, Ukrainian, and Urdu (~7,600 lessons combined) have generic,
+mismatched template content across explanations, examples, mnemonics,
+cultural notes, and quiz items, plus leaked internal keyword IDs in
+typed-recall prompts. Ledgers falsely mark all of it as fully authored.
+Documented only per user's direction; content not modified this session.
+---
+ REPORTS/FEARN_AUDIT_2026-08-27.md | 51 +++++++++++++++++++++++++++++++
+ 1 file changed, 51 insertions(+)
+
+diff --git a/REPORTS/FEARN_AUDIT_2026-08-27.md b/REPORTS/FEARN_AUDIT_2026-08-27.md
+index df738ef..232f29b 100644
+--- a/REPORTS/FEARN_AUDIT_2026-08-27.md
++++ b/REPORTS/FEARN_AUDIT_2026-08-27.md
+@@ -129,6 +129,57 @@ turned up:
+   the single largest remaining content-quality issue in Fearn — it
+   affects roughly 1,020 lessons across those six languages.
+ 
++## Follow-up deep dive: systemic fake content in 9 language courses
++
++Prompted by a request to verify every lesson/quiz/exam across Fearn is
++distinct and has substantial content, I scanned all 29 curricula files
++for duplicate/generic text at scale (not just the boilerplate-prefix
++pattern already fixed above). Result:
++
++**Amharic, Cantonese, French, Hindi, Korean, Mandarin, Swahili,
++Ukrainian, and Urdu — 850 lessons each, ~7,600+ lessons combined — are
++not real lesson content.** Verified directly by reading raw lesson
++objects (not just counting duplicates). Example: Mandarin lesson
++`zh-u1-l1`, objective "Comprehensive mastery of 汉语拼音与日常问候
++(Pinyin & Basic Greetings)":
++
++- `presentation.explanation` — generic template sentence restating the
++  lesson title, no real grammar content.
++- `presentation.examples` — three sentences about a teacher explaining
++  syntax in a media classroom, borrowing academic journals from a
++  library, and a city's transit network — **none relate to greetings or
++  pinyin**, the lesson's actual topic.
++- `presentation.mnemonics` — literally the string `"Key cognitive anchor
++  for 汉语拼音与日常问候 (Pinyin & Basic Greetings)"`, not an actual
++  mnemonic.
++- `presentation.culturalNotes` — literally `"Cultural nuance and
++  communicative etiquette in Mandarin."` for every lesson.
++- `checkpointTest` multiple-choice item — asks about the lesson's
++  grammar, but the three answer options are unrelated filler sentences
++  (a UN summit declaration, high-speed rail punctuality, an AI/quantum
++  computing conference) with no connection to the lesson topic, so the
++  "correct" answer is arbitrary rather than testing anything real.
++- `checkpointTest` typed-recall item — asks the learner to type
++  `你好_1_1`, a raw internal disambiguation ID leaking into user-facing
++  text instead of the clean word `你好`.
++
++Confirmed the identical failure shape (generic mismatched explanation +
++mismatched examples + fake mnemonic/cultural-notes placeholders + fake
++quiz distractors + leaked `word_N_N` IDs) recurs across all 9 languages,
++850 lessons apiece, and is absent from the other 20 subjects (Japanese,
++Spanish, German, Turkish, English, etc. — those are genuinely authored,
++aside from the boilerplate-prefix issue already fixed above). Also
++confirmed each of these 9 languages' `.ledger.js` file falsely claims
++every lesson is `"authoredInFull"` with `"stubOnly": []` — the app has no
++internal record that this content isn't real, so it presents as complete
++courses.
++
++**Disposition:** raised this with the user directly. Given the scale
++(properly fixing this means authoring ~7,600 real, on-topic lessons
++across 9 languages — a large content project, not a mechanical bug fix),
++they asked to leave the content as-is for now and just have it
++documented here. Not touched in this session.
++
+ ## Broader sweep performed (clean)
+ 
+ - `node --check` on every root-level `.js` file (`engine.js`,
+-- 
+2.43.0
+

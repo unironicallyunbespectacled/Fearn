@@ -971,43 +971,67 @@ th, td {
 
 /* Theme Adaptation for Sovereign Vault & Backup Buttons */
 body.env-solar .fearn-vault-box,
-body[data-env="solar"] .fearn-vault-box {
+body.env-sunlight .fearn-vault-box,
+body[data-env="solar"] .fearn-vault-box,
+body[data-env="sunlight"] .fearn-vault-box {
   background: rgba(241, 245, 249, 0.85) !important;
   border-color: rgba(203, 213, 225, 0.8) !important;
 }
 body.env-solar .fearn-vault-title,
-body[data-env="solar"] .fearn-vault-title {
+body.env-sunlight .fearn-vault-title,
+body[data-env="solar"] .fearn-vault-title,
+body[data-env="sunlight"] .fearn-vault-title {
   color: #0f172a !important;
 }
 body.env-solar .fearn-btn-backup,
-body[data-env="solar"] .fearn-btn-backup {
+body.env-sunlight .fearn-btn-backup,
+body[data-env="solar"] .fearn-btn-backup,
+body[data-env="sunlight"] .fearn-btn-backup {
   background: #e2e8f0 !important;
   border-color: #cbd5e1 !important;
   color: #334155 !important;
 }
 body.env-solar .fearn-btn-backup:hover,
-body[data-env="solar"] .fearn-btn-backup:hover {
+body.env-sunlight .fearn-btn-backup:hover,
+body[data-env="solar"] .fearn-btn-backup:hover,
+body[data-env="sunlight"] .fearn-btn-backup:hover {
   background: #cbd5e1 !important;
   color: #0f172a !important;
 }
 
 body.env-sepia .fearn-vault-box,
-body[data-env="sepia"] .fearn-vault-box {
+body.env-vesper .fearn-vault-box,
+body.env-twilight .fearn-vault-box,
+body[data-env="sepia"] .fearn-vault-box,
+body[data-env="vesper"] .fearn-vault-box,
+body[data-env="twilight"] .fearn-vault-box {
   background: rgba(244, 228, 193, 0.7) !important;
   border-color: rgba(212, 190, 142, 0.8) !important;
 }
 body.env-sepia .fearn-vault-title,
-body[data-env="sepia"] .fearn-vault-title {
+body.env-vesper .fearn-vault-title,
+body.env-twilight .fearn-vault-title,
+body[data-env="sepia"] .fearn-vault-title,
+body[data-env="vesper"] .fearn-vault-title,
+body[data-env="twilight"] .fearn-vault-title {
   color: #433422 !important;
 }
 body.env-sepia .fearn-btn-backup,
-body[data-env="sepia"] .fearn-btn-backup {
+body.env-vesper .fearn-btn-backup,
+body.env-twilight .fearn-btn-backup,
+body[data-env="sepia"] .fearn-btn-backup,
+body[data-env="vesper"] .fearn-btn-backup,
+body[data-env="twilight"] .fearn-btn-backup {
   background: #ebd7ab !important;
   border-color: #d4be8e !important;
   color: #5c4730 !important;
 }
 body.env-sepia .fearn-btn-backup:hover,
-body[data-env="sepia"] .fearn-btn-backup:hover {
+body.env-vesper .fearn-btn-backup:hover,
+body.env-twilight .fearn-btn-backup:hover,
+body[data-env="sepia"] .fearn-btn-backup:hover,
+body[data-env="vesper"] .fearn-btn-backup:hover,
+body[data-env="twilight"] .fearn-btn-backup:hover {
   background: #dfc896 !important;
   color: #382818 !important;
 }

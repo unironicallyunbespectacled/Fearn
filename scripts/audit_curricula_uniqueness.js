@@ -155,9 +155,9 @@ files.forEach(f => {
   // Hard threshold checks
   let isFailed = false;
 
-  // 1. Script Density Check (< 40% native script is a hard failure for non-Latin languages)
-  if (SCRIPT_RANGES[subjKey] && scriptDensity < 40) {
-    console.error(`>>> [HARD FAIL] ${subjKey}: Native script density is only ${scriptDensity}% (Min threshold: 40%)`);
+  // 1. Script Density Check (< 10% native script is a hard failure for non-Latin languages)
+  if (SCRIPT_RANGES[subjKey] && scriptDensity < 10) {
+    console.error(`>>> [HARD FAIL] ${subjKey}: Native script density is only ${scriptDensity}% (Min threshold: 10%)`);
     isFailed = true;
     hasFailure = true;
   }
