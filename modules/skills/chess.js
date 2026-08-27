@@ -455,7 +455,9 @@
       qCard.appendChild(nextBtn);
 
       box.appendChild(qCard);
-      setTimeout(() => input.focus(), 50);
+      if (input && typeof input.focus === 'function') {
+        setTimeout(() => { try { input.focus(); } catch(e){} }, 50);
+      }
     }
 
     function advanceQ() {

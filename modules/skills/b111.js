@@ -36,7 +36,6 @@
 
   function formatRich(s) {
     return (global.FEARN && global.FEARN.formatText) ? global.FEARN.formatText(s) : escapeHtml(s);
-  }[c]));
   }
 
   function markLessonComplete(lessonId) {

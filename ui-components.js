@@ -286,7 +286,9 @@
       const levelLabels = options.levelLabels;
 
       container.innerHTML = '';
-      container.classList.add('fearn-journey-path');
+      if (container.classList && typeof container.classList.add === 'function') {
+        container.classList.add('fearn-journey-path');
+      }
 
       if (units.length === 0) {
         const empty = el('div', 'fearn-journey-empty');
