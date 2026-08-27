@@ -3603,62 +3603,184 @@ button.fearn-lang-btn-primary:hover:not(:disabled) {
   gap: 6px;
   transition: all 0.2s ease;
 }
-.fearn-btn-backup:hover {
-  background: rgba(56, 189, 248, 0.12);
-  border-color: rgba(56, 189, 248, 0.4);
-  color: #38bdf8;
+.fearn-footer-inner {
+  max-width: 1200px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+.fearn-footer-text {
+  font-size: 0.8rem;
+  color: var(--text-faint, #64748b);
+  letter-spacing: 0.04em;
+}
+
+.fearn-discreet-reset-btn {
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  color: #94a3b8;
+  padding: 6px 14px;
+  border-radius: 6px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  cursor: pointer;
+  transition: all 0.25s ease;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  opacity: 0.7;
+}
+
+.fearn-discreet-reset-btn:hover {
+  background: rgba(239, 68, 68, 0.12);
+  border-color: rgba(239, 68, 68, 0.4);
+  color: #fca5a5;
+  opacity: 1;
   transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(239, 68, 68, 0.2);
 }
 
+/* Floating celebratory emojis animation */
+.gate-floating-emoji {
+  position: absolute;
+  font-size: 1.8rem;
+  user-select: none;
+  pointer-events: none;
+  animation: emojiFloatUp linear infinite;
+}
 
-/* Responsive Mobile & Touch Enhancements for Footer Actions */
-@media (max-width: 768px) {
-  .fearn-app-footer {
-    margin-top: 36px;
-    padding: 20px 16px calc(28px + env(safe-area-inset-bottom, 16px));
+@keyframes emojiFloatUp {
+  0% {
+    transform: translateY(105vh) rotate(0deg) scale(0.6);
+    opacity: 0;
   }
-  .fearn-footer-inner {
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-    gap: 14px;
-    width: 100%;
+  15% {
+    opacity: 0.9;
   }
-  .fearn-footer-actions {
-    display: flex;
-    justify-content: center;
-    width: 100%;
-    max-width: 420px;
-    gap: 10px;
+  85% {
+    opacity: 0.9;
   }
-  .fearn-btn-backup {
-    flex: 1;
-    min-height: 44px;
-    justify-content: center;
-    font-size: 0.82rem;
-    font-weight: 700;
-    padding: 10px 14px;
-    border-radius: 9999px;
-    background: rgba(15, 23, 42, 0.7);
-    border: 1px solid rgba(255, 255, 255, 0.16);
-    backdrop-filter: blur(14px);
-    -webkit-backdrop-filter: blur(14px);
-  }
-  .fearn-discreet-reset-btn {
-    min-height: 38px;
-    justify-content: center;
-    padding: 8px 18px;
-    border-radius: 9999px;
-    background: rgba(15, 23, 42, 0.5);
+  100% {
+    transform: translateY(-10vh) rotate(360deg) scale(1.1);
+    opacity: 0;
   }
 }
 
 
-/* Sovereign Vault & Master Footer Redesign */
+/* ==========================================================================
+   FLIGHT SUITE: PWA STATUS, AUDIO RATE, FOCUS SOUND & VAULT BACKUP
+   ========================================================================== */
+
+/* PWA Live Offline Status Badge */
+.fearn-status-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 5px 12px;
+  border-radius: 9999px;
+  font-size: 0.76rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  background: rgba(16, 185, 129, 0.12);
+  color: #34d399;
+  border: 1px solid rgba(16, 185, 129, 0.3);
+  backdrop-filter: blur(12px);
+  user-select: none;
+  transition: all 0.3s ease;
+}
+.fearn-status-pill.offline-active {
+  background: rgba(56, 189, 248, 0.14);
+  color: #38bdf8;
+  border-color: rgba(56, 189, 248, 0.4);
+}
+.fearn-status-dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: #10b981;
+  box-shadow: 0 0 8px #10b981;
+  animation: pulseDot 2s infinite alternate;
+}
+.fearn-status-pill.offline-active .fearn-status-dot {
+  background: #38bdf8;
+  box-shadow: 0 0 8px #38bdf8;
+}
+@keyframes pulseDot {
+  0% { transform: scale(0.9); opacity: 0.7; }
+  100% { transform: scale(1.2); opacity: 1; }
+}
+
+/* Audio Speech Rate Controller */
+.fearn-audio-rate-picker {
+  display: inline-flex;
+  align-items: center;
+  background: rgba(15, 23, 42, 0.6);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 9999px;
+  padding: 2px 4px;
+  gap: 2px;
+  margin-left: 8px;
+}
+.fearn-rate-btn {
+  background: transparent;
+  border: none;
+  color: var(--text-sub, #94a3b8);
+  font-size: 0.72rem;
+  font-weight: 700;
+  padding: 3px 8px;
+  border-radius: 9999px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+.fearn-rate-btn.active, .fearn-rate-btn:hover {
+  background: rgba(56, 189, 248, 0.2);
+  color: #38bdf8;
+}
+
+/* Focus Sound Cabin Canceller Bar */
+.fearn-focus-bar {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: rgba(15, 23, 42, 0.7);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 9999px;
+  padding: 4px 12px;
+  backdrop-filter: blur(12px);
+  font-size: 0.8rem;
+  color: #cbd5e1;
+}
+.fearn-focus-btn {
+  background: rgba(56, 189, 248, 0.12);
+  border: 1px solid rgba(56, 189, 248, 0.3);
+  color: #38bdf8;
+  font-size: 0.76rem;
+  font-weight: 700;
+  padding: 4px 10px;
+  border-radius: 9999px;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  transition: all 0.25s ease;
+}
+.fearn-focus-btn.playing {
+  background: #0284c7;
+  color: #ffffff;
+  border-color: #38bdf8;
+  box-shadow: 0 0 12px rgba(56, 189, 248, 0.5);
+}
+
+/* Sovereign Vault & Master Footer */
 .fearn-app-footer {
-  margin-top: 60px;
-  padding: 30px 20px calc(40px + env(safe-area-inset-bottom, 20px));
-  border-top: 1px solid rgba(255, 255, 255, 0.08);
+  margin-top: 48px;
+  padding: 24px 16px calc(36px + env(safe-area-inset-bottom, 16px));
+  border-top: 1px solid rgba(255, 255, 255, 0.06);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -3666,78 +3788,82 @@ button.fearn-lang-btn-primary:hover:not(:disabled) {
 }
 
 .fearn-footer-inner {
-  max-width: 640px;
+  max-width: 560px;
   width: 100%;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 20px;
-}
-
-.fearn-vault-box {
-  width: 100%;
-  background: rgba(15, 23, 42, 0.65);
-  border: 1px solid rgba(56, 189, 248, 0.2);
-  border-radius: 20px;
-  padding: 20px 24px;
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
-  backdrop-filter: blur(16px);
-  -webkit-backdrop-filter: blur(16px);
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 16px;
+}
+
+.fearn-vault-box {
+  width: 100%;
+  background: rgba(15, 23, 42, 0.55);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 12px;
+  padding: 16px 20px;
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
   text-align: center;
 }
 
+.fearn-vault-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+}
+
 .fearn-vault-title {
-  font-size: 1rem;
-  font-weight: 800;
-  color: #38bdf8;
+  font-size: 0.92rem;
+  font-weight: 700;
+  color: #e2e8f0;
   letter-spacing: 0.02em;
 }
 
 .fearn-vault-subtitle {
-  font-size: 0.8rem;
-  color: #94a3b8;
-  margin-top: 2px;
+  font-size: 0.78rem;
+  color: #64748b;
 }
 
 .fearn-footer-actions {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 12px;
+  gap: 10px;
   width: 100%;
-  max-width: 440px;
+  max-width: 400px;
 }
 
 .fearn-btn-backup {
   flex: 1;
-  min-height: 44px;
-  background: rgba(56, 189, 248, 0.12);
-  border: 1.5px solid rgba(56, 189, 248, 0.35);
-  color: #f8fafc;
-  font-size: 0.88rem;
-  font-weight: 700;
-  padding: 10px 16px;
-  border-radius: 9999px;
+  min-height: 38px;
+  background: rgba(30, 41, 59, 0.6) !important;
+  border: 1px solid rgba(255, 255, 255, 0.1) !important;
+  color: #cbd5e1 !important;
+  font-size: 0.82rem;
+  font-weight: 600;
+  padding: 8px 14px;
+  border-radius: 8px;
   cursor: pointer;
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  gap: 8px;
+  gap: 6px;
   transition: all 0.2s ease;
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  box-shadow: none !important;
 }
 
 .fearn-btn-backup:hover,
 .fearn-btn-backup:active {
-  background: rgba(56, 189, 248, 0.25);
-  border-color: #38bdf8;
-  color: #ffffff;
-  transform: translateY(-2px);
-  box-shadow: 0 6px 20px rgba(56, 189, 248, 0.3);
+  background: rgba(56, 189, 248, 0.15) !important;
+  border-color: rgba(56, 189, 248, 0.4) !important;
+  color: #38bdf8 !important;
+  transform: translateY(-1px);
 }
 
 .fearn-footer-bottom-row {
@@ -3746,44 +3872,44 @@ button.fearn-lang-btn-primary:hover:not(:disabled) {
   justify-content: space-between;
   width: 100%;
   flex-wrap: wrap;
-  gap: 12px;
-  padding: 0 8px;
+  gap: 10px;
+  padding: 0 4px;
 }
 
 .fearn-footer-text {
-  font-size: 0.78rem;
+  font-size: 0.75rem;
   color: #64748b;
   font-weight: 500;
 }
 
 .fearn-discreet-reset-btn {
-  background: rgba(255, 255, 255, 0.04);
-  border: 1px solid rgba(255, 255, 255, 0.1);
-  color: #94a3b8;
-  padding: 6px 14px;
-  border-radius: 9999px;
-  font-size: 0.75rem;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  color: #64748b;
+  padding: 5px 12px;
+  border-radius: 6px;
+  font-size: 0.72rem;
   font-weight: 600;
   cursor: pointer;
   transition: all 0.2s ease;
   display: inline-flex;
   align-items: center;
-  gap: 6px;
+  gap: 5px;
 }
 
 .fearn-discreet-reset-btn:hover {
-  background: rgba(239, 68, 68, 0.15);
-  border-color: rgba(239, 68, 68, 0.4);
-  color: #fca5a5;
+  background: rgba(239, 68, 68, 0.12);
+  border-color: rgba(239, 68, 68, 0.35);
+  color: #f87171;
 }
 
 @media (max-width: 600px) {
   .fearn-footer-actions {
     flex-direction: row;
-    gap: 10px;
+    gap: 8px;
   }
   .fearn-vault-box {
-    padding: 16px 14px;
+    padding: 14px 12px;
   }
   .fearn-footer-bottom-row {
     flex-direction: column;
