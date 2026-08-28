@@ -17599,56 +17599,73 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u32-l5"
+            ]
         },
         "presentation": {
-            "explanation": "Mastery analysis of Le Passé Simple : Morphologie et Usage Littéraire. At the C2 summit level, the learner demonstrates near-native linguistic agility, flawless stylistic sophistication, and profound rhetorical command over le passé simple : morphologie et usage littéraire.",
+            "explanation": "The passé simple is the quintessential narrative tense of French classical and modern literature. At the C2 summit, mastery requires complete active command of all verb families:\n\n1. Morphological Classes:\n- Terminaisons en -a (1er groupe) : parla, chantèrent.\n- Terminaisons en -i (2e et 3e groupes) : prit, fit, vit, écrivit, naquit, résolut, vainquit.\n- Terminaisons en -u (3e groupe) : fut, eut, sut, voulut, put, connut, courut, mourut, vécut.\n- Terminaisons en -in (tenir, venir) : tint, vint, tinrent, vinrent, tînmes, vînmes.\n\n2. Literary Function: Perfective aspect, rapid narrative progression, and aesthetic framing against the imparfait.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "À peine le marquis eut-il franchi le seuil du salon qu'il aperçut l'enveloppe cachetée et la prit avec tremblement.",
+                    "reading": "ah pen luh mahr-kee oo-teel frahn-shee luh suhy doo sah-lohn keel ah-pair-soo lahn-vuh-lohp kahsh-tay ay lah pree ah-vek trahn-bluh-mahn",
+                    "translation": "Scarcely had the marquis crossed the salon threshold when he caught sight of the sealed envelope and took it with trembling hands."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Napoléon naquit en Corse, conquit l'Europe à la tête de ses armées, mais connut la défaite finale à Waterloo.",
+                    "reading": "nah-poh-lay-ohn nah-kee ahn kohrss, kohn-kee luh-rohp ah lah tet duh say zahr-may, meh koh-noo lah day-fet fee-nahl ah vah-tair-loh",
+                    "translation": "Napoleon was born in Corsica, conquered Europe at the head of his armies, but met his final defeat at Waterloo."
+                },
+                {
+                    "target": "Ils vécurent des années d'exil et d'amertume, mais ne cédèrent jamais sur leurs principes moraux.",
+                    "reading": "eel vay-koor day zah-nay dek-zeel ay dah-mair-toom, meh nuh say-dair zhah-meh soor luhr pran-seep moh-roh",
+                    "translation": "They lived through years of exile and bitterness, yet never yielded on their moral principles."
+                },
+                {
+                    "target": "Le souverain fit mander ses ministres, leur tint un discours empreint de gravité et résolut de signer le décret.",
+                    "reading": "luh soo-vran fee mahn-day say mee-nees-truh, luhr tan tuhn dees-koor ahn-pran duh grah-vee-tay ay ray-zoh-loo duh seen-yay luh day-kreh",
+                    "translation": "The sovereign summoned his ministers, delivered a grave address to them, and resolved to sign the decree."
+                },
+                {
+                    "target": "Lorsque la nouvelle parvint à la capitale, le peuple tressaillit d'émotion et courut vers la place publique.",
+                    "reading": "lohrs-kuh lah noo-vel pahr-van ah lah kah-pee-tahl, luh puh-pluh treh-sah-yee day-moh-syohn ay koo-roo vair lah plahs poo-bleek",
+                    "translation": "When the news reached the capital, the people shuddered with emotion and rushed toward the public square."
                 }
             ],
             "mnemonics": [
-                "Rhetorical mastery anchor for Le Passé Simple : Morphologie et Usage Littéraire"
+                "PASSÉ SIMPLE: -a (parla), -i (prit, fit, naquit), -u (fut, vécut, connut), -in (tint, vint)!"
             ],
             "culturalNotes": [
-                "High cultural and institutional significance of Le Passé Simple : Morphologie et Usage Littéraire in the Francophone world."
+                "Roland Barthes in Le Degré zéro de l'écriture (1953) analyzed the passé simple as the cornerstone of the French novelistic myth."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Master the literary Passé Simple across regular and irregular third-gr » :",
+                    "prompt": "Quelle est la forme correcte au passé simple (3e personne du singulier) du verbe « naître » ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (161a).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (161b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (161c)."
+                        "Il naquit",
+                        "Il naissa",
+                        "Il naquait",
+                        "Il est né"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Le verbe 'naître' forme son passé simple irrégulier en -i : il naquit, ils naquirent."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u33-l1 :",
+                    "prompt": "Quelle est la 3e personne du singulier au passé simple du verbe « vivre » ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "L'antériorité temporelle est mal établie par rapport au repère (161x).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (161y).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (161z)."
+                        "Il vécut",
+                        "Il vivit",
+                        "Il viva",
+                        "Il vivait"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C2."
+                    "explanation": "Le passé simple de 'vivre' appartient à la classe en -u : je vécus, tu vécus, il vécut, nous vécûmes, vous vécûtes, ils vécurent."
                 }
             ]
         },
@@ -17656,25 +17673,26 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u33-l1) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle est la forme au passé simple à la 3e personne du pluriel du verbe « tenir » ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'antériorité temporelle est mal établie par rapport au repère (161m).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (161n).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (161p)."
+                        "Ils tenaient",
+                        "Ils tinrent",
+                        "Ils tenurent",
+                        "Ils ont tenu"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 1,
+                    "explanation": "Le verbe 'tenir' prend la terminaison caractéristique en -in : ils tinrent."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u33-l1 (terme attendu : « Nous ») :",
+                    "prompt": "Conjuguez le verbe « résoudre » au passé simple à la 3e personne du singulier : (il _________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "résolut",
+                        "resolut",
+                        "Résolut",
+                        "Resolut"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "La forme correcte est « résolut »."
                 }
             ],
             "passThreshold": 0.8
@@ -17690,56 +17708,73 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u33-l1"
+            ]
         },
         "presentation": {
-            "explanation": "Mastery analysis of Le Subjonctif Imparfait et la Concordance Littéraire. At the C2 summit level, the learner demonstrates near-native linguistic agility, flawless stylistic sophistication, and profound rhetorical command over le subjonctif imparfait et la concordance littéraire.",
+            "explanation": "The subjonctif imparfait and subjonctif plus-que-parfait represent the height of classical syntax and tense concordance (la concordance des temps littéraire):\n\n1. Classical Concordance:\n- Proposition principale au passé -> subordonnée au Subjonctif Imparfait (simultanéité) ou Plus-que-parfait (antériorité).\n- « Je craignais qu'il ne vînt trop tard. »\n\n2. Morphologie (Accent circonflexe à la 3e personne du singulier) :\n- qu'il parlât, qu'il finît, qu'il prît, qu'il fît, qu'il voulût, qu'il fût, qu'il eût.\n\n3. Conditionnel passé 2e forme : « Si j'avais su, j'eusse agi autrement. »",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Bien qu'il fût épuisé par une nuit de labeur, le savant refusa de suspendre ses observations télescopiques.",
+                    "reading": "byan keel foo tay-pwee-zay pahr oon nwee duh lah-buhr, luh sah-vahn ruh-foo-zah duh soos-pahn-druh say zohb-zair-vah-syohn tay-les-koh-peek",
+                    "translation": "Although he was exhausted from a night of labor, the scholar refused to suspend his telescopic observations."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Le ministre exigea que chaque délégué prît la parole pour justifier ses arbitrages budgétaires.",
+                    "reading": "luh mee-nees-truh eg-zee-zhah kuh shahk day-lay-gay pree lah pah-rohl poor zhoos-tee-fyay say zahr-bee-trahzh boo-dzheh-tair",
+                    "translation": "The minister demanded that each delegate take the floor to justify their budgetary trade-offs."
+                },
+                {
+                    "target": "Elle craignait par-dessus tout qu'on ne découvrît le secret confié à son frère avant le lever du jour.",
+                    "reading": "el kreh-nyeh pahr-duh-soo too kohn nuh day-koo-vree luh suh-kreh kohn-fyay ah sohn frair ah-vahn luh luh-vay doo zhoor",
+                    "translation": "She feared above all that someone might discover the secret entrusted to her brother before daybreak."
+                },
+                {
+                    "target": "S'il eût connu la vérité plus tôt, il n'eût point consenti à ratifier ce traité funeste.",
+                    "reading": "seel oo koh-noo lah vay-ree-tay ploo toh, eel noo pwan kohn-sahn-tee ah rah-tee-fyay suh treh-tay foo-nest",
+                    "translation": "Had he known the truth earlier, he would never have consented to ratify this disastrous treaty."
+                },
+                {
+                    "target": "Le général ordonna que l'on fît donner la cavalerie pour enfoncer les lignes ennemies.",
+                    "reading": "luh zhay-nay-rahl ohr-doh-nah kuh lohn fee doh-nay lah kah-vahl-ree poor ahn-fohn-say lay leen-yuh zen-mee",
+                    "translation": "The general ordered that the cavalry be deployed to break through enemy lines."
                 }
             ],
             "mnemonics": [
-                "Rhetorical mastery anchor for Le Subjonctif Imparfait et la Concordance Littéraire"
+                "SUBJONCTIF IMPARFAIT: Accent circonflexe à la 3e personne du singulier (fût, eût, prît, fît, parlât)!"
             ],
             "culturalNotes": [
-                "High cultural and institutional significance of Le Subjonctif Imparfait et la Concordance Littéraire in the Francophone world."
+                "The circumflex accent distinguishes the subjunctive from the passé simple (il chanta vs qu'il chantât; il fit vs qu'il fît)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Recognize and compose with the literary Subjonctif Imparfait (fût, vou » :",
+                    "prompt": "Dans la phrase : « Le juge ordonna qu'il _______ (faire) silence », quelle est la forme correcte au subjonctif imparfait ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "La préposition employée ici n'est pas commandée par le verbe (162a).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (162b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (162c)."
+                        "fît",
+                        "fasse",
+                        "fit",
+                        "ferait"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "La forme correcte du subjonctif imparfait de faire à la 3e personne du singulier est « fît » (avec accent circonflexe)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u33-l2 :",
+                    "prompt": "Que permet de distinguer l'accent circonflexe dans « qu'il chantât » par rapport à « il chanta » ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "La préposition employée ici n'est pas commandée par le verbe (162x).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (162y).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (162z)."
+                        "Il distingue le subjonctif imparfait du passé simple de l'indicatif",
+                        "Il indique une faute d'orthographe",
+                        "Il change la prononciation du t final",
+                        "Il s'agit d'une marque de pluriel"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C2."
+                    "explanation": "L'accent circonflexe à la 3e personne du singulier identifie formellement le subjonctif imparfait (qu'il parlât, qu'il finît, qu'il fût)."
                 }
             ]
         },
@@ -17747,25 +17782,26 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u33-l2) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle est la forme au subjonctif imparfait du verbe « être » à la 3e personne du singulier ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "La préposition employée ici n'est pas commandée par le verbe (162m).",
-                        "Cette forme présente une anomalie phonétique en français standard (162n).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (162p)."
+                        "soit",
+                        "serait",
+                        "fût",
+                        "fut"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 2,
+                    "explanation": "« qu'il fût » (avec circonflexe) est le subjonctif imparfait, tandis que « il fut » (sans circonflexe) est le passé simple."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u33-l2 (terme attendu : « Nous ») :",
+                    "prompt": "Conjuguez le verbe « avoir » au subjonctif imparfait à la 3e personne du singulier : (qu'il _________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "eût",
+                        "eut",
+                        "Eût",
+                        "Eut"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "La forme correcte est « eût »."
                 }
             ],
             "passThreshold": 0.8
@@ -17781,56 +17817,73 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u33-l2"
+            ]
         },
         "presentation": {
-            "explanation": "Mastery analysis of Cadence Oratoire, Période et Rythme Ternaire. At the C2 summit level, the learner demonstrates near-native linguistic agility, flawless stylistic sophistication, and profound rhetorical command over cadence oratoire, période et rythme ternaire.",
+            "explanation": "Elevated French prose achieves aesthetic mastery through musicality, syntactic balance, and rhythmic cadence (le nombre, la période oratoire et le rythme ternaire):\n\n1. La Période Oratoire (Cicéron, Bossuet, Chateaubriand):\n- La protase : Mouvement ascendant créant l'attente et la tension expressive.\n- L'acmé : Point culminant de la phrase.\n- L'apodose : Mouvement descendant apportant la résolution harmonieuse et la chute.\n\n2. Rythme Ternaire et Parataxe:\n- Le rythme ternaire (tricolon) : Équilibre de trois propositions parallèles.\n- La parataxe (juxtaposition) vs l'hypotaxe (subordination hiérarchisée).",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Lorsque le silence se fait sur les passions humaines, que s'éteignent les clameurs du jour et que l'âme se recueille, alors commence la véritable vie de l'esprit.",
+                    "reading": "lohrs-kuh luh see-lahns suh feh soor lay pah-syohn oo-men, kuh say-ten lay klah-muhr doo zhoor ay kuh lahhm suh ruh-koo-ehy, ah-lohr koh-mahns lah vay-ree-tahbl vee duh les-pree",
+                    "translation": "When silence settles over human passions, when the day's clamor fades and the soul gathers itself, then begins the true life of the mind."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Il marcha sans faiblir, franchit les ravins escarpés, défia la fureur des éléments et atteignit le sommet avant l'aube.",
+                    "reading": "eel mahr-shah sahn feh-bleer, frahn-shee lay rah-van zes-kahr-pay, day-fyah lah foo-ruhr day zay-lay-mahn ay ah-ten-yee luh soh-meh ah-vahn lohb",
+                    "translation": "He marched without faltering, crossed steep ravines, defied the elements' fury, and reached the summit before dawn."
+                },
+                {
+                    "target": "Dans Mémoires d'outre-tombe, Chateaubriand module une prose d'une envoûtante perfection musicale où chaque période respire la nostalgie d'un monde évanoui.",
+                    "reading": "dahn may-mwahr doo-truh-tohn, shah-toh-bree-ahn moh-dool oon prohz doon nahn-voo-tahnt pair-fek-syohn moo-zee-kahl oo shahk pay-ryohd res-peer lah nohs-tahl-zhee doon mohnd ay-vah-nwee",
+                    "translation": "In Memoirs from Beyond the Grave, Chateaubriand modulates prose of bewitching musical perfection where each periodic sentence breathes nostalgia for a vanished world."
+                },
+                {
+                    "target": "La parataxe flaubertienne juxtapose les faits bruts pour laisser transparaître l'ironie sans jamais intervenir directement dans le récit.",
+                    "reading": "lah pah-rah-tahks floh-bair-tyen zooks-tah-pohz lay feh broot poor lay-say trahns-pah-rehtruh leeh-roh-nee sahn zhah-meh zan-tair-vuh-neer dee-rek-tuh-mahn dahn luh ray-see",
+                    "translation": "Flaubertian parataxis juxtaposes raw facts to let irony show through without ever intervening directly in the narrative."
+                },
+                {
+                    "target": "Trois forces gouvernent le destin des empires : la vigueur des lois, la vertu des citoyens et la clairvoyance des chefs.",
+                    "reading": "trwah fohrss goo-vairn luh des-tan day zahn-peer : lah vee-guhr day lwah, lah vair-too day see-twah-yan ay lah klair-vwah-yahns day shef",
+                    "translation": "Three forces govern the destiny of empires: the strength of laws, the virtue of citizens, and the foresight of leaders."
                 }
             ],
             "mnemonics": [
-                "Rhetorical mastery anchor for Cadence Oratoire, Période et Rythme Ternaire"
+                "PÉRIODE ORATOIRE: Protase (Montée) -> Acmé (Sommet) -> Apodose (Descente / Chute)!"
             ],
             "culturalNotes": [
-                "High cultural and institutional significance of Cadence Oratoire, Période et Rythme Ternaire in the Francophone world."
+                "Jacques-Bénigne Bossuet and François-René de Chateaubriand are celebrated as the supreme masters of the French periodic sentence."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Analyze and construct elevated French prose cadence (rythme ternaire,  » :",
+                    "prompt": "Dans la structure d'une période oratoire classique, comment nomme-t-on le mouvement descendant qui résout la tension de la phrase ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (163a).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (163b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (163c)."
+                        "L'apodose",
+                        "La protase",
+                        "L'acmé",
+                        "L'ellipse"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "La période classique comprend la protase (mouvement ascendant), l'acmé (sommet) et l'apodose (mouvement descendant conclusif)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u33-l3 :",
+                    "prompt": "Quel procédé stylistique consiste à juxtaposer des propositions sans conjonctions de coordination pour accélérer le rythme ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette proposition modifie subtilement le sens originel du verbe (163x).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (163y).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (163z)."
+                        "La parataxe",
+                        "L'hypotaxe",
+                        "L'hyperbole",
+                        "La périphrase"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C2."
+                    "explanation": "La parataxe supprime les liens de subordination pour créer un style plus dense, incisif et direct (opposée à l'hypotaxe)."
                 }
             ]
         },
@@ -17838,25 +17891,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u33-l3) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Comment nomme-t-on une figure de rythme articulée en trois temps équilibrés particulièrement prisée dans la prose française classique ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette proposition modifie subtilement le sens originel du verbe (163m).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (163n).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (163p)."
+                        "Le rythme binaire",
+                        "Le rythme ternaire (tricolon)",
+                        "Un alexandrin libre",
+                        "Une assonance"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 1,
+                    "explanation": "Le « rythme ternaire » équilibre trois éléments ou propositions consécutives pour créer une harmonie oratoire idéale."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u33-l3 (terme attendu : « Nous ») :",
+                    "prompt": "Quel terme désigne la première partie ascendante de la période oratoire ? (la _________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "protase",
+                        "Protase"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "La partie ascendante est la « protase »."
                 }
             ],
             "passThreshold": 0.8
@@ -17872,56 +17924,73 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u33-l3"
+            ]
         },
         "presentation": {
-            "explanation": "Mastery analysis of Figures de Style Avancées et Stylistique d'Auteur. At the C2 summit level, the learner demonstrates near-native linguistic agility, flawless stylistic sophistication, and profound rhetorical command over figures de style avancées et stylistique d'auteur.",
+            "explanation": "At the highest level of French stylistic criticism (l'analyse stylistique et rhétorique supérieure), literary figures operate as profound epistemological and poetic lenses:\n\n1. Elite Figures of Speech:\n- L'Hypallage : Transfert grammatical d'un adjectif sur un mot distinct de celui auquel il convient par le sens (« marcher d'un pas distrait »).\n- La Prétérition : Déclarer qu'on ne parle pas d'une chose tout en l'affirmant avec force (« Je ne rappellerai point ses immenses mérites... »).\n- L'Antanaclase : Répétition d'un même mot pris dans deux sens différents (« Le cœur a ses raisons que la raison ne connaît point »).\n- La Prosopopée : Faire parler une chose inanimée, une allégorie ou une personne absente.\n- L'Oxymore : Alliance saisissante de deux termes contradictoires (« cette obscure clarté »).",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Dans Les Fleurs du Mal, Baudelaire emploie une sublime hypallage en évoquant 'la nuit marchant d'un pas distrait'.",
+                    "reading": "dahn lay fluhr doo mahl, boh-dlair ahn-plwah oon soo-bleem ee-pah-lahzh ahn nay-voh-kahn 'lah nwee mahr-shahn doon pah dees-treh'",
+                    "translation": "In The Flowers of Evil, Baudelaire employs a sublime hypallage by evoking 'night walking with a distracted step'."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Je passerai sous silence sa générosité proverbiale pour me concentrer exclusivement sur son apport philosophique.",
+                    "reading": "zhuh pah-sray soo see-lahns sah zhay-nay-roh-zee-tay proh-vair-byahl poor muh kohn-sahn-tray eks-kloo-zeev-mahn soor sohn nah-pohr fee-loh-zoh-feek",
+                    "translation": "I shall pass over his proverbial generosity in silence to focus exclusively on his philosophical contribution."
+                },
+                {
+                    "target": "La célèbre maxime de Blaise Pascal : 'Le cœur a ses raisons que la raison ne connaît point' constitue un modèle indépassable d'antanaclase.",
+                    "reading": "lah say-lebruh mahk-seem duh blez pahs-kahl : 'luh kuhr ah say ray-zohn kuh lah ray-zohn nuh koh-neh pwan' kohn-stee-too uhn moh-del an-day-pah-sahbl dahn-tah-nah-klahz",
+                    "translation": "Blaise Pascal's celebrated maxim: 'The heart has its reasons of which reason knows nothing' constitutes an unmatched model of antanaclasis."
+                },
+                {
+                    "target": "La prosopopée des Lois dans le Criton de Platon donne la parole à la Cité elle-même pour exhorter Socrate à la fidélité républicaine.",
+                    "reading": "lah proh-zoh-poh-pay day lwah dahn luh kree-tohn duh plah-tohn dohn lah pah-rohl ah lah see-tay el-mem poor zeg-zohr-tay soh-kraht ah lah fee-day-lee-tay ray-poo-blee-ken",
+                    "translation": "The prosopopoeia of the Laws in Plato's Crito lends a voice to the City itself to urge Socrates to republican fidelity."
+                },
+                {
+                    "target": "Cette figure d'oxymore unissant une 'obscure clarté' chez Corneille exprime avec éclat le déchirement tragique du héros cornélien.",
+                    "reading": "set fee-goor dohk-see-mohr oo-nee-sahn toon 'ohb-skoor klahr-tay' shay kohr-neh-yuh eks-preem ah-vek ay-klah luh day-sheer-mahn trah-zheek doo ay-roh kohr-nay-lyan",
+                    "translation": "This oxymoron uniting an 'obscure clarity' in Corneille brilliantly expresses the tragic turmoil of the Cornelian hero."
                 }
             ],
             "mnemonics": [
-                "Rhetorical mastery anchor for Figures de Style Avancées et Stylistique d'Auteur"
+                "FIGURES SUPÉRIEURES: Hypallage (transfert), Prétérition (taire en disant), Antanaclase (double sens)!"
             ],
             "culturalNotes": [
-                "High cultural and institutional significance of Figures de Style Avancées et Stylistique d'Auteur in the Francophone world."
+                "Corneille's « Cette obscure clarté qui tombe des étoiles » (Le Cid, 1637) is the most celebrated oxymoron in French literature."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Identify and master sophisticated rhetorical figures (l'hypallage, la  » :",
+                    "prompt": "Quelle figure de style consiste à attribuer à un mot d'une phrase ce qui conviendrait logiquement à un autre (ex : « un regard inquiet marchant dans la nuit ») ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette forme présente une anomalie phonétique en français standard (164a).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (164b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (164c)."
+                        "L'hypallage",
+                        "La pléonazme",
+                        "L'onomatopée",
+                        "L'anacoluthe"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "L'hypallage déplace un qualificatif d'un élément vers un autre avec lequel il est lié par le contexte."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u33-l4 :",
+                    "prompt": "Quelle figure rhétorique consiste à déclarer qu'on ne parlera pas d'un sujet tout en le développant expressément ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette forme présente une anomalie phonétique en français standard (164x).",
-                        "La préposition employée ici n'est pas commandée par le verbe (164y).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (164z)."
+                        "La prétérition",
+                        "La litote",
+                        "La gradation",
+                        "L'antiphrase"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C2."
+                    "explanation": "La prétérition (« Je ne dirai rien de... », « Nul besoin de mentionner... ») attire l'attention sur ce qu'on feint de taire."
                 }
             ]
         },
@@ -17929,25 +17998,26 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u33-l4) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Dans la formule de Pascal « Le cœur a ses raisons que la raison ne connaît point », quelle figure fait jouer deux sens différents d'un même mot ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette forme présente une anomalie phonétique en français standard (164m).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (164n).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (164p)."
+                        "Une hyperbole",
+                        "Une allitération",
+                        "Une antanaclase",
+                        "Une métaphore filée"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 2,
+                    "explanation": "L'« antanaclase » répète un même signifiant en lui conférant deux signifiés distincts."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u33-l4 (terme attendu : « Nous ») :",
+                    "prompt": "Quelle figure consiste à faire parler une entité abstraite, un mort ou une chose inanimée ? (la _________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "prosopopée",
+                        "prosopopee",
+                        "Prosopopée",
+                        "Prosopopee"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "La figure est la « prosopopée »."
                 }
             ],
             "passThreshold": 0.8
@@ -17963,56 +18033,73 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u33-l4"
+            ]
         },
         "presentation": {
-            "explanation": "Mastery analysis of Composition Littéraire Supérieure et Pastiche Stylistique. At the C2 summit level, the learner demonstrates near-native linguistic agility, flawless stylistic sophistication, and profound rhetorical command over composition littéraire supérieure et pastiche stylistique.",
+            "explanation": "Composing a literary pastiche (le pastiche littéraire de haute volée) in French at the C2 level is the ultimate test of stylistic assimilation (Marcel Proust, Pastiches et Mélanges):\n\n1. Emulating Literary Idiolects:\n- Le style proustien : Période ample, mémoire involontaire, synesthésies et comparaisons déployées (« ainsi que... »).\n- Le style flaubertien : Impassibilité, mot juste, rythme du gueuloir et chutes sur l'imparfait.\n- Le style balzacien : Tableaux d'époque, taxonomie sociale et acuité descriptive.\n\n2. Syntactic Synthesis: Intégration du passé simple, subjonctif imparfait, inversions oratoires et cadence classique.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Longtemps après que le timbre argentin de la cloche eut cessé de vibrer, je demeurais immobile dans la pénombre de la chambre de Combray, respirant l'odeur douceâtre de tilleul.",
+                    "reading": "lohn-tahn ah-preh kuh luh tan-bruh ahr-zhahn-tan duh lah klohsht oo seh-say duh vee-bray, zhuh duh-muh-reh eem-moh-beel dahn lah pay-nohm-bruh duh lah shahm-bruh duh kohn-breh, res-pee-rahn loh-duhr doo-sahtruh duh teey-yuhl",
+                    "translation": "Long after the silver chime of the bell had ceased vibrating, I remained motionless in the gloom of the bedroom in Combray, inhaling the sweetish smell of linden tea."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Ainsi qu'un voyageur égaré dans la brume matinale aperçoit les contours familiers d'un clocher lointain, mon esprit retrouvait par bribes la texture de mes souvenirs d'enfance.",
+                    "reading": "an-see koon vwah-yah-zhuhr ay-gah-ray dahn lah broom mah-tee-nahl ah-pair-swah lay kohn-toor fah-mee-lyay doon kloh-shay lwan-tan, mohn nes-pree ruh-troo-veh pahr breeb lah teks-toor duh may soov-neer dahn-fahns",
+                    "translation": "Just as a traveler lost in the morning mist glimpses the familiar contours of a distant steeple, my mind recovered in fragments the texture of my childhood memories."
+                },
+                {
+                    "target": "Flaubert passait des heures entières à scander ses phrases au gueuloir pour éliminer les assonances involontaires et ciseler la perfection du rythme.",
+                    "reading": "floh-bair pah-seh day zuhr zahn-tyair ah skahn-day say frahz oh guh-lwahr poor ay-lee-mee-nay lay zah-soh-nahns an-voh-lohn-tair ay see-zlay lah pair-fek-syohn doo reetm",
+                    "translation": "Flaubert would spend entire hours chanting his sentences in his shouting-room to eliminate inadvertent assonances and chisel rhythmic perfection."
+                },
+                {
+                    "target": "Dans Pastiches et Mélanges, Marcel Proust s'approprie avec une virtuosité stupéfiante les tics d'écriture et la respiration intérieure de Balzac, Flaubert et Saint-Simon.",
+                    "reading": "dahn pahs-teesh ay may-lahnzh, mahr-sel proost sah-proh-pree ah-vek oon veer-too-oh-zee-tay stoo-pay-fyahnt lay teek day-kree-toor ay lah res-pee-rah-syohn an-tay-ryuhr duh bahl-zahk, floh-bair ay san-see-mohn",
+                    "translation": "In Pastiches and Mixtures, Marcel Proust appropriates with astonishing virtuosity the stylistic habits and internal breathing of Balzac, Flaubert, and Saint-Simon."
+                },
+                {
+                    "target": "Le succès du pastiche repose sur la capacité d'habiter la vision du monde d'un maître sans jamais verser dans la caricature grossière.",
+                    "reading": "luh sook-seh doo pahs-teesh ruh-pohz soor lah kah-pah-see-tay dah-bee-tay lah vee-zyohn doo mohnd doon meh-truh sahn zhah-meh vair-say dahn lah kah-ree-kah-toor groh-syair",
+                    "translation": "The success of a pastiche rests on the ability to inhabit a master's worldview without ever sliding into crude caricature."
                 }
             ],
             "mnemonics": [
-                "Rhetorical mastery anchor for Composition Littéraire Supérieure et Pastiche Stylistique"
+                "PASTICHE PROUSTIEN: Longue période + Mémoire involontaire + Comparaisons déployées + Concordance classique!"
             ],
             "culturalNotes": [
-                "High cultural and institutional significance of Composition Littéraire Supérieure et Pastiche Stylistique in the Francophone world."
+                "Marcel Proust's L'Affaire Lemoine in Pastiches et Mélanges (1919) represents the pinnacle of French literary pastiche."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Compose a complete literary pastiche emulating 19th- or 20th-century c » :",
+                    "prompt": "Quel écrivain français majeur est l'auteur du célèbre recueil de pastiches littéraires « Pastiches et Mélanges » (1919) ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (165a).",
-                        "Cette construction passive alourdit inutilement l'énoncé (165b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (165c)."
+                        "Marcel Proust",
+                        "Albert Camus",
+                        "Émile Zola",
+                        "Jean-Paul Sartre"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Marcel Proust y déploie un génie mimétique incomparable en pastichant Flaubert, Balzac, Saint-Simon et Michelet."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u33-l5 :",
+                    "prompt": "Comment nommait Flaubert la pièce isolée où il déclamait ses phrases à pleine voix pour tester leur rythme et leur cadence sonore ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette construction passive alourdit inutilement l'énoncé (165x).",
-                        "Cette construction passive alourdit inutilement l'énoncé (165y).",
-                        "Cette construction passive alourdit inutilement l'énoncé (165z)."
+                        "Le gueuloir",
+                        "Le laboratoire",
+                        "L'auditorium",
+                        "Le parloir"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C2."
+                    "explanation": "Flaubert soumettait chaque phrase à l'épreuve physique du « gueuloir » pour en traquer les lourdeurs et cacophonies."
                 }
             ]
         },
@@ -18020,25 +18107,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u33-l5) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle est la caractéristique stylistique majeure de la phrase proustienne dans « À la recherche du temps perdu » ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette construction passive alourdit inutilement l'énoncé (165m).",
-                        "Cette construction passive alourdit inutilement l'énoncé (165n).",
-                        "Cette construction passive alourdit inutilement l'énoncé (165p)."
+                        "Des phrases nominales de trois mots maximum",
+                        "Une longue phrase sinueuse à subordination ample et métaphores déployées",
+                        "L'usage exclusif du présent et du tutoiement",
+                        "L'absence totale de ponctuation"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 1,
+                    "explanation": "La phrase proustienne se déploie en longues volutes périodiques embrassant la complexité de la conscience et du souvenir."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u33-l5 (terme attendu : « Nous ») :",
+                    "prompt": "Quelle œuvre monumentale en 7 tomes de Marcel Proust s'ouvre par la phrase : « Longtemps, je me suis couché de bonne heure » ? (À la recherche du _________ perdu)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "temps",
+                        "Temps"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "L'œuvre immortelle est « À la recherche du temps perdu »."
                 }
             ],
             "passThreshold": 0.8
