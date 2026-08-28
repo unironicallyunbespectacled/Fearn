@@ -14339,56 +14339,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u26-l5"
+            ]
         },
         "presentation": {
-            "explanation": "Rigorous academic exposition of Techniques Narratives et Stylistique Romanesque. At the CEFR C1 level, learners develop mastery in abstract conceptualization, domain-specific terminology, and sophisticated syntactic structures required for academic, legal, and intellectual fluency in French.",
+            "explanation": "Literary narrative theory in French (la narratologie selon Gérard Genette) explores points of view and reported discourse:\n\n1. Points of View & Focalization (Les Types de Focalisation):\n- Focalisation zéro (narrateur omniscient) : Le narrateur sait tout des personnages (pensées, passé, futur).\n- Focalisation interne : La narration est filtrée à travers la perception et les émotions d'un personnage précis.\n- Focalisation externe : Le narrateur agit comme une caméra neutre, décrivant uniquement les gestes visibles sans accès aux pensées.\n\n2. Free Indirect Discourse (Le Style Indirect Libre):\n- Blends direct speech and narrative prose without reporting verbs ('il dit que') or quotation marks, adopting 3rd person and past/imperfect tenses (l'imparfait et le conditionnel).\n- Mastered by Flaubert in 'Madame Bovary'.\n\n3. Temporal Distortions (L'Anachronie Narrative):\n- Analepse (flashback) vs Prolepse (anticipation / flashforward) / Ellipse narrative.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Dans 'Madame Bovary', Flaubert révolutionne la prose française en employant magistralement le style indirect libre pour immerger le lecteur dans les désillusions d'Emma.",
+                    "reading": "dahn mah-dahm boh-vah-ree, floh-bair ray-voh-loo-syohn lah prohz frahn-sehz ahn nahn-plwah-yahn mah-zhees-trahl-mahn luh steel an-dee-rekt lee-bruh poor ee-mair-zhay luh lek-tuhr dahn lay day-zeel-loo-zyohn dem-mah",
+                    "translation": "In 'Madame Bovary', Flaubert revolutionizes French prose by masterfully employing free indirect style to immerse the reader in Emma's disillusionments."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Le passage d'une focalisation zéro à une focalisation interne restreinte crée un effet de connivence psychologique troublant avec le protagoniste.",
+                    "reading": "luh pah-sahzh doon foh-kah-lee-zah-syohn zay-roh ah oon foh-kah-lee-zah-syohn an-tairn res-trant kray uhn neh-feh duh koh-nee-vahns psee-koh-loh-zheek troo-blahn ah-vek luh proh-tah-goh-neest",
+                    "translation": "The shift from zero focalization to restricted internal focalization creates a disturbing psychological intimacy with the protagonist."
+                },
+                {
+                    "target": "L'analepse temporelle dévoile les traumatismes enfouis du personnage principal, éclairant rétrospectivement ses motivations énigmatiques.",
+                    "reading": "lah-nah-leps tahn-poh-rel day-vwahl lay troh-mah-teezm ahn-fwee doo pair-soh-nahzh pran-see-pahl, ay-klay-rahn ray-troh-spek-teev-mahn say moh-tee-vah-syohn ay-neeg-mah-teek",
+                    "translation": "The temporal analepsis reveals the main character's buried traumas, retrospectively illuminating his enigmatic motivations."
+                },
+                {
+                    "target": "Elle ne pouvait plus supporter cette existence provinciale : pourquoi Charles ne comprenait-il rien à ses tourments secrets ?",
+                    "reading": "el nuh poo-veh plyoo soo-pohr-tay set eg-zees-tahns proh-van-syahl : poor-kwah shahrl nuh kohn-pruh-neh-teel ryan ah say toor-mahn suh-kreh",
+                    "translation": "She could no longer endure this provincial existence: why did Charles understand nothing of her secret torments?"
+                },
+                {
+                    "target": "L'ellipse narrative de plusieurs années accélère dramatiquement le récit tout en soulignant la vacuité du temps écoulé.",
+                    "reading": "lel-leeps nah-rah-teev duh plyoo-zyuhr zah-nay ahk-say-lair drah-mah-teek-mahn luh ray-see toot ahn soo-leen-yahn lah vah-kwee-tay doo tahn zay-koo-lay",
+                    "translation": "The narrative ellipsis of several years dramatically accelerates the story while underscoring the emptiness of elapsed time."
                 }
             ],
             "mnemonics": [
-                "Conceptual anchor for Techniques Narratives et Stylistique Romanesque"
+                "FOCALISATION: ZÉRO = Omniscient; INTERNE = Character's eyes; EXTERNE = Objective camera!",
+                "ANALEPSE = Flashback; PROLEPSE = Flashforward!"
             ],
             "culturalNotes": [
-                "Epistemological and institutional significance of Techniques Narratives et Stylistique Romanesque in France."
+                "Gustave Flaubert was put on trial in 1857 for 'outrage to public morality' largely because the court confused Emma Bovary's thoughts with the author's voice due to style indirect libre."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Analyze French narrative techniques, focalization, and free indirect s » :",
+                    "prompt": "Dans quelle focalisation le narrateur connaît-il toutes les pensées, le passé et l'avenir de chaque personnage ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (131a).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (131b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (131c)."
+                        "La focalisation zéro (narrateur omniscient)",
+                        "La focalisation externe",
+                        "La focalisation subjective",
+                        "La focalisation latérale"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "La « focalisation zéro » caractérise le narrateur omniscient qui sait tout de l'histoire et de l'intériorité de tous les personnages."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u27-l1 :",
+                    "prompt": "Quelle est la particularité du « style indirect libre » ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "L'antériorité temporelle est mal établie par rapport au repère (131x).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (131y).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (131z)."
+                        "Il rapporte les pensées au passé sans verbe introducteur (« il dit que ») ni guillemets",
+                        "Il oblige à rimer à chaque fin de phrase",
+                        "Il utilise uniquement des majuscules",
+                        "Il traduit le texte en latin classique"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C1."
+                    "explanation": "Le style indirect libre intègre les paroles ou pensées du personnage directement dans le récit sans subordonnée ni verbe déclaratif."
                 }
             ]
         },
@@ -14396,25 +14414,25 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u27-l1) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "En narratologie littéraire, comment appelle-t-on un retour en arrière temporel dans le récit (un flashback) ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'antériorité temporelle est mal établie par rapport au repère (131m).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (131n).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (131p)."
+                        "Une anaphore",
+                        "Une analepse",
+                        "Une apostrophe",
+                        "Une allégorie"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 1,
+                    "explanation": "L'« analepse » est la figure narrative désignant un saut en arrière dans la chronologie diégétique."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u27-l1 (terme attendu : « Nous ») :",
+                    "prompt": "Quel auteur de 'Madame Bovary' est le maître emblématique du style indirect libre en français ? (nom d'auteur : _________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "Flaubert",
+                        "flaubert",
+                        "Gustave Flaubert"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Le maître incontesté de cette technique est Gustave « Flaubert »."
                 }
             ],
             "passThreshold": 0.8
@@ -14430,56 +14448,75 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u27-l1"
+            ]
         },
         "presentation": {
-            "explanation": "Rigorous academic exposition of Poétique Française, Versification et Rhétorique. At the CEFR C1 level, learners develop mastery in abstract conceptualization, domain-specific terminology, and sophisticated syntactic structures required for academic, legal, and intellectual fluency in French.",
+            "explanation": "French classical versification (la prosodie classique et moderne) and rhetorical figures follow rigorous poetic rules:\n\n1. Classical Metrics & Versification (La Métrique Poétique):\n- L'alexandrin : 12-syllable verse divided into two 6-syllable hemistichs (hémistiches) separated by a césure (6 // 6).\n- Le e muet : Pronounced before a consonant; elided before a vowel or at verse end.\n- Diérèse (pronouncing two vowels separately: li-on) vs Synérèse.\n- Enjambement, rejet et contre-rejet.\n- Rhyme schemes: Rimes suivies (AABB), croisées (ABAB), embrassées (ABBA).\n- Le sonnet : 2 quatrains + 2 tercets (14 vers).\n\n2. Master Rhetorical Tropes (Les Grandes Figures de Style):\n- L'anaphore : Repetition of words at the beginning of successive lines.\n- Le chiasme : ABBA structural mirror symmetry.\n- L'oxymore : Juxtaposing contradictory words ('Cette obscure clarté' - Corneille).",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Le sonnet régulier de Baudelaire dans 'Les Fleurs du Mal' sublime le spleen à travers des alexandrins impeccablement césurés à l'hémistiche.",
+                    "reading": "luh soh-neh ray-goo-lyay duh boh-d-lair dahn lay fluhr doo mahl soo-bleem luh spleen ah trah-vair day zah-lek-sahn-dran an-peh-kah-bluh-mahn say-zoo-ray ah lay-mee-steesh",
+                    "translation": "Baudelaire's regular sonnet in 'The Flowers of Evil' sublimates spleen through alexandrines impeccably caesuraed at the hemistich."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Cette obscure clarté qui tombe des étoiles constitue le plus célèbre oxymore de la dramaturgie cornélienne dans 'Le Cid'.",
+                    "reading": "set ohb-skoor klahr-tay kee tohnb day zay-twahl kohn-stee-too luh plyoo say-lebr ohk-see-mohr duh lah drah-mah-toor-zhee kohr-nay-lyen dahn luh seed",
+                    "translation": "'This obscure clarity falling from the stars' constitutes the most famous oxymoron of Corneille's dramaturgy in 'The Cid'."
+                },
+                {
+                    "target": "L'anaphore insistante rythme la strophe tout en amplifiant l'intensité lyrique du désespoir amoureux du poète.",
+                    "reading": "lah-nah-fohr an-sees-tahnt reet-muh lah strohf toot ahn nahn-plee-fyahn lan-tahn-see-tay lee-reek doo day-zes-pwahr ah-moo-ruh doo poh-et",
+                    "translation": "The insistent anaphora rhythms the stanza while amplifying the lyrical intensity of the poet's lovesick despair."
+                },
+                {
+                    "target": "La structure en chiasme croise les termes de l'énoncé selon un schéma ABBA qui frappe l'esprit par son élégance géométrique.",
+                    "reading": "lah strook-toor ahn kyahzm krwahz lay tairm duh lay-nohn-say suh-lohn uhn shay-mah ah-bay-bay-ah kee frahp les-pree pahr soh nay-lay-gahns zhay-oh-may-treek",
+                    "translation": "The chiasmus structure crosses the terms of the statement following an ABBA scheme that strikes the mind with its geometric elegance."
+                },
+                {
+                    "target": "Le rejet du verbe au début du vers suivant brise la régularité métrique pour marquer une rupture émotionnelle déchirante.",
+                    "reading": "luh ruh-zheh doo vairb oh day-boo doo vair swee-vahn breez lah ray-goo-lah-ree-tay may-treek poor mahr-kay oon roop-toor ay-moh-syoh-nel day-shee-rahnt",
+                    "translation": "The rejection (rejet) of the verb to the beginning of the next line breaks metric regularity to highlight a harrowing emotional breach."
                 }
             ],
             "mnemonics": [
-                "Conceptual anchor for Poétique Française, Versification et Rhétorique"
+                "ALEXANDRIN = 12 SYLLABES (6 // 6 à la césure)!",
+                "OXYMORE = Obscure clarté (two opposites joined in one phrase)!",
+                "CHIASME = ABBA cross pattern!"
             ],
             "culturalNotes": [
-                "Epistemological and institutional significance of Poétique Française, Versification et Rhétorique in France."
+                "French poetry transitioned from the rigid classical alexandrine to free verse and prose poetry with Arthur Rimbaud and Stéphane Mallarmé."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Identify classical and modern poetic forms, metrics, and rhetorical tr » :",
+                    "prompt": "Combien de syllabes compte un vers alexandrin classique dans la poésie française ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "La préposition employée ici n'est pas commandée par le verbe (132a).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (132b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (132c)."
+                        "12 syllabes",
+                        "10 syllabes",
+                        "8 syllabes",
+                        "14 syllabes"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "L'alexandrin classique est un vers noble composé de 12 syllabes, traditionnellement séparé en deux hémistiches de 6 syllabes par une césure."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u27-l2 :",
+                    "prompt": "Quelle figure de style unit deux termes de sens opposés dans un même groupe de mots (ex. 'un silence assourdissant') ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "La préposition employée ici n'est pas commandée par le verbe (132x).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (132y).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (132z)."
+                        "L'oxymore",
+                        "L'hyperbole",
+                        "La litote",
+                        "L'euphémisme"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C1."
+                    "explanation": "L'oxymore juxtapose deux termes contraires pour créer un contraste saisissant."
                 }
             ]
         },
@@ -14487,25 +14524,26 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u27-l2) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle figure de style consiste en une répétition délibérée du même mot au début de phrases ou de vers successifs ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "La préposition employée ici n'est pas commandée par le verbe (132m).",
-                        "Cette forme présente une anomalie phonétique en français standard (132n).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (132p)."
+                        "L'anaphore",
+                        "L'ellipse",
+                        "La métonymie",
+                        "La périphrase"
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "L'« anaphore » est la répétition d'un même mot ou membre de phrase en tête de vers ou de propositions."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u27-l2 (terme attendu : « Nous ») :",
+                    "prompt": "Comment s'appelle la pause médiane obligatoire séparant les deux hémistiches d'un alexandrin classique ? (la _________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "césure",
+                        "Césure",
+                        "cesure",
+                        "Cesure"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "La coupure centrale du vers s'appelle la « césure »."
                 }
             ],
             "passThreshold": 0.8
@@ -14521,56 +14559,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u27-l2"
+            ]
         },
         "presentation": {
-            "explanation": "Rigorous academic exposition of Esthétique du Cinéma Français et Nouvelle Vague. At the CEFR C1 level, learners develop mastery in abstract conceptualization, domain-specific terminology, and sophisticated syntactic structures required for academic, legal, and intellectual fluency in French.",
+            "explanation": "French cinematic criticism (la critique cinématographique et les Cahiers du Cinéma) invented foundational film concepts:\n\n1. The French New Wave (La Nouvelle Vague - 1950s/1960s):\n- Filmmakers: Jean-Luc Godard (À bout de souffle), François Truffaut (Les 400 Coups), Agnès Varda (Cléo de 5 à 7), Rohmer, Chabrol.\n- Technical Innovations: Shooting in real Parisian streets, natural lighting, lightweight handheld cameras, jump cuts (faux raccords), direct sound.\n\n2. Auteur Theory (La Politique des Auteurs):\n- Championed by Truffaut and Bazin: The director is the genuine author whose visual signature and worldview permeate every frame.\n\n3. Cinematic Vocabulary:\n- Le plan-séquence (long uninterrupted take), champ/contre-champ, hors-champ (off-screen space), voix off, plongée/contre-plongée.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Dans 'À bout de souffle', Jean-Luc Godard dynamite la grammaire cinématographique classique en utilisant des faux raccords audacieux et le tournage en décors naturels.",
+                    "reading": "dahn ah boo duh soofl, zhahn-look goh-dahr dee-nah-meet lah grah-mair see-nay-mah-toh-grah-feek klah-seek ahn noo-tee-lee-zahn day foh rah-kohr oh-dah-syuh ay luh toor-nahzh ahn day-kohr nah-too-rel",
+                    "translation": "In 'Breathless', Jean-Luc Godard dynamites classical cinematic grammar by using audacious jump cuts and shooting on natural location."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "La politique des auteurs défendue par la revue des Cahiers du Cinéma érige le metteur en scène au rang de créateur souverain porteur d'une vision du monde singulière.",
+                    "reading": "lah poh-lee-teek day zoh-tuhr day-fahn-doo pahr lah ruh-voo day kah-yay doo see-nay-mah ay-reezh luh meh-tuhr ahn sen oh rahn duh kray-ah-tuhr soo-vran pohr-tuhr doon vee-zyohn doo mohnd san-goo-lyair",
+                    "translation": "The auteur theory defended by the journal Cahiers du Cinéma elevates the director to the rank of sovereign creator bearing a singular worldview."
+                },
+                {
+                    "target": "Le long plan-séquence final des 'Quatre Cents Coups' de Truffaut culmine sur un arrêt sur image inoubliable fixant le regard hagard de l'adolescent.",
+                    "reading": "luh lohn plahn-say-kahns fee-nahl day kahtr sahn koo duh troo-foh kool-meen soor uhn nah-reh soor ee-mahzh ee-noo-blee-ahbl feek-sahn luh ruh-gahr ah-gahr duh lah-doh-leh-sahn",
+                    "translation": "The long final sequence shot of Truffaut's 'The 400 Blows' culminates in an unforgettable freeze-frame capturing the teenager's haunted gaze."
+                },
+                {
+                    "target": "L'utilisation de la caméra portée et de la lumière naturelle confère aux œuvres d'Agnès Varda une authenticité quasi documentaire et poétique.",
+                    "reading": "loo-tee-lee-zah-syohn duh lah kah-may-rah pohr-tay ay duh lah loo-myair nah-too-rel kohn-fair oh zuh-vruh dahn-nyes vahr-dah oon noh-tahn-tee-see-tay kah-zee dohk-oo-mahn-tair ay poh-ay-teek",
+                    "translation": "The use of handheld camera and natural lighting confers upon Agnès Varda's works a quasi-documentary and poetic authenticity."
+                },
+                {
+                    "target": "Le jeu subtil entre le champ et le hors-champ stimule l'imaginaire du spectateur en suggérant la menace sans jamais la montrer directement.",
+                    "reading": "luh zhuh soob-teel ahn-truh luh shahn ay luh ohr-shahn stee-mool lee-mah-zhee-nair doo spek-tah-tuhr ahn soog-zhay-rahn lah muh-nahs sahn zhah-meh lah mohn-tray dee-rek-tuh-mahn",
+                    "translation": "The subtle interplay between the in-frame and off-screen space stimulates the viewer's imagination by suggesting threat without ever showing it directly."
                 }
             ],
             "mnemonics": [
-                "Conceptual anchor for Esthétique du Cinéma Français et Nouvelle Vague"
+                "NOUVELLE VAGUE: Godard, Truffaut, Varda -> Décors naturels, caméra portée, faux raccords!",
+                "PLAN-SÉQUENCE: One uninterrupted take; HORS-CHAMP = Off-screen space!"
             ],
             "culturalNotes": [
-                "Epistemological and institutional significance of Esthétique du Cinéma Français et Nouvelle Vague in France."
+                "The Festival de Cannes, founded in 1946 on the French Riviera, is the world's most prestigious international film festival awarding the coveted Palme d'Or."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Examine French cinematic aesthetics, the French New Wave (Nouvelle Vag » :",
+                    "prompt": "Quelle revue critique française fondée par André Bazin a théorisé la 'Politique des Auteurs' ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (133a).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (133b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (133c)."
+                        "Les Cahiers du Cinéma",
+                        "Le Canard Enchaîné",
+                        "Paris Match",
+                        "Télérama"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Les « Cahiers du Cinéma » est la revue mythique où Truffaut, Godard et Rohmer ont forgé la théorie de la politique des auteurs."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u27-l3 :",
+                    "prompt": "Quelle technique de tournage est emblématique des cinéastes de la Nouvelle Vague ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette proposition modifie subtilement le sens originel du verbe (133x).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (133y).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (133z)."
+                        "Le tournage en extérieur dans la rue avec caméra légère et lumière naturelle",
+                        "L'animation 3D par ordinateur uniquement",
+                        "Le doublage intégral en studio sans aucun acteur filmé",
+                        "L'interdiction des mouvements de caméra"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C1."
+                    "explanation": "La Nouvelle Vague est célèbre pour être sortie des studios afin de tourner dans les rues de Paris en caméra portée et lumière naturelle."
                 }
             ]
         },
@@ -14578,25 +14634,27 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u27-l3) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Comment s'appelle une prise de vue continue et prolongée, sans aucune coupe de montage, englobant toute une scène ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette proposition modifie subtilement le sens originel du verbe (133m).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (133n).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (133p)."
+                        "Un jump cut",
+                        "Un fondu au noir",
+                        "Un plan-séquence",
+                        "Un flash-back"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 2,
+                    "explanation": "Un « plan-séquence » est une scène entière tournée en un seul plan continu sans interruption de montage."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u27-l3 (terme attendu : « Nous ») :",
+                    "prompt": "Quelle réalisatrice pionnière de la Nouvelle Vague a réalisé 'Cléo de 5 à 7' et 'Sans toit ni loi' ? (Prénom et nom : _________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "Agnès Varda",
+                        "Agnes Varda",
+                        "Varda",
+                        "varda",
+                        "agnès varda"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "La grande cinéaste et photographe est « Agnès Varda »."
                 }
             ],
             "passThreshold": 0.8
@@ -14612,56 +14670,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u27-l3"
+            ]
         },
         "presentation": {
-            "explanation": "Rigorous academic exposition of Dramaturgie Théâtrale et Analyse Scénique. At the CEFR C1 level, learners develop mastery in abstract conceptualization, domain-specific terminology, and sophisticated syntactic structures required for academic, legal, and intellectual fluency in French.",
+            "explanation": "French dramatic theater (le théâtre classique, romantique et contemporain) relies on codified stage conventions and speech forms:\n\n1. Classical Dramatic Rules (Les Règles du Théâtre Classique):\n- Règle des trois unités (Boileau) : Unité de lieu (un seul décor), unité de temps (24h), unité d'action (une intrigue principale).\n- La bienséance (no violence on stage) et la vraisemblance.\n- La catharsis (Aristote) : Purgation of terror and pity through tragic spectacle.\n\n2. Forms of Theatrical Speech (Formes du Discours Théâtral):\n- La tirade : Long uninterrupted speech delivered to other characters present on stage.\n- Le monologue : Speech delivered by a character alone on stage.\n- L'aparté : Line spoken aside to the audience.\n- La stichomythie : Rapid-fire exchange of single-line dialogue.\n- Les didascalies : Stage directions written in italics by the playwright.\n\n3. Genres: Tragédie (Racine, Corneille), Comédie (Molière), Théâtre de l'Absurde (Beckett, Ionesco).",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Dans 'Phèdre' de Racine, l'héroïne est consumée par une passion incestueuse fatale qui illustre parfaitement le mécanisme tragique de la catharsis.",
+                    "reading": "dahn fed-ruh duh rah-seen, lay-roh-een ay kohn-soo-may pahr oon pah-syohn an-ses-twuhz fah-tahl kee eel-loos-truh pahr-fet-mahn luh may-kah-neezm drah-mah-teek duh lah kah-tahr-sees",
+                    "translation": "In Racine's 'Phèdre', the heroine is consumed by a fatal incestuous passion that perfectly illustrates the tragic mechanism of catharsis."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "La stichomythie haletante entre Rodrigue et Chimène accélère la tension dramatique en confrontant leurs devoirs d'honneur incompatibles.",
+                    "reading": "lah stee-koh-mee-tee ah-luh-tahnt ahn-truh roh-dreeg ay shee-men ahk-say-lair lah tahn-syohn drah-mah-teek ahn kohn-frohn-tahn luhr duh-vwahr doh-nuhr an-kohn-pah-teebl",
+                    "translation": "The breathless stichomythia between Rodrigue and Chimène accelerates dramatic tension by confronting their incompatible duties of honor."
+                },
+                {
+                    "target": "Les didascalies minutieuses rédigées par l'auteur précisent l'intonation des répliques et l'occupation spatiale du plateau par les comédiens.",
+                    "reading": "lay dee-dahs-kah-lee mee-noo-syuhz ray-dee-zhay pahr loh-tuhr pray-seez lan-toh-nah-syohn day ray-pleek ay loh-koo-pah-syohn spah-syahl doo plah-toh pahr lay koh-may-dyan",
+                    "translation": "The meticulous stage directions written by the author specify line intonation and stage spatial occupation by the actors."
+                },
+                {
+                    "target": "La célèbre tirade des nez déclamée par Cyrano de Bergerac constitue un chef-d'œuvre de virtuosité verbale et de panache théâtral.",
+                    "reading": "lah say-lebr tee-rahd day nay day-klah-may pahr see-rah-noh duh bair-zhuh-rahk kohn-stee-too uhn shef-duh-vruh duh veer-too-oh-zee-tay vair-bahl ay duh pah-nahsh tay-ah-trahl",
+                    "translation": "The famous nose tirade declaimed by Cyrano de Bergerac constitutes a masterpiece of verbal virtuosity and theatrical panache."
+                },
+                {
+                    "target": "Le monologue délibératif permet au spectateur d'accéder au dilemme moral et aux déchirements intérieurs du protagoniste.",
+                    "reading": "luh moh-noh-lohg day-lee-bay-rah-teef pair-meh oh spek-tah-tuhr dahk-say-day oh dee-lem moh-rahl ay oh day-sheer-mahn zan-tay-ryuhr doo proh-tah-goh-neest",
+                    "translation": "The deliberative monologue allows the audience to access the protagonist's moral dilemma and inner torment."
                 }
             ],
             "mnemonics": [
-                "Conceptual anchor for Dramaturgie Théâtrale et Analyse Scénique"
+                "TIRADE = Long speech to others; MONOLOGUE = Speech alone on stage; APARTÉ = Whisper to audience!",
+                "DIDASCALIES = Stage directions in italics!"
             ],
             "culturalNotes": [
-                "Epistemological and institutional significance of Dramaturgie Théâtrale et Analyse Scénique in France."
+                "Founded under Louis XIV in 1680, La Comédie-Française (also called La Maison de Molière) in Paris is the oldest active national theater company in the world."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Dissect dramatic theater conventions, stagecraft, and dialogue mechani » :",
+                    "prompt": "Comment appelle-t-on les indications scéniques écrites par le dramaturge pour guider le jeu des acteurs et la mise en scène ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette forme présente une anomalie phonétique en français standard (134a).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (134b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (134c)."
+                        "Les didascalies",
+                        "Les réquisitoires",
+                        "Les apartés",
+                        "Les strophes"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Les « didascalies » sont les indications de jeu, de décor et de gestes fournies par l'auteur dans le texte théâtral."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u27-l4 :",
+                    "prompt": "Quelle est la différence fondamentale entre une 'tirade' et un 'monologue' au théâtre ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette forme présente une anomalie phonétique en français standard (134x).",
-                        "La préposition employée ici n'est pas commandée par le verbe (134y).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (134z)."
+                        "La tirade s'adresse à d'autres personnages présents sur scène, tandis que le monologue est prononcé par un personnage seul",
+                        "La tirade est toujours chantée en latin",
+                        "Le monologue est dit à voix basse par le souffleur",
+                        "Il n'y a aucune différence"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C1."
+                    "explanation": "La tirade est un long discours adressé aux autres personnages en scène, alors que le monologue est prononcé en étant seul sur le plateau."
                 }
             ]
         },
@@ -14669,25 +14745,26 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u27-l4) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Selon la poétique classique aristotélicienne, quel effet de purgation des passions (terreur et pitié) la tragédie doit-elle provoquer chez le spectateur ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette forme présente une anomalie phonétique en français standard (134m).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (134n).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (134p)."
+                        "L'amnésie",
+                        "L'hypnose",
+                        "La catharsis",
+                        "La dissonance cognitive"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 2,
+                    "explanation": "La « catharsis » est la libération émotionnelle et morale provoquée par le spectacle tragique."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u27-l4 (terme attendu : « Nous ») :",
+                    "prompt": "Comment appelle-t-on une réplique brève prononcée par un comédien à l'intention du seul public, inaudible pour les autres personnages ? (un _________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "aparté",
+                        "aparte",
+                        "Aparté",
+                        "Aparte"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Cette réplique adressée au public est un « aparté »."
                 }
             ],
             "passThreshold": 0.8
@@ -14703,56 +14780,73 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u27-l4"
+            ]
         },
         "presentation": {
-            "explanation": "Rigorous academic exposition of Rédaction d'une Critique Esthétique Littéraire et Filmique. At the CEFR C1 level, learners develop mastery in abstract conceptualization, domain-specific terminology, and sophisticated syntactic structures required for academic, legal, and intellectual fluency in French.",
+            "explanation": "The French literary commentary (le commentaire composé / linéaire) and cultural review follow academic standards of stylistic criticism:\n\n1. Methodology of the Commentaire Composé:\n- Introduction : Accroche contextuelle (auteur, mouvement), présentation du texte, problématique esthétique centrale (l'axe directeur), annonce du plan.\n- Développement : Chaque sous-partie articule une idée directrice étayée par des citations textuelles analysées sur le fond (sens) et la forme (figures de style, syntaxe, métrique, sonorités).\n- Conclusion : Bilan synthétique des axes et ouverture culturelle (élargissement).\n\n2. Evaluative Formulations:\n- 'Loin de se réduire à... le texte déploie...'\n- 'Cette structure binaire met en exergue...'\n- 'L'entrelacement des registres lyrique et pathétique confère à la scène une portée universelle.'",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Loin de se réduire à un simple réquisitoire politique, le texte de Victor Hugo déploie une puissance métaphorique qui transmute l'indignation en mythe universel.",
+                    "reading": "lwan duh suh ray-dweer ah uhn san-pluh ray-kee-zee-twahr poh-lee-teek, luh tekst duh veek-tohr oo-goh day-plwah oon pwee-sahns may-tah-foh-reek kee trahns-moot lan-deeg-nah-syohn ahn meet oo-nee-vair-sel",
+                    "translation": "Far from reducing itself to a mere political indictment, Victor Hugo's text deploys a metaphorical power that transmutes indignation into a universal myth."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "L'analyse stylistique révèle un entrelacement subtil des registres tragique et élégiaque, orchestré par le recours récurrent à des assonances plaintives.",
+                    "reading": "lah-nah-leez stee-lees-teek ray-vel uhn nahn-truh-lahs-mahn soob-teel day ruh-zhees-truh trah-zheek ay ay-lay-zhyahk, ohr-kes-tray pahr luh ruh-koor ray-koo-rahn ah day zah-soh-nahns plan-teev",
+                    "translation": "Stylistic analysis reveals a subtle intertwining of tragic and elegiac registers, orchestrated by recurrent use of plaintive assonances."
+                },
+                {
+                    "target": "Dans une première partie, nous examinerons comment la scénographie claustrophobique matérialise l'impasse psychologique des personnages.",
+                    "reading": "dahn zoon pruh-myair pahr-tee, noo zeg-zah-mee-nuh-rohn koh-mahn lah say-noh-grah-fee klohs-troh-foh-beek mah-tay-ryah-leez lan-pahs psee-koh-loh-zheek day pair-soh-nahzh",
+                    "translation": "In a first section, we will examine how the claustrophobic stage design materializes the characters' psychological deadlock."
+                },
+                {
+                    "target": "En conclusion, cette œuvre s'inscrit au carrefour du symbolisme et de la modernité poétique en subvertissant les codes de la métrique traditionnelle.",
+                    "reading": "ahn kohn-kloo-zyohn, set uh-vruh san-skree oh kahr-foor doo san-boh-leezm ay duh lah moh-dair-nee-tay poh-ay-teek ahn soob-vair-tee-sahn lay kohd duh lah may-treek trah-dee-syoh-nel",
+                    "translation": "In conclusion, this work belongs at the crossroads of symbolism and poetic modernity by subverting traditional metric codes."
+                },
+                {
+                    "target": "Le tableau dressé par l'auteur offre un écho saisissant aux questionnements existentiels qui traversent la littérature contemporaine.",
+                    "reading": "luh tah-bloh dray-say pahr loh-tuhr oh-fruh uhn nay-koh seh-zee-sahn oh kes-tyohn-mahn zeg-zees-tahn-syel kee trah-vairss lah leet-tay-rah-toor kohn-tahn-poh-ren",
+                    "translation": "The portrait drawn by the author offers a striking echo to the existential questions that run through contemporary literature."
                 }
             ],
             "mnemonics": [
-                "Conceptual anchor for Rédaction d'une Critique Esthétique Littéraire et Filmique"
+                "COMMENTAIRE COMPOSÉ: 1. Idée directrice -> 2. Citation textuelle -> 3. Analyse formelle/stylistique!"
             ],
             "culturalNotes": [
-                "Epistemological and institutional significance of Rédaction d'une Critique Esthétique Littéraire et Filmique in France."
+                "The Baccalauréat de français taken at age 17 in France requires all high school students to master the rigorous methodology of the commentaire de texte littéraire."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Write an advanced, polished aesthetic critique of a literary masterpie » :",
+                    "prompt": "Quelle est la règle d'or d'une sous-partie réussie dans un commentaire de texte français ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (135a).",
-                        "Cette construction passive alourdit inutilement l'énoncé (135b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (135c)."
+                        "Associer systématiquement une citation du texte à une analyse stylistique et à une interprétation du sens",
+                        "Raconter la vie entière de l'auteur sans citer le texte",
+                        "Écrire tout le devoir sous forme de poème en rimes",
+                        "Donner uniquement son avis personnel sans analyser la forme"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Le commentaire composé repose sur le triptyque inséparable : Idée + Citation précise + Analyse stylistique et interprétative."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u27-l5 :",
+                    "prompt": "Que doit comporter l'ouverture (l'élargissement) à la toute fin d'une conclusion littéraire ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette construction passive alourdit inutilement l'énoncé (135x).",
-                        "Cette construction passive alourdit inutilement l'énoncé (135y).",
-                        "Cette construction passive alourdit inutilement l'énoncé (135z)."
+                        "Un prolongement vers une autre œuvre, un mouvement artistique ou un thème connexe",
+                        "Une liste de fautes d'orthographe",
+                        "La note que l'on espère obtenir",
+                        "Le résumé du premier paragraphe mot pour mot"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C1."
+                    "explanation": "L'ouverture élargit la réflexion en établissant un pont avec une autre œuvre, un courant littéraire ou une résonance culturelle."
                 }
             ]
         },
@@ -14760,25 +14854,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u27-l5) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Dans l'introduction d'un commentaire composé, comment s'appelle la question centrale guidant toute l'analyse ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette construction passive alourdit inutilement l'énoncé (135m).",
-                        "Cette construction passive alourdit inutilement l'énoncé (135n).",
-                        "Cette construction passive alourdit inutilement l'énoncé (135p)."
+                        "La didascalie",
+                        "La problématique",
+                        "L'hémistiche",
+                        "L'assignation"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 1,
+                    "explanation": "La « problématique » est la question directrice posée en introduction pour orienter l'interprétation esthétique du texte."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u27-l5 (terme attendu : « Nous ») :",
+                    "prompt": "Quelle expression latine ou française désigne la première phrase d'une dissertation littéraire captivant l'attention ? (la phrase d'_________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "accroche",
+                        "Accroche"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "La première phrase d'introduction est la « phrase d'accroche »."
                 }
             ],
             "passThreshold": 0.8
