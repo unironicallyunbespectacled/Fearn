@@ -8400,56 +8400,73 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u15-l5"
+            ]
         },
         "presentation": {
-            "explanation": "Thorough linguistic breakdown of La Comparaison des Adjectifs et des Adverbes. In French B1, mastering this syntax structure enables learners to articulate complex interpersonal nuances, formal register shifts, and precise logical arguments.",
+            "explanation": "In French, comparisons of superiority, inferiority, and equality for adjectives and adverbs use tripartite syntactic frames:\n\n1. Superiority: PLUS + [ADJECTIF / ADVERBE] + QUE ('more... than / -er than')\n- 'Le TGV est plus rapide que la voiture.' (Adjective: fast)\n- 'Thomas court plus vite que son frère.' (Adverb: quickly)\n\n2. Inferiority: MOINS + [ADJECTIF / ADVERBE] + QUE ('less... than')\n- 'Ce musée est moins fréquenté que le Louvre.'\n- 'Elle s'exprime moins clairement que d'habitude.'\n\n3. Equality: AUSSI + [ADJECTIF / ADVERBE] + QUE ('as... as')\n- 'Lyon est aussi belle que Bordeaux.' (Notice adjective agreement with Lyon / feminine).\n- 'Il chante aussi bien que son professeur.'\n\n4. Pronoun and Agreement Rules:\n- Disjunctive tonic pronouns follow que: 'plus grand que MOI', 'moins rapide que LUI'.\n- Adjectives in comparisons always agree in gender and number with the subject noun!\n- Elision: que becomes qu' before vowels: 'plus rapide qu'un avion'.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Le nouveau modèle de train est beaucoup plus écologique que l'ancien.",
+                    "reading": "luh noo-voh moh-del duh tran ay boh-koo ploo zay-koh-loh-zheek kuh lahn-syan",
+                    "translation": "The new train model is much more eco-friendly than the old one."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Cette exposition temporaire est moins chère que celle du Grand Palais.",
+                    "reading": "set tek-spoh-zee-syohn tahm-poh-rair ay mwan shair kuh sel doo grahn pah-leh",
+                    "translation": "This temporary exhibition is less expensive than the one at the Grand Palais."
+                },
+                {
+                    "target": "Sophie conduit aussi prudemment que son moniteur d'auto-école.",
+                    "reading": "soh-fee kohn-dwee toh-see proo-dah-mahn kuh sohn moh-nee-tuhr doh-toh-ay-kohl",
+                    "translation": "Sophie drives as carefully as her driving instructor."
+                },
+                {
+                    "target": "Ces nouveaux appartements sont plus spacieux que nos anciens bureaux.",
+                    "reading": "say noo-voh zah-pahr-tuh-mahn sohn ploo spah-syuh kuh noh zahn-syan boo-roh",
+                    "translation": "These new apartments are more spacious than our old offices."
+                },
+                {
+                    "target": "Le trajet en métro est aussi rapide qu'en taxi aux heures de pointe.",
+                    "reading": "luh trah-zheh ahn may-troh ay toh-see rah-peed kahn tahk-see oh zuhr duh pwant",
+                    "translation": "The subway trip is as fast as a taxi during rush hour."
                 }
             ],
             "mnemonics": [
-                "Cognitive memory anchor for La Comparaison des Adjectifs et des Adverbes"
+                "ADJECTIVES & ADVERBS use AUSSI...QUE! Nouns use AUTANT DE...QUE! Don't mix up Aussi (qualities) and Autant (quantities)!"
             ],
             "culturalNotes": [
-                "Sociolinguistic and cultural context for La Comparaison des Adjectifs et des Adverbes in modern France."
+                "In French culture, passionate gastronomic debates comparing regional ingredients (such as salted Breton butter vs. sweet butter) are an essential social tradition."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Form comparative structures with adjectives and adverbs (plus...que, m » :",
+                    "prompt": "Complétez la comparaison d'égalité avec l'adjectif : « La cuisine italienne est _________ réputée _________ la cuisine française. »",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (76a).",
-                        "Cette forme présente une anomalie phonétique en français standard (76b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (76c)."
+                        "aussi / que",
+                        "autant / que",
+                        "plus / de",
+                        "autant de / que"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Avec un adjectif qualificatif ('réputée'), la comparaison d'égalité se forme avec « aussi... que »."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u16-l1 :",
+                    "prompt": "Identifiez la phrase comparative correctement formée en français :",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (76x).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (76y).",
-                        "Cette forme présente une anomalie phonétique en français standard (76z)."
+                        "Mon frère est plus grand que moi.",
+                        "Mon frère est plus grand que je.",
+                        "Mon frère est plus grand de moi.",
+                        "Mon frère est aussi grand de moi."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B1."
+                    "explanation": "Après 'que' dans une structure comparative, on emploie obligatoirement le pronom tonique (« moi »)."
                 }
             ]
         },
@@ -8457,25 +8474,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u16-l1) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Choisissez la phrase qui traduit fidèlement : « She works less efficiently than him » :",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (76m).",
-                        "La préposition employée ici n'est pas commandée par le verbe (76n).",
-                        "Cette forme présente une anomalie phonétique en français standard (76p)."
+                        "Elle travaille moins efficacement que lui.",
+                        "Elle travaille aussi efficacement que il.",
+                        "Elle travaille plus efficacement de lui.",
+                        "Elle travaille moins efficace que lui."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "« moins efficacement que lui » associe l'adverbe, la comparaison d'infériorité et le pronom tonique 'lui'."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u16-l1 (terme attendu : « Nous ») :",
+                    "prompt": "Complétez avec le mot comparatif de supériorité : « Cet exercice est _________ difficile que le précédent. »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "plus",
+                        "Plus"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Le comparatif de supériorité avec un adjectif s'exprime avec « plus »."
                 }
             ],
             "passThreshold": 0.8
@@ -8491,56 +8507,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u16-l1"
+            ]
         },
         "presentation": {
-            "explanation": "Thorough linguistic breakdown of La Comparaison des Noms et des Verbes. In French B1, mastering this syntax structure enables learners to articulate complex interpersonal nuances, formal register shifts, and precise logical arguments.",
+            "explanation": "Comparing quantities of nouns and degrees of verbal action follows distinct syntax rules in French:\n\n1. Comparing Nouns (Quantity):\n- Superiority: PLUS DE + [NOM] + QUE (DE) ('more [noun] than') -> 'J'ai plus de temps que toi.'\n- Inferiority: MOINS DE + [NOM] + QUE (DE) ('fewer/less [noun] than') -> 'Il a moins de bagages qu'elle.'\n- Equality: AUTANT DE + [NOM] + QUE (DE) ('as much/many [noun] as') -> 'Nous avons autant d'idées que vous.'\n- Note: The preposition de / d' is mandatory after plus, moins, autant before a noun.\n\n2. Comparing Verbs (Action Intensity):\n- Superiority: [VERBE] + PLUS QUE ('acts more than') -> 'Elle travaille plus que moi.'\n- Inferiority: [VERBE] + MOINS QUE ('acts less than') -> 'Il dort moins que d'habitude.'\n- Equality: [VERBE] + AUTANT QUE ('acts as much as') -> 'Ils voyagent autant que nous.'\n\n3. Phonetic Note for PLUS:\nIn comparisons with adjectives ('plus grand'), the 's' of plus is silent (/ply/). When comparing quantities or verbs ('Il travaille plus' / 'plus de temps'), the 's' is pronounced /plys/ in positive comparisons!",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Cette petite boulangerie a autant de clients que le grand supermarché.",
+                    "reading": "set puh-teet boo-lahn-zhree ah oh-tahn duh klee-ahn kuh luh grahn soo-pair-mahr-shay",
+                    "translation": "This small bakery has as many customers as the big supermarket."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Les résidents de banlieue passent plus de temps dans les transports que les Parisiens.",
+                    "reading": "lay ray-zee-dahn duh bahn-lyuh pahs ploo duh tahn dahn lay trahn-spohr kuh lay pah-ree-zyan",
+                    "translation": "Suburban residents spend more time in transit than Parisians."
+                },
+                {
+                    "target": "Notre équipe a obtenu moins de financements que prévu pour ce trimestre.",
+                    "reading": "noh-truh ay-keep ah ohb-tuh-noo mwan duh fee-nahns-mahn kuh pray-voo poor suh tree-mestr",
+                    "translation": "Our team obtained less funding than anticipated for this quarter."
+                },
+                {
+                    "target": "Mon collègue s'entraîne plus que moi pour le marathon de Paris.",
+                    "reading": "mohn koh-leg sahn-tren ploos kuh mwah poor luh mah-rah-tohn duh pah-ree",
+                    "translation": "My colleague trains more than I do for the Paris marathon."
+                },
+                {
+                    "target": "Malgré son emploi du temps chargé, il lit autant que son frère universitaire.",
+                    "reading": "mahl-gray sohn nahm-plwah doo tahn shahr-zhay, eel lee oh-tahn kuh sohn frair oo-nee-vair-see-tair",
+                    "translation": "Despite his busy schedule, he reads as much as his university brother."
                 }
             ],
             "mnemonics": [
-                "Cognitive memory anchor for La Comparaison des Noms et des Verbes"
+                "NOUNS LOVE 'DE': Plus DE livres, Moins DE travail, Autant DE café! Never drop the DE when counting nouns!",
+                "AUTANT = QUANTITY / ACTION. AUSSI = QUALITY (Adjectives)."
             ],
             "culturalNotes": [
-                "Sociolinguistic and cultural context for La Comparaison des Noms et des Verbes in modern France."
+                "In French economic debates, 'le pouvoir d'achat' (purchasing power) is continuously framed around 'gagner plus de pouvoir d'achat' vs 'avoir moins de dépenses'."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Form comparative structures with nouns (plus de...que, autant de...que » :",
+                    "prompt": "Quelle phrase exprime correctement une égalité de quantité de noms ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "La préposition employée ici n'est pas commandée par le verbe (77a).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (77b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (77c)."
+                        "Elle a autant de patience que son père.",
+                        "Elle a aussi de patience que son père.",
+                        "Elle a autant patience que son père.",
+                        "Elle a aussi patience que son père."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Pour un nom ('patience'), la comparaison d'égalité exige « autant de... que »."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u16-l2 :",
+                    "prompt": "Complétez la comparaison d'action : « En hiver, les enfants jouent dehors _________ qu'en été. »",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (77x).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (77y).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (77z)."
+                        "moins",
+                        "moins de",
+                        "aussi",
+                        "autant de"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B1."
+                    "explanation": "Pour comparer un verbe ('jouent'), on emploie directement « moins que » sans la préposition 'de'."
                 }
             ]
         },
@@ -8548,25 +8582,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u16-l2) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Choisissez l'option correcte pour compléter : « Pierre gagne _________ argent que Marc, mais il dépense _________ que lui. »",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (77m).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (77n).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (77p)."
+                        "autant d' / plus",
+                        "aussi d' / plus de",
+                        "autant / plus de",
+                        "aussi / autant de"
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "Devant le nom 'argent' on met « autant d' », et après le verbe 'dépense' on met « plus »."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u16-l2 (terme attendu : « Nous ») :",
+                    "prompt": "Complétez la formule de quantité : « Nous avons reçu autant _________ candidatures que l'an dernier. »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "de",
+                        "De"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Après autant pour un nom, la préposition requise est « de »."
                 }
             ],
             "passThreshold": 0.8
@@ -8582,56 +8615,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u16-l2"
+            ]
         },
         "presentation": {
-            "explanation": "Thorough linguistic breakdown of Les Comparatifs Irréguliers : Meilleur vs Mieux. In French B1, mastering this syntax structure enables learners to articulate complex interpersonal nuances, formal register shifts, and precise logical arguments.",
+            "explanation": "One of the most essential distinctions in French grammar is separating the comparative of the adjective bon (meilleur) from the comparative of the adverb bien (mieux):\n\n1. MEILLEUR(E)(S) = Comparative of the Adjective BON ('Better' / modifies a NOUN):\n- 'Ce vin est bon. Ce vin-ci est MEILLEUR.' (Adjective agreements: meilleur, meilleure, meilleurs, meilleures).\n- 'La baguette tradition est meilleure que la baguette blanche.'\n- NEVER SAY 'plus bon'! ('Plus bon' is incorrect in standard French).\n\n2. MIEUX = Comparative of the Adverb BIEN ('Better' / modifies a VERB or ADJECTIVE):\n- Invariable word (never changes spelling).\n- 'Marc chante bien. Julie chante MIEUX.'\n- 'Ce médicament m'aide à dormir mieux.'\n- NEVER SAY 'plus bien'! ('Plus bien' is incorrect).\n\n3. PIRE / PLUS MAUVAIS = Comparative of MAUVAIS ('Worse'):\n- 'Pire' is preferred for abstract, qualitative, or moral severity ('C'est encore pire que prévu' - It's even worse than expected).\n- 'Plus mauvais' is used for concrete sensory defects ('Ce café est plus mauvais que le premier').\n\n4. PIS = Archaic comparative of mal:\n- Preserved in fixed idioms: 'tant pis' (too bad / oh well), 'de mal en pis' (from bad to worse).",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Cette boulangerie artisanale prépare les meilleurs croissants du quartier.",
+                    "reading": "set boo-lahn-zhree ahr-tee-zah-nahl pray-pahr lay may-yuhr krwah-sahn doo kahr-tyay",
+                    "translation": "This artisanal bakery makes the best croissants in the neighborhood."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Grâce à ses cours intensifs, Claire parle français beaucoup mieux qu'avant.",
+                    "reading": "grahs ah say koor zan-tahn-seef, klair pahrl frahn-seh boh-koo myuh kah-vahn",
+                    "translation": "Thanks to her intensive courses, Claire speaks French much better than before."
+                },
+                {
+                    "target": "La météo de ce week-end s'annonce encore pire que celle de la semaine dernière.",
+                    "reading": "lah may-tay-oh duh suh wee-kend sah-nohns ahn-kohr peer kuh sel duh lah suh-men dair-nyair",
+                    "translation": "This weekend's weather is forecast to be even worse than last week's."
+                },
+                {
+                    "target": "Sa nouvelle présentation commerciale est bien meilleure que la première version.",
+                    "reading": "sah noo-vel pray-zahn-tah-syohn koh-mair-syahl ay byan may-yuhr kuh lah pruh-myair vair-zyohn",
+                    "translation": "His new commercial presentation is much better than the first version."
+                },
+                {
+                    "target": "Nous comprenons beaucoup mieux le fonctionnement du système après cette formation.",
+                    "reading": "noo kohn-pruh-nohn boh-koo myuh luh fohnk-syohn-mahn doo sees-tem ah-preh set fohr-mah-syohn",
+                    "translation": "We understand how the system works much better after this training."
                 }
             ],
             "mnemonics": [
-                "Cognitive memory anchor for Les Comparatifs Irréguliers : Meilleur vs Mieux"
+                "BON -> MEILLEUR (Both modify NOUNS). BIEN -> MIEUX (Both modify VERBS)!",
+                "BANISH 'PLUS BON' AND 'PLUS BIEN' FOREVER: French gives you MEILLEUR and MIEUX!"
             ],
             "culturalNotes": [
-                "Sociolinguistic and cultural context for Les Comparatifs Irréguliers : Meilleur vs Mieux in modern France."
+                "The philosophical interjection 'Tant pis !' (Too bad / Oh well!) and its enthusiastic twin 'Tant mieux !' (All the better / Great!) are universal French conversational reactions."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Master irregular comparatives: meilleur (better adjective) vs. mieux ( » :",
+                    "prompt": "Complétez la phrase : « Cette tarte aux pommes est _________ que celle du supermarché. »",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (78a).",
-                        "La préposition employée ici n'est pas commandée par le verbe (78b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (78c)."
+                        "meilleure",
+                        "mieux",
+                        "plus bonne",
+                        "plus bien"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "On qualifie le nom féminin 'tarte' ; le comparatif régulier de 'bonne' est l'adjectif « meilleure »."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u16-l3 :",
+                    "prompt": "Complétez : « Depuis qu'il porte des lunettes, Antoine voit beaucoup _________. »",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (78x).",
-                        "Cette forme présente une anomalie phonétique en français standard (78y).",
-                        "La préposition employée ici n'est pas commandée par le verbe (78z)."
+                        "mieux",
+                        "meilleur",
+                        "plus bon",
+                        "plus bien"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B1."
+                    "explanation": "On modifie le verbe 'voit' ; le comparatif de l'adverbe 'bien' est l'adverbe invariable « mieux »."
                 }
             ]
         },
@@ -8639,25 +8690,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u16-l3) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Dans quelle phrase l'emploi de meilleur/mieux est-il rigoureusement correct ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (78m).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (78n).",
-                        "La préposition employée ici n'est pas commandée par le verbe (78p)."
+                        "Ce gâteau est plus bien que l'autre.",
+                        "Elle cuisine meilleur que son frère.",
+                        "Ce gâteau est meilleur et elle cuisine mieux.",
+                        "Ce gâteau est mieux et elle cuisine meilleur."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 2,
+                    "explanation": "« gâteau est meilleur » (adjectif qualifiant le nom) et « elle cuisine mieux » (adverbe modifiant le verbe cuisiner)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u16-l3 (terme attendu : « Nous ») :",
+                    "prompt": "Écrivez le féminin singulier du comparatif de 'bon' : « Sa note est _________ (bon) que celle de Marc. »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "meilleure",
+                        "Meilleure"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Le comparatif féminin de bon est « meilleure »."
                 }
             ],
             "passThreshold": 0.8
@@ -8673,56 +8723,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u16-l3"
+            ]
         },
         "presentation": {
-            "explanation": "Thorough linguistic breakdown of Le Superlatif Absolu et Relatif. In French B1, mastering this syntax structure enables learners to articulate complex interpersonal nuances, formal register shifts, and precise logical arguments.",
+            "explanation": "The Superlative (le superlatif) elevates or reduces an entity to the extreme within a designated category:\n\n1. Superlative Formation:\n- LE / LA / LES + PLUS + [ADJECTIF] (+ DE [DOMAINE]) ('the most...')\n- LE / LA / LES + MOINS + [ADJECTIF] (+ DE [DOMAINE]) ('the least...')\n- Example: 'C'est la ville LA PLUS dynamique DE France.' (It is the most dynamic city in France.)\n\n2. The Golden Rule of Preposition 'DE':\nIn English, superlatives often use 'in' (the tallest in the world). In French, superlative domains ALWAYS take DE (du, de la, des):\n- 'Le plus haut sommet DU monde.' (NOT 'dans le monde').\n- 'La meilleure élève DE la classe.'\n\n3. Double Article Placement:\n- If the adjective normally follows the noun, the definite article MUST be repeated:\n  * 'L'hôtel LE plus cher.' (Double article: L'hôtel... le plus cher).\n  * 'Les livres LES plus intéressants.'\n\n4. Irregular Superlatives:\n- 'Le meilleur / la meilleure / les meilleurs' (the best)\n- 'Le pire / la pire / les pires' (the worst)\n- 'Le mieux' (the best - adverbial superlative: 'C'est lui qui chante le mieux').",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Le mont Blanc est le sommet le plus élevé d'Europe occidentale.",
+                    "reading": "luh mohn blahn ay luh soh-meh luh ploo zay-luh-vay duh-rohp ohk-see-dahn-tahl",
+                    "translation": "Mont Blanc is the highest peak in Western Europe."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "C'est sans doute le roman le plus captivant de cet auteur contemporain.",
+                    "reading": "say sahn doot luh roh-mahn luh ploo kahp-tee-vahn duh seh toh-tuhr kohn-tahm-poh-ran",
+                    "translation": "It is without doubt this contemporary author's most captivating novel."
+                },
+                {
+                    "target": "Voici la solution la moins coûteuse pour moderniser nos installations.",
+                    "reading": "vwah-see lah soh-loo-syohn lah mwan koo-tuhz poor moh-dair-nee-zay noh zan-stah-lah-syohn",
+                    "translation": "Here is the least costly solution for modernizing our facilities."
+                },
+                {
+                    "target": "Cet institut de recherche rassemble les meilleurs experts du domaine médical.",
+                    "reading": "set tan-stee-too duh ruh-shairsh rah-sahnbl lay may-yuhr zek-spair doo doh-men may-dee-kahl",
+                    "translation": "This research institute brings together the best experts in the medical field."
+                },
+                {
+                    "target": "C'est l'étudiant qui a obtenu les résultats les plus remarquables de sa promotion.",
+                    "reading": "say lay-too-dyahn kee ah ohb-tuh-noo lay ray-zool-tah lay ploo ruh-mahr-kahbl duh sah proh-moh-syohn",
+                    "translation": "He is the student who obtained the most remarkable results in his graduating class."
                 }
             ],
             "mnemonics": [
-                "Cognitive memory anchor for Le Superlatif Absolu et Relatif"
+                "DOUBLE THE ARTICLE: 'La ville LA plus belle', 'Les livres LES plus chers'! If the adjective sits after the noun, give it its own article!",
+                "NEVER 'DANS LE MONDE' FOR SUPERLATIVES: It is ALWAYS 'DU monde'!"
             ],
             "culturalNotes": [
-                "Sociolinguistic and cultural context for Le Superlatif Absolu et Relatif in modern France."
+                "France's Guide Michelin famously awards three stars based on superlative culinary artistry: 'Une des meilleures tables du monde'."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Construct superlative statements (le plus, la plus, les plus, le meill » :",
+                    "prompt": "Traduisez fidèlement : « She is the most intelligent student in the school » :",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette forme présente une anomalie phonétique en français standard (79a).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (79b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (79c)."
+                        "C'est l'étudiante la plus intelligente de l'école.",
+                        "C'est l'étudiante la plus intelligente dans l'école.",
+                        "C'est l'étudiante plus intelligente de l'école.",
+                        "C'est l'étudiante la plus intelligente à l'école."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Le superlatif répète l'article (« l'étudiante la plus intelligente ») et introduit le domaine avec « de l'école »."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u16-l4 :",
+                    "prompt": "Complétez le superlatif irrégulier : « C'est la _________ décision que nous ayons prise. » (superlatif de supériorité de 'bonne')",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette variante relève d'un registre familier inadapté au contexte (79x).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (79y).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (79z)."
+                        "meilleure",
+                        "plus bonne",
+                        "mieux",
+                        "plus meilleure"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B1."
+                    "explanation": "Le superlatif féminin de 'bon' est « la meilleure »."
                 }
             ]
         },
@@ -8730,25 +8798,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u16-l4) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle phrase contient une erreur de construction superlative ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette variante relève d'un registre familier inadapté au contexte (79m).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (79n).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (79p)."
+                        "C'est le plus beau monument de la capitale.",
+                        "Voici les voitures les plus rapides dans le monde.",
+                        "C'est la méthode la moins complexe.",
+                        "Il s'agit du pire scénario possible."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 1,
+                    "explanation": "On doit dire « du monde » et non « dans le monde » après un superlatif."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u16-l4 (terme attendu : « Nous ») :",
+                    "prompt": "Complétez l'article répété : « Nous avons visité les châteaux _________ plus majestueux de la région. »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "les",
+                        "Les"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Quand l'adjectif suit le nom, l'article défini se répète au pluriel : « les châteaux les plus majestueux »."
                 }
             ],
             "passThreshold": 0.8
@@ -8764,56 +8831,73 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u16-l4"
+            ]
         },
         "presentation": {
-            "explanation": "Thorough linguistic breakdown of Synthèse Comparative et Évaluation Critique. In French B1, mastering this syntax structure enables learners to articulate complex interpersonal nuances, formal register shifts, and precise logical arguments.",
+            "explanation": "At the B1 summit, learners synthesize all forms of comparison (adjectives, adverbs, nouns, verbs, irregulars, superlatives) to construct nuanced reviews, critical analyses, and evaluative reports:\n\n1. Nuancing Comparisons with Adverbs of Degree:\n- 'beaucoup plus / bien plus que...' (much more than...)\n- 'un peu moins que...' (a little less than...)\n- 'nettement meilleur que...' (markedly / distinctly better than...)\n- 'de loin le plus...' (by far the most...)\n\n2. Parallel and Proportional Comparisons (Plus... plus... / Moins... moins...):\n- 'Plus on pratique, plus on progresse.' (The more you practice, the more you progress.)\n- 'Moins on dépense, plus on économise.' (The less you spend, the more you save.)\n- 'Plus c'est simple, mieux c'est.' (The simpler it is, the better it is.)\n\n3. Formulating Analytical Assessments:\n- Balancing pros and cons (les avantages et les inconvénients).\n- Evaluating price-to-quality ratios (le rapport qualité-prix).",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Ce smartphone offre de loin le meilleur rapport qualité-prix du marché actuel.",
+                    "reading": "suh smaahrt-fohn ohfr duh lwan luh may-yuhr rah-pohr kah-lee-tay pree doo mahr-shay ahk-twel",
+                    "translation": "This smartphone offers by far the best price-to-performance ratio on the current market."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Plus vous lisez d'articles de presse, plus votre vocabulaire devient riche et précis.",
+                    "reading": "ploo voo lee-zay dahr-teekl duh pres, ploo voh-truh voh-kah-boo-lair duh-vyan reesh ay pray-see",
+                    "translation": "The more press articles you read, the richer and more precise your vocabulary becomes."
+                },
+                {
+                    "target": "Bien que ce restaurant soit un peu plus cher, la qualité du service est nettement supérieure.",
+                    "reading": "byan kuh suh res-toh-rahn swah tuhn puh ploo shair, lah kah-lee-tay doo sair-vees ay net-mahn soo-pay-ryuhr",
+                    "translation": "Although this restaurant is a little more expensive, the service quality is distinctly superior."
+                },
+                {
+                    "target": "Moins une voiture consomme de carburant, plus elle est respectueuse de l'environnement.",
+                    "reading": "mwan zoon vwah-toor kohn-suhm duh kahr-boo-rahn, ploo zel ay res-pek-twuhz duh lahn-vee-rohn-mahn",
+                    "translation": "The less fuel a car consumes, the more environmentally friendly it is."
+                },
+                {
+                    "target": "Parmi toutes les options analysées, ce logiciel reste le plus fiable et le plus ergonomique.",
+                    "reading": "pahr-mee toot lay zohp-syohn ah-nah-lee-zay, suh loh-zhee-syel rest luh ploo fyahbl ay luh ploo zair-goh-noh-meek",
+                    "translation": "Among all analyzed options, this software remains the most reliable and user-friendly."
                 }
             ],
             "mnemonics": [
-                "Cognitive memory anchor for Synthèse Comparative et Évaluation Critique"
+                "PROPORTIONAL PROVERB: 'Plus on est de fous, plus on rit' (The more, the merrier)! No 'the' or extra words in French: just PLUS [X], PLUS [Y]!"
             ],
             "culturalNotes": [
-                "Sociolinguistic and cultural context for Synthèse Comparative et Évaluation Critique in modern France."
+                "The concept of 'le rapport qualité-prix' is a core consumer benchmark in France, frequently cited in consumer protection reviews like '60 Millions de consommateurs'."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Synthesize comparative and superlative structures in critical consumer » :",
+                    "prompt": "Comment traduire « The more you practice, the better you speak » ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (80a).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (80b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (80c)."
+                        "Plus tu pratiques, mieux tu parles.",
+                        "Le plus tu pratiques, le plus tu parles.",
+                        "Plus tu pratiques, meilleur tu parles.",
+                        "Plus que tu pratiques, plus que tu parles."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "La structure proportionnelle s'énonce directement « Plus... mieux... » sans article initial."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u16-l5 :",
+                    "prompt": "Complétez l'évaluation critique : « Ce modèle est de loin _________ performant de sa catégorie. »",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (80x).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (80y).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (80z)."
+                        "le plus",
+                        "plus",
+                        "le meilleur",
+                        "beaucoup"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B1."
+                    "explanation": "Avec l'expression 'de loin', on utilise le superlatif « le plus performant »."
                 }
             ]
         },
@@ -8821,25 +8905,26 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u16-l5) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle phrase formule une critique comparative équilibrée et idiomatique ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (80m).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (80n).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (80p)."
+                        "Cet hôtel est plus bon mais il coûte plus.",
+                        "Cet hôtel est meilleur mais il coûte plus cher.",
+                        "Cet hôtel est plus bien mais il est moins cher.",
+                        "Cet hôtel est le mieux hôtel de la ville."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 1,
+                    "explanation": "« est meilleur » (adjectif) et « coûte plus cher » (adverbe de coût) constituent la tournure irréprochable."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u16-l5 (terme attendu : « Nous ») :",
+                    "prompt": "Complétez l'adverbe d'intensité : « Ce tableau est _________ (beaucoup) plus expressif que l'original. »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "bien",
+                        "Bien",
+                        "beaucoup",
+                        "Beaucoup"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Pour intensifier un comparatif, on emploie « bien plus » ou « beaucoup plus »."
                 }
             ],
             "passThreshold": 0.8
