@@ -6226,62 +6226,79 @@
         "id": "fr-u12-l1",
         "unit": "fr-u12",
         "level": "B1",
-        "objective": "Replace spatial destinations and 'à + noun' concepts with the adverbial pronoun Y.",
+        "objective": "Master the adverbial pronoun 'Y' to replace prepositional phrases of location and non-human complements introduced by 'à'.",
         "prerequisites": [
             "fr-u11-l5"
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u11-l5"
+            ]
         },
         "presentation": {
-            "explanation": "Comprehensive presentation of Le Pronom Adverbial Y (Lieu et Complément de À). In French grammar, mastering le pronom adverbial y (lieu et complément de à) is vital for fluid sentence connection, precise discourse organization, and natural communication.",
+            "explanation": "The adverbial pronoun 'Y' has two major grammatical functions in French:\n\n1. REPLACING PLACES / SPATIAL DESTINATIONS:\n- Replaces prepositional phrases indicating location or destination introduced by à, en, dans, chez, sur, sous, devant, derrière, etc. (answering 'Où ?'):\n  - 'Tu vas à Paris ?' -> 'Oui, j'Y vais.'\n  - 'Elle est dans son bureau ?' -> 'Oui, elle Y travaille.'\n  - 'Nous allons chez nos amis.' -> 'Nous Y allons ce soir.'\n\n2. REPLACING NON-HUMAN COMPLEMENTS OF 'À' (Things, Concepts, Activities):\n- Replaces inanimate nouns introduced by the preposition 'à' (answering 'à quoi ?'):\n  - Verbs: penser à, réfléchir à, s'intéresser à, participer à, croire à, faire attention à, s'habituer à, renoncer à, réagir à, répondre à (un message/une lettre).\n  - 'Tu penses à ton avenir ?' -> 'Oui, j'Y pense souvent.'\n  - 'Elle participe à cette réunion ?' -> 'Oui, elle Y participe.'\n\n3. CRITICAL RESTRICTION: 'Y' NEVER REPLACES A PERSON!\n- 'Je pense à Marie' -> 'Je pense à ELLE' (Preposition + Tonic Pronoun), NEVER 'J'y pense'!\n\n4. PLACEMENT:\nPlaced immediately before the conjugated verb (or auxiliary in compound tenses), or before the infinitive: 'J'y suis allé', 'Je vais y aller'.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Est-ce que tu vas souvent à la bibliothèque universitaire ? — Oui, j'y vais trois fois par semaine.",
+                    "reading": "es-kuh too vah soo-vahn ah lah bee-blyoh-tek oo-nee-vair-see-tair ? — wee, zhee vay trwah fwah pahr suh-men",
+                    "translation": "Do you go often to the university library? — Yes, I go there three times a week."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Ce nouveau projet écologique, est-ce que les citoyens y participent activement ?",
+                    "reading": "suh noo-voh proh-zheh ay-koh-loh-zheek, es-kuh lay see-twah-yan zee pahr-tee-seep ahk-teev-mahn ?",
+                    "translation": "This new ecological project, do the citizens actively participate in it?"
+                },
+                {
+                    "target": "J'ai bien réfléchi à votre proposition et j'y suis tout à fait favorable.",
+                    "reading": "zhay byan ray-flay-shee ah voh-truh proh-poh-zee-syohn ay zhee swee too tah feh fah-voh-rahbl",
+                    "translation": "I have carefully reflected on your proposal and I am completely in favor of it."
+                },
+                {
+                    "target": "Nous sommes allés en Provence l'été dernier et nous comptons bien y retourner bientôt.",
+                    "reading": "noo soh-moh zah-lay ahn proh-vahnss lay-tay dair-nyay ay noo kohn-tohn byan yee ruh-toor-nay byan-toh",
+                    "translation": "We went to Provence last summer and we fully intend to return there soon."
+                },
+                {
+                    "target": "Ne touche pas à ce fil électrique : fais-y très attention !",
+                    "reading": "nuh toosh pah ah suh feel ay-lek-treek : feh zee tray zah-tahn-syohn !",
+                    "translation": "Don't touch that electrical wire: pay very close attention to it!"
                 }
             ],
             "mnemonics": [
-                "Memory anchor for Le Pronom Adverbial Y (Lieu et Complément de À)"
+                "Y IS A FORK IN THE ROAD: 'Y' points to a Place ('there') or an Idea ('à + thing'). Never use Y for people!"
             ],
             "culturalNotes": [
-                "Cultural and conversational context for Le Pronom Adverbial Y (Lieu et Complément de À) in France."
+                "The conversational idiom 'Ça y est !' ('That's it!' / 'It's done!') and 'Il y a' ('There is/are') demonstrate the deep structural entrenchment of 'y' in the French language."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Replace spatial destinations and 'à + noun' concepts with the adverbia » :",
+                    "prompt": "Remplacez le complément par le bon pronom : « Nous allons [au restaurant italien] ce soir. »",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (53a).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (53b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (53c)."
+                        "Nous y allons ce soir.",
+                        "Nous l'allons ce soir.",
+                        "Nous en allons ce soir.",
+                        "Nous lui allons ce soir."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "'Au restaurant italien' indique un lieu introduit par 'à + le' -> remplacé par le pronom adverbial de lieu 'y' : 'Nous y allons'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u12-l1 :",
+                    "prompt": "Comment remplace-t-on correctement le complément dans « Je réfléchis [à ma reconversion professionnelle] » ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette proposition modifie subtilement le sens originel du verbe (53x).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (53y).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (53z)."
+                        "J'y réfléchis.",
+                        "Je lui réfléchis.",
+                        "J'en réfléchis.",
+                        "Je la réfléchis."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B1."
+                    "explanation": "'Réfléchir à' + chose/concept abstrait se remplace par 'y' ('J'y réfléchis')."
                 }
             ]
         },
@@ -6289,25 +6306,23 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u12-l1) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Pourquoi ne peut-on PAS dire « J'y pense » pour « Je pense à mon père » ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette proposition modifie subtilement le sens originel du verbe (53m).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (53n).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (53p)."
+                        "Parce que 'y' ne remplace jamais un être humain avec les verbes de pensée ; on doit utiliser 'Je pense à lui'.",
+                        "Parce que le verbe penser n'accepte aucun pronom.",
+                        "Parce que 'père' est un nom masculin singulier qui exige 'le'.",
+                        "Parce que la phrase doit obligatoirement être au subjonctif."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "Avec les verbes comme 'penser à', 'faire attention à', 's'intéresser à', les personnes sont représentées par 'à + pronom tonique' (à lui, à elle), et non par 'y'."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u12-l1 (terme attendu : « Nous ») :",
+                    "prompt": "Complétez avec le pronom adverbial de lieu : « Tu vas en Italie ? — Oui, j'_________ vais pour les vacances. »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "y"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "y (pronom de lieu)."
                 }
             ],
             "passThreshold": 0.8
@@ -6317,62 +6332,79 @@
         "id": "fr-u12-l2",
         "unit": "fr-u12",
         "level": "B1",
-        "objective": "Replace quantities, partitives, and 'de + noun' concepts with the adverbial pronoun EN.",
+        "objective": "Master the adverbial pronoun 'EN' to replace quantities, partitives, and non-human complements introduced by the preposition 'de'.",
         "prerequisites": [
             "fr-u12-l1"
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u12-l1"
+            ]
         },
         "presentation": {
-            "explanation": "Comprehensive presentation of Le Pronom Adverbial EN (Quantité et Complément de DE). In French grammar, mastering le pronom adverbial en (quantité et complément de de) is vital for fluid sentence connection, precise discourse organization, and natural communication.",
+            "explanation": "The adverbial pronoun 'EN' replaces nouns introduced by the preposition 'DE' or partitive/quantitative expressions:\n\n1. REPLACING PARTITIVES & QUANTITIES (du, de la, de l', des, un, une, numbers, adverbs of quantity):\n- 'Tu veux du café ?' -> 'Oui, j'EN veux.' / 'Non, je n'EN veux pas.'\n- 'Tu as des stylos ?' -> 'Oui, j'EN ai trois.' (RULE: The number or quantity adverb MUST BE RETAINED at the end of the clause: 'J'en ai trois', 'Elle en a beaucoup', 'Nous en voulons un peu').\n- 'Tu as une voiture ?' -> 'Oui, j'EN ai une.' / 'Non, je n'EN ai pas.'\n\n2. REPLACING NON-HUMAN COMPLEMENTS OF 'DE' (Things, Concepts, Places of Origin):\n- Verbs: parler de, avoir besoin de, avoir envie de, se souvenir de, être fier de, avoir peur de, s'occuper de, venir de (provenance).\n- 'Tu as besoin de ce livre ?' -> 'Oui, j'EN ai besoin.'\n- 'Il revient de Nice ?' -> 'Oui, il EN revient à l'instant.'\n\n3. RESTRICTION: 'EN' NEVER REPLACES PEOPLE:\n- 'Je parle de Thomas' -> 'Je parle de LUI' (Preposition + Tonic Pronoun), NEVER 'J'en parle'!\n\n4. PAST PARTICIPLE EXCEPTION:\n- Unlike direct object pronouns (le/la/les), 'EN' does NOT trigger agreement of the past participle: 'Des pommes ? J'en ai mangé.' (invariable mangé!).",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Tu as acheté des fruits frais au marché ? — Oui, j'en ai pris un kilo.",
+                    "reading": "too ah ahsh-tay day frwee freh oh mahr-shay ? — wee, zhahn ay pree uhn kee-loh",
+                    "translation": "Did you buy fresh fruit at the market? — Yes, I took a kilogram of it."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Ce documentaire dont tout le monde parle, nous en avons discuté hier soir.",
+                    "reading": "suh doh-koo-mahn-tair dohn too luh mohnd pahrl, noo zahn nah-vohn dees-koo-tay yair swahr",
+                    "translation": "That documentary everyone is talking about, we discussed it last night."
+                },
+                {
+                    "target": "Est-ce que tu as encore besoin de ma voiture ? — Non merci, je n'en ai plus besoin.",
+                    "reading": "es-kuh too ah zahn-kohr buh-zwan duh mah vwah-toor ? — nohn mair-see, zhuh nahn nay ploo buh-zwan",
+                    "translation": "Do you still need my car? — No thank you, I don't need it anymore."
+                },
+                {
+                    "target": "Elle a beaucoup d'expérience dans ce secteur : elle en a plus que tous ses collègues.",
+                    "reading": "el ah boh-koo deks-pay-ryahnss dahn suh sek-tuhr : el ahn nah ploo kuh too say koh-leg",
+                    "translation": "She has a lot of experience in this sector: she has more of it than all her colleagues."
+                },
+                {
+                    "target": "Des erreurs de jeunesse, chacun de nous en a commis au moins une dans sa vie.",
+                    "reading": "day zay-ruhr duh zhuh-nes, shah-kuhn duh noo zahn nah koh-mee oh mwan zoon dahn sah vee",
+                    "translation": "Youthful mistakes, each of us has made at least one in our life."
                 }
             ],
             "mnemonics": [
-                "Memory anchor for Le Pronom Adverbial EN (Quantité et Complément de DE)"
+                "EN = E-xtract of N-oun! Replaces 'DE + thing' and partitive quantities, but remember to keep the number at the end!"
             ],
             "culturalNotes": [
-                "Cultural and conversational context for Le Pronom Adverbial EN (Quantité et Complément de DE) in France."
+                "Omitting the final number when using 'en' is a common anglicism: saying 'J'ai deux' is completely incorrect in French; standard French strictly requires 'J'en ai deux'."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Replace quantities, partitives, and 'de + noun' concepts with the adve » :",
+                    "prompt": "Répondez affirmativement avec le pronom 'en' : « Tu as des frères ? »",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette forme présente une anomalie phonétique en français standard (54a).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (54b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (54c)."
+                        "Oui, j'en ai deux.",
+                        "Oui, j'ai deux.",
+                        "Oui, je les ai deux.",
+                        "Oui, j'y ai deux."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Avec une quantité précise, on emploie 'en' devant le verbe et on conserve le chiffre à la fin : 'Oui, j'en ai deux'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u12-l2 :",
+                    "prompt": "Remplacez le complément souligné : « Nous avons parlé [de ce voyage passionnant] toute la soirée. »",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette forme présente une anomalie phonétique en français standard (54x).",
-                        "La préposition employée ici n'est pas commandée par le verbe (54y).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (54z)."
+                        "Nous en avons parlé toute la soirée.",
+                        "Nous y avons parlé toute la soirée.",
+                        "Nous l'avons parlé toute la soirée.",
+                        "Nous lui avons parlé toute la soirée."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B1."
+                    "explanation": "'Parler de' + chose/événement abstrait se remplace par le pronom adverbial 'en' : 'Nous en avons parlé'."
                 }
             ]
         },
@@ -6380,25 +6412,23 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u12-l2) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Pourquoi le participe passé ne s'accorde-t-il PAS dans « Des pommes ? J'en ai mangé » ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette forme présente une anomalie phonétique en français standard (54m).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (54n).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (54p)."
+                        "Parce que le pronom adverbial 'en' ne provoque jamais l'accord du participe passé avec avoir.",
+                        "Parce que 'pommes' est au masculin.",
+                        "Parce que le verbe manger est intransitif.",
+                        "Parce que la phrase est une négation."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "En grammaire française, le pronom 'en' représentant une quantité indéterminée n'entraîne jamais l'accord du participe passé."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u12-l2 (terme attendu : « Nous ») :",
+                    "prompt": "Complétez la réponse (pronom remplaçant 'du fromage') : « Tu veux du fromage ? — Oui, j'_________ veux bien une tranche. »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "en"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "en (remplace du fromage)."
                 }
             ],
             "passThreshold": 0.8
@@ -6408,62 +6438,79 @@
         "id": "fr-u12-l3",
         "unit": "fr-u12",
         "level": "B1",
-        "objective": "Use Y and EN with affirmative and negative imperative structures (Vas-y ! N'y va pas ! Manges-en !).",
+        "objective": "Distinguish between human vs non-human prepositional complements: Y / EN vs tonic pronouns (à lui / d'elle) vs COI (lui / leur).",
         "prerequisites": [
             "fr-u12-l2"
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u12-l2"
+            ]
         },
         "presentation": {
-            "explanation": "Comprehensive presentation of Les Pronoms Y et EN à l'Impératif. In French grammar, mastering les pronoms y et en à l'impératif is vital for fluid sentence connection, precise discourse organization, and natural communication.",
+            "explanation": "Mastering the distinction between persons and inanimate things when choosing pronouns after 'à' and 'de' is essential for fluent B1 French:\n\n1. CONSTRUCTIONS WITH 'À':\n- If followed by a PERSON:\n  a) Standard communication verbs (parler à, téléphoner à, écrire à, donner à) -> COI PRONOUN (lui / leur):\n     'Je parle à Julie' -> 'Je LUI parle.'\n  b) Psychological / sensory / reflexive verbs requiring disjunctive 'à' (penser à, faire attention à, s'habituer à, s'intéresser à, tenir à, rêver à) -> PREPOSITION 'À' + TONIC PRONOUN (moi, toi, lui, elle, nous, vous, eux, elles):\n     'Je pense à Julie' -> 'Je pense à ELLE.' (Never 'Je lui pense'!).\n- If followed by a THING / CONCEPT / PLACE:\n  -> ADVERBIAL PRONOUN 'Y':\n     'Je pense à mon avenir' -> 'J'Y pense.'\n     'Je m'habitue à ce climat' -> 'Je m'Y habitue.'\n\n2. CONSTRUCTIONS WITH 'DE':\n- If followed by a PERSON:\n  -> PREPOSITION 'DE' + TONIC PRONOUN:\n     'Je parle de Thomas' -> 'Je parle de LUI.'\n     'Elle a peur de ses patrons' -> 'Elle a peur d'EUX.'\n- If followed by a THING / CONCEPT / PLACE:\n  -> ADVERBIAL PRONOUN 'EN':\n     'Je parle de ce projet' -> 'J'EN parle.'\n     'Elle a peur de l'obscurité' -> 'Elle EN a peur.'",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Tu penses souvent à tes parents ? — Oui, je pense toujours à eux avec affection.",
+                    "reading": "too pahns soo-vahn ah tay pah-rahn ? — wee, zhuh pahns too-zhoor ah uh ah-vek ah-fek-syohn",
+                    "translation": "Do you often think of your parents? — Yes, I always think of them with affection."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Tu penses souvent à ton avenir professionnel ? — Oui, j'y pense tous les jours.",
+                    "reading": "too pahns soo-vahn ah tohn nahv-neer proh-feh-syoh-nel ? — wee, zhee pahns too lay zhoor",
+                    "translation": "Do you often think of your professional future? — Yes, I think about it every day."
+                },
+                {
+                    "target": "Est-ce que vous parlez souvent de votre collègue Marc ? — Non, nous parlons rarement de lui.",
+                    "reading": "es-kuh voo pahr-lay soo-vahn duh voh-truh koh-leg mahrk ? — nohn, noo pahr-lohn rahr-mahn duh lwee",
+                    "translation": "Do you often talk about your colleague Marc? — No, we rarely talk about him."
+                },
+                {
+                    "target": "Est-ce que vous parlez souvent de ce nouveau contrat ? — Oui, nous en parlons sans arrêt.",
+                    "reading": "es-kuh voo pahr-lay soo-vahn duh suh noo-voh kohn-trah ? — wee, noo zahn pahr-lohn sahn zah-reh",
+                    "translation": "Do you often talk about this new contract? — Yes, we talk about it constantly."
+                },
+                {
+                    "target": "Elle tient énormément à ses enfants, mais elle s'intéresse aussi à son travail et s'y consacre pleinement.",
+                    "reading": "el tyan ay-nohr-may-mahn ah say zahn-fahn, meh zel san-tay-res oh-see ah sohn trah-vahy ay see kohn-sahkruh plen-mahn",
+                    "translation": "She cares deeply about her children, but she is also interested in her work and devotes herself fully to it."
                 }
             ],
             "mnemonics": [
-                "Memory anchor for Les Pronoms Y et EN à l'Impératif"
+                "HUMAN DIGNITY RULE: Humans keep their prepositions (penser à elle, parler de lui)! Objects get digested into Y and EN!"
             ],
             "culturalNotes": [
-                "Cultural and conversational context for Les Pronoms Y et EN à l'Impératif in France."
+                "Using 'J'en parle' when referring to a human person is considered degrading or objectifying in formal French literature and polite conversation."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Use Y and EN with affirmative and negative imperative structures (Vas- » :",
+                    "prompt": "Comment remplace-t-on le complément dans « Je pense [à ma grand-mère] » ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (55a).",
-                        "Cette construction passive alourdit inutilement l'énoncé (55b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (55c)."
+                        "Je pense à elle. (penser à + être humain = à + pronom tonique)",
+                        "J'y pense.",
+                        "Je lui pense.",
+                        "Je la pense."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Avec 'penser à', un être humain est représenté par 'à + pronom tonique' ('Je pense à elle'), alors qu'une chose utiliserait 'y'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u12-l3 :",
+                    "prompt": "Choisissez la paire de phrases grammaticalement irréprochable :",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette construction passive alourdit inutilement l'énoncé (55x).",
-                        "Cette construction passive alourdit inutilement l'énoncé (55y).",
-                        "Cette construction passive alourdit inutilement l'énoncé (55z)."
+                        "Je parle de mon voisin -> Je parle de lui ; Je parle de mon travail -> J'en parle.",
+                        "Je parle de mon voisin -> J'en parle ; Je parle de mon travail -> Je parle de lui.",
+                        "Je parle de mon voisin -> Je lui parle ; Je parle de mon travail -> J'y parle.",
+                        "Je parle de mon voisin -> Je le parle ; Je parle de mon travail -> Je l'en parle."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B1."
+                    "explanation": "'De + personne' -> 'de lui' ; 'de + chose' -> 'en'."
                 }
             ]
         },
@@ -6471,25 +6518,23 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u12-l3) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Pourquoi dit-on « Je m'intéresse à CE PROJET -> Je m'y intéresse », mais « Je m'intéresse à CETTE FEMME -> Je m'intéresse à elle » ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette construction passive alourdit inutilement l'énoncé (55m).",
-                        "Cette construction passive alourdit inutilement l'énoncé (55n).",
-                        "Cette construction passive alourdit inutilement l'énoncé (55p)."
+                        "Parce que 'y' ne remplace que des choses ou concepts inanimés après la préposition 'à', tandis que les personnes exigent 'à + pronom tonique'.",
+                        "Parce que 'femme' est féminin singulier.",
+                        "Parce que le verbe 's'intéresser' est pronominal.",
+                        "Parce que la première phrase est au conditionnel."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "La règle de sélection pronominale oppose les inanimés (y) aux êtres animés (à + pronom tonique) pour les verbes à complément prépositionnel fixe."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u12-l3 (terme attendu : « Nous ») :",
+                    "prompt": "Complétez la phrase (remplacez 'de mes amis') : « Mes amis me manquent, je me souviens souvent de _________ . »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "eux"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "eux (de + pronom tonique masculin pluriel pour des personnes)."
                 }
             ],
             "passThreshold": 0.8
@@ -6499,62 +6544,79 @@
         "id": "fr-u12-l4",
         "unit": "fr-u12",
         "level": "B1",
-        "objective": "Integrate Y and EN into the complete multi-pronoun clitic hierarchy (me/te/se/nous/vous -> le/la/les -> lui/leur -> y -> en).",
+        "objective": "Master high-frequency idiomatic pronominal expressions incorporating fixed 'Y' and 'EN' (s'en aller, en vouloir à, s'y connaître, en avoir marre, s'en faire).",
         "prerequisites": [
             "fr-u12-l3"
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u12-l3"
+            ]
         },
         "presentation": {
-            "explanation": "Comprehensive presentation of La Hiérarchie Complète des Pronoms Clitiques. In French grammar, mastering la hiérarchie complète des pronoms clitiques is vital for fluid sentence connection, precise discourse organization, and natural communication.",
+            "explanation": "In French, several essential verbal idioms have permanently absorbed 'Y' or 'EN' as fixed lexical components whose meanings cannot be deduced literally:\n\nCORE IDIOMS WITH 'EN':\n1. S'EN ALLER (to leave / head out / pass away):\n   - 'Il est tard, je m'en vais.' (I'm leaving.)\n   - Imperative: 'Va-t'en !' (Go away!) / 'Allons-nous-en !'\n2. S'EN FAIRE (to worry / fret):\n   - 'Ne t'en fais pas, tout va bien.' (Don't worry, everything is fine.)\n3. EN AVOIR MARRE / EN AVOIR ASSEZ (to be fed up / sick of):\n   - 'J'en ai marre des retards de train !' (I'm sick of train delays!)\n4. EN VOULOIR À QUELQU'UN (to hold a grudge / be resentful toward someone):\n   - 'Ne m'en veux pas pour mon retard.' (Don't hold it against me.)\n5. S'EN SORTIR (to manage / pull through / cope):\n   - 'C'était difficile, mais elle s'en est sortie.'\n\nCORE IDIOMS WITH 'Y':\n1. S'Y CONNAÎTRE (to be an expert / knowledgeable in something):\n   - 'Elle s'y connaît en cuisine française.'\n2. S'Y PRENDRE (to tackle / go about doing a task):\n   - 'Comment tu t'y prends pour réparer ce moteur ?'\n3. ÇA Y EST ! (That's it! / We're done! / It happened!)\n4. Y COMPRIS (including) / S'Y METTRE (to get started on something: 'Je m'y mets tout de suite!').",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Il se fait tard et j'ai une longue route devant moi : je m'en vais maintenant.",
+                    "reading": "eel suh feh tahr ay zhay oon lohng root duh-vahn mwah : zhuh mahn vay man-tuh-nahn",
+                    "translation": "It is getting late and I have a long drive ahead of me: I am leaving now."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Ne t'en fais pas pour les préparatifs de la fête, nous nous occupons de tout.",
+                    "reading": "nuh tahn feh pah poor lay pray-pah-rah-teef duh lah fet, noo noo zoh-koo-pohn duh too",
+                    "translation": "Don't worry about the party preparations, we are taking care of everything."
+                },
+                {
+                    "target": "Elle est passionnée de vin et elle s'y connaît vraiment en œnologie.",
+                    "reading": "el ay pah-syoh-nay duh van ay el see koh-neh vray-mahn ahn nuh-noh-loh-zhee",
+                    "translation": "She is passionate about wine and really knows her stuff in enology."
+                },
+                {
+                    "target": "J'espère sincèrement que tu ne m'en veux pas pour mon absence hier soir.",
+                    "reading": "zhes-pair san-sair-mahn kuh too nuh mahn vuh pah poor mohn nahb-sahnss yair swahr",
+                    "translation": "I sincerely hope you don't hold it against me for my absence last night."
+                },
+                {
+                    "target": "Après trois heures de travail acharné, ça y est, nous avons enfin terminé le rapport !",
+                    "reading": "ah-preh trwah zuhr duh trah-vahy ah-shahr-nay, sah yee ay, noo zah-vohn zahn-fan tair-mee-nay luh rah-pohr !",
+                    "translation": "After three hours of relentless work, that's it, we have finally finished the report!"
                 }
             ],
             "mnemonics": [
-                "Memory anchor for La Hiérarchie Complète des Pronoms Clitiques"
+                "FROZEN CLITICS: In 's'en aller' and 's'y connaître', Y and EN are frozen inside the verb block — treat them as one single unit!"
             ],
             "culturalNotes": [
-                "Cultural and conversational context for La Hiérarchie Complète des Pronoms Clitiques in France."
+                "'En avoir marre' is standard colloquial French used across all social registers from family conversations to national radio broadcasts."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Integrate Y and EN into the complete multi-pronoun clitic hierarchy (m » :",
+                    "prompt": "Que signifie l'expression « Ne t'en fais pas ! » en français courant ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (56a).",
-                        "Cette forme présente une anomalie phonétique en français standard (56b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (56c)."
+                        "Ne t'inquiète pas ! / Ne te fais pas de souci !",
+                        "Ne pars pas maintenant !",
+                        "Ne fabrique pas cet objet !",
+                        "Ne m'en veux pas !"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "'S'en faire' est une expression idiomatique figée signifiant 's'inquiéter / se faire du souci'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u12-l4 :",
+                    "prompt": "Quelle phrase traduit exactement « She knows a lot about computer science » ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (56x).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (56y).",
-                        "Cette forme présente une anomalie phonétique en français standard (56z)."
+                        "Elle s'y connaît en informatique.",
+                        "Elle s'en connaît en informatique.",
+                        "Elle se connaît en informatique.",
+                        "Elle lui connaît en informatique."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B1."
+                    "explanation": "L'expression consacrée est 's'y connaître en quelque chose' (être compétent dans un domaine)."
                 }
             ]
         },
@@ -6562,25 +6624,23 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u12-l4) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Comment dit-on « Don't be mad at me / Don't hold a grudge against me » en français idiomatique ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (56m).",
-                        "La préposition employée ici n'est pas commandée par le verbe (56n).",
-                        "Cette forme présente une anomalie phonétique en français standard (56p)."
+                        "Ne m'en veux pas.",
+                        "Ne me veux pas.",
+                        "Ne m'y veux pas.",
+                        "Ne m'en vas pas."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "'En vouloir à quelqu'un' signifie éprouver du ressentiment ou de la rancune envers quelqu'un."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u12-l4 (terme attendu : « Nous ») :",
+                    "prompt": "Donnez le pronom manquant dans l'impératif « Va-t'_________ ! » (signifiant 'Pars d'ici !') :",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "en"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "en (Va-t'en ! du verbe s'en aller)."
                 }
             ],
             "passThreshold": 0.8
@@ -6590,62 +6650,79 @@
         "id": "fr-u12-l5",
         "unit": "fr-u12",
         "level": "B1",
-        "objective": "Synthesize all object and adverbial pronouns in conversational French dialogues.",
+        "objective": "Synthesize all French personal and adverbial pronouns (COD, COI, Y, EN) in complex multi-clause sentences, imperatives, and compound tenses.",
         "prerequisites": [
             "fr-u12-l4"
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u12-l4"
+            ]
         },
         "presentation": {
-            "explanation": "Comprehensive presentation of Synthèse des Pronoms dans la Conversation Courante. In French grammar, mastering synthèse des pronoms dans la conversation courante is vital for fluid sentence connection, precise discourse organization, and natural communication.",
+            "explanation": "Mastering the complete system of French pronouns requires integrating COD, COI, Y, and EN across all sentence structures:\n\n1. THE COMPLETE 5-SLOT PRE-VERBAL SEQUENCE (Declaratives & Negative Imperatives):\n   [Slot 1: me / te / se / nous / vous]\n   -> [Slot 2: le / la / l' / les]\n   -> [Slot 3: lui / leur]\n   -> [Slot 4: y]\n   -> [Slot 5: en] + [VERB]\n\nExamples:\n- 'Il y en a.' (There is some.)\n- 'Je lui en ai parlé.' (I spoke to him/her about it.)\n- 'Elle nous y a accompagnés.' (She accompanied us there.)\n- 'Tu ne leur en as pas offert.' (You didn't offer them any.)\n\n2. THE POST-VERBAL IMPERATIVE SEQUENCE (Affirmative Imperative):\n   [VERB] - [COD: le / la / les] - [COI: moi / toi / lui / nous / vous / leur] - [Y] - [EN]\n\nExamples:\n- 'Donne-m'en !' / 'Mène-nous-y !' / 'Parlez-lui-en !' / 'Rends-le-leur !'\n\n3. PAST PARTICIPLE AGREEMENT SUMMARY TABLE:\n- Preceding COD (le, la, les, que, quel) -> AGREES with gender/number ('Ces fleurs ? Je les y ai plantées.').\n- Preceding EN -> NEVER AGREES ('Des fleurs ? J'en ai planté.').\n- Preceding COI (lui, leur) -> NEVER AGREES ('Je leur ai parlé.').\n- Preceding Y -> NEVER AGREES ('J'y ai pensé.').",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Ces délicieuses pommes du verger, nous lui en avons offert un panier entier.",
+                    "reading": "say day-lee-syuhz pohm doo vair-zhay, noo lwee zahn nah-vohn zoh-fair uhn pah-nyay ahn-tyay",
+                    "translation": "These delicious orchard apples, we offered him/her a whole basket of them."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Si vos collègues souhaitent visiter ce musée historique, emmenez-les-y ce week-end.",
+                    "reading": "see voh koh-leg sweht vee-zee-tay suh moo-zay ees-toh-reek, ahn-mneh lay zee suh week-end",
+                    "translation": "If your colleagues wish to visit this historic museum, take them there this weekend."
+                },
+                {
+                    "target": "Ce dossier financier est complexe, mais nous leur en avons déjà parlé lors de la réunion.",
+                    "reading": "suh doh-syay fee-nahn-syay ay kohn-pleks, meh noo luhr zahn nah-vohn day-zhah pahr-lay lohr duh lah ray-oo-nyohn",
+                    "translation": "This financial file is complex, but we already spoke to them about it during the meeting."
+                },
+                {
+                    "target": "Des fraises fraîches, j'en ai acheté deux barquettes et je les ai mises dans le réfrigérateur.",
+                    "reading": "day frehz fresh, zhahn ay ahsh-tay duh bahr-ket ay zhuh lay zay meez dahn luh ray-free-zhay-rah-tuhr",
+                    "translation": "Fresh strawberries, I bought two punnets of them and I put them in the refrigerator."
+                },
+                {
+                    "target": "N'hésite pas à me poser des questions sur ce projet : nous pourrons en discuter dès demain.",
+                    "reading": "nay-zeet pah ah muh poh-zay day kes-tyohn soor suh proh-zheh : noo poor-rohn zahn dees-koo-tay deh duh-man",
+                    "translation": "Don't hesitate to ask me questions about this project: we will be able to discuss it starting tomorrow."
                 }
             ],
             "mnemonics": [
-                "Memory anchor for Synthèse des Pronoms dans la Conversation Courante"
+                "THE GOLDEN CHAIN: me/te/se/nous/vous -> le/la/les -> lui/leur -> y -> en! Never cross the streams!"
             ],
             "culturalNotes": [
-                "Cultural and conversational context for Synthèse des Pronoms dans la Conversation Courante in France."
+                "Mastery of intricate double pronoun and adverbial pronoun sequences is the signature benchmark of advanced C1 French proficiency and polished written rhetoric."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Synthesize all object and adverbial pronouns in conversational French  » :",
+                    "prompt": "Choisissez la phrase qui intègre correctement les pronoms pour « Nous avons parlé [de ce problème] [à notre directeur] » :",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "La préposition employée ici n'est pas commandée par le verbe (57a).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (57b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (57c)."
+                        "Nous lui en avons parlé.",
+                        "Nous en lui avons parlé.",
+                        "Nous y en avons parlé.",
+                        "Nous l'en avons parlé."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "L'ordre clitique place le COI de 3e personne 'lui' avant le pronom adverbial 'en' : 'Nous lui en avons parlé'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u12-l5 :",
+                    "prompt": "Quelle est la forme impérative affirmative correcte pour « Donne [des cerises] [à moi] » ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (57x).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (57y).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (57z)."
+                        "Donne-m'en !",
+                        "Donne-moi-en !",
+                        "Donne-en-moi !",
+                        "M'en donne !"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B1."
+                    "explanation": "À l'impératif affirmatif devant 'en', 'moi' s'élide en 'm'' avec un trait d'union : 'Donne-m'en !'."
                 }
             ]
         },
@@ -6653,25 +6730,23 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u12-l5) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Dans la phrase « Ces photos, je les y ai trouvées », pourquoi le participe passé 'trouvées' s'accorde-t-il au féminin pluriel ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (57m).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (57n).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (57p)."
+                        "Parce que le pronom direct 'les' (représentant 'ces photos', fém. pl.) précède l'auxiliaire avoir.",
+                        "Parce que le pronom 'y' exige un accord au pluriel.",
+                        "Parce que le sujet 'je' est obligatoirement féminin.",
+                        "Parce que c'est une règle spéciale de l'adverbe de lieu."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "L'accord se fait avec le COD antéposé 'les' (ces photos, fém. pl.). Le pronom 'y' n'a aucun impact sur l'accord."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u12-l5 (terme attendu : « Nous ») :",
+                    "prompt": "Complétez la formule d'encouragement : « Vas-_________ ! Tu peux réussir ! »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "y"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "y (Vas-y !)."
                 }
             ],
             "passThreshold": 0.8
