@@ -8940,56 +8940,73 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u16-l5"
+            ]
         },
         "presentation": {
-            "explanation": "Thorough linguistic breakdown of Formation du Plus-que-parfait. In French B1, mastering this syntax structure enables learners to articulate complex interpersonal nuances, formal register shifts, and precise logical arguments.",
+            "explanation": "The Plus-que-parfait (Pluperfect) expresses an action completed prior to another past action or reference point ('the past of the past'):\n\n1. Conjugation Formula:\n[AUXILIAIRE AVOIR / ÊTRE À L'IMPARFAIT] + [PARTICIPE PASSÉ]\n\n2. Auxiliary Selection:\nFollows the exact same auxiliary rules as the passé composé (DR MRS VANDERTRAMP & reflexives take être; all others take avoir).\n- Auxiliary AVOIR (Imparfait): 'j'avais, tu avais, il avait, nous avions, vous aviez, ils avaient'.\n  * Example: 'J'avais déjà fini mon travail.'\n- Auxiliary ÊTRE (Imparfait): 'j'étais, tu étais, il était, elle était, nous étions, vous étiez, ils étaient'.\n  * Example: 'Elle était déjà partie.' (Mandatory subject agreement!)\n\n3. Reflexive Verbs:\n- 'je m'étais levé(e), tu t'étais couché(e), nous nous étions rencontrés'.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Quand la police est arrivée sur les lieux, le cambrioleur s'était déjà enfui par la fenêtre.",
+                    "reading": "kahn lah poh-lees ay tah-ree-vay soor lay lyuh, luh kahm-bree-yuhr say-teh day-zhah ahn-fwee pahr lah fuh-netr",
+                    "translation": "When the police arrived at the scene, the burglar had already fled through the window."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "J'avais soigneusement préparé tous mes dossiers avant le début de la réunion.",
+                    "reading": "zhah-veh swahn-yuhz-mahn pray-pah-ray too may doh-syay ah-vahn luh day-boo duh lah ray-oo-nyohn",
+                    "translation": "I had carefully prepared all my files before the start of the meeting."
+                },
+                {
+                    "target": "Nous étions déjà rentrés de voyage lorsque la tempête a éclaté sur la côte.",
+                    "reading": "noo zay-tyohn day-zhah rahn-tray duh vwah-yahzh lohrs-kuh lah tahm-pet ah ay-klah-tay soor lah koht",
+                    "translation": "We had already returned from our trip when the storm broke over the coast."
+                },
+                {
+                    "target": "Elle m'a montré les photos magnifiques qu'elle avait prises lors de son séjour à Kyoto.",
+                    "reading": "el mah mohn-tray lay foh-toh mahn-yee-feek kel ah-veh preez lohr duh sohn say-zhoor ah kyoh-toh",
+                    "translation": "She showed me the magnificent photos that she had taken during her stay in Kyoto."
+                },
+                {
+                    "target": "Vous vous étiez trompés d'adresse en envoyant cette lettre recommandée.",
+                    "reading": "voo voo zay-tyay trohn-pay dah-dres ahn nahn-vwah-yahn set letr ruh-koh-mahn-day",
+                    "translation": "You had made a mistake with the address when sending this registered letter."
                 }
             ],
             "mnemonics": [
-                "Cognitive memory anchor for Formation du Plus-que-parfait"
+                "PLUS-QUE-PARFAIT = IMPARFAIT AUXILIARY + PARTICIPE PASSÉ! Think: 'Past of the Past' (Had done / Had gone)!"
             ],
             "culturalNotes": [
-                "Sociolinguistic and cultural context for Formation du Plus-que-parfait in modern France."
+                "In classic French detective fiction (such as Georges Simenon's Commissaire Maigret mysteries), the pluperfect is essential for methodically reconstructing the timeline preceding a crime."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Form le plus-que-parfait using imperfect auxiliaries (avais/étais) and » :",
+                    "prompt": "Conjuguez au plus-que-parfait : « Quand nous sommes arrivés, le train _________ (déjà / partir). »",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (81a).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (81b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (81c)."
+                        "était déjà parti",
+                        "avait déjà parti",
+                        "a déjà parti",
+                        "serait déjà parti"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Le verbe 'partir' se conjugue avec l'auxiliaire être à l'imparfait : « était déjà parti »."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u17-l1 :",
+                    "prompt": "Complétez : « Elle m'a rendu le roman que je lui _________ (prêter) la semaine précédente. »",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "L'antériorité temporelle est mal établie par rapport au repère (81x).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (81y).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (81z)."
+                        "avais prêté",
+                        "avais prêter",
+                        "étais prêté",
+                        "ai prêté"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B1."
+                    "explanation": "L'action de prêter est antérieure au rendu ; on utilise 'avoir' à l'imparfait + participe passé : « avais prêté »."
                 }
             ]
         },
@@ -8997,25 +9014,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u17-l1) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle phrase illustre un emploi correct du plus-que-parfait pour exprimer l'antériorité ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'antériorité temporelle est mal établie par rapport au repère (81m).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (81n).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (81p)."
+                        "J'ai mangé parce que j'avais faim.",
+                        "J'ai retrouvé les clés que j'avais perdues.",
+                        "Quand il est venu, nous partions.",
+                        "Elle lisait le livre qu'elle achetait hier."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 1,
+                    "explanation": "« avais perdues » (plus-que-parfait avec accord COD) marque l'antériorité par rapport à l'action de retrouver (« ai retrouvé »)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u17-l1 (terme attendu : « Nous ») :",
+                    "prompt": "Conjuguez avec 'ils' au plus-que-parfait : « Ils _________ (finir) leurs devoirs avant de sortir. »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "avaient fini",
+                        "Avaient fini"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Auxiliaire avoir à l'imparfait (avaient) + participe passé (fini) = « avaient fini »."
                 }
             ],
             "passThreshold": 0.8
@@ -9031,56 +9047,73 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u17-l1"
+            ]
         },
         "presentation": {
-            "explanation": "Thorough linguistic breakdown of L'Antériorité Temporelle et la Causalité au Passé. In French B1, mastering this syntax structure enables learners to articulate complex interpersonal nuances, formal register shifts, and precise logical arguments.",
+            "explanation": "The Plus-que-parfait explains why a past situation occurred, establishing causal and temporal antecedence:\n\n1. Temporal Conjunctions of Anteriority:\n- 'Dès que / Aussitôt que + plus-que-parfait' -> passé composé\n  * Example: 'Dès qu'il avait terminé, il est parti.'\n- 'Après que + indicatif (plus-que-parfait)':\n  * Example: 'Après qu'elle avait fermé la porte, elle a entendu un bruit.'\n- 'Parce que / Car / Comme + plus-que-parfait' (Causal antecedence):\n  * Example: 'Il était fatigué parce qu'il avait mal dormi.'\n\n2. The Narrative Hierarchy in Past Tenses:\n- Plus-que-parfait = Prior background / anterior causes (what happened beforehand).\n- Passé composé / Passé simple = Punctual, sequential foreground actions.\n- Imparfait = Ongoing past states, background atmosphere, duration.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Julien a raté son vol parce qu'il avait oublié son passeport sur la table du salon.",
+                    "reading": "zhoo-lyan ah rah-tay sohn vohl pahr-skuh eel ah-veh too-blee-ay sohn pahs-pohr soor lah tahbl doo sah-lohn",
+                    "translation": "Julien missed his flight because he had forgotten his passport on the living room table."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Comme elle s'était levée très tôt ce matin-là, elle a pu admirer le lever du soleil sur la montagne.",
+                    "reading": "kohm el say-teh luh-vay treh toh suh mah-tan-lah, el ah poo dahd-mee-ray luh luh-vay doo soh-lay soor lah mohn-tahn-yuh",
+                    "translation": "As she had woken up very early that morning, she was able to admire the sunrise over the mountain."
+                },
+                {
+                    "target": "Aussitôt que les délégués avaient signé l'accord historique, les applaudissements ont éclaté.",
+                    "reading": "oh-see-toh kuh lay day-lay-gay zah-vyeh seen-yay lah-kohr ees-toh-reek, lay zah-ploh-dees-mahn ohn tay-klah-tay",
+                    "translation": "As soon as the delegates had signed the historic agreement, applause erupted."
+                },
+                {
+                    "target": "Nous avons compris pourquoi le moteur avait calé après avoir inspecté le réservoir d'essence.",
+                    "reading": "noo zah-vohn kohn-pree poor-kwah luh moh-tuhr ah-veh kah-lay ah-preh zah-vwahr an-spek-tay luh ray-zair-vwahr deh-sahns",
+                    "translation": "We understood why the engine had stalled after inspecting the fuel tank."
+                },
+                {
+                    "target": "Le directeur a félicité l'équipe car elle avait dépassé tous les objectifs fixés.",
+                    "reading": "luh dee-rek-tuhr ah fay-lee-see-tay lay-keep kahr el ah-veh day-pah-say too lay zohb-zhek-teef feek-say",
+                    "translation": "The director congratulated the team because it had exceeded all set goals."
                 }
             ],
             "mnemonics": [
-                "Cognitive memory anchor for L'Antériorité Temporelle et la Causalité au Passé"
+                "THE CHAIN OF TIME: First (Plus-que-parfait) -> Then (Passé composé) -> While (Imparfait)!"
             ],
             "culturalNotes": [
-                "Sociolinguistic and cultural context for L'Antériorité Temporelle et la Causalité au Passé in modern France."
+                "In French administrative and judicial reporting, precision in establishing the chronological sequence of events determines official accountability."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Sequence complex narrative events establishing clear cause-and-effect  » :",
+                    "prompt": "Quelle proposition introduit une cause antérieure au plus-que-parfait ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "La préposition employée ici n'est pas commandée par le verbe (82a).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (82b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (82c)."
+                        "parce qu'il avait trop mangé",
+                        "pour qu'il mange",
+                        "afin qu'il ait mangé",
+                        "quoiqu'il mangeait"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "« parce qu'il avait trop mangé » établit la cause antérieure au plus-que-parfait expliquant l'état passé."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u17-l2 :",
+                    "prompt": "Complétez la phrase temporelle : « Dès que nous _________ (recevoir) votre message, nous sommes immédiatement partis. »",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "La préposition employée ici n'est pas commandée par le verbe (82x).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (82y).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (82z)."
+                        "avions reçu",
+                        "avons reçu",
+                        "recevions",
+                        "aurions reçu"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B1."
+                    "explanation": "L'antériorité immédiate par rapport au passé composé 'sommes partis' demande le plus-que-parfait « avions reçu »."
                 }
             ]
         },
@@ -9088,25 +9121,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u17-l2) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Identifiez la phrase articulant rigoureusement une cause antérieure et une conséquence au passé :",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "La préposition employée ici n'est pas commandée par le verbe (82m).",
-                        "Cette forme présente une anomalie phonétique en français standard (82n).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (82p)."
+                        "Comme il avait neigé toute la nuit, les routes étaient complètement bloquées.",
+                        "Comme il neigeait toute la nuit, les routes sont bloquées.",
+                        "Comme il a neigé toute la nuit, les routes avaient bloqué.",
+                        "Comme il avait neigé, les routes bloquent."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "« avait neigé » (cause antérieure au plus-que-parfait) explique parfaitement « étaient bloquées » (état résultant à l'imparfait)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u17-l2 (terme attendu : « Nous ») :",
+                    "prompt": "Complétez le verbe au plus-que-parfait : « Elle n'a pas pu payer parce qu'elle _________ (perdre) son portefeuille. »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "avait perdu",
+                        "Avait perdu"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "La cause antérieure est conjuguée au plus-que-parfait : « avait perdu »."
                 }
             ],
             "passThreshold": 0.8
@@ -9122,56 +9154,73 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u17-l2"
+            ]
         },
         "presentation": {
-            "explanation": "Thorough linguistic breakdown of La Concordance des Temps dans le Récit Passé. In French B1, mastering this syntax structure enables learners to articulate complex interpersonal nuances, formal register shifts, and precise logical arguments.",
+            "explanation": "In sophisticated narrative registers (press reports, historical accounts, memoirs), master French storytellers coordinate three narrative strata:\n\n1. The Three Past Tense Strata:\n- Foreground events (Chronological succession): Passé composé (or Passé simple in literature).\n- Background context (Atmosphere, physical state): Imparfait.\n- Retrospective background (Flashbacks, anterior causes): Plus-que-parfait.\n\n2. Indirect Speech in the Past (Discours Indirect au Passé):\nWhen reporting statements in a past framework:\n- Present in direct speech -> Imparfait ('Il a dit : Je pars' -> 'Il a dit qu'il partait.')\n- Passé composé in direct speech -> Plus-que-parfait ('Il a dit : J'ai fini' -> 'Il a dit qu'il avait fini.')\n- Futur simple in direct speech -> Conditionnel présent ('Il a dit : Je viendrai' -> 'Il a dit qu'il viendrait.')",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Le journaliste a expliqué que l'incendie s'était déclaré après la fermeture du magasin.",
+                    "reading": "luh zhoor-nah-leest ah eks-plee-kay kuh lan-sahn-dee say-teh day-klah-ray ah-preh lah fair-muh-toor doo mah-gah-zan",
+                    "translation": "The journalist explained that the fire had started after the store's closing."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Elle affirmait avec assurance qu'elle avait déjà transmis tous les justificatifs demandés.",
+                    "reading": "el ah-feer-meh ah-vek ah-soo-rahns kel ah-veh day-zhah trahns-mee too lay zhoos-tee-fee-kah-teef duh-mahn-day",
+                    "translation": "She asserted with confidence that she had already forwarded all requested supporting documents."
+                },
+                {
+                    "target": "Quand nous sommes entrés dans le salon, la cheminée était allumée et quelqu'un avait préparé du thé chaud.",
+                    "reading": "kahn noo sohm zahn-tray dahn luh sah-lohn, lah shmee-nay ay-teh tah-loo-may ay kel-kuhn ah-veh pray-pah-ray doo tay shoh",
+                    "translation": "When we entered the living room, the fireplace was lit (imparfait) and someone had prepared hot tea (plus-que-parfait)."
+                },
+                {
+                    "target": "Les historiens ont confirmé que le traité avait été négocié en secret durant plusieurs mois.",
+                    "reading": "lay zees-toh-ryan ohn kohn-feer-may kuh luh treh-tay ah-veh tay-tay nay-goh-syay ahn suh-kreh doo-rahn ploo-zyuhr mwah",
+                    "translation": "Historians confirmed that the treaty had been negotiated in secret over several months."
+                },
+                {
+                    "target": "Il m'a juré qu'il n'avait jamais vu ce document confidentiel avant hier soir.",
+                    "reading": "eel mah zhoo-ray keel nah-veh zhah-meh voo suh doh-koo-mahn kohn-fee-dahn-syel ah-vahn yair swahr",
+                    "translation": "He swore to me that he had never seen this confidential document before last night."
                 }
             ],
             "mnemonics": [
-                "Cognitive memory anchor for La Concordance des Temps dans le Récit Passé"
+                "DISCOURS INDIRECT SHIFT: In reported past speech, yesterday's Passé Composé becomes today's Plus-que-Parfait!"
             ],
             "culturalNotes": [
-                "Sociolinguistic and cultural context for La Concordance des Temps dans le Récit Passé in modern France."
+                "French investigative journalism (such as Le Monde and Mediapart) adheres strictly to these concordance rules to report testimonies with legal precision."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Manage temporal concordance across multi-tiered past narrative structu » :",
+                    "prompt": "Transposez au discours indirect au passé : « Il a déclaré : 'J'ai signé le contrat hier.' »",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (83a).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (83b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (83c)."
+                        "Il a déclaré qu'il avait signé le contrat la veille.",
+                        "Il a déclaré qu'il a signé le contrat hier.",
+                        "Il a déclaré qu'il signait le contrat la veille.",
+                        "Il a déclaré qu'il signerait le contrat hier."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Au discours indirect après un verbe introducteur au passé, le passé composé devient plus-que-parfait ('avait signé') et 'hier' devient 'la veille'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u17-l3 :",
+                    "prompt": "Dans un récit au passé, quelle forme remplace le futur simple au discours indirect ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette proposition modifie subtilement le sens originel du verbe (83x).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (83y).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (83z)."
+                        "Le conditionnel présent",
+                        "Le plus-que-parfait",
+                        "L'imparfait",
+                        "Le subjonctif"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B1."
+                    "explanation": "Le futur simple devient le conditionnel présent (le 'futur du passé') au discours indirect au passé."
                 }
             ]
         },
@@ -9179,25 +9228,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u17-l3) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Choisissez la phrase qui respecte la concordance des temps dans le récit journalistique :",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette proposition modifie subtilement le sens originel du verbe (83m).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (83n).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (83p)."
+                        "Le ministre a annoncé qu'il a démissionné la veille.",
+                        "Le ministre a annoncé qu'il avait démissionné la veille.",
+                        "Le ministre annonçait qu'il démissionne la veille.",
+                        "Le ministre a annoncé qu'il démissionnera la veille."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 1,
+                    "explanation": "« a annoncé » (passé) régit le plus-que-parfait « avait démissionné » pour une action accomplie la veille."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u17-l3 (terme attendu : « Nous ») :",
+                    "prompt": "Transposez au passé : « Elle a assuré qu'elle _________ (comprendre) toute la situation. » (action antérieure accomplie)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "avait compris",
+                        "Avait compris"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Le verbe 'comprendre' au plus-que-parfait avec elle donne « avait compris »."
                 }
             ],
             "passThreshold": 0.8
@@ -9213,56 +9261,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u17-l3"
+            ]
         },
         "presentation": {
-            "explanation": "Thorough linguistic breakdown of Le Regret et le Souhait Rétrospectif. In French B1, mastering this syntax structure enables learners to articulate complex interpersonal nuances, formal register shifts, and precise logical arguments.",
+            "explanation": "To express retrospective regret, hindsight sorrow, or unfulfilled past wishes regarding events that can no longer be modified, French uses:\n\n1. Hypothetical Regret (Si seulement + Plus-que-parfait):\n- 'Si seulement j'avais su !' (If only I had known!)\n- 'Si seulement nous étions partis plus tôt !' (If only we had left earlier!)\nThis structure expresses an exclamatory retrospective wish without needing a main clause.\n\n2. The Full Past Unreal Conditional System:\n- SI + PLUS-QUE-PARFAIT -> CONDITIONNEL PASSÉ\n- Conditionnel passé: [Avoir / Être au conditionnel présent] + [Participe passé]:\n  * 'Si j'avais étudié, j'aurais réussi l'examen.' (If I had studied, I would have passed the exam.)\n  * 'Si elle était venue, nous serions sortis.' (If she had come, we would have gone out.)\n\n3. Regret with Modal Verbs:\n- 'J'aurais dû...' (I should have...) -> 'J'aurais dû t'écouter.'\n- 'J'aurais voulu / aimé...' (I would have liked to...)",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Si seulement nous avions réservé nos billets à l'avance, nous n'aurions pas payé le tarif plein !",
+                    "reading": "see suhl-mahn noo zah-vyohn ray-zair-vay noh bee-yeh ah lah-vahns, noo noh-ryohn pah pay-yay luh tah-reef plan",
+                    "translation": "If only we had booked our tickets in advance, we would not have paid full price!"
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Si j'avais su que tu étais à l'hôpital, je serais venu te rendre visite immédiatement.",
+                    "reading": "see zhah-veh soo kuh too ay-teh ah loh-pee-tahl, zhuh suh-reh vuh-noo tuh rahn-druh vee-zeet ee-may-dyaht-mahn",
+                    "translation": "If I had known you were in the hospital, I would have come to visit you immediately."
+                },
+                {
+                    "target": "Quel immense regret ! J'aurais vraiment dû accepter cette proposition d'expatriation au Canada.",
+                    "reading": "kel ee-mahns ruh-greh, zhoh-reh vreh-mahn doo ahk-sep-tay set proh-poh-zee-syohn dehk-spah-tree-ah-syohn oh kah-nah-dah",
+                    "translation": "What immense regret! I really should have accepted that expatriation offer to Canada."
+                },
+                {
+                    "target": "Si seulement elle s'était rendu compte plus tôt de la gravité de son erreur !",
+                    "reading": "see suhl-mahn el say-teh rahn-doo ploo toh duh lah grah-vee-tay duh sohn nay-ruhr",
+                    "translation": "If only she had realized the gravity of her mistake sooner!"
+                },
+                {
+                    "target": "Si nous avions écouté les conseils du guide, nous ne nous serions pas perdus dans la forêt.",
+                    "reading": "see noo zah-vyohn zay-koo-tay lay kohn-say doo geed, noo nuh noo suh-ryohn pah pair-doo dahn lah foh-reh",
+                    "translation": "If we had listened to the guide's advice, we would not have gotten lost in the forest."
                 }
             ],
             "mnemonics": [
-                "Cognitive memory anchor for Le Regret et le Souhait Rétrospectif"
+                "SI NEVER TAKES THE CONDITIONAL: 'Si j'avais su' (YES) vs 'Si j'aurais su' (NEVER! Les 'Si' n'aiment pas les 'R')!",
+                "J'aurais dû + infinitif = I should have done it!"
             ],
             "culturalNotes": [
-                "Sociolinguistic and cultural context for Le Regret et le Souhait Rétrospectif in modern France."
+                "The classic French proverb 'Avec des si, on mettrait Paris en bouteille' (With 'ifs', you could put Paris in a bottle) wittily critiques endless hindsight regret."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Express unfulfilled past desires and hindsight regret using 'si seulem » :",
+                    "prompt": "Quelle phrase formule un regret rétrospectif correct sans faute grammaticale ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette forme présente une anomalie phonétique en français standard (84a).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (84b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (84c)."
+                        "Si seulement j'avais écouté tes conseils !",
+                        "Si seulement j'aurais écouté tes conseils !",
+                        "Si seulement j'ai écouté tes conseils !",
+                        "Si seulement je serais à l'écoute !"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Après 'si', on ne met jamais de conditionnel ; le regret rétrospectif se construit avec le plus-que-parfait : « Si seulement j'avais écouté »."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u17-l4 :",
+                    "prompt": "Complétez l'hypothèse passée : « Si nous avions pris le train, nous _________ (arriver) à l'heure. »",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette forme présente une anomalie phonétique en français standard (84x).",
-                        "La préposition employée ici n'est pas commandée par le verbe (84y).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (84z)."
+                        "serions arrivés",
+                        "aurions arrivé",
+                        "étions arrivés",
+                        "avions arrivé"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B1."
+                    "explanation": "Dans le système hypothétique passé (Si + PQP), l'apodose est au conditionnel passé : « nous serions arrivés »."
                 }
             ]
         },
@@ -9270,25 +9336,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u17-l4) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Identifiez la faute majeure dans : « Si j'aurais su la vérité, je ne serais pas venu. »",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette forme présente une anomalie phonétique en français standard (84m).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (84n).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (84p)."
+                        "L'emploi du conditionnel passé après 'si' au lieu du plus-que-parfait.",
+                        "L'accord du participe passé venu.",
+                        "La négation 'ne... pas'.",
+                        "L'emploi de l'auxiliaire être avec venir."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "La proposition conditionnelle introduite par 'si' rejette formellement le conditionnel ; il faut dire « Si j'avais su »."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u17-l4 (terme attendu : « Nous ») :",
+                    "prompt": "Formulez le regret avec le verbe devoir au conditionnel passé : « Tu _________ (devoir) me prévenir plus tôt ! »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "aurais dû",
+                        "Aurais dû"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "L'expression du reproche/regret au passé est « aurais dû »."
                 }
             ],
             "passThreshold": 0.8
@@ -9304,56 +9369,73 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u17-l4"
+            ]
         },
         "presentation": {
-            "explanation": "Thorough linguistic breakdown of L'Analepse et la Narration Rétrospective Complexe. In French B1, mastering this syntax structure enables learners to articulate complex interpersonal nuances, formal register shifts, and precise logical arguments.",
+            "explanation": "An analepsis (l'analepse in literary narratology) is a retrospective flashback. In creative French writing, managing analepsis requires shifting fluidly across temporal markers and verb tenses:\n\n1. Temporal Markers Anchored in the Past (Repères Temporels du Récit):\n- In present discourse: 'hier' -> In past narrative: 'la veille' (the day before).\n- In present discourse: 'aujourd'hui' -> In past narrative: 'ce jour-là' (that day).\n- In present discourse: 'demain' -> In past narrative: 'le lendemain' (the next day).\n- In present discourse: 'il y a deux jours' -> In past narrative: 'deux jours plus tôt / auparavant' (two days earlier).\n- In present discourse: 'dans deux jours' -> In past narrative: 'deux jours plus tard / après' (two days later).\n\n2. Executing the Narrative Flashback:\n- Initiating analepsis: 'Tout avait commencé trois ans plus tôt...' (Plus-que-parfait).\n- Developing the backstory: Alternation of Imparfait (states/descriptions) and Plus-que-parfait (prior events).\n- Returning to the primary story arc: 'Ce matin-là, la porte s'est ouverte...'",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Tout avait commencé cinq ans auparavant, lorsque Thomas avait quitté son village natal pour tenter sa chance à Paris.",
+                    "reading": "too tah-veh koh-mahn-say sank kahhn toh-pah-rah-vahn, lohrs-kuh toh-mah zah-veh kee-tay sohn vee-lahzh nah-tahl poor tahn-tay sah shahns ah pah-ree",
+                    "translation": "It had all started five years earlier, when Thomas had left his native village to try his luck in Paris."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "La veille de cette terrible tempête, les marins avaient pourtant observé un calme inhabituel sur l'océan.",
+                    "reading": "lah veh-yuh duh set teh-reebl tahm-pet, lay mah-ran zah-vyohn poor-tahn ohb-zair-vay uhn kahlm ee-nah-bee-twel soor loh-say-ahn",
+                    "translation": "The day before this terrible storm, the sailors had nonetheless observed an unusual calm on the ocean."
+                },
+                {
+                    "target": "Elle se souvint soudain de la promesse qu'il lui avait faite quelques mois plus tôt sous les arcades du Louvre.",
+                    "reading": "el suh soo-van soo-dan duh lah proh-mes keel lwee ah-veh fet kel-kuh mwah ploo toh soo lay zahr-kahd doo loovr",
+                    "translation": "She suddenly remembered the promise he had made to her a few months earlier beneath the arcades of the Louvre."
+                },
+                {
+                    "target": "Ce jour-là, l'inspecteur comprit enfin ce que les témoins avaient tenté de lui dissimuler durant l'enquête.",
+                    "reading": "suh zhoor-lah, lan-spek-tuhr kohn-pree tahn-fan suh kuh lay tay-mwan zah-vyohn tahn-tay duh lwee dee-see-moo-lay doo-rahn lahn-ket",
+                    "translation": "That day, the detective finally understood what the witnesses had tried to conceal from him during the investigation."
+                },
+                {
+                    "target": "Trois semaines auparavant, un mystérieux courrier anonyme était parvenu au commissariat central.",
+                    "reading": "trwah suh-men toh-pah-rah-vahn, uhn mees-tay-ryuh koo-ryay ah-noh-neem ay-teh pahr-vuh-noo oh koh-mee-sah-ryah sahn-trahl",
+                    "translation": "Three weeks earlier, a mysterious anonymous letter had arrived at central police headquarters."
                 }
             ],
             "mnemonics": [
-                "Cognitive memory anchor for L'Analepse et la Narration Rétrospective Complexe"
+                "RETROSPECTIVE CHRONOMETERS: Replace 'hier' with 'LA VEILLE', 'il y a 3 jours' with '3 JOURS PLUS TÔT' when narrating in the past!"
             ],
             "culturalNotes": [
-                "Sociolinguistic and cultural context for L'Analepse et la Narration Rétrospective Complexe in modern France."
+                "French cinematic narrative traditions (from French Film Noir to the Nouvelle Vague) frequently open in media res before deploying flashback analepses to reveal character motivations."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Deploy flashback (l'analepse) techniques in extended multi-paragraph c » :",
+                    "prompt": "Dans un récit au passé, quel marqueur temporel remplace l'expression « hier soir » ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (85a).",
-                        "Cette construction passive alourdit inutilement l'énoncé (85b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (85c)."
+                        "la veille au soir",
+                        "le jour d'hier",
+                        "trois jours après",
+                        "le lendemain soir"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Dans un récit au passé, 'hier soir' devient « la veille au soir »."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u17-l5 :",
+                    "prompt": "Identifiez le repère temporel correct pour indiquer un événement qui s'est produit deux jours avant :",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette construction passive alourdit inutilement l'énoncé (85x).",
-                        "Cette construction passive alourdit inutilement l'énoncé (85y).",
-                        "Cette construction passive alourdit inutilement l'énoncé (85z)."
+                        "deux jours plus tôt",
+                        "dans deux jours",
+                        "il y a deux jours",
+                        "le surlendemain"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B1."
+                    "explanation": "Dans une analepse au passé, on utilise « deux jours plus tôt » ou « deux jours auparavant »."
                 }
             ]
         },
@@ -9361,25 +9443,26 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u17-l5) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Choisissez l'extrait narratif employant parfaitement les temps et repères de l'analepse :",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette construction passive alourdit inutilement l'énoncé (85m).",
-                        "Cette construction passive alourdit inutilement l'énoncé (85n).",
-                        "Cette construction passive alourdit inutilement l'énoncé (85p)."
+                        "Hier il arrive, parce qu'il mangeait demain.",
+                        "Ce jour-là, elle comprit tout : deux semaines plus tôt, son frère lui avait menti.",
+                        "Ce jour-là, elle a compris tout : dans deux semaines, son frère lui ment.",
+                        "Aujourd'hui, elle comprit que deux semaines plus tard il avait menti."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 1,
+                    "explanation": "« Ce jour-là » (repère passé), « comprit » (passé), « deux semaines plus tôt » (analepse) et « avait menti » (plus-que-parfait) forment un ensemble narratif parfait."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u17-l5 (terme attendu : « Nous ») :",
+                    "prompt": "Dans un récit au passé, comment transpose-t-on 'il y a dix ans' ? (terme attendu : dix ans _________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "auparavant",
+                        "Auparavant",
+                        "plus tôt",
+                        "Plus tôt"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Dans le récit au passé, 'il y a dix ans' se transpose en « dix ans auparavant » ou « dix ans plus tôt »."
                 }
             ],
             "passThreshold": 0.8
