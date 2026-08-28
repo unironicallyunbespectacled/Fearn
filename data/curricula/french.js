@@ -9478,56 +9478,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u17-l5"
+            ]
         },
         "presentation": {
-            "explanation": "Thorough linguistic breakdown of L'Hypothèse Réelle (Si + Présent -> Futur). In French B1, mastering this syntax structure enables learners to articulate complex interpersonal nuances, formal register shifts, and precise logical arguments.",
+            "explanation": "The 1st conditional pattern expresses real, possible, probable future conditions and general truths:\n\n1. Three Result Patterns:\n- SI + PRÉSENT -> FUTUR SIMPLE (Future consequence of a probable condition):\n  * 'S'il fait beau demain, nous irons à la plage.'\n- SI + PRÉSENT -> PRÉSENT (General truth / automatic consequence):\n  * 'Si on chauffe l'eau à 100 degrés, elle bout.'\n- SI + PRÉSENT -> IMPÉRATIF (Order, counsel, recommendation):\n  * 'Si tu as un problème, appelle-moi tout de suite.'\n\n2. The Elision Rule for 'SI':\n- 'Si' elides ONLY before il and ils: 's'il', 's'ils'.\n- 'Si' NEVER elides before elle, elles, or on: 'si elle', 'si elles', 'si on'!\n  * Correct: 'Si elle vient...' / Fatal mistake: 'S'elle vient...'\n\n3. Absolute Ban on Future after 'SI':\nNEVER use the future tense in a 'si' clause! 'Si j'aurai le temps' is incorrect; always say 'Si j'ai le temps'.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "S'il fait beau ce week-end, nous organiserons un grand pique-nique au parc de Sceaux.",
+                    "reading": "seel feh boh suh wee-kend, noo zohr-gah-nee-zrohn uhn grahn peek-neek oh pahrk duh soh",
+                    "translation": "If the weather is nice this weekend, we will organize a big picnic in Sceaux Park."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Si vous rencontrez la moindre difficulté technique, contactez immédiatement le service d'assistance.",
+                    "reading": "see voo rahn-kohn-tray lah mwan-druh deef-fee-kool-tay tek-neek, kohn-tahk-tay ee-may-dyaht-mahn luh sair-vees dah-sees-tahns",
+                    "translation": "If you encounter the slightest technical difficulty, contact support service immediately."
+                },
+                {
+                    "target": "Si la température baisse en dessous de zéro, l'eau se transforme en glace.",
+                    "reading": "see lah tahm-pay-rah-toor bes ahn duh-soo duh zay-roh, loh suh trahns-fohrm ahn glahs",
+                    "translation": "If the temperature drops below zero, water turns into ice."
+                },
+                {
+                    "target": "S'ils terminent le rapport avant vendredi, nous pourrons le soumettre au conseil d'administration.",
+                    "reading": "seel tair-meen luh rah-pohr ah-vahn vahn-druh-dee, noo poo-rohn luh soo-metr oh kohn-say dahd-mee-nees-trah-syohn",
+                    "translation": "If they finish the report before Friday, we will be able to submit it to the board of directors."
+                },
+                {
+                    "target": "Si elle réussit son entretien d'embauche, elle commencera son nouveau travail le mois prochain.",
+                    "reading": "see el ray-oo-see sohn nahn-truh-tyan dahm-bohsh, el koh-mahn-sruh sohn noo-voh trah-vah-yuh luh mwah proh-shan",
+                    "translation": "If she aces her job interview, she will start her new job next month."
                 }
             ],
             "mnemonics": [
-                "Cognitive memory anchor for L'Hypothèse Réelle (Si + Présent -> Futur)"
+                "SI ELISION: 'S'il' and 'S'ils' (YES)! 'Si elle' and 'Si on' (NEVER drop the 'i')!",
+                "NO FUTURE AFTER SI: 'Si j'ai' (Present condition) -> 'J'irai' (Future result)!"
             ],
             "culturalNotes": [
-                "Sociolinguistic and cultural context for L'Hypothèse Réelle (Si + Présent -> Futur) in modern France."
+                "In French corporate negotiations and project planning, conditional commitments ('Si nous obtenons l'accord, nous déploierons le projet') require precise legal phrasing."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Construct real first conditional hypotheses with 'si + présent -> futu » :",
+                    "prompt": "Complétez l'hypothèse réelle : « S'il pleut demain, nous _________ (rester) à la maison. »",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (86a).",
-                        "Cette forme présente une anomalie phonétique en français standard (86b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (86c)."
+                        "resterons",
+                        "resterions",
+                        "restions",
+                        "restâmes"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Après 'si + présent' pour une condition future, le verbe principal se conjugue au futur simple : « resterons »."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u18-l1 :",
+                    "prompt": "Identifiez la phrase correctement orthographiée avec l'élision de 'si' :",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (86x).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (86y).",
-                        "Cette forme présente une anomalie phonétique en français standard (86z)."
+                        "S'il vient et si elle vient aussi.",
+                        "S'il vient et s'elle vient aussi.",
+                        "Si il vient et s'elle vient aussi.",
+                        "Si il vient et si elle vient aussi."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B1."
+                    "explanation": "'Si' s'élide uniquement devant 'il/ils' (« s'il ») et ne s'élide jamais devant 'elle' (« si elle »)."
                 }
             ]
         },
@@ -9535,25 +9553,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u18-l1) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle phrase comporte une erreur de mode ou de temps après 'si' ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (86m).",
-                        "La préposition employée ici n'est pas commandée par le verbe (86n).",
-                        "Cette forme présente une anomalie phonétique en français standard (86p)."
+                        "Si tu viens à Paris, préviens-moi.",
+                        "Si nous aurons le temps, nous visiterons le musée.",
+                        "Si vous voulez, nous pouvons partir maintenant.",
+                        "S'il fait chaud, je boirai de l'eau."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 1,
+                    "explanation": "On ne met jamais le futur après 'si' de condition ; il faut dire « Si nous avons le temps »."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u18-l1 (terme attendu : « Nous ») :",
+                    "prompt": "Conjuguez le verbe principal au futur simple : « Si vous signez ce contrat, vous _________ (obtenir) une réduction. »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "obtiendrez",
+                        "Obtiendrez"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Le verbe obtenir au futur simple avec 'vous' est « obtiendrez »."
                 }
             ],
             "passThreshold": 0.8
@@ -9569,56 +9586,73 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u18-l1"
+            ]
         },
         "presentation": {
-            "explanation": "Thorough linguistic breakdown of L'Hypothèse Imaginaire du Présent (Si + Imparfait -> Conditionnel). In French B1, mastering this syntax structure enables learners to articulate complex interpersonal nuances, formal register shifts, and precise logical arguments.",
+            "explanation": "The 2nd conditional pattern expresses hypothetical, imaginary, or contrary-to-fact present situations:\n\n1. The Syntactic Formula:\nSI + IMPARFAIT -> CONDITIONNEL PRÉSENT\n- Example: 'Si j'avais de l'argent (imparfait), j'achèterais une maison (conditionnel).'\n\n2. Semantic Nuance & Advice:\n- The condition is unreal in the present (I do not have money right now).\n- 'Si j'étais toi / Si j'étais à votre place...' (If I were you / in your shoes...) is the standard French structure for giving polite counsel.\n\n3. Strict Ban on Conditional after 'SI':\nNEVER use the conditional mood inside the 'si' clause!\n- Fatal mistake: 'Si je serais riche, je voyagerais.' (INCORRECT)\n- Correct: 'Si j'étais riche, je voyagerais.' (CORRECT)",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Si j'avais plus de temps libre, j'apprendrais à jouer du piano classique.",
+                    "reading": "see zhah-veh ploo duh tahn leebr, zhah-prahn-dreh ah zhoo-ay doo pyah-noh klahs-seek",
+                    "translation": "If I had more free time, I would learn to play classical piano."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Si nous habitions en bord de mer, nous nous baignerions tous les matins.",
+                    "reading": "see noo zah-bee-tyohn ahn bohr duh mair, noo noo ben-yuh-ryohn too lay mah-tan",
+                    "translation": "If we lived by the seaside, we would go swimming every morning."
+                },
+                {
+                    "target": "À votre place, si j'étais confronté à ce dilemme, je demanderais conseil à un avocat.",
+                    "reading": "ah voh-truh plahs, see zhay-teh kohn-frohn-tay ah suh dee-lem, zhuh duh-mahn-druh-reh kohn-say ah uhn nah-voh-kah",
+                    "translation": "In your place, if I were faced with this dilemma, I would ask a lawyer for advice."
+                },
+                {
+                    "target": "Si les transports en commun étaient gratuits, la pollution diminuerait considérablement en ville.",
+                    "reading": "see lay trahn-spohr zahn koh-muhn zay-teh grah-twee, lah poh-loo-syohn dee-mee-nwah-reh kohn-see-day-rah-bluh-mahn ahn veel",
+                    "translation": "If public transit were free, pollution would decrease considerably in the city."
+                },
+                {
+                    "target": "Si vous pouviez voyager n'importe où dans le monde, quel pays choisiriez-vous ?",
+                    "reading": "see voo poo-vyay vwah-yah-zhay nan-pohrt oo dahn luh mohnd, kel peh-ee shwah-zee-ryay-voo",
+                    "translation": "If you could travel anywhere in the world, which country would you choose?"
                 }
             ],
             "mnemonics": [
-                "Cognitive memory anchor for L'Hypothèse Imaginaire du Présent (Si + Imparfait -> Conditionnel)"
+                "LES 'SI' N'AIMENT PAS LES 'RAIT': Never put -rais/-rait after 'si'! (Si j'étais -> Je ferais)!"
             ],
             "culturalNotes": [
-                "Sociolinguistic and cultural context for L'Hypothèse Imaginaire du Présent (Si + Imparfait -> Conditionnel) in modern France."
+                "The formulation 'Si j'étais vous...' or 'Si j'étais à votre place...' is the hallmark of diplomatic counsel in French professional and personal relationships."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Construct unreal present second conditional hypotheses with 'si + impa » :",
+                    "prompt": "Complétez l'hypothèse imaginaire du présent : « Si nous _________ (avoir) des ailes, nous volerions comme des oiseaux. »",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "La préposition employée ici n'est pas commandée par le verbe (87a).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (87b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (87c)."
+                        "avions",
+                        "aurions",
+                        "avons",
+                        "eûmes"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "La subordonnée introduite par 'si' prend l'imparfait (« avions ») lorsque la principale est au conditionnel présent (« volerions »)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u18-l2 :",
+                    "prompt": "Traduisez : « If I were rich, I would travel around the world » :",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (87x).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (87y).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (87z)."
+                        "Si j'étais riche, je voyagerais autour du monde.",
+                        "Si je serais riche, je voyagerais autour du monde.",
+                        "Si j'étais riche, je voyagerai autour du monde.",
+                        "Si je suis riche, je voyagerais autour du monde."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B1."
+                    "explanation": "La construction irréprochable est « Si + imparfait (étais) -> conditionnel présent (voyagerais) »."
                 }
             ]
         },
@@ -9626,25 +9660,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u18-l2) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Identifiez la faute dans : « Si tu voudrais, nous pourrions aller au cinéma. »",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (87m).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (87n).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (87p)."
+                        "L'emploi du conditionnel 'voudrais' après 'si' au lieu de l'imparfait 'voulais'.",
+                        "L'emploi du conditionnel 'pourrions'.",
+                        "L'accord avec 'nous'.",
+                        "La préposition 'au'."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "Après 'si', on emploie l'imparfait (« Si tu voulais ») et jamais le conditionnel."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u18-l2 (terme attendu : « Nous ») :",
+                    "prompt": "Conjuguez le verbe principal au conditionnel présent : « Si j'avais son numéro, je lui _________ (téléphoner) tout de suite. »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "téléphonerais",
+                        "Téléphonerais"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Le verbe téléphoner au conditionnel présent avec 'je' est « téléphonerais »."
                 }
             ],
             "passThreshold": 0.8
@@ -9660,56 +9693,73 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u18-l2"
+            ]
         },
         "presentation": {
-            "explanation": "Thorough linguistic breakdown of L'Hypothèse Irréelle du Passé (Si + Plus-que-parfait -> Conditionnel Passé). In French B1, mastering this syntax structure enables learners to articulate complex interpersonal nuances, formal register shifts, and precise logical arguments.",
+            "explanation": "The 3rd conditional pattern expresses past counterfactual conditions—events that did not occur in the past, creating hindsight analysis or regret:\n\n1. The Syntactic Formula:\nSI + PLUS-QUE-PARFAIT -> CONDITIONNEL PASSÉ\n- Conditionnel passé formation: [Conditionnel présent de l'auxiliaire avoir/être] + [Participe passé].\n  * avoir: j'aurais, tu aurais, il aurait, nous aurions, vous auriez, ils auraient.\n  * être: je serais, tu serais, il serait, elle serait, nous serions, vous seriez, ils seraient.\n\n2. Contrast with Present Unreal:\n- 2nd Conditional (Si + Imparfait -> Cond. Présent): Present unreality ('Si j'avais de l'argent aujourd'hui...').\n- 3rd Conditional (Si + PQP -> Cond. Passé): Past irreversible unreality ('Si j'avais eu de l'argent hier...').",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Si nous avions su que la route était barrée, nous aurions emprunté l'autoroute.",
+                    "reading": "see noo zah-vyohn soo kuh lah root ay-teh bah-ray, noo zoh-ryohn nahm-pruhn-tay loh-toh-root",
+                    "translation": "If we had known the road was closed, we would have taken the highway."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Si elle s'était réveillée à l'heure, elle ne serait pas arrivée en retard à son examen.",
+                    "reading": "see el say-teh ray-vay-yay ah luhr, el nuh suh-reh pah zah-ree-vay ahn ruh-tahr ah sohn nek-zah-man",
+                    "translation": "If she had woken up on time, she would not have arrived late for her exam."
+                },
+                {
+                    "target": "Si vous m'aviez prévenu plus tôt, j'aurais pu décaler notre rendez-vous professionnel.",
+                    "reading": "see voo mah-vyay pray-vuh-noo ploo toh, zhoh-reh poo day-kah-lay noh-truh rahn-day-voo proh-feh-syohn-nel",
+                    "translation": "If you had warned me earlier, I could have rescheduled our professional meeting."
+                },
+                {
+                    "target": "S'ils avaient investi dans cette start-up prometteuse, ils auraient réalisé un bénéfice considérable.",
+                    "reading": "seel zah-vyehn tan-ves-tee dahn set stahrt-uhp proh-meh-tuhz, eel zoh-ryehn ray-ah-lee-zay uhn bay-nay-fees kohn-see-day-rahbl",
+                    "translation": "If they had invested in this promising startup, they would have made a considerable profit."
+                },
+                {
+                    "target": "Si le temps avait été plus clément, nous serions montés jusqu'au sommet du pic.",
+                    "reading": "see luh tahn zah-veh tay-tay ploo klay-mahn, noo suh-ryohn mohn-tay zhoos-koh soh-meh doo peek",
+                    "translation": "If the weather had been milder, we would have climbed all the way to the peak's summit."
                 }
             ],
             "mnemonics": [
-                "Cognitive memory anchor for L'Hypothèse Irréelle du Passé (Si + Plus-que-parfait -> Conditionnel Passé)"
+                "DOUBLE PAST = DOUBLE COMPOUND: Si + [Imparfait + Participle] -> [Conditional + Participle]!"
             ],
             "culturalNotes": [
-                "Sociolinguistic and cultural context for L'Hypothèse Irréelle du Passé (Si + Plus-que-parfait -> Conditionnel Passé) in modern France."
+                "In French counterfactual history ('uchronie'), the 3rd conditional is celebrated for exploring alternate historical timelines ('Si Napoléon avait gagné à Waterloo...')."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Construct unreal past third conditional hypotheses with 'si + plus-que » :",
+                    "prompt": "Complétez l'irréel du passé : « Si tu m'avais invité, je _________ (venir) avec grand plaisir. »",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (88a).",
-                        "La préposition employée ici n'est pas commandée par le verbe (88b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (88c)."
+                        "serais venu",
+                        "aurais venu",
+                        "étais venu",
+                        "serai venu"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Le verbe 'venir' forme son conditionnel passé avec l'auxiliaire être : « je serais venu »."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u18-l3 :",
+                    "prompt": "Choisissez la proposition subordonnée correcte pour : « ... nous aurions gagné le match. »",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (88x).",
-                        "Cette forme présente une anomalie phonétique en français standard (88y).",
-                        "La préposition employée ici n'est pas commandée par le verbe (88z)."
+                        "Si nous avions mieux joué,",
+                        "Si nous aurions mieux joué,",
+                        "Si nous jouions mieux,",
+                        "Si nous avions joués mieux,"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B1."
+                    "explanation": "Après 'si', on utilise le plus-que-parfait sans conditionnel : « Si nous avions mieux joué »."
                 }
             ]
         },
@@ -9717,25 +9767,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u18-l3) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle phrase illustre un système hypothétique irréel du passé sans faute ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (88m).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (88n).",
-                        "La préposition employée ici n'est pas commandée par le verbe (88p)."
+                        "S'il aurait fait beau, nous serions sortis.",
+                        "S'il avait fait beau, nous serions sortis.",
+                        "S'il faisait beau, nous serions sortis hier.",
+                        "S'il avait fait beau, nous sommes sortis."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 1,
+                    "explanation": "« S'il avait fait beau (PQP), nous serions sortis (Cond. passé) » applique rigoureusement la règle."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u18-l3 (terme attendu : « Nous ») :",
+                    "prompt": "Conjuguez le verbe principal au conditionnel passé : « Si nous avions eu le budget, nous _________ (acheter) ce matériel. »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "aurions acheté",
+                        "Aurions acheté"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Auxiliaire avoir au conditionnel présent (aurions) + participe passé (acheté) = « aurions acheté »."
                 }
             ],
             "passThreshold": 0.8
@@ -9751,56 +9800,73 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u18-l3"
+            ]
         },
         "presentation": {
-            "explanation": "Thorough linguistic breakdown of Les Hypothèses Mixtes (Cause Passée, Effet Présent). In French B1, mastering this syntax structure enables learners to articulate complex interpersonal nuances, formal register shifts, and precise logical arguments.",
+            "explanation": "Mixed conditionals bridge past causes with present consequences, or ongoing present conditions with past results:\n\n1. Past Action -> Present Consequence:\nSI + PLUS-QUE-PARFAIT -> CONDITIONNEL PRÉSENT\n- Meaning: If an event had (or hadn't) occurred in the past, the present reality would be different right now.\n- Example: 'Si j'avais accepté ce poste à l'époque (past action), j'habiterais à Londres aujourd'hui (present state).'\n\n2. Ongoing Present Trait -> Past Consequence:\nSI + IMPARFAIT -> CONDITIONNEL PASSÉ\n- Meaning: If a general, permanent trait were true, a specific past outcome would have occurred.\n- Example: 'Si elle n'était pas si timide (permanent trait), elle aurait pris la parole lors de la réunion d'hier (past action).'",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Si j'avais suivi des cours de piano dans mon enfance, je saurais jouer de ce magnifique instrument aujourd'hui.",
+                    "reading": "see zhah-veh swee-vee day koor duh pyah-noh dahn mohn nahn-fahns, zhuh soh-reh zhoo-ay duh suh mahn-yee-feek an-stroo-mahn oh-zhoor-dwee",
+                    "translation": "If I had taken piano lessons in my childhood, I would know how to play this magnificent instrument today."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Si nous avions acheté cet appartement il y a dix ans, nous serions propriétaires maintenant.",
+                    "reading": "see noo zah-vyohn zahsh-tay seh tah-pahr-tuh-mahn eel yah dee zahn, noo suh-ryohn proh-pree-ay-tair man-tuh-nahn",
+                    "translation": "If we had bought this apartment ten years ago, we would be homeowners now."
+                },
+                {
+                    "target": "Si elle n'était pas si courageuse de nature, elle aurait abandonné l'épreuve hier après-midi.",
+                    "reading": "see el neh-teh pah see koo-rah-zhuhz duh nah-toor, el zhoh-reh tah-bahn-doh-nay lay-pruhvh yair ah-preh-mee-dee",
+                    "translation": "If she were not so naturally courageous, she would have abandoned the race yesterday afternoon."
+                },
+                {
+                    "target": "S'ils s'étaient bien reposés cette nuit, ils ne seraient pas si épuisés en ce moment.",
+                    "reading": "seel say-teh byan ruh-poh-zay set nwee, eel nuh suh-reh pah see zay-pwee-zay ahn suh moh-mahn",
+                    "translation": "If they had rested well last night, they would not be so exhausted right now."
+                },
+                {
+                    "target": "Si Thomas parlait couramment espagnol, il aurait obtenu ce poste à Madrid l'année dernière.",
+                    "reading": "see toh-mah pahr-leh koo-rah-mahn es-pah-nyohl, eel loh-reh tohb-tuh-noo suh pohst ah mah-dreed lah-nay dair-nyair",
+                    "translation": "If Thomas spoke fluent Spanish, he would have gotten that job in Madrid last year."
                 }
             ],
             "mnemonics": [
-                "Cognitive memory anchor for Les Hypothèses Mixtes (Cause Passée, Effet Présent)"
+                "LOOK AT THE TIME ANCHOR: 'Aujourd'hui / maintenant' in the main clause = Conditionnel Présent! 'Hier / à l'époque' in the condition = Plus-que-Parfait!"
             ],
             "culturalNotes": [
-                "Sociolinguistic and cultural context for Les Hypothèses Mixtes (Cause Passée, Effet Présent) in modern France."
+                "Mixed conditionals are standard in French career reviews ('bilan de compétences') for evaluating how past training decisions impact present professional capabilities."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Construct mixed conditional structures connecting past causes to prese » :",
+                    "prompt": "Complétez la condition mixte (cause passée -> effet présent) : « Si tu avais fini tes études, tu _________ (avoir) un meilleur salaire aujourd'hui. »",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette forme présente une anomalie phonétique en français standard (89a).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (89b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (89c)."
+                        "aurais",
+                        "aurais eu",
+                        "avais",
+                        "auras"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "L'indicateur temporel 'aujourd'hui' signale une conséquence présente ; on emploie le conditionnel présent : « aurais »."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u18-l4 :",
+                    "prompt": "Quelle phrase traduit : « If we had taken that flight, we would be in Rome right now » ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette variante relève d'un registre familier inadapté au contexte (89x).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (89y).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (89z)."
+                        "Si nous avions pris ce vol, nous serions à Rome en ce moment.",
+                        "Si nous avions pris ce vol, nous aurions été à Rome en ce moment.",
+                        "Si nous prenions ce vol, nous serions à Rome en ce moment.",
+                        "Si nous avions pris ce vol, nous sommes à Rome en ce moment."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B1."
+                    "explanation": "« Si nous avions pris (PQP) ... nous serions (Cond. présent) » lie la cause passée au résultat présent."
                 }
             ]
         },
@@ -9808,25 +9874,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u18-l4) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Analysez la structure : « Si j'avais étudié le droit, je serais avocat aujourd'hui. »",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette variante relève d'un registre familier inadapté au contexte (89m).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (89n).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (89p)."
+                        "C'est une conditionnelle mixte reliant une action passée non réalisée à un état présent.",
+                        "C'est une conditionnelle 100% au passé.",
+                        "C'est une hypothèse réelle du présent.",
+                        "C'est une phrase fautive car les temps ne correspondent pas."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "L'antécédent passé (PQP 'avais étudié') produit un état présent (Cond. présent 'serais avocat aujourd'hui')."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u18-l4 (terme attendu : « Nous ») :",
+                    "prompt": "Conjuguez le verbe au conditionnel présent (effet actuel) : « Si elle avait accepté l'offre, elle _________ (travailler) avec nous maintenant. »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "travaillerait",
+                        "Travaillerait"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Le conditionnel présent avec 'elle' est « travaillerait »."
                 }
             ],
             "passThreshold": 0.8
@@ -9842,56 +9907,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u18-l4"
+            ]
         },
         "presentation": {
-            "explanation": "Thorough linguistic breakdown of Les Conjonctions Hypothétiques Alternatives. In French B1, mastering this syntax structure enables learners to articulate complex interpersonal nuances, formal register shifts, and precise logical arguments.",
+            "explanation": "Beyond 'si', French utilizes sophisticated connective conjunctions that govern specific moods:\n\n1. Conjunctions Requiring the SUBJONCTIF:\n- 'À condition que...' (On condition that / Provided that):\n  * 'Je viendrai à condition que tu sois là.'\n- 'Pourvu que...' (Provided that / As long as):\n  * 'Nous réussirons pourvu que tout le monde fasse des efforts.'\n- 'À moins que (+ ne)...' (Unless):\n  * 'Nous partirons demain à moins qu'il ne pleuve.' (Optional expletive ne).\n\n2. Conjunctions Requiring the CONDITIONNEL:\n- 'Au cas où... / Dans le cas où...' (In case / In the event that):\n  * ALWAYS requires the conditionnel:\n  * 'Prends un parapluie au cas où il pleuvrait.' (Never indicative or subjunctive!).\n  * 'Au cas où vous auriez des questions, écrivez-moi.'\n\n3. Prepositional Phrases Requiring the INFINITIF:\n- 'À condition de + infinitif' (When both clauses share the exact same subject):\n  * 'Tu réussiras à condition de travailler régulièrement.'",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Vous pouvez emprunter ce matériel à condition que vous le rapportiez intact demain matin.",
+                    "reading": "voo poo-vay zahm-pruhn-tay suh mah-tay-ryel ah kohn-dee-syohn kuh voo luh rah-pohr-tyay an-tahkt duh-man mah-tan",
+                    "translation": "You may borrow this equipment on condition that you return it intact tomorrow morning."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Prenez une veste chaude au cas où la température chuterait brusquement ce soir.",
+                    "reading": "pruh-nay zoon vest shohd oh kahz oo lah tahm-pay-rah-toor shoot-reh broosk-mahn suh swahr",
+                    "translation": "Take a warm jacket in case the temperature should drop suddenly tonight."
+                },
+                {
+                    "target": "Le projet sera livré dans les délais pourvu que les fournisseurs respectent leur calendrier.",
+                    "reading": "luh proh-zheh suh-rah lee-vray dahn lay day-leh poor-voo kuh lay foor-nee-suhr res-pekt luhr kah-lahn-dree-yay",
+                    "translation": "The project will be delivered on schedule provided the suppliers adhere to their timetable."
+                },
+                {
+                    "target": "Nous irons faire une randonnée en forêt à moins qu'il ne fasse vraiment trop mauvais.",
+                    "reading": "noo zee-rohn fair oon rahn-doh-nay ahn foh-reh ah mwan keel nuh fahs vreh-mahn troh moh-veh",
+                    "translation": "We will go hiking in the forest unless the weather is really too bad."
+                },
+                {
+                    "target": "Au cas où vous auriez besoin d'assistance supplémentaire, n'hésitez pas à composer le numéro vert.",
+                    "reading": "oh kahz oo voo zoh-ryay buh-zwan dah-sees-tahns soo-play-mahn-tair, nay-zee-tay pah zah kohm-poh-zay luh noo-may-roh vair",
+                    "translation": "In the event that you should need additional assistance, do not hesitate to dial the toll-free number."
                 }
             ],
             "mnemonics": [
-                "Cognitive memory anchor for Les Conjonctions Hypothétiques Alternatives"
+                "AU CAS OÙ ALWAYS TAKES CONDITIONAL: 'Au cas où il VIENDRAIT' (Never indicative or subjunctive)!",
+                "À CONDITION QUE & POURVU QUE TAKE SUBJUNCTIVE: (À condition que tu SOIS là)!"
             ],
             "culturalNotes": [
-                "Sociolinguistic and cultural context for Les Conjonctions Hypothétiques Alternatives in modern France."
+                "In French administrative correspondence, 'au cas où' followed by the conditional ('au cas où vous constateriez une anomalie') is standard for formal customer notices."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Form alternative hypothetical conjunctions (à condition que + subjonct » :",
+                    "prompt": "Quel mode verbal doit obligatoirement suivre la locution « au cas où » ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (90a).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (90b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (90c)."
+                        "Le conditionnel",
+                        "Le subjonctif",
+                        "L'indicatif présent",
+                        "L'impératif"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "La conjonction « au cas où » commande obligatoirement le mode conditionnel (« au cas où il viendrait »)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u18-l5 :",
+                    "prompt": "Complétez avec le mode adéquat : « Je te prête ma voiture à condition que tu _________ (faire) attention. »",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (90x).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (90y).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (90z)."
+                        "fasses",
+                        "fais",
+                        "feras",
+                        "ferais"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B1."
+                    "explanation": "« à condition que » régit obligatoirement le subjonctif présent : « fasses »."
                 }
             ]
         },
@@ -9899,25 +9982,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u18-l5) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Choisissez la phrase qui applique la syntaxe correcte avec 'au cas où' et 'à condition que' :",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (90m).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (90n).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (90p)."
+                        "Appelle-moi au cas où tu aurais un souci, à condition que tu saches où aller.",
+                        "Appelle-moi au cas où tu as un souci, à condition que tu sais où aller.",
+                        "Appelle-moi au cas où tu aies un souci, à condition que tu sauras où aller.",
+                        "Appelle-moi au cas où tu avais un souci, à condition que tu savais où aller."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "« au cas où tu aurais » (conditionnel) et « à condition que tu saches » (subjonctif) respectent parfaitement les régimes modaux."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u18-l5 (terme attendu : « Nous ») :",
+                    "prompt": "Complétez avec le verbe être au subjonctif : « Tout ira bien pourvu que nous _________ (être) prudents. »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "soyons",
+                        "Soyons"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Le verbe être au subjonctif présent avec 'nous' est « soyons »."
                 }
             ],
             "passThreshold": 0.8
