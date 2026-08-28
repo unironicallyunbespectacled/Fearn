@@ -12174,56 +12174,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u22-l5"
+            ]
         },
         "presentation": {
-            "explanation": "In-depth analysis of Les Normes de la Correspondance Professionnelle Française. At the CEFR B2 level, learners acquire precise command over les normes de la correspondance professionnelle française, integrating advanced syntax with professional and domain-specific lexicon.",
+            "explanation": "French formal correspondence (la correspondance administrative et professionnelle) follows rigid etiquette rules, especially regarding opening and closing formulas:\n\n1. Opening Salutations (L'Appellation):\n- Known recipient by title: 'Monsieur le Directeur,' / 'Madame la Directrice des Ressources Humaines,' (Capitalize titles, never 'Cher Monsieur le Directeur' in administrative letters!).\n- Unknown recipient: 'Madame, Monsieur,' (Never 'Chers Madame et Monsieur').\n\n2. Introductory & Referencing Formulas:\n- In reference to: 'Faisant suite à notre entretien téléphonique du 12 courant...' / 'Comme convenu lors de notre réunion...'\n- Enclosing documents: 'Vous trouverez ci-joint / ci-inclus...'\n  * Agreement rule: 'Ci-joint' placed before the noun without article is INVARIABLE ('Veuillez trouver ci-joint copie du contrat'), but agrees when placed after or with an article ('la lettre ci-jointe').\n\n3. Formal Closing Formulas (Les Formules de Politesse):\n- Standard Business / Professional:\n  * 'Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.'\n  * 'Veuillez agréer, Monsieur le Directeur, l'assurance de ma parfaite considération.'\n- Modern business emails: 'Bien cordialement,' / 'Sincères salutations,' / 'Restant à votre entière disposition pour tout échange complémentaire.'",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Faisant suite à notre échange téléphonique de ce matin, je vous transmets ci-joint le devis révisé pour la refonte de votre site web.",
+                    "reading": "fuh-zahn sweet ah noh-truh tay-shahnzh tay-lay-foh-neek duh suh mah-tan, zhuh voo trahns-meh see-zhwan luh duh-vee ray-vee-zay poor lah ruh-fohnt duh voh-truh seet web",
+                    "translation": "Following up on our phone call this morning, I enclose the revised estimate for your website redesign."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Nous accusons bonne réception de votre dossier de candidature et vous en remercions vivement.",
+                    "reading": "noo zah-koo-zohn bohn ray-sep-syohn duh voh-truh doh-syay duh kahn-dee-dah-toor ay voo zahn ruh-mair-syohn veev-mahn",
+                    "translation": "We acknowledge safe receipt of your application file and thank you warmly for it."
+                },
+                {
+                    "target": "Restant à votre entière disposition pour convenir d'un entretien, je vous prie d'agréer, Monsieur, mes salutations distinguées.",
+                    "reading": "res-tahn ah voh-trahn-tyair dees-poh-zee-syohn poor kohn-vuh-neer doon nahn-truh-tyan, zhuh voo pree dah-gray-ay, muh-syuh, may sah-loo-tah-syohn dees-tahn-gay",
+                    "translation": "Remaining at your entire disposal to arrange an interview, please accept, Sir, my distinguished regards."
+                },
+                {
+                    "target": "Pourriez-vous nous faire parvenir un extrait Kbis datant de moins de trois mois afin de finaliser l'ouverture de votre compte ?",
+                    "reading": "poo-ryay-voo noo fair pahr-vuh-neer uhn neks-treh kah-bees dah-tahn duh mwan duh trwah mwah ah-fan duh fee-nah-lee-zay loov-air-toor duh voh-truh kohnt",
+                    "translation": "Could you send us a company registration certificate (extrait Kbis) dated within three months in order to finalize your account opening?"
+                },
+                {
+                    "target": "Dans l'attente de votre retour, nous vous prions d'agréer, Madame la Directrice, l'assurance de notre considération distinguée.",
+                    "reading": "dahn lah-tahnt duh voh-truh ruh-toor, noo voo pree-yohn dah-gray-ay, mah-dahm lah dee-rek-trees, lah-soo-rahns duh noh-truh kohn-see-day-rah-syohn dees-tahn-gay",
+                    "translation": "Pending your reply, we beg you to accept, Madam Director, the assurance of our distinguished consideration."
                 }
             ],
             "mnemonics": [
-                "Structural memory anchor for Les Normes de la Correspondance Professionnelle Française"
+                "NEVER MIX 'SENTIMENTS' WITH A LADY: In traditional French etiquette, a man never sends 'sentiments' to a woman in a business letter (use 'salutations' or 'considération')!",
+                "CI-JOINT BEFORE NOUN = INVARIABLE: 'ci-joint copie', but 'la copie ci-jointe'!"
             ],
             "culturalNotes": [
-                "Authentic pragmatic application of Les Normes de la Correspondance Professionnelle Française in professional France."
+                "In France, an 'extrait Kbis' is the official legal identity document of any registered commercial company, universally requested in B2B administrative transactions."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Format standard French formal business correspondence and official ema » :",
+                    "prompt": "Quelle formule de politesse clôture avec élégance une lettre professionnelle formelle ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (111a).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (111b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (111c)."
+                        "Je vous prie d'agréer, Madame, l'expression de mes salutations distinguées.",
+                        "Gros bisous et à la prochaine fois.",
+                        "Salut, j'espère que tu vas bien.",
+                        "Bien amicalement et à plus tard."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "« Je vous prie d'agréer, Madame, l'expression de mes salutations distinguées » est la formule classique et irréprochable de correspondance professionnelle."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u23-l1 :",
+                    "prompt": "Complétez l'accord de la formule : « Vous trouverez _________ (ci-joint) les documents demandés. »",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "L'antériorité temporelle est mal établie par rapport au repère (111x).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (111y).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (111z)."
+                        "ci-joint",
+                        "ci-joints",
+                        "ci-jointe",
+                        "ci-jointes"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B2."
+                    "explanation": "Placé directement en tête de proposition ou avant le nom sans déterminant, « ci-joint » est invariable."
                 }
             ]
         },
@@ -12231,25 +12249,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u23-l1) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Identifiez l'en-tête de lettre professionnelle correcte adressée au directeur d'une société :",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'antériorité temporelle est mal établie par rapport au repère (111m).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (111n).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (111p)."
+                        "Monsieur le Directeur,",
+                        "Cher Monsieur le Directeur,",
+                        "Mon cher Directeur,",
+                        "Salut Directeur,"
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "Dans la correspondance administrative et commerciale formelle, on s'adresse au destinataire par son titre sans adjectif possessif ni familier : « Monsieur le Directeur, »."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u23-l1 (terme attendu : « Nous ») :",
+                    "prompt": "Complétez la formule professionnelle : « Nous _________ (accuser) bonne réception de votre virement. »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "accusons",
+                        "Accusons"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "La locution consacrée est « accuser bonne réception » -> « Nous accusons bonne réception »."
                 }
             ],
             "passThreshold": 0.8
@@ -12265,56 +12282,73 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u23-l1"
+            ]
         },
         "presentation": {
-            "explanation": "In-depth analysis of Rédaction du CV et de la Lettre de Motivation. At the CEFR B2 level, learners acquire precise command over rédaction du cv et de la lettre de motivation, integrating advanced syntax with professional and domain-specific lexicon.",
+            "explanation": "The French job application dossier (dossier de candidature) comprises two standardized documents:\n\n1. The French CV (Curriculum Vitae):\n- Structure: État civil & Coordonnées, Titre du profil (Accroche), Expériences professionnelles (chronologie inversée avec verbes d'action), Formation & Diplômes (Bac+3/Licence, Bac+5/Master), Compétences techniques & linguistiques (Niveaux CECRL : C1/B2), Centres d'intérêt.\n\n2. The French Lettre de Motivation (Structure 'VOUS - MOI - NOUS'):\n- VOUS (L'Accroche): Demonstrate knowledge of the company's challenges, reputation, and market positioning:\n  * 'Votre entreprise s'impose aujourd'hui comme un acteur incontournable du secteur...'\n- MOI (L'Adéquation des compétences): Align achievements and skills with job requirements:\n  * 'Fort d'une expérience de cinq ans dans la gestion de projets agiles...'\n- NOUS (La synergie future): Propose collaborative value creation:\n  * 'Intégrer vos équipes me permettrait d'apporter mon expertise tout en contribuant activement au développement de votre filiale...'\n- Call to Action: Request an interview ('convenir d'un entretien').",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Fort d'une expérience de six ans dans le secteur du commerce électronique, j'ai développé une expertise pointue en acquisition de trafic.",
+                    "reading": "fohr doon neks-pay-ryahns duh see zahn dahn luh sek-tuhr doo koh-mair-seh-lek-troh-neek, zhay day-vloh-pay oon neks-pair-teez pwan-too ahn nah-kee-zee-syohn duh trah-feek",
+                    "translation": "With six years of experience in e-commerce, I developed keen expertise in user acquisition."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Titulaire d'un Master en ingénierie financière, je souhaite mettre mes compétences analytiques au service de votre pôle investissement.",
+                    "reading": "tee-too-lair doon mahs-tuhr ahn nan-zhay-nee-ree fee-nahn-syair, zhuh sweht meh-truh may kohn-pay-tahns ah-nah-lee-teek oh sair-vees duh voh-truh pohl an-ves-tees-mahn",
+                    "translation": "Holding a Master's degree in financial engineering, I wish to put my analytical skills at the service of your investment division."
+                },
+                {
+                    "target": "Dynamique, autonome et doté d'un excellent relationnel, je saurai m'adapter rapidement aux exigences de vos équipes de terrain.",
+                    "reading": "dee-nah-meek, oh-toh-nohm ay doh-tay doon nek-seh-lahn ruh-lah-syoh-nel, zhuh soh-ray mah-dahp-tay rah-peed-mahn oh zeg-zee-zhahns duh voh zay-keep duh teh-ran",
+                    "translation": "Dynamic, self-reliant, and gifted with excellent interpersonal skills, I will adapt quickly to the demands of your field teams."
+                },
+                {
+                    "target": "Je me tiens à votre entière disposition pour convenir d'une date d'entretien à votre convenance afin de vous exposer mes motivations.",
+                    "reading": "zhuh muh tyan ah voh-trahn-tyair dees-poh-zee-syohn poor kohn-vuh-neer doon daht dahn-truh-tyan ah voh-truh kohn-vuh-nahns ah-fan duh voo zeks-poh-zay may moh-tee-vah-syohn",
+                    "translation": "I remain at your entire disposal to arrange an interview date at your convenience in order to present my motivations."
+                },
+                {
+                    "target": "Mon parcours professionnel m'a permis de piloter des projets d'envergure internationale dans le respect strict des délais et des budgets.",
+                    "reading": "mohn pahr-koor proh-feh-syoh-nel mah pair-mee duh pee-loh-tay day proh-zheh dahn-vair-goor an-tair-nah-syoh-nahl dahn luh res-peh streekt day day-leh ay day boo-dzheh",
+                    "translation": "My professional career enabled me to lead large-scale international projects in strict compliance with schedules and budgets."
                 }
             ],
             "mnemonics": [
-                "Structural memory anchor for Rédaction du CV et de la Lettre de Motivation"
+                "VOUS - MOI - NOUS: 1. You the company, 2. Me the talent, 3. Us the successful partnership!"
             ],
             "culturalNotes": [
-                "Authentic pragmatic application of Rédaction du CV et de la Lettre de Motivation in professional France."
+                "In French recruitment, university and engineering diplomas are categorized by level (Bac+3, Bac+5, Bac+8), which strictly determines entry salary scales under collective industry agreements (conventions collectives)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Draft a French CV and a compelling, personalized cover letter (lettre  » :",
+                    "prompt": "Quelle locution décrit élégamment un candidat fort de plusieurs années de pratique ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "La préposition employée ici n'est pas commandée par le verbe (112a).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (112b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (112c)."
+                        "Fort d'une expérience de...",
+                        "Ayant fait des trucs pendant...",
+                        "Vu que j'ai travaillé...",
+                        "Parce que je sais faire..."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "« Fort d'une expérience de [X] ans... » est l'amorce la plus valorisante et soutenue dans une lettre de motivation."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u23-l2 :",
+                    "prompt": "Complétez la proposition de rencontre : « Je me tiens à votre disposition pour _________ d'un entretien. »",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "La préposition employée ici n'est pas commandée par le verbe (112x).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (112y).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (112z)."
+                        "convenir",
+                        "inventer",
+                        "exiger",
+                        "attendre"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B2."
+                    "explanation": "Le verbe consacré dans la formule de clôture est « convenir d'un entretien » (se mettre d'accord sur une date)."
                 }
             ]
         },
@@ -12322,25 +12356,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u23-l2) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Dans la méthodologie française de la lettre de motivation, quel paragraphe présente la synergie entre le candidat et l'entreprise ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "La préposition employée ici n'est pas commandée par le verbe (112m).",
-                        "Cette forme présente une anomalie phonétique en français standard (112n).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (112p)."
+                        "L'en-tête de l'état civil",
+                        "Le paragraphe « NOUS » (vision partagée et valeur ajoutée mutuelle)",
+                        "La signature électronique",
+                        "La liste des références scolaires"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 1,
+                    "explanation": "Le triptyque « VOUS - MOI - NOUS » réserve le « NOUS » à la projection de collaboration future."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u23-l2 (terme attendu : « Nous ») :",
+                    "prompt": "Complétez avec l'adjectif signifiant 'titulaire d'un diplôme' : « _________ (titulaire) d'un Master en gestion... »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "Titulaire",
+                        "titulaire"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "L'adjectif ou substantif formel est « Titulaire »."
                 }
             ],
             "passThreshold": 0.8
@@ -12356,56 +12389,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u23-l2"
+            ]
         },
         "presentation": {
-            "explanation": "In-depth analysis of Vocabulaire de la Négociation Commerciale et des Tarifs. At the CEFR B2 level, learners acquire precise command over vocabulaire de la négociation commerciale et des tarifs, integrating advanced syntax with professional and domain-specific lexicon.",
+            "explanation": "Commercial negotiations in French business contexts require mastery of technical vocabulary relating to pricing, payment terms, and contractual guarantees:\n\n1. Financial & Pricing Terminology:\n- Prix Hors Taxes (HT) vs Prix Toutes Taxes Comprises (TTC).\n- Le chiffre d'affaires (CA) vs La marge bénéficiaire vs Le seuil de rentabilité.\n- Commercial Discounts:\n  * Une remise (Volume discount based on quantities bought).\n  * Un rabais (Discount granted for minor defect or late delivery).\n  * Une ristourne (End-of-year cumulative turnover rebate).\n  * Un escompte (Cash discount for early payment).\n\n2. Contractual Terms & Payment Conditions:\n- Bon de commande (PO) / Cahier des charges (Specifications).\n- Conditions Générales de Vente (CGV) / Modalités de règlement (e.g. 'à 30 jours fin de mois').\n- Acompte de 30 % à la commande, solde à la livraison.\n- Pénalités de retard / Clause de réserve de propriété.\n\n3. Negotiation Formulations:\n- 'Être prêt à consentir un geste commercial.'\n- 'Trouver un compromis gagnant-gagnant.'",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Si vous vous engagez sur un volume annuel de dix mille unités, nous sommes disposés à vous consentir une remise de 15 % sur le tarif HT.",
+                    "reading": "see voo voo zahn-gah-zhay soor uhn voh-loom ah-nwel duh dee meel oo-nee-tay, noo sohm dees-poh-zay ah voo kohn-sahn-teer oon ruh-meez duh kanz poor-sahn soor luh tah-reef ash-tay",
+                    "translation": "If you commit to an annual volume of 10,000 units, we are prepared to grant you a 15% discount on the pre-tax price."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Les conditions de paiement stipulent un acompte de 30 % à la commande et le solde net à trente jours fin de mois.",
+                    "reading": "lay kohn-dee-syohn duh peh-mahn stee-pool uhn nah-kohnt duh trahnt poor-sahn ah lah koh-mahnd ay luh sohld net ah trahnt zhoor fan duh mwah",
+                    "translation": "The payment terms stipulate a 30% deposit upon ordering and the net balance at 30 days end of month."
+                },
+                {
+                    "target": "Notre marge bénéficiaire ne nous permet pas d'accepter une telle baisse de prix sans réviser à la baisse le cahier des charges.",
+                    "reading": "noh-truh mahrzh bay-nay-fee-syair nuh noo pair-meh pah dahk-sep-tay oon tel bays duh pree sahn ray-vee-zay ah lah bays luh kah-yay day shahrzh",
+                    "translation": "Our profit margin does not allow us to accept such a price reduction without downsizing the specifications."
+                },
+                {
+                    "target": "En cas de retard de livraison non justifié par un cas de force majeure, des pénalités forfaitaires de 1 % par jour seront appliquées.",
+                    "reading": "ahn kah duh ruh-tahr duh lee-vray-zohn nohn zhoos-tee-fyay pahr uhn kah duh fohrs mah-zhuhr, day pay-nah-lee-tay fohr-fay-tair duh uhn poor-sahn pahr zhoor suh-rohn tah-plee-kay",
+                    "translation": "In the event of delivery delay not justified by force majeure, fixed penalties of 1% per day will apply."
+                },
+                {
+                    "target": "Nous espérons parvenir à un accord gagnant-gagnant qui consolidera notre partenariat stratégique sur le long terme.",
+                    "reading": "noo zes-pay-rohn pahr-vuh-neer ah uhn nah-kohr gah-nyahn-gah-nyahn kee kohn-soh-lee-duh-rah noh-truh pahr-tuh-nah-ryah strah-tay-zheek soor luh lohn tairm",
+                    "translation": "We hope to reach a win-win agreement that will consolidate our strategic partnership over the long term."
                 }
             ],
             "mnemonics": [
-                "Structural memory anchor for Vocabulaire de la Négociation Commerciale et des Tarifs"
+                "HT = BEFORE TAX (Hors Taxes); TTC = AFTER TAX (Toutes Taxes Comprises)!",
+                "REMISE = Quantity discount; RABAIS = Defect discount; ESCOMPTE = Early payment discount!"
             ],
             "culturalNotes": [
-                "Authentic pragmatic application of Vocabulaire de la Négociation Commerciale et des Tarifs in professional France."
+                "In French corporate law, payment terms are strictly regulated by the 'Loi LME' (maximum 60 days from invoice date) to protect small enterprises from cash flow difficulties."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Conduct commercial negotiations, discuss contractual terms, and establ » :",
+                    "prompt": "Quelle réduction de prix accorde-t-on spécifiquement en contrepartie d'un volume d'achat important ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (113a).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (113b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (113c)."
+                        "Une remise",
+                        "Un escompte",
+                        "Un rabais",
+                        "Une pénalité"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "« Une remise » est la réduction commerciale accordée en fonction des quantités commandées ou du statut du client."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u23-l3 :",
+                    "prompt": "Que désigne l'expression « HT » sur un devis professionnel en France ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette proposition modifie subtilement le sens originel du verbe (113x).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (113y).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (113z)."
+                        "Hors Taxes",
+                        "Haut Tarif",
+                        "Heure Totale",
+                        "Honoraires Transmis"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B2."
+                    "explanation": "« HT » signifie « Hors Taxes » (le montant avant application de la TVA)."
                 }
             ]
         },
@@ -12413,25 +12464,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u23-l3) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Dans un contrat commercial, quelle clause protège le vendeur jusqu'au paiement intégral du prix ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette proposition modifie subtilement le sens originel du verbe (113m).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (113n).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (113p)."
+                        "La clause de non-concurrence",
+                        "La clause d'arbitrage",
+                        "La clause de réserve de propriété",
+                        "La clause de confidentialité"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 2,
+                    "explanation": "La « clause de réserve de propriété » stipule que les marchandises restent la propriété du vendeur jusqu'à leur parfait encaissement."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u23-l3 (terme attendu : « Nous ») :",
+                    "prompt": "Quel terme désigne la somme versée d'avance à la signature d'un bon de commande ? (terme attendu : un _________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "acompte",
+                        "Acompte"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Le premier versement partiel est « un acompte » (avec un 'c')."
                 }
             ],
             "passThreshold": 0.8
@@ -12447,56 +12497,73 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u23-l3"
+            ]
         },
         "presentation": {
-            "explanation": "In-depth analysis of Traitement des Réclamations et Litiges Commerciaux. At the CEFR B2 level, learners acquire precise command over traitement des réclamations et litiges commerciaux, integrating advanced syntax with professional and domain-specific lexicon.",
+            "explanation": "Handling customer dissatisfaction and disputes (les litiges et réclamations) requires diplomatic poise, empathy, and contractual precision:\n\n1. Empathy & Acknowledgment:\n- 'Nous comprenons parfaitement votre désagrément et regrettons vivement cet incident indépendant de notre volonté.'\n- 'Nous avons pris bonne note de votre réclamation concernant la commande n° 8492.'\n\n2. Technical Explanation & Investigation:\n- 'Après enquête approfondie auprès de notre service logistique, il s'avère qu'une avarie de transport s'est produite.'\n- 'Une défaillance technique exceptionnelle a perturbé notre chaîne d'approvisionnement.'\n\n3. Proposing Solutions & Commercial Compensation:\n- 'Nous procédons sans délai à l'expédition d'un article de remplacement à nos frais exclusifs.'\n- 'À titre de dédommagement / à titre de geste commercial, nous vous accordons un avoir de 20 %.'\n- Remboursement intégral / Remplacement sans frais.\n\n4. Amicable Settlement (Règlement à l'amiable):\n- 'Nous privilégions un règlement à l'amiable afin de préserver l'excellence de nos relations d'affaires.'",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Nous comprenons parfaitement votre mécontentement face à ce retard de livraison et vous présentons nos plus sincères excuses pour la gêne occasionnée.",
+                    "reading": "noo kohn-pruh-nohn pahr-fet-mahn voh-truh may-kohn-tahnt-mahn fahs ah suh ruh-tahr duh lee-vray-zohn ay voo pray-zahn-tohn noh ploo san-sair zek-skooz poor lah zhen oh-kah-zyoh-nay",
+                    "translation": "We understand completely your dissatisfaction with this delivery delay and offer our sincerest apologies for the inconvenience caused."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Après vérification auprès de notre entrepôt, il apparaît que deux références ont été interverties lors de la préparation de votre colis.",
+                    "reading": "ah-preh vay-ree-fee-kah-syohn oh-preh duh noh-truh ahn-truh-poh, eel ah-pah-reh kuh duh ray-fay-rahns zohn tay-tay an-tair-vair-tyay lohr duh lah pray-pah-rah-syohn duh voh-truh koh-lee",
+                    "translation": "After verification with our warehouse, it appears that two items were mixed up during the packing of your parcel."
+                },
+                {
+                    "target": "À titre de geste commercial, nous vous émettons un avoir immédiat correspondant au montant des frais de port engagés.",
+                    "reading": "ah teet-ruh duh zhest koh-mair-syahl, noo voo zay-meh-tohn uhn nah-vwahr ee-may-dyaht koh-res-pohn-dahn oh mohn-tahn day freh duh pohr ahn-gah-zhay",
+                    "translation": "As a gesture of goodwill, we are issuing you an immediate credit note corresponding to the shipping costs incurred."
+                },
+                {
+                    "target": "Nous avons dépêché un technicien qualifié sur votre site afin de procéder au remplacement de la pièce défectueuse sous garantie.",
+                    "reading": "noo zah-vohn day-peh-shay uhn tek-nee-syan kah-lee-fyay soor voh-truh seet ah-fan duh proh-say-day oh rahn-plahs-mahn duh lah pyes day-fek-twuhz soo gah-rahn-tee",
+                    "translation": "We dispatched a qualified technician to your site in order to replace the defective part under warranty."
+                },
+                {
+                    "target": "Dans l'attente d'un règlement amiable de ce différend, nous suspendons l'application des pénalités contractuelles.",
+                    "reading": "dahn lah-tahnt doon reh-gluh-mahn ah-myahbl duh suh deef-fay-rahn, noo soos-pahn-dohn lah-plee-kah-syohn day pay-nah-lee-tay kohn-trahk-twel",
+                    "translation": "Pending an amicable settlement of this dispute, we are suspending the application of contractual penalties."
                 }
             ],
             "mnemonics": [
-                "Structural memory anchor for Traitement des Réclamations et Litiges Commerciaux"
+                "APOLOGIZE, EXPLAIN, COMPENSATE: 1. Excuses pour la gêne, 2. Explication technique, 3. Avoir ou remplacement!"
             ],
             "culturalNotes": [
-                "Authentic pragmatic application of Traitement des Réclamations et Litiges Commerciaux in professional France."
+                "In French commerce, an 'avoir' (credit note) is an official accounting document enabling a buyer to deduct an agreed refund from future purchases."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Handle customer complaints and resolve commercial disputes diplomatica » :",
+                    "prompt": "Quelle formule exprime un dédommagement commercial accordé par courtoisie professionnelle ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette forme présente une anomalie phonétique en français standard (114a).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (114b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (114c)."
+                        "À titre de geste commercial",
+                        "Par obligation pénale",
+                        "Sous la contrainte judiciaire",
+                        "Faute de mieux"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "« À titre de geste commercial » signale qu'une compensation financière ou matérielle est accordée gracieusement pour fidéliser le client."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u23-l4 :",
+                    "prompt": "Que délivre une entreprise pour permettre à un client de déduire un remboursement de sa prochaine facture ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette forme présente une anomalie phonétique en français standard (114x).",
-                        "La préposition employée ici n'est pas commandée par le verbe (114y).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (114z)."
+                        "un avoir",
+                        "une sommation",
+                        "une saisie",
+                        "un gage"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B2."
+                    "explanation": "« Un avoir » (credit note) est le document comptable permettant d'imputer un crédit sur une commande future."
                 }
             ]
         },
@@ -12504,25 +12571,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u23-l4) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Dans le traitement d'une réclamation, quelle proposition allie professionnalisme et respect des usages français ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette forme présente une anomalie phonétique en français standard (114m).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (114n).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (114p)."
+                        "Nous prenons en charge les frais de retour et vous expédions un nouvel exemplaire ce jour même.",
+                        "C'est de la faute de La Poste, débrouillez-vous avec eux.",
+                        "Nous refusons toute discussion car vous avez déjà signé.",
+                        "Votre réclamation n'a aucun intérêt pour notre société."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "La prise en charge proactive des frais de retour avec réexpédition immédiate incarne la gestion exemplaire de la relation client."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u23-l4 (terme attendu : « Nous ») :",
+                    "prompt": "Complétez la formule de conciliation : « Nous privilégions un règlement à l'_________ (amiable) de ce litige. »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "amiable",
+                        "Amiable"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "L'accord concerté sans recours aux tribunaux est un « règlement à l'amiable »."
                 }
             ],
             "passThreshold": 0.8
@@ -12538,56 +12604,73 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u23-l4"
+            ]
         },
         "presentation": {
-            "explanation": "In-depth analysis of Simulation de Partenariat et Clôture de Contrat. At the CEFR B2 level, learners acquire precise command over simulation de partenariat et clôture de contrat, integrating advanced syntax with professional and domain-specific lexicon.",
+            "explanation": "Finalizing a high-level B2B commercial agreement involves synthesizing formal terms, partnership protocols, and signing ceremonies:\n\n1. Synthesis of Agreement (Le Protocole d'Accord / MoA):\n- 'Le présent accord cadre fixe les orientations stratégiques de notre coopération pour les trois prochaines années.'\n- 'Les deux parties conviennent de mutualiser leurs ressources technologiques et leurs réseaux de distribution.'\n\n2. Signature Formulas & Execution:\n- 'Fait à Paris, en deux exemplaires originaux, le 28 août 2026.'\n- 'Pour la société X, [Signature] / Pour la société Y, [Signature].'\n- Mandatory legal handwritten phrase: « Lu et approuvé, bon pour accord ».\n\n3. Formal Expression of Mutual Commitment:\n- 'Nous nous félicitons de la signature de ce partenariat prometteur et nous réjouissons de notre collaboration future.'",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Les deux délégations ont paraphé l'ensemble des annexes techniques et ont procédé à la signature solennelle du protocole d'accord.",
+                    "reading": "lay duh day-lay-gah-syohn zohn pah-rah-fay lahn-sahnbl day zah-neks tek-neek ay zohn proh-say-day ah lah seen-yah-toor soh-lah-nel doo proh-toh-kohl dah-kohr",
+                    "translation": "Both delegations initialed all technical appendices and proceeded to the formal signing of the memorandum of agreement."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Le présent contrat entrera en vigueur dès sa signature par les deux représentants dûment mandatés par leurs conseils d'administration.",
+                    "reading": "luh pray-zahn kohn-trah ahn-truh-rah ahn vee-guhr day sah seen-yah-toor pahr lay duh ruh-pray-zahn-tahn doo-mahn mahn-dah-tay pahr luhr kohn-seh dahd-mee-nees-trah-syohn",
+                    "translation": "This contract will enter into force upon signature by both representatives duly mandated by their boards of directors."
+                },
+                {
+                    "target": "Nous nous réjouissons de cette alliance stratégique qui ouvre des perspectives de croissance exceptionnelles pour nos deux groupes.",
+                    "reading": "noo noo ray-zhooee-sohn duh set tah-lyahns strah-tay-zheek kee oo-vruh day pair-spek-teev duh krwah-sahns zek-sep-syoh-nel poor noh duh groop",
+                    "translation": "We welcome this strategic alliance, which opens exceptional growth prospects for both our groups."
+                },
+                {
+                    "target": "Chaque partie s'engage à préserver la stricte confidentialité de toutes les données industrielles échangées au cours du partenariat.",
+                    "reading": "shahk pahr-tee sahn-gahzh ah pray-zair-vay lah streekt kohn-fee-dahn-syah-lee-tay duh toot lay doh-nay an-doos-tree-yel zay-shahn-zhay oh koor doo pahr-tuh-nah-ryah",
+                    "translation": "Each party commits to preserving the strict confidentiality of all industrial data exchanged during the partnership."
+                },
+                {
+                    "target": "Fait en double exemplaire original à Lyon, le 28 août 2026, précédé de la mention manuscrite « Lu et approuvé ».",
+                    "reading": "feh tahn doobl leg-zahm-plair oh-ree-zhee-nahl ah lyohn, luh van-twee toh-oot duh meel van-sees, pray-say-day duh lah mah-noos-kreet « loo ay ah-proo-vay »",
+                    "translation": "Executed in duplicate originals in Lyon on August 28, 2026, preceded by the handwritten words 'Read and approved'."
                 }
             ],
             "mnemonics": [
-                "Structural memory anchor for Simulation de Partenariat et Clôture de Contrat"
+                "PARAPHER = Initial every page; SIGNER = Sign the final page; 'LU ET APPROUVÉ' = Approved!"
             ],
             "culturalNotes": [
-                "Authentic pragmatic application of Simulation de Partenariat et Clôture de Contrat in professional France."
+                "In French legal culture, initialing every single page ('parapher chaque page') prevents subsequent alteration of contractual clauses before archiving."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Simulate a complete commercial contract negotiation and formal partner » :",
+                    "prompt": "Quelle mention manuscrite traditionnelle précède la signature d'un contrat en France ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (115a).",
-                        "Cette construction passive alourdit inutilement l'énoncé (115b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (115c)."
+                        "Lu et approuvé, bon pour accord",
+                        "Vu et oublié",
+                        "Signé sans lire",
+                        "Reçu et jeté"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "La mention manuscrite rituelle consacrée par l'usage juridique français est « Lu et approuvé, bon pour accord »."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u23-l5 :",
+                    "prompt": "Que signifie le verbe « parapher » un contrat commercial ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette construction passive alourdit inutilement l'énoncé (115x).",
-                        "Cette construction passive alourdit inutilement l'énoncé (115y).",
-                        "Cette construction passive alourdit inutilement l'énoncé (115z)."
+                        "Apposer ses initiales sur chaque page du document",
+                        "Résilier le contrat immédiatement",
+                        "Traduire le contrat en anglais",
+                        "Déchirer le document"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B2."
+                    "explanation": "« Parapher » consiste à apposer un paraphe (initiales abrégées) au bas de chaque page pour en garantir l'intégrité."
                 }
             ]
         },
@@ -12595,25 +12678,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u23-l5) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Identifiez la formule marquant la prise d'effet d'un contrat commercial :",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette construction passive alourdit inutilement l'énoncé (115m).",
-                        "Cette construction passive alourdit inutilement l'énoncé (115n).",
-                        "Cette construction passive alourdit inutilement l'énoncé (115p)."
+                        "Le contrat est mort dès sa naissance.",
+                        "Le présent accord cadre entrera en vigueur dès sa signature par les parties.",
+                        "Les parties ne signeront jamais ce texte.",
+                        "Le contrat est nul de plein droit sans raison."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 1,
+                    "explanation": "« Le présent accord cadre entrera en vigueur dès sa signature » est la formulation juridique standard d'entrée en vigueur."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u23-l5 (terme attendu : « Nous ») :",
+                    "prompt": "Quel mot désigne un document signé en deux versions identiques ? (formule : Fait en _________ exemplaire)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "double",
+                        "Double"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "La formule juridique consacrée est « Fait en double exemplaire » (ou 'deux exemplaires')."
                 }
             ],
             "passThreshold": 0.8
