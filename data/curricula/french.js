@@ -5695,62 +5695,79 @@
         "id": "fr-u11-l1",
         "unit": "fr-u11",
         "level": "B1",
-        "objective": "Identify and place direct object pronouns (COD: me, te, le, la, nous, vous, les) before the conjugated verb.",
+        "objective": "Identify and place direct object pronouns (COD: me, te, le, la, l', nous, vous, les) before the conjugated verb or infinitive.",
         "prerequisites": [
             "fr-u10-l5"
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u10-l5"
+            ]
         },
         "presentation": {
-            "explanation": "Comprehensive presentation of Les Pronoms Compléments d'Objet Direct (COD). In French grammar, mastering les pronoms compléments d'objet direct (cod) is vital for fluid sentence connection, precise discourse organization, and natural communication.",
+            "explanation": "Direct Object Pronouns (COD: Compléments d'Objet Direct) replace specific persons, animals, or things directly acted upon by the verb without any intervening preposition (answering 'qui ?' or 'quoi ?').\n\n1. COD PRONOUN FORMS:\n- me / m' (me)\n- te / t' (you - sing informal)\n- le / l' (him / it - masc)\n- la / l' (her / it - fem)\n- nous (us)\n- vous (you - plural/formal)\n- les (them - masc/fem plural)\n\n2. ELISION:\nme, te, le, la become m', t', l' before words starting with a vowel or mute 'h' ('Je l'écoute', 'Il m'aide').\n\n3. PLACEMENT RULES:\n- In simple tenses (présent, imparfait, futur simple): IMMEDIATELY BEFORE the conjugated verb.\n  'Je le regarde.' / 'Je ne le regarde pas.'\n- In compound tenses (passé composé): IMMEDIATELY BEFORE the auxiliary verb.\n  'Je l'ai vu.' / 'Nous ne les avons pas trouvés.'\n- With modal / semi-auxiliary + infinitive (vouloir, pouvoir, devoir, aller, savoir): IMMEDIATELY BEFORE THE INFINITIVE.\n  'Je vais le faire.' / 'Elle ne peut pas nous entendre.'",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Tu as vu mon sac noir ? — Oui, je l'ai mis sur la table du salon.",
+                    "reading": "too ah voo mohn sahk nwahr ? — wee, zhuh lay mee soor lah tahbluh doo sah-lohn",
+                    "translation": "Have you seen my black bag? — Yes, I put it on the living room table."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Ces documents confidentiels, nous devons les envoyer à la direction avant midi.",
+                    "reading": "say doh-koo-mahn kohn-fee-dahn-syel, noo duh-vohn lay zahn-vwah-yay ah lah dee-rek-syohn ah-vahn mee-dee",
+                    "translation": "These confidential documents, we must send them to management before noon."
+                },
+                {
+                    "target": "Elle ne m'entend pas avec tout ce bruit dans la salle de conférence.",
+                    "reading": "el nuh mahn-tahn pah ah-vek too suh brwee dahn lah sahl duh kohn-fay-rahnss",
+                    "translation": "She doesn't hear me with all this noise in the conference room."
+                },
+                {
+                    "target": "Ce vieux film classique, vous le regardez souvent en famille ?",
+                    "reading": "suh vyuh feelm klah-seek, voo luh ruh-gahr-day soo-vahn ahn fah-meey",
+                    "translation": "This classic old movie, do you watch it often with your family?"
+                },
+                {
+                    "target": "Si tu trouves les clés de la voiture, apporte-les dans mon bureau s'il te plaît.",
+                    "reading": "see too troov lay klay duh lah vwah-toor, ah-pohrt lay dahn mohn boo-roh seel tuh pleh",
+                    "translation": "If you find the car keys, please bring them to my office."
                 }
             ],
             "mnemonics": [
-                "Memory anchor for Les Pronoms Compléments d'Objet Direct (COD)"
+                "DIRECT HIT: COD has no preposition shielding the noun — the verb hits it directly: 'Je vois Marie' -> 'Je LA vois'!"
             ],
             "culturalNotes": [
-                "Cultural and conversational context for Les Pronoms Compléments d'Objet Direct (COD) in France."
+                "In spoken French, dropping or substituting tonic pronouns for COD pronouns ('Je vois lui' instead of 'Je le vois') is an ungrammatical error commonly made by beginning anglophone speakers."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Identify and place direct object pronouns (COD: me, te, le, la, nous,  » :",
+                    "prompt": "Remplacez le groupe nominal souligné par le pronom COD qui convient : « J'attends [mon amie Sophie] devant le musée. »",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (48a).",
-                        "La préposition employée ici n'est pas commandée par le verbe (48b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (48c)."
+                        "Je l'attends devant le musée.",
+                        "Je lui attends devant le musée.",
+                        "Je la attends devant le musée.",
+                        "Je les attends devant le musée."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "'Mon amie Sophie' est féminin singulier commençant par une voyelle ('attends'), donc 'la' s'élide en 'l'' : 'Je l'attends'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u11-l1 :",
+                    "prompt": "Où place-t-on le pronom COD dans une phrase avec un semi-auxiliaire : « Je veux acheter [cette robe]. » ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (48x).",
-                        "Cette forme présente une anomalie phonétique en français standard (48y).",
-                        "La préposition employée ici n'est pas commandée par le verbe (48z)."
+                        "Je veux l'acheter.",
+                        "Je la veux acheter.",
+                        "Je veux acheter la.",
+                        "Je l'ai voulue acheter."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B1."
+                    "explanation": "Quand il y a un verbe conjugué suivi d'un infinitif, le pronom COD se place directement devant l'infinitif : 'Je veux l'acheter'."
                 }
             ]
         },
@@ -5758,25 +5775,23 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u11-l1) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle phrase est correctement formulée à la forme négative avec le pronom COD 'les' ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (48m).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (48n).",
-                        "La préposition employée ici n'est pas commandée par le verbe (48p)."
+                        "Nous ne les connaissons pas bien.",
+                        "Nous les ne connaissons pas bien.",
+                        "Nous ne connaissons pas les bien.",
+                        "Nous ne connaissons les pas bien."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "Le pronom COD est placé devant le verbe conjugué, et la négation encadre le bloc [pronom + verbe] : 'Nous ne les connaissons pas'."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u11-l1 (terme attendu : « Nous ») :",
+                    "prompt": "Complétez avec le pronom COD féminin élidé devant voyelle : « Cette histoire est passionnante, je _________'écoute avec attention. »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "l"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "'l' (élision de 'la' devant voyelle)."
                 }
             ],
             "passThreshold": 0.8
@@ -5786,62 +5801,80 @@
         "id": "fr-u11-l2",
         "unit": "fr-u11",
         "level": "B1",
-        "objective": "Identify and place indirect object pronouns (COI: me, te, lui, nous, vous, leur) replacing 'à + personne'.",
+        "objective": "Distinguish and apply indirect object pronouns (COI: me, te, lui, nous, vous, leur) with verbs requiring the preposition 'à'.",
         "prerequisites": [
             "fr-u11-l1"
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u11-l1"
+            ]
         },
         "presentation": {
-            "explanation": "Comprehensive presentation of Les Pronoms Compléments d'Objet Indirect (COI). In French grammar, mastering les pronoms compléments d'objet indirect (coi) is vital for fluid sentence connection, precise discourse organization, and natural communication.",
+            "explanation": "Indirect Object Pronouns (COI: Compléments d'Objet Indirect) replace persons or living beings introduced by the preposition 'à' (answering the question 'à qui ?' - to whom / for whom).\n\n1. COI PRONOUN FORMS:\n- me / m' (to me)\n- te / t' (to you - sing)\n- LUI (to him / to her — gender-neutral in 3rd person singular!)\n- nous (to us)\n- vous (to you - plural/formal)\n- LEUR (to them — masc/fem plural; never takes an 's' as a pronoun!)\n\n2. COMMON VERBS REQUIRING COI (Verbe + à + personne):\n- parler à, téléphoner à, écrire à, répondre à, donner... à, envoyer... à, demander... à, offrir... à, expliquer... à, prêter... à, ressembler à, sourire à, obéir à, faire confiance à.\n\n3. CONTRAST COD vs COI IN 3RD PERSON:\n- COD (direct, no preposition): 'Je vois Marc' -> 'Je LE vois' / 'Je vois Sophie' -> 'Je LA vois'.\n- COI (indirect with 'à'): 'Je parle à Marc' -> 'Je LUI parle' / 'Je parle à Sophie' -> 'Je LUI parle'.\n- Plural: 'Je vois les amis' (COD) -> 'Je LES vois' vs 'J'écris aux amis' (COI) -> 'Je LEUR écris'.\n\n4. PLACEMENT:\nCOI pronouns obey the identical placement rules as COD pronouns: immediately before the conjugated verb (or auxiliary in compound tenses), or immediately before the infinitive.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "J'ai téléphoné à ma grand-mère ce matin et je lui ai raconté mes vacances.",
+                    "reading": "zhay tay-lay-foh-nay ah mah grahn-mair suh mah-tan ay zhuh lwee ay rah-kohn-tay may vah-kahnss",
+                    "translation": "I called my grandmother this morning and I told her about my vacation."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Le professeur explique la règle aux élèves et leur donne des exercices pratiques.",
+                    "reading": "luh proh-feh-suhr ek-spleek lah reh-gluh oh zay-lev ay luhr dohn day zeg-zair-seess prah-teek",
+                    "translation": "The teacher explains the rule to the students and gives them practical exercises."
+                },
+                {
+                    "target": "Est-ce que tu as répondu à ton banquier ? — Non, je vais lui écrire un courriel cet après-midi.",
+                    "reading": "es-kuh too ah ray-pohn-doo ah tohn bahn-kyay ? — nohn, zhuh vay lwee ay-kreer uhn koor-yel set ah-preh-mee-dee",
+                    "translation": "Have you answered your banker? — No, I am going to write him an email this afternoon."
+                },
+                {
+                    "target": "Quand nous avons croisé nos voisins dans le hall, nous leur avons souhaité une bonne journée.",
+                    "reading": "kahn noo zah-vohn krwah-zay noh vwah-zan dahn luh ohl, noo luhr zah-vohn sweh-tay oon bohn zhoor-nay",
+                    "translation": "When we ran into our neighbors in the lobby, we wished them a good day."
+                },
+                {
+                    "target": "Elle ne lui fait plus confiance depuis qu'il a menti sur ses résultats.",
+                    "reading": "el nuh lwee feh ploo kohn-fyahnss duh-pwee keel ah mahn-tee soor say ray-zool-tah",
+                    "translation": "She no longer trusts him since he lied about his results."
                 }
             ],
             "mnemonics": [
-                "Memory anchor for Les Pronoms Compléments d'Objet Indirect (COI)"
+                "LUI FOR BOTH: 'Lui' in COI means 'to him' OR 'to her'! Gender vanishes with 'à'!",
+                "LEUR HAS NO S: The pronoun 'leur' NEVER takes an -s ('Je leur parle', never 'leurs')."
             ],
             "culturalNotes": [
-                "Cultural and conversational context for Les Pronoms Compléments d'Objet Indirect (COI) in France."
+                "Distinguishing 'Je l'écoute' (écouter qqn = COD) from 'Je lui parle' (parler à qqn = COI) is a classic milestone assessed in the DELF B1 examination."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Identify and place indirect object pronouns (COI: me, te, lui, nous, v » :",
+                    "prompt": "Remplacez le complément par le bon pronom : « Nous envoyons une carte postale [à nos parents]. »",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette forme présente une anomalie phonétique en français standard (49a).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (49b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (49c)."
+                        "Nous leur envoyons une carte postale.",
+                        "Nous les envoyons une carte postale.",
+                        "Nous lui envoyons une carte postale.",
+                        "Nous leurs envoyons une carte postale."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "'À nos parents' est un COI pluriel (à + personnes) qui se remplace par 'leur' (sans 's')."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u11-l2 :",
+                    "prompt": "Pourquoi dit-on « Je LUI téléphone » mais « Je LA regarde » pour une femme ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette variante relève d'un registre familier inadapté au contexte (49x).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (49y).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (49z)."
+                        "Parce que 'téléphoner' se construit avec 'à' (COI: lui), tandis que 'regarder' est direct (COD: la).",
+                        "Parce que 'lui' est réservé aux femmes et 'la' aux hommes.",
+                        "Parce que 'téléphoner' est un verbe irrégulier du troisième groupe.",
+                        "Parce que 'regarder' exige obligatoirement une préposition cachée."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B1."
+                    "explanation": "'Téléphoner à quelqu'un' prend un COI ('lui' invariable en genre au singulier), alors que 'regarder quelqu'un' prend un COD ('la' au féminin)."
                 }
             ]
         },
@@ -5849,25 +5882,23 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u11-l2) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Choisissez la phrase qui remplace correctement : « Paul a parlé [à sa sœur] hier soir » :",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette variante relève d'un registre familier inadapté au contexte (49m).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (49n).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (49p)."
+                        "Paul lui a parlé hier soir.",
+                        "Paul l'a parlé hier soir.",
+                        "Paul la lui a parlée hier soir.",
+                        "Paul à elle a parlé hier soir."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "'Parler à sa sœur' -> COI singulier = 'lui' : 'Paul lui a parlé'."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u11-l2 (terme attendu : « Nous ») :",
+                    "prompt": "Écrivez le pronom COI qui remplace 'à mes collègues' dans : « Je vais _________ expliquer le projet. »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "leur"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "leur (COI pluriel)."
                 }
             ],
             "passThreshold": 0.8
@@ -5877,62 +5908,79 @@
         "id": "fr-u11-l3",
         "unit": "fr-u11",
         "level": "B1",
-        "objective": "Apply the obligatory past participle agreement rule when a COD precedes auxiliary 'avoir' in passé composé.",
+        "objective": "Apply the obligatory past participle agreement rule when a direct object (COD) precedes the auxiliary verb 'avoir' in passé composé.",
         "prerequisites": [
             "fr-u11-l2"
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u11-l2"
+            ]
         },
         "presentation": {
-            "explanation": "Comprehensive presentation of L'Accord du Participe Passé avec le COD Précédent. In French grammar, mastering l'accord du participe passé avec le cod précédent is vital for fluid sentence connection, precise discourse organization, and natural communication.",
+            "explanation": "In French compound tenses formed with auxiliary 'AVOIR', the past participle generally does NOT agree with the subject. However, there is ONE FUNDAMENTAL EXCEPTION:\n\nTHE PRECEDING COD AGREEMENT RULE:\nIf a DIRECT OBJECT (COD) is placed BEFORE the auxiliary verb 'avoir', the past participle MUST AGREE in gender and number with that preceding COD (+e for feminine, +s for plural, +es for feminine plural).\n\nTHREE COMMON CONFIGURATIONS WHERE COD PRECEDES AVOIR:\n1. Preceding COD pronouns (le, la, l', les):\n   - 'La tarte ? Je l'ai mangée.' (l' = la tarte [fem sing] -> mangée)\n   - 'Les photos ? Nous les avons regardées.' (les = les photos [fem pl] -> regardées)\n   - 'Les garçons ? Je les ai vus.' (les = masc pl -> vus)\n\n2. Relative pronoun 'QUE' (whose antecedent is the COD):\n   - 'La robe que tu as achetée est élégante.' (que = la robe [fem sing])\n   - 'Les romans que j'ai lus étaient captivants.' (que = les romans [masc pl])\n\n3. Interrogative or exclamative adjectives (quel, quelle, quels, quelles) + noun:\n   - 'Quelle décision as-tu prise ?' (prise)\n   - 'Quels pays avez-vous visités ?' (visités)\n\nCRITICAL CONTRAST: COI NEVER TRIGGERS AGREEMENT!\n- 'Elles se sont parlé.' (se parler = parler à -> COI -> parlé invariable)\n- 'Je leur ai écrit.' (leur = COI -> écrit invariable)",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Cette chanson magnifique, je l'ai entendue pour la première fois en Provence.",
+                    "reading": "set shahn-sohn mah-nyee-feek, zhuh lay ahn-tahn-doo poor lah pruh-myair fwah ahn proh-vahnss",
+                    "translation": "This magnificent song, I heard it for the first time in Provence."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Où sont passées les clés du bureau ? — Mon collègue les a prises ce matin.",
+                    "reading": "oo sohn pah-say lay klay doo boo-roh ? — mohn koh-leg lay zah preez suh mah-tan",
+                    "translation": "Where did the office keys go? — My colleague took them this morning."
+                },
+                {
+                    "target": "Voici les photos des Alpes que nous avons prises pendant notre randonnée d'été.",
+                    "reading": "vwah-see lay foh-toh day zalp kuh noo zah-vohn preez pahn-dahn noh-truh rahn-doh-nay day-tay",
+                    "translation": "Here are the photos of the Alps that we took during our summer hike."
+                },
+                {
+                    "target": "Nous leur avons envoyé les invitations, mais ils ne nous ont pas encore répondu.",
+                    "reading": "noo luhr zah-vohn zahn-vwah-yay lay zan-vee-tah-syohn, meh zeel nuh noo zohn pah zahn-kohr ray-pohn-doo",
+                    "translation": "We sent them the invitations, but they haven't answered us yet."
+                },
+                {
+                    "target": "Quelle magnifique opportunité professionnelle elle a saisie l'année dernière !",
+                    "reading": "kel mah-nyee-feek oh-pohr-too-nee-tay proh-feh-syoh-nel el ah say-zee lah-nay dair-nyair !",
+                    "translation": "What a magnificent professional opportunity she seized last year!"
                 }
             ],
             "mnemonics": [
-                "Memory anchor for L'Accord du Participe Passé avec le COD Précédent"
+                "COD IN FRONT = GENDER & NUMBER COUNT! If it's already past the verb, leave the participle alone!"
             ],
             "culturalNotes": [
-                "Cultural and conversational context for L'Accord du Participe Passé avec le COD Précédent in France."
+                "The rule of past participle agreement with preceding COD was codified in French by 16th-century poet Clément Marot and remains the hallmark of grammatical precision in the Académie française standards."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Apply the obligatory past participle agreement rule when a COD precede » :",
+                    "prompt": "Choisissez la terminaison correcte du participe passé : « La lettre que j'ai _________ (écrire) hier. »",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (50a).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (50b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (50c)."
+                        "écrite (accord avec le COD 'la lettre' placé avant)",
+                        "écrit (forme invariable)",
+                        "écrits (masculin pluriel)",
+                        "écris (présent)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Le pronom relatif 'que' a pour antécédent 'la lettre' (féminin singulier), COD placé avant le verbe avoir -> accord au féminin : 'écrite'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u11-l3 :",
+                    "prompt": "Dans quelle phrase le participe passé NE S'ACCORDE PAS avec le pronom ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (50x).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (50y).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (50z)."
+                        "Je leur ai téléphoné hier soir.",
+                        "Les fleurs ? Je les ai cueillies ce matin.",
+                        "Cette maison, nous l'avons vendue l'année dernière.",
+                        "Quelles belles histoires tu nous as racontées !"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B1."
+                    "explanation": "'Leur' est un COI (téléphoner à quelqu'un). Le participe passé ne s'accorde JAMAIS avec un COI."
                 }
             ]
         },
@@ -5940,25 +5988,23 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u11-l3) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Pourquoi écrit-on « Les erreurs que nous avons commisES » avec '-es' ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (50m).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (50n).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (50p)."
+                        "Parce que le COD 'les erreurs' (féminin pluriel) précède l'auxiliaire avoir.",
+                        "Parce que le sujet 'nous' est pluriel.",
+                        "Parce que le verbe commettre s'accorde toujours avec son sujet.",
+                        "Parce que c'est un verbe pronominal de sens réciproque."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "Le COD 'les erreurs' (féminin pluriel) est antéposé via le pronom relatif 'que', entraînant l'accord du participe passé au féminin pluriel (-es)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u11-l3 (terme attendu : « Nous ») :",
+                    "prompt": "Écrivez la forme exacte du participe passé du verbe 'prendre' accordé avec 'la décision' dans : « La décision qu'il a _________ » :",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "prise"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "prise (féminin singulier de pris)."
                 }
             ],
             "passThreshold": 0.8
@@ -5968,62 +6014,79 @@
         "id": "fr-u11-l4",
         "unit": "fr-u11",
         "level": "B1",
-        "objective": "Position double object pronouns (COD + COI) in correct hierarchical order before verbs.",
+        "objective": "Master the canonical sequence of double object pronouns in declarative sentences and negative imperatives (me/te/se/nous/vous -> le/la/les -> lui/leur -> y -> en).",
         "prerequisites": [
             "fr-u11-l3"
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u11-l3"
+            ]
         },
         "presentation": {
-            "explanation": "Comprehensive presentation of L'Ordre des Doubles Pronoms Compléments. In French grammar, mastering l'ordre des doubles pronoms compléments is vital for fluid sentence connection, precise discourse organization, and natural communication.",
+            "explanation": "When two object pronouns appear together before a verb in French statements or negative imperatives, their order is strictly dictated by the 5-Column Canonical Hierarchy:\n\nTHE 5-COLUMN ORDER (Left to Right before the verb):\n[1] me, te, se, nous, vous (1st/2nd person & reflexives)\n[2] le, la, l', les (3rd person COD)\n[3] lui, leur (3rd person COI)\n[4] y (location / à + thing)\n[5] en (quantity / de + noun)\n\nFREQUENT COMBINATIONS:\n- Column 1 + Column 2: 'Il me le donne.' (He gives it to me.) / 'Elle vous les montrera.'\n- Column 2 + Column 3: 'Je le lui explique.' (I explain it to him/her.) / 'Nous les leur envoyons.'\n- Column 2 + Column 4/5: 'Je l'y ai vu.' / 'Il leur en a parlé.'\n\nRULES FOR NEGATION & PASSÉ COMPOSÉ:\n- In negation: 'Ne' precedes the FIRST pronoun, and 'pas' follows the conjugated verb: 'Je NE le lui donne PAS.'\n- In Passé Composé: The entire double-pronoun bundle sits before the auxiliary: 'Elle me l'a promis.' (Agreement still applies to preceding COD: 'Ces clés ? Il me les a données.')",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Ce dossier confidentiel, je le lui transmettrai dès que le directeur aura donné son accord.",
+                    "reading": "suh doh-syay kohn-fee-dahn-syel, zhuh luh lwee trahns-meh-tray deh kuh luh dee-rek-tuhr oh-rah doh-nay sohn nah-kohr",
+                    "translation": "This confidential file, I will forward it to him/her as soon as the director gives approval."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Tes nouvelles coordonnées bancaires, est-ce que tu me les as envoyées par courriel ?",
+                    "reading": "tay noo-vel kohr-doh-nay bahn-kair, es-kuh too muh lay zah zahn-vwah-yay pahr koor-yel",
+                    "translation": "Your new bank details, did you send them to me by email?"
+                },
+                {
+                    "target": "Si Paul a besoin de mon dictionnaire, je le lui prêterai volontiers pour son examen.",
+                    "reading": "see pohl ah buh-zwan duh mohn deek-syoh-nair, zhuh luh lwee preh-truh-ray voh-lohn-tyay poor sohn neg-zah-man",
+                    "translation": "If Paul needs my dictionary, I will gladly lend it to him for his exam."
+                },
+                {
+                    "target": "Ces précieux conseils de vie, nos grands-parents nous les répétaient souvent.",
+                    "reading": "say pray-syuh kohn-say duh vee, noh grahn-pah-rahn noo lay ray-pay-teh soo-vahn",
+                    "translation": "These precious life lessons, our grandparents used to repeat them to us often."
+                },
+                {
+                    "target": "Nous ne le leur avons pas encore annoncé pour ne pas créer d'inquiétude inutile.",
+                    "reading": "noo nuh luh luhr zah-vohn pah zahn-kohr ah-nohn-say poor nuh pah kray-ay dan-kyeh-tood ee-noo-teel",
+                    "translation": "We haven't announced it to them yet so as not to create unnecessary worry."
                 }
             ],
             "mnemonics": [
-                "Memory anchor for L'Ordre des Doubles Pronoms Compléments"
+                "PRONOUN TRAIN: People (me/te/nous/vous) drive first -> Things (le/la/les) ride next -> Others (lui/leur) follow -> Destination (y) -> Baggage (en)!"
             ],
             "culturalNotes": [
-                "Cultural and conversational context for L'Ordre des Doubles Pronoms Compléments in France."
+                "Using the inverted order 'lui le' instead of 'le lui' is one of the most persistent anglicisms ('to him it'); in French, direct 3rd person always precedes indirect 3rd person: 'le lui'."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Position double object pronouns (COD + COI) in correct hierarchical or » :",
+                    "prompt": "Remplacez 'cette lettre' (COD) et 'à Pierre' (COI) par les pronoms dans « Je donne cette lettre à Pierre » :",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (51a).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (51b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (51c)."
+                        "Je la lui donne.",
+                        "Je lui la donne.",
+                        "Je la leur donne.",
+                        "Je me la donne."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Entre deux pronoms de 3e personne, le COD (la) précède toujours le COI (lui) : 'Je la lui donne'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u11-l4 :",
+                    "prompt": "Quelle est la structure correcte pour : « Il [nous] [les] a promis » à la forme négative ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "L'antériorité temporelle est mal établie par rapport au repère (51x).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (51y).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (51z)."
+                        "Il ne nous les a pas promis.",
+                        "Il nous ne les a pas promis.",
+                        "Il ne les nous a pas promis.",
+                        "Il ne nous a les pas promis."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B1."
+                    "explanation": "'Ne' se place avant le premier pronom (nous), 'les' suit immédiatement, puis l'auxiliaire 'a' suivi de 'pas' : 'Il ne nous les a pas promis'."
                 }
             ]
         },
@@ -6031,25 +6094,23 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u11-l4) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Traduisez avec l'ordre correct des pronoms : « She will explain it to them tomorrow. »",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'antériorité temporelle est mal établie par rapport au repère (51m).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (51n).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (51p)."
+                        "Elle le leur expliquera demain.",
+                        "Elle leur le expliquera demain.",
+                        "Elle se le expliquera demain.",
+                        "Elle le les expliquera demain."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "'it' (COD masc = le) précède 'to them' (COI = leur) : 'Elle le leur expliquera'."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u11-l4 (terme attendu : « Nous ») :",
+                    "prompt": "Complétez la phrase (ordre: me + les) : « Tu _________ prêteras pour le week-end ? » (écrivez les deux pronoms séparés par un espace) :",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "me les"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "'me les' (1re personne avant 3e personne COD)."
                 }
             ],
             "passThreshold": 0.8
@@ -6059,62 +6120,79 @@
         "id": "fr-u11-l5",
         "unit": "fr-u11",
         "level": "B1",
-        "objective": "Position object pronouns correctly with affirmative and negative imperative commands (Donne-le-moi ! Ne me le donne pas !).",
+        "objective": "Master pronoun placement in affirmative vs negative imperative commands, including hyphenation and phonetic alterations (Donne-le-moi vs Ne me le donne pas).",
         "prerequisites": [
             "fr-u11-l4"
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u11-l4"
+            ]
         },
         "presentation": {
-            "explanation": "Comprehensive presentation of Les Pronoms avec l'Impératif Affirmatif et Négatif. In French grammar, mastering les pronoms avec l'impératif affirmatif et négatif is vital for fluid sentence connection, precise discourse organization, and natural communication.",
+            "explanation": "The Imperative mood commands introduce a clear bifurcation in pronoun placement:\n\n1. AFFIRMATIVE IMPERATIVE (Commands to DO something):\n- Pronouns attach AFTER the verb, linked by HYPHENS: [VERB] - [COD] - [COI].\n- 1st & 2nd person object pronouns become TONIC FORMS: me -> MOI, te -> TOI.\n  - 'Donne-le-moi !' (Give it to me!)\n  - 'Expliquez-la-leur !' (Explain it to them!)\n  - 'Montrez-les-nous !' (Show them to us!)\n- Special elision with en/y: moi/toi become m'/t' before en/y ('Donne-m'en', 'Assieds-t'y').\n- Euphonic -s on -er verbs before y/en in 'tu' forms: 'Va' -> 'Vas-y !' / 'Mange' -> 'Manges-en !'\n\n2. NEGATIVE IMPERATIVE (Commands NOT to do something):\n- Pronouns return 100% to their standard pre-verbal position (no hyphens, me/te stay me/te):\n  - 'Ne me le donne pas !' (Don't give it to me!)\n  - 'Ne la leur expliquez pas !' (Don't explain it to them!)\n  - 'N'y va pas !' (Don't go there - no euphonic 's'!).\n\nGOLDEN COMPARISON:\n- Affirmative: 'Rends-le-moi !'\n- Negative: 'Ne me le rends pas !'",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Si tu as ce rapport financier sous les yeux, donne-le-moi immédiatement.",
+                    "reading": "see too ah suh rah-pohr fee-nahn-syay soo lay zyuh, dohn luh mwah ee-may-dyaht-mahn",
+                    "translation": "If you have that financial report in front of you, give it to me immediately."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Ne leur en parlez pas avant la réunion plénière de vendredi matin.",
+                    "reading": "nuh luhr zahn pahr-lay pah ah-vahn lah ray-oo-nyohn play-nyair duh vahn-druh-dee mah-tan",
+                    "translation": "Don't speak to them about it before Friday morning's plenary meeting."
+                },
+                {
+                    "target": "Prends cette délicieuse tarte aux pommes et manges-en une part avec nous.",
+                    "reading": "prahn set day-lee-syuhz tahrt oh pohm ay mahnzh zahn oon pahr ah-vek noo",
+                    "translation": "Take this delicious apple tart and eat a slice of it with us."
+                },
+                {
+                    "target": "Ces superbes photographies de voyage, montrez-les-nous s'il vous plaît !",
+                    "reading": "say soo-pairb foh-toh-grah-fee duh vwah-yahzh, mohn-tray lay noo seel voo pleh !",
+                    "translation": "These superb travel photographs, show them to us please!"
+                },
+                {
+                    "target": "Si tu veux réussir cette audition difficile, prépare-toi sérieusement et crois-y !",
+                    "reading": "see too vuh ray-oo-seer set oh-dee-syohn dee-fee-seel, pray-pahr twah say-ryuhz-mahn ay krwah zee !",
+                    "translation": "If you want to pass this difficult audition, prepare yourself seriously and believe in it!"
                 }
             ],
             "mnemonics": [
-                "Memory anchor for Les Pronoms avec l'Impératif Affirmatif et Négatif"
+                "AFFIRMATIVE = POST-VERB HYPHENS & MOI/TOI ('Donne-le-moi'); NEGATIVE = PRE-VERB STANDARD ('Ne me le donne pas')!"
             ],
             "culturalNotes": [
-                "Cultural and conversational context for Les Pronoms avec l'Impératif Affirmatif et Négatif in France."
+                "The euphonic 's' in 'Vas-y !' is mandatory in spoken French to avoid the glottal hiatus /va-i/; saying 'Va y' is considered an uneducated phonetic error."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Position object pronouns correctly with affirmative and negative imper » :",
+                    "prompt": "Transformez « Tu me donnes le livre » à l'impératif affirmatif :",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "La préposition employée ici n'est pas commandée par le verbe (52a).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (52b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (52c)."
+                        "Donne-le-moi !",
+                        "Donne-moi-le !",
+                        "Me le donne !",
+                        "Donne-le-me !"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "À l'impératif affirmatif, l'ordre est [Verbe] - [COD: le] - [COI: moi] avec traits d'union : 'Donne-le-moi !'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u11-l5 :",
+                    "prompt": "Quelle est la forme négative correcte de l'impératif « Montre-le-lui ! » ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "La préposition employée ici n'est pas commandée par le verbe (52x).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (52y).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (52z)."
+                        "Ne le lui montre pas !",
+                        "Ne lui le montre pas !",
+                        "Ne montre-le-lui pas !",
+                        "Ne le lui montres pas !"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B1."
+                    "explanation": "À l'impératif négatif, les pronoms reprennent leur place normale avant le verbe sans trait d'union : 'Ne le lui montre pas !'."
                 }
             ]
         },
@@ -6122,25 +6200,23 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u11-l5) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Pourquoi écrit-on « Vas-y ! » avec un 's' à la 2e personne du singulier de l'impératif du verbe aller ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "La préposition employée ici n'est pas commandée par le verbe (52m).",
-                        "Cette forme présente une anomalie phonétique en français standard (52n).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (52p)."
+                        "Pour des raisons phonétiques de liaison euphonique devant le pronom 'y'.",
+                        "Parce que le verbe aller prend toujours un 's' à l'impératif.",
+                        "Parce que c'est une forme du subjonctif présent.",
+                        "Parce que le sujet sous-entendu est 'vous'."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "Les verbes en -er et 'aller' prennent un 's' euphonique à la 2e personne du singulier de l'impératif devant 'y' et 'en' pour éviter le hiatus vocalique ('Vas-y !')."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u11-l5 (terme attendu : « Nous ») :",
+                    "prompt": "Complétez l'impératif affirmatif : « Si tu as faim, sers-_________ une assiette de soupe. » (forme tonique de te) :",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "toi"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "toi (sers-toi)."
                 }
             ],
             "passThreshold": 0.8
