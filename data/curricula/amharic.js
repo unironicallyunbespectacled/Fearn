@@ -3668,63 +3668,82 @@
     },
     "am-u6-l1": {
         "id": "am-u6-l1",
-        "subject": "amharic",
-        "unit": 6,
-        "lessonNumber": 1,
-        "title": "የወደፊት ጊዜ እና እቅድ (Future Tense & Intentions) (Part 1)",
+        "unit": "am-u6",
         "level": "A2",
-        "objective": "Comprehensive mastery of የወደፊት እቅዶች (Future Intentions).",
+        "objective": "Form future tense sentences in Amharic using the future marker -አለሁ/-ነው and the intentional construction 'ልሄድ አስባለሁ' (I intend to go).",
+        "prerequisites": [
+            "am-u5-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u4-l1",
+                "am-u5-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የወደፊት እቅዶች (Future Intentions) - ደረጃ 1) ተማሪዎች ስለ የወደፊት እቅዶች (Future Intentions) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Amharic expresses future tense using the same present habitual form + future time markers, or through intentional constructions:\n\n1. Future via Time Marker + Present Tense:\n- ነገ (nege - tomorrow) + present = future plan\n- « ነገ ወደ ሆስፒታሉ ይሄዳሉ » (They will go to the hospital tomorrow)\n\n2. Intentional Future — 'going to / intend to':\n- ል + infinitive root + አስባለሁ (asbalehu = I plan/intend to)\n- « ልሄድ አስባለሁ » (l'ihed asbalehu - I plan to go)\n- « ለማጥናት አስባለሁ » (lemat'nat asbalehu - I intend to study)\n\n3. Near Future with « ሊሄዱ ነው » (lihedu new - they are about to go):\n- Subject + ሊ + infinitive root + ነው = be about to",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየወደፊት እቅዶች (Future Intentions) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (6.1.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ነገ ወደ ሐሙስ ዕለት ትምህርት ቤት ልሄድ አስባለሁ።",
+                    "reading": "Nege wede hamus ilet timihirt bet l'ihed asbalehu.",
+                    "translation": "Tomorrow on Thursday I plan to go to school."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (6.1.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "እሱ ሊሄድ ነው — ቀሚሱ ለብሶ ቦርሳውን አንስቷል።",
+                    "reading": "Isu l'ihed new — qemisu lebso borsawn anistwal.",
+                    "translation": "He is about to leave — he has put on his shirt and picked up his bag."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (6.1.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ሳሙኤልና ፋናን ዩኒቨርሲቲ ለመግባት አስባሉ።",
+                    "reading": "Samuelnna Fanan yuniversiti lemegibat asbalu.",
+                    "translation": "Samuel and Fanan plan to enter university."
+                },
+                {
+                    "target": "ዛሬ ምሽት ምን ማድረግ ትፈልጋለህ?",
+                    "reading": "Zare mishit min madreg tifelgaleh?",
+                    "translation": "What do you want to do this evening?"
+                },
+                {
+                    "target": "ለትምህርቴ ማጠናቀቅ ሁለት ዓመት ይፈጃል።",
+                    "reading": "Let'imhirte mat'enaqeq hulet amet yifejal.",
+                    "translation": "It will take two years to complete my education."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የወደፊት እቅዶች (Future Intentions)"
+                "NEGE (tomorrow) + present tense = future; L' + root + ASBALEHU = I intend to!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "In Ethiopia, planning and time are often expressed fluidly. Saying « ደቂቃ ይጠብቁ » (deqiqa yit'ebqu - wait a minute) can mean anything from 60 seconds to an hour — time is relational, not absolute."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የወደፊት እቅዶች (Future Intentions)» አጠቃቀም በደረጃ 1 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "How do you say 'I plan to study tomorrow' in Amharic?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (6.1.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (6.1.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (6.1.3)።"
+                        "ነገ ለማጥናት አስባለሁ። (Nege lemat'nat asbalehu.)",
+                        "ነገ አጥናለሁ።",
+                        "ነገ ለማጥናት ሄጄ።",
+                        "ትናንት ማጥናት አስቤ ነበር።"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "ነገ (tomorrow) + ለማጥናት (to study) + አስባለሁ (I plan/intend) = I plan to study tomorrow."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የወደፊት ጊዜ እና እቅድ (Future Tense & Intentions)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 1)፡",
+                    "prompt": "What does « ሊሄድ ነው » (l'ihed new) mean?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (6.1.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (6.1.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (6.1.3)።"
+                        "He is about to go",
+                        "He went",
+                        "He will not go",
+                        "He wants to go"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "ሊ- prefix + verb root + ነው = 'is about to' (imminent future)."
                 }
             ]
         },
@@ -3732,85 +3751,107 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የወደፊት እቅዶች (Future Intentions)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 6-1)?",
+                    "prompt": "Which Amharic sentence means 'They plan to enter university'?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (6.1.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (6.1.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (6.1.3)።"
+                        "ዩኒቨርሲቲ ለመግባት አስባሉ። (Yuniversiti lemegibat asbalu.)",
+                        "ዩኒቨርሲቲ ገቡ።",
+                        "ዩኒቨርሲቲ ሊገቡ ነው።",
+                        "ዩኒቨርሲቲ አልገቡም።"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "ለመግባት (to enter) + አስባሉ (they plan/intend) = they plan to enter."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («እጓዛለሁ_6_1»):",
+                    "prompt": "Type the Amharic word for 'tomorrow' in Fidel script (ነገ):",
                     "acceptedAnswers": [
-                        "እጓዛለሁ_6_1"
+                        "ነገ",
+                        "nege",
+                        "Nege"
                     ],
-                    "explanation": "The target keyword was: 【እጓዛለሁ_6_1】"
+                    "explanation": "ነገ (nege) = tomorrow."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u6-l2": {
         "id": "am-u6-l2",
-        "subject": "amharic",
-        "unit": 6,
-        "lessonNumber": 2,
-        "title": "የወደፊት ጊዜ እና እቅድ (Future Tense & Intentions) (Part 2)",
+        "unit": "am-u6",
         "level": "A2",
-        "objective": "Comprehensive mastery of የወደፊት እቅዶች (Future Intentions).",
+        "objective": "Use the verb ፈለገ (felege - want/need) and ቻለ (chale - can/able to) to express desires, wishes, and abilities in present and past.",
+        "prerequisites": [
+            "am-u6-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u6-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የወደፊት እቅዶች (Future Intentions) - ደረጃ 2) ተማሪዎች ስለ የወደፊት እቅዶች (Future Intentions) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Two key modal-like verbs in Amharic:\n\n1. ፈለገ (felege) = wanted / needs (past); ይፈልጋል (yifelgal) = wants/needs (present):\n- I want: እፈልጋለሁ (Ifelgalehu)\n- Do you want (m.)?: ትፈልጋለህ? (Tifelgaleh?)\n- He wants: ይፈልጋል (Yifelgal)\n- She wants: ትፈልጋለች (Tifelgalech)\n- They want: ይፈልጋሉ (Yifelgalu)\n\n2. ቻለ (chale) = was able / managed (past); ይችላል (yichilal) = can (present):\n- I can: እችላለሁ (Ichilalehu)\n- He can: ይችላል (Yichilal)\n- I cannot: አልችልም (Alchilm)\n- Can you (m.)?: ትችላለህ? (Tichilaleh?)",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየወደፊት እቅዶች (Future Intentions) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (6.2.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ምን ትፈልጋለህ? — ቡና እፈልጋለሁ፣ አመሰግናለሁ።",
+                    "reading": "Min tifelgaleh? — Buna ifelgalehu, ameseginalehu.",
+                    "translation": "What do you want? — I want coffee, thank you."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (6.2.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "አማርኛ ትችላለሽ? — አዎ፣ ትንሽ እችላለሁ።",
+                    "reading": "Amarigna tichilalesh? — Awo, tinish ichilalehu.",
+                    "translation": "Can you speak Amharic? — Yes, I can a little."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (6.2.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ዋዋ ዋና ስለማይችሉ ወደ ሐይቁ አልሄዱም።",
+                    "reading": "Wawa wana silemayichlu wede hayqu alhedum.",
+                    "translation": "Because Wawa cannot swim, they did not go to the lake."
+                },
+                {
+                    "target": "ሱቁ ዘጋ ፤ ምንም ልናገዛ አልቻልንም።",
+                    "reading": "Suqu zega; minim linageza alchalnim.",
+                    "translation": "The shop closed; we could not buy anything."
+                },
+                {
+                    "target": "ዮሴፍ ፊዱዪ ሙዚቃ ለቃ ሙሉ ቀን ሊፈልጋቸው ይችላል!",
+                    "reading": "Yosef fideyi muziga leqa mulu qen lifelgachew yichilal!",
+                    "translation": "Yosef can listen to fidel (Ethio-jazz) music all day long!"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የወደፊት እቅዶች (Future Intentions)"
+                "IFELGALEHU = I want; ICHILALEHU = I can; ALCHILM = I cannot!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Ethio-Jazz (ፊዱዪ muziga) fuses traditional Ethiopian pentatonic scales with American jazz. The legendary Mulatu Astatke (ሙላቱ አስታጥቄ) pioneered this genre globally in the 1960s–70s."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የወደፊት እቅዶች (Future Intentions)» አጠቃቀም በደረጃ 2 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "How do you say 'I cannot speak Amharic (yet)' in Amharic?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (6.2.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (6.2.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (6.2.3)።"
+                        "አማርኛ አልችልም (ገና)። (Amarigna alchilm (gena).)",
+                        "አማርኛ ይችላሉ።",
+                        "አማርኛ እፈልጋለሁ።",
+                        "አማርኛ ትናንት ቻልሁ።"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "አልችልም (alchilm) = I cannot (1st singular negative of ቻለ)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የወደፊት ጊዜ እና እቅድ (Future Tense & Intentions)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 2)፡",
+                    "prompt": "What does « ይፈልጋሉ » (Yifelgalu) mean?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (6.2.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (6.2.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (6.2.3)።"
+                        "They want",
+                        "He wants",
+                        "I want",
+                        "We want"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "ይ- prefix (3rd person) + ፈለጉ + -ሉ (plural) = they want."
                 }
             ]
         },
@@ -3818,85 +3859,108 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የወደፊት እቅዶች (Future Intentions)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 6-2)?",
+                    "prompt": "Which sentence means 'Can you (f.) speak Amharic?'",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (6.2.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (6.2.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (6.2.3)።"
+                        "አማርኛ ትችያለሽ? (Amarigna tichiyalesh?)",
+                        "አማርኛ ይፈልጋሉ?",
+                        "አማርኛ ትናገሪያለሽ?",
+                        "አማርኛ ትፈልጊያለሽ?"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "2nd feminine singular of ቻለ (can): ትችያለሽ (tichiyalesh) = can you (f.)?"
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («እጓዛለሁ_6_2»):",
+                    "prompt": "Type the Amharic for 'I cannot' in Fidel script (አልችልም):",
                     "acceptedAnswers": [
-                        "እጓዛለሁ_6_2"
+                        "አልችልም",
+                        "alchilm",
+                        "Alchilm"
                     ],
-                    "explanation": "The target keyword was: 【እጓዛለሁ_6_2】"
+                    "explanation": "አልችልም (alchilm) = I cannot."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u6-l3": {
         "id": "am-u6-l3",
-        "subject": "amharic",
-        "unit": 6,
-        "lessonNumber": 3,
-        "title": "የወደፊት ጊዜ እና እቅድ (Future Tense & Intentions) (Part 3)",
+        "unit": "am-u6",
         "level": "A2",
-        "objective": "Comprehensive mastery of የወደፊት እቅዶች (Future Intentions).",
+        "objective": "Use comparative and superlative adjectives in Amharic: ከ...የበለጠ (more than), ሁሉ/ሁሉም ቢሆን (the most/best of all), and the adjective ቅጥ (less/fewer).",
+        "prerequisites": [
+            "am-u6-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u2-l1",
+                "am-u6-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የወደፊት እቅዶች (Future Intentions) - ደረጃ 3) ተማሪዎች ስለ የወደፊት እቅዶች (Future Intentions) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Amharic comparatives and superlatives use the following patterns:\n\n1. Comparative 'more than':\n- ከ + X + « የበለጠ » (yebelech) + adjective = more ... than X\n- E.g., « ከጎንደር ከተማ አዲስ አበባ የበለጠ ትልቅ ናት » (Addis Ababa is bigger than Gondar)\n\n2. Superlative 'the most / best':\n- « ሁሉ ቢሆን » or « ከሁሉ የበለጠ » = most of all\n- E.g., « ከሁሉ የበለጠ ጥሩ » (the best/most good of all)\n\n3. Key Adjectives for Comparison:\n- ትልቅ (tiliq) = big\n- ትንሽ (tinish) = small\n- ርቀት (riqet) = far\n- ቅርብ (qirb) = near/close\n- ብዙ (bizu) = many/much\n- ጥቂት (t'iqit) = few/little\n- ጥሩ (t'iru) = good\n- መጥፎ (met'fo) = bad",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየወደፊት እቅዶች (Future Intentions) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (6.3.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ከቡና ሻይ ቅርቡ የበለጠ ጣፋጭ ነው ለእኔ።",
+                    "reading": "Kebuna shay qirbu yebelech t'afach new le'ine.",
+                    "translation": "Tea is sweeter than coffee for me."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (6.3.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ቀይ ባሕር ከዓባይ የበለጠ ትልቅ ነው?",
+                    "reading": "Qey bahir ke'Abay yebelech tiliq new?",
+                    "translation": "Is the Red Sea bigger than the Blue Nile?"
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (6.3.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ኢትዮጵያ ካፍሪካ ሃገሮች ሁሉ ቢሆን ጥንታዊ ናት።",
+                    "reading": "Ityop'ya kafrika hageroch hulu bihon t'intawi nat.",
+                    "translation": "Ethiopia is the most ancient of all African nations."
+                },
+                {
+                    "target": "ዛሬ ትናንት ከነበረ የበለጠ ቀዝቃዛ ነው።",
+                    "reading": "Zare tinant kenebere yebelech qezqaza new.",
+                    "translation": "Today is colder than it was yesterday."
+                },
+                {
+                    "target": "ሐሙስ ዕለት ከሁሉ የበለጠ ብዙ ሰዎች ወደ ገበያ ይሄዳሉ።",
+                    "reading": "Hamus ilet kehulu yebelech bizu sewoch wede gebeya yihedalu.",
+                    "translation": "On Thursday the most people go to the market."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የወደፊት እቅዶች (Future Intentions)"
+                "KE + X + YEBELECH + adjective = X is more than; KEHULU YEBELECH = most of all!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Ethiopia is the oldest independent nation in Africa, having never been colonized. Emperor Menelik II's decisive victory at the Battle of Adwa in 1896 against Italian forces remains a defining moment of African sovereignty."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የወደፊት እቅዶች (Future Intentions)» አጠቃቀም በደረጃ 3 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "How do you say 'Addis Ababa is bigger than Gondar' in Amharic?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (6.3.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (6.3.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (6.3.3)።"
+                        "ከጎንደር አዲስ አበባ የበለጠ ትልቅ ናት። (Ke'Gondar Addis Abeba yebelech tiliq nat.)",
+                        "አዲስ አበባ ጎንደር ናት።",
+                        "ጎንደር ከአዲስ አበባ የበለጠ ናት።",
+                        "አዲስ አበባ ትልቅ ነው ፣ ጎንደርም ትልቅ ናት።"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "ከ + Gondar + Addis Abeba + የበለጠ (more than) + ትልቅ (big) + ናት."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የወደፊት ጊዜ እና እቅድ (Future Tense & Intentions)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 3)፡",
+                    "prompt": "What does « ከሁሉ የበለጠ » (Kehulu yebelech) mean?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (6.3.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (6.3.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (6.3.3)።"
+                        "The most / Best of all",
+                        "A little more",
+                        "Less than all",
+                        "Almost as much as"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "« ከሁሉ የበለጠ » = from all + more than = the most/best of all."
                 }
             ]
         },
@@ -3904,85 +3968,108 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የወደፊት እቅዶች (Future Intentions)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 6-3)?",
+                    "prompt": "Which Amharic phrase means 'more than coffee'?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (6.3.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (6.3.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (6.3.3)።"
+                        "ከቡና የበለጠ (Kebuna yebelech)",
+                        "ቡና ብዙ",
+                        "ቡና ከሁሉ",
+                        "ከቡና ያነሰ"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "explanation": "ከ + ቡና + የበለጠ = more than coffee."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («እጓዛለሁ_6_3»):",
+                    "prompt": "Type the Amharic comparative marker meaning 'more than' in Fidel script (የበለጠ):",
                     "acceptedAnswers": [
-                        "እጓዛለሁ_6_3"
+                        "የበለጠ",
+                        "yebelech",
+                        "Yebelech"
                     ],
-                    "explanation": "The target keyword was: 【እጓዛለሁ_6_3】"
+                    "explanation": "የበለጠ (yebelech) = more than (comparative marker)."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u6-l4": {
         "id": "am-u6-l4",
-        "subject": "amharic",
-        "unit": 6,
-        "lessonNumber": 4,
-        "title": "የወደፊት ጊዜ እና እቅድ (Future Tense & Intentions) (Part 4)",
+        "unit": "am-u6",
         "level": "A2",
-        "objective": "Comprehensive mastery of የወደፊት እቅዶች (Future Intentions).",
+        "objective": "Use conditional sentences in Amharic with ከሆነ (if/when), ካልሆነ (if not/unless), and ቢሆን (even if/were it to be).",
+        "prerequisites": [
+            "am-u6-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u5-l3",
+                "am-u6-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የወደፊት እቅዶች (Future Intentions) - ደረጃ 4) ተማሪዎች ስለ የወደፊት እቅዶች (Future Intentions) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Amharic conditional sentences use the following constructions:\n\n1. Real Conditional 'if/when' — ከሆነ (kihone) / ከሆነ በስተቀር:\n- CONDITION + ከሆነ + RESULT: If..., then...\n- E.g., « ዝናቡ ከወረደ ቤት ሆኖ ይቆያሉ » (If the rain falls, they stay home)\n\n2. Negative Conditional 'if not / unless' — ካልሆነ / ካልሄደ:\n- « ካልሄደ ሥራ ይወዳቀቃል » (If he doesn't go, the work will fall apart)\n\n3. Hypothetical 'even if / were it to be' — ቢሆን (bihon):\n- « ዝናቡ ቢወርድ እሄዳለሁ » (Even if it rains, I will go)\n- « ቢቻሉ አይቀሩም » (Even if they could, they wouldn't stay)",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየወደፊት እቅዶች (Future Intentions) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (6.4.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ፈቃድ ካገኘህ ወደ ሐሙስ ዋዜማ ሥራ ልቁ።",
+                    "reading": "Feqad kagegneh wede hamus wazema sira liq'u.",
+                    "translation": "If you get permission, take the day before Thursday off."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (6.4.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ዝናቡ ካልወረደ ሰዎቹ ወደ ሥፍራው ይሄዳሉ።",
+                    "reading": "Zinabbu kalwerede sewoch wede sifrw yihedalu.",
+                    "translation": "If the rain does not fall, the people will go to the venue."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (6.4.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ቢሆን ቢሆን አልሄድም — ጨርሼ ጨርሻለሁ።",
+                    "reading": "Bihon bihon alhedm — cherише chereshallehu.",
+                    "translation": "No matter what, I will not go — I am completely done."
+                },
+                {
+                    "target": "ጊዜ ካለህ ቡና ጠጥ።",
+                    "reading": "Gize kale buna t'et'.",
+                    "translation": "If you have time, drink coffee."
+                },
+                {
+                    "target": "ዩኒቨርሲቲ ካልገቡ ምን ሊሰሩ ነው?",
+                    "reading": "Yuniversiti kalgebu min liseru new?",
+                    "translation": "If they don't get into university, what will they do?"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የወደፊት እቅዶች (Future Intentions)"
+                "Condition + KIHONE = if...; Condition + KALHONE = if not...; BIHON = even if!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Ethiopian social planning often includes open-ended conditionals: « ካልዘናበ » (if it doesn't rain) or « ከጤናህ ካልተለዩ » (if your health holds) — reflecting a culture that acknowledges life's unpredictability."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የወደፊት እቅዶች (Future Intentions)» አጠቃቀም በደረጃ 4 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "Which Amharic conditional means 'if you have time'?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (6.4.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (6.4.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (6.4.3)።"
+                        "ጊዜ ካለህ (Gize kale)",
+                        "ጊዜ ከሌለህ",
+                        "ጊዜ ካጣህ",
+                        "ጊዜ ሲኖርህ ቢሆን"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "ጊዜ (time) + ካለህ (if you have, 2nd m. conditional of አለ) = if you have time."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የወደፊት ጊዜ እና እቅድ (Future Tense & Intentions)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 4)፡",
+                    "prompt": "What does the Amharic particle « ቢሆን » (bihon) signal?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (6.4.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (6.4.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (6.4.3)።"
+                        "Even if / hypothetically (concessive conditional)",
+                        "Therefore",
+                        "In order to",
+                        "After that"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "« ቢሆን » (bihon) = 'even if / were it to be' — hypothetical or concessive conditional."
                 }
             ]
         },
@@ -3990,85 +4077,108 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የወደፊት እቅዶች (Future Intentions)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 6-4)?",
+                    "prompt": "What does « ዝናቡ ካልወረደ » (Zinabbu kalwerede) mean?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (6.4.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (6.4.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (6.4.3)።"
+                        "If the rain does not fall",
+                        "After the rain fell",
+                        "Even if it rains",
+                        "When it was raining"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "ዝናቡ (the rain) + ካልወረደ (if it does not fall) = if the rain does not fall."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («እጓዛለሁ_6_4»):",
+                    "prompt": "Type the Amharic conditional marker 'if/when' in Fidel script (ከሆነ):",
                     "acceptedAnswers": [
-                        "እጓዛለሁ_6_4"
+                        "ከሆነ",
+                        "kihone",
+                        "Kihone"
                     ],
-                    "explanation": "The target keyword was: 【እጓዛለሁ_6_4】"
+                    "explanation": "ከሆነ (kihone) = if / when (real conditional)."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u6-l5": {
         "id": "am-u6-l5",
-        "subject": "amharic",
-        "unit": 6,
-        "lessonNumber": 5,
-        "title": "የወደፊት ጊዜ እና እቅድ (Future Tense & Intentions) (Part 5)",
+        "unit": "am-u6",
         "level": "A2",
-        "objective": "Comprehensive mastery of የወደፊት እቅዶች (Future Intentions).",
+        "objective": "Synthesize future intentions, modal verbs (want/can), comparatives, and conditionals in a complete A2-level planning dialogue.",
+        "prerequisites": [
+            "am-u6-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u6-l1",
+                "am-u6-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የወደፊት እቅዶች (Future Intentions) - ደረጃ 5) ተማሪዎች ስለ የወደፊት እቅዶች (Future Intentions) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "In this Unit 6 Capstone lesson, we build a full A2-level planning conversation that integrates:\n1. Future with ነገ + present / intentional ልሄድ አስባለሁ\n2. Modals: ፈለገ (want) and ቻለ (can)\n3. Comparatives: ከ...የበለጠ\n4. Conditionals: ከሆነ / ካልሆነ / ቢሆን\n\nScenario: Planning a trip to Lake Tana (ጣና ሐይቅ), Ethiopia's largest lake in Bahir Dar.",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየወደፊት እቅዶች (Future Intentions) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (6.5.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ነገ ወደ ጣና ሐይቅ ልሄድ አስባለሁ — አንተ ትፈልጋለህ?",
+                    "reading": "Nege wede T'ana Hayq l'ihed asbalehu — Ante tifelgaleh?",
+                    "translation": "I plan to go to Lake Tana tomorrow — do you want to (come)?"
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (6.5.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ዝናቡ ካልወረደ እሄዳለሁ — ከወረደ ቤት ሆኜ እቆያለሁ።",
+                    "reading": "Zinabbu kalwerede ihedalehu — kewerede bet honje iqoyalehu.",
+                    "translation": "If the rain does not fall I will go — if it does I will stay home."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (6.5.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ዘጠነኛው ጉዞ ከስምንተኛ የበለጠ ጣፋጭ ነበር!",
+                    "reading": "Zet'enegn gizo keSimintegn yebelech t'afach neber!",
+                    "translation": "The ninth trip was more enjoyable than the eighth one!"
+                },
+                {
+                    "target": "ብቻዬን ልሄድ አልፈልግም ፤ ካለህ አብረን ማቀድ እፈልጋለሁ።",
+                    "reading": "Bichayegn l'ihed alfelgm; kale abren maqed ifelgalehu.",
+                    "translation": "I don't want to go alone; if you are available I want us to plan together."
+                },
+                {
+                    "target": "ቢሆን ቢሆን ጣና ሐይቅ ካፍሪካ ሐይቆቸ ሁሉ ቢሆን ቆንጆ ናት!",
+                    "reading": "Bihon bihon T'ana hayq kafrika hayqoche hulu bihon qonjo nat!",
+                    "translation": "No matter what, Lake Tana is the most beautiful of all African lakes!"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የወደፊት እቅዶች (Future Intentions)"
+                "A2 SYNTHESIS: NEGE L'IHED ASBALEHU (future plan) + ZINABBU KALHONE (conditional) + YEBELECH (comparative)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "ጣና ሐይቅ (Lake Tana) is Ethiopia's largest lake and the source of the Blue Nile (ዓባይ አባይ abb Abay). It contains 37 islands, 21 of which have ancient monasteries preserving 14th–15th century paintings and manuscripts — a UNESCO-recognised cultural treasure."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የወደፊት እቅዶች (Future Intentions)» አጠቃቀም በደረጃ 5 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "How do you say 'I don't want to go alone' in Amharic?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (6.5.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (6.5.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (6.5.3)።"
+                        "ብቻዬን ልሄድ አልፈልግም። (Bichayegn l'ihed alfelgm.)",
+                        "ብቻዬን ሄጄ ፈለኩ።",
+                        "ብቻዬን ልሄድ እፈልጋለሁ።",
+                        "ብቻዬን ይሄዱ።"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "ብቻዬን (alone) + ልሄድ (to go) + አልፈልግም (I don't want) = I don't want to go alone."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የወደፊት ጊዜ እና እቅድ (Future Tense & Intentions)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 5)፡",
+                    "prompt": "Translate: 'If the rain does not fall I will go to Lake Tana.'",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (6.5.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (6.5.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (6.5.3)።"
+                        "ዝናቡ ካልወረደ ወደ ጣና ሐይቅ እሄዳለሁ። (Zinabbu kalwerede wede T'ana hayq ihedalehu.)",
+                        "ዝናቡ ቢወርድ ወደ ጣና ሐይቅ ልሄድ አስባለሁ።",
+                        "ዝናቡ ካልወረደ ቤት ሆኜ እቆያለሁ።",
+                        "ዝናቡ ከወረደ ወደ ጣና ሐይቅ እሄዳለሁ።"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "ዝናቡ ካልወረደ (if rain does not fall) + ወደ ጣና ሐይቅ (to Lake Tana) + እሄዳለሁ (I will go)."
                 }
             ]
         },
@@ -4076,24 +4186,28 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የወደፊት እቅዶች (Future Intentions)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 6-5)?",
+                    "prompt": "Which sentence means 'The ninth trip was more enjoyable than the eighth' in Amharic?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (6.5.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (6.5.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (6.5.3)።"
+                        "ዘጠነኛው ጉዞ ከስምንተኛ የበለጠ ጣፋጭ ነበር። (Zet'enegn gizo kesiminteign yebelech t'afach neber.)",
+                        "ዘጠነኛው ጉዞ ከስምንተኛ ያነሰ ጣፋጭ ነበር።",
+                        "ስምንተኛ ጉዞ ከዘጠነኛ የበለጠ ጣፋጭ ነበር።",
+                        "ጉዞ ዘጠን ጊዜ ሄድን።"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "ዘጠነኛ (9th) + ከስምንተኛ (than the 8th) + የበለጠ (more) + ጣፋጭ (enjoyable/sweet)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («እጓዛለሁ_6_5»):",
+                    "prompt": "Type the Amharic word for 'alone / by myself' in Fidel script (ብቻዬን):",
                     "acceptedAnswers": [
-                        "እጓዛለሁ_6_5"
+                        "ብቻዬን",
+                        "bichayegn",
+                        "Bichayegn"
                     ],
-                    "explanation": "The target keyword was: 【እጓዛለሁ_6_5】"
+                    "explanation": "ብቻዬን (bichayegn) = alone / by myself."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u7-l1": {
