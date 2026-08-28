@@ -11633,56 +11633,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u21-l5"
+            ]
         },
         "presentation": {
-            "explanation": "In-depth analysis of Opposition vs Concession : Principes Fondamentaux. At the CEFR B2 level, learners acquire precise command over opposition vs concession : principes fondamentaux, integrating advanced syntax with professional and domain-specific lexicon.",
+            "explanation": "Learners must strictly distinguish between Opposition (juxtaposing two independent, contrasting facts without logical contradiction) and Concession (introducing a fact that should logically prevent the outcome, yet fails to do so):\n\n1. OPPOSITION (Contrast without contradiction -> INDICATIF):\n- ALORS QUE / TANDIS QUE + INDICATIF:\n  * Compares two symmetrical situations:\n  * 'Paul aime la mer, tandis que sa sœur préfère la montagne.'\n  * 'Le nord est industriel, alors que le sud est agricole.'\n- EN REVANCHE (Formal) / PAR CONTRE (Informal):\n  * Adverbial transitions balancing an advantage against a drawback:\n  * 'L'hôtel est excentré ; en revanche, ses tarifs sont très avantageux.'\n\n2. CONCESSION (Unfulfilled expectation / Overcome obstacle):\n- MÊME SI + INDICATIF:\n  * Concession with standard indicative tenses (NEVER subjunctive after 'même si'!):\n  * 'Même s'il pleut des cordes, nous irons courir.'\n- QUAND MÊME / TOUT DE MÊME:\n  * 'Il est fatigué, mais il est quand même venu.'",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "La région côtière bénéficie d'un climat tempéré, tandis que l'arrière-pays subit des écarts thermiques extrêmes.",
+                    "reading": "lah ray-zhyohn koh-tyair bay-nay-fee-see doon klee-mah tahn-pay-ray, tahn-dee kuh lah-ryair-peh-ee soo-bee day zay-kahr tair-meek eks-trem",
+                    "translation": "The coastal region enjoys a temperate climate, whereas the hinterland experiences extreme thermal swings."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Ce logiciel professionnel est relativement complexe à configurer ; en revanche, ses fonctionnalités d'analyse sont inégalées.",
+                    "reading": "suh loh-zhee-syel proh-feh-syoh-nel ay ruh-lah-teev-mahn kohn-pleks ah kohn-fee-goo-ray; ahn ruh-vahnsh, say fohnk-syoh-nah-lee-tay dah-nah-leez sohn tee-nay-gah-lay",
+                    "translation": "This professional software is relatively complex to configure; on the other hand, its analytical features are unequaled."
+                },
+                {
+                    "target": "Même si les prévisions économiques restent prudentes, les investisseurs continuent de financer les entreprises innovantes.",
+                    "reading": "mehm see lay pray-vee-zyohn ay-koh-noh-meek rest proo-dahnt, lay zan-ves-tees-suhr kohn-teen-wee duh fee-nahn-say lay zahn-truh-preez ee-noh-vahnt",
+                    "translation": "Even though economic forecasts remain cautious, investors continue to fund innovative companies."
+                },
+                {
+                    "target": "Le premier candidat a privilégié une approche théorique, alors que son adversaire a axé son discours sur des mesures concrètes.",
+                    "reading": "luh pruh-myay kahn-dee-dah ah pree-vee-lay-zhyay oon nah-prohsh tay-oh-reek, ah-lohr kuh sohn nahd-vair-sair ah ahk-say sohn dees-koor soor day muh-zoor kohn-kret",
+                    "translation": "The first candidate favored a theoretical approach, whereas his opponent focused his speech on concrete measures."
+                },
+                {
+                    "target": "Le trajet était particulièrement long et éprouvant, mais nous sommes tout de même arrivés avant la tombée de la nuit.",
+                    "reading": "luh trah-zheh ay-teh pahr-tee-koo-lyair-mahn lohn ay ay-proo-vahn, may noo sohm too duh mehm ah-ree-vay ah-vahn lah tohn-bay duh lah nwee",
+                    "translation": "The journey was particularly long and grueling, but we nevertheless arrived before nightfall."
                 }
             ],
             "mnemonics": [
-                "Structural memory anchor for Opposition vs Concession : Principes Fondamentaux"
+                "OPPOSITION = COMPARISON (Tandis que / Alors que + Indicatif); CONCESSION = SURPRISE / OBSTACLE OVERCOME!",
+                "MÊME SI = ALWAYS INDICATIVE: Never put a subjunctive after 'Même si'!"
             ],
             "culturalNotes": [
-                "Authentic pragmatic application of Opposition vs Concession : Principes Fondamentaux in professional France."
+                "In formal French writing, stylists prefer 'en revanche' over 'par contre' (which the Académie française historically regarded as a commercial colloquialism)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Distinguish logical opposition (tandis que, alors que) from concession » :",
+                    "prompt": "Quelle conjonction introduit une simple opposition neutre entre deux faits réels ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (106a).",
-                        "Cette forme présente une anomalie phonétique en français standard (106b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (106c)."
+                        "tandis que",
+                        "bien que",
+                        "pour que",
+                        "à condition que"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "« tandis que + indicatif » met en parallèle deux situations différentes sans contradiction logique."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u22-l1 :",
+                    "prompt": "Quel mode verbal doit obligatoirement suivre la locution concessive « même si » ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (106x).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (106y).",
-                        "Cette forme présente une anomalie phonétique en français standard (106z)."
+                        "L'indicatif",
+                        "Le subjonctif",
+                        "Le conditionnel passé",
+                        "L'impératif"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B2."
+                    "explanation": "« Même si » est TOUJOURS suivi de l'indicatif (« Même s'il fait froid »), jamais du subjonctif."
                 }
             ]
         },
@@ -11690,25 +11708,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u22-l1) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Identifiez la phrase articulant une concession avec le mode adéquat :",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (106m).",
-                        "La préposition employée ici n'est pas commandée par le verbe (106n).",
-                        "Cette forme présente une anomalie phonétique en français standard (106p)."
+                        "Même s'il soit tard, nous devons continuer.",
+                        "Même s'il est tard, nous devons continuer.",
+                        "Alors qu'il soit tard, nous devons continuer.",
+                        "Tandis qu'il soit tard, nous devons continuer."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 1,
+                    "explanation": "« Même si » exige l'indicatif : « Même s'il est tard » (et non 'soit')."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u22-l1 (terme attendu : « Nous ») :",
+                    "prompt": "Quel connecteur soutenu remplace élégamment 'par contre' à l'écrit ? (locution : en _________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "revanche",
+                        "Revanche"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "La formule soutenue recommandée par l'Académie française est « en revanche »."
                 }
             ],
             "passThreshold": 0.8
@@ -11724,56 +11741,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u22-l1"
+            ]
         },
         "presentation": {
-            "explanation": "In-depth analysis of La Concession au Subjonctif : Bien que et Quoique. At the CEFR B2 level, learners acquire precise command over la concession au subjonctif : bien que et quoique, integrating advanced syntax with professional and domain-specific lexicon.",
+            "explanation": "Concessive subordinators expressing an obstacle that should logically thwart an action govern the SUBJONCTIF:\n\n1. BIEN QUE + SUBJONCTIF (Universal formal concessive subordinator):\n- 'Bien qu'il fasse froid, elle sort sans manteau.'\n- 'Bien que nous ayons insisté, ils ont refusé.'\n\n2. QUOIQUE + SUBJONCTIF (Elevated synonym of 'bien que'):\n- Written as ONE single word ('quoique', unlike 'quoi que' in two words!):\n  * 'Quoiqu'il soit compétent, il manque d'assurance.'\n- Caution: Do not confuse 'quoique' (although) with 'quoi que' (whatever + subj: 'Quoi que tu dises...').\n\n3. ENCORE QUE + SUBJONCTIF (Concessive reservation / caveat):\n- 'Il acceptera le projet, encore qu'il faille négocier les détails.'\n\n4. AVOIR BEAU + INFINITIF (Idiomatic Concession in Indicative):\n- Expresses thwarted, useless effort ('try as someone might / in vain'):\n  * 'J'ai beau chercher, je ne trouve pas mes clés.'\n  * 'Elle a eu beau protester, la sanction a été maintenue.'",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Bien que ce quartier historique soit très animé en journée, il retrouve un calme absolu dès la tombée de la nuit.",
+                    "reading": "byan kuh suh kahr-tyay ees-toh-reek swah treh zah-nee-may ahn zhoor-nay, eel ruh-troov uhn kahlm ahb-soh-loo day lah tohn-bay duh lah nwee",
+                    "translation": "Although this historic district is very lively during the day, it regains total calm after nightfall."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Quoique la candidate dispose d'une solide expérience internationale, le jury a préféré titulariser un profil local.",
+                    "reading": "kwah-kuh lah kahn-dee-daht dees-pohz doon soh-leed deks-pay-ryahns an-tair-nah-syoh-nahl, luh zhoo-ree ah pray-fay-ray tee-too-lah-ree-zay uhn proh-feel loh-kahl",
+                    "translation": "Although the candidate possesses solid international experience, the jury preferred to appoint a local profile."
+                },
+                {
+                    "target": "L'architecte a beau multiplier les croquis et les maquettes 3D, le client refuse d'entériner le projet de rénovation.",
+                    "reading": "lahr-shee-tekt ah boh mool-tee-plee-ay lay kroh-kee ay lay mah-ket trwah day, luh klee-ahn ruh-foo z dahn-tay-ree-nay luh proh-zheh duh ray-noh-vah-syohn",
+                    "translation": "No matter how much the architect multiplies sketches and 3D models, the client refuses to ratify the renovation project."
+                },
+                {
+                    "target": "Bien qu'ils aient rencontré d'innombrables obstacles administratifs, les chercheurs ont pu inaugurer leur nouveau laboratoire.",
+                    "reading": "byan keel zeht rahn-kohn-tray deen-nohm-brahbl zohb-stahkl ahd-mee-nees-trah-teef, lay shair-shuhr zohn poo ee-noh-goo-ray luhr noo-voh lah-boh-rah-twahr",
+                    "translation": "Although they encountered countless administrative obstacles, the researchers were able to inaugurate their new laboratory."
+                },
+                {
+                    "target": "Le comité a validé le budget annuel, encore qu'il doive faire l'objet d'un audit indépendant au second semestre.",
+                    "reading": "luh koh-mee-tay ah vah-lee-day luh boo-dzheh ah-nwel, ahn-kohr keel dwahv fair lohb-zheh doon noh-deet an-day-pahn-dahn oh suh-gohn suh-mestr",
+                    "translation": "The committee validated the annual budget, although it must undergo an independent audit in the second semester."
                 }
             ],
             "mnemonics": [
-                "Structural memory anchor for La Concession au Subjonctif : Bien que et Quoique"
+                "BIEN QUE / QUOIQUE = ALWAYS SUBJUNCTIVE! (Bien qu'il SOIT fatigué)!",
+                "AVOIR BEAU + INFINITIVE = EFFORT IN VAIN! (J'ai beau faire = Try as I might)!"
             ],
             "culturalNotes": [
-                "Authentic pragmatic application of La Concession au Subjonctif : Bien que et Quoique in professional France."
+                "The idiomatic construction 'avoir beau + infinitif' is omnipresent in both spoken French and literary classics (such as Albert Camus' L'Étranger)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Deploy concessive conjunctions requiring the subjunctive mood (bien qu » :",
+                    "prompt": "Quelle phrase illustre la concordance correcte du mode après « bien que » ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "La préposition employée ici n'est pas commandée par le verbe (107a).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (107b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (107c)."
+                        "Bien qu'il sache la vérité, il se tait.",
+                        "Bien qu'il sait la vérité, il se tait.",
+                        "Bien qu'il saura la vérité, il se tait.",
+                        "Bien qu'il a su la vérité, il se tait."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "« Bien que » régit obligatoirement le subjonctif : « Bien qu'il sache » (du verbe savoir)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u22-l2 :",
+                    "prompt": "Que signifie l'expression : « Il a beau insister, on ne l'écoute pas » ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (107x).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (107y).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (107z)."
+                        "Il insiste en vain / malgré ses efforts répétés.",
+                        "Il insiste avec beaucoup d'élégance.",
+                        "Il demande gentiment de l'aide.",
+                        "Il n'insiste pas du tout."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B2."
+                    "explanation": "« Avoir beau + infinitif » exprime une tentative vaine ou un effort inutile face à un obstacle insurmontable."
                 }
             ]
         },
@@ -11781,25 +11816,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u22-l2) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Identifiez l'erreur de conjugaison dans cette proposition concessive :",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (107m).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (107n).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (107p)."
+                        "Bien qu'elle comprenne le problème, elle hésite.",
+                        "Quoiqu'il soit prêt, il a peur.",
+                        "Bien que nous ayons terminé, nous attendons.",
+                        "Bien qu'il fait très beau, nous restons enfermés."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 3,
+                    "explanation": "« Bien qu'il fait » est fautif : 'bien que' exige le subjonctif (« Bien qu'il fasse très beau »)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u22-l2 (terme attendu : « Nous ») :",
+                    "prompt": "Conjuguez le verbe avoir au subjonctif présent : « Bien que vous _________ (avoir) raison, restez courtois. »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "ayez",
+                        "Ayez"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Le subjonctif présent d'avoir avec 'vous' est « ayez »."
                 }
             ],
             "passThreshold": 0.8
@@ -11815,56 +11849,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u22-l2"
+            ]
         },
         "presentation": {
-            "explanation": "In-depth analysis of La Concession Nominale : Malgré et En dépit de. At the CEFR B2 level, learners acquire precise command over la concession nominale : malgré et en dépit de, integrating advanced syntax with professional and domain-specific lexicon.",
+            "explanation": "When concession is introduced by a noun phrase rather than a clause, prepositional locutions are employed:\n\n1. MALGRÉ + NOM / PRONOM (Universal Preposition):\n- Directly introduces a noun or pronoun without any verb:\n  * 'Malgré la pluie battante, ils sont partis en randonnée.'\n  * 'Malgré tout, nous gardons espoir.'\n- CRITICAL ERROR: 'Malgré que' followed by a clause is considered a severe grammatical error in standard French. Always use 'Bien que + subjonctif' instead!\n\n2. EN DÉPIT DE + NOM (Elevated & Formal Register):\n- Emphasizes deliberate defiance of an obstacle:\n  * 'En dépit des mises en garde des experts, le projet a été maintenu.'\n\n3. NONOBSTANT + NOM (Legal / Juridical Register):\n- 'Nonobstant toute disposition contraire du présent contrat...'\n\n4. QUITTE À + INFINITIF (Accepting a potential risk or price):\n- 'Je dirai la vérité, quitte à déplaire.'",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "En dépit des nombreuses réserves émises par les experts écologistes, les autorités ont validé le tracé de la nouvelle autoroute.",
+                    "reading": "ahn day-pee day nohm-bruhz ray-zairv ay-meez pahr lay zeks-pair ay-koh-loh-zheest, lay zoh-toh-ree-tay zohn vah-lee-day luh trah-say duh lah noo-vel oh-toh-root",
+                    "translation": "In spite of numerous reservations expressed by environmental experts, the authorities approved the route of the new highway."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Malgré une conjoncture macroéconomique morose, l'entreprise artisanale a enregistré une progression record de son chiffre d'affaires.",
+                    "reading": "mahl-gray oon kohn-zhohnk-toor mah-kroh-ay-koh-noh-meek moh-rohz, lahn-truh-preez ahr-tee-zah-nahl ah ahn-ruh-zhees-tray oon proh-greh-syohn ruh-kohr duh sohn sheefr dah-fair",
+                    "translation": "Despite a sluggish macroeconomic environment, the artisan enterprise recorded a record increase in its turnover."
+                },
+                {
+                    "target": "Elle a décidé de démissionner pour lancer sa propre galerie d'art, quitte à vivre plus modestement pendant deux ans.",
+                    "reading": "el ah day-see-day duh day-mee-syoh-nay poor lahn-say sah proh-pruh gah-luh-ree dahr, keet ah veevr ploo moh-dest-mahn pahn-dahn duh zahn",
+                    "translation": "She decided to resign to launch her own art gallery, even if it means living more modestly for two years."
+                },
+                {
+                    "target": "En dépit de son jeune âge, ce jeune prodige du violon interprète les concertos les plus virtuoses avec une aisance stupéfiante.",
+                    "reading": "ahn day-pee duh sohn zhuhn nahzh, suh zhuhn proh-deezh doo vyoh-lohn an-tair-pret lay kohn-sair-toh lay ploo veer-too-ohz ah-vek oon neh-zahns stoo-pay-fyahnt",
+                    "translation": "In spite of his young age, this violin prodigy performs the most virtuosic concertos with astonishing ease."
+                },
+                {
+                    "target": "Nonobstant les recours déposés par les riverains, le chantier de construction du complexe sportif débutera le mois prochain.",
+                    "reading": "noh-nohb-stahn lay ruh-koor day-poh-zay pahr lay reev-ran, luh shahn-tyay duh kohn-strook-syohn doo kohn-pleks spohr-teef day-boo-trah luh mwah proh-shan",
+                    "translation": "Notwithstanding the appeals filed by local residents, construction of the sports complex will begin next month."
                 }
             ],
             "mnemonics": [
-                "Structural memory anchor for La Concession Nominale : Malgré et En dépit de"
+                "MALGRÉ + NOUN: Never say 'malgré que' (use 'bien que' for clauses)!",
+                "EN DÉPIT DE = ELEVATED 'MALGRÉ'!"
             ],
             "culturalNotes": [
-                "Authentic pragmatic application of La Concession Nominale : Malgré et En dépit de in professional France."
+                "Grammatical purists and the Académie française strictly reject 'malgré que + verbe' in standard written French, categorizing it as a serious grammatical violation."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Express prepositional concession with nouns using 'malgré' and 'en dép » :",
+                    "prompt": "Quelle tournure est formellement proscrite et considérée comme fautive en français soigné ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (108a).",
-                        "La préposition employée ici n'est pas commandée par le verbe (108b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (108c)."
+                        "Malgré qu'il pleut",
+                        "Malgré la pluie",
+                        "Bien qu'il pleuve",
+                        "En dépit de la pluie"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "« Malgré que » suivi d'une proposition est une incorrection majeure en français moderne. On dit « Malgré la pluie » ou « Bien qu'il pleuve »."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u22-l3 :",
+                    "prompt": "Complétez la phrase dans un registre juridique soutenu : « _________ les avertissements du syndic, les travaux ont commencé. »",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (108x).",
-                        "Cette forme présente une anomalie phonétique en français standard (108y).",
-                        "La préposition employée ici n'est pas commandée par le verbe (108z)."
+                        "En dépit de",
+                        "Bien que",
+                        "Même si",
+                        "Quoique"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B2."
+                    "explanation": "Devant un nom ('les avertissements'), la préposition soutenue de concession est « En dépit de » (ou 'Malgré')."
                 }
             ]
         },
@@ -11872,25 +11924,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u22-l3) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Choisissez la phrase respectant scrupuleusement la syntaxe de la concession nominale :",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (108m).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (108n).",
-                        "La préposition employée ici n'est pas commandée par le verbe (108p)."
+                        "En dépit des prévisions pessimistes, le festival a rencontré un immense succès.",
+                        "Malgré que les prévisions étaient mauvaises, le festival a réussi.",
+                        "En dépit que les gens ont protesté, la loi est votée.",
+                        "Malgré de ses efforts, il a échoué."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "« En dépit des prévisions pessimistes » associe parfaitement la préposition concessive au groupe nominal."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u22-l3 (terme attendu : « Nous ») :",
+                    "prompt": "Complétez la locution exprimant l'acceptation d'un risque : « Il va tenter le tout pour le tout, _________ (quitte) à échouer. »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "quitte",
+                        "Quitte"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "La locution concessive est « quitte à + infinitif »."
                 }
             ],
             "passThreshold": 0.8
@@ -11906,56 +11957,73 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u22-l3"
+            ]
         },
         "presentation": {
-            "explanation": "In-depth analysis of Les Adverbes de Concession et de Nuance. At the CEFR B2 level, learners acquire precise command over les adverbes de concession et de nuance, integrating advanced syntax with professional and domain-specific lexicon.",
+            "explanation": "In French rhetoric and expository writing, adverbial connectors manage the dialectical pivot (la concession argumentative):\n\n1. Hierarchy of Concessive Adverbs:\n- POURTANT (Striking, unexpected contradiction):\n  * 'Il avait bien révisé, et pourtant il a échoué.'\n- CEPENDANT (Standard, elegant concessive pivot):\n  * 'Cette théorie est séduisante ; cependant, elle comporte des failles.'\n- NÉANMOINS (Strong logical concession / resilience):\n  * 'Le coût est très élevé ; néanmoins, les travaux restent indispensables.'\n- TOUTEFOIS (Polite reservation / restriction):\n  * 'Le rapport est positif ; toutefois, des réserves doivent être levées.'\n\n2. Punctuation & Positioning:\n- Placed at the start of the second clause, preceded by a semicolon or period, followed by a comma:\n  * '... ; néanmoins, nous constatons que ...'",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Le bilan semestriel de l'entreprise est encourageant ; néanmoins, la volatilité des marchés boursiers impose une extrême prudence.",
+                    "reading": "luh bee-lahn suh-mes-tree-yel duh lahn-truh-preez ay tahn-koo-rah-zhahn; nay-ahn-mwan, lah voh-lah-tee-lee-tay day mahr-shay boor-syay am-pohz oon neks-trem proo-dahns",
+                    "translation": "The company's semiannual report is encouraging; nonetheless, stock market volatility necessitates extreme caution."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Cette proposition de loi a recueilli un large assentiment parlementaire ; toutefois, ses décrets d'application suscitent des inquiétudes.",
+                    "reading": "set proh-poh-zee-syohn duh lwah ah ruh-kuh-yee uhn lahrzh ah-sahn-tee-mahn pahr-luh-mahn-tair; too-tuh-fwah, say day-kreh dah-plee-kah-syohn soos-seet day zan-kyeh-tood",
+                    "translation": "This bill garnered broad parliamentary approval; however, its implementing decrees are raising concerns."
+                },
+                {
+                    "target": "Les négociateurs avaient convenu d'un cessez-le-feu immédiat ; pourtant, des tirs sporadiques ont été entendus dans la nuit.",
+                    "reading": "lay nay-goh-syah-tuhr zah-vyay kohn-vuh-noo doon ses-ay-luh-fuh ee-may-dyaht; poor-tahn, day teer spoh-rah-deek zohn tay-tay ahn-tahn-doo dahn lah nwee",
+                    "translation": "The negotiators had agreed to an immediate ceasefire; yet, sporadic gunfire was heard during the night."
+                },
+                {
+                    "target": "La critique littéraire a vivement salué l'originalité du roman ; cependant, le grand public ne lui a réservé qu'un accueil timide.",
+                    "reading": "lah kree-teek lee-tay-rair ah veev-mahn sah-loo-ay loh-ree-zhee-nah-lee-tay doo roh-mahn; suh-pahn-dahn, luh grahn poo-bleek nuh lwee ah ray-zair-vay koon nah-kuh-yuh tee-meed",
+                    "translation": "Literary critics warmly praised the novel's originality; however, the general public gave it only a modest reception."
+                },
+                {
+                    "target": "Le dispositif de sécurité semblait infaillible, mais une faille informatique a tout de même permis l'intrusion.",
+                    "reading": "luh dees-poh-zee-teef duh say-koo-ree-tay sahn-bleh tan-fah-yeebl, may oon fye een-fohr-mah-teek ah too duh mehm pair-mee lan-troo-zyohn",
+                    "translation": "The security system seemed infallible, but an IT vulnerability nevertheless allowed the intrusion."
                 }
             ],
             "mnemonics": [
-                "Structural memory anchor for Les Adverbes de Concession et de Nuance"
+                "POURTANT = SURPRISING PARADOX! NÉANMOINS = DESPITE ALL! TOUTEFOIS = POLITE RESTRICTION!"
             ],
             "culturalNotes": [
-                "Authentic pragmatic application of Les Adverbes de Concession et de Nuance in professional France."
+                "In French dissertation methodology (thèse, antithèse, synthèse), 'cependant' and 'néanmoins' are canonical articulators marking the turn toward the antithesis."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Form concessive transition adverbs in formal debates (cependant, néanm » :",
+                    "prompt": "Quel adverbe concessif exprime une légère réserve polie ou une nuance restrictive ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette forme présente une anomalie phonétique en français standard (109a).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (109b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (109c)."
+                        "toutefois",
+                        "donc",
+                        "ainsi",
+                        "parce que"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "« toutefois » introduit une restriction mesurée ou une nuance prudente dans l'argumentation."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u22-l4 :",
+                    "prompt": "Complétez la transition : « L'épreuve était redoutable ; _________ (néanmoins), elle a obtenu la note maximale. »",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette variante relève d'un registre familier inadapté au contexte (109x).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (109y).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (109z)."
+                        "néanmoins",
+                        "de plus",
+                        "en outre",
+                        "c'est pourquoi"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B2."
+                    "explanation": "« néanmoins » souligne avec force le dépassement de l'obstacle."
                 }
             ]
         },
@@ -11963,25 +12031,26 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u22-l4) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Identifiez l'adverbe qui marque un paradoxe saisissant et inattendu :",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette variante relève d'un registre familier inadapté au contexte (109m).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (109n).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (109p)."
+                        "premièrement",
+                        "pourtant",
+                        "ensuite",
+                        "enfin"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 1,
+                    "explanation": "« pourtant » souligne une contradiction frappante entre deux constats."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u22-l4 (terme attendu : « Nous ») :",
+                    "prompt": "Orthographiez l'adverbe de concession soutenu composé de 'néant' et 'moins' : (terme attendu : _________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "néanmoins",
+                        "Néanmoins",
+                        "neanmoins",
+                        "Neanmoins"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "L'adverbe s'écrit « néanmoins » en un seul mot avec accent aigu."
                 }
             ],
             "passThreshold": 0.8
@@ -11997,56 +12066,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u22-l4"
+            ]
         },
         "presentation": {
-            "explanation": "In-depth analysis of La Réfutation et la Concession Rhétorique dans le Débat. At the CEFR B2 level, learners acquire precise command over la réfutation et la concession rhétorique dans le débat, integrating advanced syntax with professional and domain-specific lexicon.",
+            "explanation": "In high-level rhetorical debates and political forums, mastering concessive refutation (la concession stratégique) allows a speaker to grant part of an opponent's argument before decisively undermining it:\n\n1. Concessive-Refutative Pairings:\n- CERTES / IL EST VRAI QUE... MAIS / TOUTEFOIS...:\n  * Concedes the opponent's premise to build credibility before refuting their conclusion:\n  * 'Certes, le coût initial est élevé, mais les économies futures compenseront cet investissement.'\n- QUAND BIEN MÊME + CONDITIONNEL:\n  * Rejects an objection even under extreme counterfactual assumption ('even if / even assuming that'):\n  * 'Quand bien même nous doublerions le budget, le problème subsisterait.'\n- QUOI QU'IL EN SOIT / EN TOUT ÉTAT DE CAUSE:\n  * Cuts through secondary dispute to re-anchor the essential issue:\n  * 'Quoi qu'il en soit, le vote aura lieu vendredi.'\n- LOIN DE + INFINITIF:\n  * 'Loin de faiblir, la contestation prend de l'ampleur.'",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Certes, cette réforme exigera des efforts d'adaptation considérables, mais elle garantira la viabilité de notre système de retraite.",
+                    "reading": "sairt, set ray-fohrm eg-zee-zhrah day zay-fohr dah-dahp-tah-syohn kohn-see-day-rahbl, may zel gah-rahn-tee-rah lah vyah-bee-lee-tay duh noh-truh sees-tem duh ruh-tret",
+                    "translation": "Admittedly, this reform will require considerable adaptation efforts, but it will guarantee the viability of our pension system."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Quand bien même l'opposition voterait contre ce texte, la majorité gouvernementale dispose des voix nécessaires pour l'adopter.",
+                    "reading": "kahn byan mehm loh-poh-zee-syohn voh-truh kohn-truh suh tekst, lah mah-zhoh-ree-tay goo-vair-nuh-mahn-tahl dees-pohz day vwah nay-seh-sair poor lah-dohp-tay",
+                    "translation": "Even if the opposition were to vote against this bill, the government majority possesses the necessary votes to pass it."
+                },
+                {
+                    "target": "Quoi qu'il en soit, la Cour des comptes publiera son rapport d'audit exhaustif avant la fin de la session parlementaire.",
+                    "reading": "kwah keel ahn swah, lah koor day kohnt poo-blee-rah sohn rah-pohr doh-deet eg-zohs-teef ah-vahn lah fan duh lah seh-syohn pahr-luh-mahn-tair",
+                    "translation": "Be that as it may, the Court of Audit will publish its exhaustive audit report before the end of the parliamentary session."
+                },
+                {
+                    "target": "Loin de décourager les candidats, la sélectivité accrue du concours a stimulé les vocations et renforcé l'exigence académique.",
+                    "reading": "lwan duh day-koo-rah-zhay lay kahn-dee-dah, lah say-lek-tee-vee-tay ah-kroo doo kohn-koor ah stee-moo-lay lay voh-kah-syohn ay rahn-fohr-say leg-zee-zhahns ah-kah-day-meek",
+                    "translation": "Far from discouraging applicants, increased selectivity of the competitive exam stimulated vocations and reinforced academic rigor."
+                },
+                {
+                    "target": "Il est indéniable que la transition numérique bouscule nos habitudes ; toutefois, les opportunités professionnelles créées sont immenses.",
+                    "reading": "eel ay tan-day-nyahbl kuh lah trahn-zee-syohn noo-may-reek boos-kool noh zah-bee-tood; too-tuh-fwah, lay zoh-pohr-too-nee-tay proh-feh-syoh-nel kray-ay sohn tee-mahns",
+                    "translation": "It is undeniable that the digital transition disrupts our habits; however, the career opportunities created are immense."
                 }
             ],
             "mnemonics": [
-                "Structural memory anchor for La Réfutation et la Concession Rhétorique dans le Débat"
+                "CERTES... MAIS: Acknowledge the point, then smash the conclusion!",
+                "QUAND BIEN MÊME + CONDITIONNEL: Ultimate hypothetical concession!"
             ],
             "culturalNotes": [
-                "Authentic pragmatic application of La Réfutation et la Concession Rhétorique dans le Débat in professional France."
+                "The 'Certes... mais' pivot is the bedrock of French political eloquence in televised presidential debates (Le Débat de l'entre-deux-tours)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Construct sophisticated counter-arguments and rhetorical concessions i » :",
+                    "prompt": "Quel mode verbal doit obligatoirement suivre la locution d'hypothèse concessive « quand bien même » ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (110a).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (110b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (110c)."
+                        "Le conditionnel",
+                        "Le subjonctif",
+                        "L'indicatif présent",
+                        "L'impératif"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "« Quand bien même » régit obligatoirement le conditionnel (« Quand bien même il viendrait... »)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u22-l5 :",
+                    "prompt": "Quelle formule rhétorique sert à faire une concession stratégique avant de réfuter l'argument ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (110x).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (110y).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (110z)."
+                        "Certes... mais...",
+                        "Comme... donc...",
+                        "Puisque... car...",
+                        "Afin que... pour que..."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B2."
+                    "explanation": "« Certes... mais... » accorde temporairement un point à l'adversaire avant de contre-attaquer."
                 }
             ]
         },
@@ -12054,25 +12141,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u22-l5) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle phrase applique avec exactitude la structure avec « quand bien même » ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (110m).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (110n).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (110p)."
+                        "Quand bien même il pleuvrait des cordes, nous irions au bout du défi.",
+                        "Quand bien même il pleuve des cordes, nous irons.",
+                        "Quand bien même il pleut des cordes, nous allons.",
+                        "Quand bien même il aura plu des cordes, nous irons."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "« Quand bien même » se construit avec le conditionnel : « Quand bien même il pleuvrait... nous irions »."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u22-l5 (terme attendu : « Nous ») :",
+                    "prompt": "Complétez la formule de recadrage du débat : « Quoi qu'il en _________ (être / subjonctif), nous devons trancher. »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "soit",
+                        "Soit"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "La locution figée est « Quoi qu'il en soit » avec le subjonctif présent de être ('soit')."
                 }
             ],
             "passThreshold": 0.8
