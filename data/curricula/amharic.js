@@ -5505,60 +5505,60 @@
         "subject": "amharic",
         "unit": 10,
         "lessonNumber": 1,
-        "title": "ቦታዎች፣ ከተማ እና ጉዞ (City Navigation & Spatial Relations) (Part 1)",
+        "title": "Direction Words: Left, Right, Straight, and Cardinal Points",
         "level": "A2",
-        "objective": "Comprehensive mastery of የከተማ ጉዞ እና አቅጣጫ (Urban Navigation).",
+        "objective": "Use Amharic direction vocabulary — left (ግራ), right (ቀኝ), straight ahead (ቀጥ), and the cardinal directions — to describe and follow basic navigation instructions.",
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የከተማ ጉዞ እና አቅጣጫ (Urban Navigation) - ደረጃ 1) ተማሪዎች ስለ የከተማ ጉዞ እና አቅጣጫ (Urban Navigation) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Navigation in Amharic requires a specific set of direction words and postpositional phrases. Unlike English, which uses prepositions before the noun ('to the left'), Amharic navigation phrases tend to use the direction word either as an adverb or attached to the postposition -ኛ (direction suffix).\n\nCORE DIRECTION WORDS:\n• ግራ (gira) — left\n• ቀኝ (qegn) — right\n• ቀጥ ብሎ (qet bilo) — straight ahead [literally: saying/going straight]\n• ወደ ፊት (wede fit) — forward / straight ahead [ወደ = toward, ፊት = front]\n• ወደ ኋላ (wede hwala) — backward / behind [ኋላ = back]\n• ወደ ላይ (wede lai) — upward\n• ወደ ታች (wede tach) — downward / below\n\nTURNING COMMANDS:\n• ወደ ግራ ዞሩ / ዙሩ (wede gira zoru) — turn left [ዞሩ = turn, plural/polite imperative]\n• ወደ ቀኝ ዞሩ (wede qegn zoru) — turn right\n• ቀጥ ብለው ሂዱ (qet blew hidu) — go straight ahead [ቀጥ ብለው = saying straight, ሂዱ = go (plural/polite)]\n\nCARDINAL DIRECTIONS:\n• ሰሜን (semen) — north\n• ደቡብ (debub) — south\n• ምሥራቅ (misraq) — east\n• ምዕራብ (mirab) — west\n\nThese are used more in formal contexts (maps, addresses) rather than everyday direction-giving. In informal Amharic urban navigation, ግራ/ቀኝ and landmarks are more common than compass directions.\n\nIMPERATIVE FORMS FOR DIRECTIONS:\nAmharic direction instructions use the imperative mood. Two levels:\n• Singular familiar: ዞር (zor = turn), ሂድ (hid = go)\n• Plural/polite: ዞሩ (zoru = turn), ሂዱ (hidu = go)\nIn public settings (asking strangers), always use the polite plural form.",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየከተማ ጉዞ እና አቅጣጫ (Urban Navigation) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (10.1.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ወደ ቀኝ ዞሩ፣ ከዚያ ቀጥ ብለው ሂዱ — ሆስፒታሉ ሁለተኛ መንገድ ላይ ነው።",
+                    "reading": "Wede qegn zoru, kezzia qet blew hidu — hossippitalu hulettenna menged lai new.",
+                    "translation": "Turn right, then go straight ahead — the hospital is on the second street."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (10.1.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ወደ ግራ ዞሩ — ትምህርት ቤቱ ባንኩ አጠገብ ነው።",
+                    "reading": "Wede gira zoru — timhirt betu bankku ategeb new.",
+                    "translation": "Turn left — the school is next to the bank."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (10.1.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ምሥራቅ አቅጣጫ ሂዱ፣ ደቡቡ ተራራ ያያሉ።",
+                    "reading": "Misraq aqtacha hidu, debubu terrara yayalu.",
+                    "translation": "Go in the east direction, you will see the southern mountain."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የከተማ ጉዞ እና አቅጣጫ (Urban Navigation)"
+                "ቀኝ (qegn = right) — think of it as 'cane': you hold a cane in your right hand. ግራ (gira = left) — 'gira' sounds like 'gear-ah', and you shift gear with your left hand in some vehicles. For the imperatives: ዞሩ (zoru = turn) contains ዞ — think of spinning around ('zo-ROUND'). ሂዱ (hidu = go) — short, sharp, like 'heed-u' = 'heed [the instruction and] go'."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "In Ethiopia, landmark-based navigation is far more common than street names or addresses. Ethiopians typically give directions using well-known buildings, roundabouts (ክብ መንገድ, kib menged), churches, mosques, and major intersections as reference points. Saying 'turn right at the big church and go straight past the gas station' is far more useful than naming a street — most streets in Ethiopian cities don't have widely known names."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የከተማ ጉዞ እና አቅጣጫ (Urban Navigation)» አጠቃቀም በደረጃ 1 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«ወደ ቀኝ ዞሩ» ምን ማለት ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (10.1.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (10.1.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (10.1.3)።"
+                        "Go straight ahead",
+                        "Turn left",
+                        "Turn right"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 2,
+                    "explanation": "ወደ = toward; ቀኝ = right; ዞሩ = turn (polite/plural imperative of ዞረ). Together: 'Turn right.' ወደ ግራ ዞሩ = Turn left. ቀጥ ብለው ሂዱ = Go straight ahead."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ቦታዎች፣ ከተማ እና ጉዞ (City Navigation & Spatial Relations)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 1)፡",
+                    "prompt": "«ምሥራቅ» ምን ማለት ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (10.1.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (10.1.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (10.1.3)።"
+                        "North",
+                        "West",
+                        "East"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 2,
+                    "explanation": "ምሥራቅ (misraq) = East. The four cardinal directions: ሰሜን (semen) = North, ደቡብ (debub) = South, ምሥራቅ (misraq) = East, ምዕራብ (mirab) = West."
                 }
             ]
         },
@@ -5566,22 +5566,22 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የከተማ ጉዞ እና አቅጣጫ (Urban Navigation)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 10-1)?",
+                    "prompt": "ፖሊሱ «ቀጥ ብለው ሂዱ» ሲሉ ምን ትርጉም ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (10.1.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (10.1.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (10.1.3)።"
+                        "Stop here immediately",
+                        "Go straight ahead",
+                        "Turn around and go back"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "ቀጥ ብለው ሂዱ = go straight ahead. ቀጥ = straight; ብለው = saying/having said (adverbial participle); ሂዱ = go (polite plural imperative of ሄደ). This is the standard Amharic instruction to continue straight without turning."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («መንገድ_10_1»):",
+                    "prompt": "Type the Amharic word for 'left' (the direction):",
                     "acceptedAnswers": [
-                        "መንገድ_10_1"
+                        "ግራ"
                     ],
-                    "explanation": "The target keyword was: 【መንገድ_10_1】"
+                    "explanation": "ግራ (gira) = left. Its counterpart is ቀኝ (qegn) = right. In direction-giving: ወደ ግራ ዞሩ (turn left), ወደ ቀኝ ዞሩ (turn right)."
                 }
             ]
         }
@@ -5591,60 +5591,60 @@
         "subject": "amharic",
         "unit": 10,
         "lessonNumber": 2,
-        "title": "ቦታዎች፣ ከተማ እና ጉዞ (City Navigation & Spatial Relations) (Part 2)",
+        "title": "Asking for Directions: Polite Requests and Landmark Questions",
         "level": "A2",
-        "objective": "Comprehensive mastery of የከተማ ጉዞ እና አቅጣጫ (Urban Navigation).",
+        "objective": "Ask for directions in Amharic using polite request structures — ይቅርታ (excuse me), _____ የት ነው? (where is _____?) and _____ እንዴት እሄዳለሁ? (how do I get to _____?) — and understand common responses.",
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የከተማ ጉዞ እና አቅጣጫ (Urban Navigation) - ደረጃ 2) ተማሪዎች ስለ የከተማ ጉዞ እና አቅጣጫ (Urban Navigation) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Asking for directions involves three key elements: attracting attention politely, asking the question, and understanding the answer. This lesson builds the full asking-for-directions interaction in Amharic.\n\nATTRACTING ATTENTION:\n• ይቅርታ (yiqirta) — Excuse me / I'm sorry [used to politely interrupt]\n• ይቅርታ አደርጋለሁ (yiqirta adergalehu) — I beg your pardon [more formal]\n• ወንድምዬ / አህቴ — My brother / My sister [used to address a stranger informally]\n\nASKING WHERE SOMETHING IS:\nPattern: [Location] + የት + ነው?\n• ባንኩ የት ነው? (bankku yet new?) — Where is the bank?\n• ትምህርት ቤቱ የት ነው? (timhirt betu yet new?) — Where is the school?\n• ምግብ ቤቱ የት ነው? (migib betu yet new?) — Where is the restaurant?\n\nFor a place you don't know: _____ የት ነው ብለው ያውቃሉ? (_____ yet new blew yawqalu?) — Do you know where _____ is?\n\nASKING HOW TO GET THERE:\n• [Place] _____ እንዴት እሄዳለሁ? (__ indet ihedalehu?) — How do I get to _____?\n• [Place] _____ ወደ _______ ምን ያህል ርቀት ነው? (__ wede __ min yahil riqet new?) — How far is it from __ to __?\n\nCOMMON RESPONSES:\n• ርቀት አለ (riqet alle) — It is far [ርቀት = distance/far]\n• ቅርብ ነው (qirb new) — It is near [ቅርብ = near/close]\n• ትንሽ ርቀት ነው (tinish riqet new) — It is a short distance\n• _____ ሰዓት ያስፈልጋል (__ seaat yasifelligal) — It will take _____ hours\n• [አላወቅሁም / አላውቅም] (alawechum / alawqim) — I don't know (past / present negative of ዐወቀ 'to know')\n\nIMPORTANT: The response አላወቅሁም means 'I didn't know' (past negative) while አላውቅም means 'I don't know' (present — more natural when saying you're unfamiliar with a place).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየከተማ ጉዞ እና አቅጣጫ (Urban Navigation) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (10.2.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ይቅርታ — ዋናው ፖስታ ቤት የት ነው ብለው ያውቃሉ?",
+                    "reading": "Yiqirta — wannaw posta bet yet new blew yawqalu?",
+                    "translation": "Excuse me — do you know where the main post office is?"
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (10.2.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "— ቅርብ ነው? — አዎ፣ ቀጥ ብለህ ሂድ፣ ሁለተኛ ኬላ ላይ ቀኝ ዞር።",
+                    "reading": "— Qirb new? — Awo, qet bileh hid, hulettenna kela lai qegn zor.",
+                    "translation": "— Is it close? — Yes, go straight, then turn right at the second checkpoint/junction."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (10.2.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "አዲስ አበባ ዩኒቨርሲቲ ከዚህ ምን ያህል ርቀት ነው?",
+                    "reading": "Addis Abeba Yunivérsiti kezih min yahil riqet new?",
+                    "translation": "How far is Addis Ababa University from here?"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የከተማ ጉዞ እና አቅጣጫ (Urban Navigation)"
+                "The key question formula: [Place] + የት ነው? = 'Where is [Place]?' The two words to memorize: የት (yet) = where, ነው (new) = is. So literally 'bank where is?' — Amharic keeps the SOV order even in questions. For 'near' vs. 'far': ቅርብ (qirb) = near — think 'curb' which is close to the road. ርቀት (riqet) = distance/far — the longer word carries more distance."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Ethiopian hospitality extends to directions — people rarely say 'I don't know' and leave you stranded. If someone doesn't know the exact way, they will often point you toward someone who might know, or try to describe partial directions. It's considered helpful to walk with someone to show them the way if possible. Responding አላውቅም (I don't know) is honest and acceptable, but it's often accompanied by an offer to find out or point you further."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የከተማ ጉዞ እና አቅጣጫ (Urban Navigation)» አጠቃቀም በደረጃ 2 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«ባንኩ የት ነው?» ን ወደ English ቀይሩ:",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (10.2.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (10.2.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (10.2.3)።"
+                        "Is the bank open?",
+                        "Where is the bank?",
+                        "How far is the bank?"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "ባንኩ (bankku) = the bank [definite form with -ው suffix]; የት (yet) = where; ነው (new) = is. Together: 'Where is the bank?' Pattern: [Definite noun] + የት + ነው? is the standard location question."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ቦታዎች፣ ከተማ እና ጉዞ (City Navigation & Spatial Relations)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 2)፡",
+                    "prompt": "«ቅርብ ነው» vs «ርቀት አለ» — ልዩነት ምን ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (10.2.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (10.2.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (10.2.3)።"
+                        "ቅርብ ነው means 'it is close/near'; ርቀት አለ means 'there is distance' (i.e., it is far).",
+                        "They are synonyms — both mean 'it is far'.",
+                        "ቅርብ ነው is used only for walking distance; ርቀት አለ is for driving distance."
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "ቅርብ (qirb) = close/near, so ቅርብ ነው = 'it is close/near'. ርቀት (riqet) = distance, so ርቀት አለ = 'there is [significant] distance' = 'it is far'. These are opposite in meaning and critical for navigation: one tells you to walk, the other suggests you need transportation."
                 }
             ]
         },
@@ -5652,22 +5652,22 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የከተማ ጉዞ እና አቅጣጫ (Urban Navigation)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 10-2)?",
+                    "prompt": "«ትምህርት ቤቱ ከዚህ ምን ያህል ርቀት ነው?» ምን ይጠይቃል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (10.2.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (10.2.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (10.2.3)።"
+                        "What time does the school open?",
+                        "How far is the school from here?",
+                        "Which school is this?"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "ትምህርት ቤቱ (the school) + ከዚህ (from here) + ምን ያህል ርቀት ነው? (how much distance is it?). This asks about the distance between the current location and the school. ምን ያህል = how much/how many; ርቀት = distance."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («መንገድ_10_2»):",
+                    "prompt": "Type the Amharic word meaning 'near' or 'close' (distance is short):",
                     "acceptedAnswers": [
-                        "መንገድ_10_2"
+                        "ቅርብ"
                     ],
-                    "explanation": "The target keyword was: 【መንገድ_10_2】"
+                    "explanation": "ቅርብ (qirb) = near/close. Used in: ቅርብ ነው (it is near). Its opposite: ርቀት አለ (it is far). Both are essential navigation vocabulary."
                 }
             ]
         }
@@ -5677,60 +5677,60 @@
         "subject": "amharic",
         "unit": 10,
         "lessonNumber": 3,
-        "title": "ቦታዎች፣ ከተማ እና ጉዞ (City Navigation & Spatial Relations) (Part 3)",
+        "title": "Spatial Relations: Amharic Postpositions (ፊት, ኋላ, ላይ, ውስጥ, አጠገብ)",
         "level": "A2",
-        "objective": "Comprehensive mastery of የከተማ ጉዞ እና አቅጣጫ (Urban Navigation).",
+        "objective": "Use the five core Amharic spatial postpositions — ፊት (in front of), ኋላ (behind), ላይ (on/on top of), ውስጥ (inside/in), and አጠገብ (next to/beside) — correctly, understanding that Amharic postpositions come AFTER the noun phrase.",
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የከተማ ጉዞ እና አቅጣጫ (Urban Navigation) - ደረጃ 3) ተማሪዎች ስለ የከተማ ጉዞ እና አቅጣጫ (Urban Navigation) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Amharic is a postpositional language — the words that indicate spatial relationships (in front of, behind, on, inside, next to) come AFTER the noun they relate to, not before it. This is directly opposite to English prepositions, which come before the noun.\n\nEnglish: 'in front of the school'\nAmharic: ትምህርት ቤቱ ፊት (school-the + front) = 'the school's front' / 'in front of the school'\n\nFIVE CORE SPATIAL POSTPOSITIONS:\n\n1. ፊት (fit) — in front of / before\n   ቤቱ ፊት (betu fit) = in front of the house\n   ፊት ለፊት (fit-lefit) = directly in front of / face to face\n\n2. ኋላ (hwala) — behind / after\n   ትምህርት ቤቱ ኋላ (timhirt betu hwala) = behind the school\n   Note: ኋላ also means 'later' in time: ኋላ እሄዳለሁ = I'll go later\n\n3. ላይ (lai) — on top of / on / at (a surface or platform)\n   ጠረጴዛ ላይ (terepeza lai) = on the table\n   መንገድ ላይ (menged lai) = on the road / on the way\n   Note: ወደ _____ ላይ = toward [a surface/point] — direction\n\n4. ውስጥ (wist) — inside / within / in\n   ቤት ውስጥ (bet wist) = inside the house\n   ከተማ ውስጥ (ketema wist) = within the city\n\n5. አጠገብ (ategeb) — next to / beside / near\n   ቤተ-ክርስቲያኑ አጠገብ (bete-kirstiyannu ategeb) = next to the church\n\nCRITICAL PATTERN:\nAmharic postpositional phrases use the genitive particle የ- when specifying ownership:\nYe-[noun] + [postposition] = 'the [postposition] of [noun]'\nExample: የቤቱ ፊት (yebetu fit) = the front of the house = 'in front of the house'\n\nBut in everyday speech, the genitive prefix is often dropped:\nቤቱ ፊት (betu fit) is heard as often as የቤቱ ፊት.",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየከተማ ጉዞ እና አቅጣጫ (Urban Navigation) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (10.3.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ቁጠባ ባንኩ ፖስቶ ቤቱ አጠገብ ነው።",
+                    "reading": "Quteba bankku posto betu ategeb new.",
+                    "translation": "The savings bank is next to the post office."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (10.3.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ቁልፉ ጠረጴዛ ላይ ነው — አትፈልጉ።",
+                    "reading": "Qulfu terepeza lai new — atfelligu.",
+                    "translation": "The key is on the table — don't look [for it elsewhere]."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (10.3.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ልጆቹ ቤት ውስጥ ሳይሆን ቤቱ ኋላ ያሉት ሜዳ ላይ ናቸው።",
+                    "reading": "Lijochuu bet wist sayhon betu hwala yalut meda lai nachew.",
+                    "translation": "The children are not inside the house but on the field behind the house."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የከተማ ጉዞ እና አቅጣጫ (Urban Navigation)"
+                "Postpositions follow the noun — like a loyal guard walking BEHIND the noun it protects. A memory aid for the five: 'FLOIB': Front (ፊት), Low-behind (ኋላ), On (ላይ), Inside (ውስጥ), Beside (አጠገብ). For ላይ vs ውስጥ: ላይ = 'lie on top' (something is lying on a surface), ውስጥ = 'within'/'wist' (sounds like 'wist'ful — imagining being inside)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Ethiopian Orthodox churches (ቤተ-ክርስቲያን) and mosques (መስጊድ) serve as the most reliable landmarks in Ethiopian cities and towns. Giving directions relative to a church ('turn right at the church of St. Michael', ቅዱስ ሚካኤል ቤተ-ክርስቲያን አጠገብ) is completely standard. Ethiopia has a very high density of churches — Lalibela alone has 11 rock-hewn churches — so knowing how to use church names as landmarks is practical knowledge."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የከተማ ጉዞ እና አቅጣጫ (Urban Navigation)» አጠቃቀም በደረጃ 3 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«The book is inside the bag» ን ወደ አማርኛ ቀይሩ። (መጽሐፍ = book; ቦርሳ = bag; ነው = is)",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (10.3.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (10.3.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (10.3.3)።"
+                        "ቦርሳ ውስጥ መጽሐፉ ነው።",
+                        "ውስጥ ቦርሳ መጽሐፉ ነው።",
+                        "መጽሐፉ ቦርሳ ውስጥ ነው።"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 2,
+                    "explanation": "Correct Amharic SOV + postposition order: Subject (መጽሐፉ = the book) + Location phrase (ቦርሳ ውስጥ = bag inside = inside the bag) + Copula (ነው = is). The postposition ውስጥ follows the noun it modifies (ቦርሳ), and this whole phrase comes before the copula. Option A puts the location phrase first (possible but less natural). Option B puts the postposition before the noun — wrong."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ቦታዎች፣ ከተማ እና ጉዞ (City Navigation & Spatial Relations)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 3)፡",
+                    "prompt": "«ቤቱ ፊት» ምን ማለት ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (10.3.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (10.3.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (10.3.3)።"
+                        "Behind the house",
+                        "Inside the house",
+                        "In front of the house"
                     ],
                     "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "ፊት (fit) = front/in front of. So ቤቱ ፊት = 'the house front' = in front of the house. ፊት ለፊት means 'directly face to face'. The opposites: ፊት (front) ↔ ኋላ (back/behind); ላይ (on/above) ↔ ታች (under/below); ውስጥ (inside) ↔ ውጭ (outside)."
                 }
             ]
         },
@@ -5738,22 +5738,22 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የከተማ ጉዞ እና አቅጣጫ (Urban Navigation)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 10-3)?",
+                    "prompt": "«The children are playing on the field» — ትክክለኛ አማርኛ ዓረፍተ ነገር ምን ነው? (ልጆቹ = the children; ሜዳ = field; መጫወት/ይጫወታሉ = they play)",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (10.3.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (10.3.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (10.3.3)።"
+                        "ልጆቹ ሜዳ ላይ ይጫወታሉ።",
+                        "ላይ ሜዳ ልጆቹ ይጫወታሉ።",
+                        "ልጆቹ ላይ ሜዳ ይጫወታሉ።"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "SOV structure: ልጆቹ [S] + ሜዳ ላይ [location, field + postposition] + ይጫወታሉ [V]. The postposition ላይ comes after ሜዳ (field), not before. Option B front-loads the postposition. Option C places ላይ between subject and location noun — wrong."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («መንገድ_10_3»):",
+                    "prompt": "Type the Amharic postposition meaning 'inside' / 'within' (e.g., ቤት ___ = inside the house):",
                     "acceptedAnswers": [
-                        "መንገድ_10_3"
+                        "ውስጥ"
                     ],
-                    "explanation": "The target keyword was: 【መንገድ_10_3】"
+                    "explanation": "ውስጥ (wist) = inside/within. Used in: ቤት ውስጥ (inside the house), ከተማ ውስጥ (inside/within the city), ቦርሳ ውስጥ (inside the bag). Always follows the noun it relates to."
                 }
             ]
         }
@@ -5763,60 +5763,60 @@
         "subject": "amharic",
         "unit": 10,
         "lessonNumber": 4,
-        "title": "ቦታዎች፣ ከተማ እና ጉዞ (City Navigation & Spatial Relations) (Part 4)",
+        "title": "Transportation: Taxis, Minibuses, and Getting Around Ethiopian Cities",
         "level": "A2",
-        "objective": "Comprehensive mastery of የከተማ ጉዞ እና አቅጣጫ (Urban Navigation).",
+        "objective": "Name and use key transportation vocabulary in Amharic — ታክሲ (taxi), ሚኒባስ (minibus), አውቶቡስ (bus) — and interact with drivers and conductors using standard phrases for routes, fares, and stops.",
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የከተማ ጉዞ እና አቅጣጫ (Urban Navigation) - ደረጃ 4) ተማሪዎች ስለ የከተማ ጉዞ እና አቅጣጫ (Urban Navigation) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Ethiopian cities, especially Addis Ababa, have a distinctive transportation system that learners need vocabulary for.\n\nTRANSPORTATION TYPES:\n• ታክሲ (taksi) — blue-and-white shared taxi (NOT a private cab in the Western sense — Ethiopian ታክሲ are shared, fixed-route minivans carrying multiple passengers)\n• ሚኒባስ (minibase) — minibus, a small van/bus on fixed routes [most common urban transport]\n• አውቶቡስ (awtobus) — large bus [Anbessa city bus in Addis]\n• ሦስት ጎማ / ቱክቱክ (sost goma / tuktuk) — three-wheeled auto-rickshaw [ሦስት ጎማ = three wheels]\n• ፈረስ ጋሪ (feres gari) — horse cart [ፈረስ = horse, ጋሪ = cart] — used in smaller towns\n• ሙሉ ታክሲ (mullu taksi) — private (non-shared) taxi [ሙሉ = full/whole, meaning you hire the whole vehicle]\n\nKEY PHRASES WITH TAXI/MINIBUS DRIVERS:\n• ______ ትሄዳለህ? (__ tihedalleh?) — Are you going to ______? [asking driver]\n• ______ ትሄዳለህ ወይ? — Do you go to ______?\n• ______ ያኖሩኝ (__ yanoruign) — Please stop at ______\n• ያኖሩኝ / ያቁሙልኝ (yanoruign / yaqumulign) — Please stop [let me off here]\n• ምን ያህል ነው? (min yahil new?) — How much is it? [fare]\n• ______ ብቻ ቀርቷል (__ bicha qertoal) — Only _____ [seats] remain [conductor calling passengers]\n\nCONDUCTOR VOCABULARY:\nMinibuses have a conductor (ረዳት, redat = assistant) who collects fares and calls out the route:\n• ደሴ! ደሴ! — Desse! Desse! [calling the destination]\n• ቦታ አለ (bota alle) — There are seats\n• ቦታ የለም (bota yellem) — No seats available\n• ቲኬት (tiket) — ticket [for long-distance buses]\n\nCOMMON FARE QUESTION FORMAT:\nFrom [A] to [B] how much?\n[A]-ን ለቆ [B] ምን ያህል ነው? OR: [B] ሄጄ ስንት ብር ነው?",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየከተማ ጉዞ እና አቅጣጫ (Urban Navigation) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (10.4.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ፒያሳ ትሄዳለህ ወይ? — አዎ፣ ወጣ። ሂድ።",
+                    "reading": "Piyasa tihedalleh wey? — Awo, weta. Hid.",
+                    "translation": "Are you going to Piazza? — Yes, get in. Go. [driver's response]"
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (10.4.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ሜርካቶ አጠገብ ያኖሩኝ — ዛሬ ሙሉ ታክሲ ዋጋ ምን ያህል ነው?",
+                    "reading": "Merkato ategeb yanoruign — zare mullu taksi waga min yahil new?",
+                    "translation": "Please let me off near Mercato — what is today's price for a private taxi?"
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (10.4.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ሦስት ጎማ ሚኒባስ ቢሆን ይሻላል — አውቶቡሱ ብዙ ሰዎች አሉ።",
+                    "reading": "Sost goma minibase bihon yishalal — awtobusu bizu sewoch allu.",
+                    "translation": "It would be better if it were a tuk-tuk / minibus — the bus has many people."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የከተማ ጉዞ እና አቅጣጫ (Urban Navigation)"
+                "Ethiopian ታክሲ (taksi) is NOT a private taxi — it is a shared vehicle on a fixed route. Remember: 'taksi = taxi BUT shared' — you share with strangers. For ያኖሩኝ (please stop): break it down as ያ-ኖሩ-ኝ = [causative marker]-stop-me = 'cause them to stop for me'. ሙሉ ታክሲ (mullu taksi) = full/whole taxi = private hire — ሙሉ means 'whole' (you take the whole car)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "The minibus system in Addis Ababa is one of the most fascinating urban transport systems in Africa. Routes run between fixed major points (e.g., Merkato to Piazza, Mexico to Bole), and conductors shout destinations to attract passengers. There are no fixed stops — you hail from the roadside and shout ያኖሩኝ when you want to get off. Fares are negotiated or are fixed by informal convention. During rush hour (ሰዓቱ ወቅት), competition for seats is intense, and experienced Addis residents know exactly which corner to stand on for each route."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የከተማ ጉዞ እና አቅጣጫ (Urban Navigation)» አጠቃቀም በደረጃ 4 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«ያኖሩኝ» ምን ጊዜ ትጠቀማለህ?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (10.4.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (10.4.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (10.4.3)።"
+                        "When asking the driver where they are going",
+                        "When buying a ticket at the bus station",
+                        "When you want the driver to stop and let you off"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 2,
+                    "explanation": "ያኖሩኝ (yanoruign) = please stop [for me] / let me off here. It is the phrase used to signal the driver/conductor that you want to get off at your stop. Use it by calling out 'ያኖሩኝ!' as you approach your destination."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ቦታዎች፣ ከተማ እና ጉዞ (City Navigation & Spatial Relations)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 4)፡",
+                    "prompt": "«ሙሉ ታክሲ» ምን ማለት ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (10.4.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (10.4.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (10.4.3)።"
+                        "A bus with many passengers",
+                        "A private/chartered taxi where you hire the whole vehicle (not shared)",
+                        "A taxi that is full and has no room"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "ሙሉ (mullu) = whole/full/entire. ሙሉ ታክሲ = 'whole taxi' = private hire, where one person or group pays for exclusive use of the vehicle. This contrasts with a regular ታክሲ which is shared with strangers on a fixed route. Note the ambiguity: option C 'a taxi that is full' would be expressed differently, usually as ቦታ የለም ታክሲ (a taxi with no seats)."
                 }
             ]
         },
@@ -5824,22 +5824,22 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የከተማ ጉዞ እና አቅጣጫ (Urban Navigation)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 10-4)?",
+                    "prompt": "ሹፌሩ «ቦታ የለም» ሲሉ ምን ትርጉም ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (10.4.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (10.4.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (10.4.3)።"
+                        "The fare is too expensive",
+                        "We have arrived at the destination",
+                        "There are no available seats"
                     ],
                     "answerIndex": 2,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "explanation": "ቦታ (bota) = place/seat/space; የለም (yellem) = there is not. So ቦታ የለም = 'there is no space/no seats available'. This is what a conductor shouts to turn away passengers when the vehicle is full. Opposite: ቦታ አለ (bota alle) = there are seats."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («መንገድ_10_4»):",
+                    "prompt": "Type the Amharic word for the shared fixed-route taxi/minivan common in Ethiopian cities:",
                     "acceptedAnswers": [
-                        "መንገድ_10_4"
+                        "ታክሲ"
                     ],
-                    "explanation": "The target keyword was: 【መንገድ_10_4】"
+                    "explanation": "ታክሲ (taksi) in Ethiopia refers specifically to blue-and-white shared minivans running fixed routes — not private cabs. For a private taxi, Ethiopians say ሙሉ ታክሲ (mullu taksi = whole taxi). The shared system is the dominant urban transport form."
                 }
             ]
         }
@@ -5849,60 +5849,60 @@
         "subject": "amharic",
         "unit": 10,
         "lessonNumber": 5,
-        "title": "ቦታዎች፣ ከተማ እና ጉዞ (City Navigation & Spatial Relations) (Part 5)",
+        "title": "Unit 10 Synthesis: Finding Your Way in Addis Ababa",
         "level": "A2",
-        "objective": "Comprehensive mastery of የከተማ ጉዞ እና አቅጣጫ (Urban Navigation).",
+        "objective": "Navigate a complete real-world journey in Amharic — from asking for directions using postpositions and landmarks, to taking transportation and getting off at the right stop — integrating all Unit 10 vocabulary with Unit 7 question and negation structures.",
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የከተማ ጉዞ እና አቅጣጫ (Urban Navigation) - ደረጃ 5) ተማሪዎች ስለ የከተማ ጉዞ እና አቅጣጫ (Urban Navigation) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Unit 10 has built the full toolkit for getting around an Ethiopian city: direction words (ግራ/ቀኝ/ቀጥ), asking where things are (የት ነው?), spatial postpositions (ፊት/ኋላ/ላይ/ውስጥ/አጠገብ), and transportation phrases (ያኖሩኝ, ቦታ አለ/የለም). This lesson models a complete city navigation sequence.\n\nComplete navigation scenario — getting from your hotel to the National Museum:\n\nStep 1 — Asking at the hotel:\nA: ብሔራዊ ሙዚየሙ የት ነው? (Where is the National Museum?)\nB: ቅርብ ነው — አዲስ አበባ ዩኒቨርሲቲ አጠገብ ነው። (It's close — it's next to Addis Ababa University.)\nA: ሚኒባስ ይሄዳል ወይ? (Does a minibus go there?)\nB: አዎ፣ ፒያሳ ሚኒባስ ይሄዳል — ፒያሳ ሂዱ ከዚያ ዩኒ ትሄዱ። (Yes, a Piazza minibus goes — go to Piazza then go to Uni[versity area].)\n\nStep 2 — On the minibus:\nA: ፒያሳ ትሄዳለህ ወይ? (Are you going to Piazza?)\nB (conductor): አዎ — ሂድ ሂድ! (Yes — get in!)\n[later:] A: ፒያሳ አጠገብ ያኖሩኝ! (Please stop near Piazza!)\n\nStep 3 — Walking to the museum:\nA (to passerby): ይቅርታ — ብሔራዊ ሙዚየሙ ወደ ፊት ነው ወይ ወደ ኋላ? (Excuse me — is the National Museum ahead or behind?)\nC: ወደ ፊት ነው — ዩኒቨርሲቲው ፊት። (It's ahead — in front of the university.)\nA: ምን ያህል ርቀት ነው? (How far is it?)\nC: ቅርብ ነው — ትንሽ ደቂቃ ምቾት ብቻ ነው። (It's close — only a few minutes' walk.)\n\nKEY VOCABULARY FROM THE DIALOGUE:\n• ብሔራዊ (bihirnawi) — national\n• ሙዚየሙ (muziyemu) — the museum\n• ዩኒቨርሲቲ / ዩኒ (yunivérsiti / yuni) — university [ዩኒ is colloquial short form]\n• ደቂቃ ምቾት (deqiqa michot) — minutes' walk [ደቂቃ = minute, ምቾት = comfort/ease]",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየከተማ ጉዞ እና አቅጣጫ (Urban Navigation) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (10.5.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ይቅርታ — ብሔራዊ ቴአትር ቤቱ አጠገብ ሙዚየሙ ነው ወይ?",
+                    "reading": "Yiqirta — bihirnawi te'ater betu ategeb muziyemu new wey?",
+                    "translation": "Excuse me — is the museum next to the National Theatre?"
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (10.5.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ሚኒባስ ፒያሳ ሄጄ ከዚያ ወደ ዩኒቨርሲቲ ክልል ድረስ እሄዳለሁ።",
+                    "reading": "Minibase Piyasa heje, kezzia wede Yunivérsiti kilil dres ihedalehu.",
+                    "translation": "I'll take a minibus to Piazza, then from there go toward the university area."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (10.5.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ሙዚየሙ ቤቱ ኋላ አይደለም — ዩኒቨርሲቲው ፊት ነው!",
+                    "reading": "Muziyemu betu hwala aydelem — yunivérsituw fit new!",
+                    "translation": "The museum is not behind the house — it is in front of the university!"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የከተማ ጉዞ እና አቅጣጫ (Urban Navigation)"
+                "For a city navigation interaction, remember the 5-step pattern: (1) ይቅርታ (excuse me) + (2) [Place] የት ነው? (where is [Place]?) + (3) [Transport] ትሄዳለህ ወይ? (do you go to [destination]?) + (4) ያኖሩኝ! (stop here!) + (5) ወደ ፊት / ዙሪያ? (ahead or around?). Chains of these five steps get you anywhere in an Amharic-speaking city."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Addis Ababa's most famous areas all have Amharic names with meanings worth knowing: ፒያሳ (Piazza — from Italian, the historic quarter); ሜርካቶ (Merkato — from Italian, the giant market, largest in Africa); ቦሌ (Bole — the international airport area); ቅዱስ ጊዮርጊስ (Qiddus Giyorgis — St. George's, named for the patron saint of Ethiopia and site of the iconic brewery). Knowing these names and their locations on the city map is part of navigating Addis."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የከተማ ጉዞ እና አቅጣጫ (Urban Navigation)» አጠቃቀም በደረጃ 5 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "ሙዚየሙ ወደ ፊት ነው ወይ ወደ ኋላ ብሎ ሲጠየቅ ትክክለኛ ቀጥ ብሎ መልሱ ምን ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (10.5.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (10.5.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (10.5.3)።"
+                        "ቅርብ ነው — ቀጥ ብለህ ሄደህ ወደ ቀኝ ዞር።",
+                        "ሙዚየሙ ዩኒቨርሲቲው ፊት ነው — ወደ ፊት ሂድ።",
+                        "ሙዚየሙ ኋላ ዙሪያ — ወደ ኋላ ዞር።"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "When someone asks whether the museum is ወደ ፊት (ahead) or ወደ ኋላ (behind), a full answer includes the spatial information (ዩኒቨርሲቲው ፊት ነው = it is in front of the university) and a direction command (ወደ ፊት ሂድ = go forward). Option A gives a direction but the information doesn't directly answer the ahead/behind question. Option C says the museum is behind — wrong per the scenario."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ቦታዎች፣ ከተማ እና ጉዞ (City Navigation & Spatial Relations)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 5)፡",
+                    "prompt": "«ትንሽ ደቂቃ ምቾት ብቻ ነው» ምን ማለት ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (10.5.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (10.5.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (10.5.3)።"
+                        "It is only a few minutes' walk.",
+                        "It costs only a small amount.",
+                        "There is only a little comfort available."
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "ትንሽ (tinish) = a little/few; ደቂቃ (deqiqa) = minute(s); ምቾት (michot) = ease/comfort/walk; ብቻ (bicha) = only. The phrase means 'it is only a few minutes' easy walk' — a reassurance that the destination is close enough to walk to comfortably."
                 }
             ]
         },
@@ -5910,22 +5910,22 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የከተማ ጉዞ እና አቅጣጫ (Urban Navigation)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 10-5)?",
+                    "prompt": "From the synthesis scenario, when you want to get off the minibus at Piazza, what do you say?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (10.5.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (10.5.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (10.5.3)።"
+                        "ቦታ አለ!",
+                        "ፒያሳ ትሄዳለህ?",
+                        "ፒያሳ አጠገብ ያኖሩኝ!"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "ፒያሳ አጠገብ ያኖሩኝ! = 'Please stop near Piazza!' — ፒያሳ (Piazza) + አጠገብ (next to/near, the postposition) + ያኖሩኝ (please stop for me). Option A (ቦታ አለ) means 'there are seats' — used by conductors, not passengers. Option B (ፒያሳ ትሄዳለህ?) means 'Are you going to Piazza?' — asked at the start, not to exit."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («መንገድ_10_5»):",
+                    "prompt": "Type the Amharic phrase used to ask a driver to stop and let you off (literally: 'please stop for me'):",
                     "acceptedAnswers": [
-                        "መንገድ_10_5"
+                        "ያኖሩኝ"
                     ],
-                    "explanation": "The target keyword was: 【መንገድ_10_5】"
+                    "explanation": "ያኖሩኝ (yanoruign) = please stop for me / let me off here. Breakdown: ያ- (causative) + ኖሩ (stop/stay, polite plural imperative) + -ኝ (1sg object 'me'). This is the standard phrase called out to Ethiopian minibus/taxi drivers when you reach your stop."
                 }
             ]
         }
