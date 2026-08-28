@@ -18140,56 +18140,73 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u33-l5"
+            ]
         },
         "presentation": {
-            "explanation": "Mastery analysis of L'Art de l'Éloquence et le Discours Magistral. At the C2 summit level, the learner demonstrates near-native linguistic agility, flawless stylistic sophistication, and profound rhetorical command over l'art de l'éloquence et le discours magistral.",
+            "explanation": "Grand French public oratory (l'éloquence républicaine et académique) is practiced at the highest institutions (Assemblée nationale, Académie française, Concours de la Conférence du barreau de Paris):\n\n1. The Classical Canon of Oratory:\n- L'inventio (trouver les arguments), la dispositio (ordonner le discours : exorde, narration, confirmation, réfutation, péroraison), l'elocutio (le style), l'actio (la voix et le geste).\n- L'éthos (crédibilité morale), le logos (rigueur démonstrative) et le pathos (émotion communicative).\n\n2. The Republican Rhetorical Register: Élévation morale, souffle hugolien et résonances historiques (Jaurès, Malraux au Panthéon pour Jean Moulin).",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "« Entre ici, Jean Moulin, avec ton terrible cortège : avec ceux qui sont morts dans les caves sans avoir parlé... » prononça André Malraux au Panthéon.",
+                    "reading": "ahn-truh ee-see, zhahn moo-lan, ah-vek tohn tair-reebl kohr-tezh : ah-vek suh kee sohn mohr dahn lay kahv sahn zah-vwahr pahr-lay... proh-nohn-sah ahn-dray mahl-roh oh pahn-tay-ohn",
+                    "translation": "'Enter here, Jean Moulin, with your terrible cortege: with those who died in the cellars without having spoken...' pronounced André Malraux at the Panthéon."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "La péroraison finale d'un grand discours d'éloquence doit emporter l'adhésion unanime de l'auditoire par un appel vibrant aux valeurs universelles.",
+                    "reading": "lah pay-roh-reh-zyohn fee-nahl doon grahn dees-koor day-loh-kahns dwah tahn-pohr-tay lah-day-zyohn oo-nah-neem duh loh-dee-twahr pahr uhn nah-pel vee-brahn oh vah-luhr oo-nee-vair-sel",
+                    "translation": "The final peroration of a great speech of eloquence must win the unanimous assent of the audience through a vibrant appeal to universal values."
+                },
+                {
+                    "target": "Dans son exorde, l'orateur capte la bienveillance des juges par une captatio benevolentiae subtile alliant modestie et fermeté d'esprit.",
+                    "reading": "dahn sohn nek-zohrd, loh-rah-tuhr kahpt lah byan-veh-yahns day zhoozh pahr oon kahp-tah-tsyoh bay-nay-voh-len-tyay soob-teel ah-lyahn moh-des-tee ay fair-muh-tay des-pree",
+                    "translation": "In his exordium, the orator captures the goodwill of the judges through a subtle captatio benevolentiae combining modesty with firmness of mind."
+                },
+                {
+                    "target": "Le Concours de la Conférence du barreau de Paris perpétue depuis deux siècles la tradition la plus exigeante de l'art oratoire et de la joute judiciaire.",
+                    "reading": "luh kohn-koor duh lah kohn-fay-rahns doo bah-roh duh pah-ree pair-pay-too duh-pwee duh syekl lah trah-dee-syohn lah ploo zeg-zee-zhahnt duh lahr oh-rah-twahr ay duh lah zhoot zhoo-dee-syair",
+                    "translation": "The Paris Bar Conference Competition has perpetuated for two centuries the most demanding tradition of oratorical art and judicial fencing."
+                },
+                {
+                    "target": "Jean Jaurès électrisait la Chambre des députés en fondant son argumentation républicaine sur l'alliance indissoluble entre justice sociale et paix des nations.",
+                    "reading": "zhahn zhoh-res ay-lek-tree-zeh lah shahm-bruh day day-poo-tay ahn fohn-dahn sohn nahr-goo-mahn-tah-syohn ray-poo-blee-ken soor lah-lyahns an-dee-soh-loobl ahn-truh zhoos-tees soh-syahl ay peh day nah-syohn",
+                    "translation": "Jean Jaurès electrified the Chamber of Deputies by basing his republican argumentation on the indissoluble alliance between social justice and peace among nations."
                 }
             ],
             "mnemonics": [
-                "Rhetorical mastery anchor for L'Art de l'Éloquence et le Discours Magistral"
+                "DISCOURS MAGISTRAL: Exorde (Captatio benevolentiae) -> Narration -> Confirmation -> Réfutation -> Péroraison!"
             ],
             "culturalNotes": [
-                "High cultural and institutional significance of L'Art de l'Éloquence et le Discours Magistral in the Francophone world."
+                "André Malraux's 1964 funeral oration transferring the ashes of Resistance hero Jean Moulin to the Panthéon is the masterpiece of 20th-century French republican eloquence."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Deliver high-impact public oratory, persuasive speeches, and rhetoric  » :",
+                    "prompt": "Dans la rhétorique classique française, comment nomme-t-on la conclusion solennelle et émouvante d'un discours ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (166a).",
-                        "Cette forme présente une anomalie phonétique en français standard (166b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (166c)."
+                        "La péroraison",
+                        "L'exorde",
+                        "L'incipit",
+                        "Le préambule"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "La péroraison est la partie finale du discours oratoire où l'orateur récapitule ses arguments majeurs et suscite l'émotion décisive."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u34-l1 :",
+                    "prompt": "Quelle célèbre formule d'exorde vise à s'attirer la sympathie et l'attention bienveillante de l'auditoire ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (166x).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (166y).",
-                        "Cette forme présente une anomalie phonétique en français standard (166z)."
+                        "La captatio benevolentiae",
+                        "L'argument ad hominem",
+                        "Le pléonasme",
+                        "La mise en abyme"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C2."
+                    "explanation": "La captatio benevolentiae est le procédé d'ouverture cherchant à s'attirer la bienveillance des auditeurs dès les premiers mots."
                 }
             ]
         },
@@ -18197,25 +18214,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u34-l1) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quel grand écrivain et ministre prononça en 1964 au Panthéon le célèbre discours en hommage à Jean Moulin (« Entre ici, Jean Moulin... ») ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (166m).",
-                        "La préposition employée ici n'est pas commandée par le verbe (166n).",
-                        "Cette forme présente une anomalie phonétique en français standard (166p)."
+                        "Jean-Paul Sartre",
+                        "Albert Camus",
+                        "André Malraux",
+                        "François Mauriac"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 2,
+                    "explanation": "André Malraux (ministre d'État chargé des Affaires culturelles sous De Gaulle) a prononcé cette oraison funèbre historique."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u34-l1 (terme attendu : « Nous ») :",
+                    "prompt": "Comment nomme-t-on la première partie d'un discours oratoire où le sujet est introduit ? (l'_________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "exorde",
+                        "Exorde"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "L'ouverture du discours oratoire s'appelle l'« exorde »."
                 }
             ],
             "passThreshold": 0.8
@@ -18231,56 +18247,73 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u34-l1"
+            ]
         },
         "presentation": {
-            "explanation": "Mastery analysis of Registres de Langue, Variations Sociolinguistiques et Verlan. At the C2 summit level, the learner demonstrates near-native linguistic agility, flawless stylistic sophistication, and profound rhetorical command over registres de langue, variations sociolinguistiques et verlan.",
+            "explanation": "A true C2 native master commands the full vertical spectrum of the French language (le continuum sociolinguistique), seamlessly code-switching between:\n\n1. The Stratified Registers:\n- Registre soutenu : Inversions syntaxiques, passé simple, subjonctif imparfait, vocabulaire recherché (« Il appert que vous faillîtes à votre serment »).\n- Registre standard : Français neutre et soigné de la communication professionnelle.\n- Registre familier : Chute du « ne » de négation (« j'sais pas »), dislocation, tournures orales (« un boulot, une bagnole »).\n- Verlan et Argot contemporain : Inversion syllabique (chelou = louche, vénère = énervé, meuf = femme, relou = lourd, zarbi = bizarre, kiffer, pécho).\n\n2. Pragmatic Agility: Instantaneous register adjustment according to social context and rhetorical objective.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Le locuteur C2 sait basculer instantanément d'une tournure familière comme 'c'est un truc de ouf' à la formule académique 'cet événement défie toute rationalité'.",
+                    "reading": "luh loh-koo-tuhr say-duh seh bahs-koo-lay an-stahn-tah-nay-mahn doon toor-noor fah-mee-lyair kohm 'seh tuhn trook duh oof' ah lah fohr-mool ah-kah-day-meek 'seh tay-ven-mahn day-fee toot rah-syoh-nah-lee-tay'",
+                    "translation": "The C2 speaker knows how to switch instantaneously from a colloquial phrasing like 'it's crazy' to the academic formulation 'this event defies all rationality'."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Le verlan transforme les mots par inversion syllabique : 'laisse béton' pour laisse tomber, 'vénère' pour énervé et 'chelou' pour louche.",
+                    "reading": "luh vair-lahn trahns-fohrm lay moh pahr an-vair-syohn see-lah-beek : 'les bay-tohn' poor les tohn-bay, 'vay-nair' poor ay-nair-vay ay 'shuh-loo' poor loosh",
+                    "translation": "Verlan transforms words through syllabic inversion: 'laisse béton' for let it drop, 'vénère' for pissed off, and 'chelou' for shady/weird."
+                },
+                {
+                    "target": "Dans la langue familière, la suppression systématique du 'ne' de négation et l'usage de 'on' à la place de 'nous' dominent l'expression orale quotidienne.",
+                    "reading": "dahn lah lahng fah-mee-lyair, lah soo-preh-syohn sees-tay-mah-teek doo 'nuh' duh nay-gah-syohn ay loo-zahzh duh 'ohn' ah lah plahs duh 'noo' doh-meen lek-spreh-syohn oh-rahl koh-tee-dyen",
+                    "translation": "In colloquial speech, the systematic omission of the negative 'ne' and the use of 'on' instead of 'nous' dominate daily spoken expression."
+                },
+                {
+                    "target": "Passer avec aisance du barreau de justice où l'on use du subjonctif imparfait aux conversations de rue témoigne d'une maîtrise bilingue interne.",
+                    "reading": "pah-say ah-vek ez-ahns doo bah-roh duh zhoos-tees oo lohn ooz doo soob-zhohnk-teef an-pahr-feh oh kohn-vair-sah-syohn duh roo tay-mwahn-yuh doon meh-treez bee-lahng an-tairn",
+                    "translation": "Effortlessly shifting from the courtroom where the imperfect subjunctive is used to street conversation demonstrates internal sociolinguistic mastery."
+                },
+                {
+                    "target": "L'argot parisien historique des faubourgs et le verlan contemporain des banlieues ont continuellement enrichi et régénéré la langue française.",
+                    "reading": "lahr-goh pah-ree-zyan ees-toh-reek day foh-boor ay luh vair-lahn kohn-tahn-poh-ran day bahn-lyuh ohnt kohn-tee-noo-el-mahn ahn-ree-shee ay ray-zhay-nay-ray lah lahng frahn-sez",
+                    "translation": "Historical Parisian working-class argot and contemporary suburban verlan have continually enriched and regenerated the French language."
                 }
             ],
             "mnemonics": [
-                "Rhetorical mastery anchor for Registres de Langue, Variations Sociolinguistiques et Verlan"
+                "REGISTRES: Soutenu (littéraire) <-> Standard (pro) <-> Familier (courant) <-> Verlan/Argot (urbain)!"
             ],
             "culturalNotes": [
-                "High cultural and institutional significance of Registres de Langue, Variations Sociolinguistiques et Verlan in the Francophone world."
+                "Singer Renaud's 1977 song Laisse béton popularized verlan across France; today words like chelou and relou are integrated in colloquial French."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Navigate rapid sociolinguistic code-switching from street argot/verlan » :",
+                    "prompt": "Quel mot en verlan est l'inversion syllabique du mot « louche » (bizarre, suspect) ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "La préposition employée ici n'est pas commandée par le verbe (167a).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (167b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (167c)."
+                        "Chelou",
+                        "Relou",
+                        "Zarbi",
+                        "Vénère"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "« Chelou » est le verlan direct de « louche » (lou-che -> che-lou)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u34-l2 :",
+                    "prompt": "Quelle transformation linguistique caractérise le registre familier oral par rapport au registre standard en français ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (167x).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (167y).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (167z)."
+                        "L'omission courante de la particule négative « ne » (ex: « j'sais pas » au lieu de « je ne sais pas »)",
+                        "L'ajout obligatoire du subjonctif plus-que-parfait",
+                        "L'inversion du sujet et du verbe dans toutes les phrases",
+                        "L'utilisation exclusive de l'alexandrin"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C2."
+                    "explanation": "À l'oral familier, le 'ne' est presque systématiquement élidé, le 'pas' portant seul la marque négative."
                 }
             ]
         },
@@ -18288,25 +18321,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u34-l2) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Que signifie le terme de verlan très répandu « vénère » ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (167m).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (167n).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (167p)."
+                        "Calme",
+                        "Amoureux",
+                        "Fatigué",
+                        "Énervé (en colère)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 3,
+                    "explanation": "« Vénère » est le verlan de « énervé » (é-ner-vé -> vé-nair)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u34-l2 (terme attendu : « Nous ») :",
+                    "prompt": "Comment nomme-t-on le procédé argotique d'inversion des syllabes d'un mot (l'envers -> _________) ?",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "verlan",
+                        "Verlan"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Ce procédé d'inversion syllabique s'appelle le « verlan »."
                 }
             ],
             "passThreshold": 0.8
@@ -18322,56 +18354,73 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u34-l2"
+            ]
         },
         "presentation": {
-            "explanation": "Mastery analysis of Diversité et Richesse de la Francophonie Mondiale. At the C2 summit level, the learner demonstrates near-native linguistic agility, flawless stylistic sophistication, and profound rhetorical command over diversité et richesse de la francophonie mondiale.",
+            "explanation": "The French language encompasses over 320 million speakers across five continents with rich regional variations and vibrant lexical varieties (la francophonie mondiale et les variétés diatopiques):\n\n1. Major Francophone Regions and Idioms:\n- Québec : Le char (voiture), magasiner (faire des courses), le traversier (ferry), courriel (email), pourriel (spam).\n- Belgique et Suisse : Septante (70), nonante (90), huitante (80 en Suisse), le dîner (midi), le souper (soir).\n- Afrique de l'Ouest et Centrale (Sénégal, Côte d'Ivoire) : Nouchi abidjanais, ambianceur, faroteur, palabre.\n- Maghreb : Emprunts croisés et bilinguisme arabe-français (chouffer, kiffer).\n\n2. Pluricentric French: Valuing regional authenticity and lexical creativity across the Francophone space.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Au Québec, on 'barre les portes du char' avant de 'magasiner', tandis qu'en Belgique et en Suisse, on compte 'septante' et 'nonante' avec une logique décimale limpide.",
+                    "reading": "oh kay-bek, ohn 'bahr lay pohrt doo shahr' ah-vahn duh 'mah-gah-zee-nay', tahn-dee kahn bel-zheek ay ahn sweess, ohn kohnt 'sep-tahnt' ay 'noh-nahnt' ah-vek oon loh-zheek day-see-mahl lan-peed",
+                    "translation": "In Quebec, one 'locks the car doors' before 'shopping', while in Belgium and Switzerland, one counts 'seventy' and 'ninety' with clear decimal logic."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Le nouchi ivoirien et le français d'Abidjan dynamisent la langue française par des créations lexicales savoureuses et une vitalité expressive incomparable.",
+                    "reading": "luh noo-shee ee-vwah-ryan ay luh frahn-seh dah-bee-zhahn dee-nah-meez lah lahng frahn-sez pahr day kray-ah-syohn lek-see-kahl sah-voo-ruhz ay oon vee-tah-lee-tay eks-preh-seev an-kohn-pah-rahbl",
+                    "translation": "Ivorian Nouchi and Abidjan French dynamize the French language through delightful lexical creations and incomparable expressive vitality."
+                },
+                {
+                    "target": "Léopold Sédar Senghor, poète et premier président du Sénégal, célébrait la Francophonie comme un 'humanisme intégral' unissant les peuples dans la diversité.",
+                    "reading": "lay-oh-pohld say-dahr sahn-gohr, poh-et ay pruh-myay pray-zee-dahn doo say-nay-gahl, say-lay-breh lah frahn-koh-foh-nee kohm uhn 'oo-mah-neezm an-tay-grahl' oo-nee-sahn lay puh-pluh dahn lah dee-vair-see-tay",
+                    "translation": "Léopold Sédar Senghor, poet and first president of Senegal, celebrated La Francophonie as an 'integral humanism' uniting peoples in diversity."
+                },
+                {
+                    "target": "En Suisse romande et en Belgique francophone, le repas de midi se nomme traditionnellement 'le dîner' et celui du soir 'le souper'.",
+                    "reading": "ahn sweess roh-mahnd ay ahn bel-zheek frahn-koh-fohn, luh ruh-pah duh mee-dee suh nohm trah-dee-syoh-nel-mahn 'luh dee-nay' ay suh-lwee doo swahr 'luh soo-pay'",
+                    "translation": "In French-speaking Switzerland and Belgium, the midday meal is traditionally called 'le dîner' and the evening meal 'le souper'."
+                },
+                {
+                    "target": "L'Office québécois de la langue française (OQLF) a enrichi la francophonie en créant des néologismes officiels universellement adoptés comme 'courriel' et 'pourriel'.",
+                    "reading": "loh-feess kay-bay-kwah duh lah lahng frahn-sez oh-koo-el-ef ah ahn-ree-shee lah frahn-koh-foh-nee ahn kray-ahn day nay-oh-loh-zheezm oh-fee-syel oo-nee-vair-sel-mahn ah-dohp-tay kohm 'koor-ryel' ay 'poor-ryel'",
+                    "translation": "The Quebec Office of the French Language enriched the Francophonie by creating official neologisms universally adopted like 'courriel' and 'pourriel'."
                 }
             ],
             "mnemonics": [
-                "Rhetorical mastery anchor for Diversité et Richesse de la Francophonie Mondiale"
+                "FRANCOPHONIE: Québec (char, magasiner) / Suisse-Belgique (septante, nonante, dîner/souper) / Afrique (nouchi, ambianceur, Senghor)!"
             ],
             "culturalNotes": [
-                "High cultural and institutional significance of Diversité et Richesse de la Francophonie Mondiale in the Francophone world."
+                "Senegalese poet and statesman Léopold Sédar Senghor (1906–2001) was the founding father of the Francophonie and first African elected to the Académie française."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Appreciate regional and pan-Francophone linguistic idioms (Québec, Sén » :",
+                    "prompt": "En Suisse et en Belgique, comment dit-on respectivement les nombres 70 et 90 ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (168a).",
-                        "La préposition employée ici n'est pas commandée par le verbe (168b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (168c)."
+                        "Septante et nonante",
+                        "Soixante-dix et quatre-vingt-dix",
+                        "Dix-sept et dix-neuf",
+                        "Cinquante et soixante"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "« Septante » (70) et « nonante » (90) sont les formes régulières et logiques employées en Belgique, en Suisse et dans d'autres pays francophones."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u34-l3 :",
+                    "prompt": "Quel mot créé au Québec est aujourd'hui utilisé dans tout le monde francophone pour désigner un courrier électronique ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (168x).",
-                        "Cette forme présente une anomalie phonétique en français standard (168y).",
-                        "La préposition employée ici n'est pas commandée par le verbe (168z)."
+                        "Le courriel",
+                        "Le mél",
+                        "L'e-mail américain",
+                        "La lettre postale"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C2."
+                    "explanation": "« Courriel » (mot-valise de courrier + électronique) a été forgé au Québec et officialisé dans toute la francophonie."
                 }
             ]
         },
@@ -18379,25 +18428,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u34-l3) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quel grand poète et président sénégalais fut le premier Africain élu à l'Académie française et père fondateur de la Francophonie ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (168m).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (168n).",
-                        "La préposition employée ici n'est pas commandée par le verbe (168p)."
+                        "Aimé Césaire",
+                        "Cheikh Anta Diop",
+                        "Léopold Sédar Senghor",
+                        "Amadou Hampâté Bâ"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 2,
+                    "explanation": "Léopold Sédar Senghor a été élu à l'Académie française en 1983 au fauteuil du duc de Lévis-Mirepoix."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u34-l3 (terme attendu : « Nous ») :",
+                    "prompt": "Au Québec, quel mot courant emprunté à l'anglais désigne une automobile/voiture ? (un _________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "char",
+                        "Char"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "En français québécois, une voiture se dit couramment « un char »."
                 }
             ],
             "passThreshold": 0.8
@@ -18413,56 +18461,73 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u34-l3"
+            ]
         },
         "presentation": {
-            "explanation": "Mastery analysis of La Joute Oratoire et la Réfutation Dialectique Spontanée. At the C2 summit level, the learner demonstrates near-native linguistic agility, flawless stylistic sophistication, and profound rhetorical command over la joute oratoire et la réfutation dialectique spontanée.",
+            "explanation": "Spontaneous rhetorical fencing (la joute oratoire, la controverse intellectuelle et l'art de la repartie) requires razor-sharp wit and tactical agility:\n\n1. Counter-Argumentation Tactics:\n- La concession feinte : « Je vous concède volontiers cette prémisse, mais la conclusion que vous en tirez pèche par un paralogisme flagrant... »\n- Le retournement d'argument (la rétorsion) : Utiliser les armes mêmes de l'adversaire contre sa thèse.\n- La mise en lumière des sophismes : Faux dilemme, homme de paille (épouvantail), pente savonneuse.\n\n2. The Art of the Repartee: L'esprit de repartie voltairien, concis, élégant et fulgurant.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "« C'est précisément l'argument que vous avancez qui démontre sans réplique la faillite complète de votre raisonnement », riposta l'orateur avec panache.",
+                    "reading": "seh pray-see-zuh-mahn lahr-goo-mahn kuh voo zah-vahn-say kee day-mohn-truh sahn ray-pleek lah fah-yeet kohn-plet duh voh-truh reh-zohn-mahn, ree-pohs-tah loh-rah-tuhr ah-vek pah-nahsh",
+                    "translation": "'It is precisely the argument you put forward that demonstrates beyond reply the complete bankruptcy of your reasoning,' the orator shot back with panache."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Tout en rendant hommage à la subtilité de votre exposé, permettez-moi de souligner le paralogisme qui en vicie la conclusion fondamentale.",
+                    "reading": "too tahn rahn-dahn toh-mahzh ah lah soob-tee-lee-tay duh voh-trehks-poh-zay, pair-meh-tay mwah duh soo-leen-yay luh pah-rah-loh-zheezm kee ahn vee-see lah kohn-kloo-zyohn fohn-dah-mahn-tahl",
+                    "translation": "While paying tribute to the subtlety of your presentation, allow me to highlight the paralogism that invalidates its foundational conclusion."
+                },
+                {
+                    "target": "L'ironie socratique feint l'ignorance pour amener l'adversaire à reconnaître de lui-même les apories et contradictions de sa propre thèse.",
+                    "reading": "lee-roh-nee soh-krah-teek fan leen-yoh-rahns poor ahm-nay lahd-vair-sair ah ruh-koh-nehtruh duh lwee-mem lay zah-poh-ree ay kohn-trah-deek-syohn duh sah prohpruh tez",
+                    "translation": "Socratic irony feigns ignorance to lead the opponent into acknowledging on their own the aporias and contradictions of their own thesis."
+                },
+                {
+                    "target": "Vous m'opposez une fausse alternative entre l'immobilisme et le désordre, alors qu'une tierce voie audacieuse s'offre à notre délibération.",
+                    "reading": "voo moh-poh-zay oon fohss ahl-tair-nah-teev ahn-truh leem-moh-bee-leezm ay luh day-zohr-druh, ah-lohr koon tyairs vwah oh-dah-syuhz sohfr ah noh-truh day-lee-bay-rah-syohn",
+                    "translation": "You present me with a false dichotomy between inertia and disorder, whereas an audacious third path is available to our deliberation."
+                },
+                {
+                    "target": "Dans les joutes d'éloquence républicaine, le trait d'esprit ne vise point à humilier l'adversaire, mais à éclairer la vérité d'un éclat subit.",
+                    "reading": "dahn lay zhoot day-loh-kahns ray-poo-blee-ken, luh treh des-pree nuh veez pwan ah oo-mee-lyay lahd-vair-sair, meh ah ay-klair-ray lah vay-ree-tay doon nay-klah soo-bee",
+                    "translation": "In republican debates of eloquence, the witty repartee aims not to humiliate the opponent, but to illuminate the truth with sudden brilliance."
                 }
             ],
             "mnemonics": [
-                "Rhetorical mastery anchor for La Joute Oratoire et la Réfutation Dialectique Spontanée"
+                "JOUTE ORATOIRE: Concession tactique -> Rétorsion d'argument -> Démystification du sophisme -> Trait d'esprit!"
             ],
             "culturalNotes": [
-                "High cultural and institutional significance of La Joute Oratoire et la Réfutation Dialectique Spontanée in the Francophone world."
+                "The French tradition of l'esprit français combines intellectual rigor, polemical elegance, and razor-sharp repartee."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Engage in real-time dialectical debate, rebuttal, and spontaneous rhet » :",
+                    "prompt": "Quelle tactique de débat consiste à retourner l'argument même de son contradicteur pour prouver la thèse inverse ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette forme présente une anomalie phonétique en français standard (169a).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (169b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (169c)."
+                        "Le retournement d'argument (la rétorsion)",
+                        "L'attaque ad hominem",
+                        "L'abandon du débat",
+                        "Le changement brusque de sujet"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "La rétorsion (ou antistrophe) utilise les prémisses mêmes de l'adversaire pour en tirer la conclusion diamétralement opposée."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u34-l4 :",
+                    "prompt": "Comment nomme-t-on le sophisme qui consiste à caricaturer grossièrement la position de l'adversaire pour la réfuter plus facilement ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette variante relève d'un registre familier inadapté au contexte (169x).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (169y).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (169z)."
+                        "Le sophisme de l'épouvantail (homme de paille)",
+                        "Le syllogisme parfait",
+                        "La pétition de principe",
+                        "Le dilemme cornélien"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C2."
+                    "explanation": "L'épouvantail déforme la thèse adverse afin d'attaquer une version affaiblie et caricaturale."
                 }
             ]
         },
@@ -18470,25 +18535,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u34-l4) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle est la nature d'un raisonnement faux tenu de bonne foi sans intention délibérée de tromper (par opposition au sophisme) ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette variante relève d'un registre familier inadapté au contexte (169m).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (169n).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (169p)."
+                        "Un anachronisme",
+                        "Un néologisme",
+                        "Un barbarisme",
+                        "Un paralogisme"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 3,
+                    "explanation": "Un « paralogisme » est une erreur de raisonnement involontaire, alors qu'un sophisme est intentionnellement trompeur."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u34-l4 (terme attendu : « Nous ») :",
+                    "prompt": "Quel mot français désigne une réponse verbale vive, spirituelle et instantanée dans une joute ? (l'esprit de _________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "repartie",
+                        "Repartie"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Cette vivacité d'esprit s'appelle l'esprit de « repartie »."
                 }
             ],
             "passThreshold": 0.8
@@ -18504,56 +18568,73 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u34-l4"
+            ]
         },
         "presentation": {
-            "explanation": "Mastery analysis of Le Grand Oral C2 : Synthèse Magistrale et Accomplissement. At the C2 summit level, the learner demonstrates near-native linguistic agility, flawless stylistic sophistication, and profound rhetorical command over le grand oral c2 : synthèse magistrale et accomplissement.",
+            "explanation": "The crowning summit of the French curriculum (Le Grand Oral C2 et l'Accomplissement Linguistique Suprême) synthesizes every facet of French mastery across 170 lessons:\n\n1. The Masterwork of Linguistic Synthesis:\n- Complete command across all CEFR levels: A1-A2 everyday agility, B1-B2 complex social, academic, and professional communication, C1 specialized legal, economic, ecological, and philosophical argumentation, C2 literary stylistics, diplomatic statecraft, and peerless public oratory.\n- Flawless mastery of literary registers, tense concordances, subjunctive subtleties, rhetorical figures, phonetic nuances, and pan-Francophone cultural heritage.\n\n2. The Final Oratorical Capstone: A sovereign address delivered with unshakeable authority, elegance, and deep cultural resonance, demonstrating that the French language is now an integrated, living instrument of thought and creation.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Au terme de ce parcours sommital de cent soixante-dix leçons, l'apprenant accède à une maîtrise absolue, vivante et souveraine de la langue française dans tous ses registres.",
+                    "reading": "oh tairm duh suh pahr-koor soh-mee-tahl duh sahn swah-sahnt-dees luh-sohn, lah-pruh-nahn ahk-sed ah oon meh-treez ahb-zoh-loo, vee-vahnt ay soo-vrahn duh lah lahng frahn-sez dahn too say ruh-zheestruh",
+                    "translation": "At the conclusion of this summit journey of 170 lessons, the learner achieves absolute, living, and sovereign mastery of the French language across all its registers."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "De la syntaxe cartésienne à la mélodie proustienne, du droit public aux débats bioéthiques, le français s'affirme comme une patrie spirituelle de liberté et de beauté.",
+                    "reading": "duh lah san-tahks kahr-tay-zyen ah lah may-loh-dee proos-tyen, doo drwah poo-bleek oh day-bah bee-oh-ay-teek, luh frahn-seh sah-feerm kohm oon pah-tree spee-ree-too-el duh lee-bair-tay ay duh boh-tay",
+                    "translation": "From Cartesian syntax to Proustian melody, from public law to bioethical debates, French affirms itself as a spiritual homeland of liberty and beauty."
+                },
+                {
+                    "target": "« La langue française est une dame de haute lignée qui sait accueillir les pensées les plus audacieuses avec une grâce souveraine », disait Albert Camus.",
+                    "reading": "lah lahng frahn-sez ay toon dahm duh oht leen-yay kee seh ah-kuh-yeer lay pahn-say lay ploo zoh-dah-syuhz ah-vek oon grahs soo-vrahn, dee-zeh ahl-bair kah-moo",
+                    "translation": "'The French language is a noble lady who welcomes the boldest thoughts with sovereign grace,' Albert Camus said."
+                },
+                {
+                    "target": "Cette synthèse magistrale consacre l'émancipation intellectuelle et l'aisance oratoire d'un locuteur désormais indistinguable des plus illustres plumes francophones.",
+                    "reading": "set san-tez mah-zhees-trahl kohn-sahkruh lay-mahn-see-pah-syohn an-tel-lek-too-el ay lez-ahns oh-rah-twahr doon loh-koo-tuhr day-zohr-meh an-dees-tan-gahbl day ploo zee-loos-truh ploom frahn-koh-fohn",
+                    "translation": "This masterly synthesis crowns the intellectual emancipation and oratorical ease of a speaker henceforth indistinguishable from the most illustrious Francophone writers."
+                },
+                {
+                    "target": "Vous possédez désormais les clés d'un univers infini où chaque mot porte la mémoire vivante de huit siècles de littérature, de philosophie et d'humanisme.",
+                    "reading": "voo poh-say-day day-zohr-meh lay klay doon noo-nee-vair an-fee-nee oo shahk moh pohrt lah may-mwahr vee-vahnt duh weet syekl duh leet-tay-rah-toor, duh fee-loh-zoh-fee ay doo-mah-neezm",
+                    "translation": "You now hold the keys to an infinite universe where every word carries the living memory of eight centuries of literature, philosophy, and humanism."
                 }
             ],
             "mnemonics": [
-                "Rhetorical mastery anchor for Le Grand Oral C2 : Synthèse Magistrale et Accomplissement"
+                "SOMMET C2 ACCOMPLI: 34 Unités, 170 Leçons, Maîtrise Totale et Souveraine de la Langue Française!"
             ],
             "culturalNotes": [
-                "High cultural and institutional significance of Le Grand Oral C2 : Synthèse Magistrale et Accomplissement in the Francophone world."
+                "The Académie française was founded in 1635 by Cardinal de Richelieu to give explicit rules to the French language under its motto: À l'immortalité."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Deliver the comprehensive C2 Capstone address synthesizing full native » :",
+                    "prompt": "Quelle célèbre institution française fondée en 1635 par le cardinal de Richelieu veille officiellement sur la langue française et son dictionnaire ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (170a).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (170b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (170c)."
+                        "L'Académie française",
+                        "L'Assemblée nationale",
+                        "Le Conseil d'État",
+                        "La Sorbonne"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "L'Académie française réunit les 'Immortels' sous la devise « À l'immortalité » pour perfectionner et défendre la langue française."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u34-l5 :",
+                    "prompt": "Quel niveau du Cadre européen commun de référence pour les langues (CECRL) sanctionne la maîtrise linguistique supérieure et sommitive complète ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (170x).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (170y).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (170z)."
+                        "Le niveau C2 (Maîtrise / Niveau supérieur)",
+                        "Le niveau A1 (Découverte)",
+                        "Le niveau B1 (Seuil)",
+                        "Le niveau A2 (Intermédiaire)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C2."
+                    "explanation": "Le niveau C2 représente le sommet absolu de la maîtrise linguistique et stylistique."
                 }
             ]
         },
@@ -18561,25 +18642,26 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u34-l5) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Combien d'académiciens, surnommés traditionnellement « les Immortels », composent l'Académie française ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (170m).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (170n).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (170p)."
+                        "Vingt",
+                        "Cent",
+                        "Douze",
+                        "Quarante (40)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 3,
+                    "explanation": "L'Académie française compte traditionnellement quarante membres élus à vie (les quarante fauteuils)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u34-l5 (terme attendu : « Nous ») :",
+                    "prompt": "Quelle devise gravée sur le sceau de l'Académie française fonde sa mission séculaire ? (À l'_________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "immortalité",
+                        "immortalite",
+                        "Immortalité",
+                        "Immortalite"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "La devise royale octroyée par Richelieu est « À l'immortalité »."
                 }
             ],
             "passThreshold": 0.8
