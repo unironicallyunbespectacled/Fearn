@@ -7323,56 +7323,73 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u13-l5"
+            ]
         },
         "presentation": {
-            "explanation": "Thorough linguistic breakdown of Formation Régulière du Subjonctif Présent. In French B1, mastering this syntax structure enables learners to articulate complex interpersonal nuances, formal register shifts, and precise logical arguments.",
+            "explanation": "The Subjonctif Présent is a grammatical mood expressing subjectivity, necessity, emotion, doubt, or will. For all regular verbs (-er, -ir, -re), its formation follows a systematic mechanical rule:\n\nSTEM: Take the 3rd-person plural (ils/elles) of the Present Indicative and drop the -ent.\nENDINGS: Add the subjunctive endings: -e, -es, -e, -ions, -iez, -ent.\n\n1. -ER Verbs (e.g., parler -> ils parlent -> stem: parl-):\n- que je parle, que tu parles, qu'il/elle parle, que nous parlions, que vous parliez, qu'ils/elles parlent.\n- Note: Notice that nous and vous have the classic imperfect endings (-ions, -iez), while je, tu, il, ils sound identical to the present indicative!\n\n2. -IR Verbs with infix -iss- (e.g., finir -> ils finissent -> stem: finiss-):\n- que je finisse, que tu finisses, qu'il finisse, que nous finissions, que vous finissiez, qu'ils finissent.\n\n3. -RE Verbs (e.g., attendre -> ils attendent -> stem: attend-):\n- que j'attende, que tu attendes, qu'il attende, que nous attendions, que vous attendiez, qu'ils attendent.\n\n4. Dual-Stem Verbs (e.g., prendre -> ils prennent / nous prenons):\n- The subjunctive uses the ils stem for je/tu/il/ils (que je prenne, qu'ils prennent) and the nous stem for nous/vous (que nous prenions, que vous preniez)!",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Il faut que nous parlions au directeur du projet dès ce matin.",
+                    "reading": "eel foh kuh noo pahr-lyohn oh dee-rek-tuhr doo proh-zheh deh suh mah-tan",
+                    "translation": "It is necessary that we speak to the project manager first thing this morning."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Le professeur exige que vous finissiez ce devoir avant midi.",
+                    "reading": "luh proh-feh-suhr eg-zeezh kuh voo fee-nee-syay suh duh-vwahr ah-vahn mee-dee",
+                    "translation": "The teacher demands that you finish this homework before noon."
+                },
+                {
+                    "target": "J'aimerais que tu attendes quelques minutes dans la salle d'attente.",
+                    "reading": "zheh-muh-reh kuh too ah-tahnd kel-kuh mee-noot dahn lah sahl dah-tahnt",
+                    "translation": "I would like you to wait a few minutes in the waiting room."
+                },
+                {
+                    "target": "Il est essentiel qu'ils choisissent un représentant pour l'équipe.",
+                    "reading": "eel ay tay-sahn-syel keel shwah-zeest uhn ruh-pray-zahn-tahn poor lay-keep",
+                    "translation": "It is essential that they choose a representative for the team."
+                },
+                {
+                    "target": "Le médecin demande que je prenne ce médicament tous les soirs.",
+                    "reading": "luh mayd-san duh-mahnd kuh zhuh pren suh may-dee-kah-mahn too lay swahr",
+                    "translation": "The doctor asks that I take this medication every evening."
                 }
             ],
             "mnemonics": [
-                "Cognitive memory anchor for Formation Régulière du Subjonctif Présent"
+                "SUBJUNCTIVE BOOT: 1-2-3-6 use the ILS present stem + (-e, -es, -e, -ent). The inside of the boot (nous/vous) keeps the NOUS stem + (-ions, -iez)!"
             ],
             "culturalNotes": [
-                "Sociolinguistic and cultural context for Formation Régulière du Subjonctif Présent in modern France."
+                "While spoken informal French occasionally simplifies certain structures, mastery of the subjunctive mood is considered the golden hallmark of educated French across academic, legal, and professional spheres."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Form the subjonctif présent for regular verbs using the 3rd-person plu » :",
+                    "prompt": "Quelle est la forme correcte au subjonctif présent pour 'nous' avec le verbe 'finir' ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (66a).",
-                        "Cette forme présente une anomalie phonétique en français standard (66b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (66c)."
+                        "que nous finissions",
+                        "que nous finissons",
+                        "que nous finirions",
+                        "que nous finissiez"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Le radical 'finiss-' combiné à la terminaison subjonctive '-ions' donne « que nous finissions »."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u14-l1 :",
+                    "prompt": "Choisissez la phrase où le verbe régulier au subjonctif est correctement orthographié :",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (66x).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (66y).",
-                        "Cette forme présente une anomalie phonétique en français standard (66z)."
+                        "Il faut que tu chantes plus fort.",
+                        "Il faut que tu chante plus fort.",
+                        "Il faut que tu chanteras plus fort.",
+                        "Il faut que tu chantais plus fort."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B1."
+                    "explanation": "Avec la 2e personne du singulier (tu), la terminaison régulière du subjonctif est « -es » : « tu chantes »."
                 }
             ]
         },
@@ -7380,25 +7397,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u14-l1) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Complétez la subordonnée : « Il est indispensable que vous _________ (vendre) cette maison rapidement. »",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (66m).",
-                        "La préposition employée ici n'est pas commandée par le verbe (66n).",
-                        "Cette forme présente une anomalie phonétique en français standard (66p)."
+                        "vendiez",
+                        "vendez",
+                        "vendrez",
+                        "vendriez"
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "Le subjonctif présent avec 'vous' pour le verbe vendre prend la terminaison '-iez' : « vendiez »."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u14-l1 (terme attendu : « Nous ») :",
+                    "prompt": "Complétez la phrase au subjonctif : « Il faut que nous _________ (partir) à l'heure. »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "partions",
+                        "Partions"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Le verbe partir au subjonctif présent avec nous donne « partions » (radical part- + -ions)."
                 }
             ],
             "passThreshold": 0.8
@@ -7414,56 +7430,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u14-l1"
+            ]
         },
         "presentation": {
-            "explanation": "Thorough linguistic breakdown of Les Verbes Irréguliers Majeurs au Subjonctif. In French B1, mastering this syntax structure enables learners to articulate complex interpersonal nuances, formal register shifts, and precise logical arguments.",
+            "explanation": "A core set of high-frequency irregular French verbs use unique, non-derived subjunctive stems that must be mastered individually:\n\n1. ÊTRE (Stem: soiy- / soy-):\n- que je sois, que tu sois, qu'il soit, que nous soyons, que vous soyez, qu'ils soient.\n\n2. AVOIR (Stem: ai- / ay-):\n- que j'aie, que tu aies, qu'il ait, que nous ayons, que vous ayez, qu'ils aient.\n\n3. FAIRE (Stem: fass-):\n- que je fasse, que tu fasses, qu'il fasse, que nous fassions, que vous fassiez, qu'ils fassent.\n\n4. ALLER (Stems: aill- / all-):\n- que j'aille, que tu ailles, qu'il aille, que nous allions, que vous alliez, qu'ils aillent.\n\n5. POUVOIR (Stem: puiss-):\n- que je puisse, que tu puisses, qu'il puisse, que nous puissions, que vous puissiez, qu'ils puissent.\n\n6. SAVOIR (Stem: sach-):\n- que je sache, que tu saches, qu'il sache, que nous sachions, que vous sachiez, qu'ils sachent.\n\n7. VOULOIR (Stems: veuill- / voul-):\n- que je veuille, que tu veuilles, qu'il veuille, que nous voulions, que vous vouliez, qu'ils veuillent.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Il est nécessaire que vous soyez à l'aéroport trois heures avant le décollage.",
+                    "reading": "eel ay nay-seh-sair kuh voo swah-yay ah lah-ay-roh-pohr twah zuhr ah-vahn luh day-koh-lahzh",
+                    "translation": "It is necessary that you be at the airport three hours before takeoff."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "J'aimerais que tout le monde ait l'opportunité de s'exprimer librement.",
+                    "reading": "zheh-muh-reh kuh too luh mohnd ay loh-pohr-too-nee-tay duh sek-spree-may lee-bruh-mahn",
+                    "translation": "I would like everyone to have the opportunity to speak freely."
+                },
+                {
+                    "target": "Il faut que je fasse les courses avant la fermeture du supermarché.",
+                    "reading": "eel foh kuh zhuh fahs lay koors ah-vahn lah fair-muh-toor doo soo-pair-mahr-shay",
+                    "translation": "I must do the grocery shopping before the supermarket closes."
+                },
+                {
+                    "target": "Le directeur souhaite que nous allions à Lyon pour rencontrer le client.",
+                    "reading": "luh dee-rek-tuhr sweht kuh noo zah-lyohn ah lyohn poor rahn-kohn-tray luh klee-ahn",
+                    "translation": "The director wishes that we go to Lyon to meet the client."
+                },
+                {
+                    "target": "J'espère trouver une solution pour que tu puisses participer au projet.",
+                    "reading": "zhes-pair troo-vay oon soh-loo-syohn poor kuh too pwees pahr-tee-see-pay oh proh-zheh",
+                    "translation": "I hope to find a solution so that you can participate in the project."
                 }
             ],
             "mnemonics": [
-                "Cognitive memory anchor for Les Verbes Irréguliers Majeurs au Subjonctif"
+                "The 'Power' Subjunctive: POUVOIR turns into PUISS- (think 'puissant' / powerful) -> que je puisse!",
+                "ÊTRE and AVOIR both end in -ons/-ez for nous/vous (soyons, soyez / ayons, ayez)!"
             ],
             "culturalNotes": [
-                "Sociolinguistic and cultural context for Les Verbes Irréguliers Majeurs au Subjonctif in modern France."
+                "Formulas like 'Que le meilleur gagne !' (May the best man win!) and 'Dieu soit loué !' (God be praised!) are frozen independent subjunctive idioms embedded in French literature and everyday culture."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Conjugate essential irregular verbs in the subjunctive (être: soit, av » :",
+                    "prompt": "Complétez la phrase avec la forme correcte d'ÊTRE au subjonctif : « Il est indispensable que tu _________ ponctuel à l'entretien. »",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "La préposition employée ici n'est pas commandée par le verbe (67a).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (67b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (67c)."
+                        "sois",
+                        "es",
+                        "seras",
+                        "soit"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Avec 'tu', le subjonctif présent du verbe être s'écrit « sois »."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u14-l2 :",
+                    "prompt": "Identifiez la forme correcte de FAIRE au subjonctif présent pour 'ils' :",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (67x).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (67y).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (67z)."
+                        "qu'ils font",
+                        "qu'ils fassent",
+                        "qu'ils feront",
+                        "qu'ils faisaient"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B1."
+                    "answerIndex": 1,
+                    "explanation": "Le radical du verbe faire au subjonctif est 'fass-', donc avec ils/elles : « qu'ils fassent »."
                 }
             ]
         },
@@ -7471,25 +7505,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u14-l2) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle phrase contient une forme incorrecte du subjonctif ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (67m).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (67n).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (67p)."
+                        "Il faut que nous sachions la vérité.",
+                        "Je veux que vous alliez à cette conférence.",
+                        "Il est urgent que je peux t'aider.",
+                        "J'exige qu'il fasse attention."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 2,
+                    "explanation": "« que je peux » est faux ; le verbe pouvoir exige le subjonctif « que je puisse »."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u14-l2 (terme attendu : « Nous ») :",
+                    "prompt": "Complétez avec le subjonctif de pouvoir : « Je cherche un guide pour que nous _________ explorer la grotte en sécurité. »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "puissions",
+                        "Puissions"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "La 1ère personne du pluriel du verbe pouvoir au subjonctif présent est « puissions »."
                 }
             ],
             "passThreshold": 0.8
@@ -7505,56 +7538,73 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u14-l2"
+            ]
         },
         "presentation": {
-            "explanation": "Thorough linguistic breakdown of La Nécessité et l'Obligation Impersonnelle. In French B1, mastering this syntax structure enables learners to articulate complex interpersonal nuances, formal register shifts, and precise logical arguments.",
+            "explanation": "Impersonal introductory expressions (les tournures impersonnelles) project necessity, urgency, or obligation upon another subject. Whenever the conjunction que introduces a new subject clause, the subjunctive mood is grammatically mandatory:\n\n[EXPRESSION IMPERSONNELLE] + QUE + [SUJET] + [VERBE AU SUBJONCTIF]\n\n1. Core Expressions of Obligation:\n- 'Il faut que...' (It is necessary that / [Subject] must...)\n- 'Il est nécessaire que...' (It is necessary that...)\n- 'Il est indispensable que...' (It is essential / indispensable that...)\n- 'Il est obligatoire que...' (It is mandatory that...)\n- 'Il est urgent que...' (It is urgent that...)\n\n2. Expressions of Importance & Evaluative Judgment:\n- 'Il est important que...' (It is important that...)\n- 'Il est essentiel que...' (It is essential that...)\n- 'Il vaut mieux que...' (It is better that...)\n- 'Il est préférable que...' (It is preferable that...)\n- 'Il est temps que...' (It is time that...)\n\n3. Syntactic Trap — Infinitive vs. Subjunctive:\n- If no specific subject is named, use the infinitive without que: 'Il faut partir' (One must leave).\n- If a specific subject is introduced with que, the subjunctive is mandatory: 'Il faut que TU partes' (You must leave).",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Il faut que nous prenions une décision avant la réunion de demain.",
+                    "reading": "eel foh kuh noo pruh-nyohn oon day-see-zyohn ah-vahn lah ray-oo-nyohn duh duh-man",
+                    "translation": "We must make a decision before tomorrow's meeting."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Il est indispensable que vous remplissiez ce formulaire avec précision.",
+                    "reading": "eel ay tan-dees-pahn-sahbl kuh voo rahn-plee-syay suh fohr-moo-lair ah-vek pray-see-zyohn",
+                    "translation": "It is essential that you fill out this form accurately."
+                },
+                {
+                    "target": "Il est urgent que le médecin vienne examiner ce patient blessé.",
+                    "reading": "eel ay toor-zhahn kuh luh mayd-san vyen neg-zah-mee-nay suh pah-syahn bleh-say",
+                    "translation": "It is urgent that the doctor come examine this injured patient."
+                },
+                {
+                    "target": "Il vaut mieux que tu partes maintenant pour ne pas rater ton vol.",
+                    "reading": "eel voh myuh kuh too pahrt man-tuh-nahn poor nuh pah rah-tay tohn vohl",
+                    "translation": "It is better that you leave now so as not to miss your flight."
+                },
+                {
+                    "target": "Il est temps que les autorités prennent des mesures concrètes contre la pollution.",
+                    "reading": "eel ay tahn kuh lay zoh-toh-ree-tay pren day muh-zoor kohn-kret kohntr lah poh-loo-syohn",
+                    "translation": "It is time that the authorities take concrete measures against pollution."
                 }
             ],
             "mnemonics": [
-                "Cognitive memory anchor for La Nécessité et l'Obligation Impersonnelle"
+                "NO QUE, NO SUBJUNCTIVE: 'Il faut partir' (infinitive = general). 'Il faut QUE tu partes' (QUE triggers the subjunctive personality!)."
             ],
             "culturalNotes": [
-                "Sociolinguistic and cultural context for La Nécessité et l'Obligation Impersonnelle in modern France."
+                "In French administrative communications, official guidelines rely heavily on 'Il est impératif que...' and 'Il convient que...' with the subjunctive to establish regulatory requirements."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Express obligation and necessity with impersonal expressions requiring » :",
+                    "prompt": "Quelle tournure exige l'emploi du subjonctif présent dans la subordonnée ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (68a).",
-                        "La préposition employée ici n'est pas commandée par le verbe (68b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (68c)."
+                        "Il est certain que vous...",
+                        "Il est évident que tu...",
+                        "Il est nécessaire que nous...",
+                        "Il est vrai qu'il..."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "answerIndex": 2,
+                    "explanation": "« Il est nécessaire que... » exprime une obligation impersonnelle et déclenche obligatoirement le subjonctif."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u14-l3 :",
+                    "prompt": "Choisissez la phrase correcte traduisant « It is better that she stay here » :",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (68x).",
-                        "Cette forme présente une anomalie phonétique en français standard (68y).",
-                        "La préposition employée ici n'est pas commandée par le verbe (68z)."
+                        "Il vaut mieux qu'elle reste ici.",
+                        "Il vaut mieux qu'elle restera ici.",
+                        "Il vaut mieux qu'elle restait ici.",
+                        "Il vaut mieux qu'elle est restée ici."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B1."
+                    "explanation": "« Il vaut mieux que » est suivi du subjonctif présent (« qu'elle reste »)."
                 }
             ]
         },
@@ -7562,25 +7612,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u14-l3) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Complétez la consigne : « Il est indispensable que chacun _________ (comprendre) ses responsabilités. »",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (68m).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (68n).",
-                        "La préposition employée ici n'est pas commandée par le verbe (68p)."
+                        "comprenne",
+                        "comprend",
+                        "comprendra",
+                        "comprenait"
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "Après 'il est indispensable que', le verbe comprendre à la 3e personne du singulier prend la forme subjonctive « comprenne »."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u14-l3 (terme attendu : « Nous ») :",
+                    "prompt": "Complétez l'obligation : « Il faut que vous _________ (écrire) votre nom en lettres capitales. »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "écriviez",
+                        "Ecriviez"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Le verbe écrire au subjonctif présent avec 'vous' est « écriviez »."
                 }
             ],
             "passThreshold": 0.8
@@ -7596,56 +7645,73 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u14-l3"
+            ]
         },
         "presentation": {
-            "explanation": "Thorough linguistic breakdown of La Volonté, le Souhait et l'Ordre. In French B1, mastering this syntax structure enables learners to articulate complex interpersonal nuances, formal register shifts, and precise logical arguments.",
+            "explanation": "When a subject attempts to influence, mandate, permit, or restrict the actions of a different person, the secondary clause requires the subjunctive mood:\n\n1. Verbs of Volition and Desire:\n- 'Vouloir que...' (To want someone to...) -> 'Je veux que tu viennes.'\n- 'Désirer que...' (To desire that...) -> 'Elle désire que nous soyons présents.'\n- 'Souhaiter que...' (To wish that...) -> 'Nous souhaitons que vous réussissiez.'\n- 'Aimer que / Préférer que...' (To like/prefer that...) -> 'Je préfère qu'il vienne demain.'\n\n2. Verbs of Order and Demand:\n- 'Exiger que...' (To demand/require that...) -> 'Le directeur exige qu'ils finissent aujourd'hui.'\n- 'Ordonner que...' (To order that...) -> 'Le juge ordonne que le document soit produit.'\n- 'Demander que...' (To ask that...) -> 'Je demande que chacun fasse un effort.'\n\n3. Verbs of Permission and Prohibition:\n- 'Permettre que...' (To allow that...) -> 'L'accord permet que nous utilisions ce logiciel.'\n- 'Interdire que... / Défendre que...' (To forbid that...) -> 'La loi interdit que l'on fume ici.'\n- 'S'opposer à ce que...' (To oppose that...) -> 'Il s'oppose à ce que nous partions.'\n\n4. The Two-Subject Rule (La règle des deux sujets):\n- Same subject: Use the infinitive! ('Je veux partir' - NOT 'Je veux que je parte').\n- Different subjects: Use que + Subjunctive! ('Je veux que tu partes').",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Mon père veut absolument que je poursuive mes études universitaires à la Sorbonne.",
+                    "reading": "mohn pair vuh zahb-soh-loo-mahn kuh zhuh poor-sweev may zay-tood oo-nee-vair-see-tair ah lah sohr-buhn",
+                    "translation": "My father absolutely wants me to pursue my university studies at the Sorbonne."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Le règlement intérieur interdit que les employés utilisent leur téléphone personnel pendant le service.",
+                    "reading": "luh reh-gluh-mahn an-tay-ryuhr an-tair-dee kuh lay zahm-plwah-yay oo-tee-leez luhr tay-lay-fohn pair-soh-nel pahn-dahn luh sair-vees",
+                    "translation": "Internal regulations forbid employees from using their personal phones during working hours."
+                },
+                {
+                    "target": "Nous exigeons que l'entreprise respecte scrupuleusement les normes de sécurité.",
+                    "reading": "noo zeg-zee-zhohn kuh lahn-truh-preez res-pekt skroo-poo-luhz-mahn lay nohrm duh say-koo-ree-tay",
+                    "translation": "We demand that the company scrupulously respect safety standards."
+                },
+                {
+                    "target": "Je préfère que vous veniez chez moi plutôt que de nous retrouver au restaurant.",
+                    "reading": "zhuh pray-fair kuh voo vuh-nyay shay mwah ploo-toh kuh duh noo ruh-troo-vay oh res-toh-rahn",
+                    "translation": "I prefer that you come to my place rather than meet at the restaurant."
+                },
+                {
+                    "target": "Le professeur demande que tous les étudiants éteignent leurs ordinateurs.",
+                    "reading": "luh proh-feh-suhr duh-mahnd kuh too lay zay-too-dyahn ay-ten-yuh luhr zohr-dee-nah-tuhr",
+                    "translation": "The teacher asks that all students turn off their computers."
                 }
             ],
             "mnemonics": [
-                "Cognitive memory anchor for La Volonté, le Souhait et l'Ordre"
+                "TWO HEADS NEED SUBJUNCTIVE: If Subject 1 wants Subject 2 to act (2 different people), you MUST bridge them with QUE + SUBJUNCTIVE!"
             ],
             "culturalNotes": [
-                "Sociolinguistic and cultural context for La Volonté, le Souhait et l'Ordre in modern France."
+                "Politeness protocols: In professional customer service, instead of saying bluntly 'Je veux que vous...', French speakers use the softened conditional: 'J'aimerais que vous fassiez...' or 'Je souhaiterais que vous veniez...'"
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Use the subjunctive after verbs of desire, will, permission, and prohi » :",
+                    "prompt": "Complétez : « La directrice exige que tous les rapports _________ (être) remis avant vendredi soir. »",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette forme présente une anomalie phonétique en français standard (69a).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (69b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (69c)."
+                        "soient",
+                        "sont",
+                        "seront",
+                        "étaient"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Le verbe 'exiger que' exprime un ordre formel et commande le subjonctif : « soient »."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u14-l4 :",
+                    "prompt": "Identifiez la phrase qui enfreint la règle des deux sujets en français standard :",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette variante relève d'un registre familier inadapté au contexte (69x).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (69y).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (69z)."
+                        "Je veux que je réussisse mon examen.",
+                        "Je veux réussir mon examen.",
+                        "Je veux que tu réussisses ton examen.",
+                        "Je souhaite que nous réussissions ensemble."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B1."
+                    "explanation": "Quand le sujet principal et le sujet subordonné sont identiques (Je... je...), on doit obligatoirement employer l'infinitif (« Je veux réussir ») et non une complétive au subjonctif."
                 }
             ]
         },
@@ -7653,25 +7719,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u14-l4) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle phrase illustre l'expression d'une volonté avec changement de sujet ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette variante relève d'un registre familier inadapté au contexte (69m).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (69n).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (69p)."
+                        "Nous espérons partir demain matin en train.",
+                        "Mes parents veulent que j'apprenne une troisième langue.",
+                        "Tu penses que ce livre est passionnant.",
+                        "Il sait que nous avons terminé le travail."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 1,
+                    "explanation": "« Mes parents veulent que j'apprenne... » exprime la volonté du sujet 1 sur le sujet 2 avec le verbe au subjonctif (« apprenne »)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u14-l4 (terme attendu : « Nous ») :",
+                    "prompt": "Complétez avec le subjonctif de savoir : « J'exige que vous _________ toute la vérité sur cette affaire. »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "sachiez",
+                        "Sachiez"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Le verbe savoir au subjonctif avec vous donne « sachiez »."
                 }
             ],
             "passThreshold": 0.8
@@ -7687,56 +7752,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u14-l4"
+            ]
         },
         "presentation": {
-            "explanation": "Thorough linguistic breakdown of Doute, Sentiment et Certitude (Indicatif vs Subjonctif). In French B1, mastering this syntax structure enables learners to articulate complex interpersonal nuances, formal register shifts, and precise logical arguments.",
+            "explanation": "The quintessential CEFR B1 milestone in French is mastering the boundary between the Indicative (mood of objective reality, assertion, and certainty) and the Subjunctive (mood of emotional reaction, subjective appraisal, doubt, and uncertainty):\n\n1. Certainty & Belief (INDICATIVE in affirmative):\n- 'Je pense que... / Je crois que... / Je trouve que...' -> INDICATIF\n- 'Il est certain que... / Il est évident que... / Il est clair que...' -> INDICATIF\n- Example: 'Je pense qu'il est compétent.' (INDICATIVE: est)\n\n2. Doubt & Negative Belief (SUBJUNCTIVE):\n- 'Je doute que...' -> SUBJONCTIF ('Je doute qu'il vienne.')\n- 'Il est douteux que... / Il est peu probable que...' -> SUBJONCTIF\n- In the negative or interrogative, penser and croire trigger the subjunctive:\n  * 'Je ne pense pas qu'il vienne.' (SUBJUNCTIVE: vienne)\n  * 'Crois-tu qu'il soit sincère ?' (SUBJUNCTIVE: soit)\n\n3. Feelings & Emotional Reactions (ALWAYS SUBJUNCTIVE):\nRegardless of whether the underlying event is factual, emotional reaction triggers the subjunctive:\n- 'Je suis content / heureux / ravi que tu sois là.'\n- 'Je regrette / Je suis triste qu'elle parte.'\n- 'J'ai peur / Je crains que nous soyons en retard.'\n- 'C'est dommage que vous ne puissiez pas venir.'",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Je pense que ce restaurant est excellent, mais je doute que nous puissions trouver une table sans réserver.",
+                    "reading": "zhuh pahns kuh suh res-toh-rahn ay tek-say-lahn, may zhuh doot kuh noo pwees-yohn troo-vay oon tahbl sahn ray-zair-vay",
+                    "translation": "I think this restaurant is excellent (indicative), but I doubt that we can find a table without booking (subjunctive)."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Nous sommes vraiment ravis que vous ayez accepté notre invitation au dîner.",
+                    "reading": "noo suhm vreh-mahn rah-vee kuh voo zah-yay ahk-sep-tay noh-truh nan-vee-tah-syohn oh dee-nay",
+                    "translation": "We are truly delighted that you accepted our dinner invitation."
+                },
+                {
+                    "target": "Je ne crois pas qu'il fasse assez chaud pour se baigner dans la mer aujourd'hui.",
+                    "reading": "zhuh nuh krwah pah keel fahs ah-say shoh poor suh ben-yay dahn lah mair oh-zhoor-dwee",
+                    "translation": "I don't believe it is warm enough to swim in the sea today."
+                },
+                {
+                    "target": "Il est évident que cette méthode fonctionne parfaitement bien.",
+                    "reading": "eel ay tay-vee-dahn kuh set may-tohd fohnk-syohn pahr-fet-mahn byan",
+                    "translation": "It is obvious that this method works perfectly well. (certainty = indicative)"
+                },
+                {
+                    "target": "C'est dommage que Sophie ne sache pas conduire cette voiture manuelle.",
+                    "reading": "say doh-mahzh kuh soh-fee nuh sahsh pah kohn-dweer set vwah-toor mah-noo-el",
+                    "translation": "It is a pity that Sophie doesn't know how to drive this manual car."
                 }
             ],
             "mnemonics": [
-                "Cognitive memory anchor for Doute, Sentiment et Certitude (Indicatif vs Subjonctif)"
+                "CERTAINTY = INDICATIVE (Solid ground). EMOTION & DOUBT = SUBJUNCTIVE (Cloudy feelings)!",
+                "PENSER Affirmative = Indicative ('Je pense qu'il est là'). PENSER Negative = Subjunctive ('Je ne pense pas qu'il soit là')!"
             ],
             "culturalNotes": [
-                "Sociolinguistic and cultural context for Doute, Sentiment et Certitude (Indicatif vs Subjonctif) in modern France."
+                "The phrase 'C'est dommage !' (What a pity!) is omnipresent in daily French conversation. When expanded with 'que', 'C'est dommage que...' invariably takes the subjunctive."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Distinguish indicative certainty from subjunctive doubt, emotion, and  » :",
+                    "prompt": "Dans quelle phrase le verbe subordonné doit-il obligatoirement être à l'indicatif ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (70a).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (70b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (70c)."
+                        "Je suis triste qu'il...",
+                        "Je doute qu'il...",
+                        "Je sais qu'il...",
+                        "J'ai peur qu'il..."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "answerIndex": 2,
+                    "explanation": "« Je sais que... » exprime un fait certain et avéré, commandant donc l'indicatif (« Je sais qu'il est là »)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u14-l5 :",
+                    "prompt": "Complétez avec le mode adéquat : « Je ne pense pas que ce projet _________ (aboutir) sans financement supplémentaire. »",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (70x).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (70y).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (70z)."
+                        "aboutisse",
+                        "aboutit",
+                        "aboutira",
+                        "aboutissait"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B1."
+                    "explanation": "La forme négative « Je ne pense pas que » introduit un doute et requiert le subjonctif présent : « aboutisse »."
                 }
             ]
         },
@@ -7744,25 +7827,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u14-l5) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Choisissez la phrase qui oppose correctement l'indicatif de certitude au subjonctif d'émotion :",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (70m).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (70n).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (70p)."
+                        "Il est sûr qu'il vienne, et je suis ravi qu'il est là.",
+                        "Il est sûr qu'il vient, et je suis ravi qu'il soit là.",
+                        "Il est sûr qu'il soit venu, et je suis ravi qu'il aille bien.",
+                        "Il est sûr qu'il viendrait, et je suis ravi qu'il était là."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 1,
+                    "explanation": "« Il est sûr qu'il vient » (certitude -> indicatif) s'oppose rigoureusement à « je suis ravi qu'il soit là » (émotion -> subjonctif)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u14-l5 (terme attendu : « Nous ») :",
+                    "prompt": "Complétez l'expression de regret : « Quel dommage que vous _________ (devoir) partir si tôt ! » (forme au subjonctif présent)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "deviez",
+                        "Deviez"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Le verbe devoir au subjonctif présent avec 'vous' est « deviez »."
                 }
             ],
             "passThreshold": 0.8
