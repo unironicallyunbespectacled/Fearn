@@ -5075,60 +5075,60 @@
         "subject": "amharic",
         "unit": 9,
         "lessonNumber": 1,
-        "title": "ምግብ፣ ገበያ እና ግብይት (Cuisine, Markets & Commerce) (Part 1)",
+        "title": "Ethiopian Food Vocabulary: Injera, Wot, and Key Ingredients",
         "level": "A2",
-        "objective": "Comprehensive mastery of የገበያ ግብይት እና ምግቦች (Market Shopping and Cuisine).",
+        "objective": "Name the core components of the Ethiopian meal — ኢንጀራ (injera), the various wots (stews), and common ingredients — and understand the cultural centrality of these foods in Ethiopian daily life.",
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የገበያ ግብይት እና ምግቦች (Market Shopping and Cuisine) - ደረጃ 1) ተማሪዎች ስለ የገበያ ግብይት እና ምግቦች (Market Shopping and Cuisine) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Ethiopian cuisine is built around a single foundational element: ኢንጀራ (injera, pronounced in-JEE-rah). This is a large, spongy sourdough flatbread made from ጤፍ (teff, tef), a grain native to the Ethiopian highlands. Understanding injera is not just vocabulary learning — it is understanding the structure of an Ethiopian meal.\n\nThe injera serves as both plate and utensil. Food is placed on top of the injera, and diners tear pieces from the injera to scoop and eat the dishes placed on it. Eating with utensils at a traditional Ethiopian meal would be unusual.\n\nKEY FOOD VOCABULARY:\n\nThe bread:\n• ኢንጀራ (injera) — the sourdough flatbread [ምግብ = food, ዳቦ = bread, but ኢንጀራ is distinct]\n• ጤፍ (teff) — the grain used to make injera; a superfood high in protein and iron\n\nThe stews (ወጥ / አልጫ):\n• ወጥ (wot) — a spiced stew, the general term; typically made with meat or vegetables\n• ዶሮ ወጥ (doro wot) — chicken stew [ዶሮ = chicken]; the most famous Ethiopian dish, served at celebrations\n• ምሥር ወጥ (misir wot) — red lentil stew [ምሥር = red lentils]; a common fasting food\n• አልጫ (alcha) — a mild stew without berbere spice, often made with lamb or vegetables\n• ሽሮ (shiro) — a thick stew made from ground legumes (chickpeas/beans); an everyday staple\n\nKey spices and condiments:\n• በርበሬ (berbere) — the essential Ethiopian spice blend (chili, fenugreek, ginger, korarima, and more); appears in wot\n• ኑሮ (nuro) / ቅቤ (qibe) — spiced clarified butter (similar to ghee) used in cooking\n• ቆቅ ቅቤ (qoq qibe) — niter kibbeh (the spiced, herb-infused butter base of many dishes)\n• ጥቁር ቃሪያ (tikur qaria) — black pepper\n\nFasting foods (ፆም ምግብ, tsom migib):\nEthiopian Orthodox Christians fast frequently — some Wednesdays, Fridays, and major fasts. Fasting food (ፆም) excludes all animal products. ምሥር ወጥ, ሽሮ, and vegetable dishes dominate fasting menus.\n\nKey vocabulary summary:\nምግብ (migib) = food | ምሳ (missa) = lunch | እራት (irat) = dinner | ቁርስ (qurs) = breakfast",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየገበያ ግብይት እና ምግቦች (Market Shopping and Cuisine) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (9.1.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ዶሮ ወጥ ያለ ኢንጀራ ማብላት ክብሩን ያጣል።",
+                    "reading": "Doro wot yale injera mablat kibrrun yatal.",
+                    "translation": "Serving doro wot without injera loses its dignity/honor. (A saying about the inseparability of the two)"
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (9.1.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ዛሬ ሰኞ ነው — ፆም ቀን ነው፣ ስለዚህ ሽሮ ወጥ እና ምሥር ወጥ ብቻ ይቀርባሉ።",
+                    "reading": "Zare Senyo new — tsom qen new, silezih shiro wot inna misir wot bicha yiqerebalu.",
+                    "translation": "Today is Monday — it is a fasting day, so only shiro stew and lentil stew will be served."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (9.1.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ጤፍ ዱቄት ካጣን ኢንጀራ ልናደርግ አንችልም።",
+                    "reading": "Teff duqet katan injera linnaderig anchilim.",
+                    "translation": "If we don't have teff flour, we cannot make injera."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የገበያ ግብይት እና ምግቦች (Market Shopping and Cuisine)"
+                "To remember the wot types: ዶሮ (doro) = chicken — ዶ- sounds like 'do', as in the do-re-mi scale, or think 'doro = do-row: row of chickens'. ምሥር (misir) = lentils — the -ር ending is soft, like the gentle red colour of lentil stew. ሽሮ (shiro) = ground legume stew — think 'shiro: sure-oh, the everyday staple you're sure to find'."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "The phrase ይቅረብ (yiqreb) — 'let it be served/brought' — is used to invite guests to eat, and meals are communal affairs. Sharing from a single large piece of injera on a round basket tray (መሶብ, mesob) is the norm. The act of placing food into someone else's mouth — ጉርሻ (gursha) — is a gesture of love and honor reserved for close friends, family members, and honored guests. Refusing a gursha from a genuine well-wisher is considered impolite."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የገበያ ግብይት እና ምግቦች (Market Shopping and Cuisine)» አጠቃቀም በደረጃ 1 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "ፆም ቀን ምን ዓይነት ምግብ ይበላሉ?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (9.1.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (9.1.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (9.1.3)።"
+                        "ዶሮ ወጥ — ምክንያቱም ዶሮ ቀላል ነው።",
+                        "ምሥር ወጥ እና ሽሮ — ምክንያቱም ፆም የእንስሳ ምርቶችን ይከለክላል።",
+                        "ቅቤ ያለበት ዳቦ — ምክንያቱም ቅቤ ጣፋጭ ነው።"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "Ethiopian Orthodox fasting (ፆም) prohibits animal products: no meat, dairy, or eggs. ምሥር ወጥ (lentil stew) and ሽሮ (ground legume stew) are vegan and therefore suitable fasting foods. ዶሮ ወጥ contains chicken (animal product, prohibited). ቅቤ (clarified butter) is a dairy product, also prohibited."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ምግብ፣ ገበያ እና ግብይት (Cuisine, Markets & Commerce)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 1)፡",
+                    "prompt": "ኢንጀራ ምንድን ነው እና ከምን ይሰራል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (9.1.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (9.1.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (9.1.3)።"
+                        "A rice dish made from imported Asian grains",
+                        "A sourdough flatbread made from teff (ጤፍ), a grain native to the Ethiopian highlands, used as both plate and utensil",
+                        "A spiced butter used as a condiment in Ethiopian cooking"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "ኢንጀራ (injera) is a fermented sourdough flatbread made from ጤፍ (teff), a nutritious grain indigenous to Ethiopia. It serves as both the base/plate of the meal and the eating implement — diners tear pieces to scoop stews (ወጥ). It is the foundation of the Ethiopian meal."
                 }
             ]
         },
@@ -5136,22 +5136,22 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የገበያ ግብይት እና ምግቦች (Market Shopping and Cuisine)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 9-1)?",
+                    "prompt": "«ዶሮ ወጥ» ምን ማለት ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (9.1.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (9.1.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (9.1.3)።"
+                        "Red lentil stew",
+                        "Ground legume stew",
+                        "Chicken stew"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "ዶሮ ወጥ = chicken stew. ዶሮ (doro) = chicken; ወጥ (wot) = stew. It is Ethiopia's most celebrated dish, particularly for special occasions and ceremonies. Red lentil stew = ምሥር ወጥ. Ground legume stew = ሽሮ."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («እንጀራ_9_1»):",
+                    "prompt": "Type the Amharic word for the sourdough flatbread that is the foundation of an Ethiopian meal:",
                     "acceptedAnswers": [
-                        "እንጀራ_9_1"
+                        "ኢንጀራ"
                     ],
-                    "explanation": "The target keyword was: 【እንጀራ_9_1】"
+                    "explanation": "ኢንጀራ (injera) is the fermented teff flatbread central to Ethiopian cuisine. It serves as both the edible plate and the eating utensil in traditional Ethiopian dining."
                 }
             ]
         }
@@ -5161,60 +5161,60 @@
         "subject": "amharic",
         "unit": 9,
         "lessonNumber": 2,
-        "title": "ምግብ፣ ገበያ እና ግብይት (Cuisine, Markets & Commerce) (Part 2)",
+        "title": "At the Market: Shopping Phrases and Transaction Vocabulary",
         "level": "A2",
-        "objective": "Comprehensive mastery of የገበያ ግብይት እና ምግቦች (Market Shopping and Cuisine).",
+        "objective": "Use key Amharic phrases for buying and selling at a market — asking for items, expressing quantities, and completing a transaction — combining imperative forms, quantity expressions, and polite request structures.",
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የገበያ ግብይት እና ምግቦች (Market Shopping and Cuisine) - ደረጃ 2) ተማሪዎች ስለ የገበያ ግብይት እና ምግቦች (Market Shopping and Cuisine) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Ethiopian markets — ገበያ (gebeya) — are vibrant, social places where bargaining (መደራደር, mederadder) is expected. At a traditional market, the listed price is a starting point, not a fixed price. Knowing how to ask for items, state quantities, and negotiate politely is an essential A2 Amharic skill.\n\nKEY SHOPPING VOCABULARY:\n• ገበያ (gebeya) — market\n• ዋጋ (waga) — price\n• ሻጭ (shach) — seller/vendor [from ሸጠ, shete = to sell]\n• ገዥ (gejj) — buyer [from ገዛ, geza = to buy]\n• ሸቀጥ (sheqet) — goods/merchandise\n• ብር (birr) — Ethiopian birr (currency); ሳንቲም (santim) = cents (100 santim = 1 birr)\n\nBUYING PHRASES:\n• ይህ ምን ያህል ነው? (Yih min yahil new?) — How much is this?\n• ዋጋው ስንት ነው? (Wagaw sint new?) — What is the price of it?\n• ___ ብር ነው (__ birr new) — It is ___ birr.\n• @@@ ይኑርኝ (__ yinurigni) — Give me [item] / Let me have [item] [polite request]\n• @@@ ስጠኝ (__ stitegni) — Give me [item] [direct imperative]\n• @@@ ይፈልጋሉ? (__ yifelligalu?) — Do you want [item]? [vendor asking customer]\n\nQUANTITY EXPRESSIONS:\n• አንድ ኪሎ (and kilo) — one kilogram\n• ግማሽ ኪሎ (gimash kilo) — half kilogram\n• ሁለት ኪሎ (hulet kilo) — two kilograms\n• ሁለት ሦስት (hulet sost) — a few [literally: two-three, colloquial for 'a couple']\n• አቅርቡልኝ (aqribbulign) — bring it to me [polite]\n\nNEGOTIATING PHRASES:\n• ዋጋው ይቀነስ? (Wagaw yiqenes?) — Can the price be reduced?\n• ዋጋው ብዙ ነው (Wagaw bizu new) — The price is too high.\n• ትንሽ ያቅርቡልኝ (tinish yaqribbulign) — Please bring it down a little.\n• እሺ ልግዛ (eshi ligeza) — Okay, I'll buy it. [እሺ = okay; ልግዛ = let me buy = I'll buy]",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየገበያ ግብይት እና ምግቦች (Market Shopping and Cuisine) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (9.2.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ቲማቲም ሁለት ኪሎ ዋጋው ስንት ነው?",
+                    "reading": "Timmattim hulet kilo wagaw sint new?",
+                    "translation": "How much is two kilograms of tomatoes?"
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (9.2.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "— ሃምሳ ብር ነው። — ዋጋው ብዙ ነው። አርባ ብር ቢሆን?",
+                    "reading": "— Hamsa birr new. — Wagaw bizu new. Arba birr bihon?",
+                    "translation": "— It is fifty birr. — The price is high. What about forty birr?"
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (9.2.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "አቅርቦት ስለሌለ አሁን ዝናጃ የለም — ነገ ኑ።",
+                    "reading": "Aqribot silelele ahun zinaja yellem — nege nu.",
+                    "translation": "There is no ginger right now because of shortage — come tomorrow."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የገበያ ግብይት እና ምግቦች (Market Shopping and Cuisine)"
+                "ዋጋ (waga) = price — think 'wager': when you bargain, you're making a wager on what the price should be. ሸጠ (shete) = to sell → ሻጭ (shach) = seller — the root ሸጠ contains the 'sh' sound: 'she-te', and ሻጭ is the agent noun. Similarly ገዛ (geza) = to buy → ገዥ (gejj) = buyer."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Ethiopian markets like Mercato in Addis Ababa (the largest open-air market in Africa) are organized by product type — you'll find an entire section for spices (ቅመም ቦታ), another for textiles (ጨርቅ ቦታ), and so on. Bargaining is expected, but aggressive haggling is considered rude. The social interaction — chatting, drinking tea together — is as important as the transaction itself. A vendor who refuses to negotiate at all is unusual; so is a buyer who haggles down to an insultingly low price."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የገበያ ግብይት እና ምግቦች (Market Shopping and Cuisine)» አጠቃቀም በደረጃ 2 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "ዋጋ ለማወቅ ምን ጥያቄ ትጠቀማለህ?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (9.2.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (9.2.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (9.2.3)።"
+                        "ይህ ምን ያህል ነው? / ዋጋው ስንት ነው?",
+                        "ይህ የትኛው ነው?",
+                        "ይህ ለምን ዋጋ ነው?"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "ዋጋው ስንት ነው? (What is the price?) and ይህ ምን ያህል ነው? (How much is this?) are both standard price inquiries. Option B asks 'which one is this?' (not about price). Option C is grammatically awkward and not a natural Amharic question form."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ምግብ፣ ገበያ እና ግብይት (Cuisine, Markets & Commerce)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 2)፡",
+                    "prompt": "«ዋጋው ይቀነስ?» ምን ያህል ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (9.2.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (9.2.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (9.2.3)።"
+                        "Please add more to the price",
+                        "Can the price be reduced? (a polite bargaining question)",
+                        "Is this the only price?"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "ዋጋው ይቀነስ? = 'May the price be reduced?' (ዋጋ = price, ይቀነስ = let it be reduced/decreased). This is the polite phrasing used when beginning to negotiate. The causative ይቀነስ uses the jussive/optative mood — 'let it go down' — which is softer than a direct command."
                 }
             ]
         },
@@ -5222,22 +5222,22 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የገበያ ግብይት እና ምግቦች (Market Shopping and Cuisine)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 9-2)?",
+                    "prompt": "«አርባ ብር ቢሆን?» ምን ማለት ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (9.2.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (9.2.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (9.2.3)።"
+                        "I will pay forty birr exactly, no negotiation.",
+                        "What about forty birr? (a counter-offer in bargaining)",
+                        "Forty birr is too expensive."
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "አርባ ብር ቢሆን? = 'If it were forty birr?' / 'What about forty birr?' — a counter-offer. ቢሆን (bihon) is the subjunctive/conditional of ነው ('to be'): 'were it to be'. This is the standard Ethiopian bargaining counter-offer formula."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («እንጀራ_9_2»):",
+                    "prompt": "Type the Amharic word for 'price':",
                     "acceptedAnswers": [
-                        "እንጀራ_9_2"
+                        "ዋጋ"
                     ],
-                    "explanation": "The target keyword was: 【እንጀራ_9_2】"
+                    "explanation": "ዋጋ (waga) = price. Used in: ዋጋው ስንት ነው? (What is the price?), ዋጋው ብዙ ነው (the price is high), ዋጋው ይቀነስ (let the price be reduced)."
                 }
             ]
         }
@@ -5247,60 +5247,60 @@
         "subject": "amharic",
         "unit": 9,
         "lessonNumber": 3,
-        "title": "ምግብ፣ ገበያ እና ግብይት (Cuisine, Markets & Commerce) (Part 3)",
+        "title": "Numbers, Prices, and the Counting System (Numbers 11-100)",
         "level": "A2",
-        "objective": "Comprehensive mastery of የገበያ ግብይት እና ምግቦች (Market Shopping and Cuisine).",
+        "objective": "Count from 11 to 100 in Amharic, form compound numbers correctly, express prices using ብር (birr) and ሳንቲም (santim), and understand how Amharic builds larger numbers through a systematic additive pattern.",
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የገበያ ግብይት እና ምግቦች (Market Shopping and Cuisine) - ደረጃ 3) ተማሪዎች ስለ የገበያ ግብይት እና ምግቦች (Market Shopping and Cuisine) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "In Unit 2 we learned numbers 1–10. Now at A2 level, market interactions require numbers up to 100. Amharic builds numbers 11–99 through a consistent pattern of multiplying tens and adding units.\n\nTENS IN AMHARIC:\n• 10 — አሥር (asir)\n• 20 — ሃያ (haya)\n• 30 — ሠላሳ (selasa)\n• 40 — አርባ (arba)\n• 50 — ሃምሳ (hamsa)\n• 60 — ስልሳ (silsa)\n• 70 — ሰባ (seba)\n• 80 — ሰማኒያ (semania)\n• 90 — ዘጠና (zetena)\n• 100 — መቶ (meto)\n\nCOMPOUND NUMBERS (11–19):\nAmharic forms these with the formula: [Tens] + -ና + [Units]\n• 11 — አሥራ አንድ (asira and) [note: አሥር becomes አሥራ before a unit]\n• 12 — አሥራ ሁለት (asira hulet)\n• 13 — አሥራ ሦስት (asira sost)\n• 15 — አሥራ አምስት (asira amist)\n• 19 — አሥራ ዘጠኝ (asira zetegn)\n\nCOMPOUND NUMBERS (21–99):\nFor 20+, simply say the ten then the unit:\n• 21 — ሃያ አንድ (haya and)\n• 35 — ሠላሳ አምስት (selasa amist)\n• 47 — አርባ ሰባት (arba sebat)\n• 53 — ሃምሳ ሦስት (hamsa sost)\n• 68 — ስልሳ ስምንት (silsa simint)\n• 99 — ዘጠና ዘጠኝ (zetena zetegn)\n\nNOTE: For teens (11-19), the tens form changes: አሥር → አሥራ (with a linking vowel). For 20s onward, no linking vowel — just put the numbers side by side.\n\nPRICES:\nEthiopian currency: ብር (birr) + ሳንቲም (santim)\n• 25 ብር = ሃያ አምስት ብር (haya amist birr)\n• 13 ብር 50 ሳንቲም = አሥራ ሦስት ብር ሃምሳ ሳንቲም\n• ዋጋው ሃምሳ ሁለት ብር ነው = The price is 52 birr.",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየገበያ ግብይት እና ምግቦች (Market Shopping and Cuisine) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (9.3.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ቲማቲም ሦስት ኪሎ ሠላሳ ስድስት ብር ነው።",
+                    "reading": "Timmattim sost kilo selasa sidist birr new.",
+                    "translation": "Three kilograms of tomatoes is thirty-six birr."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (9.3.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "— ቁጥር ስልሳ ሦስት? — አዎ፣ ሰፈር ስልሳ ሦስቱ ቤቴ ነው።",
+                    "reading": "— Qutr silsa sost? — Awo, sefer silsa sosstu bete new.",
+                    "translation": "— Number sixty-three? — Yes, number sixty-three in the neighborhood is my house."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (9.3.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "አሥራ አምስት ብር ካዋጣ ሁሉም ሰው ደስ ይለዋል።",
+                    "reading": "Asira amist birr kawata hullum sew des yilewwal.",
+                    "translation": "If it costs fifteen birr, everyone will be pleased."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የገበያ ግብይት እና ምግቦች (Market Shopping and Cuisine)"
+                "The tens have rhythmic patterns: ሃያ (20) — ሃምሳ (50) — ሰባ (70) — ሰማኒያ (80) — ዘጠና (90). Notice that 70 (ሰባ) and the root of 7 (ሰባት) share ሰባ. 80 (ሰማኒያ) and 8 (ስምንት) are related through Semitic root alternation. For teens: remember that አሥር becomes አሥራ (with -ራ suffix) when followed by a unit number."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Ethiopia uses the Ethiopian calendar (13 months) and the Ethiopian numeral system in traditional contexts, but Arabic numerals are used in commerce and education. Price negotiation at markets often happens quickly, with vendors rapidly naming prices and buyers counter-offering. Knowing numbers fluently matters — hesitating too long signals unfamiliarity and may result in higher prices being offered to you as a foreign learner."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የገበያ ግብይት እና ምግቦች (Market Shopping and Cuisine)» አጠቃቀም በደረጃ 3 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "ቁጥር 47 ን በአማርኛ ይናገሩ:",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (9.3.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (9.3.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (9.3.3)።"
+                        "ሰባ አርባ",
+                        "አርባ ሰባት",
+                        "ሃምሳ ሰባ"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "47 = አርባ (40) + ሰባት (7) = አርባ ሰባት. Option A reverses the tens and units (ሰባ is 70, not 7). Option C says 57 (ሃምሳ = 50, ሰባ ≠ 7 here — note ሰባ means 70, ሰባት means 7)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ምግብ፣ ገበያ እና ግብይት (Cuisine, Markets & Commerce)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 3)፡",
+                    "prompt": "«አሥራ ሦስት ብር» ምን ቁጥር ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (9.3.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (9.3.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (9.3.3)።"
+                        "13 birr",
+                        "30 birr",
+                        "103 birr"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "አሥራ ሦስት = 13. አሥራ = the linking form of አሥር (10) used in teens. ሦስት = 3. Therefore አሥራ ሦስት = 10 + 3 = 13. 30 = ሠላሳ (completely different word). 103 = መቶ ሦስት."
                 }
             ]
         },
@@ -5308,22 +5308,22 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የገበያ ግብይት እና ምግቦች (Market Shopping and Cuisine)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 9-3)?",
+                    "prompt": "ቁጥር 85 ን በአማርኛ ይናገሩ:",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (9.3.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (9.3.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (9.3.3)።"
+                        "ዘጠና አምስት",
+                        "ሰማኒያ አምስት",
+                        "ሰባ አምስት"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "85 = ሰማኒያ (80) + አምስት (5) = ሰማኒያ አምስት. Option A says 95 (ዘጠና = 90). Option C says 75 (ሰባ = 70). Note: ሰባ ≠ ሰባት — ሰባ is the tens-form '70', while ሰባት is the unit '7'."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («እንጀራ_9_3»):",
+                    "prompt": "Type the Amharic word for 'fifty' (the tens number, not the compound):",
                     "acceptedAnswers": [
-                        "እንጀራ_9_3"
+                        "ሃምሳ"
                     ],
-                    "explanation": "The target keyword was: 【እንጀራ_9_3】"
+                    "explanation": "ሃምሳ (hamsa) = 50. Compare: ሃያ (20), ሠላሳ (30), አርባ (40), ሃምሳ (50). ሃምሳ appears in common prices: ሃምሳ ብር = 50 birr."
                 }
             ]
         }
@@ -5333,60 +5333,60 @@
         "subject": "amharic",
         "unit": 9,
         "lessonNumber": 4,
-        "title": "ምግብ፣ ገበያ እና ግብይት (Cuisine, Markets & Commerce) (Part 4)",
+        "title": "Ordering Food: Requests, Preferences, and Restaurant Phrases",
         "level": "A2",
-        "objective": "Comprehensive mastery of የገበያ ግብይት እና ምግቦች (Market Shopping and Cuisine).",
+        "objective": "Order food and drink in a restaurant or café setting using polite request forms (ያምጡልኝ, ፈልጌያለሁ), express food preferences and restrictions, and understand the menu interaction pattern in Ethiopian hospitality.",
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የገበያ ግብይት እና ምግቦች (Market Shopping and Cuisine) - ደረጃ 4) ተማሪዎች ስለ የገበያ ግብይት እና ምግቦች (Market Shopping and Cuisine) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Restaurants (ምግብ ቤት, migib bet — literally 'food house') and cafés (ቡና ቤት, buna bet — 'coffee house') are central to Ethiopian social life. Knowing how to order, express preferences, and interact politely is a practical A2 milestone.\n\nREQUEST FORMS (ORDERING):\nTwo main politeness levels for ordering:\n\n1. Polite request using ፈልጌያለሁ (I want/would like) + object:\n   ዶሮ ወጥ ፈልጌያለሁ — I would like doro wot\n   ቡና ፈልጌያለሁ — I would like coffee\n\n2. Imperative using ያምጡልኝ (please bring me [plural/formal]):\n   ቡና ያምጡልኝ — Please bring me coffee\n   ዳቦ ያምጡልኝ — Please bring me bread\n\nNote: ያምጡልኝ uses the formal plural imperative of አመጣ (ameta = to bring): [ያምጡ (they/you-formal bring) + ልኝ (to me)]. This form is used with waitstaff as a polite distanced request.\n\nASKING ABOUT THE MENU:\n• ዛሬ ምን አለ? (Zare min alle?) — What do you have today?\n• ምናሌ አለ? (Minale alle?) — Do you have a menu? [ምናሌ = menu]\n• _____ አለ ወይ? (__ alle wey?) — Do you have ___?\n\nEXPRESSING PREFERENCES:\n• ___ አልፈልግም (__ alfelligim) — I do not want ___\n• ሥጋ አልበላም (siga albelam) — I do not eat meat [fasting or personal preference]\n• ቅቤ ሳይጨምሩ (qibe sayichimiru) — Without adding butter\n• ቅመሙ ትንሽ ቢሆን (qimemmu tinish bihon) — If the spice could be a little less\n\nCOFFEE CEREMONY VOCABULARY:\nEthiopian coffee (ቡና, buna) is typically served in three rounds in a traditional ceremony:\n• ፊተኛ ቡና (fitennya buna) — first cup (strongest)\n• ሁለተኛ ቡና (hulettenna buna) — second cup\n• ሦስተኛ ቡና (sostenna buna) — third cup (blessing cup, ቤሬካ, bereka)\nRefusing the third cup is acceptable but sometimes requires a polite explanation.",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየገበያ ግብይት እና ምግቦች (Market Shopping and Cuisine) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (9.4.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ምናሌ ያምጡልኝ — ምን እንዳለ ማየት እፈልጋለሁ።",
+                    "reading": "Minale yamtulign — min indalle mayet ifelligalehu.",
+                    "translation": "Please bring me the menu — I want to see what there is."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (9.4.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ሥጋ አልበላም — ቬጀቴሪያን ምናሌ አለ ወይ?",
+                    "reading": "Siga albelam — vejetterian minale alle wey?",
+                    "translation": "I don't eat meat — do you have a vegetarian menu?"
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (9.4.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ቡና ሦስቱን ጨርሻለሁ — ቤሬካ ቡናው ጣፋጭ ነበር።",
+                    "reading": "Buna sostun cherrishalehu — bereka bunaw tafach nebber.",
+                    "translation": "I have finished all three coffees — the blessing cup was delicious."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የገበያ ግብይት እና ምግቦች (Market Shopping and Cuisine)"
+                "For ordering: ያምጡልኝ (yamtulign) = 'please bring me' — break it down: ያምጡ (bring [formal]) + ልኝ (to me). The ልኝ ending appears in many 'give/bring to me' constructions in Amharic — it is the dative object 'to me'. ፈልጌያለሁ (felligeyalehu) = 'I want/would like' — the long ending -ያለሁ marks first person present tense continuous desire."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Coffee (ቡና) is deeply embedded in Ethiopian identity — Ethiopia is the birthplace of coffee (Coffea arabica was first found in the Kaffa region). A coffee ceremony (ቡና ጠጥ, buna tet, or formally ቡናዬ) involves roasting green beans, grinding them by hand, brewing in a clay pot (ጀበና, jebena), and serving in small porcelain cups. Refusing coffee from a host in Ethiopia requires a polite and genuine excuse — it is like refusing hospitality itself."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የገበያ ግብይት እና ምግቦች (Market Shopping and Cuisine)» አጠቃቀም በደረጃ 4 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«Please bring me water» ን ወደ አማርኛ ቀይሩ። (ውሃ = water)",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (9.4.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (9.4.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (9.4.3)።"
+                        "ውሃ ፈልጋለሁ።",
+                        "ውሃ ያምጡልኝ።",
+                        "ውሃ ልብ።"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "ያምጡልኝ (yamtulign) = please bring me [formal/polite imperative]. So ውሃ ያምጡልኝ = Please bring me water. Option A (ፈልጋለሁ) means 'I want' — a preference statement, not a direct request to bring. Option C (ልብ) means 'heart' or 'mind', which is completely wrong here."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ምግብ፣ ገበያ እና ግብይት (Cuisine, Markets & Commerce)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 4)፡",
+                    "prompt": "«ሥጋ አልበላም» ምን ማለት ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (9.4.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (9.4.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (9.4.3)።"
+                        "I have already eaten meat.",
+                        "There is no meat available.",
+                        "I do not eat meat. (a permanent preference statement using present negative)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 2,
+                    "explanation": "ሥጋ አልበላም = ሥጋ (meat) + አልበላም (present negative 1sg: አል- + በላ stem + -ም = 'I do not eat'). This is a habitual present negative — expressing a standing preference or restriction, not a one-time past event."
                 }
             ]
         },
@@ -5394,22 +5394,22 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የገበያ ግብይት እና ምግቦች (Market Shopping and Cuisine)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 9-4)?",
+                    "prompt": "«ዛሬ ምን አለ?» ምን ለማለት ያገለግላል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (9.4.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (9.4.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (9.4.3)።"
+                        "Asking 'what is today?' (the date)",
+                        "Asking 'what do you have today?' (inquiring about available food/items)",
+                        "Asking 'what happened today?' (news/events)"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "explanation": "ዛሬ ምን አለ? = 'What is there today?' / 'What do you have today?' — a standard question when entering a restaurant or market to find out what is available. አለ (alle) here is the existential verb (there is). Context (restaurant/market setting) makes clear this is about available goods, not dates or news."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («እንጀራ_9_4»):",
+                    "prompt": "Type the Amharic word for 'coffee' (the drink at the center of Ethiopian social life):",
                     "acceptedAnswers": [
-                        "እንጀራ_9_4"
+                        "ቡና"
                     ],
-                    "explanation": "The target keyword was: 【እንጀራ_9_4】"
+                    "explanation": "ቡና (buna) = coffee. Ethiopia is the birthplace of coffee — the word 'coffee' in many world languages (café, Kaffee, kopi) derives from the Kaffa region of Ethiopia where Coffea arabica was first discovered."
                 }
             ]
         }
@@ -5419,60 +5419,60 @@
         "subject": "amharic",
         "unit": 9,
         "lessonNumber": 5,
-        "title": "ምግብ፣ ገበያ እና ግብይት (Cuisine, Markets & Commerce) (Part 5)",
+        "title": "Unit 9 Synthesis: Market and Restaurant Dialogue",
         "level": "A2",
-        "objective": "Comprehensive mastery of የገበያ ግብይት እና ምግቦች (Market Shopping and Cuisine).",
+        "objective": "Conduct a complete market or restaurant interaction in Amharic, integrating food vocabulary, numbers and prices, request forms, negation (Units 7), yes/no and wh-questions (Units 7), and polite refusal/agreement phrases.",
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የገበያ ግብይት እና ምግቦች (Market Shopping and Cuisine) - ደረጃ 5) ተማሪዎች ስለ የገበያ ግብይት እና ምግቦች (Market Shopping and Cuisine) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Unit 9 has built the vocabulary and phrase structures for two core Ethiopian daily-life settings: the market (ገበያ) and the restaurant/café (ምግብ ቤት/ቡና ቤት). This synthesis lesson puts them together with the grammar from Unit 7 (negation and questions) to create full, realistic dialogue.\n\nA complete market dialogue:\nA (buyer): ይቅርታ — ቲማቲም አለ ወይ? (Excuse me — do you have tomatoes?)\nB (vendor): አዎ፣ ትኩስ ቲማቲም አለ። (Yes, there are fresh tomatoes.)\nA: ሁለት ኪሎ ዋጋው ስንት ነው? (How much are two kilograms?)\nB: አርባ ብር ነው። (It is forty birr.)\nA: ዋጋው ብዙ ነው — ሠላሳ ብር ቢሆን? (The price is high — what about thirty birr?)\nB: ሠላሳ ምን ያህል ነው ትላለህ! ሠላሳ አምስት ብር — ዝቅ ማለት አልችልም። (Thirty you say! Thirty-five birr — I can't go lower.)\nA: እሺ። ሠላሳ አምስት ብር ልግዛ። (Okay. I'll buy for thirty-five birr.)\n\nKey phrases from the dialogue to practice:\n• ይቅርታ (yiqirta) — excuse me / sorry\n• ትኩስ (tikus) — fresh [adjective — comes before noun: ትኩስ ቲማቲም]\n• ዝቅ ማለት አልችልም (ziq malet alchilim) — I cannot go lower [ዝቅ ማለት = to go lower; አልችልም = I cannot]\n\nA restaurant order with a preference restriction:\nA: ምናሌ ያምጡልኝ። (Please bring me the menu.)\nB: ምናሌ የለም — ሽሮ ወጥና ዶሮ ወጥ ብቻ ነው ዛሬ ያለን። (There is no menu — we only have shiro wot and doro wot today.)\nA: ሥጋ አልበላም — ሽሮ ወጥ ፈልጌያለሁ። (I don't eat meat — I would like shiro wot.)\nB: እሺ፣ ወዲያው ያምጣሉ። (Okay, they will bring it right away.)",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየገበያ ግብይት እና ምግቦች (Market Shopping and Cuisine) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (9.5.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ዝቅ ማለት አልችልም — ይህ የመጨረሻው ዋጋ ነው።",
+                    "reading": "Ziq malet alchilim — yih yemechereshhaw waga new.",
+                    "translation": "I cannot go lower — this is the final price."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (9.5.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ቡና ፈልጌያለሁ — ነገር ግን ስኳር ሳይጨምሩ ያምጡልኝ።",
+                    "reading": "Buna felligeyalehu — neger gin siqwar sayichimiru yamtulign.",
+                    "translation": "I would like coffee — but please bring it without adding sugar."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (9.5.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "— ዛሬ ምሥር ወጥ አለ ወይ? — አይ፣ ዛሬ ምሥር ወጥ አልተዘጋጀም።",
+                    "reading": "— Zare misir wot alle wey? — Ay, zare misir wot altezeggajem.",
+                    "translation": "— Do you have lentil stew today? — No, lentil stew was not prepared today."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የገበያ ግብይት እና ምግቦች (Market Shopping and Cuisine)"
+                "For a successful market/restaurant interaction, remember the 4-question framework: (1) አለ ወይ? (Do you have it?) (2) ዋጋው ስንት ነው? (How much?) (3) ዝቅ ቢሆን? / ቢቀነስ? (Can it be lower?) (4) እሺ ልግዛ / ፈልጌያለሁ (Okay, I'll take it / I would like it). These four questions cover 90% of market and menu interactions."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "In Ethiopian restaurants, it is common for a single waiter to serve a large table by memory, without writing orders down. This means patience is valued — don't rush. The phrase ወዲያው ያምጣሉ (they will bring it right away) is often used even when it may take some time; it is a courtesy signal, not a promise of speed. Tipping (ጥቂት ስጡ, tiqit situ = 'give a little') is appreciated but not always expected, especially in smaller family-owned establishments."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የገበያ ግብይት እና ምግቦች (Market Shopping and Cuisine)» አጠቃቀም በደረጃ 5 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "ምን ዓረፍተ ነገር ተገቢ ነው — ሥጋ አትበሉ (vegetarian) ሰው ለሆኑ ሻጭ ሲጠይቁ?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (9.5.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (9.5.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (9.5.3)።"
+                        "ዶሮ ወጥ ይኑርልኝ — ሁሌ ዶሮ ወጥ እወዳለሁ።",
+                        "ሥጋ አልበላም — ሥጋ ያለሌለው ምናሌ አለ ወይ?",
+                        "ዋጋው ስንት ነው — ምሥር ወጥ ብዙ ቅመም አለው?"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "A vegetarian communicates their restriction with ሥጋ አልበላም (I do not eat meat — present negative) and then asks whether a meat-free option exists: ሥጋ ያለሌለው ምናሌ አለ ወይ? (Is there a menu without meat?). Option A requests doro wot (chicken — not vegetarian). Option C is a price inquiry combined with a question about spice level — not a vegetarian restriction statement."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ምግብ፣ ገበያ እና ግብይት (Cuisine, Markets & Commerce)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 5)፡",
+                    "prompt": "«እሺ ልግዛ» ምን ማለት ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (9.5.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (9.5.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (9.5.3)።"
+                        "Let me think about it — I'm not sure yet.",
+                        "Okay, I'll buy it. (Agreement to complete a purchase, often after bargaining)",
+                        "No, the price is still too high."
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "እሺ (eshi) = okay/agreed. ልግዛ = let me buy it / I will buy it (1sg jussive/voluntative of ገዛ 'to buy': ልግዛ = 'I'll buy'). Together: 'Okay, I'll buy it' — the verbal agreement to finalize a purchase after bargaining."
                 }
             ]
         },
@@ -5480,22 +5480,22 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የገበያ ግብይት እና ምግቦች (Market Shopping and Cuisine)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 9-5)?",
+                    "prompt": "ከዚህ ንግግር ውስጥ ትክክለኛ ቅርጽ ያለው የትኛው ነው?\nA: ምሥር ወጥ ____ ? (yes/no question: do you have?)\nB: አዎ፣ ዛሬ ምሥር ወጥ ____። (affirmative: there is)",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (9.5.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (9.5.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (9.5.3)።"
+                        "አለ ወይ? … አለ።",
+                        "ይኑር? … ነበር።",
+                        "አለ? … አይ።"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "Yes/no question: ምሥር ወጥ አለ ወይ? (Do you have lentil stew? — ወይ question particle). Affirmative answer: አዎ፣ ምሥር ወጥ አለ (Yes, there is lentil stew). Option B uses ይኑር? (imperative form, not a question) and ነበር (past tense 'there was'). Option C answers with አይ (no) in what is supposed to be an affirmative."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («እንጀራ_9_5»):",
+                    "prompt": "Type the Amharic phrase meaning 'I would like' / 'I want' (1sg present, when expressing a food/drink preference):",
                     "acceptedAnswers": [
-                        "እንጀራ_9_5"
+                        "ፈልጌያለሁ"
                     ],
-                    "explanation": "The target keyword was: 【እንጀራ_9_5】"
+                    "explanation": "ፈልጌያለሁ (felligeyalehu) = I want / I would like. From the verb ፈለገ (felege = to want/seek). The 1sg present continuous form: ፈልጌ + ያለሁ. Used to express food preferences: ቡና ፈልጌያለሁ (I would like coffee)."
                 }
             ]
         }
