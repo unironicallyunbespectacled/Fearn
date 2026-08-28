@@ -1492,63 +1492,82 @@
     },
     "am-u2-l1": {
         "id": "am-u2-l1",
-        "subject": "amharic",
-        "unit": 2,
-        "lessonNumber": 1,
-        "title": "መሰረታዊ ስሞች እና መስተፃምሮች (Basic Nouns & Articles) (Part 1)",
+        "unit": "am-u2",
         "level": "A1",
-        "objective": "Comprehensive mastery of የዕለት ተዕለት ቁሳቁሶች እና ስሞች (Everyday Nouns and Definiteness).",
+        "objective": "Form definite nouns using masculine (-ኡ / -ው) and feminine (-ዋ / -ይቱ) definite article suffixes.",
+        "prerequisites": [
+            "am-u1-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u1-l3",
+                "am-u1-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የዕለት ተዕለት ቁሳቁሶች እና ስሞች (Everyday Nouns and Definiteness) - ደረጃ 1) ተማሪዎች ስለ የዕለት ተዕለት ቁሳቁሶች እና ስሞች (Everyday Nouns and Definiteness) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "In Amharic, there is no separate word for 'the' (like English 'the' or Arabic 'al-'). Instead, definiteness is expressed by attaching a definite suffix directly to the end of the noun:\n\n1. Masculine Definite Suffix:\n- After a consonant: add -ኡ (-u). E.g., « ቤት » (bet - house) -> « ቤቱ » (betu - the house); « መጽሐፍ » (mets'haf - book) -> « መጽሐፉ » (mets'hafu - the book); « ወንበር » (wenber - chair) -> « ወንበሩ » (wenberu - the chair).\n- After a vowel: add -ው (-w). E.g., « ውሻ » (wusha - dog) -> « ውሻው » (wushaw - the dog); « ዶሮ » (doro - chicken) -> « ዶሮው » (dorow - the chicken).\n\n2. Feminine Definite Suffix:\n- Add -ዋ (-wa) or -ይቱ (-yitu / -itu). E.g., « ሴት » (set - woman) -> « ሴቷ » (setwa - the woman); « ድመት » (dimet - cat) -> « ድመቷ » (dimetwa - the cat); « ልጅ » (lij - child) -> « ልጁ » (liju - the boy) vs « ልጂቷ » (lijitu / lijwa - the girl).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየዕለት ተዕለት ቁሳቁሶች እና ስሞች (Everyday Nouns and Definiteness) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (2.1.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ቤቱ በጣም ትልቅ ነው።",
+                    "reading": "Betu beṭam tiliq new.",
+                    "translation": "The house is very big."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (2.1.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "መጽሐፉ ጠረጴዛው ላይ አለ።",
+                    "reading": "Mets'hafu t'erep'ezaw lay ale.",
+                    "translation": "The book is on the table."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (2.1.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ሴቷ ወደ ገበያ ሄደች።",
+                    "reading": "Setwa wede gebeya hedech.",
+                    "translation": "The woman went to the market."
+                },
+                {
+                    "target": "ውሻው በግቢው ውስጥ ይሮጣል።",
+                    "reading": "Wushaw begibiw wust' yiroṭal.",
+                    "translation": "The dog runs inside the compound."
+                },
+                {
+                    "target": "ልጂቷ ጎበዝ ተማሪ ናት።",
+                    "reading": "Lijitu gobez temari nat.",
+                    "translation": "The girl is a clever student."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የዕለት ተዕለት ቁሳቁሶች እና ስሞች (Everyday Nouns and Definiteness)"
+                "-U for him/masculine (Bet -> Bet-U), -WA for her/feminine (Set -> Set-WA)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "In Amharic, small, cute, or affectionate objects are frequently given the feminine definite suffix (-ዋ), whereas large or impressive things often take the masculine (-ኡ)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የዕለት ተዕለት ቁሳቁሶች እና ስሞች (Everyday Nouns and Definiteness)» አጠቃቀም በደረጃ 1 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "How do you make the masculine noun « ቤት » (house) definite ('the house')?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (2.1.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (2.1.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (2.1.3)።"
+                        "ቤቱ (Betu)",
+                        "ቤትዋ (Betwa)",
+                        "ቤቶች (Betoch)",
+                        "አንድ ቤት (And bet)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "Adding -ኡ (-u) to a consonant-ending noun forms the masculine definite: ቤቱ = the house."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«መሰረታዊ ስሞች እና መስተፃምሮች (Basic Nouns & Articles)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 1)፡",
+                    "prompt": "Which word means 'the woman' in Amharic?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (2.1.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (2.1.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (2.1.3)።"
+                        "ሴቷ (Setwa)",
+                        "ሴቱ (Setu)",
+                        "ሴቶች (Setoch)",
+                        "ሴትዬ (Setiye)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "« ሴት » (woman) takes the feminine definite suffix -ዋ (-wa) to become « ሴቷ » (the woman)."
                 }
             ]
         },
@@ -1556,85 +1575,108 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የዕለት ተዕለት ቁሳቁሶች እና ስሞች (Everyday Nouns and Definiteness)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 2-1)?",
+                    "prompt": "How do you say 'The book' in Amharic given « መጽሐፍ » (book)?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (2.1.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (2.1.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (2.1.3)።"
+                        "መጽሐፉ (Mets'hafu)",
+                        "መጽሐፏ",
+                        "መጽሐፎች",
+                        "መጽሐፌ"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "explanation": "መጽሐፉ is the masculine definite form."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («መጽሐፍ_2_1»):",
+                    "prompt": "Type the Amharic word for 'the house' in Fidel script (ቤቱ):",
                     "acceptedAnswers": [
-                        "መጽሐፍ_2_1"
+                        "ቤቱ",
+                        "betu",
+                        "Betu"
                     ],
-                    "explanation": "The target keyword was: 【መጽሐፍ_2_1】"
+                    "explanation": "ቤቱ (Betu) means 'the house'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u2-l2": {
         "id": "am-u2-l2",
-        "subject": "amharic",
-        "unit": 2,
-        "lessonNumber": 2,
-        "title": "መሰረታዊ ስሞች እና መስተፃምሮች (Basic Nouns & Articles) (Part 2)",
+        "unit": "am-u2",
         "level": "A1",
-        "objective": "Comprehensive mastery of የዕለት ተዕለት ቁሳቁሶች እና ስሞች (Everyday Nouns and Definiteness).",
+        "objective": "Count from 1 to 10 in Amharic (አንድ እስከ አስር) and use numbers with nouns.",
+        "prerequisites": [
+            "am-u2-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u2-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የዕለት ተዕለት ቁሳቁሶች እና ስሞች (Everyday Nouns and Definiteness) - ደረጃ 2) ተማሪዎች ስለ የዕለት ተዕለት ቁሳቁሶች እና ስሞች (Everyday Nouns and Definiteness) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Numbers in Amharic precede the noun they count. When counting objects, the noun following the number generally remains in the SINGULAR form (e.g., « ሦስት ቤት » = three house[s], not three houses):\n\n1. Numbers 1 to 10 (ቁጥሮች ከአንድ እስከ አስር):\n- 1 = አንድ (And)\n- 2 = ሁለት (Hulet)\n- 3 = ሦስት (Sost)\n- 4 = አራት (Arat)\n- 5 = አምስት (Amist)\n- 6 = ስድስት (Sidist)\n- 7 = ሰባት (Sebat)\n- 8 = ስምንት (Simint)\n- 9 = ዘጠኝ (Zet'egn)\n- 10 = አስር (Asir)\n\n2. Syntactic Rule: Number + Singular Noun:\n- « ሁለት ሰው » (Hulet sew) -> two people (literally: two person).\n- « አምስት ብር » (Amist birr) -> five birr (Ethiopian currency).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየዕለት ተዕለት ቁሳቁሶች እና ስሞች (Everyday Nouns and Definiteness) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (2.2.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "እኔ አንድ ወንድም እና ሁለት እህቶች አሉኝ።",
+                    "reading": "Ine and wondim ina hulet ihitoch alugn.",
+                    "translation": "I have one brother and two sisters."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (2.2.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ሦስት ቡና እባክዎ!",
+                    "reading": "Sost buna ibakwo!",
+                    "translation": "Three coffees, please!"
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (2.2.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ጠረጴዛው ላይ አራት መጻሕፍት አሉ።",
+                    "reading": "T'erep'ezaw lay arat mets'ahaft alu.",
+                    "translation": "There are four books on the table."
+                },
+                {
+                    "target": "ይህ ሻይ አምስት ብር ነው።",
+                    "reading": "Yih shay amist birr new.",
+                    "translation": "This tea is five birr."
+                },
+                {
+                    "target": "በሳምንት ውስጥ ሰባት ቀናት አሉ።",
+                    "reading": "Besamint wust' sebat qenat alu.",
+                    "translation": "There are seven days in a week."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የዕለት ተዕለት ቁሳቁሶች እና ስሞች (Everyday Nouns and Definiteness)"
+                "And (1), Hulet (2), Sost (3), Arat (4), Amist (5) — count on 5 fingers!",
+                "Sidist (6), Sebat (7), Simint (8), Zet'egn (9), Asir (10)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "The Ethiopian currency is the ብር (Birr). In traditional coffee houses (bunna bet), you order cups of coffee simply as « አንድ ቡና », « ሁለት ቡና »."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የዕለት ተዕለት ቁሳቁሶች እና ስሞች (Everyday Nouns and Definiteness)» አጠቃቀም በደረጃ 2 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "What is the Amharic word for the number 3 (three)?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (2.2.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (2.2.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (2.2.3)።"
+                        "ሦስት (Sost)",
+                        "ሁለት (Hulet)",
+                        "አራት (Arat)",
+                        "አንድ (And)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "« ሦስት » (Sost) is three."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«መሰረታዊ ስሞች እና መስተፃምሮች (Basic Nouns & Articles)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 2)፡",
+                    "prompt": "How do you say 'five birr' in Amharic?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (2.2.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (2.2.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (2.2.3)።"
+                        "አምስት ብር (Amist birr)",
+                        "ስድስት ብር",
+                        "አራት ብር",
+                        "አስር ብር"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "« አምስት » is 5 + « ብር » is currency = አምስት ብር."
                 }
             ]
         },
@@ -1642,85 +1684,108 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የዕለት ተዕለት ቁሳቁሶች እና ስሞች (Everyday Nouns and Definiteness)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 2-2)?",
+                    "prompt": "What number is « ሰባት » (Sebat) in Amharic?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (2.2.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (2.2.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (2.2.3)።"
+                        "6",
+                        "7 (Seven)",
+                        "8",
+                        "9"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "explanation": "« ሰባት » (Sebat) means 7."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («መጽሐፍ_2_2»):",
+                    "prompt": "Type the Amharic word for the number 1 (one) in Fidel script (አንድ):",
                     "acceptedAnswers": [
-                        "መጽሐፍ_2_2"
+                        "አንድ",
+                        "and",
+                        "And"
                     ],
-                    "explanation": "The target keyword was: 【መጽሐፍ_2_2】"
+                    "explanation": "አንድ (And) means 'one'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u2-l3": {
         "id": "am-u2-l3",
-        "subject": "amharic",
-        "unit": 2,
-        "lessonNumber": 3,
-        "title": "መሰረታዊ ስሞች እና መስተፃምሮች (Basic Nouns & Articles) (Part 3)",
+        "unit": "am-u2",
         "level": "A1",
-        "objective": "Comprehensive mastery of የዕለት ተዕለት ቁሳቁሶች እና ስሞች (Everyday Nouns and Definiteness).",
+        "objective": "Point to objects and people using proximal and distal demonstratives (ይህ / ይሄ, ይህቺ / ይህች, ያ, ያቺ, እነዚህ, እነዚያ).",
+        "prerequisites": [
+            "am-u2-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u2-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የዕለት ተዕለት ቁሳቁሶች እና ስሞች (Everyday Nouns and Definiteness) - ደረጃ 3) ተማሪዎች ስለ የዕለት ተዕለት ቁሳቁሶች እና ስሞች (Everyday Nouns and Definiteness) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Amharic demonstrative pronouns distinguish between distance (near vs. far), grammatical gender (masculine vs. feminine), and number (singular vs. plural):\n\n1. Proximal Demonstratives ('This / These' - ቅርብ):\n- Masculine: ይህ (Yih) or colloquial ይሄ (Yihe) -> 'this (m.)'. E.g., « ይህ ቤት » (yih bet - this house).\n- Feminine: ይህቺ (Yihchi) or ይህች (Yihch) -> 'this (f.)'. E.g., « ይህቺ ሴት » (yihchi set - this woman).\n- Plural (common gender): እነዚህ (Inezih) -> 'these'. E.g., « እነዚህ ሰዎች » (inezih sewoch - these people).\n\n2. Distal Demonstratives ('That / Those' - ሩቅ):\n- Masculine: ያ (Ya) -> 'that (m.)'. E.g., « ያ ተራራ » (ya terara - that mountain).\n- Feminine: ያቺ (Yachi) -> 'that (f.)'. E.g., « ያቺ መኪና » (yachi mekina - that car).\n- Plural (common gender): እነዚያ (Ineziya) -> 'those'. E.g., « እነዚያ ቤቶች » (ineziya betoch - those houses).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየዕለት ተዕለት ቁሳቁሶች እና ስሞች (Everyday Nouns and Definiteness) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (2.3.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ይህ መጽሐፍ በጣም አስደሳች ነው።",
+                    "reading": "Yih mets'haf beṭam asdesach new.",
+                    "translation": "This book is very interesting."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (2.3.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ይህቺ ልጅ የእኔ እህት ናት።",
+                    "reading": "Yihchi lij ye'ine ihit nat.",
+                    "translation": "This girl is my sister."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (2.3.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "እነዚህ ተማሪዎች ከአዲስ አበባ ናቸው።",
+                    "reading": "Inezih temariwoch ke'Addis Abeba nachew.",
+                    "translation": "These students are from Addis Ababa."
+                },
+                {
+                    "target": "ያ ሱቅ ዛሬ ክፍት ነው?",
+                    "reading": "Ya suq zare kift new?",
+                    "translation": "Is that shop open today?"
+                },
+                {
+                    "target": "ያቺ መኪና የማን ናት?",
+                    "reading": "Yachi mekina yeman nat?",
+                    "translation": "Whose is that car over there?"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የዕለት ተዕለት ቁሳቁሶች እና ስሞች (Everyday Nouns and Definiteness)"
+                "YIH = this (m), YIHCHI = this (f), INEZiH = these (plural)!",
+                "YA = that (m), YACHI = that (f), INEZIYA = those (plural)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "In everyday spoken Amharic, « ይሄ » (yihe) is commonly used colloquially for « ይህ » (yih). When pointing, it is polite to gesture with an open hand."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የዕለት ተዕለት ቁሳቁሶች እና ስሞች (Everyday Nouns and Definiteness)» አጠቃቀም በደረጃ 3 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "Which demonstrative means 'this' for a masculine noun like « ወንድም » (brother)?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (2.3.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (2.3.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (2.3.3)።"
+                        "ይህ (Yih / ይሄ)",
+                        "ይህቺ (Yihchi)",
+                        "ያቺ (Yachi)",
+                        "እነዚያ (Ineziya)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "« ይህ » (Yih) is the masculine singular proximal demonstrative ('this')."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«መሰረታዊ ስሞች እና መስተፃምሮች (Basic Nouns & Articles)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 3)፡",
+                    "prompt": "How do you say 'these books' in Amharic?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (2.3.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (2.3.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (2.3.3)።"
+                        "እነዚህ መጻሕፍት (Inezih mets'ahaft)",
+                        "ያ መጽሐፍ",
+                        "እነዚያ መጻሕፍት",
+                        "ይህቺ መጽሐፍ"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "« እነዚህ » means 'these' (plural near demonstrative)."
                 }
             ]
         },
@@ -1728,85 +1793,107 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የዕለት ተዕለት ቁሳቁሶች እና ስሞች (Everyday Nouns and Definiteness)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 2-3)?",
+                    "prompt": "What does « ያቺ መኪና » (Yachi mekina) mean?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (2.3.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (2.3.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (2.3.3)።"
+                        "This car (f.)",
+                        "That car (f. over there)",
+                        "These cars",
+                        "My car"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "« ያቺ » is the feminine distal demonstrative meaning 'that (over there)'."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («መጽሐፍ_2_3»):",
+                    "prompt": "Type the Amharic word for 'that (masculine)' in Fidel script (ያ):",
                     "acceptedAnswers": [
-                        "መጽሐፍ_2_3"
+                        "ያ",
+                        "ya",
+                        "Ya"
                     ],
-                    "explanation": "The target keyword was: 【መጽሐፍ_2_3】"
+                    "explanation": "ያ (Ya) means 'that' (masculine singular)."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u2-l4": {
         "id": "am-u2-l4",
-        "subject": "amharic",
-        "unit": 2,
-        "lessonNumber": 4,
-        "title": "መሰረታዊ ስሞች እና መስተፃምሮች (Basic Nouns & Articles) (Part 4)",
+        "unit": "am-u2",
         "level": "A1",
-        "objective": "Comprehensive mastery of የዕለት ተዕለት ቁሳቁሶች እና ስሞች (Everyday Nouns and Definiteness).",
+        "objective": "Form regular plural nouns using the suffix -ኦች (-och) or -ዎች (-woch), and recognize common irregular plurals.",
+        "prerequisites": [
+            "am-u2-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u2-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የዕለት ተዕለት ቁሳቁሶች እና ስሞች (Everyday Nouns and Definiteness) - ደረጃ 4) ተማሪዎች ስለ የዕለት ተዕለት ቁሳቁሶች እና ስሞች (Everyday Nouns and Definiteness) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "In Amharic, plural nouns are formed systematically by attaching a plural suffix:\n\n1. Regular Plural Formation:\n- After consonants: add -ኦች (-och). E.g., « ቤት » (bet - house) -> « ቤቶች » (betoch - houses); « ሰው » (sew - person) -> « ሰዎች » (sewoch - people); « ወንበር » (wenber - chair) -> « ወንበሮች » (wenberoch - chairs).\n- After vowels: add -ዎች (-woch). E.g., « ውሻ » (wusha - dog) -> « ውሾች / ውሻዎች » (wushoch / wushawoch - dogs); « ዶሮ » (doro - chicken) -> « ዶሮዎች » (dorowoch - chickens); « ከተማ » (ketema - city) -> « ከተሞች / ከተማዎች » (ketemoch / ketemawoch - cities).\n\n2. Plural Definite Combination:\n- When making a plural noun definite ('the houses'), add -ኡ (-u) after the plural suffix: « ቤቶች » (houses) + « -ኡ » -> « ቤቶቹ » (betochu - the houses); « ሰዎቹ » (sewochu - the people).\n\n3. Classical Ge'ez Broken Plural in Common Use:\n- « መጽሐፍ » (book) -> « መጻሕፍት » (mets'ahaft - books).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየዕለት ተዕለት ቁሳቁሶች እና ስሞች (Everyday Nouns and Definiteness) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (2.4.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "በአዲስ አበባ ውስጥ ብዙ አዳዲስ ቤቶች አሉ።",
+                    "reading": "Be'Addis Abeba wust' bizu addis betoch alu.",
+                    "translation": "There are many new houses in Addis Ababa."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (2.4.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ሰዎቹ በሰላም ተሰብስበው ይወያያሉ።",
+                    "reading": "Sewochu beselam tesebsibew yiweyeyalu.",
+                    "translation": "The people are gathered peacefully in discussion."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (2.4.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "እነዚህ ከተሞች በጣም ያማምራሉ!",
+                    "reading": "Inezih ketemoch beṭam yamamiralu!",
+                    "translation": "These cities are very beautiful!"
+                },
+                {
+                    "target": "ተማሪዎቹ አዳዲስ መጻሕፍትን ገዙ።",
+                    "reading": "Temariwochu addis mets'ahaftin gezu.",
+                    "translation": "The students bought new books."
+                },
+                {
+                    "target": "ውሾቹ በግቢው በር ላይ ቆመዋል።",
+                    "reading": "Wushochu begibiw ber lay qomewal.",
+                    "translation": "The dogs are standing at the compound gate."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የዕለት ተዕለት ቁሳቁሶች እና ስሞች (Everyday Nouns and Definiteness)"
+                "-OCH for plurals (Bet -> Bet-och), -OCHU for the plurals (Bet-och-u)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "If a number or quantity word precedes the noun (e.g. « አምስት ሰው »), the noun itself is often kept in the singular form in natural spoken speech."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የዕለት ተዕለት ቁሳቁሶች እና ስሞች (Everyday Nouns and Definiteness)» አጠቃቀም በደረጃ 4 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "How do you make the noun « ቤት » (house) plural ('houses')?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (2.4.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (2.4.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (2.4.3)።"
+                        "ቤቶች (Betoch)",
+                        "ቤቱ",
+                        "ቤትዋ",
+                        "ቤቴ"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "Adding -ኦች (-och) forms the regular plural: ቤቶች = houses."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«መሰረታዊ ስሞች እና መስተፃምሮች (Basic Nouns & Articles)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 4)፡",
+                    "prompt": "What is the meaning of « ሰዎቹ » (Sewochu)?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (2.4.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (2.4.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (2.4.3)።"
+                        "The people (plural definite)",
+                        "A person",
+                        "The house",
+                        "Those dogs"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "ሰው (person) + -ዎች (plural) + -ኡ (the) = ሰዎቹ (the people)."
                 }
             ]
         },
@@ -1814,85 +1901,109 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የዕለት ተዕለት ቁሳቁሶች እና ስሞች (Everyday Nouns and Definiteness)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 2-4)?",
+                    "prompt": "How do you say 'The houses' (plural definite) in Amharic?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (2.4.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (2.4.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (2.4.3)።"
+                        "ቤቶቹ (Betochu)",
+                        "ቤቶች",
+                        "ቤቱ",
+                        "ይህ ቤት"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "explanation": "ቤቶቹ combines the plural suffix -ኦች and the definite article -ኡ."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («መጽሐፍ_2_4»):",
+                    "prompt": "Type the Amharic plural suffix attached to consonant-ending nouns in Fidel script (-ኦች):",
                     "acceptedAnswers": [
-                        "መጽሐፍ_2_4"
+                        "ኦች",
+                        "och",
+                        "Och",
+                        "-ኦች"
                     ],
-                    "explanation": "The target keyword was: 【መጽሐፍ_2_4】"
+                    "explanation": "« ኦች » (-och) is the standard plural suffix."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u2-l5": {
         "id": "am-u2-l5",
-        "subject": "amharic",
-        "unit": 2,
-        "lessonNumber": 5,
-        "title": "መሰረታዊ ስሞች እና መስተፃምሮች (Basic Nouns & Articles) (Part 5)",
+        "unit": "am-u2",
         "level": "A1",
-        "objective": "Comprehensive mastery of የዕለት ተዕለት ቁሳቁሶች እና ስሞች (Everyday Nouns and Definiteness).",
+        "objective": "Synthesize nouns, definiteness, numbers, demonstratives, and plurals in complete, connected descriptive dialogues.",
+        "prerequisites": [
+            "am-u2-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u2-l3",
+                "am-u2-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የዕለት ተዕለት ቁሳቁሶች እና ስሞች (Everyday Nouns and Definiteness) - ደረጃ 5) ተማሪዎች ስለ የዕለት ተዕለት ቁሳቁሶች እና ስሞች (Everyday Nouns and Definiteness) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "In this Unit 2 Capstone lesson, we bring together all the core nominal building blocks of Amharic:\n\n1. Complete Nominal Phrase Synthesis:\n- Demonstrative + Number + Adjective + Noun + Definiteness: E.g., « እነዚህ ሦስት ትላልቅ ቤቶች » (These three big houses).\n- Existence with « አለ » (ale - there is / exists m.), « አለች » (alech - there is f.), « አሉ » (alu - there are pl.), and negation « የለም » (yelem - there is not), « የሉም » (yelum - there are not).\n\n2. Practical Conversational Dialogues:\n- Identifying objects, asking price and quantity in Ethiopian markets (መርካቶ Merkato).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየዕለት ተዕለት ቁሳቁሶች እና ስሞች (Everyday Nouns and Definiteness) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (2.5.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "A: ይህ መጽሐፍ ስንት ብር ነው? B: ያ መጽሐፍ ሃያ ብር ነው።",
+                    "reading": "A: Yih mets'haf sint birr new? B: Ya mets'haf haya birr new.",
+                    "translation": "A: How much is this book? B: That book is twenty birr."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (2.5.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "እነዚህ ሁለቱ ልጆች የእኔ ተማሪዎች ናቸው።",
+                    "reading": "Inezih huletu lijoch ye'ine temariwoch nachew.",
+                    "translation": "These two children are my students."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (2.5.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "በክፍሉ ውስጥ ስንት ወንበሮች አሉ?",
+                    "reading": "Bekiflu wust' sint wenberoch alu?",
+                    "translation": "How many chairs are there in the room?"
+                },
+                {
+                    "target": "አራት ትላልቅ ወንበሮች እና አንድ ጠረጴዛ አሉ።",
+                    "reading": "Arat tilaliq wenberoch ina and t'erep'eza alu.",
+                    "translation": "There are four large chairs and one table."
+                },
+                {
+                    "target": "ይቅርታ፣ እዚህ አቅራቢያ ጥሩ ሆቴል አለ?",
+                    "reading": "Yiqirta, izzih aqrabya t'iru hotel ale?",
+                    "translation": "Excuse me, is there a good hotel nearby here?"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የዕለት ተዕለት ቁሳቁሶች እና ስሞች (Everyday Nouns and Definiteness)"
+                "SYNTHESIS: Yih (Demonstrative) + Hulet (Number) + Betoch (Plural Noun) + Alu (Verb)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Addis Ababa's መርካቶ (Merkato) is recognized as the largest open-air marketplace in Africa, spanning square kilometers with thousands of stalls."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የዕለት ተዕለት ቁሳቁሶች እና ስሞች (Everyday Nouns and Definiteness)» አጠቃቀም በደረጃ 5 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "How do you ask 'How much is this?' in Amharic when shopping?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (2.5.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (2.5.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (2.5.3)።"
+                        "ይህ ስንት ብር ነው? (Yih sint birr new?)",
+                        "ስምህ ማን ነው?",
+                        "የት ነው?",
+                        "ደህና ነህ?"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "« ስንት » (sint) means 'how much/many'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«መሰረታዊ ስሞች እና መስተፃምሮች (Basic Nouns & Articles)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 5)፡",
+                    "prompt": "Translate: 'There are four books on the table.'",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (2.5.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (2.5.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (2.5.3)።"
+                        "ጠረጴዛው ላይ አራት መጻሕፍት አሉ።",
+                        "ይህ መጽሐፍ አንድ ብር ነው።",
+                        "መጽሐፉ የለም።",
+                        "ሁለት ሰዎች አሉ።"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "አራት (4) + መጻሕፍት (books) + አሉ።"
                 }
             ]
         },
@@ -1900,24 +2011,28 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የዕለት ተዕለት ቁሳቁሶች እና ስሞች (Everyday Nouns and Definiteness)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 2-5)?",
+                    "prompt": "What does the question word « ስንት? » (Sint?) mean in Amharic?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (2.5.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (2.5.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (2.5.3)።"
+                        "How much? / How many?",
+                        "Where?",
+                        "When?",
+                        "Why?"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "« ስንት » (Sint) asks for quantity or price."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («መጽሐፍ_2_5»):",
+                    "prompt": "Type the Amharic verb for 'there is / exists (m.)' in Fidel script (አለ):",
                     "acceptedAnswers": [
-                        "መጽሐፍ_2_5"
+                        "አለ",
+                        "ale",
+                        "Ale"
                     ],
-                    "explanation": "The target keyword was: 【መጽሐፍ_2_5】"
+                    "explanation": "አለ (Ale) means 'there is / exists'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u3-l1": {
