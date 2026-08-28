@@ -3124,63 +3124,82 @@
     },
     "am-u5-l1": {
         "id": "am-u5-l1",
-        "subject": "amharic",
-        "unit": 5,
-        "lessonNumber": 1,
-        "title": "የቀድሞ ጊዜ ግስ እና ታሪክ (Simple Past Tense Narratives) (Part 1)",
+        "unit": "am-u5",
         "level": "A1",
-        "objective": "Comprehensive mastery of ያለፈ ጊዜ ድርጊቶች (Past Tense Narration).",
+        "objective": "Form simple past tense verbs in Amharic (perfective aspect) for common action verbs across all persons.",
+        "prerequisites": [
+            "am-u4-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u4-l1",
+                "am-u4-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ያለፈ ጊዜ ድርጊቶች (Past Tense Narration) - ደረጃ 1) ተማሪዎች ስለ ያለፈ ጊዜ ድርጊቶች (Past Tense Narration) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Amharic past tense (perfective) is formed by modifying the verb stem and adding person-marking suffixes. Unlike the present, the past tense removes the habitual -አል ending.\n\n1. Key Past Tense Conjugation — « ሄደ » (hede - went) from « መሄድ »:\n- I went: ሄድኩ (hedku)\n- You went (m.): ሄድክ (hedik)\n- You went (f.): ሄድሽ (hedish)\n- He went: ሄደ (hede)\n- She went: ሄደች (hedech)\n- We went: ሄድን (hedin)\n- You went (pl.): ሄዳችሁ (hedachihu)\n- They went: ሄዱ (hedu)\n\n2. Past Tense Negation: አልሄድኩም / አልሄደም:\n- Prefix አል- + stem + person + suffix -ም",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የያለፈ ጊዜ ድርጊቶች (Past Tense Narration) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (5.1.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ዳዊት ትናንት ወደ ገበያ ሄደ።",
+                    "reading": "Dawit tinant wede gebeya hede.",
+                    "translation": "Dawit went to the market yesterday."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (5.1.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "እኛ ባለፈው ሳምንት አዲስ አበባ ሄድን።",
+                    "reading": "Igna balfew samint Addis Abeba hedin.",
+                    "translation": "We went to Addis Ababa last week."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (5.1.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "አልማዝ ትምህርት ቤት ሄደች ትናንት?",
+                    "reading": "Almaz timihirt bet hedech tinant?",
+                    "translation": "Did Almaz go to school yesterday?"
+                },
+                {
+                    "target": "አዎ፣ ሄደች። ቶሎ ሄደች።",
+                    "reading": "Awo, hedech. Tolo hedech.",
+                    "translation": "Yes, she went. She went quickly."
+                },
+                {
+                    "target": "አልሄድኩም — ታምሜ ነበር።",
+                    "reading": "Alhedkum — tamme neber.",
+                    "translation": "I did not go — I was sick."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ያለፈ ጊዜ ድርጊቶች (Past Tense Narration)"
+                "Amharic past: He went = HEDE (bare stem!); I went = HED-KU; We went = HED-IN!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Gondar (ጎንደር) was the capital of the Ethiopian Empire from the 17th to 19th century. It still houses the famous « ፋሲለደስ ቤተ-ምኅረት » (Fasilides Castle). Saying « ጎንደር ሄድኩ » (I went to Gondar) evokes rich historical imagery."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ያለፈ ጊዜ ድርጊቶች (Past Tense Narration)» አጠቃቀም በደረጃ 1 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "How do you say 'He went to school' in Amharic past tense?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (5.1.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (5.1.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (5.1.3)።"
+                        "ትምህርት ቤት ሄደ። (Timihirt bet hede.)",
+                        "ትምህርት ቤት ይሄዳል።",
+                        "ትምህርት ቤት ሄድኩ።",
+                        "ትምህርት ቤት ሄዱ።"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "3rd masculine singular past: ሄደ (hede = he went)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የቀድሞ ጊዜ ግስ እና ታሪክ (Simple Past Tense Narratives)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 1)፡",
+                    "prompt": "What does « አልሄድኩም » (Alhedkum) mean?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (5.1.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (5.1.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (5.1.3)።"
+                        "I did not go",
+                        "He did not go",
+                        "They did not go",
+                        "We did not go"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "አል- + ሄድ + -ኩ (1st sg.) + -ም (neg.) = I did not go."
                 }
             ]
         },
@@ -3188,85 +3207,107 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ያለፈ ጊዜ ድርጊቶች (Past Tense Narration)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 5-1)?",
+                    "prompt": "Which sentence means 'We went to Addis Ababa last week'?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (5.1.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (5.1.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (5.1.3)።"
+                        "ባለፈው ሳምንት አዲስ አበባ ሄድን። (Balfew samint Addis Abeba hedin.)",
+                        "ዛሬ አዲስ አበባ እንሄዳለን።",
+                        "አዲስ አበባ አልሄድንም።",
+                        "ባለፈው ሳምንት ሄዱ።"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "explanation": "1st person plural past: ሄድን (hedin = we went)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ሄደ_5_1»):",
+                    "prompt": "Type the Amharic past tense of 'he went' in Fidel script (ሄደ):",
                     "acceptedAnswers": [
-                        "ሄደ_5_1"
+                        "ሄደ",
+                        "hede",
+                        "Hede"
                     ],
-                    "explanation": "The target keyword was: 【ሄደ_5_1】"
+                    "explanation": "ሄደ (hede) = he went."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u5-l2": {
         "id": "am-u5-l2",
-        "subject": "amharic",
-        "unit": 5,
-        "lessonNumber": 2,
-        "title": "የቀድሞ ጊዜ ግስ እና ታሪክ (Simple Past Tense Narratives) (Part 2)",
+        "unit": "am-u5",
         "level": "A1",
-        "objective": "Comprehensive mastery of ያለፈ ጊዜ ድርጊቶች (Past Tense Narration).",
+        "objective": "Use past tense with common daily verbs: ጠጣ (drank), በላ (ate), ተኛ (slept), ሰራ (worked), ተናገረ (spoke), ወሰደ (took), ፃፈ (wrote).",
+        "prerequisites": [
+            "am-u5-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u5-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ያለፈ ጊዜ ድርጊቶች (Past Tense Narration) - ደረጃ 2) ተማሪዎች ስለ ያለፈ ጊዜ ድርጊቶች (Past Tense Narration) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Expanding past tense vocabulary with high-frequency daily action verbs:\n\n1. Core Daily Verbs in Past Tense (3rd m. singular as reference form):\n- ጠጣ (t'et'a) = drank (from መጠጣት)\n- በላ (bela) = ate (from መብላት)\n- ተኛ (tegna) = slept (from መተኛት)\n- ሰራ (sera) = worked (from መስራት)\n- ተናገረ (tenagere) = spoke (from መናገር)\n- ወሰደ (wesede) = took (from መውሰድ)\n- ጻፈ (ts'afe) = wrote (from መጻፍ)\n- ሸመተ (shemete) = shopped (from ሸመቻ)\n\n2. Time Markers:\n- ትናንት (tinant) = yesterday\n- ዛሬ (zare) = today\n- ትናንት ማታ (tinant mata) = last night\n- ባለፈው ሳምንት (balfew samint) = last week",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የያለፈ ጊዜ ድርጊቶች (Past Tense Narration) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (5.2.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ሳሙኤል ትናንት ማታ ስምንት ሰዓት ተኛ።",
+                    "reading": "Samuel tinant mata simint sehat tegna.",
+                    "translation": "Samuel slept at 8 o'clock last night."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (5.2.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "እናቴ ዛሬ ጠዋት ምሳ ሰራች።",
+                    "reading": "Inate zare t'ewat misa serach.",
+                    "translation": "My mother cooked lunch early this morning."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (5.2.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ዘካርያስ ለቀሪ ሰዎቹ ደብዳቤ ጻፈ።",
+                    "reading": "Zekaryas leqeri sewoch debtabe ts'afe.",
+                    "translation": "Zekaryas wrote a letter to the rest of the people."
+                },
+                {
+                    "target": "ልጆቹ ሦስት ቡና ጠጡ — ብዙ ነው!",
+                    "reading": "Lijochu sost buna t'et'u — bizu new!",
+                    "translation": "The children drank three coffees — that is a lot!"
+                },
+                {
+                    "target": "አቶ ሙሉጌታ ትናንት ቢሮ ሰርቶ ቶሎ ሄደ።",
+                    "reading": "Ato Mulegeta tinant biro serto tolo hede.",
+                    "translation": "Ato Mulegeta worked at the office yesterday and left quickly."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ያለፈ ጊዜ ድርጊቶች (Past Tense Narration)"
+                "Past daily verbs: BELA=ate, T'ET'A=drank, TEGNA=slept, SERA=worked, TS'AFE=wrote!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "In Ethiopian tradition, letter-writing (ደብዳቤ debdabe) holds great cultural weight — public scribes (ጸሓፊ ts'ehafi) at post offices still help illiterate citizens write formal letters, preserving this tradition."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ያለፈ ጊዜ ድርጊቶች (Past Tense Narration)» አጠቃቀም በደረጃ 2 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "How do you say 'She ate injera yesterday' in Amharic?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (5.2.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (5.2.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (5.2.3)።"
+                        "ትናንት እንጀራ በላች። (Tinant injera belach.)",
+                        "ትናንት እንጀራ ትበላለች።",
+                        "ዛሬ እንጀራ ትበላለች።",
+                        "ትናንት እንጀራ አልበላችም።"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "3rd feminine singular past: በላች (belach = she ate)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የቀድሞ ጊዜ ግስ እና ታሪክ (Simple Past Tense Narratives)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 2)፡",
+                    "prompt": "What is the Amharic past tense of 'worked' (3rd m. singular)?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (5.2.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (5.2.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (5.2.3)።"
+                        "ሰራ (Sera)",
+                        "ሰርቷ",
+                        "ይሰራል",
+                        "ሰርቻለሁ"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "ሰራ (sera) is the 3rd masculine singular past tense of 'to work'."
                 }
             ]
         },
@@ -3274,85 +3315,108 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ያለፈ ጊዜ ድርጊቶች (Past Tense Narration)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 5-2)?",
+                    "prompt": "Which sentence means 'The children drank coffee' in Amharic?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (5.2.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (5.2.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (5.2.3)።"
+                        "ልጆቹ ቡና ጠጡ። (Lijochu buna t'et'u.)",
+                        "ልጆቹ ቡና ይጠጣሉ።",
+                        "ልጆቹ ቡና አይጠጡም።",
+                        "ልጆቹ ቡና ጠጣ።"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "3rd person plural past: ጠጡ (t'et'u = they drank)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ሄደ_5_2»):",
+                    "prompt": "Type the Amharic past tense verb for 'he/she wrote' (3rd m.) in Fidel script (ጻፈ):",
                     "acceptedAnswers": [
-                        "ሄደ_5_2"
+                        "ጻፈ",
+                        "ts'afe",
+                        "Ts'afe"
                     ],
-                    "explanation": "The target keyword was: 【ሄደ_5_2】"
+                    "explanation": "ጻፈ (ts'afe) = he wrote."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u5-l3": {
         "id": "am-u5-l3",
-        "subject": "amharic",
-        "unit": 5,
-        "lessonNumber": 3,
-        "title": "የቀድሞ ጊዜ ግስ እና ታሪክ (Simple Past Tense Narratives) (Part 3)",
+        "unit": "am-u5",
         "level": "A1",
-        "objective": "Comprehensive mastery of ያለፈ ጊዜ ድርጊቶች (Past Tense Narration).",
+        "objective": "Express past experiences and feelings using the copula ነበር (neber - was/were) and link two past events with conjunctions ስለዚህ (therefore), ከዚያም (then/after that), እና (and).",
+        "prerequisites": [
+            "am-u5-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u5-l1",
+                "am-u5-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ያለፈ ጊዜ ድርጊቶች (Past Tense Narration) - ደረጃ 3) ተማሪዎች ስለ ያለፈ ጊዜ ድርጊቶች (Past Tense Narration) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "In Amharic, past state and existence are expressed using « ነበር » (neber - was/were):\n\n1. Copula ነበር (was/were):\n- I was: ነበርኩ (neberku) or colloquial ነበርኩ\n- He was: ነበር (neber)\n- She was: ነበረች (neberech)\n- They were: ነበሩ (neberu)\n- Was there?: ነበር ወይ? (neber wey?)\n\n2. Linking Past Events:\n- ስለዚህ (silezih) = therefore/so\n- ከዚያም (keziyam) = then after that\n- ከፊት (kefit) = before / first\n- ከዚያ በኋላ (keziya behwala) = after that\n- ሆኖም (honom) = however",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የያለፈ ጊዜ ድርጊቶች (Past Tense Narration) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (5.3.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ትናንት ታምሜ ነበር ፤ ስለዚህ ትምህርት ቤት አልሄድኩም።",
+                    "reading": "Tinant tamme neber; silezih timihirt bet alhedkum.",
+                    "translation": "Yesterday I was sick; therefore I did not go to school."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (5.3.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ዳዊት ቀደም ብሎ ሄደ ፤ ከዚያም ቤቱ ደረሰ።",
+                    "reading": "Dawit qedem blo hede; keziyam betu derese.",
+                    "translation": "Dawit left early; then he arrived home."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (5.3.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ምሳ ቀደም ሰራን ፤ ከዚያ በኋላ አብረን በላን።",
+                    "reading": "Misa qedem seran; keziya behwala abren belan.",
+                    "translation": "We cooked lunch first; after that we ate together."
+                },
+                {
+                    "target": "ሆቴሉ ቅርብ ነበር ፤ ሆኖም ብዙ ሰዎች ስለነበሩ አልደረስንም።",
+                    "reading": "Hotelu qirb neber; honom bizu sewoch sileneberu alderesnim.",
+                    "translation": "The hotel was nearby; however there were many people so we did not arrive."
+                },
+                {
+                    "target": "እሷ ደህና ነበረች? — አዎ፣ ደህና ነበረች።",
+                    "reading": "Iswa dehna neberech? — Awo, dehna neberech.",
+                    "translation": "Was she well? — Yes, she was well."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ያለፈ ጊዜ ድርጊቶች (Past Tense Narration)"
+                "NEBER = was/were (past copula); SILEZIH = therefore; KEZIYAM = then after that!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "When sharing meals (a core Ethiopian social act), it is polite to say « ጀምረህ ብላ » (jemreh bila - please start/eat m.) to invite others. Eating alone is considered unfortunate — community dining is the norm."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ያለፈ ጊዜ ድርጊቶች (Past Tense Narration)» አጠቃቀም በደረጃ 3 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "How do you say 'Yesterday I was sick' in Amharic?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (5.3.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (5.3.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (5.3.3)።"
+                        "ትናንት ታምሜ ነበር። (Tinant tamme neber.)",
+                        "ዛሬ ታምሜ ነበር።",
+                        "ትናንት ደህና ነበርኩ።",
+                        "ትናንት ታምሜ ነኝ።"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "ትናንት (yesterday) + ታምሜ (sick) + ነበር (was)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የቀድሞ ጊዜ ግስ እና ታሪክ (Simple Past Tense Narratives)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 3)፡",
+                    "prompt": "What does « ስለዚህ » (Silezih) mean in Amharic?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (5.3.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (5.3.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (5.3.3)።"
+                        "Therefore / So",
+                        "However",
+                        "Before",
+                        "After that"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "« ስለዚህ » (silezih) = therefore/so — used to express logical consequence."
                 }
             ]
         },
@@ -3360,85 +3424,108 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ያለፈ ጊዜ ድርጊቶች (Past Tense Narration)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 5-3)?",
+                    "prompt": "Which Amharic conjunction means 'then/after that'?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (5.3.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (5.3.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (5.3.3)።"
+                        "ከዚያም (Keziyam)",
+                        "ስለዚህ (Silezih)",
+                        "ሆኖም (Honom)",
+                        "ወይስ (Weyis)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "« ከዚያም » (keziyam) = then/after that."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ሄደ_5_3»):",
+                    "prompt": "Type the Amharic past copula 'was/were' in Fidel script (ነበር):",
                     "acceptedAnswers": [
-                        "ሄደ_5_3"
+                        "ነበር",
+                        "neber",
+                        "Neber"
                     ],
-                    "explanation": "The target keyword was: 【ሄደ_5_3】"
+                    "explanation": "ነበር (neber) = was/were."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u5-l4": {
         "id": "am-u5-l4",
-        "subject": "amharic",
-        "unit": 5,
-        "lessonNumber": 4,
-        "title": "የቀድሞ ጊዜ ግስ እና ታሪክ (Simple Past Tense Narratives) (Part 4)",
+        "unit": "am-u5",
         "level": "A1",
-        "objective": "Comprehensive mastery of ያለፈ ጊዜ ድርጊቶች (Past Tense Narration).",
+        "objective": "Ask WH-questions in the past tense: ምን አደረጉ? (What did they do?), ወዴት ሄዱ? (Where did they go?), ማን ጠጣ? (Who drank?), መቼ መጡ? (When did they arrive?).",
+        "prerequisites": [
+            "am-u5-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u4-l4",
+                "am-u5-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ያለፈ ጊዜ ድርጊቶች (Past Tense Narration) - ደረጃ 4) ተማሪዎች ስለ ያለፈ ጊዜ ድርጊቶች (Past Tense Narration) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Combining past tense verbs with WH-question words from Unit 4:\n\n1. Past WH-Question Patterns:\n- ምን + past verb + (subject)? = What did ... do?\n- ወዴት + past verb? = Where did ... go?\n- ማን + past verb? = Who did ...?\n- መቼ + past verb? = When did ... ?\n- ስንት + past verb? = How many did ...?\n- ለምን + past negative? = Why did ... not ...?\n\n2. Sample Q&A Pairs:\n- Q: ዳዊት ትናንት ምን አደረገ? (Dawit tinant min aderege? - What did Dawit do yesterday?)\n- A: ወደ ሱቁ ሄዶ ፍራፍሬ ወሰደ። (Wede suqu hedo firafre wesede. - He went to the shop and took fruit.)",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የያለፈ ጊዜ ድርጊቶች (Past Tense Narration) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (5.4.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ትናንት ምን ሰሩ? — ፕሮጀክቱን ጨረሱ።",
+                    "reading": "Tinant min seru? — P'irojeketun chereshu.",
+                    "translation": "What did they work on yesterday? — They finished the project."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (5.4.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "አልማዝ ወዴት ሄደች? — ወደ ሆስፒታሉ ሄደች።",
+                    "reading": "Almaz wedet hedech? — Wede hospitallu hedech.",
+                    "translation": "Where did Almaz go? — She went to the hospital."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (5.4.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ምሳ ማን ሰራ? — እናቴ ሰራችው።",
+                    "reading": "Misa man serach? — Inate serachw.",
+                    "translation": "Who cooked lunch? — My mother cooked it."
+                },
+                {
+                    "target": "መቼ ደረሱ? — ሰዓቱ አምስት ሲሆን ደረሱ።",
+                    "reading": "Meche deresu? — Seahtu amist sihon deresu.",
+                    "translation": "When did they arrive? — They arrived when it was 5 o'clock."
+                },
+                {
+                    "target": "ለምን አልሄዱም? — ዝናቡ ስለወረደ።",
+                    "reading": "Lemin alhedum? — Zinabbu silewerede.",
+                    "translation": "Why did they not go? — Because the rain fell."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ያለፈ ጊዜ ድርጊቶች (Past Tense Narration)"
+                "Past WH-Questions: MIN + PAST VERB (what did?) + WEDET + PAST (where went?) + MAN + PAST (who did?)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Ethiopia has two rainy seasons: ክረምት (kirem) the main rainy season June-September, and ቤልጋ (belga) the short rains. When rain comes (ዝናብ ወረደ zinab werede), many social activities halt and people stay home — hence 'why did they not go? because of rain' is a very natural answer!"
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ያለፈ ጊዜ ድርጊቶች (Past Tense Narration)» አጠቃቀም በደረጃ 4 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "How do you ask 'Where did Dawit go?' in Amharic?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (5.4.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (5.4.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (5.4.3)።"
+                        "ዳዊት ወዴት ሄደ? (Dawit wedet hede?)",
+                        "ዳዊት የት ነው?",
+                        "ዳዊት ወዴት ይሄዳል?",
+                        "ዳዊት ወዴት ሄዱ?"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "ወዴት (where to) + ሄደ (he went, past) = where did he go?"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የቀድሞ ጊዜ ግስ እና ታሪክ (Simple Past Tense Narratives)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 4)፡",
+                    "prompt": "Translate: 'Why did they not come?' in Amharic.",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (5.4.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (5.4.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (5.4.3)።"
+                        "ለምን አልመጡም? (Lemin almet'um?)",
+                        "ለምን አይመጡም?",
+                        "ለምን አልሄዱም?",
+                        "ወዴት አልሄዱም?"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "ለምን (why) + አልመጡም (they did not come, past negative)."
                 }
             ]
         },
@@ -3446,85 +3533,108 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ያለፈ ጊዜ ድርጊቶች (Past Tense Narration)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 5-4)?",
+                    "prompt": "What does « ምን ሰሩ? » (Min seru?) mean in Amharic?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (5.4.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (5.4.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (5.4.3)።"
+                        "What did they do/work?",
+                        "What are they doing?",
+                        "Why did they work?",
+                        "Who worked?"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "explanation": "ምን (what) + ሰሩ (they worked/did, past plural) = What did they do?"
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ሄደ_5_4»):",
+                    "prompt": "Type the Amharic for 'When?' in Fidel script (መቼ):",
                     "acceptedAnswers": [
-                        "ሄደ_5_4"
+                        "መቼ",
+                        "meche",
+                        "Meche"
                     ],
-                    "explanation": "The target keyword was: 【ሄደ_5_4】"
+                    "explanation": "መቼ (meche) = When?"
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u5-l5": {
         "id": "am-u5-l5",
-        "subject": "amharic",
-        "unit": 5,
-        "lessonNumber": 5,
-        "title": "የቀድሞ ጊዜ ግስ እና ታሪክ (Simple Past Tense Narratives) (Part 5)",
+        "unit": "am-u5",
         "level": "A1",
-        "objective": "Comprehensive mastery of ያለፈ ጊዜ ድርጊቶች (Past Tense Narration).",
+        "objective": "Synthesize past tense narration in a complete biographical micro-story (A1 narrative) covering a person's yesterday from morning to night.",
+        "prerequisites": [
+            "am-u5-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u5-l2",
+                "am-u5-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ያለፈ ጊዜ ድርጊቶች (Past Tense Narration) - ደረጃ 5) ተማሪዎች ስለ ያለፈ ጊዜ ድርጊቶች (Past Tense Narration) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "In this Unit 5 Capstone lesson, we construct a complete past-tense narrative about one person's day (yesterday), using all the past tense verbs, ነበር, conjunctions, and question types from this unit:\n\n1. Narrative Structure (A1):\n- MORNING: Got up, drank coffee, went to work\n- AFTERNOON: Ate lunch, spoke with colleagues\n- EVENING: Returned home, wrote a letter, slept\n\n2. Key Storytelling Connectors Reviewed:\n- ቀደም ብሎ (qedem blo) = early / first\n- ከዚያ በኋላ (keziya behwala) = after that\n- ስለዚህ (silezih) = therefore\n- ሁሉ (hulu) = all / everything\n- ትናንት ሙሉ ቀን (tinant mulu qen) = all day yesterday",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የያለፈ ጊዜ ድርጊቶች (Past Tense Narration) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (5.5.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ሳሙኤል ትናንት ጠዋት ተነስቶ ቡና ጠጣ ፤ ከዚያ ወደ ቢሮ ሄደ።",
+                    "reading": "Samuel tinant t'ewat tenesto buna t'et'a; keziya wede biro hede.",
+                    "translation": "Yesterday morning Samuel got up, drank coffee, then went to the office."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (5.5.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ቀትር ሥጋ ወጥ ደርቆ ምሳ በላ — ጣፈጠው።",
+                    "reading": "Qet'ir siga wet' derqo misa bela — t'afet'ew.",
+                    "translation": "At noon he ate a lunch of dried beef stew — it was delicious."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (5.5.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ምሽት ቤቱ ሲደርስ ደደስ ተሰማው ፤ ስለዚህ ቶሎ ተኛ።",
+                    "reading": "Mishit betu sideris dedes teseamaw; silezih tolo tegna.",
+                    "translation": "When he arrived home in the evening he felt tired; therefore he slept quickly."
+                },
+                {
+                    "target": "ሳምኤልን ትናንት ምን አደረጋቸሁ? — አብረን ምሳ በላን።",
+                    "reading": "Samuel tinant min aderegallechihu? — Abren misa belan.",
+                    "translation": "What did you all do with Samuel yesterday? — We ate lunch together."
+                },
+                {
+                    "target": "ትናንት ሙሉ ቀን ደህና ነበር ፤ ሆኖም ማታ ዝናብ ወረደ።",
+                    "reading": "Tinant mulu qen dehna neber; honom mata zinab werede.",
+                    "translation": "Yesterday the whole day was fine; however in the evening the rain came down."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ያለፈ ጊዜ ድርጊቶች (Past Tense Narration)"
+                "A1 NARRATIVE: MORNING (ጠዋት) + NOON (ቀትር) + EVENING (ምሽት) — link with KEZIYA BEHWALA (after that)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "ሥጋ ወጥ (siga wet') is Ethiopia's iconic beef stew — served on injera, cooked with berbere spice blend (berberé) which can contain over 15 spices. It is the dish most associated with festive eating in Addis Ababa restaurants and family gatherings."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ያለፈ ጊዜ ድርጊቶች (Past Tense Narration)» አጠቃቀም በደረጃ 5 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "Which sentence correctly narrates 'He got up, drank coffee, then went to the office' in Amharic?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (5.5.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (5.5.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (5.5.3)።"
+                        "ተነስቶ ቡና ጠጣ ፤ ከዚያ ወደ ቢሮ ሄደ። (Tenesto buna t'et'a; keziya wede biro hede.)",
+                        "ቡና ጠጥቶ ቀደም ወደ ቢሮ ሄደ።",
+                        "ከቢሮ ሄዶ ቡና ጠጣ።",
+                        "ቢሮ ወደ ሄዶ ቡና ጠጣ ፤ ከዚያ ተኛ።"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "ተነስቶ (having gotten up) + ቡና ጠጣ (drank coffee) + ከዚያ (then) + ቢሮ ሄደ (went to office)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የቀድሞ ጊዜ ግስ እና ታሪክ (Simple Past Tense Narratives)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 5)፡",
+                    "prompt": "Translate: 'Yesterday the whole day was fine; however in the evening the rain came down.'",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (5.5.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (5.5.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (5.5.3)።"
+                        "ትናንት ሙሉ ቀን ደህና ነበር ፤ ሆኖም ማታ ዝናብ ወረደ። (Tinant mulu qen dehna neber; honom mata zinab werede.)",
+                        "ዝናቡ ቀደም ወረደ ፤ ስለዚህ ደህና አልነበረም።",
+                        "ዛሬ ሙሉ ቀን ዝናብ ወረደ ፤ ሆኖም ደህና ነበር።",
+                        "ትናንት ዝናብ ስለወረደ ፤ ሙሉ ቀን ቤት ቆይን።"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "ሙሉ ቀን ደህና ነበር (whole day was fine) + ሆኖም (however) + ዝናብ ወረደ (rain came down)."
                 }
             ]
         },
@@ -3532,24 +3642,28 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ያለፈ ጊዜ ድርጊቶች (Past Tense Narration)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 5-5)?",
+                    "prompt": "Which Amharic conjunction means 'however'?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (5.5.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (5.5.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (5.5.3)።"
+                        "ሆኖም (Honom)",
+                        "ስለዚህ (Silezih)",
+                        "ከዚያም (Keziyam)",
+                        "እና (Ina)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "« ሆኖም » (honom) = however/nevertheless."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ሄደ_5_5»):",
+                    "prompt": "Type the Amharic word for 'all/whole' in Fidel script (ሙሉ):",
                     "acceptedAnswers": [
-                        "ሄደ_5_5"
+                        "ሙሉ",
+                        "mulu",
+                        "Mulu"
                     ],
-                    "explanation": "The target keyword was: 【ሄደ_5_5】"
+                    "explanation": "ሙሉ (mulu) = all/whole."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u6-l1": {
