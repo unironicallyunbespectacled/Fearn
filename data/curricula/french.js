@@ -4626,62 +4626,80 @@
         "id": "fr-u9-l1",
         "unit": "fr-u9",
         "level": "A2",
-        "objective": "Contrast passé composé (completed foreground action) vs imparfait (continuous background setting) in narrative.",
+        "objective": "Form the imparfait using the present nous-stem plus imparfait endings (-ais, -ais, -ait, -ions, -iez, -aient) and identify its descriptive aspect.",
         "prerequisites": [
             "fr-u8-l5"
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u8-l5"
+            ]
         },
         "presentation": {
-            "explanation": "Comprehensive presentation of Passé Composé vs Imparfait : Règle Fondamentale. In French grammar, mastering passé composé vs imparfait : règle fondamentale is vital for fluid sentence connection, precise discourse organization, and natural communication.",
+            "explanation": "L'Imparfait (the imperfect tense) is the past tense of description, ongoing background conditions, habitual past routines, and emotional/physical states. Unlike the passé composé (which marks complete, punctuated past events with definite beginnings and ends), the imparfait views past actions as ongoing processes without focusing on completion.\n\nFORMATION RULE:\n1. Take the 1st person plural (nous) conjugation of the PRESENT indicative.\n2. Drop the '-ons' ending to find the IMPARFAIT STEM.\n3. Add the universal imparfait endings to the stem for all three verb groups:\n   - je: -ais\n   - tu: -ais\n   - il / elle / on: -ait\n   - nous: -ions\n   - vous: -iez\n   - ils / elles: -aient\n\nExamples:\n- parler -> nous parlons -> stem: parl- -> je parlais, nous parlions, ils parlaient\n- finir -> nous finissons -> stem: finiss- -> je finissais, nous finissions, ils finissaient\n- vendre -> nous vendons -> stem: vend- -> je vendais, nous vendions, ils vendaient\n- faire -> nous faisons -> stem: fais- [pronounced /fəz-/] -> je faisais, nous faisions\n\nONLY ONE IRREGULAR STEM IN ALL OF FRENCH:\n- The verb ÊTRE is the only verb with an irregular imparfait stem: ét- (j'étais, tu étais, il était, nous étions, vous étiez, ils étaient).",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Quand j'étais enfant, nous habitions dans un petit village de campagne.",
+                    "reading": "kahn zhay-teh ahn-fahn, noo zah-bee-tyohn dahnz uhn puh-tee vee-lahzh duh kahn-tahn-nyuh",
+                    "translation": "When I was a child, we used to live in a small countryside village."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Le ciel était sombre et il pleuvait sans interruption sur la ville.",
+                    "reading": "luh syel ay-teh sohn-bruh ay eel pluh-veh sahn zan-teh-roop-syohn soor lah veel",
+                    "translation": "The sky was dark and it was raining without interruption over the city."
+                },
+                {
+                    "target": "Chaque matin, mon grand-père lisait le journal en buvant son café.",
+                    "reading": "shahk mah-tan, mohn grahn-pair lee-zeh luh zhoor-nahl ahn boo-vahn sohn kah-fay",
+                    "translation": "Every morning, my grandfather read the newspaper while drinking his coffee."
+                },
+                {
+                    "target": "Nous finissions toujours nos devoirs avant d'aller jouer dehors.",
+                    "reading": "noo fee-nee-syohn too-zhoor noh duh-vwahr ah-vahn dah-lay zhoo-ay duh-ohr",
+                    "translation": "We always used to finish our homework before going out to play."
+                },
+                {
+                    "target": "Vous preniez le train de huit heures pour aller au bureau ?",
+                    "reading": "voo pruh-nyay luh tran duh wee tuhr poor ah-lay oh boo-roh",
+                    "translation": "Did you used to take the 8:00 train to go to the office?"
                 }
             ],
             "mnemonics": [
-                "Memory anchor for Passé Composé vs Imparfait : Règle Fondamentale"
+                "NOUS-DROP-ONS: Imparfait stems ALWAYS come from the Present NOUS form (except ÊTRE -> ét-).",
+                "Ais-Ais-Ait sounds like 'EH': je, tu, il, ils sound identical (/ɛ/) despite different spelling!"
             ],
             "culturalNotes": [
-                "Cultural and conversational context for Passé Composé vs Imparfait : Règle Fondamentale in France."
+                "Classic French fairy tales and historical retrospectives almost universally begin with the imparfait of description: 'Il était une fois...' (Once upon a time...)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Contrast passé composé (completed foreground action) vs imparfait (con » :",
+                    "prompt": "Quel est le radical de l'imparfait pour le verbe 'prendre' (nous prenons au présent) ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (38a).",
-                        "La préposition employée ici n'est pas commandée par le verbe (38b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (38c)."
+                        "pren-",
+                        "prend-",
+                        "pr-",
+                        "prenn-"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "On prend la forme 'nous prenons' au présent et on enlève '-ons', ce qui donne le radical régulier 'pren-' (je prenais, nous prenions)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u9-l1 :",
+                    "prompt": "Complétez avec la forme correcte de l'imparfait : « En 2010, nous _________ (habiter) à Lyon. »",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (38x).",
-                        "Cette forme présente une anomalie phonétique en français standard (38y).",
-                        "La préposition employée ici n'est pas commandée par le verbe (38z)."
+                        "habitions",
+                        "habitations",
+                        "habitaient",
+                        "habitiez"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A2."
+                    "explanation": "Avec le sujet 'nous', la terminaison de l'imparfait est '-ions' : 'nous habitions'."
                 }
             ]
         },
@@ -4689,25 +4707,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u9-l1) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle phrase exprime une habitude ou un état d'arrière-plan à l'imparfait ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (38m).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (38n).",
-                        "La préposition employée ici n'est pas commandée par le verbe (38p)."
+                        "Tous les étés, nous allions nager dans la rivière près du moulin.",
+                        "Hier matin, nous sommes allés nager une seule fois à la piscine municipale.",
+                        "Demain soir, nous irons nager après notre journée de travail.",
+                        "Nous devons nager au moins trente minutes pour rester en bonne santé."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "'Tous les étés, nous allions...' décrit une habitude répétée dans le passé sans borne temporelle précise, ce qui exige l'imparfait."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u9-l1 (terme attendu : « Nous ») :",
+                    "prompt": "Écrivez la forme à l'imparfait du verbe ÊTRE avec le sujet 'je' (sans le pronom) :",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "étais",
+                        "etais"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Être a le radical irrégulier ét- : j'étais."
                 }
             ],
             "passThreshold": 0.8
@@ -4717,62 +4734,79 @@
         "id": "fr-u9-l2",
         "unit": "fr-u9",
         "level": "A2",
-        "objective": "Identify temporal trigger adverbs separating punctiliar events (soudain, hier) from habitual states (toujours, d'habitude).",
+        "objective": "Contrast passé composé (punctual/completed event) and imparfait (ongoing/descriptive background) within a single narrative sentence.",
         "prerequisites": [
             "fr-u9-l1"
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u9-l1"
+            ]
         },
         "presentation": {
-            "explanation": "Comprehensive presentation of Les Marqueurs Temporels Révélateurs. In French grammar, mastering les marqueurs temporels révélateurs is vital for fluid sentence connection, precise discourse organization, and natural communication.",
+            "explanation": "The fundamental narrative dynamic in French past storytelling is the interaction between Passé Composé and Imparfait:\n\n1. L'IMPARFAIT = SCENIC BACKGROUND & ONGOING ACTION\n- Answers: What was going on? What was the scene, weather, emotion, or ongoing state?\n- Analogy: The continuous video playing in the background.\n- 'Je dormais paisiblement...' (I was sleeping peacefully...)\n\n2. LE PASSÉ COMPOSÉ = FOREGROUND EVENT & INTERRUPTION\n- Answers: What suddenly happened? What specific action advanced the plot?\n- Analogy: The camera flash or sudden snap.\n- '...quand le réveil a sonné.' (...when the alarm rang.)\n\nCOMBINED CLAUSES:\n- 'Pendant que je préparais le dîner [imparfait background], quelqu'un a frappé à la porte [passé composé event].'\n- 'Il faisait froid et le vent soufflait [imparfait scene] lorsque nous sommes sortis du musée [passé composé action].'\n\nKEY DISTINCTIONS:\n- Ongoing state vs Interruption: 'Je lisais quand tu es arrivé.'\n- Sequential actions (PC + PC): 'Je suis entré, j'ai enlevé mon manteau et je me suis assis.'\n- Simultaneous states (Imp + Imp): 'Pendant qu'il cuisinait, elle lisait un livre.'",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Je marchais tranquillement dans la rue quand j'ai aperçu un vieil ami.",
+                    "reading": "zhuh mahr-sheh trahn-keel-mahn dahn lah roo kahn zhay ah-pair-soo uhn vyay ah-mee",
+                    "translation": "I was walking quietly down the street when I spotted an old friend."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Pendant que les enfants dormaient, un orage violent a éclaté.",
+                    "reading": "pahn-dahn kuh lay zahn-fahn dohr-meh, uhn oh-rahzh vyoh-lahn ah ay-klah-tay",
+                    "translation": "While the children were sleeping, a violent storm broke out."
+                },
+                {
+                    "target": "Il regardait un film passionnant lorsque le téléphone a soudain sonné.",
+                    "reading": "eel ruh-gahr-deh uhn feelm pah-syoh-nahn lohr-skuh luh tay-lay-fohn ah soo-dan soh-nay",
+                    "translation": "He was watching a fascinating movie when the phone suddenly rang."
+                },
+                {
+                    "target": "Elle cherchait ses clés partout quand elle s'est souvenue de les avoir laissées au bureau.",
+                    "reading": "el shair-sheh say klay pahr-too kahn tel say soo-vuh-noo duh lay zah-vwahr lay-say oh boo-roh",
+                    "translation": "She was looking for her keys everywhere when she remembered leaving them at the office."
+                },
+                {
+                    "target": "Nous déjeunions sur la terrasse quand la pluie a commencé à tomber.",
+                    "reading": "noo day-zhuh-nyohn soor lah teh-rahs kahn lah plwee ah koh-mahn-say ah tohn-bay",
+                    "translation": "We were having lunch on the terrace when the rain began to fall."
                 }
             ],
             "mnemonics": [
-                "Memory anchor for Les Marqueurs Temporels Révélateurs"
+                "VIDEO vs SNAPSHOT: Imparfait is the video camera recording continuous scenery; Passé Composé is the camera flash capturing a single moment!"
             ],
             "culturalNotes": [
-                "Cultural and conversational context for Les Marqueurs Temporels Révélateurs in France."
+                "In French journalism and classic literature (such as Guy de Maupassant's short stories), setting the scene with two or three imperfect clauses before introducing a dramatic passé composé event is a signature stylistic device."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Identify temporal trigger adverbs separating punctiliar events (soudai » :",
+                    "prompt": "Dans la phrase « Pendant que nous _________ (manger), Paul _________ (arriver) », quels temps doit-on utiliser ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette forme présente une anomalie phonétique en français standard (39a).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (39b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (39c)."
+                        "mangions (imparfait) / est arrivé (passé composé)",
+                        "avons mangé (passé composé) / arrivait (imparfait)",
+                        "mangions (imparfait) / arrivait (imparfait)",
+                        "avons mangé (passé composé) / est arrivé (passé composé)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "L'action continue en arrière-plan ('pendant que...') prend l'imparfait (mangions), et l'événement ponctuel qui survient prend le passé composé (est arrivé)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u9-l2 :",
+                    "prompt": "Choisissez la phrase qui traduit fidèlement : « She was writing an email when the computer shut down. »",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette variante relève d'un registre familier inadapté au contexte (39x).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (39y).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (39z)."
+                        "Elle écrivait un courriel quand l'ordinateur s'est éteint.",
+                        "Elle a écrit un courriel quand l'ordinateur s'éteignait.",
+                        "Elle écrivait un courriel quand l'ordinateur s'éteignait.",
+                        "Elle a écrit un courriel quand l'ordinateur s'est éteint."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A2."
+                    "explanation": "'Écrivait' (action en cours) + 's'est éteint' (interruption ponctuelle)."
                 }
             ]
         },
@@ -4780,25 +4814,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u9-l2) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Pourquoi le verbe 'travaillait' est-il à l'imparfait dans : « Julien travaillait tard hier soir quand l'alarme s'est déclenchée » ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette variante relève d'un registre familier inadapté au contexte (39m).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (39n).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (39p)."
+                        "C'est une action continue d'arrière-plan interrompue par un événement ponctuel.",
+                        "C'est une action courte et délimitée dans le temps.",
+                        "C'est une action future hypothétique.",
+                        "C'est une obligation imposée par le subjonctif."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "L'imparfait sert à planter le décor et décrire l'action continue interrompue par l'alarme au passé composé."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u9-l2 (terme attendu : « Nous ») :",
+                    "prompt": "Complétez avec le passé composé du verbe 'tomber' (sujet: il) : « Il marchait vite et il _________ . »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "est tombé",
+                        "est tombe"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Tomber se conjugue avec l'auxiliaire être au passé composé : il est tombé."
                 }
             ],
             "passThreshold": 0.8
@@ -4808,62 +4841,80 @@
         "id": "fr-u9-l3",
         "unit": "fr-u9",
         "level": "A2",
-        "objective": "Narrate changes of state and sudden psychological shifts (avoir peur vs. prendre peur; savoir vs. apprendre).",
+        "objective": "Identify and use temporal indicator adverbs that trigger either the passé composé or the imparfait.",
         "prerequisites": [
             "fr-u9-l2"
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u9-l2"
+            ]
         },
         "presentation": {
-            "explanation": "Comprehensive presentation of Changement d'État et Déclencheurs Psychologiques. In French grammar, mastering changement d'état et déclencheurs psychologiques is vital for fluid sentence connection, precise discourse organization, and natural communication.",
+            "explanation": "Certain temporal adverbs and transitional markers act as strong linguistic indicators signaling either the Passé Composé or the Imparfait:\n\n1. INDICATORS TYPICALLY TRIGGERING LE PASSÉ COMPOSÉ (Punctual, Specific, Sequential):\n- soudain / tout à coup (suddenly)\n- un jour / ce jour-là (one day / that day)\n- hier / hier soir (yesterday / last night)\n- à ce moment-là (at that exact moment)\n- d'abord... ensuite... puis... enfin (first... then... next... finally - sequential actions)\n- deux fois / plusieurs fois (specific countable frequency)\n- de 2015 à 2019 / pendant trois ans (delimited time periods with clear end dates)\n\n2. INDICATORS TYPICALLY TRIGGERING L'IMPARFAIT (Habitual, Repetitive, Unbounded):\n- tous les jours / tous les soirs (every day / every evening)\n- d'habitude / habituellement (usually)\n- autrefois / à l'époque (in the old days / back in the day)\n- souvent / toujours / rarement (often / always / rarely)\n- le lundi / le week-end (on Mondays / on weekends - habitual repeat days)\n- chaque année / chaque matin (each year / each morning)\n- pendant que (while - introducing simultaneous background action)\n\nCaution: If an action occurred a precise number of times (e.g., 'trois fois'), use the Passé Composé even if the adverb is 'souvent'!",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Tout à coup, une voiture rouge a freiné brusquement au carrefour.",
+                    "reading": "too tah koo, oon vwah-toor roozh ah fray-nay broosk-mahn oh kahr-foor",
+                    "translation": "Suddenly, a red car braked abruptly at the intersection."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Autrefois, les gens écrivaient de longues lettres manuscrites à leurs proches.",
+                    "reading": "oh-truh-fwah, lay zhahn zay-kree-veh duh lohng lehtruh mah-noo-skreet ah luhr prohsh",
+                    "translation": "In the past, people used to write long handwritten letters to their loved ones."
+                },
+                {
+                    "target": "D'habitude, elle prenait son thé à seize heures, mais hier elle a bu un café.",
+                    "reading": "dah-bee-tood, el pruh-neh sohn tay ah sez uhr, meh yair el ah boo uhn kah-fay",
+                    "translation": "Usually, she would drink her tea at 4:00 PM, but yesterday she drank a coffee."
+                },
+                {
+                    "target": "Hier soir, nous sommes allés au cinéma et nous avons adoré la comédie.",
+                    "reading": "yair swahr, noo suhm zah-lay oh see-nay-mah ay noo zah-vohn zah-doh-ray lah koh-may-dee",
+                    "translation": "Last night, we went to the cinema and we loved the comedy."
+                },
+                {
+                    "target": "Le samedi matin, mon père nettoyait toujours le jardin avec soin.",
+                    "reading": "luh sahm-dee mah-tan, mohn pair net-wah-yeh too-zhoor luh zhahr-dan ah-vek swan",
+                    "translation": "On Saturday mornings, my father always cleaned the garden with care."
                 }
             ],
             "mnemonics": [
-                "Memory anchor for Changement d'État et Déclencheurs Psychologiques"
+                "TOUT À COUP = CRACK! 'Tout à coup' and 'soudain' snap like a whip -> always Passé Composé.",
+                "AUTREFOIS = OLD MOVIES: 'Autrefois' and 'd'habitude' paint slow nostalgic scenes -> always Imparfait."
             ],
             "culturalNotes": [
-                "Cultural and conversational context for Changement d'État et Déclencheurs Psychologiques in France."
+                "Using 'le dimanche' (with the definite article) denotes an automatic habitual occurrence ('on Sundays / every Sunday'), whereas 'dimanche' without the article denotes the specific single past or upcoming Sunday."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Narrate changes of state and sudden psychological shifts (avoir peur v » :",
+                    "prompt": "Quel adverbe temporel complète naturellement cette phrase à l'imparfait : « _________, les enfants jouaient dehors sans téléphone portable. » ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (40a).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (40b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (40c)."
+                        "Autrefois",
+                        "Soudain",
+                        "Hier à midi",
+                        "Tout à coup"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "'Autrefois' (in the old days) introduit une habitude ou une description générale du passé, appelant l'imparfait ('jouaient')."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u9-l3 :",
+                    "prompt": "Choisissez le marqueur temporel qui exige le passé composé : « _________, le voleur a sauté par-dessus la clôture. »",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (40x).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (40y).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (40z)."
+                        "Brusquement",
+                        "Tous les soirs",
+                        "D'habitude",
+                        "Chaque matin"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A2."
+                    "explanation": "'Brusquement' (or 'tout à coup') signale un événement soudain et ponctuel, exigeant le passé composé."
                 }
             ]
         },
@@ -4871,25 +4922,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u9-l3) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Identifiez la phrase correctement accordée avec son marqueur temporel :",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (40m).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (40n).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (40p)."
+                        "Hier, j'ai visité le musée d'Orsay avec ma sœur.",
+                        "Hier, je visitais le musée d'Orsay pour une durée indéfinie.",
+                        "Tous les jours, j'ai visité le musée d'Orsay à dix heures précises.",
+                        "Soudain, nous habitions dans une maison au bord de la mer."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "'Hier' renvoie à un événement ponctuel et achevé au passé composé ('j'ai visité')."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u9-l3 (terme attendu : « Nous ») :",
+                    "prompt": "Quel mot interrogatif/conjonctif signifiant « while / during the time that » s'emploie avec l'imparfait (deux mots) : « _________ que » ?",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "Pendant",
+                        "pendant"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "'Pendant que' (while) introduit une proposition à l'imparfait."
                 }
             ],
             "passThreshold": 0.8
@@ -4899,62 +4949,80 @@
         "id": "fr-u9-l4",
         "unit": "fr-u9",
         "level": "A2",
-        "objective": "Structure multi-paragraph historical and autobiographical narrative texts with balanced past aspect.",
+        "objective": "Master modal and cognitive verbs whose English translation changes aspectually between PC and Imparfait (savoir, connaître, vouloir, pouvoir).",
         "prerequisites": [
             "fr-u9-l3"
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u9-l3"
+            ]
         },
         "presentation": {
-            "explanation": "Comprehensive presentation of La Structure du Récit Autobiographique. In French grammar, mastering la structure du récit autobiographique is vital for fluid sentence connection, precise discourse organization, and natural communication.",
+            "explanation": "Certain French cognitive and modal verbs change their fundamental English meaning depending on whether they are conjugated in the Imparfait (continuous state) or Passé Composé (punctual shift/realization):\n\n1. SAVOIR (to know information/skills):\n- Imparfait ('je savais'): 'I knew / was aware of the fact.' (Ongoing mental knowledge)\n- Passé Composé ('j'ai su'): 'I found out / I learned / I realized at that moment.' (Punctual acquisition of knowledge)\n\n2. CONNAÎTRE (to know a person/place):\n- Imparfait ('je connaissais'): 'I knew / was acquainted with him.' (Ongoing familiarity)\n- Passé Composé ('j'ai connu'): 'I met him for the first time / made his acquaintance.' (Initial encounter)\n\n3. VOULOIR (to want / wish):\n- Imparfait ('je voulais'): 'I wanted / intended to.' (Ongoing mental desire)\n- Passé Composé affirmative ('j'ai voulu'): 'I tried to / made an attempt to.' (Action initiated)\n- Passé Composé negative ('je n'ai pas voulu'): 'I refused to.' (Categorical decision/refusal)\n\n4. POUVOIR (to be able to):\n- Imparfait ('je pouvais'): 'I was capable of / had the ability to.' (General potential)\n- Passé Composé ('j'ai pu'): 'I managed to / succeeded in doing it.' (Concrete achieved outcome)",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Je savais qu'il était malade, mais j'ai su la gravité de son état seulement hier.",
+                    "reading": "zhuh sah-veh keel ay-teh mah-lahd, meh zhay soo lah grah-vee-tay duh sohn nay-tah suhl-mahn yair",
+                    "translation": "I knew he was sick, but I only found out the severity of his condition yesterday."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Je connaissais déjà cette ville, car j'ai connu mon épouse à Bordeaux en 2015.",
+                    "reading": "zhuh koh-neh-seh day-zhah set veel, kahr zhay koh-noo mohn nay-pooz ah bohr-doh ahn duh meel kanz",
+                    "translation": "I was already familiar with this city, because I met my wife in Bordeaux in 2015."
+                },
+                {
+                    "target": "Il voulait partir plus tôt, mais son patron a refusé.",
+                    "reading": "eel voo-leh pahr-teer ploo toh, meh sohn pah-trohn ah ruh-foo-zay",
+                    "translation": "He wanted to leave earlier, but his boss refused."
+                },
+                {
+                    "target": "Le problème était difficile, mais grâce à son aide, j'ai pu le résoudre.",
+                    "reading": "luh proh-blem ay-teh dee-fee-seel, meh grahs ah sohn ned, zhay poo luh ray-zoodruh",
+                    "translation": "The problem was difficult, but thanks to his help, I managed to solve it."
+                },
+                {
+                    "target": "Elle n'a pas voulu signer le contrat sans consulter son avocat.",
+                    "reading": "el nah pah voo-loo see-nyay luh kohn-trah sahn kohn-sool-tay sohn nah-voh-kah",
+                    "translation": "She refused to sign the contract without consulting her lawyer."
                 }
             ],
             "mnemonics": [
-                "Memory anchor for La Structure du Récit Autobiographique"
+                "SAVOIR: 'Je savais' = I sat on the knowledge; 'J'ai su' = I stumbled upon it!",
+                "POUVOIR: 'Je pouvais' = I had the power; 'J'ai pu' = I pulled it off!"
             ],
             "culturalNotes": [
-                "Cultural and conversational context for La Structure du Récit Autobiographique in France."
+                "In French judicial and police proceedings, the distinction between 'je savais' (pre-existing knowledge) and 'j'ai su' (moment of discovery) is legally pivotal when establishing timelines."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Structure multi-paragraph historical and autobiographical narrative te » :",
+                    "prompt": "Que signifie précisément « J'ai su la nouvelle hier soir » en français ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (41a).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (41b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (41c)."
+                        "J'ai appris / découvert la nouvelle hier soir.",
+                        "Je connaissais cette information depuis des mois.",
+                        "Je refusais d'écouter la nouvelle hier soir.",
+                        "Je pouvais comprendre la nouvelle facilement."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Au passé composé, 'savoir' signifie 'apprendre / découvrir' un fait à un moment précis."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u9-l4 :",
+                    "prompt": "Dans la phrase « Malgré la tempête, les secours ont pu sauver les randonneurs », quel est le sens de 'ont pu' ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "L'antériorité temporelle est mal établie par rapport au repère (41x).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (41y).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (41z)."
+                        "Ils ont réussi à les sauver.",
+                        "Ils avaient la possibilité théorique de les sauver.",
+                        "Ils voulaient les sauver sans succès.",
+                        "Ils ont refusé de les sauver."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A2."
+                    "explanation": "'Avoir pu' au passé composé exprime la réussite concrète d'une action menée à son terme (ils ont réussi à sauver)."
                 }
             ]
         },
@@ -4962,25 +5030,23 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u9-l4) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Choisissez la phrase qui exprime un refus catégorique dans le passé :",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'antériorité temporelle est mal établie par rapport au repère (41m).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (41n).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (41p)."
+                        "Il n'a pas voulu nous donner la clé du coffre.",
+                        "Il ne voulait pas sortir à cause du mauvais temps.",
+                        "Il ne savait pas où se trouvait la clé du coffre.",
+                        "Il ne pouvait pas courir à cause de sa blessure."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "'Ne pas vouloir' au passé composé ('il n'a pas voulu') traduit un refus catégorique d'agir ('he refused to')."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u9-l4 (terme attendu : « Nous ») :",
+                    "prompt": "Donnez le participe passé du verbe POUVOIR utilisé dans « j'ai _________ finir à l'heure » :",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "pu"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Le participe passé de pouvoir est 'pu'."
                 }
             ],
             "passThreshold": 0.8
@@ -4990,62 +5056,79 @@
         "id": "fr-u9-l5",
         "unit": "fr-u9",
         "level": "A2",
-        "objective": "Synthesize past tenses in a complete creative short story with dialogue and setting.",
+        "objective": "Synthesize passé composé and imparfait across multi-paragraph past narratives, integrating background settings, interruptions, and sequential actions.",
         "prerequisites": [
             "fr-u9-l4"
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u9-l4"
+            ]
         },
         "presentation": {
-            "explanation": "Comprehensive presentation of Synthèse Narrative : Le Conte et la Nouvelle. In French grammar, mastering synthèse narrative : le conte et la nouvelle is vital for fluid sentence connection, precise discourse organization, and natural communication.",
+            "explanation": "Mastering complex past narration in French requires orchestrating three distinct temporal layers across connected discourse:\n\n1. THE DESCRIPTIVE LAYER (Imparfait):\n- Sets time, location, climate, emotional state, physical appearance, and ongoing conditions.\n- 'C'était un samedi d'automne. Les feuilles tombaient doucement et l'air était frais. Marc se sentait détendu et écoutait de la musique.'\n\n2. THE DISRUPTIVE EVENT LAYER (Passé Composé):\n- Introduces the sudden incident that breaks the continuous background state.\n- 'Soudain, la sonnette a retenti avec insistance. Marc a sursauté et a éteint la radio.'\n\n3. THE SEQUENTIAL CHRONOLOGICAL LAYER (Passé Composé Chain):\n- Moves the plot forward step by step using chronological linking words (d'abord, ensuite, puis, après, enfin).\n- 'Il a ouvert la porte, a regardé dans le couloir, a ramassé une enveloppe jaune sur le paillasson, puis a refermé le verrou avec précaution.'\n\n4. RETURN TO REFLECTIVE STATE (Imparfait Resolution):\n- Concludes the sequence with emotional reaction or resulting continuous atmosphere.\n- 'L'enveloppe ne portait aucun nom, et Marc se demandait avec anxiété qui l'avait déposée.'\n\nCHECKLIST FOR FLAWLESS NARRATION:\n- Ask yourself for every verb: Is this advancing the story's clock (PC), or is it painting the background environment (Imparfait)?",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "La nuit était silencieuse et la lune éclairait la clairière quand nous avons entendu un cri étrange.",
+                    "reading": "lah nwee ay-teh see-lahn-syuhz ay lah loon ay-kleh-reh lah kleh-ryair kahn noo zah-vohn zahn-tahn-doo uhn kree ay-trahnzh",
+                    "translation": "The night was quiet and the moon was lighting the clearing when we heard a strange cry."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "D'abord, elle a réservé ses billets, puis elle a préparé sa valise et enfin elle a pris un taxi.",
+                    "reading": "dah-bohr, el ah ray-zair-vay say bee-yay, pwee zel ah pray-pah-ray sah vah-leez ay ahn-fan el ah pree uhn tahk-see",
+                    "translation": "First, she booked her tickets, then she packed her suitcase, and finally she took a taxi."
+                },
+                {
+                    "target": "Nous marchions depuis deux heures dans la forêt quand nous avons découvert les ruines d'un vieux château.",
+                    "reading": "noo mahr-shyohn duh-pwee duh zuhr dahn lah foh-reh kahn noo zah-vohn day-koo-vair lay rween duh uhn vyuh shah-toh",
+                    "translation": "We had been walking for two hours in the forest when we discovered the ruins of an old castle."
+                },
+                {
+                    "target": "Il pleuvait à verse lorsque Sophie est entrée dans le café et a commandé un chocolat chaud.",
+                    "reading": "eel pluh-veh ah vairss lohr-skuh soh-fee ay tahn-tray dahn luh kah-fay ay ah koh-mahn-day uhn shoh-koh-lah shoh",
+                    "translation": "It was pouring rain when Sophie entered the café and ordered a hot chocolate."
+                },
+                {
+                    "target": "Tandis que le guide expliquait l'histoire de la cathédrale, un touriste a trébuché sur une marche en pierre.",
+                    "reading": "tahn-dee kuh luh geed ek-splee-keh lees-twahr duh lah kah-tay-drahl, uhn too-reest ah tray-boo-shay soor oon mahrsh ahn pyair",
+                    "translation": "While the guide was explaining the history of the cathedral, a tourist tripped on a stone step."
                 }
             ],
             "mnemonics": [
-                "Memory anchor for Synthèse Narrative : Le Conte et la Nouvelle"
+                "STORY PYRAMID: Baseline = Imparfait (setting the stage), Lightning Bolt = Passé Composé (the event), Steps = Passé Composé chain (the reactions)!"
             ],
             "culturalNotes": [
-                "Cultural and conversational context for Synthèse Narrative : Le Conte et la Nouvelle in France."
+                "The mastery of alternating Passé Composé and Imparfait is the primary criterion evaluated in the DELF B1 and B2 written expression examinations (production écrite) when evaluating narrative competence."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Synthesize past tenses in a complete creative short story with dialogu » :",
+                    "prompt": "Dans un récit, quel temps utilise-t-on pour enchaîner des actions successives comme « Il est entré, a salué ses collègues et a commencé à travailler » ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "La préposition employée ici n'est pas commandée par le verbe (42a).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (42b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (42c)."
+                        "Le passé composé",
+                        "L'imparfait",
+                        "Le plus-que-parfait",
+                        "Le subjonctif présent"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "L'enchaînement chronologique d'actions ponctuelles et successives requiert le passé composé."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u9-l5 :",
+                    "prompt": "Choisissez l'extrait de récit qui respecte parfaitement la cohérence des temps du passé :",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "La préposition employée ici n'est pas commandée par le verbe (42x).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (42y).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (42z)."
+                        "Il faisait beau et les oiseaux chantaient quand l'orage a soudain éclaté.",
+                        "Il a fait beau et les oiseaux ont chanté quand l'orage éclatait.",
+                        "Il faisait beau et les oiseaux chantaient quand l'orage éclatait.",
+                        "Il a fait beau et les oiseaux chantaient quand l'orage a éclaté."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A2."
+                    "explanation": "Décor d'arrière-plan à l'imparfait ('faisait beau', 'chantaient') + événement perturbateur soudain au passé composé ('a éclaté')."
                 }
             ]
         },
@@ -5053,25 +5136,23 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u9-l5) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Analysez le texte : « Marie lisait tranquillement son livre. Soudain, le courant a sauté et toutes les lumières se sont éteintes. » Quelle phrase est exacte ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "La préposition employée ici n'est pas commandée par le verbe (42m).",
-                        "Cette forme présente une anomalie phonétique en français standard (42n).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (42p)."
+                        "'Lisait' est à l'imparfait car c'est une action d'arrière-plan, tandis que la coupure de courant est une action ponctuelle au passé composé.",
+                        "'Lisait' est au passé composé et 'a sauté' est à l'imparfait.",
+                        "Toutes les actions du récit devraient obligatoirement être au subjonctif.",
+                        "'Se sont éteintes' est à l'imparfait car l'obscurité dure longtemps."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "'Lisait' décrit l'état continu initial (imparfait), et la coupure de courant suivie de l'extinction sont des événements ponctuels au passé composé."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u9-l5 (terme attendu : « Nous ») :",
+                    "prompt": "Complétez le verbe 'regarder' à l'imparfait (sujet: nous) : « Pendant que nous _________ le film, le téléphone a sonné. »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "regardions"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Le radical regard- avec la terminaison -ions donne 'regardions'."
                 }
             ],
             "passThreshold": 0.8
