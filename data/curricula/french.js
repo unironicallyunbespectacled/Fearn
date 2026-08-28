@@ -15977,56 +15977,73 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u29-l5"
+            ]
         },
         "presentation": {
-            "explanation": "Rigorous academic exposition of La Philosophie des Lumières et le Contrat Social. At the CEFR C1 level, learners develop mastery in abstract conceptualization, domain-specific terminology, and sophisticated syntactic structures required for academic, legal, and intellectual fluency in French.",
+            "explanation": "The 18th-century French Enlightenment (les Lumières) laid the philosophical foundations of human rights, political emancipation, and rational inquiry:\n\n1. Key Thinkers & Paradigms:\n- Montesquieu (De l'esprit des lois) : La séparation des trois pouvoirs (législatif, exécutif, judiciaire) pour prévenir le despotisme.\n- Jean-Jacques Rousseau (Du contrat social) : L'état de nature, l'aliénation de la liberté naturelle pour la liberté civile, et la souveraineté de la volonté générale.\n- Voltaire (Traité sur la tolérance) : Combat contre le fanatisme religieux, l'obscurantisme clérical et l'arbitraire judiciaire (Affaire Calas).\n- Denis Diderot et D'Alembert : L'Encyclopédie comme outil d'émancipation rationnelle.\n\n2. Key Epistemological Principles:\n- Émancipation par la raison critique contre les dogmes.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Selon Jean-Jacques Rousseau, le contrat social permet à l'individu d'aliéner sa liberté naturelle pour acquérir une liberté civile sous l'égide de la volonté générale.",
+                    "reading": "suh-lohn zhahn-zhahk roo-soh, luh kohn-trah soh-syahl pair-meh ah lan-dee-vee-doo dah-lyay-nay sah lee-bair-tay nah-too-rel poor ah-kay-reer oon lee-bair-tay see-veel soo lay-zheed duh lah voh-lohn-tay zhay-nay-rahl",
+                    "translation": "According to Jean-Jacques Rousseau, the social contract allows the individual to surrender natural liberty in order to acquire civil liberty under the auspices of the general will."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Montesquieu théorise la séparation des trois pouvoirs afin d'éviter qu'une concentration autoritaire ne dégénère en despotisme absolu.",
+                    "reading": "mohn-tes-kyuh tay-oh-reez lah say-pah-rah-syohn day trwah poo-vwahr ah-fan day-vee-tay koon kohn-sahn-trah-syohn oh-toh-ree-tair nuh day-zhay-nair ahn des-poh-teezm ahb-soh-loo",
+                    "translation": "Montesquieu theorizes the separation of the three powers to prevent an authoritarian concentration from degenerating into absolute despotism."
+                },
+                {
+                    "target": "Dans son Traité sur la tolérance, Voltaire combat l'obscurantisme clérical et érige la liberté de pensée en impératif moral indépassable.",
+                    "reading": "dahn sohn treh-tay soor lah toh-lay-rahns, vohl-tair kohn-bah lohb-skoo-rahn-teezm klay-ree-kahl ay ay-reezh lah lee-bair-tay duh pahn-say ahn nan-pay-rah-teef moh-rahl an-day-pah-sahbl",
+                    "translation": "In his Treatise on Tolerance, Voltaire combats clerical obscurantism and establishes freedom of thought as an insurmountable moral imperative."
+                },
+                {
+                    "target": "L'entreprise titanesque de l'Encyclopédie visait à vulgariser les connaissances scientifiques pour émanciper la raison humaine des préjugés dogmatiques.",
+                    "reading": "lahn-truh-preez tee-tah-nesk duh lahn-see-kloh-pay-dee vee-zeh ah vool-gah-ree-zay lay koh-neh-sahns syahn-tee-feek poor ay-mahn-see-pay lah reh-zohn oo-men day pray-zhoo-zhay dohg-mah-teek",
+                    "translation": "The titanic undertaking of the Encyclopédie aimed to popularize scientific knowledge to emancipate human reason from dogmatic prejudices."
+                },
+                {
+                    "target": "Le concept rousseauiste d'état de nature ne désigne pas une réalité historique avérée, mais une fiction méthodologique pour penser l'origine des inégalités.",
+                    "reading": "luh kohn-sep roo-soh-eest day-tah duh nah-toor nuh day-zeen-yuh pah zoon ray-ah-lee-tay ees-toh-reek ah-vay-ray, meh zoon feek-syohn may-toh-doh-loh-zheek poor pahn-say loh-ree-zheen day zan-ay-gah-lee-tay",
+                    "translation": "The Rousseauist concept of the state of nature denotes not an established historical reality, but a methodological heuristic to contemplate the origin of inequalities."
                 }
             ],
             "mnemonics": [
-                "Conceptual anchor for La Philosophie des Lumières et le Contrat Social"
+                "LUMIÈRES: Montesquieu (Pouvoirs) + Rousseau (Contrat social) + Voltaire (Tolérance) + Diderot (Encyclopédie)!"
             ],
             "culturalNotes": [
-                "Epistemological and institutional significance of La Philosophie des Lumières et le Contrat Social in France."
+                "The philosophical concepts of the French Enlightenment directly shaped the 1789 Declaration of the Rights of Man and of the Citizen."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Analyze Enlightenment philosophy, social contract theory, and toleranc » :",
+                    "prompt": "Quel philosophe des Lumières a théorisé la séparation des pouvoirs (législatif, exécutif, judiciaire) dans « De l'esprit des lois » ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (146a).",
-                        "Cette forme présente une anomalie phonétique en français standard (146b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (146c)."
+                        "Montesquieu",
+                        "Descartes",
+                        "Sartre",
+                        "Bergson"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Montesquieu est le père de la théorie moderne de la séparation et de l'équilibre des pouvoirs."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u30-l1 :",
+                    "prompt": "Que représente la « volonté générale » chez Jean-Jacques Rousseau ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (146x).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (146y).",
-                        "Cette forme présente une anomalie phonétique en français standard (146z)."
+                        "L'intérêt commun de tous les citoyens souverains visant le bien public",
+                        "La simple addition des caprices égoïstes de chacun",
+                        "L'ordre imposé par un monarque absolu",
+                        "Le résultat d'un tirage au sort"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C1."
+                    "explanation": "La volonté générale chez Rousseau exprime la souveraineté du peuple orientée exclusivement vers l'intérêt commun et la justice."
                 }
             ]
         },
@@ -16034,25 +16051,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u30-l1) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Dans quelle œuvre philosophique majeure Rousseau explore-t-il la légitimité de l'autorité politique par l'accord des citoyens ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (146m).",
-                        "La préposition employée ici n'est pas commandée par le verbe (146n).",
-                        "Cette forme présente une anomalie phonétique en français standard (146p)."
+                        "Candide",
+                        "Du contrat social",
+                        "Les Fleurs du mal",
+                        "La Métaphysique"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 1,
+                    "explanation": "« Du contrat social » (1762) est le chef-d'œuvre de Rousseau fondant la souveraineté démocratique."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u30-l1 (terme attendu : « Nous ») :",
+                    "prompt": "Quel philosophe des Lumières a rédigé le célèbre « Traité sur la tolérance » à l'occasion de l'affaire Calas ? (terme attendu : _________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "Voltaire",
+                        "voltaire"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "C'est « Voltaire » qui a écrit ce traité fondateur."
                 }
             ],
             "passThreshold": 0.8
@@ -16068,56 +16084,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u30-l1"
+            ]
         },
         "presentation": {
-            "explanation": "Rigorous academic exposition of Le Rationalisme Cartésien et la Quête de la Vérité. At the CEFR C1 level, learners develop mastery in abstract conceptualization, domain-specific terminology, and sophisticated syntactic structures required for academic, legal, and intellectual fluency in French.",
+            "explanation": "René Descartes revolutionized Western philosophy by founding modern epistemological rationalism:\n\n1. The Methodical and Radical Doubt (Le Doute Méthodique et Hyperbolique):\n- Mise en doute des sens, de l'état de veille (argument du rêve) et hypothèse du malin génie.\n- Le Cogito (« Je pense, donc je suis » / Cogito ergo sum) comme première vérité inébranlable.\n\n2. Cartesian Metaphysics & Dualism:\n- Dualisme ontologique : Distinction entre res cogitans (substance pensante / âme) et res extensa (substance corporelle étendue).\n- Les 4 règles de la méthode : Évidence, Analyse, Synthèse, Dénombrement.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Par le doute méthodique et hyperbolique, Descartes suspend l'ensemble de ses croyances sensibles pour découvrir une vérité première inébranlable.",
+                    "reading": "pahr luh doot may-toh-deek ay ee-pair-boh-leek, day-kahrt soos-pahn lahn-sahn-bluh duh say krwah-yahns sahn-seebl poor day-koo-vreer oon vay-ree-tay pruh-myair ee-nay-brahn-kahbl",
+                    "translation": "Through methodical and hyperbolic doubt, Descartes suspends all of his sensory beliefs to discover an unshakable foundational truth."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "La certitude du « Je pense, donc je suis » s'impose comme une évidence intuitive dès lors que l'acte même de douter confirme l'existence du sujet pensant.",
+                    "reading": "lah sair-tee-tood doo zhuh pahns dohnk zhuh swee sah-pohz kohm oon nay-vee-dahns an-twee-teev deh lohr kuh lahkt mem duh doo-tay kohn-feerm leg-zees-tahns doo soo-zheh pahn-sahn",
+                    "translation": "The certainty of 'I think, therefore I am' asserts itself as an intuitive self-evidence since the very act of doubting confirms the existence of the thinking subject."
+                },
+                {
+                    "target": "Le dualisme cartésien postule une distinction ontologique irréductible entre la substance pensante immatérielle et la substance corporelle étendue soumise aux lois de la mécanique.",
+                    "reading": "luh doo-ah-leezm day-kahr-tyan pohs-tool oon dees-tank-syohn ohn-toh-loh-zheek ee-ray-dook-teebl ahn-truh lah soob-stahns pahn-sahnt eem-mah-tay-ryel ay lah soob-stahns kohr-poh-rel ay-tahn-doo soo-meez oh lwah duh lah may-kah-neek",
+                    "translation": "Cartesian dualism posits an irreducible ontological distinction between the immaterial thinking substance and the extended bodily substance subject to mechanical laws."
+                },
+                {
+                    "target": "Dans le Discours de la méthode, Descartes préconise de diviser chacune des difficultés examinées en autant de parcelles qu'il se pourrait pour mieux les résoudre.",
+                    "reading": "dahn luh dees-koor duh lah may-tohd, day-kahrt pray-koh-neez duh dee-vee-zay shah-koon day deef-fee-kool-tay zeg-zah-mee-nay ahn noh-tahn duh pahr-sel keel suh poor-reh poor myuh lay ray-zoodruh",
+                    "translation": "In the Discourse on the Method, Descartes recommends dividing each of the difficulties examined into as many parts as possible to better resolve them."
+                },
+                {
+                    "target": "L'hypothèse du malin génie permet de pousser le scepticisme jusqu'à ses ultimes retranchements en remettant en cause jusqu'aux vérités mathématiques.",
+                    "reading": "lee-poh-tez doo mah-lan zhay-nee pair-meh duh poo-say luh skep-tee-seezm zhoos-kah say zool-teem ruh-trahnsh-mahn ahn ruh-meh-tahn ahn kohz zhoos-koh vay-ree-tay mah-tay-mah-teek",
+                    "translation": "The hypothesis of the evil genius allows skepticism to be pushed to its ultimate limits by questioning even mathematical truths."
                 }
             ],
             "mnemonics": [
-                "Conceptual anchor for Le Rationalisme Cartésien et la Quête de la Vérité"
+                "DESCARTES = Doute méthodique -> Cogito ('Je pense, donc je suis') -> Dualisme Âme/Corps!",
+                "RÈGLES DE LA MÉTHODE: Évidence -> Analyse -> Synthèse -> Dénombrement!"
             ],
             "culturalNotes": [
-                "Epistemological and institutional significance of Le Rationalisme Cartésien et la Quête de la Vérité in France."
+                "Published in 1637 in French rather than Latin so that non-scholars could read it, Descartes' Discours de la méthode established foundational French philosophical prose."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Examine Cartesian rationalism, radical doubt, and dualism (Descartes,  » :",
+                    "prompt": "Quelle célèbre proposition latine et française constitue la première certitude indubitable chez Descartes ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "La préposition employée ici n'est pas commandée par le verbe (147a).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (147b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (147c)."
+                        "« Cogito, ergo sum » (« Je pense, donc je suis »)",
+                        "« Carpe diem » (« Cueille le jour »)",
+                        "« Tabula rasa » (« Table rase »)",
+                        "« Veni, vidi, vici » (« Je suis venu, j'ai vu, j'ai vaincu »)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Le Cogito cartésien (« Je pense, donc je suis ») est le socle fondateur de toute la philosophie de Descartes."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u30-l2 :",
+                    "prompt": "Qu'est-ce que le « dualisme cartésien » ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (147x).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (147y).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (147z)."
+                        "La distinction nette entre l'esprit (substance pensante) et le corps matériel (substance étendue)",
+                        "Le fait d'avoir deux opinions contraires en même temps",
+                        "Le combat d'escrime entre deux philosophes",
+                        "La séparation du pouvoir exécutif et judiciaire"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C1."
+                    "explanation": "Le dualisme de Descartes sépare ontologiquement l'âme (res cogitans) et le corps physique (res extensa)."
                 }
             ]
         },
@@ -16125,25 +16159,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u30-l2) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Dans quelle œuvre de 1637 Descartes formule-t-il les quatre préceptes de sa méthode de pensée rationnelle ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (147m).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (147n).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (147p)."
+                        "L'Étranger",
+                        "L'Émile",
+                        "Le Discours de la méthode",
+                        "Les Misérables"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 2,
+                    "explanation": "Le « Discours de la méthode » (1637) est le texte fondamental où Descartes expose ses règles pour bien conduire sa raison."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u30-l2 (terme attendu : « Nous ») :",
+                    "prompt": "Quel verbe complète la formule philosophique la plus célèbre de Descartes ? « Je pense, donc je _________ »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "suis",
+                        "Suis"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "La formule complète est « Je pense, donc je suis »."
                 }
             ],
             "passThreshold": 0.8
@@ -16159,56 +16192,75 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u30-l2"
+            ]
         },
         "presentation": {
-            "explanation": "Rigorous academic exposition of L'Existentialisme et la Liberté Humaine. At the CEFR C1 level, learners develop mastery in abstract conceptualization, domain-specific terminology, and sophisticated syntactic structures required for academic, legal, and intellectual fluency in French.",
+            "explanation": "20th-century French Existentialism (l'existentialisme et la phénoménologie) placed individual consciousness, absolute freedom, and ethical responsibility at the center of thought:\n\n1. Jean-Paul Sartre (L'Être et le Néant, L'existentialisme est un humanisme):\n- « L'existence précède l'essence » : L'homme n'a pas de nature prédéfinie ; il se forge par ses actes libres.\n- « L'homme est condamné à être libre » : La liberté est inéluctable.\n- La mauvaise foi (se réfugier dans des prétextes pour fuir sa responsabilité) et l'angoisse.\n\n2. Simone de Beauvoir (Le Deuxième Sexe):\n- « On ne naît pas femme : on le devient » : Déconstruction de l'essentialisme de genre et analyse socioculturelle.\n\n3. Albert Camus (Le Mythe de Sisyphe):\n- L'Absurde (conflit entre le désir de sens de l'homme et le silence du monde) et la révolte lucide.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Pour Jean-Paul Sartre, la formule « l'existence précède l'essence » signifie que l'être humain n'est défini par aucune nature préétablie, mais se crée souverainement par ses actes.",
+                    "reading": "poor zhahn-pohl sahrtruh, lah fohr-mool leg-zees-tahns pray-sed leh-sahns seen-yee-fee kuh lair oo-man nay day-fee-nee pahr oh-koon nah-toor pray-ay-tah-blee, meh suh kray soo-vren-mahn pahr say zahkt",
+                    "translation": "For Jean-Paul Sartre, the formula 'existence precedes essence' means that the human being is defined by no pre-established nature, but sovereignly creates themselves through their actions."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "La mauvaise foi consiste à se réfugier derrière des déterminismes sociaux ou psychologiques pour fuir le vertige de sa liberté absolue.",
+                    "reading": "lah moh-vez fwah kohn-seest ah suh ray-foo-zhyay day-ryair day day-tair-mee-neezm soh-syoh oo psee-koh-loh-zheek poor fweer luh vair-teezh duh sah lee-bair-tay ahb-soh-loo",
+                    "translation": "Bad faith consists of taking refuge behind social or psychological determinisms to escape the vertigo of one's absolute freedom."
+                },
+                {
+                    "target": "Dans Le Deuxième Sexe, Simone de Beauvoir démontre que la condition féminine relève d'une construction culturelle et normative plutôt que d'un destin biologique immuable.",
+                    "reading": "dahn luh duh-zyem seks, see-mohn duh boh-vwahr day-mohntruh kuh lah kohn-dee-syohn fay-mee-neen ruh-lev doon kohn-strook-syohn kool-too-rel ay nohr-mah-teev plyoo-toh kuh doon des-tan bee-oh-loh-zheek eem-moo-ahbl",
+                    "translation": "In The Second Sex, Simone de Beauvoir demonstrates that the feminine condition is a cultural and normative construct rather than an immutable biological destiny."
+                },
+                {
+                    "target": "Albert Camus envisage le héros absurde à travers le mythe de Sisyphe : la grandeur humaine réside dans la révolte lucide face au non-sens de l'existence.",
+                    "reading": "ahl-bair kah-moo ahn-vee-zahzh luh ay-roh ahb-soord ah trah-vair luh meet duh see-zeef : lah grahn-duhr oo-men ray-zeed dahn lah ray-vohlt loo-seed fahs oh nohn-sahns duh leg-zees-tahns",
+                    "translation": "Albert Camus envisions the absurd hero through the myth of Sisyphus: human grandeur resides in lucid revolt against the meaninglessness of existence."
+                },
+                {
+                    "target": "Le regard d'autrui dans Huis clos nous fige en objet et nous confronte à l'angoisse de notre propre responsabilité morale.",
+                    "reading": "luh ruh-gahr doh-trwee dahn wee kloh noo feezh ahn nohb-zheh ay noo kohn-frohnt ah lahn-gwahs duh noh-truh proh-pruh res-pohn-sah-bee-lee-tay moh-rahl",
+                    "translation": "The gaze of the Other in No Exit freezes us into an object and confronts us with the anguish of our own moral responsibility."
                 }
             ],
             "mnemonics": [
-                "Conceptual anchor for L'Existentialisme et la Liberté Humaine"
+                "SARTRE: L'existence précède l'essence / Condamné à être libre / Mauvaise foi!",
+                "BEAUVOIR: 'On ne naît pas femme : on le devient'!",
+                "CAMUS: L'Absurde + La Révolte de Sisyphe!"
             ],
             "culturalNotes": [
-                "Epistemological and institutional significance of L'Existentialisme et la Liberté Humaine in France."
+                "The existentialist movement was centered around the Saint-Germain-des-Prés cafés in Paris (Café de Flore, Les Deux Magots) in the 1940s and 1950s."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Dissect 20th-century French Existentialism and human freedom (Sartre,  » :",
+                    "prompt": "Que signifie le principe sartrien « l'existence précède l'essence » ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (148a).",
-                        "La préposition employée ici n'est pas commandée par le verbe (148b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (148c)."
+                        "L'être humain existe d'abord, et se définit ensuite librement par ses choix et ses actes",
+                        "Le destin de chaque être humain est écrit avant sa naissance",
+                        "Les objets inanimés ont une conscience plus développée que les humains",
+                        "Il faut étudier la biologie avant la philosophie"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Chez Sartre, l'homme n'a pas de nature prédéterminée : il existe d'abord et forge son essence par ses actions libres."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u30-l3 :",
+                    "prompt": "Dans quel ouvrage fondateur Simone de Beauvoir écrit-elle la phrase historique « On ne naît pas femme : on le devient » ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (148x).",
-                        "Cette forme présente une anomalie phonétique en français standard (148y).",
-                        "La préposition employée ici n'est pas commandée par le verbe (148z)."
+                        "Le Deuxième Sexe (1949)",
+                        "La Nausée",
+                        "L'Étranger",
+                        "La Peste"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C1."
+                    "explanation": "« Le Deuxième Sexe » (1949) de Simone de Beauvoir est le texte fondateur du féminisme philosophique moderne."
                 }
             ]
         },
@@ -16216,25 +16268,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u30-l3) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Comment Sartre nomme-t-il l'attitude qui consiste à se mentir à soi-même en prétendant ne pas être libre ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (148m).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (148n).",
-                        "La préposition employée ici n'est pas commandée par le verbe (148p)."
+                        "L'hédonisme",
+                        "L'utilitarisme",
+                        "La mauvaise foi",
+                        "Le stoïcisme"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 2,
+                    "explanation": "La « mauvaise foi » sartrienne est le mensonge à soi-même par lequel on tente de fuir sa liberté et sa responsabilité."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u30-l3 (terme attendu : « Nous ») :",
+                    "prompt": "Quel personnage mythique grec condamné à rouler éternellement un rocher incarne le héros absurde chez Camus ? (le Mythe de _________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "Sisyphe",
+                        "sisyphe"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "L'essai célèbre de Camus est « Le Mythe de Sisyphe »."
                 }
             ],
             "passThreshold": 0.8
@@ -16250,56 +16301,75 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u30-l3"
+            ]
         },
         "presentation": {
-            "explanation": "Rigorous academic exposition of La Pensée Critique Contemporaine et la Déconstruction. At the CEFR C1 level, learners develop mastery in abstract conceptualization, domain-specific terminology, and sophisticated syntactic structures required for academic, legal, and intellectual fluency in French.",
+            "explanation": "The French Theory movement (post-structuralisme, archéologie du savoir et déconstruction) deeply transformed contemporary global thought:\n\n1. Michel Foucault (Surveiller et punir, Histoire de la sexualité):\n- Le pouvoir-savoir : Le savoir et le pouvoir sont indissociables.\n- Le biopouvoir et la biopolitique : Gestion institutionnelle des populations et des corps.\n- Le panoptisme comme paradigme de la société disciplinaire.\n\n2. Jacques Derrida (De la grammatologie):\n- La déconstruction : Analyse critique des dichotomies binaires de la métaphysique occidentale.\n- La différance et les apories textuelles.\n\n3. Gilles Deleuze et Félix Guattari (Mille Plateaux):\n- La pensée rhizomatique (réseau horizontal non hiérarchique) opposée au modèle arborescent.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Michel Foucault démontre dans Surveiller et punir que le pouvoir moderne ne s'exerce pas principalement par la force brute mais par un quadrillage disciplinaire et le panoptisme.",
+                    "reading": "mee-shel foo-koh day-mohntruh dahn soor-veh-yay ay poo-neer kuh luh poo-vwahr moh-dairn nuh zeg-zairss pah pran-see-pahl-mahn pahr lah fohrs broot meh pahr uhn kah-dree-yahzh dees-see-plee-nair ay luh pah-nohp-teezm",
+                    "translation": "Michel Foucault demonstrates in Discipline and Punish that modern power is exercised not primarily through brute force, but through disciplinary surveillance and panopticism."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Le concept de biopouvoir désigne l'ensemble des technologies institutionnelles qui prennent en charge la gestion du corps social, de la démographie et de la santé des populations.",
+                    "reading": "luh kohn-sep duh bee-oh-poo-vwahr day-zeen-yuh lahn-sahn-bluh day tek-noh-loh-zhee zan-stee-too-syoh-nel kee prehn-tahn shahrzh lah zhes-tyohn doo kohr soh-syahl, duh lah day-moh-grah-fee ay duh lah sahn-tay day poh-poo-lah-syohn",
+                    "translation": "The concept of biopower denotes the set of institutional technologies that take charge of managing the social body, demographics, and public health of populations."
+                },
+                {
+                    "target": "La déconstruction derridienne subvertit les hiérarchies binaires de la métaphysique occidentale en montrant comment tout texte recèle ses propres apories et contradictions internes.",
+                    "reading": "lah day-kohn-strook-syohn deh-ree-dyen soob-vair-tee lay yay-rahr-shee bee-nair duh lah may-tah-fee-zeek ohk-see-dahn-tahl ahn mohn-trahn koh-mahn too tekst ruh-sel say prohpruh zah-poh-ree ay kohn-trah-deek-syohn an-tairn",
+                    "translation": "Derridean deconstruction subverts the binary hierarchies of Western metaphysics by showing how every text harbors its own aporias and internal contradictions."
+                },
+                {
+                    "target": "Pour Deleuze et Guattari, la pensée rhizomatique s'oppose au modèle arborescent hiérarchisé en multipliant les connexions transversales et imprévisibles.",
+                    "reading": "poor duh-luhz ay gah-tah-ree, lah pahn-say ree-zoh-mah-teek soh-pohz oh moh-del ahr-boh-reh-sahn yay-rahr-shee-zay ahn mool-tee-plee-yahn lay koh-nek-syohn trahns-vair-sahl ay an-pray-vee-zeebl",
+                    "translation": "For Deleuze and Guattari, rhizomatic thought opposes the hierarchical arborescent model by multiplying transversal and unpredictable connections."
+                },
+                {
+                    "target": "L'épistémè foucaldienne renvoie au socle inconscient de règles et de discours qui conditionne les savoirs possibles d'une époque donnée.",
+                    "reading": "lay-pees-tay-may foo-kahl-dyen rahn-vwah oh sohkl ahn-kohn-syahn duh reh-gluh ay duh dees-koor kee kohn-dee-syohn lay sah-vwahr poh-seebl doon nay-pohk doh-nay",
+                    "translation": "The Foucauldian episteme refers to the unconscious bedrock of rules and discourses that conditions the possible knowledge of a given epoch."
                 }
             ],
             "mnemonics": [
-                "Conceptual anchor for La Pensée Critique Contemporaine et la Déconstruction"
+                "FOUCAULT: Pouvoir-Savoir / Biopouvoir / Panoptique!",
+                "DERRIDA: Déconstruction / Différance / Apories!",
+                "DELEUZE: Rhizome (horizontal) vs Arbre (hiérarchique)!"
             ],
             "culturalNotes": [
-                "Epistemological and institutional significance of La Pensée Critique Contemporaine et la Déconstruction in France."
+                "Known worldwide as 'French Theory', the works of Foucault, Derrida, and Deleuze fundamentally transformed global academic humanities."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Examine post-structuralist thought, power dynamics, and deconstruction » :",
+                    "prompt": "Quel philosophe français a conceptualisé le « biopouvoir » et analysé la société disciplinaire dans « Surveiller et punir » ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette forme présente une anomalie phonétique en français standard (149a).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (149b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (149c)."
+                        "Michel Foucault",
+                        "Montaigne",
+                        "Jean Bodin",
+                        "Henri Bergson"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Michel Foucault a développé les concepts majeurs de biopolitique, de panoptisme et de société disciplinaire."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u30-l4 :",
+                    "prompt": "En quoi consiste la méthode philosophique de la « déconstruction » forgée par Jacques Derrida ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette variante relève d'un registre familier inadapté au contexte (149x).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (149y).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (149z)."
+                        "Interroger et démonter les oppositions binaires et hiérarchies figées du langage et de la philosophie",
+                        "Détruire physiquement des monuments historiques",
+                        "Réécrire les dictionnaires sans voyelles",
+                        "Traduire tous les textes en latin classique"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C1."
+                    "explanation": "La déconstruction derridienne examine minutieusement la structure des textes pour révéler les apories et les présupposés métaphysiques non questionnés."
                 }
             ]
         },
@@ -16307,25 +16377,26 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u30-l4) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle métaphore végétale Gilles Deleuze et Félix Guattari utilisent-ils pour désigner une pensée ouverte, réticulaire et non hiérarchique ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette variante relève d'un registre familier inadapté au contexte (149m).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (149n).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (149p)."
+                        "Le chêne royal",
+                        "Le baobab",
+                        "Le rhizome",
+                        "La tulipe"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 2,
+                    "explanation": "Le « rhizome » est le concept deleuzien désignant un réseau interconnecté sans centre ni hiérarchie fixe."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u30-l4 (terme attendu : « Nous ») :",
+                    "prompt": "Quel terme créé par Jacques Derrida s'écrit avec un « a » pour marquer à la fois la différence et le différé temporel ? (la _________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "différance",
+                        "differance",
+                        "Différance",
+                        "Differance"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Le néologisme philosophique de Derrida est la « différance »."
                 }
             ],
             "passThreshold": 0.8
@@ -16341,56 +16412,73 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u30-l4"
+            ]
         },
         "presentation": {
-            "explanation": "Rigorous academic exposition of Méthodologie de la Dissertation Philosophique Académique. At the CEFR C1 level, learners develop mastery in abstract conceptualization, domain-specific terminology, and sophisticated syntactic structures required for academic, legal, and intellectual fluency in French.",
+            "explanation": "The French philosophical dissertation (la dissertation philosophique) is the crowning exercise of French academic training:\n\n1. Rigorous Structure:\n- Introduction :\n  * Accroche (amorce conceptuelle ou paradoxe).\n  * Définition des termes et problématisation (tension philosophique sous-jacente).\n  * Annonce du plan en trois temps dialectiques.\n- Développement en 3 parties :\n  * I. Thèse (examen de la doxa ou thèse classique affirmée).\n  * II. Antithèse (objections, apories, limites de la première position).\n  * III. Synthèse / Dépassement (refondation conceptuelle surmontant la contradiction).\n- Conclusion :\n  * Bilan synthétique des étapes de la pensée, réponse claire au sujet, ouverture.\n\n2. Style : Rigueur démonstrative, citations conceptuelles étayées, transitions logiques soignées.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "L'introduction de la dissertation philosophique exige une définition rigoureuse des concepts afin de dégager la contradiction interne qui fonde la problématique.",
+                    "reading": "lan-troh-dook-syohn duh lah dees-sair-tah-syohn fee-loh-zoh-feek eg-zeezh oon day-fee-nee-syohn ree-goo-ruhz day kohn-sep ah-fan duh day-gah-zhay lah kohn-trah-deek-syohn an-tairn kee fohnd lah proh-blay-mah-teek",
+                    "translation": "The introduction of the philosophical dissertation requires a rigorous definition of concepts to uncover the internal contradiction underpinning the central problem."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "La troisième partie ne saurait se borner à un compromis tiède entre la thèse et l'antithèse : elle doit opérer un authentique dépassement conceptuel.",
+                    "reading": "lah trwah-zyem pahr-tee nuh soh-reh suh bohr-nay ah uhn kohn-proh-mee tyed ahn-truh lah tez ay lahn-tee-tez : el dwah oh-pay-ray uhn noh-tahn-teek day-pahs-mahn kohn-sep-too-el",
+                    "translation": "The third part must not limit itself to a lukewarm compromise between thesis and antithesis: it must perform a genuine conceptual breakthrough."
+                },
+                {
+                    "target": "Chaque paragraphe démonstratif s'articule autour d'un argument précis étayé par une référence textuelle analysée conceptuellement.",
+                    "reading": "shahk pah-rah-grahf day-mohn-strah-teef sahr-tee-kool oh-toor doon nahr-goo-mahn pray-see ay-teh-yay pahr oon ray-fay-rahns tekst-oo-el ah-nah-lee-zay kohn-sep-too-el-mahn",
+                    "translation": "Each argumentative paragraph is structured around a precise argument supported by a philosophically analyzed textual reference."
+                },
+                {
+                    "target": "Les transitions entre les parties doivent rendre compte de la nécessité logique qui pousse la pensée à surmonter les limites de l'étape précédente.",
+                    "reading": "lay trahn-zee-syohn ahn-truh lay pahr-tee dwahvt rahn-druh kohnt duh lah nay-seh-see-tay loh-zheek kee poos lah pahn-say ah soor-mohn-tay lay lee-meet duh lay-tahp pray-say-dahnt",
+                    "translation": "Transitions between sections must reflect the logical necessity that compels thought to overcome the limits of the previous stage."
+                },
+                {
+                    "target": "En conclusion, le philosophe apporte une réponse argumentée et définitive sans esquiver la complexité du problème initial.",
+                    "reading": "ahn kohn-kloo-zyohn, luh fee-loh-zohf ah-pohrt oon ray-pohns ahr-goo-mahn-tay ay day-fee-nee-teev sahn nes-kee-vay lah kohn-plek-see-tay doo proh-blem ee-nee-syahl",
+                    "translation": "In conclusion, the philosopher provides a reasoned, definitive answer without dodging the complexity of the initial problem."
                 }
             ],
             "mnemonics": [
-                "Conceptual anchor for Méthodologie de la Dissertation Philosophique Académique"
+                "DISSERTATION PHILO: Intro (Accroche -> Problématique -> Plan) -> 3 Parties (Thèse -> Antithèse -> Dépassement) -> Conclusion!"
             ],
             "culturalNotes": [
-                "Epistemological and institutional significance of Méthodologie de la Dissertation Philosophique Académique in France."
+                "Philosophy has been taught to all French high school seniors (Terminale) since the 19th century; the Philosophy Bac exam (l'épreuve de philo) is a celebrated national rite of passage."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Write a complete formal French philosophical dissertation structured i » :",
+                    "prompt": "Dans une dissertation philosophique française, que doit impérativement accomplir la troisième partie (la synthèse) ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (150a).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (150b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (150c)."
+                        "Dépasser la contradiction entre la thèse et l'antithèse par un nouvel éclairage conceptuel",
+                        "Faire la moyenne arithmétique des deux premières parties sans réfléchir",
+                        "Recopier l'introduction mot à mot",
+                        "Écrire que personne ne peut savoir la vérité"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "La synthèse (ou dépassement) ne juxtapose pas les avis : elle reformule le problème à un niveau plus profond pour surmonter l'impasse dialectique."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u30-l5 :",
+                    "prompt": "Quelle est l'étape cruciale de l'introduction qui transforme une question posée en sujet de réflexion philosophique ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (150x).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (150y).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (150z)."
+                        "La problématisation (mise en lumière de la tension ou contradiction conceptuelle)",
+                        "Le dessin des marges sur la copie",
+                        "La signature de l'auteur en bas de page",
+                        "La liste alphabétique des philosophes connus"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C1."
+                    "explanation": "La problématisation montre pourquoi la question n'est pas évidente et révèle le conflit d'idées qu'il va falloir résoudre."
                 }
             ]
         },
@@ -16398,25 +16486,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u30-l5) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "En France, en quelle classe du lycée l'enseignement obligatoire de la philosophie est-il dispensé à tous les élèves ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (150m).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (150n).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (150p)."
+                        "En classe de Terminale (dernière année du secondaire)",
+                        "En classe de 6e (première année de collège)",
+                        "À l'école maternelle",
+                        "En CM2"
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "L'enseignement philosophique est traditionnellement dispensé en classe de Terminale en France pour couronner le cursus secondaire."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u30-l5 (terme attendu : « Nous ») :",
+                    "prompt": "Comment nomme-t-on le terme grec désignant une impasse logique ou une difficulté insoluble qu'un texte recèle ? (une _________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "aporie",
+                        "Aporie"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Une contradiction insoluble ou impasse logique se nomme une « aporie »."
                 }
             ],
             "passThreshold": 0.8
