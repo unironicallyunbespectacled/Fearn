@@ -2037,63 +2037,82 @@
     },
     "am-u3-l1": {
         "id": "am-u3-l1",
-        "subject": "amharic",
-        "unit": 3,
-        "lessonNumber": 1,
-        "title": "የግል ተውላጠ ስሞች እና መስተዋድድ (Personal Pronouns & Prepositions) (Part 1)",
+        "unit": "am-u3",
         "level": "A1",
-        "objective": "Comprehensive mastery of ተውላጠ ስሞች እና አቅጣጫዎች (Pronouns and Prepositions).",
+        "objective": "Master all Amharic independent personal pronouns (subject forms) for all persons, numbers, and genders.",
+        "prerequisites": [
+            "am-u2-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u2-l1",
+                "am-u2-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ተውላጠ ስሞች እና አቅጣጫዎች (Pronouns and Prepositions) - ደረጃ 1) ተማሪዎች ስለ ተውላጠ ስሞች እና አቅጣጫዎች (Pronouns and Prepositions) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Amharic has a rich pronoun system that distinguishes gender (masculine/feminine) in the 2nd and 3rd person singular, and also marks formal/polite register:\n\n1. Subject Pronouns (Independent):\n- 1st singular: እኔ (Ine - I)\n- 2nd singular masculine: አንተ (Ante - you m.)\n- 2nd singular feminine: አንቺ (Anchi - you f.)\n- 2nd singular formal/polite: እርስዎ / አንተ-ልዩ (Irswo - you formal, used for elders/strangers)\n- 3rd singular masculine: እሱ / እርሱ (Isu / Irsu - he)\n- 3rd singular feminine: እሷ / እርሷ (Iswa / Irswa - she)\n- 1st plural: እኛ (Igna - we)\n- 2nd plural: እናንተ (Inante - you pl.)\n- 3rd plural: እነሱ / እነርሱ (Inesu / Inersu - they)\n\n2. Polite Note: Using « እርስዎ » for elders, employers, and strangers is a cultural obligation.",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የተውላጠ ስሞች እና አቅጣጫዎች (Pronouns and Prepositions) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (3.1.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "እኔ ተማሪ ነኝ።",
+                    "reading": "Ine temari negn.",
+                    "translation": "I am a student."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (3.1.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "አንተ ዶክተር ነህ?",
+                    "reading": "Ante doktor neh?",
+                    "translation": "Are you (m.) a doctor?"
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (3.1.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "እሷ ከአዲስ አበባ ናት።",
+                    "reading": "Iswa ke'Addis Abeba nat.",
+                    "translation": "She is from Addis Ababa."
+                },
+                {
+                    "target": "እኛ ወደ ሱቁ እንሄዳለን።",
+                    "reading": "Igna wede suqu inhedalen.",
+                    "translation": "We are going to the shop."
+                },
+                {
+                    "target": "እነሱ አዳዲስ ተማሪዎች ናቸው።",
+                    "reading": "Inesu addis temariwoch nachew.",
+                    "translation": "They are new students."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ተውላጠ ስሞች እና አቅጣጫዎች (Pronouns and Prepositions)"
+                "INE=I, ANTE=you(m), ANCHI=you(f), ISU=he, ISWA=she, IGNA=we, INANTE=you pl., INESU=they!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "When addressing a teacher (መምህር memhir), priest (ቄስ qes), or elder, always use እርስዎ (Irswo). Using አንተ in such a context would be disrespectful."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ተውላጠ ስሞች እና አቅጣጫዎች (Pronouns and Prepositions)» አጠቃቀም በደረጃ 1 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "Which Amharic pronoun means 'she'?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (3.1.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (3.1.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (3.1.3)።"
+                        "እሷ (Iswa)",
+                        "እሱ (Isu)",
+                        "አንቺ (Anchi)",
+                        "እኛ (Igna)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "« እሷ » (Iswa) means 'she'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የግል ተውላጠ ስሞች እና መስተዋድድ (Personal Pronouns & Prepositions)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 1)፡",
+                    "prompt": "How do you say 'We are going to the market' in Amharic?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (3.1.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (3.1.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (3.1.3)።"
+                        "እኛ ወደ ገበያ እንሄዳለን።",
+                        "እሱ ወደ ገበያ ይሄዳል።",
+                        "አንተ ወደ ገበያ ትሄዳለህ።",
+                        "እነሱ ወደ ገበያ ሄዱ።"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "« እኛ » (Igna - we) + ወደ ገበያ + እንሄዳለን (we go)."
                 }
             ]
         },
@@ -2101,85 +2120,107 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ተውላጠ ስሞች እና አቅጣጫዎች (Pronouns and Prepositions)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 3-1)?",
+                    "prompt": "What is the Amharic pronoun for 'you (formal/polite)'?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (3.1.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (3.1.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (3.1.3)።"
+                        "እርስዎ (Irswo)",
+                        "አንቺ (Anchi)",
+                        "አንተ (Ante)",
+                        "እሱ (Isu)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "« እርስዎ » (Irswo) is the polite/formal 2nd person pronoun for addressing elders and strangers."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («እኔ_3_1»):",
+                    "prompt": "Type the Amharic word for 'I' in Fidel script (እኔ):",
                     "acceptedAnswers": [
-                        "እኔ_3_1"
+                        "እኔ",
+                        "ine",
+                        "Ine"
                     ],
-                    "explanation": "The target keyword was: 【እኔ_3_1】"
+                    "explanation": "እኔ (Ine) = I."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u3-l2": {
         "id": "am-u3-l2",
-        "subject": "amharic",
-        "unit": 3,
-        "lessonNumber": 2,
-        "title": "የግል ተውላጠ ስሞች እና መስተዋድድ (Personal Pronouns & Prepositions) (Part 2)",
+        "unit": "am-u3",
         "level": "A1",
-        "objective": "Comprehensive mastery of ተውላጠ ስሞች እና አቅጣጫዎች (Pronouns and Prepositions).",
+        "objective": "Express possession using Amharic possessive suffixes (የ- genitive and pronominal possessives) for all persons.",
+        "prerequisites": [
+            "am-u3-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u3-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ተውላጠ ስሞች እና አቅጣጫዎች (Pronouns and Prepositions) - ደረጃ 2) ተማሪዎች ስለ ተውላጠ ስሞች እና አቅጣጫዎች (Pronouns and Prepositions) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Amharic expresses possession in two main ways:\n\n1. Genitive Marker « የ- » (Ye-):\n- Placed before the possessor: « የ + Possessor + Noun ». E.g., « የእኔ ቤት » (ye'ine bet - my house); « የምሳ ሰዓት » (yemesa sehat - lunchtime).\n\n2. Pronominal Possessive Suffixes (attached to the noun):\n- my: -ዬ / -ኤ (-ye / -e). E.g., « ቤቴ » (bete - my house); « መጽሐፌ » (mets'hafe - my book).\n- your (m): -ህ (-h). E.g., « ቤትህ » (betih - your m. house).\n- your (f): -ሽ (-sh). E.g., « ቤትሽ » (betish - your f. house).\n- his: -ው (-w). E.g., « ቤቱ » (betu - his house / the house).\n- her: -ዋ (-wa). E.g., « ቤቷ » (betwa - her house).\n- our: -ን (-n). E.g., « ቤታችን » (betachin - our house).\n- your (pl): -ችሁ (-chihu). E.g., « ቤታችሁ » (betachihu - your pl. house).\n- their: -ቸው (-chew). E.g., « ቤታቸው » (betachew - their house).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የተውላጠ ስሞች እና አቅጣጫዎች (Pronouns and Prepositions) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (3.2.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "የእኔ ስም ዳዊት ነው።",
+                    "reading": "Ye'ine sim Dawit new.",
+                    "translation": "My name is Dawit."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (3.2.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "መጽሐፌ ጠረጴዛው ላይ አለ።",
+                    "reading": "Mets'hafe t'erep'ezaw lay ale.",
+                    "translation": "My book is on the table."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (3.2.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ቤቷ ከትምህርት ቤቱ አጠገብ ናት።",
+                    "reading": "Betwa ketimihirt betu atebib nat.",
+                    "translation": "Her house is near the school."
+                },
+                {
+                    "target": "ቤታቸው ትልቅ ነው።",
+                    "reading": "Betachew tiliq new.",
+                    "translation": "Their house is big."
+                },
+                {
+                    "target": "ይህ የሱ ወንበር ነው።",
+                    "reading": "Yih yesu wenber new.",
+                    "translation": "This is his chair."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ተውላጠ ስሞች እና አቅጣጫዎች (Pronouns and Prepositions)"
+                "YE- is the Amharic 'of' marker: YE + owner + thing = possession chain!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Ethiopian naming convention: children take their father's first name as their surname. So Dawit Bekele means 'Dawit, son of Bekele' — « የቤት ስም » (family name) works this way."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ተውላጠ ስሞች እና አቅጣጫዎች (Pronouns and Prepositions)» አጠቃቀም በደረጃ 2 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "How do you say 'my book' using the possessive suffix in Amharic (from መጽሐፍ)?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (3.2.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (3.2.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (3.2.3)።"
+                        "መጽሐፌ (Mets'hafe)",
+                        "መጽሐፉ (Mets'hafu)",
+                        "መጽሐፏ (Mets'hafwa)",
+                        "መጽሐፎቻቸው"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "Adding -ዬ (-e) to the noun root gives the 1st-person possessive: መጽሐፌ = my book."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የግል ተውላጠ ስሞች እና መስተዋድድ (Personal Pronouns & Prepositions)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 2)፡",
+                    "prompt": "What does « ቤታቸው » (Betachew) mean?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (3.2.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (3.2.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (3.2.3)።"
+                        "Their house",
+                        "My house",
+                        "Her house",
+                        "Your house (pl.)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "-ቸው (-chew) is the 3rd person plural possessive suffix meaning 'their'."
                 }
             ]
         },
@@ -2187,85 +2228,108 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ተውላጠ ስሞች እና አቅጣጫዎች (Pronouns and Prepositions)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 3-2)?",
+                    "prompt": "Which sentence means 'My name is Hanna' in Amharic?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (3.2.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (3.2.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (3.2.3)።"
+                        "ስሜ ሃና ነው። (Sime Hanna new.)",
+                        "ስምህ ሃና ነው።",
+                        "ስሟ ሃና ናት።",
+                        "የሱ ስም ሃና ነው።"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "« ስሜ » (sime) = my name, from ስም + -ዬ suffix."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («እኔ_3_2»):",
+                    "prompt": "Type the Amharic genitive/possessive prefix in Fidel script (የ):",
                     "acceptedAnswers": [
-                        "እኔ_3_2"
+                        "የ",
+                        "ye",
+                        "Ye"
                     ],
-                    "explanation": "The target keyword was: 【እኔ_3_2】"
+                    "explanation": "« የ » (ye-) is the Amharic genitive/possession marker."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u3-l3": {
         "id": "am-u3-l3",
-        "subject": "amharic",
-        "unit": 3,
-        "lessonNumber": 3,
-        "title": "የግል ተውላጠ ስሞች እና መስተዋድድ (Personal Pronouns & Prepositions) (Part 3)",
+        "unit": "am-u3",
         "level": "A1",
-        "objective": "Comprehensive mastery of ተውላጠ ስሞች እና አቅጣጫዎች (Pronouns and Prepositions).",
+        "objective": "Use postpositional prepositions of location and direction: ውስጥ (inside), ላይ (on), ሥር (under), አጠገብ (near), ፊት (in front of), ኋላ (behind), ወደ (towards), ከ (from/since).",
+        "prerequisites": [
+            "am-u3-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u3-l1",
+                "am-u3-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ተውላጠ ስሞች እና አቅጣጫዎች (Pronouns and Prepositions) - ደረጃ 3) ተማሪዎች ስለ ተውላጠ ስሞች እና አቅጣጫዎች (Pronouns and Prepositions) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Unlike English prepositions which come before the noun, Amharic location words (postpositions) typically follow the noun they modify:\n\n1. Key Location Postpositions:\n- ውስጥ (wust') = inside / in. E.g., « ቤቱ ውስጥ » (betu wust' - inside the house).\n- ላይ (lay) = on / on top of. E.g., « ጠረጴዛው ላይ » (t'erep'ezaw lay - on the table).\n- ሥር (sir) = under / beneath. E.g., « ወንበሩ ሥር » (wenberu sir - under the chair).\n- አጠገብ (at'egeb) = near / next to. E.g., « ቤቱ አጠገብ » (betu at'egeb - near the house).\n- ፊት ለፊት (fit lefit) = in front of. E.g., « ቤቱ ፊት ለፊት » (betu fit lefit - in front of the house).\n- ኋላ (hwala) = behind / after. E.g., « ቤቱ ኋላ » (betu hwala - behind the house).\n\n2. Directional/Source Prepositions (come before):\n- ወደ (wede) = to / towards. E.g., « ወደ ቤቱ » (wede betu - towards the house).\n- ከ (ke) = from / since. E.g., « ከቤቱ » (kebetu - from the house).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የተውላጠ ስሞች እና አቅጣጫዎች (Pronouns and Prepositions) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (3.3.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ድመቷ ወንበሩ ሥር ትተኛለች።",
+                    "reading": "Dimetwa wenberu sir titegnyalech.",
+                    "translation": "The cat sleeps under the chair."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (3.3.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "መጽሐፉ ጠረጴዛው ላይ አለ።",
+                    "reading": "Mets'hafu t'erep'ezaw lay ale.",
+                    "translation": "The book is on the table."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (3.3.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ትምህርት ቤቱ ቤቴ አጠገብ ነው።",
+                    "reading": "Timihirt betu bete at'egeb new.",
+                    "translation": "The school is near my house."
+                },
+                {
+                    "target": "ወደ ሱቁ ሄደ።",
+                    "reading": "Wede suqu hede.",
+                    "translation": "He went to the shop."
+                },
+                {
+                    "target": "ልጆቹ ቤቱ ፊት ለፊት ይጫወታሉ።",
+                    "reading": "Lijochu betu fit lefit yichawitalu.",
+                    "translation": "The children play in front of the house."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ተውላጠ ስሞች እና አቅጣጫዎች (Pronouns and Prepositions)"
+                "Amharic postpositions follow the noun: BETU WUST'= in the house (house + inside)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "In Ethiopia, giving directions typically uses landmarks (churches, big trees, well-known shops) rather than street names: « የቤተ ክርስቲያኑ አጠገብ » (next to the church)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ተውላጠ ስሞች እና አቅጣጫዎች (Pronouns and Prepositions)» አጠቃቀም በደረጃ 3 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "How do you say 'on the table' in Amharic (using ጠረጴዛ)?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (3.3.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (3.3.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (3.3.3)።"
+                        "ጠረጴዛው ላይ",
+                        "ጠረጴዛው ውስጥ",
+                        "ጠረጴዛው ሥር",
+                        "ጠረጴዛው ኋላ"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "« ላይ » (lay) means 'on/on top of' — placed after the noun."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የግል ተውላጠ ስሞች እና መስተዋድድ (Personal Pronouns & Prepositions)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 3)፡",
+                    "prompt": "What does « ቤቱ ውስጥ » (betu wust') mean?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (3.3.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (3.3.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (3.3.3)።"
+                        "Inside the house",
+                        "On the house",
+                        "Behind the house",
+                        "Near the house"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "« ውስጥ » means 'inside/in', and it follows the definite noun."
                 }
             ]
         },
@@ -2273,85 +2337,107 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ተውላጠ ስሞች እና አቅጣጫዎች (Pronouns and Prepositions)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 3-3)?",
+                    "prompt": "Which Amharic phrase means 'from the school'?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (3.3.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (3.3.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (3.3.3)።"
+                        "ከትምህርት ቤቱ (ketimihirt betu)",
+                        "ወደ ትምህርት ቤቱ",
+                        "ትምህርት ቤቱ ፊት",
+                        "ትምህርት ቤቱ ላይ"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "explanation": "« ከ » (ke-) means 'from' and is prefixed to the noun: ከትምህርት ቤቱ = from the school."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («እኔ_3_3»):",
+                    "prompt": "Type the Amharic postposition meaning 'on / on top of' in Fidel script (ላይ):",
                     "acceptedAnswers": [
-                        "እኔ_3_3"
+                        "ላይ",
+                        "lay",
+                        "Lay"
                     ],
-                    "explanation": "The target keyword was: 【እኔ_3_3】"
+                    "explanation": "ላይ (lay) = on / on top of."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u3-l4": {
         "id": "am-u3-l4",
-        "subject": "amharic",
-        "unit": 3,
-        "lessonNumber": 4,
-        "title": "የግል ተውላጠ ስሞች እና መስተዋድድ (Personal Pronouns & Prepositions) (Part 4)",
+        "unit": "am-u3",
         "level": "A1",
-        "objective": "Comprehensive mastery of ተውላጠ ስሞች እና አቅጣጫዎች (Pronouns and Prepositions).",
+        "objective": "Ask and answer questions about location and direction using ወዴት (Where to?), ከየት (From where?), and የት (Where?) with verb ነው / ናት / ናቸው / አለ / ሄደ.",
+        "prerequisites": [
+            "am-u3-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u3-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ተውላጠ ስሞች እና አቅጣጫዎች (Pronouns and Prepositions) - ደረጃ 4) ተማሪዎች ስለ ተውላጠ ስሞች እና አቅጣጫዎች (Pronouns and Prepositions) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Amharic uses three key question words for location and direction:\n\n1. የት? (Yet?) = Where? (static location)\n- E.g., « ቤቱ የት ነው? » (Betu yet new? - Where is the house?)\n- « ትምህርት ቤቱ የት ነው? » (Yet new timihirt betu? - Where is the school?)\n\n2. ወዴት? (Wedet?) = Where to? / Which direction? (movement towards)\n- E.g., « ወዴት ትሄዳለህ? » (Wedet tihedalleh? - Where are you going (m.)?)\n- « ወዴት ሄድሽ? » (Wedet hedish? - Where did you go (f.)?)\n\n3. ከየት? (Keyyet?) = From where? (source/origin)\n- E.g., « ከየት መጣህ? » (Keyyet mettah? - Where are you from/did you come from (m.)?)\n- « ከኢትዮጵያ ነኝ » (Ke'Ityop'ya negn - I am from Ethiopia.)",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የተውላጠ ስሞች እና አቅጣጫዎች (Pronouns and Prepositions) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (3.4.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ፖስታ ቤቱ የት ነው?",
+                    "reading": "Posta betu yet new?",
+                    "translation": "Where is the post office?"
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (3.4.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ወዴት ትሄዳለሽ?",
+                    "reading": "Wedet tihedalesh?",
+                    "translation": "Where are you going (f.)?"
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (3.4.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ከየት ነህ?",
+                    "reading": "Keyyet neh?",
+                    "translation": "Where are you from (m.)?"
+                },
+                {
+                    "target": "ሆቴሉ ባንኩ ፊት ለፊት ነው።",
+                    "reading": "Hotelu banku fit lefit new.",
+                    "translation": "The hotel is in front of the bank."
+                },
+                {
+                    "target": "ወደ ቀኝ ፣ ወደ ግራ — ደጋፊዎቹ ዘፈኑ።",
+                    "reading": "Wede qegn, wede gira — degafiwoch zefenu.",
+                    "translation": "To the right, to the left — the supporters chanted."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ተውላጠ ስሞች እና አቅጣጫዎች (Pronouns and Prepositions)"
+                "YET = static Where?, WEDET = directional Where to?, KEYYET = source From where?"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Answering « ከየት ነህ? » correctly requires using ከ + city/region: « ከጎንደር ነኝ » (Ke'Gondar negn - I am from Gondar). Gondar is the historic royal city of Ethiopia's Solomonic dynasty."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ተውላጠ ስሞች እና አቅጣጫዎች (Pronouns and Prepositions)» አጠቃቀም በደረጃ 4 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "Which Amharic question word means 'Where to?' (direction of movement)?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (3.4.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (3.4.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (3.4.3)።"
+                        "ወዴት? (Wedet?)",
+                        "የት? (Yet?)",
+                        "ከየት? (Keyyet?)",
+                        "ስንት? (Sint?)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "« ወዴት? » (Wedet?) asks about the direction of movement ('Where to?')."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የግል ተውላጠ ስሞች እና መስተዋድድ (Personal Pronouns & Prepositions)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 4)፡",
+                    "prompt": "How do you ask 'Where is the hospital?' in Amharic?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (3.4.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (3.4.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (3.4.3)።"
+                        "ሆስፒታሉ የት ነው? (Hospitallu yet new?)",
+                        "ሆስፒታሉ ወዴት ነው?",
+                        "ሆስፒታሉ ከየት ነው?",
+                        "ሆስፒታሉ ስንት ነው?"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "For static 'where is', use « የት ነው? » after the subject."
                 }
             ]
         },
@@ -2359,85 +2445,108 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ተውላጠ ስሞች እና አቅጣጫዎች (Pronouns and Prepositions)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 3-4)?",
+                    "prompt": "What does « ከየት ነህ? » (Keyyet neh?) mean?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (3.4.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (3.4.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (3.4.3)።"
+                        "Where are you from? (m.)",
+                        "Where are you going? (m.)",
+                        "Where is it?",
+                        "Where do you live?"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "« ከየት » (Keyyet) = From where? + ነህ (you are m.) = Where are you from?"
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («እኔ_3_4»):",
+                    "prompt": "Type the Amharic question word for 'Where?' (static location) in Fidel script (የት):",
                     "acceptedAnswers": [
-                        "እኔ_3_4"
+                        "የት",
+                        "yet",
+                        "Yet"
                     ],
-                    "explanation": "The target keyword was: 【እኔ_3_4】"
+                    "explanation": "« የት » (yet) = Where? (static)."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u3-l5": {
         "id": "am-u3-l5",
-        "subject": "amharic",
-        "unit": 3,
-        "lessonNumber": 5,
-        "title": "የግል ተውላጠ ስሞች እና መስተዋድድ (Personal Pronouns & Prepositions) (Part 5)",
+        "unit": "am-u3",
         "level": "A1",
-        "objective": "Comprehensive mastery of ተውላጠ ስሞች እና አቅጣጫዎች (Pronouns and Prepositions).",
+        "objective": "Synthesize personal pronouns, possession, location postpositions, and question words in connected conversational dialogues about identity, ownership, and place.",
+        "prerequisites": [
+            "am-u3-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u3-l2",
+                "am-u3-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ተውላጠ ስሞች እና አቅጣጫዎች (Pronouns and Prepositions) - ደረጃ 5) ተማሪዎች ስለ ተውላጠ ስሞች እና አቅጣጫዎች (Pronouns and Prepositions) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "In this Unit 3 Capstone lesson, we combine pronouns, possession, postpositions, and question words in natural Amharic conversations:\n\n1. Real-World Scenarios:\n- Meeting someone new (introductions with possession of names, origins)\n- Describing where things are located in a room or building\n- Asking for directions in an Ethiopian city\n\n2. Key Synthesis Patterns:\n- WHO + WHOSE + WHERE: « እሷ ናት? ስሟ ማን ነው? ቤቷ ወዴት ነው? »\n- PRONOUN + POSSESSIVE + LOCATION: « መጽሐፌ ጠረጴዛው ላይ ነው »",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የተውላጠ ስሞች እና አቅጣጫዎች (Pronouns and Prepositions) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (3.5.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ይቅርታ፣ ቤተ-ክርስቲያኑ ወዴት ነው? — ቀጥ ብለህ ሂድ ፣ ከዚያ ወደ ቀኝ ዞር።",
+                    "reading": "Yiqirta, bete-kirstiyanu wedet new? — Qet' biley hid, keziya wede qegn zor.",
+                    "translation": "Excuse me, where is the church? — Go straight ahead, then turn right."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (3.5.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ስሜ ሳራ ነው። ከባህር ዳር ነኝ። ቤቴ ወንዙ አጠገብ ነው።",
+                    "reading": "Sime Sara new. Kebahir Dar negn. Bete wenzu at'egeb new.",
+                    "translation": "My name is Sara. I am from Bahir Dar. My house is near the river."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (3.5.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የሱ ቀበሌ ምናልባት ቤቱ ፊት ለፊት ነው።",
+                    "reading": "Yesu qebele minalibat betu fit lefit new.",
+                    "translation": "His kebele office is probably in front of his house."
+                },
+                {
+                    "target": "ሁሉም ተማሪዎቻቸው ክፍሉ ውስጥ ናቸው።",
+                    "reading": "Hulum temariwoachew kiflu wust' nachew.",
+                    "translation": "All their students are inside the room."
+                },
+                {
+                    "target": "ወደ ቤቴ ስሄድ ፖስታ ቤቱን አያለሁ።",
+                    "reading": "Wede bete sihid posta betun ayalehu.",
+                    "translation": "When I go home, I see the post office."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ተውላጠ ስሞች እና አቅጣጫዎች (Pronouns and Prepositions)"
+                "SYNTHESIS = Pronoun (INE) + Possessive (SIME) + Location (BETE AT'EGEB) + Question (YET NEW?)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "The ቀበሌ (Kebele) is Ethiopia's smallest administrative unit, equivalent to a neighborhood ward office. Every Ethiopian knows their kebele number — it is where births, deaths, ID cards, and land matters are registered."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ተውላጠ ስሞች እና አቅጣጫዎች (Pronouns and Prepositions)» አጠቃቀም በደረጃ 5 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "How do you say 'My name is Dawit, I am from Gondar' in Amharic?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (3.5.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (3.5.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (3.5.3)።"
+                        "ስሜ ዳዊት ነው፣ ከጎንደር ነኝ። (Sime Dawit new, ke'Gondar negn.)",
+                        "ስምህ ዳዊት ነው፣ ከጎንደር ናህ።",
+                        "ስሟ ዳዊት ናት፣ ከጎንደር ናት።",
+                        "ስማቸው ዳዊት ነው፣ ከጎንደር ናቸው።"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "First person: ስሜ (my name) + ከጎንደር ነኝ (I am from Gondar)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የግል ተውላጠ ስሞች እና መስተዋድድ (Personal Pronouns & Prepositions)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 5)፡",
+                    "prompt": "Translate: 'The book is on my table.'",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (3.5.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (3.5.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (3.5.3)።"
+                        "መጽሐፉ የእኔ ጠረጴዛ ላይ ነው። (Mets'hafu ye'ine t'erep'eza lay new.)",
+                        "ጠረጴዛው ላይ ቤቴ ነው።",
+                        "ወደ ጠረጴዛው ሄደ።",
+                        "ጠረጴዛው ስሜ ላይ ነው።"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "Book (subject) + my table (ye'ine + noun) + on (lay) + is (new)."
                 }
             ]
         },
@@ -2445,24 +2554,28 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ተውላጠ ስሞች እና አቅጣጫዎች (Pronouns and Prepositions)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 3-5)?",
+                    "prompt": "What is the Amharic for 'Excuse me, where is the hospital?'",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (3.5.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (3.5.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (3.5.3)።"
+                        "ይቅርታ፣ ሆስፒታሉ የት ነው? (Yiqirta, hospitallu yet new?)",
+                        "ይቅርታ፣ ወዴት ትሄዳለህ?",
+                        "ሆስፒታሉ ከየት ነው?",
+                        "ይቅርታ፣ ሆስፒታሉ ስንት ብር ነው?"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "ይቅርታ (excuse me) + ሆስፒታሉ + የት ነው? (where is?)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («እኔ_3_5»):",
+                    "prompt": "Type the Amharic word for 'near / next to' (postposition) in Fidel script (አጠገብ):",
                     "acceptedAnswers": [
-                        "እኔ_3_5"
+                        "አጠገብ",
+                        "at'egeb",
+                        "Atʼegeb"
                     ],
-                    "explanation": "The target keyword was: 【እኔ_3_5】"
+                    "explanation": "አጠገብ (at'egeb) = near / next to."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u4-l1": {
