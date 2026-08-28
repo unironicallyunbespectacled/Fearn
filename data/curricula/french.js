@@ -7860,56 +7860,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u14-l5"
+            ]
         },
         "presentation": {
-            "explanation": "Thorough linguistic breakdown of Le Pronom Relatif Sujet QUI. In French B1, mastering this syntax structure enables learners to articulate complex interpersonal nuances, formal register shifts, and precise logical arguments.",
+            "explanation": "Relative pronouns connect two clauses by replacing a common antecedent noun. QUI functions as the grammatical subject of the verb that immediately follows it:\n\n1. The Core Syntactic Role:\n- QUI + [VERBE] (QUI is always the subject executing the action in the relative clause).\n- Example: 'J'ai un collègue. Ce collègue parle japonais.' -> 'J'ai un collègue QUI parle japonais.'\n\n2. The Golden Rule of Non-Elision:\nQUI NEVER ELIDES before vowels! (QUI + il -> 'qui il', NEVER 'qu'il').\n- Correct: 'C'est l'homme qui habite ici.' / 'C'est l'amie qui arrive demain.'\n- Fatal mistake: 'C'est l'amie qu'arrive demain' (INCORRECT).\n\n3. Agreement of the Subordinate Verb:\nThe verb after qui agrees in person and number with its antecedent:\n- 'C'est moi QUI ai raison.' (1st person singular!)\n- 'C'est vous QUI avez les clés.' (2nd person plural!)\n- 'Ce sont les étudiants QUI travaillent ici.' (3rd person plural!)",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Voici l'architecte qui a conçu la nouvelle bibliothèque municipale.",
+                    "reading": "vwah-see lahr-shee-tekt kee ah kohn-soo lah noo-vel bee-blee-oh-tek moo-nee-see-pahl",
+                    "translation": "Here is the architect who designed the new municipal library."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "C'est une opportunité exceptionnelle qui arrive rarement dans une carrière.",
+                    "reading": "say toon noh-pohr-too-nee-tay ek-sep-syohn-nel kee ah-reev rahr-mahn dahn zoon kah-ryair",
+                    "translation": "It is an exceptional opportunity that rarely comes in a career."
+                },
+                {
+                    "target": "C'est moi qui suis responsable de la gestion du budget cette année.",
+                    "reading": "say mwah kee swee res-pohn-sahbl duh lah zhes-tyohn doo bood-zheh set ah-nay",
+                    "translation": "It is I who am responsible for managing the budget this year."
+                },
+                {
+                    "target": "Les scientifiques qui travaillent sur ce vaccin ont publié leurs résultats.",
+                    "reading": "lay syahn-tee-feek kee trah-vah-yuh soor suh vahk-san ohn poo-blee-ay luhr ray-zool-tah",
+                    "translation": "The scientists who work on this vaccine published their results."
+                },
+                {
+                    "target": "Le train qui part à quatorze heures arrive directement à Marseille.",
+                    "reading": "luh tran kee pahr ah kah-tohr-z‿uhr ah-reev dee-rek-tuh-mahn ah mahr-say",
+                    "translation": "The train that leaves at 2 PM arrives directly in Marseille."
                 }
             ],
             "mnemonics": [
-                "Cognitive memory anchor for Le Pronom Relatif Sujet QUI"
+                "QUI STAYS WHOLE: Qui NEVER drops its 'i' (qui arrive, qui est). QUE is the one that drops its 'e' (qu'il)!",
+                "QUI + VERB: If a conjugated verb immediately follows, you need QUI!"
             ],
             "culturalNotes": [
-                "Sociolinguistic and cultural context for Le Pronom Relatif Sujet QUI in modern France."
+                "In French formal rhetoric and political discourse, cleft sentences with 'C'est... qui' ('C'est nous qui avons pris cette responsabilité') are standard for projecting decisive accountability."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Use the relative pronoun QUI as the grammatical subject of the subordi » :",
+                    "prompt": "Reliez les deux phrases avec QUI : « J'ai rencontré un étudiant. Cet étudiant apprend l'arabe. »",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (71a).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (71b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (71c)."
+                        "J'ai rencontré un étudiant qui apprend l'arabe.",
+                        "J'ai rencontré un étudiant qu'apprend l'arabe.",
+                        "J'ai rencontré un étudiant que apprend l'arabe.",
+                        "J'ai rencontré un étudiant dont apprend l'arabe."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "QUI est le sujet du verbe 'apprend' et ne s'élide jamais devant une voyelle."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u15-l1 :",
+                    "prompt": "Accordez correctement le verbe avec le pronom sujet QUI : « C'est vous qui _________ raison. »",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "L'antériorité temporelle est mal établie par rapport au repère (71x).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (71y).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (71z)."
+                        "avez",
+                        "a",
+                        "ont",
+                        "avons"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B1."
+                    "explanation": "Le verbe s'accorde avec l'antécédent 'vous', donc « C'est vous qui avez raison »."
                 }
             ]
         },
@@ -7917,25 +7935,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u15-l1) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle phrase illustre un emploi fautif du pronom relatif qui ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'antériorité temporelle est mal établie par rapport au repère (71m).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (71n).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (71p)."
+                        "L'employé qui ouvre la porte est ponctuel.",
+                        "La femme qu'arrive à la gare est ma cousine.",
+                        "C'est moi qui ai envoyé le courriel.",
+                        "Les fleurs qui poussent ici sont sauvages."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 1,
+                    "explanation": "« qu'arrive » est une faute ; QUI ne s'élide jamais devant une voyelle (« qui arrive »)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u15-l1 (terme attendu : « Nous ») :",
+                    "prompt": "Complétez la mise en relief : « C'est nous qui _________ (organiser) la conférence de presse. » (forme au présent de l'indicatif)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "organisons",
+                        "Organisons"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Le verbe s'accorde avec le pronom antécédent 'nous' : « organisons »."
                 }
             ],
             "passThreshold": 0.8
@@ -7951,56 +7968,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u15-l1"
+            ]
         },
         "presentation": {
-            "explanation": "Thorough linguistic breakdown of Le Pronom Relatif Objet Direct QUE. In French B1, mastering this syntax structure enables learners to articulate complex interpersonal nuances, formal register shifts, and precise logical arguments.",
+            "explanation": "QUE (or qu' before a vowel or silent h) replaces a direct object (COD) in the relative clause:\n\n1. The Core Syntactic Role:\n- QUE + [SUJET] + [VERBE] (QUE is the receiver of the action; a distinct subject always follows).\n- Example: 'J'ai lu le roman. Tu m'as conseillé ce roman.' -> 'J'ai lu le roman QUE tu m'as conseillé.'\n\n2. Mandatory Elision:\nUnlike qui, QUE elides systematically before vowels and silent h: 'qu'il', 'qu'elle', 'qu'on', 'qu'ils', 'qu'un'.\n- Example: 'Le cadeau QU'IL a offert.'\n\n3. Past Participle Agreement Rule (Accord du participe passé avec le COD antécédent):\nWhen the subordinate verb is in a compound tense conjugated with avoir (such as the passé composé), the past participle MUST agree in gender and number with the preceding direct object represented by QUE:\n- 'La lettre QUE j'ai écritE.' (lettre = fem. sing. -> +e)\n- 'Les photos QUE tu as prisES.' (photos = fem. plur. -> +es)\n- 'Les livres QUE nous avons achetéS.' (livres = masc. plur. -> +s)",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "La robe que Sophie a achetée hier est particulièrement élégante.",
+                    "reading": "lah rohb kuh soh-fee ah ahsh-tay yair ay pahr-tee-koo-lyair-mahn ay-lay-gahnt",
+                    "translation": "The dress that Sophie bought yesterday is particularly elegant."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Les documents confidentiels que le directeur a signés sont archivés.",
+                    "reading": "lay doh-koo-mahn kohn-fee-dahn-syel kuh luh dee-rek-tuhr ah seen-yay sohn tahr-shee-vay",
+                    "translation": "The confidential documents that the director signed are archived."
+                },
+                {
+                    "target": "C'est exactement la proposition qu'il attendait depuis plusieurs semaines.",
+                    "reading": "say teg-zahk-tuh-mahn lah proh-poh-zee-syohn keel ah-tahn-deh duh-pwee ploo-zyuhr suh-men",
+                    "translation": "It is exactly the proposal that he had been waiting for for several weeks."
+                },
+                {
+                    "target": "Voici les clés que nous avions égarées lors de notre voyage.",
+                    "reading": "vwah-see lay klay kuh noo zah-vyohn zay-gah-ray lohr duh noh-truh vwah-yahzh",
+                    "translation": "Here are the keys that we had misplaced during our trip."
+                },
+                {
+                    "target": "Le film que vous m'avez recommandé était absolument remarquable.",
+                    "reading": "luh feelm kuh voo mah-vay ruh-koh-mahn-day ay-teh tahb-soh-loo-mahn ruh-mahr-kahbl",
+                    "translation": "The movie that you recommended to me was absolutely remarkable."
                 }
             ],
             "mnemonics": [
-                "Cognitive memory anchor for Le Pronom Relatif Objet Direct QUE"
+                "QUE + SUBJECT, QUI + VERB: If a subject (il, elle, vous) follows, use QUE! If a verb directly follows, use QUI!",
+                "PRECEDING COD AGREEMENT: Look backward before avoir! If QUE represents a feminine or plural noun, dress up the past participle!"
             ],
             "culturalNotes": [
-                "Sociolinguistic and cultural context for Le Pronom Relatif Objet Direct QUE in modern France."
+                "Past participle agreement with preceding 'que' is one of the most celebrated grammatical benchmarks of high-register French."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Use the relative pronoun QUE (qu') as the direct object and execute pa » :",
+                    "prompt": "Choisissez la phrase qui applique correctement l'accord du participe passé avec le pronom relatif QUE :",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "La préposition employée ici n'est pas commandée par le verbe (72a).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (72b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (72c)."
+                        "Les tartes que maman a préparées sont délicieuses.",
+                        "Les tartes que maman a préparé sont délicieuses.",
+                        "Les tartes qui maman a préparé sont délicieuses.",
+                        "Les tartes qu'il a préparé sont délicieuses."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "« tartes » est féminin pluriel et précède l'auxiliaire avoir via 'que' ; le participe passé prend donc '-es' : « préparées »."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u15-l2 :",
+                    "prompt": "Complétez avec le pronom adéquat : « Le rapport _________ l'ingénieur a rédigé est très complet. »",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "La préposition employée ici n'est pas commandée par le verbe (72x).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (72y).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (72z)."
+                        "que",
+                        "qui",
+                        "dont",
+                        "où"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B1."
+                    "explanation": "'L'ingénieur' est le sujet et le rapport est l'objet direct du verbe rédiger ; on emploie « que »."
                 }
             ]
         },
@@ -8008,25 +8043,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u15-l2) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle phrase comporte une faute d'accord avec le pronom relatif que ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "La préposition employée ici n'est pas commandée par le verbe (72m).",
-                        "Cette forme présente une anomalie phonétique en français standard (72n).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (72p)."
+                        "La maison que mes grands-parents ont construite est ancienne.",
+                        "Les lettres qu'il a envoyées sont arrivées ce matin.",
+                        "Les valises que nous avons emporté étaient trop lourdes.",
+                        "La chanson que nous avons entendue était émouvante."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 2,
+                    "explanation": "« valises » étant féminin pluriel, le participe passé 'emporté' devait s'accorder avec '-es' (« emportées »)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u15-l2 (terme attendu : « Nous ») :",
+                    "prompt": "Écrivez la forme correcte du participe passé : « Voici la pomme que j'ai _________ (manger). »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "mangée",
+                        "Mangée"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "L'antécédent 'pomme' est féminin singulier, donc accord : « mangée »."
                 }
             ],
             "passThreshold": 0.8
@@ -8042,56 +8076,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u15-l2"
+            ]
         },
         "presentation": {
-            "explanation": "Thorough linguistic breakdown of Le Pronom Relatif OÙ (Lieu et Temps). In French B1, mastering this syntax structure enables learners to articulate complex interpersonal nuances, formal register shifts, and precise logical arguments.",
+            "explanation": "The relative pronoun OÙ (always written with a grave accent ù to distinguish it from the conjunction ou / 'or') replaces expressions of place (space) and time (moment):\n\n1. OÙ of Place (Spatial Reference):\nTranslates to English 'where', 'in which', 'to which':\n- 'La ville OÙ je suis né.' (The town where I was born.)\n- 'Le restaurant OÙ nous avons déjeuné.' (The restaurant where we had lunch.)\n- Note with D'OÙ: indicates geographic origin ('Le village d'où il vient' - The village from where he comes).\n\n2. OÙ of Time (Temporal Reference):\nTranslates to English 'when', 'in which', 'on which':\nIn French, NEVER use 'quand' as a relative pronoun with a noun antecedent!\n- Incorrect: 'Le jour quand nous sommes arrivés...' (ANGLICISM)\n- Correct: 'Le jour OÙ nous sommes arrivés...' (The day [when] we arrived...)\nCommon temporal triggers: l'année où, le moment où, l'époque où, la première fois où, à l'heure où.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Paris est la ville où mes parents se sont rencontrés pour la première fois.",
+                    "reading": "pah-ree ay lah veel oo may pah-rahn suh sohn rahn-kohn-tray poor lah pruh-myair fwah",
+                    "translation": "Paris is the city where my parents met for the first time."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Je me souviendrai toujours du jour où nous avons décroché notre diplôme.",
+                    "reading": "zhuh muh soo-vyan-dray too-zhoor doo zhoor oo noo zah-vyohn day-kroh-shay noh-truh deep-lohm",
+                    "translation": "I will always remember the day when we earned our diploma."
+                },
+                {
+                    "target": "Voici le village d'où mes ancêtres sont originaires.",
+                    "reading": "vwah-see luh vee-lahzh doo may zahn-setr sohn toh-ree-zhee-nair",
+                    "translation": "Here is the village from which my ancestors originate."
+                },
+                {
+                    "target": "Au moment où l'alarme a retenti, tout le monde a évacué le bâtiment.",
+                    "reading": "oh moh-mahn oo lah-lahrm ah ruh-tahn-tee, too luh mohnd ah ay-vah-koo-ay luh bah-tee-mahn",
+                    "translation": "The moment the alarm sounded, everyone evacuated the building."
+                },
+                {
+                    "target": "C'est une époque où les communications internationales étaient lentes et difficiles.",
+                    "reading": "say toon nay-pohk oo lay koh-moo-nee-kah-syohn an-tair-nah-syoh-nahl ay-teh lahnt ay dee-fee-seel",
+                    "translation": "It was an era when international communications were slow and difficult."
                 }
             ],
             "mnemonics": [
-                "Cognitive memory anchor for Le Pronom Relatif OÙ (Lieu et Temps)"
+                "NEVER 'LE JOUR QUAND': In English you say 'the day WHEN', but French ALWAYS says 'le jour OÙ'!",
+                "The grave accent (ù) plants OÙ like a pin on a map or a calendar date!"
             ],
             "culturalNotes": [
-                "Sociolinguistic and cultural context for Le Pronom Relatif OÙ (Lieu et Temps) in modern France."
+                "French literature abounds with poetic temporal formulations using où, such as Victor Hugo's classic opening: 'À l'heure où blanchit la campagne...'"
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Use the relative pronoun OÙ to express spatial locations and precise p » :",
+                    "prompt": "Quelle phrase traduit correctement « I remember the year when we moved to Lyon » ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (73a).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (73b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (73c)."
+                        "Je me rappelle l'année où nous avons déménagé à Lyon.",
+                        "Je me rappelle l'année quand nous avons déménagé à Lyon.",
+                        "Je me rappelle l'année que nous avons déménagé à Lyon.",
+                        "Je me rappelle l'année dont nous avons déménagé à Lyon."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Pour un antécédent temporel ('l'année'), le pronom relatif obligatoire en français est « où » (et jamais 'quand')."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u15-l3 :",
+                    "prompt": "Complétez avec le pronom relatif convenable : « C'est l'hôtel _________ nous avons séjourné l'été dernier. »",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette proposition modifie subtilement le sens originel du verbe (73x).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (73y).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (73z)."
+                        "où",
+                        "qui",
+                        "que",
+                        "dont"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B1."
+                    "explanation": "L'antécédent 'l'hôtel' est un lieu où se déroule l'action ; on emploie le pronom relatif « où »."
                 }
             ]
         },
@@ -8099,25 +8151,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u15-l3) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Identifiez l'anglicisme incorrect parmi les propositions suivantes :",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette proposition modifie subtilement le sens originel du verbe (73m).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (73n).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (73p)."
+                        "Le moment où il a parlé était solennel.",
+                        "Le jour quand il est parti était pluvieux.",
+                        "La maison où j'ai grandi a été vendue.",
+                        "Le pays d'où proviennent ces épices est lointain."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 1,
+                    "explanation": "« Le jour quand » est un anglicisme incorrect ; la syntaxe française exige « Le jour où »."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u15-l3 (terme attendu : « Nous ») :",
+                    "prompt": "Complétez l'indication de temps : « C'était à l'époque _________ le train à vapeur dominait les transports. »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "où",
+                        "Où"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Le pronom relatif temporel s'écrit avec un accent grave : « où »."
                 }
             ],
             "passThreshold": 0.8
@@ -8133,56 +8184,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u15-l3"
+            ]
         },
         "presentation": {
-            "explanation": "Thorough linguistic breakdown of Le Pronom Relatif DONT (Complément de DE). In French B1, mastering this syntax structure enables learners to articulate complex interpersonal nuances, formal register shifts, and precise logical arguments.",
+            "explanation": "DONT replaces any person, thing, or concept governed by the preposition DE (de, du, de la, de l', des):\n\n1. Verbs Followed by 'DE':\n- 'parler de' -> Le livre DONT je parle. (The book I'm talking about.)\n- 'avoir besoin de' -> L'outil DONT j'ai besoin. (The tool I need.)\n- 'avoir peur de' -> La situation DONT ils ont peur. (The situation they fear.)\n- 'se souvenir de' -> Les vacances DONT nous nous souvenons. (The vacation we remember.)\n- Other verbs: s'occuper de, rêver de, profiter de, dépendre de, souffrir de.\n\n2. Adjectives Followed by 'DE':\n- 'être fier de' -> Mon fils, DONT je suis si fier. (My son, of whom I am so proud.)\n- 'être responsable de', 'être satisfait de', 'être amoureux de'.\n\n3. Expression of Possession (English 'Whose' / 'Of which'):\n- 'J'ai rencontré un écrivain. Le roman de cet écrivain est un succès.' -> 'J'ai rencontré un écrivain DONT le roman est un succès.'\n\n4. Strict Word Order with Articles:\nIn French, DONT is ALWAYS followed by the definite article + noun (dont LE père, dont LA voiture, dont LES travaux) — never omit the article!",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "C'est précisément l'ordinateur portable dont j'ai besoin pour mon travail de graphiste.",
+                    "reading": "say pray-see-zuh-mahn lohr-dee-nah-tuhr pohr-tahbl dohn zhay buh-zwan poor mohn trah-vah-yuh duh grah-feest",
+                    "translation": "This is precisely the laptop I need for my graphic design work."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Voici l'étudiante talentueuse dont les professeurs louent la rigueur exemplaire.",
+                    "reading": "vwah-see lay-too-dyahnt tah-lahn-twuhz dohn lay proh-feh-suhr loo lah ree-guhr eg-zahm-plair",
+                    "translation": "Here is the talented student whose professors praise her exemplary rigor."
+                },
+                {
+                    "target": "Le projet innovant dont nous parlons depuis un mois a enfin été validé.",
+                    "reading": "luh proh-zheh ee-noh-vahn dohn noo pahr-lohn duh-pwee zuhn mwah ah ahn-fan ay-tay vah-lee-day",
+                    "translation": "The innovative project we have been talking about for a month has finally been validated."
+                },
+                {
+                    "target": "C'est une expérience inoubliable dont elle se souviendra toute sa vie.",
+                    "reading": "say toon nek-spay-ryahns ee-noo-blee-ahbl dohn tel suh soo-vyan-drah toot sah vee",
+                    "translation": "It is an unforgettable experience that she will remember all her life."
+                },
+                {
+                    "target": "Le musée du Louvre abrite des chefs-d'œuvre dont la renommée est mondiale.",
+                    "reading": "luh moo-zay doo loovr ah-breet day sheh-duhvr dohn lah ruh-noh-may ay mohn-dyahl",
+                    "translation": "The Louvre museum houses masterpieces whose renown is worldwide."
                 }
             ],
             "mnemonics": [
-                "Cognitive memory anchor for Le Pronom Relatif DONT (Complément de DE)"
+                "DONT = 'DE' IN DISGUISE: If the verb or idiom contains DE (avoir besoin DE, parler DE), DONT is the only key that fits!",
+                "DONT + LE/LA/LES: Never skip the article! 'Whose car' = 'dont LA voiture'."
             ],
             "culturalNotes": [
-                "Sociolinguistic and cultural context for Le Pronom Relatif DONT (Complément de DE) in modern France."
+                "While informal spoken French sometimes replaces 'dont' with 'que' ('le film que je te parlais'), this is considered an uneducated blunder in academic and professional contexts."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Use the relative pronoun DONT to replace prepositional complements int » :",
+                    "prompt": "Reliez les deux propositions : « C'est un collègue. J'apprécie le professionnalisme de ce collègue. »",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette forme présente une anomalie phonétique en français standard (74a).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (74b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (74c)."
+                        "C'est un collègue dont j'apprécie le professionnalisme.",
+                        "C'est un collègue que j'apprécie son professionnalisme.",
+                        "C'est un collègue qui j'apprécie le professionnalisme.",
+                        "C'est un collègue où j'apprécie le professionnalisme."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Le complément de possession 'de ce collègue' est remplacé par DONT, suivi de l'article défini 'le professionnalisme'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u15-l4 :",
+                    "prompt": "Complétez la phrase : « Le document _________ nous avons discuté hier est confidentiel. »",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette forme présente une anomalie phonétique en français standard (74x).",
-                        "La préposition employée ici n'est pas commandée par le verbe (74y).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (74z)."
+                        "dont",
+                        "que",
+                        "qui",
+                        "où"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B1."
+                    "explanation": "Le verbe 'discuter de' se construit avec la préposition 'de' ; le pronom relatif requis est donc « dont »."
                 }
             ]
         },
@@ -8190,25 +8259,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u15-l4) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Pourquoi utilise-t-on DONT dans la phrase : « C'est l'erreur dont j'avais le plus peur » ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette forme présente une anomalie phonétique en français standard (74m).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (74n).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (74p)."
+                        "Parce que l'expression verbale est 'avoir peur DE'.",
+                        "Parce que l'erreur est un sujet d'action.",
+                        "Parce que l'erreur indique un lieu précis.",
+                        "Parce que la phrase est au passé composé."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "La locution verbale 'avoir peur de' régit la préposition DE, ce qui impose l'emploi du pronom relatif DONT."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u15-l4 (terme attendu : « Nous ») :",
+                    "prompt": "Complétez avec le pronom relatif adéquat : « Voici le matériel _________ nous avons besoin pour la rénovation. »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "dont",
+                        "Dont"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "L'expression 'avoir besoin de' impose le pronom relatif « dont »."
                 }
             ],
             "passThreshold": 0.8
@@ -8224,56 +8292,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u15-l4"
+            ]
         },
         "presentation": {
-            "explanation": "Thorough linguistic breakdown of Les Pronoms Relatifs Indéfinis (Ce qui, Ce que, Ce dont). In French B1, mastering this syntax structure enables learners to articulate complex interpersonal nuances, formal register shifts, and precise logical arguments.",
+            "explanation": "When a relative clause has no specific noun antecedent (referring instead to an entire idea, an abstract concept, or meaning 'what / that which'), French pairs the demonstrative pronoun CE with the relative pronouns:\n\n1. CE QUI (Indefinite Subject -> 'what / that which happens'):\n- Followed directly by a verb.\n- 'Ce qui m'intéresse, c'est l'histoire.' (What interests me is history.)\n- 'Il est arrivé en retard, ce qui a énervé le patron.' (He arrived late, which annoyed the boss.)\n\n2. CE QUE / CE QU' (Indefinite Direct Object -> 'what / that which [someone] does'):\n- Followed by subject + verb.\n- 'Je comprends ce que tu dis.' (I understand what you are saying.)\n- 'Fais ce qu'il te demande.' (Do what he asks you.)\n\n3. CE DONT (Indefinite Object of 'DE' -> 'what / that which [someone] needs/speaks of'):\n- Used with verbs and adjectives requiring de.\n- 'Ce dont j'ai besoin, c'est de repos.' (What I need is rest.)\n- 'Ce dont nous parlons est confidentiel.' (What we are discussing is confidential.)\n\n4. Emphatic Cleft Sentences:\n- 'Ce qui... c'est...' / 'Ce que... c'est...' / 'Ce dont... c'est...'\n- Example: 'Ce que j'aime le plus à Paris, ce sont les musées.'",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Ce qui m'impressionne le plus chez ce pianiste, c'est sa virtuosité technique.",
+                    "reading": "suh kee mam-preh-syohn luh ploo shay suh pyah-neest, say sah veer-too-oh-zee-tay tek-neek",
+                    "translation": "What impresses me most about this pianist is his technical virtuosity."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Dis-moi franchement ce que tu penses de cette nouvelle stratégie commerciale.",
+                    "reading": "dee-mwah frahnsh-mahn suh kuh too pahns duh set noo-vel strah-tay-zhee koh-mair-syahl",
+                    "translation": "Tell me frankly what you think of this new commercial strategy."
+                },
+                {
+                    "target": "Ce dont nous manquons cruellement dans ce projet, ce sont des ressources financières.",
+                    "reading": "suh dohn noo mahn-kohn kroo-el-mahn dahn suh proh-zheh, suh sohn day ruh-soors fee-nahn-syair",
+                    "translation": "What we cruelly lack in this project is financial resources."
+                },
+                {
+                    "target": "Il a oublié notre rendez-vous, ce qui prouve son manque total de sérieux.",
+                    "reading": "eel ah oo-blee-ay noh-truh rahn-day-voo, suh kee proov sohn mahnk toh-tahl duh say-ryuh",
+                    "translation": "He forgot our appointment, which proves his complete lack of reliability."
+                },
+                {
+                    "target": "Prenez exactement ce dont vous avez besoin pour terminer les travaux ce soir.",
+                    "reading": "pruh-nay zeg-zahk-tuh-mahn suh dohn voo zah-vay buh-zwan poor tair-mee-nay lay trah-voh suh swahr",
+                    "translation": "Take exactly what you need to finish the work tonight."
                 }
             ],
             "mnemonics": [
-                "Cognitive memory anchor for Les Pronoms Relatifs Indéfinis (Ce qui, Ce que, Ce dont)"
+                "CE QUI + VERB (What acts). CE QUE + SUBJECT (What you do). CE DONT + 'DE' VERB (What you need/speak of)!",
+                "Never translate 'what' as 'quoi' in the middle of a sentence like 'I know what you did'! Use 'Je sais CE QUE tu as fait'!"
             ],
             "culturalNotes": [
-                "Sociolinguistic and cultural context for Les Pronoms Relatifs Indéfinis (Ce qui, Ce que, Ce dont) in modern France."
+                "The emphatic formula 'Ce qui compte, c'est...' (What matters is...) is a staple of French philosophical essays and persuasive discourse."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Deploy indefinite relative pronouns CE QUI, CE QUE, and CE DONT to ref » :",
+                    "prompt": "Complétez la mise en relief : « _________ me plaît dans cette ville, c'est son dynamisme culturel. »",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (75a).",
-                        "Cette construction passive alourdit inutilement l'énoncé (75b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (75c)."
+                        "Ce qui",
+                        "Ce que",
+                        "Ce dont",
+                        "Quoi"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "L'élément recherché est le sujet du verbe 'plaît' ; on emploie donc le pronom indéfini sujet « Ce qui »."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u15-l5 :",
+                    "prompt": "Traduisez « What I need is a good coffee » :",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette construction passive alourdit inutilement l'énoncé (75x).",
-                        "Cette construction passive alourdit inutilement l'énoncé (75y).",
-                        "Cette construction passive alourdit inutilement l'énoncé (75z)."
+                        "Ce dont j'ai besoin, c'est d'un bon café.",
+                        "Ce que j'ai besoin, c'est d'un bon café.",
+                        "Ce qui j'ai besoin, c'est d'un bon café.",
+                        "Quoi j'ai besoin, c'est d'un bon café."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B1."
+                    "explanation": "L'expression 'avoir besoin de' exige « Ce dont »."
                 }
             ]
         },
@@ -8281,25 +8367,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u15-l5) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Choisissez la phrase où 'ce que' et 'ce dont' sont employés à bon escient :",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette construction passive alourdit inutilement l'énoncé (75m).",
-                        "Cette construction passive alourdit inutilement l'énoncé (75n).",
-                        "Cette construction passive alourdit inutilement l'énoncé (75p)."
+                        "Je sais ce dont tu as écrit et ce que tu parles.",
+                        "Je sais ce que tu as écrit et ce dont tu parles.",
+                        "Je sais ce qui tu as écrit et ce que tu parles.",
+                        "Je sais ce que tu as écrit et ce qui tu parles."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 1,
+                    "explanation": "« écrire » prend un COD direct ('ce que tu as écrit'), tandis que « parler » prend la préposition de ('ce dont tu parles')."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u15-l5 (terme attendu : « Nous ») :",
+                    "prompt": "Complétez la proposition : « Expliquez-moi ce _________ s'est passé hier soir. » (sujet de 's'est passé')",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "qui",
+                        "Qui"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Comme l'élément est le sujet du verbe s'est passé, on utilise « ce qui »."
                 }
             ],
             "passThreshold": 0.8
