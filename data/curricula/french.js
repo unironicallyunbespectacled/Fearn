@@ -17061,56 +17061,73 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u31-l5"
+            ]
         },
         "presentation": {
-            "explanation": "Mastery analysis of Protocoles Diplomatiques et Usages d'État. At the C2 summit level, the learner demonstrates near-native linguistic agility, flawless stylistic sophistication, and profound rhetorical command over protocoles diplomatiques et usages d'état.",
+            "explanation": "French diplomatic rhetoric (le langage diplomatique et le protocole d'État) embodies centuries of diplomatic precedent (Quai d'Orsay, Convention de Vienne de 1961 sur les relations diplomatiques):\n\n1. Diplomatic Appointments & Accreditations:\n- La demande d'agrément (consentement préalable accordé à l'ambassadeur désigné).\n- La remise solennelle des lettres de créance au Chef de l'État.\n- L'Ambassadeur extraordinaire et plénipotentiaire et le Doyen du corps diplomatique.\n- La déclaration de persona non grata en vertu de l'article 9 de la Convention de Vienne.\n\n2. Formal Protocol Epistolary Formulas:\n- « Veuillez agréer, Excellence, les assurances de ma très haute considération. »",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Son Excellence Monsieur l'Ambassadeur extraordinaire et plénipotentiaire a l'honneur de remettre ses lettres de créance au Président de la République.",
+                    "reading": "sohn nek-seh-lahns muh-syuh lahn-bah-sah-duhr eks-trah-ohr-dee-nair ay play-nee-poh-tahn-syair ah loh-nuhr duh ruh-meh-truh say leh-truh duh kray-ahns oh pray-zee-dahn duh lah ray-poo-bleek",
+                    "translation": "His Excellency the Ambassador Extraordinary and Plenipotentiary has the honor of presenting his letters of credence to the President of the Republic."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Le Ministère de l'Europe et des Affaires étrangères a notifié l'octroi de l'agrément diplomatique au nouvel ambassadeur désigné.",
+                    "reading": "luh mee-nees-tair duh luh-rohp ay day zah-fair zay-trahn-zhair ah noh-tee-fyay lohk-trwah duh lah-gray-mahn deep-loh-mah-teek oh noo-vel lahn-bah-sah-duhr day-zeen-yay",
+                    "translation": "The Ministry for Europe and Foreign Affairs notified the granting of diplomatic agrément to the newly designated ambassador."
+                },
+                {
+                    "target": "Je vous prie d'agréer, Monsieur le Ministre, les assurances de ma très haute considération et de mon profond respect.",
+                    "reading": "zhuh voo pree dah-gray-ay, muh-syuh luh mee-nees-truh, lay zah-soo-rahns duh mah treh oht kohn-see-day-rah-syohn ay duh mohn proh-fohn res-peh",
+                    "translation": "Please accept, Mr. Minister, the assurances of my highest consideration and deep respect."
+                },
+                {
+                    "target": "En vertu de l'article neuf de la Convention de Vienne, l'État accréditaire peut à tout moment déclarer un diplomate persona non grata sans motiver sa décision.",
+                    "reading": "ahn vair-too duh lahr-tee-kluh nuhf duh lah kohn-vahn-syohn duh vyen, lay-tah ah-kray-dee-tair puh ah too moh-mahn day-klah-ray uhn deep-loh-maht pair-soh-nah nohn grah-tah sahn moh-tee-vay sah day-see-zyohn",
+                    "translation": "Under Article 9 of the Vienna Convention, the receiving State may at any time declare a diplomat persona non grata without explaining its decision."
+                },
+                {
+                    "target": "Le protocole d'État organise le placement officiel des délégations étrangères selon l'ordre de préséance diplomatique rigoureusement établi.",
+                    "reading": "luh proh-toh-kohl day-tah ohr-gah-neez luh plahs-mahn oh-fee-syel day day-lay-gah-syohn zay-trahn-zhair suh-lohn lohr-druh duh pray-say-dahns deep-loh-mah-teek ree-goo-ruhz-mahn ay-tah-blee",
+                    "translation": "State protocol organizes the official seating of foreign delegations according to the rigorously established diplomatic order of precedence."
                 }
             ],
             "mnemonics": [
-                "Rhetorical mastery anchor for Protocoles Diplomatiques et Usages d'État"
+                "PROTOCOLE DIPLOMATIQUE: Agrément -> Lettres de créance -> Corps diplomatique -> Haute considération!"
             ],
             "culturalNotes": [
-                "High cultural and institutional significance of Protocoles Diplomatiques et Usages d'État in the Francophone world."
+                "The French Ministry of Foreign Affairs is universally known by its metonym Le Quai d'Orsay, located on the left bank of the Seine in Paris."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Master formal diplomatic registers, credentials, and state protocol co » :",
+                    "prompt": "Quelle formule protocolaire solennelle clôt traditionnellement une note diplomatique officielle de haute courtoisie ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (156a).",
-                        "Cette forme présente une anomalie phonétique en français standard (156b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (156c)."
+                        "« Veuillez agréer, Excellence, les assurances de ma très haute considération. »",
+                        "« À bientôt pour de nouvelles discussions informelles. »",
+                        "« Merci de me répondre par retour de courrier électronique. »",
+                        "« Salutations distinguées de ma part et de toute l'équipe. »"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Cette formule canonique est la marque d'élégance et d'estime la plus élevée dans la correspondance diplomatique francophone."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u32-l1 :",
+                    "prompt": "Que désigne l'« agrément » dans le droit diplomatique international ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (156x).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (156y).",
-                        "Cette forme présente une anomalie phonétique en français standard (156z)."
+                        "Le consentement préalable donné par l'État d'accueil à la nomination d'un ambassadeur étranger",
+                        "Un traité commercial de libre-échange",
+                        "Une fête nationale organisée à l'ambassade",
+                        "Un passeport touristique ordinaire"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C2."
+                    "explanation": "L'agrément est l'acceptation officielle préalable par l'État accréditaire de la personne proposée comme chef de mission diplomatique."
                 }
             ]
         },
@@ -17118,25 +17135,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u32-l1) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quel terme de droit international désigne un diplomate dont la présence n'est plus tolérée sur le territoire de l'État d'accueil ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (156m).",
-                        "La préposition employée ici n'est pas commandée par le verbe (156n).",
-                        "Cette forme présente une anomalie phonétique en français standard (156p)."
+                        "Un consul honoraire",
+                        "Persona non grata",
+                        "Attaché culturel",
+                        "Plénipotentiaire"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 1,
+                    "explanation": "La déclaration de « persona non grata » oblige l'État d'envoi à rappeler son agent ou à mettre fin à ses fonctions diplomatiques."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u32-l1 (terme attendu : « Nous ») :",
+                    "prompt": "Quel métonyme désigne traditionnellement le Ministère français des Affaires étrangères d'après le quai parisien où il siège ? (le Quai d'_________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "Orsay",
+                        "orsay"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Le ministère français des Affaires étrangères est le « Quai d'Orsay »."
                 }
             ],
             "passThreshold": 0.8
@@ -17152,56 +17168,73 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u32-l1"
+            ]
         },
         "presentation": {
-            "explanation": "Mastery analysis of Rédaction de Traités Internationaux et Communiqués Conjoints. At the C2 summit level, the learner demonstrates near-native linguistic agility, flawless stylistic sophistication, and profound rhetorical command over rédaction de traités internationaux et communiqués conjoints.",
+            "explanation": "The drafting of international treaties and bilateral accords (la rédaction des traités et accords internationaux) in French follows canonical structural codifications (Convention de Vienne de 1969 sur le droit des traités):\n\n1. Structure of an International Treaty:\n- Le Préambule : « Les Hautes Parties contractantes, Soucieuses de..., Convaincues que..., Sont convenues de ce qui suit... »\n- Le Dispositif : Articles formulant les engagements normatifs au présent indicatif.\n- Les Clauses finales : Entrée en vigueur, ratifications, adhésions, réserves et clause d'authenticité linguistique (« faisant également foi »).\n\n2. Joint Communiqués (Déclarations conjointes) : Formulations diplomatiques pesées marquant la convergence de vues.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Les Hautes Parties contractantes, résolues à préserver la paix et la sécurité internationales, sont convenues des dispositions suivantes.",
+                    "reading": "lay zohht pahr-tee kohn-trahk-tahnt, ray-zoh-loo ah pray-zair-vay lah peh ay lah say-koo-ree-tay an-tair-nah-syoh-nahl, sohnt kohn-vuh-noo day dees-poh-zee-syohn swee-vahnt",
+                    "translation": "The High Contracting Parties, determined to preserve international peace and security, have agreed upon the following provisions."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Le présent traité entrera en vigueur le premier jour du deuxième mois suivant le dépôt du trentième instrument de ratification auprès du dépositaire.",
+                    "reading": "luh pray-zahn treh-tay ahn-truh-rah ahn vee-guhr luh pruh-myay zhoor doo duh-zyem mwah swee-vahn luh day-poh doo trahn-tyem an-stroo-mahn duh rah-tee-fee-kah-syohn oh-preh doo day-poh-zee-tair",
+                    "translation": "The present treaty shall enter into force on the first day of the second month following the deposit of the thirtieth instrument of ratification with the depositary."
+                },
+                {
+                    "target": "Tout État peut, au moment de la signature ou de la ratification, formuler une réserve excluant ou modifiant l'effet juridique de certaines dispositions.",
+                    "reading": "too tay-tah puh, oh moh-mahn duh lah seen-yah-toor oo duh lah rah-tee-fee-kah-syohn, fohr-moo-lay oon ray-zairv eks-kloo-ahn oo moh-dee-fyahn lay-feh zhoo-ree-deek duh sair-ten dees-poh-zee-syohn",
+                    "translation": "Any State may, upon signature or ratification, formulate a reservation excluding or modifying the legal effect of certain provisions."
+                },
+                {
+                    "target": "Fait à Genève, en double exemplaire original en langue française, les deux textes faisant également foi.",
+                    "reading": "feh ah zhuh-nev, ahn doo-bluh eg-zahm-plair oh-ree-zhee-nahl ahn lahng frahn-sez, lay duh tekst fuh-zahn ay-gahl-mahn fwah",
+                    "translation": "Done at Geneva, in duplicate original in the French language, both texts being equally authentic."
+                },
+                {
+                    "target": "Dans leur déclaration conjointe, les deux gouvernements réitèrent leur attachement indéfectible au respect du droit international humanitaire.",
+                    "reading": "dahn luhr day-klah-rah-syohn kohn-zhwant, lay duh goo-vair-nuh-mahn ray-ee-tair luhr ah-tahsh-mahn an-day-fek-teebl oh res-peh doo drwah an-tair-nah-syoh-nahl oo-mah-nee-tair",
+                    "translation": "In their joint statement, both governments reiterate their unswerving commitment to the respect of international humanitarian law."
                 }
             ],
             "mnemonics": [
-                "Rhetorical mastery anchor for Rédaction de Traités Internationaux et Communiqués Conjoints"
+                "TRAITÉ: Préambule (Hautes Parties) -> Dispositif (Articles) -> Clauses finales (Ratification / Faisant foi)!"
             ],
             "culturalNotes": [
-                "High cultural and institutional significance of Rédaction de Traités Internationaux et Communiqués Conjoints in the Francophone world."
+                "In multilateral treaties, the clause « le texte en langue française faisant également foi » guarantees that the French version has equal authentic authority."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Draft multilateral treaties, bilateral accords, and official joint com » :",
+                    "prompt": "Dans le préambule d'un traité international rédigé en français, comment désigne-t-on traditionnellement les États signataires ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "La préposition employée ici n'est pas commandée par le verbe (157a).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (157b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (157c)."
+                        "Les Hautes Parties contractantes",
+                        "Les clients signataires",
+                        "Les pays participants du club",
+                        "Les délégations amies"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "« Les Hautes Parties contractantes » est l'appellation juridique solennelle consacrée dans le droit international public francophone."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u32-l2 :",
+                    "prompt": "Que signifie la mention légale « les textes faisant également foi » à la fin d'un accord international bilingue ou multilingue ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (157x).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (157y).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (157z)."
+                        "Que chaque version linguistique possède une autorité juridique et interprétative rigoureusement identique",
+                        "Que le texte le plus court sera choisi en cas de désaccord",
+                        "Qu'aucun des textes n'est valable",
+                        "Que les diplomates doivent apprendre par cœur le document"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C2."
+                    "explanation": "L'expression « faisant foi » confère une force probante et une authenticité juridique égale à chaque version linguistique officielle."
                 }
             ]
         },
@@ -17209,25 +17242,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u32-l2) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle déclaration unilatérale permet à un État d'exclure ou de moduler l'application d'une clause d'un traité à son égard lors de la ratification ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (157m).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (157n).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (157p)."
+                        "Un veto parlementaire",
+                        "Une réserve (ou déclaration interprétative)",
+                        "Une motion de destitution",
+                        "Une amende contractuelle"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 1,
+                    "explanation": "Une « réserve » émise par un État lors de la signature ou ratification limite ou précise l'effet juridique de certains articles à son égard."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u32-l2 (terme attendu : « Nous ») :",
+                    "prompt": "Quel acte juridique solennel signé par le Chef de l'État confirme définitivement l'engagement international d'un État à être lié par un traité ? (l'instrument de _________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "ratification",
+                        "Ratification"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "L'acte est l'instrument de « ratification »."
                 }
             ],
             "passThreshold": 0.8
@@ -17243,56 +17275,73 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u32-l2"
+            ]
         },
         "presentation": {
-            "explanation": "Mastery analysis of Négociations Multilatérales aux Nations Unies et au Sein de l'UE. At the C2 summit level, the learner demonstrates near-native linguistic agility, flawless stylistic sophistication, and profound rhetorical command over négociations multilatérales aux nations unies et au sein de l'ue.",
+            "explanation": "Multilateral negotiations in the United Nations system, the European Union, and the Francophonie (les négociations multilatérales) require mastering parliamentary diplomacy rules and consensus language:\n\n1. Multilateral Parliamentary Procedures:\n- Une motion d'ordre (point of order soulevé sur le règlement de séance).\n- Le droit de réponse accordé à une délégation mise en cause.\n- L'adoption d'un texte par consensus sans mise aux voix formelle.\n- Le vote à la majorité qualifiée (Conseil de l'UE) et le droit de veto des membres permanents (Conseil de sécurité de l'ONU).\n\n2. The Francophonie in Global Governance:\n- Rôle de l'Organisation Internationale de la Francophonie (OIF) et statut du français comme langue de travail aux Nations Unies et à la CJUE.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Monsieur le Secrétaire général, la France réaffirme son attachement au multilatéralisme fondé sur le respect scrupuleux de la Charte des Nations Unies.",
+                    "reading": "muh-syuh luh say-kray-tair zhay-nay-rahl, lah frahns ray-ah-feerm sohn nah-tahsh-mahn oh mool-tee-lah-tay-rah-leeizm fohn-day soor luh res-peh skroo-poo-luh duh lah shahrt day nah-syohn zoo-nee",
+                    "translation": "Mr. Secretary-General, France reaffirms its commitment to multilateralism rooted in scrupulous respect for the United Nations Charter."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "La délégation française soulève une motion d'ordre afin de rappeler les règles de procédure régissant les débats de l'Assemblée générale.",
+                    "reading": "lah day-lay-gah-syohn frahn-sez soo-lev oon moh-syohn dohr-druh ah-fan duh rah-play lay reh-gluh duh proh-say-door ray-zhee-sahn lay day-bah duh lah-sahn-blay zhay-nay-rahl",
+                    "translation": "The French delegation raises a point of order to recall the rules of procedure governing the debates of the General Assembly."
+                },
+                {
+                    "target": "Le Conseil de sécurité a adopté à l'unanimité la résolution relative au renouvellement du mandat de la force de maintien de la paix.",
+                    "reading": "luh kohn-sehy duh say-koo-ree-tay ah ah-dohp-tay ah loo-nah-nee-mee-tay lah ray-zoh-loo-syohn ruh-lah-teev oh ruh-noo-vel-mahn doo mahn-dah duh lah fohrs duh man-tyan duh lah peh",
+                    "translation": "The Security Council unanimously adopted the resolution concerning the renewal of the peacekeeping force mandate."
+                },
+                {
+                    "target": "Au sein du Conseil de l'Union européenne, les négociations en trilogue ont permis d'aboutir à un compromis équilibré entre le Parlement et la Commission.",
+                    "reading": "oh san doo kohn-sehy duh loo-nyohn uh-roh-pay-en, lay nay-goh-syah-syohn ahn tree-lohg ohnt pair-mee dah-boo-teer ah uhn kohn-proh-mee ay-kee-lee-bray ahn-truh luh pahr-luh-mahn ay lah koh-mee-syohn",
+                    "translation": "Within the Council of the European Union, trialogue negotiations yielded a balanced compromise between Parliament and Commission."
+                },
+                {
+                    "target": "L'Organisation Internationale de la Francophonie milite activement pour la promotion du multilinguisme et la diversité culturelle dans les enceintes internationales.",
+                    "reading": "lohr-gah-nee-zah-syohn an-tair-nah-syoh-nahl duh lah frahn-koh-foh-nee mee-leet ahk-teev-mahn poor lah proh-moh-syohn doo mool-tee-lan-gweezm ay lah dee-vair-see-tay kool-too-rel dahn lay zahn-sant an-tair-nah-syoh-nahl",
+                    "translation": "The International Organisation of La Francophonie actively campaigns for the promotion of multilingualism and cultural diversity in international forums."
                 }
             ],
             "mnemonics": [
-                "Rhetorical mastery anchor for Négociations Multilatérales aux Nations Unies et au Sein de l'UE"
+                "NATIONS UNIES: Charte de l'ONU -> Motion d'ordre -> Résolution -> Consensus / Veto!"
             ],
             "culturalNotes": [
-                "High cultural and institutional significance of Négociations Multilatérales aux Nations Unies et au Sein de l'UE in the Francophone world."
+                "French is one of the six official languages of the UN and one of its two working languages; at the European Court of Justice, French remains the sole deliberation language."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Navigate multilateral diplomacy in international forums (ONU, Union Eu » :",
+                    "prompt": "Quelle intervention procédurale un diplomate utilise-t-il en assemblée pour signaler le non-respect des règles de séance ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (158a).",
-                        "La préposition employée ici n'est pas commandée par le verbe (158b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (158c)."
+                        "Une motion d'ordre (point of order)",
+                        "Un appel téléphonique personnel",
+                        "Une pause déjeuner anticipée",
+                        "Une chanson folklorique"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "La « motion d'ordre » est l'acte formel par lequel un délégué interrompt le déroulement des débats pour faire respecter le règlement intérieur."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u32-l3 :",
+                    "prompt": "À la Cour de justice de l'Union européenne (CJUE) à Luxembourg, quelle est la langue exclusive de délibéré des juges ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (158x).",
-                        "Cette forme présente une anomalie phonétique en français standard (158y).",
-                        "La préposition employée ici n'est pas commandée par le verbe (158z)."
+                        "Le français",
+                        "L'espagnol",
+                        "Le latin",
+                        "L'allemand"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C2."
+                    "explanation": "Le français est la langue de travail et de délibération historique et statutaire de la CJUE."
                 }
             ]
         },
@@ -17300,25 +17349,25 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u32-l3) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Combien d'États membres permanents détiennent le droit de veto au Conseil de sécurité de l'ONU ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (158m).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (158n).",
-                        "La préposition employée ici n'est pas commandée par le verbe (158p)."
+                        "Trois",
+                        "Dix",
+                        "Cinq (France, États-Unis, Royaume-Uni, Chine, Russie)",
+                        "Tous les pays du monde"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 2,
+                    "explanation": "Les cinq membres permanents (P5) disposent statutairement du droit de veto au Conseil de sécurité."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u32-l3 (terme attendu : « Nous ») :",
+                    "prompt": "Quel sigle en 3 lettres désigne l'Organisation Internationale de la Francophonie ? (l'_________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "OIF",
+                        "oif",
+                        "Oif"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "L'organisme est l'« OIF »."
                 }
             ],
             "passThreshold": 0.8
@@ -17334,56 +17383,73 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u32-l3"
+            ]
         },
         "presentation": {
-            "explanation": "Mastery analysis of Gestion de Crise Diplomatique et Médiation Internationale. At the C2 summit level, the learner demonstrates near-native linguistic agility, flawless stylistic sophistication, and profound rhetorical command over gestion de crise diplomatique et médiation internationale.",
+            "explanation": "Navigating geopolitical crises and confidential diplomacy (la diplomatie de crise, les canaux parallèles et les bons offices) mobilizes precise statecraft terminology:\n\n1. Crisis Resolution Mechanisms:\n- Les bons offices : Mise à disposition d'un cadre neutre et facilitation sans intervention sur le fond.\n- La médiation diplomatique et la conciliation active.\n- Les canaux secrets (backchannels) et pourparlers exploratoires discrets.\n- Cessez-le-feu, trêve humanitaire et corridors de sécurité.\n\n2. De-escalatory Rhetoric:\n- L'ambiguïté constructive permettant aux parties d'interpréter l'accord sans perdre la face.\n- « Nous exhortons solennellement les parties à faire preuve de la plus grande retenue... »",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "La Suisse et la France ont offert leurs bons offices afin de faciliter l'ouverture d'un canal diplomatique discret entre les belligérants.",
+                    "reading": "lah sweess ay lah frahns ohnt oh-fair luhr bohn zoh-feess ah-fan duh fah-see-lee-tay loo-vair-toor doon kah-nahl deep-loh-mah-teek dees-kreh ahn-truh lay bay-lee-zhay-rahn",
+                    "translation": "Switzerland and France offered their good offices to facilitate opening a discreet diplomatic channel between the belligerents."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Le recours à une ambiguïté constructive a permis de surmonter le point d'achoppement territorial et de conclure un cessez-le-feu immédiat.",
+                    "reading": "luh ruh-koor ah oon nahm-bee-gwee-tay kohn-strook-teev ah pair-mee duh soor-mohn-tay luh pwan dah-shohp-mahn tair-ree-toh-ryahl ay duh kohn-kloor uhn seh-seh luh fuh ee-may-dyah",
+                    "translation": "Recourse to constructive ambiguity made it possible to overcome the territorial sticking point and conclude an immediate ceasefire."
+                },
+                {
+                    "target": "Nous exhortons solennellement toutes les parties à faire preuve de la plus grande retenue afin de désamorcer l'escalade militaire.",
+                    "reading": "noo zeg-zohr-tohn soh-lahn-nel-mahn toot lay pahr-tee ah fair pruhv duh lah ploo grahnd ruh-tnuh ah-fan duh day-zah-mohr-say les-kah-lahd mee-lee-tair",
+                    "translation": "We solemnly urge all parties to exercise maximum restraint to de-escalate the military standoff."
+                },
+                {
+                    "target": "Les émissaires spéciaux mènent des pourparlers exploratoires sous l'égide des Nations Unies en vue d'établir un corridor humanitaire sécurisé.",
+                    "reading": "lay zay-mee-sair spay-syoh men day poor-pahr-lay eks-ploh-rah-twahr soo lay-zheed day nah-syohn zoo-nee ahn voo day-tah-bleer uhn kohr-ree-dohr oo-mah-nee-tair say-koo-ree-zay",
+                    "translation": "Special envoys are conducting exploratory talks under UN auspices with a view to establishing a secure humanitarian corridor."
+                },
+                {
+                    "target": "Le rappel de l'ambassadeur pour consultations constitue un signal de protestation diplomatique de premier ordre face à la violation du statu quo.",
+                    "reading": "luh rah-pel duh lahn-bah-sah-duhr poor kohn-sool-tah-syohn kohn-stee-too uhn seeng-yahl duh proh-tes-tah-syohn deep-loh-mah-teek duh pruh-myay zohr-druh fahs ah lah vyoh-lah-syohn doo stah-too kwoh",
+                    "translation": "Recalling the ambassador for consultations constitutes a top-tier diplomatic protest signal in response to the violation of the status quo."
                 }
             ],
             "mnemonics": [
-                "Rhetorical mastery anchor for Gestion de Crise Diplomatique et Médiation Internationale"
+                "CRISE DIPLOMATIQUE: Bons offices -> Ambiguïté constructive -> Cessez-le-feu -> Désescalade!"
             ],
             "culturalNotes": [
-                "High cultural and institutional significance of Gestion de Crise Diplomatique et Médiation Internationale in the Francophone world."
+                "France's historical stance on international mediation emphasizes multilateral legitimacy through the UN Charter and independent diplomacy."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Conduct high-stakes diplomatic crisis mediation and backchannel diplom » :",
+                    "prompt": "En diplomatie, comment qualifie-t-on le fait pour un État tiers d'offrir un cadre neutre pour réunir deux parties en conflit sans imposer de solution ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette forme présente une anomalie phonétique en français standard (159a).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (159b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (159c)."
+                        "L'exercice des bons offices",
+                        "Une déclaration de guerre",
+                        "Une annexion unilatérale",
+                        "Un embargo commercial total"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Les « bons offices » désignent l'entremise bienveillante d'un tiers visant à mettre en contact des adversaires pour amorcer des négociations."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u32-l4 :",
+                    "prompt": "Que permet la technique diplomatique de l'« ambiguïté constructive » ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette variante relève d'un registre familier inadapté au contexte (159x).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (159y).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (159z)."
+                        "Permettre aux deux parties d'interpréter un compromis de manière acceptable sans perdre la face",
+                        "Écrire un texte illisible pour tromper l'adversaire",
+                        "Supprimer toutes les signatures officielles",
+                        "Rendre la négociation publique à la télévision"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C2."
+                    "explanation": "L'ambiguïté constructive permet de débloquer un accord diplomatique en choisissant des termes volontairement ouverts à des lectures compatibles."
                 }
             ]
         },
@@ -17391,25 +17457,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u32-l4) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quel acte diplomatique graduel exprime un vif mécontentement d'un État sans pour autant rompre définitivement les relations diplomatiques ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette variante relève d'un registre familier inadapté au contexte (159m).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (159n).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (159p)."
+                        "Le rappel de l'ambassadeur pour consultations",
+                        "L'octroi d'une décoration honorifique",
+                        "L'ouverture d'un nouveau consulat",
+                        "La signature d'un pacte d'amitié"
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "Le rappel d'un ambassadeur « pour consultations » est une mesure diplomatique grave manifestant une vive tension bilatérale."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u32-l4 (terme attendu : « Nous ») :",
+                    "prompt": "Quel terme latin désigne l'état des choses existant avant un conflit ou changement ? (le statu _________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "quo",
+                        "Quo"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "L'expression consacrée est le « statu quo »."
                 }
             ],
             "passThreshold": 0.8
@@ -17425,56 +17490,73 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u32-l4"
+            ]
         },
         "presentation": {
-            "explanation": "Mastery analysis of Discours Plénipotentiaire et Synthèse Géopolitique. At the C2 summit level, the learner demonstrates near-native linguistic agility, flawless stylistic sophistication, and profound rhetorical command over discours plénipotentiaire et synthèse géopolitique.",
+            "explanation": "Delivering a plenipotentiary address (le grand discours diplomatique à la tribune des Nations Unies ou lors d'une conférence de la paix) represents the pinnacle of French oratory (l'éloquence républicaine et gaullienne):\n\n1. The Great Tradition of French Diplomatic Oratory:\n- Charles de Gaulle (Phnom Penh 1966, discours sur la souveraineté et le non-alignement).\n- Dominique de Villepin (Discours historique du 14 février 2003 au Conseil de sécurité de l'ONU défendant la primauté du droit international : « Et c'est un vieux pays, la France, d'un vieux continent comme le mien, l'Europe, qui vous le dit aujourd'hui... »).\n\n2. Oratorical Architecture:\n- Appel universel à la paix, refus des unilatéralismes, respect du droit international et fidélité aux valeurs humanistes.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Dans ce temple des Nations Unies, la France se fait le porte-voix des peuples épris de liberté, de souveraineté et de justice internationale.",
+                    "reading": "dahn suh tahn-pluh day nah-syohn zoo-nee, lah frahns suh feh luh pohrt-vwah day puh-pluh zay-pree duh lee-bair-tay, duh soo-vrahn-tay ay duh zhoos-tees an-tair-nah-syoh-nahl",
+                    "translation": "In this temple of the United Nations, France acts as the herald of peoples yearning for freedom, sovereignty, and international justice."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Et c'est un vieux pays, la France, héritier d'une longue histoire et d'un humanisme exigeant, qui prend la parole pour défendre la primauté du droit sur la force.",
+                    "reading": "ay seh tuhn vyuh peh-ee, lah frahns, ay-ree-tyay doon lohng gees-twahr ay doon oo-mah-neezm eg-zee-zhahn, kee prahn lah pah-rohl poor day-fahn-druh lah pree-moh-tay doo drwah soor lah fohrs",
+                    "translation": "And it is an old country, France, heir to a long history and demanding humanism, that takes the floor to defend the primacy of law over brute force."
+                },
+                {
+                    "target": "L'illusion de la toute-puissance unilatérale ne saurait se substituer à la légitimité collective incarnée par la communauté des nations.",
+                    "reading": "lee-loo-zyohn duh lah toot-pwee-sahns oo-nee-lah-tay-rahl nuh soh-reh suh soob-stee-too-ay ah lah lay-zhee-tee-mee-tay koh-lek-teev an-kahr-nay pahr lah koh-moo-noh-tay day nah-syohn",
+                    "translation": "The illusion of unilateral omnipotence cannot substitute for the collective legitimacy embodied by the community of nations."
+                },
+                {
+                    "target": "Nous refusons l'engrenage des blocs antagonistes et plaidons pour un ordre international multipolaire, équilibré et respectueux du multilinguisme.",
+                    "reading": "noo ruh-foo-zohn lahn-gruh-nahzh day blohkz ahn-tah-goh-neest ay pleh-dohn poor uhn nohr-druh an-tair-nah-syoh-nahl mool-tee-poh-lair, ay-kee-lee-bray ay res-pek-too-uh doo mool-tee-lan-gweezm",
+                    "translation": "We reject the escalation of antagonistic blocs and plead for a multipolar, balanced international order respectful of multilingualism."
+                },
+                {
+                    "target": "C'est fidèles à nos valeurs républicaines et au serment de fidélité à la paix que nous soumettons cette initiative solennelle au vote de votre auguste assemblée.",
+                    "reading": "seh fee-del ah noh vah-luhr ray-poo-blee-ken ay oh sair-mahn duh fee-day-lee-tay ah lah peh kuh noo soo-meh-tohn set ee-nee-syah-teev soh-lahn-nel oh voht duh voh-truh oh-goost ah-sahn-blay",
+                    "translation": "It is true to our republican values and to our pledge of allegiance to peace that we submit this solemn initiative to the vote of your august assembly."
                 }
             ],
             "mnemonics": [
-                "Rhetorical mastery anchor for Discours Plénipotentiaire et Synthèse Géopolitique"
+                "DISCOURS PLÉNIPOTENTIAIRE: Portée universelle -> Primauté du droit -> Mémoire historique -> Appel à la paix!"
             ],
             "culturalNotes": [
-                "High cultural and institutional significance of Discours Plénipotentiaire et Synthèse Géopolitique in the Francophone world."
+                "Dominique de Villepin's 2003 speech at the UN Security Council received unprecedented spontaneous applause from the diplomatic gallery."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Deliver an official plenipotentiary address before a global diplomatic » :",
+                    "prompt": "Quel célèbre discours diplomatique français prononcé à l'ONU en 2003 par Dominique de Villepin a marqué l'histoire des relations internationales contemporaines ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (160a).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (160b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (160c)."
+                        "Le discours du 14 février 2003 refusant la guerre unilatérale en Irak au nom du droit international",
+                        "Le discours sur le lancement de l'euro",
+                        "La présentation de la candidature aux Jeux Olympiques",
+                        "Un discours sur l'exportation des vins français"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Ce discours d'anthologie a défendu la primauté du multilatéralisme et du Conseil de sécurité contre l'intervention unilatérale."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u32-l5 :",
+                    "prompt": "Comment nomme-t-on un ordre mondial fondé sur plusieurs pôles de puissance équilibrés plutôt que sur l'hégémonie d'une seule superpuissance ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (160x).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (160y).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (160z)."
+                        "Un ordre international multipolaire",
+                        "Un ordre unilatéraliste",
+                        "Une monarchie universelle",
+                        "Un isolement insulaire"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C2."
+                    "explanation": "Le monde « multipolaire » promeut l'équilibre et le dialogue entre plusieurs grandes puissances et alliances régionales."
                 }
             ]
         },
@@ -17482,25 +17564,26 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u32-l5) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quel président français a affirmé la doctrine d'indépendance nationale et de non-alignement sur les blocs lors du discours de Phnom Penh en 1966 ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (160m).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (160n).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (160p)."
+                        "Charles de Gaulle",
+                        "Georges Pompidou",
+                        "Valéry Giscard d'Estaing",
+                        "François Mitterrand"
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "Le général de Gaulle a théorisé et incarné la voix indépendante et souveraine de la diplomatie française sur la scène mondiale."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u32-l5 (terme attendu : « Nous ») :",
+                    "prompt": "Quel adjectif qualifie un diplomate doté des pleins pouvoirs pour représenter son Chef d'État et signer des traités ? (un ministre _________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "plénipotentiaire",
+                        "plenipotentiaire",
+                        "Plénipotentiaire",
+                        "Plenipotentiaire"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Le terme juridique est « plénipotentiaire » (du latin plenus + potentia)."
                 }
             ],
             "passThreshold": 0.8
