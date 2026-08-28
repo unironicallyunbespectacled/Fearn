@@ -10553,56 +10553,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u19-l5"
+            ]
         },
         "presentation": {
-            "explanation": "In-depth analysis of Le Discours Rapporté au Présent. At the CEFR B2 level, learners acquire precise command over le discours rapporté au présent, integrating advanced syntax with professional and domain-specific lexicon.",
+            "explanation": "When the reporting/introductory verb is in the PRESENT (or future), the tenses of the reported clause DO NOT CHANGE. However, pronouns, possessives, and syntax shift:\n\n1. Declarative Statements: Introductory verb + QUE / QU'\n- Direct: 'Paul dit : « J'adore cette ville. »'\n- Indirect: 'Paul dit qu'il adore cette ville.'\n\n2. Total Questions (Yes/No): Demander + SI / S'\n- Direct: 'Elle demande : « Est-ce que tu viens ? »'\n- Indirect: 'Elle demande si tu viens.'\n\n3. Partial Questions:\n- 'Qu'est-ce que / Que' -> CE QUE / CE QU':\n  * Direct: 'Il demande : « Qu'est-ce que tu fais ? »' -> Indirect: 'Il demande ce que tu fais.'\n- 'Qu'est-ce qui' -> CE QUI:\n  * Direct: 'Il demande : « Qu'est-ce qui se passe ? »' -> Indirect: 'Il demande ce qui se passe.'\n- Interrogative words (où, quand, comment, pourquoi, combien):\n  * Keep the word without subject-verb inversion: 'Il demande où nous allons.' (Not 'où allons-nous'!).\n\n4. Imperatives (Commands): DE + INFINITIF\n- Direct: 'Le guide dit : « Attendez ici ! »'\n- Indirect: 'Le guide dit d'attendre ici.'",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Le médecin affirme que le patient doit suivre ce traitement sans la moindre interruption.",
+                    "reading": "luh mayd-san ah-feerm kuh luh pah-syahn dwah swee-vruh suh treht-mahn sahn lah mwan-druh an-tay-roop-syohn",
+                    "translation": "The doctor asserts that the patient must follow this treatment without the slightest interruption."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Le responsable nous demande si nous avons bien reçu les consignes de sécurité.",
+                    "reading": "luh res-pohn-sahbl noo duh-mahnd see noo zah-vohn byan ruh-soo lay kohn-seen-yuh duh say-koo-ree-tay",
+                    "translation": "The manager asks us whether we have properly received the safety instructions."
+                },
+                {
+                    "target": "L'agent d'accueil veut savoir ce qui s'est produit lors de l'incident au guichet.",
+                    "reading": "lah-zhahn dah-kuh-yuh vuh sah-vwahr suh kee say proh-dwee lohr duh lan-see-dahn oh gee-sheh",
+                    "translation": "The front desk clerk wants to know what happened during the incident at the counter."
+                },
+                {
+                    "target": "L'avocat explique à son client pourquoi cette clause du contrat est essentielle.",
+                    "reading": "lah-voh-kah eks-pleek ah sohn klee-ahn poor-kwah set klohz doo kohn-trah ay teh-sahn-syel",
+                    "translation": "The lawyer explains to his client why this contract clause is essential."
+                },
+                {
+                    "target": "Le professeur demande aux étudiants de rendre leur devoir avant la fin du cours.",
+                    "reading": "luh proh-feh-suhr duh-mahnd oh zay-too-dyahn duh rahn-druh luhr duh-vwahr ah-vahn lah fan doo koor",
+                    "translation": "The professor asks the students to hand in their assignment before the end of class."
                 }
             ],
             "mnemonics": [
-                "Structural memory anchor for Le Discours Rapporté au Présent"
+                "PRESENT INTRODUCER = ZERO TENSE SHIFT: Only pronouns and conjunctions change!",
+                "WHAT -> CE QUE / CE QUI: 'Qu'est-ce que tu veux ?' becomes 'Il demande ce que tu veux'!"
             ],
             "culturalNotes": [
-                "Authentic pragmatic application of Le Discours Rapporté au Présent in professional France."
+                "In French professional environments, reporting colleagues' questions with 'Il demande si...' or 'Elle souhaite savoir ce que...' ensures clear, respectful communication."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Convert direct quotations into reported indirect speech with present i » :",
+                    "prompt": "Transformez au discours indirect au présent : « Marc demande : 'Qu'est-ce que vous préparez ?' »",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (96a).",
-                        "Cette forme présente une anomalie phonétique en français standard (96b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (96c)."
+                        "Marc demande ce que nous préparons.",
+                        "Marc demande qu'est-ce que nous préparons.",
+                        "Marc demande ce qui nous préparons.",
+                        "Marc demande si nous préparons."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "La question 'qu'est-ce que' devient « ce que » au discours indirect."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u20-l1 :",
+                    "prompt": "Transposez l'impératif au discours indirect : « Le chef ordonne : 'Fermez la porte !' »",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (96x).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (96y).",
-                        "Cette forme présente une anomalie phonétique en français standard (96z)."
+                        "Le chef ordonne de fermer la porte.",
+                        "Le chef ordonne que fermer la porte.",
+                        "Le chef ordonne si on ferme la porte.",
+                        "Le chef ordonne de fermez la porte."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B2."
+                    "explanation": "Un ordre à l'impératif se transforme en « de + infinitif » : « ordonne de fermer »."
                 }
             ]
         },
@@ -10610,25 +10628,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u20-l1) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle transformation au discours indirect est syntaxiquement irréprochable ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (96m).",
-                        "La préposition employée ici n'est pas commandée par le verbe (96n).",
-                        "Cette forme présente une anomalie phonétique en français standard (96p)."
+                        "Elle demande où nous allons.",
+                        "Elle demande où est-ce que nous allons-nous.",
+                        "Elle demande qu'est-ce qui nous faisons.",
+                        "Elle demande de nous venons."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "« Elle demande où nous allons » conserve le mot interrogatif 'où' sans inversion ni formule 'est-ce que'."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u20-l1 (terme attendu : « Nous ») :",
+                    "prompt": "Complétez la transformation : « Il demande : 'Est-ce qu'il pleut ?' » -> « Il demande _________ il pleut. »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "s'il",
+                        "S'il"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "'Est-ce que' en interrogation totale devient 'si', avec élision obligatoire devant 'il' : « s'il »."
                 }
             ],
             "passThreshold": 0.8
@@ -10644,56 +10661,73 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u20-l1"
+            ]
         },
         "presentation": {
-            "explanation": "In-depth analysis of La Concordance des Temps au Passé dans le Discours Indirect. At the CEFR B2 level, learners acquire precise command over la concordance des temps au passé dans le discours indirect, integrating advanced syntax with professional and domain-specific lexicon.",
+            "explanation": "When the reporting verb is in the PAST (passé composé, imparfait, passé simple), systematic backshifting occurs:\n\n1. Systematic Concordance Table:\n- Présent -> IMPARFAIT:\n  * Direct: 'Il a dit : « Je suis fatigué. »' -> Indirect: 'Il a dit qu'il était fatigué.'\n- Passé Composé / Passé Simple -> PLUS-QUE-PARFAIT:\n  * Direct: 'Elle a expliqué : « J'ai fini mon projet. »' -> Indirect: 'Elle a expliqué qu'elle avait fini son projet.'\n- Imparfait -> IMPARFAIT (Unchanged):\n  * Direct: 'Il a précisé : « Il faisait froid. »' -> Indirect: 'Il a précisé qu'il faisait froid.'\n- Plus-que-Parfait -> PLUS-QUE-PARFAIT (Unchanged):\n  * Direct: 'Il a ajouté : « J'avais déjà déjeuné. »' -> Indirect: 'Il a ajouté qu'il avait déjà déjeuné.'\n\n2. Temporal Horizon:\nThe reported statement is backshifted into the past perspective of the initial speaker's utterance.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Le ministre a déclaré lors du point presse que la situation économique était sous contrôle.",
+                    "reading": "luh mee-neestr ah day-klah-ray lohr doo pwan pres kuh lah see-twah-syohn ay-koh-noh-meek ay-teh soo kohn-trohl",
+                    "translation": "The minister declared at the press briefing that the economic situation was under control."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "L'accusé a soutenu devant le juge qu'il n'avait jamais rencontré les suspects auparavant.",
+                    "reading": "lah-koo-zay ah soo-tuh-noo duh-vahn luh zhoozh keel nah-veh zhah-meh rahn-kohn-tray lay soos-peh toh-pah-rah-vahn",
+                    "translation": "The defendant maintained before the judge that he had never met the suspects previously."
+                },
+                {
+                    "target": "Les témoins ont affirmé qu'ils avaient entendu une violente déflagration au bout de la rue.",
+                    "reading": "lay tay-mwan zohn tah-feer-may keel zah-vyohn tahn-tahn-doo oon vyoh-lahnt day-flah-grah-syohn oh boo duh lah roo",
+                    "translation": "The witnesses affirmed that they had heard a violent explosion at the end of the street."
+                },
+                {
+                    "target": "Elle m'a confié qu'elle cherchait un nouvel appartement dans le centre de Lyon depuis un mois.",
+                    "reading": "el mah kohn-fyay kel shair-sheh uhn noo-vel ah-pahr-tuh-mahn dahn luh sahn-truh duh lyohn duh-pwee uhn mwah",
+                    "translation": "She confided in me that she had been looking for a new apartment in central Lyon for a month."
+                },
+                {
+                    "target": "L'ingénieur a certifié que toutes les anomalies techniques avaient été corrigées.",
+                    "reading": "lan-zhay-nyuhr ah sair-tee-fyay kuh toot lay zah-noh-mah-lee tek-neek zah-vyohn tay-tay koh-ree-zhay",
+                    "translation": "The engineer certified that all technical anomalies had been corrected."
                 }
             ],
             "mnemonics": [
-                "Structural memory anchor for La Concordance des Temps au Passé dans le Discours Indirect"
+                "BACKSHIFT RULE: Present slides back to Imparfait; Compound past slides back to Plus-que-Parfait!"
             ],
             "culturalNotes": [
-                "Authentic pragmatic application of La Concordance des Temps au Passé dans le Discours Indirect in professional France."
+                "Court transcripts ('procès-verbaux') and police reports in France strictly enforce backshifting concordance."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Execute past tense concordance in reported speech (présent -> imparfai » :",
+                    "prompt": "Transposez au passé : « Il a dit : 'Je comprends la situation.' »",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "La préposition employée ici n'est pas commandée par le verbe (97a).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (97b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (97c)."
+                        "Il a dit qu'il comprenait la situation.",
+                        "Il a dit qu'il comprend la situation.",
+                        "Il a dit qu'il comprendrait la situation.",
+                        "Il a dit qu'il a compris la situation."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Le présent 'comprends' devient l'imparfait « comprenait » après un verbe introducteur au passé ('a dit')."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u20-l2 :",
+                    "prompt": "Transposez : « Elle a affirmé : 'Nous avons terminé le travail.' »",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (97x).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (97y).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (97z)."
+                        "Elle a affirmé qu'ils avaient terminé le travail.",
+                        "Elle a affirmé qu'ils ont terminé le travail.",
+                        "Elle a affirmé qu'ils termineraient le travail.",
+                        "Elle a affirmé qu'ils avaient terminer le travail."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B2."
+                    "explanation": "Le passé composé 'avons terminé' devient le plus-que-parfait « avaient terminé »."
                 }
             ]
         },
@@ -10701,25 +10735,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u20-l2) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Identifiez la concordance des temps exacte pour : « L'expert a confirmé : 'J'ai examiné les pièces hier.' »",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (97m).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (97n).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (97p)."
+                        "L'expert a confirmé qu'il examine les pièces.",
+                        "L'expert a confirmé qu'il avait examiné les pièces la veille.",
+                        "L'expert a confirmé qu'il examinera les pièces demain.",
+                        "L'expert a confirmé qu'il a examiné les pièces hier."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 1,
+                    "explanation": "« avait examiné » (plus-que-parfait) et « la veille » transposent impeccablement le passé composé et le repère temporel."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u20-l2 (terme attendu : « Nous ») :",
+                    "prompt": "Conjuguez à l'imparfait : « Julien m'a avoué qu'il _________ (être) très stressé par son examen. »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "était",
+                        "Était"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Le verbe être à l'imparfait avec 'il' est « était »."
                 }
             ],
             "passThreshold": 0.8
@@ -10735,56 +10768,73 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u20-l2"
+            ]
         },
         "presentation": {
-            "explanation": "In-depth analysis of Le Futur dans le Passé (Futur -> Conditionnel). At the CEFR B2 level, learners acquire precise command over le futur dans le passé (futur -> conditionnel), integrating advanced syntax with professional and domain-specific lexicon.",
+            "explanation": "In French grammar, the Conditionnel Présent functions historically and syntactically as the 'Future in the Past' (le futur du passé):\n\n1. The Concordance Shifts:\n- Futur Simple -> CONDITIONNEL PRÉSENT:\n  * Direct: 'Il a promis : « Je viendrai demain. »'\n  * Indirect: 'Il a promis qu'il viendrait le lendemain.'\n- Futur Antérieur -> CONDITIONNEL PASSÉ:\n  * Direct: 'Elle a assuré : « J'aurai fini avant midi. »'\n  * Indirect: 'Elle a assuré qu'elle aurait fini avant midi.'\n- Futur Proche (Aller + Inf.) -> IMPARFAIT D'ALLER + INF.:\n  * Direct: 'Il a dit : « Je vais partir. »'\n  * Indirect: 'Il a dit qu'il allait partir.'\n- Conditionnel (Présent/Passé) -> Remains UNCHANGED:\n  * Direct: 'Il a pensé : « J'aimerais visiter le musée. »'\n  * Indirect: 'Il a pensé qu'il aimerait visiter le musée.'",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Le directeur a promis que les salaires seraient revalorisés dès le début du prochain trimestre.",
+                    "reading": "luh dee-rek-tuhr ah proh-mee kuh lay sah-lair suh-reh ruh-vah-loh-ree-zay day luh day-boo doo proh-shan tree-mestr",
+                    "translation": "The director promised that salaries would be increased at the start of the next quarter."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Elle m'a assuré qu'elle nous rejoindrait au restaurant dès qu'elle aurait fini sa réunion.",
+                    "reading": "el mah ah-soo-ray kel noo ruh-zhwan-dreh oh res-toh-rahn day kel loh-reh fee-nee sah ray-oo-nyohn",
+                    "translation": "She assured me that she would join us at the restaurant as soon as she had finished her meeting."
+                },
+                {
+                    "target": "Les météorologues ont annoncé qu'une vague de froid intense frapperait le pays en fin de semaine.",
+                    "reading": "lay may-tay-oh-roh-lohg zohn tah-nohn-say koon vahg duh frwah an-tahns frahp-reh luh peh-ee ahn fan duh suh-men",
+                    "translation": "Meteorologists announced that an intense cold wave would hit the country by the end of the week."
+                },
+                {
+                    "target": "Il nous a avertis qu'il allait déménager à Bordeaux pour prendre la direction de l'agence régionale.",
+                    "reading": "eel noo zah ah-vair-tee keel ah-leh day-may-nah-zhay ah bohr-doh poor prahn-druh lah dee-rek-syohn duh lah-zhahns ray-zhyoh-nahl",
+                    "translation": "He warned us that he was going to move to Bordeaux to take over regional agency management."
+                },
+                {
+                    "target": "Le candidat a affirmé qu'il mettrait en œuvre son programme dès son élection.",
+                    "reading": "luh kahn-dee-dah ah ah-feer-may keel meh-treh ahn nuhvr sohn proh-grahm day sohn nay-lek-syohn",
+                    "translation": "The candidate asserted that he would implement his platform upon his election."
                 }
             ],
             "mnemonics": [
-                "Structural memory anchor for Le Futur dans le Passé (Futur -> Conditionnel)"
+                "FUTURE IN THE PAST = CONDITIONAL: 'Je ferai' in direct past speech becomes 'Il ferait' in reported speech!"
             ],
             "culturalNotes": [
-                "Authentic pragmatic application of Le Futur dans le Passé (Futur -> Conditionnel) in professional France."
+                "French diplomatic cables and historical biographies (De Gaulle's Mémoires de Guerre) rely on the conditional as the future-in-the-past to articulate strategic visions."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Shift future and conditional tenses in past reported speech (futur sim » :",
+                    "prompt": "Transposez au discours indirect au passé : « Il a dit : 'Je t'appellerai ce soir.' »",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (98a).",
-                        "La préposition employée ici n'est pas commandée par le verbe (98b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (98c)."
+                        "Il a dit qu'il m'appellerait ce soir-là.",
+                        "Il a dit qu'il m'appellera ce soir.",
+                        "Il a dit qu'il m'a appelé ce soir.",
+                        "Il a dit qu'il m'appelait hier."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Le futur simple 'appellerai' devient le conditionnel présent « appellerait » (futur du passé)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u20-l3 :",
+                    "prompt": "Quelle est la transposition correcte de « Nous allons signer l'accord » après « Le président a annoncé que... » ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (98x).",
-                        "Cette forme présente une anomalie phonétique en français standard (98y).",
-                        "La préposition employée ici n'est pas commandée par le verbe (98z)."
+                        "qu'ils allaient signer l'accord.",
+                        "qu'ils vont signer l'accord.",
+                        "qu'ils signeraient l'accord hier.",
+                        "qu'ils sont allés signer l'accord."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B2."
+                    "explanation": "Le futur proche 'vont signer' devient 'allaient signer' (imparfait d'aller + infinitif)."
                 }
             ]
         },
@@ -10792,25 +10842,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u20-l3) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Choisissez la phrase qui applique rigoureusement la règle du futur dans le passé :",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (98m).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (98n).",
-                        "La préposition employée ici n'est pas commandée par le verbe (98p)."
+                        "Elle a garanti qu'elle achètera le billet.",
+                        "Elle a garanti qu'elle avait acheté le billet demain.",
+                        "Elle a garanti qu'elle achèterait le billet le lendemain.",
+                        "Elle a garanti qu'elle achète le billet ce jour-là."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 2,
+                    "explanation": "« achèterait » (conditionnel présent) et « le lendemain » représentent la transposition parfaite du futur et du repère temporel."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u20-l3 (terme attendu : « Nous ») :",
+                    "prompt": "Conjuguez au conditionnel présent : « Le maire a affirmé que les travaux _________ (prendre) six mois. »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "prendraient",
+                        "Prendraient"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Le conditionnel présent de prendre avec 'les travaux' (3e personne pluriel) est « prendraient »."
                 }
             ],
             "passThreshold": 0.8
@@ -10826,56 +10875,73 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u20-l3"
+            ]
         },
         "presentation": {
-            "explanation": "In-depth analysis of La Transposition des Marqueurs Temporels et Spatiaux. At the CEFR B2 level, learners acquire precise command over la transposition des marqueurs temporels et spatiaux, integrating advanced syntax with professional and domain-specific lexicon.",
+            "explanation": "When shifting to past reported speech, deictic markers anchored in the speaker's 'now' must be transformed into objective retrospective anchors:\n\n1. Temporal Deictic Shifts:\n- aujourd'hui -> ce jour-là\n- hier -> la veille\n- avant-hier -> l'avant-veille\n- demain -> le lendemain\n- après-demain -> le surlendemain\n- ce matin / ce soir -> ce matin-là / ce soir-là\n- cette semaine / cette année -> cette semaine-là / cette année-là\n- la semaine prochaine -> la semaine suivante\n- la semaine dernière -> la semaine précédente\n- il y a trois jours -> trois jours plus tôt / trois jours auparavant\n- dans trois jours -> trois jours plus tard / trois jours après\n\n2. Spatial Deictic Shifts:\n- ici -> là / là-bas\n- ce / cet / cette / ces [nom] -> ce / cet / cette / ces [nom]-là",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Le témoin a déclaré que l'agression s'était produite la veille au soir vers vingt-trois heures.",
+                    "reading": "luh tay-mwan ah day-klah-ray kuh lah-greh-syohn say-teh proh-dweet lah veh-yuh oh swahr vair van-trwah zuhr",
+                    "translation": "The witness declared that the assault had occurred the night before around 11:00 PM."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Sophie m'a expliqué qu'elle partirait pour Tokyo le lendemain matin à la première heure.",
+                    "reading": "soh-fee mah eks-plee-kay kel pahr-tee-reh poor toh-kyoh luh lahn-duh-man mah-tan ah lah pruh-myair uhr",
+                    "translation": "Sophie explained to me that she would leave for Tokyo the following morning at the crack of dawn."
+                },
+                {
+                    "target": "L'accusé a prétendu qu'il se trouvait à Marseille ce jour-là et ne pouvait pas être sur les lieux du crime.",
+                    "reading": "lah-koo-zay ah pray-tahn-doo keel suh troo-veh ah mahr-seh-yuh suh zhoor-lah ay nuh poo-veh pah zehtr soor lay lyuh doo kreem",
+                    "translation": "The defendant claimed that he was in Marseille that day and could not have been at the crime scene."
+                },
+                {
+                    "target": "Le banquier a confirmé que le virement avait été effectué trois jours auparavant.",
+                    "reading": "luh bahn-kyay ah kohn-feer-may kuh luh veer-mahn ah-veh tay-tay ef-fek-too-ay trwah zhoor toh-pah-rah-vahn",
+                    "translation": "The banker confirmed that the bank transfer had been executed three days earlier."
+                },
+                {
+                    "target": "Le chercheur a annoncé qu'il publierait les résultats définitifs de l'étude l'année suivante.",
+                    "reading": "luh shair-shuhr ah ah-nohn-say keel poo-blee-reh lay ray-zool-tah day-fee-nee-teef duh lay-tood lah-nay swee-vahnt",
+                    "translation": "The researcher announced that he would publish the definitive study findings the following year."
                 }
             ],
             "mnemonics": [
-                "Structural memory anchor for La Transposition des Marqueurs Temporels et Spatiaux"
+                "ADD '-LÀ' & 'VEILLE / LENDEMAIN': Aujourd'hui -> Ce jour-là; Hier -> La veille; Demain -> Le lendemain!"
             ],
             "culturalNotes": [
-                "Authentic pragmatic application of La Transposition des Marqueurs Temporels et Spatiaux in professional France."
+                "In French legal jurisprudence and journalism, failing to transpose deictic anchors creates ambiguity ('amphibologie') that can compromise legal statements."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Transform spatial and temporal deictic markers (aujourd'hui -> ce jour » :",
+                    "prompt": "Quel repère temporel remplace « demain » dans un discours rapporté au passé ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette forme présente une anomalie phonétique en français standard (99a).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (99b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (99c)."
+                        "le lendemain",
+                        "la veille",
+                        "ce jour-là",
+                        "trois jours plus tôt"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Dans un récit ou discours indirect au passé, 'demain' devient « le lendemain »."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u20-l4 :",
+                    "prompt": "Transposez le repère temporel : « Elle m'a dit : 'Je l'ai vu il y a deux jours.' »",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette variante relève d'un registre familier inadapté au contexte (99x).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (99y).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (99z)."
+                        "Elle m'a dit qu'elle l'avait vu deux jours plus tôt.",
+                        "Elle m'a dit qu'elle l'a vu il y a deux jours.",
+                        "Elle m'a dit qu'elle le voyait dans deux jours.",
+                        "Elle m'a dit qu'elle l'avait vu le lendemain."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B2."
+                    "explanation": "'il y a deux jours' se transpose en « deux jours plus tôt » ou « deux jours auparavant »."
                 }
             ]
         },
@@ -10883,25 +10949,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u20-l4) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Identifiez la transposition correcte des repères dans : « Il m'a assuré : 'Nous partirons la semaine prochaine.' »",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette variante relève d'un registre familier inadapté au contexte (99m).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (99n).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (99p)."
+                        "Il m'a assuré qu'ils partiraient la semaine prochaine.",
+                        "Il m'a assuré qu'ils partiraient la semaine suivante.",
+                        "Il m'a assuré qu'ils sont partis la semaine dernière.",
+                        "Il m'a assuré qu'ils partiront la semaine d'après."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 1,
+                    "explanation": "« partiraient » (conditionnel) et « la semaine suivante » transposent fidèlement le temps et l'indicateur temporel."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u20-l4 (terme attendu : « Nous ») :",
+                    "prompt": "Quel repère temporel remplace 'hier' dans un discours rapporté au passé ? (terme attendu : la _________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "veille",
+                        "Veille"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Le repère temporel correspondant à 'hier' dans un contexte passé est « la veille »."
                 }
             ],
             "passThreshold": 0.8
@@ -10917,56 +10982,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u20-l4"
+            ]
         },
         "presentation": {
-            "explanation": "In-depth analysis of Les Verbes Introducteurs Nuancés du Discours Journalistique. At the CEFR B2 level, learners acquire precise command over les verbes introducteurs nuancés du discours journalistique, integrating advanced syntax with professional and domain-specific lexicon.",
+            "explanation": "In French journalistic, political, and academic discourse, relying solely on 'dire' or 'demander' is stylistically impoverished. Professional French uses nuanced introductory verbs indicating stance, credibility, or argumentative intent:\n\n1. Verbs of Affirmation & Conviction:\n- Soutenir / Maintenir que: To firmly maintain/assert an argument against doubt.\n- Affirmer / Certifier que: To state authoritatively as a verified fact.\n- Souligner / Faire observer que: To emphasize or draw attention to an essential point.\n\n2. Verbs of Skepticism & Unverified Claims:\n- Prétendre que: To claim (strongly implies the reporter doubts the claim's veracity).\n- Alléguer que: To allege (formal / legal register).\n- Laisser entendre que: To imply / insinuate.\n\n3. Verbs of Objection & Concession:\n- Objecter / Rétorquer que: To object / snap back with a counterargument.\n- Concéder / Reconnaître / Admettre que: To concede / admit a fact or error.\n- Déplorer / Regretter que (+ subjonctif): To deplore / lament that.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Le ministre a catégoriquement démenti les rumeurs et a soutenu que le calendrier des réformes serait respecté.",
+                    "reading": "luh mee-neestr ah kah-tay-goh-reek-mahn day-mahn-tee lay roo-muhr ay ah soo-tuh-noo kuh luh kah-lahn-dree-yay day ray-fohrm suh-reh res-pek-tay",
+                    "translation": "The minister categorically denied the rumors and maintained that the reform schedule would be respected."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Le porte-parole de l'opposition a vivement objecté que les chiffres avancés par le gouvernement étaient inexacts.",
+                    "reading": "luh pohrt-pah-rohl duh loh-poh-zee-syohn ah veev-mahn ohb-zhek-tay kuh lay sheefr ah-vahn-say pahr luh goo-vair-nuh-mahn ay-teh teen-eg-zahkt",
+                    "translation": "The opposition spokesperson sharply objected that the figures put forward by the government were inaccurate."
+                },
+                {
+                    "target": "L'accusé prétendait qu'il n'avait jamais eu connaissance des transactions financières litigieuses.",
+                    "reading": "lah-koo-zay pray-tahn-deh keel nah-veh zhah-meh oo koh-neh-sahns day trahn-zahk-syohn fee-nahn-syair lee-tee-zhyuhz",
+                    "translation": "The defendant claimed that he had never had knowledge of the disputed financial transactions."
+                },
+                {
+                    "target": "Le rapporteur de la commission d'enquête a souligné qu'aucun dysfonctionnement majeur n'avait été constaté.",
+                    "reading": "luh rah-pohr-tuhr duh lah koh-mee-syohn dahn-ket ah soo-leen-yay koh-koon dees-fohnk-syohn-mahn mah-zhuhr nah-veh tay-tay kohn-stah-tay",
+                    "translation": "The rapporteur of the inquiry commission emphasized that no major dysfunction had been observed."
+                },
+                {
+                    "target": "La direction a finalement reconnu que des erreurs logistiques avaient retardé l'acheminement des colis.",
+                    "reading": "lah dee-rek-syohn ah fee-nahl-mahn ruh-koh-noo kuh day zay-ruhr loh-zhees-teek zah-vyohn ruh-tahr-day lahsh-meen-mahn day koh-lee",
+                    "translation": "Management finally acknowledged that logistical errors had delayed package delivery."
                 }
             ],
             "mnemonics": [
-                "Structural memory anchor for Les Verbes Introducteurs Nuancés du Discours Journalistique"
+                "PRÉTENDRE = SKEPTICISM (Journalist doubts the claim)!",
+                "OBJECTER = COUNTERARGUMENT (Pushing back against a claim)!"
             ],
             "culturalNotes": [
-                "Authentic pragmatic application of Les Verbes Introducteurs Nuancés du Discours Journalistique in professional France."
+                "In French investigative journalism (Mediapart, Le Canard Enchaîné), verb choice ('prétendre' vs. 'affirmer' vs. 'reconnaître') preserves legal neutrality while conveying analytical perspective."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Report journalistic interviews and parliamentary inquiries using sophi » :",
+                    "prompt": "Quel verbe introducteur suggère que le journaliste met en doute la déclaration rapportée ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (100a).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (100b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (100c)."
+                        "prétendre",
+                        "confirmer",
+                        "certifier",
+                        "prouver"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Le verbe « prétendre » introduit une nuance de doute ou de contestation sur la véracité des propos."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u20-l5 :",
+                    "prompt": "Choisissez le verbe exprimant une réplique vive face à une critique :",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (100x).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (100y).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (100z)."
+                        "rétorquer",
+                        "concéder",
+                        "admettre",
+                        "susurrer"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B2."
+                    "explanation": "« Rétorquer » signifie répliquer vivement et avec autorité à une objection."
                 }
             ]
         },
@@ -10974,25 +11057,26 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u20-l5) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Analysez la nuance apportée par le verbe dans : « Le suspect prétend qu'il dormait au moment des faits. »",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (100m).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (100n).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (100p)."
+                        "Le locuteur rapporte l'affirmation sans en garantir la véracité, suggérant un doute.",
+                        "Le locuteur certifie sous serment la vérité des propos.",
+                        "Le suspect avoue sa culpabilité sans réserve.",
+                        "Le verbe exprime un souhait ou une prière."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "« Prétendre » signale que l'allégation n'engage que le suspect et n'est pas tenue pour prouvée."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u20-l5 (terme attendu : « Nous ») :",
+                    "prompt": "Complétez avec le verbe signifiant 'admettre avec réticence' : « Le ministre a fini par _________ (reconnaître) ses torts. »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "reconnaître",
+                        "Reconnaître",
+                        "reconnaitre",
+                        "Reconnaitre"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "L'infinitif attendu est « reconnaître » (ou « reconnaitre »)."
                 }
             ],
             "passThreshold": 0.8
