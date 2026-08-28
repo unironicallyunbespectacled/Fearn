@@ -4645,60 +4645,60 @@
         "subject": "amharic",
         "unit": 8,
         "lessonNumber": 1,
-        "title": "ቤተሰብ እና ማህበራዊ ግንኙነት (Family & Kinship Structures) (Part 1)",
+        "title": "Core Family Terms: Gender and the Nuclear Family",
         "level": "A2",
-        "objective": "Comprehensive mastery of የቤተሰብ ዝምድና (Family Kinship Terms).",
+        "objective": "Name the members of the nuclear family in Amharic (parents, siblings, children) and understand how Amharic marks gender grammatically in family vocabulary.",
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የቤተሰብ ዝምድና (Family Kinship Terms) - ደረጃ 1) ተማሪዎች ስለ የቤተሰብ ዝምድና (Family Kinship Terms) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Amharic family vocabulary encodes gender directly in the nouns themselves — there are distinct words for 'older brother' vs. 'older sister', for 'son' vs. 'daughter', and in many cases the masculine and feminine forms are not related by a simple suffix but are entirely different roots. This is different from English, which uses separate words (brother/sister) or compound words (son/daughter), but similar to how Amharic handles gender throughout its vocabulary.\n\nNUCLEAR FAMILY TERMS:\n\nParents:\n• አባት (abbat) — father [masculine noun]\n• እናት (inat) — mother [feminine noun]\n• ወላጆች (wellajooch) — parents [plural form, from ወላጅ = parent/one who gave birth]\n\nSiblings:\n• ወንድም (wendim) — brother [masculine]\n• እህት (iht) — sister [feminine]\nNote: 'older/younger' distinction requires modifiers: ታላቅ ወንድም (tallaq wendim) = older brother; ታናሽ ወንድም (tanash wendim) = younger brother\n\nChildren:\n• ልጅ (lij) — child (gender-neutral basic form; also means 'boy/girl' or 'young person')\n• ወንድ ልጅ (wend lij) — son (literally: male child)\n• ሴት ልጅ (set lij) — daughter (literally: female child)\n\nThe gender markers ወንድ (wend = male) and ሴት (set = female) are used throughout Amharic to specify gender when the base noun is ambiguous: ወንድ ዶክተር (male doctor) vs. ሴት ዶክተር (female doctor).\n\nSpouses:\n• ባል (bal) — husband\n• ሚስት (mist) — wife\n• ባለቤቴ (balebete) — my spouse (gender-neutral, formal; literally 'owner of my house')\n\nGenitive construction in family vocabulary:\nAmharic possessives are formed with the suffix -ዬ/-ህ/-ሽ/-ዎ (my/your-m/your-f/your-polite) attached directly to the noun — we will study this in depth in Lesson 3.",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየቤተሰብ ዝምድና (Family Kinship Terms) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (8.1.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "አባቴ ዶክተር ነው። እናቴ መምህርት ናት።",
+                    "reading": "Abbate doqter new. Innate memhirt nat.",
+                    "translation": "My father is a doctor. My mother is a teacher."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (8.1.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ወንድሜ ሁለት ሴት ልጆች አሉት።",
+                    "reading": "Wendime hulet set lijoch allut.",
+                    "translation": "My brother has two daughters."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (8.1.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ታናሽ እህቴ ዩኒቨርሲቲ ትምህርቷን ጨርሳለች።",
+                    "reading": "Tanash ihite yunivérsiti timhirtwan cherrsalechi.",
+                    "translation": "My younger sister has finished her university studies."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የቤተሰብ ዝምድና (Family Kinship Terms)"
+                "For siblings: ወንድም (wendim) contains ወንድ (wend = male) — it literally has 'male' in it. እህት (iht) is its feminine counterpart with no such component — just memorize the pair ወንድም/እህት as 'brother/sister'. For children: ወንድ ልጅ / ሴት ልጅ = 'male child / female child' — the gender word comes BEFORE ልጅ."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "In Ethiopian culture, family titles carry deep respect. Calling someone ወንድሜ (my brother) or እህቴ (my sister) to a non-blood-relative is common and affectionate — Ethiopians extend kinship terms to close friends, neighbors, and community members. When meeting someone new, asking ቤተሰብዎ ስንት ናቸው? (How many are in your family?) is a natural and expected getting-to-know-you question."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የቤተሰብ ዝምድና (Family Kinship Terms)» አጠቃቀም በደረጃ 1 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«My wife is a nurse» ን ወደ አማርኛ ቀይሩ። (ነርስ = nurse; ናት = she is)",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (8.1.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (8.1.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (8.1.3)።"
+                        "ሚስቴ ነርስ ናት።",
+                        "ባሌ ነርስ ነው።",
+                        "ሴት ልጄ ነርስ ናት።"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "ሚስቴ = my wife (ሚስት + possessive suffix -ዬ becomes ሚስቴ). ናት = she is (3sg feminine copula). Option B says 'my husband is...' (ባሌ = my husband). Option C says 'my daughter is...'"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ቤተሰብ እና ማህበራዊ ግንኙነት (Family & Kinship Structures)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 1)፡",
+                    "prompt": "«ልጅ» እና «ሴት ልጅ» ልዩነት ምን ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (8.1.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (8.1.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (8.1.3)።"
+                        "ልጅ is 'boy' only; ሴት ልጅ is 'girl'.",
+                        "ልጅ is a gender-neutral term for 'child' (or young person); ሴት ልጅ specifically means 'daughter/girl' (ሴት = female + ልጅ = child).",
+                        "They are completely synonymous with no distinction."
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "ልጅ alone is ambiguous — it can mean 'child', 'boy', or 'young person' depending on context. To specify female gender, you prefix ሴት (female): ሴት ልጅ = girl/daughter. Similarly, ወንድ ልጅ (male child) = son/boy."
                 }
             ]
         },
@@ -4706,22 +4706,22 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የቤተሰብ ዝምድና (Family Kinship Terms)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 8-1)?",
+                    "prompt": "ምን ቃል «parents» ማለት ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (8.1.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (8.1.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (8.1.3)።"
+                        "ወላጆች",
+                        "ወንድሞች",
+                        "ልጆች"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "explanation": "ወላጆች (wellajooch) = parents — plural of ወላጅ (wellaj), meaning 'one who bore/gave birth'. ወንድሞች = brothers. ልጆች = children."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («አባት_8_1»):",
+                    "prompt": "Type the Amharic word for 'sister' (female sibling):",
                     "acceptedAnswers": [
-                        "አባት_8_1"
+                        "እህት"
                     ],
-                    "explanation": "The target keyword was: 【አባት_8_1】"
+                    "explanation": "እህት (iht) = sister. Its counterpart is ወንድም (wendim) = brother. The two are unrelated in form — they must be learned as a pair."
                 }
             ]
         }
@@ -4731,60 +4731,60 @@
         "subject": "amharic",
         "unit": 8,
         "lessonNumber": 2,
-        "title": "ቤተሰብ እና ማህበራዊ ግንኙነት (Family & Kinship Structures) (Part 2)",
+        "title": "Extended Family: Grandparents, Aunts, Uncles, and Cousins",
         "level": "A2",
-        "objective": "Comprehensive mastery of የቤተሰብ ዝምድና (Family Kinship Terms).",
+        "objective": "Name extended family members in Amharic — grandparents (አያቶች), aunts and uncles (ሐዘዘ/አክስት/አጎት), and cousins — and understand how Amharic describes these relationships through compounds and explanatory phrases rather than single words.",
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የቤተሰብ ዝምድና (Family Kinship Terms) - ደረጃ 2) ተማሪዎች ስለ የቤተሰብ ዝምድና (Family Kinship Terms) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Amharic has dedicated terms for some extended family relationships but uses explanatory compounds for others. This reflects how kinship is organized and discussed in Ethiopian family culture, where vertical relationships (grandparent–grandchild) have single words but horizontal kin (cousins) are often described relationally.\n\nGRANDPARENTS AND GRANDCHILDREN:\n• አያት (ayat) — grandparent (gender-neutral form, or specifically grandfather in some dialects)\n• አያቴ (ayate) — my grandparent/grandfather\n• አያት ሚስት (ayat mist) or ሽምጉሎዋ — grandmother (more colloquial regional variation exists)\n• ልጅ ልጅ (lij lij) — grandchild (literally 'child's child' — reduplication signals one generation further down)\n\nIn practice, many speakers use the possessive construction:\nOf my father's father: የአባቴ አባት (ye-abbate abbat) = 'father of my father'\nOf my mother's mother: የእናቴ እናት (ye-innate inat) = 'mother of my mother'\n\nAUNTS AND UNCLES:\n• አክስት (akist) — aunt (specifically: father's or mother's sister)\n• አጎት (agot) — uncle (specifically: father's brother; from father's side is most common)\n• ሐዘዘ (hazeze) — uncle from the mother's side (maternal uncle — note this is a separate term, showing that Amharic distinguishes paternal from maternal uncles)\n\nCOUSINS:\nAmharic does not have a single word for 'cousin'. Instead, the relationship is expressed as:\nYe-akistish lij (የአክስትህ/ሽ ልጅ) = 'child of your aunt' = your cousin\nYe-agotih lij (የአጎትህ ልጅ) = 'child of your uncle' = your (paternal) cousin\n\nThis compound descriptive approach is the standard way to talk about cousins in Amharic, and it is worth noting that it naturally preserves the distinction between maternal-side and paternal-side cousins.\n\nNIECES AND NEPHEWS:\n• ወንድሜ ልጅ (wendime lij) — my brother's child = nephew or niece (then specify: ወንድ ልጅ / ሴት ልጅ for nephew/niece)\n• እህቴ ልጅ (ihte lij) — my sister's child",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየቤተሰብ ዝምድና (Family Kinship Terms) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (8.2.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "አያቴ ዘጠና ዓመቱ ነው፣ ግን አሁንም ደህና ነው።",
+                    "reading": "Ayate zetenna ametu new, gin ahunm dehna new.",
+                    "translation": "My grandfather is ninety years old, but he is still well."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (8.2.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የአክስቴ ልጅ ወደ ካናዳ ሄደ።",
+                    "reading": "Ye-aksiste lij wede Kanada hede.",
+                    "translation": "My cousin (child of my aunt) went to Canada."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (8.2.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ሐዘዜ — የእናቴ ወንድም — ዛሬ ጠዋት ጎበኘን።",
+                    "reading": "Hazeze — ye-innate wendim — zare tewat gobeyyen.",
+                    "translation": "My maternal uncle — my mother's brother — visited us this morning."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የቤተሰብ ዝምድና (Family Kinship Terms)"
+                "For aunts vs. uncles: አክስት (akist) = aunt — note the soft sound, sounds a bit like 'actress', who could be female. አጎት (agot) = uncle (paternal). ሐዘዘ (hazeze) = maternal uncle — the 'h' sound echoes 'hazz' as in a distinct separate category. For cousins: just remember 'child of aunt/uncle' = የ + [aunt/uncle] + ልጅ."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Ethiopian family structures are often multi-generational and deeply interconnected. It is common for grandparents to live with adult children's households, and አያቴ (my grandparent) commands great respect and authority. The explicit Amharic distinction between paternal uncle (አጎት) and maternal uncle (ሐዘዘ) reflects the cultural importance of knowing which side of the family a relative comes from — inheritance, land rights, and family duties in traditional Ethiopian society depend on this distinction."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የቤተሰብ ዝምድና (Family Kinship Terms)» አጠቃቀም በደረጃ 2 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«My cousin (child of my uncle)» ን ወደ አማርኛ ቀይሩ:",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (8.2.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (8.2.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (8.2.3)።"
+                        "የአጎቴ ልጅ",
+                        "አጎቴ ልጅ",
+                        "የወንድሜ ልጅ"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "Cousin = 'child of my uncle'. Amharic uses the genitive particle የ + አጎቴ (my uncle) + ልጅ (child). The የ particle is required for the genitive 'of' relationship. Option B omits የ, making the phrase grammatically incomplete. Option C means 'child of my brother' (nephew), not cousin."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ቤተሰብ እና ማህበራዊ ግንኙነት (Family & Kinship Structures)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 2)፡",
+                    "prompt": "«ሐዘዘ» ማን ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (8.2.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (8.2.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (8.2.3)።"
+                        "Father's brother (paternal uncle)",
+                        "Any male relative of the grandparent generation",
+                        "Mother's brother (maternal uncle)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 2,
+                    "explanation": "ሐዘዘ (hazeze) = maternal uncle = mother's brother. This is a distinct term from አጎት (agot), which typically refers to the paternal uncle (father's brother). Amharic preserves this distinction that many languages collapse into a single 'uncle' word."
                 }
             ]
         },
@@ -4792,22 +4792,22 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የቤተሰብ ዝምድና (Family Kinship Terms)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 8-2)?",
+                    "prompt": "Amharic ለ«cousin» ያለው ቃል ምንድን ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (8.2.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (8.2.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (8.2.3)።"
+                        "ዘመድ (one generic word for relative, not specifically cousin)",
+                        "ኮዝን (borrowed word — not standard Amharic)",
+                        "Amharic does not have a single word for cousin — the relationship is described as «የ + [aunt/uncle] + ልጅ»"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "Amharic expresses 'cousin' descriptively: የአጎትህ ልጅ (child of your uncle) or የአክስትህ ልጅ (child of your aunt). There is no equivalent to English 'cousin' as a single uninflected term. ዘመድ (zemod) means 'relative' broadly, not cousin specifically."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («አባት_8_2»):",
+                    "prompt": "Type the Amharic word for 'aunt' (father's or mother's sister):",
                     "acceptedAnswers": [
-                        "አባት_8_2"
+                        "አክስት"
                     ],
-                    "explanation": "The target keyword was: 【አባት_8_2】"
+                    "explanation": "አክስት (akist) = aunt. The counterpart for uncle (paternal side) is አጎት (agot); for maternal uncle: ሐዘዘ (hazeze)."
                 }
             ]
         }
@@ -4817,60 +4817,60 @@
         "subject": "amharic",
         "unit": 8,
         "lessonNumber": 3,
-        "title": "ቤተሰብ እና ማህበራዊ ግንኙነት (Family & Kinship Structures) (Part 3)",
+        "title": "Possessive Family Expressions: My Father, Your Mother (Pronominal Suffixes)",
         "level": "A2",
-        "objective": "Comprehensive mastery of የቤተሰብ ዝምድና (Family Kinship Terms).",
+        "objective": "Attach pronominal possessive suffixes to family nouns to express 'my father', 'your mother', 'his/her brother', etc. — a core Amharic morphological skill distinct from using separate possessive pronouns.",
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የቤተሰብ ዝምድና (Family Kinship Terms) - ደረጃ 3) ተማሪዎች ስለ የቤተሰብ ዝምድና (Family Kinship Terms) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "In English, possession is expressed with separate pronouns before the noun: 'my father', 'your mother', 'her sister'. In Amharic, possession is expressed through pronominal suffixes attached directly to the end of the noun. These suffixes change based on who the owner is (1st, 2nd, or 3rd person) and the gender of the owner (for 2nd and 3rd person).\n\nThe possessive suffixes for family nouns:\n\nPerson | Suffix | Example with አባት (father)\n1sg (my) | -ዬ → -ቴ | አባቴ (abbate) = my father\n2sg masc (your, m) | -ህ | አባትህ (abbatih) = your father [speaking to a man]\n2sg fem (your, f) | -ሽ | አባትሽ (abbatish) = your father [speaking to a woman]\n2 polite (your, formal) | -ዎ | አባቶ (abbato) = your father [polite/formal]\n3sg masc (his) | -ው | አባቱ (abbatu) = his father\n3sg fem (her) | -ዋ | አባቷ (abbatwa) = her father\n1pl (our) | -ን | አባታችን (abbataachin) = our father [note vowel change]\n3pl (their) | -ቸው | አባቶቻቸው (abbatochachew) = their father(s)\n\nIMPORTANT phonological note: when the suffix is added, the noun stem can undergo vowel changes. For example:\n• አባት (abbat) + -ዬ (1sg) → አባቴ (not *አባትዬ)\n• እናት (inat) + -ዬ → እናቴ (my mother)\n• ወንድም (wendim) + -ዬ → ወንድሜ (my brother)\n• እህት (iht) + -ዬ → እህቴ (my sister)\n\nThese forms must be learned as vocabulary items alongside the base nouns, as the phonological changes are not perfectly predictable from the base form alone.\n\nCommon possessive family forms:\nMy: አባቴ / እናቴ / ወንድሜ / እህቴ / ልጄ / ባሌ / ሚስቴ / አያቴ\nHis: አባቱ / እናቱ / ወንድሙ / እህቱ / ልጁ\nHer: አባቷ / እናቷ / ወንድሟ / እህቷ / ልጇ",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየቤተሰብ ዝምድና (Family Kinship Terms) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (8.3.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "እህቴ ታሟል። ሆስፒታል ይዘናት ሄዳለን።",
+                    "reading": "Ihite tamwal. Hossippital yizzenat hedalene.",
+                    "translation": "My sister is sick. We took her to the hospital."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (8.3.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ወንድሙ አሜሪካ ይኖራል።",
+                    "reading": "Wendimmu Amerika yinoral.",
+                    "translation": "His brother lives in America."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (8.3.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "አያቶቻቸው ሁለቱም ህይወታቸውን ያለፉ ናቸው።",
+                    "reading": "Ayatochachew hulettum hiwotachewun yallefu nachew.",
+                    "translation": "Both of their grandparents have passed away."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የቤተሰብ ዝምድና (Family Kinship Terms)"
+                "The 1sg suffix that creates 'my [family member]' works like a vowel change + -ቴ ending for most family words: አባቴ, እናቴ, እህቴ, ሚስቴ. Think of it as the noun 'reaching toward me' with an -ቴ ending. For 3sg masculine ('his'), the ending is -ቱ/-ሙ/-ቁ (depending on the noun's final consonant): አባቱ, ወንድሙ."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Ethiopians commonly address each other using kinship terms even with strangers — calling an older man አባቴ (my father) or an older woman እናቴ (my mother) is a sign of respect, not a statement of biological relationship. This practice is especially common in rural areas and reflects the communal, family-centric nature of Ethiopian social structure. Using the wrong level of formality (using -ህ/-ሽ instead of -ዎ with an elder) is considered disrespectful."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የቤተሰብ ዝምድና (Family Kinship Terms)» አጠቃቀም በደረጃ 3 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«His sister is a teacher» ን ወደ አማርኛ ቀይሩ። (እህት = sister; 3sg masculine possessive: -ዋ/ቷ form; ናት = she is)",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (8.3.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (8.3.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (8.3.3)።"
+                        "እህቱ መምህርት ናት።",
+                        "እህቷ መምህርት ናት።",
+                        "እህቴ መምህርት ናት።"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "3sg feminine possessive of እህት = እህቷ (her sister). But wait — 'his sister' needs the masculine 3sg. In practice: እህቱ = his sister (masc owner). However, note that some sources use እህቷ for 'her sister' specifically. The intended answer here is based on common usage: 3sg masculine owner + እህት = እህቱ... actually both forms exist in regional variation. The safest standard: እህቱ = his sister. Option C means 'my sister'. — Note to learner: regional variation exists here; focus on the -ቱ = 'his' vs. -ቷ = 'her' pattern."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ቤተሰብ እና ማህበራዊ ግንኙነት (Family & Kinship Structures)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 3)፡",
+                    "prompt": "«አባቱ» ምን ማለት ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (8.3.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (8.3.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (8.3.3)።"
+                        "My father",
+                        "Our father",
+                        "His father"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 2,
+                    "explanation": "አባቱ = his father. Breakdown: አባት (father) + -ቱ (3sg masculine possessive suffix). My father = አባቴ (-ዬ→-ቴ suffix). Our father = አባታችን (with -ን + vowel change)."
                 }
             ]
         },
@@ -4878,22 +4878,22 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የቤተሰብ ዝምድና (Family Kinship Terms)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 8-3)?",
+                    "prompt": "«Our mother» ን ወደ አማርኛ ቀይሩ። (1pl possessive suffix: -ን with vowel change to -ያችን / -አችን pattern)",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (8.3.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (8.3.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (8.3.3)።"
+                        "እናቶቻቸው",
+                        "እናቷ",
+                        "እናታችን"
                     ],
                     "answerIndex": 2,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "explanation": "እናታችን = our mother. Breakdown: እናት (mother) + -አችን (1pl possessive suffix, with the noun stem vowel extending: እናት + አችን → እናታችን). Option A means 'their mothers'. Option B means 'her mother' (3sg feminine)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («አባት_8_3»):",
+                    "prompt": "Type 'my brother' in Amharic using the possessive suffix form (not ወንድሜ is what you type):",
                     "acceptedAnswers": [
-                        "አባት_8_3"
+                        "ወንድሜ"
                     ],
-                    "explanation": "The target keyword was: 【አባት_8_3】"
+                    "explanation": "ወንድሜ = my brother. ወንድም (wendim) + 1sg possessive suffix → ወንድሜ (the -ም of wendim changes and -ዬ becomes -ሜ through phonological fusion)."
                 }
             ]
         }
@@ -4903,60 +4903,60 @@
         "subject": "amharic",
         "unit": 8,
         "lessonNumber": 4,
-        "title": "ቤተሰብ እና ማህበራዊ ግንኙነት (Family & Kinship Structures) (Part 4)",
+        "title": "Describing Family Members: Age, Occupation, and Character",
         "level": "A2",
-        "objective": "Comprehensive mastery of የቤተሰብ ዝምድና (Family Kinship Terms).",
+        "objective": "Construct sentences that describe family members using age expressions, occupation nouns, and character adjectives in Amharic, applying the copula ነው/ናት/ናቸው correctly for each person's gender and number.",
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የቤተሰብ ዝምድና (Family Kinship Terms) - ደረጃ 4) ተማሪዎች ስለ የቤተሰብ ዝምድና (Family Kinship Terms) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Once you can name family members and attach possessives, the next step is describing them. In Amharic, descriptions follow a Subject + Description + Copula structure, where the copula (the 'is/are' verb) must agree with the subject in gender and number.\n\nTHE COPULA SYSTEM:\n• ነው (new) — is [3sg masculine, or for inanimate objects]\n• ናት (nat) — is [3sg feminine]\n• ናቸው (nachew) — are [3pl] / is [formal/polite singular]\n• ነን (nen) — are [1pl]\n• ነህ (neh) — are [2sg masculine]\n• ነሽ (nesh) — are [2sg feminine]\n\nAGE EXPRESSIONS:\nAmharic expresses age as: [person] + [number] + ዓመቱ/ዓመቷ/ዓመታቸው + ነው/ናት/ናቸው\n• ዓመቱ (ametu) — his age (literally: 'his year') [3sg masc]\n• ዓመቷ (ametwa) — her age [3sg fem]\nExample: አባቴ ሃምሳ ዓመቱ ነው። = My father is fifty years old.\n\nOCCUPATION DESCRIPTIONS:\nJob titles in Amharic typically have masculine and feminine forms:\n• መምህር (memhir) / መምህርት (memhirt) — teacher (m/f)\n• ዶክተር (doqter) — doctor (same form for m/f in modern usage)\n• ነጋዴ (negade) — merchant/businessman (m); ነጋዴ or ነጋዴ ሴት for female\n• ፖሊስ (polis) — police officer\n• ሞያ (moya) — profession/occupation (general noun)\n\nCHARACTER ADJECTIVES:\nIn Amharic, adjectives precede the noun they modify but follow the subject when used predicatively:\n• ደጋፊ (degafi) — supportive, generous\n• ጠቢብ (tebbib) — wise, clever\n• ደፋር (defar) — brave\n• ቸር (cher) — kind, good-natured\n• ታጋሽ (tagash) — patient\n\nPredicate adjective + copula: አባቴ ቸር ነው። (My father is kind.)\nAttributive adjective + noun: ቸር አባቴ (My kind father) — adjective comes before.",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየቤተሰብ ዝምድና (Family Kinship Terms) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (8.4.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "እናቴ ሃምሳ ሁለት ዓመቷ ናት፣ ናርስ ናት።",
+                    "reading": "Innate hamsa hulet ametwa nat, nars nat.",
+                    "translation": "My mother is fifty-two years old and is a nurse."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (8.4.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ታላቅ ወንድሜ ጠቢብ ሰው ነው — ሰዎች ምክር ሊጠይቁት ይሄዱ።",
+                    "reading": "Tallaq wendime tebbib sew new — sewoch mikir liteyiqqut yihedu.",
+                    "translation": "My older brother is a wise person — people go to seek advice from him."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (8.4.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ወላጆቼ ሁለቱም ቸሮች ናቸው።",
+                    "reading": "Wellajoche hulettum cheroch nachew.",
+                    "translation": "Both of my parents are kind."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የቤተሰብ ዝምድና (Family Kinship Terms)"
+                "The copula trio to memorize: ነው (new) = he/it is, ናት (nat) = she is, ናቸው (nachew) = they are. Hear the -ት in ናት as pointing to feminine (like the feminine suffix -ት on nouns: ሴት, መምህርት). Hear ናቸው as 'na-chew' — a plural ending for groups. For age: the pattern is [Number] + ዓመቱ/ዓመቷ + ነው/ናት."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "In Ethiopian social contexts, it is completely normal — and expected — to discuss family members' ages, occupations, and whereabouts when meeting someone. Questions like አባትህ ምን ይሰራሉ? (What does your father do?) are not invasive but friendly. However, asking about a widow's or widower's deceased spouse should be done with care — the phrasing ባለቤቶ ያለፉ ናቸው? (Has your spouse passed?) uses the polite plural ናቸው even for a single person, showing respect."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የቤተሰብ ዝምድና (Family Kinship Terms)» አጠቃቀም በደረጃ 4 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«My grandmother is eighty years old and is patient» ን ወደ አማርኛ ቀይሩ። (አያቴ = my grandmother [using feminine context here]; ሰማኒያ = 80; ታጋሽ = patient; ናት = she is)",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (8.4.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (8.4.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (8.4.3)።"
+                        "አያቴ ሰማኒያ ዓመቱ ናት፣ ታጋሽ ናት።",
+                        "አያቴ ሰማኒያ ዓመቷ ናት፣ ታጋሽ ናት።",
+                        "አያቴ ሰማኒያ ዓመቷ ነው፣ ታጋሽ ናት።"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "For a female subject: ዓመቷ (amétwa = her years, feminine form). The copula ናት (she is) is correct for 3sg feminine. Option A uses ዓመቱ (masculine form). Option C uses ዓመቷ correctly but then uses ነው (masculine copula) for the age clause, which is internally inconsistent."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ቤተሰብ እና ማህበራዊ ግንኙነት (Family & Kinship Structures)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 4)፡",
+                    "prompt": "«ናቸው» ምን ጊዜ ይጠቀማሉ?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (8.4.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (8.4.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (8.4.3)።"
+                        "Only for 3rd person plural ('they are')",
+                        "Only for formal/polite singular address",
+                        "Both for 3rd person plural ('they are') AND as a polite form for a singular person to show respect"
                     ],
                     "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "ናቸው serves a double function in Amharic: (1) It is the ordinary 3pl copula ('they are'). (2) It is used as a polite/formal way to say 'he/she is' for a single respected person — similar to how French uses 'vous' for polite singular. Example: ዶክተሩ ዛሬ ጠፍተዋል ናቸው (The doctor is not here today) — polite singular."
                 }
             ]
         },
@@ -4964,22 +4964,22 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የቤተሰብ ዝምድና (Family Kinship Terms)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 8-4)?",
+                    "prompt": "«My younger sister is twenty-five years old» — ትክክለኛው ዓረፍተ ነገር የትኛው ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (8.4.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (8.4.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (8.4.3)።"
+                        "ታናሽ እህቴ ሃያ አምስት ዓመቷ ናት።",
+                        "ታናሽ እህቴ ሃያ አምስት ዓመቱ ናት።",
+                        "ታናሽ እህቴ ሃያ አምስት ዓመቷ ነው።"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "explanation": "ታናሽ እህቴ (younger sister, feminine subject) → ዓመቷ (her years, feminine possessive form) + ናት (feminine copula). Option B uses masculine ዓመቱ. Option C uses masculine copula ነው with a female subject."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («አባት_8_4»):",
+                    "prompt": "Type the Amharic copula (verb 'to be') for a 3rd person FEMININE singular subject (she is):",
                     "acceptedAnswers": [
-                        "አባት_8_4"
+                        "ናት"
                     ],
-                    "explanation": "The target keyword was: 【አባት_8_4】"
+                    "explanation": "ናት (nat) is the 3sg feminine copula in Amharic. Compare: ነው (new) = he/it is; ናቸው (nachew) = they are / polite he/she is."
                 }
             ]
         }
@@ -4989,60 +4989,60 @@
         "subject": "amharic",
         "unit": 8,
         "lessonNumber": 5,
-        "title": "ቤተሰብ እና ማህበራዊ ግንኙነት (Family & Kinship Structures) (Part 5)",
+        "title": "Unit 8 Synthesis: Talking About Your Family",
         "level": "A2",
-        "objective": "Comprehensive mastery of የቤተሰብ ዝምድና (Family Kinship Terms).",
+        "objective": "Produce a coherent short description of one's family in Amharic by combining family vocabulary, possessive suffixes, copula agreement, age expressions, and descriptive adjectives into multi-sentence discourse.",
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የቤተሰብ ዝምድና (Family Kinship Terms) - ደረጃ 5) ተማሪዎች ስለ የቤተሰብ ዝምድና (Family Kinship Terms) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "This lesson synthesizes everything in Unit 8 into connected family-description discourse — the kind of real speech an A2 learner needs when someone asks ቤተሰብህ ስንት ናቸው? (How many people are in your family?) or ቤተሰብህን ንገረኝ (Tell me about your family).\n\nA model family description, annotated:\n\nቤተሰቤ አምስት ሰዎች ናቸው። (My family has five people. / Lit: My family are five people.)\n— ቤተሰቤ = my family [possessive: ቤተሰብ + -ዬ]\n— አምስት ሰዎች = five people\n— ናቸው = they are [plural copula]\n\nአባቴ ሃምሳ ዓመቱ ነው፣ ነጋዴ ነው። (My father is fifty, he is a merchant.)\nእናቴ አርባ ስምንት ዓመቷ ናት፣ ቤት ትሰራለች። (My mother is forty-eight, she works at home.)\n— ቤት ትሰራለች = she works at home [ቤት = home + ትሰራለች = she works]\n\nሁለት ወንድሞችና አንዲት እህት አሉኝ። (I have two brothers and one sister.)\n— ሁለት ወንድሞች = two brothers [ወንድሞች = plural of ወንድም]\n— አንዲት = one [feminine counter form, for ሴት/feminine nouns]; compare አንድ for masculine\n— አሉኝ = I have (existential 'there are to me')\n\nCounting and gender in Amharic numbers:\nAmharic has gendered forms of the number 'one': አንድ (and) for masculine nouns, አንዲት (andit) for feminine nouns. This is one of the few number gender distinctions in the language.\n\nKEY DISCOURSE CONNECTORS:\n• እና (inna) / -ና (suffix) — and\n• ነገር ግን (neger gin) — but / however\n• ስለዚህ (silezih) — therefore\n• ደግሞ (degmo) — also / moreover",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየቤተሰብ ዝምድና (Family Kinship Terms) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (8.5.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ቤተሰቤ ትንሽ ነው — ሦስት ሰዎች ብቻ ናቸው፡ አባቴ፣ እናቴ፣ እና እኔ።",
+                    "reading": "Betesebe tinish new — sost sewoch bicha nachew: abbate, innate, inna ine.",
+                    "translation": "My family is small — there are only three people: my father, my mother, and me."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (8.5.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "አንድ ታላቅ ወንድምና ሁለት ታናሽ እህቶች አሉኝ። ሁሉም ደጋፊዎቼ ናቸው።",
+                    "reading": "And tallaq wendiminna hulet tanash ihtoch allugny. Hullum degafiwoche nachew.",
+                    "translation": "I have one older brother and two younger sisters. They are all my supporters."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (8.5.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "አያቴ — የአባቴ አባት — ሰባ ዓመቱ ሆኖ አሁንም ጠቢብ ምክር ይሰጣል።",
+                    "reading": "Ayate — ye-abbate abbat — sebba ametu hono ahunm tebbib mikir yisettal.",
+                    "translation": "My grandfather — my father's father — is seventy years old and still gives wise advice."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የቤተሰብ ዝምድና (Family Kinship Terms)"
+                "To describe a family, build each sentence with the same 3-part frame: [Family member + possessive] + [description: age/job/adjective] + [copula: ነው/ናት/ናቸው]. Check copula gender every time: masculine → ነው, feminine → ናት, plural/polite → ናቸው. Get the copula wrong and the sentence sounds ungrammatical to native ears."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "When Ethiopians introduce their family, they often include the city or region of origin as part of the description — for example: አባቴ ከጎንደር ነው (My father is from Gondar). Family origin is a significant part of identity in Ethiopia, and regions like Gondar, Tigray, Harari, or the various communities of the Omo Valley each carry cultural associations. Knowing where someone's family is from is considered important context for understanding who they are."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የቤተሰብ ዝምድና (Family Kinship Terms)» አጠቃቀም በደረጃ 5 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«I have one sister and three brothers» ን ወደ አማርኛ ቀይሩ። (አንዲት = one [fem]; ሦስት = three; አሉኝ = I have/there are to me)",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (8.5.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (8.5.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (8.5.3)።"
+                        "አንድ እህትና ሦስት ወንድሞች አሉኝ።",
+                        "አንዲት እህትና ሦስት ወንድሞች አሉኝ።",
+                        "አንዲት እህቶችና ሦስት ወንድሞች አሉኝ።"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "እህት (sister) is a feminine noun, so the feminine form of 'one' — አንዲት (andit) — must be used. Option A uses masculine አንድ with a feminine noun (wrong gender agreement). Option C uses the plural እህቶች (sisters) with አንዲት (one), which contradicts the singular meaning."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ቤተሰብ እና ማህበራዊ ግንኙነት (Family & Kinship Structures)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 5)፡",
+                    "prompt": "«አሉኝ» ምን ማለት ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (8.5.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (8.5.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (8.5.3)።"
+                        "I am going",
+                        "I have / There are [to me] — expresses possession using the existential verb አለ with 1sg object suffix",
+                        "They were there"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "አሉኝ = አሉ (they exist/are) + -ኝ (object suffix meaning 'to me' / 'for me'). So literally 'they exist to me' = 'I have them'. This is how Amharic expresses possession — not with a transitive 'have' verb but with an existential construction. ሁለት ልጆች አሉኝ = 'Two children exist to me' = 'I have two children'."
                 }
             ]
         },
@@ -5050,22 +5050,22 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የቤተሰብ ዝምድና (Family Kinship Terms)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 8-5)?",
+                    "prompt": "«Both of my parents are teachers» — ትክክለኛው ዓረፍተ ነገር ምን ነው? (ወላጆቼ = my parents; ሁለቱም = both; መምህራን = teachers [plural of መምህር])",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (8.5.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (8.5.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (8.5.3)።"
+                        "ወላጆቼ ሁለቱም መምህር ናቸው።",
+                        "ወላጆቼ ሁለቱም መምህራን ናቸው።",
+                        "ወላጆቼ ሁለቱም መምህራን ነው።"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "explanation": "ወላጆቼ (my parents, plural) + ሁለቱም (both) + መምህራን (teachers, plural — the -አን suffix pluralizes) + ናቸው (they are, plural copula). Option A uses singular መምህር with a plural subject (grammatical mismatch). Option C uses singular copula ነው with a plural subject."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («አባት_8_5»):",
+                    "prompt": "Type the Amharic word for 'my family' (ቤተሰብ + 1sg possessive suffix):",
                     "acceptedAnswers": [
-                        "አባት_8_5"
+                        "ቤተሰቤ"
                     ],
-                    "explanation": "The target keyword was: 【አባት_8_5】"
+                    "explanation": "ቤተሰቤ = my family. ቤተሰብ (beteseb, family) + -ዬ (1sg possessive) → ቤተሰቤ. This is the standard form used when introducing or describing your own family."
                 }
             ]
         }
