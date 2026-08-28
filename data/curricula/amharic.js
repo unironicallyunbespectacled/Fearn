@@ -2580,63 +2580,82 @@
     },
     "am-u4-l1": {
         "id": "am-u4-l1",
-        "subject": "amharic",
-        "unit": 4,
-        "lessonNumber": 1,
-        "title": "ቀላል የአሁን ጊዜ ግሶች (Present Tense & Habitual Actions) (Part 1)",
+        "unit": "am-u4",
         "level": "A1",
-        "objective": "Comprehensive mastery of የአሁን ጊዜ አጠቃቀም (Present Tense Habits).",
+        "objective": "Conjugate common Amharic verbs in the present habitual/imperfective tense (non-past) for all persons using the -አል (-al) stem.",
+        "prerequisites": [
+            "am-u3-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u3-l1",
+                "am-u3-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የአሁን ጊዜ አጠቃቀም (Present Tense Habits) - ደረጃ 1) ተማሪዎች ስለ የአሁን ጊዜ አጠቃቀም (Present Tense Habits) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Amharic present tense (habitual/ongoing) is formed from the verb stem with personal suffixes. The pattern for the 3rd person m. singular (he) serves as a reference:\n\n1. Key Reference Verbs:\n- መሄድ (mehed - to go): stem ሄድ / ሂድ\n- መብላት (meblat - to eat): stem ብላ\n- መጠጣት (met'et'at - to drink): stem ጠጣ\n- ማየት (mayet - to see/watch): stem ይ\n- ማድረግ (madreg - to do): stem አደርግ\n\n2. Present Habitual Conjugation Table for « መሄድ » (to go):\n- I go: እሄዳለሁ (Ihedalehu)\n- You go (m.): ትሄዳለህ (Tihedalleh)\n- You go (f.): ትሄጃለሽ (Tihejalesh)\n- He goes: ይሄዳል (Yihedal)\n- She goes: ትሄዳለች (Tihedalech)\n- We go: እንሄዳለን (Inhedalen)\n- You go (pl.): ትሄዳላችሁ (Tihedallachihu)\n- They go: ይሄዳሉ (Yihedalu)",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየአሁን ጊዜ አጠቃቀም (Present Tense Habits) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (4.1.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ዮሴፍ ጠዋት ወደ ቢሮ ይሄዳል።",
+                    "reading": "Yosef t'ewat wede biro yihedal.",
+                    "translation": "Yosef goes to the office in the morning."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (4.1.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "እኛ ዋዜማ ለምሳ አብረን እንበላለን።",
+                    "reading": "Igna wazema lemesa abren inbelalen.",
+                    "translation": "We eat lunch together on the eve."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (4.1.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ልጆቹ ቡና አይጠጡም።",
+                    "reading": "Lijochu buna ayt'et'um.",
+                    "translation": "The children do not drink coffee."
+                },
+                {
+                    "target": "አልማዝ ቴሌቪዥን ታያለች።",
+                    "reading": "Almaz televizhin tayalech.",
+                    "translation": "Almaz watches television."
+                },
+                {
+                    "target": "እርስዎ ምን ያደርጋሉ?",
+                    "reading": "Irswo min yadregallu?",
+                    "translation": "What do you (formal) do?"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የአሁን ጊዜ አጠቃቀም (Present Tense Habits)"
+                "Amharic present habitual: STEM + AL for he (yihedal), STEM + ALEHU for I (ihedalehu)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "In Ethiopia, work schedules often follow the Ethiopian clock (7:00 AM = 1:00 by Ethiopian reckoning, since the day starts at sunrise). So « ጠዋት ሰባት ሰዓት » (tewat sebat sehat) is actually 1:00 AM in Ethiopian time!"
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የአሁን ጊዜ አጠቃቀም (Present Tense Habits)» አጠቃቀም በደረጃ 1 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "How do you say 'He goes to school every day' in Amharic?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (4.1.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (4.1.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (4.1.3)።"
+                        "ወደ ትምህርት ቤት በየቀኑ ይሄዳል። (Wede timihirt bet beyeqenu yihedal.)",
+                        "ወደ ትምህርት ቤት ትሄዳለች።",
+                        "ወደ ትምህርት ቤት ሄደ።",
+                        "ወደ ትምህርት ቤት እሄዳለሁ።"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "3rd person masculine present: ይሄዳል (yihedal = he goes)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ቀላል የአሁን ጊዜ ግሶች (Present Tense & Habitual Actions)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 1)፡",
+                    "prompt": "What is the Amharic for 'I eat bread in the morning'?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (4.1.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (4.1.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (4.1.3)።"
+                        "ጠዋት ዳቦ እበላለሁ። (T'ewat dabo ibelalehu.)",
+                        "ጠዋት ዳቦ ትበላለህ።",
+                        "ጠዋት ዳቦ ይበላሉ።",
+                        "ጠዋት ዳቦ አይበላም።"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "1st person singular: እበላለሁ (ibelalehu = I eat)."
                 }
             ]
         },
@@ -2644,85 +2663,107 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የአሁን ጊዜ አጠቃቀም (Present Tense Habits)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 4-1)?",
+                    "prompt": "Which Amharic sentence means 'She watches television'?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (4.1.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (4.1.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (4.1.3)።"
+                        "ቴሌቪዥን ታያለች። (Televizhin tayalech.)",
+                        "ቴሌቪዥን ያያሉ።",
+                        "ቴሌቪዥን ይሄዳል።",
+                        "ቴሌቪዥን አያለሁ።"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "3rd feminine singular present: ታያለች (tayalech = she watches)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («እበላለሁ_4_1»):",
+                    "prompt": "Type the Amharic for 'he goes' (present habitual) in Fidel script (ይሄዳል):",
                     "acceptedAnswers": [
-                        "እበላለሁ_4_1"
+                        "ይሄዳል",
+                        "yihedal",
+                        "Yihedal"
                     ],
-                    "explanation": "The target keyword was: 【እበላለሁ_4_1】"
+                    "explanation": "ይሄዳል (Yihedal) = he goes (present habitual)."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u4-l2": {
         "id": "am-u4-l2",
-        "subject": "amharic",
-        "unit": 4,
-        "lessonNumber": 2,
-        "title": "ቀላል የአሁን ጊዜ ግሶች (Present Tense & Habitual Actions) (Part 2)",
+        "unit": "am-u4",
         "level": "A1",
-        "objective": "Comprehensive mastery of የአሁን ጊዜ አጠቃቀም (Present Tense Habits).",
+        "objective": "Negate present tense verbs using the prefix አይ- (ay-) and suffix -ም (-m) to say 'does not' in Amharic.",
+        "prerequisites": [
+            "am-u4-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u4-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የአሁን ጊዜ አጠቃቀም (Present Tense Habits) - ደረጃ 2) ተማሪዎች ስለ የአሁን ጊዜ አጠቃቀም (Present Tense Habits) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Amharic present tense negation is formed by:\n1. Prefix አይ- (ay-) before the verb stem\n2. Suffix -ም (-m) at the end\n\nPattern: አይ + STEM + PERSON ENDING + ም\n\nNegation Table for « መሄድ » (to go):\n- I don't go: አልሄድም (Alhedm)\n- You don't go (m.): አትሄድም (Athedm)\n- You don't go (f.): አትሄጂም (Athedijm)\n- He doesn't go: አይሄድም (Ayhedm)\n- She doesn't go: አትሄድም (Athedm)\n- We don't go: አንሄድም (Anhedm)\n- They don't go: አይሄዱም (Ayhedum)\n\nImportant: 1st person singular uses አል- (al-) not አይ- (ay-).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየአሁን ጊዜ አጠቃቀም (Present Tense Habits) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (4.2.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ዛሬ ወደ ሱቁ አልሄድም።",
+                    "reading": "Zare wede suqu alhedm.",
+                    "translation": "Today I am not going to the shop."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (4.2.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ፋሲካ ሥጋ አይበሉም።",
+                    "reading": "Fasika siga aybelum.",
+                    "translation": "They do not eat meat on Easter (during fasting)."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (4.2.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "አቶ ካሳ ሻይ አይጠጣም — ቡና ብቻ።",
+                    "reading": "Ato Kasa shay ayt'et'am — buna bicha.",
+                    "translation": "Ato Kasa does not drink tea — only coffee."
+                },
+                {
+                    "target": "ትምህርት ቤቱ ቅዳሜ አይከፈትም።",
+                    "reading": "Timihirt betu qidame ayikefetm.",
+                    "translation": "The school does not open on Saturday."
+                },
+                {
+                    "target": "ሳሙኤል እና ምስጋን ስጋ አይበሉም — ጾም ስለሆነ።",
+                    "reading": "Samuel ina Misgan siga aybelum — tsom silehone.",
+                    "translation": "Samuel and Misgan do not eat meat — because it is fasting."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የአሁን ጊዜ አጠቃቀም (Present Tense Habits)"
+                "Amharic negation: AY + verb + M (ayhedm = does not go); 1st person uses AL + verb + M (alhedm = I don't go)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Ethiopian Orthodox Christians fast (ጾም tsom) more days per year than almost any Christian tradition — over 200 days. During fasting, no meat or dairy is consumed before 3 PM. « ጾም ነው » (tsom new - it is fasting) is a complete social explanation."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የአሁን ጊዜ አጠቃቀም (Present Tense Habits)» አጠቃቀም በደረጃ 2 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "How do you say 'He does not drink coffee' in Amharic?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (4.2.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (4.2.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (4.2.3)።"
+                        "ቡና አይጠጣም። (Buna ayt'et'am.)",
+                        "ቡና አልጠጣም።",
+                        "ቡና አይጠጣ።",
+                        "ቡና ይጠጣል።"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "3rd m. singular negative: አይ + stem + ም = አይጠጣም."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ቀላል የአሁን ጊዜ ግሶች (Present Tense & Habitual Actions)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 2)፡",
+                    "prompt": "What does « አልሄድም » (Alhedm) mean?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (4.2.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (4.2.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (4.2.3)።"
+                        "I don't go / I am not going",
+                        "He doesn't go",
+                        "They don't go",
+                        "We don't go"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "አል- prefix + ሄድ + -ም = 1st person singular negative."
                 }
             ]
         },
@@ -2730,85 +2771,108 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የአሁን ጊዜ አጠቃቀም (Present Tense Habits)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 4-2)?",
+                    "prompt": "Which Amharic sentence means 'The school does not open on Saturday'?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (4.2.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (4.2.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (4.2.3)።"
+                        "ትምህርት ቤቱ ቅዳሜ አይከፈትም። (Timihirt betu qidame ayikefetm.)",
+                        "ትምህርት ቤቱ ቅዳሜ ይከፈታል።",
+                        "ቅዳሜ ትምህርት ቤቱ ይዘጋል።",
+                        "ቅዳሜ ትምህርት ቤቱ አይዘጋም።"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "explanation": "አይ + ከፈት + ም = does not open."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («እበላለሁ_4_2»):",
+                    "prompt": "Type the Amharic for 'I don't go' (1st person singular negative) in Fidel script (አልሄድም):",
                     "acceptedAnswers": [
-                        "እበላለሁ_4_2"
+                        "አልሄድም",
+                        "alhedm",
+                        "Alhedm"
                     ],
-                    "explanation": "The target keyword was: 【እበላለሁ_4_2】"
+                    "explanation": "አልሄድም (Alhedm) = I don't go."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u4-l3": {
         "id": "am-u4-l3",
-        "subject": "amharic",
-        "unit": 4,
-        "lessonNumber": 3,
-        "title": "ቀላል የአሁን ጊዜ ግሶች (Present Tense & Habitual Actions) (Part 3)",
+        "unit": "am-u4",
         "level": "A1",
-        "objective": "Comprehensive mastery of የአሁን ጊዜ አጠቃቀም (Present Tense Habits).",
+        "objective": "Form yes/no questions in Amharic using intonation rise and the question particle -? (ወይ / ይሆን / ኖሮ) and understand short affirmative/negative answers.",
+        "prerequisites": [
+            "am-u4-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u4-l1",
+                "am-u4-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የአሁን ጊዜ አጠቃቀም (Present Tense Habits) - ደረጃ 3) ተማሪዎች ስለ የአሁን ጊዜ አጠቃቀም (Present Tense Habits) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Amharic yes/no questions are primarily formed through:\n\n1. Rising Intonation: Same as statement but spoken with rising pitch + question mark:\n- Statement: « ትሄዳለህ » (You go) -> Question: « ትሄዳለህ? » (Are you going?)\n\n2. The particle « ወይ » (wey) appended: « ትሄዳለህ ወይ? » (Are you going or not?)\n\n3. The doubt/wonder particle « ይሆን? » (yihon?) for rhetorical/uncertain questions:\n- « ዛሬ ትሄዳለህ ይሆን? » (Are you perhaps going today?)\n\n4. Short Answers:\n- Yes: አዎ (Awo) — formal; አዎን (Awon)\n- No: አይ (Ay) — informal; አይደለም (Aydellem - it is not)\n- Correct: 맞아 / ትክክል (tikil - correct)\n- Not yet: ገና አይደለም (gena aydellem - not yet)",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየአሁን ጊዜ አጠቃቀም (Present Tense Habits) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (4.3.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ቡና ትጠጣለህ? — አዎ፣ ቡና እጠጣለሁ።",
+                    "reading": "Buna tit'et'aleh? — Awo, buna it'et'alehu.",
+                    "translation": "Do you drink coffee? — Yes, I drink coffee."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (4.3.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ወደ ትምህርት ቤት ትሄዳለሽ ዛሬ? — አይ፣ ዛሬ አልሄድም።",
+                    "reading": "Wede timihirt bet tihedalesh zare? — Ay, zare alhedm.",
+                    "translation": "Are you going to school today? — No, I am not going today."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (4.3.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ምሳ ተዘጋጀ ወይ?",
+                    "reading": "Misa tezegaje wey?",
+                    "translation": "Is lunch ready (or not)?"
+                },
+                {
+                    "target": "ዳዊት ቤት አለ ይሆን?",
+                    "reading": "Dawit bet ale yihon?",
+                    "translation": "Is Dawit at home, I wonder?"
+                },
+                {
+                    "target": "ተዉ፣ ልጁ ስሙን ያውቃል? — አዎ፣ ያውቃል!",
+                    "reading": "Tewu, liju simun yawqal? — Awo, yawqal!",
+                    "translation": "Wait, does the child know his name? — Yes, he knows it!"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የአሁን ጊዜ አጠቃቀም (Present Tense Habits)"
+                "Amharic yes/no Q: same verb + rising tone + ? Or append WEY for 'or not?'"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Ethiopians often answer a yes/no question by repeating the verb in affirmative or negative form rather than just saying 'yes'/'no': « ትሄዳለህ? — ይሄዳሉ! » feels more natural than a bare « አዎ »."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የአሁን ጊዜ አጠቃቀም (Present Tense Habits)» አጠቃቀም በደረጃ 3 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "How do you ask 'Do you (m.) drink coffee?' in Amharic?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (4.3.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (4.3.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (4.3.3)።"
+                        "ቡና ትጠጣለህ? (Buna tit'et'aleh?)",
+                        "ቡና ይጠጣሉ?",
+                        "ቡና ጠጣ?",
+                        "ቡና ትጠጣ ወይ? (same but more emphatic)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "2nd masculine singular present + rising intonation = yes/no question."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ቀላል የአሁን ጊዜ ግሶች (Present Tense & Habitual Actions)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 3)፡",
+                    "prompt": "What does « አዎ » (Awo) mean in Amharic?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (4.3.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (4.3.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (4.3.3)።"
+                        "Yes",
+                        "No",
+                        "Maybe",
+                        "Not yet"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "« አዎ » (Awo) is the standard Amharic word for 'yes'."
                 }
             ]
         },
@@ -2816,85 +2880,108 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የአሁን ጊዜ አጠቃቀም (Present Tense Habits)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 4-3)?",
+                    "prompt": "What does the question particle « ወይ » (wey) add to a sentence in Amharic?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (4.3.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (4.3.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (4.3.3)።"
+                        "It turns a statement into a 'yes/no or not?' question",
+                        "It makes the sentence a command",
+                        "It adds politeness",
+                        "It indicates past tense"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "« ወይ » (wey) = 'or not?' appended to a statement to form a yes/no question."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («እበላለሁ_4_3»):",
+                    "prompt": "Type the Amharic word for 'yes' in Fidel script (አዎ):",
                     "acceptedAnswers": [
-                        "እበላለሁ_4_3"
+                        "አዎ",
+                        "awo",
+                        "Awo"
                     ],
-                    "explanation": "The target keyword was: 【እበላለሁ_4_3】"
+                    "explanation": "አዎ (Awo) = Yes."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u4-l4": {
         "id": "am-u4-l4",
-        "subject": "amharic",
-        "unit": 4,
-        "lessonNumber": 4,
-        "title": "ቀላል የአሁን ጊዜ ግሶች (Present Tense & Habitual Actions) (Part 4)",
+        "unit": "am-u4",
         "level": "A1",
-        "objective": "Comprehensive mastery of የአሁን ጊዜ አጠቃቀም (Present Tense Habits).",
+        "objective": "Use common WH-question words (ማን Who?, ምን What?, ስንት How many?, መቼ When?, እንዴት How?) with present tense verbs.",
+        "prerequisites": [
+            "am-u4-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u3-l4",
+                "am-u4-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የአሁን ጊዜ አጠቃቀም (Present Tense Habits) - ደረጃ 4) ተማሪዎች ስለ የአሁን ጊዜ አጠቃቀም (Present Tense Habits) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Amharic WH-question words precede or follow the verb depending on emphasis:\n\n1. Core WH-Question Words:\n- ማን? (Man?) = Who?\n- ምን? (Min?) = What?\n- ስንት? (Sint?) = How many? / How much?\n- መቼ? (Meche?) = When?\n- እንዴት? (Indet?) = How? In what manner?\n- ለምን? (Lemin?) = Why?\n- የቱ? / ምንኛው? (Yetu? / Miningaw?) = Which one?\n\n2. Word Order: WH-word typically comes at the beginning or end (both are natural):\n- « ማን ነው? » (Man new? - Who is it?)\n- « ምን ትበላለህ? » (Min tibelalleh? - What do you eat?)\n- « መቼ ትሄዳለህ? » (Meche tihedalleh? - When are you going?)",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየአሁን ጊዜ አጠቃቀም (Present Tense Habits) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (4.4.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ስምህ ማን ነው?",
+                    "reading": "Simih man new?",
+                    "translation": "What is your name? (lit. Who is your name?)"
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (4.4.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ዛሬ ምን ትበላለህ?",
+                    "reading": "Zare min tibelalleh?",
+                    "translation": "What are you eating today?"
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (4.4.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ወደ ጎንደር መቼ ትሄዳለህ?",
+                    "reading": "Wede Gondar meche tihedalleh?",
+                    "translation": "When are you going to Gondar?"
+                },
+                {
+                    "target": "እንዴት ነህ? — ደህና ነኝ፣ አመሰግናለሁ።",
+                    "reading": "Indet neh? — Dehna negn, ameseginalehu.",
+                    "translation": "How are you (m.)? — I am fine, thank you."
+                },
+                {
+                    "target": "ለምን ዛሬ ትምህርት ቤት አልሄድክም?",
+                    "reading": "Lemin zare timihirt bet alhedkm?",
+                    "translation": "Why didn't you go to school today?"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የአሁን ጊዜ አጠቃቀም (Present Tense Habits)"
+                "MAN=Who, MIN=What, SINT=How much, MECHE=When, INDET=How, LEMIN=Why!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "« ስምህ ማን ነው? » literally means 'Your name WHO is?' — Amharic treats a name as a person ('who') rather than a thing ('what'). This is a deeply personal cultural trait."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የአሁን ጊዜ አጠቃቀም (Present Tense Habits)» አጠቃቀም በደረጃ 4 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "Which Amharic WH-word means 'When?'",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (4.4.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (4.4.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (4.4.3)።"
+                        "መቼ? (Meche?)",
+                        "ማን? (Man?)",
+                        "ምን? (Min?)",
+                        "ለምን? (Lemin?)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "« መቼ? » (Meche?) = When?"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ቀላል የአሁን ጊዜ ግሶች (Present Tense & Habitual Actions)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 4)፡",
+                    "prompt": "How do you ask 'Why are you not going to school?' in Amharic?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (4.4.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (4.4.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (4.4.3)።"
+                        "ለምን ትምህርት ቤት አትሄድም? (Lemin timihirt bet athedm?)",
+                        "ወዴት ትሄዳለህ?",
+                        "ምን ትበላለህ?",
+                        "እንዴት ትሄዳለህ?"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "« ለምን » (Lemin) = Why? + ትምህርት ቤት + አትሄድም (you don't go)."
                 }
             ]
         },
@@ -2902,85 +2989,108 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የአሁን ጊዜ አጠቃቀም (Present Tense Habits)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 4-4)?",
+                    "prompt": "What does « እንዴት ነህ? » (Indet neh?) mean?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (4.4.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (4.4.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (4.4.3)።"
+                        "How are you? (m.)",
+                        "Where are you?",
+                        "What do you eat?",
+                        "Who are you?"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "« እንዴት » (Indet) = How? — « እንዴት ነህ? » is the standard 'How are you? (m.)'"
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («እበላለሁ_4_4»):",
+                    "prompt": "Type the Amharic WH-word for 'What?' in Fidel script (ምን):",
                     "acceptedAnswers": [
-                        "እበላለሁ_4_4"
+                        "ምን",
+                        "min",
+                        "Min"
                     ],
-                    "explanation": "The target keyword was: 【እበላለሁ_4_4】"
+                    "explanation": "ምን (Min) = What?"
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u4-l5": {
         "id": "am-u4-l5",
-        "subject": "amharic",
-        "unit": 4,
-        "lessonNumber": 5,
-        "title": "ቀላል የአሁን ጊዜ ግሶች (Present Tense & Habitual Actions) (Part 5)",
+        "unit": "am-u4",
         "level": "A1",
-        "objective": "Comprehensive mastery of የአሁን ጊዜ አጠቃቀም (Present Tense Habits).",
+        "objective": "Synthesize present tense affirmative, negative, yes/no questions, and WH-questions in a full day-in-the-life conversational narrative.",
+        "prerequisites": [
+            "am-u4-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u4-l2",
+                "am-u4-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የአሁን ጊዜ አጠቃቀም (Present Tense Habits) - ደረጃ 5) ተማሪዎች ስለ የአሁን ጊዜ አጠቃቀም (Present Tense Habits) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "In this Unit 4 Capstone lesson, we use all four present-tense sentence types to describe a typical Ethiopian daily routine:\n\n1. Daily Schedule Vocabulary:\n- ጠዋት (t'ewat) = morning\n- ቀትር (qet'ir) = midday/noon\n- ከሰዓት (kesehat) = afternoon\n- ምሽት (mishit) = evening\n- ሌሊት (lelit) = night\n\n2. Synthesis: Affirmative + Negative + Yes/No Q + WH-Q in one dialogue about a daily routine.",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየአሁን ጊዜ አጠቃቀም (Present Tense Habits) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (4.5.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ጠዋት ከስድስት ሰዓት ተነስቶ ሻወር ይወስዳል ፣ ቡናም ይጠጣል።",
+                    "reading": "T'ewat kesidist sehat tenesto shawer yiweisdal, bunawem yit'et'al.",
+                    "translation": "In the morning he gets up at 6, takes a shower, and drinks coffee."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (4.5.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ዳዊት ቀትር ምሳ ቤት ይበላል? — አይ፣ ቢሮ ነው።",
+                    "reading": "Dawit qet'ir misa bet yibelal? — Ay, biro new.",
+                    "translation": "Does Dawit eat lunch at home? — No, it is at the office."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (4.5.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "አልማዝ ምሽት ምን ታደርጋለች?",
+                    "reading": "Almaz mishit min tadergalech?",
+                    "translation": "What does Almaz do in the evening?"
+                },
+                {
+                    "target": "ሌሊት ቴሌቪዥን አታይም — ትተኛለች።",
+                    "reading": "Lelit televizhin ataym — tit'egnalech.",
+                    "translation": "She does not watch TV at night — she sleeps."
+                },
+                {
+                    "target": "ለምን ቅዳሜ ትምህርት ቤት አትሄዱም? — ቅዳሜ አይከፈትም ስለዚህ።",
+                    "reading": "Lemin qidame timihirt bet athedm? — Qidame ayikefetm silezih.",
+                    "translation": "Why don't you (pl.) go to school on Saturday? — Because it doesn't open on Saturday."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የአሁን ጊዜ አጠቃቀም (Present Tense Habits)"
+                "DAILY SYNTHESIS: Morning (GENA) -> Noon (QET'IR) -> Afternoon (KESEHAT) -> Night (LELIT) with verb chains!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "The Ethiopian coffee ceremony (ቡና ቤት buna bet) is the heart of daily social life — beans are roasted fresh, ground by hand, and served in three rounds called አቦ (abol), ጦና (t'ona), and ቤሬካ (bereka). Sharing buna is an expression of friendship and hospitality."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የአሁን ጊዜ አጠቃቀም (Present Tense Habits)» አጠቃቀም በደረጃ 5 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "How do you say 'What do you do in the evening?' in Amharic?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (4.5.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (4.5.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (4.5.3)።"
+                        "ምሽት ምን ታደርጋለህ? (Mishit min tadergaleh?)",
+                        "ጠዋት ምን ትሄዳለህ?",
+                        "ሌሊት ወዴት ነህ?",
+                        "ቀትር ምን ትጠጣለህ?"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "ምሽት (evening) + ምን (what) + ታደርጋለህ (do you do m.)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ቀላል የአሁን ጊዜ ግሶች (Present Tense & Habitual Actions)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 5)፡",
+                    "prompt": "Translate: 'She does not watch TV at night — she sleeps.'",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (4.5.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (4.5.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (4.5.3)።"
+                        "ሌሊት ቴሌቪዥን አታይም — ትተኛለች። (Lelit televizhin ataym — tit'egnalech.)",
+                        "ሌሊት ቡና ትጠጣለች — ትተኛለች።",
+                        "ሌሊት ቴሌቪዥን ታያለች — አትተኛም።",
+                        "ሌሊት ምን ያደርጋሉ?"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "አታይም (she doesn't watch) + ትተኛለች (she sleeps)."
                 }
             ]
         },
@@ -2988,24 +3098,28 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የአሁን ጊዜ አጠቃቀም (Present Tense Habits)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 4-5)?",
+                    "prompt": "Which Amharic sentence correctly describes a daily routine in the present tense?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (4.5.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (4.5.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (4.5.3)።"
+                        "ጠዋት ቡና ይጠጣል፣ ቀትር ምሳ ቤት ይበላል። (T'ewat buna yit'et'al, qet'ir misa bet yibelal.)",
+                        "ጠዋት ቡና ጠጣ፣ ቀትር ምሳ በላ።",
+                        "ጠዋት ቡና አይጠጣም፣ ምሳ አይበልም።",
+                        "ጠዋት ቡና ትጠጣለህ ወይ?"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "explanation": "ይጠጣል (he drinks) and ይበላል (he eats) are both present habitual forms."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («እበላለሁ_4_5»):",
+                    "prompt": "Type the Amharic word for 'evening' in Fidel script (ምሽት):",
                     "acceptedAnswers": [
-                        "እበላለሁ_4_5"
+                        "ምሽት",
+                        "mishit",
+                        "Mishit"
                     ],
-                    "explanation": "The target keyword was: 【እበላለሁ_4_5】"
+                    "explanation": "ምሽት (mishit) = evening."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u5-l1": {
