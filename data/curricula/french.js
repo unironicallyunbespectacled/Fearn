@@ -15432,56 +15432,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u28-l5"
+            ]
         },
         "presentation": {
-            "explanation": "Rigorous academic exposition of La Constitution de la Ve République et le Pouvoir Exécutif. At the CEFR C1 level, learners develop mastery in abstract conceptualization, domain-specific terminology, and sophisticated syntactic structures required for academic, legal, and intellectual fluency in French.",
+            "explanation": "The French Fifth Republic (promulgated on October 4, 1958, conceived by Charles de Gaulle and Michel Debré) establishes a rationalized semi-presidential regime:\n\n1. The Executive Dyarchy (La Dyarchie de l'Exécutif):\n- Le Président de la République (Chef de l'État élu au suffrage universel direct depuis 1962, garant des institutions, chef des armées - Article 5).\n- Le Premier ministre (Chef du Gouvernement, dirige l'action gouvernementale et conduit la politique de la Nation - Article 20).\n- Le domaine réservé ou partagé (défense et affaires étrangères).\n\n2. Political Dynamics:\n- Le fait majoritaire (présidentialisation forte en cas de concordance des majorités).\n- La cohabitation (lorsque la majorité parlementaire à l'Assemblée est opposée au Président).\n- Le droit de dissolution de l'Assemblée nationale par le Président (Article 12).",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "La Constitution de 1958 instaure un exécutif bicéphale où le Président de la République assure la continuité de l'État tandis que le Premier ministre conduit la politique de la Nation.",
+                    "reading": "lah kohn-stee-too-syohn duh meel nuhf sahn sank-ahnt-weet an-stohr uhn nayg-zay-koo-teef bee-say-fahl oo luh pray-zee-dahn duh lah ray-poo-bleek ah-soor lah kohn-tee-nwee-tay duh lay-tah tahn-dee kuh luh pruh-myay mee-neestruh kohn-dwee lah poh-lee-teek duh lah nah-syohn",
+                    "translation": "The 1958 Constitution institutes a two-headed executive where the President of the Republic ensures the continuity of the State while the Prime Minister conducts the policy of the Nation."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "En période de cohabitation, l'effacement relatif du chef de l'État redonne au chef du gouvernement la plénitude de ses prérogatives constitutionnelles.",
+                    "reading": "ahn pay-ryohd duh koh-ah-bee-tah-syohn, lef-fahs-mahn ruh-lah-teef doo shef duh lay-tah ruh-dohn oh shef doo goo-vair-nuh-mahn lah play-nee-tood duh say pray-roh-gah-teev kohn-stee-too-syoh-nel",
+                    "translation": "During periods of cohabitation, the relative step back of the Head of State restores to the Head of Government the fullness of his constitutional prerogatives."
+                },
+                {
+                    "target": "L'usage du droit de dissolution conféré par l'article 12 permet au Président de dénouer une crise politique en renvoyant les députés devant le suffrage universel.",
+                    "reading": "loo-zahzh doo drwah duh dee-soh-loo-syohn kohn-fay-ray pahr lahr-teekl dooz pair-meh oh pray-zee-dahn duh day-nway oon kreez poh-lee-teek ahn rahn-vwah-yahn lay day-poo-tay duh-vahn luh soo-frahzh oo-nee-vair-sel",
+                    "translation": "The use of the right of dissolution conferred by Article 12 allows the President to resolve a political crisis by sending deputies back before universal suffrage."
+                },
+                {
+                    "target": "Le quinquennat et l'inversion du calendrier électoral adoptés en 2000 ont renforcé la présidentialisation du régime en synchronisant les mandats.",
+                    "reading": "luh kan-keh-nah ay lan-vair-syohn doo kah-lahn-dree-yay ay-lek-toh-rahl ah-dohp-tay ahn duh meel ohn rahn-fohr-say lah pray-zeen-dahn-syah-lee-zah-syohn doo ray-zheem ahn san-kroh-nee-zahn lay mahn-dah",
+                    "translation": "The five-year presidential term and electoral calendar inversion adopted in 2000 strengthened the presidentialization of the regime by synchronizing terms."
+                },
+                {
+                    "target": "L'article 16 de la Constitution confère des pouvoirs exceptionnels au Président en cas de menace grave et immédiate sur les institutions républicaines.",
+                    "reading": "lahr-teekl seez duh lah kohn-stee-too-syohn kohn-fair day poo-vwahr zeg-sep-syoh-nel oh pray-zee-dahn ahn kah duh muh-nahs grahv ay ee-may-dyaht soor lay zan-stee-too-syohn ray-poo-blee-ken",
+                    "translation": "Article 16 of the Constitution grants exceptional powers to the President in the event of a grave and immediate threat to republican institutions."
                 }
             ],
             "mnemonics": [
-                "Conceptual anchor for La Constitution de la Ve République et le Pouvoir Exécutif"
+                "ARTICLE 5: Président (Garant et arbitre); ARTICLE 20: Gouvernement (Conduit la politique); ARTICLE 12: Dissolution!",
+                "COHABITATION: Président d'un bord + Premier ministre et majorité parlementaire de l'autre!"
             ],
             "culturalNotes": [
-                "Epistemological and institutional significance of La Constitution de la Ve République et le Pouvoir Exécutif in France."
+                "The Fifth Republic experienced three periods of cohabitation (1986–1988 Mitterrand/Chirac, 1993–1995 Mitterrand/Balladur, and 1997–2002 Chirac/Jospin)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Analyze the constitutional architecture and executive balance of the F » :",
+                    "prompt": "Selon l'article 20 de la Constitution française, quelle institution « détermine et conduit la politique de la Nation » ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (141a).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (141b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (141c)."
+                        "Le Gouvernement (dirigé par le Premier ministre)",
+                        "Le Conseil d'État",
+                        "Le Conseil de sécurité de l'ONU",
+                        "Le maire de Paris"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "L'article 20 dispose expressément que « Le Gouvernement détermine et conduit la politique de la Nation »."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u29-l1 :",
+                    "prompt": "Que permet l'article 12 de la Constitution au Président de la République ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "L'antériorité temporelle est mal établie par rapport au repère (141x).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (141y).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (141z)."
+                        "Prononcer la dissolution de l'Assemblée nationale",
+                        "Nommer les sénateurs à vie",
+                        "Déclarer une guerre sans vote",
+                        "Modifier la Constitution seul"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C1."
+                    "explanation": "L'article 12 accorde au chef de l'État la prérogative de dissoudre l'Assemblée nationale et de convoquer de nouvelles élections législatives."
                 }
             ]
         },
@@ -15489,25 +15507,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u29-l1) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "En quelle année la Constitution de l'actuelle Ve République française a-t-elle été promulguée ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'antériorité temporelle est mal établie par rapport au repère (141m).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (141n).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (141p)."
+                        "1789",
+                        "1958",
+                        "1945",
+                        "2002"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 1,
+                    "explanation": "La Constitution de la Ve République a été adoptée par référendum et promulguée le 4 octobre 1958."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u29-l1 (terme attendu : « Nous ») :",
+                    "prompt": "Quelle situation politique survient lorsque le Président et le Premier ministre appartiennent à des partis opposés ? (la _________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "cohabitation",
+                        "Cohabitation"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Cette coexistence institutionnelle s'appelle la « cohabitation »."
                 }
             ],
             "passThreshold": 0.8
@@ -15523,56 +15540,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u29-l1"
+            ]
         },
         "presentation": {
-            "explanation": "Rigorous academic exposition of Le Travail Parlementaire, l'Article 49.3 et le Contrôle Démocratique. At the CEFR C1 level, learners develop mastery in abstract conceptualization, domain-specific terminology, and sophisticated syntactic structures required for academic, legal, and intellectual fluency in French.",
+            "explanation": "The French legislative process in the bicameral Parliament (l'Assemblée nationale et le Sénat) relies on rationalized constitutional procedures:\n\n1. The Legislative Navette:\n- Projet de loi (initié par le Gouvernement) vs Proposition de loi (initiée par les parlementaires).\n- Travail en commission permanente, amendements, et débat en séance publique.\n- La navette parlementaire entre le Palais Bourbon et le Palais du Luxembourg. En cas de désaccord, réunion d'une Commission Mixte Paritaire (CMP - 7 députés, 7 sénateurs) ; le Gouvernement peut donner le « dernier mot » à l'Assemblée.\n\n2. Rationalized Parliamentarism & Control:\n- L'article 49 alinéa 3 (le « 49.3 ») : adoption d'un texte sans vote sauf vote d'une motion de censure sous 24h.\n- La motion de censure (adoptée à la majorité absolue des membres de l'Assemblée, soit 289 voix).\n- Le contrôle de constitutionnalité par le Conseil constitutionnel (QPC et saisine préalable).",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Le recours à l'article 49 alinéa 3 permet au Premier ministre d'engager la responsabilité du Gouvernement pour faire adopter un texte sans vote parlementaire.",
+                    "reading": "luh ruh-koor ah lahr-teekl kah-rahnt-nuhf ah-lee-nay-ah trwah pair-meh oh pruh-myay mee-neestruh dahn-gah-zhay lah res-pohn-sah-bee-lee-tay doo goo-vair-nuh-mahn poor fair ah-dohp-tay uhn tekst sahn voht pahr-luh-mahn-tair",
+                    "translation": "The recourse to Article 49 paragraph 3 allows the Prime Minister to pledge the Government's responsibility to pass a bill without a parliamentary vote."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Si la motion de censure déposée par l'opposition recueille la majorité absolue des membres de l'Assemblée nationale, le Gouvernement est contraint de démissionner.",
+                    "reading": "see lah moh-syohn duh sahn-soor day-poh-zay pahr loh-poh-zee-syohn ruh-kuhy lah mah-zhoh-ree-tay ahb-soh-loo day mahm-bruh duh lah-sahn-blay nah-syoh-nahl, luh goo-vair-nuh-mahn ay kohn-tran duh day-mee-syoh-nay",
+                    "translation": "If the motion of no confidence filed by the opposition garners an absolute majority of National Assembly members, the Government is forced to resign."
+                },
+                {
+                    "target": "En cas d'échec de la Commission Mixte Paritaire à trouver un compromis, le Gouvernement peut accorder le dernier mot à l'Assemblée nationale.",
+                    "reading": "ahn kah day-shek duh lah koh-mee-syohn meekst pah-ree-tair ah troo-vay uhn kohn-proh-mee, luh goo-vair-nuh-mahn puh tah-kohr-day luh dair-nyay moh ah lah-sahn-blay nah-syoh-nahl",
+                    "translation": "In the event the Joint Conciliation Committee fails to find a compromise, the Government may give the final say to the National Assembly."
+                },
+                {
+                    "target": "Avant la promulgation d'une loi, soixante députés ou sénateurs peuvent saisir le Conseil constitutionnel pour vérifier sa conformité avec le bloc de constitutionnalité.",
+                    "reading": "ah-vahn lah proh-mool-gah-syohn doon lwah, swah-sahnt day-poo-tay oo say-nah-tuhr puhvt seh-zeer luh kohn-sehy kohn-stee-too-syoh-nel poor vay-ree-fyay sah kohn-fohr-mee-tay ah-vek luh blohk duh kohn-stee-too-syoh-nah-lee-tay",
+                    "translation": "Prior to a law's promulgation, 60 deputies or senators may refer it to the Constitutional Council to verify compliance with the constitutional corpus."
+                },
+                {
+                    "target": "La Question Prioritaire de Constitutionnalité (QPC) offre à tout justiciable le droit de contester la constitutionnalité d'une disposition législative lors d'un procès.",
+                    "reading": "lah kes-tyohn pree-oh-ree-tair duh kohn-stee-too-syoh-nah-lee-tay koo-pay-say ohfruh ah too zhoos-tee-syahbl luh drwah duh kohn-tes-tay lah kohn-stee-too-syoh-nah-lee-tay doon dees-poh-zee-syohn lay-zhees-lah-teev lohr doon proh-seh",
+                    "translation": "The Priority Preliminary Ruling on Constitutionality (QPC) offers any litigant the right to challenge the constitutionality of a legislative provision during a trial."
                 }
             ],
             "mnemonics": [
-                "Conceptual anchor for Le Travail Parlementaire, l'Article 49.3 et le Contrôle Démocratique"
+                "ARTICLE 49.3: Texte adopté sans vote sauf si MOTION DE CENSURE votée à la majorité absolue!",
+                "QPC = Question Prioritaire de Constitutionnalité (Contrôle a posteriori)!"
             ],
             "culturalNotes": [
-                "Epistemological and institutional significance of Le Travail Parlementaire, l'Article 49.3 et le Contrôle Démocratique in France."
+                "The Palais Bourbon (seat of the Assemblée nationale) features hemicycle seating where deputies sit from left to right according to political ideology, a custom dating back to the 1789 Revolution."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Navigate parliamentary mechanics, bicameral legislation, and special c » :",
+                    "prompt": "Que se passe-t-il lorsqu'une motion de censure est adoptée par l'Assemblée nationale ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "La préposition employée ici n'est pas commandée par le verbe (142a).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (142b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (142c)."
+                        "Le Premier ministre doit remettre la démission de son gouvernement au Président de la République",
+                        "Le Sénat est dissous immédiatement",
+                        "La France change de monnaie",
+                        "Tous les impôts sont annulés"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "L'adoption d'une motion de censure à la majorité absolue entraîne la chute immédiate du Gouvernement et sa démission obligatoire."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u29-l2 :",
+                    "prompt": "Quelle juridiction suprême veille à la conformité des lois avec la Constitution en France ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "La préposition employée ici n'est pas commandée par le verbe (142x).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (142y).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (142z)."
+                        "Le Conseil constitutionnel",
+                        "La Cour des comptes",
+                        "Le Parlement européen",
+                        "Le Tribunal de commerce"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C1."
+                    "explanation": "Le Conseil constitutionnel (composé de 9 membres nommés pour 9 ans) vérifie la constitutionnalité des lois avant ou après leur promulgation."
                 }
             ]
         },
@@ -15580,25 +15615,25 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u29-l2) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quel article constitutionnel permet l'engagement de responsabilité du gouvernement sur un texte législatif sans vote direct ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "La préposition employée ici n'est pas commandée par le verbe (142m).",
-                        "Cette forme présente une anomalie phonétique en français standard (142n).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (142p)."
+                        "L'article 2",
+                        "L'article 88",
+                        "L'article 49, alinéa 3 (le 49.3)",
+                        "L'article 100"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 2,
+                    "explanation": "L'article 49.3 de la Constitution permet au gouvernement de faire adopter un texte sans vote, sous réserve du rejet d'une motion de censure."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u29-l2 (terme attendu : « Nous ») :",
+                    "prompt": "Quel mécanisme juridique permet à un citoyen de contester la constitutionnalité d'une loi lors d'un procès ? (sigle en 3 lettres : la _________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "QPC",
+                        "qpc",
+                        "Qpc"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Ce mécanisme créé en 2008 est la « QPC » (Question Prioritaire de Constitutionnalité)."
                 }
             ],
             "passThreshold": 0.8
@@ -15614,56 +15649,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u29-l2"
+            ]
         },
         "presentation": {
-            "explanation": "Rigorous academic exposition of Systèmes Électoraux, Suffrage et Dynamiques Politiques. At the CEFR C1 level, learners develop mastery in abstract conceptualization, domain-specific terminology, and sophisticated syntactic structures required for academic, legal, and intellectual fluency in French.",
+            "explanation": "The French electoral architecture (le régime électoral et la sociologie électorale) operates through several distinct voting systems:\n\n1. Electoral Modalities:\n- Le scrutin uninominal majoritaire à deux tours (présidentielles, législatives) : favorise la stabilité et le fait majoritaire, mais réduit la représentativité des forces minoritaires.\n- Le scrutin proportionnel plurinominal (européennes, régionales avec prime majoritaire) : assure une représentation mathématique fidèle des suffrages.\n- Les seuils de qualification (ex. 12,5 % des inscrits aux législatives créant des triangulaires ou quadrangulaires).\n\n2. Electoral Dynamics:\n- L'abstentionnisme civique et le vote blanc/nul.\n- Le front républicain (coalition contre les extrêmes).\n- La parité hommes-femmes obligatoire sur les scrutins de liste.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Le scrutin uninominal majoritaire à deux tours favorise l'émergence d'une majorité parlementaire stable mais sous-représente les petites formations politiques.",
+                    "reading": "luh skroo-tan oo-nee-noh-mee-nahl mah-zhoh-ree-tair ah duh toor fah-voh-reez lay-mair-zhahns doon mah-zhoh-ree-tay pahr-luh-mahn-tair stahbl meh soo-ruh-pray-zahnt lay puh-teet fohr-mah-syohn poh-lee-teek",
+                    "translation": "The two-round single-member plurality system favors the emergence of a stable parliamentary majority but underrepresents smaller political parties."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "L'introduction d'une dose de proportionnelle aux élections législatives fait l'objet d'un débat récurrent pour remédier au déficit de représentativité démocratique.",
+                    "reading": "lan-troh-dook-syohn doon dohz duh proh-pohr-syoh-nel oh zay-lek-syohn lay-zhees-lah-teev feh lohb-zheh doon day-bah ray-koo-rahn poor ruh-may-dyay oh day-fee-seet duh ruh-pray-zahn-tah-tee-vee-tay day-moh-krah-teek",
+                    "translation": "Introducing a dose of proportional representation in legislative elections is the subject of a recurring debate to address the deficit in democratic representativeness."
+                },
+                {
+                    "target": "La progression constante du taux d'abstention lors des scrutins intermédiaires traduit une crise de confiance envers la classe politique traditionnelle.",
+                    "reading": "lah proh-greh-syohn kohn-stahnt doo toh dahb-stahn-syohn lohr day skroo-tan an-tair-may-dyair trah-dwee oon kreez duh kohn-fyahns ahn-vair lah klahs poh-lee-teek trah-dee-syoh-nel",
+                    "translation": "The constant rise in abstention rates during midterm elections reflects a crisis of confidence in the traditional political establishment."
+                },
+                {
+                    "target": "Lors d'une triangulaire au second tour des élections législatives, trois candidats s'affrontent après avoir franchi le seuil qualificatif de 12,5 % des électeurs inscrits.",
+                    "reading": "lohr doon tree-ahn-goo-lair oh suh-gohn toor day zay-lek-syohn lay-zhees-lah-teev, trwah kahn-dee-dah sah-frohnt ah-preh zah-vwahr frahn-shee luh suhy kah-lee-fee-kah-teef duh dooz veer-gool sank poor sahn day zay-lek-tuhr zan-skree",
+                    "translation": "During a three-way race in the second round of legislative elections, three candidates face off after clearing the qualification threshold of 12.5% of registered voters."
+                },
+                {
+                    "target": "La législation sur la parité oblige les partis à présenter un nombre égal d'hommes et de femmes sous peine de sanctions financières sur leurs dotations publiques.",
+                    "reading": "lah lay-zhees-lah-syohn soor lah pah-ree-tay oh-bleezh lay pahr-tee ah pray-zahn-tay uhn nohm-bruh ay-gahl dohm ay duh fahm soo pen duh sahnk-syohn fee-nahn-syair soor luhr doh-tah-syohn poo-bleek",
+                    "translation": "Legislation on parity obliges parties to present an equal number of male and female candidates on pain of financial penalties on their public funding."
                 }
             ],
             "mnemonics": [
-                "Conceptual anchor for Systèmes Électoraux, Suffrage et Dynamiques Politiques"
+                "MAJORITAIRE: Stabilité et bipolarisation; PROPORTIONNELLE: Fidélité et multipartisme!",
+                "TRIANGULAIRE: 3 candidats qualifiés au 2d tour (seuil de 12,5% des inscrits)!"
             ],
             "culturalNotes": [
-                "Epistemological and institutional significance of Systèmes Électoraux, Suffrage et Dynamiques Politiques in France."
+                "France uses paper ballots (bulletins papier) in private booths (isoloirs) and transparent ballot boxes (urnes transparentes), upholding physical voting rituals."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Examine electoral systems, voting behavior, and democratic representat » :",
+                    "prompt": "Quel mode de scrutin est actuellement utilisé pour élire le Président de la République en France ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (143a).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (143b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (143c)."
+                        "Le scrutin uninominal majoritaire à deux tours",
+                        "Le tirage au sort parmi les citoyens",
+                        "Le vote par correspondance électronique exclusif",
+                        "Le scrutin proportionnel intégral à un seul tour"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "L'élection présidentielle française se déroule au scrutin uninominal majoritaire à deux tours (avec duel final entre les deux premiers candidats)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u29-l3 :",
+                    "prompt": "Que signifie le terme « abstention » dans un scrutin démocratique ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette proposition modifie subtilement le sens originel du verbe (143x).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (143y).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (143z)."
+                        "Le fait pour un citoyen inscrit sur les listes électorales de ne pas se rendre aux urnes pour voter",
+                        "Le fait de voter deux fois dans la même journée",
+                        "Le fait de déposer un bulletin blanc",
+                        "Le recomptage obligatoire des voix"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C1."
+                    "explanation": "L'abstention désigne le choix (ou l'empêchement) d'un électeur inscrit de ne pas participer au vote."
                 }
             ]
         },
@@ -15671,25 +15724,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u29-l3) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Comment nomme-t-on une élection au second tour où trois candidats se maintiennent ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette proposition modifie subtilement le sens originel du verbe (143m).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (143n).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (143p)."
+                        "Un référendum",
+                        "Un plébiscite",
+                        "Un congrès",
+                        "Une triangulaire"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 3,
+                    "explanation": "Une élection à trois candidats au second tour est qualifiée de « triangulaire »."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u29-l3 (terme attendu : « Nous ») :",
+                    "prompt": "Quel petit espace clos garantit le secret du vote dans un bureau de vote ? (l'_________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "isoloir",
+                        "Isoloir"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "La cabine garantissant le secret du vote s'appelle l'« isoloir »."
                 }
             ],
             "passThreshold": 0.8
@@ -15705,56 +15757,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u29-l3"
+            ]
         },
         "presentation": {
-            "explanation": "Rigorous academic exposition of La Laïcité Républicaine et le Principe de Neutralité. At the CEFR C1 level, learners develop mastery in abstract conceptualization, domain-specific terminology, and sophisticated syntactic structures required for academic, legal, and intellectual fluency in French.",
+            "explanation": "French secularism (la laïcité républicaine) is a foundational constitutional pillar (Article 1 : « La France est une République indivisible, laïque, démocratique et sociale ») :\n\n1. The 1905 Law on Separation (Loi du 9 décembre 1905):\n- Conçue par Aristide Briand et Jean Jaurès.\n- Article 1 : Garantie de la liberté de conscience et du libre exercice des cultes.\n- Article 2 : Non-reconnaissance et non-subventionnement des cultes par la République.\n- Obligation de stricte neutralité religieuse des agents du service public.\n\n2. Legal Scope & Application:\n- Loi de 2004 encadrant le port de signes religieux ostensibles dans les écoles publiques.\n- Exception historique du Concordat d'Alsace-Moselle (régime dérogatoire des cultes reconnus).",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "La loi de 1905 garantit la liberté absolue de conscience et le libre exercice des cultes tout en proclamant la stricte neutralité religieuse de l'État républicain.",
+                    "reading": "lah lwah duh meel nuhf sahn sank gah-rahn-tee lah lee-bair-tay ahb-soh-loo duh kohn-syahns ay luh lee-bruh zeg-zair-sees day koolt too tahn proh-klah-mahn lah streek-tuh nuh-trah-lee-tay ruh-lee-zhyuhz duh lay-tah ray-poo-blee-kan",
+                    "translation": "The 1905 law guarantees absolute freedom of conscience and free exercise of worship while proclaiming the strict religious neutrality of the Republican State."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Les agents du service public sont tenus à une stricte obligation de neutralité et ne peuvent manifester aucune opinion religieuse ou philosophique dans l'exercice de leurs fonctions.",
+                    "reading": "lay zah-zhahn doo sair-vees poo-bleek sohnt tuh-noo ah oon streekt oh-blee-gah-syohn duh nuh-trah-lee-tay ay nuh puhvt mah-nee-fes-tay oh-koon oh-pee-nyohn ruh-lee-zhyuhz oo fee-loh-zoh-feek dahn leg-zair-sees duh luhr fohnk-syohn",
+                    "translation": "Public service employees are bound by a strict obligation of neutrality and cannot express any religious or philosophical opinions in the performance of their duties."
+                },
+                {
+                    "target": "La laïcité française ne vise pas à exclure les religions de l'espace public mais à protéger l'autonomie de la sphère politique face à toute ingérence confessionnelle.",
+                    "reading": "lah lah-ee-see-tay frahn-sez nuh veez pah zah zeg-skloor lay ruh-lee-zhyohn duh les-pahs poo-bleek meh ah proh-tay-zhay loh-toh-noh-mee duh lah sfair poh-lee-teek fahs ah toot an-zhay-rahns kohn-feh-syoh-nel",
+                    "translation": "French secularism does not seek to exclude religions from the public sphere but to protect the autonomy of the political domain from any sectarian interference."
+                },
+                {
+                    "target": "La loi de 2004 encadre le port de signes religieux ostensibles dans les écoles, collèges et lycées publics afin de préserver la sérénité des apprentissages.",
+                    "reading": "lah lwah duh duh meel kahtruh ahn-kahdruh luh pohr duh seen-yuh ruh-lee-zhyuh ohs-tahn-seebl dahn lay zay-kohl, koh-lezh ay lee-say poo-bleek ah-fan duh pray-zair-vay lah say-ray-nee-tay day zah-prahn-tee-sahzh",
+                    "translation": "The 2004 law regulates the wearing of conspicuous religious symbols in public primary and secondary schools to preserve the serenity of educational environments."
+                },
+                {
+                    "target": "Le statut dérogatoire du droit local alsacien-mosellan maintient le régime concordataire pour les cultes catholique, protestants et israélite en Alsace et en Moselle.",
+                    "reading": "luh stah-too day-roh-gah-twahr doo drwah loh-kahl ahl-zah-syan moh-zeh-lahn man-tyan luh ray-zheem kohn-kohr-dah-tair poor lay koolt kah-toh-leek, proh-tes-tahn ay eez-rah-ay-leet ahn ahl-zahs ay ahn moh-zel",
+                    "translation": "The exceptional status of local law in Alsace-Moselle maintains the concordat regime for Catholic, Protestant, and Jewish faiths in Alsace and Moselle."
                 }
             ],
             "mnemonics": [
-                "Conceptual anchor for La Laïcité Républicaine et le Principe de Neutralité"
+                "LAÏCITÉ (Loi de 1905): 1. Liberté de conscience; 2. Neutralité de l'État; 3. Séparation État/Cultes!",
+                "AGENTS PUBLICS: Obligation absolue de neutralité républicaine!"
             ],
             "culturalNotes": [
-                "Epistemological and institutional significance of La Laïcité Républicaine et le Principe de Neutralité in France."
+                "Alsace-Moselle was under German rule in 1905, so the 1905 Separation Law does not apply there; recognized ministers of religion remain state-salaried under the 1801 Napoleonic Concordat."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Debate the legal and philosophical foundations of French secularism (l » :",
+                    "prompt": "Quel est le principe fondamental posé par l'article 2 de la loi du 9 décembre 1905 sur la séparation des Églises et de l'État ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette forme présente une anomalie phonétique en français standard (144a).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (144b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (144c)."
+                        "La République ne reconnaît, ne salarie ni ne subventionne aucun culte",
+                        "L'État doit financer la construction de tous les temples",
+                        "Une seule religion est déclarée officielle en France",
+                        "Tous les citoyens doivent adopter la même croyance"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "L'article 2 de la loi de 1905 établit le principe de non-reconnaissance et de non-subventionnement des cultes par la République."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u29-l4 :",
+                    "prompt": "À quelle obligation stricte sont soumis les fonctionnaires et agents du service public en France ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette forme présente une anomalie phonétique en français standard (144x).",
-                        "La préposition employée ici n'est pas commandée par le verbe (144y).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (144z)."
+                        "L'obligation de neutralité religieuse et politique dans leurs fonctions",
+                        "L'obligation d'appartenir à un parti politique",
+                        "L'interdiction de parler français",
+                        "L'obligation de voter pour le parti au pouvoir"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C1."
+                    "explanation": "Les agents du service public doivent observer une stricte neutralité philosophique, politique et religieuse vis-à-vis des usagers."
                 }
             ]
         },
@@ -15762,25 +15832,26 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u29-l4) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "En quelle année a été promulguée la grande loi française de séparation des Églises et de l'État ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette forme présente une anomalie phonétique en français standard (144m).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (144n).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (144p)."
+                        "1804",
+                        "1968",
+                        "1905",
+                        "1995"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 2,
+                    "explanation": "La loi de séparation des Églises et de l'État a été votée et promulguée en décembre 1905."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u29-l4 (terme attendu : « Nous ») :",
+                    "prompt": "Quel principe républicain garantit la séparation du pouvoir politique et des religions ? (la _________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "laïcité",
+                        "laicite",
+                        "Laïcité",
+                        "Laicite"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Ce principe cardinal est la « laïcité »."
                 }
             ],
             "passThreshold": 0.8
@@ -15796,56 +15867,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u29-l4"
+            ]
         },
         "presentation": {
-            "explanation": "Rigorous academic exposition of Essai de Science Politique et Réformes Institutionnelles. At the CEFR C1 level, learners develop mastery in abstract conceptualization, domain-specific terminology, and sophisticated syntactic structures required for academic, legal, and intellectual fluency in French.",
+            "explanation": "Writing an advanced political science essay or debate piece (l'essai de science politique et l'analyse institutionnelle) in French follows a structured dialectic framework:\n\n1. Rhetorical Articulation & Concession:\n- Modèle dialectique : Thèse (affirmation) -> Antithèse (objection) -> Synthèse/Dépassement (compromis institutionnel).\n- Formules de concession et d'étayage :\n  * « S'il est indéniable que... force est toutefois de constater que... »\n  * « Loin d'affaiblir l'autorité de l'État, une telle réforme consoliderait... »\n  * « À l'aune des mutations sociologiques contemporaines... »\n\n2. Contemporary Institutional Debates:\n- Réforme du scrutin législatif (dose de proportionnelle).\n- Référendum d'Initiative Citoyenne (RIC) et conventions citoyennes.\n- Décentralisation et pouvoir normatif local.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "S'il est indéniable que la Ve République a garanti une remarquable stabilité gouvernementale, force est de constater que la concentration des pouvoirs suscite une demande croissante de démocratie participative.",
+                    "reading": "seel ay tan-day-nyahbl kuh lah sank-yem ray-poo-bleek ah gah-rahn-tee oon ruh-mahr-kahbl stah-bee-lee-tay goo-vair-nuh-mahn-tahl, fohrs ay duh kohn-stah-tay kuh lah kohn-sahn-trah-syohn day poo-vwahr soos-seet oon duh-mahnd krwah-sahnt duh day-moh-krah-tee pahr-tee-see-pah-teev",
+                    "translation": "While it is undeniable that the Fifth Republic guaranteed remarkable governmental stability, it must be noted that the concentration of power elicits a growing demand for participatory democracy."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "L'instauration du Référendum d'Initiative Citoyenne (RIC) permettrait de revitaliser le lien civique sans pour autant remettre en cause les fondements de la démocratie représentative.",
+                    "reading": "lan-stoh-rah-syohn doo ray-fay-rahn-dohm dee-nee-syah-teev see-twah-yen pair-meh-tray duh ruh-vee-tah-lee-zay luh lyan see-veek sahn poor oh-tahn ruh-meh-truh ahn kohz lay fohn-duh-mahn duh lah day-moh-krah-tee ruh-pray-zahn-tah-teev",
+                    "translation": "The establishment of the Citizens' Initiative Referendum (RIC) would revitalize civic engagement without undermining the foundations of representative democracy."
+                },
+                {
+                    "target": "À l'aune des récentes crises sociales, la rationalisation excessive du parlementarisme français apparaît comme un frein à la délibération collective et au compromis pluraliste.",
+                    "reading": "ah lohn day ray-sahnt kreez soh-syahl, lah rah-syoh-nah-lee-zah-syohn zeg-seh-seev doo pahr-luh-mahn-tah-reezm frahn-seh ah-pah-reh kohm uhn fran ah lah day-lee-bay-rah-syohn koh-lek-teev ay oh kohn-proh-mee plyoo-rah-leest",
+                    "translation": "In light of recent social crises, the excessive rationalization of French parliamentarism appears as an obstacle to collective deliberation and pluralistic compromise."
+                },
+                {
+                    "target": "En définitive, la modernisation des institutions exige de concilier efficacité décisionnelle et représentativité citoyenne à travers une refonte équilibrée de l'équilibre des pouvoirs.",
+                    "reading": "ahn day-fee-nee-teev, lah moh-dair-nee-zah-syohn day zan-stee-too-syohn eg-zeezh duh kohn-see-lyay ay-fee-kah-see-tay day-see-zyoh-nel ay ruh-pray-zahn-tah-tee-vee-tay see-twah-yen ah trah-vair zoon ruh-fohnt ay-kee-lee-bray duh lay-kee-leebruh day poo-vwahr",
+                    "translation": "Ultimately, institutional modernization requires reconciling decision-making efficiency and citizen representativeness through a balanced overhaul of the separation of powers."
+                },
+                {
+                    "target": "Une décentralisation accrue accordant un véritable pouvoir réglementaire aux collectivités territoriales répondrait aux disparités géographiques et territoriales grandissantes.",
+                    "reading": "oon day-sahn-trah-lee-zah-syohn ah-kroo ah-kohr-dahn uhn vay-ree-tahbl poo-vwahr ray-gluh-mahn-tair oh koh-lek-tee-vee-tay tay-ree-toh-ryahl ray-pohn-dray oh dees-pah-ree-tay zhay-oh-grah-feek ay tay-ree-toh-ryahl grahn-dee-sahnt",
+                    "translation": "Greater decentralization granting genuine regulatory power to local authorities would address growing geographical and regional disparities."
                 }
             ],
             "mnemonics": [
-                "Conceptual anchor for Essai de Science Politique et Réformes Institutionnelles"
+                "ESSAI POLITIQUE: Thèse -> Antithèse -> Synthèse / Dépassement!",
+                "CONCESSION: 'S'il est indéniable que... force est toutefois de constater que...'"
             ],
             "culturalNotes": [
-                "Epistemological and institutional significance of Essai de Science Politique et Réformes Institutionnelles in France."
+                "The Grand Débat National and the Convention Citoyenne pour le Climat (150 citizens chosen by lot in 2020) demonstrated France's experiments with deliberative democracy."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Construct an advanced political debate essay addressing contemporary c » :",
+                    "prompt": "Quelle formule introduit élégamment une concession dialectique dans une dissertation de science politique ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (145a).",
-                        "Cette construction passive alourdit inutilement l'énoncé (145b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (145c)."
+                        "« S'il est indéniable que..., force est toutefois de constater que... »",
+                        "« Moi je pense que tout le monde se trompe »",
+                        "« En gros c'est comme ça et pas autrement »",
+                        "« J'ai vu sur internet que personne n'est d'accord »"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Cette tournure académique articule rigoureusement la reconnaissance d'un point valide avant de développer un argument opposé."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u29-l5 :",
+                    "prompt": "Que désigne le sigle « RIC » dans les débats contemporains sur la démocratie directe ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette construction passive alourdit inutilement l'énoncé (145x).",
-                        "Cette construction passive alourdit inutilement l'énoncé (145y).",
-                        "Cette construction passive alourdit inutilement l'énoncé (145z)."
+                        "Référendum d'Initiative Citoyenne",
+                        "Réseau Informatique Communal",
+                        "Registre International du Commerce",
+                        "Relevé d'Impôt sur le Capital"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C1."
+                    "explanation": "Le RIC (Référendum d'Initiative Citoyenne) est un mécanisme proposé permettant aux citoyens de soumettre un texte au référendum après collecte d'un nombre de signatures."
                 }
             ]
         },
@@ -15853,25 +15942,26 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u29-l5) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quel exercice démocratique novateur a réuni 150 citoyens tirés au sort en France en 2019-2020 pour proposer des lois écologiques ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette construction passive alourdit inutilement l'énoncé (145m).",
-                        "Cette construction passive alourdit inutilement l'énoncé (145n).",
-                        "Cette construction passive alourdit inutilement l'énoncé (145p)."
+                        "Le Concours Eurovision",
+                        "La Convention Citoyenne pour le Climat",
+                        "L'Académie française",
+                        "Le Conseil de sécurité"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 1,
+                    "explanation": "La Convention Citoyenne pour le Climat a réuni 150 Français tirés au sort pour élaborer des réformes environnementales."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u29-l5 (terme attendu : « Nous ») :",
+                    "prompt": "Quelle troisième partie d'un plan dialectique classique dépasse l'opposition entre la thèse et l'antithèse ? (la _________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "synthèse",
+                        "synthese",
+                        "Synthèse",
+                        "Synthese"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "La troisième partie dialectique est la « synthèse »."
                 }
             ],
             "passThreshold": 0.8
