@@ -4215,60 +4215,60 @@
         "subject": "amharic",
         "unit": 7,
         "lessonNumber": 1,
-        "title": "የግስ አሉታ እና ጥያቄዎች (Negation & Interrogatives) (Part 1)",
+        "title": "Past-Tense Negation: The -m Suffix (አልሄደም)",
         "level": "A2",
-        "objective": "Comprehensive mastery of አሉታዊ ዓረፍተ ነገሮች (Negation Forms).",
+        "objective": "Form negative past-tense verbs by adding the prefix አል- before the verb root and the suffix -ም after the final stem vowel, and understand how this differs from affirmative past forms.",
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (አሉታዊ ዓረፍተ ነገሮች (Negation Forms) - ደረጃ 1) ተማሪዎች ስለ አሉታዊ ዓረፍተ ነገሮች (Negation Forms) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "In Amharic, negating a past-tense verb requires two simultaneous changes to the verb form — a prefix and a suffix, working together like a clamp around the verb root. This double-marking is one of the most distinctive features of Amharic negation and must be learned as a unit, not as two separate additions.\n\nThe affirmative past: ሄደ (hede) — 'he went'\nThe negative past: አልሄደም (alhedem) — 'he did not go'\n\nBreaking it down:\n• አል- (al-) is prefixed before the verb root ሄደ\n• -ም (-m) is suffixed after the final vowel of the verb\n\nThis pattern is consistent across all subjects. The verb root stays the same; only the person-agreement suffix changes before -ም is added:\n\nSubject | Affirmative | Negative\n1sg | ሄድኩ (hedku) | አልሄድኩም (alhededkum)\n2sg (m) | ሄድክ (hedki) | አልሄድክም (alhedkm)\n2sg (f) | ሄድሽ (hedish) | አልሄድሽም (alhededishm)\n3sg (m) | ሄደ (hede) | አልሄደም (alhedem)\n3sg (f) | ሄደች (hedech) | አልሄደችም (alhededechm)\n1pl | ሄድን (hedn) | አልሄድንም (alhedednm)\n3pl | ሄዱ (hedu) | አልሄዱም (alhedum)\n\nImportant: the -ም suffix phonologically merges with the final vowel of the agreement suffix — do not add an extra vowel. Say አልሄደም, not *አልሄደም-ኡ.\n\nThis same structure applies to any past verb:\nበላ (bela, 'ate') → አልበላም (albelam, 'did not eat')\nጻፈ (tsafe, 'wrote') → አልጻፈም (altsafem, 'did not write')\nሰራ (sera, 'worked') → አልሰራም (alseram, 'did not work')",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የአሉታዊ ዓረፍተ ነገሮች (Negation Forms) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (7.1.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ወንድሜ ትናንት ወደ ገበያ አልሄደም።",
+                    "reading": "Wendimé tinant wede gebeyya alhedem.",
+                    "translation": "My brother did not go to the market yesterday."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (7.1.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ልጅቷ ቁርሱን አልበላችም።",
+                    "reading": "Lijtwa qursun albelachiim.",
+                    "translation": "The girl did not eat breakfast."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (7.1.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "እኔ ያንን ደብዳቤ አልጻፍኩም።",
+                    "reading": "Ine yanin debdabe altsafkum.",
+                    "translation": "I did not write that letter."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for አሉታዊ ዓረፍተ ነገሮች (Negation Forms)"
+                "Think of negation as a 'clamp': አል- clamps onto the front, -ም clamps onto the back. The verb root is squeezed between them. Both ends must be present — forget either one and the negation fails."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "In Ethiopian conversational culture, a direct negative reply like አልሄደም is perfectly polite and natural. Unlike some languages where a softened refusal is preferred, Amharic speakers use the grammatical negative form straightforwardly. Adding ይቅርታ (yiqirta, 'excuse me/sorry') before a negative statement adds courtesy when declining invitations."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «አሉታዊ ዓረፍተ ነገሮች (Negation Forms)» አጠቃቀም በደረጃ 1 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "ሰለሞን ትናንት ምሳ ሳይበላ ቀረ። ይህን በአሉታዊ ዓረፍተ ነገር ይግለጹ — ምን ዓረፍተ ነገር ትክክል ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (7.1.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (7.1.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (7.1.3)።"
+                        "ሰለሞን ምሳ በለ።",
+                        "ሰለሞን ምሳ አልበላም።",
+                        "ሰለሞን ምሳ አልበለ።"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "አልበላም = አል- + በላ (ate) + -ም. Option C is wrong because the correct root form before -ም keeps the verb agreement suffix — 3sg masculine gets the -አ stem ending, giving አልበላም not *አልበለ. Option A is the affirmative past, not negative."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የግስ አሉታ እና ጥያቄዎች (Negation & Interrogatives)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 1)፡",
+                    "prompt": "ይህ ዓረፍተ ነገር «እኛ ትናንት አልሰራንም» ለማለት ትክክለኛው ትርጉም የትኛው ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (7.1.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (7.1.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (7.1.3)።"
+                        "We worked yesterday.",
+                        "We will not work tomorrow.",
+                        "We did not work yesterday."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 2,
+                    "explanation": "አልሰራንም = አል- + ሰራ (worked) + -ን (1pl agreement) + -ም (negation suffix). The tense is past (ሰራ is past root) and the subject is 1pl (እኛ). Option A is the affirmative. Option B misreads the tense as future."
                 }
             ]
         },
@@ -4276,22 +4276,22 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«አሉታዊ ዓረፍተ ነገሮች (Negation Forms)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 7-1)?",
+                    "prompt": "«She did not drink coffee» ን ወደ አማርኛ ትክክለኛ አሉታዊ ቅጽ ቀይሩ። (ቡና ጠጣ = she drank coffee)",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (7.1.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (7.1.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (7.1.3)።"
+                        "ቡና ጠጣቸ አልነበረም።",
+                        "ቡና አልጠጣ።",
+                        "ቡና አልጠጣችም።"
                     ],
                     "answerIndex": 2,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "explanation": "ጠጣች (3sg feminine past of ጠጣ 'to drink') → negative: አልጠጣችም. The -ች agreement suffix merges with the final -ም. Option B lacks the feminine suffix; Option A uses a different construction entirely."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («አልሄደም_7_1»):",
+                    "prompt": "Type the Amharic negative past-tense form of ሄደ (he went) — meaning 'he did not go':",
                     "acceptedAnswers": [
-                        "አልሄደም_7_1"
+                        "አልሄደም"
                     ],
-                    "explanation": "The target keyword was: 【አልሄደም_7_1】"
+                    "explanation": "አልሄደም: prefix አል- + root ሄደ + suffix -ም. This is the 3rd person masculine singular negative past form."
                 }
             ]
         }
@@ -4301,60 +4301,60 @@
         "subject": "amharic",
         "unit": 7,
         "lessonNumber": 2,
-        "title": "የግስ አሉታ እና ጥያቄዎች (Negation & Interrogatives) (Part 2)",
+        "title": "Present-Tense Negation: The አይ- Prefix (አይሄድም)",
         "level": "A2",
-        "objective": "Comprehensive mastery of አሉታዊ ዓረፍተ ነገሮች (Negation Forms).",
+        "objective": "Form negative present/habitual-tense verbs using the prefix አይ- (for 3rd person) and related prefixes for other persons, and contrast these with the past negative forms from Lesson 1.",
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (አሉታዊ ዓረፍተ ነገሮች (Negation Forms) - ደረጃ 2) ተማሪዎች ስለ አሉታዊ ዓረፍተ ነገሮች (Negation Forms) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "In Lesson 1 we learned that past-tense negation uses አል- as a prefix. Present/habitual negation is different: the prefix changes depending on the person, and the suffix -ም remains. This is a key area where Amharic learners make errors — the two tenses use different negative prefixes.\n\nPresent/habitual affirmative vs. negative:\n\nSubject | Affirmative (present) | Negative (present)\n1sg | እሄዳለሁ (ihedalehu) | አልሄድም (alhedm)\n2sg (m) | ትሄዳለህ (tihedaleh) | አትሄድም (atihedm)\n2sg (f) | ትሄጃለሽ (tihedjalesh) | አትሄጂም (atihedjim)\n3sg (m) | ይሄዳል (yihedal) | አይሄድም (ayihedm)\n3sg (f) | ትሄዳለች (tihedaled) | አትሄድም (atihedm)\n1pl | እሄዳለን (iheda len) | አንሄድም (anhedm)\n3pl | ይሄዳሉ (yihedalu) | አይሄዱም (ayihedum)\n\nPattern of negative present prefixes:\n• 1sg: አል- (same as past negative!)\n• 2sg/2pl/3sg feminine: አት-\n• 3sg masculine: አይ-\n• 1pl: አን-\n• 3pl: አይ- (same as 3sg masculine)\n\nThe suffix -ም attaches after the stem, just as in past negation.\n\nCritical contrast:\nሄደ → አልሄደም ('he didn't go' — past)\nይሄዳል → አይሄድም ('he doesn't/won't go' — present/habitual)\n\nNote that the verb stem itself shifts: in the present negative, ሄደ compresses to ሄድ before the -ም suffix. This stem alternation (the dropping of the final vowel in the negative stem) is systematic across Amharic verbs and must be memorized as part of the pattern.",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የአሉታዊ ዓረፍተ ነገሮች (Negation Forms) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (7.2.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "እሱ ቡና አይጠጣም — ሻይ ግን ይወዳል።",
+                    "reading": "Issu buna aytsetam — shay gin yiwedal.",
+                    "translation": "He doesn't drink coffee — but he likes tea."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (7.2.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ልጆቹ ማታ ቴሌቪዥን አይመለከቱም።",
+                    "reading": "Lijochuu mata televizhin ayimelekettum.",
+                    "translation": "The children don't watch television at night."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (7.2.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "አንቺ ለምን ጥዋት አትሮጪም?",
+                    "reading": "Anchi lemen tewat atrojim?",
+                    "translation": "Why don't you (f.) run in the morning?"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for አሉታዊ ዓረፍተ ነገሮች (Negation Forms)"
+                "The present-negative prefixes follow a person grid: think 'I-aL, You-aT, He/They-aY, We-aN' — each prefix's consonant (L/T/Y/N) matches a different person. The -ም suffix is always the same closer regardless of person or tense."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Ethiopian dietary culture offers many contexts to practice present-tense negation naturally. Saying አይበላም (he doesn't eat it) or አልጠጣም (he doesn't drink it) is a common and completely acceptable way to describe food preferences or religious fasting observances — Ethiopia has one of the world's most elaborate fasting traditions in the Ethiopian Orthodox Tewahedo Church, where meat and dairy are avoided on certain days."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «አሉታዊ ዓረፍተ ነገሮች (Negation Forms)» አጠቃቀም በደረጃ 2 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«They (3pl) do not study» ን ወደ አማርኛ ቀይሩ። (ማጥናት = to study; 3pl affirmative: ያጠናሉ)",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (7.2.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (7.2.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (7.2.3)።"
+                        "አልጠኑም።",
+                        "አትጥኑም።",
+                        "አያጥኑም።"
                     ],
                     "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "3rd person plural present negative uses አይ- prefix and -ም suffix. ያጥናሉ → negative stem ጥን → አያጥኑም. Option A uses past-negative prefix አል- (wrong tense/prefix for 3pl present). Option B uses 2nd person prefix አት-."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የግስ አሉታ እና ጥያቄዎች (Negation & Interrogatives)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 2)፡",
+                    "prompt": "«አይሄድም» ን ከ«አልሄደም» ጋር የሚለያቸው ዋናው ነጥብ ምንድን ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (7.2.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (7.2.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (7.2.3)።"
+                        "አይሄድም is present/habitual negative; አልሄደም is past negative — they use different prefixes (አይ- vs. አል-) and different verb stems.",
+                        "They are identical in meaning; the difference is only in spelling.",
+                        "አይሄድም is formal and አልሄደም is informal."
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "The tense distinction is structural, not merely stylistic. Past negative: አል- + past stem + -ም. Present negative: አይ-/አት-/አን-/አል- + present stem (often shortened) + -ም. The stems also differ: ሄደ (past) vs. ሄድ (present negative stem)."
                 }
             ]
         },
@@ -4362,22 +4362,22 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«አሉታዊ ዓረፍተ ነገሮች (Negation Forms)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 7-2)?",
+                    "prompt": "ምን ዓረፍተ ነገር «I do not speak Amharic» ን በትክክል ይገልጻል? (አማርኛ መናገር = to speak Amharic; 1sg present affirmative: አማርኛ እናገራለሁ)",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (7.2.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (7.2.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (7.2.3)።"
+                        "አማርኛ አይናገርም።",
+                        "አማርኛ አልናገርም።",
+                        "አማርኛ አልናገርኩም።"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "1st person singular present negative uses አል- prefix (same as past, but with present stem). Stem: ናገር (shortened from ይናገር). So: አልናገርም. Option A uses 3sg prefix አይ-. Option C uses past-tense form with 1sg agreement suffix -ኩ, making it 'I did not speak' (past)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («አልሄደም_7_2»):",
+                    "prompt": "Write the Amharic for 'she does not eat' (3sg feminine present negative of ትበላለች → she eats):",
                     "acceptedAnswers": [
-                        "አልሄደም_7_2"
+                        "አትበላም"
                     ],
-                    "explanation": "The target keyword was: 【አልሄደም_7_2】"
+                    "explanation": "3sg feminine present negative: አት- prefix + በላ stem (short form: በላ) + -ም. Result: አትበላም."
                 }
             ]
         }
@@ -4387,60 +4387,60 @@
         "subject": "amharic",
         "unit": 7,
         "lessonNumber": 3,
-        "title": "የግስ አሉታ እና ጥያቄዎች (Negation & Interrogatives) (Part 3)",
+        "title": "Yes/No Questions: Intonation and the ወይ Particle",
         "level": "A2",
-        "objective": "Comprehensive mastery of አሉታዊ ዓረፍተ ነገሮች (Negation Forms).",
+        "objective": "Form yes/no questions in Amharic using rising intonation on the standard declarative sentence, and use the question particle ወይ (wey) to add emphasis or request confirmation.",
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (አሉታዊ ዓረፍተ ነገሮች (Negation Forms) - ደረጃ 3) ተማሪዎች ስለ አሉታዊ ዓረፍተ ነገሮች (Negation Forms) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Amharic yes/no questions are formed in a fundamentally different way from English. In English, you invert subject and auxiliary verb ('Is she...?'). In Amharic, the word order does NOT change at all — the declarative sentence structure is kept intact and the question is signaled through intonation or a terminal particle.\n\nMethod 1 — Rising intonation only:\nDeclarative: ልጅቷ ትምህርት ቤት ሄደች። (The girl went to school.)\nQuestion: ልጅቷ ትምህርት ቤት ሄደች? (Did the girl go to school?) — same words, rising tone at the end.\n\nThis is the most natural spoken form. The question mark in written Amharic signals this rising intonation.\n\nMethod 2 — Adding the particle ወይ (wey):\nThe particle ወይ is appended to the end of the sentence to form a yes/no question, particularly in speech where intonation alone might be unclear, or when asking for confirmation:\n\nልጅቷ ትምህርት ቤት ሄደች ወይ? (Did the girl go to school, or [didn't she]?)\n\nወይ literally means 'or' and its use in questions is a genuine Amharic feature — it invites the listener to confirm or deny. It is not equivalent to a tag question ('isn't it?') but it serves a similar pragmatic function.\n\nResponding to yes/no questions:\n• Yes: አዎ (awo) — affirmative\n• No: አይ (ay) — negative (note: አይ here is the interjection 'no', not the verbal prefix አይ-)\n• Alternatively repeat the verb positively or negatively: ሄደች / አልሄደችም\n\nNote on ወይ vs. ወይም (weyim):\nወይ alone is the question particle. ወይም means 'or' in a disjunctive statement ('coffee or tea' = ቡና ወይም ሻይ). Do not confuse them.",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የአሉታዊ ዓረፍተ ነገሮች (Negation Forms) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (7.3.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "አባቴ ቤት ውስጥ አለ ወይ?",
+                    "reading": "Abbate bet wist alle wey?",
+                    "translation": "Is my father at home?"
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (7.3.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ትናንት ዝናብ ወረደ?",
+                    "reading": "Tinant zinab werrede?",
+                    "translation": "Did it rain yesterday? (rising intonation only)"
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (7.3.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "አዎ፣ ዝናብ ወረደ። / አይ፣ ዝናብ አልወረደም።",
+                    "reading": "Awo, zinab werrede. / Ay, zinab alwerredem.",
+                    "translation": "Yes, it rained. / No, it did not rain."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for አሉታዊ ዓረፍተ ነገሮች (Negation Forms)"
+                "Remember: Amharic questions don't flip the sentence — they are 'flat flip': the structure is flat (unchanged), but the voice flips up at the end. ወይ is like adding 'right?' or 'or what?' at the end — it invites a yes/no response."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "In Ethiopian conversational etiquette, questions are often softened by phrasing them with ወይ and a respectful tone rather than a blunt rising intonation alone. When speaking to elders or in formal contexts, appending እባክዎ (ibakwo, 'please') before the question shows politeness. For example: እባክዎ፣ ጊዜ አለዎ ወይ? (Excuse me, do you have time?)"
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «አሉታዊ ዓረፍተ ነገሮች (Negation Forms)» አጠቃቀም በደረጃ 3 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«ሰለሞን ዛሬ ይሰራል» ን ወደ yes/no ጥያቄ ቀይሩ — ትክክለኛው ቅጽ የትኛው ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (7.3.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (7.3.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (7.3.3)።"
+                        "ይሰራል ሰለሞን ዛሬ?",
+                        "ሰለሞን ዛሬ ወይ ይሰራል?",
+                        "ሰለሞን ዛሬ ይሰራል ወይ?"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 2,
+                    "explanation": "The word order stays the same as the declarative (SOV: Subject-Object-Verb remains intact). ወይ is appended at the very end of the sentence, after the verb. Option A incorrectly inverts subject and verb (English-language thinking). Option B places ወይ in the middle, which is not grammatical for yes/no question formation."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የግስ አሉታ እና ጥያቄዎች (Negation & Interrogatives)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 3)፡",
+                    "prompt": "«ወይ» እና «ወይም» ልዩነት ምን ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (7.3.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (7.3.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (7.3.3)።"
+                        "They are synonyms — both mean 'or' with no difference.",
+                        "ወይ is a yes/no question particle (appended to a sentence); ወይም means 'or' in a choice between two things.",
+                        "ወይ is formal and ወይም is informal."
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "ወይ functioning as a question particle turns a declarative into a yes/no question. ወይም is a coordinating conjunction meaning 'or', used between two alternatives (ቡና ወይም ሻይ = coffee or tea). Confusing them produces grammatically incorrect sentences."
                 }
             ]
         },
@@ -4448,22 +4448,22 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«አሉታዊ ዓረፍተ ነገሮች (Negation Forms)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 7-3)?",
+                    "prompt": "«መሪት ዛሬ ዩኒቨርሲቲ ትሄዳለች» ን ወደ ወይ-question ቀይሩ:",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (7.3.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (7.3.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (7.3.3)።"
+                        "ዩኒቨርሲቲ ትሄዳለች ዛሬ መሪት?",
+                        "ወይ መሪት ዛሬ ዩኒቨርሲቲ ትሄዳለች?",
+                        "መሪት ዛሬ ዩኒቨርሲቲ ትሄዳለች ወይ?"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "ወይ goes at the very end of the unchanged declarative sentence. Options A and B rearrange the word order (A) or front-load ወይ (B) — both wrong. Amharic yes/no question word order is identical to declarative."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («አልሄደም_7_3»):",
+                    "prompt": "What Amharic word is appended at the end of a declarative sentence to form a yes/no question? (Type it in Amharic script):",
                     "acceptedAnswers": [
-                        "አልሄደም_7_3"
+                        "ወይ"
                     ],
-                    "explanation": "The target keyword was: 【አልሄደም_7_3】"
+                    "explanation": "ወይ (wey) is the yes/no question particle in Amharic. It attaches to the end of an unchanged declarative sentence and invites a binary affirm/deny response."
                 }
             ]
         }
@@ -4473,60 +4473,60 @@
         "subject": "amharic",
         "unit": 7,
         "lessonNumber": 4,
-        "title": "የግስ አሉታ እና ጥያቄዎች (Negation & Interrogatives) (Part 4)",
+        "title": "Wh-Questions: ማን, ምን, የት, መቼ, ለምን, እንዴት",
         "level": "A2",
-        "objective": "Comprehensive mastery of አሉታዊ ዓረፍተ ነገሮች (Negation Forms).",
+        "objective": "Use the six core Amharic wh-question words — ማን (who), ምን (what), የት (where), መቼ (when), ለምን (why), and እንዴት (how) — in grammatically correct SOV question sentences.",
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (አሉታዊ ዓረፍተ ነገሮች (Negation Forms) - ደረጃ 4) ተማሪዎች ስለ አሉታዊ ዓረፍተ ነገሮች (Negation Forms) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Unlike English, where wh-words move to the front of the sentence ('Where did you go?'), in Amharic wh-question words typically remain in the position where the answer would naturally sit within the SOV sentence structure. The word order is NOT rearranged.\n\nThe six core wh-words:\n• ማን (man) — who (subject questions)\n• ምን (min) — what (object questions)\n• የት (yet) — where (location questions)\n• መቼ (meche) — when (time questions)\n• ለምን (lemin) — why (reason questions)\n• እንዴት (indet) — how (manner questions)\n\nPosition rules:\n— ማን usually occupies the subject slot (before the verb): ማን ሄደ? (Who went?)\n— ምን, የት, etc. occupy the object/adverb slot: ምን ገዛህ? (What did you buy?)\n— The verb stays at the end, as in all Amharic sentences.\n\nFull examples with structure marked:\n\nS-V: ማን [subject] + ቤቱን ሰበረ [verb phrase] = ማን ቤቱን ሰበረ? (Who broke the house?)\nS-O-V: አንቺ [S] + ምን [O] + ትበያለሽ [V]? = አንቺ ምን ትበያለሽ? (What do you [f] eat?)\nS-Adverb-V: አስቴር [S] + የት [Adverb] + ትሄዳለች [V]? = አስቴር የት ትሄዳለች? (Where does Aster go?)\n\nNote on ለምን:\nለምን literally means 'for what?' (ለ = for, ምን = what). Answers to ለምን use ስለ (about/because of) + noun, or the conjunction ምክንያቱም (minkyanyatuum, 'the reason is') for full explanations.\n\nNote on እንዴት:\nእንዴት questions ask about manner or condition (How are you? = እንዴት ነህ? for male addressee).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የአሉታዊ ዓረፍተ ነገሮች (Negation Forms) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (7.4.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ማን ይህን ደብዳቤ ጻፈ?",
+                    "reading": "Man yihin debdabe tsafe?",
+                    "translation": "Who wrote this letter?"
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (7.4.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ዮሐንስ ዛሬ ምሳ የት ይበላል?",
+                    "reading": "Yohannis zare missa yet yibellal?",
+                    "translation": "Where will Yohannes eat lunch today?"
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (7.4.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ስልጠናው መቼ ይጀምራል?",
+                    "reading": "Siltenaaw meche yijemiral?",
+                    "translation": "When does the training start?"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for አሉታዊ ዓረፍተ ነገሮች (Negation Forms)"
+                "English: 'Who-What-Where-When-Why-How' → Amharic: 'ማን-ምን-የት-መቼ-ለምን-እንዴት'. The order of the words in the list is the same — just remember the Amharic forms stay IN PLACE in the sentence rather than moving to the front."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "In Amharic-speaking cultures, asking ማን ነህ/ነሽ? (Who are you?) directly to a stranger can feel abrupt. Instead, Ethiopians often open with ስምህ/ስምሽ ማን ነው? (What is your name?) or እንዴት ትጠራለህ/ትጠሪያለሽ? (What do you call yourself?) — both gentler formulations. The question word ማን here appears inside an embedded possessive structure rather than standing alone."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «አሉታዊ ዓረፍተ ነገሮች (Negation Forms)» አጠቃቀም በደረጃ 4 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«Why did Almaz not come?» ን ወደ አማርኛ ቀይሩ። (መምጣት = to come; past negative 3sg f: አልመጣችም)",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (7.4.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (7.4.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (7.4.3)።"
+                        "ለምን አልማዝ አልመጣችም?",
+                        "አልማዝ አልመጣችም ለምን?",
+                        "አልማዝ ለምን አልመጣችም?"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 2,
+                    "explanation": "ለምን, like other wh-words, is placed where the answer would go — here immediately before the verb phrase at the end. Standard Amharic question word order: Subject (አልማዝ) + Wh-word (ለምን) + Verb (አልመጣችም). Option A front-loads ለምን in English fashion. Option B puts it at the very end after the verb, which is not standard."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የግስ አሉታ እና ጥያቄዎች (Negation & Interrogatives)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 4)፡",
+                    "prompt": "«እንዴት» ጥያቄ ቃል ምን ዓይነት ጥያቄ ያመጣል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (7.4.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (7.4.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (7.4.3)።"
+                        "Location questions ('where' something is).",
+                        "Reason questions ('why' something happened).",
+                        "Manner or condition questions ('how' something is done or someone is doing)."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 2,
+                    "explanation": "እንዴት = 'how'. It asks about manner, method, or condition. Classic example: እንዴት ነህ? (How are you? — male addressee). Location = የት. Reason = ለምን."
                 }
             ]
         },
@@ -4534,22 +4534,22 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«አሉታዊ ዓረፍተ ነገሮች (Negation Forms)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 7-4)?",
+                    "prompt": "«What is Selamawit buying at the market?» — ትክክለኛው የአማርኛ ጥያቄ ምን ነው? (ገበያ = market; መግዛት = to buy; 3sg f present: ትገዛለች)",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (7.4.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (7.4.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (7.4.3)።"
+                        "ምን ሰላማዊት ትገዛለች ገበያ?",
+                        "ሰላማዊት ምን ገበያ ትሄዳ?",
+                        "ሰላማዊት ገበያ ምን ትገዛለች?"
                     ],
                     "answerIndex": 2,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "explanation": "SOV structure: ሰላማዊት [S] + ገበያ [location adverb] + ምን [O, what] + ትገዛለች [V]. The wh-word ምን occupies the object slot. Option A scrambles word order. Option B uses the wrong verb (ትሄዳ = she goes, not she buys)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («አልሄደም_7_4»):",
+                    "prompt": "Type the Amharic wh-question word meaning 'where' (የት location question):",
                     "acceptedAnswers": [
-                        "አልሄደም_7_4"
+                        "የት"
                     ],
-                    "explanation": "The target keyword was: 【አልሄደም_7_4】"
+                    "explanation": "የት (yet) = where. Used to ask about location or destination: እሷ የት ትሄዳለች? (Where is she going?)"
                 }
             ]
         }
@@ -4559,60 +4559,60 @@
         "subject": "amharic",
         "unit": 7,
         "lessonNumber": 5,
-        "title": "የግስ አሉታ እና ጥያቄዎች (Negation & Interrogatives) (Part 5)",
+        "title": "Unit 7 Synthesis: Negation and Questions in Real Dialogue",
         "level": "A2",
-        "objective": "Comprehensive mastery of አሉታዊ ዓረፍተ ነገሮች (Negation Forms).",
+        "objective": "Combine past and present negation (አል-/-ም, አይ-/-ም) with yes/no questions (ወይ particle, rising intonation) and wh-questions (ማን, ምን, የት, መቼ, ለምን, እንዴት) in connected dialogue, distinguishing tense and question type contextually.",
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (አሉታዊ ዓረፍተ ነገሮች (Negation Forms) - ደረጃ 5) ተማሪዎች ስለ አሉታዊ ዓረፍተ ነገሮች (Negation Forms) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Unit 7 has introduced four related grammatical tools that work together in conversation: past-tense negation, present-tense negation, yes/no questions, and wh-questions. This lesson brings them together into the kind of connected dialogue an A2 Amharic learner needs to navigate everyday situations.\n\nRecap of the four tools:\n\n1. PAST NEGATIVE: አል- + verb stem + -ም\n   ወደ ትምህርት ቤት አልሄደም — 'He did not go to school'\n\n2. PRESENT NEGATIVE: Person-prefix (አይ-/አት-/አን-/አል-) + stem + -ም\n   ቡና አይጠጣም — 'He does not drink coffee'\n\n3. YES/NO QUESTION: Declarative sentence + ወይ, OR rising intonation\n   ቤት ነህ ወይ? — 'Are you at home?'\n\n4. WH-QUESTION: Subject + wh-word in answer slot + verb\n   ዛሬ ምን ሰራህ? — 'What did you do today?'\n\nCommon error to avoid: Using አል- for present negation with 3rd person. 'He does not go' is አይሄድም (not *አልሄድም, which would be past for 1st person or could be confused with past 3rd person). Context — specifically whether the verb is in present or past form — disambiguates.\n\nDialogue putting it together (shop context):\nA: ዛሬ ምን ትፈልጋለህ? (What do you want today?)\nB: ሩዝ አለ ወይ? (Do you have rice?)\nA: አይ፣ ዛሬ ሩዝ የለም። (No, today there is no rice.)\nB: ትናንት ለምን አልሸጥህም? (Why didn't you sell [it] yesterday?)\nA: ትናንት ገበያ አልሄድኩም። (Yesterday I did not go to the market.)\n\nNote «የለም» (yellem = 'there is not/none') — this is the negative existential of «አለ» ('there is'), used for possession and existence statements, and is distinct from the verbal negative pattern.",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የአሉታዊ ዓረፍተ ነገሮች (Negation Forms) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (7.5.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ዛሬ ሩዝ የለም፣ ስለዚህ ምን ትበላለህ?",
+                    "reading": "Zare ruz yellem, silezih min tibelalehi?",
+                    "translation": "There is no rice today, so what will you eat?"
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (7.5.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ትናንት ከሰዓት በኋላ ምን ሰራህ? — ምንም አልሰራሁም፣ ታሞ ነበርኩ።",
+                    "reading": "Tinant keseaat behwala min serrahi? — Minim alsserrrahum, tamo nebberku.",
+                    "translation": "What did you do yesterday afternoon? — I didn't do anything, I was sick."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (7.5.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ወደ ሆስፒታል ሄድህ ወይ?",
+                    "reading": "Wede hossippital hedih wey?",
+                    "translation": "Did you go to the hospital?"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for አሉታዊ ዓረፍተ ነገሮች (Negation Forms)"
+                "When building any Amharic question or negation, ask yourself three quick things: (1) Past or present? → Choose አል- vs. አይ-/አት-/አን- prefix. (2) Statement or question? → Add ወይ / rising intonation for yes/no; put wh-word in answer slot for wh-questions. (3) Keep the SOV frame — the subject comes first, the verb comes last, always."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Ethiopian conversational rhythm values elaboration over brevity in refusals. A simple አይ (no) can feel curt; adding a reason with ምክንያቱም... (the reason is...) or ምክንያቱ... (because...) softens any negative response. This synthesis dialogue models that cultural norm: the shopkeeper in the example doesn't just say 'no rice' but explains why — a pattern that mirrors real Ethiopian market speech."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «አሉታዊ ዓረፍተ ነገሮች (Negation Forms)» አጠቃቀም በደረጃ 5 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "ቀጥሎ ካለው ንግግር ምን ዓረፍተ ነገር ትክክለኛ ነው — past negative ወይስ present negative?\n«አለምፀሃይ ዛሬ ትምህርት ቤት ____» (She does not go to school today → present negative 3sg f)",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (7.5.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (7.5.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (7.5.3)።"
+                        "አለምፀሃይ ዛሬ ትምህርት ቤት አልሄደችም።",
+                        "አለምፀሃይ ዛሬ ትምህርት ቤት አይሄድም።",
+                        "አለምፀሃይ ዛሬ ትምህርት ቤት አትሄድም።"
                     ],
                     "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "Present negative 3sg feminine: አት- prefix + ሄድ stem + -ም = አትሄድም. Option A uses past negative (አልሄደችም = she did not go — past tense). Option B uses 3sg masculine prefix አይ- (correct for 'he' but not 'she')."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የግስ አሉታ እና ጥያቄዎች (Negation & Interrogatives)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 5)፡",
+                    "prompt": "«የለም» ምን ማለት ነው እና ከ«አይ___ም» አሉታዊ ቅጽ እንዴት ይለያል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (7.5.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (7.5.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (7.5.3)።"
+                        "የለም and አይ___ም are exact synonyms and can be used interchangeably.",
+                        "የለም means 'there is not / there are none' (negative existential of አለ). It is used for possession/existence, not for negating action verbs (which use the አይ-/-ም or አል-/-ም pattern).",
+                        "የለም is only used in written Amharic; spoken Amharic always uses አይ___ም."
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "አለ (alle) = 'there is / I have / he/she is [at a place]'. Its negative is የለም (yellem) = 'there is not / I don't have'. This is a separate negative existential verb, not part of the regular verbal negation paradigm. ቡና አለ? → ቡና የለም (Is there coffee? → There is no coffee). Action verbs use the prefix-suffix negation pattern."
                 }
             ]
         },
@@ -4620,22 +4620,22 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«አሉታዊ ዓረፍተ ነገሮች (Negation Forms)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 7-5)?",
+                    "prompt": "ቀጥሎ ካለው ንግግር ባዶ ቦታውን በትክክለኛ ቅጽ ሙሉ:\nA: ትናንት ወዴት ____ ? (ሄደ/ሄዱ/ሄዳቹ — where did you [2sg m] go yesterday?)\nB: ወደ ሆስፒታል ሄጄ ነበር። ዶክተሩ ዛሬ ____ (አለ ወይ? — is the doctor here today?)",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (7.5.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (7.5.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (7.5.3)።"
+                        "ሄደ … ዶክተሩ ዛሬ ወይ አለ?",
+                        "ሄድህ … ዶክተሩ ዛሬ አለ ወይ?",
+                        "ሄዱ … ዶክተሩ ዛሬ አለ?"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "2sg masculine past: ሄድህ (hedih). For the yes/no question ወይ goes at the very end: ዶክተሩ ዛሬ አለ ወይ? Option A uses 3sg form ሄደ (wrong person) and puts ወይ in the middle. Option C uses 3pl form ሄዱ (wrong person) and omits ወይ."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («አልሄደም_7_5»):",
+                    "prompt": "Type the Amharic negative existential meaning 'there is not' / 'I don't have' (the negative of አለ):",
                     "acceptedAnswers": [
-                        "አልሄደም_7_5"
+                        "የለም"
                     ],
-                    "explanation": "The target keyword was: 【አልሄደም_7_5】"
+                    "explanation": "የለም (yellem) is the negative existential verb in Amharic — the negative counterpart of አለ. Essential for expressing absence, non-existence, or 'I/you/he don't have' something."
                 }
             ]
         }
