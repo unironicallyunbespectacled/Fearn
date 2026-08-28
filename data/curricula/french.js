@@ -5162,62 +5162,80 @@
         "id": "fr-u10-l1",
         "unit": "fr-u10",
         "level": "A2",
-        "objective": "Express immediate future and planned intentions with futur proche (aller + infinitif).",
+        "objective": "Express immediate future, intention, and imminent events with le futur proche (aller + infinitif), including negation and pronoun placement.",
         "prerequisites": [
             "fr-u9-l5"
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u9-l5"
+            ]
         },
         "presentation": {
-            "explanation": "Comprehensive presentation of Le Futur Proche : Intentions et Événements Imminents. In French grammar, mastering le futur proche : intentions et événements imminents is vital for fluid sentence connection, precise discourse organization, and natural communication.",
+            "explanation": "Le Futur Proche (the near future) is the most common spoken French construction for expressing actions that are going to happen soon, planned intentions, or inevitable immediate consequences ('going to + verb').\n\n1. FORMATION:\nConjugate ALLER in the present tense + MAIN VERB IN THE INFINITIVE:\n- je vais parler, tu vas finir, il/elle/on va prendre, nous allons voyager, vous allez comprendre, ils/elles vont partir.\n\n2. NEGATION (ne... pas wraps around ALLER, never the infinitive):\n- Je NE vais PAS sortir ce soir. (I am not going to go out tonight.)\n- Nous n'allons pas accepter cette offre.\n\n3. PRONOUN PLACEMENT (Object pronouns go IMMEDIATELY BEFORE the infinitive):\n- Je vais LUI téléphoner. (I am going to call him.)\n- Tu vas LA regarder. (You are going to watch it.)\n- Nous n'allons pas Y aller. (We are not going to go there.)\n- Ils vont SE lever tôt. (They are going to wake up early - reflexive pronoun matches subject!).\n\n4. IMMINENT EVIDENCE:\n- 'Attention, le vase va tomber !' (Watch out, the vase is going to fall!)",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Je vais préparer une salade composée pour le déjeuner.",
+                    "reading": "zhuh vay pray-pah-ray oon sah-lahd kohm-poh-zay poor luh day-zhuh-nay",
+                    "translation": "I am going to prepare a mixed salad for lunch."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Nous n'allons pas prendre la voiture à cause des embouteillages.",
+                    "reading": "noo nah-lohn pah prahndruh lah vwah-toor ah kohz day zahn-boo-tay-yahzh",
+                    "translation": "We are not going to take the car because of traffic jams."
+                },
+                {
+                    "target": "Est-ce que tu vas lui envoyer un message pour son anniversaire ?",
+                    "reading": "es-kuh too vah lwee ahn-vwah-yay uhn may-sahzh poor sohn nah-nee-vair-sair",
+                    "translation": "Are you going to send him/her a message for his/her birthday?"
+                },
+                {
+                    "target": "Regarde ces nuages noirs : il va pleuvoir dans quelques minutes.",
+                    "reading": "ruh-gahrd say nwahzh nwahr : eel vah pluh-vwahr dahn kel-kuh mee-noot",
+                    "translation": "Look at those dark clouds: it is going to rain in a few minutes."
+                },
+                {
+                    "target": "Ils vont se coucher tôt ce soir car ils ont une réunion demain matin.",
+                    "reading": "eel vohn suh koo-shay toh suh swahr kahr eel zohn toon ray-oo-nyohn duh-man mah-tan",
+                    "translation": "They are going to go to bed early tonight because they have a meeting tomorrow morning."
                 }
             ],
             "mnemonics": [
-                "Memory anchor for Le Futur Proche : Intentions et Événements Imminents"
+                "ALLER + INF: Aller is the locomotive pulling the train car (infinitive) into the future!",
+                "PRONOUN SANDWICH: Object pronouns sit between aller and the infinitive: 'Je vais LE faire'."
             ],
             "culturalNotes": [
-                "Cultural and conversational context for Le Futur Proche : Intentions et Événements Imminents in France."
+                "In modern colloquial conversational French, the futur proche is used for over 80% of future references in daily speech, while the futur simple is reserved for formal writing, journalism, weather forecasts, and long-term plans."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Express immediate future and planned intentions with futur proche (all » :",
+                    "prompt": "Où place-t-on le pronom complément dans la phrase au futur proche « Je vais (lui) parler » ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (43a).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (43b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (43c)."
+                        "Juste avant l'infinitif : « Je vais lui parler »",
+                        "Avant le verbe aller : « Je lui vais parler »",
+                        "Après l'infinitif avec trait d'union : « Je vais parler-lui »",
+                        "À la fin de la phrase : « Je vais parler à lui »"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Au futur proche, le pronom objet se place directement devant l'infinitif du verbe d'action : 'Je vais lui parler'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u10-l1 :",
+                    "prompt": "Quelle est la forme négative correcte de « Nous allons partir » ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette proposition modifie subtilement le sens originel du verbe (43x).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (43y).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (43z)."
+                        "Nous n'allons pas partir.",
+                        "Nous allons ne pas partir.",
+                        "Nous ne partons pas aller.",
+                        "Nous n'allons partir pas."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A2."
+                    "explanation": "La négation 'ne... pas' encadre toujours l'auxiliaire semi-auxiliaire aller conjugué : 'Nous n'allons pas partir'."
                 }
             ]
         },
@@ -5225,25 +5243,23 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u10-l1) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Choisissez la phrase qui traduit correctement : « They are going to buy a new apartment. »",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette proposition modifie subtilement le sens originel du verbe (43m).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (43n).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (43p)."
+                        "Ils vont acheter un nouvel appartement.",
+                        "Ils achèteront un appartement nouveau.",
+                        "Ils sont allés acheter un nouvel appartement.",
+                        "Ils vont achetant un nouvel appartement."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "Futur proche = 'ils vont' (aller au présent) + 'acheter' (infinitif)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u10-l1 (terme attendu : « Nous ») :",
+                    "prompt": "Complétez la phrase au futur proche (verbe aller au présent avec sujet 'tu') : « Tu _________ voir ce spectacle magnifique. »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "vas"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Tu vas (du verbe aller)."
                 }
             ],
             "passThreshold": 0.8
@@ -5253,62 +5269,80 @@
         "id": "fr-u10-l2",
         "unit": "fr-u10",
         "level": "A2",
-        "objective": "Form the futur simple for regular verbs using the infinitive stem and endings (-ai, -as, -a, -ons, -ez, -ont).",
+        "objective": "Form the futur simple for regular -er, -ir, and -re verbs using the infinitive stem plus standard future endings (-ai, -as, -a, -ons, -ez, -ont).",
         "prerequisites": [
             "fr-u10-l1"
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u10-l1"
+            ]
         },
         "presentation": {
-            "explanation": "Comprehensive presentation of Formation Régulière du Futur Simple. In French grammar, mastering formation régulière du futur simple is vital for fluid sentence connection, precise discourse organization, and natural communication.",
+            "explanation": "Le Futur Simple (the simple future) expresses actions that will happen at a definite or indefinite point in the future, formal commitments, weather forecasts, and conditional consequences.\n\nFORMATION RULE FOR REGULAR VERBS:\n1. For -ER and -IR verbs: Keep the FULL INFINITIVE as the stem!\n   - parler -> stem: parler-\n   - finir -> stem: finir-\n\n2. For -RE verbs: DROP THE FINAL 'E' of the infinitive to prevent double vowels before endings:\n   - vendre -> stem: vendr-\n   - attendre -> stem: attendr-\n   - lire -> stem: lir-\n\n3. UNIVERSAL FUTUR SIMPLE ENDINGS (identical for all verbs in French, derived from present of avoir!):\n   - je: -ai  (parlerai)\n   - tu: -as  (parleras)\n   - il / elle / on: -a  (parlera)\n   - nous: -ons  (parlerons)\n   - vous: -ez  (parlerez)\n   - ils / elles: -ont  (parleront)\n\nPRONUNCIATION NOTE:\n- In -er verbs, the 'e' before 'r' becomes silent or a neutral schwa: 'je parlerai' is pronounced /par-lə-re/ or /parl-re/.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "L'année prochaine, nous voyagerons à travers toute l'Amérique du Sud.",
+                    "reading": "lah-nay proh-shen, noo vwah-yahzh-rohn ah trah-vair toot lah-may-reek doo sood",
+                    "translation": "Next year, we will travel across all of South America."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Quand vous arriverez à la gare, vous prendrez un taxi jusqu'à l'hôtel.",
+                    "reading": "kahn voo zah-ree-vray ah lah gahr, voo prahn-dray uhn tahk-see zhoos-kah loh-tel",
+                    "translation": "When you arrive at the station, you will take a taxi to the hotel."
+                },
+                {
+                    "target": "Le directeur signera tous les contrats importants demain après-midi.",
+                    "reading": "luh dee-rek-tuhr see-nyuh-rah too lay kohn-trah zan-pohr-tahn duh-man ah-preh-mee-dee",
+                    "translation": "The director will sign all important contracts tomorrow afternoon."
+                },
+                {
+                    "target": "J'attendrai ton appel avant de prendre une décision finale.",
+                    "reading": "zhah-tahn-dray tohn nah-pel ah-vahn duh prahndruh oon day-see-zyohn fee-nahl",
+                    "translation": "I will wait for your call before making a final decision."
+                },
+                {
+                    "target": "Ils finiront la construction du pont avant la fin de l'hiver.",
+                    "reading": "eel fee-nee-rohn lah kohn-strook-syohn doo pohn ah-vahn lah fan duh lee-vair",
+                    "translation": "They will finish the construction of the bridge before the end of winter."
                 }
             ],
             "mnemonics": [
-                "Memory anchor for Formation Régulière du Futur Simple"
+                "AVOIR ENDINGS: Notice the futur endings match AVOIR in the present: j'ai (-ai), tu as (-as), il a (-a), nous (ons), vous (ez), ils ont (-ont)!",
+                "RE-DROP-E: On -RE verbs, clip the 'e' so the 'r' can touch the ending!"
             ],
             "culturalNotes": [
-                "Cultural and conversational context for Formation Régulière du Futur Simple in France."
+                "Official French administrative announcements, presidential addresses, and meteorological bulletins ('Météo France') almost exclusively use the futur simple to convey authoritative certainty."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Form the futur simple for regular verbs using the infinitive stem and  » :",
+                    "prompt": "Quel est le radical du verbe 'apprendre' au futur simple ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette forme présente une anomalie phonétique en français standard (44a).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (44b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (44c)."
+                        "apprendr- (on supprime le 'e' final de l'infinitif)",
+                        "apprenn- (radical du présent)",
+                        "apprendre- (avec le 'e')",
+                        "appris- (participe passé)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Pour les verbes en -re, on retire le 'e' final de l'infinitif, ce qui donne 'apprendr-' (j'apprendrai)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u10-l2 :",
+                    "prompt": "Complétez au futur simple : « Demain, vous _________ (choisir) votre menu. »",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette forme présente une anomalie phonétique en français standard (44x).",
-                        "La préposition employée ici n'est pas commandée par le verbe (44y).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (44z)."
+                        "choisirez",
+                        "choisissez",
+                        "choisiriez",
+                        "choisirez-vous"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A2."
+                    "explanation": "Pour 'choisir' avec 'vous', on ajoute '-ez' à l'infinitif : 'choisirez'."
                 }
             ]
         },
@@ -5316,25 +5350,23 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u10-l2) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle est la forme correcte à la 3e personne du pluriel (ils) du verbe 'vendre' au futur simple ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette forme présente une anomalie phonétique en français standard (44m).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (44n).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (44p)."
+                        "ils vendront",
+                        "ils vendent",
+                        "ils vendraient",
+                        "ils venderont"
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "Infinitif 'vendre' -> radical 'vendr-' + terminaison '-ont' = 'ils vendront'."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u10-l2 (terme attendu : « Nous ») :",
+                    "prompt": "Conjuguez le verbe 'parler' au futur simple avec le pronom 'je' (écrivez seulement le verbe) :",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "parlerai"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "parler + ai = parlerai."
                 }
             ],
             "passThreshold": 0.8
@@ -5344,62 +5376,80 @@
         "id": "fr-u10-l3",
         "unit": "fr-u10",
         "level": "A2",
-        "objective": "Master high-frequency irregular future stems (ser-, aur-, fer-, ir-, saur-, pourr-, voudr-, viendr-).",
+        "objective": "Master high-frequency irregular futur simple stems (être -> ser-, avoir -> aur-, faire -> fer-, aller -> ir-, venir -> viendr-, voir -> verr-, pouvoir -> pourr-, vouloir -> voudr-).",
         "prerequisites": [
             "fr-u10-l2"
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u10-l2"
+            ]
         },
         "presentation": {
-            "explanation": "Comprehensive presentation of Les Radicaux Irréguliers Essentiels du Futur Simple. In French grammar, mastering les radicaux irréguliers essentiels du futur simple is vital for fluid sentence connection, precise discourse organization, and natural communication.",
+            "explanation": "While the endings of the Futur Simple are 100% regular for EVERY verb in French (-ai, -as, -a, -ons, -ez, -ont), several essential irregular verbs possess modified future stems ending in 'r' or 'rr':\n\nCORE IRREGULAR STEMS:\n- Être -> SER- (je serai, tu seras, il sera, nous serons, vous serez, ils seront)\n- Avoir -> AUR- (j'aurai, tu auras, il aura, nous aurons, vous aurez, ils auront)\n- Faire -> FER- (je ferai, tu feras, il fera, nous ferons, vous ferez, ils feront)\n- Aller -> IR- (j'irai, tu iras, il ira, nous irons, vous irez, ils iront)\n\nSTEMS WITH -DR-:\n- Venir -> VIENDR- (je viendrai, nous viendrons)\n- Tenir -> TIENDR- (je tiendrai, nous tiendrons)\n- Vouloir -> VOUDR- (je voudrai, nous voudrons)\n- Falloir -> FAUDR- (il faudra - impersonal only!)\n- Valoir -> VAUDR- (il vaudra)\n\nSTEMS WITH DOUBLE 'R' (-RR-):\n- Voir -> VERR- (je verrai, nous verrons)\n- Pouvoir -> POURR- (je pourrai, nous pourrons)\n- Envoyer -> ENVERR- (j'enverrai, nous enverrons)\n- Courir -> COURR- (je courrai, nous courrons)\n- Mourir -> MOURR- (je mourrai, ils mourront)\n\nOTHER KEY STEMS:\n- Devoir -> DEVR- (je devrai)\n- Savoir -> SAUR- (je saurai)\n- Recevoir -> RECEVR- (je recevrai)\n- Pleuvoir -> PLEUVR- (il pleuvra - impersonal).",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Demain, il fera beau sur toute la côte atlantique et les températures seront douces.",
+                    "reading": "duh-man, eel fuh-rah boh soor toot lah koht aht-lahn-teek ay lay tahn-pay-rah-toor suh-rohn dooss",
+                    "translation": "Tomorrow, the weather will be nice across the entire Atlantic coast and temperatures will be mild."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Dès que j'aurai mon diplôme, j'irai travailler dans une organisation internationale.",
+                    "reading": "deh kuh zhoh-ray mohn deep-lohm, zhee-ray trah-vah-yay dahnz oon ohr-gah-nee-zah-syohn an-tair-nah-syoh-nahl",
+                    "translation": "As soon as I have my degree, I will go work in an international organization."
+                },
+                {
+                    "target": "Nous viendrons vous rendre visite dès que nous pourrons prendre des congés.",
+                    "reading": "noo vyahn-drohn voo rahn-druh vee-zeet deh kuh noo poor-rohn prahndruh day kohn-zhay",
+                    "translation": "We will come visit you as soon as we can take time off."
+                },
+                {
+                    "target": "Vous verrez que ce nouveau projet aura un impact très positif sur la communauté.",
+                    "reading": "voo veh-ray kuh suh noo-voh proh-zheh oh-rah uhn nan-pahkt tray poh-zee-teef soor lah koh-moo-noh-tay",
+                    "translation": "You will see that this new project will have a very positive impact on the community."
+                },
+                {
+                    "target": "Pour réussir cet examen, il faudra étudier régulièrement chaque semaine.",
+                    "reading": "poor ray-oo-seer set eg-zah-man, eel foh-drah ay-too-dyay ray-goo-lyair-mahn shahk suh-men",
+                    "translation": "To pass this exam, it will be necessary to study regularly every week."
                 }
             ],
             "mnemonics": [
-                "Memory anchor for Les Radicaux Irréguliers Essentiels du Futur Simple"
+                "DOUBLE-R TWINS: Voir -> verrai, Pouvoir -> pourrai, Envoyer -> enverrai. Hear the double-r rolling!",
+                "FAIRE -> FER: Think of 'iron' (fer) — you will make things strong: ferai!"
             ],
             "culturalNotes": [
-                "Cultural and conversational context for Les Radicaux Irréguliers Essentiels du Futur Simple in France."
+                "French horoscope columns ('l'horoscope') and fortune-telling traditions rely heavily on irregular future stems (e.g., 'Vous aurez de la chance', 'Vous ferez de belles rencontres')."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Master high-frequency irregular future stems (ser-, aur-, fer-, ir-, s » :",
+                    "prompt": "Quelle est la forme au futur simple du verbe 'pouvoir' avec 'nous' ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (45a).",
-                        "Cette construction passive alourdit inutilement l'énoncé (45b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (45c)."
+                        "nous pourrons (avec double 'r')",
+                        "nous pouvons",
+                        "nous pouvions",
+                        "nous pouvrons"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Le verbe 'pouvoir' a le radical irrégulier à double 'r' 'pourr-' : 'nous pourrons'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u10-l3 :",
+                    "prompt": "Complétez la phrase : « Demain, j'_________ (aller) à la préfecture pour renouveler mon passeport. »",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette construction passive alourdit inutilement l'énoncé (45x).",
-                        "Cette construction passive alourdit inutilement l'énoncé (45y).",
-                        "Cette construction passive alourdit inutilement l'énoncé (45z)."
+                        "irai",
+                        "allera",
+                        "vais",
+                        "irais"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A2."
+                    "explanation": "Le radical du verbe aller au futur simple est 'ir-' : 'j'irai'."
                 }
             ]
         },
@@ -5407,25 +5457,23 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u10-l3) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Choisissez la phrase qui contient les formes correctes au futur simple des verbes 'avoir' et 'être' :",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette construction passive alourdit inutilement l'énoncé (45m).",
-                        "Cette construction passive alourdit inutilement l'énoncé (45n).",
-                        "Cette construction passive alourdit inutilement l'énoncé (45p)."
+                        "Quand tu auras vingt ans, tu seras indépendant.",
+                        "Quand tu averas vingt ans, tu esteras indépendant.",
+                        "Quand tu auras vingt ans, tu sois indépendant.",
+                        "Quand tu avras vingt ans, tu serais indépendant."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "'Avoir' -> tu auras ; 'être' -> tu seras."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u10-l3 (terme attendu : « Nous ») :",
+                    "prompt": "Conjuguez le verbe 'faire' au futur simple avec 'il' (écrivez seulement le verbe) : « Demain, il _________ froid. »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "fera"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Le radical de faire est fer- : il fera."
                 }
             ],
             "passThreshold": 0.8
@@ -5435,62 +5483,79 @@
         "id": "fr-u10-l4",
         "unit": "fr-u10",
         "level": "A2",
-        "objective": "Use future temporal conjunctions requiring future simple in French (quand, lorsque, dès que, aussitôt que).",
+        "objective": "Apply future tense concordance after temporal conjunctions (quand, lorsque, dès que, aussitôt que) referring to future events.",
         "prerequisites": [
             "fr-u10-l3"
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u10-l3"
+            ]
         },
         "presentation": {
-            "explanation": "Comprehensive presentation of Les Conjonctions Temporelles du Futur (Quand, Dès que). In French grammar, mastering les conjonctions temporelles du futur (quand, dès que) is vital for fluid sentence connection, precise discourse organization, and natural communication.",
+            "explanation": "One of the most crucial structural differences between French and English grammar is the Future Temporal Concordance rule:\n\nTHE RULE:\nIn English, subordinate clauses introduced by temporal conjunctions (when, as soon as) use the PRESENT tense to describe future events ('When I arrive, I will call you').\nIN FRENCH, if the subordinate clause refers to a future event, IT MUST USE THE FUTUR SIMPLE in BOTH clauses!\n\nTEMPORAL CONJUNCTIONS REQUIRING THE FUTUR SIMPLE:\n1. QUAND (when):\n   - 'Quand je serai grand, je serai astronaute.' (When I am older, I will be an astronaut.)\n   - English: 'When I AM' (present) -> French: 'Quand je SERAI' (futur simple)!\n2. LORSQUE (when / at the time that - more formal):\n   - 'Lorsque les résultats seront publiés, nous fêterons la nouvelle.'\n3. DÈS QUE (as soon as):\n   - 'Dès que le train arrivera en gare, nous descendrons nos bagages.'\n4. AUSSITÔT QUE (as soon as):\n   - 'Aussitôt que vous aurez terminé, prévenez-moi.'\n5. TANT QUE (as long as):\n   - 'Tant qu'il pleuvra, nous resterons à l'intérieur.'\n\nGOLDEN COMPARISON TABLE:\n- English: As soon as he COMES (pres), we WILL EAT (fut).\n- French: Dès qu'il VIENDRA (fut), nous MANGERONS (fut).",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Quand nous aurons terminé cette réunion, nous irons prendre un café ensemble.",
+                    "reading": "kahn noo zoh-rohn tair-mee-nay set ray-oo-nyohn, noo zee-rohn prahndruh uhn kah-fay ahn-sahnbluh",
+                    "translation": "When we finish this meeting, we will go have a coffee together."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Dès que vous arriverez à l'aéroport, envoyez-moi un message pour me rassurer.",
+                    "reading": "deh kuh voo zah-ree-vray ah lah-ay-roh-pohr, ahn-vwah-yay mwah uhn may-sahzh poor muh rah-soo-ray",
+                    "translation": "As soon as you arrive at the airport, send me a message to reassure me."
+                },
+                {
+                    "target": "Lorsque le soleil se lèvera, les marins prendront la mer en direction du nord.",
+                    "reading": "lohr-skuh luh soh-lay suh lev-rah, lay mah-ran prahn-drohn lah mair ahn dee-rek-syohn doo nohr",
+                    "translation": "When the sun rises, the sailors will set sail toward the north."
+                },
+                {
+                    "target": "Aussitôt que le directeur signera le document, nous enverrons le contrat aux clients.",
+                    "reading": "oh-see-toh kuh luh dee-rek-tuhr see-nyuh-rah luh doh-koo-mahn, noo zahn-veh-rohn luh kohn-trah oh klee-yahn",
+                    "translation": "As soon as the director signs the document, we will send the contract to the clients."
+                },
+                {
+                    "target": "Tant que tu seras avec nous, tu ne manqueras de rien.",
+                    "reading": "tahn kuh too suh-rah ah-vek noo, too nuh mahn-kuh-rah duh ryan",
+                    "translation": "As long as you are with us, you will lack nothing."
                 }
             ],
             "mnemonics": [
-                "Memory anchor for Les Conjonctions Temporelles du Futur (Quand, Dès que)"
+                "FUTUR + FUTUR: In French, if the main clause is future, the 'quand/dès que' clause MUST ALSO be future! Double future rule!"
             ],
             "culturalNotes": [
-                "Cultural and conversational context for Les Conjonctions Temporelles du Futur (Quand, Dès que) in France."
+                "Failing to use the futur simple after 'quand' or 'dès que' is the #1 dead-giveaway anglicism made by native English speakers learning French at the B1 level."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Use future temporal conjunctions requiring future simple in French (qu » :",
+                    "prompt": "Complétez la subordonnée temporelle future : « Quand tu _________ (arriver) à Paris, appelle-moi. »",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (46a).",
-                        "Cette forme présente une anomalie phonétique en français standard (46b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (46c)."
+                        "arriveras (futur simple)",
+                        "arrives (présent)",
+                        "arriverais (conditionnel)",
+                        "es arrivé (passé composé)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "En français, après 'quand' renvoyant à l'avenir, le verbe doit obligatoirement être au futur simple ('tu arriveras')."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u10-l4 :",
+                    "prompt": "Traduisez correctement en français : « As soon as he receives the package, he will open it. »",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (46x).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (46y).",
-                        "Cette forme présente une anomalie phonétique en français standard (46z)."
+                        "Dès qu'il recevra le colis, il l'ouvrira.",
+                        "Dès qu'il reçoit le colis, il l'ouvrira.",
+                        "Dès qu'il recevra le colis, il l'ouvre.",
+                        "Dès qu'il recevrait le colis, il l'ouvrirait."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A2."
+                    "explanation": "'Dès que' + futur simple ('recevra') suivi de la principale au futur simple ('ouvrira')."
                 }
             ]
         },
@@ -5498,25 +5563,23 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u10-l4) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Pourquoi dit-on « Dès que nous SERONS prêts, nous partirons » et non « Dès que nous sommes prêts » ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (46m).",
-                        "La préposition employée ici n'est pas commandée par le verbe (46n).",
-                        "Cette forme présente une anomalie phonétique en français standard (46p)."
+                        "Parce que la subordonnée temporelle introduite par 'dès que' exige le futur simple quand l'action est à venir.",
+                        "Parce que 'être' n'existe pas au présent après une conjonction.",
+                        "Parce que le subjonctif est obligatoire après 'dès que'.",
+                        "Parce que la phrase est une hypothèse irréelle du passé."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "La concordance temporelle en français impose le futur simple après les conjonctions de temps (quand, dès que, lorsque) pour un événement futur."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u10-l4 (terme attendu : « Nous ») :",
+                    "prompt": "Complétez la phrase au futur simple (verbe être, sujet: vous) : « Dès que vous _________ prêts, nous commencerons. »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "serez"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "vous serez."
                 }
             ],
             "passThreshold": 0.8
@@ -5526,62 +5589,79 @@
         "id": "fr-u10-l5",
         "unit": "fr-u10",
         "level": "A2",
-        "objective": "Synthesize future projections, long-term personal resolutions, and career plans.",
+        "objective": "Synthesize futur proche and futur simple in discourse, articulating personal projects, career aspirations, and structured predictions.",
         "prerequisites": [
             "fr-u10-l4"
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u10-l4"
+            ]
         },
         "presentation": {
-            "explanation": "Comprehensive presentation of Projets d'Avenir et Résolutions Professionnelles. In French grammar, mastering projets d'avenir et résolutions professionnelles is vital for fluid sentence connection, precise discourse organization, and natural communication.",
+            "explanation": "Fluid French discourse navigates seamlessly between Futur Proche, Futur Simple, and Conditionnel depending on the speaker's degree of immediacy, certainty, and formality:\n\n1. STRATEGIC DISTRIBUTION IN NARRATION & PLANNING:\n- STEP 1: IMMEDIATE ACTION (Futur Proche)\n  'Dans un premier temps, je vais ranger mes affaires et préparer mes dossiers.'\n  (Imminent, practical, immediate step)\n- STEP 2: MEDIUM/LONG-TERM GOALS (Futur Simple)\n  'Ensuite, j'intégrerai une nouvelle entreprise où je développerai mes compétences en gestion.'\n  (Long-term trajectory, career milestones, formal commitment)\n- STEP 3: CONTINGENCY & AMBITIONS (Conditionnel / Futur Hypothétique)\n  'Si tout se passe comme prévu, nous achèterons une maison et nous pourrons voyager.'\n\n2. COMPARATIVE RECAP:\n- Futur Proche (aller + inf): Immediate, tangible, conversational, spontaneous intention. ('Je vais manger')\n- Futur Simple (radical + endings): Long-range, formal, written, objective forecast, solemn promise. ('Je mangerai plus sainement')",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Ce week-end, je vais me reposer, et lundi prochain je commencerai mon nouveau travail.",
+                    "reading": "suh week-end, zhuh vay muh ruh-poh-zay, ay luhn-dee proh-shan zhuh koh-mahn-sruh-ray mohn noo-voh trah-vahy",
+                    "translation": "This weekend I am going to rest, and next Monday I will start my new job."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Dans dix ans, la technologie transformera notre quotidien et nous utiliserons des énergies renouvelables.",
+                    "reading": "dahn dee zahn, lah tek-noh-loh-zhee trahns-fohr-muh-rah noh-truh koh-tee-dyan ay noo zoo-tee-lee-zuh-rohn day zay-nair-zhee ruh-noo-vuh-lahbl",
+                    "translation": "In ten years, technology will transform our daily lives and we will use renewable energies."
+                },
+                {
+                    "target": "D'abord nous allons analyser le marché, puis nous présenterons notre proposition aux investisseurs.",
+                    "reading": "dah-bohr noo zah-lohn zah-nah-lee-zay luh mahr-shay, pwee noo pray-zahn-tuh-rohn noh-truh proh-poh-zee-syohn oh zan-ves-tee-suhr",
+                    "translation": "First we are going to analyze the market, then we will present our proposal to the investors."
+                },
+                {
+                    "target": "Quand j'aurai économisé assez d'argent, je ferai le tour du monde pendant un an.",
+                    "reading": "kahn zhoh-ray ay-koh-noh-mee-zay ah-say dahr-zhahn, zhuh fuh-ray luh toor doo mohnd pahn-dahn uhn nahn",
+                    "translation": "When I have saved enough money, I will travel around the world for a year."
+                },
+                {
+                    "target": "Les scientifiques prévoient que la mission spatiale découvrira de nouvelles données fascinantes sur Mars.",
+                    "reading": "lay syahn-tee-feek pray-vwah kuh lah mee-syohn spah-syahl day-koo-vree-rah duh noo-vel doh-nay fah-see-nahnt soor mahrs",
+                    "translation": "Scientists predict that the space mission will discover fascinating new data on Mars."
                 }
             ],
             "mnemonics": [
-                "Memory anchor for Projets d'Avenir et Résolutions Professionnelles"
+                "NOW vs HORIZON: Futur Proche for what's right on your doorstep; Futur Simple for what lies across the horizon!"
             ],
             "culturalNotes": [
-                "Cultural and conversational context for Projets d'Avenir et Résolutions Professionnelles in France."
+                "In French job interviews (l'entretien d'embauche), candidates are expected to articulate their short-term plans with futur proche ('Je vais rapidement m'intégrer à l'équipe') and their 5-year vision with futur simple ('Je contribuerai à l'expansion internationale')."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Synthesize future projections, long-term personal resolutions, and car » :",
+                    "prompt": "Dans un projet de carrière, quelle phrase exprime le mieux un objectif formel à long terme ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "La préposition employée ici n'est pas commandée par le verbe (47a).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (47b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (47c)."
+                        "D'ici cinq ans, j'obtiendrai une certification de direction et je dirigerai un département.",
+                        "Dans cinq minutes, je vais téléphoner au chef pour lui dire bonjour.",
+                        "Je suis en train de regarder des offres d'emploi sur Internet.",
+                        "Hier, j'ai envoyé plusieurs candidatures spontanées."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "L'emploi du futur simple ('j'obtiendrai', 'je dirigerai') convient parfaitement à la projection professionnelle formelle à moyen et long terme."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u10-l5 :",
+                    "prompt": "Choisissez l'énoncé qui combine harmonieusement l'immédiat (futur proche) et le long terme (futur simple) :",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (47x).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (47y).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (47z)."
+                        "Ce soir je vais préparer mes valises et demain je partirai pour Tokyo.",
+                        "Ce soir je partirai mes valises et demain je vais Tokyo.",
+                        "Ce soir je pars mes valises et demain j'allais Tokyo.",
+                        "Ce soir je suis parti mes valises et demain je partais Tokyo."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau A2."
+                    "explanation": "Futur proche immédiat ('vais préparer') + futur simple pour le lendemain ('partirai')."
                 }
             ]
         },
@@ -5589,25 +5669,23 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u10-l5) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Analysez le discours : « Aujourd'hui nous allons signer l'accord, et l'année prochaine nous ouvrirons trois nouvelles filiales. » Quel contraste est exprimé ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (47m).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (47n).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (47p)."
+                        "Action immédiate et concrète (futur proche) opposée à une projection stratégique à long terme (futur simple).",
+                        "Action passée opposée à une hypothèse impossible.",
+                        "Obligation formelle opposée à un regret passé.",
+                        "Discours indirect au passé."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "Le futur proche traduit la décision imminente du jour même, et le futur simple projette l'expansion sur l'année suivante."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u10-l5 (terme attendu : « Nous ») :",
+                    "prompt": "Complétez le verbe 'ouvrir' au futur simple (sujet: nous) : « L'année prochaine, nous _________ une filiale à Lyon. »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "ouvrirons"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "ouvrir + ons = ouvrirons."
                 }
             ],
             "passThreshold": 0.8
