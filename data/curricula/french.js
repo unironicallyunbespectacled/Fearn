@@ -11092,56 +11092,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u20-l5"
+            ]
         },
         "presentation": {
-            "explanation": "In-depth analysis of L'Expression de la Cause : Nuances et Conjonctions. At the CEFR B2 level, learners acquire precise command over l'expression de la cause : nuances et conjonctions, integrating advanced syntax with professional and domain-specific lexicon.",
+            "explanation": "French possesses multiple causal conjunctions that differ strictly in syntactic position, register, and informational status:\n\n1. PARCE QUE (Answers 'Pourquoi ?' / Neutral & Universal):\n- Introduces an unknown cause delivering new information.\n- Position: Normally after the main clause, or starting an answer.\n  * 'Il est absent parce qu'il est malade.'\n\n2. PUISQUE (Known / Common Ground Cause):\n- Introduces a cause already known, accepted, or obvious to both speakers ('since / as you know'):\n  * 'Puisque tu es là, aide-moi à ranger.'\n\n3. COMME (Sentence-Initial Cause):\n- MUST ALWAYS BE PLACED AT THE HEAD OF THE SENTENCE:\n  * 'Comme il pleuvait à verse, nous avons annulé la sortie.' (Never 'Nous avons annulé comme il pleuvait'!).\n\n4. CAR (Coordinating Conjunction / Written Register):\n- Used exclusively in formal writing to connect two independent clauses with explanatory justification.\n- Never begins an isolated spoken sentence:\n  * 'Le projet sera retardé, car les financements n'ont pas été débloqués.'",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Comme les conditions météorologiques étaient particulièrement défavorables, le comité a décidé d'annuler le départ.",
+                    "reading": "kohm lay kohn-dee-syohn may-tay-oh-roh-loh-zheek ay-teh pahr-tee-koo-lyair-mahn day-fah-voh-rahbl, luh koh-mee-tay ah day-see-day dah-noo-lay luh day-pahr",
+                    "translation": "As the weather conditions were particularly unfavorable, the committee decided to cancel the departure."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Puisque vous avez déjà validé tous les modules obligatoires, vous pouvez choisir vos options spécialisées.",
+                    "reading": "pwees-kuh voo zah-vyay day-zhah vah-lee-day too lay moh-dool oh-blee-gah-twahr, voo poo-vay shwah-zeer voh zohp-syohn spay-syah-lee-zay",
+                    "translation": "Since you have already validated all mandatory modules, you may choose your specialized electives."
+                },
+                {
+                    "target": "Julien a refusé cette offre d'embauche alléchante parce qu'il ne souhaitait pas déménager à l'étranger.",
+                    "reading": "zhoo-lyan ah ruh-foo-zay set ohfr dahm-bohsh ah-lay-shahnt pahr-skweel nuh sweh-teh pah day-may-nah-zhay ah lay-trahn-zhay",
+                    "translation": "Julien turned down this tempting job offer because he did not wish to relocate abroad."
+                },
+                {
+                    "target": "La négociation diplomatique a échoué, car aucune des deux délégations n'a accepté de faire de concessions.",
+                    "reading": "lah nay-goh-syah-syohn dee-ploh-mah-teek ah ay-shway, kahr oh-koon day duh day-lay-gah-syohn nah ahk-sep-tay duh fair duh kohn-seh-syohn",
+                    "translation": "The diplomatic negotiation failed, for neither delegation agreed to make concessions."
+                },
+                {
+                    "target": "Étant donné que les délais sont extrêmement serrés, nous devrons mobiliser des renforts dès lundi.",
+                    "reading": "ay-tahn doh-nay kuh lay day-leh sohn teks-trem-mahn seh-ray, noo duh-vrohn moh-bee-lee-zay day rahn-fohr day luhn-dee",
+                    "translation": "Given that deadlines are extremely tight, we will need to mobilize reinforcements starting Monday."
                 }
             ],
             "mnemonics": [
-                "Structural memory anchor for L'Expression de la Cause : Nuances et Conjonctions"
+                "COMME COMES FIRST: Always put 'Comme' at the beginning of the sentence!",
+                "PUISQUE IS COMMON GROUND: Use 'Puisque' when everyone already knows the reason!"
             ],
             "culturalNotes": [
-                "Authentic pragmatic application of L'Expression de la Cause : Nuances et Conjonctions in professional France."
+                "In French rhetoric and debate (dissertation and parliamentary discourse), 'car' provides logical elegance, while 'comme en tête de phrase' sets the narrative premise."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Express cause across varied registers (parce que, puisque, comme en tê » :",
+                    "prompt": "Quelle conjonction causale doit obligatoirement être placée en début de phrase ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (101a).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (101b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (101c)."
+                        "Comme",
+                        "Parce que",
+                        "Car",
+                        "Grâce à"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "La conjonction de cause « Comme » se place obligatoirement en tête de phrase (« Comme il faisait beau... »)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u21-l1 :",
+                    "prompt": "Complétez avec la conjonction exprimant une cause évidente / partagée : « _________ tu connais bien la ville, guide-nous ! »",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "L'antériorité temporelle est mal établie par rapport au repère (101x).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (101y).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (101z)."
+                        "Puisque",
+                        "Car",
+                        "Parce que",
+                        "Faute de"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B2."
+                    "explanation": "« Puisque » s'impose quand la cause est connue et évidente pour les interlocuteurs."
                 }
             ]
         },
@@ -11149,25 +11167,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u21-l1) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Identifiez la phrase causale syntaxiquement correcte en français standard :",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'antériorité temporelle est mal établie par rapport au repère (101m).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (101n).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (101p)."
+                        "Nous sommes restés chez nous comme il pleuvait.",
+                        "Comme il pleuvait, nous sommes restés chez nous.",
+                        "Car il pleuvait, nous sommes restés.",
+                        "Puisque il pleuvait, nous sommes restés."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 1,
+                    "explanation": "« Comme » en tête de phrase (« Comme il pleuvait... ») est parfaitement correct. 'Puisque' aurait dû s'élider en 'Puisqu'il', et 'Car' ne débute pas une phrase isolée."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u21-l1 (terme attendu : « Nous ») :",
+                    "prompt": "Quelle conjonction de coordination formelle (3 lettres) justifie une proposition précédente à l'écrit ? (terme attendu : _________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "car",
+                        "Car"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "La conjonction de coordination causale soutenue est « car »."
                 }
             ],
             "passThreshold": 0.8
@@ -11183,56 +11200,73 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u21-l1"
+            ]
         },
         "presentation": {
-            "explanation": "In-depth analysis of Grâce à, À cause de, En raison de et Faute de. At the CEFR B2 level, learners acquire precise command over grâce à, à cause de, en raison de et faute de, integrating advanced syntax with professional and domain-specific lexicon.",
+            "explanation": "Prepositional phrases introducing nouns or pronouns require strict semantic categorization:\n\n1. GRÂCE À + NOM / PRONOM (Positive / Favorable Cause):\n- Expresses an outcome credited to a positive factor or helper ('thanks to'):\n  * 'Grâce à ses efforts constants, elle a obtenu son diplôme avec mention.'\n\n2. À CAUSE DE + NOM / PRONOM (Negative / Unfavorable Cause):\n- Expresses an obstacle, failure, or hindrance ('due to / because of a problem'):\n  * 'Le vol a été retardé à cause du brouillard épais.' (Never 'grâce au brouillard'!).\n\n3. EN RAISON DE + NOM (Neutral / Technical / Administrative Cause):\n- Objective and factual; standard for official notices:\n  * 'Fermeture exceptionnelle en raison de travaux de maintenance.'\n\n4. FAUTE DE + NOM / INFINITIF (Lack / Absence of Something):\n- Signifies 'for lack of / in the absence of':\n  * 'Faute de temps, nous n'avons pas pu visiter le musée.'",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Grâce au dévouement exemplaire de l'équipe soignante, tous les blessés ont été rapidement pris en charge.",
+                    "reading": "grahs oh day-vwah-mahn ayg-zahm-plair duh lay-keep swan-yahnt, too lay bley-say zohn tay-tay rah-peed-mahn pree zahn shahrzh",
+                    "translation": "Thanks to the exemplary dedication of the nursing staff, all the injured were quickly treated."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Le spectacle en plein air a dû être interrompu à cause d'un violent orage de grêle.",
+                    "reading": "luh spek-tahkl ahn plan air ah doo ehtr an-tay-rohn-poo ah kohz duh nvyoh-lahn toh-rahzh duh grehl",
+                    "translation": "The outdoor show had to be interrupted because of a violent hailstorm."
+                },
+                {
+                    "target": "La circulation des trains sera perturbée ce matin en raison d'une panne de signalisation.",
+                    "reading": "lah seer-koo-lah-syohn day tran suh-rah pair-toor-bay suh mah-tan ahn ray-zohn doon pahn duh seeg-nah-lee-zah-syohn",
+                    "translation": "Train traffic will be disrupted this morning due to a signaling malfunction."
+                },
+                {
+                    "target": "Faute de preuves tangibles et concluantes, le juge d'instruction a prononcé un non-lieu.",
+                    "reading": "foht duh pruhv tahn-zheebl ay kohn-kloo-yahnt, luh zhoozh deen-strook-syohn ah proh-nohn-say uhn nohn-lyuh",
+                    "translation": "For lack of tangible and conclusive evidence, the investigating magistrate ordered a dismissal."
+                },
+                {
+                    "target": "À force de persévérance et d'entraînement intensif, l'athlète a battu le record national.",
+                    "reading": "ah fohrs duh pair-say-vay-rahns ay dahn-tren-mahn an-tahn-seef, laht-let ah bah-too luh ruh-kohr nah-syoh-nahl",
+                    "translation": "Through sheer perseverance and intensive training, the athlete broke the national record."
                 }
             ],
             "mnemonics": [
-                "Structural memory anchor for Grâce à, À cause de, En raison de et Faute de"
+                "GRÂCE = GRATITUDE (Positive outcome); À CAUSE DE = COMPLAINT (Negative problem); EN RAISON DE = REPORT (Neutral fact)!"
             ],
             "culturalNotes": [
-                "Authentic pragmatic application of Grâce à, À cause de, En raison de et Faute de in professional France."
+                "Public transport announcements in France (RATP, SNCF) systematically announce delays with 'en raison d'un incident voyageur' or 'en raison de travaux sur la voie'."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Distinguish positive cause (grâce à) from negative cause (à cause de)  » :",
+                    "prompt": "Quelle locution prépositionnelle s'emploie pour introduire une cause bénéfique et heureuse ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "La préposition employée ici n'est pas commandée par le verbe (102a).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (102b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (102c)."
+                        "grâce à",
+                        "à cause de",
+                        "en raison de",
+                        "faute de"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "« grâce à » souligne une cause positive qui a permis d'obtenir un résultat heureux."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u21-l2 :",
+                    "prompt": "Complétez l'annonce officielle : « Le musée sera fermé demain _________ travaux de rénovation. »",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "La préposition employée ici n'est pas commandée par le verbe (102x).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (102y).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (102z)."
+                        "en raison de",
+                        "grâce à des",
+                        "faute de",
+                        "à la faveur de"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B2."
+                    "explanation": "« en raison de » est la formule administrative neutre et standard pour un motif objectif."
                 }
             ]
         },
@@ -11240,25 +11274,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u21-l2) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle phrase illustre un emploi fautif de la préposition de cause ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "La préposition employée ici n'est pas commandée par le verbe (102m).",
-                        "Cette forme présente une anomalie phonétique en français standard (102n).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (102p)."
+                        "Le projet a réussi grâce à notre travail d'équipe.",
+                        "Il a raté son concours grâce à son manque de travail.",
+                        "Le trafic est interrompu en raison d'un obstacle sur les voies.",
+                        "Faute de budget, le concert a été annulé."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 1,
+                    "explanation": "« grâce à son manque de travail » est absurde et fautif : pour une cause négative ou préjudiciable, il faut employer « à cause de »."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u21-l2 (terme attendu : « Nous ») :",
+                    "prompt": "Complétez la locution exprimant le manque ou l'absence : « _________ (manque) de moyens, le laboratoire a dû fermer. » (terme attendu : Faute)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "Faute",
+                        "faute"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "La locution prépositionnelle marquant l'absence ou le manque est « Faute de »."
                 }
             ],
             "passThreshold": 0.8
@@ -11274,56 +11307,73 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u21-l2"
+            ]
         },
         "presentation": {
-            "explanation": "In-depth analysis of L'Expression du But : Subjonctif vs Infinitif. At the CEFR B2 level, learners acquire precise command over l'expression du but : subjonctif vs infinitif, integrating advanced syntax with professional and domain-specific lexicon.",
+            "explanation": "Expressing purpose (goal, objective, intended result) obeys a strict syntactic rule governed by subject identity:\n\n1. DIFFERENT SUBJECTS -> SUBJONCTIF:\n- POUR QUE / AFIN QUE + SUBJONCTIF\n- Used when the subject of the main clause differs from the subject of the purpose clause:\n  * 'Je t'explique la règle pour que tu puisses réussir.' (Je vs Tu -> Subjonctif 'puisses').\n  * 'Afin que' is more formal and literary than 'pour que'.\n- DE PEUR QUE / DE CRAINTE QUE (+ ne) + SUBJONCTIF (Negative Purpose / Avoidance):\n  * 'Je parle doucement de peur qu'il ne se réveille.'\n\n2. IDENTICAL SUBJECTS -> INFINITIF (Mandatory Rule):\n- POUR / AFIN DE + INFINITIF\n- When the subject of both clauses is the exact same, using 'pour que' + subjunctive is a severe stylistic error:\n  * Correct: 'J'étudie pour réussir.' (Never 'J'étudie pour que je réussisse'!).\n  * 'Afin d'obtenir un visa, il s'est rendu au consulat.'",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Le gouvernement a revalorisé les bourses d'études afin que tous les étudiants puissent poursuivre leur cursus.",
+                    "reading": "luh goo-vair-nuh-mahn ah ruh-vah-loh-ree-zay lay boors day-tood ah-fan kuh too lay zay-too-dyahn pwees poor-swee-vruh luhr koor-soo",
+                    "translation": "The government increased student scholarships so that all students might pursue their degrees."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Nous avons envoyé le contrat par coursier exprès pour que vous le receviez avant la fermeture des bureaux.",
+                    "reading": "noo zah-vohn nahn-vwah-yay luh kohn-trah pahr koor-syay eks-preh poor kuh voo luh ruh-suh-vyay ah-vahn lah fair-muh-toor day boo-roh",
+                    "translation": "We sent the contract by courier specifically so that you would receive it before offices close."
+                },
+                {
+                    "target": "Elle s'est entraînée sans relâche pendant six mois afin d'être parfaitement prête le jour du marathon.",
+                    "reading": "el say tahn-treh-nay sahn ruh-lahsh pahn-dahn see mwah ah-fan dehtr pahr-fet-mahn pret luh zhoor doo mah-rah-tohn",
+                    "translation": "She trained relentlessly for six months in order to be completely ready on the day of the marathon."
+                },
+                {
+                    "target": "L'avocat a baissé la voix de peur que les journalistes présents dans le couloir n'entendent ses confidences.",
+                    "reading": "lah-voh-kah ah bay-say lah vwah duh puhr kuh lay zhoor-nah-leest pray-zahn dahn luh koo-lwahr nahn-tahnd say kohn-fee-dahns",
+                    "translation": "The lawyer lowered his voice lest the journalists present in the hallway overhear his remarks."
+                },
+                {
+                    "target": "Le chef cuisinier ajuste minutieusement l'assaisonnement pour que chaque saveur s'exprime pleinement.",
+                    "reading": "luh shef kwee-zee-nyay ah-zhoost mee-noos-yuhz-mahn lah-seh-zohn-mahn poor kuh shahk sah-vuhr seks-preem plen-mahn",
+                    "translation": "The head chef meticulously adjusts the seasoning so that each flavor expresses itself fully."
                 }
             ],
             "mnemonics": [
-                "Structural memory anchor for L'Expression du But : Subjonctif vs Infinitif"
+                "SAME SUBJECT = INFINITIVE: (Je travaille pour réussir)! DIFFERENT SUBJECT = SUBJUNCTIVE: (Je travaille pour que tu réussisses)!"
             ],
             "culturalNotes": [
-                "Authentic pragmatic application of L'Expression du But : Subjonctif vs Infinitif in professional France."
+                "In French legal drafting (municipal decrees, contractual conditions), 'afin que nul n'en ignore' ('so that none may plead ignorance') is a famous historic formula."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Express purpose requiring subjunctive (pour que, afin que) versus iden » :",
+                    "prompt": "Quelle phrase respecte la règle de l'identité des sujets dans l'expression du but ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (103a).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (103b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (103c)."
+                        "Il s'est dépêché pour arriver à l'heure.",
+                        "Il s'est dépêché pour qu'il arrive à l'heure.",
+                        "Il s'est dépêché afin qu'il arrive à l'heure.",
+                        "Il s'est dépêché pour qu'il arrivait à l'heure."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Quand le sujet est identique ('il' et 'il'), on doit obligatoirement employer la préposition suivie de l'infinitif : « pour arriver »."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u21-l3 :",
+                    "prompt": "Complétez au subjonctif : « Je vous prête mes clés pour que vous _________ (pouvoir) entrer. »",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette proposition modifie subtilement le sens originel du verbe (103x).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (103y).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (103z)."
+                        "puissiez",
+                        "pouvez",
+                        "pourriez",
+                        "pourrez"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B2."
+                    "explanation": "Après 'pour que' avec deux sujets différents (Je / Vous), le subjonctif présent est obligatoire : « puissiez »."
                 }
             ]
         },
@@ -11331,25 +11381,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u21-l3) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Identifiez la phrase comportant une erreur de mode ou de construction du but :",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette proposition modifie subtilement le sens originel du verbe (103m).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (103n).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (103p)."
+                        "J'ai pris un taxi afin que je sois à l'heure.",
+                        "J'ai pris un taxi afin d'être à l'heure.",
+                        "J'ai appelé un taxi pour que mon ami arrive à l'heure.",
+                        "Il parle fort pour que tout le monde l'entende."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "« afin que je sois » est fautif car les deux propositions ont le même sujet ('Je'). Il faut dire : « afin d'être à l'heure »."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u21-l3 (terme attendu : « Nous ») :",
+                    "prompt": "Conjuguez le verbe savoir au subjonctif présent : « Je t'explique la démarche pour que tu _________ (savoir) comment faire. »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "saches",
+                        "Saches"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Le verbe savoir au subjonctif présent avec 'tu' est « saches »."
                 }
             ],
             "passThreshold": 0.8
@@ -11365,56 +11414,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u21-l3"
+            ]
         },
         "presentation": {
-            "explanation": "In-depth analysis of L'Expression de la Conséquence Logique. At the CEFR B2 level, learners acquire precise command over l'expression de la conséquence logique, integrating advanced syntax with professional and domain-specific lexicon.",
+            "explanation": "Consequence represents the factual result of a preceding cause. Because consequence describes realized facts, it governs the INDICATIF:\n\n1. Coordinating Conjunctions & Adverbs:\n- DONC (Universal logical connector): 'Il n'a pas révisé, donc il a échoué.'\n- PAR CONSÉQUENT / EN CONSÉQUENCE (Formal & analytical):\n  * 'Le quorum n'a pas été atteint ; par conséquent, le vote est reporté.'\n- C'EST POURQUOI / D'OÙ (+ nom): 'Le pont est fermé, c'est pourquoi nous faisons un détour.'\n\n2. Subordinating Conjunctions Requiring the INDICATIF:\n- SI BIEN QUE (Factual consequence):\n  * 'La tempête a déraciné des arbres, si bien que la route a été coupée.'\n- DE SORTE QUE / DE MANIÈRE QUE (+ Indicatif for realized results):\n  * 'Il a parlé calmement, de sorte que tout le monde s'est apaisé.'\n\n3. Intensive Consequence Patterns:\n- SI + ADJECTIF/ADVERBE + QUE + INDICATIF:\n  * 'Elle était si fatiguée qu'elle s'est endormie tout de suite.'\n- TELLEMENT DE + NOM + QUE + INDICATIF:\n  * 'Il y avait tellement de monde que nous n'avons pas pu entrer.'",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "La réunion a duré beaucoup plus longtemps que prévu, si bien que nous avons manqué notre train de retour.",
+                    "reading": "lah ray-oo-nyohn ah doo-ray boh-koo ploo lohn-tahn kuh pray-voo, see byan kuh noo zah-vohn mahn-kay noh-truh tran duh ruh-toor",
+                    "translation": "The meeting lasted much longer than anticipated, so that we missed our return train."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Ce candidat s'est exprimé avec une telle éloquence que l'ensemble de l'auditoire a été immédiatement conquis.",
+                    "reading": "suh kahn-dee-dah say teks-pree-may ah-vek oon tel ay-loh-kahns kuh lahn-sahnbl duh loh-dee-twahr ah ay-tay ee-may-dyaht-mahn kohn-kee",
+                    "translation": "This candidate spoke with such eloquence that the entire audience was immediately won over."
+                },
+                {
+                    "target": "Les négociateurs ont travaillé sans relâche toute la nuit, de sorte qu'un accord global a été signé à l'aube.",
+                    "reading": "lay nay-goh-syah-tuhr zohn trah-vah-yay sahn ruh-lahsh toot lah nwee, duh sohrt koon nah-kohr gloh-bahl ah ay-tay seen-yay ah lohb",
+                    "translation": "The negotiators worked relentlessly all night, so that a comprehensive agreement was signed at dawn."
+                },
+                {
+                    "target": "Il y avait tellement de bruit dans le hall que nous ne pouvions pas entendre les annonces sonores.",
+                    "reading": "eel yah-veh tel-mahn duh brwee dahn luh ohl kuh noo nuh poo-vyohn pah zahn-tahndr lay zah-nohns soh-nohr",
+                    "translation": "There was so much noise in the concourse that we could not hear the loudspeaker announcements."
+                },
+                {
+                    "target": "Le budget alloué a été entièrement consommé ; par conséquent, tout nouvel investissement est suspendu.",
+                    "reading": "luh boo-dzheh ah-loo-ay ah ay-tay ahn-tyair-mahn kohn-soh-may; pahr kohn-say-kahn, too noo-vel an-ves-tees-mahn ay soos-pahn-doo",
+                    "translation": "The allocated budget has been completely spent; consequently, any new investment is suspended."
                 }
             ],
             "mnemonics": [
-                "Structural memory anchor for L'Expression de la Conséquence Logique"
+                "CONSEQUENCE IS A REAL FACT = INDICATIVE: 'Si bien que' + Real Tense (a été / est)!",
+                "INTENSITY LEADS TO RESULT: 'Si + Adj + que' / 'Tellement de + Noun + que'!"
             ],
             "culturalNotes": [
-                "Authentic pragmatic application of L'Expression de la Conséquence Logique in professional France."
+                "In French academic dissertations, logical consequence ('par conséquent, il s'ensuit que') forms the indispensable bridge between empirical premises and conclusions."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Express logical consequence using coordinators and subordinators (donc » :",
+                    "prompt": "Quel mode verbal suit la conjonction de conséquence factuelle « si bien que » ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette forme présente une anomalie phonétique en français standard (104a).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (104b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (104c)."
+                        "L'indicatif",
+                        "Le subjonctif",
+                        "Le conditionnel",
+                        "L'impératif"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "La conséquence constatée exprime un fait réel et régit obligatoirement l'indicatif (« si bien que nous sommes partis »)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u21-l4 :",
+                    "prompt": "Complétez la structure d'intensité : « Il y avait _________ de brouillard que la visibilité était nulle. »",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette forme présente une anomalie phonétique en français standard (104x).",
-                        "La préposition employée ici n'est pas commandée par le verbe (104y).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (104z)."
+                        "tellement",
+                        "si",
+                        "très",
+                        "trop"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B2."
+                    "explanation": "Devant un nom introduit par 'de' ('de brouillard'), on emploie « tellement de + nom + que » (ou 'tant de')."
                 }
             ]
         },
@@ -11422,25 +11489,26 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u21-l4) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Choisissez la phrase exprimant une conséquence logique irréprochable :",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette forme présente une anomalie phonétique en français standard (104m).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (104n).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (104p)."
+                        "Il a plu toute la nuit, pour que les routes soient inondées.",
+                        "Il a plu toute la nuit, de sorte que les routes soient inondées hier.",
+                        "Il a plu toute la nuit, si bien que les routes sont inondées ce matin.",
+                        "Il a plu toute la nuit, car les routes sont inondées."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 2,
+                    "explanation": "« si bien que les routes sont inondées » (indicatif présent) formule avec précision une conséquence factuelle réelle."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u21-l4 (terme attendu : « Nous ») :",
+                    "prompt": "Complétez la formule de liaison argumentative formelle : « Par _________ (conséquent), le projet est approuvé. »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "conséquent",
+                        "Conséquent",
+                        "consequent",
+                        "Consequent"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "L'adverbe de liaison formel est « Par conséquent »."
                 }
             ],
             "passThreshold": 0.8
@@ -11456,56 +11524,73 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u21-l4"
+            ]
         },
         "presentation": {
-            "explanation": "In-depth analysis of Synthèse Argumentative : Cause, But et Conséquence. At the CEFR B2 level, learners acquire precise command over synthèse argumentative : cause, but et conséquence, integrating advanced syntax with professional and domain-specific lexicon.",
+            "explanation": "In CEFR B2 production (argumentative essays, document syntheses, formal correspondence), mastering the distinction between Cause (origin), Purpose (aim), and Consequence (result) is essential for logical cohesion:\n\n1. The Tripartite Argumentative Engine:\n- CAUSE (Why upstream?): 'Étant donné que, En raison de, Puisque, Sous prétexte que'.\n- BUT (What aim downstream?): 'Afin que (+ subj.), Dans l'optique de (+ inf.), Pour que (+ subj.)'.\n- CONSÉQUENCE (What factual outcome?): 'Par conséquent, Il en résulte que, D'où (+ nom), À tel point que'.\n\n2. Syntactic Precision Rules:\n- Distinguish 'De sorte que + indicatif' (result achieved) from 'De sorte que + subjonctif' (purpose sought).\n- Never confuse 'À cause de' (negative) with 'Grâce à' (positive).\n- Enforce the subject identity rule ('afin de' vs 'afin que').",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Étant donné la hausse spectaculaire des coûts énergétiques, la municipalité a isolé les bâtiments publics afin de réduire l'empreinte carbone.",
+                    "reading": "ay-tahn doh-nay lah ohs spek-tah-koo-lair day koo tay-nair-zhay-teek, lah moo-nee-see-pah-lee-tay ah ee-zoh-lay lay bah-tee-mahn poo-bleek ah-fan duh ray-dweer lahm-prant kahr-bohn",
+                    "translation": "Given the dramatic rise in energy costs, the municipality insulated public buildings in order to reduce its carbon footprint."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "L'entreprise a automatisé sa chaîne de tri afin que les commandes soient expédiées le jour même, si bien que les délais de livraison ont été divisés par deux.",
+                    "reading": "lahn-truh-preez ah oh-toh-mah-tee-zay sah shen duh tree ah-fan kuh lay koh-mahnd swaht teks-pay-dyay luh zhoor mehm, see byan kuh lay day-leh duh lee-vray-zohn zohn tay-tay dee-vee-zay pahr duh",
+                    "translation": "The company automated its sorting line so that orders would be dispatched the same day, with the result that delivery times were cut in half."
+                },
+                {
+                    "target": "Faute d'investissements suffisants dans les infrastructures ferroviaires, les retards se sont multipliés, à tel point que les usagers ont déposé un recours collectif.",
+                    "reading": "foht dan-ves-tees-mahn soo-fee-zahn dahn lay zan-frah-strook-toor feh-roh-vyair, lay ruh-tahr suh sohn mool-tee-plee-ay, ah tel pwan kuh lay zoo-zah-zhay zohn day-poh-zay uhn ruh-koor koh-lek-teef",
+                    "translation": "For lack of sufficient investment in railway infrastructure, delays multiplied to such an extent that commuters filed a class action."
+                },
+                {
+                    "target": "Puisque les ressources naturelles s'amenuisent à l'échelle planétaire, nous devons repenser nos modes de consommation dans l'espoir de préserver l'écosystème.",
+                    "reading": "pwees-kuh lay ruh-soors nah-too-rel sah-muh-nweez ah lay-shel plah-nay-tair, noo duh-vohn ruh-pahn-say noh mohd duh kohn-soh-mah-syohn dahn les-pwahr duh pray-zair-vay lay-koh-sees-tem",
+                    "translation": "Since natural resources are dwindling on a global scale, we must rethink our consumption patterns in hopes of preserving the ecosystem."
+                },
+                {
+                    "target": "Le chercheur a étayé son hypothèse à l'aide de données statistiques probantes, de sorte que la communauté scientifique a validé l'ensemble de ses conclusions.",
+                    "reading": "luh shair-shuhr ah ay-tah-yay sohn nee-poh-tez ah lehd duh doh-nay stah-tees-teek proh-bahnt, duh sohrt kuh lah koh-moo-noh-tay syahn-tee-feek ah vah-lee-day lahn-sahnbl duh say kohn-kloo-zyohn",
+                    "translation": "The researcher substantiated his hypothesis using compelling statistical data, so that the scientific community validated all of his conclusions."
                 }
             ],
             "mnemonics": [
-                "Structural memory anchor for Synthèse Argumentative : Cause, But et Conséquence"
+                "TRIAD OF REASONING: Cause explains the past, Purpose targets the future, Consequence proves the result!"
             ],
             "culturalNotes": [
-                "Authentic pragmatic application of Synthèse Argumentative : Cause, But et Conséquence in professional France."
+                "In French higher education (Sciences Po entrance essays, DALF C1), structuring argumentation through the cause-purpose-consequence triad is the hallmark of intellectual rigor."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Structure cause, purpose, and consequence cohesively in analytical B2  » :",
+                    "prompt": "Identifiez le connecteur introduisant l'objectif / le but dans : « La loi a été durcie _________ dissuader les fraudeurs. »",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (105a).",
-                        "Cette construction passive alourdit inutilement l'énoncé (105b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (105c)."
+                        "afin de",
+                        "en raison de",
+                        "si bien que",
+                        "par conséquent"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "« afin de + infinitif » introduit le but avec un sujet identique ('la loi')."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u21-l5 :",
+                    "prompt": "Dans un essai B2, quel enchaînement logique relie harmonieusement Cause -> But -> Conséquence ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette construction passive alourdit inutilement l'énoncé (105x).",
-                        "Cette construction passive alourdit inutilement l'énoncé (105y).",
-                        "Cette construction passive alourdit inutilement l'énoncé (105z)."
+                        "Comme... pour que... si bien que...",
+                        "Bien que... quoique... malgré...",
+                        "Pendant que... dès que... après que...",
+                        "Si... alors... sinon..."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B2."
+                    "explanation": "« Comme » (cause), « pour que » (but), « si bien que » (conséquence) articulent les trois étapes du raisonnement logique."
                 }
             ]
         },
@@ -11513,25 +11598,26 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u21-l5) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Analysez l'extrait argumentatif : « Puisque le climat change (1), nous devons agir pour protéger la planète (2), de sorte que les générations futures puissent vivre dignement (3). »",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette construction passive alourdit inutilement l'énoncé (105m).",
-                        "Cette construction passive alourdit inutilement l'énoncé (105n).",
-                        "Cette construction passive alourdit inutilement l'énoncé (105p)."
+                        "Hypothèse, Conséquence passée, Opposition.",
+                        "(1) Cause partagée, (2) Action principale + But, (3) Finalité / But visé.",
+                        "Concession, Cause négative, Condition irréelle.",
+                        "Comparaison, Analepse, Voix passive."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 1,
+                    "explanation": "« Puisque » introduit une cause partagée, « pour protéger » exprime le but immédiat, et « de sorte que + subjonctif » développe la finalité globale."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u21-l5 (terme attendu : « Nous ») :",
+                    "prompt": "Complétez avec le mot marquant le point de départ causal : « _________ (étant) donné la complexité du problème... »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "Étant",
+                        "étant",
+                        "Etant",
+                        "etant"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "La formule d'introduction causale est « Étant donné » (ou « Etant donné »)."
                 }
             ],
             "passThreshold": 0.8
