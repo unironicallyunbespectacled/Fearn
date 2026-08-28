@@ -10,14 +10,14 @@
         "fr-u1-l3",
         "fr-u1-l4",
         "fr-u1-l5",
-        "fr-u3-l1",
-        "fr-u3-l2",
-        "fr-u3-l3",
         "fr-u2-l1",
         "fr-u2-l2",
         "fr-u2-l3",
         "fr-u2-l4",
         "fr-u2-l5",
+        "fr-u3-l1",
+        "fr-u3-l2",
+        "fr-u3-l3",
         "fr-u3-l4",
         "fr-u3-l5",
         "fr-u4-l1",
@@ -42,6 +42,9 @@
         "fr-u7-l5",
         "fr-u8-l1",
         "fr-u8-l2",
+        "fr-u8-l3",
+        "fr-u8-l4",
+        "fr-u8-l5",
         "fr-u9-l1",
         "fr-u9-l2",
         "fr-u9-l3",
@@ -62,14 +65,13 @@
         "fr-u12-l3",
         "fr-u12-l4",
         "fr-u12-l5",
-        "fr-u8-l3",
-        "fr-u8-l4",
-        "fr-u8-l5",
         "fr-u13-l1",
         "fr-u13-l2",
         "fr-u13-l3",
         "fr-u13-l4",
-        "fr-u13-l5",
+        "fr-u13-l5"
+    ],
+    "stubOnly": [
         "fr-u14-l1",
         "fr-u14-l2",
         "fr-u14-l3",
@@ -176,9 +178,8 @@
         "fr-u34-l4",
         "fr-u34-l5"
     ],
-    "stubOnly": [],
-    "lastCompletedLessonId": "fr-u34-l5",
-    "nextToAuthor": null
+    "lastCompletedLessonId": "fr-u13-l5",
+    "nextToAuthor": "fr-u14-l1"
 };
   global.FEARN_LEDGERS = global.FEARN_LEDGERS || {};
   global.FEARN_LEDGERS['french'] = LEDGER;

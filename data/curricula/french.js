@@ -6893,56 +6893,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u13-l1"
+            ]
         },
         "presentation": {
-            "explanation": "Thorough linguistic breakdown of La Politesse et l'Atténuation Courtoise. In French B1, mastering this syntax structure enables learners to articulate complex interpersonal nuances, formal register shifts, and precise logical arguments.",
+            "explanation": "In French, direct imperatives or bald indicative statements (such as 'Je veux une baguette' or 'Donnez-moi un café') sound blunt and socially aggressive. The present conditional functions as the premier instrument of courtesy (le conditionnel de politesse):\n\n1. Softening Desires:\n- 'Je voudrais...' (from vouloir) replaces the demanding 'Je veux...'.\n- 'J'aimerais...' (from aimer) expresses a courteous wish ('I would love to / I'd like').\n\n2. Softening Requests:\n- 'Pourriez-vous... ?' (from pouvoir, formal) transforms an order into a delicate inquiry ('Could you...?').\n- 'Pourrais-tu... ?' (informal) is used with friends or family.\n- 'Auriez-vous... ?' (from avoir) politely asks for availability ('Would you happen to have...?').\n\n3. Conversational Architecture:\nAlways frame your requests by opening with 'Bonjour Madame / Monsieur' and concluding with 's'il vous plaît'. French service personnel expect this three-part ceremonial exchange before transacting business.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Bonjour Madame, je voudrais une baguette tradition et deux croissants, s'il vous plaît.",
+                    "reading": "bon-zhoor mah-dahm, zhuh voo-dreh oon bah-get trah-dee-syohn ay duh krwah-sahn, seel voo pleh",
+                    "translation": "Hello madam, I would like a traditional baguette and two croissants, please."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "J'aimerais réserver une table pour quatre personnes ce soir à vingt heures.",
+                    "reading": "zheh-muh-reh ray-zair-vay oon tahbl poor kahtr pair-sun suh swahr ah van-t‿uhr",
+                    "translation": "I would like to book a table for four people tonight at 8 PM."
+                },
+                {
+                    "target": "Pourriez-vous m'indiquer le chemin de la gare Montparnasse ?",
+                    "reading": "poo-ryay-voo man-dee-kay luh shuh-man duh lah gahr mohn-pahr-nahs",
+                    "translation": "Could you show me the way to the Montparnasse train station?"
+                },
+                {
+                    "target": "Auriez-vous un instant pour examiner ce document avec moi ?",
+                    "reading": "oh-ryay-voo uhn an-stahn poor eg-zah-mee-nay suh doh-koo-mahn ah-vek mwah",
+                    "translation": "Would you have a moment to examine this document with me?"
+                },
+                {
+                    "target": "Pourrais-tu me prêter ton stylo pendant quelques minutes ?",
+                    "reading": "poo-reh-too muh preh-tay tohn stee-loh pahn-dahn kel-kuh mee-noot",
+                    "translation": "Could you lend me your pen for a few minutes? (informal)"
                 }
             ],
             "mnemonics": [
-                "Cognitive memory anchor for La Politesse et l'Atténuation Courtoise"
+                "Never say 'Je veux' to a French waiter! Remember: VOUDR-ais has the 'R' that softens your demand into refined respect.",
+                "Pourriez-vous = Could you (conditional polite 'R' + formal 'vous')."
             ],
             "culturalNotes": [
-                "Sociolinguistic and cultural context for La Politesse et l'Atténuation Courtoise in modern France."
+                "In France, commercial interactions are social rituals. Starting with 'Bonjour' followed by 'Je voudrais' and finishing with 's'il vous plaît' is non-negotiable etiquette in bakeries, cafés, and administrative offices."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Use 'je voudrais', 'j'aimerais', and 'pourriez-vous' for polite custom » :",
+                    "prompt": "Vous êtes dans un café parisien. Quelle formule est la plus polie pour commander un expresso ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "La préposition employée ici n'est pas commandée par le verbe (62a).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (62b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (62c)."
+                        "Je voudrais un café serré, s'il vous plaît.",
+                        "Je veux immédiatement un café noir.",
+                        "Donnez-moi le café maintenant sans tarder.",
+                        "Tu me donnes un café tout de suite."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "« Je voudrais... s'il vous plaît » est la formule de politesse standard par excellence au restaurant ou au café."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u13-l2 :",
+                    "prompt": "Comment demander poliment à un passant inconnu de vous indiquer l'heure ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "La préposition employée ici n'est pas commandée par le verbe (62x).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (62y).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (62z)."
+                        "Dis-moi quelle heure il est !",
+                        "Pourriez-vous me donner l'heure, s'il vous plaît ?",
+                        "Donne-moi l'heure vite fait.",
+                        "J'exige que vous me disiez l'heure."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B1."
+                    "answerIndex": 1,
+                    "explanation": "L'inversion interrogative au conditionnel « Pourriez-vous... » avec le vouvoiement et « s'il vous plaît » respecte parfaitement les codes de politesse."
                 }
             ]
         },
@@ -6950,25 +6968,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u13-l2) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle phrase illustre le conditionnel de politesse pour demander une faveur ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "La préposition employée ici n'est pas commandée par le verbe (62m).",
-                        "Cette forme présente une anomalie phonétique en français standard (62n).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (62p)."
+                        "Je dois partir tout de suite.",
+                        "Pourriez-vous fermer la fenêtre, s'il vous plaît ?",
+                        "Tu fermes la fenêtre maintenant.",
+                        "Nous fermerons la porte demain matin."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 1,
+                    "explanation": "« Pourriez-vous... » emploie le conditionnel présent du verbe pouvoir pour adoucir la demande."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u13-l2 (terme attendu : « Nous ») :",
+                    "prompt": "Complétez la formule de politesse : « Je _________ une carafe d'eau, s'il vous plaît. » (forme au conditionnel de 'vouloir')",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "voudrais",
+                        "Voudrais"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "La première personne du singulier au conditionnel présent du verbe vouloir est « voudrais »."
                 }
             ],
             "passThreshold": 0.8
@@ -6984,56 +7001,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u13-l2"
+            ]
         },
         "presentation": {
-            "explanation": "Thorough linguistic breakdown of Conseils et Suggestions Nuancées. In French B1, mastering this syntax structure enables learners to articulate complex interpersonal nuances, formal register shifts, and precise logical arguments.",
+            "explanation": "When offering guidance in French, the indicative mood (Tu dois..., Il faut...) creates an imperative tone of obligation. To soften commands into constructive counsel or gentle recommendations, use the conditional:\n\n1. Devoir in the Conditional (Personal Advice):\n- 'Tu devrais te reposer.' (You should rest.)\n- 'Vous devriez consulter un médecin sans attendre.' (You should see a doctor without delay.)\n- Conjugation: je devrais, tu devrais, il devrait, nous devrions, vous devriez, ils devraient.\n\n2. Falloir in the Conditional (Impersonal Recommendation):\n- 'Il faudrait...' expresses what ought to be done in a diplomatic, collective manner without directly targeting the listener.\n- 'Il faudrait repeindre cette pièce.' (We ought to / It would be necessary to repaint this room.)\n- 'Il faudrait partir tôt pour éviter les bouchons.' (It would be wise to leave early to avoid traffic jams.)\n\n3. Alternative Modulators:\n- 'Il vaudrait mieux + infinitif' (It would be better to... from valoir mieux).\n- 'Tu ferais bien de + infinitif' (You would do well to...).",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Tu devrais dormir au moins huit heures avant ton examen de français.",
+                    "reading": "too duh-vreh dohr-meer oh mwan weet uhr ah-vahn tohn neg-zah-man duh frahn-seh",
+                    "translation": "You should sleep at least eight hours before your French exam."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Vous devriez envoyer votre candidature avant la fin de la semaine.",
+                    "reading": "voo duh-vryay ahn-vwah-yay voh-truh kahn-dee-dah-toor ah-vahn lah fan duh lah suh-men",
+                    "translation": "You ought to send your application before the end of the week."
+                },
+                {
+                    "target": "Il faudrait vérifier les horaires de train avant de partir pour la gare.",
+                    "reading": "eel foh-dreh vay-ree-fyay lay zoh-rair duh tran ah-vahn duh pahr-teer poor lah gahr",
+                    "translation": "It would be wise to check the train timetable before leaving for the station."
+                },
+                {
+                    "target": "Il vaudrait mieux réserver nos billets d'avion plusieurs semaines à l'avance.",
+                    "reading": "eel voh-dreh myuh ray-zair-vay noh bee-yay dah-vyohn ploo-zyuhr suh-men ah lah-vahns",
+                    "translation": "It would be better to book our plane tickets several weeks in advance."
+                },
+                {
+                    "target": "Tu ferais bien de prendre un parapluie, car le ciel est très nuageux.",
+                    "reading": "too fuh-reh byan duh prahndr uhn pah-rah-plwee, kahr luh syel ay treh noo-ah-zhuh",
+                    "translation": "You would do well to take an umbrella, because the sky is very cloudy."
                 }
             ],
             "mnemonics": [
-                "Cognitive memory anchor for Conseils et Suggestions Nuancées"
+                "Devrais = DEVOIR + 'R' + AIS -> 'Should' (conditional counsel rather than strict 'must').",
+                "Il FAUDRAIT is the gentle, polite cousin of the authoritarian IL FAUT."
             ],
             "culturalNotes": [
-                "Sociolinguistic and cultural context for Conseils et Suggestions Nuancées in modern France."
+                "In French professional and social dialogue, giving feedback with 'Tu devrais' or 'Il faudrait peut-être' is strongly preferred over 'Tu dois', preserving collegiality and avoiding abrupt conflict."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Provide nuanced advice and moral recommendations using 'devoir' (tu de » :",
+                    "prompt": "Votre ami est très fatigué. Quel conseil bienveillant et nuancé lui donnez-vous ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (63a).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (63b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (63c)."
+                        "Tu dois courir dix kilomètres maintenant !",
+                        "Tu devrais prendre quelques jours de repos.",
+                        "Tu as pris tes vacances l'année dernière.",
+                        "Tu prendras le train hier soir."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "answerIndex": 1,
+                    "explanation": "« Tu devrais... » exprime un conseil nuancé au conditionnel présent."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u13-l3 :",
+                    "prompt": "Choisissez la formulation impersonnelle la plus adéquate pour suggérer une amélioration générale :",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette proposition modifie subtilement le sens originel du verbe (63x).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (63y).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (63z)."
+                        "Il faut absolument obéir sans discuter.",
+                        "Il faudrait organiser une réunion pour clarifier la situation.",
+                        "Il a fallu refaire le travail hier.",
+                        "Il faudra partir dans trois semaines."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B1."
+                    "answerIndex": 1,
+                    "explanation": "« Il faudrait + infinitif » exprime une suggestion mesurée et constructive."
                 }
             ]
         },
@@ -7041,25 +7076,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u13-l3) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle phrase utilise correctement le verbe devoir au conditionnel pour prodiguer un conseil à un collègue (vouvoiement) ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette proposition modifie subtilement le sens originel du verbe (63m).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (63n).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (63p)."
+                        "Vous devez signer le contrat immédiatement.",
+                        "Vous devriez relire attentivement la clause de confidentialité.",
+                        "Vous avez dû oublier votre mot de passe.",
+                        "Vous devrez arriver à l'heure demain."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 1,
+                    "explanation": "« Vous devriez relire... » emploie le conditionnel présent pour formuler une recommandation modérée."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u13-l3 (terme attendu : « Nous ») :",
+                    "prompt": "Complétez avec le conditionnel de falloir : « Il _________ repeindre la cuisine avant de vendre l'appartement. »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "faudrait",
+                        "Faudrait"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "La forme impersonnelle de 'falloir' au conditionnel présent est « faudrait »."
                 }
             ],
             "passThreshold": 0.8
@@ -7075,56 +7109,73 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u13-l3"
+            ]
         },
         "presentation": {
-            "explanation": "Thorough linguistic breakdown of Le Conditionnel Journalistique et l'Information Non Confirmée. In French B1, mastering this syntax structure enables learners to articulate complex interpersonal nuances, formal register shifts, and precise logical arguments.",
+            "explanation": "In French journalism, press dispatches, and formal reporting, the conditional present is employed to report unconfirmed rumors, breaking news, or allegations without claiming absolute certainty (le conditionnel journalistique / conditionnel de rumeur):\n\n1. Translating English 'Allegedly' / 'Reportedly':\nInstead of inserting special adverbs, French simply conjugates the main verb into the conditional:\n- 'Le ministre démissionnerait ce soir.' = 'The minister will reportedly resign tonight.'\n- 'L'incendie aurait fait deux blessés.' = 'The fire reportedly caused two injuries.'\n- 'L'accord coûterait trois millions d'euros.' = 'The deal would allegedly cost three million euros.'\n\n2. Common Framing Formulas:\n- 'Selon nos informations / Selon des sources proches du dossier...' (According to our sources...)\n- 'D'après les témoins présents sur place...' (According to witnesses on site...)\n- 'Il y aurait...' (There are reportedly... from 'il y a').\n\n3. Epistemic Contrast:\n- Indicative ('Le président arrive à Paris'): The journalist asserts this as a verified fact.\n- Conditional ('Le président arriverait à Paris'): The news is plausible but unverified by official channels.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Selon des sources policières, le suspect se cacherait dans un village voisin.",
+                    "reading": "suh-lohn day soors poh-lee-syair, luh soos-pek suh kahsh-reh dahn zocn vee-lahzh vwah-zan",
+                    "translation": "According to police sources, the suspect is reportedly hiding in a neighboring village."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Le coût total de la nouvelle ligne de métro s'élèverait à plus de deux milliards d'euros.",
+                    "reading": "luh koo toh-tahl duh lah noo-vel leen-yuh duh may-troh say-lev-reh ah ploo duh duh meel-yahr duh-ruh",
+                    "translation": "The total cost of the new subway line would reportedly amount to more than two billion euros."
+                },
+                {
+                    "target": "D'après les syndicats, la direction annoncerait de nouvelles négociations vendredi prochain.",
+                    "reading": "dah-preh lay san-dee-kah, lah dee-rek-syohn ah-nohn-sreh duh noo-vel nay-goh-syah-syohn vahn-druh-dee proh-shan",
+                    "translation": "According to union leaders, management will reportedly announce fresh negotiations next Friday."
+                },
+                {
+                    "target": "Il y aurait plusieurs milliers de manifestants rassemblés sur la place de la République.",
+                    "reading": "eel ee oh-reh ploo-zyuhr meel-yay duh mah-nee-fes-tahn rah-sahn-blay soor lah plahs duh lah ray-poo-bleek",
+                    "translation": "There are reportedly several thousand demonstrators gathered in Place de la République."
+                },
+                {
+                    "target": "Le nouvel attaquant signerait son contrat avec le club parisien dès demain matin.",
+                    "reading": "luh noo-vel ah-tah-kahn seen-yuh-reh sohn kohn-trah ah-vek luh kloob pah-ree-zyan deh duh-man mah-tan",
+                    "translation": "The new striker will allegedly sign his contract with the Parisian club first thing tomorrow morning."
                 }
             ],
             "mnemonics": [
-                "Cognitive memory anchor for Le Conditionnel Journalistique et l'Information Non Confirmée"
+                "JOURNALIST'S SHIELD: When a French reporter uses 'serait' instead of 'est', they are protecting themselves by saying 'it is reported to be'!"
             ],
             "culturalNotes": [
-                "Sociolinguistic and cultural context for Le Conditionnel Journalistique et l'Information Non Confirmée in modern France."
+                "French press law holds publications liable for libel. Using the conditional is therefore a strict legal and ethical convention across French broadsheets like Le Monde and Le Figaro when reporting active investigations."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Report unconfirmed information and journalistic speculation using the  » :",
+                    "prompt": "Dans un journal télévisé, quelle phrase indique que l'information n'a pas encore été officiellement confirmée ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette forme présente une anomalie phonétique en français standard (64a).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (64b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (64c)."
+                        "Le Premier ministre s'est exprimé hier à 20 heures.",
+                        "Le Premier ministre démissionnerait d'ici la fin du mois.",
+                        "Le Premier ministre a signé le décret ce matin.",
+                        "Le Premier ministre voyage toujours en avion officiel."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "answerIndex": 1,
+                    "explanation": "Le verbe au conditionnel présent (« démissionnerait ») indique une information sous réserve ou une rumeur non confirmée."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u13-l4 :",
+                    "prompt": "Traduisez fidèlement en français journalistique : « According to sources, the company is reportedly planning a merger. »",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette forme présente une anomalie phonétique en français standard (64x).",
-                        "La préposition employée ici n'est pas commandée par le verbe (64y).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (64z)."
+                        "Selon des sources, l'entreprise a planifié une fusion.",
+                        "Selon des sources, l'entreprise envisagerait une fusion.",
+                        "Selon des sources, l'entreprise refusera toujours la fusion.",
+                        "Selon des sources, l'entreprise avait conclu la fusion."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B1."
+                    "answerIndex": 1,
+                    "explanation": "« envisagerait » traduit parfaitement le conditionnel d'information non confirmée."
                 }
             ]
         },
@@ -7132,25 +7183,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u13-l4) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Pourquoi le journaliste utilise-t-il le conditionnel dans la phrase : « L'accident aurait fait deux blessés légers » ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette forme présente une anomalie phonétique en français standard (64m).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (64n).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (64p)."
+                        "Pour exprimer un regret face au passé.",
+                        "Pour formuler une hypothèse ou rapporter un fait encore non vérifié.",
+                        "Pour donner un ordre péremptoire aux secours.",
+                        "Pour indiquer une certitude scientifique absolue."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 1,
+                    "explanation": "Le conditionnel journalistique permet d'énoncer des faits probables sans engagement de certitude absolue."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u13-l4 (terme attendu : « Nous ») :",
+                    "prompt": "Complétez la dépêche de presse : « D'après les témoins, le suspect _________ âgé d'une trentaine d'années. » (forme au conditionnel d''être')",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "serait",
+                        "Serait"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Le conditionnel du verbe être à la 3e personne du singulier est « serait »."
                 }
             ],
             "passThreshold": 0.8
@@ -7166,56 +7216,73 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u13-l4"
+            ]
         },
         "presentation": {
-            "explanation": "Thorough linguistic breakdown of Les Hypothèses du Présent (Si + Imparfait). In French B1, mastering this syntax structure enables learners to articulate complex interpersonal nuances, formal register shifts, and precise logical arguments.",
+            "explanation": "The second conditional structure in French expresses contrary-to-fact, hypothetical, or imaginary scenarios in the present (l'irréel du présent):\n\nSI + [IMPARFAIT], [CONDITIONNEL PRÉSENT]\n(or inverted: [CONDITIONNEL PRÉSENT] + SI + [IMPARFAIT])\n\n1. Strict Tense Combination:\n- The condition clause introduced by 'Si' MUST be in the imperfect.\n- The result clause MUST be in the present conditional.\n- Example: 'Si j'avais du temps (imparfait), je voyagerais (conditionnel).' (If I had time, I would travel.)\n\n2. The Golden Syntactic Prohibition:\nNEVER place the conditional directly after 'si'!\n- Fatal error: 'Si j'aurais de l'argent...' (INCORRECT)\n- Grammatical standard: 'Si j'avais de l'argent...' (CORRECT)\nRemember the French mnemonic rhyme: 'Les « si » n'aiment pas les « -rais » !'\n\n3. Elision Rules for 'Si':\n- 'Si' elides ONLY before 'il' and 'ils' (S'il pleut, S'ils viennent).\n- 'Si' NEVER elides before 'elle', 'elles', or 'on' (Si elle vient, Si on veut).",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Si j'avais plus de temps libre, j'apprendrais à jouer du piano.",
+                    "reading": "see zhah-veh ploo duh tahn leebr, zhah-prahn-dreh ah zhoo-ay doo pyah-noh",
+                    "translation": "If I had more free time, I would learn to play the piano."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Si nous habitions à Nice, nous irions à la plage tous les dimanches.",
+                    "reading": "see noo zah-bee-tyohn ah nees, noo zee-ryohn ah lah plahzh too lay dee-mahnsh",
+                    "translation": "If we lived in Nice, we would go to the beach every Sunday."
+                },
+                {
+                    "target": "Elle voyagerait autour du monde si elle gagnait au loto.",
+                    "reading": "el vwah-yahzh-reh oh-toor doo mohnd see el gahn-yeh oh loh-toh",
+                    "translation": "She would travel around the world if she won the lottery."
+                },
+                {
+                    "target": "Si tu parlais couramment français, tu trouverais facilement un poste à Lyon.",
+                    "reading": "see too pahr-leh koo-rah-mahn frahn-seh, too troo-vruh fah-seel-mahn uhn pohst ah lyohn",
+                    "translation": "If you spoke French fluently, you would easily find a job in Lyon."
+                },
+                {
+                    "target": "S'il faisait beau ce matin, nous ferions une longue promenade en forêt.",
+                    "reading": "seel fuh-zeh boh suh mah-tan, noo fuh-ryohn oon lohng prohm-nahd ahn foh-reh",
+                    "translation": "If the weather were nice this morning, we would take a long walk in the forest."
                 }
             ],
             "mnemonics": [
-                "Cognitive memory anchor for Les Hypothèses du Présent (Si + Imparfait)"
+                "LES 'SI' N'AIMENT PAS LES '-RAI' : If a clause begins with SI, the verb cannot end in -rais/-rait! The 'si' clause demands the imperfect!"
             ],
             "culturalNotes": [
-                "Sociolinguistic and cultural context for Les Hypothèses du Présent (Si + Imparfait) in modern France."
+                "The French proverb 'Avec des si, on mettrait Paris en bouteille' (With 'ifs', you could put Paris in a bottle) is invoked whenever someone indulges in pointless, endless daydreams about unreal possibilities."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Form basic unreal present conditional sentences with 'si + imparfait - » :",
+                    "prompt": "Complétez correctement l'hypothèse : « Si j'_________ riche, j'achèterais un château en Touraine. »",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (65a).",
-                        "Cette construction passive alourdit inutilement l'énoncé (65b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (65c)."
+                        "étais",
+                        "serais",
+                        "fus",
+                        "suis"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Après 'si' pour exprimer une hypothèse sur le présent, on doit impérativement employer l'imparfait (« étais ») et non le conditionnel (« serais »)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u13-l5 :",
+                    "prompt": "Identifiez la phrase syntaxiquement correcte en français standard :",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette construction passive alourdit inutilement l'énoncé (65x).",
-                        "Cette construction passive alourdit inutilement l'énoncé (65y).",
-                        "Cette construction passive alourdit inutilement l'énoncé (65z)."
+                        "Si j'aurais su, je ne viendrais pas.",
+                        "Si nous avions une voiture, nous visiterions la Bretagne.",
+                        "Si tu serais là, nous mangerions ensemble.",
+                        "Si vous viendriez demain, nous serions contents."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B1."
+                    "answerIndex": 1,
+                    "explanation": "La structure « Si + imparfait (avions) -> conditionnel présent (visiterions) » est rigoureusement respectée."
                 }
             ]
         },
@@ -7223,25 +7290,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u13-l5) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle phrase illustre l'irréel du présent selon la règle « Si + imparfait -> conditionnel » ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette construction passive alourdit inutilement l'énoncé (65m).",
-                        "Cette construction passive alourdit inutilement l'énoncé (65n).",
-                        "Cette construction passive alourdit inutilement l'énoncé (65p)."
+                        "Si tu viens demain, nous irons au cinéma.",
+                        "Si tu étudiais sérieusement, tu réussirais tes examens.",
+                        "Si tu es venu hier, tu as vu le spectacle.",
+                        "Si tu seras présent, nous commencerons."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 1,
+                    "explanation": "« Si tu étudiais (imparfait), tu réussirais (conditionnel) » correspond exactement à l'irréel du présent."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u13-l5 (terme attendu : « Nous ») :",
+                    "prompt": "Complétez la proposition principale : « Si nous avions des vacances, nous _________ en Italie. » (forme au conditionnel présent de 'partir')",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "partirions",
+                        "Partirions"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "La 1ère personne du pluriel au conditionnel présent de partir est « partirions »."
                 }
             ],
             "passThreshold": 0.8
