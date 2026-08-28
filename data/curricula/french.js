@@ -16519,56 +16519,73 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u30-l5"
+            ]
         },
         "presentation": {
-            "explanation": "Mastery analysis of Épistémologie des Sciences et Hypothèses de Recherche. At the C2 summit level, the learner demonstrates near-native linguistic agility, flawless stylistic sophistication, and profound rhetorical command over épistémologie des sciences et hypothèses de recherche.",
+            "explanation": "Formulating advanced scientific hypotheses and empirical frameworks in French academic research (l'épistémologie et la démarche hypothético-déductive) requires doctoral-level vocabulary and syntax:\n\n1. The Hypothetico-Deductive Method:\n- Formulation d'hypothèses heuristiques et réfutables (réfutabilité poppérienne).\n- Protocole expérimental randomisé en double aveugle.\n- Inférence statistique, seuil de significativité (p-value, intervalle de confiance), et neutralisation des variables confondantes.\n\n2. Academic Scientific Syntax:\n- « Nous postulons l'existence d'une corrélation statistiquement significative entre... »\n- « L'invalidation de l'hypothèse nulle (H0) corrobore le modèle théorique sous-jacent. »",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Nous postulons à titre d'hypothèse de travail que la modulation de l'expression génique par ARN interférent atténue significativement la prolifération tumorale in vitro.",
+                    "reading": "noo pohs-too-lohn ah tee-truh dee-poh-tez duh trah-vahy kuh lah moh-doo-lah-syohn duh lek-spreh-syohn zhay-neek pahr ah-air-en an-tair-fay-rahn ah-tay-noo seen-yee-fee-kah-teev-mahn lah proh-lee-fay-rah-syohn too-moh-rahl een vee-troh",
+                    "translation": "We posit as a working hypothesis that modulating gene expression via interfering RNA significantly attenuates tumor proliferation in vitro."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Afin d'écarter tout biais de sélection, l'essai clinique randomisé en double aveugle a été conduit auprès d'une cohorte représentative et stratifiée.",
+                    "reading": "ah-fan day-kahr-tay too byeh duh say-lek-syohn, leh-seh klee-neek rahn-doh-mee-zay ahn doo-bluh ah-vuh-gluh ah ay-tay kohn-dwee oh-preh doon koh-ohrt ruh-pray-zahn-tah-teev ay strah-tee-fyay",
+                    "translation": "To eliminate any selection bias, the double-blind randomized clinical trial was conducted on a representative, stratified cohort."
+                },
+                {
+                    "target": "L'inférence statistique et le rejet de l'hypothèse nulle au seuil de significativité de cinq pour cent corroborent la robustesse de notre modélisation économétrique.",
+                    "reading": "lan-fay-rahns stah-tees-teek ay luh ruh-zheh duh lee-poh-tez nool oh suhy duh seen-yee-fee-kah-tee-vee-tay duh sank poor sahn kohr-roh-bohr lah roh-boos-tes duh noh-truh moh-day-lee-zah-syohn ay-koh-noh-may-treek",
+                    "translation": "Statistical inference and rejection of the null hypothesis at the 5% significance threshold corroborate the robustness of our econometric modeling."
+                },
+                {
+                    "target": "La réfutabilité poppérienne constitue le critère de démarcation fondamental séparant les propositions scientifiques des énoncés métaphysiques.",
+                    "reading": "lah ray-foo-tah-bee-lee-tay poh-pay-ryen kohn-stee-too luh kree-tair duh day-mahr-kah-syohn fohn-dah-mahn-tahl say-pah-rahn lay proh-poh-zee-syohn syahn-tee-feek day zay-nohn-say may-tah-fee-zeek",
+                    "translation": "Popperian falsifiability constitutes the fundamental criterion of demarcation separating scientific propositions from metaphysical statements."
+                },
+                {
+                    "target": "Le protocole d'échantillonnage longitudinal permet d'observer la cinétique des biomarqueurs sanguins sur une période de dix-huit mois consécutifs.",
+                    "reading": "luh proh-toh-kohl day-shahn-tee-yoh-nahzh lohn-zhee-too-dee-nahl pair-meh dohb-zair-vay lah see-nay-teek day bee-oh-mahr-kuhr sahn-gan soor oon pay-ryohd duh dee-zweet mwah kohn-say-koo-teef",
+                    "translation": "The longitudinal sampling protocol makes it possible to observe the kinetics of blood biomarkers over a period of 18 consecutive months."
                 }
             ],
             "mnemonics": [
-                "Rhetorical mastery anchor for Épistémologie des Sciences et Hypothèses de Recherche"
+                "DÉMARCHE SCIENTIFIQUE: Hypothèse -> Protocole expérimental -> Inférence statistique -> Réfutabilité!"
             ],
             "culturalNotes": [
-                "High cultural and institutional significance of Épistémologie des Sciences et Hypothèses de Recherche in the Francophone world."
+                "The CNRS (Centre National de la Recherche Scientifique), founded in 1939, is Europe's largest fundamental science agency, publishing research across all disciplines."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Formulate scientific research hypotheses, experimental methodologies,  » :",
+                    "prompt": "Quel critère épistémologique développé par Karl Popper sépare une théorie scientifique d'une croyance non scientifique ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (151a).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (151b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (151c)."
+                        "La réfutabilité (ou falsifiabilité par l'expérience)",
+                        "La longueur du texte en nombre de pages",
+                        "Le nombre d'abonnés sur les réseaux sociaux",
+                        "La certitude subjective de l'auteur"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Pour Karl Popper, une proposition n'est scientifique que si elle est empiriquement réfutable (falsifiable) par un protocole expérimental."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u31-l1 :",
+                    "prompt": "Que permet de démontrer le rejet de l'« hypothèse nulle » (H0) dans un test statistique ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "L'antériorité temporelle est mal établie par rapport au repère (151x).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (151y).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (151z)."
+                        "Qu'il existe un effet ou une corrélation statistiquement significative non attribuable au seul hasard",
+                        "Que l'expérience a complètement échoué",
+                        "Que les mathématiques sont inutiles",
+                        "Que l'échantillon ne contient aucune donnée"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C2."
+                    "explanation": "Rejeter H0 atteste que la différence observée entre les groupes est statistiquement significative et non due aux fluctuations aléatoires."
                 }
             ]
         },
@@ -16576,25 +16593,28 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u31-l1) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Comment nomme-t-on un essai clinique où ni le patient ni le médecin évaluateur ne connaissent l'attribution du traitement réel ou du placebo ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'antériorité temporelle est mal établie par rapport au repère (151m).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (151n).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (151p)."
+                        "Un essai en double aveugle",
+                        "Une étude rétrospective ouverte",
+                        "Un sondage d'opinion",
+                        "Un examen clinique direct"
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "L'essai « en double aveugle » (randomisé) neutralise les biais psychologiques et subjectifs du médecin et du patient."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u31-l1 (terme attendu : « Nous ») :",
+                    "prompt": "Quel terme épistémologique désigne la possibilité logique pour une théorie d'être contredite par l'expérience ? (la _________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "réfutabilité",
+                        "refutabilite",
+                        "Réfutabilité",
+                        "Refutabilite",
+                        "falsifiabilité",
+                        "falsifiabilite"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Le critère fondamental est la « réfutabilité »."
                 }
             ],
             "passThreshold": 0.8
@@ -16610,56 +16630,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u31-l1"
+            ]
         },
         "presentation": {
-            "explanation": "Mastery analysis of Obstacles Épistémologiques et Ruptures de Paradigme. At the C2 summit level, the learner demonstrates near-native linguistic agility, flawless stylistic sophistication, and profound rhetorical command over obstacles épistémologiques et ruptures de paradigme.",
+            "explanation": "French historical epistemology (Gaston Bachelard, Georges Canguilhem, Alexandre Koyré) analyzes how scientific progress proceeds through discontinuities and rectifications:\n\n1. Gaston Bachelard (La Formation de l'esprit scientifique, Le Nouvel Esprit scientifique):\n- L'obstacle épistémologique : Fausses évidences et images sensibles faisant écran à la vérité abstraite.\n- La rupture épistémologique : Discontinuité radicale entre le sens commun et la construction scientifique.\n- La phénoménotechnique : La science ne contemple pas la nature brute ; elle produit techniquement des phénomènes de laboratoire.\n\n2. Georges Canguilhem (Le Normal et le Pathologique):\n- La normativité du vivant et l'histoire des concepts médicaux.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Gaston Bachelard affirme que la science progresse par rectifications successives et ruptures épistémologiques contre les préjugés du sens commun.",
+                    "reading": "gahs-tohn bahsh-lahr ah-feerm kuh lah syahns proh-gres pahr rek-tee-fee-kah-syohn sook-seh-seev ay roop-toor zay-pees-tay-moh-loh-zheek kohn-truh lay pray-zhoo-zhay doo sahns koh-mohn",
+                    "translation": "Gaston Bachelard asserts that science progresses through successive rectifications and epistemological ruptures against common-sense prejudices."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "L'obstacle épistémologique ne réside pas dans l'ignorance pure, mais dans les certitudes intuitives et les analogies trompeuses qui encombrent l'esprit.",
+                    "reading": "lohb-stahkl ay-pees-tay-moh-loh-zheek nuh ray-zeed pah dahn leen-yoh-rahns poor, meh dahn lay sair-tee-tood an-twee-teev ay lay zah-nah-loh-zhee trohn-puhz kee zahn-kohm-bruh les-pree",
+                    "translation": "The epistemological obstacle resides not in pure ignorance, but in intuitive certainties and deceptive analogies that clutter the mind."
+                },
+                {
+                    "target": "Dans Le Normal et le Pathologique, Georges Canguilhem redéfinit la maladie non comme une simple variation quantitative, mais comme une nouvelle allure de la vie dotée de ses propres normes.",
+                    "reading": "dahn luh nohr-mahl ay luh pah-toh-loh-zheek, zhohrzh kahn-gee-yem ruh-day-fee-nee lah mah-lah-dee nohn kohm oon san-pluh vah-ryah-syohn kahn-tee-tah-teev, meh kohm oon noo-vel ah-loor duh lah vee doh-tay duh say prohpruh nohrm",
+                    "translation": "In The Normal and the Pathological, Georges Canguilhem redefines disease not as a mere quantitative variation, but as a new gait of life endowed with its own norms."
+                },
+                {
+                    "target": "La phénoménotechnique bachelardienne souligne que les instruments de laboratoire ne révèlent pas la nature brute mais matérialisent des théories scientifiques abstraites.",
+                    "reading": "lah fay-noh-may-noh-tek-neek bahsh-lahr-dyen soo-leen-yuh kuh lay zan-stroo-mahn duh lah-boh-rah-twahr nuh ray-vel pah lah nah-toor broot meh mah-tay-ryah-leez day tay-oh-ree syahn-tee-feek ahb-stret",
+                    "translation": "Bachelardian phenomenotechnology underscores that laboratory instruments do not reveal raw nature but materialize abstract scientific theories."
+                },
+                {
+                    "target": "Le basculement géocentrique vers l'héliocentrisme copernicien illustre avec éclat une révolution de paradigme bouleversant la vision globale du cosmos.",
+                    "reading": "luh bahs-kool-mahn zhay-oh-sahn-treek vair lay-lyoh-sahn-treezm koh-pair-nee-syan ee-loos-truh ah-vek ay-klah oon ray-voh-loo-syohn duh pah-rah-deegm bool-vair-sahn lah vee-zyohn gloh-bahl doo kohs-mohs",
+                    "translation": "The shift from geocentrism to Copernican heliocentrism brilliantly illustrates a paradigm revolution transforming the global worldview of the cosmos."
                 }
             ],
             "mnemonics": [
-                "Rhetorical mastery anchor for Obstacles Épistémologiques et Ruptures de Paradigme"
+                "BACHELARD: Obstacle épistémologique -> Rupture épistémologique -> Phénoménotechnique!",
+                "CANGUILHEM: Le Normal et le Pathologique (Normativité du vivant)!"
             ],
             "culturalNotes": [
-                "High cultural and institutional significance of Obstacles Épistémologiques et Ruptures de Paradigme in the Francophone world."
+                "French historical epistemology deeply influenced Michel Foucault, who was Georges Canguilhem's doctoral student."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Analyze epistemological ruptures, paradigm shifts, and scientific revo » :",
+                    "prompt": "Selon Gaston Bachelard, comment se produit une « rupture épistémologique » en sciences ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "La préposition employée ici n'est pas commandée par le verbe (152a).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (152b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (152c)."
+                        "En rompant radicalement avec les intuitions premières et les illusions du sens commun",
+                        "En détruisant tous les livres de la bibliothèque",
+                        "En abandonnant les mathématiques pour la poésie",
+                        "En refusant de faire des expériences en laboratoire"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Pour Bachelard, l'esprit scientifique se forme contre l'expérience première et le sens commun grâce à une rupture conceptuelle."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u31-l2 :",
+                    "prompt": "Que désigne la notion de « phénoménotechnique » introduite par Bachelard ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "La préposition employée ici n'est pas commandée par le verbe (152x).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (152y).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (152z)."
+                        "Le fait que les phénomènes scientifiques modernes sont construits et instrumentés par la technique théorique",
+                        "Une technique de dessin à la main",
+                        "L'étude des illusions d'optique dans les cirques",
+                        "Le remplacement des chercheurs par des robots ménagers"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C2."
+                    "explanation": "La phénoménotechnique exprime l'idée que les objets de la science contemporaine sont créés artificiellement par des instruments de haute technicité guidés par la théorie."
                 }
             ]
         },
@@ -16667,25 +16705,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u31-l2) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quel philosophe et médecin français est l'auteur de l'ouvrage classique « Le Normal et le Pathologique » ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "La préposition employée ici n'est pas commandée par le verbe (152m).",
-                        "Cette forme présente une anomalie phonétique en français standard (152n).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (152p)."
+                        "Jean-Paul Sartre",
+                        "Denis Diderot",
+                        "Georges Canguilhem",
+                        "Albert Camus"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 2,
+                    "explanation": "Georges Canguilhem (1904–1995) a écrit l'œuvre magistrale « Le Normal et le Pathologique »."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u31-l2 (terme attendu : « Nous ») :",
+                    "prompt": "Quelle notion bachelardienne désigne les préjugés et fausses évidences bloquant l'avancée de la pensée scientifique ? (l'_________ épistémologique)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "obstacle",
+                        "Obstacle"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Cette notion capitale est l'« obstacle » épistémologique."
                 }
             ],
             "passThreshold": 0.8
@@ -16701,56 +16738,73 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u31-l2"
+            ]
         },
         "presentation": {
-            "explanation": "Mastery analysis of Rédaction d'Articles Scientifiques et Soutenance Académique. At the C2 summit level, the learner demonstrates near-native linguistic agility, flawless stylistic sophistication, and profound rhetorical command over rédaction d'articles scientifiques et soutenance académique.",
+            "explanation": "Mastery of French academic rhetoric for peer-reviewed journal articles and doctoral defenses (soutenances de thèse) follows strict stylistic protocols:\n\n1. Structure of an Academic Paper (IMRAD Français):\n- Introduction (état de l'art, revue de littérature, objectifs).\n- Matériel et Méthodes (reproductibilité méthodologique).\n- Résultats (données probantes, tableaux, graphiques).\n- Discussion et Conclusion (interprétation, limites de l'étude, perspectives).\n\n2. Rhetorical Posture for a Doctoral Defense:\n- Adresse au jury (« Monsieur le Président, Mesdames et Messieurs les membres du jury... »).\n- Justification des choix méthodologiques et traitement nuancé des objections.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Monsieur le Président, Mesdames et Messieurs les membres du jury, j'ai l'honneur de vous présenter aujourd'hui les résultats de mes recherches doctorales consacrées à la dynamique des génomes.",
+                    "reading": "muh-syuh luh pray-zee-dahn, may-dahm ay may-syuh lay mahm-bruh doo zhoo-ree, zhay loh-nuhr duh voo pray-zahn-tay oh-zhoor-dwee lay ray-zool-tah duh may ruh-shairsh dohk-toh-rahl kohn-sah-kray ah lah dee-nah-meek day zhay-nohm",
+                    "translation": "Mr. President, members of the jury, I have the honor of presenting to you today the findings of my doctoral research devoted to genome dynamics."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "L'analyse critique de la littérature existante met en exergue un angle mort théorique que notre dispositif méthodologique s'est employé à combler.",
+                    "reading": "lah-nah-leez kree-teek duh lah leet-tay-rah-toor zeg-zees-tahnt meh tahn nek-zairg uhn nahn-gluh mohr tay-oh-reek kuh noh-truh dees-poh-zee-teef may-toh-doh-loh-zheek say tahn-plwah-yay ah kohn-blay",
+                    "translation": "Critical review of existing literature highlights a theoretical blind spot that our methodological framework endeavoured to address."
+                },
+                {
+                    "target": "Les résultats colligés confirment notre hypothèse principale tout en ouvrant des perspectives de recherche prometteuses pour de futures études de cohorte.",
+                    "reading": "lay ray-zool-tah koh-lee-zhay kohn-feerm noh-truh ee-poh-tez pran-see-pahl too tahn noo-vrahn day pair-spek-teev duh ruh-shairsh proh-meh-tuhz poor duh foo-toor zay-tood duh koh-ohrt",
+                    "translation": "The collected results confirm our primary hypothesis while opening promising research avenues for future cohort studies."
+                },
+                {
+                    "target": "Tout en reconnaissant les limites inhérentes à la taille de notre échantillon initial, nous tenons à souligner la parfaite cohérence interne de nos observations empiriques.",
+                    "reading": "too tahn ruh-koh-neh-sahn lay lee-meet een-ay-rahnt ah lah tahy duh noh-truh nay-shahn-tee-yohn ee-nee-syahl, noo tuh-nohn zah soo-leen-yay lah pahr-fet koh-ay-rahns an-tairn duh noh zohb-zair-vah-syohn zahn-pee-reek",
+                    "translation": "While acknowledging the limitations inherent to the size of our initial sample, we wish to emphasize the flawless internal consistency of our empirical observations."
+                },
+                {
+                    "target": "Le comité de lecture a émis un avis favorable sous réserve de révisions mineures portant sur l'explicitation des variables statistiques et la normalisation bibliographique.",
+                    "reading": "luh koh-mee-tay duh lek-toor ah ay-mee uhn nah-vee fah-voh-rahbl soo ray-zairv duh ray-vee-zyohn mee-nuhr pohr-tahn soor lek-splee-see-tah-syohn day vah-ryahbl stah-tees-teek ay lah nohr-mah-lee-zah-syohn bee-blee-oh-grah-feek",
+                    "translation": "The editorial board issued a favorable review subject to minor revisions regarding the clarification of statistical variables and bibliographic standardization."
                 }
             ],
             "mnemonics": [
-                "Rhetorical mastery anchor for Rédaction d'Articles Scientifiques et Soutenance Académique"
+                "SOUTENANCE DE THÈSE: Adresse au jury -> État de l'art -> Méthodologie -> Résultats -> Discussion des limites -> Perspectives!"
             ],
             "culturalNotes": [
-                "High cultural and institutional significance of Rédaction d'Articles Scientifiques et Soutenance Académique in the Francophone world."
+                "A French doctoral defense (la soutenance de thèse) is a formal public academic ceremony concluding with the award of the degree of Docteur."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Master the conventions of academic peer-reviewed journal articles and  » :",
+                    "prompt": "Quelle formule solennelle ouvre rituellement la prise de parole du candidat lors d'une soutenance de thèse en France ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (153a).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (153b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (153c)."
+                        "« Monsieur le Président, Mesdames et Messieurs les membres du jury... »",
+                        "« Salut à tous, merci d'être venus m'écouter »",
+                        "« Je commence tout de suite sans préambule »",
+                        "« C'est parti pour la présentation de mon travail »"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "L'allocution au jury obéit à ce protocole oratoire académique strict ouvrant toute soutenance doctorale."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u31-l3 :",
+                    "prompt": "Que désigne un « article à comité de lecture » (peer-reviewed) dans le monde de la recherche ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette proposition modifie subtilement le sens originel du verbe (153x).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (153y).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (153z)."
+                        "Un article évalué et validé par des experts scientifiques pairs et indépendants avant publication",
+                        "Un texte écrit par un seul étudiant pour un devoir",
+                        "Un article de journal vendu dans un kiosque de rue",
+                        "Un résumé publicitaire pour une marque"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C2."
+                    "explanation": "Le processus d'évaluation par les pairs (peer review) garantit la rigueur méthodologique et la validité scientifique de l'article."
                 }
             ]
         },
@@ -16758,25 +16812,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u31-l3) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Dans un article scientifique respectant la structure standardisée IMRAD, quelle section interprète les résultats et discute des limites de l'étude ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette proposition modifie subtilement le sens originel du verbe (153m).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (153n).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (153p)."
+                        "Le résumé",
+                        "Les remerciements",
+                        "La discussion (Discussion)",
+                        "Le titre"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 2,
+                    "explanation": "La « Discussion » met en perspective les résultats, compare avec la littérature et détaille les biais et limites."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u31-l3 (terme attendu : « Nous ») :",
+                    "prompt": "Quel grade universitaire sommital sanctionne la réussite de la soutenance de thèse ? (le titre de _________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "docteur",
+                        "Docteur"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "L'aboutissement de la thèse confère le grade universitaire de « docteur »."
                 }
             ],
             "passThreshold": 0.8
@@ -16792,56 +16845,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u31-l3"
+            ]
         },
         "presentation": {
-            "explanation": "Mastery analysis of Bioéthique, Génétique et Frontières Technologiques. At the C2 summit level, the learner demonstrates near-native linguistic agility, flawless stylistic sophistication, and profound rhetorical command over bioéthique, génétique et frontières technologiques.",
+            "explanation": "Contemporary bioethics and technological debates in French (la bioéthique, les lois de bioéthique et les thérapies géniques) mobilize legal, ethical, and biomedical discourse:\n\n1. Genetic Technologies & Frontiers:\n- L'édition génomique par CRISPR-Cas9 (découvert par Emmanuelle Charpentier et Jennifer Doudna, Prix Nobel 2020).\n- Thérapie génique somatique vs modification germinale héréditaire (interdite chez l'humain).\n- Le clonage thérapeutique et les cellules souches pluripotentes induites (iPS).\n\n2. The French Bioethical Framework:\n- Le Comité Consultatif National d'Éthique (CCNE) et les révisions des lois de bioéthique.\n- Le principe de non-patrimonialité et d'indisponibilité du corps humain.\n- La dignité ontologique et le refus des dérives eugénistes.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "L'avènement des ciseaux moléculaires CRISPR-Cas9 bouleverse la thérapie génique en permettant une édition ciblée et d'une précision inédite du génome humain.",
+                    "reading": "lahv-nahn day see-zoh moh-lay-koo-lair krees-puhr kahs-nuhf bool-vairss lah tay-rah-pee zhay-neek ahn pair-meh-tahn oon nay-dee-syohn see-blay ay doon pray-see-zyohn een-ay-deet doo zhay-nohm oo-man",
+                    "translation": "The advent of CRISPR-Cas9 molecular scissors revolutionizes gene therapy by enabling targeted and unprecedentedly precise editing of the human genome."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "La modification génétique de la lignée germinale humaine suscite de vives controverses éthiques en raison du risque de transmission héréditaire de mutations imprévues.",
+                    "reading": "lah moh-dee-fee-kah-syohn zhay-nay-teek duh lah leen-yay zhair-mee-nahl oo-men soos-seet duh veev kohn-troh-vairss ay-teek ahn reh-zohn doo reesk duh trahns-mee-syohn ay-ray-dee-tair duh moo-tah-syohn zan-pray-voo",
+                    "translation": "Genetic modification of the human germline elicits fierce ethical controversies due to the risk of hereditary transmission of unintended mutations."
+                },
+                {
+                    "target": "Les lois françaises de bioéthique réaffirment avec force le principe d'indisponibilité et de non-patrimonialité du corps humain contre toute dérive marchande.",
+                    "reading": "lay lwah frahn-sez duh bee-oh-ay-teek ray-ah-feerm ah-vek fohrs luh pran-seep dan-dees-poh-nee-bee-lee-tay ay duh nohn-pah-tree-moh-nyah-lee-tay doo kohr oo-man kohn-truh toot day-reev mahr-shahnd",
+                    "translation": "French bioethics laws forcefully reaffirm the principle of non-commercialization and inalienability of the human body against any commodification."
+                },
+                {
+                    "target": "Le Comité Consultatif National d'Éthique (CCNE) émet des avis consultatifs éclairés sur les dilemmes soulevés par l'intelligence artificielle et l'assistance médicale à la procréation.",
+                    "reading": "luh koh-mee-tay kohn-sool-tah-teef nah-syoh-nahl day-teek say-say-en-uh ay-meh day zah-vee kohn-sool-tah-teef ay-kler-ray soor lay dee-lem soo-luh-vay pahr lan-tel-lee-zhahns ahr-tee-fee-syel ay lah-sees-tahns may-dee-kahl ah lah proh-kray-ah-syohn",
+                    "translation": "The National Consultative Ethics Committee (CCNE) issues reasoned advisory opinions on dilemmas raised by artificial intelligence and medically assisted procreation."
+                },
+                {
+                    "target": "La distinction fondamentale entre thérapie restauratrice et amélioration eugéniste (transhumanisme) constitue la ligne de crête des débats bioéthiques contemporains.",
+                    "reading": "lah dees-tank-syohn fohn-dah-mahn-tahl ahn-truh tay-rah-pee res-toh-rah-treess ay ah-may-lyoh-rah-syohn uh-zhay-neest trahns-oo-mah-neezm kohn-stee-too lah leen-yuh duh kret day day-bah bee-oh-ay-teek kohn-tahn-poh-ran",
+                    "translation": "The fundamental distinction between restorative therapy and eugenic enhancement (transhumanism) constitutes the dividing ridge of contemporary bioethical debates."
                 }
             ],
             "mnemonics": [
-                "Rhetorical mastery anchor for Bioéthique, Génétique et Frontières Technologiques"
+                "BIOÉTHIQUE: Non-patrimonialité du corps + Dignité humaine + Rôle du CCNE!",
+                "CRISPR-Cas9: Ciseaux génomiques (Nobel 2020 - Emmanuelle Charpentier)!"
             ],
             "culturalNotes": [
-                "High cultural and institutional significance of Bioéthique, Génétique et Frontières Technologiques in the Francophone world."
+                "French microbiologist Emmanuelle Charpentier co-invented the CRISPR-Cas9 genome editing method, winning the 2020 Nobel Prize in Chemistry."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Debate frontiers in biotechnology, genomic editing, and bioethical jur » :",
+                    "prompt": "Quel principe fondamental du droit français de la bioéthique interdit la vente d'organes ou d'éléments du corps humain ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette forme présente une anomalie phonétique en français standard (154a).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (154b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (154c)."
+                        "Le principe de non-patrimonialité du corps humain",
+                        "Le principe du libre-échange commercial",
+                        "Le principe de rentabilité financière",
+                        "Le droit de rétractation"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "La non-patrimonialité signifie que le corps humain, ses organes et ses tissus ne sont pas des marchandises et ne peuvent faire l'objet d'un commerce lucratif."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u31-l4 :",
+                    "prompt": "Quelle institution consultative française rend des avis éthiques réguliers sur les avancées des sciences du vivant ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette forme présente une anomalie phonétique en français standard (154x).",
-                        "La préposition employée ici n'est pas commandée par le verbe (154y).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (154z)."
+                        "Le CCNE (Comité Consultatif National d'Éthique)",
+                        "La Banque de France",
+                        "La SNCF",
+                        "La Bourse de Paris"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C2."
+                    "explanation": "Le CCNE, créé en 1983, est la première instance nationale d'éthique consultative au monde."
                 }
             ]
         },
@@ -16849,25 +16920,25 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u31-l4) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle scientifique française a reçu le prix Nobel de chimie en 2020 pour la découverte de l'outil d'édition génétique CRISPR-Cas9 ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette forme présente une anomalie phonétique en français standard (154m).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (154n).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (154p)."
+                        "Marie Curie",
+                        "Simone Veil",
+                        "Françoise Barré-Sinoussi",
+                        "Emmanuelle Charpentier"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 3,
+                    "explanation": "Emmanuelle Charpentier a reçu le prix Nobel de chimie 2020 pour la mise au point des ciseaux génétiques CRISPR-Cas9."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u31-l4 (terme attendu : « Nous ») :",
+                    "prompt": "Quel sigle en 4 lettres désigne le Comité Consultatif National d'Éthique ? (le _________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "CCNE",
+                        "ccne",
+                        "Ccne"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "L'instance d'éthique est le « CCNE »."
                 }
             ],
             "passThreshold": 0.8
@@ -16883,56 +16954,73 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u31-l4"
+            ]
         },
         "presentation": {
-            "explanation": "Mastery analysis of Synthèse Interdisciplinaire et Communication Scientifique. At the C2 summit level, the learner demonstrates near-native linguistic agility, flawless stylistic sophistication, and profound rhetorical command over synthèse interdisciplinaire et communication scientifique.",
+            "explanation": "Drafting an authoritative academic position paper (une note de positionnement académique ou article de synthèse interdisciplinaire) in French at the C2 level demands mastery in epistemic synthesis:\n\n1. Epistemic Interdisciplinarity:\n- Articulation entre sciences dures (biologie, physique, climatologie) et sciences humaines (droit, sociologie, éthique).\n- Fertilisation croisée des paradigmes et rigueur synthétique.\n\n2. High Academic Syntactic Formulations:\n- « Il appert que le décloisonnement disciplinaire est la condition sine qua non d'une compréhension holistique... »\n- « Loin de constituer une aporie méthodologique, la confrontation de ces approches révèle... »\n- « Au terme de cette analyse syncrétique, force est de préconiser... »",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Il appert que le décloisonnement disciplinaire entre neurosciences, intelligence artificielle et philosophie de l'esprit est la condition sine qua non d'une modélisation holistique de la conscience.",
+                    "reading": "eel ah-pair kuh luh day-klwah-zohn-mahn dees-see-plee-nair ahn-truh nuh-roh-syahns, an-tel-lee-zhahns ahr-tee-fee-syel ay fee-loh-zoh-fee duh les-pree ay lah kohn-dee-syohn see-nay kwah nohn doon moh-day-lee-zah-syohn oh-lees-teek duh lah kohn-syahns",
+                    "translation": "It appears that disciplinary un-siloing between neuroscience, artificial intelligence, and philosophy of mind is the sine qua non condition of a holistic modeling of consciousness."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Loin de constituer une aporie méthodologique, l'hybridation des approches quantitatives et qualitatives enrichit considérablement la validité écologique de nos conclusions.",
+                    "reading": "lwan duh kohn-stee-too-ay oon nah-poh-ree may-toh-doh-loh-zheek, lee-bree-dah-syohn day zah-prohsh kahn-tee-tah-teev ay kah-lee-tah-teev ahn-ree-shee kohn-see-day-rah-bluh-mahn lah vah-lee-dee-tay ay-koh-loh-zheek duh noh kohn-kloo-zyohn",
+                    "translation": "Far from constituting a methodological aporia, hybridizing quantitative and qualitative approaches considerably enriches the ecological validity of our conclusions."
+                },
+                {
+                    "target": "Cette note de synthèse préconise une refonte substantielle des politiques publiques de recherche en adossant les investissements technologiques à des comités d'éthique indépendants.",
+                    "reading": "set noht duh san-tez pray-koh-neez oon ruh-fohnt soob-stahn-syel day poh-lee-teek poo-bleek duh ruh-shairsh ahn nah-doh-sahn lay zan-ves-tees-mahn tek-noh-loh-zheek ah day koh-mee-tay day-teek an-day-pahn-dahn",
+                    "translation": "This position paper advocates a substantial overhaul of public research policies by pairing technological investments with independent ethics committees."
+                },
+                {
+                    "target": "La mise en perspective diachronique des données épidémiologiques éclaire d'un jour nouveau les corrélations causales jusqu'alors masquées par des analyses synchroniques restrictives.",
+                    "reading": "lah meez ahn pair-spek-teev dyah-kroh-neek day dohn-nay ay-pee-day-myoh-loh-zheek ay-klair doon zhoor noo-voh lay kohr-ray-lah-syohn koh-zahl zhoos-kah-lohr mahs-kay pahr day zah-nah-leez san-kroh-neek res-treek-teev",
+                    "translation": "The diachronic perspective of epidemiological data sheds new light on causal correlations hitherto obscured by restrictive synchronic analyses."
+                },
+                {
+                    "target": "En définitive, seule une gouvernance scientifique transdisciplinaire permettra de relever les défis systémiques posés par le changement climatique et l'automatisation algorithmique.",
+                    "reading": "ahn day-fee-nee-teev, suhl oon goo-vair-nahns syahn-tee-feek trahns-dees-see-plee-nair pair-meh-trah duh ruh-luh-vay lay day-fee sees-tay-meek poh-zay pahr luh shahnzh-mahn klee-mah-teek ay loh-toh-mah-tee-zah-syohn ahl-goh-reet-meek",
+                    "translation": "Ultimately, only transdisciplinary scientific governance will make it possible to meet the systemic challenges posed by climate change and algorithmic automation."
                 }
             ],
             "mnemonics": [
-                "Rhetorical mastery anchor for Synthèse Interdisciplinaire et Communication Scientifique"
+                "SYNTHÈSE SOMMITALE: Diachronique + Synchronique / Décloisonnement / Fertilisation croisée!"
             ],
             "culturalNotes": [
-                "High cultural and institutional significance of Synthèse Interdisciplinaire et Communication Scientifique in the Francophone world."
+                "The Collège de France (founded in 1530 by King Francis I) embodies highest-level interdisciplinary teaching under its motto: Docet omnia ('It teaches everything')."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Synthesize interdisciplinary research into an authoritative academic p » :",
+                    "prompt": "Que signifie l'expression latine « sine qua non » fréquemment employée dans les synthèses académiques de haut niveau ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (155a).",
-                        "Cette construction passive alourdit inutilement l'énoncé (155b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (155c)."
+                        "Une condition absolument indispensable et nécessaire",
+                        "Une erreur sans gravité",
+                        "Une signature en bas de page",
+                        "Une phrase facultative"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "« Sine qua non » (littéralement « sans quoi non ») désigne une condition rigoureusement nécessaire pour qu'une chose advienne."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u31-l5 :",
+                    "prompt": "Quelle célèbre institution française fondée en 1530 dispense des cours publics gratuits de très haut niveau dans toutes les disciplines sans délivrer de diplômes ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette construction passive alourdit inutilement l'énoncé (155x).",
-                        "Cette construction passive alourdit inutilement l'énoncé (155y).",
-                        "Cette construction passive alourdit inutilement l'énoncé (155z)."
+                        "Le Collège de France",
+                        "La Bibliothèque François-Mitterrand",
+                        "L'Opéra Garnier",
+                        "Le Conseil économique et social"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C2."
+                    "explanation": "Le Collège de France réunit d'éminents professeurs de toutes les sciences enseignant la recherche en train de se faire."
                 }
             ]
         },
@@ -16940,25 +17028,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u31-l5) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Comment qualifie-t-on une analyse qui étudie l'évolution d'un phénomène à travers le temps ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette construction passive alourdit inutilement l'énoncé (155m).",
-                        "Cette construction passive alourdit inutilement l'énoncé (155n).",
-                        "Cette construction passive alourdit inutilement l'énoncé (155p)."
+                        "Une analyse synchronique",
+                        "Une analyse statique",
+                        "Une analyse diachronique",
+                        "Une analyse géométrique"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 2,
+                    "explanation": "L'analyse « diachronique » s'intéresse à la dynamique et aux transformations historiques d'un phénomène dans le temps."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u31-l5 (terme attendu : « Nous ») :",
+                    "prompt": "Quelle locution verbale impersonnelle signifie « il apparaît clairement avec évidence » ? (il _________ que)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "appert",
+                        "Appert"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Le verbe défectif formel est « appert » (du verbe apparoir : il appert que)."
                 }
             ],
             "passThreshold": 0.8
