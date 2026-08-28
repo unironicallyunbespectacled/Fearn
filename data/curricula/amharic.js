@@ -5,9 +5,9 @@
     {
         "id": "am-u1",
         "unit": 1,
-        "title": "ፊደል እና የመጀመሪያ ሰላምታ (Alphabet & Greetings)",
+        "title": "ፊደል እና የመጀመሪያ ሰላምታ (Fidel Alphabet & Greetings)",
         "level": "A1",
-        "goal": "Mastery of ሰላምታ እና መተዋወቅ (Greetings and Introductions).",
+        "goal": "By the end of this unit, learners can read basic Fidel script principles, greet others across formal, informal, masculine, and feminine social registers, introduce themselves by name, use essential Ethiopian etiquette formulas, and say goodbye appropriately.",
         "lessonIds": [
             "am-u1-l1",
             "am-u1-l2",
@@ -482,63 +482,134 @@
   var LESSONS = {
     "am-u1-l1": {
         "id": "am-u1-l1",
-        "subject": "amharic",
-        "unit": 1,
-        "lessonNumber": 1,
-        "title": "ፊደል እና የመጀመሪያ ሰላምታ (Alphabet & Greetings) (Part 1)",
+        "unit": "am-u1",
         "level": "A1",
-        "objective": "Comprehensive mastery of ሰላምታ እና መተዋወቅ (Greetings and Introductions).",
+        "objective": "Greet others using universal (ሰላም - Selam) and formal respectful (ጤና ይስጥልኝ - Tena yisṭillign) Amharic greeting formulas.",
+        "prerequisites": [],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": []
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ሰላምታ እና መተዋወቅ (Greetings and Introductions) - ደረጃ 1) ተማሪዎች ስለ ሰላምታ እና መተዋወቅ (Greetings and Introductions) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Amharic is written in an ancient abugida syllabary known as Fidel (ፊደል). In everyday Ethiopian communication, greetings depend heavily on social distance and respect.\n\nThe most universal, versatile greeting across all of Ethiopia is « ሰላም » (Selam), which literally means 'Peace'. It can be used with friends, family, colleagues, and peers at any time of day, functioning like 'Hello' or 'Hi'.\n\nWhen greeting elders, superiors, customers, or strangers, polite etiquette requires the formal greeting « ጤና ይስጥልኝ » (Tena yisṭillign). This reverent phrase literally translates to 'May He (God) give you health for my sake' (ጤና = health, ይስጥልኝ = may He give for me). When uttering this greeting, Ethiopians often accompany it with a slight bow or a two-handed handshake as a gesture of deep cultural respect.",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የሰላምታ እና መተዋወቅ (Greetings and Introductions) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (1.1.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ሰላም፣ እንደምን ነህ?",
+                    "reading": "Selam, indemin neh?",
+                    "translation": "Hello, how are you? (to a male friend)"
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (1.1.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ጤና ይስጥልኝ፣ ክቡር አቶ በቀለ።",
+                    "reading": "Tena yisṭillign, kibur ato Bekele.",
+                    "translation": "Good day / Greetings, honorable Mr. Bekele. (formal)"
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (1.1.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ሰላም ለሁላችሁም!",
+                    "reading": "Selam lehulachihum!",
+                    "translation": "Peace / Hello to all of you!"
+                },
+                {
+                    "target": "ጤና ይስጥልኝ፣ እንዴት ነዎት?",
+                    "reading": "Tena yisṭillign, indet newot?",
+                    "translation": "Greetings, how are you? (polite/formal to an elder)"
+                },
+                {
+                    "target": "ሰላም ሰላም!",
+                    "reading": "Selam selam!",
+                    "translation": "Hey there! / Peace peace! (cheerful informal greeting)"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ሰላምታ እና መተዋወቅ (Greetings and Introductions)"
+                "« Selam » is cognate with Arabic 'Salam' and Hebrew 'Shalom' — all meaning PEACE!",
+                "« Tena yisṭillign » begins with 'Tena' (Health) — you are wishing divine health upon the listener."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "In Ethiopian culture, a handshake between acquaintances is often accompanied by touching one's own right elbow with the left hand, or bowing slightly, to convey utmost deference.",
+                "Entering a room or joining a shared meal without greeting everyone present is considered exceptionally disrespectful."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ሰላምታ እና መተዋወቅ (Greetings and Introductions)» አጠቃቀም በደረጃ 1 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "Which greeting is the universal Amharic word for 'Hello / Peace' suitable with peers?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (1.1.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (1.1.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (1.1.3)።"
+                        "አመሰግናለሁ (Ameseginalehu)",
+                        "ሰላም (Selam)",
+                        "ደህና ሁን (Dehna hun)",
+                        "ይቅርታ (Yikirta)"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "« ሰላም » (Selam) is the universal greeting meaning 'Peace / Hello'."
+                },
+                {
+                    "prompt": "How do you respectfully greet an elder or a formal guest in Amharic?",
+                    "options": [
+                        "ጤና ይስጥልኝ (Tena yisṭillign)",
+                        "ቻው (Chao)",
+                        "እሺ (Ishi)",
+                        "ስሜ (Sime)"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "« ጤና ይስጥልኝ » (Tena yisṭillign) is the formal respectful greeting."
+                },
+                {
+                    "prompt": "What does the formal greeting « ጤና ይስጥልኝ » literally translate to?",
+                    "options": [
+                        "May you have wealth",
+                        "May He give you health for my sake",
+                        "Until tomorrow",
+                        "Welcome to my home"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "ጤና (health) + ይስጥልኝ (may He give you for me)."
+                },
+                {
+                    "prompt": "What physical gesture commonly accompanies respectful greetings in Ethiopia?",
+                    "options": [
+                        "Snapping fingers",
+                        "A slight bow and two-handed handshake",
+                        "Looking away silently",
+                        "Waving both hands"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "A gentle bow and supporting the right arm with the left hand during handshakes shows deep respect."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ፊደል እና የመጀመሪያ ሰላምታ (Alphabet & Greetings)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 1)፡",
+                    "prompt": "You meet your university professor in Addis Ababa. Which greeting should you choose?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (1.1.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (1.1.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (1.1.3)።"
+                        "ጤና ይስጥልኝ",
+                        "ቻው",
+                        "ደህና ሁን",
+                        "ምንም አይደለም"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "ጤና ይስጥልኝ is the correct respectful formal register for professors and elders."
+                },
+                {
+                    "prompt": "What is the primary writing system of Amharic called?",
+                    "options": [
+                        "Hieroglyphs",
+                        "Fidel (ፊደል / Abugida)",
+                        "Cuneiform",
+                        "Devanagari"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Amharic is written in the Ge'ez-derived script known as Fidel (ፊደል)."
+                },
+                {
+                    "prompt": "Translate: 'Peace to all of you!'",
+                    "options": [
+                        "ሰላም ለሁላችሁም!",
+                        "ጤና ይስጥልኝ ለብቻህ!",
+                        "አመሰግናለሁ!",
+                        "ይቅርታ አድርጉልኝ!"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "« ሰላም ለሁላችሁም! » means 'Peace/Hello to all of you!'."
                 }
             ]
         },
@@ -546,85 +617,200 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ሰላምታ እና መተዋወቅ (Greetings and Introductions)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 1-1)?",
+                    "prompt": "Select the formal respectful Ethiopian daytime greeting:",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (1.1.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (1.1.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (1.1.3)።"
+                        "ጤና ይስጥልኝ",
+                        "ቻው ቻው",
+                        "እሺ እሺ",
+                        "ደህና ዋል"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "ጤና ይስጥልኝ (Tena yisṭillign) is the formal greeting."
+                },
+                {
+                    "type": "multiple-choice",
+                    "prompt": "What does « ሰላም » literally mean in Semitic linguistics?",
+                    "options": [
+                        "Good morning",
+                        "Peace",
+                        "Health",
+                        "Friendship"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "ሰላም literally means 'Peace'."
+                },
+                {
+                    "type": "multiple-choice",
+                    "prompt": "Which greeting is appropriate when casually meeting a close friend in a café?",
+                    "options": [
+                        "ሰላም",
+                        "ክቡር ሆይ",
+                        "ይቅርታ",
+                        "አመሰግናለሁ"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "ሰላም is the standard casual greeting."
+                },
+                {
+                    "type": "multiple-choice",
+                    "prompt": "Identify the Amharic word for 'health' embedded in « ጤና ይስጥልኝ »:",
+                    "options": [
+                        "ጤና (Tena)",
+                        "ስም (Sim)",
+                        "ቤት (Bet)",
+                        "ውሃ (Wuha)"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "ጤና (Tena) means health."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ሰላም_1_1»):",
+                    "prompt": "Type the universal Amharic word for 'Peace / Hello' in Fidel script (ሰላም):",
                     "acceptedAnswers": [
-                        "ሰላም_1_1"
+                        "ሰላም",
+                        "Selam",
+                        "selam"
                     ],
-                    "explanation": "The target keyword was: 【ሰላም_1_1】"
+                    "explanation": "ሰላም (Selam) is the universal greeting."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u1-l2": {
         "id": "am-u1-l2",
-        "subject": "amharic",
-        "unit": 1,
-        "lessonNumber": 2,
-        "title": "ፊደል እና የመጀመሪያ ሰላምታ (Alphabet & Greetings) (Part 2)",
+        "unit": "am-u1",
         "level": "A1",
-        "objective": "Comprehensive mastery of ሰላምታ እና መተዋወቅ (Greetings and Introductions).",
+        "objective": "Ask 'How are you?' and respond across grammatical genders and social registers: masculine (እንዴት ነህ?), feminine (እንዴት ነሽ?), plural (እንዴት ናችሁ?), and polite (እንዴት ነዎት?).",
+        "prerequisites": [
+            "am-u1-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u1-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ሰላምታ እና መተዋወቅ (Greetings and Introductions) - ደረጃ 2) ተማሪዎች ስለ ሰላምታ እና መተዋወቅ (Greetings and Introductions) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "In Amharic, the second-person pronoun and verb conjugation change strictly based on the GENDER and SOCIAL HIERARCHY of the person you are addressing:\n\n1. Asking a Male (2nd person masculine singular):\n- « እንዴት ነህ? » (Indet neh?) or « እንደምን አለህ? » (Indemin alleh?) -> 'How are you?'\n\n2. Asking a Female (2nd person feminine singular):\n- « እንዴት ነሽ? » (Indet nesh?) or « እንደምን አለሽ? » (Indemin allesh?) -> 'How are you?'\n\n3. Asking a Plural Group (2nd person plural):\n- « እንዴት ናችሁ? » (Indet nachihu?) or « እንደምን አላችሁ? » (Indemin allachihu?) -> 'How are you all?'\n\n4. Asking an Elder / Superior (2nd person polite formal):\n- « እንዴት ነዎት? » (Indet newot?) or « እንደምን አሉ? » (Indemin allu?) -> 'How are you, sir/madam?'\n\nStandard Positive Responses:\n- « ደህና ነኝ፣ እግዚአብሔር ይመስገን » (Dehna negn, Igziabher yimesgen) -> 'I am fine, thanks be to God.'\n- « አለሁ » (Allehu) -> 'I am well / I am here / surviving well.'",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የሰላምታ እና መተዋወቅ (Greetings and Introductions) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (1.2.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ሰላም ዳዊት፣ እንዴት ነህ?",
+                    "reading": "Selam Dawit, indet neh?",
+                    "translation": "Hello Dawit, how are you? (to a male)"
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (1.2.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ሰላም ሄለን፣ እንዴት ነሽ?",
+                    "reading": "Selam Helen, indet nesh?",
+                    "translation": "Hello Helen, how are you? (to a female)"
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (1.2.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "እንደምን አደራችሁ፣ ተማሪዎች?",
+                    "reading": "Indemin adderachihu, temariwoch?",
+                    "translation": "Good morning, students! (to a plural group)"
+                },
+                {
+                    "target": "ጤና ይስጥልኝ ጋሼ፣ እንዴት ነዎት?",
+                    "reading": "Tena yisṭillign Gashe, indet newot?",
+                    "translation": "Greetings elder brother/uncle, how are you? (polite formal)"
+                },
+                {
+                    "target": "ደህና ነኝ፣ እግዚአብሔር ይመስገን። አንተስ?",
+                    "reading": "Dehna negn, Igziabher yimesgen. Antes?",
+                    "translation": "I am fine, praise God. And you? (to male)"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ሰላምታ እና መተዋወቅ (Greetings and Introductions)"
+                "NEH = HE (addressed to a man: እንዴት ነህ - Indet neh). NESH = SHE (addressed to a woman: እንዴት ነሽ - Indet nesh)!",
+                "« Igziabher yimesgen » is the universal Ethiopian reply — attributing health and well-being to the Creator."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "In Ethiopia, regardless of religious background, answering 'How are you?' with « እግዚአብሔር ይመስገን » (Praise God) or « አልሐምዱሊላህ » is culturally standard and demonstrates gratitude and humility.",
+                "Failing to adapt 'neh' (male) vs 'nesh' (female) is an immediate grammatical tell for foreign learners."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ሰላምታ እና መተዋወቅ (Greetings and Introductions)» አጠቃቀም በደረጃ 2 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "How do you ask a female friend 'How are you?' in Amharic?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (1.2.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (1.2.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (1.2.3)።"
+                        "እንዴት ነህ? (Indet neh?)",
+                        "እንዴት ነሽ? (Indet nesh?)",
+                        "እንዴት ናችሁ? (Indet nachihu?)",
+                        "እንዴት ነዎት? (Indet newot?)"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "« እንዴት ነሽ? » (Indet nesh?) uses the feminine singular 2nd-person marker -ሽ (-sh)."
+                },
+                {
+                    "prompt": "How do you ask an elder or professor 'How are you?' politely?",
+                    "options": [
+                        "እንዴት ነህ?",
+                        "እንዴት ነሽ?",
+                        "እንዴት ነዎት? (Indet newot?)",
+                        "ደህና ነኝ"
                     ],
                     "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "« እንዴት ነዎት? » (Indet newot?) is the formal honorific form."
+                },
+                {
+                    "prompt": "What is the standard, culturally respectful answer meaning 'I am fine, praise God'?",
+                    "options": [
+                        "ደህና ነኝ፣ እግዚአብሔር ይመስገን",
+                        "ይቅርታ አድርግልኝ",
+                        "አልፈልግም",
+                        "ስሜ ዳዊት ነው"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "« ደህና ነኝ፣ እግዚአብሔር ይመስገን » (Dehna negn, Igziabher yimesgen) is standard."
+                },
+                {
+                    "prompt": "How do you ask a group of friends 'How are you all?'",
+                    "options": [
+                        "እንዴት ነህ?",
+                        "እንዴት ነሽ?",
+                        "እንዴት ናችሁ? (Indet nachihu?)",
+                        "እንዴት ነኝ?"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "« እንዴት ናችሁ? » (Indet nachihu?) is the plural form."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ፊደል እና የመጀመሪያ ሰላምታ (Alphabet & Greetings)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 2)፡",
+                    "prompt": "Translate: 'How are you, Dawit?' (Dawit is male):",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (1.2.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (1.2.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (1.2.3)።"
+                        "እንዴት ነሽ ዳዊት?",
+                        "እንዴት ነህ ዳዊት?",
+                        "እንዴት ናችሁ ዳዊት?",
+                        "እንዴት ነዎት ዳዊት?"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "« እንዴት ነህ ዳዊት? » (masculine singular)."
+                },
+                {
+                    "prompt": "After saying you are fine, how do you ask a woman 'And you?' (feminine):",
+                    "options": [
+                        "አንተስ? (Antes?)",
+                        "አንቺስ? (Anchis?)",
+                        "እናንተስ? (Enantes?)",
+                        "እርስዎስ? (Irsiwos?)"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "« አንቺስ? » (Anchis?) means 'And you?' to a female."
+                },
+                {
+                    "prompt": "What does « አለሁ » (Allehu) mean when answering a greeting?",
+                    "options": [
+                        "I am fine / I am here",
+                        "I am tired",
+                        "Goodbye",
+                        "No thank you"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "« አለሁ » (literally 'I exist / I am present') is a common relaxed reply meaning 'I'm doing well / I'm here'."
                 }
             ]
         },
@@ -632,85 +818,202 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ሰላምታ እና መተዋወቅ (Greetings and Introductions)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 1-2)?",
+                    "prompt": "Select the correct question addressed to a woman:",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (1.2.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (1.2.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (1.2.3)።"
+                        "እንዴት ነህ?",
+                        "እንዴት ነሽ?",
+                        "እንዴት ነኝ?",
+                        "እንዴት ነው?"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "እንዴት ነሽ? is the feminine question."
+                },
+                {
+                    "type": "multiple-choice",
+                    "prompt": "What suffix marks 2nd-person masculine singular in « እንዴት ነህ »?",
+                    "options": [
+                        "-ሽ (-sh)",
+                        "-ህ (-h / neh)",
+                        "-ችሁ (-chihu)",
+                        "-ዎት (-wot)"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "-ህ (-h) marks masculine singular."
+                },
+                {
+                    "type": "multiple-choice",
+                    "prompt": "Translate: 'I am fine' (Dehna negn):",
+                    "options": [
+                        "ደህና ነኝ",
+                        "ደህና ሁን",
+                        "ደህና እደር",
+                        "ደህና ዋል"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "explanation": "ደህና ነኝ (Dehna negn) = I am fine."
+                },
+                {
+                    "type": "multiple-choice",
+                    "prompt": "Which pronoun question is used to ask an elder 'And you, sir/madam?'",
+                    "options": [
+                        "አንተስ?",
+                        "አንቺስ?",
+                        "እርስዎስ? (Irsiwos?)",
+                        "እነሱስ?"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "እርስዎስ? is the formal polite 'And you?'."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ሰላም_1_2»):",
+                    "prompt": "Type the Amharic word for 'fine / well' in « ደህና ነኝ » (ደህና):",
                     "acceptedAnswers": [
-                        "ሰላም_1_2"
+                        "ደህና",
+                        "Dehna",
+                        "dehna"
                     ],
-                    "explanation": "The target keyword was: 【ሰላም_1_2】"
+                    "explanation": "ደህና (Dehna) means fine/well/safe."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u1-l3": {
         "id": "am-u1-l3",
-        "subject": "amharic",
-        "unit": 1,
-        "lessonNumber": 3,
-        "title": "ፊደል እና የመጀመሪያ ሰላምታ (Alphabet & Greetings) (Part 3)",
+        "unit": "am-u1",
         "level": "A1",
-        "objective": "Comprehensive mastery of ሰላምታ እና መተዋወቅ (Greetings and Introductions).",
+        "objective": "Introduce yourself using « ስሜ ... ይባላል » (Sime ... yiballal) or « እባላለሁ » (Iballalehu), and ask someone their name across genders.",
+        "prerequisites": [
+            "am-u1-l1",
+            "am-u1-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u1-l1",
+                "am-u1-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ሰላምታ እና መተዋወቅ (Greetings and Introductions) - ደረጃ 3) ተማሪዎች ስለ ሰላምታ እና መተዋወቅ (Greetings and Introductions) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "To state your name in Amharic, the noun « ስም » (Sim - name) takes the first-person possessive suffix -ኤ (-e), becoming « ስሜ » (Sime - my name):\n\nFormula 1: « ስሜ [ስም] ይባላል » (Sime [Name] yiballal) -> 'My name is called [Name]' (literally: My name, it is called...)\nFormula 2: « [ስም] እባላለሁ » ([Name] iballalehu) -> 'I am called [Name]'\nFormula 3: « እኔ [ስም] ነኝ » (Ine [Name] negn) -> 'I am [Name]'\n\nAsking Someone's Name:\n- To a male: « ስምህ ማን ነው? » (Simih man new?) -> 'What is your (m.) name?'\n- To a female: « ስምሽ ማን ነው? » (Simish man new?) -> 'What is your (f.) name?'\n- To an elder / formal: « ስምዎ ማን ነው? » (Simwo man new?) -> 'What is your (polite) name?'\n\nUpon meeting someone for the first time, say:\n- « ስለተዋወቅን ደስ ብሎኛል » (Siletewaweqin des bilognall) -> 'Pleased to meet you' (literally: Because we became acquainted, it has pleased me).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የሰላምታ እና መተዋወቅ (Greetings and Introductions) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (1.3.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ስሜ ዮናስ ይባላል።",
+                    "reading": "Sime Yonas yiballal.",
+                    "translation": "My name is Yonas."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (1.3.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ስምህ ማን ነው?",
+                    "reading": "Simih man new?",
+                    "translation": "What is your name? (to a male)"
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (1.3.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ስምሽ ማን ነው?",
+                    "reading": "Simish man new?",
+                    "translation": "What is your name? (to a female)"
+                },
+                {
+                    "target": "ስምዎ ማን ነው ክቡር ሆይ?",
+                    "reading": "Simwo man new kibur hoy?",
+                    "translation": "What is your name, honored sir? (formal)"
+                },
+                {
+                    "target": "ስለተዋወቅን ደስ ብሎኛል!",
+                    "reading": "Siletewaweqin des bilognall!",
+                    "translation": "Nice to meet you! (Delighted to make your acquaintance)"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ሰላምታ እና መተዋወቅ (Greetings and Introductions)"
+                "SIM = Name. Add -E for MY name (Sime), add -IH for YOUR (m) name (Simih), add -ISH for YOUR (f) name (Simish)!",
+                "« Des bilognall » = 'It brought me joy' (Des = joy/delight)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "In Ethiopia, people do not traditionally use family surnames in the Western sense. Your name consists of your given personal name followed by your father's personal name (and often grandfather's name), e.g., Abebe Bikila (Abebe, son of Bikila).",
+                "When addressing someone formally, use titles like « አቶ » (Ato - Mr.), « ወይዘሮ » (Weyzero - Mrs.), or « ወይዘሪት » (Weyzerit - Miss) before their personal first name: 'Ato Abebe'."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ሰላምታ እና መተዋወቅ (Greetings and Introductions)» አጠቃቀም በደረጃ 3 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "How do you say 'My name is Almaz' in Amharic?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (1.3.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (1.3.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (1.3.3)።"
+                        "ስሜ አልማዝ ይባላል።",
+                        "ስምህ አልማዝ ነው?",
+                        "ስምሽ አልማዝ ነው።",
+                        "እሷ አልማዝ ናት።"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "« ስሜ አልማዝ ይባላል » (Sime Almaz yiballal) is the standard formula."
+                },
+                {
+                    "prompt": "How do you ask a man his name?",
+                    "options": [
+                        "ስምሽ ማን ነው?",
+                        "ስምህ ማን ነው? (Simih man new?)",
+                        "ስሜ ማን ነው?",
+                        "ስማቸው ማን ነው?"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "« ስምህ ማን ነው? » uses -ህ (-ih) for masculine singular."
+                },
+                {
+                    "prompt": "How do you ask a woman her name?",
+                    "options": [
+                        "ስምህ ማን ነው?",
+                        "ስምሽ ማን ነው? (Simish man new?)",
+                        "ስምዎ ማን ነው?",
+                        "ስሜ ማን ነው?"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "« ስምሽ ማን ነው? » uses -ሽ (-ish) for feminine singular."
+                },
+                {
+                    "prompt": "What expression translates to 'Nice to meet you' in Amharic?",
+                    "options": [
+                        "ደህና ሁን",
+                        "ስለተዋወቅን ደስ ብሎኛል (Siletewaweqin des bilognall)",
+                        "ይቅርታ",
+                        "አመሰግናለሁ"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "« ስለተዋወቅን ደስ ብሎኛል » means 'Nice to meet you'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ፊደል እና የመጀመሪያ ሰላምታ (Alphabet & Greetings)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 3)፡",
+                    "prompt": "How is an Ethiopian full name structured?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (1.3.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (1.3.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (1.3.3)።"
+                        "Given Name + Mother's Maiden Name",
+                        "Given Name + Father's Given Name",
+                        "Family Surname + Given Name",
+                        "City of Birth + Given Name"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "Ethiopian naming structure is Personal Name + Father's Name."
+                },
+                {
+                    "prompt": "Translate: 'I am called Thomas' (using iballalehu):",
+                    "options": [
+                        "ቶማስ እባላለሁ።",
+                        "ቶማስ ይባላል።",
+                        "ስምሽ ቶማስ ነው።",
+                        "ቶማስ ነሽ።"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "« ቶማስ እባላለሁ » means 'I am called Thomas'."
+                },
+                {
+                    "prompt": "What is the polite title for 'Mr.' in Amharic?",
+                    "options": [
+                        "ወይዘሮ (Mrs.)",
+                        "አቶ (Ato)",
+                        "ጋሼ",
+                        "መምህር"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "« አቶ » (Ato) is the formal title for 'Mr.'."
                 }
             ]
         },
@@ -718,85 +1021,203 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ሰላምታ እና መተዋወቅ (Greetings and Introductions)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 1-3)?",
+                    "prompt": "Complete the self-introduction: « ___ ዮሐንስ ይባላል። »",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (1.3.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (1.3.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (1.3.3)።"
+                        "ስሜ",
+                        "ስምህ",
+                        "ስምሽ",
+                        "ስሙ"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "ስሜ (Sime) = My name."
+                },
+                {
+                    "type": "multiple-choice",
+                    "prompt": "Which question is addressed to a female addressee?",
+                    "options": [
+                        "ስምህ ማን ነው?",
+                        "ስምሽ ማን ነው?",
+                        "ስምዎ ማን ነው?",
+                        "ስሜ ማን ነው?"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "explanation": "ስምሽ ማን ነው? is feminine."
+                },
+                {
+                    "type": "multiple-choice",
+                    "prompt": "What does « ማን ነው? » (Man new?) mean in Amharic?",
+                    "options": [
+                        "Where is it?",
+                        "Who / What is it?",
+                        "How much is it?",
+                        "When is it?"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "ማን (Man) means 'who/what'."
+                },
+                {
+                    "type": "multiple-choice",
+                    "prompt": "What does « ስለተዋወቅን ደስ ብሎኛል » express upon meeting someone?",
+                    "options": [
+                        "Pleased to meet you",
+                        "Goodbye until tomorrow",
+                        "I don't understand",
+                        "Please forgive me"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Pleased to meet you."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ሰላም_1_3»):",
+                    "prompt": "Type the Amharic word for 'My name' in Fidel script (ስሜ):",
                     "acceptedAnswers": [
-                        "ሰላም_1_3"
+                        "ስሜ",
+                        "Sime",
+                        "sime"
                     ],
-                    "explanation": "The target keyword was: 【ሰላም_1_3】"
+                    "explanation": "ስሜ (Sime) means 'My name'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u1-l4": {
         "id": "am-u1-l4",
-        "subject": "amharic",
-        "unit": 1,
-        "lessonNumber": 4,
-        "title": "ፊደል እና የመጀመሪያ ሰላምታ (Alphabet & Greetings) (Part 4)",
+        "unit": "am-u1",
         "level": "A1",
-        "objective": "Comprehensive mastery of ሰላምታ እና መተዋወቅ (Greetings and Introductions).",
+        "objective": "Use essential Ethiopian courtesy expressions: please (እባክህ / እባክሽ / እባክዎ), thank you (አመሰግናለሁ), you're welcome (ምንም አይደለም), and excuse me / sorry (ይቅርታ).",
+        "prerequisites": [
+            "am-u1-l1",
+            "am-u1-l2",
+            "am-u1-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u1-l1",
+                "am-u1-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ሰላምታ እና መተዋወቅ (Greetings and Introductions) - ደረጃ 4) ተማሪዎች ስለ ሰላምታ እና መተዋወቅ (Greetings and Introductions) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Politeness formulas in Amharic reflect traditional Ethiopian warmth, hospitality (እንግዳ ተቀባይነት), and respect:\n\n1. Saying 'Please':\n- To a male: « እባክህ » (Ibakih)\n- To a female: « እባክሽ » (Ibakish)\n- To a group: « እባካችሁ » (Ibakachihu)\n- To an elder / formal: « እባክዎ » (Ibakwo) or « እባክዎትን » (Ibakwotin)\n\n2. Saying 'Thank you':\n- « አመሰግናለሁ » (Ameseginalehu) -> 'Thank you' (literally: I praise/thank)\n- « በጣም አመሰግናለሁ » (Beṭam ameseginalehu) -> 'Thank you very much' (በጣም = very much)\n- Traditional blessing response: « እግዚአብሔር ይስጥልኝ » (Igziabher yisṭillign) -> 'May God reward/give you on my behalf'\n\n3. Saying 'You're welcome / It's nothing':\n- « ምንም አይደለም » (Minim aydellem) -> 'It's nothing / No problem at all' (ምንም = nothing, አይደለም = it is not)\n\n4. Saying 'Excuse me / Sorry':\n- « ይቅርታ » (Yikirta) -> 'Excuse me / Pardon / Forgiveness'\n- « ይቅርታ አድርግልኝ » (Yikirta adriglign) -> 'Please forgive me' (to a male)",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የሰላምታ እና መተዋወቅ (Greetings and Introductions) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (1.4.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "እባክሽ ውሃ ስጪኝ።",
+                    "reading": "Ibakish wuha sichign.",
+                    "translation": "Please give me water. (to a female)"
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (1.4.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "በጣም አመሰግናለሁ ለረዳኸኝ!",
+                    "reading": "Beṭam ameseginalehu leredahegn!",
+                    "translation": "Thank you very much for helping me!"
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (1.4.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ምንም አይደለም፣ ደስ ብሎኛል።",
+                    "reading": "Minim aydellem, des bilognall.",
+                    "translation": "You're welcome / It's nothing, my pleasure."
+                },
+                {
+                    "target": "ይቅርታ፣ መንገዱ የት ነው?",
+                    "reading": "Yikirta, mengedu yet new?",
+                    "translation": "Excuse me, where is the road / street?"
+                },
+                {
+                    "target": "እባክዎ እዚህ ይቀመጡ።",
+                    "reading": "Ibakwo izzih yiqemeṭu.",
+                    "translation": "Please sit here. (polite to an elder)"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ሰላምታ እና መተዋወቅ (Greetings and Introductions)"
+                "AMESEGINALEHU: Imagine saying 'A message in a hug' to remember thanking someone warmly!",
+                "YIKIRTA = Pardon / Excuse me (think of asking to 'clear' the way)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "When someone serves you traditional Ethiopian coffee (ቡና - Buna) or offers a food morsel by hand (ጉርሻ - Gursha), responding with « እግዚአብሔር ይስጥልኝ » or « አመሰግናለሁ » is essential etiquette.",
+                "Refusing a 'Gursha' (feeding a bite of injera to a guest with one's right hand) is seen as rejecting friendship."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ሰላምታ እና መተዋወቅ (Greetings and Introductions)» አጠቃቀም በደረጃ 4 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "How do you say 'Thank you very much' in Amharic?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (1.4.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (1.4.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (1.4.3)።"
+                        "በጣም አመሰግናለሁ (Beṭam ameseginalehu)",
+                        "ምንም አይደለም",
+                        "ይቅርታ",
+                        "እባክህ"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "« በጣም አመሰግናለሁ » means 'Thank you very much'."
+                },
+                {
+                    "prompt": "What is the polite response to 'Thank you' meaning 'It's nothing / You're welcome'?",
+                    "options": [
+                        "ሰላም",
+                        "ምንም አይደለም (Minim aydellem)",
+                        "ስሜ ዳዊት ነው",
+                        "እንዴት ነህ"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "« ምንም አይደለም » (Minim aydellem) means 'It's nothing / You're welcome'."
+                },
+                {
+                    "prompt": "How do you say 'Please' when asking an older woman or respected official?",
+                    "options": [
+                        "እባክህ",
+                        "እባክሽ",
+                        "እባክዎ / እባክዎትን (Ibakwo)",
+                        "አመሰግናለሁ"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "« እባክዎ » (Ibakwo) is the formal respectful form of 'Please'."
+                },
+                {
+                    "prompt": "You accidentally bump into someone in a market. What should you immediately say?",
+                    "options": [
+                        "ይቅርታ (Yikirta)",
+                        "ደህና ሁን",
+                        "ምንም አይደለም",
+                        "እሺ"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "« ይቅርታ » (Yikirta) means 'Excuse me / Pardon / Sorry'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ፊደል እና የመጀመሪያ ሰላምታ (Alphabet & Greetings)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 4)፡",
+                    "prompt": "How do you say 'Please' to a male peer?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (1.4.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (1.4.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (1.4.3)።"
+                        "እባክሽ",
+                        "እባክህ (Ibakih)",
+                        "እባክዎ",
+                        "እባካችሁ"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "« እባክህ » is the masculine singular form."
+                },
+                {
+                    "prompt": "What does « እግዚአብሔር ይስጥልኝ » mean when said after receiving a favor or gift?",
+                    "options": [
+                        "May God reward you for me",
+                        "Goodbye forever",
+                        "I am very sorry",
+                        "Where is the church?"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "It is a heartfelt blessing meaning 'May God give to you on my behalf'."
+                },
+                {
+                    "prompt": "What is the traditional Ethiopian practice of feeding a bite of food to a guest called?",
+                    "options": [
+                        "ቡና (Buna)",
+                        "ጉርሻ (Gursha)",
+                        "ፊደል (Fidel)",
+                        "ሰላም (Selam)"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "« ጉርሻ » (Gursha) is the warm cultural gesture of feeding a morsel to someone."
                 }
             ]
         },
@@ -804,85 +1225,204 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ሰላምታ እና መተዋወቅ (Greetings and Introductions)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 1-4)?",
+                    "prompt": "Translate: 'Thank you' in standard Amharic:",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (1.4.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (1.4.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (1.4.3)።"
+                        "አመሰግናለሁ",
+                        "ይቅርታ",
+                        "እባክህ",
+                        "ምንም አይደለም"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "አመሰግናለሁ (Ameseginalehu) = Thank you."
+                },
+                {
+                    "type": "multiple-choice",
+                    "prompt": "What does « ይቅርታ » mean?",
+                    "options": [
+                        "Thank you",
+                        "Excuse me / Sorry",
+                        "Please",
+                        "Welcome"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "ይቅርታ (Yikirta) = Excuse me / Sorry."
+                },
+                {
+                    "type": "multiple-choice",
+                    "prompt": "How do you say 'Please' to a woman?",
+                    "options": [
+                        "እባክህ",
+                        "እባክሽ",
+                        "እባክዎ",
+                        "እባካችሁ"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "እባክሽ (Ibakish) is feminine."
+                },
+                {
+                    "type": "multiple-choice",
+                    "prompt": "What is the meaning of « በጣም » in « በጣም አመሰግናለሁ »?",
+                    "options": [
+                        "Little",
+                        "Very / Very much",
+                        "Today",
+                        "Always"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "በጣም (Beṭam) = Very / Very much."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ሰላም_1_4»):",
+                    "prompt": "Type the Amharic word for 'Thank you' in Fidel script (አመሰግናለሁ):",
                     "acceptedAnswers": [
-                        "ሰላም_1_4"
+                        "አመሰግናለሁ",
+                        "Ameseginalehu",
+                        "ameseginalehu"
                     ],
-                    "explanation": "The target keyword was: 【ሰላም_1_4】"
+                    "explanation": "አመሰግናለሁ (Ameseginalehu) means 'Thank you'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u1-l5": {
         "id": "am-u1-l5",
-        "subject": "amharic",
-        "unit": 1,
-        "lessonNumber": 5,
-        "title": "ፊደል እና የመጀመሪያ ሰላምታ (Alphabet & Greetings) (Part 5)",
+        "unit": "am-u1",
         "level": "A1",
-        "objective": "Comprehensive mastery of ሰላምታ እና መተዋወቅ (Greetings and Introductions).",
+        "objective": "Master Fidel vowel orders (ግዕዝ እስከ ሳብዕ) and express appropriate farewell formulas (ደህና ሁን / ሁኚ / ሁኑ / ይሁኑ and ቻው).",
+        "prerequisites": [
+            "am-u1-l1",
+            "am-u1-l2",
+            "am-u1-l3",
+            "am-u1-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u1-l1",
+                "am-u1-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ሰላምታ እና መተዋወቅ (Greetings and Introductions) - ደረጃ 5) ተማሪዎች ስለ ሰላምታ እና መተዋወቅ (Greetings and Introductions) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "The Fidel writing system is an Abugida: each symbol represents a consonant combined with an inherent vowel sound. Every basic consonant character has SEVEN standard vowel modifications called Orders (ወገኖች / ዓዕማድ):\n\n1. 1st Order — ግዕዝ (Ge'ez): inherent /ä/ or /e/ sound (e.g., ሀ - hä, ለ - lä, መ - mä, ሰ - sä)\n2. 2nd Order — ካዕብ (Ka'ib): /u/ sound (e.g., ሁ - hu, ሉ - lu, ሙ - mu, ሱ - su)\n3. 3rd Order — ሣልስ (Salis): /i/ sound (e.g., ሂ - hi, ሊ - li, ሚ - mi, ሲ - si)\n4. 4th Order — ራብዕ (Rabi'): /a/ long sound (e.g., ሃ - ha, ላ - la, ማ - ma, ሳ - sa)\n5. 5th Order — ኃምስ (Hamis): /e/ sound (e.g., ሄ - he, ሌ - le, ሜ - me, ሴ - se)\n6. 6th Order — ሳድስ (Sadis): short /ɨ/ or bare consonant without vowel (e.g., ህ - h/hɨ, ል - l/lɨ, ም - m/mɨ, ስ - s/sɨ)\n7. 7th Order — ሳብዕ (Sabi'): /o/ sound (e.g., ሆ - ho, ሎ - lo, ሞ - mo, ሶ - so)\n\nFarewells & Parting Formulas in Amharic:\n- To a male: « ደህና ሁን » (Dehna hun) -> 'Goodbye / Stay safe (m.)'\n- To a female: « ደህና ሁኚ » (Dehna hugni) -> 'Goodbye / Stay safe (f.)'\n- To a group: « ደህና ሁኑ » (Dehna hunu) -> 'Goodbye (plural)'\n- To an elder / formal: « ደህና ይሁኑ » (Dehna yihunu) -> 'Goodbye (formal)'\n- Daytime parting: « ደህና ዋል / ዋዪ / ዋሉ » (Dehna wal / wayi / walu) -> 'Have a good day'\n- Nighttime parting: « ደህና እደር / እደሪ / እደሩ » (Dehna ider / ideri / ideru) -> 'Good night'\n- Casual modern farewell: « ቻው » (Chao - borrowed from Italian).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የሰላምታ እና መተዋወቅ (Greetings and Introductions) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (1.5.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ደህና ሁን ዳዊት፣ ነገ እንገናኛለን።",
+                    "reading": "Dehna hun Dawit, nege innigenagnallen.",
+                    "translation": "Goodbye Dawit, we will meet tomorrow."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (1.5.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ደህና ሁኚ ሄለን፣ ሰላም ሁኚ።",
+                    "reading": "Dehna hugni Helen, selam hugni.",
+                    "translation": "Goodbye Helen, stay well."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (1.5.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ደህና እደሩ፣ መልካም ሌሊት!",
+                    "reading": "Dehna ideru, melkam lelit!",
+                    "translation": "Good night to you all, sweet dreams!"
+                },
+                {
+                    "target": "ደህና ይሁኑ ክቡር አቶ ተፈራ።",
+                    "reading": "Dehna yihunu kibur ato Tefera.",
+                    "translation": "Farewell and stay well, honored Mr. Tefera. (formal)"
+                },
+                {
+                    "target": "ቻው፣ በደህና ግባ!",
+                    "reading": "Chao, bedehna giba!",
+                    "translation": "Bye, arrive safely! (casual)"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ሰላምታ እና መተዋወቅ (Greetings and Introductions)"
+                "7 Orders Rhyme: Ge'ez (ä), Ka'ib (u), Salis (i), Rabi' (a), Hamis (e), Sadis (bare), Sabi' (o)!",
+                "« Dehna hun » = Be healthy/safe! (Hun = be m., Hugni = be f., Hunu = be pl.)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Wishing someone a good night in Amharic (« ደህና እደር ») literally means 'Pass the night in health and safety'.",
+                "Italian loan words like « ቻው » (Chao) entered urban Ethiopian slang during the 1930s and remain extremely common among younger generations."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ሰላምታ እና መተዋወቅ (Greetings and Introductions)» አጠቃቀም በደረጃ 5 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "How many vowel orders (forms) does each basic consonant letter have in the Fidel syllabary?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (1.5.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (1.5.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (1.5.3)።"
+                        "3 orders",
+                        "5 orders",
+                        "7 orders (ግዕዝ እስከ ሳብዕ)",
+                        "12 orders"
                     ],
                     "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "Fidel consonants each have 7 vowel orders."
+                },
+                {
+                    "prompt": "How do you say 'Goodbye / Stay safe' to a female friend?",
+                    "options": [
+                        "ደህና ሁን",
+                        "ደህና ሁኚ (Dehna hugni)",
+                        "ደህና ሁኑ",
+                        "ደህና እደር"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "« ደህና ሁኚ » is the feminine singular farewell."
+                },
+                {
+                    "prompt": "What is the 4th order (ራብዕ) vowel sound in the Fidel system?",
+                    "options": [
+                        "/ä/",
+                        "/u/",
+                        "/i/",
+                        "/a/ (long open 'a')"
+                    ],
+                    "answerIndex": 3,
+                    "explanation": "The 4th order (ራብዕ) represents the open /a/ sound (e.g. ሃ, ላ, ማ, ሳ)."
+                },
+                {
+                    "prompt": "How do you say 'Good night' to a male friend?",
+                    "options": [
+                        "ደህና እደር (Dehna ider)",
+                        "ደህና ዋል",
+                        "ደህና ሁኚ",
+                        "ጤና ይስጥልኝ"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "« ደህና እደር » (Dehna ider) wishes a good night to a male."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ፊደል እና የመጀመሪያ ሰላምታ (Alphabet & Greetings)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 5)፡",
+                    "prompt": "Translate: 'Goodbye to all of you!' (plural):",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (1.5.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (1.5.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (1.5.3)።"
+                        "ደህና ሁን",
+                        "ደህና ሁኚ",
+                        "ደህና ሁኑ! (Dehna hunu!)",
+                        "ደህና እደር"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "« ደህና ሁኑ » is plural."
+                },
+                {
+                    "prompt": "Which Fidel order represents the bare consonant sound without an inherent vowel?",
+                    "options": [
+                        "1st order (ግዕዝ)",
+                        "4th order (ራብዕ)",
+                        "6th order (ሳድስ - Sadis)",
+                        "7th order (ሳብዕ)"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "The 6th order (ሳድስ) represents the bare consonant or short /ɨ/."
+                },
+                {
+                    "prompt": "What casual farewell borrowed from Italian is common in urban Addis Ababa?",
+                    "options": [
+                        "ሰላም",
+                        "ቻው (Chao)",
+                        "እሺ",
+                        "አዎ"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "« ቻው » (Chao) is widely used informally."
                 }
             ]
         },
@@ -890,24 +1430,64 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ሰላምታ እና መተዋወቅ (Greetings and Introductions)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 1-5)?",
+                    "prompt": "Select the correct farewell addressed to an elder or respected superior:",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (1.5.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (1.5.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (1.5.3)።"
+                        "ደህና ይሁኑ (Dehna yihunu)",
+                        "ደህና ሁን",
+                        "ቻው ቻው",
+                        "ደህና ሁኚ"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "explanation": "ደህና ይሁኑ is the formal respectful farewell."
+                },
+                {
+                    "type": "multiple-choice",
+                    "prompt": "Which order of the letter 'ሰ' is 'ሱ' (su)?",
+                    "options": [
+                        "1st Order (Ge'ez)",
+                        "2nd Order (Ka'ib)",
+                        "3rd Order (Salis)",
+                        "7th Order (Sabi')"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "ሱ (su) is the 2nd order (Ka'ib)."
+                },
+                {
+                    "type": "multiple-choice",
+                    "prompt": "What does « ደህና ዋል » mean when parting during the daytime?",
+                    "options": [
+                        "Have a good day",
+                        "Have a good night",
+                        "Eat well",
+                        "Happy birthday"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "ደህና ዋል = Have a good day (daytime parting)."
+                },
+                {
+                    "type": "multiple-choice",
+                    "prompt": "Translate: 'Good night' to a female friend (Dehna ideri):",
+                    "options": [
+                        "ደህና እደር",
+                        "ደህና እደሪ",
+                        "ደህና እደሩ",
+                        "ደህና ዋዪ"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "ደህና እደሪ (feminine singular)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ሰላም_1_5»):",
+                    "prompt": "Type the Amharic farewell meaning 'Stay safe / Goodbye (m.)' in Fidel script (ደህና ሁን):",
                     "acceptedAnswers": [
-                        "ሰላም_1_5"
+                        "ደህና ሁን",
+                        "Dehna hun",
+                        "dehna hun"
                     ],
-                    "explanation": "The target keyword was: 【ሰላም_1_5】"
+                    "explanation": "ደህና ሁን (Dehna hun) is the masculine farewell."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u2-l1": {
