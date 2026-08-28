@@ -13254,56 +13254,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u24-l5"
+            ]
         },
         "presentation": {
-            "explanation": "Rigorous academic exposition of Les Fondements du Droit Civil et les Sources du Droit. At the CEFR C1 level, learners develop mastery in abstract conceptualization, domain-specific terminology, and sophisticated syntactic structures required for academic, legal, and intellectual fluency in French.",
+            "explanation": "The French legal system (le droit romano-germanique / civiliste) is structured around written codified law and a strict hierarchy of norms (la pyramide de Kelsen):\n\n1. Hierarchy of Norms (La Hiérarchie des Normes):\n- Le Bloc de constitutionnalité (Constitution de 1958, DDHC de 1789, Préambule de 1946, Charte de l'environnement).\n- Le Bloc de conventionnalité (Traités internationaux, Droit de l'UE, CEDH).\n- Le Bloc de légalité (Lois organiques, lois ordinaires, ordonnances ratifiées).\n- Le Bloc réglementaire (Décrets, arrêtés ministériels, préfectoraux, municipaux).\n\n2. The Civil Code & Sources of Law (Le Code civil et les Sources du Droit):\n- Promulgated in 1804 under Napoleon (le Code Napoléon).\n- La loi écrite (primary source), la coutume (customary practices), la jurisprudence (court precedents from Cour de cassation and Conseil d'État), and la doctrine (academic legal commentary).\n\n3. Fundamental Principles:\n- Non-rétroactivité des lois (Article 2 du Code civil : « La loi ne dispose que pour l'avenir ; elle n'a point d'effet rétroactif »).\n- Sécurité juridique et primauté du droit.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "En vertu du principe de la hiérarchie des normes, tout décret d'application doit être strictement conforme aux dispositions de la loi habilitante.",
+                    "reading": "ahn vair-too doo pran-seep duh lah yay-rahr-shee day nohrm, too day-kreh dah-plee-kah-syohn dwah teh-truh streek-tuh-mahn kohn-fohrm oh dees-poh-zee-syohn duh lah lwah ah-bee-lee-tahnt",
+                    "translation": "By virtue of the hierarchy of norms principle, any implementing decree must comply strictly with the provisions of the enabling law."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "La jurisprudence constante de la Cour de cassation confère à la bonne foi contractuelle une portée impérative d'ordre public.",
+                    "reading": "lah zhoo-rees-proo-dahns kohn-stahnt duh lah koor duh kah-sah-syohn kohn-fair ah lah bohn fwah kohn-trahk-twel oon pohr-tay an-pay-rah-teev dohr-druh poo-bleek",
+                    "translation": "The settled case law of the Court of Cassation confers an imperative public policy scope upon contractual good faith."
+                },
+                {
+                    "target": "L'article deux du Code civil consacre le principe fondamental de la non-rétroactivité des lois nouvelles afin de garantir la sécurité juridique.",
+                    "reading": "lahr-teekl duh doo kohd see-veel kohn-sah-kruh luh pran-seep fohn-dah-mahn-tahl duh lah nohn-ray-troh-ahk-tee-vee-tay day lwah noo-vel ah-fan duh gah-rahn-teer lah say-koo-ree-tay zhoo-ree-deek",
+                    "translation": "Article 2 of the Civil Code enshrines the fundamental principle of the non-retroactivity of new laws to guarantee legal certainty."
+                },
+                {
+                    "target": "La doctrine juridique universitaire analyse les revirements de jurisprudence pour en dégager les futures orientations doctrinales.",
+                    "reading": "lah dohk-treen zhoo-ree-deek oo-nee-vair-see-tair ah-nah-leez lay ruh-veer-mahn duh zhoo-rees-proo-dahns poor ahn day-gah-zhay lay foo-toor zoh-ryan-tah-syohn dohk-tree-nahl",
+                    "translation": "Scholarly legal doctrine analyzes reversals of case law to outline future doctrinal orientations."
+                },
+                {
+                    "target": "Le Conseil constitutionnel veille à la conformité des lois votées par le Parlement avec le bloc de constitutionnalité.",
+                    "reading": "luh kohn-seh kohn-stee-too-syoh-nel vehy ah lah kohn-fohr-mee-tay day lwah voh-tay pahr luh pahr-luh-mahn ah-vek luh blohk duh kohn-stee-too-syoh-nah-lee-tay",
+                    "translation": "The Constitutional Council ensures the conformity of laws passed by Parliament with the constitutional block."
                 }
             ],
             "mnemonics": [
-                "Conceptual anchor for Les Fondements du Droit Civil et les Sources du Droit"
+                "PYRAMIDE DE KELSEN: Constitution > Traités > Lois > Règlements!",
+                "ARTICLE 2: La loi ne dispose que pour l'avenir!"
             ],
             "culturalNotes": [
-                "Epistemological and institutional significance of Les Fondements du Droit Civil et les Sources du Droit in France."
+                "The French Civil Code of 1804 was a monumental milestone in world legal history, inspiring the legal codes of over 30 countries in Europe, Latin America, and Africa."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Analyze the architecture of the French Civil Code (Code civil) and sou » :",
+                    "prompt": "Quel principe fondamental énoncé à l'article 2 du Code civil garantit que les lois ne s'appliquent pas au passé ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (121a).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (121b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (121c)."
+                        "La non-rétroactivité des lois",
+                        "L'autorité de la chose jugée",
+                        "Le secret professionnel",
+                        "La présomption d'innocence"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "L'article 2 dispose : « La loi ne dispose que pour l'avenir ; elle n'a point d'effet rétroactif » (principe de non-rétroactivité)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u25-l1 :",
+                    "prompt": "Quelle juridiction suprême de l'ordre judiciaire unifie l'interprétation de la jurisprudence en France ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "L'antériorité temporelle est mal établie par rapport au repère (121x).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (121y).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (121z)."
+                        "La Cour de cassation",
+                        "Le Conseil d'État",
+                        "Le Tribunal de commerce",
+                        "Le Conseil des prud'hommes"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C1."
+                    "explanation": "La Cour de cassation est la juridiction suprême de l'ordre judiciaire français chargée d'unifier la jurisprudence."
                 }
             ]
         },
@@ -13311,25 +13329,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u25-l1) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Au sommet de la hiérarchie des normes en droit français, quel ensemble juridique prime sur toutes les lois ordinaires ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'antériorité temporelle est mal établie par rapport au repère (121m).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (121n).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (121p)."
+                        "Les circulaires administratives",
+                        "Le bloc de constitutionnalité",
+                        "Les arrêtés municipaux",
+                        "Les avis doctrinaux"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 1,
+                    "explanation": "Le « bloc de constitutionnalité » (Constitution de 1958, DDHC de 1789, Préambule de 1946 et Charte de l'environnement) est au sommet absolu de la hiérarchie des normes."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u25-l1 (terme attendu : « Nous ») :",
+                    "prompt": "Quel mot désigne l'ensemble des décisions rendues par les tribunaux créant des précédents d'interprétation ? (la _________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "jurisprudence",
+                        "Jurisprudence"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "L'ensemble des décisions de justice s'appelle la « jurisprudence »."
                 }
             ],
             "passThreshold": 0.8
@@ -13345,56 +13362,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u25-l1"
+            ]
         },
         "presentation": {
-            "explanation": "Rigorous academic exposition of La Typologie et l'Interprétation des Clauses Contractuelles. At the CEFR C1 level, learners develop mastery in abstract conceptualization, domain-specific terminology, and sophisticated syntactic structures required for academic, legal, and intellectual fluency in French.",
+            "explanation": "In French contract law (le droit des obligations, reformed in 2016), contractual clauses define rights, remedies, and risk allocations:\n\n1. Key Contractual Clauses (Les Clauses Essentielles):\n- La clause résolutoire : Automatic termination of the contract upon breach without judicial intervention ('de plein droit et sans mise en demeure préalable').\n- La clause pénale : Pre-liquidated damages fixed in advance in case of non-performance ('fixer forfaitairement les dommages-intérêts').\n- La clause de force majeure : Suspends or terminates obligations in case of an event that is imprévisible, irrésistible et extérieur.\n- La clause de non-concurrence : Must be limited in time, space, specific to the activity, and contain une contrepartie financière obligatoire in labor law.\n\n2. Legal Mechanics & Validity:\n- L'obligation de moyens (best efforts) vs l'obligation de résultat (strict liability for outcome).\n- Vices du consentement : erreur, dol, violence.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "En cas d'inexécution par l'une des parties de ses obligations contractuelles, la clause résolutoire s'appliquera de plein droit après mise en demeure infructueuse.",
+                    "reading": "ahn kah deen-neg-zay-koo-syohn pahr loon day pahr-tee duh say zoh-blee-gah-syohn kohn-trahk-twel, lah klohz ray-zoh-loo-twahr sah-plee-kruh duh plan drwah ah-preh meez ahn duh-muhr an-frook-twuhz",
+                    "translation": "In the event of non-performance by either party of its contractual obligations, the termination clause will apply automatically following unsuccessful formal notice."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "La clause de non-concurrence stipule une interdiction d'exercer sur le territoire métropolitain pendant une durée de deux ans moyennant une contrepartie pécuniaire.",
+                    "reading": "lah klohz duh nohn-kohn-koo-rahns stee-pool oon nan-tair-deek-syohn deg-zair-say soor luh teh-ree-twahr may-troh-poh-lee-tan pahn-dahn oon doo-ray duh duh zahn mwah-yeh-nahnt oon kohn-truh-pahr-tee pay-koo-nyair",
+                    "translation": "The non-compete clause stipulates a ban on practicing within metropolitan territory for a duration of two years in exchange for financial consideration."
+                },
+                {
+                    "target": "Les événements de force majeure doivent cumulativement revêtir un caractère imprévisible, irrésistible et extérieur pour exonérer le débiteur de sa responsabilité.",
+                    "reading": "lay zay-ven-mahn duh fohrs mah-zhuhr dwahvt koo-moo-lah-teev-mahn ruh-veh-teer uhn kah-rahk-tair an-pray-vee-zeebl, ee-ray-zees-teebl ay eks-tay-ryuhr poor eg-zoh-nay-ray luh day-bee-tuhr duh sah res-pohn-sah-bee-lee-tay",
+                    "translation": "Force majeure events must cumulatively possess an unforeseeable, irresistible, and external nature to release the debtor from liability."
+                },
+                {
+                    "target": "Le juge dispose du pouvoir modérateur de réviser à la hausse ou à la baisse le montant excessif ou dérisoire d'une clause pénale.",
+                    "reading": "luh zhoozh dees-pohz doo poo-vwahr moh-day-rah-tuhr duh ray-vee-zay ah lah ohs oo ah lah bays luh mohn-tahn nek-seh-seef oo day-ree-zwahr doon klohz pay-nahl",
+                    "translation": "The judge possesses the moderating power to revise upwards or downwards the excessive or derisory amount of a penalty clause."
+                },
+                {
+                    "target": "Le débiteur d'une obligation de résultat est présumé fautif par le seul fait que le résultat convenu n'a pas été atteint.",
+                    "reading": "luh day-bee-tuhr doon noh-blee-gah-syohn duh ray-zool-tah ay pray-zoo-may foh-teef pahr luh suhl feh kuh luh ray-zool-tah kohn-vuh-noo nah pah zay-tay ah-tan",
+                    "translation": "The debtor of an obligation of result is presumed at fault by the mere fact that the agreed outcome was not attained."
                 }
             ],
             "mnemonics": [
-                "Conceptual anchor for La Typologie et l'Interprétation des Clauses Contractuelles"
+                "FORCE MAJEURE TRIAD: 1. Imprévisible, 2. Irrésistible, 3. Extérieur!",
+                "NON-CONCURRENCE = Time limited + Space limited + PAID consideration!"
             ],
             "culturalNotes": [
-                "Epistemological and institutional significance of La Typologie et l'Interprétation des Clauses Contractuelles in France."
+                "Following the landmark 2016 French contract law reform (Ordonnance du 10 février 2016), the Civil Code codified the theory of unforeseen circumstances (l'imprévision - Art. 1195)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Interpret and draft contractual clauses (clause résolutoire, force maj » :",
+                    "prompt": "Quelles sont les trois conditions cumulatives traditionnelles de la force majeure en droit français ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "La préposition employée ici n'est pas commandée par le verbe (122a).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (122b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (122c)."
+                        "Imprévisible, irrésistible et extérieur",
+                        "Secret, rapide et coûteux",
+                        "Oral, informel et négociable",
+                        "Politique, économique et public"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "L'événement de force majeure doit être imprévisible lors de la conclusion, irrésistible dans son exécution, et extérieur aux parties."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u25-l2 :",
+                    "prompt": "Que stipule une « clause résolutoire » dans un bail ou un contrat commercial ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "La préposition employée ici n'est pas commandée par le verbe (122x).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (122y).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (122z)."
+                        "La résiliation automatique du contrat en cas de manquement d'une partie",
+                        "L'obligation de doubler le prix du loyer",
+                        "L'interdiction formelle de quitter le pays",
+                        "Le renouvellement tacite à perpétuité"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C1."
+                    "explanation": "La clause résolutoire prononce la résiliation automatique de plein droit du contrat dès constatation de l'inexécution d'une obligation."
                 }
             ]
         },
@@ -13402,25 +13437,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u25-l2) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "En droit du travail français, quelle condition est obligatoire pour qu'une clause de non-concurrence soit licite et valable ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "La préposition employée ici n'est pas commandée par le verbe (122m).",
-                        "Cette forme présente une anomalie phonétique en français standard (122n).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (122p)."
+                        "Une durée minimale de vingt ans",
+                        "L'accord du maire de la commune",
+                        "Une contrepartie financière (indemnité pécuniaire)",
+                        "Une interdiction sur la Terre entière"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 2,
+                    "explanation": "La clause de non-concurrence est nulle sans contrepartie financière versée au salarié lors de son départ."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u25-l2 (terme attendu : « Nous ») :",
+                    "prompt": "Quelle clause fixe d'avance le montant forfaitaire des dommages-intérêts en cas d'inexécution ? (la clause _________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "pénale",
+                        "Pénale"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "La clause fixant les dommages-intérêts forfaitaires est la « clause pénale »."
                 }
             ],
             "passThreshold": 0.8
@@ -13436,56 +13470,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u25-l2"
+            ]
         },
         "presentation": {
-            "explanation": "Rigorous academic exposition of L'Organisation Juridictionnelle et la Procédure Judiciaire. At the CEFR C1 level, learners develop mastery in abstract conceptualization, domain-specific terminology, and sophisticated syntactic structures required for academic, legal, and intellectual fluency in French.",
+            "explanation": "The French judicial system is built on a strict duality between judicial courts and administrative courts (la dualité des ordres de juridiction):\n\n1. Court Architecture (L'Organisation Juridictionnelle):\n- Ordre judiciaire:\n  * 1st Degree: Tribunal judiciaire, Tribunal de commerce, Conseil de prud'hommes, Tribunal de police, Tribunal correctionnel, Cour d'assises (felonies with popular jury).\n  * 2nd Degree: Cour d'appel (re-examines facts and law, issues an arrêt).\n  * Supreme Level: Cour de cassation (judges law, not facts; can rejeter le pourvoi or casser et annuler).\n- Ordre administratif: Tribunal administratif -> Cour administrative d'appel -> Conseil d'État.\n- Conflict arbitrator: Le Tribunal des conflits.\n\n2. Procedural Steps (Le Déroulement de l'Instance):\n- L'assignation en justice / la requête -> La mise en état -> L'audience de plaidoiries -> Le délibéré -> Le prononcé du jugement -> L'exécution forcée par commissaire de justice.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Le demandeur a fait signifier une assignation à comparaître devant le Tribunal judiciaire par acte de commissaire de justice.",
+                    "reading": "luh duh-mahn-duhr ah feh seen-yee-fyay oon nah-seen-yah-syohn ah kohm-pah-reh-truh duh-vahn luh tree-boo-nahl zhoo-dee-syair pahr ahkt duh koh-mee-sair duh zhoos-tees",
+                    "translation": "The plaintiff had a summons to appear before the Judicial Court served by a judicial commissioner (bailiff)."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "La Cour d'appel a infirmé le jugement de première instance et a condamné le défendeur aux dépens ainsi qu'à l'article 700 du Code de procédure civile.",
+                    "reading": "lah koor dah-pel ah an-feer-may luh zhoozh-mahn duh pruh-myair an-stahns ay ah kohn-dah-nay luh day-fahn-duhr oh day-pahn an-see kah lahr-teekl set-sahn doo kohd duh proh-say-door see-veel",
+                    "translation": "The Court of Appeal overturned the first-instance judgment and ordered the defendant to pay costs as well as expenses under Article 700 of the Civil Procedure Code."
+                },
+                {
+                    "target": "L'avocat aux Conseils a formé un pourvoi en cassation pour violation de la loi et défaut de base légale.",
+                    "reading": "lah-voh-kah oh kohn-seh ah fohr-may uhn poor-vwah ahn kah-sah-syohn poor vyoh-lah-syohn duh lah lwah ay day-foh duh bahz lay-gahl",
+                    "translation": "The Supreme Court attorney lodged an appeal in cassation for violation of the law and lack of legal basis."
+                },
+                {
+                    "target": "Lors de l'audience solennelle, le procureur de la République a prononcé son réquisitoire avant que la défense ne prenne la parole pour ses plaidoiries.",
+                    "reading": "lohr duh loh-dyahns soh-lah-nel, luh proh-koo-ruhr duh lah ray-poo-bleek ah proh-nohn-say sohn ray-kee-zee-twahr ah-vahn kuh lah day-fahns nuh pren lah pah-rohl poor say pleh-dwah-ree",
+                    "translation": "During the formal hearing, the Public Prosecutor delivered his closing indictment before the defense took the floor for its pleadings."
+                },
+                {
+                    "target": "La dualité juridictionnelle française sépare rigoureusement le contentieux administratif relevant du Conseil d'État des litiges civils et pénaux.",
+                    "reading": "lah doo-ah-lee-tay zhoo-ree-deek-syoh-nel frahn-sehz say-pahr ree-goo-ruhz-mahn luh kohn-tahn-syuh ahd-mee-nees-trah-teef ruh-luh-vahn doo kohn-seh day-tah day lee-teezh see-veel ay pay-noh",
+                    "translation": "French jurisdictional duality strictly separates administrative litigation under the Council of State from civil and criminal disputes."
                 }
             ],
             "mnemonics": [
-                "Conceptual anchor for L'Organisation Juridictionnelle et la Procédure Judiciaire"
+                "INFIRMER = Overturn 1st judgment; CONFIRMER = Uphold 1st judgment!",
+                "CASSATION = Judged on LAW, not on facts (juge du droit, pas des faits)!"
             ],
             "culturalNotes": [
-                "Epistemological and institutional significance of L'Organisation Juridictionnelle et la Procédure Judiciaire in France."
+                "In French criminal courts (Cour d'assises), trials for severe crimes involve 3 professional judges and 6 citizens drawn by lot from electoral rolls (jurés populaires)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Navigate French civil and criminal judicial proceedings (assignation,  » :",
+                    "prompt": "Que signifie 'infirmer un jugement' pour une Cour d'appel ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (123a).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (123b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (123c)."
+                        "Annuler ou réformer la décision prise en première instance",
+                        "Confirmer entièrement la décision",
+                        "Envoyer le dossier à la police",
+                        "Refuser d'ouvrir le dossier"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Une Cour d'appel « infirme » un jugement lorsqu'elle annule ou modifie la décision des premiers juges (le contraire de 'confirmer')."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u25-l3 :",
+                    "prompt": "Quelle est la mission fondamentale de la Cour de cassation ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette proposition modifie subtilement le sens originel du verbe (123x).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (123y).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (123z)."
+                        "Vérifier la bonne application du droit sans rejuger les faits du litige",
+                        "Réentendre tous les témoins et mener des perquisitions",
+                        "Rédiger les lois à la place du Parlement",
+                        "Fixer le montant des amendes de stationnement"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C1."
+                    "explanation": "La Cour de cassation est juge du droit : elle vérifie la conformité légale des décisions sans réexaminer les éléments factuels."
                 }
             ]
         },
@@ -13493,25 +13545,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u25-l3) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Devant une juridiction pénale, comment s'appelle le discours par lequel le Procureur requiert l'application de la peine ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette proposition modifie subtilement le sens originel du verbe (123m).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (123n).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (123p)."
+                        "La plaidoirie de la défense",
+                        "L'assignation en référé",
+                        "Le réquisitoire",
+                        "Le constat d'huissier"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 2,
+                    "explanation": "Le « réquisitoire » est l'intervention orale du ministère public demandant l'application de la loi et de la sanction pénale."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u25-l3 (terme attendu : « Nous ») :",
+                    "prompt": "Comment s'appelle le recours formé devant la Cour de cassation ? (un _________ en cassation)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "pourvoi",
+                        "Pourvoi"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Le recours suprême s'appelle un « pourvoi en cassation »."
                 }
             ],
             "passThreshold": 0.8
@@ -13527,56 +13578,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u25-l3"
+            ]
         },
         "presentation": {
-            "explanation": "Rigorous academic exposition of La Responsabilité Civile et la Réparation du Préjudice. At the CEFR C1 level, learners develop mastery in abstract conceptualization, domain-specific terminology, and sophisticated syntactic structures required for academic, legal, and intellectual fluency in French.",
+            "explanation": "In French civil liability (la responsabilité civile extracontractuelle / délictuelle - Articles 1240 et suivants du Code civil), establishing liability requires proving a three-part causal chain:\n\n1. The Triad of Tort Liability (Le Triptyque de la Responsabilité):\n- 1. La Faute (ou le Fait générateur):\n  * Responsabilité pour faute personnelle (Art. 1240).\n  * Responsabilité du fait des choses sous sa garde (Art. 1242 al. 1).\n  * Responsabilité du fait d'autrui (parents du fait des enfants, commettants du fait des préposés).\n- 2. Le Préjudice (ou le Dommage):\n  * Must be certain, direct et personnel.\n  * Préjudice matériel, préjudice corporel (pretium doloris / souffrances endurées, déficit fonctionnel), préjudice moral.\n- 3. Le Lien de causalité direct et certain between fault and harm.\n\n2. Principle of Full Reparation (Le Principe de Réparation Intégrale):\n- 'Replacer la victime dans l'état où elle se serait trouvée si l'acte dommageable ne s'était pas produit' (sans perte ni profit).",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "L'article 1240 du Code civil consacre le principe général selon lequel tout fait quelconque de l'homme qui cause à autrui un dommage oblige son auteur à le réparer.",
+                    "reading": "lahr-teekl meel duh sahnt kah-rahnt doo kohd see-veel kohn-sah-kruh luh pran-seep zhay-nay-rahl suh-lohn luh-kel too feh kel-kohnk duh lohm kee kohz ah oh-trwee uhn dohm-mahzh oh-bleezh sohn noh-tuhr ah luh ray-pah-ray",
+                    "translation": "Article 1240 of the Civil Code enshrines the general principle that any act of man that causes damage to another obligates its author to repair it."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Pour engager avec succès la responsabilité délictuelle de l'auteur, la victime doit rapporter la preuve cumulative d'une faute, d'un préjudice et d'un lien de causalité direct.",
+                    "reading": "poor ahn-gah-zhay ah-vek sook-seh lah res-pohn-sah-bee-lee-tay day-leek-twel duh loh-tuhr, lah veek-teem dwah rah-pohr-tay lah pruhv koo-moo-lah-teev doon foh-t, doon pray-zhoo-dees ay doon lyan duh koh-zah-lee-tay dee-rekt",
+                    "translation": "To successfully establish the tort liability of the tortfeasor, the victim must provide cumulative proof of fault, injury, and a direct causal link."
+                },
+                {
+                    "target": "Le principe de réparation intégrale du préjudice vise à replacer la victime dans la situation exacte où elle se serait trouvée sans la survenance de l'événement dommageable.",
+                    "reading": "luh pran-seep duh ray-pah-rah-syohn an-tay-grahl doo pray-zhoo-dees veez ah ruh-plah-say lah veek-teem dahn lah see-too-ah-syohn eg-zahkt oo el suh suh-reh troo-vay sahn lah soor-vuh-nahns duh lay-ven-mahn dohm-mah-zhahbl",
+                    "translation": "The principle of full compensation of damage aims to return the victim to the exact situation in which she would have been without the occurrence of the damaging event."
+                },
+                {
+                    "target": "L'employeur est civilement responsable de plein droit des dommages causés par ses préposés dans l'exercice de leurs fonctions.",
+                    "reading": "lahn-plwah-yuhr ay see-veel-mahn res-pohn-sahbl duh plan drwah day dohm-mahzh koh-zay pahr say pray-poh-zay dahn leg-zair-sees duh luhr fohnk-syohn",
+                    "translation": "The employer is strictly liable in civil law for damage caused by its employees in the performance of their duties."
+                },
+                {
+                    "target": "L'expertise médicale judiciaire a évalué le pretium doloris et le déficit fonctionnel permanent de la victime pour chiffrer l'indemnisation.",
+                    "reading": "leg-spair-teez may-dee-kahl zhoo-dee-syair ah ay-vah-loo-ay luh pray-syohm doh-loh-rees ay luh day-fee-seet fohnk-syoh-nel pair-mah-nahn duh lah veek-teem poor shee-fray lan-dem-nee-zah-syohn",
+                    "translation": "The court medical assessment evaluated the pain and suffering (pretium doloris) and permanent functional deficit of the victim to calculate compensation."
                 }
             ],
             "mnemonics": [
-                "Conceptual anchor for La Responsabilité Civile et la Réparation du Préjudice"
+                "TRIAD OF TORT: FAUTE + PRÉJUDICE + LIEN DE CAUSALITÉ!",
+                "RÉPARATION INTÉGRALE: Neither gain nor loss, exact restoration!"
             ],
             "culturalNotes": [
-                "Epistemological and institutional significance of La Responsabilité Civile et la Réparation du Préjudice in France."
+                "In French tort litigation, personal injury compensation (le préjudice corporel) is systematically calculated using the standardized Nomenclature Dintilhac."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Understand tort liability and civil responsibility (responsabilité dél » :",
+                    "prompt": "Quels sont les trois éléments cumulatifs indispensables pour engager la responsabilité civile délictuelle ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette forme présente une anomalie phonétique en français standard (124a).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (124b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (124c)."
+                        "Une faute, un préjudice et un lien de causalité direct",
+                        "Un contrat écrit, une signature et un témoin",
+                        "Une amende, une peine de prison et un casier",
+                        "Un appel, un pourvoi et un arrêt"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "La responsabilité extracontractuelle exige cumulativement : un fait générateur (faute), un dommage (préjudice certain), et un lien de causalité direct."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u25-l4 :",
+                    "prompt": "Que vise le principe de « réparation intégrale » en droit civil français ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette forme présente une anomalie phonétique en français standard (124x).",
-                        "La préposition employée ici n'est pas commandée par le verbe (124y).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (124z)."
+                        "Replacer la victime dans l'état exact où elle serait sans le dommage",
+                        "Enrichir la victime aux dépens de l'auteur",
+                        "Punir l'auteur par une peine d'emprisonnement automatique",
+                        "Diviser les dommages par deux de manière systématique"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C1."
+                    "explanation": "La réparation intégrale remet la victime dans la situation exacte où elle se serait trouvée sans le dommage, sans perte ni enrichissement sans cause."
                 }
             ]
         },
@@ -13584,25 +13653,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u25-l4) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quel terme juridique latin désigne l'indemnisation spécifique des souffrances physiques et morales endurées par une victime corporelle ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette forme présente une anomalie phonétique en français standard (124m).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (124n).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (124p)."
+                        "Le pretium doloris",
+                        "L'habeas corpus",
+                        "L'in dubio pro reo",
+                        "L'ad valorem"
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "Le « pretium doloris » (prix de la douleur) indemnise spécifiquement les souffrances physiques et psychiques endurées."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u25-l4 (terme attendu : « Nous ») :",
+                    "prompt": "Complétez le célèbre article 1240 du Code civil : « Tout fait quelconque de l'homme, qui cause à autrui un _________ (dommage), oblige celui par la faute duquel il est arrivé, à le réparer. »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "dommage",
+                        "Dommage"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Le terme exact du texte de loi est « dommage »."
                 }
             ],
             "passThreshold": 0.8
@@ -13618,56 +13686,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u25-l4"
+            ]
         },
         "presentation": {
-            "explanation": "Rigorous academic exposition of Rédaction d'une Consultation Juridique Complexe. At the CEFR C1 level, learners develop mastery in abstract conceptualization, domain-specific terminology, and sophisticated syntactic structures required for academic, legal, and intellectual fluency in French.",
+            "explanation": "The French legal consultation (la consultation juridique / le cas pratique) follows a rigorous syllogistic methodology (le syllogisme juridique):\n\n1. The Syllogism Structure (Le Syllogisme Juridique):\n- Majeure (La Règle de Droit): State the applicable legal articles, principles, and jurisprudence in the abstract.\n- Mineure (L'Application aux Faits): Subsume the concrete facts of the case under the conditions of the legal rule.\n- Conclusion (La Solution): Deliver the logical legal outcome, risks, and strategic recommendations.\n\n2. Academic Legal Methodology:\n- Qualification juridique des faits (translating narrative facts into precise legal categories).\n- Problématique juridique (framing the central legal question abstractly).\n- Stratégie contentieuse vs solution transactionnelle (proposing settlement vs court action).",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "En l'espèce, la qualification juridique des faits révèle un manquement caractérisé du débiteur à son obligation contractuelle d'information.",
+                    "reading": "ahn les-pes, lah kah-lee-fee-kah-syohn zhoo-ree-deek day feh ray-vel uhn mahnk-mahn kah-rahk-tay-ree-zay doo day-bee-tuhr ah soh noh-blee-gah-syohn kohn-trahk-twel deen-fohr-mah-syohn",
+                    "translation": "In this case, the legal characterization of the facts reveals a clear failure by the debtor in its contractual obligation to inform."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Il convient d'appliquer le syllogisme juridique en confrontant la règle prétorienne aux circonstances matérielles du litige pour en déduire la solution opératoire.",
+                    "reading": "eel kohn-vyan dah-plee-kay luh see-loh-zheezm zhoo-ree-deek ahn kohn-frohn-tahn lah reh-gluh pray-toh-ryen oh seer-kohns-tahns mah-tay-ryel doo lee-teezh poor ahn day-dweer lah soh-loo-syohn oh-pay-rah-twahr",
+                    "translation": "It is appropriate to apply legal syllogism by confronting judge-made rule with the material circumstances of the dispute to deduce the operational outcome."
+                },
+                {
+                    "target": "À titre principal, nous préconisons une action en nullité du contrat pour dol sur le fondement de l'article 1137 du Code civil.",
+                    "reading": "ah teet-ruh pran-see-pahl, noo pray-koh-nee-zohn oon nahk-syohn ahn noo-lee-tay doo kohn-trah poor dohl soor luh fohn-d-mahn duh lahr-teekl meel sahn trahnt-set doo kohd see-veel",
+                    "translation": "Primarily, we recommend an action for contract nullity on grounds of fraud (dol) based on Article 1137 of the Civil Code."
+                },
+                {
+                    "target": "À titre subsidiaire, une négociation transactionnelle permettrait de préserver les intérêts économiques de votre société tout en évitant les aléas d'un procès au fond.",
+                    "reading": "ah teet-ruh soob-see-syair, oon nay-goh-syah-syohn trahn-zahk-syoh-nel pair-meh-treh duh pray-zair-vay lay zan-tay-reh ay-koh-noh-meek duh voh-truh soh-syay-tay toot ahn nay-vee-tahn lay zah-lay-ah doon proh-seh oh fohn",
+                    "translation": "In the alternative, a settlement negotiation would preserve your company's economic interests while avoiding the uncertainties of a full trial on the merits."
+                },
+                {
+                    "target": "La juridiction saisie dispose d'un pouvoir souverain d'appréciation pour caractériser l'existence d'un vice caché antérieur à la vente.",
+                    "reading": "lah zhoo-ree-deek-syohn seh-zyee dees-pohz doon poo-vwahr soo-vran dah-pray-syah-syohn poor kah-rahk-tay-ree-zay leg-zees-tahns doon vees kah-shay ahn-tay-ryuhr ah lah vahnt",
+                    "translation": "The seized court possesses sovereign power of appraisal to characterize the existence of a latent defect prior to sale."
                 }
             ],
             "mnemonics": [
-                "Conceptual anchor for Rédaction d'une Consultation Juridique Complexe"
+                "SYLLOGISME: 1. Majeure (Law) -> 2. Mineure (Facts) -> 3. Conclusion (Outcome)!",
+                "EN L'ESPÈCE = In this particular case!"
             ],
             "culturalNotes": [
-                "Epistemological and institutional significance of Rédaction d'une Consultation Juridique Complexe in France."
+                "The legal syllogism (syllogisme judiciaire) is the foundational reasoning method taught in all French law faculties and practiced in judicial judgments."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Draft a formal legal opinion (consultation juridique) resolving a comp » :",
+                    "prompt": "Dans le syllogisme juridique, que constitue la « majeure » ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (125a).",
-                        "Cette construction passive alourdit inutilement l'énoncé (125b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (125c)."
+                        "L'énoncé de la règle de droit générale et abstraite",
+                        "L'exposé des faits concrets",
+                        "La décision finale du juge",
+                        "La facture des honoraires"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "La « majeure » est la proposition de principe énonçant la règle de droit (loi ou jurisprudence applicable)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u25-l5 :",
+                    "prompt": "Que signifie plaider « à titre subsidiaire » dans des conclusions d'avocat ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette construction passive alourdit inutilement l'énoncé (125x).",
-                        "Cette construction passive alourdit inutilement l'énoncé (125y).",
-                        "Cette construction passive alourdit inutilement l'énoncé (125z)."
+                        "Présenter un argument de repli au cas où la demande principale serait rejetée",
+                        "Demander l'aide financière de l'État",
+                        "Plaider en secret sans public",
+                        "Abandonner toute poursuite judiciaire"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C1."
+                    "explanation": "« À titre subsidiaire » introduit une demande de substitution examinée si la demande principale (« à titre principal ») n'est pas retenue."
                 }
             ]
         },
@@ -13675,25 +13761,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u25-l5) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Dans une consultation juridique, quelle formule consacre l'examen des faits précis de l'affaire étudiée ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette construction passive alourdit inutilement l'énoncé (125m).",
-                        "Cette construction passive alourdit inutilement l'énoncé (125n).",
-                        "Cette construction passive alourdit inutilement l'énoncé (125p)."
+                        "En l'espèce...",
+                        "Par miracle...",
+                        "Il était une fois...",
+                        "Sans aucun doute possible..."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "La locution « En l'espèce » (ou « Au cas particulier ») marque la transition vers l'application des faits réels dans la mineure du syllogisme."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u25-l5 (terme attendu : « Nous ») :",
+                    "prompt": "Quel mot désigne la tromperie intentionnelle ou réticence d'une partie viciant le consentement dans un contrat ? (le _________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "dol",
+                        "Dol"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Le vice du consentement résultant de manœuvres frauduleuses ou dissimulation est le « dol »."
                 }
             ],
             "passThreshold": 0.8
