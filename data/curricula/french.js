@@ -13794,56 +13794,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u25-l5"
+            ]
         },
         "presentation": {
-            "explanation": "Rigorous academic exposition of Indicateurs Macroéconomiques et Politique Monétaire. At the CEFR C1 level, learners develop mastery in abstract conceptualization, domain-specific terminology, and sophisticated syntactic structures required for academic, legal, and intellectual fluency in French.",
+            "explanation": "Macroeconomic discourse in French economic and governmental institutions (Bercy, Banque de France, INSEE) relies on precise structural metrics:\n\n1. Key Aggregate Indicators (Les Grands Agrégats Macroéconomiques):\n- Le Produit Intérieur Brut (PIB) (en volume / corrigé de l'inflation).\n- Le taux de chômage au sens du BIT (Bureau International du Travail).\n- L'Indice des Prix à la Consommation (IPC) et l'inflation sous-jacente.\n- Le déficit public et la dette souveraine (critères de Maastricht : 3 % de déficit, 60 % du PIB).\n\n2. Monetary & Fiscal Policies (Politiques Monétaire et Budgétaire):\n- La BCE et ses taux directeurs (taux de refinancement, taux de dépôt).\n- Le resserrement monétaire (hausse des taux directeurs) vs l'assouplissement quantitatif.\n- La politique de relance budgétaire vs la politique de rigueur budgétaire.\n- La spirale prix-salaires et la compétitivité-coût.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Pour juguler les tensions inflationnistes persistantes, la Banque Centrale Européenne a procédé à un resserrement de sa politique monétaire en relevant ses taux directeurs de cinquante points de base.",
+                    "reading": "poor zhoo-goo-lay lay tahn-syohn an-flah-syoh-neest pair-sees-tahnt, lah bahnk sahn-trahl uh-roh-pay-en ah proh-say-day ah uhn res-sair-mahn duh sah poh-lee-teek moh-nay-tair ahn ruh-lvahn say toh dee-rek-tuhr duh sank-ahnt pwan duh bahz",
+                    "translation": "To curb persistent inflationary pressures, the European Central Bank tightened its monetary policy by raising its key interest rates by 50 basis points."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Le déficit public de la France s'est creusé sous l'effet conjugué du ralentissement de la croissance du PIB et de la hausse de la charge de la dette souveraine.",
+                    "reading": "luh day-fee-seet poo-bleek duh lah frahns say kruh-zay soo leh-feh kohn-zhoo-gay doo rah-lahn-tees-mahn duh lah krwah-sahns doo pee-bee ay duh lah ohs duh lah shahrzh duh lah det soo-vran",
+                    "translation": "France's public deficit widened under the combined effect of slowing GDP growth and the rising burden of sovereign debt service."
+                },
+                {
+                    "target": "L'INSEE publie mensuellement l'indice des prix à la consommation harmonisé afin de mesurer l'érosion du pouvoir d'achat des ménages.",
+                    "reading": "lan-say poo-blee mahn-swel-mahn lan-dees day pree zah lah kohn-soh-mah-syohn ahr-moh-nee-zay ah-fan duh muh-zoo-ray lay-roh-zyohn doo poo-vwahr dah-shah day may-nahzh",
+                    "translation": "INSEE publishes the harmonized consumer price index monthly in order to measure the erosion of household purchasing power."
+                },
+                {
+                    "target": "Une relance budgétaire non financée par des gains de productivité risque d'alimenter une spirale prix-salaires néfaste pour la compétitivité extérieure.",
+                    "reading": "oon ruh-lahns boo-dzhay-tair nohn fee-nahn-say pahr day gan duh proh-dook-tee-vee-tay reesk dah-lee-mahn-tay oon spee-rahl pree-sah-lair nay-fahst poor lah kohn-pay-tee-tee-vee-tay eks-tay-ryuhr",
+                    "translation": "A fiscal stimulus not funded by productivity gains risks fueling a price-wage spiral harmful to external competitiveness."
+                },
+                {
+                    "target": "Le ratio de la dette publique rapportée au PIB constitue un indicateur déterminant scruté par les agences de notation financière souveraine.",
+                    "reading": "luh rah-syoh duh lah det poo-bleek rah-pohr-tay oh pee-bee kohn-stee-too uhn nan-dee-kah-tuhr day-tair-mee-nahn skroo-tay pahr lay zah-zhahns duh noh-tah-syohn fee-nahn-syair soo-vran",
+                    "translation": "The ratio of public debt to GDP constitutes a crucial metric scrutinized by sovereign credit rating agencies."
                 }
             ],
             "mnemonics": [
-                "Conceptual anchor for Indicateurs Macroéconomiques et Politique Monétaire"
+                "PIB = PRODUIT INTÉRIEUR BRUT (GDP); BCE = BANQUE CENTRALE EUROPÉENNE!",
+                "100 POINTS DE BASE = 1,00 %!"
             ],
             "culturalNotes": [
-                "Epistemological and institutional significance of Indicateurs Macroéconomiques et Politique Monétaire in France."
+                "In French political economic culture, the Ministry of Economy and Finance is universally referred to by its metonym 'Bercy', located in eastern Paris."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Discuss macroeconomic metrics and structural fiscal policies (PIB, déf » :",
+                    "prompt": "Quelle institution statistique officielle calcule l'inflation et le taux de chômage en France ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (126a).",
-                        "Cette forme présente une anomalie phonétique en français standard (126b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (126c)."
+                        "L'INSEE (Institut National de la Statistique et des Études Économiques)",
+                        "La Cour des comptes",
+                        "Le Conseil d'État",
+                        "Le Sénat"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "L'INSEE est l'organisme officiel français chargé de la collecte, de l'analyse et de la diffusion des statistiques économiques et sociales."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u26-l1 :",
+                    "prompt": "Que signifie relever les « taux directeurs » pour une banque centrale ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (126x).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (126y).",
-                        "Cette forme présente une anomalie phonétique en français standard (126z)."
+                        "Augmenter le coût du crédit pour freiner l'inflation et ralentir la création monétaire",
+                        "Distribuer des billets de banque gratuitement dans la rue",
+                        "Fixer le salaire minimum des fonctionnaires",
+                        "Supprimer les impôts sur le revenu"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C1."
+                    "explanation": "La hausse des taux directeurs renchérit le coût du refinancement bancaire, ce qui freine le crédit et tempère l'inflation."
                 }
             ]
         },
@@ -13851,25 +13869,25 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u26-l1) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Comment s'appelle l'indicateur synthétique mesurant la valeur marchande de l'ensemble des biens et services produits dans un pays en un an ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (126m).",
-                        "La préposition employée ici n'est pas commandée par le verbe (126n).",
-                        "Cette forme présente une anomalie phonétique en français standard (126p)."
+                        "Le Produit Intérieur Brut (PIB)",
+                        "Le Taux Marginal d'Imposition",
+                        "L'Excédent Brut d'Exploitation",
+                        "L'Acompte Provisionnel"
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "Le PIB (Produit Intérieur Brut) est l'indicateur macroéconomique de référence de la production de richesse nationale."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u26-l1 (terme attendu : « Nous ») :",
+                    "prompt": "Quel institut de statistique mesure le PIB et l'inflation en France ? (sigle en 5 lettres : l'_________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "INSEE",
+                        "insee",
+                        "Insee"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "L'institut national de la statistique est l'« INSEE »."
                 }
             ],
             "passThreshold": 0.8
@@ -13885,56 +13903,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u26-l1"
+            ]
         },
         "presentation": {
-            "explanation": "Rigorous academic exposition of Analyse Financière d'Entreprise et États Comptables. At the CEFR C1 level, learners develop mastery in abstract conceptualization, domain-specific terminology, and sophisticated syntactic structures required for academic, legal, and intellectual fluency in French.",
+            "explanation": "Corporate financial analysis in France (l'analyse financière et le plan comptable général) requires mastery of financial statements and performance ratios:\n\n1. The Core Financial Statements (Les Documents de Synthèse):\n- Le Bilan Comptable (Balance Sheet):\n  * Actif (Emplois) : Actif immobilisé, Actif circulant (stocks, créances clients, trésorerie).\n  * Passif (Ressources) : Capitaux propres (capital, réserves, résultat net), Dettes financières et d'exploitation.\n- Le Compte de Résultat (Income Statement):\n  * Soldes Intermédiaires de Gestion (SIG) : Valeur Ajoutée (VA), Excédent Brut d'Exploitation (EBE / EBITDA), Résultat d'Exploitation (REX / EBIT), Résultat Net.\n- Le Tableau de Trésorerie : Capacité d'Autofinancement (CAF), Besoin en Fonds de Roulement (BFR), Flux de trésorerie disponible.\n\n2. Financial Health Ratios:\n- Gearing = Dette nette / Capitaux propres.\n- ROE (Rentabilité des capitaux propres) = Résultat net / Capitaux propres.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "L'augmentation sensible de l'Excédent Brut d'Exploitation témoigne de la rentabilité opérationnelle robuste de l'outil industriel.",
+                    "reading": "lohn-gmahn-tah-syohn sahn-seebl duh lek-say-dahn broo deks-plwah-tah-syohn tay-mwan duh lah rahn-tah-bee-lee-tay oh-pay-rah-syoh-nel roh-boost duh loo-tee an-doos-tree-yel",
+                    "translation": "The substantial increase in EBITDA testifies to the robust operational profitability of the industrial apparatus."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Une dégradation du Besoin en Fonds de Roulement due à l'allongement du délai de paiement des créances clients fragilise la trésorerie nette.",
+                    "reading": "oon day-grah-dah-syohn doo buh-zwan ahn fohn duh rool-mahn doo ah lah-lohnzh-mahn doo day-leh duh peh-mahn day kray-ahns klee-ahn frah-zhee-leez lah tray-zoh-ruh-ree net",
+                    "translation": "A deterioration in Working Capital Requirement due to lengthened payment terms on trade receivables weakens net cash flow."
+                },
+                {
+                    "target": "Au bilan, les capitaux propres ont été renforcés par l'affectation intégrale du résultat net bénéficiaire en réserve légale.",
+                    "reading": "oh bee-lahn, lay kah-pee-toh proh-pruh zohn tay-tay rahn-fohr-say pahr lah-fek-tah-syohn an-tay-grahl doo ray-zool-tah net bay-nay-fee-syair ahn ray-zairv lay-gahl",
+                    "translation": "On the balance sheet, equity was strengthened by allocating the entire net profit to legal reserves."
+                },
+                {
+                    "target": "La Capacité d'Autofinancement générée par l'activité courante permet de financer les investissements de modernisation sans recourir à l'emprunt bancaire.",
+                    "reading": "lah kah-pah-see-tay doh-toh-fee-nahns-mahn zhay-nay-ray pahr lahk-tee-vee-tay koo-rahnt pair-meh duh fee-nahn-say lay zan-ves-tees-mahn duh moh-dair-nee-zah-syohn sahn ruh-koo-reer ah lahn-pruhn bahn-kair",
+                    "translation": "The cash flow from operations generated by routine activity makes it possible to finance modernization investments without resorting to bank borrowing."
+                },
+                {
+                    "target": "Les commissaires aux comptes ont certifié la régularité, la sincérité et l'image fidèle des comptes annuels consolidés du groupe.",
+                    "reading": "lay koh-mee-sair oh kohnt zohn sair-tee-fyay lah ray-goo-lah-ree-tay, lah san-say-ree-tay ay lee-mahzh fee-del day kohnt zah-nwel kohn-soh-lee-day doo groop",
+                    "translation": "The statutory auditors certified the regularity, sincerity, and true and fair view of the group's consolidated annual accounts."
                 }
             ],
             "mnemonics": [
-                "Conceptual anchor for Analyse Financière d'Entreprise et États Comptables"
+                "EBE = EXCÉDENT BRUT D'EXPLOITATION (EBITDA) - The core engine of operational cash!",
+                "ACTIF = What the company owns; PASSIF = What the company owes!"
             ],
             "culturalNotes": [
-                "Epistemological and institutional significance of Analyse Financière d'Entreprise et États Comptables in France."
+                "In France, every commercial corporation must legally file its annual accounts with the clerk of the Commercial Court (greffe du Tribunal de commerce)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Analyze corporate balance sheets, income statements, and financial rat » :",
+                    "prompt": "Dans le compte de résultat, quel solde intermédiaire de gestion correspond au bénéfice brut généré par l'exploitation avant amortissements (équivalent de l'EBITDA) ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "La préposition employée ici n'est pas commandée par le verbe (127a).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (127b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (127c)."
+                        "L'Excédent Brut d'Exploitation (EBE)",
+                        "La Valeur Vénale",
+                        "Le Chiffre d'Affaires Brut",
+                        "L'Avoir Fiscal"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "L'EBE (Excédent Brut d'Exploitation) mesure la ressource brute d'exploitation tirée du cycle d'activité de l'entreprise avant dotations aux amortissements."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u26-l2 :",
+                    "prompt": "Que mesure le « BFR » (Besoin en Fonds de Roulement) d'une entreprise ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (127x).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (127y).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (127z)."
+                        "Le décalage de trésorerie entre les décaissements (stocks/fournisseurs) et les encaissements clients",
+                        "Le montant total des salaires payés aux dirigeants",
+                        "Le nombre d'ordinateurs achetés dans l'année",
+                        "La valeur du bâtiment du siège social"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C1."
+                    "explanation": "Le BFR représente le montant net nécessaire pour combler le décalage temporel entre dépenses d'exploitation et encaissements des ventes."
                 }
             ]
         },
@@ -13942,25 +13978,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u26-l2) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Dans un bilan comptable français, où figurent les capitaux propres et les dettes financières ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (127m).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (127n).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (127p)."
+                        "À l'Actif",
+                        "Au Passif",
+                        "En annexe 39",
+                        "Dans le journal des ventes"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 1,
+                    "explanation": "Le Passif regroupe les ressources financières de l'entreprise : les capitaux propres et l'ensemble des dettes."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u26-l2 (terme attendu : « Nous ») :",
+                    "prompt": "Comment s'appelle le document comptable synthétisant le patrimoine de l'entreprise à un instant T (Actif et Passif) ? (le _________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "bilan",
+                        "Bilan"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "La photographie patrimoniale de l'entreprise s'appelle le « bilan »."
                 }
             ],
             "passThreshold": 0.8
@@ -13976,56 +14011,75 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u26-l2"
+            ]
         },
         "presentation": {
-            "explanation": "Rigorous academic exposition of Marchés Financiers, Bourse et Instruments de Dette. At the CEFR C1 level, learners develop mastery in abstract conceptualization, domain-specific terminology, and sophisticated syntactic structures required for academic, legal, and intellectual fluency in French.",
+            "explanation": "Discussions of stock markets (la Bourse de Paris / Euronext), securities, and debt instruments employ precise financial terminology:\n\n1. Equities & Market Indices (Actions et Indices Boursiers):\n- Le CAC 40 (Cotation Assistée en Continu - top 40 market caps on Euronext Paris) / SBF 120.\n- Une action ordinaire vs action de préférence (droits de vote / dividende prioritaire).\n- La capitalisation boursière = Cours de l'action × Nombre de titres.\n- Le rendement du dividende (Dividend Yield) et le ratio cours/bénéfice (PER / Price Earning Ratio).\n- Offre Publique d'Achat (OPA) vs Offre Publique d'Échange (OPE).\n\n2. Fixed Income & Bond Markets (Marché Obligataire):\n- OAT (Obligation Assimilable du Trésor) vs obligations d'entreprise (Corporate bonds).\n- Le coupon (intérêt annuel) / La valeur nominale (le pair).\n- Spread souverain (écart de taux par rapport au Bund allemand).\n\n3. Regulation & Integrity:\n- L'AMF (Autorité des Marchés Financiers) / Le délit d'initié.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Le CAC 40 a clôturé en forte hausse, porté par la performance remarquable des fleurons du luxe et de l'énergie.",
+                    "reading": "luh kahk kah-rahnt ah kloh-too-ray ahn fohrt ohs, pohr-tay pahr lah pair-fohr-mahns ruh-mahr-kahbl day fluhr-ohn doo looks ay duh lay-nair-zhee",
+                    "translation": "The CAC 40 closed sharply higher, propelled by the remarkable performance of luxury and energy champions."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Le resserrement des spreads souverains entre l'OAT française à dix ans et le Bund allemand reflète la confiance renouvelée des investisseurs institutionnels.",
+                    "reading": "luh res-sair-mahn day spreds soo-vran ahn-truh loh-ah-tay frahn-sehz ah dee zahn ay luh boond ahl-mahn ruh-flet lah kohn-fyahns ruh-noo-vlay day zan-ves-tees-suhr an-stee-too-syoh-nel",
+                    "translation": "The narrowing of sovereign spreads between the French 10-year OAT and the German Bund reflects renewed confidence among institutional investors."
+                },
+                {
+                    "target": "La société a lancé une Offre Publique d'Achat (OPA) hostile sur son principal concurrent avec une prime de 25 % sur le cours de clôture.",
+                    "reading": "lah soh-syay-tay ah lahn-say oon noh-fruh poo-bleek dah-shah oh-pay-ah ohs-teel soor sohn pran-see-pahl kohn-koo-rahn ah-vek oon preem duh van-sank poor-sahn soor luh koor duh kloh-toor",
+                    "translation": "The company launched a hostile takeover bid (OPA) on its main competitor with a 25% premium over the closing share price."
+                },
+                {
+                    "target": "L'Autorité des Marchés Financiers a ouvert une enquête pour suspicion de délit d'initié et manipulation de cours avant l'annonce de la fusion.",
+                    "reading": "loh-toh-ree-tay day mahr-shay fee-nahn-syay ah oo-vair oon nahn-ket poor soos-pee-syohn duh day-lee deen-nee-syay ay mah-nee-poo-lah-syohn duh koor ah-vahn lah-nohns duh lah foo-zyohn",
+                    "translation": "The Financial Markets Authority opened an investigation into suspected insider trading and price manipulation prior to the merger announcement."
+                },
+                {
+                    "target": "Le versement d'un dividende exceptionnel aux actionnaires a été approuvé à la quasi-unanimité lors de l'assemblée générale annuelle.",
+                    "reading": "luh vair-suh-mahn doon dee-vee-dahnd zek-sep-syoh-nel oh zahk-syoh-nair ah ay-tay ah-proo-vay ah lah kah-zee-oo-nah-nee-mee-tay lohr duh lah-sahn-blay zhay-nay-rahl ah-nwel",
+                    "translation": "The payment of an extraordinary dividend to shareholders was approved with near unanimity during the annual general meeting."
                 }
             ],
             "mnemonics": [
-                "Conceptual anchor for Marchés Financiers, Bourse et Instruments de Dette"
+                "CAC 40 = Top 40 blue-chip companies in Paris!",
+                "OAT = OBLIGATION ASSIMILABLE DU TRÉSOR (French government bond)!",
+                "OPA = TAKEOVER BID IN CASH; OPE = TAKEOVER BID IN SHARES!"
             ],
             "culturalNotes": [
-                "Epistemological and institutional significance of Marchés Financiers, Bourse et Instruments de Dette in France."
+                "The Palais Brongniart, built under Napoleon in 1826, was the historic temple of the Paris Stock Exchange (la Bourse de Paris) before electronic trading took over."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Debate capital market dynamics, equity valuations, and bond yields (ma » :",
+                    "prompt": "Quel est le principal indice boursier de la place financière de Paris ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (128a).",
-                        "La préposition employée ici n'est pas commandée par le verbe (128b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (128c)."
+                        "Le CAC 40",
+                        "Le Dow Jones",
+                        "Le Nikkei 225",
+                        "Le DAX 40"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Le CAC 40 est l'indice phare de la Bourse de Paris regroupant quarante des plus grandes capitalisations françaises."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u26-l3 :",
+                    "prompt": "Comment s'appellent les obligations d'État émises par le Trésor public français ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (128x).",
-                        "Cette forme présente une anomalie phonétique en français standard (128y).",
-                        "La préposition employée ici n'est pas commandée par le verbe (128z)."
+                        "Les OAT (Obligations Assimilables du Trésor)",
+                        "Les Bunds",
+                        "Les Gilts",
+                        "Les T-Bonds"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C1."
+                    "explanation": "Les titres de créance à long terme émis par l'État français s'appellent les « OAT » (Obligations Assimilables du Trésor)."
                 }
             ]
         },
@@ -14033,25 +14087,25 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u26-l3) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quel gendarme financier indépendant régule et contrôle les marchés boursiers en France ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (128m).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (128n).",
-                        "La préposition employée ici n'est pas commandée par le verbe (128p)."
+                        "La Brigade financière",
+                        "L'AMF (Autorité des Marchés Financiers)",
+                        "L'Ordre des Avocats",
+                        "Le Conseil Constitutionnel"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 1,
+                    "explanation": "L'AMF (Autorité des Marchés Financiers) est l'autorité publique indépendante veillant à la protection de l'épargne et au bon fonctionnement des marchés."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u26-l3 (terme attendu : « Nous ») :",
+                    "prompt": "Quelle opération financière publique consiste à proposer le rachat en numéraire de toutes les actions d'une société cible ? (sigle en 3 lettres : une _________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "OPA",
+                        "opa",
+                        "Opa"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "L'Offre Publique d'Achat s'abrège en « OPA »."
                 }
             ],
             "passThreshold": 0.8
@@ -14067,56 +14121,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u26-l3"
+            ]
         },
         "presentation": {
-            "explanation": "Rigorous academic exposition of Système Bancaire, FinTech et Capital-Investissement. At the CEFR C1 level, learners develop mastery in abstract conceptualization, domain-specific terminology, and sophisticated syntactic structures required for academic, legal, and intellectual fluency in French.",
+            "explanation": "The banking and startup financing ecosystem in France (l'écosystème French Tech et bancaire) incorporates international prudential rules and venture financing terms:\n\n1. Banking Regulations & Prudential Supervision:\n- L'ACPR (Autorité de Contrôle Prudentiel et de Résolution) à la Banque de France.\n- Les accords de Bâle III / Bâle IV : Ratio de solvabilité (ratio CET1), fonds propres prudentiels, stress tests.\n- Risque systémique et banques d'importance systémique (too big to fail).\n\n2. Private Equity & Venture Capital (Le Capital-Investissement):\n- Le capital-risque (Venture Capital) pour les startups en amorçage et développement.\n- Le capital-développement et le rachat par effet de levier (LBO / Leveraged Buy-Out).\n- Les levées de fonds (Série A, Série B, Série C), Business Angels, et licornes (Unicorns).\n- La valorisation pré-monnaie / post-monnaie et la dilution du capital.\n\n3. FinTech & Decentralized Assets:\n- Néobanques, DSP2, et agrément PSAN (Prestataire de Services sur Actifs Numériques) délivré par l'AMF.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "La jeune pousse de la French Tech a bouclé une levée de fonds en Série B de cinquante millions d'euros pour accélérer son expansion européenne.",
+                    "reading": "lah zhuhn poos duh lah frensh tek ah book-lay oon luh-vay duh fohn ahn say-ree bay duh sank-ahnt meel-yohn duh-roh poor ahk-say-lay-ray sohn nek-spahn-syohn uh-roh-pay-en",
+                    "translation": "The French Tech startup closed a 50-million-euro Series B funding round to accelerate its European expansion."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Les banques commerciales françaises affichent un ratio de solvabilité CET1 largement supérieur aux exigences minimales imposées par Bâle III.",
+                    "reading": "lay bahnk koh-mair-syahl frahn-sehz ah-feesh uhn rah-syoh duh soh-lvah-bee-lee-tay say-uh-tay-uhn lahrzh-mahn soo-pay-ryuhr oh zeg-zee-zhahns mee-nee-mahl an-poh-zay pahr bahl trwah",
+                    "translation": "French commercial banks display a CET1 solvency ratio well above the minimum requirements mandated by Basel III."
+                },
+                {
+                    "target": "L'ACPR et la Banque de France veillent scrupuleusement à la résilience opérationnelle et à la gestion du risque de liquidité des établissements de crédit.",
+                    "reading": "lah-say-pay-air ay lah bahnk duh frahns vehy skroo-poo-luhz-mahn ah lah ray-zeel-yahns oh-pay-rah-syoh-nel ay ah lah zhes-tyohn doo reesk duh lee-kee-dee-tay day zay-tah-blees-mahn duh kray-dee",
+                    "translation": "The ACPR and the Bank of France scrupulously oversee operational resilience and liquidity risk management of credit institutions."
+                },
+                {
+                    "target": "Le montage financier de l'opération de LBO s'appuie sur une dette senior et une dette mezzanine remboursées par les dividendes de la cible.",
+                    "reading": "luh mohn-tahzh fee-nahn-syay duh loh-pay-rah-syohn duh el-bay-oh sah-pwee soor oon det say-nyohr ay oon det med-zah-neen rahn-boor-say pahr lay dee-vee-dahnd duh lah seebl",
+                    "translation": "The financing structure of the LBO transaction relies on senior debt and mezzanine debt serviced by dividends from the target company."
+                },
+                {
+                    "target": "Pour commercialiser des jetons numériques en toute légalité en France, l'opérateur doit impérativement obtenir l'agrément PSAN délivré par l'AMF.",
+                    "reading": "poor koh-mair-syah-lee-zay day zhoh-tohn noo-may-reek ahn toot lay-gah-lee-tay ahn frahns, loh-pay-rah-tuhr dwah tan-pay-rah-teev-mahn ohb-tuh-neer lah-gray-mahn pay-es-ah-en day-lee-vray pahr lah-em-ef",
+                    "translation": "To market digital tokens legally in France, the operator must imperatively obtain the PSAN license issued by the AMF."
                 }
             ],
             "mnemonics": [
-                "Conceptual anchor for Système Bancaire, FinTech et Capital-Investissement"
+                "LEVÉE DE FONDS: Seed -> Série A -> Série B -> Licorne ($1B+ valuation)!",
+                "ACPR = Prudential watchdog for banks and insurers!"
             ],
             "culturalNotes": [
-                "Epistemological and institutional significance of Système Bancaire, FinTech et Capital-Investissement in France."
+                "La French Tech is the official government-backed label and ecosystem initiative launched in 2013 to position France as Europe's premier startup innovation hub."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Evaluate banking regulations, venture capital, and fintech innovations » :",
+                    "prompt": "Quel terme désigne l'investissement en fonds propres dans de jeunes entreprises innovantes à fort potentiel de croissance ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette forme présente une anomalie phonétique en français standard (129a).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (129b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (129c)."
+                        "Le capital-risque (Venture Capital)",
+                        "Le livret A",
+                        "Le crédit hypothécaire",
+                        "Le découvert bancaire"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Le « capital-risque » (ou capital-innovation) finance le démarrage et le premier développement des startups technologiques."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u26-l4 :",
+                    "prompt": "Quel organisme supervise la solvabilité et la solidité des banques et assurances en France ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette variante relève d'un registre familier inadapté au contexte (129x).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (129y).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (129z)."
+                        "L'ACPR (Autorité de Contrôle Prudentiel et de Résolution)",
+                        "La DGCCRF",
+                        "Pôle Emploi",
+                        "Le Ministère de la Culture"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C1."
+                    "explanation": "L'ACPR, adossée à la Banque de France, est chargée de surveiller la solidité financière et la conformité des banques et assurances."
                 }
             ]
         },
@@ -14124,25 +14196,25 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u26-l4) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Comment qualifie-t-on une startup non cotée dont la valorisation dépasse le milliard de dollars ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette variante relève d'un registre familier inadapté au contexte (129m).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (129n).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (129p)."
+                        "Une licorne (Unicorn)",
+                        "Une fourmi",
+                        "Une micro-entreprise",
+                        "Une SARL familiale"
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "Une « licorne » désigne une startup technologique non cotée valorisée à plus d'un milliard de dollars."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u26-l4 (terme attendu : « Nous ») :",
+                    "prompt": "Quel sigle désigne le régulateur bancaire et prudentiel français ? (l'_________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "ACPR",
+                        "acpr",
+                        "Acpr"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "L'autorité prudentielle s'abrège en « ACPR »."
                 }
             ],
             "passThreshold": 0.8
@@ -14158,56 +14230,73 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u26-l4"
+            ]
         },
         "presentation": {
-            "explanation": "Rigorous academic exposition of Synthèse d'Analyse Économique et Perspectives Financières. At the CEFR C1 level, learners develop mastery in abstract conceptualization, domain-specific terminology, and sophisticated syntactic structures required for academic, legal, and intellectual fluency in French.",
+            "explanation": "Synthesizing macroeconomic trajectories and financial strategies at an executive C1 level requires structural argumentation and analytical forecasting:\n\n1. Analytical Report Framework (Structure de la Note de Conjoncture Économique):\n- Constat macroéconomique : Diagnostic conjoncturel de croissance, politique monétaire, et tensions sur les prix.\n- Analyse sectorielle et microéconomique : Marges des entreprises, endettement, et dynamique des investissements.\n- Scénarios prospectifs : Scénario central (baseline), risques baissiers (downside risks), et scénarios alternatifs.\n- Recommandations d'allocation d'actifs et arbitrage budgétaire.\n\n2. Advanced Economic Lexicon & Stylistics:\n- Atterrissage en douceur (soft landing) vs récession technique (deux trimestres consécutifs de recul du PIB).\n- Choc d'offre exogène vs choc de demande.\n- Soutenabilité de la trajectoire d'endettement public.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Le scénario central de notre note de conjoncture anticipe un atterrissage en douceur de l'économie européenne, caractérisé par un reflux progressif de l'inflation et une résilience du marché de l'emploi.",
+                    "reading": "luh say-nah-ryoh sahn-trahl duh noh-truh noht duh kohn-zhohnk-toor ahn-tee-seep uhn nah-tair-ree-sahzh ahn doos-uhr duh lay-koh-noh-mee uh-roh-pay-en, kah-rahk-tay-ree-zay pahr uhn ruh-floo proh-greh-seef duh lan-flah-syohn ay oon ray-zeel-yahns doo mahr-shay duh lahn-plwah",
+                    "translation": "The baseline scenario of our economic outlook anticipates a soft landing of the European economy, characterized by a progressive abatement of inflation and employment market resilience."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Face aux risques baissiers pesant sur la croissance mondiale, nous recommandons une allocation prudente privilégiant les obligations souveraines de haute qualité et les valeurs défensives.",
+                    "reading": "fahs oh reesk beh-syay puh-zahn soor lah krwah-sahns mohn-dyahl, noo ruh-koh-mahn-dohn oon nah-loh-kah-syohn proo-dahnt pree-vee-lay-zhyahn lay zoh-blee-gah-syohn soo-vran duh oht kah-lee-tay ay lay vah-luhr day-fahn-seev",
+                    "translation": "In the face of downside risks weighing on global growth, we recommend a prudent allocation favoring high-quality sovereign bonds and defensive equities."
+                },
+                {
+                    "target": "L'impact différé de la transmission de la politique monétaire restrictive continuera de freiner l'investissement productif des entreprises au cours des prochains trimestres.",
+                    "reading": "lan-pahkt deef-fay-ray duh lah trahns-mee-syohn duh lah poh-lee-teek moh-nay-tair res-treek-teev kohn-tee-noo-rah duh freh-nay lan-ves-tees-mahn proh-dook-teef day zahn-truh-preez oh koor day proh-shan tree-mes-truh",
+                    "translation": "The lagged transmission impact of restrictive monetary policy will continue to dampen corporate productive investment over coming quarters."
+                },
+                {
+                    "target": "La divergence conjoncturelle observée entre les économies de la zone euro complique l'arbitrage monétaire unique de la Banque Centrale Européenne.",
+                    "reading": "lah dee-vair-zhahns kohn-zhohnk-too-rel ohb-sair-vay ahn-truh lay zay-koh-noh-mee duh lah zohn uh-roh kohn-pleek lahr-bee-trahzh moh-nay-tair oo-neek duh lah bahnk sahn-trahl uh-roh-pay-en",
+                    "translation": "The cyclical divergence observed between eurozone economies complicates the single monetary arbitrage of the European Central Bank."
+                },
+                {
+                    "target": "En conclusion, la soutenabilité de la trajectoire budgétaire repose impérativement sur la mise en œuvre de réformes structurelles favorisant les gains d'efficacité.",
+                    "reading": "ahn kohn-kloo-zyohn, lah soo-tuh-nah-bee-lee-tay duh lah trah-zhek-twahr boo-dzhay-tair ruh-pohz an-pay-rah-teev-mahn soor lah meez ahn nuh-vruh duh ray-fohrm strook-too-rel fah-voh-ree-zahn lay gan day-fee-kah-see-tay",
+                    "translation": "In conclusion, the sustainability of the fiscal trajectory imperatively depends on the implementation of structural reforms fostering efficiency gains."
                 }
             ],
             "mnemonics": [
-                "Conceptual anchor for Synthèse d'Analyse Économique et Perspectives Financières"
+                "NOTE DE CONJONCTURE: Diagnostic -> Scénario central -> Risques baissiers -> Recommandations!"
             ],
             "culturalNotes": [
-                "Epistemological and institutional significance of Synthèse d'Analyse Économique et Perspectives Financières in France."
+                "The Commission des finances de l'Assemblée nationale conducts high-profile hearings on the annual Budget Bill (Projet de Loi de Finances - PLF), setting national macroeconomic parameters each autumn."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Conduct a comprehensive economic analysis and macroeconomic trend synt » :",
+                    "prompt": "Comment qualifie-t-on en économie le ralentissement contrôlé de l'activité permettant d'éviter une récession brutale ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (130a).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (130b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (130c)."
+                        "Un atterrissage en douceur (soft landing)",
+                        "Un krach boursier",
+                        "Une dévaluation sauvage",
+                        "Une liquidation générale"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "« Un atterrissage en douceur » (soft landing) désigne un ralentissement modéré ramenant l'inflation à la cible sans provoquer de récession sévère."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u26-l5 :",
+                    "prompt": "Que désigne le « scénario central » dans un rapport d'analyse prospective ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (130x).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (130y).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (130z)."
+                        "L'hypothèse jugée la plus probable et servant de référence principale",
+                        "La pire catastrophe imaginable",
+                        "Le scénario impossible",
+                        "L'avis d'une personne isolée"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C1."
+                    "explanation": "Le « scénario central » (baseline scenario) est la projection de référence considérée comme la plus vraisemblable par les analystes."
                 }
             ]
         },
@@ -14215,25 +14304,26 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u26-l5) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "En macroéconomie, comment définit-on une 'récession technique' ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (130m).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (130n).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (130p)."
+                        "Une panne informatique à la Bourse",
+                        "Une baisse des salaires pendant dix ans",
+                        "Au moins deux trimestres consécutifs de recul du PIB",
+                        "Une fermeture des banques le dimanche"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 2,
+                    "explanation": "La définition économique standard d'une « récession technique » est une contraction du PIB pendant au moins deux trimestres consécutifs."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u26-l5 (terme attendu : « Nous ») :",
+                    "prompt": "Quel terme désigne la capacité d'une dette souveraine à être remboursée durablement sans faillite ? (la _________ de la dette)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "soutenabilité",
+                        "Soutenabilité",
+                        "viabilité",
+                        "Viabilité"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "La capacité de remboursement à long terme est la « soutenabilité » (ou viabilité) de la dette."
                 }
             ],
             "passThreshold": 0.8
