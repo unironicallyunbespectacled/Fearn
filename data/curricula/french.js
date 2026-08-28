@@ -12711,56 +12711,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u23-l5"
+            ]
         },
         "presentation": {
-            "explanation": "In-depth analysis of La Consultation Médicale et la Description des Symptômes. At the CEFR B2 level, learners acquire precise command over la consultation médicale et la description des symptômes, integrating advanced syntax with professional and domain-specific lexicon.",
+            "explanation": "In a French medical consultation (la consultation chez le médecin généraliste), patients and doctors use precise clinical terminology and graduated pain scales:\n\n1. Locating and Describing Pain (La Douleur et ses Caractéristiques):\n- Quality of pain: une douleur aiguë (sharp/acute), sourde (dull), lancinante (throbbing/stabbing), diffuse (generalized), irradiante (radiating).\n- Pain intensity scale: 'Sur une échelle de 1 à 10, à combien évaluez-vous votre douleur ?'\n- Sensations: des courbatures (muscle aches), des vertiges / étourdissements (dizziness), des palpitations, des nausées, un engourdissement (numbness), des picotements / fourmillements (tingling).\n\n2. Symptoms & Onset (Début et Évolution):\n- 'Avoir de la fièvre / être fiévreux', 'avoir des frissons', 'avoir le nez bouché / qui coule'.\n- 'La douleur s'est déclenchée brutalement / s'est intensifiée progressivement.'\n\n3. Physical Examination Phrases:\n- 'Déshabillez-vous jusqu'à la taille.' / 'Inspirez profondément, expirez lentement.' / 'Où avez-vous mal quand j'appuie ici ?'",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Je ressens une douleur lancinante dans le bas du dos qui irradie le long de la jambe droite depuis trois jours.",
+                    "reading": "zhuh ruh-sahn oon doo-luhr lahn-see-nahnt dahn luh bah doo doh kee ee-rah-dee luh lohn duh lah zhahnb drwaht duh-pwee trwah zhoor",
+                    "translation": "I feel a throbbing pain in my lower back that radiates down my right leg since three days ago."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Avez-vous constaté des antécédents d'allergie médicamenteuse ou d'hypertension artérielle dans votre famille ?",
+                    "reading": "ah-vay-voo kohn-stah-tay day zahn-tay-say-dahn dah-lair-zhee may-dee-kah-mahn-tuhz oo deep-air-tahn-syohn ahr-tay-ryel dahn voh-truh fah-meey",
+                    "translation": "Have you noticed any family history of drug allergies or arterial hypertension?"
+                },
+                {
+                    "target": "Le patient présente une toux sèche quinteuse accompagnée d'une fièvre oscillant autour de trente-neuf degrés.",
+                    "reading": "luh pah-syahn pray-zahnt oon too sehs kan-tuhz ah-kohn-pah-nyay doon fyev-ruh oh-see-yahn oh-toor duh trahnt-nuhf duh-gray",
+                    "translation": "The patient presents with a dry hacking cough accompanied by a fever fluctuating around 39 degrees."
+                },
+                {
+                    "target": "Sur une échelle de un à dix, la douleur se situe à sept lors de la palpation de l'abdomen.",
+                    "reading": "soor oon ay-shel duh uhn ah dees, lah doo-luhr suh see-too ah set lohr duh lah pahl-pah-syohn duh lahb-doh-men",
+                    "translation": "On a scale from 1 to 10, the pain is at a 7 upon palpation of the abdomen."
+                },
+                {
+                    "target": "Je vais prendre votre tension artérielle et ausculter vos poumons pour écarter tout risque de foyer infectieux.",
+                    "reading": "zhuh vay prahn-druh voh-truh tahn-syohn ahr-tay-ryel ay ohs-kool-tay voh poo-mohn poor ay-kahr-tay too reesk duh fwah-yay an-fek-syuh",
+                    "translation": "I am going to take your blood pressure and listen to your lungs to rule out any risk of an infection focus."
                 }
             ],
             "mnemonics": [
-                "Structural memory anchor for La Consultation Médicale et la Description des Symptômes"
+                "AIGUË = Sharp needle; SOURDE = Muffled heavy thud; LANCINANTE = Stabbing beats!",
+                "COURBATURES = Aches all over the body after effort or flu!"
             ],
             "culturalNotes": [
-                "Authentic pragmatic application of La Consultation Médicale et la Description des Symptômes in professional France."
+                "In France, consultations with a 'médecin généraliste conventionné secteur 1' have a fixed standard government fee (26,50 € in recent tariffs), reimbursable at 70% by Social Security."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Conduct a standard medical consultation, describe clinical symptoms, a » :",
+                    "prompt": "Quel adjectif qualifie une douleur rythmée, pénétrante et répétée comme des coups d'aiguille ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (116a).",
-                        "Cette forme présente une anomalie phonétique en français standard (116b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (116c)."
+                        "lancinante",
+                        "sourde",
+                        "apaisante",
+                        "légère"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Une douleur « lancinante » est aiguë, répétitive et lancée par vagues successives."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u24-l1 :",
+                    "prompt": "Que signifie ressentir des « courbatures » après un effort physique ou lors d'un état grippal ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (116x).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (116y).",
-                        "Cette forme présente une anomalie phonétique en français standard (116z)."
+                        "Des douleurs musculaires diffuses",
+                        "Une fracture osseuse",
+                        "Une perte d'audition",
+                        "Une piqûre d'insecte"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B2."
+                    "explanation": "Les « courbatures » désignent des douleurs musculaires diffuses et douloureuses liées à la fatigue ou à une infection virale."
                 }
             ]
         },
@@ -12768,25 +12786,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u24-l1) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Que demande le médecin en disant « Déshabillez-vous jusqu'à la taille » ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (116m).",
-                        "La préposition employée ici n'est pas commandée par le verbe (116n).",
-                        "Cette forme présente une anomalie phonétique en français standard (116p)."
+                        "Enlever le haut de ses vêtements pour un examen clinique du thorax",
+                        "Enlever uniquement ses chaussures",
+                        "Mettre un manteau",
+                        "Quitter le cabinet médical"
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "« Jusqu'à la taille » invite le patient à retirer ses vêtements supérieurs pour permettre l'auscultation."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u24-l1 (terme attendu : « Nous ») :",
+                    "prompt": "Complétez la formule médicale : « Je vais prendre votre _________ (pression artérielle) et votre pouls. »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "tension",
+                        "Tension"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "En français courant et médical, la pression sanguine est appelée la « tension »."
                 }
             ],
             "passThreshold": 0.8
@@ -12802,56 +12819,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u24-l1"
+            ]
         },
         "presentation": {
-            "explanation": "In-depth analysis of Prescriptions Médicales, Posologie et Pharmacie. At the CEFR B2 level, learners acquire precise command over prescriptions médicales, posologie et pharmacie, integrating advanced syntax with professional and domain-specific lexicon.",
+            "explanation": "Understanding medical prescriptions (l'ordonnance médicale) and instructions in a pharmacy (à l'officine) requires familiarity with dosage, delivery forms, and precautions:\n\n1. Delivery Forms & Formulations (Les Formes Galéniques):\n- Un comprimé (tablet), une gélule (capsule), un sachet effervescent, un sirop, une pommade / un gel cutané, des gouttes auriculaires / ophtalmiques.\n- Médicament générique (generic equivalent) vs médicament princeps (brand-name original).\n\n2. Posology & Administration Rules (La Posologie):\n- Frequency: 'Prendre 1 comprimé trois fois par jour' (matin, midi et soir).\n- Timing relative to meals: Au milieu du repas (with meals), À jeun (on an empty stomach), Avant le coucher (at bedtime).\n- Duration: 'Pendant 7 jours consécutifs sans interruption.' / 'Ne pas dépasser la dose journalière maximale.'\n\n3. Precautions & Side Effects (Précautions et Effets Indésirables):\n- 'Ce médicament peut entraîner une somnolence au volant.' / 'Éviter toute consommation d'alcool.' / 'Contre-indiqué en cas de grossesse.'",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Prenez deux gélules d'amoxicilline matin et soir au cours du repas pendant une durée stricte de six jours.",
+                    "reading": "pruh-nay duh zhay-lool dah-mohk-see-see-leen mah-tan ay swahr oh koor doo ruh-pah pahn-dahn oon doo-ray streekt duh see zhoor",
+                    "translation": "Take two amoxicillin capsules morning and evening with food for a strict duration of six days."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Le pharmacien m'a proposé le médicament générique qui possède rigoureusement la même molécule active que le princeps.",
+                    "reading": "luh fahr-mah-syan mah proh-poh-zay luh may-dee-kah-mahn zhay-nay-reek kee poh-sed ree-goo-ruhz-mahn lah mehm moh-lay-kool ahk-teev kuh luh pran-seps",
+                    "translation": "The pharmacist offered me the generic drug which has strictly the same active molecule as the brand-name drug."
+                },
+                {
+                    "target": "Dissoudre un sachet effervescent dans un grand verre d'eau toutes les six heures en cas de pic fébrile persistant.",
+                    "reading": "dee-soo-druh uhn sah-shay ef-fair-veh-sahn dahn zuhn grahn vair doh toot lay see zuhr ahn kah duh peek fay-breel pair-sees-tahn",
+                    "translation": "Dissolve one effervescent sachet in a large glass of water every six hours in case of persistent fever spike."
+                },
+                {
+                    "target": "Attention, cette molécule présente des contre-indications formelles chez les femmes enceintes et les conducteurs d'engins lourds.",
+                    "reading": "ah-tahn-syohn, set moh-lay-kool pray-zahnt day kohn-truh-an-dee-kah-syohn fohr-mel shay lay fahm ahn-sant ay lay kohn-dook-tuhr dahn-zhan loor",
+                    "translation": "Warning, this molecule has strict contraindications for pregnant women and heavy machinery drivers."
+                },
+                {
+                    "target": "Conservez ce flacon à l'abri de la lumière et de l'humidité à une température ne dépassant pas vingt-cinq degrés.",
+                    "reading": "kohn-sair-vay suh flah-kohn ah lah-bree duh lah loo-myair ay duh loo-mee-dee-tay ah oon tahn-pay-rah-toor nuh day-pah-sahn pah van-sank duh-gray",
+                    "translation": "Store this bottle away from light and moisture at a temperature not exceeding twenty-five degrees."
                 }
             ],
             "mnemonics": [
-                "Structural memory anchor for Prescriptions Médicales, Posologie et Pharmacie"
+                "À JEUN = EMPTY BELLY in the morning; PRINCEPS = Brand-name original drug!",
+                "NON SUBSTITUABLE (NS) = Do not replace brand drug with generic!"
             ],
             "culturalNotes": [
-                "Authentic pragmatic application of Prescriptions Médicales, Posologie et Pharmacie in professional France."
+                "In France, pharmacists have the legal right of substitution (droit de substitution) to dispense generic medications unless the physician writes 'Non Substituable (NS)'."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Understand pharmacological prescriptions, posology instructions, and p » :",
+                    "prompt": "Que signifie l'instruction posologique « à jeun » sur une boîte de comprimés ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "La préposition employée ici n'est pas commandée par le verbe (117a).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (117b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (117c)."
+                        "Avant d'avoir mangé, l'estomac vide",
+                        "Après un banquet copieux",
+                        "Pendant que l'on court",
+                        "Uniquement à minuit"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Prendre un médicament « à jeun » signifie le prendre l'estomac vide, généralement le matin avant le petit-déjeuner."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u24-l2 :",
+                    "prompt": "Quel terme désigne la version non brevetée et moins onéreuse d'un médicament de marque ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (117x).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (117y).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (117z)."
+                        "un générique",
+                        "un placebo",
+                        "un antibiotique",
+                        "un toxique"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B2."
+                    "explanation": "Un « générique » est la copie bioéquivalente d'un médicament dont le brevet est tombé dans le domaine public."
                 }
             ]
         },
@@ -12859,25 +12894,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u24-l2) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Sur une ordonnance, quelle mention interdit au pharmacien de remplacer un princeps par un générique ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (117m).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (117n).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (117p)."
+                        "À renouveler",
+                        "Non Substituable (NS)",
+                        "En vente libre",
+                        "Usage externe"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 1,
+                    "explanation": "La mention légale manuscrite « Non Substituable » (NS) impose la délivrance du médicament de marque princeps."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u24-l2 (terme attendu : « Nous ») :",
+                    "prompt": "Quel document officiel rédigé par le médecin permet d'obtenir des médicaments en pharmacie ? (une _________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "ordonnance",
+                        "Ordonnance"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "La prescription médicale s'appelle une « ordonnance »."
                 }
             ],
             "passThreshold": 0.8
@@ -12893,56 +12927,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u24-l2"
+            ]
         },
         "presentation": {
-            "explanation": "In-depth analysis of Le Système de Santé Français : Sécurité Sociale et Mutuelle. At the CEFR B2 level, learners acquire precise command over le système de santé français : sécurité sociale et mutuelle, integrating advanced syntax with professional and domain-specific lexicon.",
+            "explanation": "France's healthcare model (la Sécu) relies on a universal public foundation complemented by private mutual insurance:\n\n1. The Coordinated Care Pathway (Le Parcours de Soins Coordonnés):\n- Le médecin traitant (designated primary care physician who coordinates referrals).\n- Without a declared médecin traitant, reimbursements drop drastically (pénalité hors parcours de soins).\n- Direct access specialists: gynécologue, ophtalmologue, psychiatre (16-25 ans), dentiste.\n\n2. Social Security & Digital Health (Sécurité Sociale et Carte Vitale):\n- La carte Vitale (electronic chip card enabling automated electronic claim filing / télétransmission).\n- Le numéro de sécurité sociale (15-digit NIR identifier) / La CPAM.\n\n3. Co-payment & Supplementary Insurance (Ticket Modérateur et Mutuelle):\n- Le tarif de convention (negotiated base fee).\n- Le ticket modérateur (the remaining co-pay percentage left to the patient, covered by la mutuelle).\n- Dépassement d'honoraires (fees charged above base tariff by Sector 2 doctors).\n- Le tiers payant (direct billing system where patient pays zero upfront).",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "En insérant votre carte Vitale chez le praticien, la feuille de soins est télétransmise directement à votre CPAM.",
+                    "reading": "ahn nan-zay-rahn voh-truh kahrt vee-tahl shay luh prah-tee-syan, lah fuy duh swan ay tay-lay-trahns-meez dee-rek-tuh-mahn ah voh-truh say-pay-ah-em",
+                    "translation": "By inserting your carte Vitale at the practitioner's office, the treatment form is electronically transmitted directly to your health insurance fund."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Afin de respecter le parcours de soins coordonnés et d'être remboursé au taux plein, vous devez déclarer un médecin traitant.",
+                    "reading": "ah-fan duh res-pek-tay luh pahr-koor duh swan koh-ohr-doh-nay ay deh-truh rahn-boor-zay oh toh plan, voo duh-vay day-klah-ray uhn may-d-san treh-tahn",
+                    "translation": "In order to respect the coordinated care pathway and receive full reimbursement, you must declare a primary care physician."
+                },
+                {
+                    "target": "Grâce au mécanisme du tiers payant, la pharmacie facture directement la Sécurité sociale et votre mutuelle sans avance de frais.",
+                    "reading": "grah-sah oo may-kah-neezm doo tyair peh-yahn, lah fahr-mah-see fahk-toor dee-rek-tuh-mahn lah say-koo-ree-tay soh-syahl ay voh-truh moo-twel sahn nah-vahns duh freh",
+                    "translation": "Thanks to the third-party payment mechanism, the pharmacy bills Social Security and your mutual fund directly with no upfront payment."
+                },
+                {
+                    "target": "Ce spécialiste conventionné en secteur 2 pratique des dépassements d'honoraires non pris en charge par le régime général.",
+                    "reading": "suh spay-syah-leest kohn-vahn-syoh-nay ahn sek-tuhr duh prah-teek day day-pahs-mahn doh-noh-rair nohn pree zahn shahrzh pahr luh ray-zheem zhay-nay-rahl",
+                    "translation": "This Sector 2 contracted specialist charges fee overruns not covered by the general regime."
+                },
+                {
+                    "target": "Le ticket modérateur et le forfait journalier hospitalier sont intégralement pris en charge par ma complémentaire santé d'entreprise.",
+                    "reading": "luh tee-keh moh-day-rah-tuhr ay luh fohr-feh zhoor-nah-lyay ohs-pee-tah-lyay sohn tan-tay-grahl-mahn pree zahn shahrzh pahr mah kohn-play-mahn-tair sahn-tay dahn-truh-preez",
+                    "translation": "The co-payment ticket and daily hospital allowance are fully covered by my company supplementary health insurance."
                 }
             ],
             "mnemonics": [
-                "Structural memory anchor for Le Système de Santé Français : Sécurité Sociale et Mutuelle"
+                "TIERS PAYANT = NO UPFRONT MONEY! CARTE VITALE = INSTANT TÉLÉTRANSMISSION!",
+                "MÉDECIN TRAITANT = Compass of your healthcare journey!"
             ],
             "culturalNotes": [
-                "Authentic pragmatic application of Le Système de Santé Français : Sécurité Sociale et Mutuelle in professional France."
+                "The green 'carte Vitale' was introduced in 1998 and has become the universal emblem of French social solidarity and universal access to healthcare."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Navigate the French social healthcare system (Sécurité sociale, carte  » :",
+                    "prompt": "Quel est le rôle du 'médecin traitant' dans le système de santé français ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (118a).",
-                        "La préposition employée ici n'est pas commandée par le verbe (118b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (118c)."
+                        "Coordonner le parcours de soins du patient pour un remboursement optimal",
+                        "Effectuer des opérations chirurgicales d'urgence",
+                        "Fixer les prix des médicaments en pharmacie",
+                        "Gérer le budget des hôpitaux militaires"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Le médecin traitant assure le suivi médical global et oriente vers les spécialistes dans le cadre du parcours de soins coordonnés."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u24-l3 :",
+                    "prompt": "Que permet le système du « tiers payant » pour l'assuré social ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (118x).",
-                        "Cette forme présente une anomalie phonétique en français standard (118y).",
-                        "La préposition employée ici n'est pas commandée par le verbe (118z)."
+                        "Ne pas avoir à faire l'avance des frais médicaux",
+                        "Payer le triple du montant de la consultation",
+                        "Consulter sans aucune ordonnance",
+                        "Obtenir des médicaments gratuits à vie"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B2."
+                    "explanation": "Le tiers payant dispense le patient d'avancer la part des frais prise en charge par la Sécurité sociale et la mutuelle."
                 }
             ]
         },
@@ -12950,25 +13002,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u24-l3) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Comment s'appelle la part financière restant à la charge de l'assuré après le remboursement de base de la Sécurité sociale ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (118m).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (118n).",
-                        "La préposition employée ici n'est pas commandée par le verbe (118p)."
+                        "Le forfait d'hospitalisation de luxe",
+                        "La prime de départ",
+                        "Le ticket modérateur",
+                        "La taxe d'apprentissage"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 2,
+                    "explanation": "Le « ticket modérateur » est la part des dépenses de santé qui reste à la charge de l'assuré (souvent remboursée par la mutuelle)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u24-l3 (terme attendu : « Nous ») :",
+                    "prompt": "Comment s'appelle la carte à puce verte attestant des droits à l'Assurance Maladie ? (la carte _________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "Vitale",
+                        "vitale"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "La carte d'assurance maladie française s'appelle la « carte Vitale »."
                 }
             ],
             "passThreshold": 0.8
@@ -12984,56 +13035,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u24-l3"
+            ]
         },
         "presentation": {
-            "explanation": "In-depth analysis of Urgences, Hospitalisation et Examens Médicaux. At the CEFR B2 level, learners acquire precise command over urgences, hospitalisation et examens médicaux, integrating advanced syntax with professional and domain-specific lexicon.",
+            "explanation": "Navigating emergency services (les urgences) and inpatient care (l'hospitalisation) involves specialized medical logistics and surgical terms:\n\n1. Emergency Numbers & Response Units:\n- Le 15 : Le SAMU (Service d'Aide Médicale Urgente - mobile ICU / SMUR).\n- Le 18 : Les Sapeurs-Pompiers (trauma, fires, road accidents).\n- Le 112 : European emergency number.\n- Le service des urgences / le triage médical.\n\n2. Diagnostic Imaging & Lab Tests (Les Examens Complémentaires):\n- Une prise de sang / un bilan sanguin complet.\n- Une radiographie (radio), une échographie, un scanner, une IRM (Imagerie par Résonance Magnétique), un électrocardiogramme (ECG).\n\n3. Surgical Interventions & Inpatient Care (Chirurgie et Hospitalisation):\n- Une anesthésie générale / locale / rachidienne.\n- Le bloc opératoire / La salle de réveil / Les soins intensifs / La réanimation.\n- Hospitalisation de jour (ambulatoire) vs hospitalisation complète.\n- Le bulletin de sortie / la convalescence / la rééducation fonctionnelle.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Le SAMU a régulé l'appel et dépêché une équipe mobile du SMUR pour prendre en charge la victime en arrêt cardio-respiratoire.",
+                    "reading": "luh sah-moo ah ray-goo-lay lah-pel ay day-peh-shay oon ay-keep moh-beel doo smoor poor prahn-druh zahn shahrzh lah veek-teem ahn nah-reh kahr-dyoh-res-pee-rah-twahr",
+                    "translation": "The SAMU handled the emergency call and dispatched a mobile intensive care unit to care for the victim in cardiac arrest."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Le chirurgien préconise une intervention sous cœlioscopie en chirurgie ambulatoire avec une sortie prévue en fin d'après-midi.",
+                    "reading": "luh shee-roor-zhyan pray-koh-neez oon nan-tair-vahn-syohn soo seh-lyohs-koh-pee ahn shee-roor-zhee ahm-boo-lah-twahr ah-vek oon sohr-tee pray-voo ahn fan dah-preh-mee-dee",
+                    "translation": "The surgeon recommends a laparoscopic procedure in day surgery with discharge scheduled for late afternoon."
+                },
+                {
+                    "target": "Les résultats de l'IRM cérébrale et de la ponction lombaire n'ont révélé aucune lésion neurologique aiguë.",
+                    "reading": "lay ray-zool-tah duh leer-em say-ray-brahl ay duh lah pohnk-syohn lohm-bair nohn ray-vay-lay oh-koon lay-zyohn nuh-roh-loh-zheek ay-goo",
+                    "translation": "The results of the brain MRI and lumbar puncture revealed no acute neurological lesion."
+                },
+                {
+                    "target": "Après un passage de deux heures en salle de réveil, le patient a été transféré dans le service de chirurgie orthopédique.",
+                    "reading": "ah-preh zuhn pah-sahzh duh duh zuhr ahn sahl duh ray-vay, luh pah-syahn ah ay-tay trahns-fay-ray dahn luh sair-vees duh shee-roor-zhee ohr-toh-pay-deek",
+                    "translation": "After two hours in the post-anesthesia recovery unit, the patient was transferred to the orthopedic surgery department."
+                },
+                {
+                    "target": "Le médecin rééducateur a établi un protocole de kinésithérapie motrice afin d'accélérer la récupération articulaire.",
+                    "reading": "luh may-d-san ray-ay-doo-kah-tuhr ah ay-tah-blee uhn proh-toh-kohl duh kee-nay-zee-tay-rah-pee moh-trees ah-fan dahk-say-lay-ray lah ray-koo-pay-rah-syohn ahr-tee-koo-lair",
+                    "translation": "The physical therapist established a motor rehabilitation protocol to accelerate joint recovery."
                 }
             ],
             "mnemonics": [
-                "Structural memory anchor for Urgences, Hospitalisation et Examens Médicaux"
+                "15 = MÉDECIN (SAMU); 18 = FEU / POMPIER; 17 = POLICE; 112 = EUROPE!",
+                "SALLE DE RÉVEIL = Post-op monitoring before the room!"
             ],
             "culturalNotes": [
-                "Authentic pragmatic application of Urgences, Hospitalisation et Examens Médicaux in professional France."
+                "The French SAMU model brings medical doctors directly to the patient in the field (mobile ICU), unlike Anglo-Saxon paramedic-based scoop-and-run systems."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Describe hospital admissions, diagnostic testing, surgical interventio » :",
+                    "prompt": "Quel numéro d'urgence abrégé compose-t-on en France pour joindre directement le SAMU médical ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette forme présente une anomalie phonétique en français standard (119a).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (119b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (119c)."
+                        "15",
+                        "18",
+                        "17",
+                        "114"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Le 15 est le numéro d'urgence médicale gratuit permettant de joindre la régulation du SAMU."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u24-l4 :",
+                    "prompt": "Que signifie une intervention chirurgicale réalisée en « ambulatoire » ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette variante relève d'un registre familier inadapté au contexte (119x).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (119y).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (119z)."
+                        "Le patient rentre chez lui le jour même de l'opération sans nuitée d'hôpital",
+                        "L'opération a lieu dans une ambulance en marche",
+                        "Le patient reste hospitalisé pendant trois semaines",
+                        "L'opération est pratiquée sans anesthésie"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B2."
+                    "explanation": "La chirurgie « ambulatoire » désigne des actes chirurgicaux programmés où l'admission et la sortie ont lieu le même jour."
                 }
             ]
         },
@@ -13041,25 +13110,25 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u24-l4) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Où est surveillé un patient immédiatement après une opération chirurgicale avant de regagner sa chambre ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette variante relève d'un registre familier inadapté au contexte (119m).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (119n).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (119p)."
+                        "En salle de réveil (salle de surveillance post-interventionnelle)",
+                        "À la cafétéria de l'hôpital",
+                        "Dans la cour intérieure",
+                        "Au guichet d'accueil"
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "La salle de réveil permet une surveillance post-anesthésique continue des constantes vitales."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u24-l4 (terme attendu : « Nous ») :",
+                    "prompt": "Quel examen d'imagerie médicale utilisant un champ magnétique puissant s'abrège en trois lettres ? (une _________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "IRM",
+                        "irm",
+                        "Irm"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "L'Imagerie par Résonance Magnétique s'abrège en « IRM »."
                 }
             ],
             "passThreshold": 0.8
@@ -13075,56 +13144,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u24-l4"
+            ]
         },
         "presentation": {
-            "explanation": "In-depth analysis of Débats de Santé Publique et Prévention Sanitaire. At the CEFR B2 level, learners acquire precise command over débats de santé publique et prévention sanitaire, integrating advanced syntax with professional and domain-specific lexicon.",
+            "explanation": "Engaging in sophisticated public health debates in France involves analyzing systemic challenges, ethical dilemmas, and preventive policies:\n\n1. Systemic Challenges (Les Défis du Système de Soins):\n- Les déserts médicaux (rural or suburban areas with severe doctor shortages).\n- L'engorgement des urgences (emergency room overcrowding).\n- Le vieillissement démographique et la dépendance (EHPAD).\n- Le trou de la Sécu / Le financement de l'hôpital public.\n\n2. Bioethics & Legislation (Les Questions Bioéthiques):\n- Les lois de bioéthique révisées régulièrement par le Parlement.\n- La procréation médicalement assistée (PMA) / la fin de vie (soins palliatifs vs aide active à mourir).\n- Le don d'organes (principe du consentement présumé en droit français).\n\n3. Preventive Policies & Public Campaigns:\n- Les campagnes de dépistage précoce (mammographie, cancer colorectal).\n- La vaccination obligatoire des nourrissons (11 vaccins obligatoires en France).\n- Le Nutri-Score / la taxation comportementale.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "La lutte contre les déserts médicaux nécessite des incitations financières fortes et le développement des téléconsultations dans les zones rurales.",
+                    "reading": "lah loot kohn-truh lay day-zair may-dee-koh nay-seh-seet day zan-san-tah-syohn fee-nahn-syair fohrt ay luh day-vloh-pmahn day tay-lay-kohn-sool-tah-syohn dahn lay zohn roo-rahl",
+                    "translation": "The fight against medical deserts requires strong financial incentives and the expansion of teleconsultations in rural areas."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Le débat parlementaire sur la fin de vie oppose les partisans d'un développement massif des soins palliatifs aux défenseurs de l'aide active à mourir.",
+                    "reading": "luh day-bah pahr-luh-mahn-tair soor lah fan duh vee oh-pohz lay pahr-tee-zahn doon day-vloh-pmahn mah-seef day swan pah-lyah-teef oh day-fahn-suhr duh lehd ahk-teev ah moo-reer",
+                    "translation": "The parliamentary debate on end-of-life care pits supporters of massive palliative care development against advocates of active assistance in dying."
+                },
+                {
+                    "target": "En France, la loi pose le principe du consentement présumé pour le don d'organes, sauf inscription expresse sur le registre national des refus.",
+                    "reading": "ahn frahns, lah lwah pohz luh pran-seep doo kohn-sahn-tuh-mahn pray-zoo-may poor luh dohn dohr-gahn, sohf an-skreep-syohn eks-pres soor luh ruh-zheest-ruh nah-syoh-nahl day ruh-foo",
+                    "translation": "In France, the law establishes the principle of presumed consent for organ donation, unless explicitly registered on the national refusal registry."
+                },
+                {
+                    "target": "L'adoption du logo nutritionnel Nutri-Score a permis d'éclairer les choix alimentaires des consommateurs et d'inciter les industriels à reformuler leurs produits.",
+                    "reading": "lah-dohp-syohn doo loh-goh noo-tree-syoh-nel noo-tree-skohr ah pair-mee day-kleh-ray lay shwah zah-lee-mahn-tair day kohn-soh-mah-tuhr ay dan-see-tay lay zan-doos-tree-yel ah ruh-fohr-moo-lay luhr proh-dwee",
+                    "translation": "The adoption of the Nutri-Score nutritional label enabled consumers to make informed dietary choices and prompted manufacturers to reformulate products."
+                },
+                {
+                    "target": "Le dépistage précoce des pathologies chroniques constitue un levier majeur pour désengorger les structures hospitalières et préserver l'équilibre financier de l'Assurance Maladie.",
+                    "reading": "luh day-pees-tahzh pray-kohs day pah-toh-loh-zhee kroh-neek kohn-stee-too uhn luh-vyay mah-zhuhr poor day-zahn-gohr-zhay lay strook-toor zohs-pee-tah-lyair ay pray-zair-vay lay-kee-leeb-ruh fee-nahn-syay duh lah-soo-rahns mah-lah-dee",
+                    "translation": "Early screening for chronic diseases is a major lever to relieve hospital congestion and preserve health insurance financial stability."
                 }
             ],
             "mnemonics": [
-                "Structural memory anchor for Débats de Santé Publique et Prévention Sanitaire"
+                "CONSENTEMENT PRÉSUMÉ: Every French citizen is an organ donor by default unless registered in refusal!",
+                "NUTRI-SCORE = Green A to Red E for healthy choices!"
             ],
             "culturalNotes": [
-                "Authentic pragmatic application of Débats de Santé Publique et Prévention Sanitaire in professional France."
+                "The 'Comité Consultatif National d'Éthique' (CCNE), founded in 1983, guides French bioethical debates and advises the government on contentious societal and medical dilemmas."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Debate contemporary public health issues, preventive medicine policies » :",
+                    "prompt": "En droit français de la santé, quelle est la règle par défaut concernant le don d'organes après décès ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (120a).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (120b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (120c)."
+                        "Le consentement présumé (tout citoyen est donneur sauf refus explicite)",
+                        "L'interdiction absolue de tout prélèvement",
+                        "Le tirage au sort national",
+                        "L'autorisation payante obligatoire"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "La loi française applique le principe du « consentement présumé » : chacun est présumé donneur sauf inscription sur le registre des refus."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u24-l5 :",
+                    "prompt": "Comment appelle-t-on les zones géographiques souffrant d'une grave pénurie de praticiens de santé ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (120x).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (120y).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (120z)."
+                        "Les déserts médicaux",
+                        "Les oasis hospitalières",
+                        "Les forêts sanitaires",
+                        "Les réserves cliniques"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B2."
+                    "explanation": "L'expression consacrée en aménagement du territoire et santé publique est « les déserts médicaux »."
                 }
             ]
         },
@@ -13132,25 +13219,26 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u24-l5) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle unité de soins est dédiée à l'accompagnement et au soulagement de la douleur des personnes en fin de vie ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (120m).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (120n).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (120p)."
+                        "La maternité",
+                        "Les soins palliatifs",
+                        "La chirurgie esthétique",
+                        "La pédiatrie néonatale"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 1,
+                    "explanation": "Les « soins palliatifs » visent à soulager la douleur physique et la détresse psychologique des patients atteints de maladies graves ou en fin de vie."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u24-l5 (terme attendu : « Nous ») :",
+                    "prompt": "Quel système d'étiquetage nutritionnel à 5 lettres (A à E) et couleurs est utilisé en France ? (le _________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "Nutri-Score",
+                        "nutri-score",
+                        "Nutriscore",
+                        "nutriscore"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Le logo d'information nutritionnelle officiel est le « Nutri-Score »."
                 }
             ],
             "passThreshold": 0.8
