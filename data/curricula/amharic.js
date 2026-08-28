@@ -5935,60 +5935,60 @@
         "subject": "amharic",
         "unit": 11,
         "lessonNumber": 1,
-        "title": "ጊዜ፣ ሰዓት እና የቀን መቁጠሪያ (Time Expressions & Calendar) (Part 1)",
+        "title": "Telling Time: The Ethiopian Clock System (6-Hour Offset)",
         "level": "B1",
-        "objective": "Comprehensive mastery of ሰዓት እና የቀን ስሞች (Time and Days).",
+        "objective": "Tell time in Amharic using the Ethiopian time system, which starts counting hours from sunrise (6 AM = 12:00 in Ethiopian time) and differs from the Western 12-hour clock by exactly 6 hours.",
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ሰዓት እና የቀን ስሞች (Time and Days) - ደረጃ 1) ተማሪዎች ስለ ሰዓት እና የቀን ስሞች (Time and Days) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "One of the most surprising features of everyday Amharic for Western learners is the Ethiopian time system. Ethiopia does not use the international 12-hour AM/PM clock. Instead, the clock starts at sunrise (approximately 6 AM) = Ethiopian hour 1. This creates a 6-hour offset from the Western system.\n\nTHE CONVERSION RULE:\nEthiopian time = Western time − 6 (for daytime hours)\n\nEXAMPLES:\n• 6:00 AM Western = 12:00 Ethiopian time (dawn/midnight in their system = ቀን ሌሊት)\n• 7:00 AM Western = 1:00 Ethiopian time [ቀን አንድ ሰዓት]\n• 9:00 AM Western = 3:00 Ethiopian time [ቀን ሦስት ሰዓት]\n• 12:00 PM Western (noon) = 6:00 Ethiopian time [ቀን ስድስት ሰዓት]\n• 6:00 PM Western (dusk) = 12:00 Ethiopian night time\n• 7:00 PM Western = 1:00 Ethiopian night time [ማታ አንድ ሰዓት]\n• 12:00 AM Western (midnight) = 6:00 Ethiopian night time\n\nVOCABULARY FOR TELLING TIME:\n• ሰዓቱ ስንት ነው? (Seaattu sint new?) — What time is it?\n• ሰዓት (seaat) — hour / time\n• ደቂቃ (deqiqa) — minute\n• ሴኮንድ (sehond) — second\n• ቀን (qen) — daytime [used before Ethiopian hours 1-12, i.e., 7 AM to 7 PM]\n• ማታ (mata) — night/evening [used for Ethiopian night hours 1-12, 7 PM to 7 AM]\n• ተኩል (tequl) — half past [ሦስት ሰዓት ተኩል = 3:30 Ethiopian = 9:30 AM Western]\n• ሩብ (rub) — quarter [ሦስት ሰዓት ሩብ = 3:15 Ethiopian]\n• ያነሰ (yanesse) — minus/before [ሦስት ሰዓት ሩብ ያነሰ = quarter to three Ethiopian]\n\nCONCRETE EXAMPLES:\nሰዓቱ ቀን ሁለት ነው = It is 2:00 Ethiopian daytime = 8:00 AM Western\nሰዓቱ ቀን ሰባት ተኩል ነው = It is 7:30 Ethiopian = 1:30 PM Western\nሰዓቱ ማታ አምስት ነው = It is 5:00 Ethiopian night = 11:00 PM Western\n\nIMPORTANT NOTE: In urban Ethiopia today, some people (especially in business contexts) use the international clock (ዘመናዊ ሰዓት, international time), but traditional Ethiopian time is still widely used in everyday speech, in religious contexts, and in rural areas. A learner MUST know both systems to avoid serious scheduling confusion.",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የሰዓት እና የቀን ስሞች (Time and Days) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (11.1.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ሰዓቱ ቀን አሥር ሰዓት ሩብ ያነሰ ነው — ማለትም ምዕራባዊ ሰዓት አራት ሰዓት አርባ አምስት ደቂቃ።",
+                    "reading": "Seaattu qen asir seaat rub yanesse new — maletim mirabawi seaat arat seaat arba amist diqiqa.",
+                    "translation": "It is quarter to ten Ethiopian time — meaning 4:45 PM Western time."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (11.1.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "— ሰዓቱ ስንት ነው? — ቀን ስምንት ተኩል።",
+                    "reading": "— Seaattu sint new? — Qen simint tequl.",
+                    "translation": "— What time is it? — Eight-thirty [Ethiopian daytime] = 2:30 PM Western."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (11.1.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ስብሰባው ቀን አምስት ሰዓት ነው — ምዕራባዊ ሰዓት አሥራ አንድ ነው።",
+                    "reading": "Sibsebaw qen amist seaat new — mirabawi seaat asira and new.",
+                    "translation": "The meeting is at five o'clock Ethiopian — that is eleven o'clock Western."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ሰዓት እና የቀን ስሞች (Time and Days)"
+                "The Ethiopian clock conversion: subtract 6 to go from Western to Ethiopian (morning), or add 6 to go from Ethiopian to Western. Memory trick: Ethiopia is '6 ahead' of itself — the day starts at 1 when the sun rises (6 AM). Think: 'when the sun rises at 6 Western, Ethiopia says it's 12 — dawn.' The day resets with the sun, not at midnight."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "The Ethiopian time system reflects an ancient Semitic worldview where the day begins at sunrise, as documented in the Bible ('and it was evening and morning, the first day'). Ethiopia's Tewahedo Orthodox Church uses this time system for liturgical purposes — church services are called at specific Ethiopian hours. Knowing the Ethiopian clock is essential for navigating religious schedules, market hours, and even some government office hours in rural areas. Travelers who miss meetings in Ethiopia because of clock confusion is a real and well-documented phenomenon."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ሰዓት እና የቀን ስሞች (Time and Days)» አጠቃቀም በደረጃ 1 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "Western time 3:00 PM ን ወደ ኢትዮጵያ ሰዓት ቀይሩ:",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (11.1.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (11.1.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (11.1.3)።"
+                        "ቀን ሦስት ሰዓት",
+                        "ቀን ዘጠኝ ሰዓት",
+                        "ማታ ሦስት ሰዓት"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "Ethiopian time = Western time − 6. 3:00 PM Western − 6 = 9:00 Ethiopian daytime. So: ቀን ዘጠኝ ሰዓት. Option A (ቀን ሦስት ሰዓት) = 3:00 Ethiopian = 9:00 AM Western — wrong direction. Option C uses ማታ (night) which is for Ethiopian hours corresponding to Western evening/night."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ጊዜ፣ ሰዓት እና የቀን መቁጠሪያ (Time Expressions & Calendar)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 1)፡",
+                    "prompt": "«ቀን ስድስት ሰዓት» ወደ Western time ቀይሩ:",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (11.1.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (11.1.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (11.1.3)።"
+                        "6:00 AM",
+                        "12:00 PM (noon)",
+                        "6:00 PM"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "Ethiopian time + 6 = Western time. ቀን ስድስት (6 Ethiopian daytime) + 6 = 12:00 PM Western (noon). Ethiopian 6 = the midpoint of the daytime counting. 6:00 AM Western = Ethiopian 12 (dawn start). 6:00 PM Western = Ethiopian 12 (dusk/start of night time)."
                 }
             ]
         },
@@ -5996,22 +5996,22 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ሰዓት እና የቀን ስሞች (Time and Days)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 11-1)?",
+                    "prompt": "«ሰዓቱ ስንት ነው?» ምን ያህል ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (11.1.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (11.1.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (11.1.3)።"
+                        "What day is today?",
+                        "What time is it?",
+                        "How many hours until the meeting?"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "ሰዓቱ (seaattu) = the time / the hour [definite: ሰዓት + -ው]; ስንት (sint) = how much/how many; ነው (new) = is. Together: 'The time is how much?' = 'What time is it?' This is the standard Amharic clock question."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ሰዓት_11_1»):",
+                    "prompt": "Type the Amharic word meaning 'half past' (used in telling time, e.g., 3:30 = three _____):",
                     "acceptedAnswers": [
-                        "ሰዓት_11_1"
+                        "ተኩል"
                     ],
-                    "explanation": "The target keyword was: 【ሰዓት_11_1】"
+                    "explanation": "ተኩል (tequl) = half/half past. Used in time expressions: ሦስት ሰዓት ተኩል = 3:30 (Ethiopian) = 9:30 AM Western. ሩብ (rub) = quarter. ሩብ ያነሰ = quarter to."
                 }
             ]
         }
@@ -6021,60 +6021,60 @@
         "subject": "amharic",
         "unit": 11,
         "lessonNumber": 2,
-        "title": "ጊዜ፣ ሰዓት እና የቀን መቁጠሪያ (Time Expressions & Calendar) (Part 2)",
+        "title": "Days of the Week and the Seven-Day Ethiopian Week",
         "level": "B1",
-        "objective": "Comprehensive mastery of ሰዓት እና የቀን ስሞች (Time and Days).",
+        "objective": "Name and use the seven days of the Ethiopian week in Amharic — ሰኞ through እሁድ — understand their Ge'ez/Semitic etymologies, and use them correctly in scheduling sentences.",
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ሰዓት እና የቀን ስሞች (Time and Days) - ደረጃ 2) ተማሪዎች ስለ ሰዓት እና የቀን ስሞች (Time and Days) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "The Ethiopian week has seven days with Amharic names that derive from Ge'ez (Classical Ethiopic) and reflect biblical, astronomical, and religious origins.\n\nDAYS OF THE WEEK:\n• ሰኞ (Senyo) — Monday [from Ge'ez ሰኒ/ሰኒ; related to 'second' day in some analyses]\n• ማክሰኞ (Makssenyo) — Tuesday [from Ge'ez; etymologically complex]\n• ረቡዕ (Rebo'i) — Wednesday [from Arabic ربع rabi', 'fourth' — Wednesday is the 4th day in the Islamic week starting Sunday; shows Arabic influence on Ethiopian calendrical vocabulary]\n• ሐሙስ (Hammuse) — Thursday [from Arabic خمس Khams = five; 5th day in some reckonings]\n• ዓርብ (Arb) — Friday [from Arabic عَرَبِي; also associated with the Muslim Jumu'ah prayer day]\n• ቅዳሜ (Qidam) — Saturday [from Ge'ez ቀዳሚ qeddami = first; in Ethiopian Orthodox tradition, Saturday is the 'Sabbath of the Lord']\n• እሁድ (Ihud) — Sunday [from Ge'ez ኢሕዱ; the Christian day of resurrection]\n\nNote: The Arabic origin of Wednesday, Thursday, and Friday names reflects the historical Islamic influence on Ethiopian civilization — Ethiopia had early contact with Islam (the first Hijra was to the Ethiopian kingdom of Aksum, c. 615 CE).\n\nUSING DAYS IN SENTENCES:\n• ዛሬ ሰኞ ነው (Zare Senyo new) — Today is Monday.\n• ነገ ማክሰኞ ነው (Nege Makssenyo new) — Tomorrow is Tuesday.\n• ትናንት ቅዳሜ ነበር (Tinant Qidam nebber) — Yesterday was Saturday.\n• በ_____ (be-_____) — on [day of week]: በሰኞ (on Monday), በቅዳሜ (on Saturday)\n• ሁሉ _____ (hullu _____) — every [day]: ሁሉ ሰኞ = every Monday\n\nWEEKEND:\nIn Ethiopia, the typical weekend is Saturday and Sunday. However, for Ethiopian Orthodox Christians, both ቅዳሜ (Saturday/Sabbath) and እሁድ (Sunday/Lord's Day) have religious significance.",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የሰዓት እና የቀን ስሞች (Time and Days) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (11.2.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ዛሬ ረቡዕ ነው — ስብሰባ ሐሙስ ይሆናል።",
+                    "reading": "Zare Rebo'i new — sibseba Hammuse yihoonal.",
+                    "translation": "Today is Wednesday — the meeting will be on Thursday."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (11.2.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ሁሉ ዓርብ ቀን ቤተ-ክርስቲያን ሄዳለሁ — ሐሙስ ወደ ሞስኪ ይሄዳሉ።",
+                    "reading": "Hullu Arb qen bete-kirstiyan hedalehu — Hammuse wede mosqi yihedalu.",
+                    "translation": "Every Friday I go to church — on Thursdays [others] go to the mosque. [Note: Arb/Friday is the Muslim day of prayer]"
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (11.2.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ቅዳሜ ቅዳሜ ጉዞ እናደርጋለን — ትናንት ዓርብ ነበር።",
+                    "reading": "Qidam qidam guzo inaderrigalen — tinant Arb nebber.",
+                    "translation": "Every Saturday we go on a trip — yesterday was Friday."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ሰዓት እና የቀን ስሞች (Time and Days)"
+                "A rhythmic chain for the week: Senyo-Makssenyo-Rebo'i-Hammuse-Arb-Qidam-Ihud (M-T-W-Th-F-Sa-Su). The Arabic-origin days cluster in the middle of the week (Wednesday=Rebo'i, Thursday=Hammuse, Friday=Arb — all from Arabic numerals/Islamic calendar). Saturday and Sunday frame the week with Ge'ez origins."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Ethiopia's unique religious landscape means that the days of the week carry both Christian and Islamic associations. Friday (ዓርብ) is the Muslim congregational prayer day; Saturday (ቅዳሜ) is the Ethiopian Orthodox Sabbath; Sunday (እሁድ) is the Christian resurrection day. In cities like Addis Ababa, Dire Dawa, and Harar — with mixed Muslim-Christian populations — it is common to see both Friday and Sunday observed as days of rest by different communities, and markets may be quieter on either day depending on the neighborhood."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ሰዓት እና የቀን ስሞች (Time and Days)» አጠቃቀም በደረጃ 2 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«ዛሬ ረቡዕ ነው — ነገ ምን ቀን ይሆናል?» ምን ቀን ይሆናል?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (11.2.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (11.2.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (11.2.3)።"
+                        "ሐሙስ",
+                        "ሰኞ",
+                        "ዓርብ"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "The week order: ሰኞ (Mon) → ማክሰኞ (Tue) → ረቡዕ (Wed) → ሐሙስ (Thu) → ዓርብ (Fri) → ቅዳሜ (Sat) → እሁድ (Sun). If today is Wednesday (ረቡዕ), tomorrow is Thursday (ሐሙስ). Option B (ሰኞ) is Monday — two days before. Option C (ዓርብ) is Friday — two days after."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ጊዜ፣ ሰዓት እና የቀን መቁጠሪያ (Time Expressions & Calendar)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 2)፡",
+                    "prompt": "«ቅዳሜ» — ምን ቀን ነው እና ምን ሃይማኖታዊ ትርጉም አለው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (11.2.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (11.2.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (11.2.3)።"
+                        "Sunday — the day of Christian resurrection",
+                        "Friday — the Muslim day of congregational prayer",
+                        "Saturday — the Ethiopian Orthodox Sabbath (from ቀዳሚ, meaning 'first/primary')"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 2,
+                    "explanation": "ቅዳሜ (Qidam) = Saturday. Its etymology traces to Ge'ez ቀዳሚ (qeddami) = 'first/foremost' — in Ethiopian Orthodox tradition, Saturday is the Sabbath of the Lord (ሰንበት). Sunday is እሁድ (the Lord's Day/resurrection day). Friday is ዓርብ (connected to Islamic Jumu'ah prayer)."
                 }
             ]
         },
@@ -6082,22 +6082,22 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ሰዓት እና የቀን ስሞች (Time and Days)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 11-2)?",
+                    "prompt": "«በሐሙስ ስብሰባ አለ» ምን ማለት ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (11.2.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (11.2.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (11.2.3)።"
+                        "The meeting was on Wednesday",
+                        "There is a meeting on Thursday",
+                        "Thursday's meeting was cancelled"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "explanation": "በ (be-) = on [day]; ሐሙስ = Thursday; ስብሰባ = meeting; አለ = there is. So: 'On Thursday there is a meeting.' The preposition በ- is prefixed directly to the day name: በሐሙስ = on Thursday, በሰኞ = on Monday, በቅዳሜ = on Saturday."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ሰዓት_11_2»):",
+                    "prompt": "Type the Amharic name for Wednesday (the day with Arabic-origin name meaning roughly 'fourth'):",
                     "acceptedAnswers": [
-                        "ሰዓት_11_2"
+                        "ረቡዕ"
                     ],
-                    "explanation": "The target keyword was: 【ሰዓት_11_2】"
+                    "explanation": "ረቡዕ (Rebo'i) = Wednesday. From Arabic ربع rabi' relating to 'fourth'. It is the midpoint of the workweek: ሰኞ (Mon) - ማክሰኞ (Tue) - ረቡዕ (Wed) - ሐሙስ (Thu) - ዓርብ (Fri)."
                 }
             ]
         }
@@ -6107,60 +6107,60 @@
         "subject": "amharic",
         "unit": 11,
         "lessonNumber": 3,
-        "title": "ጊዜ፣ ሰዓት እና የቀን መቁጠሪያ (Time Expressions & Calendar) (Part 3)",
+        "title": "The Ethiopian Calendar: 13 Months and the Year Offset",
         "level": "B1",
-        "objective": "Comprehensive mastery of ሰዓት እና የቀን ስሞች (Time and Days).",
+        "objective": "Describe the structure of the Ethiopian calendar — its 13 months (12 of 30 days plus one short month), its year count approximately 7-8 years behind the Gregorian calendar, and the names of the Ethiopian months.",
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ሰዓት እና የቀን ስሞች (Time and Days) - ደረጃ 3) ተማሪዎች ስለ ሰዓት እና የቀን ስሞች (Time and Days) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Ethiopia uses a calendar system derived from the ancient Coptic calendar, which itself derives from the ancient Egyptian calendar. It differs from the Gregorian calendar used internationally in two key ways:\n\n1. THE 13-MONTH STRUCTURE:\nThe Ethiopian year has 13 months:\n• 12 months of exactly 30 days each\n• 1 short month called ጳጉሜ (Pagume) with 5 days (6 in leap years)\n• Total: 365 days (or 366 in leap years)\n\nTHE 12 MAIN MONTHS (in order):\n1. መስከረም (Meskerem) — September–October [Ethiopian New Year starts here!]\n2. ጥቅምት (Tiqqimt) — October–November\n3. ኅዳር (Hidar) — November–December\n4. ታኅሣሥ (Tahesas) — December–January\n5. ጥር (Tir) — January–February\n6. የካቲት (Yekatit) — February–March\n7. መጋቢት (Megabit) — March–April\n8. ሚያዚያ (Miyaziya) — April–May\n9. ግንቦት (Ginbot) — May–June\n10. ሰኔ (Sene) — June–July\n11. ሐምሌ (Hamle) — July–August\n12. ነሐሴ (Nehase) — August–September\n+ ጳጉሜ (Pagume) — 5-day bonus month at the end\n\n2. THE YEAR OFFSET:\nThe Ethiopian calendar is currently about 7–8 years behind the Gregorian calendar, due to a different calculation of the date of the Incarnation. When it is 2025 in the Western Gregorian calendar, it is roughly 2017–2018 in Ethiopia (the Ethiopian New Year falls in September, so there is a partial-year split).\n\nENKUTATASH — ETHIOPIAN NEW YEAR:\n• ዕንቁጣጣሽ (Enqqutatash) — the Ethiopian New Year, celebrated on September 11 (or 12 in leap years of the Gregorian calendar)\n• This is one of the most important national and religious celebrations in Ethiopia",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የሰዓት እና የቀን ስሞች (Time and Days) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (11.3.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ዛሬ ምን ቀን ነው? — ዛሬ ጥቅምት አሥራ አምስት ቀን ነው።",
+                    "reading": "Zare min qen new? — Zare Tiqqimt asira amist qen new.",
+                    "translation": "What is today's date? — Today is Tiqqimt (October/November) 15th."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (11.3.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ዕንቁጣጣሽ በመስከረም አንድ ቀን ይከበራል — ሁሉም ቤተሰብ ይሰበሰባል።",
+                    "reading": "Enqqutatash be-Meskerem and qen yikebberal — hullum beteseb yisebessebbal.",
+                    "translation": "Enqqutatash (New Year) is celebrated on Meskerem 1st — all families gather."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (11.3.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ጳጉሜ ወር አጭር ነው — አምስት ቀናት ብቻ አሉት።",
+                    "reading": "Pagume wor achir new — amist qenatat bicha allut.",
+                    "translation": "The month of Pagume is short — it has only five days."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ሰዓት እና የቀን ስሞች (Time and Days)"
+                "To remember the year offset: Ethiopia is '7-8 years younger' than the Gregorian calendar because it uses a different Annunciation calculation. Remember it as 'Ethiopia = Gregorian − 7 (approximately)'. The 13th month ጳጉሜ (Pagume) is the 'extra' that doesn't fit in 12 months of 30 days: 12×30=360, and ጳጉሜ adds the 5 remaining days. Month order mnemonic: 'Me-Ti-Hi-Ta-Ti-Ye-Me-Mi-Gi-Se-Ha-Ne + Pa' (first syllables of each month)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "The Ethiopian Tourist Authority uses the playful slogan '13 months of sunshine' to highlight the 13-month calendar as a tourist attraction. Ethiopian New Year (ዕንቁጣጣሽ) is celebrated with enormous joy — children carry yellow Adey Abeba flowers (አደይ አበባ, a species of Bidens) door to door while singing traditional songs to receive coins and food. The convergence of the rainy season's end and the New Year makes it especially joyful — the landscape is green and blooming after the months of heavy rain."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ሰዓት እና የቀን ስሞች (Time and Days)» አጠቃቀም በደረጃ 3 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "ኢትዮጵያ ምን ዓይነት አቆጣጠር ትጠቀማለች?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (11.3.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (11.3.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (11.3.3)።"
+                        "The Gregorian calendar with 12 months, same as Europe",
+                        "The Islamic Hijri calendar with lunar months",
+                        "A calendar with 13 months — 12 of 30 days and one short month (ጳጉሜ) of 5 days"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 2,
+                    "explanation": "Ethiopia uses its own ancient calendar derived from the Coptic/Egyptian tradition: 13 months total. 12 months have 30 days each, and the 13th month, ጳጉሜ (Pagume), has 5 days (6 in leap years). The Ethiopian year is also approximately 7-8 years behind the Gregorian calendar. This is distinct from both the Gregorian and Islamic calendars."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ጊዜ፣ ሰዓት እና የቀን መቁጠሪያ (Time Expressions & Calendar)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 3)፡",
+                    "prompt": "ዕንቁጣጣሽ (Enqqutatash) ምንድን ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (11.3.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (11.3.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (11.3.3)።"
+                        "The Ethiopian Orthodox Easter celebration",
+                        "Ethiopian New Year, celebrated on Meskerem 1st (September 11th in Gregorian)",
+                        "A spring harvest festival celebrated in April"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "ዕንቁጣጣሽ (Enqqutatash) = Ethiopian New Year. It falls on Meskerem 1st (first day of the first Ethiopian month) = September 11th in the Gregorian calendar (September 12th in Gregorian leap years). It is not Easter — Ethiopian Orthodox Easter is ፋሲካ (Fasika). It is not a spring festival — it falls in September at the end of the rainy season."
                 }
             ]
         },
@@ -6168,22 +6168,22 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ሰዓት እና የቀን ስሞች (Time and Days)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 11-3)?",
+                    "prompt": "ጳጉሜ ምን ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (11.3.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (11.3.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (11.3.3)።"
+                        "The Ethiopian New Year month",
+                        "The 13th and shortest month in the Ethiopian calendar, with only 5 days",
+                        "The first month of the Ethiopian year"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "ጳጉሜ (Pagume) is the 13th and final month of the Ethiopian calendar, lasting only 5 days (6 in leap years). It is the month that accounts for the days not included in the twelve 30-day months. The first month is መስከረም (Meskerem). Ethiopian New Year is on Meskerem 1st, not Pagume."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ሰዓት_11_3»):",
+                    "prompt": "Type the name of the FIRST month of the Ethiopian calendar (when Ethiopian New Year is celebrated):",
                     "acceptedAnswers": [
-                        "ሰዓት_11_3"
+                        "መስከረም"
                     ],
-                    "explanation": "The target keyword was: 【ሰዓት_11_3】"
+                    "explanation": "መስከረም (Meskerem) = the first month of the Ethiopian calendar, roughly corresponding to September–October. Ethiopian New Year (ዕንቁጣጣሽ) is celebrated on Meskerem 1st, marking the start of the new Ethiopian year."
                 }
             ]
         }
@@ -6193,60 +6193,60 @@
         "subject": "amharic",
         "unit": 11,
         "lessonNumber": 4,
-        "title": "ጊዜ፣ ሰዓት እና የቀን መቁጠሪያ (Time Expressions & Calendar) (Part 4)",
+        "title": "Duration, Frequency, and Adverbs of Time",
         "level": "B1",
-        "objective": "Comprehensive mastery of ሰዓት እና የቀን ስሞች (Time and Days).",
+        "objective": "Express duration ('for two hours', 'since last week'), frequency ('every day', 'sometimes', 'rarely'), and time sequences ('first... then... finally') using Amharic temporal adverbs and postpositional time phrases.",
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ሰዓት እና የቀን ስሞች (Time and Days) - ደረጃ 4) ተማሪዎች ስለ ሰዓት እና የቀን ስሞች (Time and Days) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Beyond naming the time and day, B1 Amharic requires expressing how long something takes, how often it happens, and the sequence of events. These temporal expressions build on the calendar vocabulary from this unit.\n\nDURATION PHRASES:\n• _____ ሰዓት (_____ seaat) — for _____ hour(s): ሁለት ሰዓት ተቀምጦ ነበር = he had been sitting for two hours\n• _____ ቀናት (_____ qenatat) — for _____ days: ሦስት ቀናት ነበርኩ = I was [there] for three days\n• _____ ሳምንት (_____ samint) — for _____ week(s): አንድ ሳምንት ቆይቻለሁ = I have stayed for one week\n• _____ ወር (_____ wor) — for _____ month(s): ሦስት ወር ይወስዳል = it will take three months\n• ጀምሮ (jemiro) — since [time phrase] + ጀምሮ: ሰኞ ጀምሮ = since Monday\n• እስከ (iske) — until: ዓርብ እስከ = until Friday\n\nFREQUENCY ADVERBS:\n• ሁሌ / ሁልጊዜ (hulle / hullgize) — always / every time\n• ብዙ ጊዜ (bizu gize) — often / many times [ብዙ = many, ጊዜ = time]\n• አንዳንድ ጊዜ (andand gize) — sometimes\n• አልፎ አልፎ (alfo alfo) — rarely / occasionally [reduplication implies infrequency]\n• ፈጽሞ አይ___ም (fetshimo ay___m) — never [ፈጽሞ = absolutely/completely + present negative]\n• ቀን ቀን (qen qen) — every day / daily [reduplication]\n• ሳምንት ሳምንት (samint samint) — every week [reduplication]\n\nSEQUENCE EXPRESSIONS:\n• መጀመሪያ (mejemeriya) — first / at the beginning\n• ከዚያ / ከዚያ በኋላ (kezzia / kezzia behwala) — then / after that\n• በመጨረሻ (bemechersha) — finally / at the end\n• ሳምንቱ ሲጀምር (saminttu sijemmir) — when the week starts / at the start of the week",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የሰዓት እና የቀን ስሞች (Time and Days) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (11.4.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ብዙ ጊዜ ቡና ቤት ሄዳለሁ — አንዳንድ ጊዜ ግን ቤት ቆይቻለሁ።",
+                    "reading": "Bizu gize buna bet hedalehu — andand gize gin bet qoychalehu.",
+                    "translation": "I often go to the café — but sometimes I stay home."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (11.4.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ሰኞ ጀምሮ ሦስት ቀናት ስልጠና አለ — ሐሙስ ይጠናቀቃል።",
+                    "reading": "Senyo jemiro sost qenatat siltenna alle — Hammuse yittenaqeqqal.",
+                    "translation": "From Monday there are three days of training — it concludes on Thursday."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (11.4.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "መጀመሪያ ምሳ ከዚያ ቡና ከዚያ በኋላ ሥራ — ይህ ዕለታዊ ሥርዓቴ ነው።",
+                    "reading": "Mejemeriya missa, kezzia buna, kezzia behwala sira — yih iletawi sirate new.",
+                    "translation": "First lunch, then coffee, then after that work — this is my daily routine."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ሰዓት እና የቀን ስሞች (Time and Days)"
+                "Frequency adverbs from most to least frequent: ሁሌ (always) → ብዙ ጊዜ (often) → አንዳንድ ጊዜ (sometimes) → አልፎ አልፎ (rarely) → ፈጽሞ + negative (never). The reduplication pattern (ቀን ቀን = every day, ሳምንት ሳምንት = every week) is a consistent Amharic strategy — doubling a time word makes it 'every [that unit]'."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Ethiopian work culture has a distinctive relationship with time — the phrase 'Ethiopian time' (ኢትዮጵያ ሰዓት) is sometimes used humorously to acknowledge that events may start later than scheduled. This is not universal (hospitals, transport, and formal offices are generally punctual) but social events like weddings (ሠርግ) and parties may begin 1-2 hours after the stated time. Knowing አልፎ አልፎ (rarely), ብዙ ጊዜ (often), and ሁሌ (always) helps discuss punctuality expectations in different contexts."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ሰዓት እና የቀን ስሞች (Time and Days)» አጠቃቀም በደረጃ 4 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«I have stayed for one week» ን ወደ አማርኛ ቀይሩ:",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (11.4.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (11.4.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (11.4.3)።"
+                        "አንድ ቀን ቆይቻለሁ።",
+                        "አንድ ሳምንት ቆይቻለሁ።",
+                        "አንድ ወር ቆይቻለሁ።"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "ሳምንት (samint) = week. ቆይቻለሁ = I have stayed (1sg perfect of ቆየ 'to stay/remain'). So: አንድ ሳምንት ቆይቻለሁ = I have stayed one week. Option A (አንድ ቀን) = one day. Option C (አንድ ወር) = one month."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ጊዜ፣ ሰዓት እና የቀን መቁጠሪያ (Time Expressions & Calendar)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 4)፡",
+                    "prompt": "«አልፎ አልፎ» ምን ያህል ብዛት አለው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (11.4.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (11.4.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (11.4.3)።"
+                        "Frequently / most of the time",
+                        "Rarely / occasionally (less than sometimes)",
+                        "Never at all"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "አልፎ አልፎ (alfo alfo) = rarely / occasionally. It is more frequent than ፈጽሞ አይ___ም (never) but less frequent than አንዳንድ ጊዜ (sometimes). The reduplication of አልፎ (which itself means 'passed by / exceeded') signals something that occurs only sporadically, at long intervals."
                 }
             ]
         },
@@ -6254,22 +6254,22 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ሰዓት እና የቀን ስሞች (Time and Days)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 11-4)?",
+                    "prompt": "«ሰኞ ጀምሮ» ምን ትርጉም ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (11.4.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (11.4.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (11.4.3)።"
+                        "Until Monday",
+                        "Since Monday",
+                        "Next Monday"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "ጀምሮ (jemiro) = since / starting from [time]. ሰኞ ጀምሮ = since Monday / starting from Monday. Compare: እስከ ሰኞ = until Monday; ሰኞ ላይ = on Monday. ጀምሮ marks the starting point of a duration, while እስከ marks the endpoint."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ሰዓት_11_4»):",
+                    "prompt": "Type the Amharic adverb meaning 'often' / 'many times' (ብዙ + _____):",
                     "acceptedAnswers": [
-                        "ሰዓት_11_4"
+                        "ብዙ ጊዜ"
                     ],
-                    "explanation": "The target keyword was: 【ሰዓት_11_4】"
+                    "explanation": "ብዙ ጊዜ (bizu gize) = often / many times. ብዙ = many/much; ጊዜ = time/occasion. Together: 'many times'. Used in: ብዙ ጊዜ ሄዳለሁ (I often go there)."
                 }
             ]
         }
@@ -6279,60 +6279,60 @@
         "subject": "amharic",
         "unit": 11,
         "lessonNumber": 5,
-        "title": "ጊዜ፣ ሰዓት እና የቀን መቁጠሪያ (Time Expressions & Calendar) (Part 5)",
+        "title": "Unit 11 Synthesis: Scheduling and Appointments in Ethiopian Time",
         "level": "B1",
-        "objective": "Comprehensive mastery of ሰዓት እና የቀን ስሞች (Time and Days).",
+        "objective": "Conduct a complete scheduling conversation in Amharic — setting, confirming, and rescheduling appointments — using Ethiopian time, days of the week, Ethiopian calendar months, and duration/frequency expressions.",
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ሰዓት እና የቀን ስሞች (Time and Days) - ደረጃ 5) ተማሪዎች ስለ ሰዓት እና የቀን ስሞች (Time and Days) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Unit 11 has covered all the time-related vocabulary needed for real scheduling: the Ethiopian clock system, days of the week, the Ethiopian calendar, and duration/frequency adverbs. This lesson puts them together in the context of making and managing appointments (ቀጠሮ, qetero).\n\nKEY SCHEDULING VOCABULARY:\n• ቀጠሮ (qetero) — appointment / scheduled meeting\n• ቀጠሮ አቅርቡልኝ (qetero aqribbulign) — Please schedule an appointment for me\n• ቀጠሮ አለ ወይ? (qetero alle wey?) — Do you have an appointment? / Is there an appointment?\n• ቀጠሮ ቀይሩ (qetero qeyiru) — Change/reschedule the appointment\n• ቀጠሮ ሰርዙ (qetero serzzu) — Cancel the appointment [ሰርዙ = cancel, plural/polite imperative of ሰረዘ]\n• ሥራ ዝርዝር (sira zirzir) — schedule/agenda [ሥራ = work, ዝርዝር = list/detail]\n\nCOMPLETE SCHEDULING DIALOGUE:\nA: ዶክተሩን ማነጋገር እፈልጋለሁ — ቀጠሮ ይኖርኝ? (I would like to speak with the doctor — may I have an appointment?)\nB: አዎ — ረቡዕ ቀን አምስት ሰዓት [ኢትዮጵያ ሰዓት] ነፃ ነው። (Yes — Wednesday at 5 o'clock Ethiopian time is free.)\nA: ቀን አምስት ሰዓት ምዕራባዊ ሰዓት ምን ሰዓት ነው? (What time is 5 o'clock Ethiopian in Western time?)\nB: ቀን አምስት ሰዓት ምዕራባዊ ሰዓት አሥራ አንድ ሰዓት ነው። (Five Ethiopian daytime = eleven o'clock Western.)\nA: ሐሙስ ቀን ሊሆን ይችላል ወይ? (Can it be Thursday instead?)\nB: ሐሙስ ቀጠሮ ሞልቷል — ዓርብ ቀን ሰባት ሰዓት ነፃ ነው። (Thursday appointments are full — Friday at 7 Ethiopian is free.)\nA: ዓርብ ቀን ሰባት ሰዓት — ሰዓቱ ቀን አንድ ሰዓት ምዕራባዊ ሰዓት ነው? (Friday at 7 Ethiopian — that's 1 PM Western?)\nB: አዎ — ቀን አንድ ሰዓት ምዕራባዊ ሰዓት ነው። (Yes — it is 1 PM Western.)\nA: ደህና ቀጠሮ አቅርቡልኝ። (Good, please make the appointment.)\n\nNEW VOCABULARY FROM DIALOGUE:\n• ነፃ ነው (nesa new) — it is free/available [ነፃ = free]\n• ሞልቷል (moltwal) — it is full/filled up\n• ሊሆን ይችላል (lihon yichalal) — it is possible to be / can it be",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የሰዓት እና የቀን ስሞች (Time and Days) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (11.5.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ቀጠሮዬ ቅዳሜ ቀን ዘጠኝ ሰዓት ነው — ምዕራባዊ ሰዓት ሦስት ሰዓት።",
+                    "reading": "Qeteroye Qidam qen zetegn seaat new — mirabawi seaat sost seaat.",
+                    "translation": "My appointment is Saturday at 9 Ethiopian time — 3 PM Western time."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (11.5.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ቀጠሮ ሰርዙ — ሐሙስ ሊሆን ይችላል ወይ?",
+                    "reading": "Qetero serzzu — Hammuse lihon yichalal wey?",
+                    "translation": "Cancel the appointment — can it be on Thursday?"
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (11.5.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ሰኞ ጀምሮ ሦስት ቀናት ቀጠሮ አቅርቡልኝ — ብዙ ሥራ አለ።",
+                    "reading": "Senyo jemiro sost qenatat qetero aqribbulign — bizu sira alle.",
+                    "translation": "Please make appointments for three days starting Monday — there is a lot of work."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ሰዓት እና የቀን ስሞች (Time and Days)"
+                "Scheduling in Ethiopian time = always do the conversion first. When someone says ቀን _____ ሰዓት, add 6 to get Western time. When someone gives Western time, subtract 6. Then apply the vocabulary: ቀጠሮ = appointment, ነፃ = free, ሞልቷል = full/booked. These three words (ቀጠሮ/ነፃ/ሞልቷል) are the core of any scheduling conversation."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Amharic uses the verb ሰረዘ (sereze = to cancel/strike out) for cancelling appointments — the same root is used for crossing out text. This metaphor of 'crossing out' a scheduled item is intuitive. In Ethiopian formal contexts — hospitals, government offices, airlines — appointments are taken seriously and cancellations require notice. In social contexts, however, the Ethiopian phrase ቀጠሮ ሊጣስ ይችላል (the appointment may be broken) is understood — arriving slightly late or changing plans with same-day notice is socially tolerated more than in some Western contexts."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ሰዓት እና የቀን ስሞች (Time and Days)» አጠቃቀም በደረጃ 5 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "Western time 11:00 AM ን ወደ ኢትዮጵያ ሰዓት ቀይሩ፣ ከዚያ ትክክለኛ ዓረፍተ ነገር ይምረጡ:",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (11.5.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (11.5.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (11.5.3)።"
+                        "ቀን አምስት ሰዓት",
+                        "ቀን አሥር ሰዓት",
+                        "ቀን አሥራ አንድ ሰዓት"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "11:00 AM Western − 6 = 5:00 Ethiopian daytime. So: ቀን አምስት ሰዓት (Ethiopian 5 o'clock daytime). Option B (ቀን አሥር = 10 Ethiopian) = 4:00 PM Western. Option C (ቀን አሥራ አንድ = 11 Ethiopian) = 5:00 PM Western — confusingly the same number as the Western time but wrong."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ጊዜ፣ ሰዓት እና የቀን መቁጠሪያ (Time Expressions & Calendar)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 5)፡",
+                    "prompt": "«ቀጠሮ ሰርዙ» ምን ያህል ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (11.5.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (11.5.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (11.5.3)።"
+                        "Make an appointment",
+                        "Confirm the appointment",
+                        "Cancel the appointment"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 2,
+                    "explanation": "ቀጠሮ (qetero) = appointment; ሰርዙ (serzzu) = cancel (polite plural imperative of ሰረዘ = to cancel/strike out). So ቀጠሮ ሰርዙ = 'please cancel the appointment'. Compare: ቀጠሮ አቅርቡልኝ = make an appointment for me; ቀጠሮ አረጋግጡ = confirm the appointment."
                 }
             ]
         },
@@ -6340,22 +6340,22 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ሰዓት እና የቀን ስሞች (Time and Days)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 11-5)?",
+                    "prompt": "«ቀጠሮ ሞልቷል» ምን ትርጉም ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (11.5.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (11.5.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (11.5.3)።"
+                        "The appointment is confirmed",
+                        "The appointment is late",
+                        "The appointments are full (no slots available)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "ሞልቷል (moltwal) = it is full/filled up (3sg perfect of ሞላ = to fill). ቀጠሮ ሞልቷል = 'the appointments are full' — meaning no slots are available. This is the polite way a receptionist or scheduler declines to give a new appointment because the schedule is already at capacity."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ሰዓት_11_5»):",
+                    "prompt": "Type the Amharic word for 'appointment' (a scheduled meeting or booking):",
                     "acceptedAnswers": [
-                        "ሰዓት_11_5"
+                        "ቀጠሮ"
                     ],
-                    "explanation": "The target keyword was: 【ሰዓት_11_5】"
+                    "explanation": "ቀጠሮ (qetero) = appointment / scheduled meeting. From the verb ቀጠረ (qetere = to hire/appoint/schedule). Key phrases: ቀጠሮ አቅርቡልኝ (make me an appointment), ቀጠሮ ሰርዙ (cancel the appointment), ቀጠሮ አለ ወይ? (do you have an appointment?)."
                 }
             ]
         }
