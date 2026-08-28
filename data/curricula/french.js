@@ -14887,56 +14887,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u27-l5"
+            ]
         },
         "presentation": {
-            "explanation": "Rigorous academic exposition of Climatologie, Bilan Carbone et Rapports du GIEC. At the CEFR C1 level, learners develop mastery in abstract conceptualization, domain-specific terminology, and sophisticated syntactic structures required for academic, legal, and intellectual fluency in French.",
+            "explanation": "Climate science and environmental policy in French (la climatologie et l'atténuation du changement climatique) use specialized scientific and institutional vocabulary:\n\n1. Climatological Mechanisms & Emissions:\n- Le GIEC (Groupe d'experts intergouvernemental sur l'évolution du climat / IPCC) et ses rapports d'évaluation.\n- L'effet de serre anthropique provoqué par les activités humaines.\n- Les gaz à effet de serre (GES) : dioxyde de carbone (CO2), méthane (CH4), protoxyde d'azote (N2O).\n- Le bilan carbone et l'empreinte carbone (en tCO2e).\n- Les puits de carbone naturels (forêts, océans, tourbières).\n\n2. Mitigation & Adaptation Strategies:\n- L'atténuation (réduction des émissions) vs l'adaptation (ajustement aux impacts).\n- La neutralité carbone à l'horizon 2050 (Stratégie Nationale Bas-Carbone - SNBC).\n- Les points de bascule climatiques (tipping points).",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Le sixième rapport d'évaluation du GIEC affirme sans équivoque que le réchauffement planétaire est imputable aux émissions anthropiques de gaz à effet de serre.",
+                    "reading": "luh see-zyem rah-pohr day-vah-loo-ah-syohn doo zhee-ek ah-feerm sahn zay-kee-vohk kuh luh ray-shohf-mahn plah-nay-tair ay tan-poo-tahbl oh zay-mee-syohn zahn-troh-peek duh gah zah ay-feh duh sair",
+                    "translation": "The IPCC's Sixth Assessment Report states unequivocally that global warming is attributable to anthropogenic greenhouse gas emissions."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Pour atteindre la neutralité carbone d'ici 2050, la France doit drastiquement réduire son empreinte carbone et préserver ses puits de carbone naturels.",
+                    "reading": "poor ah-tan-druh lah nuh-trah-lee-tay kahr-bohn dee-see duh meel sank-ahnt, lah frahns dwah drahs-teek-mahn ray-dweer soh nahn-prant kahr-bohn ay pray-zair-vay say pwee duh kahr-bohn nah-too-rel",
+                    "translation": "To achieve carbon neutrality by 2050, France must drastically reduce its carbon footprint and preserve its natural carbon sinks."
+                },
+                {
+                    "target": "Le dépassement du seuil critique de réchauffement de 1,5 degré Celsius risque d'enclencher des points de bascule irréversibles dans le système climatique terrestre.",
+                    "reading": "luh day-pahs-mahn doo suhy kree-teek duh ray-shohf-mahn duh uhn veer-gool sank duh-gray sel-syooz reesk dahn-klahn-shay day pwan duh bahs-kool ee-ray-vair-seebl dahn luh sees-tem klee-mah-teek teh-restruh",
+                    "translation": "Exceeding the critical warming threshold of 1.5 degrees Celsius risks triggering irreversible tipping points in the Earth's climate system."
+                },
+                {
+                    "target": "La Stratégie Nationale Bas-Carbone (SNBC) fixe des budgets carbone contraignants répartis par secteurs d'activité économique.",
+                    "reading": "lah strah-tay-zhee nah-syoh-nahl bah-kahr-bohn es-en-bay-say feeks day bood-zhay kahr-bohn kohn-tren-yahn ray-pahr-tee pahr sek-tuhr dahk-tee-vee-tay ay-koh-noh-meek",
+                    "translation": "The National Low-Carbon Strategy (SNBC) establishes binding carbon budgets allocated across sectors of economic activity."
+                },
+                {
+                    "target": "Les politiques d'atténuation doivent s'accompagner d'un plan d'adaptation ambitieux face à la multiplication des épisodes de sécheresse et de canicule.",
+                    "reading": "lay poh-lee-teek dah-tay-noo-ah-syohn dwahvt sah-kohn-pahn-yay doon plahn dah-dahp-tah-syohn zahn-bee-syuh fahs ah lah mool-tee-plee-kah-syohn day zay-pee-zohd duh saysh-res ay duh kah-nee-kool",
+                    "translation": "Mitigation policies must be accompanied by an ambitious adaptation plan in the face of multiplying drought and heatwave episodes."
                 }
             ],
             "mnemonics": [
-                "Conceptual anchor for Climatologie, Bilan Carbone et Rapports du GIEC"
+                "GIEC = Groupe d'experts Intergouvernemental sur l'Évolution du Climat (IPCC)!",
+                "ATTÉNUATION = Reduce emissions; ADAPTATION = Cope with climate impacts!"
             ],
             "culturalNotes": [
-                "Epistemological and institutional significance of Climatologie, Bilan Carbone et Rapports du GIEC in France."
+                "The landmark Paris Climate Agreement (l'Accord de Paris sur le climat) was negotiated during COP21 at Le Bourget near Paris in December 2015."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Debate climate change mechanisms, anthropogenic greenhouse gas emissio » :",
+                    "prompt": "Quel est le rôle du GIEC (IPCC) au niveau international ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (136a).",
-                        "Cette forme présente une anomalie phonétique en français standard (136b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (136c)."
+                        "Synthétiser les connaissances scientifiques mondiales sur le changement climatique",
+                        "Vendre des voitures électriques sur le marché",
+                        "Construire des barrages hydroélectriques",
+                        "Percevoir des taxes sur les carburants"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Le GIEC évalue et synthétise de manière rigoureuse les publications scientifiques internationales consacrées à l'évolution du climat."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u28-l1 :",
+                    "prompt": "Que désigne un « puits de carbone » en écologie ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (136x).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (136y).",
-                        "Cette forme présente une anomalie phonétique en français standard (136z)."
+                        "Un réservoir naturel (forêt, océan, sol) absorbant plus de carbone qu'il n'en émet",
+                        "Une mine désaffectée de charbon",
+                        "Une usine de raffinage pétrolier",
+                        "Un trou profond foré pour chercher du gaz"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C1."
+                    "explanation": "Un puits de carbone est un écosystème naturel (comme les forêts et océans) capturant et stockant durablement le dioxyde de carbone."
                 }
             ]
         },
@@ -14944,25 +14962,25 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u28-l1) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quel principal gaz à effet de serre d'origine humaine résulte de la combustion des énergies fossiles ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (136m).",
-                        "La préposition employée ici n'est pas commandée par le verbe (136n).",
-                        "Cette forme présente une anomalie phonétique en français standard (136p)."
+                        "Le dioxyde de carbone (CO2)",
+                        "L'hélium pur",
+                        "L'argon",
+                        "Le néon"
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "Le dioxyde de carbone (CO2) est le gaz à effet de serre majoritaire généré par la combustion du pétrole, du charbon et du gaz."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u28-l1 (terme attendu : « Nous ») :",
+                    "prompt": "Quel sigle en 4 lettres désigne le groupe d'experts de l'ONU sur le climat ? (le _________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "GIEC",
+                        "giec",
+                        "Giec"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Le groupe d'experts sur le climat s'appelle le « GIEC »."
                 }
             ],
             "passThreshold": 0.8
@@ -14978,56 +14996,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u28-l1"
+            ]
         },
         "presentation": {
-            "explanation": "Rigorous academic exposition of Préservation de la Biodiversité et Restauration Écologique. At the CEFR C1 level, learners develop mastery in abstract conceptualization, domain-specific terminology, and sophisticated syntactic structures required for academic, legal, and intellectual fluency in French.",
+            "explanation": "Biodiversity preservation in French (la protection de la faune, de la flore et des continuités écologiques) centers around ecological concepts and legal protections:\n\n1. Threats to Ecosystems (L'Érosion de la Biodiversité):\n- L'IPBES (Plateforme intergouvernementale sur la biodiversité / le GIEC du vivant).\n- Facteurs de déclin : Artificialisation des sols, fragmentation des habitats, déforestation, espèces invasives, pesticides.\n- La Liste rouge de l'UICN (Union Internationale pour la Conservation de la Nature).\n\n2. Conservation Networks (La Trame Verte et Bleue):\n- La Trame verte (milieux terrestres) et la Trame bleue (cours d'eau, zones humides) : corridors reliant les réservoirs de biodiversité.\n- Parcs nationaux, réserves naturelles, et réseau Natura 2000.\n- La séquence réglementaire ERC : Éviter, Réduire, Compenser.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "La fragmentation des habitats causée par l'étalement urbain et l'artificialisation des sols constitue la principale menace pour la faune sauvage métropolitaine.",
+                    "reading": "lah frahg-mahn-tah-syohn day zah-bee-tah koh-zay pahr lay-tahl-mahn oor-ban ay lahr-tee-fee-syah-lee-zah-syohn day sohl kohn-stee-too lah pran-see-pahl muh-nahs poor lah fohn soh-vahzh may-troh-poh-lee-ten",
+                    "translation": "Habitat fragmentation caused by urban sprawl and soil artificialization constitutes the primary threat to metropolitan wildlife."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "La mise en place de corridors écologiques au sein de la Trame verte et bleue permet de restaurer la libre circulation et le brassage génétique des espèces.",
+                    "reading": "lah meez ahn plahs duh koh-ree-dohr zay-koh-loh-zheek oh swan duh lah trahm vairt ay bluh pair-meh duh res-toh-ray lah lee-bruh seer-koo-lah-syohn ay luh brah-sahzh zhay-nay-teek day zes-pes",
+                    "translation": "The establishment of ecological corridors within the green and blue grid restores free movement and genetic exchange among species."
+                },
+                {
+                    "target": "En vertu de la doctrine environnementale ERC, tout aménageur doit impérativement éviter les impacts négatifs, puis les réduire, et en dernier recours les compenser intégralement.",
+                    "reading": "ahn vair-too duh lah dohk-treen nahn-vee-rohn-mahn-tahl uh-air-say, too tah-may-nah-zhuhr dwah tan-pay-rah-teev-mahn ay-vee-tay lay zan-pahkt nay-gah-teef, pwee lay ray-dweer, ay ahn dair-nyay ruh-koor lay kohn-pahn-say an-tay-grahl-mahn",
+                    "translation": "Under the ERC environmental doctrine, any developer must imperatively avoid negative impacts, then reduce them, and as a last resort fully compensate for them."
+                },
+                {
+                    "target": "La Liste rouge de l'UICN classe les pollinisateurs sauvages parmi les groupes taxonomiques les plus gravement menacés d'effondrement démographique.",
+                    "reading": "lah leest roozh duh loo-ee-say-en klahs lay poh-lee-nee-zah-tuhr soh-vahzh pahr-mee lay groop tahk-soh-noh-meek lay plyoo grah-vuh-mahn muh-nah-say def-fohnd-ruh-mahn day-moh-grah-feek",
+                    "translation": "The IUCN Red List classifies wild pollinators among the taxonomic groups most severely threatened with demographic collapse."
+                },
+                {
+                    "target": "Le réseau européen Natura 2000 préserve les zones humides d'importance communautaire qui abritent des oiseaux migrateurs rares.",
+                    "reading": "luh ray-zoh uh-roh-pay-en nah-too-rah duh meel pray-zairv lay zohn oo-meed dam-pohr-tahns koh-moo-noh-tair kee ah-breet day zwah-zoh mee-grah-tuhr rahr",
+                    "translation": "The European Natura 2000 network preserves wetlands of community importance that harbor rare migratory birds."
                 }
             ],
             "mnemonics": [
-                "Conceptual anchor for Préservation de la Biodiversité et Restauration Écologique"
+                "SÉQUENCE ERC = ÉVITER -> RÉDUIRE -> COMPENSER!",
+                "TRAME VERTE ET BLEUE = Terrestrial & aquatic ecological corridors!"
             ],
             "culturalNotes": [
-                "Epistemological and institutional significance of Préservation de la Biodiversité et Restauration Écologique in France."
+                "France is home to extraordinary global biodiversity thanks to its overseas territories (l'Outre-mer : Guyane, Réunion, Nouvelle-Calédonie, Polynésie), which host over 80% of French endemic species."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Analyze biodiversity conservation strategies, ecosystem restoration, a » :",
+                    "prompt": "Que signifie le triptyque réglementaire 'ERC' imposé aux projets d'aménagement en France ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "La préposition employée ici n'est pas commandée par le verbe (137a).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (137b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (137c)."
+                        "Éviter, Réduire, Compenser",
+                        "Encaisser, Rémunérer, Céder",
+                        "Écouter, Réagir, Corriger",
+                        "Exporter, Recycler, Consommer"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "La séquence réglementaire 'ERC' oblige à éviter d'abord les atteintes à la biodiversité, à réduire celles qui ne peuvent l'être, et à compenser les effets résiduels."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u28-l2 :",
+                    "prompt": "Qu'est-ce que la 'Trame verte et bleue' en aménagement du territoire ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (137x).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (137y).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (137z)."
+                        "Un réseau de continuités écologiques terrestres et aquatiques reliant les espaces naturels",
+                        "Une ligne de tramway peinte en deux couleurs",
+                        "Un système de drapeaux de plage",
+                        "Une zone commerciale réservée aux jardineries"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C1."
+                    "explanation": "La Trame verte et bleue est le réseau écologique national destiné à maintenir et reconstituer des continuités écologiques pour la faune et la flore."
                 }
             ]
         },
@@ -15035,25 +15071,27 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u28-l2) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quel réseau écologique européen protège les habitats naturels et espèces faunistiques prioritaires sur tout le continent ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (137m).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (137n).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (137p)."
+                        "Eurostat",
+                        "Natura 2000",
+                        "Erasmus+",
+                        "Interpol"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 1,
+                    "explanation": "« Natura 2000 » est le réseau écologique européen de sites naturels protégés pour préserver les habitats et espèces menacés."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u28-l2 (terme attendu : « Nous ») :",
+                    "prompt": "Quelle organisation internationale publie la Liste rouge des espèces menacées ? (sigle en 4 lettres : l'_________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "UICN",
+                        "uicn",
+                        "Uicn",
+                        "IUCN",
+                        "iucn"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "L'organisation mondiale de conservation est l'« UICN » (Union Internationale pour la Conservation de la Nature)."
                 }
             ],
             "passThreshold": 0.8
@@ -15069,56 +15107,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u28-l2"
+            ]
         },
         "presentation": {
-            "explanation": "Rigorous academic exposition of Transition Énergétique : Renouvelables et Nucléaire. At the CEFR C1 level, learners develop mastery in abstract conceptualization, domain-specific terminology, and sophisticated syntactic structures required for academic, legal, and intellectual fluency in French.",
+            "explanation": "The French energy debate (le débat énergétique français) features unique characteristics owing to its nuclear legacy and renewable expansion:\n\n1. The French Energy Mix (Le Mix Électrique Français):\n- Le parc électronucléaire (56 réacteurs REP exploités par EDF) assurant environ 70 % de la production d'électricité bas-carbone.\n- Les réacteurs EPR de nouvelle génération et les SMR (petits réacteurs modulaires).\n- La gestion des déchets radioactifs par l'ANDRA (projet Cigéo).\n\n2. Renewable Energies (Les Énergies Renouvelables - ENR):\n- Éolien terrestre et offshore (en mer posé ou flottant).\n- Solaire photovoltaïque et hydroélectricité.\n- Intermittence et solutions de flexibilité : stockage par hydrogène vert, batteries, et stations de transfert d'énergie par pompage (STEP).\n\n3. Decarbonization & Grid Reliability:\n- Électrification des usages (véhicules électriques, pompes à chaleur) et rôle de RTE.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Grâce à son parc électronucléaire historique, la France bénéficie d'une production d'électricité parmi les plus décarbonées des pays de l'OCDE.",
+                    "reading": "grahs ah sohn pahrk ay-lek-troh-noo-klay-air ees-toh-reek, lah frahns bay-nay-fee-see doon proh-dook-syohn day-lek-tree-see-tay pahr-mee lay plyoo day-kahr-boh-nay day peh-ee duh loh-say-day-uh",
+                    "translation": "Thanks to its historical nuclear fleet, France benefits from electricity generation that is among the lowest in carbon intensity of OECD nations."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Le déploiement massif de l'éolien en mer et du photovoltaïque est indispensable pour répondre à l'électrification massive des transports et de l'industrie.",
+                    "reading": "luh day-plwah-mahn mah-seef duh lay-oh-lyan ahn mair ay doo foh-toh-vohl-tah-eek ay tan-dees-pahn-sahbl poor ray-pohn-druh ah lay-lek-tree-fee-kah-syohn mah-seev day trahns-pohr ay duh lan-doos-tree",
+                    "translation": "The massive deployment of offshore wind and photovoltaics is essential to meet the massive electrification of transport and industry."
+                },
+                {
+                    "target": "L'intermittence des énergies renouvelables nécessite le développement de capacités de stockage par hydrogène vert et de centrales hydroélectriques de pompage-turbinage.",
+                    "reading": "lan-tair-mee-tahns day zay-nair-zhee ruh-noo-vuh-lahbl nay-seh-seet luh day-vlohp-mahn duh kah-pah-see-tay duh stoh-kahzh pahr ee-droh-zhen vair ay duh sahn-trahl ee-droh-ay-lek-treek duh pohm-pahzh-toor-bee-nahzh",
+                    "translation": "The intermittency of renewable energies necessitates the development of green hydrogen storage capacities and pumped-storage hydroelectric plants."
+                },
+                {
+                    "target": "Le débat sur la construction de six nouveaux réacteurs EPR2 oppose les partisans de la souveraineté nucléaire aux défenseurs d'un mix cent pour cent renouvelable.",
+                    "reading": "luh day-bah soor lah kohn-strook-syohn duh sees noo-voh ray-ahk-tuhr uh-pay-air-duh oh-pohz lay pahr-tee-zahn duh lah soo-vrahn-tay noo-klay-air oh day-fahn-suhr doon meeks sahn poor sahn ruh-noo-vuh-lahbl",
+                    "translation": "The debate over building six new EPR2 reactors opposes proponents of nuclear sovereignty and advocates of a 100% renewable mix."
+                },
+                {
+                    "target": "Le gestionnaire du réseau de transport d'électricité (RTE) publie des scénarios prospectifs pour garantir la sécurité d'approvisionnement d'ici 2050.",
+                    "reading": "luh zhes-tyoh-nair doo ray-zoh duh trahns-pohr day-lek-tree-see-tay air-tay-uh poo-blee day say-nah-ryoh proh-spek-teef poor gah-rahn-teer lah say-koo-ree-tay dah-proh-vee-zyohn-mahn dee-see duh meel sank-ahnt",
+                    "translation": "The electricity transmission system operator (RTE) publishes forward-looking scenarios to guarantee security of supply through 2050."
                 }
             ],
             "mnemonics": [
-                "Conceptual anchor for Transition Énergétique : Renouvelables et Nucléaire"
+                "MIX ÉLECTRIQUE: Nucléaire (Base bas-carbone) + Éolien/Solaire (ENR) + Hydraulique (Flexibilité)!",
+                "RTE = Réseau de Transport d'Électricité (Power grid)!"
             ],
             "culturalNotes": [
-                "Epistemological and institutional significance of Transition Énergétique : Renouvelables et Nucléaire in France."
+                "Following the 1973 oil shock, Prime Minister Pierre Messmer launched the Plan Messmer, leading to the construction of France's nationwide nuclear fleet ('En France, on n'a pas de pétrole, mais on a des idées')."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Evaluate renewable energies versus nuclear power in the ecological tra » :",
+                    "prompt": "Quelle est la principale caractéristique de la production d'électricité nucléaire en matière climatique ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (138a).",
-                        "La préposition employée ici n'est pas commandée par le verbe (138b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (138c)."
+                        "Elle émet de très faibles quantités directes de gaz à effet de serre (énergie bas-carbone)",
+                        "Elle brûle du charbon et du fioul lourd",
+                        "Elle fonctionne uniquement lorsqu'il y a du soleil",
+                        "Elle produit de la fumée noire polluante en continu"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "L'énergie nucléaire ne génère pratiquement pas de CO2 lors de la fission atomique, ce qui en fait une source d'électricité bas-carbone."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u28-l3 :",
+                    "prompt": "Quel est le principal défi technique posé par l'énergie éolienne et solaire photovoltaïque ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (138x).",
-                        "Cette forme présente une anomalie phonétique en français standard (138y).",
-                        "La préposition employée ici n'est pas commandée par le verbe (138z)."
+                        "L'intermittence de la production liée aux conditions météorologiques",
+                        "L'impossibilité de transporter le courant",
+                        "Le bruit assourdissant des panneaux solaires",
+                        "L'obligation de creuser à dix kilomètres sous terre"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C1."
+                    "explanation": "L'éolien et le solaire sont des énergies intermittentes dépendantes du vent et de l'ensoleillement, nécessitant stockage et flexibilité de réseau."
                 }
             ]
         },
@@ -15126,25 +15182,25 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u28-l3) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle entreprise publique gère le réseau de transport d'électricité haute tension en France ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (138m).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (138n).",
-                        "La préposition employée ici n'est pas commandée par le verbe (138p)."
+                        "La SNCF",
+                        "Air France",
+                        "RTE (Réseau de Transport d'Électricité)",
+                        "La Poste"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 2,
+                    "explanation": "RTE est l'opérateur du réseau public de transport d'électricité français."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u28-l3 (terme attendu : « Nous ») :",
+                    "prompt": "Quel sigle en 3 lettres désigne la nouvelle génération de réacteurs nucléaires à eau pressurisée français ? (l'_________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "EPR",
+                        "epr",
+                        "Epr"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Le réacteur de 3e génération s'appelle l'« EPR » (European Pressurized Reactor)."
                 }
             ],
             "passThreshold": 0.8
@@ -15160,56 +15216,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u28-l3"
+            ]
         },
         "presentation": {
-            "explanation": "Rigorous academic exposition of Économie Circulaire et Gestion Durable des Ressources. At the CEFR C1 level, learners develop mastery in abstract conceptualization, domain-specific terminology, and sophisticated syntactic structures required for academic, legal, and intellectual fluency in French.",
+            "explanation": "The transition from a linear economy (extraire-fabriquer-jeter) to a circular economy (l'économie circulaire et la loi AGEC) in France is driven by strict regulations:\n\n1. The Circular Economy Paradigm (Piliers de l'Économie Circulaire):\n- L'écoconception et la recyclabilité.\n- L'indice de réparabilité (note obligatoire de 1 à 10 sur l'électroménager) et l'indice de durabilité.\n- L'économie de la fonctionnalité (vente de l'usage plutôt que du bien matériel).\n- Réemploi, réutilisation et valorisation matière.\n- La lutte contre l'obsolescence programmée (délit pénal en droit français).\n\n2. Legal & Institutional Framework:\n- La loi AGEC (Anti-Gaspillage pour une Économie Circulaire - 2020) : fin des plastiques à usage unique, tri des biodéchets.\n- Filières REP (Responsabilité Élargie du Producteur) et principe pollueur-payeur.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "La loi AGEC interdit progressivement les emballages plastiques à usage unique et impose le tri à la source des biodéchets pour les ménages et les collectivités.",
+                    "reading": "lah lwah ah-zhek an-tair-dee proh-greh-seev-mahn lay zahn-bah-lahzh plahs-teek ah oo-zahzh oo-neek ay an-pohz luh tree ah lah soors day bee-oh-day-shay poor lay may-nahzh ay lay koh-lek-tee-vee-tay",
+                    "translation": "The AGEC law progressively bans single-use plastic packaging and mandates source separation of bio-waste for households and municipalities."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "L'affichage obligatoire de l'indice de réparabilité sur les appareils électroniques incite les constructeurs à lutter contre l'obsolescence programmée.",
+                    "reading": "lah-fee-shahzh oh-blee-gah-twahr duh lan-dees duh ray-pah-rah-bee-lee-tay soor lay zah-pah-rehy ay-lek-troh-neek an-seet lay kohn-strook-tuhr ah loo-tay kohn-truh lohb-soh-leh-sahns proh-grah-may",
+                    "translation": "The mandatory display of the repairability index on electronic appliances incentivizes manufacturers to combat planned obsolescence."
+                },
+                {
+                    "target": "Dans le cadre de la Responsabilité Élargie du Producteur, les fabricants financent la collecte et le recyclage de leurs produits par le versement d'une éco-contribution.",
+                    "reading": "dahn luh kah-druh duh lah res-pohn-sah-bee-lee-tay ay-lahr-zhee doo proh-dook-tuhr, lay fah-bree-kahn fee-nahnss lah koh-lekt ay luh ruh-see-klahzh duh luhr proh-dwee pahr luh vair-suh-mahn doon nay-koh-kohn-tree-boo-syohn",
+                    "translation": "Under Extended Producer Responsibility, manufacturers fund the collection and recycling of their products through the payment of an eco-contribution."
+                },
+                {
+                    "target": "L'économie de la fonctionnalité privilégie l'usage partagé d'un bien plutôt que sa possession individuelle, réduisant l'extraction de matières premières vierges.",
+                    "reading": "lay-koh-noh-mee duh lah fohnk-syoh-nah-lee-tay pree-vee-lay-zhee loo-zahzh pahr-tah-zhay doon byan plyoo-toh kuh sah poh-seh-syohn an-dee-vee-dwel, ray-dwee-zahn lek-strahk-syohn duh mah-tyair pruh-myair vyairzh",
+                    "translation": "The functional economy favors the shared use of a good rather than its individual ownership, reducing the extraction of virgin raw materials."
+                },
+                {
+                    "target": "La valorisation énergétique des déchets résiduels non recyclables produit de la chaleur urbaine et de l'électricité dans les incinérateurs modernes.",
+                    "reading": "lah vah-loh-ree-zah-syohn ay-nair-zhay-teek day day-shay ray-zee-dwel nohn ruh-see-klahbl proh-dwee duh lah shah-luhr oor-ben ay duh lay-lek-tree-see-tay dahn lay zan-see-nay-rah-tuhr moh-dairn",
+                    "translation": "Energy recovery from non-recyclable residual waste produces district heating and electricity in modern incinerators."
                 }
             ],
             "mnemonics": [
-                "Conceptual anchor for Économie Circulaire et Gestion Durable des Ressources"
+                "LOI AGEC: Anti-Gaspillage pour une Économie Circulaire!",
+                "ÉCONOMIE CIRCULAIRE: Éco-conception -> Réemploi -> Réparation -> Recyclage!"
             ],
             "culturalNotes": [
-                "Epistemological and institutional significance of Économie Circulaire et Gestion Durable des Ressources in France."
+                "France was the first country in the world to make planned obsolescence a specific criminal offense punishable by prison and heavy fines in 2015."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Examine circular economy models, waste management, and resource sobrie » :",
+                    "prompt": "Quelle note sur 10 obligatoire en France informe les consommateurs sur la facilité de réparation d'un smartphone ou lave-linge ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette forme présente une anomalie phonétique en français standard (139a).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (139b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (139c)."
+                        "L'indice de réparabilité",
+                        "Le Nutri-Score",
+                        "Le contrôle technique",
+                        "L'indice boursier CAC"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "L'indice de réparabilité est un logo officiel noté sur 10 indiquant si l'appareil est facilement démontable et réparable."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u28-l4 :",
+                    "prompt": "Que sanctionne le délit d'« obsolescence programmée » dans la loi française ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette variante relève d'un registre familier inadapté au contexte (139x).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (139y).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (139z)."
+                        "La réduction délibérée de la durée de vie d'un produit pour en forcer le renouvellement",
+                        "Le fait de fabriquer des produits trop solides",
+                        "La baisse du prix de vente des téléphones",
+                        "Le retard dans la livraison d'un colis"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C1."
+                    "explanation": "L'obsolescence programmée désigne l'ensemble des techniques visant à raccourcir volontairement la durée de vie d'un produit pour inciter à l'achat."
                 }
             ]
         },
@@ -15217,25 +15291,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u28-l4) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle loi française promulguée en 2020 accélère la fin du plastique à usage unique et lutte contre le gaspillage ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette variante relève d'un registre familier inadapté au contexte (139m).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (139n).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (139p)."
+                        "Le Code du Travail",
+                        "La loi de finances",
+                        "La loi AGEC (Anti-Gaspillage pour une Économie Circulaire)",
+                        "La loi informatique et libertés"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 2,
+                    "explanation": "La loi AGEC (2020) est le texte fondamental guidant la transition vers l'économie circulaire en France."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u28-l4 (terme attendu : « Nous ») :",
+                    "prompt": "Quel principe environnemental oblige les fabricants à financer la gestion de leurs déchets ? (principe du _________-payeur)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "pollueur",
+                        "Pollueur"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Le principe fondamental est le principe « pollueur-payeur »."
                 }
             ],
             "passThreshold": 0.8
@@ -15251,56 +15324,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u28-l4"
+            ]
         },
         "presentation": {
-            "explanation": "Rigorous academic exposition of Politiques Environnementales Internationales et Accords de Paris. At the CEFR C1 level, learners develop mastery in abstract conceptualization, domain-specific terminology, and sophisticated syntactic structures required for academic, legal, and intellectual fluency in French.",
+            "explanation": "International environmental diplomacy and multilateral pacts in French (la diplomatie environnementale et les accords multilatéraux) require mastery of diplomatic and treaty terminology:\n\n1. The Global Climate Architecture (L'Architecture Diplomatique du Climat):\n- La CCNUCC (Convention-Cadre des Nations Unies sur les Changements Climatiques) et les COP annuelles.\n- L'Accord de Paris de 2015 : Objectif juridiquement contraignant de contenir le réchauffement bien en deçà de 2 °C et de poursuivre les efforts pour limiter la hausse à 1,5 °C.\n- Les Contributions Déterminées au niveau National (CDN / NDC).\n- Le mécanisme de pertes et préjudices (Loss and Damage).\n\n2. Sustainable Development Framework:\n- Les 17 Objectifs de Développement Durable (ODD) de l'ONU à l'horizon 2030.\n- Le Mécanisme d'Ajustement Carbone aux Frontières (MACF) de l'Union européenne.\n- Responsabilités communes mais différenciées.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "L'Accord de Paris sur le climat engage juridiquement la communauté internationale à contenir l'élévation de la température moyenne bien en deçà de deux degrés Celsius.",
+                    "reading": "lah-kohr duh pah-ree soor luh klee-mah ahn-gahzh zhoo-ree-deek-mahn lah koh-moo-noh-tay an-tair-nah-syoh-nahl ah kohn-tuh-neer lay-lay-vah-syohn duh lah tahn-pay-rah-toor mwah-yen byan ahn duh-sah duh duh duh-gray sel-syooz",
+                    "translation": "The Paris Climate Agreement legally binds the international community to hold the increase in global average temperature to well below two degrees Celsius."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Les pays signataires doivent réviser à la hausse leurs Contributions Déterminées au niveau National lors de chaque Conférence des Parties afin de combler l'écart d'émissions.",
+                    "reading": "lay peh-ee seen-yah-tair dwahvt ray-vee-zay ah lah ohs luhr kohn-tree-boo-syohn day-tair-mee-nay oh nee-voh nah-syoh-nahl lohr duh shahk kohn-fay-rahns day pahr-tee ah-fan duh kohn-blay lay-kahr day-mee-syohn",
+                    "translation": "Signatory nations must ratchet up their Nationally Determined Contributions at each Conference of the Parties to close the emissions gap."
+                },
+                {
+                    "target": "Le principe des responsabilités communes mais différenciées reconnaît la responsabilité historique des nations industrialisées dans le dérèglement climatique mondial.",
+                    "reading": "luh pran-seep day res-pohn-sah-bee-lee-tay koh-moon meh deef-fay-rahn-syay ruh-koh-neh lah res-pohn-sah-bee-lee-tay ees-toh-reek day nah-syohn zan-doos-tree-ah-lee-zay dahn luh day-reh-gluh-mahn klee-mah-teek mohn-dyahl",
+                    "translation": "The principle of common but differentiated responsibilities acknowledges the historical responsibility of industrialized nations in global climate disruption."
+                },
+                {
+                    "target": "L'Union européenne a instauré le Mécanisme d'Ajustement Carbone aux Frontières pour éviter les fuites de carbone et préserver l'équité concurrentielle des industriels vertueux.",
+                    "reading": "loo-nyohn uh-roh-pay-en ah an-stoh-ray luh may-kah-neezm dah-zhoos-t-mahn kahr-bohn oh frohn-tyair poor ay-vee-tay lay fweet duh kahr-bohn ay pray-zair-vay lay-kee-tay kohn-koo-rahn-syel day zan-doos-tree-yel vair-too-uh",
+                    "translation": "The European Union established the Carbon Border Adjustment Mechanism to prevent carbon leakage and protect competitive fairness for virtuous manufacturers."
+                },
+                {
+                    "target": "L'atteinte des dix-sept Objectifs de Développement Durable de l'ONU à l'horizon 2030 exige une mobilisation financière sans précédent en faveur des pays en développement.",
+                    "reading": "lah-tant day dee-set ohb-zhek-teef duh day-vlohp-mahn doo-rahbl duh loh-en-oo ah loh-ree-zohn duh meel trahnt eg-zeezh oon moh-bee-lee-zah-syohn fee-nahn-syair sahn pray-say-dahn ahn fah-vuhr day peh-ee ahn day-vlohp-mahn",
+                    "translation": "Attaining the 17 UN Sustainable Development Goals by 2030 demands unprecedented financial mobilization for developing countries."
                 }
             ],
             "mnemonics": [
-                "Conceptual anchor for Politiques Environnementales Internationales et Accords de Paris"
+                "ACCORD DE PARIS (2015): 1.5°C goal + Binding NDCs (CDN) every 5 years!",
+                "ODD = 17 OBJECTIFS DE DÉVELOPPEMENT DURABLE (SDGs)!"
             ],
             "culturalNotes": [
-                "Epistemological and institutional significance of Politiques Environnementales Internationales et Accords de Paris in France."
+                "The diplomacy of the Paris Agreement was led by French diplomats and chaired by Laurent Fabius, sealing the unanimous consensus of 196 parties on December 12, 2015."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Draft a policy briefing on international environmental pacts and susta » :",
+                    "prompt": "Quel est l'objectif thermique central inscrit à l'article 2 de l'Accord de Paris sur le climat ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (140a).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (140b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (140c)."
+                        "Contenir le réchauffement bien en deçà de 2 °C et poursuivre les efforts pour limiter la hausse à 1,5 °C",
+                        "Autoriser une hausse de 10 °C sans limite",
+                        "Interdire la pluie dans les grandes villes",
+                        "Refroidir la Terre en dessous de l'ère glaciaire"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "L'Accord de Paris fixe l'objectif universel de maintenir l'élévation des températures bien en deçà de 2 °C et si possible à 1,5 °C."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u28-l5 :",
+                    "prompt": "Que vise le « Mécanisme d'Ajustement Carbone aux Frontières » (MACF) de l'Union européenne ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (140x).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (140y).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (140z)."
+                        "Taxer les importations de produits polluants pour éviter que les entreprises délocalisent leurs émissions",
+                        "Interdire tout voyage en avion en dehors d'Europe",
+                        "Supprimer les douanes entre tous les continents",
+                        "Faire payer un droit d'entrée touristique aux frontières"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau C1."
+                    "explanation": "Le MACF (taxe carbone aux frontières) applique un prix du carbone aux produits importés (acier, ciment, etc.) équivalent à celui payé par les industriels européens."
                 }
             ]
         },
@@ -15308,25 +15399,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u28-l5) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Combien d'Objectifs de Développement Durable (ODD) ont été adoptés par l'ONU dans son Agenda 2030 ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (140m).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (140n).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (140p)."
+                        "5 ODD",
+                        "50 ODD",
+                        "17 ODD",
+                        "100 ODD"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 2,
+                    "explanation": "L'Agenda 2030 de l'ONU est structuré autour de 17 Objectifs de Développement Durable (ODD)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u28-l5 (terme attendu : « Nous ») :",
+                    "prompt": "Dans quelle ville a été signé l'accord historique mondial sur le climat en 2015 ? (les Accords de _________)",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "Paris",
+                        "paris"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Le traité historique sur le climat est l'Accord de « Paris »."
                 }
             ],
             "passThreshold": 0.8
