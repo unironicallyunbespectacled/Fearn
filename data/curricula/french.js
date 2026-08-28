@@ -10015,56 +10015,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u18-l5"
+            ]
         },
         "presentation": {
-            "explanation": "In-depth analysis of Formation Canonique de la Voix Passive. At the CEFR B2 level, learners acquire precise command over formation canonique de la voix passive, integrating advanced syntax with professional and domain-specific lexicon.",
+            "explanation": "The passive voice foregrounds the patient (receiver of the action) rather than the agent:\n\n1. Structural Transformation:\n- Active: [Sujet Agent] + [Verbe Transitif Direct] + [COD / Patient]\n  * 'L'architecte conçoit le bâtiment.'\n- Passive: [Sujet Patient] + [ÊTRE conjugué au même temps] + [Participe Passé] + [PAR + Complément d'Agent]\n  * 'Le bâtiment est conçu par l'architecte.'\n\n2. Mandatory Agreement of the Past Participle:\nThe past participle ALWAYS agrees in gender and number with the grammatical subject of être:\n- 'Les lois seront votées par l'Assemblée.' (féminin pluriel -> -es)\n- 'Le rapport a été rédigé par l'expert.' (masculin singulier -> -é)\n\n3. Passive Across Key Tenses:\n- Présent: 'Le tableau est restauré par des spécialistes.'\n- Passé composé: 'Les propositions ont été acceptées par le comité.'\n- Futur simple: 'La nouvelle gare sera inaugurée par le maire.'\n- Imparfait: 'La forteresse était surveillée par la garde.'",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Ce chef-d'œuvre de la Renaissance a été minutieusement restauré par les experts du Louvre.",
+                    "reading": "suh shef-duhvr duh lah ruh-neh-sahns ah ay-tay mee-noos-yuhz-mahn res-toh-ray pahr lay zek-spair doo loovr",
+                    "translation": "This Renaissance masterpiece was meticulously restored by the Louvre's experts."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Les nouvelles réformes fiscales seront officiellement présentées par le Premier ministre demain matin.",
+                    "reading": "lay noo-vel ray-fohrm fees-kahl suh-rohn oh-fee-syel-mahn pray-zahn-tay pahr luh pruh-myay mee-neestr duh-man mah-tan",
+                    "translation": "The new fiscal reforms will be officially presented by the Prime Minister tomorrow morning."
+                },
+                {
+                    "target": "Toutes les candidatures sont examinées avec la plus grande rigueur par le jury de sélection.",
+                    "reading": "toot lay kahn-dee-dah-toor sohn teg-zah-mee-nay ah-vek lah ploo grahnd ree-guhr pahr luh zhoo-ree duh say-lek-syohn",
+                    "translation": "All applications are examined with the utmost rigor by the selection jury."
+                },
+                {
+                    "target": "Cette forteresse médiévale était autrefois défendue par une garnison de chevaliers d'élite.",
+                    "reading": "set fohr-tuh-res may-dyeh-vahl ay-teh oh-truh-fwah day-fahn-doo pahr oon gahr-nee-zohn duh shuh-vah-lyay day-leet",
+                    "translation": "This medieval fortress was once defended by a garrison of elite knights."
+                },
+                {
+                    "target": "Le discours d'ouverture a été prononcé par la directrice générale de l'institution.",
+                    "reading": "luh dees-koor doo-vair-toor ah ay-tay proh-nohn-say pahr lah dee-rek-trees zhay-nay-rahl duh lan-stee-too-syohn",
+                    "translation": "The opening address was delivered by the institution's general director."
                 }
             ],
             "mnemonics": [
-                "Structural memory anchor for Formation Canonique de la Voix Passive"
+                "PASSIVE PARTICIPLE AGREES WITH THE NEW SUBJECT: 'Être' drives the gender/number (-e, -s, -es)!",
+                "PAR IS THE ACTIVE AGENT: Done BY someone -> 'Par'!"
             ],
             "culturalNotes": [
-                "Authentic pragmatic application of Formation Canonique de la Voix Passive in professional France."
+                "In French journalism (Le Monde, AFP dispatches), the passive voice is heavily used to present breaking news before responsible agents are confirmed."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Form the passive voice using auxiliary 'être' and the past participle  » :",
+                    "prompt": "Transformez à la voix passive : « Le comité approuve cette décision. »",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (91a).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (91b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (91c)."
+                        "Cette décision est approuvée par le comité.",
+                        "Cette décision a approuvé par le comité.",
+                        "Cette décision sera approuver par le comité.",
+                        "Cette décision était approuvé par le comité."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Le verbe 'approuve' (présent) donne 'est approuvée' au passif, avec accord au féminin singulier avec 'cette décision'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u19-l1 :",
+                    "prompt": "Complétez l'accord du participe passé : « Ces lettres ont été _________ (écrire) par Victor Hugo. »",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "L'antériorité temporelle est mal établie par rapport au repère (91x).",
-                        "Cette proposition modifie subtilement le sens originel du verbe (91y).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (91z)."
+                        "écrites",
+                        "écrit",
+                        "écrite",
+                        "écrits"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B2."
+                    "explanation": "Le sujet 'Ces lettres' est féminin pluriel ; le participe passé prend la marque '-es' : « écrites »."
                 }
             ]
         },
@@ -10072,25 +10090,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u19-l1) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Identifiez la phrase passive correctement conjuguée et accordée au futur simple :",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "L'antériorité temporelle est mal établie par rapport au repère (91m).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (91n).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (91p)."
+                        "Les conventions seront signées par les deux ministres.",
+                        "Les conventions seront signé par les deux ministres.",
+                        "Les conventions sont signées de les deux ministres.",
+                        "Les conventions seront signer par les deux ministres."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "« seront signées » conjugue 'être' au futur simple et accorde le participe au féminin pluriel avec « les conventions »."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u19-l1 (terme attendu : « Nous ») :",
+                    "prompt": "Conjuguez 'être' au présent dans cette phrase passive : « La directive _________ (être) appliquée par tous les services. »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "est",
+                        "Est"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Au présent avec 'la directive' (3e personne singulier), le verbe être est « est »."
                 }
             ],
             "passThreshold": 0.8
@@ -10106,56 +10123,73 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u19-l1"
+            ]
         },
         "presentation": {
-            "explanation": "In-depth analysis of Le Complément d'Agent avec la Préposition DE. At the CEFR B2 level, learners acquire precise command over le complément d'agent avec la préposition de, integrating advanced syntax with professional and domain-specific lexicon.",
+            "explanation": "While 'par' is standard for dynamic physical or intellectual actions, 'DE' replaces 'par' with specific verb categories:\n\n1. Verbs of Emotion, Sentiment & Esteem:\n- aimer, adorer, respecter, estimer, haïr, craindre, apprécier, admirer.\n- Example: 'Ce professeur est aimé et respecté de tous ses étudiants.' (Not 'par tous' in elevated French).\n\n2. Verbs of Physical Description, Border & State (Static Result):\n- être entouré de, être bordé de, être couvert de, être décoré de, être composé de, être suivi de, être précédé de.\n- Example: 'Le jardin est entouré d'une haute grille en fer forgé.'\n\n3. Verbs of Mental Process / Knowledge:\n- être connu de, être ignoré de, être oublié de.\n- Example: 'Son talent était ignoré de tous.'\n\n4. The Core Contrast:\n- 'L'arbre a été abattu par le bûcheron.' (Active dynamic process -> par).\n- 'Le mont Blanc est couvert de neige éternelle.' (Static state / description -> de).",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Ce professeur émérite était profondément respecté et estimé de l'ensemble de ses collègues.",
+                    "reading": "suh proh-feh-suhr ay-may-reet ay-teh proh-fohn-day-mahn res-pek-tay ay es-tee-may duh lahn-sahnbl duh say koh-leg",
+                    "translation": "This emeritus professor was deeply respected and esteemed by all of his colleagues."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Le charmant domaine viticole était entouré de collines verdoyantes et de forêts de chênes.",
+                    "reading": "luh shahr-mahn doh-men vee-tee-kohl ay-teh tahn-too-ray duh koh-leen vair-dwah-yahnt ay duh foh-reh duh shen",
+                    "translation": "The charming wine estate was surrounded by verdant rolling hills and oak forests."
+                },
+                {
+                    "target": "Ce jeune prodige de la peinture contemporaine est désormais connu de tous les grands galeristes parisiens.",
+                    "reading": "suh zhuhn proh-deezh duh lah pan-toor kohn-tahm-poh-ren ay day-zohr-meh koh-noo duh too lay grahn gah-luh-reest pah-ree-zyan",
+                    "translation": "This young prodigy of contemporary painting is now known to all the major Parisian gallery owners."
+                },
+                {
+                    "target": "Le sommet majestueux de la montagne était entièrement recouvert d'un épais manteau neigeux.",
+                    "reading": "luh soh-meh mah-zhes-twyuh duh lah mohn-tahn-yuh ay-teh tahn-tyair-mahn ruh-koo-vair duh nay-peh mahn-toh nay-zhuh",
+                    "translation": "The majestic mountain summit was completely covered with a thick blanket of snow."
+                },
+                {
+                    "target": "Son nom et ses exploits héroïques étaient célébrés et admirés de toute la population.",
+                    "reading": "sohn nohn ay say zeks-plwah ay-roh-eek ay-teh say-lay-bray ay ahd-mee-ray duh toot lah poh-poo-lah-syohn",
+                    "translation": "His name and heroic deeds were celebrated and admired by the entire population."
                 }
             ],
             "mnemonics": [
-                "Structural memory anchor for Le Complément d'Agent avec la Préposition DE"
+                "FEELINGS & FENCES TAKE 'DE': Emotions (aimé de) and Physical surroundings (entouré de) use 'DE', not 'PAR'!"
             ],
             "culturalNotes": [
-                "Authentic pragmatic application of Le Complément d'Agent avec la Préposition DE in professional France."
+                "In French literature (from Flaubert to Proust), the distinction between 'par' (accidental action) and 'de' (enduring state or sentiment) is prized as a marker of literary style."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Identify verbs of state, sentiment, and description taking agent prepo » :",
+                    "prompt": "Quelle préposition introduit le complément d'agent après le verbe de sentiment « estimé » ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "La préposition employée ici n'est pas commandée par le verbe (92a).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (92b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (92c)."
+                        "de",
+                        "par",
+                        "avec",
+                        "pour"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Les verbes de sentiment et d'estime (aimé, respecté, estimé) prennent traditionnellement la préposition « de »."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u19-l2 :",
+                    "prompt": "Complétez : « La vieille maison de campagne est entourée _________ beaux cyprès centenaires. »",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "La préposition employée ici n'est pas commandée par le verbe (92x).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (92y).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (92z)."
+                        "de",
+                        "par des",
+                        "avec des",
+                        "pour des"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B2."
+                    "explanation": "Le verbe 'être entouré' exprime un état descriptif et se construit avec « de » (« entourée de beaux cyprès »)."
                 }
             ]
         },
@@ -10163,25 +10197,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u19-l2) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Choisissez la phrase qui emploie correctement la préposition 'de' avec la voix passive :",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "La préposition employée ici n'est pas commandée par le verbe (92m).",
-                        "Cette forme présente une anomalie phonétique en français standard (92n).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (92p)."
+                        "La lettre a été tapée de la secrétaire.",
+                        "Cet auteur classique est lu et admiré de milliers de passionnés.",
+                        "Le voleur a été arrêté d'un gendarme.",
+                        "Le pont a été détruit de la tempête."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 1,
+                    "explanation": "« admiré de » est un verbe de sentiment/état qui régit la préposition 'de', alors que les actions dynamiques (tapée, arrêté, détruit) prennent 'par'."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u19-l2 (terme attendu : « Nous ») :",
+                    "prompt": "Complétez avec la préposition correcte : « Cette artiste est respectée _________ tous ses pairs. »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "de",
+                        "De"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Après un verbe de respect ou d'estime, on emploie la préposition « de »."
                 }
             ],
             "passThreshold": 0.8
@@ -10197,56 +10230,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u19-l2"
+            ]
         },
         "presentation": {
-            "explanation": "In-depth analysis of Le Passif Pronominal et les Vérités Générales. At the CEFR B2 level, learners acquire precise command over le passif pronominal et les vérités générales, integrating advanced syntax with professional and domain-specific lexicon.",
+            "explanation": "French often avoids the heavy auxiliary passive by using reflexive verbs in an impersonal/passive sense:\n\n1. The Pronominal Passive Construction:\n- Sujet Inanimé (Chose) + SE / S' + Verbe à la 3e personne (singulier ou pluriel)\n  * 'Le vin rouge se boit à température ambiante.' (Red wine is drunk at room temperature).\n  * Plural: 'Les huîtres se mangent très fraîches.' (Oysters are eaten very fresh).\n\n2. Primary Contexts:\n- General truths, customs, culinary traditions: 'Le champagne se sert frais.'\n- Commercial practices & care labels: 'Ce produit se vend en pharmacie.' / 'Ce tissu se lave à sec.'\n- Linguistic rules & translations: 'Comment ce terme se traduit-il en français ?'\n\n3. Inanimate Subject Rule:\nThe subject must be an inanimate object or concept. If an animate agent is present, use 'on' or canonical passive.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Ce cépage rouge réputé se déguste de préférence à une température de seize à dix-huit degrés.",
+                    "reading": "suh say-pahzh roozh ray-poo-tay suh day-goost duh pray-fay-rahns ah oon tahm-pay-rah-toor duh sehz ah deez-weet duh-gray",
+                    "translation": "This renowned red grape variety is best enjoyed at a temperature of sixteen to eighteen degrees."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Ces élégants tissus en soie naturelle se lavent exclusivement à la main ou à sec.",
+                    "reading": "say zay-lay-gahn tee-soo ahn swah nah-too-rel suh lahv eks-kloo-zeev-mahn ah lah man oo ah sek",
+                    "translation": "These elegant natural silk fabrics are washed exclusively by hand or dry cleaned."
+                },
+                {
+                    "target": "En français soutenu, cette expression idiomatique s'emploie principalement à l'écrit.",
+                    "reading": "ahn frahn-seh soo-tuh-noo, set tek-spreh-syohn ee-dyoh-mah-teek sahm-plwah pran-see-pahl-mahn ah lay-kree",
+                    "translation": "In formal French, this idiomatic expression is used primarily in writing."
+                },
+                {
+                    "target": "Les billets pour ce spectacle très attendu se sont vendus en moins de dix minutes.",
+                    "reading": "lay bee-yay poor suh spek-tahkl treh zah-tahn-doo suh sohn vahn-doo ahn mwan duh dee mee-noot",
+                    "translation": "Tickets for this highly anticipated show sold out in less than ten minutes."
+                },
+                {
+                    "target": "Dans les régions du Sud, le fromage de brebis se mange traditionnellement avec de la confiture de cerises noires.",
+                    "reading": "dahn lay ray-zhyohn doo sood, luh froh-mahzh duh bruh-bee suh mahnzh trah-dee-syoh-nel-mahn ah-vek duh lah kohn-fee-toor duh suh-reez nwahr",
+                    "translation": "In southern regions, sheep's milk cheese is traditionally eaten with black cherry jam."
                 }
             ],
             "mnemonics": [
-                "Structural memory anchor for Le Passif Pronominal et les Vérités Générales"
+                "THINGS ACT ON THEMSELVES IN FRENCH: 'Le vin se boit' = 'Wine is drunk'!",
+                "AGREE WITH THE PLURAL NOUN: 'Les journaux SE VENDENT' (3rd person plural)!"
             ],
             "culturalNotes": [
-                "Authentic pragmatic application of Le Passif Pronominal et les Vérités Générales in professional France."
+                "French gastronomy guidelines, recipe books (Escoffier's Guide Culinaire), and apparel care labels almost universally deploy the pronominal passive."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Deploy pronominal passive constructions (se + verbe 3e personne) for g » :",
+                    "prompt": "Comment traduit-on au passif pronominal « This book is read easily » ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (93a).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (93b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (93c)."
+                        "Ce livre se lit facilement.",
+                        "Ce livre est lu facilement par soi.",
+                        "Ce livre lit soi facilement.",
+                        "Ce livre s'est lu facilement hier."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "La forme passive pronominale d'usage général est « Ce livre se lit facilement »."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u19-l3 :",
+                    "prompt": "Accordez le verbe au passif pronominal : « En automne, les châtaignes _________ (se ramasser) en forêt. »",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette proposition modifie subtilement le sens originel du verbe (93x).",
-                        "Cette variante relève d'un registre familier inadapté au contexte (93y).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (93z)."
+                        "se ramassent",
+                        "se ramasse",
+                        "s'est ramassé",
+                        "se ramasser"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B2."
+                    "explanation": "Le sujet 'les châtaignes' est pluriel, donc le verbe prend la désinence '-ent' : « se ramassent »."
                 }
             ]
         },
@@ -10254,25 +10305,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u19-l3) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle phrase illustre un passif pronominal exprimant un usage général ou une vérité coutumière ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette proposition modifie subtilement le sens originel du verbe (93m).",
-                        "L'antériorité temporelle est mal établie par rapport au repère (93n).",
-                        "Le pronom complément n'est pas placé au rang hiérarchique adéquat (93p)."
+                        "Ce fromage se mange avec du pain frais.",
+                        "Pierre se regarde dans le miroir.",
+                        "Les enfants se disputent dans la cour.",
+                        "Elle se réveille à sept heures."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "« Ce fromage se mange » a un sujet inanimé et exprime une vérité générale passive ('is eaten'). Les autres options sont des réflexifs ou réciproques ordinaires."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u19-l3 (terme attendu : « Nous ») :",
+                    "prompt": "Complétez la question au passif pronominal : « Comment ce mot _________ (s'écrire) en français ? »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "s'écrit",
+                        "S'écrit"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Le verbe s'écrire à la 3e personne du singulier au présent est « s'écrit »."
                 }
             ],
             "passThreshold": 0.8
@@ -10288,56 +10338,74 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u19-l3"
+            ]
         },
         "presentation": {
-            "explanation": "In-depth analysis of Les Structures Passives Causatives (Se faire et Se voir). At the CEFR B2 level, learners acquire precise command over les structures passives causatives (se faire et se voir), integrating advanced syntax with professional and domain-specific lexicon.",
+            "explanation": "French uses causative reflexive structures when the subject experiences or undergoes an action instigated by an external agent:\n\n1. SE FAIRE + INFINITIF (To have something done to oneself / To undergo an action):\n- Voluntary service: 'Je vais me faire couper les cheveux.' (I am getting my hair cut).\n- Involuntary / adverse event: 'Il s'est fait voler son portefeuille.' (He had his wallet stolen).\n- Past participle rule: 'Fait' followed by an infinitive is ALWAYS INVARIABLE:\n  * 'Elle s'est fait soigner.' (Never 'faite'!).\n\n2. SE VOIR + INFINITIF / PARTICIPE (To find oneself granted / inflicted something):\n- Elevated & journalistic register:\n  * 'Le chercheur s'est vu décerner la médaille d'or.' (The researcher was awarded the gold medal).\n  * 'L'entreprise s'est vue refuser le permis de construire.' (The company was denied the building permit).",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "Avant leur grand voyage humanitaire en Afrique de l'Ouest, ils sont allés se faire vacciner contre la fièvre jaune.",
+                    "reading": "ah-vahn luhr grahn vwah-yahzh oo-mah-nee-tair ahn nah-freek duh lwest, eel sohn zah-lay suh fair vahk-see-nay kohn-truh lah fyeh-vruh zhohn",
+                    "translation": "Before their major humanitarian trip to West Africa, they went to get vaccinated against yellow fever."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "Le brillant auteur s'est vu décerner le prestigieux prix Goncourt lors d'une cérémonie solennelle.",
+                    "reading": "luh bree-yahn oh-tuhr say voo day-sair-nay luh pres-tee-zhyuh pree gohn-koor lohr doon say-ray-moh-nee soh-lahn-nel",
+                    "translation": "The brilliant author was awarded the prestigious Goncourt prize during a solemn ceremony."
+                },
+                {
+                    "target": "Malheureusement, elle s'est fait dérober son sac à main dans une rame de métro bondée.",
+                    "reading": "mah-luhr-uhz-mahn, el say feh day-roh-bay sohn sahk ah man dahn zoon rahm duh may-troh bohn-day",
+                    "translation": "Unfortunately, she had her handbag stolen in a crowded subway car."
+                },
+                {
+                    "target": "En raison de ces retards répétés, le conducteur s'est vu retirer son permis de conduire pour six mois.",
+                    "reading": "ahn ray-zohn duh say ruh-tahr ray-pay-tay, luh kohn-dook-tuhr say voo ruh-tee-ray sohn pair-mee duh kohn-dweer poor see mwah",
+                    "translation": "Due to these repeated infractions, the driver had his driver's license revoked for six months."
+                },
+                {
+                    "target": "Nous devons absolument faire réparer cette fuite d'eau avant que les dégâts ne s'aggravent.",
+                    "reading": "noo duh-vohn zahb-soh-loo-mahn fair ray-pah-ray set fweet doh ah-vahn kuh lay day-gah nuh sah-grahv",
+                    "translation": "We absolutely must have this water leak repaired before the damage worsens."
                 }
             ],
             "mnemonics": [
-                "Structural memory anchor for Les Structures Passives Causatives (Se faire et Se voir)"
+                "FAIT + INFINITIVE NEVER ADDS AN 'E': 'Elle s'est fait vacciner' (Invariable 'fait'!)",
+                "SE VOIR FOR FORMAL HONORS & PENALTIES: 'S'est vu décerner' = 'Was awarded'!"
             ],
             "culturalNotes": [
-                "Authentic pragmatic application of Les Structures Passives Causatives (Se faire et Se voir) in professional France."
+                "In French media and administrative contexts, 'se voir confier une mission' (to be entrusted with a mission) replaces clumsy canonical passive forms."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Use causative passive structures with 'se faire' and 'se voir' (se fai » :",
+                    "prompt": "Identifiez l'orthographe correcte du participe 'fait' suivi d'un infinitif : « Elle s'est _________ opérer hier. »",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette forme présente une anomalie phonétique en français standard (94a).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (94b).",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (94c)."
+                        "fait",
+                        "faite",
+                        "faits",
+                        "faites"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "Le participe passé 'fait' suivi immédiatement d'un infinitif reste toujours invariable : « s'est fait opérer »."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u19-l4 :",
+                    "prompt": "Traduisez dans un registre soutenu : « The scientist was awarded the Nobel Prize » :",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette forme présente une anomalie phonétique en français standard (94x).",
-                        "La préposition employée ici n'est pas commandée par le verbe (94y).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (94z)."
+                        "Le scientifique s'est vu décerner le prix Nobel.",
+                        "Le scientifique a vu donner le prix Nobel.",
+                        "Le scientifique s'est fait donner le prix Nobel.",
+                        "Le scientifique a décerné le prix Nobel."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B2."
+                    "explanation": "« Se voir décerner » est l'expression journalistique et institutionnelle consacrée."
                 }
             ]
         },
@@ -10345,25 +10413,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u19-l4) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Quelle phrase comporte une faute d'accord ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette forme présente une anomalie phonétique en français standard (94m).",
-                        "Le mode verbal requis n'est pas respecté dans cette subordonnée (94n).",
-                        "L'accord syntaxique ne correspond pas exactement au sujet exprimé (94p)."
+                        "Elle s'est fait vacciner ce matin.",
+                        "Ils se sont fait voler leurs passeports.",
+                        "Elle s'est faite vacciner ce matin.",
+                        "Le lauréat s'est vu remettre son trophée."
                     ],
-                    "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "answerIndex": 2,
+                    "explanation": "« faite » est une faute : 'fait' suivi d'un infinitif est invariable (« s'est fait vacciner »)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u19-l4 (terme attendu : « Nous ») :",
+                    "prompt": "Complétez la structure passive causative : « Je dois me _________ (faire) couper les cheveux. »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "faire",
+                        "Faire"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "L'infinitif dans la locution causative est « faire »."
                 }
             ],
             "passThreshold": 0.8
@@ -10379,56 +10446,73 @@
         ],
         "warmup": {
             "srsPull": true,
-            "reviewFocus": []
+            "reviewFocus": [
+                "fr-u19-l4"
+            ]
         },
         "presentation": {
-            "explanation": "In-depth analysis of L'Alternative Active avec le Pronom ON. At the CEFR B2 level, learners acquire precise command over l'alternative active avec le pronom on, integrating advanced syntax with professional and domain-specific lexicon.",
+            "explanation": "In authentic French, overusing the passive voice is considered heavy and overly bureaucratic. Native speakers routinely replace passive structures with active sentences using the indefinite pronoun ON:\n\n1. The Substitution Principle:\n- Heavy Passive: 'L'espagnol est parlé en Argentine.'\n- Natural Active: 'On parle espagnol en Argentine.'\n- Clumsy Passive: 'La décision a été prise hier soir par le conseil.'\n- Natural Active: 'On a pris la décision hier soir.' (or 'Le conseil a pris...')\n\n2. Key Advantages of 'ON':\n- Fluidity & Dynamism: Active verbs provide greater clarity and impact.\n- Avoids Complex Auxiliaries: Eliminates double compound forms ('a été construit', 'auraient été rédigés').\n- Indefinite / Collective Agent: When the agent is unknown, unspecified, or general, 'on' is the standard solution.\n- Linguistic Naturalness: French has a strong innate preference for active verbal structures over passive constructions.",
             "examples": [
                 {
-                    "target": "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                    "reading": "noo zay-too-dyohn zah-tahn-teev-mahn set reh-gluh lan-gwees-teek fohn-dah-mahn-tahl",
-                    "translation": "We carefully study this fundamental linguistic rule in French."
+                    "target": "On a découvert un nouveau gisement de gaz naturel au large des côtes méditerranéennes.",
+                    "reading": "ohn nah day-koo-vair uhn noo-voh zhee-zuh-mahn duh gahz nah-too-rel oh lahrzh day koht may-dee-teh-rah-nay-en",
+                    "translation": "A new natural gas deposit was discovered off the Mediterranean coast."
                 },
                 {
-                    "target": "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                    "reading": "lah-plee-kah-syohn prah-teek duh set noh-syohn ahn-ree-shee lek-spreh-syohn ay-kreet ay oh-rahl",
-                    "translation": "The practical application of this concept enriches written and oral expression."
+                    "target": "On dit souvent que la persévérance est la véritable clé de la réussite professionnelle.",
+                    "reading": "ohn dee soo-vahn kuh lah pair-say-vay-rahns ay lah vay-ree-tahbl klay duh lah ray-oo-seet proh-feh-syohn-nel",
+                    "translation": "It is often said that perseverance is the true key to professional success."
+                },
+                {
+                    "target": "Dans cette entreprise innovante, on encourage vivement les initiatives individuelles des salariés.",
+                    "reading": "dahn set ahn-truh-preez een-noh-vahnt, ohn nahn-koo-rahzh veev-mahn lay zee-nee-syah-teev an-dee-vee-dwel day sah-lah-ryay",
+                    "translation": "In this innovative company, employees' individual initiatives are strongly encouraged."
+                },
+                {
+                    "target": "On a immédiatement fermé la station de métro pour des raisons de sécurité publique.",
+                    "reading": "ohn nah ee-may-dyaht-mahn fair-may lah stah-syohn duh may-troh poor day ray-zohn duh say-koo-ree-tay poo-bleek",
+                    "translation": "The subway station was immediately closed for public safety reasons."
+                },
+                {
+                    "target": "On servira le dîner de gala dans les salons de réception dès l'arrivée des invités d'honneur.",
+                    "reading": "ohn sair-vee-rah luh dee-nay duh gah-lah dahn lay sah-lohn duh ray-sep-syohn day lah-ree-vay day zan-vee-tay doh-nuhr",
+                    "translation": "The gala dinner will be served in the reception halls as soon as the guests of honor arrive."
                 }
             ],
             "mnemonics": [
-                "Structural memory anchor for L'Alternative Active avec le Pronom ON"
+                "DITCH THE PASSIVE SLUDGE: Replace 'A été fait' with 'On a fait' for crisp, authentic French!"
             ],
             "culturalNotes": [
-                "Authentic pragmatic application of L'Alternative Active avec le Pronom ON in professional France."
+                "The Académie Française and French stylistic guides (Grevisse's Le Bon Usage) emphasize that active sentences with 'on' embody the clarity ('la clarté française') celebrated in French prose."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "Choisissez l'énoncé qui illustre correctement l'objectif : « Choose natural active voice alternatives using 'on' to avoid heavy pas » :",
+                    "prompt": "Remplacez la tournure passive lourde « Le projet a été annulé » par une tournure active naturelle avec 'on' :",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Dans ce contexte particulier, nous préférons employer une autre tournure (95a).",
-                        "Cette construction passive alourdit inutilement l'énoncé (95b).",
-                        "Cette construction passive alourdit inutilement l'énoncé (95c)."
+                        "On a annulé le projet.",
+                        "On a été annuler le projet.",
+                        "On est annulé le projet.",
+                        "On annule le projet hier."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cette option applique fidèlement les règles grammaticales et stylistiques de la leçon."
+                    "explanation": "« On a annulé le projet » remplace élégamment et fidèlement le passif au passé composé."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "Sélectionnez l'exemple authentique correspondant à la compétence fr-u19-l5 :",
+                    "prompt": "Comment rendre « French is spoken here » de la façon la plus naturelle en français parlé et écrit ?",
                     "options": [
-                        "L'application pratique de cette notion enrichit l'expression écrite et orale.",
-                        "Cette construction passive alourdit inutilement l'énoncé (95x).",
-                        "Cette construction passive alourdit inutilement l'énoncé (95y).",
-                        "Cette construction passive alourdit inutilement l'énoncé (95z)."
+                        "Ici, on parle français.",
+                        "Ici, le français est parlé par les gens.",
+                        "Ici, le français a été parlé.",
+                        "Ici, nous sommes parlés français."
                     ],
                     "answerIndex": 0,
-                    "explanation": "Cet énoncé constitue la structure modèle conforme aux normes du niveau B2."
+                    "explanation": "« Ici, on parle français » est la formulation naturelle et concise universellement utilisée."
                 }
             ]
         },
@@ -10436,25 +10520,24 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "Contrôle des acquis (fr-u19-l5) : Quelle phrase applique rigoureusement la règle étudiée ?",
+                    "prompt": "Pourquoi les rédacteurs francophones privilégient-ils souvent 'on' par rapport à la voix passive canonique ?",
                     "options": [
-                        "Nous étudions attentivement cette règle linguistique fondamentale en français.",
-                        "Cette construction passive alourdit inutilement l'énoncé (95m).",
-                        "Cette construction passive alourdit inutilement l'énoncé (95n).",
-                        "Cette construction passive alourdit inutilement l'énoncé (95p)."
+                        "Pour rendre le style plus dynamique, fluide et concis en évitant les lourdeurs d'auxiliaires passifs.",
+                        "Parce que la voix passive est grammaticalement interdite en français.",
+                        "Parce que 'on' oblige le verbe à se mettre au subjonctif.",
+                        "Parce que 'on' ne peut désigner qu'une seule personne identifiée."
                     ],
                     "answerIndex": 0,
-                    "explanation": "L'énoncé sélectionné démontre une maîtrise complète de la structure cible."
+                    "explanation": "L'emploi de 'on' allège la phrase et donne un tour actif et dynamique à l'expression."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Saisissez le premier mot de la phrase modèle pour fr-u19-l5 (terme attendu : « Nous ») :",
+                    "prompt": "Transposez à la voix active avec 'on' (passé composé) : « La nouvelle loi a été votée. » -> « On a _________ la nouvelle loi. »",
                     "acceptedAnswers": [
-                        "Nous",
-                        "nous",
-                        "Nous"
+                        "voté",
+                        "Voté"
                     ],
-                    "explanation": "Le mot exact est « Nous »."
+                    "explanation": "Avec le sujet 'on' et l'auxiliaire 'avoir' sans COD précédent, le participe est « voté »."
                 }
             ],
             "passThreshold": 0.8
