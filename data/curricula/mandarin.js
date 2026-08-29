@@ -1451,63 +1451,69 @@
     },
     "zh-u3-l1": {
         "id": "zh-u3-l1",
-        "subject": "mandarin",
-        "unit": 3,
-        "lessonNumber": 1,
-        "title": "数字、时间与日期表达 (Numbers, Time & Date) (Part 1)",
+        "unit": "zh-u3",
         "level": "A1",
-        "objective": "Comprehensive mastery of 时间与日期表达 (Time, Numbers & Calendar).",
+        "objective": "Master the base-10 Chinese numerical system from 0 to 99, distinguishing counting numbers (一到十), tens composition (十一到九十九), and the crucial distinction between counting 'two' (二 èr) versus quantities (两 liǎng).",
+        "prerequisites": [
+            "zh-u2-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u2-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「数字、时间与日期表达 (Numbers, Time & Date)」（第1部分）的核心句法结构与时间与日期表达 (Time, Numbers & Calendar)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "汉语数字系统具有高度逻辑性与规则性，基于纯粹的十进制（Base-10）。\n\n1. 基础数字 (Digits 0–10):\n- **0 (líng - 零)**, **1 (yī - 一)**, **2 (èr - 二)**, **3 (sān - 三)**, **4 (sì - 四)**\n- **5 (wǔ - 五)**, **6 (liù - 六)**, **7 (qī - 七)**, **8 (bā - 八)**, **9 (jiǔ - 九)**, **10 (shí - 十)**\n\n2. 两位数组合规律 (Numbers 11–99):\n- **11–19**：十 + 个位 (shí + digit) → **十一 (11)**、**十二 (12)**、**十五 (15)**、**十九 (19)**\n- **20, 30...90**：个位 + 十 (digit + shí) → **二十 (20)**、**三十 (30)**、**八十 (80)**\n- **21–99**：十位 + 个位 → **二十五 (25)**、**七十八 (78)**、**九十九 (99)**\n\n3. 「二 (èr)」与「两 (liǎng)」的重要区别：\n- **二 (èr)**：用于纯数学数数、序数、数学计算及编号（如：一二三、第二、二号）。\n- **两 (liǎng)**：用于量词前表示具体事物的数量（如：两个人、两本书、两点钟）。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (3.1.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "一、二、三、四、五、六、七、八、九、十。",
+                    "reading": "yī, èr, sān, sì, wǔ, liù, qī, bā, jiǔ, shí.",
+                    "translation": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (3.1.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "我们班有二十八个学生，其中有十五个男生和十三位女生。",
+                    "reading": "Wǒmen bān yǒu èrshíbā gè xuésheng, qízhōng yǒu shíwǔ gè nánshēng hé shísān wèi nǚshēng.",
+                    "translation": "Our class has 28 students, including 15 boys and 13 girls."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (3.1.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "我有两个汉语老师，一共有三十本中文书。",
+                    "reading": "Wǒ yǒu liǎng gè hànyǔ lǎoshī, yígòng yǒu sānshí běn zhōngwén shū.",
+                    "translation": "I have two Chinese teachers and altogether 30 Chinese books."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 时间与日期表达 (Time, Numbers & Calendar)"
+                "«二» for counting (1, 2, 3)! «两» for measuring items (两个, 两本, 两点)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Number 8 (八 bā) is auspicious in Chinese culture due to its phonological resemblance to 发 (fā - prosperity/wealth), whereas 4 (四 sì) is often avoided because it sounds like 死 (sǐ - death)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「时间与日期表达 (Time, Numbers & Calendar)」在第1小节中的标准汉语语法规范？",
+                    "prompt": "汉语中数字‘78’的标准组合表达方式是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (3.1.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (3.1.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (3.1.3)。"
+                        "七十八 (qīshíbā: 7 × 10 + 8)",
+                        "七八十",
+                        "八十七"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "78 is formed by 7 (七) + 10 (十) + 8 (八) = 七十八 (qīshíbā)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「数字、时间与日期表达 (Numbers, Time & Date)」语用情境与完整句式的选项（练习 1）：",
+                    "prompt": "当表示‘2个人 (Two people)’的具体数量时，应该使用‘二’还是‘两’？",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (3.1.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (3.1.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (3.1.3)。"
+                        "二个",
+                        "两个人 (liǎng gè rén)",
+                        "俩个人 (冗余)"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "Before a classifier/measure word, 'two' is expressed with 两 (liǎng)."
                 }
             ]
         },
@@ -1515,85 +1521,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「时间与日期表达 (Time, Numbers & Calendar)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 3-1）？",
+                    "prompt": "下列哪个数字表达的是‘95’？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (3.1.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (3.1.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (3.1.3)。"
+                        "九十五 (95)",
+                        "五十九 (59)",
+                        "九百五 (950)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "九十五 (jiǔshíwǔ) is 95."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («今天_3_1»):",
+                    "prompt": "Type the Hanzi for the number 'eight' (八):",
                     "acceptedAnswers": [
-                        "今天_3_1"
+                        "八",
+                        "ba",
+                        "bā",
+                        "Bā",
+                        "Ba"
                     ],
-                    "explanation": "The target keyword was: 【今天_3_1】"
+                    "explanation": "八 (bā) means 'eight'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u3-l2": {
         "id": "zh-u3-l2",
-        "subject": "mandarin",
-        "unit": 3,
-        "lessonNumber": 2,
-        "title": "数字、时间与日期表达 (Numbers, Time & Date) (Part 2)",
+        "unit": "zh-u3",
         "level": "A1",
-        "objective": "Comprehensive mastery of 时间与日期表达 (Time, Numbers & Calendar).",
+        "objective": "Ask and state the exact time in Mandarin Chinese using 点 (diǎn / o'clock), 分 (fēn / minute), 半 (bàn / half past), 刻 (kè / quarter), and the question 现在几点？ (Xiànzài jǐ diǎn?).",
+        "prerequisites": [
+            "zh-u3-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u3-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「数字、时间与日期表达 (Numbers, Time & Date)」（第2部分）的核心句法结构与时间与日期表达 (Time, Numbers & Calendar)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "时间表达由钟点（点）和分钟（分）组合而成，遵循从大到小（小时 → 分钟）的顺序。\n\n1. 时间核心词汇 (Telling Time):\n- **点 (diǎn)**：小时 / 点钟（o'clock / hour）\n- **分 (fēn)**：分钟（minute）\n- **半 (bàn)**：半点（half past / 30 minutes）\n- **刻 (kè)**：一刻（quarter / 15 minutes）\n- **现在 (xiànzài)**：现在（now）\n- **几 (jǐ)**：疑问词，问小数量（几点 = what time）\n\n2. 问答句型 (Question & Answer Formulas):\n- **现在几点？** (Xiànzài jǐ diǎn? — What time is it now?)\n- **现在 + [小时] 点 + [分钟] 分**：\n  - 8:00 → **八点** (bā diǎn)\n  - 2:30 → **两点半** (liǎng diǎn bàn) *[注：2点用两点，不用二点]*\n  - 9:15 → **九点一刻** (jiǔ diǎn yí kè) 或 九点十五分\n  - 3:45 → **三点三刻** (sān diǎn sān kè) 或 差一刻四点。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (3.2.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "现在几点了？——现在是上午十点十分。",
+                    "reading": "Xiànzài jǐ diǎn le? —— Xiànzài shì shàngwǔ shí diǎn shí fēn.",
+                    "translation": "What time is it now? — It is 10:10 AM now."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (3.2.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "我们每天下午两点半开始上中文课。",
+                    "reading": "Wǒmen měitiān xiàwǔ liǎng diǎn bàn kāishǐ shàng zhōngwén kè.",
+                    "translation": "We start Chinese class at 2:30 PM every afternoon."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (3.2.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "飞机将在明天早晨七点一刻准时起飞。",
+                    "reading": "Fēijī jiāng zài míngtiān zǎochén qī diǎn yí kè zhǔnshí qǐfēi.",
+                    "translation": "The flight will depart on time at 7:15 AM tomorrow."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 时间与日期表达 (Time, Numbers & Calendar)"
+                "«点» = Hour mark! «分» = Minute! «半» = Half past (:30)! Remember: 2 o'clock is always «两点»!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Traditional Chinese timekeeping divided the day into 12 two-hour periods called 时辰 (shíchen), each named after an Earthly Branch (e.g. 子时 23:00-01:00, 午时 11:00-13:00)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「时间与日期表达 (Time, Numbers & Calendar)」在第2小节中的标准汉语语法规范？",
+                    "prompt": "用中文表达‘2:30 (2点半)’时，最地道正确的说法是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (3.2.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (3.2.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (3.2.3)。"
+                        "两点半 (liǎng diǎn bàn)",
+                        "二点三十",
+                        "两分三十点"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "两点半 (liǎng diǎn bàn) is the standard natural way to say 2:30."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「数字、时间与日期表达 (Numbers, Time & Date)」语用情境与完整句式的选项（练习 2）：",
+                    "prompt": "向他人礼貌询问‘现在几点？’的标准问句是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (3.2.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (3.2.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (3.2.3)。"
+                        "什么时间？",
+                        "现在几点？ (Xiànzài jǐ diǎn?)",
+                        "几分点现在？"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "«现在几点？» (Xiànzài jǐ diǎn?) is the standard time inquiry."
                 }
             ]
         },
@@ -1601,85 +1618,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「时间与日期表达 (Time, Numbers & Calendar)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 3-2）？",
+                    "prompt": "表达‘9:15’的规范汉语是：",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (3.2.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (3.2.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (3.2.3)。"
+                        "一刻九点",
+                        "九点一刻 (Jiǔ diǎn yí kè) / 九点十五分",
+                        "九刻一分"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "九点一刻 (Jiǔ diǎn yí kè) means 9:15."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («今天_3_2»):",
+                    "prompt": "Type the Hanzi for 'o'clock / point' (点):",
                     "acceptedAnswers": [
-                        "今天_3_2"
+                        "点",
+                        "dian",
+                        "diǎn",
+                        "Diǎn",
+                        "點"
                     ],
-                    "explanation": "The target keyword was: 【今天_3_2】"
+                    "explanation": "点 (diǎn) means 'o'clock / point'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u3-l3": {
         "id": "zh-u3-l3",
-        "subject": "mandarin",
-        "unit": 3,
-        "lessonNumber": 3,
-        "title": "数字、时间与日期表达 (Numbers, Time & Date) (Part 3)",
+        "unit": "zh-u3",
         "level": "A1",
-        "objective": "Comprehensive mastery of 时间与日期表达 (Time, Numbers & Calendar).",
+        "objective": "Master the 7 days of the week using the 星期 (xīngqī) / 周 (zhōu) system, relative temporal anchors (昨天, 今天, 明天, 前天, 后天), and day-of-the-week interrogative formulas.",
+        "prerequisites": [
+            "zh-u3-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u3-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「数字、时间与日期表达 (Numbers, Time & Date)」（第3部分）的核心句法结构与时间与日期表达 (Time, Numbers & Calendar)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "中文星期系统的规律非常清晰：**星期 + 数字 (1–6)**，星期天/星期日为特例。\n\n1. 星期一到星期日 (Days of the Week):\n- **星期一 (xīngqīyī)**：Monday\n- **星期二 (xīngqī'èr)**：Tuesday\n- **星期三 (xīngqīsān)**：Wednesday\n- **星期四 (xīngqīsì)**：Thursday\n- **星期五 (xīngqīwǔ)**：Friday\n- **星期六 (xīngqīliù)**：Saturday\n- **星期日 / 星期天 (xīngqīrì / xīngqītiān)**：Sunday *[口语多用‘星期天’，书面语用‘星期日’]*\n\n2. 相对时间副词 (Temporal Anchors):\n- **昨天 (zuótiān)**：Yesterday\n- **今天 (jīntiān)**：Today\n- **明天 (míngtiān)**：Tomorrow\n- **前天 (qiántiān)**：Day before yesterday\n- **后天 (hòutiān)**：Day after tomorrow\n\n3. 疑问句型 (Question Formula):\n- **今天星期几？** (Jīntiān xīngqī jǐ? — What day of the week is it today?)\n- 回答：今天星期五。(Jīntiān xīngqīwǔ. — Today is Friday.)",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (3.3.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "今天星期几？——今天星期三，明天是星期四。",
+                    "reading": "Jīntiān xīngqī jǐ? —— Jīntiān xīngqīsān, míngtiān shì xīngqīsì.",
+                    "translation": "What day is today? — Today is Wednesday, tomorrow is Thursday."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (3.3.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "星期六和星期天是周末，我们不上课。",
+                    "reading": "Xīngqīliù hé xīngqītiān shì zhōumò, wǒmen bú shàngkè.",
+                    "translation": "Saturday and Sunday are the weekend, we don't have classes."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (3.3.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "昨天是星期一，他在图书馆看了一整天书。",
+                    "reading": "Zuótiān shì xīngqīyī, tā zài túshūguǎn kàn le yì zhěng tiān shū.",
+                    "translation": "Yesterday was Monday, he read books in the library all day."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 时间与日期表达 (Time, Numbers & Calendar)"
+                "«星期» + 1 to 6 = Mon to Sat! Sunday is «星期天» or «星期日»! Never say *星期七!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "In Chinese, days of the week are numerical (1 to 6) unlike Western mythologically named days (Monday/Moon, Thursday/Thor). The word 星期 (xīngqī) literally means 'period of the stars'."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「时间与日期表达 (Time, Numbers & Calendar)」在第3小节中的标准汉语语法规范？",
+                    "prompt": "用中文询问对方‘今天星期几？’时，最标准正确的问句是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (3.3.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (3.3.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (3.3.3)。"
+                        "今天星期几？ (Jīntiān xīngqī jǐ?)",
+                        "今天星期什么？",
+                        "今天几星期？"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "«今天星期几？» uses the interrogative number word 几 to ask the day of the week."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「数字、时间与日期表达 (Numbers, Time & Date)」语用情境与完整句式的选项（练习 3）：",
+                    "prompt": "在中文里，‘星期天 (Sunday)’绝不能表达为：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (3.3.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (3.3.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (3.3.3)。"
+                        "星期日",
+                        "星期天",
+                        "星期七 (*Xīngqīqī - incorrect!)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 2,
+                    "explanation": "Sunday is never called *星期七; it is always 星期日 or 星期天."
                 }
             ]
         },
@@ -1687,85 +1715,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「时间与日期表达 (Time, Numbers & Calendar)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 3-3）？",
+                    "prompt": "如果今天是星期五，那么‘后天’是星期几？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (3.3.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (3.3.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (3.3.3)。"
+                        "星期六",
+                        "星期日 / 星期天 (Sunday)",
+                        "星期一"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "Two days after Friday (后天) is Sunday (星期天/星期日)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («今天_3_3»):",
+                    "prompt": "Type the Hanzi for 'Today' (今天):",
                     "acceptedAnswers": [
-                        "今天_3_3"
+                        "今天",
+                        "jintian",
+                        "jīntiān",
+                        "Jīntiān",
+                        "Jintian"
                     ],
-                    "explanation": "The target keyword was: 【今天_3_3】"
+                    "explanation": "今天 (Jīntiān) means 'today'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u3-l4": {
         "id": "zh-u3-l4",
-        "subject": "mandarin",
-        "unit": 3,
-        "lessonNumber": 4,
-        "title": "数字、时间与日期表达 (Numbers, Time & Date) (Part 4)",
+        "unit": "zh-u3",
         "level": "A1",
-        "objective": "Comprehensive mastery of 时间与日期表达 (Time, Numbers & Calendar).",
+        "objective": "Express calendar dates, 12 months (一月到十二月), years (二零二六年), and inquire about birthdays and specific dates using 几月几号 (jǐ yuè jǐ hào).",
+        "prerequisites": [
+            "zh-u3-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u3-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「数字、时间与日期表达 (Numbers, Time & Date)」（第4部分）的核心句法结构与时间与日期表达 (Time, Numbers & Calendar)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "中文日期表达严格遵循从宏观到微观的层级规律：**年 (nián) → 月 (yuè) → 日/号 (rì/hào)**。\n\n1. 月份 (Months 1–12):\n- 纯数字 + 月：**一月 (January)**、**二月 (February)**、**五月 (May)**、**十月 (October)**、**十二月 (December)**。\n\n2. 日子 (Days of Month):\n- 口语常用 **号 (hào)**（如：五号、二十号），书面公文常用 **日 (rì)**（如：5月1日）。\n\n3. 年份读法 (Reading Years):\n- 逐字读取每个阿拉伯数字：**2026年** 读作 **èr líng èr liù nián**。\n\n4. 生日与日期问答 (Birthday & Date Formulas):\n- **今天几月几号？** (Jīntiān jǐ yuè jǐ hào? — What's the date today?)\n- **你的生日是几月几号？** (Nǐ de shēngrì shì jǐ yuè jǐ hào? — When is your birthday?)\n- **我的生日是八月十八号。** (Wǒ de shēngrì shì bā yuè shíbā hào. — My birthday is August 18th.)",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (3.4.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "今天是2026年9月1日。",
+                    "reading": "Jīntiān shì èr líng èr liù nián jiǔ yuè yī rì.",
+                    "translation": "Today is September 1, 2026."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (3.4.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "你的生日是几月几号？——我的生日是十月五号。",
+                    "reading": "Nǐ de shēngrì shì jǐ yuè jǐ hào? —— Wǒ de shēngrì shì shí yuè wǔ hào.",
+                    "translation": "When is your birthday? — My birthday is October 5th."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (3.4.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "十月一日是中国的国庆节。",
+                    "reading": "Shí yuè yī rì shì Zhōngguó de Guóqìngjié.",
+                    "translation": "October 1st is China's National Day."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 时间与日期表达 (Time, Numbers & Calendar)"
+                "Date Order: Year (年) → Month (月) → Day (号/日)! Big to Small hierarchy!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "The traditional Chinese calendar (农历 nónglì / 阴历 yīnlì) is lunisolar, determining major cultural holidays such as Spring Festival (春节) and Mid-Autumn Festival (中秋节)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「时间与日期表达 (Time, Numbers & Calendar)」在第4小节中的标准汉语语法规范？",
+                    "prompt": "用中文表达‘2026年’时，年份数字应当如何朗读？",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (3.4.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (3.4.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (3.4.3)。"
+                        "逐字按单字朗读：二零二六年 (èr líng èr liù nián)",
+                        "读作两千零二十六年",
+                        "读作二十二十六"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "Years in Mandarin are read digit-by-digit: 2-0-2-6 = èr líng èr liù nián."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「数字、时间与日期表达 (Numbers, Time & Date)」语用情境与完整句式的选项（练习 4）：",
+                    "prompt": "询问对方‘你的生日是几月几号？’时，使用的疑问代词是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (3.4.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (3.4.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (3.4.3)。"
+                        "什么月什么号",
+                        "几月几号 (jǐ yuè jǐ hào)",
+                        "谁月谁日"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "«几月几号» uses 几 for numbers in calendar months and days."
                 }
             ]
         },
@@ -1773,85 +1812,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「时间与日期表达 (Time, Numbers & Calendar)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 3-4）？",
+                    "prompt": "表达‘5月18日’的标准汉语词序是：",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (3.4.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (3.4.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (3.4.3)。"
+                        "五月十八日 (Wǔ yuè shíbā rì)",
+                        "18日5月",
+                        "五日十八月"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "Standard Month -> Day order: 五月十八日."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («今天_3_4»):",
+                    "prompt": "Type the Hanzi for 'month / moon' (月):",
                     "acceptedAnswers": [
-                        "今天_3_4"
+                        "月",
+                        "yue",
+                        "yuè",
+                        "Yuè",
+                        "Yue"
                     ],
-                    "explanation": "The target keyword was: 【今天_3_4】"
+                    "explanation": "月 (yuè) means 'month / moon'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u3-l5": {
         "id": "zh-u3-l5",
-        "subject": "mandarin",
-        "unit": 3,
-        "lessonNumber": 5,
-        "title": "数字、时间与日期表达 (Numbers, Time & Date) (Part 5)",
+        "unit": "zh-u3",
         "level": "A1",
-        "objective": "Comprehensive mastery of 时间与日期表达 (Time, Numbers & Calendar).",
+        "objective": "Master the complete hierarchical time-expression formula in Mandarin (Year -> Month -> Day -> Part of Day -> Hour -> Minute), applying it to schedule meetings and synthesize all Unit 3 temporal mastery into an integrated A1 dialogue.",
+        "prerequisites": [
+            "zh-u3-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u3-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「数字、时间与日期表达 (Numbers, Time & Date)」（第5部分）的核心句法结构与时间与日期表达 (Time, Numbers & Calendar)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "中文表达时间的最根本思维特征是**从大到小、由宏观至微观**的层级递进秩序。\n\n1. 完整时间表达层级公式 (The Master Time Hierarchy Formula):\n- **年 (Year) → 月 (Month) → 日/号 (Day) → 星期 (Day of Week) → 阶段 (Part of Day) → 点 (Hour) → 分 (Minute)**\n- 阶段词汇：\n  - **上午 (shàngwǔ - morning 8am–12pm)**\n  - **中午 (zhōngwǔ - noon 12pm–1pm)**\n  - **下午 (xiàwǔ - afternoon 1pm–6pm)**\n  - **晚上 (wǎnshang - evening/night 6pm–12am)**\n- 完整范例：**2026年10月15日 星期四 下午三点半** (Thursday, October 15, 2026 at 3:30 PM)\n\n2. 第三单元综合交际实战 (Unit 3 Comprehensive Scheduling):\n- 约定会议与日常活动：询问时间（我们什么时候见面？）→ 提出具体日期与钟点（明天下午两点半可以吗？）→ 确认约定（太好了，明天见！）。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (3.5.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "我们明天上午九点半在大学图书馆门口见面。",
+                    "reading": "Wǒmen míngtiān shàngwǔ jiǔ diǎn bàn zài dàxué túshūguǎn ménkǒu jiànmiàn.",
+                    "translation": "We will meet at the university library entrance tomorrow morning at 9:30 AM."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (3.5.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "张老师今天下午三点有一节中文课。",
+                    "reading": "Zhāng lǎoshī jīntiān xiàwǔ sān diǎn yǒu yì jié zhōngwén kè.",
+                    "translation": "Teacher Zhang has a Chinese class at 3:00 PM this afternoon."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (3.5.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "A: 你们星期六晚上有空吗？ B: 有空，我们星期六晚上七点一起吃晚饭吧！",
+                    "reading": "A: Nǐmen xīngqīliù wǎnshang yǒu kòng ma? B: Yǒu kòng, wǒmen xīngqīliù wǎnshang qī diǎn yìqǐ chī wǎnfàn ba!",
+                    "translation": "A: Are you free Saturday evening? B: Yes, let's have dinner together Saturday evening at 7:00 PM!"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 时间与日期表达 (Time, Numbers & Calendar)"
+                "Big to Small Cascade: Year → Month → Day → Time of Day → Hour → Minute!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "This big-to-small hierarchical syntax also applies to Chinese postal addresses (Country -> Province -> City -> District -> Street -> Number -> Name) and personal names (Family Surname -> Given Name)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「时间与日期表达 (Time, Numbers & Calendar)」在第5小节中的标准汉语语法规范？",
+                    "prompt": "用中文表达‘明天下午三点’时，正确的词序应当是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (3.5.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (3.5.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (3.5.3)。"
+                        "明天 + 下午 + 三点 (Míngtiān xiàwǔ sān diǎn: Big to Small)",
+                        "三点下午明天",
+                        "下午三点明天"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "Mandarin organizes time strictly from largest to smallest unit: Tomorrow -> Afternoon -> 3:00."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「数字、时间与日期表达 (Numbers, Time & Date)」语用情境与完整句式的选项（练习 5）：",
+                    "prompt": "在日程安排对话中，‘明天上午十点半见！’表达的意思是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (3.5.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (3.5.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (3.5.3)。"
+                        "See you tomorrow afternoon at 10:30",
+                        "See you tomorrow morning at 10:30 (明天 + 上午 + 10:30)",
+                        "See you yesterday"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "上午 (morning) + 十点半 (10:30) = 10:30 AM."
                 }
             ]
         },
@@ -1859,24 +1909,29 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「时间与日期表达 (Time, Numbers & Calendar)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 3-5）？",
+                    "prompt": "下列哪个时间表达完全符合中文‘从大到小’的标准语序规范？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (3.5.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (3.5.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (3.5.3)。"
+                        "下午两点星期五",
+                        "两点下午星期五",
+                        "星期五 下午两点 (Xīngqīwǔ xiàwǔ liǎng diǎn — Friday afternoon 2:00)"
                     ],
                     "answerIndex": 2,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "explanation": "星期五 (Friday) + 下午两点 (2:00 PM) observes correct Big-to-Small order."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («今天_3_5»):",
+                    "prompt": "Type the Hanzi for 'year' (年):",
                     "acceptedAnswers": [
-                        "今天_3_5"
+                        "年",
+                        "nian",
+                        "nián",
+                        "Nián",
+                        "Nian"
                     ],
-                    "explanation": "The target keyword was: 【今天_3_5】"
+                    "explanation": "年 (nián) means 'year'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u4-l1": {
