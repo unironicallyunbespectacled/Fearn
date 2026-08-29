@@ -3411,63 +3411,69 @@
     },
     "hk-u7-l1": {
         "id": "hk-u7-l1",
-        "subject": "cantonese",
-        "unit": 7,
-        "lessonNumber": 1,
-        "title": "經歷體態：過 (Experiential Aspect 過) (Part 1)",
+        "unit": "hk-u7",
         "level": "A2",
-        "objective": "Comprehensive mastery of 經歷態過嘅用法 (Experiential Aspect 過).",
+        "objective": "Master the experiential aspect particle 過 (gwo3) in affirmative sentences combined with frequency quantifying expressions (一次, 兩次, 好多次).",
+        "prerequisites": [
+            "hk-u6-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u6-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（經歷態過嘅用法 (Experiential Aspect 過) - 第1部分）入面，我哋會探討廣東話嘅核心語用語境同埋經歷態過嘅用法 (Experiential Aspect 過)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "喺廣東話中，當我哋想表達人生中「曾經做過某件事」或者「累積過某種經歷」，動詞後必須加上動態助詞**「過 (gwo3)」**！\n\n1. 經歷態肯定結構 (Experiential Syntax: S + V + 過 + [次數] + O):\n- **去過 (heoi3 gwo3)**：Have been to (例如：我去過日本三次)。\n- **食過 (sik6 gwo3)**：Have eaten / tasted (例如：我食過呢種特色點心好多次)。\n- **睇過 (tai2 gwo3)**：Have seen/watched/read (例如：我睇過嗰套經典香港電影)。\n- **試過 (si3 gwo3)**：Have tried / had the experience of。\n\n2. 次數量詞嘅位置 (Frequency Placement):\n- 廣東話中次數表達（如「一次」、「兩次」、「幾次」）通常直接放在動詞「V + 過」之後或賓語後，例如：「我去過兩次澳門」(I have been to Macau twice) 或「我見過佢三次」(I have seen him three times)。",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (7.1.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "我以前去過兩次日本東京旅行，對當地嘅美食印象好深刻。",
+                    "reading": "ngo5 ji5 cin4 heoi3 gwo3 loeng5 ci3 jat6 bun2 dung1 ging1 leoi5 hang4, deoi3 dong1 dei6 ge3 mei5 sik6 jan3 zoeng3 hou2 sam1 hak1.",
+                    "translation": "I went to Tokyo, Japan for travel twice before, and had a very deep impression of the local food."
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (7.1.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "呢間老牌茶餐廳嘅菠蘿油我食過好多次，每次都咁好味！",
+                    "reading": "ni1 gaan1 lou5 paai4 caa4 caan1 teng1 ge3 bo1 lo4 jau4 ngo5 sik6 gwo3 hou2 do1 ci3, mui5 ci3 dou1 gam3 hou2 mei6!",
+                    "translation": "I have eaten the pineapple butter bun at this heritage tea restaurant many times; it's so delicious every time!"
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (7.1.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "你有冇睇過黃子華嘅棟篤笑表演呀？我睇過幾次，笑到肚痛！",
+                    "reading": "nei5 jau5 mou5 tai2 gwo3 wong4 zi2 waa4 ge3 dung3 duk1 siu3 biu2 jin2 aa3? ngo5 tai2 gwo3 gei2 ci3, siu3 dou3 tou5 tung3!",
+                    "translation": "Have you ever watched Dayo Wong's stand-up comedy performance? I've seen it several times, laughed until my stomach hurt!"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 經歷態過嘅用法 (Experiential Aspect 過)"
+                "Experience Formula: 動詞 (Verb) + 過 (gwo3) + 次數 (Frequency) + 名詞 (Object)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "«棟篤笑» (dung3 duk1 siu3) is Cantonese for stand-up comedy, a beloved genre popularized in Hong Kong by comedic maestro Dayo Wong («黃子華»)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「經歷態過嘅用法 (Experiential Aspect 過)」喺第1節嘅地道廣東話表達？",
+                    "prompt": "喺廣東話中表達「我去過日本兩次」，最地道標準嘅經歷態句式係：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (7.1.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (7.1.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (7.1.3)。"
+                        "我去日本兩次了",
+                        "我去過兩次日本 (ngo5 heoi3 gwo3 loeng5 ci3 jat6 bun2 - I have been to Japan twice)",
+                        "我去了日本兩遍"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "我去過兩次日本 uses the experiential aspect particle 過 (gwo3) with the frequency phrase 兩次."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「經歷體態：過 (Experiential Aspect 過)」語境嘅廣東話完整句子（練習 1）：",
+                    "prompt": "廣東話表達「有過嘗試某事的經歷」，最常用的核心動詞搭配是：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (7.1.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (7.1.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (7.1.3)。"
+                        "試過 (si3 gwo3 - Have tried / experienced before)",
+                        "試緊",
+                        "試完"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "試過 (si3 gwo3) means 'have tried / experienced before'."
                 }
             ]
         },
@@ -3475,85 +3481,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「經歷態過嘅用法 (Experiential Aspect 過)」嘅日常商務與生活習慣（考核 7-1）？",
+                    "prompt": "關於廣東話經歷體助詞「過 (gwo3)」在肯定句中的語法特徵與次數量詞位置，下列哪一項表述完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (7.1.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (7.1.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (7.1.3)。"
+                        "「過」只能用來表達走過馬路",
+                        "「過 (gwo3)」後綴於動詞表示過去經歷（如去過、食過、試過），並常接次數量詞（一次/兩次/好多次） (gwo3 follows verbs to express past life experiences, frequently paired with frequency counters like loeng5 ci3)",
+                        "經歷體不能接任何賓語"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "Accurately articulates the experiential syntax and frequency pairing."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («去過_7_1»):",
+                    "prompt": "Type the 4-character Hanzi phrase for 'have been three times' in Cantonese (去過三次):",
                     "acceptedAnswers": [
-                        "去過_7_1"
+                        "去過三次",
+                        "heoi3gwo3saam1ci3",
+                        "heoi3 gwo3 saam1 ci3",
+                        "Heoi3 gwo3 saam1 ci3",
+                        "Heoi3gwo3saam1ci3",
+                        "去过三次"
                     ],
-                    "explanation": "The target keyword was: 【去過_7_1】"
+                    "explanation": "去過三次 (heoi3 gwo3 saam1 ci3) means 'have been three times' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u7-l2": {
         "id": "hk-u7-l2",
-        "subject": "cantonese",
-        "unit": 7,
-        "lessonNumber": 2,
-        "title": "經歷體態：過 (Experiential Aspect 過) (Part 2)",
+        "unit": "hk-u7",
         "level": "A2",
-        "objective": "Comprehensive mastery of 經歷態過嘅用法 (Experiential Aspect 過).",
+        "objective": "Master negative experiential constructions using 未...過 (mei6 ... gwo3) and emphatic negator 從來未 (cung4 loi4 mei6).",
+        "prerequisites": [
+            "hk-u7-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u7-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（經歷態過嘅用法 (Experiential Aspect 過) - 第2部分）入面，我哋會探討廣東話嘅核心語用語境同埋經歷態過嘅用法 (Experiential Aspect 過)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "如果想表達「從未有過某種經歷」或「從未做過某件事」，廣東話會使用**「未 + 動詞 + 過」**結構！\n\n1. 否定經歷態句型 (Negative Experiential Syntax: S + [從來] + 未 + V + 過 + O):\n- **未試過 (mei6 si3 gwo3)**：Have never tried / never had the experience。\n- **未去過 (mei6 heoi3 gwo3)**：Have never been to。\n- **未食過 (mei6 sik6 gwo3)**：Have never tasted/eaten。\n- **未聽過 (mei6 teng1 gwo3)**：Have never heard of。\n- **未見過 (mei6 gin3 gwo3)**：Have never seen。\n\n2. 加強語氣「從來未 (cung4 loi4 mei6)」(Emphatic 'Never Ever'):\n- 「我**從來未去過**長洲睇太平清醮。」(I have never ever been to Cheung Chau to watch the Da Jiu Festival.)\n- 「呢種古怪嘅口味，我**從來未食過**！」(This weird flavor, I have never ever tasted!)",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (7.2.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "我從來未去過大澳水鄉，聽講嗰度嘅棚屋好有特色。",
+                    "reading": "ngo5 cung4 loi4 mei6 heoi3 gwo3 daai6 ou3 seoi2 hoeng1, teng1 gong2 go2 dou6 ge3 paang4 uk1 hou2 jau5 dak6 sik1.",
+                    "translation": "I have never been to Tai O fishing village; I heard the stilt houses there are very distinctive."
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (7.2.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "呢款新出嘅榴槤雪糕你試過未呀？我未試過，有啲驚嗰種味道。",
+                    "reading": "ni1 fun2 san1 ceot1 ge3 lau4 lin4 syut3 gou1 nei5 si3 gwo3 mei6 aa3? ngo5 mei6 si3 gwo3, jau5 di1 geng1 go2 zung2 mei6 dou6.",
+                    "translation": "Have you tried this newly released durian ice cream? I've never tried it, I'm a bit afraid of that smell."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (7.2.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "咁大個場面，我真係從來未見過！",
+                    "reading": "gam3 daai6 go3 coeng4 min6, ngo5 zan1 hai6 cung4 loi4 mei6 gin3 gwo3!",
+                    "translation": "Such a grand scene, I really have never seen it before!"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 經歷態過嘅用法 (Experiential Aspect 過)"
+                "Never Done Formula: 從來未 (Never ever) + Verb + 過 (gwo3) = Zero experience (未試過, 未去過)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "«大澳» (Tai O) on Lantau Island is known as the Venice of Hong Kong, renowned for traditional stilt houses («棚屋») built over tidal waterways."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「經歷態過嘅用法 (Experiential Aspect 過)」喺第2節嘅地道廣東話表達？",
+                    "prompt": "廣東話中表達「從未嘗試過 / 沒試過」，最標準常用的句型短語是：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (7.2.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (7.2.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (7.2.3)。"
+                        "唔試過",
+                        "未試過 (mei6 si3 gwo3 - Have never tried / never experienced)",
+                        "冇試過"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "未試過 (mei6 si3 gwo3) is the standard Cantonese negative experiential expression."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「經歷體態：過 (Experiential Aspect 過)」語境嘅廣東話完整句子（練習 2）：",
+                    "prompt": "如果要加強否定語氣表達「我從來沒有去過那個地方」，最地道的廣東話句子是：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (7.2.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (7.2.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (7.2.3)。"
+                        "我從來未去過嗰度 (ngo5 cung4 loi4 mei6 heoi3 gwo3 go2 dou6 - I have never ever been there)",
+                        "我不去嗰度",
+                        "我冇去嗰度了"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "從來未去過 (cung4 loi4 mei6 heoi3 gwo3) emphatically means 'have never ever been to'."
                 }
             ]
         },
@@ -3561,85 +3579,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「經歷態過嘅用法 (Experiential Aspect 過)」嘅日常商務與生活習慣（考核 7-2）？",
+                    "prompt": "關於廣東話中否定經歷態「未+V+過」及強調詞「從來未」的語法結構，下列哪一項表述完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (7.2.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (7.2.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (7.2.3)。"
+                        "「未 (mei6)」放在動詞前、「過 (gwo3)」放在動詞後構成「未+V+過」（如未去過、未試過），結合「從來未」可強調從無此類經歷 (mei6+V+gwo3 expresses 'have never done', enhanced by cung4 loi4 mei6)",
+                        "「未+V+過」用來表示正在發生的事情",
+                        "廣東話不能否定過去的經歷"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "explanation": "Accurately frames the discontinuous negative experiential pattern."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («去過_7_2»):",
+                    "prompt": "Type the 3-character Hanzi phrase for 'have never tried / never experienced' in Cantonese (未試過):",
                     "acceptedAnswers": [
-                        "去過_7_2"
+                        "未試過",
+                        "mei6si3gwo3",
+                        "mei6 si3 gwo3",
+                        "Mei6 si3 gwo3",
+                        "Mei6si3gwo3",
+                        "未试过"
                     ],
-                    "explanation": "The target keyword was: 【去過_7_2】"
+                    "explanation": "未試過 (mei6 si3 gwo3) means 'have never tried' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u7-l3": {
         "id": "hk-u7-l3",
-        "subject": "cantonese",
-        "unit": 7,
-        "lessonNumber": 3,
-        "title": "經歷體態：過 (Experiential Aspect 過) (Part 3)",
+        "unit": "hk-u7",
         "level": "A2",
-        "objective": "Comprehensive mastery of 經歷態過嘅用法 (Experiential Aspect 過).",
+        "objective": "Master the A-not-A experiential question pattern 有冇 + V + 過 (jau5 mou5 ... gwo3 - have you ever...?) and natural conversational replies.",
+        "prerequisites": [
+            "hk-u7-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u7-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（經歷態過嘅用法 (Experiential Aspect 過) - 第3部分）入面，我哋會探討廣東話嘅核心語用語境同埋經歷態過嘅用法 (Experiential Aspect 過)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "詢問他人「有冇過某種經歷」，廣東話最常用嘅 A-not-A 句式係**「有冇 + 動詞 + 過」**！\n\n1. 經歷態問句結構 (Experiential Question: 你 + 有冇 + V + 過 + O + 呀?):\n- **你「有冇去過」海洋公園呀？** (Have you ever been to Ocean Park?)\n- **你「有冇食過」正宗蛋撻呀？** (Have you ever eaten authentic egg tarts?)\n- **你「有冇聽過」呢首廣東歌呀？** (Have you ever heard this Cantonese song?)\n- **你「有冇試過」行山行到腳軟呀？** (Have you ever tried hiking until your legs went soft?)\n\n2. 肯定與否定回答技巧 (Answering Strategies):\n- **肯定經歷**：‘有呀！我去過好多次。’ (Yes! I've been many times.) 或 ‘去過！’\n- **否定經歷**：‘未呀，從來未去過。’ (Not yet, never been.) 或 ‘未試過喎。’",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (7.3.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "你有冇去過昂坪360搭水晶纜車睇大佛呀？",
+                    "reading": "nei5 jau5 mou5 heoi3 gwo3 ngong4 ping4 saam1 luk6 ling4 daap3 seoi2 zing1 laam5 ce1 tai2 daai6 fat6 aa3?",
+                    "translation": "Have you ever been to Ngong Ping 360 to take the crystal cable car to see the Big Buddha?"
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (7.3.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "你有冇食過深水埗嗰間米芝蓮推介嘅豆腐花呀？",
+                    "reading": "nei5 jau5 mou5 sik6 gwo3 sam1 seoi2 bou2 go2 gaan1 mai5 zi1 lin1 teoi1 gaai3 ge3 dau6 fu6 faa1 aa3?",
+                    "translation": "Have you ever eaten the Michelin-recommended tofu pudding in Sham Shui Po?"
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (7.3.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "有呀，我上個月先同屋企人去過一次，真係好滑好香！",
+                    "reading": "jau5 aa3, ngo5 soeng6 go3 jyut6 sin1 tung4 uk1 kei2 jan4 heoi3 gwo3 jat1 ci3, zan1 hai6 hou2 waat6 hou2 hoeng1!",
+                    "translation": "Yes, I just went once with my family last month, it was really smooth and fragrant!"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 經歷態過嘅用法 (Experiential Aspect 過)"
+                "Experience Inquiry: 有冇(Have or not) + 動詞(Verb) + 過(gwo3)? -> 有呀(Yes) / 未呀(Not yet)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "«昂坪360» (Ngong Ping 360) and the Tian Tan Buddha on Lantau Island are iconic Hong Kong landmarks; asking «你有冇去過大佛？» is a common travel topic."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「經歷態過嘅用法 (Experiential Aspect 過)」喺第3節嘅地道廣東話表達？",
+                    "prompt": "用廣東話詢問朋友「你有沒有去過香港海洋公園？」，最標準的句式是：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (7.3.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (7.3.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (7.3.3)。"
+                        "你去過海洋公園嗎？",
+                        "你有冇去過海洋公園呀？ (nei5 jau5 mou5 heoi3 gwo3 hoi2 joeng4 gung1 jyun2 aa3? - Have you ever been to Ocean Park?)",
+                        "你係咪去海洋公園？"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "你有冇去過……呀？ is the quintessential Cantonese A-not-A question for past experience."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「經歷體態：過 (Experiential Aspect 過)」語境嘅廣東話完整句子（練習 3）：",
+                    "prompt": "面對問題「你有冇食過煲仔飯呀？」，如果從未吃過，最地道的回答是：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (7.3.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (7.3.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (7.3.3)。"
+                        "未呀，從來未食過 (mei6 aa3, cung4 loi4 mei6 sik6 gwo3 - Not yet, never eaten before)",
+                        "我不吃",
+                        "冇吃過了"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "未呀，從來未食過 is the polite and idiomatic negative response."
                 }
             ]
         },
@@ -3647,85 +3677,98 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「經歷態過嘅用法 (Experiential Aspect 過)」嘅日常商務與生活習慣（考核 7-3）？",
+                    "prompt": "關於廣東話中「有冇+V+過」的疑問句型及其肯定/否定答語，下列哪一項表述完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (7.3.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (7.3.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (7.3.3)。"
+                        "「有冇+V+過」只能用來問今天發生的事",
+                        "回答有冇問句必須說英文",
+                        "「有冇+V+過（如你有冇去過）」是詢問過往生命經歷的標準句型；肯定答「有/去過」，否定答「未/未去過」 (jau5 mou5+V+gwo3 is standard for querying life experiences; answered with jau5/V+gwo3 or mei6/mei6+V+gwo3)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "Accurately summarizes the interrogative structure and dual response system."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («去過_7_3»):",
+                    "prompt": "Type the 4-character Hanzi phrase for 'have you ever been to / have or have not been' in Cantonese (有冇去過):",
                     "acceptedAnswers": [
-                        "去過_7_3"
+                        "有冇去過",
+                        "jau5mou5heoi3gwo3",
+                        "jau5 mou5 heoi3 gwo3",
+                        "Jau5 mou5 heoi3 gwo3",
+                        "Jau5mou5heoi3gwo3",
+                        "有没有去过",
+                        "有冇去过"
                     ],
-                    "explanation": "The target keyword was: 【去過_7_3】"
+                    "explanation": "有冇去過 (jau5 mou5 heoi3 gwo3) means 'have or have not been to' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u7-l4": {
         "id": "hk-u7-l4",
-        "subject": "cantonese",
-        "unit": 7,
-        "lessonNumber": 4,
-        "title": "經歷體態：過 (Experiential Aspect 過) (Part 4)",
+        "unit": "hk-u7",
         "level": "A2",
-        "objective": "Comprehensive mastery of 經歷態過嘅用法 (Experiential Aspect 過).",
+        "objective": "Master the multifunctional particle 過 (gwo3) in comparative structures (A + Adj + 過 + B — 'A is more [Adj] than B') and iterative/sequential contexts.",
+        "prerequisites": [
+            "hk-u7-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u7-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（經歷態過嘅用法 (Experiential Aspect 過) - 第4部分）入面，我哋會探討廣東話嘅核心語用語境同埋經歷態過嘅用法 (Experiential Aspect 過)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "喺廣東話中，**「過 (gwo3)」**除咗做經歷助詞之外，仲係**比較句（Comparative Sentences）**嘅靈魂核心！\n\n1. 比較句結構 (Comparative Syntax: A + 形容詞 + 過 + B):\n- 普通話用「A 比 B 好」；而廣東話嘅語序係**「A + 形容詞 + 過 + B」**！\n- **好過 (hou2 gwo3)**：Better than (例如：呢部手機好過嗰部)。\n- **貴過 (gwai3 gwo3)**：More expensive than (例如：中環嘅租金貴過新界)。\n- **快過 (faai3 gwo3)**：Faster than (例如：搭地鐵快過搭巴士)。\n- **多過 (do1 gwo3)**：More than (例如：今日嘅人流多過琴日)。\n\n2. 重複/重新做某事「再/重新……過」 (Iterative Re-doing: V + 過):\n- **做過 (zou6 gwo3)**：Do it over again (例如：份文件寫得唔好，要做過)。\n- **飲過 (jam2 gwo3)**：Drink again / drink another round。",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (7.4.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "喺香港返工，搭港鐵通常快過搭巴士好多。",
+                    "reading": "hai2 hoeng1 gong1 faan1 gung1, daap3 gong2 tit3 tung1 soeng4 faai3 gwo3 daap3 baa1 si2 hou2 do1.",
+                    "translation": "Working in Hong Kong, taking the MTR is usually much faster than taking the bus."
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (7.4.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "呢間餐廳嘅乾炒牛河好食過隔籬嗰間好多！",
+                    "reading": "ni1 gaan1 caan1 teng1 ge3 gon1 caau2 ngau4 ho4 hou2 sik6 gwo3 gaak3 lei4 go2 gaan1 hou2 do1!",
+                    "translation": "The beef chow fun at this restaurant is much more delicious than the one next door!"
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (7.4.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "份報告有幾處數據錯咗，請你重新做過一次啦。",
+                    "reading": "fan6 bou3 gou3 jau5 gei2 cyu3 sou3 geoi3 co3 zo2, cing2 nei5 cung4 san1 zou6 gwo3 jat1 ci3 laa1.",
+                    "translation": "There are several data errors in the report, please re-do it once again from scratch."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 經歷態過嘅用法 (Experiential Aspect 過)"
+                "Comparative Formula: A + Adj + 過 (gwo3) + B (快過, 貴過, 好過)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "The comparative construction «A + Adj + 過 + B» directly preserves classical Chinese syntax (古漢語「苛政猛於虎」之語序), reflecting Cantonese's deep historical roots."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「經歷態過嘅用法 (Experiential Aspect 過)」喺第4節嘅地道廣東話表達？",
+                    "prompt": "喺廣東話中表達「搭地鐵比搭巴士快」，正確的地道句式語序是：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (7.4.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (7.4.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (7.4.3)。"
+                        "搭地鐵比搭巴士快",
+                        "搭地鐵快過搭巴士 (daap3 dei6 tit3 faai3 gwo3 daap3 baa1 si2)",
+                        "搭地鐵搭巴士快"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "搭地鐵快過搭巴士 follows the authentic Cantonese comparative structure A + Adj + 過 + B."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「經歷體態：過 (Experiential Aspect 過)」語境嘅廣東話完整句子（練習 4）：",
+                    "prompt": "廣東話詞彙「好過 (hou2 gwo3)」在比較句中的含義是：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (7.4.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (7.4.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (7.4.3)。"
+                        "好於 / 比……更好 (Better than)",
+                        "不如 / 差過",
+                        "一樣好"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "好過 (hou2 gwo3) means 'better than' in comparative sentences."
                 }
             ]
         },
@@ -3733,85 +3776,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「經歷態過嘅用法 (Experiential Aspect 過)」嘅日常商務與生活習慣（考核 7-4）？",
+                    "prompt": "關於廣東話中「過 (gwo3)」在比較句結構（A + Adj + 過 + B）及重新操作（V + 過）中的語法语義，下列哪一項表述完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (7.4.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (7.4.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (7.4.3)。"
+                        "廣東話比較句必須用「比」字",
+                        "「過」在比較句中置於形容詞後（如快過、好過、貴過），表示「比……更」；在動詞後亦可表示重做（如做過、寫過） (In comparatives, Adj+gwo3 means 'more Adj than'; after verbs it can also denote re-doing an action)",
+                        "「好過」在廣東話中表示很難受"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "Accurately articulates the classical comparative syntax of Cantonese."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («去過_7_4»):",
+                    "prompt": "Type the 2-character Hanzi phrase for 'better than' in Cantonese comparatives (好過):",
                     "acceptedAnswers": [
-                        "去過_7_4"
+                        "好過",
+                        "hou2gwo3",
+                        "hou2 gwo3",
+                        "Hou2 gwo3",
+                        "Hou2gwo3",
+                        "好过"
                     ],
-                    "explanation": "The target keyword was: 【去過_7_4】"
+                    "explanation": "好過 (hou2 gwo3) means 'better than' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u7-l5": {
         "id": "hk-u7-l5",
-        "subject": "cantonese",
-        "unit": 7,
-        "lessonNumber": 5,
-        "title": "經歷體態：過 (Experiential Aspect 過) (Part 5)",
+        "unit": "hk-u7",
         "level": "A2",
-        "objective": "Comprehensive mastery of 經歷態過嘅用法 (Experiential Aspect 過).",
+        "objective": "Synthesize experiential aspect 過 (gwo3), negative 未...過, interrogative 有冇...過, and comparatives (靚過/好過) in a lively Hong Kong sightseeing exchange.",
+        "prerequisites": [
+            "hk-u7-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u7-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（經歷態過嘅用法 (Experiential Aspect 過) - 第5部分）入面，我哋會探討廣東話嘅核心語用語境同埋經歷態過嘅用法 (Experiential Aspect 過)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "喺呢課綜合實戰篇，我哋將第七單元學到嘅經歷態「去過/試過」、否定「未去過」、問句「有冇去過」同比較句「好過/靚過」融會貫通，進行一段關於香港旅遊景點嘅精彩對話！\n\n1. 香港經典名勝與經歷詞彙 (Hong Kong Landmarks & Experiential Lexicon):\n- **太平山頂 (taai3 ping4 saan1 deng2)**：The Peak（俯瞰維港夜景聖地）。\n- **維港夜景 (wai4 gong2 je6 ging2)**：Victoria Harbour night view。\n- **昂坪大佛 (ngong4 ping4 daai6 fat6)**：Ngong Ping Big Buddha。\n- **靚過 (leng3 gwo3)**：Prettier than / more beautiful than。\n- **好玩過 (hou2 waan2 gwo3)**：More fun than。\n\n2. 第七單元實戰對話範例 (Unit 7 Master Dialogue):\n- **遊客Amy**：‘David，你有冇去過太平山頂睇夜景呀？’\n- **港人David**：‘有呀，我去過好多次！山頂睇落嚟嘅夜景真係靚過世界上好多大城市㗎。’\n- **遊客Amy**：‘咁你有冇試過搭山頂纜車上山呀？’\n- **港人David**：‘試過！新一代纜車好坐過以前好多，視野開揚好多！’\n- **遊客Amy**：‘我從來未搭過，今晚等我同朋友一齊去試下先！’",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (7.5.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "我琴晚同朋友上咗太平山頂，維多利亞港嘅夜景真係好震撼！",
+                    "reading": "ngo5 kam4 maan5 tung4 pang4 jau5 soeng5 zo2 taai3 ping4 saan1 deng2, wai4 do1 lei6 aa3 gong2 ge3 je6 ging2 zan1 hai6 hou2 zan3 ham6!",
+                    "translation": "I went up to the Peak with friends last night; Victoria Harbour's night view was truly breathtaking!"
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (7.5.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "呢度嘅風景靚過相片入面好多，真係百聞不如一見。",
+                    "reading": "ni1 dou6 ge3 fung1 ging2 leng3 gwo3 soeng2 pin2 jap6 min6 hou2 do1, zan1 hai6 baak3 man4 bat1 jyu4 jat1 gin3.",
+                    "translation": "The scenery here is much prettier than in the photos; seeing is truly believing."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (7.5.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "你有冇去過長洲食大魚蛋同芒果糯米糍呀？好食過市區好多㗎！",
+                    "reading": "nei5 jau5 mou5 heoi3 gwo3 coeng4 zau1 sik6 daai6 jyu4 daan2 tung4 mong1 gwo2 no6 mai5 ci4 aa3? hou2 sik6 gwo3 si5 keoi1 hou2 do1 gaa3!",
+                    "translation": "Have you ever been to Cheung Chau to eat giant fishballs and mango mochi? They are much tastier than in the urban areas!"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 經歷態過嘅用法 (Experiential Aspect 過)"
+                "Sightseeing Flow: 太平山頂(The Peak) -> 有冇去過(Have you been) -> 靚過晒(Prettier than all) -> 一定要去(Must visit)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "«太平山頂» (Victoria Peak) offers the world-famous panorama of Hong Kong's skyline and Victoria Harbour, universally celebrated as one of the world's most spectacular nighttime vistas."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「經歷態過嘅用法 (Experiential Aspect 過)」喺第5節嘅地道廣東話表達？",
+                    "prompt": "香港最著名的俯瞰維多利亞港全景與夜景的地標景點「太平山頂」，廣東話稱之為：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (7.5.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (7.5.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (7.5.3)。"
+                        "獅子山",
+                        "太平山頂 (taai3 ping4 saan1 deng2 - The Peak / Victoria Peak)",
+                        "大帽山"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "太平山頂 (taai3 ping4 saan1 deng2) is Victoria Peak in Hong Kong."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「經歷體態：過 (Experiential Aspect 過)」語境嘅廣東話完整句子（練習 5）：",
+                    "prompt": "在廣東話對話中，表達「山頂的景色比照片裏更漂亮」，最地道的表述是：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (7.5.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (7.5.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (7.5.3)。"
+                        "山頂嘅風景靚過相片 (saan1 deng2 ge3 fung1 ging2 leng3 gwo3 soeng2 pin2)",
+                        "山頂嘅風景比相片漂亮",
+                        "山頂嘅風景冇相片好"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "山頂嘅風景靚過相片 uses the comparative particle 靚過 (more beautiful than)."
                 }
             ]
         },
@@ -3819,24 +3874,30 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「經歷態過嘅用法 (Experiential Aspect 過)」嘅日常商務與生活習慣（考核 7-5）？",
+                    "prompt": "關於廣東話第七單元經歷體（去過/試過）、否定（未試過）、問句（有冇去過）及比較級（靚過/好過）的綜合應用，下列哪一項總括完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (7.5.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (7.5.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (7.5.3)。"
+                        "「過 (gwo3)」兼具經歷態（去過三次/未試過）與比較句（靚過/好過）雙重核心功能，結合景點對話能自如交流人生體驗與事物比較 (gwo3 functions both as experiential aspect marker and comparative operator, enabling rich travel dialogues)",
+                        "廣東話不能描述旅遊景點體驗",
+                        "「太平山頂」在廣東話中是一間餐廳名字"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "explanation": "Synthesizes the multifaceted grammatical functions of 過 and cultural travel discourse."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («去過_7_5»):",
+                    "prompt": "Type the 4-character Hanzi phrase for 'The Peak / Victoria Peak' in Cantonese (太平山頂):",
                     "acceptedAnswers": [
-                        "去過_7_5"
+                        "太平山頂",
+                        "taai3ping4saan1deng2",
+                        "taai3 ping4 saan1 deng2",
+                        "Taai3 ping4 saan1 deng2",
+                        "Taai3ping4saan1deng2",
+                        "太平山顶"
                     ],
-                    "explanation": "The target keyword was: 【去過_7_5】"
+                    "explanation": "太平山頂 (taai3 ping4 saan1 deng2) means 'Victoria Peak' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u8-l1": {
