@@ -9220,63 +9220,69 @@
     },
     "am-u18-l1": {
         "id": "am-u18-l1",
-        "subject": "amharic",
-        "unit": 18,
-        "lessonNumber": 1,
-        "title": "የግስ ዝርያዎች፡ አሰሪ ግስ (Causative Derivations - አስ-) (Part 1)",
+        "unit": "am-u18",
         "level": "B2",
-        "objective": "Comprehensive mastery of አሰሪ ግስ አወቃቀር (Causative Stems).",
+        "objective": "Form and conjugate direct causative verbs from Type A trilateral roots using the prefix «አስ-» (as-) in Amharic, including አስጻፈ (had someone write), አስገነባ (had built), አስጠራ (had summoned/called), and አስከፈተ (had opened).",
+        "prerequisites": [
+            "am-u17-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u17-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (አሰሪ ግስ አወቃቀር (Causative Stems) - ደረጃ 1) ተማሪዎች ስለ አሰሪ ግስ አወቃቀር (Causative Stems) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "In Amharic, the causative voice (አሰሪ ግስ) indicates causing, having, or directing someone else to perform an action, constructed primarily with the prefix **አስ-** (As-).\n\n1. Type A Basic Stems to Causative Formations:\n- **ጻፈ** (Ts'afe — He wrote) -> **አስጻፈ** (Asts'afe — He had someone write / dictated)\n- **ገነባ** (Geneba — He built) -> **አስገነባ** (Asgeneba — He had built / commissioned building)\n- **ጠራ** (T'era — He called) -> **አስጠራ** (Ast'era — He had called / summoned)\n- **ከፈተ** (Kefete — He opened) -> **አስከፈተ** (Askefete — He had opened)\n- **ቆረጠ** (Qoret'e — He cut) -> **አስቆረጠ** (Asqoret'e — He had cut)\n- **ወሰደ** (Wesede — He took) -> **አስወሰደ** (Aswesede — He had taken away)\n\n2. Syntactic Role:\nThe subject is the initiator/causer who induces the agent to perform the deed:\n- «**ስራ አስኪያጁ ሪፖርት አስጻፈ።**» (The manager had a report written.)",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የአሰሪ ግስ አወቃቀር (Causative Stems) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (18.1.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ስራ አስኪያጁ ፀሐፊዋን ጠቃሚ ሪፖርት አስጻፈ።",
+                    "reading": "Sira askīyaju ts'ehafiwan t'eqamī rīport asts'afe.",
+                    "translation": "The manager had the secretary write an important report."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (18.1.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ነጋዴው በከተማው ማእከል ዘመናዊ የንግድ ህንጻ አስገነባ።",
+                    "reading": "Negadēw beketemaw ma'ikel zemenawī yenigd hints'a asgeneba.",
+                    "translation": "The merchant had a modern commercial building constructed in the city center."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (18.1.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ዳኛው ምስክሩን ለፍርድ ቤት ቃል እንዲሰጥ አስጠራ።",
+                    "reading": "Dagnyaw miskirun lefird bēt qal indīset' ast'era.",
+                    "translation": "The judge summoned the witness to give testimony in court."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for አሰሪ ግስ አወቃቀር (Causative Stems)"
+                "«አስ-» (As-) = Make someone do it! ጻፈ (wrote) -> አስጻፈ (made write)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "In Ethiopian commerce and governance, managerial titles frequently incorporate the causative: «ስራ አስኪያጅ» (executive manager, literally 'one who causes work to run')."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «አሰሪ ግስ አወቃቀር (Causative Stems)» አጠቃቀም በደረጃ 1 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«አስጻፈ» የሚለው ግስ ምን ትርጉም አለው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (18.1.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (18.1.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (18.1.3)።"
+                        "He had someone write / caused to write",
+                        "He burned the paper",
+                        "He read silently"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "አስጻፈ (Asts'afe) means 'he had someone write'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የግስ ዝርያዎች፡ አሰሪ ግስ (Causative Derivations - አስ-)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 1)፡",
+                    "prompt": "«ገነባ» (He built) የሚለው ግስ በአሰሪ ቅርጽ (Causative) ምን ይሆናል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (18.1.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (18.1.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (18.1.3)።"
+                        "ተገነባ",
+                        "አስገነባ (Asgeneba - Had built)",
+                        "ግንባታ"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "ገነባ -> አስገነባ (had built)."
                 }
             ]
         },
@@ -9284,85 +9290,94 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«አሰሪ ግስ አወቃቀር (Causative Stems)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 18-1)?",
+                    "prompt": "የትኛው ዓረፍተ ነገር አሰሪ ግስ (Causative voice) ይዟል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (18.1.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (18.1.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (18.1.3)።"
+                        "መሪው አዲስ ህንጻ አስገነባ (The leader had a new building built)",
+                        "ልጁ ውሃ ጠጣ (The boy drank water)",
+                        "እሷ ተኛች (She slept)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "«አስገነባ» is a causative verb meaning 'had built'."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («አሰራ_18_1»):",
+                    "prompt": "Type the Amharic causative verb for 'had built' in Fidel script (አስገነባ):",
                     "acceptedAnswers": [
-                        "አሰራ_18_1"
+                        "አስገነባ",
+                        "asgeneba",
+                        "Asgeneba"
                     ],
-                    "explanation": "The target keyword was: 【አሰራ_18_1】"
+                    "explanation": "አስገነባ (Asgeneba) means 'had built / commissioned construction'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u18-l2": {
         "id": "am-u18-l2",
-        "subject": "amharic",
-        "unit": 18,
-        "lessonNumber": 2,
-        "title": "የግስ ዝርያዎች፡ አሰሪ ግስ (Causative Derivations - አስ-) (Part 2)",
+        "unit": "am-u18",
         "level": "B2",
-        "objective": "Comprehensive mastery of አሰሪ ግስ አወቃቀር (Causative Stems).",
+        "objective": "Apply causative prefixation «አስ-» to Type B and Type C verb stems in Amharic, including አስፈለገ (necessitated/required), አስጀመረ (caused to start), አስመረቀ (had graduated/inaugurated), and አስባረከ (had blessed).",
+        "prerequisites": [
+            "am-u18-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u18-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (አሰሪ ግስ አወቃቀር (Causative Stems) - ደረጃ 2) ተማሪዎች ስለ አሰሪ ግስ አወቃቀር (Causative Stems) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Type B and Type C verbs prefix **አስ-** (As-) to express causative and necessity semantics.\n\n1. Type B Causatives:\n- **ፈለገ** (Felege — Wanted) -> **አስፈለገ** (Asfelege — It necessitated / required / was needed)\n- **ጀመረ** (Jemere — Started) -> **አስጀመረ** (Asjemere — He caused to begin / initiated)\n- **መረቀ** (Mereqe — Blessed) -> **አስመረቀ** (Asmereqe — He held a graduation / inaugurated)\n- **መለሰ** (Melese — Returned) -> **አስመለሰ** (Asmelese — He caused to return / refunded)\n\n2. The Essential Verb «አስፈለገ» (To Need / Be Necessary):\n- «**ያስፈልገኛል**» (Yasfelegegnal) — I need it / It is necessary for me.\n- «**አያስፈልገኝም**» (Ayasfelegegnim) — I do not need it.\n- «**ምን ያስፈልግዎታል?**» (Min yasfeligwotall?) — What do you need? (Polite)",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የአሰሪ ግስ አወቃቀር (Causative Stems) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (18.2.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ይህንን ትልቅ ፕሮጀክት ለማጠናቀቅ ከፍተኛ በጀት እና ብዙ ጊዜ አስፈለገ።",
+                    "reading": "Yihinnin tiliq projekit lemat'enaqeq kefitegna bejet ina bizu gīzē asfelege.",
+                    "translation": "Completing this major project required a substantial budget and much time."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (18.2.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "አሰልጣኙ አዲሱን የስፖርት ውድድር በፉጨት አስጀመረ።",
+                    "reading": "Aselt'agnyu addīsun yesport wididir befucheti asjemere.",
+                    "translation": "The coach initiated the new sports competition with a whistle."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (18.2.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ወላጆቹ ልጃቸውን ከታዋቂው ዩኒቨርሲቲ በደስታ አስመረቁ።",
+                    "reading": "Welajochu lijachewun ketawaqīw yunīversītī bedesta asmerequ.",
+                    "translation": "The parents proudly celebrated their child's graduation from the prestigious university."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for አሰሪ ግስ አወቃቀር (Causative Stems)"
+                "«ያስፈልገኛል» (I need it) is derived directly from the causative of ፈለገ!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Hosting a graduation banquet («ማስመረቅ») is a vital rite of passage in Ethiopian families, celebrating the scholar's triumph with the extended community."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «አሰሪ ግስ አወቃቀር (Causative Stems)» አጠቃቀም በደረጃ 2 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«ያስፈልገኛል» ምን ማለት ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (18.2.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (18.2.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (18.2.3)።"
+                        "I need it / It is necessary for me",
+                        "I dislike it",
+                        "I finished it"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "ያስፈልገኛል = I need it / It is required for me."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የግስ ዝርያዎች፡ አሰሪ ግስ (Causative Derivations - አስ-)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 2)፡",
+                    "prompt": "«ጀመረ» (He started) በአሰሪ ቅርጽ (Causative) ምን ይሆናል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (18.2.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (18.2.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (18.2.3)።"
+                        "ተጀመረ",
+                        "አስጀመረ (Asjemere - Caused to start)",
+                        "ጀምር"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "ጀመረ -> አስጀመረ (caused to begin)."
                 }
             ]
         },
@@ -9370,85 +9385,94 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«አሰሪ ግስ አወቃቀር (Causative Stems)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 18-2)?",
+                    "prompt": "የትኛው ቃል 'It was necessary / required' የሚለውን ትርጉም ይገልጻል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (18.2.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (18.2.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (18.2.3)።"
+                        "ተፈለገ (Was wanted)",
+                        "አጠፋ (Destroyed)",
+                        "አስፈለገ (Asfelege - Was required)"
                     ],
                     "answerIndex": 2,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "explanation": "አስፈለገ (Asfelege) means 'it was necessary / required'."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («አሰራ_18_2»):",
+                    "prompt": "Type the Amharic causative verb for 'caused to start / initiated' in Fidel script (አስጀመረ):",
                     "acceptedAnswers": [
-                        "አሰራ_18_2"
+                        "አስጀመረ",
+                        "asjemere",
+                        "Asjemere"
                     ],
-                    "explanation": "The target keyword was: 【አሰራ_18_2】"
+                    "explanation": "አስጀመረ (Asjemere) means 'caused to start / initiated'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u18-l3": {
         "id": "am-u18-l3",
-        "subject": "amharic",
-        "unit": 18,
-        "lessonNumber": 3,
-        "title": "የግስ ዝርያዎች፡ አሰሪ ግስ (Causative Derivations - አስ-) (Part 3)",
+        "unit": "am-u18",
         "level": "B2",
-        "objective": "Comprehensive mastery of አሰሪ ግስ አወቃቀር (Causative Stems).",
+        "objective": "Analyze double-transitive causative verbs expressing factitive and permissive actions with dual direct objects in Amharic, including አስተማረ (taught), አስበላ (fed / caused to eat), and አስጠጣ (gave drink to).",
+        "prerequisites": [
+            "am-u18-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u18-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (አሰሪ ግስ አወቃቀር (Causative Stems) - ደረጃ 3) ተማሪዎች ስለ አሰሪ ግስ አወቃቀር (Causative Stems) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Causative derivation expands verbal valence, allowing transitive verbs to govern two distinct direct objects simultaneously.\n\n1. Double Object Valency:\n- **ተማረ** (Learned) -> **አስተማረ** (Astemare — Taught / Made learn):\n  - «መምህሩ **ተማሪዎቹን** **አማርኛ** አስተማረ።» (The teacher taught [Obj 1: students] [Obj 2: Amharic].)\n- **በላ** (Ate) -> **አስበላ** (Asbela — Fed / Hosted a meal):\n  - «እንግዶቹን ጣፋጭ ምሳ አስበላ።» (He fed the guests a delicious lunch.)\n- **ጠጣ** (Drank) -> **አስጠጣ** (Ast'et'a — Gave drink to / Hydrated)\n- **አወቀ** (Knew) -> **አስታወቀ** (Astawaqe — Notified / Announced / Made known)\n- **አሰበ** (Thought) -> **አስታወሰ** (Astawese — Remembered / Recalled)",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የአሰሪ ግስ አወቃቀር (Causative Stems) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (18.3.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "መምህርት አስቴር ለክፍሉ ተማሪዎች ጥንታዊ ታሪክ አስተማረች።",
+                    "reading": "Memhirt Astēr lekiflu temarīwoch t'intawi tarīk astemarech.",
+                    "translation": "Teacher Aster taught the classroom students ancient history."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (18.3.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "አስተናጋጁ የደከሙትን መንገደኞች ቀዝቃዛ ውሃ አስጠጣ።",
+                    "reading": "Astenagaju yedekemutin mengedegnyoch qezqaza wuha ast'et'a.",
+                    "translation": "The host gave cool water to drink to the tired travelers."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (18.3.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የከተማው አስተዳደር አዲሱን የትራፊክ ደንብ ለህዝቡ አስታወቀ።",
+                    "reading": "Yeketemaw astedader addīsun yetirafik denb lehizbu astawaqe.",
+                    "translation": "The city administration announced the new traffic regulation to the public."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for አሰሪ ግስ አወቃቀር (Causative Stems)"
+                "«ተማረ» (learned) -> «አስተማረ» (taught = made learn)! «አወቀ» (knew) -> «አስታወቀ» (announced)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Traditional hospitality (እንግዳ ተቀባይነት) mandates «ማስበላት እና ማስጠጣት» (providing food and beverages abundantly) to any guest crossing the threshold."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «አሰሪ ግስ አወቃቀር (Causative Stems)» አጠቃቀም በደረጃ 3 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«መምህሩ ተማሪዎቹን ሒሳብ አስተማረ» በሚለው ዓረፍተ ነገር ውስጥ ድርጊቱ ምንድን ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (18.3.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (18.3.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (18.3.3)።"
+                        "Teaching mathematics to students",
+                        "Failing an exam",
+                        "Eating lunch"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "አስተማረ (taught) conveys educating students in math."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የግስ ዝርያዎች፡ አሰሪ ግስ (Causative Derivations - አስ-)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 3)፡",
+                    "prompt": "«አስታወቀ» የሚለው ግስ ትርጉም ምንድን ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (18.3.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (18.3.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (18.3.3)።"
+                        "He forgot",
+                        "He announced / notified",
+                        "He hid"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "አስታወቀ (Astawaqe) means 'he announced / made known'."
                 }
             ]
         },
@@ -9456,85 +9480,94 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«አሰሪ ግስ አወቃቀር (Causative Stems)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 18-3)?",
+                    "prompt": "የትኛው ግስ 'He taught' የሚለውን አሰሪ ትርጉም ይገልጻል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (18.3.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (18.3.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (18.3.3)።"
+                        "አስተማረ (Astemare)",
+                        "ተማረ (He learned)",
+                        "አነበበ (He read)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "explanation": "አስተማረ (Astemare) means 'he taught'."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («አሰራ_18_3»):",
+                    "prompt": "Type the Amharic causative verb for 'taught' in Fidel script (አስተማረ):",
                     "acceptedAnswers": [
-                        "አሰራ_18_3"
+                        "አስተማረ",
+                        "astemare",
+                        "Astemare"
                     ],
-                    "explanation": "The target keyword was: 【አሰራ_18_3】"
+                    "explanation": "አስተማረ (Astemare) means 'taught'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u18-l4": {
         "id": "am-u18-l4",
-        "subject": "amharic",
-        "unit": 18,
-        "lessonNumber": 4,
-        "title": "የግስ ዝርያዎች፡ አሰሪ ግስ (Causative Derivations - አስ-) (Part 4)",
+        "unit": "am-u18",
         "level": "B2",
-        "objective": "Comprehensive mastery of አሰሪ ግስ አወቃቀር (Causative Stems).",
+        "objective": "Express workplace delegation, managerial oversight, and statutory enforcement in Amharic using verbs of directive execution including አሰራ (had made/managed), አስፈጸመ (enforced/executed), and አዘዘ (ordered/directed).",
+        "prerequisites": [
+            "am-u18-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u18-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (አሰሪ ግስ አወቃቀር (Causative Stems) - ደረጃ 4) ተማሪዎች ስለ አሰሪ ግስ አወቃቀር (Causative Stems) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Workplace management, institutional directives, and enforcement of policies rely heavily on executive causative verbs in Amharic.\n\n1. Executive Causative Stems:\n- **አሰራ** (Asera) — Supervised / Had fabricated / Managed operations\n- **አስፈጸመ** (Asfetts'eme) — Enforced / Executed / Carried out orders\n- **አዘዘ** (Azeze) — Ordered / Directed / Commanded\n- **አስተዳደረ** (Astedadere) — Administered / Managed\n- **ተቆጣጠረ** (Teqot'at'ere) — Supervised / Controlled\n\n2. Key Professional Collocations:\n- «**ውሳኔ ማስፈጸም**» (Wusanē masfetts'em) — Executing / enforcing decisions\n- «**ስራ ማስተባበር**» (Sira mastebaber) — Coordinating workflow\n- «**ህግ ማስከበር**» (Hig maskeber) — Upholding the rule of law",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የአሰሪ ግስ አወቃቀር (Causative Stems) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (18.4.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ዋና ዳይሬክተሩ የቦርዱን ውሳኔዎች ያለምንም መዘግየት አስፈጸመ።",
+                    "reading": "Wana dayirēkteru yebordun wusanēwochi yaleminim mezegyēt asfetts'eme.",
+                    "translation": "The executive director enforced the board's decisions without any delay."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (18.4.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የፕሮጀክት አስተባባሪው ባለሙያዎችን በጋራ በማሰራት ስራውን አሳለጠ።",
+                    "reading": "Yeprojekt astebabarīw balemuyawochin begara bemaserat sirawun asalet'e.",
+                    "translation": "The project coordinator streamlined the work by managing specialists collaboratively."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (18.4.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የህግ አስከባሪዎች የህዝብን ደህንነት እና ስርዓት ለማስከበር ሌት ተቀን ይሰራሉ።",
+                    "reading": "Yehig askebarīwoch yehizbin dehinninet ina sir'at lemaskeber lēt teqen yiseralu.",
+                    "translation": "Law enforcement officers work day and night to maintain public safety and order."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for አሰሪ ግስ አወቃቀር (Causative Stems)"
+                "«አስፈጸመ» (Asfetts'eme) = Caused to be accomplished (ፈጸመ = accomplished)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "In modern Ethiopian corporate and civil service sectors, effective leadership (**አመራር**) combines decisive delegation with respectful team collaboration."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «አሰሪ ግስ አወቃቀር (Causative Stems)» አጠቃቀም በደረጃ 4 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«ውሳኔ ማስፈጸም» ምን ማለት ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (18.4.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (18.4.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (18.4.3)።"
+                        "Enforcing / Executing a decision",
+                        "Cancelling a meeting",
+                        "Procrastinating on a task"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "ውሳኔ ማስፈጸም = executing / enforcing a decision."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የግስ ዝርያዎች፡ አሰሪ ግስ (Causative Derivations - አስ-)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 4)፡",
+                    "prompt": "«አስፈጸመ» የሚለው ቃል ምን ያመለክታል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (18.4.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (18.4.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (18.4.3)።"
+                        "He delayed",
+                        "He executed / enforced",
+                        "He resigned"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "አስፈጸመ (Asfetts'eme) = he executed / enforced."
                 }
             ]
         },
@@ -9542,85 +9575,95 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«አሰሪ ግስ አወቃቀር (Causative Stems)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 18-4)?",
+                    "prompt": "የትኛው ቃል 'Enforced / Executed' የሚለውን የአመራር ግስ ያሳያል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (18.4.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (18.4.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (18.4.3)።"
+                        "ተፈተነ (Was tested)",
+                        "አስፈጸመ (Asfetts'eme)",
+                        "ተኛ (Slept)"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "explanation": "አስፈጸመ (Asfetts'eme) means 'enforced / executed'."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («አሰራ_18_4»):",
+                    "prompt": "Type the Amharic verb for 'enforced / executed' in Fidel script (አስፈጸመ):",
                     "acceptedAnswers": [
-                        "አሰራ_18_4"
+                        "አስፈጸመ",
+                        "asfetseme",
+                        "asfetts'eme",
+                        "Asfetseme"
                     ],
-                    "explanation": "The target keyword was: 【አሰራ_18_4】"
+                    "explanation": "አስፈጸመ (Asfetts'eme) means 'enforced / executed'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u18-l5": {
         "id": "am-u18-l5",
-        "subject": "amharic",
-        "unit": 18,
-        "lessonNumber": 5,
-        "title": "የግስ ዝርያዎች፡ አሰሪ ግስ (Causative Derivations - አስ-) (Part 5)",
+        "unit": "am-u18",
         "level": "B2",
-        "objective": "Comprehensive mastery of አሰሪ ግስ አወቃቀር (Causative Stems).",
+        "objective": "Synthesize direct causative prefixes, double-transitive structures, and executive administrative directives into an advanced institutional management dialogue in Amharic.",
+        "prerequisites": [
+            "am-u18-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u18-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (አሰሪ ግስ አወቃቀር (Causative Stems) - ደረጃ 5) ተማሪዎች ስለ አሰሪ ግስ አወቃቀር (Causative Stems) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "This lesson consolidates causative morphology, double-transitive argument structures, and executive delegation into a high-level administrative discourse.\n\n1. Executive Management Synthesis:\n- **Planning & Architecture:** Having plans drafted (**አስነደፈ**).\n- **Announcements:** Announcing policies to the public (**አስታወቀ**).\n- **Job Creation:** Generating employment (**የስራ ዕድል አስገኘ**).\n- **Results:** Registering breakthrough success (**የላቀ ውጤት አስመዘገበ**).\n\n2. Key Integrative Terms:\n- **አስመዘገበ** (Asmezegebe) — Registered / Achieved\n- **አስገኘ** (Asgegne) — Generated / Yielded / Brought about\n- **አስነደፈ** (Asnedefe) — Had designed / Drafted",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የአሰሪ ግስ አወቃቀር (Causative Stems) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (18.5.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ከንቲባው አዲሱን የከተማ ማስተር ፕላን በባለሙያዎች አስነድፎ ለህዝብ ይፋ አስደረገ።",
+                    "reading": "Kantibaw addīsun yeketema master plan bebalemuyawoch asnedifo lehizb yifa asderege.",
+                    "translation": "The mayor had the new city master plan designed by experts and made publicly official."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (18.5.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የኢንዱስትሪ ሚኒስቴሩ አዳዲስ ፋብሪካዎችን በማስገንባት ለብዙ ዜጎች የስራ ዕድል አስገኘ።",
+                    "reading": "Ye'indistrī minīstēru addadīs fabrikawchin bemasgenbat lebizu zēgoch yesira idil asgegne.",
+                    "translation": "The Ministry of Industry, by having new factories constructed, generated employment opportunities for many citizens."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (18.5.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የስራ መሪው ሰራተኞቹን በታማኝነት እና በትጋት በማሰራት የላቀ ውጤት አስመዘገበ።",
+                    "reading": "Yesira merīw seratēgnochin betamagninet ina betigat bemaserat yelaqe wut'ēt asmezegebe.",
+                    "translation": "The supervisor, by managing the staff with trustworthiness and diligence, registered outstanding results."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for አሰሪ ግስ አወቃቀር (Causative Stems)"
+                "«አስመዘገበ» = Caused to register / Achieved victory!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "In Ethiopia's development narrative, leadership capability is measured by tangible completed projects that foster communal prosperity."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «አሰሪ ግስ አወቃቀር (Causative Stems)» አጠቃቀም በደረጃ 5 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«የስራ ዕድል አስገኘ» ምን ያመለክታል?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (18.5.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (18.5.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (18.5.3)።"
+                        "Generated / Created employment opportunities",
+                        "Closed down businesses",
+                        "Reduced wages"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "የስራ ዕድል አስገኘ = generated employment opportunities."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የግስ ዝርያዎች፡ አሰሪ ግስ (Causative Derivations - አስ-)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 5)፡",
+                    "prompt": "«የላቀ ውጤት አስመዘገበ» ማለት ምን ማለት ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (18.5.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (18.5.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (18.5.3)።"
+                        "Achieved mediocre performance",
+                        "Registered superior / outstanding results",
+                        "Failed completely"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "የላቀ ውጤት አስመዘገበ = registered outstanding results."
                 }
             ]
         },
@@ -9628,24 +9671,27 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«አሰሪ ግስ አወቃቀር (Causative Stems)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 18-5)?",
+                    "prompt": "የአመራር ውጤታማነትን የሚያሳይ አሰሪ ግስ የትኛው ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (18.5.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (18.5.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (18.5.3)።"
+                        "አስመዘገበ (Asmezegebe - Registered success)",
+                        "ተሸነፈ (Was defeated)",
+                        "አጠፋ (Destroyed)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "አስመዘገበ (Asmezegebe) highlights achieved success."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («አሰራ_18_5»):",
+                    "prompt": "Type the Amharic causative verb for 'registered / achieved results' in Fidel script (አስመዘገበ):",
                     "acceptedAnswers": [
-                        "አሰራ_18_5"
+                        "አስመዘገበ",
+                        "asmezegebe",
+                        "Asmezegebe"
                     ],
-                    "explanation": "The target keyword was: 【አሰራ_18_5】"
+                    "explanation": "አስመዘገበ (Asmezegebe) means 'registered / achieved results'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u19-l1": {
