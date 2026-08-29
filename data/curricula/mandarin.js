@@ -20720,5 +20720,6 @@
   if (typeof module !== 'undefined' && module.exports) {
     module.exports = SUBJECT;
   }
-  global.FEARN_CURRICULUM_MANDARIN = SUBJECT;
+  global.FEARN_CURRICULA = global.FEARN_CURRICULA || {};
+  global.FEARN_CURRICULA['mandarin'] = SUBJECT;
 })(typeof window !== 'undefined' ? window : globalThis);

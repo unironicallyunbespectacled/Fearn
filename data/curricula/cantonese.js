@@ -20720,5 +20720,6 @@
   if (typeof module !== 'undefined' && module.exports) {
     module.exports = SUBJECT;
   }
-  global.FEARN_CURRICULUM_CANTONESE = SUBJECT;
+  global.FEARN_CURRICULA = global.FEARN_CURRICULA || {};
+  global.FEARN_CURRICULA['cantonese'] = SUBJECT;
 })(typeof window !== 'undefined' ? window : globalThis);

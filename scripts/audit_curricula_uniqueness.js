@@ -155,11 +155,43 @@ files.forEach(f => {
   // Hard threshold checks
   let isFailed = false;
 
-  // 1. Script Density Check (< 40% native script is a hard failure for non-Latin languages)
-  if (SCRIPT_RANGES[subjKey] && scriptDensity < 40) {
-    console.error(`>>> [HARD FAIL] ${subjKey}: Native script density is only ${scriptDensity}% (Min threshold: 40%)`);
+  // 0. Runtime Global Registration Gate
+  global.window = global;
+  global.FEARN_CURRICULA = global.FEARN_CURRICULA || {};
+  eval(fs.readFileSync(path.join(currDir, f), 'utf8'));
+  if (!global.FEARN_CURRICULA[subjKey] || !global.FEARN_CURRICULA[subjKey].lessons) {
+    console.error(`>>> [HARD FAIL] ${subjKey}: Failed runtime global registration at global.FEARN_CURRICULA['${subjKey}']!`);
     isFailed = true;
     hasFailure = true;
+  }
+
+  // 1. Calibrated Script Density / Target-Language Ratio Gate
+  const CALIBRATED_NON_LATIN_FLOORS = {
+    russian: 65, japanese: 60, arabic: 60, mandarin: 55,
+    cantonese: 55, ukrainian: 60, hindi: 52, amharic: 55,
+    urdu: 50, korean: 40
+  };
+  const CALIBRATED_LATIN_FLOORS = {
+    french: 88, spanish: 85, 'argentine-spanish': 85, vietnamese: 85,
+    'brazilian-portuguese': 80, swahili: 80, german: 78, turkish: 78,
+    romanian: 78
+  };
+
+  if (CALIBRATED_NON_LATIN_FLOORS[subjKey] !== undefined) {
+    const floor = CALIBRATED_NON_LATIN_FLOORS[subjKey];
+    if (scriptDensity < floor) {
+      console.error(`>>> [HARD FAIL] ${subjKey}: Native script density is only ${scriptDensity}% (Min threshold: ${floor}%)`);
+      isFailed = true;
+      hasFailure = true;
+    }
+  } else if (CALIBRATED_LATIN_FLOORS[subjKey] !== undefined) {
+    const floor = CALIBRATED_LATIN_FLOORS[subjKey];
+    const tgtRatio = 100 - (totalWords > 0 ? Math.round((englishFuncWords / totalWords) * 100) : 0);
+    if (tgtRatio < floor) {
+      console.error(`>>> [HARD FAIL] ${subjKey}: Target language word ratio is only ${tgtRatio}% (Min threshold: ${floor}%)`);
+      isFailed = true;
+      hasFailure = true;
+    }
   }
 
   // 2. Explanations Uniqueness Gate

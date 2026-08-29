@@ -20520,5 +20520,6 @@
   if (typeof module !== 'undefined' && module.exports) {
     module.exports = SUBJECT;
   }
-  global.FEARN_CURRICULUM_JAPANESE = SUBJECT;
+  global.FEARN_CURRICULA = global.FEARN_CURRICULA || {};
+  global.FEARN_CURRICULA['japanese'] = SUBJECT;
 })(typeof window !== 'undefined' ? window : globalThis);

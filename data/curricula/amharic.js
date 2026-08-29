@@ -20550,5 +20550,6 @@
   if (typeof module !== 'undefined' && module.exports) {
     module.exports = SUBJECT;
   }
-  global.FEARN_CURRICULUM_AMHARIC = SUBJECT;
+  global.FEARN_CURRICULA = global.FEARN_CURRICULA || {};
+  global.FEARN_CURRICULA['amharic'] = SUBJECT;
 })(typeof window !== 'undefined' ? window : globalThis);

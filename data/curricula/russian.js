@@ -20686,5 +20686,6 @@
   if (typeof module !== 'undefined' && module.exports) {
     module.exports = SUBJECT;
   }
-  global.FEARN_CURRICULUM_RUSSIAN = SUBJECT;
+  global.FEARN_CURRICULA = global.FEARN_CURRICULA || {};
+  global.FEARN_CURRICULA['russian'] = SUBJECT;
 })(typeof window !== 'undefined' ? window : globalThis);

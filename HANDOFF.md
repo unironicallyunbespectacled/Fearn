@@ -94,7 +94,10 @@ for (const s in global.FEARN_LEDGERS) {
   const v = global.FEARN_SCHEMA.validateLedger(l);
   if (!v.valid) errors.push(['LEDGER ' + s, v.errors]);
   const curr = global.FEARN_CURRICULA[s];
-  if (!curr || !curr.lessons) continue;
+  if (!curr || !curr.lessons) {
+    errors.push(['MISSING CURRICULUM REGISTRATION', s]);
+    continue;
+  }
   const lessonKeys = Object.keys(curr.lessons);
   for (const id of (l.authoredInFull||[])) {
     if (!curr.lessons[id]) { errors.push(['MISSING CONTENT ' + s, id + ' is authoredInFull but absent from lessons map']); continue; }
