@@ -3394,63 +3394,69 @@
     },
     "zh-u7-l1": {
         "id": "zh-u7-l1",
-        "subject": "mandarin",
-        "unit": 7,
-        "lessonNumber": 1,
-        "title": "动态助词：着与持续态 (Durative Aspect Marker 着) (Part 1)",
+        "unit": "zh-u7",
         "level": "A2",
-        "objective": "Comprehensive mastery of 持续态动词后着 (Durative Aspect Marker 着).",
+        "objective": "Master the durative aspect marker 着 (zhe) to express a persisting physical posture (坐着, 站着) or a continuing static state (门开着, 穿/戴着).",
+        "prerequisites": [
+            "zh-u6-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u6-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「动态助词：着与持续态 (Durative Aspect Marker 着)」（第1部分）的核心句法结构与持续态动词后着 (Durative Aspect Marker 着)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "动态助词「着 (zhe)」置于**动词之后**，表示动作或状态的持续（Durative Aspect）。与「在（正在进行）」不同，「着」着重于**状态的延续与静止的存在**。\n\n1. 身体姿势与持续状态 (Physical Posture & Static State):\n- **身体姿势动词 + 着**：\n  - **坐着 (zuòzhe - sitting)**：老师坐着看书。(The teacher is sitting reading.)\n  - **站着 (zhànzhe - standing)**：门口站着两个人。(Two people are standing at the door.)\n  - **躺着 (tǎngzhe - lying down)**：他在床上躺着休息。(He is lying in bed resting.)\n- **穿着 / 戴着 (Wearing / Carrying)**：\n  - 他穿**着**一件白色的衬衫。(He is wearing a white shirt.)\n  - 她戴**着**副黑框眼镜。(She is wearing a pair of black-rimmed glasses.)\n\n2. 存在句与物体状态 (Existential State: 处所 + 动词 + 着 + 名词):\n- **门开着**。(The door is open.) / **窗户关着**。(The window is closed.)\n- **墙上挂着一张中国地图**。(A map of China is hanging on the wall.)\n- **桌子上放着很多书**。(Many books are placed on the table.)",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (7.1.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "教室的门开着，同学们都安静地坐着听课。",
+                    "reading": "Jiàoshì de mén kāizhe, tóngxuémen dōu ānjìng de zuòzhe tīngkè.",
+                    "translation": "The classroom door is open, and the students are all quietly sitting listening to the lecture."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (7.1.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "他今天穿着一件红色的毛衣，戴着一顶黑色的帽子。",
+                    "reading": "Tā jīntiān chuānzhe yí jiàn hóngsè de máoyī, dàizhe yì dǐng hēisè de màozi.",
+                    "translation": "He is wearing a red sweater today and wearing a black hat."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (7.1.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "李明的书桌上放着一台笔记本电脑和几本汉语词典。",
+                    "reading": "Lǐ Míng de shūzhuō shang fàngzhe yì tái bǐjìběn diànnǎo hé jǐ běn hànyǔ cídiǎn.",
+                    "translation": "A laptop and several Chinese dictionaries are placed on Li Ming's desk."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 持续态动词后着 (Durative Aspect Marker 着)"
+                "«着» = State continues! (门开着 = Door stays open; 坐着 = Remains sitting!)"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Existential sentences with 着 (处所 + 动词 + 着 + 物) are essential in Chinese prose, painting a vivid static picture before narrative action begins."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「持续态动词后着 (Durative Aspect Marker 着)」在第1小节中的标准汉语语法规范？",
+                    "prompt": "表达‘墙上挂着一张中国画’时，助词‘着’体现了什么语法功能？",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (7.1.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (7.1.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (7.1.3)。"
+                        "表示静态状态的持续存在 (Continuous static state)",
+                        "表示动作在过去结束",
+                        "表示将来时"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "挂着 expresses the continuous static state of the painting hanging on the wall."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「动态助词：着与持续态 (Durative Aspect Marker 着)」语用情境与完整句式的选项（练习 1）：",
+                    "prompt": "句子‘门开着’与‘门开了’的区别在于：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (7.1.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (7.1.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (7.1.3)。"
+                        "‘门开着’强调门目前处于敞开的持续状态 (Door is open in a persisting state)",
+                        "两者完全没有区别",
+                        "‘门开着’表示关门"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "门开着 describes the persisting open state, while 门开了 marks the change of state from closed to open."
                 }
             ]
         },
@@ -3458,85 +3464,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「持续态动词后着 (Durative Aspect Marker 着)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 7-1）？",
+                    "prompt": "下列哪个句子正确表达了身体姿势或穿着的持续状态？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (7.1.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (7.1.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (7.1.3)。"
+                        "他穿毛衣了",
+                        "他坐着在桌子前认真写字 (He sits at the table diligently writing)",
+                        "他写字坐"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "他坐着在桌子前认真写字 correctly uses 坐着 for persisting posture."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («坐着_7_1»):",
+                    "prompt": "Type the Hanzi for the durative aspect marker (着):",
                     "acceptedAnswers": [
-                        "坐着_7_1"
+                        "着",
+                        "zhe",
+                        "Zhe",
+                        "zháo",
+                        "zhuó"
                     ],
-                    "explanation": "The target keyword was: 【坐着_7_1】"
+                    "explanation": "着 (zhe) indicates the durative aspect."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u7-l2": {
         "id": "zh-u7-l2",
-        "subject": "mandarin",
-        "unit": 7,
-        "lessonNumber": 2,
-        "title": "动态助词：着与持续态 (Durative Aspect Marker 着) (Part 2)",
+        "unit": "zh-u7",
         "level": "A2",
-        "objective": "Comprehensive mastery of 持续态动词后着 (Durative Aspect Marker 着).",
+        "objective": "Master the accompanying manner construction (Verb1 + 着 + Verb2) where Verb1 indicates the manner, posture, or background condition under which the main action Verb2 takes place.",
+        "prerequisites": [
+            "zh-u7-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u7-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「动态助词：着与持续态 (Durative Aspect Marker 着)」（第2部分）的核心句法结构与持续态动词后着 (Durative Aspect Marker 着)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "当两个动作同时发生，且第一个动作用于修饰、伴随或作为第二个主要动作的方式背景时，使用「V1 + 着 + V2」结构。\n\n1. 核心伴随句型 (Manner & Accompanying Action Formula):\n- **主语 + 动词₁ + 着 + (宾语₁) + 动词₂ + (宾语₂)**\n- 语义：伴随着动作一的状态来执行动作二（Action 1 is the manner/background; Action 2 is the primary predicate）。\n\n2. 典型固定伴随搭配 (Common Collocations):\n- **笑着说 (xiàozhe shuō)**：微笑着说话 (saying with a smile)\n- **站着等 (zhànzhe děng)**：站立着等待 (waiting standing up)\n- **走着去 (zǒuzhe qù)**：步行前往 (going on foot)\n- **听着音乐写作业 (tīngzhe yīnyuè xiě zuòyè)**：一边听音乐一边做功课 (doing homework while listening to music)\n- **看着手机走路 (kànzhe shǒujī zǒulù)**：边看手机边走路 (walking while looking at phone)。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (7.2.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "王老师微笑着对大家说：‘欢迎各位新同学来到中文系！’",
+                    "reading": "Wáng lǎoshī wēixiàozhe duì dàjiā shuō: ‘Huānyíng gèwèi xīn tóngxué lái dào zhōngwén xì!’",
+                    "translation": "Teacher Wang said to everyone with a smile: 'Welcome new classmates to the Chinese Department!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (7.2.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "他喜欢在宿舍里一边喝着茶，一边听着古典音乐看书。",
+                    "reading": "Tā xǐhuan zài sùshè lǐ yìbiān hēzhe chá, yìbiān tīngzhe gǔdiǎn yīnyuè kàn shū.",
+                    "translation": "He likes drinking tea in his dorm while listening to classical music and reading."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (7.2.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "为了安全，请大家不要看着手机过马路。",
+                    "reading": "Wèi le ānquán, qǐng dàjiā búyào kànzhe shǒujī guò mǎlù.",
+                    "translation": "For safety, please do not look at your mobile phone while crossing the road."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 持续态动词后着 (Durative Aspect Marker 着)"
+                "V1 + 着 + V2: V1 is HOW you do V2! (笑着说 = Speak with a smile; 听着音乐写 = Write while listening to music!)"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Accompanying action phrases like «笑着说» and «拉着手» convey warmth and vivid human emotion in Chinese interpersonal storytelling."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「持续态动词后着 (Durative Aspect Marker 着)」在第2小节中的标准汉语语法规范？",
+                    "prompt": "句子‘李明站着喝咖啡’中，主要动作是‘喝咖啡’，而‘站着’充当：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (7.2.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (7.2.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (7.2.3)。"
+                        "动作发生时的姿势/伴随方式 (Posture / manner of action)",
+                        "宾语",
+                        "时间状语"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "站着 acts as the manner/posture accompanying the main action 喝咖啡."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「动态助词：着与持续态 (Durative Aspect Marker 着)」语用情境与完整句式的选项（练习 2）：",
+                    "prompt": "表达‘老师微笑着走进教室’时，正确的汉语语序是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (7.2.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (7.2.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (7.2.3)。"
+                        "老师微笑着走进教室 (Lǎoshī wēixiàozhe zǒujìn jiàoshì)",
+                        "老师走进教室微笑",
+                        "微笑着老师走进"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "V1+着 (微笑着) precedes the main directional predicate (走进教室)."
                 }
             ]
         },
@@ -3544,85 +3561,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「持续态动词后着 (Durative Aspect Marker 着)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 7-2）？",
+                    "prompt": "句子‘请不要看着手机走路’是在提醒人们：",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (7.2.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (7.2.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (7.2.3)。"
+                        "不要买手机",
+                        "走路时不要看手机 (Do not look at the phone while walking)",
+                        "不要走路"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "看着手机走路 refers to walking while looking at the phone."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («坐着_7_2»):",
+                    "prompt": "Type the Hanzi for 'to laugh / smile' (笑):",
                     "acceptedAnswers": [
-                        "坐着_7_2"
+                        "笑",
+                        "xiao",
+                        "xiào",
+                        "Xiào",
+                        "Xiao"
                     ],
-                    "explanation": "The target keyword was: 【坐着_7_2】"
+                    "explanation": "笑 (xiào) means 'to smile / laugh'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u7-l3": {
         "id": "zh-u7-l3",
-        "subject": "mandarin",
-        "unit": 7,
-        "lessonNumber": 3,
-        "title": "动态助词：着与持续态 (Durative Aspect Marker 着) (Part 3)",
+        "unit": "zh-u7",
         "level": "A2",
-        "objective": "Comprehensive mastery of 持续态动词后着 (Durative Aspect Marker 着).",
+        "objective": "Master the negation of the durative aspect using 没 / 没有 + Verb + 着, maintaining 着 to signify that a continuous state does NOT exist.",
+        "prerequisites": [
+            "zh-u7-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u7-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「动态助词：着与持续态 (Durative Aspect Marker 着)」（第3部分）的核心句法结构与持续态动词后着 (Durative Aspect Marker 着)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "持续态「着」的否定句与完成态「了」有着一个关键区别：**否定「着」时，动词后的「着」通常保留**，表示某种持续状态并未存在！\n\n1. 持续态否定公式 (Negative Durative Formula):\n- **主语 + 没 (有) + 动词 + 着 + (宾语) (Subject + méi/méiyǒu + Verb + zhe + Object)**\n- 示例对比：\n  - 肯定：门**开着**。(The door is open.)\n  - 否定：门**没开着**。(The door is not kept open.)\n  - 肯定：他**戴着**眼镜。(He is wearing glasses.)\n  - 否定：他**没戴着**眼镜。(He is not wearing glasses.)\n  - 肯定：墙上**挂着**画。(A painting hangs on the wall.)\n  - 否定：墙上**没挂着**画。(No painting is hanging on the wall.)\n\n2. 语法点辨析 (Important Distinction):\n- 否定「了」：必须去掉「了」（我**没买**书，绝不说 *没买了）。\n- 否定「着」：可以保留「着」（他**没穿着**外套，表示未处于穿着状态）。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (7.3.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "图书馆的窗户没开着，里面空气有点闷。",
+                    "reading": "Túshūguǎn de chuānghu méi kāizhe, lǐmiàn kōngqì yǒudiǎn mèn.",
+                    "translation": "The library windows are not open; the air inside is a bit stuffy."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (7.3.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "他今天没戴着眼镜，所以看不太清黑板上的字。",
+                    "reading": "Tā jīntiān méi dàizhe yǎnjìng, suǒyǐ kàn bú tài qīng hēibǎn shang de zì.",
+                    "translation": "He isn't wearing glasses today, so he can't see the words on the blackboard clearly."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (7.3.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "桌子上没有放着词典，只有几张白纸。",
+                    "reading": "Zhuōzi shang méiyǒu fàngzhe cídiǎn, zhǐyǒu jǐ zhāng bái zhǐ.",
+                    "translation": "No dictionaries are placed on the table, only a few sheets of white paper."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 持续态动词后着 (Durative Aspect Marker 着)"
+                "Negate 着: Keep '着' with '没'! (没开着 = Not open; 没戴着 = Not wearing!)"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Chinese observational language relies heavily on negative durative constructions to note changes in interpersonal appearance (e.g., «你今天没戴手表呀？»)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「持续态动词后着 (Durative Aspect Marker 着)」在第3小节中的标准汉语语法规范？",
+                    "prompt": "否定句子‘他戴着眼镜’表示‘他没有处于戴眼镜的状态’时，正确句子是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (7.3.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (7.3.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (7.3.3)。"
+                        "他没戴着眼镜 (Tā méi dàizhe yǎnjìng)",
+                        "他不戴了眼镜",
+                        "他没眼镜戴"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "没 + 动词 + 着 accurately forms the negative durative aspect."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「动态助词：着与持续态 (Durative Aspect Marker 着)」语用情境与完整句式的选项（练习 3）：",
+                    "prompt": "句子‘黑板上没有写着字’的意思是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (7.3.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (7.3.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (7.3.3)。"
+                        "黑板上正在写字",
+                        "黑板上当前没有处于留有字迹的持续状态 (Blackboard currently has no writing on it)",
+                        "黑板被拿走了"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "没有写着字 describes the continuous clean/empty state of the blackboard."
                 }
             ]
         },
@@ -3630,85 +3658,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「持续态动词后着 (Durative Aspect Marker 着)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 7-3）？",
+                    "prompt": "关于否定句中‘了’与‘着’的处理规则，下列哪一项完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (7.3.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (7.3.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (7.3.3)。"
+                        "两个都必须去掉",
+                        "两个都必须保留",
+                        "否定‘了’必须去掉‘了’（没买），否定‘着’通常保留‘着’（没戴着）(Drop 了 with 没, keep 着 with 没)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "Drop 了 in negative completion; keep 着 in negative duration."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («坐着_7_3»):",
+                    "prompt": "Type the Hanzi for 'to wear (accessories / hats / glasses)' (戴):",
                     "acceptedAnswers": [
-                        "坐着_7_3"
+                        "戴",
+                        "dai",
+                        "dài",
+                        "Dài",
+                        "Dai"
                     ],
-                    "explanation": "The target keyword was: 【坐着_7_3】"
+                    "explanation": "戴 (dài) means 'to wear (accessories, glasses, hats, watches)'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u7-l4": {
         "id": "zh-u7-l4",
-        "subject": "mandarin",
-        "unit": 7,
-        "lessonNumber": 4,
-        "title": "动态助词：着与持续态 (Durative Aspect Marker 着) (Part 4)",
+        "unit": "zh-u7",
         "level": "A2",
-        "objective": "Comprehensive mastery of 持续态动词后着 (Durative Aspect Marker 着).",
+        "objective": "Master the emphatic progressive particle pairing (动词 + 着 + 呢) and durative affirmative-negative questions (动词 + 着 + 没有？ / 是不是...着？).",
+        "prerequisites": [
+            "zh-u7-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u7-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「动态助词：着与持续态 (Durative Aspect Marker 着)」（第4部分）的核心句法结构与持续态动词后着 (Durative Aspect Marker 着)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "持续态在口语问答与描写中常与语气助词「呢 (ne)」配合，强化动作正在进行或状态正在持续的生动感。\n\n1. 强调持续态：动词 + 着 + 呢 (Emphatic Durative):\n- **主语 + (在) + 动词 + 着 + (宾语) + 呢**\n- 语义：相当于‘正……呢’，带有生动描摹与提醒对方的语气。\n- 示例：\n  - 他在看**着**书**呢**，别打扰他。(He is reading a book right now; don't disturb him.)\n  - 门开**着呢**，请直接进来吧！(The door is wide open; please come straight in!)\n  - 外面下**着**大雨**呢**！(It is raining heavily outside!)\n\n2. 持续态正反疑问句 (A-not-A Question with 没有):\n- **动词 + 着 + (宾语) + 没有？**\n  - 灯亮**着没有**？ (Is the light on or not?)\n  - 窗户关**着没有**？ (Is the window closed or not?)\n  - 他戴**着**口罩**没有**？ (Is he wearing a mask?)",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (7.4.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "A: 老师在办公室吗？ B: 在呢，老师正备着课呢，门开着呢！",
+                    "reading": "A: Lǎoshī zài bàngōngshì ma? B: Zài ne, lǎoshī zhèng bèizhe kè ne, mén kāizhe ne!",
+                    "translation": "A: Is the teacher in the office? B: Yes, teacher is preparing lessons right now, and the door is wide open!"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (7.4.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "外面正刮着大风、下着雪呢，出门一定要穿暖和点儿。",
+                    "reading": "Wàimiàn zhèng guāzhe dàfēng, xiàzhe xuě ne, chūmén yídìng yào chuān nuǎnhuo diǎnr.",
+                    "translation": "Outside it is blowing strong wind and snowing heavily; make sure to dress warmly when going out."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (7.4.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "你看看会议室的电脑开着没有？如果没开着，请帮忙打开一下。",
+                    "reading": "Nǐ kànkan huìyìshì de diànnǎo kāizhe méiyǒu? Rúguǒ méi kāizhe, qǐng bāngmáng dǎkāi yíxià.",
+                    "translation": "Check if the meeting room computer is turned on. If it's not on, please turn it on."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 持续态动词后着 (Durative Aspect Marker 着)"
+                "V + 着 + 呢 = Lively ongoing state! (开着呢 = It is wide open! 下着雪呢 = It's snowing!)"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Adding sentence-final «呢» softens tone, creates conversational warmth, and gently draws the listener's attention to an active background reality."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「持续态动词后着 (Durative Aspect Marker 着)」在第4小节中的标准汉语语法规范？",
+                    "prompt": "当朋友想敲门而门其实虚掩着时，热情邀请对方‘门开着呢，请进！’中的‘呢’起到什么作用？",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (7.4.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (7.4.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (7.4.3)。"
+                        "加强状态提示与亲切语气 (Reinforces state notice with warm tone)",
+                        "表示强烈否定",
+                        "表示提问"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "开着呢 warmly confirms the persisting open state."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「动态助词：着与持续态 (Durative Aspect Marker 着)」语用情境与完整句式的选项（练习 4）：",
+                    "prompt": "询问房间里的空调是否保持开着的状态，最标准地道的正反问句是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (7.4.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (7.4.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (7.4.3)。"
+                        "空调开着没有？ (Kōngtiáo kāizhe méiyǒu?)",
+                        "空调了开没有？",
+                        "开空调在不？"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "动词 + 着 + 没有？ is the standard durative inquiry formula."
                 }
             ]
         },
@@ -3716,85 +3755,94 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「持续态动词后着 (Durative Aspect Marker 着)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 7-4）？",
+                    "prompt": "句子‘大卫正听着中文录音呢’表达的情境是：",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (7.4.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (7.4.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (7.4.3)。"
+                        "大卫正处于听中文录音的生动持续动作中 (David is actively listening to Chinese recordings)",
+                        "大卫从不听录音",
+                        "录音已经播放完毕"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "正听着...呢 highlights the active ongoing listening action."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («坐着_7_4»):",
+                    "prompt": "Type the Hanzi for the modal particle 'ne' (呢):",
                     "acceptedAnswers": [
-                        "坐着_7_4"
+                        "呢",
+                        "ne",
+                        "Ne"
                     ],
-                    "explanation": "The target keyword was: 【坐着_7_4】"
+                    "explanation": "呢 (ne) is the modal particle indicating ongoing action or soft mood."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u7-l5": {
         "id": "zh-u7-l5",
-        "subject": "mandarin",
-        "unit": 7,
-        "lessonNumber": 5,
-        "title": "动态助词：着与持续态 (Durative Aspect Marker 着) (Part 5)",
+        "unit": "zh-u7",
         "level": "A2",
-        "objective": "Comprehensive mastery of 持续态动词后着 (Durative Aspect Marker 着).",
+        "objective": "Synthesize static postures with 着, existential scenery sentences, accompanying action (V1着V2), and emphatic 呢 into a descriptive narrative and natural communicative dialogue.",
+        "prerequisites": [
+            "zh-u7-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u7-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「动态助词：着与持续态 (Durative Aspect Marker 着)」（第5部分）的核心句法结构与持续态动词后着 (Durative Aspect Marker 着)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在本课中，我们将系统整合第七单元的所有持续态句型，实现静态描写与动态交际的高阶融合。\n\n1. 持续态全景矩阵 (Master Matrix of Durative 着):\n- **静态存在 (Existential)**：桌上放着书，墙上挂着画，门开着。\n- **动作伴随 (Manner)**：老师微笑着讲课，我们坐着认真听。\n- **否定表达 (Negative)**：窗户没关着，他没戴着帽子。\n- **语气强化 (Emphatic)**：外面正下着雨呢，大家都在教室里等着呢。\n\n2. 第七单元综合交际实战 (Unit 7 Integrated Synthesis Dialogue):\n- 描写一个具体场景（如大学校园、图书馆或咖啡馆），生动描绘人物的衣着、姿势、伴随动作以及周围环境的持续状态。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (7.5.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "阳光明媚的下午，图书馆里坐着很多同学，大家都在安静地看着书、写着作业。",
+                    "reading": "Yángguāng míngmèi de xiàwǔ, túshūguǎn lǐ zuòzhe hěn duō tóngxué, dàjiā dōu zài ānjìng de kànzhe shū, xiězhe zuòyè.",
+                    "translation": "On a bright sunny afternoon, many students are sitting in the library, all quietly reading books and doing homework."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (7.5.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "张华：你看，前面站着的那位戴着眼镜、穿着西装的男士是谁？ 李明：那是我们的系主任王教授！",
+                    "reading": "Zhāng Huá: Nǐ kàn, qiánmiàn zhànzhe de nà wèi dàizhe yǎnjìng, chuānzhe xīzhuāng de nánshì shì shéi? Lǐ Míng: Nà shì wǒmen de xì zhǔrèn Wáng jiàoshòu!",
+                    "translation": "Zhang Hua: Look, who is that gentleman standing in front wearing glasses and a suit? Li Ming: That is our department chair, Professor Wang!"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (7.5.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "窗外正飘着雪花，咖啡馆里放着轻松的音乐，客人们一边喝着热咖啡，一边微笑着聊天。",
+                    "reading": "Chuāngwài zhèng piāozhe xuěhuā, kāfēiguǎn lǐ fàngzhe qīngsōng de yīnyuè, kèrénmen yìbiān hēzhe rè kāfēi, yìbiān wēixiàozhe liáotiān.",
+                    "translation": "Outside snowflakes are drifting, relaxing music is playing in the cafe, and guests are drinking hot coffee while chatting with smiles."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 持续态动词后着 (Durative Aspect Marker 着)"
+                "Master of 着: Posture (坐着), Scene (放着), Manner (笑着说), Emphatic (下着雨呢)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "The aesthetic of Chinese literary description deeply prizes the contrast between dynamic motion (动) and tranquil stillness (静), perfectly articulated through the subtle use of the durative marker 着."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「持续态动词后着 (Durative Aspect Marker 着)」在第5小节中的标准汉语语法规范？",
+                    "prompt": "句子‘咖啡馆里放着音乐，客人微笑着喝咖啡’中，‘放着’和‘微笑着’分别体现了什么语法功能？",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (7.5.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (7.5.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (7.5.3)。"
+                        "‘放着’表示环境静态存在，‘微笑着’表示伴随动作方式 (Existential state & accompanying manner)",
+                        "都是过去完成时",
+                        "都是否定句"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "放着 depicts the background existential state; 微笑着 modifies the main action 喝咖啡."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「动态助词：着与持续态 (Durative Aspect Marker 着)」语用情境与完整句式的选项（练习 5）：",
+                    "prompt": "在描述人物外貌特征时，‘那位戴着眼镜、穿着红毛衣的女孩’中的‘戴着/穿着’表示：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (7.5.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (7.5.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (7.5.3)。"
+                        "她穿衣服的短暂动作瞬间",
+                        "衣着与配饰正处于穿戴中的持续状态 (Continuous state of wearing clothes/glasses)",
+                        "她打算明天买衣服"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "戴着/穿着 represents the continuous wearing state."
                 }
             ]
         },
@@ -3802,24 +3850,29 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「持续态动词后着 (Durative Aspect Marker 着)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 7-5）？",
+                    "prompt": "下列关于动态助词‘着’的核心语法特征，概括最准确的是：",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (7.5.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (7.5.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (7.5.3)。"
+                        "‘着’只能用于表示过去完成的事情",
+                        "‘着’主要表示动作或状态的持续（姿势、存在、伴随方式等）(Durative aspect marker for persisting state, posture, and manner)",
+                        "‘着’不能与动词连用"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "着 marks durative aspect: persisting state, existential setting, and accompanying manner."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («坐着_7_5»):",
+                    "prompt": "Type the Hanzi for 'to wear (clothes)' (穿):",
                     "acceptedAnswers": [
-                        "坐着_7_5"
+                        "穿",
+                        "chuan",
+                        "chuān",
+                        "Chuān",
+                        "Chuan"
                     ],
-                    "explanation": "The target keyword was: 【坐着_7_5】"
+                    "explanation": "穿 (chuān) means 'to wear (clothes)'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u8-l1": {
