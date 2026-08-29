@@ -7159,62 +7159,100 @@
     "hk-u14-l1": {
         "id": "hk-u14-l1",
         "subject": "cantonese",
-        "unit": 14,
-        "lessonNumber": 1,
-        "title": "比較句：貴過同最靚 (Comparatives) (Part 1)",
+        "unit": "hk-u14",
         "level": "B1",
-        "objective": "Comprehensive mastery of 比較句式過同最 (Comparatives: 貴過/最靚).",
+        "objective": "Master the canonical post-adjectival comparative structure [A + Adj + 過 gwo3 + B] and specific numerical/degree differentials (貴過, 平過, 快過, 貴好多, 平五十蚊).",
+        "prerequisites": [
+            "hk-u13-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u13-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（比較句式過同最 (Comparatives: 貴過/最靚) - 第1部分）入面，我哋會探討廣東話嘅核心語用語境同埋比較句式過同最 (Comparatives: 貴過/最靚)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "廣東話嘅比較句結構同普通話、英文有好大嘅分別，千祈唔好照字面直譯！喺廣東話口語入面，表達「A 比 B 更……」嘅標準句式係「**A + 形容詞 + 過 (gwo3) + B**」——比較標記「過」係**擺喺形容詞後面**嘅！\n\n### ⚖️ 1. 核心比較句型：[A + 形容詞 + 過 + B]：\n- **基本結構**：A + 形容詞 + **過 (gwo3)** + B\n  - 例如：搭港鐵**快過 (faai3 gwo3)** 搭巴士。(Taking MTR is faster than taking a bus.)\n  - 例如：呢間舖頭啲衫**平過 (peng4 gwo3)** 嗰間。(Clothes in this shop are cheaper than that one.)\n  - 例如：佢年紀**大過 (daai6 gwo3)** 我。(He is older than me.)\n- 💡 **防錯警示**：千祈唔好講「*A 比 B 貴*」，雖然聽得明，但喺廣東話口語入面極之唔地道，聽落好似書面語或者教科書翻譯。\n\n### 📏 2. 加上差額與程度差別：[A + 形容詞 + 過 + B + 差額 / 好多 / 啲]：\n- 如果想指出具體差幾多或者程度差距，將差額直接擺喺句尾：\n  - **A + 形容詞 + 過 + B + 具體金額/數量**：\n    - 呢個套餐**貴過**嗰個**二十蚊**。(This set is $20 more expensive than that one.)\n  - **A + 形容詞 + 過 + B + 好多 (hou2 do1) / 啲 (di1)**：\n    - 今日嘅氣溫**凍過**琴日**好多**。(Today's temperature is much colder than yesterday's.)\n    - 呢部相機**輕過**舊款**少少**。(This camera is a little bit lighter than the old model.)",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (14.1.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "搭港鐵去中環快過搭巴士好多，而且唔會塞車。",
+                    "reading": "Daap3 gong2 tit3 heoi3 zung1 waan4 faai3 gwo3 daap3 baa1 si2 hou2 do1, ji4 ce2 m4 wui5 sak1 ce1.",
+                    "translation": "Taking the MTR to Central is much faster than taking the bus, and there are no traffic jams."
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (14.1.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "呢部平板電腦平過嗰部成一千蚊，性價比好高！",
+                    "reading": "Ni1 bou6 ping4 baan2 din6 nou5 peng4 gwo3 go2 bou6 seng4 jat1 cin1 man1, sing3 gaa3 bei2 hou2 gou1!",
+                    "translation": "This tablet is a whole $1,000 cheaper than that one; the price-performance ratio is very high!"
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (14.1.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "佢跑步快過我少少，但係游水就我勁過佢。",
+                    "reading": "Keoi5 paau2 bou6 faai3 gwo3 ngo5 siu2 siu2, daan6 hai6 jau4 seoi2 zau6 ngo5 ging6 gwo3 keoi5.",
+                    "translation": "He runs a little faster than me, but when it comes to swimming I am better than him."
+                },
+                {
+                    "target": "呢間茶餐廳嘅蛋撻好食過出面好多名牌連鎖店。",
+                    "reading": "Ni1 gaan1 caa4 caan1 teng1 ge3 daan6 taat1 hou2 sik6 gwo3 ceot1 min6 hou2 do1 meng4 paai4 lin4 so2 dim3.",
+                    "translation": "The egg tarts at this tea restaurant are tastier than many famous brand chain stores outside."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 比較句式過同最 (Comparatives: 貴過/最靚)"
+                "Cantonese Comparative Golden Rule: Adjective FIRST, then 過 (gwo3)! [快過 faai3 gwo3, 貴過 gwai3 gwo3, 平過 peng4 gwo3]!",
+                "Differentials go to the caboose: Put exact numbers or '好多' at the very end of the sentence (貴過佢五十蚊)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "Hong Kong Commuting Wisdom: In conversation about Hong Kong transport, comparing routes with '快過 (faai3 gwo3)' and '平過 (peng4 gwo3)' is daily bread due to the dense network of MTR, double-decker buses, minibuses, and ferries.",
+                "Shopping Bargains: When comparing markets or electronics stores in Sham Shui Po (深水埗), asking '呢度有冇平過出面？' is the quintessential smart shopper phrase."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「比較句式過同最 (Comparatives: 貴過/最靚)」喺第1節嘅地道廣東話表達？",
+                    "prompt": "想表達「搭地鐵比搭巴士更快」，最純正地道嘅廣東話句式係：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (14.1.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (14.1.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (14.1.3)。"
+                        "搭地鐵快過搭巴士 (daap3 dei6 tit3 faai3 gwo3 daap3 baa1 si2)",
+                        "搭地鐵比搭巴士快",
+                        "搭地鐵過巴士快",
+                        "搭地鐵快搭巴士"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "廣東話標準比較句為 [A + 形容詞 + 過 + B] (快過)."
+                },
+                {
+                    "prompt": "想表達「這件衣服比那件便宜五十元」，差額「五十蚊」應該擺喺邊個位置？",
+                    "options": [
+                        "件衫五十蚊平過嗰件",
+                        "件衫平過嗰件五十蚊 (peng4 gwo3 go2 gin6 ng5 sap6 man1)",
+                        "五十蚊件衫平過嗰件",
+                        "件衫平五十蚊過嗰件"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "具體差額擺喺 [A + 形容詞 + 過 + B] 嘅最尾端。"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「比較句：貴過同最靚 (Comparatives)」語境嘅廣東話完整句子（練習 1）：",
+                    "prompt": "句子「今日嘅天氣熱過琴日好多」表達嘅意思係：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (14.1.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (14.1.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (14.1.3)。"
+                        "今天和昨天一樣熱",
+                        "今天的天氣比昨天熱得多 (Today is much hotter than yesterday)",
+                        "今天沒有昨天熱",
+                        "昨天比今天熱"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "熱過...好多 表示熱得多。"
+                },
+                {
+                    "prompt": "點樣用廣東話講「哥哥年紀比我大三歲」？",
+                    "options": [
+                        "哥哥大過我三歲 (go4 go1 daai6 gwo3 ngo5 saam1 seoi3)",
+                        "哥哥比我大三歲",
+                        "哥哥三大過我歲",
+                        "哥哥過我大三歲"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "大過我三歲符合 [形容詞 + 過 + 對象 + 差額] 規則。"
                 }
             ]
         },
@@ -7222,85 +7260,127 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「比較句式過同最 (Comparatives: 貴過/最靚)」嘅日常商務與生活習慣（考核 14-1）？",
+                    "prompt": "關於廣東話「過 (gwo3)」比較句，下列邊一項說明完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (14.1.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (14.1.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (14.1.3)。"
+                        "「過」字必須擺在形容詞前面（比字句型）",
+                        "「過」字必須緊跟在形容詞後面，構成「A + 形容詞 + 過 + B」（如貴過、快過）",
+                        "廣東話不能進行物品比較",
+                        "「過」字只能用於表示過去完成"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "形容詞在前，過在後是粵語比較句鐵律。"
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («貴過_14_1»):",
+                    "prompt": "Type the 2-character Hanzi for 'more expensive than' in Cantonese (貴過):",
                     "acceptedAnswers": [
-                        "貴過_14_1"
+                        "貴過",
+                        "gwai3 gwo3",
+                        "gwai3gwo3"
                     ],
-                    "explanation": "The target keyword was: 【貴過_14_1】"
+                    "explanation": "貴過 (gwai3 gwo3) means 'more expensive than'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u14-l2": {
         "id": "hk-u14-l2",
         "subject": "cantonese",
-        "unit": 14,
-        "lessonNumber": 2,
-        "title": "比較句：貴過同最靚 (Comparatives) (Part 2)",
+        "unit": "hk-u14",
         "level": "B1",
-        "objective": "Comprehensive mastery of 比較句式過同最 (Comparatives: 貴過/最靚).",
+        "objective": "Master incremental comparatives using 仲 (zung6 - even more / even) with and without explicit comparison targets (仲平, 仲好食, 仲快過佢).",
+        "prerequisites": [
+            "hk-u14-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u14-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（比較句式過同最 (Comparatives: 貴過/最靚) - 第2部分）入面，我哋會探討廣東話嘅核心語用語境同埋比較句式過同最 (Comparatives: 貴過/最靚)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "當你想喺現有嘅基礎上再進一步強調「更加、甚至更……」嘅時候，廣東話最強大嘅副詞就係 **仲 (zung6)**！\n\n### 🚀 1. 單獨使用：[仲 (zung6) + 形容詞]（Even more...）：\n- 用於兩者對比，表示後者比前者「更加……」：\n  - 呢間舖頭啲嘢已經好平，但係對面嗰間**仲平 (zung6 peng4)**！(Items in this shop are already cheap, but the opposite one is even cheaper!)\n  - 飲熱奶茶好飲，但係凍奶茶**仲正 (zung6 zeng3)**！(Hot milk tea is good, but iced milk tea is even better!)\n\n### 🏎️ 2. 結合「過 (gwo3)」句型：[仲 + 形容詞 + 過 + B]（Even more Adj than B）：\n- 當同時明確講出比較對象嗰陣，將「仲」擺喺形容詞前面，「過」擺喺後面：\n  - 佢行路**仲快過 (zung6 faai3 gwo3)** 跑。(He walks even faster than running.)\n  - 今日嘅氣溫**仲凍過 (zung6 dung3 gwo3)** 琴日添！(Today's temperature is even colder than yesterday's!)\n  - 呢部新相機嘅畫質**仲靚過 (zung6 leng3 gwo3)** 舊年嗰部旗艦機。(This new camera's picture quality is even nicer than last year's flagship.)",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (14.2.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "A套餐已經好抵食，但係B套餐仲平十蚊添！",
+                    "reading": "A tou3 caan1 ji5 ging1 hou2 dai2 sik6, daan6 hai6 B tou3 caan1 zung6 peng4 sap6 man1 tim1!",
+                    "translation": "Set A is already great value, but Set B is even cheaper by $10!"
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (14.2.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "陳生做嘢好勤力，但係張小姐仲勤力過佢。",
+                    "reading": "Can4 saang1 zou6 je5 hou2 kan4 lik6, daan6 hai6 Zoeng1 siu2 ze2 zung6 kan4 lik6 gwo3 keoi5.",
+                    "translation": "Mr. Chan works very diligently, but Ms. Cheung is even more diligent than him."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (14.2.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "呢度啲芒果糯米糍仲好食過我喺泰國食嗰啲！",
+                    "reading": "Ni1 dou6 di1 mong1 gwo2 no6 mai5 ci4 zung6 hou2 sik6 gwo3 ngo5 hai2 Taai3 gwok3 sik6 go2 di1!",
+                    "translation": "The mango mochi here is even tastier than what I ate in Thailand!"
+                },
+                {
+                    "target": "條路咁塞車，我哋行路過去仲快過搭的士啦。",
+                    "reading": "Tiu4 lou6 gam3 sak1 ce1, ngo5 dei6 haang4 lou6 gwo3 heoi3 zung6 faai3 gwo3 daap3 dik1 si2 laa1.",
+                    "translation": "With the road so congested, walking over is even faster than taking a taxi."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 比較句式過同最 (Comparatives: 貴過/最靚)"
+                "仲 (zung6) = 'Even': Think of '仲' as the booster rocket placed right before the adjective (仲平 zung6 peng4, 仲好 zung6 hou2, 仲快過 zung6 faai3 gwo3)!",
+                "Formula: [仲 + Adj + 過 + Target] = Even more Adj than Target."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "Food Recommendations in Hong Kong: Foodies (吃貨) frequently use '仲好食 (zung6 hou2 sik6)' and '仲抵 (zung6 dai2)' when recommending hidden gem eateries in neighborhood alleyways.",
+                "Efficiency Culture: '行路仲快過搭車' is a famous Hong Kong reality during peak rush hour traffic in Central or Causeway Bay."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「比較句式過同最 (Comparatives: 貴過/最靚)」喺第2節嘅地道廣東話表達？",
+                    "prompt": "想表達「這家店的點心比那家甚至更好吃」，最恰當嘅廣東話係：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (14.2.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (14.2.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (14.2.3)。"
+                        "呢間舖頭啲點心仲好食過嗰間 (zung6 hou2 sik6 gwo3 go2 gaan1)",
+                        "呢間舖頭啲點心也很好吃",
+                        "呢間舖頭啲點心沒有那間好吃",
+                        "呢間舖頭啲點心最難吃"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "仲好食過... 精準表達「甚至比...更好吃」。"
+                },
+                {
+                    "prompt": "副詞「仲 (zung6)」擺喺形容詞前面時嘅核心意思係：",
+                    "options": [
+                        "完全不",
+                        "更加、甚至更…… (even / even more)",
+                        "只有一點點",
+                        "曾經"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "仲 (zung6) 用於遞進比較，表示「更加/甚至更」。"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「比較句：貴過同最靚 (Comparatives)」語境嘅廣東話完整句子（練習 2）：",
+                    "prompt": "塞車時感嘆「行路仲快過搭的士」，意思係：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (14.2.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (14.2.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (14.2.3)。"
+                        "的士速度極快",
+                        "步行前往比搭的士還要更快 (Walking is even faster than taxi)",
+                        "不能走路",
+                        "找不到的士"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "仲快過搭的士表示步行甚至比坐車更快。"
+                },
+                {
+                    "prompt": "句子「今日嘅天氣仲熱過琴日添！」入面嘅「仲...添」起到咩修辭效果？",
+                    "options": [
+                        "強調今日氣溫比昨日更上一層樓嘅酷熱程度 (Even hotter on top of that)",
+                        "表示今天天氣轉涼",
+                        "表示今天下雪了",
+                        "表示明天不用上班"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "仲...添 強化遞進對比與感嘆。"
                 }
             ]
         },
@@ -7308,85 +7388,127 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「比較句式過同最 (Comparatives: 貴過/最靚)」嘅日常商務與生活習慣（考核 14-2）？",
+                    "prompt": "廣東話「仲平過嗰間十蚊」嘅完整語法分析係：",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (14.2.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (14.2.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (14.2.3)。"
+                        "仲（更加）+ 平（形容詞）+ 過（比較標記）+ 嗰間（比較對象）+ 十蚊（差額）",
+                        "這是一個否定句",
+                        "平字擺錯了位置",
+                        "十蚊是主語"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "標準遞進比較句結構分析。"
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («貴過_14_2»):",
+                    "prompt": "Type the 2-character Hanzi for 'even cheaper' in Cantonese (仲平):",
                     "acceptedAnswers": [
-                        "貴過_14_2"
+                        "仲平",
+                        "zung6 peng4",
+                        "zung6peng4"
                     ],
-                    "explanation": "The target keyword was: 【貴過_14_2】"
+                    "explanation": "仲平 (zung6 peng4) means 'even cheaper'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u14-l3": {
         "id": "hk-u14-l3",
         "subject": "cantonese",
-        "unit": 14,
-        "lessonNumber": 3,
-        "title": "比較句：貴過同最靚 (Comparatives) (Part 3)",
+        "unit": "hk-u14",
         "level": "B1",
-        "objective": "Comprehensive mastery of 比較句式過同最 (Comparatives: 貴過/最靚).",
+        "objective": "Master equative comparisons with 同...一樣 (as... as) and negative inequality with 冇...咁 (not as... as).",
+        "prerequisites": [
+            "hk-u14-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u14-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（比較句式過同最 (Comparatives: 貴過/最靚) - 第3部分）入面，我哋會探討廣東話嘅核心語用語境同埋比較句式過同最 (Comparatives: 貴過/最靚)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "除咗「高過/貴過」呢類差別比較，日常生活中極度常用嘅仲有**同等比較（As... as）** 同埋 **否定不等比較（Not as... as）**。\n\n### 🤝 1. 同等比較句型：[A + 同 (tung4) + B + 一樣 (jat1 joeng6) + (咁 gam3 + 形容詞)]：\n- 表示 A 同 B 喺某方面**程度完全相同**（As ... as / The same）：\n  - **A 同 B 一樣**（兩者相同）：呢兩件衫價錢**一樣**。(These two shirts have the same price.)\n  - **A 同 B 一樣 + 咁 (gam3) + 形容詞**：\n    - 佢細佬同佢**一樣咁高**。(His younger brother is just as tall as him.)\n    - 呢間舖頭同嗰間**一樣咁好食**。(This shop is just as delicious as that one.)\n\n### ❌ 2. 否定不等比較句型：[A + 冇 (mou5) + B + 咁 (gam3) + 形容詞]：\n- 相當於英文 \"A is not as [Adj] as B\"（普通話「A 沒有 B 那麼……」）：\n  - **巴士冇港鐵咁快**。(Buses are not as fast as the MTR.)\n  - **今日冇琴日咁凍**。(Today is not as cold as yesterday.)\n  - **呢度啲海鮮冇西貢咁平**。(The seafood here is not as cheap as in Sai Kung.)\n- 💡 喺廣東話入面，極少用「*唔似*」或者「*不比*」，口語中**99%都係用「冇...咁... (mou5...gam3...)」**！",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (14.3.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "佢兩個孖生兄弟生得一模一樣，身型同面相都一樣咁似。",
+                    "reading": "Keoi5 loeng5 go3 maa1 sang1 hing1 dai6 saang1 dak1 jat1 mou4 jat1 joeng6, san1 jing4 tung4 min6 soeng3 dou1 jat1 joeng6 gam3 ci5.",
+                    "translation": "The two twin brothers look identical, having the exact same build and facial appearance."
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (14.3.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "搭小巴冇搭港鐵咁方便，因為有時要排隊等車。",
+                    "reading": "Daap3 siu2 baa1 mou5 daap3 gong2 tit3 gam3 fong1 bin6, jan1 wai6 jau5 si4 jiu3 paai4 deoi2 dang2 ce1.",
+                    "translation": "Taking a minibus is not as convenient as taking the MTR, because sometimes you have to queue for a van."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (14.3.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "呢杯無糖奶茶同普通奶茶一樣咁香濃，但係健康好多！",
+                    "reading": "Ni1 bui1 mou4 tong4 naai5 caa4 tung4 pou2 tung1 naai5 caa4 jat1 joeng6 gam3 hoeng1 nung4, daan6 hai6 gin6 hong1 hou2 do1!",
+                    "translation": "This sugar-free milk tea is just as rich and fragrant as regular milk tea, but much healthier!"
+                },
+                {
+                    "target": "我部舊手機冇新機咁順暢，用得耐會卡卡地。",
+                    "reading": "Ngo5 bou6 gau6 sau2 gei1 mou5 san1 gei1 gam3 seon6 coeng3, jung6 dak1 noi6 wui5 kaa1 kaa2 dei2.",
+                    "translation": "My old phone is not as smooth as the new phone; after prolonged use it lags slightly."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 比較句式過同最 (Comparatives: 貴過/最靚)"
+                "Equal = 同...一樣咁 (tung4...jat1 joeng6 gam3 + Adj) — like two balanced weights on a scale!",
+                "Less than = 冇...咁 (mou5...gam3 + Adj) — literally 'has not reached that level of Adj'!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "Sai Kung Seafood Landmark: In Hong Kong culinary comparisons, '冇西貢咁平 / 冇鯉魚門咁新鮮' references iconic seafood dining destinations (Sai Kung and Lei Yue Mun).",
+                "Polite Disagreement with '冇...咁': Saying '冇嗰個咁好 (not as good as that one)' is a polite, indirect way to critique without sounding harsh."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「比較句式過同最 (Comparatives: 貴過/最靚)」喺第3節嘅地道廣東話表達？",
+                    "prompt": "想表達「這部手提電腦和那部一樣輕」，最地道嘅廣東話係：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (14.3.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (14.3.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (14.3.3)。"
+                        "呢部電腦同嗰部一樣咁輕 (tung4 go2 bou6 jat1 joeng6 gam3 heng1)",
+                        "呢部電腦像那部輕",
+                        "呢部電腦比那部一樣",
+                        "呢部電腦輕同嗰部"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "[A + 同 + B + 一樣咁 + 形容詞] 係同等比較標準句式。"
+                },
+                {
+                    "prompt": "想表達「搭巴士沒有搭地鐵那麼快（not as fast as）」，應選用邊個句型？",
+                    "options": [
+                        "搭巴士快過搭地鐵",
+                        "搭巴士冇搭地鐵咁快 (mou5 daap3 dei6 tit3 gam3 faai3)",
+                        "搭巴士同搭地鐵一樣快",
+                        "搭巴士最快"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "[A + 冇 + B + 咁 + 形容詞] 表示「A 不如 B 那麼……」。"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「比較句：貴過同最靚 (Comparatives)」語境嘅廣東話完整句子（練習 3）：",
+                    "prompt": "句子「今日嘅天氣冇琴日咁凍」表示：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (14.3.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (14.3.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (14.3.3)。"
+                        "今天比昨天更冷",
+                        "今天沒有昨天那麼冷（天氣回暖了一點）",
+                        "今天和昨天一樣冷",
+                        "今天下大雪了"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "冇...咁凍 表示不如昨天冷。"
+                },
+                {
+                    "prompt": "稱讚兩位同事「工作表現一樣咁優秀」，最合適嘅廣東話表達係：",
+                    "options": [
+                        "佢哋兩個做嘢一樣咁出色 (jat1 joeng6 gam3 ceot1 sik1)",
+                        "佢哋兩個都唔識做嘢",
+                        "A 做嘢好過 B 好多",
+                        "B 做嘢好過 A 好多"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "一樣咁出色表達同等高度優秀。"
                 }
             ]
         },
@@ -7394,85 +7516,127 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「比較句式過同最 (Comparatives: 貴過/最靚)」嘅日常商務與生活習慣（考核 14-3）？",
+                    "prompt": "在廣東話中，否定比較「A不如B那麼漂亮」的標準句式是：",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (14.3.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (14.3.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (14.3.3)。"
+                        "A 唔似 B 咁靚",
+                        "A 冇 B 咁靚 (A mou5 B gam3 leng3)",
+                        "A 不比 B 靚",
+                        "A 冇 B 靚過"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "[A 冇 B 咁 + Adj] 是粵語絕對優勢口語句型。"
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («貴過_14_3»):",
+                    "prompt": "Type the 4-character Hanzi for 'just as delicious' in Cantonese (一樣咁好食):",
                     "acceptedAnswers": [
-                        "貴過_14_3"
+                        "一樣咁好食",
+                        "jat1 joeng6 gam3 hou2 sik6",
+                        "jat1joeng6gam3hou2sik6"
                     ],
-                    "explanation": "The target keyword was: 【貴過_14_3】"
+                    "explanation": "一樣咁好食 (jat1 joeng6 gam3 hou2 sik6) means 'just as delicious'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u14-l4": {
         "id": "hk-u14-l4",
         "subject": "cantonese",
-        "unit": 14,
-        "lessonNumber": 4,
-        "title": "比較句：貴過同最靚 (Comparatives) (Part 4)",
+        "unit": "hk-u14",
         "level": "B1",
-        "objective": "Comprehensive mastery of 比較句式過同最 (Comparatives: 貴過/最靚).",
+        "objective": "Master superlative expressions with 最 (zeoi3), top rankings (數一數二 sou2 jat1 sou2 ji6), and comparative extremes in quality and preference.",
+        "prerequisites": [
+            "hk-u14-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u14-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（比較句式過同最 (Comparatives: 貴過/最靚) - 第4部分）入面，我哋會探討廣東話嘅核心語用語境同埋比較句式過同最 (Comparatives: 貴過/最靚)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "當比較嘅範圍擴大到全體或者群體之冠，我哋就會用到**最高級（Superlatives）**！廣東話入面表達「最……」除咗經典嘅 **最 (zeoi3)**，仲有好多地道嘅頂級評價詞彙。\n\n### 🏆 1. 核心最高級：[最 (zeoi3) + 形容詞]：\n- **基本結構**：直接喺形容詞前面加上「最 (zeoi3)」：\n  - **最靚 (zeoi3 leng3)**：最漂亮 / 最優質。\n  - **最平 (zeoi3 peng4)**：最便宜。\n  - **最正 (zeoi3 zeng3)**：最棒、最頂級、最正宗。\n  - **最抵食 (zeoi3 dai2 sik6)**：性價比最高、最划算。\n- **限定範圍**：通常加喺前面或後面：\n  - **全香港最出名 (cyun4 hoeng1 gong2 zeoi3 ceot1 meng2)**：Most famous in all of Hong Kong。\n  - **全公司做得最好 (cyun4 gung1 si1 zou6 dak1 zeoi3 hou2)**：Best performer in the entire company。\n\n### 🥇 2. 地道頂級排名表達法：\n- **數一數二 (sou2 jat1 sou2 ji6)**：屈指一數排第一或第二，頂尖級別。\n  - 例如：呢間酒樓嘅燒鵝喺香港**數一數二**！(The roast goose here is among the top 1 or 2 in Hong Kong!)\n- **頂級 (ding2 kap1) / 一流 (jat1 lau4)**：最高品質。\n  - 例如：呢度嘅服務同水準真係**一流**！(The service and standard here are truly first-class!)",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (14.4.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "呢間老字號茶餐廳嘅菠蘿油同絲襪奶茶係全香港最正嘅！",
+                    "reading": "Ni1 gaan1 lou5 zi6 hou6 caa4 caan1 teng1 ge3 bo1 lo4 jau4 tung4 si1 mat6 naai5 caa4 hai6 cyun4 hoeng1 gong2 zeoi3 zeng3 ge3!",
+                    "translation": "The pineapple bun with butter and silk-stocking milk tea at this heritage cha chaan teng are the best in all of Hong Kong!"
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (14.4.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "深水埗呢間電器舖啲配件全場最平，好多人都專程過嚟買。",
+                    "reading": "Sam1 seoi2 bou2 ni1 gaan1 din6 hei3 pou3 di1 pui3 gin2 cyun4 coeng4 zeoi3 peng4, hou2 do1 jan4 dou1 zyun1 cing4 gwo3 lai4 maai5.",
+                    "translation": "The accessories at this Sham Shui Po electronics shop are the cheapest storewide; many people make a special trip here to buy."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (14.4.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "佢嘅廣東話發音喺全班同學入面數一數二咁標準。",
+                    "reading": "Keoi5 ge3 gong2 dung1 waa2 faat3 jam1 hai2 cyun4 baan1 tung4 hok6 jap6 min6 sou2 jat1 sou2 ji6 gam3 biu1 zeon2.",
+                    "translation": "His Cantonese pronunciation is among the top one or two most standard in the entire class."
+                },
+                {
+                    "target": "健康永遠係人生最重要嘅財富，賺幾多錢都比唔上。",
+                    "reading": "Gin6 hong1 wing5 jyun5 hai6 jan4 sang1 zeoi3 zung6 jiu3 ge3 coi4 fu3, zaan6 gei2 do1 cin2 dou1 bei2 m4 soeng5.",
+                    "translation": "Health is forever the most important wealth in life; no amount of money earned can compare."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 比較句式過同最 (Comparatives: 貴過/最靚)"
+                "最 (zeoi3) = The Absolute #1: zeoi3 zeng3 (the absolute best), zeoi3 peng4 (the cheapest), zeoi3 leng3 (the prettiest)!",
+                "數一數二 (sou2 jat1 sou2 ji6): Count on fingers 1 and 2 — representing undisputed elite status!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "The Word '正 (zeng3)': In Hong Kong culture, '正 (zeng3)' is the ultimate colloquial compliment covering taste, aesthetics, atmosphere, and coolness. Calling something '最正' is the highest accolade.",
+                "Michelin & Street Food: Street food stalls often advertise '全港最平最抵食' on banners to attract local food lovers."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「比較句式過同最 (Comparatives: 貴過/最靚)」喺第4節嘅地道廣東話表達？",
+                    "prompt": "想稱讚一間舖頭嘅蛋撻係「全香港最好、最棒的（the absolute best in HK）」，應選用：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (14.4.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (14.4.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (14.4.3)。"
+                        "全香港最正嘅蛋撻 (cyun4 hoeng1 gong2 zeoi3 zeng3 ge3 daan6 taat1)",
+                        "全香港幾平嘅蛋撻",
+                        "全香港冇蛋撻",
+                        "全香港熱熱地嘅蛋撻"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "最正 (zeoi3 zeng3) 代表頂級、最好。"
+                },
+                {
+                    "prompt": "成語「數一數二 (sou2 jat1 sou2 ji6)」喺日常評價入面嘅意思係：",
+                    "options": [
+                        "數目只有一至兩個",
+                        "排名頂尖、名列前茅 (ranked top 1 or 2)",
+                        "算術能力很差",
+                        "倒數第一名"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "數一數二表示頂尖前茅。"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「比較句：貴過同最靚 (Comparatives)」語境嘅廣東話完整句子（練習 4）：",
+                    "prompt": "深水埗買電腦配件「全場最平」，「最平 (zeoi3 peng4)」嘅意思係：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (14.4.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (14.4.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (14.4.3)。"
+                        "價格最昂貴",
+                        "價格最便宜、划算 (the cheapest storewide)",
+                        "質量最差",
+                        "數量最多"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "最平 = 最便宜。"
+                },
+                {
+                    "prompt": "句子「健康係最重要嘅」入面嘅「最重要」體現咗邊種語法等級？",
+                    "options": [
+                        "最高級 (Superlative)",
+                        "比較級 (Comparative)",
+                        "平級 (Equative)",
+                        "否定級 (Negative)"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "最 (zeoi3) 構成最高級。"
                 }
             ]
         },
@@ -7480,85 +7644,128 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「比較句式過同最 (Comparatives: 貴過/最靚)」嘅日常商務與生活習慣（考核 14-4）？",
+                    "prompt": "在廣東話中，形容一間餐廳食物品質達到了「全港頂尖第一流」，最地道的讚譽是：",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (14.4.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (14.4.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (14.4.3)。"
+                        "啲嘢食普通極了",
+                        "水準一流，喺香港數一數二最正！ (First-class standard, top 1 or 2 best in HK)",
+                        "完全冇味道",
+                        "價錢貴到暈但唔好食"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "結合咗 一流、數一數二 同 最正。"
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («貴過_14_4»):",
+                    "prompt": "Type the 2-character Hanzi for 'the best / top-notch' in Cantonese (最正):",
                     "acceptedAnswers": [
-                        "貴過_14_4"
+                        "最正",
+                        "zeoi3 zeng3",
+                        "zeoi3zeng3"
                     ],
-                    "explanation": "The target keyword was: 【貴過_14_4】"
+                    "explanation": "最正 (zeoi3 zeng3) means 'the best / top-notch'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u14-l5": {
         "id": "hk-u14-l5",
         "subject": "cantonese",
-        "unit": 14,
-        "lessonNumber": 5,
-        "title": "比較句：貴過同最靚 (Comparatives) (Part 5)",
+        "unit": "hk-u14",
         "level": "B1",
-        "objective": "Comprehensive mastery of 比較句式過同最 (Comparatives: 貴過/最靚).",
+        "objective": "Synthesize 过 (gwo3), 仲 (zung6), 冇...咁 (mou5...gam3), 同...一樣 (tung4...jat1 joeng6), and 最 (zeoi3) in shopping comparisons, itinerary planning, and restaurant reviews.",
+        "prerequisites": [
+            "hk-u14-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u14-l1",
+                "hk-u14-l2",
+                "hk-u14-l3",
+                "hk-u14-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（比較句式過同最 (Comparatives: 貴過/最靚) - 第5部分）入面，我哋會探討廣東話嘅核心語用語境同埋比較句式過同最 (Comparatives: 貴過/最靚)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "喺呢個單元嘅綜合應用課入面，我哋會將 **差別比較 (貴過/快過)**、**遞進比較 (仲平/仲快過)**、**同等與否定比較 (同...一樣 / 冇...咁)** 以及 **最高級 (最正/最抵)** 融會貫通，應用喺真實嘅香港生活決策（選購電子產品、選擇交通路線、挑選餐廳）之中！\n\n### 📱 實用綜合決策對話示範：\n1. **買手機比較 (Gadget Shopping)**：\n   - 「A型號**貴過**B型號五百蚊，但係相機功能**仲靚過**佢好多。」\n   - 「C型號**冇**A型號**咁順暢**，不過價錢係全場**最平**嘅！」\n2. **交通出行選擇 (Transit Choices)**：\n   - 「搭港鐵**快過**搭巴士，但係巴士車費**平過**港鐵五蚊。」\n   - 「紅van（紅色小巴）行高速**仲快過**的士添，不過收費就**同**的士**差唔多一樣咁貴**！」\n3. **餐廳點評 (Dining Reviews)**：\n   - 「呢間老字號嘅乾炒牛河**好食過**出面好多酒樓，而且價錢**冇**中環**咁貴**，真係全區**最抵食**！」",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (14.5.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "A舖頭嘅海鮮平過B舖頭少少，但係B舖頭嘅龍蝦新鮮過A舖頭好多！",
+                    "reading": "A pou3 tau2 ge3 hoi2 sin1 peng4 gwo3 B pou3 tau2 siu2 siu2, daan6 hai6 B pou3 tau2 ge3 lung4 haa1 san1 sin1 gwo3 A pou3 tau2 hou2 do1!",
+                    "translation": "Shop A's seafood is a little cheaper than Shop B, but Shop B's lobster is much fresher than Shop A's!"
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (14.5.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "搭過海巴士冇搭港鐵咁快，但係坐得好舒服，仲平幾蚊添。",
+                    "reading": "Daap3 gwo3 hoi2 baa1 si2 mou5 daap3 gong2 tit3 gam3 faai3, daan6 hai6 co5 dak1 hou2 syu1 fuk6, zung6 peng4 gei2 man1 tim1.",
+                    "translation": "Taking the cross-harbour bus is not as fast as the MTR, but it's very comfortable to sit on, and even cheaper by a few dollars."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (14.5.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "呢兩部手提電腦外形同重量都一樣咁輕，不過呢部嘅電池耐用過嗰部好多。",
+                    "reading": "Ni1 loeng5 bou6 sau2 tai4 din6 nou5 ngoi6 jing4 tung4 zung6 loeng6 dou1 jat1 joeng6 gam3 heng1, bat1 gwo3 ni1 bou6 ge3 din6 ci4 noi6 jung6 gwo3 go2 bou6 hou2 do1.",
+                    "translation": "These two laptops have the same appearance and are just as light in weight, but this one's battery is much more durable than that one's."
+                },
+                {
+                    "target": "呢間茶餐廳嘅凍奶茶係全區數一數二最正嘅，大家都話好飲過出面名牌舖！",
+                    "reading": "Ni1 gaan1 caa4 caan1 teng1 ge3 dung3 naai5 caa4 hai6 cyun4 keoi1 sou2 jat1 sou2 ji6 zeoi3 zeng3 ge3, daai6 gaa1 dou1 waa6 hou2 jam2 gwo3 ceot1 min6 meng4 paai4 pou3!",
+                    "translation": "The iced milk tea at this tea restaurant is top 1 or 2 best in the entire district; everyone says it's tastier than big brand shops outside!"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 比較句式過同最 (Comparatives: 貴過/最靚)"
+                "Comparison Master Suite: [Adj + 過] (Comparative) → [仲 + Adj + 過] (Incremental) → [冇...咁] (Negative) → [同...一樣] (Equal) → [最 + Adj] (Superlative)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "Smart Consumer Culture in HK: Hong Kong consumers are fiercely discerning. Using comparative language like '平過', '仲抵食', '冇咁貴', and '最正' is the universal language of local shopping and dining wisdom."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「比較句式過同最 (Comparatives: 貴過/最靚)」喺第5節嘅地道廣東話表達？",
+                    "prompt": "想全面比較兩條路線「搭巴士比搭地鐵便宜（平過），但沒有地鐵那麼快（冇咁快）」，最地道嘅廣東話係：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (14.5.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (14.5.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (14.5.3)。"
+                        "搭巴士平過搭地鐵，但係冇地鐵咁快 (peng4 gwo3 daap3 dei6 tit3, daan6 hai6 mou5 dei6 tit3 gam3 faai3)",
+                        "搭巴士比地鐵便宜，沒有地鐵快",
+                        "搭巴士過地鐵平，地鐵快過巴士冇",
+                        "巴士地鐵一樣快一樣平"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "完美融合「平過」與「冇...咁快」兩種核心比較句式。"
+                },
+                {
+                    "prompt": "當你想總結一間餐廳是「全區最划算、最好吃（最抵食、最正）」時，應話：",
+                    "options": [
+                        "呢間餐廳係全區最抵食、最正嘅！",
+                        "呢間餐廳難食過出面",
+                        "呢間餐廳冇人去食",
+                        "呢間餐廳貴到爆但好難食"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "最抵食與最正精準表達最高級讚譽。"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「比較句：貴過同最靚 (Comparatives)」語境嘅廣東話完整句子（練習 5）：",
+                    "prompt": "句子「呢部新手機畫質靚過舊機好多，而且重量同舊機一樣咁輕」展示咗邊兩種比較句？",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (14.5.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (14.5.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (14.5.3)。"
+                        "差別比較（靚過...好多）與同等比較（同...一樣咁輕）",
+                        "只有否定比較",
+                        "只有最高級",
+                        "沒有任何比較"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "結合咗 [Adj + 過 + 好多] 同 [同...一樣咁 + Adj]。"
+                },
+                {
+                    "prompt": "喺挑選商品時，表示「這個雖然便宜，但對面那家甚至更便宜（仲平）」，「仲 (zung6)」嘅作用係：",
+                    "options": [
+                        "表示遞進比較（even cheaper）",
+                        "表示否定",
+                        "表示過去時態",
+                        "表示問句"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "仲表遞進比較。"
                 }
             ]
         },
@@ -7566,24 +7773,28 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「比較句式過同最 (Comparatives: 貴過/最靚)」嘅日常商務與生活習慣（考核 14-5）？",
+                    "prompt": "下列邊一句廣東話最完整、最地道咁展示咗「多維度比較與消費決策」？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (14.5.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (14.5.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (14.5.3)。"
+                        "呢間茶餐廳嘅奶茶好飲過出面，價錢冇中環咁貴，仲要係全區最正添！",
+                        "今天我去中環買了一本書",
+                        "他在房間裡面看電視",
+                        "這部電腦可以開機"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "融合咗 好飲過、冇...咁貴、仲要係、最正添 等全部單元精華。"
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («貴過_14_5»):",
+                    "prompt": "Type the 4-character Hanzi for 'best value to eat / most cost-effective food' in Cantonese (最抵食):",
                     "acceptedAnswers": [
-                        "貴過_14_5"
+                        "最抵食",
+                        "zeoi3 dai2 sik6",
+                        "zeoi3dai2sik6"
                     ],
-                    "explanation": "The target keyword was: 【貴過_14_5】"
+                    "explanation": "最抵食 (zeoi3 dai2 sik6) means 'best value to eat / most cost-effective food'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u15-l1": {
