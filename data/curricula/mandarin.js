@@ -6809,63 +6809,69 @@
     },
     "zh-u14-l1": {
         "id": "zh-u14-l1",
-        "subject": "mandarin",
-        "unit": 14,
-        "lessonNumber": 1,
-        "title": "被字句与被动表述 (The 被 Passive Voice) (Part 1)",
+        "unit": "zh-u14",
         "level": "B1",
-        "objective": "Comprehensive mastery of 被字句与被动表述 (Passive Voice with 被).",
+        "objective": "Master the structural formula of the 被 (bèi) passive voice (Patient Subject + 被 + (Agent) + Transitive Verb + Complement / Particle) and understand its traditional adversity/misfortune nuance.",
+        "prerequisites": [
+            "zh-u13-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u13-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「被字句与被动表述 (The 被 Passive Voice)」（第1部分）的核心句法结构与被字句与被动表述 (Passive Voice with 被)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "「被字句」是汉语表达**受事主语（Patient Subject）经历某种动作影响**的核心被动句式！\n\n1. 核心被动公式 (The 被 Passive Formula):\n- **受事 (主语) + 被 + [施事者] + 及物动词 + 其他成分 (补语/了/在/到等)**\n- 例子：\n  - 我的自行车**被 (小偷) 偷走了**。(My bicycle was stolen [by a thief].)\n  - 冰淇淋**被弟弟吃光了**。(The ice cream was completely eaten by younger brother.)\n- 特点：在口语中，施事者（小偷/弟弟）可以省略，直接说「自行车**被偷走了**」！\n\n2. 传统情感色彩：**不幸与不如意（Adversity & Misfortune）**\n  - 传统汉语中，被字句主要用于表达**遭受损失、受损害或不如意的事情**（如：被撞伤、被骗、被批评）。虽然现代书面语已扩展到中性/积极场景，但口语中仍以不如意事件为主。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (14.1.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "大卫停在宿舍楼下的新山地自行车昨晚不小心被小偷偷走了。",
+                    "reading": "Dàwèi tíng zài sùshèlóu xià de xīn shāndì zìxíngchē zuówǎn bù xiǎoxīn bèi xiǎotōu tōuzǒu le.",
+                    "translation": "David's new mountain bike parked under the dorm building was accidentally stolen by a thief last night."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (14.1.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "放在阳台上的这盆珍贵兰花被昨天夜里突如其来的暴风雨给刮倒了。",
+                    "reading": "Fàng zài yángtái shang de zhè pén zhēnguì lánhuā bèi zuótiān yèlǐ tūrúqílái de bàofēngyǔ gěi guādǎo le.",
+                    "translation": "This pot of precious orchid placed on the balcony was blown over by the sudden torrential storm last night."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (14.1.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "那篇发表在核心期刊上的学术论文被国内外多位知名语言学家高度引用了。",
+                    "reading": "Nà piān fābiǎo zài héxīn qīkān shang de xuéshù lùnwén bèi guónèiwài duō wèi zhìmíng yǔyánxuéjiā gāodù yǐnyòng le.",
+                    "translation": "That academic paper published in the core journal was highly cited by multiple famous linguists domestically and abroad."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 被字句与被动表述 (Passive Voice with 被)"
+                "被 = Passive Receiver! Patient + 被 + (Agent) + Verb + RESULT (被偷了、被打破了)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Orchids (兰花 lánhuā) symbolize elegance and nobility in Chinese tradition as one of the 'Four Gentlemen of Flowers' (花中四君子 梅兰竹菊)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「被字句与被动表述 (Passive Voice with 被)」在第1小节中的标准汉语语法规范？",
+                    "prompt": "句子‘我的雨伞被同学借走了’中，受事者（受到动作影响的事物）是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (14.1.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (14.1.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (14.1.3)。"
+                        "雨伞 (The umbrella — Patient subject)",
+                        "同学",
+                        "借"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "雨伞 is the patient subject receiving the passive action."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「被字句与被动表述 (The 被 Passive Voice)」语用情境与完整句式的选项（练习 1）：",
+                    "prompt": "下列哪种情境最符合汉语口语中被字句的典型语用情感（不如意/受损）？",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (14.1.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (14.1.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (14.1.3)。"
+                        "钱包在公交车上被小偷偷走了 (Wallet stolen on the bus — classic adversity)",
+                        "今天天气非常好",
+                        "我们一起去食堂吃饭"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "钱包被偷 illustrates the prototypical adversative use of the 被 construction."
                 }
             ]
         },
@@ -6873,85 +6879,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「被字句与被动表述 (Passive Voice with 被)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 14-1）？",
+                    "prompt": "在被字句中，施事者（执行动作的人）是否必须出现？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (14.1.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (14.1.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (14.1.3)。"
+                        "必须出现",
+                        "可以省略（如：蛋糕被吃完了）(Can be omitted)",
+                        "动词必须省略"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "The agent in a 被 sentence can be omitted (e.g. 蛋糕被吃完了)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («被发现_14_1»):",
+                    "prompt": "Type the Hanzi for 'to be stolen away' (被偷走):",
                     "acceptedAnswers": [
-                        "被发现_14_1"
+                        "被偷走",
+                        "beitouzou",
+                        "bèitōuzǒu",
+                        "Bèitōuzǒu",
+                        "Beitouzou"
                     ],
-                    "explanation": "The target keyword was: 【被发现_14_1】"
+                    "explanation": "被偷走 (bèitōuzǒu) means 'to be stolen away'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u14-l2": {
         "id": "zh-u14-l2",
-        "subject": "mandarin",
-        "unit": 14,
-        "lessonNumber": 2,
-        "title": "被字句与被动表述 (The 被 Passive Voice) (Part 2)",
+        "unit": "zh-u14",
         "level": "B1",
-        "objective": "Comprehensive mastery of 被字句与被动表述 (Passive Voice with 被).",
+        "objective": "Master the colloquial passive markers 让 (ràng), 叫 (jiào), and 给 (gěi) in everyday spoken Mandarin, noting that 让 and 叫 MUST be followed by an agent.",
+        "prerequisites": [
+            "zh-u14-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u14-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「被字句与被动表述 (The 被 Passive Voice)」（第2部分）的核心句法结构与被字句与被动表述 (Passive Voice with 被)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在日常汉语口语中，人们常常使用「让 (ràng)」和「叫 (jiào)」代替「被」来表达被动，并常用「给 (gěi)」来增强被动语气！\n\n1. 口语被动标记：「让」与「叫」\n- **公式：受事 + 让 / 叫 + 施事 + 动词 + 补语**\n- 例子：\n  - 我的手机**让雨淋湿了**。(My phone got soaked by rain.)\n  - 刚买的蛋糕**叫猫给吃了**。(The cake got eaten by the cat.)\n- **绝不能省略施事者铁律**：\n  - 「被」后面施事者可省（蛋糕**被吃了** [OK]）。\n  - **「让/叫」后面必须有施事者**！若施事者未知，必须用「人」补位（蛋糕**让人给吃了** [必须有‘人’，绝不能说 *蛋糕让吃了]）！\n\n2. 语气助词「给」的强化作用：\n- 常嵌入在施事者与动词之间：**被/让/叫 + 施事 + 给 + 动词** (e.g., 衣服让雨**给**淋透了)。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (14.2.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "李明叹了口气说：‘今天出门太急没带伞，半路上整个人叫大雨给淋成了落汤鸡。’",
+                    "reading": "Lǐ Míng tàn le kǒu qì shuō: ‘Jīntiān chūmén tài jí méi dài sǎn, bànlù shang zhěng gè rén jiào dàyǔ gěi línchéng le luòtāngjī.’",
+                    "translation": "Li Ming sighed: 'I left in too much of a hurry today without an umbrella, and got drenched by the heavy rain into a drowned chicken halfway through.'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (14.2.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "桌子上那杯刚泡好的热咖啡不小心让人给碰洒了，弄得满桌子都是。",
+                    "reading": "Zhuōzi shang nà bēi gāng pào hǎo de rè kāfēi bù xiǎoxīn ràng rén gěi pèngsǎ le, nòng de mǎn zhuōzi dōu shì.",
+                    "translation": "That freshly brewed hot coffee on the table was accidentally knocked over by someone, making a mess all over the desk."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (14.2.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "大卫的精彩发言叫全场观众的热烈掌声给打断了数次。",
+                    "reading": "Dàwèi de jīngcǎi fāyán jiào quánchǎng guānzhòng de rèliè zhǎngshēng gěi dǎduàn le shù cì.",
+                    "translation": "David's brilliant speech was interrupted several times by the audience's enthusiastic applause."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 被字句与被动表述 (Passive Voice with 被)"
+                "Spoken Passives: 让 & 叫 NEED an Agent (让人吃了)! Add 给 for Extra Punch (叫雨给淋湿了)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "The idiom «落汤鸡» (luòtāngjī - chicken in hot soup) is a humorous, self-deprecating Chinese metaphor for getting completely drenched in rain."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「被字句与被动表述 (Passive Voice with 被)」在第2小节中的标准汉语语法规范？",
+                    "prompt": "在口语中使用‘让’或‘叫’表达被动时，下列哪个句子在语法上是完全错误的？",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (14.2.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (14.2.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (14.2.3)。"
+                        "书让拿走了 (*Wrong: 让 must be followed by an agent like '人')",
+                        "书让人拿走了",
+                        "书被拿走了"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "让 and 叫 strictly require an overt agent (e.g. 让人拿走了); they cannot take a naked verb directly."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「被字句与被动表述 (The 被 Passive Voice)」语用情境与完整句式的选项（练习 2）：",
+                    "prompt": "句子‘我的作业本叫大风给吹跑了’中，‘给’的作用是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (14.2.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (14.2.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (14.2.3)。"
+                        "赠送物品",
+                        "加强被动处置语气的助词 (Particle reinforcing the passive tone)",
+                        "作为名词"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "给 in passive constructions reinforces the passive verbal action."
                 }
             ]
         },
@@ -6959,85 +6976,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「被字句与被动表述 (Passive Voice with 被)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 14-2）？",
+                    "prompt": "关于‘被’与‘让/叫’的施事者省略规则，下列总结正确的是：",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (14.2.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (14.2.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (14.2.3)。"
+                        "‘被’后的施事者可省，但‘让/叫’后必须有施事者 (Agent after 被 is optional; agent after 让/叫 is mandatory)",
+                        "两者都必须省略施事者",
+                        "两者都不能有施事者"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "被 can omit the agent (被偷了), but 让/叫 require an agent (让人偷了)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («被发现_14_2»):",
+                    "prompt": "Type the Hanzi for 'got drenched soaked' (淋湿了):",
                     "acceptedAnswers": [
-                        "被发现_14_2"
+                        "淋湿了",
+                        "linshile",
+                        "línshīle",
+                        "Línshīle",
+                        "Linshile"
                     ],
-                    "explanation": "The target keyword was: 【被发现_14_2】"
+                    "explanation": "淋湿了 (línshīle) means 'got drenched / soaked'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u14-l3": {
         "id": "zh-u14-l3",
-        "subject": "mandarin",
-        "unit": 14,
-        "lessonNumber": 3,
-        "title": "被字句与被动表述 (The 被 Passive Voice) (Part 3)",
+        "unit": "zh-u14",
         "level": "B1",
-        "objective": "Comprehensive mastery of 被字句与被动表述 (Passive Voice with 被).",
+        "objective": "Master the syntax of negatives (没/没有/别), modal verbs (想/能/会/可能), and adverbs in 被 sentences, placing them strictly BEFORE 被 (never between 被 and the verb).",
+        "prerequisites": [
+            "zh-u14-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u14-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「被字句与被动表述 (The 被 Passive Voice)」（第3部分）的核心句法结构与被字句与被动表述 (Passive Voice with 被)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "与把字句一样，被字句中副词、否定词和能愿动词的位置同样受**前置铁律（Pre-被 Placement Rule）**严格支配！\n\n1. 被字句修饰成分前置公式：\n- **受事主语 + [时间副词 / 否定词 / 能愿动词] + 被 + (施事) + 动词 + 补语**\n- **否定词前置 (没/没有/别 + 被)**：\n  - 我的钱包**没被**小偷偷走。(My wallet wasn't stolen. *[绝不说 *钱包被没偷走])*\n  - 这个问题**别被**他发现了。(Don't let this issue be noticed by him!)\n- **能愿动词前置 (想/能/会/可能/应该 + 被)**：\n  - 优秀的传统文化**应该被**更多年轻人了解。(Should be understood by more youth.)\n  - 这种小错误**很容易被**老师发现。(Can easily be detected by the teacher.)\n\n2. 对比总结法则：**不论是「把字句」还是「被字句」，「没」、「不」与「能愿动词」一律挺立在「把/被」字正前方！**",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (14.3.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "幸好李明及时提醒，黑板上的这处笔误才没有被严谨的考官发现。",
+                    "reading": "Xìnghǎo Lǐ Míng jíshí tíxǐng, hēibǎn shang de zhè chù bǐwù cái méiyǒu bèi yánjǐn de kǎoguān fāxiàn.",
+                    "translation": "Fortunately Li Ming reminded in time, so this slip on the blackboard was not noticed by the rigorous examiner."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (14.3.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "这批珍贵的敦煌莫高窟壁画数字化档案应该被永久妥善地保存在国家图书馆中。",
+                    "reading": "Zhè pī zhēnguì de Dūnhuáng Mògāokū bìhuà shùzìhuà dàng'àn yīnggāi bèi yǒngjiǔ tuǒshàn de bǎocún zài guójiā túshūguǎn zhōng.",
+                    "translation": "This batch of precious digitized archives of Dunhuang Mogao Cave murals should be permanently and properly preserved in the National Library."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (14.3.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "大卫的汉语发音非常纯正地道，在国际交流中经常被大家误以为是中国北方人。",
+                    "reading": "Dàwèi de hànyǔ fāyīn fēicháng chúnzhèng dìdao, zài guójì jiāoliú zhōng jīngcháng bèi dàjiā wùyǐwéi shì Zhōngguó běifāngrén.",
+                    "translation": "David's Chinese pronunciation is exceptionally authentic and pure, often mistaken by everyone in international exchanges for a native northern Chinese."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 被字句与被动表述 (Passive Voice with 被)"
+                "Pre-被 March: 没 (Negatives), 能/应该 (Modals), 经常 (Adverbs) stand PROUDLY BEFORE 被!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "The Dunhuang Mogao Caves (敦煌莫高窟) in Gansu province represent a thousand years of Buddhist art and Silk Road cultural synthesis, now protected through world-class digitization."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「被字句与被动表述 (Passive Voice with 被)」在第3小节中的标准汉语语法规范？",
+                    "prompt": "表达‘那个秘密没有被大家知道’时，否定词‘没有’应放在：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (14.3.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (14.3.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (14.3.3)。"
+                        "‘被’字之前 (Before 被: 秘密没有被大家知道)",
+                        "‘被’字之后",
+                        "动词之后"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "Negatives like 没有 strictly precede 被."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「被字句与被动表述 (The 被 Passive Voice)」语用情境与完整句式的选项（练习 3）：",
+                    "prompt": "句子‘这件古董可能已经被买走了’中，‘可能’与‘已经’的语序特点是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (14.3.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (14.3.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (14.3.3)。"
+                        "放在动词‘买’之后",
+                        "全部前置在被动标记‘被’的前方 (All placed in front of 被)",
+                        "随意放置"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "Modals and time adverbs precede 被."
                 }
             ]
         },
@@ -7045,85 +7073,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「被字句与被动表述 (Passive Voice with 被)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 14-3）？",
+                    "prompt": "下列哪个句子在被字句否定语序上完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (14.3.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (14.3.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (14.3.3)。"
+                        "他的手机被没有偷走",
+                        "他的手机没有被小偷偷走 (Tā de shǒujī méiyǒu bèi xiǎotōu tōuzǒu)",
+                        "他的手机偷走被没有"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "没有 correctly precedes 被."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («被发现_14_3»):",
+                    "prompt": "Type the Hanzi for 'to be discovered / noticed' (被发现):",
                     "acceptedAnswers": [
-                        "被发现_14_3"
+                        "被发现",
+                        "beifaxian",
+                        "bèifāxiàn",
+                        "Bèifāxiàn",
+                        "Beifaxian",
+                        "被發現"
                     ],
-                    "explanation": "The target keyword was: 【被发现_14_3】"
+                    "explanation": "被发现 (bèifāxiàn) means 'to be discovered / noticed'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u14-l4": {
         "id": "zh-u14-l4",
-        "subject": "mandarin",
-        "unit": 14,
-        "lessonNumber": 4,
-        "title": "被字句与被动表述 (The 被 Passive Voice) (Part 4)",
+        "unit": "zh-u14",
         "level": "B1",
-        "objective": "Comprehensive mastery of 被字句与被动表述 (Passive Voice with 被).",
+        "objective": "Master Notional Passive Sentences (意念被动句 / 无标记被动: 信写好了, 饭做好了, 衣服洗干净了) and know when to use notional passive vs. formal 被.",
+        "prerequisites": [
+            "zh-u14-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u14-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「被字句与被动表述 (The 被 Passive Voice)」（第4部分）的核心句法结构与被字句与被动表述 (Passive Voice with 被)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在现代汉语中，**绝大多数日常被动意义并不使用「被」字，而是使用「意念被动句（Notional Passive）」**！这是汉语有别于印欧语系的最核心特征之一！\n\n1. 什么是意念被动句？\n- 当主语是无生命的事物，且在语意上**显然只能是动作的承受者（不可能主动执行动作）**时，汉语直接使用「主语 + 动词 + 补语」结构，**不需要也不应该加「被」字**！\n- 典型范例：\n  - **信写好了**。(The letter is written. *[不说 *信被写好了])* \n  - **饭做好了**。(Dinner is cooked. *[不说 *饭被做好了])* \n  - **衣服洗干净了**。(Clothes are washed clean. *[不说 *衣服被洗干净了])* \n  - **作业交了**。(Homework is submitted. *[不说 *作业被交了])*\n\n2. 终极选用规则：\n- **积极/正常/预期的日常结果** → **意念被动（无标记被动）**！\n- **意外/受损/不如意/强调施事者** → **形式被字句（加‘被/让/叫’）**！",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (14.4.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "王老师走进教室微笑着问：‘同学们，今天的课后练习都做好了没有？’",
+                    "reading": "Wáng lǎoshī zǒu jìn jiàoshì wēixiào zhe wèn: ‘Tóngxuémen, jīntiān de kèhòu liànxí dōu zuòhǎo le méiyǒu?’",
+                    "translation": "Teacher Wang walked into the classroom asking with a smile: 'Students, has today's after-class exercise all been finished or not?'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (14.4.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "行李已经收拾好了，火车票也买到了，我们明天清晨准时出发！",
+                    "reading": "Xíngli yǐjīng shōushi hǎo le, huǒchēpiào yě mǎidào le, wǒmen míngtiān qīngchén zhǔnshí chūfā!",
+                    "translation": "The luggage is already packed, train tickets are bought; we depart punctually tomorrow morning!"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (14.4.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "刚洗好的衬衫挂在阳台衣架上晾干了；但那件白外套不幸被风吹到泥地里弄脏了。",
+                    "reading": "Gāng xǐ hǎo de chènshān guà zài yángtái yījià shang liànggān le; dàn nà jiàn bái wàitào búxìng bèi fēng chuī dào nídì lǐ nòngzāng le.",
+                    "translation": "The freshly washed shirt was hung on the balcony hanger and dried (notional passive); but that white coat unfortunately was blown into the mud by the wind and soiled (formal passive)."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 被字句与被动表述 (Passive Voice with 被)"
+                "Natural & Expected = No 被 (饭做好了, 信寄了)! Disaster & Blame = Use 被 (碗被打碎了)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Overusing '被' for normal positive events is known as 'Europeanized grammar' (欧化语法 ōuhuà yǔfǎ) in Chinese linguistics; native speakers prefer elegant notional passives (意念被动)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「被字句与被动表述 (Passive Voice with 被)」在第4小节中的标准汉语语法规范？",
+                    "prompt": "表达‘晚饭已经准备就绪’时，最地道纯正的自然汉语表达是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (14.4.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (14.4.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (14.4.3)。"
+                        "晚饭做好了 (Notional passive: natural & expected)",
+                        "晚饭被做好了 (*Europeanized passive)",
+                        "晚饭让做好"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "Normal everyday completed states use notional passive without 被."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「被字句与被动表述 (The 被 Passive Voice)」语用情境与完整句式的选项（练习 4）：",
+                    "prompt": "句子‘这篇学术论文已经修改完了’没有使用‘被’字，这体现了什么语法现象？",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (14.4.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (14.4.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (14.4.3)。"
+                        "主谓谓语句",
+                        "意念被动句（无标记被动）(Notional passive)",
+                        "倒装句"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "When an inanimate subject naturally receives the action, it is an unmarked notional passive."
                 }
             ]
         },
@@ -7131,85 +7171,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「被字句与被动表述 (Passive Voice with 被)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 14-4）？",
+                    "prompt": "对比 A‘行李收拾好了’与 B‘行李被人拿错了’，两者的语用区别在于：",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (14.4.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (14.4.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (14.4.3)。"
+                        "两者完全相同",
+                        "A 是被字句，B 是把字句",
+                        "A 是正常的预定结果（意念被动），B 是意外发生的差错（形式被动）(A: expected state notional passive; B: accidental mishap marked passive)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "A is a normal expected result (notional passive); B is an unfortunate mistake (marked passive)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («被发现_14_4»):",
+                    "prompt": "Type the Hanzi for 'packed up / tidied up' (收拾好):",
                     "acceptedAnswers": [
-                        "被发现_14_4"
+                        "收拾好",
+                        "shoushihao",
+                        "shōushihǎo",
+                        "Shōushihǎo",
+                        "Shoushihao"
                     ],
-                    "explanation": "The target keyword was: 【被发现_14_4】"
+                    "explanation": "收拾好 (shōushihǎo) means 'packed up / tidied up properly'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u14-l5": {
         "id": "zh-u14-l5",
-        "subject": "mandarin",
-        "unit": 14,
-        "lessonNumber": 5,
-        "title": "被字句与被动表述 (The 被 Passive Voice) (Part 5)",
+        "unit": "zh-u14",
         "level": "B1",
-        "objective": "Comprehensive mastery of 被字句与被动表述 (Passive Voice with 被).",
+        "objective": "Master the bidirectional transformation between active 把 sentences (S + 把 + O + V + C) and passive 被 sentences (O + 被 + S + V + C), achieving integrated conversational mastery.",
+        "prerequisites": [
+            "zh-u14-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u14-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「被字句与被动表述 (The 被 Passive Voice)」（第5部分）的核心句法结构与被字句与被动表述 (Passive Voice with 被)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "把字句与被字句是现代汉语中如同硬币正反两面的**互逆变换对偶句式（Transformation Duals）**！\n\n1. 核心互换转换矩阵 (The 把 ⇋ 被 Transformation Matrix):\n- **主动处置 (把字句)**：**施事者 (A) + 把 + 受事者 (B) + 动词 + 补语**\n  - 猫 (A) **把** 鱼 (B) **吃光了**。\n- **被动承接 (被字句)**：**受事者 (B) + 被 + 施事者 (A) + 动词 + 补语**\n  - 鱼 (B) **被** 猫 (A) **吃光了**。\n\n2. 语用视点选择律 (Focus & Perspective):\n- 当视点关注**动作执行者如何积极处置对象**时 → 选用**把字句** (e.g. 我把论文交了)。\n- 当视点关注**受害者/承受事物经历了何种影响或不如意事件**时 → 选用**被字句** (e.g. 论文被老师退回来了)。\n\n3. 第十四单元实战交际演练 (Unit 14 Synthesis Dialogue):\n- 实验室突发事件报告与处理：精密仪器被不小心碰落、及时修好、化险为夷。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (14.5.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "小明不小心把实验室的玻璃烧杯打破了；李明安慰他说：‘别难过，烧杯虽然被打破了，但只要人没受伤就好！’",
+                    "reading": "Xiǎomíng bù xiǎoxīn bǎ shíyànshì de bōli shāobēi dǎpò le; Lǐ Míng ānwèi tā shuō: ‘Bié nánguò, shāobēi suīrán bèi dǎpò le, dàn zhǐyào rén méi shòushāng jiù hǎo!’",
+                    "translation": "Xiaoming accidentally broke the lab glass beaker; Li Ming comforted him saying: 'Don't be sad; although the beaker was broken, it's fine as long as no one got hurt!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (14.5.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "张老师把全班同学的期末论文都批改完了，所有评语都被工整地记录在教学反馈表上。",
+                    "reading": "Zhāng lǎoshī bǎ quán bān tóngxué de qīmò lùnwén dōu pīgǎiwán le, suǒyǒu píngyǔ dōu bèi gōngzhěng de jìlù zài jiàoxué fǎnkuìbiǎo shang.",
+                    "translation": "Teacher Zhang finished grading all students' final term papers, and all comments were recorded neatly on the feedback form."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (14.5.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "经过科研团队连续数月的攻关，那个困扰大家已久的学术难题终于被成功攻克了！",
+                    "reading": "Jīngguò kēyán tuánduì liánxù shù yuè de gōngguān, nà gè kùnrǎo dàjiā yǐ jiǔ de xuéshù nándiǎn zhōngyú bèi chénggōng gōngkè le!",
+                    "translation": "After months of continuous tackling by the scientific team, that academic dilemma that troubled everyone for so long was finally successfully overcome!"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 被字句与被动表述 (Passive Voice with 被)"
+                "Active Disposal = A 把 B + V + C! Passive Impact = B 被 A + V + C! Flip subject and object with precision!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "The traditional philosophical wisdom of «岁岁平安» (peace through the years) is invoked whenever glassware breaks accidentally, transforming misfortune into good omen."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「被字句与被动表述 (Passive Voice with 被)」在第5小节中的标准汉语语法规范？",
+                    "prompt": "将句子‘大风把大树吹倒了’转换为被字句，正确的是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (14.5.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (14.5.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (14.5.3)。"
+                        "大树把大风吹倒了",
+                        "大树被大风吹倒了 (Dàshù bèi dàfēng chuīdǎo le — Patient + 被 + Agent + V + C)",
+                        "大风被大树吹倒了"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "大树 becomes the subject followed by 被 + 大风 + 吹倒了."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「被字句与被动表述 (The 被 Passive Voice)」语用情境与完整句式的选项（练习 5）：",
+                    "prompt": "将‘李明修好了那台电脑’改写为最地道生动的把字句与意念被动句分别是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (14.5.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (14.5.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (14.5.3)。"
+                        "李明把那台电脑修好了 / 那台电脑修好了 (Active 把 disposal & Notional passive)",
+                        "李明被电脑修好了 / 电脑把李明修好了",
+                        "电脑让李明修了"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "李明把电脑修好了 (disposal) and 电脑修好了 (notional passive) represent natural Mandarin usage."
                 }
             ]
         },
@@ -7217,24 +7268,29 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「被字句与被动表述 (Passive Voice with 被)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 14-5）？",
+                    "prompt": "关于把字句与被字句的对偶转换关系，下列哪一项概括最为精确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (14.5.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (14.5.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (14.5.3)。"
+                        "把字句与被字句完全不能互换",
+                        "把字句强调施事者的处置行为，被字句强调受事者的被动承受与影响结果 (把 emphasizes agent disposal; 被 emphasizes patient impact)",
+                        "被字句不能用于口语"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "explanation": "把 and 被 represent complementary perspectives of agent disposal and patient passive experience."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («被发现_14_5»):",
+                    "prompt": "Type the Hanzi for 'to overcome / tackle successfully' (攻克了):",
                     "acceptedAnswers": [
-                        "被发现_14_5"
+                        "攻克了",
+                        "gongkele",
+                        "gōngkèle",
+                        "Gōngkèle",
+                        "Gongkele"
                     ],
-                    "explanation": "The target keyword was: 【被发现_14_5】"
+                    "explanation": "攻克了 (gōngkèle) means 'successfully tackled / overcome'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u15-l1": {
