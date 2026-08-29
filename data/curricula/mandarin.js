@@ -16592,63 +16592,69 @@
     },
     "zh-u34-l1": {
         "id": "zh-u34-l1",
-        "subject": "mandarin",
-        "unit": 34,
-        "lessonNumber": 1,
-        "title": "多边外交峰会与双边条约公报 (C2 Capstone Global Statecraft) (Part 1)",
+        "unit": "zh-u34",
         "level": "C2",
-        "objective": "Comprehensive mastery of 多边外交与公报发表 (C2 Capstone Global Statecraft).",
+        "objective": "Master the protocol, formal terminology, and joint declaration drafting for multilateral diplomatic summits (多边外交峰会 multilateral diplomatic summit, 全权公使 / 特命全权大使 ambassador extraordinary and plenipotentiary, 联合声明 joint statement, 主权平等 sovereign equality, 互不干涉内政 non-interference in internal affairs).",
+        "prerequisites": [
+            "zh-u33-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u33-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「多边外交峰会与双边条约公报 (C2 Capstone Global Statecraft)」（第1部分）的核心句法结构与多边外交与公报发表 (C2 Capstone Global Statecraft)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "多边外交公文体现了现代国家最高规格的涉外话语体系，讲求**「字斟句酌、主权平等、和平共处、协商一致」**！\n\n1. 外交公文核心术语与国际法准则 (Diplomatic Statecraft Lexicon):\n- **和平共处五项原则 (Five Principles of Peaceful Coexistence)**：互相尊重主权和领土完整、互不侵犯、互不干涉内政、平等互利、和平共处。\n- **特命全权大使 (Ambassador Extraordinary and Plenipotentiary)**：经国家元首委派、递交国书（Letters of Credence）并持有全权证书（Full Powers）。\n- **协商一致原则 (Consensus Principle)**：多边公报与峰会宣言在全体缔约方充分磋商、求同存异的基础上一致通过。\n\n2. 高阶外交论述句式 (Diplomatic Statecraft Formulas):\n- 「中方坚定践行和平共处五项原则，倡导平等有序的世界多极化和普惠包容的经济全球化。」\n- 「两国元首在坦诚、深入、建设性的气氛中举行了双边会晤，并发表了联合声明。」",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (34.1.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "外交部发言人在例行记者会上严正指出：‘和平共处五项原则历经七十载国际风云变幻，已成为跨越时空、超越制度的现代国际关系基本准则和国际法基本原则！’",
+                    "reading": "Wàijiāobù fāyánrén zài lìxíng jìzhěhuì shang yánzhèng zhǐchū: ‘Hépíng gòngchǔ wǔ xiàng yuánzé lìjīng qīshí zǎi guójì fēngyún biànhuàn, yǐ chéngwéi kuàyuè shíkōng, chāoyuè zhìdù de xiàndài guójì guānxì jīběn zhǔnzé hé guójìfǎ jīběn yuánzé!’",
+                    "translation": "The spokesperson stated: 'The Five Principles of Peaceful Coexistence have endured 70 years to become fundamental norms of international relations and law!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (34.1.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫在外事礼宾与外交文书撰写专题课上阐述：‘起草多边峰会联合公报必须遵循“协商一致”原则，通过严谨审慎的外交辞令凝聚各方最大共识，妥善处理敏感分歧。’",
+                    "reading": "Dàwèi zài wàishì lǐbīn yǔ wàijiāo wénshū zhuànxiě zhuāntí kè shang chǎnshù: ‘Qǐcào duōbiān fēnghuì liánhé gōngbào bìxū zūnxún “xiéshāng-yīzhì” yuánzé, tōngguò yánjǐn shěnshèn de wàijiāo cílìng níngjù gèfāng zuìdà gòngshí, tuǒshàn chǔlǐ mǐngǎn fēnqí.’",
+                    "translation": "David stated: 'Drafting summit communiqués requires consensus-seeking and prudent phrasing to coalesce consensus while addressing sensitivities.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (34.1.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "资深大使在回忆录中写道：‘递交国书与全权证书不仅是一项庄严的外交礼仪，更象征着主权国家之间建立在互相尊重与平等相待基础上的崇高信任。’",
+                    "reading": "Zīshēn dàshǐ zài huíyìlù zhōng xiě dào: ‘Dìjiāo guóshū yǔ quánquán zhèngshū bùjǐn shì yì xiàng zhuāngyán de wàijiāo lǐyí, gèng xiàngzhēng zhe zhǔquán guójiā zhījiān jiànlì zài hùxiāng zūnzhòng yǔ píngděng xiāngdài jīchǔ shang de chónggāo xìnrèn.’",
+                    "translation": "The veteran ambassador wrote: 'Presenting credentials and full powers symbolizes profound sovereign trust rooted in mutual respect.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 多边外交与公报发表 (C2 Capstone Global Statecraft)"
+                "Diplomatic Statecraft: 和平共处 (Five Principles), 协商一致 (Consensus-Building), 主权平等 (Sovereign Equality), 联合公报 (Joint Communiqué)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "The Five Principles of Peaceful Coexistence (和平共处五项原则), first initiated by Premier Zhou Enlai in 1953–1954, celebrated its 70th anniversary in Beijing as a cornerstone of China's foreign policy."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「多边外交与公报发表 (C2 Capstone Global Statecraft)」在第1小节中的标准汉语语法规范？",
+                    "prompt": "周恩来总理提出并被国际社会广泛采纳的、作为处理国与国之间关系最基本准则的五项外交原则统称为：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (34.1.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (34.1.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (34.1.3)。"
+                        "单边霸权主义",
+                        "和平共处五项原则 (Five Principles of Peaceful Coexistence)",
+                        "孤立主义原则"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "和平共处五项原则 (Five Principles of Peaceful Coexistence) provides the historical and legal foundation for peaceful international diplomacy."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「多边外交峰会与双边条约公报 (C2 Capstone Global Statecraft)」语用情境与完整句式的选项（练习 1）：",
+                    "prompt": "多边外交国际会议中，在全体与会国家没有国家明确提出反对的情况下达成共同决定的国际决策原则被称为：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (34.1.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (34.1.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (34.1.3)。"
+                        "协商一致原则 (Consensus principle)",
+                        "强行表决",
+                        "少数服从多数"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "协商一致原则 (Consensus principle) ensures that multilateral declarations reflect the collective will of all sovereign participants."
                 }
             ]
         },
@@ -16656,85 +16662,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「多边外交与公报发表 (C2 Capstone Global Statecraft)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 34-1）？",
+                    "prompt": "关于中国外交哲学中的「和平共处五项原则」与多边峰会「协商一致」公文起草规范，下列哪一项表述完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (34.1.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (34.1.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (34.1.3)。"
+                        "和平共处五项原则以主权平等与互不干涉内政为基石，多边峰会遵循协商一致原则求同存异，构建稳定公正的国际秩序 (Mutual respect, non-interference, and consensus-building to foster a fair global order)",
+                        "多边外交完全由军事强权单方面决定公报内容",
+                        "外交公文无需任何严谨措辞"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR C2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "Accurately articulates the core pillars of peaceful diplomacy, international law, and communiqué consensus."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («峰会_34_1»):",
+                    "prompt": "Type the 8-character Hanzi phrase for 'Five Principles of Peaceful Coexistence' (和平共处五项原则):",
                     "acceptedAnswers": [
-                        "峰会_34_1"
+                        "和平共处五项原则",
+                        "hepinggongchuwuxiangyuanze",
+                        "hépíng gòngchǔ wǔ xiàng yuánzé",
+                        "Hépíng gòngchǔ wǔ xiàng yuánzé",
+                        "Hepinggongchuwuxiangyuanze",
+                        "和平共處五項原則"
                     ],
-                    "explanation": "The target keyword was: 【峰会_34_1】"
+                    "explanation": "和平共处五项原则 (hé píng gòng chǔ wǔ xiàng yuán zé) means 'Five Principles of Peaceful Coexistence'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u34-l2": {
         "id": "zh-u34-l2",
-        "subject": "mandarin",
-        "unit": 34,
-        "lessonNumber": 2,
-        "title": "多边外交峰会与双边条约公报 (C2 Capstone Global Statecraft) (Part 2)",
+        "unit": "zh-u34",
         "level": "C2",
-        "objective": "Comprehensive mastery of 多边外交与公报发表 (C2 Capstone Global Statecraft).",
+        "objective": "Master the structure, solemn legal language, and domestic ratification procedures of international bilateral treaties (双边条约 bilateral treaty, 换文 exchange of notes, 议定书 protocol, 批准书 instrument of ratification, 具有法律约束力 legally binding, 契约必须遵守 pacta sunt servanda).",
+        "prerequisites": [
+            "zh-u34-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u34-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「多边外交峰会与双边条约公报 (C2 Capstone Global Statecraft)」（第2部分）的核心句法结构与多边外交与公报发表 (C2 Capstone Global Statecraft)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "国际条约是国家间确立具有法律约束力之权利义务关系的最高公法文书，讲求**「体例严整、条文精确、程序完备、恪守条约」**！\n\n1. 双边条约四大法定结构 (Structure of Bilateral Treaties):\n- **序言 (Preamble)**：列明缔约各方、订立宗旨、指导原则与历史背景。\n- **正文条款 (Operative Articles)**：明确权利与义务、争端解决机制（磋商与仲裁条款）。\n- **最终条款 (Final Clauses)**：条约生效（Entry into Force）、有效期、修改、终止与退约程序。\n- **签署与批准 (Signature & Ratification)**：全权代表签署后，报送全国人大常委会批准，交换批准书（Instruments of Ratification）。\n\n2. 条约法律规范句式 (Treaty Legal Language):\n- 「本条约须经缔约双方依法批准，自互换批准书之日起第三十日开始生效，有效期为十年。」\n- 「缔约双方应本着善意原则全面履行本条约规定的各项国际公法义务。」",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (34.2.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "中国外交部条约法律司司长在全国人大常委会专题报告中指出：‘中国严格遵循“条约必须遵守”（Pacta sunt servanda）的国际法基本原则，每一部涉外条约在签署后均经过严密的宪法与法律审查并依法履行批准程序！’",
+                    "reading": "Zhōngguó Wàijiāobù tiáoyuē fǎlǜsī sīzhǎng zài Quánguó Réndà Chángwěihuì zhuāntí bàogào zhōng zhǐchū: ‘Zhōngguó yángé zūnxún “tiáoyuē bìxū zūnshǒu” de guójìfǎ jīběn yuánzé, měi yí bù shèwài tiáoyuē zài qiānshǔ hòu jūn jīngguò yánmì de xiànfǎ yǔ fǎlǜ shěnchá bìng yīfǎ lǚxíng pīzhǔn chéngxù!’",
+                    "translation": "The Director General stated: 'China upholds Pacta sunt servanda; all international treaties undergo constitutional review and legal ratification!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (34.2.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫在国际法模拟法庭上宣读条约最终条款：‘本协定以中文与法文两种文本写就，两种文本同等作准；任何一方如欲终止本协定，须提前六个月通过外交途径书面通知对方。’",
+                    "reading": "Dàwèi zài guójìfǎ mónǐ fǎtíng shang xuāndú tiáoyuē zuìzhōng tiáokuǎn: ‘Běn xiédìng yǐ Zhōngwén yǔ Fǎwén liǎng zhǒng wénběn xiějiù, liǎng zhǒng wénběn tóngděng zuòzhǔn; rènhé yì fāng rú yù zhōngzhǐ běn xiédìng, xū tíqián liù ge yuè tōngguò wàijiāo tújìng shūmiàn tōngzhī duìfāng.’",
+                    "translation": "David recited: 'This agreement is in Chinese and French, both texts equally authentic; termination requires 6 months prior written diplomatic notice.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (34.2.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "国际法教授在专著中论述：‘双边条约文本具有极高的规范性与约束力，其词义的严谨性直接关系到国家主权权益与涉外司法管辖权的行使。’",
+                    "reading": "Guójìfǎ jiàoshòu zài zhuānzhù zhōng lùnzhèng: ‘Shuāngbiān tiáoyuē wénběn jùyǒu jí gāo de guīfànxìng yǔ yuēshùlì, qí cíyì de yánjǐnxìng zhíjiē guānxì dào guójiā zhǔquán quányì yǔ shèwài sīfǎ guǎnxiáquán de xíngshǐ.’",
+                    "translation": "The professor noted: 'Bilateral treaty texts carry strict binding force; precision directly safeguards sovereign rights and judicial jurisdiction.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 多边外交与公报发表 (C2 Capstone Global Statecraft)"
+                "Treaty Steps: 严密起草 (Drafting), 全权签署 (Signature), 人大批准 (Ratification), 互换生效 (Exchange into Force)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Under the PRC Law on the Procedure of the Conclusion of Treaties (缔结条约程序法), major political, judicial, and border treaties must be approved by the Standing Committee of the National People's Congress."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「多边外交与公报发表 (C2 Capstone Global Statecraft)」在第2小节中的标准汉语语法规范？",
+                    "prompt": "在国际法和涉外公文体系中，国际条约签署后由国家立法机关进行正式审查确认并使条约在国内产生最高法律效力的法律行为被称为：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (34.2.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (34.2.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (34.2.3)。"
+                        "条约批准 (Treaty Ratification / 批准书)",
+                        "随意涂改",
+                        "口头约定"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "条约批准 (Treaty ratification) validates treaties through the sovereign legislative body."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「多边外交峰会与双边条约公报 (C2 Capstone Global Statecraft)」语用情境与完整句式的选项（练习 2）：",
+                    "prompt": "国际法中公认的、要求所有主权国家必须以诚实善意全面履行已经签署并生效条约之义务的黄金法则常被称为：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (34.2.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (34.2.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (34.2.3)。"
+                        "条约必须遵守 (Pacta sunt servanda)",
+                        "出尔反尔",
+                        "随意违约"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "条约必须遵守 (Pacta sunt servanda) is the fundamental principle of international treaty law."
                 }
             ]
         },
@@ -16742,85 +16760,98 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「多边外交与公报发表 (C2 Capstone Global Statecraft)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 34-2）？",
+                    "prompt": "关于国际条约的文本体例、法定批准程序与国际法效力，下列哪一项表述完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (34.2.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (34.2.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (34.2.3)。"
+                        "国际条约签署后不需要经过任何法律程序即可随意撕毁",
+                        "双边条约具有严格的法律结构（序言、正文、最终条款），经法定全权代表签署并由国家立法机关依法批准互换后产生法律约束力，缔约方须严格遵循条约必须遵守原则 (Strict treaty structure, legal ratification, binding force, and Pacta sunt servanda)",
+                        "条约文本中的文字没有任何法律约束力"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR C2 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "Accurately articulates the drafting, legal ratification, and binding authority of bilateral treaties."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («峰会_34_2»):",
+                    "prompt": "Type the 4-character Hanzi term for 'international treaty / treaty' (国际条约):",
                     "acceptedAnswers": [
-                        "峰会_34_2"
+                        "国际条约",
+                        "guojitiaoyue",
+                        "guójì tiáoyuē",
+                        "guójìtiáoyuē",
+                        "Guójìtiáoyuē",
+                        "Guojitiaoyue",
+                        "國際條約"
                     ],
-                    "explanation": "The target keyword was: 【峰会_34_2】"
+                    "explanation": "国际条约 (guó jì tiáo yuē) means 'international treaty'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u34-l3": {
         "id": "zh-u34-l3",
-        "subject": "mandarin",
-        "unit": 34,
-        "lessonNumber": 3,
-        "title": "多边外交峰会与双边条约公报 (C2 Capstone Global Statecraft) (Part 3)",
+        "unit": "zh-u34",
         "level": "C2",
-        "objective": "Comprehensive mastery of 多边外交与公报发表 (C2 Capstone Global Statecraft).",
+        "objective": "Master the high-level diplomatic rhetoric of United Nations Security Council debates, resolution sponsorship, and multilateral global governance (联合国宪章 UN Charter, 否决权 veto power, 安理会决议 UNSC resolution, 全球安全倡议 Global Security Initiative, 劝和促谈 promoting talks for peace).",
+        "prerequisites": [
+            "zh-u34-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u34-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「多边外交峰会与双边条约公报 (C2 Capstone Global Statecraft)」（第3部分）的核心句法结构与多边外交与公报发表 (C2 Capstone Global Statecraft)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "联合国安理会代表着当代全球集体安全机制的核心殿堂，讲求**「维护和平、恪守宪章、劝和促谈、多边共赢」**！\n\n1. 联合国多边外交与安理会核心范畴 (UN Security Council Discourse):\n- **联合国宪章宗旨与原则 (Purposes & Principles of UN Charter)**：维护国际和平与安全，禁止非法使用武力或以武力相威胁。\n- **常任理事国责任 (Permanent Member Responsibility)**：积极履行大国担当，建设性行使表决权，维护发展中国家正当权益。\n- **全球安全倡议 (Global Security Initiative)**：坚持共同、综合、合作、可持续的安全观，坚持通过对话协商以和平方式解决国家间的分歧和争端。\n\n2. 安理会发言权威句式 (Security Council Plenary Syntax):\n- 「中国常驻联合国代表团在此重申，各国主权、独立和领土完整都应得到切实尊重，联合国宪章宗旨和原则都应得到恪守。」\n- 「中方支持安理会通过这项旨在实现停火止战、恢复人道主义救援的决议草案。」",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (34.3.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "中国常驻联合国代表在安理会公开辩论会上庄严发言：‘历史一再告诫我们，霸权主义与阵营对抗只会加剧动荡，唯有坚持真正的多边主义，捍卫以联合国为核心的国际体系，世界才能享有长治久安！’",
+                    "reading": "Zhōngguó chángzhù Liánhéguó dàibiǎo zài Ānlǐhuì gōngkāi biànlùnhuì shang zhuāngyán fāyán: ‘Lìshǐ yí zài gàojiè wǒmen, bàquánzhǔyì yǔ zhènyíng duìkàng zhǐ huì jiājù dòngdàng, wéi yǒu jiānchí zhēnzhèng de duōbiānzhǔyì, hànwèi yǐ Liánhéguó wéi héxīn de guójì tǐxì, shìjiè cái néng xiǎngyǒu chángzhì-jiǔ’ān!’",
+                    "translation": "The Permanent Representative declared: 'History proves hegemony and bloc confrontation breed chaos; only true multilateralism and defending the UN-centered system brings lasting peace!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (34.3.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫在模拟联合国安理会磋商中代表中方发言：‘针对当前地区热点危机，中方始终秉持客观公正立场，积极劝和促谈，坚决反对未经安理会授权的任何单边非法制裁！’",
+                    "reading": "Dàwèi zài mónǐ Liánhéguó Ānlǐhuì cuōshāng zhōng dàibiǎo Zhōngfāng fāyán: ‘Zhènduì dāngqián dìqū rèdiǎn wēijī, Zhōngfāng shǐzhōng bǐngchí kèguān gōngzhèng lìchǎng, jījí quànhé-cùtán, jiānjué fǎnduì wèijīng Ānlǐhuì shòuquán de rènhé dānbiān fēifǎ zhìcái!’",
+                    "translation": "David spoke at Model UN: 'On regional crises, China remains objective, promoting peace talks and opposing unauthorized unilateral sanctions!'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (34.3.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "联合国维和事务副秘书长高度赞誉：‘中国作为安理会常任理事国和联合国维和行动主要出资国与出兵国，为世界最危险动荡地区带来了和平的希望与生命的守护。’",
+                    "reading": "Liánhéguó wéihé shìwù fù-mìshūzhǎng gāodù zànyù: ‘Zhōngguó zuòwéi Ānlǐhuì chángrèn lǐshìguó hé Liánhéguó wéihé xíngdòng zhǔyào chūzǐguó yǔ chūbīngguó, wéi shìjiè zuì wēixiǎn dòngdàng dìqū dàilái le hépíng de xīwàng yǔ shēngmìng de shǒuhù.’",
+                    "translation": "The UN Under-Secretary-General praised: 'As a permanent member and top troop/budget contributor, China brings hope and protection to volatile regions.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 多边外交与公报发表 (C2 Capstone Global Statecraft)"
+                "UN Peacecraft: 恪守宪章 (UN Charter), 劝和促谈 (Promote Peace Talks), 共同安全 (Global Security), 大国担当 (Major Power Responsibility)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "China is the second-largest financial contributor to UN peacekeeping budgets and the largest troop contributor among the five permanent members of the Security Council."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「多边外交与公报发表 (C2 Capstone Global Statecraft)」在第3小节中的标准汉语语法规范？",
+                    "prompt": "联合国安理会中，中国面对重大国际热点争端时一贯倡导的、主张通过政治对话而非武力升级解决危机的外交方针是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (34.3.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (34.3.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (34.3.3)。"
+                        "火上浇油",
+                        "劝和促谈 (Promoting peace talks / Persuading for peace)",
+                        "单边制裁"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "劝和促谈 (Promoting peace talks) is China's signature diplomatic approach to de-escalating international crises."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「多边外交峰会与双边条约公报 (C2 Capstone Global Statecraft)」语用情境与完整句式的选项（练习 3）：",
+                    "prompt": "以联合国宪章为宗旨原则、倡导共同、综合、合作、可持续安全观的重大全球性安全主张被称为：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (34.3.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (34.3.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (34.3.3)。"
+                        "全球安全倡议 (Global Security Initiative)",
+                        "冷战军事同盟",
+                        "零和博弈理论"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "全球安全倡议 (Global Security Initiative) provides a multilateral roadmap for non-hegemonic, indivisible security."
                 }
             ]
         },
@@ -16828,85 +16859,98 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「多边外交与公报发表 (C2 Capstone Global Statecraft)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 34-3）？",
+                    "prompt": "关于中国在联合国安理会的多边外交辩论修辞与国际维和行动原则，下列哪一项表述完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (34.3.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (34.3.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (34.3.3)。"
+                        "联合国安理会没有任何法律与道德权威",
+                        "中国常驻代表团在安理会坚定捍卫联合国宪章宗旨，秉持客观公正立场劝和促谈，积极参与国际维和，展现维护世界和平的大国担当 (Upholding the UN Charter, promoting talks for peace, and fulfilling major power responsibility for global peace)",
+                        "国际争端只能通过核威慑解决"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR C2 target-language standard."
+                    "explanation": "Comprehensively synthesizes UNSC multilateral debate standards, UN Charter commitment, and peacekeeping leadership."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («峰会_34_3»):",
+                    "prompt": "Type the 4-character Hanzi phrase for 'promoting talks for peace / persuading for peace' (劝和促谈):",
                     "acceptedAnswers": [
-                        "峰会_34_3"
+                        "劝和促谈",
+                        "quanhecutan",
+                        "quànhé cùtán",
+                        "quànhécùtán",
+                        "Quànhécùtán",
+                        "Quanhecutan",
+                        "勸和促談"
                     ],
-                    "explanation": "The target keyword was: 【峰会_34_3】"
+                    "explanation": "劝和促谈 (quàn hé cù tán) means 'promoting talks for peace / persuading for peace'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u34-l4": {
         "id": "zh-u34-l4",
-        "subject": "mandarin",
-        "unit": 34,
-        "lessonNumber": 4,
-        "title": "多边外交峰会与双边条约公报 (C2 Capstone Global Statecraft) (Part 4)",
+        "unit": "zh-u34",
         "level": "C2",
-        "objective": "Comprehensive mastery of 多边外交与公报发表 (C2 Capstone Global Statecraft).",
+        "objective": "Master the pinnacle discourse of global civilizational dialogue, shared values of humanity, and the philosophical architecture of a Community with a Shared Future for Mankind (全球文明倡议 Global Civilization Initiative, 全人类共同价值 Common Values of Humanity: peace, development, equity, justice, democracy, freedom; 人类命运共同体 Community with a Shared Future for Mankind).",
+        "prerequisites": [
+            "zh-u34-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u34-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「多边外交峰会与双边条约公报 (C2 Capstone Global Statecraft)」（第4部分）的核心句法结构与多边外交与公报发表 (C2 Capstone Global Statecraft)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "**「人类命运共同体与全球文明倡议」**代表了当代中国对二十一世纪人类社会终极出路的宏大理论构建与文明哲学献礼！\n\n1. 核心理论支柱与哲学范式 (Pinnacle Civilizational Discourse):\n- **人类命运共同体 (Community with a Shared Future for Mankind)**：建设持久和平、普遍安全、共同繁荣、开放包容、清洁美丽的世界。\n- **全球文明倡议 (Global Civilization Initiative - GCI)**：共同倡导尊重世界文明多样性、共同倡导坚持文明平等互鉴对话包容、共同倡导弘扬全人类共同价值、共同倡导重视文明传承和创新。\n- **全人类共同价值 (Common Values of Humanity)**：和平、发展、公平、正义、民主、自由（Peace, Development, Equity, Justice, Democracy, Freedom）。\n\n2. 巅峰文明论述句式 (Civilizational Summit Formulas):\n- 「文明因交流而多彩，文明因互鉴而丰富。我们要以文明交流超越文明隔阂、文明互鉴超越文明冲突、文明包容超越文明优越。」\n- 「推动构建人类命运共同体，回应了各国人民求和平、谋发展、促合作的普遍愿望，开辟了人类迈向光辉未来的广阔前景。」",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (34.4.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "中国国家元首在中国共产党与世界政党高层对话会上郑重提出全球文明倡议：‘一花独放不是春，百花齐放春满园。我们要共同倡导尊重世界文明多样性，坚持文明平等、互鉴、对话、包容，让文明交流互鉴成为推动人类社会进步的动力！’",
+                    "reading": "Zhōngguó guójiā yuánshǒu zài Zhōngguó Gòngchǎndǎng yǔ shìjiè zhèngdǎng gāocéng duìhuàhuì shang zhèngzhòng tíchū Quánqiú Wénmíng Chàngyì: ‘Yì huā dú fàng bú shì chūn, bǎi huā qí fàng chūn mǎnyuán. Wǒmen yào gòngtóng chàngdǎo zūnzhòng shìjiè wénmíng duōyàngxìng, jiānchí wénmíng píngděng, hùjiàn, duìhuà, bāoróng, ràng wénmíng jiāoliú hùjiàn chéngwéi tuījìn rénlèi shèhuì jìnbù de dònglì!’",
+                    "translation": "The President proposed the GCI: 'A single flower does not make spring; one hundred blossoms do! We advocate respecting civilizational diversity and equality to power human progress!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (34.4.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫在世界文明论坛主旨发言：‘“全人类共同价值”超越了狭隘的意识形态偏见，将和平、发展、公平、正义、民主、自由凝聚为全球多元文明的最大公约数。’",
+                    "reading": "Dàwèi zài Shìjiè Wénmíng Lùntán zhǔzhǐ fāyán: ‘“Quán-rénlèi gòngtóng jiàzhí” chāoyuè le xiá’ài de yìshíxíngtài piānjiàn, jiāng hépíng, fāzhǎn, gōngpíng, zhèngyì, mínzhǔ, zìyóu níngjù wéi quánqiú duōyuán wénmíng de zuìdà gōngyuēshù.’",
+                    "translation": "David addressed the forum: 'Common values of humanity transcend ideological bias, making peace, equity, and freedom the greatest common denominator for all civilizations.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (34.4.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "著名历史哲学家在终身成就奖致辞中讲道：‘构建人类命运共同体不仅是一项宏伟的外交战略，更是一场深刻的哲学觉醒，它将人类从零和博弈的达尔文丛林法则引向协同进化的光明彼岸。’",
+                    "reading": "Zhùmíng lìshǐ zhéxuéjiā zài zhōngshēn chéngjiù jiǎng zhìcí zhōng jiǎng dào: ‘Gòujiàn rénlèi mìngyùn gòngtóngtǐ bùjǐn shì yì xiàng hóngwěi de wàijiāo zhànlüè, gèng shì yì chǎng shēnkè de zhéxué juéxǐng, tā jiāng rénlèi cóng líng-hé bóyì de Dá’ěrwén cónglín fǎzé yǐn xiàng xiétóng jìnhuà de guāngmíng bǐ’àn.’",
+                    "translation": "The historian stated: 'Community with a Shared Future is a deep philosophical awakening, steering humanity from Darwinian jungles toward co-evolution.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 多边外交与公报发表 (C2 Capstone Global Statecraft)"
+                "Civilizational Apex: 尊重多样 (Respect Diversity), 交流互鉴 (Mutual Learning), 共同价值 (Common Values), 命运共同 (Shared Future for Mankind)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "«构建人类命运共同体» (Building a Community with a Shared Future for Mankind) was incorporated into the Preamble of the Constitution of the People's Republic of China in 2018 and has been repeatedly written into UN General Assembly and Security Council resolutions."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「多边外交与公报发表 (C2 Capstone Global Statecraft)」在第4小节中的标准汉语语法规范？",
+                    "prompt": "主张以文明交流超越文明隔阂、文明互鉴超越文明冲突、文明包容超越文明优越的重大全球倡议是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (34.4.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (34.4.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (34.4.3)。"
+                        "文明冲突论",
+                        "全球文明倡议 (Global Civilization Initiative)",
+                        "文化霸权主义"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "全球文明倡议 (Global Civilization Initiative - GCI) advocates mutual civilizational respect, dialogue, and equality."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「多边外交峰会与双边条约公报 (C2 Capstone Global Statecraft)」语用情境与完整句式的选项（练习 4）：",
+                    "prompt": "涵盖「和平、发展、公平、正义、民主、自由」、凝聚全球多元文明最大共识的价值体系统称为：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (34.4.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (34.4.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (34.4.3)。"
+                        "全人类共同价值 (Common values of all humanity)",
+                        "单一西方价值观",
+                        "霸权主义教条"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "全人类共同价值 (Common values of all humanity) establishes universal consensus across distinct civilizational systems."
                 }
             ]
         },
@@ -16914,85 +16958,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「多边外交与公报发表 (C2 Capstone Global Statecraft)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 34-4）？",
+                    "prompt": "关于「全球文明倡议」与「构建人类命运共同体」的哲学深层逻辑与世界历史意义，下列哪一项表述完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (34.4.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (34.4.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (34.4.3)。"
+                        "人类社会必然陷入不可避免的文明终结与毁灭性冲突",
+                        "全球文明倡议主张强迫所有国家采用统一文化习俗",
+                        "人类命运共同体以全人类共同价值为指引，提倡文明平等交流互鉴，打破零和博弈思维，为全球长治久安与共同繁荣开辟了崇高的文明进化新路径 (Guided by common values, civilizational equality, and breaking zero-sum mindsets for shared prosperity)"
                     ],
                     "answerIndex": 2,
-                    "explanation": "Affirms CEFR C2 target-language standard."
+                    "explanation": "Accurately articulates the philosophical, moral, and strategic vision of building a Community with a Shared Future."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («峰会_34_4»):",
+                    "prompt": "Type the 7-character Hanzi phrase for 'Community with a Shared Future for Mankind' (人类命运共同体):",
                     "acceptedAnswers": [
-                        "峰会_34_4"
+                        "人类命运共同体",
+                        "renleimingyungongtongti",
+                        "rénlèi mìngyùn gòngtóngtǐ",
+                        "Rénlèi mìngyùn gòngtóngtǐ",
+                        "Renleimingyungongtongti",
+                        "人類命運共同體"
                     ],
-                    "explanation": "The target keyword was: 【峰会_34_4】"
+                    "explanation": "人类命运共同体 (rén lèi mìng yùn gòng tóng tǐ) means 'Community with a Shared Future for Mankind'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u34-l5": {
         "id": "zh-u34-l5",
-        "subject": "mandarin",
-        "unit": 34,
-        "lessonNumber": 5,
-        "title": "多边外交峰会与双边条约公报 (C2 Capstone Global Statecraft) (Part 5)",
+        "unit": "zh-u34",
         "level": "C2",
-        "objective": "Comprehensive mastery of 多边外交与公报发表 (C2 Capstone Global Statecraft).",
+        "objective": "Achieve complete, consummate mastery of the entire 170-lesson Mandarin Chinese curriculum across phonology, morphology, classical prose, literary rhetoric, philosophical hermeneutics, macroeconomic governance, and multilateral statecraft in an ultimate Grand Master Capstone Colloquium and Valedictorian Keynote.",
+        "prerequisites": [
+            "zh-u34-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u34-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「多边外交峰会与双边条约公报 (C2 Capstone Global Statecraft)」（第5部分）的核心句法结构与多边外交与公报发表 (C2 Capstone Global Statecraft)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "恭喜你历经三十四个单元、一百七十节扎实磨砺，完成了**「FEARN 高阶汉语（Mandarin Chinese）全阶段大满贯通识课程」**！\n\n在本课终极大结业篇章中，我们将纵览由「拼音汉字音韵」至「儒道易经玄思」、由「文学散文诗词」至「宏观金融与多边联合国峰会外交」的宏大知识图谱，在国际顶级学术大会进行毕业主旨演说！\n\n1. 汉语全课程三十四单元全景通识总括 (Grand 34-Unit Master Curriculum Architecture):\n- **基础与日常交际 (Units 1–6)**：汉语拼音、声调变调、部首造字法、市井烟火、数字度量与高铁出行。\n- **社会文化与职场 (Units 7–13)**：传统八大菜系、节庆习俗、中医养生、职场商务沟通与跨文化职场礼仪。\n- **自然人文与文史 (Units 14–20)**：中国地理水系、古典建筑园林、非遗戏曲、成语典故、文言实词虚词精义。\n- **现代思辨与科学 (Units 21–26)**：新质生产力、航天深海科技、数字经济与AI、生态文明绿水青山、社会学田野调研。\n- **专业法商与学术 (Units 27–31)**：民商法与涉外仲裁、高端跨国并购、学术论文与科研答辩、古典诗词格律化用、深度新闻社论批评。\n- **哲学经世与世界邦交 (Units 32–34 - C2 Pinnacle)**：儒道易经认识论、东西哲学视域融合、宏观调控双支柱、人民币国际化与亚投行、联合国安理会多边外交与人类命运共同体。\n\n2. 终极大圆满交际实战 (The Ultimate Valedictory Master Address):\n- 全球中国学大会（World Conference on China Studies）特邀闭幕主旨致辞。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (34.5.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "世界中国学大会（World Conference on China Studies）主席在大合影前致闭幕词：‘各位学者同仁，从甲骨卜辞的原始印记，到唐诗宋词的万千气象，再到今日构建人类命运共同体的宏大胸襟，掌握汉语不仅是掌握一门语言，更是握有了解读五千年东方文明绵延不绝精神密码的金色钥匙！’",
+                    "reading": "Shìjiè Zhōngguóxué Dàhuì zhǔxí zài dà-héyǐng qián zhì bìmùcí: ‘Gèwèi xuézhě tóngrén, cóng jiǎgǔ bǔcí de yuánshǐ yìnjì, dào Tángshī Sòngcí de wànqiān qìxiàng, zài dào jīnrì gòujiàn rénlèi mìngyùn gòngtóngtǐ de hóngdà xiōngjīn, zhǎngwò Hànyǔ bùjǐn shì zhǎngwò yì mén yǔyán, gèng shì wòyǒu le jiědú wǔqiān nián Dōngfāng wénmíng miányán-bùjué jīngshén mìmǎ de jīnsè yàoshi!’",
+                    "translation": "The Conference Chair declared: 'From oracle bones to Tang/Song poetry and the Shared Future, mastering Chinese is holding the golden key to 5,000 years of living civilization!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (34.5.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫在代表全体外籍青年学者致答谢辞：‘历经一百七十课由浅入深的淬炼，我们不仅学会了如何用标准流畅的普通话交流思辨，更领悟了“博学审问慎思明辨笃行”的治学真谛；汉语已融入我们的精神血脉，成为沟通中外心灵的永恒桥梁！’",
+                    "reading": "Dàwèi zài dàibiǎo quántǐ wàijí qīngnián xuézhě zhì dáxiècí: ‘Lìjīng yībǎi-qīshí kè yóu qiǎn rù shēn de cuìliàn, wǒmen bùjǐn xuéhuì le rúhé yòng biāozhǔn liúchàng de pǔtōnghuà jiāoliú sībiàn, gèng lǐngwù le “bóxué shènwèn shènsī míngbiàn dǔxíng” de zhìxué zhēndì; Hànyǔ yǐ róngrù wǒmen de jīngshén xuèmài, chéngwéi gōutōng Zhōng-wài xīnlíng de yǒnghéng qiáoliáng!’",
+                    "translation": "David delivered the valedictory: 'Through 170 lessons of rigorous cultivation, Chinese has entered our veins, becoming an eternal bridge between civilizations!'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (34.5.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "国际汉学泰斗在毕业典礼上为毕业生颁发最高汉学荣誉奖章并寄语：‘海纳百川，有容乃大；壁立千仞，无欲则刚。愿各位在未来的全球舞台上，继续以汉语为舟，扬帆人类文明互鉴的壮阔大海！’",
+                    "reading": "Guójì Hànxué tàidǒu zài bìyè diǎnlǐ shang wéi bìyèshēng bānfā zuìgāo Hànxué róngyù jiǎngzhāng bìng jìyǔ: ‘Hǎi nà bǎi chuān, yǒu róng nǎi dà; bì lì qiān rèn, wú yù zé gāng. Yuàn gèwèi zài wèilái de quánqiú wǔtái shang, jìxù yǐ Hànyǔ wéi zhōu, yángfān rénlèi wénmíng hùjiàn de zhuàngkuò dàhǎi!’",
+                    "translation": "The grand sinologist praised: 'May you navigate the vast ocean of mutual civilizational learning with Chinese as your proud vessel!'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 多边外交与公报发表 (C2 Capstone Global Statecraft)"
+                "FEARN Mandarin Master: 拼音汉字 (Roots) + 诗词散文 (Literature) + 儒道哲学 (Wisdom) + 金融外交 (Statecraft) = 100% Full Mandarin Mastery (博大精深)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "«博大精深» (Broad, profound, and exquisite) is the quintessential Chinese idiom describing the infinite depth, aesthetic grandeur, and living vitality of the Chinese language and civilization."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「多边外交与公报发表 (C2 Capstone Global Statecraft)」在第5小节中的标准汉语语法规范？",
+                    "prompt": "涵盖广博视野、严谨思辨、精妙结构与深厚文化底蕴、常用来赞誉中华文化与汉语博雅特质的经典成语是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (34.5.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (34.5.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (34.5.3)。"
+                        "浅尝辄止",
+                        "博大精深 (Broad and profound / Exquisite and extensive)",
+                        "一知半解"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "博大精深 (Broad and profound) describes the vastness and profound philosophical depth of Chinese civilization."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「多边外交峰会与双边条约公报 (C2 Capstone Global Statecraft)」语用情境与完整句式的选项（练习 5）：",
+                    "prompt": "贯穿汉语高级修辞与治学精神、典出《礼记·中庸》的经典学者训诫名句是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (34.5.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (34.5.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (34.5.3)。"
+                        "博学之，审问之，慎思之，明辨之，笃行之 (Study extensively, inquire accurately, think carefully, discern clearly, practice earnestly)",
+                        "坐井观天",
+                        "敷衍了事"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "博学之，审问之，慎思之，明辨之，笃行之 provides the supreme methodology for lifelong scholarship and mastery."
                 }
             ]
         },
@@ -17000,24 +17056,31 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「多边外交与公报发表 (C2 Capstone Global Statecraft)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 34-5）？",
+                    "prompt": "关于 FEARN 高阶汉语全课程三十四个单元一百七十节课的知识体系演进与终极学术语言修养，下列哪一项总括完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (34.5.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (34.5.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (34.5.3)。"
+                        "汉语学习只需要背诵几个日常单词即可应付一切国际学术与外交谈判",
+                        "FEARN 汉语课程系统构建了从语音文字、民俗社会、文学散文到哲学思辨、宏观金融与多边联合国峰会外交的完整知识大厦，使学习者全面具备卓越的学术研究与全球涉外高阶跨文化沟通能力 (Comprehensive mastery from phonetics and literature to philosophy, macroeconomics, and multilateral diplomacy)",
+                        "汉语完全无法用于现代科学和国际政治交际"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR C2 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "Celebrates the complete, uncompromising, grand 170-lesson pedagogical journey of Mandarin Chinese in FEARN."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («峰会_34_5»):",
+                    "prompt": "Type the 4-character Hanzi idiom meaning 'broad and profound / immense and subtle' (博大精深):",
                     "acceptedAnswers": [
-                        "峰会_34_5"
+                        "博大精深",
+                        "bodajingshen",
+                        "bódà-jīngshēn",
+                        "bódà jīngshēn",
+                        "Bódà jīngshēn",
+                        "Bodajingshen",
+                        "博大精深"
                     ],
-                    "explanation": "The target keyword was: 【峰会_34_5】"
+                    "explanation": "博大精深 (bó dà jīng shēn) means 'broad and profound / immense and exquisite'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     }
 };
