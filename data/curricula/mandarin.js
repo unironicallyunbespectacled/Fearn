@@ -9742,63 +9742,69 @@
     },
     "zh-u20-l1": {
         "id": "zh-u20-l1",
-        "subject": "mandarin",
-        "unit": 20,
-        "lessonNumber": 1,
-        "title": "商务沟通、职场礼仪与正式电邮 (Corporate Communication) (Part 1)",
+        "unit": "zh-u20",
         "level": "B2",
-        "objective": "Comprehensive mastery of 商务职场与正式电邮 (Business & Corporate Communication).",
+        "objective": "Master the formal register formulas for business email openings (尊敬的 [Name/Title], 敬启者 To Whom It May Concern, 冒昧致信 pardon my intrusion, 见信如晤).",
+        "prerequisites": [
+            "zh-u19-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u19-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「商务沟通、职场礼仪与正式电邮 (Corporate Communication)」（第1部分）的核心句法结构与商务职场与正式电邮 (Business & Corporate Communication)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在现代商务汉语与高阶职场沟通中，电子邮件与公文函件有着严格的**公文修辞程式（Epistolary Register & Protocol）**！\n\n1. 邮件抬头与尊称规范 (Salutations & Honorifics):\n- **指定对象**：尊敬的 [姓氏 + 职务/职称]（如：尊敬的李总监 / 尊敬的张教授）。\n- **泛指公函**：**敬启者 (jìngqǐzhě)**（To Whom It May Concern / Dear Recipient）。\n\n2. 开篇典雅寒暄与致信事由 (Opening Remarks & Subject Initiation):\n- **委婉致信**：**冒昧致信 (màomèi zhìxìn)**（Pardon my intrusion in writing to you...），表示对收件人宝贵时间的谦恭尊重。\n- **久未联系**：**展信佳 (zhǎnxìn jiā)** / **见信如晤 (jiànxìn rúwù)**（May this letter find you well / As if meeting face to face）。\n- **开门见山事由引述**：**现就 [具体项目/会议议题] 事宜向贵方致信如下：**",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (20.1.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "大卫在写给战略合作方的正式商务电邮中规范写道：‘尊敬的王总经理：展信佳！冒昧致信，现就双方拟于下季度联合开展的人工智能合作项目事宜，特向贵司呈报最新可行性评估方案。’",
+                    "reading": "Dàwèi zài xiě gěi zhànlüè hézuòfāng de zhèngshì shāngwù diànyóu zhōng guīfàn xiě dào: ‘Zūnjìng de Wáng zǒngjīnglǐ: Zhǎnxìn jiā! Màomèi zhìxìn, xiàn jiù shuāngfāng nǐ yú xià jìdù liánhé kāizhǎn de réngōngzhìnéng hézuò xiàngmù shìyí, tè xiàng guìsī chéngbào zuìxīn kěxíngxìng pínggū fāng'àn.’",
+                    "translation": "David formally wrote in his business email: 'Dear General Manager Wang: May this letter find you well! Pardon my intrusion in writing to you; regarding the AI joint cooperation project planned for next quarter, we hereby specially submit our latest feasibility assessment report to your esteemed company.'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (20.1.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "跨国企业商务公函开篇庄重写道：‘敬启者：贵方上周发来的战略合作意向书我司已收悉，现针对具体合作条款与知识产权归属回复如下。’",
+                    "reading": "Kuàguó qǐyè shāngwù gōnghán kāipiān zhuāngzhòng xiě dào: ‘Jìngqǐzhě: Guìfāng shàng zhōu fālái de zhànlüè hézuò yìxiàngshū wǒsī yǐ shōuxī, xiàn zhēnduì jùtǐ hézuò tiáokuǎn yǔ zhīshí chǎnquán guīshǔ huífù rúxià.’",
+                    "translation": "The business missive began: 'To Whom It May Concern: We have duly acknowledged receipt of your letter of intent; hereby we reply regarding specific clauses and IP ownership.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (20.1.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "项目助理礼貌地发信沟通：‘尊敬的各位专家学者：感谢各位百忙之中拨冗审阅学术研讨会日程安排，如有任何修改意见，恳请不吝赐教。’",
+                    "reading": "Xiàngmù zhùlǐ lǐmào de fāxìn gōutōng: ‘Zūnjìng de gèwèi zhuānjiā xuézhě: Gǎnxiè gèwèi bǎimáng zhīzhōng bōrǒng shěnyuè xuéshù yántǎohuì rìchéng ānpái, rú yǒu rènhé xiūgǎi yìjiàn, kěnqǐng bùlìn-cìjiào.’",
+                    "translation": "The project assistant politely emailed: 'Distinguished experts and scholars: Thank you for setting aside valuable time amidst busy schedules to review the symposium agenda; if you have any amendments, we earnestly invite your generous guidance.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 商务职场与正式电邮 (Business & Corporate Communication)"
+                "Epistolary Politeness: 尊敬的 Title + 展信佳 / 冒昧致信 (Respectful Opening) + 特向贵方 (Purpose)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "In Chinese business culture, addressing partners by their exact official title (姓氏 + 职务, e.g. 王总, 张教授) demonstrates professional courtesy and organizational respect."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「商务职场与正式电邮 (Business & Corporate Communication)」在第1小节中的标准汉语语法规范？",
+                    "prompt": "在向素未谋面的行业前辈或合作方高管初次发送正式商务电邮时，最得体自谦的开篇套语是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (20.1.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (20.1.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (20.1.3)。"
+                        "你快点看这封信",
+                        "展信佳！冒昧致信，现就…… (Zhǎnxìn jiā! Màomèi zhìxìn... — Courteous business opening)",
+                        "我想找你聊聊天"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "展信佳 + 冒昧致信 is the highest standard of formal, respectful corporate epistolary etiquette."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「商务沟通、职场礼仪与正式电邮 (Corporate Communication)」语用情境与完整句式的选项（练习 1）：",
+                    "prompt": "公文中用于代替英文‘To Whom It May Concern’的标准典雅抬头是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (20.1.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (20.1.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (20.1.3)。"
+                        "亲爱的大家",
+                        "敬启者 (Jìngqǐzhě — To Whom It May Concern)",
+                        "喂你好"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "敬启者 (jìngqǐzhě) is the canonical Chinese formal equivalent of 'To Whom It May Concern'."
                 }
             ]
         },
@@ -9806,85 +9812,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「商务职场与正式电邮 (Business & Corporate Communication)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 20-1）？",
+                    "prompt": "在正式商务公函中，称呼对方公司与自称本公司，最规范得体的用词搭配是：",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (20.1.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (20.1.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (20.1.3)。"
+                        "贵司 / 贵方（尊称对方）；我司 / 敝司（谦称己方）(Guìsī: your company; Wǒsī/Bìsī: our company)",
+                        "你们公司；我们公司",
+                        "他司；本司"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "explanation": "贵司/贵方 honors the recipient company; 我司/敝司 humbles one's own company."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («开会_20_1»):",
+                    "prompt": "Type the 3-character Hanzi formal salutation for 'To Whom It May Concern' (敬启者):",
                     "acceptedAnswers": [
-                        "开会_20_1"
+                        "敬启者",
+                        "jingqizhe",
+                        "jìngqǐzhě",
+                        "Jìngqǐzhě",
+                        "Jingqizhe",
+                        "敬啓者"
                     ],
-                    "explanation": "The target keyword was: 【开会_20_1】"
+                    "explanation": "敬启者 (jìngqǐzhě) means 'To Whom It May Concern'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u20-l2": {
         "id": "zh-u20-l2",
-        "subject": "mandarin",
-        "unit": 20,
-        "lessonNumber": 2,
-        "title": "商务沟通、职场礼仪与正式电邮 (Corporate Communication) (Part 2)",
+        "unit": "zh-u20",
         "level": "B2",
-        "objective": "Comprehensive mastery of 商务职场与正式电邮 (Business & Corporate Communication).",
+        "objective": "Master corporate request verbs and modesty honorifics (烦请 please trouble yourself to..., 恳请 earnestly request, 拨冗 set aside precious time, 不吝赐教 do not withhold your valuable advice, 敬请期待).",
+        "prerequisites": [
+            "zh-u20-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u20-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「商务沟通、职场礼仪与正式电邮 (Corporate Communication)」（第2部分）的核心句法结构与商务职场与正式电邮 (Business & Corporate Communication)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在中文职场与商务谈判中，恰当使用**敬辞（Honorifics）与谦辞（Modesty Terms）**能够极大地润滑沟通、展现专业素养！\n\n1. 高频商务请求敬辞 (Formal Request Honorifics):\n- **烦请 (fánqǐng)**：委婉恳请对方协助办理某事（常用于平级或跨部门请求）：\n  - **烦请**贵方在周五下班前将盖章后的合同扫描件发送至我司邮箱。\n- **恳请 (kěnqǐng)**：诚恳请求（用于向下级、上级或尊长提出重要期盼）：\n  - **恳请**领导予以批准 / **恳请**专家指导。\n- **拨冗 (bōrǒng)**：敬请对方在百忙之中抽出宝贵时间：\n  - 感谢您**拨冗出席**本次战略签约仪式。(Thank you for setting aside time to attend.)\n\n2. 谦逊求教与期待套语 (Modesty & Anticipation Formulas):\n- **不吝赐教 (bùlìn-cìjiào)**：请对方毫无保留地给予批评指导。\n- **妥否，请批示**：公文末尾请上级定夺裁决的标准程式。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (20.2.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "市场部在发给法务部的邮件中写道：‘烦请法务部门的同事协助审阅附件中的战略框架协议草案，并在本周三下班前反馈修改建议。’",
+                    "reading": "Shìchǎngbù zài fā gěi fǎwùbù de diànyóu zhōng xiě dào: ‘Fánqǐng fǎwù bùmén de tóngshì xiézhù shěnyuè fùjiàn zhōng de zhànlüè kuàngjià xiéyì cǎo'àn, bìng zài běn zhōusān xiàbān qián fǎnkuì xiūgǎi jiànyì.’",
+                    "translation": "The marketing department emailed legal: 'Please kindly assist in reviewing the attached draft strategic framework agreement and feed back amendments before Wednesday EOD.'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (20.2.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫恭敬地向行业资深专家发函：‘十分荣幸能够邀请到您担任本届国际论坛的主旨演讲嘉宾，期待您拨冗莅临指导，并不吝赐教！’",
+                    "reading": "Dàwèi gōngjìng de xiàng hángyè zīshēn zhuānjiā fāhán: ‘Shífēn róngxìng nénggòu yāoqǐng dào nín dānrèn běn jiè guójì lùntán de zhǔzhǐ yǎnjiǎng jiābīn, qīdài nín bōrǒng lìlín zhǐdǎo, bìng bùlìn-cìjiào!’",
+                    "translation": "David respectfully sent a letter to a veteran expert: 'It is a tremendous honor to invite you as keynote speaker; we look forward to your gracious attendance and generous guidance!'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (20.2.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "项目负责人在呈报给董事会的可行性报告末尾写道：‘以上方案为项目组初步研拟之计划，妥否，恳请董事会领导审示。’",
+                    "reading": "Xiàngmù fùzérén zài chéngbào gěi dǒngshìhuì de kěxíngxìng bàogào mòwěi xiě dào: ‘Yǐshàng fāng'àn wéi xiàngmùzǔ chūbù yánnǐ zhī jìhuà, tuǒfǒu, kěnqǐng dǒngshìhuì lǐngdǎo shěnshì.’",
+                    "translation": "The project lead wrote at the conclusion of the board report: 'The above is the preliminary plan drafted by the project team; whether appropriate or not, we earnestly submit it for the Board leadership's review and decision.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 商务职场与正式电邮 (Business & Corporate Communication)"
+                "Ask politely: 烦请 (Please trouble to), 恳请 (Earnestly beg), 拨冗 (Carve out time), 不吝赐教 (Bestow wisdom)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "The phrase «拨冗莅临» (bōrǒng lìlín, carve out spare time to grace with presence) combines high honorific elegance with deep gratitude in Chinese formal invitations."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「商务职场与正式电邮 (Business & Corporate Communication)」在第2小节中的标准汉语语法规范？",
+                    "prompt": "在商务电邮中表达‘麻烦您百忙之中抽出时间审阅这份文件’，最专业典雅的表述是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (20.2.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (20.2.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (20.2.3)。"
+                        "你必须抽空看文件",
+                        "烦请您百忙之中拨冗审阅这份文件 (Fánqǐng nín bǎimáng zhīzhōng bōrǒng shěnyuè... — Flawless business honorific)",
+                        "你快点看"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "烦请 + 拨冗审阅 perfectly expresses polite, formal business request."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「商务沟通、职场礼仪与正式电邮 (Corporate Communication)」语用情境与完整句式的选项（练习 2）：",
+                    "prompt": "在正式向导师或资深专家请教时，表达‘请不要吝啬您的宝贵指教’的四字成语是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (20.2.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (20.2.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (20.2.3)。"
+                        "随心所欲",
+                        "不吝赐教 (Bùlìn-cìjiào — Do not withhold your valuable advice)",
+                        "自以为是"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "不吝赐教 (bùlìn-cìjiào) is the canonical honorific idiom for inviting candid guidance."
                 }
             ]
         },
@@ -9892,85 +9910,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「商务职场与正式电邮 (Business & Corporate Communication)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 20-2）？",
+                    "prompt": "关于‘拨冗’与‘烦请’的用法，下列哪一项完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (20.2.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (20.2.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (20.2.3)。"
+                        "两者只能对自己使用",
+                        "‘拨冗’是对对方抽出宝贵时间的尊称，‘烦请’是请求对方协助的客气敬辞 (拨冗: honorific for taking time; 烦请: polite request)",
+                        "两者用于批评下属"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "explanation": "拨冗 and 烦请 are standard polite business honorifics."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («开会_20_2»):",
+                    "prompt": "Type the 2-character Hanzi phrase for 'setting aside precious time from busy schedule' (拨冗):",
                     "acceptedAnswers": [
-                        "开会_20_2"
+                        "拨冗",
+                        "borong",
+                        "bōrǒng",
+                        "Bōrǒng",
+                        "Borong",
+                        "撥冗"
                     ],
-                    "explanation": "The target keyword was: 【开会_20_2】"
+                    "explanation": "拨冗 (bōrǒng) means 'to find time in a busy schedule / set aside time'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u20-l3": {
         "id": "zh-u20-l3",
-        "subject": "mandarin",
-        "unit": 20,
-        "lessonNumber": 3,
-        "title": "商务沟通、职场礼仪与正式电邮 (Corporate Communication) (Part 3)",
+        "unit": "zh-u20",
         "level": "B2",
-        "objective": "Comprehensive mastery of 商务职场与正式电邮 (Business & Corporate Communication).",
+        "objective": "Master the vocabulary and syntactic formulas of formal business meetings (达成共识 reach consensus, 推进落实 advance implementation, 权衡利弊 weigh pros and cons, 互利共赢 mutual benefit).",
+        "prerequisites": [
+            "zh-u20-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u20-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「商务沟通、职场礼仪与正式电邮 (Corporate Communication)」（第3部分）的核心句法结构与商务职场与正式电邮 (Business & Corporate Communication)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在跨国商务会议与战略洽谈中，掌握凝练有力的**四字商务成语与议事句型**是展现商业敏锐度与领导力的关键！\n\n1. 核心商务议事动词与搭配 (Key Business Action Verbs & Collocations):\n- **达成共识 (dáchéng gòngshí)**：双方就核心原则取得一致意见。\n- **权衡利弊 (quánhéng lì-bì)**：审慎评估方案的商业风险与潜在收益。\n- **推进落实 (tuījìn luòshí)**：将战略规划细化为具体执行动作。\n- **互利共赢 / 合作共赢 (hùlì-gòngyíng)**：经贸合作的基石理念（Win-Win Cooperation）。\n\n2. 议程推进与主持句式 (Meeting Facilitation Formulas):\n- **关于第一项议题，各方是否还有补充意见？**\n- **经过充分磋商，双方已在知识产权保护与利润分成机制上达成了高度共识。**",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (20.3.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "商务洽谈会主持人总结道：‘经过两天的密集磋商，双方团队在技术授权与市场准入方案上达成了广泛共识，为下一步签署正式战略合作协议奠定了坚实基础。’",
+                    "reading": "Shāngwù qiàtánhuì zhǔchírén zǒngjié dào: ‘Jīngguò liǎng tiān de mìjí cuōshāng, shuāngfāng tuánduì zài jìshù shòukuán yǔ shìchǎng zhǔnrù fāng'àn shang dáchéng le guǎnfàn gòngshí, wèi xià yí bù qiānshǔ zhèngshì zhànlüè hézuò xiéyì diàndìng le jiānshí jīchǔ.’",
+                    "translation": "The negotiation moderator summarized: 'After two days of intensive consultations, both teams reached broad consensus on tech licensing and market access plans, laying a solid foundation for signing formal strategic cooperation agreements.'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (20.3.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "张首席财务官在战略会议上发言：‘面对复杂多变的国际市场环境，我们必须全面权衡利弊、严密评估汇率风险，从而确保企业现金流的稳健安全。’",
+                    "reading": "Zhāng shǒuxí cáiwùguān zài zhànlüè huìyì shang fāyán: ‘Miànduì fùzá-duōbiàn de guójì shìchǎng huánjìng, wǒmen bìxū quánmiàn quánhéng lì-bì, yánmì pínggū huìlǜ fēngxiǎn, cóng'ér quèbǎo qǐyè xiànjīnliú de wěnjiàn ānquán.’",
+                    "translation": "The CFO spoke: 'Facing complex global markets, we must comprehensively weigh pros and cons and rigorously assess forex risks, thereby safeguarding the steady security of corporate cash flows.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (20.3.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "大卫作为项目经理明确表态：‘既然董事会已经全票通过了该项投资决议，我们执行团队接下来就将分秒必争地推进各项任务落地落实！’",
+                    "reading": "Dàwèi zuòwéi xiàngmù jīnglǐ míngquè biǎotài: ‘Jìrán dǒngshìhuì yǐjīng quánpiào tōngguò le gāi xiàng tóuzī juéyì, wǒmen zhíxíng tuánduì jiēxiàlai jiù jiāng fēnmiǎo-bìzhēng de tuījìn gè xiàng rènwu luòdì luòshí!’",
+                    "translation": "David as project manager stated: 'Since the board has unanimously passed the investment resolution, our execution team will proceed without losing a second to implement every task firmly on the ground!'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 商务职场与正式电邮 (Business & Corporate Communication)"
+                "Meeting Mastery: 达成共识 (Reach Consensus), 权衡利弊 (Weigh Pros/Cons), 推进落实 (Execute Firmly), 互利共赢 (Win-Win)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "The philosophy of «互利共赢» (hùlì-gòngyíng, win-win cooperation) is the core ethos governing contemporary Chinese business interactions and foreign trade relations."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「商务职场与正式电邮 (Business & Corporate Communication)」在第3小节中的标准汉语语法规范？",
+                    "prompt": "商务谈判中表达‘双方经过深入讨论，取得了完全一致的意见’，最地道的商务术语是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (20.3.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (20.3.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (20.3.3)。"
+                        "各执己见",
+                        "达成共识 (Dáchéng gòngshí — Reach consensus)",
+                        "不了了之"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "达成共识 (dáchéng gòngshí) is the authoritative business term for reaching mutual agreement."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「商务沟通、职场礼仪与正式电邮 (Corporate Communication)」语用情境与完整句式的选项（练习 3）：",
+                    "prompt": "句子‘在做出重大跨国投资决策前，必须审慎分析各种商业机会与潜在风险’对应的四字商务成语是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (20.3.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (20.3.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (20.3.3)。"
+                        "权衡利弊 (Quánhéng lì-bì — Weigh pros and cons)",
+                        "盲目跟风",
+                        "孤注一掷"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "权衡利弊 means carefully weighing advantages and disadvantages/risks before deciding."
                 }
             ]
         },
@@ -9978,85 +10008,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「商务职场与正式电邮 (Business & Corporate Communication)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 20-3）？",
+                    "prompt": "下列哪个句子在商务会议总结陈述中最为专业规范？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (20.3.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (20.3.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (20.3.3)。"
+                        "大家随便做做看吧",
+                        "我们不管利弊直接投钱",
+                        "既然方案已通过，项目组将全力推进各项具体工作落地落实 (Full-scale project execution phrasing)"
                     ],
                     "answerIndex": 2,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "explanation": "推进各项具体工作落地落实 represents exemplary high-register corporate communication."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («开会_20_3»):",
+                    "prompt": "Type the 4-character business idiom for 'mutual benefit and win-win outcome' (互利共赢):",
                     "acceptedAnswers": [
-                        "开会_20_3"
+                        "互利共赢",
+                        "huligongying",
+                        "hùlìgòngyíng",
+                        "Hùlìgòngyíng",
+                        "Huligongying",
+                        "互利共贏"
                     ],
-                    "explanation": "The target keyword was: 【开会_20_3】"
+                    "explanation": "互利共赢 (hùlì-gòngyíng) means 'mutually beneficial and win-win'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u20-l4": {
         "id": "zh-u20-l4",
-        "subject": "mandarin",
-        "unit": 20,
-        "lessonNumber": 4,
-        "title": "商务沟通、职场礼仪与正式电邮 (Corporate Communication) (Part 4)",
+        "unit": "zh-u20",
         "level": "B2",
-        "objective": "Comprehensive mastery of 商务职场与正式电邮 (Business & Corporate Communication).",
+        "objective": "Master corporate email closing valedictions (顺祝商祺 Best business regards, 此致敬礼 With highest regards, 谨致谢忱 Express sincere gratitude, 专此布达).",
+        "prerequisites": [
+            "zh-u20-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u20-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「商务沟通、职场礼仪与正式电邮 (Corporate Communication)」（第4部分）的核心句法结构与商务职场与正式电邮 (Business & Corporate Communication)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "商务电邮与公文的结尾致敬语（Valedictions）是检验专业修养的最后一道标尺！\n\n1. 核心商务结语规范 (Core Business Valedictions):\n- **商务通用祝福**：**顺祝商祺 (shùnzhù shāngqí)**（Wishing you flourishing business success / Best business regards）。\n  - 格式规范：「顺祝」可接在正文后或另起一行空两格，「商祺」必须顶格另起一行！\n- **庄重公文致敬**：**此致 敬礼 (cǐzhì jìnglǐ)**（With highest regards / Yours sincerely）。\n  - 格式规范：「此致」另起一行空两格，「敬礼」另起一行顶格写！\n- **表达诚挚感谢**：**谨致谢忱 (jǐnzhì xièchén)**（Please accept my sincere gratitude）。\n- **通告发文结语**：**专此布达 (zhuāncǐ bùdá)** / **特此函达 (tècǐ hándá)**（Specially communicated hereby）。\n\n2. 签名与附件标准 (Sign-off & Attachment Protocol):\n- **附件提示**：**详情参见附件 (Details in attachment)**。\n- **落款署名**：[姓名] 敬上 / 谨启。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (20.4.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "大卫在合作洽谈确认函的结尾严谨格式化排版：‘期待双方未来更加紧密的合作！\n\n顺祝\n商祺！\n\n大卫 谨启’",
+                    "reading": "Dàwèi zài hézuò qiàtán quèrènhán de jiéwěi yánjǐn géshìhuà páibǎn: ‘Qīdài shuāngfāng wèilái gèngjiā jǐnmì de hézuò!\n\nShùnzhù\nShāngqí!\n\nDàwèi Jǐnqǐ’",
+                    "translation": "David rigorously formatted the closing of the confirmation letter: 'Looking forward to closer collaboration in the future!\n\nBest business regards,\n\nDavid (Sincerely)'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (20.4.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "跨国企业在发给长期战略供应商的感谢信中写道：‘感谢贵司过去一年来所提供的高品质元器件与卓越服务，在此谨致谢忱！’",
+                    "reading": "Kuàguó qǐyè zài fā gěi chángqī zhànlüè gōngyìngshāng de gǎnxièxìn zhōng xiě dào: ‘Gǎnxiè guìsī guòqù yì nián lái suǒ tígōng de gāo pǐnzhì yuánqìjiàn yǔ zhuóyuè fúwù, zài cǐ jǐnzhì xièchén!’",
+                    "translation": "The company wrote to its supplier: 'Thank you for the high-quality components and outstanding service provided over the past year; we hereby extend our sincere gratitude!'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (20.4.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "项目联合工作组在通知各成员单位的公函中写道：‘关于数字化平台测试阶段的工作安排已随信附上，详情参见附件，专此函达。’",
+                    "reading": "Xiàngmù liánhé gōngzuòzǔ zài tōngzhī gè chéngyuán dānwèi de gōnghán zhōng xiě dào: ‘Guānyú shùzìhuà píngtái cèshì jiēduàn de gōngzuò ānpái yǐ suíxìn fùshàng, xiángqíng cānjiàn fùjiàn, zhuāncǐ hándá.’",
+                    "translation": "The joint working group wrote: 'The schedule for platform testing has been attached with this letter; details are in the attachment, specially communicated hereby.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 商务职场与正式电邮 (Business & Corporate Communication)"
+                "Email Closings: 顺祝商祺 (Business Regards), 此致敬礼 (Highest Regards), 谨致谢忱 (Sincere Thanks), 专此函达 (Specially Communicated)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "«商祺» (shāngqí) literally means 'business auspiciousness/prosperity'. Its traditional layout with '商祺' at the top of a new line demonstrates respectful elevation (抬头) in Chinese epistolary culture."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「商务职场与正式电邮 (Business & Corporate Communication)」在第4小节中的标准汉语语法规范？",
+                    "prompt": "在商业合作往来电邮中，最标准典雅的商务祝福结语是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (20.4.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (20.4.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (20.4.3)。"
+                        "拜拜啦",
+                        "顺祝商祺 (Shùnzhù shāngqí — Best business regards)",
+                        "明天见"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "顺祝商祺 is the standard Chinese corporate email valediction."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「商务沟通、职场礼仪与正式电邮 (Corporate Communication)」语用情境与完整句式的选项（练习 4）：",
+                    "prompt": "公文与商务感谢信中表达‘诚恳地表达由衷的谢意’的典雅四字成语是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (20.4.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (20.4.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (20.4.3)。"
+                        "谨致谢忱 (Jǐnzhì xièchén — Extend sincere gratitude)",
+                        "理所当然",
+                        "微不足道"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "谨致谢忱 (jǐnzhì xièchén) is the formal epistolary expression for conveying deep gratitude."
                 }
             ]
         },
@@ -10064,85 +10106,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「商务职场与正式电邮 (Business & Corporate Communication)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 20-4）？",
+                    "prompt": "关于中文正式公函与商务电邮的结语格式，下列哪一项完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (20.4.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (20.4.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (20.4.3)。"
+                        "结语可以随意写在正文中间",
+                        "正式邮件不需要任何结语",
+                        "‘商祺’或‘敬礼’另起一行顶格书写，体现对收件人的敬重 (Elevated on a new line to show honorific respect)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "Traditional Chinese letter layout places 商祺 or 敬礼 at the beginning of a new line to show respect."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («开会_20_4»):",
+                    "prompt": "Type the 4-character Hanzi business valediction for 'Best business regards / Wishing you business prosperity' (顺祝商祺):",
                     "acceptedAnswers": [
-                        "开会_20_4"
+                        "顺祝商祺",
+                        "shunzhushangqi",
+                        "shùnzhùshāngqí",
+                        "Shùnzhùshāngqí",
+                        "Shunzhushangqi",
+                        "順祝商祺"
                     ],
-                    "explanation": "The target keyword was: 【开会_20_4】"
+                    "explanation": "顺祝商祺 (shùnzhù shāngqí) means 'Best business regards'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u20-l5": {
         "id": "zh-u20-l5",
-        "subject": "mandarin",
-        "unit": 20,
-        "lessonNumber": 5,
-        "title": "商务沟通、职场礼仪与正式电邮 (Corporate Communication) (Part 5)",
+        "unit": "zh-u20",
         "level": "B2",
-        "objective": "Comprehensive mastery of 商务职场与正式电邮 (Business & Corporate Communication).",
+        "objective": "Synthesize all corporate registers (Openings, Modesty Request terms, Meeting discourse, Closings & Valedictions) into high-stakes cross-border partnership negotiations, MOU documentation, and official press releases.",
+        "prerequisites": [
+            "zh-u20-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u20-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「商务沟通、职场礼仪与正式电邮 (Corporate Communication)」（第5部分）的核心句法结构与商务职场与正式电邮 (Business & Corporate Communication)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在本课中，我们将系统整合第二十单元的所有商务沟通、职场礼仪与公文电邮体系，构建母语级的商务公文论述与跨国战略合作实战能力！\n\n1. 现代高阶商务汉语全景矩阵 (Master Corporate Communication Matrix):\n| 商务沟通维度 | 核心程式表达 | 语用场景与功能 |\n| :--- | :--- | :--- |\n| **公函抬头** | 尊敬的 [Title] / 敬启者 | 确立尊崇、庄重的商务基调 |\n| **事由致信** | 展信佳！冒昧致信，现就…… | 谦恭有礼，开门见山切入正题 |\n| **请求与敬辞** | 烦请协助 / 拨冗莅临 / 不吝赐教 | 润滑人际沟通，彰显专业修养 |\n| **会议与决策** | 达成共识 / 权衡利弊 / 推进落实 | 驱动商业议程，达成互利共赢 |\n| **结语与致敬** | 顺祝商祺 / 谨致谢忱 / 专此布达 | 规范收尾，留存良好商业信誉 |\n\n2. 第二十单元实战交际演练 (Unit 20 Cross-Border Strategic MOU Signing):\n- 跨国高科技联合研发战略合作备忘录（MOU）正式签署仪式与双语公文交换。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (20.5.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "在跨国战略合作签约仪式上，双方代表共同签署公文备忘录并庄严致辞：‘尊敬的各位来宾、行业同仁：展信佳！经过多轮友好协商，双方已就共建跨国人工智能创新联合实验室达成了高度共识；我们将本着互利共赢的原则，全力推进各项研发任务落地落实！’",
+                    "reading": "Zài kuàguó zhànlüè hézuò qiānyuē yíshì shang, shuāngfāng dàibiǎo gòngtóng qiānshǔ gōngwén bèiwànglù bìng zhuāngyán zhìcí: ‘Zūnjìng de gèwèi láibīn, hángyè tóngrén: Zhǎnxìn jiā! Jīngguò duō lún yǒuhǎo xiéshāng, shuāngfāng yǐ jiù gòngjiàn kuàguó réngōngzhìnéng chuàngxīn liánhé shíyànshì dáchéng le gāodù gòngshí; wǒmen jiāng běnzhe hùlì-gòngyíng de yuánzé, quánlì tuījìn gè xiàng yánfā rènwu luòdì luòshí!’",
+                    "translation": "At the signing ceremony, both representatives signed the MOU: 'Distinguished guests and colleagues: Greetings! After multiple rounds of consultations, we have reached high consensus on building a joint AI lab; we will adhere to win-win principles to advance all R&D tasks firmly on the ground!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (20.5.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫在代表外方团队起草的致谢公函中写道：‘衷心感谢中方团队在此次合作中展现出的卓越专业能力与高效协作精神，期待未来双方携手并肩、共铸辉煌！在此谨致谢忱，顺祝商祺！’",
+                    "reading": "Dàwèi zài dàibiǎo wàifāng tuánduì qǐcǎo de zhìxiè gōnghán zhōng xiě dào: ‘Zhōngxīn gǎnxiè zhōngfāng tuánduì zài cǐ cì hézuò zhōng zhǎnxiàn chū de zhuóyuè zhuānyè nénglì yǔ gāoxiào xiézuò jīngshén, qīdài wèilái shuāngfāng xiéshǒu-bìngjiān, gòngzhù-huīhuáng! Zài cǐ jǐnzhì xièchén, shùnzhù shāngqí!’",
+                    "translation": "David drafted the thank-you missive: 'Heartfelt thanks to the Chinese team for their outstanding expertise and efficiency; we look forward to building brilliance together! Sincere gratitude, best business regards!'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (20.5.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "新闻发言人在跨国战略发布会上总结：‘本次战略合作备忘录的签署，是双方深化经贸与高新科技合作的重要里程碑，充分体现了在全球化浪潮中开放合作、互利共赢的时代主旋律！’",
+                    "reading": "Xīnwén fāyánrén zài kuàguó zhànlüè fābùhuì shang zǒngjié: ‘Běn cì zhànlüè hézuò bèiwànglù de qiānshǔ, shì shuāngfāng shēnhuà jīng-mào yǔ gāoxīn kējì hézuò de zhòngyào lǐchéngbēi, chōngfèn tǐxiàn le zài quánqiúhuà làngcháo zhōng kāifàng hézuò, hùlì-gòngyíng de shídài zhǔxuánlǜ!’",
+                    "translation": "The spokesperson summarized: 'Signing this MOU is a vital milestone in deepening economic and high-tech cooperation, embodying open collaboration and win-win partnership in economic globalization!'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 商务职场与正式电邮 (Business & Corporate Communication)"
+                "Corporate Master: Salutation (尊敬的) ➔ Modesty Opening (冒昧致信) ➔ Meeting Action (达成共识/推进落实) ➔ Win-Win (互利共赢) ➔ Valediction (顺祝商祺)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "In Chinese business culture, a formal partnership signing ceremony (签约仪式 qiānyuē yíshì) involves exchanging signed red folders with both hands (双手递交) and a ceremonial handshake to seal long-term strategic commitment."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「商务职场与正式电邮 (Business & Corporate Communication)」在第5小节中的标准汉语语法规范？",
+                    "prompt": "句子‘双方本着互利共赢的原则，就联合实验室项目达成了高度共识，并将全力推进各项工作落地落实’体现了完整的：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (20.5.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (20.5.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (20.5.3)。"
+                        "高阶商务公文与战略合作议事话语 (High-register corporate epistolary & partnership discourse)",
+                        "随便聊天的口语",
+                        "文学诗歌描写"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "This combines key business collocations (互利共赢, 达成共识, 推进落实) in high-register corporate discourse."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「商务沟通、职场礼仪与正式电邮 (Corporate Communication)」语用情境与完整句式的选项（练习 5）：",
+                    "prompt": "在正式签署战略合作备忘录（MOU）的公文中，用四字成语表达‘携手并进，共同开创辉煌未来’的是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (20.5.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (20.5.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (20.5.3)。"
+                        "携手并肩 / 共铸辉煌 (Xiéshǒu-bìngjiān, gòngzhù-huīhuáng — Joining hands to create brilliance)",
+                        "分道扬镳",
+                        "各自为政"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "携手并肩, 共铸辉煌 is the classic celebratory idiom for signing strategic business partnerships."
                 }
             ]
         },
@@ -10150,24 +10204,30 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「商务职场与正式电邮 (Business & Corporate Communication)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 20-5）？",
+                    "prompt": "关于现代商务汉语与职场公文电邮的完整规范，下列哪一项总括完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (20.5.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (20.5.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (20.5.3)。"
+                        "商务邮件不需要问候和署名",
+                        "公文只能用文言文书写",
+                        "商务公函涵盖抬头称谓、自谦开篇、敬辞请求、议事决策成语及格式化结语致敬，体现了严谨尊崇的商业礼仪体系 (Encompasses salutations, modesty openings, request honorifics, action collocations, and formal closings)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "This comprehensively captures the structure and etiquette of modern Chinese corporate correspondence."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («开会_20_5»):",
+                    "prompt": "Type the 4-character phrase for 'memorandum of understanding / strategic agreement' (备忘录):",
                     "acceptedAnswers": [
-                        "开会_20_5"
+                        "备忘录",
+                        "beiwanglu",
+                        "bèiwànglù",
+                        "Bèiwànglù",
+                        "Beiwanglu",
+                        "備忘錄"
                     ],
-                    "explanation": "The target keyword was: 【开会_20_5】"
+                    "explanation": "备忘录 (bèiwànglù) means 'memorandum / MOU'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u21-l1": {
