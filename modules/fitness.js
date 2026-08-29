@@ -315,6 +315,9 @@
   function speakCoach(text) {
     if (!getVoiceCoachEnabled() || !window.speechSynthesis) return;
     try {
+      if (window.speechSynthesis.paused) {
+        window.speechSynthesis.resume();
+      }
       window.speechSynthesis.cancel(); // Stop ongoing utterances
       const utter = new SpeechSynthesisUtterance(text);
       utter.rate = 1.05;

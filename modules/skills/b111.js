@@ -211,16 +211,19 @@ ${formatRich(activeLesson.presentation.explanation)}
             </h4>
             <div style="display:flex; flex-direction:column; gap:10px;">
               ${activeLesson.presentation.examples.map(ex => `
-                <div style="background:rgba(56,189,248,0.08); border-left:4px solid #38bdf8; padding:12px 16px; border-radius:0 6px 6px 0;">
-                  <div style="font-weight:700; color:#f1f5f9; font-family:monospace;">${formatRich(ex.target)}</div>
-                  <div style="color:#cbd5e1; font-size:0.9rem; margin-top:4px;">${formatRich(ex.translation || ex.reading || '')}</div>
+                <div style="background:rgba(56,189,248,0.08); border-left:4px solid #38bdf8; padding:12px 16px; border-radius:0 6px 6px 0; display:flex; align-items:center; justify-content:space-between; gap:10px;">
+                  <div style="flex:1;">
+                    <div style="font-weight:700; color:#f1f5f9; font-family:monospace;">${formatRich(ex.target)}</div>
+                    <div style="color:#cbd5e1; font-size:0.9rem; margin-top:4px;">${formatRich(ex.translation || ex.reading || '')}</div>
+                  </div>
+                  <button type="button" class="fearn-speak-btn" onclick="FEARN.audio && FEARN.audio.speak('${escapeHtml(ex.target).replace(/'/g, "\\'")}', 'english')" title="Listen" style="background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.18); border-radius:6px; padding:3px 8px; cursor:pointer; font-size:0.95rem; color:#fff;">🔊</button>
                 </div>
               `).join('')}
             </div>
           </div>
         ` : ''}
 
-        <!-- Interactive Checkpoint Problem Set -->
+        <!-- Interactive Checkpoint Examination -->
         <div id="b111-exam-container" style="background:rgba(15, 23, 42, 0.9); border:1px solid rgba(255,255,255,0.1); border-radius:10px; padding:20px; margin-top:24px;">
           <h4 style="margin:0 0 14px; font-size:1.1rem; color:#f8fafc; font-weight:700; display:flex; align-items:center; gap:8px;">
             <span>📝</span> Problem Set & Checkpoint Examination
@@ -229,39 +232,44 @@ ${formatRich(activeLesson.presentation.explanation)}
         </div>
       `;
 
-      // Mount Quiz synchronously
-      const quizArea = rightCol.querySelector ? rightCol.querySelector('#b111-quiz-area') : null;
-      const items = (activeLesson.checkpointTest && activeLesson.checkpointTest.items) || [];
-      
-      if (quizArea) {
+      setTimeout(() => {
+        const quizArea = rightCol.querySelector('#b111-quiz-area');
+        if (!quizArea) return;
+
+        const items = (activeLesson.checkpointTest && activeLesson.checkpointTest.items) || [];
         if (!items.length) {
           quizArea.innerHTML = `<p style="color:#94a3b8;">No checkpoint questions registered for this session.</p>`;
-        } else {
-          let userScore = 0;
-          let answeredCount = 0;
+          return;
+        }
 
-          items.forEach((item, qIdx) => {
-            const qBox = document.createElement('div');
-            qBox.style.marginBottom = '18px';
-            qBox.style.padding = '14px';
-            qBox.style.background = 'rgba(30, 41, 59, 0.5)';
-            qBox.style.borderRadius = '8px';
-            qBox.style.border = '1px solid rgba(255,255,255,0.05)';
+        let userScore = 0;
+        let answeredCount = 0;
 
-            qBox.innerHTML = `
-              <div style="font-weight:600; color:#f1f5f9; margin-bottom:10px; font-size:0.95rem;">
+        items.forEach((item, qIdx) => {
+          const qBox = document.createElement('div');
+          qBox.style.marginBottom = '18px';
+          qBox.style.padding = '14px';
+          qBox.style.background = 'rgba(30, 41, 59, 0.5)';
+          qBox.style.borderRadius = '8px';
+          qBox.style.border = '1px solid rgba(255,255,255,0.05)';
+
+          qBox.innerHTML = `
+            <div style="display:flex; align-items:center; justify-content:space-between; gap:10px; margin-bottom:10px;">
+              <div style="font-weight:600; color:#f1f5f9; font-size:0.95rem; flex:1;">
                 Q${qIdx + 1}: ${formatRich(item.prompt)}
               </div>
-            `;
+              <button type="button" class="fearn-speak-btn" onclick="FEARN.audio && FEARN.audio.speak('${escapeHtml(item.prompt).replace(/'/g, "\\'")}', 'english')" title="Listen" style="background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.18); border-radius:6px; padding:3px 8px; cursor:pointer; font-size:0.95rem; color:#fff;">🔊</button>
+            </div>
+          `;
 
-            const optBox = document.createElement('div');
-            optBox.style.display = 'flex';
-            optBox.style.flexDirection = 'column';
-            optBox.style.gap = '8px';
+          const optBox = document.createElement('div');
+          optBox.style.display = 'flex';
+          optBox.style.flexDirection = 'column';
+          optBox.style.gap = '8px';
 
-            let answered = false;
+          let answered = false;
 
-            const _indices = item.options.map((_, i) => i);
+          const _indices = item.options.map((_, i) => i);
             for (let i = _indices.length - 1; i > 0; i--) {
               const j = Math.floor(Math.random() * (i + 1));
               const temp = _indices[i];
@@ -319,12 +327,6 @@ ${formatRich(activeLesson.presentation.explanation)}
                     banner.style.marginTop = '16px';
                     banner.style.padding = '14px';
                     banner.style.background = 'rgba(34,197,94,0.2)';
-                    banner.style.border = '1px solid #22c55e';
-                    banner.style.borderRadius = '8px';
-                    banner.style.color = '#86efac';
-                    banner.style.fontWeight = '700';
-                    banner.style.textAlign = 'center';
-                    banner.innerHTML = `🎉 Session Mastery Achieved! Score: ${userScore}/${items.length} (Passed). Progress recorded.`;
                     quizArea.appendChild(banner);
                   }
                 }
@@ -334,8 +336,7 @@ ${formatRich(activeLesson.presentation.explanation)}
             qBox.appendChild(optBox);
             quizArea.appendChild(qBox);
           });
-        }
-      }
+        }, 50);
     } else {
       rightCol.innerHTML = `<p style="color:#94a3b8;">Select a session from the syllabus on the left.</p>`;
     }

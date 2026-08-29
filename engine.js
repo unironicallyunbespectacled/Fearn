@@ -766,12 +766,13 @@
         if (window.speechSynthesis.paused) {
           window.speechSynthesis.resume();
         }
+        // Stop any currently playing audio so new audio plays immediately
         window.speechSynthesis.cancel();
 
         const langTag = AUDIO_LANG_TAGS[langKey] || langKey || 'en-US';
         const utter = new SpeechSynthesisUtterance(text);
         utter.lang = langTag;
-        utter.rate = currentSpeechRate || 0.9;
+        utter.rate = currentSpeechRate || 0.95;
 
         const bestVoice = findBestVoice(langTag);
         if (bestVoice) {
@@ -780,17 +781,13 @@
 
         activeUtterances.add(utter);
         utter.onend = function () { activeUtterances.delete(utter); };
-        utter.onerror = function () { activeUtterances.delete(utter); };
+        utter.onerror = function (e) {
+          activeUtterances.delete(utter);
+          console.warn('SpeechSynthesisUtterance error:', e);
+        };
 
-        setTimeout(function () {
-          try {
-            if (window.speechSynthesis.paused) window.speechSynthesis.resume();
-            window.speechSynthesis.speak(utter);
-          } catch (speakErr) {
-            console.warn('FEARN.audio speak dispatch error:', speakErr);
-          }
-        }, 12);
-
+        // Synchronous dispatch directly within user click call stack
+        window.speechSynthesis.speak(utter);
         return true;
       } catch (err) {
         console.warn('FEARN.audio.speak error:', err);

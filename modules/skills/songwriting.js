@@ -196,10 +196,13 @@
         ${lesson.presentation.examples
           .map(
             (ex) => `
-          <div class="fearn-example">
-            <div class="fearn-example-problem"><code>${escapeHtml(ex.problem || '')}</code></div>
-            ${ex.answer !== undefined ? `<div class="fearn-example-answer"><strong>${escapeHtml(String(ex.answer))}</strong></div>` : ''}
-            <div class="fearn-example-desc">${escapeHtml(ex.description || '')}</div>
+          <div class="fearn-example" style="display:flex; align-items:center; justify-content:space-between; gap:10px;">
+            <div style="flex:1;">
+              <div class="fearn-example-problem"><code>${escapeHtml(ex.problem || '')}</code></div>
+              ${ex.answer !== undefined ? `<div class="fearn-example-answer"><strong>${escapeHtml(String(ex.answer))}</strong></div>` : ''}
+              <div class="fearn-example-desc">${escapeHtml(ex.description || '')}</div>
+            </div>
+            ${ex.problem ? `<button type="button" class="fearn-speak-btn" onclick="FEARN.audio && FEARN.audio.speak('${escapeHtml(String(ex.problem)).replace(/'/g, "\\'")}', 'english')" title="Listen to prosody/meter" style="background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.18); border-radius:6px; padding:3px 8px; cursor:pointer; font-size:0.95rem; color:#fff;">🔊</button>` : ''}
           </div>`
           )
           .join('')}
@@ -217,7 +220,10 @@
       const row = document.createElement('div');
       row.className = 'fearn-checkpoint-item';
       row.innerHTML = `
-        <p>${escapeHtml(item.prompt)}</p>
+        <div style="display:flex; align-items:center; justify-content:space-between; gap:10px;">
+          <p style="margin:0; flex:1;">${escapeHtml(item.prompt)}</p>
+          <button type="button" class="fearn-speak-btn" onclick="FEARN.audio && FEARN.audio.speak('${escapeHtml(item.prompt).replace(/'/g, "\\'")}', 'english')" title="Listen" style="background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.18); border-radius:6px; padding:3px 8px; cursor:pointer; font-size:0.95rem; color:#fff;">🔊</button>
+        </div>
         ${item.options ? `<ul>${item.options.map((o) => `<li>${escapeHtml(o)}</li>`).join('')}</ul>` : ''}
       `;
       const input = document.createElement('textarea');

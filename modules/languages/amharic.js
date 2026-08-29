@@ -323,9 +323,17 @@
       items.forEach(function (item, idx) {
         var q = document.createElement('div');
         q.className = 'fearn-lang-practice-item';
+        var promptRow = document.createElement('div');
+        promptRow.style.cssText = 'display:flex; align-items:center; justify-content:space-between; gap:10px; margin-bottom:8px;';
         var prompt = document.createElement('p');
+        prompt.style.cssText = 'flex:1; margin:0; font-weight:600;';
         prompt.textContent = (idx + 1) + '. ' + (item.prompt || item.q || '');
-        q.appendChild(prompt);
+        promptRow.appendChild(prompt);
+        if (window.FEARN && window.FEARN.audio && window.FEARN.audio.createSpeakButton) {
+          var pAudio = window.FEARN.audio.createSpeakButton(item.prompt || item.q || '', MODULE_ID);
+          if (pAudio) promptRow.appendChild(pAudio);
+        }
+        q.appendChild(promptRow);
         if (Array.isArray(item.options)) {
           var indices = item.options.map(function (_, i) { return i; });
           for (var si = indices.length - 1; si > 0; si--) {
@@ -336,8 +344,11 @@
           }
           indices.forEach(function (origIdx) {
             var opt = item.options[origIdx];
+            var optRow = document.createElement('div');
+            optRow.style.cssText = 'display:flex; align-items:center; gap:8px; margin-bottom:6px;';
             var b = document.createElement('button');
             b.className = 'fearn-lang-option-btn';
+            b.style.cssText = 'flex:1; text-align:left;';
             b.textContent = opt;
             b.onclick = function () {
               var correct = origIdx === item.answerIndex;
@@ -349,7 +360,12 @@
                 q.appendChild(expl);
               }
             };
-            q.appendChild(b);
+            optRow.appendChild(b);
+            if (window.FEARN && window.FEARN.audio && window.FEARN.audio.createSpeakButton) {
+              var optAudio = window.FEARN.audio.createSpeakButton(opt, MODULE_ID);
+              if (optAudio) optRow.appendChild(optAudio);
+            }
+            q.appendChild(optRow);
           });
         }
         flowRoot.appendChild(q);
@@ -401,12 +417,17 @@
         card.style.flexDirection = 'column';
         card.style.gap = '14px';
 
+        var promptRow = document.createElement('div');
+        promptRow.style.cssText = 'display:flex; align-items:center; justify-content:space-between; gap:10px;';
         var promptP = document.createElement('div');
-        promptP.style.fontSize = '1.05rem';
-        promptP.style.fontWeight = '700';
-        promptP.style.color = 'var(--text-main)';
+        promptP.style.cssText = 'flex:1; font-size:1.05rem; font-weight:700; color:var(--text-main);';
         promptP.textContent = (currentQ + 1) + '. ' + (item.prompt || item.q || '');
-        card.appendChild(promptP);
+        promptRow.appendChild(promptP);
+        if (window.FEARN && window.FEARN.audio && window.FEARN.audio.createSpeakButton) {
+          var qAudio = window.FEARN.audio.createSpeakButton(item.prompt || item.q || '', MODULE_ID);
+          if (qAudio) promptRow.appendChild(qAudio);
+        }
+        card.appendChild(promptRow);
 
         var nextBtn = document.createElement('button');
         nextBtn.className = 'fearn-lang-btn-primary';

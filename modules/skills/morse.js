@@ -34,6 +34,9 @@
     try {
       const ctx = getMorseAudioCtx();
       if (!ctx) return;
+      if (ctx.state === 'suspended') {
+        ctx.resume();
+      }
       const speed = wpm || 20;
       const dotDuration = 1.2 / speed;
       const dashDuration = dotDuration * 3;

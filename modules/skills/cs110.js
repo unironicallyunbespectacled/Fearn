@@ -211,9 +211,12 @@ ${formatRich(activeLesson.presentation.explanation)}
             </h4>
             <div style="display:flex; flex-direction:column; gap:10px;">
               ${activeLesson.presentation.examples.map(ex => `
-                <div style="background:rgba(167,139,250,0.08); border-left:4px solid #a78bfa; padding:12px 16px; border-radius:0 6px 6px 0;">
-                  <div style="font-weight:700; color:#f1f5f9; font-family:monospace;">${formatRich(ex.target)}</div>
-                  <div style="color:#cbd5e1; font-size:0.9rem; margin-top:4px;">${formatRich(ex.translation || ex.reading || '')}</div>
+                <div style="background:rgba(167,139,250,0.08); border-left:4px solid #a78bfa; padding:12px 16px; border-radius:0 6px 6px 0; display:flex; align-items:center; justify-content:space-between; gap:10px;">
+                  <div style="flex:1;">
+                    <div style="font-weight:700; color:#f1f5f9; font-family:monospace;">${formatRich(ex.target)}</div>
+                    <div style="color:#cbd5e1; font-size:0.9rem; margin-top:4px;">${formatRich(ex.translation || ex.reading || '')}</div>
+                  </div>
+                  <button type="button" class="fearn-speak-btn" onclick="FEARN.audio && FEARN.audio.speak('${escapeHtml(ex.target).replace(/'/g, "\\'")}', 'english')" title="Listen to technical term" style="background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.18); border-radius:6px; padding:3px 8px; cursor:pointer; font-size:0.95rem; color:#fff;">🔊</button>
                 </div>
               `).join('')}
             </div>
@@ -249,8 +252,11 @@ ${formatRich(activeLesson.presentation.explanation)}
             qBox.style.border = '1px solid rgba(255,255,255,0.05)';
 
             qBox.innerHTML = `
-              <div style="font-weight:600; color:#f1f5f9; margin-bottom:10px; font-size:0.95rem;">
-                Q${qIdx + 1}: ${formatRich(item.prompt)}
+              <div style="display:flex; align-items:center; justify-content:space-between; gap:10px; margin-bottom:10px;">
+                <div style="font-weight:600; color:#f1f5f9; font-size:0.95rem; flex:1;">
+                  Q${qIdx + 1}: ${formatRich(item.prompt)}
+                </div>
+                <button type="button" class="fearn-speak-btn" onclick="FEARN.audio && FEARN.audio.speak('${escapeHtml(item.prompt).replace(/'/g, "\\'")}', 'english')" title="Listen" style="background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.18); border-radius:6px; padding:3px 8px; cursor:pointer; font-size:0.95rem; color:#fff;">🔊</button>
               </div>
             `;
 
