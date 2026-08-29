@@ -1940,63 +1940,69 @@
     },
     "hk-u4-l1": {
         "id": "hk-u4-l1",
-        "subject": "cantonese",
-        "unit": 4,
-        "lessonNumber": 1,
-        "title": "量詞同名詞修飾 (Classifiers & Noun Modification) (Part 1)",
+        "unit": "hk-u4",
         "level": "A1",
-        "objective": "Comprehensive mastery of 廣東話量詞系統 (Classifiers: 個/隻/條).",
+        "objective": "Master the foundational Cantonese classifiers 個 (go3 - general items/people), 隻 (zek3 - animals/small items/utensils), and 條 (tiu4 - long, flexible or elongated objects).",
+        "prerequisites": [
+            "hk-u3-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u3-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（廣東話量詞系統 (Classifiers: 個/隻/條) - 第1部分）入面，我哋會探討廣東話嘅核心語用語境同埋廣東話量詞系統 (Classifiers: 個/隻/條)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "廣東話嘅量詞系統極其發達，幾乎每個名詞都有特定搭配，比普通話同英文更為嚴謹！\n\n1. 三大基石量詞 (Three Cornerstone Classifiers):\n- **個 (go3)**：最通用量詞，用於人、抽象事物、圓形或無特定形狀物品。\n  - 例如：一個人 (one person), 一個橙 (an orange), 一個問題 (a question)。\n- **隻 (zek3)**：廣東話極具特色，用於**動物、餐具杯碟、手腳耳眼、船隻手錶**！\n  - 例如：一隻貓 (a cat), 一隻狗 (a dog), 一隻杯 (a cup), 一隻手錶 (a watch), 一隻艇 (a boat)。\n- **條 (tiu4)**：用於**長條形、柔軟或延綿物體**。\n  - 例如：一條魚 (a fish), 一條褲 (a pair of trousers), 一條路 (a road), 一條問題 (a quiz question colloquially)。\n\n2. 廣東話「量詞代替領屬/特指」特點 (Classifier as Definite Article):\n- 廣東話可以直接用「量詞 + 名詞」表示特指（相當於 the），例如：「隻狗好乖」(The dog is very well-behaved)、「條街好靜」(The street is very quiet)。",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (4.1.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "街角嗰間寵物舖入面有三隻好得意嘅小貓咪。",
+                    "reading": "gaai1 gok3 go2 gaan1 cung2 mat6 pou3 jap6 min6 jau5 saam1 zek3 hou2 dak1 ji3 ge3 siu2 maau1 mai1.",
+                    "translation": "That pet shop at the street corner has three very cute little kittens."
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (4.1.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "我今日喺中環買咗一條好靚嘅牛仔褲。",
+                    "reading": "ngo5 gam1 jat6 hai2 zung1 waan4 maai5 zo2 jat1 tiu4 hou2 leng3 ge3 ngau4 zai2 fu3.",
+                    "translation": "I bought a very nice pair of jeans in Central today."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (4.1.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "呢隻杯係由日本進口嘅手造陶瓷杯。",
+                    "reading": "ni1 zek3 bui1 hai6 jau4 jat6 bun2 zeon3 hau2 ge3 sau2 zou6 tou4 ci4 bui1.",
+                    "translation": "This cup is a handmade ceramic cup imported from Japan."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 廣東話量詞系統 (Classifiers: 個/隻/條)"
+                "Classifier Triad: 人物圓形用「個」(go3); 動物杯碟用「隻」(zek3); 長條魚褲用「條」(tiu4)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "In Cantonese, «隻» (zek3) is widely applied to inanimate household items like cups (一隻杯), plates (一隻碟), spoons (一隻匙羹), and watches (一隻錶), unlike Mandarin which restricts 只 primarily to animals."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「廣東話量詞系統 (Classifiers: 個/隻/條)」喺第1節嘅地道廣東話表達？",
+                    "prompt": "喺廣東話中，如果要指稱「一隻貓」或者「一隻茶杯」，應當使用邊個專用量詞？",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (4.1.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (4.1.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (4.1.3)。"
+                        "個",
+                        "隻 (zek3 - Classifier for animals/cups/watches)",
+                        "條"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "隻 (zek3) is the authentic Cantonese classifier for animals, cups, spoons, and watches."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「量詞同名詞修飾 (Classifiers & Noun Modification)」語境嘅廣東話完整句子（練習 1）：",
+                    "prompt": "廣東話指稱「一條魚」或者「一條長褲」時，最恰當的長條形量詞是：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (4.1.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (4.1.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (4.1.3)。"
+                        "條 (tiu4 - Classifier for fish, roads, pants)",
+                        "隻",
+                        "個"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "條 (tiu4) is the classifier for long, slender items like fish, trousers, and roads."
                 }
             ]
         },
@@ -2004,85 +2010,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「廣東話量詞系統 (Classifiers: 個/隻/條)」嘅日常商務與生活習慣（考核 4-1）？",
+                    "prompt": "關於廣東話中基礎量詞「個/隻/條」的搭配規則與特指語法，下列哪一項表述完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (4.1.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (4.1.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (4.1.3)。"
+                        "廣東話所有物品都只能用「個」",
+                        "「個」用於人或通用物品，「隻」用於動物、杯碟、手錶，「條」用於長條物（如魚、褲、路），且「量詞+名詞」可表特指 (go3 for general/people, zek3 for animals/cups/watches, tiu4 for long items; Cl+N expresses definiteness)",
+                        "「條」只能用來數大象"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "Accurately describes semantic categories and definite reference of Cantonese classifiers."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («一個_4_1»):",
+                    "prompt": "Type the 2-character Hanzi for 'one (animal/cup/watch)' in Cantonese (一隻):",
                     "acceptedAnswers": [
-                        "一個_4_1"
+                        "一隻",
+                        "jat1zek3",
+                        "jat1 zek3",
+                        "Jat1 zek3",
+                        "Jat1zek3",
+                        "一只"
                     ],
-                    "explanation": "The target keyword was: 【一個_4_1】"
+                    "explanation": "一隻 (jat1 zek3) means 'one (animal/cup/watch)' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u4-l2": {
         "id": "hk-u4-l2",
-        "subject": "cantonese",
-        "unit": 4,
-        "lessonNumber": 2,
-        "title": "量詞同名詞修飾 (Classifiers & Noun Modification) (Part 2)",
+        "unit": "hk-u4",
         "level": "A1",
-        "objective": "Comprehensive mastery of 廣東話量詞系統 (Classifiers: 個/隻/條).",
+        "objective": "Master Cantonese classifiers for physical premises and commercial establishments (間 gaan1) and vehicles/electronic devices (部 bou6 / 架 gaa3).",
+        "prerequisites": [
+            "hk-u4-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u4-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（廣東話量詞系統 (Classifiers: 個/隻/條) - 第2部分）入面，我哋會探討廣東話嘅核心語用語境同埋廣東話量詞系統 (Classifiers: 個/隻/條)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "廣東話對商舖建築同交通機械有專門嘅量詞體系！\n\n1. 建築與商業場所量詞「間 (gaan1)」:\n- **間 (gaan1)**：專門用於**房屋、房間、舖頭、餐廳、學校、公司、醫院**！\n  - 例如：一間屋 (a house), 一間房 (a room), 一間餐廳 (a restaurant), 一間銀行 (a bank), 一間大學 (a university)。\n\n2. 交通工具與電器機械量詞「部 (bou6)」同「架 (gaa3)」:\n- **部 (bou6)**：用於**電子產品、手機、電腦、相機、升降機（電梯）**；亦可用於車輛。\n  - 例如：一部手機 (a mobile phone), 一部手提電腦 (a laptop), 一部升降機 (an elevator)。\n- **架 (gaa3)**：專門用於**交通工具（車輛、飛機、單車、巴士、的士）**。\n  - 例如：一架巴士 (a bus), 一架私家車 (a private car), 一架飛機 (an airplane), 一架單車 (a bicycle)。",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (4.2.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "旺角新開咗一間好有特色嘅咖啡舖，吸引好多後生仔去打卡。",
+                    "reading": "wong6 gok3 san1 hoi1 zo2 jat1 gaan1 hou2 jau5 dak6 sik1 ge3 gaa3 fe1 pou3, kap1 jan5 hou2 do1 hau6 saang1 zai2 heoi3 daa2 kaat1.",
+                    "translation": "A very unique coffee shop newly opened in Mong Kok, attracting many young people to check in."
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (4.2.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "我琴日買咗一部新嘅智能手機，影相功能好強大。",
+                    "reading": "ngo5 kam4 jat6 maai5 zo2 jat1 bou6 san1 ge3 zi3 nang4 sau2 gei1, jing2 soeng2 gung1 nang4 hou2 koeng4 daai6.",
+                    "translation": "I bought a new smartphone yesterday; its photography function is very powerful."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (4.2.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "前面有一架雙層巴士啱啱停喺巴士站。",
+                    "reading": "cin4 min6 jau5 jat1 gaa3 soeng1 cang4 baa1 si2 ngaam1 ngaam1 ting4 hai2 baa1 si2 zaam6.",
+                    "translation": "Ahead there is a double-decker bus that just stopped at the bus stop."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 廣東話量詞系統 (Classifiers: 個/隻/條)"
+                "Establishment & Machine: 屋宇店舖用「間」(gaan1); 電腦手機用「部」(bou6); 交通車輛用「架」(gaa3)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "Hong Kong is famous for double-decker buses («雙層巴士»), referred to naturally as «一架雙層巴士» (jat1 gaa3 soeng1 cang4 baa1 si2)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「廣東話量詞系統 (Classifiers: 個/隻/條)」喺第2節嘅地道廣東話表達？",
+                    "prompt": "指稱「一間茶餐廳」或者「一間小學」，廣東話最正確嘅建築店舖量詞係：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (4.2.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (4.2.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (4.2.3)。"
+                        "個",
+                        "間 (gaan1 - Classifier for shops/restaurants/schools)",
+                        "部"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "間 (gaan1) is the standard Cantonese classifier for shops, restaurants, houses, and institutions."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「量詞同名詞修飾 (Classifiers & Noun Modification)」語境嘅廣東話完整句子（練習 2）：",
+                    "prompt": "在廣東話中，指代「一輛的士」或者「一架飛機」等交通工具，最地道的量詞是：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (4.2.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (4.2.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (4.2.3)。"
+                        "架 (gaa3 - Classifier for vehicles/planes)",
+                        "粒",
+                        "樽"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "架 (gaa3) is the quintessential Cantonese classifier for transport vehicles and planes."
                 }
             ]
         },
@@ -2090,85 +2108,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「廣東話量詞系統 (Classifiers: 個/隻/條)」嘅日常商務與生活習慣（考核 4-2）？",
+                    "prompt": "關於廣東話中「間 (gaan1)」、「部 (bou6)」與「架 (gaa3)」的分類搭配規則，下列哪一項表述完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (4.2.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (4.2.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (4.2.3)。"
+                        "「間」用於房屋、商舖、餐廳、學校；「部」用於電子產品如手機電腦；「架」用於車輛飛機等交通工具 (gaan1 for premises/shops, bou6 for gadgets/phones, gaa3 for vehicles/planes)",
+                        "「架」只能用來數書本",
+                        "「間」只能用來數水杯"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "explanation": "Accurately articulates the semantic distinctions between gaan1, bou6, and gaa3."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («一個_4_2»):",
+                    "prompt": "Type the 2-character Hanzi for 'one (shop/house/restaurant)' in Cantonese (一間):",
                     "acceptedAnswers": [
-                        "一個_4_2"
+                        "一間",
+                        "jat1gaan1",
+                        "jat1 gaan1",
+                        "Jat1 gaan1",
+                        "Jat1gaan1",
+                        "一间"
                     ],
-                    "explanation": "The target keyword was: 【一個_4_2】"
+                    "explanation": "一間 (jat1 gaan1) means 'one (shop/restaurant/house)' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u4-l3": {
         "id": "hk-u4-l3",
-        "subject": "cantonese",
-        "unit": 4,
-        "lessonNumber": 3,
-        "title": "量詞同名詞修飾 (Classifiers & Noun Modification) (Part 3)",
+        "unit": "hk-u4",
         "level": "A1",
-        "objective": "Comprehensive mastery of 廣東話量詞系統 (Classifiers: 個/隻/條).",
+        "objective": "Master Cantonese container and food classifiers (碗 wun2, 碟 dip6, 樽 zeon1, 罐 gun3, 粒 nap1, 包 baau1) for dining and grocery shopping.",
+        "prerequisites": [
+            "hk-u4-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u4-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（廣東話量詞系統 (Classifiers: 個/隻/條) - 第3部分）入面，我哋會探討廣東話嘅核心語用語境同埋廣東話量詞系統 (Classifiers: 個/隻/條)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "去茶樓飲茶或者茶餐廳點餐，容器量詞無處不在！\n\n1. 餐飲容器量詞 (Dining & Container Classifiers):\n- **碗 (wun2)**：用於碗裝食物，例如：一碗雲吞麵 (a bowl of wonton noodles), 一碗白飯 (a bowl of white rice)。\n- **碟 (dip6)**：用於盤裝菜餚，例如：一碟乾炒牛河 (a plate of beef chow fun), 一碟油菜 (a plate of cooked greens)。\n- **樽 (zeon1)**：用於瓶裝飲料，例如：一樽可樂 (a bottle of Coke), 一樽蒸餾水 (a bottle of distilled water)。\n- **罐 (gun3)**：用於易拉罐/罐頭，例如：一罐啤酒 (a can of beer), 一罐豆豉鯪魚 (a tin of dace in black bean sauce)。\n\n2. 小件與包裝量詞 (Granular & Packaging Classifiers):\n- **粒 (nap1 / lap1)**：用於小顆粒狀物體（糖果、藥丸、葡萄、米粒、魚蛋），例如：食兩粒感冒藥 (take two cold pills), 一粒魚蛋 (a fishball)。\n- **包 (baau1)**：用於袋裝/包裝，例如：一包薯片 (a bag of chips), 一包紙巾 (a pack of tissues)。",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (4.3.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "侍應，唔該畀一碗熱辣辣嘅鮮蝦雲吞麵同一碟白灼菜心！",
+                    "reading": "si6 jing3, m4 goi1 bei2 jat1 wun2 jit6 laat6 laat6 ge3 sin1 haa1 wan4 tan1 min6 tung4 jat1 dip6 baak6 coek3 coi3 sam1!",
+                    "translation": "Waiter, please give me a piping hot bowl of fresh shrimp wonton noodles and a plate of boiled choy sum!"
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (4.3.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "天氣好熱，我想去便利店買一樽冰凍嘅蒸餾水。",
+                    "reading": "tin1 hei3 hou2 jit6, ngo5 soeng2 heoi3 bin6 lei6 dim3 maai5 jat1 zeon1 bing1 dung3 ge3 zing1 lau4 seoi2.",
+                    "translation": "The weather is very hot; I want to go to the convenience store to buy a bottle of ice-cold distilled water."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (4.3.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "呢包紙巾幾多錢呀？我想買兩包放喺手袋入面。",
+                    "reading": "ni1 baau1 zi2 gan1 gei2 do1 cin2 aa3? ngo5 soeng2 maai5 loeng5 baau1 fong3 hai2 sau2 doi2 jap6 min6.",
+                    "translation": "How much is this pack of tissues? I want to buy two packs to put in my handbag."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 廣東話量詞系統 (Classifiers: 個/隻/條)"
+                "Container Chant: 飯麵用「碗」(wun2); 炒粉用「碟」(dip6); 汽水用「樽」(zeon1) /「罐」(gun3); 魚蛋用「粒」(nap1)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "In Hong Kong street food stalls (街頭小食), fishballs are famously ordered by the skewer or individual pieces: «買六粒咖喱魚蛋» (buy six curry fishballs)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「廣東話量詞系統 (Classifiers: 個/隻/條)」喺第3節嘅地道廣東話表達？",
+                    "prompt": "喺茶餐廳點選「雲吞麵」或者「皮蛋瘦肉粥」，最地道標準嘅容器量詞係：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (4.3.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (4.3.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (4.3.3)。"
+                        "條",
+                        "張",
+                        "碗 (wun2 - Bowl)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 2,
+                    "explanation": "碗 (wun2) is the container classifier for bowls of soup, noodles, and congee."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「量詞同名詞修飾 (Classifiers & Noun Modification)」語境嘅廣東話完整句子（練習 3）：",
+                    "prompt": "在廣東話中，形容糖果、藥丸或者魚蛋等顆粒狀小物品，專用量詞是：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (4.3.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (4.3.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (4.3.3)。"
+                        "粒 (nap1 - Granule/piece)",
+                        "架",
+                        "間"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "粒 (nap1 / lap1) is the standard Cantonese classifier for small round or granular items like pills, beads, and fishballs."
                 }
             ]
         },
@@ -2176,85 +2206,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「廣東話量詞系統 (Classifiers: 個/隻/條)」嘅日常商務與生活習慣（考核 4-3）？",
+                    "prompt": "關於廣東話中容器與飲食量詞「碗/碟/樽/粒/包」的精確搭配，下列哪一項表述完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (4.3.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (4.3.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (4.3.3)。"
+                        "「碗」用於麵食米飯，「碟」用於炒菜盤裝，「樽/罐」用於瓶罐飲料，「粒」用於顆粒小食或藥丸，「包」用於袋裝紙巾零食 (wun2 for bowls, dip6 for plates, zeon1/gun3 for bottles/cans, nap1 for small granules/fishballs, baau1 for bags/packs)",
+                        "「碗」只能用來數飛機",
+                        "「粒」在廣東話中表示大樓"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "Accurately articulates food and container classifier distinctions."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («一個_4_3»):",
+                    "prompt": "Type the 2-character Hanzi for 'one bowl' in Cantonese (一碗):",
                     "acceptedAnswers": [
-                        "一個_4_3"
+                        "一碗",
+                        "jat1wun2",
+                        "jat1 wun2",
+                        "Jat1 wun2",
+                        "Jat1wun2"
                     ],
-                    "explanation": "The target keyword was: 【一個_4_3】"
+                    "explanation": "一碗 (jat1 wun2) means 'one bowl' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u4-l4": {
         "id": "hk-u4-l4",
-        "subject": "cantonese",
-        "unit": 4,
-        "lessonNumber": 4,
-        "title": "量詞同名詞修飾 (Classifiers & Noun Modification) (Part 4)",
+        "unit": "hk-u4",
         "level": "A1",
-        "objective": "Comprehensive mastery of 廣東話量詞系統 (Classifiers: 個/隻/條).",
+        "objective": "Master the Cantonese plural collective classifier 啲 (di1), constructing demonstrative plural determiners (呢啲 ni1 di1, 嗰啲 go2 di1, 邊啲 bin1 di1) and partitive expressions.",
+        "prerequisites": [
+            "hk-u4-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u4-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（廣東話量詞系統 (Classifiers: 個/隻/條) - 第4部分）入面，我哋會探討廣東話嘅核心語用語境同埋廣東話量詞系統 (Classifiers: 個/隻/條)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "**「啲 (di1)」**係廣東話中最神奇又多功能嘅核心詞彙之一，兼具**複數量詞**同**微量副詞**兩大功能！\n\n1. 複數指示體系 (Plural Demonstrative System):\n- **呢啲 (ni1 di1)**：These / these ones（近指複數）。\n  - 「呢啲水果好甜好新鮮。」(These fruits are very sweet and fresh.)\n- **嗰啲 (go2 di1)**：Those / those ones（遠指複數）。\n  - 「嗰啲書全部都係我嘅。」(Those books are all mine.)\n- **邊啲 (bin1 di1)**：Which ones（疑問複數）。\n  - 「邊啲文件需要經理簽名呀？」(Which documents require the manager's signature?)\n\n2. 「啲」嘅兼類用法 (Other Key Uses of 啲 di1):\n- **部分/一些 (Some / a bit of)**：例如「飲啲水」(drink some water)、「食啲嘢」(eat something)。\n- **形容詞比較後綴 (A bit more - Adj + 啲)**：例如「平啲」(a bit cheaper)、「快啲」(faster)、「大啲」(a bit bigger)。",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (4.4.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "呢啲點心全部都係師傅今朝現包現蒸嘅。",
+                    "reading": "ni1 di1 dim2 sam1 cyun4 bou6 dou1 hai6 si1 fu2 gam1 ziu1 jin6 baau1 jin6 zing1 ge3.",
+                    "translation": "These dim sum are all freshly wrapped and steamed by the chef this morning."
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (4.4.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "嗰啲相片記錄咗我哋大學畢業嗰陣嘅美好回憶。",
+                    "reading": "go2 di1 soeng2 pin2 gei3 luk6 zo2 ngo5 dei6 daai6 hok6 bat1 jip6 go2 zan6 ge3 mei5 hou2 wui4 jik1.",
+                    "translation": "Those photos recorded the wonderful memories of our university graduation."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (4.4.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "請問呢度邊啲菜式係冇辣嘅？",
+                    "reading": "cing2 man6 ni1 dou6 bin1 di1 coi3 sik1 hai6 mou5 laat6 ge3?",
+                    "translation": "Excuse me, which dishes here are non-spicy?"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 廣東話量詞系統 (Classifiers: 個/隻/條)"
+                "Plural 啲 (di1): 呢啲(These), 嗰啲(Those), 邊啲(Which ones) + 食啲嘢(Eat some) + 平啲(Cheaper)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "The word «啲» is fundamental to Cantonese conversation; whether softening requests («飲啲茶啦»), softening prices («平啲啦»), or grouping items («呢啲»), it adds natural warmth."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「廣東話量詞系統 (Classifiers: 個/隻/條)」喺第4節嘅地道廣東話表達？",
+                    "prompt": "廣東話入面，指代近處複數事物「這些（these）」嘅正確字詞係：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (4.4.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (4.4.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (4.4.3)。"
+                        "呢個",
+                        "嗰啲",
+                        "呢啲 (ni1 di1 - These / these ones)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 2,
+                    "explanation": "呢啲 (ni1 di1) is the proximal plural demonstrative in Cantonese."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「量詞同名詞修飾 (Classifiers & Noun Modification)」語境嘅廣東話完整句子（練習 4）：",
+                    "prompt": "如果要問店員「哪些是特價商品？」，在廣東話中「哪些 (which ones)」應當表述為：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (4.4.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (4.4.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (4.4.3)。"
+                        "邊個",
+                        "邊啲 (bin1 di1 - Which ones)",
+                        "邊度"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "邊啲 (bin1 di1) represents the plural interrogative 'which ones'."
                 }
             ]
         },
@@ -2262,85 +2303,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「廣東話量詞系統 (Classifiers: 個/隻/條)」嘅日常商務與生活習慣（考核 4-4）？",
+                    "prompt": "關於廣東話中複數指示詞「呢啲/嗰啲/邊啲」與「啲」的多功能語法（複數、部分、程度），下列哪一項表述完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (4.4.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (4.4.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (4.4.3)。"
+                        "「啲」在廣東話中只能表示單數",
+                        "「呢啲」表示遠指",
+                        "「啲 (di1)」可與呢/嗰/邊結合成複數指示（呢啲/嗰啲/邊啲），亦可用作部分量詞（食啲嘢）或程度比較詞（平啲） (di1 forms plurals ni1 di1/go2 di1/bin1 di1, partitives, and comparatives like peng4 di1)"
                     ],
                     "answerIndex": 2,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "explanation": "Accurately articulates the diverse and essential functions of the Cantonese particle 啲."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («一個_4_4»):",
+                    "prompt": "Type the 2-character Hanzi for 'these / these ones' in Cantonese (呢啲):",
                     "acceptedAnswers": [
-                        "一個_4_4"
+                        "呢啲",
+                        "ni1di1",
+                        "ni1 di1",
+                        "Ni1 di1",
+                        "Ni1di1"
                     ],
-                    "explanation": "The target keyword was: 【一個_4_4】"
+                    "explanation": "呢啲 (ni1 di1) means 'these / these ones' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u4-l5": {
         "id": "hk-u4-l5",
-        "subject": "cantonese",
-        "unit": 4,
-        "lessonNumber": 5,
-        "title": "量詞同名詞修飾 (Classifiers & Noun Modification) (Part 5)",
+        "unit": "hk-u4",
         "level": "A1",
-        "objective": "Comprehensive mastery of 廣東話量詞系統 (Classifiers: 個/隻/條).",
+        "objective": "Synthesize all shape, container, building, and plural classifiers into an authentic Hong Kong wet market grocery shopping dialogue.",
+        "prerequisites": [
+            "hk-u4-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u4-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（廣東話量詞系統 (Classifiers: 個/隻/條) - 第5部分）入面，我哋會探討廣東話嘅核心語用語境同埋廣東話量詞系統 (Classifiers: 個/隻/條)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "喺呢課綜合實戰篇，我哋將第四單元學到嘅所有量詞（個、隻、條、間、碗、碟、樽、粒、包、呢啲）帶入最富嶺南煙火氣嘅場景——香港街市買餸！\n\n1. 街市買餸經典量詞與術語 (Wet Market Classifiers & Terms):\n- **買餸 (maai5 sung3)**：Buying groceries/ingredients for cooking（廣東家庭每日必備活動）。\n- **斤 / 兩 (gan1 / loeng2)**：司馬斤（1斤 = 16兩 = 約604克），街市計重標準。\n- **一條石斑魚 (jat1 tiu4 sek6 baan1 jyu2)**：A garoupa fish。\n- **一隻新鮮走地雞 (jat1 zek3 san1 sin1 zau2 dei6 gai1)**：A fresh free-range chicken。\n- **兩斤菜心 (loeng5 gan1 coi3 sam1)**：Two catties of choy sum。\n\n2. 第四單元實戰對話範例 (Unit 4 Master Dialogue):\n- **顧客David**：‘老闆，早晨！呢條石斑魚幾多錢一斤呀？’\n- **魚檔老闆**：‘早晨！好生猛㗎，六十八蚊一斤，呢條魚啱啱兩斤重。’\n- **顧客David**：‘好，幫我執呢條啦！另外隔籬菜檔嗰啲菜心好唔好食呀？’\n- **魚檔老闆**：‘嗰啲菜心好甜好嫩，你買兩斤返去白灼一流呀！’\n- **David**：‘唔該晒老闆！’",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (4.5.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "我今日放工之後要去街市買餸返屋企煮飯。",
+                    "reading": "ngo5 gam1 jat6 fong3 gung1 zi1 hau6 jiu3 heoi3 gaai1 si5 maai5 sung3 faan1 uk1 kei2 zyu2 faan6.",
+                    "translation": "After getting off work today, I need to go to the wet market to buy groceries and go home to cook."
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (4.5.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "呢隻走地雞好新鮮，一隻賣一百二十蚊。",
+                    "reading": "ni1 zek3 zau2 dei6 gai1 hou2 san1 sin1, jat1 zek3 maai6 jat1 baak3 ji6 sap6 man1.",
+                    "translation": "This free-range chicken is very fresh; one chicken sells for 120 dollars."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (4.5.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "唔該畀兩斤菜心同一包豆腐我。",
+                    "reading": "m4 goi1 bei2 loeng5 gan1 coi3 sam1 tung4 jat1 baau1 dau6 fu6 ngo5.",
+                    "translation": "Please give me two catties of choy sum and a pack of tofu."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 廣東話量詞系統 (Classifiers: 個/隻/條)"
+                "Market Flow: 街市買餸(Grocery) -> 條魚隻雞(Fish & Chicken) -> 兩斤菜心(Catties of greens) -> 滿載而歸(Rich harvest)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "Hong Kong wet markets («街市») are culinary cultural gems; buying lively fresh fish («生猛游水海鮮») and local greens using authentic Cantonese classifiers is a cornerstone of daily Hong Kong life."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「廣東話量詞系統 (Classifiers: 個/隻/條)」喺第5節嘅地道廣東話表達？",
+                    "prompt": "廣東話入面，指稱去街市購買烹飪食材「買菜 / 買菜買肉做飯」，最地道標準嘅詞彙係：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (4.5.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (4.5.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (4.5.3)。"
+                        "買單",
+                        "買餸 (maai5 sung3 - Grocery shopping for food)",
+                        "買嘢"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "買餸 (maai5 sung3) specifically refers to grocery shopping for fresh cooking ingredients."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「量詞同名詞修飾 (Classifiers & Noun Modification)」語境嘅廣東話完整句子（練習 5）：",
+                    "prompt": "在街市買魚買雞時，分別指稱「一（ ）魚」和「一（ ）雞」，最地道精確的量詞搭配是：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (4.5.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (4.5.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (4.5.3)。"
+                        "一隻魚，一條雞",
+                        "一條魚，一隻雞 (jat1 tiu4 jyu2, jat1 zek3 gai1)",
+                        "一個魚，一個雞"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "Fish takes 條 (tiu4) and fowl/chicken takes 隻 (zek3)."
                 }
             ]
         },
@@ -2348,24 +2400,30 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「廣東話量詞系統 (Classifiers: 個/隻/條)」嘅日常商務與生活習慣（考核 4-5）？",
+                    "prompt": "關於廣東話第四單元形狀量詞（隻/條/個）、建築交通量詞（間/架/部）、飲食量詞（碗/碟/樽）及街市買餸實戰，下列哪一項總括完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (4.5.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (4.5.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (4.5.3)。"
+                        "廣東話量詞只能隨意替換不需要特定搭配",
+                        "廣東話量詞系統精準嚴密（一隻雞、一條魚、一間舖、一部車、一碗麵），結合複數「呢啲」與市井實戰「買餸」，構成生活交流基石 (Rigorous classifier syntax paired with plural 呢啲 and wet market shopping)",
+                        "買餸只能在超級市場說"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "Synthesizes the rich classifier paradigm and wet market conversational context."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («一個_4_5»):",
+                    "prompt": "Type the 2-character Hanzi phrase for 'grocery shopping for food' in Cantonese (買餸):",
                     "acceptedAnswers": [
-                        "一個_4_5"
+                        "買餸",
+                        "maai5sung3",
+                        "maai5 sung3",
+                        "Maai5 sung3",
+                        "Maai5sung3",
+                        "买餸"
                     ],
-                    "explanation": "The target keyword was: 【一個_4_5】"
+                    "explanation": "買餸 (maai5 sung3) means 'grocery shopping for food ingredients' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u5-l1": {
