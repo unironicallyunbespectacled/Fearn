@@ -9253,63 +9253,69 @@
     },
     "zh-u19-l1": {
         "id": "zh-u19-l1",
-        "subject": "mandarin",
-        "unit": 19,
-        "lessonNumber": 1,
-        "title": "强调句型：是...的结构 (Emphatic 是...的) (Part 1)",
+        "unit": "zh-u19",
         "level": "B2",
-        "objective": "Comprehensive mastery of 强调句型是...的 (Emphatic 是...的 Construction).",
+        "objective": "Master the foundational 是……的 focus construction for known past events to emphasize specific circumstantial details (Time: 是什么时候来的; Place: 是在哪儿买的; Manner: 是怎么去的).",
+        "prerequisites": [
+            "zh-u18-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u18-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「强调句型：是...的结构 (Emphatic 是...的)」（第1部分）的核心句法结构与强调句型是...的 (Emphatic 是...的 Construction)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "「是……的」结构是现代汉语中用于**对已知发生的过去事件的特定细节（时间、地点、方式、目的等）进行精准信息焦点强调（Information Focus）**的最核心句式！\n\n1. 核心是……的前提条件与公式 (Core Focus Formula):\n- **前提铁律**：事件动作**已经发生或已经成为已知既成事实**（Past/Known Fact）！\n- **公式**：**主语 + 是 + [强调的焦点信息 (时间 / 地点 / 方式)] + 动词 + 的 + (宾语)**\n- 典型范式：\n  - 强调时间：我们**是昨天早晨坐高铁到达北京的**。(It was yesterday morning that we arrived in Beijing by high-speed rail.)\n  - 强调地点：这件精美的景泰蓝花瓶**是在北京琉璃厂文化街买的**。(It was on Liulichang Cultural Street in Beijing that this cloisonné vase was bought.)\n  - 强调方式：他是**一个人骑自行车从成都出发去拉萨的**。(It was by riding a bicycle alone that he went from Chengdu to Lhasa.)\n\n2. 结构禁忌：绝不能用于强调尚未发生的动作（*我明天是去北京的 ❌）！",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (19.1.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "大卫热情地向中国朋友介绍说：‘我和我的导师是上个月中旬专程坐高铁来北京参加国际青年汉学学者研讨会的。’",
+                    "reading": "Dàwèi rèqíng de xiàng Zhōngguó péngyou jièshào shuō: ‘Wǒ hé wǒ de dǎoshī shì shàng gè yuè zhōngxún zhuānchéng zuò gāotiě lái Běijīng cānjiā guójì qīngnián hànxué xuézhě yántǎohuì de.’",
+                    "translation": "David enthusiastically introduced to his Chinese friend: 'My supervisor and I came to Beijing by high-speed rail in the middle of last month specifically to participate in the international youth Sinology symposium.'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (19.1.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "张教授指着书架上一套珍贵的线装书说：‘这套《四部丛刊》是我三十年前在北京琉璃厂古旧书店淘来的。’",
+                    "reading": "Zhāng jiàoshòu zhǐ zhe shūjià shang yí tào zhēnguì de xiànzhuāngshū shuō: ‘Zhè tào «Sìbù Cóngkān» shì wǒ sānshí nián qián zài Běijīng Liúlichǎng gǔjiù shūdiàn táo lái de.’",
+                    "translation": "Professor Zhang pointed at a precious thread-bound book set on the shelf: 'This edition of Sibu Congkan was found by me 30 years ago in Beijing's Liulichang antique bookstore.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (19.1.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "李明笑着回忆道：‘当年我和几位大学同窗是用双脚一步步徒步登上泰山极顶，并有幸亲眼目睹了极其震撼的泰山日出的。’",
+                    "reading": "Lǐ Míng xiào zhe huíyì dào: ‘Dāngnián wǒ hé jǐ wèi dàxué tóngchuāng shì yòng shuāngjiǎo yíbùbù túbù dēngshàng Tàishān jídǐng, bìng yǒuxìng qīnyǎn mùdǔ le jíqí zhènhàn de Tàishān rìchū de.’",
+                    "translation": "Li Ming recalled with a smile: 'Back then, my college classmates and I climbed to Mount Tai's supreme peak step by step on foot, and were fortunate enough to witness the breathtaking sunrise with our own eyes.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 强调句型是...的 (Emphatic 是...的 Construction)"
+                "Fact Already Done? Wrap the detail with 是...的! 是 When/Where/How + Verb + 的!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Liulichang (琉璃厂) in Beijing has been the traditional cultural hub for scholar-calligraphers, antiquarian book collectors, and antique connoisseurs since the Qing Dynasty."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「强调句型是...的 (Emphatic 是...的 Construction)」在第1小节中的标准汉语语法规范？",
+                    "prompt": "句子‘这批珍贵的敦煌文献数字化档案是科研人员历时五年在莫高窟实地采集完成的’中，‘是……的’强调的核心信息是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (19.1.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (19.1.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (19.1.3)。"
+                        "时间跨度与地点方式等背景细节 (Time span, location, and manner details of past event)",
+                        "动作是否会发生",
+                        "对未来的假设预测"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "是……的 emphasizes the past timeframe, location, and manner of the completed archive acquisition."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「强调句型：是...的结构 (Emphatic 是...的)」语用情境与完整句式的选项（练习 1）：",
+                    "prompt": "在询问对方‘您是乘飞机还是坐高铁来的？’时，使用‘是……的’结构的前提语境是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (19.1.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (19.1.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (19.1.3)。"
+                        "对方目前尚未出发",
+                        "对方已经到达现场，询问其交通出行方式细节 (The guest has already arrived; querying travel manner detail)",
+                        "对方正在犹豫买哪种票"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "是……的 assumes the event (arrival) is already accomplished and focuses on the manner of transit."
                 }
             ]
         },
@@ -9317,85 +9323,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「强调句型是...的 (Emphatic 是...的 Construction)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 19-1）？",
+                    "prompt": "关于‘是……的’强调句型，下列哪一项语法规则完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (19.1.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (19.1.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (19.1.3)。"
+                        "可以用于强调明天即将发生的动作",
+                        "‘是……的’仅用于动作已经发生的前提下，强调发生的时间、地点、方式、目的等细节 (Used for already-occurred actions to emphasize time, place, manner, etc.)",
+                        "‘的’字必须放在句首"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "是……的 is strictly used for already occurred events to emphasize specific circumstantial parameters."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («是在北京学的_19_1»):",
+                    "prompt": "Type the Hanzi name of Beijing's famous historic antique and bookstore district (琉璃厂):",
                     "acceptedAnswers": [
-                        "是在北京学的_19_1"
+                        "琉璃厂",
+                        "liulichang",
+                        "liúlichǎng",
+                        "Liúlichǎng",
+                        "Liulichang",
+                        "琉璃廠"
                     ],
-                    "explanation": "The target keyword was: 【是在北京学的_19_1】"
+                    "explanation": "琉璃厂 (liúlichǎng) is Beijing's historic antique and antiquarian book quarter."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u19-l2": {
         "id": "zh-u19-l2",
-        "subject": "mandarin",
-        "unit": 19,
-        "lessonNumber": 2,
-        "title": "强调句型：是...的结构 (Emphatic 是...的) (Part 2)",
+        "unit": "zh-u19",
         "level": "B2",
-        "objective": "Comprehensive mastery of 强调句型是...的 (Emphatic 是...的 Construction).",
+        "objective": "Master the focus on purpose (是为了...的), agent (是由...负责的), and instrument (是用...制作的) within the 是……的 framework.",
+        "prerequisites": [
+            "zh-u19-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u19-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「强调句型：是...的结构 (Emphatic 是...的)」（第2部分）的核心句法结构与强调句型是...的 (Emphatic 是...的 Construction)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "除了强调时间与地点，「是……的」句式还能强力聚焦于动作的**动机目的（Purpose）、主导主体（Agent）与工具媒介（Instrument）**！\n\n1. 强调目的动机 (Purpose Focus Formula):\n- **主语 + 是为了 + [特定目标 / 宗旨] + (而) + 动词 + 的**\n- 例句：王教授**是为了抢救濒危少数民族语言口头传统，才深入偏远山区做田野调查的**。(It was in order to rescue endangered oral traditions that Professor Wang went deep into remote mountains.)\n\n2. 强调施事者与组织主体 (Agent Focus Formula):\n- **这项国家级重大科研课题是由清华大学团队牵头联合攻关的**。(It was by the Tsinghua team that this national major project was led.)\n\n3. 强调工艺材料与工具媒介 (Instrument / Material Focus):\n- **这幅传世名画是用传统宣纸和特制松烟墨绘制而成的**。(It was with traditional Xuan paper and pine-soot ink that this masterpiece was painted.)",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (19.2.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "大卫由衷地赞叹道：‘这把做工极其考究的明式黄花梨太师椅，是由非遗传承老匠人纯手工采用榫卯结构精制而成的。’",
+                    "reading": "Dàwèi yóuzhōng de zàntàn dào: ‘Zhè bǎ zuògōng jíqí kǎojiu de Míng-shì huánghuālǐ tàishīyǐ, shì yóu fēiyí chuánchéng lǎo jiàngrén chún shǒugōng cǎiyòng sǔnmǎo jiégòu jīngzhì ér chéng de.’",
+                    "translation": "David exclaimed sincerely: 'This Ming-style Huanghuali armchair of exquisite craftsmanship was handmade by a veteran intangible heritage master using pure mortise-and-tenon joints.'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (19.2.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "张总工程师在发布会上宣布：‘这款全自主知识产权的量子计算芯片，是由我们青年骨干科研团队历经千百次实验自主研发成功的。’",
+                    "reading": "Zhāng zǒnggōngchéngshī zài fābùhuì shang xuānbù: ‘Zhè kuǎn quán zìzhǔ zhīshí chǎnquán de liàngzǐ jìsuàn xīnpīan, shì yóu wǒmen qīngnián gǔgàn kēyán tuánduì lìjīng qiānbǎicì shíyàn zìzhǔ yánfā chénggōng de.’",
+                    "translation": "Chief Engineer Zhang announced: 'This quantum computing chip with independent IP was successfully developed by our young core scientific team after hundreds of experiments.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (19.2.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "中方代表团团长指出：‘我们此次出访欧洲三国，是为了深化多边经贸合作与推动文明交流互鉴而专程前来的。’",
+                    "reading": "Zhōngfāng dàibiǎotuán tuánzhǎng zhǐchū: ‘Wǒmen cǐcì chūfǎng Ōuzhōu sān guó, shì wèile shēnhuà duōbiān jīng-mào hézuò yǔ tuīdòng wénmíng jiāoliú-hùjiàn ér zhuānchéng qiánlái de.’",
+                    "translation": "The delegation head pointed out: 'Our visit to three European countries was specifically made in order to deepen multilateral economic cooperation and promote civilizational exchange.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 强调句型是...的 (Emphatic 是...的 Construction)"
+                "Who led it? 是由 Agent 的! Why do it? 是为了 Goal 的! What tool? 是用 Tool 的!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Traditional Chinese mortise and tenon joints (榫卯 sǔnmǎo) allow wooden architecture and classical Ming furniture to stand strong for centuries without a single metallic nail."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「强调句型是...的 (Emphatic 是...的 Construction)」在第2小节中的标准汉语语法规范？",
+                    "prompt": "句子‘这本权威古籍校注是由国家图书馆古籍整理专家团队历时十年编纂完成的’中，‘是……的’强调的是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (19.2.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (19.2.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (19.2.3)。"
+                        "书本的价格",
+                        "负责编纂的施事主体团队 (The agentive expert team responsible for compilation)",
+                        "将来的出版计划"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "是由...完成的 focuses squarely on the agentive team responsible for the work."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「强调句型：是...的结构 (Emphatic 是...的)」语用情境与完整句式的选项（练习 2）：",
+                    "prompt": "传统中国古典家具在不用铁钉的情况下实现严丝合缝、历久弥坚的精湛木工工艺称为：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (19.2.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (19.2.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (19.2.3)。"
+                        "榫卯结构 (Sǔnmǎo jiégòu — Mortise and tenon joint structure)",
+                        "塑料黏合",
+                        "铁丝固定"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "榫卯结构 (sǔnmǎo jiégòu) is the iconic ancient Chinese mortise-and-tenon woodworking craft."
                 }
             ]
         },
@@ -9403,85 +9421,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「强调句型是...的 (Emphatic 是...的 Construction)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 19-2）？",
+                    "prompt": "下列哪个句子属于强调‘目的与动机’的规范‘是……的’句式？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (19.2.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (19.2.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (19.2.3)。"
+                        "我们明天要去参加文化节",
+                        "文化节是非常热闹的",
+                        "我们是为了促进两国青年相互了解而举办这次文化节的 (Shì wèile... ér... de — Purpose focus)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "是为了...而...的 is the canonical purpose focus construction."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («是在北京学的_19_2»):",
+                    "prompt": "Type the 2-character Hanzi for the traditional 'mortise and tenon joint' (榫卯):",
                     "acceptedAnswers": [
-                        "是在北京学的_19_2"
+                        "榫卯",
+                        "sunmao",
+                        "sǔnmǎo",
+                        "Sǔnmǎo",
+                        "Sunmao"
                     ],
-                    "explanation": "The target keyword was: 【是在北京学的_19_2】"
+                    "explanation": "榫卯 (sǔnmǎo) refers to traditional mortise and tenon woodworking joints."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u19-l3": {
         "id": "zh-u19-l3",
-        "subject": "mandarin",
-        "unit": 19,
-        "lessonNumber": 3,
-        "title": "强调句型：是...的结构 (Emphatic 是...的) (Part 3)",
+        "unit": "zh-u19",
         "level": "B2",
-        "objective": "Comprehensive mastery of 强调句型是...的 (Emphatic 是...的 Construction).",
+        "objective": "Master the negation rule of the focus construction (Negator 不 must precede 是: 不是……的), contrasting the negation of focal details against ordinary verbal negations.",
+        "prerequisites": [
+            "zh-u19-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u19-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「强调句型：是...的结构 (Emphatic 是...的)」（第3部分）的核心句法结构与强调句型是...的 (Emphatic 是...的 Construction)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "「是……的」结构的否定式有着严密的句法法则，其否定焦点具有高度针对性！\n\n1. 绝对否定法则 (The Negation Law of 是……的):\n- **否定副词「不」必须严格置于「是」的前面，构成「不是……的」**！\n- **公式**：**主语 + 不是 + [被否定的焦点信息] + 动词 + 的**\n- 严禁置于动词前：\n  - 正确：我**不是昨天来的**，我是前天来的。(I didn't come yesterday; I came the day before yesterday.)\n  - 错误：*我是没昨天来的 ❌ / *我是不昨天来的 ❌\n\n2. 否定焦点纠正双联句 (Negation + Correction Parallel Duals):\n- **不是 A 动词的，而是 B 动词的** (It was NOT A, but rather B that [action occurred]).\n- 高阶学术例句：\n  - 这项重大科研突破**不是靠偶然侥幸取得的，而是靠团队多年如一日的艰苦攻关实现的**。(This breakthrough was NOT achieved by sheer luck, but by years of grueling teamwork.)",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (19.3.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "大卫诚恳地向老师解释说：‘这篇关于中国传统节日的调查报告，不是我一个人独立写成的，而是我们跨国学习小组共同合作完成的。’",
+                    "reading": "Dàwèi chéngkěn de xiàng lǎoshī jiěshì shuō: ‘Zhè piān guānyú Zhōngguó chuántǒng jiérì de diàochá bàogào, bú shì wǒ yí gè rén dúlì xiěchéng de, ér shì wǒmen kuàguó xuéxí xiǎozǔ gòngtóng hézuò wánchéng de.’",
+                    "translation": "David explained sincerely to the teacher: 'This investigative report on traditional Chinese festivals was not written by me alone, but was completed through joint collaboration by our multinational study group.'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (19.3.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "文物鉴定专家严肃指出：‘这件青花瓷瓶不是在明代景德镇官窑烧制的，而是清代晚期仿古工艺制作的精美民窑器物。’",
+                    "reading": "Wénwù jiàndìng zhuānjiā yánsù zhǐchū: ‘Zhè jiàn qīnghuā cípíng bú shì zài Míngdài Jǐngdézhèn guānyáo shāozhì de, ér shì Qīngdài wǎnqī fǎnggǔ gōngyì zhìzuò de jīngměi mínyáo qìwù.’",
+                    "translation": "The antique appraiser pointed out: 'This blue-and-white porcelain vase was not fired in Ming imperial kilns in Jingdezhen, but was an exquisite folk kiln artifact produced by late Qing antiquarian replication.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (19.3.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "青年学者在研讨会上澄清：‘我们团队这项关于古都空间演变的研究结论，不是凭空主观推测出来的，而是依据大量出土青铜铭文与传世文献比对考证得出的。’",
+                    "reading": "Qīngnián xuézǐ zài yántǎohuì shang chéngqīng: ‘Wǒmen tuánduì zhè xiàng guānyú gǔdū kōngjiān yǎnbiàn de yánjiū jiélùn, bú shì píngkōng zhǔguān tuīcè chūlai de, ér shì yījù dàliàng chūtǔ qīngtóng míngwén yǔ chuánshì wénxiàn bǐduì kǎozhèng déchū de.’",
+                    "translation": "The young scholar clarified: 'Our team's conclusion on ancient capital spatial evolution was not subjectively speculated out of thin air, but was deduced from corroborating unearthed bronze inscriptions with transmitted historical texts.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 强调句型是...的 (Emphatic 是...的 Construction)"
+                "Never say 是没/是不! Put 不 right in front of 是: 不是 Time/Place/Manner 的, 而是 True Detail 的!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Jingdezhen (景德镇) in Jiangxi Province has been renowned as the world's porcelain capital (瓷都) for over a thousand years, famous for its blue-and-white porcelain (青花瓷)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「强调句型是...的 (Emphatic 是...的 Construction)」在第3小节中的标准汉语语法规范？",
+                    "prompt": "将句子‘我是在北京买的这幅国画’改为否定句，规范无误的是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (19.3.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (19.3.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (19.3.3)。"
+                        "我是不买在北京的这幅国画",
+                        "我不是在北京买的这幅国画 (Wǒ bú shì zài Běijīng mǎi de — 不 correctly precedes 是)",
+                        "我是没在北京买的这幅国画"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "In the 是……的 construction, negation must place 不 directly in front of 是 (不是……的)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「强调句型：是...的结构 (Emphatic 是...的)」语用情境与完整句式的选项（练习 3）：",
+                    "prompt": "句子‘科学结论不是凭空捏造出来的，而是经过严格实证检验的’中，‘不是……而是……’的修辞效果是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (19.3.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (19.3.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (19.3.3)。"
+                        "先否定错误归因，再精准确立正确归因 (Negates erroneous attribution, then establishes valid truth)",
+                        "表示疑问困惑",
+                        "表示被动受害"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "不是...而是... establishes a strong contrast between an erroneous premise and the correct factual basis."
                 }
             ]
         },
@@ -9489,85 +9518,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「强调句型是...的 (Emphatic 是...的 Construction)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 19-3）？",
+                    "prompt": "关于‘是……的’句型的否定规则，下列哪一项完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (19.3.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (19.3.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (19.3.3)。"
+                        "否定词‘不’必须严格放在‘是’的前面构成‘不是……的’ (不 must strictly precede 是)",
+                        "否定词必须用‘没’且放在动词前",
+                        "否定句必须省略‘的’"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "The negation of the focus construction must be 不是……的."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («是在北京学的_19_3»):",
+                    "prompt": "Type the Hanzi for China's famous porcelain capital (景德镇):",
                     "acceptedAnswers": [
-                        "是在北京学的_19_3"
+                        "景德镇",
+                        "jingdezhen",
+                        "jǐngdézhèn",
+                        "Jǐngdézhèn",
+                        "Jingdezhen",
+                        "景德鎮"
                     ],
-                    "explanation": "The target keyword was: 【是在北京学的_19_3】"
+                    "explanation": "景德镇 (jǐngdézhèn) is China's historic porcelain capital."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u19-l4": {
         "id": "zh-u19-l4",
-        "subject": "mandarin",
-        "unit": 19,
-        "lessonNumber": 4,
-        "title": "强调句型：是...的结构 (Emphatic 是...的) (Part 4)",
+        "unit": "zh-u19",
         "level": "B2",
-        "objective": "Comprehensive mastery of 强调句型是...的 (Emphatic 是...的 Construction).",
+        "objective": "Master the optional omission of 是 in affirmative statements, the mandatory presence of 是 in negative and interrogative forms, and the two permissible positions of nominal objects (V + 的 + O vs. V + O + 的).",
+        "prerequisites": [
+            "zh-u19-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u19-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「强调句型：是...的结构 (Emphatic 是...的)」（第4部分）的核心句法结构与强调句型是...的 (Emphatic 是...的 Construction)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "掌握「是……的」的高阶语法细节，是区分普通学习者与母语级使用者的关键！\n\n1. 「是」的省略规律 (Omission Rules of 是):\n- **肯定句中「是」常可省略**（使语言更凝练自然）：\n  - 我（是）昨天到的北京。= 我昨天到的北京。(Both valid!)\n- **否定句与疑问句中「是」绝对不可省略**！\n  - 否定句：我**不是**坐飞机来的。（绝不可说 *我不坐飞机来的 ❌）\n  - 疑问句：你**是**怎么知道这个消息的？\n\n2. 宾语位置的两大铁律 (Placement of the Nominal Object):\n- **形态 A（最常用标准式）：主语 + 是 + 状语 + 动词 + 的 + 宾语**\n  - 我是在中国**学的汉语**。(Focus on 'in China', object placed after 的).\n- **形态 B（紧凑口语式）：主语 + 是 + 状语 + 动词 + 宾语 + 的**\n  - 我是在中国**学汉语的**。(Common when object is monosyllabic or short).",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (19.4.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "大卫在茶艺馆与同伴交流：‘我去年在云南大理喝过这种普洱茶，是在当地一家百年老茶庄买的茶叶。’",
+                    "reading": "Dàwèi zài cháyìguǎn yǔ tóngbàn jiāoliú: ‘Wǒ qùnián zài Yúnnán Dàlǐ hē guò zhè zhǒng Pǔ'ěr chá, shì zài dāngdì yì jiā bǎinián lǎocházhuāng mǎi de cháyè.’",
+                    "translation": "David chatted with peers in the teahouse: 'I drank this Pu'er tea in Dali, Yunnan last year; it was in a century-old local tea shop that I bought the tea.'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (19.4.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "张教授向国际学者提问：‘请问各位学者是哪一年开始专注于中国古代简帛文献数字化整理与研究工作的？’",
+                    "reading": "Zhāng jiàoshòu xiàng guójì xuézhě tíwèn: ‘Qǐngwèn gèwèi xuézhě shì nǎ yì nián kāishǐ zhuānzhù yú Zhōngguó gǔdài jiǎnbó wénxiàn shùzìhuà zhěnglǐ yǔ yánjiū gōngzuò de?’",
+                    "translation": "Professor Zhang inquired of the international scholars: 'May I ask in which year you scholars began focusing on the digital curation and study of ancient Chinese bamboo and silk manuscripts?'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (19.4.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "李明笑着对大家说：‘大家请放心，这次国际学术文化交流活动的全部接待行程，我们都是按照最高外事礼仪标准精心安排的。’",
+                    "reading": "Lǐ Míng xiào zhe duì dàjiā shuō: ‘Dàjiā qǐng fàngxīn, zhè cì guójì xuéshù wénhuà jiāoliú huódòng de quánbù jiēdài xíngchéng, wǒmen dōu shì ànzhào zuìgāo wàishì lǐyí biāozhǔn jīngxīn ānpái de.’",
+                    "translation": "Li Ming said to everyone with a smile: 'Please be assured, all reception itineraries for this international cultural exchange event were meticulously arranged by us according to the highest diplomatic protocol standards.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 强调句型是...的 (Emphatic 是...的 Construction)"
+                "Affirmative: 是 is optional (我昨天到的 = 我是昨天到的). Negative & Questions: 是 is mandatory (不是...的 / 是怎么...的)! Object can follow 的 (买的书) or precede 的 (买书的)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Pu'er tea (普洱茶) from Yunnan Province, traditionally transported across the Ancient Tea Horse Road (茶马古道), is celebrated for its rich aroma and fermentation aging qualities."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「强调句型是...的 (Emphatic 是...的 Construction)」在第4小节中的标准汉语语法规范？",
+                    "prompt": "关于‘是……的’句型中‘是’字的省略规则，下列判断完全正确的是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (19.4.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (19.4.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (19.4.3)。"
+                        "任何情况下都不能省略",
+                        "在肯定句中‘是’可根据口语习惯自然省略，但在否定句‘不是……的’中绝对不能省略 (Optional in affirmative, mandatory in negative)",
+                        "在否定句中必须省略"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "In affirmative focus sentences, 是 can be omitted; in negative forms, 不是 is strictly mandatory."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「强调句型：是...的结构 (Emphatic 是...的)」语用情境与完整句式的选项（练习 4）：",
+                    "prompt": "句子‘我是在北京大学读的研究生’与‘我是在北京大学读研究生的’：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (19.4.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (19.4.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (19.4.3)。"
+                        "两者在语法规范上均成立，仅为宾语置于‘的’前后的语体微调 (Both syntactically valid variations of object placement)",
+                        "第一句是错的",
+                        "第二句是错的"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "Both 读的研究生 (V+的+O) and 读研究生的 (V+O+的) are standard, valid permutations."
                 }
             ]
         },
@@ -9575,85 +9616,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「强调句型是...的 (Emphatic 是...的 Construction)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 19-4）？",
+                    "prompt": "下列哪个疑问句在‘是……的’语法结构上完全规范？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (19.4.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (19.4.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (19.4.3)。"
+                        "你是怎么把这个复杂系统搭建起来的？ (Nǐ shì zěnme bǎ zhè gè fùzá xìtǒng dājiàn qǐlái de? — Perfect modal interrogative focus)",
+                        "你怎样把这个搭建起来？的",
+                        "你是明天怎么来的？"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "你是怎么……的 is the canonical interrogative focus pattern."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («是在北京学的_19_4»):",
+                    "prompt": "Type the Hanzi for Yunnan's famous fermented tea (普洱茶):",
                     "acceptedAnswers": [
-                        "是在北京学的_19_4"
+                        "普洱茶",
+                        "puercha",
+                        "pǔ'ěrchá",
+                        "Pǔ'ěrchá",
+                        "Puercha",
+                        "普洱"
                     ],
-                    "explanation": "The target keyword was: 【是在北京学的_19_4】"
+                    "explanation": "普洱茶 (pǔ'ěrchá) is Yunnan's renowned fermented Pu'er tea."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u19-l5": {
         "id": "zh-u19-l5",
-        "subject": "mandarin",
-        "unit": 19,
-        "lessonNumber": 5,
-        "title": "强调句型：是...的结构 (Emphatic 是...的) (Part 5)",
+        "unit": "zh-u19",
         "level": "B2",
-        "objective": "Comprehensive mastery of 强调句型是...的 (Emphatic 是...的 Construction).",
+        "objective": "Synthesize all focus construction variants (Circumstances, Purpose, Agent/Instrument, Negation/Contrast, Object positioning) into high-stakes press conference exchanges and diplomatic briefings.",
+        "prerequisites": [
+            "zh-u19-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u19-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「强调句型：是...的结构 (Emphatic 是...的)」（第5部分）的核心句法结构与强调句型是...的 (Emphatic 是...的 Construction)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在本课中，我们将系统整合第十九单元的所有强调句法规则，构建完整的焦点信息传达网络，并在外交部例行记者会与国际重大新闻发布语境中进行实战综合演练！\n\n1. 现代汉语「是……的」焦点强调全景矩阵 (Master Focus Matrix):\n| 强调焦点类型 | 核心句法结构 | 典型高级应用范例 |\n| :--- | :--- | :--- |\n| **时间/地点/方式** | 主语 + 是 + 时间/地点/方式 + V + 的 | 我们是上周乘专机抵达北京的 |\n| **目的/宗旨** | 主语 + 是为了 + 目标 + (而) + V + 的 | 会议是为了凝聚全球绿色共识而召开的 |\n| **施事/主导团队** | 主语 + 是由 + 专家团队 + 牵头研发的 | 该大模型是由中国科研院所自主训练的 |\n| **否定矫正对比** | 不是 A + 的，而是 B + 的 | 不是靠补贴维持的，而是靠技术创新赢得市场的 |\n| **省略与宾语位置** | (是) + 状语 + V + 的 + O / V + O + 的 | 我是在故宫拍的照片 / 拍照片的 |\n\n2. 第十九单元实战交际演练 (Unit 19 Diplomatic Briefing):\n- 外交部发言人就高科技自主创新、国际多边文化遗产保护项目回答中外记者提问。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (19.5.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "外交部发言人在例行记者会上严正回应道：‘中国高新科技产业的蓬勃发展，不是靠任何外部施舍或贸易壁垒保护得来的，而是千千万万中国科技工作者夜以继日自主创新、攻坚克难奋斗出来的！’",
+                    "reading": "Wàijiāobù fāyánrén zài lìxíng jìzhěhuì shang yánzhèng huíyìng dào: ‘Zhōngguó gāoxīn kējì chǎnyè de péngbó fāzhǎn, bú shì kào rènhé wàibù shīshě huò màoyì bìlěi bǎohù délái de, ér shì qiānqiān-wànwàn Zhōngguó kējì gōngzuòzhě yèyǐjìrì zìzhǔ chuàngxīn, gōngjiān-kènán fèndòu chūlai de!’",
+                    "translation": "The Foreign Ministry spokesperson responded sternly: 'The vigorous development of China's high-tech industry was not gained by external handouts or trade barriers, but was fought for through round-the-clock independent innovation by millions of Chinese tech workers!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (19.5.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "新闻发言人继续补充道：‘本次跨国濒危古迹数字化联合修复项目，是由中外联合考古专家组历时三年在丝绸之路沿线古城遗址现场实地勘探完成的，其宗旨是为了让古老的世界文化遗产在新时代焕发持久生命力。’",
+                    "reading": "Xīnwén fāyánrén jìxù bǔchōng dào: ‘Běn cì kuàguó bīnwēi gǔjì shùzìhuà liánhé xiūfù xiàngmù, shì yóu zhōng-wài liánhé kǎogǔ zhuānjiāzǔ lìshí sān nián zài Sīchóuzhīlù yánxiàn gǔchéng yízhǐ xiànchǎng shídì kāntàn wánchéng de, qí zōngzhǐ shì wèile ràng gǔlǎo de shìjiè wénhuà yíchǎn zài xīn shídài huànfā chíjiǔ shēngmìnglì.’",
+                    "translation": "The spokesperson added: 'This multinational joint digital restoration project of endangered heritage was surveyed on site along the Silk Road by a joint Chinese-foreign archaeological team over three years, with the aim of revitalizing ancient world cultural heritage in the new era.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (19.5.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "大卫在国际新闻发布会现场用精准的中文记录并总结：‘发言人的答问逻辑清晰、掷地有声，充分展现了中国在国际舞台上坚定开放合作、共克时艰的大国风范与战略定力！’",
+                    "reading": "Dàwèi zài guójì xīnwén fābùhuì xiànchǎng yòng jīngzhǔn de zhōngwén jìlù bìng zǒngjié: ‘Fāyánrén de dáwèn luóji qīngxī, zhìdì-yǒushēng, chōngfèn zhǎnxiàn le Zhōngguó zài guójì wǔtái shang jiāndìng kāifàng hézuò, gòngkè-shíjiān de dàguó fēngfàn yǔ zhànlüè dìnglì!’",
+                    "translation": "David recorded in precise Chinese at the press conference: 'The spokesperson's responses were logically sharp and resounding with conviction, demonstrating China's great-power poise and strategic resolve to pursue open cooperation and overcome difficulties together!'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 强调句型是...的 (Emphatic 是...的 Construction)"
+                "Focus Master: 是 When/Where/How/Why/Who + Verb + 的! Negation: 不是 A 而是 B! Crystal clear, resounding focus!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "The idiom «掷地有声» (zhìdì-yǒushēng, throwing onto ground with resounding metallic chime) originates from the Jin Dynasty to describe powerful, resonant, and persuasive speech."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「强调句型是...的 (Emphatic 是...的 Construction)」在第5小节中的标准汉语语法规范？",
+                    "prompt": "句子‘本次国际交流大会是为了共商全球绿色发展大计而在北京隆重召开的’综合运用了哪些强调维度？",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (19.5.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (19.5.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (19.5.3)。"
+                        "目的强调 (是为了……而) + 地点强调 (是在北京) (Purpose focus + Locative focus)",
+                        "单纯的现在进行时",
+                        "被动让步句"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "是为了...而 (purpose focus) combined with 是在北京 (locative focus) creates a multi-dimensional focus sentence."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「强调句型：是...的结构 (Emphatic 是...的)」语用情境与完整句式的选项（练习 5）：",
+                    "prompt": "成语‘掷地有声’在外交新闻与演讲评论中用于赞誉：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (19.5.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (19.5.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (19.5.3)。"
+                        "发言人声音过于微弱",
+                        "发言论述坚定有力、字字千钧且极具说服力 (Speech is powerful, resolute, and richly persuasive)",
+                        "现场掉落了金属物体"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "掷地有声 describes speech delivered with compelling force, clarity, and resonance."
                 }
             ]
         },
@@ -9661,24 +9714,30 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「强调句型是...的 (Emphatic 是...的 Construction)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 19-5）？",
+                    "prompt": "关于现代汉语‘是……的’强调句型系统，下列哪一项总括完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (19.5.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (19.5.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (19.5.3)。"
+                        "‘是……的’可以随意用于未发生的事情",
+                        "‘是……的’句中不能出现名词宾语",
+                        "‘是……的’立足于已然事实，能够精准强调时间、地点、方式、目的、施事及材料，且否定时‘不’必须置于‘是’前 (Stands on past facts to focus time/place/manner/purpose/agent, with 不 preceding 是)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "This encapsulates the foundational logic, coverage, and negation rules of the 是……的 focus system."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («是在北京学的_19_5»):",
+                    "prompt": "Type the 4-character idiom for 'resounding with conviction / words of immense weight and force' (掷地有声):",
                     "acceptedAnswers": [
-                        "是在北京学的_19_5"
+                        "掷地有声",
+                        "zhidiyousheng",
+                        "zhìdìyǒushēng",
+                        "Zhìdìyǒushēng",
+                        "Zhidiyousheng",
+                        "擲地有聲"
                     ],
-                    "explanation": "The target keyword was: 【是在北京学的_19_5】"
+                    "explanation": "掷地有声 (zhìdì-yǒushēng) means 'resounding with conviction / powerful and persuasive in delivery'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u20-l1": {
