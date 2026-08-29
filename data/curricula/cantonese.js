@@ -4395,63 +4395,69 @@
     },
     "hk-u9-l1": {
         "id": "hk-u9-l1",
-        "subject": "cantonese",
-        "unit": 9,
-        "lessonNumber": 1,
-        "title": "飲茶同廣東飲食文化 (Yum Cha & Dining) (Part 1)",
+        "unit": "hk-u9",
         "level": "A2",
-        "objective": "Comprehensive mastery of 茶樓點心同飲茶文化 (Yum Cha & Dim Sum).",
+        "objective": "Master teahouse seating etiquette (開位), tea varieties (普洱, 鐵觀音, 香片, 菊花), and iconic table manners (叩指禮, 揭蓋加水).",
+        "prerequisites": [
+            "hk-u8-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u8-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（茶樓點心同飲茶文化 (Yum Cha & Dim Sum) - 第1部分）入面，我哋會探討廣東話嘅核心語用語境同埋茶樓點心同飲茶文化 (Yum Cha & Dim Sum)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "去茶樓酒家「飲茶 (jam2 caa4)」，係廣東同香港文化中最具代表性嘅飲食社交活動！\n\n1. 開位與品茶選擇 (Seating & Tea Selection):\n- 入座時侍應會問：‘幾多位呀？飲咩茶？’\n- **普洱 (pou2 nei2)**：Pu-erh tea（性溫、消滯解膩，最受歡迎）。\n- **鐵觀音 (tit3 gun1 jam1)**：Tieguanyin oolong tea（茶香濃郁）。\n- **香片 (hoeng1 pin2)**：Jasmine green tea（清香怡人）。\n- **菊普 (guk1 pou2)**：Chrysanthemum with Pu-erh（降火潤喉）。\n\n2. 飲茶兩大經典肢體禮儀 (Teahouse Body Etiquette):\n- **叩手禮 / 叩指禮 (kau3 zi2 lai5)**：人哋幫你倒茶嗰陣，用食指與中指（或單指）輕敲桌面兩三下，表示「唔該 / 多謝」（源於乾隆下江南微服出巡之典故）。\n- **揭開茶壺蓋 (kit3 hoi1 caa4 wu2 goi3)**：茶壺冇水嗰陣，將壺蓋斜放或揭開，侍應睇到就會主動過嚟幫你加滾水。",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (9.1.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "早晨兩位！請問兩位今日想飲普洱定係香片呀？",
+                    "reading": "zou2 san4 loeng5 wai2! cing2 man6 loeng5 wai2 gam1 jat6 soeng2 jam2 pou2 nei2 ding6 hai6 hoeng1 pin2 aa3?",
+                    "translation": "Good morning two persons! May I ask if you two would like to drink Pu-erh or Jasmine tea today?"
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (9.1.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "人哋斟茶嗰陣輕輕叩兩下枱面，係廣東人好地道嘅禮貌習慣。",
+                    "reading": "jan4 dei6 zam1 caa4 go2 zan6 heng1 heng1 kau3 loeng5 haa6 toi2 min2, hai6 gwong2 dung1 jan4 hou2 dei6 dou6 ge3 lai5 maau6 zaap6 gwaan3.",
+                    "translation": "Tapping the table gently twice when someone pours tea is a very authentic polite habit of Cantonese people."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (9.1.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "個茶壺冇晒水喇，揭開個蓋等侍應過嚟加滾水啦。",
+                    "reading": "go3 caa4 wu2 mou5 saai3 seoi2 laa3, kit3 hoi1 go3 goi3 dang2 si6 jing3 gwo3 lei4 gaa1 gwan2 seoi2 laa1.",
+                    "translation": "The teapot has run out of water, open the lid and wait for the waiter to come over and add boiling water."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 茶樓點心同飲茶文化 (Yum Cha & Dim Sum)"
+                "Yum Cha Ritual: 開位問茶(Pu'er/Tieguanyin) -> 斟茶叩指(Tap table) -> 冇水揭蓋(Open lid)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "«叩指禮» (finger tapping) originated from Emperor Qianlong travelling incognito in Guangdong; his ministers bent two fingers like kneeling knees to secretly thank him when he poured tea."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「茶樓點心同飲茶文化 (Yum Cha & Dim Sum)」喺第1節嘅地道廣東話表達？",
+                    "prompt": "喺茶樓飲茶，當別人為你倒茶斟茶時，廣東人表達感謝的地道動作是：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (9.1.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (9.1.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (9.1.3)。"
+                        "大聲拍手",
+                        "用手指輕叩桌面兩下（叩指禮） (Tap the table gently with fingers - Kau zi lai)",
+                        "舉手示意侍應"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "叩指禮 (kau3 zi2 lai5 - finger tapping) is the quintessential teahouse gesture of gratitude."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「飲茶同廣東飲食文化 (Yum Cha & Dining)」語境嘅廣東話完整句子（練習 1）：",
+                    "prompt": "當茶壺中的茶水喝完需要添加熱水時，廣東茶樓的經典默認暗號是：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (9.1.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (9.1.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (9.1.3)。"
+                        "將茶壺蓋揭開或斜放 (Open or tilt the teapot lid)",
+                        "把茶壺倒扣在桌上",
+                        "大聲敲打碗碟"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "揭開茶壺蓋 signals to teahouse staff that hot water refill is needed."
                 }
             ]
         },
@@ -4459,85 +4465,99 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「茶樓點心同飲茶文化 (Yum Cha & Dim Sum)」嘅日常商務與生活習慣（考核 9-1）？",
+                    "prompt": "關於廣東傳統「飲茶 (jam2 caa4)」文化中的品茗種類（普洱/香片/鐵觀音）與餐桌禮儀，下列哪一項表述完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (9.1.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (9.1.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (9.1.3)。"
+                        "飲茶時不能喝任何茶水",
+                        "廣東飲茶講究茶道與禮儀，常見茶品有普洱、香片、鐵觀音等，並以叩指禮謝茶、揭蓋示意加滾水 (Cantonese yum cha features classics like Pu'er and Tieguanyin, finger tapping thanks, and lid-tilting for refills)",
+                        "「開位」在廣東話中是開會的意思"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "explanation": "Accurately frames the cultural vocabulary and etiquette of teahouses."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («點心_9_1»):",
+                    "prompt": "Type the 3-character Hanzi phrase for 'Pu-erh tea' in Cantonese (普洱茶):",
                     "acceptedAnswers": [
-                        "點心_9_1"
+                        "普洱茶",
+                        "pou2nei2caa4",
+                        "pou2 nei2 caa4",
+                        "Pou2 nei2 caa4",
+                        "Pou2nei2caa4",
+                        "普洱",
+                        "pou2nei2",
+                        "pou2 nei2"
                     ],
-                    "explanation": "The target keyword was: 【點心_9_1】"
+                    "explanation": "普洱茶 (pou2 nei2 caa4) means 'Pu-erh tea' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u9-l2": {
         "id": "hk-u9-l2",
-        "subject": "cantonese",
-        "unit": 9,
-        "lessonNumber": 2,
-        "title": "飲茶同廣東飲食文化 (Yum Cha & Dining) (Part 2)",
+        "unit": "hk-u9",
         "level": "A2",
-        "objective": "Comprehensive mastery of 茶樓點心同飲茶文化 (Yum Cha & Dim Sum).",
+        "objective": "Master the classic Four Heavenly Kings (四大天王) of Cantonese dim sum (蝦餃, 燒賣, 叉燒包, 蛋撻) and their ordering classifiers (籠 lung4, 碟 dip6).",
+        "prerequisites": [
+            "hk-u9-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u9-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（茶樓點心同飲茶文化 (Yum Cha & Dim Sum) - 第2部分）入面，我哋會探討廣東話嘅核心語用語境同埋茶樓點心同飲茶文化 (Yum Cha & Dim Sum)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "廣東點心（Dim Sum）款式成百上千，但最傳奇、每枱必叫嘅係**「點心四大天王」**！\n\n1. 點心四大天王 (The Four Dim Sum Heavenly Kings):\n- **蝦餃 (haa1 gaau2)**：Crystal Shrimp Dumplings（皮薄餡靚、晶瑩剔透、整隻鮮蝦包裹）。\n- **燒賣 (siu1 maai2)**：Pork & Shrimp Siu Mai（豬肉鮮蝦餡、頂部常綴以蟹籽）。\n- **叉燒包 (caa1 siu1 baau1)**：Steamed BBQ Pork Buns（鬆軟麵皮包裹秘製蜜汁叉燒）。\n- **蛋撻 (daan6 taat1)**：Egg Tarts（酥皮或牛油皮包裹香濃幼滑蛋漿）。\n\n2. 點心量詞與叫法 (Quantifiers for Dim Sum):\n- **一籠 (jat1 lung4)**：A steamer basket of (如：一籠蝦餃、一籠燒賣)。\n- **一碟 (jat1 dip6)**：A plate / dish of (如：一碟叉燒腸粉、一碟蛋撻)。\n- **一打 (jat1 daa1)**：A dozen (如：買一打蛋撻返公司)。",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (9.2.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "唔該幫我哋叫兩籠蝦餃、一籠燒賣同埋一籠蜜汁叉燒包！",
+                    "reading": "m4 goi1 bong1 ngo5 dei6 giu3 loeng5 lung4 haa1 gaau2, jat1 lung4 siu1 maai2 tung4 maai4 jat1 lung4 mat6 zap1 caa1 siu1 baau1!",
+                    "translation": "Please help us order two baskets of shrimp dumplings, one basket of siu mai, and one basket of honey BBQ pork buns!"
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (9.2.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "呢間茶樓嘅蝦餃真係好足料，每一粒都食到大大隻鮮甜海蝦！",
+                    "reading": "ni1 gaan1 caa4 lau4 ge3 haa1 gaau2 zan1 hai6 hou2 zuk1 liu2, mui5 jat1 nap1 dou1 sik6 dou3 daai6 daai6 zek3 sin1 tim4 hoi2 haa1!",
+                    "translation": "The shrimp dumplings at this teahouse are really generously made, every single one contains a huge, sweet, fresh prawn!"
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (9.2.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "新鮮出爐嘅酥皮蛋撻熱辣辣、香噴噴，食一啖真係好滿足。",
+                    "reading": "san1 sin1 ceot1 lou4 ge3 sou1 pei4 daan6 taat1 jit6 laat6 laat6, hoeng1 pan1 pan1, sik6 jat1 daam6 zan1 hai6 hou2 mun5 zuk1.",
+                    "translation": "The freshly baked flaky egg tarts are piping hot and fragrant; taking a bite is truly satisfying."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 茶樓點心同飲茶文化 (Yum Cha & Dim Sum)"
+                "Big 4 Dim Sum: 蝦餃(haa1 gaau2) + 燒賣(siu1 maai2) + 叉燒包(caa1 siu1 baau1) + 蛋撻(daan6 taat1) = 四大天王!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "Judging a teahouse's culinary standard begins with its «蝦餃» (shrimp dumplings): master chefs ensure the wrapper has at least 9 to 13 pleats («蜘蛛肚») and is translucent yet durable."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「茶樓點心同飲茶文化 (Yum Cha & Dim Sum)」喺第2節嘅地道廣東話表達？",
+                    "prompt": "廣東茶樓點心界享譽全球、被譽為四大天王之首的晶瑩點心是：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (9.2.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (9.2.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (9.2.3)。"
+                        "春卷",
+                        "蝦餃 (haa1 gaau2 - Steamed shrimp dumplings)",
+                        "炒飯"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "蝦餃 (haa1 gaau2) is the undisputed flagship of Cantonese dim sum."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「飲茶同廣東飲食文化 (Yum Cha & Dining)」語境嘅廣東話完整句子（練習 2）：",
+                    "prompt": "在茶樓點單時，蒸籠類點心（如燒賣、蝦餃）最標準的量詞是：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (9.2.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (9.2.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (9.2.3)。"
+                        "籠 (lung4 - Steamer basket)",
+                        "樽",
+                        "條"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "一籠 (jat1 lung4) is the proper classifier for bamboo-steamer dim sum."
                 }
             ]
         },
@@ -4545,85 +4565,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「茶樓點心同飲茶文化 (Yum Cha & Dim Sum)」嘅日常商務與生活習慣（考核 9-2）？",
+                    "prompt": "關於廣東茶樓「四大天王」點心（蝦餃、燒賣、叉燒包、蛋撻）及其專用量詞，下列哪一項表述完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (9.2.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (9.2.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (9.2.3)。"
+                        "「四大天王」指蝦餃、燒賣、叉燒包、蛋撻；蒸點通常以「籠 (lung4)」為量詞（如一籠蝦餃） (The 4 kings are haa1 gaau2, siu1 maai2, caa1 siu1 baau1, daan6 taat1; steamers counted by lung4)",
+                        "廣東點心只有辣味一種",
+                        "燒賣在廣東話中是用豆腐做的甜品"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "Accurately encapsulates the classic dim sum quadruplet and classifier usage."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («點心_9_2»):",
+                    "prompt": "Type the 2-character Hanzi phrase for 'shrimp dumplings' in Cantonese (蝦餃):",
                     "acceptedAnswers": [
-                        "點心_9_2"
+                        "蝦餃",
+                        "haa1gaau2",
+                        "haa1 gaau2",
+                        "Haa1 gaau2",
+                        "Haa1gaau2",
+                        "虾饺"
                     ],
-                    "explanation": "The target keyword was: 【點心_9_2】"
+                    "explanation": "蝦餃 (haa1 gaau2) means 'steamed shrimp dumplings' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u9-l3": {
         "id": "hk-u9-l3",
-        "subject": "cantonese",
-        "unit": 9,
-        "lessonNumber": 3,
-        "title": "飲茶同廣東飲食文化 (Yum Cha & Dining) (Part 3)",
+        "unit": "hk-u9",
         "level": "A2",
-        "objective": "Comprehensive mastery of 茶樓點心同飲茶文化 (Yum Cha & Dim Sum).",
+        "objective": "Master vocabulary for rice noodle rolls (腸粉), savory cakes (蘿蔔糕), fried dim sum, and signature Cantonese desserts (楊枝甘露).",
+        "prerequisites": [
+            "hk-u9-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u9-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（茶樓點心同飲茶文化 (Yum Cha & Dim Sum) - 第3部分）入面，我哋會探討廣東話嘅核心語用語境同埋茶樓點心同飲茶文化 (Yum Cha & Dim Sum)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "除咗四大天王，廣東點心仲有豐富嘅蒸腸粉、煎炸小食同埋經典糖水甜品！\n\n1. 腸粉家族 (Cheung Fun - Rice Noodle Rolls):\n- **腸粉 (coeng2 fan2)**：Steamed rice noodle rolls。\n- **鮮蝦腸 (sin1 haa1 coeng2)**：Shrimp cheung fun。\n- **叉燒腸 (caa1 siu1 coeng2)**：Char siu cheung fun。\n- **牛肉腸 (ngau4 juk6 coeng2)**：Beef cheung fun。\n- **炸兩 (zaa3 loeng5)**：Crispy youtiao wrapped in silky rice roll (蘸甜醬、麻醬同豉油)。\n\n2. 煎炸糕點與甜品 (Pan-Fried Cakes & Desserts):\n- **蘿蔔糕 (lo4 baak6 gou1)**：Pan-fried radish/turnip cake（鹹香惹味）。\n- **春卷 (ceon1 gyun2)**：Crispy spring rolls。\n- **楊枝甘露 (joeng4 zi1 gam1 lou6)**：Mango pomelo sago dessert soup（香港原創經典甜品）。\n- **芝麻糊 (zi1 maa4 wu4)**：Black sesame sweet soup。",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (9.3.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "唔該畀多一碟煎蘿蔔糕同一碟香脆炸兩，多啲豉油同甜醬。",
+                    "reading": "m4 goi1 bei2 do1 jat1 dip6 zin1 lo4 baak6 gou1 tung4 jat1 dip6 hoeng1 ceoi3 zaa3 loeng5, do1 di1 si6 jau4 tung4 tim4 zoeng3.",
+                    "translation": "Please give us one more plate of pan-fried radish cake and one plate of crispy zhaliang, with more soy sauce and sweet sauce."
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (9.3.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "食完咁多鹹點心之後，梗係要叫一碗楊枝甘露清涼解膩啦！",
+                    "reading": "sik6 jyun4 gam3 do1 haam4 dim2 sam1 zi1 hau6, gang2 hai6 jiu3 giu3 jat1 wun2 joeng4 zi1 gam1 lou6 cing1 loeng4 gaai2 nei6 laa1!",
+                    "translation": "After eating so many savory dim sum, we must of course order a bowl of mango pomelo sago to refresh and cleanse the palate!"
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (9.3.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "呢度嘅鮮蝦腸粉皮好薄好滑，豉油甜甜地好惹味。",
+                    "reading": "ni1 dou6 ge3 sin1 haa1 coeng2 fan2 pei4 hou2 bok6 hou2 waat6, si6 jau4 tim4 tim4 dei2 hou2 je5 mei6.",
+                    "translation": "The shrimp rice noodle rolls here have very thin and silky skin, and the sweet soy sauce is very appetizing."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 茶樓點心同飲茶文化 (Yum Cha & Dim Sum)"
+                "Dim Sum Extras: 腸粉(Rice rolls) + 蘿蔔糕(Radish cake) + 楊枝甘露(Mango pomelo dessert)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "«炸兩» (zaa3 loeng5) was invented in Guangzhou during wartime in the 1940s to offer the luxury of cheung fun and crunch of fried dough in a single affordable dish."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「茶樓點心同飲茶文化 (Yum Cha & Dim Sum)」喺第3節嘅地道廣東話表達？",
+                    "prompt": "用蒸熟的米漿薄皮包裹油條並淋上豉油甜醬的經典廣東點心是：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (9.3.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (9.3.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (9.3.3)。"
+                        "炸兩 (zaa3 loeng5 - Fried dough wrapped in rice roll)",
+                        "蛋撻",
+                        "春卷"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "炸兩 (zaa3 loeng5) is the classic combination of crispy dough inside smooth cheung fun."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「飲茶同廣東飲食文化 (Yum Cha & Dining)」語境嘅廣東話完整句子（練習 3）：",
+                    "prompt": "源自香港著名酒樓、由芒果、西米、柚子肉同椰汁混合而成的經典甜品是：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (9.3.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (9.3.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (9.3.3)。"
+                        "紅豆沙",
+                        "楊枝甘露 (joeng4 zi1 gam1 lou6 - Mango pomelo sago)",
+                        "豆腐花"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "楊枝甘露 (joeng4 zi1 gam1 lou6) is the quintessential Hong Kong mango pomelo dessert."
                 }
             ]
         },
@@ -4631,85 +4663,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「茶樓點心同飲茶文化 (Yum Cha & Dim Sum)」嘅日常商務與生活習慣（考核 9-3）？",
+                    "prompt": "關於廣東茶樓中腸粉系列（鮮蝦腸/叉燒腸/炸兩）與經典甜品（楊枝甘露）的特色，下列哪一項表述完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (9.3.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (9.3.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (9.3.3)。"
+                        "腸粉是乾炒麵條的一種",
+                        "楊枝甘露是一種熱的豬肉湯",
+                        "腸粉講究粉皮透薄嫩滑；炸兩結合了腸粉與油條；楊枝甘露則是芒果、柚子和西米結合的消暑甜品 (Cheung fun is prized for silky translucence; zaa3 loeng5 wraps fried dough; joeng4 zi1 gam1 lou6 is iconic mango-sago-pomelo dessert)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "Accurately describes the textures and cultural identities of these dishes."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («點心_9_3»):",
+                    "prompt": "Type the 2-character Hanzi phrase for 'steamed rice noodle rolls' in Cantonese (腸粉):",
                     "acceptedAnswers": [
-                        "點心_9_3"
+                        "腸粉",
+                        "coeng2fan2",
+                        "coeng2 fan2",
+                        "Coeng2 fan2",
+                        "Coeng2fan2",
+                        "肠粉"
                     ],
-                    "explanation": "The target keyword was: 【點心_9_3】"
+                    "explanation": "腸粉 (coeng2 fan2) means 'rice noodle rolls' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u9-l4": {
         "id": "hk-u9-l4",
-        "subject": "cantonese",
-        "unit": 9,
-        "lessonNumber": 4,
-        "title": "飲茶同廣東飲食文化 (Yum Cha & Dining) (Part 4)",
+        "unit": "hk-u9",
         "level": "A2",
-        "objective": "Comprehensive mastery of 茶樓點心同飲茶文化 (Yum Cha & Dim Sum).",
+        "objective": "Master the operational workflow of teahouse dining: ticking order cards (劃點心紙), dim sum size tiers (小中大特頂點), and checking out with service charge (加一服務費).",
+        "prerequisites": [
+            "hk-u9-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u9-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（茶樓點心同飲茶文化 (Yum Cha & Dim Sum) - 第4部分）入面，我哋會探討廣東話嘅核心語用語境同埋茶樓點心同飲茶文化 (Yum Cha & Dim Sum)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "喺現代同傳統廣東茶樓入面，點單同結算有一套特有嘅價格檔次系統！\n\n1. 點心紙與劃飛 (Ordering on the Dim Sum Card):\n- 坐低之後，枱上面會有一張**「點心紙 (dim2 sam1 zi2)」**。\n- 顧客用筆喺想食嘅點心格子度寫上數量，呢個動作叫做**「劃飛 (waak6 fei1)」**。\n\n2. 點心價格檔次 (Dim Sum Pricing Tiers):\n- 茶樓唔會喺每道點心後面標明單價，而係分為幾種固定等級：\n  - **小點 (siu2 dim2)**：Small / basic dim sum。\n  - **中點 (zung1 dim2)**：Medium tier。\n  - **大點 (daai6 dim2)**：Large tier (如普通蒸點)。\n  - **特點 (dak6 dim2)**：Special tier (如蝦餃、燒賣)。\n  - **頂點 / 超點 (ding2 dim2 / ciu1 dim2)**：Premium tier (如鮑汁點心、海鮮)。\n\n3. 結算與小費 (Settling the Bill):\n- **埋單 (maai4 daan1)**：Bill, please。\n- **加一服務費 (gaa1 jat1 fuk6 mou6 fai3)**：10% service charge (香港酒樓普遍徵收)。",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (9.4.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "請畀多支原子筆我哋劃點心紙，唔該晒！",
+                    "reading": "cing2 bei2 do1 zi1 jyun4 zi2 bat1 ngo5 dei6 waak6 dim2 sam1 zi2, m4 goi1 saai3!",
+                    "translation": "Please give us a ballpoint pen to tick the dim sum order card, thank you very much!"
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (9.4.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "呢間酒樓星期一至五嘅早茶時段，大點、特點一律特價計中點。",
+                    "reading": "ni1 gaan1 zau2 lau4 sing1 kei4 jat1 zi3 ng5 ge3 zou2 caa4 si4 dyun6, daai6 dim2, dak6 dim2 jat1 leot6 dak6 gaa3 gai3 zung1 dim2.",
+                    "translation": "At this restaurant during weekday morning tea hours, large and special tiers are uniformly discounted to medium price."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (9.4.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "服務員，呢張枱埋單，請問可唔可以用八達通或者信用卡畀錢呀？",
+                    "reading": "fuk6 mou6 jyun4, ni1 zoeng1 toi2 maai4 daan1, cing2 man6 ho2 m4 ho2 ji5 jung6 baat3 daat6 tung1 waak6 ze2 seon3 jung3 kaat1 bei2 cin2 aa3?",
+                    "translation": "Waiter, settle the bill for this table please; may I ask if we can pay by Octopus or credit card?"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 茶樓點心同飲茶文化 (Yum Cha & Dim Sum)"
+                "Billing Hierarchy: 小點(Small) -> 中點(Medium) -> 大點(Large) -> 特點(Special) -> 頂點(Top) -> 埋單加一(Bill +10%)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "Many Hong Kong teahouses offer substantial discounts («早茶/下午茶優惠») before 11 AM and between 2:00–4:30 PM, making Yum Cha an affordable luxury for retirees and office workers."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「茶樓點心同飲茶文化 (Yum Cha & Dim Sum)」喺第4節嘅地道廣東話表達？",
+                    "prompt": "廣東茶樓用來讓顧客自行用筆勾選點心品項的點單菜單紙稱為：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (9.4.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (9.4.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (9.4.3)。"
+                        "點心紙 (dim2 sam1 zi2 - Dim sum order sheet)",
+                        "報紙",
+                        "八達通"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "點心紙 (dim2 sam1 zi2) is the paper order sheet on every teahouse table."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「飲茶同廣東飲食文化 (Yum Cha & Dining)」語境嘅廣東話完整句子（練習 4）：",
+                    "prompt": "香港茶樓結賬時普遍加收的「一成服務費（10% service charge）」，口語習慣稱為：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (9.4.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (9.4.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (9.4.3)。"
+                        "加一 (gaa1 jat1 - Plus 10% service charge)",
+                        "加二",
+                        "減一"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "加一 (gaa1 jat1) is the standard Hong Kong term for the 10% restaurant service charge."
                 }
             ]
         },
@@ -4717,85 +4761,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「茶樓點心同飲茶文化 (Yum Cha & Dim Sum)」嘅日常商務與生活習慣（考核 9-4）？",
+                    "prompt": "關於廣東茶樓點單制度（點心紙劃飛）、價格分級（小/中/大/特/頂點）及結算（埋單加一），下列哪一項表述完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (9.4.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (9.4.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (9.4.3)。"
+                        "茶樓點單完全不分價格檔次",
+                        "顧客在「點心紙」上劃飛點單，點心依成本分為小點至頂點等檔次，結賬稱「埋單」，一般加收一成服務費「加一」 (Customers tick dim2 sam1 zi2 across size tiers from small to apex, bill settled with maai4 daan1 + 10% gaa1 jat1)",
+                        "「埋單」在香港意思是把單據埋在泥土裏"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "explanation": "Masterfully details the economic mechanics and dining terminology of Cantonese teahouses."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («點心_9_4»):",
+                    "prompt": "Type the 3-character Hanzi phrase for 'dim sum order sheet' in Cantonese (點心紙):",
                     "acceptedAnswers": [
-                        "點心_9_4"
+                        "點心紙",
+                        "dim2sam1zi2",
+                        "dim2 sam1 zi2",
+                        "Dim2 sam1 zi2",
+                        "Dim2sam1zi2",
+                        "点心纸"
                     ],
-                    "explanation": "The target keyword was: 【點心_9_4】"
+                    "explanation": "點心紙 (dim2 sam1 zi2) means 'dim sum order sheet' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u9-l5": {
         "id": "hk-u9-l5",
-        "subject": "cantonese",
-        "unit": 9,
-        "lessonNumber": 5,
-        "title": "飲茶同廣東飲食文化 (Yum Cha & Dining) (Part 5)",
+        "unit": "hk-u9",
         "level": "A2",
-        "objective": "Comprehensive mastery of 茶樓點心同飲茶文化 (Yum Cha & Dim Sum).",
+        "objective": "Synthesize all teahouse vocabulary, tea etiquette, the Four Kings, dim sum classification, and bill settlement in a full-length Sunday family Yum Cha dialogue.",
+        "prerequisites": [
+            "hk-u9-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u9-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（茶樓點心同飲茶文化 (Yum Cha & Dim Sum) - 第5部分）入面，我哋會探討廣東話嘅核心語用語境同埋茶樓點心同飲茶文化 (Yum Cha & Dim Sum)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "喺呢課綜合實戰篇，我哋將第九單元學到嘅所有飲茶詞彙、禮儀與對話融會貫通，演繹嶺南文化最著名嘅**「一盅兩件 (jat1 zung1 loeng5 gin6)」**生活真諦！\n\n1. 「一盅兩件」嘅文化哲學 (Philosophy of Jat Zung Loeng Gin):\n- 「一盅」指一盅蓋碗茶（或一壺好茶）。\n- 「兩件」指兩籠精緻點心（如一籠蝦餃、一籠叉燒包）。\n- 呢句俗語代表廣東人嘆茶、享受悠閒慢生活嘅最高境界。\n\n2. 第九單元實戰對話範例 (Unit 9 Master Teahouse Dialogue):\n- **部長**：‘早晨三位！今日想坐大堂定係搭枱呀？飲咩茶？’\n- **爸爸**：‘坐大堂靠窗位啦，唔該一壺熱普洱。’\n- **媽媽**：‘我哋劃咗點心紙喇：兩籠蝦餃、一籠燒賣、一碟鮮蝦腸粉同一碟脆皮炸兩。’\n- **部長**：‘收到！點心即叫即蒸，要等大約十分鐘。’\n- **爸爸**（為大家斟茶，眾人輕敲桌面行叩指禮）：‘嚟，飲杯熱普洱先，消滯暖胃！’\n- **兒子**：‘食完點心之後，可唔可以叫多兩碗楊枝甘露做甜品呀？’\n- **媽媽**：‘好呀，食飽之後爸爸埋單！’",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (9.5.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "週末朝早同屋企人去茶樓嘆「一盅兩件」，係香港人最享受嘅天倫之樂。",
+                    "reading": "zau1 mut6 ziu1 zou2 tung4 uk1 kei2 jan4 heoi3 caa4 lau4 taan3 jat1 zung1 loeng5 gin6, hai6 hoeng1 gong2 jan4 zeoi3 hoeng2 sau6 ge3 tin1 leon4 zi1 lok6.",
+                    "translation": "Going to the teahouse with family on weekend mornings to enjoy 'one cup and two pieces' is Hong Kongers' most cherished family bonding joy."
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (9.5.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "呢間老牌酒家嘅點心即叫即蒸，熱氣騰騰，水準幾十年都冇變過。",
+                    "reading": "ni1 gaan1 lou5 paai4 zau2 gaa1 ge3 dim2 sam1 zik1 giu3 zik1 zing1, jit6 hei3 tang4 tang4, seoi2 zeon2 gei2 sap6 nin4 dou1 mou5 bin3 gwo3.",
+                    "translation": "The dim sum at this heritage teahouse is steamed fresh to order, steaming hot, with standards unchanged for decades."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (9.5.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "唔該部長，我哋呢張枱食完喇，幫我哋計數埋單啦。",
+                    "reading": "m4 goi1 bou6 zoeng2, ngo5 dei6 ni1 zoeng1 toi2 sik6 jyun4 laa3, bong1 ngo5 dei6 gai3 sou3 maai4 daan1 laa1.",
+                    "translation": "Excuse me captain, our table has finished eating, please calculate and settle the bill for us."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 茶樓點心同飲茶文化 (Yum Cha & Dim Sum)"
+                "Yum Cha Mastery: 一盅兩件(One cup two pieces) -> 嘆茶傾偈(Sip tea chat) -> 叩指謝茶(Tap fingers) -> 開心埋單(Pay bill)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "«嘆茶» (taan3 caa4) uses the verb «嘆» (to relish / savor leisurely), encapsulating the laid-back joy of reading the morning newspaper and savoring dim sum with loved ones."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「茶樓點心同飲茶文化 (Yum Cha & Dim Sum)」喺第5節嘅地道廣東話表達？",
+                    "prompt": "廣東話俗語中形容飲茶享受悠閒生活、點一壺茶配兩樣點心的經典名句是：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (9.5.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (9.5.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (9.5.3)。"
+                        "一盅兩件 (jat1 zung1 loeng5 gin6 - One tea cup and two dim sum pieces)",
+                        "大魚大肉",
+                        "一日三餐"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "一盅兩件 (jat1 zung1 loeng5 gin6) is the timeless cultural idiom for savoring dim sum and tea."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「飲茶同廣東飲食文化 (Yum Cha & Dining)」語境嘅廣東話完整句子（練習 5）：",
+                    "prompt": "廣東人形容「悠閒愜意地品味享受早茶時光」所用的地道動詞是：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (9.5.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (9.5.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (9.5.3)。"
+                        "嘆茶 (taan3 caa4 - Leisurely relish tea)",
+                        "趕茶",
+                        "吞茶"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "嘆 (taan3) means to relish, savor, or enjoy leisurely."
                 }
             ]
         },
@@ -4803,24 +4859,30 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「茶樓點心同飲茶文化 (Yum Cha & Dim Sum)」嘅日常商務與生活習慣（考核 9-5）？",
+                    "prompt": "關於廣東第九單元「飲茶同廣東飲食文化」的整體精神、核心菜式（四大天王/腸粉/炸兩）及社會生活意涵，下列哪一項總括完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (9.5.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (9.5.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (9.5.3)。"
+                        "「飲茶」以「一盅兩件」為哲學代表，融匯了普洱名茶、四大天王點心、叩指禮儀及嘆茶文化，是廣東人家庭團聚與社交聯誼的核心紐帶 (Yum cha embodies the 'one tea, two dim sum' philosophy, linking fine tea, classic dim sum, table etiquette, and familial connection)",
+                        "廣東飲茶只是為了解渴，沒有任何社交功能",
+                        "茶樓裏不允許家庭聚會"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "Masterfully synthesizes the culinary, sociological, and linguistic dimensions of Cantonese teahouse dining."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («點心_9_5»):",
+                    "prompt": "Type the 4-character Hanzi phrase for 'one tea cup and two dim sum pieces / classic teahouse dining' in Cantonese (一盅兩件):",
                     "acceptedAnswers": [
-                        "點心_9_5"
+                        "一盅兩件",
+                        "jat1zung1loeng5gin6",
+                        "jat1 zung1 loeng5 gin6",
+                        "Jat1 zung1 loeng5 gin6",
+                        "Jat1zung1loeng5gin6",
+                        "一盅两件"
                     ],
-                    "explanation": "The target keyword was: 【點心_9_5】"
+                    "explanation": "一盅兩件 (jat1 zung1 loeng5 gin6) means 'one tea cup and two dim sum pieces' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u10-l1": {
