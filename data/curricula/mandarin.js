@@ -12189,63 +12189,69 @@
     },
     "zh-u25-l1": {
         "id": "zh-u25-l1",
-        "subject": "mandarin",
-        "unit": 25,
-        "lessonNumber": 1,
-        "title": "现代中国影视与文学批评 (Contemporary Cinema & Literature) (Part 1)",
+        "unit": "zh-u25",
         "level": "C1",
-        "objective": "Comprehensive mastery of 影视艺术与文学鉴赏 (Cinema & Contemporary Literature).",
+        "objective": "Master Chinese cinematic aesthetics and directorial discourse (第五代 Fifth Generation, 第六代 Sixth Generation, 视听语言 audio-visual language, 长镜头 long take, 蒙太奇 montage, 隐喻 metaphor).",
+        "prerequisites": [
+            "zh-u24-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u24-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「现代中国影视与文学批评 (Contemporary Cinema & Literature)」（第1部分）的核心句法结构与影视艺术与文学鉴赏 (Cinema & Contemporary Literature)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "中国电影历经百余年发展，从第五代导演的宏大历史叙事与浓烈色彩美学，到第六代导演的都市底层聚焦与写实纪实，构成了丰富多维的视听光谱！\n\n1. 导演代际与美学风格 (Generational Directorial Aesthetics):\n- **第五代导演 (Fifth Generation)**：以张艺谋、陈凯歌为代表，善用**饱满的浓烈色彩**、**仪式化民俗符号**与**历史宏大反思**（如《红高粱》《霸王别姬》）。\n- **第六代导演 (Sixth Generation)**：以贾樟柯、王小帅为代表，偏重**纪实美学**、**长镜头调度**与**边缘个体的生存状态**（如《三峡好人》《小武》）。\n\n2. 电影批评与视听分析专业语汇 (Cinematic Criticism Vocabulary):\n- **长镜头 (chángjìngtóu, Long take)** / **声画对位 (Sound-image counterpoint)** / **意象隐喻 (Metaphorical imagery)**。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (25.1.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "电影学者在学术研讨会上深入剖析：‘第五代导演作品中那种摄人心魄的红黄对比色调与庄严肃穆的仪式感，将中国传统宗法社会的历史阵痛转化为极具震撼力的视觉史诗。’",
+                    "reading": "Diànyǐng xuézhě zài xuéshù yántǎohuì shang shēnrù pōuxī: ‘Dì-wǔ-dài dǎoyǎn zuòpǐn zhōng nà zhǒng shèrén-xīnpò de hóng-huáng duìbǐ sèdiào yǔ zhuāngyán sùmù de yíshìgǎn, jiāng Zhōngguó chuántǒng zōngfǎ shèhuì de lìshǐ zhèntòng zhuǎnhuà wéi jí jù zhènhànlì de shìjué shǐshī.’",
+                    "translation": "The film scholar analyzed: 'The soul-stirring red-yellow color contrast and ritual solemnity in Fifth Generation films transform the historic pains of patriarchal society into visual epics.'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (25.1.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫在影评专栏中写道：‘贾樟柯导演擅长运用不动声色的固定长镜头与自然环境音效，以冷峻而深情的纪实笔触记录时代巨变下普通工人的生活切片与精神流变。’",
+                    "reading": "Dàwèi zài yǐngpíng zhuānlán zhōng xiědào: ‘Jiǎ Zhāngkē dǎoyǎn shàncháng yùnyòng búdòng-shēngsè de gùdìng chángjìngtóu yǔ zìrán huánjìng yīnxiào, yǐ lěngjùn ér shēnqíng de jìshí bǐchù jìlù shídài jùbiàn xià pǔtōng gōngrén de shēnghuó qiēpiàn yǔ jīngshén liúbiàn.’",
+                    "translation": "David wrote: 'Director Jia Zhangke utilizes impassive static long takes and natural ambient sounds to record slices of ordinary workers' lives amidst seismic shifts.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (25.1.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "青年导演在剧组阐述创作意图：‘我们通过视听语言的声画对位与隐喻蒙太奇，打破了线性时间的叙事束缚，赋予影片耐人寻味的哲学厚度。’",
+                    "reading": "Qīngnián dǎoyǎn zài jùzǔ chǎnshù chuàngzuò yìtú: ‘Wǒmen tōngguò shìtīng yǔyán de shēng-huà duìwèi yǔ yǐnyù méngtàiqí, dǎpò le xiànxìng shíjiān de xùshì shùfù, fùyǔ yǐngpiàn nàirénxúnwèi de zhéxué hòudù.’",
+                    "translation": "The director explained: 'Through audio-visual sound-image counterpoint and metaphoric montage, we broke linear narrative constraints, giving the film philosophical depth.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 影视艺术与文学鉴赏 (Cinema & Contemporary Literature)"
+                "Cinema Waves: 第五代 (Visual Epic & Color), 第六代 (Docu-Realism & Long Takes), 视听语言 (Audio-Visual Synthesis)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "The 1980s-90s Fifth Generation of Chinese Cinema emerged from the Beijing Film Academy class of 1982, winning top honors at Cannes, Venice, and Berlin."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「影视艺术与文学鉴赏 (Cinema & Contemporary Literature)」在第1小节中的标准汉语语法规范？",
+                    "prompt": "在中国电影史中，以张艺谋、陈凯歌为代表、善于运用浓烈民俗色彩与宏大历史反思的导演群体被称为：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (25.1.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (25.1.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (25.1.3)。"
+                        "业余爱好者",
+                        "第五代导演 (Fifth Generation Directors)",
+                        "先锋漫画家"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "第五代导演 refers to the seminal group of filmmakers graduating in 1982."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「现代中国影视与文学批评 (Contemporary Cinema & Literature)」语用情境与完整句式的选项（练习 1）：",
+                    "prompt": "电影摄影与视听批评中，指在较长时间内不间断拍摄一个完整场景、保持时空连续性的经典拍摄技法是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (25.1.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (25.1.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (25.1.3)。"
+                        "长镜头 (Long take / Plan-séquence)",
+                        "定格动画",
+                        "黑屏"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "长镜头 (chángjìngtóu) is the unbroken long take in film aesthetics."
                 }
             ]
         },
@@ -12253,85 +12259,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「影视艺术与文学鉴赏 (Cinema & Contemporary Literature)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 25-1）？",
+                    "prompt": "关于中国当代电影代际美学与视听批评术语，下列哪一项完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (25.1.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (25.1.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (25.1.3)。"
+                        "第五代导演注重宏大历史叙事与色彩象征，第六代导演多以写实长镜头关注个体生存，两者共同构筑了中国电影美学的多元格局 (Fifth Gen focuses on epic symbolism; Sixth Gen captures realism with long takes)",
+                        "电影评论只能评价票房数字",
+                        "电影画面不需要考虑光影和构图"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "Accurately synthesizes the stylistic evolutions and critical vocabulary of Fifth and Sixth Generation Chinese cinema."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («电影_25_1»):",
+                    "prompt": "Type the 3-character Hanzi term for 'long take in cinema cinematography' (长镜头):",
                     "acceptedAnswers": [
-                        "电影_25_1"
+                        "长镜头",
+                        "changjingtou",
+                        "chángjìngtóu",
+                        "Chángjìngtóu",
+                        "Changjingtou",
+                        "長鏡頭"
                     ],
-                    "explanation": "The target keyword was: 【电影_25_1】"
+                    "explanation": "长镜头 (chángjìngtóu) means 'long take / continuous take'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u25-l2": {
         "id": "zh-u25-l2",
-        "subject": "mandarin",
-        "unit": 25,
-        "lessonNumber": 2,
-        "title": "现代中国影视与文学批评 (Contemporary Cinema & Literature) (Part 2)",
+        "unit": "zh-u25",
         "level": "C1",
-        "objective": "Comprehensive mastery of 影视艺术与文学鉴赏 (Cinema & Contemporary Literature).",
+        "objective": "Master contemporary literary criticism and magical realism discourse (寻根文学 Root-Seeking Literature, 魔幻现实主义 Magical Realism, 乡土叙事 rural native-soil narrative, 荒诞与象征 absurdity and symbolism, 意识流 stream of consciousness).",
+        "prerequisites": [
+            "zh-u25-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u25-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「现代中国影视与文学批评 (Contemporary Cinema & Literature)」（第2部分）的核心句法结构与影视艺术与文学鉴赏 (Cinema & Contemporary Literature)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "中国当代文学在承袭深厚乡土叙事传统的同时，融合了拉美魔幻现实主义与西方现代派技巧，迸发出惊人的艺术创造力！\n\n1. 寻根文学与魔幻现实主义 (Root-Seeking & Magical Realism):\n- **寻根文学 (Root-Seeking Literature)**：20世纪80年代探寻中华民族古老文化心理与原生生命力的文学思潮（如阿城、韩少功）。\n- **魔幻现实主义 (Magical Realism)**：将**民间神话传说、幻觉荒诞情节**与**残酷历史真实**熔于一炉（如莫言《红高粱家族》《丰乳肥臀》）。\n- **莫言 (Mo Yan)**：2012年荣获诺贝尔文学奖，颁奖词称其‘将民间故事、历史与当代融为一体的魔幻现实主义’。\n\n2. 高阶文学批评句式 (Literary Criticism Syntactic Patterns):\n- ‘文本巧妙运用**多重叙事视角**与**象征隐喻**，在虚实交织中解构了传统线性历史，直抵人性的深层律动。’",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (25.2.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "文学评论家在国际文学论坛上评价莫言作品：‘莫言将高密东北乡的民间传奇、萨满神话与二十世纪中国社会巨变紧密交织，以狂放不羁的语言创造了一个亦真亦幻、充满原始生命力的文学世界。’",
+                    "reading": "Wénxué pínglùnjiā zài guójì wénxué lùntán shang píngjià Mò Yán zuòpǐn: ‘Mò Yán jiāng Gāomì Dōngběixiāng de mínjiān chuánqí, sàmǎn shénhuà yǔ èrshí shìjì Zhōngguó shèhuì jùbiàn jǐnmì jiāozhī, yǐ kuángfàng-bùjī de yǔyán chuàngzào le yí gè yì zhēn yì huàn, chōngmǎn yuánshǐ shēngmìnglì de wénxué shìjiè.’",
+                    "translation": "The literary critic evaluated: 'Mo Yan intertwines Gaomi folklore and shamanic myths with 20th-century social upheaval, creating an exuberant literary universe of raw vitality.'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (25.2.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫在比较文学研讨班上发言：‘寻根文学作家不仅重返历史与楚汉文化的深山秘境，更通过反思宗法伦理对人性的压抑，实现了对现代文明困境的深刻叩问。’",
+                    "reading": "Dàwèi zài bǐjiào wénxué yántǎobān shang fāyán: ‘Xúngēn wénxué zuòjiā bùjǐn zhòngfǎn lìshǐ yǔ Chǔ-Hàn wénhuà de shēnshān mìjìng, gèng tōngguò fǎnsī zōngfǎ lúnlǐ duì rénxìng de yāyì, shíxiàn le duì xiàndài wénmíng kùnjìng de shēnkè kòuwèn.’",
+                    "translation": "David stated: 'Root-seeking authors not only return to ancient cultural wildernesses but deeply interrogate modern civilization through reflections on patriarchal ethics.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (25.2.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "教授在讲评当代小说时指出：‘余华的《活着》通过最平实克制的白描手法，写尽了生命的苦难与坚韧，其悲悯的人道主义情怀打动了全世界数以千万计的读者。’",
+                    "reading": "Jiàoshòu zài jiǎngpíng dāngdài xiǎoshuō shí zhǐchū: ‘Yú Huá de «Huózhe» tōngguò zuì píngshí kèzhì de báimiáo shǒufǎ, xiějìn le shēngmìng de kǔnàn yǔ jiānrèn, qí bēimǐn de réndàozhǔyì qínghuái dǎdòng le quán shìjiè shù yǐ qiānwàn jì de dúzhě.’",
+                    "translation": "The professor noted: 'Yu Hua's To Live captures suffering and resilience through restrained plain narration, touching millions globally with compassionate humanism.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 影视艺术与文学鉴赏 (Cinema & Contemporary Literature)"
+                "Contemporary Literature: 寻根 (Root-Seeking), 魔幻现实 (Mo Yan / Magical Realism), 白描苦难 (Yu Hua / Plain Realism)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "In 2012, Mo Yan became the first Chinese citizen to win the Nobel Prize in Literature."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「影视艺术与文学鉴赏 (Cinema & Contemporary Literature)」在第2小节中的标准汉语语法规范？",
+                    "prompt": "20世纪80年代中国文坛掀起的探寻民族古老文化心理与原生生命力的重要文学思潮是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (25.2.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (25.2.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (25.2.3)。"
+                        "网络爽文",
+                        "寻根文学 (Root-Seeking Literature)",
+                        "科幻爽剧"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "寻根文学 (Root-Seeking Literature) was the major literary movement of the mid-1980s."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「现代中国影视与文学批评 (Contemporary Cinema & Literature)」语用情境与完整句式的选项（练习 2）：",
+                    "prompt": "2012年凭借将民间故事、历史与当代相融合的‘魔幻现实主义’荣获诺贝尔文学奖的中国作家是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (25.2.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (25.2.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (25.2.3)。"
+                        "莫言 (Mo Yan)",
+                        "金庸",
+                        "鲁迅"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "莫言 (Mo Yan) won the 2012 Nobel Prize in Literature."
                 }
             ]
         },
@@ -12339,85 +12357,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「影视艺术与文学鉴赏 (Cinema & Contemporary Literature)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 25-2）？",
+                    "prompt": "关于中国当代文学在主题探索与艺术手法上的特征，下列哪一项表述完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (25.2.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (25.2.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (25.2.3)。"
+                        "当代中国文学没有任何翻译价值",
+                        "当代文学融合了本土寻根意识、乡土现实主义与魔幻现实主义等多元手法，展现了深邃的历史反思与人道主义情怀 (Blends native root-seeking, rural realism, and magical realism with profound humanist depths)",
+                        "所有中国小说都只描写古代神仙"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "Accurately synthesizes contemporary Chinese literary trends and global aesthetic achievements."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («电影_25_2»):",
+                    "prompt": "Type the 2-character Hanzi pen name of China's 2012 Nobel Laureate in Literature (莫言):",
                     "acceptedAnswers": [
-                        "电影_25_2"
+                        "莫言",
+                        "moyan",
+                        "mòyán",
+                        "Mòyán",
+                        "Moyan"
                     ],
-                    "explanation": "The target keyword was: 【电影_25_2】"
+                    "explanation": "莫言 (Mò Yán) is China's 2012 Nobel Laureate in Literature."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u25-l3": {
         "id": "zh-u25-l3",
-        "subject": "mandarin",
-        "unit": 25,
-        "lessonNumber": 3,
-        "title": "现代中国影视与文学批评 (Contemporary Cinema & Literature) (Part 3)",
+        "unit": "zh-u25",
         "level": "C1",
-        "objective": "Comprehensive mastery of 影视艺术与文学鉴赏 (Cinema & Contemporary Literature).",
+        "objective": "Master the discourse of contemporary Chinese sci-fi literature and philosophical worldbuilding (刘慈欣 Liu Cixin, 雨果奖 Hugo Award, 《三体》The Three-Body Problem, 黑暗森林法则 Dark Forest theory, 降维打击 dimensional strike, 终极关怀 ultimate existential concern).",
+        "prerequisites": [
+            "zh-u25-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u25-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「现代中国影视与文学批评 (Contemporary Cinema & Literature)」（第3部分）的核心句法结构与影视艺术与文学鉴赏 (Cinema & Contemporary Literature)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "以刘慈欣《三体》荣获世界科幻「雨果奖（Hugo Award）」为标志，中国科幻文学迎来了全球瞩目的黄金时代！\n\n1. 《三体》核心科幻概念与哲学命题 (Three-Body Cosmology & Philosophical Concepts):\n- **黑暗森林法则 (Dark Forest Theory)**：宇宙就是一座黑暗森林，每个文明都是带枪的猎人，一旦发现其他文明生命便必须予以消灭以保障自身生存。\n- **降维打击 (Dimensional Strike / Dimensional Reduction Attack)**：利用高维向低维坍缩的物理规律对敌方文明实施毁灭性攻击；在商业与当代流行语中泛指跨界颠覆。\n- **给岁月以文明，而不是给文明以岁月**：对人类文明存续与道德底线的终极哲学追问。\n\n2. 硬科幻文学批评语汇 (Hard Sci-Fi Criticism):\n- **硬科幻 (Hard Sci-Fi)** / **宏大宇宙观** / **技术奇点 (Technological Singularity)**。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (25.3.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "科幻文学评论家在世界科幻大会上赞扬：‘刘慈欣的《三体》将极为硬核的前沿天体物理学推演与波澜壮阔的文明演进史熔为一炉，以冷酷而宏伟的“黑暗森林法则”震撼了全世界读者！’",
+                    "reading": "Kēhuàn wénxué pínglùnjiā zài shìjiè kēhuàn dàhuì shang zànyáng: ‘Liú Cíxīn de «Sāntǐ» jiāng jíwéi yìnghé de qiányán tiāntǐ wùlǐxué tuīyǎn yǔ bōlán-zhuàngkuò de wénmíng yǎnjìnshǐ róng wéi yì lú, yǐ lěngkù ér hóngwěi de “hēi'àn sēnlín fǎzé” zhènhàn le quán shìjiè dúzhě!’",
+                    "translation": "The sci-fi critic praised: 'Liu Cixin's The Three-Body Problem fuses hard astrophysics deductions with civilization's epic rise and fall, stunning global readers with the ruthless Dark Forest Theory!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (25.3.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫在学术沙龙中探讨科幻跨界影响：‘源自《三体》的“降维打击”一词早已跨越文学边界，成为全球商业竞争、科技创新与战略思考中最具启发性的经典隐喻。’",
+                    "reading": "Dàwèi zài xuéshù shālóng zhōng tàntǎo kēhuàn kuàjiè yǐngxiǎng: ‘Yuánzì «Sāntǐ» de “jiàngwéi dǎjī” yì cí zǎoyǐ kuàyuè wénxué biānjiè, chéngwéi quánqiú shāngyè jìngzhēng, kējì chuàngxīn yǔ zhànlüè sīkǎo zhōng zuì jù qǐfāxìng de jīngdiǎn yǐnyù.’",
+                    "translation": "David discussed: 'The phrase \"dimensional reduction strike\" from Three-Body has transcended fiction to become a profound metaphor in global tech and business strategy.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (25.3.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "《流浪地球》电影主创分享创作理念：‘面对太阳危机，中国人选择带着整个地球家园一起在宇宙中流浪逃亡，这深深植根于中华民族对土地与家园故土的永恒眷恋。’",
+                    "reading": "«Liúlàng Dìqiú» diànyǐng zhǔchuàng fēnxiǎng chuàngzuò lǐniàn: ‘Miànduì tàiyáng wēijī, Zhōngguórén xuǎnzé dàizhe zhěnggè dìqiú jiāyuán yìqǐ zài yǔzhòu zhōng liúlàng táowáng, zhè shēnshēn zhígēn yú Zhōnghuá mínzú duì tǔdì yǔ jiāyuán gùtǔ de yǒnghéng juànliàn.’",
+                    "translation": "The Wandering Earth filmmakers shared: 'Facing solar catastrophe, choosing to wander through space with planet Earth stems from Chinese cultural attachment to the homeland.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 影视艺术与文学鉴赏 (Cinema & Contemporary Literature)"
+                "Sci-Fi Mastery: 《三体》/ 刘慈欣 (Three-Body), 黑暗森林 (Dark Forest), 降维打击 (Dimensional Strike), 带着地球去流浪 (Earth Attachment)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Liu Cixin won the 73rd Hugo Award for Best Novel in 2015 for The Three-Body Problem (translated by Ken Liu), becoming the first Asian writer to receive this honor."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「影视艺术与文学鉴赏 (Cinema & Contemporary Literature)」在第3小节中的标准汉语语法规范？",
+                    "prompt": "在刘慈欣科幻巨著《三体》中，将宇宙比作每个文明都隐藏自身、发现对方即消灭的冷酷生存假说被称为：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (25.3.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (25.3.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (25.3.3)。"
+                        "阳光乐园假说",
+                        "黑暗森林法则 (The Dark Forest Theory)",
+                        "互助联盟公约"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "黑暗森林法则 (The Dark Forest Theory) is the iconic cosmological hypothesis introduced in The Three-Body Problem."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「现代中国影视与文学批评 (Contemporary Cinema & Literature)」语用情境与完整句式的选项（练习 3）：",
+                    "prompt": "源自科幻小说《三体》、指利用物理维度向低维跌落毁灭对手、现被广泛用于商业跨界颠覆的名词是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (25.3.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (25.3.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (25.3.3)。"
+                        "降维打击 (Dimensional reduction strike / Cross-industry disruption)",
+                        "升维鼓励",
+                        "同台竞技"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "降维打击 (jiàngwéi dǎjī) originated in The Three-Body Problem."
                 }
             ]
         },
@@ -12425,85 +12454,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「影视艺术与文学鉴赏 (Cinema & Contemporary Literature)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 25-3）？",
+                    "prompt": "关于中国当代硬科幻文学与影视改编的世界性影响，下列哪一项表述完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (25.3.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (25.3.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (25.3.3)。"
+                        "中国科幻文学没有任何国际读者",
+                        "中国科幻作品完全照搬西方套路",
+                        "以《三体》《流浪地球》为代表的中国科幻，以宏大硬核的宇宙图景与深厚独特的家园情怀赢得了全球赞誉与雨果奖等世界荣誉 (Praised globally with Hugo Awards for hard sci-fi cosmology & deep homeland attachment)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "Accurately represents the global stature, cultural roots, and Hugo Award achievements of Chinese sci-fi."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («电影_25_3»):",
+                    "prompt": "Type the 4-character phrase meaning 'dimensional reduction attack / strike' (降维打击):",
                     "acceptedAnswers": [
-                        "电影_25_3"
+                        "降维打击",
+                        "jiangweidaji",
+                        "jiàngwéidǎjī",
+                        "Jiàngwéidǎjī",
+                        "Jiangweidaji",
+                        "降維打擊"
                     ],
-                    "explanation": "The target keyword was: 【电影_25_3】"
+                    "explanation": "降维打击 (jiàngwéi dǎjī) means 'dimensional reduction strike'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u25-l4": {
         "id": "zh-u25-l4",
-        "subject": "mandarin",
-        "unit": 25,
-        "lessonNumber": 4,
-        "title": "现代中国影视与文学批评 (Contemporary Cinema & Literature) (Part 4)",
+        "unit": "zh-u25",
         "level": "C1",
-        "objective": "Comprehensive mastery of 影视艺术与文学鉴赏 (Cinema & Contemporary Literature).",
+        "objective": "Master the discourse of television drama criticism and cultural streaming exports (历史正剧 historical period drama, 群像戏 ensemble cast, 服化道 costume/makeup/props authenticity, 权谋 political intrigue, 国风美学 Chinese aesthetic streaming export).",
+        "prerequisites": [
+            "zh-u25-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u25-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「现代中国影视与文学批评 (Contemporary Cinema & Literature)」（第4部分）的核心句法结构与影视艺术与文学鉴赏 (Cinema & Contemporary Literature)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "中国电视剧产业规模庞大，以《大明王朝1566》《琅琊榜》《甄嬛传》《狂飙》等为代表的剧作在海内外流媒体平台掀起了持久的「华流出海」热潮！\n\n1. 剧集类型与艺术特质 (Drama Genres & Production Standards):\n- **历史正剧 (Historical Period Drama)**：严谨考究历史背景，展现**深沉宏大的家国情怀与士人风骨**（如《大明王朝》《觉醒年代》）。\n- **群像戏 (qúnxiàngxì, Ensemble Cast Drama)**：人物性格鲜明饱满，多条叙事线索交织推进。\n- **服化道考究 (Costume, Makeup, & Props Rigor)**：服装（服）、化妆（化）、道具（道）严格考证历史古籍，还原东方典雅美学。\n\n2. 影视评论高阶表述 (TV Drama Criticism):\n- **扣人心弦的戏剧张力** / **丝丝入扣的台词交锋** / **弘扬传统国风文化**。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (25.4.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "剧评家在学术期刊上高度评价历史大剧：‘《大明王朝1566》凭借精妙绝伦的台词机锋与入木三分的群像塑造，深刻揭示了封建士大夫阶层的理想追求与制度宿命，堪称中国电视剧艺术的高峰！’",
+                    "reading": "Jùpíngjiā zài xuéshù qīkān shang gāodù píngjià lìshǐ dàjù: ‘«Dàmíng Wángcháo 1566» píngjiè jīngmiào-juélún de táicí jīfēng yǔ rùmù-sānfēn de qúnxiàng shùzào, shēnkè jiēshì le fēngjiàn shìdàfū jiēcéng de lǐxiǎng zhuīqiú yǔ zhìdù sùmìng, kānchēng Zhōngguó diànshìjù yìshù de gāofēng!’",
+                    "translation": "The critic praised: 'Ming Dynasty 1566 reveals scholar-officials' ideals and institutional fate through brilliant dialogue and penetrating ensemble casting, a pinnacle of TV art!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (25.4.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫在海外流媒体平台上追看古装权谋剧：‘《琅琊榜》中考究的汉服礼仪、典雅的水墨镜头构图与赤子之心的复仇救赎叙事，让海外观众沉浸式领略了中华传统美学的独特魅力。’",
+                    "reading": "Dàwèi zài hǎiwài liúméitǐ píngtái shang zhuīkàn gǔzhuāng quánmóujù: ‘«Lángyábǎng» zhōng kǎojiu de Hànfú lǐyí, diǎnyǎ de shuǐmò jìngtóu gòutú yǔ chìzǐ-zhīxīn de fùchóu jiùshú xùshì, ràng hǎiwài guānzhòng chénjìnshì lǐnglüè le Zhōnghuá chuántǒng měixué de dútè mèilì.’",
+                    "translation": "David watched Nirvana in Fire: 'Meticulous Hanfu etiquette, ink-wash compositions, and righteous redemption immerse global audiences in traditional aesthetics.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (25.4.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "影视制作人介绍悬疑精品短剧模式：‘十二集精品短剧打破了冗长注水陋习，凭借环环相扣的快节奏悬疑反转与电影级质感，赢得了海内外口碑与收视率的双丰收。’",
+                    "reading": "Yǐngshì zhìzuòrén jièshào xuányí jīngpǐn duǎnjù móshì: ‘Shí'èr jí jīngpǐn duǎnjù dǎpò le rǒngcháng zhùshuǐ lòuxí, píngjiè huánhuán-xiāngkòu de kuàijièzòu xuányí fǎnzhuǎn yǔ diànyǐngjí zhìgǎn, yíngdé le hǎiwàinèi kǒubēi yǔ shōushìlǜ de shuāng fēngshōu.’",
+                    "translation": "The producer noted: '12-episode premium dramas avoid filler, achieving dual acclaim domestically and abroad with fast suspense twists and cinematic texture.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 影视艺术与文学鉴赏 (Cinema & Contemporary Literature)"
+                "TV Drama Elements: 历史正剧 (Period Epic), 群像戏 (Ensemble Cast), 服化道考究 (Authentic Props & Costumes), 国风出海 (Streaming Export)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "The industry abbreviation «服化道» (fú-huà-dào) stands for 服装 (Costume), 化妆 (Makeup), and 道具 (Props), serving as a core benchmark for evaluating production values."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「影视艺术与文学鉴赏 (Cinema & Contemporary Literature)」在第4小节中的标准汉语语法规范？",
+                    "prompt": "在影视制作与剧评专业语汇中，对‘服装、化妆、道具’严谨考究程度的行业三字统称是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (25.4.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (25.4.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (25.4.3)。"
+                        "吃喝玩",
+                        "服化道 (Fú-huà-dào — Costume, Makeup, and Props)",
+                        "声光电"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "服化道 is the standard Chinese industry term for Costume, Makeup, and Props."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「现代中国影视与文学批评 (Contemporary Cinema & Literature)」语用情境与完整句式的选项（练习 4）：",
+                    "prompt": "指剧中多个主要人物个性鲜明、戏份均衡且共同推动复杂多线剧情发展的剧集类型是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (25.4.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (25.4.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (25.4.3)。"
+                        "群像戏 (Qúnxiàngxì — Ensemble cast drama)",
+                        "独角戏",
+                        "默剧"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "群像戏 (qúnxiàngxì) is an ensemble cast drama with multi-threaded character developments."
                 }
             ]
         },
@@ -12511,85 +12552,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「影视艺术与文学鉴赏 (Cinema & Contemporary Literature)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 25-4）？",
+                    "prompt": "关于中国优秀影视剧集的艺术水准与国际传播，下列哪一项表述完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (25.4.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (25.4.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (25.4.3)。"
+                        "中国电视剧全部都是粗制滥造的肥皂剧",
+                        "海内外流媒体严禁播出中国古装剧",
+                        "中国优秀剧集依托严谨考究的服化道、扣人心弦的群像叙事与深厚的东方美学底蕴，在国际流媒体平台上引发了跨文化共鸣 (Resonates globally with authentic costumes, ensemble narratives, and Eastern aesthetics)"
                     ],
                     "answerIndex": 2,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "explanation": "Accurately appraises the aesthetic rigor, ensemble casting, and international resonance of top Chinese TV productions."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («电影_25_4»):",
+                    "prompt": "Type the 3-character Hanzi industry term for 'Costume, Makeup, and Props' (服化道):",
                     "acceptedAnswers": [
-                        "电影_25_4"
+                        "服化道",
+                        "fuhuadao",
+                        "fúhuàdào",
+                        "Fúhuàdào",
+                        "Fuhuadao"
                     ],
-                    "explanation": "The target keyword was: 【电影_25_4】"
+                    "explanation": "服化道 (fú-huà-dào) means 'Costume, Makeup, and Props'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u25-l5": {
         "id": "zh-u25-l5",
-        "subject": "mandarin",
-        "unit": 25,
-        "lessonNumber": 5,
-        "title": "现代中国影视与文学批评 (Contemporary Cinema & Literature) (Part 5)",
+        "unit": "zh-u25",
         "level": "C1",
-        "objective": "Comprehensive mastery of 影视艺术与文学鉴赏 (Cinema & Contemporary Literature).",
+        "objective": "Synthesize all cinematography, contemporary literature, sci-fi cosmology, and television drama discourse into high-level cultural symposia and global media studies.",
+        "prerequisites": [
+            "zh-u25-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u25-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「现代中国影视与文学批评 (Contemporary Cinema & Literature)」（第5部分）的核心句法结构与影视艺术与文学鉴赏 (Cinema & Contemporary Literature)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在本课中，我们将系统整合第二十五单元的所有影视美学、文学思潮、科幻宇宙与视听叙事体系，在国际电影节评委会与世界跨文化批评高峰论坛中进行高阶论述与实战表达！\n\n1. 现代华语影视与文学批评全景矩阵 (Master Cultural Criticism Matrix):\n| 文艺形态维度 | 核心美学流派与代表范式 | 时代价值与世界回响 |\n| :--- | :--- | :--- |\n| **电影美学** | 第五代色彩仪式 / 第六代纪实长镜头 | 屡获欧洲三大电影节金奖，构建独特东方电影语汇 |\n| **当代小说** | 寻根思潮 / 莫言魔幻现实主义 | 荣获诺贝尔文学奖，深刻叩问人性与历史伦理 |\n| **科幻文学** | 《三体》宏大宇宙观 / 黑暗森林假说 | 斩获雨果奖，贡献「降维打击」等世界级哲学隐喻 |\n| **精品剧集** | 历史正剧 / 群像戏 / 服化道考究 | 掀起国风出海热潮，展现深厚家国情怀与东方美学 |\n| **文化软实力** | 守正创新 / 文明互鉴 / 故事出海 | 提升中华文化国际传播力，推动世界文明交流对话 |\n\n2. 第二十五单元实战交际演练 (Unit 25 Global Cultural Studies Summit):\n- 戛纳电影节国际评委圆桌论坛与当代华语文艺批评主旨发言。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (25.5.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "戛纳国际电影节评委会主席在闭幕致辞中高度评价华语电影：‘从浓烈震撼的视觉史诗到细腻深情的都市纪实，华语电影与文学以其无与伦比的文化厚度与人类关怀，为世界艺术殿堂贡献了不可替代的东方瑰宝！’",
+                    "reading": "Gānà guójì diànyǐngjié píngwěihuì zhǔxí zài bìmù zhìcí zhōng gāodù píngjià Huáyǔ diànyǐng: ‘Cóng nóngliè zhènhàn de shìjué shǐshī dào xìnì shēnqíng de dūshì jìshí, Huáyǔ diànyǐng yǔ wénxué yǐ qí wúyǔlúnbǐ de wénhuà hòudù yǔ rénlèi guānhuái, wèi shìjiè yìshù diàntáng gòngxiàn le bùkě tìdài de Dōngfāng guībǎo!’",
+                    "translation": "The Cannes jury president stated: 'From visual epics to city realisms, Chinese cinema and literature contribute irreplaceable Eastern treasures to world art!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (25.5.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫在国际汉学与比较文学博士答辩中总结：‘无论是莫言小说中的民间魔幻、刘慈欣笔下的星辰大海，还是优秀历史正剧中的家国情怀，当代中国文艺始终在传统基因与现代转化之间探索着连接全人类心灵的文明叙事！’",
+                    "reading": "Dàwèi zài guójì hànxué yǔ bǐjiào wénxué bóshì dābiàn zhōng zǒngjié: ‘Wúlùn shì Mò Yán xiǎoshuō zhōng de mínjiān móhuàn, Liú Cíxīn bǐxià de xīngchén dàhǎi, háishì yòuxiù lìshǐ zhèngjù zhōng de jiāguó qínghuái, dāngdài Zhōngguó wényì shǐzhōng zài chuántǒng jīyīn yǔ xiàndài zhuǎnhuà zhījiān tànsuǒ zhe liánjiē quán rénlèi xīnlíng de wénmíng xùshì!’",
+                    "translation": "David defended: 'Whether Mo Yan's folklore, Liu Cixin's cosmos, or period drama patriotism, contemporary Chinese arts explore civilizational narratives connecting humanity!'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (25.5.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "文化学者在媒体专访中指出：‘立足本土文化根基，勇于吸收世界先进艺术经验，以守正创新的精品力作讲好中国故事，是当代文艺走向世界繁荣舞台的坚实路径！’",
+                    "reading": "Wénhuà xuézhě zài méitǐ zhuānfǎng zhōng zhǐchū: ‘Lìzú běntǔ wénhuà gēnjī, yǒngyú xīshōu shìjiè xiānjìn yìshù jīngyàn, yǐ shǒuzhèng-chuàngxīn de jīngpǐn lìzuò jiǎnghǎo Zhōngguó gùshì, shì dāngdài wényì zǒuxiàng shìjiè fánróng wǔtái de jiānshí lùjìng!’",
+                    "translation": "The cultural scholar noted: 'Rooted in heritage while innovating bravely to tell compelling Chinese stories is the path to global artistic stages!'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 影视艺术与文学鉴赏 (Cinema & Contemporary Literature)"
+                "Arts Summit: Visual Epic (影视美学) + Nobel Heritage (文学寻根) + Sci-Fi Cosmos (三体宇宙) + Global Dialogue (文明互鉴) = Soft Power (文化软实力)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Contemporary Chinese cultural criticism emphasizes «守正创新» (shǒu zhèng chuàng xīn, 'preserving heritage while innovating bravely') as the fundamental guiding principle for modern literature and cinematic arts."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「影视艺术与文学鉴赏 (Cinema & Contemporary Literature)」在第5小节中的标准汉语语法规范？",
+                    "prompt": "当代文艺理论中，强调在继承优秀传统文化精神根脉的基础上敢于突破形式与技术革新的经典治学与创作方针是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (25.5.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (25.5.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (25.5.3)。"
+                        "守正创新 (Preserving foundational heritage while innovating boldly)",
+                        "墨守成规",
+                        "全盘西化"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "守正创新 (shǒuzhèng chuàngxīn) is the foundational aesthetic and cultural philosophy."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「现代中国影视与文学批评 (Contemporary Cinema & Literature)」语用情境与完整句式的选项（练习 5）：",
+                    "prompt": "衡量一个国家文学、影视与艺术作品跨越国界引发全球情感共鸣与文明对话能力的综合指标通常被称为：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (25.5.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (25.5.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (25.5.3)。"
+                        "文化软实力 / 国际传播力 (Cultural soft power & international communicative influence)",
+                        "机械硬实力",
+                        "货币发行量"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "文化软实力 (cultural soft power) measures the global appeal and civilizational resonance of arts and ideas."
                 }
             ]
         },
@@ -12597,24 +12649,30 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「影视艺术与文学鉴赏 (Cinema & Contemporary Literature)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 25-5）？",
+                    "prompt": "关于当代华语影视与文学作品在世界艺术舞台上的综合地位，下列哪一项总括完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (25.5.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (25.5.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (25.5.3)。"
+                        "华语影视文学与世界文明完全隔绝",
+                        "当代华语文艺融汇了深沉的历史反思、独特的东方视听美学与前沿的科幻哲学想象，在世界文学艺术殿堂中展现出强大的文化软实力与文明对话活力 (Blends historic reflection, Eastern aesthetics, and sci-fi philosophy into vibrant global dialogue)",
+                        "中国作家没有获得过任何国际大奖"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "Comprehensively summarizes the artistic achievements, philosophical depth, and global resonance of contemporary Chinese literature and cinema."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («电影_25_5»):",
+                    "prompt": "Type the 4-character phrase meaning 'preserving core heritage while innovating boldly' (守正创新):",
                     "acceptedAnswers": [
-                        "电影_25_5"
+                        "守正创新",
+                        "shouzhengchuangxin",
+                        "shǒuzhèngchuàngxīn",
+                        "Shǒuzhèngchuàngxīn",
+                        "Shouzhengchuangxin",
+                        "守正創新"
                     ],
-                    "explanation": "The target keyword was: 【电影_25_5】"
+                    "explanation": "守正创新 (shǒuzhèng chuàngxīn) means 'preserving foundational roots while innovating boldly'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u26-l1": {
