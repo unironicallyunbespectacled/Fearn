@@ -10232,63 +10232,69 @@
     },
     "zh-u21-l1": {
         "id": "zh-u21-l1",
-        "subject": "mandarin",
-        "unit": 21,
-        "lessonNumber": 1,
-        "title": "中华饮食文化与宴席礼仪 (Culinary Arts & Banquets) (Part 1)",
+        "unit": "zh-u21",
         "level": "B2",
-        "objective": "Comprehensive mastery of 中华美食与宴席礼仪 (Chinese Culinary Arts & Dining).",
+        "objective": "Master the classification of China's Eight Great Cuisines (八大菜系: 鲁/川/粤/苏/闽/浙/湘/徽) and sensory gastronomic vocabulary (色香味俱全, 鲜嫩爽口, 麻辣浓郁, 清淡原汁原味).",
+        "prerequisites": [
+            "zh-u20-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u20-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「中华饮食文化与宴席礼仪 (Culinary Arts & Banquets)」（第1部分）的核心句法结构与中华美食与宴席礼仪 (Chinese Culinary Arts & Dining)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "中国饮食文化博大精深，素有「民以食为天」之说。在长期的历史演进中，形成了著名的**八大菜系（Eight Great Cuisines）**与独特的品评美学！\n\n1. 八大菜系与地域风味概览 (Eight Great Cuisines & Flavor Profiles):\n- **鲁菜 (Lǔ)**：山东菜，北方菜之首，讲究高汤调味与爆炒脆嫩。\n- **川菜 (Chuān)**：四川菜，善用花椒与辣椒，以「麻辣鲜香、一菜一格」著称。\n- **粤菜 (Yuè)**：广东菜，选料精细，追求「清、鲜、嫩、滑、爽」与原汁原味。\n- **苏菜 (Sū)**：江苏菜（淮扬菜），刀工精细、汤清味醇、注重养生。\n- **闽、浙、湘、徽**：分别以海鲜红糟（闽）、清鲜淡雅（浙）、香辣酸辣（湘）、重油重色（徽）享誉天下。\n\n2. 美食品鉴核心语汇 (Gastronomic Descriptors):\n- **色香味俱全 (sè-xiāng-wèi jùquán)**：Appearance, aroma, and flavor all in exquisite perfection。\n- **鲜嫩多汁 (xiānnèn duōzhī)** / **原汁原味 (yuánzhī-yuánwèi)**。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (21.1.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "大卫在品尝扬州清炖狮子头后由衷赞叹：‘这道淮扬名菜真正做到了色香味俱全，汤清见底，肉质鲜嫩爽口、肥而不腻，完美体现了苏菜精湛的刀工与烹饪艺术！’",
+                    "reading": "Dàwèi zài pǐncháng Yángzhōu qīngdùn shīzitóu hòu yóuzhōng zàntàn: ‘Zhè dào Huáiyáng míngcài zhēnzhèng zuò dào le sè-xiāng-wèi jùquán, tāng qīng jiàn dǐ, ròuzhì xiānnèn shuǎngkǒu, féi ér bú nì, wánměi tǐxiàn le Sūcài jīngzhàn de dāogōng yǔ pēngrèn yìshù!’",
+                    "translation": "David praised: 'This Huaiyang classic truly achieves perfection in color, aroma, and taste; the broth is crystal clear and the meat is tender and refreshing without being greasy, embodying Jiangsu cuisine's exquisite knife skills and culinary art!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (21.1.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "成都川菜大厨自豪地向食客介绍道：‘正宗的麻婆豆腐不仅讲究麻、辣、烫、香、酥、嫩、鲜，更在于选用特级汉源花椒与郫县豆瓣酱的黄金配比。’",
+                    "reading": "Chéngdū Chuāncài dàchú zìháo de xiàng shíkè jièshào dào: ‘Zhèngzōng de Mápó dòufu bùjǐn jiǎngjiu má, là, tàng, xiāng, sū, nèn, xiān, gèng zàiyú xuǎnyòng tèjí Hànyuán huājiāo yǔ Píxiàn dòubànjiàng de huángjīn pèibǐ.’",
+                    "translation": "The Chengdu chef introduced: 'Authentic Mapo Tofu emphasizes numbing, spicy, scalding, aromatic, crispy, tender, and fresh notes, highlighted by the golden ratio of Hanyuan peppercorns and Pixian fermented bean paste.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (21.1.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "广州老茶楼里，食客们一边品茗一边享受早茶点心：‘粤菜点心讲究原汁原味、现蒸现吃，虾饺皮薄如蝉翼、虾仁晶莹剔透，令人回味无穷。’",
+                    "reading": "Guǎngzhōu lǎo chálóu lǐ, shíkèmen yìbiān pǐnmíng yìbiān xiǎngshòu zǎochá diǎnxin: ‘Yuècài diǎnxin jiǎngjiu yuánzhī-yuánwèi, xiànzhēng-xiànchī, xiājiǎo pí báo rú chányì, xiārén jīngyíng-tìtòu, lìng rén huíwèi-wúqióng.’",
+                    "translation": "In Guangzhou teahouse: 'Cantonese dim sum emphasizes authentic flavors and freshly steamed freshness; the shrimp dumpling skin is thin as cicada wings and the filling is translucent, leaving a lingering aftertaste.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 中华美食与宴席礼仪 (Chinese Culinary Arts & Dining)"
+                "Culinary Excellence: 鲁川粤苏 闽浙湘徽 (8 Great Cuisines), 色香味俱全 (Color, Aroma, Taste Perfection)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "«民以食为天» (mín yǐ shí wéi tiān, 'food is heaven to the people') originates from the Records of the Grand Historian (史记), reflecting the supreme cultural, social, and philosophical importance of food in Chinese civilization."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「中华美食与宴席礼仪 (Chinese Culinary Arts & Dining)」在第1小节中的标准汉语语法规范？",
+                    "prompt": "形容一道菜肴在视觉色彩、嗅觉香气和味觉口感上都达到了极致完美境界的成语是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (21.1.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (21.1.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (21.1.3)。"
+                        "粗制滥造",
+                        "色香味俱全 (Sè-xiāng-wèi jùquán — Color, aroma, and taste all in perfection)",
+                        "味同嚼蜡"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "色香味俱全 is the classic 4-character idiom for gastronomic culinary perfection."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「中华饮食文化与宴席礼仪 (Culinary Arts & Banquets)」语用情境与完整句式的选项（练习 1）：",
+                    "prompt": "以刀工精细、讲究本味、汤清鲜甜、淮扬菜为核心代表的中国菜系是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (21.1.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (21.1.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (21.1.3)。"
+                        "苏菜 / 江苏菜 (Sūcài / Jiangsu cuisine)",
+                        "川菜",
+                        "湘菜"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "江苏菜 (苏菜 / 淮扬菜) is famed for delicate knife skills, clear broths, and authentic flavors."
                 }
             ]
         },
@@ -10296,85 +10302,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「中华美食与宴席礼仪 (Chinese Culinary Arts & Dining)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 21-1）？",
+                    "prompt": "关于中国‘八大菜系’的地域风味特色，下列哪一项表述完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (21.1.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (21.1.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (21.1.3)。"
+                        "中国所有菜系的调味方法完全相同",
+                        "川菜善用麻辣与豆瓣酱，粤菜追求清鲜嫩滑与原汁原味，鲁菜讲究高汤与火候 (Chuān: numb-spicy; Yuè: freshness; Lǔ: broth & heat control)",
+                        "粤菜以极度重咸重辣著称"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "explanation": "Accurately contrasts the distinct flavor philosophies of Sichuan, Cantonese, and Shandong cuisines."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («点菜_21_1»):",
+                    "prompt": "Type the 4-character idiom meaning 'food is the first necessity of the people' (民以食为天):",
                     "acceptedAnswers": [
-                        "点菜_21_1"
+                        "民以食为天",
+                        "minyishiweitian",
+                        "mínyǐshíwéitiān",
+                        "Mínyǐshíwéitiān",
+                        "Minyishiweitian",
+                        "民以食爲天"
                     ],
-                    "explanation": "The target keyword was: 【点菜_21_1】"
+                    "explanation": "民以食为天 (mínyǐshíwéitiān) means 'Food is heaven / the supreme priority to the people'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u21-l2": {
         "id": "zh-u21-l2",
-        "subject": "mandarin",
-        "unit": 21,
-        "lessonNumber": 2,
-        "title": "中华饮食文化与宴席礼仪 (Culinary Arts & Banquets) (Part 2)",
+        "unit": "zh-u21",
         "level": "B2",
-        "objective": "Comprehensive mastery of 中华美食与宴席礼仪 (Chinese Culinary Arts & Dining).",
+        "objective": "Master the protocol and terminology of traditional Chinese banquet seating arrangements (主位/主陪, 主宾, 副主陪, 尚左/尚东, 虚左以待).",
+        "prerequisites": [
+            "zh-u21-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u21-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「中华饮食文化与宴席礼仪 (Culinary Arts & Banquets)」（第2部分）的核心句法结构与中华美食与宴席礼仪 (Chinese Culinary Arts & Dining)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在中华宴饮礼仪中，「座次（Seating Order）」直接体现了主宾关系与传统尊卑敬老的美德！\n\n1. 圆桌宴席核心座次体系 (Banquet Seating Protocol):\n- **主位 (zhǔwèi) / 主陪 (zhǔpéi)**：正对大门（正中面向入口）的位置为最尊贵的「主位」，通常由宴请的主人或地位最高者就座。\n- **主宾 (zhǔbīn)**：第一贵宾，坐在**主人的右侧**（以右为尊 / 尚东为尊）。\n- **副宾 (fùbīn)**：第二贵宾，坐在**主人的左侧**。\n- **副陪 (fùpéi)**：主人的主要助手，坐在**正对主位（背对大门）**的位置，负责结账、上菜联络与祝酒倒茶。\n\n2. 礼让与请座口语交际 (Polite Seating Dialogue):\n- **请上座 (Qǐng shàngzuò)**：Please take the seat of honor.\n- **不敢当，您是长辈/贵宾，请您上座！**",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (21.2.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "东道主热情地引导外宾入座：‘大卫先生，您是本次学术交流的主宾，请您就座于主位右侧的第一贵宾席！’",
+                    "reading": "Dōngdàozhǔ rèqíng de yǐndǎo wàibīn rùzuò: ‘Dàwèi xiānsheng, nín shì běn cì xuéshù jiāoliú de zhǔbīn, qǐng nín jiùzuò yú zhǔwèi yòucè de dì-yī guìbīnxí!’",
+                    "translation": "The host warmly guided: 'Mr. David, you are the guest of honor; please take the seat to the right of the host position!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (21.2.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫谦逊有礼地回应：‘感谢张教授的盛情款待！您是德高望重的学界前辈，理应由您坐主位主持大局。’",
+                    "reading": "Dàwèi qiānxùn-yǒulǐ de huíyìng: ‘Gǎnxiè Zhāng jiàoshòu de shèngqíng kuǎndài! Nín shì dégāo-wàngzhòng de xuéjiè qiánbèi, lǐyīng yóu nín zuò zhǔwèi zhǔchí dàjú.’",
+                    "translation": "David politely responded: 'Thank you for your generous hospitality! You are an esteemed senior scholar, and rightfully should take the host seat to preside.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (21.2.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "副陪在靠近门口的位置细致安排：‘请各位远道而来的学者安心就座，今晚各项服务与上菜联络由我全力负责保障。’",
+                    "reading": "Fùpéi zài kàojìn ménkǒu de wèizhi xìzhì ānpái: ‘Qǐng gèwèi yuǎndào-érlái de xuézhě ānxīn jiùzuò, jīnwǎn gè xiàng fúwù yǔ shàngcài liánluò yóu wǒ quánlì fùzé bǎozhàng.’",
+                    "translation": "The vice-host arranged: 'Please take your seats; I will ensure all dining coordination and service are handled seamlessly tonight.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 中华美食与宴席礼仪 (Chinese Culinary Arts & Dining)"
+                "Seating Formula: Facing the door = Host (主位); Right hand = Guest of Honor (主宾); Facing the host = Vice Host (副陪)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Traditional Chinese table etiquette holds that the seat facing the main room entrance (正对大门) is the seat of honor. Placing the guest of honor on the host's right is customary in modern formal banquets."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「中华美食与宴席礼仪 (Chinese Culinary Arts & Dining)」在第2小节中的标准汉语语法规范？",
+                    "prompt": "在正规的中国圆桌宴席中，正对大门的最中心尊位通常安排给：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (21.2.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (21.2.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (21.2.3)。"
+                        "刚来的实习生",
+                        "宴席的主持人/东道主主陪 (The host / principal presider)",
+                        "背对大门的服务员"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "The seat facing the door is the 主位/主陪 (host/presider seat)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「中华饮食文化与宴席礼仪 (Culinary Arts & Banquets)」语用情境与完整句式的选项（练习 2）：",
+                    "prompt": "在商务或学术晚宴上，第一尊贵客人（主宾）的标准就座位置是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (21.2.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (21.2.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (21.2.3)。"
+                        "背对大门的角落",
+                        "主位的右侧 (To the immediate right of the host)",
+                        "离开餐桌"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "The Guest of Honor (主宾) sits directly to the right of the Host (主位/主陪)."
                 }
             ]
         },
@@ -10382,85 +10400,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「中华美食与宴席礼仪 (Chinese Culinary Arts & Dining)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 21-2）？",
+                    "prompt": "关于中国宴席座次礼仪，下列哪一项表述完全符合传统文化规范？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (21.2.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (21.2.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (21.2.3)。"
+                        "大家进门随便乱抢座位坐",
+                        "主人必须背对大门",
+                        "正对大门者为主位，其右侧为主宾席，背对大门者为负责上菜协调的副陪 (Host faces door, guest of honor to right, vice host faces host)"
                     ],
                     "answerIndex": 2,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "explanation": "This precisely encapsulates the classical and modern standard banquet seating layout."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («点菜_21_2»):",
+                    "prompt": "Type the 2-character Hanzi term for 'Guest of Honor / Chief Guest' (主宾):",
                     "acceptedAnswers": [
-                        "点菜_21_2"
+                        "主宾",
+                        "zhubin",
+                        "zhǔbīn",
+                        "Zhǔbīn",
+                        "Zhubin",
+                        "主賓"
                     ],
-                    "explanation": "The target keyword was: 【点菜_21_2】"
+                    "explanation": "主宾 (zhǔbīn) means 'Guest of Honor'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u21-l3": {
         "id": "zh-u21-l3",
-        "subject": "mandarin",
-        "unit": 21,
-        "lessonNumber": 3,
-        "title": "中华饮食文化与宴席礼仪 (Culinary Arts & Banquets) (Part 3)",
+        "unit": "zh-u21",
         "level": "B2",
-        "objective": "Comprehensive mastery of 中华美食与宴席礼仪 (Chinese Culinary Arts & Dining).",
+        "objective": "Master Chinese toasting and tea rituals (碰杯低于对方杯沿 Lower rim when clinking glasses, 扣指礼 Finger tapping thank-you, 以茶代酒 Replace wine with tea, 敬祝健康祝酒辞).",
+        "prerequisites": [
+            "zh-u21-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u21-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「中华饮食文化与宴席礼仪 (Culinary Arts & Banquets)」（第3部分）的核心句法结构与中华美食与宴席礼仪 (Chinese Culinary Arts & Dining)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在宴席与茶叙交流中，肢体微动作与祝酒套语体现了极高的情商与文化涵养！\n\n1. 碰杯与祝酒礼节 (Toasting Etiquette & Cup Clinking):\n- **杯沿微低 (bēiyán wēidī)**：向长辈或尊贵客人敬酒碰杯时，自己的**杯沿必须略低于对方杯沿**，以示谦逊与尊敬。\n- **双手持杯**：右手端杯、左手托住杯底，表示郑重。\n- **以茶代酒 (yǐ chá dài jiǔ)**：若不胜酒力或需开车，可礼貌说明「我以茶代酒，敬您一杯，祝您身体健康、工作顺利！」。\n\n2. 茶道扣指礼 (The Finger Tapping Kowtow Gesture / 叩指礼):\n- 当主人或他人为你倒茶时，以食指与中指微曲轻叩桌面三下，表示「叩谢（Kowtow thank-you）」而无需大声打断谈话。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (21.3.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "大卫在向老教授敬酒时双手端杯，并特意将自己的杯沿放低一截：‘张教授，学生敬您一杯，感谢您多年来的悉心栽培，祝您福如东海、寿比南山！’",
+                    "reading": "Dàwèi zài xiàng lǎo jiàoshòu jìngjiǔ shí shuāngshǒu duānbēi, bìng tèyì jiāng zìjǐ de bēiyán fàng dī yì jié: ‘Zhāng jiàoshòu, xuésheng jìng nín yì bēi, gǎnxiè nín duōnián lái de xīxīn zāipéi, zhù nín fú rú dōnghǎi, shòu bǐ nánshān!’",
+                    "translation": "David held his glass with both hands and lowered his glass rim: 'Professor Zhang, I toast to you; thank you for your devoted guidance, wishing you longevity and good fortune!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (21.3.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "商务宴请中，外宾礼貌致辞：‘由于今晚还要赶往机场，我在此以茶代酒，敬各位合作伙伴一杯，预祝我们双方的合作圆满成功！’",
+                    "reading": "Shāngwù yànqǐng zhōng, wàibīn lǐmào zhìcí: ‘Yóuyú jīnwǎn hái yào gǎnwǎng jīchǎng, wǒ zài cǐ yǐ chá dài jiǔ, jìng gèwèi hézuò huǒbàn yì bēi, yùzhù wǒmen shuāngfāng de hézuò yuánmǎn chénggōng!’",
+                    "translation": "At the business dinner: 'Since I must head to the airport tonight, I hereby replace wine with tea to toast our partners, wishing our collaboration resounding success!'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (21.3.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "在茶艺馆品茶时，主人为大卫添茶，大卫自然地用食指与中指在桌面上轻叩两下以表谢意，赢得了茶艺师的高度赞赏。",
+                    "reading": "Zài cháyìguǎn pǐnchá shí, zhǔrén wèi Dàwèi tiānchá, Dàwèi zìrán de yòng shízǐ yǔ zhōngzhǐ zài zhuōmiàn shang qīngkòu liǎng xià yǐ biǎo xièyì, yíngdé le cháyìshī de gāodù zànshǎng.",
+                    "translation": "When the host refilled tea, David naturally tapped his fingers on the table to show gratitude, winning high praise from the tea master."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 中华美食与宴席礼仪 (Chinese Culinary Arts & Dining)"
+                "Toast & Tea: Rim below rim (谦逊碰杯), Two hands hold cup (双手托底), Finger tap for tea (叩指谢茶), 以茶代酒 (Replace wine with tea)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "The finger tapping gesture (扣指礼 kòuzhǐlǐ) is believed to originate from the Qianlong Emperor's covert tours south of the Yangtze River, where officials tapped fingers to signify kowtowing without blowing the emperor's cover."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「中华美食与宴席礼仪 (Chinese Culinary Arts & Dining)」在第3小节中的标准汉语语法规范？",
+                    "prompt": "向长辈、导师或贵宾敬酒碰杯时，最规范的礼貌细节是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (21.3.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (21.3.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (21.3.3)。"
+                        "把杯子举得比对方高很多",
+                        "自己的杯沿略低于对方杯沿，双手托杯 (Lower glass rim below recipient's & hold with two hands)",
+                        "直接把酒洒在桌上"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "Lowering one's cup rim slightly below the counterpart's is the universal Chinese sign of modesty and respect."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「中华饮食文化与宴席礼仪 (Culinary Arts & Banquets)」语用情境与完整句式的选项（练习 3）：",
+                    "prompt": "在喝茶添茶时，客人用食指与中指在桌面上轻叩两三下表达谢意的传统礼节被称为：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (21.3.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (21.3.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (21.3.3)。"
+                        "叩指礼 / 扣指礼 (Finger tapping gesture)",
+                        "拍桌子抗议",
+                        "划拳"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "叩指礼 (kòuzhǐlǐ) is the traditional tacit gesture of gratitude during tea service."
                 }
             ]
         },
@@ -10468,85 +10498,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「中华美食与宴席礼仪 (Chinese Culinary Arts & Dining)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 21-3）？",
+                    "prompt": "如果在宴席上因身体原因或驾驶需要不能饮酒，最得体周到的祝酒用语是：",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (21.3.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (21.3.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (21.3.3)。"
+                        "我以茶代酒，敬大家一杯，祝大家事业顺遂 (I replace wine with tea to toast you all...)",
+                        "你们喝你们的，我不理你们",
+                        "酒不好喝，我不喝"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "explanation": "以茶代酒 is the classic, gracious phrase to toast without consuming alcohol."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («点菜_21_3»):",
+                    "prompt": "Type the 4-character phrase for 'substituting tea for wine in a toast' (以茶代酒):",
                     "acceptedAnswers": [
-                        "点菜_21_3"
+                        "以茶代酒",
+                        "yichadaijiu",
+                        "yǐchádàijiǔ",
+                        "Yǐchádàijiǔ",
+                        "Yichadaijiu"
                     ],
-                    "explanation": "The target keyword was: 【点菜_21_3】"
+                    "explanation": "以茶代酒 (yǐ chá dài jiǔ) means 'to substitute tea for wine'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u21-l4": {
         "id": "zh-u21-l4",
-        "subject": "mandarin",
-        "unit": 21,
-        "lessonNumber": 4,
-        "title": "中华饮食文化与宴席礼仪 (Culinary Arts & Banquets) (Part 4)",
+        "unit": "zh-u21",
         "level": "B2",
-        "objective": "Comprehensive mastery of 中华美食与宴席礼仪 (Chinese Culinary Arts & Dining).",
+        "objective": "Master the grammar and menu composition principles of hosting a banquet (凉热搭配 cold & hot dishes, 荤素相宜 meat & vegetable balance, 咸甜适中, 忌口 dietary restrictions/allergies).",
+        "prerequisites": [
+            "zh-u21-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u21-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「中华饮食文化与宴席礼仪 (Culinary Arts & Banquets)」（第4部分）的核心句法结构与中华美食与宴席礼仪 (Chinese Culinary Arts & Dining)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在中国作为东道主安排宴席时，「点菜（Menu Composition）」是一门极讲究平衡与体贴客人的高超学问！\n\n1. 传统中餐点菜结构黄金法则 (The Golden Rules of Chinese Menu Planning):\n- **凉热搭配 (liáng-rè dāpèi)**：先上4–6道开胃冷盘凉菜，再上热炒与硬菜（招牌主菜）。\n- **荤素相宜 (hūn-sù xiāngyí)**：肉类与时令蔬菜均衡配比，荤素比例通常为 6:4 或 5:5。\n- **干稀搭配与主食收尾**：有汤羹有干炒，最后呈上特色面点主食与时令鲜果甜品。\n\n2. 礼貌询问客人的饮食习惯与忌口 (Inquiring Dietary Restrictions):\n- **请问各位在饮食上有什么忌口吗？** (Do you have any dietary restrictions/allergies?)\n- **您对海鲜/花生过敏吗？有没有人不吃辣或只吃清真/素食？**\n- **客人回应**：我**对 [海鲜/花生] 过敏** / 我**忌辛辣** / 我**吃素**。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (21.4.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "大卫作为东道主在点菜前细心征询每位客人的意见：‘请问各位老师在饮食上有什么忌口吗？比如是否吃辣、有没有对海鲜或坚果过敏的朋友？’",
+                    "reading": "Dàwèi zuòwéi dōngdàozhǔ zài diǎncài qián xìxīn zhēnxún měi wèi kèrén de yìjiàn: ‘Qǐngwèn gèwèi lǎoshī zài yǐnshí shang yǒu shénme jìkǒu ma? Bǐrú shìfǒu chī là, yǒu méiyǒu duì hǎixiān huò jiānguǒ guòmǐn de péngyou?’",
+                    "translation": "David as host inquired: 'Do you have any dietary restrictions? For instance, whether you eat spicy food, or anyone is allergic to seafood or nuts?'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (21.4.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "餐厅领班熟练地为宴席推荐菜单：‘我们今晚安排了四道精美冷碟开胃，主菜有北京烤鸭与清蒸石斑鱼，搭配两道有机时蔬与西湖牛肉羹，做到荤素相宜、凉热兼备！’",
+                    "reading": "Cāntīng lǐngbān shúliàn de wèi yànxí tuījiàn càidān: ‘Wǒmen jīnwǎn ānpái le sì dào jīngměi lěngdié kāiwèi, zhǔcài yǒu Běijīng kǎoyā yǔ qīngzhēng shíbānyú, dāpèi liǎng dào yǒujī shíshū yǔ Xīhú niúròugēng, zuò dào hūnsù-xiāngyí, liángrè-jiānbèi!’",
+                    "translation": "The head waiter recommended: 'Tonight we prepared four cold appetizers, main dishes of Peking Roast Duck and steamed grouper, matched with seasonal vegetables and West Lake beef soup, achieving perfect meat-veg and cold-hot harmony!'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (21.4.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "素食学者微笑着向服务员说明：‘我平时常年吃素，麻烦后厨帮我准备一份清炒时蔬与罗汉斋即可，非常感谢！’",
+                    "reading": "Sùshí xuézhě wēixiào de xiàng fúwùyuán shuōmíng: ‘Wǒ píngshí chángnián chī sù, máfan hòuchú bāng wǒ zhǔnbèi yí fèn qīngchǎo shíshū yǔ Luóhànzhāi jíkě, fēicháng gǎnxiè!’",
+                    "translation": "The vegetarian scholar explained: 'I have been a long-time vegetarian; could the kitchen please prepare stir-fried greens and Luohan vegetarian stew for me? Thank you very much!'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 中华美食与宴席礼仪 (Chinese Culinary Arts & Dining)"
+                "Menu Planning: 凉热搭配 (Cold & Hot), 荤素相宜 (Meat & Greens), 汤羹主食 (Soup & Staple), 问清忌口 (Check Allergies)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "In Chinese culture, a hospitable host always orders slightly more than needed and ensures a harmonious variety of tastes (sweet, savory, sour, spicy) to express abundance and generosity."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「中华美食与宴席礼仪 (Chinese Culinary Arts & Dining)」在第4小节中的标准汉语语法规范？",
+                    "prompt": "在正式宴席点菜前，东道主询问客人的饮食习惯，最得体周全的问话是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (21.4.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (21.4.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (21.4.3)。"
+                        "你们快点自己选",
+                        "请问各位有什么忌口或过敏吗？(Qǐngwèn gèwèi yǒu shénme jìkǒu huò guòmǐn ma? — Courteous host inquiry)",
+                        "大家都必须吃辣"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "询问忌口与过敏 is the essential courteous step before ordering a formal Chinese meal."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「中华饮食文化与宴席礼仪 (Culinary Arts & Banquets)」语用情境与完整句式的选项（练习 4）：",
+                    "prompt": "成语‘荤素相宜’在中餐菜单设计中指：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (21.4.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (21.4.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (21.4.3)。"
+                        "全部都是肉类",
+                        "肉类菜肴与蔬菜菜肴比例均衡、健康协调 (Harmonious balance between meat and vegetable dishes)",
+                        "完全不加盐"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "荤素相宜 means a healthy, delicious balance between meat (荤) and vegetable (素) dishes."
                 }
             ]
         },
@@ -10554,85 +10595,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「中华美食与宴席礼仪 (Chinese Culinary Arts & Dining)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 21-4）？",
+                    "prompt": "关于中国传统宴席菜单的搭配原则，下列哪一项完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (21.4.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (21.4.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (21.4.3)。"
+                        "只能全部上冷菜",
+                        "只能上肉菜不能上蔬菜",
+                        "讲究凉热搭配、荤素相宜、有汤有主食，口感层次丰富且兼顾各方忌口 (Harmonious hot/cold, meat/veg, soup/staple balance honoring dietary needs)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "This expresses the complete aesthetic and nutritional philosophy of Chinese meal composition."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («点菜_21_4»):",
+                    "prompt": "Type the 2-character Hanzi term for 'dietary restrictions / taboos in food' (忌口):",
                     "acceptedAnswers": [
-                        "点菜_21_4"
+                        "忌口",
+                        "jikou",
+                        "jìkǒu",
+                        "Jìkǒu",
+                        "Jikou"
                     ],
-                    "explanation": "The target keyword was: 【点菜_21_4】"
+                    "explanation": "忌口 (jìkǒu) means 'dietary restriction / food taboo'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u21-l5": {
         "id": "zh-u21-l5",
-        "subject": "mandarin",
-        "unit": 21,
-        "lessonNumber": 5,
-        "title": "中华饮食文化与宴席礼仪 (Culinary Arts & Banquets) (Part 5)",
+        "unit": "zh-u21",
         "level": "B2",
-        "objective": "Comprehensive mastery of 中华美食与宴席礼仪 (Chinese Culinary Arts & Dining).",
+        "objective": "Synthesize all culinary and banquet discourse (Eight cuisines, Seating hierarchy, Clinking & Toasting protocol, Menu composition, Cultural metaphors) into high-level international reception feasts and state banquets.",
+        "prerequisites": [
+            "zh-u21-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u21-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「中华饮食文化与宴席礼仪 (Culinary Arts & Banquets)」（第5部分）的核心句法结构与中华美食与宴席礼仪 (Chinese Culinary Arts & Dining)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在本课中，我们将系统整合第二十一单元的所有中华饮食美学与宴席礼仪体系，在国宾招待宴会与跨国文化交流晚宴的最高语境中进行实战演练！\n\n1. 中华饮食文化与宴席礼仪全景矩阵 (Master Banquet & Dining Matrix):\n| 礼仪与美学维度 | 核心文化程式 | 典型高级应用范例 |\n| :--- | :--- | :--- |\n| **菜系与品味** | 鲁川粤苏 / 色香味俱全 | 汇聚八方风味，展现博大饮食文化 |\n| **座次规范** | 正对大门主位 / 主宾居右 / 副陪居下 | 尊师重道，严谨周密安排宾客座次 |\n| **敬酒茶道** | 杯沿微低 / 扣指致谢 / 以茶代酒 | 谦逊有礼，祝颂健康与合作共赢 |\n| **点菜配伍** | 凉热搭配 / 荤素相宜 / 细询忌口 | 体贴入微，彰显待客之道的周全 |\n| **饮食哲学** | 食不厌精，脍不厌细 / 和而不同 | 借美食通达文化，促进文明互鉴 |\n\n2. 第二十一单元实战交际演练 (Unit 21 State Banquet & Gala Feast):\n- 国际汉学高端招待宴会致辞、菜品鉴赏与跨文化交流盛宴。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (21.5.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "在国际青年学者联谊晚宴上，大会主席举杯向全体中外嘉宾致祝酒辞：‘有朋自远方来，不亦乐乎！今晚我们以中华传统美食为媒，汇聚八方贤朋，愿大家在品尝地道佳肴的同时，加深友谊、增进理解，共同为世界文化交流谱写崭新篇章！’",
+                    "reading": "Zài guójì qīngnián xuézhě liányí wǎnyàn shang, dàhuì zhǔxí jǔbēi xiàng quántǐ zhōng-wài jiābīn zhì zhùjiǔcí: ‘Yǒu péng zì yuǎnfāng lái, bú yì yuè hū! Jīnwǎn wǒmen yǐ Zhōnghuá chuántǒng měishí wéi méi, huìjù bāfāng xiánpéng, yuàn dàjiā zài pǐncháng dìdao jiāyáo de tóngshí, jiāshēn yǒuyì, zēngjìn lǐjiě, gòngtóng wèi shìjiè wénhuà jiāoliú pǔxiě zhǎnxīn piānzhāng!’",
+                    "translation": "The banquet president toasted: 'How delightful it is to have friends coming from afar! Tonight, using traditional Chinese culinary art as our bridge, we gather esteemed friends from all quarters; may you deepen friendship and mutual understanding while savoring authentic delicacies!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (21.5.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫在代表国际学者致答谢词时深情说道：‘这几天我们不仅领略了中国菜肴色香味俱全的非凡魅力，更在座次、碰杯与茶道礼仪中深深体会到了中华文明温良恭俭让的博大胸怀与待客之诚！在此谨以茶代酒，向全体主办方致以最诚挚的谢意！’",
+                    "reading": "Dàwèi zài dàibiǎo guójì xuézhě zhì dáxiècí shí shēnqíng shuō dào: ‘Zhè jǐ tiān wǒmen bùjǐn lǐnglüè le Zhōngguó càiyáo sè-xiāng-wèi jùquán de fēifán mèilì, gèng zài zuòcì, pèngbēi yǔ cháyì lǐyí zhōng shēnshēn tǐhuì dào le Zhōnghuá wénmíng wēn-liáng-gōng-jiǎn-ràng de bódà xiōnghuái yǔ dàikè zhī chéng! Zài cǐ jǐn yǐ chá dài jiǔ, xiàng quántǐ zhǔbànfāng zhìyǐ zuì chéngzhì de xièyì!’",
+                    "translation": "David replied: 'Over these days, we not only savored the extraordinary perfection of Chinese culinary arts, but also deeply felt the magnanimity and sincerity of Chinese civilization through banquet etiquette and tea rituals! Hereby replacing wine with tea, I extend our heartfelt thanks!'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (21.5.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "文化评论员在专栏中总结：‘中华饮食文化绝非单纯的口腹之欲，而是融汇了五行相生、阴阳调和与天人合一深厚哲理的物质与精神文化瑰宝！’",
+                    "reading": "Wénhuà pínglùnyuán zài zhuānlán zhōng zǒngjié: ‘Zhōnghuá yǐnshí wénhuà juéfēi dānchún de kǒufù-zhī-yù, ér shì rónghuì le wǔxíng-xiāngshēng, yīnyáng-tiáohé yǔ tiānrén-héyī shēnhòu zhélǐ de wùzhì yǔ jīngshén wénhuà guībǎo!’",
+                    "translation": "The cultural commentator wrote: 'Chinese culinary culture is by no means mere gratification of the palate, but a cultural treasure fusing the deep philosophies of Yin-Yang harmony, Five Elements, and the unity of humanity with nature!'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 中华美食与宴席礼仪 (Chinese Culinary Arts & Dining)"
+                "Feast Master: Food as Bridge (美食为媒), Seating & Toasts (礼貌周全), Harmony in Diversity (和而不同), Sincere Hospitality (待客之诚)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Confucius in the Analects famously stated «食不厌精，脍不厌细» (shí bù yàn jīng, kuài bù yàn xì — food can never be too clean, nor minced meat too fine), establishing the thousand-year aesthetic standard for Chinese gastronomy."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「中华美食与宴席礼仪 (Chinese Culinary Arts & Dining)」在第5小节中的标准汉语语法规范？",
+                    "prompt": "孔子在《论语》中提出、用以形容对待烹饪美食精益求精态度的名言是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (21.5.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (21.5.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (21.5.3)。"
+                        "食不厌精，脍不厌细 (Food can never be too refined...)",
+                        "随便应付",
+                        "囫囵吞枣"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "食不厌精，脍不厌细 is Confucius's classic statement on culinary refinement and perfection."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「中华饮食文化与宴席礼仪 (Culinary Arts & Banquets)」语用情境与完整句式的选项（练习 5）：",
+                    "prompt": "在大型国际文化交流晚宴上，致辞中用成语表达‘以中华传统美食作为沟通交流的桥梁纽带’的是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (21.5.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (21.5.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (21.5.3)。"
+                        "以美食为媒 (Taking gourmet cuisine as the medium/bridge)",
+                        "对牛弹琴",
+                        "闭门造车"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "以……为媒 (taking ... as the medium/bridge) is the classic high-register expression for cultural connectivity."
                 }
             ]
         },
@@ -10640,24 +10692,30 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「中华美食与宴席礼仪 (Chinese Culinary Arts & Dining)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 21-5）？",
+                    "prompt": "关于中华饮食文化与宴席礼仪体系的综合认知，下列哪一项总括完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (21.5.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (21.5.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (21.5.3)。"
+                        "中华饮食只是填饱肚子，没有任何文化内涵",
+                        "宴席上必须所有人喝醉才算有礼貌",
+                        "中华饮食文化融汇了八大菜系的技艺精髓、严谨温润的座次与祝酒礼节，以及阴阳调和、天人合一的哲学智慧 (Fuses 8 cuisines, respectful banquet rituals, and harmony philosophies)"
                     ],
                     "answerIndex": 2,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "explanation": "This comprehensively captures the rich cultural, philosophical, and social dimensions of Chinese dining."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («点菜_21_5»):",
+                    "prompt": "Type the 4-character Confucian idiom meaning 'food can never be too refined / pursuit of culinary perfection' (食不厌精):",
                     "acceptedAnswers": [
-                        "点菜_21_5"
+                        "食不厌精",
+                        "shibuyanjing",
+                        "shíbùyànjīng",
+                        "Shíbùyànjīng",
+                        "Shibuyanjing",
+                        "食不厭精"
                     ],
-                    "explanation": "The target keyword was: 【点菜_21_5】"
+                    "explanation": "食不厌精 (shíbùyànjīng) means 'food can never be too refined / striving for perfection in food'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u22-l1": {
