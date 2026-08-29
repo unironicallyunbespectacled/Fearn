@@ -482,63 +482,65 @@
   var LESSONS = {
     "hk-u1-l1": {
         "id": "hk-u1-l1",
-        "subject": "cantonese",
-        "unit": 1,
-        "lessonNumber": 1,
-        "title": "粵拼發音同基本問候 (Jyutping & Greetings) (Part 1)",
+        "unit": "hk-u1",
         "level": "A1",
-        "objective": "Comprehensive mastery of 日常生活問候同打招呼 (Greetings & Jyutping).",
+        "objective": "Master standard Cantonese greetings, Jyutping pronunciation, and the 6 phonemic tones (你好 nei5 hou2, 早晨 zou2 san4, 食咗飯未呀 sik6 zo2 faan6 mei6 aa3).",
+        "prerequisites": [],
+        "warmup": {
+            "srsPull": false,
+            "reviewFocus": []
+        },
         "presentation": {
-            "explanation": "喺呢一課（日常生活問候同打招呼 (Greetings & Jyutping) - 第1部分）入面，我哋會探討廣東話嘅核心語用語境同埋日常生活問候同打招呼 (Greetings & Jyutping)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "歡迎嚟到廣東話（Cantonese / 粵語）世界！廣東話係一種聲調極為豐富、歷史悠久嘅語言，主要通行於香港、澳門、廣東同全球海外唐人街。\n\n1. 粵拼六聲系統 (Jyutping 6 Tones):\n廣東話標準音（粵拼）有六個基本聲調：\n- 第1聲 (55/53 陰平)：高平調，例如 **詩 (si1)**。\n- 第2聲 (35 陰上)：高升調，例如 **史 (si2)**。\n- 第3聲 (33 陰去)：中平調，例如 **試 (si3)**。\n- 第4聲 (21/11 陽平)：低降調，例如 **時 (si4)**。\n- 第5聲 (13/23 陽上)：低升調，例如 **市 (si5)**。\n- 第6聲 (22 陽去)：低平調，例如 **事 (si6)**。\n*(口訣：詩史試，時市事)*\n\n2. 基本見面問候語 (Core Greetings):\n- **你好 (nei5 hou2)**：通用問候「Hello / How are you」。\n- **早晨 (zou2 san4)**：朝早見面打招呼「Good morning」。\n- **食咗飯未呀？ (sik6 zo2 faan6 mei6 aa3?)**：華人社會最親切嘅問候，字面意思係「食咗飯未」，表達關心同友善！",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (1.1.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "早晨呀陳生，今日精神好好喎！",
+                    "reading": "zou2 san4 aa3 can4 saang1, gam1 jat6 zing1 san4 hou2 hou2 wo3!",
+                    "translation": "Good morning Mr. Chan, you look very energetic today!"
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (1.1.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "你好，我係新嚟嘅同事David，請多多指教。",
+                    "reading": "nei5 hou2, ngo5 hai6 san1 lai4 ge3 tung4 si6 David, cing2 do1 do1 zi2 gaau3.",
+                    "translation": "Hello, I am the new colleague David, pleased to meet you."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (1.1.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "李太，食咗飯未呀？入嚟坐陣啦！",
+                    "reading": "lei5 taai3, sik6 zo2 faan6 mei6 aa3? jap6 lai4 co5 zan6 laa1!",
+                    "translation": "Mrs. Li, have you eaten yet? Come in and take a seat for a while!"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 日常生活問候同打招呼 (Greetings & Jyutping)"
+                "Six Tones: 詩(1) 史(2) 試(3) 時(4) 市(5) 事(6) — High, Rising, Mid, Low-fall, Low-rise, Low!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "«早晨» (zou2 san4) is universally used across Hong Kong offices, streets, and residential lobbies each morning as a warm, respectful greeting."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「日常生活問候同打招呼 (Greetings & Jyutping)」喺第1節嘅地道廣東話表達？",
+                    "prompt": "喺廣東話入面，朝早喺公司或者街上面見到街坊鄰居，最地道常用嘅打招呼用語係：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (1.1.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (1.1.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (1.1.3)。"
+                        "早霸王",
+                        "早晨 (zou2 san4 - Good morning)",
+                        "晚安"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "早晨 (zou2 san4) is the standard and most natural Cantonese greeting for 'Good morning'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「粵拼發音同基本問候 (Jyutping & Greetings)」語境嘅廣東話完整句子（練習 1）：",
+                    "prompt": "廣東話入面，最能體現嶺南飲食文化與鄰里人情味、經常用作熟人見面寒暄嘅問候句係：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (1.1.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (1.1.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (1.1.3)。"
+                        "食咗飯未呀？ (sik6 zo2 faan6 mei6 aa3? - Have you eaten yet?)",
+                        "你去咗邊度買樓？",
+                        "你今日賺咗幾多錢？"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "食咗飯未呀？ (Have you eaten yet?) is the quintessential Cantonese cultural greeting expressing warmth."
                 }
             ]
         },
@@ -546,85 +548,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「日常生活問候同打招呼 (Greetings & Jyutping)」嘅日常商務與生活習慣（考核 1-1）？",
+                    "prompt": "關於廣東話嘅聲調特點同基本見面問候，下列邊一項表述完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (1.1.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (1.1.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (1.1.3)。"
+                        "廣東話只有兩個聲調且見面不能打招呼",
+                        "廣東話具有六個基本聲調（如詩史試時市事），見面常用「你好」、「早晨」及親切的「食咗飯未呀」進行問候 (6 basic tones; uses nei5 hou2, zou2 san4, and sik6 zo2 faan6 mei6 aa3)",
+                        "早晨只能在深夜十二點使用"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "Correctly summarizes Jyutping 6 tones and core greeting vocabulary."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («早晨_1_1»):",
+                    "prompt": "Type the 2-character Hanzi for 'Good morning' in Cantonese (早晨):",
                     "acceptedAnswers": [
-                        "早晨_1_1"
+                        "早晨",
+                        "zou2san4",
+                        "zou2 san4",
+                        "Zou2 san4",
+                        "Zou2san4"
                     ],
-                    "explanation": "The target keyword was: 【早晨_1_1】"
+                    "explanation": "早晨 (zou2 san4) means 'Good morning' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u1-l2": {
         "id": "hk-u1-l2",
-        "subject": "cantonese",
-        "unit": 1,
-        "lessonNumber": 2,
-        "title": "粵拼發音同基本問候 (Jyutping & Greetings) (Part 2)",
+        "unit": "hk-u1",
         "level": "A1",
-        "objective": "Comprehensive mastery of 日常生活問候同打招呼 (Greetings & Jyutping).",
+        "objective": "Master expressing gratitude in Cantonese and distinguish between 唔該 (m4 goi1 - for service/help/excuse me) and 多謝 (do1 ze6 - for gifts/money/hospitality).",
+        "prerequisites": [
+            "hk-u1-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u1-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（日常生活問候同打招呼 (Greetings & Jyutping) - 第2部分）入面，我哋會探討廣東話嘅核心語用語境同埋日常生活問候同打招呼 (Greetings & Jyutping)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "喺廣東話社交禮儀入面，表達「多謝」有非常清晰而地道嘅分工，千祈唔好用錯！\n\n1. 「唔該」同「多謝」嘅重要區別 (m4 goi1 vs do1 ze6):\n- **唔該 (m4 goi1)**：用於感謝人哋為你**付出勞力、提供服務或協助**；亦可用於「Excuse me（唔該借借/唔該借過）」或「Please（唔該畀杯水我）」。\n  - 例如：搭的士落車、餐廳侍應斟水、路人幫你開門。\n- **多謝 (do1 ze6)**：用於感謝人哋送畀你**實物禮物、金錢利益、請食飯或給予讚賞支持**。\n  - 例如：收生日禮物、收利是（紅包）、老闆請食大餐。\n\n2. 回應道謝 (Responding to Thanks):\n- **唔使客氣 (m4 sai2 haak3 hei3)**：You're welcome / No need to be polite。\n- **唔使唔該 (m4 sai2 m4 goi1)**：熟人之間常用，意思係「小事一樁，唔使咁客氣」。",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (1.2.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "唔該借借，我想過一過對面馬路。",
+                    "reading": "m4 goi1 ze3 ze3, ngo5 soeng2 gwo3 jat1 gwo3 deoi3 min6 maa5 lou6.",
+                    "translation": "Excuse me, I'd like to cross to the other side of the road."
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (1.2.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "多謝你送咁靚嘅生日禮物畀我！",
+                    "reading": "do1 ze6 nei5 sung3 gam3 leng3 ge3 saang1 jat6 lai5 mat6 bei2 ngo5!",
+                    "translation": "Thank you very much for giving me such a beautiful birthday gift!"
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (1.2.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "侍應生：‘呢個係你嘅菠蘿油。’ 客人：‘唔該晒！’",
+                    "reading": "si6 jing3 sang1: ‘ni1 go3 hai6 nei5 ge3 bo1 lo4 jau4.’ haak3 jan4: ‘m4 goi1 saai3!’",
+                    "translation": "Waiter: 'Here is your pineapple bun.' Customer: 'Thank you so much!'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 日常生活問候同打招呼 (Greetings & Jyutping)"
+                "Gratitude Rule: 勞力服務用「唔該」(m4 goi1); 禮物金錢用「多謝」(do1 ze6)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "Adding «晒» (saai3 - completely) creates «唔該晒» or «多謝晒», expressing intensified gratitude in everyday colloquial Hong Kong speech."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「日常生活問候同打招呼 (Greetings & Jyutping)」喺第2節嘅地道廣東話表達？",
+                    "prompt": "喺茶餐廳入面，當侍應為你送上熱奶茶嘅時候，最合適地道嘅道謝用語係：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (1.2.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (1.2.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (1.2.3)。"
+                        "唔該 / 唔該晒 (m4 goi1 / m4 goi1 saai3 - Thank you for service)",
+                        "恭喜發財",
+                        "對唔住"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "唔該 (m4 goi1) is used when thanking someone for providing a service or assistance."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「粵拼發音同基本問候 (Jyutping & Greetings)」語境嘅廣東話完整句子（練習 2）：",
+                    "prompt": "農曆新年嗰陣長輩派利是（紅包）或者朋友送生日禮物畀你，你應當講邊句道謝？",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (1.2.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (1.2.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (1.2.3)。"
+                        "多謝 / 多謝晒 (do1 ze6 / do1 ze6 saai3 - Thank you for gift/money)",
+                        "唔好意思",
+                        "借借"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "多謝 (do1 ze6) is required when receiving material gifts, money (lai see), or substantial favors."
                 }
             ]
         },
@@ -632,85 +645,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「日常生活問候同打招呼 (Greetings & Jyutping)」嘅日常商務與生活習慣（考核 1-2）？",
+                    "prompt": "關於廣東話中「唔該」與「多謝」的使用場景區別，下列哪一項表述完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (1.2.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (1.2.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (1.2.3)。"
+                        "「唔該」用於感謝服務、勞力協助或表達借光請問；「多謝」用於感謝他人贈送禮物、金錢或請客招待 (m4 goi1 for service/help; do1 ze6 for gifts/money/treats)",
+                        "「唔該」只能用於罵人",
+                        "「多謝」與「唔該」完全沒有任何區別可以隨意混用"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "explanation": "Accurately captures the fundamental distinction between service gratitude (m4 goi1) and gift/money gratitude (do1 ze6)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («早晨_1_2»):",
+                    "prompt": "Type the 2-character Hanzi for 'Thank you (for service/help)' in Cantonese (唔該):",
                     "acceptedAnswers": [
-                        "早晨_1_2"
+                        "唔該",
+                        "m4goi1",
+                        "m4 goi1",
+                        "M4 goi1",
+                        "M4goi1"
                     ],
-                    "explanation": "The target keyword was: 【早晨_1_2】"
+                    "explanation": "唔該 (m4 goi1) means 'thank you (for help/service)' or 'please/excuse me'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u1-l3": {
         "id": "hk-u1-l3",
-        "subject": "cantonese",
-        "unit": 1,
-        "lessonNumber": 3,
-        "title": "粵拼發音同基本問候 (Jyutping & Greetings) (Part 3)",
+        "unit": "hk-u1",
         "level": "A1",
-        "objective": "Comprehensive mastery of 日常生活問候同打招呼 (Greetings & Jyutping).",
+        "objective": "Master apologies, polite interruptions, and inquiries in Cantonese (唔好意思 m4 hou2 ji3 si1, 對唔住 deoi3 m4 zyu6, 冇相干 / 冇問題 mou5 man6 tai4).",
+        "prerequisites": [
+            "hk-u1-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u1-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（日常生活問候同打招呼 (Greetings & Jyutping) - 第3部分）入面，我哋會探討廣東話嘅核心語用語境同埋日常生活問候同打招呼 (Greetings & Jyutping)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "喺日常社交同搭車行街時，識得得體道歉同禮貌問路係廣東話必備技能！\n\n1. 「唔好意思」同「對唔住」嘅語氣輕重 (m4 hou2 ji3 si1 vs deoi3 m4 zyu6):\n- **唔好意思 (m4 hou2 ji3 si1)**：語氣較輕，相當於英文嘅「Excuse me / Pardon / Sorry」。用於：\n  - 不小心輕微碰到人。\n  - 打擾人哋問路、問時間（例如：「唔好意思，請問地鐵站點去呀？」）。\n  - 感到輕微不好意思或抱歉。\n- **對唔住 (deoi3 m4 zyu6)**：語氣較重，相當於正式道歉「I am deeply sorry / Apologies」。用於犯咗較大錯誤、造成具體損失或嚴重冒犯。\n\n2. 回應道歉 (Accepting Apologies):\n- **冇相干 (mou5 soeng1 gaan1)** / **冇問題 (mou5 man6 tai4)**：It doesn't matter / No problem。\n- **唔緊要 (m4 gan2 jiu3)**：Never mind / It's alright。",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (1.3.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "唔好意思，請問去中環碼頭應該點樣行呀？",
+                    "reading": "m4 hou2 ji3 si1, cing2 man6 heoi3 zung1 waan4 maa5 tau4 jing1 goi1 dim2 joeng2 haang4 aa3?",
+                    "translation": "Excuse me, could you tell me how to walk to Central Pier?"
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (1.3.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "對唔住呀，我唔小心整爛咗你隻杯，我買返隻新嘅賠畀你啦！",
+                    "reading": "deoi3 m4 zyu6 aa3, ngo5 m4 siu2 sam1 zing2 laan6 zo2 nei5 zek3 bui1, ngo5 maai5 faan1 zek3 san1 ge3 pui4 bei2 nei5 laa1!",
+                    "translation": "I'm so sorry, I accidentally broke your cup, I'll buy a new one to compensate you!"
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (1.3.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "乘客A：‘唔好意思踩到你！’ 乘客B：‘唔緊要，冇事冇事。’",
+                    "reading": "sing4 haak3 A: ‘m4 hou2 ji3 si1 caai2 dou2 nei5!’ sing4 haak3 B: ‘m4 gan2 jiu3, mou5 si6 mou5 si6.’",
+                    "translation": "Passenger A: 'Excuse me for stepping on you!' Passenger B: 'It's alright, no problem at all.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 日常生活問候同打招呼 (Greetings & Jyutping)"
+                "Apology Scale: 輕微問路踩腳用「唔好意思」(m4 hou2 ji3 si1); 嚴重犯錯賠罪用「對唔住」(deoi3 m4 zyu6)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "In bustling Hong Kong crowds and MTR cars, saying «唔好意思» (m4 hou2 ji3 si1) smoothly clears paths and initiates inquiries with maximum politeness."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「日常生活問候同打招呼 (Greetings & Jyutping)」喺第3節嘅地道廣東話表達？",
+                    "prompt": "喺街上面想向路人問路或者向店員查詢價錢，開口第一句最禮貌客氣嘅用語係：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (1.3.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (1.3.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (1.3.3)。"
+                        "喂！你過嚟！",
+                        "快啲話我知！",
+                        "唔好意思，請問…… (m4 hou2 ji3 si1, cing2 man6... - Excuse me, may I ask...)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 2,
+                    "explanation": "唔好意思，請問…… (m4 hou2 ji3 si1, cing2 man6...) is the gold standard polite inquiry opener."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「粵拼發音同基本問候 (Jyutping & Greetings)」語境嘅廣東話完整句子（練習 3）：",
+                    "prompt": "當人哋同你講「唔好意思」或者「對唔住」嗰陣，你想安慰對方表示「完全冇事、唔使介意」，應當回應：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (1.3.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (1.3.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (1.3.3)。"
+                        "唔緊要 / 冇問題 (m4 gan2 jiu3 / mou5 man6 tai4 - It's alright / No problem)",
+                        "你一定要賠錢",
+                        "我好嬲你"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "唔緊要 (m4 gan2 jiu3) or 冇問題 (mou5 man6 tai4) is the natural reply accepting apologies."
                 }
             ]
         },
@@ -718,85 +742,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「日常生活問候同打招呼 (Greetings & Jyutping)」嘅日常商務與生活習慣（考核 1-3）？",
+                    "prompt": "關於廣東話中「唔好意思」與「對唔住」的語用差異，下列哪一項表述完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (1.3.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (1.3.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (1.3.3)。"
+                        "兩者完全一樣且只能用於正式法庭宣判",
+                        "「對唔住」只能用來問路",
+                        "「唔好意思」多用於禮貌問路、打擾借光或輕微磕碰；「對唔住」則用於造成實際過錯或嚴肅道歉 (m4 hou2 ji3 si1 for excuse me/mild apology; deoi3 m4 zyu6 for serious apology)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "Accurately articulates the pragmatic nuance between mild excuse me and serious apology."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («早晨_1_3»):",
+                    "prompt": "Type the 4-character Hanzi for 'Excuse me / Sorry' in Cantonese (唔好意思):",
                     "acceptedAnswers": [
-                        "早晨_1_3"
+                        "唔好意思",
+                        "m4hou2ji3si1",
+                        "m4 hou2 ji3 si1",
+                        "M4 hou2 ji3 si1",
+                        "M4hou2ji3si1"
                     ],
-                    "explanation": "The target keyword was: 【早晨_1_3】"
+                    "explanation": "唔好意思 (m4 hou2 ji3 si1) means 'excuse me / sorry' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u1-l4": {
         "id": "hk-u1-l4",
-        "subject": "cantonese",
-        "unit": 1,
-        "lessonNumber": 4,
-        "title": "粵拼發音同基本問候 (Jyutping & Greetings) (Part 4)",
+        "unit": "hk-u1",
         "level": "A1",
-        "objective": "Comprehensive mastery of 日常生活問候同打招呼 (Greetings & Jyutping).",
+        "objective": "Master farewell expressions, parting phrases, and social invitations in Cantonese (再見 zoi3 gin3, 拜拜 baai1 baai3, 聽日見 ting1 jat6 gin3, 得閒飲茶 dak1 haan4 jam2 caa4).",
+        "prerequisites": [
+            "hk-u1-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u1-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（日常生活問候同打招呼 (Greetings & Jyutping) - 第4部分）入面，我哋會探討廣東話嘅核心語用語境同埋日常生活問候同打招呼 (Greetings & Jyutping)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "同朋友或者同事告別嗰陣，廣東話有好多親切自然嘅表達方式！\n\n1. 告別用語譜系 (Farewell Spectrum):\n- **拜拜 (baai1 baai3)**：源自英文「Bye-bye」，香港最普遍、最自然嘅日常告別語。\n- **再見 (zoi3 gin3)**：較為正式、標準嘅道別語。\n- **聽日見 (ting1 jat6 gin3)**：See you tomorrow。\n- **一陣見 (jat1 zan6 gin3)**：See you in a bit / See you later。\n- **慢行 (maan6 haang4)**：送客時主人對客人講「Take care on your way / Walk slowly」。\n\n2. 嶺南經典社交客套 (The Famous Yum Cha Invitation):\n- **得閒飲茶 (dak1 haan4 jam2 caa4)**：字面意思係「有空一齊去飲茶」，係廣東人告別時最常用嘅友善客套話，相當於「Let's catch up sometime!」",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (1.4.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "時間唔早喇，我走先喇，大家聽日見！",
+                    "reading": "si4 gaan3 m4 zou2 laa3, ngo5 zau2 sin1 laa3, daai6 gaa1 ting1 jat6 gin3!",
+                    "translation": "It's getting late, I'm heading off first, see you all tomorrow!"
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (1.4.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "好高興今日同你傾偈，得閒飲茶啦！",
+                    "reading": "hou2 gou1 hing3 gam1 jat6 tung4 nei5 king1 gai2, dak1 haan4 jam2 caa4 laa1!",
+                    "translation": "So glad to chat with you today, let's have yum cha when you're free!"
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (1.4.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "陳生慢行啊，睇住階梯，拜拜！",
+                    "reading": "can4 saang1 maan6 haang4 aa3, tai2 zyu6 gaai1 tai1, baai1 baai3!",
+                    "translation": "Take care Mr. Chan, watch your step, bye-bye!"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 日常生活問候同打招呼 (Greetings & Jyutping)"
+                "Farewell Warmth: 拜拜(Bye-bye), 聽日見(See you tomorrow), 得閒飲茶(Catch up over tea)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "«得閒飲茶» (dak1 haan4 jam2 caa4) is iconic Cantonese culture. While often a polite social closing, it always signals genuine goodwill and open friendship."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「日常生活問候同打招呼 (Greetings & Jyutping)」喺第4節嘅地道廣東話表達？",
+                    "prompt": "廣東人同朋友道別時，最常講、用嚟表達保持聯絡友善問候嘅經典名句係：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (1.4.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (1.4.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (1.4.3)。"
+                        "絕交啦",
+                        "唔准走",
+                        "得閒飲茶啦！ (dak1 haan4 jam2 caa4 laa1! - Let's get tea when free!)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 2,
+                    "explanation": "得閒飲茶 (dak1 haan4 jam2 caa4) is the classic Cantonese parting invitation expressing friendliness."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「粵拼發音同基本問候 (Jyutping & Greetings)」語境嘅廣東話完整句子（練習 4）：",
+                    "prompt": "收工或者放學嗰陣同身邊嘅同事同學講「聽日再見面」，最地道簡潔嘅講法係：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (1.4.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (1.4.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (1.4.3)。"
+                        "聽日見 (ting1 jat6 gin3 - See you tomorrow)",
+                        "永不再見",
+                        "出年見"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "聽日見 (ting1 jat6 gin3) literally means 'see you tomorrow'."
                 }
             ]
         },
@@ -804,85 +839,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「日常生活問候同打招呼 (Greetings & Jyutping)」嘅日常商務與生活習慣（考核 1-4）？",
+                    "prompt": "關於廣東話道別語「拜拜」、「聽日見」與「得閒飲茶」的文化含義，下列哪一項表述完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (1.4.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (1.4.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (1.4.3)。"
+                        "廣東話嚴禁在告別時說話",
+                        "「得閒飲茶」是表示立刻要絕交的意思",
+                        "「拜拜」是日常最通用的道別詞，「聽日見」指明天見，而「得閒飲茶」則是富有嶺南人情味的熱情客套道別語 (baai1 baai3 is universal goodbye, ting1 jat6 gin3 is see you tomorrow, and dak1 haan4 jam2 caa4 is the iconic social catch-up phrase)"
                     ],
                     "answerIndex": 2,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "explanation": "Accurately captures the cultural and pragmatic essence of Cantonese farewells."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («早晨_1_4»):",
+                    "prompt": "Type the 4-character Hanzi phrase for 'Let's have tea when free' in Cantonese (得閒飲茶):",
                     "acceptedAnswers": [
-                        "早晨_1_4"
+                        "得閒飲茶",
+                        "dak1haan4jam2caa4",
+                        "dak1 haan4 jam2 caa4",
+                        "Dak1 haan4 jam2 caa4",
+                        "Dak1haan4jam2caa4"
                     ],
-                    "explanation": "The target keyword was: 【早晨_1_4】"
+                    "explanation": "得閒飲茶 (dak1 haan4 jam2 caa4) means 'let's get tea when we're free'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u1-l5": {
         "id": "hk-u1-l5",
-        "subject": "cantonese",
-        "unit": 1,
-        "lessonNumber": 5,
-        "title": "粵拼發音同基本問候 (Jyutping & Greetings) (Part 5)",
+        "unit": "hk-u1",
         "level": "A1",
-        "objective": "Comprehensive mastery of 日常生活問候同打招呼 (Greetings & Jyutping).",
+        "objective": "Integrate Jyutping tones, polite address, introducing oneself, and greeting dialogues into a complete real-world first meeting encounter.",
+        "prerequisites": [
+            "hk-u1-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u1-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（日常生活問候同打招呼 (Greetings & Jyutping) - 第5部分）入面，我哋會探討廣東話嘅核心語用語境同埋日常生活問候同打招呼 (Greetings & Jyutping)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "喺呢課綜合實戰篇，我哋將第一單元學到嘅所有問候、致謝、道歉同道別融會貫通，完成一段初次見面嘅地道廣東話對話！\n\n1. 初次見面常用自我介紹與禮儀 (First Introductions & Etiquette):\n- **幸會 (hang6 wui6)**：Pleasure to meet you / Nice to meet you（正式場合）。\n- **請多多指教 (cing2 do1 do1 zi2 gaau3)**：Please guide me / Looking forward to working together。\n- **我叫…… (ngo5 giu3...)** / **叫我阿David啦 (giu3 ngo5 aa3 David laa1)**：My name is... / Just call me Ah David。\n\n2. 第一單元實戰對話範例 (Unit 1 Master Dialogue):\n- **陳生**：‘早晨啊！你係新嚟嘅經理David？你好你好！’\n- **David**：‘陳生早晨！係啊，初次見面，幸會幸會！請多多指教！’\n- **陳生**：‘唔使客氣！一陣十點我哋開會，得閒中午一齊去茶樓飲茶啦！’\n- **David**：‘好啊，唔該晒陳生！陣間見！’",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (1.5.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "黃小姐你好，初次見面，真係幸會！請多多指教！",
+                    "reading": "wong4 siu2 ze2 nei5 hou2, co1 ci3 gin3 min6, zan1 hai6 hang6 wui6! cing2 do1 do1 zi2 gaau3!",
+                    "translation": "Hello Miss Wong, meeting for the first time, it's truly a pleasure! Please give me your guidance!"
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (1.5.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "叫我阿明得喇，唔使咁客氣嘅！",
+                    "reading": "giu3 ngo5 aa3 ming4 dak1 laa3, m4 sai2 gam3 haak3 hei3 ge3!",
+                    "translation": "Just call me Ah Ming, no need to be so formal!"
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (1.5.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "今日好多謝大家嘅熱情招待，我哋下次再聚，拜拜！",
+                    "reading": "gam1 jat6 hou2 do1 ze6 daai6 gaa1 ge3 jit6 cing4 ziu1 doi6, ngo5 dei6 haa6 ci3 zoi3 zeoi6, baai1 baai3!",
+                    "translation": "Thank you all so much for your warm hospitality today, let's get together next time, bye-bye!"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 日常生活問候同打招呼 (Greetings & Jyutping)"
+                "First Meeting Flow: 你好早晨 (Greeting) -> 幸會指教 (Pleased to meet you) -> 唔該多謝 (Gratitude) -> 拜拜慢行 (Farewell)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "Adding «阿» (aa3) before a given name (e.g. 阿David, 阿明, 阿May) is the most common, friendly, and affectionate way colleagues and friends address each other in Cantonese culture."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「日常生活問候同打招呼 (Greetings & Jyutping)」喺第5節嘅地道廣東話表達？",
+                    "prompt": "喺商務或者正式社交場合初次同人見面握手，表達「好高興認識你、非常榮幸」嘅高雅詞彙係：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (1.5.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (1.5.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (1.5.3)。"
+                        "無奈",
+                        "幸會 (hang6 wui6 - Pleasure to meet you)",
+                        "借過"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "幸會 (hang6 wui6) expresses 'pleased / honored to meet you'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「粵拼發音同基本問候 (Jyutping & Greetings)」語境嘅廣東話完整句子（練習 5）：",
+                    "prompt": "在廣東話中，同事或朋友之間稱呼對方名字時，最常見且顯得親切友善嘅前綴字係：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (1.5.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (1.5.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (1.5.3)。"
+                        "阿 (aa3 - e.g. 阿David, 阿華)",
+                        "死",
+                        "老"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "Prefixing with 阿 (aa3) is the natural friendly naming convention in Cantonese."
                 }
             ]
         },
@@ -890,24 +936,30 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「日常生活問候同打招呼 (Greetings & Jyutping)」嘅日常商務與生活習慣（考核 1-5）？",
+                    "prompt": "關於廣東話初次見面自我介紹、社交禮節與全單元問候系統，下列哪一項總結完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (1.5.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (1.5.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (1.5.3)。"
+                        "廣東話初次見面不能說話只能點頭",
+                        "廣東話社交問候豐富得體，見面道「早晨/你好」，初識道「幸會/請多多指教」，感謝分「唔該（勞力）」與「多謝（禮物）」，告別親切道「拜拜/得閒飲茶」 (Rich greeting system: zou2 san4, hang6 wui6, m4 goi1 vs do1 ze6, baai1 baai3 / dak1 haan4 jam2 caa4)",
+                        "廣東話中沒有任何表示感謝的詞彙"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "Synthesizes the complete Unit 1 greeting, gratitude, apology, and etiquette system."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («早晨_1_5»):",
+                    "prompt": "Type the 2-character Hanzi for 'Pleasure to meet you / Honored' in Cantonese (幸會):",
                     "acceptedAnswers": [
-                        "早晨_1_5"
+                        "幸會",
+                        "hang6wui6",
+                        "hang6 wui6",
+                        "Hang6 wui6",
+                        "Hang6wui6",
+                        "幸会"
                     ],
-                    "explanation": "The target keyword was: 【早晨_1_5】"
+                    "explanation": "幸會 (hang6 wui6) means 'pleasure to meet you / honored to make your acquaintance'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u2-l1": {
