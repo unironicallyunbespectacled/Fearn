@@ -12677,63 +12677,69 @@
     },
     "zh-u26-l1": {
         "id": "zh-u26-l1",
-        "subject": "mandarin",
-        "unit": 26,
-        "lessonNumber": 1,
-        "title": "四字成语典故与修辞运用 (Classical Chengyu Idioms) (Part 1)",
+        "unit": "zh-u26",
         "level": "C1",
-        "objective": "Comprehensive mastery of 四字成语典故运用 (Classical Chengyu Idioms).",
+        "objective": "Master foundational classical Chengyu idioms and their historical allusions (温故知新 Reviewing the past to understand the new, 塞翁失马 Blessing in disguise, 卧薪尝胆 Enduring hardships for revenge/triumph, 纸上谈兵 Armchair strategist, 刻舟求剑 Rigid outdated methods).",
+        "prerequisites": [
+            "zh-u25-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u25-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「四字成语典故与修辞运用 (Classical Chengyu Idioms)」（第1部分）的核心句法结构与四字成语典故运用 (Classical Chengyu Idioms)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "四字成语是中华几千年历史、哲学与文学智慧的结晶。掌握成语不仅在于记住字面含义，更在于深刻理解其**历史典故出处（Historical Allusions）**与微言大义！\n\n1. 哲学辩证与立志成语 (Philosophical & Character Allusions):\n- **温故知新 (wēn gù zhī xīn)**：《论语》‘温故而知新，可以为师矣’——复习旧知识获得新感悟。\n- **塞翁失马 (sài wēng shī mǎ)**：《淮南子》‘塞翁失马，焉知非福’——福祸相依的辩证哲学。\n- **卧薪尝胆 (wò xīn cháng dǎn)**：《史记》勾践卧薪尝胆、刻苦自励以复兴越国——忍辱负重、发愤图强。\n\n2. 讽喻教训成语 (Satirical & Cautionary Allusions):\n- **纸上谈兵 (zhǐ shàng tán bīng)**：赵括空谈兵书导致长平大败——空谈理论而脱离实际。\n- **刻舟求剑 (kè zhōu qiú jiàn)**：《吕氏春秋》——拘泥固执、不知随时代客观情况变化。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (26.1.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "历史学者在讲座中阐述道家辩证思维：‘面对人生突如其来的逆境与挫折，我们应当具备“塞翁失马，焉知非福”的豁达胸襟，在危机中捕捉转机与新的生机。’",
+                    "reading": "Lìshǐ xuézhě zài jiǎngzuò zhōng chǎnshù Dàojiā biànzhèng sīwéi: ‘Miànduì rénshēng tū rú qí lái de nìjìng yǔ cuòzhé, wǒmen yīngdāng jùbèi “sài wēng shī mǎ, yān zhī fēi fú” de huòdá xiōngjīn, zài wēijī zhōng bǔzhuō zhuǎnjī yǔ xīn de shēngjī.’",
+                    "translation": "The historian explained: 'Facing sudden adversity, we should maintain the equanimity of \"Sai Weng losing his horse — who knows if it's a blessing in disguise\", seizing turning points.'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (26.1.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "企业创始人向年轻创业团队分享心路历程：‘当年初创团队经历了十年“卧薪尝胆”的艰难技术攻关，最终打破了外国行业巨头的长期垄断，研发出自主可控的核心芯片！’",
+                    "reading": "Qǐyè chuàngshǐrén xiàng niánqīng chuàngyè tuánduì fēnxiǎng xīnlù lìchéng: ‘Dāngnián chūchuàng tuánduì jīnglì le shí nián “wò xīn cháng dǎn” de jiānnán jìshù gōngguān, zuìzhōng dǎpò le wàiguó hángyè jùtóu de chángqī lǒngduàn, yánfā chū zìzhǔ kěkòng de héxīn xīnpiàn!’",
+                    "translation": "The founder shared: 'Our startup underwent ten years of \"sleeping on brushwood and tasting gall\" tackling tough tech barriers, breaking foreign monopolies with proprietary chips!'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (26.1.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "项目总监在复盘会议上告诫团队：‘制定商业战略切忌“纸上谈兵”，必须深入一线市场开展扎实调研，否则一切看似精美的规划方案都只是空中楼阁。’",
+                    "reading": "Xiàngmù zǒngjiān zài fùpán huìyì shang gàojiè tuánduì: ‘Zhìdìng shāngyè zhànlüè qièjì “zhǐ shàng tán bīng”, bìxū shēnrù yīxiàn shìchǎng kāizhǎn zhāshí diàoyán, fǒuzé yíqiè kànsì jīngměi de guīhuà fāng'àn dōu zhǐshì kōngzhōng lóugé.’",
+                    "translation": "The project director warned: 'Strategic planning must never be \"armchair strategizing on paper\"; we must do grounded market research or plans remain castles in the air.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 四字成语典故运用 (Classical Chengyu Idioms)"
+                "Chengyu Origins: 塞翁失马 (Dialectical Turn), 卧薪尝胆 (Resolute Triumph), 纸上谈兵 (Avoid Empty Theory)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Most four-character idioms (成语) are derived from classical historiographies such as the Zuo Zhuan (左传), Records of the Grand Historian (史记), and philosophical treatises like the Zhuangzi (庄子)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「四字成语典故运用 (Classical Chengyu Idioms)」在第1小节中的标准汉语语法规范？",
+                    "prompt": "源自《史记》赵括典故、形容只会空谈军事理论或方案而缺乏实际行动经验的成语是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (26.1.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (26.1.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (26.1.3)。"
+                        "高瞻远瞩",
+                        "纸上谈兵 (Armchair strategist / Theorizing on paper)",
+                        "身先士卒"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "纸上谈兵 refers to Zhao Kuo's theoretical strategy without combat experience."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「四字成语典故与修辞运用 (Classical Chengyu Idioms)」语用情境与完整句式的选项（练习 1）：",
+                    "prompt": "源自越王勾践苦节励志、形容忍辱负重、刻苦自励以图谋大业的经典成语是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (26.1.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (26.1.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (26.1.3)。"
+                        "卧薪尝胆 (Sleeping on brushwood and tasting gall / Resolute endurance for triumph)",
+                        "养尊处优",
+                        "坐享其成"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "卧薪尝胆 denotes enduring immense hardships with single-minded determination to achieve a great goal."
                 }
             ]
         },
@@ -12741,85 +12747,98 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「四字成语典故运用 (Classical Chengyu Idioms)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 26-1）？",
+                    "prompt": "关于古典成语的历史典故内涵与准确语用，下列哪一项表述完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (26.1.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (26.1.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (26.1.3)。"
+                        "“塞翁失马”体现了事物福祸相依的辩证哲学，“卧薪尝胆”象征发愤图强的坚定毅力，皆蕴含深厚历史智慧 (Sai Weng reflects dialectical balance of misfortune/fortune, and Wo Xin Chang Dan signifies resolute perseverance)",
+                        "纸上谈兵表示实践经验极其丰富",
+                        "成语都是现代人随意生造的四个字"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "explanation": "Accurately analyzes the philosophical origins and pragmatic contexts of classical Chinese idioms."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («温故知新_26_1»):",
+                    "prompt": "Type the 4-character Chengyu meaning 'sleeping on brushwood and tasting gall / enduring hardships for ultimate triumph' (卧薪尝胆):",
                     "acceptedAnswers": [
-                        "温故知新_26_1"
+                        "卧薪尝胆",
+                        "woxinchangdan",
+                        "wòxīnchángdǎn",
+                        "Wòxīnchángdǎn",
+                        "Woxinchangdan",
+                        "臥薪嚐膽",
+                        "臥薪嘗胆"
                     ],
-                    "explanation": "The target keyword was: 【温故知新_26_1】"
+                    "explanation": "卧薪尝胆 (wò xīn cháng dǎn) means enduring hardships to attain ultimate triumph."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u26-l2": {
         "id": "zh-u26-l2",
-        "subject": "mandarin",
-        "unit": 26,
-        "lessonNumber": 2,
-        "title": "四字成语典故与修辞运用 (Classical Chengyu Idioms) (Part 2)",
+        "unit": "zh-u26",
         "level": "C1",
-        "objective": "Comprehensive mastery of 四字成语典故运用 (Classical Chengyu Idioms).",
+        "objective": "Master Chengyu used in diplomacy, governance, and professional management (深思熟虑 Deliberate and mature thought, 高瞻远瞩 Foresight and vision, 迎刃而解 Solved smoothly at the root, 求同存异 Seeking common ground while reserving differences, 未雨绸缪 Preparing before the rain / Proactive planning).",
+        "prerequisites": [
+            "zh-u26-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u26-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「四字成语典故与修辞运用 (Classical Chengyu Idioms)」（第2部分）的核心句法结构与四字成语典故运用 (Classical Chengyu Idioms)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在高端政务、跨国谈判与高阶商务沟通中，精准运用典雅成语能极大提升表达的说服力与战略格局！\n\n1. 战略决策与谋划成语 (Strategic Decision-Making Chengyu):\n- **高瞻远瞩 (gāo zhān yuǎn zhǔ)**：站得高，看得远；形容眼光长远、具有战略前瞻性。\n- **深思熟虑 (shēn sī shú lǜ)**：反复深入细致地思考。\n- **未雨绸缪 (wèi yǔ chóu móu)**：《诗经》‘迨天之未阴雨，彻彼桑土，绸缪牖户’——事前做好充分准备，防患于未然。\n\n2. 外交谈判与解决问题成语 (Diplomacy & Problem-Solving Chengyu):\n- **求同存异 (qiú tóng cún yì)**：周恩来总理在万隆会议上提出的外交方针——寻求共同点，保留不同意见。\n- **迎刃而解 (yíng rèn ér jiě)**：主要问题解决了，其他相关问题就能顺理成章地化解。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (26.2.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "外交部发言人在双边战略对话后举行记者会：‘双方秉持“求同存异、互利共赢”的基本原则，就双边经贸与应对气候变化达成了广泛共识。’",
+                    "reading": "Wàijiāobù fāyánrén zài shuāngbiān zhànlüè duìhuà hòu jǔxíng jìzhěhuì: ‘Shuāngfāng bǐngchí “qiú tóng cún yì, hù lì gòng yíng” de jīběn yuánzé, jiù shuāngbiān jīngmào yǔ yìngduì qìhòu biànhuà dáchéng le guǎnfàn gòngshí.’",
+                    "translation": "The spokesperson stated: 'Upholding \"seeking common ground while reserving differences and mutual benefit\", both sides reached broad consensus.'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (26.2.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "跨国集团首席风险官在董事会上做合规报告：‘面对国际金融市场的波动风险，我们必须“未雨绸缪”，提前建立流动性风险对冲储备池。’",
+                    "reading": "Kuàguó jítuán shǒuxí fēnxiǎnguān zài dǒngshìhuì shang zuò hégūi bàogào: ‘Miànduì guójì jīnróng shìchǎng de bōdòng fēnxiǎn, wǒmen bìxū “wèi yǔ chóu móu”, tíqián jiànlì liúdòngxìng fēnxiǎn duìchōng chǔbèichí.’",
+                    "translation": "The CRO reported: 'Facing volatility, we must \"plan before the storm\", establishing risk hedging reserve pools in advance.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (26.2.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "首席执行官在战略研讨会上指出：‘只要抓住了数字化转型这个核心牛鼻子，企业流程冗余与管理成本过高的问题便会“迎刃而解”！’",
+                    "reading": "Shǒuxí zhíxíngguān zài zhànlüè yántǎohuì shang zhǐchū: ‘Zhǐyào zhuāzhù le shùzìhuà zhuǎnxíng zhè ge héxīn niúbízǐ, qǐyè liúchéng rǒngyú yǔ guǎnlǐ chéngběn guò gāo de wèntí biàn huì “yíng rèn ér jiě”!’",
+                    "translation": "The CEO pointed out: 'Once we grasp the linchpin of digital transformation, redundant workflow and overhead issues will be resolved like a knife splitting bamboo smoothly!'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 四字成语典故运用 (Classical Chengyu Idioms)"
+                "Diplomatic Strategy: 求同存异 (Seek Common Ground), 未雨绸缪 (Proactive Planning), 高瞻远瞩 (Strategic Vision), 迎刃而解 (Effortless Solution)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "«求同存异» was famously put forward by Premier Zhou Enlai at the 1955 Bandung Conference, establishing modern China's five principles of peaceful coexistence."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「四字成语典故运用 (Classical Chengyu Idioms)」在第2小节中的标准汉语语法规范？",
+                    "prompt": "源自《诗经》、形容在天还没有下雨前修补好门窗、喻指在事情发生前做好万全准备与防范的成语是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (26.2.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (26.2.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (26.2.3)。"
+                        "临渴掘井",
+                        "未雨绸缪 (Preparing before the rain / Preemptive defense)",
+                        "掩耳盗铃"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "未雨绸缪 means preparing preemptively before trouble strikes."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「四字成语典故与修辞运用 (Classical Chengyu Idioms)」语用情境与完整句式的选项（练习 2）：",
+                    "prompt": "形容在多边外交或商务谈判中，寻求各方共同利益与共识、同时保留各自合理分歧的经典外交原则是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (26.2.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (26.2.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (26.2.3)。"
+                        "求同存异 (Seeking common ground while reserving differences)",
+                        "针锋相对",
+                        "各行其是"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "求同存异 is the classic diplomatic maxim for harmonious cooperation amid divergence."
                 }
             ]
         },
@@ -12827,85 +12846,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「四字成语典故运用 (Classical Chengyu Idioms)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 26-2）？",
+                    "prompt": "关于职场战略决策与外交事务中的高级成语搭配，下列哪一项表述完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (26.2.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (26.2.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (26.2.3)。"
+                        "未雨绸缪表示大难临头才匆忙应付",
+                        "“求同存异”指在尊重分歧的前提下扩大共识，“未雨绸缪”强调提前布局防患于未然，是高阶决策的核心智慧 (Seeking common ground expands consensus; pre-planning prevents crises)",
+                        "迎刃而解表示问题越变越复杂无法解决"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "explanation": "Accurately explains the contextual pragmatics of advanced political and management idioms."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («温故知新_26_2»):",
+                    "prompt": "Type the 4-character Chengyu meaning 'seeking common ground while shelving/reserving differences' (求同存异):",
                     "acceptedAnswers": [
-                        "温故知新_26_2"
+                        "求同存异",
+                        "qiutongcunyi",
+                        "qiútóngcúnyì",
+                        "Qiútóngcúnyì",
+                        "Qiutongcunyi",
+                        "求同存異"
                     ],
-                    "explanation": "The target keyword was: 【温故知新_26_2】"
+                    "explanation": "求同存异 (qiú tóng cún yì) means 'seeking common ground while reserving differences'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u26-l3": {
         "id": "zh-u26-l3",
-        "subject": "mandarin",
-        "unit": 26,
-        "lessonNumber": 3,
-        "title": "四字成语典故与修辞运用 (Classical Chengyu Idioms) (Part 3)",
+        "unit": "zh-u26",
         "level": "C1",
-        "objective": "Comprehensive mastery of 四字成语典故运用 (Classical Chengyu Idioms).",
+        "objective": "Master aesthetic and literary evaluation Chengyu (引人入胜 Fascinatingly immersive, 栩栩如生 Lifelike and vivid, 巧夺天工 Superb craftsmanship excelling nature, 妙笔生花 Wondrous literary brushwork, 淋漓尽致 Expressed thoroughly and incisively).",
+        "prerequisites": [
+            "zh-u26-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u26-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「四字成语典故与修辞运用 (Classical Chengyu Idioms)」（第3部分）的核心句法结构与四字成语典故运用 (Classical Chengyu Idioms)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在文学评论、艺术鉴赏与散文创作中，四字成语是营造**意境（Artistic Conception）**与抒发审美情操的核心修辞载体！\n\n1. 艺术造诣与技艺成语 (Artistic Mastery & Craftsmanship Chengyu):\n- **巧夺天工 (qiǎo duó tiān gōng)**：人工的精巧胜过天然，专用于**人工雕琢、建筑工艺、精密艺术品**（不可用于自然风光）。\n- **栩栩如生 (xǔ xǔ rú shēng)**：《庄子》‘栩栩然蝴蝶也’——形容艺术形象生动逼真，如同活的一样。\n\n2. 文学表达与叙事意境成语 (Literary Expression Chengyu):\n- **引人入胜 (yǐn rén rù shèng)**：引导人进入奇妙诱人的境界，形容风景优美或作品情节扣人心弦。\n- **淋漓尽致 (lín lí jìn zhì)**：文章、谈话或表演发挥到了极致，表达得十分充分透彻。\n- **妙笔生花 (miào bǐ shēng huā)**：比喻杰出的写作才华。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (26.3.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "故宫博物院玉雕专家向观众讲解国宝艺术：‘这件清代翡翠白菜雕件雕工“巧夺天工”，工匠巧妙利用玉石天然的翠绿与白瑕，将蝈蝈与菜叶刻画得“栩栩如生”！’",
+                    "reading": "Gùgōng Bówùyuàn yùdiāo zhuānjiā xiàng guānzhòng jiǎngjiě guóbǎo yìshù: ‘Zhè jiàn Qīngdài fěicuì báicài diāojiàn diāogōng “qiǎo duó tiān gōng”, gōngjiàng qiǎomiào lìyòng yùshí tiānrán de cuìlǜ yǔ báixiá, jiāng guōguō yǔ càiyè kèhuà de “xǔ xǔ rú shēng”!’",
+                    "translation": "The jade expert explained: 'The craftsmanship excels nature; the artisan vividly captured the katydid and cabbage leaves with lifelike perfection!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (26.3.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "文学评论家在研讨会上评析名著：‘作家以“妙笔生花”的精妙文笔，将主人公在时代风浪中的悲欢离合描绘得“淋漓尽致”，极具情感冲击力。’",
+                    "reading": "Wénxué pínglùnjiā zài yántǎohuì shang píngxī míngzhù: ‘Zuòjiā yǐ “miào bǐ shēng huā” de jīngmiào wénbǐ, jiāng zhǔréngōng zài shídài fēnglàng zhōng de bēihuān-líhé miáohuì de “lín lí jìn zhì”, jí jù qínggǎn chōngjīlì.’",
+                    "translation": "The critic reviewed: 'With marvelous brushwork, the author portrayed the protagonist's joys and sorrows thoroughly and incisively.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (26.3.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "大卫漫步在苏州古典园林之中感叹：‘苏州园林移步换景、叠山理水，曲径通幽的造园布局真可谓“引人入胜”，处处体现着中国文人的诗性审美。’",
+                    "reading": "Dàwèi mànbù zài Sūzhōu gǔdiǎn yuánlín zhīzhōng gǎntàn: ‘Sūzhōu yuánlín yíbù-huànjǐng, diéshān-lǐshuǐ, qūjìng-tōngyōu de zàoyuán bùjú zhēn kěwèi “yǐn rén rù shèng”, chùchù tǐxiàn zhe Zhōngguó wénrén de shīxìng shěnměi.’",
+                    "translation": "David strolled in Suzhou gardens: 'Changing views at every step and winding paths are truly captivatingly immersive, reflecting poetic scholar aesthetics.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 四字成语典故运用 (Classical Chengyu Idioms)"
+                "Aesthetic Critique: 巧夺天工 (Man-made Craft), 栩栩如生 (Lifelike Image), 淋漓尽致 (Express Fully), 妙笔生花 (Exquisite Writing)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Note the rigorous collocation distinction: «巧夺天工» (craftsmanship surpassing nature) can ONLY be applied to artificial crafts/architecture, never to natural landscapes themselves."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「四字成语典故运用 (Classical Chengyu Idioms)」在第3小节中的标准汉语语法规范？",
+                    "prompt": "在汉语成语修辞规范中，‘巧夺天工’（人工技艺精巧胜过天然）的正确适用对象是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (26.3.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (26.3.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (26.3.3)。"
+                        "壮丽的原始森林与自然瀑布",
+                        "精湛的手工雕刻、古代建筑与艺术工艺品 (Fine artificial crafts, sculpture, and architecture)",
+                        "刚出生的婴儿"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "巧夺天工 specifically applies to human craftsmanship excelling natural beauty."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「四字成语典故与修辞运用 (Classical Chengyu Idioms)」语用情境与完整句式的选项（练习 3）：",
+                    "prompt": "形容文学作品、演讲或影视表演将思想情感、人情事理表达得极其透彻充实、毫无保留的成语是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (26.3.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (26.3.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (26.3.3)。"
+                        "淋漓尽致 (Expressed incisively and thoroughly / Fully portrayed)",
+                        "蜻蜓点水",
+                        "模棱两可"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "淋漓尽致 means expressed thoroughly, vividly, and without reserve."
                 }
             ]
         },
@@ -12913,85 +12944,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「四字成语典故运用 (Classical Chengyu Idioms)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 26-3）？",
+                    "prompt": "关于文学艺术批评中成语的精确修辞与搭配禁忌，下列哪一项表述完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (26.3.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (26.3.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (26.3.3)。"
+                        "黄山的大自然风光巧夺天工",
+                        "成语不能用于描写人物心理",
+                        "“巧夺天工”专用于赞美人工艺术技艺，“淋漓尽致”形容表达发挥到了极致，两者皆为文艺批评经典用语 (Qiao Duo Tian Gong describes human craft; Lin Li Jin Zhi denotes thorough expression)"
                     ],
                     "answerIndex": 2,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "explanation": "Correctly identifies the grammatical constraints and rhetorical elegance of aesthetic Chengyu."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («温故知新_26_3»):",
+                    "prompt": "Type the 4-character Chengyu meaning 'lifelike and vivid / true to life' (栩栩如生):",
                     "acceptedAnswers": [
-                        "温故知新_26_3"
+                        "栩栩如生",
+                        "xuxurusheng",
+                        "xǔxǔrúshēng",
+                        "Xǔxǔrúshēng",
+                        "Xuxurusheng"
                     ],
-                    "explanation": "The target keyword was: 【温故知新_26_3】"
+                    "explanation": "栩栩如生 (xǔ xǔ rú shēng) means 'vividly lifelike'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u26-l4": {
         "id": "zh-u26-l4",
-        "subject": "mandarin",
-        "unit": 26,
-        "lessonNumber": 4,
-        "title": "四字成语典故与修辞运用 (Classical Chengyu Idioms) (Part 4)",
+        "unit": "zh-u26",
         "level": "C1",
-        "objective": "Comprehensive mastery of 四字成语典故运用 (Classical Chengyu Idioms).",
+        "objective": "Master symmetrical Chengyu pairings, antithetical parallelism, and rhythmic four-character prosody (相辅相成 Mutually complementary, 循序渐进 Step-by-step progressive advance, 络绎不绝 Continuous endless stream, 纷至沓来 Arriving in rapid succession, 声情并茂 Full of both vocal elegance and deep emotion).",
+        "prerequisites": [
+            "zh-u26-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u26-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「四字成语典故与修辞运用 (Classical Chengyu Idioms)」（第4部分）的核心句法结构与四字成语典故运用 (Classical Chengyu Idioms)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "汉语在书面文雅语体与高阶演讲中，极度讲究**音节匀称、四六成双与对仗工整（Antithetical Prosody）**！\n\n1. 互补并列与发展成语对 (Complementary & Progression Pairs):\n- **相辅相成 (xiāng fǔ xiāng chéng)**：两件事物互相配合、互相补充，缺一不可。\n- **循序渐进 (xún xù jiàn jìn)**：按一定的顺序、步骤逐渐进步深入。\n\n2. 动态繁盛与修辞对仗句式 (Dynamic Flow & Antithetical Syntax):\n- **络绎不绝 (luò yì bù jué)**：往来的人马车辆连续不断（如：中外游客络绎不绝）。\n- **纷至沓来 (fēn zhì tà lái)**：接二连三地纷纷到来（如：订单纷至沓来）。\n- **高阶对仗句法典范**：‘学术探索当**循序渐进**以厚植根基，理论与实践更需**相辅相成**以致知笃行。’",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (26.4.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "大学校长在开学典礼上致辞：‘学术研究绝无捷径可走，诸位同学当“循序渐进”、严谨求实，同时牢记科学探索与人文精神“相辅相成”，方能成长为栋梁之才！’",
+                    "reading": "Dàxué xiàozhǎng zài kāixué diǎnlǐ shang zhìcí: ‘Xuéshù yánjiū jué wú jiéjìng kě zǒu, zhūwèi tóngxué dāng “xún xù jiàn jìn”、yánjǐn qiúshí, tóngshí láojì kēxué tànsuǒ yǔ rénwén jīngshén “xiāng fǔ xiāng chéng”, fāng néng chéngzhǎng wéi dòngliáng zhī cái!’",
+                    "translation": "The university president addressed: 'Academic research has no shortcuts; proceed step by step with rigor, remembering that scientific exploration and humanism are mutually complementary!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (26.4.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "国际博览会闭幕新闻发布会上：‘本届进博会期间，来自全球一百五十多个国家和地区的采购商“络绎不绝”，各类高新技术合作意向“纷至沓来”，充分彰显了中国大市场的澎湃活力！’",
+                    "reading": "Guójì bólǎnhuì bìmù xīnwén fābùhuì shang: ‘Běn jiè jìn-bó-huì qījiān, láizì quánqiú yībǎi wǔshí duō gè guójiā hé dìqū de cǎigòushāng “luò yì bù jué”, gèlèi gāo-xīn jìshù hézuò yìxiàng “fēn zhì tà lái”, chōngfèn zhāngxiǎn le Zhōngguó dà shìchǎng de péngpài huólì!’",
+                    "translation": "At the Expo press conference: 'Global buyers arrived in continuous streams, and tech cooperation proposals poured in one after another!'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (26.4.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "著名朗诵家在音乐会上倾情献演：‘朗诵家以“声情并茂”的精湛表达与极富感染力的语调，将古典诗词的豪情与忧思演绎得回肠荡气，全场掌声经久不息！’",
+                    "reading": "Zhùmíng lǎngsòngjiā zài yīnyuèhuì shang qīngqíng xiànyǎn: ‘Lǎngsòngjiā yǐ “shēng qíng bìng mào” de jīngzhàn biǎodá yǔ jí fù gǎnrǎnlì de yǔdiào, jiāng gǔdiǎn shīcí de háoqíng yǔ yōusī yǎnyì de huícháng-dàngqì, quánchǎng zhǎngshēng jīngjiǔ bù xī!’",
+                    "translation": "The reciter performed: 'With voice and emotion in exquisite harmony, the artist conveyed classical poems with soul-stirring resonance!'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 四字成语典故运用 (Classical Chengyu Idioms)"
+                "Rhetoric Symmetries: 相辅相成 (Mutual Complement), 循序渐进 (Step-by-Step), 络绎不绝 (Continuous Stream), 纷至沓来 (Arriving in Succession)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "In classical Chinese rhetoric, pairing four-character idioms (四字格) in parallel structures (对仗 / 排比) creates natural rhythmic cadence and musical harmony (平仄铿锵)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「四字成语典故运用 (Classical Chengyu Idioms)」在第4小节中的标准汉语语法规范？",
+                    "prompt": "形容两种事物互相配合、互相补充、相得益彰的经典四字成语是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (26.4.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (26.4.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (26.4.3)。"
+                        "背道而驰",
+                        "相辅相成 (Mutually complementary and interdependent)",
+                        "画蛇添足"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "相辅相成 denotes two things supplementing and enhancing each other."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「四字成语典故与修辞运用 (Classical Chengyu Idioms)」语用情境与完整句式的选项（练习 4）：",
+                    "prompt": "形容往来的人流、车马或宾客接连不断、连续不绝的成语是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (26.4.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (26.4.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (26.4.3)。"
+                        "络绎不绝 (An endless stream of visitors/vehicles)",
+                        "门可罗雀",
+                        "孤掌难鸣"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "络绎不绝 describes continuous, unbroken streams of people or traffic."
                 }
             ]
         },
@@ -12999,85 +13041,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「四字成语典故运用 (Classical Chengyu Idioms)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 26-4）？",
+                    "prompt": "关于四字成语在对仗句式中的修辞功能与语义逻辑，下列哪一项表述完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (26.4.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (26.4.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (26.4.3)。"
+                        "对仗句中只能使用两个字的词",
+                        "相辅相成表示彼此对立排斥",
+                        "“循序渐进”与“相辅相成”常在论述文与演讲中配对使用，构建音律和谐且逻辑严密的四字对仗句式 (Parallel Chengyu pairs create rhythmic balance and rigorous logic in essays and speeches)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "Accurately captures the prosodic elegance and syntactic synergy of paired four-character idioms in advanced Chinese."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («温故知新_26_4»):",
+                    "prompt": "Type the 4-character Chengyu meaning 'mutually complementary / supplementing each other' (相辅相成):",
                     "acceptedAnswers": [
-                        "温故知新_26_4"
+                        "相辅相成",
+                        "xiangfuxiangcheng",
+                        "xiāngfǔxiāngchéng",
+                        "Xiāngfǔxiāngchéng",
+                        "Xiangfuxiangcheng",
+                        "相輔相成"
                     ],
-                    "explanation": "The target keyword was: 【温故知新_26_4】"
+                    "explanation": "相辅相成 (xiāng fǔ xiāng chéng) means 'mutually complementary'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u26-l5": {
         "id": "zh-u26-l5",
-        "subject": "mandarin",
-        "unit": 26,
-        "lessonNumber": 5,
-        "title": "四字成语典故与修辞运用 (Classical Chengyu Idioms) (Part 5)",
+        "unit": "zh-u26",
         "level": "C1",
-        "objective": "Comprehensive mastery of 四字成语典故运用 (Classical Chengyu Idioms).",
+        "objective": "Synthesize all classical, diplomatic, aesthetic, and prosodic Chengyu idioms into grand keynote addresses, international academic symposia, and presidential communiques.",
+        "prerequisites": [
+            "zh-u26-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u26-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「四字成语典故与修辞运用 (Classical Chengyu Idioms)」（第5部分）的核心句法结构与四字成语典故运用 (Classical Chengyu Idioms)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在本课中，我们将系统整合第二十六单元的所有历史典故成语、外交决策成语、审美鉴赏成语与对仗修辞法则，在国际高端汉学年会与世界领袖主旨峰会中进行全景论述与高阶演讲！\n\n1. 第二十六单元成语与修辞全景矩阵 (Master Chengyu Rhetoric Matrix):\n| 成语分类维度 | 核心成语与典故源头 | 语用场景与修辞张力 |\n| :--- | :--- | :--- |\n| **历史哲学** | 塞翁失马 / 卧薪尝胆 / 纸上谈兵 | 辩证看待逆境，励精图治，坚决反对脱离实际的空谈 |\n| **外交政务** | 求同存异 / 未雨绸缪 / 高瞻远瞩 | 跨国谈判谋求共识，前瞻布局防控战略风险 |\n| **审美文艺** | 巧夺天工 / 栩栩如生 / 淋漓尽致 | 鉴赏手工艺术，评析文学作品的情感张力与深度 |\n| **对仗律动** | 相辅相成 / 循序渐进 / 络绎不绝 | 营造平仄铿锵的四六句式，增强政论与学术演讲的说服力 |\n| **境界集成** | 厚积薄发 / 笃行致远 / 守正创新 | 概括中华民族自强不息、行稳致远的崇高精神品格 |\n\n2. 第二十六单元实战交际演练 (Unit 26 Global Chengyu Keynote Summit):\n- 世界文明互鉴高峰论坛主旨演讲与国际领袖闭幕声明。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (26.5.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "大会主席在世界文明互鉴高峰论坛发表主旨演讲：‘回望人类文明交流史，我们更当秉持“求同存异”的博大胸襟，做到不同文化“相辅相成”、文明成果“交相辉映”，以“高瞻远瞩”的历史担当携手应对全球挑战！’",
+                    "reading": "Dàhuì zhǔxí zài Shìjiè Wénmíng Hùjiàn Gāofēng Lùntán fābiǎo zhǔzhǐ yǎnjiǎng: ‘Huíwàng rénlèi wénmíng jiāoliúshǐ, wǒmen gèng dāng bǐngchí “qiú tóng cún yì” de bódà xiōngjīn, zuòdào bùtóng wénhuà “xiāng fǔ xiāng chéng”、wénmíng chéngguǒ “jiāoxiāng huìyìng”, yǐ “gāo zhān yuǎn zhǔ” de lìshǐ dāndāng xiéshǒu yìngduì quánqiú tiǎozhàn!’",
+                    "translation": "The conference president delivered: 'Looking at civilization history, we should uphold \"seeking common ground while shelving differences\", allowing cultures to complement each other and with farsighted responsibility tackle global challenges!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (26.5.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫在国际汉学大会青年学者论坛发言：‘学习与运用汉语四字成语，绝非浮于表面的咬文嚼字，而是“温故知新”、深入领略中华文明数千年哲学辩证与文学审美的精神密码！’",
+                    "reading": "Dàwèi zài Guójì Hànxué Dàhuì qīngnián xuézhě lùntán fāyán: ‘Xuéxí yǔ yùnyòng Hànyǔ sìzì chéngyǔ, jué fēi fú yú biǎomiàn de yǎowén-jiáozì, érshì “wēn gù zhī xīn”、shēnrù lǐnglüè Zhōnghuá wénmíng shù qiān nián zhéxué biànzhèng yǔ wénxué shěnměi de jīngshén mìmǎ!’",
+                    "translation": "David stated: 'Mastering Chengyu is not superficial pedantry, but \"learning new from the old\" to decipher thousands of years of philosophical dialectics and aesthetic codes!'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (26.5.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "著名学者在《文化强国论》结语中总结：‘唯有“未雨绸缪”筑牢文化根基，“厚积薄发”推进理论创新，方能使优秀传统文化在当代焕发出“生生不息”的磅礴力量！’",
+                    "reading": "Zhùmíng xuézhě zài «Wénhuà Qiángguó Lùn» jiéyǔ zhōng zǒngjié: ‘Wéiyǒu “wèi yǔ chóu móu” zhùláo wénhuà gēnjī, “hòu jī bó fā” tuījìn lǐlùn chuàngxīn, fāng néng shǐ yòuxiù chuántǒng wénhuà zài dāngdài huànfā chū “shēngshēng bù xī” de pángbó lìliàng!’",
+                    "translation": "The scholar concluded: 'Only by pre-planning robust cultural roots and accumulating deeply to release innovatively can traditional culture unleash boundless enduring vitality!'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 四字成语典故运用 (Classical Chengyu Idioms)"
+                "Chengyu Mastery: 历史典故 (Historical Roots) + 外交谋略 (Diplomatic Vision) + 艺术审美 (Aesthetic Grace) + 四六对仗 (Prosodic Harmony) = Master Eloquence!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "«厚积薄发» (accumulating deeply to release abundantly, from Su Shi 苏轼) expresses the foundational Confucian and scholarly virtue of patient, profound preparation before decisive action."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「四字成语典故运用 (Classical Chengyu Idioms)」在第5小节中的标准汉语语法规范？",
+                    "prompt": "源自苏轼名言、形容经过长期深厚扎实的知识与实力积累、从而在关键时刻充分发挥巨大能量的成语是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (26.5.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (26.5.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (26.5.3)。"
+                        "厚积薄发 (Accumulating deeply and releasing abundantly)",
+                        "急功近利",
+                        "粗制滥造"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "厚积薄发 means accumulating deeply over time and bursting forth with greatness."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「四字成语典故与修辞运用 (Classical Chengyu Idioms)」语用情境与完整句式的选项（练习 5）：",
+                    "prompt": "在主旨演讲与政务报告中，形容历史车轮滚滚向前、生命与文明繁衍发展永不休止的经典成语是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (26.5.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (26.5.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (26.5.3)。"
+                        "生生不息 (Endless succession of life and vitality / Perpetual generation)",
+                        "烟消云散",
+                        "停滞不前"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "生生不息 symbolizes eternal renewal and endless generations of life and culture."
                 }
             ]
         },
@@ -13085,24 +13139,30 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「四字成语典故运用 (Classical Chengyu Idioms)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 26-5）？",
+                    "prompt": "关于四字成语典故在现代高阶汉语与国际交流中的综合价值，下列哪一项总括完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (26.5.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (26.5.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (26.5.3)。"
+                        "成语在现代汉语中已经完全被淘汰",
+                        "成语承载了深厚的历史哲学典故、高超的谋略智慧与对称的音律美感，是精准典雅表达中华文化精神与战略格局的核心语言艺术 (Encapsulates history, philosophy, strategy, and poetic cadence)",
+                        "成语只能用于古代文言文"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "explanation": "Comprehensively synthesizes the historical, philosophical, rhetorical, and strategic value of Chinese Chengyu."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («温故知新_26_5»):",
+                    "prompt": "Type the 4-character Chengyu meaning 'accumulating deeply to release abundantly' (厚积薄发):",
                     "acceptedAnswers": [
-                        "温故知新_26_5"
+                        "厚积薄发",
+                        "houjibofa",
+                        "hòujībófā",
+                        "Hòujībófā",
+                        "Houjibofa",
+                        "厚積薄發"
                     ],
-                    "explanation": "The target keyword was: 【温故知新_26_5】"
+                    "explanation": "厚积薄发 (hòu jī bó fā) means 'accumulating deeply and releasing abundantly'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u27-l1": {
