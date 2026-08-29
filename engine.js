@@ -616,7 +616,33 @@
     s = s.replace(/\$\$([\s\S]*?)\$\$/g, '<div class="fearn-math-block" style="margin:10px 0; padding:10px 14px; background:rgba(0,0,0,0.3); border-left:3px solid var(--lang-1, #38bdf8); border-radius:6px; font-family:\'Fira Code\', monospace; font-size:1.02em; overflow-x:auto;">$1</div>');
     s = s.replace(/\$([^$\n]+?)\$/g, '<span class="fearn-math-inline" style="font-family:\'Fira Code\', monospace; font-weight:600; color:#7dd3fc;">$1</span>');
     s = s.replace(/\*\*([^*]+)\*\*/g, '<strong style="color:#f8fafc; font-weight:700;">$1</strong>');
+    s = s.replace(/(^|[^*])\*([^*\s\n](?:[^*\n]*?[^*\s\n])?)\*(?!\*)/g, '$1<em style="font-style:italic;">$2</em>');
     s = s.replace(/`([^`]+)`/g, '<code style="background:rgba(255,255,255,0.1); padding:2px 6px; border-radius:4px; font-family:\'Fira Code\', monospace; font-size:0.9em; color:#a78bfa;">$1</code>');
+
+    // Numbered list items: lines starting with 1. or 1) etc.
+    s = s.replace(/(?:^|\n)(?:[ \t]*\d+[\.\)]\s+[^\n]+(?:\n|$))+/g, (match) => {
+      const items = match.trim().split('\n').map(line => {
+        return line.replace(/^[ \t]*\d+[\.\)]\s+(.*)$/, '<li style="margin-bottom:4px;">$1</li>');
+      }).join('');
+      return '\n<ol style="margin:8px 0; padding-left:22px;">' + items + '</ol>\n';
+    });
+
+    // Bullet list items: lines starting with - or •
+    s = s.replace(/(?:^|\n)(?:[ \t]*[-•]\s+[^\n]+(?:\n|$))+/g, (match) => {
+      const items = match.trim().split('\n').map(line => {
+        return line.replace(/^[ \t]*[-•]\s+(.*)$/, '<li style="margin-bottom:4px;">$1</li>');
+      }).join('');
+      return '\n<ul style="margin:8px 0; padding-left:22px;">' + items + '</ul>\n';
+    });
+
+    // Normalize and preserve line/paragraph breaks
+    s = s.replace(/\r\n|\r/g, '\n');
+    s = s.replace(/\n*<ol/g, '<ol').replace(/<\/ol>\n*/g, '</ol>');
+    s = s.replace(/\n*<ul/g, '<ul').replace(/<\/ul>\n*/g, '</ul>');
+    s = s.replace(/\n*<div/g, '<div').replace(/<\/div>\n*/g, '</div>');
+    s = s.replace(/\n\n+/g, '<br><br>');
+    s = s.replace(/\n/g, '<br>');
+
     return s;
   };
   FEARN.formatMath = FEARN.formatText;
