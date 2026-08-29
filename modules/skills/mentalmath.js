@@ -170,12 +170,16 @@
     container.appendChild(box);
   }
 
-  function renderLessonCheckpoint(container, lesson) {
+  function renderLessonCheckpoint(container, lesson, onPass) {
     const box = document.createElement('div');
     box.className = 'fearn-checkpoint';
     box.innerHTML = `<h4>Checkpoint</h4>`;
     const list = document.createElement('div');
-    lesson.checkpointTest.items.forEach((item) => {
+    const items = (lesson.checkpointTest && lesson.checkpointTest.items) ? lesson.checkpointTest.items : [];
+    let correctCount = 0;
+    const answered = new Set();
+
+    items.forEach((item, idx) => {
       const row = document.createElement('div');
       row.className = 'fearn-checkpoint-item';
       row.innerHTML = `
@@ -188,17 +192,26 @@
       submit.textContent = 'Check';
       const result = document.createElement('span');
       submit.addEventListener('click', () => {
+        if (answered.has(idx)) return;
         const given = input.value.trim();
         const success = typeof item.answer === 'number'
           ? Number(given) === item.answer
           : given.toLowerCase() === String(item.answer).trim().toLowerCase();
+        answered.add(idx);
+        if (success) correctCount++;
         result.textContent = success ? ' Correct!' : ` Answer: ${item.answer}`;
+        result.style.color = success ? '#34d399' : '#f87171';
         FEARN.srs.schedule(item.id, success ? 4 : 1, MODULE_ID);
         if (typeof item.difficulty === 'number') FEARN.rating.update(RATING_ID, success, item.difficulty);
         FEARN.streak.log(MODULE_ID);
         const s = getState();
         if (success) s.solved += 1; else s.missed += 1;
         setState(s);
+
+        if (answered.size === items.length) {
+          const pass = (correctCount / items.length) >= 0.8;
+          if (typeof onPass === 'function') onPass(pass, correctCount, items.length);
+        }
       });
       row.appendChild(input);
       row.appendChild(submit);
@@ -290,10 +303,27 @@
 
     if (lesson && lesson.presentation) {
       renderLessonPresentation(practiceWrap, lesson);
-      renderLessonCheckpoint(practiceWrap, lesson);
       const completeBtn = document.createElement('button');
-      completeBtn.textContent = 'Mark lesson complete';
+      completeBtn.className = 'fearn-btn fearn-btn--primary';
+      completeBtn.textContent = 'Complete Checkpoint to Advance (80% pass required)';
+      completeBtn.disabled = true;
+      completeBtn.style.opacity = '0.5';
+
+      renderLessonCheckpoint(practiceWrap, lesson, (pass, correct, total) => {
+        if (pass) {
+          completeBtn.disabled = false;
+          completeBtn.style.opacity = '1';
+          completeBtn.textContent = `Passed (${correct}/${total}) — Mark Lesson Complete ➔`;
+          completeBtn.style.background = 'var(--accent-1, #10b981)';
+        } else {
+          completeBtn.disabled = true;
+          completeBtn.style.opacity = '0.5';
+          completeBtn.textContent = `Checkpoint score: ${correct}/${total} (80% needed to pass)`;
+        }
+      });
+
       completeBtn.addEventListener('click', () => {
+        if (completeBtn.disabled) return;
         const s = getState();
         if (!s.completedLessons.includes(lesson.id)) s.completedLessons.push(lesson.id);
         const idx = LEDGER.authoredInFull.indexOf(lesson.id);

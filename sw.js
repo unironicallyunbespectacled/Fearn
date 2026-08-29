@@ -15,6 +15,7 @@ const ASSETS_TO_CACHE = [
   './command-palette.js',
   './srs-deck.js',
   './manifest.json',
+  './assets/icons/fearn-icon.png',
   './data/omni_dictionary.js',
   './data/omni_lexicon.js',
   './data/fitness-program.js',

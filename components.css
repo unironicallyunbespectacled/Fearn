@@ -250,14 +250,21 @@
   flex-direction: column;
   align-items: center;
   gap: 4px;
-  width: 68px;
-  padding: 10px 4px 8px;
+  min-width: 78px;
+  max-width: 105px;
+  width: auto;
+  padding: 10px 6px 8px;
   border-radius: var(--radius-md);
   border: 1px solid var(--glass-border);
   background: var(--glass-bg);
   color: var(--text-sub);
-  font-size: 0.65rem;
+  font-size: 0.68rem;
+  line-height: 1.2;
   text-align: center;
+  word-break: normal;
+  overflow-wrap: normal;
+  hyphens: none;
+  white-space: normal;
   transition: all 0.2s ease;
 }
 
@@ -1491,7 +1498,7 @@ button.fearn-lang-btn-primary:hover:not(:disabled) {
   .fearn-topbar { flex-wrap: wrap; padding: 14px 16px; }
   .fearn-brand-name { font-size: 1.15rem; }
   .fearn-streak-value { font-size: 2.1rem; }
-  .web-node { width: 60px; font-size: 0.6rem; padding: 8px 3px 6px; gap: 2px; }
+  .web-node { min-width: 64px; max-width: 85px; width: auto; font-size: 0.62rem; padding: 8px 4px 6px; gap: 2px; line-height: 1.15; word-break: normal; overflow-wrap: normal; hyphens: none; }
   .web-node-icon { font-size: 1.05rem; }
   .web-cluster-nodes { gap: 6px 8px; }
   .web-clusters { gap: 14px; }

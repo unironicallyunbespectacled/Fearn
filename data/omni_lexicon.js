@@ -9,7 +9,7 @@
   var LANGUAGE_TRANSFER_TRACKS = {
     spanish: {
       name: 'Spanish',
-      courseName: 'Complete Spanish (90 Tracks)',
+      courseName: 'The Thinking Method: Spanish (Core 7 Bridges)',
       author: 'Mihalis Eleftheriou',
       method: 'The Thinking Method',
       description: 'Systematic reconstruction of Spanish grammar through Latin cognate bridges, vowel switches, and structural hooks without memorization.',
@@ -93,7 +93,7 @@
     },
     german: {
       name: 'German',
-      courseName: 'Complete German (50 Tracks)',
+      courseName: 'The Thinking Method: German (Core 5 Bridges)',
       author: 'Mihalis Eleftheriou',
       method: 'The Thinking Method',
       description: 'Mastering German sentence structure, Germanic sound shifts, the 4 cases, and prefix building blocks logically.',
@@ -153,7 +153,7 @@
     },
     arabic: {
       name: 'Arabic',
-      courseName: 'Complete Arabic (44 Tracks)',
+      courseName: 'The Thinking Method: Arabic (Core 4 Bridges)',
       author: 'Mihalis Eleftheriou',
       method: 'The Thinking Method',
       description: 'Decoding Arabic via the 3-consonant root system, vocalic vowel molds, and grammatical symmetry.',
@@ -207,7 +207,7 @@
     },
     swahili: {
       name: "Swahili",
-      courseName: "Complete Swahili (110 Tracks)",
+      courseName: "The Thinking Method: Swahili (Core 3 Bridges)",
       author: "Mihalis Eleftheriou",
       method: "The Thinking Method",
       description: "Unraveling the Bantu noun class concords and agglutinative verbal slot chain with pure mathematical elegance.",
@@ -250,7 +250,7 @@
     },
     french: {
       name: "French",
-      courseName: "Complete French (35+ Tracks)",
+      courseName: "The Thinking Method: French (Core 2 Bridges)",
       author: "Mihalis Eleftheriou",
       method: "The Thinking Method",
       description: "Mastering French pronunciation keys, Latin-Romance cognates, and future/conditional verb structures.",
@@ -281,7 +281,7 @@
     },
     turkish: {
       name: 'Turkish',
-      courseName: 'Introduction to Turkish (44 Tracks - Trial Run)',
+      courseName: 'The Thinking Method: Turkish (Core 2 Bridges)',
       author: 'Mihalis Eleftheriou',
       method: 'The Thinking Method',
       description: 'Understanding Turkish agglutination, 2-way and 4-way vowel harmony, and suffix chain stacking.',
@@ -313,7 +313,7 @@
   };
 
   var FEARN_OMNI_LEXICON = {
-    TOTAL_ENTRIES: 3740,
+    TOTAL_ENTRIES: 52,
     TRACKS_DATABASE: LANGUAGE_TRANSFER_TRACKS,
 
     search: function (query, maxResults) {
