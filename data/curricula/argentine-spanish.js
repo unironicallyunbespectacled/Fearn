@@ -450,57 +450,70 @@
         "id": "es-ar-u1-l1",
         "unit": "es-ar-u1",
         "level": "A1",
-        "objective": "Greet people the Rioplatense way using che and hola, recognize the characteristic 'sh' pronunciation of ll/y, and respond naturally to ¿Todo bien?",
+        "objective": "Greet people the Rioplatense way using che and hola, master yeísmo rehilado (ll/y as 'sh' [ʃ] or 'zh' [ʒ]), understand the v/b merger (betacismo), and respond naturally to ¿Todo bien?",
         "prerequisites": [],
         "warmup": {
             "srsPull": true,
             "reviewFocus": []
         },
         "presentation": {
-            "explanation": "Forget everything you think 'll' and 'y' sound like — in Argentina (and Uruguay) they're both pronounced like the 'sh' in 'shoe', a feature called yeísmo rehilado. Yo (I) comes out 'sho', me llamo (my name is) comes out 'me shamo', calle (street) comes out 'cashe'. It's the single fastest way to tell a Rioplatense speaker apart from anyone else in the Spanish-speaking world, and you'll hear it constantly from lesson one onward. On top of that sound, Argentines greet with hola (hello, any time, any context) and che — a short, all-purpose interjection roughly like 'hey' or 'dude', used to open a sentence, grab someone's attention, or just punctuate a thought. It's so central to Argentine speech that Ernesto Guevara, an Argentine doctor, got the nickname 'Che' Guevara from Cuban comrades who noticed he said it constantly. For 'good morning', Argentines shorten buenos días to just buen día (literally 'good day', singular) — buenos días still works but sounds a touch more formal or old-fashioned in casual speech. And instead of the textbook ¿Cómo estás?, the everyday check-in among friends is ¿Todo bien? (everything good?), answered with the same phrase echoed back: Todo bien.",
+            "explanation": "Forget everything you think 'll' and 'y' sound like — in Argentina (and Uruguay) they're both pronounced like the 'sh' in 'shoe' [ʃ] (or in older/formal speech, the 'zh' in 'measure' [ʒ]), a defining phonetic feature called **yeísmo rehilado / žeísmo & šeísmo**:\n- **Yo** ('I') comes out **[ʃo]** ('sho').\n- **Me llamo** ('my name is') comes out **[me ˈʃamo]** ('me shamo').\n- **Calle** ('street') comes out **[ˈkaʃe]** ('cashe').\n- **Playa** ('beach') comes out **[ˈplaʃa]** ('plasha').\nIt's the single fastest way to identify a Rioplatense speaker anywhere in the world.\n\n### 🗣️ The 'V' vs 'B' Merger (Betacismo):\nIn all varieties of Spanish, including Argentine, the letters **v** and **b** represent the exact same sound:\n1. At the start of a phrase or after a pause/nasal, both **v** and **b** are pronounced as a voiced bilabial stop **[b]** with both lips touching (e.g. *vos* is pronounced **[bos]**, exactly like *bos*; *bien* is **[bjen]**; *vaca* sounds 100% identical to *baca*).\n2. Between vowels, both soften into a bilabial approximant **[β]** (e.g. *todo bien* [ˈtoðo ˈβjen]). There is **no biting of the lower lip (English [v])** in native Spanish!\n\nOn top of these sounds, Argentines greet with **hola** and **che** — an iconic all-purpose interjection roughly like 'hey' or 'mate/dude', used to open a sentence, grab someone's attention, or punctuate a thought. For 'good morning', Argentines shorten *buenos días* to **buen día**; and instead of ¿Cómo estás?, the universal everyday check-in is **¿Todo bien?** (answered with **Todo bien**).",
             "examples": [
                 {
                     "target": "Nico: ¡Che, Flor! ¿Todo bien?",
-                    "reading": "",
-                    "translation": "Nico: Hey, Flor! Everything good?"
+                    "reading": "[tʃe, floɾ! ˈtoðo ˈβjen?]",
+                    "translation": "Nico: Hey, Flor! Everything good? (che = iconic hey, todo bien has soft bilabial [β])"
                 },
                 {
                     "target": "Flor: ¡Hola, Nico! Todo bien, ¿y vos?",
-                    "reading": "",
-                    "translation": "Flor: Hi, Nico! All good, and you?"
+                    "reading": "[ˈola, ˈniko! ˈtoðo ˈβjen, i βos?]",
+                    "translation": "Flor: Hi, Nico! All good, and you? (vos = you, pronounced with bilabial [b/β], not English v)"
                 },
                 {
-                    "target": "Nico: Todo bien, gracias. Buen día.",
-                    "reading": "",
-                    "translation": "Nico: All good, thanks. Good morning."
+                    "target": "Nico: Yo me llamo Nico. Buen día.",
+                    "reading": "[ʃo me ˈʃamo ˈniko. bwen ˈdi.a]",
+                    "translation": "Nico: My name is Nico. Good morning. (Yo me llamo has full yeísmo rehilado [ʃ])"
                 },
                 {
                     "target": "Flor: Buenas tardes, che. ¿Cómo andás?",
-                    "reading": "",
-                    "translation": "Flor: Good afternoon, hey. How's it going? (andás is another everyday 'how are you')"
+                    "reading": "[ˈbwenas ˈtaɾðes, tʃe. ˈkomo anˈdas?]",
+                    "translation": "Flor: Good afternoon, hey. How's it going? (andás is voseo present with final stress)"
                 }
             ],
             "mnemonics": [
-                "Yeísmo rehilado in one rule: every time you see 'll' or 'y' in a Rioplatense word, swap it for an English 'sh' in your head. Yo → 'sho'. Llamo → 'shamo'. Playa → 'plasha'. It never breaks, so once it clicks, it clicks for good.",
-                "Che is Argentina's 'hey' — it opens sentences, grabs attention, and needs no translation of its own. If a sentence sounds incomplete without a filler word up front, che is very likely that word."
+                "Yeísmo rehilado in one rule: every time you see 'll' or 'y' in a Rioplatense word, swap it for an English 'sh' in your head. Yo → 'sho'. Llamo → 'shamo'. Playa → 'plasha'. It never breaks!",
+                "The Betacismo Rule: 'V' and 'B' are twins with both lips! Vos sounds like 'bos' — never bite your lip for 'v' in Spanish.",
+                "Che is Argentina's 'hey' — it opens sentences, grabs attention, and needs no translation of its own."
             ],
             "culturalNotes": [
-                "¿Todo bien? / Todo bien is the default casual greeting exchange among friends and acquaintances — far more common in daily life than the more textbook ¿Cómo estás?, which can sound a little formal between people who already know each other.",
-                "Buen día (not buenos días) is the everyday spoken form of 'good morning' in Argentina — you'll see buenos días in writing and formal contexts, but buen día is what people actually say to each other in the street."
+                "¿Todo bien? / Todo bien is the default casual greeting exchange among friends and acquaintances — far more common in daily life than the more textbook ¿Cómo estás?.",
+                "Buen día (not buenos días) is the everyday spoken form of 'good morning' in Argentina — you'll see buenos días in writing and formal contexts, but buen día is what people actually say in the street.",
+                "Šeísmo vs Žeísmo: In Buenos Aires, the pronunciation of ll/y shifted from a voiced 'zh' [ʒ] in the mid-20th century to a crisp unvoiced 'sh' [ʃ] among almost all modern speakers under 50."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "How is 'll' and 'y' pronounced in Rioplatense (Argentine) Spanish?",
+                    "prompt": "How are the letters 'll' and 'y' pronounced in modern Rioplatense (Argentine) Spanish?",
                     "options": [
                         "Silent, not pronounced (1.1)",
                         "Like an English 'j' (jam) (1.2)",
                         "Like an English 'y' (yes) (1.3)",
-                        "Like an English 'sh' (shoe) (1.4)"
+                        "Like an English 'sh' [ʃ] (in shoe) or 'zh' [ʒ] (in measure)"
                     ],
                     "answerIndex": 3,
-                    "explanation": "Yeísmo rehilado turns both ll and y into a 'sh' sound — yo becomes 'sho'."
+                    "explanation": "Yeísmo rehilado / šeísmo turns both ll and y into a 'sh' [ʃ] sound — yo becomes 'sho'."
+                },
+                {
+                    "prompt": "How is the letter 'v' in 'vos' pronounced in Argentine Spanish?",
+                    "options": [
+                        "As a bilabial 'b' sound [b/β] with both lips, identical to 'b' (never biting the lip like English v)",
+                        "As an English 'f' sound",
+                        "As a silent letter",
+                        "As an English 'w' sound"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Spanish has complete betacismo: v and b represent the exact same bilabial sound."
                 },
                 {
                     "prompt": "Someone opens with '¡Che, ...!' What is che doing here?",
@@ -523,17 +536,6 @@
                     ],
                     "answerIndex": 1,
                     "explanation": "Todo bien echoes the greeting back — the standard casual exchange."
-                },
-                {
-                    "prompt": "What's the everyday spoken version of 'good morning' in Argentina?",
-                    "options": [
-                        "Buenas",
-                        "Buenos días (only)",
-                        "Buenísimo",
-                        "Buen día"
-                    ],
-                    "answerIndex": 3,
-                    "explanation": "Buen día is the natural spoken shortening; buenos días sounds more formal/written."
                 }
             ]
         },
@@ -544,22 +546,11 @@
                     "options": [
                         "me lyamo (1.1)",
                         "me jamo (1.2)",
-                        "me shamo (1.3)",
+                        "me shamo [me ˈʃamo]",
                         "me yamo (1.4)"
                     ],
                     "answerIndex": 2,
                     "explanation": "The ll triggers the 'sh' sound: 'me shamo'."
-                },
-                {
-                    "prompt": "Why did Ernesto Guevara become known as 'Che' Guevara?",
-                    "options": [
-                        "It was a random nickname unrelated to language",
-                        "It means 'doctor' in Spanish",
-                        "It was his real first name",
-                        "Cuban comrades noticed he used the Argentine interjection che constantly"
-                    ],
-                    "answerIndex": 3,
-                    "explanation": "This is the cultural origin story explained in the lesson."
                 },
                 {
                     "prompt": "Translate casually: 'Hey, everything good?'",
@@ -577,9 +568,10 @@
         "checkpointTest": {
             "items": [
                 {
+                    "type": "multiple-choice",
                     "prompt": "In Rioplatense Spanish, 'll' and 'y' sound like:",
                     "options": [
-                        "English 'sh'",
+                        "English 'sh' [ʃ] (as in shoe)",
                         "English 'j'",
                         "They're silent",
                         "English 'y'"
@@ -588,6 +580,19 @@
                     "explanation": "Yeísmo rehilado: both sound like 'sh'."
                 },
                 {
+                    "type": "multiple-choice",
+                    "prompt": "How does the 'v' in vos sound compared to 'b' in bien in Spanish?",
+                    "options": [
+                        "They are phonetically identical bilabial sounds [b/β] (betacismo)",
+                        "v is biting the lip, b is two lips",
+                        "v is silent",
+                        "b is silent"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Spanish merges v and b into the same bilabial phoneme."
+                },
+                {
+                    "type": "multiple-choice",
                     "prompt": "Che functions as:",
                     "options": [
                         "A number",
@@ -599,6 +604,7 @@
                     "explanation": "Che is a ubiquitous interjection, not a formal word."
                 },
                 {
+                    "type": "multiple-choice",
                     "prompt": "Reply to ¿Todo bien?",
                     "options": [
                         "Chau, nos vemos",
@@ -610,37 +616,13 @@
                     "explanation": "The standard echoed reply."
                 },
                 {
-                    "prompt": "Everyday spoken 'good morning' in Argentina:",
-                    "options": [
-                        "Buenísimo",
-                        "Buen día",
-                        "Buenas tardes",
-                        "Buenas noches"
+                    "type": "typed-recall",
+                    "prompt": "Type the iconic 3-letter Argentine interjection for 'Hey / Dude' (Che):",
+                    "acceptedAnswers": [
+                        "Che",
+                        "che"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Buen día is the natural spoken form."
-                },
-                {
-                    "prompt": "How would 'calle' (street) sound in Rioplatense pronunciation?",
-                    "options": [
-                        "cashe",
-                        "calle (as written)",
-                        "cale",
-                        "cayye"
-                    ],
-                    "answerIndex": 0,
-                    "explanation": "The ll triggers the 'sh' sound: 'cashe'."
-                },
-                {
-                    "prompt": "Which greeting exchange is more common day-to-day between people who already know each other?",
-                    "options": [
-                        "¿Cómo está usted? / Muy bien, gracias",
-                        "Only formal greetings are used",
-                        "No greeting is typical",
-                        "¿Todo bien? / Todo bien"
-                    ],
-                    "answerIndex": 3,
-                    "explanation": "¿Todo bien? is the default casual check-in; ¿Cómo estás? can sound more textbook/formal between friends."
+                    "explanation": "Che is the world-famous Argentine interjection."
                 }
             ],
             "passThreshold": 0.8
@@ -650,7 +632,7 @@
         "id": "es-ar-u1-l2",
         "unit": "es-ar-u1",
         "level": "A1",
-        "objective": "Use vos sos and vos estás to distinguish identity (ser) from temporary states (estar), and recognize why the voseo estar form is identical to the tú form.",
+        "objective": "Use vos sos and vos estás to distinguish identity (ser) from temporary states (estar), master voseo final syllable stress phonetics, and recognize why the voseo estar form matches the tú form.",
         "prerequisites": [
             "es-ar-u1-l1"
         ],
@@ -661,32 +643,33 @@
             ]
         },
         "presentation": {
-            "explanation": "Argentina doesn't use tú for 'you' in everyday speech — it uses vos, and vos comes with its own verb forms, starting here with the two most important verbs in Spanish: ser (permanent identity — who/what something IS) and estar (temporary state — how something feels or where it IS right now). With vos, ser conjugates as sos: vos sos porteño (you're from Buenos Aires — a lasting fact), vos sos simpático (you're nice — a personality trait). estar conjugates as estás — and here's the twist: that's the EXACT same form used with tú. Every other regular voseo verb shifts its stress and drops a vowel (hablas → hablás), but estar's tú form (estás) already stresses the final syllable, so there's nothing left to shift — vos estás and tú estás are identical. So: vos sos (irregular, voseo-specific) but vos estás (same as tú, no change at all). Use estás for how someone feels right now (Estás cansado? — Are you tired?) or where they are (¿Dónde estás? — Where are you?); use sos for what/who they permanently are.",
+            "explanation": "Argentina doesn't use tú for 'you' in everyday speech — it uses **vos**, and vos comes with its own verb forms, starting here with the two most important verbs in Spanish: **ser** (permanent identity — who/what something IS) and **estar** (temporary state — how something feels or where it IS right now).\n- With vos, **ser** conjugates as **sos** [sos]: *vos sos porteño* (you're from Buenos Aires — a lasting fact), *vos sos simpático* (you're nice — a personality trait).\n- **estar** conjugates as **estás** [esˈtas] — and here's the twist: that's the EXACT same form used with tú. Every other regular voseo verb shifts its stress to the final syllable and monophthongizes (hablas → hablás [aˈβlas], tienes → tenés [teˈnes]), but estar's tú form (*estás*) already stresses the final syllable, so there's nothing left to shift — *vos estás* and *tú estás* are identical!\n\n### 🗣️ Voseo Phonetic Stress Engine:\nIn Rioplatense voseo, verbs are truncated and stressed on the very last vowel:\n- *-ar* verbs: *vos hablás* [aˈβlas], *vos andás* [anˈdas], *vos cantás* [kanˈtas].\n- *-er* verbs: *vos tenés* [teˈnes] (diphthong *ie* collapses into a pure stressed *e*!), *vos comés* [koˈmes], *vos querés* [keˈɾes].\n- *-ir* verbs: *vos vivís* [biˈβis], *vos decís* [deˈsis], *vos venís* [beˈnis].\n- *ser*: *vos sos* [sos] (monosyllable).",
             "examples": [
                 {
                     "target": "Flor: ¿Cómo estás, Nico?",
-                    "reading": "",
-                    "translation": "Flor: How are you, Nico? (right now, temporary state)"
+                    "reading": "[ˈkomo esˈtas, ˈniko?]",
+                    "translation": "Flor: How are you, Nico? (right now, temporary state — estás has final stress)"
                 },
                 {
                     "target": "Nico: Estoy bien, un poco cansado. ¿Y vos, cómo estás?",
-                    "reading": "",
-                    "translation": "Nico: I'm well, a bit tired. And you, how are you?"
+                    "reading": "[esˈtoj ˈβjen, um ˈpoko kanˈsaðo. i βos, ˈkomo esˈtas?]",
+                    "translation": "Nico: I'm well, a bit tired. And you, how are you? (bien and vos use bilabial [β/b])"
                 },
                 {
                     "target": "Flor: Bien. Che, ¿vos sos de Buenos Aires?",
-                    "reading": "",
-                    "translation": "Flor: Good. Hey, are you from Buenos Aires? (permanent origin)"
+                    "reading": "[bjen. tʃe, βos sos de ˈbwenos ˈajɾes?]",
+                    "translation": "Flor: Good. Hey, are you from Buenos Aires? (permanent origin: vos sos)"
                 },
                 {
                     "target": "Nico: Sí, soy porteño, nací acá. Vos también sos de acá, ¿no?",
-                    "reading": "",
+                    "reading": "[si, soj poɾˈteɲo, naˈsi aˈka. βos tamˈbjen sos de aˈka, no?]",
                     "translation": "Nico: Yes, I'm a porteño, I was born here. You're also from here, right?"
                 }
             ],
             "mnemonics": [
-                "sos is short, blunt, and irregular — no relation to eres at all. Historically it's a fossil of vosotros sois, shrunk down when vos took over as the singular 'you' in the Río de la Plata. Just memorize it as its own word, not a pattern.",
-                "estás is the ONE spot where voseo and tuteo overlap perfectly. Every other regular voseo verb changes (hablás, tenés, vivís) — but estar's tú form was already stressed on the last syllable, so voseo has nothing left to do to it."
+                "sos is short, blunt, and irregular — no relation to eres at all. Historically it's a fossil of vosotros sois, shrunk down when vos took over as the singular 'you' in the Río de la Plata.",
+                "Voseo Stress Rule: In Argentine present tense, the accent punches the LAST syllable hard (hablás, tenés, vivís) — never the root like standard tú hablas or tú tienes!",
+                "estás is the ONE spot where voseo and tuteo overlap perfectly. estar's tú form was already stressed on the last syllable, so voseo has nothing left to do to it."
             ],
             "culturalNotes": [
                 "Porteño specifically means someone from the city of Buenos Aires (from puerto, 'port') — it's a narrower, more local identity than simply argentino, the way 'New Yorker' is narrower than 'American'."
