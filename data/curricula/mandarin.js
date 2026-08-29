@@ -14638,63 +14638,69 @@
     },
     "zh-u30-l1": {
         "id": "zh-u30-l1",
-        "subject": "mandarin",
-        "unit": 30,
-        "lessonNumber": 1,
-        "title": "古典诗词格律在现代散文的化用 (Classical Poetry Prosody) (Part 1)",
+        "unit": "zh-u30",
         "level": "C1",
-        "objective": "Comprehensive mastery of 古典诗词意境鉴赏 (Classical Poetry in Modern Prose).",
+        "objective": "Master the rules of classical Chinese poetic meter, tone patterns, and rhyming schemes (平仄 Level and Oblique tones, 押韵 rhyming, 对仗 parallel antithesis, 绝句 Jueju four-line quatrain, 律诗 Lushi eight-line regulated verse, 词牌名 Ci tune titles).",
+        "prerequisites": [
+            "zh-u29-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u29-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「古典诗词格律在现代散文的化用 (Classical Poetry Prosody)」（第1部分）的核心句法结构与古典诗词意境鉴赏 (Classical Poetry in Modern Prose)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "中国古典诗词是汉语言音韵与节奏美学的至高典范，其核心在于**「平仄协调、押韵严密、对仗工整」**！\n\n1. 古典格律诗基础法则 (Prosodic & Metrical Rules):\n- **平仄 (píngzè)**：平声（现代汉语阴平、阳平）与仄声（现代汉语上声、去声）交替形成抑扬顿挫的音乐美感。\n- **押韵 (yāyùn)**：通常偶数句末字押同韵部韵母，一韵到底。\n- **对仗 (duìzhàng)**：律诗颔联（3-4句）与颈联（5-6句）必须字数相等、词性相对、平仄相反（如「海内存知己，天涯若比邻」）。\n\n2. 常见体裁与词牌 (Forms & Tune Titles):\n- **五言/七言绝句**（四句）与**五言/七言律诗**（八句）。\n- **宋词词牌**：如《水调歌头》《念奴娇》《蝶恋花》《菩萨蛮》。\n\n3. 第三十单元实战演练 (Unit 30 Classical Metrical Application):\n- 细致研读声律对仗与平仄押韵规则。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (30.1.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "古典文学教授在诗词格律课上讲解杜甫名篇：‘《登高》被誉为古今七律第一，全诗八句皆对仗，平仄声律严谨至极，字字沉郁顿挫！’",
+                    "reading": "Gǔdiǎn wénxué jiàoshòu zài shīcí gélǜ kè shang jiǎngjiě Dù Fǔ míngpiān: ‘«Dēng Gāo» bèi yù wéi gǔjīn qīlǜ dì-yī, quán shī bā jù jiē duìzhàng, píngzè shēnglǜ yánjǐn zhìjí, zìzì chényù-dùncuò!’",
+                    "translation": "The literature professor lectured on Du Fu: 'Ascending is hailed as the pinnacle of 7-character regulated verse; all eight lines exhibit antithesis with flawless prosody!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (30.1.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫在文学沙龙朗诵苏轼名词：‘“明月几时有？把酒问青天。”《水调歌头》依词牌定谱，长短句错落有致，将人生的悲欢离合融入超旷的哲学境界。’",
+                    "reading": "Dàwèi zài wénxué shālóng lǎngsòng Sū Shì míngcí: ‘“Míngyuè jǐshí yǒu? Bǎjiǔ wèn qīngtiān.” «Shuǐdiào Gētóu» yī cípái dìngpǔ, chángduǎnjù cuòluò-yǒuzhì, jiāng rénshēng de bēihuān-líhé róngrù chāokuàng de zhéxué jìngjiè.’",
+                    "translation": "David recited Su Shi: '\"When will the moon be clear? Holding wine, I ask the blue sky.\" Composed to the tune of Shuidiao Getou, its varied line lengths blend human joys and sorrows into sublime philosophical transcendence.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (30.1.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "高中语文名师向学生剖析近体诗格律：‘辨析平仄与对仗不仅是读懂唐诗宋词的钥匙，更能显著提升我们现代散文写作中的语言节奏感与音韵美。’",
+                    "reading": "Gāozhōng yǔwén míngshī xiàng xuésheng pōuxī jìntǐshī gélǜ: ‘Biànxī píngzè yǔ duìzhàng bùjǐn shì dúdǒng Tángshī Sòngcí de yàoshi, gèng néng xiǎnzhù tíshēng wǒmen xiàndài sǎnwén xiězuò zhōng de yǔyán jiézòugǎn yǔ yīnyùnměi.’",
+                    "translation": "The master teacher analyzed: 'Mastering tone patterns and antithesis unlocks Tang/Song poetry and elevates rhythm in modern prose.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 古典诗词意境鉴赏 (Classical Poetry in Modern Prose)"
+                "Prosody Rules: 平仄相间 (Tone Balance), 偶句押韵 (Rhyme Scheme), 颔颈对仗 (Middle Couplet Parallelism), 依词定牌 (Ci Tune Patterns)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Regulated verse (格律诗/近体诗) codified in the Tang Dynasty demands strict tonal balance where 'level' (平) and 'oblique' (仄) tones create rhythmic harmonies."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「古典诗词意境鉴赏 (Classical Poetry in Modern Prose)」在第1小节中的标准汉语语法规范？",
+                    "prompt": "中国古典律诗中，要求字数相等、词性相同、结构一致且平仄相对的修辞修饰手法被称为：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (30.1.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (30.1.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (30.1.3)。"
+                        "自由分段",
+                        "对仗 (Parallel Antithesis)",
+                        "标点省略"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "对仗 (Parallel Antithesis) requires identical syntactic structure, corresponding word classes, and opposing tone patterns."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「古典诗词格律在现代散文的化用 (Classical Poetry Prosody)」语用情境与完整句式的选项（练习 1）：",
+                    "prompt": "依照特定的曲调音律填写歌词的中国古代诗歌体裁宋词中，决定词作句数、字数和平仄格律的曲调名称被称为：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (30.1.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (30.1.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (30.1.3)。"
+                        "词牌名 (Ci Tune Title)",
+                        "出版社名",
+                        "条形码"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "词牌名 (Ci Tune Title) dictates the metrical pattern, rhyme scheme, and line lengths of Ci lyric poetry."
                 }
             ]
         },
@@ -14702,85 +14708,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「古典诗词意境鉴赏 (Classical Poetry in Modern Prose)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 30-1）？",
+                    "prompt": "关于中国古典诗词平仄声律、对仗与格律规范，下列哪一项表述完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (30.1.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (30.1.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (30.1.3)。"
+                        "古典格律诗讲求平仄交替抑扬、偶句押韵以及颔联和颈联的工整对仗，展现了汉语独特的音韵与结构美学 (Level/oblique tone balance, rhyming, and antithetical couplets in regulated verse)",
+                        "律诗写作没有任何声调与押韵要求",
+                        "现代汉语完全无法欣赏古典格律"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "Accurately details the metrical principles of tone patterns (平仄), rhyming, and antithetical couplets (对仗)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («诗词_30_1»):",
+                    "prompt": "Type the 2-character Hanzi term for 'level and oblique tone patterns' (平仄):",
                     "acceptedAnswers": [
-                        "诗词_30_1"
+                        "平仄",
+                        "pingze",
+                        "píngzè",
+                        "Píngzè",
+                        "Pingze"
                     ],
-                    "explanation": "The target keyword was: 【诗词_30_1】"
+                    "explanation": "平仄 (píng zè) means 'level and oblique tones / metrical tone patterns'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u30-l2": {
         "id": "zh-u30-l2",
-        "subject": "mandarin",
-        "unit": 30,
-        "lessonNumber": 2,
-        "title": "古典诗词格律在现代散文的化用 (Classical Poetry Prosody) (Part 2)",
+        "unit": "zh-u30",
         "level": "C1",
-        "objective": "Comprehensive mastery of 古典诗词意境鉴赏 (Classical Poetry in Modern Prose).",
+        "objective": "Master aesthetic concepts of traditional poetic imagery, void and substance, and atmospheric mood (意象 poetic imagery, 意境 artistic mood/realm, 虚实相生 interplay of void and substance / virtual and real, 情景交融 blending of emotion and scenery, 留白 aesthetic of white space).",
+        "prerequisites": [
+            "zh-u30-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u30-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「古典诗词格律在现代散文的化用 (Classical Poetry Prosody)」（第2部分）的核心句法结构与古典诗词意境鉴赏 (Classical Poetry in Modern Prose)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "中国美学崇尚**「一切景语皆情语」**，追求**「言有尽而意无穷」**的深远意境！\n\n1. 核心美学范畴 (Core Aesthetic Categories):\n- **意象 (yìxiàng, Imagery)**：熔铸了主观情感的客观物象（如「孤舟」「落叶」「残月」「芭蕉」「松竹」）。\n- **意境 (yìjìng, Artistic Realm/Mood)**：情与景、心与物在艺术创造中高度交融所呈现出的审美境界。\n- **虚实相生 (Interplay of Void and Solid)**：实写眼前之景，虚写回忆、联想或未来期许，虚实互补。\n\n2. 留白美学与韵外之致 (Aesthetic of Negative Space):\n- 不把话说满，给读者留下无限遐想与情感回味的艺术空间。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (30.2.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "著名文学评论家在美学著作中写道：‘王维的诗作“大漠孤烟直，长河落日圆”将雄浑开阔的塞外风光化为经典意象，实现了诗中有画、情景交融的至高境界！’",
+                    "reading": "Zhùmíng wénxué pínglùnjiā zài měixué zhùzuò zhōng xiě dào: ‘Wáng Wéi de shīzuò “Dàmò gūyān zhí, chánghé luòrì yuán” jiāng xiónghún kāikuò de sàiwài fēngguāng huà wéi jīngdiǎn yìxiàng, shíxiàn le shī zhōng yǒu huà, qíngjǐng-jiāoróng de zhìgāo jìngjiè!’",
+                    "translation": "The critic wrote: 'Wang Wei's \"A lone smoke rises straight in desert wide; the setting sun round over long river\" transforms frontier landscapes into timeless imagery, achieving poetry within painting and harmony of feeling and scene!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (30.2.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫在散文《江南烟雨》中化用传统意象：‘青石板路上的点点青苔与巷口撑着油纸伞的背影，在虚实相生之间勾勒出一幅淡雅悠远的江南水墨画卷。’",
+                    "reading": "Dàwèi zài sǎnwén «Jiāngnán Yānyǔ» zhōng huàyòng chuántǒng yìxiàng: ‘Qīngshíbǎn lù shang de diǎndiǎn qīngtái yǔ xiàngkǒu chēng zhe yóuzhǐsǎn de bèiyǐng, zài xūshí-xiāngshēng zhījiān gōulè chū yì fú dànyǎ yōuyuǎn de Jiāngnán shuǐmò huàjuàn.’",
+                    "translation": "David wrote: 'Moss on cobblestones and the silhouette of an oil-paper umbrella sketch an ink painting through the interplay of void and substance.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (30.2.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "散文家讲座中指出：‘中国古典美学的最高妙处往往在于“留白”，文字止步之处，正是意境与哲思无限延伸的开端。’",
+                    "reading": "Sǎnwénjiā jiǎngzuò zhōng zhǐchū: ‘Zhōngguó gǔdiǎn měixué de zuì gāo miàochù wǎngwǎng zàiyú “liúbái”, wénzì zhǐbù zhī chù, zhèngshì yìjìng yǔ zhésī wúxiàn yánshēn de kāiduān.’",
+                    "translation": "The essayist remarked: 'The subtle brilliance of Chinese aesthetics lies in \"white space\"; where words cease, transcendent mood and philosophy begin.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 古典诗词意境鉴赏 (Classical Poetry in Modern Prose)"
+                "Aesthetic Triad: 意象寄情 (Imagery), 情景交融 (Emotion in Scenery), 虚实相生 (Void & Substance), 妙在留白 (Subtle White Space)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "The aesthetic ideal «一切景语皆情语» (all scene descriptions are expressions of emotion) was formulated by Qing scholar Wang Guowei in his seminal Poetic Remarks in the Human World (人间词话)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「古典诗词意境鉴赏 (Classical Poetry in Modern Prose)」在第2小节中的标准汉语语法规范？",
+                    "prompt": "融入了创作者主观思想情感与审美意趣的客观物象（如落日、孤舟、明月、寒梅）在文学鉴赏中被称为：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (30.2.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (30.2.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (30.2.3)。"
+                        "说明书",
+                        "意象 (Poetic Imagery)",
+                        "统计图"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "意象 (Poetic Imagery) represents objective objects infused with subjective human emotion."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「古典诗词格律在现代散文的化用 (Classical Poetry Prosody)」语用情境与完整句式的选项（练习 2）：",
+                    "prompt": "艺术创作中通过实体描摹与空灵想象相互映衬、给读者留下广阔审美想象空间的传统美学法则被称为：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (30.2.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (30.2.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (30.2.3)。"
+                        "虚实相生 (Interplay of void and substance / Virtual and actual)",
+                        "平铺直叙",
+                        "全景曝光"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "虚实相生 creates artistic resonance through the complementary interplay of visible details and imaginative space."
                 }
             ]
         },
@@ -14788,85 +14805,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「古典诗词意境鉴赏 (Classical Poetry in Modern Prose)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 30-2）？",
+                    "prompt": "关于中国古典诗词与散文创作中「意境」与「情景交融」的审美特征，下列哪一项表述完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (30.2.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (30.2.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (30.2.3)。"
+                        "古代诗歌只描写纯客观物理数据",
+                        "意境是主观情思与客观物象高度交融所产生的审美境界，借助虚实相生与留白美学达到言有尽而意无穷 (Artistic realm where emotion and scene fuse, using void/substance and white space for boundless resonance)",
+                        "中国文学反对任何含蓄与留白"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "Accurately captures the essence of artistic mood (意境), emotion-scene unity (情景交融), and the aesthetic of void and substance (虚实相生)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («诗词_30_2»):",
+                    "prompt": "Type the 2-character Hanzi term for 'poetic imagery' (意象):",
                     "acceptedAnswers": [
-                        "诗词_30_2"
+                        "意象",
+                        "yixiang",
+                        "yìxiàng",
+                        "Yìxiàng",
+                        "Yixiang"
                     ],
-                    "explanation": "The target keyword was: 【诗词_30_2】"
+                    "explanation": "意象 (yì xiàng) means 'poetic imagery'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u30-l3": {
         "id": "zh-u30-l3",
-        "subject": "mandarin",
-        "unit": 30,
-        "lessonNumber": 3,
-        "title": "古典诗词格律在现代散文的化用 (Classical Poetry Prosody) (Part 3)",
+        "unit": "zh-u30",
         "level": "C1",
-        "objective": "Comprehensive mastery of 古典诗词意境鉴赏 (Classical Poetry in Modern Prose).",
+        "objective": "Master the technique of weaving classical literary allusions and quotes into modern analytical and reflective prose (用典 classical allusions, 典故化用 transforming historical allusions, 暗引 implicit quotation, 点化 transformation of classical idioms, 意蕴深远 profound resonance).",
+        "prerequisites": [
+            "zh-u30-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u30-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「古典诗词格律在现代散文的化用 (Classical Poetry Prosody)」（第3部分）的核心句法结构与古典诗词意境鉴赏 (Classical Poetry in Modern Prose)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "散文写作中的**「用典（Classical Allusion）」与「古为今用」**，能够使文字意蕴典雅、思接千载！\n\n1. 用典的艺术境界 (Art of Allusion & Adaptation):\n- **明引 (Explicit Quotation)**：直接引用经典诗句，借古人之声抒发当下感怀。\n- **暗引与化用 (Implicit Allusion & Transformation)**：将古诗词的词句、意象融入现代白话句式之中，不落斧凿痕迹（如将「海纳百川，有容乃大」点化为包容并蓄的城市品格）。\n- **点铁成金**：借用典故旧题材赋予当代新内涵。\n\n2. 典故化用句式示范 (Modern Prose Integration):\n- 「踏着岁月的斑驳古道，我们仿佛看见了当年苏子赤壁之下『泛舟游于赤壁之下』的浩荡豁达……」\n- 「面对瞬息万变的全球风云，我们更需怀有『乱云飞渡仍从容』的战略定力。」",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (30.3.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "知名散文大家在文学创作随笔中分享：‘现代散文妙在古今交融，巧妙地将《离骚》《庄子》与唐诗宋词的典故不着痕迹地点化入文，文章便自有一股沉静典雅的书卷气与历史厚重感！’",
+                    "reading": "Zhīmíng sǎnwén dàjiā zài wénxué chuàngzuò suíbǐ zhōng fēnxiǎng: ‘Xiàndài sǎnwén miào zài gǔjīn-jiāoróng, qiǎomiào de jiāng «Lí Sāo» «Zhuāngzǐ» yǔ Tángshī Sòngcí de diǎngù bù zhe hénjì de diǎnhuà rù wén, wénzhāng biàn zì yǒu yì gǔ chénjìng diǎnyǎ de shūjuànqì yǔ lìshǐ hòuzhònggǎn!’",
+                    "translation": "The master essayist shared: 'Modern prose shines by fusing ancient and modern, seamlessly transforming allusions from Li Sao, Zhuangzi, and Tang/Song poetry for elegant depth!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (30.3.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫在散文集序言中写道：‘登临泰山之巅，俯瞰茫茫云海，方才真正顿悟杜少陵“会当凌绝顶，一览众山小”的博大胸襟与生命豪情。’",
+                    "reading": "Dàwèi zài sǎnwénjí xùyán zhōng xiě dào: ‘Dēnglín Tàishān zhī diān, fǔkàn mángmáng yúnhǎi, fāng cái zhēnzhèng dùnwù Dù Shàolíng “Huì dāng líng juédǐng, yìlǎn zhòngshān xiǎo” de bódà xiōngjīn yǔ shēngmìng háoqíng!’",
+                    "translation": "David wrote in his preface: 'Standing on Mount Tai gazing at clouds, I truly comprehended Du Fu's grand vision in \"I must ascend to the summit to see all mountains small\".'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (30.3.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "文艺社论评论员写道：‘中华优秀传统文化是民族精神的根与魂，在当代叙事中化用古典诗词典故，实现了传统文脉与时代精神的守正创新。’",
+                    "reading": "Wényì shèlùn pínglùnyuán xiě dào: ‘Zhōnghuá yōuxiù chuántǒng wénhuà shì mínzú jīngshén de gēn yǔ hún, zài dāngdài xùshì zhōng huàyòng gǔdiǎn shīcí diǎngù, shíxiàn le chuántǒng wénmài yǔ shídài jīngshén de shǒuzhèng-chuàngxīn.’",
+                    "translation": "The commentator wrote: 'Transforming classical poetry allusions in modern narratives achieves heritage preservation and innovative vitality.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 古典诗词意境鉴赏 (Classical Poetry in Modern Prose)"
+                "Allusion Mastery: 明引借声 (Direct Quotes), 暗引化用 (Seamless Blending), 意蕴深远 (Historical Resonance), 守正创新 (Modern Vitality)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "In Chinese literati tradition, «典故» (allusions) are shorthand references to ancient history, myths, and literature that enrich modern texts with layers of philosophical and emotional nuance."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「古典诗词意境鉴赏 (Classical Poetry in Modern Prose)」在第3小节中的标准汉语语法规范？",
+                    "prompt": "在文学写作中，引用古代神话、历史故事或经典诗句来寄托主旨、丰富文意、增强文章底蕴的修辞手法被称为：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (30.3.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (30.3.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (30.3.3)。"
+                        "随意杜撰",
+                        "用典 (Use of classical allusions)",
+                        "机械重复"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "用典 (Use of classical allusions) enriches prose with historical depth and literary heritage."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「古典诗词格律在现代散文的化用 (Classical Poetry Prosody)」语用情境与完整句式的选项（练习 3）：",
+                    "prompt": "将古代诗词名句的精髓与核心意蕴自然融入现代白话文语境而不生硬死板的写作技巧通常被称为：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (30.3.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (30.3.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (30.3.3)。"
+                        "典故化用 / 点化 (Adaptation & seamless transformation of allusions)",
+                        "生搬硬套",
+                        "断章取义"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "典故化用 seamlessly weaves classical echoes into contemporary prose syntax."
                 }
             ]
         },
@@ -14874,85 +14902,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「古典诗词意境鉴赏 (Classical Poetry in Modern Prose)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 30-3）？",
+                    "prompt": "关于现代散文中化用古典诗词与文学典故的作用，下列哪一项表述完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (30.3.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (30.3.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (30.3.3)。"
+                        "散文绝不能使用任何中国古代文学典故",
+                        "现代散文必须通篇全部用文言文书写",
+                        "巧妙化用古代诗词意象与历史典故，能够赋予现代文本深厚的历史厚重感、音韵美与含蓄博大的审美意蕴 (Endows texts with historical depth, rhythmic elegance, and expansive nuance)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "Accurately articulates the literary value of integrating classical Chinese allusions into modern prose."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («诗词_30_3»):",
+                    "prompt": "Type the 2-character Hanzi term for 'classical allusion / historical allusion' (典故):",
                     "acceptedAnswers": [
-                        "诗词_30_3"
+                        "典故",
+                        "diangu",
+                        "diǎngù",
+                        "Diǎngù",
+                        "Diangu"
                     ],
-                    "explanation": "The target keyword was: 【诗词_30_3】"
+                    "explanation": "典故 (diǎn gù) means 'classical/literary allusion'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u30-l4": {
         "id": "zh-u30-l4",
-        "subject": "mandarin",
-        "unit": 30,
-        "lessonNumber": 4,
-        "title": "古典诗词格律在现代散文的化用 (Classical Poetry Prosody) (Part 4)",
+        "unit": "zh-u30",
         "level": "C1",
-        "objective": "Comprehensive mastery of 古典诗词意境鉴赏 (Classical Poetry in Modern Prose).",
+        "objective": "Master the fusion of Classical and Vernacular Chinese syntax (文白相间 blending classical and vernacular styles, 骈散结合 combining symmetrical antithetical couplets with free prose, 叠字 reduplications, 句式错落 syntactic rhythm, 节奏感 cadence).",
+        "prerequisites": [
+            "zh-u30-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u30-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「古典诗词格律在现代散文的化用 (Classical Poetry Prosody)」（第4部分）的核心句法结构与古典诗词意境鉴赏 (Classical Poetry in Modern Prose)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "现代汉语文学大师（如鲁迅、朱自清、汪曾祺、余光中）的散文经典，皆臻于**「文白相间、骈散结合、长短错落」**之化境！\n\n1. 文白相间与句法节奏美学 (Syntax & Rhythm Aesthetics):\n- **文白相间 (Blending Classical & Vernacular)**：在现代白话文框架中精当嵌入文言虚词、四字格成语与古典句式，使语言既通俗晓畅又典雅凝练。\n- **骈散结合 (Parallel Couplets & Free Flow)**：将对称工整的四六句（骈句）与自由流动的散句交织使用，形成抑扬顿挫的阅读声浪。\n- **叠字音韵**：如「清清爽爽」「郁郁葱葱」「寻寻觅觅」，增强音乐感与情感渲染力。\n\n2. 经典示范 (Exemplary Modern Prose Syntax):\n- 「那满山的青翠，或浓或淡，在微风中摇曳生姿；忽而斜风细雨，忽而霁月光风，令人心旷神怡。」",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (30.4.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "当代著名散文家在高校创意写作课上讲授语言炼字：‘余光中先生的散文之所以极富音律感，就在于他将中国古典文学的四字骈句与现代散文的长句完美熔于一炉，做到了“骈散结合，抑扬顿挫”！’",
+                    "reading": "Dāngdài zhùmíng sǎnwénjiā zài gāoxiào chuàngyì xiězuò kè shang jiǎngshòu yǔyán liànzì: ‘Yú Guāngzhōng xiānsheng de sǎnwén zhī suǒyǐ jí fù yīnlǜgǎn, jiù zàiyú tā jiāng Zhōngguó gǔdiǎn wénxué de sì-zì piánjù yǔ xiàndài sǎnwén de chángjù wánměi róng yú yì lú, zuòdào le “pián-sǎn jiéhé, yìyáng-dùncuò”!’",
+                    "translation": "The master essayist lectured: 'Yu Guangzhong's prose resonates with music because he fused classical four-character parallel couplets with modern long sentences seamlessly!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (30.4.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫在散文名篇分析作业中指出：‘朱自清先生在《荷塘月色》中大量运用“曲曲折折”“田田”“脉脉”等叠字，既绘出了月下荷塘的朦胧意境，又创造了回环往复的音乐节奏。’",
+                    "reading": "Dàwèi zài sǎnwén míngpiān fēnxī zuòyè zhōng zhǐchū: ‘Zhū Zìqīng xiānsheng zài «Hétáng Yuèsè» zhōng dàliàng yùnyòng “qūqū-zhézhé”“tiántián”“mòmò” děng diézì, jì huìchū le yuèxià hétáng de ménglóng yìjìng, yòu chuàngzào le huíhuán-wǎngfù de yīnyuè jiézòu.’",
+                    "translation": "David analyzed: 'Zhu Ziqing used reduplications in Moonlight Over the Lotus Pond, evoking hazy beauty and hypnotic musical cadence.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (30.4.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "文学评论家点评当代美文：‘文白相间不是简单生硬的古文堆砌，而是以深厚的古文功底化为现代白话的骨骼与神韵，使行文如行云流水般自然畅达。’",
+                    "reading": "Wénxué pínglùnjiā diǎnpíng dāngdài měiwén: ‘Wén-bái xiāngjiàn bú shì jiǎndān shēngyìng de gǔwén duīqì, ér shì yǐ shēnhòu de gǔwén gōngdǐ huà wéi xiàndài báihuà de gǔgé yǔ shényùn, shǐ xíngwén rú xíngyún-liúshuǐ bān zìrán chàngdá.’",
+                    "translation": "The critic reviewed: 'Blending classical and vernacular is not rigid archaic stacking, but infusing classical bones into modern vernaclar flow.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 古典诗词意境鉴赏 (Classical Poetry in Modern Prose)"
+                "Prose Rhythm: 文白相间 (Classical-Vernacular), 骈散结合 (Symmetry & Flow), 叠字生韵 (Musical Reduplication), 行云流水 (Effortless Cadence)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Modern Chinese prose (现代散文) since the May Fourth Movement achieved its stylistic apex when master writers preserved the rhythmic conciseness of Classical Chinese within vernacular syntax."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「古典诗词意境鉴赏 (Classical Poetry in Modern Prose)」在第4小节中的标准汉语语法规范？",
+                    "prompt": "在现代散文写作中，将对称严整的骈偶句式与自由灵活的散句有机交替结合的修辞表现手法被称为：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (30.4.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (30.4.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (30.4.3)。"
+                        "死记硬背",
+                        "骈散结合 (Combining parallel couplets and loose prose)",
+                        "长篇大论"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "骈散结合 (Combining parallel couplets and loose prose) produces rich cadence and rhythmic variety."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「古典诗词格律在现代散文的化用 (Classical Poetry Prosody)」语用情境与完整句式的选项（练习 4）：",
+                    "prompt": "在白话文叙述中精当融合古典文言词汇、四字成语与经典句式，使语言既典雅凝练又生动流畅的文体风格被称为：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (30.4.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (30.4.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (30.4.3)。"
+                        "文白相间 (Blending classical and vernacular styles)",
+                        "纯口语大白话",
+                        "火星文"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "文白相间 (Blending classical and vernacular) gives modern writing profound literary texture."
                 }
             ]
         },
@@ -14960,85 +14999,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「古典诗词意境鉴赏 (Classical Poetry in Modern Prose)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 30-4）？",
+                    "prompt": "关于现代文学散文中的「文白相间」与「骈散结合」美学价值，下列哪一项表述完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (30.4.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (30.4.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (30.4.3)。"
+                        "现代汉语完全不能包含任何四个字的成语",
+                        "散文写作句式必须完全机械对称如同算术表格",
+                        "文白相间与骈散结合通过句式长短错落与文言词句的提炼，形成了汉语散文独特的抑扬顿挫之美与典雅气韵 (Unique rhythmic cadence and elegant texture through varied sentence lengths and classical refinement)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "Accurately explains how combining classical phrases, varied sentence lengths, and parallel couplets creates aesthetic cadence."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («诗词_30_4»):",
+                    "prompt": "Type the 4-character Hanzi phrase meaning 'combining parallel couplets and loose prose' (骈散结合):",
                     "acceptedAnswers": [
-                        "诗词_30_4"
+                        "骈散结合",
+                        "piansanjiehe",
+                        "piánsǎnjiéhé",
+                        "Piánsǎnjiéhé",
+                        "Piansanjiehe",
+                        "駢散結合"
                     ],
-                    "explanation": "The target keyword was: 【诗词_30_4】"
+                    "explanation": "骈散结合 (pián sǎn jié hé) means 'combining parallel couplets and loose prose'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u30-l5": {
         "id": "zh-u30-l5",
-        "subject": "mandarin",
-        "unit": 30,
-        "lessonNumber": 5,
-        "title": "古典诗词格律在现代散文的化用 (Classical Poetry Prosody) (Part 5)",
+        "unit": "zh-u30",
         "level": "C1",
-        "objective": "Comprehensive mastery of 古典诗词意境鉴赏 (Classical Poetry in Modern Prose).",
+        "objective": "Synthesize all classical prosody, imagery creation, allusion adaptation, and classical-vernacular syntax into high-level cultural speeches, literary criticism, and creative prose.",
+        "prerequisites": [
+            "zh-u30-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u30-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「古典诗词格律在现代散文的化用 (Classical Poetry Prosody)」（第5部分）的核心句法结构与古典诗词意境鉴赏 (Classical Poetry in Modern Prose)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在本课中，我们将系统整合第三十单元的所有诗词格律、虚实意境、典故化用与文白骈散美学，在中华文化传承与全球文学对话高峰论坛中进行全景论述与高阶表达！\n\n1. 古典文学在现代叙事中的化用矩阵 (Master Classical-Modern Synthesis Matrix):\n| 美学维度 | 核心表现手法与结构规则 | 文学境界与审美体验 |\n| :--- | :--- | :--- |\n| **格律声律** | 平仄相谐 / 偶句押韵 / 词牌格调 | 赋语言以抑扬顿挫的音乐旋律，增强朗读与倾听的感染力 |\n| **意象空间** | 孤舟落日 / 虚实相生 / 留白艺术 | 突破物理物象限制，以有限景物构建言有尽而意无穷的深远意境 |\n| **用典艺术** | 明引直抒 / 暗引化用 / 借古喻今 | 沟通古今精神世界，赋予现代文本深厚的历史纵深与文人风骨 |\n| **句法风神** | 文白相间 / 骈散结合 / 叠字回环 | 刚柔并济、长短相间，使现代汉语散文兼具白话生动与古文凝练 |\n| **文脉传承** | 守正创新 / 创造性转化与创新性发展 | 让千年诗心在当代世界文学百花园中绽放璀璨光芒 |\n\n2. 第三十单元实战交际演练 (Unit 30 Global Literary & Heritage Keynote):\n- 国际华文文学大会主旨演讲与古典文脉现代转化高阶研讨。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (30.5.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "中国作家协会主席在国际华文文学大会主旨演讲中动情说道：‘五千年中华文脉绵延不绝，正是因为一代代作家不断从唐诗宋词与楚辞汉赋中汲取精神养分，在文白相间与意象开掘中书写出具有世界眼光与中国气派的当代史诗！’",
+                    "reading": "Zhōngguó Zuòjiā Xiéhuì zhǔxí zài guójì Huáwén wénxué dàhuì zhǔzhǐ yǎnjiǎng zhōng dòngqíng shuō dào: ‘Wǔqiān nián Zhōnghuá wénmài miányán-bùjué, zhèng shì yīnwèi yídàidài zuòjiā bùduàn cóng Tángshī Sòngcí yǔ Chǔcí Hànfù zhōng jíqǔ jīngshén yǎngfèn, zài wén-bái xiāngjiàn yǔ yìxiàng kāijué zhōng shūxiě chū jùyǒu shìjiè yǎnguāng yǔ Zhōngguó qìpài de dāngdài shǐshī!’",
+                    "translation": "The Writers Association President declared: 'Our 5,000-year literary heritage endures because writers draw sustenance from Tang/Song poetry, creating contemporary epics with global vision and Chinese character!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (30.5.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫在中华文化国际传播论坛上分享感悟：‘从“明月松间照”的宁静禅意，到“大江东去”的壮志豪情，古典诗词不仅是汉语言的审美王冠，更是全人类理解人与自然、人与自我精神家园的心灵桥梁！’",
+                    "reading": "Dàwèi zài Zhōnghuá wénhuà guójì chuánbō lùntán shang fēnxiǎng gǎnwù: ‘Cóng “Míngyuè sōngjiān zhào” de níngjìng chányì, dào “Dàjiāng dōng qù” de zhuàngzhì háoqíng, gǔdiǎn shīcí bùjǐn shì Hànyǔyán de shěnměi wángguān, gèng shì quán rénlèi lǐjiě rén yǔ zìrán, rén yǔ zìwǒ jīngshén jiāyuán de xīnlíng qiáoliáng!’",
+                    "translation": "David shared: 'From tranquil Zen of moonlit pines to roaring Yangtze torrents, classical poetry is the aesthetic crown of Chinese and a bridge to humanity's spiritual home!'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (30.5.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "文学评论名家在年度文学奖颁奖典礼上总结：‘最好的散文永远流淌着古典诗词的清泉，以字句为舟楫，以意境为烟波，带领读者在古今对话中抵达心灵的澄澈与开阔。’",
+                    "reading": "Wénxué pínglùn míngjiā zài niándù wénxuéjiǎng bānjiǎng diǎnlǐ shang zǒngjié: ‘Zuì hǎo de sǎnwén yǒngyuǎn liútǎng zhe gǔdiǎn shīcí de qīngquán, yǐ zìjù wéi zhōují, yǐ yìjìng wéi yānbō, dàilǐng dúzhě zài gǔjīn duìhuà zhōng dǐdá xīnlíng de chéngchè yǔ kāikuò.’",
+                    "translation": "The critic concluded: 'Greatest prose flows with classical poetry's stream, navigating readers through ancient-modern dialogues toward spiritual clarity and grandeur.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 古典诗词意境鉴赏 (Classical Poetry in Modern Prose)"
+                "Literary Grandeur: 诗词格律美 (Prosody), 虚实意境深 (Atmosphere), 典故化古今 (Allusion), 骈散成华章 (Syntax Flow) = Timeless Heritage (中华文脉)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "The guiding cultural policy of «推动中华优秀传统文化创造性转化、创新性发展» (Creative Transformation and Innovative Development of Fine Traditional Culture - 两创方针) guides contemporary Chinese arts and humanities."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「古典诗词意境鉴赏 (Classical Poetry in Modern Prose)」在第5小节中的标准汉语语法规范？",
+                    "prompt": "强调在传承中华优秀传统文化精髓的同时、立足当下时代语境进行革新与发展的当代文化指导方针是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (30.5.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (30.5.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (30.5.3)。"
+                        "全盘复古",
+                        "创造性转化与创新性发展 (Creative transformation and innovative development)",
+                        "彻底否定传统"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "创造性转化与创新性发展 represents the core policy for revitalizing traditional heritage in contemporary society."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「古典诗词格律在现代散文的化用 (Classical Poetry Prosody)」语用情境与完整句式的选项（练习 5）：",
+                    "prompt": "中华民族数千年来代代相传、由经典典籍、诗词文学与哲学思想共同构成的文化命脉与精神谱系统称为：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (30.5.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (30.5.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (30.5.3)。"
+                        "中华文脉 (Chinese Literary & Cultural Lineage / Heritage)",
+                        "网络热梗",
+                        "商业广告"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "中华文脉 (Chinese literary/cultural lineage) embodies the unbroken civilizational thread of literature and thought."
                 }
             ]
         },
@@ -15046,24 +15097,30 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「古典诗词意境鉴赏 (Classical Poetry in Modern Prose)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 30-5）？",
+                    "prompt": "关于中国古典诗词意境鉴赏、格律化用与中华文脉在现代文学中的创新传承，下列哪一项总括完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (30.5.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (30.5.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (30.5.3)。"
+                        "中国古典诗词已经彻底过时毫无价值",
+                        "当代作家通过吸纳古典格律音韵、点化传统意象典故、并融汇文白相间与骈散结合的笔法，使中华文脉在现代文学创作中焕发出历久弥新的生命力 (Absorbing prosody, transforming imagery, and blending classical syntax revitalizes cultural lineage)",
+                        "现代写作只能用最简单的单音节词"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "Comprehensively summarizes the artistic values of classical Chinese prosody, imagery, allusions, and modern synthesis."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («诗词_30_5»):",
+                    "prompt": "Type the 4-character Hanzi phrase for 'Chinese literary/cultural lineage' (中华文脉):",
                     "acceptedAnswers": [
-                        "诗词_30_5"
+                        "中华文脉",
+                        "zhonghuawenmai",
+                        "zhōnghuáwénmài",
+                        "Zhōnghuáwénmài",
+                        "Zhonghuawenmai",
+                        "中華文脈"
                     ],
-                    "explanation": "The target keyword was: 【诗词_30_5】"
+                    "explanation": "中华文脉 (zhōnghuá wénmài) means 'Chinese cultural/literary lineage'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u31-l1": {
