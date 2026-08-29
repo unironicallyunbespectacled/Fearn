@@ -9696,63 +9696,69 @@
     },
     "am-u19-l1": {
         "id": "am-u19-l1",
-        "subject": "amharic",
-        "unit": 19,
-        "lessonNumber": 1,
-        "title": "ቅጽሎች እና ንፅፅር (Comparative & Superlative Forms) (Part 1)",
+        "unit": "am-u19",
         "level": "B2",
-        "objective": "Comprehensive mastery of ንፅፅር እና ቅጽሎች (Comparatives).",
+        "objective": "Construct comparative degree sentences in Amharic comparing entities using the prepositional marker «ከ-» (than) with auxiliary comparative verbs including «ይበልጣል» (is greater than), «ይሻላል» (is better than), and «ይልቅ» (rather than).",
+        "prerequisites": [
+            "am-u18-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u18-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ንፅፅር እና ቅጽሎች (Comparatives) - ደረጃ 1) ተማሪዎች ስለ ንፅፅር እና ቅጽሎች (Comparatives) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Comparative constructions in Amharic express relative degree, superiority, or preference by prefixing **ከ-** (Ke- — than / from) to the standard of comparison and using comparative verbs.\n\n1. Comparative Degree Syntactic Formations:\n- **ከ... ይበልጣል** (Ke... ybelet'al) — Is greater / more than:\n  - «**አዲስ አበባ ከደሴ ትበልጣለች።**» (Addis Ababa is bigger than Dessie.)\n- **ከ... ይሻላል** (Ke... yishalal) — Is better / preferable to:\n  - «**የዛሬው መንገድ ከዚያኛው ይሻላል።**» (Today's path is better than that one.)\n- **ከ... ይልቅ** (Ke... yiliq) — Rather than / Instead of:\n  - «**ከሻይ ይልቅ ቡና እመርጣለሁ።**» (I prefer coffee rather than tea.)\n\n2. Adverbial Comparison with «የበለጠ»:\n- «**የበለጠ ፈጣን**» (Faster / More rapid)\n- «**የበለጠ ውድ**» (More expensive)",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የንፅፅር እና ቅጽሎች (Comparatives) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (19.1.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "በአውሮፕላን መጓዝ በመኪና ከመጓዝ የበለጠ ፈጣን እና ምቹ ነው።",
+                    "reading": "Be'awiroplan megwaz bemekīna kemegwaz ybelet'e fet'an ina michu new.",
+                    "translation": "Traveling by airplane is faster and more comfortable than traveling by car."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (19.1.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የዛሬው የአየር ሁኔታ ከትናንቱ እጅግ ይሻላል።",
+                    "reading": "Yezarēw ye'ayer hunēta ketinantu ijig yishalal.",
+                    "translation": "Today's weather is far better than yesterday's."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (19.1.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ከወሬ ይልቅ በተግባር መስራት የላቀ ውጤት ያስገኛል።",
+                    "reading": "Kewerē yiliq betegbar mesrat yelaqe wut'ēt yasgegnal.",
+                    "translation": "Working practically rather than mere talk yields superior results."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ንፅፅር እና ቅጽሎች (Comparatives)"
+                "«ከ... ይበልጣል» = More than! «ከ... ይሻላል» = Better than! «ከ... ይልቅ» = Rather than!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "The Amharic proverb «ከመቶ ቃላት አንዲት ተግባር ትበልጣለች» (A single practical action is greater than a hundred words) emphasizes the cultural value placed on tangible action over rhetoric."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ንፅፅር እና ቅጽሎች (Comparatives)» አጠቃቀም በደረጃ 1 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«ከሻይ ይልቅ ቡና እወዳለሁ» ምን ማለት ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (19.1.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (19.1.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (19.1.3)።"
+                        "I like coffee rather than tea",
+                        "I dislike both tea and coffee",
+                        "Tea is expensive"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "«ከሻይ ይልቅ ቡና» expresses preference for coffee over tea."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ቅጽሎች እና ንፅፅር (Comparative & Superlative Forms)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 1)፡",
+                    "prompt": "«ይሻላል» የሚለው ቃል ምን ያመለክታል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (19.1.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (19.1.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (19.1.3)።"
+                        "It is worse",
+                        "It is better / preferable",
+                        "It is broken"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "ይሻላል (Yishalal) means 'it is better / preferable'."
                 }
             ]
         },
@@ -9760,85 +9766,94 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ንፅፅር እና ቅጽሎች (Comparatives)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 19-1)?",
+                    "prompt": "የትኛው ዓረፍተ ነገር ትክክለኛ የንፅፅር አወቃቀርን ያሳያል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (19.1.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (19.1.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (19.1.3)።"
+                        "አዲስ አበባ ከናዝሬት ትበልጣለች (Addis Ababa is larger than Nazret)",
+                        "እሱ ውሃ ጠጣ (He drank water)",
+                        "ልጁ ሮጠ (The boy ran)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "«ከ... ትበልጣለች» correctly constructs the comparative degree."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («የበለጠ_19_1»):",
+                    "prompt": "Type the Amharic comparative word for 'is better' in Fidel script (ይሻላል):",
                     "acceptedAnswers": [
-                        "የበለጠ_19_1"
+                        "ይሻላል",
+                        "yishalal",
+                        "Yishalal"
                     ],
-                    "explanation": "The target keyword was: 【የበለጠ_19_1】"
+                    "explanation": "ይሻላል (Yishalal) means 'is better / preferable'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u19-l2": {
         "id": "am-u19-l2",
-        "subject": "amharic",
-        "unit": 19,
-        "lessonNumber": 2,
-        "title": "ቅጽሎች እና ንፅፅር (Comparative & Superlative Forms) (Part 2)",
+        "unit": "am-u19",
         "level": "B2",
-        "objective": "Comprehensive mastery of ንፅፅር እና ቅጽሎች (Comparatives).",
+        "objective": "Express equative degree (as... as) and similarity in Amharic using the comparative proclitic «እንደ-» (like/as), «ልክ እንደ...» (just like), and quantifier phrases with «ያህል» (as much as).",
+        "prerequisites": [
+            "am-u19-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u19-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ንፅፅር እና ቅጽሎች (Comparatives) - ደረጃ 2) ተማሪዎች ስለ ንፅፅር እና ቅጽሎች (Comparatives) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Equative comparisons express equality, resemblance, or similarity between two nouns in Amharic using **እንደ-** (Inde- — like / as).\n\n1. Equative Structures:\n- **እንደ...** (Inde...) — As... as / Like:\n  - «**ልጁ እንደ አባቱ ታታሪ ነው።**» (The boy is as diligent as his father.)\n- **ልክ እንደ...** (Likk inde...) — Exactly like / Just as:\n  - «**ልክ እንደ ንስር ፈጣን ነው**» (He is fast just like an eagle.)\n- **እንደ... ያህል** (Inde... yahil) — As much as / To the degree of:\n  - «**እንደ እኔ ያህል ያውቃል።**» (He knows as much as I do.)\n\n2. The Quantitative Equative «እኩል» (Equal / Equally):\n- «**ሁለቱም እኩል ውጤት አገኙ።**» (Both obtained equal results.)",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የንፅፅር እና ቅጽሎች (Comparatives) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (19.2.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ታናሽ ወንድሜ ልክ እንደ ታላቅ ወንድሙ በሒሳብ ትምህርት ጎበዝ ነው።",
+                    "reading": "Tanash wondimē likk inde talaq wondimu behisab timihirt gobez new.",
+                    "translation": "My younger brother is clever in mathematics just like his older brother."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (19.2.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የእሷ ንግግር እንደ ማር የጣፈጠ እና ልብን የሚስብ ነበር።",
+                    "reading": "Ye'irswa nigiggir inde mar yet'afet'e ina libin yemīsib neber.",
+                    "translation": "Her speech was sweet as honey and captivated the heart."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (19.2.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "በዚህ ድርጅት ውስጥ ወንዶች እና ሴቶች እኩል ደመወዝ እና ክብር ያገኛሉ።",
+                    "reading": "Bezīh dirijit wust' wendoch ina sētoch ikkul demewez ina kibir yagegnalu.",
+                    "translation": "In this enterprise, men and women receive equal salary and dignity."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ንፅፅር እና ቅጽሎች (Comparatives)"
+                "«እንደ-» (Inde-) = Like/As! «ልክ እንደ» (Likk inde) = Exactly like!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "In traditional Ethiopian oratory and Qene poetry, equative similes draw richly on indigenous nature: «እንደ አንበሳ ጀግና» (valiant as a lion), «እንደ ንብ ታታሪ» (industrious as a bee)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ንፅፅር እና ቅጽሎች (Comparatives)» አጠቃቀም በደረጃ 2 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«ልክ እንደ ንስር ፈጣን» ምን ማለት ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (19.2.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (19.2.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (19.2.3)።"
+                        "Fast just like an eagle",
+                        "Slow as a turtle",
+                        "Heavy as a rock"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "«ልክ እንደ ንስር ፈጣን» means 'fast just like an eagle'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ቅጽሎች እና ንፅፅር (Comparative & Superlative Forms)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 2)፡",
+                    "prompt": "«እኩል» የሚለው ቃል ምን ያመለክታል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (19.2.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (19.2.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (19.2.3)።"
+                        "Different",
+                        "Equal / Identical in measure",
+                        "Opposite"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "እኩል (Ikkul) = equal / even."
                 }
             ]
         },
@@ -9846,85 +9861,94 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ንፅፅር እና ቅጽሎች (Comparatives)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 19-2)?",
+                    "prompt": "የትኛው ቃል 'As / Like' የሚለውን የእኩልነት መስተዋድድ ያሳያል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (19.2.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (19.2.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (19.2.3)።"
+                        "ስለ- (About)",
+                        "እንደ- (Inde- / Like, As)",
+                        "ከ- (From, Than)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "እንደ- (Inde-) is the equative proclitic meaning 'as / like'."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («የበለጠ_19_2»):",
+                    "prompt": "Type the Amharic prefix for 'like / as' in Fidel script (እንደ):",
                     "acceptedAnswers": [
-                        "የበለጠ_19_2"
+                        "እንደ",
+                        "inde",
+                        "Inde"
                     ],
-                    "explanation": "The target keyword was: 【የበለጠ_19_2】"
+                    "explanation": "እንደ (Inde) means 'like / as'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u19-l3": {
         "id": "am-u19-l3",
-        "subject": "amharic",
-        "unit": 19,
-        "lessonNumber": 3,
-        "title": "ቅጽሎች እና ንፅፅር (Comparative & Superlative Forms) (Part 3)",
+        "unit": "am-u19",
         "level": "B2",
-        "objective": "Comprehensive mastery of ንፅፅር እና ቅጽሎች (Comparatives).",
+        "objective": "Formulate the superlative degree (the most / best of all) in Amharic using «ከሁሉም በላይ» (above all), «ከሁሉ የበለጠ» (greater than all), and superlative descriptors like «ዋነኛ» (foremost/primary).",
+        "prerequisites": [
+            "am-u19-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u19-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ንፅፅር እና ቅጽሎች (Comparatives) - ደረጃ 3) ተማሪዎች ስለ ንፅፅር እና ቅጽሎች (Comparatives) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "The superlative degree (የላቀ ደረጃ) in Amharic is formed syntactically rather than through inflectional suffixes.\n\n1. Superlative Phrases:\n- **ከሁሉም በላይ** (Kehullum belay) — Above all / Most of all:\n  - «**ከሁሉም በላይ ሰላም ያስፈልገናል።**» (Above all, we need peace.)\n- **ከሁሉ የበለጠ / ከሁሉም የበለጠ** (Kehullum ybelet'e) — Greatest of all / The most:\n  - «**ከሁሉም የበለጠ ፈጣን**» (The fastest of all)\n- **ከሁሉ አስቀድሞ** (Kehullu asqedimo) — First and foremost\n- **ዋነኛ** (Wanegna) — Primary / Paramount / Foremost:\n  - «**ዋነኛው ምክንያት**» (The primary / foremost reason)",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የንፅፅር እና ቅጽሎች (Comparatives) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (19.3.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ራስ ዳሸን በኢትዮጵያ ውስጥ ከሚገኙ ተራሮች ሁሉ ከሁሉም ረጅሙ እና ከፍተኛው ነው።",
+                    "reading": "Ras Dashen be'Ityop'ya wust' kemīgegnu teraroch hullu kehullum rejjīmu ina kefitegnaw new.",
+                    "translation": "Ras Dashen is the tallest and highest of all mountains found in Ethiopia."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (19.3.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የጤና ጥበቃ ከሁሉ በላይ ለሰው ልጅ ህይወት ዋነኛው መሰረት ነው።",
+                    "reading": "Yet'ēna t'ibeqa kehullu belay lesew lij hīwot wanegnaw meseret new.",
+                    "translation": "Healthcare above all is the paramount foundation for human life."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (19.3.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "በውድድሩ ላይ ከሁሉም የበለጠ ፈጣን ሯጭ የወርቅ ሜዳሊያ አገኘ።",
+                    "reading": "Bewididiru lay kehullum ybelet'e fet'an rwach' yeworq mēdalīya agegne.",
+                    "translation": "The fastest runner of all in the competition won the gold medal."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ንፅፅር እና ቅጽሎች (Comparatives)"
+                "«ከሁሉም በላይ» = Above all! «ከሁሉም የበለጠ» = The utmost / Most!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Mount Ras Dashen (ራስ ዳሸን), situated in the dramatic Simien Mountains National Park, rises to 4,550 meters as Ethiopia's highest summit."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ንፅፅር እና ቅጽሎች (Comparatives)» አጠቃቀም በደረጃ 3 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«ከሁሉም የበለጠ» ምን አይነት የንፅፅር ደረጃን ይገልጻል?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (19.3.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (19.3.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (19.3.3)።"
+                        "Superlative degree (The most / Greatest of all)",
+                        "Weak negation",
+                        "Past tense"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "«ከሁሉም የበለጠ» expresses the superlative degree."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ቅጽሎች እና ንፅፅር (Comparative & Superlative Forms)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 3)፡",
+                    "prompt": "«ዋነኛ» የሚለው ቃል ምን ትርጉም አለው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (19.3.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (19.3.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (19.3.3)።"
+                        "Secondary",
+                        "Primary / Foremost / Chief",
+                        "Unimportant"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "ዋነኛ (Wanegna) = primary / foremost / chief."
                 }
             ]
         },
@@ -9932,85 +9956,95 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ንፅፅር እና ቅጽሎች (Comparatives)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 19-3)?",
+                    "prompt": "የላቀውን ደረጃ (Superlative) የሚገልጸው ሀረግ የትኛው ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (19.3.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (19.3.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (19.3.3)።"
+                        "ትንሽ (Small)",
+                        "ከሁሉ በላይ (Above all / The most)",
+                        "ትንሽ ያህል (A little bit)"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "explanation": "«ከሁሉ በላይ» marks the superlative degree."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («የበለጠ_19_3»):",
+                    "prompt": "Type the Amharic phrase for 'above all' in Fidel script (ከሁሉ በላይ):",
                     "acceptedAnswers": [
-                        "የበለጠ_19_3"
+                        "ከሁሉ በላይ",
+                        "kehulu belay",
+                        "Kehulu belay",
+                        "ከሁሉም በላይ"
                     ],
-                    "explanation": "The target keyword was: 【የበለጠ_19_3】"
+                    "explanation": "ከሁሉ በላይ (Kehulu belay) means 'above all / most of all'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u19-l4": {
         "id": "am-u19-l4",
-        "subject": "amharic",
-        "unit": 19,
-        "lessonNumber": 4,
-        "title": "ቅጽሎች እና ንፅፅር (Comparative & Superlative Forms) (Part 4)",
+        "unit": "am-u19",
         "level": "B2",
-        "objective": "Comprehensive mastery of ንፅፅር እና ቅጽሎች (Comparatives).",
+        "objective": "Apply polar dimensional and qualitative adjective pairings to make descriptive analytical contrasts in Amharic, including ረጅም-አጭር (tall-short), ሰፊ-ጠባብ (wide-narrow), ከባድ-ቀላል (heavy-light/difficult-easy), and ጥልቅ-ጥልቀት የሌለው (deep-shallow).",
+        "prerequisites": [
+            "am-u19-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u19-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ንፅፅር እና ቅጽሎች (Comparatives) - ደረጃ 4) ተማሪዎች ስለ ንፅፅር እና ቅጽሎች (Comparatives) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Analytical evaluations in Amharic rely on exact adjective antonym pairs (ተቃራኒ ቅጽሎች) across physical, spatial, and cognitive dimensions.\n\n1. Dimensional Antonym Pairs:\n- **ረጅም** (Rejjīm — Tall / Long) vs. **አጭር** (Ach'ir — Short)\n- **ሰፊ** (Sefī — Wide / Spacious) vs. **ጠባብ** (T'ebab — Narrow / Cramped)\n- **ከባድ** (Kebad — Heavy / Difficult) vs. **ቀላል** (Qelal — Light / Easy)\n- **ጥልቅ** (T'iliq — Deep / Profound) vs. **ጥልቀት የሌለው** (Shallow / Superficial)\n- **ውድ** (Widd — Costly / Expensive) vs. **ርካሽ** (Rikash — Inexpensive / Cheap)\n- **ጠንካራ** (T'enkara — Robust / Strong) vs. **ደካማ** (Dekama — Fragile / Weak)",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የንፅፅር እና ቅጽሎች (Comparatives) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (19.4.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "አዲሱ አውራ ጎዳና እጅግ ሰፊ ሲሆን የድሮው የውስጥ መንገድ ግን በጣም ጠባብ ነበር።",
+                    "reading": "Addīsu awra godana ijig sefī sīhon yedirrow yewust' menged gin bet'am t'ebab neber.",
+                    "translation": "The new highway is very wide, whereas the old inner road was very narrow."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (19.4.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የሒሳብ ፈተናው ከባድ መስሎን ነበር፣ ነገር ግን በደንብ ስላጠናን ቀላል ሆነልን።",
+                    "reading": "Yehisab fetenaw kebad meslon neber, neger gin bedenbi silat'enan qelal honelin.",
+                    "translation": "The math exam seemed difficult to us, but because we studied well, it became easy for us."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (19.4.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የአባይ ወንዝ ሸለቆ ጥልቅ ሲሆን በዙሪያው ያሉት ተራሮች ደግሞ እጅግ ረዣዥም ናቸው።",
+                    "reading": "Ye'Abay wenz sheleqo t'iliq sīhon bezurīyaw yalut teraroch degmo ijig rejajim nachew.",
+                    "translation": "The Blue Nile gorge is deep, while the mountains surrounding it are exceptionally tall."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ንፅፅር እና ቅጽሎች (Comparatives)"
+                "«ሰፊ» = Spacious! «ጠባብ» = Tight/Narrow! «ከባድ» = Heavy/Hard! «ቀላል» = Light/Easy!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Traditional Ethiopian proverbs and riddles (እንቆቅልሽ / Inqoqilish) frequently balance dual contrasting adjectives to impart moral lessons."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ንፅፅር እና ቅጽሎች (Comparatives)» አጠቃቀም በደረጃ 4 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "የ«ሰፊ» (Wide/Spacious) ተቃራኒ ቃል የትኛው ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (19.4.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (19.4.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (19.4.3)።"
+                        "ጠባብ (Narrow / Tight)",
+                        "ረጅም (Tall)",
+                        "ቀላል (Easy)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "የሰፊ ተቃራኒ ጠባብ (narrow) ነው።"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ቅጽሎች እና ንፅፅር (Comparative & Superlative Forms)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 4)፡",
+                    "prompt": "«ከባድ» የሚለው ቃል ምን ሁለት ትርጉሞች አሉት?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (19.4.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (19.4.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (19.4.3)።"
+                        "Short and tall",
+                        "Heavy (weight) and Difficult (task)",
+                        "Red and blue"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "ከባድ (Kebad) means both 'heavy' in mass and 'difficult' in difficulty."
                 }
             ]
         },
@@ -10018,85 +10052,94 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ንፅፅር እና ቅጽሎች (Comparatives)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 19-4)?",
+                    "prompt": "የ«ቀላል» (Easy / Light) ተቃራኒ ቃል ምንድን ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (19.4.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (19.4.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (19.4.3)።"
+                        "ርካሽ (Cheap)",
+                        "አጭር (Short)",
+                        "ከባድ (Heavy / Difficult)"
                     ],
                     "answerIndex": 2,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "explanation": "የቀላል ተቃራኒ ከባድ (heavy / difficult) ነው።"
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («የበለጠ_19_4»):",
+                    "prompt": "Type the Amharic word for 'wide / spacious' in Fidel script (ሰፊ):",
                     "acceptedAnswers": [
-                        "የበለጠ_19_4"
+                        "ሰፊ",
+                        "sefi",
+                        "Sefi"
                     ],
-                    "explanation": "The target keyword was: 【የበለጠ_19_4】"
+                    "explanation": "ሰፊ (Sefī) means 'wide / spacious'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u19-l5": {
         "id": "am-u19-l5",
-        "subject": "amharic",
-        "unit": 19,
-        "lessonNumber": 5,
-        "title": "ቅጽሎች እና ንፅፅር (Comparative & Superlative Forms) (Part 5)",
+        "unit": "am-u19",
         "level": "B2",
-        "objective": "Comprehensive mastery of ንፅፅር እና ቅጽሎች (Comparatives).",
+        "objective": "Synthesize comparative, equative, and superlative degrees, alongside polar antonym pairings, into an analytical evaluation essay comparing modern urban life with traditional rural living in Amharic.",
+        "prerequisites": [
+            "am-u19-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u19-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ንፅፅር እና ቅጽሎች (Comparatives) - ደረጃ 5) ተማሪዎች ስለ ንፅፅር እና ቅጽሎች (Comparatives) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "This review synthesizes comparative, equative, and superlative degrees, contrasting modern urban life (**የከተማ ኑሮ**) with regional rural living (**የገጠር ኑሮ**).\n\n1. Comparative Evaluation Structure:\n- **Access & Convenience:** «...ከገጠር ይልቅ ለስራ እና ለቴክኖሎጂ ምቹ...»\n- **Tranquility & Nature:** «...ከሁሉ የበለጠ ፀጥታ የሰፈነበት እና ሰላማዊ...»\n- **Balanced Assessment:** «...ጠንካራ እና ደካማ ጎኖች...»\n\n2. Key Evaluative Vocabulary:\n- **የአኗኗር ዘይቤ** (Ye'anwanwar zeybē) — Lifestyle\n- **ብክለት** (Biklet) — Pollution\n- **ፀጥታ** (Ts'et'ita) — Serenity / Quietude",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የንፅፅር እና ቅጽሎች (Comparatives) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (19.5.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "የከተማ ኑሮ ከገጠር ይልቅ ለስራ እና ለቴክኖሎጂ ምቹ ቢሆንም፣ የገጠር አኗኗር ግን ከሁሉ የበለጠ ፀጥታ የሰፈነበት እና ሰላማዊ ነው።",
+                    "reading": "Yeketema nuro keget'er yiliq lesira ina letēknolojī michu bīhonim, yeget'er anwanwar gin kehullu ybelet'e ts'et'ita yesefenebet ina selamawi new.",
+                    "translation": "Although city life is more convenient for work and technology than the countryside, rural living is the most tranquil and peaceful of all."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (19.5.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የገጠር ንጹህ አየር እና የተፈጥሮ ውበት ከከተማው የጭስ ብክለት እጅግ ይሻላል።",
+                    "reading": "Yeget'er nits'uh ayer ina yetefet'ro wubet keketemaw yech'is biklet ijig yishalal.",
+                    "translation": "The fresh rural air and natural beauty are far better than the city's smoke pollution."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (19.5.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ሁለቱም የአኗኗር ዘይቤዎች የራሳቸው የሆኑ ጠንካራ እና ደካማ ጎኖች አሏቸው።",
+                    "reading": "Huletum ye'anwanwar zeybēwochi yerasachew yehonu t'enkara ina dekama gonoch alwachew.",
+                    "translation": "Both lifestyles possess their own strong and weak aspects."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ንፅፅር እና ቅጽሎች (Comparatives)"
+                "Comparative mastery: ከ... ይበልጣል (more), ልክ እንደ (as...as), ከሁሉ በላይ (superlative)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Modern Ethiopian literature frequently explores the poignant dialogue between Addis Ababa's fast-paced metropolitan development and the timeless tranquility of rural highland agrarian life."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ንፅፅር እና ቅጽሎች (Comparatives)» አጠቃቀም በደረጃ 5 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "በንፅፅር ጽሑፍ ውስጥ የተለያዩ ሀሳቦችን ለማመዛዘን የትኛው አገላለጽ ይጠቅማል?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (19.5.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (19.5.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (19.5.3)።"
+                        "«ከ... ይልቅ / ከ... የበለጠ / ይሻላል» (Comparatives)",
+                        "«ደህና ሁን» (Goodbye)",
+                        "«ቁርስ በላሁ» (I ate breakfast)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "Comparative words enable analytical contrast in formal writing."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ቅጽሎች እና ንፅፅር (Comparative & Superlative Forms)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 5)፡",
+                    "prompt": "«የገጠር ኑሮ ከሁሉ የበለጠ ሰላማዊ ነው» ምን ያመለክታል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (19.5.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (19.5.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (19.5.3)።"
+                        "Rural life is chaotic",
+                        "Rural life is the most peaceful of all (Superlative)",
+                        "Rural life is expensive"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "«ከሁሉ የበለጠ ሰላማዊ» represents the superlative degree."
                 }
             ]
         },
@@ -10104,24 +10147,28 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ንፅፅር እና ቅጽሎች (Comparatives)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 19-5)?",
+                    "prompt": "የትኛው ዓረፍተ ነገር ሁለገብ ንፅፅርን በውል ያሳያል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (19.5.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (19.5.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (19.5.3)።"
+                        "እሱ ዛፍ አየ (He saw a tree)",
+                        "የከተማ ኑሮ ከገጠር ይልቅ ፈጣን ነው (City life is faster than rural life)",
+                        "ልጁ ተኛ (The child slept)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "«የከተማ ኑሮ ከገጠር ይልቅ ፈጣን ነው» demonstrates a complete comparative sentence."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («የበለጠ_19_5»):",
+                    "prompt": "Type the Amharic comparative word for 'more / greater' in Fidel script (የበለጠ):",
                     "acceptedAnswers": [
-                        "የበለጠ_19_5"
+                        "የበለጠ",
+                        "yebelete",
+                        "ybelet'e",
+                        "Yebelete"
                     ],
-                    "explanation": "The target keyword was: 【የበለጠ_19_5】"
+                    "explanation": "የበለጠ (Yebelet'e) means 'more / greater'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u20-l1": {
