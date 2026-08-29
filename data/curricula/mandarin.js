@@ -5348,63 +5348,69 @@
     },
     "zh-u11-l1": {
         "id": "zh-u11-l1",
-        "subject": "mandarin",
-        "unit": 11,
-        "lessonNumber": 1,
-        "title": "结果补语：看见、做完与找到 (Resultative Complements) (Part 1)",
-        "level": "B1",
-        "objective": "Comprehensive mastery of 结果补语系统 (Resultative Complements: 看见/做完).",
+        "unit": "zh-u11",
+        "level": "A2",
+        "objective": "Master the resultative complements 到 (dào) and 见 (jiàn) to express sensory perception (看到/看见, 听到/听见) and reaching/obtaining a goal through action (找到, 买到, 收到).",
+        "prerequisites": [
+            "zh-u10-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u10-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「结果补语：看见、做完与找到 (Resultative Complements)」（第1部分）的核心句法结构与结果补语系统 (Resultative Complements: 看见/做完)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "结果补语（Resultative Complement）直接附着在动词之后，表示该动作产生了某种**具体的结果或达成了预定目标**。其中「见」与「到」是表达感官知觉与目标实现的最核心结果补语。\n\n1. 感官知觉结果补语：「见」与「到」\n- **看 (look/try to see)** → **看见 / 看到 (see / perceive visually)**\n- **听 (listen/try to hear)** → **听见 / 听到 (hear / perceive auditorily)**\n- 辨析：单纯「看」和「听」只表示动作行为，不保证结果；加上「见/到」才表示感知结果已经达成！\n\n2. 目标达成结果补语：「到」\n- **找到 (zhǎodào)**：寻找到结果 (found it) *[找 = search; 找到 = found]*\n- **买到 (mǎidào)**：成功购买到 (managed to buy / got hold of)\n- **收到 (shōudào)**：成功接收到 (received e.g. letter/email)\n- **学到 (xuédào)**：学有所得 (learned / acquired knowledge)\n\n3. 核心句法公式：**动词 + 结果补语 + (了) + 宾语** (e.g., 我找到了我的手机)。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (11.1.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "他在图书馆找了半天，终于找到了那本珍贵的现代汉语文法参考书。",
+                    "reading": "Tā zài túshūguǎn zhǎo le bàntiān, zhōngyú zhǎodào le nà běn zhēnguì de xiàndài hànyǔ wénfǎ cānkǎoshū.",
+                    "translation": "He searched in the library for a long time and finally found that precious reference book on modern Chinese grammar."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (11.1.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "老师说话的声音非常洪亮清晰，坐在最后一排的同学也听得清清楚楚、全部听到了。",
+                    "reading": "Lǎoshī shuōhuà de shēngyīn fēicháng hóngliàng qīngxī, zuò zài zuìhòu yì pái de tóngxué yě tīng de qīngqīngchǔchǔ, quánbù tīngdào le.",
+                    "translation": "The teacher's voice was loud and clear; students sitting in the very last row also heard crystal clear and heard it all."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (11.1.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "今天早晨我刚打开电子邮箱，就收到了来自北京大学的录取通知书！",
+                    "reading": "Jīntiān zǎochén wǒ gāng dǎkāi diànzǐ yóuxiāng, jiù shōudào le láizì Běijīng Dàxué de lùqǔ tōngzhīshū!",
+                    "translation": "Just as I opened my email inbox this morning, I received the admission letter from Peking University!"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 结果补语系统 (Resultative Complements: 看见/做完)"
+                "Action vs. Result: 看 = Look, 看见 = See! 找 = Look for, 找到 = Found!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Receiving a university admission letter (录取通知书 lùqǔ tōngzhīshū) with «收到了» is celebrated as a major milestone across Chinese families."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「结果补语系统 (Resultative Complements: 看见/做完)」在第1小节中的标准汉语语法规范？",
+                    "prompt": "句子‘我找了手机一个小时，但是没找到’中，‘找’与‘找到’的区别在于：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (11.1.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (11.1.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (11.1.3)。"
+                        "‘找’是寻找的动作过程，‘找到’是动作达成的结果 (Action attempt vs. Result achieved)",
+                        "‘找’是名词，‘找到’是动词",
+                        "两者没有任何区别"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "找 is the action of searching; 找到 is the result of having found it."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「结果补语：看见、做完与找到 (Resultative Complements)」语用情境与完整句式的选项（练习 1）：",
+                    "prompt": "表达‘我终于在网上买到了明天晚上的京剧门票’时，使用‘买到’强调的是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (11.1.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (11.1.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (11.1.3)。"
+                        "票价很贵",
+                        "成功买到了票这一动作结果 (Successfully acquired the ticket)",
+                        "票已经退了"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "买到 denotes the successful result of buying."
                 }
             ]
         },
@@ -5412,85 +5418,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「结果补语系统 (Resultative Complements: 看见/做完)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 11-1）？",
+                    "prompt": "下列哪个句子正确使用了结果补语‘见’或‘到’？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (11.1.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (11.1.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (11.1.3)。"
+                        "我戴上眼镜后看清楚了，看见了黑板上的字 (Wǒ kànjiàn le hēibǎn shang de zì)",
+                        "我看了见黑板",
+                        "黑板看见我了在"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "explanation": "看见 correctly attaches the resultative complement 见 to the verb 看."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («看见_11_1»):",
+                    "prompt": "Type the Hanzi for 'to see / catch sight of' (看见):",
                     "acceptedAnswers": [
-                        "看见_11_1"
+                        "看见",
+                        "kanjian",
+                        "kànjiàn",
+                        "Kànjiàn",
+                        "Kanjian",
+                        "看見"
                     ],
-                    "explanation": "The target keyword was: 【看见_11_1】"
+                    "explanation": "看见 (kànjiàn) means 'to see / perceive visually'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u11-l2": {
         "id": "zh-u11-l2",
-        "subject": "mandarin",
-        "unit": 11,
-        "lessonNumber": 2,
-        "title": "结果补语：看见、做完与找到 (Resultative Complements) (Part 2)",
-        "level": "B1",
-        "objective": "Comprehensive mastery of 结果补语系统 (Resultative Complements: 看见/做完).",
+        "unit": "zh-u11",
+        "level": "A2",
+        "objective": "Master the semantic distinction between the resultative complement 完 (wán: pure completion/exhaustion) and 好 (hǎo: completion to a state of satisfaction, perfection, and readiness).",
+        "prerequisites": [
+            "zh-u11-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u11-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「结果补语：看见、做完与找到 (Resultative Complements)」（第2部分）的核心句法结构与结果补语系统 (Resultative Complements: 看见/做完)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "结果补语「完」和「好」都表示动作的结束，但在**语义焦点与满意度**上有着重要差异！\n\n1. 「完 (wán)」：纯粹的动作终结与用尽 (Pure Completion / Finished / Exhausted)\n- 强调动作在时间或数量上已经结束（finish doing / all gone）：\n  - **做完 (zuòwán)**：做完了作业 (Finished doing homework [does not imply quality]).\n  - **吃完 (chīwán)**：吃完饭 (Finished eating).\n  - **用完 (yòngwán)**：钱用完了 (Money is all spent / run out).\n  - **卖完 (màiwán)**：门票卖完了 (Tickets are sold out).\n\n2. 「好 (hǎo)」：完备、满意与准备妥当 (Completed to Satisfaction / Readiness)\n- 强调动作不仅完成，而且**质量达到标准、令人满意、准备就绪可以进行下一步**（all ready / well done）：\n  - **做好 (zuòhǎo)**：饭做好了 (Dinner is ready and delicious!)\n  - **写好 (xiěhǎo)**：报告写好了 (Report is completed and ready to submit!)\n  - **准备好 (zhǔnbèihǎo)**：大家都准备好了！(Everyone is fully prepared!).",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (11.2.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "妈妈高兴地从厨房走出来喊道：‘晚饭做好了，大家快洗手来吃饭吧！’",
+                    "reading": "Māma gāoxìng de cóng chúfáng zǒu chūlai hǎndào: ‘Wǎnfàn zuòhǎo le, dàjiā kuài xǐshǒu lái chīfàn ba!’",
+                    "translation": "Mother happily came out of the kitchen calling: 'Dinner is ready, everyone wash hands quickly and come eat!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (11.2.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "我今天下午花了整整三个小时，终于把这篇学术论文的终稿写完了。",
+                    "reading": "Wǒ jīntiān xiàwǔ huā le zhěngzhěng sān gè xiǎoshí, zhōngyú bǎ zhè piān xuéshù lùnwén de zhōnggǎo xiěwán le.",
+                    "translation": "I spent a full three hours this afternoon and finally finished writing the final draft of this academic paper."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (11.2.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "明天早晨就要出发去爬泰山了，请大家今晚务必把背包和登山鞋都准备好。",
+                    "reading": "Míngtiān zǎochén jiù yào chūfā qù pá Tàishān le, qǐng dàjiā jīnwǎn wùbì bǎ bēibāo hé dēngshānxié dōu zhǔnbèihǎo.",
+                    "translation": "We are departing to climb Mount Tai tomorrow morning; everyone please be sure to get backpacks and hiking shoes ready tonight."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 结果补语系统 (Resultative Complements: 看见/做完)"
+                "完 = Finished (all done/gone); 好 = Ready & Well-done (prepared for next step)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Mount Tai (泰山 Tàishān) in Shandong is revered as the foremost of China's Five Sacred Mountains (五岳之首 Wǔyuè zhī shǒu)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「结果补语系统 (Resultative Complements: 看见/做完)」在第2小节中的标准汉语语法规范？",
+                    "prompt": "招待客人或家人开饭时，最地道热情的表达是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (11.2.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (11.2.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (11.2.3)。"
+                        "饭做好了，快来吃吧！ (Fàn zuòhǎo le — Food is ready and well-cooked!)",
+                        "饭做完了，快吃",
+                        "饭做坏了"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "做好 indicates the meal is delightfully ready to be served."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「结果补语：看见、做完与找到 (Resultative Complements)」语用情境与完整句式的选项（练习 2）：",
+                    "prompt": "句子‘书店里的那本新书已经卖完了’中，‘卖完’表示：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (11.2.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (11.2.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (11.2.3)。"
+                        "书店准备进书",
+                        "新书全部售空，数量已尽 (All copies sold out / exhausted)",
+                        "书店不打算卖书"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "卖完 denotes that the inventory of books has been completely sold out."
                 }
             ]
         },
@@ -5498,85 +5516,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「结果补语系统 (Resultative Complements: 看见/做完)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 11-2）？",
+                    "prompt": "对比‘做完’与‘做好’，哪一个更侧重‘准备妥当、达到令人满意的状态’？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (11.2.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (11.2.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (11.2.3)。"
+                        "做完",
+                        "做好 (zuòhǎo: completed satisfactorily and ready)",
+                        "两个都一样"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "explanation": "做好 emphasizes readiness and satisfactory completion."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («看见_11_2»):",
+                    "prompt": "Type the Hanzi for 'to finish / complete' (完):",
                     "acceptedAnswers": [
-                        "看见_11_2"
+                        "完",
+                        "wan",
+                        "wán",
+                        "Wán",
+                        "Wan"
                     ],
-                    "explanation": "The target keyword was: 【看见_11_2】"
+                    "explanation": "完 (wán) means 'to finish / be completed'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u11-l3": {
         "id": "zh-u11-l3",
-        "subject": "mandarin",
-        "unit": 11,
-        "lessonNumber": 3,
-        "title": "结果补语：看见、做完与找到 (Resultative Complements) (Part 3)",
-        "level": "B1",
-        "objective": "Comprehensive mastery of 结果补语系统 (Resultative Complements: 看见/做完).",
+        "unit": "zh-u11",
+        "level": "A2",
+        "objective": "Master resultative complements indicating correctness (对 vs. 错) and cognitive comprehension (懂: 听懂, 看懂, 读懂).",
+        "prerequisites": [
+            "zh-u11-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u11-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「结果补语：看见、做完与找到 (Resultative Complements)」（第3部分）的核心句法结构与结果补语系统 (Resultative Complements: 看见/做完)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在语言交流与学习认知中，形容词「对（正确）」、「错（错误）」以及动词「懂（理解）」常作为结果补语，精确描绘动作的准确性与主体的理解程度。\n\n1. 正确与错误结果补语：「对」与「错」\n- **说对 (shuōduì)**：说得正确 (said it right) vs. **说错 (shuōcuò)**：说错了 (said it wrong / made a slip)\n- **写对 (xiěduì)**：汉字写对了 vs. **写错 (xiěcuò)**：写错别字了 (wrote wrong character)\n- **走错 (zǒucuò)**：走错路了 (went the wrong way) / **认错 (rèncuò)**：认错人了 (mistook someone).\n\n2. 认知理解结果补语：「懂」\n- **听懂 (tīngdǒng)**：通过听觉完全理解 (understand by listening)\n- **看懂 (kàndǒng)**：通过阅读/观看完全理解 (understand by reading/watching)\n- **读懂 (dúdǒng)**：深度领会文本内涵 (comprehend deeply).",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (11.3.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "大卫认真听完王老师的生动讲解，高兴地说：‘老师，这个语法难点我完全听懂了！’",
+                    "reading": "Dàwèi rènzhēn tīngwán Wáng lǎoshī de shēngdòng jiǎngjiě, gāoxìng de shuō: ‘Lǎoshī, zhè gè yǔfǎ nándiǎn wǒ wánquán tīngdǒng le!’",
+                    "translation": "After listening carefully to Teacher Wang's vivid explanation, David happily said: 'Teacher, I have completely understood this difficult grammar point!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (11.3.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "刚才太着急了，李明在十字路口不小心走错了方向，幸好有好心人指路。",
+                    "reading": "Gāngcái tài zháojí le, Lǐ Míng zài shízì lùkǒu bù xiǎoxīn zǒu cuò le fāngxiàng, xìnghǎo yǒu hǎoxīnrén zhǐlù.",
+                    "translation": "Being in too much of a hurry just now, Li Ming accidentally took the wrong direction at the intersection; fortunately a kind person gave directions."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (11.3.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "这道古汉语翻译题难度很大，但全班只有大卫一个人全部翻译对了。",
+                    "reading": "Zhè dào gǔ hànyǔ fānyì tí nándù hěn dà, dàn quán bān zhǐyǒu Dàwèi yí gè rén quánbù fānyì duì le.",
+                    "translation": "This Classical Chinese translation question was very difficult, but David was the only one in the whole class who translated it entirely correctly."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 结果补语系统 (Resultative Complements: 看见/做完)"
+                "对 = Correct! 错 = Mistake! 懂 = Comprehended! (听懂 = Understood by ear; 走错 = Took wrong turn!)"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Asking directions (问路 wènlù) and warmly helping lost strangers (热心指路 rèxīn zhǐlù) is a quintessential everyday cultural virtue across Chinese towns and cities."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「结果补语系统 (Resultative Complements: 看见/做完)」在第3小节中的标准汉语语法规范？",
+                    "prompt": "学生对老师表达‘我已经完全理解了黑板上的这道题目’时，应当说：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (11.3.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (11.3.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (11.3.3)。"
+                        "这道题我看懂了 (Zhè dào tí wǒ kàndǒng le)",
+                        "这道题我看错了",
+                        "这道题我看坏了"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "看懂 indicates cognitive comprehension achieved through visual reading."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「结果补语：看见、做完与找到 (Resultative Complements)」语用情境与完整句式的选项（练习 3）：",
+                    "prompt": "句子‘对不起，我刚才认错人了’表达的意思是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (11.3.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (11.3.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (11.3.3)。"
+                        "我不认识这个人",
+                        "我误把对方看成了另外一个人 (I mistook the person for someone else)",
+                        "对方认出了我"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "认错人 means mistaking one person for another."
                 }
             ]
         },
@@ -5584,85 +5613,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「结果补语系统 (Resultative Complements: 看见/做完)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 11-3）？",
+                    "prompt": "下列哪个句子正确表达了‘汉字书写完全正确’？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (11.3.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (11.3.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (11.3.3)。"
+                        "他的汉字写错了",
+                        "这五个难字他全部写对了 (Zhè wǔ gè nán zì tā quánbù xiěduì le)",
+                        "他写了对五个字"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "全部写对了 correctly applies 对 as the resultative complement."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («看见_11_3»):",
+                    "prompt": "Type the Hanzi for 'to understand / comprehend' (懂):",
                     "acceptedAnswers": [
-                        "看见_11_3"
+                        "懂",
+                        "dong",
+                        "dǒng",
+                        "Dǒng",
+                        "Dong"
                     ],
-                    "explanation": "The target keyword was: 【看见_11_3】"
+                    "explanation": "懂 (dǒng) means 'to understand / comprehend'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u11-l4": {
         "id": "zh-u11-l4",
-        "subject": "mandarin",
-        "unit": 11,
-        "lessonNumber": 4,
-        "title": "结果补语：看见、做完与找到 (Resultative Complements) (Part 4)",
-        "level": "B1",
-        "objective": "Comprehensive mastery of 结果补语系统 (Resultative Complements: 看见/做完).",
+        "unit": "zh-u11",
+        "level": "A2",
+        "objective": "Master the negation rule for resultative complements (主语 + 没/没有 + 动词 + 补语, never 不) and interrogative patterns (动词 + 补语 + 了没有？ / 动词 + 补语 + 了吗？).",
+        "prerequisites": [
+            "zh-u11-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u11-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「结果补语：看见、做完与找到 (Resultative Complements)」（第4部分）的核心句法结构与结果补语系统 (Resultative Complements: 看见/做完)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "结果补语表达的是动作是否产生了既定结果，因此在**否定式**与**疑问式**中有严格的语法法则！\n\n1. 结果补语的否定公式 (Negation Formula):\n- **主语 + 没 (有) + 动词 + 结果补语 + 宾语**\n- 核心法则：**否定结果补语时，必须用「没/没有」，绝不能用「不」，且句尾不能有「了」！**\n  - 我**没听懂**。(I didn't understand. *[绝不说 *我不听懂、*没听懂了])*\n  - 晚饭还**没做好**。(Dinner is not ready yet.)\n  - 他**没找到**钥匙。(He didn't find the key.)\n\n2. 结果补语的疑问句型 (Interrogative Formulas):\n- **格式一 (吗问句)**：你**听懂了吗**？ (Did you understand?)\n- **格式二 (正反问句)**：作业**写完了没有**？ (Have you finished writing homework or not?)\n- **格式三 (A-not-A)**：你**看没看懂**？ (Did you understand or not?).",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (11.4.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "大卫：王老师，您刚才说的成语故事我还没完全听懂，您可以再慢速讲一遍吗？",
+                    "reading": "Dàwèi: Wáng lǎoshī, nín gāngcái shuō de chéngyǔ gùshi wǒ hái méi wánquán tīngdǒng, nín kěyǐ zài mànsù jiǎng yí biàn ma?",
+                    "translation": "David: Teacher Wang, I haven't completely understood the idiom story you just told; could you explain it once more at a slower speed?"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (11.4.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "张老师问：‘同学们，今天的课后综合练习大家做完了没有？’ 同学们答：‘全部做完了！’",
+                    "reading": "Zhāng lǎoshī wèn: ‘Tóngxuémen, jīntiān de kèhòu zōnghé liànxí dàjiā zuòwán le méiyǒu?’ Tóngxuémen dá: ‘Quánbù zuòwán le!’",
+                    "translation": "Teacher Zhang asked: 'Students, have you finished today's after-class exercises or not?' Students answered: 'All finished!'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (11.4.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "这道菜的盐放得刚好，味道一点儿也没做坏，吃起来非常鲜美。",
+                    "reading": "Zhè dào cài de yán fàng de gānghǎo, wèidao yìdiǎnr yě méi zuòhuài, chī qǐlai fēicháng xiānměi.",
+                    "translation": "The salt in this dish is just right; the taste wasn't spoiled at all, tasting extraordinarily delicious."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 结果补语系统 (Resultative Complements: 看见/做完)"
+                "Negate Results with 没 (没看懂, 没做好), Drop the 了! Question: V+Complement+了没有？"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "In Chinese educational culture, asking politely «老师，我还没听懂，能再讲一遍吗？» is warmly welcomed as a sign of intellectual earnestness (勤学好问 qín xué hào wèn)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「结果补语系统 (Resultative Complements: 看见/做完)」在第4小节中的标准汉语语法规范？",
+                    "prompt": "表达‘我没有看懂这封中文信件’时，正确的汉语表达是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (11.4.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (11.4.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (11.4.3)。"
+                        "我不看懂这封信 (*incorrect: bù cannot negate result)",
+                        "我没看懂这封信 (Wǒ méi kàndǒng zhè fēng xìn: 没 + V + 补语)",
+                        "我看懂没信件"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "Resultative complements must be negated with 没/没有, without 了."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「结果补语：看见、做完与找到 (Resultative Complements)」语用情境与完整句式的选项（练习 4）：",
+                    "prompt": "询问同屋室友‘你的作业写好了没有？’时，最地道自然的问法是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (11.4.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (11.4.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (11.4.3)。"
+                        "你的作业写好吗没有？",
+                        "你的作业写好了没有？ (Nǐ de zuòyè xiěhǎo le méiyǒu?)",
+                        "你写作业好不？"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "V + 补语 + 了没有？ is the standard natural A-not-A question format."
                 }
             ]
         },
@@ -5670,85 +5710,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「结果补语系统 (Resultative Complements: 看见/做完)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 11-4）？",
+                    "prompt": "关于结果补语否定句的语法规则，下列哪一项是完全正确的？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (11.4.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (11.4.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (11.4.3)。"
+                        "必须用‘没/没有’否定，且不能加动态助词‘了’ (Must use 没/没有 and drop 了)",
+                        "必须用‘不’否定",
+                        "否定时补语必须放在句首"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "explanation": "Resultative negation requires 没/没有 + Verb + Complement without sentence-final 了."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («看见_11_4»):",
+                    "prompt": "Type the Hanzi for 'to hear / understand by listening' (听懂):",
                     "acceptedAnswers": [
-                        "看见_11_4"
+                        "听懂",
+                        "tingdong",
+                        "tīngdǒng",
+                        "Tīngdǒng",
+                        "Tingdong",
+                        "聽懂"
                     ],
-                    "explanation": "The target keyword was: 【看见_11_4】"
+                    "explanation": "听懂 (tīngdǒng) means 'to understand by listening'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u11-l5": {
         "id": "zh-u11-l5",
-        "subject": "mandarin",
-        "unit": 11,
-        "lessonNumber": 5,
-        "title": "结果补语：看见、做完与找到 (Resultative Complements) (Part 5)",
-        "level": "B1",
-        "objective": "Comprehensive mastery of 结果补语系统 (Resultative Complements: 看见/做完).",
+        "unit": "zh-u11",
+        "level": "A2",
+        "objective": "Synthesize all 6 core resultative complements (到, 见, 好, 完, 错, 懂) with affirmative, negative (没), and interrogative forms into comprehensive conversational and narrative fluency.",
+        "prerequisites": [
+            "zh-u11-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u11-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「结果补语：看见、做完与找到 (Resultative Complements)」（第5部分）的核心句法结构与结果补语系统 (Resultative Complements: 看见/做完)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在本课中，我们将把第十一单元所有的结果补语提炼为系统总表，并在学术听讲、日常生活准备与文化交流实战中全面运用！\n\n1. 结果补语系统全景总表 (Master Resultative Complement Chart):\n| 结果补语 | 核心语法功能 | 典型搭配范例 |\n| :--- | :--- | :--- |\n| **见 (jiàn)** | 视觉/听觉感知结果 | 看见 (see)、听见 (hear) |\n| **到 (dào)** | 达成目标 / 获取事物 / 达到点 | 找到 (find)、买到 (obtain)、学到 (learn) |\n| **完 (wán)** | 动作终结 / 数量耗尽 | 做完 (finish)、吃完 (eat up)、卖完 (sold out) |\n| **好 (hǎo)** | 达到完善 / 令人满意 / 准备妥当 | 做好 (ready)、写好 (well-written)、准备好 (prepared) |\n| **对 (duì)** | 正确无误 | 做对 (got right)、说对 (said right)、写对 (spelled right) |\n| **错 (cuò)** | 发生差错 / 出现失误 | 做错 (got wrong)、说错 (misspoke)、走错 (lost way) |\n| **懂 (dǒng)** | 认知领会 / 深刻理解 | 听懂 (comprehend by ear)、看懂 (comprehend by eye) |\n\n2. 第十一单元实战交际演练 (Unit 11 Synthesis Dialogue):\n- 跨国学者研讨会交流：听懂前沿报告、准备好学术论文、买到高铁车票、互相指正发音。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (11.5.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "在今天的汉字听写测试中，大卫把所有生词都写对了，王老师称赞他学到了扎实的汉字基本功。",
+                    "reading": "Zài jīntiān de hànzì tīngxiě cèshì zhōng, Dàwèi bǎ suǒyǒu shēngcí dōu xiěduì le, Wáng lǎoshī chēngzàn tā xuédào le zhāshi de hànzì jīběngōng.",
+                    "translation": "In today's Chinese character dictation test, David wrote all new words correctly; Teacher Wang praised him for having acquired solid foundational character skills."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (11.5.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫：李明，明天的学术报告你准备好了没有？ 李明：我已经全部做好了，PPT也检查完了，绝对没有写错一个字！",
+                    "reading": "Dàwèi: Lǐ Míng, míngtiān de xuéshù bàogào nǐ zhǔnbèihǎo le méiyǒu? Lǐ Míng: Wǒ yǐjīng quánbù zuòhǎo le, PPT yě jiǎncháwán le, juéduì méiyǒu xiěcuò yí gè zì!",
+                    "translation": "David: Li Ming, have you prepared tomorrow's academic report or not? Li Ming: I have got it all ready and finished checking the slides; definitely didn't write a single character wrong!"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (11.5.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "经过一学期的刻苦钻研，留学生们不仅听懂了中国历史文化讲座，还交到了许多热情的中国朋友。",
+                    "reading": "Jīngguò yì xuéqī de kèkǔ zuānyán, liúxuéshēngmen bùjǐn tīngdǒng le Zhōngguó lìshǐ wénhuà jiǎngzuò, hái jiāodào le xǔduō rèqíng de Zhōngguó péngyou.",
+                    "translation": "After a semester of assiduous study, the international students not only understood the Chinese history and culture lectures, but also made many warm-hearted Chinese friends."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 结果补语系统 (Resultative Complements: 看见/做完)"
+                "Resultative Master: 见/到 (Perception & Reach), 好/完 (Ready & Finished), 对/错 (Accurate & Error), 懂 (Understood)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "The Chinese cultural virtue of «学以致用» (apply what you have learned) is celebrated when learners successfully make Chinese friends (交到朋友) and comprehend native lectures (听懂讲座)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「结果补语系统 (Resultative Complements: 看见/做完)」在第5小节中的标准汉语语法规范？",
+                    "prompt": "句子‘这本小说我读懂了，而且作业也做好了’表达了什么？",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (11.5.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (11.5.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (11.5.3)。"
+                        "书本阅读理解已经达成，作业也达到满意准备状态 (Reading comprehension achieved & homework satisfactorily completed)",
+                        "两者都没有完成",
+                        "这是一句疑问句"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "读懂 marks cognitive understanding, and 做好 marks satisfactory completion."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「结果补语：看见、做完与找到 (Resultative Complements)」语用情境与完整句式的选项（练习 5）：",
+                    "prompt": "表达‘我终于在火车站买到了回北京的高铁票’时，选用‘买到’体现了什么语法功能？",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (11.5.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (11.5.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (11.5.3)。"
+                        "表示买票动作失败",
+                        "表示经过努力成功达成购买目的的结果补语 (Resultative complement showing successful acquisition)",
+                        "表示票价打折"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "买到 is the resultative complement indicating successful goal attainment."
                 }
             ]
         },
@@ -5756,24 +5808,29 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「结果补语系统 (Resultative Complements: 看见/做完)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 11-5）？",
+                    "prompt": "下列哪组动结短语分别准确对应了‘知觉感知’、‘准备就绪’与‘认知理解’？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (11.5.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (11.5.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (11.5.3)。"
+                        "走错、吃完、卖完",
+                        "走上去、跑下来、进屋去",
+                        "看见、做好、听懂 (kànjiàn: perception, zuòhǎo: readiness, tīngdǒng: comprehension)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "看见 marks perception, 做好 marks readiness, and 听懂 marks cognitive comprehension."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («看见_11_5»):",
+                    "prompt": "Type the Hanzi for 'to make (friends) / reach / connect' (交到):",
                     "acceptedAnswers": [
-                        "看见_11_5"
+                        "交到",
+                        "jiaodao",
+                        "jiāodào",
+                        "Jiāodào",
+                        "Jiaodao"
                     ],
-                    "explanation": "The target keyword was: 【看见_11_5】"
+                    "explanation": "交到 (jiāodào) means 'to successfully make / connect (friends)'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u12-l1": {
