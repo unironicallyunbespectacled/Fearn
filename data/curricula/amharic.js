@@ -11606,63 +11606,69 @@
     },
     "am-u23-l1": {
         "id": "am-u23-l1",
-        "subject": "amharic",
-        "unit": 23,
-        "lessonNumber": 1,
-        "title": "የኢትዮጵያ ባህል እና ወጎች (Cultural Heritage & Coffee Ceremony) (Part 1)",
+        "unit": "am-u23",
         "level": "B2",
-        "objective": "Comprehensive mastery of የቡና ስነ-ስርዓት እና ባህል (Coffee Ceremony and Customs).",
+        "objective": "Master the complete ritual lexicon, cultural stages, and ceremonial procedural vocabulary of the traditional Ethiopian Coffee Ceremony (የቡና ስነ-ስርዓት), including «አቦል» (first brew), «ቶና» (second brew), and «በረካ» (third brew / blessing).",
+        "prerequisites": [
+            "am-u22-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u22-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የቡና ስነ-ስርዓት እና ባህል (Coffee Ceremony and Customs) - ደረጃ 1) ተማሪዎች ስለ የቡና ስነ-ስርዓት እና ባህል (Coffee Ceremony and Customs) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "The traditional Ethiopian Coffee Ceremony (የቡና ስነ-ስርዓት) is an essential social and hospitality ritual.\n\n1. Ceremonial Paraphernalia & Staging:\n- **ጀበና** (Jebena — Spherical clay coffee pot with spout)\n- **ብረት ምጣድ** (Biret mit'ad — Iron roasting pan)\n- **ሙቀጫ እና ዘነዘና** (Muqech'a & Zenezena — Wooden mortar & pestle)\n- **ሲኒ** (Sinī — Small handleless ceramic cups)\n- **ረከቦት** (Rekebot — Wooden serving tray for cups)\n- **ዕጣን** (It'an — Aromatic frankincense)\n- **ቄጠማ** (Qēt'ema — Fresh green grass carpet)\n\n2. The Three Traditional Pouring Rounds:\n- 1. **አቦል** (Abol — First, strongest brew poured for respected elders)\n- 2. **ቶና** (Tona — Second brew)\n- 3. **በረካ** (Bereka — Third brew signifying communal blessing and farewell)",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየቡና ስነ-ስርዓት እና ባህል (Coffee Ceremony and Customs) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (23.1.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "እናትየው አረንጓዴውን የቡና ፍሬ በምጣዱ ላይ እያሸተተች ካቆላች በኋላ በሙቀጫ ወቅጣ በጀበናው አፈላችው።",
+                    "reading": "Inatyeew arengwadēwun yebuna firē bemit'adu lay iyashatetech kaqolach behwala bemuqech'a weqt'a bejebenaw afelachiw.",
+                    "translation": "After roasting the green coffee beans on the pan while wafting the aroma, the mother crushed them in the mortar and brewed it in the jebena."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (23.1.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የመጀመሪያው የቡና ዙር «አቦል» በመባል የሚታወቅ ሲሆን፣ የመጨረሻው ዙር ደግሞ የበረከት ማሳያ የሆነው «በረካ» ነው።",
+                    "reading": "Yemejemeriyaw yebuna zur 'Abol' bemibal yemītaweq sīhon, yemech'ereshaw zur degmo yebereket masaya yehonew 'Bereka' new.",
+                    "translation": "The first coffee round is known as 'Abol', whereas the final round is 'Bereka', symbolizing blessing."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (23.1.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "በቤቱ ሳሎን ወለል ላይ የተነጠፈው ለምለም ቄጠማ እና የሚጨሰው ዕጣን ለቡናው ስነ-ስርዓት ልዩ ድምቀት ሰጥቶታል።",
+                    "reading": "Bebētu salon welel lay yetenet'efew lemlem qēt'ema ina yemīch'esew it'an lebunaw sine-sir'at liyu dimqet sett'otil.",
+                    "translation": "The lush green grass spread on the living room floor and the smoking frankincense gave the coffee ceremony a special radiance."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የቡና ስነ-ስርዓት እና ባህል (Coffee Ceremony and Customs)"
+                "Coffee Trio: 1. አቦል (Abol - strong), 2. ቶና (Tona - smooth), 3. በረካ (Bereka - blessing)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "In Ethiopian etiquette, leaving before the third cup («በረካ») is considered impolite, as staying through all rounds bestows full mutual blessing between host and guests."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የቡና ስነ-ስርዓት እና ባህል (Coffee Ceremony and Customs)» አጠቃቀም በደረጃ 1 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "የቡና ስነ-ስርዓት የመጨረሻው እና የበረከት ዙር ምን ይባላል?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (23.1.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (23.1.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (23.1.3)።"
+                        "በረካ (Bereka)",
+                        "አቦል (Abol)",
+                        "ሻይ (Tea)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "በረካ is the third and final ceremonial round."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የኢትዮጵያ ባህል እና ወጎች (Cultural Heritage & Coffee Ceremony)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 1)፡",
+                    "prompt": "«ጀበና» ለምን ያገለግላል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (23.1.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (23.1.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (23.1.3)።"
+                        "To store flour",
+                        "Traditional clay pot used to brew coffee",
+                        "To cut bread"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "ጀበና is the iconic Ethiopian clay coffee brewing pot."
                 }
             ]
         },
@@ -11670,85 +11676,94 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የቡና ስነ-ስርዓት እና ባህል (Coffee Ceremony and Customs)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 23-1)?",
+                    "prompt": "የመጀመሪያው እና ጠንካራው የቡና ዙር ምን ይባላል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (23.1.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (23.1.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (23.1.3)።"
+                        "አቦል (Abol - First round)",
+                        "ቶና (Second round)",
+                        "በረካ (Third round)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "explanation": "አቦል (Abol) is the first and strongest coffee round."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ቡና_23_1»):",
+                    "prompt": "Type the Amharic name of the traditional clay coffee pot in Fidel script (ጀበና):",
                     "acceptedAnswers": [
-                        "ቡና_23_1"
+                        "ጀበና",
+                        "jebena",
+                        "Jebena"
                     ],
-                    "explanation": "The target keyword was: 【ቡና_23_1】"
+                    "explanation": "ጀበና (Jebena) means 'traditional coffee pot'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u23-l2": {
         "id": "am-u23-l2",
-        "subject": "amharic",
-        "unit": 23,
-        "lessonNumber": 2,
-        "title": "የኢትዮጵያ ባህል እና ወጎች (Cultural Heritage & Coffee Ceremony) (Part 2)",
+        "unit": "am-u23",
         "level": "B2",
-        "objective": "Comprehensive mastery of የቡና ስነ-ስርዓት እና ባህል (Coffee Ceremony and Customs).",
+        "objective": "Comprehend and describe traditional Ethiopian communal dining practices, culinary terms including «እንጀራ» (sourdough flatbread), «ዶሮ ወጥ» (spiced chicken stew), «ጉርሻ» (feeding a loved one as a sign of affection), and «መሶብ» (woven dining table).",
+        "prerequisites": [
+            "am-u23-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u23-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የቡና ስነ-ስርዓት እና ባህል (Coffee Ceremony and Customs) - ደረጃ 2) ተማሪዎች ስለ የቡና ስነ-ስርዓት እና ባህል (Coffee Ceremony and Customs) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Ethiopian cuisine centers around communal sharing and sourdough injera flatbread.\n\n1. Essential Culinary Vocabulary:\n- **እንጀራ** (Injera — Spongy sourdough bread fermented from indigenous teff / **ጤፍ**)\n- **መሶብ** (Mesob — Colorful woven wicker dining table)\n- **ዶሮ ወጥ** (Doro wet' — Slow-cooked spicy chicken stew with boiled eggs)\n- **ክትፎ** (Kitfo — Minced seasoned beef with clarified butter / **ንጥር ቅቤ**)\n- **ሽሮ ወጥ** (Shiro wet' — Spiced powdered chickpea/legume puree)\n\n2. The Custom of **ጉርሻ** (Gursha):\nHand-feeding a bite directly into a dining companion's mouth as an intimate symbol of friendship, familial bond, and deep respect.",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየቡና ስነ-ስርዓት እና ባህል (Coffee Ceremony and Customs) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (23.2.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "በበዓል ቀን ቤተሰቡ በመሶቡ ዙሪያ ተሰብስቦ ጣፋጭ የዶሮ ወጥ በእንጀራ አብሮ ይመገባል።",
+                    "reading": "Bebe'al qen bētesebu bemesobu zurīya tesebisbo t'afach yedoro wet' be'injera abro yimegebal.",
+                    "translation": "On holidays, the family gathers around the woven mesob to feast together on delicious chicken stew with injera."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (23.2.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "አያቴ ለእንግዳው የፍቅር እና የአክብሮት መግለጫ የሆነውን ትልቅ ጉርሻ አጎረሱት።",
+                    "reading": "Ayatē le'ingidaw yefiqir ina ye'akbirot megletsa yehonewun talaq gursha agoresut.",
+                    "translation": "My grandmother fed the guest a generous gursha as an expression of love and deep respect."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (23.2.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የጤፍ እንጀራ በንጥረ-ምግብ የበለጸገ እና የኢትዮጵያውያን ዋነኛ ዕለታዊ ምግብ ነው።",
+                    "reading": "Yet'ēf injera benit'ire-migib yebeletsege ina ye'ītyop'yawiyan wanegna iletawī migib new. — Teff injera is rich in nutrients and serves as the staple daily food of Ethiopians.",
+                    "translation": "Teff injera is rich in nutrients and serves as the staple daily food of Ethiopians."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የቡና ስነ-ስርዓት እና ባህል (Coffee Ceremony and Customs)"
+                "«መሶብ» = Woven table! «ጉርሻ» = Hand-fed bite of love! «እንጀራ» = Teff sourdough staple!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Receiving a «ጉርሻ» (Gursha) is an honor; diners typically accept by bowing slightly and resting their left hand beneath their right elbow to show appreciation."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የቡና ስነ-ስርዓት እና ባህል (Coffee Ceremony and Customs)» አጠቃቀም በደረጃ 2 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "በኢትዮጵያ ባህላዊ ማዕድ ላይ የፍቅር እና የአክብሮት መግለጫ የሆነው ልማድ ምን ይባላል?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (23.2.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (23.2.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (23.2.3)።"
+                        "ጉርሻ (Gursha)",
+                        "ጭፈራ (Dance)",
+                        "ውይይት (Discussion)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "ጉርሻ is the traditional practice of feeding a morsel to honor someone."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የኢትዮጵያ ባህል እና ወጎች (Cultural Heritage & Coffee Ceremony)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 2)፡",
+                    "prompt": "«መሶብ» ምን ዓይነት ባህላዊ ቁሳቁስ ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (23.2.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (23.2.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (23.2.3)።"
+                        "A cooking spoon",
+                        "A woven straw table / food container",
+                        "A drinking glass"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "መሶብ is the colorful woven straw table used for communal meals."
                 }
             ]
         },
@@ -11756,85 +11771,94 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የቡና ስነ-ስርዓት እና ባህል (Coffee Ceremony and Customs)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 23-2)?",
+                    "prompt": "የኢትዮጵያ ዋነኛ እህል እና የእንጀራ ጥሬ ዕቃ የሆነው ጥራጥሬ/እህል የትኛው ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (23.2.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (23.2.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (23.2.3)።"
+                        "ስንዴ (Wheat)",
+                        "ጤፍ (Teff)",
+                        "ሩዝ (Rice)"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "explanation": "ጤፍ (Teff) is the indigenous cereal grain used for baking injera."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ቡና_23_2»):",
+                    "prompt": "Type the Amharic word for the hand-feeding gesture of affection in Fidel script (ጉርሻ):",
                     "acceptedAnswers": [
-                        "ቡና_23_2"
+                        "ጉርሻ",
+                        "gursha",
+                        "Gursha"
                     ],
-                    "explanation": "The target keyword was: 【ቡና_23_2】"
+                    "explanation": "ጉርሻ (Gursha) means 'feeding a morsel to another as an act of affection'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u23-l3": {
         "id": "am-u23-l3",
-        "subject": "amharic",
-        "unit": 23,
-        "lessonNumber": 3,
-        "title": "የኢትዮጵያ ባህል እና ወጎች (Cultural Heritage & Coffee Ceremony) (Part 3)",
+        "unit": "am-u23",
         "level": "B2",
-        "objective": "Comprehensive mastery of የቡና ስነ-ስርዓት እና ባህል (Coffee Ceremony and Customs).",
+        "objective": "Describe authentic Ethiopian traditional textiles, handwoven dress embroidery («ሀበሻ ቀሚስ», «ነጠላ», «ጋቢ», «ጥበብ»), and festive national celebrations («እንቁጣጣሽ», «መስቀል», «ጥምቀት»).",
+        "prerequisites": [
+            "am-u23-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u23-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የቡና ስነ-ስርዓት እና ባህል (Coffee Ceremony and Customs) - ደረጃ 3) ተማሪዎች ስለ የቡና ስነ-ስርዓት እና ባህል (Coffee Ceremony and Customs) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Handwoven textiles and annual festivals represent iconic expressions of Ethiopian living heritage.\n\n1. Traditional Textiles & Garments:\n- **ሸማ** (Shema — Pure handwoven cotton cloth)\n- **ሀበሻ ቀሚስ** (Habesha qemīs — Flowing traditional white dress)\n- **ጥበብ** (T'ibeb — Ornate geometric embroidery along hemlines and borders)\n- **ነጠላ** (Net'ela — Elegant two-ply cotton scarf/shawl)\n- **ጋቢ** (Gabī — Thick four-ply warming blanket)\n\n2. Grand National Holidays:\n- **እንቁጣጣሽ** (Inqut'at'ash — Ethiopian New Year on Meskerem 1 / September)\n- **መስቀል** (Meskel — Demera bonfire celebration)\n- **ጥምቀት** (T'imqet — Epiphany outdoor Tabot processions)",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየቡና ስነ-ስርዓት እና ባህል (Coffee Ceremony and Customs) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (23.3.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "በጥምቀት በዓል ዕለት ወጣቶች ያማረ የሀበሻ ልብስ ለብሰው እና ነጠላ ደርበው በታቦቱ ፊት ይዘምራሉ።",
+                    "reading": "Bet'imqet be'al ilet wet'atoch yamare yehabesha libs lebsew ina net'ela derbew betabotu fīt yizemralu.",
+                    "translation": "On the holiday of Timqet, young people dress in splendid Habesha attire with net'ela shawls and chant before the Tabot."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (23.3.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የሀበሻ ቀሚሷ ጥልፍ በጥበብ ያሸበረቀ እና የባህል ውበትን የሚያጎላ ነው።",
+                    "reading": "Yehabesha qemīswa t'ilif bet'ibeb yashebereqe ina yebahl wubetun yemīyagola new.",
+                    "translation": "The embroidery of her Habesha dress is adorned with intricate patterns, highlighting cultural beauty."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (23.3.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "በመስቀል ዋዜማ ህዝቡ በአደባባይ ተሰብስቦ ትልቁን ደመራ በእሳት ያበራል።",
+                    "reading": "Bemesqel wazēma hizbu be'adebabay tesebisbo tiliqun demera be'isat yaberall.",
+                    "translation": "On the eve of Meskel, the public gathers in public squares to light the grand Demera bonfire."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የቡና ስነ-ስርዓት እና ባህል (Coffee Ceremony and Customs)"
+                "«ጥበብ» = Colorful woven pattern! «ነጠላ» = Light shawl! «ደመራ» = Meskel bonfire!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Meskel and Timqet are UNESCO-inscribed Intangible Cultural Heritage traditions celebrated with massive open-air gatherings across Ethiopia."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የቡና ስነ-ስርዓት እና ባህል (Coffee Ceremony and Customs)» አጠቃቀም በደረጃ 3 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "በኢትዮጵያ አዲስ ዓመት (መስከረም 1) የሚከበረው በዓል ምን ይባላል?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (23.3.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (23.3.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (23.3.3)።"
+                        "እንቁጣጣሽ (Inqut'at'ash)",
+                        "ጥምቀት (Timqet)",
+                        "ፋሲካ (Easter)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "እንቁጣጣሽ is the Ethiopian New Year festival."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የኢትዮጵያ ባህል እና ወጎች (Cultural Heritage & Coffee Ceremony)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 3)፡",
+                    "prompt": "«ጥበብ» በሀበሻ ልብስ ላይ ምንን ያመለክታል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (23.3.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (23.3.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (23.3.3)።"
+                        "Plain cloth",
+                        "Intricate woven geometric border pattern / embroidery",
+                        "Leather belt"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "ጥበብ denotes the decorative woven embroidery patterns on traditional garments."
                 }
             ]
         },
@@ -11842,85 +11866,95 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የቡና ስነ-ስርዓት እና ባህል (Coffee Ceremony and Customs)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 23-3)?",
+                    "prompt": "በመስቀል በዓል ዋዜማ የሚለኮሰው ትልቁ የእንጨት ክምር ምን ይባላል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (23.3.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (23.3.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (23.3.3)።"
+                        "ጀበና (Coffee pot)",
+                        "ደመራ (Demera bonfire)",
+                        "መሶብ (Dining table)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "ደመራ (Demera) is the ceremonial bonfire lit during the Meskel festival."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ቡና_23_3»):",
+                    "prompt": "Type the Amharic name for the lightweight traditional cotton shawl in Fidel script (ነጠላ):",
                     "acceptedAnswers": [
-                        "ቡና_23_3"
+                        "ነጠላ",
+                        "netela",
+                        "net'ela",
+                        "Netela"
                     ],
-                    "explanation": "The target keyword was: 【ቡና_23_3】"
+                    "explanation": "ነጠላ (Net'ela) means 'traditional light cotton shawl'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u23-l4": {
         "id": "am-u23-l4",
-        "subject": "amharic",
-        "unit": 23,
-        "lessonNumber": 4,
-        "title": "የኢትዮጵያ ባህል እና ወጎች (Cultural Heritage & Coffee Ceremony) (Part 4)",
+        "unit": "am-u23",
         "level": "B2",
-        "objective": "Comprehensive mastery of የቡና ስነ-ስርዓት እና ባህል (Coffee Ceremony and Customs).",
+        "objective": "Analyze authentic Ethiopian musical folklore, organology of indigenous acoustic instruments («መሰንቆ», «ክራር», «ዋሽንት», «ከበሮ»), and the joyful ululation of «እልልታ».",
+        "prerequisites": [
+            "am-u23-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u23-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የቡና ስነ-ስርዓት እና ባህል (Coffee Ceremony and Customs) - ደረጃ 4) ተማሪዎች ስለ የቡና ስነ-ስርዓት እና ባህል (Coffee Ceremony and Customs) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Indigenous acoustic instruments form the sonic landscape of Ethiopian folklore and celebrations.\n\n1. Traditional Instruments:\n- **መሰንቆ** (Masenqo — Single-stringed diamond-shaped bowed lute played by minstrels: **አዝማሪ**)\n- **ክራር** (Krar — 5- or 6-string bowl lyre)\n- **ዋሽንት** (Washint — End-blown cane/bamboo flute)\n- **ከበሮ** (Kebero — Large double-headed drum)\n\n2. Festive Vocal and Dance Expressions:\n- **እልልታ** (Ililta — Joyous rhythmic high-pitched ululation voiced by women)\n- **እስክስታ** (Iskista — Energetic shoulder-dance unique to Ethiopian highlands)",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየቡና ስነ-ስርዓት እና ባህል (Coffee Ceremony and Customs) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (23.4.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "አዝማሪው በመሰንቆው እያጀበ በሰርግ አዳራሽ ውስጥ ለሙሽሮቹ አስደናቂ የግጥም ስንኞችን ተቀኘ።",
+                    "reading": "Azmarīw bemasenqow iyajebe beserg adarash wust lemushirochu asdenaqī yegit'im sinignochin teqegne.",
+                    "translation": "The azmari minstrel, accompanying himself on his masenqo, composed marvelous poetic verses for the newlyweds in the wedding hall."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (23.4.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የክራሩ ጣፋጭ ቅላጼ እና የወጣቶቹ የጋራ እስክስታ ለሙዚቃው ምሽት ከፍተኛ ድምቀት ፈጠረ።",
+                    "reading": "Yekraru t'afach qilats'ē ina yewet'atochu yegara iskista lemuzīqaw mishit kefitegna dimqet fet'ere.",
+                    "translation": "The melodious timbre of the krar and the youth's collective eskista shoulder-dance created high excitement for the music night."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (23.4.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ሙሽሪት ወደ አዳራሹ ስትገባ እናቶች በከፍተኛ እልልታ እና ጭብጨባ በደስታ ተቀበሏት።",
+                    "reading": "Mushirīt wede adarashu sitigeba inatoch bekefitegna ililta ina ch'ibch'eba bedesta teqebelwat.",
+                    "translation": "When the bride entered the hall, the mothers received her with joyous ululation and applause."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የቡና ስነ-ስርዓት እና ባህል (Coffee Ceremony and Customs)"
+                "«መሰንቆ» = 1-string bowed lute! «ክራር» = Lyre! «እልልታ» = Joyous ululation!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "The **አዝማሪ** (Azmari) is a celebrated figure in Ethiopian society, utilizing improvised verse and double-entendre (*ሰምና ወርቅ* — wax and gold) to entertain and offer social commentary."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የቡና ስነ-ስርዓት እና ባህል (Coffee Ceremony and Customs)» አጠቃቀም በደረጃ 4 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "ባለ አንድ ክር የኢትዮጵያ ባህላዊ የሙዚቃ መሳሪያ የትኛው ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (23.4.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (23.4.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (23.4.3)።"
+                        "መሰንቆ (Masenqo)",
+                        "ጊታር (Guitar)",
+                        "ፒያኖ (Piano)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "መሰንቆ is the traditional one-stringed bowed lute."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የኢትዮጵያ ባህል እና ወጎች (Cultural Heritage & Coffee Ceremony)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 4)፡",
+                    "prompt": "«እልልታ» በኢትዮጵያ ባህል ምን አይነት ድምጽ ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (23.4.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (23.4.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (23.4.3)።"
+                        "Sad weeping",
+                        "Joyous festive ululation (celebration)",
+                        "Whispering"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "እልልታ is the high-pitched celebratory ululation produced during festivities."
                 }
             ]
         },
@@ -11928,85 +11962,95 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የቡና ስነ-ስርዓት እና ባህል (Coffee Ceremony and Customs)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 23-4)?",
+                    "prompt": "የኢትዮጵያ ባህላዊ የትከሻ ጭፈራ ምን ይባላል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (23.4.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (23.4.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (23.4.3)።"
+                        "ሳልሳ (Salsa)",
+                        "ታንጎ (Tango)",
+                        "እስክስታ (Iskista)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "እስክስታ (Iskista) is the traditional shoulder-dancing style."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ቡና_23_4»):",
+                    "prompt": "Type the Amharic name of the traditional single-string bowed instrument in Fidel script (መሰንቆ):",
                     "acceptedAnswers": [
-                        "ቡና_23_4"
+                        "መሰንቆ",
+                        "masenqo",
+                        "masinko",
+                        "Masenqo"
                     ],
-                    "explanation": "The target keyword was: 【ቡና_23_4】"
+                    "explanation": "መሰንቆ (Masenqo) means 'single-stringed bowed lute'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u23-l5": {
         "id": "am-u23-l5",
-        "subject": "amharic",
-        "unit": 23,
-        "lessonNumber": 5,
-        "title": "የኢትዮጵያ ባህል እና ወጎች (Cultural Heritage & Coffee Ceremony) (Part 5)",
+        "unit": "am-u23",
         "level": "B2",
-        "objective": "Comprehensive mastery of የቡና ስነ-ስርዓት እና ባህል (Coffee Ceremony and Customs).",
+        "objective": "Synthesize coffee ceremony rituals, culinary heritage, textiles, festive holidays, and musical folklore into an advanced cultural documentary narration in Amharic.",
+        "prerequisites": [
+            "am-u23-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u23-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የቡና ስነ-ስርዓት እና ባህል (Coffee Ceremony and Customs) - ደረጃ 5) ተማሪዎች ስለ የቡና ስነ-ስርዓት እና ባህል (Coffee Ceremony and Customs) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "This lesson unifies the cultural tapestry of Ethiopia into an authentic documentary narration.\n\n1. Comprehensive Synthesis Points:\n- **Coffee Ritual:** «የቡናው በረካ...» (The blessing round of coffee...)\n- **Communal Feast:** «የመሶቡ ጉርሻ...» (The affection of table gursha...)\n- **Living Traditions:** «በሀበሻ ልብስ ተውቦ...» (Adorned in Habesha attire...)\n- **Acoustic Soul:** «በመሰንቆ እና ክራር ዜማ... የእናቶች እልልታ...» (Masenqo and krar melodies... mothers' ululations...)",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየቡና ስነ-ስርዓት እና ባህል (Coffee Ceremony and Customs) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (23.5.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "የኢትዮጵያ ባህላዊ ቅርስ በቡና ስነ-ስርዓቱ፣ በማዕድ አንድነቱ እና በኪነ-ጥበቡ ውበት የታነጸ ድንቅ የታሪክ አሻራ ነው።",
+                    "reading": "Ye'ītyop'ya bahilawī qirs bebuna sine-sir'atu, bema'id andinetu ina bekīne-t'ibebu wubet yetanetse dinq yetarīk ashara new.",
+                    "translation": "Ethiopia's cultural heritage is a marvelous historical imprint built upon its coffee ceremony, unity around the shared table, and artistic beauty."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (23.5.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "በበዓላት ወቅት ማህበረሰቡ በሀበሻ ልብስ ተውቦ፣ በመሰንቆ እና ክራር ዜማ እየተደሰተ ባህላዊ ወጉን ለትውልድ ያስተላልፋል።",
+                    "reading": "Bebe'alat weqt mahiberesebu behabesha libs tewibo, bemasenqo ina krar zēma iyetedesete bahilawī wegun letiwlid yastelalifal.",
+                    "translation": "During festivals, the community dresses in Habesha clothing, enjoys the melodies of masenqo and krar, and transmits its traditions to the next generation."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (23.5.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የቡናው በረካ፣ የመሶቡ ጉርሻ እና የእናቶች እልልታ የኢትዮጵያውያን እንግዳ ተቀባይነት ህያው መገለጫዎች ናቸው።",
+                    "reading": "Yebunaw bereka, yemesobu gursha ina ye'inatoch ililta ye'ītyop'yawiyan ingida teqebayinet hiyaw megletsawoch nachew.",
+                    "translation": "The blessing of coffee, the affection of gursha, and the mothers' ululation are living manifestations of Ethiopian hospitality."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የቡና ስነ-ስርዓት እና ባህል (Coffee Ceremony and Customs)"
+                "Complete Cultural Synthesis: Coffee (በረካ) + Table (ጉርሻ) + Attire (ጥበብ) + Music (መሰንቆ/እልልታ) = Timeless Ethiopian Heritage!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Ethiopian communal life seamlessly blends material artifacts (mesob, jebena, shema) with dynamic intangible customs passed down orally through centuries."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የቡና ስነ-ስርዓት እና ባህል (Coffee Ceremony and Customs)» አጠቃቀም በደረጃ 5 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«የእንግዳ ተቀባይነት መገለጫ» ማለት ምን ማለት ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (23.5.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (23.5.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (23.5.3)።"
+                        "Expressions of hospitality and warm welcome",
+                        "Refusing to meet people",
+                        "Commercial advertising"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "የእንግዳ ተቀባይነት መገለጫ = expressions of hospitality."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የኢትዮጵያ ባህል እና ወጎች (Cultural Heritage & Coffee Ceremony)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 5)፡",
+                    "prompt": "በዚህ ክፍል ከተማርናቸው ውስጥ የጋራ ማዕድ ፍቅርን የሚያሳየው የትኛው ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (23.5.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (23.5.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (23.5.3)።"
+                        "ብቻ መብላት",
+                        "ጉርሻ እና በመሶብ መመገብ (Gursha and sharing from the mesob)",
+                        "ስራ ማቆም"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "ጉርሻ and dining around the mesob demonstrate collective hospitality and love."
                 }
             ]
         },
@@ -12014,24 +12058,28 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የቡና ስነ-ስርዓት እና ባህል (Coffee Ceremony and Customs)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 23-5)?",
+                    "prompt": "የኢትዮጵያን ባህላዊ ውበት እና መስተንግዶ በጋራ የሚያጠቃልለው የትኛው ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (23.5.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (23.5.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (23.5.3)።"
+                        "የቡና በረካ፣ ጉርሻ እና እልልታ (Coffee blessing, gursha, and ululation)",
+                        "መኪና መንዳት (Driving a car)",
+                        "ኮምፒውተር መተየብ (Typing on a computer)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "«የቡና በረካ፣ ጉርሻ እና እልልታ» encapsulates the cultural hallmarks of Ethiopian hospitality."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ቡና_23_5»):",
+                    "prompt": "Type the Amharic word for 'cultural heritage' in Fidel script (ባህላዊ ቅርስ):",
                     "acceptedAnswers": [
-                        "ቡና_23_5"
+                        "ባህላዊ ቅርስ",
+                        "bahlawi qirs",
+                        "bahilawi qirs",
+                        "Bahlawi qirs"
                     ],
-                    "explanation": "The target keyword was: 【ቡና_23_5】"
+                    "explanation": "ባህላዊ ቅርስ (Bahlawi qirs) means 'cultural heritage'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u24-l1": {
