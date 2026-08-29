@@ -13167,63 +13167,69 @@
     },
     "zh-u27-l1": {
         "id": "zh-u27-l1",
-        "subject": "mandarin",
-        "unit": 27,
-        "lessonNumber": 1,
-        "title": "绿色能源转型与生态文明 (Green Energy & Ecological Policy) (Part 1)",
+        "unit": "zh-u27",
         "level": "C1",
-        "objective": "Comprehensive mastery of 生态文明与绿色发展 (Green Energy & Environmental Policy).",
+        "objective": "Master China's Dual Carbon strategy and clean energy terminology (碳达峰 Peak Carbon by 2030, 碳中和 Carbon Neutrality by 2060, 可再生能源 renewable energy, 光伏发电 photovoltaic solar, 风力发电 wind power, 特高压输电 UHV grid transmission).",
+        "prerequisites": [
+            "zh-u26-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u26-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「绿色能源转型与生态文明 (Green Energy & Ecological Policy)」（第1部分）的核心句法结构与生态文明与绿色发展 (Green Energy & Environmental Policy)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "中国积极稳妥推进**碳达峰（Carbon Peak）与碳中和（Carbon Neutrality）「双碳战略」**，加速构建以清洁可再生能源为主体的新型能源体系！\n\n1. 双碳战略核心目标与时间节点 (Dual Carbon Targets):\n- **碳达峰 (tàn dáfēng)**：力争2030年前二氧化碳排放达到峰值后稳中有降。\n- **碳中和 (tàn zhōnghé)**：力争2060年前通过植树造林、碳捕集等方式抵消自身产生的温室气体排放，实现零净排放。\n\n2. 清洁能源与智能电网核心技术 (Clean Energy & Grid Tech):\n- **光伏发电 (Photovoltaic Solar)** / **海上风电 (Offshore Wind)** / **特高压输电 (Ultra-High Voltage Transmission)** / **抽水蓄能 (Pumped Storage Hydropower)**。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (27.1.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "国家能源局官员在国际能源署新闻发布会上宣布：‘中国已建成全球规模最大的清洁发电体系，西北沙漠戈壁地区的大型风电光伏基地正通过特高压输电线路源源不断地向东部沿海输送绿色电力！’",
+                    "reading": "Guójiā Néngyuánjú guānyuán zài Guójì Néngyuánshǔ xīnwén fābùhuì shang xuānbù: ‘Zhōngguó yǐ jiànchéng quánqiú guīmó zuì dà de qīngjié fādiàn tǐxì, xīběi shāmò gēbì dìqū de dàxíng fēngdiàn guāngfú jīdì zhèng tōngguò tègāoyā shūdiàn xiànlù yuányuán-bùduàn de xiàng dōngbù yánhǎi shūsòng lǜsè diànlì!’",
+                    "translation": "The energy official announced: 'China has built the world's largest clean power system; vast Gobi desert wind-solar bases continuously transmit green electricity eastward via UHV lines!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (27.1.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "能源工程师向国际考察团介绍智能微电网：‘我们利用先进的电池储能与智能调峰系统，彻底解决了光伏与风能发电“靠天吃饭”、波动性大的并网难题。’",
+                    "reading": "Néngyuán gōngchéngshī xiàng guójì kǎochátuán jièshào zhìnéng wēidiànwǎng: ‘Wǒmen lìyòng xiānjìn de diànchí chǔnéng yǔ zhìnéng tiáofēng xìtǒng, chèdǐ jiějué le guāngfú yǔ fēngnéng fādiàn “kàotiān-chīfàn”、bōdòngxìng dà de bìngwǎng nántí.’",
+                    "translation": "The engineer introduced: 'Utilizing battery storage and smart peak-shaving, we solved the grid integration instability of solar and wind power.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (27.1.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "大卫在新能源投资论坛上发言：‘中国光伏产业链上下游的规模化技术突破，极大降低了全球太阳能发电成本，为全人类的绿色低碳转型做出了重大贡献！’",
+                    "reading": "Dàwèi zài xīn néngyuán tóuzī lùntán shang fāyán: ‘Zhōngguó guāngfú chǎnyèliàn shàng-xiàyóu de guīmóhuà jìshù tūpò, jí dà jiàngdī le quánqiú tàiyángnéng fādiàn chéngběn, wèi quán rénlèi de lǜsè dītàn zhuǎnxíng zuòchū le zhòngdà gòngxiàn!’",
+                    "translation": "David spoke: 'China's photovoltaic supply chain breakthroughs drastically reduced global solar costs, contributing immensely to worldwide green transition!'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 生态文明与绿色发展 (Green Energy & Environmental Policy)"
+                "Dual Carbon Strategy: 碳达峰 (Peak by 2030) + 碳中和 (Neutral by 2060) + 光伏风电 (Solar & Wind) + 特高压 (UHV Grid)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "China's '30-60 Goals' (3060目标) was officially announced at the 75th UN General Assembly in 2020, representing the world's largest single climate pledge."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「生态文明与绿色发展 (Green Energy & Environmental Policy)」在第1小节中的标准汉语语法规范？",
+                    "prompt": "中国庄严承诺力争于2030年前二氧化碳排放不再增长达到历史最高点、并在之后逐步下降的战略目标被称为：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (27.1.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (27.1.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (27.1.3)。"
+                        "无限排放",
+                        "碳达峰 (Carbon Peak)",
+                        "煤炭倍增"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "碳达峰 (Carbon Peak) refers to reaching peak carbon emissions before 2030."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「绿色能源转型与生态文明 (Green Energy & Ecological Policy)」语用情境与完整句式的选项（练习 1）：",
+                    "prompt": "通过植树造林、节能减排与碳捕集利用技术，实现人为温室气体净零排放的长期气候目标被称为：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (27.1.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (27.1.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (27.1.3)。"
+                        "碳中和 (Carbon Neutrality / Net-Zero Emissions)",
+                        "碳挥发",
+                        "碳依赖"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "碳中和 (Carbon Neutrality) means achieving net-zero greenhouse gas emissions."
                 }
             ]
         },
@@ -13231,85 +13237,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「生态文明与绿色发展 (Green Energy & Environmental Policy)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 27-1）？",
+                    "prompt": "关于中国「双碳战略」的内涵与清洁能源产业布局，下列哪一项表述完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (27.1.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (27.1.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (27.1.3)。"
+                        "双碳战略指2030年前实现碳达峰、2060年前实现碳中和，依托光伏、风电与特高压电网加速绿色能源转型 (Dual Carbon: 2030 Peak, 2060 Neutrality, powered by solar, wind, and UHV grids)",
+                        "双碳战略意味着彻底放弃一切工业生产",
+                        "中国完全依靠进口煤炭发电"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "Accurately details the strategic targets (2030 peak, 2060 neutrality) and the clean energy technological pillars."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («环保_27_1»):",
+                    "prompt": "Type the 3-character Hanzi term for 'Carbon Neutrality / Net-Zero' (碳中和):",
                     "acceptedAnswers": [
-                        "环保_27_1"
+                        "碳中和",
+                        "tanzhonghe",
+                        "tànzhōnghé",
+                        "Tànzhōnghé",
+                        "Tanzhonghe"
                     ],
-                    "explanation": "The target keyword was: 【环保_27_1】"
+                    "explanation": "碳中和 (tàn zhōnghé) means 'Carbon Neutrality / Net-Zero'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u27-l2": {
         "id": "zh-u27-l2",
-        "subject": "mandarin",
-        "unit": 27,
-        "lessonNumber": 2,
-        "title": "绿色能源转型与生态文明 (Green Energy & Ecological Policy) (Part 2)",
+        "unit": "zh-u27",
         "level": "C1",
-        "objective": "Comprehensive mastery of 生态文明与绿色发展 (Green Energy & Environmental Policy).",
+        "objective": "Master the philosophy and institutions of Chinese ecological governance (两山理念 Two Mountains theory: Lucid waters and lush mountains are invaluable assets, 国家公园 National Parks system, 生物多样性保护 biodiversity conservation, 生态保护红线 ecological conservation red lines, 塞罕坝精神 Saihanba spirit).",
+        "prerequisites": [
+            "zh-u27-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u27-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「绿色能源转型与生态文明 (Green Energy & Ecological Policy)」（第2部分）的核心句法结构与生态文明与绿色发展 (Green Energy & Environmental Policy)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "「**绿水青山就是金山银山**（Lucid waters and lush mountains are invaluable assets）」是当代中国生态文明建设的核心哲学思想！\n\n1. 生态治理哲学与制度设计 (Ecological Governance Philosophy & Systems):\n- **两山理念**：经济发展与环境保护不是零和博弈，良好的生态环境本身就是最普惠的民生福祉与可持续经济财富。\n- **生态保护红线 (Ecological Red Lines)**：对具有特殊重要生态功能的区域实施强制性严格保护。\n\n2. 国家公园与生物多样性保护 (National Parks & Biodiversity):\n- **国家公园体制 (National Park System)**：建立三江源、大熊猫、东北虎豹、海南热带雨林、武夷山等首批国家公园。\n- **塞罕坝精神**：三代林场人牢记使命、艰苦创业，将荒原变为百万亩人工林海的绿色奇迹。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (27.2.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "生态环境部部长在联合国生物多样性公约缔约方大会（COP15）上作报告：‘中国率先划定生态保护红线，正式设立首批国家公园，有效保护了雪豹、大熊猫等珍稀濒危物种的原生栖息地！’",
+                    "reading": "Shēngtài Huánjìngbù bùzhǎng zài Liánhéguó Shēngwù Duōyàngxìng Gōngyuē Dìyuēfāng Dàhuì shang zuò bàogào: ‘Zhōngguó xiānxiān huàdìng shēngtài bǎohù hóngxiàn, zhèngshì shèlì shǒupī guójiā gōngyuán, yǒuxiào bǎohù le xuěbào, dàxióngmāo děng zhēnxī bēnwēi wùzhǒng de yuánshēng qīxīdì!’",
+                    "translation": "The Ecology Minister reported at COP15: 'China pioneered ecological red lines and established first national parks, safeguarding habitats of endangered species!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (27.2.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫在浙江安吉余村实地调研美丽乡村：‘这里曾经依靠开山采石导致尘土飞扬，如今践行“绿水青山就是金山银山”理念发展生态文旅，实现了经济富民与绿意盎然的完美共生！’",
+                    "reading": "Dàwèi zài Zhèjiāng Ānjí Yúcūn shídì diàoyán měilì xiāngcūn: ‘Zhèlǐ céngjīng yīkào kāishān-cǎishí dǎozhì chéntǔ-fēiyáng, rújīn jiànxíng “lǜshuǐ-qīngshān jiùshì jīnshān-yínshān” lǐniàn fāzhǎn shēngtài wénlǚ, shíxiàn le jīngjì fùmín yǔ lǜyì-àngrán de wánměi gòngshēng!’",
+                    "translation": "David surveyed Yucun: 'Once plagued by quarrying dust, it practiced \"Two Mountains\", developing eco-tourism for a perfect symbiosis of wealth and nature!'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (27.2.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "纪录片解说员深情讲述塞罕坝奇迹：‘半个多世纪以来，塞罕坝人铸就了“牢记使命、艰苦创业、绿色发展”的塞罕坝精神，在京北筑起了一道抵御风沙的绿色长城。’",
+                    "reading": "Jìlùpiàn jiěshuōyuán shēnqíng jiǎngshù Sàihǎnbà qíjì: ‘Bàn gè duō shìjì yǐlái, Sàihǎnbàrén zhùjiù le “láojì-shǐmìng, jiānkǔ-chuàngyè, lǜsè-fāzhǎn” de Sàihǎnbà jīngshén, zài jīngběi zhùqǐ le yí dào dǐyù fēngshā de lǜsè chángchéng.’",
+                    "translation": "The narrator described: 'Saihanba builders forged a spirit of green development, erecting a Green Great Wall against sandstorms.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 生态文明与绿色发展 (Green Energy & Environmental Policy)"
+                "Eco-Civilization: 绿水青山 (Lucid Waters) = 金山银山 (Invaluable Assets), 国家公园 (National Parks), 生态红线 (Eco Redline)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "The iconic slogan «绿水青山就是金山银山» was first proposed in 2005 in Yucun, Anji, Zhejiang, now serving as the cornerstone of China's constitutional commitment to ecological civilization."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「生态文明与绿色发展 (Green Energy & Environmental Policy)」在第2小节中的标准汉语语法规范？",
+                    "prompt": "深刻阐述生态环境保护与经济可持续发展辩证共生关系的当代中国生态文明核心名言是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (27.2.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (27.2.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (27.2.3)。"
+                        "先污染后治理",
+                        "绿水青山就是金山银山 (Lucid waters and lush mountains are invaluable assets)",
+                        "竭泽而渔"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "绿水青山就是金山银山 is the foundational ecological civilization doctrine."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「绿色能源转型与生态文明 (Green Energy & Ecological Policy)」语用情境与完整句式的选项（练习 2）：",
+                    "prompt": "为保障国家生态安全底线，在生态功能极重要、生态环境极脆弱区域强制划定的不可逾越的空间保护界线被称为：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (27.2.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (27.2.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (27.2.3)。"
+                        "生态保护红线 (Ecological Conservation Red Line)",
+                        "城市扩张线",
+                        "商业开采区"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "生态保护红线 marks strictly protected, non-negotiable ecological buffer zones."
                 }
             ]
         },
@@ -13317,85 +13334,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「生态文明与绿色发展 (Green Energy & Environmental Policy)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 27-2）？",
+                    "prompt": "关于中国生态文明建设、两山理念与国家公园体系，下列哪一项表述完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (27.2.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (27.2.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (27.2.3)。"
+                        "两山理念主张彻底放弃环境保护来追求短期利益",
+                        "生态文明建设践行“绿水青山就是金山银山”，通过划定生态红线与建立国家公园体系，实现了人与自然的和谐共生 (Practices Two Mountains, eco-redlines, and national parks for harmony between humans and nature)",
+                        "三江源地区已经停止一切动植物保护"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "Accurately articulates the ideological and institutional framework of China's ecological civilization."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («环保_27_2»):",
+                    "prompt": "Type the 4-character Hanzi phrase for 'lucid waters and lush mountains / green hills and clear waters' (绿水青山):",
                     "acceptedAnswers": [
-                        "环保_27_2"
+                        "绿水青山",
+                        "lvshuiqingshan",
+                        "lǜshuǐqīngshān",
+                        "Lǜshuǐqīngshān",
+                        "Lvshuiqingshan",
+                        "綠水青山"
                     ],
-                    "explanation": "The target keyword was: 【环保_27_2】"
+                    "explanation": "绿水青山 (lǜ shuǐ qīng shān) means 'lucid waters and lush mountains'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u27-l3": {
         "id": "zh-u27-l3",
-        "subject": "mandarin",
-        "unit": 27,
-        "lessonNumber": 3,
-        "title": "绿色能源转型与生态文明 (Green Energy & Ecological Policy) (Part 3)",
+        "unit": "zh-u27",
         "level": "C1",
-        "objective": "Comprehensive mastery of 生态文明与绿色发展 (Green Energy & Environmental Policy).",
+        "objective": "Master the technical and industrial discourse of New Energy Vehicles and battery technology (新能源汽车 NEVs, 动力电池 power battery, 磷酸铁锂 / 三元锂 LFP / NCM batteries, 固态电池 solid-state battery, 超级快充 supercharging, 换电站 battery-swap station).",
+        "prerequisites": [
+            "zh-u27-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u27-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「绿色能源转型与生态文明 (Green Energy & Ecological Policy)」（第3部分）的核心句法结构与生态文明与绿色发展 (Green Energy & Environmental Policy)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "中国新能源汽车（NEV）产业已构建起从上游关键矿产提炼、动力电池电芯制造到整车制造与全球出口的完备工业生态！\n\n1. 核心动力与电池技术路线 (Battery Chemistry & Tech):\n- **动力电池 (Power Battery)**：以宁德时代（CATL）、比亚迪为代表，全球市场份额占据半壁江山。\n- **磷酸铁锂电池 (LFP Battery)**：安全性高、循环寿命长、成本优势显著。\n- **三元锂电池 (NCM Battery)**：能量密度高、低温续航表现优异。\n- **固态电池 (Solid-State Battery)**：下一代颠覆性电池技术，具有极高能量密度与本征安全性。\n\n2. 补能生态与智能网联 (Charging Ecosystem & Smart Cockpit):\n- **800V高压超充** / **换电模式 (Battery-Swapping)** / **车路协同与高阶智能驾驶**。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (27.3.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "汽车工业协会秘书长在国际车展主旨论坛上发布数据：‘中国新能源汽车产销量连续多年位居全球第一，凭借成熟的动力电池垂直整合能力与智能座舱体验，成为全球汽车电动化转型的核心引擎！’",
+                    "reading": "Qìchē Gōngyè Xiéhuì mǐshūzhǎng zài guójì chēzhǎn zhǔzhǐ lùntán shang fābù shùjù: ‘Zhōngguó xīn néngyuán qìchē chǎnxiāoliàng liánxù duō nián wèijū quánqiú dì-yī, píngjiè chéngshú de dònglì diànchí chuízhí zhěnghé nénglì yǔ zhìnéng zuòcāng tǐyàn, chéngwéi quánqiú qìchē diàndònghuà zhuǎnxíng de héxīn yǐnqíng!’",
+                    "translation": "The association secretary announced: 'China leads global NEV production, serving as the primary engine for global EV transition with battery integration and smart cockpits!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (27.3.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "电池研发首席科学家在学术研讨会上展示最新突破：‘我们自研的新一代高能量密度全固态电池已进入装车路测阶段，在零下三十度极寒环境下续航衰减不到百分之十！’",
+                    "reading": "Diànchí yánfā shǒuxí kēxuéjiā zài xuéshù yántǎohuì shang zhǎnshì zuìxīn tūpò: ‘Wǒmen zìyán de xīn yídài gāo néngliàng mìdù quán-gùtài diànchí yǐ jìnrù zhuāngchē lùcè jiēduàn, zài língxià sānshí dù jíhán huánjìng xià xùháng shuāijiǎn bù dào bǎifēnzhī shí!’",
+                    "translation": "The scientist presented: 'Our proprietary solid-state battery has entered road testing, retaining over 90% range at minus 30 degrees Celsius!'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (27.3.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "大卫体验全自动换电站的便捷服务：‘开进智能换电站后，机械臂在短短三分钟内便完成了底盘动力电池的精准更换，完全消除了长途自驾的里程焦虑！’",
+                    "reading": "Dàwèi tǐyàn quán-zìdòng huàndiànzhàn de biànjié fúwù: ‘Kāijìn zhìnéng huàndiànzhàn hòu, jīxièbì zài duǎnduǎn sān fēnzhōng nèi biàn wánchéng le dǐpán dònglì diànchí de jīngzhǔn gēnghuàn, wánquán xiāochú le chángtú zìjià de lǐchéng jiāolǜ!’",
+                    "translation": "David experienced automated battery swap: 'Robotic arms swapped the chassis battery in 3 minutes, eliminating long-distance range anxiety!'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 生态文明与绿色发展 (Green Energy & Environmental Policy)"
+                "NEV Dominance: 新能源汽车 (NEV), 动力电池 (Power Battery), 固态电池 (Solid-State), 换电超充 (Swap & Supercharge)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "China accounts for over 60% of global electric vehicle production and over 70% of global battery manufacturing capacity (led by CATL and BYD)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「生态文明与绿色发展 (Green Energy & Environmental Policy)」在第3小节中的标准汉语语法规范？",
+                    "prompt": "包括纯电动汽车（BEV）、插电式混合动力汽车（PHEV）与燃料电池汽车（FCEV）在内的官方综合产业统称是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (27.3.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (27.3.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (27.3.3)。"
+                        "传统燃油车",
+                        "新能源汽车 (New Energy Vehicles / NEVs)",
+                        "人力三轮车"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "新能源汽车 (NEV) is China's official classification encompassing BEVs, PHEVs, and FCEVs."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「绿色能源转型与生态文明 (Green Energy & Ecological Policy)」语用情境与完整句式的选项（练习 3）：",
+                    "prompt": "通过机械自动化设备在数分钟内将电动汽车亏电电池替换为满电电池的补能创新模式被称为：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (27.3.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (27.3.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (27.3.3)。"
+                        "换电模式 / 换电站 (Battery-swapping mode / Battery-swap station)",
+                        "燃油加注",
+                        "拖车救援"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "换电模式 (battery-swapping) allows full recharge in 3 minutes via automated battery replacement."
                 }
             ]
         },
@@ -13403,85 +13432,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「生态文明与绿色发展 (Green Energy & Environmental Policy)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 27-3）？",
+                    "prompt": "关于中国新能源汽车产业技术优势与全球竞争格局，下列哪一项表述完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (27.3.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (27.3.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (27.3.3)。"
+                        "中国新能源汽车没有任何核心电池技术",
+                        "中国新能源汽车无法实现出口",
+                        "中国凭借成熟的动力电池产业链、高压超充与换电生态以及领先的智能座舱技术，形成了强大的全球新能源汽车智造优势 (Mature battery supply chain, fast charging/swap ecosystem, and smart cockpits)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "Accurately synthesizes the industrial supremacy and technological features of China's NEV ecosystem."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («环保_27_3»):",
+                    "prompt": "Type the 5-character Hanzi phrase for 'New Energy Vehicles' (新能源汽车):",
                     "acceptedAnswers": [
-                        "环保_27_3"
+                        "新能源汽车",
+                        "xinnengyuanqiche",
+                        "xīnnéngyuánqìchē",
+                        "Xīnnéngyuánqìchē",
+                        "Xinnengyuanqiche",
+                        "新能源汽車"
                     ],
-                    "explanation": "The target keyword was: 【环保_27_3】"
+                    "explanation": "新能源汽车 (xīn néngyuán qìchē) means 'New Energy Vehicles / NEVs'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u27-l4": {
         "id": "zh-u27-l4",
-        "subject": "mandarin",
-        "unit": 27,
-        "lessonNumber": 4,
-        "title": "绿色能源转型与生态文明 (Green Energy & Ecological Policy) (Part 4)",
+        "unit": "zh-u27",
         "level": "C1",
-        "objective": "Comprehensive mastery of 生态文明与绿色发展 (Green Energy & Environmental Policy).",
+        "objective": "Master the financial and compliance discourse of carbon markets and green finance (全国碳排放权交易市场 National Carbon ETS, 碳配额 carbon allowance, 碳足迹 carbon footprint, 绿色金融 green finance, 绿色债券 green bonds, ESG 环境社会治理报告).",
+        "prerequisites": [
+            "zh-u27-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u27-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「绿色能源转型与生态文明 (Green Energy & Ecological Policy)」（第4部分）的核心句法结构与生态文明与绿色发展 (Green Energy & Environmental Policy)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "利用市场化机制推动全社会低碳减排，**全国碳排放权交易市场（National Carbon ETS）与绿色金融体系**已成为实现可持续发展的核心制度支柱！\n\n1. 碳交易市场机制 (Carbon Market Architecture):\n- **碳排放权配额 (Carbon Emission Allowance - CEA)**：监管部门向重点排放企业核发的二氧化碳排放许可额度。\n- **碳履约与碳交易**：超额减排企业可在交易所出售剩余配额，超标排放企业必须在市场上买入配额以完成清缴履约。\n- **产品碳足迹 (Product Carbon Footprint)**：核算产品从原材料采集、制造到废弃全生命周期的碳排放量。\n\n2. 绿色金融与ESG评级 (Green Finance & ESG):\n- **绿色信贷与绿色债券 (Green Credit & Green Bonds)**：资金专门用于支持节能环保与清洁能源项目。\n- **ESG（环境、社会与公司治理）**：上市公司可持续发展能力与合规治理的国际通行评价标准。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (27.4.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "上海环境能源交易所负责人在碳金融峰会上公布：‘中国全国碳排放权交易市场已覆盖全球最大规模的温室气体排放量，碳定价机制有效倒逼了高耗能企业实施绿色节能技改！’",
+                    "reading": "Shànghǎi Huánjìng Néngyuán Jiāoyìsuǒ fùzérén zài tàn jīnróng fēnghuì shang gōngbù: ‘Zhōngguó quánguó tàn páifàngquán jiāoyì shìchǎng yǐ fùgài quánqiú zuì dà guīmó de wēnshì qìtǐ páifàngliàng, tàn dìngjià jīzhì yǒuxiào dàobī le gāo-hàonéng qǐyè shíshī lǜsè jiénéng jìgǎi!’",
+                    "translation": "The exchange head announced: 'China's national ETS covers the largest emissions globally; carbon pricing compels energy-intensive firms to innovate green technologies!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (27.4.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "可持续发展总监在年度股东大会上展示ESG成果：‘我们严格按照国际准则核算全产业链的“产品碳足迹”，并成功发行了五亿元人民币的绿色碳中和债券，全部投向零碳智慧园区建设。’",
+                    "reading": "Kěchíxù Fāzhǎn zǒngjiān zài niándù gǔdōng dàhuì shang zhǎnshì ESG chéngguǒ: ‘Wǒmen yángé ànzhào guójì zhǔnzé hésuàn quán chǎnyèliàn de “chǎnpǐn tànzújì”, bìng chénggōng fāxíng le wǔ yì yuán Rénmínbì de lǜsè tàn zhōnghé zhàndài, quánbù tóuxiàng língtàn zhìnéng yuánqū jiànshè.’",
+                    "translation": "The sustainability director presented: 'We audited product carbon footprints across supply chains and issued 500M RMB green carbon-neutral bonds for zero-carbon parks.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (27.4.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "大卫在跨国投行做绿色金融尽调报告：‘将ESG指标深度纳入信贷审批与投资决策体系，不仅能有效规避高污染行业的合规风险，更能精准捕捉绿色转型带来的长期价值增长。’",
+                    "reading": "Dàwèi zài kuàguó tóuháng zuò lǜsè jīnróng jìndiào bàogào: ‘Jiāng ESG zhǐbiāo shēndù nàrù xìndài shěnpī yǔ tóuzī juécè tǐxì, bùjǐn néng yǒuxiào guībì gāo-wūrǎn hángyè de hégūi fēnxiǎn, gèng néng jīngzhǔn bǔzhuō lǜsè zhuǎnxíng dài lái de chángqī jiàzhí zēngzhǎng.’",
+                    "translation": "David reported: 'Integrating ESG into credit approvals mitigates compliance risks and captures long-term value from green transitions.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 生态文明与绿色发展 (Green Energy & Environmental Policy)"
+                "Green Finance: 碳交易 (ETS Allowance), 碳足迹 (Carbon Footprint), 绿色债券 (Green Bonds), ESG披露 (ESG Reporting)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "China's National Carbon ETS launched in July 2021, instantly becoming the largest carbon market in the world by covered emissions (over 4.5 billion tonnes of CO2 in the power sector alone)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「生态文明与绿色发展 (Green Energy & Environmental Policy)」在第4小节中的标准汉语语法规范？",
+                    "prompt": "衡量一个产品从原材料获取、生产加工、运输储存到最终消费与废弃处理全生命周期温室气体排放总量的指标是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (27.4.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (27.4.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (27.4.3)。"
+                        "产品碳足迹 (Product Carbon Footprint)",
+                        "产品体积",
+                        "产品保质期"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "产品碳足迹 (Product Carbon Footprint) measures the full lifecycle greenhouse gas emissions of a product."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「绿色能源转型与生态文明 (Green Energy & Ecological Policy)」语用情境与完整句式的选项（练习 4）：",
+                    "prompt": "企业或政府募集资金、专门用于支持符合国家标准的节能减排、清洁能源或生态环保项目的债券品种是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (27.4.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (27.4.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (27.4.3)。"
+                        "高息垃圾债",
+                        "绿色债券 (Green Bonds / Climate Bonds)",
+                        "博彩彩票"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "绿色债券 (Green Bonds) are earmarked specifically for environmentally beneficial and climate transition projects."
                 }
             ]
         },
@@ -13489,85 +13530,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「生态文明与绿色发展 (Green Energy & Environmental Policy)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 27-4）？",
+                    "prompt": "关于中国全国碳交易市场与绿色金融工具的运作机制，下列哪一项表述完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (27.4.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (27.4.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (27.4.3)。"
+                        "碳排放配额可以无限制免费随意挥霍",
+                        "碳足迹无法进行科学核算",
+                        "全国碳市场通过配额交易与碳定价机制倒逼企业减排，结合绿色信贷与绿色债券等金融工具为绿色低碳转型提供坚实支撑 (National ETS uses carbon pricing and green bonds/loans to compel and finance decarbonization)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "Accurately represents the market mechanisms of carbon trading and green financial instruments."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («环保_27_4»):",
+                    "prompt": "Type the 3-character Hanzi term for 'carbon footprint' (碳足迹):",
                     "acceptedAnswers": [
-                        "环保_27_4"
+                        "碳足迹",
+                        "tanzuji",
+                        "tànzújì",
+                        "Tànzújì",
+                        "Tanzuji",
+                        "碳足跡"
                     ],
-                    "explanation": "The target keyword was: 【环保_27_4】"
+                    "explanation": "碳足迹 (tàn zújì) means 'carbon footprint'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u27-l5": {
         "id": "zh-u27-l5",
-        "subject": "mandarin",
-        "unit": 27,
-        "lessonNumber": 5,
-        "title": "绿色能源转型与生态文明 (Green Energy & Ecological Policy) (Part 5)",
+        "unit": "zh-u27",
         "level": "C1",
-        "objective": "Comprehensive mastery of 生态文明与绿色发展 (Green Energy & Environmental Policy).",
+        "objective": "Synthesize all clean energy, ecological governance, NEVs, and carbon finance discourse into UN climate negotiations, COP summits, and global ESG communiques.",
+        "prerequisites": [
+            "zh-u27-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u27-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「绿色能源转型与生态文明 (Green Energy & Ecological Policy)」（第5部分）的核心句法结构与生态文明与绿色发展 (Green Energy & Environmental Policy)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在本课中，我们将系统整合第二十七单元的所有双碳战略、生态红线、新能源汽车革命与绿色金融体系，在联合国气候变化大会（COP）与全球可持续发展领导人峰会中进行全景论述与高阶谈判！\n\n1. 绿色转型与全球生态治理全景矩阵 (Master Eco-Policy Matrix):\n| 生态转型维度 | 核心制度与技术支撑 | 全球贡献与战略格局 |\n| :--- | :--- | :--- |\n| **双碳战略** | 2030碳达峰 / 2060碳中和 / 光伏特高压 | 建成全球最大规模清洁发电网络，大幅压低全球绿色用能成本 |\n| **生态治理** | 两山理念 / 生态红线 / 国家公园体制 | 保护全球生物多样性，提供荒漠化治理与生态修复的中国方案 |\n| **新能源出行** | 动力电池 / 智能座舱 / 800V超充换电 | 领跑全球NEV智造与电动化普及，构建零碳智慧交通生态 |\n| **市场金融** | 全国碳市场 / 产品碳足迹 / 绿色债券 | 覆盖全球最大碳排放交易量，以绿色金融赋能实体产业减碳 |\n| **气候外交** | 共同但有区别的责任 / 人类命运共同体 | 坚守多边主义，积极推动构建公平合理、合作共赢的全球环境治理体系 |\n\n2. 第二十七单元实战交际演练 (Unit 27 Global Climate Summit):\n- 联合国气候变化大会（COP）中国角主旨发言与全球绿色低碳发展高级别对话。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (27.5.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "中国气候变化事务特使在联合国气候大会（COP）全体会议上发表演讲：‘中国坚持言必信、行必果，不仅制定了清晰雄健的“双碳”行动方案，更通过全球领先的绿色能源与新能源汽车产业，为全球落实《巴黎协定》注入了强劲确定性！’",
+                    "reading": "Zhōngguó Qìhòu Biànhuà Shìwù Tèshǐ zài Liánhéguó Qìhòu Dàhuì (COP) quántǐ huìyì shang fābiǎo yǎnjiǎng: ‘Zhōngguó jiānchí yán bì xìn, xíng bì guǒ, bùjǐn zhìdìng le qīngxī xióngjiàn de “shuāngtàn” xíngdòng fāng'àn, gèng tōngguò quánqiú lǐngxiān de lǜsè néngyuán yǔ xīn néngyuán qìchē chǎnyè, wèi quánqiú luòshí «Bālí Xiédìng» zhùrù le qiángjìn quèdìngxìng!’",
+                    "translation": "The climate envoy addressed COP: 'China keeps its word with concrete Dual Carbon actions, injecting strong momentum into Paris Agreement implementation via clean tech!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (27.5.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫在世界可持续发展工商理事会主旨论坛发言：‘从荒漠光伏基地到智能换电网络，从全国碳市场到深入人心的“两山”生态哲学，中国正在走出一条经济繁荣与绿水青山相得益彰的中国式现代化绿色发展之路！’",
+                    "reading": "Dàwèi zài Shìjiè Kěchíxù Fāzhǎn Gōngshāng Lǐshìhuì zhǔzhǐ lùntán fāyán: ‘Cóng huāngmò guāngfú jīdì dào zhìnéng huàndiàn wǎngluò, cóng quánguó tàn shìchǎng dào shēnrù-rénxīn de “liǎngshān” shēngtài zhéxué, Zhōngguó zhèngzài zǒuchū yì tiáo jīngjì fánróng yǔ lǜshuǐ-qīngshān xiāngdé-yìzhāng de Zhōngguóshì xiàndàihuà lǜsè fāzhǎn zhī lù!’",
+                    "translation": "David stated: 'From desert solar to battery swapping, from ETS to Two Mountains, China demonstrates a modernized green path harmonizing growth and ecology!'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (27.5.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "联合国环境规划署执行主任高度评价中国贡献：‘中国在荒漠化治理、可再生能源规模化应用与生态红线保护方面的卓越实践，为广大发展中国家实现绿色包容性增长树立了光辉典范！’",
+                    "reading": "Liánhéguó Huánjìng Guīhuàshǔ zhíxíng zhǔrèn gāodù píngjià Zhōngguó gòngxiàn: ‘Zhōngguó zài huāngmòhuà zhìlǐ, kězàishēng néngyuán guīmóhuà yìngyòng yǔ shēngtài hóngxiàn bǎohù fāngmiàn de zhuóyuè shíjiàn, wèi guǎngdà fāzhǎnzhōng guójiā shíxiàn lǜsè bāoróngxìng zēngzhǎng shùlì le guānghuī diǎnfàn!’",
+                    "translation": "The UNEP Executive Director praised: 'China's desertification control, renewables scale, and eco-redlines set a brilliant model for green inclusive growth!'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 生态文明与绿色发展 (Green Energy & Environmental Policy)"
+                "Climate Leadership: 3060双碳 (Dual Carbon) + 两山理念 (Two Mountains) + 绿电电车 (Solar & NEVs) + 碳市金融 (ETS & Green Bonds) = Sustainable Planet (人类命运共同体)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "In international climate negotiations, China upholds the core principle of «共同但有区别的责任» (Common But Differentiated Responsibilities - CBDR) as enshrined in the UNFCCC."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「生态文明与绿色发展 (Green Energy & Environmental Policy)」在第5小节中的标准汉语语法规范？",
+                    "prompt": "联合国气候变化框架公约确立的指导发达国家与发展中国家公平分担减排历史责任的核心国际法原则是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (27.5.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (27.5.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (27.5.3)。"
+                        "完全相同绝对责任",
+                        "共同但有区别的责任 (Common But Differentiated Responsibilities / CBDR)",
+                        "互不相干原则"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "共同但有区别的责任 (CBDR) is the foundational principle of international climate law."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「绿色能源转型与生态文明 (Green Energy & Ecological Policy)」语用情境与完整句式的选项（练习 5）：",
+                    "prompt": "中国向世界倡导的旨在统筹经济繁荣、社会公平与地球生态环境平衡发展的人类未来愿景是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (27.5.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (27.5.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (27.5.3)。"
+                        "人与自然生命共同体 (A Community of Life for Man and Nature / Ecological Community of Shared Future)",
+                        "零和博弈竞争",
+                        "掠夺式开发"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "人与自然生命共同体 represents the global vision for harmonious ecological co-existence."
                 }
             ]
         },
@@ -13575,24 +13628,32 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「生态文明与绿色发展 (Green Energy & Environmental Policy)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 27-5）？",
+                    "prompt": "关于中国在应对全球气候变化、推动生态文明建设与绿色产业发展中的综合战略定位，下列哪一项总括完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (27.5.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (27.5.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (27.5.3)。"
+                        "中国反对一切全球绿色气候合作",
+                        "中国依托雄健的「双碳」行动方案、世界领先的清洁能源与新能源汽车全产业链、以及不断深化的生态红线与碳交易制度，成为全球生态治理的重要参与者、贡献者与引领者 (Crucial participant, contributor, and leader in global eco-governance)",
+                        "中国只在口头上承诺减排"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "Comprehensively summarizes China's role as a major contributor and leader in global climate governance, clean energy, and ecological civilization."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («环保_27_5»):",
+                    "prompt": "Type the 4-character Hanzi phrase for 'Dual Carbon goals (Peak Carbon & Carbon Neutrality)' (双碳战略):",
                     "acceptedAnswers": [
-                        "环保_27_5"
+                        "双碳战略",
+                        "双碳",
+                        "shuangtanzhanlve",
+                        "shuāngtànzhànlüè",
+                        "Shuāngtànzhànlüè",
+                        "Shuangtanzhanlve",
+                        "雙碳戰略",
+                        "雙碳"
                     ],
-                    "explanation": "The target keyword was: 【环保_27_5】"
+                    "explanation": "双碳战略 (shuāngtàn zhànlüè) means 'Dual Carbon Strategy (Peak & Neutrality)'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u28-l1": {
