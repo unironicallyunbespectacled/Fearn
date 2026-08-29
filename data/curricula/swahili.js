@@ -487,31 +487,39 @@
         "lessonNumber": 1,
         "title": "Matamshi ya Kiswahili na Salamu (Phonetics & Greetings) (Part 1)",
         "level": "A1",
-        "objective": "Comprehensive mastery of Salamu na Maamkizi (Greetings & Etiquette).",
+        "objective": "Master core Swahili greetings (Hujambo/Sijambo, Habari, Shikamoo/Marahaba), the invariable penultimate stress rule, the 5 pure vowels, and special digraphs (ng', ng, ny).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Matamshi ya Kiswahili na Salamu (Phonetics & Greetings) » (Sehemu ya 1), tunachunguza kanuni za kisarufi zinazohusu Salamu na Maamkizi (Greetings & Etiquette). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "Swahili (Kiswahili) is a major Bantu lingua franca of East Africa, written phonetically in the Latin alphabet. Before diving into complex noun classes, you must master the fundamental rules of Swahili pronunciation:\n\n### 🔤 Swahili Orthography & Phonetic Engine:\n1. **The Invariable Penultimate Stress Rule**:\n   - In virtually EVERY Swahili word, the primary stress falls rhythmically on the **second-to-last (penultimate) syllable**! E.g. *ha-BA-ri* [haˈba.ɾi], *si-JAM-bo* [siˈdʒa.mbo], *a-SAN-te* [aˈsa.nte], *kwa-HE-ri* [kwaˈhe.ɾi], *MWA-li-mu* [ˈmwa.li.mu]. Stress never moves to the end of a word.\n2. **The 5 Pure Vowels (A, E, I, O, U)**:\n   - Unlike English diphthongs, Swahili vowels are completely pure and unglided: **a** = [a] (*baba*), **e** = [ɛ] (*yeye*), **i** = [i] (*sisi*), **o** = [ɔ] (*chote*), **u** = [u] (*huyu*). Each vowel letter is a distinct syllable (e.g. *kua* = ku-a, two syllables!).\n3. **Special Digraphs (ng', ng, ny)**:\n   - **ng'** (with apostrophe) = [ŋ] (the pure velar nasal in English *singer*, with **no hard 'g' click**! E.g. *ng'ombe* [ˈŋɔ.mbɛ] 'cow', *ng'o*).\n   - **ng** (without apostrophe) = [ŋɡ] (velar nasal + hard 'g', as in English *finger*, e.g. *kinga* [ˈki.ŋɡa], *Kiingereza*).\n   - **ny** = [ɲ] (palatal nasal, like Spanish *ñ*, e.g. *nyumba* [ˈɲu.mba] 'house', *nyota* [ˈɲɔ.ta] 'star').\n4. **Syllabic 'm' and 'n'**:\n   - In prefixes before consonants (*mtu* [m̩ˈtu] 'person', *mwalimu*), the **m** forms its own humming syllable beat.\n\n### 🗣️ Core Swahili Greetings:\n- **Hujambo?** (Any issue with you?) → **Sijambo!** (I have no issue / I am fine).\n- **Habari gani?** (What news?) → **Nzuri!** (Good/Fine) or **Salama!** (Peaceful).\n- **Shikamoo!** (Respectful greeting to elders, literally 'I hold your feet') → **Marahaba!** (Delighted / thank you).",
             "examples": [
                 {
-                    "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (1.1.1).",
-                    "reading": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani.",
-                    "translation": "The teacher teaches students with diligence and abundant knowledge in class."
+                    "target": "Hujambo, mwalimu? — Sijambo, habari za asubuhi?",
+                    "reading": "[huˈdʒa.mbo, mwaˈli.mu? — siˈdʒa.mbo, haˈba.ɾi za asuˈbu.hi?]",
+                    "translation": "How are you, teacher? — I am fine, how is the morning news?"
                 },
                 {
-                    "target": "Sisi tunakwenda maktaba kuu kila asubuhi kusoma vitabu vizuri vya kitaaluma (1.1.2).",
-                    "reading": "Sisi tunakwenda maktaba kuu kila asubuhi kusoma vitabu vizuri vya kitaaluma.",
-                    "translation": "We go to the main library every morning to read good academic books."
+                    "target": "Habari gani rafiki yangu? — Nzuri sana, asante!",
+                    "reading": "[haˈba.ɾi ˈɡa.ni ɾaˈfi.ki ˈja.ŋɡu? — ˈnzu.ɾi ˈsa.na, aˈsa.nte!]",
+                    "translation": "What is the news, my friend? — Very good, thank you! (all stress on second-to-last syllable)"
                 },
                 {
-                    "target": "Mji wetu una vivutio vingi vya kihistoria na bustani nzuri za kupumzikia (1.1.3).",
-                    "reading": "Mji wetu una vivutio vingi vya kihistoria na bustani nzuri za kupumzikia.",
-                    "translation": "Our city has many historical attractions and beautiful relaxation parks."
+                    "target": "Shikamoo mzee! — Marahaba, mtoto wangu.",
+                    "reading": "[ʃikaˈmoː m̩ˈzɛː! — maɾaˈha.ba, m̩ˈtɔ.tɔ ˈwa.ŋɡu]",
+                    "translation": "Respectful greetings, elder! — Welcome/blessed, my child. (Shikamoo is reserved for elders)"
+                },
+                {
+                    "target": "Ng'ombe wanakula nyasi karibu na nyumba yetu.",
+                    "reading": "[ˈŋɔ.mbɛ wanaˈku.la ˈɲa.si kaˈɾi.bu na ˈɲu.mba ˈjɛ.tu]",
+                    "translation": "The cows are eating grass near our house. (ng' has pure [ŋ], ny has palatal [ɲ])"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Salamu na Maamkizi (Greetings & Etiquette)"
+                "The Penultimate Beat Rule: March to the beat of Swahili — clap on the second-to-last syllable of EVERY word (ha-BA-ri, si-JAM-bo, a-SAN-te)!",
+                "ng' vs ng: ng' with an apostrophe cuts off the hard 'g' (pure 'sing-er'); ng without apostrophe keeps the hard 'g' ('fin-ger')!",
+                "Shikamoo = Respect for Elders: Never say Shikamoo to a peer or child — it's the golden key of East African respect."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Shikamoo & Marahaba: Respect for age and hierarchy is deeply embedded in Swahili culture. Greeting an elder or respected figure with 'Shikamoo' is mandatory courtesy across Tanzania and Kenya, answered graciously with 'Marahaba'.",
+                "Greeting Inquiries (Habari za...): In East Africa, greetings are an unhurried social ritual. Inquiring after the morning (za asubuhi), work (za kazi), or family (za nyumbani) before jumping into business is essential etiquette."
             ]
         },
         "guidedPractice": {
