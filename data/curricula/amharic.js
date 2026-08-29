@@ -15456,63 +15456,69 @@
     },
     "am-u31-l1": {
         "id": "am-u31-l1",
-        "subject": "amharic",
-        "unit": 31,
-        "lessonNumber": 1,
-        "title": "ሳይንሳዊ ምርምር እና ትንተና (Scientific Research & Discourse) (Part 1)",
+        "unit": "am-u31",
         "level": "C2",
-        "objective": "Comprehensive mastery of ሳይንሳዊ ግኝት (Scientific Research).",
+        "objective": "Examine the scientific method in Amharic at CEFR C2 level, formulating testable empirical hypotheses («መላ-ምት»), quantitative experimental methodologies («የሙከራ ስልት»), peer-reviewed publication («የአቻ ግምገማ»), and statistical validity.",
+        "prerequisites": [
+            "am-u30-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u30-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ሳይንሳዊ ግኝት (Scientific Research) - ደረጃ 1) ተማሪዎች ስለ ሳይንሳዊ ግኝት (Scientific Research) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Scientific methodology rests upon empirical hypothesis formulation, rigorous laboratory experimentation, and peer-reviewed validation.\n\n1. Scientific Methodology Concepts:\n- **ሳይንሳዊ ዘዴ** (The scientific method: systematic empirical protocol)\n- **መላ-ምት** (Hypothesis / Formally testable proposition)\n- **የሙከራ ስልት** (Experimental methodology and laboratory apparatus)\n- **የአቻ ግምገማ** (Peer-review academic evaluation)\n- **የጥናት ድምዳሜ** (Empirical research findings and conclusions).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የሳይንሳዊ ግኝት (Scientific Research) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (31.1.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ተመራማሪዎቹ የቀረበውን ሳይንሳዊ መላ-ምት በቤተ-ሙከራ በተደረጉ ተከታታይ ሙከራዎች እና በተጨባጭ መረጃዎች አረጋገጡ።",
+                    "reading": "Temaramarīwochu yeqerebewun sayinsawī mela-mit bebēte-mukera betederegu teketatayi mukerawoch ina betech'ibach' merejawoch aregagetu.",
+                    "translation": "The researchers verified the proposed scientific hypothesis through consecutive laboratory experiments and empirical data."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (31.1.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የጥናቱ ውጤት በዓለም አቀፍ ደረጃ በታወቀ የሳይንስ ጆርናል ላይ ከመታተሙ በፊት ጥብቅ የአቻ ግምገማ (Peer review) ተካሂዶበታል።",
+                    "reading": "Yet'inatu wit'ēt be'alem aqef dereja betawweqe yeSayins Jornal lay kemetatemu befīt t'ibq ye'acha gimgema (Peer review) tekahīdobetal.",
+                    "translation": "Before the study results were published in an internationally recognized scientific journal, they underwent rigorous peer review."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (31.1.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ትክክለኛ ሳይንሳዊ ድምዳሜ ላይ ለመድረስ የተሰበሰበውን መረጃ በስታቲስቲክሳዊ ስልት በጥልቀት መተንተን ያስፈልጋል 31.1.3።",
+                    "reading": "Tikiklegna sayinsawī dimdamē lay lemedres yetesebisebewun mereja besitātīstīksawī silt bet'ilqet metenten yasfelegall.",
+                    "translation": "Reaching a valid scientific conclusion requires in-depth statistical analysis of the collected data."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ሳይንሳዊ ግኝት (Scientific Research)"
+                "«ሳይንሳዊ ዘዴ» = Scientific method! «መላ-ምት» = Hypothesis! «የአቻ ግምገማ» = Peer review!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "The Ethiopian Academy of Sciences (የኢትዮጵያ የሳይንስ አካዳሚ), established by distinguished Ethiopian scientists and fellows, provides independent evidence-based scientific guidance to national policy."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ሳይንሳዊ ግኝት (Scientific Research)» አጠቃቀም በደረጃ 1 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "በሳይንሳዊ ምርምር ወቅት በሙከራ ሊረጋገጥ ወይም ውድቅ ሊሆን የሚችል መነሻ ግምት ምን ይባላል?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (31.1.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (31.1.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (31.1.3)።"
+                        "መላ-ምት (Hypothesis)",
+                        "ወሬ (Rumor)",
+                        "ተረት (Fable)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "መላ-ምት (Hypothesis) is a testable proposition in scientific research."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ሳይንሳዊ ምርምር እና ትንተና (Scientific Research & Discourse)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 1)፡",
+                    "prompt": "«የአቻ ግምገማ» በሳይንሳዊ ህትመቶች ውስጥ ለምን ያስፈልጋል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (31.1.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (31.1.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (31.1.3)።"
+                        "To speed up printing",
+                        "To ensure research rigor, accuracy, methodology, and validity through expert peer evaluation (የጥናቱን ጥራት እና ትክክለኛነት በባለሙያዎች ለማረጋገጥ)",
+                        "To sign autographs"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "የአቻ ግምገማ guarantees academic rigor and empirical integrity."
                 }
             ]
         },
@@ -15520,85 +15526,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ሳይንሳዊ ግኝት (Scientific Research)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 31-1)?",
+                    "prompt": "የአንድ ሳይንሳዊ ጥናት የመጨረሻ እውነተኛ ውጤት በምን ይረጋገጣል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (31.1.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (31.1.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (31.1.3)።"
+                        "በተጨባጭ ማስረጃ እና በሙከራ (Empirical evidence & experiment)",
+                        "በጭፍን እምነት (Blind faith)",
+                        "በስሜት ብቻ (Emotion only)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR C2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "Empirical evidence and reproducible experimentation substantiate scientific findings."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ምርምር_31_1»):",
+                    "prompt": "Type the Amharic word for 'hypothesis' in Fidel script (መላ-ምት):",
                     "acceptedAnswers": [
-                        "ምርምር_31_1"
+                        "መላ-ምት",
+                        "mela-mit",
+                        "melamit",
+                        "mela mit",
+                        "መላምት"
                     ],
-                    "explanation": "The target keyword was: 【ምርምር_31_1】"
+                    "explanation": "መላ-ምት (Mela-mit) means 'hypothesis'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u31-l2": {
         "id": "am-u31-l2",
-        "subject": "amharic",
-        "unit": 31,
-        "lessonNumber": 2,
-        "title": "ሳይንሳዊ ምርምር እና ትንተና (Scientific Research & Discourse) (Part 2)",
+        "unit": "am-u31",
         "level": "C2",
-        "objective": "Comprehensive mastery of ሳይንሳዊ ግኝት (Scientific Research).",
+        "objective": "Examine medical sciences in Amharic, analyzing infectious disease epidemiology (ወባ, ሳንባ ነቀርሳ), clinical trial phases («የክሊኒካል ሙከራ»), traditional pharmacopeia («ባህላዊ የዕፅዋት መድሃኒቶች»), and public health immunology.",
+        "prerequisites": [
+            "am-u31-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u31-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ሳይንሳዊ ግኝት (Scientific Research) - ደረጃ 2) ተማሪዎች ስለ ሳይንሳዊ ግኝት (Scientific Research) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Biomedical research spans infectious disease surveillance, clinical pharmacopeia, and public health immunology.\n\n1. Biomedical Concepts:\n- **የህክምና ሳይንስ ምርምር** (Biomedical and clinical science research)\n- **ወረርሽኝ መከላከል** (Epidemic surveillance and infection prevention)\n- **ባህላዊ የዕፅዋት መድሃኒት** (Ethnobotanical pharmacology: e.g., *እንዶድ* and *ኮሶ*)\n- **የክሊኒካል ሙከራ** (Controlled clinical trial protocols)\n- **ህዝባዊ ጤና** (Public health, immunization, and community medicine).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የሳይንሳዊ ግኝት (Scientific Research) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (31.2.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "የኢትዮጵያ የህብረተሰብ ጤና ኢንስቲትዩት (EPHI) ተላላፊ በሽታዎችን እና ወረርሽኞችን ለመቆጣጠር የላቀ የላቦራቶሪ ምርመራ ያካሂዳል።",
+                    "reading": "Ye'ītyop'ya yehibireteseb t'ēna Īnsitītyut (EPHI) telalaflī beshitawchin ina werershignochin lemeqot'at'er yelaqe yelaboratorī mirmira yakahīdall.",
+                    "translation": "The Ethiopian Public Health Institute (EPHI) conducts advanced laboratory surveillance to control infectious diseases and epidemics."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (31.2.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የእንዶድ እና የኮሶ ባህላዊ የዕፅዋት መድሃኒቶች በዘመናዊ ፋርማኮሎጂ ተጠንተው ለዓለም አቀፍ ህክምና አስተዋጽኦ አበርክተዋል።",
+                    "reading": "Ye'indod ina yekoso bahilawī ye'its'wat medhanītoch bezemenawī farmakolojī tet'intew le'alem aqef hikmina asitewats'o aberkitewall.",
+                    "translation": "Traditional herbal medicines such as Endod and Kosso have been studied in modern pharmacology, contributing to global therapeutics."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (31.2.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የክትባት ፕሮግራሞች እና የጤና ኤክስቴንሽን ባለሙያዎች ስራ በገጠር ማህበረሰቦች ውስጥ የእናቶች እና የህጻናትን ሞት በከፍተኛ መጠን ቀንሷል 31.2.3።",
+                    "reading": "Yekitibat programoch ina yet'ēna ēksitēnshin balemuyawoch sira beget'er mahibereseboch wust ye'inatoch ina yehits'anatin mot bekefitegna met'en qeniswall.",
+                    "translation": "Vaccination initiatives and health extension workers have substantially reduced maternal and child mortality in rural communities."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ሳይንሳዊ ግኝት (Scientific Research)"
+                "«የህክምና ምርምር» = Medical research! «እንዶድ» = Indigenous botanical science! «ወረርሽኝ» = Epidemic control!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Dr. Aklilu Lemma's discovery of *Endod* (Phytolacca dodecandra) as a potent natural molluscicide against schistosomiasis/bilharzia won international scientific acclaim (Right Livelihood Award)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ሳይንሳዊ ግኝት (Scientific Research)» አጠቃቀም በደረጃ 2 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "ተላላፊ በሽታዎችን አስቀድሞ ለመከላከል ለሰውነት የሚሰጠው የህክምና መድሃኒት ምን ይባላል?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (31.2.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (31.2.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (31.2.3)።"
+                        "ክትባት (Vaccine)",
+                        "ጣፋጭ ምግብ (Sweet food)",
+                        "ቀለም (Paint)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "ክትባት (Vaccine) builds immunological defense against infectious pathogens."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ሳይንሳዊ ምርምር እና ትንተና (Scientific Research & Discourse)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 2)፡",
+                    "prompt": "የዶክተር አክሊሉ ለማ ዝነኛ ሳይንሳዊ ግኝት የትኛው ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (31.2.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (31.2.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (31.2.3)።"
+                        "Inventing airplanes",
+                        "Discovering that the Endod plant kills bilharzia-carrying snails (እንዶድ ቢልሃርዝያን እንደሚከላከል ማረጋገጥ)",
+                        "Writing poetry"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "Dr. Aklilu Lemma proved Endod's efficacy as a low-cost, natural molluscicide."
                 }
             ]
         },
@@ -15606,85 +15623,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ሳይንሳዊ ግኝት (Scientific Research)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 31-2)?",
+                    "prompt": "በዘመናዊ የህክምና ሳይንስ ውስጥ የመድሃኒት ደህንነት በሰው ላይ ከመተግበሩ በፊት የሚደረገው ጥናት ምን ይባላል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (31.2.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (31.2.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (31.2.3)።"
+                        "የገበያ ሽያጭ (Commercial sale)",
+                        "የክሊኒካል ሙከራ (Clinical trial)",
+                        "የስፖርት ውድድር (Sports race)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR C2 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "የክሊኒካል ሙከራ (Clinical trial) verifies pharmaceutical safety and efficacy."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ምርምር_31_2»):",
+                    "prompt": "Type the Amharic word for 'medicine / remedy' in Fidel script (መድሃኒት):",
                     "acceptedAnswers": [
-                        "ምርምር_31_2"
+                        "መድሃኒት",
+                        "medhanit",
+                        "medihanīt",
+                        "medhanīt",
+                        "መድኃኒት"
                     ],
-                    "explanation": "The target keyword was: 【ምርምር_31_2】"
+                    "explanation": "መድሃኒት (Medhanīt) means 'medicine / cure'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u31-l3": {
         "id": "am-u31-l3",
-        "subject": "amharic",
-        "unit": 31,
-        "lessonNumber": 3,
-        "title": "ሳይንሳዊ ምርምር እና ትንተና (Scientific Research & Discourse) (Part 3)",
+        "unit": "am-u31",
         "level": "C2",
-        "objective": "Comprehensive mastery of ሳይንሳዊ ግኝት (Scientific Research).",
+        "objective": "Appraise agricultural genomics, molecular crop breeding, indigenous grain genome sequencing (ጤፍ, እንሰት), drought-resistant seed biotechnology, and national agro-ecological sovereignty.",
+        "prerequisites": [
+            "am-u31-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u31-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ሳይንሳዊ ግኝት (Scientific Research) - ደረጃ 3) ተማሪዎች ስለ ሳይንሳዊ ግኝት (Scientific Research) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Biotechnology and genomics optimize staple grain resilience, yield potential, and drought adaptation.\n\n1. Agricultural Genomics Concepts:\n- **የግብርና ባዮቴክኖሎጂ** (Agricultural biotechnology)\n- **የሰብል ጂኖም ምርምር** (Crop genomic mapping and trait selection)\n- **የጤፍ እና የእንሰት ማሻሻል** (Genomic breeding of indigenous crops: Eragrostis tef, Ensete ventricosum)\n- **ድርቅን የሚቋቋሙ ዝርያዎች** (Drought-tolerant high-yield cultivars)\n- **የምግብ ሉዓላዊነት** (Food sovereignty and agricultural resilience).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የሳይንሳዊ ግኝት (Scientific Research) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (31.3.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "የግብርና ተመራማሪዎች የጤፍን ጂኖም በመመርመር ድርቅን የሚቋቋሙ እና ከፍተኛ ምርት የሚሰጡ የተሻሻሉ የሰብል ዝርያዎችን አፍርተዋል።",
+                    "reading": "Yegibirna temaramarīwoch yet'ēfn jīnom bemermer dirqn yemīqwaqwamu ina kefitegna mirt yemīset'u yeteshashalu yesebil ziryawochin afritewall.",
+                    "translation": "By analyzing the teff genome, agricultural researchers have developed enhanced crop varieties that resist drought and provide high yields."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (31.3.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "እንሰት (የውሸት ሙዝ) በድርቅ ጊዜ በሚሊዮኖች ለሚቆጠሩ ዜጎች ዘላቂ የምግብ ምንጭ በመሆን የሚያገለግል ድንቅ የአየር ንብረት ተከላካይ ሰብል ነው።",
+                    "reading": "Inset (yewushet muz) bedirq gīzē bemīlīyonoch lemīqot'eru zēgoch zelaqī yemigib minch' bemehon yemīyagelegil dinq ye'ayer nibret tekelakayi sebil new.",
+                    "translation": "Enset (false banana) is a resilient climate-shield crop serving as a sustainable food source for millions of citizens during droughts."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (31.3.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የዘመናዊ ባዮቴክኖሎጂ ምርምር የሀገሪቱን የግብርና ምርታማነት በማሳደግ የምግብ ዋስትናን በዘላቂነት ለማረጋገጥ ቁልፍ መሳሪያ ነው 31.3.3።",
+                    "reading": "Yezemenawī bayotēknolojī mirmir yehagerītun yegibirna mirtaminetn bemasadeg yemigib wastinan bezelaqīnet lemarigaget' qulif mesarīya new.",
+                    "translation": "Modern biotechnology research is a pivotal tool to permanently guarantee food security by boosting agricultural productivity."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ሳይንሳዊ ግኝት (Scientific Research)"
+                "«ባዮቴክኖሎጂ» = Biotechnology! «ጤፍ ጂኖም» = Teff genomics! «እንሰት» = Climate-resilient staple!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Teff (ጤፍ) is an ancient gluten-free cereal domesticated solely in the Ethiopian highlands, celebrated globally as an extraordinary superfood."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ሳይንሳዊ ግኝት (Scientific Research)» አጠቃቀም በደረጃ 3 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "በኢትዮጵያ ብቻ የሚመረት እና በዓለም አቀፍ ደረጃ በንጥረ-ነገሩ የታወቀው ጥንታዊ ሰብል የትኛው ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (31.3.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (31.3.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (31.3.3)።"
+                        "ጤፍ (Teff)",
+                        "ሩዝ (Rice)",
+                        "አጃ (Oats)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "ጤፍ is an ancient indigenous superfood crop domesticated in Ethiopia."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ሳይንሳዊ ምርምር እና ትንተና (Scientific Research & Discourse)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 3)፡",
+                    "prompt": "«የግብርና ባዮቴክኖሎጂ» ለምን ይጠቅማል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (31.3.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (31.3.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (31.3.3)።"
+                        "Cutting down farms",
+                        "Developing drought-resistant and high-yielding crop varieties (ድርቅን የሚቋቋሙ የተሻሻሉ ሰብሎችን ለማፍራት)",
+                        "Making artificial juice"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "Agricultural biotechnology breeds resilient, climate-hardy cultivars."
                 }
             ]
         },
@@ -15692,85 +15720,95 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ሳይንሳዊ ግኝት (Scientific Research)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 31-3)?",
+                    "prompt": "ድርቅን በከፍተኛ ሁኔታ የሚቋቋመው እና 'የውሸት ሙዝ' ተብሎ የሚጠራው የኢትዮጵያ ሰብል የትኛው ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (31.3.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (31.3.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (31.3.3)።"
+                        "ቡና (Coffee)",
+                        "እንሰት (Enset)",
+                        "ሰሊጥ (Sesame)"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR C2 target-language standard."
+                    "explanation": "እንሰት (Enset / Ensete ventricosum) is the drought-resistant staple known as the 'false banana'."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ምርምር_31_3»):",
+                    "prompt": "Type the Amharic word for 'crop / grain harvest' in Fidel script (ሰብል):",
                     "acceptedAnswers": [
-                        "ምርምር_31_3"
+                        "ሰብል",
+                        "sebil",
+                        "sibil",
+                        "Sebil"
                     ],
-                    "explanation": "The target keyword was: 【ምርምር_31_3】"
+                    "explanation": "ሰብል (Sebil) means 'crop / grain harvest'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u31-l4": {
         "id": "am-u31-l4",
-        "subject": "amharic",
-        "unit": 31,
-        "lessonNumber": 4,
-        "title": "ሳይንሳዊ ምርምር እና ትንተና (Scientific Research & Discourse) (Part 4)",
+        "unit": "am-u31",
         "level": "C2",
-        "objective": "Comprehensive mastery of ሳይንሳዊ ግኝት (Scientific Research).",
+        "objective": "Examine space science, satellite engineering, astronomical observatories (እንጦጦ ኦብዘርቫቶሪ), earth observation satellites («ሳተላይት» / ETRSS-1), remote sensing («የሩቅ ዳሰሳ»), and geospatial data analytics.",
+        "prerequisites": [
+            "am-u31-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u31-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ሳይንሳዊ ግኝት (Scientific Research) - ደረጃ 4) ተማሪዎች ስለ ሳይንሳዊ ግኝት (Scientific Research) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Space technology applications encompass orbital remote-sensing satellites and high-altitude astronomical observation.\n\n1. Space Science Concepts:\n- **የህዋ ሳይንስ እና ቴክኖሎጂ** (Space science and astrophysics)\n- **ምድር ምልከታ ሳተላይት (ETRSS-1)** (Ethiopian Remote Sensing Satellite-1, launched 2019)\n- **የሩቅ ዳሰሳ ቴክኖሎጂ** (Remote sensing for soil, water, forest, and urban monitoring)\n- **እንጦጦ ኦብዘርቫቶሪ** (Entoto Astronomical Observatory and Research Center at 3,200m altitude)\n- **የጂኦስፓሻል ዳታ ትንተና** (Geospatial data mapping and disaster early warning).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የሳይንሳዊ ግኝት (Scientific Research) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (31.4.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ኢትዮጵያ ወደ ህዋ ያመጠቀችው የመጀመሪያው ሳተላይት (ETRSS-1) ለአካባቢ ጥበቃ፣ ለግብርና እና ለአደጋ ስጋት ቅነሳ ጠቃሚ የሩቅ ዳሰሳ መረጃዎችን ያቀርባል።",
+                    "reading": "Ītyop'ya wede hiwa yamet'eqech'ew yemejemerīyaw satelayit (ETRSS-1) le'akababī t'ibeqqa, legibirna ina le'adega sigat qinesa t'eqamī yeruq dasesa merejawochin yaqerball.",
+                    "translation": "Ethiopia's first launched satellite (ETRSS-1) delivers valuable remote-sensing data for environmental protection, agriculture, and disaster risk reduction."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (31.4.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የእንጦጦ ኦብዘርቫቶሪ ዘመናዊ ቴሌስኮፖችን በመጠቀም በከዋክብት እና በህዋ ሳይንስ ዙሪያ ጥልቅ የከዋክብት ምርምር ያካሂዳል።",
+                    "reading": "Ye'Ent'ot'o obzervatorī zemenawī tēlēskopochin bemet'eqem bekewakibt ina behiwa sayins zurīya t'iliq yekewakibt mirmira yakahīdall.",
+                    "translation": "The Entoto Observatory conducts profound astronomical research on celestial bodies and astrophysics using modern telescopes."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (31.4.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የሳተላይት መረጃዎችን በሳይንሳዊ መንገድ መተንተን የተፈጥሮ አደጋዎችን አስቀድሞ ለመከላከል እና ሀገራዊ የልማት እቅዶችን ለማሳካት ይረዳል 31.4.3።",
+                    "reading": "Yesatelayit merejawochin besayinsawī menged metenten yetefet'ro adegawochin asqedmo lemeqelakel ina hagerawī yelimat iqidochin lemasakat yiredall.",
+                    "translation": "Analyzing satellite data scientifically helps predict natural hazards and realize national development blueprints."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ሳይንሳዊ ግኝት (Scientific Research)"
+                "«የህዋ ሳይንስ» = Space science! «ሳተላይት» = Satellite (ETRSS-1)! «እንጦጦ ኦብዘርቫቶሪ» = High-altitude observatory!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Located at 3,200 meters above sea level on Mount Entoto, the Entoto Observatory offers optimal atmospheric clarity for astronomical stargazing and space research in East Africa."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ሳይንሳዊ ግኝት (Scientific Research)» አጠቃቀም በደረጃ 4 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "ኢትዮጵያ ለመጀመሪያ ጊዜ ወደ ህዋ ያመጠቀችው የምድር ምልከታ ሳተላይት ስም ማን ይባላል?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (31.4.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (31.4.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (31.4.3)።"
+                        "ETRSS-1",
+                        "አፖሎ 11 (Apollo 11)",
+                        "ስፑትኒክ (Sputnik)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "ETRSS-1 is Ethiopia's first Earth observation satellite."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ሳይንሳዊ ምርምር እና ትንተና (Scientific Research & Discourse)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 4)፡",
+                    "prompt": "«የሩቅ ዳሰሳ ቴክኖሎጂ» (Remote Sensing) ለምን ጥቅም ላይ ይውላል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (31.4.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (31.4.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (31.4.3)።"
+                        "Cooking food",
+                        "Monitoring agriculture, forest cover, water reservoirs, and weather from space (ግብርናን፣ ደንን እና የአየር ሁኔታን ከህዋ ለመከታተል)",
+                        "Playing video games"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "Remote sensing tracks environmental metrics, crop vegetation, and climate trends from orbit."
                 }
             ]
         },
@@ -15778,85 +15816,95 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ሳይንሳዊ ግኝት (Scientific Research)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 31-4)?",
+                    "prompt": "በአዲስ አበባ አቅራቢያ የሚገኘው የታወቀው የህዋ እና የከዋክብት ምርምር ማእከል የትኛው ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (31.4.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (31.4.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (31.4.3)።"
+                        "የእንጦጦ ኦብዘርቫቶሪ (Entoto Observatory)",
+                        "የባህር ዳር ወደብ (Port)",
+                        "የቦሌ ኤርፖርት (Airport)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR C2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "The Entoto Astronomical Observatory is located on Mount Entoto."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ምርምር_31_4»):",
+                    "prompt": "Type the Amharic word for 'satellite' in Fidel script (ሳተላይት):",
                     "acceptedAnswers": [
-                        "ምርምር_31_4"
+                        "ሳተላይት",
+                        "satellite",
+                        "satelayit",
+                        "Satelayit"
                     ],
-                    "explanation": "The target keyword was: 【ምርምር_31_4】"
+                    "explanation": "ሳተላይት (Satelayit) means 'satellite'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u31-l5": {
         "id": "am-u31-l5",
-        "subject": "amharic",
-        "unit": 31,
-        "lessonNumber": 5,
-        "title": "ሳይንሳዊ ምርምር እና ትንተና (Scientific Research & Discourse) (Part 5)",
+        "unit": "am-u31",
         "level": "C2",
-        "objective": "Comprehensive mastery of ሳይንሳዊ ግኝት (Scientific Research).",
+        "objective": "Synthesize scientific methodology, biomedical pharmacology, agricultural biotechnology, and space satellite analytics into an authoritative national science academy keynote paper in Amharic.",
+        "prerequisites": [
+            "am-u31-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u31-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ሳይንሳዊ ግኝት (Scientific Research) - ደረጃ 5) ተማሪዎች ስለ ሳይንሳዊ ግኝት (Scientific Research) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "This lesson consolidates empirical scientific methodology, ethnobotanical pharmacology, indigenous crop genomics, and space satellite analytics into an overarching national scientific research keynote.\n\n1. Keynote Synthesis Pillars:\n- **Empirical Rigor:** «የሳይንሳዊ ምርምር ዘዴ እና የአቻ ግምገማ...»\n- **Biomedical Innovation:** «የህክምና ሳይንስ እና የዕፅዋት መድሃኒቶች...»\n- **Crop Biotechnology:** «የጤፍ እና የእንሰት ጂኖም ምርምር...»\n- **Space & Geodata:** «የሳተላይት ቴክኖሎጂ እና የሩቅ ዳሰሳ...»",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የሳይንሳዊ ግኝት (Scientific Research) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (31.5.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "በዚህ ብሄራዊ የሳይንስ አካዳሚ ጉባኤ ላይ ሳይንቲስቶች የባዮቴክኖሎጂ እና የህዋ ቴክኖሎጂ ግኝቶችን ለሀገራዊ ልማት ስለማዋል ተወያይተዋል።",
+                    "reading": "Bezih bihērawī yeSayins Akadāmī guba'ē lay sayintisitoch yebayotēknolojī ina yehiwa tēknolojī gignitochin lehagerawī limat silemawal teweyayitewall.",
+                    "translation": "In this National Science Academy conference, scientists deliberated on harnessing biotechnology and space technology breakthroughs for national development."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (31.5.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የሀገር በቀል እውቀትን ከዘመናዊ ሳይንሳዊ ምርምር ጋር ማቀናጀት የህዝባችንን ጤና፣ ግብርና እና ኢኮኖሚ ወደ ላቀ ደረጃ ያሸጋግራል 31.5.2።",
+                    "reading": "Yehager beqel iwiqetn kezemenawī sayinsawī mirmir gar maqenajet yehizbachinn t'ēna, gibirna ina īkonomī wede laqe dereja yashegagirall.",
+                    "translation": "Integrating indigenous knowledge with modern scientific research elevates our people's health, agriculture, and economy to an advanced level."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (31.5.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ሳይንስ እና ፈጠራ የሰው ልጆችን ችግሮች በዘላቂነት ለመፍታት እና ብሩህ የወደፊት ተስፋን ለመገንባት ዋነኛ የብርሃን መንገዶች ናቸው 31.5.3።",
+                    "reading": "Sayins ina fet'era yesew lijochin chigiroch bezelaqīnet lemefitat ina biruh yewedefīt tesfan lemeginbat wanegna yebirhan mengedoch nachew.",
+                    "translation": "Science and innovation are primary avenues of light to permanently resolve human challenges and build a bright future."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ሳይንሳዊ ግኝት (Scientific Research)"
+                "Science Quad: Method (መላ-ምት) + Medicine (እንዶድ) + BioTech (ጤፍ) + Space (ETRSS-1) = Sovereign Scientific Vanguard!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "The synthesis of indigenous ethnobotanical wisdom and contemporary cutting-edge genetics exemplifies Ethiopia's unique position in 21st-century global scientific research."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ሳይንሳዊ ግኝት (Scientific Research)» አጠቃቀም በደረጃ 5 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "የሳይንሳዊ ምርምር ዋና ግብ ምንድን ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (31.5.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (31.5.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (31.5.3)።"
+                        "Solving human challenges through verifiable empirical evidence and innovation (የሰው ልጆችን ችግሮች በሳይንሳዊ መንገድ መፍታት)",
+                        "Spreading superstitions (አጉል እምነት ማሰራጨት)",
+                        "Stopping all technology (ቴክኖሎጂን ማቆም)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "Scientific research aims to solve human problems via evidence and innovative inquiry."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ሳይንሳዊ ምርምር እና ትንተና (Scientific Research & Discourse)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 5)፡",
+                    "prompt": "በዚህ ክፍል ካጠናናቸው ውስጥ የሳይንሳዊ እድገት ዋና አንቀሳቃሽ ሞተር የትኛው ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (31.5.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (31.5.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (31.5.3)።"
+                        "ምርምር፣ ፈጠራ እና የአቻ ግምገማ (Research, innovation, and peer review)",
+                        "ጭፍን መከተል (Blind following)",
+                        "ስራ መፍታት (Idleness)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "Research, innovation, and rigorous peer review drive scientific advancement."
                 }
             ]
         },
@@ -15864,24 +15912,28 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ሳይንሳዊ ግኝት (Scientific Research)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 31-5)?",
+                    "prompt": "የአንድ ሀገር የሳይንስ እና ቴክኖሎጂ እድገት በምን ይለካል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (31.5.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (31.5.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (31.5.3)።"
+                        "በወሬ ብዛት (Gossip count)",
+                        "በዝናብ ብቻ (Rain alone)",
+                        "በምርምር ተቋማት እና በሳይንሳዊ ግኝቶች ጥራት (Quality of research & discoveries)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR C2 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "Scientific standing is measured by research output, institutional rigor, and technological discovery."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ምርምር_31_5»):",
+                    "prompt": "Type the Amharic word for 'research' in Fidel script (ምርምር):",
                     "acceptedAnswers": [
-                        "ምርምር_31_5"
+                        "ምርምር",
+                        "mirmir",
+                        "mirmira",
+                        "Mirmir"
                     ],
-                    "explanation": "The target keyword was: 【ምርምር_31_5】"
+                    "explanation": "ምርምር (Mirmir) means 'research / investigation'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u32-l1": {
