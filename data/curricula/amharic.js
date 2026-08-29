@@ -8270,63 +8270,69 @@
     },
     "am-u16-l1": {
         "id": "am-u16-l1",
-        "subject": "amharic",
-        "unit": 16,
-        "lessonNumber": 1,
-        "title": "ስሜት፣ ስነ-ልቦና እና ባህሪ (Emotions & Psychology) (Part 1)",
+        "unit": "am-u16",
         "level": "B1",
-        "objective": "Comprehensive mastery of ስሜታዊ መግለጫዎች (Emotions and Feelings).",
+        "objective": "Identify and describe fundamental psychological states and emotions in Amharic using primary nouns and adjectives including ደስታ (happiness), ሀዘን (sadness), ፍርሃት (fear), ቁጣ (anger), ድንጋጤ (shock), and እርካታ (contentment).",
+        "prerequisites": [
+            "am-u15-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u15-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ስሜታዊ መግለጫዎች (Emotions and Feelings) - ደረጃ 1) ተማሪዎች ስለ ስሜታዊ መግለጫዎች (Emotions and Feelings) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Expressing human emotional states (ስሜቶች) and psychological moods in Amharic involves affective noun roots, adjective derivations using the suffix **-ኛ** (-egna), and state verbs.\n\n1. Emotional Nouns and Adjective Forms:\n- **ደስታ** (Desta — Joy / Happiness) -> **ደስተኛ** (Destegna — Happy / Joyful)\n- **ሀዘን** (Hazen — Grief / Sadness) -> **ሀዘነኛ** (Hazenegna — Sorrowful) / **አሳዛኝ** (Asazagn — Tragic / Heartbreaking)\n- **ፍርሃት** (Firhat — Fear) -> **ፈሪ** (Ferī — Fearful / Timid)\n- **ቁጣ** (Qut'a — Anger / Fury) -> **ቁጡ** (Qut'u — Quick-tempered / Furious)\n- **ድንጋጤ** (Dingat'ē — Shock / Startle) -> **ድንጉጥ** (Dingut' — Startled / Panicked)\n- **እርካታ** (Irkata — Satisfaction / Contentment) -> **ረክቷል** (Rektwal — He is content / satisfied)\n- **ቅናት** (Qinat — Envy / Jealousy) -> **ቀናተኛ** (Qenategna — Jealous / Envious)\n\n2. Affective Descriptive Phrases:\n- «**በደስታ ተሞላ**» (Bedesta temola) — He was filled with joy.\n- «**በሀዘን ተዋጠ**» (Behazen tewat'e) — He was submerged in sorrow.",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የስሜታዊ መግለጫዎች (Emotions and Feelings) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (16.1.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "የፈተናውን ውጤት ሲሰማ በደስታ ተሞላ።",
+                    "reading": "Yefetenawun wut'ēt sīsema bedesta temola.",
+                    "translation": "When he heard the exam result, he was filled with joy."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (16.1.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የቤተሰቡ ድንገተኛ መለያየት ከፍተኛ ሀዘን ፈጠረበት።",
+                    "reading": "Yebētesebu dingetegna meleyayet kefitegna hazen fet'erebet.",
+                    "translation": "The sudden separation of his family created deep sorrow in him."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (16.1.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "በጨለማው ውስጥ እንግዳ ድምጽ ሲሰማ ፍርሃት ተሰማው።",
+                    "reading": "Bech'elemāw wust' ingida dimts' sīsema firhat tesemaw.",
+                    "translation": "When he heard a strange noise in the dark, he felt fear."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ስሜታዊ መግለጫዎች (Emotions and Feelings)"
+                "«ደስታ» (Desta) brings joy; add -ኛ (-egna) to make the happy person (ደስተኛ)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "In Ethiopian community life, emotions are shared collectively: communal joy is celebrated with celebratory rhythmic ululation (እልልታ / Ililta), while bereavement (ልቅሶ / Liqso) unites the community to comfort the grieving."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ስሜታዊ መግለጫዎች (Emotions and Feelings)» አጠቃቀም በደረጃ 1 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«ደስተኛ» የሚለው ቃል ምን ያመለክታል?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (16.1.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (16.1.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (16.1.3)።"
+                        "Happy / Joyful person",
+                        "Angry person",
+                        "Sleepy person"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "ደስተኛ (Destegna) = happy / joyful person."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ስሜት፣ ስነ-ልቦና እና ባህሪ (Emotions & Psychology)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 1)፡",
+                    "prompt": "«ፍርሃት» የሚለው ቃል ትርጉም ምንድን ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (16.1.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (16.1.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (16.1.3)።"
+                        "Hunger",
+                        "Fear / Dread",
+                        "Patience"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "ፍርሃት (Firhat) means 'fear'."
                 }
             ]
         },
@@ -8334,85 +8340,94 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ስሜታዊ መግለጫዎች (Emotions and Feelings)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 16-1)?",
+                    "prompt": "የትኛው ቃል 'Anger' የሚለውን ስሜት ይገልጻል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (16.1.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (16.1.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (16.1.3)።"
+                        "ቁጣ (Qut'a)",
+                        "እርካታ (Irkata)",
+                        "ደስታ (Desta)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "ቁጣ (Qut'a) means 'anger / rage'."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ደስታ_16_1»):",
+                    "prompt": "Type the Amharic word for 'happiness / joy' in Fidel script (ደስታ):",
                     "acceptedAnswers": [
-                        "ደስታ_16_1"
+                        "ደስታ",
+                        "desta",
+                        "Desta"
                     ],
-                    "explanation": "The target keyword was: 【ደስታ_16_1】"
+                    "explanation": "ደስታ (Desta) means 'happiness / joy'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u16-l2": {
         "id": "am-u16-l2",
-        "subject": "amharic",
-        "unit": 16,
-        "lessonNumber": 2,
-        "title": "ስሜት፣ ስነ-ልቦና እና ባህሪ (Emotions & Psychology) (Part 2)",
+        "unit": "am-u16",
         "level": "B1",
-        "objective": "Comprehensive mastery of ስሜታዊ መግለጫዎች (Emotions and Feelings).",
+        "objective": "Master the essential Amharic impersonal emotional verb constructions where the experiencer is the direct object suffix pronoun, including « ደስ አለው » (he is glad), « ከፋው » (he felt bad/sad), and « አስፈራው » (it scared him).",
+        "prerequisites": [
+            "am-u16-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u16-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ስሜታዊ መግለጫዎች (Emotions and Feelings) - ደረጃ 2) ተማሪዎች ስለ ስሜታዊ መግለጫዎች (Emotions and Feelings) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Amharic grammar possesses a distinctive impersonal verb construction for subjective sensations, internal emotional reactions, and affective feelings.\n\n1. Impersonal Experiencer Mechanics:\nThe verb remains in the fixed 3rd person masculine singular, while the person feeling the emotion is attached as an object suffix pronoun:\n- «**ደስ አለኝ**» (Des alegn) — I am pleased / I feel glad (literally: 'it pleased me')\n- «**ደስ አለህ**» (Des aleh) — You (m) are pleased\n- «**ደስ አለሽ**» (Des alesh) — You (f) are pleased\n- «**ደስ አለው**» (Des alew) — He is pleased\n- «**ደስ አላት**» (Des alat) — She is pleased\n- «**ደስ አላቸው**» (Des alachew) — They are pleased\n\n2. Common Impersonal Affective Verbs:\n- «**ከፋኝ**» (Kefagn) — I feel bad / sorrowful / upset\n- «**ከፋው**» (Kefaw) — He felt bad / distressed\n- «**አስፈራኝ**» (Asferagn) — It frightened me / I am scared\n- «**አሳዘነኝ**» (Asazenegn) — It saddened me / I feel pity\n- «**አስገረመኝ**» (Asgeremegn) — It astonished / surprised me",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የስሜታዊ መግለጫዎች (Emotions and Feelings) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (16.2.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ስላየሁህ በጣም ደስ አለኝ።",
+                    "reading": "Silayehuh bet'am des alegn.",
+                    "translation": "I am very glad to see you."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (16.2.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የጓደኛው መታመም እጅግ ከፋው እና አሳዘነው።",
+                    "reading": "Yegwadegnaw metamem ijig kefaw ina asazenew.",
+                    "translation": "His friend's illness made him feel very bad and saddened him."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (16.2.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የነጎድጓዱ ድምጽ ሕፃኑን በጣም አስፈራው።",
+                    "reading": "Yenegodgwadu dimts' hits'anun bet'am asferaw.",
+                    "translation": "The sound of thunder frightened the child severely."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ስሜታዊ መግለጫዎች (Emotions and Feelings)"
+                "«ደስ አለኝ» = Joy spoke to me! «ከፋኝ» = Badness touched me! The object pronoun (-ኝ, -ህ, -ሽ, -ው, -አት) tells who feels it."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "«ስላየሁህ ደስ አለኝ» (To a male) and «ስላየሁሽ ደስ አለኝ» (To a female) are the primary, warm phrases used when greeting someone or making a cordial acquaintance in Ethiopia."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ስሜታዊ መግለጫዎች (Emotions and Feelings)» አጠቃቀም በደረጃ 2 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«ስላየሁሽ በጣም ደስ አለኝ» ምን ማለት ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (16.2.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (16.2.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (16.2.3)።"
+                        "I am very glad to see you (female)",
+                        "I am angry with you",
+                        "Where are you going?"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "«ስላየሁሽ በጣም ደስ አለኝ» means 'I am very glad to see you' (addressing a female)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ስሜት፣ ስነ-ልቦና እና ባህሪ (Emotions & Psychology)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 2)፡",
+                    "prompt": "«ከፋኝ» የሚለው አገላለጽ ምን ያሳያል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (16.2.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (16.2.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (16.2.3)።"
+                        "I feel joyful",
+                        "I feel sad / upset / distressed",
+                        "I am thirsty"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "ከፋኝ (Kefagn) conveys feeling saddened, upset, or grieved."
                 }
             ]
         },
@@ -8420,85 +8435,94 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ስሜታዊ መግለጫዎች (Emotions and Feelings)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 16-2)?",
+                    "prompt": "«አስገረመኝ» ሲባል ምን ማለት ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (16.2.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (16.2.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (16.2.3)።"
+                        "It made me sleepy",
+                        "It frightened me",
+                        "It amazed / surprised me"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "አስገረመኝ (Asgeremegn) means 'it amazed / surprised me'."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ደስታ_16_2»):",
+                    "prompt": "Type the Amharic phrase for 'I am glad / It pleases me' in Fidel script (ደስ አለኝ):",
                     "acceptedAnswers": [
-                        "ደስታ_16_2"
+                        "ደስ አለኝ",
+                        "des alegn",
+                        "Des alegn"
                     ],
-                    "explanation": "The target keyword was: 【ደስታ_16_2】"
+                    "explanation": "ደስ አለኝ (Des alegn) means 'I am glad / pleased'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u16-l3": {
         "id": "am-u16-l3",
-        "subject": "amharic",
-        "unit": 16,
-        "lessonNumber": 3,
-        "title": "ስሜት፣ ስነ-ልቦና እና ባህሪ (Emotions & Psychology) (Part 3)",
+        "unit": "am-u16",
         "level": "B1",
-        "objective": "Comprehensive mastery of ስሜታዊ መግለጫዎች (Emotions and Feelings).",
+        "objective": "Describe human personality traits and moral temperaments in Amharic using adjectives such as ታታሪ (diligent), ሩህሩህ (compassionate), ትሁት (humble), ታማኝ (faithful/honest), and ጨዋ (polite/refined).",
+        "prerequisites": [
+            "am-u16-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u16-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ስሜታዊ መግለጫዎች (Emotions and Feelings) - ደረጃ 3) ተማሪዎች ስለ ስሜታዊ መግለጫዎች (Emotions and Feelings) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Character attributes (የባህሪ መገለጫዎች) and personal dispositions in Ethiopian culture carry strong moral weight in interpersonal relationships.\n\n1. Positive Moral Character Virtues:\n- **ታታሪ** (Tatari) — Hardworking / Diligent\n- **ሩህሩህ** (Ruhruh) — Compassionate / Empathetic / Kindhearted\n- **ትሁት** (Tihut) — Humble / Modest (noun: **ትህትና** / Tihitina — Humility)\n- **ታማኝ** (Tamagn) — Faithful / Honest / Trustworthy (noun: **ታማኝነት**)\n- **ጨዋ** (Ch'ewa) — Polite / Well-mannered / Dignified\n- **ቸር / ለጋስ** (Cher / Legas) — Benevolent / Generous\n\n2. Negative Personality Descriptors:\n- **ስስታም** (Sistam) — Miserly / Greedy\n- **ትምክህተኛ / ኩሩ** (Timkihtegna / Kuru) — Arrogant / Haughty\n- **ግልፍተኛ** (Gilfit'egna) — Hot-tempered / Impulsive\n- **ውሸታም** (Wushetam) — Dishonest / Deceitful",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የስሜታዊ መግለጫዎች (Emotions and Feelings) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (16.3.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "አባታችን እጅግ ትሁት እና ሩህሩህ ሰው ስለነበር በሰፈሩ ሁሉ ይወደድ ነበር።",
+                    "reading": "Abatachin ijig tihut ina ruhruh sew sileneber beseferu hullu yiweded neber.",
+                    "translation": "Because our father was an extremely humble and compassionate man, he was beloved throughout the neighborhood."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (16.3.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ታታሪዋ ተማሪ በርትታ በመስራቷ ለትልቅ ስኬት በቃች።",
+                    "reading": "Tatariwa temari bertita bemesratwa le tiliq sikēt beqach.",
+                    "translation": "The hardworking student, by striving perseveringly, attained great success."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (16.3.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "በስራ ቦታ ላይ ታማኝነት እና ጨዋነት ትልቁ የሞራል መለኪያ ናቸው።",
+                    "reading": "Besira bota lay tamagninet ina ch'ewanet tiliqu yēmoral melekīya nachew.",
+                    "translation": "In the workplace, trustworthiness and politeness are the highest moral standards."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ስሜታዊ መግለጫዎች (Emotions and Feelings)"
+                "«ትህትና» (Tihitina) = Humility — venerated as the crown of Ethiopian character."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "«ትህትና» (humility) and «ጨዋነት» (refined courteous conduct) are foundational cultural expectations in Ethiopia, determining how youth speak with elders and how leaders conduct community affairs."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ስሜታዊ መግለጫዎች (Emotions and Feelings)» አጠቃቀም በደረጃ 3 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«ሩህሩህ» እና «ትሁት» ምን አይነት ሰውን ይገልጻሉ?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (16.3.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (16.3.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (16.3.3)።"
+                        "Compassionate and Humble person",
+                        "Greedy and Arrogant person",
+                        "Violent and Loud person"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "ሩህሩህ (compassionate) and ትሁት (humble) describe kind, gentle virtues."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ስሜት፣ ስነ-ልቦና እና ባህሪ (Emotions & Psychology)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 3)፡",
+                    "prompt": "«ታማኝነት» ምን ማለት ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (16.3.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (16.3.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (16.3.3)።"
+                        "Treachery",
+                        "Trustworthiness / Faithfulness",
+                        "Laziness"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "ታማኝነት (Tamagninet) means 'trustworthiness / faithfulness'."
                 }
             ]
         },
@@ -8506,85 +8530,94 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ስሜታዊ መግለጫዎች (Emotions and Feelings)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 16-3)?",
+                    "prompt": "የትኛው ቃል 'Hardworking / Diligent' የሚለውን መልካም ባህሪ ይገልጻል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (16.3.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (16.3.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (16.3.3)።"
+                        "ታታሪ (Tatari)",
+                        "ስስታም (Greedy)",
+                        "ፈሪ (Coward)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "ታታሪ (Tatari) = hardworking / diligent."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ደስታ_16_3»):",
+                    "prompt": "Type the Amharic word for 'humble' in Fidel script (ትሁት):",
                     "acceptedAnswers": [
-                        "ደስታ_16_3"
+                        "ትሁት",
+                        "tihut",
+                        "Tihut"
                     ],
-                    "explanation": "The target keyword was: 【ደስታ_16_3】"
+                    "explanation": "ትሁት (Tihut) means 'humble / modest'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u16-l4": {
         "id": "am-u16-l4",
-        "subject": "amharic",
-        "unit": 16,
-        "lessonNumber": 4,
-        "title": "ስሜት፣ ስነ-ልቦና እና ባህሪ (Emotions & Psychology) (Part 4)",
+        "unit": "am-u16",
         "level": "B1",
-        "objective": "Comprehensive mastery of ስሜታዊ መግለጫዎች (Emotions and Feelings).",
+        "objective": "Offer comfort, empathy, and emotional encouragement in Amharic using solace expressions such as « አይዞህ / አይዞሽ » (Take heart / Courage), « አትጨነቅ » (Do not worry), and « ተስፋ አትቁረጥ » (Do not lose hope).",
+        "prerequisites": [
+            "am-u16-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u16-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ስሜታዊ መግለጫዎች (Emotions and Feelings) - ደረጃ 4) ተማሪዎች ስለ ስሜታዊ መግለጫዎች (Emotions and Feelings) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Expressing solidarity, comforting those in sorrow, and uplifting the distressed (መጽናናት እና አጋርነት) are vital parts of communicative fluency in Amharic.\n\n1. Solace and Encouragement Expressions:\n- «**አይዞህ**» (Ayzoh — to a male) / «**አይዞሽ**» (Ayzosh — to a female) / «**አይዟችሁ**» (Ayzwachihu — plural) — Take heart / Courage / Be strong!\n- «**አትጨነቅ**» (Atch'eneq — m) / «**አትጨነቂ**» (Atch'eneqī — f) — Do not worry / Be not anxious.\n- «**ተስፋ አትቁረጥ**» (Tesfa atquret' — m) / «**ተስፋ አትቁረጪ**» (Tesfa atqurech'ī — f) — Do not lose hope / Do not despair.\n- «**ሁሉ ነገር ይስተካከላል**» (Hullu neger yistekakeilal) — Everything will turn out fine.\n- «**እግዚአብሔር ያጽናህ/ያጽናሽ**» (Igziabher yats'nah/yats'nash) — May God comfort you.\n\n2. Key Empathy Vocabulary:\n- **ማጽናኛ** (Mats'nagnya) — Solace / Consolation\n- **አጋርነት / አጋር** (Agarinnet / Agar) — Solidarity / Ally\n- **ተስፋ** (Tesfa) — Hope / Optimism",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የስሜታዊ መግለጫዎች (Emotions and Feelings) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (16.4.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ጓደኛዬ ሲያዝን «አይዞህ፣ ተስፋ አትቁረጥ፣ ሁሉ ነገር መልካም ይሆናል» አልኩት።",
+                    "reading": "Gwadegnaye siyazin 'Ayzoh, tesfa atquret, hullu neger melkam yihonal' alkut.",
+                    "translation": "When my friend was sad, I told him 'Take heart, do not lose hope, everything will become fine.'"
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (16.4.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ስለ ነገው ፈተና ከመጠን በላይ አትጨነቂ፤ በደንብ ተዘጋጅተሻል።",
+                    "reading": "Sile negew fetena kemet'en belay atch'eneqī; bedenbi tezegajit'eshal.",
+                    "translation": "Do not worry excessively about tomorrow's exam; you have prepared well."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (16.4.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "በመከራ ጊዜ ለተቸገሩ ሰዎች አጋርነት እና ማጽናኛ መስጠት የሰው ልጅ ግዴታ ነው።",
+                    "reading": "Bemekera gīzē letechegeru sewoch agarinnet ina mats'nagnya meset'et yesew lij gidēta new.",
+                    "translation": "Offering solidarity and solace to people in distress during hardship is a human duty."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ስሜታዊ መግለጫዎች (Emotions and Feelings)"
+                "«አይዞህ / አይዞሽ» (Ayzoh / Ayzosh) is the verbal embrace of Ethiopian companionship: 'Have courage!'"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "The phrase «አይዞህ / አይዞሽ» is deeply ingrained in Ethiopian daily life. It is spoken when someone stumbles physically, when someone is shedding tears, or when someone faces an arduous challenge."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ስሜታዊ መግለጫዎች (Emotions and Feelings)» አጠቃቀም በደረጃ 4 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "ለተጨነቀ ሰው ማበረታቻ ለመስጠት የትኛው ቃል ይመረጣል?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (16.4.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (16.4.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (16.4.3)።"
+                        "«አይዞህ፤ አትጨነቅ» (Take heart; don't worry)",
+                        "«ሂድ ከዚህ»",
+                        "«ዝም በል»"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "«አይዞህ፤ አትጨነቅ» provides warm empathy and encouragement."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ስሜት፣ ስነ-ልቦና እና ባህሪ (Emotions & Psychology)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 4)፡",
+                    "prompt": "«ተስፋ አትቁረጥ» ሲባል ምን ማለትን ያሳያል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (16.4.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (16.4.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (16.4.3)።"
+                        "Give up immediately",
+                        "Do not lose hope / Persevere",
+                        "Run away in panic"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "ተስፋ አትቁረጥ = do not despair / maintain hope."
                 }
             ]
         },
@@ -8592,85 +8625,94 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ስሜታዊ መግለጫዎች (Emotions and Feelings)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 16-4)?",
+                    "prompt": "የትኛው አገላለጽ ለሴት የሚሰጥ የማጽናኛ ቃል ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (16.4.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (16.4.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (16.4.3)።"
+                        "አይዞህ",
+                        "አይዞሽ (Ayzosh)",
+                        "አይዞአቸው"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "አይዞሽ (Ayzosh) is the feminine form of comfort ('Take heart, sister!')."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ደስታ_16_4»):",
+                    "prompt": "Type the Amharic word for 'hope' in Fidel script (ተስፋ):",
                     "acceptedAnswers": [
-                        "ደስታ_16_4"
+                        "ተስፋ",
+                        "tesfa",
+                        "Tesfa"
                     ],
-                    "explanation": "The target keyword was: 【ደስታ_16_4】"
+                    "explanation": "ተስፋ (Tesfa) means 'hope'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u16-l5": {
         "id": "am-u16-l5",
-        "subject": "amharic",
-        "unit": 16,
-        "lessonNumber": 5,
-        "title": "ስሜት፣ ስነ-ልቦና እና ባህሪ (Emotions & Psychology) (Part 5)",
+        "unit": "am-u16",
         "level": "B1",
-        "objective": "Comprehensive mastery of ስሜታዊ መግለጫዎች (Emotions and Feelings).",
+        "objective": "Synthesize emotional states, impersonal psychological verbs, character virtues, and empathy dialogues into an advanced narrative exploring personal resilience and mutual support in Amharic.",
+        "prerequisites": [
+            "am-u16-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u16-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ስሜታዊ መግለጫዎች (Emotions and Feelings) - ደረጃ 5) ተማሪዎች ስለ ስሜታዊ መግለጫዎች (Emotions and Feelings) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "This lesson consolidates emotional expressions, impersonal psychological verbs, character virtues, and empathy into a rich narrative of personal resilience and community reconciliation.\n\n1. Integrative Psychological Narrative:\n- Overcoming adversity with patience (**ትዕግሥት**) and resilience (**ጽናት**).\n- Finding healing through elder mediation (**ሽምግልና**) and mutual forgiveness (**ይቅርታ**).\n- Restoring peace (**ሰላም**) and shared community joy (**ደስታ**).\n\n2. Key Integrative Terms:\n- **ትዕግሥት** (Ti'igist) — Patience / Endurance\n- **ይቅርታ** (Yiqirta) — Forgiveness / Reconciliation\n- **ስነ-ልቦናዊ ጽናት** (Sine-libonawi ts'inat) — Psychological resilience",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የስሜታዊ መግለጫዎች (Emotions and Feelings) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (16.5.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "በህይወት ውስጥ የሚያጋጥሙ ችግሮችን በትዕግሥት እና በጠንካራ ስነ-ልቦና ማለፍ ይቻላል።",
+                    "reading": "Behīwot wust' yemīyagat'imu chigirochin beti'igist ina bet'enkara sine-libona malef yichalal.",
+                    "translation": "One can overcome the challenges encountered in life with patience and strong psychological resilience."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (16.5.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የእህቱ ደግነት እና ማጽናኛ የልቡን ሀዘን አርቆ ታላቅ ደስታን ሰጠው።",
+                    "reading": "Ye'ihitu deginet ina mats'nagnya yelibun hazen ariqo talaq destan set'ew.",
+                    "translation": "His sister's kindness and solace banished his heart's sorrow and gave him great joy."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (16.5.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ትሁት እና ታማኝ ሰዎች በማህበረሰቡ ውስጥ ፍቅርን እና ሰላምን ያሰፍናሉ።",
+                    "reading": "Tihut ina tamagn sewoch bemahberesebu wust' fiqrin ina selamin yasefnalu.",
+                    "translation": "Humble and honest people establish love and peace within society."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ስሜታዊ መግለጫዎች (Emotions and Feelings)"
+                "«ትዕግሥት» (Ti'igist) = Patience. Patience transforms bitterness into sweet triumph!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "The traditional Ethiopian institution of «ሽምግልና» (Shimgilina — elder mediation) restores communal peace and emotional reconciliation through active dialogue, truth-telling, and heartfelt forgiveness (ይቅርታ)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ስሜታዊ መግለጫዎች (Emotions and Feelings)» አጠቃቀም በደረጃ 5 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "የአእምሮ እና የስሜት ጥንካሬ በአማርኛ ምን ይባላል?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (16.5.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (16.5.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (16.5.3)።"
+                        "ጠንካራ ስነ-ልቦና (Strong psychological mindset)",
+                        "ፍርሃት (Fear)",
+                        "ስንፍና (Laziness)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "ጠንካራ ስነ-ልቦና = strong psychological resilience."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ስሜት፣ ስነ-ልቦና እና ባህሪ (Emotions & Psychology)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 5)፡",
+                    "prompt": "«ይቅርታ» ማድረግ በማህበረሰብ ውስጥ ምን ፋይዳ አለው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (16.5.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (16.5.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (16.5.3)።"
+                        "ቂም ማሳደግ",
+                        "ፍቅርን እና ሰላምን ማምጣት (Fostering love and peace)",
+                        "መለያየት"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "ይቅርታ (forgiveness) brings harmony and communal peace."
                 }
             ]
         },
@@ -8678,24 +8720,27 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ስሜታዊ መግለጫዎች (Emotions and Feelings)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 16-5)?",
+                    "prompt": "የትኛው ቃል 'Patience' የሚለውን ታላቅ ባህሪ ይገልጻል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (16.5.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (16.5.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (16.5.3)።"
+                        "ቁጣ (Anger)",
+                        "ትዕግሥት (Ti'igist)",
+                        "ፍርሃት (Fear)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "ትዕግሥት (Ti'igist) means 'patience'."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ደስታ_16_5»):",
+                    "prompt": "Type the Amharic word for 'forgiveness / excuse me' in Fidel script (ይቅርታ):",
                     "acceptedAnswers": [
-                        "ደስታ_16_5"
+                        "ይቅርታ",
+                        "yiqirta",
+                        "Yiqirta"
                     ],
-                    "explanation": "The target keyword was: 【ደስታ_16_5】"
+                    "explanation": "ይቅርታ (Yiqirta) means 'forgiveness / pardon / excuse me'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u17-l1": {
