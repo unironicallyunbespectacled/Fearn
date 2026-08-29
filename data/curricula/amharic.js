@@ -7794,63 +7794,69 @@
     },
     "am-u15-l1": {
         "id": "am-u15-l1",
-        "subject": "amharic",
-        "unit": 15,
-        "lessonNumber": 1,
-        "title": "ትምህርት፣ ሳይንስ እና ቴክኖሎጂ (Education & Academia) (Part 1)",
+        "unit": "am-u15",
         "level": "B1",
-        "objective": "Comprehensive mastery of የትምህርት ጥናት (Education and Academia).",
+        "objective": "Describe educational stages, university faculties, and academic qualifications in Amharic using terms including አንደኛ ደረጃ (primary school), ሁለተኛ ደረጃ (high school), ዩኒቨርሲቲ (university), ዲግሪ (bachelor's degree), and ማስተርስ (master's degree).",
+        "prerequisites": [
+            "am-u14-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u14-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የትምህርት ጥናት (Education and Academia) - ደረጃ 1) ተማሪዎች ስለ የትምህርት ጥናት (Education and Academia) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Discussing the educational journey (የትምህርት ጉዞ) and university hierarchy in Amharic involves institutional tiers, degree designations, and academic milestone vocabulary.\n\n1. Educational Levels and School Types (የትምህርት ደረጃዎች):\n- **አንደኛ ደረጃ ትምህርት ቤት** (Andegna dereja timihirt bēt) — Primary / Elementary school (Grades 1–8)\n- **ሁለተኛ ደረጃ ትምህርት ቤት** (Huletsegna dereja timihirt bēt) — Secondary / High school (Grades 9–12)\n- **ኮሌጅ / ዩኒቨርሲቲ** (Kolēj / Yunīversītī) — Higher education College / University\n- **ፋኩልቲ / ትምህርት ክፍል** (Fakultī / Timihirt kifil) — Academic Faculty / Department\n\n2. Academic Degrees and Qualifications (የትምህርት ማዕረጎች):\n- **የመጀመሪያ ዲግሪ** (Yemejemeriya dīgrī) — Bachelor's degree (BA / BSc)\n- **ሁለተኛ ዲግሪ / ማስተርስ** (Huletsegna dīgrī / Masters) — Master's degree (MA / MSc)\n- **የዶክትሬት ዲግሪ** (Yedoktret dīgrī) — Doctorate / PhD\n- **የምረቃ ስነ-ስርዓት** (Yemireqa sine-sir'at) — Commencement / Graduation ceremony\n\n3. Academic Progression Verbs:\n- **ተመረቀ / ተመረቀች** (Temereqe / Temereqech) — He graduated / She graduated\n- **ተማረ / አጠና** (Temare / At'ena) — He studied / He learned",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየትምህርት ጥናት (Education and Academia) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (15.1.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ታላቅ ወንድሜ ከአዲስ አበባ ዩኒቨርሲቲ በምህንድስና የመጀመሪያ ዲግሪውን ተቀበለ።",
+                    "reading": "Talaq wondimē ke'Addīs Abeba Yunīversītī bemihindisinā yemejemeriya dīgrīwun teqebele.",
+                    "translation": "My elder brother received his bachelor's degree in engineering from Addis Ababa University."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (15.1.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ተማሪዎቹ ለዩኒቨርሲቲ መግቢያ ፈተና ሌት ተቀን በትጋት ያጠናሉ።",
+                    "reading": "Temarīwochu leyunīversītī megbīya fetena lēt teqen betigat yat'inalu.",
+                    "translation": "The students study day and night diligently for the university entrance exam."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (15.1.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የምረቃው ስነ-ስርዓት በታላቁ አዳራሽ በደመቀ ሁኔታ ተካሄደ።",
+                    "reading": "Yemireqaw sine-sir'at betalaqu addarash bedemeqe hunēta tekahede.",
+                    "translation": "The graduation ceremony took place colorfully in the grand hall."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የትምህርት ጥናት (Education and Academia)"
+                "«ተመረቀ» (Temereqe) = Graduated; root of «ምርቃት» (blessing / conferral of honor)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Addis Ababa University (AAU), established in 1950, is Ethiopia's flagship university. Graduates receive traditional ceremonial shawls and sashes in university colors during commencement celebrations."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የትምህርት ጥናት (Education and Academia)» አጠቃቀም በደረጃ 1 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«የመጀመሪያ ዲግሪ» ምን ማለት ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (15.1.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (15.1.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (15.1.3)።"
+                        "Bachelor's degree",
+                        "High school diploma",
+                        "Kindergarten certificate"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "የመጀመሪያ ዲግሪ (Yemejemeriya digri) means 'Bachelor's degree'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ትምህርት፣ ሳይንስ እና ቴክኖሎጂ (Education & Academia)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 1)፡",
+                    "prompt": "«ተመረቀ» የሚለው ግስ ምን ትርጉም አለው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (15.1.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (15.1.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (15.1.3)።"
+                        "He dropped out of school",
+                        "He graduated",
+                        "He failed an exam"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "ተመረቀ (Temereqe) means 'he graduated'."
                 }
             ]
         },
@@ -7858,85 +7864,94 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የትምህርት ጥናት (Education and Academia)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 15-1)?",
+                    "prompt": "የከፍተኛ ትምህርት ተቋም በአማርኛ ምን ተብሎ ይጠራል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (15.1.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (15.1.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (15.1.3)።"
+                        "መዋዕለ ህፃናት (Kindergarten)",
+                        "ዩኒቨርሲቲ / ኮሌጅ (University / College)",
+                        "ፋብሪካ (Factory)"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "explanation": "ዩኒቨርሲቲ / ኮሌጅ refers to higher education institutions."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ትምህርት_ቤት_15_1»):",
+                    "prompt": "Type the Amharic word for 'school' in Fidel script (ትምህርት ቤት):",
                     "acceptedAnswers": [
-                        "ትምህርት_ቤት_15_1"
+                        "ትምህርት ቤት",
+                        "timihirt bet",
+                        "timhirt bet"
                     ],
-                    "explanation": "The target keyword was: 【ትምህርት_ቤት_15_1】"
+                    "explanation": "ትምህርት ቤት (Timihirt bēt) means 'school'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u15-l2": {
         "id": "am-u15-l2",
-        "subject": "amharic",
-        "unit": 15,
-        "lessonNumber": 2,
-        "title": "ትምህርት፣ ሳይንስ እና ቴክኖሎጂ (Education & Academia) (Part 2)",
+        "unit": "am-u15",
         "level": "B1",
-        "objective": "Comprehensive mastery of የትምህርት ጥናት (Education and Academia).",
+        "objective": "Discuss branches of natural science, social science, and humanities in Amharic, including ሒሳብ (mathematics), ፊዚክስ (physics), ኬሚስትሪ (chemistry), ስነ-ህይወት (biology), and ታሪክ (history).",
+        "prerequisites": [
+            "am-u15-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u15-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የትምህርት ጥናት (Education and Academia) - ደረጃ 2) ተማሪዎች ስለ የትምህርት ጥናት (Education and Academia) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Academic fields and scientific disciplines (የሳይንስ እና የጥናት ዘርፎች) in Amharic use systematic morphological prefixes, particularly the classical prefix **ስነ-** (Sine- — science/study of).\n\n1. The Natural and Exact Sciences (የተፈጥሮ ሳይንስ):\n- **ሒሳብ** (Hisab) — Mathematics / Arithmetic\n- **ፊዚክስ** (Fīzīks) — Physics\n- **ኬሚስትሪ** (Kēmistrī) — Chemistry\n- **ስነ-ህይወት** (Sine-hīwot) — Biology (literally 'science of life')\n- **ስነ-ምድር** (Sine-midir) — Geology (literally 'science of the earth')\n- **ስነ-ፈለክ** (Sine-felek) — Astronomy (literally 'science of celestial spheres')\n\n2. The Social Sciences and Humanities (ማህበራዊ ሳይንስ):\n- **ታሪክ** (Tarīk) — History\n- **ስነ-ልቦና** (Sine-libona) — Psychology (literally 'science of the mind/heart')\n- **ስነ-ጽሑፍ** (Sine-ts'ihuf) — Literature\n- **ስነ-ዜጋ** (Sine-zēga) — Civics / Political science\n- **ኢኮኖሚክስ** (Ikonōmīks) — Economics",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየትምህርት ጥናት (Education and Academia) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (15.2.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "በቤተ-ሙከራ ውስጥ የኬሚስትሪ እና የፊዚክስ ሳይንሳዊ ሙከራዎችን አደረግን።",
+                    "reading": "Bebēte-mukera wust' yekēmistrī ina yefīzīks sayinsawi mukerawochin aderegini.",
+                    "translation": "In the laboratory we conducted chemistry and physics scientific experiments."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (15.2.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ስነ-ህይወት ስለ ህያዋን ፍጥረታት አፈጣጠር እና አኗኗር የሚያጠና ሳይንስ ነው።",
+                    "reading": "Sine-hīwot sile hiyawan fit'retat afet'at'er ina anwanwar yemīyat'ina sayins new.",
+                    "translation": "Biology is a science that studies the structure and life of living organisms."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (15.2.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የጥንታዊ ኢትዮጵያ ታሪክ ጥናት በዓለም አቀፍ ምሁራን ዘንድ ትልቅ ትኩረት ተሰጥቶታል።",
+                    "reading": "Yet'intawi Ityop'ya tarīk t'inat be'alem aqef mihuran zend tiliq tikuret teset't'otal.",
+                    "translation": "The study of ancient Ethiopian history is given great attention by international scholars."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የትምህርት ጥናት (Education and Academia)"
+                "«ስነ-» (Sine-) is the Amharic '-ology': ስነ-ህይወት (biology), ስነ-ምድር (geology), ስነ-ልቦና (psychology)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Traditional Ethiopian scholarship developed advanced indigenous mathematics (ሒሳብ) and astronomical calendar computations (ባሕረ ሐሳብ — Computus of the Sea of Thought) over a millennium ago to track lunar cycles and solar years."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የትምህርት ጥናት (Education and Academia)» አጠቃቀም በደረጃ 2 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«ስነ-ህይወት» ምን አይነት ሳይንስ ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (15.2.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (15.2.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (15.2.3)።"
+                        "Biology (Science of living organisms)",
+                        "Astronomy",
+                        "Economics"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "ስነ-ህይወት (Sine-hiwot) translates directly to 'biology' (science of life)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ትምህርት፣ ሳይንስ እና ቴክኖሎጂ (Education & Academia)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 2)፡",
+                    "prompt": "«ቤተ-ሙከራ» ምን ማለት ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (15.2.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (15.2.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (15.2.3)።"
+                        "Library",
+                        "Laboratory (Place of experimentation)",
+                        "Cafeteria"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "ቤተ-ሙከራ (Bēte-mukera) = laboratory."
                 }
             ]
         },
@@ -7944,85 +7959,94 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የትምህርት ጥናት (Education and Academia)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 15-2)?",
+                    "prompt": "የምድርን አፈጣጠር የሚያጠናው ሳይንስ በአማርኛ ምን ይባላል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (15.2.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (15.2.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (15.2.3)።"
+                        "ስነ-ምድር (Geology)",
+                        "ስነ-ዜጋ (Civics)",
+                        "ስነ-ልቦና (Psychology)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "ስነ-ምድር (Sine-midir) = geology."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ትምህርት_ቤት_15_2»):",
+                    "prompt": "Type the Amharic word for 'mathematics / arithmetic' in Fidel script (ሒሳብ):",
                     "acceptedAnswers": [
-                        "ትምህርት_ቤት_15_2"
+                        "ሒሳብ",
+                        "hisab",
+                        "Hisab"
                     ],
-                    "explanation": "The target keyword was: 【ትምህርት_ቤት_15_2】"
+                    "explanation": "ሒሳብ (Hisab) means 'mathematics / arithmetic'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u15-l3": {
         "id": "am-u15-l3",
-        "subject": "amharic",
-        "unit": 15,
-        "lessonNumber": 3,
-        "title": "ትምህርት፣ ሳይንስ እና ቴክኖሎጂ (Education & Academia) (Part 3)",
+        "unit": "am-u15",
         "level": "B1",
-        "objective": "Comprehensive mastery of የትምህርት ጥናት (Education and Academia).",
+        "objective": "Formulate academic concepts regarding research, scholarly theses, library investigations, and examination evaluations in Amharic using ምርምር (research), የመመረቂያ ጽሑፍ (thesis), and ፈተና (exam).",
+        "prerequisites": [
+            "am-u15-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u15-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የትምህርት ጥናት (Education and Academia) - ደረጃ 3) ተማሪዎች ስለ የትምህርት ጥናት (Education and Academia) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Scholarly research (ሳይንሳዊ ምርምር), academic thesis writing, and examination evaluation in Ethiopian higher education employ rigorous scholarly terminology.\n\n1. Scholarly Investigation Vocabulary:\n- **ምርምር / ጥናት** (Mirmir / T'inat) — Scholarly research / Investigation\n- **ተመራማሪ** (Temaramari) — Researcher / Investigator\n- **የመመረቂያ ጽሑፍ** (Yemireqīya ts'ihuf) — Senior thesis / Dissertation\n- **ቤተ-መጻሕፍት** (Bēte-mets'ahift) — Library (literally 'house of books')\n- **ፈተና** (Fetena) — Examination / Test\n- **ውጤት** (Wut'ēt) — Grade / Examination score / Result\n- **ነጥብ** (Net'ib) — GPA points / Marks\n\n2. Key Academic Verb Collocations:\n- **ጥናት ማካሄድ** (T'inat makahed) — To conduct research\n- **መረጃ ማሰባሰብ** (Mereja masebaseb) — To collect data\n- **ጽሑፍ ማቅረብ** (Ts'ihuf maqreb) — To present a paper\n- **ፈተና ማለፍ** (Fetena malef) — To pass an examination",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየትምህርት ጥናት (Education and Academia) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (15.3.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ተማሪዋ የመመረቂያ ጽሑፏን ለማጠናቀቅ በቤተ-መጻሕፍት ውስጥ ሰፊ ጥናት አደረገች።",
+                    "reading": "Temarīwa yemireqīya ts'ihufwan lemat'enaqeq bebēte-mets'ahift wust' sefī t'inat aderegech.",
+                    "translation": "To complete her graduation thesis, the student conducted extensive study in the library."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (15.3.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የሳይንስ ተመራማሪዎች አዳዲስ ግኝቶችን በዓለም አቀፍ ጆርናል ላይ አሳተሙ።",
+                    "reading": "Yesayins temaramarīwoch addadīs gignitochin be'alem aqef jornāl lay asatemu.",
+                    "translation": "The science researchers published new discoveries in an international journal."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (15.3.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ተማሪው በፈተናው ከፍተኛ ውጤት በማምጣቱ የነፃ ትምህርት ዕድል አገኘ።",
+                    "reading": "Temarīw befetēnaw kefitegna wut'ēt bemamt'atu yenets'a timihirt idil agegne.",
+                    "translation": "Because the student achieved high scores on the exam, he received a scholarship."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የትምህርት ጥናት (Education and Academia)"
+                "«ተመራማሪ» (Temaramari) = Researcher; from መረመረ (to scrutinize and investigate deeply)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "The National Library and Archives of Ethiopia (ወመዘክር / Wemezekir) in Addis Ababa preserves centuries of rare Ge'ez parchment manuscripts, illuminated royal chronicles, and historical archives."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የትምህርት ጥናት (Education and Academia)» አጠቃቀም በደረጃ 3 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«የመመረቂያ ጽሑፍ» ምን ማለት ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (15.3.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (15.3.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (15.3.3)።"
+                        "Graduation thesis / Dissertation",
+                        "Classroom attendance sheet",
+                        "Library card"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "የመመረቂያ ጽሑፍ (Yemireqiya ts'ihuf) = graduation thesis / dissertation."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ትምህርት፣ ሳይንስ እና ቴክኖሎጂ (Education & Academia)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 3)፡",
+                    "prompt": "«ተመራማሪ» ምን ይሰራል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (15.3.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (15.3.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (15.3.3)።"
+                        "Cooks meals in a kitchen",
+                        "Conducts scholarly scientific research",
+                        "Operates heavy farming machinery"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "ተመራማሪ (Temaramari) is a researcher who carries out scientific and academic investigation."
                 }
             ]
         },
@@ -8030,85 +8054,94 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የትምህርት ጥናት (Education and Academia)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 15-3)?",
+                    "prompt": "«ቤተ-መጻሕፍት» የሚለው ቃል ምን ያመለክታል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (15.3.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (15.3.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (15.3.3)።"
+                        "Hospital",
+                        "Restaurant",
+                        "Library (House of books)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "ቤተ-መጻሕፍት (Bēte-mets'ahift) = library."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ትምህርት_ቤት_15_3»):",
+                    "prompt": "Type the Amharic word for 'examination / test' in Fidel script (ፈተና):",
                     "acceptedAnswers": [
-                        "ትምህርት_ቤት_15_3"
+                        "ፈተና",
+                        "fetena",
+                        "Fetena"
                     ],
-                    "explanation": "The target keyword was: 【ትምህርት_ቤት_15_3】"
+                    "explanation": "ፈተና (Fetena) means 'examination / test'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u15-l4": {
         "id": "am-u15-l4",
-        "subject": "amharic",
-        "unit": 15,
-        "lessonNumber": 4,
-        "title": "ትምህርት፣ ሳይንስ እና ቴክኖሎጂ (Education & Academia) (Part 4)",
+        "unit": "am-u15",
         "level": "B1",
-        "objective": "Comprehensive mastery of የትምህርት ጥናት (Education and Academia).",
+        "objective": "Communicate about information technology, computers, internet networks, and software applications in Amharic using ኮምፒውተር (computer), ኢንተርኔት (internet), ድረ-ገጽ (website), and ሶፍትዌር (software).",
+        "prerequisites": [
+            "am-u15-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u15-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የትምህርት ጥናት (Education and Academia) - ደረጃ 4) ተማሪዎች ስለ የትምህርት ጥናት (Education and Academia) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Information and communication technology (የመረጃ እና መገናኛ ቴክኖሎጂ) in Amharic blends modern loanwords with expressive indigenous neologisms.\n\n1. Hardware, Software & Internet Terminology:\n- **መረጃ ቴክኖሎጂ** (Mereja tēknolojī) — Information Technology (IT)\n- **ኮምፒውተር** (Kompywuter) — Computer\n- **ኢንተርኔት / መረብ** (Internēt / Mereb) — Internet / Web network\n- **ድረ-ገጽ** (Dire-gets') — Website / Webpage (literally 'net face')\n- **ሶፍትዌር / መተግበሪያ** (Softwēr / Metegberīya) — Software / Application\n- **የውሂብ ጎታ** (Yewihīb gota) — Database\n- **የይለፍ ቃል** (Yeyilef qal) — Password (literally 'word of pass')\n- **ኢሜይል** (Īmēyil) — Email / Electronic mail\n\n2. Digital Action Verbs:\n- **ማውረድ** (Mawred) — Downloading\n- **መጫን** (Mech'an) — Uploading / Installing\n- **መፈለግ** (Mefeleg) — Browsing / Searching",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየትምህርት ጥናት (Education and Academia) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (15.4.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "የኮምፒውተር ፕሮግራመሩ አዲስ የሞባይል መተግበሪያ አበለጸገ።",
+                    "reading": "Yekompywuter programeru addīs yemobayil metegberīya abelts'ege.",
+                    "translation": "The computer programmer developed a new mobile application."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (15.4.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ወደ ዩኒቨርሲቲው ድረ-ገጽ ለመግባት ትክክለኛውን የይለፍ ቃል አስገባ።",
+                    "reading": "Wede yunīversītīw dire-gets' lemegbat tikiklegnawun yeyilef qal asgeba.",
+                    "translation": "Enter the correct password to log into the university website."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (15.4.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "በኢንተርኔት አማካኝነት ከመላው ዓለም የመጡ ሳይንሳዊ መረጃዎችን በቀላሉ ማግኘት ይቻላል።",
+                    "reading": "Be'internēt amakagninet kemellaw alem yemet'u sayinsawi merejawochin beqelalu magnet yichalal.",
+                    "translation": "Through the internet, one can easily access scientific information from around the world."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የትምህርት ጥናት (Education and Academia)"
+                "«ድረ-ገጽ» = Web (ድረ) + Face (ገጽ) = Website! «የይለፍ ቃል» = Pass (ይለፍ) + Word (ቃል) = Password!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "The digitization of the Ethiopian Fidel alphabet and inclusion of Ge'ez script in the global Unicode standard was spearheaded by Ethiopian computer scientists, enabling native fidel computing across smartphones and keyboards."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የትምህርት ጥናት (Education and Academia)» አጠቃቀም በደረጃ 4 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«ድረ-ገጽ» ምን ማለት ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (15.4.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (15.4.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (15.4.3)።"
+                        "Website / Webpage",
+                        "Hardware motherboard",
+                        "Electric cable"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "ድረ-ገጽ (Dire-gets') = website / webpage."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ትምህርት፣ ሳይንስ እና ቴክኖሎጂ (Education & Academia)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 4)፡",
+                    "prompt": "«የይለፍ ቃል» ምን ያመለክታል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (15.4.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (15.4.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (15.4.3)።"
+                        "User password",
+                        "Email server",
+                        "Monitor screen"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "የይለፍ ቃል (Yeyilef qal) means 'password'."
                 }
             ]
         },
@@ -8116,85 +8149,95 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የትምህርት ጥናት (Education and Academia)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 15-4)?",
+                    "prompt": "የመረጃ ቴክኖሎጂ ምህፃረ ቃል ምን ተብሎ ይጠራል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (15.4.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (15.4.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (15.4.3)።"
+                        "IT (Information Technology)",
+                        "GPS (Global Positioning)",
+                        "ATM"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "መረጃ ቴክኖሎጂ = IT (Information Technology)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ትምህርት_ቤት_15_4»):",
+                    "prompt": "Type the Amharic word for 'computer' in Fidel script (ኮምፒውተር):",
                     "acceptedAnswers": [
-                        "ትምህርት_ቤት_15_4"
+                        "ኮምፒውተር",
+                        "kompyuter",
+                        "computer",
+                        "Kompyuter"
                     ],
-                    "explanation": "The target keyword was: 【ትምህርት_ቤት_15_4】"
+                    "explanation": "ኮምፒውተር (Kompyuter) means 'computer'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u15-l5": {
         "id": "am-u15-l5",
-        "subject": "amharic",
-        "unit": 15,
-        "lessonNumber": 5,
-        "title": "ትምህርት፣ ሳይንስ እና ቴክኖሎጂ (Education & Academia) (Part 5)",
+        "unit": "am-u15",
         "level": "B1",
-        "objective": "Comprehensive mastery of የትምህርት ጥናት (Education and Academia).",
+        "objective": "Synthesize educational credentials, scientific disciplines, research methodologies, and technological terminology into an integrated academic conference presentation in Amharic.",
+        "prerequisites": [
+            "am-u15-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u15-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የትምህርት ጥናት (Education and Academia) - ደረጃ 5) ተማሪዎች ስለ የትምህርት ጥናት (Education and Academia) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "This review lesson synthesizes university education, research methodology, scientific inquiry, and IT innovation into a cohesive academic conference presentation.\n\n1. Academic Symposium Discourse (ሳይንሳዊ ጉባኤ):\n- **Presentation:** Presenting research hypotheses (**የምርምር መላ-ምት**).\n- **Methodology:** Citing laboratory experiments (**ቤተ-ሙከራ**) and digital datasets (**የውሂብ ጎታ**).\n- **Defense:** Defending conclusions before a scholarly committee (**ከምሁራን ጋር መከራከር**).\n\n2. Key Academic Vocabulary Synthesis:\n- **ጉባኤ / ኮንፈረንስ** (Guba'ē / Konferens) — Academic symposium / Conference\n- **የምርምር ግኝት** (Yemirmir gignit) — Research discovery / Findings\n- **ትንተና** (Tintena) — Analysis / Decomposition\n- **ሁለንተናዊ እድገት** (Hulentenawi idiget) — Comprehensive development",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየትምህርት ጥናት (Education and Academia) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (15.5.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "በሳይንሳዊ ጉባኤው ላይ ምሁራን አዳዲስ የምርምር ውጤቶችን እና የቴክኖሎጂ ፈጠራዎችን አቀረቡ።",
+                    "reading": "Besayinsawi guba'ēw lay mihuran addadīs yemirmir wut'ētochin ina yetēknolojī fet'erawochin aqerebu.",
+                    "translation": "At the scientific symposium, scholars presented new research findings and technological innovations."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (15.5.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የቴክኖሎጂ እና የሳይንስ ትምህርት ለሀገር ሁለንተናዊ እድገት ወሳኝ ሚና ይጫወታል።",
+                    "reading": "Yetēknolojī ina yesayins timihirt lehager hulentenawi idiget wesagn mīna yich'awetal.",
+                    "translation": "Technology and science education play a crucial role in a nation's comprehensive development."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (15.5.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ተመራማሪዎቹ በቤተ-ሙከራ የተገኙትን መረጃዎች በጥልቀት ተንትነው አቀረቡ።",
+                    "reading": "Temaramarīwochu bebēte-mukera yetegegnutin merejawochin bet'ilqet tentnew aqerebu.",
+                    "translation": "The researchers deeply analyzed and presented the data obtained in the laboratory."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የትምህርት ጥናት (Education and Academia)"
+                "«ጉባኤ» (Guba'e) = Assembly / Symposium; scholarly gathering for knowledge sharing!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Ethiopian higher learning bridges classical intellectual traditions (such as Qene poetry with wax-and-gold dual interpretations) with modern computational and medical sciences."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የትምህርት ጥናት (Education and Academia)» አጠቃቀም በደረጃ 5 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«ሳይንሳዊ ጉባኤ» ምን ማለት ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (15.5.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (15.5.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (15.5.3)።"
+                        "Scientific conference / Academic symposium",
+                        "Sports match",
+                        "Music concert"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "ሳይንሳዊ ጉባኤ (Sayinsawi guba'e) means 'scientific conference / symposium'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ትምህርት፣ ሳይንስ እና ቴክኖሎጂ (Education & Academia)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 5)፡",
+                    "prompt": "«ጥልቅ ትንተና» ምን ያመለክታል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (15.5.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (15.5.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (15.5.3)።"
+                        "Superficial glance",
+                        "In-depth scientific analysis",
+                        "Canceling a study"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "ጥልቅ ትንተና = in-depth scientific analysis."
                 }
             ]
         },
@@ -8202,24 +8245,27 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የትምህርት ጥናት (Education and Academia)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 15-5)?",
+                    "prompt": "ምሁራን ምርምራቸውን የሚያቀርቡበት መድረክ ምን ይባላል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (15.5.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (15.5.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (15.5.3)።"
+                        "ገበያ (Market)",
+                        "የሳይንስ ጉባኤ (Scientific symposium)",
+                        "ስታዲየም (Stadium)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "የሳይንስ ጉባኤ (Sayinsawi guba'e) is an academic conference/symposium."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ትምህርት_ቤት_15_5»):",
+                    "prompt": "Type the Amharic word for 'research' in Fidel script (ምርምር):",
                     "acceptedAnswers": [
-                        "ትምህርት_ቤት_15_5"
+                        "ምርምር",
+                        "mirmir",
+                        "Mirmir"
                     ],
-                    "explanation": "The target keyword was: 【ትምህርት_ቤት_15_5】"
+                    "explanation": "ምርምር (Mirmir) means 'research / investigation'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u16-l1": {
