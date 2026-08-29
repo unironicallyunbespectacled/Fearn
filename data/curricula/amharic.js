@@ -13048,63 +13048,69 @@
     },
     "am-u26-l1": {
         "id": "am-u26-l1",
-        "subject": "amharic",
-        "unit": 26,
-        "lessonNumber": 1,
-        "title": "ህግ፣ አስተዳደር እና ፖለቲካ (Legal Terminology & Governance) (Part 1)",
+        "unit": "am-u26",
         "level": "C1",
-        "objective": "Comprehensive mastery of ህጋዊ ቃላት እና አስተዳደር (Legal Discourse).",
+        "objective": "Examine the legal evolution of Ethiopian jurisprudence from the ancient canonical code «ፍትሐ ነገሥት» (Law of Kings) to modern constitutionalism («ሕገ-መንግሥት»), mastering legal principles like «የህግ የበላይነት» (rule of law) and «ድንጋጌ» (statutory provision).",
+        "prerequisites": [
+            "am-u25-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u25-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ህጋዊ ቃላት እና አስተዳደር (Legal Discourse) - ደረጃ 1) ተማሪዎች ስለ ህጋዊ ቃላት እና አስተዳደር (Legal Discourse) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Ethiopian legal jurisprudence evolved from canonical medieval codifications to constitutional democracy.\n\n1. Key Legal Concepts:\n- **ፍትሐ ነገሥት** (Fetha Nagast — Ancient 'Law of the Kings' legal and civil code)\n- **ሕገ-መንግሥት** (Hige-mengist — Supreme Constitution)\n- **የህግ የበላይነት** (Ye-hig belayinet — The Rule of Law)\n- **ድንጋጌ** (Dingagē — Statutory legal provision / Article)\n- **ተፈጻሚነት** (Tefets'amīnet — Legal enforceability / Applicability).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የህጋዊ ቃላት እና አስተዳደር (Legal Discourse) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (26.1.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ሕገ-መንግሥቱ የሀገሪቱ የበላይ ህግ ሲሆን፣ ማንኛውም ሌላ ህግ ከእሱ ጋር የሚቃረን ከሆነ ተፈጻሚነት አይኖረውም።",
+                    "reading": "Hige-mengistu yehagerītu belay hig sīhon, manignawim lēla hig ke'irsu gar yemīqaren kehone tefets'amīnet ayīnorewim.",
+                    "translation": "The constitution is the supreme law of the land, and any other law that contradicts it shall have no legal force."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (26.1.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ፍትሐ ነገሥት ለዘመናት በኢትዮጵያ ውስጥ እንደ ዋነኛ የፍትህ እና የህግ መመሪያ ሆኖ አገልግሏል።",
+                    "reading": "Fitiha Negest lezemenat be'ītyop'ya wust inde wanegna yefitih ina yehig memerīya hono agelgilwal.",
+                    "translation": "The Fetha Nagast served as the primary guide for justice and law in Ethiopia for centuries."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (26.1.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የህግ የበላይነት የዜጎችን ሰብአዊ እና ዴሞክራሲያዊ መብቶች ለማስከበር የማይተካ መሰረት ነው።",
+                    "reading": "Yehig belayinet yezēgochin seb'awī ina dēmokrasīyawī mebitoch lemaskeber yemayiteka meseret new.",
+                    "translation": "The rule of law is an irreplaceable foundation for upholding citizens' human and democratic rights."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ህጋዊ ቃላት እና አስተዳደር (Legal Discourse)"
+                "«ሕገ-መንግሥት» = Supreme Constitution! «ፍትሐ ነገሥት» = Ancient code! «የህግ የበላይነት» = Rule of Law!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "The *Fetha Nagast* was translated into Ge'ez around 1450 under Emperor Zara Yaqob, functioning as both penal code and ecclesiastical constitution for half a millennium."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ህጋዊ ቃላት እና አስተዳደር (Legal Discourse)» አጠቃቀም በደረጃ 1 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "ከሕገ-መንግሥቱ ጋር የሚቃረን ማንኛውም ህግ ምን ይሆናል?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (26.1.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (26.1.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (26.1.3)።"
+                        "ተፈጻሚነት አይኖረውም (Shall have no legal force / effect)",
+                        "በቀጥታ ይጸድቃል (Immediately approved)",
+                        "ገንዘብ ይከፈልበታል (Requires fee)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "Any law inconsistent with the constitution is void of legal effect."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ህግ፣ አስተዳደር እና ፖለቲካ (Legal Terminology & Governance)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 1)፡",
+                    "prompt": "«የህግ የበላይነት» ምን ማለት ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (26.1.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (26.1.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (26.1.3)።"
+                        "Financial bonus",
+                        "The Rule of Law (Equality before the law)",
+                        "Military rank"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "የህግ የበላይነት = The Rule of Law."
                 }
             ]
         },
@@ -13112,85 +13118,98 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ህጋዊ ቃላት እና አስተዳደር (Legal Discourse)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 26-1)?",
+                    "prompt": "የሀገሪቱ የበላይ ህግ የትኛው ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (26.1.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (26.1.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (26.1.3)።"
+                        "የንግድ ማስታወቂያ (Advertisement)",
+                        "ሕገ-መንግሥት (The Constitution)",
+                        "የስፖርት ደንብ (Sports rule)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "ሕገ-መንግሥት (The Constitution) is the supreme law of the land."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ህግ_26_1»):",
+                    "prompt": "Type the Amharic word for 'constitution' in Fidel script (ሕገ-መንግሥት):",
                     "acceptedAnswers": [
-                        "ህግ_26_1"
+                        "ሕገ-መንግሥት",
+                        "ሕገ መንግሥት",
+                        "hige mengist",
+                        "hige-mengist",
+                        "ህገ-መንግስት",
+                        "ህገ መንግስት",
+                        "Hige mengist"
                     ],
-                    "explanation": "The target keyword was: 【ህግ_26_1】"
+                    "explanation": "ሕገ-መንግሥት (Hige-mengist) means 'constitution'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u26-l2": {
         "id": "am-u26-l2",
-        "subject": "amharic",
-        "unit": 26,
-        "lessonNumber": 2,
-        "title": "ህግ፣ አስተዳደር እና ፖለቲካ (Legal Terminology & Governance) (Part 2)",
+        "unit": "am-u26",
         "level": "C1",
-        "objective": "Comprehensive mastery of ህጋዊ ቃላት እና አስተዳደር (Legal Discourse).",
+        "objective": "Master the procedural vocabulary of court litigation and judicial proceedings in Amharic, analyzing plaintiff/defendant claims («ከሳሽ እና ተከሳሽ»), evidentiary testimony («ማስረጃ እና ምስክር»), and verdicts («ፍርድ/ውሳኔ»).",
+        "prerequisites": [
+            "am-u26-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u26-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ህጋዊ ቃላት እና አስተዳደር (Legal Discourse) - ደረጃ 2) ተማሪዎች ስለ ህጋዊ ቃላት እና አስተዳደር (Legal Discourse) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Litigation and courtroom adjudication follow precise procedural terminology in Amharic.\n\n1. Courtroom Terminology:\n- **ከሳሽ** (Kesash — Plaintiff / Prosecuting party)\n- **ተከሳሽ** (Tekesash — Defendant / Accused)\n- **ዳኛ** (Dagna — Judge / Adjudicator)\n- **ማስረጃ** (Masrejja — Legal evidence / Exhibits)\n- **ምስክር** (Misikir — Witness testimony)\n- **ፍርድ / ውሳኔ** (Fird / Wisanē — Judgement / Verdict)\n- **ይግባኝ** (Yigbagn — Appeal to a higher court).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የህጋዊ ቃላት እና አስተዳደር (Legal Discourse) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (26.2.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ዳኛው የግራ ቀኙን ክርክር እና የቀረቡትን የጽሁፍ ማስረጃዎች ከመረመሩ በኋላ የመጨረሻውን ፍርድ ሰጡ።",
+                    "reading": "Dagnaw yegira qegnun krikkir ina yeqerebutin yets'ihuf masrejjawoch kemeremeru behwala yemech'ereshawun fird set'u.",
+                    "translation": "After examining the arguments of both sides and the written evidence submitted, the judge delivered the final verdict."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (26.2.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ተከሳሹ በጠበቃው አማካኝነት የቀረበበትን ክስ በመቃወም ይግባኝ የማለት ህጋዊ መብት አለው።",
+                    "reading": "Tekesashu bet'ebaqaw amakagninet yeqerebebetin kis bemeqawem yigbagn yemallet higawī mebit alew.",
+                    "translation": "The defendant, through counsel, has the legal right to challenge the charges and file an appeal."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (26.2.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የምስክሮች ቃል እና ተጨባጭ የፎረንሲክ ማስረጃ በወንጀል ምርመራ ሂደት ውስጥ ወሳኝ ሚና ይጫወታሉ።",
+                    "reading": "Yemisikiroch qal ina tech'ebach yeforensīk masrejja bewonjel mirmera hīdet wust wesagn mīna yich'awetalu.",
+                    "translation": "Witness testimony and concrete forensic evidence play a decisive role during criminal investigations."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ህጋዊ ቃላት እና አስተዳደር (Legal Discourse)"
+                "«ከሳሽ» = Plaintiff! «ተከሳሽ» = Defendant! «ዳኛ» = Judge! «ይግባኝ» = Appellate appeal!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Traditional Ethiopian dispute resolution includes customary elders' arbitration councils like **ሽምግልና** (Shimiglina) and Oromo **ጃርሱማ** (Jarsuma), functioning alongside statutory courts."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ህጋዊ ቃላት እና አስተዳደር (Legal Discourse)» አጠቃቀም በደረጃ 2 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "በፍርድ ቤት ውሳኔ ቅር የተሰኘ ወገን ወደ ከፍተኛ ፍርድ ቤት የሚያቀርበው አቤቱታ ምን ይባላል?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (26.2.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (26.2.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (26.2.3)።"
+                        "ይግባኝ (Legal Appeal)",
+                        "ግብዣ (Invitation)",
+                        "ስልክ ጥሪ (Phone call)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "ይግባኝ (Yigbagn) is an official legal appeal to a higher court."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ህግ፣ አስተዳደር እና ፖለቲካ (Legal Terminology & Governance)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 2)፡",
+                    "prompt": "«ተከሳሽ» በፍርድ ቤት ምን ዓይነት ሰው ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (26.2.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (26.2.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (26.2.3)።"
+                        "The judge",
+                        "The person accused / Defendant",
+                        "The building guard"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "ተከሳሽ is the defendant accused in a court case."
                 }
             ]
         },
@@ -13198,85 +13217,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ህጋዊ ቃላት እና አስተዳደር (Legal Discourse)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 26-2)?",
+                    "prompt": "በፍርድ ቤት ጉዳዮችን መርምሮ ፍርድ የሚሰጠው የፍትህ ባለስልጣን ማን ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (26.2.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (26.2.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (26.2.3)።"
+                        "ምስክር (Witness)",
+                        "ዳኛ (Judge)",
+                        "ተከሳሽ (Defendant)"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "explanation": "ዳኛ (Judge) presides over cases and renders judgements."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ህግ_26_2»):",
+                    "prompt": "Type the Amharic word for 'judge' in Fidel script (ዳኛ):",
                     "acceptedAnswers": [
-                        "ህግ_26_2"
+                        "ዳኛ",
+                        "dagna",
+                        "danya",
+                        "Dagna",
+                        "Danya"
                     ],
-                    "explanation": "The target keyword was: 【ህግ_26_2】"
+                    "explanation": "ዳኛ (Dagna) means 'judge'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u26-l3": {
         "id": "am-u26-l3",
-        "subject": "amharic",
-        "unit": 26,
-        "lessonNumber": 3,
-        "title": "ህግ፣ አስተዳደር እና ፖለቲካ (Legal Terminology & Governance) (Part 3)",
+        "unit": "am-u26",
         "level": "C1",
-        "objective": "Comprehensive mastery of ህጋዊ ቃላት እና አስተዳደር (Legal Discourse).",
+        "objective": "Examine parliamentary procedures, the bicameral legislature, draft bill deliberations («ረቂቅ ህግ»), official proclamations («አዋጅ»), and democratic governance in Ethiopia.",
+        "prerequisites": [
+            "am-u26-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u26-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ህጋዊ ቃላት እና አስተዳደር (Legal Discourse) - ደረጃ 3) ተማሪዎች ስለ ህጋዊ ቃላት እና አስተዳደር (Legal Discourse) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Legislative governance and parliamentary processes center on statutory enactments.\n\n1. Legislative Architecture:\n- **የሕዝብ ተወካዮች ምክር ቤት** (House of Peoples' Representatives — Lower house enacting federal legislation)\n- **የፌዴሬሽን ምክር ቤት** (House of Federation — Upper house representing ethnic nations and interpreting the constitution)\n- **ረቂቅ ህግ** (Reqīq hig — Draft bill undergoing reading and committee debate)\n- **አዋጅ** (Awaj — Enacted proclamation published in the *ነጋሪት ጋዜጣ*)\n- **ማጽደቅ** (Mats'deq — To ratify / pass legislation).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የህጋዊ ቃላት እና አስተዳደር (Legal Discourse) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (26.3.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "የሕዝብ ተወካዮች ምክር ቤት በቀረበው ረቂቅ ህግ ላይ ከተወያየ በኋላ በአብላጫ ድምፅ አዋጅ አድርጎ አጸደቀው።",
+                    "reading": "Yehizb tewokayoch mikir bēt beqerebew reqīq hig lay keteweyaye behwala be'ablach'a dimts' awaj adrigo ats'edeqew.",
+                    "translation": "After deliberating on the submitted draft bill, the House of Peoples' Representatives approved it by majority vote as a statutory proclamation."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (26.3.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የፌዴሬሽን ምክር ቤት የሕገ-መንግሥት ትርጉም ጥያቄዎችን የመመርመር እና የመወሰን ስልጣን አለው።",
+                    "reading": "Yefēdēral mikir bēt yehige-mengist tirgum t'iyaqēwochin yememermer ina yemewesen silts'an alew.",
+                    "translation": "The House of Federation has the constitutional authority to examine and resolve constitutional interpretation questions."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (26.3.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የህዝብ ተሳትፎ ረቂቅ ፖሊሲዎችን እና ህጎችን ለማዳበር እና ፍትሃዊ ለማድረግ ከፍተኛ አስተዋጽኦ ያበረክታል።",
+                    "reading": "Yehizb tesatifo reqīq polīsīwochin ina higochin lemadaber ina fitihawī lemadreg kefitegna asitewats'o yaberikital.",
+                    "translation": "Public participation greatly contributes to refining and democratizing draft policies and statutes."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ህጋዊ ቃላት እና አስተዳደር (Legal Discourse)"
+                "«ረቂቅ ህግ» = Draft bill! «አዋጅ» = Enacted proclamation! «ማጽደቅ» = To ratify into law!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Federal proclamations in Ethiopia become officially binding once signed by the President and published in the *ነጋሪት ጋዜጣ* (Federal Negarit Gazeta)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ህጋዊ ቃላት እና አስተዳደር (Legal Discourse)» አጠቃቀም በደረጃ 3 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "ረቂቅ ህግ በምክር ቤቱ ከጸደቀ በኋላ በይፋ ምን ይባላል?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (26.3.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (26.3.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (26.3.3)።"
+                        "አዋጅ (Proclamation / Statute)",
+                        "ግጥም (Poem)",
+                        "ልቦለድ (Novel)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "አዋጅ is an enacted proclamation passed by parliament."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ህግ፣ አስተዳደር እና ፖለቲካ (Legal Terminology & Governance)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 3)፡",
+                    "prompt": "«ረቂቅ ህግ» ምን ማለት ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (26.3.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (26.3.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (26.3.3)።"
+                        "Finished history book",
+                        "Draft legislative bill (prior to ratification)",
+                        "Court ruling"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "ረቂቅ ህግ = draft legislative bill."
                 }
             ]
         },
@@ -13284,85 +13314,94 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ህጋዊ ቃላት እና አስተዳደር (Legal Discourse)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 26-3)?",
+                    "prompt": "የኢትዮጵያ የፌዴራል ህጎች በይፋ ታትመው የሚወጡበት ጋዜጣ ምን ይባላል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (26.3.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (26.3.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (26.3.3)።"
+                        "ነጋሪት ጋዜጣ (Negarit Gazeta)",
+                        "አዲስ ዘመን (Addis Zemen)",
+                        "የስፖርት መጽሔት (Sports magazine)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "ነጋሪት ጋዜጣ (Negarit Gazeta) is the official federal law gazette."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ህግ_26_3»):",
+                    "prompt": "Type the Amharic word for 'statutory proclamation / enacted decree' in Fidel script (አዋጅ):",
                     "acceptedAnswers": [
-                        "ህግ_26_3"
+                        "አዋጅ",
+                        "awaj",
+                        "Awaj"
                     ],
-                    "explanation": "The target keyword was: 【ህግ_26_3】"
+                    "explanation": "አዋጅ (Awaj) means 'proclamation / statutory decree'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u26-l4": {
         "id": "am-u26-l4",
-        "subject": "amharic",
-        "unit": 26,
-        "lessonNumber": 4,
-        "title": "ህግ፣ አስተዳደር እና ፖለቲካ (Legal Terminology & Governance) (Part 4)",
+        "unit": "am-u26",
         "level": "C1",
-        "objective": "Comprehensive mastery of ህጋዊ ቃላት እና አስተዳደር (Legal Discourse).",
+        "objective": "Appraise international diplomatic treaties, bilateral/multilateral agreements («የሁለትዮሽ እና የብዙሃን ስምምነት»), diplomatic immunity («ዲፕሎማሲያዊ ያለመከሰስ መብት»), and sovereign equality («ሉዓላዊ እኩልነት»).",
+        "prerequisites": [
+            "am-u26-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u26-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ህጋዊ ቃላት እና አስተዳደር (Legal Discourse) - ደረጃ 4) ተማሪዎች ስለ ህጋዊ ቃላት እና አስተዳደር (Legal Discourse) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "International law and diplomatic agreements regulate inter-state diplomacy and multilateral relations.\n\n1. Diplomatic Terminology:\n- **ስምምነት** (Simiminet — Treaty / Accord / Convention)\n- **የሁለትዮሽ ግንኙነት** (Yehuleteyosh ginignunet — Bilateral relations)\n- **የብዙሃን ወገን ስምምነት** (Yebizuhan-wegen simiminet — Multilateral convention)\n- **አምባሳደር** (Ambasader — Ambassador)\n- **ሉዓላዊ እኩልነት** (Lu'alawī ikkulinet — Sovereign equality of nations)\n- **ዲፕሎማሲያዊ ያለመከሰስ መብት** (Diplomatic immunity).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የህጋዊ ቃላት እና አስተዳደር (Legal Discourse) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (26.4.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ሁለቱ ሀገራት በንግድ፣ በኢንቨስትመንት እና በቴክኖሎጂ ሽግግር ዙሪያ ታሪካዊ የሁለትዮሽ ስምምነት ተፈራረሙ።",
+                    "reading": "Huletu hagerat benigd, be'īnvestment ina betēknolojī shiggigir zurīya tarikawī yehuleteyosh simiminet teferaremu.",
+                    "translation": "The two countries signed a historic bilateral agreement in commerce, investment, and technology transfer."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (26.4.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የአምባሳደሩ ዋነኛ ተልዕኮ የሀገራቸውን ብሄራዊ ጥቅም ማስጠበቅ እና ዓለም አቀፍ የዲፕሎማሲ ግንኙነትን ማጠናከር ነው።",
+                    "reading": "Ye'ambasaderu wanegna teli'iko yehagerachewun bihērawī t'iqim masit'ebeq ina alem aqef yedīplomasī ginignunetn mat'enaker new.",
+                    "translation": "The ambassador's primary mission is to protect their nation's national interest and strengthen international diplomatic relations."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (26.4.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ዓለም አቀፍ ስምምነቶች በሉዓላዊ እኩልነት እና በጋራ ተጠቃሚነት መርሆዎች ላይ የተመሰረቱ መሆን አለባቸው።",
+                    "reading": "Alem aqef simiminetoch belu'alawī ikkulinet ina begara tet'eqamīnet merhowoch lay yetemeseretu mehon allebachew.",
+                    "translation": "International conventions must be founded upon the principles of sovereign equality and mutual benefit."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ህጋዊ ቃላት እና አስተዳደር (Legal Discourse)"
+                "«ስምምነት» = Treaty / Agreement! «የሁለትዮሽ» = Bilateral! «አምባሳደር» = Ambassador!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "As a founding member of the League of Nations, the UN, and the African Union (headquartered in Addis Ababa), Ethiopia has a venerable diplomatic tradition."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ህጋዊ ቃላት እና አስተዳደር (Legal Discourse)» አጠቃቀም በደረጃ 4 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "በሁለት ሀገራት መካከል ብቻ የሚደረግ ግንኙነት ወይም ስምምነት ምን ይባላል?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (26.4.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (26.4.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (26.4.3)።"
+                        "የሁለትዮሽ (Bilateral)",
+                        "የግል ንግግር (Private talk)",
+                        "ብቻ መሆን (Solitude)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "የሁለትዮሽ (Bilateral) signifies two-party relations."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ህግ፣ አስተዳደር እና ፖለቲካ (Legal Terminology & Governance)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 4)፡",
+                    "prompt": "«አምባሳደር» ምን ዓይነት ዲፕሎማሲያዊ ሚና አለው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (26.4.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (26.4.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (26.4.3)።"
+                        "Local tour guide",
+                        "Official plenipotentiary diplomatic representative of a state",
+                        "School teacher"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "አምባሳደር is an accredited diplomatic envoy."
                 }
             ]
         },
@@ -13370,85 +13409,95 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ህጋዊ ቃላት እና አስተዳደር (Legal Discourse)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 26-4)?",
+                    "prompt": "የአፍሪካ ህብረት (African Union) ዋና መቀመጫ የትኛው ከተማ ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (26.4.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (26.4.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (26.4.3)።"
+                        "ለንደን (London)",
+                        "ፓሪስ (Paris)",
+                        "አዲስ አበባ (Addis Ababa)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "Addis Ababa is the headquarters of the African Union (AU)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ህግ_26_4»):",
+                    "prompt": "Type the Amharic word for 'agreement / treaty' in Fidel script (ስምምነት):",
                     "acceptedAnswers": [
-                        "ህግ_26_4"
+                        "ስምምነት",
+                        "simiminet",
+                        "smimnet",
+                        "Simiminet"
                     ],
-                    "explanation": "The target keyword was: 【ህግ_26_4】"
+                    "explanation": "ስምምነት (Simiminet) means 'agreement / treaty'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u26-l5": {
         "id": "am-u26-l5",
-        "subject": "amharic",
-        "unit": 26,
-        "lessonNumber": 5,
-        "title": "ህግ፣ አስተዳደር እና ፖለቲካ (Legal Terminology & Governance) (Part 5)",
+        "unit": "am-u26",
         "level": "C1",
-        "objective": "Comprehensive mastery of ህጋዊ ቃላት እና አስተዳደር (Legal Discourse).",
+        "objective": "Synthesize constitutional jurisprudence, courtroom litigation, statutory parliamentary enactments, and international diplomacy into an advanced mock constitutional court trial in Amharic.",
+        "prerequisites": [
+            "am-u26-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u26-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ህጋዊ ቃላት እና አስተዳደር (Legal Discourse) - ደረጃ 5) ተማሪዎች ስለ ህጋዊ ቃላት እና አስተዳደር (Legal Discourse) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "This lesson consolidates constitutional jurisprudence, statutory enactment, judicial litigation, and international treaty compliance into a high-level appellate courtroom simulation.\n\n1. Legal Synthesis Dimensions:\n- **Constitutional Supremacy:** «ሕገ-መንግሥታዊ ድንጋጌዎችን መሰረት በማድረግ...»\n- **Legislative Conformity:** «የህግ አውጪው አካል ያወጣው አዋጅ...»\n- **Judicial Independence:** «ገለልተኛ ዳኝነት እና የፍትህ ስርዓት...»\n- **International Law:** «ዓለም አቀፍ የሰብአዊ መብቶች ስምምነቶች...»",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የህጋዊ ቃላት እና አስተዳደር (Legal Discourse) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (26.5.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "የፌዴራል ጠቅላይ ፍርድ ቤት ሕገ-መንግሥታዊ ድንጋጌዎችን እና ዓለም አቀፍ የሰብአዊ መብቶች ስምምነቶችን መሰረት በማድረግ ፍርድ ሰጠ።",
+                    "reading": "Yefēdēral t'eqilay fird bēt hige-mengistawī dingagēwochin ina alem aqef yeseb'awī mebitoch simiminetochin meseret bemadreg fird set'e.",
+                    "translation": "The Federal Supreme Court delivered its verdict based upon constitutional provisions and international human rights conventions."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (26.5.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የህግ አውጪው አካል ያወጣው አዋጅ ከሕገ-መንግሥቱ መሰረታዊ መርሆዎች ጋር የተጣጣመ መሆኑ በክርክሩ ወቅት ተረጋግጧል።",
+                    "reading": "Yehig awch'īw akal yawet'aw awaj kehige-mengistu meseretawī merhowoch gar yetet'at'ame mehonu bekrikkiru weqt teregagit'wal.",
+                    "translation": "It was confirmed during the trial that the proclamation enacted by the legislature conformed with fundamental constitutional principles."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (26.5.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ጠንካራ የህግ ስርዓት፣ ገለልተኛ ዳኝነት እና ዲሞክራሲያዊ አስተዳደር ለሀገር ዘላቂ ሰላም እና ብልጽግና ወሳኝ መሰረቶች ናቸው።",
+                    "reading": "T'inikara yehig sir'at, geleltegna dagninet ina dīmokrasīyawī asitedader lehager zelaqī selam ina bilts'igina wesagn meseretoch nachew.",
+                    "translation": "A robust legal system, independent judiciary, and democratic governance are essential pillars for lasting national peace and prosperity."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ህጋዊ ቃላት እና አስተዳደር (Legal Discourse)"
+                "Rule of Law Quadrant: Constitution (ሕገ-መንግሥት) + Court (ፍርድ ቤት) + Parliament (አዋጅ) + Diplomacy (ስምምነት) = Sovereign Justice!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "The Ethiopian judiciary operates a tiered federal and regional court system consisting of First Instance, High Court, and Supreme Court with Cassation Division (ሰበር ሰሚ ችሎት) creating binding precedents."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ህጋዊ ቃላት እና አስተዳደር (Legal Discourse)» አጠቃቀም በደረጃ 5 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«ገለልተኛ ዳኝነት» ምንን ያረጋግጣል?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (26.5.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (26.5.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (26.5.3)።"
+                        "Fair, uncorrupted, and impartial justice without bias (ገለልተኛ ፍትህ)",
+                        "Favoring wealthy parties",
+                        "Ignoring laws"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "ገለልተኛ ዳኝነት ensures impartial and unbiased adjudication."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ህግ፣ አስተዳደር እና ፖለቲካ (Legal Terminology & Governance)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 5)፡",
+                    "prompt": "በዚህ ክፍል ካጠናናቸው ውስጥ የህግ የበላይነት ዋነኛ ምሰሶ የትኛው ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (26.5.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (26.5.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (26.5.3)።"
+                        "ሕገ-መንግሥት እና ገለልተኛ የዳኝነት ስርዓት (The constitution & independent judiciary)",
+                        "የዘፈቀደ ውሳኔ",
+                        "ስፖርታዊ ጨዋታ"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "The constitution and independent judiciary anchor the rule of law."
                 }
             ]
         },
@@ -13456,24 +13505,29 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ህጋዊ ቃላት እና አስተዳደር (Legal Discourse)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 26-5)?",
+                    "prompt": "የፍርድ ቤት የመጨረሻ ውሳኔ ምን ይባላል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (26.5.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (26.5.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (26.5.3)።"
+                        "ፍርድ / ውሳኔ (Verdict / Ruling)",
+                        "ረቂቅ ህግ (Draft bill)",
+                        "የምስክር ጥሪ (Witness summons)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "ፍርድ / ውሳኔ is the final judicial verdict."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ህግ_26_5»):",
+                    "prompt": "Type the Amharic word for 'justice / fairness' in Fidel script (ፍትህ):",
                     "acceptedAnswers": [
-                        "ህግ_26_5"
+                        "ፍትህ",
+                        "fitih",
+                        "fitihi",
+                        "Fitih",
+                        "ፍትሕ"
                     ],
-                    "explanation": "The target keyword was: 【ህግ_26_5】"
+                    "explanation": "ፍትህ (Fitih) means 'justice / equity'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u27-l1": {
