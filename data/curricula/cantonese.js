@@ -3902,63 +3902,69 @@
     },
     "hk-u8-l1": {
         "id": "hk-u8-l1",
-        "subject": "cantonese",
-        "unit": 8,
-        "lessonNumber": 1,
-        "title": "否定詞：唔、冇、未 (Negation Patterns) (Part 1)",
+        "unit": "hk-u8",
         "level": "A2",
-        "objective": "Comprehensive mastery of 否定詞唔冇未辨析 (Negation: 唔/冇/未).",
+        "objective": "Master the general Cantonese negator 唔 (m4 - not / don't), its phonological properties, and essential daily collocations (唔係, 唔要, 唔同, 唔好意思, 唔使).",
+        "prerequisites": [
+            "hk-u7-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u7-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（否定詞唔冇未辨析 (Negation: 唔/冇/未) - 第1部分）入面，我哋會探討廣東話嘅核心語用語境同埋否定詞唔冇未辨析 (Negation: 唔/冇/未)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "喺廣東話入面，最基本、出現頻率最高嘅否定詞係**「唔 (m4)」**！\n\n1. 「唔 (m4)」嘅語法定位 (General Negation: 唔 + V / Adj / Adv):\n- 相當於普通話嘅「不」或英文嘅 'not / don't'。\n- **唔係 (m4 hai6)**：Is not / are not。\n- **唔要 (m4 jiu3)**：Don't want。\n- **唔好 (m4 hou2)**：Don't... (祈使否定) / Not good。\n- **唔好意思 (m4 hou2 ji3 si3)**：Excuse me / sorry (禮貌社交口頭禪)。\n- **唔使 (m4 sai2)**：No need / don't have to。\n- **唔同 (m4 tung4)**：Different / not the same。\n\n2. 祈使句禁止與勸阻 (Prohibitive '唔好'):\n- 「你**唔好行咁快**啦，等埋我！」(Don't walk so fast, wait for me!)\n- 「千祈**唔好唔記得**帶鎖匙。」(Be sure not to forget to bring keys.)",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (8.1.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "唔好意思，請問尖沙咀港鐵站嘅A出口應該點樣行呀？",
+                    "reading": "m4 hou2 ji3 si3, cing2 man6 zim1 saa1 zeoi2 gong2 tit3 zaam6 ge3 A ceot1 hau2 jing1 goi1 dim2 joeng2 haang4 aa3?",
+                    "translation": "Excuse me, could you please tell me how to get to Exit A of Tsim Sha Tsui MTR station?"
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (8.1.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "我今日唔係好得閒，聽日下晝再約出嚟飲茶傾計啦。",
+                    "reading": "ngo5 gam1 jat6 m4 hai6 hou2 dak1 haan4, ting1 jat6 haa6 ng5 zoi3 joek3 ceot1 lei4 jam2 caa4 king1 gai3 laa1.",
+                    "translation": "I am not very free today; let's arrange to meet for yum cha and chat tomorrow afternoon instead."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (8.1.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "呢件衫嘅質地好舒服，而且價錢唔算太貴。",
+                    "reading": "ni1 gin6 saam1 ge3 zat1 dei6 hou2 syu1 fuk6, ji4 ce2 gaa3 cin4 m4 syun3 taai3 gwai3.",
+                    "translation": "The texture of this shirt is very comfortable, and the price is not considered too expensive."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 否定詞唔冇未辨析 (Negation: 唔/冇/未)"
+                "General Negation: 唔 (m4) = 'Not / Don't' (唔係, 唔要, 唔使, 唔好意思)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "«唔好意思» (m4 hou2 ji3 si3) is the social lubricant of Hong Kong life, used for apologies, clearing a path through crowds, or polite opening remarks."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「否定詞唔冇未辨析 (Negation: 唔/冇/未)」喺第1節嘅地道廣東話表達？",
+                    "prompt": "廣東話中向路人問路或禮貌致歉時最常用的口頭禪「不好意思 / 對不起」是：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (8.1.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (8.1.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (8.1.3)。"
+                        "唔好意思 (m4 hou2 ji3 si3 - Excuse me / sorry)",
+                        "唔該晒",
+                        "冇問題"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "唔好意思 (m4 hou2 ji3 si3) is the classic polite apology/opening phrase."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「否定詞：唔、冇、未 (Negation Patterns)」語境嘅廣東話完整句子（練習 1）：",
+                    "prompt": "用廣東話勸阻他人「不要走得那麼快」，最地道的祈使否定句是：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (8.1.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (8.1.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (8.1.3)。"
+                        "你咪行咁快",
+                        "你唔好行咁快啦 (nei5 m4 hou2 haang4 gam3 faai3 laa1 - Don't walk so fast)",
+                        "你冇行咁快"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "唔好 (m4 hou2) is the standard prohibitive marker for 'don't'."
                 }
             ]
         },
@@ -3966,85 +3972,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「否定詞唔冇未辨析 (Negation: 唔/冇/未)」嘅日常商務與生活習慣（考核 8-1）？",
+                    "prompt": "關於廣東話通用否定詞「唔 (m4)」的用法與常見搭配，下列哪一項表述完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (8.1.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (8.1.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (8.1.3)。"
+                        "「唔」只能否定形容詞不能否定動詞",
+                        "「唔」是廣東話最核心的常態否定詞（相當於「不」），可用於否定判斷（唔係）、意志（唔要）、必要性（唔使）及祈使勸阻（唔好） (m4 is the primary general negator for verbs/adjectives/auxiliaries)",
+                        "廣東話中沒有「唔」這個字"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "Accurately details the scope and collocations of 唔."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («唔係_8_1»):",
+                    "prompt": "Type the 4-character Hanzi phrase for 'excuse me / sorry' in Cantonese (唔好意思):",
                     "acceptedAnswers": [
-                        "唔係_8_1"
+                        "唔好意思",
+                        "m4hou2ji3si3",
+                        "m4 hou2 ji3 si3",
+                        "M4 hou2 ji3 si3",
+                        "M4hou2ji3si3",
+                        "唔好意思啦"
                     ],
-                    "explanation": "The target keyword was: 【唔係_8_1】"
+                    "explanation": "唔好意思 (m4 hou2 ji3 si3) means 'excuse me / sorry' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u8-l2": {
         "id": "hk-u8-l2",
-        "subject": "cantonese",
-        "unit": 8,
-        "lessonNumber": 2,
-        "title": "否定詞：唔、冇、未 (Negation Patterns) (Part 2)",
+        "unit": "hk-u8",
         "level": "A2",
-        "objective": "Comprehensive mastery of 否定詞唔冇未辨析 (Negation: 唔/冇/未).",
+        "objective": "Master the existential, possessive, and past-event negator 冇 (mou5 - have not / there is no / did not).",
+        "prerequisites": [
+            "hk-u8-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u8-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（否定詞唔冇未辨析 (Negation: 唔/冇/未) - 第2部分）入面，我哋會探討廣東話嘅核心語用語境同埋否定詞唔冇未辨析 (Negation: 唔/冇/未)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "廣東話表達「沒有（領有/存在）」或者「過去沒有做某事」，專用否定詞係**「冇 (mou5)」**！\n\n1. 「冇 (mou5)」嘅三大核心用法 (Three Core Usages of 冇):\n- **領有否定 (Possessive: S + 冇 + O)**：冇錢 (have no money)、冇時間 (have no time)、冇車牌 (have no driving license)。\n- **存在否定 (Existential: 地點 + 冇 + 名詞)**：屋企冇人 (nobody at home)、雪櫃冇嘢飲 (nothing to drink in the fridge)。\n- **過去動作否定 (Past Action Negation: S + 冇 + V)**：相當於普通話「沒(有)做」或英文 'did not'（例如：我琴日冇返工 — I didn't go to work yesterday）。\n\n2. 常用社交短語 (High-Frequency Collocations):\n- **冇問題 (mou5 man6 tai4)**：No problem / absolutely fine。\n- **冇所謂 (mou5 so2 wai6)**：Doesn't matter / no preference。\n- **冇事 (mou5 si6)**：It's okay / nothing's wrong。",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (8.2.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "呢件事交畀我處理啦，絕對冇問題！",
+                    "reading": "ni1 gin6 si6 gaau1 bei2 ngo5 cyu2 lei5 laa1, zyut6 deoi3 mou5 man6 tai4!",
+                    "translation": "Leave this matter to me to handle, absolutely no problem!"
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (8.2.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "我琴晚太攰喇，所以冇同佢哋去尖沙咀睇電影。",
+                    "reading": "ngo5 kam4 maan5 taai3 gui6 laa3, so2 ji5 mou5 tung4 keoi5 dei6 heoi3 zim1 saa1 zeoi2 tai2 din6 jing2.",
+                    "translation": "I was too exhausted last night, so I didn't go with them to Tsim Sha Tsui to watch a movie."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (8.2.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "雪櫃入面冇晒鮮奶喇，我一陣落樓下超級市場買番兩盒。",
+                    "reading": "syut3 gwai6 jap6 min6 mou5 saai3 sin1 naai5 laa3, ngo5 jat1 zan6 lok6 lau4 haa6 ciu1 kap1 si5 coeng4 maai5 faan1 loeng5 hap6.",
+                    "translation": "There is no fresh milk left in the fridge; I'll go down to the supermarket in a while to buy two cartons."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 否定詞唔冇未辨析 (Negation: 唔/冇/未)"
+                "Mou5 Triple: 冇錢(No money - Possess), 冇人(Nobody - Exist), 冇去(Didn't go - Past)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "«冇問題» (mou5 man6 tai4) is one of the first and most practical phrases every Cantonese learner adopts; it conveys easygoing readiness and reassurance."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「否定詞唔冇未辨析 (Negation: 唔/冇/未)」喺第2節嘅地道廣東話表達？",
+                    "prompt": "在廣東話中表達「完全沒問題 / 沒事」，最地道自信的回答是：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (8.2.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (8.2.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (8.2.3)。"
+                        "冇問題 (mou5 man6 tai4 - No problem)",
+                        "唔問題",
+                        "未問題"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "冇問題 (mou5 man6 tai4) uses the possessive/existential negator 冇."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「否定詞：唔、冇、未 (Negation Patterns)」語境嘅廣東話完整句子（練習 2）：",
+                    "prompt": "廣東話表達「我昨天沒有去公司上班」，正確的動詞否定句是：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (8.2.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (8.2.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (8.2.3)。"
+                        "我琴日冇返工 (ngo5 kam4 jat6 mou5 faan1 gung1 - I didn't go to work yesterday)",
+                        "我琴日唔返工",
+                        "我琴日未返工"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "冇 (mou5) + verb denotes past non-occurrence of an action ('did not')."
                 }
             ]
         },
@@ -4052,85 +4070,98 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「否定詞唔冇未辨析 (Negation: 唔/冇/未)」嘅日常商務與生活習慣（考核 8-2）？",
+                    "prompt": "關於廣東話否定詞「冇 (mou5)」在否定領有、存在及過去動作時的用法，下列哪一項表述完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (8.2.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (8.2.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (8.2.3)。"
+                        "「冇 (mou5)」專門用於否定領有（冇錢）、存在（冇人）以及過去發生的動作（冇去/冇做） (mou5 negates possession, existence, and past actions 'did not')",
+                        "「冇」只能用於否定未來的計劃",
+                        "「冇問題」在廣東話中意思是很多問題"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "Accurately covers the possessive, existential, and past-action functions of 冇."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («唔係_8_2»):",
+                    "prompt": "Type the 3-character Hanzi phrase for 'no problem' in Cantonese (冇問題):",
                     "acceptedAnswers": [
-                        "唔係_8_2"
+                        "冇問題",
+                        "mou5man6tai4",
+                        "mou5 man6 tai4",
+                        "Mou5 man6 tai4",
+                        "Mou5man6tai4",
+                        "没问题",
+                        "冇问题"
                     ],
-                    "explanation": "The target keyword was: 【唔係_8_2】"
+                    "explanation": "冇問題 (mou5 man6 tai4) means 'no problem' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u8-l3": {
         "id": "hk-u8-l3",
-        "subject": "cantonese",
-        "unit": 8,
-        "lessonNumber": 3,
-        "title": "否定詞：唔、冇、未 (Negation Patterns) (Part 3)",
+        "unit": "hk-u8",
         "level": "A2",
-        "objective": "Comprehensive mastery of 否定詞唔冇未辨析 (Negation: 唔/冇/未).",
+        "objective": "Master the aspectual negator 未 (mei6 - not yet), its future expectation implication, and pragmatic workplace phrases (未搞掂, 未必, 未知).",
+        "prerequisites": [
+            "hk-u8-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u8-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（否定詞唔冇未辨析 (Negation: 唔/冇/未) - 第3部分）入面，我哋會探討廣東話嘅核心語用語境同埋否定詞唔冇未辨析 (Negation: 唔/冇/未)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "當一件事情「仲未發生」或「仲未完成」，但預期將來會完成時，廣東話專用否定詞係**「未 (mei6)」**！\n\n1. 「未 (mei6)」嘅核心內涵 (Implication of 'Not Yet'):\n- 帶有「期待/預期後續會發生」嘅時間體態色彩。\n- **未食 (mei6 sik6)**：Haven't eaten yet (打算之後食)。\n- **未搞掂 (mei6 gaau2 dim6)**：Not settled / fixed / finished yet (香港職場極高頻)。\n- **未知 (mei6 zi1)**：Don't know yet (仲未確定)。\n- **未完 (mei6 jyun4)**：Not ended / finished yet。\n- **未必 (mei6 bit1)**：Not necessarily / not definitely。\n\n2. 「未」與「唔」之對比 (Semantic Distinction):\n- 「我**唔食**辣。」(I don't eat spicy food — 習慣/意志否定)。\n- 「我**未食**飯。」(I haven't eaten yet — 動作尚未發生)。",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (8.3.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "份工程設計圖仲有少少細節修改緊，暫時未搞掂。",
+                    "reading": "fan6 gung1 cing4 cit3 gai3 tou4 zung6 jau5 siu2 siu2 sai3 zit3 sau1 goi2 gan2, zaam6 si4 mei6 gaau2 dim6.",
+                    "translation": "The engineering design drawing still has a few details being revised; it's not settled yet for now."
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (8.3.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "呢件事聽日開會先決定，而家仲未知最後結果。",
+                    "reading": "ni1 gin6 si6 ting1 jat6 hoi1 wui6 sin1 kyut3 ding6, ji4 gaa1 zung6 mei6 zi1 zeoi3 hau6 git3 gwo2.",
+                    "translation": "This matter will only be decided at tomorrow's meeting; right now we don't know the final result yet."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (8.3.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "平嘢未必冇好嘢，最緊要識得揀！",
+                    "reading": "peng4 je5 mei6 bit1 mou5 hou2 je5, zeoi3 gan2 jiu3 sik1 dak1 gaan2!",
+                    "translation": "Cheap things aren't necessarily without good quality; the most important thing is knowing how to choose!"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 否定詞唔冇未辨析 (Negation: 唔/冇/未)"
+                "Mei6 Expectation: 未 (mei6) = Not yet (未搞掂, 未知, 未完) -> Will happen soon!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "«搞掂» (gaau2 dim6) means 'settled / fixed / done'; saying «未搞掂» (mei6 gaau2 dim6) is common when reporting status in Hong Kong offices."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「否定詞唔冇未辨析 (Negation: 唔/冇/未)」喺第3節嘅地道廣東話表達？",
+                    "prompt": "香港職場中表達「手頭上的工作還沒有處理好/搞定」，最地道的詞彙是：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (8.3.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (8.3.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (8.3.3)。"
+                        "唔搞掂",
+                        "未搞掂 (mei6 gaau2 dim6 - Not settled / done yet)",
+                        "冇搞掂"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "未搞掂 (mei6 gaau2 dim6) conveys that the task is currently in progress and not yet completed."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「否定詞：唔、冇、未 (Negation Patterns)」語境嘅廣東話完整句子（練習 3）：",
+                    "prompt": "廣東話成語俗語「未必 (mei6 bit1)」的精確意思是：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (8.3.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (8.3.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (8.3.3)。"
+                        "不一定 / 未必 (Not necessarily / not definitely)",
+                        "肯定不會",
+                        "必須要"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "未必 (mei6 bit1) means 'not necessarily'."
                 }
             ]
         },
@@ -4138,85 +4169,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「否定詞唔冇未辨析 (Negation: 唔/冇/未)」嘅日常商務與生活習慣（考核 8-3）？",
+                    "prompt": "關於廣東話中「未 (mei6)」的體態否定語義及其與「唔 (m4)」的區別，下列哪一項表述完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (8.3.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (8.3.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (8.3.3)。"
+                        "「未」與「唔」完全同義可互換",
+                        "「未」只能用來否定名詞",
+                        "「未 (mei6)」表示「尚未（預期會完成）」（如未搞掂、未食、未知）；而「唔 (m4)」表示常態或主觀意志否定（如唔食辣） (mei6 marks incomplete status with future expectation, whereas m4 marks habitual/volitional negation)"
                     ],
                     "answerIndex": 2,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "explanation": "Accurately contrasts aspectual incompletion against volitional negation."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («唔係_8_3»):",
+                    "prompt": "Type the 3-character Hanzi phrase for 'not settled yet / not done yet' in Cantonese (未搞掂):",
                     "acceptedAnswers": [
-                        "唔係_8_3"
+                        "未搞掂",
+                        "mei6gaau2dim6",
+                        "mei6 gaau2 dim6",
+                        "Mei6 gaau2 dim6",
+                        "Mei6gaau2dim6",
+                        "未搞定"
                     ],
-                    "explanation": "The target keyword was: 【唔係_8_3】"
+                    "explanation": "未搞掂 (mei6 gaau2 dim6) means 'not settled yet' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u8-l4": {
         "id": "hk-u8-l4",
-        "subject": "cantonese",
-        "unit": 8,
-        "lessonNumber": 4,
-        "title": "否定詞：唔、冇、未 (Negation Patterns) (Part 4)",
+        "unit": "hk-u8",
         "level": "A2",
-        "objective": "Comprehensive mastery of 否定詞唔冇未辨析 (Negation: 唔/冇/未).",
+        "objective": "Master the complete Cantonese Negation Triad (唔 vs 冇 vs 未) through direct parallel contrasts across habits, past actions, and completion states.",
+        "prerequisites": [
+            "hk-u8-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u8-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（否定詞唔冇未辨析 (Negation: 唔/冇/未) - 第4部分）入面，我哋會探討廣東話嘅核心語用語境同埋否定詞唔冇未辨析 (Negation: 唔/冇/未)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "要講一口道地嘅廣東話，必須精準分辨三大否定詞：**「唔 (m4)」、「冇 (mou5)」、「未 (mei6)」**！\n\n1. 三大否定詞並列對照表 (The Cantonese Negation Triad):\n| 詞彙 | 語法功能 | 典型例子 | 英語對照 |\n| :--- | :--- | :--- | :--- |\n| **唔 (m4)** | 主觀意願、常態習慣、判斷 | 我**唔食**牛肉。(I don't eat beef) | Habitual / General 'Don't' |\n| **冇 (mou5)** | 過去事實未發生、無領有/存在 | 我琴日**冇食**早餐。(I didn't eat breakfast yesterday) | Past action 'Didn't' / 'No' |\n| **未 (mei6)** | 動作尚未完成（但預期會做） | 我仲**未食**晏晝飯。(I haven't eaten lunch yet) | Incompletion 'Haven't yet' |\n\n2. 關鍵辨析實戰 (Practical Triad Drills):\n- **去 (go)**：我**唔去** (I won't go) vs 我尋日**冇去** (I didn't go yesterday) vs 我仲**未去** (I haven't gone yet)。\n- **知 (know)**：我**唔知** (I don't know) vs 我暫時**未知** (I don't know yet / not confirmed yet)。",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (8.4.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "陳生平時唔飲咖啡，但今日為咗醒神破例飲咗一杯。",
+                    "reading": "Can4 saang1 ping4 si4 m4 jam2 gaa3 fe1, daan6 gam1 jat6 wai6 zo2 seng2 san4 po3 lai6 jam2 zo2 jat1 bui1.",
+                    "translation": "Mr. Chan usually doesn't drink coffee, but drank a cup today as an exception to stay awake."
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (8.4.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "我今朝太遲起身，所以冇食早餐就急急忙忙出門。",
+                    "reading": "ngo5 gam1 ziu1 taai3 ci4 hei2 san1, so2 ji5 mou5 sik6 zou2 caan1 zau6 gap1 gap1 mong4 mong4 ceot1 mun4.",
+                    "translation": "I got up too late this morning, so I rushed out without having breakfast."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (8.4.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "你叫嘅外賣送到嚟未呀？仲未到，外賣員話塞緊車。",
+                    "reading": "nei5 giu3 ge3 ngoi6 maai6 sung3 dou3 lei4 mei6 aa3? zung6 mei6 dou3, ngoi6 maai6 jyun4 waa6 sak1 gan2 ce1.",
+                    "translation": "Has the takeout you ordered arrived yet? Not yet arrived, the courier says there's a traffic jam."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 否定詞唔冇未辨析 (Negation: 唔/冇/未)"
+                "Triad Rule: 唔(Won't/Don't habit) | 冇(Didn't past) | 未(Not yet pending)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "Confusing «唔» and «冇» is one of the clearest markers of non-native speech; mastering «唔食 / 冇食 / 未食» unlocks native-level fluency."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「否定詞唔冇未辨析 (Negation: 唔/冇/未)」喺第4節嘅地道廣東話表達？",
+                    "prompt": "如果要表達「我不吃榴槤（個人習慣或喜好不吃）」，最正確的句子是：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (8.4.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (8.4.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (8.4.3)。"
+                        "我冇食榴槤",
+                        "我唔食榴槤 (ngo5 m4 sik6 lau4 lin4 - I don't eat durian)",
+                        "我未食榴槤"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "唔食 (m4 sik6) denotes general habitual/volitional negation ('don't eat')."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「否定詞：唔、冇、未 (Negation Patterns)」語境嘅廣東話完整句子（練習 4）：",
+                    "prompt": "如果要表達「我昨天因為太忙所以沒吃午餐（過去事實）」，最正確的句子是：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (8.4.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (8.4.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (8.4.3)。"
+                        "我琴日太忙所以冇食午餐 (ngo5 kam4 jat6 taai3 mong4 so2 ji5 mou5 sik6 ng5 caan1)",
+                        "我琴日太忙所以唔食午餐",
+                        "我琴日太忙所以未食午餐"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "冇食 (mou5 sik6) expresses the non-occurrence of a past event ('did not eat')."
                 }
             ]
         },
@@ -4224,85 +4267,98 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「否定詞唔冇未辨析 (Negation: 唔/冇/未)」嘅日常商務與生活習慣（考核 8-4）？",
+                    "prompt": "關於廣東話中「唔 (m4)」、「冇 (mou5)」與「未 (mei6)」三者的語法語義分野，下列哪一項總括完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (8.4.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (8.4.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (8.4.3)。"
+                        "三者可以隨意互換無任何區別",
+                        "「唔」表習慣與意志（唔食）；「冇」表過去事實未發生或無（冇食/冇錢）；「未」表動作尚未完成但預期會發生（未食） (m4 marks habit/volition, mou5 marks past non-occurrence/absence, mei6 marks incomplete action with future expectation)",
+                        "「未」只能放在句尾"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "Excellently captures the tri-part functional division in Cantonese grammar."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («唔係_8_4»):",
+                    "prompt": "Type the 2-character Hanzi phrase for 'don't eat / will not eat (habit/volition)' in Cantonese (唔食):",
                     "acceptedAnswers": [
-                        "唔係_8_4"
+                        "唔食",
+                        "m4sik6",
+                        "m4 sik6",
+                        "M4 sik6",
+                        "M4sik6",
+                        "不吃",
+                        "唔吃"
                     ],
-                    "explanation": "The target keyword was: 【唔係_8_4】"
+                    "explanation": "唔食 (m4 sik6) means 'don't eat / will not eat' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u8-l5": {
         "id": "hk-u8-l5",
-        "subject": "cantonese",
-        "unit": 8,
-        "lessonNumber": 5,
-        "title": "否定詞：唔、冇、未 (Negation Patterns) (Part 5)",
+        "unit": "hk-u8",
         "level": "A2",
-        "objective": "Comprehensive mastery of 否定詞唔冇未辨析 (Negation: 唔/冇/未).",
+        "objective": "Synthesize all three negators (唔, 冇, 未) in a realistic office and service scenario solving unexpected hiccups.",
+        "prerequisites": [
+            "hk-u8-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u8-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（否定詞唔冇未辨析 (Negation: 唔/冇/未) - 第5部分）入面，我哋會探討廣東話嘅核心語用語境同埋否定詞唔冇未辨析 (Negation: 唔/冇/未)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "喺呢課綜合實戰篇，我哋將第八單元學到嘅「唔（唔係/唔好意思）」、「冇（冇問題/冇事）」同「未（未搞掂/未知）」融會貫通，演繹職場與生活場景中嘅地道對答！\n\n1. 否定詞與社交禮貌詞彙表 (Negation & Social Etiquette):\n- **唔該晒 (m4 goi1 saai3)**：Thank you very much (for help / service)。\n- **唔好意思 (m4 hou2 ji3 si3)**：Excuse me / sorry。\n- **冇問題 (mou5 man6 tai4)**：No problem at all。\n- **未搞掂 (mei6 gaau2 dim6)**：Not settled yet。\n- **冇所謂 (mou5 so2 wai6)**：Doesn't matter / fine either way。\n\n2. 第八單元實戰對話範例 (Unit 8 Master Dialogue):\n- **經理**：‘Peter，琴日客戶要求嗰份報價單搞掂未呀？’\n- **職員Peter**：‘唔好意思經理，因為仲等緊供應商報價，所以暫時**未搞掂**。’\n- **經理**：‘咁大約幾點可以出到？客戶好急喎。’\n- **職員Peter**：‘供應商話一點鐘前會覆，我收到之後即刻處理，下晝兩點前交畀你，**冇問題**！’\n- **經理**：‘好，**唔該晒**！’",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (8.5.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "唔好意思麻煩晒你，呢份文件請幫我交畀會計部。",
+                    "reading": "m4 hou2 ji3 si3 maa4 faan4 saai3 nei5, ni1 fan6 man4 gin2 cing2 bong1 ngo5 gaau1 bei2 wui6 gai3 bou6.",
+                    "translation": "Sorry to trouble you, please help me hand this document to the accounting department."
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (8.5.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "冇問題，我而家順路行過去，即刻幫你送過去。",
+                    "reading": "mou5 man6 tai4, ngo5 ji4 gaa1 seon6 lou6 haang4 gwo3 heoi3, zik1 hak1 bong1 nei5 sung3 gwo3 heoi3.",
+                    "translation": "No problem, I'm heading that way now, will deliver it for you right away."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (8.5.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "多謝你幫手，真係唔該晒你！",
+                    "reading": "do1 ze6 nei5 bong1 sau2, zan1 hai6 m4 goi1 saai3 nei5!",
+                    "translation": "Thanks for helping out, really thank you so much!"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 否定詞唔冇未辨析 (Negation: 唔/冇/未)"
+                "Problem Solving Loop: 唔好意思(Sorry/Excuse me) -> 暫時未(Not yet) -> 絕對冇(No problem) -> 唔該晒(Thank you)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "«唔該晒» (m4 goi1 saai3) combines «唔該» (please / thanks for service) with the exhaustive particle «晒» (saai3 - completely / all), creating a very warm and sincere expression of gratitude."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「否定詞唔冇未辨析 (Negation: 唔/冇/未)」喺第5節嘅地道廣東話表達？",
+                    "prompt": "在廣東話中向對方表達「非常感謝你的熱心幫忙 / 太謝謝你了」，最地道合適的用語是：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (8.5.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (8.5.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (8.5.3)。"
+                        "唔該晒 (m4 goi1 saai3 - Thank you so much for your service/help)",
+                        "對唔住",
+                        "未搞掂"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "唔該晒 (m4 goi1 saai3) is the authentic expression of gratitude for someone's assistance."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「否定詞：唔、冇、未 (Negation Patterns)」語境嘅廣東話完整句子（練習 5）：",
+                    "prompt": "當同事向你致歉並表示任務「暫時未搞掂但兩點前一定做好」，你表示「沒關係、沒問題」的最地道回應是：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (8.5.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (8.5.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (8.5.3)。"
+                        "冇問題，唔緊要啦 (mou5 man6 tai4, m4 gan2 jiu3 laa1)",
+                        "唔問題",
+                        "未問題"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "冇問題，唔緊要啦 blends reassurance (冇問題) with 'it's okay' (唔緊要)."
                 }
             ]
         },
@@ -4310,24 +4366,31 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「否定詞唔冇未辨析 (Negation: 唔/冇/未)」嘅日常商務與生活習慣（考核 8-5）？",
+                    "prompt": "關於廣東話第八單元三大否定詞（唔、冇、未）在生活與商務中的綜合協同應用，下列哪一項總括完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (8.5.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (8.5.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (8.5.3)。"
+                        "「唔（唔好意思/唔該晒）」、「冇（冇問題）」與「未（未搞掂）」精確分工，構成了廣東話日常社交、任務協調與禮貌溝通的核心語言架構 (The triad m4, mou5, mei6 forms the core pragmatic framework for polite social negotiation, status reporting, and problem resolution)",
+                        "廣東話否定詞無法在職場使用",
+                        "廣東話沒有禮貌用語"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "Masterfully encapsulates the holistic pragmatic utility of the Cantonese negation triad."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («唔係_8_5»):",
+                    "prompt": "Type the 3-character Hanzi phrase for 'thank you very much (for help / service)' in Cantonese (唔該晒):",
                     "acceptedAnswers": [
-                        "唔係_8_5"
+                        "唔該晒",
+                        "m4goi1saai3",
+                        "m4 goi1 saai3",
+                        "M4 goi1 saai3",
+                        "M4goi1saai3",
+                        "唔该晒",
+                        "唔該曬"
                     ],
-                    "explanation": "The target keyword was: 【唔係_8_5】"
+                    "explanation": "唔該晒 (m4 goi1 saai3) means 'thank you very much' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u9-l1": {
