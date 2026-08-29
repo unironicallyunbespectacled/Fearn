@@ -5835,63 +5835,69 @@
     },
     "zh-u12-l1": {
         "id": "zh-u12-l1",
-        "subject": "mandarin",
-        "unit": 12,
-        "lessonNumber": 1,
-        "title": "可能补语：看得懂与做不完 (Potential Complements) (Part 1)",
+        "unit": "zh-u12",
         "level": "B1",
-        "objective": "Comprehensive mastery of 可能补语得与不 (Potential Complements: 得/不).",
+        "objective": "Master the formation of potential complements by inserting 得 (affirmative: capable/possible) or 不 (negative: incapable/impossible) between a verb and its resultative or directional complement.",
+        "prerequisites": [
+            "zh-u11-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u11-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「可能补语：看得懂与做不完 (Potential Complements)」（第1部分）的核心句法结构与可能补语得与不 (Potential Complements: 得/不)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "可能补语（Potential Complement）用来表示主观能力或客观条件**是否允许实现某种动作的结果或趋向**。它直接在动词与结果/趋向补语之间插入「得」或「不」构成！\n\n1. 核心构词与对照公式 (Formation Matrix):\n- **肯定式（可以实现）：动词 + 得 + 补语**\n  - 看**得**懂 (can understand by reading) / 听**得**见 (can hear)\n  - 找**得**到 (can find) / 进**得**去 (can go in)\n- **否定式（无法实现）：动词 + 不 + 补语**\n  - 看**不**懂 (cannot understand by reading) / 听**不**见 (cannot hear)\n  - 找**不**到 (cannot find) / 进**不**去 (cannot go in)\n\n2. 语用最高频法则：**在实际汉语口语中，否定式（V不C）的使用频率远远高于肯定式！** 当需要表达客观原因导致无法完成某事时，汉语优先使用「V不C」而不是「不能V」！",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (12.1.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "这本中国现代文学名著虽然篇幅很长，但语言浅显生动，外国留学生也能看得懂。",
+                    "reading": "Zhè běn Zhōngguó xiàndài wénxué míngzhù suīrán piānfú hěn cháng, dàn yǔyán qiǎnxiǎn shēngdòng, wàiguó liúxuéshēng yě kàndedǒng.",
+                    "translation": "Although this famous masterpiece of modern Chinese literature is long, the language is simple and vivid, so international students can also understand it."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (12.1.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "教室外面的施工噪音太大了，后排同学完全听不见老师在讲什么。",
+                    "reading": "Jiàoshì wàimiàn de shīgōng zàoyīn tài dà le, hòupái tóngxué wánquán tīngbujiàn lǎoshī zài jiǎng shénme.",
+                    "translation": "The construction noise outside the classroom was so loud that students in the back rows couldn't hear what the teacher was saying at all."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (12.1.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "今天早高峰地铁里人山人海，挤得水泄不通，大家根本进不去车厢。",
+                    "reading": "Jīntiān zǎogāofēng dìtiě lǐ rénshānrénhǎi, jǐ de shuǐxièbùtōng, dàjiā gēnběn jìnbùqù chēxiāng.",
+                    "translation": "The subway was packed with huge crowds during the morning rush hour, jammed tight, and people simply couldn't get into the carriage."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 可能补语得与不 (Potential Complements: 得/不)"
+                "V + 得 + C = Can do it! V + 不 + C = Cannot do it! (看得懂 vs. 看不懂)"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Describing dense rush hour crowds with idioms like «人山人海» (a sea of people) and «进不去» is a universal shared experience in China's bustling mega-cities."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「可能补语得与不 (Potential Complements: 得/不)」在第1小节中的标准汉语语法规范？",
+                    "prompt": "说话人站在远处，想表达‘由于距离太远，我无法看清黑板上的字’时，最地道的可能补语是否定表达是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (12.1.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (12.1.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (12.1.3)。"
+                        "看不清 (kàn bu qīng: cannot see clearly)",
+                        "看得清",
+                        "看没清"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "看不清 is the potential complement indicating inability to see clearly due to objective conditions."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「可能补语：看得懂与做不完 (Potential Complements)」语用情境与完整句式的选项（练习 1）：",
+                    "prompt": "句子‘这篇古文生词太多，我看不懂’中，‘看不懂’表达的语法含义是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (12.1.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (12.1.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (12.1.3)。"
+                        "我不想看这篇古文",
+                        "受客观生词过多限制，我没有能力读懂它 (Incapable of comprehending it due to vocabulary limit)",
+                        "我已经读完了"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "看不懂 expresses inability to comprehend due to external difficulty."
                 }
             ]
         },
@@ -5899,85 +5905,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「可能补语得与不 (Potential Complements: 得/不)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 12-1）？",
+                    "prompt": "下列哪一个短语准确表达了‘可以听到声音’（肯定式可能补语）？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (12.1.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (12.1.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (12.1.3)。"
+                        "听不着",
+                        "听得见 (tīng de jiàn: able to hear)",
+                        "听见了"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "explanation": "听得见 is the potential complement indicating capability of hearing."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («看得懂_12_1»):",
+                    "prompt": "Type the Hanzi for 'cannot see / unable to perceive visually' (看不见):",
                     "acceptedAnswers": [
-                        "看得懂_12_1"
+                        "看不见",
+                        "kanbujian",
+                        "kànbujiàn",
+                        "Kànbujiàn",
+                        "Kanbujian",
+                        "看不見"
                     ],
-                    "explanation": "The target keyword was: 【看得懂_12_1】"
+                    "explanation": "看不见 (kànbujiàn) means 'unable to see / cannot see'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u12-l2": {
         "id": "zh-u12-l2",
-        "subject": "mandarin",
-        "unit": 12,
-        "lessonNumber": 2,
-        "title": "可能补语：看得懂与做不完 (Potential Complements) (Part 2)",
+        "unit": "zh-u12",
         "level": "B1",
-        "objective": "Comprehensive mastery of 可能补语得与不 (Potential Complements: 得/不).",
+        "objective": "Master idiomatic, fixed potential verb-complement collocations expressing physical appetite (吃得下/不下), sleep (睡得着/不着), memory (忘得了/不了), and moral worthiness (对得起/对不起).",
+        "prerequisites": [
+            "zh-u12-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u12-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「可能补语：看得懂与做不完 (Potential Complements)」（第2部分）的核心句法结构与可能补语得与不 (Potential Complements: 得/不)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "汉语中有一些极具生命力的**固定化可能补语词组（Idiomatic Potential Collocations）**，在日常生活与情感交流中被广泛凝固使用！\n\n1. 四大高频生活凝固式：\n- **吃得下 / 吃不下 (chī de xià / chī bu xià)**：胃口能否容纳食物 (have / lack appetite):\n  - 他今天胃不舒服，什么都**吃不下**。(Stomach hurts, can't eat anything.)\n- **睡得着 / 睡不着 (shuì de zháo / shuì bu zháo)**：能否顺利入睡 (able / unable to fall asleep):\n  - 想到明天的重要面试，我兴奋得整晚**睡不着**。(Can't fall asleep all night!)\n- **忘得了 / 忘不了 (wàng de liǎo / wàng bu liǎo)**：能否忘却记忆 (can / cannot forget):\n  - 老师的深情厚谊，我一辈子也**忘不了**。(I can never forget in my life.)\n- **对得起 / 对不起 (duì de qǐ / duì bu qǐ)**：能否对得起良心/期望 (worthy of / sorry):\n  - 我们一定要刻苦学习，**对得起**父母的辛苦付出！(Be worthy of parents' dedication!)",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (12.2.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "大卫最近学习压力比较大，每天晚上躺在床上很久都睡不着觉。",
+                    "reading": "Dàwèi zuìjìn xuéxí yālì bǐjiào dà, měitiān wǎnshang tǎng zài chuáng shang hěn jiǔ dōu shuì bu zháo jiào.",
+                    "translation": "David has had heavy study pressure lately, lying in bed for a long time every night unable to fall asleep."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (12.2.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "在中国留学期间大家给予我的热情帮助，我永远也忘不了！",
+                    "reading": "Zài Zhōngguó liúxué qījiān dàjiā jǐyǔ wǒ de rèqíng bāngzhù, wǒ yǒngyuǎn yě wàng bu liǎo!",
+                    "translation": "The warm help everyone gave me while studying in China, I will never be able to forget!"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (12.2.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "李明认真地说：‘我们必须全力以赴攻克科研难关，才对得起全组同学的信任。’",
+                    "reading": "Lǐ Míng rènzhēn de shuō: ‘Wǒmen bìxū quánlìyǐfù gōngkè kēyán nánguān, cái duìdeqǐ quán zǔ tóngxué de xìnrèn.’",
+                    "translation": "Li Ming said earnestly: 'We must go all out to tackle this scientific hurdle so as to be worthy of the trust of our entire team.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 可能补语得与不 (Potential Complements: 得/不)"
+                "Living Idioms: 睡不着 (Cannot sleep), 吃不下 (Cannot eat), 忘不了 (Cannot forget), 对得起 (Worthy of)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "The cultural concept of «对得起» (living up to moral duty, repaying trust and familial devotion) is a foundational Confucian pillar of Chinese filial piety and professional responsibility."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「可能补语得与不 (Potential Complements: 得/不)」在第2小节中的标准汉语语法规范？",
+                    "prompt": "表达‘由于精神兴奋或失眠，无法入睡’时，应当使用哪个地道短语？",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (12.2.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (12.2.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (12.2.3)。"
+                        "睡不着 (shuì bu zháo: unable to fall asleep)",
+                        "睡不完",
+                        "睡不好觉"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "睡不着 specifically denotes being unable to fall asleep."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「可能补语：看得懂与做不完 (Potential Complements)」语用情境与完整句式的选项（练习 2）：",
+                    "prompt": "句子‘老师的教诲，我一辈子也忘不了’表达了：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (12.2.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (12.2.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (12.2.3)。"
+                        "老师讲课内容很容易忘记",
+                        "对老师教导的铭记于心与永不忘怀 (Deep lifelong remembrance that cannot be forgotten)",
+                        "老师已经退休了"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "忘不了 expresses the impossibility of forgetting profound guidance."
                 }
             ]
         },
@@ -5985,85 +6003,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「可能补语得与不 (Potential Complements: 得/不)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 12-2）？",
+                    "prompt": "表达‘努力学习，不辜负父母的期望与付出’时，最精准的可能补语是：",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (12.2.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (12.2.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (12.2.3)。"
+                        "对得起父母 (duìdeqǐ fùmǔ: live up to / be worthy of parents)",
+                        "对不起父母",
+                        "对得着父母"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "对得起 means to live up to or be worthy of someone's expectations."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («看得懂_12_2»):",
+                    "prompt": "Type the Hanzi for 'cannot sleep / unable to fall asleep' (睡不着):",
                     "acceptedAnswers": [
-                        "看得懂_12_2"
+                        "睡不着",
+                        "shuibuzhao",
+                        "shuìbuzháo",
+                        "Shuìbuzháo",
+                        "Shuibuzhao"
                     ],
-                    "explanation": "The target keyword was: 【看得懂_12_2】"
+                    "explanation": "睡不着 (shuìbuzháo) means 'unable to fall asleep'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u12-l3": {
         "id": "zh-u12-l3",
-        "subject": "mandarin",
-        "unit": 12,
-        "lessonNumber": 3,
-        "title": "可能补语：看得懂与做不完 (Potential Complements) (Part 3)",
+        "unit": "zh-u12",
         "level": "B1",
-        "objective": "Comprehensive mastery of 可能补语得与不 (Potential Complements: 得/不).",
+        "objective": "Master the versatile potential complement marker 了 (pronounced liǎo) used in V + 得了 / 不了 to indicate capacity, possibility, tolerance, or excess (去得了/去不了, 吃得了/吃不了, 受得了/受不了).",
+        "prerequisites": [
+            "zh-u12-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u12-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「可能补语：看得懂与做不完 (Potential Complements)」（第3部分）的核心句法结构与可能补语得与不 (Potential Complements: 得/不)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "当动态助词「了」读作 **liǎo** 时，与「得/不」组合构成「**动词 + 得了 / 不了 (V de liǎo / V bu liǎo)**」，表示动作在**能力、容量、承受力或时间客观条件上是否可行**！\n\n1. 三大核心语用范畴 (3 Core Uses of V得了 / V不了):\n- **客观可能性与时间允许 (Feasibility / Availability)**：\n  - 明天的会议我有空，**去得了**。(I can go.) / 我明天要考试，**去不了**。(I cannot go.)\n- **生理容量与负荷 (Capacity / Consumption limit)**：\n  - 这么多菜，我们两个人**吃得了吗**？(Can we two finish this much food?)\n  - 菜太多了，我们肯定**吃不了**。(We definitely cannot finish it.)\n- **心理与生理承受力 (Tolerance / Endurance)**：\n  - 北京的冬天太冷了，南方人可能**受不了**。(Might not be able to bear/tolerate it.)\n  - 我真**受不了**这种吵闹的环境！(I really can't stand this noise!).",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (12.3.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "今天点了六个热菜、两个大汤，我们三个人肯定吃不了，别再加菜了！",
+                    "reading": "Jīntiān diǎn le liù gè rècài, liǎng gè dà tāng, wǒmen sān gè rén kěndìng chī bu liǎo, bié zài jiā cài le!",
+                    "translation": "We already ordered six hot dishes and two big soups today; the three of us definitely cannot finish them, don't add any more dishes!"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (12.3.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫真抱歉，明天下午系里临时通知开会，明天的足球友谊赛我恐怕去不了了。",
+                    "reading": "Dàwèi zhēn bàoqiàn, míngtiān xiàwǔ xì lǐ línshí tōngzhī kāihuì, míngtiān de zúqiú yǒuyìsài wǒ kǒngpà qù bu liǎo le.",
+                    "translation": "David, really sorry; the department gave notice of an emergency meeting tomorrow afternoon, so I'm afraid I cannot go to tomorrow's soccer match."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (12.3.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "北方冬天的室内有充足的地暖，非常温暖舒适，一点儿也不用担心受不了。",
+                    "reading": "Běifāng dōngtiān de shìnèi yǒu chōngzú de dìnnuǎn, fēicháng wēnnuǎn shūshì, yìdiǎnr yě búyòng dānxīn shòubuliǎo.",
+                    "translation": "Indoors in northern winter has ample underfloor heating, extraordinarily warm and cozy; no need to worry about being unable to bear it at all."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 可能补语得与不 (Potential Complements: 得/不)"
+                "V + 得了 (liǎo) = Feasible / Tolerable; V + 不了 (liǎo) = Impossible / Overloaded / Unbearable!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Ordering generously is a hallmark of Chinese hospitality (热情好客 rèqíng hàokè), but modern dining promotes the 'Clear Your Plate' campaign (光盘行动 Guāngpán Xíngdòng) to avoid «吃不了» food waste."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「可能补语得与不 (Potential Complements: 得/不)」在第3小节中的标准汉语语法规范？",
+                    "prompt": "因时间冲突无法出席明天的聚会时，口语中最地道自然的拒绝表达是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (12.3.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (12.3.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (12.3.3)。"
+                        "明天我有事，去不了 (Wǒ míngtiān yǒu shì, qù bu liǎo — I have something, can't make it)",
+                        "明天我没去",
+                        "明天我不去能"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "去不了 is the most natural polite expression of inability to attend due to objective schedule conflict."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「可能补语：看得懂与做不完 (Potential Complements)」语用情境与完整句式的选项（练习 3）：",
+                    "prompt": "句子‘天气太闷热了，我简直受不了了’中，‘受不了’表达的是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (12.3.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (12.3.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (12.3.3)。"
+                        "非常喜欢炎热天气",
+                        "身体或心理承受能力达到了极限 (Physical/mental tolerance has reached its limit)",
+                        "天气马上要降温"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "受不了 expresses inability to bear or endure uncomfortable conditions."
                 }
             ]
         },
@@ -6071,85 +6100,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「可能补语得与不 (Potential Complements: 得/不)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 12-3）？",
+                    "prompt": "表达‘菜量太大，一个人吃不完’时，‘了’的正确读音与短语是：",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (12.3.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (12.3.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (12.3.3)。"
+                        "读 le，吃不乐",
+                        "读 liǎo，吃不了 (chī bu liǎo: cannot consume/finish due to capacity)",
+                        "读 liào，吃不料"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "In potential complements, 了 is pronounced liǎo (吃不了)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («看得懂_12_3»):",
+                    "prompt": "Type the Hanzi for 'cannot make it / unable to go' (去不了):",
                     "acceptedAnswers": [
-                        "看得懂_12_3"
+                        "去不了",
+                        "qubuliao",
+                        "qùbuliǎo",
+                        "Qùbuliǎo",
+                        "Qubuliao"
                     ],
-                    "explanation": "The target keyword was: 【看得懂_12_3】"
+                    "explanation": "去不了 (qùbuliǎo) means 'unable to go / cannot make it'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u12-l4": {
         "id": "zh-u12-l4",
-        "subject": "mandarin",
-        "unit": 12,
-        "lessonNumber": 4,
-        "title": "可能补语：看得懂与做不完 (Potential Complements) (Part 4)",
+        "unit": "zh-u12",
         "level": "B1",
-        "objective": "Comprehensive mastery of 可能补语得与不 (Potential Complements: 得/不).",
+        "objective": "Master the syntactic and pragmatic distinctions between Potential Complements (看得懂/看不懂) and Modal Verbs 能/可以 (能看懂/不能看懂; 不能去: moral/policy prohibition vs. 去不了: objective incapability).",
+        "prerequisites": [
+            "zh-u12-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u12-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「可能补语：看得懂与做不完 (Potential Complements)」（第4部分）的核心句法结构与可能补语得与不 (Potential Complements: 得/不)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "许多初学者容易混淆「可能补语（看得懂/看不懂）」与「能愿动词（能看懂/不能看/不能去）」。它们在**语用侧重与语境规范**上有着深刻差别！\n\n1. 肯定句侧重点对比：\n- **看得懂**：侧重**自身能力与客观难度**的匹配（I am capable of understanding this text）。\n- **能看懂**：常用于**强调、回答疑问或在特定条件许可下**（e.g. 只要戴上眼镜，我就能看懂）。\n\n2. 否定句终极辨析（最核心考点）：\n- **去不了 (qù bu liǎo)**：受**客观条件、时间或身体能力**限制无法成行 (e.g. 我生病了，明天**去不了**)。\n- **不能去 (bù néng qù)**：受**社会规约、法律法规、道德纪律或权威命令禁止** (e.g. 军事重地，任何人**不能去** [Prohibited]！)。\n\n3. 总结法则：**客观困难用「V不了/V不C」，规章禁令用「不能V」！**",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (12.4.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "大卫因为要准备汉语水平考试，明天下午去不了王老师家包饺子了。",
+                    "reading": "Dàwèi yīnwèi yào zhǔnbèi hànyǔ shuǐpíng kǎoshì, míngtiān xiàwǔ qù bu liǎo Wáng lǎoshī jiā bāo jiǎoxi le.",
+                    "translation": "Because David has to prepare for the HSK exam, he can't make it to Teacher Wang's home tomorrow afternoon to wrap dumplings."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (12.4.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "在历史文物展览馆里，任何游客都不能用手触摸珍贵的展品。",
+                    "reading": "Zài lìshǐ wénwù zhǎnlǎnguǎn lǐ, rènhé yóukè dōu bù néng yòng shǒu chùmō zhēnguì de zhǎnpǐn.",
+                    "translation": "In the historical cultural relics museum, no visitor is allowed to touch the precious exhibits by hand."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (12.4.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "这本中国哲学著作虽然非常深奥，但只要认真研读，结合老师的辅导，就一定能读懂。",
+                    "reading": "Zhè běn Zhōngguó zhéxué zhùzuò suīrán fēicháng shēn'ào, dàn zhǐyào rènzhēn yándú, jiéhé lǎoshī de fǔdǎo, jiù yídìng néng dúdǒng.",
+                    "translation": "Although this Chinese philosophy work is profound, as long as one studies assiduously combined with teacher's tutoring, one will surely be able to understand it."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 可能补语得与不 (Potential Complements: 得/不)"
+                "去不了 = Objective Impediment (I'm busy/sick); 不能去 = Strict Prohibition (Rules forbid it)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Using «去不了» to decline invitations sounds polite and gentle, whereas «不能去» without context can sound overly rigid or moralistic."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「可能补语得与不 (Potential Complements: 得/不)」在第4小节中的标准汉语语法规范？",
+                    "prompt": "考场纪律规定‘考试期间严禁携带手机’，应当选用哪种句式？",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (12.4.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (12.4.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (12.4.3)。"
+                        "严禁携带，不能带进考场 (bù néng: rules and regulations forbid it)",
+                        "带不进考场",
+                        "不带得了考场"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "Disciplinary and rule-based prohibitions strictly require 不能."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「可能补语：看得懂与做不完 (Potential Complements)」语用情境与完整句式的选项（练习 4）：",
+                    "prompt": "句子‘对不起，我今晚发高烧，去不了聚会了’中，为什么用‘去不了’而不是‘不能去’？",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (12.4.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (12.4.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (12.4.3)。"
+                        "因为发烧是主观愿望",
+                        "因为是身体疾病这一客观原因导致的无法出席，用可能补语更自然贴切 (Objective physical condition causing inability to attend)",
+                        "两者没有任何差别"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "去不了 reflects objective physical incapacity causing inability to attend."
                 }
             ]
         },
@@ -6157,85 +6197,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「可能补语得与不 (Potential Complements: 得/不)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 12-4）？",
+                    "prompt": "对比 A‘我看不懂这封信’与 B‘博物馆里不能拍照’，下列分析完全正确的是：",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (12.4.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (12.4.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (12.4.3)。"
+                        "A 是禁止句，B 是疑问句",
+                        "两者都是命令句",
+                        "A 表达个人能力无法看懂，B 表达规则制度的禁止 (A: personal capability; B: regulatory prohibition)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "A represents potential incapacity; B represents regulatory prohibition."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («看得懂_12_4»):",
+                    "prompt": "Type the Hanzi for 'cannot hear / unable to perceive sound' (听不见):",
                     "acceptedAnswers": [
-                        "看得懂_12_4"
+                        "听不见",
+                        "tingbujian",
+                        "tīngbujiàn",
+                        "Tīngbujiàn",
+                        "Tingbujian",
+                        "聽不見"
                     ],
-                    "explanation": "The target keyword was: 【看得懂_12_4】"
+                    "explanation": "听不见 (tīngbujiàn) means 'unable to hear / cannot hear'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u12-l5": {
         "id": "zh-u12-l5",
-        "subject": "mandarin",
-        "unit": 12,
-        "lessonNumber": 5,
-        "title": "可能补语：看得懂与做不完 (Potential Complements) (Part 5)",
+        "unit": "zh-u12",
         "level": "B1",
-        "objective": "Comprehensive mastery of 可能补语得与不 (Potential Complements: 得/不).",
+        "objective": "Master the complete synthesis of Potential Complements (V得C/V不C, idiomatic collocations, capacity 了, and contrast with 能), applying them fluently across academic, daily, and professional contexts.",
+        "prerequisites": [
+            "zh-u12-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u12-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「可能补语：看得懂与做不完 (Potential Complements)」（第5部分）的核心句法结构与可能补语得与不 (Potential Complements: 得/不)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在本课中，我们将系统整合第十二单元的所有可能补语体系，通过真实的跨文化交流与生活挑战情境，实现可能补语的炉火纯青运用！\n\n1. 可能补语系统全景总表 (Master Potential Complement Map):\n| 类型 | 肯定式 (V得C) | 否定式 (V不C) | 语用核心 |\n| :--- | :--- | :--- | :--- |\n| **结果型** | 看得懂、听得见、找得到 | 看不懂、听不见、找不到 | 结果能否达成 |\n| **趋向型** | 进得去、走得上来、拿得出来 | 进不去、走不上来、拿不出来 | 空间位移能否实现 |\n| **容量/负荷** | 吃得了、受得了、做得了 | 吃不了、受不了、做不了 | 容量/极限/承受力 |\n| **生活凝固** | 睡得着、忘得了、对得起 | 睡不着、忘不了、对不起 | 习惯心理生理反应 |\n\n2. 第十二单元实战交际演练 (Unit 12 Synthesis Dialogue):\n- 跨国留学生活分享：长城登山极限体验（爬得上去吗？）、品尝川味火锅辣度挑战（吃得了吗/受得了）、学术讲座听力突破（听得懂了）。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (12.5.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "大卫：李明，这个四川九宫格变态辣火锅，你一个南方人吃得了吗？ 李明：哈哈，完全没问题，我早就适应吃辣了，受得了！",
+                    "reading": "Dàwèi: Lǐ Míng, zhè gè Sìchuān jiǔgōnggé biàntàilà huǒguō, nǐ yí gè nánfāngrén chī de liǎo ma? Lǐ Míng: Hāhā, wánquán méi wèntí, wǒ zǎojiù shìyìng chī là le, shòudeliǎo!",
+                    "translation": "David: Li Ming, this Sichuan extreme spicy grid hotpot, can you as a southerner handle eating it? Li Ming: Haha, no problem at all; I adapted to spicy food long ago and can bear it!"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (12.5.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "张老师对大家说：‘只要大家肯下功夫，每天记十个生词，没有攻克不了的中文难关！’",
+                    "reading": "Zhāng lǎoshī duì dàjiā shuō: ‘Zhǐyào dàjiā kěn xià gōngfu, měitiān jì shí gè shēngcí, méiyǒu gōngkè bu liǎo de zhōngwén nánguān!’",
+                    "translation": "Teacher Zhang said to everyone: 'As long as everyone is willing to put in effort and memorize 10 words every day, there is no Chinese hurdle that cannot be overcome!'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (12.5.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "经过王老师的耐心指点，这篇晦涩的文言文我终于完全读得懂了，心里别提多有成就感了！",
+                    "reading": "Jīngguò Wáng lǎoshī de nàixīn zhǐdiǎn, zhè piān huìsè de wényánwén wǒ zhōngyú wánquán dúdedǒng le, xīnlǐ biétí duō yǒu chéngjiùgǎn le!",
+                    "translation": "Through Teacher Wang's patient guidance, I was finally able to fully comprehend this obscure Classical Chinese text; my heart felt immense achievement!"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 可能补语得与不 (Potential Complements: 得/不)"
+                "Potential Complements: The Secret Weapon of Natural Mandarin Expression!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Challenging ultra-spicy Sichuan hotpot (挑战变态辣火锅) with friends while asking «吃得了吗？受得了吗？» is a legendary contemporary youth bonding activity."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「可能补语得与不 (Potential Complements: 得/不)」在第5小节中的标准汉语语法规范？",
+                    "prompt": "句子‘这本厚厚的字典字号太小了，我看不清’中，‘看不清’属于哪类可能补语？",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (12.5.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (12.5.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (12.5.3)。"
+                        "结果型可能补语否定式 (Result-type potential complement negative)",
+                        "助动词句",
+                        "趋向补语肯定式"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "看不清 is a result-type potential complement in negative form."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「可能补语：看得懂与做不完 (Potential Complements)」语用情境与完整句式的选项（练习 5）：",
+                    "prompt": "当表达‘工作虽然繁重，但我能够承受得住’时，最精准的可能补语肯定式是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (12.5.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (12.5.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (12.5.3)。"
+                        "受不了",
+                        "受得了 (shòudeliǎo: able to bear / endure)",
+                        "受没得"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "受得了 expresses the capacity to endure and withstand."
                 }
             ]
         },
@@ -6243,24 +6295,29 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「可能补语得与不 (Potential Complements: 得/不)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 12-5）？",
+                    "prompt": "下列关于可能补语的核心语法价值，总结最准确的是：",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (12.5.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (12.5.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (12.5.3)。"
+                        "只能用于书面语",
+                        "用于表达主观能力或客观条件是否允许达成动作的结果或趋向 (Expresses whether subjective ability or objective conditions permit achieving the result/direction)",
+                        "只能用于过去发生的事情"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "Potential complements convey whether internal ability or external conditions allow realizing the result or direction."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («看得懂_12_5»):",
+                    "prompt": "Type the Hanzi for 'able to bear / can stand' (受得了):",
                     "acceptedAnswers": [
-                        "看得懂_12_5"
+                        "受得了",
+                        "shoudeliao",
+                        "shòudeliǎo",
+                        "Shòudeliǎo",
+                        "Shoudeliao"
                     ],
-                    "explanation": "The target keyword was: 【看得懂_12_5】"
+                    "explanation": "受得了 (shòudeliǎo) means 'able to endure / can bear'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u13-l1": {
