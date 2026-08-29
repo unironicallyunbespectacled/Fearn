@@ -14016,63 +14016,69 @@
     },
     "am-u28-l1": {
         "id": "am-u28-l1",
-        "subject": "amharic",
-        "unit": 28,
-        "lessonNumber": 1,
-        "title": "ሚዲያ፣ ጋዜጠኝነት እና ግንኙነት (Media & Journalism) (Part 1)",
+        "unit": "am-u28",
         "level": "C1",
-        "objective": "Comprehensive mastery of ጋዜጠኝነት እና ዜና (Journalism and Media).",
+        "objective": "Analyze print press discourse in Amharic, examining editorial columns («ርዕሰ አንቀጽ»), investigative journalism («የምርመራ ጋዜጠኝነት»), anonymous sources («ሚስጥራዊ ምንጭ»), and headline formulation («አርዕስተ ዜና»).",
+        "prerequisites": [
+            "am-u27-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u27-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ጋዜጠኝነት እና ዜና (Journalism and Media) - ደረጃ 1) ተማሪዎች ስለ ጋዜጠኝነት እና ዜና (Journalism and Media) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Print press journalism centers on analytical editorials and rigorous investigative reporting.\n\n1. Print Journalism Concepts:\n- **የህትመት ሚዲያ** (Print media: daily newspapers, weekly periodicals, magazines)\n- **ርዕሰ አንቀጽ** (Editorial column conveying official institutional perspective)\n- **የምርመራ ጋዜጠኝነት** (Investigative journalism unearthing hidden public interest issues)\n- **አርዕስተ ዜና** (Headlines summarizing core facts)\n- **ታማኝ ምንጭ** (Credible news source / Confidential informant).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የጋዜጠኝነት እና ዜና (Journalism and Media) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (28.1.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ጋዜጣው በዛሬው ርዕሰ አንቀጹ ላይ በህዝባዊ አገልግሎት አሰጣጥ እና በተጠያቂነት ዙሪያ ጠንካራ ሂሳዊ ትንተና አቀረበ።",
+                    "reading": "Gazēt'aw bezarēw ri'ise anqets'u lay behizbawī agelgilot aset'at' ina betet'eyaqīnet zurīya t'enikara hīsawī tintena aqerebe.",
+                    "translation": "In today's editorial, the newspaper presented a robust critical analysis regarding public service delivery and accountability."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (28.1.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የምርመራ ጋዜጠኛው ታማኝ ምንጮችን እና ሚስጥራዊ ሰነዶችን በመመርመር ሙስናን የሚያጋልጥ ሰፊ ዘገባ አዘጋጀ።",
+                    "reading": "Yemirmerra gazēt'egnaw tamanig minch'ochin ina mist'īrawī senedochin bemermer musnan yemīyagalit' sefī zegeba azegaje.",
+                    "translation": "The investigative journalist prepared an extensive exposé uncovering corruption by examining credible sources and confidential documents."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (28.1.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ትክክለኛ አርዕስተ ዜና የአንባቢን ትኩረት ከመሳብ ባለፈ የዜናውን ዋና ፍሬ ነገር ሳይዛባ ማስተላለፍ አለበት 28.1.3።",
+                    "reading": "Tikiklegna ar'iste zēna ye'anbabīn tikuret kemesab baleffe yezēnawun wana firē neger sayzaba mastelalef allebet.",
+                    "translation": "An accurate headline must convey the core essence of the news without distortion, beyond merely capturing reader attention."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ጋዜጠኝነት እና ዜና (Journalism and Media)"
+                "«ርዕሰ አንቀጽ» = Editorial! «የምርመራ ጋዜጠኝነት» = Investigative journalism! «ምንጭ» = Credible source!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "*አዕምሮ* (A'imro), founded in 1902 under Emperor Menelik II, was Ethiopia's first handwritten and lithographed newspaper, initiating vernacular print journalism."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ጋዜጠኝነት እና ዜና (Journalism and Media)» አጠቃቀም በደረጃ 1 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "የጋዜጣን ወይም የሚዲያ ተቋምን ኦፊሴላዊ አቋም የሚያንፀባርቀው ጽሁፍ ምን ይባላል?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (28.1.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (28.1.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (28.1.3)።"
+                        "ርዕሰ አንቀጽ (Editorial)",
+                        "የስፖርት ውጤት (Sports score)",
+                        "የአየር ሁኔታ (Weather report)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "ርዕሰ አንቀጽ (Editorial) expresses the official position of the media outlet."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ሚዲያ፣ ጋዜጠኝነት እና ግንኙነት (Media & Journalism)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 1)፡",
+                    "prompt": "«የምርመራ ጋዜጠኝነት» ዋና አላማው ምንድን ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (28.1.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (28.1.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (28.1.3)።"
+                        "Writing comic books",
+                        "Uncovering hidden facts, corruption, and systemic issues through rigorous investigation (እውነታን መመርመር እና ማጋለጥ)",
+                        "Selling advertisements"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "Investigative journalism investigates and uncovers concealed truths."
                 }
             ]
         },
@@ -14080,85 +14086,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ጋዜጠኝነት እና ዜና (Journalism and Media)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 28-1)?",
+                    "prompt": "የዜናውን ዋና ፍሬ ነገር በአጭሩ የሚገልጸው የጋዜጣ ርዕስ ምን ይባላል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (28.1.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (28.1.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (28.1.3)።"
+                        "አርዕስተ ዜና (Headline)",
+                        "ግርጌ ማስታወሻ (Footnote)",
+                        "ገጽ ቁጥር (Page number)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "አርዕስተ ዜና (Headline) summarizes the main theme of the story."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ጋዜጣ_28_1»):",
+                    "prompt": "Type the Amharic word for 'newspaper' in Fidel script (ጋዜጣ):",
                     "acceptedAnswers": [
-                        "ጋዜጣ_28_1"
+                        "ጋዜጣ",
+                        "gazeta",
+                        "gazēt'a",
+                        "Gazeta",
+                        "ጋዜጣ"
                     ],
-                    "explanation": "The target keyword was: 【ጋዜጣ_28_1】"
+                    "explanation": "ጋዜጣ (Gazēt'a) means 'newspaper'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u28-l2": {
         "id": "am-u28-l2",
-        "subject": "amharic",
-        "unit": 28,
-        "lessonNumber": 2,
-        "title": "ሚዲያ፣ ጋዜጠኝነት እና ግንኙነት (Media & Journalism) (Part 2)",
+        "unit": "am-u28",
         "level": "C1",
-        "objective": "Comprehensive mastery of ጋዜጠኝነት እና ዜና (Journalism and Media).",
+        "objective": "Examine broadcast journalism, live field reporting («የቀጥታ ስርጭት»), documentary studio production («ስቱዲዮ ፕሮዳክሽን»), and radio programming in Amharic.",
+        "prerequisites": [
+            "am-u28-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u28-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ጋዜጠኝነት እና ዜና (Journalism and Media) - ደረጃ 2) ተማሪዎች ስለ ጋዜጠኝነት እና ዜና (Journalism and Media) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Broadcast media covers live transmissions, audiovisual documentary production, and studio anchors.\n\n1. Broadcast Media Concepts:\n- **የብሮድካስት ሚዲያ** (Broadcast media: radio and television transmission)\n- **የቀጥታ ስርጭት** (Live broadcast / On-the-scene real-time coverage)\n- **አዘጋጅ እና አቅራቢ** (Producer and program host/anchor)\n- **ዘጋቢ** (Field reporter / Correspondent)\n- **ስቱዲዮ ቅንብር** (Audio-video studio production and editing).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የጋዜጠኝነት እና ዜና (Journalism and Media) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (28.2.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "የቴሌቪዥን ጣቢያው ዘጋቢ ከክስተቱ ቦታ በቀጥታ ስርጭት ወቅታዊውን መረጃ ለተመልካቾች አስተላልፏል።",
+                    "reading": "Yetēlēvīzhin t'abīyaw zegabī kekisetetu bota beqet'ita sirch'it weqtawīwun mereja letemelkachoch astelalifwal.",
+                    "translation": "The television station's correspondent transmitted real-time updates to viewers via live broadcast from the incident location."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (28.2.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የሬዲዮ ፕሮግራሙ አዘጋጅ ከባለሙያዎች ጋር ባደረገው የጠረጴዛ ዙሪያ ውይይት ማህበራዊ ጉዳዮችን በስፋት ዳሰሰ።",
+                    "reading": "Yerēdīyo progrramu azegaj kebalemuyawoch gar baderegew yet'erep'ēza zurīya wiyiyit mahiberawī gudayochin besifat dasese.",
+                    "translation": "In a roundtable discussion with experts, the radio producer broadly explored pressing social issues."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (28.2.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የዶክመንተሪ ፊልሙ ከፍተኛ ጥራት ያለው የምስል እና የድምጽ ቅንብር የኢትዮጵያን ታሪክ በሚገባ አሳይቷል 28.2.3።",
+                    "reading": "Yedokmenterī fīlmu kefitegna t'irat yalew yemisil ina yedimts' qinibir ye'ītyop'yan tarīk bemīgeba asaytwall.",
+                    "translation": "The documentary film's high-quality audio-visual editing depicted Ethiopian history exceptionally well."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ጋዜጠኝነት እና ዜና (Journalism and Media)"
+                "«የቀጥታ ስርጭት» = Live broadcast! «ዘጋቢ» = Field reporter! «አዘጋጅ» = Producer/Host!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Radio remains the most widely accessible mass medium in Ethiopia, broadcasting in dozens of languages to reach rural agrarian and pastoral communities across mountainous terrains."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ጋዜጠኝነት እና ዜና (Journalism and Media)» አጠቃቀም በደረጃ 2 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "ከተፈጠረበት ቦታ ላይ ወዲያውኑ የሚተላለፍ የሚዲያ ስርጭት ምን ይባላል?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (28.2.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (28.2.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (28.2.3)።"
+                        "የቀጥታ ስርጭት (Live broadcast)",
+                        "የተቀዳ ፊልም (Recorded movie)",
+                        "የጽሁፍ ማስታወሻ (Written note)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "የቀጥታ ስርጭት (Live broadcast) delivers real-time coverage from the scene."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ሚዲያ፣ ጋዜጠኝነት እና ግንኙነት (Media & Journalism)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 2)፡",
+                    "prompt": "«ዘጋቢ» በብሮድካስት ሚዲያ ውስጥ ምን ይሰራል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (28.2.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (28.2.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (28.2.3)።"
+                        "Cleans the cameras",
+                        "Gathers information and reports news from the field (መረጃ ሰብስቦ ዜና ያቀርባል)",
+                        "Drives the studio bus"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "ዘጋቢ is a reporter gathering and presenting news from the field."
                 }
             ]
         },
@@ -14166,85 +14183,95 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ጋዜጠኝነት እና ዜና (Journalism and Media)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 28-2)?",
+                    "prompt": "የቴሌቪዥን ወይም የሬዲዮ ፕሮግራሞችን የሚያቀናጅ እና የሚያቀርብ ሰው ማን ይባላል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (28.2.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (28.2.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (28.2.3)።"
+                        "ተመልካች (Viewer)",
+                        "አዘጋጅ / አቅራቢ (Producer / Presenter)",
+                        "መንገደኛ (Passenger)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "አዘጋጅ / አቅራቢ is the producer/anchor hosting the program."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ጋዜጣ_28_2»):",
+                    "prompt": "Type the Amharic word for 'broadcasting / transmission' in Fidel script (ስርጭት):",
                     "acceptedAnswers": [
-                        "ጋዜጣ_28_2"
+                        "ስርጭት",
+                        "sirchit",
+                        "sirch'it",
+                        "Sirchit"
                     ],
-                    "explanation": "The target keyword was: 【ጋዜጣ_28_2】"
+                    "explanation": "ስርጭት (Sirch'it) means 'broadcast / transmission'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u28-l3": {
         "id": "am-u28-l3",
-        "subject": "amharic",
-        "unit": 28,
-        "lessonNumber": 3,
-        "title": "ሚዲያ፣ ጋዜጠኝነት እና ግንኙነት (Media & Journalism) (Part 3)",
+        "unit": "am-u28",
         "level": "C1",
-        "objective": "Comprehensive mastery of ጋዜጠኝነት እና ዜና (Journalism and Media).",
+        "objective": "Critically evaluate digital social media platforms, algorithms, online journalism, and fact-checking protocols to combat misinformation («ሀሰተኛ መረጃ / የሀሰት ዜና»).",
+        "prerequisites": [
+            "am-u28-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u28-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ጋዜጠኝነት እና ዜና (Journalism and Media) - ደረጃ 3) ተማሪዎች ስለ ጋዜጠኝነት እና ዜና (Journalism and Media) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Digital media literacy requires rigorous fact-checking against misinformation and online distortion.\n\n1. Digital Media Terminology:\n- **ዲጂታል ሚዲያ** (Digital & web media platforms)\n- **ማህበራዊ ድረ-ገጾች** (Social media networks)\n- **ሀሰተኛ መረጃ / የሀሰት ዜና** (Misinformation / Disinformation / Fake news)\n- **እውነታን ማጣራት** (Fact-checking / Source verification)\n- **የሙያ ስነ-ምግባር** (Professional journalistic ethics).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የጋዜጠኝነት እና ዜና (Journalism and Media) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (28.3.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ጋዜጠኞች በማህበራዊ ሚዲያ ላይ የሚሰራጩ ወሬዎችን እንደ ትክክለኛ ዜና ከማሰራጨታቸው በፊት በጥንቃቄ ማጣራት አለባቸው።",
+                    "reading": "Gazēt'egnoch bemahiberawī mīdīya lay yemīserach'u worēwochin inde tikiklegna zēna kemasrach'etachew befīt bet'inqaqē mat'arat allebachew.",
+                    "translation": "Journalists must carefully fact-check rumors circulating on social media before disseminating them as factual news."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (28.3.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ሀሰተኛ መረጃ የማህበረሰብን ሰላም እና አንድነት እንዳያናጋ እውነታን የሚያረጋግጡ የዲጂታል ማጣሪያ መድረኮች ተቋቁመዋል።",
+                    "reading": "Hasetegna mereja yemahiberesebn selam ina andinet indayanaga iwnetan yemīyaregagitu yedījītal mat'arīya medrekoch teqwaqwimewall.",
+                    "translation": "Digital verification platforms have been established to confirm facts so that misinformation does not destabilize societal peace and unity."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (28.3.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የዲጂታል ሚዲያ ተጠቃሚዎች የመረጃውን ምንጭ ትክክለኛነት እና ታማኝነት የመመርመር ንቃት ሊኖራቸው ይገባል 28.3.3።",
+                    "reading": "Yedījītal mīdīya tet'eqamīwoch yemerejawun minch' tikiklegninet ina tamanigninet yememermer nīqat līnnorachew yigeball.",
+                    "translation": "Digital media users ought to possess the literacy to examine the authenticity and credibility of information sources."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ጋዜጠኝነት እና ዜና (Journalism and Media)"
+                "«ሀሰተኛ መረጃ» = Misinformation! «ማጣራት» = Fact-checking! «ስነ-ምግባር» = Professional ethics!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Indigenous fact-checking initiatives in Ethiopia (e.g., HaqCheck) verify viral multilingual claims across Telegram, Facebook, and TikTok in Amharic, Afaan Oromoo, and Tigrinya."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ጋዜጠኝነት እና ዜና (Journalism and Media)» አጠቃቀም በደረጃ 3 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "አንድ መረጃ ትክክል መሆኑን ወይም አለመሆኑን በሳይንሳዊ መንገድ የማረጋገጥ ሂደት ምን ይባላል?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (28.3.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (28.3.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (28.3.3)።"
+                        "መረጃን ማጣራት (Fact-checking)",
+                        "ወሬ ማሰራጨት (Spreading rumors)",
+                        "ዝም ማለት (Staying silent)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "መረጃን ማጣራት (Fact-checking) verifies objective facts."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ሚዲያ፣ ጋዜጠኝነት እና ግንኙነት (Media & Journalism)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 3)፡",
+                    "prompt": "«ሀሰተኛ መረጃ» ማሰራጨት ምን ዓይነት ጉዳት ያስከትላል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (28.3.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (28.3.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (28.3.3)።"
+                        "Improves public education",
+                        "Creates confusion, social division, and mistrust (ህዝብን ያደናግራል እና አለመተማመንን ይፈጥራል)",
+                        "Builds roads"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "ሀሰተኛ መረጃ incites confusion and communal division."
                 }
             ]
         },
@@ -14252,85 +14279,94 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ጋዜጠኝነት እና ዜና (Journalism and Media)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 28-3)?",
+                    "prompt": "የጋዜጠኝነት ሙያ ዋነኛ መርህ የሆነው የትኛው ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (28.3.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (28.3.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (28.3.3)።"
+                        "የውሸት ዜና መፍጠር",
+                        "ታማኝነት እና እውነተኝነት (Truthfulness & Integrity)",
+                        "ያልተረጋገጠ ወሬ ማውራት"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "explanation": "ታማኝነት እና እውነተኝነት (Truth and integrity) are foundational to journalistic ethics."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ጋዜጣ_28_3»):",
+                    "prompt": "Type the Amharic word for 'information' in Fidel script (መረጃ):",
                     "acceptedAnswers": [
-                        "ጋዜጣ_28_3"
+                        "መረጃ",
+                        "mereja",
+                        "Mereja"
                     ],
-                    "explanation": "The target keyword was: 【ጋዜጣ_28_3】"
+                    "explanation": "መረጃ (Mereja) means 'information / data'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u28-l4": {
         "id": "am-u28-l4",
-        "subject": "amharic",
-        "unit": 28,
-        "lessonNumber": 4,
-        "title": "ሚዲያ፣ ጋዜጠኝነት እና ግንኙነት (Media & Journalism) (Part 4)",
+        "unit": "am-u28",
         "level": "C1",
-        "objective": "Comprehensive mastery of ጋዜጠኝነት እና ዜና (Journalism and Media).",
+        "objective": "Examine the constitutional right to freedom of information («የመረጃ ነፃነት»), institutional public relations («የህዝብ ግንኙነት»), official government spokespersons («ቃል አቀባይ»), and editorial codes of conduct.",
+        "prerequisites": [
+            "am-u28-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u28-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ጋዜጠኝነት እና ዜና (Journalism and Media) - ደረጃ 4) ተማሪዎች ስለ ጋዜጠኝነት እና ዜና (Journalism and Media) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Institutional communications and constitutional rights regulate public information access.\n\n1. Public Relations & Rights Concepts:\n- **የመረጃ ነፃነት** (Freedom of information / Right to know)\n- **የኤዲቶሪያል ፖሊሲ** (Editorial independence and ethics code)\n- **የህዝብ ግንኙነት** (Institutional public relations / Strategic communications)\n- **ቃል አቀባይ** (Official spokesperson / Press secretary)\n- **ጋዜጣዊ መግለጫ** (Press conference / Media briefing).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የጋዜጠኝነት እና ዜና (Journalism and Media) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (28.4.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "የመንግስት ተቋሙ ቃል አቀባይ በየሳምንቱ በሚሰጠው ጋዜጣዊ መግለጫ ወቅታዊ ጉዳዮችን እና የፖሊሲ አፈጻጸሞችን ያብራራል።",
+                    "reading": "Yemengist teqwamu qal aqebay beyesamintu bemīset'ew gazētsawī meglech'a weqtawī gudayochin ina yepolīsī afetsts'atsemochin yabrarall.",
+                    "translation": "The government institution's spokesperson clarifies current issues and policy implementation during weekly press briefings."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (28.4.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የመረጃ ነፃነት እና ሃሳብን በነፃነት የመግለጽ መብት በዴሞክራሲያዊ ስርዓት ውስጥ ለህዝብ ተሳትፎ ወሳኝ መሰረቶች ናቸው።",
+                    "reading": "Yemereja nets'anet ina hasabin benets'anet yemeglets mebit bedēmokrasīyawī sir'at wust lehizb tesatifo wesagn meseretoch nachew.",
+                    "translation": "Freedom of information and the right to freedom of expression are vital pillars for public participation in a democracy."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (28.4.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የህዝብ ግንኙነት ባለሙያው በተቋሙ እና በህዝቡ መካከል ግልጽ እና ታማኝ የመረጃ ድልድይ የመገንባት ሀላፊነት አለበት 28.4.3።",
+                    "reading": "Yehizb ginignunet balemuyawo beteqwamu ina behizbu mekakel giltse ina tamanig yemereja dildiy yemeginbat halafīnet allebet.",
+                    "translation": "The PR specialist is responsible for building a transparent and credible bridge of communication between the institution and the public."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ጋዜጠኝነት እና ዜና (Journalism and Media)"
+                "«ቃል አቀባይ» = Spokesperson! «የመረጃ ነፃነት» = Freedom of info! «ጋዜጣዊ መግለጫ» = Press briefing!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "The Ethiopian Media Authority (EMA) oversees broadcasting licenses and code of conduct compliance, balancing free press rights with hate speech and disinformation laws."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ጋዜጠኝነት እና ዜና (Journalism and Media)» አጠቃቀም በደረጃ 4 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "የአንድን ድርጅት ወይም የመንግስት ይፋዊ መግለጫ ለሚዲያ የሚያቀርበው ሰው ማን ይባላል?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (28.4.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (28.4.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (28.4.3)።"
+                        "ቃል አቀባይ (Spokesperson)",
+                        "ሾፌር (Driver)",
+                        "ገበሬ (Farmer)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "ቃል አቀባይ (Spokesperson) delivers official announcements."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ሚዲያ፣ ጋዜጠኝነት እና ግንኙነት (Media & Journalism)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 4)፡",
+                    "prompt": "«ጋዜጣዊ መግለጫ» ምንድን ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (28.4.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (28.4.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (28.4.3)።"
+                        "Private diary entry",
+                        "Official briefing delivered by spokespersons to journalists (ለጋዜጠኞች የሚሰጥ ይፋዊ መግለጫ)",
+                        "Sports warm-up"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "ጋዜጣዊ መግለጫ is a press briefing held for media representatives."
                 }
             ]
         },
@@ -14338,85 +14374,95 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ጋዜጠኝነት እና ዜና (Journalism and Media)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 28-4)?",
+                    "prompt": "የመረጃ ነፃነት በሕገ-መንግሥቱ የተረጋገጠው ለማን ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (28.4.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (28.4.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (28.4.3)።"
+                        "ለባለስልጣናት ብቻ (Officials only)",
+                        "ለእንግዶች ብቻ (Guests only)",
+                        "ለመላው ዜጎች (To all citizens)"
                     ],
                     "answerIndex": 2,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "explanation": "Freedom of information is guaranteed by the constitution for all citizens."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ጋዜጣ_28_4»):",
+                    "prompt": "Type the Amharic word for 'spokesperson' in Fidel script (ቃል አቀባይ):",
                     "acceptedAnswers": [
-                        "ጋዜጣ_28_4"
+                        "ቃል አቀባይ",
+                        "qal aqebay",
+                        "qalaqebay",
+                        "Qal aqebay",
+                        "ቃል-አቀባይ"
                     ],
-                    "explanation": "The target keyword was: 【ጋዜጣ_28_4】"
+                    "explanation": "ቃል አቀባይ (Qal aqebay) means 'spokesperson'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u28-l5": {
         "id": "am-u28-l5",
-        "subject": "amharic",
-        "unit": 28,
-        "lessonNumber": 5,
-        "title": "ሚዲያ፣ ጋዜጠኝነት እና ግንኙነት (Media & Journalism) (Part 5)",
+        "unit": "am-u28",
         "level": "C1",
-        "objective": "Comprehensive mastery of ጋዜጠኝነት እና ዜና (Journalism and Media).",
+        "objective": "Synthesize print journalism, broadcast television production, digital fact-checking, and institutional press briefings into an authentic live presidential press conference broadcast in Amharic.",
+        "prerequisites": [
+            "am-u28-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u28-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ጋዜጠኝነት እና ዜና (Journalism and Media) - ደረጃ 5) ተማሪዎች ስለ ጋዜጠኝነት እና ዜና (Journalism and Media) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "This lesson synthesizes print editorials, live broadcasting, digital verification, and government public relations into an interactive live national press conference.\n\n1. Media Synthesis Strands:\n- **Investigative Press:** «የምርመራ ጋዜጠኞች ያነሷቸው ጥያቄዎች...»\n- **Live Broadcast:** «በቴሌቪዥን እና በሬዲዮ የቀጥታ ስርጭት...»\n- **Institutional Response:** «የመንግስት ቃል አቀባይ የሰጡት ማብራሪያ...»\n- **Fact-Checking:** «የመረጃዎችን ትክክለኛነት እና ታማኝነት ማጣራት...»",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የጋዜጠኝነት እና ዜና (Journalism and Media) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (28.5.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "በዚህ ብሄራዊ ጋዜጣዊ ኮንፈረንስ ላይ ጋዜጠኞች ወቅታዊ ሀገራዊ ጉዳዮችን አስመልክቶ ለቃል አቀባዩ ጥያቄዎችን አቅርበዋል።",
+                    "reading": "Bezih bihērawī gazētsawī konferens lay gazēt'egnoch weqtawī hagerawī gudayochin asmelkito leqal aqebayu t'iyaqēwochin aqribewall. — In this national press conference, journalists presented questions to the spokesperson regarding current national issues."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (28.5.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የቀጥታ ስርጭቱ በቴሌቪዥን፣ በሬዲዮ እና በዲጂታል ሚዲያ አማካኝነት ለመላው ህዝብ በአንድ ጊዜ ተላልፏል 28.5.2።",
+                    "reading": "Yeqet'ita sirch'itu betēlēvīzhin, berēdīyo ina bedījītal mīdīya amakagninet lemelaw hizb be'and gīzē telalifwall.",
+                    "translation": "The live broadcast was simultaneously transmitted to the entire public via television, radio, and digital media."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (28.5.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የነፃ እና ሚዛናዊ ጋዜጠኝነት መኖር ለዲሞክራሲ ስርዓት ግንባታ እና ለህዝብ ግንዛቤ ማደግ ዋነኛ አንቀሳቃሽ ሞተር ነው 28.5.3።",
+                    "reading": "Yenets'a ina mīzanawī gazēt'egninet mennor ledīmokrasī sir'at ginbata ina lehizb ginzabē madeg wanegna anqesaqash motor new.",
+                    "translation": "The existence of free and balanced journalism is the primary engine for democratic construction and enlightened public awareness."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ጋዜጠኝነት እና ዜና (Journalism and Media)"
+                "Media Quad: Press (ጋዜጣ) + Broadcast (ስርጭት) + Fact-Check (ማጣራት) + Spokesperson (ቃል አቀባይ) = Fourth Estate Integrity!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "The media is colloquially described in Ethiopian intellectual discourse as the 'Fourth Pillar of State' (አራተኛው የመንግስት አካል), highlighting its constitutional watchdog role."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ጋዜጠኝነት እና ዜና (Journalism and Media)» አጠቃቀም በደረጃ 5 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "የነፃ እና ሚዛናዊ ጋዜጠኝነት ሚና ምንድን ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (28.5.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (28.5.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (28.5.3)።"
+                        "Informing the public with truthful and balanced reporting (ህዝብን በእውነተኛ እና ሚዛናዊ መረጃ ማገልገል)",
+                        "Spreading rumors",
+                        "Hiding important events"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "Free journalism informs the public accurately and impartially."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ሚዲያ፣ ጋዜጠኝነት እና ግንኙነት (Media & Journalism)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 5)፡",
+                    "prompt": "በዚህ ክፍል ካጠናናቸው ውስጥ የሚዲያ ዋነኛ ጥንካሬ የትኛው ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (28.5.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (28.5.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (28.5.3)።"
+                        "እውነታን ማጣራት እና ሙያዊ ስነ-ምግባር (Fact-checking and professional ethics)",
+                        "የውሸት ወሬ",
+                        "ዝምታ"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "Fact-checking and ethics guarantee journalistic credibility."
                 }
             ]
         },
@@ -14424,24 +14470,29 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ጋዜጠኝነት እና ዜና (Journalism and Media)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 28-5)?",
+                    "prompt": "የአራተኛው የመንግስት አካል ተብሎ የሚጠራው የህብረተሰብ ክፍል የትኛው ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (28.5.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (28.5.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (28.5.3)።"
+                        "ነፃ ሚዲያ እና ጋዜጠኝነት (The Free Press & Media)",
+                        "የግብርና ዘርፍ (Agriculture)",
+                        "የስፖርት ክለቦች (Sports clubs)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "explanation": "The media is celebrated as the Fourth Estate (አራተኛው አካል)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ጋዜጣ_28_5»):",
+                    "prompt": "Type the Amharic word for 'journalist' in Fidel script (ጋዜጠኛ):",
                     "acceptedAnswers": [
-                        "ጋዜጣ_28_5"
+                        "ጋዜጠኛ",
+                        "gazetegna",
+                        "gazēt'egna",
+                        "Gazetegna",
+                        "ጋዜጠኛ"
                     ],
-                    "explanation": "The target keyword was: 【ጋዜጣ_28_5】"
+                    "explanation": "ጋዜጠኛ (Gazēt'egna) means 'journalist'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u29-l1": {
