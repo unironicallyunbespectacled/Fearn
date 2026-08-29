@@ -8442,62 +8442,100 @@
     "hk-u16-l1": {
         "id": "hk-u16-l1",
         "subject": "cantonese",
-        "unit": 16,
-        "lessonNumber": 1,
-        "title": "結果補語：睇見同搵到 (Resultative Complements) (Part 1)",
+        "unit": "hk-u16",
         "level": "B1",
-        "objective": "Comprehensive mastery of 結果補語見同到 (Resultative: 睇見/搵到).",
+        "objective": "Master sensory attainment and successful objective acquisition complements using 見 (gin3 - visual/auditory perception: 睇見, 聽見) and 到 (dou2 - successful attainment: 搵到, 買到, 估到, 聞到).",
+        "prerequisites": [
+            "hk-u15-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u15-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（結果補語見同到 (Resultative: 睇見/搵到) - 第1部分）入面，我哋會探討廣東話嘅核心語用語境同埋結果補語見同到 (Resultative: 睇見/搵到)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "廣東話嘅「**結果補語 (Resultative Complements)**」直接附著喺動詞後面，表示動作所帶嚟嘅**具體結果或實現狀態**。喺感知同目標達成入面，最核心嘅兩大結果補語就係 **見 (gin3)** 同 **到 (dou2)**！\n\n### 👁️ 1. 感官知覺補語：見 (gin3) [Perceptual Attainment]：\n- 專門用於**視覺同聽覺**，表示「看見了、聽見了（Perception achieved）」：\n  - **睇見 (tai2 gin3)**：看見、瞧見（Saw / spotted）。\n    - 例如：我頭先喺地鐵站**睇見 (tai2 gin3)** 陳生。(I just saw Mr. Chan at the MTR station.)\n  - **聽見 (teng1 gin3)**：聽見、聽聞（Heard）。\n    - 例如：你頭先有冇**聽見 (teng1 gin3)** 出面有雷聲？(Did you hear thunder outside just now?)\n\n### 🎯 2. 目標達成與實現補語：到 (dou2) [Successful Attainment]：\n- 表示動作成功達成預期目標或獲取成果（Managed to / Successfully reached）：\n  - **搵到 (wan2 dou2)**：找到、尋獲（Found）。\n    - 例如：我終於**搵到 (wan2 dou2)** 跌咗嗰條車匙啦！(I finally found the dropped car key!)\n  - **買到 (maai5 dou2)**：成功買到（Managed to buy）。\n    - 例如：好彩排得快，我**買到 (maai5 dou2)** 演唱會飛！(Luckily queued fast, I bought concert tickets!)\n  - **聞到 (man4 dou2)**：嗅覺聞到（Smelled）。\n    - 例如：好香喎，我**聞到 (man4 dou2)** 麵包出爐嘅味道！(Smells great, I smell freshly baked bread!)\n  - **收到 (sau1 dou2)**：收到訊息或郵件（Received）。\n    - 例如：我已經**收到 (sau1 dou2)** 你寄嚟嘅電郵。(I have received the email you sent.)",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (16.1.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "我頭先喺銅鑼灣行街嗰陣，睇見成班中學老同學喺茶餐廳聚會！",
+                    "reading": "Ngo5 tau4 sin1 hai2 Tung4 Lo4 Waan1 haang4 gaai1 go2 zan6, tai2 gin3 seng4 baan1 zung1 hok6 lou5 tung4 hok6 hai2 caa4 caan1 teng1 zeoi6 wui6!",
+                    "translation": "When I was walking in Causeway Bay just now, I saw the whole group of secondary school classmates gathering at a tea restaurant!"
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (16.1.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "我喺屋企翻箱倒櫃搵咗成個鐘頭，終於搵到本特區護照啦！",
+                    "reading": "Ngo5 hai2 uk1 kei2 faan1 soeng1 dou2 gwai6 wan2 zo2 seng4 go3 zung1 tau4, zung1 jyu1 wan2 dou2 bun2 dak6 keoi1 wu6 ziu3 laa3!",
+                    "translation": "I searched high and low at home for an hour and finally found the HKSAR passport!"
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (16.1.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "呢款限量版球鞋好搶手，好彩我一早排隊先買到一對咋。",
+                    "reading": "Ni1 fun2 haan6 loeng6 baan2 kau4 haai4 hou2 coeng2 sau2, hou2 coi2 ngo5 jat1 zou2 paai4 deoi2 sin1 maai5 dou2 jat1 deoi3 zaa3.",
+                    "translation": "These limited-edition sneakers are very popular; luckily I queued early so I managed to buy a pair."
+                },
+                {
+                    "target": "行入廚房就聞到好香嘅老火靚湯味道，真係令人流口水。",
+                    "reading": "Haang4 jap6 cyu4 fong2 zau6 man4 dou2 hou2 hoeng1 ge3 lou5 fo2 leng3 tong1 mei6 dou6, zan1 hai6 ling6 jan4 lau4 hau2 seoi2.",
+                    "translation": "Walking into the kitchen I immediately smelled the delicious aroma of slow-cooked Cantonese soup, truly mouth-watering."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 結果補語見同到 (Resultative: 睇見/搵到)"
+                "見 (gin3) = Eyes & Ears: 睇見 (saw), 聽見 (heard).",
+                "到 (dou2) = Mission Accomplished: 搵到 (found), 買到 (bought), 聞到 (smelled), 收到 (received)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "Hong Kong Queuing Culture & '買到': From concert tickets to festive mooncakes, saying '我買到啦！' is the triumphant cry of victorious shoppers across Hong Kong.",
+                "The Sensory Power of '聞到': In Cantonese food culture, describing aromas with '聞到好香' is the highest organic praise for fresh dim sum and roasted meats."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「結果補語見同到 (Resultative: 睇見/搵到)」喺第1節嘅地道廣東話表達？",
+                    "prompt": "遺失了八達通卡，在沙發底下「終於尋找到了」，地道廣東話係：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (16.1.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (16.1.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (16.1.3)。"
+                        "終於搵到張八達通啦！ (wan2 dou2)",
+                        "終於搵見張八達通啦！",
+                        "終於搵切張八達通啦！",
+                        "終於搵落張八達通啦！"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "搵到 (wan2 dou2) 表示成功找到丟失物品。"
+                },
+                {
+                    "prompt": "在街上「看見、碰見了老朋友」，結果補語應選用：",
+                    "options": [
+                        "睇見老朋友 (tai2 gin3 lou5 pang4 jau5)",
+                        "睇切老朋友",
+                        "睇落老朋友",
+                        "睇順老朋友"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "睇見 (tai2 gin3) 表示視覺感知看見。"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「結果補語：睇見同搵到 (Resultative Complements)」語境嘅廣東話完整句子（練習 1）：",
+                    "prompt": "句子「好香喎，我聞到出爐蛋撻嘅香味」入面嘅「聞到 (man4 dou2)」表示：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (16.1.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (16.1.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (16.1.3)。"
+                        "用鼻子嗅覺成功感知到氣味 (perceived the aroma by smell)",
+                        "聽到了蛋撻的聲音",
+                        "蛋撻掉在地上",
+                        "買了十個蛋撻"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "聞到表示嗅覺感知實現。"
+                },
+                {
+                    "prompt": "搶購演唱會門票成功時，向朋友報喜應講：",
+                    "options": [
+                        "我買唔到飛啦",
+                        "我買到飛啦！ (maai5 dou2 fei1 laa3!)",
+                        "我買切飛啦",
+                        "我買落飛啦"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "買到 (maai5 dou2) 表示成功購買到票券。"
                 }
             ]
         },
@@ -8505,85 +8543,128 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「結果補語見同到 (Resultative: 睇見/搵到)」嘅日常商務與生活習慣（考核 16-1）？",
+                    "prompt": "在廣東話中，「睇見 (tai2 gin3)」與「搵到 (wan2 dou2)」的語法功能均為：",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (16.1.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (16.1.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (16.1.3)。"
+                        "動態助詞",
+                        "結果補語（Resultative Complements 表示動作實現狀態）",
+                        "名詞後綴",
+                        "語氣詞"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "見與到均為粵語核心結果補語。"
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («睇見_16_1»):",
+                    "prompt": "Type the 2-character Hanzi for 'found / successfully located' in Cantonese (搵到):",
                     "acceptedAnswers": [
-                        "睇見_16_1"
+                        "搵到",
+                        "wan2 dou2",
+                        "wan2dou2"
                     ],
-                    "explanation": "The target keyword was: 【睇見_16_1】"
+                    "explanation": "搵到 (wan2 dou2) means 'found / successfully located'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u16-l2": {
         "id": "hk-u16-l2",
         "subject": "cantonese",
-        "unit": 16,
-        "lessonNumber": 2,
-        "title": "結果補語：睇見同搵到 (Resultative Complements) (Part 2)",
+        "unit": "hk-u16",
         "level": "B1",
-        "objective": "Comprehensive mastery of 結果補語見同到 (Resultative: 睇見/搵到).",
+        "objective": "Master completion, totality, and thorough depletion complements (食完 vs 食晒, 用完 vs 用晒, 賣晒, 找清, 抌晒).",
+        "prerequisites": [
+            "hk-u16-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u16-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（結果補語見同到 (Resultative: 睇見/搵到) - 第2部分）入面，我哋會探討廣東話嘅核心語用語境同埋結果補語見同到 (Resultative: 睇見/搵到)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "喺動作結束同物料耗盡嘅描述入面，廣東話有三個極具層次感嘅結果補語：**完 (jyun4)**、**晒 (saai3)** 同 **清 (cing1)**！\n\n### 🏁 1. 完 (jyun4) [Sequential Finish / Completion]：\n- 強調動作本身**在時間或流程上宣告結束**（Finished doing）：\n  - **食完 (sik6 jyun4)**：吃完了（動作結束，盤子可能還有剩）。\n  - **做完 (zou6 jyun4)**：做完了、完成了工作。\n  - **睇完 (tai2 jyun4)**：看完了整部電影或書本。\n\n### 🍽️ 2. 晒 (saai3) [Total Depletion / Exhaustion of Quantity]：\n- 強調受事對象**數量全部耗盡、一點不剩**（All up / Completely depleted / 100%）：\n  - **食晒 (sik6 saai3)**：全部吃得精光、一粒米都冇剩！（Ate everything up!）\n  - **用晒 (jung6 saai3)**：全部用光了、耗盡存貨（All used up）。\n  - **賣晒 (maai6 saai3)**：全數售罄、一件不留（Sold out!）。\n  - **抌晒 (dam2 saai3)**：全部扔掉了。\n\n### 🧾 3. 清 (cing1) [Thorough Settlement / Complete Clearance]：\n- 強調**徹底結清、毫無遺留或欠結**（Settled clean / Emptied cleanly）：\n  - **找清 (zaau2 cing1)**：結清全數欠款（Settled all accounts cleanly）。\n  - **食清 (sik6 cing1)**：吃得乾乾淨淨。\n  - **執清 (zap1 cing1)**：收拾得乾乾淨淨、一塵不染。",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (16.2.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "呢碟乾炒牛河太好味啦，我一個人食晒成碟，一條粉都冇剩！",
+                    "reading": "Ni1 dip6 gon1 caau2 ngau4 ho2 taai3 hou2 mei6 laa3, ngo5 jat1 go3 jan4 sik6 saai3 seng4 dip6, jat1 tiu4 fan2 dou1 mou5 seng6!",
+                    "translation": "This dry-fried beef chow fun was so delicious; I ate the whole plate all up by myself, not a single noodle left!"
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (16.2.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "唔好意思啊客官，今日啲新鮮出爐蛋撻一早賣晒啦，聽朝請早！",
+                    "reading": "M4 hou2 ji3 si1 aa3 haak3 gun1, gam1 jat6 di1 san1 sin1 ceot1 lou4 daan6 taat1 jat1 zou2 maai6 saai3 laa3, ting1 ziu1 cing2 zou2!",
+                    "translation": "Sorry customer, today's freshly baked egg tarts are all sold out early; please come early tomorrow morning!"
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (16.2.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "我終於找清咗張信用卡卡數，今個月唔使再孭債啦！",
+                    "reading": "Ngo5 zung1 jyu1 zaau2 cing1 zo2 zoeng1 seon3 jung6 kaat1 kaat1 sou3, gam1 go3 jyut6 m4 sai2 zoi3 me1 zaai3 laa3!",
+                    "translation": "I finally paid off all my credit card debt cleanly; no need to carry debt this month anymore!"
+                },
+                {
+                    "target": "你開完會之後，記得將會議室入面啲垃圾執清佢呀。",
+                    "reading": "Nei5 hoi1 jyun4 wui6 zi1 hau6, gei3 dak1 zoeng1 wui6 ji5 sat1 jap6 min6 di1 laap6 saap3 zap1 cing1 keoi5 aa1.",
+                    "translation": "After you finish the meeting, remember to clean up the rubbish inside the meeting room thoroughly."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 結果補語見同到 (Resultative: 睇見/搵到)"
+                "完 (jyun4) = Done with action (食完 = done eating).",
+                "晒 (saai3) = 100% Depleted / Clean plate (食晒 = ate every last crumb!).",
+                "清 (cing1) = Debt / Mess zero balance (找清 = paid in full, 執清 = spotlessly tidy)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "The Sacred '賣晒 (Sold Out)' Sign: Popular bakeries and roast meat stalls in Hong Kong famously put up handwritten cardboard signs saying '今日賣晒 (Sold out today)' by 2 PM.",
+                "Clean Plate Pride: Finishing a meal with '食晒 (sik6 saai3)' is considered the warmest possible compliment to a home cook or restaurant chef."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「結果補語見同到 (Resultative: 睇見/搵到)」喺第2節嘅地道廣東話表達？",
+                    "prompt": "想強調麵包「全部賣光了、一件都不剩（100% sold out）」，最地道嘅廣東話係：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (16.2.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (16.2.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (16.2.3)。"
+                        "啲麵包賣晒啦！ (maai6 saai3 laa3)",
+                        "啲麵包賣完啦",
+                        "啲麵包賣見啦",
+                        "啲麵包賣切啦"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "賣晒 (maai6 saai3) 強調存貨徹底售罄、一件不留。"
+                },
+                {
+                    "prompt": "結清信用卡所有欠款、毫無遺漏，應講：",
+                    "options": [
+                        "找清卡數 (zaau2 cing1 kaat1 sou3)",
+                        "找切卡數",
+                        "找見卡數",
+                        "找落卡數"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "找清 (zaau2 cing1) 專用於全數結清帳目欠款。"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「結果補語：睇見同搵到 (Resultative Complements)」語境嘅廣東話完整句子（練習 2）：",
+                    "prompt": "廣東話「食完 (sik6 jyun4)」同「食晒 (sik6 saai3)」嘅核心語義區別係：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (16.2.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (16.2.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (16.2.3)。"
+                        "前者指用餐動作結束（盤中可能仍有剩餘），後者強調盤中食物全部吃光、一點不剩",
+                        "兩者完全一樣",
+                        "前者指沒吃飽，後者指肚子痛",
+                        "前者只能用於早餐"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "完表動作結束，晒表數量徹底耗盡。"
+                },
+                {
+                    "prompt": "搬屋前將舊雜物「全部扔掉（threw all away）」，地道廣東話係：",
+                    "options": [
+                        "抌晒啲舊嘢 (dam2 saai3 di1 gau6 je5)",
+                        "抌切啲舊嘢",
+                        "抌明啲舊嘢",
+                        "抌順啲舊嘢"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "抌晒表示全部扔掉耗盡。"
                 }
             ]
         },
@@ -8591,85 +8672,127 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「結果補語見同到 (Resultative: 睇見/搵到)」嘅日常商務與生活習慣（考核 16-2）？",
+                    "prompt": "句子「我用晒樽洗手液」表達的意思是：",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (16.2.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (16.2.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (16.2.3)。"
+                        "洗手液過期了",
+                        "整瓶洗手液全部用光了，一滴不剩（All used up）",
+                        "洗手液剛買回來",
+                        "洗手液打翻在地上"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "用晒表示數量全部耗盡。"
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («睇見_16_2»):",
+                    "prompt": "Type the 2-character Hanzi for 'sold out' in Cantonese (賣晒):",
                     "acceptedAnswers": [
-                        "睇見_16_2"
+                        "賣晒",
+                        "maai6 saai3",
+                        "maai6saai3"
                     ],
-                    "explanation": "The target keyword was: 【睇見_16_2】"
+                    "explanation": "賣晒 (maai6 saai3) means 'sold out'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u16-l3": {
         "id": "hk-u16-l3",
         "subject": "cantonese",
-        "unit": 16,
-        "lessonNumber": 3,
-        "title": "結果補語：睇見同搵到 (Resultative Complements) (Part 3)",
+        "unit": "hk-u16",
         "level": "B1",
-        "objective": "Comprehensive mastery of 結果補語見同到 (Resultative: 睇見/搵到).",
+        "objective": "Master accuracy and error resultative complements (講啱/講錯, 買啱/買錯, 寫啱/寫錯, 認啱/認錯).",
+        "prerequisites": [
+            "hk-u16-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u16-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（結果補語見同到 (Resultative: 睇見/搵到) - 第3部分）入面，我哋會探討廣東話嘅核心語用語境同埋結果補語見同到 (Resultative: 睇見/搵到)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "喺判斷動作嘅**正確性、精確度與失誤偏差**嗰陣，廣東話有一對極具代表性嘅結果補語：**啱 (ngaam1)** 與 **錯 (co3)**！\n\n### ✅ 1. 啱 (ngaam1) [Correctness / Right Fit / Accuracy]：\n- 表示動作達成正確、吻合預期或選對目標（Right / Correct）：\n  - **講啱 (gong2 ngaam1)**：說對了、講中要點（Said correctly）。\n    - 例如：你**講啱 (gong2 ngaam1)** 咗，呢個先係最關鍵嘅問題！\n  - **買啱 (maai5 ngaam1)**：買對了款式或型號（Bought the right one）。\n    - 例如：好彩我**買啱 (maai5 ngaam1)** 咗尺碼，件衫好啱身！\n  - **估啱 (gu2 ngaam1)**：猜對了、料中了。\n    - 例如：嘩，你真係**估啱 (gu2 ngaam1)** 咗老細嘅心意喎！\n  - **寫啱 (se2 ngaam1)**：寫對了字句或地址。\n\n### ❌ 2. 錯 (co3) [Mistake / Error / Misdirection]：\n- 表示動作發生差錯、選錯對象或失誤（Wrong / In error）：\n  - **講錯 (gong2 co3)**：說錯話、口誤（Said wrongly / misspeak）。\n    - 例如：唔好意思，我一時口快**講錯 (gong2 co3)** 咗名。(Sorry, a slip of tongue, I said the wrong name.)\n  - **買錯 (maai5 co3)**：買錯了商品或型號。\n    - 例如：哎呀，我**買錯 (maai5 co3)** 咗舊款充電線添！\n  - **認錯 (jing6 co3)**：認錯人、辨認失誤（Mistook someone）。\n    - 例如：唔好意思先生，我**認錯 (jing6 co3)** 人，以為你係我同學！\n  - **搭錯 (daap3 co3)**：搭錯了車或路線（Boarded wrong vehicle）。\n    - 例如：我頭先唔小心**搭錯 (daap3 co3)** 咗相反方向嘅港鐵！",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (16.3.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "你剛才分析得好透徹，完全講啱晒市場未來嘅發展趨勢！",
+                    "reading": "Nei5 gong1 coi4 fan1 sik1 dak1 hou2 tau3 cit3, jyun4 cyun4 gong2 ngaam1 saai3 si5 coeng4 mei6 loi4 ge3 faat3 zin2 ceoi1 sai3!",
+                    "translation": "Your analysis just now was very penetrating; you stated the future market development trends completely correctly!"
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (16.3.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "唔好意思啊陳生，我頭先一時大意寫錯咗合約上面嘅日期添。",
+                    "reading": "M4 hou2 ji3 si1 aa3 Can4 saang1, ngo5 tau4 sin1 jat1 si4 daai6 ji3 se2 co3 zo2 hap6 joek3 soeng6 min6 ge3 jat6 kei4 tim1.",
+                    "translation": "Sorry Mr. Chan, through a moment of carelessness I wrote the wrong date on the contract."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (16.3.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "佢今日出門口冇戴眼鏡，喺街上面認錯人，場面好尷尬！",
+                    "reading": "Keoi5 gam1 jat6 ceot1 mun4 hau2 mou5 daai3 ngaan5 geng2, hai2 gaai1 soeng6 min6 jing6 co3 jan4, coeng4 min6 hou2 gaam1 gaai3!",
+                    "translation": "He didn't wear glasses when going out today and mistook someone on the street; the scene was very awkward!"
+                },
+                {
+                    "target": "買手機配件一定要對清楚型號，千祈唔好買錯呀。",
+                    "reading": "Maai5 sau2 gei1 pui3 gin2 jat1 ding1 jiu3 deoi3 cing1 co2 jing4 hou6, cin1 kei4 m4 hou2 maai5 co3 aa1.",
+                    "translation": "When buying phone accessories you must verify the model clearly; definitely don't buy the wrong one."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 結果補語見同到 (Resultative: 睇見/搵到)"
+                "Right: 啱 (ngaam1) [講啱 = said right, 買啱 = bought right, 估啱 = guessed right]!",
+                "Wrong: 錯 (co3) [講錯 = slip of tongue, 買錯 = wrong item, 認錯 = mistook person, 搭錯 = wrong train]!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "Transit Realities in HK: With complex multi-directional transport hubs like Admiralty (金鐘) or Central (中環), '唔小心搭錯車 (accidentally took the wrong train)' is a universally relatable mishap.",
+                "The Polite Apology '認錯人': Saying '唔好意思，認錯人啫 (Excuse me, just mistook you for someone else)' smoothly diffuses accidental eye contact or misidentifications."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「結果補語見同到 (Resultative: 睇見/搵到)」喺第3節嘅地道廣東話表達？",
+                    "prompt": "在街上把陌生人誤當成老朋友，道歉時應講：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (16.3.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (16.3.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (16.3.3)。"
+                        "唔好意思，我認錯人添！ (jing6 co3 jan4)",
+                        "唔好意思，我認啱人添！",
+                        "唔好意思，我認晒人添！",
+                        "唔好意思，我認切人添！"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "認錯 (jing6 co3) 表示辨認失誤、認錯對象。"
+                },
+                {
+                    "prompt": "稱讚對方「你完全說對了（100% correct）」地道廣東話係：",
+                    "options": [
+                        "你講啱晒！ (gong2 ngaam1 saai3)",
+                        "你講錯晒！",
+                        "你講切晒！",
+                        "你講落晒！"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "講啱 (gong2 ngaam1) 表示說對了。"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「結果補語：睇見同搵到 (Resultative Complements)」語境嘅廣東話完整句子（練習 3）：",
+                    "prompt": "地鐵站內不小心坐上了相反方向的列車，這種情況廣東話稱為：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (16.3.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (16.3.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (16.3.3)。"
+                        "搭錯車 (daap3 co3 ce1)",
+                        "搭啱車",
+                        "搭晒車",
+                        "搭清車"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "搭錯車表示坐錯交通工具或路線。"
+                },
+                {
+                    "prompt": "句子「好彩我買啱咗個插頭」表示：",
+                    "options": [
+                        "插頭買錯了不能用",
+                        "幸運地買對了適配的插頭型號 (luckily bought the right plug model)",
+                        "買了十個插頭",
+                        "插頭壞掉了"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "買啱表示買對了正確商品。"
                 }
             ]
         },
@@ -8677,85 +8800,128 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「結果補語見同到 (Resultative: 睇見/搵到)」嘅日常商務與生活習慣（考核 16-3）？",
+                    "prompt": "廣東話口誤說錯話時，最自然的地道道歉是：",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (16.3.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (16.3.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (16.3.3)。"
+                        "唔好意思，我一時口快講錯咗 (gong2 co3 zo2)",
+                        "唔好意思，我講啱咗",
+                        "唔好意思，我講切咗",
+                        "唔好意思，我講落咗"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "講錯 (gong2 co3) 是口誤標準表達。"
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («睇見_16_3»):",
+                    "prompt": "Type the 2-character Hanzi for 'said correctly / hit the nail on the head' in Cantonese (講啱):",
                     "acceptedAnswers": [
-                        "睇見_16_3"
+                        "講啱",
+                        "gong2 ngaam1",
+                        "gong2ngaam1"
                     ],
-                    "explanation": "The target keyword was: 【睇見_16_3】"
+                    "explanation": "講啱 (gong2 ngaam1) means 'said correctly'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u16-l4": {
         "id": "hk-u16-l4",
         "subject": "cantonese",
-        "unit": 16,
-        "lessonNumber": 4,
-        "title": "結果補語：睇見同搵到 (Resultative Complements) (Part 4)",
+        "unit": "hk-u16",
         "level": "B1",
-        "objective": "Comprehensive mastery of 結果補語見同到 (Resultative: 睇見/搵到).",
+        "objective": "Master closure/convergence (埋 maai4: 閂埋, 摺埋, 收埋), destruction/damage (爛 laan6: 跌爛, 整爛, 撕爛), and rupture/capacity breach (爆 baau3: 撐爆, 逼爆).",
+        "prerequisites": [
+            "hk-u16-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u16-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（結果補語見同到 (Resultative: 睇見/搵到) - 第4部分）入面，我哋會探討廣東話嘅核心語用語境同埋結果補語見同到 (Resultative: 睇見/搵到)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "喺實體物體嘅**閉合收納、損毀破裂 同埋 極限爆發**入面，廣東話有三個極具視覺動感嘅結果補語：**埋 (maai4)**、**爛 (laan6)** 與 **爆 (baau3)**！\n\n### 🚪 1. 埋 (maai4) [Closure / Storage / Bringing Together]：\n- 表示動作造成**緊密閉合、收納妥當或靠攏歸位**（Close shut / Store away / Fold up）：\n  - **閂埋 (saan1 maai4)**：關緊門窗（Close tightly）。\n    - 例如：出面落雨，快啲**閂埋 (saan1 maai4)** 啲窗啦！\n  - **收埋 (sau1 maai4)**：藏起來、收納妥當（Hide away / Store safely）。\n    - 例如：將啲貴重物品**收埋 (sau1 maai4)** 入保險箱。(Put valuables away in safe.)\n  - **摺埋 (zip3 maai4)**：摺疊起來；（俚語）倒閉收場。\n    - 例如：用完張摺檯之後記得**摺埋 (zip3 maai4)** 佢。(Fold up the folding table after use.)\n\n### 💥 2. 爛 (laan6) [Physical Damage / Shattering / Destruction]：\n- 表示動作造成物體**破損、碎裂、損壞或破爛**（Broken / Shattered / Torn）：\n  - **跌爛 (dit3 laan6)**：掉在地上摔碎了（Dropped and shattered）。\n    - 例如：部手機跌咗落地下，**跌爛 (dit3 laan6)** 咗個螢幕！\n  - **整爛 (zing2 laan6)**：弄壞了、搞爛了（Broke / Damaged）。\n    - 例如：佢唔小心**整爛 (zing2 laan6)** 咗老細個茶杯。(He accidentally broke boss's teacup.)\n  - **撕爛 (si1 laan6)**：撕破了（Torn up）。\n\n### 🎈 3. 爆 (baau3) [Rupture / Overfilling / Bursting Capacity]：\n- 表示容量超出極限導致**撐裂、擠爆或人滿為患**（Burst / Packed to overflow）：\n  - **撐爆 (caang1 baau3)**：吃得太飽把衣服撐裂。\n  - **逼爆 (bik1 baau3)**：人潮過多把場地擠得水泄不通。\n    - 例如：除夕夜維港兩岸**逼爆 (bik1 baau3)** 睇煙花嘅市民！",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (16.4.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "臨出門口之前，記得要閂埋所有窗門同鎖好大門呀！",
+                    "reading": "Lam4 ceot1 mun4 hau2 zi1 cin4, gei3 dak1 jiu3 saan1 maai4 so2 jau5 coeng1 mun4 tung4 so2 hou2 daai6 mun4 aa1!",
+                    "translation": "Before leaving the house, remember to close shut all windows and lock the main door!"
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (16.4.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "哎呀好心痛呀，我部新相機唔小心跌落樓梯，跌爛咗個鏡頭添！",
+                    "reading": "Aai1 jaa1 hou2 sam1 tung3 aa3, ngo5 bou6 san1 soeng2 gei1 m4 siu2 sam1 dit3 lok6 lau4 tai1, dit3 laan6 zo2 go3 geng3 tau4 tim1!",
+                    "translation": "Oh gosh my heart aches; my new camera accidentally fell down the stairs and the lens shattered!"
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (16.4.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "呢間新開嘅甜品舖今日大減價，成條街都畀人潮逼爆晒！",
+                    "reading": "Ni1 gaan1 san1 hoi1 ge3 tim4 ban2 pou3 gam1 jat6 daai6 gaam2 gaa3, seng4 tiu4 gaai1 dou1 bei2 jan4 ciu4 bik1 baau3 saai3!",
+                    "translation": "This newly opened dessert shop is having a big sale today; the whole street is completely packed to bursting by the crowd!"
+                },
+                {
+                    "target": "用完啲工具之後，請大家物歸原位收埋入櫃桶入面。",
+                    "reading": "Jung6 jyun4 di1 gung1 geoi6 zi1 hau6, cing2 daai6 gaa1 mat6 gwai1 jyun4 wai2 sau1 maai4 jap6 gwai6 tung2 jap6 min6.",
+                    "translation": "After using the tools, please return them to their original places and store them away in the drawers."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 結果補語見同到 (Resultative: 睇見/搵到)"
+                "埋 (maai4) = Lock and stow [閂埋 = close shut, 收埋 = put away safely, 摺埋 = fold up]!",
+                "爛 (laan6) = Shatter / Break [跌爛 = dropped & broken, 整爛 = broke it]!",
+                "爆 (baau3) = Bursting crowd [逼爆 = packed to overflow]!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "Hong Kong Crowd Phenomenon '逼爆': Fireworks on New Year's Eve in Victoria Harbour (維港煙花) and comic expos (動漫節) are routinely described on local news as '逼爆 (bik1 baau3)'.",
+                "Careful Home Safety: In typhoon season, parents always remind children '閂埋啲窗 (close shut the windows)' to prevent wind damage."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「結果補語見同到 (Resultative: 睇見/搵到)」喺第4節嘅地道廣東話表達？",
+                    "prompt": "出門時提醒家人「把所有的窗戶緊緊關上（close shut）」，應講：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (16.4.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (16.4.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (16.4.3)。"
+                        "閂埋所有窗 (saan1 maai4 so2 jau5 coeng1)",
+                        "閂爛所有窗",
+                        "閂爆所有窗",
+                        "閂錯所有窗"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "閂埋 (saan1 maai4) 表示關緊閉合。"
+                },
+                {
+                    "prompt": "手機不小心掉在地上「摔碎了螢幕」，應講：",
+                    "options": [
+                        "跌爛咗個螢幕 (dit3 laan6 zo2)",
+                        "跌埋咗個螢幕",
+                        "跌啱咗個螢幕",
+                        "跌清咗個螢幕"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "跌爛 (dit3 laan6) 表示掉落並摔碎損壞。"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「結果補語：睇見同搵到 (Resultative Complements)」語境嘅廣東話完整句子（練習 4）：",
+                    "prompt": "節日旺角街頭人頭湧湧、水泄不通，新聞報道形容為：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (16.4.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (16.4.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (16.4.3)。"
+                        "旺角街頭逼爆 (bik1 baau3)",
+                        "旺角街頭跌爛",
+                        "旺角街頭收埋",
+                        "旺角街頭找清"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "逼爆形容人潮極度擁擠、擠滿場地。"
+                },
+                {
+                    "prompt": "把貴重物品「藏好、妥善收納進保險箱」，地道廣東話係：",
+                    "options": [
+                        "收埋入保險箱 (sau1 maai4)",
+                        "收爛入保險箱",
+                        "收爆入保險箱",
+                        "收錯入保險箱"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "收埋表示收藏妥當。"
                 }
             ]
         },
@@ -8763,85 +8929,128 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「結果補語見同到 (Resultative: 睇見/搵到)」嘅日常商務與生活習慣（考核 16-4）？",
+                    "prompt": "廣東話「整爛 (zing2 laan6)」在生活中的意思是：",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (16.4.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (16.4.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (16.4.3)。"
+                        "修好了機器",
+                        "不小心弄壞、搞破損了物品（Accidentally broke/damaged something）",
+                        "整理得很乾淨",
+                        "做了一頓豐盛的晚餐"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "整爛表示搞壞、弄破損。"
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («睇見_16_4»):",
+                    "prompt": "Type the 2-character Hanzi for 'close shut / shut tight' in Cantonese (閂埋):",
                     "acceptedAnswers": [
-                        "睇見_16_4"
+                        "閂埋",
+                        "saan1 maai4",
+                        "saan1maai4"
                     ],
-                    "explanation": "The target keyword was: 【睇見_16_4】"
+                    "explanation": "閂埋 (saan1 maai4) means 'close shut / shut tight'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u16-l5": {
         "id": "hk-u16-l5",
         "subject": "cantonese",
-        "unit": 16,
-        "lessonNumber": 5,
-        "title": "結果補語：睇見同搵到 (Resultative Complements) (Part 5)",
+        "unit": "hk-u16",
         "level": "B1",
-        "objective": "Comprehensive mastery of 結果補語見同到 (Resultative: 睇見/搵到).",
+        "objective": "Synthesize 見, 到, 完, 晒, 啱, 錯, 埋, 爛 in vivid narrative recounts of daily mishaps, shopping achievements, and household repairs.",
+        "prerequisites": [
+            "hk-u16-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u16-l1",
+                "hk-u16-l2",
+                "hk-u16-l3",
+                "hk-u16-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（結果補語見同到 (Resultative: 睇見/搵到) - 第5部分）入面，我哋會探討廣東話嘅核心語用語境同埋結果補語見同到 (Resultative: 睇見/搵到)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "喺呢課結果補語嘅大綜合入面，我哋會將 **感知達成 (睇見/搵到)**、**耗盡結束 (食完/賣晒/找清)**、**正誤準確 (講啱/買錯/搭錯)** 以及 **閉合破壞 (閂埋/跌爛/逼爆)** 串連成生動地道嘅廣東話故事敘述！\n\n### 📖 精彩生活實戰敘事範例：\n- **商場購物奇遇記 (Shopping Adventure Narrative)**：\n  - 「我琴日去尖沙咀商場，一出港鐵就**睇見**成條街畀人潮**逼爆**！」\n  - 「我本來想買特價耳筒，點知一入舖頭店員就話已經**賣晒**。」\n  - 「好彩喺對面小舖**搵到**同款，而且我對清楚型號**買啱**咗！」\n  - 「返到屋企太興奮，拆盒嗰陣唔小心**整爛**咗個紙盒，但試聽嗰陣**聽見**啲音質好正！」\n  - 「用完之後我好小心咁將耳筒**收埋**入個盒入面，仲**閂埋**房門安靜聽歌添！」",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (16.5.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "我琴晚喺客廳睇完電視之後，順手閂埋窗門，將啲雜物執清晒先去瞓覺。",
+                    "reading": "Ngo5 kam4 maan5 hai2 haak3 teng1 tai2 jyun4 din6 si6 zi1 hau6, seon6 sau2 saan1 maai4 coeng1 mun4, zoeng1 di1 zaap6 mat6 zap1 cing1 saai3 sin1 heoi3 fan3 gaau3.",
+                    "translation": "After I finished watching TV in the living room last night, I conveniently closed shut the windows and cleared away all the clutter before going to sleep."
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (16.5.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "頭先出門口太急搭錯咗車，好彩喺轉車站睇見熟人，帶我搵到正確嘅巴士線！",
+                    "reading": "Tau4 sin1 ceot1 mun4 hau2 taai3 gap1 daap3 co3 zo2 ce1, hou2 coi2 hai2 zyun2 ce1 zaam6 tai2 gin3 suk6 jan4, daai3 ngo5 wan2 dou2 zing3 kok3 ge3 baa1 si2 sin3!",
+                    "translation": "I was in such a rush leaving just now that I took the wrong bus; luckily I saw an acquaintance at the interchange who guided me to find the correct bus line!"
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (16.5.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "今日舖頭啲限量蛋糕畀街坊買晒，連櫥窗樣板都畀人買走埋！",
+                    "reading": "Gam1 jat6 pou3 tau2 di1 haan6 loeng6 daan6 gou1 bei2 gaai1 fong1 maai5 saai3, lin4 cyu4 coeng1 joeng6 baan2 dou1 bei2 jan4 maai5 zau2 maai4!",
+                    "translation": "Today the limited-edition cakes in the shop were all bought up by neighbors; even the display window sample was bought away too!"
+                },
+                {
+                    "target": "阿仔唔小心跌爛咗部平板電腦，好彩整完之後可以開得返機。",
+                    "reading": "Aa3 zai2 m4 siu2 sam1 dit3 laan6 zo2 bou6 ping4 baan2 din6 nou5, hou2 coi2 zing2 jyun4 zi1 hau6 ho2 ji5 hoi1 dak1 faan1 gei1.",
+                    "translation": "My son accidentally dropped and broke the tablet; luckily after finishing the repair it can turn back on."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 結果補語見同到 (Resultative: 睇見/搵到)"
+                "Narrative Flow with Resultatives: Action → Outcome [睇見 saw → 搵到 found → 買啱 bought right → 賣晒 sold out → 閂埋 closed shut → 跌爛 shattered]!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "Cantonese Storytelling Magic: Natural Cantonese narratives rely heavily on chains of resultative complements to give stories momentum, vividness, and cinematic texture."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「結果補語見同到 (Resultative: 睇見/搵到)」喺第5節嘅地道廣東話表達？",
+                    "prompt": "想生動敘述「看完了電影、關好窗戶、收拾乾淨雜物」，最地道嘅句式係：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (16.5.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (16.5.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (16.5.3)。"
+                        "睇完電影，閂埋窗門，執清雜物 (tai2 jyun4, saan1 maai4, zap1 cing1)",
+                        "睇切電影，閂切窗門，執切雜物",
+                        "睇落電影，閂落窗門，執落雜物",
+                        "睇順電影，閂順窗門，執順雜物"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "完美融合 睇完 (finished watching)、閂埋 (closed shut) 與 執清 (cleared clean)。"
+                },
+                {
+                    "prompt": "敘述搭車意外「急忙出門搭錯了車，好在找到了正確路線」，應講：",
+                    "options": [
+                        "搭錯車，好彩搵到正確路線 (daap3 co3 ce1, hou2 coi2 wan2 dou2)",
+                        "搭啱車，好彩搵唔到正確路線",
+                        "搭晒車，好彩搵爛正確路線",
+                        "搭切車，好彩搵落正確路線"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "搭錯車 (wrong transit) 與 搵到 (found) 自然對照。"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「結果補語：睇見同搵到 (Resultative Complements)」語境嘅廣東話完整句子（練習 5）：",
+                    "prompt": "句子「啲蛋撻畀人買晒，而且個箱都畀人整爛埋」展示咗邊兩個結果補語？",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (16.5.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (16.5.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (16.5.3)。"
+                        "買晒（數量耗盡）與 整爛（損壞破損）",
+                        "只有時間補語",
+                        "只有空間補語",
+                        "只有比較級"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "結合咗 買晒 與 整爛。"
+                },
+                {
+                    "prompt": "敘事中「收埋 (sau1 maai4)」同「跌爛 (dit3 laan6)」分別代表：",
+                    "options": [
+                        "妥善收藏歸位 與 摔落破裂損毀",
+                        "兩者都代表生病",
+                        "兩者都代表買東西",
+                        "兩者都代表天氣熱"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "收埋代表收藏，跌爛代表破損。"
                 }
             ]
         },
@@ -8849,24 +9058,28 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「結果補語見同到 (Resultative: 睇見/搵到)」嘅日常商務與生活習慣（考核 16-5）？",
+                    "prompt": "下列邊一句廣東話最完整、最生動咁展示咗結果補語在日常敘事中的綜合運用？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (16.5.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (16.5.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (16.5.3)。"
+                        "我今日喺街上面睇見老朋友，一齊去茶餐廳食晒成碟牛河，仲傾完下半年嘅合作計劃添！",
+                        "今天星期六我去圖書館借了一本書",
+                        "這張椅子是木頭做的",
+                        "現在是下午三點十五分"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "explanation": "自然融合 睇見 (saw)、食晒 (ate all up) 同 傾完 (finished discussing)。"
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («睇見_16_5»):",
+                    "prompt": "Type the 2-character Hanzi for 'dropped and shattered / broke by falling' in Cantonese (跌爛):",
                     "acceptedAnswers": [
-                        "睇見_16_5"
+                        "跌爛",
+                        "dit3 laan6",
+                        "dit3laan6"
                     ],
-                    "explanation": "The target keyword was: 【睇見_16_5】"
+                    "explanation": "跌爛 (dit3 laan6) means 'dropped and shattered / broke by falling'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u17-l1": {
