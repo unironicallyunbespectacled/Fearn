@@ -5873,62 +5873,100 @@
     "hk-u12-l1": {
         "id": "hk-u12-l1",
         "subject": "cantonese",
-        "unit": 12,
-        "lessonNumber": 1,
-        "title": "形容詞重疊同程度副詞 (Adjective Reduplication) (Part 1)",
+        "unit": "hk-u12",
         "level": "B1",
-        "objective": "Comprehensive mastery of 形容詞同程度副詞 (Degree & Reduplication).",
+        "objective": "Master AA adjective reduplication and the diminutive -地 (-dei2) suffix expressing 'a little bit / somewhat' (甜甜地, 熱熱地, 暖暖地, 酸酸地, 慢慢).",
+        "prerequisites": [
+            "hk-u11-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u11-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（形容詞同程度副詞 (Degree & Reduplication) - 第1部分）入面，我哋會探討廣東話嘅核心語用語境同埋形容詞同程度副詞 (Degree & Reduplication)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "喺廣東話入面，如果想表達某種味道、溫度或者特徵「帶有一點點」、「稍微」或者「恰到好處」，我哋極之常用「**形容詞重疊 + 地 (AA-地)**」嘅結構！呢種表達方式比就咁講「有啲...」更加生動、柔和同親切。\n\n### 🔤 1. 「AA-地 (dei2)」結構同高升變調 (Tone Change):\n- **基本結構**：單音節形容詞重疊兩次，後面加上「地 (dei2)」字。\n- **核心語義**：表示程度唔深，帶有「稍微……」、「隱約感覺到……」嘅委婉語氣。\n- **關鍵聲調變化（變調）**：重疊嘅第二個形容詞好多時會變調為**第二聲（高升調 - Tone 2）**！\n  - **甜 (tim4)** → **甜甜地 (tim4 tim2 dei2)**：略帶微甜、甜滋滋。\n  - **熱 (jit6)** → **熱熱地 (jit6 jit2 dei2)**：溫熱微燙、暖烘烘。\n  - **酸 (syun1)** → **酸酸地 (syun1 syun2 dei2)**：帶點酸味、酸溜溜。\n  - **辣 (laat6)** → **辣辣地 (laat6 laat2 dei2)**：微辣、微麻。\n  - **痛 (tung3)** → **痛痛地 (tung3 tung2 dei2)**：隱隱作痛。\n\n### 🗣️ 2. 「慢慢 (maan6 maan2)」等純 AA 重疊作副詞：\n- 有啲單音節形容詞直接重疊成 AA 形式作為修飾副詞，同樣第二個字會變高升調：\n  - **慢 (maan6)** → **慢慢 (maan6 maan2)**：從容不迫地、慢慢來。\n  - **早 (zou2)** → **早早 (zou2 zou2)**：一大早、提早。",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (12.1.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "呢杯港式奶茶熱熱地、甜甜地，冬天飲真係好舒服。",
+                    "reading": "Ni1 bui1 gong2 sik1 naai5 caa4 jit6 jit2 dei2, tim4 tim2 dei2, dung1 tin1 jam2 zan1 hai6 hou2 syu1 fuk6.",
+                    "translation": "This Hong Kong-style milk tea is pleasantly warm and slightly sweet; drinking it in winter is truly comfortable."
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (12.1.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "碗酸辣粉酸酸地、辣辣地，非常開胃！",
+                    "reading": "Wun2 syun1 laat6 fan2 syun1 syun2 dei2, laat6 laat2 dei2, fei1 soeng4 hoi1 wai6!",
+                    "translation": "This bowl of hot-and-sour noodles is nicely tangy and slightly spicy, extremely appetizing!"
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (12.1.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "唔使咁急，你慢慢行，睇清楚過馬路。",
+                    "reading": "M4 sai2 gam3 gap1, nei5 maan6 maan2 haang4, tai2 cing1 co2 gwo3 maa5 lou6.",
+                    "translation": "No need to rush, walk slowly and look carefully when crossing the road."
+                },
+                {
+                    "target": "我隻右手琴日撞到，今日仲有啲痛痛地。",
+                    "reading": "Ngo5 zek3 jau6 sau2 kam4 jat6 zong6 dou2, gam1 jat6 zung6 jau5 di1 tung3 tung2 dei2.",
+                    "translation": "My right hand bumped into something yesterday, and today it's still slightly aching."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 形容詞同程度副詞 (Degree & Reduplication)"
+                "AA-地 Rule: Double the adjective, add 地 (dei2), and raise the 2nd syllable pitch to Tone 2 (tim4 tim2 dei2 = 'a sweet kiss of sugar')!",
+                "慢慢 (maan6 maan2): When leaving a meal, saying '慢慢食 (maan6 maan2 sik6)' is polite etiquette meaning 'take your time and enjoy your food'."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "Cantonese Food Nuance: In Cantonese culinary culture, balance is everything. Describing food as '甜甜地 (tim4 tim2 dei2)' or '酸酸地 (syun1 syun2 dei2)' is often high praise because it means the flavor isn't overpowering or cloying.",
+                "Courtesy Phrase '慢慢行': When seeing off guests or elders, saying '慢慢行 (maan6 maan2 haang4)' or '慢慢食 (maan6 maan2 sik6)' expresses gentle, caring hospitality."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「形容詞同程度副詞 (Degree & Reduplication)」喺第1節嘅地道廣東話表達？",
+                    "prompt": "想表達一杯茶「微溫、帶有淡淡甜味」，最地道嘅廣東話係：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (12.1.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (12.1.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (12.1.3)。"
+                        "呢杯茶好苦好難飲",
+                        "呢杯茶暖暖地、甜甜地 (nyun5 nyun2 dei2, tim4 tim2 dei2)",
+                        "呢杯茶完全冇任何味道",
+                        "呢杯茶熱到滾"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "暖暖地同甜甜地精準表達微溫同淡甜嘅 AA-地 輕度特徵。"
+                },
+                {
+                    "prompt": "喺「甜甜地 (tim4 tim2 dei2)」呢個詞入面，第二個「甜」字發生咗咩語音變化？",
+                    "options": [
+                        "由第4聲變調為第2聲（高升調）",
+                        "變為輕聲完全唔發音",
+                        "變為第6聲低平調",
+                        "冇任何聲調變化"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "廣東話 AA-地 結構入面第二個音節普遍變調為第2聲高升調。"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「形容詞重疊同程度副詞 (Adjective Reduplication)」語境嘅廣東話完整句子（練習 1）：",
+                    "prompt": "喺送朋友出門嗰陣，表示「從容行路、小心睇路」嘅禮貌語係：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (12.1.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (12.1.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (12.1.3)。"
+                        "快啲跑 (faai3 di1 paau2)",
+                        "慢慢行啦，小心睇路 (maan6 maan2 haang4 laa1, siu2 sam1 tai2 lou6)",
+                        "唔好走 (m4 hou2 zau2)",
+                        "慢慢食 (maan6 maan2 sik6)"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "慢慢行 (maan6 maan2 haang4) 係送客標準關懷禮貌語。"
+                },
+                {
+                    "prompt": "廣東話入面「酸酸地 (syun1 syun2 dei2)」通常用嚟形容咩感覺？",
+                    "options": [
+                        "極度苦澀嘅中藥",
+                        "完全冇味道嘅白開水",
+                        "帶有少少酸味、令人開胃嘅味道",
+                        "非常鹹嘅鹹魚"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "酸酸地表示略帶酸味、清新開胃。"
                 }
             ]
         },
@@ -5936,85 +5974,127 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「形容詞同程度副詞 (Degree & Reduplication)」嘅日常商務與生活習慣（考核 12-1）？",
+                    "prompt": "關於廣東話「AA-地」形容詞重疊結構，下列邊一項說明最準確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (12.1.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (12.1.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (12.1.3)。"
+                        "表示程度極端強烈",
+                        "表示特徵帶有一點點、稍微（如甜甜地、辣辣地），第二個字常變高升調",
+                        "只能用於形容天氣，不能形容食物",
+                        "屬於書面語文言文句式"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "explanation": "AA-地 表達輕微委婉特徵並常伴隨變調。"
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («好靚_12_1»):",
+                    "prompt": "Type the 3-character Hanzi for 'slightly sweet' in Cantonese (甜甜地):",
                     "acceptedAnswers": [
-                        "好靚_12_1"
+                        "甜甜地",
+                        "tim4 tim2 dei2",
+                        "tim4tim2dei2"
                     ],
-                    "explanation": "The target keyword was: 【好靚_12_1】"
+                    "explanation": "甜甜地 (tim4 tim2 dei2) means 'slightly sweet / pleasantly sweet'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u12-l2": {
         "id": "hk-u12-l2",
         "subject": "cantonese",
-        "unit": 12,
-        "lessonNumber": 2,
-        "title": "形容詞重疊同程度副詞 (Adjective Reduplication) (Part 2)",
+        "unit": "hk-u12",
         "level": "B1",
-        "objective": "Comprehensive mastery of 形容詞同程度副詞 (Degree & Reduplication).",
+        "objective": "Master ABB vivid adjective triplication patterns conveying sensory texture, appearance, and physical qualities (白雪雪, 甜椰椰, 肥嘟嘟, 黑鼆鼆, 濕溚溚, 靜雞雞).",
+        "prerequisites": [
+            "hk-u12-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u12-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（形容詞同程度副詞 (Degree & Reduplication) - 第2部分）入面，我哋會探討廣東話嘅核心語用語境同埋形容詞同程度副詞 (Degree & Reduplication)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "廣東話嘅形容詞寶庫入面，最生動、最具畫面感嘅莫過於「**ABB 狀態形容詞**」！佢哋將顏色、觸感、外形同環境描繪得淋漓盡致，喺口語會話入面極受歡迎。\n\n### 🎨 常用 ABB 生動形容詞分類：\n1. **顏色與光影 (Color & Light)**：\n   - **白雪雪 (baak6 syut1 syut1)**：雪白晶瑩、皮膚白嫩（如白雪雪嘅皮膚）。\n   - **黑鼆鼆 (haak1 mang1 mang1)**：黑漆漆、伸手不見五指。\n   - **黃禽禽 (wong4 kam4 kam4)**：黃澄澄、暗黃帶憔悴。\n   - **紅卜卜 (hung4 puk1 puk1)**：紅通通、紅潤（如BB面珠墩紅卜卜）。\n2. **味道與觸感 (Taste & Touch)**：\n   - **甜椰椰 (tim4 je4 je4)**：甜得發膩、甜滋滋。\n   - **滑溜溜 / 滑劣劣 (waat6 lyut1 lyut1)**：滑不溜鰍、極之順滑。\n   - **濕溚溚 (sap1 daap1 daap1)**：潮濕黏膩、濕漉漉（回南天必備詞彙）。\n   - **乾爭爭 (gon1 zaang1 zaang1)**：乾巴巴、毫無水分。\n3. **形態與動作 (Shape & Manner)**：\n   - **肥嘟嘟 (fei4 dyut1 dyut1 / fei4 dyu1 dyu1)**：肥嘟嘟、圓滾滾可愛。\n   - **靜雞雞 (zing6 gai1 gai1)**：偷偷摸摸、靜悄悄地（作副詞用）。",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (12.2.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "個BB塊面肥嘟嘟、紅卜卜，真係好得意！",
+                    "reading": "Go3 bi4 bi1 faai3 min6 fei4 dyut1 dyut1, hung4 puk1 puk1, zan1 hai6 hou2 dak1 ji3!",
+                    "translation": "The baby's cheeks are chubby and rosy, really adorable!"
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (12.2.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "春天回南天成間屋都濕溚溚，地下滑劣劣好容易跣親。",
+                    "reading": "Cung1 tin1 wui4 naam4 tin1 seng4 gaan1 uk1 dou1 sap1 daap1 daap1, dei6 haa2 waat6 lyut1 lyut1 hou2 jung4 ji6 sin2 can1.",
+                    "translation": "During spring humidity (回南天), the entire house is clammy and damp, and the floor is slippery so it's easy to slip."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (12.2.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "條走廊黑鼆鼆乜都睇唔到，行路要小心啲。",
+                    "reading": "Tiu4 zau2 long4 haak1 mang1 mang1 mat1 dou1 tai2 m4 dou2, haang4 lou6 jiu3 siu2 sam1 di1.",
+                    "translation": "The corridor is pitch-black and nothing can be seen; walk carefully."
+                },
+                {
+                    "target": "佢靜雞雞行入房，唔想嘈醒瞓緊覺嘅屋企人。",
+                    "reading": "Keoi5 zing6 gai1 gai1 haang4 jap6 fong2, m4 soeng2 cou4 seng2 fan3 gan2 gaau3 ge3 uk1 kei2 jan4.",
+                    "translation": "He walked quietly into the room, not wanting to wake up the sleeping family."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 形容詞同程度副詞 (Degree & Reduplication)"
+                "ABB Picture Words: fei4 dyut1 dyut1 (chubby cheeks), sap1 daap1 daap1 (clammy humidity), zing6 gai1 gai1 (sneaking like a silent chicken)!",
+                "Spring Weather Alert: When Hong Kong enters 'wui4 naam4 tin1' (humid spring), remember 'sap1 daap1 daap1' (damp) and 'waat6 lyut1 lyut1' (slippery)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "回南天 (Wui4 Naam4 Tin1): A quintessential Southern Chinese meteorological phenomenon in March/April where warm moist maritime air hits cold walls, making everything in homes '濕溚溚 (sap1 daap1 daap1)'.",
+                "Baby Compliments: In Hong Kong, complimenting babies as '肥嘟嘟 (fei4 dyut1 dyut1)' and '白雪雪 (baak6 syut1 syut1)' is universally loved by parents."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「形容詞同程度副詞 (Degree & Reduplication)」喺第2節嘅地道廣東話表達？",
+                    "prompt": "喺春天回南天潮濕天氣，形容屋企地板「濕漉漉、容易滑倒」應選用邊組 ABB 詞彙？",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (12.2.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (12.2.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (12.2.3)。"
+                        "乾爭爭同黑鼆鼆",
+                        "濕溚溚 (sap1 daap1 daap1) 同 滑劣劣 (waat6 lyut1 lyut1)",
+                        "甜椰椰同白雪雪",
+                        "靜雞雞同肥嘟嘟"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "濕溚溚形容潮濕，滑劣劣形容濕滑。"
+                },
+                {
+                    "prompt": "形容走廊「黑漆漆、伸手不見五指」最地道嘅廣東話詞彙係：",
+                    "options": [
+                        "白雪雪 (baak6 syut1 syut1)",
+                        "黑鼆鼆 (haak1 mang1 mang1)",
+                        "紅卜卜 (hung4 puk1 puk1)",
+                        "黃禽禽 (wong4 kam4 kam4)"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "黑鼆鼆專門形容漆黑昏暗。"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「形容詞重疊同程度副詞 (Adjective Reduplication)」語境嘅廣東話完整句子（練習 2）：",
+                    "prompt": "想稱讚小朋友生得「圓潤可愛、臉色紅潤」，最合適嘅廣東話句子係：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (12.2.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (12.2.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (12.2.3)。"
+                        "個小朋友生得黑鼆鼆好恐怖",
+                        "個小朋友塊面肥嘟嘟、紅卜卜，好得意！",
+                        "個小朋友全身乾爭爭好瘦弱",
+                        "個小朋友靜雞雞唔講嘢"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "肥嘟嘟 (chubby) 同 紅卜卜 (rosy) 係讚美嬰兒嘅經典組合。"
+                },
+                {
+                    "prompt": "「靜雞雞 (zing6 gai1 gai1)」喺日常會話中嘅意思係：",
+                    "options": [
+                        "大聲喧嘩吵鬧",
+                        "偷偷摸摸、靜悄悄地行動",
+                        "一隻不會叫的雞",
+                        "去街市買新鮮活雞"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "靜雞雞表示悄悄地、不惹人注意地做事。"
                 }
             ]
         },
@@ -6022,85 +6102,128 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「形容詞同程度副詞 (Degree & Reduplication)」嘅日常商務與生活習慣（考核 12-2）？",
+                    "prompt": "邊個 ABB 詞彙用嚟形容「偷偷摸摸、靜悄悄」做某件事？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (12.2.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (12.2.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (12.2.3)。"
+                        "白雪雪",
+                        "肥嘟嘟",
+                        "靜雞雞 (zing6 gai1 gai1)",
+                        "濕溚溚"
                     ],
                     "answerIndex": 2,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "explanation": "靜雞雞 = quietly / stealthily."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («好靚_12_2»):",
+                    "prompt": "Type the 3-character Hanzi for 'chubby / plump' in Cantonese (肥嘟嘟):",
                     "acceptedAnswers": [
-                        "好靚_12_2"
+                        "肥嘟嘟",
+                        "fei4 dyut1 dyut1",
+                        "fei4dyut1dyut1",
+                        "fei4 dyu1 dyu1"
                     ],
-                    "explanation": "The target keyword was: 【好靚_12_2】"
+                    "explanation": "肥嘟嘟 (fei4 dyut1 dyut1) means 'chubby / pleasantly plump'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u12-l3": {
         "id": "hk-u12-l3",
         "subject": "cantonese",
-        "unit": 12,
-        "lessonNumber": 3,
-        "title": "形容詞重疊同程度副詞 (Adjective Reduplication) (Part 3)",
+        "unit": "hk-u12",
         "level": "B1",
-        "objective": "Comprehensive mastery of 形容詞同程度副詞 (Degree & Reduplication).",
+        "objective": "Master pre-adjectival degree adverbs in Cantonese to modulate intensity across registers (好 hou2, 幾 gei2, 超級 ciu1 kap1, 咁 gam3, 太 taai3).",
+        "prerequisites": [
+            "hk-u12-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u12-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（形容詞同程度副詞 (Degree & Reduplication) - 第3部分）入面，我哋會探討廣東話嘅核心語用語境同埋形容詞同程度副詞 (Degree & Reduplication)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "喺廣東話入面，擺喺形容詞前面嘅**程度副詞**（Pre-adjectival Degree Adverbs）係日常表達強弱度嘅骨幹。熟練掌握佢哋嘅細微語氣階梯，可以令你嘅廣東話更加精準而有層次。\n\n### 📈 廣東話前置程度副詞階梯：\n1. **幾 (gei2) + 形容詞**：相當於 English \"quite / pretty / fairly\"。\n   - 語氣適中，不溫不火，表示「幾好（幾唔錯）」、「幾抵（幾划算）」、「幾靚（幾漂亮）」\n   - 例如：呢間餐廳啲點心**幾好食**喎 (The dim sum here is quite tasty).\n2. **好 (hou2) + 形容詞**：相當於 \"very\"，最通用嘅程度副詞。\n   - 例如：今日天氣**好熱** (It's very hot today).\n3. **咁 (gam3) + 形容詞**：相當於 \"so / this...\"，常用於感嘆或反問。\n   - 例如：點解件衫**咁貴**㗎？(Why is this shirt so expensive?)\n4. **太 (taai3) + 形容詞**：相當於 \"too / overly\"，通常帶有過度、負面語氣。\n   - 例如：碗湯**太鹹**，飲唔落 (The soup is too salty to drink).\n5. **超級 / 極之 (ciu1 kap1 / gik6 zi1) + 形容詞**：相當於 \"super / extremely\"，強調極高程度。\n   - 例如：呢套戲**超級精彩** (This movie is super fantastic)！",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (12.3.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "呢度啲蛋撻幾熱幾脆喎，價錢仲好抵添！",
+                    "reading": "Ni1 dou6 di1 daan6 taat1 gei2 jit6 gei2 ceoi3 wo3, gaa3 cin4 zung6 hou2 dai2 tim1!",
+                    "translation": "The egg tarts here are quite hot and crispy, and the price is also very good value!"
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (12.3.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "今日條街咁多人排隊，間舖頭肯定超級出名。",
+                    "reading": "Gam1 jat6 tiu4 gaai1 gam3 do1 jan4 paai4 deoi2, gaan1 pou3 tau2 hang2 ding6 ciu1 kap1 ceot1 meng2.",
+                    "translation": "With so many people queuing on the street today, that shop must be super famous."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (12.3.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "杯檸檬茶太甜喇，唔該幫我落少啲糖漿。",
+                    "reading": "Bui1 ning4 mung4 caa4 taai3 tim4 laa3, m4 goi1 bong1 ngo5 lok6 siu2 di1 tong4 zoeng1.",
+                    "translation": "This iced lemon tea is too sweet; please add less syrup for me."
+                },
+                {
+                    "target": "新嚟嗰位同事極之勤力，大家都好讚賞佢。",
+                    "reading": "San1 lai4 go2 wai2 tung4 si6 gik6 zi1 kan4 lik6, daai6 gaa1 dou1 hou2 zaan3 soeng2 keoi5.",
+                    "translation": "The newly arrived colleague is extremely diligent, and everyone praises him highly."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 形容詞同程度副詞 (Degree & Reduplication)"
+                "Degree Ladder: 幾 (gei2 - quite) < 好 (hou2 - very) < 咁 (gam3 - so) < 超級 (ciu1 kap1 - super) < 極之 (gik6 zi1 - extremely)!",
+                "幾 (gei2) is Not a Question: When followed by an adjective (幾好, 幾貴), '幾' means 'quite/fairly', NOT 'how many'!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "Hong Kong Modesty with '幾': Hong Kongers often use '幾好 (gei2 hou2)' or '幾唔錯 (gei2 m4 co3)' instead of exaggerated praise, reflecting pragmatic moderation.",
+                "Tea Restaurant Customization: If your drink is '太甜 (taai3 tim4)', you can order future drinks with '少甜 (siu2 tim4 - less sweet)' or '走甜 (zau2 tim4 - no sugar)'."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「形容詞同程度副詞 (Degree & Reduplication)」喺第3節嘅地道廣東話表達？",
+                    "prompt": "當你想表達一件商品「挺便宜、挺划算（quite cheap/fair value）」嗰陣，最地道嘅廣東話係：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (12.3.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (12.3.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (12.3.3)。"
+                        "太貴 (taai3 gwai3)",
+                        "幾抵 (gei2 dai2)",
+                        "完全唔平",
+                        "好難食"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "幾抵 (gei2 dai2) 表達「相當划算/幾划算」。"
+                },
+                {
+                    "prompt": "句子「點解今日咁熱㗎？ (Why is it so hot today?)」入面嘅「咁 (gam3)」相當於邊個英文意思？",
+                    "options": [
+                        "very little",
+                        "so / this much",
+                        "not at all",
+                        "sometimes"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "咁 (gam3) 表示「如此/這麼 (so/this...)」。"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「形容詞重疊同程度副詞 (Adjective Reduplication)」語境嘅廣東話完整句子（練習 3）：",
+                    "prompt": "喺茶餐廳覺得杯飲品「過分甜、難以入口」，向侍應反映時應該話：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (12.3.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (12.3.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (12.3.3)。"
+                        "杯茶好平",
+                        "杯茶太甜喇，唔該少甜 (Bui1 caa4 taai3 tim4 laa3, m4 goi1 siu2 tim4)",
+                        "杯茶超級正",
+                        "杯茶幾好飲"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "太甜 (taai3 tim4) 表達過度甜，少甜 (siu2 tim4) 表達少糖。"
+                },
+                {
+                    "prompt": "下列邊一個副詞表達嘅程度比「好 (hou2)」更加強烈？",
+                    "options": [
+                        "少少 (siu2 siu2)",
+                        "幾 (gei2)",
+                        "超級 (ciu1 kap1)",
+                        "有啲 (jau5 di1)"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "超級 (ciu1 kap1) 表達頂級、超級嘅強烈程度。"
                 }
             ]
         },
@@ -6108,85 +6231,127 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「形容詞同程度副詞 (Degree & Reduplication)」嘅日常商務與生活習慣（考核 12-3）？",
+                    "prompt": "廣東話「幾好食 (gei2 hou2 sik6)」嘅準確意思係：",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (12.3.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (12.3.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (12.3.3)。"
+                        "有多少個食物？",
+                        "相當好吃 / 挺好吃的 (quite tasty)",
+                        "完全不能吃",
+                        "非常難吃"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "幾 (gei2) + 形容詞表示「相當/挺... (quite...)」。"
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («好靚_12_3»):",
+                    "prompt": "Type the 2-character Hanzi for 'super / extremely' in Cantonese (超級):",
                     "acceptedAnswers": [
-                        "好靚_12_3"
+                        "超級",
+                        "ciu1 kap1",
+                        "ciu1kap1"
                     ],
-                    "explanation": "The target keyword was: 【好靚_12_3】"
+                    "explanation": "超級 (ciu1 kap1) means 'super / extremely'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u12-l4": {
         "id": "hk-u12-l4",
         "subject": "cantonese",
-        "unit": 12,
-        "lessonNumber": 4,
-        "title": "形容詞重疊同程度副詞 (Adjective Reduplication) (Part 4)",
+        "unit": "hk-u12",
         "level": "B1",
-        "objective": "Comprehensive mastery of 形容詞同程度副詞 (Degree & Reduplication).",
+        "objective": "Master post-adjectival degree complements expressing extreme conditions (到爆 dou3 baau3, 到暈 dou3 wan4, 極/極之 gik6/gik6 zi1, 滯 zai6).",
+        "prerequisites": [
+            "hk-u12-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u12-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（形容詞同程度副詞 (Degree & Reduplication) - 第4部分）入面，我哋會探討廣東話嘅核心語用語境同埋形容詞同程度副詞 (Degree & Reduplication)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "除咗前置副詞，廣東話最具地道色彩嘅係**後置程度補語**（Post-adjectival Degree Complements）！將補語接喺形容詞後面，可以將情緒、誇張感同衝擊力推到最高峰。\n\n### 💥 廣東話核心後置程度補語：\n1. **形容詞 + 到爆 (dou3 baau3)**：相當於 \"explosively / to the absolute max\"。\n   - 形容某種狀態強烈到好似要爆炸一樣，年輕人同日常對話極度常用！\n   - **平到爆 (peng4 dou3 baau3)**：便宜到爆炸、超抵。\n   - **開心到爆 (hoi1 sam1 dou3 baau3)**：開心到極點。\n   - **悶到爆 (mun6 dou3 baau3)**：無聊透頂。\n2. **形容詞 + 到暈 (dou3 wan4)**：相當於 \"ridiculously / to dizziness\"。\n   - 表示某種狀態多到或者強烈到令人頭暈目眩。\n   - **忙到暈 (mong4 dou3 wan4)**：忙得團團轉、忙到暈頭轉向。\n   - **痛到暈 (tung3 dou3 wan4)**：痛得要命。\n3. **形容詞 + 得滯 (dak1 zai6 / zai6)**：相當於 \"too / excessively (to excess)\"。\n   - 表示過分、超出了適當限度，多帶困擾或負面語氣。\n   - **食得飽得滯 (sik6 dak1 baau2 dak1 zai6)**：吃得太撐了。\n   - **貴得滯 (gwai3 dak1 zai6)**：太貴了點。\n   - **夜得滯 (je6 dak1 zai6)**：時間太晚了。\n4. **形容詞 + 極 (gik6) / 極之**：相當於 \"to the utmost / extremely\"。\n   - **高興極 (gou1 hing3 gik6)** / **精彩極 (zing1 coi2 gik6)**。",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (12.4.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "呢間舖頭清貨大減價，啲衫平到爆，全場幾十蚊一件！",
+                    "reading": "Ni1 gaan1 pou3 tau2 cing1 fo3 daai6 gaam2 gaa3, di1 saam1 peng4 dou3 baau3, cyun4 coeng4 gei2 sap6 man1 jat1 gin6!",
+                    "translation": "This shop is having a clearance sale; the clothes are explosively cheap, only a few tens of dollars apiece storewide!"
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (12.4.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "我今個禮拜返工忙到暈，連食晏晝飯嘅時間都冇。",
+                    "reading": "Ngo5 gam1 go3 lai5 baai3 faan1 gung1 mong4 dou3 wan4, lin4 sik6 aan3 zau3 faan6 ge3 si4 gaan3 dou1 mou5.",
+                    "translation": "I've been dizzily busy at work this week, not even having time for lunch."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (12.4.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "頭先食咗兩大碗飯，飽得滯行唔郁添。",
+                    "reading": "Tau4 sin1 sik6 zo2 loeng5 daai6 wun2 faan6, baau2 dak1 zai6 haang4 m4 juk1 tim1.",
+                    "translation": "I just ate two big bowls of rice and am overly stuffed to the point of barely being able to walk."
+                },
+                {
+                    "target": "尋晚場演唱會氣氛熱烈到爆，全場觀眾一齊合唱！",
+                    "reading": "Cam4 maan5 coeng4 jin2 coeng3 wui2 hei3 fan1 jit6 lit6 dou3 baau3, cyun4 coeng4 gun1 zung3 jat1 cai4 hap6 coeng3!",
+                    "translation": "Last night's concert atmosphere was explosively passionate, with the whole audience singing along together!"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 形容詞同程度副詞 (Degree & Reduplication)"
+                "Post-Adjective Fireworks: 到爆 (dou3 baau3 = exploding with joy/value), 到暈 (dou3 wan4 = dizzy with work/pain), 得滯 (dak1 zai6 = uncomfortably excessive)!",
+                "得滯 (dak1 zai6): Always signals excess — if you ate too much dim sum, say '飽得滯 (baau2 dak1 zai6)'!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "Expressive Hyperbole: Cantonese speakers love high-energy descriptive idioms. Using '平到爆 (peng4 dou3 baau3)' while shopping or '忙到暈 (mong4 dou3 wan4)' in office banter sounds immediately natural and lively.",
+                "Digestion Etiquette: Saying '食得飽得滯 (sik6 dak1 baau2 dak1 zai6)' at the end of a meal politely signals to hosts that their hospitality was generous and you couldn't possibly eat another bite."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「形容詞同程度副詞 (Degree & Reduplication)」喺第4節嘅地道廣東話表達？",
+                    "prompt": "想形容商場清貨特價「價格超級便宜、令人驚喜」，最傳神嘅廣東話係：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (12.4.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (12.4.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (12.4.3)。"
+                        "平到爆 (peng4 dou3 baau3)",
+                        "貴到暈",
+                        "完全唔平",
+                        "悶到爆"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "平到爆 (peng4 dou3 baau3) 表示便宜到極致。"
+                },
+                {
+                    "prompt": "返工工作量極大、忙得團團轉，廣東話習慣話：",
+                    "options": [
+                        "得閒到爆",
+                        "忙到暈 (mong4 dou3 wan4)",
+                        "冷得滯",
+                        "甜椰椰"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "忙到暈形容極度忙碌。"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「形容詞重疊同程度副詞 (Adjective Reduplication)」語境嘅廣東話完整句子（練習 4）：",
+                    "prompt": "食飯食得太飽、肚脹唔舒服，應該點講？",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (12.4.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (12.4.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (12.4.3)。"
+                        "肚餓到暈",
+                        "飽得滯 (baau2 dak1 zai6)",
+                        "辣到爆",
+                        "酸溜溜"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "飽得滯表示吃得過飽、太撐。"
+                },
+                {
+                    "prompt": "「到爆 (dou3 baau3)」後置補語喺廣東話入面通常用嚟表示：",
+                    "options": [
+                        "某種狀態達到爆炸般的極端程度",
+                        "完全沒有任何感覺",
+                        "東西真的炸開了",
+                        "只有小孩子才能用"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "到爆係強烈誇張補語，表示極致強烈。"
                 }
             ]
         },
@@ -6194,85 +6359,128 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「形容詞同程度副詞 (Degree & Reduplication)」嘅日常商務與生活習慣（考核 12-4）？",
+                    "prompt": "句子「我今晚忙到暈」表示說話者：",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (12.4.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (12.4.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (12.4.3)。"
+                        "頭暈生病去看醫生",
+                        "極度忙碌、忙到團團轉 (dizzily busy)",
+                        "完全沒事做很無聊",
+                        "已經睡著了"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "explanation": "忙到暈 = extremely busy."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («好靚_12_4»):",
+                    "prompt": "Type the 3-character Hanzi for 'explosively cheap' in Cantonese (平到爆):",
                     "acceptedAnswers": [
-                        "好靚_12_4"
+                        "平到爆",
+                        "peng4 dou3 baau3",
+                        "peng4dou3baau3"
                     ],
-                    "explanation": "The target keyword was: 【好靚_12_4】"
+                    "explanation": "平到爆 (peng4 dou3 baau3) means 'explosively cheap'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u12-l5": {
         "id": "hk-u12-l5",
         "subject": "cantonese",
-        "unit": 12,
-        "lessonNumber": 5,
-        "title": "形容詞重疊同程度副詞 (Adjective Reduplication) (Part 5)",
+        "unit": "hk-u12",
         "level": "B1",
-        "objective": "Comprehensive mastery of 形容詞同程度副詞 (Degree & Reduplication).",
+        "objective": "Synthesize AA-地, ABB patterns, pre-adjectival degree adverbs, and post-adjectival complements in food critiques, weather descriptions, and social observations.",
+        "prerequisites": [
+            "hk-u12-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u12-l1",
+                "hk-u12-l2",
+                "hk-u12-l3",
+                "hk-u12-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（形容詞同程度副詞 (Degree & Reduplication) - 第5部分）入面，我哋會探討廣東話嘅核心語用語境同埋形容詞同程度副詞 (Degree & Reduplication)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "喺呢個單元嘅綜合總結課入面，我哋會將 **AA-地 (Diminutive)**、**ABB (Vivid Triplication)**、**前置副詞 (好/幾/咁/超級)** 以及 **後置補語 (到爆/到暈/得滯)** 融會貫通，應用喺真實嘅生活點評、美食評論同社交互動之中！\n\n### 🍲 實用綜合語境示範：\n1. **茶餐廳食評 (Food Critique)**：\n   - 「呢碟咕嚕肉酸酸地、甜甜地好開胃，但係食得太多就會覺得**甜得滯**。」\n   - 「啲菠蘿包啱啱出爐熱辣辣，個皮脆到爆，真係超級正！」\n2. **天氣與生活感受 (Weather & Daily Life)**：\n   - 「春天回南天全屋**濕溚溚**，地下**滑劣劣**，出門要**慢慢行**。」\n   - 「出面條街黑鼆鼆仲落緊大雨，行人都**忙到暈**咁搵地方避雨。」\n3. **社交評價 (Social Comments)**：\n   - 「個BB塊面**肥嘟嘟**、**紅卜卜**，見到佢**開心到爆**！」",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (12.5.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "呢間茶餐廳嘅凍檸茶酸酸地、甜甜地好解渴，而且價錢平到爆！",
+                    "reading": "Ni1 gaan1 caa4 caan1 teng1 ge3 dung3 ning4 caa4 syun1 syun2 dei2, tim4 tim2 dei2 hou2 gaai2 hot3, ji4 ce2 gaa3 cin4 peng4 dou3 baau3!",
+                    "translation": "The iced lemon tea at this cha chaan teng is nicely tangy and slightly sweet, very thirst-quenching, and the price is explosively cheap!"
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (12.5.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "回南天地下滑劣劣，你出門口行路一定要慢慢行呀。",
+                    "reading": "Wui4 naam4 tin1 dei6 haa2 waat6 lyut1 lyut1, nei5 ceot1 mun4 hau2 haang4 lou6 jat1 ding6 jiu3 maan6 maan2 haang4 aa3.",
+                    "translation": "During spring humidity the floor is slippery; when going out you must walk slowly and carefully."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (12.5.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "今日全公司忙到暈，好彩老細請大家食熱辣辣嘅新鮮蛋撻。",
+                    "reading": "Gam1 jat6 cyun4 gung1 si1 mong4 dou3 wan4, hou2 coi2 lou5 sai3 cing2 daai6 gaa1 sik6 jit6 laat6 laat6 ge3 san1 sin1 daan6 taat1.",
+                    "translation": "The whole company was dizzily busy today; luckily the boss treated everyone to piping hot fresh egg tarts."
+                },
+                {
+                    "target": "今晚食咗好多海鮮，飽得滯要出去散步消化下。",
+                    "reading": "Gam1 maan5 sik6 zo2 hou2 do1 hoi2 sin1, baau2 dak1 zai6 jiu3 ceot1 heoi3 saan3 bou6 siu1 faa3 haa5.",
+                    "translation": "I ate a lot of seafood tonight and am too full, so I need to go out for a walk to digest."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 形容詞同程度副詞 (Degree & Reduplication)"
+                "Mastery Formula: Blend AA-地 (taste nuance) + ABB (visual texture) + 到爆 (high intensity) for authentic Cantonese fluency!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "The Cantonese Art of Food Description: Hong Kong people are world-renowned food lovers (吃貨). Being able to describe dishes with nuanced terms like '酸酸地', '熱辣辣', '脆到爆', and '甜得滯' is the true mark of cultural fluency."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「形容詞同程度副詞 (Degree & Reduplication)」喺第5節嘅地道廣東話表達？",
+                    "prompt": "想全面讚賞一間餐廳「點心微溫淡甜（酸酸地/甜甜地）、出爐熱辣辣、價錢超便宜（平到爆）」，邊句最地道？",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (12.5.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (12.5.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (12.5.3)。"
+                        "呢間餐廳點心甜甜地、熱辣辣，價錢仲平到爆添！",
+                        "呢度啲嘢食難食到爆，又貴得滯",
+                        "我唔想去呢間餐廳食嘢",
+                        "今日天氣好熱"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "完美融合 AA-地、ABB 同 到爆 等單元核心知識點。"
+                },
+                {
+                    "prompt": "當朋友請你食大餐，你食得好飽想禮貌表達「太撐了不能再吃」，最合適嘅係：",
+                    "options": [
+                        "仲好肚餓",
+                        "真係飽得滯喇，多謝你請客！ (Zan1 hai6 baau2 dak1 zai6 laa3, do1 ze6 nei5 cing2 haak3!)",
+                        "我完全冇食過",
+                        "呢碟餸太難食"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "飽得滯禮貌表達已經吃得過飽，不能再吃。"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「形容詞重疊同程度副詞 (Adjective Reduplication)」語境嘅廣東話完整句子（練習 5）：",
+                    "prompt": "「回南天天氣濕溚溚，行路要慢慢行」呢句話主要提醒人哋注意咩？",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (12.5.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (12.5.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (12.5.3)。"
+                        "天氣太乾燥要多喝水",
+                        "潮濕天氣地板濕滑，行走需要從容小心防滑倒",
+                        "天氣太冷要穿厚衣服",
+                        "請大家快點跑步"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "濕溚溚 (damp) 同 慢慢行 (walk slowly) 提醒防滑。"
+                },
+                {
+                    "prompt": "「忙到暈 (mong4 dou3 wan4)」同「開心到爆 (hoi1 sam1 dou3 baau3)」展示咗廣東話邊種語法特點？",
+                    "options": [
+                        "形容詞後置極端程度補語",
+                        "名詞複數變化",
+                        "動詞完成體",
+                        "代詞所有格"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "到暈同到爆均為後置程度補語。"
                 }
             ]
         },
@@ -6280,24 +6488,29 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「形容詞同程度副詞 (Degree & Reduplication)」嘅日常商務與生活習慣（考核 12-5）？",
+                    "prompt": "下列邊一句廣東話最地道咁總結咗「美食評論 + 程度感受」？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (12.5.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (12.5.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (12.5.3)。"
+                        "呢碗糖水甜甜地好滋潤，而且價錢平到爆！",
+                        "今天星期一我去上班了",
+                        "他在房間裡面睡覺",
+                        "這是一本中文書"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "結合咗 AA-地 (甜甜地) 同 到爆 (平到爆)。"
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («好靚_12_5»):",
+                    "prompt": "Type the 3-character Hanzi for 'overly full / too stuffed' in Cantonese (飽得滯):",
                     "acceptedAnswers": [
-                        "好靚_12_5"
+                        "飽得滯",
+                        "baau2 dak1 zai6",
+                        "baau2dak1zai6",
+                        "baau2 zai6"
                     ],
-                    "explanation": "The target keyword was: 【好靚_12_5】"
+                    "explanation": "飽得滯 (baau2 dak1 zai6) means 'overly full / too stuffed'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u13-l1": {
