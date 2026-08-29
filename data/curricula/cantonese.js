@@ -4887,63 +4887,69 @@
     },
     "hk-u10-l1": {
         "id": "hk-u10-l1",
-        "subject": "cantonese",
-        "unit": 10,
-        "lessonNumber": 1,
-        "title": "買嘢同街市討價還價 (Shopping & Bargaining) (Part 1)",
+        "unit": "hk-u10",
         "level": "A2",
-        "objective": "Comprehensive mastery of 街市買餸同問價錢 (Shopping & Bargaining).",
+        "objective": "Master market price inquiries (幾多錢一斤), traditional Cantonese weight units (斤, 兩, 磅), and currency units (蚊, 毫子).",
+        "prerequisites": [
+            "hk-u9-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u9-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（街市買餸同問價錢 (Shopping & Bargaining) - 第1部分）入面，我哋會探討廣東話嘅核心語用語境同埋街市買餸同問價錢 (Shopping & Bargaining)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "去香港或廣州嘅傳統「街市 (gaai1 si5)」買餸，第一步係要學識問價錢同睇懂傳統重量單位！\n\n1. 問價句式 (Price Inquiry Patterns):\n- **「請問……幾多錢一斤呀？」** (How much is ... per catty?)\n- **「呢啲……點樣賣呀？」** (How are these ... sold?)\n- **「幾多蚊一磅呀？」** (How many dollars per pound?)\n\n2. 嶺南傳統重量單位 (Traditional Weight Units):\n- **斤 (gan1)**：Catty（廣東/香港司馬斤，1斤 = 16兩 = 604.8克，俗語話「半斤八兩」）。\n- **兩 (loeng2)**：Tael（1兩 = 約37.8克，常用於中藥材、海味及貴價海鮮）。\n- **磅 (bong6)**：Pound（香港受英制影響，水果及洋貨多以磅計，1磅 = 453.6克）。\n- **蚊 (man1)**：港幣「元」嘅口語（例如：十蚊 = 10元）。",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (10.1.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "老細，請問今日啲菜心幾多錢一斤呀？",
+                    "reading": "lou5 sai3, cing2 man6 gam1 jat6 di1 coi3 sam1 gei2 do1 cin2 jat1 gan1 aa3?",
+                    "translation": "Boss, may I ask how much per catty is the choy sum today?"
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (10.1.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "呢啲新鮮大花蛤三十蚊一斤，買兩斤送多兩條蔥畀你！",
+                    "reading": "ni1 di1 san1 sin1 daai6 faa1 gap3 saam1 sap6 man1 jat1 gan1, maai5 loeng5 gan1 sung3 do1 loeng5 tiu4 cung1 bei2 nei5!",
+                    "translation": "These fresh big clams are thirty dollars per catty; buy two catties and I'll give you a couple stalks of green onions for free!"
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (10.1.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "唔該幫我秤兩斤富士蘋果同埋一磅進口車厘子。",
+                    "reading": "m4 goi1 bong1 ngo5 cing3 loeng5 gan1 fu3 si6 ping4 gwo2 tung4 maai4 jat1 bong6 zeon3 hau2 ce1 lei4 zi2.",
+                    "translation": "Please help me weigh two catties of Fuji apples and one pound of imported cherries."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 街市買餸同問價錢 (Shopping & Bargaining)"
+                "Market Weighing Formula: 物品(Goods) + 幾多錢(How much) + 量詞(斤/磅) = 問價利器!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "The famous Cantonese idiom «半斤八兩» (bun3 gan1 baat3 loeng2 - half catty is eight taels) reflects the ancient 16-tael system, meaning two things are completely equal or six of one and half a dozen of the other."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「街市買餸同問價錢 (Shopping & Bargaining)」喺第1節嘅地道廣東話表達？",
+                    "prompt": "喺街市菜檔詢問檔主「菜心多少錢一斤」，最地道標準的廣東話句子是：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (10.1.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (10.1.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (10.1.3)。"
+                        "菜心幾多錢一斤呀？ (coi3 sam1 gei2 do1 cin2 jat1 gan1 aa3?)",
+                        "菜心多少錢一斤？",
+                        "菜心賣多少？"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "幾多錢一斤呀 is the standard Cantonese price inquiry for weighed items."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「買嘢同街市討價還價 (Shopping & Bargaining)」語境嘅廣東話完整句子（練習 1）：",
+                    "prompt": "廣東傳統俗語「半斤八兩」體現了香港傳統司馬斤中「一斤等於多少兩」的計量標準：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (10.1.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (10.1.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (10.1.3)。"
+                        "十兩",
+                        "十六兩 (16 taels per catty)",
+                        "八兩"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "1 司馬斤 = 16 兩 (hence 半斤 = 8兩)."
                 }
             ]
         },
@@ -4951,85 +4957,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「街市買餸同問價錢 (Shopping & Bargaining)」嘅日常商務與生活習慣（考核 10-1）？",
+                    "prompt": "關於廣東傳統街市問價句型（幾多錢一斤）與度量衡單位（斤/兩/磅/蚊），下列哪一項表述完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (10.1.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (10.1.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (10.1.3)。"
+                        "街市買餸只能用英文問價",
+                        "問價標準句型為「幾多錢一斤/磅」；香港口語以「蚊」表元，計重沿用一斤十六兩之司馬斤制與英制磅 (Standard inquiry is gei2 do1 cin2 jat1 gan1; uses man1 for currency, 16-tael catties & pounds)",
+                        "一斤在廣東話中等於一百兩"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "Accurately frames the linguistic and metric realities of Cantonese wet markets."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («買餸_10_1»):",
+                    "prompt": "Type the 5-character Hanzi phrase for 'how much per catty?' in Cantonese (幾多錢一斤):",
                     "acceptedAnswers": [
-                        "買餸_10_1"
+                        "幾多錢一斤",
+                        "gei2do1cin2jat1gan1",
+                        "gei2 do1 cin2 jat1 gan1",
+                        "Gei2 do1 cin2 jat1 gan1",
+                        "Gei2do1cin2jat1gan1",
+                        "几多钱一斤"
                     ],
-                    "explanation": "The target keyword was: 【買餸_10_1】"
+                    "explanation": "幾多錢一斤 (gei2 do1 cin2 jat1 gan1) means 'how much per catty?' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u10-l2": {
         "id": "hk-u10-l2",
-        "subject": "cantonese",
-        "unit": 10,
-        "lessonNumber": 2,
-        "title": "買嘢同街市討價還價 (Shopping & Bargaining) (Part 2)",
+        "unit": "hk-u10",
         "level": "A2",
-        "objective": "Comprehensive mastery of 街市買餸同問價錢 (Shopping & Bargaining).",
+        "objective": "Master polite bargaining techniques, discount requests (平啲啦, 計平少少), and rounding sums (計齊頭).",
+        "prerequisites": [
+            "hk-u10-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u10-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（街市買餸同問價錢 (Shopping & Bargaining) - 第2部分）入面，我哋會探討廣東話嘅核心語用語境同埋街市買餸同問價錢 (Shopping & Bargaining)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "喺街市或者排檔買嘢，適度講價唔單止可以慳錢，仲係一種充滿人情味嘅互動！\n\n1. 講價必備實用句式 (Essential Bargaining Phrases):\n- **「老細，平啲啦！」** (Boss, make it a bit cheaper!)\n- **「可唔可以計平少少呀？」** (Can you calculate it a bit cheaper?)\n- **「我買咁多，算平啲啦！」** (I'm buying so much, give me a discount!)\n- **「計齊頭五十蚊得唔得呀？」** (Can we round it to an even 50 dollars?)\n\n2. 檔主常用回應話術 (Vendor Responses):\n- **「真係好抵喇，蝕本賣畀你㗎！」** (It's already a bargain, selling at a loss to you!)\n- **「好啦好啦，算你平兩蚊啦！」** (Alright alright, I'll take off two dollars for you!)\n- **「送幾條蔥同兩粒蒜頭畀你啦！」** (I'll throw in some scallions and two cloves of garlic for you!)",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (10.2.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "老細，我買咗咁大條石斑，計齊頭一百八十蚊啦，平啲啦！",
+                    "reading": "lou5 sai3, ngo5 maai5 zo2 gam3 daai6 tiu4 sek6 baan1, gai3 cai4 tau4 jat1 baak3 baat3 sap6 man1 laa1, peng4 di1 laa1!",
+                    "translation": "Boss, I bought such a big grouper, round it to an even 180 dollars, make it cheaper!"
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (10.2.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "呢件衫質地雖然好，但三十蚊真係貴咗少少，二十五蚊賣唔賣呀？",
+                    "reading": "ni1 gin6 saam1 zat1 dei6 seoi1 jin4 hou2, daan6 saam1 sap6 man1 zan1 hai6 gwai3 zo2 siu2 siu2, ji6 sap6 ng5 man1 maai6 m4 maai6 aa3?",
+                    "translation": "The material of this shirt is good, but thirty dollars is really a bit expensive; will you sell it for twenty-five?"
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (10.2.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "行過路過唔好錯過，全場大減價，買一送一，好抵買㗎！",
+                    "reading": "haang4 gwo3 lou6 gwo3 m4 hou2 co3 gwo3, cyun4 coeng4 daai6 gaam2 gaa3, maai5 jat1 sung3 jat1, hou2 dai2 maai5 gaa3!",
+                    "translation": "Passing by don't miss out, whole store big sale, buy one get one free, great bargain!"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 街市買餸同問價錢 (Shopping & Bargaining)"
+                "Bargaining Step: 讚品質(Good item) -> 話貴少少(Bit pricey) -> 平啲啦(Cheaper please) -> 計齊頭(Round figure)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "In Hong Kong street stalls («女人街 Ladies' Market» / «鴨寮街 Apliu Street»), lighthearted bargaining is expected; maintaining a polite smile with «平啲啦靚仔/靚女» often wins the best discount."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「街市買餸同問價錢 (Shopping & Bargaining)」喺第2節嘅地道廣東話表達？",
+                    "prompt": "向檔主請求「算便宜一點 / 便宜一點啦」，最常用地道的廣東話短語是：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (10.2.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (10.2.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (10.2.3)。"
+                        "貴啲啦",
+                        "平啲啦 (peng4 di1 laa1 - Make it a bit cheaper)",
+                        "多啲啦"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "平啲啦 (peng4 di1 laa1) is the quintessential Cantonese phrase for asking for a lower price."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「買嘢同街市討價還價 (Shopping & Bargaining)」語境嘅廣東話完整句子（練習 2）：",
+                    "prompt": "買菜總計52元，向老闆提議「抹去零頭算整數50元」，廣東話稱作：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (10.2.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (10.2.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (10.2.3)。"
+                        "計齊頭五十蚊 (gai3 cai4 tau4 ng5 sap6 man1 - Round to an even 50 dollars)",
+                        "計多啲",
+                        "唔使找錢"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "計齊頭 (gai3 cai4 tau4) means to round off the odd change to a clean integer."
                 }
             ]
         },
@@ -5037,85 +5055,98 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「街市買餸同問價錢 (Shopping & Bargaining)」嘅日常商務與生活習慣（考核 10-2）？",
+                    "prompt": "關於廣東話中討價還價的核心用語（平啲啦、計齊頭、好抵買），下列哪一項表述完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (10.2.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (10.2.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (10.2.3)。"
+                        "「平啲啦」用來要求便宜一點，「計齊頭」指湊整抹去零頭，「抵買」表示性價比高划算 (peng4 di1 laa1 requests discounts, gai3 cai4 tau4 rounds to even numbers, dai2 maai5 means great value)",
+                        "「平啲啦」在廣東話中表示叫老闆快點走",
+                        "街市討價還價必須嚴肅爭吵"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "explanation": "Accurately explains the semantics and practical tone of bargaining."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («買餸_10_2»):",
+                    "prompt": "Type the 3-character Hanzi phrase for 'make it cheaper / a bit cheaper' in Cantonese (平啲啦):",
                     "acceptedAnswers": [
-                        "買餸_10_2"
+                        "平啲啦",
+                        "peng4di1laa1",
+                        "peng4 di1 laa1",
+                        "Peng4 di1 laa1",
+                        "Peng4di1laa1",
+                        "平点啦",
+                        "平啲喇"
                     ],
-                    "explanation": "The target keyword was: 【買餸_10_2】"
+                    "explanation": "平啲啦 (peng4 di1 laa1) means 'make it cheaper' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u10-l3": {
         "id": "hk-u10-l3",
-        "subject": "cantonese",
-        "unit": 10,
-        "lessonNumber": 3,
-        "title": "買嘢同街市討價還價 (Shopping & Bargaining) (Part 3)",
+        "unit": "hk-u10",
         "level": "A2",
-        "objective": "Comprehensive mastery of 街市買餸同問價錢 (Shopping & Bargaining).",
+        "objective": "Master vocabulary for selecting groceries and evaluating quality: 游水海鮮 (live seafood), 新鮮 (fresh), 靚 (high-grade), and 熟/爛.",
+        "prerequisites": [
+            "hk-u10-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u10-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（街市買餸同問價錢 (Shopping & Bargaining) - 第3部分）入面，我哋會探討廣東話嘅核心語用語境同埋街市買餸同問價錢 (Shopping & Bargaining)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "廣東人對食材嘅「鮮味」有極高要求，買餸嗰陣點樣形容品質好壞係必備功夫！\n\n1. 食材品質與新鮮度詞彙 (Produce Quality Lexicon):\n- **游水海鮮 (jau4 seoi2 hoi2 sin1)**：Live swimming seafood（活魚、活蝦、活蟹，代表最頂級新鮮度）。\n- **好靚 (hou2 leng3)**：Very good quality / gorgeous produce（廣東話形容蔬菜肉類新鮮靚麗）。\n- **好甜 (hou2 tim4)**：Very sweet (如水果、蔬菜)。\n- **啱啱熟 (ngaam1 ngaam1 suk6)**：Just ripe / perfectly mature。\n- **爛 (laan6)**：Bruised / spoiled / rotten。\n\n2. 挑選與叮囑句型 (Selection Instructions):\n- **「老細，幫我揀幾條最靚嘅青瓜。」** (Boss, help me pick a few of the best cucumbers.)\n- **「啲魚生猛唔生猛呀？」** (Are the fish lively and fresh?)\n- **「千祈唔好畀啲爛嘅我喎！」** (Make sure not to give me any bruised ones!)",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (10.3.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "呢缸蝦全部都係游水海鮮，隻隻都好生猛跳跳紮！",
+                    "reading": "ni1 gong1 haa1 cyun4 bou6 dou1 hai6 jau4 seoi2 hoi2 sin1, zek3 zek3 dou1 hou2 sang1 maang5 tiu3 tiu3 zaat3!",
+                    "translation": "This tank of shrimp are all live swimming seafood, every single one is very lively and leaping around!"
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (10.3.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "今日啲番茄好靚好紅，用嚟滾番茄牛肉湯一定好鮮甜。",
+                    "reading": "gam1 jat6 di1 faan1 ke2 hou2 leng3 hou2 hung4, jung6 lei4 gwan2 faan1 ke2 ngau4 juk6 tong1 jat1 ding6 hou2 sin1 tim4.",
+                    "translation": "The tomatoes today are very gorgeous and red; boiling tomato beef soup with them will definitely be very fresh and sweet."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (10.3.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "呢批芒果啱啱熟，返去擺多一日就可以切嚟食。",
+                    "reading": "ni1 pai1 mong1 gwo2 ngaam1 ngaam1 suk6, faan1 heoi3 baai2 do1 jat1 jat6 zau6 ho2 ji5 cit3 lei4 sik6.",
+                    "translation": "This batch of mangoes is just ripe; leave them for one more day at home and you can slice them to eat."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 街市買餸同問價錢 (Shopping & Bargaining)"
+                "Freshness Checklist: 游水(Swimming lively) -> 生猛(Vigorous) -> 靚皮(Pretty skin) -> 鮮甜(Fresh & sweet)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "«游水» (swimming) specifically denotes live fish/crabs kept in oxygenated tanks at markets and restaurants, a hallmark of Cantonese cuisine's obsession with pristine freshness."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「街市買餸同問價錢 (Shopping & Bargaining)」喺第3節嘅地道廣東話表達？",
+                    "prompt": "廣東人形容海鮮檔水箱中鮮活活跳、最頂級新鮮的海鮮，專用詞彙是：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (10.3.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (10.3.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (10.3.3)。"
+                        "雪藏海鮮",
+                        "游水海鮮 (jau4 seoi2 hoi2 sin1 - Live swimming seafood)",
+                        "冰鮮海鮮"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "游水海鮮 (jau4 seoi2 hoi2 sin1) specifies lively swimming seafood."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「買嘢同街市討價還價 (Shopping & Bargaining)」語境嘅廣東話完整句子（練習 3）：",
+                    "prompt": "在菜市場誇讚蔬菜新鮮優質，廣東話最常用的精煉形容詞是：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (10.3.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (10.3.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (10.3.3)。"
+                        "好靚 (hou2 leng3 - Very good quality / fresh / nice)",
+                        "好長",
+                        "好大聲"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "好靚 (hou2 leng3) is ubiquitously used to praise the visual appeal and quality of fresh food."
                 }
             ]
         },
@@ -5123,85 +5154,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「街市買餸同問價錢 (Shopping & Bargaining)」嘅日常商務與生活習慣（考核 10-3）？",
+                    "prompt": "關於廣東飲食文化中評價食材品質與新鮮度（游水海鮮、生猛、好靚、啱啱熟）的用語，下列哪一項表述完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (10.3.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (10.3.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (10.3.3)。"
+                        "廣東人買海鮮只喜歡冰凍很久的死魚",
+                        "「生猛」在廣東話中是凶猛野獸的意思",
+                        "「游水海鮮」指活生生養在水箱的海鮮，「生猛」形容活力充沛，「靚」形容食材品質上乘 (jau4 seoi2 hoi2 sin1 means live swimming seafood, sang1 maang5 means lively, leng3 means top quality)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "Accurately articulates the vocabulary of freshness in Cantonese food shopping."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («買餸_10_3»):",
+                    "prompt": "Type the 4-character Hanzi phrase for 'live swimming seafood' in Cantonese (游水海鮮):",
                     "acceptedAnswers": [
-                        "買餸_10_3"
+                        "游水海鮮",
+                        "jau4seoi2hoi2sin1",
+                        "jau4 seoi2 hoi2 sin1",
+                        "Jau4 seoi2 hoi2 sin1",
+                        "Jau4seoi2hoi2sin1",
+                        "游水海鲜"
                     ],
-                    "explanation": "The target keyword was: 【買餸_10_3】"
+                    "explanation": "游水海鮮 (jau4 seoi2 hoi2 sin1) means 'live swimming seafood' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u10-l4": {
         "id": "hk-u10-l4",
-        "subject": "cantonese",
-        "unit": 10,
-        "lessonNumber": 4,
-        "title": "買嘢同街市討價還價 (Shopping & Bargaining) (Part 4)",
+        "unit": "hk-u10",
         "level": "A2",
-        "objective": "Comprehensive mastery of 街市買餸同問價錢 (Shopping & Bargaining).",
+        "objective": "Master payment transactions: cash counting, giving change (找返 / 找錢), small change (散銀), and electronic payments (八達通, 電子支付).",
+        "prerequisites": [
+            "hk-u10-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u10-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（街市買餸同問價錢 (Shopping & Bargaining) - 第4部分）入面，我哋會探討廣東話嘅核心語用語境同埋街市買餸同問價錢 (Shopping & Bargaining)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "買完嘢結算嗰陣，廣東話有一套清晰地道嘅收銀找續詞彙！\n\n1. 找續與現金用語 (Cash & Change Terminology):\n- **畀錢 (bei2 cin2)**：Pay money。\n- **找錢 (zaau2 cin2)**：Give change。\n- **找返……蚊 (zaau2 faan1 ... man1)**：Give back ... dollars in change (例如：收你一百蚊，找返三十蚊)。\n- **散銀 / 散紙 (saan2 ngan2 / saan2 zi2)**：Coins / small bills。\n- **唔該畀散紙啦 (m4 goi1 bei2 saan2 zi2 laa1)**：Please give small change。\n\n2. 電子支付與問法 (Electronic Payment Options):\n- **「請問收唔收八達通呀？」** (Do you accept Octopus card?)\n- **「我用手機掃碼畀錢得唔得呀？」** (Can I scan QR code with my phone to pay?)\n- **「可唔可以畀張單我呀？」** (Could you give me a receipt?)",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (10.4.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "收你五百蚊大紙，扣除一百三十五蚊，找返三百六十五蚊畀你。",
+                    "reading": "sau1 nei5 ng5 baak3 man1 daai6 zi2, kau3 ceoi4 jat1 baak3 saam1 sap6 ng5 man1, zaau2 faan1 saam1 baak3 luk6 sap6 ng5 man1 bei2 nei5.",
+                    "translation": "Received your 500-dollar big bill, deducting 135 dollars, here is 365 dollars back in change."
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (10.4.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "老細，我冇咁多散銀，畀張一百蚊你找得唔得呀？",
+                    "reading": "lou5 sai3, ngo5 mou5 gam3 do1 saan2 ngan2, bei2 zoeng1 jat1 baak3 man1 nei5 zaau2 dak1 m4 dak1 aa3?",
+                    "translation": "Boss, I don't have so much small change, can I give you a 100-dollar bill to make change?"
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (10.4.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "而家香港街市好多檔口都支援八達通同手機二維碼付款，非常方便。",
+                    "reading": "ji4 gaa1 hoeng1 gong2 gaai1 si5 hou2 do1 dong3 hau2 dou1 zi1 wun4 baat3 daat6 tung1 tung4 sau2 gei1 ji6 wai4 maa5 fuk6 fun2, fei1 soeng4 fong1 bin6.",
+                    "translation": "Nowadays many stalls in Hong Kong wet markets support Octopus and mobile QR code payments, which is very convenient."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 街市買餸同問價錢 (Shopping & Bargaining)"
+                "Cash Transaction Flow: 收你大紙(Received big note) -> 找返散銀(Give change back) -> 嘟八達通(Beep Octopus)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "«嘟八達通» (dut1 baat3 daat6 tung1) uses the onomatopoeia «嘟» (dut1) for the signature beep of contactless Octopus readers ubiquitous across Hong Kong."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「街市買餸同問價錢 (Shopping & Bargaining)」喺第4節嘅地道廣東話表達？",
+                    "prompt": "收銀員收取你的一百元鈔票後，說「找返四十蚊畀你」，其中「找返」的意思是：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (10.4.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (10.4.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (10.4.3)。"
+                        "找回 / 退回零錢 (Give back in change)",
+                        "借走",
+                        "罰款"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "找返 (zaau2 faan1) means 'give back in change'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「買嘢同街市討價還價 (Shopping & Bargaining)」語境嘅廣東話完整句子（練習 4）：",
+                    "prompt": "在香港商店付款時，想要用非接觸式八達通卡支付，最地道的詢問是：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (10.4.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (10.4.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (10.4.3)。"
+                        "可唔可以嘟八達通呀？ (ho2 m4 ho2 ji5 dut1 baat3 daat6 tung1 aa3?)",
+                        "可以刷八達通嗎？",
+                        "八達通能用嗎？"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "嘟八達通 uses the authentic colloquial verb 嘟 (dut1) for tapping the smart card."
                 }
             ]
         },
@@ -5209,85 +5252,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「街市買餸同問價錢 (Shopping & Bargaining)」嘅日常商務與生活習慣（考核 10-4）？",
+                    "prompt": "關於廣東話中交易結算、找續零錢（畀錢/找返/散銀）及電子支付（八達通）的用語，下列哪一項表述完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (10.4.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (10.4.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (10.4.3)。"
+                        "廣東話買東西不能找錢",
+                        "「畀錢」指付款，「找返」指找回零錢，「散銀」指硬幣零錢，非接觸式支付口語常用「嘟八達通」 (bei2 cin2 is pay, zaau2 faan1 is return change, saan2 ngan2 is coins, dut1 baat3 daat6 tung1 is tapping Octopus)",
+                        "八達通只能用來打電話"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "Accurately details colloquial transaction verbs and payment habits."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («買餸_10_4»):",
+                    "prompt": "Type the 2-character Hanzi phrase for 'give back in change / return change' in Cantonese (找返):",
                     "acceptedAnswers": [
-                        "買餸_10_4"
+                        "找返",
+                        "zaau2faan1",
+                        "zaau2 faan1",
+                        "Zaau2 faan1",
+                        "Zaau2faan1",
+                        "找回"
                     ],
-                    "explanation": "The target keyword was: 【買餸_10_4】"
+                    "explanation": "找返 (zaau2 faan1) means 'give back in change' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u10-l5": {
         "id": "hk-u10-l5",
-        "subject": "cantonese",
-        "unit": 10,
-        "lessonNumber": 5,
-        "title": "買嘢同街市討價還價 (Shopping & Bargaining) (Part 5)",
+        "unit": "hk-u10",
         "level": "A2",
-        "objective": "Comprehensive mastery of 街市買餸同問價錢 (Shopping & Bargaining).",
+        "objective": "Synthesize all market inquiry, quality assessment, bargaining, and checkout vocabulary in a full-length wet market shopping dialogue.",
+        "prerequisites": [
+            "hk-u10-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u10-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（街市買餸同問價錢 (Shopping & Bargaining) - 第5部分）入面，我哋會探討廣東話嘅核心語用語境同埋街市買餸同問價錢 (Shopping & Bargaining)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "喺呢課綜合實戰篇，我哋將第十單元學到嘅所有街市買餸詞彙（幾多錢一斤、游水海鮮、平啲啦、計齊頭、找返）融會貫通，演繹嶺南最具市井煙火氣嘅街市買餸全過程！\n\n1. 街市買餸必備詞彙庫 (Wet Market Shopping Lexicon):\n- **買餸 (maai5 sung3)**：Buy groceries / produce for home cooking。\n- **菜心 (coi3 sam1)**：Choy sum。\n- **海蝦 (hoi2 haa1)**：Sea prawns。\n- **老細 (lou5 sai3)**：Boss / stall owner。\n- **平啲啦 (peng4 di1 laa1)**：Make it cheaper。\n- **搭棵蔥 (daap3 fo1 cung1)**：Throw in a stalk of scallion for free。\n\n2. 第十單元實戰對話範例 (Unit 10 Master Wet Market Dialogue):\n- **買家陳太**：‘老細，今日啲菜心好靚喎，幾多錢一斤呀？’\n- **菜檔檔主**：‘早晨陳太！十二蚊一斤，買兩斤算你二十蚊啦！’\n- **買家陳太**：‘好，秤兩斤，順便搭多棵蔥畀我啦！’\n- **海鮮檔檔主**：‘陳太，睇下啲游水花竹蝦，隻隻跳跳紮，四十蚊一斤咋！’\n- **買家陳太**：‘幫我揀斤半，計齊頭六十蚊啦，老細平啲啦！’\n- **海鮮檔檔主**：‘得！收你一百蚊，找返四十蚊畀你，多謝晒！’",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (10.5.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "每日下晝四五點，街市入面擠滿咗嚟買餸煮晚飯嘅街坊，非常熱鬧。",
+                    "reading": "mui5 jat6 haa6 ng5 sei3 ng5 dim2, gaai1 si5 jap6 min6 zai1 mun2 zo2 lei4 maai5 sung3 zyu2 maan5 faan6 ge3 gaai1 fong1, fei1 soeng4 jit6 naau6.",
+                    "translation": "Every afternoon at 4 or 5 o'clock, the wet market is crowded with neighbors buying produce to cook dinner, very lively."
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (10.5.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "我今日喺街市買咗一斤菜心、半斤牛肉同埋兩條游水紅衫魚。",
+                    "reading": "ngo5 gam1 jat6 hai2 gaai1 si5 maai5 zo2 jat1 gan1 coi3 sam1, bun3 gan1 ngau4 juk6 tung4 maai4 loeng5 tiu4 jau4 seoi2 hung4 saam1 jyu4.",
+                    "translation": "Today I bought a catty of choy sum, half a catty of beef, and two swimming golden threadfin breams at the market."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (10.5.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "檔主好豪爽，不但計平咗五蚊，仲搭多兩塊薑同兩條蔥畀我。",
+                    "reading": "dong3 zyu2 hou2 hou4 song2, bat1 daan6 gai3 peng4 zo2 ng5 man1, zung6 daap3 do1 loeng5 faai3 goeng1 tung4 loeng5 tiu4 cung1 bei2 ngo5.",
+                    "translation": "The stall owner was very generous; not only discounted five dollars, but also threw in two slices of ginger and two scallions for me."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 街市買餸同問價錢 (Shopping & Bargaining)"
+                "Market Run: 問價(幾多錢一斤) -> 揀靚(游水生猛) -> 講價(平啲啦) -> 找續(找返收好)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "«買餸搭蔥» (asking for free scallions with vegetables) is a classic Cantonese social art; stall owners gladly offer free ginger/scallions/coriander («薑蔥芫荽») to regular customers («熟客»)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「街市買餸同問價錢 (Shopping & Bargaining)」喺第5節嘅地道廣東話表達？",
+                    "prompt": "廣東話中「去菜市場購買肉類蔬菜等食材回家做飯」的專用說法是：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (10.5.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (10.5.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (10.5.3)。"
+                        "街市買餸 (gaai1 si5 maai5 sung3 - Buying groceries at the wet market)",
+                        "去街買飯",
+                        "超市食飯"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "街市買餸 (gaai1 si5 maai5 sung3) is the classic term for market grocery shopping."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「買嘢同街市討價還價 (Shopping & Bargaining)」語境嘅廣東話完整句子（練習 5）：",
+                    "prompt": "在廣東街市買菜時，檔主為了維繫熟客常常主動贈送少許蔥薑，這種文化現象稱為：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (10.5.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (10.5.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (10.5.3)。"
+                        "搭蔥 / 送蔥 (daap3 cung1 - Throwing in free scallions)",
+                        "扣蔥",
+                        "收蔥費"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "搭蔥 (daap3 cung1) is the time-honored gesture of warmth and community in Cantonese markets."
                 }
             ]
         },
@@ -5295,24 +5350,31 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「街市買餸同問價錢 (Shopping & Bargaining)」嘅日常商務與生活習慣（考核 10-5）？",
+                    "prompt": "關於廣東第十單元「買嘢同街市討價還價」的綜合應用（問價、選材、講價、找續與搭蔥），下列哪一項總括完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (10.5.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (10.5.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (10.5.3)。"
+                        "「街市買餸」融匯了問價（幾多錢一斤）、品相挑選（游水生猛）、講價社交（平啲啦/計齊頭）與找續搭蔥，是嶺南市井文化最生動的縮影 (Market shopping unites price inquiry, produce selection, friendly bargaining, and free scallions, reflecting vibrant grassroots culture)",
+                        "街市買餸不允許任何交談",
+                        "「買餸」在廣東話中指買衣服"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "explanation": "Masterfully summarizes the conversational lexicon and grassroots culture of Cantonese wet markets."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («買餸_10_5»):",
+                    "prompt": "Type the 4-character Hanzi phrase for 'buying groceries at the wet market' in Cantonese (街市買餸):",
                     "acceptedAnswers": [
-                        "買餸_10_5"
+                        "街市買餸",
+                        "gaai1si5maai5sung3",
+                        "gaai1 si5 maai5 sung3",
+                        "Gaai1 si5 maai5 sung3",
+                        "Gaai1si5maai5sung3",
+                        "街市买餸",
+                        "街市買菜"
                     ],
-                    "explanation": "The target keyword was: 【買餸_10_5】"
+                    "explanation": "街市買餸 (gaai1 si5 maai5 sung3) means 'buying groceries at the wet market' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u11-l1": {
