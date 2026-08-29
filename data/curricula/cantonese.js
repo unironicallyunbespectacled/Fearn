@@ -2428,63 +2428,69 @@
     },
     "hk-u5-l1": {
         "id": "hk-u5-l1",
-        "subject": "cantonese",
-        "unit": 5,
-        "lessonNumber": 1,
-        "title": "日常動詞同現在進行式 (Daily Verbs & Continuous 緊) (Part 1)",
+        "unit": "hk-u5",
         "level": "A1",
-        "objective": "Comprehensive mastery of 進行態動態助詞緊 (Continuous Aspect 緊).",
+        "objective": "Master foundational everyday Cantonese action verbs and lexicalized verb-object collocations (食飯, 飲茶, 睇電視, 聽歌, 講嘢, 行街).",
+        "prerequisites": [
+            "hk-u4-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u4-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（進行態動態助詞緊 (Continuous Aspect 緊) - 第1部分）入面，我哋會探討廣東話嘅核心語用語境同埋進行態動態助詞緊 (Continuous Aspect 緊)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "廣東話嘅常用動作動詞極為生動，好多保留咗古漢語詞彙，同普通話有好大分別！\n\n1. 核心動作動詞與動賓搭配 (Daily Verbs & Objects):\n- **食 (sik6)**：Eat。\n  - **食飯 (sik6 faan6)**：Eat a meal / have dinner。\n  - **食嘢 (sik6 je5)**：Eat something / snack。\n- **飲 (jam2)**：Drink。\n  - **飲水 (jam2 seoi2)**：Drink water。\n  - **飲茶 (jam2 caa4)**：Drink tea / go for dim sum。\n- **睇 (tai2)**：Look / see / watch / read。\n  - **睇書 (tai2 syu1)**：Read a book。\n  - **睇電視 (tai2 din6 si6)**：Watch television。\n  - **睇戲 (tai2 hei3)**：Watch a movie。\n- **聽 (teng1)**：Listen (聽歌 teng1 go1 listen to music, 聽電話 teng1 din6 waa2 answer phone)。\n- **講 (gong2)**：Speak / say (講廣東話 gong2 gwong2 dung1 waa2 speak Cantonese, 講嘢 gong2 je5 talk)。\n- **行 (haang4)**：Walk / stroll (行街 haang4 gaai1 go window shopping / walk on the street)。\n- **走 (zau2)**：Leave / depart (我走先喇 ngo5 zau2 sin1 laa3 I'm leaving first)。",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (5.1.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "我每晚食完飯之後，都鍾意坐喺梳化睇一陣電視新聞。",
+                    "reading": "ngo5 mui5 maan5 sik6 jyun4 faan6 zi1 hau6, dou1 zung1 ji3 co5 hai2 so1 faa2 tai2 jat1 zan6 din6 si6 san1 man4.",
+                    "translation": "Every evening after eating dinner, I like to sit on the sofa and watch TV news for a while."
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (5.1.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "星期六下晝，我約咗朋友去銅鑼灣行街買衫。",
+                    "reading": "sing1 kei4 luk6 haa6 ng5, ngo5 joek3 zo2 pang4 jau5 heoi3 tung4 lo4 waan1 haang4 gaai1 maai5 saam1.",
+                    "translation": "On Saturday afternoon, I arranged to go shopping for clothes in Causeway Bay with my friend."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (5.1.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "佢好鍾意邊聽歌邊溫習功課。",
+                    "reading": "keoi5 hou2 zung1 ji3 bin1 teng1 go1 bin1 wan1 zaap6 gung1 fo3.",
+                    "translation": "She really likes listening to music while revising her homework."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 進行態動態助詞緊 (Continuous Aspect 緊)"
+                "Action Collocations: 食飯(Eat), 飲茶(Drink tea), 睇電視(Watch TV), 聽歌(Listen music), 行街(Stroll street)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "«睇» (tai2) covers English 'look', 'see', 'watch', and 'read' (睇書 read books, 睇戲 watch movies, 睇醫生 see a doctor), making it one of the most versatile sensory verbs in Cantonese."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「進行態動態助詞緊 (Continuous Aspect 緊)」喺第1節嘅地道廣東話表達？",
+                    "prompt": "廣東話入面表示「看電視 / 觀看電視節目」，最地道標準嘅動賓搭配係：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (5.1.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (5.1.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (5.1.3)。"
+                        "看電視",
+                        "睇電視 (tai2 din6 si6 - Watch TV)",
+                        "見電視"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "睇 (tai2) is the standard Cantonese verb for look/watch/see/read."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「日常動詞同現在進行式 (Daily Verbs & Continuous 緊)」語境嘅廣東話完整句子（練習 1）：",
+                    "prompt": "廣東話中「行街 (haang4 gaai1)」的字面與實際日常含義是：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (5.1.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (5.1.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (5.1.3)。"
+                        "逛街購物 (Strolling / window shopping)",
+                        "在馬路上跑步",
+                        "修理街道"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "行街 (haang4 gaai1) means going shopping, walking around the streets, or browsing shops."
                 }
             ]
         },
@@ -2492,85 +2498,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「進行態動態助詞緊 (Continuous Aspect 緊)」嘅日常商務與生活習慣（考核 5-1）？",
+                    "prompt": "關於廣東話日常基礎動詞「食、飲、睇、聽、講、行、走」的語義與搭配，下列哪一項表述完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (5.1.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (5.1.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (5.1.3)。"
+                        "廣東話不能表達吃喝看聽等動作",
+                        "「食」表吃（食飯），「飲」表喝（飲茶），「睇」表看/讀（睇電視/睇書），「行街」表逛街，「走」表離開 (sik6 eat, jam2 drink, tai2 watch/read, haang4 gaai1 window shop, zau2 leave)",
+                        "「走」在廣東話中只能表示跑步"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "Accurately articulates the core Cantonese daily verbs and distinctive semantics."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («食緊_5_1»):",
+                    "prompt": "Type the 3-character Hanzi phrase for 'watch television' in Cantonese (睇電視):",
                     "acceptedAnswers": [
-                        "食緊_5_1"
+                        "睇電視",
+                        "tai2din6si6",
+                        "tai2 din6 si6",
+                        "Tai2 din6 si6",
+                        "Tai2din6si6",
+                        "睇电视"
                     ],
-                    "explanation": "The target keyword was: 【食緊_5_1】"
+                    "explanation": "睇電視 (tai2 din6 si6) means 'watch television' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u5-l2": {
         "id": "hk-u5-l2",
-        "subject": "cantonese",
-        "unit": 5,
-        "lessonNumber": 2,
-        "title": "日常動詞同現在進行式 (Daily Verbs & Continuous 緊) (Part 2)",
+        "unit": "hk-u5",
         "level": "A1",
-        "objective": "Comprehensive mastery of 進行態動態助詞緊 (Continuous Aspect 緊).",
+        "objective": "Master the Cantonese continuous aspect marker 緊 (gan2), attaching directly after verbs (V + 緊) to denote actions in progress (equivalent to English -ing / Mandarin 在...着).",
+        "prerequisites": [
+            "hk-u5-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u5-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（進行態動態助詞緊 (Continuous Aspect 緊) - 第2部分）入面，我哋會探討廣東話嘅核心語用語境同埋進行態動態助詞緊 (Continuous Aspect 緊)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "廣東話表達「正在進行」非常乾脆俐落——只要喺動詞後面直接加上動態助詞**「緊 (gan2)」**！\n\n1. 進行態語法結構 (Continuous Aspect: V + 緊 + O):\n- **做緊嘢 (zou6 gan2 je5)**：Working / doing stuff right now。\n- **食緊飯 (sik6 gan2 faan6)**：Eating a meal right now。\n- **開緊會 (hoi1 gan2 wui6)**：Currently in a meeting。\n- **講緊電話 (gong2 gan2 din6 waa2)**：Talking on the phone。\n- **搭緊車 (daap3 gan2 ce1)**：On the bus / riding transit right now。\n\n2. 與其他語言對比 (Comparative Insights):\n- 普通話通常在動詞前加「正在」（例如「正在吃飯」）；而廣東話**直接將「緊」放在動詞正後方**（「食緊飯」），結構緊湊自然！\n- 否定進行態：**「唔係做緊……」**或**「冇做緊……」**。",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (5.2.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "唔好意思呀，經理而家同緊客戶開緊會，請你稍等一陣。",
+                    "reading": "m4 hou2 ji3 si1 aa3, ging1 lei5 ji4 gaa1 tung4 gan2 haak3 wu6 hoi1 gan2 wui6, cing2 nei5 saau2 dang2 jat1 zan6.",
+                    "translation": "Excuse me, the manager is currently in a meeting with a client, please wait for a moment."
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (5.2.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "我搭緊地鐵返緊屋企，大概十五分鐘後到。",
+                    "reading": "ngo5 daap3 gan2 dei6 tit3 faan1 gan2 uk1 kei2, daai6 koi3 sap6 ng5 fan1 zung1 hau6 dou3.",
+                    "translation": "I am on the subway heading home, arriving in about 15 minutes."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (5.2.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "你做緊咩呀？我睇緊一本好得意嘅小說。",
+                    "reading": "nei5 zou6 gan2 me1 aa3? ngo5 tai2 gan2 jat1 bun2 hou2 dak1 ji3 ge3 siu2 syut3.",
+                    "translation": "What are you doing? I am reading a very interesting novel."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 進行態動態助詞緊 (Continuous Aspect 緊)"
+                "Continuous Formula: Verb + 緊 (gan2) = -ing in action (食緊, 做緊, 開緊會)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "When answering a phone in Hong Kong when busy, people often say «我做緊嘢/開緊會，一陣覆你» (I'm working/in a meeting, I'll get back to you in a bit)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「進行態動態助詞緊 (Continuous Aspect 緊)」喺第2節嘅地道廣東話表達？",
+                    "prompt": "喺廣東話中，如果要表達「正在工作 / 正在做事」，最標準地道嘅進行態說法係：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (5.2.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (5.2.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (5.2.3)。"
+                        "在做嘢",
+                        "做緊嘢 (zou6 gan2 je5 - Working / doing things right now)",
+                        "做咗嘢"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "做緊嘢 (zou6 gan2 je5) uses the continuous aspect particle 緊 (gan2)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「日常動詞同現在進行式 (Daily Verbs & Continuous 緊)」語境嘅廣東話完整句子（練習 2）：",
+                    "prompt": "在動詞後加上助詞「緊 (gan2)」在廣東話語法中的核心功能是：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (5.2.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (5.2.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (5.2.3)。"
+                        "表示動作正在進行中 (Denoting continuous ongoing action -ing)",
+                        "表示動作已經過去完成",
+                        "表示將來永遠不會發生"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "緊 (gan2) is the post-verbal marker for ongoing actions in progress."
                 }
             ]
         },
@@ -2578,85 +2596,98 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「進行態動態助詞緊 (Continuous Aspect 緊)」嘅日常商務與生活習慣（考核 5-2）？",
+                    "prompt": "關於廣東話進行體助詞「緊 (gan2)」的語法位置（V+緊+O）與語義特徵，下列哪一項表述完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (5.2.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (5.2.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (5.2.3)。"
+                        "「緊」必須放在句子開頭",
+                        "「緊」只能用在名詞後面表示空間",
+                        "「緊 (gan2)」直接後綴於動詞（如做緊嘢、開緊會、搭緊車），精確表達動作正在進行中 (V+gan2 denotes continuous aspect, e.g. zou6 gan2 je5, hoi1 gan2 wui6)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "Accurately describes the syntactic position and aspectual role of 緊 (gan2)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («食緊_5_2»):",
+                    "prompt": "Type the 3-character Hanzi phrase for 'working / doing things right now' in Cantonese (做緊嘢):",
                     "acceptedAnswers": [
-                        "食緊_5_2"
+                        "做緊嘢",
+                        "zou6gan2je5",
+                        "zou6 gan2 je5",
+                        "Zou6 gan2 je5",
+                        "Zou6gan2je5",
+                        "做紧嘢",
+                        "做緊野"
                     ],
-                    "explanation": "The target keyword was: 【食緊_5_2】"
+                    "explanation": "做緊嘢 (zou6 gan2 je5) means 'working / doing things right now' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u5-l3": {
         "id": "hk-u5-l3",
-        "subject": "cantonese",
-        "unit": 5,
-        "lessonNumber": 3,
-        "title": "日常動詞同現在進行式 (Daily Verbs & Continuous 緊) (Part 3)",
+        "unit": "hk-u5",
         "level": "A1",
-        "objective": "Comprehensive mastery of 進行態動態助詞緊 (Continuous Aspect 緊).",
+        "objective": "Master the locative preposition/verb 喺 (hai2 - at/in/on), locative interrogative 喺邊度, and sentence structure S + 喺 + Place + Verb + Object.",
+        "prerequisites": [
+            "hk-u5-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u5-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（進行態動態助詞緊 (Continuous Aspect 緊) - 第3部分）入面，我哋會探討廣東話嘅核心語用語境同埋進行態動態助詞緊 (Continuous Aspect 緊)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "廣東話表達「喺某個地方做某件事」，核心字係**「喺 (hai2)」**，相當於普通話嘅「在」同英文嘅「at / in / on」！\n\n1. 處所句型結構 (Locative Syntax: S + 喺 + Location + Action):\n- **喺屋企 (hai2 uk1 kei2)**：At home。\n  - 「我今晚喺屋企食飯。」(I am eating dinner at home tonight.)\n- **喺公司 (hai2 gung1 si1)**：At the company / in the office。\n  - 「經理喺會議室開緊會。」(The manager is having a meeting in the conference room.)\n- **喺茶餐廳 (hai2 caa4 caan1 teng1)**：At the tea restaurant。\n  - 「我哋喺茶餐廳食緊下午茶。」(We are having afternoon tea at the tea restaurant.)\n\n2. 詢問處所 (Asking Where Actions Occur):\n- **「你喺邊度呀？」(Where are you?)**\n- **「你喺邊度返工呀？」(Where do you work?)**\n- **「我哋陣間喺邊度等呀？」(Where are we waiting later?)**",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (5.3.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "我今日放假，全日留喺屋企睇書同聽歌。",
+                    "reading": "ngo5 gam1 jat6 fong3 gaa3, cyun4 jat6 lau4 hai2 uk1 kei2 tai2 syu1 tung4 teng1 go1.",
+                    "translation": "I am on holiday today, staying at home all day reading books and listening to music."
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (5.3.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "你而家喺邊度呀？我喺地鐵站A出口等緊你。",
+                    "reading": "nei5 ji4 gaa1 hai2 bin1 dou6 aa3? ngo5 hai2 dei6 tit3 zaam6 A ceot1 hau2 dang2 gan2 nei5.",
+                    "translation": "Where are you right now? I am waiting for you at MTR Exit A."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (5.3.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "陳小姐平時好鍾意喺中環嗰間健身室做運動。",
+                    "reading": "can4 siu2 ze2 ping4 si4 hou2 zung1 ji3 hai2 zung1 waan4 go2 gaan1 gin6 san1 sat1 zou6 wan6 dung6.",
+                    "translation": "Miss Chan usually really likes working out at that gym in Central."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 進行態動態助詞緊 (Continuous Aspect 緊)"
+                "Location Frame: 主語 + 喺 (hai2) + 地方 (Place) + 動詞 (Action)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "«屋企» (uk1 kei2) is the universal Cantonese word for 'home' (literally roof/house structure), expressing deep warmth and family life."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「進行態動態助詞緊 (Continuous Aspect 緊)」喺第3節嘅地道廣東話表達？",
+                    "prompt": "廣東話入面表示「在家裏（at home）」最地道標準嘅詞彙係：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (5.3.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (5.3.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (5.3.3)。"
+                        "喺家",
+                        "喺屋企 (hai2 uk1 kei2 - At home)",
+                        "在屋企"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "喺屋企 (hai2 uk1 kei2) is the standard Cantonese expression for 'at home'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「日常動詞同現在進行式 (Daily Verbs & Continuous 緊)」語境嘅廣東話完整句子（練習 3）：",
+                    "prompt": "如果要用廣東話詢問朋友「你現在在哪裏？」，最自然的句子是：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (5.3.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (5.3.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (5.3.3)。"
+                        "你而家喺邊度呀？ (nei5 ji4 gaa1 hai2 bin1 dou6 aa3? - Where are you right now?)",
+                        "你去邊度呢？",
+                        "你係邊個呀？"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "你而家喺邊度呀？ specifically asks 'where are you right now?'."
                 }
             ]
         },
@@ -2664,85 +2695,98 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「進行態動態助詞緊 (Continuous Aspect 緊)」嘅日常商務與生活習慣（考核 5-3）？",
+                    "prompt": "關於廣東話介詞/動詞「喺 (hai2)」的處所表達（如喺屋企、喺邊度）與語序規則，下列哪一項表述完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (5.3.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (5.3.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (5.3.3)。"
+                        "「喺」只能用來表示時間",
+                        "「喺」在廣東話中表示否定",
+                        "「喺 (hai2)」相當於「在」，常引導地點處所（如喺屋企、喺公司），構成「S + 喺 + 地點 + V + O」的標準日常動作句式 (hai2 corresponds to 'at/in', introducing locations in S + hai2 + Place + V + O structure)"
                     ],
                     "answerIndex": 2,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "explanation": "Accurately defines the locative prepositional syntax of 喺 (hai2)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («食緊_5_3»):",
+                    "prompt": "Type the 3-character Hanzi phrase for 'at home' in Cantonese (喺屋企):",
                     "acceptedAnswers": [
-                        "食緊_5_3"
+                        "喺屋企",
+                        "hai2uk1kei2",
+                        "hai2 uk1 kei2",
+                        "Hai2 uk1 kei2",
+                        "Hai2uk1kei2",
+                        "在屋企",
+                        "喺屋企"
                     ],
-                    "explanation": "The target keyword was: 【食緊_5_3】"
+                    "explanation": "喺屋企 (hai2 uk1 kei2) means 'at home' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u5-l4": {
         "id": "hk-u5-l4",
-        "subject": "cantonese",
-        "unit": 5,
-        "lessonNumber": 4,
-        "title": "日常動詞同現在進行式 (Daily Verbs & Continuous 緊) (Part 4)",
+        "unit": "hk-u5",
         "level": "A1",
-        "objective": "Comprehensive mastery of 進行態動態助詞緊 (Continuous Aspect 緊).",
+        "objective": "Master asking what someone is doing in the present moment using 咩 / 乜嘢 (做緊咩, 諗緊咩, 搞緊咩, 睇緊乜嘢).",
+        "prerequisites": [
+            "hk-u5-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u5-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（進行態動態助詞緊 (Continuous Aspect 緊) - 第4部分）入面，我哋會探討廣東話嘅核心語用語境同埋進行態動態助詞緊 (Continuous Aspect 緊)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "問人「正在做甚麼」，廣東話口語極其簡潔地道，核心疑問代詞係**「咩 (me1)」**同**「乜嘢 (mat1 je5)」**！\n\n1. 核心進行時問句 (Continuous Inquiries):\n- **你做緊咩呀？ (nei5 zou6 gan2 me1 aa3?)**：What are you doing right now?\n- **你諗緊咩呀？ (nei5 nam2 gan2 me1 aa3?)**：What are you thinking about?\n- **你搞緊咩呀？ (nei5 gaau2 gan2 me1 aa3?)**：What are you busy with / up to?\n- **你睇緊乜嘢呀？ (nei5 tai2 gan2 mat1 je5 aa3?)**：What are you watching/reading?\n\n2. 「咩」與「乜嘢」嘅關係 (me1 vs mat1 je5):\n- **乜嘢 (mat1 je5)**：完整形式，相當於「什麼 / What」。\n- **咩 (me1)**：超高頻縮略口語形式，日常對話中最常聽見（例如：做緊咩、食緊咩、講咩）！",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (5.4.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "喂，你喺公司做緊咩呀？今晚一齊食飯好唔好？",
+                    "reading": "wai3, nei5 hai2 gung1 si1 zou6 gan2 me1 aa3? gam1 maan5 jat1 cai4 sik6 faan6 hou2 m4 hou2?",
+                    "translation": "Hey, what are you doing at the office? How about having dinner together tonight?"
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (5.4.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "你一個人坐喺度發呆，諗緊咩諗得咁入神呀？",
+                    "reading": "nei5 jat1 go3 jan4 co5 hai2 dou6 faat3 ngoi4, nam2 gan2 me1 nam2 dak1 gam3 jap6 san4 aa3?",
+                    "translation": "You are sitting here alone zoning out, what are you thinking about so deeply?"
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (5.4.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "佢哋幾個人圍埋一齊，搞緊咩新項目呀？",
+                    "reading": "keoi5 dei6 gei2 go3 jan4 wai4 maai4 jat1 cai4, gaau2 gan2 me1 san1 hong6 muk6 aa3?",
+                    "translation": "Several of them are gathered together, what new project are they working on?"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 進行態動態助詞緊 (Continuous Aspect 緊)"
+                "What Inquiry: 做緊咩(Doing what), 諗緊咩(Thinking what), 搞緊咩(Up to what)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "«搞緊咩» (gaau2 gan2 me1) is dynamic Cantonese slang; «搞» (gaau2) means to organize, manage, handle, or do."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「進行態動態助詞緊 (Continuous Aspect 緊)」喺第4節嘅地道廣東話表達？",
+                    "prompt": "廣東話日常通話或見面時，詢問朋友「你正在做甚麼？」，最常用地道嘅口語問句係：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (5.4.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (5.4.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (5.4.3)。"
+                        "你做緊咩呀？ (nei5 zou6 gan2 me1 aa3? - What are you doing?)",
+                        "你係邊個呀？",
+                        "你去邊度呀？"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "你做緊咩呀？ (nei5 zou6 gan2 me1 aa3?) is the universal Cantonese way of asking 'what are you doing?'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「日常動詞同現在進行式 (Daily Verbs & Continuous 緊)」語境嘅廣東話完整句子（練習 4）：",
+                    "prompt": "在廣東話中，疑問詞「什麼 (what)」最常簡化為哪一個單字：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (5.4.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (5.4.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (5.4.3)。"
+                        "乜",
+                        "邊",
+                        "咩 (me1 - What)"
                     ],
                     "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "咩 (me1) is the quintessential fused spoken word for 'what' in Cantonese."
                 }
             ]
         },
@@ -2750,85 +2794,98 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「進行態動態助詞緊 (Continuous Aspect 緊)」嘅日常商務與生活習慣（考核 5-4）？",
+                    "prompt": "關於廣東話中「做緊咩」、「諗緊咩」以及疑問詞「咩/乜嘢」的用法，下列哪一項表述完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (5.4.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (5.4.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (5.4.3)。"
+                        "「咩」在廣東話中只能用來指羊",
+                        "「做緊咩」只能用於罵人",
+                        "「咩/乜嘢」表示「甚麼」，結合動態助詞「緊」可構成「做緊咩（正在做甚麼）」、「諗緊咩（正在想甚麼）」等生動進行態疑問句 (me1/mat1 je5 mean 'what'; paired with gan2 it forms zou6 gan2 me1 'what are you doing', nam2 gan2 me1 'what are you thinking')"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "Accurately articulates the interrogative system and aspectual fusion with 緊."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («食緊_5_4»):",
+                    "prompt": "Type the 3-character Hanzi phrase for 'doing what right now' in Cantonese (做緊咩):",
                     "acceptedAnswers": [
-                        "食緊_5_4"
+                        "做緊咩",
+                        "zou6gan2me1",
+                        "zou6 gan2 je5",
+                        "Zou6 gan2 me1",
+                        "Zou6gan2me1",
+                        "做紧咩",
+                        "做緊乜"
                     ],
-                    "explanation": "The target keyword was: 【食緊_5_4】"
+                    "explanation": "做緊咩 (zou6 gan2 me1) means 'doing what right now' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u5-l5": {
         "id": "hk-u5-l5",
-        "subject": "cantonese",
-        "unit": 5,
-        "lessonNumber": 5,
-        "title": "日常動詞同現在進行式 (Daily Verbs & Continuous 緊) (Part 5)",
+        "unit": "hk-u5",
         "level": "A1",
-        "objective": "Comprehensive mastery of 進行態動態助詞緊 (Continuous Aspect 緊).",
+        "objective": "Synthesize daily action verbs, continuous 緊, locative 喺, and status inquiries into an authentic real-time telephone conversation.",
+        "prerequisites": [
+            "hk-u5-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u5-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（進行態動態助詞緊 (Continuous Aspect 緊) - 第5部分）入面，我哋會探討廣東話嘅核心語用語境同埋進行態動態助詞緊 (Continuous Aspect 緊)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "喺呢課綜合實戰篇，我哋將第五單元學到嘅日常動詞、進行態「緊」、處所介詞「喺」同問句「做緊咩」全面結合，完成一段繁忙職場電話溝通！\n\n1. 辦公室電話溝通必備短語 (Workplace Phone Phrases):\n- **聽電話 (teng1 din6 waa2)**：Answer the phone。\n- **開緊會 (hoi1 gan2 wui6)**：Currently in a meeting。\n- **講緊電話 (gong2 gan2 din6 waa2)**：On another phone line。\n- **一陣覆你 (jat1 zan6 fuk1 nei5)**：I'll get back to / call you back in a bit。\n- **順便 (seon6 bin6)**：Conveniently / by the way。\n\n2. 第五單元實戰對話範例 (Unit 5 Master Dialogue):\n- **同事David**：‘喂，阿May，你喺邊度呀？做緊咩呀？’\n- **同事May**：‘喂David，我喺灣仔辦公室同經理開緊會呀，做咩事呀？’\n- **同事David**：‘哦！我想問下你手上嗰份宣傳合約做成點呀？’\n- **同事May**：‘我準備緊最後修訂版，一陣開完會即刻覆你電話啦！’\n- **同事David**：‘好啊，唔該晒May，一陣見！’",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (5.5.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "喂，唔好意思呀，我喺總部開緊會，一陣開完會我打返畀你！",
+                    "reading": "wai3, m4 hou2 ji3 si1 aa3, ngo5 hai2 zung2 bou6 hoi1 gan2 wui6, jat1 zan6 hoi1 jyun4 wui6 ngo5 daa2 faan1 bei2 nei5!",
+                    "translation": "Hey, sorry, I am in a meeting at headquarters right now, I'll call you back once the meeting finishes!"
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (5.5.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "佢而家喺房入面講緊長途電話，請你等兩個字先。",
+                    "reading": "keoi5 ji4 gaa1 hai2 fong2 jap6 min6 gong2 gan2 coeng4 tou4 din6 waa2, cing2 nei5 dang2 loeng5 go3 zi6 sin1.",
+                    "translation": "He is on a long-distance phone call in his room right now, please wait for ten minutes first."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (5.5.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "我喺街市買緊餸，順便幫你買兩罐咖啡返嚟啦。",
+                    "reading": "ngo5 hai2 gaai1 si5 maai5 gan2 sung3, seon6 bin6 bong1 nei5 maai5 loeng5 gun3 gaa3 fe1 faan1 lai4 laa1.",
+                    "translation": "I am buying groceries at the wet market, I'll conveniently buy two cans of coffee back for you."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 進行態動態助詞緊 (Continuous Aspect 緊)"
+                "Phone Flow: 喺邊度(Where) -> 開緊會(In meeting) -> 準備緊(Preparing) -> 一陣覆你(Call back soon)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "In fast-paced Hong Kong, phone efficiency is key; saying «開緊會，一陣覆你» concisely conveys busy status while maintaining professional courtesy."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「進行態動態助詞緊 (Continuous Aspect 緊)」喺第5節嘅地道廣東話表達？",
+                    "prompt": "喺工作通話中告知對方「我目前正在開會」，最標準地道嘅廣東話說法係：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (5.5.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (5.5.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (5.5.3)。"
+                        "我係開會",
+                        "我開緊會 (ngo5 hoi1 gan2 wui6 - I am currently in a meeting)",
+                        "我開完會"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "我開緊會 (ngo5 hoi1 gan2 wui6) precisely expresses being in a meeting right now."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「日常動詞同現在進行式 (Daily Verbs & Continuous 緊)」語境嘅廣東話完整句子（練習 5）：",
+                    "prompt": "通話結束前向對方表示「稍後給你回覆 / 一會兒回電」，廣東話簡潔地道的表達是：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (5.5.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (5.5.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (5.5.3)。"
+                        "一陣覆你 (jat1 zan6 fuk1 nei5 - Reply / call you back in a bit)",
+                        "永不回覆",
+                        "出年覆你"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "一陣覆你 (jat1 zan6 fuk1 nei5) means 'I will reply/call you back in a little bit'."
                 }
             ]
         },
@@ -2836,24 +2893,31 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「進行態動態助詞緊 (Continuous Aspect 緊)」嘅日常商務與生活習慣（考核 5-5）？",
+                    "prompt": "關於廣東話第五單元日常動作動詞（食/睇/聽/行）、進行體（緊）、處所介詞（喺）與即時通訊溝通（開緊會/一陣覆你），下列哪一項總括完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (5.5.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (5.5.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (5.5.3)。"
+                        "廣東話在電話中不能表達正在進行的狀態",
+                        "掌握動作詞彙、進行態「緊」、地點「喺」及問句「做緊咩」，能流暢自如地進行日常狀態通報與職場電話對接 (Fluid control of action verbs, continuous gan2, locative hai2, and phone dialogue)",
+                        "「開緊會」是指正在散步"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "explanation": "Synthesizes the complete grammatical and communicative skillset of Unit 5."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («食緊_5_5»):",
+                    "prompt": "Type the 3-character Hanzi phrase for 'currently in a meeting' in Cantonese (開緊會):",
                     "acceptedAnswers": [
-                        "食緊_5_5"
+                        "開緊會",
+                        "hoi1gan2wui6",
+                        "hoi1 gan2 wui6",
+                        "Hoi1 gan2 wui6",
+                        "Hoi1gan2wui6",
+                        "开紧会",
+                        "開緊会"
                     ],
-                    "explanation": "The target keyword was: 【食緊_5_5】"
+                    "explanation": "開緊會 (hoi1 gan2 wui6) means 'currently in a meeting' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u6-l1": {
