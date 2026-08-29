@@ -457,36 +457,37 @@
             "reviewFocus": []
         },
         "presentation": {
-            "explanation": "English gives you a formality slider for hello: Hello sits in the safe middle (fine with anyone, anywhere), Hi is warmer and casual, and Hey is the most casual of all — reserved for friends, peers, and people you already know. If Hey feels rude or abrupt in your own language, recalibrate: in English it's completely normal among equals, not disrespectful. For time-of-day greetings, Good morning covers the early hours, Good afternoon takes over around noon, and Good evening starts once evening begins — but Good night is different from all three: it's ONLY used when leaving or ending a conversation at night, never as a hello, exactly like Spanish buenas noches or Romanian noapte bună. Here's the trap that catches almost every learner: How are you? is not usually a real request for a health update. It's a scripted exchange — ask it, and the expected reply is a short Good, thanks! or Fine, thanks, how about you?, not a detailed account of your actual week. Answering it literally and at length tends to confuse native speakers, not impress them.",
+            "explanation": "English gives you a formality slider for hello: **Hello** sits in the safe middle (fine with anyone, anywhere), **Hi** is warmer and casual, and **Hey** is the most casual of all — reserved for friends, peers, and people you already know. For time-of-day greetings, **Good morning** covers the early hours, **Good afternoon** takes over around noon, and **Good evening** starts once evening begins — but **Good night** is different from all three: it's ONLY used when leaving or ending a conversation at night, never as a hello.\n\n### 🔤 English Orthography & Phonetic Essentials:\nEnglish spelling is notoriously irregular, combining Germanic roots with French, Latin, and Greek layers. Master these three foundational phonetic rules:\n1. **The 'th' Sound Split (Voiced [ð] vs Voiceless [θ])**:\n   - **Voiceless 'th' [θ]** (vocal cords do NOT vibrate, breathy whisper): Found in *content words* like nouns, verbs, and adjectives. E.g. *thanks* [θæŋks], *thank you*, *think* [θɪŋk], *three* [θɹiː], *thought* [θɔːt]. Place tongue tip gently between top and bottom teeth and blow air.\n   - **Voiced 'th' [ð]** (vocal cords vibrate, buzzing sound): Found in *grammatical function words*. E.g. *the* [ðə], *this* [ðɪs], *that* [ðæt], *they* [ðeɪ], *there* [ðɛəɹ], *with* [wɪð], *mother* [ˈmʌðəɹ].\n2. **The Unstressed Schwa [ə] & Vowel Reduction**:\n   - In English, unstressed vowels in multi-syllable words collapse into the neutral **schwa [ə]** (e.g. *about* [əˈbaʊt], *complain* [kəmˈpleɪn], *polite* [pəˈlaɪt]). English is a stress-timed language: rhythm is driven by stressed syllables, while unstressed vowels shrink.\n3. **Silent Letter Clusters (k, w, b, gh)**:\n   - **kn-** = [n] (*know*, *knight*, *knee* — 'k' is 100% silent!).\n   - **wr-** = [r] (*write*, *wrong*, *wrist* — 'w' is silent!).\n   - **-mb / -bt** = [m] / [t] (*climb* [klaɪm], *doubt* [daʊt], *debt* [dɛt] — 'b' is silent!).\n   - **-ght** = [t] (*night* [naɪt], *eight* [eɪt] — 'gh' is silent!).\n\nHere's the conversational trap: **How are you?** is a ritual call-and-response, not a medical query. Reply with a short **Good, thanks!** or **Fine, thanks, how about you?**.",
             "examples": [
                 {
                     "target": "Maya: Hi! How are you?",
-                    "reading": "",
+                    "reading": "[haɪ! haʊ ɑːɹ juː?]",
                     "translation": "Maya: Hi! How are you? (casual, expects a short reply)"
                 },
                 {
                     "target": "Jordan: Good, thanks! How about you?",
-                    "reading": "",
-                    "translation": "Jordan: Good, thanks! How about you? (the scripted reply, echoing the question back)"
+                    "reading": "[ɡʊd, θæŋks! haʊ əˈbaʊt juː?]",
+                    "translation": "Jordan: Good, thanks! How about you? (thanks has voiceless th [θ], about has schwa [ə])"
                 },
                 {
                     "target": "Maya: Can't complain. Good morning, by the way!",
-                    "reading": "",
-                    "translation": "Maya: Can't complain. Good morning, by the way! (an equally standard, slightly more casual reply)"
+                    "reading": "[kænt kəmˈpleɪn. ɡʊd ˈmɔːɹnɪŋ, baɪ ðə weɪ!]",
+                    "translation": "Maya: Can't complain. Good morning, by the way! (complain has schwa [ə], the has voiced th [ð])"
                 },
                 {
                     "target": "Jordan: Hey! What's up?",
-                    "reading": "",
-                    "translation": "Jordan: Hey! What's up? (very casual — note: expects 'Not much' or 'Nothing much', not 'Fine, thanks!')"
+                    "reading": "[heɪ! wʌts ʌp?]",
+                    "translation": "Jordan: Hey! What's up? (very casual — expects 'Not much')"
                 }
             ],
             "mnemonics": [
-                "How are you? → Good, thanks! is a verbal handshake, not a medical checkup. Treat it as a fixed call-and-response pair, the same way you'd automatically say 'you're welcome' after 'thank you' without thinking about it.",
-                "What's up? breaks the how-are-you script on purpose — it's really asking 'what's happening/going on', so 'Not much' fits, while 'Good, thanks!' sounds slightly off, like answering a different question than the one asked."
+                "The 'th' Test: Touch your throat! In 'the', 'this', 'that' you feel a buzzing motor (voiced [ð]); in 'think', 'thank', 'three' your motor is off (voiceless [θ])!",
+                "Silent 'k' and 'w': In 'know' and 'write', the first letter is a ghost — never pronounce the 'k' in knife or the 'w' in wrong!",
+                "How are you? → Good, thanks! is a verbal handshake, not a medical checkup."
             ],
             "culturalNotes": [
-                "In British English, You alright? often functions as a casual greeting equivalent to 'How are you?' — it can genuinely alarm American learners who hear it and think something is visibly wrong with them. It usually isn't; it's just a regional greeting.",
-                "Good night is exclusively a farewell, never an opener — using it to say hello (instead of Good evening) is one of the most common learner mix-ups with this set of phrases."
+                "In British English, 'You alright?' often functions as a casual greeting equivalent to 'How are you?' — it doesn't mean something is visibly wrong with you.",
+                "Good night is exclusively a farewell, never an opener — using it to say hello (instead of Good evening) is a common learner mistake."
             ]
         },
         "guidedPractice": {
