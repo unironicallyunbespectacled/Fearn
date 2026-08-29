@@ -7784,63 +7784,69 @@
     },
     "zh-u16-l1": {
         "id": "zh-u16-l1",
-        "subject": "mandarin",
-        "unit": 16,
-        "lessonNumber": 1,
-        "title": "存现句与空间方位表述 (Existential Sentences) (Part 1)",
+        "unit": "zh-u16",
         "level": "B1",
-        "objective": "Comprehensive mastery of 空间方位与存现句 (Existential Locative Sentences).",
+        "objective": "Master the Mandarin system of localizers (方位词: 上/下/前/后/左/右/里/外/东/南/西/北 with suffixes 边/面/头) and the rule that common nouns must combine with localizers to function as locatives (桌子上, 房间里).",
+        "prerequisites": [
+            "zh-u15-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u15-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「存现句与空间方位表述 (Existential Sentences)」（第1部分）的核心句法结构与空间方位与存现句 (Existential Locative Sentences)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在现代汉语中，空间方位的表达有着严密的**方位词形态系统（Locative Morphology）**！普通名词不能直接作处所状语，必须与方位词结合！\n\n1. 核心方位词结构系统 (The Localizer System):\n- **单音节方位词**：上、下、前、后、左、右、里、外、东、南、西、北、中、旁。\n- **双音节复合方位词**：\n  - **+ 边 (biān)**：左边、右边、前边、后边、东边、西边、旁边。\n  - **+ 面 (miàn)**：上面、下面、前面、后面、里面、外面、对面。\n  - **+ 头 (tou)**：里头、外头、上头、下头、前头、后头。\n\n2. 处所转化黄金法则 (Noun to Locative Conversion):\n- **普通名词 (Desk/Room) 不能直接表示处所，必须加上方位词转化**：\n  - 错误：*书在桌子。 → 正确：书在**桌子上 / 桌子上面**。\n  - 错误：*他在房间。 → 正确：他在**房间里 / 房间里面**。\n- **地名/国名自带处所属性，严禁加「里」**：\n  - 正确：我在北京 / 我在中国 (*绝不说 *在北京里 / *在中国里)。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (16.1.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "图书馆的东边是一栋新建的现代化学术报告厅，南面则是一片幽静的竹林。",
+                    "reading": "Túshūguǎn de dōngbian shì yí dòng xīn jiàn de xiàndài huà xuéshù bàogàotīng, nánmiàn zé shì yí piàn yōujìng de zhúlín.",
+                    "translation": "To the east of the library is a newly built modern academic lecture hall, while to the south is a quiet bamboo forest."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (16.1.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "王老师微笑着对大家说：‘请同学们把刚借到的中文参考书整齐地放在书桌上。’",
+                    "reading": "Wáng lǎoshī wēixiào zhe duì dàjiā shuō: ‘Qǐng tóngxuémen bǎ gāng jiè dào de zhōngwén cānkǎoshū zhěngqí de fàng zài shūzhuō shang.’",
+                    "translation": "Teacher Wang said with a smile to everyone: 'Please place the newly borrowed Chinese reference books neatly on the study desk.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (16.1.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "学校留学生公寓楼的对面开了一家非常地道的四川风味餐馆。",
+                    "reading": "Xuéxiào liúxuéshēng gōngyùlóu de duìmiàn kāi le yì jiā fēicháng dìdao de Sìchuān fēngwèi cānguǎn.",
+                    "translation": "Opposite the international student apartment building, an exceptionally authentic Sichuan cuisine restaurant opened."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 空间方位与存现句 (Existential Locative Sentences)"
+                "Ordinary Noun + 方位词 = Place (桌子上, 房间里)! Place names are ALREADY places: Never add 里 to Beijing/China!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Traditional Chinese spatial orientation often uses cardinal directions (东南西北) rather than egocentric left/right, reflecting ancient urban grid planning like that of historical Beijing."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「空间方位与存现句 (Existential Locative Sentences)」在第1小节中的标准汉语语法规范？",
+                    "prompt": "关于处所表达，下列哪个选项在语法上是完全错误的？",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (16.1.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (16.1.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (16.1.3)。"
+                        "我在中国里 (*Wrong: Country/city names cannot take 里)",
+                        "我在中国",
+                        "书在桌子上"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "Country/city proper names like 中国 or 北京 are already locatives and cannot take 里."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「存现句与空间方位表述 (Existential Sentences)」语用情境与完整句式的选项（练习 1）：",
+                    "prompt": "普通名词‘书包’若要作地点表示‘在书包内部’，规范形式是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (16.1.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (16.1.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (16.1.3)。"
+                        "在书包",
+                        "在书包里 / 书包里面 (Noun + 方位词: locative phrase)",
+                        "书包在"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "Ordinary nouns must combine with 里/里面 to express internal location."
                 }
             ]
         },
@@ -7848,85 +7854,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「空间方位与存现句 (Existential Locative Sentences)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 16-1）？",
+                    "prompt": "下列哪个句子在方位词与处所搭配上完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (16.1.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (16.1.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (16.1.3)。"
+                        "大卫在北京里学中文",
+                        "大卫在图书馆的东边等李明 (Dàwèi zài túshūguǎn de dōngbian děng Lǐ Míng)",
+                        "大卫在教室等李明里"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "图书馆的东边 correctly forms a locative expression with directional suffix 边."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («桌上有_16_1»):",
+                    "prompt": "Type the Hanzi for 'opposite side / across from' (对面):",
                     "acceptedAnswers": [
-                        "桌上有_16_1"
+                        "对面",
+                        "duimian",
+                        "duìmiàn",
+                        "Duìmiàn",
+                        "Duimian",
+                        "對面"
                     ],
-                    "explanation": "The target keyword was: 【桌上有_16_1】"
+                    "explanation": "对面 (duìmiàn) means 'opposite side / across from'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u16-l2": {
         "id": "zh-u16-l2",
-        "subject": "mandarin",
-        "unit": 16,
-        "lessonNumber": 2,
-        "title": "存现句与空间方位表述 (Existential Sentences) (Part 2)",
+        "unit": "zh-u16",
         "level": "B1",
-        "objective": "Comprehensive mastery of 空间方位与存现句 (Existential Locative Sentences).",
+        "objective": "Master the static existential formulas with 有 (Existence/Quantity: 处所 + 有 + 不确定事物) and 是 (Unique/Full Identity: 处所 + 是 + 确定事物), distinguishing their semantic contrasts.",
+        "prerequisites": [
+            "zh-u16-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u16-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「存现句与空间方位表述 (Existential Sentences)」（第2部分）的核心句法结构与空间方位与存现句 (Existential Locative Sentences)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "「存现句」是汉语中**以「处所词」作为句首主语，描述某处存在、出现或消失某人某物**的独特句型！\n\n1. 处所 + 有 + 人/物 (Existence & Enumeration):\n- 表示 **某处「存在有某人某物」（侧重有无与数量，宾语为不确定对象）**：\n  - 桌子上有**三本书和一台电脑**。(There are 3 books and a laptop on the desk.)\n  - 院子里有**两棵古老的大槐树**。(There are 2 ancient pagoda trees in the courtyard.)\n\n2. 处所 + 是 + 人/物 (Exclusivity & Full Surface Identity):\n- 表示 **某处「满是 / 到处是 / 唯一存在的是」（侧重整体判断与充满）**：\n  - 桌子上**是一堆凌乱的文件**。(The desk is [covered with] a pile of messy files.)\n  - 窗外**是一片绿油油的麦田**。(Outside the window is an expansive green wheat field.)\n\n3. 对比总结：\n- **「有」**：表存在其一/部分（山上**有**树 [山上可能还有草、花、亭子]）。\n- **「是」**：表放眼望去全都是/满目皆是（山上**全都是**树 [满山都是森林]）。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (16.2.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "李明的书房非常雅致，靠窗的书架上摆满了各种中外名著，桌子上有一套精美的中国紫砂茶具。",
+                    "reading": "Lǐ Míng de shūfáng fēicháng yǎzhi, kào chuāng de shūjià shang bǎimǎn le gè zhǒng zhōngwài míngzhù, zhuōzi shang yǒu yí tào jīngměi de Zhōngguó zǐshā chájù.",
+                    "translation": "Li Ming's study is very elegant; the bookshelf by the window is filled with various Chinese and foreign classics, and on the desk is a set of exquisite Chinese Yixing clay tea ware."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (16.2.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "推开阳台的窗户向外眺望，楼下是一片生机勃勃的花园，不远处是一座现代化的体育馆。",
+                    "reading": "Tuīkāi yángtái de chuānghu xiàng wài tiàowàng, lóuxià shì yí piàn shēngjībóbó de huāyuán, bù yuǎn chù shì yí zuò xiàndàihuà de tǐyùguǎn.",
+                    "translation": "Pushing open the balcony window to gaze outside, below the building is a vibrant garden, and not far away is a modern sports stadium."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (16.2.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "校园中心广场的中央是一座标志性的现代雕塑，周围有许多来自世界各地的留学生在用中文亲切交流。",
+                    "reading": "Xiàoyuán zhōngxīn guǎngchǎng de zhōngyāng shì yí zuò biāozhìxìng de xiàndài diāosù, zhōuwéi yǒu xǔduō láizì shìjiè gèdì de liúxuéshēng zài yòng zhōngwén qīnqiè jiāoliú.",
+                    "translation": "In the center of the campus central plaza is an iconic modern sculpture, and around it are many international students chatting warmly in Chinese."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 空间方位与存现句 (Existential Locative Sentences)"
+                "有 = There exists some (part/quantity)! 是 = The whole view IS filled with (all/identity)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Yixing zisha clay teapots (宜兴紫砂壶) from Jiangsu province represent traditional Chinese tea connoisseurship, prized for absorbing tea aromas over decades of use."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「空间方位与存现句 (Existential Locative Sentences)」在第2小节中的标准汉语语法规范？",
+                    "prompt": "句子‘黑板上写满了汉字’如果用‘是’改写表达‘放眼看去全都是汉字’，规范形式是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (16.2.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (16.2.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (16.2.3)。"
+                        "黑板上是汉字 (Locative + 是 + Noun: expressing whole surface composition)",
+                        "黑板有汉字是",
+                        "汉字是黑板"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "处所 + 是 + 名词 indicates that the whole space or surface is filled with that entity."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「存现句与空间方位表述 (Existential Sentences)」语用情境与完整句式的选项（练习 2）：",
+                    "prompt": "对比‘桌子上有几本书’与‘桌子上全都是书’，后者的语用意图是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (16.2.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (16.2.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (16.2.3)。"
+                        "说明桌子很贵",
+                        "强调桌子表面被书本完全占满覆盖 (Emphasizes that the table surface is entirely covered by books)",
+                        "桌子上没有书"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "是/全都是 conveys that the surface is completely occupied."
                 }
             ]
         },
@@ -7934,85 +7952,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「空间方位与存现句 (Existential Locative Sentences)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 16-2）？",
+                    "prompt": "存现句的一个最重要句法特征是：",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (16.2.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (16.2.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (16.2.3)。"
+                        "句首主语通常是表示空间方位的处所词 (Sentence subject is typically a locative phrase)",
+                        "不能有动词",
+                        "宾语必须是代词"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "explanation": "In existential sentences, the subject is typically a locative phrase indicating the location of existence."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («桌上有_16_2»):",
+                    "prompt": "Type the Hanzi for 'to be full of / filled with' (摆满):",
                     "acceptedAnswers": [
-                        "桌上有_16_2"
+                        "摆满",
+                        "baiman",
+                        "bǎimǎn",
+                        "Bǎimǎn",
+                        "Baiman",
+                        "擺滿"
                     ],
-                    "explanation": "The target keyword was: 【桌上有_16_2】"
+                    "explanation": "摆满 (bǎimǎn) means 'to be completely arranged / filled with'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u16-l3": {
         "id": "zh-u16-l3",
-        "subject": "mandarin",
-        "unit": 16,
-        "lessonNumber": 3,
-        "title": "存现句与空间方位表述 (Existential Sentences) (Part 3)",
+        "unit": "zh-u16",
         "level": "B1",
-        "objective": "Comprehensive mastery of 空间方位与存现句 (Existential Locative Sentences).",
+        "objective": "Master posture/state existential sentences (处所 + 动词 + 着/了 + 不确定名词: 门上贴着春联, 墙上挂着画, 门口站着一位老师) denoting ongoing continuous state resulting from an action.",
+        "prerequisites": [
+            "zh-u16-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u16-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「存现句与空间方位表述 (Existential Sentences)」（第3部分）的核心句法结构与空间方位与存现句 (Existential Locative Sentences)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "动态姿态与状态存现句是汉语中描写**场景、环境与人物静态风貌**最生动优美的句法结构！\n\n1. 核心状态存现公式 (Posture/State Existential Formula):\n- **处所主语 + 姿态/放置动词 + 着 / 了 + 数量短语 + 名词**\n- **四大类高频姿态动词**：\n  - **人体姿态**：站着 (standing)、坐着 (sitting)、躺着 (lying)、蹲着 (squatting)。\n  - **悬挂附着**：挂着 (hanging)、贴着 (pasted/sticking)、印着 (printed)。\n  - **放置陈列**：放着 (placed)、摆着 (arranged/displayed)、停着 (parked)。\n  - **盛装容纳**：盛着 (contained)、装着 (packed with)、种着 (planted with)。\n\n2. 宾语的不确定性法则 (Indefiniteness Law):\n- 存现句中的宾语**必须是不确定的新信息（带数量词）**：\n  - 正确：门口站着**一位老教授**。(An old professor is standing at the door.)\n  - 错误：*门口站着张教授 (已知特指人物不能作此存现宾语，应说：张教授在门口站着)。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (16.3.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "春节期间，家家户户的大门上都贴着红彤彤的春联和吉祥的福字。",
+                    "reading": "Chūnjié qījiān, jiājiā-hùhù de dàmén shang dōu tiē zhe hóngtōngtōng de chūnlián hé jíxiáng de fúzì.",
+                    "translation": "During Spring Festival, bright red Spring Festival couplets and auspicious 'Fu' characters are pasted on every household's front door."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (16.3.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "学术报告厅的前排端坐着数位德高望重的老教授，后排站着许多前来旁听的青年学者。",
+                    "reading": "Xuéshù bàogàotīng de qiánpái duānzuò zhe shù wèi dégāowàngzhòng de lǎo jiàoshòu, hòupái zhàn zhe xǔduō qiánlái pángtīng de qīngnián xuézhě.",
+                    "translation": "In the front row of the lecture hall sit several highly respected senior professors, while in the back stand many young scholars who came to audit."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (16.3.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "宽敞明亮的会议室墙壁上挂着一幅气势恢宏的中国传统水墨山水画。",
+                    "reading": "Kuānchang míngliàng de huìyìshì qiángbì shang guà zhe yì fú qìshì huīhóng de Zhōngguó chuántǒng shuǐmò shānshuǐhuà.",
+                    "translation": "On the wall of the spacious and bright meeting room hangs a magnificent traditional Chinese ink wash landscape painting."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 空间方位与存现句 (Existential Locative Sentences)"
+                "Place + Verb + 着 + New Object! 门上贴着春联 (Couplets pasted on door), 墙上挂着画 (Painting hanging on wall)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Spring Festival couplets (春联 chūnlián) and inverted 'Fu' characters (福倒了 = 福到了, blessing has arrived) are traditional poetic decorations pasted during Chinese Lunar New Year."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「空间方位与存现句 (Existential Locative Sentences)」在第3小节中的标准汉语语法规范？",
+                    "prompt": "句子‘会议室里坐着几十位来自各国的语言学者’中，‘坐着’表示的语法意义是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (16.3.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (16.3.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (16.3.3)。"
+                        "动作正在剧烈进行",
+                        "动作完成后持续保持的静态姿势 (Continuous state/posture resulting from sitting down)",
+                        "动作尚未发生"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "动词+着 in existential sentences denotes a sustained static posture resulting from an action."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「存现句与空间方位表述 (Existential Sentences)」语用情境与完整句式的选项（练习 3）：",
+                    "prompt": "下列哪一个存现句在宾语的‘不确定性’上完全符合现代汉语语法规范？",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (16.3.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (16.3.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (16.3.3)。"
+                        "门前停着王老师的车 (*Wrong: definite specific vehicle)",
+                        "门前停着一辆崭新的红色自行车 (Mén qián tíng zhe yí liàng zhǎnxīn de hóngsè zìxíngchē — Indefinite object with numeral-classifier)",
+                        "门前停着我爸爸"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "Existential sentences require an indefinite noun phrase (一辆崭新的红色自行车) as the post-verbal object."
                 }
             ]
         },
@@ -8020,85 +8050,98 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「空间方位与存现句 (Existential Locative Sentences)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 16-3）？",
+                    "prompt": "关于动态存现句‘墙上挂着一幅中国画’，下列分析正确的是：",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (16.3.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (16.3.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (16.3.3)。"
+                        "‘中国画’是主语",
+                        "‘墙上’是句首处所主语，‘一幅中国画’是存现宾语 (墙上 is locative subject, 一幅中国画 is existential object)",
+                        "‘挂着’是形容词"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "explanation": "墙上 functions as the locative topic/subject, and 一幅中国画 is the post-verbal indefinite existential patient."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («桌上有_16_3»):",
+                    "prompt": "Type the Hanzi for 'hanging / is hanging' (挂着):",
                     "acceptedAnswers": [
-                        "桌上有_16_3"
+                        "挂着",
+                        "guazhe",
+                        "guàzhe",
+                        "Guàzhe",
+                        "Guazhe",
+                        "掛著",
+                        "挂著"
                     ],
-                    "explanation": "The target keyword was: 【桌上有_16_3】"
+                    "explanation": "挂着 (guàzhe) means 'hanging / is hanging'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u16-l4": {
         "id": "zh-u16-l4",
-        "subject": "mandarin",
-        "unit": 16,
-        "lessonNumber": 4,
-        "title": "存现句与空间方位表述 (Existential Sentences) (Part 4)",
+        "unit": "zh-u16",
         "level": "B1",
-        "objective": "Comprehensive mastery of 空间方位与存现句 (Existential Locative Sentences).",
+        "objective": "Master dynamic emergence and disappearance existential sentences (处所 + 动词 + 了/方向补语 + 不确定名词: 前面来了一个人, 班里转走了两个学生, 天空飘起了雪花).",
+        "prerequisites": [
+            "zh-u16-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u16-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「存现句与空间方位表述 (Existential Sentences)」（第4部分）的核心句法结构与空间方位与存现句 (Existential Locative Sentences)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "除了表达静态存在，存现句还可以生动描绘事物的**突然出现（Emergence）与消失离去（Disappearance）**！\n\n1. 出现存现句 (Emergence / Appearance Formula):\n- **处所主语 + 趋向动词 / 出现动词 + 了/着 + 数量短语 + 名词**\n- 例子：\n  - 前面**走来了一位外国留学生**。(Ahead walked over a foreign student.)\n  - 天空中**飘起了纷纷扬扬的雪花**。(Snowflakes began fluttering in the sky.)\n  - 隔壁**搬来了一家新邻居**。(A new family of neighbors moved in next door.)\n\n2. 消失存现句 (Disappearance Formula):\n- **处所主语 + 消失/离去动词 + 了 + 数量短语 + 名词**\n- 例子：\n  - 树上**掉下来一片金黄的银杏叶**。(A golden ginkgo leaf fell from the tree.)\n  - 我们班昨天**转走了两名交换生**。(Two exchange students transferred out from our class.)\n  - 兜里**掉了一百块钱**。(A hundred yuan dropped out of the pocket.)",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (16.4.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "初冬的清晨，校园林荫道的前方迎面走来了一位精神矍铄的老教授。",
+                    "reading": "Chūdōng de qīngchén, xiàoyuán línyīndào de qiánfāng yíngmiàn zǒu lái le yí wèi jīngshénjuéshuò de lǎo jiàoshòu.",
+                    "translation": "On an early winter morning, an energetic senior professor walked toward us along the campus tree-lined avenue."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (16.4.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "一阵瑟瑟的秋风吹过，枝头纷纷扬扬地飘落下了无数片金黄色的银杏树叶。",
+                    "reading": "Yí zhèn sèsè de qiūfēng chuī guò, zhītóu fēnfēnyángyáng de piāoluò xià le wúshù piàn jīnhuángsè de yínxìng shùyè.",
+                    "translation": "As a gust of rustling autumn wind blew past, countless golden ginkgo leaves fluttered down from the branches."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (16.4.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "下课铃声刚刚响起，走廊里顿时涌出了许许多多欢声笑语的大学生。",
+                    "reading": "Xiàkè língshēng gānggāng xiǎngqǐ, zǒuláng lǐ dùnshí yǒngchū le xǔxǔ-duōduō huānshēngxiàoyǔ de dàxuéshēng.",
+                    "translation": "Just as the dismissal bell rang, countless laughing university students immediately poured out into the hallway."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 空间方位与存现句 (Existential Locative Sentences)"
+                "Appearance: 来了一位老师 (A teacher came); Disappearance: 走了一位客人 (A guest left), 掉了一片叶子 (A leaf fell)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Ginkgo trees (银杏树 yínxìngshù), known as living fossils, turn dazzling gold in late autumn, making university campuses across China famous scenic destinations."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「空间方位与存现句 (Existential Locative Sentences)」在第4小节中的标准汉语语法规范？",
+                    "prompt": "句子‘楼下搬来了一位新邻居’表达了哪种存现语法语义？",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (16.4.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (16.4.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (16.4.3)。"
+                        "静态存在",
+                        "动态出现 (Dynamic emergence / arrival of new entity)",
+                        "辩驳比较"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "搬来了一位新邻居 expresses the dynamic arrival/emergence of a new entity."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「存现句与空间方位表述 (Existential Sentences)」语用情境与完整句式的选项（练习 4）：",
+                    "prompt": "表达‘树上掉下来了一个苹果’时，动词‘掉下来’充当的是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (16.4.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (16.4.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (16.4.3)。"
+                        "带复合趋向补语的消失/下落动词 (Disappearance/descent verb with compound directional complement)",
+                        "形容词修饰语",
+                        "祈使语气助词"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "掉下来 combines verb 掉 with directional complement 下来 denoting descent/appearance."
                 }
             ]
         },
@@ -8106,85 +8149,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「空间方位与存现句 (Existential Locative Sentences)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 16-4）？",
+                    "prompt": "下列哪个句子属于典型的‘动态出现存现句’？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (16.4.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (16.4.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (16.4.3)。"
+                        "昨天下午我买了一本书",
+                        "他在教室里看书",
+                        "操场前方跑过来了一队晨练的大学生 (Cǎochǎng qiánfāng pǎo guòlai le yí duì chénliàn de dàxuéshēng)"
                     ],
                     "answerIndex": 2,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "explanation": "操场前方 (place) + 跑过来 (directional verb) + 了 + 一队晨练的大学生 (indefinite new subject) is a textbook dynamic appearance existential sentence."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («桌上有_16_4»):",
+                    "prompt": "Type the Hanzi for 'fluttered down / fell down' (飘落下):",
                     "acceptedAnswers": [
-                        "桌上有_16_4"
+                        "飘落下",
+                        "piaoluoxia",
+                        "piāoluòxià",
+                        "Piāoluòxià",
+                        "Piaoluoxia",
+                        "飄落下"
                     ],
-                    "explanation": "The target keyword was: 【桌上有_16_4】"
+                    "explanation": "飘落下 (piāoluòxià) means 'fluttered down / drifted down'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u16-l5": {
         "id": "zh-u16-l5",
-        "subject": "mandarin",
-        "unit": 16,
-        "lessonNumber": 5,
-        "title": "存现句与空间方位表述 (Existential Sentences) (Part 5)",
+        "unit": "zh-u16",
         "level": "B1",
-        "objective": "Comprehensive mastery of 空间方位与存现句 (Existential Locative Sentences).",
+        "objective": "Synthesize static (有/是), posture (V+着/了), and dynamic (出现/消失) existential constructions into rich spatial descriptions and campus tour dialogues.",
+        "prerequisites": [
+            "zh-u16-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u16-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「存现句与空间方位表述 (Existential Sentences)」（第5部分）的核心句法结构与空间方位与存现句 (Existential Locative Sentences)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在本课中，我们将系统整合第十六单元的所有存现句式，构建完整的空间叙事与场景描写体系！\n\n1. 存现句全景分类与选用总表 (Master Existential Architecture):\n| 存现类型 | 结构公式 | 核心功能与经典例句 |\n| :--- | :--- | :--- |\n| **静态存在 (有)** | 处所 + 有 + 数量 + 名词 | 表达有无与部分存在：桌子上有三本书 |\n| **全貌判断 (是)** | 处所 + 是 + 名词 | 表达满目皆是与整体属性：山上全都是绿树 |\n| **静态姿态 (着/了)** | 处所 + 姿态动词 + 着 + 名词 | 描写持续静态风貌：门口站着一位老师；墙上挂着国画 |\n| **动态出现 (来)** | 处所 + 趋向动词 + 了/来 + 名词 | 描写新事物入场：前面走来了一个留学生 |\n| **动态消失 (去)** | 处所 + 离去动词 + 了/去 + 名词 | 描写事物离场掉落：树上掉下来一片金黄的银杏叶 |\n\n2. 第十六单元实战交际演练 (Unit 16 Synthesis Narrative):\n- 漫步北京大学未名湖畔：博雅塔下碧波荡漾，长椅上坐着读书学子，湖边走来各国游人。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (16.5.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "大卫漫步在大学未名湖畔：湖的东岸矗立着著名的博雅塔，湖边的石椅上坐着几位正在安静晨读的同学，树林深处传来了一阵阵清脆悦耳的鸟鸣声。",
+                    "reading": "Dàwèi mànbù zài dàxué Wèimíng Hú pàn: Hú de dōng'àn chùlì zhe zhùmíng de Bóyǎ Tǎ, húbiān de shíyǐ shang zuò zhe jǐ wèi zhèngzài ānjìng chéndú de tóngxué, shùlín shēnchù chuánlái le yízhènzhèn qīngcuì yuè'ěr de niǎomíngshēng.",
+                    "translation": "David strolled along the bank of the university's Weiming Lake: on the east bank of the lake stood the famous Boya Pagoda, on the stone benches by the lake sat several students quietly morning reading, and from deep in the woods came bursts of crisp, melodious birdsong."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (16.5.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "推开这间中国传统书画工作室的大门，迎面是一面古色古香的屏风，长案上整齐地摆放着文房四宝，墙壁上悬挂着历代名家字画。",
+                    "reading": "Tuīkāi zhè jiān Zhōngguó chuántǒng shūhuà gōngzuòshì de dàmén, yíngmiàn shì yí miàn gǔsègǔxiāng de píngfēng, cháng'àn shang zhěngqí de bǎifàng zhe wénfángsìbǎo, qiángbì shang xuánguà zhe lìdài míngjiā zìhuà.",
+                    "translation": "Pushing open the doors of this traditional Chinese calligraphy studio, facing you is an antique screen, on the long table are neatly arranged the Four Treasures of the Study, and on the walls hang calligraphy and paintings by famous masters of past dynasties."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (16.5.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "正当大家热烈讨论时，门外突然走进来了一位国际知名的汉学大师，全场顿时响起了热烈的掌声。",
+                    "reading": "Zhèngdāng dàjiā rèliè tǎolùn shí, ménwài tūrán zǒu jìnlái le yí wèi guójì zhìmíng de hànxué dàshī, quánchǎng dùnshí xiǎngqǐ le rèliè de zhǎngshēng.",
+                    "translation": "Just as everyone was discussing heatedly, an internationally renowned master of Sinology suddenly walked in through the door, and warm applause immediately resonated throughout the hall."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 空间方位与存现句 (Existential Locative Sentences)"
+                "Existential Master: Place leads the way! 有 (exists), 是 (fills), 着 (posture), 来了 (enters), 去了 (departs)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "The 'Four Treasures of the Study' (文房四宝 wénfángsìbǎo: 笔 brush, 墨 ink, 纸 paper, 砚 inkstone) embody the pinnacle of traditional Chinese scholarly aesthetics and literati culture."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「空间方位与存现句 (Existential Locative Sentences)」在第5小节中的标准汉语语法规范？",
+                    "prompt": "句子‘树林深处传来了一阵清脆的鸟鸣声’属于：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (16.5.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (16.5.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (16.5.3)。"
+                        "动态出现存现句 (Emergence existential sentence: Place + 传来 + 了 + Sound)",
+                        "比较句",
+                        "被字句"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "处所 (树林深处) + 出现动词 (传来) + 了 + 不确定宾语 (鸟鸣声) is a dynamic appearance existential construction."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「存现句与空间方位表述 (Existential Sentences)」语用情境与完整句式的选项（练习 5）：",
+                    "prompt": "在古典园林场景描写中，将‘古色古香的案几上陈列着文房四宝’与‘园林池塘里游着几尾金鱼’结合，展现了存现句在什么语境下的修辞魅力？",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (16.5.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (16.5.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (16.5.3)。"
+                        "吵架辩论",
+                        "空间全景与静态意境描写 (Spatial panorama & evocative environmental description)",
+                        "数学计算"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "Existential sentences are standard literary tools for rich spatial panoramas and immersive environmental aesthetics."
                 }
             ]
         },
@@ -8192,24 +8247,30 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「空间方位与存现句 (Existential Locative Sentences)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 16-5）？",
+                    "prompt": "关于现代汉语存现句体系，下列哪一项总括最为准确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (16.5.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (16.5.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (16.5.3)。"
+                        "存现句必须使用‘被’字",
+                        "存现句以处所为句首起点，涵盖存在(有/是)、姿态(着)与动态显隐(来/去)三大维度 (Existential sentences take locative origin, spanning existence, posture, and dynamic emergence/loss)",
+                        "存现句只能用于书面语"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "Existential sentences use locative-initial structure across existence (有/是), posture (着), and dynamic transition (来/去)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («桌上有_16_5»):",
+                    "prompt": "Type the 4-character Hanzi idiom for 'Four Treasures of the Study' (文房四宝):",
                     "acceptedAnswers": [
-                        "桌上有_16_5"
+                        "文房四宝",
+                        "wenfangsibao",
+                        "wénfángsìbǎo",
+                        "Wénfángsìbǎo",
+                        "Wenfangsibao",
+                        "文房四寶"
                     ],
-                    "explanation": "The target keyword was: 【桌上有_16_5】"
+                    "explanation": "文房四宝 (wénfángsìbǎo) means 'the Four Treasures of the Study (brush, ink, paper, inkstone)'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u17-l1": {
