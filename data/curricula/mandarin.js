@@ -14147,63 +14147,69 @@
     },
     "zh-u29-l1": {
         "id": "zh-u29-l1",
-        "subject": "mandarin",
-        "unit": 29,
-        "lessonNumber": 1,
-        "title": "学术论文规范与科研答辩 (Academic Dissertation & Defense) (Part 1)",
+        "unit": "zh-u29",
         "level": "C1",
-        "objective": "Comprehensive mastery of 学术论文与科研答辩 (Academic Dissertation & Defense).",
+        "objective": "Master academic dissertation architecture and review discourse (摘要 abstract, 关键词 keywords, 文献综述 literature review, 理论框架 theoretical framework, 研究空白 research gap, 核心论点 thesis statement).",
+        "prerequisites": [
+            "zh-u28-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u28-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「学术论文规范与科研答辩 (Academic Dissertation & Defense)」（第1部分）的核心句法结构与学术论文与科研答辩 (Academic Dissertation & Defense)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "学术论文是严谨的学术论证载体，讲求**「逻辑自洽、文献扎实、论点鲜明」**！\n\n1. 论文核心架构与要素 (Thesis Structure & Elements):\n- **摘要 (zhāiyào, Abstract)**：简明扼要概括研究背景、核心方法、主要发现与学术价值（200-300字）。\n- **文献综述 (Literature Review)**：系统梳理国内外前沿研究脉络，指出已有研究的不足与**研究空白（Research Gap）**。\n- **理论框架 (Theoretical Framework)**：确立本文分析与推演的理论支点与概念模型。\n\n2. 严谨学术论述连接词 (Academic Connectives):\n- 「综上所述 (In summary)」「有鉴于此 (In view of this)」「鉴于以往文献大多侧重于……，本文拟从……视角切入……」。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (29.1.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "研究生导师在开题报告指导会上点评：‘你的文献综述不能只是简单罗列前人观点，必须对现有研究进行批判性梳理，精准提炼出本课题拟解决的核心研究空白！’",
+                    "reading": "Yánjiūshēng dǎoshī zài kāití bàogào zhǐdǎohuì shang diǎnpíng: ‘Nǐ de wénxiàn zōngshù bù néng zhǐshì jiǎndān luóliè qiánrén guāndiǎn, bìxū duì xiànyǒu yánjiū jīnxíng pīpànxìng shūlǐ, jīngzhǔn tíliàn chū běn kètí nǐ jiějué de héxīn yánjiū kòngbái!’",
+                    "translation": "The advisor commented: 'Your literature review shouldn't just list opinions; critically synthesize existing work to pinpoint the core research gap!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (29.1.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫在博士论文摘要中写道：‘本文构建了双重差分空间计量模型，系统评估了绿色金融政策对区域产业结构升级的溢出效应，拓展了环境经济学的分析边界。’",
+                    "reading": "Dàwèi zài bóshì lùnwén zhāiyào zhōng xiě dào: ‘Běnwén gòujiàn le shuāngzhòng chàfēn kōngjiān jìliàng móxíng, xìtǒng pínggū le lǜsè jīnróng zhèngcè duì qūyù chǎnyè jiégòu shēngjí de yìchū xiàoyì, tuòzhǎn le huánjìng jīngjìxué de fēnxī biānjiè.’",
+                    "translation": "David wrote in his abstract: 'This paper constructs a DID spatial econometric model evaluating green finance spillover on industrial upgrading.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (29.1.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "学术期刊主编在投稿指南讲座中强调：‘优秀的摘要必须开门见山，用凝练的学术语言交代研究问题、实证方法和核心结论，使读者在三分钟内把握论文精髓。’",
+                    "reading": "Xuéshù qīkān zhǔbiān zài tóugǎo zhǐnán jiǎngzuò zhōng qiángdiào: ‘Yōuxiù de zhāiyào bìxū kāimén-jiànshān, yòng níngliàn de xuéshù yǔyán jiāodài yánjiū wèntí, shízhèng fāngfǎ hé héxīn jiélùn, shǐ dúzhě zài sān fēnzhōng nèi bǎwò lùnwén jīngsuǐ.’",
+                    "translation": "The editor emphasized: 'A great abstract gets straight to the point with concise academic language on research question, empirical method, and conclusions.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 学术论文与科研答辩 (Academic Dissertation & Defense)"
+                "Dissertation Backbone: 摘要 (Abstract) + 文献综述 (Literature Review) + 理论框架 (Theoretical Framework) + 填补空白 (Fill Research Gap)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "In Chinese academia, dissertation abstracts are strictly bilingual (Chinese and English), followed by 3-5 standard keywords (关键词) separated by semicolons."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「学术论文与科研答辩 (Academic Dissertation & Defense)」在第1小节中的标准汉语语法规范？",
+                    "prompt": "系统梳理、评述国内外学术界关于某一研究课题的历史沿革、最新进展与存在不足的专门章节是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (29.1.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (29.1.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (29.1.3)。"
+                        "致谢辞",
+                        "文献综述 (Literature Review)",
+                        "附录图表"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "文献综述 (Literature Review) synthesizes and critiques prior academic literature to establish context."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「学术论文规范与科研答辩 (Academic Dissertation & Defense)」语用情境与完整句式的选项（练习 1）：",
+                    "prompt": "指出前人研究中尚未充分探讨、存在争议或亟待深化拓展的具体学术领域，在科研论著中被称为：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (29.1.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (29.1.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (29.1.3)。"
+                        "研究空白 (Research Gap)",
+                        "文章页码",
+                        "字数统计"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "研究空白 (Research Gap) defines the novel contribution area of a study."
                 }
             ]
         },
@@ -14211,85 +14217,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「学术论文与科研答辩 (Academic Dissertation & Defense)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 29-1）？",
+                    "prompt": "关于学术论文开题规范与摘要撰写要求，下列哪一项表述完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (29.1.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (29.1.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (29.1.3)。"
+                        "学术论文摘要应以凝练客观的语言概括研究背景、方法、核心结论与创新点，文献综述应精准定位研究空白 (Abstract concisely states methods and findings, lit review pinpoints research gap)",
+                        "摘要应该写成故事小说",
+                        "文献综述只需要抄录教科书目录"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "explanation": "Accurately represents academic standards for thesis abstracts and literature reviews."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («论文_29_1»):",
+                    "prompt": "Type the 4-character Hanzi term for 'literature review' (文献综述):",
                     "acceptedAnswers": [
-                        "论文_29_1"
+                        "文献综述",
+                        "wenxianzongshu",
+                        "wénxiànzōngshù",
+                        "Wénxiànzōngshù",
+                        "Wenxianzongshu",
+                        "文獻綜述"
                     ],
-                    "explanation": "The target keyword was: 【论文_29_1】"
+                    "explanation": "文献综述 (wénxiàn zōngshù) means 'literature review'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u29-l2": {
         "id": "zh-u29-l2",
-        "subject": "mandarin",
-        "unit": 29,
-        "lessonNumber": 2,
-        "title": "学术论文规范与科研答辩 (Academic Dissertation & Defense) (Part 2)",
+        "unit": "zh-u29",
         "level": "C1",
-        "objective": "Comprehensive mastery of 学术论文与科研答辩 (Academic Dissertation & Defense).",
+        "objective": "Master the discourse of quantitative and qualitative research methodologies (定量研究 quantitative research, 定性/质性研究 qualitative research, 实证分析 empirical analysis, 问卷信度与效度 reliability and validity, 多元回归分析 multiple regression analysis, 双重差分法 DID).",
+        "prerequisites": [
+            "zh-u29-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u29-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「学术论文规范与科研答辩 (Academic Dissertation & Defense)」（第2部分）的核心句法结构与学术论文与科研答辩 (Academic Dissertation & Defense)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "严谨的科学研究依赖于**「科学的研究方法、可复现的数据检验与严密的方法论论证」**！\n\n1. 定量与定性研究范式 (Research Methodologies):\n- **定量实证研究 (Quantitative Empirical Research)**：通过大样本问卷抽样、计量经济学模型（如多元回归、面板数据分析、双重差分法 DID）检验假设与因果关系。\n- **质性/定性研究 (Qualitative Research)**：通过半结构化深度访谈、扎根理论（Grounded Theory）、田野调查与多案例比较分析提炼概念机制。\n\n2. 数据质量与严谨性检验 (Data Validation & Robustness):\n- **信度与效度 (Reliability & Validity)**：Cronbach's $\\alpha$ 系数与因子分析。\n- **稳健性检验 (Robustness Check)**：替换核心变量、缩尾处理、排除极端值与安慰剂检验。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (29.2.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "统计学教授在方法论研讨课上讲解：‘在进行多元回归分析之前，必须对问卷数据进行严格的信度与效度检验，确保测量工具的科学性与大样本数据的可靠性！’",
+                    "reading": "Tǒngjìxué jiàoshòu zài fāngfǎlùn yántǎokè shang jiǎngjiě: ‘Zài jīnxíng duōyuán huíguī fēnxī zhīqián, bìxū duì wènjuàn shùjù jīnxíng yángé de xìndù yǔ xiàodù jiǎnyàn, quèbǎo cèliáng gōngjù de kēxuéxìng yǔ dà-yàngběn shùjù de kěkàoxìng!’",
+                    "translation": "The statistics professor lectured: 'Before multiple regression, you must conduct strict reliability and validity tests on survey data!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (29.2.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫向研究团队汇报实证结果：‘为了排除内生性问题的干扰，我们引入了工具变量法并进行了多轮稳健性检验，基准回归结果依然高度显著！’",
+                    "reading": "Dàwèi xiàng yánjiū tuánduì huìbào shízhèng jiéguǒ: ‘Wèile páichú nèishēngxìng wèntí de gānrǎo, wǒmen yǐnrù le gōngjù biànliàng fǎ bìng jīnxíng le duō lún wěnjiànxìng jiǎnyàn, jīzhǔn huíguī jiéguǒ yīrán gāodù xiǎnzhù!’",
+                    "translation": "David reported: 'To rule out endogeneity, we introduced instrumental variables and ran multiple robustness checks; baseline regression remains highly significant!'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (29.2.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "社会学研究员介绍质性田野调查：‘我们运用扎根理论的三级编码方法，对来自五十位行业专家的半结构化深度访谈文本进行了系统提炼，构建了创新扩散机制模型。’",
+                    "reading": "Shèhuìxué yánjiūyuán jièshào zhìxìng tiányě diàochá: ‘Wǒmen yùnyòng zhāgēn lǐlùn de sān-jí biānmǎ fāngfǎ, duì láizì wǔshí wèi hángyè zhuānjiā de bàn-jiégòuhuà shēndù fǎngtán wénběn jīnxíng le xìtǒng tíliàn, gòujiàn le chuàngxīn kuòsàn jīzhì móxíng.’",
+                    "translation": "The sociologist introduced: 'Using grounded theory 3-tier coding on 50 expert semi-structured interviews, we modeled innovation diffusion.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 学术论文与科研答辩 (Academic Dissertation & Defense)"
+                "Method Rigor: 定量回归 (Regression Analysis) + 定性质性 (Qualitative Coding) + 信度效度 (Reliability & Validity) + 稳健检验 (Robustness Check)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "In Chinese academic publishing (CSSCI/CSCD journals), empirical quantitative studies and grounded theory qualitative frameworks dominate high-impact methodology requirements."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「学术论文与科研答辩 (Academic Dissertation & Defense)」在第2小节中的标准汉语语法规范？",
+                    "prompt": "在问卷调查与实证测量中，用于检验问卷测量结果一致性、稳定性与可靠程度的统计学指标是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (29.2.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (29.2.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (29.2.3)。"
+                        "封面排版",
+                        "信度 (Reliability)",
+                        "字号大小"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "信度 (Reliability) measures the internal consistency and stability of survey instruments."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「学术论文规范与科研答辩 (Academic Dissertation & Defense)」语用情境与完整句式的选项（练习 2）：",
+                    "prompt": "通过更换变量衡量方式、改变样本区间或增加控制变量来验证回归结论是否依然成立的检验程序被称为：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (29.2.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (29.2.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (29.2.3)。"
+                        "稳健性检验 (Robustness Check)",
+                        "随意篡改",
+                        "快速跳过"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "稳健性检验 (Robustness Check) confirms that empirical findings do not depend on arbitrary model specifications."
                 }
             ]
         },
@@ -14297,85 +14315,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「学术论文与科研答辩 (Academic Dissertation & Defense)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 29-2）？",
+                    "prompt": "关于定量实证研究与定性质性研究的方法论规范，下列哪一项表述完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (29.2.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (29.2.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (29.2.3)。"
+                        "定量研究不需要任何数据即可得出结论",
+                        "定量研究依赖严密的数据检验、信效度分析与稳健性检验，质性研究注重深度访谈与理论编码提炼 (Quantitative relies on validity and robustness checks; qualitative focuses on deep interviews and coding)",
+                        "质性访谈可以完全凭空编造"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "explanation": "Accurately compares the rigorous scientific paradigms of quantitative and qualitative methods."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («论文_29_2»):",
+                    "prompt": "Type the 4-character Hanzi term for 'empirical analysis' (实证分析):",
                     "acceptedAnswers": [
-                        "论文_29_2"
+                        "实证分析",
+                        "shizhengfenxi",
+                        "shízhèngfēnxī",
+                        "Shízhèngfēnxī",
+                        "Shizhengfenxi",
+                        "實證分析"
                     ],
-                    "explanation": "The target keyword was: 【论文_29_2】"
+                    "explanation": "实证分析 (shízhèng fēnxī) means 'empirical analysis'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u29-l3": {
         "id": "zh-u29-l3",
-        "subject": "mandarin",
-        "unit": 29,
-        "lessonNumber": 3,
-        "title": "学术论文规范与科研答辩 (Academic Dissertation & Defense) (Part 3)",
+        "unit": "zh-u29",
         "level": "C1",
-        "objective": "Comprehensive mastery of 学术论文与科研答辩 (Academic Dissertation & Defense).",
+        "objective": "Master academic integrity, citation rules, and peer review correspondence (学术不端 academic misconduct/plagiarism, 论文查重率 duplication/similarity rate, 引文著录规范 citation standards GB/T 7714, 双盲同行评议 double-blind peer review, 审稿意见修回 response to reviewers).",
+        "prerequisites": [
+            "zh-u29-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u29-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「学术论文规范与科研答辩 (Academic Dissertation & Defense)」（第3部分）的核心句法结构与学术论文与科研答辩 (Academic Dissertation & Defense)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "恪守**「学术诚信与严谨引用规范」**是每一位学者安身立命的根本底线！\n\n1. 引文规范与学术诚信防线 (Citation & Integrity Standards):\n- **国标著录规范（GB/T 7714）**：中国权威参考文献著录国家标准。\n- **论文查重率（Similarity Rate / CrossCheck）**：运用知网（CNKI）、万方等查重系统检测论文相似度，杜绝抄袭剽窃等**学术不端（Academic Misconduct）**。\n\n2. 双盲同行评议与审稿互动 (Double-Blind Peer Review & Revision):\n- **双盲审稿 (Double-Blind Review)**：作者与审稿专家互不知晓身份，确保学术评价客观公正。\n- **审稿意见回复函（Response Letter）**：针对审稿人提出的意见逐条（Point-by-Point）谦逊、详实、有据地进行答复与修改。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (29.3.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "学术道德委员会主任在新生科研诚信讲座上严正指出：‘学术不端零容忍！无论是篡改实验数据、抄袭剽窃他人成果还是不当署名，都将直接取消学位并记入学术诚信档案！’",
+                    "reading": "Xuéshù Dàodé Wěiyuánhuì zhǔrèn zài xīnshēng kēyán chéngxìn jiǎngzuò shang yánzhèng zhǐchū: ‘Xuéshù bùduān líng róngrěn! Wúlùn shì cuàngǎi shíyàn shùjù, chāoxí piāoqì qiánrén chéngguǒ háishì bùdàng shǔmíng, dōu jiāng zhíjiē qǔxiāo xuéwèi bìng jìrù xuéshù chéngxìn dàng'àn!’",
+                    "translation": "The academic ethics chief stated: 'Zero tolerance for misconduct! Fabricating data, plagiarizing, or improper authorship results in revoked degrees!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (29.3.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫与导师讨论期刊外审修改意见：‘审稿专家提出了四条非常中肯的修改建议，我们需要在回复信中逐条列出修改说明，并在论文正文中用高亮标出修订内容。’",
+                    "reading": "Dàwèi yǔ dǎoshī tǎolùn qīkān wàishěn xiūgǎi yìjiàn: ‘Shěngǎo zhuānjiā tíchū le sì tiáo fēicháng zhòngkěn de xiūgǎi jiànyì, wǒmen xūyào zài huífùxìn zhōng zhútiáo lièchū xiūgǎi shuōmíng, bìng zài lùnwén zhèngwén zhōng yòng gāoliàng biāochū xiūdìng nèiróng.’",
+                    "translation": "David discussed review comments: 'Reviewers made four insightful comments; we must provide point-by-point responses and highlight revisions in the text.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (29.3.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "研究生院秘书通知毕业论文送审结果：‘恭喜！你的博士学位论文在教育部的“双盲匿名抽检评议”中获得了三位外审专家一致的优秀评价，顺利进入正式答辩程序！’",
+                    "reading": "Yánjiūshēngyuàn mìshū tōngzhī bìyè lùnwén sòngshěn jiéguǒ: ‘Gōngxǐ! Nǐ de bóshì xuéwèi lùnwén zài Jiàoyùbù de “shuāngmáng nìmíng chōujiǎn píngyì” zhōng huòdé le sān wèi wàishěn zhuānjiā yízhì de yōuxiù píngjià, shùnlì jìnrù zhèngshì dábìan chéngxù!’",
+                    "translation": "The graduate secretary notified: 'Congratulations! Your dissertation received unanimous excellent ratings in double-blind review and proceeds to defense!'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 学术论文与科研答辩 (Academic Dissertation & Defense)"
+                "Academic Integrity: 严谨引文 (GB/T 7714), 严控查重 (Zero Plagiarism), 双盲评审 (Double-Blind), 逐条修回 (Point-by-Point Response)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "China's Ministry of Education enforces strict random double-blind dissertation checks (学位论文抽检). Any found plagiarism leads to retroactive degree revocation."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「学术论文与科研答辩 (Academic Dissertation & Defense)」在第3小节中的标准汉语语法规范？",
+                    "prompt": "评审专家与论文作者彼此匿名、旨在最大限度保障学术评审客观公正性的同行审稿制度是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (29.3.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (29.3.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (29.3.3)。"
+                        "公开打分",
+                        "双盲同行评议 (Double-Blind Peer Review)",
+                        "亲友互评"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "双盲同行评议 (Double-Blind Peer Review) ensures impartial evaluation by keeping both author and referee identities hidden."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「学术论文规范与科研答辩 (Academic Dissertation & Defense)」语用情境与完整句式的选项（练习 3）：",
+                    "prompt": "包括伪造数据、篡改实验结果、抄袭剽窃他人学术论著等严重违背科学研究道德的行为在学术界统称为：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (29.3.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (29.3.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (29.3.3)。"
+                        "学术不端 (Academic Misconduct)",
+                        "学术繁荣",
+                        "常规借鉴"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "学术不端 (Academic Misconduct) encompasses fraud, plagiarism, and falsification in research."
                 }
             ]
         },
@@ -14383,85 +14413,98 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「学术论文与科研答辩 (Academic Dissertation & Defense)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 29-3）？",
+                    "prompt": "关于学术论文引用规范、学术诚信与同行评议机制，下列哪一项表述完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (29.3.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (29.3.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (29.3.3)。"
+                        "学术论文可以随意复制粘贴他人未发表的数据",
+                        "作者对审稿意见可以置之不理拒绝修改",
+                        "学者必须严格遵守引文著录规范与学术伦理底线，通过双盲同行评议检验并针对审稿意见进行严谨的逐条回复 (Strict citation ethics, double-blind peer review, and point-by-point revision responses)"
                     ],
                     "answerIndex": 2,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "explanation": "Accurately outlines integrity standards, double-blind peer review protocols, and professional revision etiquette."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («论文_29_3»):",
+                    "prompt": "Type the 4-character Hanzi term for 'double-blind review' (双盲评审 / 双盲评议):",
                     "acceptedAnswers": [
-                        "论文_29_3"
+                        "双盲评审",
+                        "双盲评议",
+                        "shuangmangpingshen",
+                        "shuāngmángpíngshěn",
+                        "Shuāngmángpíngshěn",
+                        "Shuangmangpingshen",
+                        "雙盲評審"
                     ],
-                    "explanation": "The target keyword was: 【论文_29_3】"
+                    "explanation": "双盲评审 (shuāngmáng píngshěn) means 'double-blind peer review'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u29-l4": {
         "id": "zh-u29-l4",
-        "subject": "mandarin",
-        "unit": 29,
-        "lessonNumber": 4,
-        "title": "学术论文规范与科研答辩 (Academic Dissertation & Defense) (Part 4)",
+        "unit": "zh-u29",
         "level": "C1",
-        "objective": "Comprehensive mastery of 学术论文与科研答辩 (Academic Dissertation & Defense).",
+        "objective": "Master the verbal rhetoric and formal etiquette of dissertation defense (答辩陈述 thesis presentation, 评委质询 committee defense Q&A, 核心创新点 core innovations, 研究局限性 limitations, 答辩委员会决议 defense committee resolution).",
+        "prerequisites": [
+            "zh-u29-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u29-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「学术论文规范与科研答辩 (Academic Dissertation & Defense)」（第4部分）的核心句法结构与学术论文与科研答辩 (Academic Dissertation & Defense)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "学位论文答辩是检验学术水平的最高殿堂，讲求**「沉着自信、逻辑严密、虚心求教、从容应答」**！\n\n1. 答辩陈述黄金结构 (Defense Presentation Structure):\n- **开场与致谢**：感谢各位答辩委员会专家莅临指导。\n- **核心创新点（Core Innovations）**：清晰提炼理论贡献、方法创新或实践价值（建议提炼三点）。\n- **研究局限与未来展望 (Limitations & Future Outlook)**：坦诚客观指出样本或维度的局限。\n\n2. 评委质询高阶应答句式 (Answering Committee Inquiries):\n- 「感谢某教授的深刻洞见与精准指正……」\n- 「针对您提出的关于内生性变量控制的问题，我们在实证模型中其实采取了如下处理……」\n- 「您提出的这一视角极为敏锐，由于篇幅与数据可得性限制，我们将在后续研究中展开专项拓展。」",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (29.4.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "大卫在博士答辩现场从容陈述：‘尊敬的答辩委员会主席、各位专家教授：本研究在理论上的核心创新点在于，首次揭示了数字技术赋能新质生产力发展的非线性传导机制！’",
+                    "reading": "Dàwèi zài bóshì dábìan xiànchǎng cóngróng chénshù: ‘Zūnjìng de dábìan wěiyuánhuì zhǔxí, gèwèi zhuānjiā jiàoshòu: Běn yánjiū zài lǐlùn shang de héxīn chuàngxīndiǎn zàiyú, shǒucì jiēshì le shùzì jìshù fùnéng xīnzhì shēngchǎnlì fāzhǎn de fēi-xiànxìng chuándǎo jīzhì!’",
+                    "translation": "David presented: 'Respected committee chair and professors: our core theoretical innovation is revealing the non-linear transmission mechanism of digital tech empowering new productive forces!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (29.4.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "面对答辩委员专家的严厉提问，大卫彬彬有礼地作答：‘非常感谢张教授的宝贵指点！正如您所言，样本主要集中于长三角制造业企业；在后续国家自然科学基金课题中，我们计划将调研范围扩展至中西部地区。’",
+                    "reading": "Miànduì dábìan wěiyuán zhuānjiā de yánlì tíwèn, Dàwèi bīnbīn-yǒulǐ de zuòdá: ‘Fēicháng gǎnxiè Zhāng jiàoshòu de bǎoguì zhǐdiǎn! Zhèngrú nín suǒ yán, yàngběn zhǔyào jízhōng yú Chángsānjiǎo zhìzàoyè qǐyè; zài hòuxù guójiā zìrán kēxué jījīn kètí zhōng, wǒmen jìhuà jiāng diàoyán fànwéi kuòzhǎn zhì zhōng-xīběi dìqū.’",
+                    "translation": "Facing tough questions, David replied courteously: 'Thank you Professor Zhang! As you noted, the sample focused on Yangtze River Delta; in subsequent projects we will expand westward.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (29.4.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "答辩委员会主席庄严宣读决议书：‘经答辩委员会全体无记名投票表决，一致同意大卫同学通过博士学位论文答辩，建议授予管理学博士学位！’",
+                    "reading": "Dábìan Wěiyuánhuì zhǔxí zhuāngyán xuāndú juéyìshū: ‘Jīng dábìan wěiyuánhuì quántǐ wújìmíng tóupiào biǎojué, yízhì tóngyì Dàwèi tóngxué tōngguò bóshì xuéwèi lùnwén dábìan, jiànyì shòuyǔ guǎnlǐxué bóshì xuéwèi!’",
+                    "translation": "The chair read the resolution: 'By unanimous secret ballot, the committee approves David's defense and recommends conferring the Ph.D. in Management!'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 学术论文与科研答辩 (Academic Dissertation & Defense)"
+                "Defense Triumph: 创新提炼 (Innovations), 坦诚局限 (Limitations), 沉着应答 (Composed Q&A), 无记名表决 (Unanimous Vote)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "In Chinese university defenses, address professors as «尊敬的各位评委老师 / 专家» and start answers with «感谢某老师的宝贵意见», maintaining highest academic humility and etiquette."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「学术论文与科研答辩 (Academic Dissertation & Defense)」在第4小节中的标准汉语语法规范？",
+                    "prompt": "在学术论文答辩中，向答辩委员会精炼阐明自己论文相较于前人研究取得的独创性突破被称为展示：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (29.4.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (29.4.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (29.4.3)。"
+                        "课外爱好",
+                        "核心创新点 (Core Innovations / Novel Contributions)",
+                        "打字速度"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "核心创新点 (Core Innovations) showcases the unique scientific advances of the research."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「学术论文规范与科研答辩 (Academic Dissertation & Defense)」语用情境与完整句式的选项（练习 4）：",
+                    "prompt": "在答辩结束后的闭门会议上，答辩委员会专家依照法定程序决定是否通过答辩的投票方式是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (29.4.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (29.4.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (29.4.3)。"
+                        "举手表决",
+                        "无记名投票 (Secret ballot / Anonymous voting)",
+                        "抽签决定"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "无记名投票 (Secret ballot) is the mandated statutory procedure for defense committee decisions."
                 }
             ]
         },
@@ -14469,85 +14512,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「学术论文与科研答辩 (Academic Dissertation & Defense)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 29-4）？",
+                    "prompt": "关于研究生学术论文答辩的陈述逻辑与应答礼仪，下列哪一项表述完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (29.4.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (29.4.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (29.4.3)。"
+                        "答辩时应当与评委发生激烈人身攻击",
+                        "答辩时严禁提及任何研究局限性",
+                        "答辩陈述应条理清晰展现研究问题、方法、核心创新点与局限展望，并在评委质询时虚心礼貌、有理有据地从容应答 (Clear presentation of innovations/limitations, courteous and evidence-based answers in Q&A)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "Accurately articulates defense rhetorical structure and professional academic etiquette."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («论文_29_4»):",
+                    "prompt": "Type the 4-character Hanzi phrase for 'defense committee' (答辩委员会):",
                     "acceptedAnswers": [
-                        "论文_29_4"
+                        "答辩委员会",
+                        "dabianweiyuanhui",
+                        "dábìanwěiyuánhuì",
+                        "Dábìanwěiyuánhuì",
+                        "Dabianweiyuanhui",
+                        "答辯委員會"
                     ],
-                    "explanation": "The target keyword was: 【论文_29_4】"
+                    "explanation": "答辩委员会 (dábìan wěiyuánhuì) means 'defense committee'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u29-l5": {
         "id": "zh-u29-l5",
-        "subject": "mandarin",
-        "unit": 29,
-        "lessonNumber": 5,
-        "title": "学术论文规范与科研答辩 (Academic Dissertation & Defense) (Part 5)",
+        "unit": "zh-u29",
         "level": "C1",
-        "objective": "Comprehensive mastery of 学术论文与科研答辩 (Academic Dissertation & Defense).",
+        "objective": "Synthesize all dissertation architecture, quantitative/qualitative methodologies, citation ethics, and defense discourse into international academic keynotes and symposia.",
+        "prerequisites": [
+            "zh-u29-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u29-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「学术论文规范与科研答辩 (Academic Dissertation & Defense)」（第5部分）的核心句法结构与学术论文与科研答辩 (Academic Dissertation & Defense)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在本课中，我们将系统整合第二十九单元的所有学术论文架构、实证与质性方法论、双盲同行评议与科研答辩应答，在国际前沿科学大会主旨报告与顶尖学者圆桌论坛中进行全景论述与高阶表达！\n\n1. 学术科研全生命周期全景矩阵 (Master Academic Research Lifecycle Matrix):\n| 科研阶段 | 核心学术规范与方法工具 | 学术价值与评价标准 |\n| :--- | :--- | :--- |\n| **选题与综述** | 摘要关键词 / 文献综述 / 理论框架 | 批判性梳理学科前沿，精准锁定并填补核心研究空白 |\n| **方法论设计** | 定量计量回归 / 质性扎根编码 / 信效度 | 确保数据来源可信、因果推断严密、稳健性检验完备 |\n| **规范与伦理** | 国标引文规范 / 查重率 / 零学术不端 | 恪守学术道德底线，维护科学共同体的公信力与学术纯洁性 |\n| **同行评议** | 双盲审稿 / 逐条修回回复信 | 在建设性学术批评中持续打磨论证深度与研究质量 |\n| **答辩与发布** | 创新点提炼 / 评委质询 / 国际前沿讲座 | 展现学者学术风范，推动科研成果转化与全球跨学科对话 |\n\n2. 第二十九单元实战交际演练 (Unit 29 Global Academic Keynote):\n- 国际管理学年会（AOM）中国学者专场主旨报告与学术辩论。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (29.5.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "中国科学院院士在国际科学前沿大会上作特邀主旨报告：‘科学研究贵在求真务实、勇攀高峰！从扎实的文献综述到严密的方法论论证，中国青年学者正以严谨的学术作风在世界科研舞台上发出中国声音！’",
+                    "reading": "Zhōngguó Kēxuéyuàn yuànshì zài guójì kēxué qiányán dàhuì shang zuò tèyāo zhǔzhǐ bàogào: ‘Kēxué yánjiū guì zài qiúzhēn-wùshí, yǒngpān-gāofēng! Cóng zhāshi de wénxiàn zōngshù dào yánmì de fāngfǎlùn lùnzhèng, Zhōngguó qīngnián xuézhě zhèng yǐ yánjǐn de xuéshù zuòfēng zài shìjiè kēyán wǔtái shang fāchū Zhōngguó shēngyīn!’",
+                    "translation": "The CAS Academician delivered the keynote: 'Research thrives on truth-seeking! From thorough lit reviews to rigorous methods, young Chinese scholars share insights globally!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (29.5.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫在国际学术研讨会圆桌论坛总结发言：‘学术研究是一场追求真理的接力赛。唯有严守学术诚信红线、勇于接受双盲同行评议的严苛检验，才能产出经得起历史与时间考验的高水平学术成果！’",
+                    "reading": "Dàwèi zài guójì xuéshù yántǎohuì yuánzhuō lùntán zǒngjié fāyán: ‘Xuéshù yánjiū shì yì chǎng zhuīqiú zhēnlǐ de jiēlìsài. Wéiyǒu yánshǒu xuéshù chéngxìn hóngxiàn, yǒngyú jiēshòu shuāngmáng tóngháng píngyì de yánkē jiǎnyàn, cái néng chǎnchū jīngdeqǐ lìshǐ yǔ shíjiān kǎoyàn de gāo-shuǐpíng xuéshù chéngguǒ!’",
+                    "translation": "David summarized: 'Research is a relay race for truth. Only by upholding academic integrity and passing double-blind peer review can we produce enduring scholarship!'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (29.5.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "国际知名学术期刊主编在闭幕式致辞：‘本届大会展现了卓越的研究范式与跨学科创新活力，期待更多学者以严谨的科学方法共同应对全人类面临的气候、健康与发展挑战！’",
+                    "reading": "Guójì zhīmíng xuéshù qīkān zhǔbiān zài bìmùshì zhìcí: ‘Běnjiè dàhuì zhǎnxiàn le zhuóyuè de yánjiū fànshì yǔ kuà-xuékē chuàngxīn huólì, qīdài gèng duō xuézhě yǐ yánjǐn de kēxué fāngfǎ gòngtóng yìngduì quán rénlèi miànlín de qìhòu, jiànkāng yǔ fāzhǎn tiǎozhàn!’",
+                    "translation": "The chief editor closed: 'This conference showed outstanding paradigms; we look forward to scholars solving climate, health, and development challenges together!'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 学术论文与科研答辩 (Academic Dissertation & Defense)"
+                "Scholar Mastery: 综述填空白 (Literature Review) + 计量质性严 (Empirical Rigor) + 诚信双盲审 (Integrity & Review) + 答辩扬风采 (Defense Keynote)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "In Chinese academic culture, the highest compliment for a scholar is «严谨治学，求真务实» (rigorous in scholarship, pragmatic in seeking truth)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「学术论文与科研答辩 (Academic Dissertation & Defense)」在第5小节中的标准汉语语法规范？",
+                    "prompt": "在学术研究与科研全流程中，被视为学者治学立身最根本的道德操守与行为底线是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (29.5.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (29.5.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (29.5.3)。"
+                        "名利双收",
+                        "学术诚信 / 严谨治学 (Academic integrity / Rigorous scholarship)",
+                        "投机取巧"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "学术诚信 (Academic integrity) is the fundamental bedrock of all scientific endeavors."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「学术论文规范与科研答辩 (Academic Dissertation & Defense)」语用情境与完整句式的选项（练习 5）：",
+                    "prompt": "在学术会议主旨演讲中，学者用以阐明自身研究对学科理论发展做出的增量贡献的专业表述是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (29.5.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (29.5.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (29.5.3)。"
+                        "理论贡献与学术价值 (Theoretical contributions and academic value)",
+                        "个人轶事",
+                        "财务预算"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "理论贡献与学术价值 describes the conceptual and theoretical advances made to the discipline."
                 }
             ]
         },
@@ -14555,24 +14610,30 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「学术论文与科研答辩 (Academic Dissertation & Defense)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 29-5）？",
+                    "prompt": "关于现代科学研究全流程规范、方法论严谨性与学术评价标准，下列哪一项总括完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (29.5.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (29.5.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (29.5.3)。"
+                        "学术论文可以随意伪造数据并拒不进行同行评议",
+                        "高水平科研成果要求选题精准填补研究空白、方法论严谨可复现、严守学术诚信底线，并通过严格的双盲同行评议与学术答辩检验 (Pinpoint research gap, reproducible methods, strict integrity, validated by double-blind review and defense)",
+                        "学术研究不需要任何理论框架"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "explanation": "Comprehensively summarizes the entire academic lifecycle, methodological standards, and peer evaluation processes."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («论文_29_5»):",
+                    "prompt": "Type the 4-character Hanzi idiom meaning 'rigorous in scholarship / rigorous pursuit of studies' (严谨治学):",
                     "acceptedAnswers": [
-                        "论文_29_5"
+                        "严谨治学",
+                        "yanjīnzhixue",
+                        "yánjǐnzhìxué",
+                        "Yánjǐnzhìxué",
+                        "Yanjinzhixue",
+                        "嚴謹治學"
                     ],
-                    "explanation": "The target keyword was: 【论文_29_5】"
+                    "explanation": "严谨治学 (yánjǐn zhìxué) means 'rigorous in scholarship'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u30-l1": {
