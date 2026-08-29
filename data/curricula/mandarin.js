@@ -15610,68 +15610,73 @@
                     "explanation": "融通中外 (róng tōng zhōng wài) means 'bridging Chinese and foreign discourse'."
                 }
             ],
-            "passThreshold": 0.8
-        }
+}
     },
     "zh-u32-l1": {
         "id": "zh-u32-l1",
-        "subject": "mandarin",
-        "unit": 32,
-        "lessonNumber": 1,
-        "title": "儒道哲学与现代伦理思辨 (Confucian-Daoist Ethics) (Part 1)",
+        "unit": "zh-u32",
         "level": "C2",
-        "objective": "Comprehensive mastery of 儒道思想与哲学思辨 (Confucian-Daoist Philosophy).",
+        "objective": "Master Confucian ethical concepts and their application in contemporary moral philosophy (仁义礼智信 Five Constant Virtues: benevolence, righteousness, propriety, wisdom, trust; 中庸之道 Doctrine of the Mean; 内圣外王 inner sageliness and outer kingliness; 格物致知 investigation of things; 德性伦理 virtue ethics).",
+        "prerequisites": [
+            "zh-u31-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u31-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「儒道哲学与现代伦理思辨 (Confucian-Daoist Ethics)」（第1部分）的核心句法结构与儒道思想与哲学思辨 (Confucian-Daoist Philosophy)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "儒家思想构成了中华文明伦理道德的坚实基石，讲求**「仁以为己任、执两用中、内圣外王、德被天下」**！\n\n1. 核心范畴与哲学命题 (Core Concepts & Maxims):\n- **五常之道 (Five Constant Virtues)**：仁（仁爱/慈悲）、义（正义/道义）、礼（礼法/规范）、智（智慧/洞察）、信（诚信/立身）。\n- **中庸之道 (Doctrine of the Mean)**：不偏不倚、过犹不及，在对立冲突中寻求动态平衡与至善境界。\n- **内圣外王 (Inner Sage & Outer King)**：通过个体内在道德修养（修身），推及齐家、治国、平天下。\n\n2. 现代伦理思辨句式 (Philosophical Discourse Syntax):\n- 「将儒家『天下大同』的崇高社会理想与现代德性伦理相结合，为全球伦理秩序重构提供了古老的东方智慧。」\n- 「在科技狂飙突进的数字时代，唯有恪守『仁者爱人』的根本底线，才能防止伦理失序。」",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (32.1.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "北京大学哲学系讲席教授在国际儒学论坛上作主旨报告：‘儒家伦理绝非陈旧的说教，其“己所不欲，勿施于人”的仁爱原则被世界宗教议会奉为全球伦理的黄金法则！’",
+                    "reading": "Běijīng Dàxué zhéxuéxì jiǎngxí jiàoshòu zài guójì Rúxué lùntán shang zuò zhǔzhǐ bàogào: ‘Rújiā lúnlǐ jué fēi chénjiù de shuōjiào, qí “jǐ suǒ bù yù, wù shī yú rén” de rén’ài yuánzé bèi Shìjiè Zōngjiào Yìhuì fèng wéi quánqiú lúnlǐ de huángjīn fǎzé!’",
+                    "translation": "The chair professor reported: 'Confucian ethics is no obsolete dogma; its Golden Rule \"Do not do unto others what you do not want done to yourself\" is embraced globally!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (32.1.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫在伦理学硕士论文开题报告中阐述：‘本研究旨在探讨儒家“中庸之道”在现代环境治理冲突协调中的化解机制，寻找经济发展与生态保护之间的最佳动态平衡点。’",
+                    "reading": "Dàwèi zài lúnlǐxué shuòshì lùnwén kāití bàogào zhōng chǎnshù: ‘Běn yánjiū zhìzài tàntǎo Rújiā “zhōngyōng zhī dào” zài xiàndài huánjìng zhìlǐ chōngtū xiétiáo zhōng de huàjiě jīzhì, xúnzhǎo jīngjì fāzhǎn yǔ shēngtài bǎohù zhījiān de zuì jiā dòngtài pínghéngdiǎn.’",
+                    "translation": "David stated: 'This study investigates resolving environmental conflicts through the Confucian Doctrine of the Mean, seeking optimal balance between growth and ecology.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (32.1.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "著名哲学家在随笔中写道：‘“修身、齐家、治国、平天下”构建了一个由内而外、层层推进的中国式道德实践谱系，将个人德性修养与人类命运共同体紧密相连。’",
+                    "reading": "Zhùmíng zhéxuéjiā zài suíbǐ zhōng xiě dào: ‘“Xiūshēn, qíjiā, zhìguó, píng tiānxià” gòujiàn le yí ge yóu nèi ér wài, céngcéng tuījìn de Zhōngguó-shì dàodé shíjiàn pǔxì, jiāng gèrén déxìng xiūyǎng yǔ rénlèi mìngyùn gòngtóngtǐ jǐnmì xiānglián.’",
+                    "translation": "The philosopher wrote: '\"Cultivate self, regulate family, govern state, pacify world\" builds an outward moral spectrum linking personal virtue to the shared human future.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 儒道思想与哲学思辨 (Confucian-Daoist Philosophy)"
+                "Confucian Ethics: 仁爱为本 (Benevolence), 中庸致和 (The Mean), 内圣外王 (Inner Sage), 修齐治平 (Self-to-World Cultivation)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Confucius's core teaching «仁» (rén, benevolence/humanity) and the golden rule «己所不欲，勿施于人» form the bedrock of the 1993 Declaration Toward a Global Ethic signed in Chicago."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「儒道思想与哲学思辨 (Confucian-Daoist Philosophy)」在第1小节中的标准汉语语法规范？",
+                    "prompt": "儒家哲学中，主张待人处事不偏不倚、无过不及，在矛盾中寻求和谐平衡的最高道德准则是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (32.1.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (32.1.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (32.1.3)。"
+                        "极端行事",
+                        "中庸之道 (Doctrine of the Mean)",
+                        "随波逐流"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "中庸之道 (Doctrine of the Mean) advocates moderation, balance, and avoiding extremes in human actions and governance."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「儒道哲学与现代伦理思辨 (Confucian-Daoist Ethics)」语用情境与完整句式的选项（练习 1）：",
+                    "prompt": "儒家经典《大学》中提出、指代通过探究万物运行规律以获取真知穷究事理的哲学概念是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (32.1.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (32.1.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (32.1.3)。"
+                        "格物致知 (Investigation of things to acquire true knowledge)",
+                        "掩耳盗铃",
+                        "走马观花"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "格物致知 (Investigation of things) represents the cognitive and epistemological starting point of Confucian self-cultivation."
                 }
             ]
         },
@@ -15679,85 +15684,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「儒道思想与哲学思辨 (Confucian-Daoist Philosophy)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 32-1）？",
+                    "prompt": "关于儒家伦理思想的核心范畴、精神实质及其当代价值，下列哪一项表述完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (32.1.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (32.1.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (32.1.3)。"
+                        "儒家以「仁」为核心，提倡中庸和谐与格物致知，建立了由修身齐家推及治国平天下的伦理体系，为现代道德建设提供了深厚滋养 (Benevolence as core, moderation, self-cultivation to pacifying the world)",
+                        "儒家思想完全主张盲目顺从与极端复古",
+                        "儒家反对一切个人道德修养"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR C2 target-language standard."
+                    "explanation": "Accurately captures the essence of Confucian ethics from Ren to self-cultivation and global peace."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («儒家_32_1»):",
+                    "prompt": "Type the 4-character Hanzi phrase for 'Doctrine of the Mean' (中庸之道):",
                     "acceptedAnswers": [
-                        "儒家_32_1"
+                        "中庸之道",
+                        "zhongyongzhidao",
+                        "zhōngyōngzhīdào",
+                        "Zhōngyōngzhīdào",
+                        "Zhongyongzhidao"
                     ],
-                    "explanation": "The target keyword was: 【儒家_32_1】"
+                    "explanation": "中庸之道 (zhōng yōng zhī dào) means 'Doctrine of the Mean'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u32-l2": {
         "id": "zh-u32-l2",
-        "subject": "mandarin",
-        "unit": 32,
-        "lessonNumber": 2,
-        "title": "儒道哲学与现代伦理思辨 (Confucian-Daoist Ethics) (Part 2)",
+        "unit": "zh-u32",
         "level": "C2",
-        "objective": "Comprehensive mastery of 儒道思想与哲学思辨 (Confucian-Daoist Philosophy).",
+        "objective": "Master Daoist metaphysical thought and its profound ecological implications (道法自然 Dao models nature, 无为而治 governance by non-action, 齐物论 equalizing all things / Zhuangzi's relativism, 天人合一 unity of nature and man, 见素抱朴 embracing simplicity).",
+        "prerequisites": [
+            "zh-u32-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u32-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「儒道哲学与现代伦理思辨 (Confucian-Daoist Ethics)」（第2部分）的核心句法结构与儒道思想与哲学思辨 (Confucian-Daoist Philosophy)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "老庄道家哲学以**「道法自然、上善若水、齐同万物、逍遥超脱」**构筑了中国形而上学的高峰！\n\n1. 道家核心哲学命题 (Core Daoist Categories):\n- **道法自然 (Dao follows Nature)**：「人法地，地法天，天法道，道法自然」，万物依其自性生生不息。\n- **无为而治 / 无为而无不为 (Doing by Not Doing)**：尊重客观规律、顺应自然机理，不进行妄为干预。\n- **齐物思想 (Equalization of All Things - Zhuangzi)**：破除自我中心与二元对立，万物并育而不相害。\n- **天人合一 (Harmony of Heaven & Humanity)**：人是自然的有机部分，非征服自然的对立主宰。\n\n2. 现代生态哲学论述 (Ecological Philosophy Syntax):\n- 「道家『道法自然』的生态智慧为纠正现代人类中心主义的资源掠夺模式提供了深刻的哲学反思。」\n- 「在纷乱躁动的现代生活中，追求『致虚极，守静笃』的心灵境界，能使人重获精神的宁静与自足。」",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (32.2.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "联合国生态文明论坛中方特使发言：‘老子在《道德经》中提出的“人法地，地法天，天法道，道法自然”，蕴含着人类与大自然休戚与共、和谐共生的永恒生态智慧！’",
+                    "reading": "Liánhéguó shēngtài wénmíng lùntán Zhōngfāng tèshǐ fāyán: ‘Lǎozǐ zài «Dàodé Jīng» zhōng tíchū de “Rén fǎ dì, dì fǎ tiān, tiān fǎ dào, dào fǎ zìrán”, yùnhán zhe rénlèi yǔ dà-zìrán xiūqī-yǔgòng, héxié gòngshēng de yǒnghéng shēngtài zhìhuì!’",
+                    "translation": "The UN envoy stated: 'Laozi's \"Man models Earth, Earth models Heaven, Heaven models Dao, Dao models Nature\" holds eternal ecological wisdom!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (32.2.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫在比较哲学读书会上分享庄子《齐物论》：‘庄子通过“天地与我并生，而万物与我为一”的崇高境界，消解了主客对立，展现了超越世俗功利的浩瀚宇宙情怀。’",
+                    "reading": "Dàwèi zài bǐjiào zhéxué dúshūhuì shang fēnxiǎng Zhuāngzǐ «Qí Wù Lùn»: ‘Zhuāngzǐ tōngguò “Tiāndì yǔ wǒ bìngshēng, ér wànwù yǔ wǒ wéi yī” de chónggāo jìngjiè, xiāojiě le zhǔ-kè duìlì, zhǎnxiàn le chāoyuè shìsú gōnglì de hàohàn yǔzhòu qínghuái.’",
+                    "translation": "David shared: 'Zhuangzi dissolves subject-object duality via \"Heaven and Earth live with me; all things are one with me\", revealing cosmic transcendence.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (32.2.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "生态哲学家在学术专著中论证：‘道家的“无为”绝非消极避世，而是要求人类顺应自然演化法则，杜绝以贪婪征服自然为代价的盲目妄为。’",
+                    "reading": "Shēngtài zhéxuéjiā zài xuéshù zhuānzhù zhōng lùnzhèng: ‘Dàojiā de “wúwéi” jué fēi xiāojí bìshì, ér shì yāoqiú rénlèi shùnyìng zìrán yǎnhuà fǎzé, dùjué yǐ tānlán zhēngfú zìrán wéi dàijià de mángmù wàngwéi.’",
+                    "translation": "The ecologist argued: 'Wuwei is not passive escapism, but acting in accordance with natural laws without destructive greed.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 儒道思想与哲学思辨 (Confucian-Daoist Philosophy)"
+                "Daoist Wisdom: 道法自然 (Nature as Guide), 无为而治 (Harmonious Flow), 齐物齐一 (Cosmic Unity), 天人合一 (Heaven-Human Harmony)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "The Daoist principle of «天人合一» (Harmony of Heaven and Humans) forms the philosophical root of contemporary China's national Ecological Civilization strategy (生态文明建设)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「儒道思想与哲学思辨 (Confucian-Daoist Philosophy)」在第2小节中的标准汉语语法规范？",
+                    "prompt": "老子《道德经》中表达宇宙万物最终都应顺应天地本真与客观自然规律的哲学命题是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (32.2.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (32.2.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (32.2.3)。"
+                        "唯我独尊",
+                        "道法自然 (Dao conforms to nature)",
+                        "人定胜天"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "道法自然 (Dao models/conforms to Nature) asserts that nature itself is the ultimate spontaneous reality."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「儒道哲学与现代伦理思辨 (Confucian-Daoist Ethics)」语用情境与完整句式的选项（练习 2）：",
+                    "prompt": "中国古代哲学中，强调人类社会与大自然相互依存、和谐统一、不可分割的最高宇宙观被称为：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (32.2.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (32.2.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (32.2.3)。"
+                        "天人合一 (Harmony of Heaven and Nature with Humans)",
+                        "二元对立",
+                        "资源掠夺"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "天人合一 (Unity of Heaven and Humanity) defines the organic holism at the core of traditional Chinese worldview."
                 }
             ]
         },
@@ -15765,85 +15781,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「儒道思想与哲学思辨 (Confucian-Daoist Philosophy)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 32-2）？",
+                    "prompt": "关于道家哲学中「道法自然」与「无为」的深层哲学内涵及其对现代生态文明的启示，下列哪一项表述完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (32.2.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (32.2.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (32.2.3)。"
+                        "道法自然主张人类应完全消灭自然界",
+                        "道家的「无为」并非什么都不做，而是强调尊重客观自然规律、反对主观盲目妄为，以天人合一的生态智慧实现人与自然的永续和谐 (Respect natural laws, avoid reckless hubris, achieve sustainable harmony through human-nature unity)",
+                        "道家思想完全禁止任何人类生存活动"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR C2 target-language standard."
+                    "explanation": "Captures the authentic philosophical interpretation of Wuwei and Dao modeling nature."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («儒家_32_2»):",
+                    "prompt": "Type the 4-character Hanzi phrase meaning 'Dao models nature / Dao conforms to nature' (道法自然):",
                     "acceptedAnswers": [
-                        "儒家_32_2"
+                        "道法自然",
+                        "daofaziran",
+                        "dàofǎzìrán",
+                        "Dàofǎzìrán",
+                        "Daofaziran"
                     ],
-                    "explanation": "The target keyword was: 【儒家_32_2】"
+                    "explanation": "道法自然 (dào fǎ zì rán) means 'Dao models nature'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u32-l3": {
         "id": "zh-u32-l3",
-        "subject": "mandarin",
-        "unit": 32,
-        "lessonNumber": 3,
-        "title": "儒道哲学与现代伦理思辨 (Confucian-Daoist Ethics) (Part 3)",
+        "unit": "zh-u32",
         "level": "C2",
-        "objective": "Comprehensive mastery of 儒道思想与哲学思辨 (Confucian-Daoist Philosophy).",
+        "objective": "Master the dialectical epistemology of the Book of Changes and Wang Yangming's Unity of Knowing and Doing (生生不息 endless renewal, 穷则变变则通 exhaustion leads to change, 阴阳消长 fluctuation of Yin and Yang, 知行合一 unity of knowledge and action, 致良知 extending innate moral knowing).",
+        "prerequisites": [
+            "zh-u32-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u32-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「儒道哲学与现代伦理思辨 (Confucian-Daoist Ethics)」（第3部分）的核心句法结构与儒道思想与哲学思辨 (Confucian-Daoist Philosophy)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "《易经》的变易哲学与阳明心学构成了中国认识论与辩证法的双璧，讲求**「变通革新、知行合一、致其良知」**！\n\n1. 变易辩证法与阳明心学核心范畴 (Epistemological Categories):\n- **变易思维 (Dialectics of Change - Yijing)**：「易穷则变，变则通，通则久」，事物处于永恒变动与阴阳消长的动态转化之中。\n- **生生之谓易 (Endless Generation & Renewal)**：宇宙生命生生不息、充满无限创生动能。\n- **知行合一 (Unity of Knowing & Action - Wang Yangming)**：知是行之始，行是知之成；真知必能践行，践行方显真知。\n- **致良知 (Extending Innate Conscience)**：将内心先验的道德直觉（良知）推扩至一切具体实践。\n\n2. 认识论哲理论述句式 (Dialectical Argumentation):\n- 「历史实践一再证明，唯有秉持『穷则变，变则通』的变革精神，勇于破除体制机制障碍，才能实现生生不息的可持续发展。」\n- 「倡导『知行合一』，要求我们将崇高的理想信念转化为扎扎实实的实干行动。」",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (32.3.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "中国社会科学院哲学研究所所长在纪念王阳明学术研讨会上讲道：‘“知行合一”与“致良知”打破了知与行的割裂，确立了行动在道德与认识论中的决定性地位，对当代实践哲学具有重大的启示意义！’",
+                    "reading": "Zhōngguó Shèhuì Kēxuéyuàn zhéxué yánjiūsuǒ suǒzhǎng zài jìniàn Wáng Yángmíng xuéshù yántǎohuì shang jiǎng dào: ‘“Zhī xíng hé yī” yǔ “zhì liángzhī” dǎpò le zhī yǔ xíng de gēliè, quèlì le xíngdòng zài dàodé yǔ rènshilùn zhōng de juédìngxìng dìwèi, duì dāngdài shíjiàn zhéxué jùyǒu zhòngdà de qǐshì yìyì!’",
+                    "translation": "The director said: 'Unity of Knowledge and Action and Extending Conscience heal the rift between theory and practice, establishing action in epistemology!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (32.3.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫在哲学论坛论文答辩中论述：‘《周易》的变易辩证法认为系统危机蕴含着结构转机，正所谓“穷则变，变则通”，这种危机转化思维是中华民族历经磨难而自强不息的精神密码。’",
+                    "reading": "Dàwèi zài zhéxué lùntán lùnwén dábìan zhōng lùnshù: ‘«Zhōuyì» de biànyì biànzhèngfǎ rènwéi xìtǒng wēijī yùnhán zhe jiégòu zhuǎnjī, zhèng suǒwèi “qióng zé biàn, biàn zé tōng”, zhè zhǒng wēijī zhuǎnhuà sīwéi shì Zhōnghuá mínzú lìjīng mónàn ér zìqiáng-bùxī de jīngshén mìmǎ.’",
+                    "translation": "David argued: 'Yijing dialectics sees systemic crisis harboring transformation; \"when exhausted change occurs, change leads to open flow\" is China's resilience code.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (32.3.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "当代著名思想家点评：‘“生生不息”不仅是宇宙生命生化的自然律，更是一种乐观进取、守正出新的文明生命力象征。’",
+                    "reading": "Dāngdài zhùmíng sīxiǎngjiā diǎnpíng: ‘“Shēngshēng-bùxī” bùjǐn shì yǔzhòu shēngmìng shēnghuà de zìránlǜ, gèng shì yì zhǒng lèguān jìnqǔ, shǒuzhèng-chūxīn de wénmíng shēngmìnglì xiàngzhēng.’",
+                    "translation": "The thinker noted: 'Endless renewal is not just cosmic law, but a civilizational symbol of optimism, integrity, and proactive innovation.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 儒道思想与哲学思辨 (Confucian-Daoist Philosophy)"
+                "Dialectical Action: 穷变通久 (Change Brings Continuity), 生生不息 (Endless Renewal), 知行合一 (Knowing & Doing as One), 致其良知 (Follow Moral Conscience)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Wang Yangming's (王阳明) Ming-dynasty philosophy of Mind (心学) and «知行合一» profoundly influenced East Asian intellectual history and modern political reformers."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「儒道思想与哲学思辨 (Confucian-Daoist Philosophy)」在第3小节中的标准汉语语法规范？",
+                    "prompt": "明代思想家王阳明提出的、强调认知认识与实际行动密不可分、真知必然体现在切实行践中的哲学命题是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (32.3.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (32.3.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (32.3.3)。"
+                        "空谈误国",
+                        "知行合一 (Unity of knowledge and action)",
+                        "知难而退"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "知行合一 (Unity of knowledge and action) emphasizes that knowledge without action is incomplete and action is the embodiment of true knowing."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「儒道哲学与现代伦理思辨 (Confucian-Daoist Ethics)」语用情境与完整句式的选项（练习 3）：",
+                    "prompt": "源自《周易·系辞下》、阐明当事物发展到极限穷尽时唯有变革才能通达长久的古老辩证法名言是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (32.3.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (32.3.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (32.3.3)。"
+                        "穷则变，变则通，通则久 (When exhausted change occurs; change brings open flow, open flow endures)",
+                        "墨守成规",
+                        "刻舟求剑"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "穷则变，变则通，通则久 embodies the quintessential Chinese dialectic of crisis transformation and perpetual adaptation."
                 }
             ]
         },
@@ -15851,85 +15878,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「儒道思想与哲学思辨 (Confucian-Daoist Philosophy)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 32-3）？",
+                    "prompt": "关于中国古典认识论与辩证思维中「变易」与「知行合一」的哲学内涵，下列哪一项表述完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (32.3.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (32.3.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (32.3.3)。"
+                        "中国哲学认为世界绝对静止且认识与行动完全不相关",
+                        "知行合一主张只读书不做任何实践",
+                        "变易哲学揭示了阴阳转化与生生不息的辩证发展规律，而知行合一则将道德认知与社会实践紧密融合，强调实践在认识中的决定性检验作用 (Dialectics of transformation and renewal, while unity of knowledge and action fuses moral knowing with empirical practice)"
                     ],
                     "answerIndex": 2,
-                    "explanation": "Affirms CEFR C2 target-language standard."
+                    "explanation": "Synthesizes the dynamic cosmology of Yijing and the practical epistemology of Wang Yangming."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («儒家_32_3»):",
+                    "prompt": "Type the 4-character Hanzi phrase for 'unity of knowledge and action' (知行合一):",
                     "acceptedAnswers": [
-                        "儒家_32_3"
+                        "知行合一",
+                        "zhixingheyi",
+                        "zhīxínghéyī",
+                        "Zhīxínghéyī",
+                        "Zhixingheyi"
                     ],
-                    "explanation": "The target keyword was: 【儒家_32_3】"
+                    "explanation": "知行合一 (zhī xíng hé yī) means 'unity of knowledge and action'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u32-l4": {
         "id": "zh-u32-l4",
-        "subject": "mandarin",
-        "unit": 32,
-        "lessonNumber": 4,
-        "title": "儒道哲学与现代伦理思辨 (Confucian-Daoist Ethics) (Part 4)",
+        "unit": "zh-u32",
         "level": "C2",
-        "objective": "Comprehensive mastery of 儒道思想与哲学思辨 (Confucian-Daoist Philosophy).",
+        "objective": "Master the discourse of comparative philosophy and hermeneutic dialogues between Chinese and Western traditions (比较哲学 comparative philosophy, 视域融合 fusion of horizons, 和而不同 harmony without uniformity, 哲学范式转换 paradigm shift, 概念互释 mutual conceptual elucidation).",
+        "prerequisites": [
+            "zh-u32-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u32-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「儒道哲学与现代伦理思辨 (Confucian-Daoist Ethics)」（第4部分）的核心句法结构与儒道思想与哲学思辨 (Confucian-Daoist Philosophy)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在文明交流互鉴的全球化时代，**「东西方比较哲学与当代诠释学」**旨在实现深度的**「视域融合与和而不同」**！\n\n1. 比较哲学核心范畴与对话范式 (Comparative & Hermeneutic Discourse):\n- **和而不同 (Harmony without Uniformity)**：孔子崇高智慧，在承认多元差异的前提下寻求内在包容与和谐共处。\n- **视域融合 (Fusion of Horizons - Gadamer)**：解释者与古典文本在跨文化对话中超越各自历史局限，生成新的理解视界。\n- **概念互释 (Cross-Cultural Hermeneutics)**：将中国哲学的「气」「理」「心」「道」与西方哲学的实体、形式、存在、理性进行平等互释与深层对话。\n\n2. 高阶哲学论辩句式 (Philosophical Discourse Formulas):\n- 「通过中西哲学的深层对话与视域融合，我们既能避免西方中心主义的偏狭，亦能防止文化相对主义的虚无。」\n- 「倡导『和而不同』的文明观，为破解当今全球文明冲突论提供了极富建设性的东方方案。」",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (32.4.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "哈佛大学杜维明教授在世界哲学大会圆桌辩论中指出：‘中国哲学对身体、心性与天地的整体性观照，能够有效弥补笛卡尔二元论以来西方哲学主客对立的局限，在文明互鉴中达成深度的视域融合！’",
+                    "reading": "Hāfó Dàxué Dù Wéimíng jiàoshòu zài Shìjiè Zhéxué Dàhuì yuánzhuō biànlùn zhōng zhǐchū: ‘Zhōngguó zhéxué duì shēntǐ, xīnxìng yǔ tiāndì de zhěngtǐxìng guānzhào, nénggòu yǒuxiào míbǔ Díkǎ’ěr èryuánlùn yǐlái Xīfāng zhéxué zhǔ-kè duìlì de júxiàn, zài wénmíng hùjiàn zhōng dáchéng shēndù de shìyù-rónghé!’",
+                    "translation": "Prof. Tu Weiming argued: 'Chinese philosophy's holistic view of body, mind, and cosmos bridges Cartesian mind-body splits, achieving a profound fusion of horizons in civilizational dialogue!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (32.4.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫在比较哲学专题论文中写道：‘“和而不同”绝非无原则的妥协，而是承认多样性价值的崇高包容智慧；它与现代后现代多元主义相呼应，构成了跨文化沟通的伦理前提。’",
+                    "reading": "Dàwèi zài bǐjiào zhéxué zhuāntí lùnwén zhōng xiě dào: ‘“Hé ér bù tóng” jué fēi wú-yuánzé de tuǒxié, ér shì chéngrèn duōyàngxìng jiàzhí de chónggāo bāoróng zhìhuì; tā yǔ xiàndài hòuxiàndài duōyuánzhǔyì xiāng hūyìng, gòujiàn le kuà-wénhuà gōutōng de lúnlǐ qiántí.’",
+                    "translation": "David wrote: '\"Harmony without uniformity\" is not unprincipled compromise, but honoring diversity; it provides the ethical foundation for cross-cultural communication.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (32.4.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "哲学评论家评价当代新儒家学术贡献：‘当代新儒家学者将宋明理学与康德、黑格尔哲学进行批判性互释，成功建构起具有世界哲学维度的现代中国哲学新话语。’",
+                    "reading": "Zhéxué pínglùnjiā píngjià dāngdài Xīn-Rújiā xuéshù gòngxiàn: ‘Dāngdài Xīn-Rújiā xuézhě jiāng Sòng-Míng lǐxué yǔ Kāngdé, Hēigé’ěr zhéxué jìnxíng pīpànxìng hùshì, chénggōng jiàngòu qǐ jùyǒu shìjiè zhéxué wéidù de xiàndài Zhōngguó zhéxué xīn huàyǔ.’",
+                    "translation": "The critic noted: 'New Confucian scholars mutually elucidated Neo-Confucianism with Kant and Hegel, constructing modern Chinese philosophy with global dimensions.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 儒道思想与哲学思辨 (Confucian-Daoist Philosophy)"
+                "Hermeneutic Dialogue: 和而不同 (Harmony in Diversity), 视域融合 (Fusion of Horizons), 概念互释 (Mutual Elucidation), 超越二元 (Beyond Dualism)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "The classical Confucian concept «君子和而不同，小人同而不和» (The exemplary person seeks harmony without uniformity; the petty person seeks uniformity without harmony) is China's core diplomatic philosophy for global multilateralism."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「儒道思想与哲学思辨 (Confucian-Daoist Philosophy)」在第4小节中的标准汉语语法规范？",
+                    "prompt": "孔子提出的、主张在尊重事物多样性与差异性的前提下追求和谐共生、反对强求一律的东方文明包容原则是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (32.4.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (32.4.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (32.4.3)。"
+                        "千篇一律",
+                        "和而不同 (Harmony without uniformity)",
+                        "互相排斥"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "和而不同 (Harmony without uniformity) advocates achieving harmony while embracing distinct characteristics and diversities."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「儒道哲学与现代伦理思辨 (Confucian-Daoist Ethics)」语用情境与完整句式的选项（练习 4）：",
+                    "prompt": "现代哲学诠释学中，用来描述不同文化传统或主体通过平等对话与相互理解、打破各自认知局限而共同生成崭新意义空间的哲学概念是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (32.4.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (32.4.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (32.4.3)。"
+                        "视域融合 (Fusion of horizons)",
+                        "认知闭环",
+                        "自说自话"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "视域融合 (Fusion of horizons) describes the dialectical blending of interpretive horizons between distinct traditions."
                 }
             ]
         },
@@ -15937,85 +15975,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「儒道思想与哲学思辨 (Confucian-Daoist Philosophy)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 32-4）？",
+                    "prompt": "关于东西方比较哲学对话中的「和而不同」原则与「视域融合」诠释学方法，下列哪一项表述完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (32.4.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (32.4.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (32.4.3)。"
+                        "跨文化对话必须强迫所有文明完全放弃自身传统并接受单一西方标准",
+                        "东西方哲学绝不可能发生任何对话与理解",
+                        "「和而不同」尊重文明多样性与文化差异，借助「视域融合」打破二元对立与西方中心主义局限，推动全球多元文明在平等对话中共同发展 (Respects diversity, breaks dualism through fusion of horizons, fosters egalitarian global dialogue)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR C2 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "Accurately articulates the methodological and ethical value of comparative philosophy and hermeneutic dialogue."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («儒家_32_4»):",
+                    "prompt": "Type the 4-character Hanzi phrase meaning 'harmony without uniformity' (和而不同):",
                     "acceptedAnswers": [
-                        "儒家_32_4"
+                        "和而不同",
+                        "heerbutong",
+                        "hé’érbùtóng",
+                        "Hé’érbùtóng",
+                        "Heerbutong"
                     ],
-                    "explanation": "The target keyword was: 【儒家_32_4】"
+                    "explanation": "和而不同 (hé ér bù tóng) means 'harmony without uniformity'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u32-l5": {
         "id": "zh-u32-l5",
-        "subject": "mandarin",
-        "unit": 32,
-        "lessonNumber": 5,
-        "title": "儒道哲学与现代伦理思辨 (Confucian-Daoist Ethics) (Part 5)",
+        "unit": "zh-u32",
         "level": "C2",
-        "objective": "Comprehensive mastery of 儒道思想与哲学思辨 (Confucian-Daoist Philosophy).",
+        "objective": "Synthesize all Confucian ethics, Daoist metaphysics, Yijing dialectics, and comparative hermeneutics into a World Congress of Philosophy keynote and plenary panel synthesis.",
+        "prerequisites": [
+            "zh-u32-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u32-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「儒道哲学与现代伦理思辨 (Confucian-Daoist Ethics)」（第5部分）的核心句法结构与儒道思想与哲学思辨 (Confucian-Daoist Philosophy)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在本课中，我们将系统整合第三十二单元的所有儒家德性伦理、道家生态智慧、周易变易辩证法与中西哲学视域融合，在世界哲学大会（World Congress of Philosophy）全会主旨演讲中进行巅峰学术论述！\n\n1. 中华哲学思想体系全景综合矩阵 (Master Chinese Philosophical Synthesis Matrix):\n| 哲学流派 / 经典 | 核心概念与命题 | 哲学维度 | 当代全球伦理与哲学贡献 |\n| :--- | :--- | :--- | :--- |\n| **儒家伦理** | 仁爱 / 中庸之道 / 修齐治平 | 德性伦理与社会政治哲学 | 重建全球道德黄金法则，关照人类命运共同体 |\n| **道家智慧** | 道法自然 / 无为而无不为 / 天人合一 | 形而上学与生态哲学 | 破除人类中心主义狂妄，提供永续生态文明智慧 |\n| **易经心学** | 变易通达 / 生生不息 / 知行合一 | 发展辩证法与认识论 | 危机转化自强不息，强化实干精神与良知自觉 |\n| **比较诠释** | 和而不同 / 视域融合 / 概念互释 | 跨文化对话与诠释学 | 超越文明冲突陷阱，构建多元包容的全球哲学新视界 |\n\n2. 第三十二单元实战交际演练 (Unit 32 World Congress of Philosophy Keynote):\n- 第二十五届世界哲学大会（WCP）全体大会闭幕主旨演讲与全球顶尖哲人辩论。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (32.5.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "国际哲学团体联合会（FISP）主席在世界哲学大会闭幕式主旨演讲中高度评价：‘中华哲学所蕴含的“天人合一”的生态智慧、“和而不同”的包容胸怀以及“知行合一”的实践品格，为人类共同应对气候变化、人工智能伦理与全球地缘治理危机贡献了极其宝贵的精神财富！’",
+                    "reading": "Guójì zhéxué tuántǐ liánhéhuì zhǔxí zài Shìjiè Zhéxué Dàhuì bìmùshì zhǔzhǐ yǎnjiǎng zhōng gāodù píngjià: ‘Zhōngguá zhéxué suǒ yùnhán de “tiānrén-héyī” de shēngtài zhìhuì, “hé’ér-bùtóng” de bāoróng xiōnghuái yǐjí “zhīxíng-héyī” de shíjiàn pǐngé, wéi rénlèi gòngtóng yìngduì qìhòu biànhuà, réngōng zhìnéng lúnlǐ yǔ quánqiú dìyuán zhìlǐ wēijī gòngxiàn le jíqí bǎoguì de jīngshén cáifù!’",
+                    "translation": "The FISP President praised: 'Chinese philosophy's harmony of heaven and humanity, harmony without uniformity, and unity of knowledge and action contribute invaluable wisdom to climate, AI ethics, and global governance crises!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (32.5.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫作为青年哲学家代表在青年学者学术论坛发言：‘从孔子的仁者爱人，到老子的道法自然，再到阳明先生的致良知，中华哲学的永恒魅力在于它永远不脱离鲜活的生命体验，是指引我们安身立命、向善向美的行动哲学！’",
+                    "reading": "Dàwèi zuòwéi qīngnián zhéxuéjiā dàibiǎo zài qīngnián xuézhě xuéshù lùntán fāyán: ‘Cóng Kǒngzǐ de rénzhě ài rén, dào Lǎozǐ de dào fǎ zìrán, zài dào Yángmíng xiānsheng de zhì liángzhī, Zhōngguá zhéxué de yǒnghéng mèilì zàiyú tā yǒngyuǎn bù tuōlí xiānhuó de shēngmìng tǐyàn, shì zhǐyǐn wǒmen ānshēn-lìmìng, xiàngshàn-xiàngměi de xíngdòng zhéxué!’",
+                    "translation": "David spoke: 'From Confucius's benevolence to Laozi's Dao and Wang Yangming's conscience, Chinese philosophy's enduring beauty is its vital experiential core guiding ethical action!'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (32.5.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "世界著名哲学名誉教授总结：‘全球哲学的未来不是单一哲学的同质化，而是在和而不同的视域融合中，共同筑牢人类良知的灯塔。’",
+                    "reading": "Shìjiè zhùmíng zhéxué míngyù jiàoshòu zǒngjié: ‘Quánqiú zhéxué de wèilái bú shì dānyī zhéxué de tóngzhìhuà, ér shì zài hé’ér-bùtóng de shìyù-rónghé zhōng, gòngtóng zhùláo rénlèi liángzhī de dēngtǎ.’",
+                    "translation": "The emeritus professor concluded: 'The future of global philosophy is not homogenization, but building the lighthouse of human conscience through harmony in diversity and fusion of horizons.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 儒道思想与哲学思辨 (Confucian-Daoist Philosophy)"
+                "Philosophical Apex: 仁爱中庸 (Confucian Ethos) + 自然无为 (Daoist Holism) + 易经行知 (Dialectic Action) + 和而不同 (Global Horizon) = Master Philosophy (东方哲学智慧)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "The 24th World Congress of Philosophy (WCP) was held in Beijing in 2018 under the theme «学以成人» (Learning to Be Human), marking a historic milestone where Chinese philosophy set the global philosophical agenda."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「儒道思想与哲学思辨 (Confucian-Daoist Philosophy)」在第5小节中的标准汉语语法规范？",
+                    "prompt": "在第二十四届世界哲学大会（北京）上被选定为主旨议题、源自儒家经典且探讨个体如何通过修身学习成为完整道德主体的中国哲学命题是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (32.5.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (32.5.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (32.5.3)。"
+                        "唯利是图",
+                        "学以成人 (Learning to Be Human)",
+                        "不学无术"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "学以成人 (Learning to Be Human) encapsulates the Confucian quest for moral cultivation, humanistic wholeness, and spiritual fulfillment."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「儒道哲学与现代伦理思辨 (Confucian-Daoist Ethics)」语用情境与完整句式的选项（练习 5）：",
+                    "prompt": "中华哲学思想体系为人类应对全球性危机所提供的、强调天人合一、和而不同与知行合一的宏大智慧体系统称为：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (32.5.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (32.5.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (32.5.3)。"
+                        "东方哲学智慧 (Eastern / Chinese Philosophical Wisdom)",
+                        "虚无主义",
+                        "机械唯物论"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "东方哲学智慧 (Eastern/Chinese philosophical wisdom) encompasses the holistic, dialectical, and harmonious heritage of Chinese thought."
                 }
             ]
         },
@@ -16023,24 +16072,30 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「儒道思想与哲学思辨 (Confucian-Daoist Philosophy)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 32-5）？",
+                    "prompt": "关于中华哲学思想精髓（儒家仁爱中庸、道家自然天人合一、周易辩证知行合一）及其在全球文明对话中的终极价值，下列哪一项总括完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (32.5.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (32.5.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (32.5.3)。"
+                        "中国哲学只适合古代农业社会，在现代没有任何理论与实践价值",
+                        "中华哲学以其深邃的德性修养、生态整体观、变易发展辩证法与和而不同的对话精神，为全人类破解伦理失序、生态危机与文明冲突提供了兼具本体论与实践论的崇高智慧方案 (Deep virtue ethics, ecological holism, dialectics of change, and harmonious dialogue solve global crises)",
+                        "全世界应该完全废除哲学学科"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR C2 target-language standard."
+                    "explanation": "Comprehensively synthesizes the multi-millennial legacy of Chinese philosophy and its foundational contributions to contemporary global humanity."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («儒家_32_5»):",
+                    "prompt": "Type the 4-character Hanzi phrase meaning 'harmony between heaven and humanity / unity of nature and human' (天人合一):",
                     "acceptedAnswers": [
-                        "儒家_32_5"
+                        "天人合一",
+                        "tianrenheyi",
+                        "tiānrén-héyī",
+                        "tiānrén héyī",
+                        "Tiānrén héyī",
+                        "Tianrenheyi"
                     ],
-                    "explanation": "The target keyword was: 【儒家_32_5】"
+                    "explanation": "天人合一 (tiān rén hé yī) means 'harmony between heaven and human / unity of humans and nature'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u33-l1": {
