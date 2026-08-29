@@ -1,0 +1,44 @@
+From 23f696446eca171f4bcb5d8de28d6c59e7fea854 Mon Sep 17 00:00:00 2001
+From: Claude <noreply@anthropic.com>
+Date: Thu, 27 Aug 2026 22:09:26 +0000
+Subject: [PATCH 5/7] docs: add objective-duplication finding and full-scope
+ clean confirmation to Antigravity prompt
+
+Confirmed all 170 objectives in each of the 9 broken languages are
+duplicates, exactly 5x each (one per unit) - this is why the lesson
+list UI shows identical entries per unit, visually confirmed via
+screenshots. Also documents that a full pass over the other 20
+subjects plus Fitness found nothing wrong, so Antigravity doesn't
+waste time re-checking things already verified clean.
+---
+ REPORTS/PROMPT_FOR_ANTIGRAVITY_FIX_9_LANGUAGES.md | 11 +++++++++++
+ 1 file changed, 11 insertions(+)
+
+diff --git a/REPORTS/PROMPT_FOR_ANTIGRAVITY_FIX_9_LANGUAGES.md b/REPORTS/PROMPT_FOR_ANTIGRAVITY_FIX_9_LANGUAGES.md
+index f2cdcf0..43ecbd6 100644
+--- a/REPORTS/PROMPT_FOR_ANTIGRAVITY_FIX_9_LANGUAGES.md
++++ b/REPORTS/PROMPT_FOR_ANTIGRAVITY_FIX_9_LANGUAGES.md
+@@ -12,9 +12,20 @@ Nine language curricula in `data/curricula/` — `amharic.js`, `cantonese.js`, `
+ - `presentation.culturalNotes` is literally `"Cultural nuance and communicative etiquette in [language]."` for every lesson — not a real cultural note.
+ - `checkpointTest` multiple-choice options are unrelated filler sentences, so the "correct answer" tests nothing.
+ - Some `checkpointTest` typed-recall items ask the learner to type a raw internal id like `你好_1_1` instead of the clean word `你好` — a literal formatting bug on top of the content problem.
++- `objective` is identical across all 5 lessons in a unit (e.g. every one of Urdu unit 1's 5 lessons has the exact same `objective` string, "Comprehensive mastery of [unit title]"). This is why the lesson list in the UI shows 5 entries that all read the same — confirmed visually and confirmed in the raw data (170/170 objectives in each of the 9 files are duplicates, each one shared by exactly 5 lessons).
+ 
+ Same shape of problem, confirmed present, in all 9 files.
+ 
++## What's confirmed clean (don't touch these)
++
++Checked every other part of the app the same way — reading raw lesson/exercise data directly, not just running the existing quality-gate script (which cannot detect this class of bug at all, see below):
++
++- The other 11 languages (Arabic, Argentine Spanish, Brazilian Portuguese, English, German, Japanese, Romanian, Russian, Spanish, Turkish, Vietnamese) — zero instances of any of the fake-content patterns above, and spot-read lessons (including late/advanced units) are genuinely specific and well-written.
++- All 6 skill tracks (Chess, Morse, Mental Math, Scrabble, Songwriting, Typing) and all 3 university courses (CS110, B110, B111) — same, clean.
++- Fitness (`data/fitness-program.js`) — clean. It has heavy reuse of exercise names and rep-scheme strings ("3 sets x 12 reps" appears 914 times), but that's normal for a real periodized training program, not the same problem — the actual exercises inside each block are specific and varied, verified by reading multiple entries directly.
++
++Do not touch any of the above. The problem is contained to exactly the 9 files named at the top of this document.
++
+ ## What I need you to do
+ 
+ 1. **Do not touch CSS, HTML, audio, or any other file.** This is a content-only task in `data/curricula/*.js` for the 9 files named above.
+-- 
+2.43.0
+

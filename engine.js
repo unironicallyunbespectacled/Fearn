@@ -125,32 +125,255 @@
     getStreak: () => getStreak('journey'),
   };
 
-  // ---------- SRS: SM-2 algorithm ----------
-  // quality: 0-5 (0-2 = fail/again, 3-5 = pass with increasing ease)
+  // ---------- SRS: FSRS-4.5 Algorithm ----------
+  // 19-parameter standard weights
+  const FSRS_WEIGHTS = [
+    0.40255, 1.18385, 3.173, 15.69105, 7.1949, 0.5345, 1.4604, 0.0046,
+    1.54575, 0.1192, 1.01925, 1.9395, 0.11, 0.29605, 0.22695, 0.5698,
+    2.85535, 0.4905, 0.35
+  ];
+  const FSRS_FACTOR = 19 / 81; // ~0.2345679
+
   function getSrsItems() {
-    return FEARN.storage.get('srs:items', {});
+    const raw = FEARN.storage.get('srs:items', {});
+    // Auto-migrate legacy SM-2 records on read without wiping progress
+    let mutated = false;
+    for (const key in raw) {
+      if (Object.prototype.hasOwnProperty.call(raw, key)) {
+        const item = raw[key];
+        if (item && (item.stability === undefined || item.difficulty === undefined)) {
+          const ivl = typeof item.I === 'number' && item.I > 0 ? item.I : 1;
+          item.stability = item.stability !== undefined ? item.stability : Math.max(0.4, ivl);
+          const ef = typeof item.EF === 'number' ? item.EF : 2.5;
+          item.difficulty = item.difficulty !== undefined ? item.difficulty : Math.min(10, Math.max(1, 11 - (ef - 1.3) * (9 / 1.7)));
+          item.reps = item.reps !== undefined ? item.reps : (item.n || 0);
+          item.lapses = item.lapses !== undefined ? item.lapses : 0;
+          item.state = item.state !== undefined ? item.state : (item.reps > 0 ? 2 : 0);
+          item.interval = item.interval !== undefined ? item.interval : ivl;
+          item.retrievability = 0.9;
+          mutated = true;
+        }
+      }
+    }
+    if (mutated) {
+      FEARN.storage.set('srs:items', raw);
+    }
+    return raw;
   }
+
   function saveSrsItems(items) {
     FEARN.storage.set('srs:items', items);
   }
 
+  function fsrsInitStability(g) {
+    return FSRS_WEIGHTS[Math.min(4, Math.max(1, g)) - 1];
+  }
+
+  function fsrsInitDifficulty(g) {
+    const d = FSRS_WEIGHTS[4] - Math.exp(FSRS_WEIGHTS[5] * (g - 1)) + 1;
+    return Math.min(10, Math.max(1, d));
+  }
+
+  function fsrsNextDifficulty(d, g) {
+    const deltaD = -FSRS_WEIGHTS[6] * (g - 3);
+    const dRaw = d + deltaD;
+    const dNext = FSRS_WEIGHTS[7] * fsrsInitDifficulty(3) + (1 - FSRS_WEIGHTS[7]) * dRaw;
+    return Math.min(10, Math.max(1, dNext));
+  }
+
+  function fsrsRetrievability(elapsedDays, s) {
+    if (s <= 0) return 0;
+    return Math.pow(1 + FSRS_FACTOR * (elapsedDays / s), -0.5);
+  }
+
+  function fsrsNextInterval(s, r) {
+    const retention = (typeof r === 'number' && r > 0 && r < 1) ? r : 0.9;
+    const ivl = (s / FSRS_FACTOR) * (Math.pow(retention, -2) - 1);
+    return Math.max(1, Math.round(ivl));
+  }
+
+  function fsrsNextStabilityRecall(d, s, r, g) {
+    const hardPenalty = (g === 2) ? FSRS_WEIGHTS[15] : 1.0;
+    const easyBonus = (g === 4) ? FSRS_WEIGHTS[16] : 1.0;
+    const deltaS = s * (1 + Math.exp(FSRS_WEIGHTS[8]) * (11 - d) * Math.pow(s, -FSRS_WEIGHTS[9]) * (Math.exp(FSRS_WEIGHTS[10] * (1 - r)) - 1) * hardPenalty * easyBonus);
+    return Math.max(0.1, deltaS);
+  }
+
+  function fsrsNextStabilityLapse(d, s, r) {
+    const sLapse = FSRS_WEIGHTS[11] * Math.pow(d, -FSRS_WEIGHTS[12]) * (Math.pow(s + 1, FSRS_WEIGHTS[13]) - 1) * Math.exp(FSRS_WEIGHTS[14] * (1 - r));
+    return Math.max(0.1, Math.min(s, sLapse));
+  }
+
+  const PREFIX_TO_SUBJECT = {
+    'fr': 'french', 'am': 'amharic', 'hk': 'cantonese', 'zh': 'mandarin',
+    'ja': 'japanese', 'ko': 'korean', 'es': 'spanish', 'ar-es': 'argentine-spanish',
+    'pt': 'brazilian-portuguese', 'de': 'german', 'it': 'italian', 'ru': 'russian',
+    'uk': 'ukrainian', 'ar': 'arabic', 'hi': 'hindi', 'ur': 'urdu',
+    'tr': 'turkish', 'vi': 'vietnamese', 'sw': 'swahili', 'ro': 'romanian',
+    'en': 'english'
+  };
+
+  function resolveCurriculumItem(itemId, moduleId) {
+    let subject = moduleId;
+    if (!subject) {
+      const pfx = (String(itemId).match(/^([a-z]{2,4}(?:-[a-z]{2,4})?)-/i) || [])[1];
+      subject = PREFIX_TO_SUBJECT[pfx] || pfx;
+    }
+    const currObj = (typeof window !== 'undefined' && window.FEARN_CURRICULA) ? window.FEARN_CURRICULA : (typeof global !== 'undefined' && global.FEARN_CURRICULA ? global.FEARN_CURRICULA : {});
+    const cur = currObj[subject];
+    if (!cur || !cur.lessons) {
+      return { target: String(itemId), translation: '', reading: '', subject: subject || '' };
+    }
+
+    const m = String(itemId).match(/^([a-z]{2,4}(?:-[a-z]{2,4})?-u\d+-l\d+)(.*)$/i);
+    if (!m) {
+      return { target: String(itemId), translation: '', reading: '', subject: subject || '' };
+    }
+
+    const lessonId = m[1];
+    const suffix = m[2] || '';
+    const lesson = cur.lessons[lessonId];
+    if (!lesson) {
+      return { target: String(itemId), translation: '', reading: '', subject: subject || '' };
+    }
+
+    let target = '';
+    let translation = '';
+    let reading = '';
+
+    const cpMatch = suffix.match(/^-cp(\d+)$/);
+    const exMatch = suffix.match(/^-ex(\d+)$/);
+    const gpMatch = suffix.match(/^-gp(\d+)$/);
+    const ipMatch = suffix.match(/^-ip(\d+)$/);
+
+    if (cpMatch && lesson.checkpointTest && lesson.checkpointTest.items) {
+      const item = lesson.checkpointTest.items[parseInt(cpMatch[1], 10)];
+      if (item) {
+        if (item.type === 'typed-recall') {
+          target = (item.acceptedAnswers && item.acceptedAnswers[0]) || item.prompt;
+          translation = item.explanation || item.prompt;
+        } else {
+          target = (item.options && item.options[item.answerIndex]) || item.prompt;
+          translation = item.explanation || item.prompt;
+        }
+        reading = item.reading || '';
+      }
+    } else if (exMatch && lesson.presentation && lesson.presentation.examples) {
+      const ex = lesson.presentation.examples[parseInt(exMatch[1], 10)];
+      if (ex) {
+        target = ex.target;
+        translation = ex.translation;
+        reading = ex.reading || ex.pronunciation || '';
+      }
+    } else if (gpMatch && lesson.guidedPractice && lesson.guidedPractice.items) {
+      const item = lesson.guidedPractice.items[parseInt(gpMatch[1], 10)];
+      if (item) {
+        target = (item.options && item.options[item.answerIndex]) || item.prompt;
+        translation = item.explanation || item.prompt;
+        reading = item.reading || '';
+      }
+    } else if (ipMatch && lesson.independentPractice && lesson.independentPractice.items) {
+      const item = lesson.independentPractice.items[parseInt(ipMatch[1], 10)];
+      if (item) {
+        target = (item.options && item.options[item.answerIndex]) || item.prompt;
+        translation = item.explanation || item.prompt;
+        reading = item.reading || '';
+      }
+    }
+
+    if (!target) {
+      if (lesson.presentation && lesson.presentation.examples && lesson.presentation.examples.length) {
+        const ex = lesson.presentation.examples[0];
+        target = ex.target;
+        translation = ex.translation;
+        reading = ex.reading || ex.pronunciation || '';
+      } else {
+        target = lesson.objective || lesson.title || itemId;
+        translation = lesson.title || '';
+      }
+    }
+
+    return { target, translation, reading, subject, lessonId };
+  }
+
   FEARN.srs = {
+    getDesiredRetention() {
+      return parseFloat(FEARN.storage.get('srs:retention', 0.9)) || 0.9;
+    },
+    setDesiredRetention(r) {
+      const val = Math.min(0.97, Math.max(0.7, parseFloat(r) || 0.9));
+      FEARN.storage.set('srs:retention', val);
+      return val;
+    },
     schedule(itemId, quality, moduleId) {
       const items = getSrsItems();
-      const rec = items[itemId] || { n: 0, EF: 2.5, I: 0, moduleId, dueDate: todayStr() };
-      if (quality >= 3) {
-        if (rec.n === 0) rec.I = 1;
-        else if (rec.n === 1) rec.I = 6;
-        else rec.I = Math.round(rec.I * rec.EF);
-        rec.n += 1;
-      } else {
-        rec.n = 0;
-        rec.I = 1;
+      const desiredRetention = FEARN.srs.getDesiredRetention();
+      const today = todayStr();
+
+      // Normalize grade G to 1..4 (1: Again, 2: Hard, 3: Good, 4: Easy)
+      let G = 3;
+      if (quality === 1 || quality === 2 || quality === 3 || quality === 4) {
+        G = quality;
+      } else if (typeof quality === 'number') {
+        if (quality <= 2) G = 1;
+        else if (quality === 3) G = 2;
+        else if (quality === 4) G = 3;
+        else if (quality >= 5) G = 4;
       }
-      rec.EF = Math.max(1.3, rec.EF + (0.1 - (5 - quality) * (0.08 + (5 - quality) * 0.02)));
-      rec.moduleId = moduleId || rec.moduleId;
-      rec.dueDate = addDays(todayStr(), rec.I);
-      rec.lastReviewed = todayStr();
+
+      let rec = items[itemId];
+      if (!rec) {
+        const s0 = fsrsInitStability(G);
+        const d0 = fsrsInitDifficulty(G);
+        const ivl = G === 1 ? 1 : fsrsNextInterval(s0, desiredRetention);
+        rec = {
+          stability: s0,
+          difficulty: d0,
+          retrievability: 1.0,
+          reps: 1,
+          lapses: G === 1 ? 1 : 0,
+          state: G === 1 ? 1 : 2,
+          interval: ivl,
+          dueDate: addDays(today, ivl),
+          lastReviewed: today,
+          moduleId: moduleId || '',
+          n: 1,
+          I: ivl,
+          EF: Math.max(1.3, 2.5 + (0.1 - (4 - G) * 0.1))
+        };
+      } else {
+        const lastDate = rec.lastReviewed || today;
+        const elapsedDays = Math.max(0, Math.round((new Date(today) - new Date(lastDate)) / (1000 * 60 * 60 * 24)));
+        const currentR = fsrsRetrievability(elapsedDays, rec.stability);
+
+        let nextS;
+        let nextD = fsrsNextDifficulty(rec.difficulty, G);
+
+        if (G === 1) {
+          nextS = fsrsNextStabilityLapse(rec.difficulty, rec.stability, currentR);
+          rec.lapses = (rec.lapses || 0) + 1;
+          rec.state = 3;
+        } else {
+          nextS = fsrsNextStabilityRecall(rec.difficulty, rec.stability, currentR, G);
+          rec.state = 2;
+        }
+
+        const nextIvl = G === 1 ? 1 : fsrsNextInterval(nextS, desiredRetention);
+
+        rec.stability = nextS;
+        rec.difficulty = nextD;
+        rec.retrievability = currentR;
+        rec.reps = (rec.reps || 0) + 1;
+        rec.interval = nextIvl;
+        rec.dueDate = addDays(today, nextIvl);
+        rec.lastReviewed = today;
+        rec.moduleId = moduleId || rec.moduleId;
+
+        rec.n = (rec.n || 0) + 1;
+        rec.I = nextIvl;
+        rec.EF = Math.max(1.3, (rec.EF || 2.5) + (0.1 - (4 - G) * 0.1));
+      }
+
       items[itemId] = rec;
       saveSrsItems(items);
       return rec;
@@ -159,13 +382,16 @@
       const items = getSrsItems();
       const today = todayStr();
       return Object.entries(items)
-        .filter(([, rec]) => rec.moduleId === moduleId && rec.dueDate <= today)
+        .filter(([, rec]) => (!moduleId || rec.moduleId === moduleId) && rec.dueDate <= today)
         .map(([itemId, rec]) => ({ itemId, ...rec }));
     },
     getItem(itemId) {
       return getSrsItems()[itemId] || null;
     },
+    resolveItem: resolveCurriculumItem
   };
+
+  FEARN.resolveSrsItem = resolveCurriculumItem;
 
   FEARN.getAllDueReviews = function () {
     const items = getSrsItems();
@@ -422,7 +648,7 @@
   };
 
   
-  // ---------- FEARN.audio: Browser-Native Offline Speech Synthesis Engine ----------
+  // ---------- FEARN.audio: Browser-Native Speech Synthesis Engine ----------
   const AUDIO_LANG_TAGS = {
     'spanish': 'es-ES',
     'japanese': 'ja-JP',
@@ -446,7 +672,10 @@
     'amharic': 'am-ET'
   };
 
-  let currentSpeechRate = parseFloat(localStorage.getItem('fearn:audio-rate') || '1.0');
+  let currentSpeechRate = 1.0;
+  try {
+    currentSpeechRate = parseFloat(localStorage.getItem('fearn:audio-rate') || '1.0');
+  } catch(e) {}
   let availableVoices = [];
   const activeUtterances = new Set();
 
@@ -464,6 +693,15 @@
     if (window.speechSynthesis.onvoiceschanged !== undefined) {
       window.speechSynthesis.onvoiceschanged = populateVoices;
     }
+    // Automatically stop ongoing speech on route / hash / popstate navigation
+    window.addEventListener('hashchange', function () {
+      if (FEARN.audio && FEARN.audio.stop) FEARN.audio.stop();
+      if (FEARN.speech && FEARN.speech.stop) FEARN.speech.stop();
+    });
+    window.addEventListener('popstate', function () {
+      if (FEARN.audio && FEARN.audio.stop) FEARN.audio.stop();
+      if (FEARN.speech && FEARN.speech.stop) FEARN.speech.stop();
+    });
   }
 
   function findBestVoice(langTag) {
@@ -473,20 +711,31 @@
     const normalizedTag = (langTag || 'en-US').toLowerCase().replace('_', '-');
     const primaryLang = normalizedTag.split('-')[0];
 
-    // 1. Exact match (e.g. ja-JP === ja-JP)
+    // Special handling for Cantonese vs Mandarin
+    if (normalizedTag === 'zh-hk' || normalizedTag === 'yue') {
+      let matched = availableVoices.find(v => {
+        const vl = (v.lang || '').toLowerCase().replace('_', '-');
+        return vl === 'zh-hk' || vl === 'yue' || vl === 'zh-yue' || (v.name && /cantonese|hong kong|廣東話|粤语/i.test(v.name));
+      });
+      if (matched) return matched;
+      // Do NOT fall back to standard Mandarin voice for Cantonese if distinct phonology is required
+      return null;
+    }
+
+    // 1. Exact match (e.g. es-AR === es-AR, fr-FR === fr-FR)
     let matched = availableVoices.find(v => (v.lang || '').toLowerCase().replace('_', '-') === normalizedTag);
     if (matched) return matched;
 
-    // 2. Prefix match (e.g. ja-* matches ja-JP)
+    // 2. Prefix match within same language family (e.g. es-* matches es-AR, pt-* matches pt-BR)
     matched = availableVoices.find(v => (v.lang || '').toLowerCase().startsWith(primaryLang));
     if (matched) return matched;
 
-    // 3. Fallback: match by voice name containing language
+    // 3. Match by voice name containing primary language
     matched = availableVoices.find(v => (v.name || '').toLowerCase().includes(primaryLang));
     if (matched) return matched;
 
-    // 4. Fallback: default voice
-    return availableVoices.find(v => v.default) || availableVoices[0] || null;
+    // Return null rather than mis-speaking with an irrelevant foreign voice (e.g. speaking Amharic with an English voice)
+    return null;
   }
 
   FEARN.audio = {
@@ -494,6 +743,10 @@
     setRate(r) {
       currentSpeechRate = parseFloat(r) || 1.0;
       try { localStorage.setItem('fearn:audio-rate', String(currentSpeechRate)); } catch(e){}
+    },
+    hasVoice(langKey) {
+      const langTag = AUDIO_LANG_TAGS[langKey] || langKey || 'en-US';
+      return findBestVoice(langTag) !== null;
     },
     stop() {
       try {
@@ -515,7 +768,7 @@
         }
         window.speechSynthesis.cancel();
 
-        const langTag = AUDIO_LANG_TAGS[langKey] || 'en-US';
+        const langTag = AUDIO_LANG_TAGS[langKey] || langKey || 'en-US';
         const utter = new SpeechSynthesisUtterance(text);
         utter.lang = langTag;
         utter.rate = currentSpeechRate || 0.9;
@@ -525,12 +778,10 @@
           utter.voice = bestVoice;
         }
 
-        // Prevent Chrome/Edge desktop garbage collector from dropping utterance mid-speech
         activeUtterances.add(utter);
         utter.onend = function () { activeUtterances.delete(utter); };
         utter.onerror = function () { activeUtterances.delete(utter); };
 
-        // 10ms micro-delay prevents Chromium cancel() race condition from killing new utterance
         setTimeout(function () {
           try {
             if (window.speechSynthesis.paused) window.speechSynthesis.resume();
@@ -552,12 +803,169 @@
       btn.className = 'fearn-speak-btn';
       btn.type = 'button';
       btn.innerHTML = '🔊';
-      btn.title = 'Listen to pronunciation';
+      
+      const hasMatchingVoice = FEARN.audio.hasVoice(langKey);
+      btn.title = hasMatchingVoice ? 'Listen to pronunciation' : 'Listen to pronunciation (Device synthesis)';
       btn.style.cssText = 'background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.18); border-radius:6px; padding:3px 8px; margin-left:8px; cursor:pointer; font-size:0.95rem; color:#fff; transition:all 0.2s;';
+      
       btn.onclick = function (e) {
         e.stopPropagation();
         FEARN.audio.speak(text, langKey);
       };
+      return btn;
+    }
+  };
+
+  // ---------- FEARN.speech: Web Speech API Recognition & Pronunciation Checker ----------
+  let activeRecognition = null;
+
+  FEARN.speech = {
+    isSupported() {
+      if (typeof window === 'undefined') return false;
+      return !!(window.SpeechRecognition || window.webkitSpeechRecognition);
+    },
+    stop() {
+      if (activeRecognition) {
+        try { activeRecognition.stop(); } catch (e) {}
+        activeRecognition = null;
+      }
+    },
+    startListening(options, callback) {
+      options = options || {};
+      if (!FEARN.speech.isSupported()) {
+        if (callback) callback({ error: 'unsupported', message: 'Speech recognition is not supported in this browser.' });
+        return null;
+      }
+
+      FEARN.speech.stop();
+
+      const SpeechRecognitionClass = window.SpeechRecognition || window.webkitSpeechRecognition;
+      const recognition = new SpeechRecognitionClass();
+      activeRecognition = recognition;
+
+      const langKey = options.langKey || 'english';
+      recognition.lang = AUDIO_LANG_TAGS[langKey] || options.langTag || 'en-US';
+      recognition.continuous = false;
+      recognition.interimResults = false;
+      recognition.maxAlternatives = 3;
+
+      if (options.onStart) recognition.onstart = options.onStart;
+
+      recognition.onresult = function (event) {
+        activeRecognition = null;
+        if (!event.results || !event.results.length) {
+          if (callback) callback({ error: 'no-speech', transcript: '' });
+          return;
+        }
+
+        const transcript = event.results[0][0].transcript;
+        const confidence = event.results[0][0].confidence;
+        let matched = false;
+        let score = 0;
+
+        if (options.expectedText) {
+          const expected = String(options.expectedText).trim();
+          if (FEARN.matchAnswer) {
+            const matchRes = FEARN.matchAnswer(transcript, [expected], {
+              mode: options.matchMode || 'normalized',
+              tolerance: options.tolerance !== undefined ? options.tolerance : 2
+            });
+            matched = matchRes.matched;
+            score = matchRes.score !== undefined ? matchRes.score : (matched ? 1 : 0.5);
+          } else {
+            matched = transcript.trim().toLowerCase() === expected.toLowerCase();
+            score = matched ? 1 : 0.5;
+          }
+        }
+
+        const result = {
+          transcript: transcript,
+          confidence: confidence,
+          matched: matched,
+          score: score,
+          expectedText: options.expectedText
+        };
+
+        if (callback) callback(result);
+      };
+
+      recognition.onerror = function (event) {
+        activeRecognition = null;
+        if (callback) callback({ error: event.error || 'error', message: event.message || 'Recognition error' });
+      };
+
+      recognition.onend = function () {
+        activeRecognition = null;
+        if (options.onEnd) options.onEnd();
+      };
+
+      try {
+        recognition.start();
+        return recognition;
+      } catch (err) {
+        activeRecognition = null;
+        if (callback) callback({ error: 'start-failed', message: String(err) });
+        return null;
+      }
+    },
+    createMicButton(options) {
+      if (typeof document === 'undefined') return null;
+      options = options || {};
+      const btn = document.createElement('button');
+      btn.className = 'fearn-mic-btn';
+      btn.type = 'button';
+      btn.innerHTML = '🎤';
+      btn.title = FEARN.speech.isSupported() ? 'Practice speaking / Pronunciation check' : 'Speech recognition not supported in this browser';
+      btn.style.cssText = 'background:rgba(255,255,255,0.08); border:1px solid rgba(255,255,255,0.18); border-radius:6px; padding:3px 8px; margin-left:6px; cursor:pointer; font-size:0.95rem; color:#fff; transition:all 0.2s;';
+
+      if (!FEARN.speech.isSupported()) {
+        btn.style.opacity = '0.4';
+        btn.style.cursor = 'not-allowed';
+        return btn;
+      }
+
+      let isRecording = false;
+
+      btn.onclick = function (e) {
+        e.stopPropagation();
+        if (isRecording) {
+          FEARN.speech.stop();
+          btn.innerHTML = '🎤';
+          btn.style.background = 'rgba(255,255,255,0.08)';
+          btn.style.borderColor = 'rgba(255,255,255,0.18)';
+          isRecording = false;
+          return;
+        }
+
+        const expectedText = typeof options.getExpectedText === 'function' ? options.getExpectedText() : (options.expectedText || '');
+        btn.innerHTML = '🔴';
+        btn.style.background = 'rgba(239, 68, 68, 0.25)';
+        btn.style.borderColor = 'rgba(239, 68, 68, 0.6)';
+        isRecording = true;
+
+        FEARN.speech.startListening({
+          langKey: options.langKey,
+          expectedText: expectedText,
+          tolerance: options.tolerance || 2,
+          onStart: function () {
+            btn.title = 'Listening... Speak now';
+          },
+          onEnd: function () {
+            isRecording = false;
+            btn.innerHTML = '🎤';
+            btn.style.background = 'rgba(255,255,255,0.08)';
+            btn.style.borderColor = 'rgba(255,255,255,0.18)';
+            btn.title = 'Practice speaking / Pronunciation check';
+          }
+        }, function (res) {
+          isRecording = false;
+          btn.innerHTML = '🎤';
+          btn.style.background = 'rgba(255,255,255,0.08)';
+          btn.style.borderColor = 'rgba(255,255,255,0.18)';
+          if (options.onResult) options.onResult(res);
+        });
+      };
+
       return btn;
     }
   };

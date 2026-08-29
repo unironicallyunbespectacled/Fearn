@@ -3784,3 +3784,100 @@ button.fearn-lang-btn-primary:hover:not(:disabled) {
   text-align: right;
 }
 
+/* ==========================================================================
+   Spaced Review Warm-up & FSRS 4-Button Grade Controls
+   ========================================================================== */
+.fearn-lang-warmup {
+  background: var(--bg-card, rgba(255, 255, 255, 0.03));
+  border: 1px solid var(--border-subtle, rgba(255, 255, 255, 0.1));
+  border-radius: 12px;
+  padding: 18px 20px;
+  margin-bottom: 20px;
+}
+
+.fearn-lang-review-card {
+  background: rgba(255, 255, 255, 0.035);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 10px;
+  padding: 14px 16px;
+  margin-bottom: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  transition: opacity 0.2s ease, transform 0.15s ease;
+}
+
+.fearn-lang-review-card:hover {
+  border-color: rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.fearn-lang-review-target {
+  font-size: 1.18rem;
+  font-weight: 700;
+  color: var(--text-bright, #f8fafc);
+  line-height: 1.4;
+}
+
+.fearn-lang-review-reading {
+  font-size: 0.92rem;
+  color: var(--accent-1, #38bdf8);
+  font-style: italic;
+  letter-spacing: 0.01em;
+}
+
+.fearn-lang-review-translation {
+  font-size: 0.95rem;
+  color: var(--text-muted, #94a3b8);
+  line-height: 1.4;
+}
+
+.fearn-srs-grade-row {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-top: 4px;
+}
+
+.fearn-srs-grade-btn {
+  font-family: inherit;
+  border-radius: 6px;
+  padding: 6px 13px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  user-select: none;
+}
+
+.fearn-srs-grade-btn:hover {
+  transform: translateY(-1px);
+  filter: brightness(1.15);
+}
+
+.fearn-srs-grade-btn:active {
+  transform: translateY(0);
+}
+
+/* Speak & Mic buttons */
+.fearn-speak-btn,
+.fearn-mic-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-family: inherit;
+  user-select: none;
+}
+
+.fearn-speak-btn:hover,
+.fearn-mic-btn:hover {
+  filter: brightness(1.2);
+  transform: scale(1.05);
+}
+
+.fearn-mic-btn:active,
+.fearn-speak-btn:active {
+  transform: scale(0.98);
+}
+

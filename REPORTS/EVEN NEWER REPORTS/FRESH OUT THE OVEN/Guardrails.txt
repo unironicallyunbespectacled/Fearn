@@ -1,0 +1,11 @@
+9. Execution & Agent Guardrails (Do Not Bypass)
+Because you are an autonomous coding agent, your default behavior will be to find the most efficient path to close this ticket. These restrictions are absolute:
+
+NO GENERATOR SCRIPTS: You are strictly forbidden from writing a Node.js, Python, or shell script to auto-generate, loop, or populate these 170 lessons via API calls or templating. You must author the content directly into the .js or .json curriculum files. If you use a script to write the language content, you fail.
+FILE MODIFICATION LOCKDOWN: You do not have permission to chmod, edit, or bypass any file in the scripts/, tests/, or config/ directories. Your write permissions for this session are strictly limited to data/curricula/ and the ledger. If you modify an audit script to make a red error go away, it will be treated as a critical failure.
+INCREMENTAL SAVING ONLY: Do not hold 170 lessons in your context window and attempt to push them all at once at the very end. You must write, verify (via Section 4), and save/commit the file unit by unit. This prevents you from claiming "I ran out of tokens, but the rest is fine."
+NO LLM-IN-THE-LOOP DELEGATION: You cannot write a script that prompts another LLM to do this task for you. You must do the linguistic heavy lifting yourself, in this session.10. DISK I/O AND GITHUB SYNC (STRICT PIPELINE):
+
+Direct Local File Edits Only: You must write all changes directly to the local filesystem (specifically within data/curricula/ and the ledger). Do not just output code blocks in this chat window expecting me to copy-paste them.
+Read Before You Write: Before modifying any file, you must use your read tools to analyze the existing code line-by-line. No blind overwrites, and no assuming you know the schema without looking at the live file first.
+Incremental Commits & Mandatory Pushing: After every single 5-lesson unit is written and verified, you must create a Git commit with a clear, specific message (e.g., feat(french): author and verify unit 14) and immediately execute a git push to the remote repository. You are strictly forbidden from holding all changes and attempting one massive commit at the end of the session.

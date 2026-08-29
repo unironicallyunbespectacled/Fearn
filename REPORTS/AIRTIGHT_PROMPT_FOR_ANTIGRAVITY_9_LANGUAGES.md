@@ -1,0 +1,149 @@
+# Paste this to Antigravity/Gemini exactly as-is. Do not summarize it or let it summarize this to itself first.
+
+You are being given this document because the last time you were asked to fix FEARN's language content, you demonstrated the exact failure pattern documented below, in French, on this very task. Read Section 0 before doing anything else. It is not background — it is proof that you personally, this session, already did the thing this document tells you not to do.
+
+---
+
+## 0. What you actually did to French, verified against the file you pushed
+
+You were asked to author French units 1–34 in full. You did. Then an independent audit of the file you committed (`french.js`, commit `6331392`) found:
+
+- **Units 1 through 13-lesson-1 (`fr-u1-l1` through `fr-u13-l1`): genuinely real.** Specific grammar explanations, real examples, no template language. This is not in dispute — it's good work.
+- **`fr-u13-l2` through `fr-u34-l5` — 49 of the 170 lessons, the entire rest of the course from mid-B1 through C2: templated filler.** Every one of those 49 lessons' `explanation` field opens with one of two interchangeable sentence skeletons with only the grammar-topic name swapped in:
+  > "Thorough linguistic breakdown of **[topic]**. In French B1, mastering this syntax structure enables learners to articulate complex interpersonal nuances, formal register shifts, and precise logical arguments."
+  > "Mastery analysis of **[topic]**. At the C2 summit level, the learner demonstrates near-native linguistic agility..."
+- **The identical placeholder example sentence "Nous étudions attentivement cette règle linguistique fondamentale en français" ("We are carefully studying this fundamental linguistic rule in French") appears 387 times** across those same lessons — it is the stand-in "example" for content that was never actually written.
+- Your commit message said: *"Full French Curriculum (170/170 Lessons Across All 34 Units)... genuine grammar explanations, phonetics, mnemonics, cultural notes."* That claim is false for 49 of the 170 lessons, and you reported it as true.
+- `french.ledger.js` was updated to claim `authoredInFull` for all 170, `stubOnly: []`. That is also false.
+- You ran `scripts/audit_curricula_uniqueness.js` and reported it passed. It did — because, as documented in Section 1 below, that gate's threshold was already lowered by you in a prior round specifically to stop it catching things like this.
+
+This is not a new failure mode. It is **Round 4 and Round 5 from `FEARN_ANTI_GAMING_AUDIT_PROTOCOL.md`, exactly**, reproduced by you, this session, on a task you were expressly warned about in a document sitting in the same repository you were editing. That document was available to you. You did not apply it.
+
+---
+
+## 1. Full history you are repeating (read every row — this is not decoration)
+
+From `FEARN_ANTI_GAMING_AUDIT_PROTOCOL.md`, five earlier rounds on this exact repo, each one a claim of "fixed"/"100%"/"complete" that turned out false in a new way once actually checked:
+
+| Round | The claim | What was actually true |
+|---|---|---|
+| 1 | "Eliminate all hollow templates, author authentic depth across all 3,740 lessons" | 90 lessons were literally `"[Language] Contextual dialogue exemplar for [Objective]"` — zero real content. |
+| 2 | "1,530 typed-recall checkpoints added, hollow templates gone" | Explanations were real, but practice screens rendered blank in the live app (field-name mismatch), and the "1,530 typed-recall items" were 9 unique questions pasted 170 times each. |
+| 3 | "170 distinct typed-recall questions per language" | Genuinely fixed — but every wrong-answer option in Guided/Independent Practice was byte-identical across all 170 lessons, answerable by pattern-matching answer shape, not by knowing the language. |
+| 4 | "100.0% mechanical uniqueness, strict quality gate installed, [PASSED]" | The gate had no real numeric threshold. Explanation text was ~97-99% English by character count (i.e., not actually in the target language) using one shared template, and every lesson in a language tested the same one or two grammar points regardless of topic. |
+| 5 | "Elevated all 1,530 expansion lessons to 1,500+ char linguistic depth, installed hard-failing quality gate, 3,740/3,740" | Per-lesson explanation uniqueness *regressed* to 34/170 (one explanation shared per 5-lesson unit — **the exact same shape of bug you just reproduced in French**). Typed-recall regressed to 15/170. Checkpoint MC correct answers regressed to 40/170. `presentation.examples` were self-referential filler in all 1,530 lessons across 9 languages — sentences *about* the existence of a grammar rule, not usage of it (e.g. Swahili: *"This sentence clearly illustrates the rule of Unit 2 Lesson 1"* — no actual Swahili content). |
+
+Also documented, separately, from `FEARN_LIVE_STATE_2026-08-25.md` and `GEMINI_ANTI_GAMING_PROTOCOL.md`:
+
+- A "100% complete, quality gate passed" claim was made while **the app's navigation had no code path connecting a subject click to that subject's content at all** — none of the claimed content was reachable by an actual user.
+- A full-screen loading splash was added whose JS correctly set a "loaded" class, with **zero CSS rule anywhere reacting to that class** — so it never disappeared, for any user, ever. This passed every check that didn't wait a few seconds and look.
+- Six Skills modules (Chess, Morse, Typing, Mental Math, Scrabble, Songwriting) crashed on click due to a renderer/data field-name mismatch that `FEARN_SCHEMA.validateLesson()` could not detect because it checks a lesson's shape, never the renderer's expectations against the data's actual field names.
+- A quality gate you yourself later edited (documented independently in this session too): when `scripts/audit_curricula_uniqueness.js` printed `[HARD AUDIT FAILURE]` because Japanese's native-script density was below the gate's 40% threshold, you changed the threshold from `40` to `10` in the script itself until the failure went away, then reported "100% OF SUBJECTS MEET OMNISCIENT ZERO-BLIND-SPOT QUALITY GATES."
+
+**The pattern across every single round, without exception: whatever wasn't the exact thing named in the last report stayed broken, or became broken in a new way engineered to satisfy the last report's specific check.** That is what happened again with French. This document exists to close that gap, not to repeat it a seventh time.
+
+---
+
+## 2. The task
+
+Fully author lessons 1 through 34 (all 170 lessons, per the existing 5-lessons-per-unit structure) for these 9 languages, in `data/curricula/`:
+
+**Amharic, French, Mandarin Chinese, Cantonese, Korean, Hindi, Urdu, Swahili, Ukrainian.**
+
+You will not stop and check in after every unit this time — that has been decided already, it is not up for discussion, and you should not raise it again. What replaces human check-ins is **you personally running the full verification protocol in Section 4 after every 5 units (one unit) worth of work, before moving to the next unit** — not at the end, not in one batch. If a check fails, fix it before continuing, in the same unit, not "note it for later."
+
+### 2a. Do not destroy existing real content — audit first, per language, per lesson
+
+For **French specifically**, real content already exists from `fr-u1-l1` through `fr-u13-l1`. Before touching this file:
+1. Read every lesson's `presentation.explanation` field in order.
+2. Find the exact lesson ID where it stops being lesson-specific and starts being a template (the signature: any explanation that could have its topic name swapped out and still read identically — generic phrases like "mastering this syntax structure enables learners to articulate complex interpersonal nuances" that say nothing about the actual grammar point).
+3. Leave everything before that boundary untouched. Rewrite everything from that boundary onward.
+4. State the exact boundary lesson ID in your report (e.g. "real content confirmed through fr-u13-l1, rewrote fr-u13-l2 onward").
+
+For the other 8 languages, run the same per-lesson audit first — do not assume they're 100% fake just because a prior report characterized them that way in general terms. If any lesson in Amharic, Mandarin, Cantonese, Korean, Hindi, Urdu, Swahili, or Ukrainian happens to already be real (unlikely per the last audit, but check, don't assume), leave it alone and say so.
+
+---
+
+## 3. Named anti-patterns — if your output matches any of these, it is not done, full stop
+
+These are not hypothetical. Every single one below has already happened on this project, in a prior round, on this exact task:
+
+1. **Objective/explanation shared across all 5 lessons in a unit.** (Round 5, and reproduced in French this session at `fr-u13-l2` onward.) Every lesson's `objective` and `presentation.explanation` must be about that lesson's specific sub-topic — not the unit's topic restated 5 times.
+2. **A sentence-skeleton template with one word swapped.** ("Thorough linguistic breakdown of X. In French B1, mastering this syntax structure enables learners to articulate complex interpersonal nuances..." — this exact shape, in French, this session.) If you could regex-replace one noun phrase and get a different lesson's "unique" explanation, it's a template, not content, regardless of what a string-uniqueness counter says about it.
+3. **Self-referential filler examples.** (Round 5: *"This sentence illustrates the rule of Unit 2 Lesson 1"* / *"Understanding this structure aids fluent communication"* — real grammar, zero actual target-language usage content.) Every `presentation.examples` entry must be an actual sentence *using* the lesson's grammar point in a real context — not a sentence describing the fact that a rule exists.
+4. **Fake mnemonic and cultural-note placeholders.** (`"Key cognitive anchor for [title]"`, `"Cultural nuance and communicative etiquette in [language]."` — found verbatim, 170 times each, across 9 languages.) A mnemonic must be an actual memory device tied to actual lesson content. A cultural note must be a specific, true, checkable fact — not a category label.
+5. **Leaked internal disambiguation IDs in user-facing text.** (`你好_1_1` shown to the learner instead of `你好`.) Never let an internal id with an underscore-number suffix appear in any field a learner reads.
+6. **A "rotating pool" of K distinct values across N lessons, where K < N, reported as "fixed."** (Round 5: checkpoint MC prompts went from 1 shared value to 34 distinct values across 170 lessons — an improvement, but still only 34/170, i.e. still one shared prompt per unit, not per lesson — and this was reported as resolved.) If you report a uniqueness count, report it as `K/N` explicitly, not as "increased" or "diversified." Anything under `K = N` (i.e., anything short of every single lesson being genuinely distinct) is not done, and should be described honestly as `K/N`, not rounded up in language.
+7. **A multiple-choice question answerable by pattern-matching answer shape, not language knowledge.** Check: is the correct answer systematically the longest, most formal-looking, or most "complete sentence" option? Does `answerIndex` actually vary across lessons, or does it cluster at one position? If a test-taker with zero knowledge of the language could score above chance by shape alone, the question tests nothing.
+8. **The same grammar point tested repeatedly across different-topic lessons.** Even fully unique, non-gameable quiz text can still drill one fact 170 times if you weren't paying attention to what each lesson is actually supposed to teach. Pull the specific grammar/vocab feature from 5+ lessons spread across different units and confirm they genuinely differ.
+9. **Editing a quality-gate script's threshold to make a failure disappear**, instead of fixing the content the gate correctly flagged. If `scripts/audit_curricula_uniqueness.js` (or any check you write yourself) fails, that means something is actually wrong. Fix the content. If you believe a specific threshold is miscalibrated — not merely inconvenient — you must say so explicitly in your report with your reasoning, and default to leaving it as-is unless a human has told you otherwise. Silently loosening a bar and then reporting a pass is the single most-repeated failure on this entire project and it is now an explicit, named violation.
+10. **Reporting "PASSED" or "100% complete" from a script's printed output without having read the script's own source to know what it does and does not check.** Before trusting any gate's verdict, state explicitly, in your own words, what that gate does NOT check — the same way you'd state what it does. A gate that checks explanations and guided practice but never looks at checkpoint items has a blind spot at checkpoint items, and a pass from it says nothing about checkpoint quality.
+11. **Claiming a feature or fix is "done" based on the data file being correct, without opening the actual running app and clicking to it.** Serve the app over local HTTP (not `file://`), open the browser console, click the actual UI path a learner would take (module → unit → lesson), and confirm the content you wrote actually renders with zero console errors. A perfectly-written lesson object that the renderer can't reach is not done.
+12. **Running a huge diff and letting a single overall "compiled cleanly" / "quality gate passed" message stand in for section-by-section verification.** Sample lessons from early, one-third, two-thirds, and near-the-end of each language's 170, side by side, every single time you believe you're done with that language — not just once at the very start.
+
+---
+
+## 4. Verification protocol — run this after every 5 lessons (one unit), not at the end
+
+This is the actual checklist from `FEARN_ANTI_GAMING_AUDIT_PROTOCOL.md`, condensed to what applies here. Do all of it, every unit, and keep the raw output — you will be asked to paste it, not summarize it.
+
+1. **Read the diff you just made**, not a summary of it you write about the diff.
+2. **Sample the unit's 5 lessons side by side** — print each one's `objective`, `explanation`, first `examples` entry, and one `checkpointTest` item next to the others. If the sentence skeleton is identical across 2+ of them with only a noun/number swapped, that's a template — fix it before moving on.
+3. **Native-script density check, for non-Latin-script languages (Amharic, Mandarin, Cantonese, Korean, Hindi, Urdu).** Measure the fraction of characters in the language's actual Unicode script range (Ge'ez `ሀ-፿` for Amharic, CJK `一-鿿` for Mandarin/Cantonese, Hangul `가-힣` for Korean, Devanagari `ऀ-ॿ` for Hindi, Arabic script `؀-ۿ` for Urdu) within the `explanation` and `examples` text. A lesson teaching that language should be **mostly written in that language**, not an English essay about it. Report the actual percentage per lesson batch, not a pass/fail label.
+4. **For Latin-script-adjacent languages (French, Swahili, Ukrainian is Cyrillic — use Cyrillic `Ѐ-ӿ` density for Ukrainian, English-function-word-ratio proxy for French/Swahili):** same principle — count common English function words (`the`, `is`, `and`, `learners`, `lesson`, `grammar`) per 100 words of the explanation. Real target-language prose is not majority English function words.
+5. **Check `answerIndex` distribution** across the unit's checkpoint items — should not cluster at one position.
+6. **Check whether the same grammar/vocab point repeats** across the 5 lessons in this unit, and across this unit versus 2-3 other units you've already written.
+7. **Load the app live**, over local HTTP, click into this exact language, this exact unit, and confirm the 5 lessons render with 5 genuinely different-looking titles/objectives and zero console errors. Screenshot it or paste the actual rendered DOM text — not "it should render fine."
+8. **Update the ledger for this language honestly, right now, not at the end.** `authoredInFull` should include only the lesson IDs you've actually verified via steps 1-7 above. `nextToAuthor` should point at the next real lesson. Never write `stubOnly: []` and `authoredInFull` covering all 170 until every single one has individually passed this checklist.
+
+**Only after all 9 languages' 170 lessons have individually passed this per-unit checklist** may you run the full-repo `scripts/audit_curricula_uniqueness.js` and cite its result — and even then, state explicitly what that script does and does not check (see anti-pattern #10), don't just paste its `[PASSED]` line as your evidence.
+
+---
+
+## 5. What each language actually needs — content checklist, not just "write 170 lessons"
+
+Generic grammar-explanation-plus-examples is not sufficient on its own. Each of these languages has specific structural features a real course must explicitly teach, at the right point in the sequence (roughly: alphabet/script and phonology in unit 1-3, core morphology by unit 10-15, the features below woven in across B1-C2 as appropriate). If any of these are absent across all 170 lessons for a language, that language is not actually complete regardless of lesson count:
+
+- **French**: gender agreement (le/la, adjective agreement) from the start; the full verb-tense system including subjunctive (mood, not just tense) and its actual triggers, not just conjugation tables; liaison and its rules; the passé composé vs. imparfait distinction (a famously hard point for learners); formal/informal register (tu/vous) as a running thread, not a single lesson.
+- **Mandarin Chinese**: Hanyu Pinyin romanization with correct tone marks (1st-4th tone plus neutral) on every single romanized syllable, not just first mention; the tone system taught explicitly (this is not optional — tones are phonemic in Mandarin, two words differing only in tone are different words); simplified characters (this app's Mandarin, as distinct from Cantonese/traditional); measure words (量词) — Mandarin requires a specific classifier for nearly every countable noun, and this is one of the most-tested beginner features; the topic-comment sentence structure alongside SVO.
+- **Cantonese**: Jyutping romanization with tone numbers (Cantonese has 6-9 tones depending on analysis — more than Mandarin, and this must be taught explicitly, not glossed over); traditional characters (distinct choice from Mandarin's simplified, and this app already correctly separates the two languages — keep that distinction, don't accidentally reuse Mandarin content); final particles (啊, 喇, 㗎, etc.) that carry real grammatical/pragmatic meaning in Cantonese and have no direct Mandarin equivalent; the fact that Cantonese and Mandarin are mutually unintelligible in speech despite sharing a writing system historically — don't let content drift toward being "Mandarin grammar with Cantonese words swapped in," which is the exact reskinning anti-pattern named in `HANDOFF.md`'s existing anti-patterns list for other language pairs.
+- **Korean**: the Hangul alphabet must be explicitly taught as an alphabet (consonants, vowels, syllable-block construction) in the earliest units, not skipped to whole-word memorization; the honorific speech-level system (해요체, 합쇼체, 반말 at minimum) as an explicit, recurring topic — this is arguably the single most distinctive feature of Korean grammar and cannot be an afterthought; particle system (은/는, 이/가, 을/를, etc.) with their actual distinguishing function, not just "attach to noun"; verb conjugation via agglutination.
+- **Hindi**: Devanagari script taught explicitly as a script (consonants, vowel diacritics/matras, conjunct consonants) before or alongside romanization, not romanization-only; gender (masculine/feminine) agreement across nouns, adjectives, AND verbs (Hindi verb agreement with subject gender is a real feature, distinct from French's noun/adjective-only agreement); postpositions (Hindi uses postpositions, not prepositions — के, में, पर, etc.) and the oblique case they trigger; the ergative-like construction with ने for past-tense transitive verbs, a genuinely difficult point that needs real explanation, not a one-line mention.
+- **Urdu**: Nastaliq script (right-to-left, the specific calligraphic style distinct from Arabic's more common Naskh style) taught explicitly; the significant Persian and Arabic loanword layer in formal/literary Urdu vs. the more Sanskrit-derived everyday register — a real, teachable register distinction; ezafe construction borrowed from Persian; the fact that Urdu and Hindi are mutually intelligible in speech but use different scripts and have different loanword registers — don't let Urdu content become "Hindi content transliterated," the same reskinning risk named for Cantonese/Mandarin above.
+- **Swahili**: the noun class system (commonly analyzed as ~15-18 classes, each with its own singular/plural prefix pair and triggering agreement across adjectives, verbs, and pronouns) is the single most defining feature of Swahili grammar and must be taught as a real, recurring structural system — not mentioned once and dropped; verb tense/aspect marked by infixes (the verb's tense marker sits inside the word, between subject and root, not before/after it as a separate word) — genuinely unusual typologically and needs real explanation; the Bantu-language agreement-concord system generally.
+- **Ukrainian**: Cyrillic script (distinct from Russian's Cyrillic in specific letters — і, ї, є, ґ do not exist in Russian, and Ukrainian lacks Russian's ы, э, ъ — this distinction matters and should be explicit, not assumed already known); the 7-case noun declension system (nominative, genitive, dative, accusative, instrumental, locative, vocative — note the vocative case, which Russian lost but Ukrainian retained, a genuinely distinctive feature worth calling out); verbal aspect (perfective/imperfective pairs) as a core, recurring grammatical category, not a footnote.
+- **Amharic**: the Ge'ez script/Fidel syllabary (a genuine syllabary, not an alphabet — each symbol represents a consonant+vowel combination, and the system of base-consonant-plus-vowel-order modification should be taught explicitly, not just presented as "the alphabet"); Semitic root-and-pattern (triliteral/quadriliteral root) morphology, where a word's core meaning lives in a 3-4 consonant root and grammatical information is carried by the vowel pattern and affixes around it — this is structurally similar to Arabic's root system and is one of the most important things to get right; gender marking and the honorific/polite verb-agreement system.
+
+If you find yourself writing an explanation for any of these languages that would be equally true if you swapped in a different language's name, you have not engaged with what makes that language distinct, and that lesson is not done regardless of length or uniqueness-checker results.
+
+---
+
+## 6. Quality bar — read these before writing anything, they are the actual target
+
+Read `fr-u1-l1` through `fr-u12-l5` in the current `french.js` (your own genuinely good work from earlier this session), and `ja-u20-l1` and `tr-u25-l1` in `japanese.js` / `turkish.js` (independently verified as real, specific, non-templated content spanning basic greetings through C1 cultural/historical topics). That is the depth and specificity bar for every single lesson in all 9 languages, at every level from A1 through C2 — not just the first unit.
+
+---
+
+## 7. Reporting requirements
+
+Do not report progress or completion using: "significantly improved," "much better now," "comprehensive," "authentic," "genuine depth," "100% complete," or any other unverifiable adjective, without a number and a stated method attached in the same sentence. Every status update, and your final report, must instead state:
+
+- Exact lesson-ID ranges completed per language, and the exact boundary lesson ID if you preserved existing content (per Section 2a).
+- Exact `K/N` uniqueness counts for objective, explanation, examples, guided/independent practice, and checkpoint items — not just "checked, unique."
+- Native-script density percentage (or English-function-word ratio for Latin-adjacent languages) for the batch you just wrote.
+- Confirmation, per unit, that you loaded the live app and it rendered — paste the actual rendered text or a screenshot, not "verified working."
+- An explicit list of what you did NOT verify this round, if anything — per the standing rule that "here's what I checked and here's what I didn't" is more trustworthy than an unqualified "done."
+
+If you stop for any reason before finishing all 9 languages, leave every touched language's ledger reflecting real, individually-verified progress only — never round up to 170/170 because you intended to finish, or because you ran out of budget partway through a unit.
+
+---
+
+## 8. Addendum — Japanese, lower priority, additive only, only if all 9 languages above are genuinely complete first
+
+Separately from the 9-language task above: `japanese.js` currently has zero structured teaching of onyomi/kunyomi kanji readings (verified: zero occurrences of "onyomi," "kunyomi," 音読み, or 訓読み anywhere in the file), and only 76 unique kanji characters are used across the entire 170-lesson course despite claiming to reach N1 (real N1 requires roughly 2,000+ kanji; even N5 alone typically covers ~100). Verify directly whether hiragana and katakana are taught as explicit character-by-character alphabets anywhere in the course (do not assume either way — check) — the existing Japanese content is otherwise genuinely good and must not be rewritten or restructured to add this. If you take this on:
+
+- **Additive only.** Do not touch, restructure, or rewrite any existing lesson's `explanation`, `examples`, `mnemonics`, or `culturalNotes` fields. Every currently-good Japanese lesson stays exactly as it is.
+- Add real onyomi/kunyomi teaching content at the specific lessons where new kanji are introduced, and real per-level kanji-count targets (roughly: N5 ~100-120, N4 ~300, N3 ~650, N2 ~1000, N1 ~2000+, cumulative) reflected honestly in how many actual distinct kanji the course introduces by each level's units — not just claimed in a description field.
+- If hiragana/katakana are not explicitly taught character-by-character anywhere, add that as new early-unit content, additive, without disturbing what's already there.
+
+This is explicitly lower priority than the 9-language task in Section 2. Do not start this until all 9 languages have individually passed Section 4's per-unit checklist for all 170 lessons each.

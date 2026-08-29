@@ -160,21 +160,82 @@
         box.innerHTML = '<p>No reviews due right now — nice and clear! Moving into today\'s lesson.</p>';
       } else {
         var p = document.createElement('p');
-        p.textContent = due.length + ' item(s) due for review before the new material:';
+        p.textContent = due.length + ' item(s) due for review before today\'s lesson:';
+        p.style.marginBottom = '14px';
         box.appendChild(p);
+
         due.forEach(function (item) {
-          var row = document.createElement('div');
-          row.className = 'fearn-lang-review-row';
-          row.textContent = item.itemId;
-          var again = document.createElement('button');
-          again.textContent = 'Again';
-          again.onclick = function () { FEARN.srs.schedule(item.itemId, 1, MODULE_ID); row.style.opacity = 0.4; };
-          var good = document.createElement('button');
-          good.textContent = 'Good';
-          good.onclick = function () { FEARN.srs.schedule(item.itemId, 4, MODULE_ID); row.style.opacity = 0.4; };
-          row.appendChild(again);
-          row.appendChild(good);
-          box.appendChild(row);
+          var resolved = (FEARN.srs && FEARN.srs.resolveItem) ? FEARN.srs.resolveItem(item.itemId, MODULE_ID) : { target: item.itemId, translation: '', reading: '' };
+          var card = document.createElement('div');
+          card.className = 'fearn-lang-review-card';
+          card.style.cssText = 'background:rgba(255,255,255,0.04); border:1px solid rgba(255,255,255,0.12); border-radius:10px; padding:14px 16px; margin-bottom:12px; display:flex; flex-direction:column; gap:10px; transition:opacity 0.2s ease;';
+
+          var contentRow = document.createElement('div');
+          contentRow.style.cssText = 'display:flex; justify-content:space-between; align-items:flex-start; gap:12px;';
+
+          var textCol = document.createElement('div');
+          textCol.style.cssText = 'display:flex; flex-direction:column; gap:4px;';
+
+          var targetEl = document.createElement('div');
+          targetEl.className = 'fearn-lang-review-target';
+          targetEl.style.cssText = 'font-size:1.15rem; font-weight:700; color:var(--text-bright, #f8fafc);';
+          targetEl.textContent = resolved.target || item.itemId;
+          textCol.appendChild(targetEl);
+
+          if (resolved.reading) {
+            var readingEl = document.createElement('div');
+            readingEl.className = 'fearn-lang-review-reading';
+            readingEl.style.cssText = 'font-size:0.9rem; color:var(--accent-1, #38bdf8); font-style:italic;';
+            readingEl.textContent = resolved.reading;
+            textCol.appendChild(readingEl);
+          }
+
+          if (resolved.translation) {
+            var transEl = document.createElement('div');
+            transEl.className = 'fearn-lang-review-translation';
+            transEl.style.cssText = 'font-size:0.95rem; color:var(--text-muted, #94a3b8);';
+            transEl.textContent = resolved.translation;
+            textCol.appendChild(transEl);
+          }
+
+          contentRow.appendChild(textCol);
+
+          var audioBtn = (FEARN.audio && FEARN.audio.createSpeakButton) ? FEARN.audio.createSpeakButton(resolved.target || item.itemId, MODULE_ID) : null;
+          if (audioBtn) {
+            contentRow.appendChild(audioBtn);
+          }
+
+          card.appendChild(contentRow);
+
+          // 4-Button Graded Scale (Again / Hard / Good / Easy)
+          var btnRow = document.createElement('div');
+          btnRow.className = 'fearn-srs-grade-row';
+          btnRow.style.cssText = 'display:flex; gap:8px; flex-wrap:wrap; margin-top:4px;';
+
+          var grades = [
+            { label: 'Again (1)', grade: 1, bg: 'rgba(239, 68, 68, 0.15)', border: 'rgba(239, 68, 68, 0.4)', color: '#f87171' },
+            { label: 'Hard (2)', grade: 2, bg: 'rgba(245, 158, 11, 0.15)', border: 'rgba(245, 158, 11, 0.4)', color: '#fbbf24' },
+            { label: 'Good (3)', grade: 3, bg: 'rgba(59, 130, 246, 0.15)', border: 'rgba(59, 130, 246, 0.4)', color: '#60a5fa' },
+            { label: 'Easy (4)', grade: 4, bg: 'rgba(16, 185, 129, 0.15)', border: 'rgba(16, 185, 129, 0.4)', color: '#34d399' }
+          ];
+
+          grades.forEach(function (g) {
+            var gradeBtn = document.createElement('button');
+            gradeBtn.type = 'button';
+            gradeBtn.className = 'fearn-srs-grade-btn';
+            gradeBtn.textContent = g.label;
+            gradeBtn.style.cssText = 'background:' + g.bg + '; border:1px solid ' + g.border + '; color:' + g.color + '; border-radius:6px; padding:5px 12px; font-size:0.85rem; font-weight:600; cursor:pointer; transition:all 0.15s ease;';
+            gradeBtn.onclick = function () {
+              var rec = FEARN.srs.schedule(item.itemId, g.grade, MODULE_ID);
+              card.style.opacity = '0.45';
+              card.style.pointerEvents = 'none';
+              btnRow.innerHTML = '<span style="font-size:0.85rem; color:' + g.color + '; font-weight:600;">Scheduled next review in ' + (rec.interval || 1) + 'd</span>';
+            };
+            btnRow.appendChild(gradeBtn);
+          });
+
+          card.appendChild(btnRow);
+          box.appendChild(card);
         });
       }
       flowRoot.appendChild(box);
