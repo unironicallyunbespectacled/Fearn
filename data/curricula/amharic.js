@@ -7318,63 +7318,70 @@
     },
     "am-u14-l1": {
         "id": "am-u14-l1",
-        "subject": "amharic",
-        "unit": 14,
-        "lessonNumber": 1,
-        "title": "ስራ፣ ሙያ እና የስራ ቦታ (Occupations & Workplace Dialogue) (Part 1)",
+        "unit": "am-u14",
         "level": "B1",
-        "objective": "Comprehensive mastery of የስራ መስክ እና ሙያ (Professions and Workplace).",
+        "objective": "Identify and use key profession and vocation nouns in Amharic with gender distinction, including መምህር/መምህርት (teacher), መሐንዲስ (engineer), ጠበቃ (lawyer), ነጋዴ (trader/merchant), ገበሬ (farmer), ጋዜጠኛ (journalist), and አርቲስት (artist).",
+        "prerequisites": [
+            "am-u13-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u13-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የስራ መስክ እና ሙያ (Professions and Workplace) - ደረጃ 1) ተማሪዎች ስለ የስራ መስክ እና ሙያ (Professions and Workplace) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Discussing career vocations, occupations (የስራ እና የሙያ ስሞች), and professional identities in Amharic involves gender-differentiated noun morphology, the professional agent suffix **-ኛ** (-egna), and honorific forms.\n\n1. Masculine and Feminine Profession Noun Pairs:\n- **መምህር** (Memhir — Male Teacher) / **መምህርት** (Memhirt — Female Teacher)\n- **ዶክተር / ሐኪም** (Dokter / Hakim — Doctor / Physician)\n- **መሐንዲስ** (Mehendis — Engineer)\n- **ጠበቃ** (T'ebeqa — Lawyer / Advocate)\n- **ነጋዴ** (Negadē — Trader / Merchant / Businessperson)\n- **ገበሬ** (Gebere — Farmer / Agriculturalist)\n- **አስተናጋጅ** (Astenagaj — Waiter / Waitress / Host)\n- **አርቲስት / ከያኒ** (Artist / Keyani — Artist / Performer)\n- **ሹፌር / አሽከርካሪ** (Shufēr / Ashkerkari — Driver)\n\n2. The Profession/Agent Suffix **-ኛ** (-egna):\nThe suffix **-ኛ** transforms a field, medium, or activity into an occupational title:\n- **ጋዜጣ** (Newspaper) -> **ጋዜጠኛ** (Journalist / Reporter)\n- **ስፖርት** (Sport) -> **ስፖርተኛ** (Athlete / Sports professional)\n- **ፖሊስ** (Police) -> **ፖሊስ** (Police officer)\n\n3. Inquiring About Someone's Vocation:\n- «**ስራህ ምንድን ነው?**» (Sirah mindin new? — To a male: What is your job?)\n- «**ስራሽ ምንድን ነው?**» (Sirash mindin new? — To a female: What is your job?)\n- «**ስራዎ ምንድን ነው?**» (Sirawo mindin new? — Formal/Polite: What is your profession?)\n- «**እኔ መሐንዲስ ነኝ።**» (Ine mehendis negn — I am an engineer.)",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየስራ መስክ እና ሙያ (Professions and Workplace) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (14.1.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "እህቴ በዩኒቨርሲቲ ውስጥ የታሪክ መምህርት ሆና ትሰራለች።",
+                    "reading": "Ihitē beyunīversītī wust' yetarīk memhirt hona tiserallech.",
+                    "translation": "My sister works as a history teacher at the university."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (14.1.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ወንድሜ በኮንስትራክሽን ድርጅት ውስጥ የሲቪል መሐንዲስ ነው።",
+                    "reading": "Wondimē bekonstrakshin dirijit wust' yesīvīl mehendis new.",
+                    "translation": "My brother is a civil engineer in a construction firm."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (14.1.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ጠበቃው ፍርድ ቤት ቀርበው ለደንበኛቸው ተከራከሩ።",
+                    "reading": "T'ebeqaw fird bēt qirbew ledenbenyachew tekerakeru.",
+                    "translation": "The lawyer appeared in court and argued for their client."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የስራ መስክ እና ሙያ (Professions and Workplace)"
+                "መምህር (Memhir) is related to ምሁር (Scholar) — teachers impart scholarship!",
+                "The suffix -ኛ (-egna) makes an agent: ጋዜጣ (newspaper) -> ጋዜጠኛ (journalist)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "In Ethiopian social etiquette, profession titles are widely used as respectful prefixes in direct address: «መምህር» (Teacher), «ዶክተር» (Doctor), or «መሐንዲስ» (Engineer) precedes a person's first name (e.g. መምህር ታሪኩ, ዶክተር አስቴር)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የስራ መስክ እና ሙያ (Professions and Workplace)» አጠቃቀም በደረጃ 1 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«መሐንዲስ» የሚለው ቃል ምን ሙያን ይገልጻል?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (14.1.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (14.1.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (14.1.3)።"
+                        "Engineer",
+                        "Lawyer",
+                        "Doctor"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "መሐንዲስ (Mehendis) means 'engineer'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ስራ፣ ሙያ እና የስራ ቦታ (Occupations & Workplace Dialogue)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 1)፡",
+                    "prompt": "«ጋዜጠኛ» ምን አይነት ስራ ይሰራል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (14.1.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (14.1.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (14.1.3)።"
+                        "ዜና እና መረጃ የሚያጠናቅር ባለሙያ (News/media professional)",
+                        "በእርሻ ላይ ሰብል የሚያመርት (Farmer)",
+                        "በሆስፒታል ታካሚ የሚያክም (Physician)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "ጋዜጠኛ (Gazēt'egna) is a journalist or reporter who investigates and broadcasts news."
                 }
             ]
         },
@@ -7382,85 +7389,94 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የስራ መስክ እና ሙያ (Professions and Workplace)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 14-1)?",
+                    "prompt": "«ጠበቃ» የሚለው የሙያ ቃል ምን ማለት ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (14.1.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (14.1.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (14.1.3)።"
+                        "Lawyer / Attorney",
+                        "Teacher",
+                        "Merchant"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "explanation": "ጠበቃ (T'ebeqa) = lawyer / advocate."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ስራ_14_1»):",
+                    "prompt": "Type the Amharic word for 'Teacher' (masculine) in Fidel script (መምህር):",
                     "acceptedAnswers": [
-                        "ስራ_14_1"
+                        "መምህር",
+                        "memhir",
+                        "Memhir"
                     ],
-                    "explanation": "The target keyword was: 【ስራ_14_1】"
+                    "explanation": "መምህር (Memhir) means 'teacher' (masculine)."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u14-l2": {
         "id": "am-u14-l2",
-        "subject": "amharic",
-        "unit": 14,
-        "lessonNumber": 2,
-        "title": "ስራ፣ ሙያ እና የስራ ቦታ (Occupations & Workplace Dialogue) (Part 2)",
+        "unit": "am-u14",
         "level": "B1",
-        "objective": "Comprehensive mastery of የስራ መስክ እና ሙያ (Professions and Workplace).",
+        "objective": "Identify and describe workplace environments — ቢሮ (office), ባንክ (bank), ፋብሪካ (factory), ሱቅ (store), and ሆስፒታል (hospital) — and describe standard daily operational duties in Amharic.",
+        "prerequisites": [
+            "am-u14-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u14-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የስራ መስክ እና ሙያ (Professions and Workplace) - ደረጃ 2) ተማሪዎች ስለ የስራ መስክ እና ሙያ (Professions and Workplace) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Describing workplaces (የስራ ቦታዎች) and professional responsibilities in Amharic involves facility nouns, office action verbs, and compound workplace expressions.\n\n1. Workplace Facilities and Institutions:\n- **ቢሮ** (Bīro) — Office\n- **መሥሪያ ቤት** (Mesriya bēt) — Governmental bureau / Workplace (literally 'working house')\n- **ባንክ** (Bank) — Bank\n- **ፋብሪካ** (Fabrīka) — Factory / Industrial plant\n- **ሱቅ** (Suq) — Shop / Retail store\n- **ድርጅት / ኩባንያ** (Dirijit / Kubanya) — Enterprise / Company\n- **የገበያ ማዕከል** (Yegebeya ma'ikel) — Commercial center / Mall\n\n2. Daily Operational Actions and Professional Tasks:\n- **ሪፖርት ማዘጋጀት** (Rīport mazegajet) — Preparing a report\n- **ስብሰባ መምራት** (Sibseba memrat) — Leading a meeting\n- **ደንበኞችን ማስተናገድ** (Denbenyochin mastenaged) — Attending to / serving clients\n- **ስራ መጀመር / ማጠናቀቅ** (Sira mejemer / mat'enaqeq) — Commencing / Finishing work\n- **ፊርማ ማኖር** (Firma manor) — Signing documents",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየስራ መስክ እና ሙያ (Professions and Workplace) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (14.2.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "በየቀኑ ጠዋት ሁለት ሰዓት ላይ ቢሮ ገብተን ስራ እንጀምራለን።",
+                    "reading": "Beyeqenu t'ewat hulet se'at lay bīro gebten sira inijemiralen.",
+                    "translation": "Every morning at 8:00 AM we enter the office and start work."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (14.2.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የባንክ ሰራተኞች ለደንበኞች ፈጣን እና ቀልጣፋ አገልግሎት ይሰጣሉ።",
+                    "reading": "Yebank serategnoch ledenbenyoch fet'an ina qelt'afa agelgilot yiset'alu.",
+                    "translation": "Bank employees provide prompt and efficient service to clients."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (14.2.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "በጨርቃ ጨርቅ ፋብሪካው ውስጥ በመቶዎች የሚቆጠሩ ሰራተኞች ይሰራሉ።",
+                    "reading": "Bech'erqa ch'erq fabrīkaw wust' bemetowoch yemīqot'eru serategnoch yiseralu.",
+                    "translation": "Hundreds of employees work in the textile factory."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የስራ መስክ እና ሙያ (Professions and Workplace)"
+                "«መሥሪያ ቤት» = 'Working house' (መሥሪያ = for working, ቤት = house) = Office/Institution!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Standard Ethiopian working hours typically span 8:30 AM to 5:30 PM, with a shared lunch break from 12:30 to 1:30 PM where office colleagues often share platters of injera together (ማዕድ መካፈል)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የስራ መስክ እና ሙያ (Professions and Workplace)» አጠቃቀም በደረጃ 2 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«ቢሮ» እና «መሥሪያ ቤት» ምን ያመለክታሉ?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (14.2.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (14.2.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (14.2.3)።"
+                        "Office and Workplace/Institution",
+                        "Park and Stadium",
+                        "Kitchen and Restaurant"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "ቢሮ (Biro) and መሥሪያ ቤት (Mesriya bet) refer to offices and work institutions."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ስራ፣ ሙያ እና የስራ ቦታ (Occupations & Workplace Dialogue)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 2)፡",
+                    "prompt": "«ደንበኞችን ማስተናገድ» ምን ማለት ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (14.2.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (14.2.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (14.2.3)።"
+                        "Cleaning the office",
+                        "Attending to / serving clients",
+                        "Writing a computer program"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "ደንበኞችን (clients/customers) + ማስተናገድ (to serve/host) means customer service."
                 }
             ]
         },
@@ -7468,85 +7484,94 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የስራ መስክ እና ሙያ (Professions and Workplace)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 14-2)?",
+                    "prompt": "የትኛው ቃል 'Factory' የሚለውን የስራ ቦታ ያመለክታል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (14.2.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (14.2.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (14.2.3)።"
+                        "ሱቅ (Shop)",
+                        "ትምህርት ቤት (School)",
+                        "ፋብሪካ (Fabrika)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "ፋብሪካ (Fabrika) = factory / plant."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ስራ_14_2»):",
+                    "prompt": "Type the Amharic word for 'Office' in Fidel script (ቢሮ):",
                     "acceptedAnswers": [
-                        "ስራ_14_2"
+                        "ቢሮ",
+                        "biro",
+                        "Biro"
                     ],
-                    "explanation": "The target keyword was: 【ስራ_14_2】"
+                    "explanation": "ቢሮ (Biro) means 'office'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u14-l3": {
         "id": "am-u14-l3",
-        "subject": "amharic",
-        "unit": 14,
-        "lessonNumber": 3,
-        "title": "ስራ፣ ሙያ እና የስራ ቦታ (Occupations & Workplace Dialogue) (Part 3)",
+        "unit": "am-u14",
         "level": "B1",
-        "objective": "Comprehensive mastery of የስራ መስክ እና ሙያ (Professions and Workplace).",
+        "objective": "Navigate job searches, understand application requirements (የስራ ማስታወቂያ, ሲቪ, የስራ ልምድ), and respond to common job interview inquiries in Amharic.",
+        "prerequisites": [
+            "am-u14-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u14-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የስራ መስክ እና ሙያ (Professions and Workplace) - ደረጃ 3) ተማሪዎች ስለ የስራ መስክ እና ሙያ (Professions and Workplace) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Applying for employment and undergoing recruitment interviews (ስራ ፍለጋ እና ቃለ-መጠይቅ) in Amharic involves specialized professional application terminology.\n\n1. Job Application Terminology:\n- **የስራ ማስታወቂያ** (Yesira mastawēqīya) — Job vacancy announcement\n- **የስራ ማመልከቻ** (Yesira mamelkecha) — Job application letter\n- **የህይወት ታሪክ / ሲቪ** (Yehīwot tarīk / Sīvī) — Curriculum Vitae / Resume\n- **የስራ ልምድ** (Yesira limid) — Professional work experience\n- **የትምህርት ማስረጃ** (Yetimihirt masreja) — Educational certificates / Credentials\n- **ደመወዝ** (Demewez) — Monthly salary / Compensation\n- **ቃለ-መጠይቅ** (Qale-met'eyiq) — Interview (literally: 'dialogue of questions')\n\n2. Key Interview Question Patterns:\n- «**ስለራስዎ እና ስለስራ ልምድዎ በአጭሩ ይንገሩን?**» (Tell us briefly about yourself and your work background?)\n- «**በዚህ የስራ መስክ የአምስት ዓመት ልምድ አለኝ።**» (I have five years of experience in this field.)\n- «**በትብብር እና በቡድን መስራት እወዳለሁ።**» (I enjoy collaborating in teamwork.)",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየስራ መስክ እና ሙያ (Professions and Workplace) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (14.3.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "በጋዜጣው የወጣውን የስራ ማስታወቂያ አይቼ ማመልከቻ አስገባሁ።",
+                    "reading": "Begazēt'aw yewet'awun yesira mastawēqīya ayichē mamelkecha asgebahu.",
+                    "translation": "Seeing the job announcement published in the newspaper, I submitted an application."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (14.3.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የስራ ቃለ-መጠይቁ በሚቀጥለው ሰኞ ጠዋት በድርጅቱ ዋና ቢሮ ይካሄዳል።",
+                    "reading": "Yesira qale-met'eyiqu bemīqet'ilew senyo t'ewat bedirijitu wana bīro yikahedal.",
+                    "translation": "The job interview will be conducted next Monday morning at the company headquarters."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (14.3.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ድርጅቱ ጥሩ ደመወዝ እና የትራንስፖርት አበል ያቀርባል።",
+                    "reading": "Dirijitu t'iru demewez ina yetransport abel yaqerbal.",
+                    "translation": "The company offers a good salary and transport allowance."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የስራ መስክ እና ሙያ (Professions and Workplace)"
+                "«ቃለ-መጠይቅ» = Word (ቃል) + Asking (መጠየቅ) = Interview dialogue!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Formal job interviews in Ethiopia are conducted in polite language (የክብር ቋንቋ), using polite forms like እርስዎ (Irswo — formal you) and third-person plural verb endings for respect (ለምሳሌ፡ «ይቀመጡ», «ይግለጹ»)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የስራ መስክ እና ሙያ (Professions and Workplace)» አጠቃቀም በደረጃ 3 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«የስራ ልምድ» ምን ማለት ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (14.3.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (14.3.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (14.3.3)።"
+                        "Work experience",
+                        "Salary scale",
+                        "Office furniture"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "የስራ ልምድ (Yesira limid) = professional work experience."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ስራ፣ ሙያ እና የስራ ቦታ (Occupations & Workplace Dialogue)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 3)፡",
+                    "prompt": "«ቃለ-መጠይቅ» የሚለው ቃል ትርጉም ምንድን ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (14.3.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (14.3.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (14.3.3)።"
+                        "Written contract",
+                        "Interview",
+                        "Vacation request"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "ቃለ-መጠይቅ (Qale-meteyiq) means 'interview'."
                 }
             ]
         },
@@ -7554,85 +7579,94 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የስራ መስክ እና ሙያ (Professions and Workplace)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 14-3)?",
+                    "prompt": "የትኛው ቃል 'Salary / Monthly Wage' የሚለውን ቃል ይወክላል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (14.3.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (14.3.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (14.3.3)።"
+                        "ደመወዝ (Demewez)",
+                        "ቀጠሮ (Appointment)",
+                        "ማህተም (Stamp)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "ደመወዝ (Demewez) = salary / wage."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ስራ_14_3»):",
+                    "prompt": "Type the Amharic word for 'job / work' in Fidel script (ስራ):",
                     "acceptedAnswers": [
-                        "ስራ_14_3"
+                        "ስራ",
+                        "sira",
+                        "Sira"
                     ],
-                    "explanation": "The target keyword was: 【ስራ_14_3】"
+                    "explanation": "ስራ (Sira) means 'work / job'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u14-l4": {
         "id": "am-u14-l4",
-        "subject": "amharic",
-        "unit": 14,
-        "lessonNumber": 4,
-        "title": "ስራ፣ ሙያ እና የስራ ቦታ (Occupations & Workplace Dialogue) (Part 4)",
+        "unit": "am-u14",
         "level": "B1",
-        "objective": "Comprehensive mastery of የስራ መስክ እና ሙያ (Professions and Workplace).",
+        "objective": "Engage in collaborative workplace discussions, schedule and participate in meetings (ስብሰባ), and interact respectfully with colleagues (የስራ ባልደረቦች).",
+        "prerequisites": [
+            "am-u14-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u14-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የስራ መስክ እና ሙያ (Professions and Workplace) - ደረጃ 4) ተማሪዎች ስለ የስራ መስክ እና ሙያ (Professions and Workplace) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Effective workplace collaboration in Ethiopia requires fluency in meeting protocol, collaborative terminology, and professional courtesy.\n\n1. Collegial Roles and Hierarchy:\n- **የስራ ባልደረባ** (Yesira baldereba) — Work colleague / Peer\n- **ስራ አስኪያጅ / ኃላፊ** (Sira askiyaj / Halafi) — General Manager / Department Head\n- **ተቆጣጣሪ** (Teqot'at'ari) — Supervisor / Overseer\n- **ስብሰባ** (Sibseba) — Meeting / Conference\n- **የስብሰባ አጀንዳ** (Yesibseba ajenda) — Meeting agenda\n- **የስራ ክፍፍል** (Yesira kififil) — Delegation of tasks\n\n2. Meeting Dialogue and Proposals:\n- «**ስብሰባው በስንት ሰዓት ይጀምራል?**» (At what time does the meeting commence?)\n- «**በአዲሱ ፕሮጀክት ላይ ሀሳብ እንለዋወጥ።**» (Let us exchange perspectives on the new project.)\n- «**ሁላችንም በጋራ መስራት አለብን።**» (We must all work collaboratively together.)",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየስራ መስክ እና ሙያ (Professions and Workplace) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (14.4.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "የስራ ባልደረቦቼ በቡድን ስራ ላይ እጅግ ተባባሪ እና ታታሪ ናቸው።",
+                    "reading": "Yesira balderebochē bebudin sira lay ijig tebabari ina tatari nachew.",
+                    "translation": "My colleagues are extremely cooperative and hardworking in teamwork."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (14.4.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ዛሬ ከሰዓት በኋላ ከአስተዳደር ክፍሉ ጋር አስቸኳይ ስብሰባ አለን።",
+                    "reading": "Zarē kese'at behwala ke'astedader kiflu gara ascheqway sibseba allen.",
+                    "translation": "This afternoon we have an urgent meeting with the administration department."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (14.4.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ስራ አስኪያጁ የሳምንቱን የስራ ዕቅድ በዝርዝር አቀረቡ።",
+                    "reading": "Sira askiyaju yesamintun yesira iqid bezirzir aqerebu.",
+                    "translation": "The manager presented the weekly work plan in detail."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የስራ መስክ እና ሙያ (Professions and Workplace)"
+                "«ባልደረባ» (Baldereba) = Comrade / Colleague. Partners striving for shared professional success!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Ethiopian workplace dynamics strongly prioritize mutual respect, solidarity (አብሮነት), and consensus. Addressing superiors with proper honorifics like «አቶ» (Mr.), «ወይዘሮ» (Mrs.), or «ዶክተር» followed by their given name is customary."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የስራ መስክ እና ሙያ (Professions and Workplace)» አጠቃቀም በደረጃ 4 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«የስራ ባልደረባ» ምን ማለት ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (14.4.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (14.4.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (14.4.3)።"
+                        "Work colleague / Co-worker",
+                        "Customer",
+                        "Landlord"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "የስራ ባልደረባ (Yesira baldereba) means 'work colleague'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ስራ፣ ሙያ እና የስራ ቦታ (Occupations & Workplace Dialogue)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 4)፡",
+                    "prompt": "«ስብሰባ» የሚለው ቃል ምን ያመለክታል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (14.4.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (14.4.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (14.4.3)።"
+                        "Vacation",
+                        "Meeting / Conference",
+                        "Lunch break"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "ስብሰባ (Sibseba) means 'meeting / conference'."
                 }
             ]
         },
@@ -7640,85 +7674,94 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የስራ መስክ እና ሙያ (Professions and Workplace)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 14-4)?",
+                    "prompt": "«ስራ አስኪያጅ» የሚለው የሙያ ኃላፊነት ምን ማለት ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (14.4.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (14.4.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (14.4.3)።"
+                        "Security guard",
+                        "Manager / Director",
+                        "Intern"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "ስራ አስኪያጅ (Sira askiyaj) = general manager / executive."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ስራ_14_4»):",
+                    "prompt": "Type the Amharic word for 'meeting' in Fidel script (ስብሰባ):",
                     "acceptedAnswers": [
-                        "ስራ_14_4"
+                        "ስብሰባ",
+                        "sibseba",
+                        "Sibseba"
                     ],
-                    "explanation": "The target keyword was: 【ስራ_14_4】"
+                    "explanation": "ስብሰባ (Sibseba) means 'meeting'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u14-l5": {
         "id": "am-u14-l5",
-        "subject": "amharic",
-        "unit": 14,
-        "lessonNumber": 5,
-        "title": "ስራ፣ ሙያ እና የስራ ቦታ (Occupations & Workplace Dialogue) (Part 5)",
+        "unit": "am-u14",
         "level": "B1",
-        "objective": "Comprehensive mastery of የስራ መስክ እና ሙያ (Professions and Workplace).",
+        "objective": "Synthesize career vocabulary, workplace etiquette, meeting protocol, and interview skills into a comprehensive professional dialogue in Amharic.",
+        "prerequisites": [
+            "am-u14-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u14-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የስራ መስክ እና ሙያ (Professions and Workplace) - ደረጃ 5) ተማሪዎች ስለ የስራ መስክ እና ሙያ (Professions and Workplace) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "This lesson consolidates professional recruitment, team collaboration, and office communication into a realistic workplace simulation in Amharic.\n\n1. The Professional Career Arc:\n- **Application:** Submitting CV and credentials (**ማመልከቻ እና ማስረጃ**).\n- **Interview:** Discussing career background during interview (**ቃለ-መጠይቅ**).\n- **Onboarding:** Meeting colleagues (**የስራ ባልደረቦች**) and understanding responsibilities.\n- **Execution:** Participating in project meetings (**ስብሰባ**) and presenting results.\n\n2. Key Integrative Terms:\n- **ትብብር** (Tibibir) — Cooperation / Teamwork\n- **ውጤታማነት** (Wut'ētamannet) — Productivity / Effectiveness\n- **ሙያዊ ስነ-ምግባር** (Muyawi sine-migbar) — Professional ethics",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየስራ መስክ እና ሙያ (Professions and Workplace) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (14.5.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "በቃለ-መጠይቁ ወቅት የእኔን የሙያ ክህሎት እና የስራ ልምድ በግልጽ አስረዳሁ።",
+                    "reading": "Beqale-met'eyiqu weqt ye'inēn yemuya kihilot ina yesira limid begilts' asredahu.",
+                    "translation": "During the interview, I clearly explained my professional skills and work experience."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (14.5.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "አዲሱን ፕሮጀክት በተሳካ ሁኔታ ለማጠናቀቅ ሁሉም ሰራተኞች በጋራ ተባብረዋል።",
+                    "reading": "Addīsun projekt betesaka hunēta lemat'enaqeq hullum serategnoch begara tebabrewal.",
+                    "translation": "All employees collaborated together to successfully complete the new project."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (14.5.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ስራ አስኪያጃችን ለሰራተኞቹ ጥረት እና ትጋት ምስጋና አቀረቡ።",
+                    "reading": "Sira askiyajachin leserategnochu t'iret ina tigat misgana aqerebu.",
+                    "translation": "Our manager expressed gratitude for the effort and diligence of the staff."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የስራ መስክ እና ሙያ (Professions and Workplace)"
+                "«ተባበረ» (Tebabere) = Collaborated / Cooperated. United effort yields great success!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Workplace milestone achievements in Ethiopia often culminate in an office coffee ceremony (የቡና ስነ-ስርዓት), celebrating collective success and reinforcing team bonds."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የስራ መስክ እና ሙያ (Professions and Workplace)» አጠቃቀም በደረጃ 5 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "በስራ ቦታ ስኬታማ ለመሆን የትኛው ባህሪ አስፈላጊ ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (14.5.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (14.5.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (14.5.3)።"
+                        "የትብብር መንፈስ እና ትጋት (Spirit of collaboration and diligence)",
+                        "ስራን አለመስራት",
+                        "ስብሰባ ማቋረጥ"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "Cooperation (የትብብር መንፈስ) and diligence (ትጋት) are key to professional success."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ስራ፣ ሙያ እና የስራ ቦታ (Occupations & Workplace Dialogue)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 5)፡",
+                    "prompt": "«በጋራ መስራት» ምን ማለት ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (14.5.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (14.5.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (14.5.3)።"
+                        "Working alone in isolation",
+                        "Working together collaboratively",
+                        "Quitting a job"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "በጋራ መስራት = working collaboratively in a team."
                 }
             ]
         },
@@ -7726,24 +7769,27 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የስራ መስክ እና ሙያ (Professions and Workplace)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 14-5)?",
+                    "prompt": "የስራ ባልደረቦች አብረው ሲሰሩ ምን ይባላል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (14.5.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (14.5.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (14.5.3)።"
+                        "የቡድን ስራ (Teamwork)",
+                        "ብቸኝነት (Solitude)",
+                        "እረፍት"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "የቡድን ስራ (Yebudin sira) = teamwork."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ስራ_14_5»):",
+                    "prompt": "Type the Amharic word for 'profession / vocation' in Fidel script (ሙያ):",
                     "acceptedAnswers": [
-                        "ስራ_14_5"
+                        "ሙያ",
+                        "muya",
+                        "Muya"
                     ],
-                    "explanation": "The target keyword was: 【ስራ_14_5】"
+                    "explanation": "ሙያ (Muya) means 'profession / craft / vocation'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u15-l1": {
