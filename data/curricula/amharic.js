@@ -10654,63 +10654,69 @@
     },
     "am-u21-l1": {
         "id": "am-u21-l1",
-        "subject": "amharic",
-        "unit": 21,
-        "lessonNumber": 1,
-        "title": "ሁኔታዊ እና ግምታዊ ዓረፍተ ነገሮች (Conditionals & Subjunctive) (Part 1)",
+        "unit": "am-u21",
         "level": "B2",
-        "objective": "Comprehensive mastery of ሁኔታዊ አገባቦች (Conditionals).",
+        "objective": "Form subjunctive verb stems across major verb classes in Amharic and combine them with epistemic and deontic modal auxiliaries including «ይችላል» (can/may), «አለበት» (must/has to), and «ይገባል» (should/ought to).",
+        "prerequisites": [
+            "am-u20-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u20-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ሁኔታዊ አገባቦች (Conditionals) - ደረጃ 1) ተማሪዎች ስለ ሁኔታዊ አገባቦች (Conditionals) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "The Amharic subjunctive stem (ተስፋይ ግስ) expresses possibility, necessity, and obligation when paired with modal auxiliary verbs.\n\n1. Subjunctive Stem Formations:\n- **ጻፈ** -> **ይጻፍ** (Subjunctive stem: -ts'af-)\n- **ሄደ** -> **ይሂድ** (Subjunctive stem: -hīd-)\n- **መጣ** -> **ይምጣ** (Subjunctive stem: -mt'a-)\n- **ሰራ** -> **ይስራ** (Subjunctive stem: -sira-)\n\n2. Key Modal Auxiliaries:\n- **መቻል** (Ability/Possibility — Can / May):\n  - «**ሊመጣ ይችላል።**» (He can / might come.)\n  - «**ልንሰራ እንችላለን።**» (We can work.)\n- **አለበት** (Obligation — Must / Has to):\n  - «**መሄድ አለበት።**» (He must go.)\n- **ይገባል** (Moral Duty / Advisability — Should / Ought to):\n  - «**ሊያጠና ይገባል።**» (He ought to study.)",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የሁኔታዊ አገባቦች (Conditionals) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (21.1.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ተማሪው ለከፍተኛው ፈተና ዝግጅት በየቀኑ ቢያንስ አምስት ሰዓት ሊያጠና ይገባል።",
+                    "reading": "Temarīw lekefitegnaw fetena zigijit beyeqenu bīyans ammist se'at līyat'ena yigebal.",
+                    "translation": "The student ought to study at least five hours every day in preparation for the advanced exam."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (21.1.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ይህንን ውስብስብ ችግር በጋራ በመመካከር በቀላሉ ልንፈታው እንችላለን።",
+                    "reading": "Yihinnin wisibsib chigir begara bememekaker beqelalu linifetaw initshilalen.",
+                    "translation": "We can easily solve this complex problem by consulting together collaboratively."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (21.1.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "እያንዳንዱ ዜጋ የሀገሩን ህግ እና ስርዓት ያለምንም ቅድመ ሁኔታ ሊያከብር ይገባዋል።",
+                    "reading": "Iyyandandu zēga yehagerun hig ina sir'at yaleminim qidme hunēta līyakebir yigebawal.",
+                    "translation": "Every citizen must respect the laws and regulations of their country without precondition."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ሁኔታዊ አገባቦች (Conditionals)"
+                "«ሊ-... ይችላል» = Can! «ሊ-... ይገባል» = Should! «...አለበት» = Must!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Polite social requests in Amharic employ modal constructions rather than bare imperatives to maintain deference: «ልትረዳኝ ትችላለህ?» (Could you please assist me?)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ሁኔታዊ አገባቦች (Conditionals)» አጠቃቀም በደረጃ 1 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«ልንሰራ እንችላለን» ምን ማለት ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (21.1.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (21.1.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (21.1.3)።"
+                        "We can work",
+                        "We cannot work",
+                        "We worked yesterday"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "ልንሰራ እንችላለን = we can work."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ሁኔታዊ እና ግምታዊ ዓረፍተ ነገሮች (Conditionals & Subjunctive)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 1)፡",
+                    "prompt": "«ሊያጠና ይገባል» የሚለው ሀረግ ምንን ያመለክታል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (21.1.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (21.1.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (21.1.3)።"
+                        "He is sleeping",
+                        "He ought / should study (Modal duty)",
+                        "He failed"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "ሊያጠና ይገባል expresses deontic obligation (should study)."
                 }
             ]
         },
@@ -10718,85 +10724,94 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ሁኔታዊ አገባቦች (Conditionals)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 21-1)?",
+                    "prompt": "የትኛው ዓረፍተ ነገር የመቻል/የመገደድ ረዳት ግስ (Modal Auxiliary) ይዟል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (21.1.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (21.1.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (21.1.3)።"
+                        "እሱ መጽሐፍ ሊያነብ ይችላል (He can read a book)",
+                        "ዳቦ በላ (He ate bread)",
+                        "ውሃ ጠጣች (She drank water)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "«ሊያነብ ይችላል» combines the subjunctive with the modal auxiliary «ይችላል»."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ቢመጣ_21_1»):",
+                    "prompt": "Type the Amharic modal verb for 'he can / is able to' in Fidel script (ይችላል):",
                     "acceptedAnswers": [
-                        "ቢመጣ_21_1"
+                        "ይችላል",
+                        "yichilal",
+                        "Yichilal"
                     ],
-                    "explanation": "The target keyword was: 【ቢመጣ_21_1】"
+                    "explanation": "ይችላል (Yichilal) means 'he can / is able to'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u21-l2": {
         "id": "am-u21-l2",
-        "subject": "amharic",
-        "unit": 21,
-        "lessonNumber": 2,
-        "title": "ሁኔታዊ እና ግምታዊ ዓረፍተ ነገሮች (Conditionals & Subjunctive) (Part 2)",
+        "unit": "am-u21",
         "level": "B2",
-        "objective": "Comprehensive mastery of ሁኔታዊ አገባቦች (Conditionals).",
+        "objective": "Express intentionality, purpose, and result in Amharic using the purposive conjunctive prefix «እንዲ-» (in order that / so that) attached to subjunctive stems, alongside the periphrastic frame «ለ-... ብሎ» (for the purpose of).",
+        "prerequisites": [
+            "am-u21-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u21-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ሁኔታዊ አገባቦች (Conditionals) - ደረጃ 2) ተማሪዎች ስለ ሁኔታዊ አገባቦች (Conditionals) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Purposive clauses describe the goal or intention behind an action.\n\n1. The Purposive Prefix **እንዲ-** (Indī- — In order that / So that):\n- **እንዲሄድ** (Indīhēd — So that he may go)\n- **እንዲያውቅ** (Indīyawaq — So that he learns / knows)\n- **እንዲያጠና** (Indīyat'ena — So that he may study)\n- **እንድንረዳው** (Indiniredaw — So that we may help him)\n\n2. Negative Purpose with **እንዳይ-** (Inday- — Lest / So that... not):\n- **እንዳይረሳ** (Indayiresa — Lest he forget)\n- **እንዳይዘገይ** (Indayizegey — In order not to be late)\n\n3. Periphrastic Purpose «**ለ-... ብሎ**»:\n- «**ለትምህርት ብሎ ወደ ከተማ መጣ።**» (He came to town for the purpose of schooling.)",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የሁኔታዊ አገባቦች (Conditionals) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (21.2.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "መምህሩ ትምህርቱን ሁሉም ተማሪዎች በውል እንዲረዱት በዝርዝር አብራራ።",
+                    "reading": "Memhiru timihirtun hullum temarīwoch bewil indīredut bezirzir abrarra.",
+                    "translation": "The teacher explained the lesson in detail so that all students would understand it well."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (21.2.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ማለዳ ከእንቅልፉ የተነሳው አውቶቡሱ እንዳያመልጠው እና እንዳይዘገይ ብሎ ነው።",
+                    "reading": "Maleda ke'inqilfu yetenesaw awtobusu indayamelt'ew ina indayizegey bilo new.",
+                    "translation": "He rose from sleep early in the morning so that he would not miss the bus and not be late."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (21.2.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "መንግስት አዳዲስ ትምህርት ቤቶችን የገነባው የትምህርት ጥራት እንዲሻሻል በማሰብ ነው።",
+                    "reading": "Mengist addadīs timihirt bētochin yegenebaw yetimihirt t'irat indīshashal bemasseb new.",
+                    "translation": "The government built new schools with the aim that educational quality should improve."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ሁኔታዊ አገባቦች (Conditionals)"
+                "«እንዲ-» = So that! «እንዳይ-» = So that NOT / Lest!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "In Ethiopian philanthropic discourse (በጎ አድራጎት), leaders traditionally frame community initiatives «ለወገን ብለው» (for the sake of the welfare of their fellow people)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ሁኔታዊ አገባቦች (Conditionals)» አጠቃቀም በደረጃ 2 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«እንዲረዳው» ምን ማለት ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (21.2.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (21.2.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (21.2.3)።"
+                        "So that he understands it",
+                        "Because he forgot it",
+                        "He never knew it"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "እንዲረዳው = so that he may understand it."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ሁኔታዊ እና ግምታዊ ዓረፍተ ነገሮች (Conditionals & Subjunctive)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 2)፡",
+                    "prompt": "«እንዳይዘገይ» የሚለው ቃል ምን ያመለክታል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (21.2.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (21.2.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (21.2.3)።"
+                        "In order to arrive early",
+                        "Lest he be late / In order not to be late",
+                        "He is sleeping"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "እንዳይዘገይ = in order not to be late."
                 }
             ]
         },
@@ -10804,85 +10819,94 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ሁኔታዊ አገባቦች (Conditionals)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 21-2)?",
+                    "prompt": "የትኛው ቅጥያ 'In order that / So that' የሚለውን የዓላማ መስተፃምር ያሳያል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (21.2.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (21.2.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (21.2.3)።"
+                        "እንደ- (Like)",
+                        "እንዲ- (Indī- / So that)",
+                        "ስለ- (Because of)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "«እንዲ-» is the purposive prefix attached to subjunctive stems."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ቢመጣ_21_2»):",
+                    "prompt": "Type the Amharic negative purposive prefix for 'lest / in order not to' in Fidel script (እንዳይ):",
                     "acceptedAnswers": [
-                        "ቢመጣ_21_2"
+                        "እንዳይ",
+                        "inday",
+                        "Inday"
                     ],
-                    "explanation": "The target keyword was: 【ቢመጣ_21_2】"
+                    "explanation": "እንዳይ (Inday) means 'lest / in order not to'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u21-l3": {
         "id": "am-u21-l3",
-        "subject": "amharic",
-        "unit": 21,
-        "lessonNumber": 3,
-        "title": "ሁኔታዊ እና ግምታዊ ዓረፍተ ነገሮች (Conditionals & Subjunctive) (Part 3)",
+        "unit": "am-u21",
         "level": "B2",
-        "objective": "Comprehensive mastery of ሁኔታዊ አገባቦች (Conditionals).",
+        "objective": "Express first-person cohortative requests (let me / let us) using «ል-... / እን-...» and third-person jussive/optative wishes (may it be / let him) using «ይ-...» in Amharic.",
+        "prerequisites": [
+            "am-u21-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u21-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ሁኔታዊ አገባቦች (Conditionals) - ደረጃ 3) ተማሪዎች ስለ ሁኔታዊ አገባቦች (Conditionals) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Optative, cohortative, and jussive forms express polite wishes, collective resolutions, and solemn blessings.\n\n1. First Person Cohortative Forms:\n- **ልሂድ** (Lihīd — Let me go / May I go)\n- **እንሂድ** (Inihīd — Let's go!)\n- **ልጠይቅህ** (Lit'eyiqih — Let me ask you)\n- **እንጀምር** (Inijemir — Let us start!)\n\n2. Third Person Jussive & Optative Wishes:\n- **ይሁን** (Yihun — Let it be / So be it / Amen)\n- **ይድረስ** (Yidres — May it reach / Attain)\n- **ይቅርታ ያድርጉልኝ** (Yiqirta yadrigulign — May you grant me forgiveness / Excuse me)\n\n3. Prohibitive & Negative Jussive:\n- **አይሁን** (Ayihun — Let it not be / May it never happen)",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የሁኔታዊ አገባቦች (Conditionals) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (21.3.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ውድ እንግዶች ሆይ፣ አሁን ወደ ዋናው የመርሃ ግብራችን ውይይት በይፋ እንለፍ።",
+                    "reading": "Widd ingidoch hoy, ahun wede wanaw yemergīha gibirachin wiyiyit beyifa inilef.",
+                    "translation": "Dear guests, let us now officially proceed to the main discussion of our program."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (21.3.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የጀመርከው መልካም ስራ ሁሉ ለተፈለገው ግብ እና ስኬት ይድረስ።",
+                    "reading": "Yejemerkew melkam sira hullu letefelegew gib ina sikēt yidres.",
+                    "translation": "May all the good work you have started reach the desired goal and success."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (21.3.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "እባክዎን አንድ ጠቃሚ ጥያቄ ልጠይቅዎት ፈቃድዎ ይሁን?",
+                    "reading": "Ibakwon and t'eqamī t'iyaqē lit'eyiqwot feqadwo yihun?",
+                    "translation": "Please, would it be your permission that I may ask you one important question?"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ሁኔታዊ አገባቦች (Conditionals)"
+                "«እንሂድ!» = Let's go! «ይሁን!» = Let it be / Amen!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "«ይሁን» (Yihun — Let it be / Amen) is the standard communal response when elders pronounce formal blessings (ምርቃት) during social celebrations and dispute settlements."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ሁኔታዊ አገባቦች (Conditionals)» አጠቃቀም በደረጃ 3 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«እንሂድ!» ምን አይነት አነጋገር ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (21.3.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (21.3.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (21.3.3)።"
+                        "Let's go! (Cohortative)",
+                        "You stay here",
+                        "We arrived yesterday"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "እንሂድ = let us go."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ሁኔታዊ እና ግምታዊ ዓረፍተ ነገሮች (Conditionals & Subjunctive)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 3)፡",
+                    "prompt": "«ይሁን» በምርቃት ጊዜ ምን ማለት ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (21.3.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (21.3.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (21.3.3)።"
+                        "Never",
+                        "Let it be / May it be so (Blessing response)",
+                        "Impossible"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "ይሁን (Yihun) expresses solemn assent and blessing (amen / let it be)."
                 }
             ]
         },
@@ -10890,85 +10914,94 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ሁኔታዊ አገባቦች (Conditionals)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 21-3)?",
+                    "prompt": "የትኛው ቃል 'Let's begin / Let us start' የሚለውን ያመለክታል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (21.3.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (21.3.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (21.3.3)።"
+                        "ጨረስን (We finished)",
+                        "አቆምን (We stopped)",
+                        "እንጀምር (Inijemir / Let us start)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "እንጀምር (Inijemir) is the 1st person plural cohortative meaning 'let us begin'."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ቢመጣ_21_3»):",
+                    "prompt": "Type the Amharic optative word for 'let it be / so be it' in Fidel script (ይሁን):",
                     "acceptedAnswers": [
-                        "ቢመጣ_21_3"
+                        "ይሁን",
+                        "yihun",
+                        "Yihun"
                     ],
-                    "explanation": "The target keyword was: 【ቢመጣ_21_3】"
+                    "explanation": "ይሁን (Yihun) means 'let it be / so be it'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u21-l4": {
         "id": "am-u21-l4",
-        "subject": "amharic",
-        "unit": 21,
-        "lessonNumber": 4,
-        "title": "ሁኔታዊ እና ግምታዊ ዓረፍተ ነገሮች (Conditionals & Subjunctive) (Part 4)",
+        "unit": "am-u21",
         "level": "B2",
-        "objective": "Comprehensive mastery of ሁኔታዊ አገባቦች (Conditionals).",
+        "objective": "Formulate counterfactual, hypothetical past, and irrealis conditional sentences in Amharic using the construction «ቢ- [Verb] ኖሮ... [Verb] ነበር» (had [X] occurred, [Y] would have happened).",
+        "prerequisites": [
+            "am-u21-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u21-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ሁኔታዊ አገባቦች (Conditionals) - ደረጃ 4) ተማሪዎች ስለ ሁኔታዊ አገባቦች (Conditionals) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Counterfactual conditionals describe hypothetical past circumstances that did not occur.\n\n1. Counterfactual Syntactic Formula:\n- Protasis: **ቢ-** + Subjunctive Stem + **ኖሮ** (Noro)\n- Apodosis: Imperfective / Past Verb + **ነበር** (Neber)\n- Examples:\n  - «**ቢመጣ ኖሮ እናየው ነበር።**» (Had he come, we would have seen him.)\n  - «**ባውቅ ኖሮ አስቀድሜ እነግርህ ነበር።**» (Had I known, I would have told you in advance.)\n  - «**ዝናብ ባይዘንብ ኖሮ ጉዟችንን እንቀጥል ነበር።**» (Had it not rained, we would have continued our trip.)",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የሁኔታዊ አገባቦች (Conditionals) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (21.4.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "የአየር ሁኔታው አስቀድሞ ጥሩ ቢሆን ኖሮ አውሮፕላኑ በሰዓቱ ይበር ነበር።",
+                    "reading": "Ye'ayer hunētaw asqedimo t'iru bīhon noro awiroplanu bese'atu yiber neber.",
+                    "translation": "Had the weather been good beforehand, the airplane would have flown on schedule."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (21.4.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ይህንን ታላቅ ዕድል ባውቅ ኖሮ በወቅቱ ተገቢውን ማመልከቻ አስገባ ነበር።",
+                    "reading": "Yihinnin talaq idil bawq noro beweqtu tegebīwun mamelkecha asgeba neber.",
+                    "translation": "Had I known of this great opportunity, I would have submitted the appropriate application at the time."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (21.4.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "በቂ የገንዘብ በጀት ባይጎድል ኖሮ የህንጻው ግንባታ ባለፈው ዓመት ይጠናቀቅ ነበር።",
+                    "reading": "Beqī yegenzeb bejet bayigodil noro yehints'aw ginbata balefew amet yit'enaqeq neber.",
+                    "translation": "Had adequate financial budget not been lacking, the building's construction would have finished last year."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ሁኔታዊ አገባቦች (Conditionals)"
+                "«ቢ-... ኖሮ... ነበር» = Had it happened... it would have been! Pure counterfactual magic!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "In Ethiopian historical literature and reflective essays, «ቢሆን ኖሮ» (had it been so) is used to contemplate historical turning points and alternate timelines."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ሁኔታዊ አገባቦች (Conditionals)» አጠቃቀም በደረጃ 4 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«ባውቅ ኖሮ እነግርህ ነበር» ምን ማለት ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (21.4.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (21.4.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (21.4.3)።"
+                        "Had I known, I would have told you",
+                        "I knew and told you",
+                        "I do not want to know"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "ባውቅ ኖሮ እነግርህ ነበር expresses a past counterfactual condition."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ሁኔታዊ እና ግምታዊ ዓረፍተ ነገሮች (Conditionals & Subjunctive)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 4)፡",
+                    "prompt": "በ«ቢመጣ ኖሮ» ውስጥ «ኖሮ» ምንን ያመለክታል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (21.4.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (21.4.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (21.4.3)።"
+                        "Present continuous",
+                        "Counterfactual / Hypothetical past particle",
+                        "Future intention"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "ኖሮ marks the counterfactual/irrealis condition."
                 }
             ]
         },
@@ -10976,85 +11009,94 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ሁኔታዊ አገባቦች (Conditionals)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 21-4)?",
+                    "prompt": "የትኛው ዓረፍተ ነገር ያለፈ ሀሰተኛ ሁኔታዊን (Counterfactual Conditional) ያሳያል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (21.4.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (21.4.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (21.4.3)።"
+                        "ቢጠና ኖሮ ፈተናውን ያልፍ ነበር (Had he studied, he would have passed)",
+                        "አሁን ያጠናል (He is studying now)",
+                        "ነገ ይፈተናል (He will be tested tomorrow)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "«ቢጠና ኖሮ ፈተናውን ያልፍ ነበር» displays the complete counterfactual pattern."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ቢመጣ_21_4»):",
+                    "prompt": "Type the Amharic counterfactual particle in Fidel script (ኖሮ):",
                     "acceptedAnswers": [
-                        "ቢመጣ_21_4"
+                        "ኖሮ",
+                        "noro",
+                        "Noro"
                     ],
-                    "explanation": "The target keyword was: 【ቢመጣ_21_4】"
+                    "explanation": "ኖሮ (Noro) is the unfulfilled condition marker."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u21-l5": {
         "id": "am-u21-l5",
-        "subject": "amharic",
-        "unit": 21,
-        "lessonNumber": 5,
-        "title": "ሁኔታዊ እና ግምታዊ ዓረፍተ ነገሮች (Conditionals & Subjunctive) (Part 5)",
+        "unit": "am-u21",
         "level": "B2",
-        "objective": "Comprehensive mastery of ሁኔታዊ አገባቦች (Conditionals).",
+        "objective": "Synthesize modal subjunctives, purposive clauses, optative blessings, and counterfactual conditional reasoning into a national strategic policy forecasting symposium in Amharic.",
+        "prerequisites": [
+            "am-u21-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u21-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ሁኔታዊ አገባቦች (Conditionals) - ደረጃ 5) ተማሪዎች ስለ ሁኔታዊ አገባቦች (Conditionals) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "This lesson synthesizes modals, purposive subordinations, optative expressions, and counterfactual evaluations into strategic development policy discourse.\n\n1. Integrated Discourse Strands:\n- **Modal Obligation:** «...ዘመናዊ ቴክኖሎጂዎችን ልንጠቀም ይገባል» (We ought to utilize modern tech...)\n- **Purposive Design:** «...ሀብት ለህዝቡ... ጥቅም እንዲውል...» (So that wealth serves the public...)\n- **Potential Capability:** «...የላቀ ስኬት ልናስመዘግብ እንችላለን» (We can achieve superior success...)\n- **Optative Blessing:** «...ለህዝባችን ዘላቂ ሰላም እና ብልጽግና ይድረሱ» (May they attain enduring peace...)",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የሁኔታዊ አገባቦች (Conditionals) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (21.5.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "የሀገራችን የተፈጥሮ ሀብት ለህዝቡ ሁለንተናዊ ጥቅም እንዲውል ዘመናዊ ቴክኖሎጂዎችን ልንጠቀም ይገባል።",
+                    "reading": "Yehagerachin yetefet'ro habt lehizbu hullentenawi t'iqim indīwil zemenawī tēknolojīwochin linit'eqem yigebal.",
+                    "translation": "We ought to utilize modern technologies so that our nation's natural resources may be put to comprehensive use for the people."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (21.5.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ባለፉት ዓመታት የተሰሩ ስህተቶችን በጥልቀት በመገምገም ለወደፊቱ የላቀ ስኬት ልናስመዘግብ እንችላለን።",
+                    "reading": "Balefut ametat yeteseru sihitetochin bet'iliqet bemegemgem lewedefītu yelaqe sikēt linasmezegib initshilalen.",
+                    "translation": "By thoroughly assessing the mistakes made in past years, we can register superior success for the future."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (21.5.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የጀመርናቸው ታላላቅ የልማት ፕሮጀክቶች ሁሉ ለህዝባችን ዘላቂ ሰላም እና ብልጽግና ይድረሱ።",
+                    "reading": "Yejemernachew talalaq yelimat projektoc hullu lehizbachin zelaqī selam ina bilts'igina yidresu.",
+                    "translation": "May all the grand development projects we have commenced attain enduring peace and prosperity for our people."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ሁኔታዊ አገባቦች (Conditionals)"
+                "Subjunctive mastery: Modals (ሊ- ይገባል) + Purpose (እንዲ-) + Wishes (ይሁን/ይድረስ) + Retrospection (ቢ- ኖሮ)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "National strategic conferences in Ethiopia customarily conclude with elders pronouncing optative blessings over resolutions for communal harmony."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ሁኔታዊ አገባቦች (Conditionals)» አጠቃቀም በደረጃ 5 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "በስትራቴጂክ እቅድ ውስጥ «እንዲሻሻል» ለምን ይጠቅማል?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (21.5.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (21.5.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (21.5.3)።"
+                        "To state an intended goal/purpose (So that it improves)",
+                        "To cancel the plan",
+                        "To ask for the price"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "እንዲሻሻል states the intended purpose/objective."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ሁኔታዊ እና ግምታዊ ዓረፍተ ነገሮች (Conditionals & Subjunctive)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 5)፡",
+                    "prompt": "«ልናስመዘግብ እንችላለን» ምንን ያሳያል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (21.5.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (21.5.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (21.5.3)።"
+                        "Our inability to act",
+                        "Our potential capability (We can achieve/register)",
+                        "A past regret"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "ልናስመዘግብ እንችላለን expresses capability (we can achieve)."
                 }
             ]
         },
@@ -11062,24 +11104,27 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ሁኔታዊ አገባቦች (Conditionals)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 21-5)?",
+                    "prompt": "የወደፊት ግብን እና ምኞትን የሚያሳይ የትኛው ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (21.5.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (21.5.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (21.5.3)።"
+                        "የጀመርነው ስራ ለስኬት ይድረስ (May the work we started attain success)",
+                        "ትናንት ተኛሁ (I slept yesterday)",
+                        "ገበያ ሄደ (He went to market)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "«ለስኬት ይድረስ» expresses the optative wish 'may it reach success'."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ቢመጣ_21_5»):",
+                    "prompt": "Type the Amharic optative verb for 'may it reach / attain' in Fidel script (ይድረስ):",
                     "acceptedAnswers": [
-                        "ቢመጣ_21_5"
+                        "ይድረስ",
+                        "yidres",
+                        "Yidres"
                     ],
-                    "explanation": "The target keyword was: 【ቢመጣ_21_5】"
+                    "explanation": "ይድረስ (Yidres) means 'may it reach / attain'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u22-l1": {
