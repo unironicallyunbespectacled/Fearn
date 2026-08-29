@@ -13658,63 +13658,69 @@
     },
     "zh-u28-l1": {
         "id": "zh-u28-l1",
-        "subject": "mandarin",
-        "unit": 28,
-        "lessonNumber": 1,
-        "title": "行政法务与知识产权监管 (Administrative & IP Law) (Part 1)",
+        "unit": "zh-u28",
         "level": "C1",
-        "objective": "Comprehensive mastery of 行政法务与知识产权 (Administrative & IP Law).",
+        "objective": "Master the discourse of administrative law, governance compliance, and citizen rights (依法行政 Law-based administration, 行政许可 administrative licensing, 行政复议 administrative reconsideration, 行政诉讼 administrative litigation, 权责清单 list of powers and responsibilities, 信息公开 transparency).",
+        "prerequisites": [
+            "zh-u27-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u27-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「行政法务与知识产权监管 (Administrative & IP Law)」（第1部分）的核心句法结构与行政法务与知识产权 (Administrative & IP Law)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "法治政府建设强调**「依法行政（Law-Based Administration）」与「把权力关进制度的笼子里」**！\n\n1. 行政法务核心概念 (Administrative Law Concepts):\n- **依法行政 (yīfǎ xíngzhèng)**：行政机关必须依据宪法和法律法规行使行政权力。\n- **行政许可 (Administrative Licensing / Approvals)**：行政机关根据公民或企业申请，经依法审查准予其从事特定活动的法定行为（如排污许可证、执业资格审批）。\n- **权责清单 (List of Powers & Responsibilities)**：法无授权不可为，法定职责必须为。\n\n2. 行政救济与监督机制 (Administrative Remedies & Relief):\n- **行政复议 (xíngzhèng fùyì, Administrative Reconsideration)**：对下级行政机关的具体行政行为不服，向上级行政机关申请审查撤销或变更。\n- **行政诉讼 (xíngzhèng sùsòng, Administrative Litigation / '民告官')**：公民或法人依法向人民法院起诉行政机关违法的法定诉讼救济。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (28.1.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "司法部法治督察组组长在全国依法行政工作会议上强调：‘各级政府必须全面落实行政执法责任制，严格按照法定权限和程序行使职权，坚决杜绝超越权限与滥用职权！’",
+                    "reading": "Sīfǎbù Fǎzhì Dūcházǔ zǔzhǎng zài quánguó yīfǎ xíngzhèng gōngzuò huìyì shang qiángdiào: ‘Gèjí zhèngfǔ bìxū quánmiàn luòshí xíngzhèng zhífǎ zérènzhì, yángé ànzhào fǎdìng quánxiàn yǔ chéngxù xíngshǐ zhíquán, jiānjué dùjué chāoyuè quánxiàn yǔ lànyòng zhíquán!’",
+                    "translation": "The judicial inspection chief emphasized: 'All government levels must implement law-enforcement accountability, strictly exercising authority within statutory powers and procedures!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (28.1.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "企业法务总监向管理层汇报行政救济进展：‘针对区市场监管局此前做出的不当行政处罚决定，我们已依法向市司法局提交了《行政复议申请书》，要求撤销原处罚决定。’",
+                    "reading": "Qǐyè fǎwù zǒngjiān xiàng guǎnlǐcéng huìbào xíngzhèng jiùjì jìnzhǎn: ‘Zhēnduì qū shìchǎng jiānguǎnjú cǐqián zuòchū de búdàng xíngzhèng chǔfá juédìng, wǒmen yǐ yīfǎ xiàng shì sīfǎjú tíjiāo le «Xíngzhèng Fùyì Shēnqǐngshū», yāoqiú chèxiāo yuán chǔfá juédìng.’",
+                    "translation": "The GC reported: 'Against the district market regulator's improper penalty, we filed an Application for Administrative Reconsideration with the Municipal Justice Bureau to revoke the penalty.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (28.1.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "大卫在法学研讨班上分析行政法治案例：‘中国设立跨行政区划法院审理行政诉讼案件，切实保障了“民告官”案件中老百姓的合法权益与司法的公正独立。’",
+                    "reading": "Dàwèi zài fǎxué yántǎobān shang fēnxī xíngzhèng fǎzhì ànlì: ‘Zhōngguó shèlì kuà xíngzhèng qūhuà fǎyuàn shěnlǐ xíngzhèng sùsòng ànjiàn, qièshí bǎozhàng le “mín gào guān” ànjiàn zhōng lǎobǎixìng de héfǎ quányì yǔ sīfǎ de gōngzhèng dúlì.’",
+                    "translation": "David analyzed: 'Cross-administrative-district courts for administrative litigation protect citizens' lawful rights in lawsuits against officials.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 行政法务与知识产权 (Administrative & IP Law)"
+                "Admin Law Triad: 依法行政 (Rule of Law), 行政许可 (Licensing), 行政复议 (Reconsideration), 行政诉讼 (Litigation 民告官)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "The popular idiom «民告官» (citizens suing officials) colloquially describes Administrative Litigation (行政诉讼), governed by the Administrative Procedure Law of the PRC (中华人民共和国行政诉讼法)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「行政法务与知识产权 (Administrative & IP Law)」在第1小节中的标准汉语语法规范？",
+                    "prompt": "公民、法人或其他组织认为行政机关的具体行政行为侵犯其合法权益，依法向上一级行政机关提出审查请求的法定救济途径是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (28.1.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (28.1.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (28.1.3)。"
+                        "私下报复",
+                        "行政复议 (Administrative Reconsideration)",
+                        "网络互撕"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "行政复议 (Administrative Reconsideration) is the statutory remedy requesting a higher administrative organ to review an executive decision."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「行政法务与知识产权监管 (Administrative & IP Law)」语用情境与完整句式的选项（练习 1）：",
+                    "prompt": "现代法治政府建设中，要求行政权力必须在法律授权范围内行使、‘法无授权不可为’的基本法治原则是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (28.1.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (28.1.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (28.1.3)。"
+                        "依法行政 (Law-based administration / Principle of legality in governance)",
+                        "随意裁量",
+                        "特权先导"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "依法行政 (yīfǎ xíngzhèng) is the core constitutional principle of law-based governance."
                 }
             ]
         },
@@ -13722,85 +13728,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「行政法务与知识产权 (Administrative & IP Law)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 28-1）？",
+                    "prompt": "关于中国行政法治体系与行政相对人的法定权利，下列哪一项表述完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (28.1.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (28.1.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (28.1.3)。"
+                        "行政相对人对具体行政行为不服时，依法享有申请行政复议和提起行政诉讼的法定救济权利 (Citizens have statutory rights to apply for administrative reconsideration and file lawsuits)",
+                        "行政机关作出处罚无需任何法律依据",
+                        "法院一律不受理针对政府机关的起诉"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "Accurately affirms the constitutional and statutory rights to administrative reconsideration and judicial review."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («知识产权_28_1»):",
+                    "prompt": "Type the 4-character Hanzi term for 'law-based administration / governance by law' (依法行政):",
                     "acceptedAnswers": [
-                        "知识产权_28_1"
+                        "依法行政",
+                        "yifaxingzheng",
+                        "yīfǎxíngzhèng",
+                        "Yīfǎxíngzhèng",
+                        "Yifaxingzheng"
                     ],
-                    "explanation": "The target keyword was: 【知识产权_28_1】"
+                    "explanation": "依法行政 (yīfǎ xíngzhèng) means 'law-based administration'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u28-l2": {
         "id": "zh-u28-l2",
-        "subject": "mandarin",
-        "unit": 28,
-        "lessonNumber": 2,
-        "title": "行政法务与知识产权监管 (Administrative & IP Law) (Part 2)",
+        "unit": "zh-u28",
         "level": "C1",
-        "objective": "Comprehensive mastery of 行政法务与知识产权 (Administrative & IP Law).",
+        "objective": "Master the terminology of intellectual property law and enforcement (发明专利 invention patent, 实用新型 utility model, 外观设计 industrial design, 注册商标 registered trademark, 商业秘密 trade secret, 侵权损害赔偿 infringement damages, 惩罚性赔偿 punitive damages).",
+        "prerequisites": [
+            "zh-u28-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u28-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「行政法务与知识产权监管 (Administrative & IP Law)」（第2部分）的核心句法结构与行政法务与知识产权 (Administrative & IP Law)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "中国已成为全球专利申请量第一大国，建立了包括**专门知识产权法院、惩罚性赔偿制度与高压侵权打击机制**在内的严密知产保护网！\n\n1. 专利的三种法定类型 (Three Statutory Patent Classes):\n- **发明专利 (Invention Patent)**：对产品、方法或其改进提出的具有显著实质性特点的新技术方案（保护期20年）。\n- **实用新型专利 (Utility Model Patent)**：对产品的形状、构造提出的适于实用的新技术方案（保护期10年）。\n- **外观设计专利 (Industrial Design Patent)**：对产品整体或局部的形状、图案或色彩提出的富有美感的新设计（保护期15年）。\n\n2. 知产维权与司法重拳 (IP Enforcement & Judicial Remedies):\n- **惩罚性赔偿 (chéngfáxìng péicháng, Punitive Damages)**：对故意严重侵权行为依法适用最高五倍的惩罚性赔偿，大幅提高侵权违法成本！\n- **商业秘密保密协议 (NDA) 与竞业限制 (Non-Compete)**。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (28.2.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "知识产权法院法官在宣判跨国芯片专利侵权案时宣读判决书：‘被告明知原告享有核心芯片架构发明专利仍恶意抄袭制造，本院依法适用三倍惩罚性赔偿，判令被告赔偿原告经济损失及维权合理开支共计八千万元人民币！’",
+                    "reading": "Zhīshi Chǎnquán Fǎyuàn fǎguān zài xuānpàn kuàguó xīnpiàn zhuānlì qīnquán'àn shí xuāndú pànjuéshū: ‘Bèigào míngzhī yuángào xiǎngyǒu héxīn xīnpiàn jiàgòu fāmíng zhuānlì réng èyì chāoxí zhìzào, běnyuàn yīfǎ shìyòng sān bèi chéngfáxìng péicháng, pànlìng bèigào péicháng yuángào jīngjì sǔnshī jí wéiquán hélǐ kāizhī gòngjì bāqiān wàn yuán Rénmínbì!’",
+                    "translation": "The IP judge declared: 'Defendant maliciously copied plaintiff's chip invention patent; the court applies triple punitive damages, awarding 80 million RMB!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (28.2.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "跨国科技巨头首席知识产权官在财报会议上表示：‘我们在中国国家知识产权局累计获批超过五千件高价值发明专利，完善的司法保护环境为我们在华持续追加研发投入提供了坚定信心！’",
+                    "reading": "Kuàguó kējì jùtóu shǒuxí zhīshi chǎnquánguān zài cáibào huìyì shang biǎoshì: ‘Wǒmen zài Zhōngguó Guójiā Zhīshi Chǎnquánjú lěijì huòpī chāoguò wǔ qiān jiàn gāo jiàzhí fāmíng zhuānlì, wánshàn de sīfǎ bǎohù huánjìng wèi wǒmen zài Huá chíxù zhuījiā yánfā tóurù tígōng le jiāndìng xìnxīn!’",
+                    "translation": "The Chief IP Officer stated: 'We have over 5,000 invention patents granted by CNIPA; the robust IP environment boosts our confidence in continuous R&D.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (28.2.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "大卫在企业法务培训中讲解商业秘密合规：‘高管与研发骨干离职时必须严格遵守商业秘密保密条款与竞业限制协议，任何非法带走核心源代码的行为都将构成侵犯商业秘密罪。’",
+                    "reading": "Dàwèi zài qǐyè fǎwù péixùn zhōng jiǎngjiě shāngyè mìmì hégūi: ‘Gāoguǎn yǔ yánfā gǔgàn lízhí shí bìxū yángé zūnshǒu shāngyè mìmì bǎomì tiáokuǎn yǔ jìngyè xiànzhì xiéyì, rènhé fēifǎ dàizǒu héxīn yuándàimǎ de xíngwéi dōu jiāng gòuchéng qīnfàn shāngyè mìmì zuì.’",
+                    "translation": "David trained: 'Departing executives must strictly honor NDAs and non-compete agreements; unlawful source code extraction constitutes trade secret infringement.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 行政法务与知识产权 (Administrative & IP Law)"
+                "IP Armor: 发明专利 (20-Year Invention), 实用新型 (Utility), 外观设计 (Design), 惩罚性赔偿 (5x Punitive Damages)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "China established specialized Intellectual Property Courts (知识产权法院) in Beijing, Shanghai, and Guangzhou, along with IP tribunals in the Supreme People's Court to unify adjudication standards."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「行政法务与知识产权 (Administrative & IP Law)」在第2小节中的标准汉语语法规范？",
+                    "prompt": "对产品、方法或其改进所提出的具有新颖性、创造性和实用性的高价值新技术方案，依法申请的专利类型是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (28.2.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (28.2.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (28.2.3)。"
+                        "外观设计",
+                        "发明专利 (Invention Patent)",
+                        "民间传说"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "发明专利 (Invention Patent) protects new technical solutions for products or processes."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「行政法务与知识产权监管 (Administrative & IP Law)」语用情境与完整句式的选项（练习 2）：",
+                    "prompt": "在知识产权民事侵权诉讼中，对恶意侵犯专利权或商标权且情节严重的行为，法院在实际损失或违法所得之外额外判处最高可达数倍的赔偿制度被称为：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (28.2.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (28.2.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (28.2.3)。"
+                        "惩罚性赔偿 (Punitive damages / Treble or up to 5x damages)",
+                        "象征性安慰",
+                        "口头警告"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "惩罚性赔偿 (Punitive Damages) severely penalizes intentional, severe IP infringements."
                 }
             ]
         },
@@ -13808,85 +13825,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「行政法务与知识产权 (Administrative & IP Law)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 28-2）？",
+                    "prompt": "关于中国专利分类体系与知识产权司法保护力度，下列哪一项表述完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (28.2.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (28.2.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (28.2.3)。"
+                        "中国法律不允许对专利侵权索赔",
+                        "专利分为发明、实用新型和外观设计三类，司法实践对恶意侵权适用最高五倍惩罚性赔偿，全面强化知产保护 (Three patent types, up to 5x punitive damages for malicious infringement)",
+                        "专利保护期均为永久无限期"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "Accurately describes the three statutory patent classes and the modern punitive damages enforcement regime."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («知识产权_28_2»):",
+                    "prompt": "Type the 4-character Hanzi term for 'punitive damages' in civil IP litigation (惩罚性赔偿):",
                     "acceptedAnswers": [
-                        "知识产权_28_2"
+                        "惩罚性赔偿",
+                        "chengfaxingpeichang",
+                        "chéngfáxìngpéicháng",
+                        "Chéngfáxìngpéicháng",
+                        "Chengfaxingpeichang",
+                        "懲罰性賠償"
                     ],
-                    "explanation": "The target keyword was: 【知识产权_28_2】"
+                    "explanation": "惩罚性赔偿 (chéngfáxìng péicháng) means 'punitive damages'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u28-l3": {
         "id": "zh-u28-l3",
-        "subject": "mandarin",
-        "unit": 28,
-        "lessonNumber": 3,
-        "title": "行政法务与知识产权监管 (Administrative & IP Law) (Part 3)",
+        "unit": "zh-u28",
         "level": "C1",
-        "objective": "Comprehensive mastery of 行政法务与知识产权 (Administrative & IP Law).",
+        "objective": "Master antitrust, fair competition, data security, and platform economy regulation discourse (反垄断法 Anti-Monopoly Law, 经营者集中 merger review/concentration of undertakings, 滥用市场支配地位 abuse of dominant market position, 个人信息保护法 PIPL, 数据出境安全评估 cross-border data security assessment).",
+        "prerequisites": [
+            "zh-u28-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u28-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「行政法务与知识产权监管 (Administrative & IP Law)」（第3部分）的核心句法结构与行政法务与知识产权 (Administrative & IP Law)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "维护公平竞争市场秩序与保障国家数字安全，**《反垄断法》《反不正当竞争法》与《个人信息保护法》（PIPL）**构成了现代数字经济法治的三大基石！\n\n1. 反垄断与平台经济监管 (Antitrust & Fair Competition):\n- **滥用市场支配地位 (Abuse of Dominant Market Position)**：禁止平台企业实施「二选一」、大数据杀熟、搭售等排除限制竞争行为。\n- **经营者集中申报 (Merger Review / Concentration of Undertakings)**：达到法定申报标准的并购交易必须报国家反垄断局审查批准。\n\n2. 数据安全与隐私合规 (Data Security & Privacy - PIPL/DSL):\n- **《个人信息保护法》（PIPL）**：确立「知情同意」与「最小必要」原则。\n- **数据出境安全评估 (Cross-Border Data Security Assessment)**：关键信息基础设施运营者向境外传输重要数据必须通过国家网信办官方安全评估。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (28.3.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "国家反垄断局新闻发言人通报执法结果：‘经查，该电商平台滥用市场支配地位强迫商家“二选一”，严重损害了中小商户利益与消费者合法权益，依法处以其上一年度销售额百分之四的行政罚款！’",
+                    "reading": "Guójiā Fǎnlǒngduànjú xīnwén fāyánrén tōngbào zhífǎ jiéguǒ: ‘Jīng chá, gāi diànshāng píngtái lànyòng shìchǎng zhìpèi dìwèi qiǎngpò shāngjiā “èr xuǎn yī”, yánzhòng sǔnhài le zhōng-xiǎo shānghù lìyì yǔ xiāofèizhě héfǎ quányì, yīfǎ chǔyǐ qí shàng yí niándù xiāoshòué bǎifēnzhī sì de xíngzhèng fákuǎn!’",
+                    "translation": "The antitrust spokesperson announced: 'The e-commerce platform abused dominant market position forcing \"choose one of two\"; we fined it 4% of prior year sales!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (28.3.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "数据合规官向董事会汇报跨国数据流动方案：‘针对我们车联网平台的跨境研发协作需求，我们已顺利通过了国家网信办组织的“数据出境安全评估”，确保用户核心数据完全脱敏与合规！’",
+                    "reading": "Shùjù hégūiguān xiàng dǒngshìhuì huìbào kuàguó shùjù liúdòng fāng'àn: ‘Zhēnduì wǒmen chēliánwǎng píngtái de kuàjìng yánfā xiézuò xūqiú, wǒmen yǐ shùnlì tōngguò le Guójiā Wǎngxìnbàn zǔzhī de “shùjù chūjìng ānquán pínggū”, quèbǎo yònghù héxīn shùjù wánquán tuōmǐn yǔ hégūi!’",
+                    "translation": "The DPO reported: 'For our connected vehicle R&D, we passed CAC's Cross-Border Data Security Assessment with full anonymization!'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (28.3.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "大卫在企业法务研讨会上分享：‘《个人信息保护法》对敏感个人信息的处理设置了极其严格的单独同意与个人信息保护影响评估（PIA）前置程序，企业合规已从“形式合规”全面走向“实质合规”。’",
+                    "reading": "Dàwèi zài qǐyè fǎwù yántǎohuì shang fēnxiǎng: ‘«Gèrén Xìnxī Bǎohù Fǎ» duì mǐngǎn gèrén xìnxī de chǔlǐ shèzhì le jíqí yángé de dāndú tóngyì yǔ gèrén xìnxī bǎohù yǐngxiǎng pínggū (PIA) qiánzhì chéngxù, qǐyè hégūi yǐ cóng “xíngshì hégūi” quánmiàn zǒuxiàng “shízhì hégūi”.’",
+                    "translation": "David shared: 'PIPL sets strict separate consent and PIA requirements for sensitive data, moving compliance from formality to substance.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 行政法务与知识产权 (Administrative & IP Law)"
+                "Digital Fair Play: 反垄断 (No Forced Exclusivity), 经营者集中 (Merger Review), 个人信息保护 (PIPL Privacy), 数据出境评估 (Security Clearance)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "China's PIPL (个人信息保护法) enacted in 2021 is widely recognized as one of the world's most stringent data privacy legislations alongside the EU's GDPR."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「行政法务与知识产权 (Administrative & IP Law)」在第3小节中的标准汉语语法规范？",
+                    "prompt": "在平台经济反垄断监管中，大型平台强迫入驻商家只能在自身平台独家经营、不得在其他竞争平台开店的违法垄断行为通常被称为：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (28.3.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (28.3.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (28.3.3)。"
+                        "百花齐放",
+                        "二选一 (Forced exclusivity / 'Choose one of two')",
+                        "自由出入"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "二选一 (forcing merchant exclusivity) is explicitly prohibited under Chinese antitrust laws."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「行政法务与知识产权监管 (Administrative & IP Law)」语用情境与完整句式的选项（练习 3）：",
+                    "prompt": "依据中国《个人信息保护法》，处理生物识别、宗教信仰、特定身份、医疗健康、金融账户等敏感个人信息时必须依法取得的特别同意形式是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (28.3.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (28.3.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (28.3.3)。"
+                        "单独同意 (Separate, explicit consent)",
+                        "默认概括同意",
+                        "口头含糊同意"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "单独同意 (separate consent) is statutorily required for sensitive personal data."
                 }
             ]
         },
@@ -13894,85 +13923,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「行政法务与知识产权 (Administrative & IP Law)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 28-3）？",
+                    "prompt": "关于中国反垄断监管与数据合规法律制度，下列哪一项表述完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (28.3.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (28.3.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (28.3.3)。"
+                        "反垄断法允许行业寡头随意实施价格垄断",
+                        "任何跨国企业都可以未经任何安全评估随意向境外传输海量重要敏感数据",
+                        "中国依法禁止滥用市场支配地位与不正当竞争行为，并通过《个人信息保护法》确立了严格的个人隐私与数据出境安全评估机制 (Prohibits market abuse and mandates strict PIPL and cross-border data security)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "Accurately captures the regulatory architecture of fair competition, antitrust, and PIPL data protection."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («知识产权_28_3»):",
+                    "prompt": "Type the 3-character Hanzi term meaning 'Anti-Monopoly / Antitrust' (反垄断):",
                     "acceptedAnswers": [
-                        "知识产权_28_3"
+                        "反垄断",
+                        "fanlongduan",
+                        "fǎnlǒngduàn",
+                        "Fǎnlǒngduàn",
+                        "Fanlongduan",
+                        "反壟斷"
                     ],
-                    "explanation": "The target keyword was: 【知识产权_28_3】"
+                    "explanation": "反垄断 (fǎn lǒngduàn) means 'Anti-Monopoly / Antitrust'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u28-l4": {
         "id": "zh-u28-l4",
-        "subject": "mandarin",
-        "unit": 28,
-        "lessonNumber": 4,
-        "title": "行政法务与知识产权监管 (Administrative & IP Law) (Part 4)",
+        "unit": "zh-u28",
         "level": "C1",
-        "objective": "Comprehensive mastery of 行政法务与知识产权 (Administrative & IP Law).",
+        "objective": "Master international commercial arbitration and cross-border dispute resolution terminology (商事仲裁 commercial arbitration, 仲裁协议 arbitration agreement, 一裁终局 finality of arbitration awards, 涉外民商事涉外管辖 foreign-related jurisdiction, 《纽约公约》New York Convention on the Recognition and Enforcement of Foreign Arbitral Awards, 强制执行 compulsory enforcement).",
+        "prerequisites": [
+            "zh-u28-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u28-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「行政法务与知识产权监管 (Administrative & IP Law)」（第4部分）的核心句法结构与行政法务与知识产权 (Administrative & IP Law)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在跨国经贸与投资争端中，**国际商事仲裁（Commercial Arbitration）与跨境司法协助**是最高效、保密且具有全球执行力的法治争端解决机制！\n\n1. 商事仲裁的核心法理原则 (Principles of Commercial Arbitration):\n- **仲裁协议（Arbitration Clause）**：双方自愿达成的将争议提交仲裁机构解决的排他性协议（排除法院管辖）。\n- **一裁终局 (Finality of Awards)**：仲裁裁决一经作出即发生法律效力，当事人不得就同一争议再向仲裁委员会申请仲裁或向人民法院起诉。\n- **机构仲裁**：如中国国际经济贸易仲裁委员会（CIETAC）、上海国际仲裁中心（SHIAC）。\n\n2. 跨境承认与执行 (Cross-Border Recognition & Enforcement):\n- **《纽约公约》（New York Convention）**：全球170多个缔约国之间相互承认并强制执行外国仲裁裁决。\n- **强制执行申请**：若被执行人拒不履行生效仲裁裁决，申请人可依法向有管辖权的人民法院申请强制执行。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (28.4.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "中国国际经济贸易仲裁委员会（CIETAC）首席仲裁员敲下仲裁槌：‘本仲裁庭依据双方合同中的有效仲裁条款与国际贸易惯例，依法作出终局裁决：被申请人应在三十日内向申请人支付货款及逾期利息！’",
+                    "reading": "Zhōngguó Guójì Jīngjì Màoyì Zhòngcái Wěiyuánhuì (CIETAC) shǒuxí zhòngcáiyuán qiāoxià zhòngcáichuí: ‘Běn zhòngcáitíng yījù shuāngfāng hétong zhōng de yǒuxiào zhòngcái tiáokuǎn yǔ guójì màoyì guànlì, yīfǎ zuòchū zhōngjú cáijué: Bèishēnqǐngrén yīng zài sānshí rì nèi xiàng shēnqǐngrén zhīfù huòkuǎn jí yúqī lìxī!’",
+                    "translation": "The CIETAC chief arbitrator ruled: 'Pursuant to valid arbitration clause and trade usages, this tribunal renders a final award: respondent must pay outstanding payment and interest within 30 days!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (28.4.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "涉外商事律师在跨国并购交割仪式上提示风险：‘在跨国投资协议中，我们建议明确约定将争议提交CIETAC仲裁并适用中国法，依据《纽约公约》，该裁决可在全球绝大多数国家获得无缝承认与执行！’",
+                    "reading": "Shèwài shāngshì lǜshī zài kuàguó bìnggòu jiāogē yíshì shang tíshì fēnxiǎn: ‘Zài kuàguó tóuzī xiéyì zhōng, wǒmen jiànyì míngquè yuēdìng jiāng zhēngyì tíjiāo CIETAC zhòngcái bìng shìyòng Zhōngguófǎ, yījù «Niǔyuē Gōngyuē», gāi cáijué kě zài quánqiú juédàduōshù guójiā huòdé wūféng chéngrèn yǔ zhíxíng!’",
+                    "translation": "The international lawyer advised: 'We suggest specifying CIETAC arbitration; under the New York Convention, awards are seamlessly enforceable globally!'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (28.4.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "大卫在国际私法论文中论述：‘“一裁终局”制度极大缩短了商事主体的维权周期，降低了跨国交易的法律不确定性成本，是国际商事争议解决的首选方式。’",
+                    "reading": "Dàwèi zài guójì sīfǎ lùnwén zhōng lùnshù: ‘“Yī cái zhōng jú” zhìdù jí dà suōduǎn le shāngshì zhǔtǐ de wéiquán zhōuqī, jiàngdī le kuàguó jiāoyì de fǎlǜ bùquèdìngxìng chéngběn, shì guójì shāngshì zhēngyì jiějué de shǒuxuǎn fāngshì.’",
+                    "translation": "David wrote: 'The \"finality of awards\" drastically shortens recovery cycles and lowers cross-border uncertainty costs.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 行政法务与知识产权 (Administrative & IP Law)"
+                "Arbitration Power: 仲裁协议 (Arbitration Clause), 一裁终局 (Final Award), CIETAC (Top Institution), 纽约公约 (Global Enforcement)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "CIETAC (China International Economic and Trade Arbitration Commission, founded in 1956) is one of the world's major international commercial arbitration institutions."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「行政法务与知识产权 (Administrative & IP Law)」在第4小节中的标准汉语语法规范？",
+                    "prompt": "指商事仲裁裁决一经仲裁庭作出即发生法律效力、当事人不得就同一纠纷再次申请仲裁或向法院起诉的法定制度是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (28.4.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (28.4.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (28.4.3)。"
+                        "无限次二审",
+                        "一裁终局 (Finality of arbitration awards / Final and binding)",
+                        "随堂测验"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "一裁终局 establishes that arbitral awards are final, legally binding, and non-appealable on the merits."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「行政法务与知识产权监管 (Administrative & IP Law)」语用情境与完整句式的选项（练习 4）：",
+                    "prompt": "使中国涉外商事仲裁裁决能够在全球170多个缔约国获得司法承认与强制执行的最重要多边国际公约是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (28.4.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (28.4.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (28.4.3)。"
+                        "《纽约公约》（承认及执行外国仲裁裁决公约） (The New York Convention)",
+                        "《日内瓦公约》",
+                        "《国际海事安全规则》"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "《纽约公约》(The New York Convention) governs global recognition and enforcement of arbitral awards."
                 }
             ]
         },
@@ -13980,85 +14021,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「行政法务与知识产权 (Administrative & IP Law)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 28-4）？",
+                    "prompt": "关于国际商事仲裁与诉讼管辖的法律特征，下列哪一项表述完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (28.4.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (28.4.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (28.4.3)。"
+                        "仲裁裁决在任何国家都无法执行",
+                        "只要有一方不服仲裁结果就可以天天重新申请仲裁",
+                        "商事仲裁实行“一裁终局”，依托双方有效的仲裁协议排除法院管辖，并可通过《纽约公约》在国际上获得广泛的承认与强制执行 (Final and binding, excludes court jurisdiction, and enforceable under New York Convention)"
                     ],
                     "answerIndex": 2,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "explanation": "Accurately articulates the core advantages, jurisdictional exclusivity, and international enforceability of commercial arbitration."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («知识产权_28_4»):",
+                    "prompt": "Type the 4-character Hanzi term for 'finality of arbitration awards / one award is final' (一裁终局):",
                     "acceptedAnswers": [
-                        "知识产权_28_4"
+                        "一裁终局",
+                        "yicaizhongju",
+                        "yīcáizhōngjú",
+                        "Yīcáizhōngjú",
+                        "Yicaizhongju",
+                        "一裁終局"
                     ],
-                    "explanation": "The target keyword was: 【知识产权_28_4】"
+                    "explanation": "一裁终局 (yī cái zhōng jú) means 'one award is final / finality of arbitration'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u28-l5": {
         "id": "zh-u28-l5",
-        "subject": "mandarin",
-        "unit": 28,
-        "lessonNumber": 5,
-        "title": "行政法务与知识产权监管 (Administrative & IP Law) (Part 5)",
+        "unit": "zh-u28",
         "level": "C1",
-        "objective": "Comprehensive mastery of 行政法务与知识产权 (Administrative & IP Law).",
+        "objective": "Synthesize all administrative law, patent/IP enforcement, antitrust, and international commercial arbitration discourse into high-level global legal summits and judicial communiques.",
+        "prerequisites": [
+            "zh-u28-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u28-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「行政法务与知识产权监管 (Administrative & IP Law)」（第5部分）的核心句法结构与行政法务与知识产权 (Administrative & IP Law)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在本课中，我们将系统整合第二十八单元的所有依法行政原则、专利侵权救济、数字经济反垄断与国际商事仲裁体系，在世界法学大会与国际涉外商事争端解决高峰论坛中进行全景论述与高阶表达！\n\n1. 涉外法治与国际监管合规全景矩阵 (Master Legal Governance Matrix):\n| 法务监管维度 | 核心法律体系与救济渠道 | 战略价值与全球法治协同 |\n| :--- | :--- | :--- |\n| **行政法治** | 依法行政 / 权责清单 / 行政复议诉讼 | 规范公权力运行，营造市场化、法治化、国际化一流营商环境 |\n| **知识产权** | 发明实用外观 / 惩罚性赔偿 / 知产法院 | 严厉打击恶意侵权，为全球科技创新与跨境投资提供顶格司法保障 |\n| **反垄断数据** | 反垄断二选一 / 经营者集中 / PIPL数据出境 | 维护平台公平竞争秩序，统筹数字经济繁荣与国家数据安全底线 |\n| **商事仲裁** | 仲裁协议 / 一裁终局 / 《纽约公约》 | 提供独立公正高效的跨境商事争端终局裁决与全球执行通道 |\n| **涉外法治** | 统筹推进国内法治和涉外法治 | 积极参与国际经贸规则制定，以法治护航高水平对外开放 |\n\n2. 第二十八单元实战交际演练 (Unit 28 Global Legal & Judicial Summit):\n- 国际商事仲裁理事会（ICCA）全球大会主旨发言与涉外法治高端论坛对话。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (28.5.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "中国最高人民法院副院长在世界法学大会主旨演讲中指出：‘中国坚定不移统筹推进国内法治和涉外法治，持续完善知识产权惩罚性赔偿与一站式多元解纷机制，打造国际商事争端解决的优选地！’",
+                    "reading": "Zhōngguó Zuìgāo Rénmín Fǎyuàn fùyuànzhǎng zài Shìjiè Fǎxué Dàhuì zhǔzhǐ yǎnjiǎng zhōng zhǐchū: ‘Zhōngguó jiāndìng-bùyí tǒngchóu tuījìn guónèi fǎzhì hé shèwài fǎzhì, chíxù wánshàn zhīshi chǎnquán chéngfáxìng péicháng yǔ yízhànshì duōyuán jiěfēn jīzhì, dǎzào guójì shāngshì zhēngyì jiějué de yōuxuǎndì!’",
+                    "translation": "The Supreme Court Vice President noted: 'China coordinates domestic and foreign-related rule of law, refining IP punitive damages and one-stop dispute resolution to become a preferred venue for global commercial disputes!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (28.5.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫在国际跨国法务总监圆桌论坛发言：‘从行政审批的事前规范，到知产核心专利的顶格保护，再到高效公信的商事仲裁，中国完备的法治体系为全球跨国投资构筑了坚实可预期的法治盾牌！’",
+                    "reading": "Dàwèi zài guójì kuàguó fǎwù zǒngjiān yuánzhuō lùntán fāyán: ‘Cóng xíngzhèng shěnpī de shìqián guīfàn, dào zhīchǎn héxīn zhuānlì de dǐnggé bǎohù, zài dào gāoxiào gōngxìn de shāngshì zhòngcái, Zhōngguó wánbèi de fǎzhì tǐxì wèi quánqiú kuàguó tóuzī gòuzhù le jiānshí kěyùqī de fǎzhì dùnpái!’",
+                    "translation": "David stated: 'From administrative clarity and top-tier IP protection to trusted arbitration, China's rule of law builds a solid, predictable shield for multinational investments!'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (28.5.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "著名国际法学者在涉外法治蓝皮书发布会上总结：‘以高水平法治保障高水平开放，坚定维护多边贸易体制与以联合国宪章为核心的国际法治体系，是推动构建人类命运共同体的坚固基石！’",
+                    "reading": "Zhùmíng guójì fǎxuézhě zài shèwài fǎzhì lánpíshū fābùhuì shang zǒngjié: ‘Yǐ gāo shuǐpíng fǎzhì bǎozhàng gāo shuǐpíng kāifàng, jiāndìng wéihù duōbiān màoyì tǐzhì yǔ yǐ Liánhéguó Xiànzhāng wéi héxīn de guójì fǎzhì tǐxì, shì tuīdòng gòujiàn rénlèi mìngyùn gòngtóngtǐ de jiāngù jīshí!’",
+                    "translation": "The international law scholar concluded: 'Guaranteed by high-standard rule of law, upholding multilateral trade and UN Charter international law underpins building a community of shared future!'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 行政法务与知识产权 (Administrative & IP Law)"
+                "Rule of Law Summit: 依法行政 (Admin Compliance) + 顶格知产 (IP Shield) + 反垄断合规 (Fair Market) + 涉外仲裁 (Global Enforcement) = High-Standard Rule of Law (涉外法治)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "China's grand strategic doctrine of «统筹推进国内法治和涉外法治» (Coordinating domestic and foreign-related rule of law) emphasizes advancing a rules-based international environment for global commerce and diplomacy."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「行政法务与知识产权 (Administrative & IP Law)」在第5小节中的标准汉语语法规范？",
+                    "prompt": "在国家治理现代化与高水平对外开放战略中，强调将本国法律制度建设与涉外法律规则衔接相统一的宏大战略方针是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (28.5.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (28.5.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (28.5.3)。"
+                        "统筹推进国内法治和涉外法治 (Coordinating domestic and foreign-related rule of law)",
+                        "闭关自守",
+                        "法外施恩"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "统筹推进国内法治和涉外法治 is the overarching national legal strategy."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「行政法务与知识产权监管 (Administrative & IP Law)」语用情境与完整句式的选项（练习 5）：",
+                    "prompt": "由当事人协商一致、集调解、仲裁、诉讼等多种纠纷化解手段于一体的高效争议化解机制统称为：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (28.5.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (28.5.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (28.5.3)。"
+                        "一站式多元解纷机制 (One-stop diversified dispute resolution mechanism)",
+                        "暴力私了",
+                        "旷日持久拖延"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "一站式多元解纷机制 integrates mediation, arbitration, and litigation into seamless dispute resolution."
                 }
             ]
         },
@@ -14066,24 +14119,30 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「行政法务与知识产权 (Administrative & IP Law)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 28-5）？",
+                    "prompt": "关于中国在依法行政、知识产权保护与涉外民商事争端解决中的综合法治建设成果，下列哪一项总括完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (28.5.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (28.5.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (28.5.3)。"
+                        "中国没有任何保护外国投资者的法律法规",
+                        "中国通过严格依法行政、强化知产惩罚性赔偿、推进公平竞争反垄断监管，并依托高效透明的国际商事仲裁体系，构建了国际一流的法治化营商环境 (Law-based administration, strong IP protection, antitrust, and arbitration build a world-class legal business environment)",
+                        "涉外民商事合同不允许约定仲裁条款"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "Comprehensively summarizes the legal framework, IP rights protection, fair competition, and international dispute resolution environment in China."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («知识产权_28_5»):",
+                    "prompt": "Type the 4-character Hanzi phrase for 'foreign-related rule of law' (涉外法治):",
                     "acceptedAnswers": [
-                        "知识产权_28_5"
+                        "涉外法治",
+                        "shewaifazhi",
+                        "shèwàifǎzhì",
+                        "Shèwàifǎzhì",
+                        "Shewaifazhi",
+                        "涉外法制"
                     ],
-                    "explanation": "The target keyword was: 【知识产权_28_5】"
+                    "explanation": "涉外法治 (shèwài fǎzhì) means 'foreign-related rule of law'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u29-l1": {
