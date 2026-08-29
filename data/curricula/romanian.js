@@ -450,47 +450,82 @@
         "id": "ro-u1-l1",
         "unit": "ro-u1",
         "level": "A1",
-        "objective": "Greet people appropriately in Romanian using Bună, Salut, and the time-of-day greetings, and choose correctly between informal and formal register.",
+        "objective": "Greet people appropriately in Romanian using Bună, Salut, and time-of-day greetings, choose correctly between informal and formal register, and master the Romanian diacritic system (ă, ș, ț).",
         "prerequisites": [],
         "warmup": {
             "srsPull": true,
             "reviewFocus": []
         },
         "presentation": {
-            "explanation": "Bună is Romania's all-purpose 'hi' — short, casual, usable at any hour with people you're on friendly terms with. Salut works the same way and, usefully, covers BOTH 'hi' and 'bye' informally, so you'll hear friends toss it out on the way in and the way out of a conversation. For strangers, shopkeepers, or anyone you'd address formally, reach for the time-specific set instead: Bună dimineața (good morning, until roughly noon), Bună ziua (good day, the safe all-purpose formal greeting for most of the day), and Bună seara (good evening). Noapte bună ('good night') is different from all of these — it's only ever used when PARTING for the night, never as a hello. For goodbye, La revedere is the formal, always-safe choice; Pa or Pa pa is the casual version friends use with each other, similar in energy to salut. The core grammar hook to notice already: bună itself is the feminine form of the adjective bun (good) — Romanian adjectives agree in gender, a pattern that will keep showing up.",
+            "explanation": "Bună is Romania's all-purpose 'hi' — short, casual, usable at any hour with people you're on friendly terms with. Salut works the same way and, usefully, covers BOTH 'hi' and 'bye' informally, so you'll hear friends toss it out on the way in and the way out of a conversation. For strangers, shopkeepers, or anyone you'd address formally, reach for the time-specific set instead: Bună dimineața (good morning, until roughly noon), Bună ziua (good day, the safe all-purpose formal greeting for most of the day), and Bună seara (good evening). Noapte bună ('good night') is different from all of these — it's only ever used when PARTING for the night, never as a hello. For goodbye, La revedere is the formal, always-safe choice; Pa or Pa pa is the casual version friends use with each other, similar in energy to salut.\n\n### 🔤 Orthography & Pronunciation Fundamentals (Diacritics System):\nRomanian is an Eastern Romance language written in the Latin alphabet, but standard Romanian possesses five special diacritic letters that transform English defaults:\n1. **ă** (A with breve) = [ə] (mid-central vowel / schwa, like the unstressed 'a' in *about* or the 'u' in *cup*). In *Bună* [ˈbunə] and *dimineața* [dimiˈne̯atsa], that final -ă is never a flat English 'ah', but a relaxed central [ə].\n2. **ș** (S with comma-below) = [ʃ] (the English 'sh' sound in *shoe*). E.g. *și* [ʃi] ('and'), *șase* [ˈʃase] ('six'). Note: Standard Romanian uses a distinct comma-below (ș), not a Turkish cedilla (ş).\n3. **ț** (T with comma-below) = [ts] (the 'ts' affricate in *cats* or *pizza*). E.g. *dimineața* [dimiˈne̯atsa], *mulțumesc* [multsuˈmesk] ('thank you').\n4. Diphthong **ea** = [e̯a] (a rapid glide from 'eh' to 'ah' as a single syllable, as in *seară* [ˈse̯arə] 'evening').\n\nThe core grammar hook to notice already: bună itself is the feminine form of the adjective bun (good) — Romanian adjectives agree in gender, a pattern that will keep showing up.",
             "examples": [
                 {
                     "target": "Ana: Bună! Ce mai faci?",
-                    "reading": "",
-                    "translation": "Ana: Hi! How are you? (informal)"
+                    "reading": "Ana: [ˈbunə! tʃe maj fatʃʲ?]",
+                    "translation": "Ana: Hi! How are you? (informal — notice the final -ă is a schwa [ə], and ce/ci make a soft 'ch' [tʃ] sound)"
                 },
                 {
                     "target": "Mihai: Salut, Ana! Bine, mersi.",
-                    "reading": "",
+                    "reading": "Mihai: [saˈlut, ˈana! ˈbine, merˈsi.]",
                     "translation": "Mihai: Hey, Ana! Good, thanks. (mersi is a casual French-borrowed 'thanks')"
                 },
                 {
-                    "target": "Ana: Bună ziua, domnule Popescu.",
-                    "reading": "",
-                    "translation": "Ana: Good day, Mr. Popescu. (formal)"
+                    "target": "Ana: Bună dimineața! Bună ziua, domnule Popescu.",
+                    "reading": "Ana: [ˈbunə dimiˈne̯atsa! ˈbunə ˈziwa, ˈdomnule poˈpesku.]",
+                    "translation": "Ana: Good morning! Good day, Mr. Popescu. (formal — notice ț in dimineața pronounced [ts])"
                 },
                 {
-                    "target": "Mihai: La revedere! — Pa, ne vedem mâine!",
-                    "reading": "",
-                    "translation": "Mihai: Goodbye! (formal) — Bye, see you tomorrow! (informal)"
+                    "target": "Mihai: Bună seara și noapte bună! La revedere!",
+                    "reading": "Mihai: [ˈbunə ˈse̯arə ʃi ˈne̯apte ˈbunə! la reveˈdere!]",
+                    "translation": "Mihai: Good evening and good night! Goodbye! (ș in și is pronounced 'sh' [ʃ], ea/oa are diphthongs)"
                 }
             ],
             "mnemonics": [
                 "Salut is a two-way word, like a revolving door: it says hello walking in AND goodbye walking out, always informal. If you only learn one casual greeting, make it this one.",
+                "Diacritic Decoders: 'ă' wears a bowl/smile (breve) and says 'uh' [ə]; 'ș' wears a comma shoe and says 'sh' [ʃ]; 'ț' wears a comma shoe and says 'ts' [ts]!",
                 "Noapte bună is parting-only — never a hello. Think of it as tucked in with 'goodnight' in English: you'd never open a conversation with it, only close one."
             ],
             "culturalNotes": [
-                "Mersi is a casual, French-borrowed 'thanks' heard constantly in speech — mulțumesc is the fuller, more neutral/formal word for 'thank you' you'll see in writing and more careful speech.",
+                "Romanian Orthography & Comma-below: In 1860, Romania officially adopted the Latin alphabet after centuries of Cyrillic use. The Romanian Academy specifies comma-below characters (ș, ț) rather than cedillas (ş, ç); seeing ș and ț with neat comma tails is the mark of authentic modern Romanian typography.",
+                "Mersi is a casual, French-borrowed 'thanks' heard constantly in speech — mulțumesc (pronounced [multsuˈmesk] with ț = [ts]) is the fuller, more neutral/formal word for 'thank you' you'll see in writing and more careful speech.",
                 "Two-cheek kisses (usually starting on the right) are a common greeting between friends and family in Romania, more so than a handshake — handshakes are reserved for more formal or first-time professional contexts."
             ]
         },
         "guidedPractice": {
             "items": [
+                {
+                    "prompt": "How is the Romanian diacritic letter 'ă' (as in Bună) pronounced?",
+                    "options": [
+                        "Like a long Italian 'ah'",
+                        "As a mid-central unrounded schwa sound [ə] (like the 'a' in about or 'u' in cup)",
+                        "As a silent letter",
+                        "As the vowel sound 'ee'"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "ă represents the schwa vowel [ə], found in words like bună, dimineața, apă."
+                },
+                {
+                    "prompt": "What sound does the Romanian letter 'ș' (S with comma-below) represent?",
+                    "options": [
+                        "The 'sh' [ʃ] sound in shoe",
+                        "A hard 'k' sound",
+                        "The 'ts' sound in pizza",
+                        "A standard English 's' sound"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "ș represents [ʃ], the 'sh' sound."
+                },
+                {
+                    "prompt": "What sound does the Romanian letter 'ț' (T with comma-below) represent in dimineața and mulțumesc?",
+                    "options": [
+                        "The 'th' sound in think",
+                        "The 'ch' sound in chair",
+                        "The 'ts' [ts] affricate in cats or pizza",
+                        "A hard 't' sound"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "ț represents the voiceless alveolar affricate [ts]."
+                },
                 {
                     "prompt": "You're greeting a close friend at any time of day. Best choice?",
                     "options": [
@@ -514,17 +549,6 @@
                     "explanation": "Salut covers both directions of a casual greeting/farewell."
                 },
                 {
-                    "prompt": "You're greeting your formal doctor at 2pm. Best choice?",
-                    "options": [
-                        "Noapte bună",
-                        "Bună ziua",
-                        "Pa pa",
-                        "Salut"
-                    ],
-                    "answerIndex": 1,
-                    "explanation": "Bună ziua is the safe formal daytime greeting."
-                },
-                {
                     "prompt": "When is Noapte bună used?",
                     "options": [
                         "Interchangeably with Bună ziua",
@@ -539,6 +563,17 @@
         },
         "independentPractice": {
             "items": [
+                {
+                    "prompt": "Which greeting contains both the [ts] sound of 'ț' and the [ə] sound of 'ă'?",
+                    "options": [
+                        "Bună dimineața",
+                        "Salut",
+                        "La revedere",
+                        "Pa pa"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Bună dimineața contains both ă [ə] and ț [ts]."
+                },
                 {
                     "prompt": "Translate casually: 'Hey! Good, thanks.'",
                     "options": [
@@ -577,6 +612,19 @@
         "checkpointTest": {
             "items": [
                 {
+                    "type": "multiple-choice",
+                    "prompt": "Which phonetic breakdown accurately reflects the Romanian letters 'ă', 'ș', and 'ț'?",
+                    "options": [
+                        "ă = [ə] (schwa), ș = [ʃ] ('sh'), ț = [ts] ('ts')",
+                        "ă = [a:], ș = [s], ț = [t]",
+                        "ă = silent, ș = [z], ț = [θ]",
+                        "ă = [e], ș = [tʃ], ț = [dʒ]"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "ă is schwa [ə], ș is 'sh' [ʃ], and ț is 'ts' [ts]."
+                },
+                {
+                    "type": "multiple-choice",
                     "prompt": "Casual greeting/goodbye usable both ways:",
                     "options": [
                         "Salut",
@@ -588,6 +636,7 @@
                     "explanation": "Salut works as both hi and bye, informally."
                 },
                 {
+                    "type": "multiple-choice",
                     "prompt": "Formal greeting for most of the daytime:",
                     "options": [
                         "Pa pa",
@@ -599,6 +648,7 @@
                     "explanation": "Bună ziua is the safe formal default for the day."
                 },
                 {
+                    "type": "multiple-choice",
                     "prompt": "Noapte bună is used:",
                     "options": [
                         "Only in the morning",
@@ -610,37 +660,15 @@
                     "explanation": "It's exclusively a nighttime farewell."
                 },
                 {
-                    "prompt": "Formal goodbye, safe with strangers:",
-                    "options": [
-                        "Salut",
-                        "La revedere",
+                    "type": "typed-recall",
+                    "prompt": "Type the Romanian word for 'Hello / Hi' featuring the schwa diacritic 'ă' (Bună):",
+                    "acceptedAnswers": [
                         "Bună",
-                        "Pa"
+                        "buna",
+                        "Buna",
+                        "bună"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "La revedere is the formal, universally safe farewell."
-                },
-                {
-                    "prompt": "Mersi vs. mulțumesc:",
-                    "options": [
-                        "Mersi is casual/borrowed from French; mulțumesc is fuller/more formal",
-                        "Mersi is more formal than mulțumesc",
-                        "Mulțumesc is only used in writing, never spoken",
-                        "They're unrelated words with different meanings"
-                    ],
-                    "answerIndex": 0,
-                    "explanation": "The register distinction taught in the lesson."
-                },
-                {
-                    "prompt": "Why is bună the feminine form?",
-                    "options": [
-                        "It's simply an error in the language",
-                        "All Romanian words end in -ă",
-                        "Gender agreement doesn't exist in Romanian",
-                        "Romanian adjectives agree in gender; bună agrees with an implied feminine noun (like ziuă/seară)"
-                    ],
-                    "answerIndex": 3,
-                    "explanation": "Gender agreement is a real, recurring Romanian grammar feature."
+                    "explanation": "Bună is the ubiquitous Romanian greeting."
                 }
             ],
             "passThreshold": 0.8
@@ -650,7 +678,7 @@
         "id": "ro-u1-l2",
         "unit": "ro-u1",
         "level": "A1",
-        "objective": "Conjugate a fi (to be) for all subject pronouns, including the formal dumneavoastră, and build basic identity sentences.",
+        "objective": "Conjugate a fi (to be) for all subject pronouns, master the non-syllabic palatalized final 'i' [ʲ] and 'ț' [ts] in verb endings, and build basic identity sentences.",
         "prerequisites": [
             "ro-u1-l1"
         ],
@@ -661,31 +689,32 @@
             ]
         },
         "presentation": {
-            "explanation": "a fi (to be) is Romanian's most important irregular verb, and like most 'to be' verbs across languages, it doesn't follow a clean pattern — it just has to be memorized: eu sunt (I am), tu ești (you are, informal), el/ea este — often shortened to e in speech — (he/she is), noi suntem (we are), voi sunteți (you are, informal plural), ei/ele sunt (they are). Now the formality piece: dumneavoastră is the formal 'you', used for strangers, elders, and professional contexts — and it conjugates exactly like voi (informal plural you): dumneavoastră sunteți, even when addressing a single person formally. This mirrors a pattern you'll see across many European languages (French vous, German Sie): the formal singular 'borrows' the plural verb form. Subject pronouns themselves (eu, tu, el/ea, noi, voi, ei/ele) are often DROPPED in Romanian once the meaning is clear from the verb ending — Sunt Ana works fine for 'I am Ana' without eu, similar to Spanish or Italian.",
+            "explanation": "a fi (to be) is Romanian's most important irregular verb, and like most 'to be' verbs across languages, it doesn't follow a clean pattern — it just has to be memorized: eu sunt (I am), tu ești (you are, informal), el/ea este — often shortened to e in speech — (he/she is), noi suntem (we are), voi sunteți (you are, informal plural), ei/ele sunt (they are). Now the formality piece: dumneavoastră is the formal 'you', used for strangers, elders, and professional contexts — and it conjugates exactly like voi (informal plural you): dumneavoastră sunteți, even when addressing a single person formally. This mirrors a pattern you'll see across many European languages (French vous, German Sie): the formal singular 'borrows' the plural verb form. Subject pronouns themselves (eu, tu, el/ea, noi, voi, ei/ele) are often DROPPED in Romanian once the meaning is clear from the verb ending — Sunt Ana works fine for 'I am Ana' without eu, similar to Spanish or Italian.\n\n### 🔤 Crucial Phonetic Trap: Non-syllabic Final 'i' [ʲ] vs Full Syllable 'i':\nOne of the biggest mistakes English speakers make in Romanian is pronouncing a final letter 'i' as a full vowel syllable 'ee'.\n- In *tu ești* [eʃtʲ] and *București* [bukuˈreʃtʲ], the final **-i** is **non-syllabic / asyllabic (palatalized)**. It does not add an extra beat or syllable; it simply softens/palatalizes the preceding consonant cluster (like a slight 'y' whisper attached to the 't').\n- Contrast with *sunteți* [sunˈtetsʲ] where **ț** is [ts] followed by the subtle palatalized whisper, while *suntem* [sunˈtem] has a fully vocalized 'e'.",
             "examples": [
                 {
                     "target": "Eu sunt din București. Tu ești de aici?",
-                    "reading": "",
-                    "translation": "I am from Bucharest. Are you from here? (informal)"
+                    "reading": "[ew sunt din bukuˈreʃtʲ. tu eʃtʲ de aˈitʃʲ?]",
+                    "translation": "I am from Bucharest. Are you from here? (informal — notice București and ești end in non-syllabic softened 'i' [ʲ], NOT 'ee')"
                 },
                 {
                     "target": "Dumneavoastră sunteți domnul Popescu?",
-                    "reading": "",
-                    "translation": "Are you Mr. Popescu? (formal — sunteți, same form as voi)"
+                    "reading": "[dumne̯aˈvo̯astrə sunˈtetsʲ ˈdomnul poˈpesku?]",
+                    "translation": "Are you Mr. Popescu? (formal — sunteți features ț [ts] + soft final i)"
                 },
                 {
                     "target": "Noi suntem prieteni, iar ei sunt colegii mei.",
-                    "reading": "",
-                    "translation": "We are friends, and they are my colleagues."
+                    "reading": "[noj sunˈtem priˈyetenʲ, jar ej sunt koˈledʒij mej.]",
+                    "translation": "We are friends, and they are my colleagues. (prieteni ends in palatalized [nʲ])"
                 },
                 {
                     "target": "Sunt obosită azi.",
-                    "reading": "",
+                    "reading": "[sunt oboˈsitə azʲ.]",
                     "translation": "I'm tired today. (eu dropped — the sunt ending already shows it's 'I')"
                 }
             ],
             "mnemonics": [
                 "dumneavoastră conjugates exactly like voi — sunteți for both — because the formal 'you' historically borrows the plural verb form, the same trick French (vous) and German (Sie) both play.",
+                "The 'Ghost i' Rule: Final 'i' after a consonant in ești or București is not a whole step 'ee' — it's a ghost-whisper 'y' [ʲ] that curls the consonant without making a new syllable!",
                 "Subject pronouns are optional scaffolding in Romanian: once you know sunt = 'I am' and ești = 'you are', you can drop eu and tu entirely and still be perfectly clear, just like Sunt Ana instead of Eu sunt Ana."
             ],
             "culturalNotes": [
@@ -694,6 +723,17 @@
         },
         "guidedPractice": {
             "items": [
+                {
+                    "prompt": "How is the final '-i' pronounced in Romanian words like 'ești' and 'București'?",
+                    "options": [
+                        "As a loud two-syllable 'ee-ee'",
+                        "As a non-syllabic palatalization [ʲ] (a subtle softening whisper, not a full extra vowel syllable)",
+                        "As a silent letter like in French",
+                        "As an English 'eye' diphthong"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "Final -i after a consonant is generally non-syllabic [ʲ], softening the preceding consonant."
+                },
                 {
                     "prompt": "Eu ___ din România. (I am from Romania)",
                     "options": [
@@ -853,7 +893,7 @@
         "id": "ro-u1-l3",
         "unit": "ro-u1",
         "level": "A1",
-        "objective": "Introduce yourself and ask someone's name using both Cum te cheamă? and Cum te numești?, and understand the impersonal grammar behind cheamă.",
+        "objective": "Introduce yourself and ask someone's name using Cum te cheamă? and Cum te numești?, master the 'â' vs 'î' [ɨ] vowel rule and 'ch' [k] digraph pronunciation, and understand the impersonal grammar behind cheamă.",
         "prerequisites": [
             "ro-u1-l1",
             "ro-u1-l2"
@@ -866,39 +906,64 @@
             ]
         },
         "presentation": {
-            "explanation": "Romanian gives you two ways to ask a name, and the more common one in everyday speech has a grammatical twist worth understanding rather than just memorizing. Cum te cheamă? is the everyday, colloquial question — but it doesn't literally mean 'what do you call yourself.' Cheamă is third person, and the sentence literally means 'how does [something/someone] call you?' — an impersonal construction, similar in spirit to Spanish me llamo but built the other way around: the naming 'happens to' you rather than you doing it. The reply matches: Mă cheamă Ana ('[they/it] call me Ana'). The other option, Cum te numești? / Mă numesc Ana, is the more formal-sounding, textbook-correct pair, built on the reflexive verb a se numi ('to name oneself') — grammatically cleaner, but Cum te cheamă? is what you'll actually hear on the street far more often. Both are completely correct; know both, lean on cheamă in casual conversation.",
+            "explanation": "Romanian gives you two ways to ask a name, and the more common one in everyday speech has a grammatical twist worth understanding rather than just memorizing. Cum te cheamă? is the everyday, colloquial question — but it doesn't literally mean 'what do you call yourself.' Cheamă is third person, and the sentence literally means 'how does [something/someone] call you?' — an impersonal construction, similar in spirit to Spanish me llamo but built the other way around: the naming 'happens to' you rather than you doing it. The reply matches: Mă cheamă Ana ('[they/it] call me Ana'). The other option, Cum te numești? / Mă numesc Ana, is the more formal-sounding, textbook-correct pair, built on the reflexive verb a se numi ('to name oneself') — grammatically cleaner, but Cum te cheamă? is what you'll actually hear on the street far more often. Both are completely correct; know both, lean on cheamă in casual conversation.\n\n### 🔤 Orthography Traps: 'ch' Digraph & The 'â' vs 'î' Rule:\n1. **The 'ch' Digraph = [k] (Hard K)**: In Italian and Romanian, `c` before `e`/`i` makes a soft 'ch' sound [tʃ] (e.g. *ce* [tʃe] = 'what', *cinci* [tʃintʃ] = 'five'). To preserve a hard [k] sound before `e`/`i`, Romanian inserts an **h** — so **che / chi** is pronounced like a hard [ke] / [ki]! E.g. *cheamă* is pronounced [ˈkjamə] (KEE-ah-muh / KYAH-muh), NOT English 'cheamah'.\n2. **The 'â' vs 'î' [ɨ] Vowel Rule**: Both **â** (A with circumflex) and **î** (I with circumflex) represent the exact same sound: [ɨ] (a close central unrounded vowel, pronounced deep in the center-top of the mouth with relaxed lips, like Russian *ы* or the middle sound in *câine* [ˈkɨjne] 'dog').\n   - **The 1993 Academy Rule**: Use **î** at the beginning of a word (*în*, *început*) and at the end of a root (*a urî*). Use **â** everywhere in the interior of a word (*România*, *mâine*, *câine*, *pâine*).",
             "examples": [
                 {
                     "target": "Mihai: Cum te cheamă?",
-                    "reading": "",
-                    "translation": "Mihai: What's your name? (literally: 'how do they call you?')"
+                    "reading": "[kum te ˈkjamə?]",
+                    "translation": "Mihai: What's your name? (notice che is hard [k], ending in schwa -ă [ə])"
                 },
                 {
                     "target": "Ana: Mă cheamă Ana. Dar pe tine?",
-                    "reading": "",
+                    "reading": "[mə ˈkjamə ˈana. dar pe ˈtine?]",
                     "translation": "Ana: My name is Ana ('they call me Ana'). And you?"
                 },
                 {
                     "target": "Mihai: Pe mine mă cheamă Mihai. Mă bucur să te cunosc.",
-                    "reading": "",
+                    "reading": "[pe ˈmine mə ˈkjamə miˈhaj. mə ˈbukur sə te kuˈnosk.]",
                     "translation": "Mihai: I'm Mihai ('they call me Mihai'). Nice to meet you."
                 },
                 {
-                    "target": "Ana: Cum te numești, mai formal?",
-                    "reading": "",
-                    "translation": "Ana: What's your name, more formally? — Mă numesc Mihai. (the reflexive alternative)"
+                    "target": "Ana: Cum te numești în limba română?",
+                    "reading": "[kum te nuˈmeʃtʲ ɨn ˈlimba roˈmɨnə?]",
+                    "translation": "Ana: How do you name yourself in the Romanian language? (notice în starts with î, română has interior â [ɨ])"
                 }
             ],
             "mnemonics": [
+                "che/chi = Hard K! Like a 'key' unlocking the sound: cheamă starts with [k], never 'ch'.",
+                "The â/î Rule: 'î' guards the doors (beginning and end of words: în, a urî); 'â' lives inside the house (România, pâine, mâine)!",
                 "Cheamă is a 'someone/something calls you' construction, not a 'you call yourself' one — think of it like a bell that rings your name, rather than you ringing it. Mă cheamă Ana = 'it calls me Ana.'",
-                "numesc vs. cheamă: numesc is the tidy, reflexive, textbook option (a se numi, 'to name oneself'); cheamă is the messier, impersonal, but far more common everyday option. When they disagree in a multiple-choice question, cheamă is usually the 'street' answer."
+                "numesc vs. cheamă: numesc is the tidy, reflexive, textbook option (a se numi, 'to name oneself'); cheamă is the messier, impersonal, but far more common everyday option."
             ],
             "culturalNotes": [
+                "The 1993 Orthographic Reform: After the 1989 Romanian Revolution, the Romanian Academy restored 'â' in interior word positions to emphasize the historical Latin roots of the Romanian people (România / român from Latin Romanus). Both â and î sound 100% identical in modern standard Romanian [ɨ].",
                 "Pe tine? / Pe mine — tacking pe + a pronoun onto a question or answer ('and you? / as for me') is a common conversational habit for redirecting or emphasizing who you mean, roughly like English 'as for you' or 'what about you.'"
             ]
         },
         "guidedPractice": {
             "items": [
+                {
+                    "prompt": "How is the digraph 'ch' pronounced before 'e' or 'i' in Romanian (as in Cum te cheamă)?",
+                    "options": [
+                        "As a soft 'ch' like in chair",
+                        "As a hard 'k' sound [k] (like in kettle or key)",
+                        "As a silent letter",
+                        "As 'sh'"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "che/chi in Romanian is pronounced with a hard [k] sound."
+                },
+                {
+                    "prompt": "When is 'î' used instead of 'â' in standard Romanian spelling?",
+                    "options": [
+                        "At the beginning and end of root words (like în, început, a urî), while 'â' is used in the middle of words",
+                        "Only in loanwords from English",
+                        "Only on Sundays",
+                        "They represent completely different sounds and are never related"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Standard 1993 orthography uses î at word edges (beginning/end) and â inside words."
+                },
                 {
                     "prompt": "Cum te ___? (everyday, colloquial 'what's your name')",
                     "options": [
