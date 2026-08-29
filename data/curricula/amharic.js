@@ -11129,63 +11129,69 @@
     },
     "am-u22-l1": {
         "id": "am-u22-l1",
-        "subject": "amharic",
-        "unit": 22,
-        "lessonNumber": 1,
-        "title": "ቀጥተኛ ያልሆነ ንግግር (Reported Speech & Conjunctions) (Part 1)",
+        "unit": "am-u22",
         "level": "B2",
-        "objective": "Comprehensive mastery of ቀጥተኛ ያልሆነ ንግግር (Indirect Speech).",
+        "objective": "Transform direct quotes into indirect reported speech in Amharic using the reporting converb «ብሎ» (saying that) and complementizer clauses with «እንደ-» (that) attached to indicative verbs.",
+        "prerequisites": [
+            "am-u21-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u21-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ቀጥተኛ ያልሆነ ንግግር (Indirect Speech) - ደረጃ 1) ተማሪዎች ስለ ቀጥተኛ ያልሆነ ንግግር (Indirect Speech) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Indirect reported speech (ቀጥተኛ ያልሆነ ንግግር) in Amharic shifts direct utterances into subordinate clauses using complementizer **እንደ-** (Inde- — that) or the gerund **ብሎ** (Bilo — saying).\n\n1. Complementizer Prefix **እንደ-** with Reporting Verbs:\n- «**ነገ እንደሚመጣ ገለጸ።**» (He stated that he will come tomorrow.)\n- «**ስራውን እንዳጠናቀቀ ተናገረ።**» (He said that he completed the work.)\n- «**ሁኔታው ጥሩ እንደሆነ አስታወቀ።**» (He announced that the situation was good.)\n\n2. Direct Quote with Converb **ብሎ** (Bilo):\n- «**በቅርቡ እመለሳለሁ ብሎ ተናገረ።**» (He spoke, saying he would return soon.)\n\n3. Person & Pronoun Shifts:\nDirect 1st-person speech ('I will come') shifts to 3rd-person relative form («እንደሚመጣ») in reported speech.",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የቀጥተኛ ያልሆነ ንግግር (Indirect Speech) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (22.1.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ሚኒስትሩ የኢኮኖሚው እድገት በሚቀጥለው ዓመት እንደሚጨምር በይፋ ገለጹ።",
+                    "reading": "Mīnīstiru ye'īkonomīw idiget bemīqet'ilew amet indemīch'emir beyifa geletsu.",
+                    "translation": "The minister officially explained that the economic growth will increase next year."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (22.1.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ተጓዡ መንገደኛ በሰላም ወደ ሀገሩ እንደደረሰ ለቤተሰቡ በስልክ ተናገረ።",
+                    "reading": "Tegwaju mengedegna beselam wede hageru indederese lebētesebu besilk tenaggere.",
+                    "translation": "The traveler told his family by phone that he arrived safely in his country."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (22.1.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ዋና ዳይሬክተሩ ፕሮጀክቱ በታቀደለት ጊዜ ይጠናቀቃል ብለው አስታወቁ።",
+                    "reading": "Wana dayirēkteru projekitu betaqedelet gīzē yit'enaqeqal bilew astawaqu.",
+                    "translation": "The executive director announced, saying that the project would finish at its planned time."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ቀጥተኛ ያልሆነ ንግግር (Indirect Speech)"
+                "«እንደ-... አለ/ገለጸ» = Said that...! Direct quote + «ብሎ» = Saying that...!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "In Ethiopian media broadcasting and institutional communication, public announcements consistently employ the formal attribution «...እንደሆነ ገለጹ» (they explained that it is so)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ቀጥተኛ ያልሆነ ንግግር (Indirect Speech)» አጠቃቀም በደረጃ 1 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«ስራውን እንዳጠናቀቀ ተናገረ» ምን ማለት ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (22.1.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (22.1.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (22.1.3)።"
+                        "He said that he completed the work",
+                        "He refused to work",
+                        "He forgot to start"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "እንዳጠናቀቀ ተናገረ = he said that he completed the work."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ቀጥተኛ ያልሆነ ንግግር (Reported Speech & Conjunctions)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 1)፡",
+                    "prompt": "በቀጥተኛ ያልሆነ ንግግር ውስጥ «እንደ-» ምንን ያመለክታል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (22.1.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (22.1.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (22.1.3)።"
+                        "Negation",
+                        "Complementizer 'that' (indirect clause marker)",
+                        "Future time only"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "እንደ- functions as the complementizer 'that'."
                 }
             ]
         },
@@ -11193,85 +11199,95 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ቀጥተኛ ያልሆነ ንግግር (Indirect Speech)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 22-1)?",
+                    "prompt": "የትኛው ዓረፍተ ነገር ቀጥተኛ ያልሆነ ንግግርን (Indirect Reported Speech) ያሳያል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (22.1.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (22.1.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (22.1.3)።"
+                        "ነገ እንደሚመጣ ገለጸ (He explained that he will come tomorrow)",
+                        "ዳቦ በላሁ (I ate bread)",
+                        "እሱ ተኛ (He slept)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "«እንደሚመጣ ገለጸ» utilizes the complementizer «እንደ-» in reported speech."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («አለ_22_1»):",
+                    "prompt": "Type the Amharic reporting verb for 'he explained / stated' in Fidel script (ገለጸ):",
                     "acceptedAnswers": [
-                        "አለ_22_1"
+                        "ገለጸ",
+                        "geletse",
+                        "geletts'e",
+                        "Geletse"
                     ],
-                    "explanation": "The target keyword was: 【አለ_22_1】"
+                    "explanation": "ገለጸ (Geletse) means 'he explained / stated'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u22-l2": {
         "id": "am-u22-l2",
-        "subject": "amharic",
-        "unit": 22,
-        "lessonNumber": 2,
-        "title": "ቀጥተኛ ያልሆነ ንግግር (Reported Speech & Conjunctions) (Part 2)",
+        "unit": "am-u22",
         "level": "B2",
-        "objective": "Comprehensive mastery of ቀጥተኛ ያልሆነ ንግግር (Indirect Speech).",
+        "objective": "Report commands, instructions, and polite requests in Amharic using the purposive/mandative prefix «እንዲ-» with verbs of commanding («አዘዘ»), requesting («ጠየቀ»), and advising («መከረ»).",
+        "prerequisites": [
+            "am-u22-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u22-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ቀጥተኛ ያልሆነ ንግግር (Indirect Speech) - ደረጃ 2) ተማሪዎች ስለ ቀጥተኛ ያልሆነ ንግግር (Indirect Speech) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "When reporting commands, imperatives, and directives in Amharic, the direct command converts into a subjunctive clause governed by **እንዲ-** (Indī-).\n\n1. Reported Directive Formulas:\n- Direct: «ቶሎ ና!» አለው። (\"Come quickly!\" he said.)\n- Indirect: «**ቶሎ እንዲመጣ አዘዘው።**» (He ordered him to come quickly.)\n- Direct: «እባክህ እርዳኝ» አለችው። (\"Please help me,\" she said.)\n- Indirect: «**እንድትረዳው ጠየቃት።**» (He asked her to help him.)\n\n2. Key Directive Verbs:\n- **አዘዘ** (Azeze) — Commanded / Ordered\n- **ጠየቀ** (T'eyeqe) — Requested / Asked\n- **መከረ** (Mekere) — Advised / Counseled\n- **አሳሰበ** (Asassebe) — Urged / Reminded",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የቀጥተኛ ያልሆነ ንግግር (Indirect Speech) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (22.2.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ዳኛው ምስክሩ እውነቱን ብቻ እንዲናገር እና ፍርድ ቤቱን እንዳያታልል አዘዙ።",
+                    "reading": "Dagnyaw miskiru iwnetun bicha indīnageer ina fird bētun indayatallil azezu.",
+                    "translation": "The judge ordered the witness to speak only the truth and not deceive the court."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (22.2.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ዶክተሩ በሽተኛው በየቀኑ መድኃኒቱን በሰዓቱ እንዲወስድ በጥብቅ መከረው።",
+                    "reading": "Dokteru beshitegnaw beyeqenu medhanītun bese'atu indīwesid bet'ibqi mekerew.",
+                    "translation": "The doctor strictly advised the patient to take his medicine on time every day."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (22.2.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ስራ አስኪያጁ ሰራተኞቹን የደህንነት ደንቦችን እንዲያከብሩ አሳሰበ።",
+                    "reading": "Sira askīyaju seratēgnochin yedehinninet denbochin indīyakebru asassebe.",
+                    "translation": "The manager urged the staff to adhere to safety regulations."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ቀጥተኛ ያልሆነ ንግግር (Indirect Speech)"
+                "«እንዲ-» + Subjunctive + አዘዘ/መከረ = Ordered/Advised someone to do something!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "In traditional Ethiopian elder counseling (ምክር), communal wisdom is transmitted respectfully through reported indirect guidance: «እንዲህ እንዲያደርግ መከሩት» (they advised him to do thus)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ቀጥተኛ ያልሆነ ንግግር (Indirect Speech)» አጠቃቀም በደረጃ 2 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«ቶሎ እንዲመጣ አዘዘው» ምን ማለት ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (22.2.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (22.2.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (22.2.3)።"
+                        "He ordered him to come quickly",
+                        "He told him not to come",
+                        "He praised his arrival"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "እንዲመጣ አዘዘው = he ordered him to come."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ቀጥተኛ ያልሆነ ንግግር (Reported Speech & Conjunctions)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 2)፡",
+                    "prompt": "«እንዲያጠና መከረው» የሚለው ሀረግ ምንን ያመለክታል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (22.2.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (22.2.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (22.2.3)።"
+                        "He forced him",
+                        "He advised him to study",
+                        "He punished him"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "እንዲያጠና መከረው = he advised him to study."
                 }
             ]
         },
@@ -11279,85 +11295,94 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ቀጥተኛ ያልሆነ ንግግር (Indirect Speech)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 22-2)?",
+                    "prompt": "የትኛው ዓረፍተ ነገር የቀጥተኛ ያልሆነ ትዕዛዝ አወቃቀርን (Indirect Command) ያሳያል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (22.2.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (22.2.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (22.2.3)።"
+                        "ዳቦ በላ (He ate bread)",
+                        "ደህንነታቸውን እንዲጠብቁ አሳሰበ (He urged them to maintain their safety)",
+                        "ወደ ገበያ ሄደች (She went to market)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "«ደህንነታቸውን እንዲጠብቁ አሳሰበ» represents a reported directive."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («አለ_22_2»):",
+                    "prompt": "Type the Amharic verb for 'he ordered / commanded' in Fidel script (አዘዘ):",
                     "acceptedAnswers": [
-                        "አለ_22_2"
+                        "አዘዘ",
+                        "azeze",
+                        "Azeze"
                     ],
-                    "explanation": "The target keyword was: 【አለ_22_2】"
+                    "explanation": "አዘዘ (Azeze) means 'he ordered / commanded'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u22-l3": {
         "id": "am-u22-l3",
-        "subject": "amharic",
-        "unit": 22,
-        "lessonNumber": 3,
-        "title": "ቀጥተኛ ያልሆነ ንግግር (Reported Speech & Conjunctions) (Part 3)",
+        "unit": "am-u22",
         "level": "B2",
-        "objective": "Comprehensive mastery of ቀጥተኛ ያልሆነ ንግግር (Indirect Speech).",
+        "objective": "Express reported beliefs, assumptions, epistemic uncertainty, and psychological attributions in Amharic using «እንደሆነ» (whether/that it is), «መስሎት» (thinking that / seeming to him), and «አስቦ» (assuming that).",
+        "prerequisites": [
+            "am-u22-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u22-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ቀጥተኛ ያልሆነ ንግግር (Indirect Speech) - ደረጃ 3) ተማሪዎች ስለ ቀጥተኛ ያልሆነ ንግግር (Indirect Speech) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Psychological assumptions, epistemic attitudes, and perceived realities in Amharic are communicated through specialized converbial constructions.\n\n1. Cognitive Attribution Structures:\n- **መስሎት** (Meslot — Seeming to him / Assuming mistakenly):\n  - «**እውነት መስሎት አመነ።**» (Thinking it was true, he believed it.)\n- **አስቦ** (Asibo — Thinking / Assuming):\n  - «**ጠቃሚ ነው ብሎ አስቦ ገዛው።**» (Assuming it was useful, he bought it.)\n- **እንደሆነ / እንዳልሆነ** (Inde-hone / Indal-hone — Whether it is or isn't):\n  - «**ስብሰባው ዛሬ እንደሆነ ጠየቀ።**» (He asked whether the meeting was today.)",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የቀጥተኛ ያልሆነ ንግግር (Indirect Speech) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (22.3.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "መንገዱ ክፍት መስሎት ጉዞውን ቢጀምርም በመንገድ ላይ የትራፊክ መጨናነቅ አጋጠመው።",
+                    "reading": "Mengedu kift meslot gizowun bījemirim bemenged lay yetirafik mech'enanneq agat'emew.",
+                    "translation": "Assuming the road was open, he began his journey, but encountered a traffic jam on the way."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (22.3.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የፈተናው ውጤት ዛሬ ይፋ እንደሆነ ወይም እንዳልሆነ ማረጋገጥ ይፈልጋል።",
+                    "reading": "Yefetenaw wut'ēt zarē yifa indehone weyim indalhone maregaget' yifeligal.",
+                    "translation": "He wants to verify whether the exam results were made public today or not."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (22.3.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ተመራማሪው አዲሱ ግኝት ለህክምናው ዘርፍ ከፍተኛ ጥቅም እንደሚያስገኝ በጽኑ ያምናል።",
+                    "reading": "Temarimarīw addīsu gignīt lehikminaw zerf kefitegna t'iqim indemīyasgegni bets'inu yamnal.",
+                    "translation": "The researcher firmly believes that the new discovery will bring substantial benefit to the medical sector."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ቀጥተኛ ያልሆነ ንግግር (Indirect Speech)"
+                "«መስሎት» = Presuming / Seeming to him! «እንደሆነ» = Whether/That it is!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "In traditional Amharic storytelling, ironic plot twists often revolve around the psychological gap signaled by «...መስሎት ነበር» (he had thought it was so, but reality differed)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ቀጥተኛ ያልሆነ ንግግር (Indirect Speech)» አጠቃቀም በደረጃ 3 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«እውነት መስሎት አመነ» ምን ማለት ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (22.3.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (22.3.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (22.3.3)።"
+                        "Thinking it was true, he believed it",
+                        "He knew it was a lie",
+                        "He refused to listen"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "መስሎት reflects subjective perception / assumption."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ቀጥተኛ ያልሆነ ንግግር (Reported Speech & Conjunctions)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 3)፡",
+                    "prompt": "«እንደሆነ ወይም እንዳልሆነ» ምንን ያሳያል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (22.3.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (22.3.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (22.3.3)።"
+                        "Certainty",
+                        "Whether it is or isn't (Alternative uncertainty)",
+                        "Past action"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "እንደሆነ ወይም እንዳልሆነ = whether it is or is not."
                 }
             ]
         },
@@ -11365,85 +11390,94 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ቀጥተኛ ያልሆነ ንግግር (Indirect Speech)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 22-3)?",
+                    "prompt": "የትኛው ቃል 'Thinking / Imagining that it was so' የሚለውን ውስጣዊ እምነት ያሳያል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (22.3.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (22.3.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (22.3.3)።"
+                        "ተኛ (He slept)",
+                        "ሮጠ (He ran)",
+                        "መስሎት (Meslot - Seeming to him)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "መስሎት (Meslot) denotes personal assumption or belief."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («አለ_22_3»):",
+                    "prompt": "Type the Amharic word for 'presuming / seeming to him' in Fidel script (መስሎት):",
                     "acceptedAnswers": [
-                        "አለ_22_3"
+                        "መስሎት",
+                        "meslot",
+                        "Meslot"
                     ],
-                    "explanation": "The target keyword was: 【አለ_22_3】"
+                    "explanation": "መስሎት (Meslot) means 'seeming to him / thinking that'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u22-l4": {
         "id": "am-u22-l4",
-        "subject": "amharic",
-        "unit": 22,
-        "lessonNumber": 4,
-        "title": "ቀጥተኛ ያልሆነ ንግግር (Reported Speech & Conjunctions) (Part 4)",
+        "unit": "am-u22",
         "level": "B2",
-        "objective": "Comprehensive mastery of ቀጥተኛ ያልሆነ ንግግር (Indirect Speech).",
+        "objective": "Deploy high-register logical sentence connectors in Amharic to structure persuasive discourse, including «ስለሆነም» (therefore/consequently), «ነገር ግን» (however/nevertheless), and «በተጨማሪም» (furthermore/in addition).",
+        "prerequisites": [
+            "am-u22-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u22-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ቀጥተኛ ያልሆነ ንግግር (Indirect Speech) - ደረጃ 4) ተማሪዎች ስለ ቀጥተኛ ያልሆነ ንግግር (Indirect Speech) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Formal argumentation in Amharic connects propositions logically using high-register connective adverbs.\n\n1. Logical Discourse Connectors:\n- **ስለሆነም / ስለዚህ** (Silzhonim / Silazīh — Therefore / Consequently / Hence)\n- **ነገር ግን / ይሁን እንጂ** (Neger gin / Yihun injī — However / Nevertheless / Yet)\n- **በተጨማሪም / ከዚህም በተጨማሪ** (Betech'emarīm — Furthermore / In addition / Moreover)\n- **በሌላ በኩል** (Belēla bekul — On the other hand)\n- **በአጠቃላይ** (Be'at'eqalay — In summary / Overall)",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የቀጥተኛ ያልሆነ ንግግር (Indirect Speech) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (22.4.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "የመጀመሪያው እቅድ በርካታ ክፍተቶች ነበሩበት፤ ስለሆነም አዲስ ስትራቴጂ መንደፍ አስፈለገ።",
+                    "reading": "Yemejemergiyaw iqid birkata kifitetoch neberubet; silehonim addīs stratējī mendef asfelege.",
+                    "translation": "The initial plan had numerous shortcomings; consequently, it became necessary to draft a new strategy."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (22.4.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የውድድሩ ተፎካካሪዎች ጠንካራ ዝግጅት አድርገው ነበር፤ ነገር ግን አሸናፊው ቡድን በላቀ ብልጫ አሸነፈ።",
+                    "reading": "Yewididiru tefokakarīwoch t'enkara zigijit adrigew neber; neger gin ashenafīw budin belaqe bilch'a ashenefe.",
+                    "translation": "The competition's rivals had prepared vigorously; however, the winning team triumphed by a superior margin."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (22.4.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ፕሮጀክቱ ለብዙ ዜጎች የስራ ዕድል ፈጥሯል፤ በተጨማሪም የከተማዋን ገጽታ በከፍተኛ ደረጃ ለውጦታል።",
+                    "reading": "Projektu lebizu zēgoch yesira idil fet'rwal; betech'emarīm yeketemawan getts'ita bekefitegna dereja lewt'otal.",
+                    "translation": "The project created jobs for many citizens; furthermore, it transformed the city's appearance significantly."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ቀጥተኛ ያልሆነ ንግግር (Indirect Speech)"
+                "«ስለሆነም» = Therefore! «ነገር ግን» = However! «በተጨማሪም» = Furthermore!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "In Ethiopian parliamentary discourse and formal debate, transitions with «ይሁን እንጂ» (however) and «ስለሆነም» (consequently) show sophisticated analytical deliberation."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ቀጥተኛ ያልሆነ ንግግር (Indirect Speech)» አጠቃቀም በደረጃ 4 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«ስለሆነም» ምን አይነት ምክንያታዊ ትስስርን ያሳያል?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (22.4.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (22.4.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (22.4.3)።"
+                        "Consequence / Result (Therefore / Consequently)",
+                        "Total contradiction",
+                        "Greeting"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "ስለሆነም indicates a logical consequence (therefore)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ቀጥተኛ ያልሆነ ንግግር (Reported Speech & Conjunctions)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 4)፡",
+                    "prompt": "«በተጨማሪም» የሚለው አገናኝ ቃል ምን ያመለክታል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (22.4.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (22.4.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (22.4.3)።"
+                        "Substraction",
+                        "Addition / Furthermore",
+                        "Questioning"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "በተጨማሪም = furthermore / in addition."
                 }
             ]
         },
@@ -11451,85 +11485,94 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ቀጥተኛ ያልሆነ ንግግር (Indirect Speech)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 22-4)?",
+                    "prompt": "የትኛው ቃል 'However / Nevertheless' የሚለውን ተቃርኖ ያሳያል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (22.4.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (22.4.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (22.4.3)።"
+                        "ስለዚህ (Therefore)",
+                        "ነገር ግን (However)",
+                        "በተጨማሪ (Additionally)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "ነገር ግን (Neger gin) means 'however / nevertheless'."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («አለ_22_4»):",
+                    "prompt": "Type the Amharic discourse marker for 'therefore / consequently' in Fidel script (ስለሆነም):",
                     "acceptedAnswers": [
-                        "አለ_22_4"
+                        "ስለሆነም",
+                        "silehonim",
+                        "Silehonim"
                     ],
-                    "explanation": "The target keyword was: 【አለ_22_4】"
+                    "explanation": "ስለሆነም (Silehonim) means 'therefore / consequently'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u22-l5": {
         "id": "am-u22-l5",
-        "subject": "amharic",
-        "unit": 22,
-        "lessonNumber": 5,
-        "title": "ቀጥተኛ ያልሆነ ንግግር (Reported Speech & Conjunctions) (Part 5)",
+        "unit": "am-u22",
         "level": "B2",
-        "objective": "Comprehensive mastery of ቀጥተኛ ያልሆነ ንግግር (Indirect Speech).",
+        "objective": "Synthesize reported speech markers, mandative directives, cognitive attributions, and advanced logical connectors into a realistic governmental press conference and diplomatic briefing in Amharic.",
+        "prerequisites": [
+            "am-u22-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u22-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ቀጥተኛ ያልሆነ ንግግር (Indirect Speech) - ደረጃ 5) ተማሪዎች ስለ ቀጥተኛ ያልሆነ ንግግር (Indirect Speech) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "This review synthesizes indirect reported speech, mandative directives, epistemic attributions, and logical discourse connectors into a high-stakes diplomatic press briefing.\n\n1. Briefing Syntactic Integration:\n- **Spokesperson Declaration:** «...በጋራ ለመስራት መስማማታቸውን ገለጹ» (They stated their agreement to work together...)\n- **Mandative Request:** «...ተግባራዊነት እንዲያረጋግጡ ጠየቁ» (Requested them to ensure execution...)\n- **Discourse Connectors:** «...ስለሆነም... በተጨማሪም... ነገር ግን...»\n- **Future Complementizer:** «...ተግባራዊ እንደሚሆን አስታወቁ» (Announced that it will be implemented...)",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የቀጥተኛ ያልሆነ ንግግር (Indirect Speech) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (22.5.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "የውጭ ጉዳይ ሚኒስቴር ቃል አቀባዩ ሁለቱ ሀገራት በንግድ እና በኢንቨስትመንት ዘርፍ በጋራ ለመስራት መስማማታቸውን ገለጹ።",
+                    "reading": "Yewuch' gudday minīstēr qal aqebayiw huletu hagerat benigd ina be'īnvestment zerf begara lemesrat mesmamatachewin geletsu.",
+                    "translation": "The Ministry of Foreign Affairs spokesperson stated that both nations agreed to collaborate in trade and investment sectors."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (22.5.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ቃል አቀባዩ አክለውም ሁሉም የሚመለከታቸው አካላት የውሳኔውን ተግባራዊነት እንዲያረጋግጡ ጠየቁ፤ በተጨማሪም አዲሱ መመሪያ ከሚቀጥለው ሳምንት ጀምሮ ተግባራዊ እንደሚሆን አስታወቁ።",
+                    "reading": "Qal aqebayiw aklewim hullum yemīmeleketachew akalat yewusanēwun tegbarawīnet indīyaregagit'u t'eyequ; betech'emarīm addīsu memerīya kemīqet'ilew samint jemiro tegbarawī indemīhon astawaqu.",
+                    "translation": "The spokesperson added, requesting all concerned bodies to ensure the execution of the decision; furthermore, they announced that the new guideline will be effective starting next week."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (22.5.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የአፈጻጸም ተግዳሮቶች መኖራቸው አልቀረም፤ ስለሆነም የክትትል ኮሚቴው ስራውን በቅርበት እንደሚቆጣጠር ተናገሩ።",
+                    "reading": "Ye'afets'ats'em tegidarotoch mennorachew alqerem; silehonim yekittitil komītēw sirawun beqirbet indemīqot'at'er tenageru.",
+                    "translation": "Implementation challenges inevitably exist; therefore, they stated that the oversight committee will closely monitor the operation."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ቀጥተኛ ያልሆነ ንግግር (Indirect Speech)"
+                "Reporting master: እንዳለ/እንደሆነ (reported speech) + እንዲ- (directives) + ስለሆነም/በተጨማሪም (connectors) = Executive eloquence!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "In official Ethiopian press briefings, spokespersons are respectfully referred to with plural honorific verb inflections («አስታወቁ», «ገለጹ») reflecting institutional dignity."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ቀጥተኛ ያልሆነ ንግግር (Indirect Speech)» አጠቃቀም በደረጃ 5 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "በጋዜጣዊ መግለጫ ውስጥ «ተግባራዊ እንደሚሆን አስታወቁ» ምንን ያመለክታል?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (22.5.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (22.5.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (22.5.3)።"
+                        "They announced that it will be implemented",
+                        "They cancelled the program",
+                        "They lost the document"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "ተግባራዊ እንደሚሆን አስታወቁ = they announced that it will be implemented."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ቀጥተኛ ያልሆነ ንግግር (Reported Speech & Conjunctions)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 5)፡",
+                    "prompt": "«ቃል አቀባይ» ምን ማለት ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (22.5.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (22.5.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (22.5.3)።"
+                        "Audience member",
+                        "Spokesperson / Press secretary",
+                        "Translator"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "ቃል አቀባይ (Qal aqebay) = spokesperson."
                 }
             ]
         },
@@ -11537,24 +11580,28 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ቀጥተኛ ያልሆነ ንግግር (Indirect Speech)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 22-5)?",
+                    "prompt": "የትኛው ዓረፍተ ነገር የጋዜጣዊ መግለጫን ቀጥተኛ ያልሆነ ንግግር ዘይቤ ያሳያል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (22.5.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (22.5.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (22.5.3)።"
+                        "ስምምነቱ ተግባራዊ እንደሚሆን ገለጹ (They explained that the treaty will be implemented)",
+                        "ልጁ ሮጠ (The boy ran)",
+                        "ትናንት በላሁ (I ate yesterday)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "explanation": "«ስምምነቱ ተግባራዊ እንደሚሆን ገለጹ» shows high-register indirect reported speech."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («አለ_22_5»):",
+                    "prompt": "Type the Amharic word for 'spokesperson' in Fidel script (ቃል አቀባይ):",
                     "acceptedAnswers": [
-                        "አለ_22_5"
+                        "ቃል አቀባይ",
+                        "qal aqebay",
+                        "Qal aqebay",
+                        "ቃለ አቀባይ"
                     ],
-                    "explanation": "The target keyword was: 【አለ_22_5】"
+                    "explanation": "ቃል አቀባይ (Qal aqebay) means 'spokesperson'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u23-l1": {
