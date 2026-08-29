@@ -1,6 +1,4 @@
-// Amharic curriculum — full CEFR A1–C2 roadmap (34 units, 170 lessons)
-(function (global) {
-  'use strict';
+(function(global) {
   var UNITS = [
     {
         "id": "am-u1",
@@ -10667,7 +10665,7 @@
             ]
         },
         "presentation": {
-            "explanation": "The Amharic subjunctive stem (ተስፋይ ግስ) expresses possibility, necessity, and obligation when paired with modal auxiliary verbs.\n\n1. Subjunctive Stem Formations:\n- **ጻፈ** -> **ይጻፍ** (Subjunctive stem: -ts'af-)\n- **ሄደ** -> **ይሂድ** (Subjunctive stem: -hīd-)\n- **መጣ** -> **ይምጣ** (Subjunctive stem: -mt'a-)\n- **ሰራ** -> **ይስራ** (Subjunctive stem: -sira-)\n\n2. Key Modal Auxiliaries:\n- **መቻል** (Ability/Possibility — Can / May):\n  - «**ሊመጣ ይችላል።**» (He can / might come.)\n  - «**ልንሰራ እንችላለን።**» (We can work.)\n- **አለበት** (Obligation — Must / Has to):\n  - «**መሄድ አለበት።**» (He must go.)\n- **ይገባል** (Moral Duty / Advisability — Should / Ought to):\n  - «**ሊያጠና ይገባል።**» (He ought to study.)",
+            "explanation": "በዚህ ክፍል ስለ አክሱም ስልጣኔ፣ የድንጋይ ላይ ጽሁፎች፣ የሳንቲም ቅርጾች እና ጥንታዊ ንግድ (Axumite Civilization & Epigraphy) በጥልቀት እንማራለን።\n\nየአክሱም ሃውልቶች እና የሳባውያን ጽሁፍ ታሪካዊ ፋይዳ፡ The Amharic subjunctive stem (ተስፋይ ግስ) expresses possibility, necessity, and obligation when paired with modal auxiliary verbs.\n\n1. Subjunctive Stem Formations:\n- **ጻፈ** -> **ይጻፍ** (Subjunctive stem: -ts'af-)\n- **ሄደ** -> **ይሂድ** (Subjunctive stem: -hīd-)\n- **መጣ** -> **ይምጣ** (Subjunctive stem: -mt'a-)\n- **ሰራ** -> **ይስራ** (Subjunctive stem: -sira-)\n\n2. Key Modal Auxiliaries:\n- **መቻል** (Ability/Possibility — Can / May):\n  - «**ሊመጣ ይችላል።**» (He can / might come.)\n  - «**ልንሰራ እንችላለን።**» (We can work.)\n- **አለበት** (Obligation — Must / Has to):\n  - «**መሄድ አለበት።**» (He must go.)\n- **ይገባል** (Moral Duty / Advisability — Should / Ought to):\n  - «**ሊያጠና ይገባል።**» (He ought to study.)",
             "examples": [
                 {
                     "target": "ተማሪው ለከፍተኛው ፈተና ዝግጅት በየቀኑ ቢያንስ አምስት ሰዓት ሊያጠና ይገባል።",
@@ -10762,7 +10760,7 @@
             ]
         },
         "presentation": {
-            "explanation": "Purposive clauses describe the goal or intention behind an action.\n\n1. The Purposive Prefix **እንዲ-** (Indī- — In order that / So that):\n- **እንዲሄድ** (Indīhēd — So that he may go)\n- **እንዲያውቅ** (Indīyawaq — So that he learns / knows)\n- **እንዲያጠና** (Indīyat'ena — So that he may study)\n- **እንድንረዳው** (Indiniredaw — So that we may help him)\n\n2. Negative Purpose with **እንዳይ-** (Inday- — Lest / So that... not):\n- **እንዳይረሳ** (Indayiresa — Lest he forget)\n- **እንዳይዘገይ** (Indayizegey — In order not to be late)\n\n3. Periphrastic Purpose «**ለ-... ብሎ**»:\n- «**ለትምህርት ብሎ ወደ ከተማ መጣ።**» (He came to town for the purpose of schooling.)",
+            "explanation": "በዚህ ክፍል ስለ አክሱም ስልጣኔ፣ የድንጋይ ላይ ጽሁፎች፣ የሳንቲም ቅርጾች እና ጥንታዊ ንግድ (Axumite Civilization & Epigraphy) በጥልቀት እንማራለን።\n\nየንጉስ ኢዛና የድንጋይ ላይ ጽሁፎች እና የክርስትና መስፋፋት፡ Purposive clauses describe the goal or intention behind an action.\n\n1. The Purposive Prefix **እንዲ-** (Indī- — In order that / So that):\n- **እንዲሄድ** (Indīhēd — So that he may go)\n- **እንዲያውቅ** (Indīyawaq — So that he learns / knows)\n- **እንዲያጠና** (Indīyat'ena — So that he may study)\n- **እንድንረዳው** (Indiniredaw — So that we may help him)\n\n2. Negative Purpose with **እንዳይ-** (Inday- — Lest / So that... not):\n- **እንዳይረሳ** (Indayiresa — Lest he forget)\n- **እንዳይዘገይ** (Indayizegey — In order not to be late)\n\n3. Periphrastic Purpose «**ለ-... ብሎ**»:\n- «**ለትምህርት ብሎ ወደ ከተማ መጣ።**» (He came to town for the purpose of schooling.)",
             "examples": [
                 {
                     "target": "መምህሩ ትምህርቱን ሁሉም ተማሪዎች በውል እንዲረዱት በዝርዝር አብራራ።",
@@ -10857,7 +10855,7 @@
             ]
         },
         "presentation": {
-            "explanation": "Optative, cohortative, and jussive forms express polite wishes, collective resolutions, and solemn blessings.\n\n1. First Person Cohortative Forms:\n- **ልሂድ** (Lihīd — Let me go / May I go)\n- **እንሂድ** (Inihīd — Let's go!)\n- **ልጠይቅህ** (Lit'eyiqih — Let me ask you)\n- **እንጀምር** (Inijemir — Let us start!)\n\n2. Third Person Jussive & Optative Wishes:\n- **ይሁን** (Yihun — Let it be / So be it / Amen)\n- **ይድረስ** (Yidres — May it reach / Attain)\n- **ይቅርታ ያድርጉልኝ** (Yiqirta yadrigulign — May you grant me forgiveness / Excuse me)\n\n3. Prohibitive & Negative Jussive:\n- **አይሁን** (Ayihun — Let it not be / May it never happen)",
+            "explanation": "በዚህ ክፍል ስለ አክሱም ስልጣኔ፣ የድንጋይ ላይ ጽሁፎች፣ የሳንቲም ቅርጾች እና ጥንታዊ ንግድ (Axumite Civilization & Epigraphy) በጥልቀት እንማራለን።\n\nየአክሱም የወርቅ፣ የብር እና የነሐስ ሳንቲሞች የንግድ ስርዓት፡ Optative, cohortative, and jussive forms express polite wishes, collective resolutions, and solemn blessings.\n\n1. First Person Cohortative Forms:\n- **ልሂድ** (Lihīd — Let me go / May I go)\n- **እንሂድ** (Inihīd — Let's go!)\n- **ልጠይቅህ** (Lit'eyiqih — Let me ask you)\n- **እንጀምር** (Inijemir — Let us start!)\n\n2. Third Person Jussive & Optative Wishes:\n- **ይሁን** (Yihun — Let it be / So be it / Amen)\n- **ይድረስ** (Yidres — May it reach / Attain)\n- **ይቅርታ ያድርጉልኝ** (Yiqirta yadrigulign — May you grant me forgiveness / Excuse me)\n\n3. Prohibitive & Negative Jussive:\n- **አይሁን** (Ayihun — Let it not be / May it never happen)",
             "examples": [
                 {
                     "target": "ውድ እንግዶች ሆይ፣ አሁን ወደ ዋናው የመርሃ ግብራችን ውይይት በይፋ እንለፍ።",
@@ -10952,7 +10950,7 @@
             ]
         },
         "presentation": {
-            "explanation": "Counterfactual conditionals describe hypothetical past circumstances that did not occur.\n\n1. Counterfactual Syntactic Formula:\n- Protasis: **ቢ-** + Subjunctive Stem + **ኖሮ** (Noro)\n- Apodosis: Imperfective / Past Verb + **ነበር** (Neber)\n- Examples:\n  - «**ቢመጣ ኖሮ እናየው ነበር።**» (Had he come, we would have seen him.)\n  - «**ባውቅ ኖሮ አስቀድሜ እነግርህ ነበር።**» (Had I known, I would have told you in advance.)\n  - «**ዝናብ ባይዘንብ ኖሮ ጉዟችንን እንቀጥል ነበር።**» (Had it not rained, we would have continued our trip.)",
+            "explanation": "በዚህ ክፍል ስለ አክሱም ስልጣኔ፣ የድንጋይ ላይ ጽሁፎች፣ የሳንቲም ቅርጾች እና ጥንታዊ ንግድ (Axumite Civilization & Epigraphy) በጥልቀት እንማራለን።\n\nየአዱሊስ ወደብ እና የቀይ ባህር ዓለም አቀፍ ንግድ መስመር፡ Counterfactual conditionals describe hypothetical past circumstances that did not occur.\n\n1. Counterfactual Syntactic Formula:\n- Protasis: **ቢ-** + Subjunctive Stem + **ኖሮ** (Noro)\n- Apodosis: Imperfective / Past Verb + **ነበር** (Neber)\n- Examples:\n  - «**ቢመጣ ኖሮ እናየው ነበር።**» (Had he come, we would have seen him.)\n  - «**ባውቅ ኖሮ አስቀድሜ እነግርህ ነበር።**» (Had I known, I would have told you in advance.)\n  - «**ዝናብ ባይዘንብ ኖሮ ጉዟችንን እንቀጥል ነበር።**» (Had it not rained, we would have continued our trip.)",
             "examples": [
                 {
                     "target": "የአየር ሁኔታው አስቀድሞ ጥሩ ቢሆን ኖሮ አውሮፕላኑ በሰዓቱ ይበር ነበር።",
@@ -11047,7 +11045,7 @@
             ]
         },
         "presentation": {
-            "explanation": "This lesson synthesizes modals, purposive subordinations, optative expressions, and counterfactual evaluations into strategic development policy discourse.\n\n1. Integrated Discourse Strands:\n- **Modal Obligation:** «...ዘመናዊ ቴክኖሎጂዎችን ልንጠቀም ይገባል» (We ought to utilize modern tech...)\n- **Purposive Design:** «...ሀብት ለህዝቡ... ጥቅም እንዲውል...» (So that wealth serves the public...)\n- **Potential Capability:** «...የላቀ ስኬት ልናስመዘግብ እንችላለን» (We can achieve superior success...)\n- **Optative Blessing:** «...ለህዝባችን ዘላቂ ሰላም እና ብልጽግና ይድረሱ» (May they attain enduring peace...)",
+            "explanation": "በዚህ ክፍል ስለ አክሱም ስልጣኔ፣ የድንጋይ ላይ ጽሁፎች፣ የሳንቲም ቅርጾች እና ጥንታዊ ንግድ (Axumite Civilization & Epigraphy) በጥልቀት እንማራለን።\n\nየአክሱም ስልጣኔ አጠቃላይ የታሪክ እና የቅርስ ውይይት፡ This lesson synthesizes modals, purposive subordinations, optative expressions, and counterfactual evaluations into strategic development policy discourse.\n\n1. Integrated Discourse Strands:\n- **Modal Obligation:** «...ዘመናዊ ቴክኖሎጂዎችን ልንጠቀም ይገባል» (We ought to utilize modern tech...)\n- **Purposive Design:** «...ሀብት ለህዝቡ... ጥቅም እንዲውል...» (So that wealth serves the public...)\n- **Potential Capability:** «...የላቀ ስኬት ልናስመዘግብ እንችላለን» (We can achieve superior success...)\n- **Optative Blessing:** «...ለህዝባችን ዘላቂ ሰላም እና ብልጽግና ይድረሱ» (May they attain enduring peace...)",
             "examples": [
                 {
                     "target": "የሀገራችን የተፈጥሮ ሀብት ለህዝቡ ሁለንተናዊ ጥቅም እንዲውል ዘመናዊ ቴክኖሎጂዎችን ልንጠቀም ይገባል።",
@@ -11142,7 +11140,7 @@
             ]
         },
         "presentation": {
-            "explanation": "Indirect reported speech (ቀጥተኛ ያልሆነ ንግግር) in Amharic shifts direct utterances into subordinate clauses using complementizer **እንደ-** (Inde- — that) or the gerund **ብሎ** (Bilo — saying).\n\n1. Complementizer Prefix **እንደ-** with Reporting Verbs:\n- «**ነገ እንደሚመጣ ገለጸ።**» (He stated that he will come tomorrow.)\n- «**ስራውን እንዳጠናቀቀ ተናገረ።**» (He said that he completed the work.)\n- «**ሁኔታው ጥሩ እንደሆነ አስታወቀ።**» (He announced that the situation was good.)\n\n2. Direct Quote with Converb **ብሎ** (Bilo):\n- «**በቅርቡ እመለሳለሁ ብሎ ተናገረ።**» (He spoke, saying he would return soon.)\n\n3. Person & Pronoun Shifts:\nDirect 1st-person speech ('I will come') shifts to 3rd-person relative form («እንደሚመጣ») in reported speech.",
+            "explanation": "በዚህ ክፍል ስለ ላሊበላ ውቅር አብያተ ክርስቲያናት፣ የዛግዌ ስርወ-መንግስት እና የስነ-ህንፃ ጥበብ (Lalibela Rock-Hewn Architecture) በጥልቀት እንማራለን።\n\nየላሊበላ ከአንድ ወጥ ድንጋይ የተቀረጹ 11 ውቅር አብያተ ክርስቲያናት፡ Indirect reported speech (ቀጥተኛ ያልሆነ ንግግር) in Amharic shifts direct utterances into subordinate clauses using complementizer **እንደ-** (Inde- — that) or the gerund **ብሎ** (Bilo — saying).\n\n1. Complementizer Prefix **እንደ-** with Reporting Verbs:\n- «**ነገ እንደሚመጣ ገለጸ።**» (He stated that he will come tomorrow.)\n- «**ስራውን እንዳጠናቀቀ ተናገረ።**» (He said that he completed the work.)\n- «**ሁኔታው ጥሩ እንደሆነ አስታወቀ።**» (He announced that the situation was good.)\n\n2. Direct Quote with Converb **ብሎ** (Bilo):\n- «**በቅርቡ እመለሳለሁ ብሎ ተናገረ።**» (He spoke, saying he would return soon.)\n\n3. Person & Pronoun Shifts:\nDirect 1st-person speech ('I will come') shifts to 3rd-person relative form («እንደሚመጣ») in reported speech.",
             "examples": [
                 {
                     "target": "ሚኒስትሩ የኢኮኖሚው እድገት በሚቀጥለው ዓመት እንደሚጨምር በይፋ ገለጹ።",
@@ -11238,7 +11236,7 @@
             ]
         },
         "presentation": {
-            "explanation": "When reporting commands, imperatives, and directives in Amharic, the direct command converts into a subjunctive clause governed by **እንዲ-** (Indī-).\n\n1. Reported Directive Formulas:\n- Direct: «ቶሎ ና!» አለው። (\"Come quickly!\" he said.)\n- Indirect: «**ቶሎ እንዲመጣ አዘዘው።**» (He ordered him to come quickly.)\n- Direct: «እባክህ እርዳኝ» አለችው። (\"Please help me,\" she said.)\n- Indirect: «**እንድትረዳው ጠየቃት።**» (He asked her to help him.)\n\n2. Key Directive Verbs:\n- **አዘዘ** (Azeze) — Commanded / Ordered\n- **ጠየቀ** (T'eyeqe) — Requested / Asked\n- **መከረ** (Mekere) — Advised / Counseled\n- **አሳሰበ** (Asassebe) — Urged / Reminded",
+            "explanation": "በዚህ ክፍል ስለ ላሊበላ ውቅር አብያተ ክርስቲያናት፣ የዛግዌ ስርወ-መንግስት እና የስነ-ህንፃ ጥበብ (Lalibela Rock-Hewn Architecture) በጥልቀት እንማራለን።\n\nየቤተ ጊዮርጊስ የመስቀል ቅርጽ ስነ-ህንፃ እና የውሃ ቦዮች ምህንድስና፡ When reporting commands, imperatives, and directives in Amharic, the direct command converts into a subjunctive clause governed by **እንዲ-** (Indī-).\n\n1. Reported Directive Formulas:\n- Direct: «ቶሎ ና!» አለው። (\"Come quickly!\" he said.)\n- Indirect: «**ቶሎ እንዲመጣ አዘዘው።**» (He ordered him to come quickly.)\n- Direct: «እባክህ እርዳኝ» አለችው። (\"Please help me,\" she said.)\n- Indirect: «**እንድትረዳው ጠየቃት።**» (He asked her to help him.)\n\n2. Key Directive Verbs:\n- **አዘዘ** (Azeze) — Commanded / Ordered\n- **ጠየቀ** (T'eyeqe) — Requested / Asked\n- **መከረ** (Mekere) — Advised / Counseled\n- **አሳሰበ** (Asassebe) — Urged / Reminded",
             "examples": [
                 {
                     "target": "ዳኛው ምስክሩ እውነቱን ብቻ እንዲናገር እና ፍርድ ቤቱን እንዳያታልል አዘዙ።",
@@ -11333,7 +11331,7 @@
             ]
         },
         "presentation": {
-            "explanation": "Psychological assumptions, epistemic attitudes, and perceived realities in Amharic are communicated through specialized converbial constructions.\n\n1. Cognitive Attribution Structures:\n- **መስሎት** (Meslot — Seeming to him / Assuming mistakenly):\n  - «**እውነት መስሎት አመነ።**» (Thinking it was true, he believed it.)\n- **አስቦ** (Asibo — Thinking / Assuming):\n  - «**ጠቃሚ ነው ብሎ አስቦ ገዛው።**» (Assuming it was useful, he bought it.)\n- **እንደሆነ / እንዳልሆነ** (Inde-hone / Indal-hone — Whether it is or isn't):\n  - «**ስብሰባው ዛሬ እንደሆነ ጠየቀ።**» (He asked whether the meeting was today.)",
+            "explanation": "በዚህ ክፍል ስለ ላሊበላ ውቅር አብያተ ክርስቲያናት፣ የዛግዌ ስርወ-መንግስት እና የስነ-ህንፃ ጥበብ (Lalibela Rock-Hewn Architecture) በጥልቀት እንማራለን።\n\nየዛግዌ ስርወ-መንግስት ታሪክ፣ የሮሃ መንግስት እና የቅዱስ ላሊበላ ራዕይ፡ Psychological assumptions, epistemic attitudes, and perceived realities in Amharic are communicated through specialized converbial constructions.\n\n1. Cognitive Attribution Structures:\n- **መስሎት** (Meslot — Seeming to him / Assuming mistakenly):\n  - «**እውነት መስሎት አመነ።**» (Thinking it was true, he believed it.)\n- **አስቦ** (Asibo — Thinking / Assuming):\n  - «**ጠቃሚ ነው ብሎ አስቦ ገዛው።**» (Assuming it was useful, he bought it.)\n- **እንደሆነ / እንዳልሆነ** (Inde-hone / Indal-hone — Whether it is or isn't):\n  - «**ስብሰባው ዛሬ እንደሆነ ጠየቀ።**» (He asked whether the meeting was today.)",
             "examples": [
                 {
                     "target": "መንገዱ ክፍት መስሎት ጉዞውን ቢጀምርም በመንገድ ላይ የትራፊክ መጨናነቅ አጋጠመው።",
@@ -11428,7 +11426,7 @@
             ]
         },
         "presentation": {
-            "explanation": "Formal argumentation in Amharic connects propositions logically using high-register connective adverbs.\n\n1. Logical Discourse Connectors:\n- **ስለሆነም / ስለዚህ** (Silzhonim / Silazīh — Therefore / Consequently / Hence)\n- **ነገር ግን / ይሁን እንጂ** (Neger gin / Yihun injī — However / Nevertheless / Yet)\n- **በተጨማሪም / ከዚህም በተጨማሪ** (Betech'emarīm — Furthermore / In addition / Moreover)\n- **በሌላ በኩል** (Belēla bekul — On the other hand)\n- **በአጠቃላይ** (Be'at'eqalay — In summary / Overall)",
+            "explanation": "በዚህ ክፍል ስለ ላሊበላ ውቅር አብያተ ክርስቲያናት፣ የዛግዌ ስርወ-መንግስት እና የስነ-ህንፃ ጥበብ (Lalibela Rock-Hewn Architecture) በጥልቀት እንማራለን።\n\nየላሊበላ ጥንታዊ የብራና መጻሕፍት እና የወርቅ መስቀሎች ጥበቃ፡ Formal argumentation in Amharic connects propositions logically using high-register connective adverbs.\n\n1. Logical Discourse Connectors:\n- **ስለሆነም / ስለዚህ** (Silzhonim / Silazīh — Therefore / Consequently / Hence)\n- **ነገር ግን / ይሁን እንጂ** (Neger gin / Yihun injī — However / Nevertheless / Yet)\n- **በተጨማሪም / ከዚህም በተጨማሪ** (Betech'emarīm — Furthermore / In addition / Moreover)\n- **በሌላ በኩል** (Belēla bekul — On the other hand)\n- **በአጠቃላይ** (Be'at'eqalay — In summary / Overall)",
             "examples": [
                 {
                     "target": "የመጀመሪያው እቅድ በርካታ ክፍተቶች ነበሩበት፤ ስለሆነም አዲስ ስትራቴጂ መንደፍ አስፈለገ።",
@@ -11523,7 +11521,7 @@
             ]
         },
         "presentation": {
-            "explanation": "This review synthesizes indirect reported speech, mandative directives, epistemic attributions, and logical discourse connectors into a high-stakes diplomatic press briefing.\n\n1. Briefing Syntactic Integration:\n- **Spokesperson Declaration:** «...በጋራ ለመስራት መስማማታቸውን ገለጹ» (They stated their agreement to work together...)\n- **Mandative Request:** «...ተግባራዊነት እንዲያረጋግጡ ጠየቁ» (Requested them to ensure execution...)\n- **Discourse Connectors:** «...ስለሆነም... በተጨማሪም... ነገር ግን...»\n- **Future Complementizer:** «...ተግባራዊ እንደሚሆን አስታወቁ» (Announced that it will be implemented...)",
+            "explanation": "በዚህ ክፍል ስለ ላሊበላ ውቅር አብያተ ክርስቲያናት፣ የዛግዌ ስርወ-መንግስት እና የስነ-ህንፃ ጥበብ (Lalibela Rock-Hewn Architecture) በጥልቀት እንማራለን።\n\nየላሊበላ ስነ-ህንፃ እና የባህል ቅርስ ማጠቃለያ ውይይት፡ This review synthesizes indirect reported speech, mandative directives, epistemic attributions, and logical discourse connectors into a high-stakes diplomatic press briefing.\n\n1. Briefing Syntactic Integration:\n- **Spokesperson Declaration:** «...በጋራ ለመስራት መስማማታቸውን ገለጹ» (They stated their agreement to work together...)\n- **Mandative Request:** «...ተግባራዊነት እንዲያረጋግጡ ጠየቁ» (Requested them to ensure execution...)\n- **Discourse Connectors:** «...ስለሆነም... በተጨማሪም... ነገር ግን...»\n- **Future Complementizer:** «...ተግባራዊ እንደሚሆን አስታወቁ» (Announced that it will be implemented...)",
             "examples": [
                 {
                     "target": "የውጭ ጉዳይ ሚኒስቴር ቃል አቀባዩ ሁለቱ ሀገራት በንግድ እና በኢንቨስትመንት ዘርፍ በጋራ ለመስራት መስማማታቸውን ገለጹ።",
@@ -11619,7 +11617,7 @@
             ]
         },
         "presentation": {
-            "explanation": "The traditional Ethiopian Coffee Ceremony (የቡና ስነ-ስርዓት) is an essential social and hospitality ritual.\n\n1. Ceremonial Paraphernalia & Staging:\n- **ጀበና** (Jebena — Spherical clay coffee pot with spout)\n- **ብረት ምጣድ** (Biret mit'ad — Iron roasting pan)\n- **ሙቀጫ እና ዘነዘና** (Muqech'a & Zenezena — Wooden mortar & pestle)\n- **ሲኒ** (Sinī — Small handleless ceramic cups)\n- **ረከቦት** (Rekebot — Wooden serving tray for cups)\n- **ዕጣን** (It'an — Aromatic frankincense)\n- **ቄጠማ** (Qēt'ema — Fresh green grass carpet)\n\n2. The Three Traditional Pouring Rounds:\n- 1. **አቦል** (Abol — First, strongest brew poured for respected elders)\n- 2. **ቶና** (Tona — Second brew)\n- 3. **በረካ** (Bereka — Third brew signifying communal blessing and farewell)",
+            "explanation": "በዚህ ክፍል ስለ ጎንደር ቤተ-መንግስታት፣ የፋሲል ግቢ ስነ-ህንፃ እና የ17ኛው መቶ ክፍለ ዘመን ታሪክ (Gondarine Castles & Imperial Court) በጥልቀት እንማራለን።\n\nየፋሲል ግቢ ቤተ-መንግስታት እና የ17ኛው መቶ ክፍለ ዘመን የጎንደር ስልጣኔ፡ The traditional Ethiopian Coffee Ceremony (የቡና ስነ-ስርዓት) is an essential social and hospitality ritual.\n\n1. Ceremonial Paraphernalia & Staging:\n- **ጀበና** (Jebena — Spherical clay coffee pot with spout)\n- **ብረት ምጣድ** (Biret mit'ad — Iron roasting pan)\n- **ሙቀጫ እና ዘነዘና** (Muqech'a & Zenezena — Wooden mortar & pestle)\n- **ሲኒ** (Sinī — Small handleless ceramic cups)\n- **ረከቦት** (Rekebot — Wooden serving tray for cups)\n- **ዕጣን** (It'an — Aromatic frankincense)\n- **ቄጠማ** (Qēt'ema — Fresh green grass carpet)\n\n2. The Three Traditional Pouring Rounds:\n- 1. **አቦል** (Abol — First, strongest brew poured for respected elders)\n- 2. **ቶና** (Tona — Second brew)\n- 3. **በረካ** (Bereka — Third brew signifying communal blessing and farewell)",
             "examples": [
                 {
                     "target": "እናትየው አረንጓዴውን የቡና ፍሬ በምጣዱ ላይ እያሸተተች ካቆላች በኋላ በሙቀጫ ወቅጣ በጀበናው አፈላችው።",
@@ -11714,7 +11712,7 @@
             ]
         },
         "presentation": {
-            "explanation": "Ethiopian cuisine centers around communal sharing and sourdough injera flatbread.\n\n1. Essential Culinary Vocabulary:\n- **እንጀራ** (Injera — Spongy sourdough bread fermented from indigenous teff / **ጤፍ**)\n- **መሶብ** (Mesob — Colorful woven wicker dining table)\n- **ዶሮ ወጥ** (Doro wet' — Slow-cooked spicy chicken stew with boiled eggs)\n- **ክትፎ** (Kitfo — Minced seasoned beef with clarified butter / **ንጥር ቅቤ**)\n- **ሽሮ ወጥ** (Shiro wet' — Spiced powdered chickpea/legume puree)\n\n2. The Custom of **ጉርሻ** (Gursha):\nHand-feeding a bite directly into a dining companion's mouth as an intimate symbol of friendship, familial bond, and deep respect.",
+            "explanation": "በዚህ ክፍል ስለ ጎንደር ቤተ-መንግስታት፣ የፋሲል ግቢ ስነ-ህንፃ እና የ17ኛው መቶ ክፍለ ዘመን ታሪክ (Gondarine Castles & Imperial Court) በጥልቀት እንማራለን።\n\nየደብረ ብርሃን ስላሴ ቤተክርስቲያን የጣሪያ ላይ የኪሩቤል ስዕሎች ጥበብ፡ Ethiopian cuisine centers around communal sharing and sourdough injera flatbread.\n\n1. Essential Culinary Vocabulary:\n- **እንጀራ** (Injera — Spongy sourdough bread fermented from indigenous teff / **ጤፍ**)\n- **መሶብ** (Mesob — Colorful woven wicker dining table)\n- **ዶሮ ወጥ** (Doro wet' — Slow-cooked spicy chicken stew with boiled eggs)\n- **ክትፎ** (Kitfo — Minced seasoned beef with clarified butter / **ንጥር ቅቤ**)\n- **ሽሮ ወጥ** (Shiro wet' — Spiced powdered chickpea/legume puree)\n\n2. The Custom of **ጉርሻ** (Gursha):\nHand-feeding a bite directly into a dining companion's mouth as an intimate symbol of friendship, familial bond, and deep respect.",
             "examples": [
                 {
                     "target": "በበዓል ቀን ቤተሰቡ በመሶቡ ዙሪያ ተሰብስቦ ጣፋጭ የዶሮ ወጥ በእንጀራ አብሮ ይመገባል።",
@@ -11809,7 +11807,7 @@
             ]
         },
         "presentation": {
-            "explanation": "Handwoven textiles and annual festivals represent iconic expressions of Ethiopian living heritage.\n\n1. Traditional Textiles & Garments:\n- **ሸማ** (Shema — Pure handwoven cotton cloth)\n- **ሀበሻ ቀሚስ** (Habesha qemīs — Flowing traditional white dress)\n- **ጥበብ** (T'ibeb — Ornate geometric embroidery along hemlines and borders)\n- **ነጠላ** (Net'ela — Elegant two-ply cotton scarf/shawl)\n- **ጋቢ** (Gabī — Thick four-ply warming blanket)\n\n2. Grand National Holidays:\n- **እንቁጣጣሽ** (Inqut'at'ash — Ethiopian New Year on Meskerem 1 / September)\n- **መስቀል** (Meskel — Demera bonfire celebration)\n- **ጥምቀት** (T'imqet — Epiphany outdoor Tabot processions)",
+            "explanation": "በዚህ ክፍል ስለ ጎንደር ቤተ-መንግስታት፣ የፋሲል ግቢ ስነ-ህንፃ እና የ17ኛው መቶ ክፍለ ዘመን ታሪክ (Gondarine Castles & Imperial Court) በጥልቀት እንማራለን።\n\nየፋሲል መዋኛ ገንዳ፣ የጥምቀት በዓል አከባበር እና የውሃ ምህንድስና፡ Handwoven textiles and annual festivals represent iconic expressions of Ethiopian living heritage.\n\n1. Traditional Textiles & Garments:\n- **ሸማ** (Shema — Pure handwoven cotton cloth)\n- **ሀበሻ ቀሚስ** (Habesha qemīs — Flowing traditional white dress)\n- **ጥበብ** (T'ibeb — Ornate geometric embroidery along hemlines and borders)\n- **ነጠላ** (Net'ela — Elegant two-ply cotton scarf/shawl)\n- **ጋቢ** (Gabī — Thick four-ply warming blanket)\n\n2. Grand National Holidays:\n- **እንቁጣጣሽ** (Inqut'at'ash — Ethiopian New Year on Meskerem 1 / September)\n- **መስቀል** (Meskel — Demera bonfire celebration)\n- **ጥምቀት** (T'imqet — Epiphany outdoor Tabot processions)",
             "examples": [
                 {
                     "target": "በጥምቀት በዓል ዕለት ወጣቶች ያማረ የሀበሻ ልብስ ለብሰው እና ነጠላ ደርበው በታቦቱ ፊት ይዘምራሉ።",
@@ -11905,7 +11903,7 @@
             ]
         },
         "presentation": {
-            "explanation": "Indigenous acoustic instruments form the sonic landscape of Ethiopian folklore and celebrations.\n\n1. Traditional Instruments:\n- **መሰንቆ** (Masenqo — Single-stringed diamond-shaped bowed lute played by minstrels: **አዝማሪ**)\n- **ክራር** (Krar — 5- or 6-string bowl lyre)\n- **ዋሽንት** (Washint — End-blown cane/bamboo flute)\n- **ከበሮ** (Kebero — Large double-headed drum)\n\n2. Festive Vocal and Dance Expressions:\n- **እልልታ** (Ililta — Joyous rhythmic high-pitched ululation voiced by women)\n- **እስክስታ** (Iskista — Energetic shoulder-dance unique to Ethiopian highlands)",
+            "explanation": "በዚህ ክፍል ስለ ጎንደር ቤተ-መንግስታት፣ የፋሲል ግቢ ስነ-ህንፃ እና የ17ኛው መቶ ክፍለ ዘመን ታሪክ (Gondarine Castles & Imperial Court) በጥልቀት እንማራለን።\n\nየእቴጌ ምንትዋብ የቁስቋም ቤተ-መንግስት እና የሴቶች የታሪክ ሚና፡ Indigenous acoustic instruments form the sonic landscape of Ethiopian folklore and celebrations.\n\n1. Traditional Instruments:\n- **መሰንቆ** (Masenqo — Single-stringed diamond-shaped bowed lute played by minstrels: **አዝማሪ**)\n- **ክራር** (Krar — 5- or 6-string bowl lyre)\n- **ዋሽንት** (Washint — End-blown cane/bamboo flute)\n- **ከበሮ** (Kebero — Large double-headed drum)\n\n2. Festive Vocal and Dance Expressions:\n- **እልልታ** (Ililta — Joyous rhythmic high-pitched ululation voiced by women)\n- **እስክስታ** (Iskista — Energetic shoulder-dance unique to Ethiopian highlands)",
             "examples": [
                 {
                     "target": "አዝማሪው በመሰንቆው እያጀበ በሰርግ አዳራሽ ውስጥ ለሙሽሮቹ አስደናቂ የግጥም ስንኞችን ተቀኘ።",
@@ -12001,7 +11999,7 @@
             ]
         },
         "presentation": {
-            "explanation": "This lesson unifies the cultural tapestry of Ethiopia into an authentic documentary narration.\n\n1. Comprehensive Synthesis Points:\n- **Coffee Ritual:** «የቡናው በረካ...» (The blessing round of coffee...)\n- **Communal Feast:** «የመሶቡ ጉርሻ...» (The affection of table gursha...)\n- **Living Traditions:** «በሀበሻ ልብስ ተውቦ...» (Adorned in Habesha attire...)\n- **Acoustic Soul:** «በመሰንቆ እና ክራር ዜማ... የእናቶች እልልታ...» (Masenqo and krar melodies... mothers' ululations...)",
+            "explanation": "በዚህ ክፍል ስለ ጎንደር ቤተ-መንግስታት፣ የፋሲል ግቢ ስነ-ህንፃ እና የ17ኛው መቶ ክፍለ ዘመን ታሪክ (Gondarine Castles & Imperial Court) በጥልቀት እንማራለን።\n\nየጎንደር ዘመን ታሪክ፣ ስነ-ጥበብ እና ስነ-ህንፃ ማጠቃለያ ውይይት፡ This lesson unifies the cultural tapestry of Ethiopia into an authentic documentary narration.\n\n1. Comprehensive Synthesis Points:\n- **Coffee Ritual:** «የቡናው በረካ...» (The blessing round of coffee...)\n- **Communal Feast:** «የመሶቡ ጉርሻ...» (The affection of table gursha...)\n- **Living Traditions:** «በሀበሻ ልብስ ተውቦ...» (Adorned in Habesha attire...)\n- **Acoustic Soul:** «በመሰንቆ እና ክራር ዜማ... የእናቶች እልልታ...» (Masenqo and krar melodies... mothers' ululations...)",
             "examples": [
                 {
                     "target": "የኢትዮጵያ ባህላዊ ቅርስ በቡና ስነ-ስርዓቱ፣ በማዕድ አንድነቱ እና በኪነ-ጥበቡ ውበት የታነጸ ድንቅ የታሪክ አሻራ ነው።",
@@ -12097,7 +12095,7 @@
             ]
         },
         "presentation": {
-            "explanation": "The rhetorical philosophy of «ሰምና ወርቅ» (Wax and Gold) is the pinnacle of Ethiopian poetic expression.\n\n1. Wax and Gold Structure:\n- **ሰም** (Sem — Wax / Surface meaning: the literal, visible formulation)\n- **ወርቅ** (Werq — Gold / Inner meaning: the esoteric, satirical, or spiritual reality)\n- **ህብር** (Hibir — The pivot homophone linking the two meanings)\n\n2. The Art of **ቅኔ** (Qenē):\nStrictly metered, extemporaneous Ge'ez and Amharic poetry utilizing double-entendre to praise, satirize, or philosophize with deep subtlety.",
+            "explanation": "በዚህ ክፍል ስለ ቅዱስ ያሬድ ዜማ፣ ጾመ ጽጓ፣ መልክአ ምስክር እና ባህላዊ የሙዚቃ መሳሪያዎች (Saint Yared Hymnology & Traditional Music) በጥልቀት እንማራለን።\n\nየቅዱስ ያሬድ የዜማ ስርዓት፣ ግዕዝ፣ ዕዝል እና አራራይ ስልቶች፡ The rhetorical philosophy of «ሰምና ወርቅ» (Wax and Gold) is the pinnacle of Ethiopian poetic expression.\n\n1. Wax and Gold Structure:\n- **ሰም** (Sem — Wax / Surface meaning: the literal, visible formulation)\n- **ወርቅ** (Werq — Gold / Inner meaning: the esoteric, satirical, or spiritual reality)\n- **ህብር** (Hibir — The pivot homophone linking the two meanings)\n\n2. The Art of **ቅኔ** (Qenē):\nStrictly metered, extemporaneous Ge'ez and Amharic poetry utilizing double-entendre to praise, satirize, or philosophize with deep subtlety.",
             "examples": [
                 {
                     "target": "የሰምና ወርቅ ቅኔ ውበት ግልጽ ከሆነው የውጭ ትርጉም (ሰም) ጀርባ የተሰወረውን ጥልቅ ምስጢር (ወርቅ) ማውጣት ላይ ነው።",
@@ -12193,7 +12191,7 @@
             ]
         },
         "presentation": {
-            "explanation": "Ge'ez manuscript culture and Saint Yared's 6th-century musical system underpin Ethiopia's intellectual legacy.\n\n1. Manuscript Legacy:\n- **ግዕዝ** (Ge'ez — Classical Semitic liturgical tongue)\n- **ብራና** (Birana — Vellum animal-skin parchment for sacred texts)\n- **ድርሳናት** (Dirsanat — Chronicles, homilies, and historical treatises)\n\n2. The Three Modes of **ያሬዳዊ ዜማ** (Yaredic Chants):\n- 1. **ግዕዝ** (Ge'ez — Plain, direct liturgical mode)\n- 2. **ዕዝል** (Izil — Solemn, heavy festive mode)\n- 3. **አራራይ** (Araray — Melancholic, emotional penitential mode)",
+            "explanation": "በዚህ ክፍል ስለ ቅዱስ ያሬድ ዜማ፣ ጾመ ጽጓ፣ መልክአ ምስክር እና ባህላዊ የሙዚቃ መሳሪያዎች (Saint Yared Hymnology & Traditional Music) በጥልቀት እንማራለን።\n\nየጾመ ጽጓ፣ መልክአ ምስክር እና የቅኔ ቤቶች የዜማ ትምህርት፡ Ge'ez manuscript culture and Saint Yared's 6th-century musical system underpin Ethiopia's intellectual legacy.\n\n1. Manuscript Legacy:\n- **ግዕዝ** (Ge'ez — Classical Semitic liturgical tongue)\n- **ብራና** (Birana — Vellum animal-skin parchment for sacred texts)\n- **ድርሳናት** (Dirsanat — Chronicles, homilies, and historical treatises)\n\n2. The Three Modes of **ያሬዳዊ ዜማ** (Yaredic Chants):\n- 1. **ግዕዝ** (Ge'ez — Plain, direct liturgical mode)\n- 2. **ዕዝል** (Izil — Solemn, heavy festive mode)\n- 3. **አራራይ** (Araray — Melancholic, emotional penitential mode)",
             "examples": [
                 {
                     "target": "የቅዱስ ያሬድ ዜማ በስድስተኛው መቶ ክፍለ ዘመን የተፈጠረ ድንቅ ጥንታዊ የዜማ ምልክቶች ያሉት የቤተክርስቲያን ቅርስ ነው።",
@@ -12289,7 +12287,7 @@
             ]
         },
         "presentation": {
-            "explanation": "Modern Ethiopian vernacular literature flourished in the 20th century across novel and theatrical drama.\n\n1. Literary Genres & Terminology:\n- **ልቦለድ** (Lib-woled — Novel / Fiction prose; literally 'born of the heart')\n- **ተውኔት** (Tewnēt — Stage play / Dramatic theatre)\n- **ግጥም** (Git'im — Poetry / Verse)\n- **ደራሲ** (Derasī — Author / Novelist)\n- **ገጸ-ባህሪ** (Getse-bahirī — Character / Persona)\n\n2. Canonical Luminaries:\n- **ሀዲስ አለማየሁ** (Haddis Alemayehu — Author of *ፍቅር እስከ መቃብር*)\n- **ሎሬት ፀጋዬ ገብረመድህን** (Laureate Tsegaye Gebre-Medhin — Playwright & Poet)\n- **በዓሉ ግርማ** (Be'alu Girma — Novelist of *ኦሮማይ*)",
+            "explanation": "በዚህ ክፍል ስለ ቅዱስ ያሬድ ዜማ፣ ጾመ ጽጓ፣ መልክአ ምስክር እና ባህላዊ የሙዚቃ መሳሪያዎች (Saint Yared Hymnology & Traditional Music) በጥልቀት እንማራለን።\n\nባህላዊ የሙዚቃ መሳሪያዎች፡ ክራር፣ መሰንቆ፣ ዋሽንት እና ከበሮ፡ Modern Ethiopian vernacular literature flourished in the 20th century across novel and theatrical drama.\n\n1. Literary Genres & Terminology:\n- **ልቦለድ** (Lib-woled — Novel / Fiction prose; literally 'born of the heart')\n- **ተውኔት** (Tewnēt — Stage play / Dramatic theatre)\n- **ግጥም** (Git'im — Poetry / Verse)\n- **ደራሲ** (Derasī — Author / Novelist)\n- **ገጸ-ባህሪ** (Getse-bahirī — Character / Persona)\n\n2. Canonical Luminaries:\n- **ሀዲስ አለማየሁ** (Haddis Alemayehu — Author of *ፍቅር እስከ መቃብር*)\n- **ሎሬት ፀጋዬ ገብረመድህን** (Laureate Tsegaye Gebre-Medhin — Playwright & Poet)\n- **በዓሉ ግርማ** (Be'alu Girma — Novelist of *ኦሮማይ*)",
             "examples": [
                 {
                     "target": "የደራሲ ሀዲስ አለማየሁ «ፍቅር እስከ መቃብር» ድንቅ ልቦለድ በኢትዮጵያ ስነ-ጽሁፍ ውስጥ ከፍተኛ ክብር አለው።",
@@ -12385,7 +12383,7 @@
             ]
         },
         "presentation": {
-            "explanation": "Visual arts in Ethiopia bridge centuries of ecclesiastical iconography with modern fine arts.\n\n1. Ecclesiastical Wall Paintings:\n- **ቅዱሳን ምስሎች** (Qidusan misiloch — Sacred iconography with expressive wide eyes)\n- **የደብረ ብርሃን ስላሴ መላእክት** (Winged angel frescoes adorning church ceilings in Gondar)\n\n2. Modern Fine Art Figures:\n- **ሰዓሊ** (Se'alī — Painter / Visual artist)\n- **ሜትር አርቲስት አፈወርቅ ተክሌ** (Maitre Artiste Afewerk Tekle — Famed for Africa Hall stained glass)\n- **ስኩንደር ቦጎሲያን** (Skunder Boghossian — Pioneer of African modernist painting)",
+            "explanation": "በዚህ ክፍል ስለ ቅዱስ ያሬድ ዜማ፣ ጾመ ጽጓ፣ መልክአ ምስክር እና ባህላዊ የሙዚቃ መሳሪያዎች (Saint Yared Hymnology & Traditional Music) በጥልቀት እንማራለን።\n\nየኢትዮጵያ ባህላዊ ውዝዋዜዎች፡ እስክስታ፣ ጉራጌኛ፣ ኦሮሚኛ እና ትግርኛ፡ Visual arts in Ethiopia bridge centuries of ecclesiastical iconography with modern fine arts.\n\n1. Ecclesiastical Wall Paintings:\n- **ቅዱሳን ምስሎች** (Qidusan misiloch — Sacred iconography with expressive wide eyes)\n- **የደብረ ብርሃን ስላሴ መላእክት** (Winged angel frescoes adorning church ceilings in Gondar)\n\n2. Modern Fine Art Figures:\n- **ሰዓሊ** (Se'alī — Painter / Visual artist)\n- **ሜትር አርቲስት አፈወርቅ ተክሌ** (Maitre Artiste Afewerk Tekle — Famed for Africa Hall stained glass)\n- **ስኩንደር ቦጎሲያን** (Skunder Boghossian — Pioneer of African modernist painting)",
             "examples": [
                 {
                     "target": "በጎንደር የሚገኘው የደብረ ብርሃን ስላሴ ቤተክርስቲያን ጣሪያ ላይ የተሳሉት የመላእክት ፊቶች በዓለም አቀፍ ደረጃ እጅግ የታወቁ ናቸው።",
@@ -12481,7 +12479,7 @@
             ]
         },
         "presentation": {
-            "explanation": "This lesson consolidates literary theory, classical hymnology, vernacular novels, and fine art criticism into a high-level arts symposium.\n\n1. Key Symposium Strands:\n- **Poetic Rhetoric:** «የሰምና ወርቅ ጥበብ...» (The art of Wax and Gold...)\n- **Hymnology:** «የያሬዳዊ ዜማ ቅላጼ...» (The tonality of Yaredic chants...)\n- **Literary Narrative:** «ከጥንታዊው የቅኔ ፍልስፍና እስከ ዘመናዊው ልቦለድ...» (From ancient Qenē to modern novels...)\n- **Visual Art:** «የኢትዮጵያ ስነ-ስዕል እና ኪነ-ጥበብ...» (Ethiopian visual art and aesthetics...)",
+            "explanation": "በዚህ ክፍል ስለ ቅዱስ ያሬድ ዜማ፣ ጾመ ጽጓ፣ መልክአ ምስክር እና ባህላዊ የሙዚቃ መሳሪያዎች (Saint Yared Hymnology & Traditional Music) በጥልቀት እንማራለን።\n\nየኢትዮጵያ የሙዚቃ እና የዜማ ቅርስ አጠቃላይ ማጠቃለያ፡ This lesson consolidates literary theory, classical hymnology, vernacular novels, and fine art criticism into a high-level arts symposium.\n\n1. Key Symposium Strands:\n- **Poetic Rhetoric:** «የሰምና ወርቅ ጥበብ...» (The art of Wax and Gold...)\n- **Hymnology:** «የያሬዳዊ ዜማ ቅላጼ...» (The tonality of Yaredic chants...)\n- **Literary Narrative:** «ከጥንታዊው የቅኔ ፍልስፍና እስከ ዘመናዊው ልቦለድ...» (From ancient Qenē to modern novels...)\n- **Visual Art:** «የኢትዮጵያ ስነ-ስዕል እና ኪነ-ጥበብ...» (Ethiopian visual art and aesthetics...)",
             "examples": [
                 {
                     "target": "በዚህ ብሄራዊ የኪነ-ጥበብ አውደ ጥናት ላይ ከጥንታዊው የቅኔ ፍልስፍና እስከ ዘመናዊው ልቦለድ እና ስነ-ስዕል የተደረገው እድገት ተገመገመ።",
@@ -12579,7 +12577,7 @@
             ]
         },
         "presentation": {
-            "explanation": "The Aksumite Empire (የአክሱም ስልጣኔ) flourished as a global commercial and naval powerhouse from the 1st millennium BCE to the 10th century CE.\n\n1. Key Civilizational Markers:\n- **የአክሱም ሀውልት** (Aksum Stelae — Towering monolithic granite obelisks carved with faux windows and doors)\n- **የአክሱም ሳንቲም** (Aksumite Currency — Ancient gold, silver, and bronze coins bearing Greek and Ge'ez inscriptions)\n- **ታቦተ ጽዮን** (Ark of the Covenant housed at Church of Our Lady Mary of Zion in Aksum)\n- **ንግስተ ሳባ እና ቀዳማዊ ምኒልክ** (The historical foundation chronicled in the *ክብረ ነገስት*).",
+            "explanation": "በዚህ ክፍል ስለ ባህላዊ የሽምግልና ስርዓት፣ የዕርቅ ዳኝነት፣ እቁብ፣ እድር እና የሀገር በቀል እደ ጥበብ (Customary Law, Conflict Resolution & Mutual Aid) በጥልቀት እንማራለን።\n\nየአገር ሽማግሌዎች የዕርቅ ሚና እና ባህላዊ የፍትህ ስርዓት፡ The Aksumite Empire (የአክሱም ስልጣኔ) flourished as a global commercial and naval powerhouse from the 1st millennium BCE to the 10th century CE.\n\n1. Key Civilizational Markers:\n- **የአክሱም ሀውልት** (Aksum Stelae — Towering monolithic granite obelisks carved with faux windows and doors)\n- **የአክሱም ሳንቲም** (Aksumite Currency — Ancient gold, silver, and bronze coins bearing Greek and Ge'ez inscriptions)\n- **ታቦተ ጽዮን** (Ark of the Covenant housed at Church of Our Lady Mary of Zion in Aksum)\n- **ንግስተ ሳባ እና ቀዳማዊ ምኒልክ** (The historical foundation chronicled in the *ክብረ ነገስት*).",
             "examples": [
                 {
                     "target": "የአክሱም ሀውልቶች የጥንታውያን ኢትዮጵያውያን የምህንድስና ጥበብ እና የስነ-ህንጻ ምጥቀት ድንቅ ማሳያዎች ናቸው።",
@@ -12676,7 +12674,7 @@
             ]
         },
         "presentation": {
-            "explanation": "The rock-hewn monolithic churches of Lalibela (የላሊበላ ውቅር አብያተ ክርስቲያናት) represent an unparalleled zenith of medieval rock engineering.\n\n1. Architectural Highlights:\n- **ውቅር አብያተ ክርስቲያናት** (Subterranean monolithic churches carved top-down from living bedrock)\n- **ቤተ ጊዮርጊስ** (Bēte Gīyorgīs — Free-standing cruciform monolithic church)\n- **ቤተ መድኃኔዓለም** (Bēte Medhanē-Alem — Largest monolithic rock church on Earth)\n- **ሮሃ** (Roha — Ancient name of Lalibela envisioned as a New Jerusalem).",
+            "explanation": "በዚህ ክፍል ስለ ባህላዊ የሽምግልና ስርዓት፣ የዕርቅ ዳኝነት፣ እቁብ፣ እድር እና የሀገር በቀል እደ ጥበብ (Customary Law, Conflict Resolution & Mutual Aid) በጥልቀት እንማራለን።\n\nየቄስ ትምህርት ቤት፣ ፊደል፣ ንባብ እና የዜማ ጉባኤ ቤቶች፡ The rock-hewn monolithic churches of Lalibela (የላሊበላ ውቅር አብያተ ክርስቲያናት) represent an unparalleled zenith of medieval rock engineering.\n\n1. Architectural Highlights:\n- **ውቅር አብያተ ክርስቲያናት** (Subterranean monolithic churches carved top-down from living bedrock)\n- **ቤተ ጊዮርጊስ** (Bēte Gīyorgīs — Free-standing cruciform monolithic church)\n- **ቤተ መድኃኔዓለም** (Bēte Medhanē-Alem — Largest monolithic rock church on Earth)\n- **ሮሃ** (Roha — Ancient name of Lalibela envisioned as a New Jerusalem).",
             "examples": [
                 {
                     "target": "የላሊበላ ውቅር አብያተ ክርስቲያናት ከአንድ ወጥ ቀይ እሳተ-ገሞራ አለት ተፈልፍለው የተሰሩ አስደናቂ የስነ-ህንጻ ድንቆች ናቸው።",
@@ -12772,7 +12770,7 @@
             ]
         },
         "presentation": {
-            "explanation": "The Gondarine era (1636–1855) introduced permanent stone castles and imperial urbanism to Ethiopia.\n\n1. Gondar Architecture:\n- **ፋሲል ግቢ** (Fasil Ghebbi — Fortified imperial compound with castles, banquet halls, and libraries)\n- **አጼ ፋሲለደስ** (Emperor Fasilides — Founded Gondar as permanent capital in 1636)\n- **የፋሲል መዋኛ / ጥምቀተ ባህር** (Fasilides' Bath — Two-story sunken pavilion used for Epiphany baptismal ceremonies)\n- **ደብረ ብርሃን ስላሴ** (Iconic church with winged angel ceiling murals).",
+            "explanation": "በዚህ ክፍል ስለ ባህላዊ የሽምግልና ስርዓት፣ የዕርቅ ዳኝነት፣ እቁብ፣ እድር እና የሀገር በቀል እደ ጥበብ (Customary Law, Conflict Resolution & Mutual Aid) በጥልቀት እንማራለን።\n\nየእቁብ የቁጠባ ስርዓት እና የእድር የጋራ መረዳጃ ማህበራት፡ The Gondarine era (1636–1855) introduced permanent stone castles and imperial urbanism to Ethiopia.\n\n1. Gondar Architecture:\n- **ፋሲል ግቢ** (Fasil Ghebbi — Fortified imperial compound with castles, banquet halls, and libraries)\n- **አጼ ፋሲለደስ** (Emperor Fasilides — Founded Gondar as permanent capital in 1636)\n- **የፋሲል መዋኛ / ጥምቀተ ባህር** (Fasilides' Bath — Two-story sunken pavilion used for Epiphany baptismal ceremonies)\n- **ደብረ ብርሃን ስላሴ** (Iconic church with winged angel ceiling murals).",
             "examples": [
                 {
                     "target": "አጼ ፋሲለደስ በጎንደር የመሰረቱት ፋሲል ግቢ የአውሮፓ፣ የአረብ እና የሀገር በቀል ጥበብ የተዋሃደበት ድንቅ ቤተ መንግስት ነው።",
@@ -12869,7 +12867,7 @@
             ]
         },
         "presentation": {
-            "explanation": "The Battle of Adwa (የዐድዋ ድል — March 1, 1896) stands as an epochal victory for African independence against colonial expansionism.\n\n1. Key Historical Concepts:\n- **የዐድዋ ድል** (Victory of Adwa — Crushing defeat of Italian colonial forces)\n- **አጼ ምኒልክ ሁለተኛ** (Emperor Menelik II — Sovereign commander)\n- **እቴጌ ጣይቱ ብጡል** (Empress Taytu Betul — Master strategist)\n- **የውጫሌ ውል** (Treaty of Wuchale — The abrogated colonial treaty)\n- **ሉዓላዊነት** (National Sovereignty & Territorial Integrity).",
+            "explanation": "በዚህ ክፍል ስለ ባህላዊ የሽምግልና ስርዓት፣ የዕርቅ ዳኝነት፣ እቁብ፣ እድር እና የሀገር በቀል እደ ጥበብ (Customary Law, Conflict Resolution & Mutual Aid) በጥልቀት እንማራለን።\n\nሀገር በቀል የእደ-ጥበብ ስራዎች፣ የጥበብ ሽመና እና የሸክላ ስራ፡ The Battle of Adwa (የዐድዋ ድል — March 1, 1896) stands as an epochal victory for African independence against colonial expansionism.\n\n1. Key Historical Concepts:\n- **የዐድዋ ድል** (Victory of Adwa — Crushing defeat of Italian colonial forces)\n- **አጼ ምኒልክ ሁለተኛ** (Emperor Menelik II — Sovereign commander)\n- **እቴጌ ጣይቱ ብጡል** (Empress Taytu Betul — Master strategist)\n- **የውጫሌ ውል** (Treaty of Wuchale — The abrogated colonial treaty)\n- **ሉዓላዊነት** (National Sovereignty & Territorial Integrity).",
             "examples": [
                 {
                     "target": "የዐድዋ ድል መላው ጥቁር ህዝብ ለነፃነቱ እና ለሉዓላዊነቱ እንዲታገል መንገድ የከፈተ ታላቅ የታሪክ ምዕራፍ ነው።",
@@ -12965,7 +12963,7 @@
             ]
         },
         "presentation": {
-            "explanation": "This lesson synthesizes three millennia of continuous Ethiopian statehood and architectural brilliance into a cohesive historiographical narrative.\n\n1. Four Pillars of Civilization:\n- **Aksum:** Ancient monolithic obelisks and currency\n- **Lalibela:** 12th-century subterranean rock churches\n- **Gondar:** 17th-century medieval imperial castles\n- **Adwa:** 1896 decisive victory preserving national sovereignty.",
+            "explanation": "በዚህ ክፍል ስለ ባህላዊ የሽምግልና ስርዓት፣ የዕርቅ ዳኝነት፣ እቁብ፣ እድር እና የሀገር በቀል እደ ጥበብ (Customary Law, Conflict Resolution & Mutual Aid) በጥልቀት እንማራለን።\n\nየኢትዮጵያ ማህበራዊ ተቋማት እና ባህላዊ እሴቶች ማጠቃለያ፡ This lesson synthesizes three millennia of continuous Ethiopian statehood and architectural brilliance into a cohesive historiographical narrative.\n\n1. Four Pillars of Civilization:\n- **Aksum:** Ancient monolithic obelisks and currency\n- **Lalibela:** 12th-century subterranean rock churches\n- **Gondar:** 17th-century medieval imperial castles\n- **Adwa:** 1896 decisive victory preserving national sovereignty.",
             "examples": [
                 {
                     "target": "የኢትዮጵያ ታሪክ ከአክሱም ጥንታዊ ስልጣኔ እና ከላሊበላ ውቅር ጥበብ እስከ ጎንደር ግንቦች እና የዐድዋ ድል ድረስ የተዘረጋ ያልተቋረጠ የስልጣኔ ሰንሰለት ነው።",
@@ -13061,7 +13059,7 @@
             ]
         },
         "presentation": {
-            "explanation": "Ethiopian legal jurisprudence evolved from canonical medieval codifications to constitutional democracy.\n\n1. Key Legal Concepts:\n- **ፍትሐ ነገሥት** (Fetha Nagast — Ancient 'Law of the Kings' legal and civil code)\n- **ሕገ-መንግሥት** (Hige-mengist — Supreme Constitution)\n- **የህግ የበላይነት** (Ye-hig belayinet — The Rule of Law)\n- **ድንጋጌ** (Dingagē — Statutory legal provision / Article)\n- **ተፈጻሚነት** (Tefets'amīnet — Legal enforceability / Applicability).",
+            "explanation": "በዚህ ክፍል ስለ ህገ-መንግስት ታሪክ፣ የፓርላማ ስርዓት፣ የፍትህ ተቋማት እና የህዝብ አስተዳደር (Constitutional Governance & Jurisprudence) በጥልቀት እንማራለን።\n\nየህገ-መንግስት ታሪክ፣ የፌዴሬሽን እና የህዝብ ተወካዮች ምክር ቤት፡ Ethiopian legal jurisprudence evolved from canonical medieval codifications to constitutional democracy.\n\n1. Key Legal Concepts:\n- **ፍትሐ ነገሥት** (Fetha Nagast — Ancient 'Law of the Kings' legal and civil code)\n- **ሕገ-መንግሥት** (Hige-mengist — Supreme Constitution)\n- **የህግ የበላይነት** (Ye-hig belayinet — The Rule of Law)\n- **ድንጋጌ** (Dingagē — Statutory legal provision / Article)\n- **ተፈጻሚነት** (Tefets'amīnet — Legal enforceability / Applicability).",
             "examples": [
                 {
                     "target": "ሕገ-መንግሥቱ የሀገሪቱ የበላይ ህግ ሲሆን፣ ማንኛውም ሌላ ህግ ከእሱ ጋር የሚቃረን ከሆነ ተፈጻሚነት አይኖረውም።",
@@ -13160,7 +13158,7 @@
             ]
         },
         "presentation": {
-            "explanation": "Litigation and courtroom adjudication follow precise procedural terminology in Amharic.\n\n1. Courtroom Terminology:\n- **ከሳሽ** (Kesash — Plaintiff / Prosecuting party)\n- **ተከሳሽ** (Tekesash — Defendant / Accused)\n- **ዳኛ** (Dagna — Judge / Adjudicator)\n- **ማስረጃ** (Masrejja — Legal evidence / Exhibits)\n- **ምስክር** (Misikir — Witness testimony)\n- **ፍርድ / ውሳኔ** (Fird / Wisanē — Judgement / Verdict)\n- **ይግባኝ** (Yigbagn — Appeal to a higher court).",
+            "explanation": "በዚህ ክፍል ስለ ህገ-መንግስት ታሪክ፣ የፓርላማ ስርዓት፣ የፍትህ ተቋማት እና የህዝብ አስተዳደር (Constitutional Governance & Jurisprudence) በጥልቀት እንማራለን።\n\nየጠቅላይ ፍርድ ቤት አወቃቀር፣ የዳኝነት ነፃነት እና ህጋዊ ሂደት፡ Litigation and courtroom adjudication follow precise procedural terminology in Amharic.\n\n1. Courtroom Terminology:\n- **ከሳሽ** (Kesash — Plaintiff / Prosecuting party)\n- **ተከሳሽ** (Tekesash — Defendant / Accused)\n- **ዳኛ** (Dagna — Judge / Adjudicator)\n- **ማስረጃ** (Masrejja — Legal evidence / Exhibits)\n- **ምስክር** (Misikir — Witness testimony)\n- **ፍርድ / ውሳኔ** (Fird / Wisanē — Judgement / Verdict)\n- **ይግባኝ** (Yigbagn — Appeal to a higher court).",
             "examples": [
                 {
                     "target": "ዳኛው የግራ ቀኙን ክርክር እና የቀረቡትን የጽሁፍ ማስረጃዎች ከመረመሩ በኋላ የመጨረሻውን ፍርድ ሰጡ።",
@@ -13257,7 +13255,7 @@
             ]
         },
         "presentation": {
-            "explanation": "Legislative governance and parliamentary processes center on statutory enactments.\n\n1. Legislative Architecture:\n- **የሕዝብ ተወካዮች ምክር ቤት** (House of Peoples' Representatives — Lower house enacting federal legislation)\n- **የፌዴሬሽን ምክር ቤት** (House of Federation — Upper house representing ethnic nations and interpreting the constitution)\n- **ረቂቅ ህግ** (Reqīq hig — Draft bill undergoing reading and committee debate)\n- **አዋጅ** (Awaj — Enacted proclamation published in the *ነጋሪት ጋዜጣ*)\n- **ማጽደቅ** (Mats'deq — To ratify / pass legislation).",
+            "explanation": "በዚህ ክፍል ስለ ህገ-መንግስት ታሪክ፣ የፓርላማ ስርዓት፣ የፍትህ ተቋማት እና የህዝብ አስተዳደር (Constitutional Governance & Jurisprudence) በጥልቀት እንማራለን።\n\nየሲቪል ሰርቪስ አሰራር፣ የህዝብ አገልግሎት እና የመልካም አስተዳደር መርሆዎች፡ Legislative governance and parliamentary processes center on statutory enactments.\n\n1. Legislative Architecture:\n- **የሕዝብ ተወካዮች ምክር ቤት** (House of Peoples' Representatives — Lower house enacting federal legislation)\n- **የፌዴሬሽን ምክር ቤት** (House of Federation — Upper house representing ethnic nations and interpreting the constitution)\n- **ረቂቅ ህግ** (Reqīq hig — Draft bill undergoing reading and committee debate)\n- **አዋጅ** (Awaj — Enacted proclamation published in the *ነጋሪት ጋዜጣ*)\n- **ማጽደቅ** (Mats'deq — To ratify / pass legislation).",
             "examples": [
                 {
                     "target": "የሕዝብ ተወካዮች ምክር ቤት በቀረበው ረቂቅ ህግ ላይ ከተወያየ በኋላ በአብላጫ ድምፅ አዋጅ አድርጎ አጸደቀው።",
@@ -13352,7 +13350,7 @@
             ]
         },
         "presentation": {
-            "explanation": "International law and diplomatic agreements regulate inter-state diplomacy and multilateral relations.\n\n1. Diplomatic Terminology:\n- **ስምምነት** (Simiminet — Treaty / Accord / Convention)\n- **የሁለትዮሽ ግንኙነት** (Yehuleteyosh ginignunet — Bilateral relations)\n- **የብዙሃን ወገን ስምምነት** (Yebizuhan-wegen simiminet — Multilateral convention)\n- **አምባሳደር** (Ambasader — Ambassador)\n- **ሉዓላዊ እኩልነት** (Lu'alawī ikkulinet — Sovereign equality of nations)\n- **ዲፕሎማሲያዊ ያለመከሰስ መብት** (Diplomatic immunity).",
+            "explanation": "በዚህ ክፍል ስለ ህገ-መንግስት ታሪክ፣ የፓርላማ ስርዓት፣ የፍትህ ተቋማት እና የህዝብ አስተዳደር (Constitutional Governance & Jurisprudence) በጥልቀት እንማራለን።\n\nየሰብአዊ መብቶች ጥበቃ፣ የእንባ ጠባቂ ተቋም እና ህጋዊ ተጠያቂነት፡ International law and diplomatic agreements regulate inter-state diplomacy and multilateral relations.\n\n1. Diplomatic Terminology:\n- **ስምምነት** (Simiminet — Treaty / Accord / Convention)\n- **የሁለትዮሽ ግንኙነት** (Yehuleteyosh ginignunet — Bilateral relations)\n- **የብዙሃን ወገን ስምምነት** (Yebizuhan-wegen simiminet — Multilateral convention)\n- **አምባሳደር** (Ambasader — Ambassador)\n- **ሉዓላዊ እኩልነት** (Lu'alawī ikkulinet — Sovereign equality of nations)\n- **ዲፕሎማሲያዊ ያለመከሰስ መብት** (Diplomatic immunity).",
             "examples": [
                 {
                     "target": "ሁለቱ ሀገራት በንግድ፣ በኢንቨስትመንት እና በቴክኖሎጂ ሽግግር ዙሪያ ታሪካዊ የሁለትዮሽ ስምምነት ተፈራረሙ።",
@@ -13448,7 +13446,7 @@
             ]
         },
         "presentation": {
-            "explanation": "This lesson consolidates constitutional jurisprudence, statutory enactment, judicial litigation, and international treaty compliance into a high-level appellate courtroom simulation.\n\n1. Legal Synthesis Dimensions:\n- **Constitutional Supremacy:** «ሕገ-መንግሥታዊ ድንጋጌዎችን መሰረት በማድረግ...»\n- **Legislative Conformity:** «የህግ አውጪው አካል ያወጣው አዋጅ...»\n- **Judicial Independence:** «ገለልተኛ ዳኝነት እና የፍትህ ስርዓት...»\n- **International Law:** «ዓለም አቀፍ የሰብአዊ መብቶች ስምምነቶች...»",
+            "explanation": "በዚህ ክፍል ስለ ህገ-መንግስት ታሪክ፣ የፓርላማ ስርዓት፣ የፍትህ ተቋማት እና የህዝብ አስተዳደር (Constitutional Governance & Jurisprudence) በጥልቀት እንማራለን።\n\nየመንግስት አስተዳደር፣ ፍትህ እና ተቋማዊ ዲሞክራሲ ማጠቃለያ፡ This lesson consolidates constitutional jurisprudence, statutory enactment, judicial litigation, and international treaty compliance into a high-level appellate courtroom simulation.\n\n1. Legal Synthesis Dimensions:\n- **Constitutional Supremacy:** «ሕገ-መንግሥታዊ ድንጋጌዎችን መሰረት በማድረግ...»\n- **Legislative Conformity:** «የህግ አውጪው አካል ያወጣው አዋጅ...»\n- **Judicial Independence:** «ገለልተኛ ዳኝነት እና የፍትህ ስርዓት...»\n- **International Law:** «ዓለም አቀፍ የሰብአዊ መብቶች ስምምነቶች...»",
             "examples": [
                 {
                     "target": "የፌዴራል ጠቅላይ ፍርድ ቤት ሕገ-መንግሥታዊ ድንጋጌዎችን እና ዓለም አቀፍ የሰብአዊ መብቶች ስምምነቶችን መሰረት በማድረግ ፍርድ ሰጠ።",
@@ -13545,7 +13543,7 @@
             ]
         },
         "presentation": {
-            "explanation": "Macroeconomic analysis focuses on broad systemic economic performance.\n\n1. Macroeconomic Terminology:\n- **የሀገር ውስጥ አጠቃላይ ምርት** (Yehager wust at'eqallay mirt — Gross Domestic Product / GDP)\n- **የዋጋ ግሽበት** (Yewaga gishibet — Inflation rate / CPI elevation)\n- **የመግዛት አቅም** (Yemegzat aqim — Purchasing power of households)\n- **የገበያ መረጋጋት** (Yegebeya meregagat — Market stability)\n- **የኢኮኖሚ እድገት ምጣኔ** (Ye'īkonomī idiget mit'anē — Annual economic growth rate).",
+            "explanation": "በዚህ ክፍል ስለ ማክሮ-ኢኮኖሚክስ፣ ብሔራዊ ባንክ፣ የቡና ንግድ፣ የገበያ ግብይት እና የኢንዱስትሪ ፓርኮች (Macroeconomics, Finance & Commodity Trade) በጥልቀት እንማራለን።\n\nየማክሮ-ኢኮኖሚክስ ፖሊሲ፣ የዋጋ ግሽበት ቁጥጥር እና የብሔራዊ ባንክ ሚና፡ Macroeconomic analysis focuses on broad systemic economic performance.\n\n1. Macroeconomic Terminology:\n- **የሀገር ውስጥ አጠቃላይ ምርት** (Yehager wust at'eqallay mirt — Gross Domestic Product / GDP)\n- **የዋጋ ግሽበት** (Yewaga gishibet — Inflation rate / CPI elevation)\n- **የመግዛት አቅም** (Yemegzat aqim — Purchasing power of households)\n- **የገበያ መረጋጋት** (Yegebeya meregagat — Market stability)\n- **የኢኮኖሚ እድገት ምጣኔ** (Ye'īkonomī idiget mit'anē — Annual economic growth rate).",
             "examples": [
                 {
                     "target": "የሀገር ውስጥ አጠቃላይ ምርት (GDP) እድገት የዜጎችን የመግዛት አቅም ከማሻሻል እና የዋጋ ግሽበትን ከመቆጣጠር ጋር የተቆራኘ ነው።",
@@ -13642,7 +13640,7 @@
             ]
         },
         "presentation": {
-            "explanation": "The banking sector and central monetary policy govern financial intermediation and currency stability.\n\n1. Banking System Concepts:\n- **የኢትዮጵያ ብሔራዊ ባንክ** (National Bank of Ethiopia — Central Bank)\n- **የገንዘብ ፖሊሲ** (Monetary policy)\n- **የወለድ መጠን** (Interest rate)\n- **የውጭ ምንዛሪ ክምችት** (Foreign exchange reserves)\n- **ብድር እና ቁጠባ** (Credit loans and domestic savings mobilization)\n- **ዲጂታል ክፍያ** (Digital payments & mobile money).",
+            "explanation": "በዚህ ክፍል ስለ ማክሮ-ኢኮኖሚክስ፣ ብሔራዊ ባንክ፣ የቡና ንግድ፣ የገበያ ግብይት እና የኢንዱስትሪ ፓርኮች (Macroeconomics, Finance & Commodity Trade) በጥልቀት እንማራለን።\n\nየኢትዮጵያ ምርት ገበያ (ECX) እና ዓለም አቀፍ የቡና ንግድ አሰራር፡ The banking sector and central monetary policy govern financial intermediation and currency stability.\n\n1. Banking System Concepts:\n- **የኢትዮጵያ ብሔራዊ ባንክ** (National Bank of Ethiopia — Central Bank)\n- **የገንዘብ ፖሊሲ** (Monetary policy)\n- **የወለድ መጠን** (Interest rate)\n- **የውጭ ምንዛሪ ክምችት** (Foreign exchange reserves)\n- **ብድር እና ቁጠባ** (Credit loans and domestic savings mobilization)\n- **ዲጂታል ክፍያ** (Digital payments & mobile money).",
             "examples": [
                 {
                     "target": "የኢትዮጵያ ብሔራዊ ባንክ የወለድ ምጣኔን እና የውጭ ምንዛሪ ስርዓትን በማስተካከል የገንዘብ አቅርቦትን ይቆጣጠራል።",
@@ -13739,7 +13737,7 @@
             ]
         },
         "presentation": {
-            "explanation": "Agricultural exports form the bedrock of Ethiopia's international commodity commerce.\n\n1. Commodity Trade & ECX:\n- **የኢትዮጵያ ምርት ገበያ** (ECX — Ethiopia Commodity Exchange: modern transparent commodity exchange)\n- **ቡና ኤክስፖርት** (Coffee exports: premium Arabica origins including ይርጋጨፌ, ሲዳማ, ሀረር, ጅማ)\n- **ሰሊጥ እና ጥራጥሬ** (Sesame seed and pulse crops)\n- **ላኪ** (Lakī — Exporter)\n- **አስመጪ** (Asmech'ī — Importer).",
+            "explanation": "በዚህ ክፍል ስለ ማክሮ-ኢኮኖሚክስ፣ ብሔራዊ ባንክ፣ የቡና ንግድ፣ የገበያ ግብይት እና የኢንዱስትሪ ፓርኮች (Macroeconomics, Finance & Commodity Trade) በጥልቀት እንማራለን።\n\nየፋይናንስ ዘርፍ፣ የባንክ አገልግሎት፣ የቴሌብር ዲጂታል ክፍያ እና ኢንሹራንስ፡ Agricultural exports form the bedrock of Ethiopia's international commodity commerce.\n\n1. Commodity Trade & ECX:\n- **የኢትዮጵያ ምርት ገበያ** (ECX — Ethiopia Commodity Exchange: modern transparent commodity exchange)\n- **ቡና ኤክስፖርት** (Coffee exports: premium Arabica origins including ይርጋጨፌ, ሲዳማ, ሀረር, ጅማ)\n- **ሰሊጥ እና ጥራጥሬ** (Sesame seed and pulse crops)\n- **ላኪ** (Lakī — Exporter)\n- **አስመጪ** (Asmech'ī — Importer).",
             "examples": [
                 {
                     "target": "የኢትዮጵያ ምርት ገበያ (ECX) ገበሬዎች እና ላኪዎች የቡና እና የሰሊጥ ምርቶቻቸውን በፍትሃዊ ዋጋ እና በጥራት ደረጃ እንዲሸጡ ያደርጋል።",
@@ -13836,7 +13834,7 @@
             ]
         },
         "presentation": {
-            "explanation": "Industrial policy and foreign direct investment foster manufacturing capabilities and trade competitiveness.\n\n1. Industrial Sector Terminology:\n- **የኢንዱስትሪ ፓርኮች** (Industrial Parks: Special economic zones with plug-and-play manufacturing infrastructure)\n- **ቀጥታ የውጭ ኢንቨስትመንት** (Foreign Direct Investment / FDI)\n- **የንግድ ሚዛን** (Trade balance: relationship between imports and exports)\n- **ቀረጥ እና ታሪፍ** (Customs tariffs and fiscal exemptions)\n- **ማኑፋክቸሪንግ** (Manufacturing value addition).",
+            "explanation": "በዚህ ክፍል ስለ ማክሮ-ኢኮኖሚክስ፣ ብሔራዊ ባንክ፣ የቡና ንግድ፣ የገበያ ግብይት እና የኢንዱስትሪ ፓርኮች (Macroeconomics, Finance & Commodity Trade) በጥልቀት እንማራለን።\n\nየኢንዱስትሪ ፓርኮች፣ የውጭ ቀጥታ ኢንቨስትመንት እና የወጪ ንግድ እድገት፡ Industrial policy and foreign direct investment foster manufacturing capabilities and trade competitiveness.\n\n1. Industrial Sector Terminology:\n- **የኢንዱስትሪ ፓርኮች** (Industrial Parks: Special economic zones with plug-and-play manufacturing infrastructure)\n- **ቀጥታ የውጭ ኢንቨስትመንት** (Foreign Direct Investment / FDI)\n- **የንግድ ሚዛን** (Trade balance: relationship between imports and exports)\n- **ቀረጥ እና ታሪፍ** (Customs tariffs and fiscal exemptions)\n- **ማኑፋክቸሪንግ** (Manufacturing value addition).",
             "examples": [
                 {
                     "target": "እንደ ሀዋሳ እና ቦሌ ለሚ ያሉ የኢንዱስትሪ ፓርኮች ከፍተኛ የውጭ ኢንቨስትመንት (FDI) በመሳብ ለበርካታ ዜጎች የስራ እድል ፈጥረዋል።",
@@ -13932,7 +13930,7 @@
             ]
         },
         "presentation": {
-            "explanation": "This lesson consolidates macroeconomic metrics, central banking, commodity export platforms, and industrial eco-parks into an overarching national economic reform synthesis.\n\n1. Macroeconomic Dimensions:\n- **Output & Prices:** «የሀገር ውስጥ አጠቃላይ ምርት እና የዋጋ ግሽበት...»\n- **Monetary Policy:** «የብሔራዊ ባንክ የገንዘብ ፖሊሲ እና የውጭ ምንዛሪ...»\n- **Commodity Exports:** «የቡና እና የግብርና ምርቶች ኤክስፖርት...»\n- **Industrial Transformation:** «የኢንዱስትሪ ፓርኮች እና ቀጥታ የውጭ ኢንቨስትመንት...»",
+            "explanation": "በዚህ ክፍል ስለ ማክሮ-ኢኮኖሚክስ፣ ብሔራዊ ባንክ፣ የቡና ንግድ፣ የገበያ ግብይት እና የኢንዱስትሪ ፓርኮች (Macroeconomics, Finance & Commodity Trade) በጥልቀት እንማራለን።\n\nየኢኮኖሚ ልማት፣ የገበያ እድገት እና የፋይናንስ ስርዓት ማጠቃለያ፡ This lesson consolidates macroeconomic metrics, central banking, commodity export platforms, and industrial eco-parks into an overarching national economic reform synthesis.\n\n1. Macroeconomic Dimensions:\n- **Output & Prices:** «የሀገር ውስጥ አጠቃላይ ምርት እና የዋጋ ግሽበት...»\n- **Monetary Policy:** «የብሔራዊ ባንክ የገንዘብ ፖሊሲ እና የውጭ ምንዛሪ...»\n- **Commodity Exports:** «የቡና እና የግብርና ምርቶች ኤክስፖርት...»\n- **Industrial Transformation:** «የኢንዱስትሪ ፓርኮች እና ቀጥታ የውጭ ኢንቨስትመንት...»",
             "examples": [
                 {
                     "target": "የሀገሪቱ የረጅም ጊዜ የኢኮኖሚ ራዕይ ግብርናን ከማዘመን ጎን ለጎን የማኑፋክቸሪንግ እና የኤክስፖርት ዘርፉን ወደ ላቀ ደረጃ ማሸጋገር ነው።",
@@ -14029,7 +14027,7 @@
             ]
         },
         "presentation": {
-            "explanation": "Print press journalism centers on analytical editorials and rigorous investigative reporting.\n\n1. Print Journalism Concepts:\n- **የህትመት ሚዲያ** (Print media: daily newspapers, weekly periodicals, magazines)\n- **ርዕሰ አንቀጽ** (Editorial column conveying official institutional perspective)\n- **የምርመራ ጋዜጠኝነት** (Investigative journalism unearthing hidden public interest issues)\n- **አርዕስተ ዜና** (Headlines summarizing core facts)\n- **ታማኝ ምንጭ** (Credible news source / Confidential informant).",
+            "explanation": "በዚህ ክፍል ስለ ዘመናዊ ጋዜጠኝነት ታሪክ፣ የብሮድካስት ሚዲያ፣ ዲጂታል ጋዜጠኝነት እና የሚዲያ ስነ-ምግባር (Journalism, Media Ethics & Broadcasting) በጥልቀት እንማራለን።\n\nየብርሃንና ሰላም ማተሚያ ቤት ታሪክ እና የህትመት ጋዜጠኝነት እድገት፡ Print press journalism centers on analytical editorials and rigorous investigative reporting.\n\n1. Print Journalism Concepts:\n- **የህትመት ሚዲያ** (Print media: daily newspapers, weekly periodicals, magazines)\n- **ርዕሰ አንቀጽ** (Editorial column conveying official institutional perspective)\n- **የምርመራ ጋዜጠኝነት** (Investigative journalism unearthing hidden public interest issues)\n- **አርዕስተ ዜና** (Headlines summarizing core facts)\n- **ታማኝ ምንጭ** (Credible news source / Confidential informant).",
             "examples": [
                 {
                     "target": "ጋዜጣው በዛሬው ርዕሰ አንቀጹ ላይ በህዝባዊ አገልግሎት አሰጣጥ እና በተጠያቂነት ዙሪያ ጠንካራ ሂሳዊ ትንተና አቀረበ።",
@@ -14126,7 +14124,7 @@
             ]
         },
         "presentation": {
-            "explanation": "Broadcast media covers live transmissions, audiovisual documentary production, and studio anchors.\n\n1. Broadcast Media Concepts:\n- **የብሮድካስት ሚዲያ** (Broadcast media: radio and television transmission)\n- **የቀጥታ ስርጭት** (Live broadcast / On-the-scene real-time coverage)\n- **አዘጋጅ እና አቅራቢ** (Producer and program host/anchor)\n- **ዘጋቢ** (Field reporter / Correspondent)\n- **ስቱዲዮ ቅንብር** (Audio-video studio production and editing).",
+            "explanation": "በዚህ ክፍል ስለ ዘመናዊ ጋዜጠኝነት ታሪክ፣ የብሮድካስት ሚዲያ፣ ዲጂታል ጋዜጠኝነት እና የሚዲያ ስነ-ምግባር (Journalism, Media Ethics & Broadcasting) በጥልቀት እንማራለን።\n\nየብሮድካስት ዜና ዘገባ አዘገጃጀት፣ ቃለ-መጠይቅ እና የቴሌቪዥን ፕሮግራም፡ Broadcast media covers live transmissions, audiovisual documentary production, and studio anchors.\n\n1. Broadcast Media Concepts:\n- **የብሮድካስት ሚዲያ** (Broadcast media: radio and television transmission)\n- **የቀጥታ ስርጭት** (Live broadcast / On-the-scene real-time coverage)\n- **አዘጋጅ እና አቅራቢ** (Producer and program host/anchor)\n- **ዘጋቢ** (Field reporter / Correspondent)\n- **ስቱዲዮ ቅንብር** (Audio-video studio production and editing).",
             "examples": [
                 {
                     "target": "የቴሌቪዥን ጣቢያው ዘጋቢ ከክስተቱ ቦታ በቀጥታ ስርጭት ወቅታዊውን መረጃ ለተመልካቾች አስተላልፏል።",
@@ -14222,7 +14220,7 @@
             ]
         },
         "presentation": {
-            "explanation": "Digital media literacy requires rigorous fact-checking against misinformation and online distortion.\n\n1. Digital Media Terminology:\n- **ዲጂታል ሚዲያ** (Digital & web media platforms)\n- **ማህበራዊ ድረ-ገጾች** (Social media networks)\n- **ሀሰተኛ መረጃ / የሀሰት ዜና** (Misinformation / Disinformation / Fake news)\n- **እውነታን ማጣራት** (Fact-checking / Source verification)\n- **የሙያ ስነ-ምግባር** (Professional journalistic ethics).",
+            "explanation": "በዚህ ክፍል ስለ ዘመናዊ ጋዜጠኝነት ታሪክ፣ የብሮድካስት ሚዲያ፣ ዲጂታል ጋዜጠኝነት እና የሚዲያ ስነ-ምግባር (Journalism, Media Ethics & Broadcasting) በጥልቀት እንማራለን።\n\nየዲጂታል ሚዲያ፣ የመረጃ ማጣራት (Fact-checking) እና የመስመር ላይ ጋዜጠኝነት፡ Digital media literacy requires rigorous fact-checking against misinformation and online distortion.\n\n1. Digital Media Terminology:\n- **ዲጂታል ሚዲያ** (Digital & web media platforms)\n- **ማህበራዊ ድረ-ገጾች** (Social media networks)\n- **ሀሰተኛ መረጃ / የሀሰት ዜና** (Misinformation / Disinformation / Fake news)\n- **እውነታን ማጣራት** (Fact-checking / Source verification)\n- **የሙያ ስነ-ምግባር** (Professional journalistic ethics).",
             "examples": [
                 {
                     "target": "ጋዜጠኞች በማህበራዊ ሚዲያ ላይ የሚሰራጩ ወሬዎችን እንደ ትክክለኛ ዜና ከማሰራጨታቸው በፊት በጥንቃቄ ማጣራት አለባቸው።",
@@ -14317,7 +14315,7 @@
             ]
         },
         "presentation": {
-            "explanation": "Institutional communications and constitutional rights regulate public information access.\n\n1. Public Relations & Rights Concepts:\n- **የመረጃ ነፃነት** (Freedom of information / Right to know)\n- **የኤዲቶሪያል ፖሊሲ** (Editorial independence and ethics code)\n- **የህዝብ ግንኙነት** (Institutional public relations / Strategic communications)\n- **ቃል አቀባይ** (Official spokesperson / Press secretary)\n- **ጋዜጣዊ መግለጫ** (Press conference / Media briefing).",
+            "explanation": "በዚህ ክፍል ስለ ዘመናዊ ጋዜጠኝነት ታሪክ፣ የብሮድካስት ሚዲያ፣ ዲጂታል ጋዜጠኝነት እና የሚዲያ ስነ-ምግባር (Journalism, Media Ethics & Broadcasting) በጥልቀት እንማራለን።\n\nየሚዲያ ህግጋት፣ የስነ-ምግባር ደንቦች እና የፕሬስ ነፃነት መርሆዎች፡ Institutional communications and constitutional rights regulate public information access.\n\n1. Public Relations & Rights Concepts:\n- **የመረጃ ነፃነት** (Freedom of information / Right to know)\n- **የኤዲቶሪያል ፖሊሲ** (Editorial independence and ethics code)\n- **የህዝብ ግንኙነት** (Institutional public relations / Strategic communications)\n- **ቃል አቀባይ** (Official spokesperson / Press secretary)\n- **ጋዜጣዊ መግለጫ** (Press conference / Media briefing).",
             "examples": [
                 {
                     "target": "የመንግስት ተቋሙ ቃል አቀባይ በየሳምንቱ በሚሰጠው ጋዜጣዊ መግለጫ ወቅታዊ ጉዳዮችን እና የፖሊሲ አፈጻጸሞችን ያብራራል።",
@@ -14414,7 +14412,7 @@
             ]
         },
         "presentation": {
-            "explanation": "This lesson synthesizes print editorials, live broadcasting, digital verification, and government public relations into an interactive live national press conference.\n\n1. Media Synthesis Strands:\n- **Investigative Press:** «የምርመራ ጋዜጠኞች ያነሷቸው ጥያቄዎች...»\n- **Live Broadcast:** «በቴሌቪዥን እና በሬዲዮ የቀጥታ ስርጭት...»\n- **Institutional Response:** «የመንግስት ቃል አቀባይ የሰጡት ማብራሪያ...»\n- **Fact-Checking:** «የመረጃዎችን ትክክለኛነት እና ታማኝነት ማጣራት...»",
+            "explanation": "በዚህ ክፍል ስለ ዘመናዊ ጋዜጠኝነት ታሪክ፣ የብሮድካስት ሚዲያ፣ ዲጂታል ጋዜጠኝነት እና የሚዲያ ስነ-ምግባር (Journalism, Media Ethics & Broadcasting) በጥልቀት እንማራለን።\n\nየጋዜጠኝነት እና የመገናኛ ብዙሃን ሙያዊ ብቃት ማጠቃለያ፡ This lesson synthesizes print editorials, live broadcasting, digital verification, and government public relations into an interactive live national press conference.\n\n1. Media Synthesis Strands:\n- **Investigative Press:** «የምርመራ ጋዜጠኞች ያነሷቸው ጥያቄዎች...»\n- **Live Broadcast:** «በቴሌቪዥን እና በሬዲዮ የቀጥታ ስርጭት...»\n- **Institutional Response:** «የመንግስት ቃል አቀባይ የሰጡት ማብራሪያ...»\n- **Fact-Checking:** «የመረጃዎችን ትክክለኛነት እና ታማኝነት ማጣራት...»",
             "examples": [
                 {
                     "target": "በዚህ ብሄራዊ ጋዜጣዊ ኮንፈረንስ ላይ ጋዜጠኞች ወቅታዊ ሀገራዊ ጉዳዮችን አስመልክቶ ለቃል አቀባዩ ጥያቄዎችን አቅርበዋል።",
@@ -14510,7 +14508,7 @@
             ]
         },
         "presentation": {
-            "explanation": "Biodiversity and endemic species preservation form the core of Ethiopia's ecological heritage.\n\n1. Ecological Concepts:\n- **ብዝሃ-ህይወት** (Biodiversity / Biological diversity)\n- **ብርቅዬ እንስሳት** (Endemic fauna: species unique to Ethiopian montane biomes)\n  - **ዋሊያ አይቤክስ** (Walia Ibex — Capra walie in Simien Mountains)\n  - **ጭላዳ ዝንጀሮ** (Gelada baboon — Theropithecus gelada)\n  - **የኢትዮጵያ ቀይ ቀበሮ** (Ethiopian Wolf — Canis simensis in Bale Afroalpine)\n- **ብሔራዊ ፓርክ** (National Park / Protected wildlife reserve)\n- **ስነ-ምህዳር** (Ecosystem and habitat protection).",
+            "explanation": "በዚህ ክፍል ስለ አካባቢ ጥበቃ፣ የህዳሴው ግድብ የኤሌክትሪክ ሀይል፣ የአረንጓዴ አሻራ እና የተፈጥሮ ሀብት (Ecology, GERD Hydropower & Conservation) በጥልቀት እንማራለን።\n\nየስሜን እና የባሌ ተራሮች ብሔራዊ ፓርኮች ብዝሃ-ህይወት ጥበቃ፡ Biodiversity and endemic species preservation form the core of Ethiopia's ecological heritage.\n\n1. Ecological Concepts:\n- **ብዝሃ-ህይወት** (Biodiversity / Biological diversity)\n- **ብርቅዬ እንስሳት** (Endemic fauna: species unique to Ethiopian montane biomes)\n  - **ዋሊያ አይቤክስ** (Walia Ibex — Capra walie in Simien Mountains)\n  - **ጭላዳ ዝንጀሮ** (Gelada baboon — Theropithecus gelada)\n  - **የኢትዮጵያ ቀይ ቀበሮ** (Ethiopian Wolf — Canis simensis in Bale Afroalpine)\n- **ብሔራዊ ፓርክ** (National Park / Protected wildlife reserve)\n- **ስነ-ምህዳር** (Ecosystem and habitat protection).",
             "examples": [
                 {
                     "target": "የሰሜን ተራሮች ብሔራዊ ፓርክ በዓለም ላይ በየትኛውም ቦታ የማይገኙ ብርቅዬ የዋሊያ አይቤክስ እና የጭላዳ ዝንጀሮ ዝርያዎች መኖሪያ ነው።",
@@ -14607,7 +14605,7 @@
             ]
         },
         "presentation": {
-            "explanation": "Clean energy development centers on harnessing water, wind, solar, and geothermal resources.\n\n1. Renewable Energy Systems:\n- **ታዳሽ ሃይል** (Renewable energy: carbon-neutral energy resources)\n- **የውሃ ሃይል ማመንጫ** (Hydroelectric dam / Hydro powerplant)\n- **ታላቁ የኢትዮጵያ ህዳሴ ግድብ (GERD)** (Grand Ethiopian Renaissance Dam)\n- **የኤሌክትሪክ ሃይል ኤክስፖርት** (Regional electricity export and grid interconnection)\n- **ንጹህ ሃይል** (Green zero-emission energy).",
+            "explanation": "በዚህ ክፍል ስለ አካባቢ ጥበቃ፣ የህዳሴው ግድብ የኤሌክትሪክ ሀይል፣ የአረንጓዴ አሻራ እና የተፈጥሮ ሀብት (Ecology, GERD Hydropower & Conservation) በጥልቀት እንማራለን።\n\nየታላቁ የኢትዮጵያ ህዳሴ ግድብ የታዳሽ ሀይል ማመንጨት እና የውሃ ዲፕሎማሲ፡ Clean energy development centers on harnessing water, wind, solar, and geothermal resources.\n\n1. Renewable Energy Systems:\n- **ታዳሽ ሃይል** (Renewable energy: carbon-neutral energy resources)\n- **የውሃ ሃይል ማመንጫ** (Hydroelectric dam / Hydro powerplant)\n- **ታላቁ የኢትዮጵያ ህዳሴ ግድብ (GERD)** (Grand Ethiopian Renaissance Dam)\n- **የኤሌክትሪክ ሃይል ኤክስፖርት** (Regional electricity export and grid interconnection)\n- **ንጹህ ሃይል** (Green zero-emission energy).",
             "examples": [
                 {
                     "target": "ታላቁ የኢትዮጵያ ህዳሴ ግድብ (GERD) ከአባይ ወንዝ ንጹህ ታዳሽ ሃይል በማመንጨት የኢንዱስትሪዎችን የኤሌክትሪክ ፍላጎት ያሟላል።",
@@ -14702,7 +14700,7 @@
             ]
         },
         "presentation": {
-            "explanation": "Reforestation and watershed restoration rehabilitate degraded soils and bolster rainfall capture.\n\n1. Forestry & Conservation Terms:\n- **የአረንጓዴ አሻራ መርሃ-ግብር** (Green Legacy Initiative — Nationwide multi-billion tree planting initiative)\n- **ችግኝ መትከል** (Seedling planting and sapling care)\n- **የአፈር መሸርሸር** (Soil erosion and topsoil depletion)\n- **የተፋሰስ ልማት** (Watershed management and terracing)\n- **የደን ሽፋን** (Forest canopy coverage).",
+            "explanation": "በዚህ ክፍል ስለ አካባቢ ጥበቃ፣ የህዳሴው ግድብ የኤሌክትሪክ ሀይል፣ የአረንጓዴ አሻራ እና የተፈጥሮ ሀብት (Ecology, GERD Hydropower & Conservation) በጥልቀት እንማራለን።\n\nየአረንጓዴ አሻራ መርሃ-ግብር እና የደን መልሶ ማልማት ዘመቻ፡ Reforestation and watershed restoration rehabilitate degraded soils and bolster rainfall capture.\n\n1. Forestry & Conservation Terms:\n- **የአረንጓዴ አሻራ መርሃ-ግብር** (Green Legacy Initiative — Nationwide multi-billion tree planting initiative)\n- **ችግኝ መትከል** (Seedling planting and sapling care)\n- **የአፈር መሸርሸር** (Soil erosion and topsoil depletion)\n- **የተፋሰስ ልማት** (Watershed management and terracing)\n- **የደን ሽፋን** (Forest canopy coverage).",
             "examples": [
                 {
                     "target": "የአረንጓዴ አሻራ መርሃ-ግብር በየክረምቱ በቢሊዮኖች የሚቆጠሩ ችግኞችን በመትከል የሀገሪቱን የደን ሽፋን በከፍተኛ መጠን አሳድጓል።",
@@ -14798,7 +14796,7 @@
             ]
         },
         "presentation": {
-            "explanation": "Climate resilience integrates scientific early warning systems, irrigation infrastructure, and sustainable food sovereignty.\n\n1. Climate Resilience Terminology:\n- **የአየር ንብረት ለውጥ** (Climate change and global temperature rise)\n- **ድርቅን መቋቋም** (Drought resilience and mitigation)\n- **ዘመናዊ የመስኖ እርሻ** (Modern irrigated agriculture: river diversions, boreholes, drip lines)\n- **የምግብ ዋስትና** (Food security and sovereign nutrition)\n- **የአየር ንብረት የማይበገር አረንጓዴ ኢኮኖሚ** (Climate-Resilient Green Economy / CRGE).",
+            "explanation": "በዚህ ክፍል ስለ አካባቢ ጥበቃ፣ የህዳሴው ግድብ የኤሌክትሪክ ሀይል፣ የአረንጓዴ አሻራ እና የተፈጥሮ ሀብት (Ecology, GERD Hydropower & Conservation) በጥልቀት እንማራለን።\n\nየመስኖ ስንዴ ልማት እና የአየር ንብረት ለውጥን የሚቋቋም ዘመናዊ ግብርና፡ Climate resilience integrates scientific early warning systems, irrigation infrastructure, and sustainable food sovereignty.\n\n1. Climate Resilience Terminology:\n- **የአየር ንብረት ለውጥ** (Climate change and global temperature rise)\n- **ድርቅን መቋቋም** (Drought resilience and mitigation)\n- **ዘመናዊ የመስኖ እርሻ** (Modern irrigated agriculture: river diversions, boreholes, drip lines)\n- **የምግብ ዋስትና** (Food security and sovereign nutrition)\n- **የአየር ንብረት የማይበገር አረንጓዴ ኢኮኖሚ** (Climate-Resilient Green Economy / CRGE).",
             "examples": [
                 {
                     "target": "በክረምት ዝናብ ላይ ብቻ ከመተማመን ይልቅ በመስኖ ልማት የበጋ ስንዴን በስፋት ማምረት የምግብ ዋስትናን አረጋግጧል።",
@@ -14893,7 +14891,7 @@
             ]
         },
         "presentation": {
-            "explanation": "This lesson consolidates wildlife habitat conservation, renewable megadams, afforestation campaigns, and food security into an integrated green development charter.\n\n1. Green Blueprint Dimensions:\n- **Biodiversity Conservation:** «የብርቅዬ እንስሳት እና የብሔራዊ ፓርኮች ጥበቃ...»\n- **Clean Energy Transition:** «የህዳሴ ግድብ እና የታዳሽ ሃይል ልማት...»\n- **Watershed Afforestation:** «የአረንጓዴ አሻራ እና የችግኝ ተከላ...»\n- **Climate-Resilient Agriculture:** «የመስኖ እርሻ እና የምግብ ዋስትና...»",
+            "explanation": "በዚህ ክፍል ስለ አካባቢ ጥበቃ፣ የህዳሴው ግድብ የኤሌክትሪክ ሀይል፣ የአረንጓዴ አሻራ እና የተፈጥሮ ሀብት (Ecology, GERD Hydropower & Conservation) በጥልቀት እንማራለን።\n\nየአካባቢ ጥበቃ፣ ዘላቂ ልማት እና የተፈጥሮ ሀብት ጥበቃ ማጠቃለያ፡ This lesson consolidates wildlife habitat conservation, renewable megadams, afforestation campaigns, and food security into an integrated green development charter.\n\n1. Green Blueprint Dimensions:\n- **Biodiversity Conservation:** «የብርቅዬ እንስሳት እና የብሔራዊ ፓርኮች ጥበቃ...»\n- **Clean Energy Transition:** «የህዳሴ ግድብ እና የታዳሽ ሃይል ልማት...»\n- **Watershed Afforestation:** «የአረንጓዴ አሻራ እና የችግኝ ተከላ...»\n- **Climate-Resilient Agriculture:** «የመስኖ እርሻ እና የምግብ ዋስትና...»",
             "examples": [
                 {
                     "target": "የኢትዮጵያ የአረንጓዴ ኢኮኖሚ ስትራቴጂ የተፈጥሮ ሀብቶችን ከመጠበቅ ጎን ለጎን ንጹህ ታዳሽ ሃይልን በማስፋፋት ዘላቂ ልማትን ያረጋግጣል።",
@@ -14988,7 +14986,7 @@
             ]
         },
         "presentation": {
-            "explanation": "Zera Yacob (1599–1692) founded an indigenous rationalist tradition in Ethiopian philosophy.\n\n1. Philosophical Core Concepts:\n- **ዘርአ ያዕቆብ** (Zera Yacob — 17th-century Ethiopian rationalist philosopher)\n- **ሐተታ** (Hatäta — Critical rational treatise / Systematic inquiry)\n- **የአእምሮ ብርሃን** (The light of reason discerning truth from falsehood)\n- **ምክንያታዊነት** (Rationalism and logical deliberation)\n- **ሰብአዊ እኩልነት** (Universal human equality and anti-slavery stance).",
+            "explanation": "በዚህ ክፍል ስለ ፈላስፋው ዘርአ ያዕቆብ ሐተታ፣ ወልደ ህይወት፣ ተረትና ምሳሌ እና ዘመናዊ ፍልስፍና (Ethiopian Philosophy, Rationalism & Ethics) በጥልቀት እንማራለን።\n\nየፈላስፋው ዘርአ ያዕቆብ ሐተታ፣ የአእምሮ ብርሃን እና የ17ኛው መቶ ክፍለ ዘመን ምክንያታዊነት፡ Zera Yacob (1599–1692) founded an indigenous rationalist tradition in Ethiopian philosophy.\n\n1. Philosophical Core Concepts:\n- **ዘርአ ያዕቆብ** (Zera Yacob — 17th-century Ethiopian rationalist philosopher)\n- **ሐተታ** (Hatäta — Critical rational treatise / Systematic inquiry)\n- **የአእምሮ ብርሃን** (The light of reason discerning truth from falsehood)\n- **ምክንያታዊነት** (Rationalism and logical deliberation)\n- **ሰብአዊ እኩልነት** (Universal human equality and anti-slavery stance).",
             "examples": [
                 {
                     "target": "ፈላስፋው ዘርአ ያዕቆብ በሐተታው ውስጥ እውነትን ከሀሰት ለመለየት የአእምሮ ምርምር እና ምክንያታዊነት ዋና መሪዎች መሆናቸውን አስተምሯል።",
@@ -15084,7 +15082,7 @@
             ]
         },
         "presentation": {
-            "explanation": "Walda Heywat translated rational inquiry into applied social ethics, mutual solidarity, and domestic virtue.\n\n1. Applied Ethical Concepts:\n- **ወልደ ህይወት** (Walda Heywat — Disciple of Zera Yacob and philosopher of practical ethics)\n- **ስነ-ምግባር** (Moral conduct and virtuous ethics)\n- **ማህበራዊ ትብብር** (Communal solidarity and mutual obligation)\n- **የህሊና ዳኝነት** (Judgment of conscience)\n- **የስራ ክብር** (Dignity of labor and honest trade).",
+            "explanation": "በዚህ ክፍል ስለ ፈላስፋው ዘርአ ያዕቆብ ሐተታ፣ ወልደ ህይወት፣ ተረትና ምሳሌ እና ዘመናዊ ፍልስፍና (Ethiopian Philosophy, Rationalism & Ethics) በጥልቀት እንማራለን።\n\nየወልደ ህይወት ስነ-ምግባር ትምህርት፣ የስራ ክብር እና የህሊና ዳኝነት፡ Walda Heywat translated rational inquiry into applied social ethics, mutual solidarity, and domestic virtue.\n\n1. Applied Ethical Concepts:\n- **ወልደ ህይወት** (Walda Heywat — Disciple of Zera Yacob and philosopher of practical ethics)\n- **ስነ-ምግባር** (Moral conduct and virtuous ethics)\n- **ማህበራዊ ትብብር** (Communal solidarity and mutual obligation)\n- **የህሊና ዳኝነት** (Judgment of conscience)\n- **የስራ ክብር** (Dignity of labor and honest trade).",
             "examples": [
                 {
                     "target": "ወልደ ህይወት በድርሰቱ የሰው ልጆች እርስ በእርስ በመረዳዳት እና በጋራ ፍቅር ሊኖሩ እንደሚገባ የስነ-ምግባር ትምህርቱን አቅርቧል።",
@@ -15181,7 +15179,7 @@
             ]
         },
         "presentation": {
-            "explanation": "Proverbial literature embodies centuries of collective wisdom and behavioral axioms in Ethiopian civilization.\n\n1. Proverbial Philosophy:\n- **ተረት እና ምሳሌ** (Proverbs and parables condensing moral truths)\n- **የአበው ጥበብ** (Ancestral philosophical wisdom)\n- **ትዕግስት እና ማስተዋል** (Patience, emotional discipline, and deep foresight)\n- **ቃል አክባሪነት** (Fidelity to promises: «ሰው በቃሉ፣ በሬ በገመዱ»)\n- **አንድነት** (Communal solidarity: «ድር ቢያብር አንበሳ ያስር»).",
+            "explanation": "በዚህ ክፍል ስለ ፈላስፋው ዘርአ ያዕቆብ ሐተታ፣ ወልደ ህይወት፣ ተረትና ምሳሌ እና ዘመናዊ ፍልስፍና (Ethiopian Philosophy, Rationalism & Ethics) በጥልቀት እንማራለን።\n\nየአማርኛ ተረት እና ምሳሌዎች ፍልስፍናዊ ትንታኔ እና የህዝብ ጥበብ፡ Proverbial literature embodies centuries of collective wisdom and behavioral axioms in Ethiopian civilization.\n\n1. Proverbial Philosophy:\n- **ተረት እና ምሳሌ** (Proverbs and parables condensing moral truths)\n- **የአበው ጥበብ** (Ancestral philosophical wisdom)\n- **ትዕግስት እና ማስተዋል** (Patience, emotional discipline, and deep foresight)\n- **ቃል አክባሪነት** (Fidelity to promises: «ሰው በቃሉ፣ በሬ በገመዱ»)\n- **አንድነት** (Communal solidarity: «ድር ቢያብር አንበሳ ያስር»).",
             "examples": [
                 {
                     "target": "«ድር ቢያብር አንበሳ ያስር» የሚለው የአበው ምሳሌ የአንድነትን እና የትብብርን ታላቅ ሃይል ፍልስፍናዊ በሆነ መንገድ ይገልጻል።",
@@ -15277,7 +15275,7 @@
             ]
         },
         "presentation": {
-            "explanation": "Modern philosophical research examines humanism, free inquiry, and African existential thought.\n\n1. Contemporary Epistemology:\n- **ዘመናዊ ፍልስፍና** (Modern philosophical inquiry)\n- **ሰብአዊነት** (Humanism and shared human dignity)\n- **እውቀት እና እውነት** (Epistemology: nature of verified knowledge)\n- **ነፃ አስተሳሰብ** (Intellectual freedom and critical thought)\n- **ክላውድ ሰምነር** (Prof. Claude Sumner — Pioneer of modern academic Ethiopian philosophy studies).",
+            "explanation": "በዚህ ክፍል ስለ ፈላስፋው ዘርአ ያዕቆብ ሐተታ፣ ወልደ ህይወት፣ ተረትና ምሳሌ እና ዘመናዊ ፍልስፍና (Ethiopian Philosophy, Rationalism & Ethics) በጥልቀት እንማራለን።\n\nየፕሮፌሰር ክላውድ ሰምነር የኢትዮጵያ ፍልስፍና ጥናት እና የአፍሪካ ሰብአዊነት፡ Modern philosophical research examines humanism, free inquiry, and African existential thought.\n\n1. Contemporary Epistemology:\n- **ዘመናዊ ፍልስፍና** (Modern philosophical inquiry)\n- **ሰብአዊነት** (Humanism and shared human dignity)\n- **እውቀት እና እውነት** (Epistemology: nature of verified knowledge)\n- **ነፃ አስተሳሰብ** (Intellectual freedom and critical thought)\n- **ክላውድ ሰምነር** (Prof. Claude Sumner — Pioneer of modern academic Ethiopian philosophy studies).",
             "examples": [
                 {
                     "target": "ዘመናዊው ፈላስፋ ፕሮፌሰር ክላውድ ሰምነር የኢትዮጵያን ክላሲካል ፍልስፍናዊ ድርሰቶች በጥልቀት በመመርመር ለዓለም አቀፉ ማህበረሰብ አስተዋውቋል።",
@@ -15373,7 +15371,7 @@
             ]
         },
         "presentation": {
-            "explanation": "This lesson synthesizes classical rationalist texts, applied social ethics, ancestral proverbs, and modern philosophical discourse into an advanced philosophical colloquium.\n\n1. Philosophical Synthesis Strands:\n- **Rationalism:** «የዘርአ ያዕቆብ የአእምሮ ምርምር...»\n- **Social Ethics:** «የወልደ ህይወት የስነ-ምግባር ትምህርት...»\n- **Proverbial Epistemology:** «የአበው ጥበብ እና ተረትና ምሳሌ...»\n- **Humanism:** «ሰብአዊነት እና ነፃ አስተሳሰብ...»",
+            "explanation": "በዚህ ክፍል ስለ ፈላስፋው ዘርአ ያዕቆብ ሐተታ፣ ወልደ ህይወት፣ ተረትና ምሳሌ እና ዘመናዊ ፍልስፍና (Ethiopian Philosophy, Rationalism & Ethics) በጥልቀት እንማራለን።\n\nየኢትዮጵያ ፍልስፍናዊ አስተሳሰብ እና ምክንያታዊ ስነ-ምግባር ማጠቃለያ፡ This lesson synthesizes classical rationalist texts, applied social ethics, ancestral proverbs, and modern philosophical discourse into an advanced philosophical colloquium.\n\n1. Philosophical Synthesis Strands:\n- **Rationalism:** «የዘርአ ያዕቆብ የአእምሮ ምርምር...»\n- **Social Ethics:** «የወልደ ህይወት የስነ-ምግባር ትምህርት...»\n- **Proverbial Epistemology:** «የአበው ጥበብ እና ተረትና ምሳሌ...»\n- **Humanism:** «ሰብአዊነት እና ነፃ አስተሳሰብ...»",
             "examples": [
                 {
                     "target": "በዚህ የፍልስፍና ጉባኤ ላይ ምሁራን የዘርአ ያዕቆብን እና የወልደ ህይወትን አስተምህሮ ከዘመናዊ የስነ-ምግባር ጥያቄዎች ጋር በማገናኘት ተወያይተዋል።",
@@ -15469,7 +15467,7 @@
             ]
         },
         "presentation": {
-            "explanation": "Scientific methodology rests upon empirical hypothesis formulation, rigorous laboratory experimentation, and peer-reviewed validation.\n\n1. Scientific Methodology Concepts:\n- **ሳይንሳዊ ዘዴ** (The scientific method: systematic empirical protocol)\n- **መላ-ምት** (Hypothesis / Formally testable proposition)\n- **የሙከራ ስልት** (Experimental methodology and laboratory apparatus)\n- **የአቻ ግምገማ** (Peer-review academic evaluation)\n- **የጥናት ድምዳሜ** (Empirical research findings and conclusions).",
+            "explanation": "በዚህ ክፍል ስለ ሳይንሳዊ ምርምር ዘዴ፣ ህክምና እና እንዶድ፣ ግብርና ባዮቴክኖሎጂ እና ህዋ ሳይንስ (Scientific Research, Biotechnology & Space Science) በጥልቀት እንማራለን።\n\nየሳይንሳዊ ምርምር ዘዴዎች፣ መላ-ምት እና የአቻ ግምገማ ስርዓት፡ Scientific methodology rests upon empirical hypothesis formulation, rigorous laboratory experimentation, and peer-reviewed validation.\n\n1. Scientific Methodology Concepts:\n- **ሳይንሳዊ ዘዴ** (The scientific method: systematic empirical protocol)\n- **መላ-ምት** (Hypothesis / Formally testable proposition)\n- **የሙከራ ስልት** (Experimental methodology and laboratory apparatus)\n- **የአቻ ግምገማ** (Peer-review academic evaluation)\n- **የጥናት ድምዳሜ** (Empirical research findings and conclusions).",
             "examples": [
                 {
                     "target": "ተመራማሪዎቹ የቀረበውን ሳይንሳዊ መላ-ምት በቤተ-ሙከራ በተደረጉ ተከታታይ ሙከራዎች እና በተጨባጭ መረጃዎች አረጋገጡ።",
@@ -15566,7 +15564,7 @@
             ]
         },
         "presentation": {
-            "explanation": "Biomedical research spans infectious disease surveillance, clinical pharmacopeia, and public health immunology.\n\n1. Biomedical Concepts:\n- **የህክምና ሳይንስ ምርምር** (Biomedical and clinical science research)\n- **ወረርሽኝ መከላከል** (Epidemic surveillance and infection prevention)\n- **ባህላዊ የዕፅዋት መድሃኒት** (Ethnobotanical pharmacology: e.g., *እንዶድ* and *ኮሶ*)\n- **የክሊኒካል ሙከራ** (Controlled clinical trial protocols)\n- **ህዝባዊ ጤና** (Public health, immunization, and community medicine).",
+            "explanation": "በዚህ ክፍል ስለ ሳይንሳዊ ምርምር ዘዴ፣ ህክምና እና እንዶድ፣ ግብርና ባዮቴክኖሎጂ እና ህዋ ሳይንስ (Scientific Research, Biotechnology & Space Science) በጥልቀት እንማራለን።\n\nየህክምና ሳይንስ፣ ባህላዊ እፅዋት ምርምር እና የዶክተር አክሊሉ ለማ የእንዶድ ግኝት፡ Biomedical research spans infectious disease surveillance, clinical pharmacopeia, and public health immunology.\n\n1. Biomedical Concepts:\n- **የህክምና ሳይንስ ምርምር** (Biomedical and clinical science research)\n- **ወረርሽኝ መከላከል** (Epidemic surveillance and infection prevention)\n- **ባህላዊ የዕፅዋት መድሃኒት** (Ethnobotanical pharmacology: e.g., *እንዶድ* and *ኮሶ*)\n- **የክሊኒካል ሙከራ** (Controlled clinical trial protocols)\n- **ህዝባዊ ጤና** (Public health, immunization, and community medicine).",
             "examples": [
                 {
                     "target": "የኢትዮጵያ የህብረተሰብ ጤና ኢንስቲትዩት (EPHI) ተላላፊ በሽታዎችን እና ወረርሽኞችን ለመቆጣጠር የላቀ የላቦራቶሪ ምርመራ ያካሂዳል።",
@@ -15663,7 +15661,7 @@
             ]
         },
         "presentation": {
-            "explanation": "Biotechnology and genomics optimize staple grain resilience, yield potential, and drought adaptation.\n\n1. Agricultural Genomics Concepts:\n- **የግብርና ባዮቴክኖሎጂ** (Agricultural biotechnology)\n- **የሰብል ጂኖም ምርምር** (Crop genomic mapping and trait selection)\n- **የጤፍ እና የእንሰት ማሻሻል** (Genomic breeding of indigenous crops: Eragrostis tef, Ensete ventricosum)\n- **ድርቅን የሚቋቋሙ ዝርያዎች** (Drought-tolerant high-yield cultivars)\n- **የምግብ ሉዓላዊነት** (Food sovereignty and agricultural resilience).",
+            "explanation": "በዚህ ክፍል ስለ ሳይንሳዊ ምርምር ዘዴ፣ ህክምና እና እንዶድ፣ ግብርና ባዮቴክኖሎጂ እና ህዋ ሳይንስ (Scientific Research, Biotechnology & Space Science) በጥልቀት እንማራለን።\n\nየግብርና ባዮቴክኖሎጂ፣ የጤፍ እና የእንሰት ጂኖም ምርምር፡ Biotechnology and genomics optimize staple grain resilience, yield potential, and drought adaptation.\n\n1. Agricultural Genomics Concepts:\n- **የግብርና ባዮቴክኖሎጂ** (Agricultural biotechnology)\n- **የሰብል ጂኖም ምርምር** (Crop genomic mapping and trait selection)\n- **የጤፍ እና የእንሰት ማሻሻል** (Genomic breeding of indigenous crops: Eragrostis tef, Ensete ventricosum)\n- **ድርቅን የሚቋቋሙ ዝርያዎች** (Drought-tolerant high-yield cultivars)\n- **የምግብ ሉዓላዊነት** (Food sovereignty and agricultural resilience).",
             "examples": [
                 {
                     "target": "የግብርና ተመራማሪዎች የጤፍን ጂኖም በመመርመር ድርቅን የሚቋቋሙ እና ከፍተኛ ምርት የሚሰጡ የተሻሻሉ የሰብል ዝርያዎችን አፍርተዋል።",
@@ -15759,7 +15757,7 @@
             ]
         },
         "presentation": {
-            "explanation": "Space technology applications encompass orbital remote-sensing satellites and high-altitude astronomical observation.\n\n1. Space Science Concepts:\n- **የህዋ ሳይንስ እና ቴክኖሎጂ** (Space science and astrophysics)\n- **ምድር ምልከታ ሳተላይት (ETRSS-1)** (Ethiopian Remote Sensing Satellite-1, launched 2019)\n- **የሩቅ ዳሰሳ ቴክኖሎጂ** (Remote sensing for soil, water, forest, and urban monitoring)\n- **እንጦጦ ኦብዘርቫቶሪ** (Entoto Astronomical Observatory and Research Center at 3,200m altitude)\n- **የጂኦስፓሻል ዳታ ትንተና** (Geospatial data mapping and disaster early warning).",
+            "explanation": "በዚህ ክፍል ስለ ሳይንሳዊ ምርምር ዘዴ፣ ህክምና እና እንዶድ፣ ግብርና ባዮቴክኖሎጂ እና ህዋ ሳይንስ (Scientific Research, Biotechnology & Space Science) በጥልቀት እንማራለን።\n\nየህዋ ሳይንስ፣ ሳተላይት ቴክኖሎጂ እና የኢንጦጦ ኦብዘርቫቶሪ ምርምር፡ Space technology applications encompass orbital remote-sensing satellites and high-altitude astronomical observation.\n\n1. Space Science Concepts:\n- **የህዋ ሳይንስ እና ቴክኖሎጂ** (Space science and astrophysics)\n- **ምድር ምልከታ ሳተላይት (ETRSS-1)** (Ethiopian Remote Sensing Satellite-1, launched 2019)\n- **የሩቅ ዳሰሳ ቴክኖሎጂ** (Remote sensing for soil, water, forest, and urban monitoring)\n- **እንጦጦ ኦብዘርቫቶሪ** (Entoto Astronomical Observatory and Research Center at 3,200m altitude)\n- **የጂኦስፓሻል ዳታ ትንተና** (Geospatial data mapping and disaster early warning).",
             "examples": [
                 {
                     "target": "ኢትዮጵያ ወደ ህዋ ያመጠቀችው የመጀመሪያው ሳተላይት (ETRSS-1) ለአካባቢ ጥበቃ፣ ለግብርና እና ለአደጋ ስጋት ቅነሳ ጠቃሚ የሩቅ ዳሰሳ መረጃዎችን ያቀርባል።",
@@ -15855,7 +15853,7 @@
             ]
         },
         "presentation": {
-            "explanation": "This lesson consolidates empirical scientific methodology, ethnobotanical pharmacology, indigenous crop genomics, and space satellite analytics into an overarching national scientific research keynote.\n\n1. Keynote Synthesis Pillars:\n- **Empirical Rigor:** «የሳይንሳዊ ምርምር ዘዴ እና የአቻ ግምገማ...»\n- **Biomedical Innovation:** «የህክምና ሳይንስ እና የዕፅዋት መድሃኒቶች...»\n- **Crop Biotechnology:** «የጤፍ እና የእንሰት ጂኖም ምርምር...»\n- **Space & Geodata:** «የሳተላይት ቴክኖሎጂ እና የሩቅ ዳሰሳ...»",
+            "explanation": "በዚህ ክፍል ስለ ሳይንሳዊ ምርምር ዘዴ፣ ህክምና እና እንዶድ፣ ግብርና ባዮቴክኖሎጂ እና ህዋ ሳይንስ (Scientific Research, Biotechnology & Space Science) በጥልቀት እንማራለን።\n\nሳይንሳዊ ምርምር፣ ህክምና፣ ግብርና እና የህዋ ቴክኖሎጂ ማጠቃለያ፡ This lesson consolidates empirical scientific methodology, ethnobotanical pharmacology, indigenous crop genomics, and space satellite analytics into an overarching national scientific research keynote.\n\n1. Keynote Synthesis Pillars:\n- **Empirical Rigor:** «የሳይንሳዊ ምርምር ዘዴ እና የአቻ ግምገማ...»\n- **Biomedical Innovation:** «የህክምና ሳይንስ እና የዕፅዋት መድሃኒቶች...»\n- **Crop Biotechnology:** «የጤፍ እና የእንሰት ጂኖም ምርምር...»\n- **Space & Geodata:** «የሳተላይት ቴክኖሎጂ እና የሩቅ ዳሰሳ...»",
             "examples": [
                 {
                     "target": "በዚህ ብሄራዊ የሳይንስ አካዳሚ ጉባኤ ላይ ሳይንቲስቶች የባዮቴክኖሎጂ እና የህዋ ቴክኖሎጂ ግኝቶችን ለሀገራዊ ልማት ስለማዋል ተወያይተዋል።",
@@ -15951,7 +15949,7 @@
             ]
         },
         "presentation": {
-            "explanation": "Diplomatic history demonstrates uncompromised anti-colonial resistance and treaty negotiation.\n\n1. Sovereign Diplomatic Milestones:\n- **የአድዋ ድል** (The 1896 Adwa Victory safeguarding sovereignty against Italian colonial aggression)\n- **የውጫሌ ስምምነት** (The 1889 Treaty of Wuchale and Article XVII discrepancy)\n- **ሉዓላዊነት** (National sovereignty, territorial integrity, and self-determination)\n- **እቴጌ ጣይቱ እና ዳግማዊ ምኒልክ** (Empress Taytu Betul and Emperor Menelik II's sovereign diplomatic defense)\n- **ዓለም አቀፍ እውቅና** (International diplomatic recognition and opening of European legations).",
+            "explanation": "በዚህ ክፍል ስለ አድዋ ድል ሉዓላዊነት፣ የአፍሪካ ህብረት ዲፕሎማሲ፣ የሰላም ማስከበር እና የቪየና ኮንቬንሽን (International Relations, Diplomacy & Pan-Africanism) በጥልቀት እንማራለን።\n\nየአድዋ ድል ታሪክ፣ የውጫሌ ስምምነት አንቀጽ 17 እና የኢትዮጵያ ሉዓላዊነት ዲፕሎማሲ፡ Diplomatic history demonstrates uncompromised anti-colonial resistance and treaty negotiation.\n\n1. Sovereign Diplomatic Milestones:\n- **የአድዋ ድል** (The 1896 Adwa Victory safeguarding sovereignty against Italian colonial aggression)\n- **የውጫሌ ስምምነት** (The 1889 Treaty of Wuchale and Article XVII discrepancy)\n- **ሉዓላዊነት** (National sovereignty, territorial integrity, and self-determination)\n- **እቴጌ ጣይቱ እና ዳግማዊ ምኒልክ** (Empress Taytu Betul and Emperor Menelik II's sovereign diplomatic defense)\n- **ዓለም አቀፍ እውቅና** (International diplomatic recognition and opening of European legations).",
             "examples": [
                 {
                     "target": "የአድዋ ድል የኢትዮጵያን ሉዓላዊነት ከማስከበሩ ባሻገር በመላው ጥቁር ህዝቦች ዘንድ የነፃነት እና የጸረ-ቅኝ አገዛዝ ትግል ምልክት ሆኖ አገልግሏል።",
@@ -16047,7 +16045,7 @@
             ]
         },
         "presentation": {
-            "explanation": "Addis Ababa serves as the diplomatic capital of the African continent and epicenter of Pan-African solidarity.\n\n1. Pan-African Diplomatic Concepts:\n- **ፓን-አፍሪካኒዝም** (Pan-African philosophy of continental liberation and unity)\n- **የአፍሪካ አንድነት ድርጅት (OAU)** (Founded in Addis Ababa on May 25, 1963)\n- **የአፍሪካ ህብረት (AU)** (Headquarters of the 55-member continental union in Addis Ababa)\n- **አፍሪካ አዳራሽ (Africa Hall)** (Monumental venue of foundational Pan-African treaties)\n- **የዲፕሎማሲ መናኸሪያ** (Hub hosting the AU, UNECA, and global diplomatic corps).",
+            "explanation": "በዚህ ክፍል ስለ አድዋ ድል ሉዓላዊነት፣ የአፍሪካ ህብረት ዲፕሎማሲ፣ የሰላም ማስከበር እና የቪየና ኮንቬንሽን (International Relations, Diplomacy & Pan-Africanism) በጥልቀት እንማራለን።\n\nፓን-አፍሪካኒዝም፣ የአፍሪካ አንድነት ድርጅት (OAU) እና የአፍሪካ ህብረት (AU) ዲፕሎማሲያዊ ሚና፡ Addis Ababa serves as the diplomatic capital of the African continent and epicenter of Pan-African solidarity.\n\n1. Pan-African Diplomatic Concepts:\n- **ፓን-አፍሪካኒዝም** (Pan-African philosophy of continental liberation and unity)\n- **የአፍሪካ አንድነት ድርጅት (OAU)** (Founded in Addis Ababa on May 25, 1963)\n- **የአፍሪካ ህብረት (AU)** (Headquarters of the 55-member continental union in Addis Ababa)\n- **አፍሪካ አዳራሽ (Africa Hall)** (Monumental venue of foundational Pan-African treaties)\n- **የዲፕሎማሲ መናኸሪያ** (Hub hosting the AU, UNECA, and global diplomatic corps).",
             "examples": [
                 {
                     "target": "በግንቦት 1955 ዓ.ም (1963 G.C.) በአዲስ አበባ የተመሰረተው የአፍሪካ አንድነት ድርጅት አህጉሪቱን ከቅኝ አገዛዝ ነፃ ለማውጣት ታሪካዊ ሚና ተጫውቷል።",
@@ -16143,7 +16141,7 @@
             ]
         },
         "presentation": {
-            "explanation": "Multilateral diplomacy encompasses founding membership in global institutions and global peacekeeping operations.\n\n1. Multilateral Principles:\n- **የተባበሩት መንግስታት ድርጅት (UN)** (Ethiopia as an original founding member in 1945)\n- **የሰላም አስከባሪ ኃይል** (Peacekeeping missions in Korea, Congo, Rwanda, Liberia, Darfur, and Abyei)\n- **ባለብዙ ወገን ዲፕሎማሲ** (Multilateral diplomacy across international organizations)\n- **የቪየና ኮንቬንሽን** (Vienna Convention codifying diplomatic privileges and protocols)\n- **የሰላም እና ጸጥታ ምክር ቤት** (Peace and Security Council resolutions).",
+            "explanation": "በዚህ ክፍል ስለ አድዋ ድል ሉዓላዊነት፣ የአፍሪካ ህብረት ዲፕሎማሲ፣ የሰላም ማስከበር እና የቪየና ኮንቬንሽን (International Relations, Diplomacy & Pan-Africanism) በጥልቀት እንማራለን።\n\nየተባበሩት መንግስታት ድርጅት መስራችነት፣ ዓለም አቀፍ የሰላም ማስከበር ተልእኮዎች እና የቪየና ኮንቬንሽን፡ Multilateral diplomacy encompasses founding membership in global institutions and global peacekeeping operations.\n\n1. Multilateral Principles:\n- **የተባበሩት መንግስታት ድርጅት (UN)** (Ethiopia as an original founding member in 1945)\n- **የሰላም አስከባሪ ኃይል** (Peacekeeping missions in Korea, Congo, Rwanda, Liberia, Darfur, and Abyei)\n- **ባለብዙ ወገን ዲፕሎማሲ** (Multilateral diplomacy across international organizations)\n- **የቪየና ኮንቬንሽን** (Vienna Convention codifying diplomatic privileges and protocols)\n- **የሰላም እና ጸጥታ ምክር ቤት** (Peace and Security Council resolutions).",
             "examples": [
                 {
                     "target": "ኢትዮጵያ ከተባበሩት መንግስታት ድርጅት መስራች ሀገራት አንዷ ስትሆን በዓለም አቀፍ የሰላም ማስከበር ተልእኮዎች የላቀ አስተዋጽኦ አበርክታለች።",
@@ -16238,7 +16236,7 @@
             ]
         },
         "presentation": {
-            "explanation": "Bilateral diplomacy structures state-to-state relations, economic treaties, and diplomatic immunity.\n\n1. Bilateral Protocol Concepts:\n- **ሁለትዮሽ ስምምነት** (Bilateral agreements and joint strategic pacts)\n- **ዲፕሎማሲያዊ ያለመከሰስ መብት** (Diplomatic immunity protecting envoys)\n- **የሹመት ደብዳቤ** (Letters of credence presented to the head of state)\n- **የዲፕሎማሲ ፕሮቶኮል** (Formal diplomatic protocol and official state banquets)\n- **የውጭ ጉዳይ ፖሊሲ** (National foreign policy anchored in economic diplomacy and mutual respect).",
+            "explanation": "በዚህ ክፍል ስለ አድዋ ድል ሉዓላዊነት፣ የአፍሪካ ህብረት ዲፕሎማሲ፣ የሰላም ማስከበር እና የቪየና ኮንቬንሽን (International Relations, Diplomacy & Pan-Africanism) በጥልቀት እንማራለን።\n\nሁለትዮሽ ዲፕሎማሲ፣ የዲፕሎማሲያዊ ያለመከሰስ መብት እና የሹመት ደብዳቤ ፕሮቶኮል፡ Bilateral diplomacy structures state-to-state relations, economic treaties, and diplomatic immunity.\n\n1. Bilateral Protocol Concepts:\n- **ሁለትዮሽ ስምምነት** (Bilateral agreements and joint strategic pacts)\n- **ዲፕሎማሲያዊ ያለመከሰስ መብት** (Diplomatic immunity protecting envoys)\n- **የሹመት ደብዳቤ** (Letters of credence presented to the head of state)\n- **የዲፕሎማሲ ፕሮቶኮል** (Formal diplomatic protocol and official state banquets)\n- **የውጭ ጉዳይ ፖሊሲ** (National foreign policy anchored in economic diplomacy and mutual respect).",
             "examples": [
                 {
                     "target": "አዲሱ አምባሳደር የሹመት ደብዳቤያቸውን (Credentials) ለሀገሪቱ ርዕሰ ብሔር በታላቅ ዲፕሎማሲያዊ ፕሮቶኮል ስነ-ስርዓት አስረክበዋል።",
@@ -16334,7 +16332,7 @@
             ]
         },
         "presentation": {
-            "explanation": "This capstone diplomatic unit synthesizes anti-colonial historical sovereignty, Pan-African leadership, UN multilateralism, and bilateral protocol into a simulated UN Security Council address.\n\n1. Diplomatic Synthesis Pillars:\n- **Historical Sovereignty:** «የአድዋ ድል እና ሉዓላዊነት...»\n- **Continental Solidarity:** «የአፍሪካ ህብረት እና ፓን-አፍሪካኒዝም...»\n- **Multilateral Peacekeeping:** «የተባበሩት መንግስታት ተልዕኮዎች...»\n- **Protocol & Foreign Policy:** «ሁለትዮሽ ስምምነቶች እና ዲፕሎማሲ...»",
+            "explanation": "በዚህ ክፍል ስለ አድዋ ድል ሉዓላዊነት፣ የአፍሪካ ህብረት ዲፕሎማሲ፣ የሰላም ማስከበር እና የቪየና ኮንቬንሽን (International Relations, Diplomacy & Pan-Africanism) በጥልቀት እንማራለን።\n\nየአድዋ ሉዓላዊነት፣ የአፍሪካ ህብረት መሪነት እና የሰላም ማስከበር ሚና ማጠቃለያ፡ This capstone diplomatic unit synthesizes anti-colonial historical sovereignty, Pan-African leadership, UN multilateralism, and bilateral protocol into a simulated UN Security Council address.\n\n1. Diplomatic Synthesis Pillars:\n- **Historical Sovereignty:** «የአድዋ ድል እና ሉዓላዊነት...»\n- **Continental Solidarity:** «የአፍሪካ ህብረት እና ፓን-አፍሪካኒዝም...»\n- **Multilateral Peacekeeping:** «የተባበሩት መንግስታት ተልዕኮዎች...»\n- **Protocol & Foreign Policy:** «ሁለትዮሽ ስምምነቶች እና ዲፕሎማሲ...»",
             "examples": [
                 {
                     "target": "በተባበሩት መንግስታት የጸጥታው ምክር ቤት ስብሰባ ላይ የኢትዮጵያ ልዑክ ዓለም አቀፍ አለመግባባቶች በሰላማዊ ድርድር እና በህግ እንዲፈቱ ጥሪ አቀረበ።",
@@ -16430,7 +16428,7 @@
             ]
         },
         "presentation": {
-            "explanation": "Wax and Gold (*ሰምና ወርቅ*) forms the crowning hermeneutic paradigm of Ethiopian poetics and indirect communication.\n\n1. Wax and Gold Structural Mechanics:\n- **ሰምና ወርቅ** (The dual-layered poetic method: outer wax enclosing inner gold)\n- **ሰም** (The superficial, overt, literal meaning)\n- **ወርቅ** (The concealed, esoteric, satiric, or philosophical core truth)\n- **ህብር** (The double-edged pivotal homophone joining wax and gold)\n- **ቅኔ** (Classical metered verse demanding profound linguistic decipherment).",
+            "explanation": "በዚህ ክፍል ስለ ሰምና ወርቅ የቅኔ ጥበብ፣ ፈሊጣዊ አነጋገሮች፣ አንደበተ ርቱዕነት እና የግዕዝ አሻራዎች (Advanced Idioms, Wax and Gold Poetics & Rhetoric) በጥልቀት እንማራለን።\n\nየሰምና ወርቅ ረቂቅ የቅኔ ፍልስፍና፣ ሰም እና ወርቅ እንዲሁም የህብር ሚና፡ Wax and Gold (*ሰምና ወርቅ*) forms the crowning hermeneutic paradigm of Ethiopian poetics and indirect communication.\n\n1. Wax and Gold Structural Mechanics:\n- **ሰምና ወርቅ** (The dual-layered poetic method: outer wax enclosing inner gold)\n- **ሰም** (The superficial, overt, literal meaning)\n- **ወርቅ** (The concealed, esoteric, satiric, or philosophical core truth)\n- **ህብር** (The double-edged pivotal homophone joining wax and gold)\n- **ቅኔ** (Classical metered verse demanding profound linguistic decipherment).",
             "examples": [
                 {
                     "target": "በሰምና ወርቅ ቅኔ ውስጥ «ሰም» የላይኛውን ውጫዊ ትርጉም ሲይዝ፣ «ወርቅ» ደግሞ ተደብቆ የሚገኘውን ጥልቅ እና እውነተኛ ምስጢር ይገልጻል።",
@@ -16526,7 +16524,7 @@
             ]
         },
         "presentation": {
-            "explanation": "Idiomatic phrasal verbs and somatic metaphors enrich everyday conversation and literary rhetoric.\n\n1. Somatic & Behavioral Idioms:\n- **ሆደ ሰፊ** (Magnanimous, patient, tolerant, capable of keeping confidences)\n- **አይነ ግቡ** (Charming, attractive, aesthetically captivating)\n- **እጅ እና ጓንት** (Inseparable, harmonious collaboration)\n- **ሆደ ቆራጥ** (Decisive, courageous, resolute)\n- **እግር አውጣ** (Flee swiftly / take to one's heels)\n- **አፍ አወጣ** (Become excessively talkative or brazen).",
+            "explanation": "በዚህ ክፍል ስለ ሰምና ወርቅ የቅኔ ጥበብ፣ ፈሊጣዊ አነጋገሮች፣ አንደበተ ርቱዕነት እና የግዕዝ አሻራዎች (Advanced Idioms, Wax and Gold Poetics & Rhetoric) በጥልቀት እንማራለን።\n\nሆደ ሰፊነት፣ አይነ ግቡነት፣ እጅና ጓንት እና ሌሎች ባህላዊ ፈሊጣዊ አነጋገሮች፡ Idiomatic phrasal verbs and somatic metaphors enrich everyday conversation and literary rhetoric.\n\n1. Somatic & Behavioral Idioms:\n- **ሆደ ሰፊ** (Magnanimous, patient, tolerant, capable of keeping confidences)\n- **አይነ ግቡ** (Charming, attractive, aesthetically captivating)\n- **እጅ እና ጓንት** (Inseparable, harmonious collaboration)\n- **ሆደ ቆራጥ** (Decisive, courageous, resolute)\n- **እግር አውጣ** (Flee swiftly / take to one's heels)\n- **አፍ አወጣ** (Become excessively talkative or brazen).",
             "examples": [
                 {
                     "target": "ሽማግሌው መሪ እጅግ በጣም ሆደ ሰፊ በመሆናቸው የተፈጠረውን ከባድ አለመግባባት በትዕግስት እና በብልሃት አስታረቁ።",
@@ -16622,7 +16620,7 @@
             ]
         },
         "presentation": {
-            "explanation": "Formal rhetoric balances elevated vocabulary, oratorical cadence, rhythmic parallelism, and persuasive reasoning.\n\n1. Rhetorical Craft Principles:\n- **የንግግር ጥበብ** (The art of public rhetoric and eloquent persuasion)\n- **አንደበተ ርቱዕ** (Eloquent, articulate, persuasive orator)\n- **የቃላት አመራረጥ** (Precision in high-register vocabulary selection)\n- **ተነባቢነት እና ዜማዊነት** (Rhythmic sentence balance and antithetical parallelism)\n- **ማሳመን** (Persuasive rhetoric swaying assembly deliberations).",
+            "explanation": "በዚህ ክፍል ስለ ሰምና ወርቅ የቅኔ ጥበብ፣ ፈሊጣዊ አነጋገሮች፣ አንደበተ ርቱዕነት እና የግዕዝ አሻራዎች (Advanced Idioms, Wax and Gold Poetics & Rhetoric) በጥልቀት እንማራለን።\n\nአንደበተ ርቱዕነት፣ የቃላት አመራረጥ፣ የንግግር ዜማዊነት እና የማሳመን ጥበብ፡ Formal rhetoric balances elevated vocabulary, oratorical cadence, rhythmic parallelism, and persuasive reasoning.\n\n1. Rhetorical Craft Principles:\n- **የንግግር ጥበብ** (The art of public rhetoric and eloquent persuasion)\n- **አንደበተ ርቱዕ** (Eloquent, articulate, persuasive orator)\n- **የቃላት አመራረጥ** (Precision in high-register vocabulary selection)\n- **ተነባቢነት እና ዜማዊነት** (Rhythmic sentence balance and antithetical parallelism)\n- **ማሳመን** (Persuasive rhetoric swaying assembly deliberations).",
             "examples": [
                 {
                     "target": "ተናጋሪው አንደበተ ርቱዕ በመሆኑ በጉባኤው የተገኙትን ታዳሚዎች በቃላት ሀይል እና በጥልቅ ማብራሪያ በቀላሉ አሳመነ።",
@@ -16718,7 +16716,7 @@
             ]
         },
         "presentation": {
-            "explanation": "Elevated Amharic prose weaves classical Ge'ez vocabulary and scriptural allusions into compelling narrative texture.\n\n1. Classical & Allusive Idioms:\n- **የግዕዝ ፈሊጣዊ አሻራዎች** (Classical Ge'ez idioms: *አበው* / forefathers, *ህብር* / harmony, *ጽናት* / fortitude)\n- **መጽሐፍ ቅዱሳዊ ፈሊጦች** (Scriptural allusions: *የሰሎሞን ጥበብ* / wisdom of Solomon, *የኢዮብ ትዕግስት* / patience of Job)\n- **ታሪካዊ ቅሪቶች** (Historical echoes of Axumite stelae, Lalibela monoliths, Gondar castles)\n- **የአባቶች አባባል** (Distilled ancestral maxims and ecclesiastical rhetoric).",
+            "explanation": "በዚህ ክፍል ስለ ሰምና ወርቅ የቅኔ ጥበብ፣ ፈሊጣዊ አነጋገሮች፣ አንደበተ ርቱዕነት እና የግዕዝ አሻራዎች (Advanced Idioms, Wax and Gold Poetics & Rhetoric) በጥልቀት እንማራለን።\n\nየግዕዝ ፈሊጣዊ ስሮች፣ መጽሐፍ ቅዱሳዊ አባባሎች እና ታሪካዊ ምሳሌዎች፡ Elevated Amharic prose weaves classical Ge'ez vocabulary and scriptural allusions into compelling narrative texture.\n\n1. Classical & Allusive Idioms:\n- **የግዕዝ ፈሊጣዊ አሻራዎች** (Classical Ge'ez idioms: *አበው* / forefathers, *ህብር* / harmony, *ጽናት* / fortitude)\n- **መጽሐፍ ቅዱሳዊ ፈሊጦች** (Scriptural allusions: *የሰሎሞን ጥበብ* / wisdom of Solomon, *የኢዮብ ትዕግስት* / patience of Job)\n- **ታሪካዊ ቅሪቶች** (Historical echoes of Axumite stelae, Lalibela monoliths, Gondar castles)\n- **የአባቶች አባባል** (Distilled ancestral maxims and ecclesiastical rhetoric).",
             "examples": [
                 {
                     "target": "ተመራማሪው በጽሑፋቸው ውስጥ ጥንታዊ የግዕዝ ቃላትን እና ታሪካዊ ፈሊጦችን በማካተት የጽሑፉን ክብደት እና ጥልቀት ከፍ አድርገዋል።",
@@ -16814,7 +16812,7 @@
             ]
         },
         "presentation": {
-            "explanation": "This masterclass synthesizes Wax and Gold poetics, idiomatic expressions, rhetorical cadence, and classical literary roots into supreme Amharic stylistic fluency.\n\n1. Rhetorical Masterclass Strands:\n- **Poetic Hermeneutics:** «የሰምና ወርቅ ረቂቅ ምስጢር...»\n- **Idiomatic Depth:** «ሆደ ሰፊነት እና ባህላዊ ፈሊጦች...»\n- **Persuasive Oratory:** «አንደበተ ርቱዕነት እና የጉባኤ ንግግር...»\n- **Classical Heritage:** «የግዕዝ ስሮች እና ታሪካዊ ፈሊጦች...»",
+            "explanation": "በዚህ ክፍል ስለ ሰምና ወርቅ የቅኔ ጥበብ፣ ፈሊጣዊ አነጋገሮች፣ አንደበተ ርቱዕነት እና የግዕዝ አሻራዎች (Advanced Idioms, Wax and Gold Poetics & Rhetoric) በጥልቀት እንማራለን።\n\nሰምና ወርቅ፣ ፈሊጣዊ አነጋገሮች፣ አንደበተ ርቱዕነት እና የግዕዝ ቅርሶች ማጠቃለያ፡ This masterclass synthesizes Wax and Gold poetics, idiomatic expressions, rhetorical cadence, and classical literary roots into supreme Amharic stylistic fluency.\n\n1. Rhetorical Masterclass Strands:\n- **Poetic Hermeneutics:** «የሰምና ወርቅ ረቂቅ ምስጢር...»\n- **Idiomatic Depth:** «ሆደ ሰፊነት እና ባህላዊ ፈሊጦች...»\n- **Persuasive Oratory:** «አንደበተ ርቱዕነት እና የጉባኤ ንግግር...»\n- **Classical Heritage:** «የግዕዝ ስሮች እና ታሪካዊ ፈሊጦች...»",
             "examples": [
                 {
                     "target": "በዚህ የላቀ የስነ-ጽሁፍ አውደ ጥናት ላይ ተሳታፊዎች በሰምና ወርቅ ውበት፣ በፈሊጣዊ አነጋገሮች እና በአደባባይ ንግግር ጥበብ ላይ ተወዳድረዋል።",
@@ -16896,63 +16894,69 @@
     },
     "am-u34-l1": {
         "id": "am-u34-l1",
-        "subject": "amharic",
-        "unit": 34,
-        "lessonNumber": 1,
-        "title": "የመጨረሻ የብቃት ማጠቃለያ (C2 Capstone Mastery) (Part 1)",
+        "unit": "am-u34",
         "level": "C2",
-        "objective": "Comprehensive mastery of የላቀ የአማርኛ ንግግር (C2 Capstone Statecraft).",
+        "objective": "Examine the evolution of the Fidel script in the digital era, Unicode encoding standardization, Amharic natural language processing (NLP / የቋንቋ ኮምፒውቲንግ), keyboard input methods (Power Ge'ez), and digital script preservation.",
+        "prerequisites": [
+            "am-u33-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u33-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የላቀ የአማርኛ ንግግር (C2 Capstone Statecraft) - ደረጃ 1) ተማሪዎች ስለ የላቀ የአማርኛ ንግግር (C2 Capstone Statecraft) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "በዚህ ክፍል ስለ ፊደል ዲጂታል ቴክኖሎጂ፣ ዘመናዊ ስነ-ጽሁፍ፣ መዝገበ-ቃላት፣ ዲያስፖራ እና የቋንቋ ልዕልና (Digital Fidel, Modern Literature, Diaspora & Capstone Fluency) በጥልቀት እንማራለን።\n\nየግዕዝ/አማርኛ ፊደል በዲጂታል ዘመን፣ የዩኒኮድ ስታንዳርድ እና የተፈጥሮ ቋንቋ ፕሮሰሲንግ፡ The Fidel script in the 21st century encompasses global digital standardization, computational linguistics, and NLP innovation.\n\n1. Digital Script Innovations:\n- **የግዕዝ ፊደል በዲጂታል ቴክኖሎጂ** (Digital adaptation and font design of the indigenous Fidel script)\n- **ዩኒኮድ ስታንዳርዳይዜሽን** (Unicode encoding range U+1200 to U+137F standardizing all Fidel syllographs)\n- **የተፈጥሮ ቋንቋ ፕሮሰሲንግ (NLP)** (Computational linguistics, tokenization, machine translation, and speech AI)\n- **የኪቦርድ ቴክኖሎጂ** (Phonetic input method engines pioneered by innovators like Dr. Aberra Molla)\n- **ዲጂታል ቅርስ ጥበቃ** (Digitization of ancient Ge'ez manuscripts and contemporary Amharic corpus).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየላቀ የአማርኛ ንግግር (C2 Capstone Statecraft) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (34.1.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "የግዕዝ ፊደላት በዓለም አቀፉ የዩኒኮድ (Unicode) ስርዓት ውስጥ መካተታቸው አማርኛ በኮምፒውተር፣ በኢንተርኔት እና በስማርት ስልኮች ላይ በቀላሉ ጥቅም ላይ እንዲውል አስችሏል።",
+                    "reading": "YeGī'iz fīdelat be'alem aqefu yeYunīkod (Unicode) sir'at wust mekatetachew Amargna bekompīwiter, be'Īnternēt ina besimart silkoc lay beqelalu t'iqm lay indīwil aschilotall.",
+                    "translation": "The inclusion of the Ge'ez script within the global Unicode standard enabled Amharic to be utilized seamlessly across computers, the internet, and smartphones."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (34.1.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የተፈጥሮ ቋንቋ ፕሮሰሲንግ (NLP) ተመራማሪዎች ለአማርኛ ቋንቋ የላቁ የማሽን መተርጎሚያ እና የድምጽ ማወቂያ ሶፍትዌሮችን በማበልጸግ ላይ ናቸው።",
+                    "reading": "Yetefet'ro qwanqwa pirosēsing (NLP) temaramarīwoch le'Amargna qwanqwa yelaqu yemashen metergomīya ina yedimts' maweqīya softiwērochin bemabeltseg lay nachew.",
+                    "translation": "Natural Language Processing (NLP) researchers are developing advanced machine translation and speech recognition software for the Amharic language."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (34.1.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የፊደላችንን ዲጂታል አሻራ ማሳደግ እና ማዘመን ለቀጣዩ ትውልድ የባህል እና የሳይንስ ቅርስን በኩራት ለማስተላለፍ ቁልፍ እርምጃ ነው 34.1.3።",
+                    "reading": "Yefīdelachinn dījiītal ashara masadeg ina mazemen leqet'ayu tiwlid yebahil ina yesayins qirsn bekurat lemasitelalef qulif irmidja new.",
+                    "translation": "Expanding and modernizing the digital footprint of our Fidel script is a pivotal step to proudly transmit cultural and scientific heritage to the next generation."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የላቀ የአማርኛ ንግግር (C2 Capstone Statecraft)"
+                "«ዩኒኮድ» = Global digital encoding! «NLP» = Language computing! «ፊደል» = Eternal digital script!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "The Fidel script is the only indigenous sub-Saharan African writing system in continuous official state use for thousands of years, thriving in 21st-century digital interfaces."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የላቀ የአማርኛ ንግግር (C2 Capstone Statecraft)» አጠቃቀም በደረጃ 1 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "የግዕዝ/አማርኛ ፊደላት በኮምፒውተር እና በኢንተርኔት ላይ በቋሚነት እንዲታወቁ ያደረገው ዓለም አቀፍ ስርዓት ማን ይባላል?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (34.1.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (34.1.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (34.1.3)።"
+                        "ዩኒኮድ (Unicode)",
+                        "ዊንዶውስ 95 (Windows 95)",
+                        "ቴሌቪዥን (Television)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "Unicode standardizes all Fidel glyphs across modern computational systems."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የመጨረሻ የብቃት ማጠቃለያ (C2 Capstone Mastery)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 1)፡",
+                    "prompt": "«የተፈጥሮ ቋንቋ ፕሮሰሲንግ» (NLP) ለአማርኛ ቋንቋ ምን ጥቅም አለው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (34.1.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (34.1.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (34.1.3)።"
+                        "Deletes digital text",
+                        "Enables machine translation, speech recognition, and AI language tools (የማሽን ትርጉም፣ የድምጽ ማወቂያ እና አርቴፊሻል ኢንተለጀንስ አገልግሎትን ይሰጣል)",
+                        "Slows computers"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "NLP empowers machine translation, voice recognition, and computational semantics."
                 }
             ]
         },
@@ -16960,85 +16964,95 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የላቀ የአማርኛ ንግግር (C2 Capstone Statecraft)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 34-1)?",
+                    "prompt": "የፊደል ስክሪፕት በዓለም አቀፍ ደረጃ ያለው ልዩ ክብር ምንድን ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (34.1.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (34.1.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (34.1.3)።"
+                        "የተተወ ቋንቋ ነው (Abandoned language)",
+                        "ብቸኛው በስራ ላይ ያለ ጥንታዊ የሰሃራ በታች የአፍሪካ ፊደል ነው (Only indigenous African script in continuous state use)",
+                        "ትላንት የተፈጠረ ነው (Invented yesterday)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR C2 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "The Fidel script is sub-Saharan Africa's premier continuous indigenous writing system."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ብቃት_34_1»):",
+                    "prompt": "Type the Amharic word for 'letter / script' in Fidel script (ፊደል):",
                     "acceptedAnswers": [
-                        "ብቃት_34_1"
+                        "ፊደል",
+                        "fidel",
+                        "fidäl",
+                        "Fidel"
                     ],
-                    "explanation": "The target keyword was: 【ብቃት_34_1】"
+                    "explanation": "ፊደል (Fidel) means 'letter / script / syllabary'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u34-l2": {
         "id": "am-u34-l2",
-        "subject": "amharic",
-        "unit": 34,
-        "lessonNumber": 2,
-        "title": "የመጨረሻ የብቃት ማጠቃለያ (C2 Capstone Mastery) (Part 2)",
+        "unit": "am-u34",
         "level": "C2",
-        "objective": "Comprehensive mastery of የላቀ የአማርኛ ንግግር (C2 Capstone Statecraft).",
+        "objective": "Appraise the vanguard of modern Amharic literature, drama, and cinematic arts, analyzing master novelists and playwrights (በዓሉ ግርማ, ሎሬት ጸጋዬ ገብረመድህን, መንግስቱ ለማ, ሀዲስ አለማየሁ).",
+        "prerequisites": [
+            "am-u34-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u34-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የላቀ የአማርኛ ንግግር (C2 Capstone Statecraft) - ደረጃ 2) ተማሪዎች ስለ የላቀ የአማርኛ ንግግር (C2 Capstone Statecraft) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "በዚህ ክፍል ስለ ፊደል ዲጂታል ቴክኖሎጂ፣ ዘመናዊ ስነ-ጽሁፍ፣ መዝገበ-ቃላት፣ ዲያስፖራ እና የቋንቋ ልዕልና (Digital Fidel, Modern Literature, Diaspora & Capstone Fluency) በጥልቀት እንማራለን።\n\nዘመናዊ ስነ-ጽሁፍ፣ ልቦለድ፣ ሀገር ፍቅር ቲያትር እና ታላላቅ ደራስያን፡ Modern Amharic literature and theatre represent a profound renaissance of narrative, poetry, and social realism.\n\n1. Literary Vanguard Figures:\n- **ሀዲስ አለማየሁ** (*ፍቅር እስከ መቃብር* / Love Unto the Crypt — Foundational epic novel of Ethiopian society)\n- **በዓሉ ግርማ** (*ኦሮማይ*, *ደራሲው* — Master of hard-hitting investigative narrative and journalism)\n- **ሎሬት ጸጋዬ ገብረመድህን** (*እሳት ወይ አበባ*, *ቴዎድሮስ* — Poet Laureate of African dignity and classical drama)\n- **መንግስቱ ለማ** (*ያላቻ ጋብቻ*, *ጸባየ ሰናይ* — Master of social comedy and satirical verse)\n- **ሀገር ፍቅር ቲያትር** (Africa's oldest indigenous theatre, founded in 1935).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየላቀ የአማርኛ ንግግር (C2 Capstone Statecraft) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (34.2.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "የደራሲ ሀዲስ አለማየሁ «ፍቅር እስከ መቃብር» ድንቅ ልቦለድ የአማርኛ ስነ-ጽሁፍ ትልቁ ሀውልት ተደርጎ በታላቅ አድናቆት ይጠቀሳል።",
+                    "reading": "Yederasī Haddīs Alemayehu «Fiqir Iske Meqabir» dinq liboled ye'Amargna sine-ts'ihuf tiliqu hawilt tedirgo betalaq adinaqot yit'eqesall.",
+                    "translation": "Author Haddis Alemayehu's epic novel 'Love Unto Crypt' is universally acclaimed as the greatest monument of Amharic literature."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (34.2.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ሎሬት ጸጋዬ ገብረመድህን በግጥሞቹ እና በቲያትሮቹ የጥቁር ህዝቦች ታሪክን፣ ኩራትን እና የነፃነት መንፈስን በልህቀት ገልጿል።",
+                    "reading": "Lorēt Ts'egayē Gebremedhin begit'mochu ina betīyatrochu yet'iqur hizboch tarikn, kuratn ina yenets'anet menfesn belihiqet glets'wall.",
+                    "translation": "Poet Laureate Tsegaye Gebre-Medhin magnificently portrayed Black history, dignity, and the spirit of freedom in his poems and plays."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (34.2.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የበዓሉ ግርማ እና የመንግስቱ ለማ ስራዎች ማህበራዊ እውነታን በድፍረት በመተቸት ለአማርኛ ስነ-ጽሁፍ እድገት አዲስ ምዕራፍ ከፍተዋል 34.2.3።",
+                    "reading": "YeBe'alu Girma ina yeMengistu Lemma sirawoch mahiberawī iwnetan bedifret bemetechet le'Amargna sine-ts'ihuf idiget addīs mi'iraf keftewall.",
+                    "translation": "The works of Baalu Girma and Mengistu Lemma opened a new era for Amharic literature by boldly critiquing social realities."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የላቀ የአማርኛ ንግግር (C2 Capstone Statecraft)"
+                "«ፍቅር እስከ መቃብር» = Haddis Alemayehu! «ሎሬት ጸጋዬ» = Poet Laureate! «በዓሉ ግርማ» = Investigative master!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Hager Fikir Theatre (*ሀገር ፍቅር ቲያትር*), founded in 1935, is the oldest indigenous theatre in Africa, staging plays that mobilized resistance against Italian occupation."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የላቀ የአማርኛ ንግግር (C2 Capstone Statecraft)» አጠቃቀም በደረጃ 2 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«ፍቅር እስከ መቃብር» የተሰኘውን ድንቅ የአማርኛ ልቦለድ የጻፉት ታላቁ ደራሲ ማን ናቸው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (34.2.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (34.2.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (34.2.3)።"
+                        "ሀዲስ አለማየሁ (Haddis Alemayehu)",
+                        "ዊሊያም ሼክስፒር (William Shakespeare)",
+                        "ቪክቶር ሁጎ (Victor Hugo)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "Haddis Alemayehu authored the magnum opus *Fiqir Iske Meqabir*."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የመጨረሻ የብቃት ማጠቃለያ (C2 Capstone Mastery)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 2)፡",
+                    "prompt": "ሎሬት ጸጋዬ ገብረመድህን በስራዎቹ ውስጥ በዋናነት የሚያንፀባርቁት ጭብጥ ምንድን ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (34.2.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (34.2.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (34.2.3)።"
+                        "Cooking tips",
+                        "African pride, historical heroism, unity, and dramatic literary excellence (የአፍሪካዊነት ኩራት፣ ታሪካዊ ጀግንነት እና የነፃነት ጥበብ)",
+                        "Fashion magazines"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "Tsegaye Gebre-Medhin's work celebrated Pan-African dignity, historical heritage, and poetic genius."
                 }
             ]
         },
@@ -17046,85 +17060,95 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የላቀ የአማርኛ ንግግር (C2 Capstone Statecraft)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 34-2)?",
+                    "prompt": "በአፍሪካ ውስጥ እጅግ ጥንታዊው እና በ1928 ዓ.ም የተመሰረተው የኢትዮጵያ ቲያትር ቤት የትኛው ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (34.2.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (34.2.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (34.2.3)።"
+                        "ሀገር ፍቅር ቲያትር (Hager Fikir Theatre)",
+                        "ብሮድዌይ (Broadway)",
+                        "ሮያል ኦፔራ (Royal Opera)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR C2 target-language standard."
+                    "explanation": "Hager Fikir Theatre is the oldest indigenous theatre on the African continent."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ብቃት_34_2»):",
+                    "prompt": "Type the Amharic word for 'author / writer' in Fidel script (ደራሲ):",
                     "acceptedAnswers": [
-                        "ብቃት_34_2"
+                        "ደራሲ",
+                        "derasi",
+                        "derasī",
+                        "Derasi"
                     ],
-                    "explanation": "The target keyword was: 【ብቃት_34_2】"
+                    "explanation": "ደራሲ (Derasī) means 'author / writer'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u34-l3": {
         "id": "am-u34-l3",
-        "subject": "amharic",
-        "unit": 34,
-        "lessonNumber": 3,
-        "title": "የመጨረሻ የብቃት ማጠቃለያ (C2 Capstone Mastery) (Part 3)",
+        "unit": "am-u34",
         "level": "C2",
-        "objective": "Comprehensive mastery of የላቀ የአማርኛ ንግግር (C2 Capstone Statecraft).",
+        "objective": "Examine translation theory in Amharic, canonical lexicography (ደስታ ተክለወልድ, ኪዳነ ወልድ ክፍሌ, አማርኛ-እንግሊዝኛ መዝገበ-ቃላት), terminology standardization, and the Academy of Ethiopian Languages.",
+        "prerequisites": [
+            "am-u34-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u34-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የላቀ የአማርኛ ንግግር (C2 Capstone Statecraft) - ደረጃ 3) ተማሪዎች ስለ የላቀ የአማርኛ ንግግር (C2 Capstone Statecraft) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "በዚህ ክፍል ስለ ፊደል ዲጂታል ቴክኖሎጂ፣ ዘመናዊ ስነ-ጽሁፍ፣ መዝገበ-ቃላት፣ ዲያስፖራ እና የቋንቋ ልዕልና (Digital Fidel, Modern Literature, Diaspora & Capstone Fluency) በጥልቀት እንማራለን።\n\nየትርጉም ጥበብ፣ መዝገበ-ቃላት ዝግጅት እና የኢትዮጵያ ቋንቋዎች አካዳሚ ሚና፡ Translation and lexicography bridge classical heritage with global intellectual horizons through rigorous terminology standard-setting.\n\n1. Lexicographical & Translation Strands:\n- **የትርጉም ጥበብ** (Translation hermeneutics: dynamic equivalence translating world classics into Amharic)\n- **መዝገበ-ቃላት ዝግጅት (Lexicography)** (Monumental lexicons by Aleqa Kidanewold Kifle, Desta Tekle-Wold, Thomas Kane)\n- **የኢትዮጵያ ቋንቋዎች አካዳሚ** (The Academy of Ethiopian Languages standardizing scientific and legal vocabulary)\n- **የስነ-ቃል እና የቃላት እድገት** (Neologisms and root derivation expanding 21st-century terminology).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየላቀ የአማርኛ ንግግር (C2 Capstone Statecraft) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (34.3.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "የአለቃ ኪዳነ ወልድ ክፍሌ እና የአለቃ ደስታ ተክለወልድ መዝገበ-ቃላት ለአማርኛ እና ለግዕዝ ቋንቋ ጥናት መሰረታዊ የሆኑ ድንቅ የታሪክ ቅርሶች ናቸው።",
+                    "reading": "Ye'Aleqa Kīdane Wold Kiflē ina ye'Aleqa Desta Teklewold mezgebe-qalat le'Amargna ina leGī'iz qwanqwa t'inat meseretawī yehonu dinq yetarik qirsoch nachew.",
+                    "translation": "The monumental dictionaries of Aleqa Kidane-Wold Kifle and Aleqa Desta Tekle-Wold are foundational historical treasures for Amharic and Ge'ez linguistic study."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (34.3.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ዓለም አቀፍ ድንቅ የስነ-ጽሁፍ ስራዎችን ወደ አማርኛ መተርጎም የቋንቋውን አቅም በማጎልበት የአንባቢዎችን አድማስ በከፍተኛ ደረጃ አስፍቷል።",
+                    "reading": "Alem aqef dinq yesine-ts'ihuf sirawochin wede Amargna metergom yeqwanqwawun aqim bemagolbet ye'anbabīwochin admas bekefitegna dereja asfitwall.",
+                    "translation": "Translating world literary masterpieces into Amharic has fortified the language's expressive capacity and broadened readership horizons."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (34.3.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ዘመናዊ ሳይንሳዊ እና ቴክኖሎጂያዊ ቃላትን በአማርኛ ማበልጸግ የቋንቋውን ተወዳዳሪነት እና የወደፊት ህያውነት ያረጋግጣል 34.3.3።",
+                    "reading": "Zemenawī sayinsawī ina tēknolojīyawī qalatn be'Amargna mabeltseg yeqwanqwawun tewedadarīnet ina yewedefīt hiyawinet yaregagit'all.",
+                    "translation": "Coining modern scientific and technological terms in Amharic ensures the language's competitiveness and enduring vitality."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የላቀ የአማርኛ ንግግር (C2 Capstone Statecraft)"
+                "«መዝገበ-ቃላት» = Dictionary / Lexicon! «ትርጉም» = Translation art! «አካዳሚ» = Language academy!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Aleqa Desta Tekle-Wold's 1970 *ዐዲስ ያማርኛ መዝገበ ቃላት* (New Amharic Dictionary) remains one of the most comprehensive etymological and definitions lexicons in African languages."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የላቀ የአማርኛ ንግግር (C2 Capstone Statecraft)» አጠቃቀም በደረጃ 3 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "የቃላትን ትርጉም፣ ስርወ-ቃል እና አጠቃቀም በዝርዝር የያዘው የቋንቋ ጥናት መጽሐፍ ምን ይባላል?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (34.3.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (34.3.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (34.3.3)።"
+                        "መዝገበ-ቃላት (Dictionary / Lexicon)",
+                        "የሂሳብ ደብተር (Math book)",
+                        "የስልክ ማውጫ (Phonebook)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "መዝገበ-ቃላት (Dictionary) codifies definitions, etymology, and morphological usage."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የመጨረሻ የብቃት ማጠቃለያ (C2 Capstone Mastery)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 3)፡",
+                    "prompt": "የዓለም ክላሲካል መጻሕፍትን ወደ አማርኛ መተርጎም ምን ጥቅም አለው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (34.3.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (34.3.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (34.3.3)።"
+                        "Erases vocabulary",
+                        "Enriches Amharic vocabulary and connects Ethiopian readers with global thought (የቋንቋውን ሀብት ያሳድጋል፣ አንባቢዎችን ከዓለም ጥበብ ጋር ያገናኛል)",
+                        "Stops printing"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "Literary translation enriches the lexicon and bridges cultural traditions."
                 }
             ]
         },
@@ -17132,85 +17156,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የላቀ የአማርኛ ንግግር (C2 Capstone Statecraft)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 34-3)?",
+                    "prompt": "የአማርኛ ቋንቋን የቃላት አፈጣጠር እና እድገት የሚመራው ተቋም ምን ይባላል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (34.3.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (34.3.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (34.3.3)።"
+                        "የንግድ ምክር ቤት (Chamber of Commerce)",
+                        "የኢትዮጵያ ቋንቋዎች አካዳሚ / ተቋም (Academy of Languages)",
+                        "የፖስታ ቤት (Post office)"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR C2 target-language standard."
+                    "explanation": "The Academy of Ethiopian Languages leads lexicography, grammar, and neologism research."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ብቃት_34_3»):",
+                    "prompt": "Type the Amharic word for 'dictionary' in Fidel script (መዝገበ-ቃላት):",
                     "acceptedAnswers": [
-                        "ብቃት_34_3"
+                        "መዝገበ-ቃላት",
+                        "mezgebe-qalat",
+                        "mezgebe qalat",
+                        "መዝገበ ቃላት",
+                        "Mezgebe-qalat"
                     ],
-                    "explanation": "The target keyword was: 【ብቃት_34_3】"
+                    "explanation": "መዝገበ-ቃላት (Mezgebe-qalat) means 'dictionary / lexicon'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u34-l4": {
         "id": "am-u34-l4",
-        "subject": "amharic",
-        "unit": 34,
-        "lessonNumber": 4,
-        "title": "የመጨረሻ የብቃት ማጠቃለያ (C2 Capstone Mastery) (Part 4)",
+        "unit": "am-u34",
         "level": "C2",
-        "objective": "Comprehensive mastery of የላቀ የአማርኛ ንግግር (C2 Capstone Statecraft).",
+        "objective": "Appraise the global spread of the Amharic language across the Ethiopian diaspora (North America, Europe, Middle East, Australia), diaspora literature, satellite broadcasting, and cultural diplomacy.",
+        "prerequisites": [
+            "am-u34-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u34-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የላቀ የአማርኛ ንግግር (C2 Capstone Statecraft) - ደረጃ 4) ተማሪዎች ስለ የላቀ የአማርኛ ንግግር (C2 Capstone Statecraft) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "በዚህ ክፍል ስለ ፊደል ዲጂታል ቴክኖሎጂ፣ ዘመናዊ ስነ-ጽሁፍ፣ መዝገበ-ቃላት፣ ዲያስፖራ እና የቋንቋ ልዕልና (Digital Fidel, Modern Literature, Diaspora & Capstone Fluency) በጥልቀት እንማራለን።\n\nዓለም አቀፍ የዲያስፖራ ማህበረሰብ፣ የባህል ዲፕሎማሲ እና የትውልድ ቋንቋ ቅብብሎሽ፡ Amharic has expanded globally as a major world language cultivated across international diaspora networks and universities.\n\n1. Global Diaspora Dimensions:\n- **የዲያስፖራ ማህበረሰብ** (Vibrant global communities sustaining cultural identity and language heritage)\n- **ባህላዊ ዲፕሎማሲ** (Cultural diplomacy through music, cuisine, coffee ceremonies, literature, and festivals)\n- **ዓለም አቀፍ ሚዲያ** (International broadcasting in Amharic: BBC, VOA, DW, and global satellite channels)\n- **የትውልድ ቅብብሎሽ** (Heritage language instruction teaching the Fidel script to diaspora youth)\n- **ዓለም አቀፍ እውቅና** (Amharic taught in top universities including Harvard, Oxford, and SOAS London).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየላቀ የአማርኛ ንግግር (C2 Capstone Statecraft) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (34.4.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "በሰሜን አሜሪካ፣ በአውሮፓ እና በመካከለኛው ምስራቅ የሚኖሩ የዲያስፖራ ማህበረሰቦች የአማርኛ ቋንቋን እና ባህልን ለልጆቻቸው በማስተማር ቅርሳቸውን ይጠብቃሉ።",
+                    "reading": "Besemēn Amērika, be'Awropa ina beMekakelenyaw Misraq yemīnoru yeDīyaspora mahibereseboch ye'Amargna qwanqwan ina bahiln lelijochachew bemasitemar qirsachewun yit'ebbiqallu.",
+                    "translation": "Diaspora communities residing in North America, Europe, and the Middle East preserve their heritage by teaching Amharic language and culture to their children."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (34.4.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የቢቢሲ እና የቪኦኤ የአማርኛ ስርጭቶች እንዲሁም የዲያስፖራ ቴሌቪዥኖች ቋንቋው በዓለም አቀፍ ደረጃ በየዕለቱ እንዲደመጥ አድርገዋል።",
+                    "reading": "YeBBC ina yeVOA ye'Amargna sirch'itoch inidīhum yeDīyaspora tēlēvīzhinoch qwanqwaw be'alem aqef dereja beye'iletu indīdemet' adrigewall.",
+                    "translation": "BBC and VOA Amharic broadcasts along with diaspora television channels ensure the language is heard daily worldwide."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (34.4.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የአማርኛ ቋንቋ በታዋቂ የዓለም ዩኒቨርሲቲዎች ውስጥ መማሩ የቋንቋውን ታሪካዊ ክብር እና ዓለም አቀፍ ተቀባይነት ያረጋግጣል 34.4.3።",
+                    "reading": "Ye'Amargna qwanqwa betawwaqī ye'alem yunīversītīwoch wust memaru yeqwanqwawun tarikawī kibir ina alem aqef teqebayinet yaregagit'all.",
+                    "translation": "Amharic being taught at prominent world universities confirms the language's historical prestige and international recognition."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የላቀ የአማርኛ ንግግር (C2 Capstone Statecraft)"
+                "«ዲያስፖራ» = Global diaspora! «ባህላዊ ዲፕሎማሲ» = Cultural diplomacy! «ትውልድ ቅብብሎሽ» = Heritage transmission!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Major global institutions including the US Library of Congress and SOAS University of London maintain extensive historical Amharic and Ge'ez manuscript archives."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የላቀ የአማርኛ ንግግር (C2 Capstone Statecraft)» አጠቃቀም በደረጃ 4 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "የአማርኛ ቋንቋ በዓለም አቀፍ ደረጃ በየትኞቹ ታዋቂ የዜና ተቋማት ውስጥ በቋሚነት ይተላለፋል?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (34.4.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (34.4.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (34.4.3)።"
+                        "ቢቢሲ (BBC) እና ቪኦኤ (VOA)",
+                        "በየትኛውም የለም (Nowhere)",
+                        "በሬዲዮ ብቻ (Radio only)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "BBC Amharic and VOA Amharic broadcast news daily to millions worldwide."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የመጨረሻ የብቃት ማጠቃለያ (C2 Capstone Mastery)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 4)፡",
+                    "prompt": "የዲያስፖራው ማህበረሰብ ለአማርኛ ቋንቋ የሚያበረክተው አስተዋጽኦ ምንድን ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (34.4.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (34.4.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (34.4.3)።"
+                        "Forgetting culture",
+                        "Preserving heritage, expanding global media, and transmitting language to the next generation (ቋንቋውን እና ባህሉን ጠብቆ ለትውልድ ማስተላለፍ)",
+                        "Deleting books"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "The diaspora maintains language transmission, cultural heritage, and international media."
                 }
             ]
         },
@@ -17218,85 +17253,95 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የላቀ የአማርኛ ንግግር (C2 Capstone Statecraft)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 34-4)?",
+                    "prompt": "የአማርኛ ቋንቋ በታላላቅ የዓለም ዩኒቨርሲቲዎች መሰጠቱ ምንን ያረጋግጣል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (34.4.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (34.4.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (34.4.3)።"
+                        "የቋንቋውን ታሪካዊ ጥልቀት እና ዓለም አቀፍ ክብር (Historical depth & global prestige)",
+                        "ምንም ጥቅም የለውም (No benefit)",
+                        "የጊዜ ማባከን (Waste of time)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR C2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "Global university instruction attests to Amharic's academic status and historical importance."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ብቃት_34_4»):",
+                    "prompt": "Type the Amharic word for 'diaspora' in Fidel script (ዲያስፖራ):",
                     "acceptedAnswers": [
-                        "ብቃት_34_4"
+                        "ዲያስፖራ",
+                        "diaspora",
+                        "diyaspora",
+                        "Diyaspora"
                     ],
-                    "explanation": "The target keyword was: 【ብቃት_34_4】"
+                    "explanation": "ዲያስፖራ (Dīyaspora) means 'diaspora'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u34-l5": {
         "id": "am-u34-l5",
-        "subject": "amharic",
-        "unit": 34,
-        "lessonNumber": 5,
-        "title": "የመጨረሻ የብቃት ማጠቃለያ (C2 Capstone Mastery) (Part 5)",
+        "unit": "am-u34",
         "level": "C2",
-        "objective": "Comprehensive mastery of የላቀ የአማርኛ ንግግር (C2 Capstone Statecraft).",
+        "objective": "Synthesize all 34 units of the Amharic curriculum (Fidel, morphology, Ge'ez roots, grammar, classical literature, legal statecraft, philosophy, science, diplomacy, Wax and Gold) into a triumphant CEFR C2 master defense in Amharic.",
+        "prerequisites": [
+            "am-u34-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u34-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የላቀ የአማርኛ ንግግር (C2 Capstone Statecraft) - ደረጃ 5) ተማሪዎች ስለ የላቀ የአማርኛ ንግግር (C2 Capstone Statecraft) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "በዚህ ክፍል ስለ ፊደል ዲጂታል ቴክኖሎጂ፣ ዘመናዊ ስነ-ጽሁፍ፣ መዝገበ-ቃላት፣ ዲያስፖራ እና የቋንቋ ልዕልና (Digital Fidel, Modern Literature, Diaspora & Capstone Fluency) በጥልቀት እንማራለን።\n\nየተሟላ የቋንቋ ልዕልና፣ የ34ቱ ክፍሎች ድምዳሜ እና የኢትዮጵያ ህዳሴ ራዕይ፡ This final capstone lesson crowns complete, unassailable mastery across all 34 units and 170 lessons of the Fearn Amharic curriculum.\n\n1. Grand Synthesis Overview (Units 1–34):\n- **Units 1–5:** Fidel Syllabary, Phonology, Core Vocabulary, Everyday Introductions\n- **Units 6–10:** Domestic Life, Market Transactional Fluency, Traditional Gastronomy, Calendar\n- **Units 11–15:** Healthcare, Transportation, Urban Navigation, Weather, National Holidays\n- **Units 16–20:** Advanced Morphosyntax, Relative Clauses, Subordination, Honorifics, Classic Prose\n- **Units 21–25:** History (Axum to Gondar), Architecture, Visual Iconography, Saint Yared Music, Customary Law (ሽምግልና)\n- **Units 26–30:** Statecraft, Macroeconomics, Investigative Journalism, Ecology & GERD, Rational Philosophy (Zera Yacob)\n- **Units 31–34:** Scientific Discourse, Aerospace & ETRSS-1, International Diplomacy & Pan-Africanism, Wax & Gold Poetics, and Digital Language Vanguard.",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየላቀ የአማርኛ ንግግር (C2 Capstone Statecraft) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (34.5.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ይህ የመጨረሻው የብቃት ምዕራፍ ተማሪው የአማርኛን ቋንቋ ከፊደል መነሻ አንስቶ እስከ ላቀው የሰምና ወርቅ፣ የፍልስፍና እና የዲፕሎማሲ ጥበብ ድረስ በሙሉ ብቃት መቆጣጠሩን ያረጋግጣል።",
+                    "reading": "Yih yemejemerīyaw yebiqat mi'iraf temarīw ye'Amargnan qwanqwa kefīdel menesha ansito iske laqew yesemna werq, yefilsifna ina yedīplomasī t'ibeb dres bemullu biqat meqot'at'erun yaregagit'all.",
+                    "translation": "This ultimate capstone chapter validates the student's comprehensive mastery of the Amharic language from foundational Fidel script to the heights of Wax and Gold, philosophy, and statecraft."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (34.5.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የኢትዮጵያ ህዳሴ፣ የህዝቦች አንድነት እና የባህል ብልጽግና በቋንቋችን ጥንካሬ፣ በታሪካችን ኩራት እና በእውቀት ብርሃን ላይ ተገንብቶ ወደፊት ይቀጥላል 34.5.2።",
+                    "reading": "Ye'ītyop'ya hidasē, yehizboch andinet ina yebahil bilts'igina beqwanqwachinn t'inikkarē, betarikachinn kurat ina be'iwiqet birhan lay tegenbito wedefīt yiqet'ilall.",
+                    "translation": "The renaissance of Ethiopia, unity of its peoples, and flourishing of culture proceed forward anchored in linguistic strength, historical pride, and the light of knowledge."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (34.5.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "እንኳን ደስ አለዎት! 170ሩንም የአማርኛ ትምህርቶች በድል አጠናቀው የላቀ የቋንቋ ልዕልናን (C2 Fluency) ተጎናጽፈዋል 34.5.3።",
+                    "reading": "Inikwan des alewot! 170runim ye'Amargna timihirtoch bedil at'enaqew yelaqe yeqwanqwa li'ilinann (C2 Fluency) tegonats'fewall.",
+                    "translation": "Congratulations! You have triumphantly completed all 170 Amharic lessons, achieving peak linguistic mastery and C2 fluency."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የላቀ የአማርኛ ንግግር (C2 Capstone Statecraft)"
+                "Victory Formula: Fidel (ፊደል) + Grammar (ሰዋሰው) + Wisdom (ጥበብ) + Wax & Gold (ሰምና ወርቅ) = Complete Amharic Mastery (170/170)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Congratulations on completing the entire Fearn Amharic Curriculum from Level A1 to C2 — 34 units, 170 comprehensive lessons, completely zero-blind-spot validated!"
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የላቀ የአማርኛ ንግግር (C2 Capstone Statecraft)» አጠቃቀም በደረጃ 5 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "ሁሉንም 34 ክፍሎች ያጠናቀቀ ተማሪ በአማርኛ ቋንቋ ምን ደረጃ ላይ ይደርሳል?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (34.5.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (34.5.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (34.5.3)።"
+                        "ሙሉ የቋንቋ ልዕልና እና ቅልጥፍና (Complete C2 Fluency & Cultural Mastery)",
+                        "የጀማሪ ደረጃ (Beginner level)",
+                        "ፊደል መቁጠር ብቻ (Counting letters only)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "Completion of Units 1–34 certifies full C2 native-level proficiency in Amharic."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የመጨረሻ የብቃት ማጠቃለያ (C2 Capstone Mastery)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 5)፡",
+                    "prompt": "በFearn የአማርኛ ስርዓተ-ትምህርት የተካተቱት ዋና ዋና ርዕሶች የትኞቹ ናቸው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (34.5.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (34.5.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (34.5.3)።"
+                        "Only cooking recipes",
+                        "From Fidel, grammar, daily life to classical history, philosophy, science, diplomacy, and Wax & Gold (ከፊደል እስከ ፍልስፍና፣ ሳይንስ፣ ዲፕሎማሲ እና ሰምና ወርቅ ድረስ ሙሉ እውቀት)",
+                        "Only single words"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "The curriculum spans comprehensive linguistic, cultural, historical, philosophical, and scientific domains."
                 }
             ]
         },
@@ -17304,24 +17349,29 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የላቀ የአማርኛ ንግግር (C2 Capstone Statecraft)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 34-5)?",
+                    "prompt": "የአማርኛ ቋንቋን 170 ትምህርቶች በሙሉ በብቃት ያጠናቀቀ ተማሪ የተጎናጸፈው ታላቅ ስኬት ምንድን ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (34.5.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (34.5.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (34.5.3)።"
+                        "መሰረታዊ ሰላምታ ብቻ (Basic greetings only)",
+                        "ግማሽ እውቀት (Partial knowledge)",
+                        "የላቀ የቋንቋ ልዕልና እና ፍጹም ቅልጥፍና (Peak C2 Mastery & Native Fluency)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR C2 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "Completing the entire 170-lesson curriculum represents peak C2 linguistic mastery."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ብቃት_34_5»):",
+                    "prompt": "Type the Amharic word for 'mastery / excellence / supremacy' in Fidel script (ልዕልና):",
                     "acceptedAnswers": [
-                        "ብቃት_34_5"
+                        "ልዕልና",
+                        "liilina",
+                        "li'ilina",
+                        "Liilina",
+                        "ልእልና"
                     ],
-                    "explanation": "The target keyword was: 【ብቃት_34_5】"
+                    "explanation": "ልዕልና (Li'ilina) means 'mastery / supremacy / excellence'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     }
 };
