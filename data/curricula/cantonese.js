@@ -6516,62 +6516,100 @@
     "hk-u13-l1": {
         "id": "hk-u13-l1",
         "subject": "cantonese",
-        "unit": 13,
-        "lessonNumber": 1,
-        "title": "動態助詞同語氣助詞 (Particles 啦/喎/㗎) (Part 1)",
+        "unit": "hk-u13",
         "level": "B1",
-        "objective": "Comprehensive mastery of 句末語氣助詞系統 (Sentence Particles 啦/㗎/喎).",
+        "objective": "Master the tonal and pragmatic nuances of sentence-final particles 啦 (laa1 suggestion vs laa3 change of state) and 囉 (lo1 obvious assertion vs lo3 reluctant agreement).",
+        "prerequisites": [
+            "hk-u12-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u12-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（句末語氣助詞系統 (Sentence Particles 啦/㗎/喎) - 第1部分）入面，我哋會探討廣東話嘅核心語用語境同埋句末語氣助詞系統 (Sentence Particles 啦/㗎/喎)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "廣東話嘅「**句末語氣助詞 (Sentence-Final Particles)**」係成個語言嘅靈魂所在！如果冇咗語氣助詞，講出嚟嘅廣東話就會顯得生硬冷漠。喺本課我哋首先掌握最核心嘅兩大助詞：**啦** 同 **囉**。\n\n### 🎭 1. 「啦」嘅兩種關鍵聲調同語氣 (laa1 vs laa3)：\n- **啦 (laa1 - 第1聲高平調)**：用於**提議、祈使、請求或促成行動**（Let's do it / Please!）。\n  - 例如：我哋一齊**去食飯啦 (heoi3 sik6 faan6 laa1)**！/ 快啲**行啦 (haang4 laa1)**！\n- **啦 (laa3 - 第3聲中平調)**：用於表示**事態出現新變化、已經發生或完成**（Change of state / Already / Now）。\n  - 例如：**夠鐘啦 (gau3 zung1 laa3)**（時間到了）/ **落雨啦 (lok6 jyu5 laa3)**（開始下雨了）/ 我**食飽啦 (sik6 baau2 laa3)**（我已經吃飽了）。\n\n### 🎯 2. 「囉」嘅兩種用法 (lo1 vs lo3)：\n- **囉 (lo1 - 第1聲高平調)**：表示**理所當然、顯而易見**（Of course / Obviously / That's why!）。\n  - 例如：你唔溫書，緊係考得唔好**囉 (lo1)**！(You didn't study, obviously you didn't do well!)\n- **囉 (lo3 - 第3聲中平調)**：表示**無可奈何、勉強接受或妥協**（Just have to... / So be it）。\n  - 例如：既然買唔到飛，唯有睇聽日場**囉 (lo3)**。",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (13.1.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "已經下晝一點鐘喇，大家一齊去茶餐廳食晏啦！",
+                    "reading": "Ji5 ging1 haa6 ng5 jat1 dim2 zung1 laa3, daai6 gaa1 jat1 cai4 heoi3 caa4 caan1 teng1 sik6 aan3 laa1!",
+                    "translation": "It's already 1 PM; let's all go to the tea restaurant for lunch! (laa3 = change of state; laa1 = suggestion)"
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (13.1.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "你問我點解識佢？我哋係中學同學嚟㗎囉！",
+                    "reading": "Nei5 man6 ngo5 dim2 gaai2 sik1 keoi5? Ngo5 dei6 hai6 zung1 hok6 tung4 hok6 lai4 gaa3 lo1!",
+                    "translation": "You ask why I know him? We're secondary school classmates, obviously! (lo1 = obvious fact)"
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (13.1.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "出面落緊大雨，唯有留喺屋企睇電視囉。",
+                    "reading": "Ceot1 min6 lok6 gan2 daai6 jyu5, wai4 jau5 lau4 hai2 uk1 kei2 tai2 din6 si6 lo3.",
+                    "translation": "It's raining heavily outside, so we can only stay at home and watch TV. (lo3 = reluctant resignation)"
+                },
+                {
+                    "target": "我做完份報告啦，可以準時放工啦！",
+                    "reading": "Ngo5 zou6 jyun4 fan6 bou3 gou3 laa3, ho2 ji5 zeon2 si4 fong3 gung1 laa3!",
+                    "translation": "I've finished the report, so I can get off work on time now! (laa3 = completion/change of state)"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 句末語氣助詞系統 (Sentence Particles 啦/㗎/喎)"
+                "Tone Pitch Rule for 啦: High tone laa1 invites action ('Let's go啦!'), Mid tone laa3 announces reality ('It's done啦!').",
+                "囉 (lo1 vs lo3): lo1 is proud and obvious ('Told you so囉!'), lo3 is sighing and resigned ('Only choice囉.')."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "Hong Kong Social Rhythm: In restaurants, saying '唔該埋單啦 (m4 goi1 maai4 daan1 laa1)' softens the request politely, making everyday interactions smooth and courteous.",
+                "Avoiding Bluntness: Without final particles like 啦 or 囉, short sentences sound like abrupt military commands. Adding the right particle instantly adds warmth."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「句末語氣助詞系統 (Sentence Particles 啦/㗎/喎)」喺第1節嘅地道廣東話表達？",
+                    "prompt": "想熱情邀請同事「一齊去食晏晝飯（Let's go for lunch）」應該用邊個聲調嘅「啦」？",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (13.1.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (13.1.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (13.1.3)。"
+                        "去食晏啦 (sik6 aan3 laa1 - 第1聲高平調表示提議)",
+                        "去食晏㗎",
+                        "去食晏喎",
+                        "去食晏咩"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "laa1（第1聲）表示提議、號召行動。"
+                },
+                {
+                    "prompt": "句子「佢成日遲到，今日又俾老細鬧囉 (He's always late, obviously he got scolded again)」入面嘅「囉 (lo1)」表達緊：",
+                    "options": [
+                        "懷疑同不敢相信",
+                        "理所當然、意料之中嘅語氣 (obviously / expectedly)",
+                        "強烈的請求與命令",
+                        "悲傷無奈的妥協"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "lo1 表示顯而易見、理所當然。"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「動態助詞同語氣助詞 (Particles 啦/喎/㗎)」語境嘅廣東話完整句子（練習 1）：",
+                    "prompt": "表示「時間到了、已經夠鐘了（事態變化）」最地道嘅廣東話係：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (13.1.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (13.1.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (13.1.3)。"
+                        "夠鐘啦 (gau3 zung1 laa3)",
+                        "夠鐘咩",
+                        "夠鐘啫",
+                        "夠鐘咋"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "laa3 表達事態轉變（now/already）。"
+                },
+                {
+                    "prompt": "火車走咗、唯有等下一班車嘅無奈妥協語氣係：",
+                    "options": [
+                        "唯有等下班啦 (wai4 jau5 dang2 haa6 baan1 laa1)",
+                        "唯有等下班囉 (wai4 jau5 dang2 haa6 baan1 lo3)",
+                        "唯有等下班咩",
+                        "唯有等下班添"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "lo3 表達無可奈何、勉強妥協。"
                 }
             ]
         },
@@ -6579,85 +6617,127 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「句末語氣助詞系統 (Sentence Particles 啦/㗎/喎)」嘅日常商務與生活習慣（考核 13-1）？",
+                    "prompt": "關於廣東話「啦」字嘅兩種聲調用法，下列邊一項完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (13.1.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (13.1.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (13.1.3)。"
+                        "laa1 表提議促請行動（食飯啦），laa3 表事態變化或完成（落雨啦）",
+                        "兩者完全一樣沒有任何區別",
+                        "laa1 只能用於句首",
+                        "laa3 只能表示否定"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "laa1 表提議，laa3 表新狀態。"
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («㗎啦_13_1»):",
+                    "prompt": "Type the 3-character Hanzi for 'Time is up / It is time now' in Cantonese (夠鐘啦):",
                     "acceptedAnswers": [
-                        "㗎啦_13_1"
+                        "夠鐘啦",
+                        "gau3 zung1 laa3",
+                        "gau3zung1laa3"
                     ],
-                    "explanation": "The target keyword was: 【㗎啦_13_1】"
+                    "explanation": "夠鐘啦 (gau3 zung1 laa3) means 'Time is up / It is time now'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u13-l2": {
         "id": "hk-u13-l2",
         "subject": "cantonese",
-        "unit": 13,
-        "lessonNumber": 2,
-        "title": "動態助詞同語氣助詞 (Particles 啦/喎/㗎) (Part 2)",
+        "unit": "hk-u13",
         "level": "B1",
-        "objective": "Comprehensive mastery of 句末語氣助詞系統 (Sentence Particles 啦/㗎/喎).",
+        "objective": "Master 㗎 (gaa3 assertive explanation vs gaa4 surprise query) and 咩 (me1 rhetorical disbelief/doubt).",
+        "prerequisites": [
+            "hk-u13-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u13-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（句末語氣助詞系統 (Sentence Particles 啦/㗎/喎) - 第2部分）入面，我哋會探討廣東話嘅核心語用語境同埋句末語氣助詞系統 (Sentence Particles 啦/㗎/喎)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "喺廣東話口語入面，**㗎 (gaa3 / gaa4)** 同 **咩 (me1)** 係表達說話者立場、確信度同懷疑態度最關鍵嘅兩大標誌。\n\n### 💡 1. 「㗎 (gaa3 / gaa4)」嘅語法本質與雙調用法：\n- **詞源融合**：㗎 (gaa3) 其實係 **「嘅 (ge3)」+「呀 (aa3)」** 嘅快速合音！\n- **㗎 (gaa3 - 第3聲中平調)**：用於**陳述固有事實、解釋原因或強調確信**（It is indeed so / That's how it is）。\n  - 例如：呢部相機係我自己買**㗎 (gaa3)**。(This camera was bought by myself.)\n  - 例如：佢平時好早瞓**㗎 (gaa3)**。(He usually sleeps very early.)\n- **㗎 (gaa4 - 第4聲低沉調 / 升調)**：用於**疑問句，帶有驚訝、好奇或求證**（Really? Is that so?）。\n  - 例如：你識講法文**㗎 (gaa4)**？(You know how to speak French?! [surprised query])\n\n### ❓ 2. 「咩 (me1)」嘅反問與懷疑語氣：\n- **咩 (me1 - 第1聲高平調)**：用於**反問句或表示懷疑、不相信、驚訝反差**（Really?! / Isn't it...?）。\n  - 例如：今日放假**咩 (me1)**？(Is today a holiday?! [I thought we had work!])\n  - 例如：你唔知呢件事**咩 (me1)**？(Didn't you know about this?!)",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (13.2.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "件蛋糕係我琴晚親手整㗎，你試下一啖啦！",
+                    "reading": "Gin6 daan6 gou1 hai6 ngo5 kam4 maan5 can1 sau2 zing2 gaa3, nei5 si3 haa5 jat1 daam6 laa1!",
+                    "translation": "This cake was handmade by me last night; have a bite! (gaa3 = explaining fact/origin)"
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (13.2.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "原來你識游水㗎？我一直以為你怕水添！",
+                    "reading": "Jyun4 loi4 nei5 sik1 jau4 seoi2 gaa4? Ngo5 jat1 zik6 ji5 wai4 nei5 paa3 seoi2 tim1!",
+                    "translation": "Oh, so you know how to swim?! I always thought you were afraid of water! (gaa4 = surprised discovery)"
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (13.2.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "老細今日唔返公司咩？點解全體同事咁得閒嘅？",
+                    "reading": "Lou5 sai3 gam1 jat6 m4 faan1 gung1 si1 me1? Dim2 gaai2 cyun4 tai2 tung4 si6 gam3 dak1 haan4 ge2?",
+                    "translation": "Isn't the boss coming to the office today?! Why is every colleague so free? (me1 = rhetorical surprise)"
+                },
+                {
+                    "target": "呢度啲海鮮好新鮮㗎，每日朝早直接由漁船送過嚟。",
+                    "reading": "Ni1 dou6 di1 hoi2 sin1 hou2 san1 sin1 gaa3, mui5 jat6 ziu1 zou2 zik6 zip3 jau4 jyu4 syun4 sung3 gwo3 lai4.",
+                    "translation": "The seafood here is very fresh; it is delivered directly from fishing boats every morning. (gaa3 = asserting quality)"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 句末語氣助詞系統 (Sentence Particles 啦/㗎/喎)"
+                "㗎 (gaa3) = 嘅 + 呀: Always use gaa3 when explaining background facts ('It was handmade by me 㗎!').",
+                "咩 (me1) = Disbelief Alert: If you are shocked or questioning assumptions, pop '咩' at the end ('Is it true 咩?!')."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "Tone Dynamics in Hong Kong Workplace: When a manager asks '你未交報告㗎 (gaa4)?', the Tone 4 gaa4 indicates they are surprised and verifying why it hasn't arrived.",
+                "Avoiding Misunderstandings: Saying '係咩 (hai6 me1 - Is that so?)' is a very natural way to express mild curiosity or gentle skepticism in conversation."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「句末語氣助詞系統 (Sentence Particles 啦/㗎/喎)」喺第2節嘅地道廣東話表達？",
+                    "prompt": "想強調件禮物「係我親自買嘅（固有事實/背景說明）」，最地道嘅句末助詞係：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (13.2.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (13.2.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (13.2.3)。"
+                        "呢件禮物係我買㗎 (hai6 ngo5 maai5 gaa3)",
+                        "呢件禮物係我買咩",
+                        "呢件禮物係我買喎",
+                        "呢件禮物係我買添"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "gaa3 用於陳述事實同來源說明。"
+                },
+                {
+                    "prompt": "當你聽到一個令人難以置信嘅消息，表示驚訝反問「真係咁樣咩？」，應該用邊個助詞？",
+                    "options": [
+                        "係啦",
+                        "係咩 (hai6 me1)",
+                        "係囉",
+                        "係啫"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "me1 表達驚訝、懷疑與反問。"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「動態助詞同語氣助詞 (Particles 啦/喎/㗎)」語境嘅廣東話完整句子（練習 2）：",
+                    "prompt": "「原來你識彈鋼琴㗎？ (Oh, you know how to play piano?!)」入面嘅「㗎 (gaa4)」表達緊咩語氣？",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (13.2.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (13.2.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (13.2.3)。"
+                        "命令對方彈琴",
+                        "帶有意外驚訝嘅求證與發現",
+                        "極度憤怒與不滿",
+                        "無奈的嘆息"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "gaa4 疑問調表達驚訝發現新事實。"
+                },
+                {
+                    "prompt": "廣東話入面「㗎 (gaa3)」係由邊兩個字快速合音演變而嚟？",
+                    "options": [
+                        "嘅 (ge3) + 呀 (aa3)",
+                        "個 (go3) + 啦 (laa1)",
+                        "過 (gwo3) + 咩 (me1)",
+                        "咁 (gam3) + 呢 (ne1)"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "gaa3 = 嘅 (ge3) + 呀 (aa3)。"
                 }
             ]
         },
@@ -6665,85 +6745,127 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「句末語氣助詞系統 (Sentence Particles 啦/㗎/喎)」嘅日常商務與生活習慣（考核 13-2）？",
+                    "prompt": "句子「你琴日冇去開會咩？」表達嘅核心語氣係：",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (13.2.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (13.2.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (13.2.3)。"
+                        "普通的陳述句",
+                        "帶有驚訝、懷疑同反問（Didn't you go to the meeting?!）",
+                        "禮貌的提議",
+                        "時間的過去式"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "me1 構成帶有懷疑同驚訝嘅反問句。"
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («㗎啦_13_2»):",
+                    "prompt": "Type the 2-character Hanzi for 'Is that so?! / Really?!' in Cantonese (係咩):",
                     "acceptedAnswers": [
-                        "㗎啦_13_2"
+                        "係咩",
+                        "hai6 me1",
+                        "hai6me1"
                     ],
-                    "explanation": "The target keyword was: 【㗎啦_13_2】"
+                    "explanation": "係咩 (hai6 me1) means 'Is that so?! / Really?!'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u13-l3": {
         "id": "hk-u13-l3",
         "subject": "cantonese",
-        "unit": 13,
-        "lessonNumber": 3,
-        "title": "動態助詞同語氣助詞 (Particles 啦/喎/㗎) (Part 3)",
+        "unit": "hk-u13",
         "level": "B1",
-        "objective": "Comprehensive mastery of 句末語氣助詞系統 (Sentence Particles 啦/㗎/喎).",
+        "objective": "Master 喎 (wo3 reported speech / reminder of reality) and 啫 (ze1 'only/merely' minimizing particle).",
+        "prerequisites": [
+            "hk-u13-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u13-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（句末語氣助詞系統 (Sentence Particles 啦/㗎/喎) - 第3部分）入面，我哋會探討廣東話嘅核心語用語境同埋句末語氣助詞系統 (Sentence Particles 啦/㗎/喎)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "喺廣東話嘅轉述傳達同自我謙遜入面，**喎 (wo3 / wo5)** 同 **啫 (ze1)** 係兩個最具代表性嘅助詞。\n\n### 📢 1. 「喎」嘅核心功能 (wo3 / wo5)：\n- **傳聞與轉述 (Reported Information / Hearsay)**：轉達第三者講嘅說話（\"It is said that... / He said...\"）。\n  - 例如：天文台話聽日會落大雨**喎 (wo3)**。(The observatory said it'll rain heavily tomorrow.)\n  - 例如：陳生話佢唔得閒嚟**喎 (wo5)**。(Mr. Chan said he's not free to come.)\n- **提醒現實或意外發現 (Reminder / Realization)**：提醒對方注意眼前嘅事實。\n  - 例如：件衫幾靚**喎 (wo3)**！(Hey, this shirt is quite pretty!)\n  - 例如：你未熄燈**喎 (wo3)**。(Hey, you haven't turned off the lights yet!)\n\n### 🤏 2. 「啫 (ze1)」嘅縮小與淡化功能 (Minimizer / \"Only / Merely\")：\n- **表示「只不過……而已 / 罷了」**：用於淡化嚴重性、謙虛或者減輕壓力。\n  - 例如：我講下笑**啫 (ze1)**，唔好嬲啦！(I was only joking, don't be angry!)\n  - 例如：一件十蚊**啫 (ze1)**，好平呀！(It's only ten dollars, very cheap!)\n  - 例如：小事一樁**啫 (ze1)**，唔使客氣。(It's just a small matter, you're welcome.)",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (13.3.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "新聞話港鐵聽日開始加價喎，你知唔知呀？",
+                    "reading": "San1 man4 waa6 gong2 tit3 ting1 jat6 hoi1 ci2 gaa1 gaa3 wo3, nei5 zi1 m4 zi1 aa3?",
+                    "translation": "The news said the MTR is raising fares starting tomorrow; did you know? (wo3 = reported news)"
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (13.3.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "我琴晚只係瞓得四個鐘頭啫，所以今日好攰。",
+                    "reading": "Ngo5 kam4 maan5 zi2 hai6 fan3 dak1 sei3 go3 zung1 tau4 ze1, so2 ji5 gam1 jat6 hou2 gui6.",
+                    "translation": "I only slept for four hours last night, so I'm very tired today. (ze1 = only/merely)"
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (13.3.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "呢間茶餐廳啲奶茶幾香濃喎，值得再嚟飲！",
+                    "reading": "Ni1 gaan1 caa4 caan1 teng1 di1 naai5 caa4 gei2 hoeng1 nung4 wo3, zik6 dak1 zoi3 lai4 jam2!",
+                    "translation": "The milk tea at this tea restaurant is quite fragrant and rich; it's worth coming again! (wo3 = pleasant discovery)"
+                },
+                {
+                    "target": "幫少少手啫，大家咁熟唔使咁客氣啦！",
+                    "reading": "Bong1 siu2 siu2 sau2 ze1, daai6 gaa1 gam3 suk6 m4 sai2 gam3 haak3 hei3 laa1!",
+                    "translation": "It was just lending a small hand; we're so close, no need to be so polite! (ze1 = humble minimizing)"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 句末語氣助詞系統 (Sentence Particles 啦/㗎/喎)"
+                "喎 (wo3) = News Anchor: Whenever relaying news or messages from someone else, attach '喎' ('The weather report says 喎!').",
+                "啫 (ze1) = No Big Deal: Use '啫' whenever you want to say 'just / only / don't worry about it' ('Just joking 啫!')."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "Cantonese Humility with '啫': When praised, replying '少少嘢啫 (siu2 siu2 je5 ze1 - just a small thing)' perfectly demonstrates traditional Cantonese modesty and good manners.",
+                "Office Gossip & Updates: In Hong Kong offices, colleagues constantly share updates with '老細話聽日放假喎 (The boss said we have tomorrow off!)'."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「句末語氣助詞系統 (Sentence Particles 啦/㗎/喎)」喺第3節嘅地道廣東話表達？",
+                    "prompt": "當你想轉述朋友嘅說話「彼得話佢聽日嚟唔到（Peter said he can't come tomorrow）」，句末應加上邊個助詞？",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (13.3.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (13.3.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (13.3.3)。"
+                        "彼得話佢聽日嚟唔到喎 (wo3)",
+                        "彼得話佢聽日嚟唔到咩",
+                        "彼得話佢聽日嚟唔到啫",
+                        "彼得話佢聽日嚟唔到咋"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "wo3 專門用於轉述他人話語或傳聞。"
+                },
+                {
+                    "prompt": "不小心說錯話時，想緩和氣氛表示「我只不過係講下笑啫（I was only joking）」，應選用：",
+                    "options": [
+                        "我講下笑囉",
+                        "我講下笑啫 (ze1)",
+                        "我講下笑喎",
+                        "我講下笑咩"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "ze1 用於淡化事情嚴重性、表示「只不過...而已」。"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「動態助詞同語氣助詞 (Particles 啦/喎/㗎)」語境嘅廣東話完整句子（練習 3）：",
+                    "prompt": "句子「一件衫十蚊啫，好平呀！」入面嘅「啫 (ze1)」起緊咩作用？",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (13.3.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (13.3.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (13.3.3)。"
+                        "強調價格非常昂貴",
+                        "淡化數量或價格，表示「只不過是 / 區區」",
+                        "提議大家一起去買",
+                        "懷疑這件衣服的真假"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "ze1 表達「只不過/區區」，縮小數額。"
+                },
+                {
+                    "prompt": "行街時發現一間好特別嘅新舖頭，讚嘆「間舖頭幾靚喎！」入面嘅「喎」表示：",
+                    "options": [
+                        "發現眼前事實並引起注意嘅語氣",
+                        "要求退貨",
+                        "這家店很難看",
+                        "時間太晚了"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "wo3 在此表示意外發現眼前事實。"
                 }
             ]
         },
@@ -6751,85 +6873,128 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「句末語氣助詞系統 (Sentence Particles 啦/㗎/喎)」嘅日常商務與生活習慣（考核 13-3）？",
+                    "prompt": "廣東話「我幫少少手啫」體現咗說話者邊種社交態度？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (13.3.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (13.3.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (13.3.3)。"
+                        "傲慢自大",
+                        "謙遜禮貌、淡化自己的功勞（Just a small help）",
+                        "要求巨額回報",
+                        "表示極度不情願"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "explanation": "啫 (ze1) 體現謙遜淡化功勞嘅禮貌語氣。"
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («㗎啦_13_3»):",
+                    "prompt": "Type the 4-character Hanzi for 'Just joking / Only kidding' in Cantonese (講下笑啫):",
                     "acceptedAnswers": [
-                        "㗎啦_13_3"
+                        "講下笑啫",
+                        "gong2 haa5 siu3 ze1",
+                        "gong2haa5siu3ze1"
                     ],
-                    "explanation": "The target keyword was: 【㗎啦_13_3】"
+                    "explanation": "講下笑啫 (gong2 haa5 siu3 ze1) means 'Just joking / Only kidding'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u13-l4": {
         "id": "hk-u13-l4",
         "subject": "cantonese",
-        "unit": 13,
-        "lessonNumber": 4,
-        "title": "動態助詞同語氣助詞 (Particles 啦/喎/㗎) (Part 4)",
+        "unit": "hk-u13",
         "level": "B1",
-        "objective": "Comprehensive mastery of 句末語氣助詞系統 (Sentence Particles 啦/㗎/喎).",
+        "objective": "Master 呀嘛 (aa1 maa3 presupposed consensus), 咋 (zaa3 exclusive limit 'only'), and 添 (tim1 unexpected addition/realization).",
+        "prerequisites": [
+            "hk-u13-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u13-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（句末語氣助詞系統 (Sentence Particles 啦/㗎/喎) - 第4部分）入面，我哋會探討廣東話嘅核心語用語境同埋句末語氣助詞系統 (Sentence Particles 啦/㗎/喎)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "廣東話助詞系統嘅高階層次在於精準操控**共識預設**、**排他限制** 同埋 **意外增添**。呢三個助詞喺社交對話入面無處不在：\n\n### 🤝 1. 「呀嘛 (aa1 maa3)」—— 共識預設與理據確認：\n- **功能**：表示「正如你所知、顯然如此、不是早就說過了嗎（As you know / Obviously, isn't it?）」。\n- 說話者預設對方知道某個事實，用嚟提醒或尋求共識。\n- 例如：我琴日同你講過**㗎嘛 (gaa3 maa3)**！(I told you about this yesterday, remember!)\n- 例如：大家係好朋友**嚟㗎嘛 (lai4 gaa3 maa3)**。(We are good friends, after all.)\n\n### 🔒 2. 「咋 (zaa3)」—— 嚴格排他限制（Only / Just）：\n- **功能**：相當於 \"only / just / no more than\"，強調數量極少、時間極短或範圍受限。\n- **同「啫 (ze1)」嘅區別**：\n  - **咋 (zaa3)** 偏重於**客觀數量的排他極限**（得三個咋 = only 3, nothing more）。\n  - **啫 (ze1)** 偏重於**主觀心態的輕描淡寫**（幾蚊啫 = merely a few dollars, no big deal）。\n- 例如：全場特價剩返最後兩件**咋 (zaa3)**！(Only the last 2 pieces left!)\n- 例如：我等咗五分鐘**咋 (zaa3)**。(I only waited for 5 minutes.)\n\n### ➕ 3. 「添 (tim1)」—— 意外增添與突然醒悟：\n- **功能 1（額外增添）**：表示「還……、甚至連……也（also / on top of that / even）」，常同「仲 (zung6)」呼應。\n  - 例如：佢買咗新手機，**仲**送咗個耳筒**添 (tim1)**！\n- **功能 2（突然記起/後悔）**：表示「糟糕，突然想起來（Oops / I almost forgot!）」。\n  - 例如：哎呀，我唔記得帶鎖匙**添 (tim1)**！(Oh no, I forgot my keys!)",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (13.4.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "你唔好唔記得聽日要交報告呀嘛，老細催緊㗎！",
+                    "reading": "Nei5 m4 hou2 m4 gei3 dak1 ting1 jat6 jiu3 gaau1 bou3 gou3 aa1 maa3, lou5 sai3 ceoi1 gan2 gaa3!",
+                    "translation": "Don't forget that we have to submit the report tomorrow, as you know; the boss is rushing for it! (aa1 maa3 = consensus reminder)"
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (13.4.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "間舖頭今日全場大減價，但係優惠得今日一日咋！",
+                    "reading": "Gaan1 pou3 tau2 gam1 jat6 cyun4 coeng4 daai6 gaam2 gaa3, daan6 hai6 jau1 wai6 dak1 gam1 jat6 jat1 jat6 zaa3!",
+                    "translation": "The shop is having a storewide sale today, but the promotion is only for today! (zaa3 = exclusive limit)"
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (13.4.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "佢今日唔單止請食午餐，仲請全公司飲下午茶添！",
+                    "reading": "Keoi5 gam1 jat6 m4 daan1 zi2 cing2 sik6 ng5 caan1, zung6 cing2 cyun4 gung1 si1 jam2 haa6 ng5 caa4 tim1!",
+                    "translation": "He not only treated everyone to lunch today, but also treated the whole company to afternoon tea! (tim1 = unexpected addition)"
+                },
+                {
+                    "target": "死喇，我出門口嗰陣唔記得熄冷氣添！",
+                    "reading": "Sei2 laa3, ngo5 ceot1 mun4 hau2 go2 zan6 m4 gei3 dak1 sik1 laang5 hei3 tim1!",
+                    "translation": "Oh shoot, when I left the house I forgot to turn off the air conditioner! (tim1 = sudden realization/oops)"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 句末語氣助詞系統 (Sentence Particles 啦/㗎/喎)"
+                "呀嘛 (aa1 maa3) = 'You know it!': Always appeals to shared knowledge ('We agreed on this 呀嘛!').",
+                "咋 (zaa3) = Lock it down: Strict numerical limit ('Only 1 dollar 咋!').",
+                "添 (tim1) = Bonus / Oops: Either a bonus gift ('Bonus drink 添!') or an oops realization ('Forgot keys 添!')."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "The '添 (tim1)' Oops Factor: In Hong Kong Cantonese, exclaiming '唔記得咗添！ (m4 gei3 dak1 zo2 tim1!)' is the standard way to express 'Oh gosh, it completely slipped my mind!'.",
+                "Appealing to Consensus: Using '...㗎嘛 (gaa3 maa3)' in negotiation gently nudges the listener to agree without sounding confrontational."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「句末語氣助詞系統 (Sentence Particles 啦/㗎/喎)」喺第4節嘅地道廣東話表達？",
+                    "prompt": "想強調優惠「只剩下今天最後一天（strictly only today, no more）」應選用邊個助詞？",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (13.4.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (13.4.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (13.4.3)。"
+                        "優惠得今日一日咋 (zaa3)",
+                        "優惠得今日一日添",
+                        "優惠得今日一日咩",
+                        "優惠得今日一日喎"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "zaa3 強調客觀數額同時間嘅排他限制（only/just）。"
+                },
+                {
+                    "prompt": "出門口突然發現自己「忘記帶錢包了（Oops realization）」，最地道嘅驚呼係：",
+                    "options": [
+                        "我唔記得帶銀包囉",
+                        "哎呀，我唔記得帶銀包添！ (m4 gei3 dak1 daai3 ngan4 baau1 tim1!)",
+                        "我唔記得帶銀包㗎",
+                        "我唔記得帶銀包啫"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "tim1 用於突然想起來某件遺漏事情嘅驚覺語氣。"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「動態助詞同語氣助詞 (Particles 啦/喎/㗎)」語境嘅廣東話完整句子（練習 4）：",
+                    "prompt": "向朋友提醒雙方共同知道嘅約定「我哋約好咗七點鐘㗎嘛」，「㗎嘛」嘅作用係：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (13.4.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (13.4.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (13.4.3)。"
+                        "向對方借錢",
+                        "喚起雙方預設共識（As we agreed, remember?）",
+                        "宣布取消約會",
+                        "表示強烈抗議"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "㗎嘛 (gaa3 maa3) 喚起彼此共識與預設前提。"
+                },
+                {
+                    "prompt": "句子「佢唔單止買咗相機，仲送咗個袋添！」入面嘅「添 (tim1)」表示：",
+                    "options": [
+                        "額外增加、意想不到嘅附加收穫 (additional bonus)",
+                        "數量減少",
+                        "買錯了東西",
+                        "相機壞了"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "仲...添 (zung6...tim1) 表示額外增添。"
                 }
             ]
         },
@@ -6837,85 +7002,128 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「句末語氣助詞系統 (Sentence Particles 啦/㗎/喎)」嘅日常商務與生活習慣（考核 13-4）？",
+                    "prompt": "廣東話「得返五分鐘咋」同「得返五分鐘添」嘅語義區別係：",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (13.4.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (13.4.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (13.4.3)。"
+                        "前者強調只剩五分鐘（時間緊迫排他），後者表示意外多出了五分鐘或突然想起只剩五分鐘",
+                        "兩者完全一樣",
+                        "前者表示五個小時",
+                        "後者只能用於句首"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "zaa3 表排他限制（only），tim1 表意外增添或突然驚覺。"
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («㗎啦_13_4»):",
+                    "prompt": "Type the 5-character Hanzi for 'Oops, I forgot it!' in Cantonese (唔記得咗添):",
                     "acceptedAnswers": [
-                        "㗎啦_13_4"
+                        "唔記得咗添",
+                        "m4 gei3 dak1 zo2 tim1",
+                        "m4gei3dak1zo2tim1"
                     ],
-                    "explanation": "The target keyword was: 【㗎啦_13_4】"
+                    "explanation": "唔記得咗添 (m4 gei3 dak1 zo2 tim1) means 'Oops, I forgot it!'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u13-l5": {
         "id": "hk-u13-l5",
         "subject": "cantonese",
-        "unit": 13,
-        "lessonNumber": 5,
-        "title": "動態助詞同語氣助詞 (Particles 啦/喎/㗎) (Part 5)",
+        "unit": "hk-u13",
         "level": "B1",
-        "objective": "Comprehensive mastery of 句末語氣助詞系統 (Sentence Particles 啦/㗎/喎).",
+        "objective": "Synthesize compound particle clusters (㗎啦, 㗎喎, 啫嘛, 咋嘛) in natural multi-turn Cantonese dialogue.",
+        "prerequisites": [
+            "hk-u13-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u13-l1",
+                "hk-u13-l2",
+                "hk-u13-l3",
+                "hk-u13-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（句末語氣助詞系統 (Sentence Particles 啦/㗎/喎) - 第5部分）入面，我哋會探討廣東話嘅核心語用語境同埋句末語氣助詞系統 (Sentence Particles 啦/㗎/喎)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "喺廣東話最高階嘅真實對話入面，單個語氣助詞往往會**複合成群（Compound Particle Clusters）**！將兩個甚至三個助詞疊加喺句末，可以同時傳遞「事實說明 + 事態變化 + 情感態度」等多重維度。\n\n### 🧩 核心複合語氣助詞搭配：\n1. **㗎啦 (gaa3 laa3 / gaa3 laa1)** = 說明事實 (㗎) + 事態變化/提議 (啦)。\n   - 「我已經準備好**㗎啦 (gaa3 laa3)**。」(I am already fully prepared now!)\n   - 「你快啲去試下**㗎啦 (gaa3 laa1)**！」(You should really go try it!)\n2. **㗎喎 (gaa3 wo3)** = 說明事實 (㗎) + 轉述/提醒注意 (喎)。\n   - 「老細話呢個項目好緊要**㗎喎 (gaa3 wo3)**。」(The boss said this project is really critical, mind you!)\n3. **啫嘛 (ze1 maa3)** = 淡化 (啫) + 尋求共識 (嘛)。\n   - 「遲咗五分鐘**啫嘛 (ze1 maa3)**，唔使咁嬲呀？」(It was only five minutes late, no need to be so mad!)\n4. **咋嘛 (zaa3 maa3)** = 排他限制 (咋) + 尋求共識 (嘛)。\n   - 「我買咗一盒**咋嘛 (zaa3 maa3)**，點解話我買得多？」(I only bought one box, why say I bought too much?)\n5. **㗎咩 (gaa3 me1)** = 事實說明 (㗎) + 驚訝懷疑 (咩)。\n   - 「原來係咁**㗎咩 (gaa3 me1)**？！」(Is that really how it is?!)",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (13.5.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "A: 份合約搞掂未呀？ B: 我一早簽好名送咗過去㗎啦！",
+                    "reading": "A: Fan6 hap6 joek3 gaau2 dim3 mei6 aa3? B: Ngo5 jat1 zou2 cim1 hou2 meng2 sung3 zo2 gwo3 heoi3 gaa3 laa3!",
+                    "translation": "A: Is the contract sorted yet? B: I signed and sent it over a long time ago already! (gaa3 laa3 = fact + completed state)"
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (13.5.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "天文台話晏晝可能掛八號風球㗎喎，大家快啲執嘢收工啦！",
+                    "reading": "Tin1 man4 toi4 waa6 aan3 zau3 ho2 nang4 gwaa3 baat3 hou6 fung1 kau4 gaa3 wo3, daai6 gaa1 faai3 di1 zap1 je5 sau1 gung1 laa1!",
+                    "translation": "The observatory says they might hoist Typhoon Signal No. 8 this afternoon, mind you; let's pack up and leave work quickly!"
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (13.5.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "大家同事互相幫手啫嘛，千祈唔使咁客氣！",
+                    "reading": "Daai6 gaa1 tung4 si6 wu6 soeng1 bong1 sau2 ze1 maa3, cin1 kei4 m4 sai2 gam3 haak3 hei3!",
+                    "translation": "We're colleagues helping each other out, after all; definitely no need to be so polite! (ze1 maa3 = minimizing + consensus)"
+                },
+                {
+                    "target": "A: 嘩你買咁多嘢？ B: 我買咗兩袋新鮮蘋果咋嘛，邊有多呀！",
+                    "reading": "A: Waa3 nei5 maai5 gam3 do1 je5? B: Ngo5 maai5 zo2 loeng5 doi6 san1 sin1 ping4 gwo2 zaa3 maa3, bin1 jau5 do1 aa3!",
+                    "translation": "A: Wow, you bought so much stuff? B: I only bought two bags of fresh apples, that's all, how is that a lot! (zaa3 maa3 = strict limit + defense)"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 句末語氣助詞系統 (Sentence Particles 啦/㗎/喎)"
+                "Particle Cluster Power: Stack your intentions! 㗎啦 (fact + done), 㗎喎 (fact + notice), 啫嘛 (minor + obvious), 咋嘛 (only + defense)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "The Melody of Cantonese: The layering of sentence particles gives Cantonese its uniquely expressive, melodic conversational rhythm. Mastering clusters like '㗎啦' and '啫嘛' is what separates book learners from fluent conversationalists."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「句末語氣助詞系統 (Sentence Particles 啦/㗎/喎)」喺第5節嘅地道廣東話表達？",
+                    "prompt": "當同事問你「工作完成了沒有」，你想自信回答「我一早就全部搞定好了（事實+已完成）」，最地道嘅句末複合助詞係：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (13.5.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (13.5.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (13.5.3)。"
+                        "我一早搞掂好㗎啦 (gaa3 laa3)",
+                        "我一早搞掂好咩",
+                        "我一早搞掂好添",
+                        "我一早搞掂好咋"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "㗎啦 (gaa3 laa3) 結合事實說明與完成狀態。"
+                },
+                {
+                    "prompt": "受人感謝時謙虛回應「大家係好朋友互相幫忙而已嘛（淡化+共識）」，最自然嘅組合係：",
+                    "options": [
+                        "互相幫手啫嘛 (wu6 soeng1 bong1 sau2 ze1 maa3)",
+                        "互相幫手㗎咩",
+                        "互相幫手到爆",
+                        "互相幫手得滯"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "啫嘛 (ze1 maa3) 完美結合謙遜淡化與共識訴求。"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「動態助詞同語氣助詞 (Particles 啦/喎/㗎)」語境嘅廣東話完整句子（練習 5）：",
+                    "prompt": "轉述天文台警告「下晝可能會落暴雨㗎喎」，「㗎喎」喺度嘅作用係：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (13.5.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (13.5.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (13.5.3)。"
+                        "表示完全不相信天文台",
+                        "說明官方事實並鄭重提醒對方注意 (fact assertion + reminder)",
+                        "希望立刻下暴雨",
+                        "表示暴雨已經停了"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "㗎喎 (gaa3 wo3) 結合事實傳達與現實提醒。"
+                },
+                {
+                    "prompt": "被朋友誤會買了太多零食時，辯解「我買咗一包薯片咋嘛」，「咋嘛」傳達緊：",
+                    "options": [
+                        "買了全店所有零食",
+                        "強調客觀數量極少並尋求對方理解認同 (only one + defense)",
+                        "薯片很好吃",
+                        "薯片過期了"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "咋嘛 (zaa3 maa3) 強調數量少並抗辯尋求理解。"
                 }
             ]
         },
@@ -6923,24 +7131,29 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「句末語氣助詞系統 (Sentence Particles 啦/㗎/喎)」嘅日常商務與生活習慣（考核 13-5）？",
+                    "prompt": "下列邊一組廣東話對話最地道咁展示咗複合語氣助詞（㗎啦 / 啫嘛）嘅自然運用？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (13.5.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (13.5.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (13.5.3)。"
+                        "A: 你搞掂未？ B: 我一早做完㗎啦！大家互相幫手啫嘛！",
+                        "A: 你去哪裡？ B: 我去學校了",
+                        "A: 這是什麼？ B: 這是一本書",
+                        "A: 今天幾號？ B: 今天星期五"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "explanation": "自然融合 㗎啦 同 啫嘛 嘅日常地道用法。"
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («㗎啦_13_5»):",
+                    "prompt": "Type the 2-character Hanzi for the compound particle meaning 'already indeed so' (㗎啦):",
                     "acceptedAnswers": [
-                        "㗎啦_13_5"
+                        "㗎啦",
+                        "gaa3 laa3",
+                        "gaa3laa3",
+                        "gaa3 laa1"
                     ],
-                    "explanation": "The target keyword was: 【㗎啦_13_5】"
+                    "explanation": "㗎啦 (gaa3 laa3) is the compound sentence-final particle."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u14-l1": {
