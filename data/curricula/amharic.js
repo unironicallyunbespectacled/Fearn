@@ -8745,63 +8745,69 @@
     },
     "am-u17-l1": {
         "id": "am-u17-l1",
-        "subject": "amharic",
-        "unit": 17,
-        "lessonNumber": 1,
-        "title": "የግስ ዝርያዎች፡ ተገብሮ ግስ (Passive Verb Derivations - ተ-) (Part 1)",
+        "unit": "am-u17",
         "level": "B2",
-        "objective": "Comprehensive mastery of ተገብሮ ግስ አወቃቀር (Passive Stems).",
+        "objective": "Form and conjugate passive verbs from Type A trilateral roots in Amharic using the prefix «ተ-» (te-), including ተጻፈ (was written), ተሰበረ (was broken), ተከፈተ (was opened), and ተዘጋጀ (was prepared).",
+        "prerequisites": [
+            "am-u16-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u16-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ተገብሮ ግስ አወቃቀር (Passive Stems) - ደረጃ 1) ተማሪዎች ስለ ተገብሮ ግስ አወቃቀር (Passive Stems) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "In Amharic, the passive voice (ተገብሮ ግስ) shifts the focus from the subject acting to the patient receiving the action, formed by prefixing **ተ-** (Te-) to the perfective verbal stem.\n\n1. Type A Active vs. Passive Root Stems:\n- **ጻፈ** (Ts'afe — He wrote) -> **ተጻፈ** (Tets'afe — It was written)\n- **ሰበረ** (Sebere — He broke) -> **ተሰበረ** (Tesebere — It was broken)\n- **ከፈተ** (Kefete — He opened) -> **ተከፈተ** (Tekefete — It was opened)\n- **ቆረጠ** (Qoret'e — He cut) -> **ተቆረጠ** (Teqoret'e — It was cut)\n- **በላ** (Bela — He ate) -> **ተበላ** (Tebela — It was eaten)\n- **ዘጋጀ** (Zegaje — Prepared) -> **ተዘጋጀ** (Tezegaje — It was prepared)\n\n2. Agreement in Passive Clauses:\nThe passive verb agrees in gender, number, and person with the recipient / patient subject:\n- «**ደብዳቤው ተጻፈ**» (Debdabēw tets'afe) — The letter was written (masculine).\n- «**በሩ ተከፈተ**» (Beru tekefete) — The door was opened.\n- «**መስኮቶቹ ተሰበሩ**» (Meskotwochu teseberu) — The windows were broken (plural).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የተገብሮ ግስ አወቃቀር (Passive Stems) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (17.1.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "አዲሱ የትምህርት መጽሐፍ በታዋቂው ደራሲ ተጻፈ።",
+                    "reading": "Addīsu yetimihirt mets'haf betawaqīw derasī tets'afe.",
+                    "translation": "The new textbook was written by the famous author."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (17.1.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የቤቱ ዋና በር በማለዳ ተከፈተ።",
+                    "reading": "Yebētu wana ber bemaleda tekefete.",
+                    "translation": "The main door of the house was opened in the early morning."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (17.1.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ለበዓሉ የሚሆን ጣፋጭ ምግብ በኩሽና ውስጥ ተዘጋጀ።",
+                    "reading": "Lebe'alu yemīhon t'afach' migib bekushina wust' tezegaje.",
+                    "translation": "Delicious food for the festival was prepared in the kitchen."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ተገብሮ ግስ አወቃቀር (Passive Stems)"
+                "«ተ-» (Te-) is the passive prefix: ጻፈ (wrote) -> ተጻፈ (was written)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Passive constructions with «ተ-» are standard in formal Ethiopian news broadcasting, public administrative proclamations (አዋጅ / Awaj), and historical chronicles to focus on the accomplished event."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ተገብሮ ግስ አወቃቀር (Passive Stems)» አጠቃቀም በደረጃ 1 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«ተጻፈ» የሚለው ግስ ምን ያመለክታል?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (17.1.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (17.1.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (17.1.3)።"
+                        "It was written (Passive)",
+                        "He is writing",
+                        "He will erase"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "ተጻፈ (Tets'afe) is the passive form meaning 'it was written'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የግስ ዝርያዎች፡ ተገብሮ ግስ (Passive Verb Derivations - ተ-)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 1)፡",
+                    "prompt": "«ሰበረ» (He broke) ወደ ተገብሮ ግስ (Passive) ሲቀየር ምን ይሆናል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (17.1.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (17.1.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (17.1.3)።"
+                        "አሰበረ",
+                        "ተሰበረ (Tesebere - It was broken)",
+                        "ሰባሪ"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "ሰበረ -> ተሰበረ (was broken)."
                 }
             ]
         },
@@ -8809,85 +8815,94 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ተገብሮ ግስ አወቃቀር (Passive Stems)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 17-1)?",
+                    "prompt": "የትኛው ዓረፍተ ነገር ተገብሮ ግስ (Passive voice) ይዟል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (17.1.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (17.1.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (17.1.3)።"
+                        "ደብዳቤው ተላከ (The letter was sent)",
+                        "ልጁ ኳስ ተጫወተ (The boy played soccer)",
+                        "እሱ ውሃ ጠጣ (He drank water)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "explanation": "«ደብዳቤው ተላከ» uses the passive verb ተላከ (was sent)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ተጻፈ_17_1»):",
+                    "prompt": "Type the passive form of 'opened' (was opened) in Fidel script (ተከፈተ):",
                     "acceptedAnswers": [
-                        "ተጻፈ_17_1"
+                        "ተከፈተ",
+                        "tekefete",
+                        "Tekefete"
                     ],
-                    "explanation": "The target keyword was: 【ተጻፈ_17_1】"
+                    "explanation": "ተከፈተ (Tekefete) means 'was opened'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u17-l2": {
         "id": "am-u17-l2",
-        "subject": "amharic",
-        "unit": 17,
-        "lessonNumber": 2,
-        "title": "የግስ ዝርያዎች፡ ተገብሮ ግስ (Passive Verb Derivations - ተ-) (Part 2)",
+        "unit": "am-u17",
         "level": "B2",
-        "objective": "Comprehensive mastery of ተገብሮ ግስ አወቃቀር (Passive Stems).",
+        "objective": "Apply the passive prefix «ተ-» across Type B (geminated penultimate) and Type C (first vowel 'a') verb classes in Amharic, including ተፈለገ (was wanted), ተጀመረ (was started), ተመረቀ (was blessed/graduated), and ተባረከ (was blessed).",
+        "prerequisites": [
+            "am-u17-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u17-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ተገብሮ ግስ አወቃቀር (Passive Stems) - ደረጃ 2) ተማሪዎች ስለ ተገብሮ ግስ አወቃቀር (Passive Stems) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Type B and Type C verbs also form passives with the prefix **ተ-** (Te-), preserving their characteristic lexical stem features.\n\n1. Type B Passives (Maintain Central Consonant Gemination):\n- **ፈለገ** (Felege — Sought) -> **ተፈለገ** (Tefelege — Was sought / wanted)\n- **ጀመረ** (Jemere — Started) -> **ተጀመረ** (Tejemere — Was begun / started)\n- **መለሰ** (Melese — Returned / Answered) -> **ተመለሰ** (Temelese — Was returned / answered)\n- **ቀየረ** (Qeyere — Changed) -> **ተቀየረ** (Teqeyere — Was changed / replaced)\n- **መረቀ** (Mereqe — Blessed / Graduated) -> **ተመረቀ** (Temereqe — Was inaugurated / graduated)\n\n2. Type C Passives (Maintain Long 'a' Vowel on First Radical):\n- **ባረከ** (Bareke — Blessed) -> **ተባረከ** (Tebareke — Was blessed)\n- **ማረከ** (Mareke — Captured) -> **ተማረከ** (Temareke — Was captured in battle)",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የተገብሮ ግስ አወቃቀር (Passive Stems) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (17.2.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "የአዲሱ የመንገድ ግንባታ ፕሮጀክት ዛሬ ጠዋት ተጀመረ።",
+                    "reading": "Ye'addīsu yemenged ginbata projekit zarē t'ewat tejemere.",
+                    "translation": "The construction project of the new road was started this morning."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (17.2.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የጠፋው አስፈላጊ ሰነድ በፖሊስ ጣቢያው ተገኘ።",
+                    "reading": "Yet'efaw asfelagī sened bepolīs t'abiyaw tegegne.",
+                    "translation": "The lost important document was found at the police station."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (17.2.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "አዲሱ የህክምና ማዕከል በአካባቢው ሽማግሌዎች ተመረቀ።",
+                    "reading": "Addīsu yehikmina ma'ikel be'akababīw shimagilēwoch temereqe.",
+                    "translation": "The new medical center was inaugurated/blessed by the local elders."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ተገብሮ ግስ አወቃቀር (Passive Stems)"
+                "Type B verbs retain double-consonant power: ጀመረ -> ተጀመረ (was begun)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "The passive verb «ተመረቀ» is used for the inauguration of civic infrastructure (bridges, hospitals, universities) and scholastic graduation alike."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ተገብሮ ግስ አወቃቀር (Passive Stems)» አጠቃቀም በደረጃ 2 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«ተጀመረ» የሚለው ግስ ትርጉም ምንድን ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (17.2.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (17.2.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (17.2.3)።"
+                        "It was begun / started",
+                        "It was finished",
+                        "It was cancelled"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "ተጀመረ (Tejemere) means 'it was started / begun'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የግስ ዝርያዎች፡ ተገብሮ ግስ (Passive Verb Derivations - ተ-)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 2)፡",
+                    "prompt": "«ቀየረ» (He changed) የሚለው ግስ በተገብሮ ቅርጽ ምን ይሆናል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (17.2.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (17.2.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (17.2.3)።"
+                        "አስቀየረ",
+                        "ተቀየረ (Teqeyere - It was changed)",
+                        "ቀያሪ"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "ቀየረ -> ተቀየረ (was changed)."
                 }
             ]
         },
@@ -8895,85 +8910,94 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ተገብሮ ግስ አወቃቀር (Passive Stems)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 17-2)?",
+                    "prompt": "የትኛው ግስ 'It was found / discovered' የሚለውን ተገብሮ ትርጉም ይገልጻል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (17.2.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (17.2.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (17.2.3)።"
+                        "ፈለገ (He looked for)",
+                        "አጠፋ (He destroyed)",
+                        "ተገኘ (Tegegne)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "ተገኘ (Tegegne) is the passive of 'found'."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ተጻፈ_17_2»):",
+                    "prompt": "Type the Amharic passive verb for 'was started / begun' in Fidel script (ተጀመረ):",
                     "acceptedAnswers": [
-                        "ተጻፈ_17_2"
+                        "ተጀመረ",
+                        "tejemere",
+                        "Tejemere"
                     ],
-                    "explanation": "The target keyword was: 【ተጻፈ_17_2】"
+                    "explanation": "ተጀመረ (Tejemere) means 'was started / begun'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u17-l3": {
         "id": "am-u17-l3",
-        "subject": "amharic",
-        "unit": 17,
-        "lessonNumber": 3,
-        "title": "የግስ ዝርያዎች፡ ተገብሮ ግስ (Passive Verb Derivations - ተ-) (Part 3)",
+        "unit": "am-u17",
         "level": "B2",
-        "objective": "Comprehensive mastery of ተገብሮ ግስ አወቃቀር (Passive Stems).",
+        "objective": "Express the semantic agent (by whom the action was performed) in Amharic passive clauses using the preposition «በ-» (by) and compound postpositions like «በ... አማካኝነት» (by means of) and «በ... እጅ» (at the hand of).",
+        "prerequisites": [
+            "am-u17-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u17-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ተገብሮ ግስ አወቃቀር (Passive Stems) - ደረጃ 3) ተማሪዎች ስለ ተገብሮ ግስ አወቃቀር (Passive Stems) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "When the agent (doer) of a passive clause is explicitly stated in Amharic, it is introduced by specific prepositional structures.\n\n1. Simple Agent Prefix **በ-** (Be- — by):\n- «**ሌባው በፖሊስ ተያዘ።**» (Lēbaw bepolīs teyaze.) — The thief was caught **by the police**.\n- «**ምግቡ በእናቴ ተዘጋጀ።**» (Migbu be'innatē tezegaje.) — The food was prepared **by my mother**.\n\n2. Formal Compound Postpositions:\n- «**በ... አማካኝነት**» (Be... amakagninet — Through / By means of / By agency of):\n  - «ውሳኔው **በኮሚቴው አማካኝነት** ተላለፈ።» (The decision was passed by the committee.)\n- «**በ... እጅ**» (Be... ij — At the hands of / By):\n  - «ሀውልቱ **በታዋቂው ቀራፂ እጅ** ተሰራ።» (The monument was sculpted at the hand of the renowned artist.)",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የተገብሮ ግስ አወቃቀር (Passive Stems) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (17.3.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "የምርምር ውጤቱ በገለልተኛ ምሁራን አማካኝነት በጥንቃቄ ተገመገመ።",
+                    "reading": "Yemirmir wut'ētu be'geleltēgna mihuran amakagninet bet'inqaqē tegemegeme.",
+                    "translation": "The research result was carefully evaluated by independent scholars."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (17.3.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የድል ሀውልቱ በታዋቂው ቀራፂ እጅ ተሰራ።",
+                    "reading": "Yedil hawiltu betawaqīw qerats'ī ij tesera.",
+                    "translation": "The monument of victory was crafted at the hand of the renowned sculptor."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (17.3.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የአየር ንብረት ስምምነቱ በሁሉም የዓለም ሀገራት ተፈረመ።",
+                    "reading": "Ye'ayer nibret simiminetu behullum ye'alem hagerat tefereme.",
+                    "translation": "The climate agreement was signed by all nations of the world."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ተገብሮ ግስ አወቃቀር (Passive Stems)"
+                "«በ-» flags the agent in passive sentences: በፖሊስ (by police), በዳኛው (by the judge)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Official legal proclamations and court verdicts in Ethiopia consistently utilize «በ... አማካኝነት» to guarantee institutional precision and grammatical formality."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ተገብሮ ግስ አወቃቀር (Passive Stems)» አጠቃቀም በደረጃ 3 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«ሌባው በፖሊስ ተያዘ» በሚለው ዓረፍተ ነገር ውስጥ ድርጊቱን የፈጸመው (Agent) ማነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (17.3.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (17.3.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (17.3.3)።"
+                        "ፖሊስ (Police)",
+                        "ሌባው (Thief)",
+                        "ዳኛው (Judge)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "«በፖሊስ» indicates the police performed the capturing action."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የግስ ዝርያዎች፡ ተገብሮ ግስ (Passive Verb Derivations - ተ-)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 3)፡",
+                    "prompt": "«ስምምነቱ በሁለቱ ሀገራት ተፈረመ» ምን ማለት ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (17.3.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (17.3.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (17.3.3)።"
+                        "The agreement was rejected",
+                        "The agreement was signed by both countries",
+                        "The meeting was cancelled"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "«ስምምነቱ በሁለቱ ሀገራት ተፈረመ» = The agreement was signed by both countries."
                 }
             ]
         },
@@ -8981,85 +9005,94 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ተገብሮ ግስ አወቃቀር (Passive Stems)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 17-3)?",
+                    "prompt": "በተገብሮ ዓረፍተ ነገር ውስጥ ድርጊት ፈጻሚው (Agent) በየትኛው መስተዋድድ ይገለጻል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (17.3.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (17.3.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (17.3.3)።"
+                        "ወደ- (Towards)",
+                        "በ- / በአማካኝነት (By / Through)",
+                        "ስለ- (About)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "«በ-» and «በ... አማካኝነት» mark the agent in passive constructions."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ተጻፈ_17_3»):",
+                    "prompt": "Type the Amharic passive verb for 'was signed' in Fidel script (ተፈረመ):",
                     "acceptedAnswers": [
-                        "ተጻፈ_17_3"
+                        "ተፈረመ",
+                        "tefereme",
+                        "Tefereme"
                     ],
-                    "explanation": "The target keyword was: 【ተጻፈ_17_3】"
+                    "explanation": "ተፈረመ (Tefereme) means 'was signed'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u17-l4": {
         "id": "am-u17-l4",
-        "subject": "amharic",
-        "unit": 17,
-        "lessonNumber": 4,
-        "title": "የግስ ዝርያዎች፡ ተገብሮ ግስ (Passive Verb Derivations - ተ-) (Part 4)",
+        "unit": "am-u17",
         "level": "B2",
-        "objective": "Comprehensive mastery of ተገብሮ ግስ አወቃቀር (Passive Stems).",
+        "objective": "Distinguish the reflexive, reciprocal, and middle-voice semantic nuances of the prefix «ተ-» in Amharic verbs such as ተነሳ (rose up), ተቀመጠ (sat down), ተደበቀ (hid oneself), and ተገናኙ (they met one another).",
+        "prerequisites": [
+            "am-u17-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u17-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ተገብሮ ግስ አወቃቀር (Passive Stems) - ደረጃ 4) ተማሪዎች ስለ ተገብሮ ግስ አወቃቀር (Passive Stems) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "In addition to true passive voice, the prefix **ተ-** (Te-) encodes reflexive, middle voice, and reciprocal actions in Amharic.\n\n1. Middle Voice & Reflexive (Action affecting oneself):\n- **ተነሳ** (Tenesa) — He stood up / rose / woke up\n- **ተቀመጠ** (Teqemet'e) — He sat down\n- **ተደበቀ** (Tedebeqe) — He hid himself\n- **ተጠነቀቀ** (Tet'eneqqeqe) — He was cautious / took heed\n- **ተሰማማ** (Tesemamma) — He agreed / reached consensus\n\n2. Reciprocal Voice (Mutual interaction between 2+ subjects with root vowel lengthening):\n- **ተገናኙ** (Tegegagnu) — They met each other\n- **ተነጋገሩ** (Tenegageru) — They spoke with each other\n- **ተዋወቁ** (Tewawaqu) — They became acquainted with each other",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የተገብሮ ግስ አወቃቀር (Passive Stems) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (17.4.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ተማሪዎቹ አስተማሪው ወደ ክፍል ሲገባ በአክብሮት ተነሱ።",
+                    "reading": "Temarīwochu astemarīw wede kifil sīgeba be'akbirot tenesu.",
+                    "translation": "The students respectfully stood up when the teacher entered the classroom."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (17.4.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ሁለቱ የልጅነት ጓደኛሞች ከብዙ ዓመታት በኋላ በአጋጣሚ ተገናኙ።",
+                    "reading": "Huletu yelijinet gwadegnamoch kebizu ametat behwala be'agat'amī tegegagnu.",
+                    "translation": "The two childhood friends coincidentally met each other after many years."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (17.4.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "በአደጋው ጊዜ ሕፃናቱ በድንጋይ ዋሻ ውስጥ ተደበቁ።",
+                    "reading": "Be'adegaw gīzē hits'anatu bedingay washa wust' tedebequ.",
+                    "translation": "During the disaster, the children hid themselves inside a rock cave."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ተገብሮ ግስ አወቃቀር (Passive Stems)"
+                "«ተ-» covers Passive ('was done'), Middle ('did to self' like ተቀመጠ), and Reciprocal ('to each other' like ተገናኙ)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Standing up (**መነሳት**) when an elder or guest enters a room is a cornerstone of traditional Ethiopian domestic and communal etiquette."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ተገብሮ ግስ አወቃቀር (Passive Stems)» አጠቃቀም በደረጃ 4 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«ተገናኙ» የሚለው ግስ ምን አይነት ድርጊትን ያሳያል?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (17.4.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (17.4.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (17.4.3)።"
+                        "Reciprocal action: They met each other",
+                        "Solitary sleeping",
+                        "Throwing something away"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "ተገናኙ (Tegegagnu) is a reciprocal verb meaning 'they met each other'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የግስ ዝርያዎች፡ ተገብሮ ግስ (Passive Verb Derivations - ተ-)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 4)፡",
+                    "prompt": "«ተቀመጠ» የሚለው ግስ ትርጉም ምንድን ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (17.4.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (17.4.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (17.4.3)።"
+                        "He ran away",
+                        "He sat down",
+                        "He shouted"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "ተቀመጠ (Teqemet'e) means 'he sat down'."
                 }
             ]
         },
@@ -9067,85 +9100,94 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ተገብሮ ግስ አወቃቀር (Passive Stems)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 17-4)?",
+                    "prompt": "የትኛው ግስ 'He hid himself' የሚለውን ውስጣዊ/ተገብሮ ትርጉም ይገልጻል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (17.4.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (17.4.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (17.4.3)።"
+                        "ተደበቀ (Tedebeqe)",
+                        "ተናገረ (He spoke)",
+                        "ተበላ (Was eaten)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "explanation": "ተደበቀ (Tedebeqe) = he hid himself."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ተጻፈ_17_4»):",
+                    "prompt": "Type the Amharic middle-voice verb for 'stood up / rose' in Fidel script (ተነሳ):",
                     "acceptedAnswers": [
-                        "ተጻፈ_17_4"
+                        "ተነሳ",
+                        "tenesa",
+                        "Tenesa"
                     ],
-                    "explanation": "The target keyword was: 【ተጻፈ_17_4】"
+                    "explanation": "ተነሳ (Tenesa) means 'stood up / woke up / rose'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u17-l5": {
         "id": "am-u17-l5",
-        "subject": "amharic",
-        "unit": 17,
-        "lessonNumber": 5,
-        "title": "የግስ ዝርያዎች፡ ተገብሮ ግስ (Passive Verb Derivations - ተ-) (Part 5)",
+        "unit": "am-u17",
         "level": "B2",
-        "objective": "Comprehensive mastery of ተገብሮ ግስ አወቃቀር (Passive Stems).",
+        "objective": "Synthesize passive, middle-voice, and reciprocal verb derivations into a formal journalistic broadcast report and historical chronicle in Amharic.",
+        "prerequisites": [
+            "am-u17-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u17-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ተገብሮ ግስ አወቃቀር (Passive Stems) - ደረጃ 5) ተማሪዎች ስለ ተገብሮ ግስ አወቃቀር (Passive Stems) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "This review synthesizes passive morphology (**ተገብሮ ግስ**), middle-voice verbs, and reciprocal derivations in a formal journalistic news report.\n\n1. Broadcast & Proclamation Syntax:\n- **Inaugurations:** «...በክብር እንግዶች **ተመረቀ**» (...was inaugurated by guests of honor).\n- **Treaties:** «...በሁለቱም ወገኖች **ተፈረመ**» (...was signed by both sides).\n- **Decrees:** «...አዋጅ **ታወጀ**» (...a proclamation was declared).\n\n2. Key Journalistic Verb Register:\n- **ታወጀ** (Taweje) — Was proclaimed / announced\n- **ተላለፈ** (Telalefe) — Was passed / transmitted\n- **ተካሄደ** (Tekahede) — Was conducted / held",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የተገብሮ ግስ አወቃቀር (Passive Stems) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (17.5.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "በዛሬው ዕለት አዲሱ የሀይል ማመንጫ ግድብ በክብር እንግዶች ተመረቀ።",
+                    "reading": "Bezarēw ilet addīsu yehayil mamench'a gidib bekibir ingidoch temereqe.",
+                    "translation": "Today, the new hydroelectric dam was inaugurated by distinguished guests."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (17.5.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የሰላም ስምምነቱ በሁለቱም ወገኖች ከተፈረመ በኋላ የተኩስ አቁም አዋጅ ታወጀ።",
+                    "reading": "Yeselam simiminetu behuletum wegonoch ketefeerme behwala yetekus aqum awaj taweje.",
+                    "translation": "After the peace agreement was signed by both parties, a ceasefire declaration was proclaimed."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (17.5.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "በስብሰባው ማጠቃለያ ላይ በርካታ ጠቃሚ ውሳኔዎች ተላልፈዋል።",
+                    "reading": "Besibsebaw mat'enaqelaya lay birkata t'eqamī wusanēwochi telalfeval.",
+                    "translation": "At the conclusion of the meeting, numerous significant decisions were passed."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ተገብሮ ግስ አወቃቀር (Passive Stems)"
+                "Formal Amharic broadcasting thrives on «ተ-»: ተመረቀ (inaugurated), ተፈረመ (signed), ታወጀ (proclaimed)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "National broadcasts on Ethiopian Television and formal print publications utilize passive syntax extensively to convey official authority and objective reporting."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ተገብሮ ግስ አወቃቀር (Passive Stems)» አጠቃቀም በደረጃ 5 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«የተኩስ አቁም አዋጅ ታወጀ» ምን ማለት ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (17.5.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (17.5.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (17.5.3)።"
+                        "A ceasefire declaration was proclaimed",
+                        "War was declared",
+                        "The market opened"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "የተኩስ አቁም አዋጅ ታወጀ = A ceasefire declaration was proclaimed."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የግስ ዝርያዎች፡ ተገብሮ ግስ (Passive Verb Derivations - ተ-)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 5)፡",
+                    "prompt": "በዜና ዘገባ ውስጥ ተገብሮ ግስ በብዛት ለምን ጥቅም ላይ ይውላል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (17.5.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (17.5.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (17.5.3)።"
+                        "ቀልድ ለመናገር",
+                        "መደበኛ እና ገለልተኛ ሪፖርት ለማቅረብ (For formal, neutral reporting)",
+                        "ግጥም ለማዘጋጀት"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "Passive voice ensures objective, formal journalistic register."
                 }
             ]
         },
@@ -9153,24 +9195,27 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ተገብሮ ግስ አወቃቀር (Passive Stems)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 17-5)?",
+                    "prompt": "የትኛው ዓረፍተ ነገር የመደበኛ ዜና ተገብሮ አወቃቀርን ያሳያል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (17.5.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (17.5.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (17.5.3)።"
+                        "ልጁ ዳቦ በላ (The boy ate bread)",
+                        "አዲሱ ህንጻ ዛሬ ተመረቀ (The new building was inaugurated today)",
+                        "እነሱ ሮጡ (They ran)"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "explanation": "«አዲሱ ህንጻ ዛሬ ተመረቀ» demonstrates classic formal journalistic passive phrasing."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ተጻፈ_17_5»):",
+                    "prompt": "Type the Amharic passive verb for 'was proclaimed / declared' in Fidel script (ታወጀ):",
                     "acceptedAnswers": [
-                        "ተጻፈ_17_5"
+                        "ታወጀ",
+                        "taweje",
+                        "Taweje"
                     ],
-                    "explanation": "The target keyword was: 【ተጻፈ_17_5】"
+                    "explanation": "ታወጀ (Taweje) means 'was proclaimed / declared'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u18-l1": {
