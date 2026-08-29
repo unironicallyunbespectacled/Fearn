@@ -2420,63 +2420,69 @@
     },
     "zh-u5-l1": {
         "id": "zh-u5-l1",
-        "subject": "mandarin",
-        "unit": 5,
-        "lessonNumber": 1,
-        "title": "动词重叠与现在进行态 (Verb Reduplication & Continuous 在) (Part 1)",
+        "unit": "zh-u5",
         "level": "A1",
-        "objective": "Comprehensive mastery of 现在进行态与在 (Continuous Aspect with 在).",
+        "objective": "Master the core Mandarin action verbs (吃, 喝, 看, 听, 说, 写, 买, 去) and their typical verb-object collocations for daily routine activities.",
+        "prerequisites": [
+            "zh-u4-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u4-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「动词重叠与现在进行态 (Verb Reduplication & Continuous 在)」（第1部分）的核心句法结构与现在进行态与在 (Continuous Aspect with 在)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "汉语日常行为大多由单音节或双音节及物动词（Transitive Verbs）与宾语搭配构成动宾短语。\n\n1. 八大核心行为动词 (8 Core Action Verbs):\n- **吃 (chī)**：吃（eat）→ 吃饭 (chī fàn)、吃苹果 (chī píngguǒ)\n- **喝 (hē)**：喝（drink）→ 喝茶 (hē chá)、喝水 (hē shuǐ)、喝咖啡 (hē kāfēi)\n- **看 (kàn)**：看（look / read / watch）→ 看书 (kàn shū)、看电影 (kàn diànyǐng)\n- **听 (tīng)**：听（listen）→ 听音乐 (tīng yīnyuè)、听课 (tīng kè)\n- **说 (shuō)**：说（speak / say）→ 说汉语 (shuō hànyǔ)、说中文 (shuō zhōngwén)\n- **写 (xiě)**：写（write）→ 写汉字 (xiě hànzì)、写作业 (xiě zuòyè)\n- **买 (mǎi)**：买（buy）→ 买东西 (mǎi dōngxi)、买书 (mǎi shū)\n- **去 (qù)**：去（go to）→ 去学校 (qù xuéxiào)、去商店 (qù shāngdiàn)。\n\n2. 基础 SVO 语序 (Subject + Verb + Object):\n- 我每天早晨喝茶，下午看书。(Wǒ měitiān zǎochén hē chá, xiàwǔ kàn shū. — I drink tea every morning and read books in the afternoon.)",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (5.1.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "我喜欢喝中国绿茶，也喜欢吃北京烤鸭。",
+                    "reading": "Wǒ xǐhuan hē Zhōngguó lǜchá, yě xǐhuan chī Běijīng kǎoyā.",
+                    "translation": "I like drinking Chinese green tea and also like eating Beijing roast duck."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (5.1.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫每天晚上都在宿舍认真地写汉字、听中文录音。",
+                    "reading": "Dàwèi měitiān wǎnshang dōu zài sùshè rènzhēn de xiě hànzì, tīng zhōngwén lùyīn.",
+                    "translation": "David diligently writes Hanzi and listens to Chinese recordings in his dorm every evening."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (5.1.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "我们下午一起去书店买词典吧！",
+                    "reading": "Wǒmen xiàwǔ yìqǐ qù shūdiàn mǎi cídiǎn ba!",
+                    "translation": "Let's go to the bookstore to buy dictionaries together this afternoon!"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 现在进行态与在 (Continuous Aspect with 在)"
+                "«吃» = Eat with mouth (口)! «喝» = Drink with mouth (口)! «看» = Look with hand over eye (手+目)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Tea culture (茶文化 chá wénhuà) is an integral pillar of Chinese daily life, symbolizing harmony, hospitality, and mindfulness across thousands of years."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「现在进行态与在 (Continuous Aspect with 在)」在第1小节中的标准汉语语法规范？",
+                    "prompt": "表达‘喝咖啡 (Drink coffee)’时，动词‘喝’的正确汉字是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (5.1.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (5.1.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (5.1.3)。"
+                        "喝 (hē)",
+                        "吃",
+                        "买"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "喝 (hē) with mouth radical 口 is used for drinking liquids."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「动词重叠与现在进行态 (Verb Reduplication & Continuous 在)」语用情境与完整句式的选项（练习 1）：",
+                    "prompt": "动宾短语‘看书’和‘看电影’中，动词‘看’表达的意思是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (5.1.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (5.1.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (5.1.3)。"
+                        "写",
+                        "看 / 阅读 / 观看 (Look / Read / Watch)",
+                        "听"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "看 covers looking, reading (books), and watching (movies)."
                 }
             ]
         },
@@ -2484,85 +2490,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「现在进行态与在 (Continuous Aspect with 在)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 5-1）？",
+                    "prompt": "句子‘他在教室里写汉字’中的核心动作是：",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (5.1.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (5.1.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (5.1.3)。"
+                        "吃饭",
+                        "写中国汉字 (Writing Chinese characters)",
+                        "去商店"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "写汉字 means writing Chinese characters."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («在看_5_1»):",
+                    "prompt": "Type the Hanzi for 'to drink' (喝):",
                     "acceptedAnswers": [
-                        "在看_5_1"
+                        "喝",
+                        "he",
+                        "hē",
+                        "Hē",
+                        "He"
                     ],
-                    "explanation": "The target keyword was: 【在看_5_1】"
+                    "explanation": "喝 (hē) means 'to drink'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u5-l2": {
         "id": "zh-u5-l2",
-        "subject": "mandarin",
-        "unit": 5,
-        "lessonNumber": 2,
-        "title": "动词重叠与现在进行态 (Verb Reduplication & Continuous 在) (Part 2)",
+        "unit": "zh-u5",
         "level": "A1",
-        "objective": "Comprehensive mastery of 现在进行态与在 (Continuous Aspect with 在).",
+        "objective": "Master the Mandarin locative prepositional structure (Subject + 在 + Location + Verb + Object), recognizing the strict chronological constraint that location precedes action.",
+        "prerequisites": [
+            "zh-u5-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u5-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「动词重叠与现在进行态 (Verb Reduplication & Continuous 在)」（第2部分）的核心句法结构与现在进行态与在 (Continuous Aspect with 在)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "汉语与印欧语言的一个关键语法差异在于**介词状语的位置**。在汉语中，表示动作发生地点的介词短语**必须置于谓语动词之前**！\n\n1. 介词在字句黄金公式 (Locative Action Formula):\n- **主语 + 在 (zài) + 地点名词 (Location) + 动词 (Verb) + 宾语 (Object)**\n- 示例对比：\n  - 英语：I read books *in the library*.\n  - 汉语：我 **在图书馆** 看书。(Wǒ zài túshūguǎn kàn shū.) *[绝对不能说成 *我看书在图书馆]*\n\n2. 常用地点词汇 (Locations):\n- **学校 (xuéxiào - school)**, **大学 (dàxué - university)**\n- **图书馆 (túshūguǎn - library)**, **教室 (jiàoshì - classroom)**\n- **食堂 (shítáng - cafeteria / dining hall)**, **宿舍 (sùshè - dormitory)**\n- **商店 (shāngdiàn - shop / store)**, **家 (jiā - home)**。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (5.2.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "李明每天中午在大学食堂吃饭。",
+                    "reading": "Lǐ Míng měitiān zhōngwǔ zài dàxué shítáng chī fàn.",
+                    "translation": "Li Ming eats lunch in the university cafeteria every day at noon."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (5.2.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "同学们都在教室里认真地听张老师讲课。",
+                    "reading": "Tóngxuémen dōu zài jiàoshì lǐ rènzhēn de tīng Zhāng lǎoshī jiǎngkè.",
+                    "translation": "The classmates are all in the classroom attentively listening to Teacher Zhang lecture."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (5.2.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "大卫下午在宿舍看书，晚上去体育馆运动。",
+                    "reading": "Dàwèi xiàwǔ zài sùshè kàn shū, wǎnshang qù tǐyùguǎn yùndòng.",
+                    "translation": "David reads books in the dormitory in the afternoon and goes to the gym to exercise in the evening."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 现在进行态与在 (Continuous Aspect with 在)"
+                "Location comes BEFORE Action! (人在哪儿 + 做什么: 我在学校学习!)"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "In Chinese syntactic philosophy, setting the stage (time, place, condition) always precedes the unfolding of the action itself."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「现在进行态与在 (Continuous Aspect with 在)」在第2小节中的标准汉语语法规范？",
+                    "prompt": "表达‘我在图书馆看书’时，介词短语‘在图书馆’应当放在哪里？",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (5.2.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (5.2.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (5.2.3)。"
+                        "放在动词‘看书’之前：我在图书馆看书",
+                        "放在句尾：我看书在图书馆",
+                        "放在句首且无主语：在看书我图书馆"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "Locative prepositional phrases must precede the main verb: 主语 + 在地点 + 动词."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「动词重叠与现在进行态 (Verb Reduplication & Continuous 在)」语用情境与完整句式的选项（练习 2）：",
+                    "prompt": "下列哪个句子完全符合汉语的标准语序规范？",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (5.2.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (5.2.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (5.2.3)。"
+                        "他买东西在商店",
+                        "他在商店买东西 (Tā zài shāngdiàn mǎi dōngxi)",
+                        "买他在商店东西"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "他在商店买东西 correctly places 在商店 before the verb 买."
                 }
             ]
         },
@@ -2570,85 +2587,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「现在进行态与在 (Continuous Aspect with 在)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 5-2）？",
+                    "prompt": "句子‘我们都在大学学习汉语’表达的完整语义是：",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (5.2.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (5.2.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (5.2.3)。"
+                        "我们在大学教汉语",
+                        "大学不在我们这里",
+                        "我们都在大学里学习中文 (We all study Chinese at university)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "我们都在大学学习汉语 indicates that we all study Chinese at university."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («在看_5_2»):",
+                    "prompt": "Type the Hanzi for the locative preposition 'at / in' (在):",
                     "acceptedAnswers": [
-                        "在看_5_2"
+                        "在",
+                        "zai",
+                        "zài",
+                        "Zài",
+                        "Zai"
                     ],
-                    "explanation": "The target keyword was: 【在看_5_2】"
+                    "explanation": "在 (zài) indicates location ('at / in / on')."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u5-l3": {
         "id": "zh-u5-l3",
-        "subject": "mandarin",
-        "unit": 5,
-        "lessonNumber": 3,
-        "title": "动词重叠与现在进行态 (Verb Reduplication & Continuous 在) (Part 3)",
+        "unit": "zh-u5",
         "level": "A1",
-        "objective": "Comprehensive mastery of 现在进行态与在 (Continuous Aspect with 在).",
+        "objective": "Ask and answer questions about ongoing and habitual actions using the question phrases 做什么 (zuò shénme / what are you doing?) and 动词 + 什么 (Verb + shénme).",
+        "prerequisites": [
+            "zh-u5-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u5-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「动词重叠与现在进行态 (Verb Reduplication & Continuous 在)」（第3部分）的核心句法结构与现在进行态与在 (Continuous Aspect with 在)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "询问别人正在做什么或具体动作的宾语时，主要使用疑问代词「什么 (shénme)」与动词「做 (zuò - to do)」配合。\n\n1. 核心疑问句式 (Action Inquiries):\n- **你在做什么？** (Nǐ zài zuò shénme? — What are you doing?)\n  - 回答：我在看书。(Wǒ zài kàn shū. — I am reading books.)\n  - 回答：我在写作业。(Wǒ zài xiě zuòyè. — I am doing homework.)\n\n2. 动词 + 什么？ (Inquiring Specific Objects):\n- **你喝什么？** (Nǐ hē shénme? — What are you drinking?) → 我喝绿茶。(I drink green tea.)\n- **他买什么？** (Tā mǎi shénme? — What is he buying?) → 他买中文词典。(He is buying a Chinese dictionary.)\n- **你们在听什么？** (Nǐmen zài tīng shénme? — What are you listening to?) → 我们在听中国音乐。(We are listening to Chinese music.)",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (5.3.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "A: 你在做什么呢？ B: 我在看一本关于中国历史的书。",
+                    "reading": "A: Nǐ zài zuò shénme ne? B: Wǒ zài kàn yì běn guānyú Zhōngguó lìshǐ de shū.",
+                    "translation": "A: What are you doing? B: I am reading a book about Chinese history."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (5.3.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "A: 服务员，请问你想喝点什么？ B: 我喝一杯热茶，谢谢！",
+                    "reading": "A: Fúwùyuán, qǐngwèn nǐ xiǎng hē diǎn shénme? B: Wǒ hē yì bēi rè chá, xièxie!",
+                    "translation": "A: Waiter, what would you like to drink? B: I'll drink a cup of hot tea, thank you!"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (5.3.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "他们下午去超市买什么东西？——他们去买水果和面包。",
+                    "reading": "Tāmen xiàwǔ qù chāoshì mǎi shénme dōngxi? —— Tāmen qù mǎi shuǐguǒ hé miànbāo.",
+                    "translation": "What are they buying at the supermarket this afternoon? — They are buying fruit and bread."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 现在进行态与在 (Continuous Aspect with 在)"
+                "«做» = To do! «做什么» = What doing? S + 在做什么 = What are you doing?"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Asking «在做什么呢？» is a casual, friendly conversation starter among Chinese friends, equivalent to 'What are you up to?'."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「现在进行态与在 (Continuous Aspect with 在)」在第3小节中的标准汉语语法规范？",
+                    "prompt": "用中文询问对方‘你在做什么？’时，最标准自然的问句是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (5.3.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (5.3.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (5.3.3)。"
+                        "你在做什么？ (Nǐ zài zuò shénme?)",
+                        "你做什么在？",
+                        "什么你在做？"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "«你在做什么？» is the standard action inquiry without word inversion."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「动词重叠与现在进行态 (Verb Reduplication & Continuous 在)」语用情境与完整句式的选项（练习 3）：",
+                    "prompt": "当服务员问你「你想喝什么？」时，得体的回答句式是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (5.3.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (5.3.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (5.3.3)。"
+                        "我是咖啡",
+                        "我想喝一杯咖啡 (Wǒ xiǎng hē yì bēi kāfēi)",
+                        "喝咖啡在"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "我想喝一杯咖啡 directly and politely answers the question."
                 }
             ]
         },
@@ -2656,85 +2684,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「现在进行态与在 (Continuous Aspect with 在)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 5-3）？",
+                    "prompt": "问句‘他在图书馆看什么？’是在询问：",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (5.3.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (5.3.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (5.3.3)。"
+                        "他在图书馆看什么人/书籍内容 (What he is reading)",
+                        "他什么时候去图书馆",
+                        "图书馆在哪里"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "他在图书馆看什么？ inquires about the specific reading material."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («在看_5_3»):",
+                    "prompt": "Type the Hanzi for 'to do / to make' (做):",
                     "acceptedAnswers": [
-                        "在看_5_3"
+                        "做",
+                        "zuo",
+                        "zuò",
+                        "Zuò",
+                        "Zuo",
+                        "作"
                     ],
-                    "explanation": "The target keyword was: 【在看_5_3】"
+                    "explanation": "做 (zuò) means 'to do / to make'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u5-l4": {
         "id": "zh-u5-l4",
-        "subject": "mandarin",
-        "unit": 5,
-        "lessonNumber": 4,
-        "title": "动词重叠与现在进行态 (Verb Reduplication & Continuous 在) (Part 4)",
+        "unit": "zh-u5",
         "level": "A1",
-        "objective": "Comprehensive mastery of 现在进行态与在 (Continuous Aspect with 在).",
+        "objective": "Master the sequential conjunction pair 先...然后... (xiān... ránhòu... / first... then...) to articulate multi-step daily routines and chronological activities.",
+        "prerequisites": [
+            "zh-u5-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u5-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「动词重叠与现在进行态 (Verb Reduplication & Continuous 在)」（第4部分）的核心句法结构与现在进行态与在 (Continuous Aspect with 在)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在叙述一连串动作或日常作息安排时，常用关联副词「先 (xiān - first)」和「然后 (ránhòu - then / after that)」来连接多个动作分句。\n\n1. 顺序句型结构 (Sequential Pattern):\n- **主语 + 先 (xiān) + 动作一，然后 (ránhòu) + 动作二**\n- 示例：\n  - 我**先**吃饭，**然后**去图书馆学习。(Wǒ xiān chī fàn, ránhòu qù túshūguǎn xuéxí. — I eat first, then go to the library to study.)\n  - 他每天早晨**先**喝一杯水，**然后**去公园跑步。(He drinks a glass of water first every morning, then goes running in the park.)\n\n2. 进一步扩展结构 (Multi-step Sequence):\n- **先...接着...然后...最后...** (First... next... then... finally...)\n- 掌握「先...然后...」是构建连贯复合句的核心基石。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (5.4.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "我们下午先去教室上中文课，然后一起去食堂吃晚饭。",
+                    "reading": "Wǒmen xiàwǔ xiān qù jiàoshì shàng zhōngwén kè, ránhòu yìqǐ qù shítáng chī wǎnfàn.",
+                    "translation": "We first go to the classroom for Chinese class this afternoon, then go to the cafeteria together for dinner."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (5.4.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "我每天晚上先复习生词，然后练习写汉字。",
+                    "reading": "Wǒ měitiān wǎnshang xiān fùxí shēngcí, ránhòu liànxí xiě hànzì.",
+                    "translation": "Every evening I review new vocabulary first, then practice writing Chinese characters."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (5.4.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "他打算先在北京学习一年汉语，然后去上海工作。",
+                    "reading": "Tā dǎsuàn xiān zài Běijīng xuéxí yì nián hànyǔ, ránhòu qù Shànghǎi gōngzuò.",
+                    "translation": "He plans to study Chinese in Beijing for one year first, then go work in Shanghai."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 现在进行态与在 (Continuous Aspect with 在)"
+                "«先» = First (step 1)! «然后» = Then (step 2)! (先...然后... Sequence master!)"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Structured sequencing is vital in Chinese professional communication and formal protocols, where steps must proceed in orderly harmony (循序渐进 xún xù jiàn jìn)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「现在进行态与在 (Continuous Aspect with 在)」在第4小节中的标准汉语语法规范？",
+                    "prompt": "表达‘先做动作A，然后做动作B’时，常用的关联词搭配是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (5.4.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (5.4.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (5.4.3)。"
+                        "先……然后…… (xiān... ránhòu...)",
+                        "因为……所以……",
+                        "虽然……但是……"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "先...然后... connects sequential actions chronologically."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「动词重叠与现在进行态 (Verb Reduplication & Continuous 在)」语用情境与完整句式的选项（练习 4）：",
+                    "prompt": "句子‘我先去洗手，然后吃饭’的意思是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (5.4.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (5.4.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (5.4.3)。"
+                        "边吃饭边洗手",
+                        "先洗手，接着再吃饭 (First wash hands, then eat)",
+                        "吃完饭再去洗手"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "先 (first) wash hands -> 然后 (then) eat."
                 }
             ]
         },
@@ -2742,85 +2782,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「现在进行态与在 (Continuous Aspect with 在)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 5-4）？",
+                    "prompt": "下列哪个句子正确使用了‘先……然后……’顺序关联词？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (5.4.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (5.4.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (5.4.3)。"
+                        "然后我看书，先睡觉",
+                        "我先在图书馆看书，然后回宿舍休息 (Wǒ xiān zài túshūguǎn kàn shū, ránhòu huí sùshè xiūxi)",
+                        "我看了然后先书"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "我先在图书馆看书，然后回宿舍休息 correctly applies the sequence."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («在看_5_4»):",
+                    "prompt": "Type the Hanzi for 'first / advance' (先):",
                     "acceptedAnswers": [
-                        "在看_5_4"
+                        "先",
+                        "xian",
+                        "xiān",
+                        "Xiān",
+                        "Xian"
                     ],
-                    "explanation": "The target keyword was: 【在看_5_4】"
+                    "explanation": "先 (xiān) means 'first / earlier'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u5-l5": {
         "id": "zh-u5-l5",
-        "subject": "mandarin",
-        "unit": 5,
-        "lessonNumber": 5,
-        "title": "动词重叠与现在进行态 (Verb Reduplication & Continuous 在) (Part 5)",
+        "unit": "zh-u5",
         "level": "A1",
-        "objective": "Comprehensive mastery of 现在进行态与在 (Continuous Aspect with 在).",
+        "objective": "Synthesize all Unit 5 action verbs, locative 在 phrases, action inquiries, and sequential markers (先...然后...) into a comprehensive A1 narration of a complete daily routine.",
+        "prerequisites": [
+            "zh-u5-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u5-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「动词重叠与现在进行态 (Verb Reduplication & Continuous 在)」（第5部分）的核心句法结构与现在进行态与在 (Continuous Aspect with 在)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在本课中，我们将整合时间表达（Unit 3）、空间介词（在 + 地点）与动作行为（Unit 5），完整叙述‘我的一天 (My Typical Day)’。\n\n1. 完整日常作息叙述模板 (Daily Routine Master Blueprint):\n- **早晨**：我每天早晨七点起床，七点半在食堂吃早饭。(I get up at 7:00, eat breakfast at 7:30 in cafeteria.)\n- **上午**：八点到十二点我们在教室上课，练习听说读写。(8:00–12:00 we have class, practicing listening, speaking, reading, writing.)\n- **中午**：十二点半在食堂吃午饭，然后回宿舍休息半小时。(12:30 lunch in cafeteria, then rest in dorm for 30 mins.)\n- **下午**：下午两点我去图书馆看书、写作业。(2:00 PM I go to library to read and do homework.)\n- **晚上**：晚上六点半和朋友一起吃晚饭，八点听音乐，十一点睡觉。(6:30 PM dinner with friends, 8:00 music, 11:00 sleep).\n\n2. 第五单元综合交际实战 (Unit 5 Comprehensive Synthesis):\n- 两人对话：询问对方一天的作息安排（你每天几点上课？下午在做什么？）并相互约定活动。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (5.5.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "我的一天非常充实：早晨先去操场跑步，然后回宿舍吃早饭、读中文课文。",
+                    "reading": "Wǒ de yì tiān fēicháng chōngshí: zǎochén xiān qù cāochǎng pǎobù, ránhòu huí sùshè chī zǎofàn, dú zhōngwén kèwén.",
+                    "translation": "My day is very fulfilling: in the morning I first go running on the track, then return to the dorm to eat breakfast and read Chinese texts."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (5.5.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "张华：大卫，你下午一般在做什么？ 大卫：我下午两点先去图书馆看书，四点去体育馆打篮球。",
+                    "reading": "Zhāng Huá: Dàwèi, nǐ xiàwǔ yībān zài zuò shénme? Dàwèi: Wǒ xiàwǔ liǎng diǎn xiān qù túshūguǎn kàn shū, sì diǎn qù tǐyùguǎn dǎ lánqiú.",
+                    "translation": "Zhang Hua: David, what do you usually do in the afternoon? David: At 2:00 PM I first go to the library to read, and at 4:00 PM I go to the gym to play basketball."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (5.5.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "我们每天都在进步，学好中文需要多听、多说、多读、多写！",
+                    "reading": "Wǒmen měitiān dōu zài jìnbù, xué hǎo zhōngwén xūyào duō tīng, duō shuō, duō dú, duō xiě!",
+                    "translation": "We are progressing every day; mastering Chinese requires more listening, speaking, reading, and writing!"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 现在进行态与在 (Continuous Aspect with 在)"
+                "The 4 Pillars of Language: 听 (Listen), 说 (Speak), 读 (Read), 写 (Write)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "The traditional Chinese concept of daily rhythm is captured in the proverb «一日之计在于晨» (Yí rì zhī jì zài yú chén — A day's planning begins in the morning), emphasizing early rising and morning focus."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「现在进行态与在 (Continuous Aspect with 在)」在第5小节中的标准汉语语法规范？",
+                    "prompt": "叙述日常作息时，‘我早晨七点起床，先喝水，然后吃早饭’中，哪个动作发生得最早？",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (5.5.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (5.5.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (5.5.3)。"
+                        "喝水 (Drinking water happens first before eating breakfast)",
+                        "吃早饭",
+                        "上课"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "先喝水 indicates drinking water occurs first."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「动词重叠与现在进行态 (Verb Reduplication & Continuous 在)」语用情境与完整句式的选项（练习 5）：",
+                    "prompt": "在汉语学习中，代表‘听说读写’四大核心技能的汉字是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (5.5.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (5.5.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (5.5.3)。"
+                        "吃喝玩乐",
+                        "听、说、读、写 (Listen, Speak, Read, Write)",
+                        "去、来、在、做"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "听 (listen), 说 (speak), 读 (read), 写 (write) are the four core language skills."
                 }
             ]
         },
@@ -2828,24 +2879,30 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「现在进行态与在 (Continuous Aspect with 在)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 5-5）？",
+                    "prompt": "句子‘大卫下午在图书馆看书，晚上回宿舍写作业’完整描述了：",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (5.5.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (5.5.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (5.5.3)。"
+                        "大卫的家庭成员",
+                        "大卫的国籍",
+                        "大卫下午和晚上的具体日常活动与地点 (David's afternoon and evening activities & locations)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "The sentence describes David's locations and specific daily actions."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («在看_5_5»):",
+                    "prompt": "Type the Hanzi for 'to eat' (吃):",
                     "acceptedAnswers": [
-                        "在看_5_5"
+                        "吃",
+                        "chi",
+                        "chī",
+                        "Chī",
+                        "Chi",
+                        "喫"
                     ],
-                    "explanation": "The target keyword was: 【在看_5_5】"
+                    "explanation": "吃 (chī) means 'to eat'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u6-l1": {
