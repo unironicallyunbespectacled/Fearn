@@ -12566,63 +12566,69 @@
     },
     "am-u25-l1": {
         "id": "am-u25-l1",
-        "subject": "amharic",
-        "unit": 25,
-        "lessonNumber": 1,
-        "title": "ታሪክ እና ጥንታዊ ቅርሶች (Ethiopian History & Ge'ez Roots) (Part 1)",
+        "unit": "am-u25",
         "level": "C1",
-        "objective": "Comprehensive mastery of ታሪክ እና ቅርሶች (History and Heritage).",
+        "objective": "Examine the geopolitical, architectural, and numismatic history of the Kingdom of Aksum (የአክሱም መንግስት), analyzing monolithic stelae engineering («ሀውልት»), ancient gold coinage («የአክሱም ሳንቲም»), and the historiography of the Ark of the Covenant («ታቦተ ጽዮን»).",
+        "prerequisites": [
+            "am-u24-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u24-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ታሪክ እና ቅርሶች (History and Heritage) - ደረጃ 1) ተማሪዎች ስለ ታሪክ እና ቅርሶች (History and Heritage) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "The Aksumite Empire (የአክሱም ስልጣኔ) flourished as a global commercial and naval powerhouse from the 1st millennium BCE to the 10th century CE.\n\n1. Key Civilizational Markers:\n- **የአክሱም ሀውልት** (Aksum Stelae — Towering monolithic granite obelisks carved with faux windows and doors)\n- **የአክሱም ሳንቲም** (Aksumite Currency — Ancient gold, silver, and bronze coins bearing Greek and Ge'ez inscriptions)\n- **ታቦተ ጽዮን** (Ark of the Covenant housed at Church of Our Lady Mary of Zion in Aksum)\n- **ንግስተ ሳባ እና ቀዳማዊ ምኒልክ** (The historical foundation chronicled in the *ክብረ ነገስት*).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የታሪክ እና ቅርሶች (History and Heritage) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (25.1.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "የአክሱም ሀውልቶች የጥንታውያን ኢትዮጵያውያን የምህንድስና ጥበብ እና የስነ-ህንጻ ምጥቀት ድንቅ ማሳያዎች ናቸው።",
+                    "reading": "Ye'Aksum hawiltoch yet'intawiyan ītyop'yawiyan yemihindisna t'ibeb ina yesine-hints'a mit'qet dinq masayawoch nachew.",
+                    "translation": "The stelae of Aksum are marvelous demonstrations of ancient Ethiopians' engineering craft and architectural sophistication."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (25.1.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የአክሱም መንግስት የራሱን የወርቅ እና የብር ሳንቲሞች ቀርጾ ለዓለም አቀፍ ንግድ የተጠቀመ ታላቅ ስልጣኔ ነበር።",
+                    "reading": "Ye'Aksum mengist yerasun yeworq ina yebir santīmochin qertso le'alem aqef nigd yetet'eqeme talaq silts'anē neber.",
+                    "translation": "The Aksumite kingdom was a grand civilization that minted its own gold and silver coinage for international commerce."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (25.1.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የአክሱም ጽዮን ቤተክርስቲያን ጥንታዊው ታቦተ ጽዮን የሚገኝባት የኢትዮጵያ መንፈሳዊ ታሪክ ዋነኛ ማዕከል ናት።",
+                    "reading": "Ye'Aksum Ts'īyon bētekiristīyan t'intawīw Tabote Ts'īyon yemīgegnibat ye'ītyop'ya menfesawī tarīk wanegna ma'ikel nat.",
+                    "translation": "Aksum Zion Church is the primary hub of Ethiopian spiritual history where the ancient Ark of the Covenant resides."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ታሪክ እና ቅርሶች (History and Heritage)"
+                "«ሀውልት» = Monolithic granite obelisk! «ሳንቲም» = Ancient minted coin! «ጽዮን» = Ark of Zion!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "The Persian philosopher Mani ranked the Kingdom of Aksum as one of the four great world empires of antiquity, alongside Rome, Persia, and China."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ታሪክ እና ቅርሶች (History and Heritage)» አጠቃቀም በደረጃ 1 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "የአክሱም ሀውልቶች ከምን የተሰሩ ናቸው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (25.1.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (25.1.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (25.1.3)።"
+                        "ከአንድ ወጥ ግራናይት ድንጋይ (Monolithic granite rock)",
+                        "ከሸክላ (Clay)",
+                        "ከእንጨት (Wood)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "የአክሱም ሀውልቶች are single monolithic granite obelisks."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ታሪክ እና ጥንታዊ ቅርሶች (Ethiopian History & Ge'ez Roots)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 1)፡",
+                    "prompt": "«ሳንቲም መቅረጽ» በአክሱም ታሪክ ምንን ያመለክታል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (25.1.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (25.1.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (25.1.3)።"
+                        "Borrowing food",
+                        "Minting official gold/silver currency for trade",
+                        "Playing a game"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "ሳንቲም መቅረጽ indicates official minting of state coins."
                 }
             ]
         },
@@ -12630,85 +12636,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ታሪክ እና ቅርሶች (History and Heritage)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 25-1)?",
+                    "prompt": "የአክሱም መንግስት ለንግድ ስራ የተጠቀመበት ጥንታዊ ገንዘብ ምን ይባላል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (25.1.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (25.1.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (25.1.3)።"
+                        "የአክሱም ሳንቲም (Aksumite coinage)",
+                        "ዶላር (Dollar)",
+                        "የወረቀት ቼክ (Cheque)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "«የአክሱም ሳንቲም» refers to ancient minted Aksumite coins."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ታሪክ_25_1»):",
+                    "prompt": "Type the Amharic word for 'monument / obelisk / stela' in Fidel script (ሀውልት):",
                     "acceptedAnswers": [
-                        "ታሪክ_25_1"
+                        "ሀውልት",
+                        "hawilt",
+                        "hawelt",
+                        "Hawilt",
+                        "ሐውልት"
                     ],
-                    "explanation": "The target keyword was: 【ታሪክ_25_1】"
+                    "explanation": "ሀውልት (Hawilt) means 'stela / obelisk / monument'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u25-l2": {
         "id": "am-u25-l2",
-        "subject": "amharic",
-        "unit": 25,
-        "lessonNumber": 2,
-        "title": "ታሪክ እና ጥንታዊ ቅርሶች (Ethiopian History & Ge'ez Roots) (Part 2)",
+        "unit": "am-u25",
         "level": "C1",
-        "objective": "Comprehensive mastery of ታሪክ እና ቅርሶች (History and Heritage).",
+        "objective": "Appraise the 12th-century medieval subterranean monolithic architecture of King Lalibela at Roha, analyzing rock-hewn engineering («ውቅር አብያተ ክርስቲያናት»), cross-shaped stelae («ቤተ ጊዮርጊስ»), and symbolic topography.",
+        "prerequisites": [
+            "am-u25-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u25-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ታሪክ እና ቅርሶች (History and Heritage) - ደረጃ 2) ተማሪዎች ስለ ታሪክ እና ቅርሶች (History and Heritage) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "The rock-hewn monolithic churches of Lalibela (የላሊበላ ውቅር አብያተ ክርስቲያናት) represent an unparalleled zenith of medieval rock engineering.\n\n1. Architectural Highlights:\n- **ውቅር አብያተ ክርስቲያናት** (Subterranean monolithic churches carved top-down from living bedrock)\n- **ቤተ ጊዮርጊስ** (Bēte Gīyorgīs — Free-standing cruciform monolithic church)\n- **ቤተ መድኃኔዓለም** (Bēte Medhanē-Alem — Largest monolithic rock church on Earth)\n- **ሮሃ** (Roha — Ancient name of Lalibela envisioned as a New Jerusalem).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የታሪክ እና ቅርሶች (History and Heritage) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (25.2.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "የላሊበላ ውቅር አብያተ ክርስቲያናት ከአንድ ወጥ ቀይ እሳተ-ገሞራ አለት ተፈልፍለው የተሰሩ አስደናቂ የስነ-ህንጻ ድንቆች ናቸው።",
+                    "reading": "Yelalībbela wiqir abyate kiristīyanat ke'and wet' qey isate-gemora alet tefelfilew yeteseru asdenaqī yesine-hints'a dinqoch nachew.",
+                    "translation": "The rock-hewn churches of Lalibela are stunning architectural marvels carved from living red volcanic bedrock."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (25.2.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የቤተ ጊዮርጊስ የመስቀል ቅርጽ አወቃቀር እና ጥንቃቄ የተሞላበት የምህንድስና ስራ በዓለም ዙሪያ ታላቅ አድናቆትን አትርፏል።",
+                    "reading": "Yebēte Gīyorgīs yemesqel qirts' aweqaqer ina t'inqaqē yetemolabet yemihindisna sira be'alem zurīya talaq adnaqotn atirfwal.",
+                    "translation": "The cruciform structural design of Bēte Gīyorgīs and its meticulous engineering work have earned immense admiration worldwide."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (25.2.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ንጉስ ላሊበላ ቅዱስ ከተማውን ሮሃን አዲስ ኢየሩሳሌም እንድትሆን አድርጎ በምስጢራዊ መንፈሳዊ ራዕይ ገንብቷታል።",
+                    "reading": "Nigus Lalībbela qidus ketemawun Rohan addīs Īyerusalēm indit-hon adrigo bemist'īrawī menfesawī ra'iy genbitwatall.",
+                    "translation": "King Lalibela constructed the holy city of Roha to serve as a New Jerusalem in a mystical spiritual vision."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ታሪክ እና ቅርሶች (History and Heritage)"
+                "«ውቅር» = Carved from living rock! «ቤተ ጊዮርጊስ» = Cruciform monolithic jewel! «ሮሃ» = Historic Lalibela!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Lalibela was inscribed in the inaugural list of UNESCO World Heritage Sites in 1978 and is hailed globally as an architectural wonder."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ታሪክ እና ቅርሶች (History and Heritage)» አጠቃቀም በደረጃ 2 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "የላሊበላ አብያተ ክርስቲያናት እንዴት ተሰሩ?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (25.2.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (25.2.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (25.2.3)።"
+                        "ከአንድ ወጥ አለት ተፈልፍለው (Carved top-down from living solid rock)",
+                        "ከጡብ ተገንብተው (Built from brick)",
+                        "ከእንጨት (From wood)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "የላሊበላ አብያተ ክርስቲያናት are carved directly out of solid rock bedrock."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ታሪክ እና ጥንታዊ ቅርሶች (Ethiopian History & Ge'ez Roots)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 2)፡",
+                    "prompt": "የመስቀል ቅርጽ ያለው የላሊበላ ውቅር ቤተክርስቲያን የትኛው ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (25.2.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (25.2.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (25.2.3)።"
+                        "ቤተ መድኃኔዓለም",
+                        "ቤተ ጊዮርጊስ (Bēte Gīyorgīs)",
+                        "ፋሲል ግቢ"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "ቤተ ጊዮርጊስ has an iconic cruciform (cross-shaped) layout."
                 }
             ]
         },
@@ -12716,85 +12733,95 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ታሪክ እና ቅርሶች (History and Heritage)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 25-2)?",
+                    "prompt": "ላሊበላ የተገነባበት ጥንታዊ የከተማ ስም ምን ይባል ነበር?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (25.2.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (25.2.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (25.2.3)።"
+                        "ጎንደር (Gondar)",
+                        "ሮሃ (Roha)",
+                        "ሀረር (Harar)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "ሮሃ (Roha) was the medieval historical name of Lalibela."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ታሪክ_25_2»):",
+                    "prompt": "Type the Amharic word for 'rock-hewn / monolithic carved' in Fidel script (ውቅር):",
                     "acceptedAnswers": [
-                        "ታሪክ_25_2"
+                        "ውቅር",
+                        "wiqir",
+                        "wukir",
+                        "Wiqir"
                     ],
-                    "explanation": "The target keyword was: 【ታሪክ_25_2】"
+                    "explanation": "ውቅር (Wiqir) means 'rock-hewn / monolithic stone carving'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u25-l3": {
         "id": "am-u25-l3",
-        "subject": "amharic",
-        "unit": 25,
-        "lessonNumber": 3,
-        "title": "ታሪክ እና ጥንታዊ ቅርሶች (Ethiopian History & Ge'ez Roots) (Part 3)",
+        "unit": "am-u25",
         "level": "C1",
-        "objective": "Comprehensive mastery of ታሪክ እና ቅርሶች (History and Heritage).",
+        "objective": "Examine the 17th-century Solomonic architectural and urban history of Gondar, analyzing Emperor Fasilides' Royal Enclosure («ፋሲል ግቢ»), stone castle engineering («ግምብ»), and the ceremonial Epiphany baths («የፋሲል መዋኛ / ጥምቀተ ባህር»).",
+        "prerequisites": [
+            "am-u25-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u25-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ታሪክ እና ቅርሶች (History and Heritage) - ደረጃ 3) ተማሪዎች ስለ ታሪክ እና ቅርሶች (History and Heritage) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "The Gondarine era (1636–1855) introduced permanent stone castles and imperial urbanism to Ethiopia.\n\n1. Gondar Architecture:\n- **ፋሲል ግቢ** (Fasil Ghebbi — Fortified imperial compound with castles, banquet halls, and libraries)\n- **አጼ ፋሲለደስ** (Emperor Fasilides — Founded Gondar as permanent capital in 1636)\n- **የፋሲል መዋኛ / ጥምቀተ ባህር** (Fasilides' Bath — Two-story sunken pavilion used for Epiphany baptismal ceremonies)\n- **ደብረ ብርሃን ስላሴ** (Iconic church with winged angel ceiling murals).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የታሪክ እና ቅርሶች (History and Heritage) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (25.3.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "አጼ ፋሲለደስ በጎንደር የመሰረቱት ፋሲል ግቢ የአውሮፓ፣ የአረብ እና የሀገር በቀል ጥበብ የተዋሃደበት ድንቅ ቤተ መንግስት ነው።",
+                    "reading": "Atsē Fasīleddes beGonder yemeseretut Fasīl Gibbi ye'Awropa, ye'Areb ina yehager beqel t'ibeb yetewahadebet dinq bēte mengist new.",
+                    "translation": "Fasil Ghebbi, established in Gondar by Emperor Fasilides, is a splendid royal enclosure synthesizing European, Arab, and indigenous craftsmanship."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (25.3.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "በየዓመቱ በጥር ወር የፋሲል መዋኛ በውሃ ተሞልቶ የጥምቀት በዓል በታላቅ ድምቀት ይከበርበታል።",
+                    "reading": "Beye'ametu beT'ir wer yeFasīl mewagna bewuha temolto yet'imqet be'al betalaq dimqet yikeberibetal.",
+                    "translation": "Every year in January, Fasilides' Bath is filled with water to celebrate Timqet with grand majesty."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (25.3.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የጎንደር ግንቦች እና የድንጋይ ድልድዮች የኢትዮጵያን የመካከለኛው ዘመን ስልጣኔ እና የመንግስት አስተዳደር ጥንካሬ ያሳያሉ።",
+                    "reading": "YeGonder ginboch ina yedingay dildiyoch ye'ītyop'yan yemakakelenyaw zemen silts'anē ina yemengist asitedader t'inikarē yasayalu.",
+                    "translation": "Gondar's stone castles and masonry bridges reflect medieval Ethiopia's civilization and administrative strength."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ታሪክ እና ቅርሶች (History and Heritage)"
+                "«ፋሲል ግቢ» = Royal Castle Enclosure! «ፋሲለደስ» = Castle builder emperor! «ጥምቀተ ባህር» = Fasil's ceremonial bath!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Gondar is famously referred to as 'the Camelot of Africa' owing to its stone battlements and royal quarter."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ታሪክ እና ቅርሶች (History and Heritage)» አጠቃቀም በደረጃ 3 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "ጎንደርን የኢትዮጵያ ቋሚ ዋና ከተማ አድርገው የመሰረቱት ንጉስ ማን ናቸው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (25.3.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (25.3.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (25.3.3)።"
+                        "አጼ ፋሲለደስ (Emperor Fasilides)",
+                        "አጼ ቴዎድሮስ",
+                        "አጼ ዮሐንስ"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "አጼ ፋሲለደስ founded Gondar as the permanent capital in 1636."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ታሪክ እና ጥንታዊ ቅርሶች (Ethiopian History & Ge'ez Roots)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 3)፡",
+                    "prompt": "«የፋሲል መዋኛ» ለምን በዓል በዋነኝነት ያገለግላል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (25.3.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (25.3.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (25.3.3)።"
+                        "ለአዲስ ዓመት",
+                        "ለጥምቀት በዓል ስነ-ስርዓት (Timqet Epiphany ceremony)",
+                        "ለልደት"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "የፋሲል መዋኛ hosts the central Timqet immersion liturgy in Gondar."
                 }
             ]
         },
@@ -12802,85 +12829,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ታሪክ እና ቅርሶች (History and Heritage)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 25-3)?",
+                    "prompt": "የጎንደር የነገስታት ቤተ መንግስት ቅጥር ግቢ ምን ተብሎ ይጠራል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (25.3.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (25.3.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (25.3.3)።"
+                        "አክሱም ጽዮን",
+                        "ፋሲል ግቢ (Fasil Ghebbi)",
+                        "ላሊበላ"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "explanation": "ፋሲል ግቢ (Fasil Ghebbi) is the royal enclosure in Gondar."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ታሪክ_25_3»):",
+                    "prompt": "Type the Amharic name of the 17th-century castle-building emperor in Fidel script (ፋሲለደስ):",
                     "acceptedAnswers": [
-                        "ታሪክ_25_3"
+                        "ፋሲለደስ",
+                        "fasiledes",
+                        "fasiledas",
+                        "Fasiledes",
+                        "ፋሲል"
                     ],
-                    "explanation": "The target keyword was: 【ታሪክ_25_3】"
+                    "explanation": "ፋሲለደስ (Fasiledes) is the emperor who founded Gondar."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u25-l4": {
         "id": "am-u25-l4",
-        "subject": "amharic",
-        "unit": 25,
-        "lessonNumber": 4,
-        "title": "ታሪክ እና ጥንታዊ ቅርሶች (Ethiopian History & Ge'ez Roots) (Part 4)",
+        "unit": "am-u25",
         "level": "C1",
-        "objective": "Comprehensive mastery of ታሪክ እና ቅርሶች (History and Heritage).",
+        "objective": "Critically analyze the historical, military, and diplomatic dimensions of the 1896 Battle of Adwa («የዐድዋ ድል»), evaluating the leadership of Emperor Menelik II, Empress Taytu Betul, and the defense of national sovereignty («ሉዓላዊነት»).",
+        "prerequisites": [
+            "am-u25-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u25-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ታሪክ እና ቅርሶች (History and Heritage) - ደረጃ 4) ተማሪዎች ስለ ታሪክ እና ቅርሶች (History and Heritage) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "The Battle of Adwa (የዐድዋ ድል — March 1, 1896) stands as an epochal victory for African independence against colonial expansionism.\n\n1. Key Historical Concepts:\n- **የዐድዋ ድል** (Victory of Adwa — Crushing defeat of Italian colonial forces)\n- **አጼ ምኒልክ ሁለተኛ** (Emperor Menelik II — Sovereign commander)\n- **እቴጌ ጣይቱ ብጡል** (Empress Taytu Betul — Master strategist)\n- **የውጫሌ ውል** (Treaty of Wuchale — The abrogated colonial treaty)\n- **ሉዓላዊነት** (National Sovereignty & Territorial Integrity).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የታሪክ እና ቅርሶች (History and Heritage) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (25.4.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "የዐድዋ ድል መላው ጥቁር ህዝብ ለነፃነቱ እና ለሉዓላዊነቱ እንዲታገል መንገድ የከፈተ ታላቅ የታሪክ ምዕራፍ ነው።",
+                    "reading": "Ye'Adwa dil melaw t'iqur hizb lenets'anetu ina lelu'alawīnetu indītagel menged yekefete talaq yetarīk mi'iraf new.",
+                    "translation": "The victory of Adwa was a monumental historical chapter that paved the way for all Black people to fight for freedom and sovereignty."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (25.4.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "እቴጌ ጣይቱ ብጡል በዐድዋ ጦርነት ወቅት በወታደራዊ ስትራቴጂ እና በዲፕሎማሲያዊ ጽናት ወደር የሌለው ሚና ተጫውተዋል።",
+                    "reading": "Itēgē T'ayitu Bit'ul be'Adwa t'orinet weqt bewetaderawī stratējī ina bedīplomasīyawī ts'inat weder yelēlew mīna tech'awtewal.",
+                    "translation": "Empress Taytu Betul played an unparalleled role through military strategy and diplomatic firmness during the Battle of Adwa."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (25.4.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የኢትዮጵያ ህዝብ ከሁሉም የሀገሪቱ ማዕዘናት በአንድነት ተነስቶ የወራሪውን ጦር ድል በማድረግ ሀገራዊ ነፃነቱን አስከብሯል።",
+                    "reading": "Ye'ītyop'ya hizb kehullum yehagerītu ma'izenat be'andinet tenesto yeworarīwun t'or dil bemadreg hagerawī nets'anetun askebriwal.",
+                    "translation": "The Ethiopian people rose in unity from every corner of the country, defeating the invading army and defending national independence."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ታሪክ እና ቅርሶች (History and Heritage)"
+                "«ዐድዋ» = Unvanquished African Triumph! «ጣይቱ» = Strategic Empress! «ሉዓላዊነት» = Sacred Sovereignty!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Adwa established Ethiopia as a beacon of Pan-Africanism, leading newly independent African nations to incorporate Ethiopia's green, yellow, and red into their national flags."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ታሪክ እና ቅርሶች (History and Heritage)» አጠቃቀም በደረጃ 4 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "የዐድዋ ድል በዓለም አቀፍ ደረጃ ምንን ያመለክታል?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (25.4.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (25.4.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (25.4.3)።"
+                        "Anti-colonial victory and symbol of African freedom (የነፃነት ተምሳሌት)",
+                        "A sports tournament",
+                        "A trade conference"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "ዐድዋ is the preeminent symbol of anti-colonial resistance and freedom."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ታሪክ እና ጥንታዊ ቅርሶች (Ethiopian History & Ge'ez Roots)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 4)፡",
+                    "prompt": "«ሉዓላዊነት» ማለት ምን ማለት ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (25.4.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (25.4.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (25.4.3)።"
+                        "Economic debt",
+                        "National independence / Sovereignty",
+                        "Foreign occupation"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "ሉዓላዊነት (Lu'alawīnet) = national sovereignty."
                 }
             ]
         },
@@ -12888,85 +12926,95 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ታሪክ እና ቅርሶች (History and Heritage)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 25-4)?",
+                    "prompt": "የዐድዋ ጦርነት የተካሄደው በየትኛው ዓመተ ምህረት ነው (በኢትዮጵያ አቆጣጠር)?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (25.4.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (25.4.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (25.4.3)።"
+                        "1950 ዓ.ም.",
+                        "2000 ዓ.ም.",
+                        "1888 ዓ.ም. (1896 G.C.)"
                     ],
                     "answerIndex": 2,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "explanation": "የዐድዋ ጦርነት took place on Yekatit 23, 1888 E.C. (March 1, 1896 G.C.)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ታሪክ_25_4»):",
+                    "prompt": "Type the Amharic word for 'sovereignty' in Fidel script (ሉዓላዊነት):",
                     "acceptedAnswers": [
-                        "ታሪክ_25_4"
+                        "ሉዓላዊነት",
+                        "lualawinet",
+                        "lu'alawinet",
+                        "Lualawinet"
                     ],
-                    "explanation": "The target keyword was: 【ታሪክ_25_4】"
+                    "explanation": "ሉዓላዊነት (Lu'alawīnet) means 'sovereignty'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u25-l5": {
         "id": "am-u25-l5",
-        "subject": "amharic",
-        "unit": 25,
-        "lessonNumber": 5,
-        "title": "ታሪክ እና ጥንታዊ ቅርሶች (Ethiopian History & Ge'ez Roots) (Part 5)",
+        "unit": "am-u25",
         "level": "C1",
-        "objective": "Comprehensive mastery of ታሪክ እና ቅርሶች (History and Heritage).",
+        "objective": "Synthesize Aksumite antiquity, Lalibela rock architecture, Gondar castles, and Adwa's anti-colonial triumph into an advanced historiographical thesis paper in Amharic.",
+        "prerequisites": [
+            "am-u25-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u25-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ታሪክ እና ቅርሶች (History and Heritage) - ደረጃ 5) ተማሪዎች ስለ ታሪክ እና ቅርሶች (History and Heritage) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "This lesson synthesizes three millennia of continuous Ethiopian statehood and architectural brilliance into a cohesive historiographical narrative.\n\n1. Four Pillars of Civilization:\n- **Aksum:** Ancient monolithic obelisks and currency\n- **Lalibela:** 12th-century subterranean rock churches\n- **Gondar:** 17th-century medieval imperial castles\n- **Adwa:** 1896 decisive victory preserving national sovereignty.",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የታሪክ እና ቅርሶች (History and Heritage) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (25.5.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "የኢትዮጵያ ታሪክ ከአክሱም ጥንታዊ ስልጣኔ እና ከላሊበላ ውቅር ጥበብ እስከ ጎንደር ግንቦች እና የዐድዋ ድል ድረስ የተዘረጋ ያልተቋረጠ የስልጣኔ ሰንሰለት ነው።",
+                    "reading": "Ye'ītyop'ya tarīk ke'Aksum t'intawī silts'anē ina keLalībbela wiqir t'ibeb iske Gonder ginboch ina ye'Adwa dil dires yetezerega yalteqwat'et'e yesilts'anē senselet new.",
+                    "translation": "Ethiopian history is an unbroken chain of civilization stretching from Aksumite antiquity and Lalibela's rock art to Gondar's castles and the triumph of Adwa."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (25.5.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የሀገሪቱ ጥንታዊ ቅርሶች እና የታሪክ ድሎች የህዝቧን ጥንካሬ፣ አንድነት እና የነፃነት ፍቅር በጉልህ የሚያስመሰክሩ ናቸው።",
+                    "reading": "Yehagerītu t'intawī qirsoch ina yetarīk diloc yehizbwan t'inikarē, andinet ina yenets'anet fiqir begulih yemīyasmeskiru nachew.",
+                    "translation": "The country's ancient heritage and historic victories vividly attest to its people's resilience, unity, and love of freedom."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (25.5.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "እነዚህን ታላላቅ ቅርሶች እና ታሪካዊ እሴቶች መጠበቅ እና ለቀጣዩ ትውልድ ማስተላለፍ የሁሉንም ዜጋ የጋራ ሀገራዊ ሀላፊነት ነው።",
+                    "reading": "Inezīhin talalaq qirsochin ina tarikawī isētochin met'ebeq ina leqet'ayu tiwlid mastelalef yehullunim zēga yegara hagerawī halafīnet new.",
+                    "translation": "Preserving these grand heritages and transmitting them to the next generation is the shared civic responsibility of all citizens."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ታሪክ እና ቅርሶች (History and Heritage)"
+                "Historical Quadrant: Aksum (ሀውልት) + Lalibela (ውቅር) + Gondar (ግንብ) + Adwa (ነፃነት) = Undefeated 3,000-Year Heritage!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Ethiopia's status as an uncolonized, millennia-old sovereign state remains a central foundation of national identity and continental pride."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ታሪክ እና ቅርሶች (History and Heritage)» አጠቃቀም በደረጃ 5 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "የኢትዮጵያን ያልተቋረጠ ታሪክ የሚያሳዩት አበይት ቅርሶች የትኞቹ ናቸው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (25.5.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (25.5.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (25.5.3)።"
+                        "አክሱም፣ ላሊበላ፣ ጎንደር እና ዐድዋ (Aksum, Lalibela, Gondar, and Adwa)",
+                        "ዘመናዊ አውሮፕላኖች ብቻ",
+                        "የውጭ ሀገር ከተሞች"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "አክሱም፣ ላሊበላ፣ ጎንደር እና ዐድዋ form the epic historic timeline."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ታሪክ እና ጥንታዊ ቅርሶች (Ethiopian History & Ge'ez Roots)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 5)፡",
+                    "prompt": "«ያልተቋረጠ የስልጣኔ ሰንሰለት» ምን ማለት ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (25.5.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (25.5.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (25.5.3)።"
+                        "Broken line",
+                        "Continuous unbroken chain of civilization",
+                        "Forgotten history"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "ያልተቋረጠ የስልጣኔ ሰንሰለት = continuous unbroken chain of civilization."
                 }
             ]
         },
@@ -12974,24 +13022,28 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ታሪክ እና ቅርሶች (History and Heritage)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 25-5)?",
+                    "prompt": "የኢትዮጵያን ነፃነት እና ሉዓላዊነት በዓለም አቀፍ ደረጃ ያስመሰከረው ታሪካዊ ድል የትኛው ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (25.5.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (25.5.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (25.5.3)።"
+                        "የዐድዋ ድል (The Victory of Adwa)",
+                        "የጎንደር ግንባታ (Gondar construction)",
+                        "የቡና ግብይት (Coffee trading)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "explanation": "የዐድዋ ድል defended and certified Ethiopia's national sovereignty globally."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ታሪክ_25_5»):",
+                    "prompt": "Type the Amharic name of the legendary anti-colonial battlefield in Fidel script (ዐድዋ):",
                     "acceptedAnswers": [
-                        "ታሪክ_25_5"
+                        "ዐድዋ",
+                        "adwa",
+                        "Adwa",
+                        "አድዋ"
                     ],
-                    "explanation": "The target keyword was: 【ታሪክ_25_5】"
+                    "explanation": "ዐድዋ (Adwa) is the historic battlefield of sovereign triumph."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u26-l1": {
