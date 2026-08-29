@@ -2922,63 +2922,69 @@
     },
     "hk-u6-l1": {
         "id": "hk-u6-l1",
-        "subject": "cantonese",
-        "unit": 6,
-        "lessonNumber": 1,
-        "title": "完成體態：咗同埋完 (Perfective Aspect 咗 & 完) (Part 1)",
+        "unit": "hk-u6",
         "level": "A2",
-        "objective": "Comprehensive mastery of 完成態咗同完 (Perfective 咗/完).",
+        "objective": "Master the Cantonese perfective aspect particle 咗 (zo2), attaching directly after verbs (V + 咗) to express completed action (equivalent to Mandarin 了 / English past-completed -ed).",
+        "prerequisites": [
+            "hk-u5-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u5-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（完成態咗同完 (Perfective 咗/完) - 第1部分）入面，我哋會探討廣東話嘅核心語用語境同埋完成態咗同完 (Perfective 咗/完)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "廣東話表達「已經完成某個動作」，最核心嘅動態助詞係**「咗 (zo2)」**！\n\n1. 完成態語法結構 (Perfective Aspect: V + 咗 + O):\n- **食咗飯 (sik6 zo2 faan6)**：Ate a meal / have eaten。\n- **買咗新衫 (maai5 zo2 san1 saam1)**：Bought new clothes。\n- **睇咗醫生 (tai2 zo2 ji1 sang1)**：Saw a doctor。\n- **走咗 (zau2 zo2)**：Left / departed。\n- **收到咗 (sau1 dou2 zo2)**：Received (it)。\n\n2. 咗 (zo2) 與普通話「了」嘅核心異同 (Grammatical Comparison):\n- 廣東話嘅「咗」**通常緊貼動詞後面**，表示動作完成（例如「我食咗飯」）；\n- 如果表示狀態改變或句末語氣，廣東話多數用句末語氣詞**「喇 (laa3)」**（例如「天黑喇」、「出發喇」），語法分工比普通話更為精確！",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (6.1.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "我琴日晏晝喺旺角買咗一部最新款嘅手提電腦。",
+                    "reading": "ngo5 kam4 jat6 aan3 zau3 hai2 wong6 gok3 maai5 zo2 jat1 bou6 zeoi3 san1 fun2 ge3 sau2 tai4 din6 nou5.",
+                    "translation": "I bought a newest model laptop in Mong Kok yesterday afternoon."
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (6.1.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "你睇咗嗰套得獎電影未呀？我睇咗喇，真係好感人！",
+                    "reading": "nei5 tai2 zo2 go2 tou3 dak1 zoeng2 din6 jing2 mei6 aa3? ngo5 tai2 zo2 laa3, zan1 hai6 hou2 gam2 jan4!",
+                    "translation": "Have you seen that award-winning movie yet? I saw it, it's really touching!"
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (6.1.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "陳經理啱啱開完會走咗，你有急事可以打佢手機。",
+                    "reading": "can4 ging1 lei5 ngaam1 ngaam1 hoi1 jyun4 wui6 zau2 zo2, nei5 jau5 gap1 si6 ho2 ji5 daa2 keoi5 sau2 gei1.",
+                    "translation": "Manager Chan just finished the meeting and left; if you have urgent matters you can call his mobile."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 完成態咗同完 (Perfective 咗/完)"
+                "Completion Code: Verb + 咗 (zo2) = Done deal (食咗, 買咗, 睇咗)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "«食咗飯未呀？» (Have you eaten yet?) is Hong Kong's most ubiquitous greeting; the answer is either «食咗喇» (I've eaten) or «未呀» (Not yet)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「完成態咗同完 (Perfective 咗/完)」喺第1節嘅地道廣東話表達？",
+                    "prompt": "喺廣東話中表達「已經吃了飯」，最地道標準嘅動態完成助詞句式係：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (6.1.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (6.1.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (6.1.3)。"
+                        "食完饭",
+                        "食咗飯 (sik6 zo2 faan6 - Have eaten / ate)",
+                        "食得飯"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "食咗飯 (sik6 zo2 faan6) uses the perfective aspect particle 咗 (zo2)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「完成體態：咗同埋完 (Perfective Aspect 咗 & 完)」語境嘅廣東話完整句子（練習 1）：",
+                    "prompt": "廣東話動態助詞「咗 (zo2)」在語法上的核心作用是：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (6.1.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (6.1.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (6.1.3)。"
+                        "附在動詞後表示動作已完成 (Affixed to verbs to denote completed action)",
+                        "表示未來即將發生的事",
+                        "表示空間距離很遠"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "咗 (zo2) is the primary aspect marker for completed actions in Cantonese."
                 }
             ]
         },
@@ -2986,85 +2992,98 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「完成態咗同完 (Perfective 咗/完)」嘅日常商務與生活習慣（考核 6-1）？",
+                    "prompt": "關於廣東話完成態助詞「咗 (zo2)」的語法位置與功能，下列哪一項表述完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (6.1.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (6.1.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (6.1.3)。"
+                        "「咗」只能放在主語前面",
+                        "「咗 (zo2)」緊貼於動詞後（如食咗、買咗、睇咗），精確表達動作已經完成；與句末變化助詞「喇」分工明確 (zo2 follows verbs to mark completed action, distinct from sentence-final change particle laa3)",
+                        "廣東話沒有表示動作完成的助詞"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "explanation": "Accurately articulates the post-verbal placement and aspectual semantics of 咗 (zo2)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («食咗_6_1»):",
+                    "prompt": "Type the 3-character Hanzi phrase for 'have eaten / ate a meal' in Cantonese (食咗飯):",
                     "acceptedAnswers": [
-                        "食咗_6_1"
+                        "食咗飯",
+                        "sik6zo2faan6",
+                        "sik6 zo2 faan6",
+                        "Sik6 zo2 faan6",
+                        "Sik6zo2faan6",
+                        "食咗饭",
+                        "吃咗飯"
                     ],
-                    "explanation": "The target keyword was: 【食咗_6_1】"
+                    "explanation": "食咗飯 (sik6 zo2 faan6) means 'have eaten / ate a meal' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u6-l2": {
         "id": "hk-u6-l2",
-        "subject": "cantonese",
-        "unit": 6,
-        "lessonNumber": 2,
-        "title": "完成體態：咗同埋完 (Perfective Aspect 咗 & 完) (Part 2)",
+        "unit": "hk-u6",
         "level": "A2",
-        "objective": "Comprehensive mastery of 完成態咗同完 (Perfective 咗/完).",
+        "objective": "Master the resultative completion particle 完 (jyun4 - finish/complete doing), distinguishing V+完 (exhaustion/completion of process) from V+咗 (event occurrence).",
+        "prerequisites": [
+            "hk-u6-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u6-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（完成態咗同完 (Perfective 咗/完) - 第2部分）入面，我哋會探討廣東話嘅核心語用語境同埋完成態咗同完 (Perfective 咗/完)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "除咗「咗 (zo2)」之外，廣東話仲有一個非常重要嘅結果動態助詞——**「完 (jyun4)」**！\n\n1. 「完 (jyun4)」嘅語法特徵 (Resultative Complement: V + 完 + O):\n- **做完 (zou6 jyun4)**：Finish doing / finish work。\n- **食完飯 (sik6 jyun4 faan6)**：Finish eating the meal (empty plate/done eating)。\n- **睇完本書 (tai2 jyun4 bun2 syu1)**：Finish reading the entire book。\n- **開完會 (hoi1 jyun4 wui6)**：Meeting adjourned / finished the meeting。\n- **講完 (gong2 jyun4)**：Finished talking / done speaking。\n\n2. 「咗 (zo2)」同「完 (jyun4)」嘅精妙分別 (Nuanced Distinction):\n- **「食咗飯」**：側重於**動作發生並完成**（相當於‘吃了飯’，未強調是否吃得乾乾淨淨）。\n- **「食完飯」**：側重於**整個吃飯過程徹底完結/吃光**（相當於‘吃完飯/結束用餐’），常接後續動作：「食完飯之後去行街」。",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (6.2.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "我做完手頭上呢份報告之後，就可以準時六點鐘收工。",
+                    "reading": "ngo5 zou6 jyun4 sau2 tau4 soeng6 ni1 fan6 bou3 gou3 zi1 hau6, zau6 ho2 ji5 zeon2 si4 luk6 dim2 zung1 sau1 gung1.",
+                    "translation": "After I finish this report on hand, I can get off work on time at 6 o'clock."
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (6.2.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "大家食完飯之後，一齊去維港睇幻彩詠香江啦！",
+                    "reading": "daai6 gaa1 sik6 jyun4 faan6 zi1 hau6, jat1 cai4 heoi3 wai4 gong2 tai2 waan6 coi2 wing6 hoeng1 gong1 laa1!",
+                    "translation": "After everyone finishes dinner, let's go to Victoria Harbour together to watch A Symphony of Lights!"
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (6.2.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "佢講完電話之後，神情顯得非常輕鬆。",
+                    "reading": "keoi5 gong2 jyun4 din6 waa2 zi1 hau6, san4 cing4 hin2 dak1 fei1 soeng4 hing1 sung1.",
+                    "translation": "After he finished the phone call, his expression looked very relaxed."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 完成態咗同完 (Perfective 咗/完)"
+                "Process End: 做完(Done), 食完(Finished meal), 睇完(Finished reading) -> 後續動作接住嚟!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "In daily conversations, «V + 完……之後» (After finishing V...) is the most natural sequential connector in Cantonese narrative structure."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「完成態咗同完 (Perfective 咗/完)」喺第2節嘅地道廣東話表達？",
+                    "prompt": "喺廣東話中表達「徹底做完手頭工作 / 任務完畢」，最恰當的動補結構是：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (6.2.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (6.2.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (6.2.3)。"
+                        "做緊",
+                        "做完 (zou6 jyun4 - Finish doing / completed work)",
+                        "做緊嘢"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "做完 (zou6 jyun4) indicates the thorough completion or finishing of the action."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「完成體態：咗同埋完 (Perfective Aspect 咗 & 完)」語境嘅廣東話完整句子（練習 2）：",
+                    "prompt": "廣東話句子「食完飯之後去睇戲」中，「食完」強調的是：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (6.2.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (6.2.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (6.2.3)。"
+                        "吃飯的過程已完全結束 (The entire eating process is finished/completed)",
+                        "正在吃飯進行中",
+                        "從來不吃飯"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "食完 denotes that the dining process has reached its full conclusion."
                 }
             ]
         },
@@ -3072,85 +3091,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「完成態咗同完 (Perfective 咗/完)」嘅日常商務與生活習慣（考核 6-2）？",
+                    "prompt": "關於廣東話中「完 (jyun4)」與「咗 (zo2)」的語意差別，下列哪一項表述完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (6.2.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (6.2.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (6.2.3)。"
+                        "「咗」側重動作發生完成，而「完」側重過程徹底完結（如做完、食完、睇完），常與「之後」連用表示先後次序 (zo2 marks occurrence/completion, jyun4 emphasizes thorough finishing of process, often with zi1 hau6 'after')",
+                        "「完」和「咗」沒有任何區別",
+                        "「完」只能用在名詞前面"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "Accurately distinguishes between aspectual occurrence (zo2) and resultative exhaustion of process (jyun4)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («食咗_6_2»):",
+                    "prompt": "Type the 2-character Hanzi phrase for 'finish doing / done' in Cantonese (做完):",
                     "acceptedAnswers": [
-                        "食咗_6_2"
+                        "做完",
+                        "zou6jyun4",
+                        "zou6 jyun4",
+                        "Zou6 jyun4",
+                        "Zou6jyun4"
                     ],
-                    "explanation": "The target keyword was: 【食咗_6_2】"
+                    "explanation": "做完 (zou6 jyun4) means 'finish doing / done' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u6-l3": {
         "id": "hk-u6-l3",
-        "subject": "cantonese",
-        "unit": 6,
-        "lessonNumber": 3,
-        "title": "完成體態：咗同埋完 (Perfective Aspect 咗 & 完) (Part 3)",
+        "unit": "hk-u6",
         "level": "A2",
-        "objective": "Comprehensive mastery of 完成態咗同完 (Perfective 咗/完).",
+        "objective": "Master the completion negation marker 未 (mei6 - not yet) and interrogative patterns V + 咗 + 未呀 and V + 完 + 未呀.",
+        "prerequisites": [
+            "hk-u6-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u6-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（完成態咗同完 (Perfective 咗/完) - 第3部分）入面，我哋會探討廣東話嘅核心語用語境同埋完成態咗同完 (Perfective 咗/完)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "廣東話否定「動作尚未完成」，唔用「唔」，而係使用專用否定詞**「未 (mei6)」**（相當於 Not yet）！\n\n1. 否定完成態 (Negation with 未 mei6):\n- **未 (mei6)**：Not yet（獨立作答時常加語氣詞：**「未呀 mei6 aa3」**）。\n- **未食 (mei6 sik6)**：Haven't eaten yet。\n- **未做 (mei6 zou6)**：Haven't done yet。\n- **未睇 (mei6 tai2)**：Haven't seen/read yet。\n- **未收到 (mei6 sau1 dou2)**：Haven't received yet。\n\n2. 經典詢問完成句式 (Interrogative Patterns):\n- **「你食咗飯未呀？」(Have you eaten yet?)**\n  - 肯定回答：‘食咗喇！’ (I've eaten!)\n  - 否定回答：‘未呀，仲未食。’ (Not yet, still haven't eaten.)\n- **「你啲功課做完未呀？」(Have you finished your homework yet?)**\n  - 回答：‘做完喇！’ 或 ‘未搞掂，做緊。’",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (6.3.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "你食咗晏晝飯未呀？未嘅話我哋一齊去樓下茶餐廳食啦！",
+                    "reading": "nei5 sik6 zo2 aan3 zau3 faan6 mei6 aa3? mei6 ge3 waa2 ngo5 dei6 jat1 cai4 heoi3 lau4 haa6 caa4 caan1 teng1 sik6 laa1!",
+                    "translation": "Have you had lunch yet? If not, let's go down to the tea restaurant downstairs together!"
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (6.3.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "份合約你簽咗未呀？我仲未收到客戶嘅最後確認。",
+                    "reading": "fan6 hap6 joek3 nei5 cim1 zo2 mei6 aa3? ngo5 zung6 mei6 sau1 dou2 haak3 wu6 ge3 zeoi3 hau6 kok3 jing6.",
+                    "translation": "Have you signed the contract yet? I still haven't received the client's final confirmation."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (6.3.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "佢去咗英國留學未呀？未呀，佢下個月先出發。",
+                    "reading": "keoi5 heoi3 zo2 jing1 gwok3 lau4 hok6 mei6 aa3? mei6 aa3, keoi5 haa6 go3 jyut6 sin1 ceot1 faat3.",
+                    "translation": "Has he gone to study in the UK yet? Not yet, he's only departing next month."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 完成態咗同完 (Perfective 咗/完)"
+                "Not-yet Rule: 否定完成用「未」(mei6); 問人完成加「……咗未呀」(zo2 mei6 aa3)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "Replying «未呀» (mei6 aa3) with a soft rising tone is polite and friendly; adding «仲未» (zung6 mei6 - still haven't) implies effort is ongoing."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「完成態咗同完 (Perfective 咗/完)」喺第3節嘅地道廣東話表達？",
+                    "prompt": "當朋友問你「食咗飯未呀？」，如果尚未用餐，最自然標準嘅廣東話簡短回覆係：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (6.3.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (6.3.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (6.3.3)。"
+                        "唔食",
+                        "未呀 (mei6 aa3 - Not yet)",
+                        "冇食"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "未呀 (mei6 aa3) is the natural Cantonese response for 'not yet'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「完成體態：咗同埋完 (Perfective Aspect 咗 & 完)」語境嘅廣東話完整句子（練習 3）：",
+                    "prompt": "廣東話中詢問對方「你做完手頭工作了沒有？」，最地道的句式是：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (6.3.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (6.3.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (6.3.3)。"
+                        "你做完未呀？ (nei5 zou6 jyun4 mei6 aa3? - Have you finished yet?)",
+                        "你做緊邊個？",
+                        "你做咗邊度？"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "你做完未呀？ is the direct, idiomatic inquiry for asking if a task is completed."
                 }
             ]
         },
@@ -3158,85 +3188,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「完成態咗同完 (Perfective 咗/完)」嘅日常商務與生活習慣（考核 6-3）？",
+                    "prompt": "關於廣東話中否定詞「未 (mei6)」及疑問句型「V+咗+未呀 / V+完+未呀」的語法規則，下列哪一項表述完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (6.3.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (6.3.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (6.3.3)。"
+                        "廣東話否定過去只能用「唔」",
+                        "「未」只能用來問年齡",
+                        "「未 (mei6)」專門表示尚未完成（Not yet），回答用「未呀」，問句在動詞後加「咗未呀」或「完未呀」 (mei6 denotes 'not yet', answered with mei6 aa3, questioned with V+zo2/jyun4+mei6 aa3)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "Accurately characterizes the aspectual negation and question formation in Cantonese."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («食咗_6_3»):",
+                    "prompt": "Type the 2-character Hanzi phrase for 'not yet' in conversational Cantonese (未呀):",
                     "acceptedAnswers": [
-                        "食咗_6_3"
+                        "未呀",
+                        "mei6aa3",
+                        "mei6 aa3",
+                        "Mei6 aa3",
+                        "Mei6aa3"
                     ],
-                    "explanation": "The target keyword was: 【食咗_6_3】"
+                    "explanation": "未呀 (mei6 aa3) means 'not yet' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u6-l4": {
         "id": "hk-u6-l4",
-        "subject": "cantonese",
-        "unit": 6,
-        "lessonNumber": 4,
-        "title": "完成體態：咗同埋完 (Perfective Aspect 咗 & 完) (Part 4)",
+        "unit": "hk-u6",
         "level": "A2",
-        "objective": "Comprehensive mastery of 完成態咗同完 (Perfective 咗/完).",
+        "objective": "Master the Cantonese experiential aspect particle 過 (gwo3), denoting past life experience (have ever done / been to), and negative experiential 未曾 / 未...過.",
+        "prerequisites": [
+            "hk-u6-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u6-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（完成態咗同完 (Perfective 咗/完) - 第4部分）入面，我哋會探討廣東話嘅核心語用語境同埋完成態咗同完 (Perfective 咗/完)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "廣東話表達「曾經有過某種經歷」，核心動態助詞係**「過 (gwo3)」**（相當於 English 'have ever done / have been'）！\n\n1. 經歷態句型結構 (Experiential Aspect: V + 過 + O):\n- **去過 (heoi3 gwo3)**：Have been to。\n  - 「我去過三次日本旅行。」(I have been to Japan for travel three times.)\n- **食過 (sik6 gwo3)**：Have eaten / tasted before。\n  - 「你食過避風塘炒蟹未呀？」(Have you ever eaten typhoon shelter fried crab?)\n- **見過 (gin3 gwo3)**：Have seen / met before。\n  - 「我喺電視見過呢位明星。」(I have seen this celebrity on TV.)\n- **聽過 (teng1 gwo3)**：Have heard of before。\n\n2. 經歷態嘅否定 (Negative Experience: 未 + V + 過):\n- **未去過 (mei6 heoi3 gwo3)**：Have never been to。\n- **未食過 (mei6 sik6 gwo3)**：Have never tasted before。\n- **未聽過 (mei6 teng1 gwo3)**：Have never heard of before。",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (6.4.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "我去過兩次歐洲旅行，最鍾意瑞士嘅雪山風景。",
+                    "reading": "ngo5 heoi3 gwo3 loeng5 ci3 au1 zau1 leoi5 hang4, zeoi3 zung1 ji3 seoi6 si6 ge3 syut3 saan1 fung1 ging2.",
+                    "translation": "I have been to Europe twice for travel, and I like Switzerland's snowy mountain scenery the most."
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (6.4.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "你以前有冇食過正宗嘅港式煲仔飯呀？",
+                    "reading": "nei5 ji5 cin4 jau5 mou5 sik6 gwo3 zing3 zung1 ge3 gong2 sik1 bou1 zai2 faan6 aa3?",
+                    "translation": "Have you ever eaten authentic Hong Kong style claypot rice before?"
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (6.4.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "呢首老歌我細個嗰陣聽過好多次。",
+                    "reading": "ni1 sau2 lou5 go1 ngo5 sai3 go3 go2 zan6 teng1 gwo3 hou2 do1 ci3.",
+                    "translation": "I heard this old song many times when I was little."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 完成態咗同完 (Perfective 咗/完)"
+                "Experience Formula: Verb + 過 (gwo3) = Ever done; 未 + Verb + 過 = Never done before!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "Hong Kong people love travel and food; sharing culinary experiences with «你食過……未呀？好正㗎！» (Have you ever eaten...? It's awesome!) is a prime conversation starter."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「完成態咗同完 (Perfective 咗/完)」喺第4節嘅地道廣東話表達？",
+                    "prompt": "喺廣東話中表達「曾經去過某個地方 / 有過造訪經歷」，動詞後應當搭配邊個助詞？",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (6.4.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (6.4.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (6.4.3)。"
+                        "緊",
+                        "咗",
+                        "過 (gwo3 - Experiential aspect particle)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 2,
+                    "explanation": "過 (gwo3) is the experiential aspect particle meaning 'have ever done'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「完成體態：咗同埋完 (Perfective Aspect 咗 & 完)」語境嘅廣東話完整句子（練習 4）：",
+                    "prompt": "如果要表達「我從未吃過這種點心」，最地道標準的廣東話句子是：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (6.4.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (6.4.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (6.4.3)。"
+                        "我唔食呢種點心",
+                        "我未食過呢種點心 (ngo5 mei6 sik6 gwo3 ni1 zung2 dim2 sam1 - I have never eaten this dim sum before)",
+                        "我食緊呢種點心"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "未食過 (mei6 sik6 gwo3) precisely conveys 'have never eaten before'."
                 }
             ]
         },
@@ -3244,85 +3285,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「完成態咗同完 (Perfective 咗/完)」嘅日常商務與生活習慣（考核 6-4）？",
+                    "prompt": "關於廣東話經歷體助詞「過 (gwo3)」及其否定形式「未……過」的語法特點，下列哪一項表述完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (6.4.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (6.4.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (6.4.3)。"
+                        "「過」在廣東話中只能表示走過馬路",
+                        "「過 (gwo3)」後綴於動詞表示過去的生命體驗或經歷（去過/食過），否定形式為「未+V+過」（未去過/未食過） (gwo3 marks past experience e.g. heoi3 gwo3, negated by mei6+V+gwo3)",
+                        "經歷體不能用在問句中"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "explanation": "Accurately articulates the experiential aspect paradigm in Cantonese."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («食咗_6_4»):",
+                    "prompt": "Type the 2-character Hanzi phrase for 'have been to / have gone' in Cantonese (去過):",
                     "acceptedAnswers": [
-                        "食咗_6_4"
+                        "去過",
+                        "heoi3gwo3",
+                        "heoi3 gwo3",
+                        "Heoi3 gwo3",
+                        "Heoi3gwo3",
+                        "去过"
                     ],
-                    "explanation": "The target keyword was: 【食咗_6_4】"
+                    "explanation": "去過 (heoi3 gwo3) means 'have been to / have visited before' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u6-l5": {
         "id": "hk-u6-l5",
-        "subject": "cantonese",
-        "unit": 6,
-        "lessonNumber": 5,
-        "title": "完成體態：咗同埋完 (Perfective Aspect 咗 & 完) (Part 5)",
+        "unit": "hk-u6",
         "level": "A2",
-        "objective": "Comprehensive mastery of 完成態咗同完 (Perfective 咗/完).",
+        "objective": "Synthesize all four major Cantonese aspect markers (進行緊 gan2, 完成咗 zo2, 結果完 jyun4, 經歷過 gwo3, 否定未 mei6) in an authentic Yum Cha dim sum dialogue.",
+        "prerequisites": [
+            "hk-u6-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u6-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（完成態咗同完 (Perfective 咗/完) - 第5部分）入面，我哋會探討廣東話嘅核心語用語境同埋完成態咗同完 (Perfective 咗/完)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "喺呢課綜合實戰篇，我哋將第六單元學到嘅所有動態助詞（緊、咗、完、過、未）融會貫通，喺香港最經典嘅文化場景——酒樓飲茶中生動演繹！\n\n1. 廣東話四大動態助詞矩陣 (The Cantonese 4-Aspect Matrix):\n- **進行態 緊 (gan2)**：食緊 (eating now), 等緊 (waiting now)。\n- **完成態 咗 (zo2)**：叫咗 (ordered), 到咗 (arrived), 食咗 (ate)。\n- **結果態 完 (jyun4)**：食完 (finished eating), 傾完 (finished talking)。\n- **經歷態 過 (gwo3)**：食過 (eaten before), 去過 (been before)。\n- **否定態 未 (mei6)**：未到 (haven't arrived yet), 未食過 (never tasted)。\n\n2. 第六單元實戰對話範例 (Unit 6 Master Dialogue):\n- **朋友A**：‘喂，阿John！你到咗未呀？我坐緊喺三樓大堂等緊你。’\n- **朋友B**：‘我啱啱落咗車，搭緊電梯上嚟，兩分鐘到！’\n- **朋友A**：‘好，我叫咗一籠蝦餃、一籠燒賣同兩隻叉燒包先！’\n- **朋友B**：‘正呀！我細個嗰陣食過呢間嘅蛋撻，好香好脆！你有冇食過呀？’\n- **朋友A**：‘我未食過喎，等陣食完點心一定要叫返兩件試下！’",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (6.5.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "我哋坐低飲茶傾偈，不知不覺就食咗兩個鐘頭。",
+                    "reading": "ngo5 dei6 co5 dai1 jam2 caa4 king1 gai2, bat1 zi1 bat1 gok3 zau6 sik6 zo2 loeng5 go3 zung1 tau4.",
+                    "translation": "We sat down to have tea and chat, and unconsciously ate for two hours."
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (6.5.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "你叫咗點心未呀？侍應啱啱放低咗張點心紙。",
+                    "reading": "nei5 giu3 zo2 dim2 sam1 mei6 aa3? si6 jing3 ngaam1 ngaam1 fong3 dai1 zo2 zoeng1 dim2 sam1 zi2.",
+                    "translation": "Have you ordered dim sum yet? The waiter just put down the dim sum order sheet."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (6.5.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "呢間酒樓嘅脆皮燒鵝我食過好多次，每次食完都讚不絕口！",
+                    "reading": "ni1 gaan1 zau2 lau4 ge3 ceoi3 pei4 siu1 ngo4 ngo5 sik6 gwo3 hou2 do1 ci3, mui5 ci3 sik6 jyun4 dou1 zaan3 bat1 zyut6 hau2!",
+                    "translation": "I have eaten the crispy roast goose at this restaurant many times; every time after finishing eating I am full of praise!"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 完成態咗同完 (Perfective 咗/完)"
+                "Aspect Quad: 緊(Now -ing), 咗(Completed), 完(All done), 過(Ever been) -> 四大助詞貫通全場!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "«飲茶» (jam2 caa4) in Cantonese refers not just to sipping tea, but to the entire social ritual of eating dim sum with family, friends, or colleagues at a traditional Chinese teahouse."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「完成態咗同完 (Perfective 咗/完)」喺第5節嘅地道廣東話表達？",
+                    "prompt": "廣東話中「去酒樓吃點心、品茗、與親友聊天」的經典文化代名詞是：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (6.5.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (6.5.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (6.5.3)。"
+                        "飲水",
+                        "飲茶 (jam2 caa4 - Yum cha / dim sum dining & social ritual)",
+                        "飲湯"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "飲茶 (jam2 caa4) is the quintessential Cantonese cultural term for having dim sum and tea."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「完成體態：咗同埋完 (Perfective Aspect 咗 & 完)」語境嘅廣東話完整句子（練習 5）：",
+                    "prompt": "在一句廣東話中區分「食緊（正在吃）」、「食咗（吃了）」、「食完（吃完了）」及「食過（吃過）」，體現了廣東話哪種語法優勢：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (6.5.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (6.5.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (6.5.3)。"
+                        "動態助詞系統（緊/咗/完/過）精確分明 (Highly precise aspectual particle system)",
+                        "所有動詞都沒有時態變化",
+                        "廣東話只能靠英文單詞區分"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "Demonstrates the highly expressive and fine-grained aspectual marker system in Cantonese."
                 }
             ]
         },
@@ -3330,24 +3383,30 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「完成態咗同完 (Perfective 咗/完)」嘅日常商務與生活習慣（考核 6-5）？",
+                    "prompt": "關於廣東話第六單元完成體（咗）、結果完成（完）、否定（未）、經歷體（過）及酒樓飲茶實戰，下列哪一項總括完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (6.5.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (6.5.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (6.5.3)。"
+                        "廣東話動態助詞系統結構嚴密（緊-進行、咗-完成、完-結果、過-經歷、未-未然），能極其生動精確地描繪動作全過程與生活體驗 (Rigorous aspectual system marking progressive, perfective, resultative, experiential, and irrealis)",
+                        "廣東話不能表達吃過或去過",
+                        "「飲茶」在香港只能喝清水"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "Masterfully summarizes the aspectual taxonomy and conversational application."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («食咗_6_5»):",
+                    "prompt": "Type the 2-character Hanzi phrase for 'yum cha / have dim sum and tea' in Cantonese (飲茶):",
                     "acceptedAnswers": [
-                        "食咗_6_5"
+                        "飲茶",
+                        "jam2caa4",
+                        "jam2 caa4",
+                        "Jam2 caa4",
+                        "Jam2caa4",
+                        "饮茶"
                     ],
-                    "explanation": "The target keyword was: 【食咗_6_5】"
+                    "explanation": "飲茶 (jam2 caa4) means 'yum cha / have dim sum and tea' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u7-l1": {
