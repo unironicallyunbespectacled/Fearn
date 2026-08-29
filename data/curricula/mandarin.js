@@ -8764,63 +8764,69 @@
     },
     "zh-u18-l1": {
         "id": "zh-u18-l1",
-        "subject": "mandarin",
-        "unit": 18,
-        "lessonNumber": 1,
-        "title": "因果与转折复句 (Causal & Concessive) (Part 1)",
+        "unit": "zh-u18",
         "level": "B2",
-        "objective": "Comprehensive mastery of 因果与转折复句 (Causal & Concessive Clauses).",
+        "objective": "Master the forward causal pattern 因为 (yīnwèi)... 所以 (suǒyǐ)... and the high-register inverted focal causal pattern 之所以 (zhī suǒyǐ)... 是因为 (shì yīnwèi)... (The reason why X is because Y).",
+        "prerequisites": [
+            "zh-u17-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u17-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「因果与转折复句 (Causal & Concessive)」（第1部分）的核心句法结构与因果与转折复句 (Causal & Concessive Clauses)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "因果复句是现代汉语中构建严密逻辑推理与学术论证的基石！\n\n1. 顺向因果公式 (Forward Causal Formula):\n- **因为 + 原因分句 (A) ，所以 + 结果分句 (B)**\n- 例子：**因为**最近天气持续晴好，**所以**香山的红叶格外绚丽。(Because weather has been consistently fine, Fragrant Hills' red leaves are especially gorgeous.)\n\n2. 倒装因果焦点公式 (Inverted Focus Causal Formula):\n- **主语 + 之所以 + 结果 (B) ，是因为 + 核心原因 (A)**\n- 语义功能：**先摆出引人注目的既成事实（B），再以强烈的焦点重音揭示其核心内在原因（A）**！\n- 高阶学术例句：\n  - 这项人工智能技术**之所以**能在国际上荣获大奖，**是因为**它在算法效率和数据安全上实现了重大突破。(The reason why this AI technology won an international award is that it achieved major breakthroughs in algorithm efficiency and data security.)\n- 书面语修辞价值：常用于学术论文、政论演讲与深度访谈，极具说服力！",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (18.1.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "中国古代的都城规划之所以普遍采用中轴对称的严整格局，是因为这种空间形态深刻契合了传统礼制思想与秩序观念。",
+                    "reading": "Zhōngguó gǔdài de dūchéng guīhuà zhī suǒyǐ pǔbiàn cǎiyòng zhōngzhóu duìchèn de yánzhěng géjú, shì yīnwèi zhè zhǒng kōngjiān xíngtài shēnkè qìhé le chuántǒng lǐzhì sīxiǎng yǔ zhìxù guānniàn.",
+                    "translation": "The reason why ancient Chinese capital planning generally adopted a rigorous central axis symmetry is that this spatial form deeply aligned with traditional ritual thought and concepts of order."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (18.1.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫的中文演讲之所以能够打动全场评委与听众，是因为他在讲稿中倾注了对中国市井文化的真挚热爱与深入思考。",
+                    "reading": "Dàwèi de zhōngwén yǎnjiǎng zhī suǒyǐ nénggòu dǎdòng quánchǎng píngwěi yǔ tīngzhòng, shì yīnwèi tā zài jiǎnggǎo zhōng qīngzhù le duì Zhōngguó shìjǐng wénhuà de zhēnzhì rè'ài yǔ shēnrù sīkǎo.",
+                    "translation": "The reason why David's Chinese speech could move all judges and audiences was that he poured sincere love and deep reflection on Chinese vernacular street culture into his text."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (18.1.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "因为科研团队在前期开展了大量扎实详尽的文献综述与问卷调查，所以后续的实证数据分析进行得格外顺利高效。",
+                    "reading": "Yīnwèi kēyán tuánduì zài qiánqī kāizhǎn le dàliàng zhāshi xiángjìn de wénxiàn zōngshù yǔ wènjuàn diàochá, suǒyǐ hòuxù de shízhèng shùjù fēnxī jìnxíng de gèwài shùnlì gāoxiào.",
+                    "translation": "Because the research team conducted a large volume of solid literature reviews and surveys in the preliminary phase, the subsequent empirical data analysis proceeded exceptionally smoothly and efficiently."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 因果与转折复句 (Causal & Concessive Clauses)"
+                "Normal Causal = 因为 Cause, 所以 Result! Inverted Accent = 之所以 Result, 是因为 Deep Cause!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "The Beijing Central Axis (北京中轴线), running 7.8 kilometers from the Yongdingmen in the south to the Bell and Drum Towers in the north, was inscribed as a UNESCO World Heritage Site in 2024."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「因果与转折复句 (Causal & Concessive Clauses)」在第1小节中的标准汉语语法规范？",
+                    "prompt": "句子‘这部经典纪录片之所以深受国内外观众喜爱，是因为它真实记录了普通人的拼搏故事’中，‘之所以...是因为...’的语用功能是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (18.1.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (18.1.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (18.1.3)。"
+                        "先引出既成结果，再重点揭示其内在核心原因 (Presents result first, then focuses on core cause)",
+                        "表示转折退步",
+                        "表示无条件关系"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "之所以...是因为... inverts the cause-and-effect order to place focal emphasis on the underlying reason."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「因果与转折复句 (Causal & Concessive)」语用情境与完整句式的选项（练习 1）：",
+                    "prompt": "将‘因为北京中轴线体现了中国传统礼制与哲学，所以它成功申遗’改写为更具学术论述力量的倒装句是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (18.1.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (18.1.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (18.1.3)。"
+                        "虽然北京中轴线体现了礼制，但是成功申遗",
+                        "北京中轴线之所以能成功申遗，是因为它深刻体现了中国传统礼制与哲学 (Zhī suǒyǐ... shì yīnwèi... — Academic inverted causal focus)",
+                        "北京中轴线只要体现礼制就成功申遗"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "之所以...是因为... provides sophisticated academic rhetorical focus."
                 }
             ]
         },
@@ -8828,85 +8834,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「因果与转折复句 (Causal & Concessive Clauses)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 18-1）？",
+                    "prompt": "关于‘之所以……是因为……’的语序结构，下列哪一项完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (18.1.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (18.1.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (18.1.3)。"
+                        "‘之所以’后接结果事实，‘是因为’后接原因解释 (之所以 follows result, 是因为 follows cause)",
+                        "‘之所以’后接原因，‘是因为’后接结果",
+                        "两者位置可以随意互换"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "主语 + 之所以 + 结果，是因为 + 原因."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («因为所以_18_1»):",
+                    "prompt": "Type the 3-character conjunction for 'the reason why' (之所以):",
                     "acceptedAnswers": [
-                        "因为所以_18_1"
+                        "之所以",
+                        "zhisuoyi",
+                        "zhīsuǒyǐ",
+                        "Zhīsuǒyǐ",
+                        "Zhisuoyi"
                     ],
-                    "explanation": "The target keyword was: 【因为所以_18_1】"
+                    "explanation": "之所以 (zhī suǒyǐ) means 'the reason why'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u18-l2": {
         "id": "zh-u18-l2",
-        "subject": "mandarin",
-        "unit": 18,
-        "lessonNumber": 2,
-        "title": "因果与转折复句 (Causal & Concessive) (Part 2)",
+        "unit": "zh-u18",
         "level": "B2",
-        "objective": "Comprehensive mastery of 因果与转折复句 (Causal & Concessive Clauses).",
+        "objective": "Master standard and formal concessive-adversative constructions with 虽然 (suīrán) / 尽管 (jǐnguǎn)... 但是 (dànshì) / 然而 (rán'ér) / 却 (què)..., paying special attention to adverbial placement of 却.",
+        "prerequisites": [
+            "zh-u18-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u18-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「因果与转折复句 (Causal & Concessive)」（第2部分）的核心句法结构与因果与转折复句 (Causal & Concessive Clauses)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "转折与让步复句用于表达**事实之间存在的对立、逆转或出人意料的转折发展**！\n\n1. 核心让步转折公式 (Concessive Adversative Formula):\n- **虽然 / 尽管 + 先承认事实 (A) ，但是 / 可是 / 然而 / 却 + 相反转折结果 (B)**\n- 常用高阶关联词梯队：\n  - **口语常用**：虽然……但是 / 可是……\n  - **书面典雅**：尽管……然而…… (Despite... nevertheless...)\n  - **副词内嵌**：虽然……主语 + **却** + 谓语…… (Note: 却 is an adverb and must be placed AFTER the subject in clause B!).\n\n2. 语序绝对铁律：**「却 (què)」是副词，绝不能置于分句句首！**\n  - 正确：外边虽然很冷，教室里**却非常暖和**。\n  - 错误：*外边虽然很冷，却教室里非常暖和。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (18.2.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "这本古汉语语法专著虽然卷帙浩繁、论证极其精深，然而语言表达深入浅出、通俗易懂。",
+                    "reading": "Zhè běn gǔ hànyǔ yǔfǎ zhuānzhù suīrán juànzhìhàofán, lùnzhèng jíqí jīngshēn, rán'ér yǔyán biǎodá shēnrù-qiǎnchū, tōngsú-yìdǒng.",
+                    "translation": "Although this ancient Chinese grammar monograph is voluminous and deeply argued, yet its language is profound yet simple, and easily accessible."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (18.2.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "尽管实验条件非常艰苦、经费十分有限，科研团队却凭借着顽强的毅力攻克了关键技术难题。",
+                    "reading": "Jǐnguǎn shíyàn tiáojiàn fēicháng jiānkǔ, jīngfèi shífēn yǒuxiàn, kēyán tuánduì què píngjiè zhe wánqiáng de yìlì gōngkè le guānjiàn jìshù nándiǎn.",
+                    "translation": "Although experimental conditions were arduous and funds very limited, the scientific team nevertheless overcame key technical dilemmas with tenacious willpower."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (18.2.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "大卫虽然来到中国只有短短一年时间，却能够用流利的中文参与高层次的国际文化交流与辩论。",
+                    "reading": "Dàwèi suīrán láidào Zhōngguó zhǐyǒu duǎnduǎn yì nián shíjiān, què nénggòu yòng liúlì de zhōngwén cānyù gāocéngcì de guójì wénhuà jiāoliú yǔ biànlùn.",
+                    "translation": "Although David has only been in China for a short year, he is nevertheless able to participate in high-level international cultural exchanges and debates in fluent Chinese."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 因果与转折复句 (Causal & Concessive Clauses)"
+                "虽然/尽管 sets the stage; 但是/然而 flips the script! Remember: 却 follows the subject (主语 + 却 + V)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "The idiom «深入浅出» (shēnrù-qiǎnchū, explain deep philosophical concepts in accessible language) is the highest compliment for Chinese scholarly pedagogy."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「因果与转折复句 (Causal & Concessive Clauses)」在第2小节中的标准汉语语法规范？",
+                    "prompt": "关于转折副词‘却’的位置，下列哪个句子在语法语序上完全正确？",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (18.2.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (18.2.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (18.2.3)。"
+                        "虽然外面下着大雪，却屋子里很暖和 (*Wrong: 却 before subject)",
+                        "虽然外面下着大雪，屋子里却很暖和 (Wūzi lǐ què hěn nuǎnhuo — 却 after subject)",
+                        "虽然屋子里却很暖和"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "却 is an adverb and must be placed after the subject of the second clause (屋子里却...)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「因果与转折复句 (Causal & Concessive)」语用情境与完整句式的选项（练习 2）：",
+                    "prompt": "成语‘深入浅出’在学术论著评价中常用于赞誉：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (18.2.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (18.2.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (18.2.3)。"
+                        "书籍篇幅短小",
+                        "理论内涵深刻而行文通俗易懂 (Profound theoretical content conveyed in accessible, elegant prose)",
+                        "学术内容浅薄"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "深入浅出 praises the ability to articulate profound truths in clear, accessible language."
                 }
             ]
         },
@@ -8914,85 +8931,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「因果与转折复句 (Causal & Concessive Clauses)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 18-2）？",
+                    "prompt": "对比‘但是’与‘然而’，‘然而’的语体色彩特征是：",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (18.2.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (18.2.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (18.2.3)。"
+                        "多用于口语随便聊天",
+                        "多用于正式书面语与学术政论，更显典雅庄重 (Formal written register / scholarly discourse)",
+                        "只能用于古代汉语"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "然而 belongs to the formal, written academic and literary register."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («因为所以_18_2»):",
+                    "prompt": "Type the 4-character idiom for 'explaining deep concepts in simple accessible terms' (深入浅出):",
                     "acceptedAnswers": [
-                        "因为所以_18_2"
+                        "深入浅出",
+                        "shenruqianchu",
+                        "shēnrùqiǎnchū",
+                        "Shēnrùqiǎnchū",
+                        "Shenruqianchu",
+                        "深入淺出"
                     ],
-                    "explanation": "The target keyword was: 【因为所以_18_2】"
+                    "explanation": "深入浅出 (shēnrù-qiǎnchū) means 'profound in thought but simple and accessible in expression'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u18-l3": {
         "id": "zh-u18-l3",
-        "subject": "mandarin",
-        "unit": 18,
-        "lessonNumber": 3,
-        "title": "因果与转折复句 (Causal & Concessive) (Part 3)",
+        "unit": "zh-u18",
         "level": "B2",
-        "objective": "Comprehensive mastery of 因果与转折复句 (Causal & Concessive Clauses).",
+        "objective": "Master the hypothetical concessive pattern 即使 (jíshǐ) / 哪怕 (nǎpà) / 就算 (jiùsuàn)... 也 (yě)... (Even if [extreme hypothesis], [consequence/resolution still holds]).",
+        "prerequisites": [
+            "zh-u18-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u18-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「因果与转折复句 (Causal & Concessive)」（第3部分）的核心句法结构与因果与转折复句 (Causal & Concessive Clauses)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "「即使 / 哪怕……也……」是汉语中表达**让步假设（Hypothetical Concession）**的最强句式！\n\n1. 核心假设让步公式 (Hypothetical Concession Formula):\n- **即使 / 哪怕 / 就算 + 极端假设条件 (A) ，(主语) + 也 + 不变的结果或决心 (B)**\n- 语义内涵：**哪怕把条件推向最极端、最不利的假设情况，后项的事实或意志也绝不改变**！\n- 典型例句：\n  - **即使**遇到再大的狂风暴雨，救援队员**也**绝不会停下前进的脚步。(Even if encountering heavy storms, rescuers will still never stop.)\n  - **哪怕**只有百分之一的希望，我们**也**要尽百分之百的努力！(Even if there is only 1% hope, we must still give 100% effort!)\n\n2. 语用对比：「虽然...但是」 vs. 「即使...也」\n- **虽然...但是**：A 是**已经发生的既成事实**（Fact: 虽然很累，但他还是坚持做完了）。\n- **即使...也**：A 是**尚未发生或极端设想的假设**（Hypothesis: 即使很累，我也一定会做完）。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (18.3.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "老校长在毕业典礼上深情寄语：‘青年学子们，即使未来人生的旅途充满未知与荆棘，你们也一定要永远坚守心中的正义与理想！’",
+                    "reading": "Lǎo xiàozhǎng zài bìyè diǎnlǐ shang shēnqíng jìyǔ: ‘Qīngnián xuézǐmen, jíshǐ wèilái rénshēng de lǚtú chōngmǎn wèizhī yǔ jīngjí, nǐmen yě yídìng yào yǒngyuǎn jiānshǒu xīnzhōng de zhèngyì yǔ lǐxiǎng!’",
+                    "translation": "The old president warmly imparted at commencement: 'Young scholars, even if the future journey of life is filled with unknowns and thistles, you must forever uphold justice and ideals in your hearts!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (18.3.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "文物修复专家严肃地说：‘哪怕需要耗费数月甚至数年的心血，我们也要把这卷珍贵的古代受损绢帛完好无损地抢救修复出来。’",
+                    "reading": "Wénwù xiūfù zhuānjiā yánsù de shuō: ‘Nǎpà xūyào hàofèi shù yuè shènzhì shù nián de xīnxuè, wǒmen yě yào bǎ zhè juǎn zhēnguì de gǔdài shòusǔn juànbó wánhǎowúsǔn de qiǎngjiù xiūfù chūlai.’",
+                    "translation": "Cultural relics restoration experts said solemnly: 'Even if it requires months or years of painstaking effort, we must rescue and restore this precious ancient damaged silk scroll intact.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (18.3.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "大卫暗下决心：‘在中文学习的道路上，哪怕遇到再难记的汉字和复杂的语法，我也绝不轻言退缩！’",
+                    "reading": "Dàwèi ànxià juéxīn: ‘Zài zhōngwén xuéxí de dàolù shang, nǎpà yù dào zài nán jì de hànzì hé fùzá de yǔfǎ, wǒ yě jué bù qīngyán tuìsuō!’",
+                    "translation": "David resolved in secret: 'On the road of Chinese learning, even if encountering characters ever so hard to memorize and complex grammar, I will never easily retreat!'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 因果与转折复句 (Causal & Concessive Clauses)"
+                "即使/哪怕 (Even Extreme If) + 也 (Still Unmoved)! Although = Fact (虽然), Even if = Hypothesis (即使)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Chinese cultural relics restoration (文物修复) follows the ancient preservation principle of «修旧如旧» (restoring the antique to preserve its authentic historical patina)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「因果与转折复句 (Causal & Concessive Clauses)」在第3小节中的标准汉语语法规范？",
+                    "prompt": "句子‘即使明天下大雪，比赛也照常举行’中，‘即使’引导的内容属于：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (18.3.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (18.3.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (18.3.3)。"
+                        "既成事实",
+                        "极端假设条件 (Extreme hypothetical condition)",
+                        "因果推论"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "即使 introduces an extreme hypothetical premise."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「因果与转折复句 (Causal & Concessive)」语用情境与完整句式的选项（练习 3）：",
+                    "prompt": "下列哪组关联词能够准确表达‘哪怕遇到再多挫折，也绝不放弃’的假设让步语气？",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (18.3.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (18.3.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (18.3.3)。"
+                        "哪怕……也…… (Nǎpà... yě... — Hypothetical concession)",
+                        "因为……所以……",
+                        "只要……就……"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "哪怕...也 expresses resolute determination in the face of hypothetical extreme hardship."
                 }
             ]
         },
@@ -9000,85 +9029,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「因果与转折复句 (Causal & Concessive Clauses)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 18-3）？",
+                    "prompt": "关于‘虽然...但是’与‘即使...也’的区别，下列哪一项完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (18.3.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (18.3.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (18.3.3)。"
+                        "两者完全相同",
+                        "‘即使’只能用于过去时态",
+                        "‘虽然’引导既成事实的让步，‘即使’引导极端未然假设的让步 (虽然: factual concession; 即使: hypothetical concession)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "虽然 is factual concession; 即使 is hypothetical concession."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («因为所以_18_3»):",
+                    "prompt": "Type the Hanzi conjunction for 'even if / even though' (即使):",
                     "acceptedAnswers": [
-                        "因为所以_18_3"
+                        "即使",
+                        "jishi",
+                        "jíshǐ",
+                        "Jíshǐ",
+                        "Jishi",
+                        "即便"
                     ],
-                    "explanation": "The target keyword was: 【因为所以_18_3】"
+                    "explanation": "即使 (jíshǐ) means 'even if / even though'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u18-l4": {
         "id": "zh-u18-l4",
-        "subject": "mandarin",
-        "unit": 18,
-        "lessonNumber": 4,
-        "title": "因果与转折复句 (Causal & Concessive) (Part 4)",
+        "unit": "zh-u18",
         "level": "B2",
-        "objective": "Comprehensive mastery of 因果与转折复句 (Causal & Concessive Clauses).",
+        "objective": "Master pre-conditioned deduction with 既然 (jìrán)... 就 (jiù)... (Since [established fact], then [naturally deduce course of action]) and causal transitions 因而 (yīn'ér) / 从而 (cóng'ér) (thereby / as a consequence).",
+        "prerequisites": [
+            "zh-u18-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u18-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「因果与转折复句 (Causal & Concessive)」（第4部分）的核心句法结构与因果与转折复句 (Causal & Concessive Clauses)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "「既然……就……」与「从而 / 因而」是学术推演、政策制定与说服性论述中最高频的推论连词！\n\n1. 既成前提推论句 (Established Premise Deduction):\n- **既然 + 双方已知既成事实 (A) ，(主语) + 就 / 那 / 便 + 逻辑推论或行动建议 (B)**\n- 语义特点：A 是**无需争议的已知前提**，B 是**据此提出的必然推论、决策或建议**！\n- 例子：\n  - **既然**大家都赞同这个科研方案，我们**就**立即着手申请立项！(Since everyone agrees with this research plan, let's immediately proceed with application!)\n  - **既然**你来到了中国，**就**应该多去体验当地的风土人情。(Since you came to China, you should experience local customs.)\n\n2. 结果与目的因果连词：「因而」 vs. 「从而」\n- **因而 (yīn'ér)**：表**逻辑推导出的必然因果结果**（= 因此 / 所以）：\n  - 实验数据存在系统性偏差，**因而**需要重新校准精密仪器。\n- **从而 (cóng'ér)**：表**通过前项动作行为，在后项达成了进一步的积极目的或引申结果**（thereby / thus）：\n  - 优化了算法结构，**从而大幅提升了系统的数据处理效率**。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (18.4.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "李明真诚地对大卫说：‘既然你对中国古代青铜器文化这么感兴趣，这个周末我就陪你去国家博物馆参观青铜器特展！’",
+                    "reading": "Lǐ Míng zhēnchéng de duì Dàwèi shuō: ‘Jìrán nǐ duì Zhōngguó gǔdài qīngtóngqì wénhuà zhème gǎnxìngqù, zhè gè zhōumò wǒ jiù péi nǐ qù Guójiā Bówùguǎn cānguān qīngtóngqì tèzhǎn!’",
+                    "translation": "Li Ming said sincerely to David: 'Since you are so interested in ancient Chinese bronze culture, this weekend I will accompany you to the National Museum to visit the bronze exhibition!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (18.4.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "科研团队通过对海量语料进行深度神经网络训练，从而显著降低了机器翻译在处理复杂句式时的语义误差率。",
+                    "reading": "Kēyán tuánduì tōngguò duì hǎiliàng yǔliào jìnxíng shēndù shénjīng wǎngluò xùnliàn, cóng'ér xiǎnzhù jiàngdī le jīqì fānyì zài chǔlǐ fùzá jùshì shí de yǔyì wùchālǜ.",
+                    "translation": "By conducting deep neural network training on massive corpora, the research team thereby significantly reduced machine translation semantic error rates in processing complex sentences."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (18.4.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "既然我们已经明确了下一阶段的学术研究方向，接下来就必须分秒必争地推进田野调查与文献考证工作。",
+                    "reading": "Jìrán wǒmen yǐjīng míngquè le xià yí jiēduàn de xuéshù yánjiū fāngxiàng, jiēxiàlai jiù bìxū fēnmiǎo-bìzhēng de tuījìn tiányě diàochá yǔ wénxiàn kǎozhèng gōngzuò.",
+                    "translation": "Since we have clarified the next phase's research direction, next we must advance fieldwork and literature verification without losing a single second."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 因果与转折复句 (Causal & Concessive Clauses)"
+                "既然 = Since Fact is Set, 就 = Do This Next! 从而 = Act on A, Thereby Achieve B!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Chinese ritual bronzes (中国古代青铜器), such as the Houmuwu Ding (后母戊鼎), symbolize political legitimacy, ancestral reverence, and state authority in ancient Shang and Zhou dynasties."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「因果与转折复句 (Causal & Concessive Clauses)」在第4小节中的标准汉语语法规范？",
+                    "prompt": "句子‘企业引入了自动化流水线，从而显著降低了生产成本’中，‘从而’的语用功能是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (18.4.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (18.4.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (18.4.3)。"
+                        "引出通过前述动作而达成的积极结果或目的 (Introduces positive outcome/purpose achieved thereby)",
+                        "表示否定假设",
+                        "表示转折退步"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "从而 introduces the positive consequence or outcome resulting from the prior action."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「因果与转折复句 (Causal & Concessive)」语用情境与完整句式的选项（练习 4）：",
+                    "prompt": "表达‘已知事实既然成立，那么就应当采取行动’时，最恰当的关联词搭配是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (18.4.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (18.4.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (18.4.3)。"
+                        "既然……就…… (Jìrán... jiù... — Since established fact, then action)",
+                        "虽然……但是……",
+                        "哪怕……也……"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "既然...就 builds on an established premise to recommend a logical course of action."
                 }
             ]
         },
@@ -9086,85 +9127,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「因果与转折复句 (Causal & Concessive Clauses)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 18-4）？",
+                    "prompt": "关于‘既然...就’与‘因为...所以’的细微语用差别，下列阐述完全正确的是：",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (18.4.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (18.4.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (18.4.3)。"
+                        "两者完全没有区别",
+                        "‘既然’后面只能跟疑问句",
+                        "‘因为’说明客观原因，‘既然’是基于双方公认的已知事实进行推论与行动提议 (因为 explains objective cause; 既然 deduces proposal from agreed premise)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "因为 explains objective cause; 既然 reasons from an acknowledged premise to deduce action."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («因为所以_18_4»):",
+                    "prompt": "Type the Hanzi conjunction for 'thereby / thus' (从而):",
                     "acceptedAnswers": [
-                        "因为所以_18_4"
+                        "从而",
+                        "cong'er",
+                        "cóng'ér",
+                        "Cóng'ér",
+                        "Cong'er",
+                        "從而"
                     ],
-                    "explanation": "The target keyword was: 【因为所以_18_4】"
+                    "explanation": "从而 (cóng'ér) means 'thereby / thus'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u18-l5": {
         "id": "zh-u18-l5",
-        "subject": "mandarin",
-        "unit": 18,
-        "lessonNumber": 5,
-        "title": "因果与转折复句 (Causal & Concessive) (Part 5)",
+        "unit": "zh-u18",
         "level": "B2",
-        "objective": "Comprehensive mastery of 因果与转折复句 (Causal & Concessive Clauses).",
+        "objective": "Synthesize forward/inverted causal (因为/之所以), concessive-adversative (虽然/然而/却), hypothetical concessive (即使/哪怕), and premise-deductive (既然/从而) structures into comprehensive academic discourses and symposium presentations.",
+        "prerequisites": [
+            "zh-u18-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u18-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「因果与转折复句 (Causal & Concessive)」（第5部分）的核心句法结构与因果与转折复句 (Causal & Concessive Clauses)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在本课中，我们将系统整合第十八单元的所有因果与转折高阶句式，构建完整的逻辑论证闭环！\n\n1. 因果与转折复句全景大一统总表 (Master Causal & Concessive Architecture):\n| 逻辑类型 | 核心关联词公式 | 论辩功能与典型范例 |\n| :--- | :--- | :--- |\n| **顺向因果** | 因为 A ，所以 B | 基础阐释：因为准备充分，所以顺利通过 |\n| **倒装焦点** | 之所以 B ，是因为 A | 学术重音：之所以成功，是因为团队齐心协力 |\n| **事实转折** | 虽然 A ，然而 / 却 B | 事实对立：虽然实验艰苦，大家却斗志昂扬 |\n| **让步假设** | 即使 / 哪怕 A ，也 B | 极端立誓：哪怕困难重重，也绝不放弃理想 |\n| **既定推论** | 既然 A ，就 B | 行动倡议：既然方案通过，就立即分工执行 |\n| **顺承引申** | 通过动作 A ，从而达成 B | 目的递进：优化算法架构，从而大幅提升效率 |\n\n2. 第十八单元实战交际演练 (Unit 18 Academic Symposium Synthesis):\n- 跨国学者在国际汉学大会发表主旨演讲：多重论证逻辑环环相扣，学术辞章典雅严谨。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (18.5.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "在国际汉学研讨会的主旨发言中，学者深刻阐述道：‘中华文明之所以历经数千年而绵延不绝，是因为它具有强大的包容性与自我革新能力；尽管在历史长河中经历过无数次惊涛骇浪，中华民族却总能在困境中涅槃重生！’",
+                    "reading": "Zài guójì hànxué yántǎohuì de zhǔzhǐ fāyán zhōng, xuézhě shēnkè chǎnshù dào: ‘Zhōnghuá wénmíng zhī suǒyǐ lìjīng shù qiān nián ér miányán-bùjué, shì yīnwèi tā jùyǒu qiángdà de bāoróngxìng yǔ zìwǒ géxīn nénglì; jǐngguǎn zài lìshǐ chánghé zhōng jīnglì guò wúshù cì jīngtāohàolàng, Zhōnghuá mínzú què zǒng néng zài kùnjìng zhōng nièpán-chóngshēng!’",
+                    "translation": "In the keynote speech at the international Sinology symposium, the scholar elaborated deeply: 'The reason why Chinese civilization has endured unbroken for millennia is that it possesses immense inclusiveness and capacity for self-renewal; although having weathered countless turbulent storms in history, the Chinese nation has nevertheless always achieved rebirth from adversity!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (18.5.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "张教授点评研究生的开题报告：‘既然我们已经明确了核心研究问题，接下来就必须通过严谨的问卷调查与量化建模，从而为后续的理论构建提供坚实的数据支撑。’",
+                    "reading": "Zhāng jiàoshòu diǎnpíng yánjiūshēng de kāití bàogào: ‘Jìrán wǒmen yǐjīng míngquè le héxīn yánjiū wèntí, jiēxiàlai jiù bìxū tōngguò yánjǐn de wènjuàn diàochá yǔ liànghuà jiànmó, cóng'ér wèi hòuxù de lǐlùn gòujiàn tígōng jiānshí de shùjù zhīchēng.’",
+                    "translation": "Professor Zhang reviewed the graduate thesis proposal: 'Since we have clarified the core research questions, next we must carry out rigorous surveys and quantitative modeling, thereby providing solid data support for subsequent theoretical construction.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (18.5.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "大卫深情总结道：‘即使语言与文化的差异再大，只要我们心怀真诚与善意，文化互鉴的桥梁就一定能跨越一切隔阂，从而让人类命运共同体更加紧密相连！’",
+                    "reading": "Dàwèi shēnqíng zǒngjié dào: ‘Jíshǐ yǔyán yǔ wénhuà de chāyì zài dà, zhǐyào wǒmen xīnhuái zhēnchéng yǔ shànyì, wénhuà hùjiàn de qiáoliáng jiù yídìng néng kuàyuè yíqiè géhé, cóng'ér ràng rénlèi mìngyùn gòngtóngtǐ gèngjiā jǐnmì xiānglián!’",
+                    "translation": "David summarized with deep emotion: 'Even if linguistic and cultural differences are ever so great, as long as we hold sincerity and goodwill in our hearts, the bridge of mutual cultural learning will definitely span all divides, thereby connecting the community with a shared future for mankind even more closely!'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 因果与转折复句 (Causal & Concessive Clauses)"
+                "The Logical Bridge: 之所以...是因为 (Why), 尽管...却 (Yet), 哪怕...也 (Even if), 既然...就 (Since), 从而 (Thereby)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "The cultural vision of «文明互鉴» (Mutual Learning Among Civilizations) emphasizes dialogue, mutual enrichment, and peaceful coexistence among global cultures."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「因果与转折复句 (Causal & Concessive Clauses)」在第5小节中的标准汉语语法规范？",
+                    "prompt": "句子‘中华文明之所以生生不息，是因为其具有强大的包容性；尽管经历磨难，却总能自我更新’融合了哪两组核心逻辑复句？",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (18.5.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (18.5.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (18.5.3)。"
+                        "倒装焦点因果复句 + 让步转折复句 (Inverted focus causal + Concessive adversative)",
+                        "被字句 + 把字句",
+                        "疑问句 + 祈使句"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "之所以...是因为 is inverted focal causal; 尽管...却 is concessive adversative."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「因果与转折复句 (Causal & Concessive)」语用情境与完整句式的选项（练习 5）：",
+                    "prompt": "在学术报告总结中运用‘既然...就...，从而...’体现的论证逻辑链条是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (18.5.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (18.5.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (18.5.3)。"
+                        "从已知前提导出明确行动，并通过该行动达成进一步的积极战略目标 (From known premise deduces action, thereby achieving strategic goal)",
+                        "无逻辑的随意堆砌",
+                        "表示彻底认输"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "既然...就 deduces action from a premise; 从而 links the action to its constructive outcome."
                 }
             ]
         },
@@ -9172,24 +9225,30 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「因果与转折复句 (Causal & Concessive Clauses)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 18-5）？",
+                    "prompt": "下列哪个句子在学术多重复句的逻辑与修辞运用上最为典雅严谨且完全符合规范？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (18.5.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (18.5.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (18.5.3)。"
+                        "因为虽然下雨所以却去爬山",
+                        "这项技术之所以受到全球瞩目，是因为它在节能减排上取得了突破，从而大幅降低了碳排放 (Zhī suǒyǐ... shì yīnwèi... cóng'ér... — Flawless academic causal synthesis)",
+                        "只要学不好就必须放弃"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "之所以...是因为 (inverted causal) + 从而 (resultative connector) represents flawless academic Chinese."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («因为所以_18_5»):",
+                    "prompt": "Type the 4-character phrase for 'mutual learning among civilizations' (文明互鉴):",
                     "acceptedAnswers": [
-                        "因为所以_18_5"
+                        "文明互鉴",
+                        "wenminghujian",
+                        "wénmínghùjiàn",
+                        "Wénmínghùjiàn",
+                        "Wenminghujian",
+                        "文明互鑒"
                     ],
-                    "explanation": "The target keyword was: 【因为所以_18_5】"
+                    "explanation": "文明互鉴 (wénmíng hùjiàn) means 'mutual learning among civilizations'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u19-l1": {
