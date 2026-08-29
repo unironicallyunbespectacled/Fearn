@@ -491,42 +491,38 @@
             "reviewFocus": []
         },
         "presentation": {
-            "explanation": "In French, greetings establish both the social distance and the time of day. The universal formal and daytime greeting is Bonjour (literally 'good day'), which is used from morning until late afternoon. As dusk falls, Bonsoir ('good evening') replaces Bonjour. When greeting friends, family, or young peers, the informal Salut ('hi' / 'bye') is common, but it should never be used with strangers, shopkeepers, or superiors. When parting, the standard polite farewell is Au revoir ('until we see each other again'), while À bientôt means 'see you soon', À demain means 'see you tomorrow', and Bonne journée ('have a good day') or Bonne soirée ('have a good evening') wish someone well for the rest of the day or night. Notice the key distinction: Bonjour is said upon arriving, while Bonne journée is said upon departing.",
+            "explanation": "In French, greetings establish both the social distance and the time of day. The universal formal and daytime greeting is **Bonjour** [bɔ̃ˈʒuːʁ] (literally 'good day'), used from morning until late afternoon. As dusk falls, **Bonsoir** [bɔ̃ˈswaːʁ] ('good evening') replaces Bonjour. When greeting friends, family, or young peers, the informal **Salut** [saˈly] ('hi' / 'bye') is common, but it should never be used with strangers, shopkeepers, or superiors. When parting, the standard polite farewell is **Au revoir** [o ʁəˈvwaːʁ], while **À bientôt** [a bjɛ̃ˈto] means 'see you soon', **À demain** [a dəˈmɛ̃] means 'see you tomorrow', and **Bonne journée** [bɔn ʒuʁˈne] or **Bonne soirée** [bɔn swaˈʁe] wish someone well upon departing.\n\n### 🔤 French Orthography & Phonetic Essentials:\n1. **Silent Final Consonants & The 'CaReFuL' Rule**:\n   - In French, final consonants **d, t, s, x, p, g, z** are almost ALWAYS silent at the end of a word! E.g. *salut* ends in silent 't' [saˈly], *bonjour* ends in a throaty 'r' [ʁ], *vous* ends in silent 's' [vu].\n   - Consonants typically pronounced at word endings are **C, R, F, L** (the \"CaReFuL\" mnemonic), as in *avec* [aˈvɛk], *soir* [swaːʁ], *neuf* [nœf], *il* [il].\n2. **The Nasal Vowels (Voyelles Nasales)**:\n   - French has 4 iconic nasal vowels where air streams through mouth and nose simultaneously without pronouncing the 'n' or 'm':\n     - **on / om** = [ɔ̃] (rounded back nasal, in *bonjour* [bɔ̃ˈʒuːʁ], *bonsoir* [bɔ̃ˈswaːʁ]).\n     - **an / am / en / em** = [ɑ̃] (open back nasal, in *demain* first syllable, *comment* [kɔˈmɑ̃], *France* [fʁɑ̃s]).\n     - **in / ain / ein** = [ɛ̃] (open-mid front nasal, in *demain* [dəˈmɛ̃], *bientôt* [bjɛ̃ˈto], *bien* [bjɛ̃]).\n     - **un / um** = [œ̃] (open-mid front rounded nasal, in *un* [œ̃], *lundi* [lœ̃ˈdi]).\n3. **Liaison & Enchaînement**:\n   - When a word ending in an otherwise silent consonant is immediately followed by a vowel-initial word, the consonant wakes up and links across the syllable boundary: silent **s/x** links as **[z]** (e.g. *vous êtes* [vu.z‿ɛt]), and silent **d** links as **[t]** (e.g. *grand ami* [ɡʁɑ̃.t‿aˈmi]).",
             "examples": [
                 {
                     "target": "Bonjour, monsieur.",
-                    "reading": "bon-zhoor, muh-syuh",
-                    "translation": "Good morning / Hello, sir."
+                    "reading": "[bɔ̃ˈʒuːʁ, məˈsjø]",
+                    "translation": "Good morning / Hello, sir. (bonjour has nasal on [ɔ̃] and uvular r [ʁ])"
                 },
                 {
                     "target": "Bonsoir, madame.",
-                    "reading": "bon-swahr, mah-dahm",
-                    "translation": "Good evening, madam."
+                    "reading": "[bɔ̃ˈswaːʁ, maˈdam]",
+                    "translation": "Good evening, madam. (bonsoir has nasal on [ɔ̃] and diphthong oi [wa])"
                 },
                 {
                     "target": "Salut, Thomas !",
-                    "reading": "sah-loo, toh-mah",
-                    "translation": "Hi, Thomas! (informal)"
+                    "reading": "[saˈly, tɔˈma]",
+                    "translation": "Hi, Thomas! (informal — silent final t in salut)"
                 },
                 {
                     "target": "Au revoir et bonne journée !",
-                    "reading": "oh ruh-vwahr ay bun zhoor-nay",
-                    "translation": "Goodbye and have a good day!"
+                    "reading": "[o ʁəˈvwaːʁ e bɔn ʒuʁˈne]",
+                    "translation": "Goodbye and have a good day! (said when leaving)"
                 },
                 {
-                    "target": "À bientôt !",
-                    "reading": "ah byan-toh",
-                    "translation": "See you soon!"
-                },
-                {
-                    "target": "À demain !",
-                    "reading": "ah duh-man",
-                    "translation": "See you tomorrow!"
+                    "target": "À bientôt et à demain !",
+                    "reading": "[a bjɛ̃ˈto e a dəˈmɛ̃]",
+                    "translation": "See you soon and see you tomorrow! (bientôt and demain feature nasal [ɛ̃])"
                 }
             ],
             "mnemonics": [
-                "Bonjour = bon (good) + jour (day) — say it when arriving during the day. Bonne journée = 'have a good day' — say it when leaving.",
-                "Au revoir literally translates to 'at the re-seeing' (until seeing each other again)."
+                "The CaReFuL Rule: Letters C, R, F, L are pronounced at word ends (soir, avec); other final consonants (t, s, d, p, x) go to sleep unless a liaison wakes them up!",
+                "Bonjour = bon (good) + jour (day) — say it when arriving. Bonne journée = 'have a good day' — say it when leaving.",
+                "Au revoir literally translates to 'at the re-seeing' (until we see each other again)."
             ],
             "culturalNotes": [
                 "In France, entering a shop, bakery (boulangerie), or taxi without greeting the proprietor with 'Bonjour, monsieur' or 'Bonjour, madame' is perceived as remarkably impolite. Always say 'Bonjour' before asking any question or placing an order.",
