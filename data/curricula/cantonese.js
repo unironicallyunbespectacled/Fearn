@@ -1450,63 +1450,69 @@
     },
     "hk-u3-l1": {
         "id": "hk-u3-l1",
-        "subject": "cantonese",
-        "unit": 3,
-        "lessonNumber": 1,
-        "title": "數字、時間同日期 (Numbers, Time & Date) (Part 1)",
+        "unit": "hk-u3",
         "level": "A1",
-        "objective": "Comprehensive mastery of 時間同日子表達 (Time, Numbers & Days).",
+        "objective": "Master Cantonese cardinal numbers 0–10,000 and distinguish between 二 (ji6 - counting/digits/ordinals) and 兩 (loeng5 - quantity/before classifiers).",
+        "prerequisites": [
+            "hk-u2-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u2-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（時間同日子表達 (Time, Numbers & Days) - 第1部分）入面，我哋會探討廣東話嘅核心語用語境同埋時間同日子表達 (Time, Numbers & Days)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "廣東話嘅數字系統結構清晰，但使用「二 (ji6)」同「兩 (loeng5)」有非常嚴格嘅語法分工！\n\n1. 基礎數字與位值 (Base Numbers & Place Values):\n- **0–10**：零 (ling4), 一 (jat1), 二 (ji6), 三 (saam1), 四 (sei3), 五 (ng5), 六 (luk6), 七 (cat1), 八 (baat3), 九 (gau2), 十 (sap6)。\n- **位值**：百 (baak3), 千 (cin1), 萬 (maan6)。\n  - 例如：一百二十五 (125), 三千八百 (3,800), 兩萬 (20,000)。\n\n2. 「二」同「兩」嘅黃金法則 (ji6 vs loeng5 Rule):\n- **二 (ji6)**：用於純數數、電話號碼、小數、序數同個位數（例如：第二、二號、一二三四）。\n- **兩 (loeng5)**：用於**量詞之前、計量單位或百/千/萬位**（例如：兩個人、兩杯奶茶、兩點鐘、兩百蚊、兩萬蚊）。\n  - *注意：二十 (jaa6 / sap6) 用「二」，但二百、兩千、兩萬多數用「兩」！*",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (3.1.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "唔該畀兩杯熱奶茶同兩件新鮮出爐嘅蛋撻我哋。",
+                    "reading": "m4 goi1 bei2 loeng5 bui1 jit6 naai5 caa4 tung4 loeng5 gin6 san1 sin1 ceot1 lou4 ge3 daan6 taat2 ngo5 dei6.",
+                    "translation": "Please give us two cups of hot milk tea and two freshly baked egg tarts."
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (3.1.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "我嘅電話號碼係九一二三四五六七。",
+                    "reading": "ngo5 ge3 din6 waa2 hou6 maa5 hai6 gau2 jat1 ji6 saam1 sei3 ng5 luk6 cat1.",
+                    "translation": "My phone number is 9123-4567."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (3.1.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "呢間舖頭喺銅鑼灣開咗二十年，每個月租金要兩萬八千蚊。",
+                    "reading": "ni1 gaan1 pou3 tau2 hai2 tung4 lo4 waan1 hoi1 zo2 jaa6 nin4, mui5 go3 jyut6 zou1 gam1 jiu3 loeng5 maan6 baat3 cin1 man1.",
+                    "translation": "This shop has been open in Causeway Bay for twenty years, and monthly rent is 28,000 dollars."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 時間同日子表達 (Time, Numbers & Days)"
+                "Number Rule: 純數字號碼用「二」(ji6); 量詞計量度位用「兩」(loeng5 loeng5)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "In Cantonese money colloquially, «蚊» (man1) replaces 元/塊 (dollars), and 20 is often pronounced with the special contracted numeral «廿» (jaa6)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「時間同日子表達 (Time, Numbers & Days)」喺第1節嘅地道廣東話表達？",
+                    "prompt": "喺餐廳點餐時，向侍應表示「兩個人、兩杯咖啡」，「兩」喺量詞前嘅正確廣東話字係：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (3.1.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (3.1.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (3.1.3)。"
+                        "二",
+                        "兩 (loeng5 - Two / before classifiers)",
+                        "雙"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "兩 (loeng5) must be used before classifiers like 個 (go3) and 杯 (bui1)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「數字、時間同日期 (Numbers, Time & Date)」語境嘅廣東話完整句子（練習 1）：",
+                    "prompt": "廣東話入面，朗讀純電話號碼「9123」或者巴士路線「2號巴士」時，「2」應當讀作：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (3.1.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (3.1.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (3.1.3)。"
+                        "二 (ji6 - Two for digits/ordinals)",
+                        "兩",
+                        "對"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "二 (ji6) is used for pure digits, telephone numbers, and bus routes."
                 }
             ]
         },
@@ -1514,85 +1520,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「時間同日子表達 (Time, Numbers & Days)」嘅日常商務與生活習慣（考核 3-1）？",
+                    "prompt": "關於廣東話中「二 (ji6)」與「兩 (loeng5)」的用法差異，下列哪一項表述完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (3.1.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (3.1.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (3.1.3)。"
+                        "「二」用於純數數、電話號碼、序數等；「兩」則用於量詞前表示數量或時間（如兩個人、兩點鐘、兩百蚊） (ji6 for digits/ordinals; loeng5 before classifiers and in quantities)",
+                        "「兩」只能用來指代重量",
+                        "兩者沒有任何區別可以完全倒轉使用"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "Accurately distinguishes ji6 and loeng5 usage in Cantonese."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («今日_3_1»):",
+                    "prompt": "Type the 2-character Hanzi phrase for 'two (items)' in Cantonese (兩個):",
                     "acceptedAnswers": [
-                        "今日_3_1"
+                        "兩個",
+                        "loeng5go3",
+                        "loeng5 go3",
+                        "Loeng5 go3",
+                        "Loeng5go3",
+                        "两个"
                     ],
-                    "explanation": "The target keyword was: 【今日_3_1】"
+                    "explanation": "兩個 (loeng5 go3) means 'two (items)' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u3-l2": {
         "id": "hk-u3-l2",
-        "subject": "cantonese",
-        "unit": 3,
-        "lessonNumber": 2,
-        "title": "數字、時間同日期 (Numbers, Time & Date) (Part 2)",
+        "unit": "hk-u3",
         "level": "A1",
-        "objective": "Comprehensive mastery of 時間同日子表達 (Time, Numbers & Days).",
+        "objective": "Master telling time in Cantonese, including the traditional Hong Kong clock-face 5-minute unit '字' (zi6) and quarter hour '骨' (gwat1).",
+        "prerequisites": [
+            "hk-u3-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u3-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（時間同日子表達 (Time, Numbers & Days) - 第2部分）入面，我哋會探討廣東話嘅核心語用語境同埋時間同日子表達 (Time, Numbers & Days)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "廣東話報時間有一套極具特色嘅**「字 (zi6)」**系統，以鐘面數字（1至12）每隔5分鐘為一個「字」！\n\n1. 時間基礎構成 (Core Time Expressions):\n- **點 / 點鐘 (dim2 / dim2 zung1)**：O'clock。\n  - 例如：三點鐘 (3:00), 八點正 (8:00 sharp)。\n- **分 (fan1)**：Minute。\n  - 例如：八點十五分 (8:15)。\n- **半 (bun3)**：Half past (30 mins)。\n  - 例如：十點半 (10:30)。\n\n2. 香港特色「字」同「骨」計時制 (Unique zi6 & gwat1 Time Units):\n- 鐘面每5分鐘叫一個「字」：\n  - **一個字 (jat1 go3 zi6)**：5分鐘（指針指住1）。\n  - **兩個字 (loeng5 go3 zi6)**：10分鐘（指針指住2）。\n  - **三個字 (saam1 go3 zi6) / 一個骨 (jat1 go3 gwat1)**：15分鐘（指針指住3，'骨'源自英文Quarter）。\n  - **六個字 (luk6 go3 zi6) / 半**：30分鐘。\n  - **九個字 (gau2 go3 zi6) / 三個骨**：45分鐘。\n  - *例如：「三點三個字」就係 3:15；「五點九個字」就係 5:45！*",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (3.2.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "而家幾多點呀？而家係下晝三點九個字（3:45）。",
+                    "reading": "ji4 gaa1 gei2 do1 dim2 aa3? ji4 gaa1 hai6 haa6 zau3 saam1 dim2 gau2 go3 zi6.",
+                    "translation": "What time is it now? It is 3:45 PM right now."
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (3.2.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "我哋約好聽朝早八點半喺地鐵站閘口等。",
+                    "reading": "ngo5 dei6 joek3 hou2 ting1 ziu1 zou2 baat3 dim2 bun3 hai2 dei6 tit3 zaam6 zaap6 hau2 dang2.",
+                    "translation": "We agreed to meet at the subway turnstile at 8:30 tomorrow morning."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (3.2.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "仲有兩個字（10分鐘）就開會喇，快啲準備好啲文件啦！",
+                    "reading": "zung6 jau5 loeng5 go3 zi6 zau6 hoi1 wui6 laa3, faai3 di1 zeon2 bei6 hou2 di1 man4 gin2 laa1!",
+                    "translation": "There are still 10 minutes before the meeting starts, quickly prepare the documents!"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 時間同日子表達 (Time, Numbers & Days)"
+                "Clock Face Code: 1個字=5分, 3個字=15分(1骨), 6個字=30分(半), 9個字=45分(3骨)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "The «字» (zi6) system originated from traditional clock dials and remains the most common spoken way Hong Kongers express time in daily life."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「時間同日子表達 (Time, Numbers & Days)」喺第2節嘅地道廣東話表達？",
+                    "prompt": "喺廣東話口語入面，如果有人講「四點三個字」，佢所指嘅具體時間係：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (3.2.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (3.2.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (3.2.3)。"
+                        "4點03分",
+                        "4點15分 (4:15 - 3 'zi' equals 15 minutes)",
+                        "4點30分"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "每個「字」代表5分鐘，三個字即係 3 × 5 = 15 分鐘，所以係 4:15。"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「數字、時間同日期 (Numbers, Time & Date)」語境嘅廣東話完整句子（練習 2）：",
+                    "prompt": "廣東話入面表示整點「點鐘 (o'clock)」，例如「現在是九點鐘」，「點鐘」嘅正確寫法係：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (3.2.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (3.2.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (3.2.3)。"
+                        "點鐘 (dim2 zung1 - O'clock)",
+                        "時辰",
+                        "點分"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "點鐘 (dim2 zung1) is the standard Cantonese term for o'clock."
                 }
             ]
         },
@@ -1600,85 +1618,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「時間同日子表達 (Time, Numbers & Days)」嘅日常商務與生活習慣（考核 3-2）？",
+                    "prompt": "關於廣東話中「點鐘」、「半」以及獨特的「字（每5分鐘為1個字）」計時系統，下列哪一項表述完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (3.2.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (3.2.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (3.2.3)。"
+                        "「一個字」在廣東話中代表一小時",
+                        "廣東話以「點/點鐘」表示時，以鐘面每5分鐘為「一個字」（如三個字為15分，九個字為45分），並以「半」表示30分 (dim2 zung1 for hour, each 'zi6' for 5 mins, bun3 for half past)",
+                        "廣東話不能表達具體時間"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "Accurately articulates Cantonese time syntax and the clock-face 'zi6' nomenclature."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («今日_3_2»):",
+                    "prompt": "Type the 2-character Hanzi for 'o'clock' in Cantonese (點鐘):",
                     "acceptedAnswers": [
-                        "今日_3_2"
+                        "點鐘",
+                        "dim2zung1",
+                        "dim2 zung1",
+                        "Dim2 zung1",
+                        "Dim2zung1",
+                        "点钟"
                     ],
-                    "explanation": "The target keyword was: 【今日_3_2】"
+                    "explanation": "點鐘 (dim2 zung1) means 'o'clock' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u3-l3": {
         "id": "hk-u3-l3",
-        "subject": "cantonese",
-        "unit": 3,
-        "lessonNumber": 3,
-        "title": "數字、時間同日期 (Numbers, Time & Date) (Part 3)",
+        "unit": "hk-u3",
         "level": "A1",
-        "objective": "Comprehensive mastery of 時間同日子表達 (Time, Numbers & Days).",
+        "objective": "Master days of the week, relative day markers (今日/琴日/聽日), and date constructions in Cantonese.",
+        "prerequisites": [
+            "hk-u3-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u3-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（時間同日子表達 (Time, Numbers & Days) - 第3部分）入面，我哋會探討廣東話嘅核心語用語境同埋時間同日子表達 (Time, Numbers & Days)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "廣東話嘅日期同相對時間詞彙非常生動，特別係「琴日 (尋日)」同「聽日」嘅地道讀音！\n\n1. 相對日子譜系 (Relative Day Markers):\n- **大前日 (daai6 cin4 jat6)**：Three days ago。\n- **前日 (cin4 jat6)**：Day before yesterday。\n- **琴日 / 尋日 (kam4 jat6 / cam4 jat6)**：Yesterday。\n- **今日 (gam1 jat6)**：Today。\n- **聽日 (ting1 jat6)**：Tomorrow。\n- **後日 (hau6 jat6)**：Day after tomorrow。\n- **大後日 (daai6 hau6 jat6)**：Three days from today。\n\n2. 星期與日期表達 (Days of Week & Calendar Dates):\n- **星期 (sing1 kei4)** / **禮拜 (lai5 baai3)**：\n  - 星期一 / 禮拜一 (Monday) …… 星期六 / 禮拜六 (Saturday)。\n  - **星期日 / 禮拜日 / 禮拜天** (Sunday)。\n- **幾月幾號 (gei2 jyut6 gei2 hou6)**：\n  - 「今日係七月一號，亦都係香港特區成立紀念日。」(Today is July 1st, which is also HKSAR Establishment Day.)",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (3.3.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "今日係星期五，收工之後我哋一齊去蘭桂坊飲杯嘢啦！",
+                    "reading": "gam1 jat6 hai6 sing1 kei4 ng5, sau1 gung1 zi1 hau6 ngo5 dei6 jat1 cai4 heoi3 laan4 gwai3 fong1 jam2 bui1 je5 laa1!",
+                    "translation": "Today is Friday; after work let's go to Lan Kwai Fong for a drink!"
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (3.3.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "琴日晏晝好大雨，不過聽日天文台話會出太陽。",
+                    "reading": "kam4 jat6 aan3 zau3 hou2 daai6 jyu5, bat1 gwo3 ting1 jat6 tin1 man4 toi4 waa6 wui6 ceot1 taai3 joeng4.",
+                    "translation": "It rained heavily yesterday afternoon, but the observatory says it will be sunny tomorrow."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (3.3.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "請問你嘅生日係幾月幾號呀？",
+                    "reading": "cing2 man6 nei5 ge3 saang1 jat6 hai6 gei2 jyut6 gei2 hou6 aa3?",
+                    "translation": "May I ask what date your birthday is?"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 時間同日子表達 (Time, Numbers & Days)"
+                "Day Chain: 琴日(Yesterday) -> 今日(Today) -> 聽日(Tomorrow) -> 後日(Day after)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "In Hong Kong daily speech, «禮拜» (lai5 baai3) and «星期» (sing1 kei4) are used interchangeably for days of the week, with «禮拜» being slightly more colloquial."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「時間同日子表達 (Time, Numbers & Days)」喺第3節嘅地道廣東話表達？",
+                    "prompt": "廣東話入面表示「昨天 (yesterday)」最常用地道嘅口語詞彙係：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (3.3.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (3.3.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (3.3.3)。"
+                        "昨日",
+                        "琴日 / 尋日 (kam4 jat6 / cam4 jat6 - Yesterday)",
+                        "昨日天"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "琴日 / 尋日 (kam4 jat6 / cam4 jat6) is the standard colloquial Cantonese term for yesterday."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「數字、時間同日期 (Numbers, Time & Date)」語境嘅廣東話完整句子（練習 3）：",
+                    "prompt": "在廣東話中，如果要表達「今天 (today)」，對應的字詞是：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (3.3.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (3.3.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (3.3.3)。"
+                        "今日 (gam1 jat6 - Today)",
+                        "明日",
+                        "今朝"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "今日 (gam1 jat6) means 'today' in Cantonese."
                 }
             ]
         },
@@ -1686,85 +1716,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「時間同日子表達 (Time, Numbers & Days)」嘅日常商務與生活習慣（考核 3-3）？",
+                    "prompt": "關於廣東話中相對日期（今日/琴日/聽日）與星期（星期/禮拜）的表達方式，下列哪一項表述完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (3.3.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (3.3.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (3.3.3)。"
+                        "廣東話沒有星期的概念",
+                        "廣東話只能用古代干支紀日",
+                        "廣東話以「琴日/尋日」表昨天、「今日」表今天、「聽日」表明天，並通用「星期」與「禮拜」表示星期一至日 (kam4 jat6 for yesterday, gam1 jat6 for today, ting1 jat6 for tomorrow; uses sing1 kei4 & lai5 baai3)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "Accurately summarizes Cantonese relative day markers and weekday conventions."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («今日_3_3»):",
+                    "prompt": "Type the 2-character Hanzi for 'today' in Cantonese (今日):",
                     "acceptedAnswers": [
-                        "今日_3_3"
+                        "今日",
+                        "gam1jat6",
+                        "gam1 jat6",
+                        "Gam1 jat6",
+                        "Gam1jat6"
                     ],
-                    "explanation": "The target keyword was: 【今日_3_3】"
+                    "explanation": "今日 (gam1 jat6) means 'today' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u3-l4": {
         "id": "hk-u3-l4",
-        "subject": "cantonese",
-        "unit": 3,
-        "lessonNumber": 4,
-        "title": "數字、時間同日期 (Numbers, Time & Date) (Part 4)",
+        "unit": "hk-u3",
         "level": "A1",
-        "objective": "Comprehensive mastery of 時間同日子表達 (Time, Numbers & Days).",
+        "objective": "Master asking prices, stating money amounts in Hong Kong dollars (蚊/毫子), and discussing costs in Cantonese.",
+        "prerequisites": [
+            "hk-u3-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u3-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（時間同日子表達 (Time, Numbers & Days) - 第4部分）入面，我哋會探討廣東話嘅核心語用語境同埋時間同日子表達 (Time, Numbers & Days)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "去香港買嘢、食飯、逛街市，問價錢同算賬係最核心嘅生活技能！\n\n1. 貨幣單位與口語表達 (Currency Units & Colloquialisms):\n- **蚊 (man1)**：港幣「元 / 塊」，最常用嘅口語金錢單位。\n  - 例如：十蚊 (HK$10), 五十蚊 (HK$50), 一百蚊 (HK$100)。\n- **毫 / 毫子 (hou4 / hou4 zi2)**：角 / 10 cents。\n  - 例如：五毫子 (50 cents), 兩蚊八毫 (HK$2.80)。\n- **仙 (sin1)**：分 / 1 cent（源自英文Cent，現多用於比喻「一仙都冇」）。\n- **皮 (pei4) / 雞 (gai1)**：俗語，一皮 = 一萬蚊；一隻雞 = 一蚊。\n\n2. 實用問價句式 (Asking Prices & Bargaining):\n- **「請問呢個幾多錢呀？」/「呢件衫幾多蚊呀？」(How much is this?)**\n- **「太貴喇，可唔可以平啲呀？」(Too expensive, can it be cheaper?)\n- **「唔該找錢。」(Please give me change.)**",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (3.4.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "唔該請問呢個保溫杯幾多錢呀？",
+                    "reading": "m4 goi1 cing2 man6 ni1 go3 bou2 wan1 bui1 gei2 do1 cin2 aa3?",
+                    "translation": "Excuse me, how much is this thermos cup?"
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (3.4.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "呢個菠蘿包八蚊一個，買三個二十蚊。",
+                    "reading": "ni1 go3 bo1 lo4 baau1 baat3 man1 jat1 go3, maai5 saam1 go3 jaa6 man1.",
+                    "translation": "This pineapple bun is eight dollars each; buying three is twenty dollars."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (3.4.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "老細，畀咗一張一百蚊紙你，唔該找返六十五蚊。",
+                    "reading": "lou5 sai3, bei2 zo2 jat1 zoeng1 jat1 baak3 man1 zi2 nei5, m4 goi1 zaau2 faan1 luk6 sap6 ng5 man1.",
+                    "translation": "Boss, I gave you a 100-dollar note, please give me back 65 dollars change."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 時間同日子表達 (Time, Numbers & Days)"
+                "Money Formula: 幾多錢(How much), 蚊(Dollars), 毫子(Dimes), 找錢(Change)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "In Hong Kong, paper currency is often called «蚊紙» (man1 zi2, e.g. 五百蚊紙/大牛, 一千蚊紙/金牛), reflecting deep-rooted fiscal culture."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「時間同日子表達 (Time, Numbers & Days)」喺第4節嘅地道廣東話表達？",
+                    "prompt": "喺舖頭買嘢想詢問店員「這個多少錢？」，最常用地道嘅廣東話句式係：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (3.4.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (3.4.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (3.4.3)。"
+                        "呢個幾多重？",
+                        "呢個係咪錢？",
+                        "呢個幾多錢呀？ (ni1 go3 gei2 do1 cin2 aa3? - How much money is this?)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 2,
+                    "explanation": "幾多錢 (gei2 do1 cin2) is the standard Cantonese inquiry for price."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「數字、時間同日期 (Numbers, Time & Date)」語境嘅廣東話完整句子（練習 4）：",
+                    "prompt": "廣東話口語中，代表港幣「元（dollar）」最普遍的字是：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (3.4.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (3.4.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (3.4.3)。"
+                        "蚊 (man1 - Dollar / Buck)",
+                        "鎊",
+                        "仙"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "蚊 (man1) is the universal Cantonese spoken term for dollar."
                 }
             ]
         },
@@ -1772,85 +1813,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「時間同日子表達 (Time, Numbers & Days)」嘅日常商務與生活習慣（考核 3-4）？",
+                    "prompt": "關於廣東話中詢問價格「幾多錢」及貨幣單位「蚊/毫子」的口語用法，下列哪一項表述完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (3.4.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (3.4.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (3.4.3)。"
+                        "「幾多錢」用於問年齡",
+                        "廣東話買東西不需要付錢",
+                        "廣東話以「幾多錢/幾多蚊」詢問價格，以「蚊 (man1)」代表元，以「毫子 (hou4 zi2)」代表角，以「找錢」表示找零 (gei2 do1 cin2 for price, man1 for dollar, hou4 zi2 for dime, zaau2 cin2 for change)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "Accurately articulates Cantonese pricing, monetary lexicon, and transactional terms."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («今日_3_4»):",
+                    "prompt": "Type the 3-character Hanzi for 'how much money' in Cantonese (幾多錢):",
                     "acceptedAnswers": [
-                        "今日_3_4"
+                        "幾多錢",
+                        "gei2do1cin2",
+                        "gei2 do1 cin2",
+                        "Gei2 do1 cin2",
+                        "Gei2do1cin2",
+                        "几多钱"
                     ],
-                    "explanation": "The target keyword was: 【今日_3_4】"
+                    "explanation": "幾多錢 (gei2 do1 cin2) means 'how much money' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u3-l5": {
         "id": "hk-u3-l5",
-        "subject": "cantonese",
-        "unit": 3,
-        "lessonNumber": 5,
-        "title": "數字、時間同日期 (Numbers, Time & Date) (Part 5)",
+        "unit": "hk-u3",
         "level": "A1",
-        "objective": "Comprehensive mastery of 時間同日子表達 (Time, Numbers & Days).",
+        "objective": "Synthesize numbers, time, prices, and days into a real-world Hong Kong Cha Chaan Teng afternoon tea order and bill-settling dialogue.",
+        "prerequisites": [
+            "hk-u3-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u3-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（時間同日子表達 (Time, Numbers & Days) - 第5部分）入面，我哋會探討廣東話嘅核心語用語境同埋時間同日子表達 (Time, Numbers & Days)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "喺呢課綜合實戰篇，我哋將第三單元嘅數字、時間「點鐘/字」、問價「幾多錢/幾多蚊」同經典廣東話詞彙融會貫通，體驗香港茶餐廳下午茶時光！\n\n1. 茶餐廳下午茶必備詞彙與句型 (Cha Chaan Teng Lexicon):\n- **下午茶時段 (haa6 ng5 caa4 si4 dyun6)**：通常係下晝兩點半至五點半（2:30–5:30），套餐特別抵食！\n- **埋單 (maai4 daan1)**：Check please / Pay the bill（極其經典地道嘅粵語詞彙）。\n- **一共幾多錢？ (jat1 gung6 gei2 do1 cin2?)**：How much altogether?\n- **凍檸茶少甜 (dung3 ning4 caa4 siu2 tim4)**：Iced lemon tea, less sweet。\n\n2. 第三單元實戰對話範例 (Unit 3 Master Dialogue):\n- **顧客David**：‘侍應，唔該！而家三點三個字，有冇下午茶餐呀？’\n- **侍應**：‘有啊！下午茶兩點半開始。呢份餐包一杯凍飲同一個西多士。’\n- **顧客David**：‘好啊，我要一份西多士，一杯凍檸茶少甜。’\n- *(食完之後)*\n- **顧客David**：‘老細，唔該埋單！一共幾多錢呀？’\n- **侍應**：‘一共三十八蚊，多謝晒！’",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (3.5.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "老細，唔該埋單！我哋坐八號枱。",
+                    "reading": "lou5 sai3, m4 goi1 maai4 daan1! ngo5 dei6 co5 baat3 hou6 toi2.",
+                    "translation": "Boss, bill please! We are sitting at table 8."
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (3.5.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "而家兩點半，茶餐廳下午茶特價套餐啱啱開始。",
+                    "reading": "ji4 gaa1 loeng5 dim2 bun3, caa4 caan1 teng1 haa6 ng5 caa4 dak6 gaa3 tou3 caan1 ngaam1 ngaam1 hoi1 ci2.",
+                    "translation": "It is 2:30 now, the tea restaurant afternoon tea special combo just started."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (3.5.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "呢餐飯三個人食，一共用咗四百二十蚊。",
+                    "reading": "ni1 caan1 faan6 saam1 go3 jan4 sik6, jat1 gung6 jung6 zo2 sei3 baak3 ji6 sap6 man1.",
+                    "translation": "Three people ate this meal; altogether it cost 420 dollars."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 時間同日子表達 (Time, Numbers & Days)"
+                "Dining Flow: 睇時間下午茶(Time & Tea set) -> 叫餐點飲品(Ordering) -> 埋單找錢(Bill & Change)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "«埋單» (maai4 daan1) is one of the most famous Cantonese cultural exports worldwide, originating from the practice of tallying and settling the food bills."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「時間同日子表達 (Time, Numbers & Days)」喺第5節嘅地道廣東話表達？",
+                    "prompt": "喺廣東話餐廳食完飯準備結賬付款，呼喚侍應「結賬 / 買單」最地道標準嘅說法係：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (3.5.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (3.5.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (3.5.3)。"
+                        "收工",
+                        "埋單 (maai4 daan1 - Pay the bill / Check please)",
+                        "找錢"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "埋單 (maai4 daan1) is the authentic Cantonese phrase for asking for the bill."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「數字、時間同日期 (Numbers, Time & Date)」語境嘅廣東話完整句子（練習 5）：",
+                    "prompt": "香港茶餐廳中著名的下午茶優惠時段（通常在下午2:30至5:30），廣東話稱之為：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (3.5.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (3.5.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (3.5.3)。"
+                        "宵夜",
+                        "下午茶 (haa6 ng5 caa4 - Afternoon tea)",
+                        "早茶"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "下午茶 (haa6 ng5 caa4) is the beloved afternoon tea meal in Hong Kong food culture."
                 }
             ]
         },
@@ -1858,24 +1911,31 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「時間同日子表達 (Time, Numbers & Days)」嘅日常商務與生活習慣（考核 3-5）？",
+                    "prompt": "關於廣東話第三單元數字（一至萬/兩）、時間（點鐘/字）、日期（今日/聽日）與金錢結賬（幾多蚊/埋單）的綜合應用，下列哪一項總括完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (3.5.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (3.5.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (3.5.3)。"
+                        "廣東話在餐廳不能結賬",
+                        "掌握數字量詞（兩）、鐘面計時（點鐘/字）、相對日期（今日）及飲食結賬核心語（幾多錢/埋單），能自如應對香港日常生活、購物與餐飲交流 (Complete mastery of numbers, clock-face time, dates, and restaurant billing with maai4 daan1)",
+                        "「埋單」在廣東話中是打架的意思"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "Synthesizes numbers, time, price inquiry, and dining settlement in Cantonese."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («今日_3_5»):",
+                    "prompt": "Type the 2-character Hanzi for 'pay the bill / check please' in Cantonese (埋單):",
                     "acceptedAnswers": [
-                        "今日_3_5"
+                        "埋單",
+                        "maai4daan1",
+                        "maai4 daan1",
+                        "Maai4 daan1",
+                        "Maai4daan1",
+                        "买单",
+                        "買單"
                     ],
-                    "explanation": "The target keyword was: 【今日_3_5】"
+                    "explanation": "埋單 (maai4 daan1) means 'pay the bill / check please' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u4-l1": {
