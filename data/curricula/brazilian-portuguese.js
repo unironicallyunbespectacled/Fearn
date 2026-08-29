@@ -450,46 +450,81 @@
         "id": "pt-br-u1-l1",
         "unit": "pt-br-u1",
         "level": "A1",
-        "objective": "Greet people appropriately at different times of day and open or close a short conversation in Brazilian Portuguese.",
+        "objective": "Greet people appropriately at different times of day, master Brazilian palatalization of 't' and 'd' before 'i'/'e' ([tʃi], [dʒi]), understand nasal vowels and c/ç rules, and open or close a conversation.",
         "prerequisites": [],
         "warmup": {
             "srsPull": true,
             "reviewFocus": []
         },
         "presentation": {
-            "explanation": "Bom dia covers the morning until roughly noon, and Boa tarde takes over for the afternoon until nightfall — straightforward so far. But Boa noite does double duty in a way English doesn't: it's both \"good evening\" (arriving somewhere after dark) AND \"good night\" (leaving or going to bed), with no separate word to distinguish the two. English speakers instinctively reach for a \"good evening\" equivalent when walking into a party at 8pm and a different \"goodnight\" when leaving — Brazilian Portuguese just uses Boa noite for both, and context (are you arriving or leaving?) does all the work. For casual hellos, Oi is the everyday default — more common in speech than the slightly more neutral Olá. Tchau (borrowed from Italian ciao) is the standard informal goodbye; Até logo (\"see you soon\") and Até mais (\"see you later\") work as warm, casual sign-offs too.",
+            "explanation": "Bom dia covers the morning until roughly noon, and Boa tarde takes over for the afternoon until nightfall — straightforward so far. But Boa noite does double duty in a way English doesn't: it's both \"good evening\" (arriving somewhere after dark) AND \"good night\" (leaving or going to bed), with no separate word to distinguish the two. English speakers instinctively reach for a \"good evening\" equivalent when walking into a party at 8pm and a different \"goodnight\" when leaving — Brazilian Portuguese just uses Boa noite for both, and context (are you arriving or leaving?) does all the work. For casual hellos, Oi is the everyday default — more common in speech than the slightly more neutral Olá. Tchau (borrowed from Italian ciao) is the standard informal goodbye; Até logo (\"see you soon\") and Até mais (\"see you later\") work as warm, casual sign-offs too.\n\n### 🔤 Brazilian Orthography & Pronunciation Secrets:\n1. **Palatalization of 't' and 'd' before 'i' / unstressed 'e'**:\n   - In standard Brazilian Portuguese (Rio, São Paulo, broadcast), **d** before 'i' or unstressed final 'e' becomes **[dʒ]** (like English 'j' in *jeep*). E.g. *Bom dia* is pronounced **[bõw̃ ˈdʒi.ɐ]** ('bom JEE-ah'), and *Boa tarde* is pronounced **[ˈbo.ɐ ˈtaʁdʒi]** ('tar-jee').\n   - **t** before 'i' or unstressed final 'e' becomes **[tʃ]** (like English 'ch' in *cheese*). E.g. *Boa noite* is pronounced **[ˈbo.ɐ ˈnojtʃi]** ('noy-chee').\n2. **Nasal Vowels & Tildes (ã, õ, -om, -em)**:\n   - Letters with a tilde (~) or followed by *m/n* in a syllable coda are nasalized — air streams simultaneously through mouth and nose! *Bom* is [bõw̃], *não* is [nɐ̃w̃], *manhã* is [mɐ̃ˈɲɐ̃].\n3. **The 'c' vs 'ç' (c-cedilla) Rule**:\n   - `c` before `e` and `i` is naturally soft [s] (e.g. *você* [voˈse]).\n   - `ç` is ONLY used before `a`, `o`, `u` to force a soft [s] sound (e.g. *abraço*, *coração*). You **never** put a cedilla on `c` before `e` or `i`!",
             "examples": [
                 {
                     "target": "Bom dia! Tudo bem?",
-                    "reading": "",
-                    "translation": "Good morning! How's it going?"
+                    "reading": "[bõw̃ ˈdʒi.ɐ! ˈtudu bẽj̃?]",
+                    "translation": "Good morning! How's it going? (dia starts with palatalized [dʒi] 'jee', bom is nasal [bõw̃])"
                 },
                 {
-                    "target": "Boa tarde! Como vai?",
-                    "reading": "",
-                    "translation": "Good afternoon! How are you?"
+                    "target": "Boa tarde! Como vai você?",
+                    "reading": "[ˈbo.ɐ ˈtaʁdʒi! ˈkõmu vaj voˈse?]",
+                    "translation": "Good afternoon! How are you? (tarde ends in palatalized [dʒi], você has soft c = [s])"
                 },
                 {
                     "target": "Boa noite! Foi ótimo te ver.",
-                    "reading": "",
-                    "translation": "Good evening! It was great to see you. (arriving/greeting sense)"
+                    "reading": "[ˈbo.ɐ ˈnojtʃi! foj ˈɔtʃimu tʃi veʁ]",
+                    "translation": "Good evening! It was great to see you. (noite ends in [tʃi] 'chee', ótimo has [tʃi])"
                 },
                 {
                     "target": "Já vou. Boa noite! Tchau, até logo!",
-                    "reading": "",
-                    "translation": "I'm heading out. Goodnight! Bye, see you soon! (leaving sense — same Boa noite, opposite direction)"
+                    "reading": "[ʒa vow. ˈbo.ɐ ˈnojtʃi! ˈtʃaw, aˈtɛ ˈlɔɡu!]",
+                    "translation": "I'm heading out. Goodnight! Bye, see you soon! (leaving sense — tchau is [tʃaw])"
                 }
             ],
             "mnemonics": [
-                "Boa noite is a one-way-door word used both ways: whether you're walking IN after dark or walking OUT to bed, it's the same phrase — Portuguese doesn't split \"evening\" from \"night\" the way English does.",
-                "Oi is the reflex greeting — quick, casual, the one your mouth reaches for by default. Olá is the slightly more composed, \"presenting myself\" version."
+                "The 'Jee / Chee' Rule: In Brazil, 'dia' is 'JEE-ah' and 'noite' is 'noy-CHEE'! Unstressed 'e' and 'i' tickle 'd' into 'j' and 't' into 'ch'.",
+                "Cedilla (ç) Rule: Ç is an S-costume for C only in front of A, O, U (abraço, coração). E and I already make C soft on their own (você)!",
+                "Boa noite is a one-way-door word used both ways: walking IN after dark or walking OUT to bed, it's the exact same phrase."
             ],
             "culturalNotes": [
-                "Physical greetings run warmer than many English-speaking learners expect: a kiss on the cheek (one or two, depending on the region — Rio typically does one, São Paulo often two) between women, or between a man and a woman, is completely normal even on a first meeting in social settings, not reserved for close friends. Men greeting men typically shake hands or do a quick hug/back-pat among friends, rarely cheek kisses."
+                "Regional Accents in Brazil: Palatalization of 't' and 'd' to [tʃ] and [dʒ] is ubiquitous in Southeast Brazil (Rio and São Paulo) and standard media, while some Northeastern regions (Recife, Fortaleza) maintain unpalatalized dental [ti] and [di]. Both are completely valid Brazilian Portuguese.",
+                "Physical greetings run warmer than many English-speaking learners expect: a kiss on the cheek (one or two, depending on the region — Rio typically does one, São Paulo often two) between women, or between a man and a woman, is completely normal even on a first meeting."
             ]
         },
         "guidedPractice": {
             "items": [
+                {
+                    "prompt": "How is 'Bom dia' typically pronounced in standard Brazilian Portuguese?",
+                    "options": [
+                        "Bom dee-ah (with a hard English d)",
+                        "Bom JEE-ah [bõw̃ ˈdʒi.ɐ] (with palatalized 'd' sounding like English 'j')",
+                        "Bom fee-ah",
+                        "Bom lee-ah"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "In standard Brazilian Portuguese, 'd' before 'i' palatalizes to [dʒ] ('j')."
+                },
+                {
+                    "prompt": "How is the final '-te' in 'Boa noite' pronounced in Brazilian Portuguese?",
+                    "options": [
+                        "Silent",
+                        "Like 'tay'",
+                        "As a palatalized 'chee' [tʃi]",
+                        "Like 'toe'"
+                    ],
+                    "answerIndex": 2,
+                    "explanation": "Unstressed final -e reduces to [i] and palatalizes preceding 't' to [tʃ] ('ch')."
+                },
+                {
+                    "prompt": "When is the cedilla (ç) used in Portuguese?",
+                    "options": [
+                        "Only before a, o, u to make a soft [s] sound (never before e or i)",
+                        "Before every vowel",
+                        "Only before e and i",
+                        "Only at the end of a word"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "ç is only needed before a, o, u; c before e/i is already soft [s]."
+                },
                 {
                     "prompt": "It's 9am — what do you say?",
                     "options": [
@@ -500,6 +535,21 @@
                     ],
                     "answerIndex": 3,
                     "explanation": "Bom dia covers the morning."
+                }
+            ]
+        },
+        "independentPractice": {
+            "items": [
+                {
+                    "prompt": "Which word contains a nasal vowel marked by a tilde (~)?",
+                    "options": [
+                        "não",
+                        "tchau",
+                        "tarde",
+                        "oi"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "não has the nasal diphthong [ɐ̃w̃] marked with a tilde."
                 },
                 {
                     "prompt": "It's 9pm and you're arriving at a friend's dinner party. What do you say?",
@@ -511,43 +561,6 @@
                     ],
                     "answerIndex": 1,
                     "explanation": "Boa noite covers evening arrivals as well as nighttime departures."
-                },
-                {
-                    "prompt": "What makes Boa noite unusual compared to Bom dia and Boa tarde?",
-                    "options": [
-                        "It's only for formal occasions",
-                        "It's only used in writing",
-                        "It can only be said before 6pm",
-                        "It's used both for arriving in the evening AND for saying goodnight when leaving — no separate word for each"
-                    ],
-                    "answerIndex": 3,
-                    "explanation": "This dual-direction use is the specific fact taught in the explanation."
-                },
-                {
-                    "prompt": "Which greeting is the more casual, everyday default: Oi or Olá?",
-                    "options": [
-                        "They're used only in writing",
-                        "Olá",
-                        "Neither — both are formal",
-                        "Oi"
-                    ],
-                    "answerIndex": 3,
-                    "explanation": "Oi is the quick, reflexive, everyday greeting."
-                }
-            ]
-        },
-        "independentPractice": {
-            "items": [
-                {
-                    "prompt": "Translate: 'Goodnight! Bye, see you soon!' (leaving a party at night)",
-                    "options": [
-                        "Boa noite! Bom dia, até logo! (1.1)",
-                        "Boa tarde! Tchau, até logo! (1.2)",
-                        "Boa noite! Tchau, até logo! (1.3)",
-                        "Bom dia! Tchau, até logo! (1.4)"
-                    ],
-                    "answerIndex": 2,
-                    "explanation": "Boa noite covers the departure/goodnight sense here."
                 },
                 {
                     "prompt": "Why would saying 'Boa noite' both when arriving at a dinner and when leaving it NOT be a mistake?",
@@ -649,7 +662,7 @@
         "id": "pt-br-u1-l2",
         "unit": "pt-br-u1",
         "level": "A1",
-        "objective": "Distinguish ser and estar at a basic level and use each correctly for permanent identity versus temporary states.",
+        "objective": "Distinguish ser and estar at a basic level, master the nasal diphthong ending '-ão' [ɐ̃w̃], and use each correctly for permanent identity versus temporary states.",
         "prerequisites": [
             "pt-br-u1-l1"
         ],
@@ -660,32 +673,33 @@
             ]
         },
         "presentation": {
-            "explanation": "Portuguese splits English's one \"to be\" into two verbs with genuinely different jobs. ser (eu sou, você/ele/ela é, nós somos, vocês/eles/elas são) covers identity — the stuff that defines what something fundamentally IS: nationality, profession, core personality traits, time, and where an event takes place. estar (eu estou, você/ele/ela está, nós estamos, vocês/eles/elas estão) covers temporary states and physical location — how something IS RIGHT NOW, or where something is currently sitting. The trap: the SAME adjective can pair with either verb and change meaning. Ela é feliz means \"she's a happy person\" — a trait, part of who she is. Ela está feliz means \"she's happy [right now]\" — a mood, which could flip by tomorrow. Get this wrong and you don't just sound foreign, you can genuinely misstate whether you're describing someone's personality or their Tuesday.",
+            "explanation": "Portuguese splits English's one \"to be\" into two verbs with genuinely different jobs.\n- **ser** (*eu sou* [sow], *você/ele/ela é* [ɛ], *nós somos* [ˈsõmus], *vocês/eles/elas são* [sɐ̃w̃]) covers identity — what something fundamentally IS: nationality, profession, core traits.\n- **estar** (*eu estou* [esˈtow], *você/ele/ela está* [esˈta], *nós estamos* [esˈtɐ̃mus], *vocês/eles/elas estão* [esˈtɐ̃w̃]) covers temporary states and location — how something IS RIGHT NOW.\n\n### 🔤 Crucial Phonetic Traps in Verb Conjugations:\n1. **The Nasal Diphthong '-ão' [ɐ̃w̃]**: In *são* and *estão*, the ending **-ão** is a nasal glide from a central vowel [ɐ̃] to [w̃] with air humming through the nose. It does **not** sound like English 'sown' or 'sang'!\n2. **Unstressed Final Vowel Reduction**: Final unstressed **-o** reduces to **[u]** (e.g. *brasileiro* [bɾaziˈlejɾu], *frio* [ˈfɾi.u], *ótimo* [ˈɔtʃimu]).\n3. **Palatalization in Action**: In *ótimo*, 't' before 'i' palatalizes to **[tʃ]** ('AW-chee-moo'); in *de onde*, 'de' reduces to **[dʒi]** ('jee').",
             "examples": [
                 {
                     "target": "Ela é feliz.",
-                    "reading": "",
-                    "translation": "She's a happy person. (personality trait — ser)"
+                    "reading": "[ˈɛlɐ ɛ feˈlis]",
+                    "translation": "She's a happy person. (personality trait — ser; feliz ends in soft [s])"
                 },
                 {
                     "target": "Ela está feliz hoje.",
-                    "reading": "",
-                    "translation": "She's happy today. (current mood — estar)"
+                    "reading": "[ˈɛlɐ esˈta feˈlis ˈoʒi]",
+                    "translation": "She's happy today. (current mood — estar; hoje ends in soft [ʒi])"
                 },
                 {
                     "target": "Eu sou brasileiro, mas agora estou nos Estados Unidos.",
-                    "reading": "",
-                    "translation": "I am Brazilian, but right now I'm in the United States. (identity via ser, current location via estar)"
+                    "reading": "[ew sow bɾaziˈlejɾu, mas aˈɡɔɾɐ esˈtow nus esˈtaðus uˈniðus]",
+                    "translation": "I am Brazilian, but right now I'm in the United States. (brasileiro ends in reduced [u])"
                 },
                 {
                     "target": "O café está frio, mas o restaurante é ótimo.",
-                    "reading": "",
-                    "translation": "The coffee is cold [right now], but the restaurant is great [as a place]. (estar for a changeable state, ser for an inherent quality)"
+                    "reading": "[u kaˈfɛ esˈta ˈfɾi.u, mas u ʁestawˈʁɐ̃tʃi ɛ ˈɔtʃimu]",
+                    "translation": "The coffee is cold, but the restaurant is great. (restaurante has [tʃi], ótimo has [tʃi])"
                 }
             ],
             "mnemonics": [
-                "ser = essence (both start with s-e-, not a coincidence to lean on): the deep, defining stuff. estar = state, literally — a snapshot of right now that could easily change by tomorrow.",
-                "Same adjective, different verb, different claim: é feliz (a happy PERSON) vs. está feliz (happy TODAY). Always ask yourself: am I describing who they are, or just how they are right now?"
+                "ser = essence: the deep, defining stuff. estar = state: a snapshot of right now that could easily flip.",
+                "The '-ão' Humming Trap: Treat '-ão' (são, estão) like a humming nasal glide [ɐ̃w̃] — if you pinch your nose, the sound should stop immediately!",
+                "Same adjective, different verb: é feliz (a happy PERSON) vs. está feliz (happy TODAY)."
             ],
             "culturalNotes": []
         },
