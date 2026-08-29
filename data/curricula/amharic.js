@@ -10173,63 +10173,69 @@
     },
     "am-u20-l1": {
         "id": "am-u20-l1",
-        "subject": "amharic",
-        "unit": 20,
-        "lessonNumber": 1,
-        "title": "ተቀጥላ ዓረፍተ ነገሮች (Subordinate Clauses & Relative የ-) (Part 1)",
+        "unit": "am-u20",
         "level": "B2",
-        "objective": "Comprehensive mastery of አገናኝ መስተፃምሮች (Relative Clauses).",
+        "objective": "Form past-tense relative clauses in Amharic using the relative prefix «የ-» attached to perfective verb stems, modifying head nouns as in የመጣው ሰው (the man who came), የጻፈችው ደብዳቤ (the letter that she wrote), and የተገነባው ድልድይ (the bridge that was built).",
+        "prerequisites": [
+            "am-u19-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u19-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (አገናኝ መስተፃምሮች (Relative Clauses) - ደረጃ 1) ተማሪዎች ስለ አገናኝ መስተፃምሮች (Relative Clauses) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "In Amharic, relative clauses in the past/perfective tense are formed by prefixing **የ-** (Ye- — who / which / that) directly to conjugated perfective verbs.\n\n1. Past Relative Morphology:\n- **መጣ** (He came) -> **የመጣው** (The one who came):\n  - «**ትናንት የመጣው እንግዳ**» (The guest who came yesterday)\n- **ጻፈች** (She wrote) -> **የጻፈችው** (That which she wrote):\n  - «**የጻፈችው ደብዳቤ**» (The letter that she wrote)\n- **ተገነባ** (Was built) -> **የተገነባው** (That which was built):\n  - «**የተገነባው አዲሱ ድልድይ**» (The new bridge that was built)\n- **አጠናቀቀ** (He completed) -> **ያጠናቀቀው** (The one who completed [የ + አ -> ያ])\n\n2. Syntactic Position:\nRelative clauses in Amharic precede the noun they modify, and the definite article (-ው / -ዋ) attaches to the relative verb.",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የአገናኝ መስተፃምሮች (Relative Clauses) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (20.1.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ትናንት ወደ ቤታችን የመጣው እንግዳ ከሩቅ ሀገር የተጓዘ የዩኒቨርሲቲ ፕሮፌሰር ነው።",
+                    "reading": "Tinant wede bētachin yemet'aw ingida keruq hager yetegwaze yeyunīversītī profēser new.",
+                    "translation": "The guest who came to our house yesterday is a university professor who traveled from a distant country."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (20.1.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ሚኒስትሩ የፈረሙት ታሪካዊ የሰላም ስምምነት ለሀገሪቱ ታላቅ ተስፋ አመጣ።",
+                    "reading": "Mīnīstiru yeferemut tarīkawi yeselam simiminet lehagerītu talaq tesfa amet'a.",
+                    "translation": "The historic peace agreement that the minister signed brought great hope to the country."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (20.1.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "በቅርቡ የተገነባው አዲሱ ድልድይ ሁለቱን ታላላቅ ከተሞች በቀላሉ ያገናኛል።",
+                    "reading": "Beqirbu yetegenebaw addīsu dildiy huletun talalaq ketemochin beqelalu yagenagnal.",
+                    "translation": "The new bridge that was built recently easily connects the two large cities."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for አገናኝ መስተፃምሮች (Relative Clauses)"
+                "«የ-» + Past Verb = 'Who/Which did'! የመጣው (The one who came), የሠራው (The one who worked)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Formal public addresses in Ethiopia routinely begin with honorific relative clauses, such as «የተከበራችሁ እንግዶች» (Honored guests, literally 'you guests who are esteemed')."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «አገናኝ መስተፃምሮች (Relative Clauses)» አጠቃቀም በደረጃ 1 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«የመጣው ሰው» ምን ማለት ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (20.1.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (20.1.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (20.1.3)።"
+                        "The person who came",
+                        "The person who left",
+                        "The person who is sleeping"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "የመጣው ሰው = the person who came."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ተቀጥላ ዓረፍተ ነገሮች (Subordinate Clauses & Relative የ-)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 1)፡",
+                    "prompt": "«የተገነባው ድልድይ» የሚለው ሀረግ ምን ያመለክታል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (20.1.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (20.1.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (20.1.3)።"
+                        "The bridge that collapsed",
+                        "The bridge that was built",
+                        "The river under the bridge"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "የተገነባው ድልድይ = the bridge that was constructed."
                 }
             ]
         },
@@ -10237,85 +10243,95 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«አገናኝ መስተፃምሮች (Relative Clauses)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 20-1)?",
+                    "prompt": "የትኛው ሀረግ የሀላፊ ጊዜ አንጻራዊ ተቀጥላ (Past Relative Clause) ይዟል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (20.1.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (20.1.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (20.1.3)።"
+                        "የጻፈችው መጽሐፍ (The book she wrote)",
+                        "ዳቦ በላ (He ate bread)",
+                        "ወደ ቤት ሄደች (She went home)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "explanation": "«የጻፈችው መጽሐፍ» contains the relative prefix «የ-» attached to the perfective stem."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («የመጣው_20_1»):",
+                    "prompt": "Type the Amharic relative clause for 'the guest who came' in Fidel script (የመጣው እንግዳ):",
                     "acceptedAnswers": [
-                        "የመጣው_20_1"
+                        "የመጣው እንግዳ",
+                        "yemetaw ingida",
+                        "yemet'aw ingida",
+                        "Yemetaw ingida"
                     ],
-                    "explanation": "The target keyword was: 【የመጣው_20_1】"
+                    "explanation": "የመጣው እንግዳ (Yemet'aw ingida) means 'the guest who arrived/came'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u20-l2": {
         "id": "am-u20-l2",
-        "subject": "amharic",
-        "unit": 20,
-        "lessonNumber": 2,
-        "title": "ተቀጥላ ዓረፍተ ነገሮች (Subordinate Clauses & Relative የ-) (Part 2)",
+        "unit": "am-u20",
         "level": "B2",
-        "objective": "Comprehensive mastery of አገናኝ መስተፃምሮች (Relative Clauses).",
+        "objective": "Form present, continuous, and future relative clauses in Amharic using the composite relative prefix «የሚ-» attached to imperfective verb stems, as in የሚመጣው ሳምንት (the coming week), የሚናገረው ቋንቋ (the language he speaks), and የሚሰራው ስራ (the work that he does).",
+        "prerequisites": [
+            "am-u20-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u20-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (አገናኝ መስተፃምሮች (Relative Clauses) - ደረጃ 2) ተማሪዎች ስለ አገናኝ መስተፃምሮች (Relative Clauses) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "For present, habitual, and future relative clauses, Amharic attaches the composite relative prefix **የሚ-** (Yemī- / የምት- for 3rd fem) to imperfective verb stems.\n\n1. Imperfective Relative Stems:\n- **ይመጣል** (He comes) -> **የሚመጣው** (The one who comes / coming):\n  - «**የሚመጣው ሳምንት**» (The coming / next week)\n- **ይናገራል** (He speaks) -> **የሚናገረው** (The one that he speaks):\n  - «**የሚናገረው ቋንቋ**» (The language he speaks)\n- **ይሰራል** (He works) -> **የሚሰራው** (The one who works / that which he does):\n  - «**የሚሰራው ስራ**» (The work that he does)\n- **ትፈልጋለች** (She wants) -> **የምትፈልገው** (That which she wants)\n- **ይኖራሉ** (They reside) -> **የሚኖሩበት ቦታ** (The place where they live)",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የአገናኝ መስተፃምሮች (Relative Clauses) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (20.2.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "በሚቀጥለው ሳምንት የሚካሄደው ዓለም አቀፍ ጉባኤ በርካታ የውጭ ሀገር ልዑካንን ያስተናግዳል።",
+                    "reading": "Bemīqet'ilew samint yemīkahēdew alem aqef guba'ē birkata yewuch' hager li'ukanin yastenagdal.",
+                    "translation": "The international conference that is taking place next week will host numerous foreign delegates."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (20.2.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "እሱ በቅልጥፍና የሚናገረው የአማርኛ ቋንቋ የብዙ ሰዎችን ቀልብ ሳበ።",
+                    "reading": "Isu beqilt'ifina yemīnagerew ye'Amarinya qwanqwa yebizu sewochin qelbi sabe.",
+                    "translation": "The Amharic language that he speaks fluently captured the attention of many people."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (20.2.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "በየቀኑ ጠዋት የምንጠጣው የኢትዮጵያ ቡና ልዩ መዓዛ እና ጣዕም አለው።",
+                    "reading": "Beyeqenu t'ewat yeminit'et'aw ye'Ityop'ya buna liyu me'aza ina t'a'im alew.",
+                    "translation": "The Ethiopian coffee that we drink every morning has a unique aroma and flavor."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for አገናኝ መስተፃምሮች (Relative Clauses)"
+                "«የሚ-» (Yemī-) = Present/Future Relative! የሚመጣው (The coming one), የሚሰራው (The one who works)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Temporal expressions for future planning in Ethiopia rely on «የሚመጣው እሁድ» (the coming Sunday) or «የሚቀጥለው ዓመት» (next year) across social and business contexts."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «አገናኝ መስተፃምሮች (Relative Clauses)» አጠቃቀም በደረጃ 2 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«የሚመጣው ሳምንት» ምን ማለት ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (20.2.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (20.2.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (20.2.3)።"
+                        "Next week / The coming week",
+                        "Last week",
+                        "Three years ago"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "የሚመጣው ሳምንት = the coming week."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ተቀጥላ ዓረፍተ ነገሮች (Subordinate Clauses & Relative የ-)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 2)፡",
+                    "prompt": "«የሚናገረው ቋንቋ» የሚለው ሀረግ ምንን ያመለክታል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (20.2.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (20.2.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (20.2.3)።"
+                        "The food he eats",
+                        "The language he speaks",
+                        "The car he drives"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "የሚናገረው ቋንቋ = the language that he speaks."
                 }
             ]
         },
@@ -10323,85 +10339,95 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«አገናኝ መስተፃምሮች (Relative Clauses)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 20-2)?",
+                    "prompt": "የአሁን ወይም የወደፊት አንጻራዊ አንቀጽን (Imperfective Relative) የሚያሳየው የትኛው ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (20.2.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (20.2.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (20.2.3)።"
+                        "የሄደው ሰው (The person who left)",
+                        "የሚሰራው ባለሙያ (The professional who works)",
+                        "ትናንት በላ (He ate yesterday)"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "explanation": "«የሚሰራው ባለሙያ» utilizes the imperfective relative prefix «የሚ-»."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («የመጣው_20_2»):",
+                    "prompt": "Type the Amharic relative phrase for 'the coming week' in Fidel script (የሚመጣው ሳምንት):",
                     "acceptedAnswers": [
-                        "የመጣው_20_2"
+                        "የሚመጣው ሳምንት",
+                        "yemimetaw samint",
+                        "yemīmet'aw samint",
+                        "Yemimetaw samint"
                     ],
-                    "explanation": "The target keyword was: 【የመጣው_20_2】"
+                    "explanation": "የሚመጣው ሳምንት (Yemīmet'aw samint) means 'the coming week / next week'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u20-l3": {
         "id": "am-u20-l3",
-        "subject": "amharic",
-        "unit": 20,
-        "lessonNumber": 3,
-        "title": "ተቀጥላ ዓረፍተ ነገሮች (Subordinate Clauses & Relative የ-) (Part 3)",
+        "unit": "am-u20",
         "level": "B2",
-        "objective": "Comprehensive mastery of አገናኝ መስተፃምሮች (Relative Clauses).",
+        "objective": "Construct complex temporal subordinate clauses in Amharic using the simultaneous conjunctive prefix «ሲ-» (when/while), and sequential postpositional frames «ከ... በኋላ» (after) and «ከ... በፊት» (before).",
+        "prerequisites": [
+            "am-u20-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u20-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (አገናኝ መስተፃምሮች (Relative Clauses) - ደረጃ 3) ተማሪዎች ስለ አገናኝ መስተፃምሮች (Relative Clauses) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Temporal clauses connect secondary events in time relative to the main clause.\n\n1. Simultaneous Action with **ሲ-** (Sī- — When / While):\n- Prefixed to imperfective stem:\n  - «**እሱ ወደ ክፍል ሲገባ ተማሪዎቹ ተነሱ።**» (When he entered the room, the students stood up.)\n  - «**ዝናብ ሲዘንብ ጥላ እንይዛለን።**» (When it rains, we carry an umbrella.)\n\n2. Sequential Temporal Frames:\n- **ከ... በኋላ** (Ke... behwala — After):\n  - «**ምሳ ከበላን በኋላ ወደ ስራ እንመለሳለን።**» (After we eat lunch, we will return to work.)\n- **ከ... በፊት** (Ke... befīt — Before):\n  - «**ወደ አልጋ ከመሄድህ በፊት እጅህን ታጠብ።**» (Wash your hands before going to bed.)",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የአገናኝ መስተፃምሮች (Relative Clauses) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (20.3.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "መምህሩ ወደ አዳራሹ ሲገቡ ሁሉም ተሳታፊዎች በአክብሮት ቆመው አጨበጨቡ።",
+                    "reading": "Memhiru wede addarashu sīgebu hullum tesatafīwoch be'akbirot qomew ach'ebech'ebu.",
+                    "translation": "When the teacher entered the hall, all participants respectfully stood and applauded."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (20.3.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የመመረቂያ ጽሑፉን በተሳካ ሁኔታ ካጠናቀቀ በኋላ ወደ ውጭ ሀገር ለስራ ተጓዘ።",
+                    "reading": "Yememereqīya ts'ihufun betasaka hunēta kat'enaqeqe behwala wede wuch' hager lesira tegwaze.",
+                    "translation": "After he successfully completed his thesis, he traveled abroad for work."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (20.3.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ማንኛውንም ውል ከመፈረምህ በፊት ሁሉንም አንቀጾች በጥንቃቄ ማንበብ አለብህ።",
+                    "reading": "Magnanyawinim wil kemefelemik befīt hullunim anqets'och bet'inqaqē manbeb alebih.",
+                    "translation": "Before signing any contract, you must read all clauses carefully."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for አገናኝ መስተፃምሮች (Relative Clauses)"
+                "«ሲ-» = Simultaneous / When! «ከ... በኋላ» = After! «ከ... በፊት» = Before!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "In Ethiopian communal dining traditions, the ceremonial washing of hands before and after meals is an essential hospitable protocol performed with a traditional jug and basin (ማስታጠቢያ)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «አገናኝ መስተፃምሮች (Relative Clauses)» አጠቃቀም በደረጃ 3 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«ምሳ ከበላን በኋላ» ምን ማለት ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (20.3.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (20.3.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (20.3.3)።"
+                        "After we eat lunch",
+                        "Before we eat lunch",
+                        "While eating lunch"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "«ከ... በኋላ» marks the event occurring after lunch."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ተቀጥላ ዓረፍተ ነገሮች (Subordinate Clauses & Relative የ-)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 3)፡",
+                    "prompt": "«ሲገባ» የሚለው ቃል ምን ያመለክታል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (20.3.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (20.3.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (20.3.3)።"
+                        "After he left",
+                        "When / As he enters",
+                        "He will not enter"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "ሲገባ = when / as he enters."
                 }
             ]
         },
@@ -10409,85 +10435,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«አገናኝ መስተፃምሮች (Relative Clauses)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 20-3)?",
+                    "prompt": "የትኛው መስተዋድድ 'Before doing something' የሚለውን የጊዜ ቅደም ተከተል ያሳያል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (20.3.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (20.3.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (20.3.3)።"
+                        "ከ... በኋላ (After)",
+                        "ስለ- (About)",
+                        "ከ... በፊት (Before)"
                     ],
                     "answerIndex": 2,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "explanation": "«ከ... በፊት» expresses prior action (before)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («የመጣው_20_3»):",
+                    "prompt": "Type the Amharic temporal phrase for 'after' in Fidel script (ከ... በኋላ / በኋላ):",
                     "acceptedAnswers": [
-                        "የመጣው_20_3"
+                        "ከ... በኋላ",
+                        "በኋላ",
+                        "behwala",
+                        "Behwala",
+                        "ከበኋላ"
                     ],
-                    "explanation": "The target keyword was: 【የመጣው_20_3】"
+                    "explanation": "በኋላ (Behwala) means 'after / afterwards'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u20-l4": {
         "id": "am-u20-l4",
-        "subject": "amharic",
-        "unit": 20,
-        "lessonNumber": 4,
-        "title": "ተቀጥላ ዓረፍተ ነገሮች (Subordinate Clauses & Relative የ-) (Part 4)",
+        "unit": "am-u20",
         "level": "B2",
-        "objective": "Comprehensive mastery of አገናኝ መስተፃምሮች (Relative Clauses).",
+        "objective": "Express real and hypothetical conditions in Amharic using the conditional prefixes «ከ-» (if - real) and «ቢ-» (even if / were it that - hypothetical/concessive), alongside complex concessive frames with «ምንም እንኳን... ቢሆንም» (although / even though).",
+        "prerequisites": [
+            "am-u20-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u20-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (አገናኝ መስተፃምሮች (Relative Clauses) - ደረጃ 4) ተማሪዎች ስለ አገናኝ መስተፃምሮች (Relative Clauses) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Conditional and concessive structures allow complex reasoning and nuance in Amharic.\n\n1. Real Conditions with **ከ- / ካ-** (Ke- / Ka- — If):\n- «**ከፈለግህ አብረን እንሄዳለን።**» (If you want, we will go together.)\n- «**ጊዜ ካለህ ደውልልኝ።**» (If you have time, call me.)\n\n2. Hypothetical Conditions with **ቢ-** (Bī- — Were it that / If):\n- «**ቢጠና ኖሮ ፈተናውን ያልፍ ነበር።**» (Had he studied, he would have passed the exam.)\n\n3. Concessive Frame **ምንም እንኳን... ቢ- ...-ም** (Although / Even though):\n- «**ምንም እንኳን መንገዱ ረጅም ቢሆንም ጉዟችን አስደሳች ነበር።**» (Even though the road was long, our journey was delightful.)",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የአገናኝ መስተፃምሮች (Relative Clauses) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (20.4.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ጠንክረህ ካጠናህ እና በራስህ ከተማመንህ የፈተናውን ውጤት በከፍተኛ ማዕረግ ታልፋለህ።",
+                    "reading": "T'enkiireh kat'enah ina berasih ketemamennih yefetenawun wut'ēt bekefitegna ma'ireg talfaleh.",
+                    "translation": "If you study hard and believe in yourself, you will pass the exam with high distinction."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (20.4.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ምንም እንኳን የአየሩ ሁኔታ ቀዝቃዛ ቢሆንም ህዝቡ በበዓሉ አደባባይ በደስታ ተሰብስቧል።",
+                    "reading": "Minim inkwan ye'ayeru hunēta qezqaza bīhonim hizbu bebe'alu adebabay bedesta tesebsibwal.",
+                    "translation": "Even though the weather was chilly, the people gathered joyfully in the festival square."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (20.4.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "እውነቱን በግልጽ ቢነግረኝ ኖሮ ይህ ሁሉ አለመግባባት እና ጭንቀት አይፈጠርም ነበር።",
+                    "reading": "Iwnetun begilts' bīnegregn noro yih hullu alemegbabat ina ch'inqet ayfet'erim neber.",
+                    "translation": "Had he told me the truth openly, all this misunderstanding and anxiety would not have arisen."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for አገናኝ መስተፃምሮች (Relative Clauses)"
+                "«ካጠናህ» = If you study! «ምንም እንኳን... ቢሆንም» = Even though / Although!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "In traditional dispute mediation (ሽምግልና), polite concessive phrasing softens conditional demands and creates space for mutual compromise."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «አገናኝ መስተፃምሮች (Relative Clauses)» አጠቃቀም በደረጃ 4 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«ምንም እንኳን... ቢሆንም» ምን አይነት ሰዋሰዋዊ ትርጉም ያስተላልፋል?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (20.4.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (20.4.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (20.4.3)።"
+                        "Concession (Although / Even though)",
+                        "Strict negation",
+                        "Direct question"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "ምንም እንኳን... ቢሆንም expresses concession (although)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ተቀጥላ ዓረፍተ ነገሮች (Subordinate Clauses & Relative የ-)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 4)፡",
+                    "prompt": "«ጊዜ ካለህ ና» ምን ማለት ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (20.4.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (20.4.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (20.4.3)።"
+                        "Come if you don't have time",
+                        "Come if you have time (Conditional)",
+                        "Don't come"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "ጊዜ ካለህ ና = come if you have time."
                 }
             ]
         },
@@ -10495,85 +10532,95 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«አገናኝ መስተፃምሮች (Relative Clauses)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 20-4)?",
+                    "prompt": "የትኛው ቃል 'If / In case' የሚለውን ሁኔታዊ ቅጥያ ያሳያል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (20.4.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (20.4.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (20.4.3)።"
+                        "ከ- / ካ- (If)",
+                        "ስለ- (Because)",
+                        "እንደ- (Like)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "explanation": "ከ- / ካ- is the real conditional prefix meaning 'if'."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («የመጣው_20_4»):",
+                    "prompt": "Type the Amharic concessive phrase for 'even though / although' in Fidel script (ምንም እንኳን):",
                     "acceptedAnswers": [
-                        "የመጣው_20_4"
+                        "ምንም እንኳን",
+                        "minim inkwan",
+                        "minim enkwan",
+                        "Minim inkwan"
                     ],
-                    "explanation": "The target keyword was: 【የመጣው_20_4】"
+                    "explanation": "ምንም እንኳን (Minim inkwan) means 'even though / although'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u20-l5": {
         "id": "am-u20-l5",
-        "subject": "amharic",
-        "unit": 20,
-        "lessonNumber": 5,
-        "title": "ተቀጥላ ዓረፍተ ነገሮች (Subordinate Clauses & Relative የ-) (Part 5)",
+        "unit": "am-u20",
         "level": "B2",
-        "objective": "Comprehensive mastery of አገናኝ መስተፃምሮች (Relative Clauses).",
+        "objective": "Synthesize perfective and imperfective relative clauses, temporal connectors, and conditional/concessive frameworks into an advanced geopolitical and historical essay in Amharic.",
+        "prerequisites": [
+            "am-u20-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u20-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (አገናኝ መስተፃምሮች (Relative Clauses) - ደረጃ 5) ተማሪዎች ስለ አገናኝ መስተፃምሮች (Relative Clauses) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "This lesson consolidates multi-clause subordination into high-register geopolitical and historical prose.\n\n1. Syntactic Integration Patterns:\n- **Concessive Protasis:** «ምንም እንኳን... ተግዳሮቶች ቢያጋጥሙም...» (Although challenges occurred...)\n- **Relative Subject Modification:** «...በጋራ የተሰራው ታላቅ የልማት ስራ...» (The great development work done together...)\n- **Temporal Sequence:** «...ሲደርስ... አስጀመረ» (Upon arriving... initiated)\n- **Future Relative Object:** «...የሚመጣው አዲስ ትውልድ...» (The coming new generation...)",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የአገናኝ መስተፃምሮች (Relative Clauses) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (20.5.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ምንም እንኳን በሂደቱ ውስጥ በርካታ ውስብስብ ተግዳሮቶች ቢያጋጥሙም፣ በጋራ የተሰራው ታላቅ የልማት ስራ ለህዝቡ ዘላቂ ብልጽግናን አስገኝቷል።",
+                    "reading": "Minim inkwan behīdetu wust' birkata wisibsib tegidarotoch bīyagat'imim, begara yeteseraw talaq yelimat sira lehizbu zelaqī bilts'iginan asgegntwal.",
+                    "translation": "Even though numerous complex challenges were encountered during the process, the great development project carried out collaboratively yielded enduring prosperity for the people."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (20.5.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የልዑካን ቡድኑ ወደ ዋና ከተማው ሲደርስ፣ ባለስልጣናቱ ያዘጋጁትን ይፋዊ የውይይት መድረክ በይፋ አስጀመረ።",
+                    "reading": "Yeli'ukan budinu wede wana ketemaw sīderis, balesilt'anatu yazegajutin yifawi yewiyiyit medrek beyifa asjemere.",
+                    "translation": "When the delegation arrived at the capital, it officially inaugurated the formal dialogue forum that the authorities had prepared."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (20.5.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የሚመጣው አዲስ ትውልድ የቀደሙት አባቶች የከፈሉትን ታላቅ መስዋዕትነት ሁልጊዜ በአክብሮት ያስታውሰዋል።",
+                    "reading": "Yemīmet'aw addīs tiwlid yeqedemut abbatoch yikefelutin talaq meswa'itinet hulgīzē be'akbirot yastawisewal.",
+                    "translation": "The coming new generation will always respectfully remember the great sacrifice that previous ancestors paid."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for አገናኝ መስተፃምሮች (Relative Clauses)"
+                "Subordination architecture: Relative (የ-/የሚ-) + Temporal (ሲ-/በኋላ) + Conditional (ከ-/ቢሆንም) = Masterful Amharic fluency!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Diplomatic communiques and major historical chronicles (ድርሳናት) in Ethiopia employ nested subordinate structures to express nuanced geopolitical vision."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «አገናኝ መስተፃምሮች (Relative Clauses)» አጠቃቀም በደረጃ 5 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "በተወሳሰበ ዓረፍተ ነገር ውስጥ «የተሰራው ስራ» ምን አይነት አንቀጽ ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (20.5.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (20.5.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (20.5.3)።"
+                        "Relative clause (The work that was done)",
+                        "Simple imperative",
+                        "Negative statement"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "የተሰራው ስራ is a relative clause modifying 'work'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ተቀጥላ ዓረፍተ ነገሮች (Subordinate Clauses & Relative የ-)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 5)፡",
+                    "prompt": "«የሚመጣው ትውልድ» የሚለው ሀረግ ምንን ያመለክታል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (20.5.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (20.5.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (20.5.3)።"
+                        "The ancient generation",
+                        "The coming / future generation",
+                        "A forgotten era"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "የሚመጣው ትውልድ = the coming / future generation."
                 }
             ]
         },
@@ -10581,24 +10628,28 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«አገናኝ መስተፃምሮች (Relative Clauses)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 20-5)?",
+                    "prompt": "የአሁን እና የወደፊት አንጻራዊ አንቀጽን የያዘው የትኛው ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (20.5.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (20.5.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (20.5.3)።"
+                        "የሚመጣው አዲስ ትውልድ (The coming new generation)",
+                        "ትናንት በላ (He ate yesterday)",
+                        "ወደ ገበያ ሄደ (He went to market)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "«የሚመጣው አዲስ ትውልድ» contains the imperfective relative prefix «የሚ-»."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («የመጣው_20_5»):",
+                    "prompt": "Type the Amharic relative verb for 'the one who came / arrived' in Fidel script (የመጣው):",
                     "acceptedAnswers": [
-                        "የመጣው_20_5"
+                        "የመጣው",
+                        "yemetaw",
+                        "yemet'aw",
+                        "Yemetaw"
                     ],
-                    "explanation": "The target keyword was: 【የመጣው_20_5】"
+                    "explanation": "የመጣው (Yemet'aw) means 'the one who came / arrived'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u21-l1": {
