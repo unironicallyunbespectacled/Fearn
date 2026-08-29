@@ -4856,63 +4856,69 @@
     },
     "zh-u10-l1": {
         "id": "zh-u10-l1",
-        "subject": "mandarin",
-        "unit": 10,
-        "lessonNumber": 1,
-        "title": "趋向补语：上来、下去与过 (Directional Complements) (Part 1)",
+        "unit": "zh-u10",
         "level": "A2",
-        "objective": "Comprehensive mastery of 简单与复合趋向补语 (Directional Complements: 上来/下去).",
+        "objective": "Master simple directional complements (Verb + 来 / 去), understanding the speaker's physical/psychological reference point (来 = toward speaker; 去 = away from speaker).",
+        "prerequisites": [
+            "zh-u9-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u9-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「趋向补语：上来、下去与过 (Directional Complements)」（第1部分）的核心句法结构与简单与复合趋向补语 (Directional Complements: 上来/下去)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "汉语中使用「来 (lái)」和「去 (qù)」紧接在动词之后充当**简单趋向补语（Simple Directional Complement）**，用来明确表示动作发生的**空间位移方向相对于说话人位置的趋向**。\n\n1. 核心参照点铁律 (The Reference Point Rule):\n- **动词 + 来**：动作朝向**说话人所在的位置**（Movement TOWARD the speaker）。\n  - 他向我走**来**。(He walks toward me.) / 请进**来**！(Please come in [I am inside]!)\n- **动词 + 去**：动作背离**说话人所在的位置**（Movement AWAY from the speaker）。\n  - 他向门外走**去**。(He walks toward the outside of the door.) / 请出**去**！(Please go out [I am inside]!)\n\n2. 处所宾语的强制语序 (Strict Word Order with Location Objects):\n- 当宾语是**处所名词（教室、家、中国等）**时，宾语必须放在「动词」与「来/去」**之间**！\n- **公式：动词 + 处所宾语 + 来/去** (e.g. 回家去、进教室来，绝不可说 *回去了家)。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (10.1.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "外面正在下大雨，请大家快点儿进屋来喝杯热茶吧！",
+                    "reading": "Wàimiàn zhèngzài xià dàyǔ, qǐng dàjiā kuài diǎnr jìn wū lái hē bēi rè chá ba!",
+                    "translation": "It is raining heavily outside; please everyone come quickly into the room to have a cup of hot tea!"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (10.1.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "李明下午要去中心图书馆查资料，我们一起回宿舍去拿书包吧。",
+                    "reading": "Lǐ Míng xiàwǔ yào qù zhōngxīn túshūguǎn chá zīliào, wǒmen yìqǐ huí sùshè qù ná shūbāo ba!",
+                    "translation": "Li Ming is going to the central library to research materials this afternoon; let's return to the dorm together to get backpacks."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (10.1.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "看到妈妈走过来，小女孩高兴地跑过去抱住了妈妈。",
+                    "reading": "Kàndào māma zǒu guòlai, xiǎo nǚhái gāoxìng de pǎo guòqu bào zhù le māma.",
+                    "translation": "Seeing mother walk over, the little girl happily ran over and hugged mother."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 简单与复合趋向补语 (Directional Complements: 上来/下去)"
+                "来 = Toward Me! 去 = Away from Me! Location goes IN BETWEEN: 回家去, 进屋来!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Hospitality in Chinese culture begins with welcoming directional phrases: «快请进屋来坐！» (Quickly come into the house and sit down!)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「简单与复合趋向补语 (Directional Complements: 上来/下去)」在第1小节中的标准汉语语法规范？",
+                    "prompt": "说话人在教室里面，对门外的同学说‘请进教室’时，正确的趋向补语表达是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (10.1.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (10.1.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (10.1.3)。"
+                        "请进教室来 (Qǐng jìn jiàoshì lái: location inside + towards speaker)",
+                        "请进教室去",
+                        "请进去教室"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "Since speaker is inside the classroom, movement toward the speaker requires 进教室来."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「趋向补语：上来、下去与过 (Directional Complements)」语用情境与完整句式的选项（练习 1）：",
+                    "prompt": "句子‘他回北京去了’表明说话人当前所在的物理位置是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (10.1.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (10.1.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (10.1.3)。"
+                        "在北京",
+                        "不在北京 (Not in Beijing, since 去 indicates movement away from the speaker)",
+                        "在飞机上"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "去 signifies that Beijing is away from the speaker's current location."
                 }
             ]
         },
@@ -4920,85 +4926,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「简单与复合趋向补语 (Directional Complements: 上来/下去)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 10-1）？",
+                    "prompt": "当趋向动词带有处所宾语（如‘家’、‘宿舍’、‘图书馆’）时，处所词应该放在什么位置？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (10.1.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (10.1.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (10.1.3)。"
+                        "必须放在‘来/去’之前（如：回宿舍去）(Must precede 来/去)",
+                        "必须放在句首",
+                        "必须放在‘来/去’之后"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "Location objects must be inserted between the verb and 来/去."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («走上来_10_1»):",
+                    "prompt": "Type the Hanzi for 'to come' (来):",
                     "acceptedAnswers": [
-                        "走上来_10_1"
+                        "来",
+                        "lai",
+                        "lái",
+                        "Lái",
+                        "Lai",
+                        "來"
                     ],
-                    "explanation": "The target keyword was: 【走上来_10_1】"
+                    "explanation": "来 (lái) indicates movement toward the speaker."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u10-l2": {
         "id": "zh-u10-l2",
-        "subject": "mandarin",
-        "unit": 10,
-        "lessonNumber": 2,
-        "title": "趋向补语：上来、下去与过 (Directional Complements) (Part 2)",
+        "unit": "zh-u10",
         "level": "A2",
-        "objective": "Comprehensive mastery of 简单与复合趋向补语 (Directional Complements: 上来/下去).",
+        "objective": "Master compound directional complements formed by combining 8 directional verbs (上/下/进/出/回/过/起/到) with 来/去 (e.g. 走上来, 跑下去, 拿出来, 寄回去).",
+        "prerequisites": [
+            "zh-u10-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u10-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「趋向补语：上来、下去与过 (Directional Complements)」（第2部分）的核心句法结构与简单与复合趋向补语 (Directional Complements: 上来/下去)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "当一个动作同时包含**空间移动方式（上/下/进/出/回/过）**与**说话人视角（来/去）**时，汉语使用**复合趋向补语（Compound Directional Complements）**。\n\n1. 复合趋向补语系统矩阵 (The 13 Compound Complements Matrix):\n| 趋向动词 | + 来 (朝向说话人) | + 去 (背离说话人) |\n| :--- | :--- | :--- |\n| **上 (up)** | 上来 (shànglai) | 上去 (shàngqu) |\n| **下 (down)** | 下来 (xiàlai) | 下去 (xiàqu) |\n| **进 (in)** | 进来 (jìnlai) | 进去 (jìnqu) |\n| **出 (out)** | 出来 (chūlai) | 出去 (chūqu) |\n| **回 (back)** | 回来 (huílai) | 回去 (huíqu) |\n| **过 (across/over)**| 过来 (guòlai) | 过去 (guòqu) |\n| **起 (upward)** | 起来 (qǐlai) | *(无起去)* |\n\n2. 复合公式：**动词 + 趋向组合 (Verb + Directional Compound)**\n- 走**上来** (walk up toward me) / 跑**下去** (run down away from me)\n- 拿**出来** (take out toward me) / 寄**回去** (mail back away from me).",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (10.2.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "王老师从办公室走出来，亲切地跟走廊上的同学们打招呼。",
+                    "reading": "Wáng lǎoshī cóng bàngōngshì zǒu chūlai, qīnqiè de gēn zǒuláng shang de tóngxuémen dǎ zhāohu.",
+                    "translation": "Teacher Wang walked out of the office and warmly greeted the students in the hallway."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (10.2.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "张华从书包里拿出来一本厚厚的现代汉语词典递给了大卫。",
+                    "reading": "Zhāng Huá cóng shūbāo lǐ ná chūlai yì běn hòuhou de xiàndài hànyǔ cídiǎn dì gěi le Dàwèi.",
+                    "translation": "Zhang Hua took out a thick modern Chinese dictionary from his backpack and handed it to David."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (10.2.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "大卫爬上了长城的最高峰，兴奋地对着山下大声喊了起来。",
+                    "reading": "Dàwèi pá shang le Chángchéng de zuì gāo fēng, xìngfèn de duì zhe shānxià dàshēng hǎn le qǐlai.",
+                    "translation": "David climbed up to the highest peak of the Great Wall and excitedly started shouting down toward the mountain foot."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 简单与复合趋向补语 (Directional Complements: 上来/下去)"
+                "Direction (上/下/进/出/回/过) + Perspective (来/去) = Full 3D Motion Picture!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Physical orientation and spatial precision in Chinese reflect the environmental consciousness and scenic landscape aesthetics embedded in the language."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「简单与复合趋向补语 (Directional Complements: 上来/下去)」在第2小节中的标准汉语语法规范？",
+                    "prompt": "说话人在楼下，看到朋友在楼上，喊朋友下楼时应当说：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (10.2.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (10.2.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (10.2.3)。"
+                        "你快走下来吧！ (Nǐ kuài zǒu xiàlai ba! — down toward speaker)",
+                        "你快走下去吧！",
+                        "你快走上去吧！"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "Speaker is downstairs; movement is downward toward speaker, so 下来 is used."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「趋向补语：上来、下去与过 (Directional Complements)」语用情境与完整句式的选项（练习 2）：",
+                    "prompt": "句子‘李明从钱包里拿出来一张银行卡’中，‘拿出来’表示：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (10.2.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (10.2.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (10.2.3)。"
+                        "银行卡被放回钱包",
+                        "动作使银行卡由钱包内部移动到外部 (Action moves the card from inside to outside)",
+                        "银行卡丢了"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "拿出来 denotes moving an object out from an enclosure towards observation."
                 }
             ]
         },
@@ -5006,85 +5024,98 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「简单与复合趋向补语 (Directional Complements: 上来/下去)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 10-2）？",
+                    "prompt": "说话人在房间外面，看见里面的人正往门外走，应该用哪一个复合趋向补语？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (10.2.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (10.2.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (10.2.3)。"
+                        "走进来",
+                        "走出来 (zǒu chūlai: out towards speaker outside)",
+                        "走进去"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "Moving from inside to outside towards the speaker outside is 走出来."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («走上来_10_2»):",
+                    "prompt": "Type the Hanzi for 'to take / bring out' (出来):",
                     "acceptedAnswers": [
-                        "走上来_10_2"
+                        "出来",
+                        "chulai",
+                        "chūlái",
+                        "Chūlái",
+                        "Chulai",
+                        "chūlai",
+                        "Chūlai"
                     ],
-                    "explanation": "The target keyword was: 【走上来_10_2】"
+                    "explanation": "出来 (chūlai) means 'to come out'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u10-l3": {
         "id": "zh-u10-l3",
-        "subject": "mandarin",
-        "unit": 10,
-        "lessonNumber": 3,
-        "title": "趋向补语：上来、下去与过 (Directional Complements) (Part 3)",
+        "unit": "zh-u10",
         "level": "A2",
-        "objective": "Comprehensive mastery of 简单与复合趋向补语 (Directional Complements: 上来/下去).",
+        "objective": "Master the strict placement rules for location objects vs. thing/entity objects in compound directional complement sentences.",
+        "prerequisites": [
+            "zh-u10-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u10-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「趋向补语：上来、下去与过 (Directional Complements)」（第3部分）的核心句法结构与简单与复合趋向补语 (Directional Complements: 上来/下去)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "复合趋向补语（如「跑进……去」、「带回……来」）与宾语的语序是汉语语法的核心考察难点！\n\n1. 处所宾语铁律（唯一合法语序）(Location Object Rule):\n- **处所名词必须夹在中间！** 放在「上/下/进/出/回/过」之后、「来/去」之前！\n- **公式：动词 + 趋向动词 + 处所宾语 + 来/去**\n  - 跑**进**教室**去** (Run into the classroom [speaker outside])\n  - 走**回**宿舍**来** (Walk back to the dorm [speaker inside dorm])\n  - 爬**上**山顶**去** (Climb up to the mountain top)\n  - *[绝对错误语序：*跑进去教室、*走回来宿舍]*\n\n2. 事物宾语灵活语序 (General Object Rule):\n- 事物宾语可以放在「来/去」前，也可以放在「来/去」后：\n  - 拿出**一本书**来 = 拿出来**一本书** (Both correct and natural!)",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (10.3.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "上课铃声响了，同学们纷纷跑进教室去准备上课。",
+                    "reading": "Shàngkè língshēng xiǎng le, tóngxuémen fēnfēn pǎo jìn jiàoshì qu zhǔnbèi shàngkè.",
+                    "translation": "The class bell rang; students ran into the classroom one after another to prepare for class."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (10.3.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "张老师从中国带回来很多精美的文化纪念品送给外国留学生。",
+                    "reading": "Zhāng lǎoshī cóng Zhōngguó dài huílai hěn duō jīngměi de wénhuà jìnàipǐn sòng gěi wàiguó liúxuéshēng.",
+                    "translation": "Teacher Zhang brought back many exquisite cultural souvenirs from China to give to international students."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (10.3.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "李明把刚写好的中文调查报告送进老师的办公室去了。",
+                    "reading": "Lǐ Míng bǎ gāng xiě hǎo de zhōngwén diàochá bàogào sòng jìn lǎoshī de bàngōngshì qu le.",
+                    "translation": "Li Ming delivered the newly written Chinese survey report into the teacher's office."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 简单与复合趋向补语 (Directional Complements: 上来/下去)"
+                "Location is trapped: V + [进/出/回/上/下] + LOCATION + [来/去]! No escape for places!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Giving souvenirs brought back from travels (带回来的伴手礼 dài huílai de bànshǒulǐ) is a cherished tradition of warmth (人情味 rénqíngwèi) in Chinese society."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「简单与复合趋向补语 (Directional Complements: 上来/下去)」在第3小节中的标准汉语语法规范？",
+                    "prompt": "请选出符合汉语语法规范的处所宾语复合趋向句子：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (10.3.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (10.3.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (10.3.3)。"
+                        "同学们都走回宿舍去了 (Tóngxuémen dōu zǒu huí sùshè qu le: location inside compound)",
+                        "同学们都走回去宿舍了 (*incorrect order)",
+                        "同学们宿舍走回去了"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "Location object 宿舍 must be placed between 回 and 去: 走回宿舍去."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「趋向补语：上来、下去与过 (Directional Complements)」语用情境与完整句式的选项（练习 3）：",
+                    "prompt": "句子‘大卫买回来了一本新词典’与‘大卫买回一本新词典来’的关系是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (10.3.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (10.3.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (10.3.3)。"
+                        "两者完全错误",
+                        "两者意思完全相同，事物宾语在‘来’前‘来’后均可 (Both natural and valid for thing objects)",
+                        "一个是疑问句"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "General thing objects can be placed either before or after 来/去 in compound directional complements."
                 }
             ]
         },
@@ -5092,85 +5123,98 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「简单与复合趋向补语 (Directional Complements: 上来/下去)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 10-3）？",
+                    "prompt": "下列哪个句子在语序上是完全错误的？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (10.3.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (10.3.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (10.3.3)。"
+                        "他跑进图书馆去了",
+                        "他带回礼物来了",
+                        "他跑进去图书馆了 (*Wrong: location cannot follow 进去)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "Location objects can never follow 进去; it must be 跑进图书馆去."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («走上来_10_3»):",
+                    "prompt": "Type the Hanzi for 'to enter / go in' (进去):",
                     "acceptedAnswers": [
-                        "走上来_10_3"
+                        "进去",
+                        "jinqu",
+                        "jìnqu",
+                        "Jìnqu",
+                        "Jinqu",
+                        "jìnqù",
+                        "Jìnqù"
                     ],
-                    "explanation": "The target keyword was: 【走上来_10_3】"
+                    "explanation": "进去 (jìnqu) means 'to go in / enter away from speaker'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u10-l4": {
         "id": "zh-u10-l4",
-        "subject": "mandarin",
-        "unit": 10,
-        "lessonNumber": 4,
-        "title": "趋向补语：上来、下去与过 (Directional Complements) (Part 4)",
+        "unit": "zh-u10",
         "level": "A2",
-        "objective": "Comprehensive mastery of 简单与复合趋向补语 (Directional Complements: 上来/下去).",
+        "objective": "Master the metaphorical and aspectual extensions of directional complements: 起来 (start & continue / inception), 下去 (continue doing into the future), 出来 (recognize / emerge), and 下来 (settle down / preserve from past).",
+        "prerequisites": [
+            "zh-u10-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u10-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「趋向补语：上来、下去与过 (Directional Complements)」（第4部分）的核心句法结构与简单与复合趋向补语 (Directional Complements: 上来/下去)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "趋向补语在汉语发展中衍生出了丰富的**引申义（Metaphorical & Aspectual Extensions）**，是表达动作状态与认知过程的高级表达法！\n\n1. 四大核心引申趋向补语 (4 Core Extended Complements):\n- **动词 + 起来 (qǐlai)**：\n  - **动作开始并持续 (Inception & continuation)**：大家高兴地**唱了起来**、天气**热了起来**。\n  - **回忆与识别 (Recall / perspective)**：我**想起来了**！(I remembered!) / 这道菜**看起来**很好吃。(Looks delicious!)\n- **动词 + 下去 (xiàqu)**：\n  - **动作继续进行 (Continue action into the future)**：请你继续**说下去**。(Please continue speaking.) / 坚持**学下去**。(Keep studying.)\n- **动词 + 出来 (chūlai)**：\n  - **从无到有、识别发现 (Recognition / Emergence)**：我**看出来了**。(I recognized it.) / 听**出来了**。(Identified by hearing.)\n- **动词 + 下来 (xiàlai)**：\n  - **动作固定或延存 (Settling down / preservation)**：请把生词**记下来**。(Write down the new words.) / 停**下来**。(Stop and stay still).",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (10.4.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "听到这个振奋人心的好消息，全班同学都不由自主地欢呼鼓掌了起来！",
+                    "reading": "Tīngdào zhè gè zhènfèn rénxīn de hǎo xiāoxi, quán bān tóngxué dōu bùyóuzìzhǔ de huānhū gǔzhǎng le qǐlai!",
+                    "translation": "Hearing this exhilarating good news, the whole class couldn't help cheering and applauding!"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (10.4.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "学习汉语贵在坚持，只要每天认真练习，你就一定能够学下去并取得优异成绩。",
+                    "reading": "Xuéxí hànyǔ guì zài jiānchí, zhǐyào měitiān rènzhēn liànxí, nǐ jiù yídìng nénggòu xué xiàqu bìng qǔdé yōuyì chéngjì.",
+                    "translation": "Learning Chinese is valuable for persistence; as long as you practice diligently every day, you will surely be able to keep going and achieve excellent results."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (10.4.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "王老师语重心长地对大家说：‘请同学们把这五个核心语法重点工整地记在笔记本下来。’",
+                    "reading": "Wáng lǎoshī yǔzhòngxīncháng de duì dàjiā shuō: ‘Qǐng tóngxuémen bǎ zhè wǔ gè héxīn yǔfǎ zhòngdiǎn gōngzhěng de jì zài bǐjìběn xiàlai.’",
+                    "translation": "Teacher Wang earnestly said to everyone: 'Please students write down these five core grammar focal points neatly in your notebooks.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 简单与复合趋向补语 (Directional Complements: 上来/下去)"
+                "起来 = Start up & Recall (想起来); 下去 = Keep going (说下去); 出来 = Recognize (看出来); 下来 = Write down (记下来)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "The traditional proverb «贵在坚持» (the greatest value lies in persistence) often pairs with «坚持下去» (keep pressing forward) as encouragement in Chinese education."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「简单与复合趋向补语 (Directional Complements: 上来/下去)」在第4小节中的标准汉语语法规范？",
+                    "prompt": "鼓励朋友在困难面前不要放弃、继续努力学习时，应当使用哪个引申趋向补语？",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (10.4.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (10.4.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (10.4.3)。"
+                        "学下去 (xué xiàqu: continue studying into future)",
+                        "学出来",
+                        "学进去"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "下去 denotes continuing an ongoing action into the future."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「趋向补语：上来、下去与过 (Directional Complements)」语用情境与完整句式的选项（练习 4）：",
+                    "prompt": "句子‘我终于想起来那个生词的汉字写法了！’中，‘想起来’表达的语义是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (10.4.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (10.4.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (10.4.3)。"
+                        "开始思考",
+                        "成功从记忆中回忆提取出信息 (Successfully recalled information from memory)",
+                        "放弃记忆"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "想起来 means 'to recall / bring to memory'."
                 }
             ]
         },
@@ -5178,85 +5222,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「简单与复合趋向补语 (Directional Complements: 上来/下去)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 10-4）？",
+                    "prompt": "老师要求学生‘把黑板上的重点句子抄在笔记本上保存好’，最贴切的趋向补语是：",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (10.4.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (10.4.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (10.4.3)。"
+                        "抄起来",
+                        "抄下来 (chāo xiàlai: record / write down to preserve)",
+                        "抄过去"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "下来 indicates fixing or recording something for preservation."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («走上来_10_4»):",
+                    "prompt": "Type the Hanzi for 'to remember / recall' (想起来):",
                     "acceptedAnswers": [
-                        "走上来_10_4"
+                        "想起来",
+                        "xiangqilai",
+                        "xiǎngqǐlai",
+                        "Xiǎngqǐlai",
+                        "Xiangqilai"
                     ],
-                    "explanation": "The target keyword was: 【走上来_10_4】"
+                    "explanation": "想起来 (xiǎngqǐlai) means 'to recall / remember'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u10-l5": {
         "id": "zh-u10-l5",
-        "subject": "mandarin",
-        "unit": 10,
-        "lessonNumber": 5,
-        "title": "趋向补语：上来、下去与过 (Directional Complements) (Part 5)",
+        "unit": "zh-u10",
         "level": "A2",
-        "objective": "Comprehensive mastery of 简单与复合趋向补语 (Directional Complements: 上来/下去).",
+        "objective": "Synthesize physical and metaphorical directional complements (Simple, Compound, Location-object constraints, and Extended meanings) into rich descriptive narratives and daily communicative dialogues.",
+        "prerequisites": [
+            "zh-u10-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u10-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「趋向补语：上来、下去与过 (Directional Complements)」（第5部分）的核心句法结构与简单与复合趋向补语 (Directional Complements: 上来/下去)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在本课中，我们将系统整合第十单元的所有趋向补语语法体系，从空间物理位移（进教室来、走上楼去）到高级抽象引申（想起来、坚持下去、看出来、记下来），实现全方位的灵活运用！\n\n1. 趋向补语全景导航矩阵 (Master Comprehensive Navigation):\n- **物理空间移动**：必须根据**说话人视点（来 vs. 去）**与**处所内嵌规则（跑进屋去）**精准造句。\n- **心理与认知引申**：\n  - **起来**：萌发、开始、回忆 (想起来、唱起来)\n  - **下去**：延续、持续、前行 (读下去、走下去)\n  - **出来**：显现、识别、辨认 (听出来、认出来)\n  - **下来**：固定、记录、沉淀 (写下来、停下来)\n\n2. 第十单元实战交际演练 (Unit 10 Synthesis Dialogue):\n- 跨国师生交流：课堂笔记记录（记下来）、登长城游览经历（爬上去/走下来）、互相勉励中文学习之路（坚持学下去）。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (10.5.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "大卫：李明，你认出来刚才从图书馆走出来的那位老教授是谁了吗？ 李明：我想起来了！他是著名语言学家王教授！",
+                    "reading": "Dàwèi: Lǐ Míng, nǐ rèn chūlai gāngcái cóng túshūguǎn zǒu chūlai de nà wèi lǎo jiàoshòu shì shéi le ma? Lǐ Míng: Wǒ xiǎng qǐlai le! Tā shì zhùmíng yǔyánxuéjiā Wáng jiàoshòu!",
+                    "translation": "David: Li Ming, did you recognize who that old professor who just walked out of the library was? Li Ming: I remembered! He is the famous linguist Professor Wang!"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (10.5.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "张老师对全班同学说：‘中文学习虽然有挑战，但只要大家每天坚持读下去、写下去，就一定能说一口流利的普通话！’",
+                    "reading": "Zhāng lǎoshī duì quán bān tóngxué shuō: ‘Zhōngwén xuéxí suīrán yǒu tiǎozhàn, dàn zhǐyào dàjiā měitiān jiānchí dú xiàqu, xiě xiàqu, jiù yídìng néng shuō yì kǒu liúlì de pǔtōnghuà!’",
+                    "translation": "Teacher Zhang said to the class: 'Although Chinese learning has challenges, as long as everyone insists on reading and writing on every day, you will definitely speak fluent Mandarin!'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (10.5.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "雨过天晴，同学们高兴地跑出宿舍楼来，呼吸着校园里新鲜清爽的空气。",
+                    "reading": "Yǔ guò tiān qíng, tóngxuémen gāoxìng de pǎo chū sùshèlóu lái, hūxī zhe xiàoyuán lǐ xīnxuān qīngshuǎng de kōngqì.",
+                    "translation": "The rain stopped and sky cleared; students happily ran out of the dorm building, breathing the fresh cool air on campus."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 简单与复合趋向补语 (Directional Complements: 上来/下去)"
+                "3D Language Tool: Spatial Perspective (来/去), Interlocking Place (进屋来), Metaphoric Power (想起来、坚持下去)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Mastery of directional complements transforms a learner's Chinese from flat static statements into vivid dynamic storytelling with cinematic spatial depth."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「简单与复合趋向补语 (Directional Complements: 上来/下去)」在第5小节中的标准汉语语法规范？",
+                    "prompt": "句子‘他从书包里拿出来了一本新书’与‘他跑进教室去了’分别体现了什么核心规则？",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (10.5.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (10.5.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (10.5.3)。"
+                        "前者是事物宾语（位置灵活），后者是处所宾语（必须夹在复合补语之间）(Thing object flexible vs. Location object strictly in-between)",
+                        "两者都是处所宾语",
+                        "两者没有任何语法规则限制"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "Thing objects can follow 来/去, but location objects like 教室 must be strictly inserted before 来/去."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「趋向补语：上来、下去与过 (Directional Complements)」语用情境与完整句式的选项（练习 5）：",
+                    "prompt": "在演讲或课堂结语中，表达‘希望大家把中华文化的优良传统传承下去’时，‘传承下去’的作用是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (10.5.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (10.5.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (10.5.3)。"
+                        "表示空间向下的物理位移",
+                        "表示将传统文化持续延续到未来的引申义 (Metaphorical extension: continuing into the future)",
+                        "表示动作突然停止"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "下去 metaphorically conveys passing down / continuing actions through time."
                 }
             ]
         },
@@ -5264,24 +5319,31 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「简单与复合趋向补语 (Directional Complements: 上来/下去)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 10-5）？",
+                    "prompt": "关于趋向补语‘起来’与‘下去’的引申对比，下列概括最精准的是：",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (10.5.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (10.5.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (10.5.3)。"
+                        "‘起来’常表示动作开始并持续或回忆提取；‘下去’常表示动作或状态向未来继续延续 (起来: inception/recall; 下去: continuation into the future)",
+                        "两者完全一样",
+                        "‘下去’只能用于从高处跳下"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "explanation": "起来 marks inception/recall; 下去 marks sustained continuation into the future."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («走上来_10_5»):",
+                    "prompt": "Type the Hanzi for 'to persist / keep going' (下去):",
                     "acceptedAnswers": [
-                        "走上来_10_5"
+                        "下去",
+                        "xiaqu",
+                        "xiàqu",
+                        "Xiàqu",
+                        "Xiaqu",
+                        "xiàqù",
+                        "Xiàqù"
                     ],
-                    "explanation": "The target keyword was: 【走上来_10_5】"
+                    "explanation": "下去 (xiàqu) denotes downward motion or continuation into the future."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u11-l1": {
