@@ -964,63 +964,69 @@
     },
     "hk-u2-l1": {
         "id": "hk-u2-l1",
-        "subject": "cantonese",
-        "unit": 2,
-        "lessonNumber": 1,
-        "title": "人稱代詞同基本句式 (Pronouns & Basic Sentences) (Part 1)",
+        "unit": "hk-u2",
         "level": "A1",
-        "objective": "Comprehensive mastery of 我你佢人稱代詞 (Pronouns & Basic Syntax).",
+        "objective": "Master Cantonese personal pronouns and the pluralizing suffix 哋 (我 ngo5, 你 nei5, 佢 keoi5, 我哋 ngo5 dei6, 你哋 nei5 dei6, 佢哋 keoi5 dei6, 人哋 jan4 dei6).",
+        "prerequisites": [
+            "hk-u1-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u1-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（我你佢人稱代詞 (Pronouns & Basic Syntax) - 第1部分）入面，我哋會探討廣東話嘅核心語用語境同埋我你佢人稱代詞 (Pronouns & Basic Syntax)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "廣東話嘅人稱代詞系統非常工整簡潔，加上複數後綴**「哋 (dei6)」**即可構成複數！\n\n1. 人稱代詞體系 (Pronoun System):\n- **單數 (Singular)**：\n  - **我 (ngo5)**：I / me。\n  - **你 (nei5)**：You。\n  - **佢 (keoi5)**：He / she / it（廣東話第三人稱單數不分性別）。\n- **複數 (Plural with 哋 dei6)**：\n  - **我哋 (ngo5 dei6)**：We / us。\n  - **你哋 (nei5 dei6)**：You all。\n  - **佢哋 (keoi5 dei6)**：They / them。\n- **泛稱 (Generic Other)**：\n  - **人哋 (jan4 dei6)**：Others / someone else / 'they' (often playfully meaning 'me' in intimate speech).\n\n2. 常用句式 (Common Pronoun Patterns):\n- 「我哋今日一齊去旺角行街啦！」(Let's go shopping in Mong Kok together today!)\n- 「佢哋都係中大嘅大學生。」(They are all Chinese University students.)",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (2.1.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "我哋公司喺灣仔，搭港鐵過海好方便。",
+                    "reading": "ngo5 dei6 gung1 si1 hai2 waan1 zai2, daap3 gong2 tit3 gwo3 hoi2 hou2 fong1 bin6.",
+                    "translation": "Our office is in Wan Chai, crossing the harbor by MTR is very convenient."
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (2.1.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "佢係我嘅好朋友，佢叫阿May。",
+                    "reading": "keoi5 hai6 ngo5 ge3 hou2 pang4 jau5, keoi5 giu3 aa3 May.",
+                    "translation": "She is my good friend, she is called Ah May."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (2.1.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "你哋今晚想去邊度食晚飯呀？",
+                    "reading": "nei5 dei6 gam1 maan5 soeng2 heoi3 bin1 dou6 sik6 maan5 faan6 aa3?",
+                    "translation": "Where do you all want to go have dinner tonight?"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 我你佢人稱代詞 (Pronouns & Basic Syntax)"
+                "Pronoun Formula: 我(I), 你(You), 佢(He/She) + 哋(Plural) = 我哋(We), 你哋(You all), 佢哋(They)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "In colloquial Cantonese, «人哋» (jan4 dei6) is versatile—it means 'others', but a speaker (especially female or in close relationships) often playfully refers to herself in third person as «人哋» ('you're teasing me! / 人哋邊有喎')."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「我你佢人稱代詞 (Pronouns & Basic Syntax)」喺第1節嘅地道廣東話表達？",
+                    "prompt": "廣東話入面，由「我 (ngo5)」加上複數後綴構成、表示「我哋 / 我們 (we/us)」嘅正確詞彙係：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (2.1.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (2.1.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (2.1.3)。"
+                        "我哋 (ngo5 dei6 - We / us)",
+                        "我門",
+                        "我儕"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "我哋 (ngo5 dei6) is the standard Cantonese pronoun for 'we / us'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「人稱代詞同基本句式 (Pronouns & Basic Sentences)」語境嘅廣東話完整句子（練習 1）：",
+                    "prompt": "廣東話入面，指代第三人稱單數「他 / 她 / 它 (he/she/it)」嘅專用字係：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (2.1.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (2.1.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (2.1.3)。"
+                        "他",
+                        "佢 (keoi5 - He / she / it)",
+                        "彼"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "佢 (keoi5) is the unique Cantonese third-person singular pronoun for he, she, and it."
                 }
             ]
         },
@@ -1028,85 +1034,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「我你佢人稱代詞 (Pronouns & Basic Syntax)」嘅日常商務與生活習慣（考核 2-1）？",
+                    "prompt": "關於廣東話人稱代詞系統（我/你/佢）及其複數構造規則，下列哪一項表述完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (2.1.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (2.1.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (2.1.3)。"
+                        "廣東話單數代詞為「我(ngo5)、你(nei5)、佢(keoi5)」，後綴加上「哋(dei6)」即可構成複數「我哋、你哋、佢哋」 (Singular ngo5/nei5/keoi5 + dei6 forms plurals ngo5 dei6/nei5 dei6/keoi5 dei6)",
+                        "廣東話沒有複數代詞",
+                        "佢只能用來指代動物"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "explanation": "Accurately describes the pronoun paradigm and plural suffixation with 哋."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («我哋_2_1»):",
+                    "prompt": "Type the 2-character Hanzi for 'we / us' in Cantonese (我哋):",
                     "acceptedAnswers": [
-                        "我哋_2_1"
+                        "我哋",
+                        "ngo5dei6",
+                        "ngo5 dei6",
+                        "Ngo5 dei6",
+                        "Ngo5dei6"
                     ],
-                    "explanation": "The target keyword was: 【我哋_2_1】"
+                    "explanation": "我哋 (ngo5 dei6) means 'we / us' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u2-l2": {
         "id": "hk-u2-l2",
-        "subject": "cantonese",
-        "unit": 2,
-        "lessonNumber": 2,
-        "title": "人稱代詞同基本句式 (Pronouns & Basic Sentences) (Part 2)",
+        "unit": "hk-u2",
         "level": "A1",
-        "objective": "Comprehensive mastery of 我你佢人稱代詞 (Pronouns & Basic Syntax).",
+        "objective": "Master equational sentences, copula verb 係 (hai6), negation 唔係 (m4 hai6), and A-not-A question form 係咪 / 係唔係 (hai6 mai6 / hai6 m4 hai6).",
+        "prerequisites": [
+            "hk-u2-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u2-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（我你佢人稱代詞 (Pronouns & Basic Syntax) - 第2部分）入面，我哋會探討廣東話嘅核心語用語境同埋我你佢人稱代詞 (Pronouns & Basic Syntax)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "廣東話嘅判斷句以**「係 (hai6)」**為核心，相當於「is/am/are」，否定為**「唔係 (m4 hai6)」**！\n\n1. 判斷句句型結構 (Copula Structures):\n- **肯定句 (Affirmative: S + 係 + N)**：\n  - 「我係香港人。」(I am a Hong Konger.)\n  - 「呢本係我嘅書。」(This is my book.)\n- **否定句 (Negative: S + 唔係 + N)**：\n  - 「佢唔係醫生，佢係律師。」(He is not a doctor, he is a lawyer.)\n- **正反疑問句 (A-not-A Question: 係唔係 / 係咪)**：\n  - 「你係唔係陳經理？」/「你係咪陳經理呀？」(Are you Manager Chan?)\n  - *註：「係咪 (hai6 mai6)」係「係唔係」嘅極常用合音簡縮！*",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (2.2.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "你係咪今晚搭飛機去日本東京旅行呀？",
+                    "reading": "nei5 hai6 mai6 gam1 maan5 daap3 fei1 gei1 heoi3 jat6 bun2 dung1 ging1 leoi5 hang4 aa3?",
+                    "translation": "Are you taking the flight to Tokyo, Japan for travel tonight?"
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (2.2.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "呢位係我嘅大學導師王教授。",
+                    "reading": "ni1 wai2 hai6 ngo5 ge3 daai6 hok6 dou6 si1 wong4 gaau3 sau6.",
+                    "translation": "This is my university supervisor, Professor Wong."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (2.2.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "佢唔係本地人，佢係由加拿大返嚟嘅華僑。",
+                    "reading": "keoi5 m4 hai6 bun2 dei6 jan4, keoi5 hai6 jau4 gaa1 naa4 daai6 faan1 lai4 ge3 waa4 kiu4.",
+                    "translation": "He is not a local; he is an overseas Chinese returned from Canada."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 我你佢人稱代詞 (Pronouns & Basic Syntax)"
+                "Copula Core: 係(hai6 - is), 唔係(m4 hai6 - is not), 係咪(hai6 mai6 - is it? / A-not-A)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "«係咪» (hai6 mai6) is an everyday portmanteau fusion of «係唔係» (hai6 m4 hai6) and is the most ubiquitous conversational question particle in Cantonese."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「我你佢人稱代詞 (Pronouns & Basic Syntax)」喺第2節嘅地道廣東話表達？",
+                    "prompt": "廣東話入面，由「係唔係」快速連讀合音而成、經常用於日常詢問「是不是 / 對不對」嘅詞彙係：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (2.2.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (2.2.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (2.2.3)。"
+                        "唔係",
+                        "係咪 (hai6 mai6 - Is it? / Are you?)",
+                        "幾多"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "係咪 (hai6 mai6) is the quintessential fused A-not-A question form of 係唔係."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「人稱代詞同基本句式 (Pronouns & Basic Sentences)」語境嘅廣東話完整句子（練習 2）：",
+                    "prompt": "如果要否定一個身份或陳述，表達「不是」在廣東話中應該使用：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (2.2.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (2.2.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (2.2.3)。"
+                        "唔係 (m4 hai6 - Is not / Not to be)",
+                        "未係",
+                        "冇係"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "唔係 (m4 hai6) is the standard negative copula in Cantonese."
                 }
             ]
         },
@@ -1114,85 +1131,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「我你佢人稱代詞 (Pronouns & Basic Syntax)」嘅日常商務與生活習慣（考核 2-2）？",
+                    "prompt": "關於廣東話判斷動詞「係」、否定「唔係」及正反疑問句「係咪」，下列哪一項表述完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (2.2.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (2.2.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (2.2.3)。"
+                        "「係」在廣東話中只能用作助詞",
+                        "「係 (hai6)」表示肯定判斷（是），「唔係 (m4 hai6)」表示否定（不是），「係咪 (hai6 mai6)」是「係唔係」的常用合音疑問句式 (hai6 for 'to be', m4 hai6 for 'is not', hai6 mai6 for 'is it?')",
+                        "廣東話不能進行肯定或否定判斷"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "explanation": "Accurately articulates copular grammar, negation, and fused questioning in Cantonese."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («我哋_2_2»):",
+                    "prompt": "Type the 2-character Hanzi for the fused question 'is it? / are you?' in Cantonese (係咪):",
                     "acceptedAnswers": [
-                        "我哋_2_2"
+                        "係咪",
+                        "hai6mai6",
+                        "hai6 mai6",
+                        "Hai6 mai6",
+                        "Hai6mai6"
                     ],
-                    "explanation": "The target keyword was: 【我哋_2_2】"
+                    "explanation": "係咪 (hai6 mai6) means 'is it? / are you?' (fused form of 係唔係)."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u2-l3": {
         "id": "hk-u2-l3",
-        "subject": "cantonese",
-        "unit": 2,
-        "lessonNumber": 3,
-        "title": "人稱代詞同基本句式 (Pronouns & Basic Sentences) (Part 3)",
+        "unit": "hk-u2",
         "level": "A1",
-        "objective": "Comprehensive mastery of 我你佢人稱代詞 (Pronouns & Basic Syntax).",
+        "objective": "Master Cantonese demonstrative pronouns and spatial locatives (呢個 ni1 go3, 嗰個 go2 go3, 呢度 ni1 dou6 here, 嗰度 go2 dou6 there, 邊度 bin1 dou6 where, 邊個 bin1 go3 who/which one).",
+        "prerequisites": [
+            "hk-u2-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u2-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（我你佢人稱代詞 (Pronouns & Basic Syntax) - 第3部分）入面，我哋會探討廣東話嘅核心語用語境同埋我你佢人稱代詞 (Pronouns & Basic Syntax)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "廣東話嘅指示代詞同空間方位詞層次分明，掌握**「呢 (近指) / 嗰 (遠指) / 邊 (疑問)」**三元體系！\n\n1. 指示與疑問三元矩陣 (Demonstrative & Interrogative Matrix):\n- **事物指代 (Things)**：\n  - **呢個 (ni1 go3)**：This one。\n  - **嗰個 (go2 go3)**：That one。\n  - **邊個 (bin1 go3)**：Which one / Who。\n- **地點空間 (Locations with 度 dou6)**：\n  - **呢度 (ni1 dou6)**：Here。\n  - **嗰度 (go2 dou6)**：There。\n  - **邊度 (bin1 dou6)**：Where。\n- **複數指示 (Plural Things with 啲 di1)**：\n  - **呢啲 (ni1 di1)**：These。\n  - **嗰啲 (go2 di1)**：Those。\n  - **邊啲 (bin1 di1)**：Which ones。\n\n2. 實用句式 (Practical Locative Syntax):\n- 「請問洗手間喺邊度呀？」(Excuse me, where is the restroom?)\n- 「呢個奶茶好香，嗰個蛋撻好脆！」(This milk tea is very fragrant, that egg tart is very crispy!)",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (2.3.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "唔該請問，港鐵站嘅出入口喺邊度呀？",
+                    "reading": "m4 goi1 cing2 man6, gong2 tit3 zaam6 ge3 ceot1 jap6 hau2 hai2 bin1 dou6 aa3?",
+                    "translation": "Excuse me, where is the MTR station entrance/exit?"
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (2.3.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "我哋就坐喺呢度等佢啦，嗰度太多人好逼。",
+                    "reading": "ngo5 dei6 zau6 co5 hai2 ni1 dou6 dang2 keoi5 laa1, go2 dou6 taai3 do1 jan4 hou2 bik1.",
+                    "translation": "Let's just sit here and wait for him; over there is too crowded."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (2.3.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "呢個手袋好靚，不過嗰個比較平啲。",
+                    "reading": "ni1 go3 sau2 doi2 hou2 leng3, bat1 gwo3 go2 go3 bei2 gaau3 peng4 di1.",
+                    "translation": "This handbag is very pretty, but that one is comparatively cheaper."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 我你佢人稱代詞 (Pronouns & Basic Syntax)"
+                "Triad Rule: 呢(ni1 - This/Here), 嗰(go2 - That/There), 邊(bin1 - Which/Where) + 個(Item) / 度(Place) / 啲(Plural)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "In Hong Kong Cantonese, «邊個» (bin1 go3) serves dual functions: it means 'who' (person) as well as 'which one' (item)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「我你佢人稱代詞 (Pronouns & Basic Syntax)」喺第3節嘅地道廣東話表達？",
+                    "prompt": "廣東話入面，問人「洗手間喺哪裏 / 在哪裏」嗰陣，「哪裏 (where)」對應嘅地道廣東話詞彙係：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (2.3.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (2.3.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (2.3.3)。"
+                        "嗰度",
+                        "呢度",
+                        "邊度 (bin1 dou6 - Where)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 2,
+                    "explanation": "邊度 (bin1 dou6) is the standard Cantonese interrogative pronoun for 'where'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「人稱代詞同基本句式 (Pronouns & Basic Sentences)」語境嘅廣東話完整句子（練習 3）：",
+                    "prompt": "指代眼前說話者所在嘅位置「這裏 (here)」，廣東話應當講：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (2.3.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (2.3.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (2.3.3)。"
+                        "呢度 (ni1 dou6 - Here)",
+                        "嗰度",
+                        "邊度"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "呢度 (ni1 dou6) means 'here / this place' in Cantonese."
                 }
             ]
         },
@@ -1200,85 +1228,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「我你佢人稱代詞 (Pronouns & Basic Syntax)」嘅日常商務與生活習慣（考核 2-3）？",
+                    "prompt": "關於廣東話指示代詞「呢個/嗰個/邊個」與地點詞「呢度/嗰度/邊度」的對應關係，下列哪一項表述完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (2.3.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (2.3.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (2.3.3)。"
+                        "「呢」表示遠指，「嗰」表示近指",
+                        "「呢度」表示哪裏",
+                        "「呢 (ni1)」表近指（呢個/呢度），「嗰 (go2)」表遠指（嗰個/嗰度），「邊 (bin1)」表疑問（邊個/邊度） (ni1 for proximal this/here, go2 for distal that/there, bin1 for interrogative which/where)"
                     ],
                     "answerIndex": 2,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "explanation": "Accurately classifies the tripartite Cantonese demonstrative and locative system."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («我哋_2_3»):",
+                    "prompt": "Type the 2-character Hanzi for 'here / this place' in Cantonese (呢度):",
                     "acceptedAnswers": [
-                        "我哋_2_3"
+                        "呢度",
+                        "ni1dou6",
+                        "ni1 dou6",
+                        "Ni1 dou6",
+                        "Ni1dou6"
                     ],
-                    "explanation": "The target keyword was: 【我哋_2_3】"
+                    "explanation": "呢度 (ni1 dou6) means 'here / this place' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u2-l4": {
         "id": "hk-u2-l4",
-        "subject": "cantonese",
-        "unit": 2,
-        "lessonNumber": 4,
-        "title": "人稱代詞同基本句式 (Pronouns & Basic Sentences) (Part 4)",
+        "unit": "hk-u2",
         "level": "A1",
-        "objective": "Comprehensive mastery of 我你佢人稱代詞 (Pronouns & Basic Syntax).",
+        "objective": "Master the Cantonese possessive and adjectival modifying particle 嘅 (ge3), equivalent to Mandarin 的 / English 's, and construct noun modification phrases.",
+        "prerequisites": [
+            "hk-u2-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u2-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（我你佢人稱代詞 (Pronouns & Basic Syntax) - 第4部分）入面，我哋會探討廣東話嘅核心語用語境同埋我你佢人稱代詞 (Pronouns & Basic Syntax)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "**「嘅 (ge3)」**係廣東話使用頻率最高嘅核心助詞之一，功能相當於普通話嘅「的」同英文嘅「's / of」！\n\n1. 助詞「嘅」兩大核心功能 (Two Functions of 嘅 ge3):\n- **領屬所有 (Possession: N1 + 嘅 + N2)**：\n  - **我嘅 (ngo5 ge3)**：My / mine。\n  - **你嘅 (nei5 ge3)**：Your / yours。\n  - **佢嘅 (keoi5 ge3)**：His / her / hers / its。\n  - **邊個嘅 (bin1 go3 ge3)**：Whose。\n- **形容詞修飾名詞 (Adjective Modification: Adj + 嘅 + N)**：\n  - 「好食嘅點心」(Delicious dim sum)。\n  - 「好靚嘅風景」(Very beautiful scenery)。\n  - 「新鮮嘅海鮮」(Fresh seafood)。\n\n2. 實用所有格句式 (Possessive Sentences):\n- 「呢部電話係我嘅，嗰部先係你嘅。」(This phone is mine; that one is yours.)\n- 「張生係一間好大嘅跨國公司嘅總經理。」(Mr. Cheung is the GM of a very large multinational company.)",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (2.4.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "呢隻手錶係我爸爸送畀我嘅二十歲生日禮物。",
+                    "reading": "ni1 zek3 sau2 biu1 hai6 ngo5 baa1 baa1 sung3 bei2 ngo5 ge3 jaa6 seoi3 saang1 jat6 lai5 mat6.",
+                    "translation": "This watch is a 20th birthday gift my dad gave to me."
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (2.4.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "請問呢件黑色嘅褸係邊個嘅？",
+                    "reading": "cing2 man6 ni1 gin6 haak1 sik1 ge3 lau1 hai6 bin1 go3 ge3?",
+                    "translation": "Excuse me, whose black coat is this?"
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (2.4.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "旺角有好多好平又好食嘅街頭小食。",
+                    "reading": "wong6 gok3 jau5 hou2 do1 hou2 peng4 jau6 hou2 sik6 ge3 gaai1 tau4 siu2 sik6.",
+                    "translation": "Mong Kok has a lot of very cheap and delicious street snacks."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 我你佢人稱代詞 (Pronouns & Basic Syntax)"
+                "Particle 嘅 (ge3): 我嘅(My/Mine), 靚嘅(Pretty), 好食嘅(Delicious) = Essential Cantonese Connector!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "The character «嘅» is one of the most distinctive Cantonese written vernacular characters (粵語字), universally seen on Hong Kong signage, ads, and messaging."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「我你佢人稱代詞 (Pronouns & Basic Syntax)」喺第4節嘅地道廣東話表達？",
+                    "prompt": "廣東話入面表示所有關係「我的（my / mine）」、相當於普通話「我的」嘅地道寫法係：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (2.4.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (2.4.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (2.4.3)。"
+                        "我的",
+                        "我嘅 (ngo5 ge3 - My / mine)",
+                        "我之"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "我嘅 (ngo5 ge3) is the standard Cantonese form for 'my / mine'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「人稱代詞同基本句式 (Pronouns & Basic Sentences)」語境嘅廣東話完整句子（練習 4）：",
+                    "prompt": "在廣東話中，如果要問「這本筆記本是誰的？」，「誰的 (whose)」在口語中通常表達為：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (2.4.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (2.4.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (2.4.3)。"
+                        "邊個嘅 (bin1 go3 ge3 - Whose)",
+                        "邊度嘅",
+                        "乜嘢嘅"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "邊個嘅 (bin1 go3 ge3) combines 邊個 (who) + 嘅 ('s) to mean 'whose'."
                 }
             ]
         },
@@ -1286,85 +1325,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「我你佢人稱代詞 (Pronouns & Basic Syntax)」嘅日常商務與生活習慣（考核 2-4）？",
+                    "prompt": "關於廣東話助詞「嘅 (ge3)」的語法功能（領屬所有與修飾），下列哪一項表述完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (2.4.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (2.4.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (2.4.3)。"
+                        "「嘅」在廣東話中只能用在句首且沒有任何含義",
+                        "「嘅」只能用來表示否定",
+                        "「嘅 (ge3)」是廣東話核心助詞，相當於「的/'s」，既可用於領屬關係（如我嘅/佢嘅），亦可用於形容詞修飾名詞（如好食嘅點心） (ge3 expresses possession like ngo5 ge3 and noun modification like hou2 sik6 ge3 dim2 sam1)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "Accurately describes the multifunctional possessive and attributive roles of 嘅 (ge3)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («我哋_2_4»):",
+                    "prompt": "Type the 2-character Hanzi for 'my / mine' in Cantonese (我嘅):",
                     "acceptedAnswers": [
-                        "我哋_2_4"
+                        "我嘅",
+                        "ngo5ge3",
+                        "ngo5 ge3",
+                        "Ngo5 ge3",
+                        "Ngo5ge3"
                     ],
-                    "explanation": "The target keyword was: 【我哋_2_4】"
+                    "explanation": "我嘅 (ngo5 ge3) means 'my / mine' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u2-l5": {
         "id": "hk-u2-l5",
-        "subject": "cantonese",
-        "unit": 2,
-        "lessonNumber": 5,
-        "title": "人稱代詞同基本句式 (Pronouns & Basic Sentences) (Part 5)",
+        "unit": "hk-u2",
         "level": "A1",
-        "objective": "Comprehensive mastery of 我你佢人稱代詞 (Pronouns & Basic Syntax).",
+        "objective": "Synthesize personal pronouns, copula 係, demonstratives 呢個/嗰度, and possessive 嘅 into a complete office/workplace identity confirmation dialogue.",
+        "prerequisites": [
+            "hk-u2-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u2-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（我你佢人稱代詞 (Pronouns & Basic Syntax) - 第5部分）入面，我哋會探討廣東話嘅核心語用語境同埋我你佢人稱代詞 (Pronouns & Basic Syntax)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "喺呢課綜合實戰篇，我哋將第二單元學到嘅代詞、判斷句「係」、指示詞「呢度/嗰度」同領屬「嘅」全面結合，完成職場辦公室初次對接實戰！\n\n1. 職場禮貌問詢與介紹句型 (Workplace Protocol Syntax):\n- **請問你貴姓？ (cing2 man6 nei5 gwai3 sing3?)**：May I ask your honorable surname?\n- **我免貴姓陳，叫我阿Ben就得喇。 (ngo5 min5 gwai3 sing3 can4, giu3 ngo5 aa3 Ben zau6 dak1 laa3.)**：My surname is Chan, just call me Ah Ben.\n- **呢位係我哋嘅新同事。 (ni1 wai2 hai6 ngo5 dei6 ge3 san1 tung4 si6.)**：This is our new colleague.\n- **請喺呢度坐陣先。 (cing2 hai2 ni1 dou6 co5 zan6 sin1.)**：Please take a seat here first.\n\n2. 第二單元實戰對話範例 (Unit 2 Master Dialogue):\n- **接待員**：‘早晨！請問你貴姓？係咪約咗黃經理呀？’\n- **訪客David**：‘早晨！我姓李，叫David。係呀，我哋約咗十點鐘喺呢度見面。’\n- **接待員**：‘李生你好！黃經理嘅辦公室喺嗰度，請喺呢度坐陣飲杯茶先啦！’\n- **David**：‘好啊，唔該晒你！’",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (2.5.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "請問你貴姓呀？我係市場部嘅主管阿Ken。",
+                    "reading": "cing2 man6 nei5 gwai3 sing3 aa3? ngo5 hai6 si5 coeng4 bou6 ge3 zyu2 gun2 aa3 Ken.",
+                    "translation": "May I have your surname? I am Ken, the supervisor of the Marketing Department."
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (2.5.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "呢位係我哋公司新請嘅會計師，佢叫阿Grace。",
+                    "reading": "ni1 wai2 hai6 ngo5 dei6 gung1 si1 san1 ceng2 ge3 wui6 gai3 si1, keoi5 giu3 aa3 Grace.",
+                    "translation": "This is our company's newly hired accountant, her name is Grace."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (2.5.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "呢份合約係你哋嘅，嗰份先係我哋嘅。",
+                    "reading": "ni1 fan6 hap6 joek3 hai6 nei5 dei6 ge3, go2 fan6 sin1 hai6 ngo5 dei6 ge3.",
+                    "translation": "This contract is yours; that one is ours."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 我你佢人稱代詞 (Pronouns & Basic Syntax)"
+                "Identity Flow: 請問貴姓(Surname inquiry) -> 呢位係(Introducing) -> 呢度請坐(Location & Hospitality) -> 合作順利(Productive work)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "In Hong Kong business etiquette, addressing someone by their English name with the Cantonese title or prefix (e.g. David生, Grace姐, or 阿Ken) strikes the perfect balance of professional respect and friendliness."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「我你佢人稱代詞 (Pronouns & Basic Syntax)」喺第5節嘅地道廣東話表達？",
+                    "prompt": "商務場合中禮貌詢問對方尊姓大名「請問您貴姓？」，最得體嘅廣東話問法係：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (2.5.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (2.5.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (2.5.3)。"
+                        "你叫乜名呀？",
+                        "請問你貴姓？ (cing2 man6 nei5 gwai3 sing3? - May I ask your surname?)",
+                        "你係邊位呀？"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "請問你貴姓？ (cing2 man6 nei5 gwai3 sing3?) is the polite standard in business and formal introductions."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「人稱代詞同基本句式 (Pronouns & Basic Sentences)」語境嘅廣東話完整句子（練習 5）：",
+                    "prompt": "在向客戶或同事介紹身邊人「這一位是我們的新經理」時，最禮貌客氣的廣東話表達是：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (2.5.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (2.5.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (2.5.3)。"
+                        "呢條友係新經理",
+                        "呢位係我哋嘅新經理 (ni1 wai2 hai6 ngo5 dei6 ge3 san1 ging1 lei5 - This is our new manager)",
+                        "嗰個係經理"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "呢位係我哋嘅新經理 uses the polite classifier 位 (wai2) and possessive 我哋嘅 (ngo5 dei6 ge3)."
                 }
             ]
         },
@@ -1372,24 +1422,30 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「我你佢人稱代詞 (Pronouns & Basic Syntax)」嘅日常商務與生活習慣（考核 2-5）？",
+                    "prompt": "關於廣東話第二單元人稱代詞（我/你/佢）、判斷句（係/唔係）、指示詞（呢度/嗰度）與領屬（嘅）的綜合應用，下列哪一項總括完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (2.5.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (2.5.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (2.5.3)。"
+                        "廣東話在職場中不能使用任何代詞或禮貌用語",
+                        "透過掌握人稱代詞（我哋/你哋）、判斷句式（係咪/唔係）、空間指代（呢度/嗰度）及領屬助詞「嘅」，能自如完成職場商務介紹與身份確認 (Accurate control of pronouns, copula, spatial demonstratives, and 嘅 for workplace introductions)",
+                        "「請問你貴姓」只能用於向小孩問話"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "explanation": "Synthesizes the complete grammatical toolkit of Unit 2 in authentic communicative context."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («我哋_2_5»):",
+                    "prompt": "Type the 5-character Hanzi phrase for 'May I ask your honorable surname?' in Cantonese (請問你貴姓):",
                     "acceptedAnswers": [
-                        "我哋_2_5"
+                        "請問你貴姓",
+                        "cing2man6nei5gwai3sing3",
+                        "cing2 man6 nei5 gwai3 sing3",
+                        "Cing2 man6 nei5 gwai3 sing3",
+                        "Cing2man6nei5gwai3sing3",
+                        "請問你貴姓？"
                     ],
-                    "explanation": "The target keyword was: 【我哋_2_5】"
+                    "explanation": "請問你貴姓 (cing2 man6 nei5 gwai3 sing3) means 'may I ask your honorable surname?'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u3-l1": {
