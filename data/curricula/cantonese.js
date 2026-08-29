@@ -5379,63 +5379,69 @@
     },
     "hk-u11-l1": {
         "id": "hk-u11-l1",
-        "subject": "cantonese",
-        "unit": 11,
-        "lessonNumber": 1,
-        "title": "方位詞同搭車指路 (Directions & Transit) (Part 1)",
+        "unit": "hk-u11",
         "level": "B1",
-        "objective": "Comprehensive mastery of 搭地鐵同問路方向 (Directions & Transit).",
+        "objective": "Master directional coordinates (前面, 後面, 左手邊, 右手邊, 對面, 隔離) and navigational motion verbs (直行, 轉左, 轉右).",
+        "prerequisites": [
+            "hk-u10-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u10-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（搭地鐵同問路方向 (Directions & Transit) - 第1部分）入面，我哋會探討廣東話嘅核心語用語境同埋搭地鐵同問路方向 (Directions & Transit)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "喺香港或廣州等嶺南大都市問路指路，掌握地道嘅方位詞同轉彎動作係最基礎嘅導航技能！\n\n1. 核心空間方位詞 (Spatial Coordinate Nouns):\n- **前面 (cin4 min6)**：In front / ahead。\n- **後面 (hau6 min6)**：Behind。\n- **左手邊 (zo2 sau2 bin1)**：Left-hand side。\n- **右手邊 (jau6 sau2 bin1)**：Right-hand side。\n- **對面 (deoi3 min6)**：Opposite / across the road。\n- **隔離 (gaak3 lei4)**：Next door / right beside。\n\n2. 轉彎與直行動態詞 (Navigation Action Verbs):\n- **一直行 / 直行 (jik6 haang4 / zik6 haang4)**：Walk straight ahead。\n- **轉左 / 摱左 (zyun3 zo2 / maan1 zo2)**：Turn left。\n- **轉右 / 摱右 (zyun3 jau6 / maan1 jau6)**：Turn right。\n- **過馬路 (gwo3 maa5 lou6)**：Cross the street / zebra crossing。",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (11.1.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "沿住呢條街直行到十字路口，右手邊嗰棟紅色大廈就係圖書館。",
+                    "reading": "jyun4 zyu6 ni1 tiu4 gaai1 zik6 haang4 dou3 sap6 zi6 lou6 hau2, jau6 sau2 bin1 go2 dung6 hung4 sik1 daai6 haa6 zau6 hai6 tou4 syu1 gun2.",
+                    "translation": "Walk straight along this street to the crossroad; that red building on the right-hand side is the library."
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (11.1.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "間茶餐廳喺便利店隔離，過咗條斑馬線對面就見到。",
+                    "reading": "gaan1 caa4 caan1 teng1 hai2 bin6 lei6 dim3 gaak3 lei4, gwo3 zo2 tiu4 baan1 maa5 sin3 deoi3 min6 zau6 gin3 dou2.",
+                    "translation": "The cha chaan teng is next to the convenience store; you will see it right opposite after crossing the zebra crossing."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (11.1.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "行到前邊個商場路口轉左，再行兩分鐘就到港鐵站出入口。",
+                    "reading": "haang4 dou3 cin4 bin1 go3 soeng1 coeng4 lou6 hau2 zyun3 zo2, zoi3 haang4 loeng5 fan1 zung1 zau6 dou3 gong2 tit3 zaam6 ceot1 jap6 hau2.",
+                    "translation": "Walk to the mall intersection ahead and turn left, then walk two more minutes to arrive at the MTR station entrance."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 搭地鐵同問路方向 (Directions & Transit)"
+                "Direction Coordinates: 直行(Go straight) -> 轉左/轉右(Turn L/R) -> 隔離(Next door) -> 對面(Opposite)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "«隔離» (gaak3 lei4) literally means 'separated by a partition' and colloquially signifies 'neighboring / right next door', as in «隔離屋» (the house next door) and «隔離位» (the adjacent seat)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「搭地鐵同問路方向 (Directions & Transit)」喺第1節嘅地道廣東話表達？",
+                    "prompt": "向遊客指引「沿這條街直走，然後在路口向右轉」，地道廣東話應說：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (11.1.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (11.1.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (11.1.3)。"
+                        "沿住呢條街直行，喺路口轉右 (jyun4 zyu6 ni1 tiu4 gaai1 zik6 haang4, hai2 lou6 hau2 zyun3 jau6)",
+                        "沿這條街直走，路口向右",
+                        "向右走直路"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "直行 (go straight) and 轉右 (turn right) are the foundational directional commands."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「方位詞同搭車指路 (Directions & Transit)」語境嘅廣東話完整句子（練習 1）：",
+                    "prompt": "廣東話中表示「隔壁 / 緊挨著的旁邊」，最常用的地道詞彙是：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (11.1.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (11.1.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (11.1.3)。"
+                        "隔離 (gaak3 lei4 - Next door / beside)",
+                        "天邊",
+                        "地庫"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "隔離 (gaak3 lei4) means next door / neighboring / adjacent."
                 }
             ]
         },
@@ -5443,85 +5449,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「搭地鐵同問路方向 (Directions & Transit)」嘅日常商務與生活習慣（考核 11-1）？",
+                    "prompt": "關於廣東話中方位坐標（左手邊/右手邊/對面/隔離）及導航動詞（直行/轉左/轉右），下列哪一項表述完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (11.1.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (11.1.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (11.1.3)。"
+                        "「隔離」指隔壁鄰近，「對面」指街對面，指引方向使用「直行」與「轉左/轉右」 (gaak3 lei4 is next door, deoi3 min6 is opposite, navigation uses zik6 haang4 and zyun3 zo2/jau6)",
+                        "「轉左」在廣東話中是往後退的意思",
+                        "「隔離」在廣東話中只能指被警察逮捕"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "explanation": "Accurately frames spatial semantics and navigation commands in Cantonese."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («地鐵_11_1»):",
+                    "prompt": "Type the 3-character Hanzi phrase for 'right-hand side' in Cantonese (右手邊):",
                     "acceptedAnswers": [
-                        "地鐵_11_1"
+                        "右手邊",
+                        "jau6sau2bin1",
+                        "jau6 sau2 bin1",
+                        "Jau6 sau2 bin1",
+                        "Jau6sau2bin1",
+                        "右手边"
                     ],
-                    "explanation": "The target keyword was: 【地鐵_11_1】"
+                    "explanation": "右手邊 (jau6 sau2 bin1) means 'right-hand side' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u11-l2": {
         "id": "hk-u11-l2",
-        "subject": "cantonese",
-        "unit": 11,
-        "lessonNumber": 2,
-        "title": "方位詞同搭車指路 (Directions & Transit) (Part 2)",
+        "unit": "hk-u11",
         "level": "B1",
-        "objective": "Comprehensive mastery of 搭地鐵同問路方向 (Directions & Transit).",
+        "objective": "Master MTR and rail transit vocabulary: boarding (搭港鐵), line transfers (轉綫), platforms (月台), and public safety announcements (請勿靠近車門).",
+        "prerequisites": [
+            "hk-u11-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u11-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（搭地鐵同問路方向 (Directions & Transit) - 第2部分）入面，我哋會探討廣東話嘅核心語用語境同埋搭地鐵同問路方向 (Directions & Transit)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "港鐵（MTR）係香港市民最主要嘅交通動脈，每日穿梭港九新界，其乘車術語同廣播極具特色！\n\n1. 港鐵系統關鍵術語 (MTR System Terminology):\n- **搭港鐵 / 搭地鐵 (daap3 gong2 tit3 / daap3 dei6 tit3)**：Ride the MTR / subway。\n- **轉綫 (zyun3 sin3)**：Transfer rail lines（如：喺金鐘站轉港島綫）。\n- **幾號月台 (gei2 hou6 jyut6 toi4)**：Which platform number (如：1號月台往柴灣)。\n- **出閘 / 入閘 (ceot1 zaap6 / jap6 zaap6)**：Tap out / tap in at fare gates。\n- **A/B/C/D 出口 (ceot1 hau2)**：Station exits。\n\n2. 港鐵經典廣播 (Iconic MTR Trilingual Announcements):\n- **「下一站，金鐘。乘客可以轉乘港島綫、荃灣綫……」** (Next station, Admiralty...)\n- **「請勿靠近車門 (cing2 mat6 kaau3 gan6 ce1 mun4) / 嘟嘟嘟——」** (Please stand clear of the train doors)！",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (11.2.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "如果要去銅鑼灣，我哋要喺金鐘站轉港島綫往柴灣方向嘅列車。",
+                    "reading": "jyu4 gwo2 jiu3 heoi3 tung4 lo4 waan1, ngo5 dei6 jiu3 hai2 gam1 zung1 zaam6 zyun3 sin3 gong2 dou2 sin3 wong5 caai4 waan1 fong1 hoeng3 ge3 lit6 ce1.",
+                    "translation": "If we want to go to Causeway Bay, we need to transfer to the Island Line toward Chai Wan at Admiralty station."
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (11.2.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "請問中環站嘅D1出口係咪最快去到蘭桂坊呀？",
+                    "reading": "cing2 man6 zung1 waan4 zaam6 ge3 D1 ceot1 hau2 hai6 mai6 zeoi3 faai3 heoi3 dou3 laan4 gwai3 fong1 aa3?",
+                    "translation": "May I ask if Central station Exit D1 is the fastest way to get to Lan Kwai Fong?"
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (11.2.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "入閘嗰陣記得拎定八達通出嚟，嘟一聲就開閘。",
+                    "reading": "jap6 zaap6 go2 zan6 gei3 dak1 ling4 ding6 baat3 daat6 tung1 ceot1 lei4, dut1 jat1 seng1 zau6 hoi1 zaap6.",
+                    "translation": "Remember to get your Octopus ready when entering the gate; it opens with a beep."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 搭地鐵同問路方向 (Directions & Transit)"
+                "MTR Route Plan: 入閘(Tap in) -> 睇月台(Check platform) -> 轉綫(Interchange) -> 出閘(Tap out)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "The MTR door-closing warning chime («嘟嘟嘟») and trilingual announcement («請勿靠近車門 / Please stand clear of the train doors») are iconic sonic signatures of Hong Kong daily life."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「搭地鐵同問路方向 (Directions & Transit)」喺第2節嘅地道廣東話表達？",
+                    "prompt": "地鐵乘車過程中，在樞紐站由一條鐵路綫換乘另一條鐵路綫，廣東話稱為：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (11.2.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (11.2.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (11.2.3)。"
+                        "轉綫 (zyun3 sin3 - Transfer rail lines)",
+                        "換車胎",
+                        "下車走"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "轉綫 (zyun3 sin3) is the standard Cantonese term for train transfers/interchanges."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「方位詞同搭車指路 (Directions & Transit)」語境嘅廣東話完整句子（練習 2）：",
+                    "prompt": "港鐵關門廣播中提醒乘客不要貼近即將關閉的列車車門，經典警示語是：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (11.2.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (11.2.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (11.2.3)。"
+                        "請大聲叫喊",
+                        "請勿靠近車門 (cing2 mat6 kaau3 gan6 ce1 mun4 - Please stand clear of train doors)",
+                        "請用力推門"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "請勿靠近車門 is the iconic Hong Kong MTR safety announcement."
                 }
             ]
         },
@@ -5529,85 +5547,99 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「搭地鐵同問路方向 (Directions & Transit)」嘅日常商務與生活習慣（考核 11-2）？",
+                    "prompt": "關於港鐵日常搭乘用語（轉綫、月台、出入閘、請勿靠近車門），下列哪一項表述完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (11.2.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (11.2.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (11.2.3)。"
+                        "「轉綫」在香港是指把車票撕掉",
+                        "港鐵站沒有任何出口標識",
+                        "地鐵裡換乘綫路稱為「轉綫」，候車區為「月台」，感應閘機稱「出入閘」，經典廣播為「請勿靠近車門」 (Transfer is zyun3 sin3, platform is jyut6 toi4, gates are zaap6, iconic warning is cing2 mat6 kaau3 gan6 ce1 mun4)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "Accurately details transit vocabulary and cultural audio cues of Hong Kong MTR."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («地鐵_11_2»):",
+                    "prompt": "Type the 2-character Hanzi phrase for 'transfer rail lines / train interchange' in Cantonese (轉綫):",
                     "acceptedAnswers": [
-                        "地鐵_11_2"
+                        "轉綫",
+                        "zyun3sin3",
+                        "zyun3 sin3",
+                        "Zyun3 sin3",
+                        "Zyun3sin3",
+                        "轉線",
+                        "转线",
+                        "转綫"
                     ],
-                    "explanation": "The target keyword was: 【地鐵_11_2】"
+                    "explanation": "轉綫 (zyun3 sin3) means 'transfer rail lines' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u11-l3": {
         "id": "hk-u11-l3",
-        "subject": "cantonese",
-        "unit": 11,
-        "lessonNumber": 3,
-        "title": "方位詞同搭車指路 (Directions & Transit) (Part 3)",
+        "unit": "hk-u11",
         "level": "B1",
-        "objective": "Comprehensive mastery of 搭地鐵同問路方向 (Directions & Transit).",
+        "objective": "Master riding double-decker buses (雙層巴士) and calling out stops on public light buses / minibuses (有落 / 燈位有落 / 前面有落).",
+        "prerequisites": [
+            "hk-u11-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u11-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（搭地鐵同問路方向 (Directions & Transit) - 第3部分）入面，我哋會探討廣東話嘅核心語用語境同埋搭地鐵同問路方向 (Directions & Transit)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "香港嘅雙層巴士同公共小巴（Van仔）係極具本土特色嘅街頭符號！尤其是搭無報站系統嘅傳統小巴，「大聲叫落車」係遊客同初學者嘅必修勇氣測試！\n\n1. 雙層巴士用語 (Double-Decker Bus Vocabulary):\n- **雙層巴士 (soeng1 cang4 baa1 si2)**：Double-decker bus。\n- **上層 (soeng6 cang4) / 下層 (haa6 cang4)**：Upper deck / lower deck。\n- **頂閘 (deng2 zaap6)**：Bus so packed that passengers are standing right at the front door。\n- **撳鐘 (gam6 zung1)**：Press the bell to request a stop。\n\n2. 小巴叫落車神句 (Minibus Drop-off Shouting Formula):\n- 小巴通常冇落車鐘，乘客需要喺到達前大聲同司機講：\n- **「前面有落，唔該！」** (Dropping off up ahead, please!)\n- **「燈位有落，司機！」** (Dropping off at the traffic lights, driver!)\n- **「路口 / 油站 / 戲院有落！」** (Dropping off at intersection / petrol station / cinema!)",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (11.3.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "搭雙層巴士坐上層最前排，可以一覽無餘欣賞香港嘅繁華街景。",
+                    "reading": "daap3 soeng1 cang4 baa1 si2 co5 soeng6 cang4 zeoi3 cin4 paai4, ho2 ji5 jat1 laam5 mou4 jyu4 jan1 soeng2 hoeng1 gong2 ge3 faan4 waa4 gaai1 ging2.",
+                    "translation": "Riding a double-decker bus in the front row of the upper deck allows you to enjoy an unobstructed view of Hong Kong's bustling streetscapes."
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (11.3.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "（喺小巴入面大聲叫）司機，前面個小巴站有落，唔該晒！",
+                    "reading": "(hai2 siu2 baa1 jap6 min6 daai6 seng1 giu3) si1 gei1, cin4 min6 go3 siu2 baa1 zaam6 jau5 lok6, m4 goi1 saai3!",
+                    "translation": "(Shouting inside the minibus) Driver, dropping off at the minibus stop ahead, thank you very much!"
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (11.3.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "呢架綠色小巴有八達通分段收費，上車嗰陣記得拍卡。",
+                    "reading": "ni1 gaa3 luk6 sik1 siu2 baa1 jau5 baat3 daat6 tung1 fan1 dyun6 sau1 fai3, soeng5 ce1 go2 zan6 gei3 dak1 paak3 kaat1.",
+                    "translation": "This green minibus has Octopus staged sectional fares; remember to tap your card when boarding."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 搭地鐵同問路方向 (Directions & Transit)"
+                "Minibus Shouting Rule: 地標(Nearby landmark) + 有落(jau5 lok6) + 唔該(Please) = 司機即停!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "Calling «有落» (jau5 lok6) clearly and loudly before your stop on a red or green minibus is a rite of passage for living like a true local in Hong Kong."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「搭地鐵同問路方向 (Directions & Transit)」喺第3節嘅地道廣東話表達？",
+                    "prompt": "搭乘香港公共小巴快到目的地時，向司機呼喊要求下車的最經典口號是：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (11.3.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (11.3.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (11.3.3)。"
+                        "我要下去",
+                        "前面有落，唔該！ (cin4 min6 jau5 lok6, m4 goi1! - Dropping off up ahead, please!)",
+                        "停下停下"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "「前面有落，唔該！」 is the universal minibus drop-off formula."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「方位詞同搭車指路 (Directions & Transit)」語境嘅廣東話完整句子（練習 3）：",
+                    "prompt": "在廣東話中形容早高峰時巴士或地鐵極度擁擠、門口乘客擠滿車門的生動俗語是：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (11.3.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (11.3.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (11.3.3)。"
+                        "頂閘 (deng2 zaap6 - Packed right up to the doors/gates)",
+                        "空了",
+                        "沒人"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "頂閘 (deng2 zaap6) describes buses/trains packed right to the fare doors."
                 }
             ]
         },
@@ -5615,85 +5647,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「搭地鐵同問路方向 (Directions & Transit)」嘅日常商務與生活習慣（考核 11-3）？",
+                    "prompt": "關於香港雙層巴士乘坐體驗與小巴叫落車文化（有落/燈位有落/頂閘），下列哪一項表述完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (11.3.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (11.3.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (11.3.3)。"
+                        "小巴上不需要喊話，只要跳車即可",
+                        "香港小巴乘客在到站前需大聲向司機喊「有落（如前面有落/燈位有落）」；雙層巴士上層視野開闊，人滿為患稱「頂閘」 (Minibus riders shout jau5 lok6 for stops; double decker upper deck offers views, packed bus is deng2 zaap6)",
+                        "「有落」在廣東話中意思是天上在下大雨"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "Accurately encapsulates Hong Kong's world-famous minibus shout etiquette and bus terminology."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («地鐵_11_3»):",
+                    "prompt": "Type the 2-character Hanzi phrase for 'dropping off here / getting off (transit)' in Cantonese (有落):",
                     "acceptedAnswers": [
-                        "地鐵_11_3"
+                        "有落",
+                        "jau5lok6",
+                        "jau5 lok6",
+                        "Jau5 lok6",
+                        "Jau5lok6",
+                        "有下"
                     ],
-                    "explanation": "The target keyword was: 【地鐵_11_3】"
+                    "explanation": "有落 (jau5 lok6) means 'dropping off / getting off' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u11-l4": {
         "id": "hk-u11-l4",
-        "subject": "cantonese",
-        "unit": 11,
-        "lessonNumber": 4,
-        "title": "方位詞同搭車指路 (Directions & Transit) (Part 4)",
+        "unit": "hk-u11",
         "level": "B1",
-        "objective": "Comprehensive mastery of 搭地鐵同問路方向 (Directions & Transit).",
+        "objective": "Master hailing taxis (截的士), three taxi colors (紅的, 綠的, 藍的), routing instructions, and tunnel fee charges (隧道費).",
+        "prerequisites": [
+            "hk-u11-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u11-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（搭地鐵同問路方向 (Directions & Transit) - 第4部分）入面，我哋會探討廣東話嘅核心語用語境同埋搭地鐵同問路方向 (Directions & Transit)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "香港嘅計程車叫做「的士 (dik1 si2)」，車身顏色分為三種，收費同運營區域各不相同！\n\n1. 香港三大計程車種類 (Three Hong Kong Taxi Classes):\n- **紅的 (hung4 dik1)**：Urban red taxi（行走全港九龍新界及大嶼山）。\n- **綠的 (luk6 dik1)**：New Territories green taxi（只限新界郊區）。\n- **藍的 (laam4 dik1)**：Lantau blue taxi（只限大嶼山及赤鱲角機場）。\n\n2. 截的士與乘搭用語 (Taxi Riding Expressions):\n- **截的士 / 攔的士 (zit6 dik1 si2 / laan4 dik1 si2)**：Hail a taxi。\n- **落錶 (lok6 biu1)**：Start the meter flagfall charge。\n- **跳錶 (tiu3 biu1)**：Meter tick / fare increment。\n- **過海 (gwo3 hoi2)**：Cross Victoria Harbour (要加收來回隧道費)。\n- **「司機，唔該去中環IFC，行紅隧定係西隧呀？」** (Driver, to Central IFC please; via Cross-Harbour or Western tunnel?)\n- **「喺前面路口停低就得㗎喇！」** (Just stop at the intersection ahead!)",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (11.4.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "我哋趕住去機場博覽館睇演唱會，快啲喺街口截架紅的啦。",
+                    "reading": "ngo5 dei6 gon2 zyu6 heoi3 gei1 coeng4 bok3 laam5 gun2 tai2 jin2 coeng3 wui6, faai3 di1 hai2 gaai1 hau2 zit6 gaa3 hung4 dik1 laa1.",
+                    "translation": "We are rushing to the AsiaWorld-Expo for a concert; quick, let's hail a red taxi at the street corner."
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (11.4.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "司機，唔該去尖沙咀海港城，麻煩你行紅隧，唔該晒！",
+                    "reading": "si1 gei1, m4 goi1 heoi3 zim1 saa1 zeoi2 hoi2 gong2 sing4, maa4 faan4 nei5 haang4 hung4 seon6, m4 goi1 saai3!",
+                    "translation": "Driver, please go to Tsim Sha Tsui Harbour City, via the Cross-Harbour Tunnel please, thank you very much!"
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (11.4.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "去到酒店門口停低畀我哋落車啦，唔使找散銀喇。",
+                    "reading": "heoi3 dou3 zau2 dim3 mun4 hau2 ting4 dai1 bei2 ngo5 dei6 lok6 ce1 laa1, m4 sai2 zaau2 saan2 ngan2 laa3.",
+                    "translation": "Pull over at the hotel entrance to let us drop off, keep the small change."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 搭地鐵同問路方向 (Directions & Transit)"
+                "Taxi Blueprint: 截的(Hail) -> 講目的地(Set destination) -> 揀隧道(Pick tunnel) -> 落車畀錢(Pay fare)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "«過海» (crossing the harbour between Hong Kong Island and Kowloon) by taxi incurs tunnel tolls («隧道費»); historically drivers also added the return toll unless hailed at a designated cross-harbour taxi stand («過海的士站»)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「搭地鐵同問路方向 (Directions & Transit)」喺第4節嘅地道廣東話表達？",
+                    "prompt": "在廣東話中，在街頭招手攔截計程車的標準動詞短語是：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (11.4.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (11.4.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (11.4.3)。"
+                        "截的士 (zit6 dik1 si2 - Hail a taxi)",
+                        "撞的士",
+                        "追的士"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "截的士 (zit6 dik1 si2) is the standard Cantonese term for hailing a cab."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「方位詞同搭車指路 (Directions & Transit)」語境嘅廣東話完整句子（練習 4）：",
+                    "prompt": "香港市區（港島與九龍）通行無阻、車身為紅色的計程車，口語俗稱：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (11.4.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (11.4.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (11.4.3)。"
+                        "綠的",
+                        "紅的 (hung4 dik1 - Urban red taxi)",
+                        "黃的"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "紅的 (hung4 dik1) is the urban red taxi covering Hong Kong Island and Kowloon."
                 }
             ]
         },
@@ -5701,85 +5745,98 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「搭地鐵同問路方向 (Directions & Transit)」嘅日常商務與生活習慣（考核 11-4）？",
+                    "prompt": "關於香港的士文化、車種分類（紅的/綠的/藍的）與乘搭用語（截的士/落錶/行隧道），下列哪一項表述完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (11.4.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (11.4.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (11.4.3)。"
+                        "香港的士全部免費乘坐",
+                        "「綠的」可以開去中環",
+                        "在街頭叫車稱「截的士」，市區為「紅的」，新界為「綠的」，大嶼山為「藍的」，過海需支付「隧道費」 (Hailing is zit6 dik1 si2; red for urban, green for NT, blue for Lantau; harbour crossing incurs tunnel fees)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "Accurately details taxi typology, legal operating zones, and fare conventions."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («地鐵_11_4»):",
+                    "prompt": "Type the 3-character Hanzi phrase for 'hailing a taxi' in Cantonese (截的士):",
                     "acceptedAnswers": [
-                        "地鐵_11_4"
+                        "截的士",
+                        "zit6dik1si2",
+                        "zit6 dik1 si2",
+                        "Zit6 dik1 si2",
+                        "Zit6dik1si2",
+                        "攔的士",
+                        "打的"
                     ],
-                    "explanation": "The target keyword was: 【地鐵_11_4】"
+                    "explanation": "截的士 (zit6 dik1 si2) means 'hailing a taxi' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u11-l5": {
         "id": "hk-u11-l5",
-        "subject": "cantonese",
-        "unit": 11,
-        "lessonNumber": 5,
-        "title": "方位詞同搭車指路 (Directions & Transit) (Part 5)",
+        "unit": "hk-u11",
         "level": "B1",
-        "objective": "Comprehensive mastery of 搭地鐵同問路方向 (Directions & Transit).",
+        "objective": "Synthesize all cardinal directions, navigation verbs, MTR transfers, bus/minibus terms, and taxi dialogues in a full-length Tsim Sha Tsui waterfront travel scenario.",
+        "prerequisites": [
+            "hk-u11-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u11-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（搭地鐵同問路方向 (Directions & Transit) - 第5部分）入面，我哋會探討廣東話嘅核心語用語境同埋搭地鐵同問路方向 (Directions & Transit)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "喺呢課綜合實戰篇，我哋將第十一單元學到嘅所有方位詞（直行、轉左、轉右、隔離、對面）同埋交通工具術語（港鐵、轉綫、雙層巴士、截的士）融會貫通，演繹遊覽尖沙咀維港海傍嘅全景導航！\n\n1. 尖沙咀地標與交通庫 (Tsim Sha Tsui Transit Lexicon):\n- **尖沙咀 (zim1 saa1 zeoi2)**：Tsim Sha Tsui (TST)。\n- **維多利亞港 / 維港 (wai4 do1 lei6 aa3 gong2 / wai4 gong2)**：Victoria Harbour。\n- **天星碼頭 (tin1 sing1 maa5 tau4)**：Star Ferry Pier。\n- **海濱長廊 / 星光大道 (hoi2 ban1 coeng4 long4 / sing1 gwong1 daai6 dou6)**：Avenue of Stars。\n- **問路 (man3 lou6)**：Ask for directions。\n\n2. 第十一單元實戰對話範例 (Unit 11 Master Urban Transit Dialogue):\n- **遊客張生**：‘唔該借借！請問尖沙咀天星碼頭同星光大道點樣行呀？’\n- **熱心街坊**：‘好近咋！你沿住呢條彌敦道直行，過咗前面個十字路口轉右。’\n- **遊客張生**：‘轉右之後仲要行幾耐呀？’\n- **熱心街坊**：‘行大約五分鐘就見到香港太空館，隔離對面就係海傍天星碼頭同星光大道喇！’\n- **遊客張生**：‘如果回程想去中環，搭咩最方便呀？’\n- **熱心街坊**：‘你可以喺碼頭搭天星小輪過海，或者入港鐵尖沙咀站轉荃灣綫過海，都好快好平！’\n- **遊客張生**：‘明白晒，唔該晒你呀街坊！’",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (11.5.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "由尖沙咀天星碼頭搭天星小輪過中環，只要幾蚊港幣，仲可以吹住海風欣賞維港夜景。",
+                    "reading": "jau4 zim1 saa1 zeoi2 tin1 sing1 maa5 tau4 daap3 tin1 sing1 siu2 leon4 gwo3 zung1 waan4, zi2 jiu3 gei2 man1 gong2 bai6, zung6 ho2 ji5 ceoi1 zyu6 hoi2 fung1 jan1 soeng2 wai4 gong2 je6 ging2.",
+                    "translation": "Taking the Star Ferry from Tsim Sha Tsui Pier across to Central costs just a few HK dollars, and you can enjoy the breeze and Victoria Harbour night skyline."
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (11.5.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "行到路口千祈唔好轉錯彎，認住右手邊嗰棟鐘樓就唔會迷路。",
+                    "reading": "haang4 dou3 lou6 hau2 cin1 kei4 m4 hou2 zyun3 co3 waan1, jing6 zyu6 jau6 sau2 bin1 go2 dung6 zung1 lau4 zau6 m4 wui5 mai4 lou6.",
+                    "translation": "Don't make the wrong turn at the intersection; look out for the Clock Tower on your right-hand side and you won't get lost."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (11.5.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "香港嘅公共交通網絡四通八達，無論搭港鐵、巴士定係的士都非常方便快捷。",
+                    "reading": "hoeng1 gong2 ge3 gung1 gung6 gaau1 tung1 mong5 lok3 sei3 tung1 baat3 daat6, mou4 leon6 daap3 gong2 tit3, baa1 si2 ding6 hai6 dik1 si2 dou1 fei1 soeng4 fong1 bin6 faai3 zit3.",
+                    "translation": "Hong Kong's public transit network reaches everywhere; taking MTR, buses, or taxis is exceptionally convenient and swift."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 搭地鐵同問路方向 (Directions & Transit)"
+                "TST Transit Map: 彌敦道直行(Walk Nathan Rd) -> 轉右見碼頭(Turn right to Pier) -> 搭天星過海(Take Star Ferry)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "The «天星小輪» (Star Ferry) operating between TST and Central since 1888 is celebrated by National Geographic as one of the '50 Places of a Lifetime'."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「搭地鐵同問路方向 (Directions & Transit)」喺第5節嘅地道廣東話表達？",
+                    "prompt": "香港九龍半島南端最繁華、擁有維港海傍及天星碼頭的著名地標區域是：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (11.5.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (11.5.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (11.5.3)。"
+                        "尖沙咀 (zim1 saa1 zeoi2 - Tsim Sha Tsui)",
+                        "屯門",
+                        "沙田"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "尖沙咀 (zim1 saa1 zeoi2) is the world-famous waterfront and cultural district."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「方位詞同搭車指路 (Directions & Transit)」語境嘅廣東話完整句子（練習 5）：",
+                    "prompt": "在尖沙咀遊覽完畢想要橫渡維多利亞港前往中環，最經典浪漫且廉價的交通工具是：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (11.5.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (11.5.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (11.5.3)。"
+                        "天星小輪 (tin1 sing1 siu2 leon4 - Star Ferry)",
+                        "步行游泳",
+                        "直升機"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "天星小輪 (tin1 sing1 siu2 leon4) is the historic Star Ferry across Victoria Harbour."
                 }
             ]
         },
@@ -5787,24 +5844,30 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「搭地鐵同問路方向 (Directions & Transit)」嘅日常商務與生活習慣（考核 11-5）？",
+                    "prompt": "關於廣東第十一單元「方位詞同搭車指路」的綜合應用（直行/轉彎/港鐵/巴士/的士/尖沙咀海傍），下列哪一項總括完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (11.5.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (11.5.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (11.5.3)。"
+                        "城市導航融匯了方位指引（直行/轉左/轉右）、多模態公共交通（港鐵轉綫/巴士有落/截的士）與地標尋訪（尖沙咀天星碼頭），構成流暢的都會出行能力 (Urban navigation unites directional guidance, multimodal transit like MTR/bus/taxi, and landmark navigation around TST)",
+                        "在香港只能靠步行，沒有任何交通工具",
+                        "尖沙咀在大嶼山島上"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "Masterfully synthesizes the directional lexicon and urban transit literacy of Hong Kong."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («地鐵_11_5»):",
+                    "prompt": "Type the 3-character Hanzi phrase for 'Tsim Sha Tsui' in Cantonese (尖沙咀):",
                     "acceptedAnswers": [
-                        "地鐵_11_5"
+                        "尖沙咀",
+                        "zim1saa1zeoi2",
+                        "zim1 saa1 zeoi2",
+                        "Zim1 saa1 zeoi2",
+                        "Zim1saa1zeoi2",
+                        "尖沙嘴"
                     ],
-                    "explanation": "The target keyword was: 【地鐵_11_5】"
+                    "explanation": "尖沙咀 (zim1 saa1 zeoi2) means 'Tsim Sha Tsui' in Cantonese."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u12-l1": {

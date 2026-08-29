@@ -54,14 +54,14 @@
     "hk-u10-l2",
     "hk-u10-l3",
     "hk-u10-l4",
-    "hk-u10-l5"
-  ],
-  "stubOnly": [
+    "hk-u10-l5",
     "hk-u11-l1",
     "hk-u11-l2",
     "hk-u11-l3",
     "hk-u11-l4",
-    "hk-u11-l5",
+    "hk-u11-l5"
+  ],
+  "stubOnly": [
     "hk-u12-l1",
     "hk-u12-l2",
     "hk-u12-l3",
