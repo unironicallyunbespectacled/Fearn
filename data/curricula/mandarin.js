@@ -1936,63 +1936,69 @@
     },
     "zh-u4-l1": {
         "id": "zh-u4-l1",
-        "subject": "mandarin",
-        "unit": 4,
-        "lessonNumber": 1,
-        "title": "量词系统与名词修饰 (Classifiers & Noun Modification) (Part 1)",
+        "unit": "zh-u4",
         "level": "A1",
-        "objective": "Comprehensive mastery of 汉语量词系统 (Classifiers: 个/本/张/条).",
+        "objective": "Master the Mandarin kinship terminology for the nuclear family, distinguishing elder versus younger siblings (哥哥/弟弟, 姐姐/妹妹) and parental terms (爸爸/妈妈).",
+        "prerequisites": [
+            "zh-u3-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u3-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「量词系统与名词修饰 (Classifiers & Noun Modification)」（第1部分）的核心句法结构与汉语量词系统 (Classifiers: 个/本/张/条)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "汉语亲属称谓体系高度精确，清晰区分长幼、性别与父系母系。\n\n1. 核心家庭成员 (Nuclear Family Terms):\n- **爸爸 (bàba)**：父亲 (Father / Dad)\n- **妈妈 (māma)**：母亲 (Mother / Mom)\n- **哥哥 (gēge)**：兄长 / 年长的哥哥 (Elder brother)\n- **弟弟 (dìdi)**：年幼的弟弟 (Younger brother)\n- **姐姐 (jiějie)**：年长的姐姐 (Elder sister)\n- **妹妹 (mèimei)**：年幼的妹妹 (Younger sister)\n- **父母 (fùmǔ)**：爸爸妈妈统称 (Parents)\n- **兄弟姐妹 (xiōngdì jiěmèi)**：兄弟与姐妹统称 (Brothers and sisters / Siblings)\n\n2. 语音特点：\n- 汉语家庭叠字称谓（如：爸爸、妈妈、哥哥）第二个字一律读**轻声 (Neutral Tone)**。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (4.1.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "我有一个哥哥和一个妹妹，我们感情非常好。",
+                    "reading": "Wǒ yǒu yí gè gēge hé yí gè mèimei, wǒmen gǎnqíng fēicháng hǎo.",
+                    "translation": "I have an elder brother and a younger sister, we have a very good relationship."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (4.1.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "我爸爸是工程师，我妈妈是中学教师。",
+                    "reading": "Wǒ bàba shì gōngchéngshī, wǒ māma shì zhōngxué jiàoshī.",
+                    "translation": "My father is an engineer, my mother is a middle school teacher."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (4.1.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "你有几个兄弟姐妹？——我没有姐姐，只有一个弟弟。",
+                    "reading": "Nǐ yǒu jǐ gè xiōngdì jiěmèi? —— Wǒ méiyǒu jiějie, zhǐ yǒu yí gè dìdi.",
+                    "translation": "How many siblings do you have? — I have no elder sister, only one younger brother."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 汉语量词系统 (Classifiers: 个/本/张/条)"
+                "Elder brother = 哥哥 (gēge), Younger brother = 弟弟 (dìdi); Elder sister = 姐姐 (jiějie), Younger sister = 妹妹 (mèimei)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Chinese culture traditionally emphasizes filial piety (孝 xiào) and precise generational hierarchy, which is why sibling terms are strictly separated by age rather than using a single generic word like 'brother' or 'sister'."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「汉语量词系统 (Classifiers: 个/本/张/条)」在第1小节中的标准汉语语法规范？",
+                    "prompt": "汉语中称呼‘比自己年龄小的弟弟’应使用哪个词汇？",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (4.1.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (4.1.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (4.1.3)。"
+                        "弟弟 (dìdi)",
+                        "哥哥 (gēge)",
+                        "姐姐 (jiějie)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "弟弟 (dìdi) specifically means younger brother."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「量词系统与名词修饰 (Classifiers & Noun Modification)」语用情境与完整句式的选项（练习 1）：",
+                    "prompt": "称呼家庭中‘爸爸和妈妈’两人的统称词汇是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (4.1.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (4.1.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (4.1.3)。"
+                        "兄弟姐妹",
+                        "父母 (fùmǔ)",
+                        "老师"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "父母 (fùmǔ) is the formal collective term for parents."
                 }
             ]
         },
@@ -2000,85 +2006,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「汉语量词系统 (Classifiers: 个/本/张/条)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 4-1）？",
+                    "prompt": "句子‘我有一个姐姐’表示说话人拥有：",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (4.1.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (4.1.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (4.1.3)。"
+                        "一个比自己年幼的妹妹",
+                        "一个比自己年长的姐姐 (One elder sister)",
+                        "一个弟弟"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "姐姐 specifically refers to an elder sister."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («一个_4_1»):",
+                    "prompt": "Type the Hanzi for 'Mother / Mom' (妈妈):",
                     "acceptedAnswers": [
-                        "一个_4_1"
+                        "妈妈",
+                        "mama",
+                        "māma",
+                        "Māma",
+                        "Mama",
+                        "媽媽"
                     ],
-                    "explanation": "The target keyword was: 【一个_4_1】"
+                    "explanation": "妈妈 (Māma) means 'mother / mom'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u4-l2": {
         "id": "zh-u4-l2",
-        "subject": "mandarin",
-        "unit": 4,
-        "lessonNumber": 2,
-        "title": "量词系统与名词修饰 (Classifiers & Noun Modification) (Part 2)",
+        "unit": "zh-u4",
         "level": "A1",
-        "objective": "Comprehensive mastery of 汉语量词系统 (Classifiers: 个/本/张/条).",
+        "objective": "Master the fundamental structural particle 的 (de) to form possessive and attributive noun phrases (Noun/Pronoun + 的 + Noun), including conditions where 的 can be omitted with close relations.",
+        "prerequisites": [
+            "zh-u4-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u4-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「量词系统与名词修饰 (Classifiers & Noun Modification)」（第2部分）的核心句法结构与汉语量词系统 (Classifiers: 个/本/张/条)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "结构助词「的 (de)」是汉语中使用频率极高的核心虚词，主要用于连接定语和中心语，表示所属关系（相当于英语的 's 或 of）。\n\n1. 基本所有格结构 (Possessive Pattern):\n- **修饰语 (Modifier) + 的 (de) + 中心名词 (Head Noun)**\n- 示例：\n  - 我的书 (wǒ de shū — my book)\n  - 老师的电脑 (lǎoshī de diànnǎo — teacher's computer)\n  - 中国的首都 (Zhōngguó de shǒudū — China's capital)\n\n2. 「的」的省略规则 (Omission of 的):\n- 当修饰语是人称代词，而中心语是**亲属称谓**或**关系极其亲密的集体/机构**时，「的」常可自然省略：\n  - 我爸爸（= 我的爸爸）\n  - 我家（= 我的家）\n  - 我们学校（= 我们的学校）。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (4.2.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "这是我的中文词典，那是他的笔记本。",
+                    "reading": "Zhè shì wǒ de zhōngwén cídiǎn, nà shì tā de bǐjìběn.",
+                    "translation": "This is my Chinese dictionary, that is his notebook."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (4.2.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "我妈妈和李老师是大学同学。",
+                    "reading": "Wǒ māma hé Lǐ lǎoshī shì dàxué tóngxué.",
+                    "translation": "My mother and Teacher Li are university classmates."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (4.2.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "这是我们学校最大的图书馆。",
+                    "reading": "Zhè shì wǒmen xuéxiào zuì dà de túshūguǎn.",
+                    "translation": "This is the largest library in our school."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 汉语量词系统 (Classifiers: 个/本/张/条)"
+                "«的» (de) connects Possessor to Object! (我的书, 他的猫). Drop 的 for close family (我妈妈, 我家)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Omitting «的» when referring to family members («我妈妈», «我哥哥») conveys personal warmth and closeness; inserting «的» («我的妈妈») sounds slightly more formal or distancing."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「汉语量词系统 (Classifiers: 个/本/张/条)」在第2小节中的标准汉语语法规范？",
+                    "prompt": "表达‘李华的书’时，连接人名与名词‘书’的助词是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (4.2.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (4.2.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (4.2.3)。"
+                        "的：李华的书 (Lǐ Huá de shū)",
+                        "得",
+                        "地"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "Structural particle 的 (de) indicates possession."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「量词系统与名词修饰 (Classifiers & Noun Modification)」语用情境与完整句式的选项（练习 2）：",
+                    "prompt": "在口语中，当表达‘我的家 / 我的妈妈’等极亲密关系时，结构助词‘的’通常可以：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (4.2.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (4.2.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (4.2.3)。"
+                        "必须重复两次",
+                        "自然省略：我家、我妈妈 (Can be naturally omitted)",
+                        "变成否定词"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "的 is commonly omitted before close family and home (我妈妈, 我家)."
                 }
             ]
         },
@@ -2086,85 +2104,94 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「汉语量词系统 (Classifiers: 个/本/张/条)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 4-2）？",
+                    "prompt": "下列哪个短语准确表达了‘他的老师’？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (4.2.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (4.2.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (4.2.3)。"
+                        "他的老师 (Tā de lǎoshī)",
+                        "他是老师",
+                        "老师他"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "explanation": "他的老师 (Tā de lǎoshī) uses possessive 的."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («一个_4_2»):",
+                    "prompt": "Type the Hanzi for the possessive particle (的):",
                     "acceptedAnswers": [
-                        "一个_4_2"
+                        "的",
+                        "de",
+                        "De"
                     ],
-                    "explanation": "The target keyword was: 【一个_4_2】"
+                    "explanation": "的 (de) is the possessive / attributive structural particle."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u4-l3": {
         "id": "zh-u4-l3",
-        "subject": "mandarin",
-        "unit": 4,
-        "lessonNumber": 3,
-        "title": "量词系统与名词修饰 (Classifiers & Noun Modification) (Part 3)",
+        "unit": "zh-u4",
         "level": "A1",
-        "objective": "Comprehensive mastery of 汉语量词系统 (Classifiers: 个/本/张/条).",
+        "objective": "Master the existential and possessive verb 有 (yǒu: to have / there is) and its mandatory negative form 没有 (méiyǒu: not have / there is not), avoiding the incorrect *不有.",
+        "prerequisites": [
+            "zh-u4-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u4-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「量词系统与名词修饰 (Classifiers & Noun Modification)」（第3部分）的核心句法结构与汉语量词系统 (Classifiers: 个/本/张/条)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "动词「有 (yǒu)」兼具‘拥有 (Possession)’和‘存在 (Existence)’两种核心功能。\n\n1. 肯定句型 (Affirmative Pattern):\n- **主语 / 处所 + 有 + 宾语 (Subject/Location + yǒu + Object)**\n- 示例：\n  - 我有两个姐姐。(Wǒ yǒu liǎng gè jiějie. — I have two elder sisters.)\n  - 桌子上有一本书。(Zhuōzi shang yǒu yì běn shū. — There is a book on the table.)\n\n2. 否定句型 (Negative Pattern with 没有):\n- **主语 + 没有 + 宾语 (Subject + méiyǒu + Object)**\n- **关键语法铁律**：动词「有」的否定词**只能用「没 (méi)」**，绝对不能用「*不有」！\n  - 错误：*我不有哥哥。\n  - 正确：**我没有哥哥**。(Wǒ méiyǒu gēge. — I don't have an elder brother.)",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (4.3.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "我家有四口人：爸爸、妈妈、弟弟和我。",
+                    "reading": "Wǒ jiā yǒu sì kǒu rén: bàba, māma, dìdi hé wǒ.",
+                    "translation": "My family has four people: dad, mom, younger brother, and me."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (4.3.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "我没有中文名字，你能帮我起一个吗？",
+                    "reading": "Wǒ méiyǒu zhōngwén míngzi, nǐ néng bāng wǒ qǐ yí gè ma?",
+                    "translation": "I don't have a Chinese name, can you help me choose one?"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (4.3.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "今天下午我们没有课，可以去公园散步。",
+                    "reading": "Jīntiān xiàwǔ wǒmen méiyǒu kè, kěyǐ qù gōngyuán sànbù.",
+                    "translation": "We have no classes this afternoon, we can take a walk in the park."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 汉语量词系统 (Classifiers: 个/本/张/条)"
+                "«有» = Have / Exist! Never say *不有 — Always say «没有» (méiyǒu)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "The traditional Chinese greeting «有空吗？» (Yǒu kòng ma? — Do you have free time?) is a standard warm opener before inviting friends to eat or chat."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「汉语量词系统 (Classifiers: 个/本/张/条)」在第3小节中的标准汉语语法规范？",
+                    "prompt": "在汉语中，否定动词‘有 (to have)’的唯一正确语法形式是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (4.3.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (4.3.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (4.3.3)。"
+                        "没有 (méiyǒu)",
+                        "不有 (*bù yǒu - incorrect)",
+                        "非有"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "The verb 有 must always be negated with 没 (没有), never *不有."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「量词系统与名词修饰 (Classifiers & Noun Modification)」语用情境与完整句式的选项（练习 3）：",
+                    "prompt": "句子‘我没有妹妹’表达的意思是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (4.3.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (4.3.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (4.3.3)。"
+                        "我有两个妹妹",
+                        "我没有妹妹 (I do not have a younger sister)",
+                        "妹妹不在家"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "我没有妹妹 translates directly to 'I do not have a younger sister'."
                 }
             ]
         },
@@ -2172,85 +2199,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「汉语量词系统 (Classifiers: 个/本/张/条)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 4-3）？",
+                    "prompt": "表达‘他有一本中文书’的正确否定形式是：",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (4.3.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (4.3.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (4.3.3)。"
+                        "他不有一本中文书",
+                        "他没有中文书 (Tā méiyǒu zhōngwén shū)",
+                        "他是没有中文书"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "explanation": "Negation of 有 requires 没有: 他没有中文书."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («一个_4_3»):",
+                    "prompt": "Type the Hanzi for the verb 'to have / exist' (有):",
                     "acceptedAnswers": [
-                        "一个_4_3"
+                        "有",
+                        "you",
+                        "yǒu",
+                        "Yǒu",
+                        "You"
                     ],
-                    "explanation": "The target keyword was: 【一个_4_3】"
+                    "explanation": "有 (yǒu) means 'to have / there is'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u4-l4": {
         "id": "zh-u4-l4",
-        "subject": "mandarin",
-        "unit": 4,
-        "lessonNumber": 4,
-        "title": "量词系统与名词修饰 (Classifiers & Noun Modification) (Part 4)",
+        "unit": "zh-u4",
         "level": "A1",
-        "objective": "Comprehensive mastery of 汉语量词系统 (Classifiers: 个/本/张/条).",
+        "objective": "Master the core Mandarin classifier / measure word system (量词), correctly pairing nouns with specific classifiers (口 for family, 本 for books, 张 for flat objects, 位 for respected persons, 个 as general classifier).",
+        "prerequisites": [
+            "zh-u4-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u4-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「量词系统与名词修饰 (Classifiers & Noun Modification)」（第4部分）的核心句法结构与汉语量词系统 (Classifiers: 个/本/张/条)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "量词（Measure Words / Classifiers）是汉语语法最显著的特色之一。在汉语中，**数词不能直接修饰名词**，中间必须插入相应的量词！\n\n1. 核心量词公式 (Classifier Formula):\n- **数词 / 代词 + 量词 + 名词 (Number/Demonstrative + Classifier + Noun)**\n\n2. 六大核心量词与搭配 (6 Essential Classifiers):\n- **个 (gè)**：通用量词，用于人或无特定量词的事物（如：一个人、三个苹果、一个问题）\n- **口 (kǒu)**：专用于计算**家庭人口**（如：一家三口人、五口人）\n- **本 (běn)**：用于装订成册的书籍刊物（如：一本书、两本字典）\n- **位 (wèi)**：用于尊称人物（如：一位老师、三位客人）\n- **张 (zhāng)**：用于平面、纸张、床桌（如：一张纸、两张桌子、一张地图）\n- **支 (zhī)**：用于笔杆等细长物品（如：一支笔）。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (4.4.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "我家一共有五口人，家里养了一只小猫。",
+                    "reading": "Wǒ jiā yígòng yǒu wǔ kǒu rén, jiā lǐ yǎng le yì zhī xiǎomāo.",
+                    "translation": "My family has 5 people altogether, and we keep a cat."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (4.4.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "请给我一张白纸和两支铅笔。",
+                    "reading": "Qǐng gěi wǒ yì zhāng bái zhǐ hé liǎng zhī qiānbǐ.",
+                    "translation": "Please give me a sheet of white paper and two pencils."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (4.4.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "今天教室里来了三位新老师。",
+                    "reading": "Jīntiān jiàoshì lǐ lái le sān wèi xīn lǎoshī.",
+                    "translation": "Three new teachers came to the classroom today."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 汉语量词系统 (Classifiers: 个/本/张/条)"
+                "Classifiers: 口 for family members, 本 for books, 张 for flat sheets/tables, 位 for polite persons, 个 for general things!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "The classifier 口 (kǒu - mouth) reflects agrarian China's historical view of family members as 'mouths to feed' when allocating land and grain."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「汉语量词系统 (Classifiers: 个/本/张/条)」在第4小节中的标准汉语语法规范？",
+                    "prompt": "计算‘家庭人口数量’（如：一家四___人）时，最地道专用的量词是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (4.4.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (4.4.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (4.4.3)。"
+                        "口 (kǒu: 一家四口人)",
+                        "本",
+                        "张"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "口 (kǒu) is the specialized classifier for family members."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「量词系统与名词修饰 (Classifiers & Noun Modification)」语用情境与完整句式的选项（练习 4）：",
+                    "prompt": "修饰名词‘书 (book)’时，正确的数词+量词搭配是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (4.4.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (4.4.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (4.4.3)。"
+                        "一张书",
+                        "两本书 (liǎng běn shū)",
+                        "两个书"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "Books require the bound-volume classifier 本 (běn)."
                 }
             ]
         },
@@ -2258,85 +2296,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「汉语量词系统 (Classifiers: 个/本/张/条)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 4-4）？",
+                    "prompt": "表达‘一位受人尊敬的老师’，量词‘位’体现了什么语用色彩？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (4.4.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (4.4.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (4.4.3)。"
+                        "表示轻视",
+                        "表示数量极大",
+                        "表示敬重与礼貌 (Polite / respectful address for persons)"
                     ],
                     "answerIndex": 2,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "explanation": "位 (wèi) adds honorific respect when quantifying people."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («一个_4_4»):",
+                    "prompt": "Type the Hanzi for the book classifier (本):",
                     "acceptedAnswers": [
-                        "一个_4_4"
+                        "本",
+                        "ben",
+                        "běn",
+                        "Běn",
+                        "Ben"
                     ],
-                    "explanation": "The target keyword was: 【一个_4_4】"
+                    "explanation": "本 (běn) is the classifier for bound books."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u4-l5": {
         "id": "zh-u4-l5",
-        "subject": "mandarin",
-        "unit": 4,
-        "lessonNumber": 5,
-        "title": "量词系统与名词修饰 (Classifiers & Noun Modification) (Part 5)",
+        "unit": "zh-u4",
         "level": "A1",
-        "objective": "Comprehensive mastery of 汉语量词系统 (Classifiers: 个/本/张/条).",
+        "objective": "Master the standard family inquiry formula (你家有几口人？) and synthesize all Unit 4 kinship terms, possessives with 的, existential 有/没有, and measure words into a fluent, natural A1 family introduction dialogue.",
+        "prerequisites": [
+            "zh-u4-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u4-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「量词系统与名词修饰 (Classifiers & Noun Modification)」（第5部分）的核心句法结构与汉语量词系统 (Classifiers: 个/本/张/条)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在本课中，我们将全面整合第四单元的所有语法与词汇，完成关于家庭成员与个人拥有的综合实战交流。\n\n1. 核心家庭问答句型 (Family Inquiries):\n- **你家有几口人？** (Nǐ jiā yǒu jǐ kǒu rén? — How many people are in your family?)\n- 回答模式：**我家有 [数字] 口人：[成员1]、[成员2] 和我。**\n  - 示例：我家有四口人：爸爸、妈妈、一个妹妹和我。\n- 进阶问答：\n  - 你有兄弟姐妹吗？ (Do you have siblings?)\n  - 我有一个哥哥和一个弟弟，没有姐姐妹妹。(I have an elder brother and younger brother, no sisters.)\n\n2. 第四单元综合交际实战 (Unit 4 Comprehensive Synthesis):\n- 展示全家福照片：问候 → 介绍全家人口（这是我家的照片，我家有五口人）→ 逐一介绍父母职业与兄弟姐妹（这是我爸爸，他是医生；这是我姐姐，她是大学生）→ 询问对方家庭。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (4.5.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "大卫：李明，你家有几口人？ 李明：我家有三口人：爸爸、妈妈和我。你呢？",
+                    "reading": "Dàwèi: Lǐ Míng, nǐ jiā yǒu jǐ kǒu rén? Lǐ Míng: Wǒ jiā yǒu sān kǒu rén: bàba, māma hé wǒ. Nǐ ne?",
+                    "translation": "David: Li Ming, how many people are in your family? Li Ming: My family has three people: dad, mom, and me. How about you?"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (4.5.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫：我家有五口人：父母、一个哥哥、一个妹妹和我。这是我们家的照片。",
+                    "reading": "Dàwèi: Wǒ jiā yǒu wǔ kǒu rén: fùmǔ, yí gè gēge, yí gè mèimei hé wǒ. Zhè shì wǒmen jiā de zhàopiàn.",
+                    "translation": "David: My family has 5 people: parents, an elder brother, a younger sister, and me. This is our family photo."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (4.5.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "王老师是一位非常亲切的中文老师，她有两本很棒的汉语教材。",
+                    "reading": "Wáng lǎoshī shì yí wèi fēicháng qīnqiè de zhōngwén lǎoshī, tā yǒu liǎng běn hěn bàng de hànyǔ jiàocái.",
+                    "translation": "Teacher Wang is a very warm Chinese teacher; she has two wonderful Chinese textbooks."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 汉语量词系统 (Classifiers: 个/本/张/条)"
+                "Family Intro Blueprint: 你家有几口人？ → 我家有...口人: 爸爸, 妈妈, 哥哥, 弟弟, 姐姐, 妹妹, 和我!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Because of the One-Child Policy (独生子女政策) enacted in 1979 and relaxed in 2016, many modern Chinese urban youth grew up as only children (独生子/独生女), making the typical family size '三口之家' (family of three)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「汉语量词系统 (Classifiers: 个/本/张/条)」在第5小节中的标准汉语语法规范？",
+                    "prompt": "用中文询问对方‘你家有几口人？’时，最标准正确的问句是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (4.5.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (4.5.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (4.5.3)。"
+                        "你家有几口人？ (Nǐ jiā yǒu jǐ kǒu rén?)",
+                        "你家有多少本书？",
+                        "你家谁人？"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "«你家有几口人？» uses classifier 口 to ask family size."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「量词系统与名词修饰 (Classifiers & Noun Modification)」语用情境与完整句式的选项（练习 5）：",
+                    "prompt": "当介绍家庭成员并列举‘爸爸、妈妈和我’时，连接最后一项的常用连词是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (4.5.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (4.5.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (4.5.3)。"
+                        "也",
+                        "和 (hé: and)",
+                        "但是"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "和 (hé) coordinates nouns/pronouns in a list (爸爸、妈妈和我)."
                 }
             ]
         },
@@ -2344,24 +2393,29 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「汉语量词系统 (Classifiers: 个/本/张/条)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 4-5）？",
+                    "prompt": "对话中‘我家有四口人：爸爸、妈妈、一个弟弟和我’说明说话人家里有几个孩子？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (4.5.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (4.5.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (4.5.3)。"
+                        "只有一个孩子",
+                        "共有四个孩子",
+                        "共有两个孩子（弟弟和说话人自己）(Two children)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "The children are the younger brother and the speaker himself/herself (2 children)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («一个_4_5»):",
+                    "prompt": "Type the Hanzi for 'family / home' (家):",
                     "acceptedAnswers": [
-                        "一个_4_5"
+                        "家",
+                        "jia",
+                        "jiā",
+                        "Jiā",
+                        "Jia"
                     ],
-                    "explanation": "The target keyword was: 【一个_4_5】"
+                    "explanation": "家 (jiā) means 'family / home'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u5-l1": {
