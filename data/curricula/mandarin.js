@@ -2907,63 +2907,69 @@
     },
     "zh-u6-l1": {
         "id": "zh-u6-l1",
-        "subject": "mandarin",
-        "unit": 6,
-        "lessonNumber": 1,
-        "title": "动态助词：了的完成态与变化态 (Aspect Marker 了) (Part 1)",
+        "unit": "zh-u6",
         "level": "A2",
-        "objective": "Comprehensive mastery of 动态助词了的用法 (Perfective & Modal 了).",
+        "objective": "Master the verbal perfective aspect marker 了₁ placed directly after a verb (Verb + 了 + Quantified Object) to indicate the completion or realization of an action.",
+        "prerequisites": [
+            "zh-u5-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u5-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「动态助词：了的完成态与变化态 (Aspect Marker 了)」（第1部分）的核心句法结构与动态助词了的用法 (Perfective & Modal 了)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "动态助词「了₁」置于**动词之后**，表示动作的完成或实现（Perfective Aspect），不同于印欧语系的时态（Tense）——它关注的是动作是否发生或完成，而非单纯的过去时间。\n\n1. 核心句型结构 (Verbal 了₁ Pattern):\n- **主语 + 动词 + 了 + 数量词/特定宾语 (Subject + Verb + le + Quantified Object)**\n- 示例：\n  - 我买**了**三本中文书。(Wǒ mǎi le sān běn zhōngwén shū. — I bought three Chinese books.)\n  - 他喝**了**两杯热茶。(Tā hē le liǎng bēi rè chá. — He drank two cups of hot tea.)\n  - 妈妈做**了**很多好吃的菜。(Māma zuò le hěn duō hǎochī de cài. — Mom cooked many delicious dishes.)\n\n2. 关键语法规则 (Key Constraints):\n- 当动词带有数量定语修饰的宾语（如：三本书、一杯茶）时，动词后通常必须带「了₁」。\n- 若动词带的是简单无修饰的名词宾语，单独使用「动词 + 了 + 宾语」在句尾通常未完，常需后续分句（如：我吃了饭就去学校）。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (6.1.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "我昨天下午在书店买了两本很有意思的中国小说。",
+                    "reading": "Wǒ zuótiān xiàwǔ zài shūdiàn mǎi le liǎng běn hěn yǒu yìsi de Zhōngguó xiǎoshuō.",
+                    "translation": "I bought two very interesting Chinese novels at the bookstore yesterday afternoon."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (6.1.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "张老师今天上午给我们讲了三个重要的语法点。",
+                    "reading": "Zhāng lǎoshī jīntiān shàngwǔ gěi wǒmen jiǎng le sān gè zhòngyào de yǔfǎ diǎn.",
+                    "translation": "Teacher Zhang explained three important grammar points to us this morning."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (6.1.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "大卫喝了一杯咖啡，然后开始在电脑上写作业。",
+                    "reading": "Dàwèi hē le yì bēi kāfēi, ránhòu kāishǐ zài diànnǎo shang xiě zuòyè.",
+                    "translation": "David drank a cup of coffee, then started writing his homework on the computer."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 动态助词了的用法 (Perfective & Modal 了)"
+                "Verb + 了 = Action Completed! (买了 3 本书 = Completed buying 3 books!)"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Aspect (体态) in Mandarin focuses on whether an action is completed (了), ongoing (在), continuing (着), or experienced (过), giving Chinese verbal flexibility without rigid verb conjugations."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「动态助词了的用法 (Perfective & Modal 了)」在第1小节中的标准汉语语法规范？",
+                    "prompt": "表达‘我买了两张电影票’时，动态助词‘了’应当置于哪个词之后？",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (6.1.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (6.1.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (6.1.3)。"
+                        "置于动词‘买’之后：我买了两张电影票",
+                        "置于句首：了我买两张电影票",
+                        "置于宾语后：我买两张电影票了了"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "Verbal aspect marker 了₁ immediately follows the verb: 买 + 了 + 两张票."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「动态助词：了的完成态与变化态 (Aspect Marker 了)」语用情境与完整句式的选项（练习 1）：",
+                    "prompt": "句子‘他喝了一杯绿茶’表达的核心语法意义是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (6.1.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (6.1.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (6.1.3)。"
+                        "他正在喝绿茶",
+                        "喝一杯绿茶的动作已经完成/实现 (The action of drinking a cup of green tea is completed)",
+                        "他不喝茶"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "Verb + 了 indicates completion or realization of the drinking action."
                 }
             ]
         },
@@ -2971,85 +2977,95 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「动态助词了的用法 (Perfective & Modal 了)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 6-1）？",
+                    "prompt": "下列哪个句子正确运用了动词后的动态助词‘了’？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (6.1.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (6.1.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (6.1.3)。"
+                        "我看了两本中文书 (Wǒ kàn le liǎng běn zhōngwén shū)",
+                        "我了两本书看",
+                        "看我是两本书了"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "我看了两本中文书 correctly places 了 after the verb 看."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («吃了_6_1»):",
+                    "prompt": "Type the Hanzi for the aspect marker (了):",
                     "acceptedAnswers": [
-                        "吃了_6_1"
+                        "了",
+                        "le",
+                        "Le",
+                        "liǎo"
                     ],
-                    "explanation": "The target keyword was: 【吃了_6_1】"
+                    "explanation": "了 (le) is the aspect and modal particle."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u6-l2": {
         "id": "zh-u6-l2",
-        "subject": "mandarin",
-        "unit": 6,
-        "lessonNumber": 2,
-        "title": "动态助词：了的完成态与变化态 (Aspect Marker 了) (Part 2)",
+        "unit": "zh-u6",
         "level": "A2",
-        "objective": "Comprehensive mastery of 动态助词了的用法 (Perfective & Modal 了).",
+        "objective": "Master the sentence-final modal particle 了₂ indicating a change of state, the arrival of a new situation ('now / anymore'), or imminent changes.",
+        "prerequisites": [
+            "zh-u6-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u6-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「动态助词：了的完成态与变化态 (Aspect Marker 了)」（第2部分）的核心句法结构与动态助词了的用法 (Perfective & Modal 了)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "句末语气助词「了₂」置于**句子末尾**，表示情况发生改变、新状态出现或认识上的新发现（Change of State / New Situation）。\n\n1. 句末了的核心功能 (Functions of Sentence-Final 了₂):\n- **新情况产生 / 状态转变 (Change of State)**：\n  - 下雨**了**。(Xià yǔ le. — It is raining now / It started raining.)\n  - 天气冷**了**。(Tiānqì lěng le. — The weather has gotten cold.)\n  - 我有中文名字**了**。(Wǒ yǒu zhōngwén míngzi le. — I have a Chinese name now!)\n- **程度极端与感叹句 (Exclamations with 太...了 / 极了)**：\n  - **太 + 形容词 + 了**：太好**了**！(Great!)、太贵**了**！(Too expensive!)\n- **动作即将发生 (Imminent Action: 快要...了 / 要...了)**：\n  - 火车要开**了**。(The train is about to leave.)",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (6.2.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "下课了，我们去食堂吃午饭吧！",
+                    "reading": "Xiàkè le, wǒmen qù shítáng chī wǔfàn ba!",
+                    "translation": "Class is over now, let's go to the cafeteria for lunch!"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (6.2.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "这件衣服太漂亮了，但是价格有点儿贵。",
+                    "reading": "Zhè jiàn yīfu tài piàoliang le, dànshì jiàgé yǒudiǎnr guì.",
+                    "translation": "This piece of clothing is so pretty, but the price is a bit expensive."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (6.2.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "现在已经是秋天了，北京的天气变得非常凉快。",
+                    "reading": "Xiànzài yǐjīng shì qiūtiān le, Běijīng de tiānqì biàn de fēicháng liángkuai.",
+                    "translation": "It is already autumn now, and Beijing's weather has become very cool and pleasant."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 动态助词了的用法 (Perfective & Modal 了)"
+                "End of sentence 了 = Change of state / New reality! (下雨了 = It's raining now! 太好了 = Great!)"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "«下课了！» and «吃饭了！» are among the most joyful everyday cultural exclamations heard across schools and homes in China."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「动态助词了的用法 (Perfective & Modal 了)」在第2小节中的标准汉语语法规范？",
+                    "prompt": "当看到窗外开始下雨时，表示‘现在下雨了（出现新天气状态）’的正确表达是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (6.2.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (6.2.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (6.2.3)。"
+                        "下雨了！ (Xià yǔ le!)",
+                        "不下雨",
+                        "下雨在"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "句末了 indicates the emergence of a new state: 下雨了."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「动态助词：了的完成态与变化态 (Aspect Marker 了)」语用情境与完整句式的选项（练习 2）：",
+                    "prompt": "中文中表示感叹‘太好了！ (That's great!)’的固定格式是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (6.2.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (6.2.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (6.2.3)。"
+                        "很好了",
+                        "太好了！ (Tài hǎo le!)",
+                        "真好是"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "太 + Adjective + 了 is the standard exclamation of high degree."
                 }
             ]
         },
@@ -3057,85 +3073,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「动态助词了的用法 (Perfective & Modal 了)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 6-2）？",
+                    "prompt": "句子‘大卫会说汉语了’表达的含义是：",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (6.2.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (6.2.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (6.2.3)。"
+                        "大卫会说汉语以前一直都会",
+                        "大卫以前不会说，但现在学会了（状态发生改变）(David can speak Chinese now)",
+                        "大卫不想说汉语"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "Sentence-final 了 indicates a change of state: David can speak Chinese now."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («吃了_6_2»):",
+                    "prompt": "Type the Hanzi for 'too / extremely' (太):",
                     "acceptedAnswers": [
-                        "吃了_6_2"
+                        "太",
+                        "tai",
+                        "tài",
+                        "Tài",
+                        "Tai"
                     ],
-                    "explanation": "The target keyword was: 【吃了_6_2】"
+                    "explanation": "太 (tài) means 'too / extremely' (as in 太好了)."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u6-l3": {
         "id": "zh-u6-l3",
-        "subject": "mandarin",
-        "unit": 6,
-        "lessonNumber": 3,
-        "title": "动态助词：了的完成态与变化态 (Aspect Marker 了) (Part 3)",
+        "unit": "zh-u6",
         "level": "A2",
-        "objective": "Comprehensive mastery of 动态助词了的用法 (Perfective & Modal 了).",
+        "objective": "Master the 'Double 了' construction (Verb + 了₁ + Duration + Noun + 了₂) to express an action that has lasted for a duration of time AND is still ongoing.",
+        "prerequisites": [
+            "zh-u6-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u6-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「动态助词：了的完成态与变化态 (Aspect Marker 了)」（第3部分）的核心句法结构与动态助词了的用法 (Perfective & Modal 了)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "「双了句（Double 了）」是汉语语法中极其精妙且高频的句式，结合了动词后「了₁（完成）」与句末「了₂（持续至今/新状态）」的双重意义。\n\n1. 双了句核心公式 (Double 了 Formula):\n- **主语 + 动词 + 了₁ + 时间段 (Duration) + (的 + 名词) + 了₂**\n- 语义：表示动作已经进行了某个时间段，并且**目前仍在继续进行中**！\n\n2. 经典语义对比 (Single 了 vs. Double 了):\n- 单了（动作已结束）：我学**了**一年汉语。(Wǒ xué le yì nián hànyǔ. — I studied Chinese for a year [and have stopped now].)\n- 双了（动作仍在继续）：我学**了**一年汉语**了**。(Wǒ xué le yì nián hànyǔ **le**. — I have been studying Chinese for a year [and I am still studying now]!)\n\n3. 更多典型范例：\n- 他看**了**两个小时书**了**。(He has been reading books for 2 hours [and is still reading].)\n- 我们在宿舍住**了**三年**了**。(We have lived in the dorm for 3 years [and still live here].)",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (6.3.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "我在北京大学学了一年中文了，我很喜欢这里的老师和同学。",
+                    "reading": "Wǒ zài Běijīng Dàxué xué le yì nián zhōngwén le, wǒ hěn xǐhuan zhèlǐ de lǎoshī hé tóngxué.",
+                    "translation": "I have been studying Chinese at Peking University for a year now, and I really like the teachers and classmates here."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (6.3.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "雨下了一整天了，还没有停。",
+                    "reading": "Yǔ xià le yì zhěng tiān le, hái méiyǒu tíng.",
+                    "translation": "It has been raining for a whole day now, and has not stopped yet."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (6.3.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "李明在图书馆看了一下午书了，他准备去吃晚饭。",
+                    "reading": "Lǐ Míng zài túshūguǎn kàn le yí xiàwǔ shū le, tā zhǔnbèi qù chī wǎnfàn.",
+                    "translation": "Li Ming has been reading books in the library all afternoon, and he is getting ready for dinner."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 动态助词了的用法 (Perfective & Modal 了)"
+                "Double 了 = Duration done + Still going on! (学了一年了 = Studied 1 year & still studying!)"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Using Double 了 demonstrates sophisticated A2 command of Chinese aspect, instantly showing listeners whether a life experience or hobby is current or concluded."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「动态助词了的用法 (Perfective & Modal 了)」在第3小节中的标准汉语语法规范？",
+                    "prompt": "句子‘我学了三年汉语了’表示说话人：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (6.3.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (6.3.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (6.3.3)。"
+                        "已经学了三年，并且现在还在继续学习 (Has studied for 3 years and is still studying)",
+                        "三年以前学过，现在早就不学了",
+                        "打算三年后开始学"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "Double 了 (学了三年...了) indicates ongoing continuation into the present."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「动态助词：了的完成态与变化态 (Aspect Marker 了)」语用情境与完整句式的选项（练习 3）：",
+                    "prompt": "表示‘他在北京住了五年（目前依然住在这里）’的正确汉语双了句是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (6.3.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (6.3.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (6.3.3)。"
+                        "他住北京五年",
+                        "他在北京住了五年了 (Tā zài Běijīng zhù le wǔ nián le)",
+                        "他住了北京五年的"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "住在北京 + 了 + 五年 + 了 correctly expresses ongoing residence."
                 }
             ]
         },
@@ -3143,85 +3170,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「动态助词了的用法 (Perfective & Modal 了)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 6-3）？",
+                    "prompt": "对比句子：A‘我看了一个小时书’与 B‘我看了一个小时书了’，哪一个明确表达‘目前还在继续看’？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (6.3.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (6.3.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (6.3.3)。"
+                        "句子 A (单了)",
+                        "句子 B (Double 了 indicates still reading)",
+                        "两个句子都没有这个意思"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "Double 了 in Sentence B specifies that the action is continuing into the present."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («吃了_6_3»):",
+                    "prompt": "Type the Hanzi for 'to study / learn' (学):",
                     "acceptedAnswers": [
-                        "吃了_6_3"
+                        "学",
+                        "xue",
+                        "xué",
+                        "Xué",
+                        "Xue",
+                        "學"
                     ],
-                    "explanation": "The target keyword was: 【吃了_6_3】"
+                    "explanation": "学 (xué) means 'to study / learn'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u6-l4": {
         "id": "zh-u6-l4",
-        "subject": "mandarin",
-        "unit": 6,
-        "lessonNumber": 4,
-        "title": "动态助词：了的完成态与变化态 (Aspect Marker 了) (Part 4)",
+        "unit": "zh-u6",
         "level": "A2",
-        "objective": "Comprehensive mastery of 动态助词了的用法 (Perfective & Modal 了).",
+        "objective": "Master the strict negation rules of the perfective aspect: replacing 了 with 没 (méi) or 没有 (méiyǒu) before the verb, and dropping 了 entirely.",
+        "prerequisites": [
+            "zh-u6-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u6-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「动态助词：了的完成态与变化态 (Aspect Marker 了)」（第4部分）的核心句法结构与动态助词了的用法 (Perfective & Modal 了)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在汉语语法中，动态助词「了」的否定形式有着极为严格的语法铁律。\n\n1. 否定黄金公式 (Negative Aspect Rule):\n- **主语 + 没 / 没有 + 动词 + 宾语 (Subject + méi/méiyǒu + Verb + Object)**\n- **铁律一**：否定完成态**只能用「没 / 没有」**，不能用「不」！\n- **铁律二**：否定句中**必须彻底去掉「了」**，绝对不能说 *没有买了、*没去了！\n\n2. 肯定与否定句型对照 (Affirmative vs. Negative Contrast):\n- 肯定句：我买**了**三本书。(I bought three books.)\n- 否定句：我**没有买**书。(I did not buy books. *[去掉三本，去掉了]*)\n- 肯定句：他去**了**北京。(He went to Beijing.)\n- 否定句：他**没去**北京。(He did not go to Beijing. *[绝不说 *他没去了])\n\n3. 正反疑问句 (A-not-A Question with 了没有):\n- 你吃早饭**了没有**？ (Nǐ chī zǎofàn le méiyǒu? — Have you eaten breakfast yet?)\n  - 肯定回答：吃了。(Chī le. — Ate.)\n  - 否定回答：还没吃。(Hái méi chī. — Haven't eaten yet.)",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (6.4.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "我昨天没有去图书馆，我在宿舍休息。",
+                    "reading": "Wǒ zuótiān méiyǒu qù túshūguǎn, wǒ zài sùshè xiūxi.",
+                    "translation": "I didn't go to the library yesterday, I rested in the dorm."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (6.4.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "A: 你做完昨天的中文作业了没有？ B: 我还没做完，今天下午做。",
+                    "reading": "A: Nǐ zuò wán zuótiān de zhōngwén zuòyè le méiyǒu? B: Wǒ hái méi zuò wán, jīntiān xiàwǔ zuò.",
+                    "translation": "A: Have you finished yesterday's Chinese homework? B: I haven't finished yet; I'll do it this afternoon."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (6.4.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "大卫今天早晨没喝咖啡，他喝了一杯牛奶。",
+                    "reading": "Dàwèi jīntiān zǎochén méi hē kāfēi, tā hē le yì bēi niúnǎi.",
+                    "translation": "David didn't drink coffee this morning; he drank a glass of milk."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 动态助词了的用法 (Perfective & Modal 了)"
+                "Negate 了: Drop '了' and add '没/没有' before the verb! (买了 -> 没买, NOT *没买了!)"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "«吃了吗？/ 吃了没有？» (Have you eaten yet?) is China's famous quintessential greeting, reflecting care and warmth."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「动态助词了的用法 (Perfective & Modal 了)」在第4小节中的标准汉语语法规范？",
+                    "prompt": "否定句子‘他买了一本词典’的唯一正确汉语形式是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (6.4.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (6.4.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (6.4.3)。"
+                        "他没有买词典 (Tā méiyǒu mǎi cídiǎn: 没 + V, drop 了)",
+                        "他没买了一本词典 (*méi mǎi le - incorrect)",
+                        "他不买了词典 (*bù mǎi le - incorrect)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "Negation requires 没/没有 before the verb and dropping 了 entirely: 他没有买词典."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「动态助词：了的完成态与变化态 (Aspect Marker 了)」语用情境与完整句式的选项（练习 4）：",
+                    "prompt": "询问对方‘你吃午饭了没有？’而你尚未吃午饭时，最地道得体的回答是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (6.4.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (6.4.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (6.4.3)。"
+                        "我不吃午饭了",
+                        "还没吃呢 (Hái méi chī ne — Haven't eaten yet)",
+                        "我吃了没有"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "还没吃(呢) is the standard natural answer for an uncompleted action."
                 }
             ]
         },
@@ -3229,85 +3268,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「动态助词了的用法 (Perfective & Modal 了)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 6-4）？",
+                    "prompt": "在汉语普通话中，‘没有买了’犯了什么语法错误？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (6.4.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (6.4.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (6.4.3)。"
+                        "词序颠倒",
+                        "缺少量词",
+                        "用了没有就绝不能再保留‘了’ (Incorrect retention of 了 in negative sentence)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "Negative sentences with 没/没有 must drop the perfective particle 了."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («吃了_6_4»):",
+                    "prompt": "Type the Hanzi for 'not yet / still' (还):",
                     "acceptedAnswers": [
-                        "吃了_6_4"
+                        "还",
+                        "hai",
+                        "hái",
+                        "Hái",
+                        "Hai",
+                        "還"
                     ],
-                    "explanation": "The target keyword was: 【吃了_6_4】"
+                    "explanation": "还 (hái) means 'still / yet' (as in 还没吃)."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u6-l5": {
         "id": "zh-u6-l5",
-        "subject": "mandarin",
-        "unit": 6,
-        "lessonNumber": 5,
-        "title": "动态助词：了的完成态与变化态 (Aspect Marker 了) (Part 5)",
+        "unit": "zh-u6",
         "level": "A2",
-        "objective": "Comprehensive mastery of 动态助词了的用法 (Perfective & Modal 了).",
+        "objective": "Synthesize Verbal 了₁, Sentence-Final 了₂, Double 了, and 没/没有 negation into a comprehensive A2 conversation reporting past activities, accomplishments, and current changes.",
+        "prerequisites": [
+            "zh-u6-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u6-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「动态助词：了的完成态与变化态 (Aspect Marker 了)」（第5部分）的核心句法结构与动态助词了的用法 (Perfective & Modal 了)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在本课中，我们将系统整合第六单元的所有「了」的语法功能，通过对比实战实现融会贯通。\n\n1. 「了」的核心体系大盘点 (The Master System of 了):\n- **了₁ (动词后)**：动作完成与实现（我买**了**三本书）\n- **了₂ (句末)**：新情况与状态转变（天气冷**了**、下雨**了**、太好**了**）\n- **双了 (动词后 + 句末)**：动作持续至今仍在进行（我学**了**一年汉语**了**）\n- **否定 (没/没有 + 动词)**：完全去除「了」（我**没有买**书）\n- **疑问 (……了没有？)**：询问事情是否已完成（你做完作业**了没有**？）。\n\n2. 第六单元综合交际实战 (Unit 6 Synthesis Dialogue):\n- 汇报一天的学习与生活成果：互相询问周末完成了哪些事情、有哪些新的变化与计划。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (6.5.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "大卫：李明，你买好去上海的火车票了没有？ 李明：我已经买好了！我们星期六早晨八点出发。",
+                    "reading": "Dàwèi: Lǐ Míng, nǐ mǎi hǎo qù Shànghǎi de huǒchē piào le méiyǒu? Lǐ Míng: Wǒ yǐjīng mǎi hǎo le! Wǒmen xīngqīliù zǎochén bā diǎn chūfā.",
+                    "translation": "David: Li Ming, have you bought the train tickets to Shanghai yet? Li Ming: I have already bought them! We depart Saturday morning at 8:00."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (6.5.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "我来中国已经三个月了，我学会了很多日常中文，也交了几个中国好朋友。",
+                    "reading": "Wǒ lái Zhōngguó yǐjīng sān gè yuè le, wǒ xuéhuì le hěn duō rìcháng zhōngwén, yě jiāo le jǐ gè Zhōngguó hǎo péngyou.",
+                    "translation": "I have been in China for three months now; I learned a lot of daily Chinese and made several good Chinese friends."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (6.5.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "天黑了，温度也降了，我们快回宿舍吧！",
+                    "reading": "Tiān hēi le, wēndù yě jiàng le, wǒmen kuài huí sùshè ba!",
+                    "translation": "It is dark now and the temperature has dropped; let's quickly head back to the dorm!"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 动态助词了的用法 (Perfective & Modal 了)"
+                "Master of 了: Verb+了 (Done), End+了 (New state), Double 了 (Still ongoing), 没+Verb (Not yet)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Mastery of the aspect marker 了 is considered the definitive watershed milestone separating beginner A1 learners from fluent, nuanced A2/B1 speakers of Mandarin."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「动态助词了的用法 (Perfective & Modal 了)」在第5小节中的标准汉语语法规范？",
+                    "prompt": "句子‘我已经学了三个月中文了，昨天买了两本新书’中包含了哪些‘了’的语法功能？",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (6.5.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (6.5.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (6.5.3)。"
+                        "包含表示持续至今的双了（学了...了）和表示动作完成的动词后了（买了）",
+                        "只有过去时",
+                        "只有感叹句"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "The sentence combines Double 了 (continuing duration) and Verbal 了₁ (completed purchase)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「动态助词：了的完成态与变化态 (Aspect Marker 了)」语用情境与完整句式的选项（练习 5）：",
+                    "prompt": "在对话中，当被问到「你买好票了没有？」且你已经买好了，最得体的回答是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (6.5.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (6.5.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (6.5.3)。"
+                        "我没有买",
+                        "我已经买好了！ (Wǒ yǐjīng mǎi hǎo le!)",
+                        "我不买"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "我已经买好了 confirms completion."
                 }
             ]
         },
@@ -3315,24 +3366,30 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「动态助词了的用法 (Perfective & Modal 了)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 6-5）？",
+                    "prompt": "下列关于汉语助词‘了’的总结中，哪一项是完全正确的？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (6.5.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (6.5.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (6.5.3)。"
+                        "‘了’就是英语的过去时ed，任何时候都代表过去",
+                        "否定句中可以保留‘没有买了’",
+                        "‘了’是动态助词与语气助词，分别表示动作完成、新状态产生或持续至今 (Aspect/modal marker for completion, new state, or ongoing duration)"
                     ],
                     "answerIndex": 2,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "explanation": "了 marks aspectual completion, state change, and ongoing continuation."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («吃了_6_5»):",
+                    "prompt": "Type the Hanzi for 'already' (已经):",
                     "acceptedAnswers": [
-                        "吃了_6_5"
+                        "已经",
+                        "yijing",
+                        "yǐjīng",
+                        "Yǐjīng",
+                        "Yijing",
+                        "已經"
                     ],
-                    "explanation": "The target keyword was: 【吃了_6_5】"
+                    "explanation": "已经 (Yǐjīng) means 'already'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u7-l1": {
