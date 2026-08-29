@@ -1,4 +1,4 @@
-// Korean curriculum — full CEFR A1–C2 roadmap (34 units, 170 lessons)
+// korean curriculum
 (function (global) {
   'use strict';
   var UNITS = [
@@ -557,11 +557,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («안녕하세요_1_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («안녕하세요»):",
                     "acceptedAnswers": [
-                        "안녕하세요_1_1"
+                        "안녕하세요"
                     ],
-                    "explanation": "The target keyword was: 【안녕하세요_1_1】"
+                    "explanation": "The target keyword was: 【안녕하세요】"
                 }
             ]
         }
@@ -643,11 +643,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («안녕하세요_1_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («감사합니다»):",
                     "acceptedAnswers": [
-                        "안녕하세요_1_2"
+                        "감사합니다"
                     ],
-                    "explanation": "The target keyword was: 【안녕하세요_1_2】"
+                    "explanation": "The target keyword was: 【감사합니다】"
                 }
             ]
         }
@@ -729,11 +729,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («안녕하세요_1_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («안녕히»):",
                     "acceptedAnswers": [
-                        "안녕하세요_1_3"
+                        "안녕히"
                     ],
-                    "explanation": "The target keyword was: 【안녕하세요_1_3】"
+                    "explanation": "The target keyword was: 【안녕히】"
                 }
             ]
         }
@@ -815,11 +815,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («안녕하세요_1_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («반갑습니다»):",
                     "acceptedAnswers": [
-                        "안녕하세요_1_4"
+                        "반갑습니다"
                     ],
-                    "explanation": "The target keyword was: 【안녕하세요_1_4】"
+                    "explanation": "The target keyword was: 【반갑습니다】"
                 }
             ]
         }
@@ -901,11 +901,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («안녕하세요_1_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («죄송합니다»):",
                     "acceptedAnswers": [
-                        "안녕하세요_1_5"
+                        "죄송합니다"
                     ],
-                    "explanation": "The target keyword was: 【안녕하세요_1_5】"
+                    "explanation": "The target keyword was: 【죄송합니다】"
                 }
             ]
         }
@@ -987,11 +987,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («저는_2_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («저는»):",
                     "acceptedAnswers": [
-                        "저는_2_1"
+                        "저는"
                     ],
-                    "explanation": "The target keyword was: 【저는_2_1】"
+                    "explanation": "The target keyword was: 【저는】"
                 }
             ]
         }
@@ -1073,11 +1073,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («저는_2_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («학생은»):",
                     "acceptedAnswers": [
-                        "저는_2_2"
+                        "학생은"
                     ],
-                    "explanation": "The target keyword was: 【저는_2_2】"
+                    "explanation": "The target keyword was: 【학생은】"
                 }
             ]
         }
@@ -1159,11 +1159,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («저는_2_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («선생님이»):",
                     "acceptedAnswers": [
-                        "저는_2_3"
+                        "선생님이"
                     ],
-                    "explanation": "The target keyword was: 【저는_2_3】"
+                    "explanation": "The target keyword was: 【선생님이】"
                 }
             ]
         }
@@ -1245,11 +1245,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («저는_2_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («친구가»):",
                     "acceptedAnswers": [
-                        "저는_2_4"
+                        "친구가"
                     ],
-                    "explanation": "The target keyword was: 【저는_2_4】"
+                    "explanation": "The target keyword was: 【친구가】"
                 }
             ]
         }
@@ -1331,11 +1331,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («저는_2_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («도서관은»):",
                     "acceptedAnswers": [
-                        "저는_2_5"
+                        "도서관은"
                     ],
-                    "explanation": "The target keyword was: 【저는_2_5】"
+                    "explanation": "The target keyword was: 【도서관은】"
                 }
             ]
         }
@@ -1417,11 +1417,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («책을_3_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («책을»):",
                     "acceptedAnswers": [
-                        "책을_3_1"
+                        "책을"
                     ],
-                    "explanation": "The target keyword was: 【책을_3_1】"
+                    "explanation": "The target keyword was: 【책을】"
                 }
             ]
         }
@@ -1503,11 +1503,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («책을_3_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («사과를»):",
                     "acceptedAnswers": [
-                        "책을_3_2"
+                        "사과를"
                     ],
-                    "explanation": "The target keyword was: 【책을_3_2】"
+                    "explanation": "The target keyword was: 【사과를】"
                 }
             ]
         }
@@ -1589,11 +1589,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («책을_3_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («한국어를»):",
                     "acceptedAnswers": [
-                        "책을_3_3"
+                        "한국어를"
                     ],
-                    "explanation": "The target keyword was: 【책을_3_3】"
+                    "explanation": "The target keyword was: 【한국어를】"
                 }
             ]
         }
@@ -1675,11 +1675,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («책을_3_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («음악을»):",
                     "acceptedAnswers": [
-                        "책을_3_4"
+                        "음악을"
                     ],
-                    "explanation": "The target keyword was: 【책을_3_4】"
+                    "explanation": "The target keyword was: 【음악을】"
                 }
             ]
         }
@@ -1761,11 +1761,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («책을_3_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («영화를»):",
                     "acceptedAnswers": [
-                        "책을_3_5"
+                        "영화를"
                     ],
-                    "explanation": "The target keyword was: 【책을_3_5】"
+                    "explanation": "The target keyword was: 【영화를】"
                 }
             ]
         }
@@ -1847,11 +1847,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («가요_4_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («가요»):",
                     "acceptedAnswers": [
-                        "가요_4_1"
+                        "가요"
                     ],
-                    "explanation": "The target keyword was: 【가요_4_1】"
+                    "explanation": "The target keyword was: 【가요】"
                 }
             ]
         }
@@ -1933,11 +1933,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («가요_4_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («먹어요»):",
                     "acceptedAnswers": [
-                        "가요_4_2"
+                        "먹어요"
                     ],
-                    "explanation": "The target keyword was: 【가요_4_2】"
+                    "explanation": "The target keyword was: 【먹어요】"
                 }
             ]
         }
@@ -2019,11 +2019,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («가요_4_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («봐요»):",
                     "acceptedAnswers": [
-                        "가요_4_3"
+                        "봐요"
                     ],
-                    "explanation": "The target keyword was: 【가요_4_3】"
+                    "explanation": "The target keyword was: 【봐요】"
                 }
             ]
         }
@@ -2105,11 +2105,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («가요_4_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («공부해요»):",
                     "acceptedAnswers": [
-                        "가요_4_4"
+                        "공부해요"
                     ],
-                    "explanation": "The target keyword was: 【가요_4_4】"
+                    "explanation": "The target keyword was: 【공부해요】"
                 }
             ]
         }
@@ -2191,11 +2191,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («가요_4_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («쉬어요»):",
                     "acceptedAnswers": [
-                        "가요_4_5"
+                        "쉬어요"
                     ],
-                    "explanation": "The target keyword was: 【가요_4_5】"
+                    "explanation": "The target keyword was: 【쉬어요】"
                 }
             ]
         }
@@ -2277,11 +2277,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («반갑습니다_5_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («갑니다»):",
                     "acceptedAnswers": [
-                        "반갑습니다_5_1"
+                        "갑니다"
                     ],
-                    "explanation": "The target keyword was: 【반갑습니다_5_1】"
+                    "explanation": "The target keyword was: 【갑니다】"
                 }
             ]
         }
@@ -2363,11 +2363,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («반갑습니다_5_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («먹습니다»):",
                     "acceptedAnswers": [
-                        "반갑습니다_5_2"
+                        "먹습니다"
                     ],
-                    "explanation": "The target keyword was: 【반갑습니다_5_2】"
+                    "explanation": "The target keyword was: 【먹습니다】"
                 }
             ]
         }
@@ -2449,11 +2449,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («반갑습니다_5_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («합니다»):",
                     "acceptedAnswers": [
-                        "반갑습니다_5_3"
+                        "합니다"
                     ],
-                    "explanation": "The target keyword was: 【반갑습니다_5_3】"
+                    "explanation": "The target keyword was: 【합니다】"
                 }
             ]
         }
@@ -2535,11 +2535,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («반갑습니다_5_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («만납니다»):",
                     "acceptedAnswers": [
-                        "반갑습니다_5_4"
+                        "만납니다"
                     ],
-                    "explanation": "The target keyword was: 【반갑습니다_5_4】"
+                    "explanation": "The target keyword was: 【만납니다】"
                 }
             ]
         }
@@ -2621,11 +2621,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («반갑습니다_5_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («읽습니다»):",
                     "acceptedAnswers": [
-                        "반갑습니다_5_5"
+                        "읽습니다"
                     ],
-                    "explanation": "The target keyword was: 【반갑습니다_5_5】"
+                    "explanation": "The target keyword was: 【읽습니다】"
                 }
             ]
         }
@@ -2707,11 +2707,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («갔어요_6_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («갔어요»):",
                     "acceptedAnswers": [
-                        "갔어요_6_1"
+                        "갔어요"
                     ],
-                    "explanation": "The target keyword was: 【갔어요_6_1】"
+                    "explanation": "The target keyword was: 【갔어요】"
                 }
             ]
         }
@@ -2793,11 +2793,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («갔어요_6_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («왔어요»):",
                     "acceptedAnswers": [
-                        "갔어요_6_2"
+                        "왔어요"
                     ],
-                    "explanation": "The target keyword was: 【갔어요_6_2】"
+                    "explanation": "The target keyword was: 【왔어요】"
                 }
             ]
         }
@@ -2879,11 +2879,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («갔어요_6_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («보았어요»):",
                     "acceptedAnswers": [
-                        "갔어요_6_3"
+                        "보았어요"
                     ],
-                    "explanation": "The target keyword was: 【갔어요_6_3】"
+                    "explanation": "The target keyword was: 【보았어요】"
                 }
             ]
         }
@@ -2965,11 +2965,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («갔어요_6_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («들었어요»):",
                     "acceptedAnswers": [
-                        "갔어요_6_4"
+                        "들었어요"
                     ],
-                    "explanation": "The target keyword was: 【갔어요_6_4】"
+                    "explanation": "The target keyword was: 【들었어요】"
                 }
             ]
         }
@@ -3051,11 +3051,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («갔어요_6_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («만났어요»):",
                     "acceptedAnswers": [
-                        "갔어요_6_5"
+                        "만났어요"
                     ],
-                    "explanation": "The target keyword was: 【갔어요_6_5】"
+                    "explanation": "The target keyword was: 【만났어요】"
                 }
             ]
         }
@@ -3137,11 +3137,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («갈_거예요_7_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («갈_거예요»):",
                     "acceptedAnswers": [
-                        "갈_거예요_7_1"
+                        "갈_거예요"
                     ],
-                    "explanation": "The target keyword was: 【갈_거예요_7_1】"
+                    "explanation": "The target keyword was: 【갈_거예요】"
                 }
             ]
         }
@@ -3223,11 +3223,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («갈_거예요_7_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («하겠어요»):",
                     "acceptedAnswers": [
-                        "갈_거예요_7_2"
+                        "하겠어요"
                     ],
-                    "explanation": "The target keyword was: 【갈_거예요_7_2】"
+                    "explanation": "The target keyword was: 【하겠어요】"
                 }
             ]
         }
@@ -3309,11 +3309,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («갈_거예요_7_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («먹을_거예요»):",
                     "acceptedAnswers": [
-                        "갈_거예요_7_3"
+                        "먹을_거예요"
                     ],
-                    "explanation": "The target keyword was: 【갈_거예요_7_3】"
+                    "explanation": "The target keyword was: 【먹을_거예요】"
                 }
             ]
         }
@@ -3395,11 +3395,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («갈_거예요_7_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («만날_거예요»):",
                     "acceptedAnswers": [
-                        "갈_거예요_7_4"
+                        "만날_거예요"
                     ],
-                    "explanation": "The target keyword was: 【갈_거예요_7_4】"
+                    "explanation": "The target keyword was: 【만날_거예요】"
                 }
             ]
         }
@@ -3481,11 +3481,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («갈_거예요_7_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («배울_거예요»):",
                     "acceptedAnswers": [
-                        "갈_거예요_7_5"
+                        "배울_거예요"
                     ],
-                    "explanation": "The target keyword was: 【갈_거예요_7_5】"
+                    "explanation": "The target keyword was: 【배울_거예요】"
                 }
             ]
         }
@@ -3567,11 +3567,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («하고_있다_8_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («공부하고_있다»):",
                     "acceptedAnswers": [
-                        "하고_있다_8_1"
+                        "공부하고_있다"
                     ],
-                    "explanation": "The target keyword was: 【하고_있다_8_1】"
+                    "explanation": "The target keyword was: 【공부하고_있다】"
                 }
             ]
         }
@@ -3653,11 +3653,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («하고_있다_8_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («비가_오고_있다»):",
                     "acceptedAnswers": [
-                        "하고_있다_8_2"
+                        "비가_오고_있다"
                     ],
-                    "explanation": "The target keyword was: 【하고_있다_8_2】"
+                    "explanation": "The target keyword was: 【비가_오고_있다】"
                 }
             ]
         }
@@ -3739,11 +3739,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («하고_있다_8_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («기다리고_있다»):",
                     "acceptedAnswers": [
-                        "하고_있다_8_3"
+                        "기다리고_있다"
                     ],
-                    "explanation": "The target keyword was: 【하고_있다_8_3】"
+                    "explanation": "The target keyword was: 【기다리고_있다】"
                 }
             ]
         }
@@ -3825,11 +3825,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («하고_있다_8_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («앉아_있다»):",
                     "acceptedAnswers": [
-                        "하고_있다_8_4"
+                        "앉아_있다"
                     ],
-                    "explanation": "The target keyword was: 【하고_있다_8_4】"
+                    "explanation": "The target keyword was: 【앉아_있다】"
                 }
             ]
         }
@@ -3911,11 +3911,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («하고_있다_8_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («열려_있다»):",
                     "acceptedAnswers": [
-                        "하고_있다_8_5"
+                        "열려_있다"
                     ],
-                    "explanation": "The target keyword was: 【하고_있다_8_5】"
+                    "explanation": "The target keyword was: 【열려_있다】"
                 }
             ]
         }
@@ -3997,11 +3997,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («학교에_9_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («집에»):",
                     "acceptedAnswers": [
-                        "학교에_9_1"
+                        "집에"
                     ],
-                    "explanation": "The target keyword was: 【학교에_9_1】"
+                    "explanation": "The target keyword was: 【집에】"
                 }
             ]
         }
@@ -4083,11 +4083,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («학교에_9_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («학교에서»):",
                     "acceptedAnswers": [
-                        "학교에_9_2"
+                        "학교에서"
                     ],
-                    "explanation": "The target keyword was: 【학교에_9_2】"
+                    "explanation": "The target keyword was: 【학교에서】"
                 }
             ]
         }
@@ -4169,11 +4169,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («학교에_9_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («서울로»):",
                     "acceptedAnswers": [
-                        "학교에_9_3"
+                        "서울로"
                     ],
-                    "explanation": "The target keyword was: 【학교에_9_3】"
+                    "explanation": "The target keyword was: 【서울로】"
                 }
             ]
         }
@@ -4255,11 +4255,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («학교에_9_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («식당에»):",
                     "acceptedAnswers": [
-                        "학교에_9_4"
+                        "식당에"
                     ],
-                    "explanation": "The target keyword was: 【학교에_9_4】"
+                    "explanation": "The target keyword was: 【식당에】"
                 }
             ]
         }
@@ -4341,11 +4341,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («학교에_9_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («공원에서»):",
                     "acceptedAnswers": [
-                        "학교에_9_5"
+                        "공원에서"
                     ],
-                    "explanation": "The target keyword was: 【학교에_9_5】"
+                    "explanation": "The target keyword was: 【공원에서】"
                 }
             ]
         }
@@ -4427,11 +4427,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («할_수_있다_10_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («수_있다»):",
                     "acceptedAnswers": [
-                        "할_수_있다_10_1"
+                        "수_있다"
                     ],
-                    "explanation": "The target keyword was: 【할_수_있다_10_1】"
+                    "explanation": "The target keyword was: 【수_있다】"
                 }
             ]
         }
@@ -4513,11 +4513,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («할_수_있다_10_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («수_없다»):",
                     "acceptedAnswers": [
-                        "할_수_있다_10_2"
+                        "수_없다"
                     ],
-                    "explanation": "The target keyword was: 【할_수_있다_10_2】"
+                    "explanation": "The target keyword was: 【수_없다】"
                 }
             ]
         }
@@ -4599,11 +4599,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («할_수_있다_10_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («읽을_수_있다»):",
                     "acceptedAnswers": [
-                        "할_수_있다_10_3"
+                        "읽을_수_있다"
                     ],
-                    "explanation": "The target keyword was: 【할_수_있다_10_3】"
+                    "explanation": "The target keyword was: 【읽을_수_있다】"
                 }
             ]
         }
@@ -4685,11 +4685,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («할_수_있다_10_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («말할_수_있다»):",
                     "acceptedAnswers": [
-                        "할_수_있다_10_4"
+                        "말할_수_있다"
                     ],
-                    "explanation": "The target keyword was: 【할_수_있다_10_4】"
+                    "explanation": "The target keyword was: 【말할_수_있다】"
                 }
             ]
         }
@@ -4771,11 +4771,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («할_수_있다_10_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («갈_수_없다»):",
                     "acceptedAnswers": [
-                        "할_수_있다_10_5"
+                        "갈_수_없다"
                     ],
-                    "explanation": "The target keyword was: 【할_수_있다_10_5】"
+                    "explanation": "The target keyword was: 【갈_수_없다】"
                 }
             ]
         }
@@ -4857,11 +4857,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («해야_한다_11_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («하고»):",
                     "acceptedAnswers": [
-                        "해야_한다_11_1"
+                        "하고"
                     ],
-                    "explanation": "The target keyword was: 【해야_한다_11_1】"
+                    "explanation": "The target keyword was: 【하고】"
                 }
             ]
         }
@@ -4943,11 +4943,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («해야_한다_11_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («이랑»):",
                     "acceptedAnswers": [
-                        "해야_한다_11_2"
+                        "이랑"
                     ],
-                    "explanation": "The target keyword was: 【해야_한다_11_2】"
+                    "explanation": "The target keyword was: 【이랑】"
                 }
             ]
         }
@@ -5029,11 +5029,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («해야_한다_11_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («와과»):",
                     "acceptedAnswers": [
-                        "해야_한다_11_3"
+                        "와과"
                     ],
-                    "explanation": "The target keyword was: 【해야_한다_11_3】"
+                    "explanation": "The target keyword was: 【와과】"
                 }
             ]
         }
@@ -5115,11 +5115,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («해야_한다_11_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («같이»):",
                     "acceptedAnswers": [
-                        "해야_한다_11_4"
+                        "같이"
                     ],
-                    "explanation": "The target keyword was: 【해야_한다_11_4】"
+                    "explanation": "The target keyword was: 【같이】"
                 }
             ]
         }
@@ -5201,11 +5201,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («해야_한다_11_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («함께»):",
                     "acceptedAnswers": [
-                        "해야_한다_11_5"
+                        "함께"
                     ],
-                    "explanation": "The target keyword was: 【해야_한다_11_5】"
+                    "explanation": "The target keyword was: 【함께】"
                 }
             ]
         }
@@ -5287,11 +5287,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («가시다_12_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («커서»):",
                     "acceptedAnswers": [
-                        "가시다_12_1"
+                        "커서"
                     ],
-                    "explanation": "The target keyword was: 【가시다_12_1】"
+                    "explanation": "The target keyword was: 【커서】"
                 }
             ]
         }
@@ -5373,11 +5373,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («가시다_12_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («작아서»):",
                     "acceptedAnswers": [
-                        "가시다_12_2"
+                        "작아서"
                     ],
-                    "explanation": "The target keyword was: 【가시다_12_2】"
+                    "explanation": "The target keyword was: 【작아서】"
                 }
             ]
         }
@@ -5459,11 +5459,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («가시다_12_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («비싸서»):",
                     "acceptedAnswers": [
-                        "가시다_12_3"
+                        "비싸서"
                     ],
-                    "explanation": "The target keyword was: 【가시다_12_3】"
+                    "explanation": "The target keyword was: 【비싸서】"
                 }
             ]
         }
@@ -5545,11 +5545,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («가시다_12_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («좋아서»):",
                     "acceptedAnswers": [
-                        "가시다_12_4"
+                        "좋아서"
                     ],
-                    "explanation": "The target keyword was: 【가시다_12_4】"
+                    "explanation": "The target keyword was: 【좋아서】"
                 }
             ]
         }
@@ -5631,11 +5631,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («가시다_12_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («더워서»):",
                     "acceptedAnswers": [
-                        "가시다_12_5"
+                        "더워서"
                     ],
-                    "explanation": "The target keyword was: 【가시다_12_5】"
+                    "explanation": "The target keyword was: 【더워서】"
                 }
             ]
         }
@@ -5717,11 +5717,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («드리다_13_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («크지만»):",
                     "acceptedAnswers": [
-                        "드리다_13_1"
+                        "크지만"
                     ],
-                    "explanation": "The target keyword was: 【드리다_13_1】"
+                    "explanation": "The target keyword was: 【크지만】"
                 }
             ]
         }
@@ -5803,11 +5803,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («드리다_13_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («바쁘지만»):",
                     "acceptedAnswers": [
-                        "드리다_13_2"
+                        "바쁘지만"
                     ],
-                    "explanation": "The target keyword was: 【드리다_13_2】"
+                    "explanation": "The target keyword was: 【바쁘지만】"
                 }
             ]
         }
@@ -5889,11 +5889,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («드리다_13_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («어렵지만»):",
                     "acceptedAnswers": [
-                        "드리다_13_3"
+                        "어렵지만"
                     ],
-                    "explanation": "The target keyword was: 【드리다_13_3】"
+                    "explanation": "The target keyword was: 【어렵지만】"
                 }
             ]
         }
@@ -5975,11 +5975,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («드리다_13_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («좋지만»):",
                     "acceptedAnswers": [
-                        "드리다_13_4"
+                        "좋지만"
                     ],
-                    "explanation": "The target keyword was: 【드리다_13_4】"
+                    "explanation": "The target keyword was: 【좋지만】"
                 }
             ]
         }
@@ -6061,11 +6061,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («드리다_13_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («멀지만»):",
                     "acceptedAnswers": [
-                        "드리다_13_5"
+                        "멀지만"
                     ],
-                    "explanation": "The target keyword was: 【드리다_13_5】"
+                    "explanation": "The target keyword was: 【멀지만】"
                 }
             ]
         }
@@ -6147,11 +6147,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («바빠서_14_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («가고_싶다»):",
                     "acceptedAnswers": [
-                        "바빠서_14_1"
+                        "가고_싶다"
                     ],
-                    "explanation": "The target keyword was: 【바빠서_14_1】"
+                    "explanation": "The target keyword was: 【가고_싶다】"
                 }
             ]
         }
@@ -6233,11 +6233,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («바빠서_14_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («먹고_싶다»):",
                     "acceptedAnswers": [
-                        "바빠서_14_2"
+                        "먹고_싶다"
                     ],
-                    "explanation": "The target keyword was: 【바빠서_14_2】"
+                    "explanation": "The target keyword was: 【먹고_싶다】"
                 }
             ]
         }
@@ -6319,11 +6319,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («바빠서_14_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («보고_싶다»):",
                     "acceptedAnswers": [
-                        "바빠서_14_3"
+                        "보고_싶다"
                     ],
-                    "explanation": "The target keyword was: 【바빠서_14_3】"
+                    "explanation": "The target keyword was: 【보고_싶다】"
                 }
             ]
         }
@@ -6405,11 +6405,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («바빠서_14_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («만나고_싶다»):",
                     "acceptedAnswers": [
-                        "바빠서_14_4"
+                        "만나고_싶다"
                     ],
-                    "explanation": "The target keyword was: 【바빠서_14_4】"
+                    "explanation": "The target keyword was: 【만나고_싶다】"
                 }
             ]
         }
@@ -6491,11 +6491,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («바빠서_14_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («배우고_싶다»):",
                     "acceptedAnswers": [
-                        "바빠서_14_5"
+                        "배우고_싶다"
                     ],
-                    "explanation": "The target keyword was: 【바빠서_14_5】"
+                    "explanation": "The target keyword was: 【배우고_싶다】"
                 }
             ]
         }
@@ -6577,11 +6577,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («그렇지만_15_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («가세요»):",
                     "acceptedAnswers": [
-                        "그렇지만_15_1"
+                        "가세요"
                     ],
-                    "explanation": "The target keyword was: 【그렇지만_15_1】"
+                    "explanation": "The target keyword was: 【가세요】"
                 }
             ]
         }
@@ -6663,11 +6663,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («그렇지만_15_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («드세요»):",
                     "acceptedAnswers": [
-                        "그렇지만_15_2"
+                        "드세요"
                     ],
-                    "explanation": "The target keyword was: 【그렇지만_15_2】"
+                    "explanation": "The target keyword was: 【드세요】"
                 }
             ]
         }
@@ -6749,11 +6749,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («그렇지만_15_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («읽으세요»):",
                     "acceptedAnswers": [
-                        "그렇지만_15_3"
+                        "읽으세요"
                     ],
-                    "explanation": "The target keyword was: 【그렇지만_15_3】"
+                    "explanation": "The target keyword was: 【읽으세요】"
                 }
             ]
         }
@@ -6835,11 +6835,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («그렇지만_15_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («앉으세요»):",
                     "acceptedAnswers": [
-                        "그렇지만_15_4"
+                        "앉으세요"
                     ],
-                    "explanation": "The target keyword was: 【그렇지만_15_4】"
+                    "explanation": "The target keyword was: 【앉으세요】"
                 }
             ]
         }
@@ -6921,11 +6921,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («그렇지만_15_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («기다리세요»):",
                     "acceptedAnswers": [
-                        "그렇지만_15_5"
+                        "기다리세요"
                     ],
-                    "explanation": "The target keyword was: 【그렇지만_15_5】"
+                    "explanation": "The target keyword was: 【기다리세요】"
                 }
             ]
         }
@@ -7007,11 +7007,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («읽은_책_16_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («가지_마세요»):",
                     "acceptedAnswers": [
-                        "읽은_책_16_1"
+                        "가지_마세요"
                     ],
-                    "explanation": "The target keyword was: 【읽은_책_16_1】"
+                    "explanation": "The target keyword was: 【가지_마세요】"
                 }
             ]
         }
@@ -7093,11 +7093,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («읽은_책_16_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («먹지_마세요»):",
                     "acceptedAnswers": [
-                        "읽은_책_16_2"
+                        "먹지_마세요"
                     ],
-                    "explanation": "The target keyword was: 【읽은_책_16_2】"
+                    "explanation": "The target keyword was: 【먹지_마세요】"
                 }
             ]
         }
@@ -7179,11 +7179,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («읽은_책_16_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («떠들지_마세요»):",
                     "acceptedAnswers": [
-                        "읽은_책_16_3"
+                        "떠들지_마세요"
                     ],
-                    "explanation": "The target keyword was: 【읽은_책_16_3】"
+                    "explanation": "The target keyword was: 【떠들지_마세요】"
                 }
             ]
         }
@@ -7265,11 +7265,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («읽은_책_16_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («걱정하지_마세요»):",
                     "acceptedAnswers": [
-                        "읽은_책_16_4"
+                        "걱정하지_마세요"
                     ],
-                    "explanation": "The target keyword was: 【읽은_책_16_4】"
+                    "explanation": "The target keyword was: 【걱정하지_마세요】"
                 }
             ]
         }
@@ -7351,11 +7351,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («읽은_책_16_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («늦지_마세요»):",
                     "acceptedAnswers": [
-                        "읽은_책_16_5"
+                        "늦지_마세요"
                     ],
-                    "explanation": "The target keyword was: 【읽은_책_16_5】"
+                    "explanation": "The target keyword was: 【늦지_마세요】"
                 }
             ]
         }
@@ -7437,11 +7437,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («말하기_17_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («가야_한다»):",
                     "acceptedAnswers": [
-                        "말하기_17_1"
+                        "가야_한다"
                     ],
-                    "explanation": "The target keyword was: 【말하기_17_1】"
+                    "explanation": "The target keyword was: 【가야_한다】"
                 }
             ]
         }
@@ -7523,11 +7523,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («말하기_17_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («먹어야_한다»):",
                     "acceptedAnswers": [
-                        "말하기_17_2"
+                        "먹어야_한다"
                     ],
-                    "explanation": "The target keyword was: 【말하기_17_2】"
+                    "explanation": "The target keyword was: 【먹어야_한다】"
                 }
             ]
         }
@@ -7609,11 +7609,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («말하기_17_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («공부해야_한다»):",
                     "acceptedAnswers": [
-                        "말하기_17_3"
+                        "공부해야_한다"
                     ],
-                    "explanation": "The target keyword was: 【말하기_17_3】"
+                    "explanation": "The target keyword was: 【공부해야_한다】"
                 }
             ]
         }
@@ -7695,11 +7695,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («말하기_17_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («일해야_한다»):",
                     "acceptedAnswers": [
-                        "말하기_17_4"
+                        "일해야_한다"
                     ],
-                    "explanation": "The target keyword was: 【말하기_17_4】"
+                    "explanation": "The target keyword was: 【일해야_한다】"
                 }
             ]
         }
@@ -7781,11 +7781,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («말하기_17_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («지켜야_한다»):",
                     "acceptedAnswers": [
-                        "말하기_17_5"
+                        "지켜야_한다"
                     ],
-                    "explanation": "The target keyword was: 【말하기_17_5】"
+                    "explanation": "The target keyword was: 【지켜야_한다】"
                 }
             ]
         }
@@ -7867,11 +7867,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («한다고_하다_18_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («가면»):",
                     "acceptedAnswers": [
-                        "한다고_하다_18_1"
+                        "가면"
                     ],
-                    "explanation": "The target keyword was: 【한다고_하다_18_1】"
+                    "explanation": "The target keyword was: 【가면】"
                 }
             ]
         }
@@ -7953,11 +7953,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («한다고_하다_18_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («오면»):",
                     "acceptedAnswers": [
-                        "한다고_하다_18_2"
+                        "오면"
                     ],
-                    "explanation": "The target keyword was: 【한다고_하다_18_2】"
+                    "explanation": "The target keyword was: 【오면】"
                 }
             ]
         }
@@ -8039,11 +8039,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («한다고_하다_18_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («만나면»):",
                     "acceptedAnswers": [
-                        "한다고_하다_18_3"
+                        "만나면"
                     ],
-                    "explanation": "The target keyword was: 【한다고_하다_18_3】"
+                    "explanation": "The target keyword was: 【만나면】"
                 }
             ]
         }
@@ -8125,11 +8125,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («한다고_하다_18_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («비가_오면»):",
                     "acceptedAnswers": [
-                        "한다고_하다_18_4"
+                        "비가_오면"
                     ],
-                    "explanation": "The target keyword was: 【한다고_하다_18_4】"
+                    "explanation": "The target keyword was: 【비가_오면】"
                 }
             ]
         }
@@ -8211,11 +8211,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («한다고_하다_18_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («시간이_있으면»):",
                     "acceptedAnswers": [
-                        "한다고_하다_18_5"
+                        "시간이_있으면"
                     ],
-                    "explanation": "The target keyword was: 【한다고_하다_18_5】"
+                    "explanation": "The target keyword was: 【시간이_있으면】"
                 }
             ]
         }
@@ -8297,11 +8297,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («보이다_19_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («가는_사람»):",
                     "acceptedAnswers": [
-                        "보이다_19_1"
+                        "가는_사람"
                     ],
-                    "explanation": "The target keyword was: 【보이다_19_1】"
+                    "explanation": "The target keyword was: 【가는_사람】"
                 }
             ]
         }
@@ -8383,11 +8383,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («보이다_19_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («먹는_음식»):",
                     "acceptedAnswers": [
-                        "보이다_19_2"
+                        "먹는_음식"
                     ],
-                    "explanation": "The target keyword was: 【보이다_19_2】"
+                    "explanation": "The target keyword was: 【먹는_음식】"
                 }
             ]
         }
@@ -8469,11 +8469,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («보이다_19_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («보는_영화»):",
                     "acceptedAnswers": [
-                        "보이다_19_3"
+                        "보는_영화"
                     ],
-                    "explanation": "The target keyword was: 【보이다_19_3】"
+                    "explanation": "The target keyword was: 【보는_영화】"
                 }
             ]
         }
@@ -8555,11 +8555,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («보이다_19_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («만나는_친구»):",
                     "acceptedAnswers": [
-                        "보이다_19_4"
+                        "만나는_친구"
                     ],
-                    "explanation": "The target keyword was: 【보이다_19_4】"
+                    "explanation": "The target keyword was: 【만나는_친구】"
                 }
             ]
         }
@@ -8641,11 +8641,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («보이다_19_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («읽는_책»):",
                     "acceptedAnswers": [
-                        "보이다_19_5"
+                        "읽는_책"
                     ],
-                    "explanation": "The target keyword was: 【보이다_19_5】"
+                    "explanation": "The target keyword was: 【읽는_책】"
                 }
             ]
         }
@@ -8727,11 +8727,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («먹이다_20_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («회사»):",
                     "acceptedAnswers": [
-                        "먹이다_20_1"
+                        "회사"
                     ],
-                    "explanation": "The target keyword was: 【먹이다_20_1】"
+                    "explanation": "The target keyword was: 【회사】"
                 }
             ]
         }
@@ -8813,11 +8813,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («먹이다_20_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («회의»):",
                     "acceptedAnswers": [
-                        "먹이다_20_2"
+                        "회의"
                     ],
-                    "explanation": "The target keyword was: 【먹이다_20_2】"
+                    "explanation": "The target keyword was: 【회의】"
                 }
             ]
         }
@@ -8899,11 +8899,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («먹이다_20_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («업무»):",
                     "acceptedAnswers": [
-                        "먹이다_20_3"
+                        "업무"
                     ],
-                    "explanation": "The target keyword was: 【먹이다_20_3】"
+                    "explanation": "The target keyword was: 【업무】"
                 }
             ]
         }
@@ -8985,11 +8985,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («먹이다_20_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («보고서»):",
                     "acceptedAnswers": [
-                        "먹이다_20_4"
+                        "보고서"
                     ],
-                    "explanation": "The target keyword was: 【먹이다_20_4】"
+                    "explanation": "The target keyword was: 【보고서】"
                 }
             ]
         }
@@ -9071,11 +9071,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («먹이다_20_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («이메일»):",
                     "acceptedAnswers": [
-                        "먹이다_20_5"
+                        "이메일"
                     ],
-                    "explanation": "The target keyword was: 【먹이다_20_5】"
+                    "explanation": "The target keyword was: 【이메일】"
                 }
             ]
         }
@@ -9157,11 +9157,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («가면_21_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («병원»):",
                     "acceptedAnswers": [
-                        "가면_21_1"
+                        "병원"
                     ],
-                    "explanation": "The target keyword was: 【가면_21_1】"
+                    "explanation": "The target keyword was: 【병원】"
                 }
             ]
         }
@@ -9243,11 +9243,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («가면_21_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («의사»):",
                     "acceptedAnswers": [
-                        "가면_21_2"
+                        "의사"
                     ],
-                    "explanation": "The target keyword was: 【가면_21_2】"
+                    "explanation": "The target keyword was: 【의사】"
                 }
             ]
         }
@@ -9329,11 +9329,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («가면_21_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («약국»):",
                     "acceptedAnswers": [
-                        "가면_21_3"
+                        "약국"
                     ],
-                    "explanation": "The target keyword was: 【가면_21_3】"
+                    "explanation": "The target keyword was: 【약국】"
                 }
             ]
         }
@@ -9415,11 +9415,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («가면_21_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («증상»):",
                     "acceptedAnswers": [
-                        "가면_21_4"
+                        "증상"
                     ],
-                    "explanation": "The target keyword was: 【가면_21_4】"
+                    "explanation": "The target keyword was: 【증상】"
                 }
             ]
         }
@@ -9501,11 +9501,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («가면_21_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («치료»):",
                     "acceptedAnswers": [
-                        "가면_21_5"
+                        "치료"
                     ],
-                    "explanation": "The target keyword was: 【가면_21_5】"
+                    "explanation": "The target keyword was: 【치료】"
                 }
             ]
         }
@@ -9587,11 +9587,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («할수록_22_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («한식»):",
                     "acceptedAnswers": [
-                        "할수록_22_1"
+                        "한식"
                     ],
-                    "explanation": "The target keyword was: 【할수록_22_1】"
+                    "explanation": "The target keyword was: 【한식】"
                 }
             ]
         }
@@ -9673,11 +9673,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («할수록_22_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («김치»):",
                     "acceptedAnswers": [
-                        "할수록_22_2"
+                        "김치"
                     ],
-                    "explanation": "The target keyword was: 【할수록_22_2】"
+                    "explanation": "The target keyword was: 【김치】"
                 }
             ]
         }
@@ -9759,11 +9759,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («할수록_22_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («비빔밥»):",
                     "acceptedAnswers": [
-                        "할수록_22_3"
+                        "비빔밥"
                     ],
-                    "explanation": "The target keyword was: 【할수록_22_3】"
+                    "explanation": "The target keyword was: 【비빔밥】"
                 }
             ]
         }
@@ -9845,11 +9845,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («할수록_22_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («불고기»):",
                     "acceptedAnswers": [
-                        "할수록_22_4"
+                        "불고기"
                     ],
-                    "explanation": "The target keyword was: 【할수록_22_4】"
+                    "explanation": "The target keyword was: 【불고기】"
                 }
             ]
         }
@@ -9931,11 +9931,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («할수록_22_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («식문화»):",
                     "acceptedAnswers": [
-                        "할수록_22_5"
+                        "식문화"
                     ],
-                    "explanation": "The target keyword was: 【할수록_22_5】"
+                    "explanation": "The target keyword was: 【식문화】"
                 }
             ]
         }
@@ -10017,11 +10017,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («회의_23_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («영화»):",
                     "acceptedAnswers": [
-                        "회의_23_1"
+                        "영화"
                     ],
-                    "explanation": "The target keyword was: 【회의_23_1】"
+                    "explanation": "The target keyword was: 【영화】"
                 }
             ]
         }
@@ -10103,11 +10103,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («회의_23_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («드라마»):",
                     "acceptedAnswers": [
-                        "회의_23_2"
+                        "드라마"
                     ],
-                    "explanation": "The target keyword was: 【회의_23_2】"
+                    "explanation": "The target keyword was: 【드라마】"
                 }
             ]
         }
@@ -10189,11 +10189,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («회의_23_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («배우»):",
                     "acceptedAnswers": [
-                        "회의_23_3"
+                        "배우"
                     ],
-                    "explanation": "The target keyword was: 【회의_23_3】"
+                    "explanation": "The target keyword was: 【배우】"
                 }
             ]
         }
@@ -10275,11 +10275,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («회의_23_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («음악»):",
                     "acceptedAnswers": [
-                        "회의_23_4"
+                        "음악"
                     ],
-                    "explanation": "The target keyword was: 【회의_23_4】"
+                    "explanation": "The target keyword was: 【음악】"
                 }
             ]
         }
@@ -10361,11 +10361,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («회의_23_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («예술»):",
                     "acceptedAnswers": [
-                        "회의_23_5"
+                        "예술"
                     ],
-                    "explanation": "The target keyword was: 【회의_23_5】"
+                    "explanation": "The target keyword was: 【예술】"
                 }
             ]
         }
@@ -10447,11 +10447,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («드라마_24_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («은행»):",
                     "acceptedAnswers": [
-                        "드라마_24_1"
+                        "은행"
                     ],
-                    "explanation": "The target keyword was: 【드라마_24_1】"
+                    "explanation": "The target keyword was: 【은행】"
                 }
             ]
         }
@@ -10533,11 +10533,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («드라마_24_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («계좌»):",
                     "acceptedAnswers": [
-                        "드라마_24_2"
+                        "계좌"
                     ],
-                    "explanation": "The target keyword was: 【드라마_24_2】"
+                    "explanation": "The target keyword was: 【계좌】"
                 }
             ]
         }
@@ -10619,11 +10619,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («드라마_24_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («송금»):",
                     "acceptedAnswers": [
-                        "드라마_24_3"
+                        "송금"
                     ],
-                    "explanation": "The target keyword was: 【드라마_24_3】"
+                    "explanation": "The target keyword was: 【송금】"
                 }
             ]
         }
@@ -10705,11 +10705,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («드라마_24_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («환전»):",
                     "acceptedAnswers": [
-                        "드라마_24_4"
+                        "환전"
                     ],
-                    "explanation": "The target keyword was: 【드라마_24_4】"
+                    "explanation": "The target keyword was: 【환전】"
                 }
             ]
         }
@@ -10791,11 +10791,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («드라마_24_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («신용카드»):",
                     "acceptedAnswers": [
-                        "드라마_24_5"
+                        "신용카드"
                     ],
-                    "explanation": "The target keyword was: 【드라마_24_5】"
+                    "explanation": "The target keyword was: 【신용카드】"
                 }
             ]
         }
@@ -10877,11 +10877,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («김치_25_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («환경»):",
                     "acceptedAnswers": [
-                        "김치_25_1"
+                        "환경"
                     ],
-                    "explanation": "The target keyword was: 【김치_25_1】"
+                    "explanation": "The target keyword was: 【환경】"
                 }
             ]
         }
@@ -10963,11 +10963,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («김치_25_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («자연»):",
                     "acceptedAnswers": [
-                        "김치_25_2"
+                        "자연"
                     ],
-                    "explanation": "The target keyword was: 【김치_25_2】"
+                    "explanation": "The target keyword was: 【자연】"
                 }
             ]
         }
@@ -11049,11 +11049,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («김치_25_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («기후»):",
                     "acceptedAnswers": [
-                        "김치_25_3"
+                        "기후"
                     ],
-                    "explanation": "The target keyword was: 【김치_25_3】"
+                    "explanation": "The target keyword was: 【기후】"
                 }
             ]
         }
@@ -11135,11 +11135,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («김치_25_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («재활용»):",
                     "acceptedAnswers": [
-                        "김치_25_4"
+                        "재활용"
                     ],
-                    "explanation": "The target keyword was: 【김치_25_4】"
+                    "explanation": "The target keyword was: 【재활용】"
                 }
             ]
         }
@@ -11221,11 +11221,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («김치_25_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («보호»):",
                     "acceptedAnswers": [
-                        "김치_25_5"
+                        "보호"
                     ],
-                    "explanation": "The target keyword was: 【김치_25_5】"
+                    "explanation": "The target keyword was: 【보호】"
                 }
             ]
         }
@@ -11307,11 +11307,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («병원_26_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («법률»):",
                     "acceptedAnswers": [
-                        "병원_26_1"
+                        "법률"
                     ],
-                    "explanation": "The target keyword was: 【병원_26_1】"
+                    "explanation": "The target keyword was: 【법률】"
                 }
             ]
         }
@@ -11393,11 +11393,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («병원_26_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («헌법»):",
                     "acceptedAnswers": [
-                        "병원_26_2"
+                        "헌법"
                     ],
-                    "explanation": "The target keyword was: 【병원_26_2】"
+                    "explanation": "The target keyword was: 【헌법】"
                 }
             ]
         }
@@ -11479,11 +11479,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («병원_26_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («재판»):",
                     "acceptedAnswers": [
-                        "병원_26_3"
+                        "재판"
                     ],
-                    "explanation": "The target keyword was: 【병원_26_3】"
+                    "explanation": "The target keyword was: 【재판】"
                 }
             ]
         }
@@ -11565,11 +11565,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («병원_26_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («판사»):",
                     "acceptedAnswers": [
-                        "병원_26_4"
+                        "판사"
                     ],
-                    "explanation": "The target keyword was: 【병원_26_4】"
+                    "explanation": "The target keyword was: 【판사】"
                 }
             ]
         }
@@ -11651,11 +11651,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («병원_26_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («권리»):",
                     "acceptedAnswers": [
-                        "병원_26_5"
+                        "권리"
                     ],
-                    "explanation": "The target keyword was: 【병원_26_5】"
+                    "explanation": "The target keyword was: 【권리】"
                 }
             ]
         }
@@ -11737,11 +11737,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («은행_27_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («문학»):",
                     "acceptedAnswers": [
-                        "은행_27_1"
+                        "문학"
                     ],
-                    "explanation": "The target keyword was: 【은행_27_1】"
+                    "explanation": "The target keyword was: 【문학】"
                 }
             ]
         }
@@ -11823,11 +11823,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («은행_27_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («시인»):",
                     "acceptedAnswers": [
-                        "은행_27_2"
+                        "시인"
                     ],
-                    "explanation": "The target keyword was: 【은행_27_2】"
+                    "explanation": "The target keyword was: 【시인】"
                 }
             ]
         }
@@ -11909,11 +11909,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («은행_27_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («소설»):",
                     "acceptedAnswers": [
-                        "은행_27_3"
+                        "소설"
                     ],
-                    "explanation": "The target keyword was: 【은행_27_3】"
+                    "explanation": "The target keyword was: 【소설】"
                 }
             ]
         }
@@ -11995,11 +11995,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («은행_27_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («작품»):",
                     "acceptedAnswers": [
-                        "은행_27_4"
+                        "작품"
                     ],
-                    "explanation": "The target keyword was: 【은행_27_4】"
+                    "explanation": "The target keyword was: 【작품】"
                 }
             ]
         }
@@ -12081,11 +12081,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («은행_27_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («정서»):",
                     "acceptedAnswers": [
-                        "은행_27_5"
+                        "정서"
                     ],
-                    "explanation": "The target keyword was: 【은행_27_5】"
+                    "explanation": "The target keyword was: 【정서】"
                 }
             ]
         }
@@ -12167,11 +12167,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («일석이조_28_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («언론»):",
                     "acceptedAnswers": [
-                        "일석이조_28_1"
+                        "언론"
                     ],
-                    "explanation": "The target keyword was: 【일석이조_28_1】"
+                    "explanation": "The target keyword was: 【언론】"
                 }
             ]
         }
@@ -12253,11 +12253,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («일석이조_28_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («기사»):",
                     "acceptedAnswers": [
-                        "일석이조_28_2"
+                        "기사"
                     ],
-                    "explanation": "The target keyword was: 【일석이조_28_2】"
+                    "explanation": "The target keyword was: 【기사】"
                 }
             ]
         }
@@ -12339,11 +12339,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («일석이조_28_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («기자»):",
                     "acceptedAnswers": [
-                        "일석이조_28_3"
+                        "기자"
                     ],
-                    "explanation": "The target keyword was: 【일석이조_28_3】"
+                    "explanation": "The target keyword was: 【기자】"
                 }
             ]
         }
@@ -12425,11 +12425,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («일석이조_28_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («보도»):",
                     "acceptedAnswers": [
-                        "일석이조_28_4"
+                        "보도"
                     ],
-                    "explanation": "The target keyword was: 【일석이조_28_4】"
+                    "explanation": "The target keyword was: 【보도】"
                 }
             ]
         }
@@ -12511,11 +12511,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («일석이조_28_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («사설»):",
                     "acceptedAnswers": [
-                        "일석이조_28_5"
+                        "사설"
                     ],
-                    "explanation": "The target keyword was: 【일석이조_28_5】"
+                    "explanation": "The target keyword was: 【사설】"
                 }
             ]
         }
@@ -12597,11 +12597,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («논문_29_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («철학»):",
                     "acceptedAnswers": [
-                        "논문_29_1"
+                        "철학"
                     ],
-                    "explanation": "The target keyword was: 【논문_29_1】"
+                    "explanation": "The target keyword was: 【철학】"
                 }
             ]
         }
@@ -12683,11 +12683,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («논문_29_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («윤리»):",
                     "acceptedAnswers": [
-                        "논문_29_2"
+                        "윤리"
                     ],
-                    "explanation": "The target keyword was: 【논문_29_2】"
+                    "explanation": "The target keyword was: 【윤리】"
                 }
             ]
         }
@@ -12769,11 +12769,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («논문_29_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («사상»):",
                     "acceptedAnswers": [
-                        "논문_29_3"
+                        "사상"
                     ],
-                    "explanation": "The target keyword was: 【논문_29_3】"
+                    "explanation": "The target keyword was: 【사상】"
                 }
             ]
         }
@@ -12855,11 +12855,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («논문_29_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («가치관»):",
                     "acceptedAnswers": [
-                        "논문_29_4"
+                        "가치관"
                     ],
-                    "explanation": "The target keyword was: 【논문_29_4】"
+                    "explanation": "The target keyword was: 【가치관】"
                 }
             ]
         }
@@ -12941,11 +12941,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («논문_29_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («도덕»):",
                     "acceptedAnswers": [
-                        "논문_29_5"
+                        "도덕"
                     ],
-                    "explanation": "The target keyword was: 【논문_29_5】"
+                    "explanation": "The target keyword was: 【도덕】"
                 }
             ]
         }
@@ -13027,11 +13027,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («헌법_30_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («과학»):",
                     "acceptedAnswers": [
-                        "헌법_30_1"
+                        "과학"
                     ],
-                    "explanation": "The target keyword was: 【헌법_30_1】"
+                    "explanation": "The target keyword was: 【과학】"
                 }
             ]
         }
@@ -13113,11 +13113,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («헌법_30_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («기술»):",
                     "acceptedAnswers": [
-                        "헌법_30_2"
+                        "기술"
                     ],
-                    "explanation": "The target keyword was: 【헌법_30_2】"
+                    "explanation": "The target keyword was: 【기술】"
                 }
             ]
         }
@@ -13199,11 +13199,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («헌법_30_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («연구»):",
                     "acceptedAnswers": [
-                        "헌법_30_3"
+                        "연구"
                     ],
-                    "explanation": "The target keyword was: 【헌법_30_3】"
+                    "explanation": "The target keyword was: 【연구】"
                 }
             ]
         }
@@ -13285,11 +13285,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («헌법_30_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («실험»):",
                     "acceptedAnswers": [
-                        "헌법_30_4"
+                        "실험"
                     ],
-                    "explanation": "The target keyword was: 【헌법_30_4】"
+                    "explanation": "The target keyword was: 【실험】"
                 }
             ]
         }
@@ -13371,11 +13371,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («헌법_30_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («혁신»):",
                     "acceptedAnswers": [
-                        "헌법_30_5"
+                        "혁신"
                     ],
-                    "explanation": "The target keyword was: 【헌법_30_5】"
+                    "explanation": "The target keyword was: 【혁신】"
                 }
             ]
         }
@@ -13457,11 +13457,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («사회_31_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («외교»):",
                     "acceptedAnswers": [
-                        "사회_31_1"
+                        "외교"
                     ],
-                    "explanation": "The target keyword was: 【사회_31_1】"
+                    "explanation": "The target keyword was: 【외교】"
                 }
             ]
         }
@@ -13543,11 +13543,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («사회_31_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («안보»):",
                     "acceptedAnswers": [
-                        "사회_31_2"
+                        "안보"
                     ],
-                    "explanation": "The target keyword was: 【사회_31_2】"
+                    "explanation": "The target keyword was: 【안보】"
                 }
             ]
         }
@@ -13629,11 +13629,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («사회_31_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («국제관계»):",
                     "acceptedAnswers": [
-                        "사회_31_3"
+                        "국제관계"
                     ],
-                    "explanation": "The target keyword was: 【사회_31_3】"
+                    "explanation": "The target keyword was: 【국제관계】"
                 }
             ]
         }
@@ -13715,11 +13715,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («사회_31_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («협력»):",
                     "acceptedAnswers": [
-                        "사회_31_4"
+                        "협력"
                     ],
-                    "explanation": "The target keyword was: 【사회_31_4】"
+                    "explanation": "The target keyword was: 【협력】"
                 }
             ]
         }
@@ -13801,11 +13801,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («사회_31_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («조약»):",
                     "acceptedAnswers": [
-                        "사회_31_5"
+                        "조약"
                     ],
-                    "explanation": "The target keyword was: 【사회_31_5】"
+                    "explanation": "The target keyword was: 【조약】"
                 }
             ]
         }
@@ -13887,11 +13887,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («반도체_32_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («대사관»):",
                     "acceptedAnswers": [
-                        "반도체_32_1"
+                        "대사관"
                     ],
-                    "explanation": "The target keyword was: 【반도체_32_1】"
+                    "explanation": "The target keyword was: 【대사관】"
                 }
             ]
         }
@@ -13973,11 +13973,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («반도체_32_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («외교관»):",
                     "acceptedAnswers": [
-                        "반도체_32_2"
+                        "외교관"
                     ],
-                    "explanation": "The target keyword was: 【반도체_32_2】"
+                    "explanation": "The target keyword was: 【외교관】"
                 }
             ]
         }
@@ -14059,11 +14059,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («반도체_32_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («회담»):",
                     "acceptedAnswers": [
-                        "반도체_32_3"
+                        "회담"
                     ],
-                    "explanation": "The target keyword was: 【반도체_32_3】"
+                    "explanation": "The target keyword was: 【회담】"
                 }
             ]
         }
@@ -14145,11 +14145,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («반도체_32_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («합의»):",
                     "acceptedAnswers": [
-                        "반도체_32_4"
+                        "합의"
                     ],
-                    "explanation": "The target keyword was: 【반도체_32_4】"
+                    "explanation": "The target keyword was: 【합의】"
                 }
             ]
         }
@@ -14231,11 +14231,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («반도체_32_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («협정»):",
                     "acceptedAnswers": [
-                        "반도체_32_5"
+                        "협정"
                     ],
-                    "explanation": "The target keyword was: 【반도체_32_5】"
+                    "explanation": "The target keyword was: 【협정】"
                 }
             ]
         }
@@ -14317,11 +14317,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («외교_33_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («속담»):",
                     "acceptedAnswers": [
-                        "외교_33_1"
+                        "속담"
                     ],
-                    "explanation": "The target keyword was: 【외교_33_1】"
+                    "explanation": "The target keyword was: 【속담】"
                 }
             ]
         }
@@ -14403,11 +14403,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («외교_33_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («관용구»):",
                     "acceptedAnswers": [
-                        "외교_33_2"
+                        "관용구"
                     ],
-                    "explanation": "The target keyword was: 【외교_33_2】"
+                    "explanation": "The target keyword was: 【관용구】"
                 }
             ]
         }
@@ -14489,11 +14489,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («외교_33_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («사자성어»):",
                     "acceptedAnswers": [
-                        "외교_33_3"
+                        "사자성어"
                     ],
-                    "explanation": "The target keyword was: 【외교_33_3】"
+                    "explanation": "The target keyword was: 【사자성어】"
                 }
             ]
         }
@@ -14575,11 +14575,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («외교_33_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («비유»):",
                     "acceptedAnswers": [
-                        "외교_33_4"
+                        "비유"
                     ],
-                    "explanation": "The target keyword was: 【외교_33_4】"
+                    "explanation": "The target keyword was: 【비유】"
                 }
             ]
         }
@@ -14661,11 +14661,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («외교_33_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («함의»):",
                     "acceptedAnswers": [
-                        "외교_33_5"
+                        "함의"
                     ],
-                    "explanation": "The target keyword was: 【외교_33_5】"
+                    "explanation": "The target keyword was: 【함의】"
                 }
             ]
         }
@@ -14747,11 +14747,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («정상회담_34_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («정상회담»):",
                     "acceptedAnswers": [
-                        "정상회담_34_1"
+                        "정상회담"
                     ],
-                    "explanation": "The target keyword was: 【정상회담_34_1】"
+                    "explanation": "The target keyword was: 【정상회담】"
                 }
             ]
         }
@@ -14833,11 +14833,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («정상회담_34_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («공동선언»):",
                     "acceptedAnswers": [
-                        "정상회담_34_2"
+                        "공동선언"
                     ],
-                    "explanation": "The target keyword was: 【정상회담_34_2】"
+                    "explanation": "The target keyword was: 【공동선언】"
                 }
             ]
         }
@@ -14919,11 +14919,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («정상회담_34_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («정책»):",
                     "acceptedAnswers": [
-                        "정상회담_34_3"
+                        "정책"
                     ],
-                    "explanation": "The target keyword was: 【정상회담_34_3】"
+                    "explanation": "The target keyword was: 【정책】"
                 }
             ]
         }
@@ -15005,11 +15005,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («정상회담_34_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («국가»):",
                     "acceptedAnswers": [
-                        "정상회담_34_4"
+                        "국가"
                     ],
-                    "explanation": "The target keyword was: 【정상회담_34_4】"
+                    "explanation": "The target keyword was: 【국가】"
                 }
             ]
         }
@@ -15091,18 +15091,19 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («정상회담_34_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («미래»):",
                     "acceptedAnswers": [
-                        "정상회담_34_5"
+                        "미래"
                     ],
-                    "explanation": "The target keyword was: 【정상회담_34_5】"
+                    "explanation": "The target keyword was: 【미래】"
                 }
             ]
         }
     }
 };
-  var CURRICULUM = { id: 'korean', name: 'Korean', units: UNITS, lessons: LESSONS };
+  var ROADMAP = [];
+  var SUBJECT = { units: UNITS, lessons: LESSONS, roadmap: ROADMAP };
   global.FEARN_CURRICULA = global.FEARN_CURRICULA || {};
-  global.FEARN_CURRICULA['korean'] = CURRICULUM;
-  if (typeof module !== 'undefined' && module.exports) module.exports = CURRICULUM;
+  global.FEARN_CURRICULA['korean'] = SUBJECT;
+  if (typeof module !== 'undefined' && module.exports) module.exports = SUBJECT;
 })(typeof window !== 'undefined' ? window : global);

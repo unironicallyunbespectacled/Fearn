@@ -20,12 +20,12 @@
   var SUBJECT = 'spanish';
   var MODULE_ID = 'lang-spanish';
   var LEVEL_LABELS = {
-    "A1": "A1 — Beginner",
-    "A2": "A2 — Elementary",
-    "B1": "B1 — Intermediate",
-    "B2": "B2 — Upper-Intermediate",
-    "C1": "C1 — Advanced",
-    "C2": "C2 — DELE C2 (Maestría Superior / RAE)"
+    "A1": "DELE A1 — Acceso (Foundational)",
+    "A2": "DELE A2 — Plataforma (Elementary)",
+    "B1": "DELE B1 — Umbral (Intermediate)",
+    "B2": "DELE B2 — Avanzado (Upper-Intermediate)",
+    "C1": "DELE C1 — Dominio Operativo Eficaz (Advanced)",
+    "C2": "DELE C2 — Maestría Superior (Mastery)"
   };
 
   function getCurriculum() {

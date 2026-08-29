@@ -3883,6 +3883,47 @@ button.fearn-lang-btn-primary:hover:not(:disabled) {
   transform: scale(1.05);
 }
 
+/* Math blocks and inlines */
+.fearn-math-block {
+  margin: 10px 0;
+  padding: 10px 14px;
+  background: rgba(0, 0, 0, 0.3);
+  border-left: 3px solid var(--accent-1, #10b981);
+  border-radius: 6px;
+  font-family: 'Fira Code', 'JetBrains Mono', monospace;
+  font-size: 1.02em;
+  overflow-x: auto;
+}
+
+.fearn-math-inline {
+  font-family: 'Fira Code', 'JetBrains Mono', monospace;
+  font-weight: 600;
+  color: #7dd3fc;
+  background: rgba(125, 211, 252, 0.08);
+  padding: 1px 4px;
+  border-radius: 4px;
+}
+
+/* Activity Journal Calendar Cell */
+.fearn-calendar-cell {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 6px;
+  min-height: 48px;
+  border-radius: var(--radius-sm);
+  background: var(--glass-bg);
+  border: 1px solid var(--glass-border);
+  transition: all 0.2s ease;
+}
+
+.fearn-calendar-cell:hover {
+  border-color: var(--accent-1, var(--glass-border-strong));
+  background: var(--glass-bg-strong);
+}
+
 .fearn-mic-btn:active,
 .fearn-speak-btn:active {
   transform: scale(0.98);

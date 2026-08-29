@@ -20,12 +20,12 @@
   var SUBJECT = 'french';
   var MODULE_ID = 'lang-french';
   var LEVEL_LABELS = {
-    "A1": "A1 — Beginner",
-    "A2": "A2 — Elementary",
-    "B1": "B1 — Intermediate",
-    "B2": "B2 — Upper-Intermediate",
-    "C1": "C1 — Advanced",
-    "C2": "C2 — DALF C2 (Maîtrise Supérieure)"
+    "A1": "DELF A1 — Découverte (Foundational)",
+    "A2": "DELF A2 — Survie (Elementary)",
+    "B1": "DELF B1 — Seuil (Intermediate)",
+    "B2": "DELF B2 — Indépendant (Upper-Intermediate)",
+    "C1": "DALF C1 — Autonome (Advanced)",
+    "C2": "DALF C2 — Maîtrise Supérieure (Mastery)"
   };
 
   function getCurriculum() {

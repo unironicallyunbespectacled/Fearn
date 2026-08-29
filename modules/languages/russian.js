@@ -20,12 +20,12 @@
   var SUBJECT = 'russian';
   var MODULE_ID = 'lang-russian';
   var LEVEL_LABELS = {
-    "A1": "A1 — Beginner",
-    "A2": "A2 — Elementary",
-    "B1": "B1 — Intermediate",
-    "B2": "B2 — Upper-Intermediate",
-    "C1": "C1 — Advanced",
-    "C2": "C2 — TORFL / TRKI-4 (Свободное владение)"
+    "A1": "ТРКИ Элементарный (TEU) / CEFR A1",
+    "A2": "ТРКИ Базовый (TBU) / CEFR A2",
+    "B1": "ТРКИ-1 (TORFL-1) / CEFR B1",
+    "B2": "ТРКИ-2 (TORFL-2) / CEFR B2",
+    "C1": "ТРКИ-3 (TORFL-3) / CEFR C1",
+    "C2": "ТРКИ-4 (TORFL-4) / CEFR C2 — Свободное владение"
   };
 
   function getCurriculum() {

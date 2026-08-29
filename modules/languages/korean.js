@@ -20,12 +20,12 @@
   var SUBJECT = 'korean';
   var MODULE_ID = 'lang-korean';
   var LEVEL_LABELS = {
-    "A1": "A1 — Beginner",
-    "A2": "A2 — Elementary",
-    "B1": "B1 — Intermediate",
-    "B2": "B2 — Upper-Intermediate",
-    "C1": "C1 — Advanced",
-    "C2": "C2 — TOPIK II Level 6 / C2 Master"
+    "A1": "TOPIK I (1급) / CEFR A1 — 입문 (Foundational)",
+    "A2": "TOPIK I (2급) / CEFR A2 — 초급 (Elementary)",
+    "B1": "TOPIK II (3급) / CEFR B1 — 중급 (Intermediate)",
+    "B2": "TOPIK II (4급) / CEFR B2 — 중고급 (Pre-Advanced)",
+    "C1": "TOPIK II (5급) / CEFR C1 — 고급 (Advanced)",
+    "C2": "TOPIK II (6급) / CEFR C2 — 숙달 (Mastery)"
   };
 
   function getCurriculum() {

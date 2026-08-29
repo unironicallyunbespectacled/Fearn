@@ -20,12 +20,12 @@
   var SUBJECT = 'japanese';
   var MODULE_ID = 'lang-japanese';
   var LEVEL_LABELS = {
-    "A1": "A1 — Beginner",
-    "A2": "A2 — Elementary",
-    "B1": "B1 — Intermediate",
-    "B2": "B2 — Upper-Intermediate",
-    "C1": "C1 — Advanced",
-    "C2": "C2 — JLPT N1 (High Pass) / BJT J1+ / CEFR C2"
+    "A1": "JLPT N5 / CEFR A1 — 入門 (Foundational)",
+    "A2": "JLPT N4 / CEFR A2 — 初級 (Elementary)",
+    "B1": "JLPT N3 / CEFR B1 — 中級 (Intermediate)",
+    "B2": "JLPT N2 / CEFR B2 — 中上級 (Pre-Advanced)",
+    "C1": "JLPT N1 / CEFR C1 — 上級 (Advanced)",
+    "C2": "JLPT N1 (High Pass) / BJT J1+ / CEFR C2 — 熟達 (Mastery)"
   };
 
   function getCurriculum() {

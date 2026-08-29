@@ -20,12 +20,12 @@
   var SUBJECT = 'german';
   var MODULE_ID = 'lang-german';
   var LEVEL_LABELS = {
-    "A1": "A1 — Beginner",
-    "A2": "A2 — Elementary",
-    "B1": "B1 — Intermediate",
-    "B2": "B2 — Upper-Intermediate",
-    "C1": "C1 — Advanced",
-    "C2": "C2 — Goethe-Zertifikat C2: GDS (Großes Deutsches Sprachdiplom)"
+    "A1": "Goethe-Zertifikat A1 — Start Deutsch 1",
+    "A2": "Goethe-Zertifikat A2 — Start Deutsch 2",
+    "B1": "Goethe-Zertifikat B1 — Zertifikat Deutsch",
+    "B2": "Goethe-Zertifikat B2 / TestDaF (TDN 3-4)",
+    "C1": "Goethe-Zertifikat C1 / TestDaF (TDN 5)",
+    "C2": "Goethe-Zertifikat C2: GDS (Großes Deutsches Sprachdiplom)"
   };
 
   function getCurriculum() {

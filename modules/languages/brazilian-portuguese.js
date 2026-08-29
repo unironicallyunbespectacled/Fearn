@@ -20,12 +20,12 @@
   var SUBJECT = 'brazilian-portuguese';
   var MODULE_ID = 'lang-brazilian-portuguese';
   var LEVEL_LABELS = {
-    "A1": "A1 — Beginner",
-    "A2": "A2 — Elementary",
-    "B1": "B1 — Intermediate",
-    "B2": "B2 — Upper-Intermediate",
-    "C1": "C1 — Advanced",
-    "C2": "C2 — CELPE-Bras Avançado Superior"
+    "A1": "CELPE-Bras Básico / CEFR A1 — Iniciante",
+    "A2": "CELPE-Bras Básico / CEFR A2 — Elementar",
+    "B1": "CELPE-Bras Intermediário / CEFR B1",
+    "B2": "CELPE-Bras Intermediário Superior / CEFR B2",
+    "C1": "CELPE-Bras Avançado / CEFR C1",
+    "C2": "CELPE-Bras Avançado Superior / CEFR C2 — Maestria"
   };
 
   function getCurriculum() {

@@ -1,4 +1,4 @@
-// Swahili curriculum — full CEFR A1–C2 roadmap (34 units, 170 lessons)
+// swahili curriculum
 (function (global) {
   'use strict';
   var UNITS = [
@@ -565,11 +565,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («jambo_1_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («jambo»):",
                     "acceptedAnswers": [
-                        "jambo_1_1"
+                        "jambo"
                     ],
-                    "explanation": "The target keyword was: 【jambo_1_1】"
+                    "explanation": "The target keyword was: 【jambo】"
                 }
             ]
         }
@@ -651,11 +651,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («jambo_1_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («habari»):",
                     "acceptedAnswers": [
-                        "jambo_1_2"
+                        "habari"
                     ],
-                    "explanation": "The target keyword was: 【jambo_1_2】"
+                    "explanation": "The target keyword was: 【habari】"
                 }
             ]
         }
@@ -737,11 +737,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («jambo_1_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («asante»):",
                     "acceptedAnswers": [
-                        "jambo_1_3"
+                        "asante"
                     ],
-                    "explanation": "The target keyword was: 【jambo_1_3】"
+                    "explanation": "The target keyword was: 【asante】"
                 }
             ]
         }
@@ -823,11 +823,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («jambo_1_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («kwaheri»):",
                     "acceptedAnswers": [
-                        "jambo_1_4"
+                        "kwaheri"
                     ],
-                    "explanation": "The target keyword was: 【jambo_1_4】"
+                    "explanation": "The target keyword was: 【kwaheri】"
                 }
             ]
         }
@@ -909,11 +909,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («jambo_1_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («karibu»):",
                     "acceptedAnswers": [
-                        "jambo_1_5"
+                        "karibu"
                     ],
-                    "explanation": "The target keyword was: 【jambo_1_5】"
+                    "explanation": "The target keyword was: 【karibu】"
                 }
             ]
         }
@@ -995,11 +995,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («mtu_2_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («mtu»):",
                     "acceptedAnswers": [
-                        "mtu_2_1"
+                        "mtu"
                     ],
-                    "explanation": "The target keyword was: 【mtu_2_1】"
+                    "explanation": "The target keyword was: 【mtu】"
                 }
             ]
         }
@@ -1081,11 +1081,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («mtu_2_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («watu»):",
                     "acceptedAnswers": [
-                        "mtu_2_2"
+                        "watu"
                     ],
-                    "explanation": "The target keyword was: 【mtu_2_2】"
+                    "explanation": "The target keyword was: 【watu】"
                 }
             ]
         }
@@ -1167,11 +1167,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («mtu_2_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («mtoto»):",
                     "acceptedAnswers": [
-                        "mtu_2_3"
+                        "mtoto"
                     ],
-                    "explanation": "The target keyword was: 【mtu_2_3】"
+                    "explanation": "The target keyword was: 【mtoto】"
                 }
             ]
         }
@@ -1253,11 +1253,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («mtu_2_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («watoto»):",
                     "acceptedAnswers": [
-                        "mtu_2_4"
+                        "watoto"
                     ],
-                    "explanation": "The target keyword was: 【mtu_2_4】"
+                    "explanation": "The target keyword was: 【watoto】"
                 }
             ]
         }
@@ -1339,11 +1339,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («mtu_2_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («mgeni»):",
                     "acceptedAnswers": [
-                        "mtu_2_5"
+                        "mgeni"
                     ],
-                    "explanation": "The target keyword was: 【mtu_2_5】"
+                    "explanation": "The target keyword was: 【mgeni】"
                 }
             ]
         }
@@ -1425,11 +1425,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («anasoma_3_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («kitabu»):",
                     "acceptedAnswers": [
-                        "anasoma_3_1"
+                        "kitabu"
                     ],
-                    "explanation": "The target keyword was: 【anasoma_3_1】"
+                    "explanation": "The target keyword was: 【kitabu】"
                 }
             ]
         }
@@ -1511,11 +1511,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («anasoma_3_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («vitabu»):",
                     "acceptedAnswers": [
-                        "anasoma_3_2"
+                        "vitabu"
                     ],
-                    "explanation": "The target keyword was: 【anasoma_3_2】"
+                    "explanation": "The target keyword was: 【vitabu】"
                 }
             ]
         }
@@ -1597,11 +1597,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («anasoma_3_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («kiti»):",
                     "acceptedAnswers": [
-                        "anasoma_3_3"
+                        "kiti"
                     ],
-                    "explanation": "The target keyword was: 【anasoma_3_3】"
+                    "explanation": "The target keyword was: 【kiti】"
                 }
             ]
         }
@@ -1683,11 +1683,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («anasoma_3_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («viti»):",
                     "acceptedAnswers": [
-                        "anasoma_3_4"
+                        "viti"
                     ],
-                    "explanation": "The target keyword was: 【anasoma_3_4】"
+                    "explanation": "The target keyword was: 【viti】"
                 }
             ]
         }
@@ -1769,11 +1769,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («anasoma_3_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («chumba»):",
                     "acceptedAnswers": [
-                        "anasoma_3_5"
+                        "chumba"
                     ],
-                    "explanation": "The target keyword was: 【anasoma_3_5】"
+                    "explanation": "The target keyword was: 【chumba】"
                 }
             ]
         }
@@ -1855,11 +1855,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («alisoma_4_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («mti»):",
                     "acceptedAnswers": [
-                        "alisoma_4_1"
+                        "mti"
                     ],
-                    "explanation": "The target keyword was: 【alisoma_4_1】"
+                    "explanation": "The target keyword was: 【mti】"
                 }
             ]
         }
@@ -1941,11 +1941,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («alisoma_4_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («miti»):",
                     "acceptedAnswers": [
-                        "alisoma_4_2"
+                        "miti"
                     ],
-                    "explanation": "The target keyword was: 【alisoma_4_2】"
+                    "explanation": "The target keyword was: 【miti】"
                 }
             ]
         }
@@ -2027,11 +2027,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («alisoma_4_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («mkono»):",
                     "acceptedAnswers": [
-                        "alisoma_4_3"
+                        "mkono"
                     ],
-                    "explanation": "The target keyword was: 【alisoma_4_3】"
+                    "explanation": "The target keyword was: 【mkono】"
                 }
             ]
         }
@@ -2113,11 +2113,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («alisoma_4_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («mikono»):",
                     "acceptedAnswers": [
-                        "alisoma_4_4"
+                        "mikono"
                     ],
-                    "explanation": "The target keyword was: 【alisoma_4_4】"
+                    "explanation": "The target keyword was: 【mikono】"
                 }
             ]
         }
@@ -2199,11 +2199,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («alisoma_4_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («mlango»):",
                     "acceptedAnswers": [
-                        "alisoma_4_5"
+                        "mlango"
                     ],
-                    "explanation": "The target keyword was: 【alisoma_4_5】"
+                    "explanation": "The target keyword was: 【mlango】"
                 }
             ]
         }
@@ -2285,11 +2285,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («atasoma_5_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («jicho»):",
                     "acceptedAnswers": [
-                        "atasoma_5_1"
+                        "jicho"
                     ],
-                    "explanation": "The target keyword was: 【atasoma_5_1】"
+                    "explanation": "The target keyword was: 【jicho】"
                 }
             ]
         }
@@ -2371,11 +2371,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («atasoma_5_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («macho»):",
                     "acceptedAnswers": [
-                        "atasoma_5_2"
+                        "macho"
                     ],
-                    "explanation": "The target keyword was: 【atasoma_5_2】"
+                    "explanation": "The target keyword was: 【macho】"
                 }
             ]
         }
@@ -2457,11 +2457,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («atasoma_5_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («jina»):",
                     "acceptedAnswers": [
-                        "atasoma_5_3"
+                        "jina"
                     ],
-                    "explanation": "The target keyword was: 【atasoma_5_3】"
+                    "explanation": "The target keyword was: 【jina】"
                 }
             ]
         }
@@ -2543,11 +2543,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («atasoma_5_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («majina»):",
                     "acceptedAnswers": [
-                        "atasoma_5_4"
+                        "majina"
                     ],
-                    "explanation": "The target keyword was: 【atasoma_5_4】"
+                    "explanation": "The target keyword was: 【majina】"
                 }
             ]
         }
@@ -2629,11 +2629,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («atasoma_5_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («neno»):",
                     "acceptedAnswers": [
-                        "atasoma_5_5"
+                        "neno"
                     ],
-                    "explanation": "The target keyword was: 【atasoma_5_5】"
+                    "explanation": "The target keyword was: 【neno】"
                 }
             ]
         }
@@ -2715,11 +2715,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («amekula_6_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («nyumba»):",
                     "acceptedAnswers": [
-                        "amekula_6_1"
+                        "nyumba"
                     ],
-                    "explanation": "The target keyword was: 【amekula_6_1】"
+                    "explanation": "The target keyword was: 【nyumba】"
                 }
             ]
         }
@@ -2801,11 +2801,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («amekula_6_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («nguo»):",
                     "acceptedAnswers": [
-                        "amekula_6_2"
+                        "nguo"
                     ],
-                    "explanation": "The target keyword was: 【amekula_6_2】"
+                    "explanation": "The target keyword was: 【nguo】"
                 }
             ]
         }
@@ -2887,11 +2887,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («amekula_6_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («barua»):",
                     "acceptedAnswers": [
-                        "amekula_6_3"
+                        "barua"
                     ],
-                    "explanation": "The target keyword was: 【amekula_6_3】"
+                    "explanation": "The target keyword was: 【barua】"
                 }
             ]
         }
@@ -2973,11 +2973,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («amekula_6_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («ndizi»):",
                     "acceptedAnswers": [
-                        "amekula_6_4"
+                        "ndizi"
                     ],
-                    "explanation": "The target keyword was: 【amekula_6_4】"
+                    "explanation": "The target keyword was: 【ndizi】"
                 }
             ]
         }
@@ -3059,11 +3059,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («amekula_6_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («ndege»):",
                     "acceptedAnswers": [
-                        "amekula_6_5"
+                        "ndege"
                     ],
-                    "explanation": "The target keyword was: 【amekula_6_5】"
+                    "explanation": "The target keyword was: 【ndege】"
                 }
             ]
         }
@@ -3145,11 +3145,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («sisomi_7_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («ukuta»):",
                     "acceptedAnswers": [
-                        "sisomi_7_1"
+                        "ukuta"
                     ],
-                    "explanation": "The target keyword was: 【sisomi_7_1】"
+                    "explanation": "The target keyword was: 【ukuta】"
                 }
             ]
         }
@@ -3231,11 +3231,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («sisomi_7_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («kuta»):",
                     "acceptedAnswers": [
-                        "sisomi_7_2"
+                        "kuta"
                     ],
-                    "explanation": "The target keyword was: 【sisomi_7_2】"
+                    "explanation": "The target keyword was: 【kuta】"
                 }
             ]
         }
@@ -3317,11 +3317,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («sisomi_7_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («ufunguo»):",
                     "acceptedAnswers": [
-                        "sisomi_7_3"
+                        "ufunguo"
                     ],
-                    "explanation": "The target keyword was: 【sisomi_7_3】"
+                    "explanation": "The target keyword was: 【ufunguo】"
                 }
             ]
         }
@@ -3403,11 +3403,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («sisomi_7_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («funguo»):",
                     "acceptedAnswers": [
-                        "sisomi_7_4"
+                        "funguo"
                     ],
-                    "explanation": "The target keyword was: 【sisomi_7_4】"
+                    "explanation": "The target keyword was: 【funguo】"
                 }
             ]
         }
@@ -3489,11 +3489,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («sisomi_7_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («upendo»):",
                     "acceptedAnswers": [
-                        "sisomi_7_5"
+                        "upendo"
                     ],
-                    "explanation": "The target keyword was: 【sisomi_7_5】"
+                    "explanation": "The target keyword was: 【upendo】"
                 }
             ]
         }
@@ -3575,11 +3575,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («anamwona_8_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («kusoma»):",
                     "acceptedAnswers": [
-                        "anamwona_8_1"
+                        "kusoma"
                     ],
-                    "explanation": "The target keyword was: 【anamwona_8_1】"
+                    "explanation": "The target keyword was: 【kusoma】"
                 }
             ]
         }
@@ -3661,11 +3661,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («anamwona_8_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («kuandika»):",
                     "acceptedAnswers": [
-                        "anamwona_8_2"
+                        "kuandika"
                     ],
-                    "explanation": "The target keyword was: 【anamwona_8_2】"
+                    "explanation": "The target keyword was: 【kuandika】"
                 }
             ]
         }
@@ -3747,11 +3747,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («anamwona_8_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («kula»):",
                     "acceptedAnswers": [
-                        "anamwona_8_3"
+                        "kula"
                     ],
-                    "explanation": "The target keyword was: 【anamwona_8_3】"
+                    "explanation": "The target keyword was: 【kula】"
                 }
             ]
         }
@@ -3833,11 +3833,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («anamwona_8_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («kunywa»):",
                     "acceptedAnswers": [
-                        "anamwona_8_4"
+                        "kunywa"
                     ],
-                    "explanation": "The target keyword was: 【anamwona_8_4】"
+                    "explanation": "The target keyword was: 【kunywa】"
                 }
             ]
         }
@@ -3919,11 +3919,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («anamwona_8_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («kuona»):",
                     "acceptedAnswers": [
-                        "anamwona_8_5"
+                        "kuona"
                     ],
-                    "explanation": "The target keyword was: 【anamwona_8_5】"
+                    "explanation": "The target keyword was: 【kuona】"
                 }
             ]
         }
@@ -4005,11 +4005,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («wangu_9_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («mahali»):",
                     "acceptedAnswers": [
-                        "wangu_9_1"
+                        "mahali"
                     ],
-                    "explanation": "The target keyword was: 【wangu_9_1】"
+                    "explanation": "The target keyword was: 【mahali】"
                 }
             ]
         }
@@ -4091,11 +4091,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («wangu_9_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («pazuri»):",
                     "acceptedAnswers": [
-                        "wangu_9_2"
+                        "pazuri"
                     ],
-                    "explanation": "The target keyword was: 【wangu_9_2】"
+                    "explanation": "The target keyword was: 【pazuri】"
                 }
             ]
         }
@@ -4177,11 +4177,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («wangu_9_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («kuzuri»):",
                     "acceptedAnswers": [
-                        "wangu_9_3"
+                        "kuzuri"
                     ],
-                    "explanation": "The target keyword was: 【wangu_9_3】"
+                    "explanation": "The target keyword was: 【kuzuri】"
                 }
             ]
         }
@@ -4263,11 +4263,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («wangu_9_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («mwenyeji»):",
                     "acceptedAnswers": [
-                        "wangu_9_4"
+                        "mwenyeji"
                     ],
-                    "explanation": "The target keyword was: 【wangu_9_4】"
+                    "explanation": "The target keyword was: 【mwenyeji】"
                 }
             ]
         }
@@ -4349,11 +4349,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («wangu_9_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («wageni»):",
                     "acceptedAnswers": [
-                        "wangu_9_5"
+                        "wageni"
                     ],
-                    "explanation": "The target keyword was: 【wangu_9_5】"
+                    "explanation": "The target keyword was: 【wageni】"
                 }
             ]
         }
@@ -4435,11 +4435,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («mti_10_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («ninasoma»):",
                     "acceptedAnswers": [
-                        "mti_10_1"
+                        "ninasoma"
                     ],
-                    "explanation": "The target keyword was: 【mti_10_1】"
+                    "explanation": "The target keyword was: 【ninasoma】"
                 }
             ]
         }
@@ -4521,11 +4521,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («mti_10_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («anasoma»):",
                     "acceptedAnswers": [
-                        "mti_10_2"
+                        "anasoma"
                     ],
-                    "explanation": "The target keyword was: 【mti_10_2】"
+                    "explanation": "The target keyword was: 【anasoma】"
                 }
             ]
         }
@@ -4607,11 +4607,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («mti_10_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («tunasoma»):",
                     "acceptedAnswers": [
-                        "mti_10_3"
+                        "tunasoma"
                     ],
-                    "explanation": "The target keyword was: 【mti_10_3】"
+                    "explanation": "The target keyword was: 【tunasoma】"
                 }
             ]
         }
@@ -4693,11 +4693,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («mti_10_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («wanasoma»):",
                     "acceptedAnswers": [
-                        "mti_10_4"
+                        "wanasoma"
                     ],
-                    "explanation": "The target keyword was: 【mti_10_4】"
+                    "explanation": "The target keyword was: 【wanasoma】"
                 }
             ]
         }
@@ -4779,11 +4779,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («mti_10_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («unasoma»):",
                     "acceptedAnswers": [
-                        "mti_10_5"
+                        "unasoma"
                     ],
-                    "explanation": "The target keyword was: 【mti_10_5】"
+                    "explanation": "The target keyword was: 【unasoma】"
                 }
             ]
         }
@@ -4865,11 +4865,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («jina_11_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («nilisoma»):",
                     "acceptedAnswers": [
-                        "jina_11_1"
+                        "nilisoma"
                     ],
-                    "explanation": "The target keyword was: 【jina_11_1】"
+                    "explanation": "The target keyword was: 【nilisoma】"
                 }
             ]
         }
@@ -4951,11 +4951,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («jina_11_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («alisoma»):",
                     "acceptedAnswers": [
-                        "jina_11_2"
+                        "alisoma"
                     ],
-                    "explanation": "The target keyword was: 【jina_11_2】"
+                    "explanation": "The target keyword was: 【alisoma】"
                 }
             ]
         }
@@ -5037,11 +5037,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («jina_11_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («tulisoma»):",
                     "acceptedAnswers": [
-                        "jina_11_3"
+                        "tulisoma"
                     ],
-                    "explanation": "The target keyword was: 【jina_11_3】"
+                    "explanation": "The target keyword was: 【tulisoma】"
                 }
             ]
         }
@@ -5123,11 +5123,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («jina_11_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («walisoma»):",
                     "acceptedAnswers": [
-                        "jina_11_4"
+                        "walisoma"
                     ],
-                    "explanation": "The target keyword was: 【jina_11_4】"
+                    "explanation": "The target keyword was: 【walisoma】"
                 }
             ]
         }
@@ -5209,11 +5209,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («jina_11_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («ulisoma»):",
                     "acceptedAnswers": [
-                        "jina_11_5"
+                        "ulisoma"
                     ],
-                    "explanation": "The target keyword was: 【jina_11_5】"
+                    "explanation": "The target keyword was: 【ulisoma】"
                 }
             ]
         }
@@ -5295,11 +5295,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («kitabu_12_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («nitasoma»):",
                     "acceptedAnswers": [
-                        "kitabu_12_1"
+                        "nitasoma"
                     ],
-                    "explanation": "The target keyword was: 【kitabu_12_1】"
+                    "explanation": "The target keyword was: 【nitasoma】"
                 }
             ]
         }
@@ -5381,11 +5381,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («kitabu_12_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («atasoma»):",
                     "acceptedAnswers": [
-                        "kitabu_12_2"
+                        "atasoma"
                     ],
-                    "explanation": "The target keyword was: 【kitabu_12_2】"
+                    "explanation": "The target keyword was: 【atasoma】"
                 }
             ]
         }
@@ -5467,11 +5467,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («kitabu_12_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («tutasoma»):",
                     "acceptedAnswers": [
-                        "kitabu_12_3"
+                        "tutasoma"
                     ],
-                    "explanation": "The target keyword was: 【kitabu_12_3】"
+                    "explanation": "The target keyword was: 【tutasoma】"
                 }
             ]
         }
@@ -5553,11 +5553,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («kitabu_12_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («watasoma»):",
                     "acceptedAnswers": [
-                        "kitabu_12_4"
+                        "watasoma"
                     ],
-                    "explanation": "The target keyword was: 【kitabu_12_4】"
+                    "explanation": "The target keyword was: 【watasoma】"
                 }
             ]
         }
@@ -5639,11 +5639,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («kitabu_12_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («utasoma»):",
                     "acceptedAnswers": [
-                        "kitabu_12_5"
+                        "utasoma"
                     ],
-                    "explanation": "The target keyword was: 【kitabu_12_5】"
+                    "explanation": "The target keyword was: 【utasoma】"
                 }
             ]
         }
@@ -5725,11 +5725,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («nyumba_13_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («nimesoma»):",
                     "acceptedAnswers": [
-                        "nyumba_13_1"
+                        "nimesoma"
                     ],
-                    "explanation": "The target keyword was: 【nyumba_13_1】"
+                    "explanation": "The target keyword was: 【nimesoma】"
                 }
             ]
         }
@@ -5811,11 +5811,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («nyumba_13_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («amesoma»):",
                     "acceptedAnswers": [
-                        "nyumba_13_2"
+                        "amesoma"
                     ],
-                    "explanation": "The target keyword was: 【nyumba_13_2】"
+                    "explanation": "The target keyword was: 【amesoma】"
                 }
             ]
         }
@@ -5897,11 +5897,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («nyumba_13_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («tumesoma»):",
                     "acceptedAnswers": [
-                        "nyumba_13_3"
+                        "tumesoma"
                     ],
-                    "explanation": "The target keyword was: 【nyumba_13_3】"
+                    "explanation": "The target keyword was: 【tumesoma】"
                 }
             ]
         }
@@ -5983,11 +5983,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («nyumba_13_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («wamesoma»):",
                     "acceptedAnswers": [
-                        "nyumba_13_4"
+                        "wamesoma"
                     ],
-                    "explanation": "The target keyword was: 【nyumba_13_4】"
+                    "explanation": "The target keyword was: 【wamesoma】"
                 }
             ]
         }
@@ -6069,11 +6069,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («nyumba_13_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («umesoma»):",
                     "acceptedAnswers": [
-                        "nyumba_13_5"
+                        "umesoma"
                     ],
-                    "explanation": "The target keyword was: 【nyumba_13_5】"
+                    "explanation": "The target keyword was: 【umesoma】"
                 }
             ]
         }
@@ -6155,11 +6155,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ukuta_14_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («nikisoma»):",
                     "acceptedAnswers": [
-                        "ukuta_14_1"
+                        "nikisoma"
                     ],
-                    "explanation": "The target keyword was: 【ukuta_14_1】"
+                    "explanation": "The target keyword was: 【nikisoma】"
                 }
             ]
         }
@@ -6241,11 +6241,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ukuta_14_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («akisoma»):",
                     "acceptedAnswers": [
-                        "ukuta_14_2"
+                        "akisoma"
                     ],
-                    "explanation": "The target keyword was: 【ukuta_14_2】"
+                    "explanation": "The target keyword was: 【akisoma】"
                 }
             ]
         }
@@ -6327,11 +6327,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ukuta_14_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («tukisoma»):",
                     "acceptedAnswers": [
-                        "ukuta_14_3"
+                        "tukisoma"
                     ],
-                    "explanation": "The target keyword was: 【ukuta_14_3】"
+                    "explanation": "The target keyword was: 【tukisoma】"
                 }
             ]
         }
@@ -6413,11 +6413,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ukuta_14_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («wakisoma»):",
                     "acceptedAnswers": [
-                        "ukuta_14_4"
+                        "wakisoma"
                     ],
-                    "explanation": "The target keyword was: 【ukuta_14_4】"
+                    "explanation": "The target keyword was: 【wakisoma】"
                 }
             ]
         }
@@ -6499,11 +6499,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ukuta_14_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («ukisoma»):",
                     "acceptedAnswers": [
-                        "ukuta_14_5"
+                        "ukisoma"
                     ],
-                    "explanation": "The target keyword was: 【ukuta_14_5】"
+                    "explanation": "The target keyword was: 【ukisoma】"
                 }
             ]
         }
@@ -6585,11 +6585,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («mahali_pazuri_15_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («sijasoma»):",
                     "acceptedAnswers": [
-                        "mahali_pazuri_15_1"
+                        "sijasoma"
                     ],
-                    "explanation": "The target keyword was: 【mahali_pazuri_15_1】"
+                    "explanation": "The target keyword was: 【sijasoma】"
                 }
             ]
         }
@@ -6671,11 +6671,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («mahali_pazuri_15_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («hajasoma»):",
                     "acceptedAnswers": [
-                        "mahali_pazuri_15_2"
+                        "hajasoma"
                     ],
-                    "explanation": "The target keyword was: 【mahali_pazuri_15_2】"
+                    "explanation": "The target keyword was: 【hajasoma】"
                 }
             ]
         }
@@ -6757,11 +6757,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («mahali_pazuri_15_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («hatujasoma»):",
                     "acceptedAnswers": [
-                        "mahali_pazuri_15_3"
+                        "hatujasoma"
                     ],
-                    "explanation": "The target keyword was: 【mahali_pazuri_15_3】"
+                    "explanation": "The target keyword was: 【hatujasoma】"
                 }
             ]
         }
@@ -6843,11 +6843,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («mahali_pazuri_15_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («hawajasoma»):",
                     "acceptedAnswers": [
-                        "mahali_pazuri_15_4"
+                        "hawajasoma"
                     ],
-                    "explanation": "The target keyword was: 【mahali_pazuri_15_4】"
+                    "explanation": "The target keyword was: 【hawajasoma】"
                 }
             ]
         }
@@ -6929,11 +6929,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («mahali_pazuri_15_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («hujasoma»):",
                     "acceptedAnswers": [
-                        "mahali_pazuri_15_5"
+                        "hujasoma"
                     ],
-                    "explanation": "The target keyword was: 【mahali_pazuri_15_5】"
+                    "explanation": "The target keyword was: 【hujasoma】"
                 }
             ]
         }
@@ -7015,11 +7015,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («anayesoma_16_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («sisomi»):",
                     "acceptedAnswers": [
-                        "anayesoma_16_1"
+                        "sisomi"
                     ],
-                    "explanation": "The target keyword was: 【anayesoma_16_1】"
+                    "explanation": "The target keyword was: 【sisomi】"
                 }
             ]
         }
@@ -7101,11 +7101,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («anayesoma_16_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («hasomi»):",
                     "acceptedAnswers": [
-                        "anayesoma_16_2"
+                        "hasomi"
                     ],
-                    "explanation": "The target keyword was: 【anayesoma_16_2】"
+                    "explanation": "The target keyword was: 【hasomi】"
                 }
             ]
         }
@@ -7187,11 +7187,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («anayesoma_16_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («hatusomi»):",
                     "acceptedAnswers": [
-                        "anayesoma_16_3"
+                        "hatusomi"
                     ],
-                    "explanation": "The target keyword was: 【anayesoma_16_3】"
+                    "explanation": "The target keyword was: 【hatusomi】"
                 }
             ]
         }
@@ -7273,11 +7273,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («anayesoma_16_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («hawasomi»):",
                     "acceptedAnswers": [
-                        "anayesoma_16_4"
+                        "hawasomi"
                     ],
-                    "explanation": "The target keyword was: 【anayesoma_16_4】"
+                    "explanation": "The target keyword was: 【hawasomi】"
                 }
             ]
         }
@@ -7359,11 +7359,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («anayesoma_16_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («husomi»):",
                     "acceptedAnswers": [
-                        "anayesoma_16_5"
+                        "husomi"
                     ],
-                    "explanation": "The target keyword was: 【anayesoma_16_5】"
+                    "explanation": "The target keyword was: 【husomi】"
                 }
             ]
         }
@@ -7445,11 +7445,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («inasomwa_17_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («sikusoma»):",
                     "acceptedAnswers": [
-                        "inasomwa_17_1"
+                        "sikusoma"
                     ],
-                    "explanation": "The target keyword was: 【inasomwa_17_1】"
+                    "explanation": "The target keyword was: 【sikusoma】"
                 }
             ]
         }
@@ -7531,11 +7531,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («inasomwa_17_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («hakusoma»):",
                     "acceptedAnswers": [
-                        "inasomwa_17_2"
+                        "hakusoma"
                     ],
-                    "explanation": "The target keyword was: 【inasomwa_17_2】"
+                    "explanation": "The target keyword was: 【hakusoma】"
                 }
             ]
         }
@@ -7617,11 +7617,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («inasomwa_17_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («hatukusoma»):",
                     "acceptedAnswers": [
-                        "inasomwa_17_3"
+                        "hatukusoma"
                     ],
-                    "explanation": "The target keyword was: 【inasomwa_17_3】"
+                    "explanation": "The target keyword was: 【hatukusoma】"
                 }
             ]
         }
@@ -7703,11 +7703,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («inasomwa_17_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («hawakusoma»):",
                     "acceptedAnswers": [
-                        "inasomwa_17_4"
+                        "hawakusoma"
                     ],
-                    "explanation": "The target keyword was: 【inasomwa_17_4】"
+                    "explanation": "The target keyword was: 【hawakusoma】"
                 }
             ]
         }
@@ -7789,11 +7789,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («inasomwa_17_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («hukusoma»):",
                     "acceptedAnswers": [
-                        "inasomwa_17_5"
+                        "hukusoma"
                     ],
-                    "explanation": "The target keyword was: 【inasomwa_17_5】"
+                    "explanation": "The target keyword was: 【hukusoma】"
                 }
             ]
         }
@@ -7875,11 +7875,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («anamsomea_18_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («sitasoma»):",
                     "acceptedAnswers": [
-                        "anamsomea_18_1"
+                        "sitasoma"
                     ],
-                    "explanation": "The target keyword was: 【anamsomea_18_1】"
+                    "explanation": "The target keyword was: 【sitasoma】"
                 }
             ]
         }
@@ -7961,11 +7961,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («anamsomea_18_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («hatasoma»):",
                     "acceptedAnswers": [
-                        "anamsomea_18_2"
+                        "hatasoma"
                     ],
-                    "explanation": "The target keyword was: 【anamsomea_18_2】"
+                    "explanation": "The target keyword was: 【hatasoma】"
                 }
             ]
         }
@@ -8047,11 +8047,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («anamsomea_18_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («hatutasoma»):",
                     "acceptedAnswers": [
-                        "anamsomea_18_3"
+                        "hatutasoma"
                     ],
-                    "explanation": "The target keyword was: 【anamsomea_18_3】"
+                    "explanation": "The target keyword was: 【hatutasoma】"
                 }
             ]
         }
@@ -8133,11 +8133,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («anamsomea_18_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («hawatasoa»):",
                     "acceptedAnswers": [
-                        "anamsomea_18_4"
+                        "hawatasoa"
                     ],
-                    "explanation": "The target keyword was: 【anamsomea_18_4】"
+                    "explanation": "The target keyword was: 【hawatasoa】"
                 }
             ]
         }
@@ -8219,11 +8219,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («anamsomea_18_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («hutasoma»):",
                     "acceptedAnswers": [
-                        "anamsomea_18_5"
+                        "hutasoma"
                     ],
-                    "explanation": "The target keyword was: 【anamsomea_18_5】"
+                    "explanation": "The target keyword was: 【hutasoma】"
                 }
             ]
         }
@@ -8305,11 +8305,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («kusomeshwa_19_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («niliyekuja»):",
                     "acceptedAnswers": [
-                        "kusomeshwa_19_1"
+                        "niliyekuja"
                     ],
-                    "explanation": "The target keyword was: 【kusomeshwa_19_1】"
+                    "explanation": "The target keyword was: 【niliyekuja】"
                 }
             ]
         }
@@ -8391,11 +8391,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («kusomeshwa_19_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («anayekuja»):",
                     "acceptedAnswers": [
-                        "kusomeshwa_19_2"
+                        "anayekuja"
                     ],
-                    "explanation": "The target keyword was: 【kusomeshwa_19_2】"
+                    "explanation": "The target keyword was: 【anayekuja】"
                 }
             ]
         }
@@ -8477,11 +8477,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («kusomeshwa_19_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («atakayekuja»):",
                     "acceptedAnswers": [
-                        "kusomeshwa_19_3"
+                        "atakayekuja"
                     ],
-                    "explanation": "The target keyword was: 【kusomeshwa_19_3】"
+                    "explanation": "The target keyword was: 【atakayekuja】"
                 }
             ]
         }
@@ -8563,11 +8563,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («kusomeshwa_19_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («kile_kilicho»):",
                     "acceptedAnswers": [
-                        "kusomeshwa_19_4"
+                        "kile_kilicho"
                     ],
-                    "explanation": "The target keyword was: 【kusomeshwa_19_4】"
+                    "explanation": "The target keyword was: 【kile_kilicho】"
                 }
             ]
         }
@@ -8649,11 +8649,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («kusomeshwa_19_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («watu_walio»):",
                     "acceptedAnswers": [
-                        "kusomeshwa_19_5"
+                        "watu_walio"
                     ],
-                    "explanation": "The target keyword was: 【kusomeshwa_19_5】"
+                    "explanation": "The target keyword was: 【watu_walio】"
                 }
             ]
         }
@@ -8735,11 +8735,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («kusaidiana_20_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («ofisi»):",
                     "acceptedAnswers": [
-                        "kusaidiana_20_1"
+                        "ofisi"
                     ],
-                    "explanation": "The target keyword was: 【kusaidiana_20_1】"
+                    "explanation": "The target keyword was: 【ofisi】"
                 }
             ]
         }
@@ -8821,11 +8821,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («kusaidiana_20_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («mkutano»):",
                     "acceptedAnswers": [
-                        "kusaidiana_20_2"
+                        "mkutano"
                     ],
-                    "explanation": "The target keyword was: 【kusaidiana_20_2】"
+                    "explanation": "The target keyword was: 【mkutano】"
                 }
             ]
         }
@@ -8907,11 +8907,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («kusaidiana_20_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («kazi»):",
                     "acceptedAnswers": [
-                        "kusaidiana_20_3"
+                        "kazi"
                     ],
-                    "explanation": "The target keyword was: 【kusaidiana_20_3】"
+                    "explanation": "The target keyword was: 【kazi】"
                 }
             ]
         }
@@ -8993,11 +8993,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («kusaidiana_20_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («ripoti»):",
                     "acceptedAnswers": [
-                        "kusaidiana_20_4"
+                        "ripoti"
                     ],
-                    "explanation": "The target keyword was: 【kusaidiana_20_4】"
+                    "explanation": "The target keyword was: 【ripoti】"
                 }
             ]
         }
@@ -9079,11 +9079,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («kusaidiana_20_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («biashara»):",
                     "acceptedAnswers": [
-                        "kusaidiana_20_5"
+                        "biashara"
                     ],
-                    "explanation": "The target keyword was: 【kusaidiana_20_5】"
+                    "explanation": "The target keyword was: 【biashara】"
                 }
             ]
         }
@@ -9165,11 +9165,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («akija_21_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («hospitali»):",
                     "acceptedAnswers": [
-                        "akija_21_1"
+                        "hospitali"
                     ],
-                    "explanation": "The target keyword was: 【akija_21_1】"
+                    "explanation": "The target keyword was: 【hospitali】"
                 }
             ]
         }
@@ -9251,11 +9251,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («akija_21_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («daktari»):",
                     "acceptedAnswers": [
-                        "akija_21_2"
+                        "daktari"
                     ],
-                    "explanation": "The target keyword was: 【akija_21_2】"
+                    "explanation": "The target keyword was: 【daktari】"
                 }
             ]
         }
@@ -9337,11 +9337,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («akija_21_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («dawa»):",
                     "acceptedAnswers": [
-                        "akija_21_3"
+                        "dawa"
                     ],
-                    "explanation": "The target keyword was: 【akija_21_3】"
+                    "explanation": "The target keyword was: 【dawa】"
                 }
             ]
         }
@@ -9423,11 +9423,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («akija_21_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («ugonjwa»):",
                     "acceptedAnswers": [
-                        "akija_21_4"
+                        "ugonjwa"
                     ],
-                    "explanation": "The target keyword was: 【akija_21_4】"
+                    "explanation": "The target keyword was: 【ugonjwa】"
                 }
             ]
         }
@@ -9509,11 +9509,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («akija_21_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («afya»):",
                     "acceptedAnswers": [
-                        "akija_21_5"
+                        "afya"
                     ],
-                    "explanation": "The target keyword was: 【akija_21_5】"
+                    "explanation": "The target keyword was: 【afya】"
                 }
             ]
         }
@@ -9595,11 +9595,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («kusafiri_22_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («chakula»):",
                     "acceptedAnswers": [
-                        "kusafiri_22_1"
+                        "chakula"
                     ],
-                    "explanation": "The target keyword was: 【kusafiri_22_1】"
+                    "explanation": "The target keyword was: 【chakula】"
                 }
             ]
         }
@@ -9681,11 +9681,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («kusafiri_22_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («ugali»):",
                     "acceptedAnswers": [
-                        "kusafiri_22_2"
+                        "ugali"
                     ],
-                    "explanation": "The target keyword was: 【kusafiri_22_2】"
+                    "explanation": "The target keyword was: 【ugali】"
                 }
             ]
         }
@@ -9767,11 +9767,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («kusafiri_22_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («sukuma»):",
                     "acceptedAnswers": [
-                        "kusafiri_22_3"
+                        "sukuma"
                     ],
-                    "explanation": "The target keyword was: 【kusafiri_22_3】"
+                    "explanation": "The target keyword was: 【sukuma】"
                 }
             ]
         }
@@ -9853,11 +9853,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («kusafiri_22_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («nyama»):",
                     "acceptedAnswers": [
-                        "kusafiri_22_4"
+                        "nyama"
                     ],
-                    "explanation": "The target keyword was: 【kusafiri_22_4】"
+                    "explanation": "The target keyword was: 【nyama】"
                 }
             ]
         }
@@ -9939,11 +9939,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («kusafiri_22_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («chai»):",
                     "acceptedAnswers": [
-                        "kusafiri_22_5"
+                        "chai"
                     ],
-                    "explanation": "The target keyword was: 【kusafiri_22_5】"
+                    "explanation": "The target keyword was: 【chai】"
                 }
             ]
         }
@@ -10025,11 +10025,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («haba_na_haba_23_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («muziki»):",
                     "acceptedAnswers": [
-                        "haba_na_haba_23_1"
+                        "muziki"
                     ],
-                    "explanation": "The target keyword was: 【haba_na_haba_23_1】"
+                    "explanation": "The target keyword was: 【muziki】"
                 }
             ]
         }
@@ -10111,11 +10111,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («haba_na_haba_23_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («ngoma»):",
                     "acceptedAnswers": [
-                        "haba_na_haba_23_2"
+                        "ngoma"
                     ],
-                    "explanation": "The target keyword was: 【haba_na_haba_23_2】"
+                    "explanation": "The target keyword was: 【ngoma】"
                 }
             ]
         }
@@ -10197,11 +10197,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («haba_na_haba_23_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («sanaa»):",
                     "acceptedAnswers": [
-                        "haba_na_haba_23_3"
+                        "sanaa"
                     ],
-                    "explanation": "The target keyword was: 【haba_na_haba_23_3】"
+                    "explanation": "The target keyword was: 【sanaa】"
                 }
             ]
         }
@@ -10283,11 +10283,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («haba_na_haba_23_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («filamu»):",
                     "acceptedAnswers": [
-                        "haba_na_haba_23_4"
+                        "filamu"
                     ],
-                    "explanation": "The target keyword was: 【haba_na_haba_23_4】"
+                    "explanation": "The target keyword was: 【filamu】"
                 }
             ]
         }
@@ -10369,11 +10369,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («haba_na_haba_23_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («utamaduni»):",
                     "acceptedAnswers": [
-                        "haba_na_haba_23_5"
+                        "utamaduni"
                     ],
-                    "explanation": "The target keyword was: 【haba_na_haba_23_5】"
+                    "explanation": "The target keyword was: 【utamaduni】"
                 }
             ]
         }
@@ -10455,11 +10455,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («mwambao_24_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («benki»):",
                     "acceptedAnswers": [
-                        "mwambao_24_1"
+                        "benki"
                     ],
-                    "explanation": "The target keyword was: 【mwambao_24_1】"
+                    "explanation": "The target keyword was: 【benki】"
                 }
             ]
         }
@@ -10541,11 +10541,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («mwambao_24_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («pesa»):",
                     "acceptedAnswers": [
-                        "mwambao_24_2"
+                        "pesa"
                     ],
-                    "explanation": "The target keyword was: 【mwambao_24_2】"
+                    "explanation": "The target keyword was: 【pesa】"
                 }
             ]
         }
@@ -10627,11 +10627,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («mwambao_24_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («akaunti»):",
                     "acceptedAnswers": [
-                        "mwambao_24_3"
+                        "akaunti"
                     ],
-                    "explanation": "The target keyword was: 【mwambao_24_3】"
+                    "explanation": "The target keyword was: 【akaunti】"
                 }
             ]
         }
@@ -10713,11 +10713,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («mwambao_24_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («riba»):",
                     "acceptedAnswers": [
-                        "mwambao_24_4"
+                        "riba"
                     ],
-                    "explanation": "The target keyword was: 【mwambao_24_4】"
+                    "explanation": "The target keyword was: 【riba】"
                 }
             ]
         }
@@ -10799,11 +10799,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («mwambao_24_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («uchumi»):",
                     "acceptedAnswers": [
-                        "mwambao_24_5"
+                        "uchumi"
                     ],
-                    "explanation": "The target keyword was: 【mwambao_24_5】"
+                    "explanation": "The target keyword was: 【uchumi】"
                 }
             ]
         }
@@ -10885,11 +10885,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («biashara_25_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («mazingira»):",
                     "acceptedAnswers": [
-                        "biashara_25_1"
+                        "mazingira"
                     ],
-                    "explanation": "The target keyword was: 【biashara_25_1】"
+                    "explanation": "The target keyword was: 【mazingira】"
                 }
             ]
         }
@@ -10971,11 +10971,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («biashara_25_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («ardhi»):",
                     "acceptedAnswers": [
-                        "biashara_25_2"
+                        "ardhi"
                     ],
-                    "explanation": "The target keyword was: 【biashara_25_2】"
+                    "explanation": "The target keyword was: 【ardhi】"
                 }
             ]
         }
@@ -11057,11 +11057,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («biashara_25_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («mvua»):",
                     "acceptedAnswers": [
-                        "biashara_25_3"
+                        "mvua"
                     ],
-                    "explanation": "The target keyword was: 【biashara_25_3】"
+                    "explanation": "The target keyword was: 【mvua】"
                 }
             ]
         }
@@ -11143,11 +11143,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («biashara_25_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («misitu»):",
                     "acceptedAnswers": [
-                        "biashara_25_4"
+                        "misitu"
                     ],
-                    "explanation": "The target keyword was: 【biashara_25_4】"
+                    "explanation": "The target keyword was: 【misitu】"
                 }
             ]
         }
@@ -11229,11 +11229,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («biashara_25_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («wanyama»):",
                     "acceptedAnswers": [
-                        "biashara_25_5"
+                        "wanyama"
                     ],
-                    "explanation": "The target keyword was: 【biashara_25_5】"
+                    "explanation": "The target keyword was: 【wanyama】"
                 }
             ]
         }
@@ -11315,11 +11315,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («hifadhi_26_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («sheria»):",
                     "acceptedAnswers": [
-                        "hifadhi_26_1"
+                        "sheria"
                     ],
-                    "explanation": "The target keyword was: 【hifadhi_26_1】"
+                    "explanation": "The target keyword was: 【sheria】"
                 }
             ]
         }
@@ -11401,11 +11401,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («hifadhi_26_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («katiba»):",
                     "acceptedAnswers": [
-                        "hifadhi_26_2"
+                        "katiba"
                     ],
-                    "explanation": "The target keyword was: 【hifadhi_26_2】"
+                    "explanation": "The target keyword was: 【katiba】"
                 }
             ]
         }
@@ -11487,11 +11487,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («hifadhi_26_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («mahakama»):",
                     "acceptedAnswers": [
-                        "hifadhi_26_3"
+                        "mahakama"
                     ],
-                    "explanation": "The target keyword was: 【hifadhi_26_3】"
+                    "explanation": "The target keyword was: 【mahakama】"
                 }
             ]
         }
@@ -11573,11 +11573,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («hifadhi_26_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («hakimu»):",
                     "acceptedAnswers": [
-                        "hifadhi_26_4"
+                        "hakimu"
                     ],
-                    "explanation": "The target keyword was: 【hifadhi_26_4】"
+                    "explanation": "The target keyword was: 【hakimu】"
                 }
             ]
         }
@@ -11659,11 +11659,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («hifadhi_26_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («haki»):",
                     "acceptedAnswers": [
-                        "hifadhi_26_5"
+                        "haki"
                     ],
-                    "explanation": "The target keyword was: 【hifadhi_26_5】"
+                    "explanation": "The target keyword was: 【haki】"
                 }
             ]
         }
@@ -11745,11 +11745,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («afya_27_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («fasihi»):",
                     "acceptedAnswers": [
-                        "afya_27_1"
+                        "fasihi"
                     ],
-                    "explanation": "The target keyword was: 【afya_27_1】"
+                    "explanation": "The target keyword was: 【fasihi】"
                 }
             ]
         }
@@ -11831,11 +11831,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («afya_27_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («ushairi»):",
                     "acceptedAnswers": [
-                        "afya_27_2"
+                        "ushairi"
                     ],
-                    "explanation": "The target keyword was: 【afya_27_2】"
+                    "explanation": "The target keyword was: 【ushairi】"
                 }
             ]
         }
@@ -11917,11 +11917,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («afya_27_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («hadithi»):",
                     "acceptedAnswers": [
-                        "afya_27_3"
+                        "hadithi"
                     ],
-                    "explanation": "The target keyword was: 【afya_27_3】"
+                    "explanation": "The target keyword was: 【hadithi】"
                 }
             ]
         }
@@ -12003,11 +12003,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («afya_27_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («methali»):",
                     "acceptedAnswers": [
-                        "afya_27_4"
+                        "methali"
                     ],
-                    "explanation": "The target keyword was: 【afya_27_4】"
+                    "explanation": "The target keyword was: 【methali】"
                 }
             ]
         }
@@ -12089,11 +12089,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («afya_27_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («tamthilia»):",
                     "acceptedAnswers": [
-                        "afya_27_5"
+                        "tamthilia"
                     ],
-                    "explanation": "The target keyword was: 【afya_27_5】"
+                    "explanation": "The target keyword was: 【tamthilia】"
                 }
             ]
         }
@@ -12175,11 +12175,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («habari_28_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («habari_za_leo»):",
                     "acceptedAnswers": [
-                        "habari_28_1"
+                        "habari_za_leo"
                     ],
-                    "explanation": "The target keyword was: 【habari_28_1】"
+                    "explanation": "The target keyword was: 【habari_za_leo】"
                 }
             ]
         }
@@ -12261,11 +12261,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («habari_28_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («gazeti»):",
                     "acceptedAnswers": [
-                        "habari_28_2"
+                        "gazeti"
                     ],
-                    "explanation": "The target keyword was: 【habari_28_2】"
+                    "explanation": "The target keyword was: 【gazeti】"
                 }
             ]
         }
@@ -12347,11 +12347,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («habari_28_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («mwandishi»):",
                     "acceptedAnswers": [
-                        "habari_28_3"
+                        "mwandishi"
                     ],
-                    "explanation": "The target keyword was: 【habari_28_3】"
+                    "explanation": "The target keyword was: 【mwandishi】"
                 }
             ]
         }
@@ -12433,11 +12433,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («habari_28_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («matangazo»):",
                     "acceptedAnswers": [
-                        "habari_28_4"
+                        "matangazo"
                     ],
-                    "explanation": "The target keyword was: 【habari_28_4】"
+                    "explanation": "The target keyword was: 【matangazo】"
                 }
             ]
         }
@@ -12519,11 +12519,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («habari_28_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («redio»):",
                     "acceptedAnswers": [
-                        "habari_28_5"
+                        "redio"
                     ],
-                    "explanation": "The target keyword was: 【habari_28_5】"
+                    "explanation": "The target keyword was: 【redio】"
                 }
             ]
         }
@@ -12605,11 +12605,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («sheria_29_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («falsafa»):",
                     "acceptedAnswers": [
-                        "sheria_29_1"
+                        "falsafa"
                     ],
-                    "explanation": "The target keyword was: 【sheria_29_1】"
+                    "explanation": "The target keyword was: 【falsafa】"
                 }
             ]
         }
@@ -12691,11 +12691,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («sheria_29_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («maadili»):",
                     "acceptedAnswers": [
-                        "sheria_29_2"
+                        "maadili"
                     ],
-                    "explanation": "The target keyword was: 【sheria_29_2】"
+                    "explanation": "The target keyword was: 【maadili】"
                 }
             ]
         }
@@ -12777,11 +12777,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («sheria_29_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («utu»):",
                     "acceptedAnswers": [
-                        "sheria_29_3"
+                        "utu"
                     ],
-                    "explanation": "The target keyword was: 【sheria_29_3】"
+                    "explanation": "The target keyword was: 【utu】"
                 }
             ]
         }
@@ -12863,11 +12863,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («sheria_29_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («ujamaa»):",
                     "acceptedAnswers": [
-                        "sheria_29_4"
+                        "ujamaa"
                     ],
-                    "explanation": "The target keyword was: 【sheria_29_4】"
+                    "explanation": "The target keyword was: 【ujamaa】"
                 }
             ]
         }
@@ -12949,11 +12949,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («sheria_29_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («hekima»):",
                     "acceptedAnswers": [
-                        "sheria_29_5"
+                        "hekima"
                     ],
-                    "explanation": "The target keyword was: 【sheria_29_5】"
+                    "explanation": "The target keyword was: 【hekima】"
                 }
             ]
         }
@@ -13035,11 +13035,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ubeti_30_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («sayansi»):",
                     "acceptedAnswers": [
-                        "ubeti_30_1"
+                        "sayansi"
                     ],
-                    "explanation": "The target keyword was: 【ubeti_30_1】"
+                    "explanation": "The target keyword was: 【sayansi】"
                 }
             ]
         }
@@ -13121,11 +13121,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ubeti_30_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («teknolojia»):",
                     "acceptedAnswers": [
-                        "ubeti_30_2"
+                        "teknolojia"
                     ],
-                    "explanation": "The target keyword was: 【ubeti_30_2】"
+                    "explanation": "The target keyword was: 【teknolojia】"
                 }
             ]
         }
@@ -13207,11 +13207,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ubeti_30_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («utafiti»):",
                     "acceptedAnswers": [
-                        "ubeti_30_3"
+                        "utafiti"
                     ],
-                    "explanation": "The target keyword was: 【ubeti_30_3】"
+                    "explanation": "The target keyword was: 【utafiti】"
                 }
             ]
         }
@@ -13293,11 +13293,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ubeti_30_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («uvumbuzi»):",
                     "acceptedAnswers": [
-                        "ubeti_30_4"
+                        "uvumbuzi"
                     ],
-                    "explanation": "The target keyword was: 【ubeti_30_4】"
+                    "explanation": "The target keyword was: 【uvumbuzi】"
                 }
             ]
         }
@@ -13379,11 +13379,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ubeti_30_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («elimu»):",
                     "acceptedAnswers": [
-                        "ubeti_30_5"
+                        "elimu"
                     ],
-                    "explanation": "The target keyword was: 【ubeti_30_5】"
+                    "explanation": "The target keyword was: 【elimu】"
                 }
             ]
         }
@@ -13465,11 +13465,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («utawala_31_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («diplomasia»):",
                     "acceptedAnswers": [
-                        "utawala_31_1"
+                        "diplomasia"
                     ],
-                    "explanation": "The target keyword was: 【utawala_31_1】"
+                    "explanation": "The target keyword was: 【diplomasia】"
                 }
             ]
         }
@@ -13551,11 +13551,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («utawala_31_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («mipaka»):",
                     "acceptedAnswers": [
-                        "utawala_31_2"
+                        "mipaka"
                     ],
-                    "explanation": "The target keyword was: 【utawala_31_2】"
+                    "explanation": "The target keyword was: 【mipaka】"
                 }
             ]
         }
@@ -13637,11 +13637,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («utawala_31_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («ushirikiano»):",
                     "acceptedAnswers": [
-                        "utawala_31_3"
+                        "ushirikiano"
                     ],
-                    "explanation": "The target keyword was: 【utawala_31_3】"
+                    "explanation": "The target keyword was: 【ushirikiano】"
                 }
             ]
         }
@@ -13723,11 +13723,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («utawala_31_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («jumuiya»):",
                     "acceptedAnswers": [
-                        "utawala_31_4"
+                        "jumuiya"
                     ],
-                    "explanation": "The target keyword was: 【utawala_31_4】"
+                    "explanation": "The target keyword was: 【jumuiya】"
                 }
             ]
         }
@@ -13809,11 +13809,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («utawala_31_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («amani»):",
                     "acceptedAnswers": [
-                        "utawala_31_5"
+                        "amani"
                     ],
-                    "explanation": "The target keyword was: 【utawala_31_5】"
+                    "explanation": "The target keyword was: 【amani】"
                 }
             ]
         }
@@ -13895,11 +13895,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («isimu_32_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («balozi»):",
                     "acceptedAnswers": [
-                        "isimu_32_1"
+                        "balozi"
                     ],
-                    "explanation": "The target keyword was: 【isimu_32_1】"
+                    "explanation": "The target keyword was: 【balozi】"
                 }
             ]
         }
@@ -13981,11 +13981,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («isimu_32_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («ubalozi»):",
                     "acceptedAnswers": [
-                        "isimu_32_2"
+                        "ubalozi"
                     ],
-                    "explanation": "The target keyword was: 【isimu_32_2】"
+                    "explanation": "The target keyword was: 【ubalozi】"
                 }
             ]
         }
@@ -14067,11 +14067,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («isimu_32_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («makubaliano»):",
                     "acceptedAnswers": [
-                        "isimu_32_3"
+                        "makubaliano"
                     ],
-                    "explanation": "The target keyword was: 【isimu_32_3】"
+                    "explanation": "The target keyword was: 【makubaliano】"
                 }
             ]
         }
@@ -14153,11 +14153,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («isimu_32_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («mkataba»):",
                     "acceptedAnswers": [
-                        "isimu_32_4"
+                        "mkataba"
                     ],
-                    "explanation": "The target keyword was: 【isimu_32_4】"
+                    "explanation": "The target keyword was: 【mkataba】"
                 }
             ]
         }
@@ -14239,11 +14239,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («isimu_32_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («azimio»):",
                     "acceptedAnswers": [
-                        "isimu_32_5"
+                        "azimio"
                     ],
-                    "explanation": "The target keyword was: 【isimu_32_5】"
+                    "explanation": "The target keyword was: 【azimio】"
                 }
             ]
         }
@@ -14325,11 +14325,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («balozi_33_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («nahau»):",
                     "acceptedAnswers": [
-                        "balozi_33_1"
+                        "nahau"
                     ],
-                    "explanation": "The target keyword was: 【balozi_33_1】"
+                    "explanation": "The target keyword was: 【nahau】"
                 }
             ]
         }
@@ -14411,11 +14411,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («balozi_33_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («misemo»):",
                     "acceptedAnswers": [
-                        "balozi_33_2"
+                        "misemo"
                     ],
-                    "explanation": "The target keyword was: 【balozi_33_2】"
+                    "explanation": "The target keyword was: 【misemo】"
                 }
             ]
         }
@@ -14497,11 +14497,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («balozi_33_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («maana»):",
                     "acceptedAnswers": [
-                        "balozi_33_3"
+                        "maana"
                     ],
-                    "explanation": "The target keyword was: 【balozi_33_3】"
+                    "explanation": "The target keyword was: 【maana】"
                 }
             ]
         }
@@ -14583,11 +14583,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («balozi_33_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («fumbo»):",
                     "acceptedAnswers": [
-                        "balozi_33_4"
+                        "fumbo"
                     ],
-                    "explanation": "The target keyword was: 【balozi_33_4】"
+                    "explanation": "The target keyword was: 【fumbo】"
                 }
             ]
         }
@@ -14669,11 +14669,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («balozi_33_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («ujumbe»):",
                     "acceptedAnswers": [
-                        "balozi_33_5"
+                        "ujumbe"
                     ],
-                    "explanation": "The target keyword was: 【balozi_33_5】"
+                    "explanation": "The target keyword was: 【ujumbe】"
                 }
             ]
         }
@@ -14755,11 +14755,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («hotuba_34_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («mkutano_mkuu»):",
                     "acceptedAnswers": [
-                        "hotuba_34_1"
+                        "mkutano_mkuu"
                     ],
-                    "explanation": "The target keyword was: 【hotuba_34_1】"
+                    "explanation": "The target keyword was: 【mkutano_mkuu】"
                 }
             ]
         }
@@ -14841,11 +14841,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («hotuba_34_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («taifa»):",
                     "acceptedAnswers": [
-                        "hotuba_34_2"
+                        "taifa"
                     ],
-                    "explanation": "The target keyword was: 【hotuba_34_2】"
+                    "explanation": "The target keyword was: 【taifa】"
                 }
             ]
         }
@@ -14927,11 +14927,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («hotuba_34_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («hotuba»):",
                     "acceptedAnswers": [
-                        "hotuba_34_3"
+                        "hotuba"
                     ],
-                    "explanation": "The target keyword was: 【hotuba_34_3】"
+                    "explanation": "The target keyword was: 【hotuba】"
                 }
             ]
         }
@@ -15013,11 +15013,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («hotuba_34_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («maono»):",
                     "acceptedAnswers": [
-                        "hotuba_34_4"
+                        "maono"
                     ],
-                    "explanation": "The target keyword was: 【hotuba_34_4】"
+                    "explanation": "The target keyword was: 【maono】"
                 }
             ]
         }
@@ -15099,18 +15099,19 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («hotuba_34_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («uongozi»):",
                     "acceptedAnswers": [
-                        "hotuba_34_5"
+                        "uongozi"
                     ],
-                    "explanation": "The target keyword was: 【hotuba_34_5】"
+                    "explanation": "The target keyword was: 【uongozi】"
                 }
             ]
         }
     }
 };
-  var CURRICULUM = { id: 'swahili', name: 'Swahili', units: UNITS, lessons: LESSONS };
+  var ROADMAP = [];
+  var SUBJECT = { units: UNITS, lessons: LESSONS, roadmap: ROADMAP };
   global.FEARN_CURRICULA = global.FEARN_CURRICULA || {};
-  global.FEARN_CURRICULA['swahili'] = CURRICULUM;
-  if (typeof module !== 'undefined' && module.exports) module.exports = CURRICULUM;
+  global.FEARN_CURRICULA['swahili'] = SUBJECT;
+  if (typeof module !== 'undefined' && module.exports) module.exports = SUBJECT;
 })(typeof window !== 'undefined' ? window : global);

@@ -807,6 +807,14 @@
       
       btn.onclick = function (e) {
         e.stopPropagation();
+        btn.style.transform = 'scale(1.18)';
+        btn.style.borderColor = 'var(--accent-1, #10b981)';
+        btn.style.background = 'rgba(16, 185, 129, 0.25)';
+        setTimeout(function () {
+          btn.style.transform = '';
+          btn.style.borderColor = 'rgba(255,255,255,0.18)';
+          btn.style.background = 'rgba(255,255,255,0.08)';
+        }, 350);
         FEARN.audio.speak(text, langKey);
       };
       return btn;

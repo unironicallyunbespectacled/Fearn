@@ -1,4 +1,4 @@
-// Hindi curriculum — full CEFR A1–C2 roadmap (34 units, 170 lessons)
+// hindi curriculum
 (function (global) {
   'use strict';
   var UNITS = [
@@ -557,11 +557,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («नमस्ते_1_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («नमस्ते»):",
                     "acceptedAnswers": [
-                        "नमस्ते_1_1"
+                        "नमस्ते"
                     ],
-                    "explanation": "The target keyword was: 【नमस्ते_1_1】"
+                    "explanation": "The target keyword was: 【नमस्ते】"
                 }
             ]
         }
@@ -643,11 +643,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («नमस्ते_1_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («धन्यवाद»):",
                     "acceptedAnswers": [
-                        "नमस्ते_1_2"
+                        "धन्यवाद"
                     ],
-                    "explanation": "The target keyword was: 【नमस्ते_1_2】"
+                    "explanation": "The target keyword was: 【धन्यवाद】"
                 }
             ]
         }
@@ -729,11 +729,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («नमस्ते_1_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («सुप्रभात»):",
                     "acceptedAnswers": [
-                        "नमस्ते_1_3"
+                        "सुप्रभात"
                     ],
-                    "explanation": "The target keyword was: 【नमस्ते_1_3】"
+                    "explanation": "The target keyword was: 【सुप्रभात】"
                 }
             ]
         }
@@ -815,11 +815,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («नमस्ते_1_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («अलविदा»):",
                     "acceptedAnswers": [
-                        "नमस्ते_1_4"
+                        "अलविदा"
                     ],
-                    "explanation": "The target keyword was: 【नमस्ते_1_4】"
+                    "explanation": "The target keyword was: 【अलविदा】"
                 }
             ]
         }
@@ -901,11 +901,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («नमस्ते_1_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («स्वागत»):",
                     "acceptedAnswers": [
-                        "नमस्ते_1_5"
+                        "स्वागत"
                     ],
-                    "explanation": "The target keyword was: 【नमस्ते_1_5】"
+                    "explanation": "The target keyword was: 【स्वागत】"
                 }
             ]
         }
@@ -987,11 +987,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («लड़का_2_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («लड़का»):",
                     "acceptedAnswers": [
-                        "लड़का_2_1"
+                        "लड़का"
                     ],
-                    "explanation": "The target keyword was: 【लड़का_2_1】"
+                    "explanation": "The target keyword was: 【लड़का】"
                 }
             ]
         }
@@ -1073,11 +1073,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («लड़का_2_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («लड़की»):",
                     "acceptedAnswers": [
-                        "लड़का_2_2"
+                        "लड़की"
                     ],
-                    "explanation": "The target keyword was: 【लड़का_2_2】"
+                    "explanation": "The target keyword was: 【लड़की】"
                 }
             ]
         }
@@ -1159,11 +1159,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («लड़का_2_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («किताबें»):",
                     "acceptedAnswers": [
-                        "लड़का_2_3"
+                        "किताबें"
                     ],
-                    "explanation": "The target keyword was: 【लड़का_2_3】"
+                    "explanation": "The target keyword was: 【किताबें】"
                 }
             ]
         }
@@ -1245,11 +1245,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («लड़का_2_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («कमरा»):",
                     "acceptedAnswers": [
-                        "लड़का_2_4"
+                        "कमरा"
                     ],
-                    "explanation": "The target keyword was: 【लड़का_2_4】"
+                    "explanation": "The target keyword was: 【कमरा】"
                 }
             ]
         }
@@ -1331,11 +1331,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («लड़का_2_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («दरवाज़ा»):",
                     "acceptedAnswers": [
-                        "लड़का_2_5"
+                        "दरवाज़ा"
                     ],
-                    "explanation": "The target keyword was: 【लड़का_2_5】"
+                    "explanation": "The target keyword was: 【दरवाज़ा】"
                 }
             ]
         }
@@ -1417,11 +1417,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («मेरा_3_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («मुझको»):",
                     "acceptedAnswers": [
-                        "मेरा_3_1"
+                        "मुझको"
                     ],
-                    "explanation": "The target keyword was: 【मेरा_3_1】"
+                    "explanation": "The target keyword was: 【मुझको】"
                 }
             ]
         }
@@ -1503,11 +1503,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («मेरा_3_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («उसका»):",
                     "acceptedAnswers": [
-                        "मेरा_3_2"
+                        "उसका"
                     ],
-                    "explanation": "The target keyword was: 【मेरा_3_2】"
+                    "explanation": "The target keyword was: 【उसका】"
                 }
             ]
         }
@@ -1589,11 +1589,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («मेरा_3_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («अंदर»):",
                     "acceptedAnswers": [
-                        "मेरा_3_3"
+                        "अंदर"
                     ],
-                    "explanation": "The target keyword was: 【मेरा_3_3】"
+                    "explanation": "The target keyword was: 【अंदर】"
                 }
             ]
         }
@@ -1675,11 +1675,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («मेरा_3_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («सामने»):",
                     "acceptedAnswers": [
-                        "मेरा_3_4"
+                        "सामने"
                     ],
-                    "explanation": "The target keyword was: 【मेरा_3_4】"
+                    "explanation": "The target keyword was: 【सामने】"
                 }
             ]
         }
@@ -1761,11 +1761,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («मेरा_3_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («तुम्हारा»):",
                     "acceptedAnswers": [
-                        "मेरा_3_5"
+                        "तुम्हारा"
                     ],
-                    "explanation": "The target keyword was: 【मेरा_3_5】"
+                    "explanation": "The target keyword was: 【तुम्हारा】"
                 }
             ]
         }
@@ -1847,11 +1847,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («पढ़ता_है_4_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («पढ़ता»):",
                     "acceptedAnswers": [
-                        "पढ़ता_है_4_1"
+                        "पढ़ता"
                     ],
-                    "explanation": "The target keyword was: 【पढ़ता_है_4_1】"
+                    "explanation": "The target keyword was: 【पढ़ता】"
                 }
             ]
         }
@@ -1933,11 +1933,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («पढ़ता_है_4_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («लिखती»):",
                     "acceptedAnswers": [
-                        "पढ़ता_है_4_2"
+                        "लिखती"
                     ],
-                    "explanation": "The target keyword was: 【पढ़ता_है_4_2】"
+                    "explanation": "The target keyword was: 【लिखती】"
                 }
             ]
         }
@@ -2019,11 +2019,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («पढ़ता_है_4_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («खेलते»):",
                     "acceptedAnswers": [
-                        "पढ़ता_है_4_3"
+                        "खेलते"
                     ],
-                    "explanation": "The target keyword was: 【पढ़ता_है_4_3】"
+                    "explanation": "The target keyword was: 【खेलते】"
                 }
             ]
         }
@@ -2105,11 +2105,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («पढ़ता_है_4_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («बोलता»):",
                     "acceptedAnswers": [
-                        "पढ़ता_है_4_4"
+                        "बोलता"
                     ],
-                    "explanation": "The target keyword was: 【पढ़ता_है_4_4】"
+                    "explanation": "The target keyword was: 【बोलता】"
                 }
             ]
         }
@@ -2191,11 +2191,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («पढ़ता_है_4_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («सीखते»):",
                     "acceptedAnswers": [
-                        "पढ़ता_है_4_5"
+                        "सीखते"
                     ],
-                    "explanation": "The target keyword was: 【पढ़ता_है_4_5】"
+                    "explanation": "The target keyword was: 【सीखते】"
                 }
             ]
         }
@@ -2277,11 +2277,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («पढ़_रहा_है_5_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («दौड़»):",
                     "acceptedAnswers": [
-                        "पढ़_रहा_है_5_1"
+                        "दौड़"
                     ],
-                    "explanation": "The target keyword was: 【पढ़_रहा_है_5_1】"
+                    "explanation": "The target keyword was: 【दौड़】"
                 }
             ]
         }
@@ -2363,11 +2363,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («पढ़_रहा_है_5_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («खा»):",
                     "acceptedAnswers": [
-                        "पढ़_रहा_है_5_2"
+                        "खा"
                     ],
-                    "explanation": "The target keyword was: 【पढ़_रहा_है_5_2】"
+                    "explanation": "The target keyword was: 【खा】"
                 }
             ]
         }
@@ -2449,11 +2449,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («पढ़_रहा_है_5_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («गा»):",
                     "acceptedAnswers": [
-                        "पढ़_रहा_है_5_3"
+                        "गा"
                     ],
-                    "explanation": "The target keyword was: 【पढ़_रहा_है_5_3】"
+                    "explanation": "The target keyword was: 【गा】"
                 }
             ]
         }
@@ -2535,11 +2535,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («पढ़_रहा_है_5_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («सोच»):",
                     "acceptedAnswers": [
-                        "पढ़_रहा_है_5_4"
+                        "सोच"
                     ],
-                    "explanation": "The target keyword was: 【पढ़_रहा_है_5_4】"
+                    "explanation": "The target keyword was: 【सोच】"
                 }
             ]
         }
@@ -2621,11 +2621,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («पढ़_रहा_है_5_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («देख»):",
                     "acceptedAnswers": [
-                        "पढ़_रहा_है_5_5"
+                        "देख"
                     ],
-                    "explanation": "The target keyword was: 【पढ़_रहा_है_5_5】"
+                    "explanation": "The target keyword was: 【देख】"
                 }
             ]
         }
@@ -2707,11 +2707,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («देखा_6_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («कहा»):",
                     "acceptedAnswers": [
-                        "देखा_6_1"
+                        "कहा"
                     ],
-                    "explanation": "The target keyword was: 【देखा_6_1】"
+                    "explanation": "The target keyword was: 【कहा】"
                 }
             ]
         }
@@ -2793,11 +2793,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («देखा_6_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («सुना»):",
                     "acceptedAnswers": [
-                        "देखा_6_2"
+                        "सुना"
                     ],
-                    "explanation": "The target keyword was: 【देखा_6_2】"
+                    "explanation": "The target keyword was: 【सुना】"
                 }
             ]
         }
@@ -2879,11 +2879,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («देखा_6_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («खरीदा»):",
                     "acceptedAnswers": [
-                        "देखा_6_3"
+                        "खरीदा"
                     ],
-                    "explanation": "The target keyword was: 【देखा_6_3】"
+                    "explanation": "The target keyword was: 【खरीदा】"
                 }
             ]
         }
@@ -2965,11 +2965,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («देखा_6_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («भेजा»):",
                     "acceptedAnswers": [
-                        "देखा_6_4"
+                        "भेजा"
                     ],
-                    "explanation": "The target keyword was: 【देखा_6_4】"
+                    "explanation": "The target keyword was: 【भेजा】"
                 }
             ]
         }
@@ -3051,11 +3051,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («देखा_6_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («पहुँचा»):",
                     "acceptedAnswers": [
-                        "देखा_6_5"
+                        "पहुँचा"
                     ],
-                    "explanation": "The target keyword was: 【देखा_6_5】"
+                    "explanation": "The target keyword was: 【पहुँचा】"
                 }
             ]
         }
@@ -3137,11 +3137,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («गया_था_7_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («था»):",
                     "acceptedAnswers": [
-                        "गया_था_7_1"
+                        "था"
                     ],
-                    "explanation": "The target keyword was: 【गया_था_7_1】"
+                    "explanation": "The target keyword was: 【था】"
                 }
             ]
         }
@@ -3223,11 +3223,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («गया_था_7_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («थी»):",
                     "acceptedAnswers": [
-                        "गया_था_7_2"
+                        "थी"
                     ],
-                    "explanation": "The target keyword was: 【गया_था_7_2】"
+                    "explanation": "The target keyword was: 【थी】"
                 }
             ]
         }
@@ -3309,11 +3309,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («गया_था_7_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («चुका»):",
                     "acceptedAnswers": [
-                        "गया_था_7_3"
+                        "चुका"
                     ],
-                    "explanation": "The target keyword was: 【गया_था_7_3】"
+                    "explanation": "The target keyword was: 【चुका】"
                 }
             ]
         }
@@ -3395,11 +3395,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («गया_था_7_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («गया»):",
                     "acceptedAnswers": [
-                        "गया_था_7_4"
+                        "गया"
                     ],
-                    "explanation": "The target keyword was: 【गया_था_7_4】"
+                    "explanation": "The target keyword was: 【गया】"
                 }
             ]
         }
@@ -3481,11 +3481,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («गया_था_7_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («रहा»):",
                     "acceptedAnswers": [
-                        "गया_था_7_5"
+                        "रहा"
                     ],
-                    "explanation": "The target keyword was: 【गया_था_7_5】"
+                    "explanation": "The target keyword was: 【रहा】"
                 }
             ]
         }
@@ -3567,11 +3567,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («जाएगा_8_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («जाऊँगा»):",
                     "acceptedAnswers": [
-                        "जाएगा_8_1"
+                        "जाऊँगा"
                     ],
-                    "explanation": "The target keyword was: 【जाएगा_8_1】"
+                    "explanation": "The target keyword was: 【जाऊँगा】"
                 }
             ]
         }
@@ -3653,11 +3653,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («जाएगा_8_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («आएँगे»):",
                     "acceptedAnswers": [
-                        "जाएगा_8_2"
+                        "आएँगे"
                     ],
-                    "explanation": "The target keyword was: 【जाएगा_8_2】"
+                    "explanation": "The target keyword was: 【आएँगे】"
                 }
             ]
         }
@@ -3739,11 +3739,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («जाएगा_8_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («कीजिए»):",
                     "acceptedAnswers": [
-                        "जाएगा_8_3"
+                        "कीजिए"
                     ],
-                    "explanation": "The target keyword was: 【जाएगा_8_3】"
+                    "explanation": "The target keyword was: 【कीजिए】"
                 }
             ]
         }
@@ -3825,11 +3825,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («जाएगा_8_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («बैठिए»):",
                     "acceptedAnswers": [
-                        "जाएगा_8_4"
+                        "बैठिए"
                     ],
-                    "explanation": "The target keyword was: 【जाएगा_8_4】"
+                    "explanation": "The target keyword was: 【बैठिए】"
                 }
             ]
         }
@@ -3911,11 +3911,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («जाएगा_8_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («बताइए»):",
                     "acceptedAnswers": [
-                        "जाएगा_8_5"
+                        "बताइए"
                     ],
-                    "explanation": "The target keyword was: 【जाएगा_8_5】"
+                    "explanation": "The target keyword was: 【बताइए】"
                 }
             ]
         }
@@ -3997,11 +3997,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («चाहिए_9_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («चाहिए»):",
                     "acceptedAnswers": [
-                        "चाहिए_9_1"
+                        "चाहिए"
                     ],
-                    "explanation": "The target keyword was: 【चाहिए_9_1】"
+                    "explanation": "The target keyword was: 【चाहिए】"
                 }
             ]
         }
@@ -4083,11 +4083,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («चाहिए_9_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («कर्तव्य»):",
                     "acceptedAnswers": [
-                        "चाहिए_9_2"
+                        "कर्तव्य"
                     ],
-                    "explanation": "The target keyword was: 【चाहिए_9_2】"
+                    "explanation": "The target keyword was: 【कर्तव्य】"
                 }
             ]
         }
@@ -4169,11 +4169,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («चाहिए_9_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («नियम»):",
                     "acceptedAnswers": [
-                        "चाहिए_9_3"
+                        "नियम"
                     ],
-                    "explanation": "The target keyword was: 【चाहिए_9_3】"
+                    "explanation": "The target keyword was: 【नियम】"
                 }
             ]
         }
@@ -4255,11 +4255,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («चाहिए_9_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («आवश्यकता»):",
                     "acceptedAnswers": [
-                        "चाहिए_9_4"
+                        "आवश्यकता"
                     ],
-                    "explanation": "The target keyword was: 【चाहिए_9_4】"
+                    "explanation": "The target keyword was: 【आवश्यकता】"
                 }
             ]
         }
@@ -4341,11 +4341,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («चाहिए_9_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («उचित»):",
                     "acceptedAnswers": [
-                        "चाहिए_9_5"
+                        "उचित"
                     ],
-                    "explanation": "The target keyword was: 【चाहिए_9_5】"
+                    "explanation": "The target keyword was: 【उचित】"
                 }
             ]
         }
@@ -4427,11 +4427,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («पड़ता_है_10_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («पड़ा»):",
                     "acceptedAnswers": [
-                        "पड़ता_है_10_1"
+                        "पड़ा"
                     ],
-                    "explanation": "The target keyword was: 【पड़ता_है_10_1】"
+                    "explanation": "The target keyword was: 【पड़ा】"
                 }
             ]
         }
@@ -4513,11 +4513,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («पड़ता_है_10_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («पड़ेगा»):",
                     "acceptedAnswers": [
-                        "पड़ता_है_10_2"
+                        "पड़ेगा"
                     ],
-                    "explanation": "The target keyword was: 【पड़ता_है_10_2】"
+                    "explanation": "The target keyword was: 【पड़ेगा】"
                 }
             ]
         }
@@ -4599,11 +4599,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («पड़ता_है_10_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («मजबूरी»):",
                     "acceptedAnswers": [
-                        "पड़ता_है_10_3"
+                        "मजबूरी"
                     ],
-                    "explanation": "The target keyword was: 【पड़ता_है_10_3】"
+                    "explanation": "The target keyword was: 【मजबूरी】"
                 }
             ]
         }
@@ -4685,11 +4685,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («पड़ता_है_10_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («रोकना»):",
                     "acceptedAnswers": [
-                        "पड़ता_है_10_4"
+                        "रोकना"
                     ],
-                    "explanation": "The target keyword was: 【पड़ता_है_10_4】"
+                    "explanation": "The target keyword was: 【रोकना】"
                 }
             ]
         }
@@ -4771,11 +4771,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («पड़ता_है_10_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («सहन»):",
                     "acceptedAnswers": [
-                        "पड़ता_है_10_5"
+                        "सहन"
                     ],
-                    "explanation": "The target keyword was: 【पड़ता_है_10_5】"
+                    "explanation": "The target keyword was: 【सहन】"
                 }
             ]
         }
@@ -4857,11 +4857,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («के_पास_11_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («पास»):",
                     "acceptedAnswers": [
-                        "के_पास_11_1"
+                        "पास"
                     ],
-                    "explanation": "The target keyword was: 【के_पास_11_1】"
+                    "explanation": "The target keyword was: 【पास】"
                 }
             ]
         }
@@ -4943,11 +4943,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («के_पास_11_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («संपत्ति»):",
                     "acceptedAnswers": [
-                        "के_पास_11_2"
+                        "संपत्ति"
                     ],
-                    "explanation": "The target keyword was: 【के_पास_11_2】"
+                    "explanation": "The target keyword was: 【संपत्ति】"
                 }
             ]
         }
@@ -5029,11 +5029,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («के_पास_11_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («स्वामित्व»):",
                     "acceptedAnswers": [
-                        "के_पास_11_3"
+                        "स्वामित्व"
                     ],
-                    "explanation": "The target keyword was: 【के_पास_11_3】"
+                    "explanation": "The target keyword was: 【स्वामित्व】"
                 }
             ]
         }
@@ -5115,11 +5115,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («के_पास_11_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («अधिकार»):",
                     "acceptedAnswers": [
-                        "के_पास_11_4"
+                        "अधिकार"
                     ],
-                    "explanation": "The target keyword was: 【के_पास_11_4】"
+                    "explanation": "The target keyword was: 【अधिकार】"
                 }
             ]
         }
@@ -5201,11 +5201,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («के_पास_11_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («पैतृक»):",
                     "acceptedAnswers": [
-                        "के_पास_11_5"
+                        "पैतृक"
                     ],
-                    "explanation": "The target keyword was: 【के_पास_11_5】"
+                    "explanation": "The target keyword was: 【पैतृक】"
                 }
             ]
         }
@@ -5287,11 +5287,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ले_लिया_12_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («डालना»):",
                     "acceptedAnswers": [
-                        "ले_लिया_12_1"
+                        "डालना"
                     ],
-                    "explanation": "The target keyword was: 【ले_लिया_12_1】"
+                    "explanation": "The target keyword was: 【डालना】"
                 }
             ]
         }
@@ -5373,11 +5373,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ले_लिया_12_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («बैठना»):",
                     "acceptedAnswers": [
-                        "ले_लिया_12_2"
+                        "बैठना"
                     ],
-                    "explanation": "The target keyword was: 【ले_लिया_12_2】"
+                    "explanation": "The target keyword was: 【बैठना】"
                 }
             ]
         }
@@ -5459,11 +5459,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ले_लिया_12_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («उठना»):",
                     "acceptedAnswers": [
-                        "ले_लिया_12_3"
+                        "उठना"
                     ],
-                    "explanation": "The target keyword was: 【ले_लिया_12_3】"
+                    "explanation": "The target keyword was: 【उठना】"
                 }
             ]
         }
@@ -5545,11 +5545,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ले_लिया_12_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («पड़ना»):",
                     "acceptedAnswers": [
-                        "ले_लिया_12_4"
+                        "पड़ना"
                     ],
-                    "explanation": "The target keyword was: 【ले_लिया_12_4】"
+                    "explanation": "The target keyword was: 【पड़ना】"
                 }
             ]
         }
@@ -5631,11 +5631,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ले_लिया_12_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («लेना»):",
                     "acceptedAnswers": [
-                        "ले_लिया_12_5"
+                        "लेना"
                     ],
-                    "explanation": "The target keyword was: 【ले_लिया_12_5】"
+                    "explanation": "The target keyword was: 【लेना】"
                 }
             ]
         }
@@ -5717,11 +5717,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («शायद_13_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («शायद»):",
                     "acceptedAnswers": [
-                        "शायद_13_1"
+                        "शायद"
                     ],
-                    "explanation": "The target keyword was: 【शायद_13_1】"
+                    "explanation": "The target keyword was: 【शायद】"
                 }
             ]
         }
@@ -5803,11 +5803,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («शायद_13_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («संभवतः»):",
                     "acceptedAnswers": [
-                        "शायद_13_2"
+                        "संभवतः"
                     ],
-                    "explanation": "The target keyword was: 【शायद_13_2】"
+                    "explanation": "The target keyword was: 【संभवतः】"
                 }
             ]
         }
@@ -5889,11 +5889,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («शायद_13_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («काश»):",
                     "acceptedAnswers": [
-                        "शायद_13_3"
+                        "काश"
                     ],
-                    "explanation": "The target keyword was: 【शायद_13_3】"
+                    "explanation": "The target keyword was: 【काश】"
                 }
             ]
         }
@@ -5975,11 +5975,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («शायद_13_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («इच्छा»):",
                     "acceptedAnswers": [
-                        "शायद_13_4"
+                        "इच्छा"
                     ],
-                    "explanation": "The target keyword was: 【शायद_13_4】"
+                    "explanation": "The target keyword was: 【इच्छा】"
                 }
             ]
         }
@@ -6061,11 +6061,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («शायद_13_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («अनुमति»):",
                     "acceptedAnswers": [
-                        "शायद_13_5"
+                        "अनुमति"
                     ],
-                    "explanation": "The target keyword was: 【शायद_13_5】"
+                    "explanation": "The target keyword was: 【अनुमति】"
                 }
             ]
         }
@@ -6147,11 +6147,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («खाकर_14_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («जाकर»):",
                     "acceptedAnswers": [
-                        "खाकर_14_1"
+                        "जाकर"
                     ],
-                    "explanation": "The target keyword was: 【खाकर_14_1】"
+                    "explanation": "The target keyword was: 【जाकर】"
                 }
             ]
         }
@@ -6233,11 +6233,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («खाकर_14_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («खाकर»):",
                     "acceptedAnswers": [
-                        "खाकर_14_2"
+                        "खाकर"
                     ],
-                    "explanation": "The target keyword was: 【खाकर_14_2】"
+                    "explanation": "The target keyword was: 【खाकर】"
                 }
             ]
         }
@@ -6319,11 +6319,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («खाकर_14_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («सोचकर»):",
                     "acceptedAnswers": [
-                        "खाकर_14_3"
+                        "सोचकर"
                     ],
-                    "explanation": "The target keyword was: 【खाकर_14_3】"
+                    "explanation": "The target keyword was: 【सोचकर】"
                 }
             ]
         }
@@ -6405,11 +6405,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («खाकर_14_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («मिलकर»):",
                     "acceptedAnswers": [
-                        "खाकर_14_4"
+                        "मिलकर"
                     ],
-                    "explanation": "The target keyword was: 【खाकर_14_4】"
+                    "explanation": "The target keyword was: 【मिलकर】"
                 }
             ]
         }
@@ -6491,11 +6491,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («खाकर_14_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («देखकर»):",
                     "acceptedAnswers": [
-                        "खाकर_14_5"
+                        "देखकर"
                     ],
-                    "explanation": "The target keyword was: 【खाकर_14_5】"
+                    "explanation": "The target keyword was: 【देखकर】"
                 }
             ]
         }
@@ -6577,11 +6577,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («जो_वह_15_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («जो»):",
                     "acceptedAnswers": [
-                        "जो_वह_15_1"
+                        "जो"
                     ],
-                    "explanation": "The target keyword was: 【जो_वह_15_1】"
+                    "explanation": "The target keyword was: 【जो】"
                 }
             ]
         }
@@ -6663,11 +6663,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («जो_वह_15_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («सो»):",
                     "acceptedAnswers": [
-                        "जो_वह_15_2"
+                        "सो"
                     ],
-                    "explanation": "The target keyword was: 【जो_वह_15_2】"
+                    "explanation": "The target keyword was: 【सो】"
                 }
             ]
         }
@@ -6749,11 +6749,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («जो_वह_15_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («जैसा»):",
                     "acceptedAnswers": [
-                        "जो_वह_15_3"
+                        "जैसा"
                     ],
-                    "explanation": "The target keyword was: 【जो_वह_15_3】"
+                    "explanation": "The target keyword was: 【जैसा】"
                 }
             ]
         }
@@ -6835,11 +6835,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («जो_वह_15_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («वैसा»):",
                     "acceptedAnswers": [
-                        "जो_वह_15_4"
+                        "वैसा"
                     ],
-                    "explanation": "The target keyword was: 【जो_वह_15_4】"
+                    "explanation": "The target keyword was: 【वैसा】"
                 }
             ]
         }
@@ -6921,11 +6921,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («जो_वह_15_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («जितना»):",
                     "acceptedAnswers": [
-                        "जो_वह_15_5"
+                        "जितना"
                     ],
-                    "explanation": "The target keyword was: 【जो_वह_15_5】"
+                    "explanation": "The target keyword was: 【जितना】"
                 }
             ]
         }
@@ -7007,11 +7007,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («किया_जाता_है_16_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («बनाया»):",
                     "acceptedAnswers": [
-                        "किया_जाता_है_16_1"
+                        "बनाया"
                     ],
-                    "explanation": "The target keyword was: 【किया_जाता_है_16_1】"
+                    "explanation": "The target keyword was: 【बनाया】"
                 }
             ]
         }
@@ -7093,11 +7093,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («किया_जाता_है_16_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («लिखा»):",
                     "acceptedAnswers": [
-                        "किया_जाता_है_16_2"
+                        "लिखा"
                     ],
-                    "explanation": "The target keyword was: 【किया_जाता_है_16_2】"
+                    "explanation": "The target keyword was: 【लिखा】"
                 }
             ]
         }
@@ -7179,11 +7179,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («किया_जाता_है_16_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («पढ़ा»):",
                     "acceptedAnswers": [
-                        "किया_जाता_है_16_3"
+                        "पढ़ा"
                     ],
-                    "explanation": "The target keyword was: 【किया_जाता_है_16_3】"
+                    "explanation": "The target keyword was: 【पढ़ा】"
                 }
             ]
         }
@@ -7265,11 +7265,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («किया_जाता_है_16_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («घोषित»):",
                     "acceptedAnswers": [
-                        "किया_जाता_है_16_4"
+                        "घोषित"
                     ],
-                    "explanation": "The target keyword was: 【किया_जाता_है_16_4】"
+                    "explanation": "The target keyword was: 【घोषित】"
                 }
             ]
         }
@@ -7351,11 +7351,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («किया_जाता_है_16_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («आयोजित»):",
                     "acceptedAnswers": [
-                        "किया_जाता_है_16_5"
+                        "आयोजित"
                     ],
-                    "explanation": "The target keyword was: 【किया_जाता_है_16_5】"
+                    "explanation": "The target keyword was: 【आयोजित】"
                 }
             ]
         }
@@ -7437,11 +7437,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («सिखाना_17_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («पिलाना»):",
                     "acceptedAnswers": [
-                        "सिखाना_17_1"
+                        "पिलाना"
                     ],
-                    "explanation": "The target keyword was: 【सिखाना_17_1】"
+                    "explanation": "The target keyword was: 【पिलाना】"
                 }
             ]
         }
@@ -7523,11 +7523,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («सिखाना_17_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («सिखाना»):",
                     "acceptedAnswers": [
-                        "सिखाना_17_2"
+                        "सिखाना"
                     ],
-                    "explanation": "The target keyword was: 【सिखाना_17_2】"
+                    "explanation": "The target keyword was: 【सिखाना】"
                 }
             ]
         }
@@ -7609,11 +7609,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («सिखाना_17_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («करवाना»):",
                     "acceptedAnswers": [
-                        "सिखाना_17_3"
+                        "करवाना"
                     ],
-                    "explanation": "The target keyword was: 【सिखाना_17_3】"
+                    "explanation": "The target keyword was: 【करवाना】"
                 }
             ]
         }
@@ -7695,11 +7695,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («सिखाना_17_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («दिखाना»):",
                     "acceptedAnswers": [
-                        "सिखाना_17_4"
+                        "दिखाना"
                     ],
-                    "explanation": "The target keyword was: 【सिखाना_17_4】"
+                    "explanation": "The target keyword was: 【दिखाना】"
                 }
             ]
         }
@@ -7781,11 +7781,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («सिखाना_17_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («सुलवाना»):",
                     "acceptedAnswers": [
-                        "सिखाना_17_5"
+                        "सुलवाना"
                     ],
-                    "explanation": "The target keyword was: 【सिखाना_17_5】"
+                    "explanation": "The target keyword was: 【सुलवाना】"
                 }
             ]
         }
@@ -7867,11 +7867,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («अगर_तो_18_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («यदि»):",
                     "acceptedAnswers": [
-                        "अगर_तो_18_1"
+                        "यदि"
                     ],
-                    "explanation": "The target keyword was: 【अगर_तो_18_1】"
+                    "explanation": "The target keyword was: 【यदि】"
                 }
             ]
         }
@@ -7953,11 +7953,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («अगर_तो_18_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («तो»):",
                     "acceptedAnswers": [
-                        "अगर_तो_18_2"
+                        "तो"
                     ],
-                    "explanation": "The target keyword was: 【अगर_तो_18_2】"
+                    "explanation": "The target keyword was: 【तो】"
                 }
             ]
         }
@@ -8039,11 +8039,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («अगर_तो_18_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («वरना»):",
                     "acceptedAnswers": [
-                        "अगर_तो_18_3"
+                        "वरना"
                     ],
-                    "explanation": "The target keyword was: 【अगर_तो_18_3】"
+                    "explanation": "The target keyword was: 【वरना】"
                 }
             ]
         }
@@ -8125,11 +8125,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («अगर_तो_18_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («बशर्ते»):",
                     "acceptedAnswers": [
-                        "अगर_तो_18_4"
+                        "बशर्ते"
                     ],
-                    "explanation": "The target keyword was: 【अगर_तो_18_4】"
+                    "explanation": "The target keyword was: 【बशर्ते】"
                 }
             ]
         }
@@ -8211,11 +8211,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («अगर_तो_18_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («यद्यपि»):",
                     "acceptedAnswers": [
-                        "अगर_तो_18_5"
+                        "यद्यपि"
                     ],
-                    "explanation": "The target keyword was: 【अगर_तो_18_5】"
+                    "explanation": "The target keyword was: 【यद्यपि】"
                 }
             ]
         }
@@ -8297,11 +8297,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («कहा_कि_19_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («कहावत»):",
                     "acceptedAnswers": [
-                        "कहा_कि_19_1"
+                        "कहावत"
                     ],
-                    "explanation": "The target keyword was: 【कहा_कि_19_1】"
+                    "explanation": "The target keyword was: 【कहावत】"
                 }
             ]
         }
@@ -8383,11 +8383,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («कहा_कि_19_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («उल्लेख»):",
                     "acceptedAnswers": [
-                        "कहा_कि_19_2"
+                        "उल्लेख"
                     ],
-                    "explanation": "The target keyword was: 【कहा_कि_19_2】"
+                    "explanation": "The target keyword was: 【उल्लेख】"
                 }
             ]
         }
@@ -8469,11 +8469,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («कहा_कि_19_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («संवाद»):",
                     "acceptedAnswers": [
-                        "कहा_कि_19_3"
+                        "संवाद"
                     ],
-                    "explanation": "The target keyword was: 【कहा_कि_19_3】"
+                    "explanation": "The target keyword was: 【संवाद】"
                 }
             ]
         }
@@ -8555,11 +8555,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («कहा_कि_19_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («स्वीकार»):",
                     "acceptedAnswers": [
-                        "कहा_कि_19_4"
+                        "स्वीकार"
                     ],
-                    "explanation": "The target keyword was: 【कहा_कि_19_4】"
+                    "explanation": "The target keyword was: 【स्वीकार】"
                 }
             ]
         }
@@ -8641,11 +8641,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («कहा_कि_19_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («अस्वीकार»):",
                     "acceptedAnswers": [
-                        "कहा_कि_19_5"
+                        "अस्वीकार"
                     ],
-                    "explanation": "The target keyword was: 【कहा_कि_19_5】"
+                    "explanation": "The target keyword was: 【अस्वीकार】"
                 }
             ]
         }
@@ -8727,11 +8727,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («कार्यालय_20_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («प्रबंधन»):",
                     "acceptedAnswers": [
-                        "कार्यालय_20_1"
+                        "प्रबंधन"
                     ],
-                    "explanation": "The target keyword was: 【कार्यालय_20_1】"
+                    "explanation": "The target keyword was: 【प्रबंधन】"
                 }
             ]
         }
@@ -8813,11 +8813,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («कार्यालय_20_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («वार्षिक»):",
                     "acceptedAnswers": [
-                        "कार्यालय_20_2"
+                        "वार्षिक"
                     ],
-                    "explanation": "The target keyword was: 【कार्यालय_20_2】"
+                    "explanation": "The target keyword was: 【वार्षिक】"
                 }
             ]
         }
@@ -8899,11 +8899,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («कार्यालय_20_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («निविदा»):",
                     "acceptedAnswers": [
-                        "कार्यालय_20_3"
+                        "निविदा"
                     ],
-                    "explanation": "The target keyword was: 【कार्यालय_20_3】"
+                    "explanation": "The target keyword was: 【निविदा】"
                 }
             ]
         }
@@ -8985,11 +8985,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («कार्यालय_20_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («अनुबंध»):",
                     "acceptedAnswers": [
-                        "कार्यालय_20_4"
+                        "अनुबंध"
                     ],
-                    "explanation": "The target keyword was: 【कार्यालय_20_4】"
+                    "explanation": "The target keyword was: 【अनुबंध】"
                 }
             ]
         }
@@ -9071,11 +9071,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («कार्यालय_20_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («परियोजना»):",
                     "acceptedAnswers": [
-                        "कार्यालय_20_5"
+                        "परियोजना"
                     ],
-                    "explanation": "The target keyword was: 【कार्यालय_20_5】"
+                    "explanation": "The target keyword was: 【परियोजना】"
                 }
             ]
         }
@@ -9157,11 +9157,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («दवा_21_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («औषधि»):",
                     "acceptedAnswers": [
-                        "दवा_21_1"
+                        "औषधि"
                     ],
-                    "explanation": "The target keyword was: 【दवा_21_1】"
+                    "explanation": "The target keyword was: 【औषधि】"
                 }
             ]
         }
@@ -9243,11 +9243,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («दवा_21_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («उपचार»):",
                     "acceptedAnswers": [
-                        "दवा_21_2"
+                        "उपचार"
                     ],
-                    "explanation": "The target keyword was: 【दवा_21_2】"
+                    "explanation": "The target keyword was: 【उपचार】"
                 }
             ]
         }
@@ -9329,11 +9329,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («दवा_21_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («रोग»):",
                     "acceptedAnswers": [
-                        "दवा_21_3"
+                        "रोग"
                     ],
-                    "explanation": "The target keyword was: 【दवा_21_3】"
+                    "explanation": "The target keyword was: 【रोग】"
                 }
             ]
         }
@@ -9415,11 +9415,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («दवा_21_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («लक्षण»):",
                     "acceptedAnswers": [
-                        "दवा_21_4"
+                        "लक्षण"
                     ],
-                    "explanation": "The target keyword was: 【दवा_21_4】"
+                    "explanation": "The target keyword was: 【लक्षण】"
                 }
             ]
         }
@@ -9501,11 +9501,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («दवा_21_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («स्वास्थ्य»):",
                     "acceptedAnswers": [
-                        "दवा_21_5"
+                        "स्वास्थ्य"
                     ],
-                    "explanation": "The target keyword was: 【दवा_21_5】"
+                    "explanation": "The target keyword was: 【स्वास्थ्य】"
                 }
             ]
         }
@@ -9587,11 +9587,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («व्यंजन_22_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («व्यंजन»):",
                     "acceptedAnswers": [
-                        "व्यंजन_22_1"
+                        "व्यंजन"
                     ],
-                    "explanation": "The target keyword was: 【व्यंजन_22_1】"
+                    "explanation": "The target keyword was: 【व्यंजन】"
                 }
             ]
         }
@@ -9673,11 +9673,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («व्यंजन_22_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («मसाले»):",
                     "acceptedAnswers": [
-                        "व्यंजन_22_2"
+                        "मसाले"
                     ],
-                    "explanation": "The target keyword was: 【व्यंजन_22_2】"
+                    "explanation": "The target keyword was: 【मसाले】"
                 }
             ]
         }
@@ -9759,11 +9759,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («व्यंजन_22_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («स्वाद»):",
                     "acceptedAnswers": [
-                        "व्यंजन_22_3"
+                        "स्वाद"
                     ],
-                    "explanation": "The target keyword was: 【व्यंजन_22_3】"
+                    "explanation": "The target keyword was: 【स्वाद】"
                 }
             ]
         }
@@ -9845,11 +9845,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («व्यंजन_22_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («आतिथ्य»):",
                     "acceptedAnswers": [
-                        "व्यंजन_22_4"
+                        "आतिथ्य"
                     ],
-                    "explanation": "The target keyword was: 【व्यंजन_22_4】"
+                    "explanation": "The target keyword was: 【आतिथ्य】"
                 }
             ]
         }
@@ -9931,11 +9931,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («व्यंजन_22_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («पकवान»):",
                     "acceptedAnswers": [
-                        "व्यंजन_22_5"
+                        "पकवान"
                     ],
-                    "explanation": "The target keyword was: 【व्यंजन_22_5】"
+                    "explanation": "The target keyword was: 【पकवान】"
                 }
             ]
         }
@@ -10017,11 +10017,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («संगीत_23_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («कलाकार»):",
                     "acceptedAnswers": [
-                        "संगीत_23_1"
+                        "कलाकार"
                     ],
-                    "explanation": "The target keyword was: 【संगीत_23_1】"
+                    "explanation": "The target keyword was: 【कलाकार】"
                 }
             ]
         }
@@ -10103,11 +10103,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («संगीत_23_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («संगीतकार»):",
                     "acceptedAnswers": [
-                        "संगीत_23_2"
+                        "संगीतकार"
                     ],
-                    "explanation": "The target keyword was: 【संगीत_23_2】"
+                    "explanation": "The target keyword was: 【संगीतकार】"
                 }
             ]
         }
@@ -10189,11 +10189,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («संगीत_23_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («अभिनय»):",
                     "acceptedAnswers": [
-                        "संगीत_23_3"
+                        "अभिनय"
                     ],
-                    "explanation": "The target keyword was: 【संगीत_23_3】"
+                    "explanation": "The target keyword was: 【अभिनय】"
                 }
             ]
         }
@@ -10275,11 +10275,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («संगीत_23_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («निर्देशक»):",
                     "acceptedAnswers": [
-                        "संगीत_23_4"
+                        "निर्देशक"
                     ],
-                    "explanation": "The target keyword was: 【संगीत_23_4】"
+                    "explanation": "The target keyword was: 【निर्देशक】"
                 }
             ]
         }
@@ -10361,11 +10361,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («संगीत_23_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («रंगमंच»):",
                     "acceptedAnswers": [
-                        "संगीत_23_5"
+                        "रंगमंच"
                     ],
-                    "explanation": "The target keyword was: 【संगीत_23_5】"
+                    "explanation": "The target keyword was: 【रंगमंच】"
                 }
             ]
         }
@@ -10447,11 +10447,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («खाता_24_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («खाता»):",
                     "acceptedAnswers": [
-                        "खाता_24_1"
+                        "खाता"
                     ],
-                    "explanation": "The target keyword was: 【खाता_24_1】"
+                    "explanation": "The target keyword was: 【खाता】"
                 }
             ]
         }
@@ -10533,11 +10533,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («खाता_24_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («ऋण»):",
                     "acceptedAnswers": [
-                        "खाता_24_2"
+                        "ऋण"
                     ],
-                    "explanation": "The target keyword was: 【खाता_24_2】"
+                    "explanation": "The target keyword was: 【ऋण】"
                 }
             ]
         }
@@ -10619,11 +10619,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («खाता_24_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («ब्याज»):",
                     "acceptedAnswers": [
-                        "खाता_24_3"
+                        "ब्याज"
                     ],
-                    "explanation": "The target keyword was: 【खाता_24_3】"
+                    "explanation": "The target keyword was: 【ब्याज】"
                 }
             ]
         }
@@ -10705,11 +10705,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («खाता_24_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («मुद्रास्फीति»):",
                     "acceptedAnswers": [
-                        "खाता_24_4"
+                        "मुद्रास्फीति"
                     ],
-                    "explanation": "The target keyword was: 【खाता_24_4】"
+                    "explanation": "The target keyword was: 【मुद्रास्फीति】"
                 }
             ]
         }
@@ -10791,11 +10791,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («खाता_24_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («निवेश»):",
                     "acceptedAnswers": [
-                        "खाता_24_5"
+                        "निवेश"
                     ],
-                    "explanation": "The target keyword was: 【खाता_24_5】"
+                    "explanation": "The target keyword was: 【निवेश】"
                 }
             ]
         }
@@ -10877,11 +10877,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («कृषि_25_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («पर्यावरण»):",
                     "acceptedAnswers": [
-                        "कृषि_25_1"
+                        "पर्यावरण"
                     ],
-                    "explanation": "The target keyword was: 【कृषि_25_1】"
+                    "explanation": "The target keyword was: 【पर्यावरण】"
                 }
             ]
         }
@@ -10963,11 +10963,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («कृषि_25_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («कृषि»):",
                     "acceptedAnswers": [
-                        "कृषि_25_2"
+                        "कृषि"
                     ],
-                    "explanation": "The target keyword was: 【कृषि_25_2】"
+                    "explanation": "The target keyword was: 【कृषि】"
                 }
             ]
         }
@@ -11049,11 +11049,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («कृषि_25_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («सिंचाई»):",
                     "acceptedAnswers": [
-                        "कृषि_25_3"
+                        "सिंचाई"
                     ],
-                    "explanation": "The target keyword was: 【कृषि_25_3】"
+                    "explanation": "The target keyword was: 【सिंचाई】"
                 }
             ]
         }
@@ -11135,11 +11135,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («कृषि_25_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («मानसून»):",
                     "acceptedAnswers": [
-                        "कृषि_25_4"
+                        "मानसून"
                     ],
-                    "explanation": "The target keyword was: 【कृषि_25_4】"
+                    "explanation": "The target keyword was: 【मानसून】"
                 }
             ]
         }
@@ -11221,11 +11221,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («कृषि_25_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («संरक्षण»):",
                     "acceptedAnswers": [
-                        "कृषि_25_5"
+                        "संरक्षण"
                     ],
-                    "explanation": "The target keyword was: 【कृषि_25_5】"
+                    "explanation": "The target keyword was: 【संरक्षण】"
                 }
             ]
         }
@@ -11307,11 +11307,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («संविधान_26_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («संविधान»):",
                     "acceptedAnswers": [
-                        "संविधान_26_1"
+                        "संविधान"
                     ],
-                    "explanation": "The target keyword was: 【संविधान_26_1】"
+                    "explanation": "The target keyword was: 【संविधान】"
                 }
             ]
         }
@@ -11393,11 +11393,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («संविधान_26_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («अदालत»):",
                     "acceptedAnswers": [
-                        "संविधान_26_2"
+                        "अदालत"
                     ],
-                    "explanation": "The target keyword was: 【संविधान_26_2】"
+                    "explanation": "The target keyword was: 【अदालत】"
                 }
             ]
         }
@@ -11479,11 +11479,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («संविधान_26_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («न्यायाधीश»):",
                     "acceptedAnswers": [
-                        "संविधान_26_3"
+                        "न्यायाधीश"
                     ],
-                    "explanation": "The target keyword was: 【संविधान_26_3】"
+                    "explanation": "The target keyword was: 【न्यायाधीश】"
                 }
             ]
         }
@@ -11565,11 +11565,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («संविधान_26_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («संसद»):",
                     "acceptedAnswers": [
-                        "संविधान_26_4"
+                        "संसद"
                     ],
-                    "explanation": "The target keyword was: 【संविधान_26_4】"
+                    "explanation": "The target keyword was: 【संसद】"
                 }
             ]
         }
@@ -11651,11 +11651,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («संविधान_26_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («विधेयक»):",
                     "acceptedAnswers": [
-                        "संविधान_26_5"
+                        "विधेयक"
                     ],
-                    "explanation": "The target keyword was: 【संविधान_26_5】"
+                    "explanation": "The target keyword was: 【विधेयक】"
                 }
             ]
         }
@@ -11737,11 +11737,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («साहित्य_27_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («काव्य»):",
                     "acceptedAnswers": [
-                        "साहित्य_27_1"
+                        "काव्य"
                     ],
-                    "explanation": "The target keyword was: 【साहित्य_27_1】"
+                    "explanation": "The target keyword was: 【काव्य】"
                 }
             ]
         }
@@ -11823,11 +11823,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («साहित्य_27_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («उपन्यास»):",
                     "acceptedAnswers": [
-                        "साहित्य_27_2"
+                        "उपन्यास"
                     ],
-                    "explanation": "The target keyword was: 【साहित्य_27_2】"
+                    "explanation": "The target keyword was: 【उपन्यास】"
                 }
             ]
         }
@@ -11909,11 +11909,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («साहित्य_27_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («कवि»):",
                     "acceptedAnswers": [
-                        "साहित्य_27_3"
+                        "कवि"
                     ],
-                    "explanation": "The target keyword was: 【साहित्य_27_3】"
+                    "explanation": "The target keyword was: 【कवि】"
                 }
             ]
         }
@@ -11995,11 +11995,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («साहित्य_27_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («रस»):",
                     "acceptedAnswers": [
-                        "साहित्य_27_4"
+                        "रस"
                     ],
-                    "explanation": "The target keyword was: 【साहित्य_27_4】"
+                    "explanation": "The target keyword was: 【रस】"
                 }
             ]
         }
@@ -12081,11 +12081,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («साहित्य_27_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («छंद»):",
                     "acceptedAnswers": [
-                        "साहित्य_27_5"
+                        "छंद"
                     ],
-                    "explanation": "The target keyword was: 【साहित्य_27_5】"
+                    "explanation": "The target keyword was: 【छंद】"
                 }
             ]
         }
@@ -12167,11 +12167,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («संपादक_28_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («समाचार»):",
                     "acceptedAnswers": [
-                        "संपादक_28_1"
+                        "समाचार"
                     ],
-                    "explanation": "The target keyword was: 【संपादक_28_1】"
+                    "explanation": "The target keyword was: 【समाचार】"
                 }
             ]
         }
@@ -12253,11 +12253,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («संपादक_28_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («संपादक»):",
                     "acceptedAnswers": [
-                        "संपादक_28_2"
+                        "संपादक"
                     ],
-                    "explanation": "The target keyword was: 【संपादक_28_2】"
+                    "explanation": "The target keyword was: 【संपादक】"
                 }
             ]
         }
@@ -12339,11 +12339,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («संपादक_28_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («पत्रकारिता»):",
                     "acceptedAnswers": [
-                        "संपादक_28_3"
+                        "पत्रकारिता"
                     ],
-                    "explanation": "The target keyword was: 【संपादक_28_3】"
+                    "explanation": "The target keyword was: 【पत्रकारिता】"
                 }
             ]
         }
@@ -12425,11 +12425,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («संपादक_28_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («विमर्श»):",
                     "acceptedAnswers": [
-                        "संपादक_28_4"
+                        "विमर्श"
                     ],
-                    "explanation": "The target keyword was: 【संपादक_28_4】"
+                    "explanation": "The target keyword was: 【विमर्श】"
                 }
             ]
         }
@@ -12511,11 +12511,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («संपादक_28_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («प्रसारण»):",
                     "acceptedAnswers": [
-                        "संपादक_28_5"
+                        "प्रसारण"
                     ],
-                    "explanation": "The target keyword was: 【संपादक_28_5】"
+                    "explanation": "The target keyword was: 【प्रसारण】"
                 }
             ]
         }
@@ -12597,11 +12597,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («दर्शन_29_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («दर्शन»):",
                     "acceptedAnswers": [
-                        "दर्शन_29_1"
+                        "दर्शन"
                     ],
-                    "explanation": "The target keyword was: 【दर्शन_29_1】"
+                    "explanation": "The target keyword was: 【दर्शन】"
                 }
             ]
         }
@@ -12683,11 +12683,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («दर्शन_29_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («चेतना»):",
                     "acceptedAnswers": [
-                        "दर्शन_29_2"
+                        "चेतना"
                     ],
-                    "explanation": "The target keyword was: 【दर्शन_29_2】"
+                    "explanation": "The target keyword was: 【चेतना】"
                 }
             ]
         }
@@ -12769,11 +12769,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («दर्शन_29_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («सत्य»):",
                     "acceptedAnswers": [
-                        "दर्शन_29_3"
+                        "सत्य"
                     ],
-                    "explanation": "The target keyword was: 【दर्शन_29_3】"
+                    "explanation": "The target keyword was: 【सत्य】"
                 }
             ]
         }
@@ -12855,11 +12855,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («दर्शन_29_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («अहिंसा»):",
                     "acceptedAnswers": [
-                        "दर्शन_29_4"
+                        "अहिंसा"
                     ],
-                    "explanation": "The target keyword was: 【दर्शन_29_4】"
+                    "explanation": "The target keyword was: 【अहिंसा】"
                 }
             ]
         }
@@ -12941,11 +12941,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («दर्शन_29_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («सद्भाव»):",
                     "acceptedAnswers": [
-                        "दर्शन_29_5"
+                        "सद्भाव"
                     ],
-                    "explanation": "The target keyword was: 【दर्शन_29_5】"
+                    "explanation": "The target keyword was: 【सद्भाव】"
                 }
             ]
         }
@@ -13027,11 +13027,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («अनुसंधान_30_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («वैज्ञानिक»):",
                     "acceptedAnswers": [
-                        "अनुसंधान_30_1"
+                        "वैज्ञानिक"
                     ],
-                    "explanation": "The target keyword was: 【अनुसंधान_30_1】"
+                    "explanation": "The target keyword was: 【वैज्ञानिक】"
                 }
             ]
         }
@@ -13113,11 +13113,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («अनुसंधान_30_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («अनुसंधान»):",
                     "acceptedAnswers": [
-                        "अनुसंधान_30_2"
+                        "अनुसंधान"
                     ],
-                    "explanation": "The target keyword was: 【अनुसंधान_30_2】"
+                    "explanation": "The target keyword was: 【अनुसंधान】"
                 }
             ]
         }
@@ -13199,11 +13199,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («अनुसंधान_30_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («प्रौद्योगिकी»):",
                     "acceptedAnswers": [
-                        "अनुसंधान_30_3"
+                        "प्रौद्योगिकी"
                     ],
-                    "explanation": "The target keyword was: 【अनुसंधान_30_3】"
+                    "explanation": "The target keyword was: 【प्रौद्योगिकी】"
                 }
             ]
         }
@@ -13285,11 +13285,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («अनुसंधान_30_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («सिद्धांत»):",
                     "acceptedAnswers": [
-                        "अनुसंधान_30_4"
+                        "सिद्धांत"
                     ],
-                    "explanation": "The target keyword was: 【अनुसंधान_30_4】"
+                    "explanation": "The target keyword was: 【सिद्धांत】"
                 }
             ]
         }
@@ -13371,11 +13371,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («अनुसंधान_30_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («प्रयोग»):",
                     "acceptedAnswers": [
-                        "अनुसंधान_30_5"
+                        "प्रयोग"
                     ],
-                    "explanation": "The target keyword was: 【अनुसंधान_30_5】"
+                    "explanation": "The target keyword was: 【प्रयोग】"
                 }
             ]
         }
@@ -13457,11 +13457,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («विदेश_नीति_31_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («कूटनीति»):",
                     "acceptedAnswers": [
-                        "विदेश_नीति_31_1"
+                        "कूटनीति"
                     ],
-                    "explanation": "The target keyword was: 【विदेश_नीति_31_1】"
+                    "explanation": "The target keyword was: 【कूटनीति】"
                 }
             ]
         }
@@ -13543,11 +13543,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («विदेश_नीति_31_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («सीमा»):",
                     "acceptedAnswers": [
-                        "विदेश_नीति_31_2"
+                        "सीमा"
                     ],
-                    "explanation": "The target keyword was: 【विदेश_नीति_31_2】"
+                    "explanation": "The target keyword was: 【सीमा】"
                 }
             ]
         }
@@ -13629,11 +13629,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («विदेश_नीति_31_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («संधि»):",
                     "acceptedAnswers": [
-                        "विदेश_नीति_31_3"
+                        "संधि"
                     ],
-                    "explanation": "The target keyword was: 【विदेश_नीति_31_3】"
+                    "explanation": "The target keyword was: 【संधि】"
                 }
             ]
         }
@@ -13715,11 +13715,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («विदेश_नीति_31_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («संप्रभुता»):",
                     "acceptedAnswers": [
-                        "विदेश_नीति_31_4"
+                        "संप्रभुता"
                     ],
-                    "explanation": "The target keyword was: 【विदेश_नीति_31_4】"
+                    "explanation": "The target keyword was: 【संप्रभुता】"
                 }
             ]
         }
@@ -13801,11 +13801,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («विदेश_नीति_31_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («सहयोग»):",
                     "acceptedAnswers": [
-                        "विदेश_नीति_31_5"
+                        "सहयोग"
                     ],
-                    "explanation": "The target keyword was: 【विदेश_नीति_31_5】"
+                    "explanation": "The target keyword was: 【सहयोग】"
                 }
             ]
         }
@@ -13887,11 +13887,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («संधि_32_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («राजदूत»):",
                     "acceptedAnswers": [
-                        "संधि_32_1"
+                        "राजदूत"
                     ],
-                    "explanation": "The target keyword was: 【संधि_32_1】"
+                    "explanation": "The target keyword was: 【राजदूत】"
                 }
             ]
         }
@@ -13973,11 +13973,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («संधि_32_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («दूतावास»):",
                     "acceptedAnswers": [
-                        "संधि_32_2"
+                        "दूतावास"
                     ],
-                    "explanation": "The target keyword was: 【संधि_32_2】"
+                    "explanation": "The target keyword was: 【दूतावास】"
                 }
             ]
         }
@@ -14059,11 +14059,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («संधि_32_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («सहमति»):",
                     "acceptedAnswers": [
-                        "संधि_32_3"
+                        "सहमति"
                     ],
-                    "explanation": "The target keyword was: 【संधि_32_3】"
+                    "explanation": "The target keyword was: 【सहमति】"
                 }
             ]
         }
@@ -14145,11 +14145,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («संधि_32_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («प्रस्ताव»):",
                     "acceptedAnswers": [
-                        "संधि_32_4"
+                        "प्रस्ताव"
                     ],
-                    "explanation": "The target keyword was: 【संधि_32_4】"
+                    "explanation": "The target keyword was: 【प्रस्ताव】"
                 }
             ]
         }
@@ -14231,11 +14231,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («संधि_32_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («द्विपक्षीय»):",
                     "acceptedAnswers": [
-                        "संधि_32_5"
+                        "द्विपक्षीय"
                     ],
-                    "explanation": "The target keyword was: 【संधि_32_5】"
+                    "explanation": "The target keyword was: 【द्विपक्षीय】"
                 }
             ]
         }
@@ -14317,11 +14317,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («मुहावरा_33_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («मुहावरा»):",
                     "acceptedAnswers": [
-                        "मुहावरा_33_1"
+                        "मुहावरा"
                     ],
-                    "explanation": "The target keyword was: 【मुहावरा_33_1】"
+                    "explanation": "The target keyword was: 【मुहावरा】"
                 }
             ]
         }
@@ -14403,11 +14403,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («मुहावरा_33_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («लोकोक्ति»):",
                     "acceptedAnswers": [
-                        "मुहावरा_33_2"
+                        "लोकोक्ति"
                     ],
-                    "explanation": "The target keyword was: 【मुहावरा_33_2】"
+                    "explanation": "The target keyword was: 【लोकोक्ति】"
                 }
             ]
         }
@@ -14489,11 +14489,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («मुहावरा_33_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («अर्थ»):",
                     "acceptedAnswers": [
-                        "मुहावरा_33_3"
+                        "अर्थ"
                     ],
-                    "explanation": "The target keyword was: 【मुहावरा_33_3】"
+                    "explanation": "The target keyword was: 【अर्थ】"
                 }
             ]
         }
@@ -14575,11 +14575,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («मुहावरा_33_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («भावार्थ»):",
                     "acceptedAnswers": [
-                        "मुहावरा_33_4"
+                        "भावार्थ"
                     ],
-                    "explanation": "The target keyword was: 【मुहावरा_33_4】"
+                    "explanation": "The target keyword was: 【भावार्थ】"
                 }
             ]
         }
@@ -14661,11 +14661,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («मुहावरा_33_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («प्रयोगशाला»):",
                     "acceptedAnswers": [
-                        "मुहावरा_33_5"
+                        "प्रयोगशाला"
                     ],
-                    "explanation": "The target keyword was: 【मुहावरा_33_5】"
+                    "explanation": "The target keyword was: 【प्रयोगशाला】"
                 }
             ]
         }
@@ -14747,11 +14747,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («शिखर_वार्ता_34_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («शिखर»):",
                     "acceptedAnswers": [
-                        "शिखर_वार्ता_34_1"
+                        "शिखर"
                     ],
-                    "explanation": "The target keyword was: 【शिखर_वार्ता_34_1】"
+                    "explanation": "The target keyword was: 【शिखर】"
                 }
             ]
         }
@@ -14833,11 +14833,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («शिखर_वार्ता_34_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («राष्ट्र»):",
                     "acceptedAnswers": [
-                        "शिखर_वार्ता_34_2"
+                        "राष्ट्र"
                     ],
-                    "explanation": "The target keyword was: 【शिखर_वार्ता_34_2】"
+                    "explanation": "The target keyword was: 【राष्ट्र】"
                 }
             ]
         }
@@ -14919,11 +14919,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («शिखर_वार्ता_34_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («वक्तव्य»):",
                     "acceptedAnswers": [
-                        "शिखर_वार्ता_34_3"
+                        "वक्तव्य"
                     ],
-                    "explanation": "The target keyword was: 【शिखर_वार्ता_34_3】"
+                    "explanation": "The target keyword was: 【वक्तव्य】"
                 }
             ]
         }
@@ -15005,11 +15005,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («शिखर_वार्ता_34_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («घोषणापत्र»):",
                     "acceptedAnswers": [
-                        "शिखर_वार्ता_34_4"
+                        "घोषणापत्र"
                     ],
-                    "explanation": "The target keyword was: 【शिखर_वार्ता_34_4】"
+                    "explanation": "The target keyword was: 【घोषणापत्र】"
                 }
             ]
         }
@@ -15091,18 +15091,19 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («शिखर_वार्ता_34_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («वैश्विक»):",
                     "acceptedAnswers": [
-                        "शिखर_वार्ता_34_5"
+                        "वैश्विक"
                     ],
-                    "explanation": "The target keyword was: 【शिखर_वार्ता_34_5】"
+                    "explanation": "The target keyword was: 【वैश्विक】"
                 }
             ]
         }
     }
 };
-  var CURRICULUM = { id: 'hindi', name: 'Hindi', units: UNITS, lessons: LESSONS };
+  var ROADMAP = [];
+  var SUBJECT = { units: UNITS, lessons: LESSONS, roadmap: ROADMAP };
   global.FEARN_CURRICULA = global.FEARN_CURRICULA || {};
-  global.FEARN_CURRICULA['hindi'] = CURRICULUM;
-  if (typeof module !== 'undefined' && module.exports) module.exports = CURRICULUM;
+  global.FEARN_CURRICULA['hindi'] = SUBJECT;
+  if (typeof module !== 'undefined' && module.exports) module.exports = SUBJECT;
 })(typeof window !== 'undefined' ? window : global);

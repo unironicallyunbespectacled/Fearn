@@ -20,12 +20,12 @@
   var SUBJECT = 'mandarin';
   var MODULE_ID = 'lang-mandarin';
   var LEVEL_LABELS = {
-    "A1": "A1 — Beginner",
-    "A2": "A2 — Elementary",
-    "B1": "B1 — Intermediate",
-    "B2": "B2 — Upper-Intermediate",
-    "C1": "C1 — Advanced",
-    "C2": "C2 — New HSK Level 9 / C2 Master"
+    "A1": "HSK 1 / CEFR A1 — 初级 (Foundational)",
+    "A2": "HSK 2 / CEFR A2 — 基础 (Elementary)",
+    "B1": "HSK 3 / CEFR B1 — 中级 (Intermediate)",
+    "B2": "HSK 4 / CEFR B2 — 进阶 (Upper-Intermediate)",
+    "C1": "HSK 5 / CEFR C1 — 高级 (Advanced)",
+    "C2": "HSK 6 / HSK 3.0 Band 9 / CEFR C2 — 精通 (Mastery)"
   };
 
   function getCurriculum() {

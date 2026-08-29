@@ -20,12 +20,12 @@
   var SUBJECT = 'argentine-spanish';
   var MODULE_ID = 'lang-argentine-spanish';
   var LEVEL_LABELS = {
-    "A1": "A1 — Beginner",
-    "A2": "A2 — Elementary",
-    "B1": "B1 — Intermediate",
-    "B2": "B2 — Upper-Intermediate",
-    "C1": "C1 — Advanced",
-    "C2": "C2 — DELE C2 / CELU Avanzado"
+    "A1": "CELU Inicial / CEFR A1 — Rioplatense Básico",
+    "A2": "CELU Inicial / CEFR A2 — Rioplatense Elemental",
+    "B1": "CELU Intermedio / CEFR B1 — Umbral Rioplatense",
+    "B2": "CELU Intermedio / CEFR B2 — Independiente",
+    "C1": "CELU Avanzado / CEFR C1 — Fluidez Porteña y Regional",
+    "C2": "CELU Avanzado con Distinción / CEFR C2 — Maestría Rioplatense"
   };
 
   function getCurriculum() {

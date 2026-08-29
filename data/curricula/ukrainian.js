@@ -1,4 +1,4 @@
-// Ukrainian curriculum — full CEFR A1–C2 roadmap (34 units, 170 lessons)
+// ukrainian curriculum
 (function (global) {
   'use strict';
   var UNITS = [
@@ -557,11 +557,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («добрий_день_1_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («добрий_день»):",
                     "acceptedAnswers": [
-                        "добрий_день_1_1"
+                        "добрий_день"
                     ],
-                    "explanation": "The target keyword was: 【добрий_день_1_1】"
+                    "explanation": "The target keyword was: 【добрий_день】"
                 }
             ]
         }
@@ -643,11 +643,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («добрий_день_1_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («дякую»):",
                     "acceptedAnswers": [
-                        "добрий_день_1_2"
+                        "дякую"
                     ],
-                    "explanation": "The target keyword was: 【добрий_день_1_2】"
+                    "explanation": "The target keyword was: 【дякую】"
                 }
             ]
         }
@@ -729,11 +729,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («добрий_день_1_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («до_побачення»):",
                     "acceptedAnswers": [
-                        "добрий_день_1_3"
+                        "до_побачення"
                     ],
-                    "explanation": "The target keyword was: 【добрий_день_1_3】"
+                    "explanation": "The target keyword was: 【до_побачення】"
                 }
             ]
         }
@@ -815,11 +815,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («добрий_день_1_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («привіт»):",
                     "acceptedAnswers": [
-                        "добрий_день_1_4"
+                        "привіт"
                     ],
-                    "explanation": "The target keyword was: 【добрий_день_1_4】"
+                    "explanation": "The target keyword was: 【привіт】"
                 }
             ]
         }
@@ -901,11 +901,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («добрий_день_1_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («будь_ласка»):",
                     "acceptedAnswers": [
-                        "добрий_день_1_5"
+                        "будь_ласка"
                     ],
-                    "explanation": "The target keyword was: 【добрий_день_1_5】"
+                    "explanation": "The target keyword was: 【будь_ласка】"
                 }
             ]
         }
@@ -987,11 +987,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («книжка_2_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («книжка»):",
                     "acceptedAnswers": [
-                        "книжка_2_1"
+                        "книжка"
                     ],
-                    "explanation": "The target keyword was: 【книжка_2_1】"
+                    "explanation": "The target keyword was: 【книжка】"
                 }
             ]
         }
@@ -1073,11 +1073,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («книжка_2_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («стіл»):",
                     "acceptedAnswers": [
-                        "книжка_2_2"
+                        "стіл"
                     ],
-                    "explanation": "The target keyword was: 【книжка_2_2】"
+                    "explanation": "The target keyword was: 【стіл】"
                 }
             ]
         }
@@ -1159,11 +1159,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («книжка_2_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («вікно»):",
                     "acceptedAnswers": [
-                        "книжка_2_3"
+                        "вікно"
                     ],
-                    "explanation": "The target keyword was: 【книжка_2_3】"
+                    "explanation": "The target keyword was: 【вікно】"
                 }
             ]
         }
@@ -1245,11 +1245,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («книжка_2_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («друзі»):",
                     "acceptedAnswers": [
-                        "книжка_2_4"
+                        "друзі"
                     ],
-                    "explanation": "The target keyword was: 【книжка_2_4】"
+                    "explanation": "The target keyword was: 【друзі】"
                 }
             ]
         }
@@ -1331,11 +1331,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («книжка_2_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («міста»):",
                     "acceptedAnswers": [
-                        "книжка_2_5"
+                        "міста"
                     ],
-                    "explanation": "The target keyword was: 【книжка_2_5】"
+                    "explanation": "The target keyword was: 【міста】"
                 }
             ]
         }
@@ -1417,11 +1417,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («друже_3_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («мене»):",
                     "acceptedAnswers": [
-                        "друже_3_1"
+                        "мене"
                     ],
-                    "explanation": "The target keyword was: 【друже_3_1】"
+                    "explanation": "The target keyword was: 【мене】"
                 }
             ]
         }
@@ -1503,11 +1503,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («друже_3_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («його»):",
                     "acceptedAnswers": [
-                        "друже_3_2"
+                        "його"
                     ],
-                    "explanation": "The target keyword was: 【друже_3_2】"
+                    "explanation": "The target keyword was: 【його】"
                 }
             ]
         }
@@ -1589,11 +1589,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («друже_3_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («її»):",
                     "acceptedAnswers": [
-                        "друже_3_3"
+                        "її"
                     ],
-                    "explanation": "The target keyword was: 【друже_3_3】"
+                    "explanation": "The target keyword was: 【її】"
                 }
             ]
         }
@@ -1675,11 +1675,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («друже_3_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («нас»):",
                     "acceptedAnswers": [
-                        "друже_3_4"
+                        "нас"
                     ],
-                    "explanation": "The target keyword was: 【друже_3_4】"
+                    "explanation": "The target keyword was: 【нас】"
                 }
             ]
         }
@@ -1761,11 +1761,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («друже_3_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («вас»):",
                     "acceptedAnswers": [
-                        "друже_3_5"
+                        "вас"
                     ],
-                    "explanation": "The target keyword was: 【друже_3_5】"
+                    "explanation": "The target keyword was: 【вас】"
                 }
             ]
         }
@@ -1847,11 +1847,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («читаю_4_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («читаю»):",
                     "acceptedAnswers": [
-                        "читаю_4_1"
+                        "читаю"
                     ],
-                    "explanation": "The target keyword was: 【читаю_4_1】"
+                    "explanation": "The target keyword was: 【читаю】"
                 }
             ]
         }
@@ -1933,11 +1933,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («читаю_4_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («пише»):",
                     "acceptedAnswers": [
-                        "читаю_4_2"
+                        "пише"
                     ],
-                    "explanation": "The target keyword was: 【читаю_4_2】"
+                    "explanation": "The target keyword was: 【пише】"
                 }
             ]
         }
@@ -2019,11 +2019,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («читаю_4_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («робимо»):",
                     "acceptedAnswers": [
-                        "читаю_4_3"
+                        "робимо"
                     ],
-                    "explanation": "The target keyword was: 【читаю_4_3】"
+                    "explanation": "The target keyword was: 【робимо】"
                 }
             ]
         }
@@ -2105,11 +2105,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («читаю_4_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («знають»):",
                     "acceptedAnswers": [
-                        "читаю_4_4"
+                        "знають"
                     ],
-                    "explanation": "The target keyword was: 【читаю_4_4】"
+                    "explanation": "The target keyword was: 【знають】"
                 }
             ]
         }
@@ -2191,11 +2191,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («читаю_4_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («говорите»):",
                     "acceptedAnswers": [
-                        "читаю_4_5"
+                        "говорите"
                     ],
-                    "explanation": "The target keyword was: 【читаю_4_5】"
+                    "explanation": "The target keyword was: 【говорите】"
                 }
             ]
         }
@@ -2277,11 +2277,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («бачу_друга_5_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («читав»):",
                     "acceptedAnswers": [
-                        "бачу_друга_5_1"
+                        "читав"
                     ],
-                    "explanation": "The target keyword was: 【бачу_друга_5_1】"
+                    "explanation": "The target keyword was: 【читав】"
                 }
             ]
         }
@@ -2363,11 +2363,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («бачу_друга_5_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («писала»):",
                     "acceptedAnswers": [
-                        "бачу_друга_5_2"
+                        "писала"
                     ],
-                    "explanation": "The target keyword was: 【бачу_друга_5_2】"
+                    "explanation": "The target keyword was: 【писала】"
                 }
             ]
         }
@@ -2449,11 +2449,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («бачу_друга_5_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («робили»):",
                     "acceptedAnswers": [
-                        "бачу_друга_5_3"
+                        "робили"
                     ],
-                    "explanation": "The target keyword was: 【бачу_друга_5_3】"
+                    "explanation": "The target keyword was: 【робили】"
                 }
             ]
         }
@@ -2535,11 +2535,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («бачу_друга_5_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («знали»):",
                     "acceptedAnswers": [
-                        "бачу_друга_5_4"
+                        "знали"
                     ],
-                    "explanation": "The target keyword was: 【бачу_друга_5_4】"
+                    "explanation": "The target keyword was: 【знали】"
                 }
             ]
         }
@@ -2621,11 +2621,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («бачу_друга_5_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («говорив»):",
                     "acceptedAnswers": [
-                        "бачу_друга_5_5"
+                        "говорив"
                     ],
-                    "explanation": "The target keyword was: 【бачу_друга_5_5】"
+                    "explanation": "The target keyword was: 【говорив】"
                 }
             ]
         }
@@ -2707,11 +2707,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («немає_часу_6_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («буду_читати»):",
                     "acceptedAnswers": [
-                        "немає_часу_6_1"
+                        "буду_читати"
                     ],
-                    "explanation": "The target keyword was: 【немає_часу_6_1】"
+                    "explanation": "The target keyword was: 【буду_читати】"
                 }
             ]
         }
@@ -2793,11 +2793,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («немає_часу_6_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («напишу»):",
                     "acceptedAnswers": [
-                        "немає_часу_6_2"
+                        "напишу"
                     ],
-                    "explanation": "The target keyword was: 【немає_часу_6_2】"
+                    "explanation": "The target keyword was: 【напишу】"
                 }
             ]
         }
@@ -2879,11 +2879,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («немає_часу_6_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («зробимо»):",
                     "acceptedAnswers": [
-                        "немає_часу_6_3"
+                        "зробимо"
                     ],
-                    "explanation": "The target keyword was: 【немає_часу_6_3】"
+                    "explanation": "The target keyword was: 【зробимо】"
                 }
             ]
         }
@@ -2965,11 +2965,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («немає_часу_6_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («прочитають»):",
                     "acceptedAnswers": [
-                        "немає_часу_6_4"
+                        "прочитають"
                     ],
-                    "explanation": "The target keyword was: 【немає_часу_6_4】"
+                    "explanation": "The target keyword was: 【прочитають】"
                 }
             ]
         }
@@ -3051,11 +3051,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («немає_часу_6_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («скаже»):",
                     "acceptedAnswers": [
-                        "немає_часу_6_5"
+                        "скаже"
                     ],
-                    "explanation": "The target keyword was: 【немає_часу_6_5】"
+                    "explanation": "The target keyword was: 【скаже】"
                 }
             ]
         }
@@ -3137,11 +3137,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («з_другом_7_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («книжці»):",
                     "acceptedAnswers": [
-                        "з_другом_7_1"
+                        "книжці"
                     ],
-                    "explanation": "The target keyword was: 【з_другом_7_1】"
+                    "explanation": "The target keyword was: 【книжці】"
                 }
             ]
         }
@@ -3223,11 +3223,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («з_другом_7_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («столі»):",
                     "acceptedAnswers": [
-                        "з_другом_7_2"
+                        "столі"
                     ],
-                    "explanation": "The target keyword was: 【з_другом_7_2】"
+                    "explanation": "The target keyword was: 【столі】"
                 }
             ]
         }
@@ -3309,11 +3309,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («з_другом_7_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («місті»):",
                     "acceptedAnswers": [
-                        "з_другом_7_3"
+                        "місті"
                     ],
-                    "explanation": "The target keyword was: 【з_другом_7_3】"
+                    "explanation": "The target keyword was: 【місті】"
                 }
             ]
         }
@@ -3395,11 +3395,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («з_другом_7_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («кімнаті»):",
                     "acceptedAnswers": [
-                        "з_другом_7_4"
+                        "кімнаті"
                     ],
-                    "explanation": "The target keyword was: 【з_другом_7_4】"
+                    "explanation": "The target keyword was: 【кімнаті】"
                 }
             ]
         }
@@ -3481,11 +3481,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («з_другом_7_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («школі»):",
                     "acceptedAnswers": [
-                        "з_другом_7_5"
+                        "школі"
                     ],
-                    "explanation": "The target keyword was: 【з_другом_7_5】"
+                    "explanation": "The target keyword was: 【школі】"
                 }
             ]
         }
@@ -3567,11 +3567,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («у_місті_8_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («книжку»):",
                     "acceptedAnswers": [
-                        "у_місті_8_1"
+                        "книжку"
                     ],
-                    "explanation": "The target keyword was: 【у_місті_8_1】"
+                    "explanation": "The target keyword was: 【книжку】"
                 }
             ]
         }
@@ -3653,11 +3653,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («у_місті_8_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («брата»):",
                     "acceptedAnswers": [
-                        "у_місті_8_2"
+                        "брата"
                     ],
-                    "explanation": "The target keyword was: 【у_місті_8_2】"
+                    "explanation": "The target keyword was: 【брата】"
                 }
             ]
         }
@@ -3739,11 +3739,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («у_місті_8_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («сестру»):",
                     "acceptedAnswers": [
-                        "у_місті_8_3"
+                        "сестру"
                     ],
-                    "explanation": "The target keyword was: 【у_місті_8_3】"
+                    "explanation": "The target keyword was: 【сестру】"
                 }
             ]
         }
@@ -3825,11 +3825,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («у_місті_8_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («друга»):",
                     "acceptedAnswers": [
-                        "у_місті_8_4"
+                        "друга"
                     ],
-                    "explanation": "The target keyword was: 【у_місті_8_4】"
+                    "explanation": "The target keyword was: 【друга】"
                 }
             ]
         }
@@ -3911,11 +3911,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («у_місті_8_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («воду»):",
                     "acceptedAnswers": [
-                        "у_місті_8_5"
+                        "воду"
                     ],
-                    "explanation": "The target keyword was: 【у_місті_8_5】"
+                    "explanation": "The target keyword was: 【воду】"
                 }
             ]
         }
@@ -3997,11 +3997,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («допомагаю_другові_9_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («ручкою»):",
                     "acceptedAnswers": [
-                        "допомагаю_другові_9_1"
+                        "ручкою"
                     ],
-                    "explanation": "The target keyword was: 【допомагаю_другові_9_1】"
+                    "explanation": "The target keyword was: 【ручкою】"
                 }
             ]
         }
@@ -4083,11 +4083,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («допомагаю_другові_9_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («олівцем»):",
                     "acceptedAnswers": [
-                        "допомагаю_другові_9_2"
+                        "олівцем"
                     ],
-                    "explanation": "The target keyword was: 【допомагаю_другові_9_2】"
+                    "explanation": "The target keyword was: 【олівцем】"
                 }
             ]
         }
@@ -4169,11 +4169,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («допомагаю_другові_9_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («другом»):",
                     "acceptedAnswers": [
-                        "допомагаю_другові_9_3"
+                        "другом"
                     ],
-                    "explanation": "The target keyword was: 【допомагаю_другові_9_3】"
+                    "explanation": "The target keyword was: 【другом】"
                 }
             ]
         }
@@ -4255,11 +4255,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («допомагаю_другові_9_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («сестрою»):",
                     "acceptedAnswers": [
-                        "допомагаю_другові_9_4"
+                        "сестрою"
                     ],
-                    "explanation": "The target keyword was: 【допомагаю_другові_9_4】"
+                    "explanation": "The target keyword was: 【сестрою】"
                 }
             ]
         }
@@ -4341,11 +4341,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («допомагаю_другові_9_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («містом»):",
                     "acceptedAnswers": [
-                        "допомагаю_другові_9_5"
+                        "містом"
                     ],
-                    "explanation": "The target keyword was: 【допомагаю_другові_9_5】"
+                    "explanation": "The target keyword was: 【містом】"
                 }
             ]
         }
@@ -4427,11 +4427,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ходив_10_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («книжкового»):",
                     "acceptedAnswers": [
-                        "ходив_10_1"
+                        "книжкового"
                     ],
-                    "explanation": "The target keyword was: 【ходив_10_1】"
+                    "explanation": "The target keyword was: 【книжкового】"
                 }
             ]
         }
@@ -4513,11 +4513,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ходив_10_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («письмового»):",
                     "acceptedAnswers": [
-                        "ходив_10_2"
+                        "письмового"
                     ],
-                    "explanation": "The target keyword was: 【ходив_10_2】"
+                    "explanation": "The target keyword was: 【письмового】"
                 }
             ]
         }
@@ -4599,11 +4599,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ходив_10_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («міського»):",
                     "acceptedAnswers": [
-                        "ходив_10_3"
+                        "міського"
                     ],
-                    "explanation": "The target keyword was: 【ходив_10_3】"
+                    "explanation": "The target keyword was: 【міського】"
                 }
             ]
         }
@@ -4685,11 +4685,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ходив_10_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («товариша»):",
                     "acceptedAnswers": [
-                        "ходив_10_4"
+                        "товариша"
                     ],
-                    "explanation": "The target keyword was: 【ходив_10_4】"
+                    "explanation": "The target keyword was: 【товариша】"
                 }
             ]
         }
@@ -4771,11 +4771,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ходив_10_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («джерела»):",
                     "acceptedAnswers": [
-                        "ходив_10_5"
+                        "джерела"
                     ],
-                    "explanation": "The target keyword was: 【ходив_10_5】"
+                    "explanation": "The target keyword was: 【джерела】"
                 }
             ]
         }
@@ -4857,11 +4857,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («буду_читати_11_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («друже»):",
                     "acceptedAnswers": [
-                        "буду_читати_11_1"
+                        "друже"
                     ],
-                    "explanation": "The target keyword was: 【буду_читати_11_1】"
+                    "explanation": "The target keyword was: 【друже】"
                 }
             ]
         }
@@ -4943,11 +4943,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («буду_читати_11_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («сестро»):",
                     "acceptedAnswers": [
-                        "буду_читати_11_2"
+                        "сестро"
                     ],
-                    "explanation": "The target keyword was: 【буду_читати_11_2】"
+                    "explanation": "The target keyword was: 【сестро】"
                 }
             ]
         }
@@ -5029,11 +5029,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («буду_читати_11_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («мамо»):",
                     "acceptedAnswers": [
-                        "буду_читати_11_3"
+                        "мамо"
                     ],
-                    "explanation": "The target keyword was: 【буду_читати_11_3】"
+                    "explanation": "The target keyword was: 【мамо】"
                 }
             ]
         }
@@ -5115,11 +5115,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («буду_читати_11_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («пане»):",
                     "acceptedAnswers": [
-                        "буду_читати_11_4"
+                        "пане"
                     ],
-                    "explanation": "The target keyword was: 【буду_читати_11_4】"
+                    "explanation": "The target keyword was: 【пане】"
                 }
             ]
         }
@@ -5201,11 +5201,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («буду_читати_11_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («пані»):",
                     "acceptedAnswers": [
-                        "буду_читати_11_5"
+                        "пані"
                     ],
-                    "explanation": "The target keyword was: 【буду_читати_11_5】"
+                    "explanation": "The target keyword was: 【пані】"
                 }
             ]
         }
@@ -5287,11 +5287,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («писати_написати_12_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («читай»):",
                     "acceptedAnswers": [
-                        "писати_написати_12_1"
+                        "читай"
                     ],
-                    "explanation": "The target keyword was: 【писати_написати_12_1】"
+                    "explanation": "The target keyword was: 【читай】"
                 }
             ]
         }
@@ -5373,11 +5373,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («писати_написати_12_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («пишіть»):",
                     "acceptedAnswers": [
-                        "писати_написати_12_2"
+                        "пишіть"
                     ],
-                    "explanation": "The target keyword was: 【писати_написати_12_2】"
+                    "explanation": "The target keyword was: 【пишіть】"
                 }
             ]
         }
@@ -5459,11 +5459,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («писати_написати_12_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («робіть»):",
                     "acceptedAnswers": [
-                        "писати_написати_12_3"
+                        "робіть"
                     ],
-                    "explanation": "The target keyword was: 【писати_написати_12_3】"
+                    "explanation": "The target keyword was: 【робіть】"
                 }
             ]
         }
@@ -5545,11 +5545,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («писати_написати_12_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («давайте»):",
                     "acceptedAnswers": [
-                        "писати_написати_12_4"
+                        "давайте"
                     ],
-                    "explanation": "The target keyword was: 【писати_написати_12_4】"
+                    "explanation": "The target keyword was: 【давайте】"
                 }
             ]
         }
@@ -5631,11 +5631,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («писати_написати_12_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («будьмо»):",
                     "acceptedAnswers": [
-                        "писати_написати_12_5"
+                        "будьмо"
                     ],
-                    "explanation": "The target keyword was: 【писати_написати_12_5】"
+                    "explanation": "The target keyword was: 【будьмо】"
                 }
             ]
         }
@@ -5717,11 +5717,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («йти_ходити_13_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («якби»):",
                     "acceptedAnswers": [
-                        "йти_ходити_13_1"
+                        "якби"
                     ],
-                    "explanation": "The target keyword was: 【йти_ходити_13_1】"
+                    "explanation": "The target keyword was: 【якби】"
                 }
             ]
         }
@@ -5803,11 +5803,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («йти_ходити_13_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («хотів_би»):",
                     "acceptedAnswers": [
-                        "йти_ходити_13_2"
+                        "хотів_би"
                     ],
-                    "explanation": "The target keyword was: 【йти_ходити_13_2】"
+                    "explanation": "The target keyword was: 【хотів_би】"
                 }
             ]
         }
@@ -5889,11 +5889,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («йти_ходити_13_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («зробив_би»):",
                     "acceptedAnswers": [
-                        "йти_ходити_13_3"
+                        "зробив_би"
                     ],
-                    "explanation": "The target keyword was: 【йти_ходити_13_3】"
+                    "explanation": "The target keyword was: 【зробив_би】"
                 }
             ]
         }
@@ -5975,11 +5975,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («йти_ходити_13_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («могла_б»):",
                     "acceptedAnswers": [
-                        "йти_ходити_13_4"
+                        "могла_б"
                     ],
-                    "explanation": "The target keyword was: 【йти_ходити_13_4】"
+                    "explanation": "The target keyword was: 【могла_б】"
                 }
             ]
         }
@@ -6061,11 +6061,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («йти_ходити_13_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («було_б»):",
                     "acceptedAnswers": [
-                        "йти_ходити_13_5"
+                        "було_б"
                     ],
-                    "explanation": "The target keyword was: 【йти_ходити_13_5】"
+                    "explanation": "The target keyword was: 【було_б】"
                 }
             ]
         }
@@ -6147,11 +6147,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («гарний_14_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («прочитавши»):",
                     "acceptedAnswers": [
-                        "гарний_14_1"
+                        "прочитавши"
                     ],
-                    "explanation": "The target keyword was: 【гарний_14_1】"
+                    "explanation": "The target keyword was: 【прочитавши】"
                 }
             ]
         }
@@ -6233,11 +6233,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («гарний_14_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («написавши»):",
                     "acceptedAnswers": [
-                        "гарний_14_2"
+                        "написавши"
                     ],
-                    "explanation": "The target keyword was: 【гарний_14_2】"
+                    "explanation": "The target keyword was: 【написавши】"
                 }
             ]
         }
@@ -6319,11 +6319,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («гарний_14_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («зробивши»):",
                     "acceptedAnswers": [
-                        "гарний_14_3"
+                        "зробивши"
                     ],
-                    "explanation": "The target keyword was: 【гарний_14_3】"
+                    "explanation": "The target keyword was: 【зробивши】"
                 }
             ]
         }
@@ -6405,11 +6405,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («гарний_14_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («побачивши»):",
                     "acceptedAnswers": [
-                        "гарний_14_4"
+                        "побачивши"
                     ],
-                    "explanation": "The target keyword was: 【гарний_14_4】"
+                    "explanation": "The target keyword was: 【побачивши】"
                 }
             ]
         }
@@ -6491,11 +6491,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («гарний_14_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («сказавши»):",
                     "acceptedAnswers": [
-                        "гарний_14_5"
+                        "сказавши"
                     ],
-                    "explanation": "The target keyword was: 【гарний_14_5】"
+                    "explanation": "The target keyword was: 【сказавши】"
                 }
             ]
         }
@@ -6577,11 +6577,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («кращий_15_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («читаючи»):",
                     "acceptedAnswers": [
-                        "кращий_15_1"
+                        "читаючи"
                     ],
-                    "explanation": "The target keyword was: 【кращий_15_1】"
+                    "explanation": "The target keyword was: 【читаючи】"
                 }
             ]
         }
@@ -6663,11 +6663,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («кращий_15_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («пишучи»):",
                     "acceptedAnswers": [
-                        "кращий_15_2"
+                        "пишучи"
                     ],
-                    "explanation": "The target keyword was: 【кращий_15_2】"
+                    "explanation": "The target keyword was: 【пишучи】"
                 }
             ]
         }
@@ -6749,11 +6749,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («кращий_15_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («роблячи»):",
                     "acceptedAnswers": [
-                        "кращий_15_3"
+                        "роблячи"
                     ],
-                    "explanation": "The target keyword was: 【кращий_15_3】"
+                    "explanation": "The target keyword was: 【роблячи】"
                 }
             ]
         }
@@ -6835,11 +6835,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («кращий_15_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («знаючи»):",
                     "acceptedAnswers": [
-                        "кращий_15_4"
+                        "знаючи"
                     ],
-                    "explanation": "The target keyword was: 【кращий_15_4】"
+                    "explanation": "The target keyword was: 【знаючи】"
                 }
             ]
         }
@@ -6921,11 +6921,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («кращий_15_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («говорячи»):",
                     "acceptedAnswers": [
-                        "кращий_15_5"
+                        "говорячи"
                     ],
-                    "explanation": "The target keyword was: 【кращий_15_5】"
+                    "explanation": "The target keyword was: 【говорячи】"
                 }
             ]
         }
@@ -7007,11 +7007,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («вмиватися_16_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («написаний»):",
                     "acceptedAnswers": [
-                        "вмиватися_16_1"
+                        "написаний"
                     ],
-                    "explanation": "The target keyword was: 【вмиватися_16_1】"
+                    "explanation": "The target keyword was: 【написаний】"
                 }
             ]
         }
@@ -7093,11 +7093,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («вмиватися_16_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («зроблений»):",
                     "acceptedAnswers": [
-                        "вмиватися_16_2"
+                        "зроблений"
                     ],
-                    "explanation": "The target keyword was: 【вмиватися_16_2】"
+                    "explanation": "The target keyword was: 【зроблений】"
                 }
             ]
         }
@@ -7179,11 +7179,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («вмиватися_16_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («прочитаний»):",
                     "acceptedAnswers": [
-                        "вмиватися_16_3"
+                        "прочитаний"
                     ],
-                    "explanation": "The target keyword was: 【вмиватися_16_3】"
+                    "explanation": "The target keyword was: 【прочитаний】"
                 }
             ]
         }
@@ -7265,11 +7265,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («вмиватися_16_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («відкритий»):",
                     "acceptedAnswers": [
-                        "вмиватися_16_4"
+                        "відкритий"
                     ],
-                    "explanation": "The target keyword was: 【вмиватися_16_4】"
+                    "explanation": "The target keyword was: 【відкритий】"
                 }
             ]
         }
@@ -7351,11 +7351,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («вмиватися_16_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («закритий»):",
                     "acceptedAnswers": [
-                        "вмиватися_16_5"
+                        "закритий"
                     ],
-                    "explanation": "The target keyword was: 【вмиватися_16_5】"
+                    "explanation": "The target keyword was: 【закритий】"
                 }
             ]
         }
@@ -7437,11 +7437,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («якби_знав_17_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («який»):",
                     "acceptedAnswers": [
-                        "якби_знав_17_1"
+                        "який"
                     ],
-                    "explanation": "The target keyword was: 【якби_знав_17_1】"
+                    "explanation": "The target keyword was: 【який】"
                 }
             ]
         }
@@ -7523,11 +7523,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («якби_знав_17_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («яка»):",
                     "acceptedAnswers": [
-                        "якби_знав_17_2"
+                        "яка"
                     ],
-                    "explanation": "The target keyword was: 【якби_знав_17_2】"
+                    "explanation": "The target keyword was: 【яка】"
                 }
             ]
         }
@@ -7609,11 +7609,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («якби_знав_17_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («яке»):",
                     "acceptedAnswers": [
-                        "якби_знав_17_3"
+                        "яке"
                     ],
-                    "explanation": "The target keyword was: 【якби_знав_17_3】"
+                    "explanation": "The target keyword was: 【яке】"
                 }
             ]
         }
@@ -7695,11 +7695,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («якби_знав_17_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («які»):",
                     "acceptedAnswers": [
-                        "якби_знав_17_4"
+                        "які"
                     ],
-                    "explanation": "The target keyword was: 【якби_знав_17_4】"
+                    "explanation": "The target keyword was: 【які】"
                 }
             ]
         }
@@ -7781,11 +7781,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («якби_знав_17_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («чий»):",
                     "acceptedAnswers": [
-                        "якби_знав_17_5"
+                        "чий"
                     ],
-                    "explanation": "The target keyword was: 【якби_знав_17_5】"
+                    "explanation": "The target keyword was: 【чий】"
                 }
             ]
         }
@@ -7867,11 +7867,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («читайте_18_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («тому_що»):",
                     "acceptedAnswers": [
-                        "читайте_18_1"
+                        "тому_що"
                     ],
-                    "explanation": "The target keyword was: 【читайте_18_1】"
+                    "explanation": "The target keyword was: 【тому_що】"
                 }
             ]
         }
@@ -7953,11 +7953,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («читайте_18_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («якщо»):",
                     "acceptedAnswers": [
-                        "читайте_18_2"
+                        "якщо"
                     ],
-                    "explanation": "The target keyword was: 【читайте_18_2】"
+                    "explanation": "The target keyword was: 【якщо】"
                 }
             ]
         }
@@ -8039,11 +8039,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («читайте_18_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («хоча»):",
                     "acceptedAnswers": [
-                        "читайте_18_3"
+                        "хоча"
                     ],
-                    "explanation": "The target keyword was: 【читайте_18_3】"
+                    "explanation": "The target keyword was: 【хоча】"
                 }
             ]
         }
@@ -8125,11 +8125,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («читайте_18_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («щоб»):",
                     "acceptedAnswers": [
-                        "читайте_18_4"
+                        "щоб"
                     ],
-                    "explanation": "The target keyword was: 【читайте_18_4】"
+                    "explanation": "The target keyword was: 【щоб】"
                 }
             ]
         }
@@ -8211,11 +8211,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («читайте_18_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («через_те_що»):",
                     "acceptedAnswers": [
-                        "читайте_18_5"
+                        "через_те_що"
                     ],
-                    "explanation": "The target keyword was: 【читайте_18_5】"
+                    "explanation": "The target keyword was: 【через_те_що】"
                 }
             ]
         }
@@ -8297,11 +8297,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («прочитавши_19_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («більший»):",
                     "acceptedAnswers": [
-                        "прочитавши_19_1"
+                        "більший"
                     ],
-                    "explanation": "The target keyword was: 【прочитавши_19_1】"
+                    "explanation": "The target keyword was: 【більший】"
                 }
             ]
         }
@@ -8383,11 +8383,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («прочитавши_19_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («кращий»):",
                     "acceptedAnswers": [
-                        "прочитавши_19_2"
+                        "кращий"
                     ],
-                    "explanation": "The target keyword was: 【прочитавши_19_2】"
+                    "explanation": "The target keyword was: 【кращий】"
                 }
             ]
         }
@@ -8469,11 +8469,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («прочитавши_19_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («найкращий»):",
                     "acceptedAnswers": [
-                        "прочитавши_19_3"
+                        "найкращий"
                     ],
-                    "explanation": "The target keyword was: 【прочитавши_19_3】"
+                    "explanation": "The target keyword was: 【найкращий】"
                 }
             ]
         }
@@ -8555,11 +8555,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («прочитавши_19_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («найважливіший»):",
                     "acceptedAnswers": [
-                        "прочитавши_19_4"
+                        "найважливіший"
                     ],
-                    "explanation": "The target keyword was: 【прочитавши_19_4】"
+                    "explanation": "The target keyword was: 【найважливіший】"
                 }
             ]
         }
@@ -8641,11 +8641,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («прочитавши_19_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («швидший»):",
                     "acceptedAnswers": [
-                        "прочитавши_19_5"
+                        "швидший"
                     ],
-                    "explanation": "The target keyword was: 【прочитавши_19_5】"
+                    "explanation": "The target keyword was: 【швидший】"
                 }
             ]
         }
@@ -8727,11 +8727,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («тому_що_20_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («компанія»):",
                     "acceptedAnswers": [
-                        "тому_що_20_1"
+                        "компанія"
                     ],
-                    "explanation": "The target keyword was: 【тому_що_20_1】"
+                    "explanation": "The target keyword was: 【компанія】"
                 }
             ]
         }
@@ -8813,11 +8813,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («тому_що_20_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («зустріч»):",
                     "acceptedAnswers": [
-                        "тому_що_20_2"
+                        "зустріч"
                     ],
-                    "explanation": "The target keyword was: 【тому_що_20_2】"
+                    "explanation": "The target keyword was: 【зустріч】"
                 }
             ]
         }
@@ -8899,11 +8899,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («тому_що_20_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («проєкт»):",
                     "acceptedAnswers": [
-                        "тому_що_20_3"
+                        "проєкт"
                     ],
-                    "explanation": "The target keyword was: 【тому_що_20_3】"
+                    "explanation": "The target keyword was: 【проєкт】"
                 }
             ]
         }
@@ -8985,11 +8985,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («тому_що_20_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («договір»):",
                     "acceptedAnswers": [
-                        "тому_що_20_4"
+                        "договір"
                     ],
-                    "explanation": "The target keyword was: 【тому_що_20_4】"
+                    "explanation": "The target keyword was: 【договір】"
                 }
             ]
         }
@@ -9071,11 +9071,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («тому_що_20_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («звіт»):",
                     "acceptedAnswers": [
-                        "тому_що_20_5"
+                        "звіт"
                     ],
-                    "explanation": "The target keyword was: 【тому_що_20_5】"
+                    "explanation": "The target keyword was: 【звіт】"
                 }
             ]
         }
@@ -9157,11 +9157,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («хоча_21_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («лікарня»):",
                     "acceptedAnswers": [
-                        "хоча_21_1"
+                        "лікарня"
                     ],
-                    "explanation": "The target keyword was: 【хоча_21_1】"
+                    "explanation": "The target keyword was: 【лікарня】"
                 }
             ]
         }
@@ -9243,11 +9243,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («хоча_21_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («лікар»):",
                     "acceptedAnswers": [
-                        "хоча_21_2"
+                        "лікар"
                     ],
-                    "explanation": "The target keyword was: 【хоча_21_2】"
+                    "explanation": "The target keyword was: 【лікар】"
                 }
             ]
         }
@@ -9329,11 +9329,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («хоча_21_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («ліки»):",
                     "acceptedAnswers": [
-                        "хоча_21_3"
+                        "ліки"
                     ],
-                    "explanation": "The target keyword was: 【хоча_21_3】"
+                    "explanation": "The target keyword was: 【ліки】"
                 }
             ]
         }
@@ -9415,11 +9415,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («хоча_21_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («здоров'я»):",
                     "acceptedAnswers": [
-                        "хоча_21_4"
+                        "здоров'я"
                     ],
-                    "explanation": "The target keyword was: 【хоча_21_4】"
+                    "explanation": "The target keyword was: 【здоров'я】"
                 }
             ]
         }
@@ -9501,11 +9501,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («хоча_21_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («лікування»):",
                     "acceptedAnswers": [
-                        "хоча_21_5"
+                        "лікування"
                     ],
-                    "explanation": "The target keyword was: 【хоча_21_5】"
+                    "explanation": "The target keyword was: 【лікування】"
                 }
             ]
         }
@@ -9587,11 +9587,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («сказав_що_22_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («борщ»):",
                     "acceptedAnswers": [
-                        "сказав_що_22_1"
+                        "борщ"
                     ],
-                    "explanation": "The target keyword was: 【сказав_що_22_1】"
+                    "explanation": "The target keyword was: 【борщ】"
                 }
             ]
         }
@@ -9673,11 +9673,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («сказав_що_22_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («вареники»):",
                     "acceptedAnswers": [
-                        "сказав_що_22_2"
+                        "вареники"
                     ],
-                    "explanation": "The target keyword was: 【сказав_що_22_2】"
+                    "explanation": "The target keyword was: 【вареники】"
                 }
             ]
         }
@@ -9759,11 +9759,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («сказав_що_22_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («кулінарія»):",
                     "acceptedAnswers": [
-                        "сказав_що_22_3"
+                        "кулінарія"
                     ],
-                    "explanation": "The target keyword was: 【сказав_що_22_3】"
+                    "explanation": "The target keyword was: 【кулінарія】"
                 }
             ]
         }
@@ -9845,11 +9845,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («сказав_що_22_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («гостинність»):",
                     "acceptedAnswers": [
-                        "сказав_що_22_4"
+                        "гостинність"
                     ],
-                    "explanation": "The target keyword was: 【сказав_що_22_4】"
+                    "explanation": "The target keyword was: 【гостинність】"
                 }
             ]
         }
@@ -9931,11 +9931,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («сказав_що_22_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («трапеза»):",
                     "acceptedAnswers": [
-                        "сказав_що_22_5"
+                        "трапеза"
                     ],
-                    "explanation": "The target keyword was: 【сказав_що_22_5】"
+                    "explanation": "The target keyword was: 【трапеза】"
                 }
             ]
         }
@@ -10017,11 +10017,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («договір_23_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («театр»):",
                     "acceptedAnswers": [
-                        "договір_23_1"
+                        "театр"
                     ],
-                    "explanation": "The target keyword was: 【договір_23_1】"
+                    "explanation": "The target keyword was: 【театр】"
                 }
             ]
         }
@@ -10103,11 +10103,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («договір_23_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («музика»):",
                     "acceptedAnswers": [
-                        "договір_23_2"
+                        "музика"
                     ],
-                    "explanation": "The target keyword was: 【договір_23_2】"
+                    "explanation": "The target keyword was: 【музика】"
                 }
             ]
         }
@@ -10189,11 +10189,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («договір_23_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («живопис»):",
                     "acceptedAnswers": [
-                        "договір_23_3"
+                        "живопис"
                     ],
-                    "explanation": "The target keyword was: 【договір_23_3】"
+                    "explanation": "The target keyword was: 【живопис】"
                 }
             ]
         }
@@ -10275,11 +10275,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («договір_23_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («кіно»):",
                     "acceptedAnswers": [
-                        "договір_23_4"
+                        "кіно"
                     ],
-                    "explanation": "The target keyword was: 【договір_23_4】"
+                    "explanation": "The target keyword was: 【кіно】"
                 }
             ]
         }
@@ -10361,11 +10361,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («договір_23_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («мистецтво»):",
                     "acceptedAnswers": [
-                        "договір_23_5"
+                        "мистецтво"
                     ],
-                    "explanation": "The target keyword was: 【договір_23_5】"
+                    "explanation": "The target keyword was: 【мистецтво】"
                 }
             ]
         }
@@ -10447,11 +10447,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («лікар_24_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («банк»):",
                     "acceptedAnswers": [
-                        "лікар_24_1"
+                        "банк"
                     ],
-                    "explanation": "The target keyword was: 【лікар_24_1】"
+                    "explanation": "The target keyword was: 【банк】"
                 }
             ]
         }
@@ -10533,11 +10533,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («лікар_24_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («рахунок»):",
                     "acceptedAnswers": [
-                        "лікар_24_2"
+                        "рахунок"
                     ],
-                    "explanation": "The target keyword was: 【лікар_24_2】"
+                    "explanation": "The target keyword was: 【рахунок】"
                 }
             ]
         }
@@ -10619,11 +10619,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («лікар_24_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («кредит»):",
                     "acceptedAnswers": [
-                        "лікар_24_3"
+                        "кредит"
                     ],
-                    "explanation": "The target keyword was: 【лікар_24_3】"
+                    "explanation": "The target keyword was: 【кредит】"
                 }
             ]
         }
@@ -10705,11 +10705,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («лікар_24_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («інвестиції»):",
                     "acceptedAnswers": [
-                        "лікар_24_4"
+                        "інвестиції"
                     ],
-                    "explanation": "The target keyword was: 【лікар_24_4】"
+                    "explanation": "The target keyword was: 【інвестиції】"
                 }
             ]
         }
@@ -10791,11 +10791,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («лікар_24_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («фінанси»):",
                     "acceptedAnswers": [
-                        "лікар_24_5"
+                        "фінанси"
                     ],
-                    "explanation": "The target keyword was: 【лікар_24_5】"
+                    "explanation": "The target keyword was: 【фінанси】"
                 }
             ]
         }
@@ -10877,11 +10877,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («закон_25_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («довкілля»):",
                     "acceptedAnswers": [
-                        "закон_25_1"
+                        "довкілля"
                     ],
-                    "explanation": "The target keyword was: 【закон_25_1】"
+                    "explanation": "The target keyword was: 【довкілля】"
                 }
             ]
         }
@@ -10963,11 +10963,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («закон_25_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («екологія»):",
                     "acceptedAnswers": [
-                        "закон_25_2"
+                        "екологія"
                     ],
-                    "explanation": "The target keyword was: 【закон_25_2】"
+                    "explanation": "The target keyword was: 【екологія】"
                 }
             ]
         }
@@ -11049,11 +11049,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («закон_25_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («клімат»):",
                     "acceptedAnswers": [
-                        "закон_25_3"
+                        "клімат"
                     ],
-                    "explanation": "The target keyword was: 【закон_25_3】"
+                    "explanation": "The target keyword was: 【клімат】"
                 }
             ]
         }
@@ -11135,11 +11135,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («закон_25_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («природа»):",
                     "acceptedAnswers": [
-                        "закон_25_4"
+                        "природа"
                     ],
-                    "explanation": "The target keyword was: 【закон_25_4】"
+                    "explanation": "The target keyword was: 【природа】"
                 }
             ]
         }
@@ -11221,11 +11221,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («закон_25_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («захист»):",
                     "acceptedAnswers": [
-                        "закон_25_5"
+                        "захист"
                     ],
-                    "explanation": "The target keyword was: 【закон_25_5】"
+                    "explanation": "The target keyword was: 【захист】"
                 }
             ]
         }
@@ -11307,11 +11307,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («банк_26_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («конституція»):",
                     "acceptedAnswers": [
-                        "банк_26_1"
+                        "конституція"
                     ],
-                    "explanation": "The target keyword was: 【банк_26_1】"
+                    "explanation": "The target keyword was: 【конституція】"
                 }
             ]
         }
@@ -11393,11 +11393,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («банк_26_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («суд»):",
                     "acceptedAnswers": [
-                        "банк_26_2"
+                        "суд"
                     ],
-                    "explanation": "The target keyword was: 【банк_26_2】"
+                    "explanation": "The target keyword was: 【суд】"
                 }
             ]
         }
@@ -11479,11 +11479,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («банк_26_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («закон»):",
                     "acceptedAnswers": [
-                        "банк_26_3"
+                        "закон"
                     ],
-                    "explanation": "The target keyword was: 【банк_26_3】"
+                    "explanation": "The target keyword was: 【закон】"
                 }
             ]
         }
@@ -11565,11 +11565,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («банк_26_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («право»):",
                     "acceptedAnswers": [
-                        "банк_26_4"
+                        "право"
                     ],
-                    "explanation": "The target keyword was: 【банк_26_4】"
+                    "explanation": "The target keyword was: 【право】"
                 }
             ]
         }
@@ -11651,11 +11651,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («банк_26_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («справедливість»):",
                     "acceptedAnswers": [
-                        "банк_26_5"
+                        "справедливість"
                     ],
-                    "explanation": "The target keyword was: 【банк_26_5】"
+                    "explanation": "The target keyword was: 【справедливість】"
                 }
             ]
         }
@@ -11737,11 +11737,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («поезія_27_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («література»):",
                     "acceptedAnswers": [
-                        "поезія_27_1"
+                        "література"
                     ],
-                    "explanation": "The target keyword was: 【поезія_27_1】"
+                    "explanation": "The target keyword was: 【література】"
                 }
             ]
         }
@@ -11823,11 +11823,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («поезія_27_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («поезія»):",
                     "acceptedAnswers": [
-                        "поезія_27_2"
+                        "поезія"
                     ],
-                    "explanation": "The target keyword was: 【поезія_27_2】"
+                    "explanation": "The target keyword was: 【поезія】"
                 }
             ]
         }
@@ -11909,11 +11909,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («поезія_27_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («роман»):",
                     "acceptedAnswers": [
-                        "поезія_27_3"
+                        "роман"
                     ],
-                    "explanation": "The target keyword was: 【поезія_27_3】"
+                    "explanation": "The target keyword was: 【роман】"
                 }
             ]
         }
@@ -11995,11 +11995,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («поезія_27_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («поет»):",
                     "acceptedAnswers": [
-                        "поезія_27_4"
+                        "поет"
                     ],
-                    "explanation": "The target keyword was: 【поезія_27_4】"
+                    "explanation": "The target keyword was: 【поет】"
                 }
             ]
         }
@@ -12081,11 +12081,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («поезія_27_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («класика»):",
                     "acceptedAnswers": [
-                        "поезія_27_5"
+                        "класика"
                     ],
-                    "explanation": "The target keyword was: 【поезія_27_5】"
+                    "explanation": "The target keyword was: 【класика】"
                 }
             ]
         }
@@ -12167,11 +12167,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («довкілля_28_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («новини»):",
                     "acceptedAnswers": [
-                        "довкілля_28_1"
+                        "новини"
                     ],
-                    "explanation": "The target keyword was: 【довкілля_28_1】"
+                    "explanation": "The target keyword was: 【новини】"
                 }
             ]
         }
@@ -12253,11 +12253,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («довкілля_28_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («журналістика»):",
                     "acceptedAnswers": [
-                        "довкілля_28_2"
+                        "журналістика"
                     ],
-                    "explanation": "The target keyword was: 【довкілля_28_2】"
+                    "explanation": "The target keyword was: 【журналістика】"
                 }
             ]
         }
@@ -12339,11 +12339,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («довкілля_28_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («редактор»):",
                     "acceptedAnswers": [
-                        "довкілля_28_3"
+                        "редактор"
                     ],
-                    "explanation": "The target keyword was: 【довкілля_28_3】"
+                    "explanation": "The target keyword was: 【редактор】"
                 }
             ]
         }
@@ -12425,11 +12425,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («довкілля_28_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («медіа»):",
                     "acceptedAnswers": [
-                        "довкілля_28_4"
+                        "медіа"
                     ],
-                    "explanation": "The target keyword was: 【довкілля_28_4】"
+                    "explanation": "The target keyword was: 【медіа】"
                 }
             ]
         }
@@ -12511,11 +12511,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («довкілля_28_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («публікація»):",
                     "acceptedAnswers": [
-                        "довкілля_28_5"
+                        "публікація"
                     ],
-                    "explanation": "The target keyword was: 【довкілля_28_5】"
+                    "explanation": "The target keyword was: 【публікація】"
                 }
             ]
         }
@@ -12597,11 +12597,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («парламент_29_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («філософія»):",
                     "acceptedAnswers": [
-                        "парламент_29_1"
+                        "філософія"
                     ],
-                    "explanation": "The target keyword was: 【парламент_29_1】"
+                    "explanation": "The target keyword was: 【філософія】"
                 }
             ]
         }
@@ -12683,11 +12683,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («парламент_29_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («етика»):",
                     "acceptedAnswers": [
-                        "парламент_29_2"
+                        "етика"
                     ],
-                    "explanation": "The target keyword was: 【парламент_29_2】"
+                    "explanation": "The target keyword was: 【етика】"
                 }
             ]
         }
@@ -12769,11 +12769,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («парламент_29_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («мораль»):",
                     "acceptedAnswers": [
-                        "парламент_29_3"
+                        "мораль"
                     ],
-                    "explanation": "The target keyword was: 【парламент_29_3】"
+                    "explanation": "The target keyword was: 【мораль】"
                 }
             ]
         }
@@ -12855,11 +12855,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («парламент_29_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («свідомість»):",
                     "acceptedAnswers": [
-                        "парламент_29_4"
+                        "свідомість"
                     ],
-                    "explanation": "The target keyword was: 【парламент_29_4】"
+                    "explanation": "The target keyword was: 【свідомість】"
                 }
             ]
         }
@@ -12941,11 +12941,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («парламент_29_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («істина»):",
                     "acceptedAnswers": [
-                        "парламент_29_5"
+                        "істина"
                     ],
-                    "explanation": "The target keyword was: 【парламент_29_5】"
+                    "explanation": "The target keyword was: 【істина】"
                 }
             ]
         }
@@ -13027,11 +13027,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («філософія_30_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («наука»):",
                     "acceptedAnswers": [
-                        "філософія_30_1"
+                        "наука"
                     ],
-                    "explanation": "The target keyword was: 【філософія_30_1】"
+                    "explanation": "The target keyword was: 【наука】"
                 }
             ]
         }
@@ -13113,11 +13113,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («філософія_30_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («технології»):",
                     "acceptedAnswers": [
-                        "філософія_30_2"
+                        "технології"
                     ],
-                    "explanation": "The target keyword was: 【філософія_30_2】"
+                    "explanation": "The target keyword was: 【технології】"
                 }
             ]
         }
@@ -13199,11 +13199,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («філософія_30_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («дослідження»):",
                     "acceptedAnswers": [
-                        "філософія_30_3"
+                        "дослідження"
                     ],
-                    "explanation": "The target keyword was: 【філософія_30_3】"
+                    "explanation": "The target keyword was: 【дослідження】"
                 }
             ]
         }
@@ -13285,11 +13285,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («філософія_30_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («відкриття»):",
                     "acceptedAnswers": [
-                        "філософія_30_4"
+                        "відкриття"
                     ],
-                    "explanation": "The target keyword was: 【філософія_30_4】"
+                    "explanation": "The target keyword was: 【відкриття】"
                 }
             ]
         }
@@ -13371,11 +13371,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («філософія_30_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («інновації»):",
                     "acceptedAnswers": [
-                        "філософія_30_5"
+                        "інновації"
                     ],
-                    "explanation": "The target keyword was: 【філософія_30_5】"
+                    "explanation": "The target keyword was: 【інновації】"
                 }
             ]
         }
@@ -13457,11 +13457,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («дослідження_31_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («геополітика»):",
                     "acceptedAnswers": [
-                        "дослідження_31_1"
+                        "геополітика"
                     ],
-                    "explanation": "The target keyword was: 【дослідження_31_1】"
+                    "explanation": "The target keyword was: 【геополітика】"
                 }
             ]
         }
@@ -13543,11 +13543,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («дослідження_31_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («дипломатія»):",
                     "acceptedAnswers": [
-                        "дослідження_31_2"
+                        "дипломатія"
                     ],
-                    "explanation": "The target keyword was: 【дослідження_31_2】"
+                    "explanation": "The target keyword was: 【дипломатія】"
                 }
             ]
         }
@@ -13629,11 +13629,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («дослідження_31_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («безпека»):",
                     "acceptedAnswers": [
-                        "дослідження_31_3"
+                        "безпека"
                     ],
-                    "explanation": "The target keyword was: 【дослідження_31_3】"
+                    "explanation": "The target keyword was: 【безпека】"
                 }
             ]
         }
@@ -13715,11 +13715,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («дослідження_31_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («партнерство»):",
                     "acceptedAnswers": [
-                        "дослідження_31_4"
+                        "партнерство"
                     ],
-                    "explanation": "The target keyword was: 【дослідження_31_4】"
+                    "explanation": "The target keyword was: 【партнерство】"
                 }
             ]
         }
@@ -13801,11 +13801,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («дослідження_31_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («суверенітет»):",
                     "acceptedAnswers": [
-                        "дослідження_31_5"
+                        "суверенітет"
                     ],
-                    "explanation": "The target keyword was: 【дослідження_31_5】"
+                    "explanation": "The target keyword was: 【суверенітет】"
                 }
             ]
         }
@@ -13887,11 +13887,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («дипломатія_32_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («посол»):",
                     "acceptedAnswers": [
-                        "дипломатія_32_1"
+                        "посол"
                     ],
-                    "explanation": "The target keyword was: 【дипломатія_32_1】"
+                    "explanation": "The target keyword was: 【посол】"
                 }
             ]
         }
@@ -13973,11 +13973,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («дипломатія_32_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («посольство»):",
                     "acceptedAnswers": [
-                        "дипломатія_32_2"
+                        "посольство"
                     ],
-                    "explanation": "The target keyword was: 【дипломатія_32_2】"
+                    "explanation": "The target keyword was: 【посольство】"
                 }
             ]
         }
@@ -14059,11 +14059,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («дипломатія_32_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («переговори»):",
                     "acceptedAnswers": [
-                        "дипломатія_32_3"
+                        "переговори"
                     ],
-                    "explanation": "The target keyword was: 【дипломатія_32_3】"
+                    "explanation": "The target keyword was: 【переговори】"
                 }
             ]
         }
@@ -14145,11 +14145,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («дипломатія_32_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («угода»):",
                     "acceptedAnswers": [
-                        "дипломатія_32_4"
+                        "угода"
                     ],
-                    "explanation": "The target keyword was: 【дипломатія_32_4】"
+                    "explanation": "The target keyword was: 【угода】"
                 }
             ]
         }
@@ -14231,11 +14231,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («дипломатія_32_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («декларація»):",
                     "acceptedAnswers": [
-                        "дипломатія_32_5"
+                        "декларація"
                     ],
-                    "explanation": "The target keyword was: 【дипломатія_32_5】"
+                    "explanation": "The target keyword was: 【декларація】"
                 }
             ]
         }
@@ -14317,11 +14317,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («промова_33_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («фразеологізм»):",
                     "acceptedAnswers": [
-                        "промова_33_1"
+                        "фразеологізм"
                     ],
-                    "explanation": "The target keyword was: 【промова_33_1】"
+                    "explanation": "The target keyword was: 【фразеологізм】"
                 }
             ]
         }
@@ -14403,11 +14403,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («промова_33_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («прислів'я»):",
                     "acceptedAnswers": [
-                        "промова_33_2"
+                        "прислів'я"
                     ],
-                    "explanation": "The target keyword was: 【промова_33_2】"
+                    "explanation": "The target keyword was: 【прислів'я】"
                 }
             ]
         }
@@ -14489,11 +14489,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («промова_33_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («метафора»):",
                     "acceptedAnswers": [
-                        "промова_33_3"
+                        "метафора"
                     ],
-                    "explanation": "The target keyword was: 【промова_33_3】"
+                    "explanation": "The target keyword was: 【метафора】"
                 }
             ]
         }
@@ -14575,11 +14575,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («промова_33_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («значення»):",
                     "acceptedAnswers": [
-                        "промова_33_4"
+                        "значення"
                     ],
-                    "explanation": "The target keyword was: 【промова_33_4】"
+                    "explanation": "The target keyword was: 【значення】"
                 }
             ]
         }
@@ -14661,11 +14661,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («промова_33_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («контекст»):",
                     "acceptedAnswers": [
-                        "промова_33_5"
+                        "контекст"
                     ],
-                    "explanation": "The target keyword was: 【промова_33_5】"
+                    "explanation": "The target keyword was: 【контекст】"
                 }
             ]
         }
@@ -14747,11 +14747,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («саміт_34_1»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («саміт»):",
                     "acceptedAnswers": [
-                        "саміт_34_1"
+                        "саміт"
                     ],
-                    "explanation": "The target keyword was: 【саміт_34_1】"
+                    "explanation": "The target keyword was: 【саміт】"
                 }
             ]
         }
@@ -14833,11 +14833,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («саміт_34_2»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («держава»):",
                     "acceptedAnswers": [
-                        "саміт_34_2"
+                        "держава"
                     ],
-                    "explanation": "The target keyword was: 【саміт_34_2】"
+                    "explanation": "The target keyword was: 【держава】"
                 }
             ]
         }
@@ -14919,11 +14919,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («саміт_34_3»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («стратегія»):",
                     "acceptedAnswers": [
-                        "саміт_34_3"
+                        "стратегія"
                     ],
-                    "explanation": "The target keyword was: 【саміт_34_3】"
+                    "explanation": "The target keyword was: 【стратегія】"
                 }
             ]
         }
@@ -15005,11 +15005,11 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («саміт_34_4»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («майбутнє»):",
                     "acceptedAnswers": [
-                        "саміт_34_4"
+                        "майбутнє"
                     ],
-                    "explanation": "The target keyword was: 【саміт_34_4】"
+                    "explanation": "The target keyword was: 【майбутнє】"
                 }
             ]
         }
@@ -15091,18 +15091,19 @@
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («саміт_34_5»):",
+                    "prompt": "Type the target-language keyword practiced in this lesson («лідерство»):",
                     "acceptedAnswers": [
-                        "саміт_34_5"
+                        "лідерство"
                     ],
-                    "explanation": "The target keyword was: 【саміт_34_5】"
+                    "explanation": "The target keyword was: 【лідерство】"
                 }
             ]
         }
     }
 };
-  var CURRICULUM = { id: 'ukrainian', name: 'Ukrainian', units: UNITS, lessons: LESSONS };
+  var ROADMAP = [];
+  var SUBJECT = { units: UNITS, lessons: LESSONS, roadmap: ROADMAP };
   global.FEARN_CURRICULA = global.FEARN_CURRICULA || {};
-  global.FEARN_CURRICULA['ukrainian'] = CURRICULUM;
-  if (typeof module !== 'undefined' && module.exports) module.exports = CURRICULUM;
+  global.FEARN_CURRICULA['ukrainian'] = SUBJECT;
+  if (typeof module !== 'undefined' && module.exports) module.exports = SUBJECT;
 })(typeof window !== 'undefined' ? window : global);
