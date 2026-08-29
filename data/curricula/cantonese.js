@@ -7800,62 +7800,100 @@
     "hk-u15-l1": {
         "id": "hk-u15-l1",
         "subject": "cantonese",
-        "unit": 15,
-        "lessonNumber": 1,
-        "title": "可能補語：做得切同睇唔明 (Potential Complements) (Part 1)",
+        "unit": "hk-u15",
         "level": "B1",
-        "objective": "Comprehensive mastery of 可能補語得同唔 (Potential Complements 得/唔).",
+        "objective": "Master time-contingent potential complements using 切 (cit3 - to make it in time: 做得切/做唔切, 趕得切/趕唔切, 追得切/追唔切).",
+        "prerequisites": [
+            "hk-u14-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u14-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（可能補語得同唔 (Potential Complements 得/唔) - 第1部分）入面，我哋會探討廣東話嘅核心語用語境同埋可能補語得同唔 (Potential Complements 得/唔)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "廣東話嘅「**可能補語 (Potential Complements)**」係表達「做唔做到某個結果、能否在客觀條件下達成」嘅核心句型。喺日常返工、追巴士、交報告等時間緊迫嘅語境入面，最靈魂嘅補語就係 **切 (cit3)**！\n\n### ⏱️ 1. 「切 (cit3)」嘅語法意義：\n- 「切 (cit3)」喺廣東話可能補語入面專門表示「**在限定時間內及時趕上、及時做完 (in time / by deadline)**」。\n\n### 🟢 2. 肯定結構：[動詞 + 得 (dak1) + 切 (cit3)]（Can make it in time）：\n- **做得切 (zou6 dak1 cit3)**：能夠在截止時間前及時做完（Can finish in time）。\n  - 例如：仲有兩個鐘頭，我一定**做得切 (zou6 dak1 cit3)**！\n- **趕得切 (gon2 dak1 cit3)**：能夠及時趕到/趕搭上（Can make it in time / catch the train）。\n  - 例如：快啲行啦，我哋仲**趕得切 (gon2 dak1 cit3)** 搭尾班車！\n\n### 🔴 3. 否定結構：[動詞 + 唔 (m4) + 切 (cit3)]（Cannot make it in time）：\n- **做唔切 (zou6 m4 cit3)**：時間唔夠、來不及做完（Cannot finish in time）。\n  - 例如：工作量太大，我一個人真係**做唔切 (zou6 m4 cit3)** 呀！\n- **趕唔切 (gon2 m4 cit3)**：來不及趕到、錯過時間（Cannot make it in time）。\n  - 例如：塞車塞得咁勁，我驚**趕唔切 (gon2 m4 cit3)** 去機場添。\n- **追唔切 (zeoi1 m4 cit3)**：進度落後太多，來不及追趕追平（Cannot catch up in time）。",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (15.1.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "老細催聽日朝早交報告，我今晚通宵都未必做得切呀！",
+                    "reading": "Lou5 sai3 ceoi1 ting1 jat6 ziu1 zou2 gaau1 bou3 gou3, ngo5 gam1 maan5 tung1 siu1 dou1 mei6 bit1 zou6 dak1 cit3 aa3!",
+                    "translation": "The boss is rushing for the report tomorrow morning; even if I pull an all-nighter tonight I might not make it in time!"
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (15.1.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "快啲跑兩步啦，我哋仲趕得切搭十一點半班港鐵！",
+                    "reading": "Faai3 di1 paau2 loeng5 bou6 laa1, ngo5 dei6 zung6 gon2 dak1 cit3 daap3 sap6 jat1 dim2 bun3 baan1 gong2 tit3!",
+                    "translation": "Run a bit faster; we can still catch the 11:30 MTR train in time!"
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (15.1.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "對唔住啊，廚房單子太多，你碟乾炒牛河可能要等一陣先做得到，師傅做唔切呀。",
+                    "reading": "Deoi3 m4 zyu6 aa3, cyu4 fong2 daan1 zi2 taai3 do1, nei5 dip6 gon1 caau2 ngau4 ho2 ho2 nang4 jiu3 dang2 jat1 zan6 sin1 zou6 dak1 dou2, si1 fu2 zou6 m4 cit3 aa3.",
+                    "translation": "Sorry, there are too many kitchen orders; your dry-fried beef chow fun might take a while because the chef can't keep up in time."
+                },
+                {
+                    "target": "如果我哋搭的士去紅磡體育館，應該趕得切開場前入場。",
+                    "reading": "Jyu4 gwo2 ngo5 dei6 daap3 dik1 si2 heoi3 Hung4 Ham3 Tai2 Juk6 Gun2, jing1 goi1 gon2 dak1 cit3 hoi1 coeng4 cin4 jap6 coeng4.",
+                    "translation": "If we take a taxi to the Hong Kong Coliseum, we should make it inside before the show starts."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 可能補語得同唔 (Potential Complements 得/唔)"
+                "切 (cit3) = Clock / Deadline: If time is ticking, use 切! [做得切 = beat the clock, 做唔切 = run out of time]!",
+                "Catching transit = 趕得切 (gon2 dak1 cit3) / 趕唔切 (gon2 m4 cit3)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "Hong Kong Fast Pace & '做唔切': In Hong Kong work culture, '做唔切 (zou6 m4 cit3)' is the ubiquitous honest cry when workloads exceed reasonable working hours.",
+                "Catching the Last Train (尾班車): Night owls constantly calculate '趕唔趕得切搭尾班車' after dining or karaoke in Causeway Bay or Mong Kok."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「可能補語得同唔 (Potential Complements 得/唔)」喺第1節嘅地道廣東話表達？",
+                    "prompt": "想表達「手頭上的工作太多，截止前來不及做完」，最精準地道嘅廣東話係：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (15.1.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (15.1.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (15.1.3)。"
+                        "我做唔切 (ngo5 zou6 m4 cit3)",
+                        "我做唔食",
+                        "我做唔落",
+                        "我做唔走"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "做唔切 (zou6 m4 cit3) 專指時間不足、來不及在截止前做完。"
+                },
+                {
+                    "prompt": "見到地鐵門即將關閉，催促朋友「快點跑，我們還來得及趕上（can make it in time）」，應講：",
+                    "options": [
+                        "快啲，我哋趕唔切！",
+                        "快啲，我哋仲趕得切！ (gon2 dak1 cit3)",
+                        "快啲，我哋食得切！",
+                        "快啲，我哋行得切！"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "趕得切 (gon2 dak1 cit3) 表示能及時趕上。"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「可能補語：做得切同睇唔明 (Potential Complements)」語境嘅廣東話完整句子（練習 1）：",
+                    "prompt": "餐廳侍應向客人道歉「單子太多，師傅做唔切」，「做唔切」喺度指：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (15.1.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (15.1.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (15.1.3)。"
+                        "廚師不會做菜",
+                        "廚師在短時間內忙不過來、來不及及時出菜 (cannot cook fast enough in time)",
+                        "廚房停電了",
+                        "餐廳要關門了"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "做唔切表示時間上來不及及時完成訂單。"
+                },
+                {
+                    "prompt": "廣東話可能補語中，肯定形式同否定形式嘅中間標記分別係：",
+                    "options": [
+                        "肯定用「得 (dak1)」，否定用「唔 (m4)」",
+                        "肯定用「有」，否定用「冇」",
+                        "肯定用「過」，否定用「未」",
+                        "肯定用「咗」，否定用「緊」"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "粵語可能補語格式：動詞 + 得/唔 + 補語。"
                 }
             ]
         },
@@ -7863,85 +7901,127 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「可能補語得同唔 (Potential Complements 得/唔)」嘅日常商務與生活習慣（考核 15-1）？",
+                    "prompt": "句子「我驚搭巴士會塞車，趕唔切去機場」表達嘅核心擔憂係：",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (15.1.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (15.1.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (15.1.3)。"
+                        "巴士車費太貴",
+                        "因交通擁堵而來不及在飛機起飛前及時趕到機場 (cannot make it to airport in time)",
+                        "找不到機場在哪裡",
+                        "巴士壞在路上"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "explanation": "趕唔切表達時間上來不及。"
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («做得切_15_1»):",
+                    "prompt": "Type the 3-character Hanzi for 'cannot finish in time' in Cantonese (做唔切):",
                     "acceptedAnswers": [
-                        "做得切_15_1"
+                        "做唔切",
+                        "zou6 m4 cit3",
+                        "zou6m4cit3"
                     ],
-                    "explanation": "The target keyword was: 【做得切_15_1】"
+                    "explanation": "做唔切 (zou6 m4 cit3) means 'cannot finish in time'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u15-l2": {
         "id": "hk-u15-l2",
         "subject": "cantonese",
-        "unit": 15,
-        "lessonNumber": 2,
-        "title": "可能補語：做得切同睇唔明 (Potential Complements) (Part 2)",
+        "unit": "hk-u15",
         "level": "B1",
-        "objective": "Comprehensive mastery of 可能補語得同唔 (Potential Complements 得/唔).",
+        "objective": "Master cognitive and sensory potential complements (睇得明/睇唔明, 聽得清楚/聽唔清楚, 記得起/記唔起, 估得到/估唔到).",
+        "prerequisites": [
+            "hk-u15-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u15-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（可能補語得同唔 (Potential Complements 得/唔) - 第2部分）入面，我哋會探討廣東話嘅核心語用語境同埋可能補語得同唔 (Potential Complements 得/唔)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "喺認知理解、感知溝通同記憶回憶入面，廣東話有四對極度高頻嘅可能補語組合：\n\n### 🧠 1. 認知理解：[睇得明 / 睇唔明] & [聽得明 / 聽唔明]：\n- **睇得明 (tai2 dak1 ming4)**：閱讀後能夠理解（Can understand by reading）。\n  - 例如：呢份英文合約好複雜，我**睇唔明 (tai2 m4 ming4)** 呀。(This English contract is complex; I can't understand it.)\n- **聽得明 (teng1 dak1 ming4)**：聽完後能夠聽懂（Can understand by listening）。\n  - 例如：佢講廣東話講得好快，你**聽唔聽得明 (teng1 m4 teng1 dak1 ming4)**？\n\n### 👂 2. 感官清晰度：[聽得清楚 / 聽唔清楚]：\n- **聽得清楚 (teng1 dak1 cing1 co2)**：能聽得很清楚。\n  - 例如：出面太嘈啦，我**聽唔清楚 (teng1 m4 cing1 co2)** 你講咩！\n\n### 💭 3. 記憶與預測：[記得起 / 記唔起] & [估得到 / 估唔到]：\n- **記得起 (gei3 dak1 hei2)**：能夠回想得起來（Can recall/remember）。\n  - **記唔起 (gei3 m4 hei2)**：想不起來、忘記了（Cannot recall）。\n    - 例如：我見過佢，但係一時**記唔起 (gei3 m4 hei2)** 佢叫咩名。\n- **估得到 (gu2 dak1 dou2)**：能猜測預料到。\n  - **估唔到 (gu2 m4 dou2)**：萬萬沒想到、出乎意料（Who would have thought!）。\n    - 例如：真係**估唔到 (gu2 m4 dou2)** 佢會攞第一名！",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (15.2.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "呢篇文言文太深奧啦，我睇極都睇唔明入面嘅意思。",
+                    "reading": "Ni1 pin1 man4 jin4 man4 taai3 sam1 ou3 laa3, ngo5 tai2 gik6 dou1 tai2 m4 ming4 jap6 min6 ge3 ji3 si1.",
+                    "translation": "This classical Chinese text is too profound; no matter how much I read I cannot understand its meaning."
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (15.2.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "電話收訊唔係幾好，你可唔可以講大聲少少？我聽唔清楚。",
+                    "reading": "Din6 waa2 sau1 seon3 m4 hai6 gei2 hou2, nei5 ho2 m4 ho2 ji5 gong2 daai6 seng1 siu2 siu2? Ngo5 teng1 m4 cing1 co2.",
+                    "translation": "The phone reception isn't very good; could you speak a little louder? I can't hear clearly."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (15.2.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "佢個樣好熟面口，但係我點都記唔起喺邊度見過佢添。",
+                    "reading": "Keoi5 go3 joeng2 hou2 suk6 min6 hau2, daan6 hai6 ngo5 dim2 dou1 gei3 m4 hei2 hai2 bin1 dou6 gin3 gwo3 keoi5 tim1.",
+                    "translation": "His face looks very familiar, but no matter how I try I just can't recall where I saw him."
+                },
+                {
+                    "target": "真係估唔到今日茶餐廳咁多人排隊，平時好少咁爆滿㗎喎！",
+                    "reading": "Zan1 hai6 gu2 m4 dou2 gam1 jat6 caa4 caan1 teng1 gam3 do1 jan4 paai4 deoi2, ping4 si4 hou2 siu2 gam3 baau3 mun5 gaa3 wo3!",
+                    "translation": "I really couldn't have guessed so many people would queue at the tea restaurant today; usually it's rarely this packed, mind you!"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 可能補語得同唔 (Potential Complements 得/唔)"
+                "Comprehension pair: 睇得明 / 睇唔明 (Reading), 聽得明 / 聽唔明 (Listening).",
+                "Memory & Surprise: 記唔起 (cannot recall), 估唔到 (never saw it coming)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "Expressing Surprise with '估唔到': In Cantonese conversation, starting a sentence with '真係估唔到... (Zan1 hai6 gu2 m4 dou2...)' is the standard way to express delight, disbelief, or shock.",
+                "Phone Courtesy: Saying '唔好意思，呢度收得唔好，聽唔清楚' is the polite way to ask someone to repeat themselves on a spotty cellular connection."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「可能補語得同唔 (Potential Complements 得/唔)」喺第2節嘅地道廣東話表達？",
+                    "prompt": "睇一份外語說明書時表示「看不懂、無法理解」，應講：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (15.2.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (15.2.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (15.2.3)。"
+                        "我睇唔明 (ngo5 tai2 m4 ming4)",
+                        "我睇唔切",
+                        "我睇唔落",
+                        "我睇唔開"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "睇唔明 (tai2 m4 ming4) 表示閱讀無法理解。"
+                },
+                {
+                    "prompt": "見到老朋友但一時「想不起來名字（cannot recall）」，地道廣東話係：",
+                    "options": [
+                        "記唔起佢個名 (gei3 m4 hei2 keoi5 go3 meng2)",
+                        "記唔切佢個名",
+                        "記唔落佢個名",
+                        "記唔好佢個名"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "記唔起 (gei3 m4 hei2) 專用於記憶回想不出。"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「可能補語：做得切同睇唔明 (Potential Complements)」語境嘅廣東話完整句子（練習 2）：",
+                    "prompt": "感嘆句「真係估唔到佢會贏！」入面嘅「估唔到 (gu2 m4 dou2)」表達緊：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (15.2.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (15.2.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (15.2.3)。"
+                        "早已預料到結果",
+                        "出乎意料、萬萬沒想到 (unexpected / couldn't have guessed)",
+                        "正在認真猜謎",
+                        "完全不在乎"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "估唔到表示出乎意料。"
+                },
+                {
+                    "prompt": "環境嘈雜時請求對方講大聲啲，因為自己：",
+                    "options": [
+                        "聽唔切",
+                        "聽唔清楚 (teng1 m4 cing1 co2)",
+                        "聽唔落",
+                        "聽唔開"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "聽唔清楚表示感知不清晰。"
                 }
             ]
         },
@@ -7949,85 +8029,128 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「可能補語得同唔 (Potential Complements 得/唔)」嘅日常商務與生活習慣（考核 15-2）？",
+                    "prompt": "廣東話「我睇得明呢份文件」嘅否定形式係：",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (15.2.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (15.2.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (15.2.3)。"
+                        "我睇冇明呢份文件",
+                        "我睇唔明呢份文件 (ngo5 tai2 m4 ming4 ni1 fan6 man4 gin2)",
+                        "我唔睇得明呢份文件",
+                        "我睇得唔明呢份文件"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "可能補語否定式為 [動詞 + 唔 + 補語]：睇唔明。"
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («做得切_15_2»):",
+                    "prompt": "Type the 3-character Hanzi for 'cannot recall / cannot remember' in Cantonese (記唔起):",
                     "acceptedAnswers": [
-                        "做得切_15_2"
+                        "記唔起",
+                        "gei3 m4 hei2",
+                        "gei3m4hei2"
                     ],
-                    "explanation": "The target keyword was: 【做得切_15_2】"
+                    "explanation": "記唔起 (gei3 m4 hei2) means 'cannot recall / cannot remember'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u15-l3": {
         "id": "hk-u15-l3",
         "subject": "cantonese",
-        "unit": 15,
-        "lessonNumber": 3,
-        "title": "可能補語：做得切同睇唔明 (Potential Complements) (Part 3)",
+        "unit": "hk-u15",
         "level": "B1",
-        "objective": "Comprehensive mastery of 可能補語得同唔 (Potential Complements 得/唔).",
+        "objective": "Master physical capacity, appetite, and emotional endurance complements (食得落/食唔落, 吞得落/吞唔落, 頂得順/頂唔順, 孭得起/孭唔起).",
+        "prerequisites": [
+            "hk-u15-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u15-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（可能補語得同唔 (Potential Complements 得/唔) - 第3部分）入面，我哋會探討廣東話嘅核心語用語境同埋可能補語得同唔 (Potential Complements 得/唔)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "廣東話入面有好多極具生活張力同身體感知嘅可能補語，用嚟表達**胃口生理容量** 同埋 **心理抗壓極限**：\n\n### 🍲 1. 胃口與進食容量：[食得落 / 食唔落] & [吞得落 / 吞唔落]：\n- **食得落 (sik6 dak1 lok6)**：有胃口吃得下、能吃進肚子（Can stomach/eat it）。\n- **食唔落 (sik6 m4 lok6)**：太飽、太熱或心情差導致吃不下（Cannot eat / no appetite）。\n  - 例如：我太緊張啦，成碗飯都**食唔落 (sik6 m4 lok6)**。\n- **吞得落 (tan1 dak1 lok6)**：喉嚨能吞咽得下；引申為「能忍得下這口氣」。\n  - 例如：呢啖氣我點都**吞唔落 (tan1 m4 lok6)**！(I cannot swallow this insult!)\n\n### 💥 2. 壓力承受與抗壓耐力：[頂得順 / 頂唔順]：\n- **頂得順 (ding2 dak1 seon6)**：能夠承受壓力、撐得住、適應得來（Can endure/handle it）。\n- **頂唔順 (ding2 m4 seon6)**：受不了、撐不住、快要崩潰（Cannot stand it anymore!）。\n  - 例如：每日OT到半夜，我真係**頂唔順 (ding2 m4 seon6)** 啦！\n  - 例如：天氣熱到三十八度，完全**頂唔順 (ding2 m4 seon6)**！\n\n### 🎒 3. 責任承擔：[孭得起 / 孭唔起]：\n- **孭得起 (me1 dak1 hei2)**：能夠承擔經濟負擔或責任過失（Can shoulder/bear the responsibility/cost）。\n- **孭唔起 (me1 m4 hei2)**：負擔不起、承擔不起這個責任。\n  - 例如：咁大筆賠償，我一個人邊度**孭得起 (me1 dak1 hei2)** 呀！",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (15.3.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "今日天氣又焗又熱，個人冇乜胃口，成碟飯都食唔落。",
+                    "reading": "Gam1 jat6 tin1 hei3 jau6 guk6 jau6 jit6, go3 jan4 mou5 mat1 wai6 hau2, seng4 dip6 faan6 dou1 sik6 m4 lok6.",
+                    "translation": "Today the weather is sultry and hot; I have no appetite and can't stomach the whole plate of rice."
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (15.3.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "連開三個星期通宵會議，全體組員都大呼頂唔順啦！",
+                    "reading": "Lin4 hoi1 saam1 go3 sing1 kei4 tung1 siu1 wui6 ji5, cyun4 tai2 zou2 jyun4 dou1 daai6 fu1 ding2 m4 seon6 laa3!",
+                    "translation": "Having overnight meetings for three consecutive weeks, all team members are crying out that they can't stand it anymore!"
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (15.3.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "做生意投資要量力而為，一定要確保自己孭得起風險先好做。",
+                    "reading": "Zou6 sang1 ji3 tau4 zi1 jiu3 loeng6 lik6 ji4 wai4, jat1 ding1 jiu3 kok3 bou2 zi6 gei2 me1 dak1 hei2 fung1 him2 sin1 hou2 zou6.",
+                    "translation": "Doing business investment requires acting within one's means; you must ensure you can shoulder the risks before proceeding."
+                },
+                {
+                    "target": "呢碗麻辣米線辣到爆，你平時唔食辣，頂唔頂得順㗎？",
+                    "reading": "Ni1 wun2 maa4 laat6 mai5 sin3 laat6 dou3 baau3, nei5 ping4 si4 m4 sik6 laat6, ding2 m4 ding2 dak1 seon6 gaa4?",
+                    "translation": "This bowl of numbing-spicy rice noodles is explosively spicy; you don't usually eat spicy food, can you handle it?!"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 可能補語得同唔 (Potential Complements 得/唔)"
+                "Food capacity: 食唔落 (can't stomach), 吞唔落 (can't swallow).",
+                "Workplace stress: 頂得順 (can handle) vs 頂唔順 (can't take it anymore!).",
+                "Responsibility: 孭得起 (can shoulder) vs 孭唔起 (can't carry the weight)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "The Iconic '頂唔順': '頂唔順 (ding2 m4 seon6)' is perhaps the most famous expressive Cantonese idiom for extreme stress, intolerable heat, loud noise, or toxic relationships.",
+                "The Metaphor '孭 (me1)': '孭 (me1)' means to carry a backpack. '孭鑊 (me1 wok6 - carrying the wok)' means taking the blame, and '孭唔起' means being unable to bear the catastrophic fallout."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「可能補語得同唔 (Potential Complements 得/唔)」喺第3節嘅地道廣東話表達？",
+                    "prompt": "工作壓力極大、身體快要吃不消時，廣東話最地道嘅呼喊係：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (15.3.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (15.3.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (15.3.3)。"
+                        "我真係頂唔順啦！ (ngo5 zan1 hai6 ding2 m4 seon6 laa3!)",
+                        "我真係食唔切啦！",
+                        "我真係睇唔落啦！",
+                        "我真係坐唔起啦！"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "頂唔順 (ding2 m4 seon6) 表示無法忍受、快要崩潰。"
+                },
+                {
+                    "prompt": "生病沒有胃口、整碗粥都「吃不進去」，應講：",
+                    "options": [
+                        "成碗粥都食唔落 (sik6 m4 lok6)",
+                        "成碗粥都食唔切",
+                        "成碗粥都食唔起",
+                        "成碗粥都食唔順"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "食唔落 (sik6 m4 lok6) 表示沒有胃口或太飽吃不下。"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「可能補語：做得切同睇唔明 (Potential Complements)」語境嘅廣東話完整句子（練習 3）：",
+                    "prompt": "句子「咁大筆債務，佢一個人邊度孭得起呀？」入面嘅「孭得起 (me1 dak1 hei2)」指：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (15.3.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (15.3.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (15.3.3)。"
+                        "力氣很大能扛起重物",
+                        "在經濟或責任上能夠承擔得起 (can shoulder the financial/moral burden)",
+                        "買了一個很大的背包",
+                        "正在登山跑步"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "孭得起比喻在經濟或責任上能承擔。"
+                },
+                {
+                    "prompt": "問朋友能否承受超辣食物「你頂唔頂得順？」，屬於邊種提問結構？",
+                    "options": [
+                        "正反可能補語問句 (A-not-A potential complement query)",
+                        "肯定陳述句",
+                        "過去完成句",
+                        "感嘆句"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "頂唔頂得順屬於標準正反可能補語問句。"
                 }
             ]
         },
@@ -8035,85 +8158,127 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「可能補語得同唔 (Potential Complements 得/唔)」嘅日常商務與生活習慣（考核 15-3）？",
+                    "prompt": "廣東話「頂唔順 (ding2 m4 seon6)」在日常口語中最核心的含義是：",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (15.3.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (15.3.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (15.3.3)。"
+                        "頭髮剪得太短",
+                        "承受不了極限、忍受不住壓力或惡劣條件（Cannot endure / can't take it anymore）",
+                        "順路去買東西",
+                        "站在最高處"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "頂唔順是粵語極具代表性的抗壓極限表達。"
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («做得切_15_3»):",
+                    "prompt": "Type the 3-character Hanzi for 'cannot endure / can\\'t stand it anymore' in Cantonese (頂唔順):",
                     "acceptedAnswers": [
-                        "做得切_15_3"
+                        "頂唔順",
+                        "ding2 m4 seon6",
+                        "ding2m4seon6"
                     ],
-                    "explanation": "The target keyword was: 【做得切_15_3】"
+                    "explanation": "頂唔順 (ding2 m4 seon6) means 'cannot endure / can\\'t stand it anymore'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u15-l4": {
         "id": "hk-u15-l4",
         "subject": "cantonese",
-        "unit": 15,
-        "lessonNumber": 4,
-        "title": "可能補語：做得切同睇唔明 (Potential Complements) (Part 4)",
+        "unit": "hk-u15",
         "level": "B1",
-        "objective": "Comprehensive mastery of 可能補語得同唔 (Potential Complements 得/唔).",
+        "objective": "Master spatial containment potential complements (擺得落/擺唔落, 塞得入/塞唔入, 裝得落/裝唔落, 企得落/企唔落).",
+        "prerequisites": [
+            "hk-u15-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u15-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（可能補語得同唔 (Potential Complements 得/唔) - 第4部分）入面，我哋會探討廣東話嘅核心語用語境同埋可能補語得同唔 (Potential Complements 得/唔)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "喺香港呢個寸金尺土嘅城市入面，空間容納同收納擺放係每日生活嘅頭等大事！廣東話有一套非常精準嘅**空間容納可能補語**：\n\n### 📦 1. 空間擺放與容納：[擺得落 / 擺唔落] & [裝得落 / 裝唔落]：\n- **擺得落 (baai2 dak1 lok6)**：空間足夠放置某物（Fits / has room to place）。\n- **擺唔落 (baai2 m4 lok6)**：地方太細、放不下（Doesn't fit / no room to put）。\n  - 例如：間客廳咁細，張大梳化**擺唔落 (baai2 m4 lok6)** 㗎！\n- **裝得落 (zong1 dak1 lok6)**：容器或袋子容量足夠裝入。\n  - 例如：個背囊好大，**裝得落 (zong1 dak1 lok6)** 部手提電腦。(The backpack is huge; it can hold the laptop.)\n\n### 🚇 2. 擠壓與人員容納：[塞得入 / 塞唔入] & [坐得落 / 企得落]：\n- **塞得入 (sak1 dak1 jap6)**：能擠塞得進去（Can squeeze inside）。\n- **塞唔入 (sak1 m4 入)**：縫隙太窄或太滿塞不進去。\n  - 例如：個行李箱爆滿咗，件厚褸**塞唔入 (sak1 m4 jap6)** 啦！\n- **坐得落 (co5 dak1 lok6)**：座位空間能坐得下所有人。\n  - 例如：張檯咁大，我哋八個人都**坐得落 (co5 dak1 lok6)**。(The table is big; it can seat all 8 of us.)\n- **企得落 (kei5 dak1 lok6)**：站立空間足夠。\n  - 例如：架升降機滿人喇，**企唔落 (kei5 m4 lok6)** 啦！(The elevator is full; can't stand anyone else!)",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (15.4.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "間房得五十呎咁細，放咗張床之後就擺唔落衣櫃啦。",
+                    "reading": "Gaan1 fong2 dak1 ng5 sap6 cek3 gam3 sai3, fong3 zo2 zoeng1 cong4 zi1 hau6 zau6 baai2 m4 lok6 ji1 gwai6 laa3.",
+                    "translation": "The room is only 50 square feet; after putting the bed, there is no room to fit a wardrobe."
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (15.4.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "個手提行李袋好大容量，裝得落三套衫同兩對鞋！",
+                    "reading": "Go3 sau2 tai4 hang4 lei5 doi2 hou2 daai6 jung4 loeng6, zong1 dak1 lok6 saam1 tou3 saam1 tung4 loeng5 deoi3 haai4!",
+                    "translation": "The carry-on duffel bag has huge capacity; it can hold three sets of clothes and two pairs of shoes!"
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (15.4.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "地鐵車廂入面已經逼到爆，我哋下一班車先上啦，塞唔入㗎啦。",
+                    "reading": "Dei6 tit3 ce1 soeng1 jap6 min6 ji5 ging1 bik1 dou3 baau3, ngo5 dei6 haa6 jat1 baan1 ce1 sin1 soeng5 laa1, sak1 m4 jap6 gaa3 laa3.",
+                    "translation": "The MTR train car is already packed to bursting; let's board the next train, we can't squeeze in anyway."
+                },
+                {
+                    "target": "呢張大圓檯好闊落，我哋十位同事全部都坐得落有餘！",
+                    "reading": "Ni1 zoeng1 daai6 jyun4 toi2 hou2 fut3 lok6, ngo5 dei6 sap6 wai6 tung4 si6 cyun4 bou6 dou1 co5 dak1 lok6 jau5 jyu4!",
+                    "translation": "This large round table is very spacious; all ten of our colleagues can comfortably sit with room to spare!"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 可能補語得同唔 (Potential Complements 得/唔)"
+                "Containment rule: Use '落 (lok6)' for surface/volume capacity [擺得落 (fit place), 裝得落 (fit contain), 坐得落 (fit seat), 企得落 (fit stand)]!",
+                "Insertion rule: Use '入 (jap6)' for pushing inside [塞得入 (squeeze in) vs 塞唔入 (can't squeeze in)]!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "Hong Kong Nano-Flats (納米樓): In Hong Kong real estate and interior design, measuring furniture with '擺唔擺得落' is an indispensable practical skill.",
+                "Dim Sum Big Round Tables: Dining at traditional banquet restaurants involves asking the captain '呢張檯坐唔坐得落十二個人呀？'."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「可能補語得同唔 (Potential Complements 得/唔)」喺第4節嘅地道廣東話表達？",
+                    "prompt": "想表達「房間空間太小，放不下這張大書桌」，最地道嘅廣東話係：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (15.4.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (15.4.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (15.4.3)。"
+                        "間房太細，擺唔落呢張書檯 (baai2 m4 lok6)",
+                        "間房太細，擺唔切呢張書檯",
+                        "間房太細，擺唔明呢張書檯",
+                        "間房太細，擺唔順呢張書檯"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "擺唔落 (baai2 m4 lok6) 專指空間不足放不下。"
+                },
+                {
+                    "prompt": "看到行李箱已經塞得滿滿，想說「再也塞不進去了」，應講：",
+                    "options": [
+                        "塞唔入啦 (sak1 m4 jap6 laa3)",
+                        "塞唔切啦",
+                        "塞唔明啦",
+                        "塞唔順啦"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "塞唔入 (sak1 m4 jap6) 表示無法再擠塞進去。"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「可能補語：做得切同睇唔明 (Potential Complements)」語境嘅廣東話完整句子（練習 4）：",
+                    "prompt": "升降機客滿時，管理員對外面嘅人講「企唔落啦」，意思係：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (15.4.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (15.4.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (15.4.3)。"
+                        "電梯不能站立",
+                        "電梯空間已滿，站不下更多人了 (no more standing room)",
+                        "電梯停電了",
+                        "電梯速度太快"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "企唔落表示無容納站立空間。"
+                },
+                {
+                    "prompt": "在餐廳訂位時，想確認「一張檯能否坐得下六個人」，地道問法係：",
+                    "options": [
+                        "張檯坐唔坐得落六個人？ (co5 m4 co5 dak1 lok6)",
+                        "張檯做唔做得到六個人？",
+                        "張檯行唔行得切六個人？",
+                        "張檯睇唔睇得明六個人？"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "坐唔坐得落是正反空間容納問句。"
                 }
             ]
         },
@@ -8121,85 +8286,128 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「可能補語得同唔 (Potential Complements 得/唔)」嘅日常商務與生活習慣（考核 15-4）？",
+                    "prompt": "廣東話空間容納補語中，「擺得落」、「裝得落」、「坐得落」中的「落 (lok6)」主要體現了：",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (15.4.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (15.4.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (15.4.3)。"
+                        "從高處向下掉落的動作",
+                        "空間或容器具備足夠容納與承載能力的語法補語 (capacity to accommodate)",
+                        "時間的延續",
+                        "形容詞的最高級"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "explanation": "落在此作為空間容量之可能補語。"
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («做得切_15_4»):",
+                    "prompt": "Type the 3-character Hanzi for 'cannot fit / no room to put' in Cantonese (擺唔落):",
                     "acceptedAnswers": [
-                        "做得切_15_4"
+                        "擺唔落",
+                        "baai2 m4 lok6",
+                        "baai2m4lok6"
                     ],
-                    "explanation": "The target keyword was: 【做得切_15_4】"
+                    "explanation": "擺唔落 (baai2 m4 lok6) means 'cannot fit / no room to put'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u15-l5": {
         "id": "hk-u15-l5",
         "subject": "cantonese",
-        "unit": 15,
-        "lessonNumber": 5,
-        "title": "可能補語：做得切同睇唔明 (Potential Complements) (Part 5)",
+        "unit": "hk-u15",
         "level": "B1",
-        "objective": "Comprehensive mastery of 可能補語得同唔 (Potential Complements 得/唔).",
+        "objective": "Synthesize affirmative, negative, and A-not-A potential complement forms (趕唔趕得切, 頂唔頂得順, 睇唔睇得明, 擺唔擺得落) in workplace deadlines, seating arrangements, and stress management.",
+        "prerequisites": [
+            "hk-u15-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u15-l1",
+                "hk-u15-l2",
+                "hk-u15-l3",
+                "hk-u15-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（可能補語得同唔 (Potential Complements 得/唔) - 第5部分）入面，我哋會探討廣東話嘅核心語用語境同埋可能補語得同唔 (Potential Complements 得/唔)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "喺呢課綜合應用入面，我哋會融會貫通所有可能補語嘅三種句式形態：**肯定式 [V+得+補語]**、**否定式 [V+唔+補語]** 以及 **正反問句 [V+唔+V+得+補語]**！\n\n### 🎯 核心正反可能補語問句速查表：\n1. **時間限期**：你聽日**趕唔趕得切 (gon2 m4 gon2 dak1 cit3)** 交份企劃書？\n2. **理解溝通**：剛才老細講嘅策略，你**聽唔聽得明 (teng1 m4 teng1 dak1 ming4)**？\n3. **抗壓極限**：呢排日日加班，你身心**頂唔頂得順 (ding2 m4 ding2 dak1 seon6)** 呀？\n4. **空間容納**：部新雪櫃咁大部，廚房個位**擺唔擺得落 (baai2 m4 baai2 dak1 lok6)** 呀？\n\n### 💬 真實高難度職場與社交情境對話：\n- **經理**：「個項目下星期五要上線，你哋團隊**做得切做唔切**？」\n- **組長**：「如果大家一齊幫手就**做得切**，但如果得兩個人就肯定**做唔切**啦！」\n- **經理**：「辛苦大家！今晚我請食飯，訂咗間大房，十個人全部**坐得落**，大家放鬆下！」",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (15.5.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "A: 聽日個發布會你趕唔趕得切整好啲投影片？ B: 放心啦，我今晚一定做得切！",
+                    "reading": "A: Ting1 jat6 go3 faat3 bou3 wui6 nei5 gon2 m4 gon2 dak1 cit3 zing2 hou2 di1 tau4 jing2 pin2? B: Fong3 sam1 laa1, ngo5 gam1 maan5 jat1 ding1 zou6 dak1 cit3!",
+                    "translation": "A: Can you make it in time to finish the slides for tomorrow's press conference? B: Don't worry, I can definitely get it done in time tonight!"
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (15.5.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "A: 呢部新機器嘅操作手冊你睇唔睇得明？ B: 有少少複雜，我睇唔明第三章，要問下工程師。",
+                    "reading": "A: Ni1 bou6 san1 gei1 hei3 ge3 cou3 zok3 sau2 caak3 nei5 tai2 m4 tai2 dak1 ming4? B: Jau5 siu2 siu2 fuk1 zaap6, ngo5 tai2 m4 ming4 dai6 saam1 zoeng1, jiu3 man6 haa5 gung1 cing4 si1.",
+                    "translation": "A: Can you understand this new machine's operating manual? B: It's a bit complicated; I can't understand Chapter 3, need to ask the engineer."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (15.5.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "A: 咁多張新辦公檯，間會議室擺唔擺得落？ B: 我量過尺寸，啱啱好擺得落有餘！",
+                    "reading": "A: Gam3 do1 zoeng1 san1 baan6 gung1 toi2, gaan1 wui6 ji5 sat1 baai2 m4 baai2 dak1 lok6? B: Ngo5 loeng4 gwo3 cek3 cyun3, ngaam1 ngaam1 hou2 baai2 dak1 lok6 jau5 jyu4!",
+                    "translation": "A: With so many new office desks, can the conference room fit them? B: I measured the dimensions; they fit just right with room to spare!"
+                },
+                {
+                    "target": "A: 最近工作量咁大，你頂唔頂得順呀？ B: 雖然好攰，但係為咗年終獎金，我點都頂得順嘅！",
+                    "reading": "A: Zeoi3 gan6 gung1 zok3 loeng6 gam3 daai6, nei5 ding2 m4 ding2 dak1 seon6 aa3? B: Seoi1 jin4 hou2 gui6, daan6 hai6 wai6 zo2 nin4 zung1 zoeng2 gam1, ngo5 dim2 dou1 ding2 dak1 seon6 ge3!",
+                    "translation": "A: With such a heavy workload lately, can you hold up under the pressure? B: Although very tired, for the year-end bonus, I can definitely endure it!"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 可能補語得同唔 (Potential Complements 得/唔)"
+                "Master Formula for A-not-A Potential Question: [V + 唔 + V + 得 + Complement] (趕唔趕得切, 頂唔頂得順, 睇唔睇得明, 擺唔擺得落)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "Hong Kong Pragmatic Feasibility Check: In commercial negotiations and team syncs, managers constantly use A-not-A potential complement questions to assess project feasibility without ambiguity."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「可能補語得同唔 (Potential Complements 得/唔)」喺第5節嘅地道廣東話表達？",
+                    "prompt": "想詢問同事「這份複雜的報告你能不能看得懂（A-not-A question）」，最標準地道嘅問法係：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (15.5.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (15.5.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (15.5.3)。"
+                        "你睇唔睇得明呢份報告？ (tai2 m4 tai2 dak1 ming4)",
+                        "你看得懂看不懂呢份報告？",
+                        "你睇明唔睇明呢份報告？",
+                        "你睇得唔得明呢份報告？"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "[V + 唔 + V + 得 + 補語]：睇唔睇得明。"
+                },
+                {
+                    "prompt": "在搬運家具前確認「客廳能不能放得下這張桌子」，應問：",
+                    "options": [
+                        "個客廳擺唔擺得落張檯？ (baai2 m4 baai2 dak1 lok6)",
+                        "個客廳擺唔擺得切張檯？",
+                        "個客廳擺唔擺得明張檯？",
+                        "個客廳擺唔擺得順張檯？"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "擺唔擺得落是空間容納標準正反問句。"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「可能補語：做得切同睇唔明 (Potential Complements)」語境嘅廣東話完整句子（練習 5）：",
+                    "prompt": "「你趕唔趕得切搭今晚班機？」回答「放心，我一定趕得切」，對話核心圍繞緊：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (15.5.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (15.5.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (15.5.3)。"
+                        "機票的價格",
+                        "能否在起飛前及時趕到登機 (time feasibility / catching the flight)",
+                        "飛機的餐飲",
+                        "飛機的型號"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "趕唔趕得切與趕得切聚焦時間可行性。"
+                },
+                {
+                    "prompt": "句子「雖然工作好辛苦，但我頂得順」展現咗說話者邊種心態？",
+                    "options": [
+                        "立刻辭職不幹",
+                        "具備心理韌性與承受能力，能夠堅持撐住 (resilience / ability to endure)",
+                        "抱怨工作太輕鬆",
+                        "要求加薪"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "頂得順展現抗壓耐力。"
                 }
             ]
         },
@@ -8207,24 +8415,28 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「可能補語得同唔 (Potential Complements 得/唔)」嘅日常商務與生活習慣（考核 15-5）？",
+                    "prompt": "下列邊一組廣東話問答最地道、最完整咁展示咗可能補語嘅職場實戰應用？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (15.5.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (15.5.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (15.5.3)。"
+                        "A: 呢個項目你趕唔趕得切搞掂？ B: 如果有人幫手就做得切，我一個人就做唔切！",
+                        "A: 你今天幾點上班？ B: 我八點上班",
+                        "A: 你在哪裡吃飯？ B: 我在茶餐廳吃飯",
+                        "A: 這是什麼？ B: 這是電腦"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "完整結合 趕唔趕得切、做得切 同 做唔切。"
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («做得切_15_5»):",
+                    "prompt": "Type the 5-character Hanzi for the A-not-A question 'Can you make it in time?' in Cantonese (趕唔趕得切):",
                     "acceptedAnswers": [
-                        "做得切_15_5"
+                        "趕唔趕得切",
+                        "gon2 m4 gon2 dak1 cit3",
+                        "gon2m4gon2dak1cit3"
                     ],
-                    "explanation": "The target keyword was: 【做得切_15_5】"
+                    "explanation": "趕唔趕得切 (gon2 m4 gon2 dak1 cit3) means 'Can you make it in time?'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u16-l1": {
