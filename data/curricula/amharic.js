@@ -15938,63 +15938,69 @@
     },
     "am-u32-l1": {
         "id": "am-u32-l1",
-        "subject": "amharic",
-        "unit": 32,
-        "lessonNumber": 1,
-        "title": "ዓለም አቀፍ ግንኙነት እና ዲፕሎማሲ (Diplomacy & International Affairs) (Part 1)",
+        "unit": "am-u32",
         "level": "C2",
-        "objective": "Comprehensive mastery of ዲፕሎማሲ እና ስምምነት (Diplomacy and Treaties).",
+        "objective": "Analyze Ethiopian diplomatic history in Amharic at CEFR C2 level, examining the Battle of Adwa (1896), the Treaty of Wuchale (የውጫሌ ስምምነት - Article XVII dispute), national sovereignty («ሉዓላዊነት»), and anti-colonial pan-African diplomacy.",
+        "prerequisites": [
+            "am-u31-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u31-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ዲፕሎማሲ እና ስምምነት (Diplomacy and Treaties) - ደረጃ 1) ተማሪዎች ስለ ዲፕሎማሲ እና ስምምነት (Diplomacy and Treaties) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Diplomatic history demonstrates uncompromised anti-colonial resistance and treaty negotiation.\n\n1. Sovereign Diplomatic Milestones:\n- **የአድዋ ድል** (The 1896 Adwa Victory safeguarding sovereignty against Italian colonial aggression)\n- **የውጫሌ ስምምነት** (The 1889 Treaty of Wuchale and Article XVII discrepancy)\n- **ሉዓላዊነት** (National sovereignty, territorial integrity, and self-determination)\n- **እቴጌ ጣይቱ እና ዳግማዊ ምኒልክ** (Empress Taytu Betul and Emperor Menelik II's sovereign diplomatic defense)\n- **ዓለም አቀፍ እውቅና** (International diplomatic recognition and opening of European legations).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የዲፕሎማሲ እና ስምምነት (Diplomacy and Treaties) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (32.1.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "የአድዋ ድል የኢትዮጵያን ሉዓላዊነት ከማስከበሩ ባሻገር በመላው ጥቁር ህዝቦች ዘንድ የነፃነት እና የጸረ-ቅኝ አገዛዝ ትግል ምልክት ሆኖ አገልግሏል።",
+                    "reading": "Ye'Adwa dil ye'ītyop'yan lu'alawīnet kemasikeberu bashager bemellaw t'iqur hizboch zend yenets'anet ina yets'ere-qign agezaz tigil milikkit hono agegligwall.",
+                    "translation": "Beyond preserving Ethiopian sovereignty, the Victory of Adwa served as a beacon of freedom and anti-colonial struggle across the Black world."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (32.1.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "እቴጌ ጣይቱ ብጡል የሀገራቸውን ነፃነት አሳልፈው እንደማይሰጡ በዲፕሎማሲያዊ ድርድር ወቅት በጽናት በማወጅ የውጫሌን ስምምነት ውድቅ አድርገዋል።",
+                    "reading": "Itēgē T'ayitu Bit'ul yehagerachewun nets'anet asalifew indemayisat'u bedīplomasīyawī dirdir weqt bets'inat bemawej yeWuch'alēn simiminet widq adrigewall.",
+                    "translation": "Empress Taytu Betul rejected the Treaty of Wuchale by resolutely proclaiming during diplomatic negotiations that they would never surrender their country's freedom."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (32.1.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የአድዋ ድልን ተከትሎ ታላላቅ የአውሮፓ ሀገራት በአዲስ አበባ የየራሳቸውን ኤምባሲዎች በመክፈት ዲፕሎማሲያዊ እውቅና ሰጥተዋል 32.1.3።",
+                    "reading": "Ye'Adwa diln teketilo talalaq ye'Awropa hagerat be'Addis Abeba yeyerasachewun ēmbasiwochin bemekfet dīplomasīyawī iwiqina set'tewall.",
+                    "translation": "Following the Adwa Victory, major European powers extended diplomatic recognition by establishing embassies in Addis Ababa."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ዲፕሎማሲ እና ስምምነት (Diplomacy and Treaties)"
+                "«የአድዋ ድል» = Victory of Adwa! «ሉዓላዊነት» = Sovereignty! «ውጫሌ» = Wuchale Treaty dispute!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Empress Taytu Betul famously declared: 'I am a woman. I do not like war. But I would rather die than accept your treaty which undermines my country's sovereignty.'"
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ዲፕሎማሲ እና ስምምነት (Diplomacy and Treaties)» አጠቃቀም በደረጃ 1 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "የኢትዮጵያን ነፃነት እና ሉዓላዊነት ለአለም ያረጋገጠው ታሪካዊው ድል የትኛው ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (32.1.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (32.1.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (32.1.3)።"
+                        "የአድዋ ድል (Victory of Adwa)",
+                        "የዋተርሉ ጦርነት (Battle of Waterloo)",
+                        "የኖቤል ሽልማት (Nobel Prize)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "The Victory of Adwa in 1896 permanently secured sovereign independence."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ዓለም አቀፍ ግንኙነት እና ዲፕሎማሲ (Diplomacy & International Affairs)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 1)፡",
+                    "prompt": "«ሉዓላዊነት» በዓለም አቀፍ ህግ እና ዲፕሎማሲ ውስጥ ምን ማለት ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (32.1.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (32.1.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (32.1.3)።"
+                        "A shopping agreement",
+                        "Supreme, independent, and unrestricted authority of a state over its territory and affairs (የአንድ ሀገር ሙሉ ነፃነት እና የራስን እድል በራስ የመወሰን መብት)",
+                        "A seasonal celebration"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "ሉዓላዊነት (Sovereignty) represents supreme independent state authority."
                 }
             ]
         },
@@ -16002,85 +16008,95 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ዲፕሎማሲ እና ስምምነት (Diplomacy and Treaties)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 32-1)?",
+                    "prompt": "የውጫሌን ስምምነት አንቀጽ 17 ውድቅ በማድረግ በጽናት የታገሉት ንግስት ማን ናቸው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (32.1.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (32.1.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (32.1.3)።"
+                        "እቴጌ ጣይቱ ብጡል (Empress Taytu Betul)",
+                        "ንግስት ቪክቶሪያ (Queen Victoria)",
+                        "ክሊዮፓትራ (Cleopatra)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR C2 target-language standard."
+                    "explanation": "Empress Taytu Betul fearlessly rejected the colonial terms of the Wuchale Treaty."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ስምምነት_32_1»):",
+                    "prompt": "Type the Amharic word for 'sovereignty' in Fidel script (ሉዓላዊነት):",
                     "acceptedAnswers": [
-                        "ስምምነት_32_1"
+                        "ሉዓላዊነት",
+                        "lualawinet",
+                        "lu'alawinet",
+                        "Lualawinet"
                     ],
-                    "explanation": "The target keyword was: 【ስምምነት_32_1】"
+                    "explanation": "ሉዓላዊነት (Lu'alawīnet) means 'sovereignty'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u32-l2": {
         "id": "am-u32-l2",
-        "subject": "amharic",
-        "unit": 32,
-        "lessonNumber": 2,
-        "title": "ዓለም አቀፍ ግንኙነት እና ዲፕሎማሲ (Diplomacy & International Affairs) (Part 2)",
+        "unit": "am-u32",
         "level": "C2",
-        "objective": "Comprehensive mastery of ዲፕሎማሲ እና ስምምነት (Diplomacy and Treaties).",
+        "objective": "Examine Pan-Africanism, the 1963 founding of the Organization of African Unity (OAU / የአፍሪካ አንድነት ድርጅት), the African Union (AU / የአፍሪካ ህብረት), and Addis Ababa as the diplomatic capital of Africa.",
+        "prerequisites": [
+            "am-u32-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u32-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ዲፕሎማሲ እና ስምምነት (Diplomacy and Treaties) - ደረጃ 2) ተማሪዎች ስለ ዲፕሎማሲ እና ስምምነት (Diplomacy and Treaties) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Addis Ababa serves as the diplomatic capital of the African continent and epicenter of Pan-African solidarity.\n\n1. Pan-African Diplomatic Concepts:\n- **ፓን-አፍሪካኒዝም** (Pan-African philosophy of continental liberation and unity)\n- **የአፍሪካ አንድነት ድርጅት (OAU)** (Founded in Addis Ababa on May 25, 1963)\n- **የአፍሪካ ህብረት (AU)** (Headquarters of the 55-member continental union in Addis Ababa)\n- **አፍሪካ አዳራሽ (Africa Hall)** (Monumental venue of foundational Pan-African treaties)\n- **የዲፕሎማሲ መናኸሪያ** (Hub hosting the AU, UNECA, and global diplomatic corps).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የዲፕሎማሲ እና ስምምነት (Diplomacy and Treaties) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (32.2.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "በግንቦት 1955 ዓ.ም (1963 G.C.) በአዲስ አበባ የተመሰረተው የአፍሪካ አንድነት ድርጅት አህጉሪቱን ከቅኝ አገዛዝ ነፃ ለማውጣት ታሪካዊ ሚና ተጫውቷል።",
+                    "reading": "Beginbot 1955 A.M. (1963 G.C.) be'Addis Abeba yetemeseretew ye'Afrīka Andinet Dirjit ahigurītun keqign agezaz nets'a lemawitat tarikawī mīna tech'awitwall.",
+                    "translation": "Founded in Addis Ababa in May 1963, the OAU played a historic role in liberating the continent from colonialism."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (32.2.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "አዲስ አበባ የአፍሪካ ህብረት እና የተባበሩት መንግስታት የአፍሪካ ኢኮኖሚክ ኮሚሽን (UNECA) ዋና መቀመጫ በመሆን የዲፕሎማሲ መናኸሪያ ሆናለች።",
+                    "reading": "Addis Abeba ye'Afrīka Hibret ina yeTebabberut Mengistat ye'Afrīka Īkonomīk Komīshin (UNECA) wana meqemech'a bemehon yeDīplomasī menaherīya honalech.",
+                    "translation": "Addis Ababa is Africa's diplomatic capital as headquarters of the AU and UNECA."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (32.2.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የፓን-አፍሪካኒዝም እሳቤ የአህጉሪቱን ኢኮኖሚያዊ ውህደት፣ የሰላም ግንባታ እና የጋራ ብልጽግናን ለማረጋገጥ ወሳኝ መሰረት ነው 32.2.3።",
+                    "reading": "YePan-Afrīkanīzim isabē ye'ahigurītun īkonomīyawī wihidet, yeselam ginbata ina yegara bilts'iginan lemarigaget' wesagn meseret new.",
+                    "translation": "The vision of Pan-Africanism is an essential foundation to realize economic integration, peacebuilding, and shared prosperity."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ዲፕሎማሲ እና ስምምነት (Diplomacy and Treaties)"
+                "«የአፍሪካ ህብረት» = African Union! «አዲስ አበባ» = Diplomatic capital! «አፍሪካ አዳራሽ» = Africa Hall!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Addis Ababa hosts the third largest diplomatic corps in the world after Geneva and New York, serving as the permanent home of the African Union."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ዲፕሎማሲ እና ስምምነት (Diplomacy and Treaties)» አጠቃቀም በደረጃ 2 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "የአፍሪካ ህብረት (AU) ዋና መቀመጫ የትኛው ከተማ ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (32.2.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (32.2.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (32.2.3)።"
+                        "አዲስ አበባ (Addis Ababa)",
+                        "ካይሮ (Cairo)",
+                        "ናይሮቢ (Nairobi)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "Addis Ababa has hosted the OAU and AU headquarters since 1963."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ዓለም አቀፍ ግንኙነት እና ዲፕሎማሲ (Diplomacy & International Affairs)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 2)፡",
+                    "prompt": "«ፓን-አፍሪካኒዝም» የሚያራምደው ዋና እሴት ምንድን ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (32.2.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (32.2.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (32.2.3)።"
+                        "Separating nations",
+                        "Continental unity, political solidarity, and economic self-determination for Africans (የአፍሪካውያን አንድነት እና ትብብር)",
+                        "Importing goods only"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "Pan-Africanism champion continental solidarity and self-determination."
                 }
             ]
         },
@@ -16088,85 +16104,95 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ዲፕሎማሲ እና ስምምነት (Diplomacy and Treaties)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 32-2)?",
+                    "prompt": "የአፍሪካ አንድነት ድርጅት (OAU) የተመሰረተበት ታሪካዊ ህንፃ የትኛው ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (32.2.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (32.2.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (32.2.3)።"
+                        "ብሄራዊ ቲያትር (National Theatre)",
+                        "አፍሪካ አዳራሽ (Africa Hall)",
+                        "መርካቶ (Merkato)"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR C2 target-language standard."
+                    "explanation": "Africa Hall (አፍሪካ አዳራሽ) is the birthplace of the OAU in 1963."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ስምምነት_32_2»):",
+                    "prompt": "Type the Amharic word for 'union / league' in Fidel script (ህብረት):",
                     "acceptedAnswers": [
-                        "ስምምነት_32_2"
+                        "ህብረት",
+                        "hibret",
+                        "hibiret",
+                        "Hibret"
                     ],
-                    "explanation": "The target keyword was: 【ስምምነት_32_2】"
+                    "explanation": "ህብረት (Hibret) means 'union / solidarity'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u32-l3": {
         "id": "am-u32-l3",
-        "subject": "amharic",
-        "unit": 32,
-        "lessonNumber": 3,
-        "title": "ዓለም አቀፍ ግንኙነት እና ዲፕሎማሲ (Diplomacy & International Affairs) (Part 3)",
+        "unit": "am-u32",
         "level": "C2",
-        "objective": "Comprehensive mastery of ዲፕሎማሲ እና ስምምነት (Diplomacy and Treaties).",
+        "objective": "Examine multilateral diplomacy, UN founding membership, international peacekeeping missions (ኮሪያ, ኮንጎ, ሩዋንዳ, አቢዬ), international conventions, and the Vienna Convention.",
+        "prerequisites": [
+            "am-u32-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u32-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ዲፕሎማሲ እና ስምምነት (Diplomacy and Treaties) - ደረጃ 3) ተማሪዎች ስለ ዲፕሎማሲ እና ስምምነት (Diplomacy and Treaties) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Multilateral diplomacy encompasses founding membership in global institutions and global peacekeeping operations.\n\n1. Multilateral Principles:\n- **የተባበሩት መንግስታት ድርጅት (UN)** (Ethiopia as an original founding member in 1945)\n- **የሰላም አስከባሪ ኃይል** (Peacekeeping missions in Korea, Congo, Rwanda, Liberia, Darfur, and Abyei)\n- **ባለብዙ ወገን ዲፕሎማሲ** (Multilateral diplomacy across international organizations)\n- **የቪየና ኮንቬንሽን** (Vienna Convention codifying diplomatic privileges and protocols)\n- **የሰላም እና ጸጥታ ምክር ቤት** (Peace and Security Council resolutions).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የዲፕሎማሲ እና ስምምነት (Diplomacy and Treaties) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (32.3.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ኢትዮጵያ ከተባበሩት መንግስታት ድርጅት መስራች ሀገራት አንዷ ስትሆን በዓለም አቀፍ የሰላም ማስከበር ተልእኮዎች የላቀ አስተዋጽኦ አበርክታለች።",
+                    "reading": "Ītyop'ya keTebabberut Mengistat Dirjit mesrach hagerat andwa sitihon be'alem aqef yeselam masikeber te'ilikowoch yelaqe asitewats'o aberkitalech.",
+                    "translation": "As one of the founding members of the United Nations, Ethiopia has made outstanding contributions to international peacekeeping missions."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (32.3.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የኢትዮጵያ ሰላም አስከባሪ ኃይሎች በኮሪያ፣ በኮንጎ፣ በሩዋንዳ እና በአቢዬ በጀግንነት እና በገለልተኝነት ሰላምን አስከብረዋል።",
+                    "reading": "Ye'ītyop'ya selam asikebarī hayiloch beKorīya, beKongo, beRuwanda ina be'Abīyē bejegninet ina begelilitegninet selamn askebirewall.",
+                    "translation": "Ethiopian peacekeeping forces have maintained peace with bravery and impartiality in Korea, Congo, Rwanda, and Abyei."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (32.3.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የቪየና ኮንቬንሽን ሀገራት በዲፕሎማሲያዊ ግንኙነታቸው ወቅት ሊከተሏቸው የሚገቡ አለም አቀፍ ህጎችን እና መርሆዎችን ይደነግጋል 32.3.3።",
+                    "reading": "YeVīyēna Konvēnshin hagerat bedīplomasīyawī ginignunētachew weqt līketelwachew yemīgebu alem aqef higochin ina merihowochin yidenegigall.",
+                    "translation": "The Vienna Convention establishes international rules and principles that states must follow in diplomatic relations."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ዲፕሎማሲ እና ስምምነት (Diplomacy and Treaties)"
+                "«የተባበሩት መንግስታት» = UN founding member! «ሰላም አስከባሪ» = Peacekeeper! «ቪየና ኮንቬንሽን» = Diplomatic protocol!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Ethiopia is consistently among the top troop-contributing countries to UN Peacekeeping operations worldwide."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ዲፕሎማሲ እና ስምምነት (Diplomacy and Treaties)» አጠቃቀም በደረጃ 3 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "ኢትዮጵያ ከተባበሩት መንግስታት ድርጅት መስራቾች መካከል አንዷ ናት?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (32.3.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (32.3.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (32.3.3)።"
+                        "አዎ፣ መስራች አባል ናት (Yes, founding member)",
+                        "አይደለችም (No)",
+                        "በቅርቡ ነው የገባችው (Joined recently)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "Ethiopia signed the UN Charter in 1945 as one of the original 51 founding states."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ዓለም አቀፍ ግንኙነት እና ዲፕሎማሲ (Diplomacy & International Affairs)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 3)፡",
+                    "prompt": "«የሰላም አስከባሪ ኃይል» ዋነኛ ተልዕኮ ምንድን ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (32.3.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (32.3.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (32.3.3)።"
+                        "Starting conflicts",
+                        "Protecting civilians, preventing hostilities, and maintaining stability under UN mandate (በግጭት ቀጠናዎች ሰላምን እና መረጋጋትን ማስፈን)",
+                        "Collecting taxes"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "Peacekeepers stabilize conflict areas and protect civilian populations."
                 }
             ]
         },
@@ -16174,85 +16200,94 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ዲፕሎማሲ እና ስምምነት (Diplomacy and Treaties)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 32-3)?",
+                    "prompt": "ዓለም አቀፍ የዲፕሎማሲያዊ ግንኙነቶችን ህግ የሚደነግገው ዝነኛው ስምምነት የትኛው ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (32.3.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (32.3.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (32.3.3)።"
+                        "የፓሪስ ስምምነት (Paris Accord)",
+                        "የቪየና ኮንቬንሽን (Vienna Convention)",
+                        "የኪዮቶ ፕሮቶኮል (Kyoto Protocol)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR C2 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "The Vienna Convention on Diplomatic Relations governs international diplomacy."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ስምምነት_32_3»):",
+                    "prompt": "Type the Amharic word for 'peace' in Fidel script (ሰላም):",
                     "acceptedAnswers": [
-                        "ስምምነት_32_3"
+                        "ሰላም",
+                        "selam",
+                        "Selam"
                     ],
-                    "explanation": "The target keyword was: 【ስምምነት_32_3】"
+                    "explanation": "ሰላም (Selam) means 'peace'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u32-l4": {
         "id": "am-u32-l4",
-        "subject": "amharic",
-        "unit": 32,
-        "lessonNumber": 4,
-        "title": "ዓለም አቀፍ ግንኙነት እና ዲፕሎማሲ (Diplomacy & International Affairs) (Part 4)",
+        "unit": "am-u32",
         "level": "C2",
-        "objective": "Comprehensive mastery of ዲፕሎማሲ እና ስምምነት (Diplomacy and Treaties).",
+        "objective": "Appraise bilateral diplomacy, diplomatic immunity («የዲፕሎማሲያዊ ያለመከሰስ መብት»), diplomatic protocol, state visits («የመንግስት ጉብኝት»), and national foreign policy strategy.",
+        "prerequisites": [
+            "am-u32-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u32-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ዲፕሎማሲ እና ስምምነት (Diplomacy and Treaties) - ደረጃ 4) ተማሪዎች ስለ ዲፕሎማሲ እና ስምምነት (Diplomacy and Treaties) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Bilateral diplomacy structures state-to-state relations, economic treaties, and diplomatic immunity.\n\n1. Bilateral Protocol Concepts:\n- **ሁለትዮሽ ስምምነት** (Bilateral agreements and joint strategic pacts)\n- **ዲፕሎማሲያዊ ያለመከሰስ መብት** (Diplomatic immunity protecting envoys)\n- **የሹመት ደብዳቤ** (Letters of credence presented to the head of state)\n- **የዲፕሎማሲ ፕሮቶኮል** (Formal diplomatic protocol and official state banquets)\n- **የውጭ ጉዳይ ፖሊሲ** (National foreign policy anchored in economic diplomacy and mutual respect).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የዲፕሎማሲ እና ስምምነት (Diplomacy and Treaties) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (32.4.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "አዲሱ አምባሳደር የሹመት ደብዳቤያቸውን (Credentials) ለሀገሪቱ ርዕሰ ብሔር በታላቅ ዲፕሎማሲያዊ ፕሮቶኮል ስነ-ስርዓት አስረክበዋል።",
+                    "reading": "Addīsu ambasadēr yeshumet debdabbēyachewun (Credentials) lehagerītu ri'ise biĥēr betalaq dīplomasīyawī protokol sine-sir'at asrekibewall.",
+                    "translation": "The new ambassador presented their letters of credence to the head of state with full diplomatic protocol ceremonies."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (32.4.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ሁለቱ ሀገራት የንግድ፣ የኢንቨስትመንት እና የባህል ልውውጥን የሚያጠናክሩ ስትራቴጂካዊ የሁለትዮሽ ስምምነቶችን ተፈራርመዋል።",
+                    "reading": "Huletu hagerat yenigd, ye'īnvesitment ina yebahil liwwiwut'n yemīyat'enaqiru sitiratējīkawī yehuletiyosh simiminetochin teferarimewall.",
+                    "translation": "The two nations signed strategic bilateral agreements strengthening trade, investment, and cultural exchanges."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (32.4.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ዲፕሎማሲያዊ ያለመከሰስ መብት ዲፕሎማቶች ያለ ምንም ስጋት እና ጫና የተሰጣቸውን ሀገራዊ ተልዕኮ በነፃነት እንዲወጡ ያረጋግጣል 32.4.3።",
+                    "reading": "Dīplomasīyawī yalemekeses mebt dīplomatoch yale minim sigat ina ch'ana yeteset'achewun hagerawī te'iliko benets'anet indīwet'u yaregagit'all.",
+                    "translation": "Diplomatic immunity ensures diplomats execute their national mandates freely without fear or undue pressure."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ዲፕሎማሲ እና ስምምነት (Diplomacy and Treaties)"
+                "«አምባሳደር» = Ambassador! «ሁለትዮሽ ስምምነት» = Bilateral treaty! «ያለመከሰስ መብት» = Diplomatic immunity!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Presenting letters of credence (*የሹመት ደብዳቤ ማስረከብ*) to the President of Ethiopia at the National Palace is one of the most formal diplomatic ceremonies in the country."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ዲፕሎማሲ እና ስምምነት (Diplomacy and Treaties)» አጠቃቀም በደረጃ 4 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "አንድ አምባሳደር ስራውን ከመጀመሩ በፊት ለሀገሪቱ ርዕሰ ብሔር የሚያስረክበው ኦፊሴላዊ ሰነድ ምን ይባላል?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (32.4.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (32.4.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (32.4.3)።"
+                        "የሹመት ደብዳቤ (Letters of Credence)",
+                        "የግዢ ደረሰኝ (Receipt)",
+                        "ፓስፖርት ብቻ (Passport only)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "Letters of Credence authenticate the ambassador's plenipotentiary status."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ዓለም አቀፍ ግንኙነት እና ዲፕሎማሲ (Diplomacy & International Affairs)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 4)፡",
+                    "prompt": "«ዲፕሎማሲያዊ ያለመከሰስ መብት» ለምን ይጠቅማል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (32.4.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (32.4.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (32.4.3)።"
+                        "Free hotel meals",
+                        "Protecting diplomats from host country prosecution so they can conduct official business safely (ዲፕሎማቶች ያለ ስጋት ስራቸውን እንዲያከናውኑ)",
+                        "Driving any speed"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "Diplomatic immunity ensures diplomats perform foreign service without harassment."
                 }
             ]
         },
@@ -16260,85 +16295,95 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ዲፕሎማሲ እና ስምምነት (Diplomacy and Treaties)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 32-4)?",
+                    "prompt": "በሁለት ሀገራት መካከል ብቻ የሚደረግ የጋራ ስምምነት ምን ይባላል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (32.4.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (32.4.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (32.4.3)።"
+                        "ሁለትዮሽ ስምምነት (Bilateral accord)",
+                        "ባለብዙ ወገን ስምምነት (Multilateral accord)",
+                        "የአካባቢ ህግ (Local law)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR C2 target-language standard."
+                    "explanation": "ሁለትዮሽ ስምምነት (Bilateral agreement) binds two sovereign nation-states."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ስምምነት_32_4»):",
+                    "prompt": "Type the Amharic word for 'ambassador' in Fidel script (አምባሳደር):",
                     "acceptedAnswers": [
-                        "ስምምነት_32_4"
+                        "አምባሳደር",
+                        "ambasader",
+                        "ambassador",
+                        "Ambasader"
                     ],
-                    "explanation": "The target keyword was: 【ስምምነት_32_4】"
+                    "explanation": "አምባሳደር (Ambasadēr) means 'ambassador'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u32-l5": {
         "id": "am-u32-l5",
-        "subject": "amharic",
-        "unit": 32,
-        "lessonNumber": 5,
-        "title": "ዓለም አቀፍ ግንኙነት እና ዲፕሎማሲ (Diplomacy & International Affairs) (Part 5)",
+        "unit": "am-u32",
         "level": "C2",
-        "objective": "Comprehensive mastery of ዲፕሎማሲ እና ስምምነት (Diplomacy and Treaties).",
+        "objective": "Synthesize anti-colonial sovereignty (Adwa), Pan-Africanism (AU/OAU), multilateral peacekeeping, and bilateral protocol into a simulated UN Security Council diplomatic defense in Amharic.",
+        "prerequisites": [
+            "am-u32-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u32-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ዲፕሎማሲ እና ስምምነት (Diplomacy and Treaties) - ደረጃ 5) ተማሪዎች ስለ ዲፕሎማሲ እና ስምምነት (Diplomacy and Treaties) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "This capstone diplomatic unit synthesizes anti-colonial historical sovereignty, Pan-African leadership, UN multilateralism, and bilateral protocol into a simulated UN Security Council address.\n\n1. Diplomatic Synthesis Pillars:\n- **Historical Sovereignty:** «የአድዋ ድል እና ሉዓላዊነት...»\n- **Continental Solidarity:** «የአፍሪካ ህብረት እና ፓን-አፍሪካኒዝም...»\n- **Multilateral Peacekeeping:** «የተባበሩት መንግስታት ተልዕኮዎች...»\n- **Protocol & Foreign Policy:** «ሁለትዮሽ ስምምነቶች እና ዲፕሎማሲ...»",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የዲፕሎማሲ እና ስምምነት (Diplomacy and Treaties) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (32.5.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "በተባበሩት መንግስታት የጸጥታው ምክር ቤት ስብሰባ ላይ የኢትዮጵያ ልዑክ ዓለም አቀፍ አለመግባባቶች በሰላማዊ ድርድር እና በህግ እንዲፈቱ ጥሪ አቀረበ።",
+                    "reading": "BeTebabberut Mengistat yeTs'et'itaw Mikir Bēt sibseba lay ye'ītyop'ya li'uk alem aqef alemegibabatoc beneselamawī dirdir ina behig indīfetu t'irī aqerebe.",
+                    "translation": "In the UN Security Council session, the Ethiopian delegation appealed for international disputes to be resolved through peaceful dialogue and law."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (32.5.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የአድዋ መንፈስ፣ የፓን-አፍሪካኒዝም እሴቶች እና የዲፕሎማሲ ጥበብ ተደምረው ለዓለም ሰላም እና ፍትህ መጠበቅ የማይተካ ሚና ይጫወታሉ 32.5.2።",
+                    "reading": "Ye'Adwa menfes, yePan-Afrīkanīzim isētoch ina yeDīplomasī t'ibeb tedemirew le'alem selam ina fitih met'ebbaq yemayiteka mīna yich'awetallu.",
+                    "translation": "The spirit of Adwa, Pan-Africanist values, and diplomatic wisdom combine to play an indispensable role in maintaining world peace and justice."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (32.5.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ዲፕሎማሲ የሀገራትን ክብር የሚያስጠብቅ፣ ድልድዮችን የሚገነባ እና ለጋራ ልማት መንገድ የሚከፍት የሰላም መሳሪያ ነው 32.5.3።",
+                    "reading": "Dīplomasī yehageratn kibir yemīyasit'ebbiq, dildiyochn yemīgeneba ina legara limat menged yemīkefit yeselam mesarīya new.",
+                    "translation": "Diplomacy is an instrument of peace that preserves national dignity, builds bridges, and paves the path for mutual prosperity."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ዲፕሎማሲ እና ስምምነት (Diplomacy and Treaties)"
+                "Diplomatic Quad: Adwa (ሉዓላዊነት) + Pan-Africa (AU) + Multilateralism (UN) + Bilateral Protocol (አምባሳደር) = African Diplomatic Preeminence!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Ethiopia's unique status as a continuous sovereign state with centuries of independent diplomacy makes its diplomatic contributions foundational to African international relations."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ዲፕሎማሲ እና ስምምነት (Diplomacy and Treaties)» አጠቃቀም በደረጃ 5 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "ዓለም አቀፍ ግጭቶችን በሰላማዊ መንገድ ለመፍታት ዋናው ዲፕሎማሲያዊ መንገድ የትኛው ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (32.5.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (32.5.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (32.5.3)።"
+                        "ውይይት እና ድርድር (Dialogue & Negotiation)",
+                        "ጦርነት ማወጅ (Declaring war)",
+                        "ግንኙነት ማቋረጥ ብቻ (Severing ties only)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "Dialogue and multilateral diplomacy resolve international disputes peacefully."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ዓለም አቀፍ ግንኙነት እና ዲፕሎማሲ (Diplomacy & International Affairs)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 5)፡",
+                    "prompt": "በዚህ ክፍል ካጠናናቸው ውስጥ አዲስ አበባ በዓለም አቀፍ ደረጃ ያላት ታላቅ ስም ምንድን ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (32.5.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (32.5.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (32.5.3)።"
+                        "የአፍሪካ የዲፕሎማሲ መናኸሪያ (Diplomatic capital of Africa)",
+                        "የበረዶ ከተማ (Snow city)",
+                        "የወደብ ከተማ (Port city)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "Addis Ababa is renowned as the diplomatic capital of Africa."
                 }
             ]
         },
@@ -16346,24 +16391,28 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ዲፕሎማሲ እና ስምምነት (Diplomacy and Treaties)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 32-5)?",
+                    "prompt": "የኢትዮጵያ ዲፕሎማሲ ዋነኛ መርህ የትኛው ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (32.5.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (32.5.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (32.5.3)።"
+                        "የሌሎችን ጉዳይ ማበላሸት (Disrupting others)",
+                        "ጥላቻ ማሰራጨት (Spreading hatred)",
+                        "የሀገርን ሉዓላዊነት ማስከበር እና የጋራ ሰላምን ማጠናከር (Sovereignty & mutual peace)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR C2 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "Defending national sovereignty and cultivating mutual peace anchor diplomatic policy."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ስምምነት_32_5»):",
+                    "prompt": "Type the Amharic word for 'diplomacy' in Fidel script (ዲፕሎማሲ):",
                     "acceptedAnswers": [
-                        "ስምምነት_32_5"
+                        "ዲፕሎማሲ",
+                        "diplomacy",
+                        "diplomasi",
+                        "Diplomasi"
                     ],
-                    "explanation": "The target keyword was: 【ስምምነት_32_5】"
+                    "explanation": "ዲፕሎማሲ (Dīplomasī) means 'diplomacy'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u33-l1": {
