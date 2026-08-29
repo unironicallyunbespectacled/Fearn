@@ -8275,63 +8275,69 @@
     },
     "zh-u17-l1": {
         "id": "zh-u17-l1",
-        "subject": "mandarin",
-        "unit": 17,
-        "lessonNumber": 1,
-        "title": "条件复句：只要...就与只有...才 (Complex Conditionals) (Part 1)",
+        "unit": "zh-u17",
         "level": "B2",
-        "objective": "Comprehensive mastery of 条件复句关联词 (Conditionals: 只要...就 / 只有...才).",
+        "objective": "Master the sufficient condition pattern 只要 (zhǐyào)... 就 (jiù)... (As long as [condition], then [result will naturally follow]), contrasting it with simple hypothetical conditionals (如果...就...).",
+        "prerequisites": [
+            "zh-u16-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u16-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「条件复句：只要...就与只有...才 (Complex Conditionals)」（第1部分）的核心句法结构与条件复句关联词 (Conditionals: 只要...就 / 只有...才)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "「只要……就……」是汉语中表达**充分条件（Sufficient Condition）**最经典的关联词句式！\n\n1. 核心充分条件公式 (Sufficient Condition Formula):\n- **只要 + 充分条件 (A) ，(主语) + 就 + 产生的结果 (B)**\n- 语义内涵：**A 是导致 B 发生的充足条件**——只要满足了条件 A，无论其他因素如何，结果 B 就必然产生！\n- 典型例句：\n  - **只要**你坚持每天练习听力，中文水平**就**一定能显著提高。(As long as you insist on daily listening practice, your Chinese level will definitely improve significantly.)\n  - **只要**明天不下雨，我们**就**去香山爬山看红叶。(As long as it doesn't rain tomorrow, we will go climb Fragrant Hills to see red leaves.)\n\n2. 语用对比：「只要...就」 vs. 「如果...就」\n- **如果...就**：纯假设（If... then...，可能发生也可能不发生）。\n- **只要...就**：强调条件的充足有效性（Whenever/As long as... then naturally...）。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (17.1.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "王教授勉励青年学子说：‘科学探索的道路虽然充满坎坷，但只要大家保持求真务实的态度，就一定能够取得突破性成果！’",
+                    "reading": "Wáng jiàoshòu miǎnlì qīngnián xuézǐ shuō: ‘Kēxué tànsuǒ de dàolù suīrán chōngmǎn kǎnkě, dàn zhǐyào dàjiā bǎochí qiúzhēn wùshí de tàidù, jiù yídìng nénggòu qǔdé tūpòxìng chéngguǒ!’",
+                    "translation": "Professor Wang encouraged the young scholars saying: 'Although the path of scientific exploration is full of bumps, as long as everyone maintains an attitude of seeking truth and pragmatism, you will definitely achieve breakthrough results!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (17.1.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫自信地对同伴说：‘只要我们提前做好充足的学术答辩准备，明天的评审会就绝不会感到慌张。’",
+                    "reading": "Dàwèi zìxìn de duì tóngbàn shuō: ‘Zhǐyào wǒmen tíqián zuò hǎo chōngzú de xuéshù dábbiàn zhǔnbèi, míngtiān de píngshěnhuì jiù jué bú huì gǎndào huāngzhāng.’",
+                    "translation": "David said confidently to his peer: 'As long as we make adequate defense preparation in advance, we will by no means feel flustered in tomorrow's review.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (17.1.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "无论遇到什么跨文化沟通障碍，只要双方本着相互尊重与真诚理解的原则，就总能找到完美的解决方案。",
+                    "reading": "Wúlùn yù dào shénme kuàwénhuà gōutōng zhàng'ài, zhǐyào shuāngfāng běnzhe xiānghù zūnzhòng yǔ zhēnchéng lǐjiě de yuánzé, jiù zǒng néng zhǎodào wánměi de jiějué fāng'àn.",
+                    "translation": "No matter what intercultural communication barrier is encountered, as long as both sides adhere to mutual respect and sincere understanding, a perfect solution can always be found."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 条件复句关联词 (Conditionals: 只要...就 / 只有...才)"
+                "只要 (Sufficient Spark) + 就 (Natural Flame)! As long as A happens, B will surely follow!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Fragrant Hills (香山 Xiāngshān) in western Beijing is celebrated across China for its fiery red smoke tree leaves (香山红叶) each autumn."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「条件复句关联词 (Conditionals: 只要...就 / 只有...才)」在第1小节中的标准汉语语法规范？",
+                    "prompt": "句子‘只要明天天气晴朗，我们全家就去郊外野餐’中，‘只要...就...’表达的逻辑关系是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (17.1.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (17.1.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (17.1.3)。"
+                        "让步转折",
+                        "充分条件关系 (Sufficient condition relation)",
+                        "因果倒装"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "只要...就 establishes a sufficient condition relationship."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「条件复句：只要...就与只有...才 (Complex Conditionals)」语用情境与完整句式的选项（练习 1）：",
+                    "prompt": "下列哪组关联词能够准确填充句子‘______你愿意付出持之以恒的努力，______一定能掌握高阶汉语语法’？",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (17.1.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (17.1.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (17.1.3)。"
+                        "只有……才……",
+                        "只要……就…… (Zhǐyào... jiù... — As long as... then...)",
+                        "虽然……但是……"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "只要...就 emphasizes that diligent effort is a sufficient condition for mastering grammar."
                 }
             ]
         },
@@ -8339,85 +8345,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「条件复句关联词 (Conditionals: 只要...就 / 只有...才)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 17-1）？",
+                    "prompt": "关于‘只要...就...’句式的语法搭配，下列哪一项完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (17.1.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (17.1.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (17.1.3)。"
+                        "‘只要’必须与‘才’连用",
+                        "‘只要’引导充分条件，后项常与副词‘就/便’搭配呼应 (只要 introduces sufficient condition, paired with 就/便)",
+                        "‘只要’后面必须是否定句"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "只要 pairs with 就 (or 便) to introduce a sufficient condition."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («只要就_17_1»):",
+                    "prompt": "Type the Hanzi conjunction for 'as long as' (只要):",
                     "acceptedAnswers": [
-                        "只要就_17_1"
+                        "只要",
+                        "zhiyao",
+                        "zhǐyào",
+                        "Zhǐyào",
+                        "Zhiyao"
                     ],
-                    "explanation": "The target keyword was: 【只要就_17_1】"
+                    "explanation": "只要 (zhǐyào) means 'as long as / provided that'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u17-l2": {
         "id": "zh-u17-l2",
-        "subject": "mandarin",
-        "unit": 17,
-        "lessonNumber": 2,
-        "title": "条件复句：只要...就与只有...才 (Complex Conditionals) (Part 2)",
+        "unit": "zh-u17",
         "level": "B2",
-        "objective": "Comprehensive mastery of 条件复句关联词 (Conditionals: 只要...就 / 只有...才).",
+        "objective": "Master the necessary/sole condition pattern 只有 (zhǐyǒu)... 才 (cái)... (Only if [indispensable condition], then [can result occur]), contrasting its strict exclusivity with 只要...就.",
+        "prerequisites": [
+            "zh-u17-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u17-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「条件复句：只要...就与只有...才 (Complex Conditionals)」（第2部分）的核心句法结构与条件复句关联词 (Conditionals: 只要...就 / 只有...才)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "「只有……才……」是现代汉语中表达**唯一必要条件（Necessary / Indispensable Condition）**的核心句式！\n\n1. 核心必要条件公式 (Necessary Condition Formula):\n- **只有 + 唯一必要条件 (A) ，(主语) + 才 + 产生的结果 (B)**\n- 语义内涵：**A 是实现 B 的不可或缺的唯一门槛**——如果不满足条件 A，结果 B 绝对不可能发生（没有 A 就没有 B）！\n- 典型例句：\n  - **只有**通过严格的资格审查，**才**能正式参加全国研究生入学考试。(Only by passing strict qualification screening can one sit for the national postgraduate exam.)\n  - **只有**深入了解中华优秀传统文化，**才**能真正领会中国古典诗词的深邃意境。(Only by deeply understanding traditional culture can one truly grasp the profound artistic realm of classical poetry.)\n\n2. 终极逻辑对决：**「只要...就」 vs. 「只有...才」**\n- **只要 A 就 B (Sufficient)**：有 A 就够了（A 充分，可能有其他途径）。\n- **只有 A 才 B (Necessary)**：非 A 不可（A 是唯一必要通道，没有 A 就绝无 B）！",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (17.2.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "张教授严肃而亲切地对研究生们说：‘科学研究没有捷径可走，只有脚踏实地深入田野调查，才能得出经得起历史检验的真实结论。’",
+                    "reading": "Zhāng jiàoshòu yánsù ér qīnqiè de duì yánjiūshēngmen shuō: ‘Kēxué yánjiū méiyǒu jiéjìng kě zǒu, zhǐyǒu jiǎotàshídì shēnrù tiányě diàochá, cái néng déchū jīngdeqǐ lìshǐ jiǎnyàn de zhēnshí jiélùn.’",
+                    "translation": "Professor Zhang said seriously and warmly to postgraduates: 'There are no shortcuts in scientific research; only by grounding ourselves in thorough fieldwork can we reach truthful conclusions that stand the test of history.'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (17.2.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "在跨国学术研讨会上，主持人总结道：‘只有全球各国携手并肩、通力合作，我们才能有效应对气候变化与生态环境危机。’",
+                    "reading": "Zài kuàguó xuéshù yántǎohuì shang, zhǔchírén zǒngjié dào: ‘Zhǐyǒu quánqiú gèguó xiéshǒu bìngjiān, tōnglì hézuò, wǒmen cái néng yǒuxiào yìngduì qìhòu biànhuà yǔ shēngtài huánjìng wēijī.’",
+                    "translation": "At the international academic seminar, the host summarized: 'Only if countries worldwide join hands and cooperate fully can we effectively tackle climate change and ecological crises.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (17.2.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "大卫深有感触地写下日记：‘只有亲身融入中国老百姓的市井生活，才能真正听懂这片土地上鲜活生动的市井乡音与文化温度。’",
+                    "reading": "Dàwèi shēnyǒu gǎncù de xièxià rìjì: ‘Zhǐyǒu qīnshēn róngrù Zhōngguó lǎobǎixìng de shìjǐng shēnghuó, cái néng zhēnzhèng tīngdǒng zhè piàn tǔdì shang xiānhuó shēngdòng de shìjǐng xiāngyīn yǔ wénhuà wēndù.’",
+                    "translation": "David wrote in his diary with deep emotion: 'Only by immersing myself in the daily street life of ordinary Chinese people can I truly comprehend the vivid vernacular accents and cultural warmth of this land.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 条件复句关联词 (Conditionals: 只要...就 / 只有...才)"
+                "只有 (Only This Key) + 才 (Unlocks The Gate)! Without A, B is impossible!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "The classical phrase «脚踏实地» (jiǎotà-shídì, feet planted firmly on solid ground) from Song Dynasty Neo-Confucian philosophy embodies the Chinese virtue of rigorous conscientiousness."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「条件复句关联词 (Conditionals: 只要...就 / 只有...才)」在第2小节中的标准汉语语法规范？",
+                    "prompt": "表达‘年满十八周岁是考取驾照的唯一法定前提’时，最精准有力的句式是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (17.2.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (17.2.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (17.2.3)。"
+                        "只要年满十八周岁就考取驾照",
+                        "只有年满十八周岁才能考取驾照 (Zhǐyǒu... cái... — Necessary legal prerequisite)",
+                        "虽然年满十八周岁但是考取驾照"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "只有...才 marks the indispensable legal age requirement."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「条件复句：只要...就与只有...才 (Complex Conditionals)」语用情境与完整句式的选项（练习 2）：",
+                    "prompt": "句子‘科学探索中，只有不怕失败的人，才能登上科学的最高峰’突出了条件的：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (17.2.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (17.2.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (17.2.3)。"
+                        "任意性",
+                        "唯一必要性与不可或缺性 (Indispensable necessity)",
+                        "偶然性"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "只有...才 underscores that perseverance through failure is the indispensable condition for summiting scientific peaks."
                 }
             ]
         },
@@ -8425,85 +8442,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「条件复句关联词 (Conditionals: 只要...就 / 只有...才)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 17-2）？",
+                    "prompt": "对比 A‘只要学就能学会’与 B‘只有学才能学会’，下列分析正确的是：",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (17.2.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (17.2.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (17.2.3)。"
+                        "A 强调学习是充分条件（学了就能会）；B 强调学习是唯一必要途径（不学绝不会）(A: sufficient condition; B: indispensable necessity)",
+                        "两者逻辑完全一致",
+                        "B 是错误的病句"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "只要...就 indicates sufficiency; 只有...才 indicates indispensable necessity."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («只要就_17_2»):",
+                    "prompt": "Type the 4-character idiom for 'feet planted firmly on solid ground / pragmatic and down-to-earth' (脚踏实地):",
                     "acceptedAnswers": [
-                        "只要就_17_2"
+                        "脚踏实地",
+                        "jiaotashidi",
+                        "jiǎotàshídì",
+                        "Jiǎotàshídì",
+                        "Jiaotashidi",
+                        "腳踏實地"
                     ],
-                    "explanation": "The target keyword was: 【只要就_17_2】"
+                    "explanation": "脚踏实地 (jiǎotà-shídì) means 'down-to-earth / conscientious and realistic'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u17-l3": {
         "id": "zh-u17-l3",
-        "subject": "mandarin",
-        "unit": 17,
-        "lessonNumber": 3,
-        "title": "条件复句：只要...就与只有...才 (Complex Conditionals) (Part 3)",
+        "unit": "zh-u17",
         "level": "B2",
-        "objective": "Comprehensive mastery of 条件复句关联词 (Conditionals: 只要...就 / 只有...才).",
+        "objective": "Master the unconditional conditional constructions with 无论 (wúlùn) / 不管 (bùguǎn) / 哪怕 (nǎpà)... 都 / 也... (No matter what / regardless of condition, the result remains unchanged).",
+        "prerequisites": [
+            "zh-u17-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u17-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「条件复句：只要...就与只有...才 (Complex Conditionals)」（第3部分）的核心句法结构与条件复句关联词 (Conditionals: 只要...就 / 只有...才)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "「无论 / 不管……都 / 也……」是汉语中表达**无条件（Unconditional / Invariable Clause）**的最高阶关联句式！\n\n1. 核心无条件公式 (Unconditional Formula):\n- **无论 / 不管 + [疑问代词 (什么/谁/怎么/哪儿) / 正反选择 (A还是B) / 肯定否定 (A不A)] ，主语 + 都 / 也 + 恒定结果**\n\n2. 引导条件的固定三种形态 (3 Types of Invariable Conditions):\n- **疑问代词型**：无论**什么**困难 / 无论**谁**来 / 无论**走哪条路**，我们**都**要准时到达！\n- **正反选择型**：无论**晴天还是雨天**，晨跑锻炼**都**从不间断。\n- **肯否并列型**：不管**大家同意不同意**，这项学术规定**都**必须严格遵守。\n\n3. 铁律法则：**「无论/不管」从句中绝不能放确定的单一条件**（绝不说 *无论下雨我都去，必须说 无论下不下雨我都去）！",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (17.3.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "无论前方的科研道路多么坎坷崎岖，探索真理的科研工作者们都绝不会轻易放弃心中的崇高理想。",
+                    "reading": "Wúlùn qiánfāng de kēyán dàolù duōme kǎnkě qīqū, tànsuǒ zhēnlǐ de kēyán gōngzuòzhěmen dōu jué bú huì qīngyì fàngqì xīnzhōng de chónggāo lǐxiǎng.",
+                    "translation": "No matter how rough and rugged the scientific road ahead is, scientific workers exploring truth will never easily abandon the lofty ideals in their hearts."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (17.3.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "不管工作多么繁忙，李明每周六上午都会雷打不动地去国家博物馆担任义务中英文双语讲解员。",
+                    "reading": "Bùguǎn gōngzuò duōme fánmáng, Lǐ Míng měi zhōuliù shàngwǔ dōu huì léidǎbúdòng de qù guójiā bówùguǎn dānrèn yiwù zhōng-yīngwén shuāngyǔ jiǎngjiěyuán.",
+                    "translation": "No matter how busy work is, Li Ming unshakeably goes to the National Museum every Saturday morning to serve as a volunteer bilingual docent."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (17.3.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "现代社会瞬息万变，但无论外部时代环境如何变迁，中华民族崇尚诚信与孝悌的优良传统美德都历久弥新。",
+                    "reading": "Xiàndài shèhuì shùnxīwànbiàn, dàn wúlùn wàibù shídài huánjìng rúhé biànqiān, Zhōnghuá mínzú chóngshàng chéngxìn yǔ xiàotì de yōuliáng chuántǒng měidé dōu lìjiǔmíxīn.",
+                    "translation": "Modern society changes in an instant, but no matter how the external era shifts, the Chinese nation's fine traditional virtues of valuing honesty and filial piety remain evergreen over time."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 条件复句关联词 (Conditionals: 只要...就 / 只有...才)"
+                "无论/不管 MUST have options (什么/谁/A不A/A还是B) + 都/也 (Always Unchanged)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "The idiom «雷打不动» (léidǎ-búdòng, unshakeable even by thunder) vividly conveys unbreakable commitment and discipline in Chinese culture."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「条件复句关联词 (Conditionals: 只要...就 / 只有...才)」在第3小节中的标准汉语语法规范？",
+                    "prompt": "关于‘无论’后面的从句内容，下列哪个句子符合现代汉语语法规范？",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (17.3.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (17.3.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (17.3.3)。"
+                        "无论明天下雨，我都去爬山 (*Wrong: single definite condition)",
+                        "无论明天下不下雨，我都去爬山 (Wúlùn míngtiān xià bu xià yǔ, wǒ dōu qù páshān — Alternative A-not-A condition)",
+                        "无论去北京，我都坐高铁"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "无论 requires an interrogative or alternative condition (e.g. 下不下雨), never a single definite assertion."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「条件复句：只要...就与只有...才 (Complex Conditionals)」语用情境与完整句式的选项（练习 3）：",
+                    "prompt": "句子‘不管遇到多大的阻力，团队都必须按期完成数字化归档工程’中，‘不管...都...’的作用是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (17.3.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (17.3.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (17.3.3)。"
+                        "排除一切干扰条件，强调结果的绝对确定性 (Excludes all conditional variance, stressing invariable outcome)",
+                        "提出假设前提",
+                        "表示转折退步"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "不管...都 eliminates conditional variations to assert an invariable certainty."
                 }
             ]
         },
@@ -8511,85 +8540,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「条件复句关联词 (Conditionals: 只要...就 / 只有...才)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 17-3）？",
+                    "prompt": "下列哪个关联词句式在语序与连词呼应上完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (17.3.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (17.3.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (17.3.3)。"
+                        "虽然困难，但是都克服",
+                        "只有付出努力，就能考出好成绩",
+                        "无论大家有什么不同意见，都可以在学术讨论会上畅所欲言 (Wúlùn dàjiā yǒu shénme bùtóng yìjiàn, dōu kěyǐ zài xuéshù tǎolùnhuì shang chàngsuǒyùyán)"
                     ],
                     "answerIndex": 2,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "explanation": "无论 + 疑问词 (什么) + 都 correctly forms an unconditional sentence."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («只要就_17_3»):",
+                    "prompt": "Type the Hanzi for 'unshakeable / come rain or shine' (雷打不动):",
                     "acceptedAnswers": [
-                        "只要就_17_3"
+                        "雷打不动",
+                        "leidabudong",
+                        "léidǎbúdòng",
+                        "Léidǎbúdòng",
+                        "Leidabudong",
+                        "雷打不動"
                     ],
-                    "explanation": "The target keyword was: 【只要就_17_3】"
+                    "explanation": "雷打不动 (léidǎ-búdòng) means 'unshakeable / determined come rain or shine'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u17-l4": {
         "id": "zh-u17-l4",
-        "subject": "mandarin",
-        "unit": 17,
-        "lessonNumber": 4,
-        "title": "条件复句：只要...就与只有...才 (Complex Conditionals) (Part 4)",
+        "unit": "zh-u17",
         "level": "B2",
-        "objective": "Comprehensive mastery of 条件复句关联词 (Conditionals: 只要...就 / 只有...才).",
+        "objective": "Master the exclusive conditional 除非 (chúfēi)... 才... (Only if / Unless... then...) and 除非... 否则/不然... (Unless..., otherwise... will occur).",
+        "prerequisites": [
+            "zh-u17-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u17-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「条件复句：只要...就与只有...才 (Complex Conditionals)」（第4部分）的核心句法结构与条件复句关联词 (Conditionals: 只要...就 / 只有...才)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "「除非」是汉语中表达**排除其他一切可能、指定唯一拯救条件（Exclusive Condition）**的高阶关联词！\n\n1. 两种核心「除非」句型系统 (Two Core 除非 Patterns):\n- **正向唯一授权式：除非 + 唯一条件 (A) ，才 + 允许发生的结果 (B)**\n  - **除非**有院长的亲笔签名，**才**能借阅这些绝版珍贵善本古籍。(Only with the dean's signature can one borrow these out-of-print rare ancient books.)\n  - 语义等同于：只有……才……（语气更庄重决绝）。\n\n- **反向警示排除式：除非 + 救赎条件 (A) ，否则 / 不然 + 必然招致的恶果 (B)**\n  - 我们必须立即出发，**除非**你想在早高峰时段被彻底堵在跨江大桥上。(We must leave immediately, unless you want to get completely stuck on the bridge during rush hour.)\n  - **除非**全体成员齐心协力，**否则**这项跨国科研项目绝不可能在年底前按时交付！",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (17.4.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "图书馆古籍特藏部规定：‘除非持有国家级科研项目的正式介绍信，外来学者才被允许查阅这批明清古籍孤本。’",
+                    "reading": "Túshūguǎn gǔjí tècángbù guīdìng: ‘Chúfēi chíyǒu guójiājí kēyán xiàngmù de zhèngshì jièshàoxìn, wàilái xuézhě cái bèi yǔnxǔ cháyuè zhè pī Míng-Qīng gǔjí gūběn.’",
+                    "translation": "The rare ancient books division stipulates: 'Unless holding an official letter of introduction from a national research project, visiting scholars are not permitted to consult this batch of Ming-Qing unique editions.'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (17.4.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "张总工程师神情严肃地对工程队强调：‘除非我们严格按照最高抗震标准施工，否则绝不能盲目加快工期进度！’",
+                    "reading": "Zhāng zǒnggōngchéngshī shénqíng yánsù de duì gōngchéngduì qiángdiào: ‘Chúfēi wǒmen yángé ànzhào zuìgāo kàngzhèn biāozhǔn shīgōng, fǒuzé jué bù néng mángmù jiākuài gōngqī jìndù!’",
+                    "translation": "Chief Engineer Zhang emphasized seriously: 'Unless we construct strictly according to the highest seismic standards, we must never blindly accelerate the construction schedule!'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (17.4.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "大卫对李明说：‘今天晚上我一定要把这篇中文学术论文写完，除非电脑突然死机，不然我绝不离开图书馆！’",
+                    "reading": "Dàwèi duì Lǐ Míng shuō: ‘Jīntiān wǎnshang wǒ yídìng yào bǎ zhè piān zhōngwén xuéshù lùnwén xiěwán, chúfēi diànnǎo tūrán sǐjī, bùrán wǒ jué bù líkāi túshūguǎn!’",
+                    "translation": "David said to Li Ming: 'Tonight I must finish writing this Chinese academic paper; unless my computer suddenly crashes, otherwise I will never leave the library!'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 条件复句关联词 (Conditionals: 只要...就 / 只有...才)"
+                "除非 A 才 B = Exclusive Permission! 除非 A 否则 B = Do A or Face Disaster B!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "China's protection and restoration of ancient rare books (古籍善本保护与修复) is regarded as a national cultural preservation mission spanning millennia of paper heritage."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「条件复句关联词 (Conditionals: 只要...就 / 只有...才)」在第4小节中的标准汉语语法规范？",
+                    "prompt": "句子‘除非你亲自向王教授当面请教，否则很难彻底弄懂这个古汉语语法难题’中，‘否则’引导的分句表达的是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (17.4.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (17.4.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (17.4.3)。"
+                        "如果不满足‘亲自请教’这一前提将必然导致的消极后果 (Negative consequence if condition is unmet)",
+                        "积极的结果",
+                        "无所谓的选择"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "否则/不然 introduces the undesirable consequence that will inevitably occur if the sole condition is not fulfilled."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「条件复句：只要...就与只有...才 (Complex Conditionals)」语用情境与完整句式的选项（练习 4）：",
+                    "prompt": "将‘只有通过体能测试，才能加入校篮球队’用‘除非’句式改写，保持原意且规范的是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (17.4.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (17.4.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (17.4.3)。"
+                        "除非通过体能测试，才能加入校篮球队 (Chúfēi... cái... — Exclusive condition)",
+                        "除非通过体能测试，就能加入校篮球队",
+                        "虽然通过体能测试，但是加入校篮球队"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "除非 A 才能 B is the authoritative equivalent of 只有 A 才能 B."
                 }
             ]
         },
@@ -8597,85 +8638,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「条件复句关联词 (Conditionals: 只要...就 / 只有...才)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 17-4）？",
+                    "prompt": "关于‘除非……否则……’句式的逻辑搭配，下列哪一项完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (17.4.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (17.4.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (17.4.3)。"
+                        "‘除非’提出阻止坏结果发生的唯一条件，‘否则’引出若不满足条件所产生的后果 (除非 poses sole preventive condition; 否则 introduces consequent result)",
+                        "‘否则’后面必须跟‘才’",
+                        "‘除非’后面只能跟名词"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "explanation": "除非...否则... is the canonical Chinese 'unless... otherwise...' structure."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («只要就_17_4»):",
+                    "prompt": "Type the Hanzi conjunction for 'otherwise / or else' (否则):",
                     "acceptedAnswers": [
-                        "只要就_17_4"
+                        "否则",
+                        "fouze",
+                        "fǒuzé",
+                        "Fǒuzé",
+                        "Fouze",
+                        "否則"
                     ],
-                    "explanation": "The target keyword was: 【只要就_17_4】"
+                    "explanation": "否则 (fǒuzé) means 'otherwise / or else'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u17-l5": {
         "id": "zh-u17-l5",
-        "subject": "mandarin",
-        "unit": 17,
-        "lessonNumber": 5,
-        "title": "条件复句：只要...就与只有...才 (Complex Conditionals) (Part 5)",
+        "unit": "zh-u17",
         "level": "B2",
-        "objective": "Comprehensive mastery of 条件复句关联词 (Conditionals: 只要...就 / 只有...才).",
+        "objective": "Synthesize all conditional systems (只要...就, 只有...才, 无论/不管...都, 除非...才/否则) into sophisticated policy debates, academic defenses, and cross-cultural negotiation discourse.",
+        "prerequisites": [
+            "zh-u17-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u17-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「条件复句：只要...就与只有...才 (Complex Conditionals)」（第5部分）的核心句法结构与条件复句关联词 (Conditionals: 只要...就 / 只有...才)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在本课中，我们将系统整合第十七单元的所有条件复句逻辑网络，建立完整的条件论辩思维矩阵，并应用于高层次学术辩论、国际商务谈判与外交政策论述！\n\n1. 汉语条件复句全景四维矩阵 (Master Conditional Matrix):\n| 条件逻辑分类 | 核心关联词公式 | 逻辑哲学内涵与典型范式 |\n| :--- | :--- | :--- |\n| **充分条件** | **只要 A ，就 B** | 充足保证：只要努力，就能成功 |\n| **必要条件** | **只有 A ，才 B** | 唯一门槛：只有脚踏实地，才能铸就辉煌 |\n| **无条件** | **无论 / 不管 X ，都 / 也 Y** | 恒定不移：无论风雨多大，都勇往直前 |\n| **排除警示** | **除非 A ，才 B / 否则 C** | 决绝底线：除非全员合作，否则无法按期完工 |\n\n2. 第十七单元实战交际演练 (Unit 17 Synthesis Debate):\n- 跨国人工智能伦理学术论坛：技术普惠的充分条件、数据安全治理的必要门槛、伦理合规的无条件底线。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (17.5.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "大会发言人深刻论述道：‘在人工智能高速发展的时代，只要我们坚持以人为本的科技向善理念，人工智能就能成为造福全人类的强大工具；但只有建立起健全严密的国际监管法律框架，才能从根本上防范未知安全风险！’",
+                    "reading": "Dàhuì fāyánrén shēnkè lùnshù dào: ‘Zài réngōngzhìnéng gāosù fāzhǎn de shídài, zhǐyào wǒmen jiānchí yǐrénwéiběn de kējì xiàngshàn lǐniàn, réngōngzhìnéng jiù néng chéngwéi zàofú quán rénlèi de qiángdà gōngjù; dàn zhǐyǒu jiànlì qǐ jiànquán yánmì de guójì jiānguǎn fǎlǜ kuàngjià, cái néng cóng gēnběn shang fángfàn wèizhī ānquán fēngxiǎn!’",
+                    "translation": "The conference spokesperson elaborated deeply: 'In this era of rapid AI advancement, as long as we adhere to human-centered tech-for-good ideals, AI can become a powerful tool benefiting all humanity; but only by establishing a sound international regulatory legal framework can we fundamentally guard against unknown security risks!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (17.5.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "张教授在答辩总结中指出：‘无论技术形态如何迭代演进，科研伦理道德底线都必须毫不动摇地坚守；除非所有算法研发都公开透明，否则公众的知情权与信任感将面临严峻挑战。’",
+                    "reading": "Zhāng jiàoshòu zài dábbiàn zǒngjié zhōng zhǐchū: ‘Wúlùn jìshù xíngtài rúhé diédài yǎnjìn, kēyán lúnlǐ dàodé dǐxiàn dōu bìxū háobù dòngyáo de jiānshǒu; chúfēi suǒyǒu suànfǎ yánfā dōu gōngkāi tòumíng, fǒuzé gōngzhòng de zhīqíngquán yǔ xìnrèngǎn jiāng miànlín yánjùn tiǎozhàn.’",
+                    "translation": "Professor Zhang pointed out in the defense summary: 'No matter how technological forms iterate, scientific ethical baselines must be unshakeably defended; unless all algorithm development is open and transparent, public right to know and trust will face grave challenges.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (17.5.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "大卫在国际辩论赛上总结陈词：‘百闻不如一见，只要大家亲自走进中国的高新科研基地，就一定会被当代中国青年学者的创新活力深深打动！’",
+                    "reading": "Dàwèi zài guójì biànlùnsài shang zǒngjié chéncí: ‘Bǎiwén bùrú yíjiàn, zhǐyào dàjiā qīnzì zǒujìn Zhōngguó de gāoxīn kēyán jīdì, jiù yídìng huì bèi dāngdài Zhōngguó qīngnián xuézhě de chuàngxīn huólì shēndù dǎdòng!’",
+                    "translation": "David concluded in the international debate: 'Seeing once is better than hearing a hundred times; as long as everyone steps in person into China's high-tech research centers, you will definitely be deeply moved by contemporary Chinese young scholars' innovative vitality!'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 条件复句关联词 (Conditionals: 只要...就 / 只有...才)"
+                "The 4 Pillars of Logic: 只要...就 (Sufficient), 只有...才 (Necessary), 无论...都 (Invariable), 除非...否则 (Exclusive)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "The concept of «科技向善» (Tech for Good) has become a defining guiding philosophy in modern Chinese technological innovation and AI governance debates."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「条件复句关联词 (Conditionals: 只要...就 / 只有...才)」在第5小节中的标准汉语语法规范？",
+                    "prompt": "句子‘只有具备严谨的治学态度，才能在学术探索中攀登科学高峰’运用了哪种条件复句？",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (17.5.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (17.5.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (17.5.3)。"
+                        "必要条件复句 (Necessary condition complex sentence)",
+                        "无条件复句",
+                        "转折复句"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "只有...才 is the defining marker of a necessary condition complex sentence."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「条件复句：只要...就与只有...才 (Complex Conditionals)」语用情境与完整句式的选项（练习 5）：",
+                    "prompt": "在论辩中表达‘不管外部环境发生什么不可预测的变化，我们坚持自主创新的战略定力都绝不会动摇’，选用‘不管...都...’旨在凸显：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (17.5.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (17.5.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (17.5.3)。"
+                        "随时准备放弃",
+                        "在任何严峻条件下都保持战略定力的坚不可摧 (Indestructible strategic determination under any condition)",
+                        "环境已经非常优越"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "不管...都 eliminates conditional variations to assert unshakeable strategic resolve."
                 }
             ]
         },
@@ -8683,24 +8736,30 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「条件复句关联词 (Conditionals: 只要...就 / 只有...才)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 17-5）？",
+                    "prompt": "关于条件复句四维体系的逻辑特征，下列哪一项总括完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (17.5.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (17.5.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (17.5.3)。"
+                        "‘只要’和‘只有’可以无差别混用",
+                        "‘除非’只能引导否定从句",
+                        "‘只要...就’表充分保证，‘只有...才’表唯一必要门槛，‘无论...都’表全景无条件，‘除非...否则’表排他警示 (Fourfold systemic conditional logic)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "This succinctly encapsulates the complete four-dimensional logic of Mandarin conditional sentences."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («只要就_17_5»):",
+                    "prompt": "Type the 4-character phrase for 'tech for good / technology oriented toward human welfare' (科技向善):",
                     "acceptedAnswers": [
-                        "只要就_17_5"
+                        "科技向善",
+                        "kejixiangshan",
+                        "kējìxiàngshàn",
+                        "Kējìxiàngshàn",
+                        "Kejixiangshan",
+                        "科技向善"
                     ],
-                    "explanation": "The target keyword was: 【只要就_17_5】"
+                    "explanation": "科技向善 (kējì xiàngshàn) means 'technology for good'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u18-l1": {
