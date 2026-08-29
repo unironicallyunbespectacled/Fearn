@@ -7295,63 +7295,69 @@
     },
     "zh-u15-l1": {
         "id": "zh-u15-l1",
-        "subject": "mandarin",
-        "unit": 15,
-        "lessonNumber": 1,
-        "title": "比较句：比、没有与不如 (Comparatives) (Part 1)",
+        "unit": "zh-u15",
         "level": "B1",
-        "objective": "Comprehensive mastery of 比较句式比与不如 (Comparatives: 比/没有/不如).",
+        "objective": "Master the foundational 比 (bǐ) comparative formula (A 比 B + Adjective/Predicate) and enforce the strict prohibition against degree adverbs (很/非常/十分) in 比 sentences.",
+        "prerequisites": [
+            "zh-u14-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u14-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「比较句：比、没有与不如 (Comparatives)」（第1部分）的核心句法结构与比较句式比与不如 (Comparatives: 比/没有/不如)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "「比字句」是汉语表达事物之间**性质、特征或状态程度差异**的最核心句式！\n\n1. 核心比较公式 (The Core 比 Formula):\n- **A 比 B + 形容词 / 谓语**\n- 例子：\n  - 哥哥**比**弟弟**高**。(Elder brother is taller than younger brother.)\n  - 今天**比**昨天**冷**。(Today is colder than yesterday.)\n\n2. 黄金铁律一：**严禁在形容词前加「很 / 非常 / 十分 / 特别」！**\n  - 错误：*哥哥比弟弟很高。 / *今天比昨天非常冷。\n  - 原因：「比」本身已经蕴含了程度差异的对比，再加上「很/非常」会导致语义语法冲突！\n\n3. 唯一合法的程度加深副词：**更 (gèng) 与 还 (hái)**！\n  - 哥哥很高，但爸爸**比哥哥更高 / 还要高**！(Dad is even taller than brother!)",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (15.1.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "北京的秋天晴空万里、气候宜人，比炎热潮湿的夏天舒服得多。",
+                    "reading": "Běijīng de qiūtiān qíngkōngwànlǐ, qìhòu yírén, bǐ yánrè cháoshī de xiàtiān shūfu de duō.",
+                    "translation": "Beijing's autumn has clear skies and pleasant weather, much more comfortable than the hot and humid summer."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (15.1.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫的中文听力进步很大，今天的综合测试比上个月考得更好、更流利。",
+                    "reading": "Dàwèi de zhōngwén tīnglì jìnbù hěn dà, jīntiān de zōnghé cèshì bǐ shàng gè yuè kǎo de gèng hǎo, gèng liúlì.",
+                    "translation": "David's Chinese listening has progressed greatly; today's comprehensive test went even better and more fluently than last month."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (15.1.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "乘坐复兴号高速铁路从北京到上海比乘坐普通特快列车快捷得多，节省了整整十个小时。",
+                    "reading": "Chéngzuò Fùxīnghào gāosù tiělù cóng Běijīng dào Shànghǎi bǐ chéngzuò pǔtōng tèkuài lièchē kuàijié de duō, jiéshěng le zhěngzhěng shí gè xiǎoshí.",
+                    "translation": "Taking the Fuxing high-speed railway from Beijing to Shanghai is much faster than standard express trains, saving a full ten hours."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 比较句式比与不如 (Comparatives: 比/没有/不如)"
+                "A 比 B + Adj! NEVER use 很/非常 with 比! Only 更 (gèng) and 还 (hái) are allowed!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Beijing's golden autumn (金秋北京 Jīnqiū Běijīng) is celebrated in Chinese classical and modern literature as the city's most poetic season."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「比较句式比与不如 (Comparatives: 比/没有/不如)」在第1小节中的标准汉语语法规范？",
+                    "prompt": "下列哪一个比字句完全符合现代汉语语法规范？",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (15.1.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (15.1.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (15.1.3)。"
+                        "他比我很高 (*Wrong: 很 is forbidden in 比)",
+                        "他比我更努力 (Tā bǐ wǒ gèng nǔlì — A 比 B + 更 + Adj)",
+                        "他很比我努力"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "Degree adverbs like 很/非常 cannot modify adjectives in 比 sentences; 更/还 must be used instead."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「比较句：比、没有与不如 (Comparatives)」语用情境与完整句式的选项（练习 1）：",
+                    "prompt": "句子‘今天比昨天冷’中，如果想要表达‘程度进一步加深（even colder）’，应当加入哪个副词？",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (15.1.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (15.1.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (15.1.3)。"
+                        "非常",
+                        "更 (gèng) / 还 (hái)",
+                        "很"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "更 or 还 denotes 'even more' in comparative sentences."
                 }
             ]
         },
@@ -7359,85 +7365,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「比较句式比与不如 (Comparatives: 比/没有/不如)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 15-1）？",
+                    "prompt": "关于比字句的形容词修饰规则，下列哪一项完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (15.1.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (15.1.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (15.1.3)。"
+                        "可以使用‘很’，如：他比我很高",
+                        "严禁使用‘很/非常’，但可以使用‘更/还’ (Strictly no 很/非常, but 更/还 is permitted)",
+                        "形容词后不能带任何补语"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "explanation": "比 sentences forbid 很/非常, but permit 更/还."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («比我大_15_1»):",
+                    "prompt": "Type the Hanzi for 'even better / further improved' (更好):",
                     "acceptedAnswers": [
-                        "比我大_15_1"
+                        "更好",
+                        "genghao",
+                        "gènghǎo",
+                        "Gènghǎo",
+                        "Genghao"
                     ],
-                    "explanation": "The target keyword was: 【比我大_15_1】"
+                    "explanation": "更好 (gènghǎo) means 'even better'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u15-l2": {
         "id": "zh-u15-l2",
-        "subject": "mandarin",
-        "unit": 15,
-        "lessonNumber": 2,
-        "title": "比较句：比、没有与不如 (Comparatives) (Part 2)",
+        "unit": "zh-u15",
         "level": "B1",
-        "objective": "Comprehensive mastery of 比较句式比与不如 (Comparatives: 比/没有/不如).",
+        "objective": "Master expressing specific, approximate, or large numerical differences in 比 sentences (A 比 B + Adj + 一点儿 / 得多 / 多了 / 具体数量词: 比我大三岁, 比昨天贵十块钱).",
+        "prerequisites": [
+            "zh-u15-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u15-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「比较句：比、没有与不如 (Comparatives)」（第2部分）的核心句法结构与比较句式比与不如 (Comparatives: 比/没有/不如)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "当我们需要精确量化或大致描绘事物之间的**差异幅度**时，数量差额词必须放在**形容词之后充当补语**！\n\n1. 差异幅度补语公式 (Differential Complements):\n- **微小差异：A 比 B + 形容词 + 一点儿 / 一些 (a little bit)**\n  - 这件衣服**比**那件**贵一点儿**。(A little bit more expensive.)\n- **巨大差异：A 比 B + 形容词 + 得多 / 多了 (much more / way more)**\n  - 中国的高铁**比**传统绿皮火车**快得多 / 快多了**。(Much faster.)\n- **具体精确数量：A 比 B + 形容词 + 具体数量短语 (Precise Quantity)**\n  - 李明**比**大卫**大两岁**。(Li Ming is two years older than David.)\n  - 这本字典**比**那本**厚两百页**。(200 pages thicker.)\n\n2. 语序绝对铁律：**数量词必须在形容词之后！** 绝不能说 *比我三岁大。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (15.2.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "李明笑着对大卫说：‘我今年二十二岁，正好比你大两岁，你应该叫我李明哥！’",
+                    "reading": "Lǐ Míng xiàozhe duì Dàwèi shuō: ‘Wǒ jīnnián èrshí'èr suì, zhènghǎo bǐ nǐ dà liǎng suì, nǐ yīnggāi jiào wǒ Lǐ Míng gē!’",
+                    "translation": "Li Ming smiled and said to David: 'I am 22 years old this year, exactly two years older than you; you should call me Brother Li Ming!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (15.2.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "随着城市绿化建设的推进，今年的公园绿地面积比去年增加了整整百分之十五。",
+                    "reading": "Suízhe chéngshì lǜhuà jiànshè de tuījìn, jīntiān de gōngyuán lǜdì miànjī bǐ qùnián zēngjiā le zhěngzhěng bǎifēnzhīshíwǔ.",
+                    "translation": "With the promotion of urban greening, this year's park green space area increased by a full 15% compared to last year."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (15.2.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "学校新校区的图书馆馆藏资源比老校区丰富得多，自习座位也多了一千多个。",
+                    "reading": "Xuéxiào xīn xiàoqū de túshūguǎn guǎncáng zīyuán bǐ lǎo xiàoqū fēngfù de duō, zìxí zuòwèi yě duō le yìqiān duō gè.",
+                    "translation": "The new campus library's collection is much richer than the old campus, and study seats are over a thousand more."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 比较句式比与不如 (Comparatives: 比/没有/不如)"
+                "Quantity goes BEHIND the Adj: 比我大三岁 (older by 3 years), 比它贵得多 (way more expensive)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "In Chinese social culture, age differences of even one or two years establish respectful familial kinship terms like 哥 (gē), 姐 (jiě), 弟 (dì), 妹 (mèi)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「比较句式比与不如 (Comparatives: 比/没有/不如)」在第2小节中的标准汉语语法规范？",
+                    "prompt": "表达‘哥哥比弟弟大三岁’时，正确的汉语语序是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (15.2.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (15.2.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (15.2.3)。"
+                        "哥哥比弟弟三岁大",
+                        "哥哥比弟弟大三岁 (Gēge bǐ dìdi dà sān suì — A 比 B + Adj + Quantity)",
+                        "哥哥大比弟弟三岁"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "Quantity differences must follow the adjective: 大三岁."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「比较句：比、没有与不如 (Comparatives)」语用情境与完整句式的选项（练习 2）：",
+                    "prompt": "句子‘这套公寓比那套宽敞得多’中，‘得多’表达的语义是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (15.2.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (15.2.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (15.2.3)。"
+                        "差异微小",
+                        "差异幅度非常大 (Huge differential gap: much more)",
+                        "价格便宜"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "得多 expresses a vast degree of difference."
                 }
             ]
         },
@@ -7445,85 +7462,98 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「比较句式比与不如 (Comparatives: 比/没有/不如)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 15-2）？",
+                    "prompt": "下列哪个句子正确表达了‘精确数量差额’？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (15.2.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (15.2.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (15.2.3)。"
+                        "这台笔记本电脑比那台便宜八百块钱 (Zhè tái bǐjìběn diànnǎo bǐ nà tái piányi bābǎi kuài qián)",
+                        "这台电脑八百块比那台便宜",
+                        "这台电脑比那台很便宜八百块"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "便宜八百块钱 correctly places the quantity complement after the adjective."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («比我大_15_2»):",
+                    "prompt": "Type the Hanzi for 'much more / way more' (得多):",
                     "acceptedAnswers": [
-                        "比我大_15_2"
+                        "得多",
+                        "deduo",
+                        "de duō",
+                        "de duō",
+                        "Deduo",
+                        "déduō",
+                        "de duo"
                     ],
-                    "explanation": "The target keyword was: 【比我大_15_2】"
+                    "explanation": "得多 (de duō) means 'much more / to a great extent'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u15-l3": {
         "id": "zh-u15-l3",
-        "subject": "mandarin",
-        "unit": 15,
-        "lessonNumber": 3,
-        "title": "比较句：比、没有与不如 (Comparatives) (Part 3)",
+        "unit": "zh-u15",
         "level": "B1",
-        "objective": "Comprehensive mastery of 比较句式比与不如 (Comparatives: 比/没有/不如).",
+        "objective": "Master the crucial semantic contrast between objective shortfall with 没有 (A 没有 B 那么/这么 + Adj: A is not as ... as B) and defensive rebuttal with 不比 (A 不比 B + Adj: A is no less ... than B / just as good as B).",
+        "prerequisites": [
+            "zh-u15-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u15-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「比较句：比、没有与不如 (Comparatives)」（第3部分）的核心句法结构与比较句式比与不如 (Comparatives: 比/没有/不如)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "比较句的否定形式是汉语中极具深度的语用考点！「没有」和「不比」表达截然不同的语用意图！\n\n1. 客观劣势与不及比较：**A 没有 B + (这么/那么) + 形容词**\n- 表达 **A 在某种性质上不如 B，未达到 B 的程度（Inferior / Not as ... as B）**：\n  - 今天**没有**昨天**冷**。(Today is not as cold as yesterday. *[昨天更冷]*)\n  - 我的汉语**没有**他**那么流利**。(My Chinese is not as fluent as his.)\n\n2. 辩驳与抗衡比较：**A 不比 B + 形容词**\n- 表达 **A 并不比 B 差，两者相当甚至 A 更好（No less than / Just as ... as B）**，常用于反驳对方的偏见：\n  - 谁说国产手机不好？国产手机的质量**不比**进口的**差**！(Domestic phone quality is no worse than imported!)\n  - 我**不比**他**笨**，只要努力我也能考满分！(I'm no less smart than him!).",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (15.3.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "虽然大卫学中文的时间没有李明那么长，但他每天练习口语的时间一点儿也不比李明少。",
+                    "reading": "Suīrán Dàwèi xué zhōngwén de shíjiān méiyǒu Lǐ Míng nàme cháng, dàn tā měitiān liànxí kǒuyǔ de shíjiān yìdiǎnr yě bù bǐ Lǐ Míng shǎo.",
+                    "translation": "Although David hasn't studied Chinese as long as Li Ming, his daily speaking practice time is not a bit less than Li Ming's."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (15.3.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "张老师耐心地说：‘别灰心，这次模拟测试虽然没有考出理想成绩，但你的基础并不比别人差。’",
+                    "reading": "Zhāng lǎoshī nàixīn de shuō: ‘Bié huīxīn, zhè cì mónǐ cèshì suīrán méiyǒu kǎochū lǐxiǎng chéngjì, dàn nǐ de jīchǔ bìng bù bǐ biérén chà.’",
+                    "translation": "Teacher Zhang said patiently: 'Don't lose heart; although this mock test didn't yield ideal results, your foundation is by no means worse than others.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (15.3.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "南方冬天的室外气温虽然没有北方那么低，但因为没有暖气，体感温度常常感觉格外湿冷。",
+                    "reading": "Nánfāng dōngtiān de shìwài qìwēn suīrán méiyǒu běifāng nàme dī, dàn yīnwèi méiyǒu nuǎnqì, tǐgǎn wēndù chángcháng gǎnjué gèwài shīlěng.",
+                    "translation": "Although outdoor temperatures in southern winter are not as low as the north, without heating the apparent temperature often feels especially damp and cold."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 比较句式比与不如 (Comparatives: 比/没有/不如)"
+                "没有 = Not as ... as (A is lower); 不比 = No less than / Just as good (Rebutting inequality)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Debates over northern dry cold with central heating vs. southern humidity without heating (南方冷还是北方冷) are a lively cultural pastime among Chinese netizens every winter."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「比较句式比与不如 (Comparatives: 比/没有/不如)」在第3小节中的标准汉语语法规范？",
+                    "prompt": "表达‘我的英文水平不如他那么高’这一客观事实时，应当使用：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (15.3.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (15.3.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (15.3.3)。"
+                        "我的英文没有他那么好 (A 没有 B 那么 Adj: Objective inferiority)",
+                        "我的英文不比他好",
+                        "我的英文比他不好"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "没有...那么... expresses the objective fact that A does not reach B's level."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「比较句：比、没有与不如 (Comparatives)」语用情境与完整句式的选项（练习 3）：",
+                    "prompt": "句子‘谁说女生学不好理工科？我们女生的动手能力一点儿也不比男生差！’中，‘不比...差’表达了：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (15.3.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (15.3.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (15.3.3)。"
+                        "承认女生不如男生",
+                        "坚决反驳偏见，表明女生能力与男生一样强甚至更强 (Strong rebuttal asserting equal or superior capability)",
+                        "女生不需要学理工科"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "不比...差 is a classic rhetorical rebuttal asserting equality and capability."
                 }
             ]
         },
@@ -7531,85 +7561,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「比较句式比与不如 (Comparatives: 比/没有/不如)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 15-3）？",
+                    "prompt": "对比 A‘今天没有昨天热’与 B‘今天不比昨天热’，下列阐述完全正确的是：",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (15.3.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (15.3.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (15.3.3)。"
+                        "A 表达今天不如昨天热（昨天更热）；B 常用于反驳别人说今天很热的观点 (A: objective not as hot; B: rebuttal not hotter)",
+                        "两者完全相同",
+                        "B 表达今天比昨天热得多"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "explanation": "没有 is descriptive non-equality; 不比 is argumentative rebuttal."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («比我大_15_3»):",
+                    "prompt": "Type the Hanzi for 'not worse than / no less than' (不比差):",
                     "acceptedAnswers": [
-                        "比我大_15_3"
+                        "不比差",
+                        "bubicha",
+                        "bùbǐchà",
+                        "Bùbǐchà",
+                        "Bubicha"
                     ],
-                    "explanation": "The target keyword was: 【比我大_15_3】"
+                    "explanation": "不比差 (bù bǐ chà) means 'not worse than / no less inferior'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u15-l4": {
         "id": "zh-u15-l4",
-        "subject": "mandarin",
-        "unit": 15,
-        "lessonNumber": 4,
-        "title": "比较句：比、没有与不如 (Comparatives) (Part 4)",
+        "unit": "zh-u15",
         "level": "B1",
-        "objective": "Comprehensive mastery of 比较句式比与不如 (Comparatives: 比/没有/不如).",
+        "objective": "Master the qualitative inferiority construction with 不如 (A 不如 B + [Adj/VP]: A is inferior to B / better to do B) and the equality construction with 一样 (A 跟/和 B 一样 + Adj).",
+        "prerequisites": [
+            "zh-u15-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u15-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「比较句：比、没有与不如 (Comparatives)」（第4部分）的核心句法结构与比较句式比与不如 (Comparatives: 比/没有/不如)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "除了「比」和「没有」，汉语还有两个极具典雅度与书面口语通用的核心比较句式——「不如」与「一样」！\n\n1. 典雅不及比较：**A 不如 B + (形容词 / 动词短语)**\n- 表达 **A 在品质、效果、选择或能力上不及 B（A is inferior to B / Not as good as B）**：\n  - 口头说说**不如**实际去做。(Talking is inferior to actual action.)\n  - 这家饭馆的菜味道**不如**那家正宗。(Dishes here are not as authentic as that restaurant.)\n- 建议搭配：**与其 A，不如 B** (Rather than A, better to B).\n\n2. 等同等量比较：**A 跟 / 和 B 一样 + (形容词)**\n- 表达 **A 与 B 在某种属性上完全相同 (A is as ... as B)**：\n  - 大卫的汉语说得**跟中国人一样流利**。(David speaks Chinese as fluently as a native Chinese.)\n  - 否定式：**A 跟 B 不一样 (A is different from B)**。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (15.4.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "中国有句古老的格言叫‘百闻不如一见’，只有亲自来到长城脚下，才能真正领略它的宏伟壮观。",
+                    "reading": "Zhōngguó yǒu jù gǔlǎo de gèyán jiào ‘bǎi wén bù rú yí jiàn’, zhǐyǒu qīnzì láidào Chángchéng jiǎoxià, cái néng zhēnzhèng lǐnglüè tā de hóngwěi zhuàngguān.",
+                    "translation": "There is an ancient Chinese proverb 'Seeing once is better than hearing a hundred times'; only by coming in person to the foot of the Great Wall can one truly appreciate its grandeur."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (15.4.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "与其在宿舍里整天看手机浪费时间，不如去图书馆借几本经典学术专著充实自己。",
+                    "reading": "Yǔqí zài sùshè lǐ zhěngtiān kàn shǒujī làngfèi shíjiān, bùrú qù túshūguǎn jiè jǐ běn jīngdiǎn xuéshù zhuānzhù chōngshí zìjǐ.",
+                    "translation": "Rather than wasting time looking at phones all day in the dorm, it's better to borrow classic academic monographs in the library to enrich oneself."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (15.4.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "经过多年的刻苦练习，大卫写出来的毛笔书法跟中国书法家写的一样工整苍劲！",
+                    "reading": "Jīngguò duō nián de kèkǔ liànxí, Dàwèi xiě chūlai de máobǐ shūfǎ gēn Zhōngguó shūfǎjiā xiě de yíyàng gōngzhěng cāngjìn!",
+                    "translation": "After years of diligent practice, David's brush calligraphy is as neat and vigorous as that written by Chinese calligraphers!"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 比较句式比与不如 (Comparatives: 比/没有/不如)"
+                "Proverb Power: 百闻不如一见 (Hearing 100 times < Seeing once)! Equality: A 跟 B 一样 (As same as B)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "The immortal idiom «百闻不如一见» (bǎi wén bù rú yí jiàn) from the Han Dynasty Book of Han highlights the empirical cultural value of firsthand experience."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「比较句式比与不如 (Comparatives: 比/没有/不如)」在第4小节中的标准汉语语法规范？",
+                    "prompt": "表达‘这件大衣的保暖效果与羽绒服完全一样好’时，应当使用：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (15.4.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (15.4.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (15.4.3)。"
+                        "这件大衣跟羽绒服一样暖和 (A 跟 B 一样 + Adj)",
+                        "这件大衣不如羽绒服",
+                        "这件大衣比羽绒服一样"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "A 跟 B 一样 + Adj is the standard equality comparative pattern."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「比较句：比、没有与不如 (Comparatives)」语用情境与完整句式的选项（练习 4）：",
+                    "prompt": "成语‘百闻不如一见’的核心寓意是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (15.4.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (15.4.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (15.4.3)。"
+                        "听别人讲一百遍比看一次更清楚",
+                        "亲眼所见比听闻一百次更有说服力 (Seeing once in person is far superior to hearing a hundred times)",
+                        "不需要去实地参观"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "百闻不如一见 highlights firsthand empirical observation over secondhand hearsay."
                 }
             ]
         },
@@ -7617,85 +7658,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「比较句式比与不如 (Comparatives: 比/没有/不如)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 15-4）？",
+                    "prompt": "表达‘与其在宿舍空想，不如立即采取行动’时，‘不如’的语用功能是：",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (15.4.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (15.4.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (15.4.3)。"
+                        "表示被动受损",
+                        "表示动作完成",
+                        "表示提出更优建议与质性对比 (Offers a superior recommendation & qualitative contrast)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "不如 provides a superior alternative and qualitative preference."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («比我大_15_4»):",
+                    "prompt": "Type the 6-character Hanzi proverb for 'seeing once is better than hearing a hundred times' (百闻不如一见):",
                     "acceptedAnswers": [
-                        "比我大_15_4"
+                        "百闻不如一见",
+                        "baiwenburuyijian",
+                        "bǎiwénbùrúyíjiàn",
+                        "Bǎiwénbùrúyíjiàn",
+                        "Baiwenburuyijian",
+                        "百聞不如一見"
                     ],
-                    "explanation": "The target keyword was: 【比我大_15_4】"
+                    "explanation": "百闻不如一见 (bǎiwén bùrú yí jiàn) means 'seeing once is better than hearing a hundred times'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u15-l5": {
         "id": "zh-u15-l5",
-        "subject": "mandarin",
-        "unit": 15,
-        "lessonNumber": 5,
-        "title": "比较句：比、没有与不如 (Comparatives) (Part 5)",
+        "unit": "zh-u15",
         "level": "B1",
-        "objective": "Comprehensive mastery of 比较句式比与不如 (Comparatives: 比/没有/不如).",
+        "objective": "Synthesize all comparative systems (比, 数量差额, 没有, 不比, 不如, and 跟...一样) into rich academic assessments, travel evaluations, and spontaneous debates.",
+        "prerequisites": [
+            "zh-u15-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u15-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「比较句：比、没有与不如 (Comparatives)」（第5部分）的核心句法结构与比较句式比与不如 (Comparatives: 比/没有/不如)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在本课中，我们将系统整合第十五单元的所有比较语法网络，形成全景对比矩阵，并应用于学术论文评审、高新科技发展评估与城市生活品质对比！\n\n1. 汉语比较系统大一统矩阵 (Master Comparative System Matrix):\n| 句式类型 | 核心语法结构 | 语用意图与典型例句 |\n| :--- | :--- | :--- |\n| **差比肯定** | A 比 B + 形容词 + (数量补语) | 明确差异：高铁比普通列车**快两倍** |\n| **差比加深** | A 比 B + 更 / 还 + 形容词 | 程度递进：哥哥很高，爸爸比哥哥**更高** |\n| **不及否定** | A 没有 B + (那么) + 形容词 | 客观差距：我的口语没有他**那么流利** |\n| **辩驳抗衡** | A 不比 B + 形容词 | 拒绝认输：国产新能源汽车**不比**进口的**差** |\n| **质性优选** | A 不如 B / 与其 A 不如 B | 典雅评测：百闻**不如**一见；与其空想**不如**实干 |\n| **等同等量** | A 跟 / 和 B 一样 + 形容词 | 完全对等：他的汉语说得**跟中国人一样**好 |\n\n2. 第十五单元实战交际演练 (Unit 15 Synthesis Dialogue):\n- 跨国学者评估新能源与传统能源：环保指标对比、科技创新评价、文化交流体悟。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (15.5.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "大卫：李明，你觉得中国的新能源汽车技术怎么样？ 李明：如今中国制造的新能源汽车在电池续航和智能驾驶方面，不仅比传统燃油车环保得多，而且科技感一点儿也不比国际顶级品牌差！",
+                    "reading": "Dàwèi: Lǐ Míng, nǐ juéde Zhōngguó de xīnnéngyuán qìchē jìshù zěnmeyàng? Lǐ Míng: Rújīn Zhōngguó zhìzào de xīnnéngyuán qìchē zài diànchí xùháng hé zhìnéng jiàshǐ fāngmiàn, bùjǐn bǐ chuántǒng rányóuchē huánbǎo de duō, érqiě kējìgǎn yìdiǎnr yě bù bǐ guójì dǐngjí pǐnpái chà!",
+                    "translation": "David: Li Ming, what do you think of China's new energy vehicle technology? Li Ming: Today new energy vehicles made in China, in battery range and autonomous driving, are not only much greener than traditional fuel cars, but also in technology are by no means inferior to top global brands!"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (15.5.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "张教授点评道：‘这篇研究报告的调研数据比上一版详实得多，论证逻辑也跟国际前沿学术标准一样严谨！’",
+                    "reading": "Zhāng jiàoshòu diǎnpíng dào: ‘Zhè piān yánjiū bàogào de diàoyán shùjù bǐ shàng yí bǎn xiángshí de duō, lùnzhèng luóji yě gēn guójì qiányán xuéshù biāozhǔn yíyàng yánjǐn!’",
+                    "translation": "Professor Zhang reviewed: 'The survey data in this research report is much more detailed than the previous draft, and argumentative logic is just as rigorous as international cutting-edge standards!'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (15.5.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "亲自体验过中国的高铁与移动支付后，外国留学生们深有感触地说：‘百闻不如一见，实际生活的便捷程度比我们想象的还要令人惊叹！’",
+                    "reading": "Qīnzì tǐyàn guò Zhōngguó de gāotiě yǔ yídòng zhīfù hòu, wàiguó liúxuéshēngmen shēnyǒu gǎncù de shuō: ‘Bǎiwén bùrú yíjiàn, shíjì shēnghuó de biànjié chéngdù bǐ wǒmen xiǎngxiàng de hái yào lìngrén jīngtàn!’",
+                    "translation": "After experiencing China's high-speed rail and mobile payments firsthand, international students said with deep feeling: 'Seeing once is better than hearing a hundred times; the convenience of daily life is even more astonishing than we imagined!'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 比较句式比与不如 (Comparatives: 比/没有/不如)"
+                "The 6 Comparative Pillars: 比 (Diff), 数量 (Precision), 没有 (Inferior), 不比 (Rebuttal), 不如 (Preference), 一样 (Equality)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "High-speed rail, mobile payment, e-commerce, and bike-sharing are celebrated colloquially in contemporary China as modern everyday conveniences (现代生活新便利)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「比较句式比与不如 (Comparatives: 比/没有/不如)」在第5小节中的标准汉语语法规范？",
+                    "prompt": "句子‘这本新教材的内容比旧版丰富得多，图文编排也跟国际期刊一样精美’整合了哪两种比较句式？",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (15.5.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (15.5.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (15.5.3)。"
+                        "带数量程度补语的比字句 + 跟...一样等同比较句 (比 with degree complement + 跟...一样 equality)",
+                        "被字句 + 把字句",
+                        "疑问句 + 祈使句"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "比...丰富得多 is a differential comparison with complement; 跟...一样精美 is an equality comparison."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「比较句：比、没有与不如 (Comparatives)」语用情境与完整句式的选项（练习 5）：",
+                    "prompt": "在学术报告总结中表达‘与其单纯罗列数据，不如深入剖析背后的社会文化机制’，选用‘与其...不如...’体现了：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (15.5.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (15.5.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (15.5.3)。"
+                        "两者都放弃",
+                        "对深入剖析社会文化机制这一方案的鲜明肯定与优选 (Clear affirmation and preference for in-depth socio-cultural analysis)",
+                        "数据完全错误"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "与其 A 不如 B expresses strong preference for option B over option A."
                 }
             ]
         },
@@ -7703,24 +7756,30 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「比较句式比与不如 (Comparatives: 比/没有/不如)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 15-5）？",
+                    "prompt": "下列哪个句子在现代汉语比较语法的运用上是完全自然且符合规范的？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (15.5.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (15.5.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (15.5.3)。"
+                        "他比我非常高",
+                        "这本小说比那本精彩得多，一点儿也不比名著逊色 (Zhè běn xiǎoshuō bǐ nà běn jīngcǎi de duō, yìdiǎnr yě bù bǐ míngzhù xùnsè)",
+                        "他跟我不一样大三岁"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "比...精彩得多 and 不比...逊色 represent flawless comparative grammar."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («比我大_15_5»):",
+                    "prompt": "Type the Hanzi for 'as rigorous as / equally rigorous' (一样严谨):",
                     "acceptedAnswers": [
-                        "比我大_15_5"
+                        "一样严谨",
+                        "yiyangyanjin",
+                        "yíyàng yánjǐn",
+                        "Yíyàng yánjǐn",
+                        "Yiyangyanjin",
+                        "一樣嚴謹"
                     ],
-                    "explanation": "The target keyword was: 【比我大_15_5】"
+                    "explanation": "一样严谨 (yíyàng yánjǐn) means 'equally rigorous / as rigorous as'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u16-l1": {
