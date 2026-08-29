@@ -13532,63 +13532,69 @@
     },
     "am-u27-l1": {
         "id": "am-u27-l1",
-        "subject": "amharic",
-        "unit": 27,
-        "lessonNumber": 1,
-        "title": "ኢኮኖሚ፣ ንግድ እና ፋይናንስ (Economics & Banking) (Part 1)",
+        "unit": "am-u27",
         "level": "C1",
-        "objective": "Comprehensive mastery of የኢኮኖሚ ትንተና (Economics and Banking).",
+        "objective": "Analyze macroeconomic indicators in Amharic, examining Gross Domestic Product («የሀገር ውስጥ አጠቃላይ ምርት» / GDP), headline inflation («የዋጋ ግሽበት»), purchasing power («የመግዛት አቅም»), and market stabilization strategies.",
+        "prerequisites": [
+            "am-u26-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u26-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የኢኮኖሚ ትንተና (Economics and Banking) - ደረጃ 1) ተማሪዎች ስለ የኢኮኖሚ ትንተና (Economics and Banking) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Macroeconomic analysis focuses on broad systemic economic performance.\n\n1. Macroeconomic Terminology:\n- **የሀገር ውስጥ አጠቃላይ ምርት** (Yehager wust at'eqallay mirt — Gross Domestic Product / GDP)\n- **የዋጋ ግሽበት** (Yewaga gishibet — Inflation rate / CPI elevation)\n- **የመግዛት አቅም** (Yemegzat aqim — Purchasing power of households)\n- **የገበያ መረጋጋት** (Yegebeya meregagat — Market stability)\n- **የኢኮኖሚ እድገት ምጣኔ** (Ye'īkonomī idiget mit'anē — Annual economic growth rate).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየኢኮኖሚ ትንተና (Economics and Banking) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (27.1.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "የሀገር ውስጥ አጠቃላይ ምርት (GDP) እድገት የዜጎችን የመግዛት አቅም ከማሻሻል እና የዋጋ ግሽበትን ከመቆጣጠር ጋር የተቆራኘ ነው።",
+                    "reading": "Yehager wust at'eqallay mirt (GDP) idiget yezēgochin yemegzat aqim kemashashal ina yewaga gishibetn kemeqot'at'er gar yeteqoragnye new.",
+                    "translation": "Growth of Gross Domestic Product (GDP) is linked with improving citizens' purchasing power and controlling inflation."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (27.1.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "መንግስት የኑሮ ውድነትን ለማቃለል እና የገበያ መረጋጋትን ለመፍጠር አዳዲስ የፊስካል እርምጃዎችን ወስዷል።",
+                    "reading": "Mengist yenuro widinetn lemaqalel ina yegebeya meregagatn lemefet'er addis yefīskal irmijjawachin wesidwal.",
+                    "translation": "The government took new fiscal measures to alleviate the cost of living and create market stability."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (27.1.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የሸማቾች ዋጋ መመዘኛ ኢንዴክስ በየወሩ እየተጠና የዋጋ ግሽበት አዝማሚያዎችን በሳይንሳዊ መንገድ ለመተንተን ይረዳል 27.1.3።",
+                    "reading": "Yeshemachoch waga memezegna īnidēks beyeweru iyetet'ena yewaga gishibet azmamīyawochin besayinsawī menged lemetenten yiredall.",
+                    "translation": "Monitoring the monthly consumer price index helps analyze inflationary trends scientifically."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የኢኮኖሚ ትንተና (Economics and Banking)"
+                "«የሀገር ውስጥ አጠቃላይ ምርት» = GDP! «የዋጋ ግሽበት» = Inflation! «የመግዛት አቅም» = Purchasing power!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "In Ethiopia, food inflation is closely linked to agricultural seasonality (መኸር vs. በልግ harvest cycles), with macroeconomic policy focusing on grain reserves and urban consumer cooperatives."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የኢኮኖሚ ትንተና (Economics and Banking)» አጠቃቀም በደረጃ 1 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "የአንድ ሀገር የኢኮኖሚ አጠቃላይ አመታዊ የምርት እና የአገልግሎት ዋጋ ምን ይባላል?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (27.1.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (27.1.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (27.1.3)።"
+                        "የሀገር ውስጥ አጠቃላይ ምርት / GDP",
+                        "የስፖርት ውጤት (Sports score)",
+                        "የአየር ትንበያ (Weather forecast)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "የሀገር ውስጥ አጠቃላይ ምርት (GDP) measures total economic output."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ኢኮኖሚ፣ ንግድ እና ፋይናንስ (Economics & Banking)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 1)፡",
+                    "prompt": "«የዋጋ ግሽበት» በህዝቡ ላይ ምን ዓይነት ተጽዕኖ ያሳድራል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (27.1.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (27.1.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (27.1.3)።"
+                        "Increases free time",
+                        "Erodes purchasing power and raises the cost of goods (የመግዛት አቅምን ይቀንሳል)",
+                        "Lowers food prices"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "የዋጋ ግሽበት diminishes purchasing power."
                 }
             ]
         },
@@ -13596,85 +13602,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የኢኮኖሚ ትንተና (Economics and Banking)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 27-1)?",
+                    "prompt": "የሸቀጦች እና የአገልግሎቶች ዋጋ ያለማቋረጥ ወደ ላይ ማሻቀብ ምን ይባላል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (27.1.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (27.1.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (27.1.3)።"
+                        "የዋጋ ግሽበት (Inflation)",
+                        "የዋጋ ቅናሽ (Price reduction)",
+                        "የገንዘብ ቁጠባ (Savings)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "የዋጋ ግሽበት (Inflation) is the persistent rise in general price levels."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ባንክ_27_1»):",
+                    "prompt": "Type the Amharic word for 'inflation' in Fidel script (የዋጋ ግሽበት):",
                     "acceptedAnswers": [
-                        "ባንክ_27_1"
+                        "የዋጋ ግሽበት",
+                        "yewaga gishibet",
+                        "ye waga gishibet",
+                        "Yewaga gishibet",
+                        "ዋጋ ግሽበት"
                     ],
-                    "explanation": "The target keyword was: 【ባንክ_27_1】"
+                    "explanation": "የዋጋ ግሽበት (Yewaga gishibet) means 'inflation'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u27-l2": {
         "id": "am-u27-l2",
-        "subject": "amharic",
-        "unit": 27,
-        "lessonNumber": 2,
-        "title": "ኢኮኖሚ፣ ንግድ እና ፋይናንስ (Economics & Banking) (Part 2)",
+        "unit": "am-u27",
         "level": "C1",
-        "objective": "Comprehensive mastery of የኢኮኖሚ ትንተና (Economics and Banking).",
+        "objective": "Examine central banking operations, monetary policy tools, interest rate mechanics («የወለድ መጠን»), foreign exchange reserves («የውጭ ምንዛሪ ክምችት»), and the National Bank of Ethiopia («የኢትዮጵያ ብሔራዊ ባንክ»).",
+        "prerequisites": [
+            "am-u27-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u27-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የኢኮኖሚ ትንተና (Economics and Banking) - ደረጃ 2) ተማሪዎች ስለ የኢኮኖሚ ትንተና (Economics and Banking) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "The banking sector and central monetary policy govern financial intermediation and currency stability.\n\n1. Banking System Concepts:\n- **የኢትዮጵያ ብሔራዊ ባንክ** (National Bank of Ethiopia — Central Bank)\n- **የገንዘብ ፖሊሲ** (Monetary policy)\n- **የወለድ መጠን** (Interest rate)\n- **የውጭ ምንዛሪ ክምችት** (Foreign exchange reserves)\n- **ብድር እና ቁጠባ** (Credit loans and domestic savings mobilization)\n- **ዲጂታል ክፍያ** (Digital payments & mobile money).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየኢኮኖሚ ትንተና (Economics and Banking) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (27.2.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "የኢትዮጵያ ብሔራዊ ባንክ የወለድ ምጣኔን እና የውጭ ምንዛሪ ስርዓትን በማስተካከል የገንዘብ አቅርቦትን ይቆጣጠራል።",
+                    "reading": "Ye'ītyop'ya bihērawī bank yewoled mit'anēn ina yewuch' minzarē sir'atn bemastetakel yegenzeb aqribotn yiqot'at'eral.",
+                    "translation": "The National Bank of Ethiopia controls the money supply by adjusting interest rates and the foreign exchange regime."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (27.2.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የንግድ ባንኮች ለግል ኢንቨስትመንት የሚሰጡት የብድር መጠን ለሀገሪቱ የኢኮኖሚ እንቅስቃሴ ወሳኝ ነዳጅ ነው።",
+                    "reading": "Yenigd bankoch legil īnvestment yemīset'ut yebidir met'en lehagerītu ye'īkonomī inqisiqasē wesagn nedaj new.",
+                    "translation": "The volume of credit extended by commercial banks to private investment is vital fuel for economic activity."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (27.2.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የዲጂታል ባንክ አገልግሎት እና የሞባይል ክፍያ የገንዘብ ዝውውርን በማሳለጥ የፋይናንስ ተደራሽነትን በከፍተኛ ሁኔታ አሳድጓል 27.2.3።",
+                    "reading": "Yedījītal bank agelgilot ina yemobayil kifya yegenzeb ziwuwwirn bemasalet' yefayinans ted crashinetn bekefitegna hunēta asadgwal.",
+                    "translation": "Digital banking and mobile payments have accelerated currency circulation, greatly expanding financial inclusion."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የኢኮኖሚ ትንተና (Economics and Banking)"
+                "«የወለድ መጠን» = Interest rate! «የውጭ ምንዛሪ» = Foreign exchange! «ብሔራዊ ባንክ» = Central Bank!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Ethiopia's traditional community savings and rotating credit associations — **እቁብ** (Iqub) and funeral mutual aid **ዕድር** (Iddir) — continue to mobilize informal billions alongside modern commercial banks."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የኢኮኖሚ ትንተና (Economics and Banking)» አጠቃቀም በደረጃ 2 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "በኢትዮጵያ ውስጥ የገንዘብ ፖሊሲን የሚመራው የበላይ ባንክ የትኛው ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (27.2.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (27.2.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (27.2.3)።"
+                        "የኢትዮጵያ ብሔራዊ ባንክ (National Bank of Ethiopia)",
+                        "የግል ሱቅ (Private shop)",
+                        "የከተማ ማዘጋጃ ቤት (Municipality)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "የኢትዮጵያ ብሔራዊ ባንክ is the central monetary authority."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ኢኮኖሚ፣ ንግድ እና ፋይናንስ (Economics & Banking)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 2)፡",
+                    "prompt": "«የውጭ ምንዛሪ» ለሀገር ኢኮኖሚ ለምን ያስፈልጋል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (27.2.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (27.2.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (27.2.3)።"
+                        "To play games",
+                        "To import vital goods, machinery, and petroleum (እቃዎችን እና ነዳጅን ከውጭ ለማስገባት)",
+                        "For museum display only"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "Foreign exchange is indispensable for importing essential capital goods and fuel."
                 }
             ]
         },
@@ -13682,85 +13699,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የኢኮኖሚ ትንተና (Economics and Banking)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 27-2)?",
+                    "prompt": "ለተበደረ ገንዘብ ተጨማሪ የሚከፈል ክፍያ ምን ይባላል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (27.2.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (27.2.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (27.2.3)።"
+                        "ቅጣት (Penalty)",
+                        "ስጦታ (Gift)",
+                        "ወለድ (Interest)"
                     ],
                     "answerIndex": 2,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "explanation": "ወለድ (Woled) is interest accrued on financial loans."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ባንክ_27_2»):",
+                    "prompt": "Type the Amharic word for 'foreign exchange / foreign currency' in Fidel script (የውጭ ምንዛሪ):",
                     "acceptedAnswers": [
-                        "ባንክ_27_2"
+                        "የውጭ ምንዛሪ",
+                        "yewuch minzari",
+                        "ye wuch minzari",
+                        "Yewuch minzari",
+                        "ውጭ ምንዛሪ"
                     ],
-                    "explanation": "The target keyword was: 【ባንክ_27_2】"
+                    "explanation": "የውጭ ምንዛሪ (Yewuch minzarē) means 'foreign currency / forex'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u27-l3": {
         "id": "am-u27-l3",
-        "subject": "amharic",
-        "unit": 27,
-        "lessonNumber": 3,
-        "title": "ኢኮኖሚ፣ ንግድ እና ፋይናንስ (Economics & Banking) (Part 3)",
+        "unit": "am-u27",
         "level": "C1",
-        "objective": "Comprehensive mastery of የኢኮኖሚ ትንተና (Economics and Banking).",
+        "objective": "Appraise agricultural commodities trading, high-grade specialty coffee exports (ይርጋጨፌ, ሲዳማ, ሀረር), the Ethiopia Commodity Exchange («የኢትዮጵያ ምርት ገበያ» / ECX), and balance of trade.",
+        "prerequisites": [
+            "am-u27-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u27-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የኢኮኖሚ ትንተና (Economics and Banking) - ደረጃ 3) ተማሪዎች ስለ የኢኮኖሚ ትንተና (Economics and Banking) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Agricultural exports form the bedrock of Ethiopia's international commodity commerce.\n\n1. Commodity Trade & ECX:\n- **የኢትዮጵያ ምርት ገበያ** (ECX — Ethiopia Commodity Exchange: modern transparent commodity exchange)\n- **ቡና ኤክስፖርት** (Coffee exports: premium Arabica origins including ይርጋጨፌ, ሲዳማ, ሀረር, ጅማ)\n- **ሰሊጥ እና ጥራጥሬ** (Sesame seed and pulse crops)\n- **ላኪ** (Lakī — Exporter)\n- **አስመጪ** (Asmech'ī — Importer).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየኢኮኖሚ ትንተና (Economics and Banking) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (27.3.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "የኢትዮጵያ ምርት ገበያ (ECX) ገበሬዎች እና ላኪዎች የቡና እና የሰሊጥ ምርቶቻቸውን በፍትሃዊ ዋጋ እና በጥራት ደረጃ እንዲሸጡ ያደርጋል።",
+                    "reading": "Ye'ītyop'ya mirt gebeya (ECX) geberēwoch ina lakīwoch yebuna ina yeselīt' mirtochachewun befitihawī waga ina bet'irat dereja indīshetu yadregall.",
+                    "translation": "The Ethiopia Commodity Exchange (ECX) enables farmers and exporters to trade coffee and sesame products at fair prices and certified quality grades."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (27.3.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የይርጋጨፌ እና የሲዳማ ስፔሻሊቲ ቡና በዓለም አቀፍ ገበያ ላይ ከፍተኛ የውጭ ምንዛሪ የሚያስገኝ ተፈላጊ ምርት ነው።",
+                    "reading": "Yeyirgach'effē ina yeSīdama spēshalītī buna be'alem aqef gebeya lay kefitegna yewuch' minzarē yemīyasgegn tefelagī mirt new.",
+                    "translation": "Yirgacheffe and Sidama specialty coffees are sought-after products earning substantial foreign exchange on global markets."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (27.3.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የግብርና ምርታማነትን በዘመናዊ ቴክኖሎጂ ማሳደግ የሀገሪቱን የኤክስፖርት ገቢ በእጥፍ ለማሳደግ ያስችላል 27.3.3።",
+                    "reading": "Yegibirna mirtaminetn bezemenawī tēknolojī masadeg yehagerītun ye'ēksport gebī be'it'if lemasadeg yaschilall.",
+                    "translation": "Enhancing agricultural productivity through modern technology doubles national export revenue."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የኢኮኖሚ ትንተና (Economics and Banking)"
+                "«ECX» = Modern commodity exchange! «ላኪ» = Exporter! «ይርጋጨፌ» = World-famous coffee!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Ethiopia is the birthplace of Coffea arabica (originated in Kaffa forest biospheres); coffee trading is intertwined with national heritage and millions of livelihoods."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የኢኮኖሚ ትንተና (Economics and Banking)» አጠቃቀም በደረጃ 3 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "የኢትዮጵያ ዋነኛ የውጭ ምንዛሪ አስገኚ የግብርና ምርት የትኛው ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (27.3.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (27.3.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (27.3.3)።"
+                        "ቡና (Coffee)",
+                        "ፕላስቲክ (Plastic)",
+                        "አሸዋ (Sand)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "ቡና (Coffee) is Ethiopia's leading agricultural export commodity."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ኢኮኖሚ፣ ንግድ እና ፋይናንስ (Economics & Banking)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 3)፡",
+                    "prompt": "«ECX» (የኢትዮጵያ ምርት ገበያ) ዋነኛ ጠቀሜታው ምንድን ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (27.3.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (27.3.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (27.3.3)።"
+                        "Movie streaming",
+                        "Standardized quality grading, warehousing, and transparent price discovery for commodities",
+                        "Car racing"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "ECX provides secure, transparent agricultural commodity trading."
                 }
             ]
         },
@@ -13768,85 +13796,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የኢኮኖሚ ትንተና (Economics and Banking)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 27-3)?",
+                    "prompt": "ምርቶችን ወደ ውጭ ሀገር ለሽያጭ የሚልክ ነጋዴ ወይም ድርጅት ምን ይባላል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (27.3.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (27.3.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (27.3.3)።"
+                        "አስመጪ (Importer)",
+                        "ላኪ / ኤክስፖርተር (Exporter)",
+                        "ተጠቃሚ (Consumer)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "ላኪ (Lakī) / Exporter sells commodities to overseas markets."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ባንክ_27_3»):",
+                    "prompt": "Type the Amharic word for 'export / exporting' in Fidel script (ኤክስፖርት):",
                     "acceptedAnswers": [
-                        "ባንክ_27_3"
+                        "ኤክስፖርት",
+                        "export",
+                        "ēksport",
+                        "eksport",
+                        "ወደ ውጭ መላክ"
                     ],
-                    "explanation": "The target keyword was: 【ባንክ_27_3】"
+                    "explanation": "ኤክስፖርት (Ēksport) means 'export'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u27-l4": {
         "id": "am-u27-l4",
-        "subject": "amharic",
-        "unit": 27,
-        "lessonNumber": 4,
-        "title": "ኢኮኖሚ፣ ንግድ እና ፋይናንስ (Economics & Banking) (Part 4)",
+        "unit": "am-u27",
         "level": "C1",
-        "objective": "Comprehensive mastery of የኢኮኖሚ ትንተና (Economics and Banking).",
+        "objective": "Examine industrialization policies, special economic zones («የኢንዱስትሪ ፓርኮች»), Foreign Direct Investment («ቀጥታ የውጭ ኢንቨስትመንት» / FDI), and international trade deficit balancing («የንግድ ሚዛን»).",
+        "prerequisites": [
+            "am-u27-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u27-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የኢኮኖሚ ትንተና (Economics and Banking) - ደረጃ 4) ተማሪዎች ስለ የኢኮኖሚ ትንተና (Economics and Banking) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Industrial policy and foreign direct investment foster manufacturing capabilities and trade competitiveness.\n\n1. Industrial Sector Terminology:\n- **የኢንዱስትሪ ፓርኮች** (Industrial Parks: Special economic zones with plug-and-play manufacturing infrastructure)\n- **ቀጥታ የውጭ ኢንቨስትመንት** (Foreign Direct Investment / FDI)\n- **የንግድ ሚዛን** (Trade balance: relationship between imports and exports)\n- **ቀረጥ እና ታሪፍ** (Customs tariffs and fiscal exemptions)\n- **ማኑፋክቸሪንግ** (Manufacturing value addition).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየኢኮኖሚ ትንተና (Economics and Banking) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (27.4.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "እንደ ሀዋሳ እና ቦሌ ለሚ ያሉ የኢንዱስትሪ ፓርኮች ከፍተኛ የውጭ ኢንቨስትመንት (FDI) በመሳብ ለበርካታ ዜጎች የስራ እድል ፈጥረዋል።",
+                    "reading": "Inde Hawassa ina Bolē Lemī yalu ye'īndusitrī parkoch kefitegna yewuch' īnvestment (FDI) bemesab leberkata zēgoch yesira idil fetrewall.",
+                    "translation": "Industrial parks such as Hawassa and Bole Lemi have created jobs for numerous citizens by attracting large-scale FDI."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (27.4.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የሀገር ውስጥ የማኑፋክቸሪንግ ዘርፍን ማጠናከር የንግድ ሚዛን ጉድለትን ለማጥበብ እና የውጭ ጥገኝነትን ለመቀነስ ቁልፍ እርምጃ ነው።",
+                    "reading": "Yehager wust yemanufakcherīng zerfin mat'enaker yenigd mīzan gudletn lemat'beb ina yewuch' t'igegninetn lemeqenes qulif irmijja new.",
+                    "translation": "Strengthening the domestic manufacturing sector is a key measure to narrow the trade deficit and reduce foreign dependency."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (27.4.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "መንግስት ለአምራች ኢንዱስትሪዎች የቀረጥ ነፃ ማበረታቻዎችን እና መሰረተ ልማቶችን በማቅረብ ኢንቨስትመንትን ያበረታታል 27.4.3።",
+                    "reading": "Mengist le'amrach īndusitrīwoch yeqeret' nets'a mabiretachawochin ina meserete limatochin bemaqreb īnvestmentn yabiretatall.",
+                    "translation": "The government encourages investment by offering duty-free incentives and infrastructure to manufacturing industries."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የኢኮኖሚ ትንተና (Economics and Banking)"
+                "«የኢንዱስትሪ ፓርክ» = Industrial Park! «ቀጥታ ኢንቨስትመንት» = FDI! «የንግድ ሚዛን» = Trade balance!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Hawassa Industrial Park is Africa's flagship eco-industrial park, utilizing zero-liquid discharge (ZLD) technologies and powering green manufacturing."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የኢኮኖሚ ትንተና (Economics and Banking)» አጠቃቀም በደረጃ 4 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "የኢንዱስትሪ ፓርኮች ለሀገር ኢኮኖሚ ምን አይነት ዋነኛ ጥቅም ይሰጣሉ?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (27.4.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (27.4.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (27.4.3)።"
+                        "Job creation, export earnings, and technology transfer (የስራ እድል እና የኤክስፖርት ገቢ)",
+                        "Traffic jams",
+                        "Noise pollution only"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "የኢንዱስትሪ ፓርኮች drive manufacturing, employment, and exports."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ኢኮኖሚ፣ ንግድ እና ፋይናንስ (Economics & Banking)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 4)፡",
+                    "prompt": "«የንግድ ሚዛን ጉድለት» መቼ ይከሰታል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (27.4.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (27.4.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (27.4.3)።"
+                        "When exports equal imports",
+                        "When the cost of imports exceeds export revenues (አስመጪነት ከላኪነት ሲበልጥ)",
+                        "When money stops printing"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "Trade deficit occurs when imports outstrip export receipts."
                 }
             ]
         },
@@ -13854,85 +13893,95 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የኢኮኖሚ ትንተና (Economics and Banking)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 27-4)?",
+                    "prompt": "የውጭ ሀገር ኩባንያዎች በቀጥታ በሀገር ውስጥ የሚያፈሱት ካፒታል ምን ይባላል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (27.4.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (27.4.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (27.4.3)።"
+                        "የውጭ እርዳታ (Foreign aid)",
+                        "ቀጥታ የውጭ ኢንቨስትመንት (FDI)",
+                        "የባንክ ብድር (Bank loan)"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "explanation": "ቀጥታ የውጭ ኢንቨስትመንት (FDI) refers to foreign direct capital investment."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ባንክ_27_4»):",
+                    "prompt": "Type the Amharic word for 'investment' in Fidel script (ኢንቨስትመንት):",
                     "acceptedAnswers": [
-                        "ባንክ_27_4"
+                        "ኢንቨስትመንት",
+                        "investment",
+                        "īnvestment",
+                        "Investiment"
                     ],
-                    "explanation": "The target keyword was: 【ባንክ_27_4】"
+                    "explanation": "ኢንቨስትመንት (Īnvestment) means 'investment'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u27-l5": {
         "id": "am-u27-l5",
-        "subject": "amharic",
-        "unit": 27,
-        "lessonNumber": 5,
-        "title": "ኢኮኖሚ፣ ንግድ እና ፋይናንስ (Economics & Banking) (Part 5)",
+        "unit": "am-u27",
         "level": "C1",
-        "objective": "Comprehensive mastery of የኢኮኖሚ ትንተና (Economics and Banking).",
+        "objective": "Synthesize GDP accounting, monetary banking frameworks, commodity trading floors, and FDI industrial zones into an advanced economic policy reform paper in Amharic.",
+        "prerequisites": [
+            "am-u27-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u27-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የኢኮኖሚ ትንተና (Economics and Banking) - ደረጃ 5) ተማሪዎች ስለ የኢኮኖሚ ትንተና (Economics and Banking) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "This lesson consolidates macroeconomic metrics, central banking, commodity export platforms, and industrial eco-parks into an overarching national economic reform synthesis.\n\n1. Macroeconomic Dimensions:\n- **Output & Prices:** «የሀገር ውስጥ አጠቃላይ ምርት እና የዋጋ ግሽበት...»\n- **Monetary Policy:** «የብሔራዊ ባንክ የገንዘብ ፖሊሲ እና የውጭ ምንዛሪ...»\n- **Commodity Exports:** «የቡና እና የግብርና ምርቶች ኤክስፖርት...»\n- **Industrial Transformation:** «የኢንዱስትሪ ፓርኮች እና ቀጥታ የውጭ ኢንቨስትመንት...»",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየኢኮኖሚ ትንተና (Economics and Banking) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (27.5.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "የሀገሪቱ የረጅም ጊዜ የኢኮኖሚ ራዕይ ግብርናን ከማዘመን ጎን ለጎን የማኑፋክቸሪንግ እና የኤክስፖርት ዘርፉን ወደ ላቀ ደረጃ ማሸጋገር ነው።",
+                    "reading": "Yehagerītu yerejim gīzē ye'īkonomī ra'iy gibirnan kemazemen gon legon yemanufakcherīng ina ye'ēksport zerfun wede laqe dereja mashegager new.",
+                    "translation": "The nation's long-term economic vision is to transition manufacturing and exports to a higher stage alongside modernizing agriculture."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (27.5.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የዋጋ ግሽበትን በዘላቂነት ለመግታት የምርት አቅርቦትን ማሳደግ እና የፋይናንስ ስርዓቱን ተወዳዳሪ ማድረግ ያስፈልጋል 27.5.2።",
+                    "reading": "Yewaga gishibetn bezelaqīnet lemegtat yemirt aqribotn masadeg ina yefayinans sir'atun tewedadarī madreg yasfelegall.",
+                    "translation": "Permanently curbing inflation requires increasing supply of goods and making the financial system competitive."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (27.5.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የተቀናጀ የኢኮኖሚ ፖሊሲ የዜጎችን የኑሮ ደረጃ በማሻሻል ዘላቂ ሀገራዊ ብልጽግናን ያረጋግጣል 27.5.3።",
+                    "reading": "Yeteqenaje ye'īkonomī polīsī yezēgochin yenuro dereja bemashashal zelaqī hagerawī bilts'iginan yaregagit'all.",
+                    "translation": "An integrated economic policy improves citizens' living standards, ensuring sustainable national prosperity."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የኢኮኖሚ ትንተና (Economics and Banking)"
+                "Economic Quad: Macro (GDP/ግሽበት) + Finance (ባንክ/ምንዛሪ) + Commodity (ቡና/ECX) + Industry (ፓርክ/FDI) = National Prosperity!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "National economic development plans emphasize transitioning Ethiopia from an agrarian-dominated economy toward an industrialized, green manufacturing powerhouse."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የኢኮኖሚ ትንተና (Economics and Banking)» አጠቃቀም በደረጃ 5 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "ዘላቂ የኢኮኖሚ እድገት ለማስመዝገብ ዋነኛው መንገድ የትኛው ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (27.5.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (27.5.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (27.5.3)።"
+                        "Increasing local production, manufacturing, and exports (ምርታማነትን እና ኤክስፖርትን ማሳደግ)",
+                        "Relying entirely on imports",
+                        "Halting bank lending"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "Productivity, domestic manufacturing, and export expansion drive sustainable growth."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ኢኮኖሚ፣ ንግድ እና ፋይናንስ (Economics & Banking)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 5)፡",
+                    "prompt": "በዚህ ክፍል ካጠናናቸው ውስጥ የኢኮኖሚው ዋና ደምስር የትኛው ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (27.5.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (27.5.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (27.5.3)።"
+                        "የተረጋጋ የፋይናንስ እና የንግድ ስርዓት (Stable financial and trade system)",
+                        "ስራ ማቆም",
+                        "የዋጋ መጨመር ብቻ"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "A stable financial and commerce system underpins economic vigor."
                 }
             ]
         },
@@ -13940,24 +13989,29 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የኢኮኖሚ ትንተና (Economics and Banking)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 27-5)?",
+                    "prompt": "የአንድ ሀገር የኢኮኖሚ ጤንነት እና የህዝብ ኑሮ መሻሻል በምን ይለካል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (27.5.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (27.5.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (27.5.3)።"
+                        "በዘላቂ የኢኮኖሚ እድገት እና በዜጎች ብልጽግና (Sustainable growth & prosperity)",
+                        "በዝናብ ብቻ (Rain alone)",
+                        "በተሽከርካሪ ብዛት ብቻ (Car count only)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "Sustainable development and broad-based prosperity reflect macroeconomic health."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ባንክ_27_5»):",
+                    "prompt": "Type the Amharic word for 'economy' in Fidel script (ኢኮኖሚ):",
                     "acceptedAnswers": [
-                        "ባንክ_27_5"
+                        "ኢኮኖሚ",
+                        "ikonomi",
+                        "īkonomī",
+                        "economy",
+                        "Ekonomi"
                     ],
-                    "explanation": "The target keyword was: 【ባንክ_27_5】"
+                    "explanation": "ኢኮኖሚ (Īkonomī) means 'economy'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u28-l1": {
