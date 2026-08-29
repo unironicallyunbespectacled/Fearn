@@ -14497,63 +14497,69 @@
     },
     "am-u29-l1": {
         "id": "am-u29-l1",
-        "subject": "amharic",
-        "unit": 29,
-        "lessonNumber": 1,
-        "title": "አካባቢ ጥበቃ እና ዘላቂ ልማት (Ecology & Sustainable Development) (Part 1)",
+        "unit": "am-u29",
         "level": "C1",
-        "objective": "Comprehensive mastery of የአካባቢ ጥበቃ (Environmental Science).",
+        "objective": "Analyze ecological biodiversity in Amharic, examining endemic wildlife species (ዋሊያ አይቤክስ, ጭላዳ ዝንጀሮ, የኢትዮጵያ ቀይ ቀበሮ), national park conservation (ሰሜን እና ባሌ ተራሮች), and habitat protection.",
+        "prerequisites": [
+            "am-u28-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u28-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የአካባቢ ጥበቃ (Environmental Science) - ደረጃ 1) ተማሪዎች ስለ የአካባቢ ጥበቃ (Environmental Science) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Biodiversity and endemic species preservation form the core of Ethiopia's ecological heritage.\n\n1. Ecological Concepts:\n- **ብዝሃ-ህይወት** (Biodiversity / Biological diversity)\n- **ብርቅዬ እንስሳት** (Endemic fauna: species unique to Ethiopian montane biomes)\n  - **ዋሊያ አይቤክስ** (Walia Ibex — Capra walie in Simien Mountains)\n  - **ጭላዳ ዝንጀሮ** (Gelada baboon — Theropithecus gelada)\n  - **የኢትዮጵያ ቀይ ቀበሮ** (Ethiopian Wolf — Canis simensis in Bale Afroalpine)\n- **ብሔራዊ ፓርክ** (National Park / Protected wildlife reserve)\n- **ስነ-ምህዳር** (Ecosystem and habitat protection).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየአካባቢ ጥበቃ (Environmental Science) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (29.1.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "የሰሜን ተራሮች ብሔራዊ ፓርክ በዓለም ላይ በየትኛውም ቦታ የማይገኙ ብርቅዬ የዋሊያ አይቤክስ እና የጭላዳ ዝንጀሮ ዝርያዎች መኖሪያ ነው።",
+                    "reading": "Yesemēn teraroch bihērawī park be'alem lay beyetignawim bota yemayigegnu birqiyē yeWaliya Ayibēks ina yeCh'ilada zinjero ziryawoch mennorīya new.",
+                    "translation": "Simien Mountains National Park is home to endemic Walia Ibex and Gelada baboon species found nowhere else in the world."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (29.1.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የባሌ ተራሮች ስነ-ምህዳር ለአደጋ የተጋለጠውን ብርቅዬ የኢትዮጵያ ቀይ ቀበሮ ዝርያ ለመታደግ ከፍተኛ ጥበቃ የሚደረግለት ቀጠና ነው።",
+                    "reading": "Yebalē teraroch sine-mihidar le'adega yetegalet'ewun birqiyē ye'ītyop'ya qey qebero zirya lemetadeg kefitegna t'ibeqqa yemīderegilet qet'ena new.",
+                    "translation": "The Bale Mountains ecosystem is a highly protected sanctuary to preserve the endangered endemic Ethiopian red wolf species."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (29.1.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የህብረተሰቡ የጥበቃ ተሳትፎ የተፈጥሮ ሀብቶችን እና ብዝሃ-ህይወትን ከውድመት ለመታደግ እጅግ ወሳኝ እርምጃ ነው 29.1.3።",
+                    "reading": "Yehibiretesebu yet'ibeqqa tesatifo yetefet'ro habtochin ina bizha-hiywotn kewidmet lemetadeg ijig wesagn irmijja new.",
+                    "translation": "Community conservation participation is a pivotal measure to rescue natural resources and biodiversity from destruction."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የአካባቢ ጥበቃ (Environmental Science)"
+                "«ብዝሃ-ህይወት» = Biodiversity! «ዋሊያ አይቤክስ» = Walia Ibex! «ብርቅዬ እንስሳት» = Endemic wildlife!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Simien National Park was one of the first 12 sites inscribed on the UNESCO World Heritage list in 1978 due to its Afro-alpine landscape and rare endemic wildlife."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የአካባቢ ጥበቃ (Environmental Science)» አጠቃቀም በደረጃ 1 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "በኢትዮጵያ ሰሜን ተራሮች ብቻ የሚገኘው ብርቅዬ የዱር እንስሳ የትኛው ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (29.1.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (29.1.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (29.1.3)።"
+                        "ዋሊያ አይቤክስ (Walia Ibex)",
+                        "ነብር (Tiger)",
+                        "ዋልረስ (Walrus)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "ዋሊያ አይቤክስ is endemic to the Simien Mountains."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«አካባቢ ጥበቃ እና ዘላቂ ልማት (Ecology & Sustainable Development)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 1)፡",
+                    "prompt": "«ብዝሃ-ህይወት» ማለት ምን ማለት ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (29.1.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (29.1.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (29.1.3)።"
+                        "Only keeping pets",
+                        "The variety of all living species, plants, animals, and ecosystems in a habitat (የተለያዩ ህያዋን ፍጥረታት እና ስነ-ምህዳር)",
+                        "Car collection"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "ብዝሃ-ህይወት encompasses the richness of living species and their ecosystems."
                 }
             ]
         },
@@ -14561,85 +14567,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የአካባቢ ጥበቃ (Environmental Science)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 29-1)?",
+                    "prompt": "የኢትዮጵያ ቀይ ቀበሮ በብዛት የሚገኝበት የታወቀው ብሔራዊ ፓርክ የትኛው ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (29.1.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (29.1.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (29.1.3)።"
+                        "የአዋሽ ፓርክ (Awash Park)",
+                        "የባሌ ተራሮች ብሔራዊ ፓርክ (Bale Mountains National Park)",
+                        "የኦሞ ፓርክ (Omo Park)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "The Bale Mountains National Park is the primary refuge of the Ethiopian wolf."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ደን_29_1»):",
+                    "prompt": "Type the Amharic word for 'biodiversity' in Fidel script (ብዝሃ-ህይወት):",
                     "acceptedAnswers": [
-                        "ደን_29_1"
+                        "ብዝሃ-ህይወት",
+                        "bizha-hiywot",
+                        "bizha hiywot",
+                        "ብዝሀ-ህይወት",
+                        "ብዝሃ ህይወት"
                     ],
-                    "explanation": "The target keyword was: 【ደን_29_1】"
+                    "explanation": "ብዝሃ-ህይወት (Bizha-hiywot) means 'biodiversity'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u29-l2": {
         "id": "am-u29-l2",
-        "subject": "amharic",
-        "unit": 29,
-        "lessonNumber": 2,
-        "title": "አካባቢ ጥበቃ እና ዘላቂ ልማት (Ecology & Sustainable Development) (Part 2)",
+        "unit": "am-u29",
         "level": "C1",
-        "objective": "Comprehensive mastery of የአካባቢ ጥበቃ (Environmental Science).",
+        "objective": "Examine renewable energy engineering, hydroelectric power systems, the Grand Ethiopian Renaissance Dam («ታላቁ የኢትዮጵያ ህዳሴ ግድብ» / GERD), wind/geothermal potential, and green grid regional integration.",
+        "prerequisites": [
+            "am-u29-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u29-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የአካባቢ ጥበቃ (Environmental Science) - ደረጃ 2) ተማሪዎች ስለ የአካባቢ ጥበቃ (Environmental Science) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Clean energy development centers on harnessing water, wind, solar, and geothermal resources.\n\n1. Renewable Energy Systems:\n- **ታዳሽ ሃይል** (Renewable energy: carbon-neutral energy resources)\n- **የውሃ ሃይል ማመንጫ** (Hydroelectric dam / Hydro powerplant)\n- **ታላቁ የኢትዮጵያ ህዳሴ ግድብ (GERD)** (Grand Ethiopian Renaissance Dam)\n- **የኤሌክትሪክ ሃይል ኤክስፖርት** (Regional electricity export and grid interconnection)\n- **ንጹህ ሃይል** (Green zero-emission energy).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየአካባቢ ጥበቃ (Environmental Science) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (29.2.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ታላቁ የኢትዮጵያ ህዳሴ ግድብ (GERD) ከአባይ ወንዝ ንጹህ ታዳሽ ሃይል በማመንጨት የኢንዱስትሪዎችን የኤሌክትሪክ ፍላጎት ያሟላል።",
+                    "reading": "Talaqu ye'ītyop'ya hidassē gidib (GERD) ke'Abay wenz nits'uh tadash hayil bemamench'et ye'īndusitrīwochin ye'ēlēkitrik filagwot yamwalall.",
+                    "translation": "The Grand Ethiopian Renaissance Dam (GERD) satisfies industrial electricity demand by generating clean renewable power from the Nile/Abay River."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (29.2.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ኢትዮጵያ በንፋስ፣ በፀሐይ እና በጂኦተርማል ታዳሽ ሃይል ዘርፍ ከፍተኛ የተፈጥሮ እምቅ አቅም ያላት ሀገር ናት።",
+                    "reading": "Ītyop'ya benifas, bets'ehay ina bejī'otermal tadash hayil zerf kefitegna yetefet'ro imiq aqim yalat hager nat.",
+                    "translation": "Ethiopia is a nation endowed with vast natural potential in wind, solar, and geothermal renewable energy sectors."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (29.2.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የኤሌክትሪክ ሃይልን ለጎረቤት ሀገራት መሸጥ የቀጠናዊ የኢኮኖሚ ትስስርን እና የጋራ ልማትን ያጠናክራል 29.2.3።",
+                    "reading": "Ye'ēlēkitrik hayiln legorebēt hagerat meshet' yeqet'enawī ye'īkonomī tisissirn ina yegara limatn yat'enakiral.",
+                    "translation": "Exporting electricity to neighboring nations reinforces regional economic integration and shared development."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የአካባቢ ጥበቃ (Environmental Science)"
+                "«ታዳሽ ሃይል» = Renewable energy! «ህዳሴ ግድብ» = GERD! «ንጹህ ሃይል» = Clean green power!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "GERD is funded entirely through domestic bonds, diaspora contributions, and citizen donations, symbolizing self-reliance and sovereign determination."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የአካባቢ ጥበቃ (Environmental Science)» አጠቃቀም በደረጃ 2 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "በአባይ ወንዝ ላይ የተገነባው የአፍሪካ ትልቁ የውሃ ሃይል ማመንጫ ግድብ ምን ይባላል?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (29.2.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (29.2.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (29.2.3)።"
+                        "ታላቁ የኢትዮጵያ ህዳሴ ግድብ (GERD)",
+                        "አስዋን ግድብ (Aswan Dam)",
+                        "የካሪባ ግድብ (Kariba Dam)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "ታላቁ የኢትዮጵያ ህዳሴ ግድብ (GERD) is Africa's largest hydroelectric project."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«አካባቢ ጥበቃ እና ዘላቂ ልማት (Ecology & Sustainable Development)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 2)፡",
+                    "prompt": "«ታዳሽ ሃይል» ለምን ለአካባቢ ተስማሚ ነው ይባላል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (29.2.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (29.2.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (29.2.3)።"
+                        "It burns diesel fuel",
+                        "It generates energy without harmful greenhouse carbon emissions (የካርቦን ልቀትን አይፈጥርም)",
+                        "It consumes fresh water"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "Renewable energy produces minimal greenhouse gases."
                 }
             ]
         },
@@ -14647,85 +14664,94 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የአካባቢ ጥበቃ (Environmental Science)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 29-2)?",
+                    "prompt": "እንደ ውሃ፣ ንፋስ እና ፀሐይ ያሉ የማያልቁ የሃይል ምንጮች ምን ይባላሉ?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (29.2.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (29.2.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (29.2.3)።"
+                        "የድንጋይ ከሰል (Coal)",
+                        "የነዳጅ ዘይት (Petroleum)",
+                        "ታዳሽ ሃይል (Renewable energy)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "ታዳሽ ሃይል (Renewable energy) comes from naturally replenishing resources."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ደን_29_2»):",
+                    "prompt": "Type the Amharic word for 'dam' in Fidel script (ግድብ):",
                     "acceptedAnswers": [
-                        "ደን_29_2"
+                        "ግድብ",
+                        "gidib",
+                        "Gidib"
                     ],
-                    "explanation": "The target keyword was: 【ደን_29_2】"
+                    "explanation": "ግድብ (Gidib) means 'dam'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u29-l3": {
         "id": "am-u29-l3",
-        "subject": "amharic",
-        "unit": 29,
-        "lessonNumber": 3,
-        "title": "አካባቢ ጥበቃ እና ዘላቂ ልማት (Ecology & Sustainable Development) (Part 3)",
+        "unit": "am-u29",
         "level": "C1",
-        "objective": "Comprehensive mastery of የአካባቢ ጥበቃ (Environmental Science).",
+        "objective": "Appraise nationwide afforestation initiatives («የአረንጓዴ አሻራ መርሃ-ግብር»), indigenous seedling planting («ችግኝ መትከል»), soil erosion control («የአፈር መሸርሸር መከላከል»), and watershed rehabilitation.",
+        "prerequisites": [
+            "am-u29-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u29-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የአካባቢ ጥበቃ (Environmental Science) - ደረጃ 3) ተማሪዎች ስለ የአካባቢ ጥበቃ (Environmental Science) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Reforestation and watershed restoration rehabilitate degraded soils and bolster rainfall capture.\n\n1. Forestry & Conservation Terms:\n- **የአረንጓዴ አሻራ መርሃ-ግብር** (Green Legacy Initiative — Nationwide multi-billion tree planting initiative)\n- **ችግኝ መትከል** (Seedling planting and sapling care)\n- **የአፈር መሸርሸር** (Soil erosion and topsoil depletion)\n- **የተፋሰስ ልማት** (Watershed management and terracing)\n- **የደን ሽፋን** (Forest canopy coverage).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየአካባቢ ጥበቃ (Environmental Science) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (29.3.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "የአረንጓዴ አሻራ መርሃ-ግብር በየክረምቱ በቢሊዮኖች የሚቆጠሩ ችግኞችን በመትከል የሀገሪቱን የደን ሽፋን በከፍተኛ መጠን አሳድጓል።",
+                    "reading": "Ye'arengwadē ashara merha-gibir beyekiremtu bebīlīyonoch yemīqot'eru chignignochin bemetkel yehagerītun yeden shiffan bekefitegna met'en asadgwal.",
+                    "translation": "The Green Legacy Initiative has substantially expanded national forest cover by planting billions of seedlings each rainy season."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (29.3.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "በተራራማ ቦታዎች ላይ የእርከን ስራ እና የዛፍ ተከላ ማካሄድ የአፈር መሸርሸርን ለመከላከል ፍቱን መፍትሄ ነው።",
+                    "reading": "Beterarama botawach lay ye'irken sira ina yezaf tekela makahēd ye'afer mesherishern lemeqelakel fit'un mefitihe new.",
+                    "translation": "Implementing terracing and tree planting on mountainous slopes is an effective remedy to prevent topsoil erosion."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (29.3.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የተተከሉ ችግኞችን በጥንቃቄ ማሳደግ እና መጠበቅ የደን ሀብትን ለቀጣዩ ትውልድ ለማስተላለፍ ቁልፍ ሃላፊነት ነው 29.3.3።",
+                    "reading": "Yetetekelu chignignochin bet'inqaqē masadeg ina met'ebeq yeden habtn leqet'ayu tiwlid lemasitelalef qulif halafīnet new.",
+                    "translation": "Nurturing planted saplings is a key responsibility to pass forest wealth onto future generations."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የአካባቢ ጥበቃ (Environmental Science)"
+                "«አረንጓዴ አሻራ» = Green Legacy! «ችግኝ መትከል» = Planting saplings! «የአፈር መሸርሸር» = Soil erosion!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Ethiopia's sacred church forests (የደብር ዛፎች) have preserved pockets of ancient primary Afromontane biodiversity for centuries, serving as living conservation models."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የአካባቢ ጥበቃ (Environmental Science)» አጠቃቀም በደረጃ 3 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "የአፈር ለምነት እንዳይታጠብ እና መሬት እንዳይጎዳ የሚሰራው የመከላከያ ዘዴ የትኛው ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (29.3.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (29.3.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (29.3.3)።"
+                        "የዛፍ ተከላ እና የእርከን ስራ (Tree planting & terracing)",
+                        "ዛፎችን መቁረጥ (Deforestation)",
+                        "ድንጋይ መወርወር (Throwing stones)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "የዛፍ ተከላ እና እርከን prevent soil erosion and land degradation."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«አካባቢ ጥበቃ እና ዘላቂ ልማት (Ecology & Sustainable Development)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 3)፡",
+                    "prompt": "«የአረንጓዴ አሻራ» ዋና አላማ ምንድን ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (29.3.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (29.3.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (29.3.3)።"
+                        "Selling timber overseas",
+                        "Massive reforestation, drought resilience, and expanding forest cover (የደን ሽፋንን ማሳደግ እና የአካባቢ ጥበቃ)",
+                        "Painting fences green"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "የአረንጓዴ አሻራ restores forests, protects soils, and counters desertification."
                 }
             ]
         },
@@ -14733,85 +14759,95 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የአካባቢ ጥበቃ (Environmental Science)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 29-3)?",
+                    "prompt": "በየአመቱ በክረምት ወቅት ለደን ልማት የሚተከለው አዲስ ተክል ምን ይባላል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (29.3.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (29.3.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (29.3.3)።"
+                        "ችግኝ (Seedling / Sapling)",
+                        "የደረቀ እንጨት (Dry wood)",
+                        "የፕላስቲክ አበባ (Plastic flower)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "ችግኝ (Chignign) is a young seedling planted for afforestation."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ደን_29_3»):",
+                    "prompt": "Type the Amharic word for 'forest' in Fidel script (ደን):",
                     "acceptedAnswers": [
-                        "ደን_29_3"
+                        "ደን",
+                        "den",
+                        "Den",
+                        "ደን"
                     ],
-                    "explanation": "The target keyword was: 【ደን_29_3】"
+                    "explanation": "ደን (Den) means 'forest'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u29-l4": {
         "id": "am-u29-l4",
-        "subject": "amharic",
-        "unit": 29,
-        "lessonNumber": 4,
-        "title": "አካባቢ ጥበቃ እና ዘላቂ ልማት (Ecology & Sustainable Development) (Part 4)",
+        "unit": "am-u29",
         "level": "C1",
-        "objective": "Comprehensive mastery of የአካባቢ ጥበቃ (Environmental Science).",
+        "objective": "Examine climate adaptation mechanisms, drought early warning systems («የድርቅ ቅድመ ማስጠንቀቂያ»), smallholder irrigation infrastructure («ዘመናዊ የመስኖ እርሻ»), and climate-resilient green economy strategies.",
+        "prerequisites": [
+            "am-u29-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u29-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የአካባቢ ጥበቃ (Environmental Science) - ደረጃ 4) ተማሪዎች ስለ የአካባቢ ጥበቃ (Environmental Science) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Climate resilience integrates scientific early warning systems, irrigation infrastructure, and sustainable food sovereignty.\n\n1. Climate Resilience Terminology:\n- **የአየር ንብረት ለውጥ** (Climate change and global temperature rise)\n- **ድርቅን መቋቋም** (Drought resilience and mitigation)\n- **ዘመናዊ የመስኖ እርሻ** (Modern irrigated agriculture: river diversions, boreholes, drip lines)\n- **የምግብ ዋስትና** (Food security and sovereign nutrition)\n- **የአየር ንብረት የማይበገር አረንጓዴ ኢኮኖሚ** (Climate-Resilient Green Economy / CRGE).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየአካባቢ ጥበቃ (Environmental Science) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (29.4.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "በክረምት ዝናብ ላይ ብቻ ከመተማመን ይልቅ በመስኖ ልማት የበጋ ስንዴን በስፋት ማምረት የምግብ ዋስትናን አረጋግጧል።",
+                    "reading": "Bekiremt zinab lay bicha kemetemamen yiliq bemesno limat yebega sindēn besifat mamret yemigib wastinan aregagit'wall.",
+                    "translation": "Cultivating summer wheat extensively through irrigation rather than relying solely on rainfed farming has secured food security."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (29.4.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የድርቅ ቅድመ ማስጠንቀቂያ ስርዓት እና የከርሰ ምድር ውሃ አጠቃቀም የአርብቶ አደር ማህበረሰቦችን ከአየር ንብረት አደጋ ይጠብቃል።",
+                    "reading": "Yedirq qidme masit'enqeqīya sir'at ina yekirse midir waha at'eqaqem ye'arbito ader mahiberesebochin ke'ayer nibret adega yit'ebiqall.",
+                    "translation": "Early warning systems and groundwater utilization protect pastoral communities from climate risks."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (29.4.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የአየር ንብረት ለውጥን የሚቋቋም ዘላቂ የግብርና ስርዓት መገንባት ለሀገሪቱ የኢኮኖሚ ህልውና ወሳኝ ምሰሶ ነው 29.4.3።",
+                    "reading": "Ye'ayer nibret lewit'n yemīqwaqwam zelaqī yegibirna sir'at meginbat lehagerītu ye'īkonomī hiliwinna wesagn miseso new.",
+                    "translation": "Building a climate-resilient sustainable agricultural system is a vital pillar for national economic survival."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የአካባቢ ጥበቃ (Environmental Science)"
+                "«የመስኖ እርሻ» = Irrigated agriculture! «የምግብ ዋስትና» = Food security! «ድርቅ መቋቋም» = Drought resilience!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Ethiopia's irrigated summer wheat initiative transformed millions of lowland hectares, transitioning the country from a wheat importer into a net regional exporter."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የአካባቢ ጥበቃ (Environmental Science)» አጠቃቀም በደረጃ 4 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "ዝናብ በማይኖርበት ወቅት የውሃ መስመሮችን በመጠቀም ሰብልን የማልማት ዘዴ ምን ይባላል?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (29.4.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (29.4.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (29.4.3)።"
+                        "የመስኖ እርሻ (Irrigation farming)",
+                        "የበረሃ ጉዞ (Desert journey)",
+                        "ስፖርታዊ እንቅስቃሴ (Sports activity)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "የመስኖ እርሻ (Irrigation farming) enables year-round cultivation using channeled water."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«አካባቢ ጥበቃ እና ዘላቂ ልማት (Ecology & Sustainable Development)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 4)፡",
+                    "prompt": "«የአየር ንብረት ለውጥን መቋቋም» ለምን ያስፈልጋል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (29.4.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (29.4.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (29.4.3)።"
+                        "To play games",
+                        "To protect communities, crops, and ecosystems against drought and flooding (ከድርቅ እና ከጎርፍ አደጋ ለመጠበቅ)",
+                        "To stop the wind"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "Climate resilience protects human settlements and food supplies against environmental shocks."
                 }
             ]
         },
@@ -14819,85 +14855,94 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የአካባቢ ጥበቃ (Environmental Science)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 29-4)?",
+                    "prompt": "የአንድ ሀገር ህዝብ በቂ እና የተመጣጠነ ምግብ በቋሚነት የማግኘት ዋስትና ምን ይባላል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (29.4.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (29.4.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (29.4.3)።"
+                        "የሆቴል ምናሌ (Hotel menu)",
+                        "የምግብ ዋስትና (Food security)",
+                        "የገበያ እረፍት (Market holiday)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "የምግብ ዋስትና (Food security) signifies reliable access to sufficient nutrition."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ደን_29_4»):",
+                    "prompt": "Type the Amharic word for 'irrigation' in Fidel script (መስኖ):",
                     "acceptedAnswers": [
-                        "ደን_29_4"
+                        "መስኖ",
+                        "mesno",
+                        "Mesno"
                     ],
-                    "explanation": "The target keyword was: 【ደን_29_4】"
+                    "explanation": "መስኖ (Mesno) means 'irrigation'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u29-l5": {
         "id": "am-u29-l5",
-        "subject": "amharic",
-        "unit": 29,
-        "lessonNumber": 5,
-        "title": "አካባቢ ጥበቃ እና ዘላቂ ልማት (Ecology & Sustainable Development) (Part 5)",
+        "unit": "am-u29",
         "level": "C1",
-        "objective": "Comprehensive mastery of የአካባቢ ጥበቃ (Environmental Science).",
+        "objective": "Synthesize biodiversity protection, renewable hydro-energy, the Green Legacy Initiative, and climate-resilient irrigated agriculture into a comprehensive national ecological blueprint in Amharic.",
+        "prerequisites": [
+            "am-u29-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u29-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የአካባቢ ጥበቃ (Environmental Science) - ደረጃ 5) ተማሪዎች ስለ የአካባቢ ጥበቃ (Environmental Science) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "This lesson consolidates wildlife habitat conservation, renewable megadams, afforestation campaigns, and food security into an integrated green development charter.\n\n1. Green Blueprint Dimensions:\n- **Biodiversity Conservation:** «የብርቅዬ እንስሳት እና የብሔራዊ ፓርኮች ጥበቃ...»\n- **Clean Energy Transition:** «የህዳሴ ግድብ እና የታዳሽ ሃይል ልማት...»\n- **Watershed Afforestation:** «የአረንጓዴ አሻራ እና የችግኝ ተከላ...»\n- **Climate-Resilient Agriculture:** «የመስኖ እርሻ እና የምግብ ዋስትና...»",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየአካባቢ ጥበቃ (Environmental Science) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (29.5.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "የኢትዮጵያ የአረንጓዴ ኢኮኖሚ ስትራቴጂ የተፈጥሮ ሀብቶችን ከመጠበቅ ጎን ለጎን ንጹህ ታዳሽ ሃይልን በማስፋፋት ዘላቂ ልማትን ያረጋግጣል።",
+                    "reading": "Ye'ītyop'ya ye'arengwadē īkonomī sitratējī yetefet'ro habtochin kemet'ebeq gon legon nits'uh tadash hayiln bemasfafat zelaqī limatn yaregagit'all.",
+                    "translation": "Ethiopia's green economy strategy ensures sustainable development by expanding clean renewable energy alongside conserving natural resources."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (29.5.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የብዝሃ-ህይወት ጥበቃ፣ የደን ልማት እና ዘመናዊ የመስኖ ግብርና ተቀናጅተው ሲሰሩ ሀገራዊ የምግብ ዋስትና እና የስነ-ምህዳር ሚዛን ይጠበቃል 29.5.2።",
+                    "reading": "Yebizha-hiywot t'ibeqqa, yeden limat ina zemenawī yemesno gibirna teqenajitew sīseru hagerawī yemigib wastina ina yesine-mihidar mīzan yit'ebeqqall.",
+                    "translation": "When biodiversity conservation, forestry, and modern irrigation work synergistically, food security and ecological balance are preserved."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (29.5.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ተፈጥሮን መጠበቅ እና መንከባከብ ለዛሬው ትውልድ ደህንነት ብቻ ሳይሆን ለመጪው ትውልድ ህልውና የተገባ ታላቅ ቃል ኪዳን ነው 29.5.3።",
+                    "reading": "Tefet'ron met'ebeq ina menkebabek lezarēw tiwlid dehinninet bicha sayhon lemech'īw tiwlid hiliwinna yetegeba talaq qal kīdan new.",
+                    "translation": "Protecting nature is a covenant not only for today's well-being but for the survival of upcoming generations."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የአካባቢ ጥበቃ (Environmental Science)"
+                "Eco Quad: Biodiversity (ብዝሃ-ህይወት) + Energy (GERD/ታዳሽ) + Forest (አረንጓዴ አሻራ) + Irrigation (መስኖ) = Sustainable Ethiopia!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Ethiopia's Climate-Resilient Green Economy (CRGE) strategy was among the world's first national development plans aiming for middle-income status with net-zero greenhouse gas emissions."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የአካባቢ ጥበቃ (Environmental Science)» አጠቃቀም በደረጃ 5 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "የአረንጓዴ ኢኮኖሚ ስትራቴጂ ዋና ግብ ምንድን ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (29.5.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (29.5.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (29.5.3)።"
+                        "Achieving economic prosperity with zero carbon emissions and environmental care (አካባቢን ሳይጎዱ ዘላቂ ልማትን ማረጋገጥ)",
+                        "Cutting all forests (ደን መጨፍጨፍ)",
+                        "Increasing fossil fuel usage (ነዳጅ ማቃጠል)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "Green economy strategies balance economic development with ecological sustainability."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«አካባቢ ጥበቃ እና ዘላቂ ልማት (Ecology & Sustainable Development)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 5)፡",
+                    "prompt": "በዚህ ክፍል ካጠናናቸው ውስጥ ለዘላቂ ልማት ወሳኝ የሆነው የትኛው ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (29.5.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (29.5.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (29.5.3)።"
+                        "የተፈጥሮ ሀብት ጥበቃ እና ታዳሽ ሃይል (Resource conservation & renewable energy)",
+                        "መሬትን ማበላሸት (Land degradation)",
+                        "ዝናብን መጠበቅ ብቻ (Waiting for rain only)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "Conserving natural resources and investing in renewables secures sustainable development."
                 }
             ]
         },
@@ -14905,24 +14950,27 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የአካባቢ ጥበቃ (Environmental Science)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 29-5)?",
+                    "prompt": "የአካባቢ ጥበቃ እና ዘላቂ ልማት ለማን ይጠቅማል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (29.5.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (29.5.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (29.5.3)።"
+                        "ለዛሬው እና ለመጪው ትውልድ (For current and future generations)",
+                        "ለማንም አይጠቅምም (Benefits no one)",
+                        "ለጥቂት ሰዎች ብቻ (For a few only)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "Environmental sustainability preserves resources for both present and future generations."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ደን_29_5»):",
+                    "prompt": "Type the Amharic word for 'environment / ecology' in Fidel script (አካባቢ):",
                     "acceptedAnswers": [
-                        "ደን_29_5"
+                        "አካባቢ",
+                        "akababi",
+                        "Akababi"
                     ],
-                    "explanation": "The target keyword was: 【ደን_29_5】"
+                    "explanation": "አካባቢ (Akababī) means 'environment / surroundings'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u30-l1": {
