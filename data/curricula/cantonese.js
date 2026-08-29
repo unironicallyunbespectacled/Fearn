@@ -9730,62 +9730,100 @@
     "hk-u18-l1": {
         "id": "hk-u18-l1",
         "subject": "cantonese",
-        "unit": 18,
-        "lessonNumber": 1,
-        "title": "條件句：如果...就 (Conditionals) (Part 1)",
+        "unit": "hk-u18",
         "level": "B2",
-        "objective": "Comprehensive mastery of 條件假設句式 (Conditionals: 如果...就).",
+        "objective": "Master real and open conditional patterns using 如果 (jyu4 gwo2), 假使 (gaa2 si2), 若果 (joek6 gwo2), and the topic-marking conditional suffix ...嘅話 (...ge3 waa2).",
+        "prerequisites": [
+            "hk-u17-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u17-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（條件假設句式 (Conditionals: 如果...就) - 第1部分）入面，我哋會探討廣東話嘅核心語用語境同埋條件假設句式 (Conditionals: 如果...就)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "廣東話嘅「**條件假設句（Conditionals）**」係商務溝通、日常協商同邏輯論述嘅基礎。掌握標準條件關聯詞與口語後綴搭配，能令假設語氣更加自然生動！\n\n### 🌲 1. 核心假設關聯詞：\n- **如果 (jyu4 gwo2)**：最常用、最通用的條件標記（If）。\n- **若果 (joek6 gwo2) / 若然 (joek6 jin4)**：略帶正式與書面色彩（If / in the event that）。\n- **假使 (gaa2 si2)**：假定、假若（Supposing that）。\n\n### 🧩 2. 口語關鍵標記：...嘅話 (ge3 waa2) [Conditional Suffix]：\n- 💡 **粵語獨特習慣**：喺廣東話口語入面，假設分句末尾**極常加上「嘅話 (ge3 waa2)」**。甚至可以**省略句首的「如果」**，單靠「...嘅話」就能完整成立假設句！\n  - **如果**落雨**嘅話**，我哋**就**取消聽日嘅行山活動。(If it rains, we'll cancel tomorrow's hike.)\n  - （省略如果）你聽日得閒**嘅話**，**就**過嚟我屋企食飯啦！(If you are free tomorrow, come to my house for dinner!)\n\n### 🔗 3. 結果連接詞：就 (zau6) / 便 (bin6)：\n- 承接條件分句後的必然結果或行動決策：\n  - 若果客戶滿意方案，我哋聽日**就 (zau6)** 簽約。(If client is satisfied, we'll sign tomorrow.)",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (18.1.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "如果聽日天文台掛八號風球嘅話，全港學校同股票市場就會停課停市。",
+                    "reading": "Jyu4 gwo2 ting1 jat6 tin1 man4 toi4 gwaa3 baat3 hou6 fung1 kau4 ge3 waa2, cyun4 gong2 hok6 haau6 tung4 gu2 piu3 si5 coeng4 zau6 wui5 ting4 fo3 ting4 si5.",
+                    "translation": "If the Hong Kong Observatory hoists the No. 8 typhoon signal tomorrow, all schools and the stock market across HK will be suspended."
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (18.1.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "你陣間經過樓下麵包舖嘅話，順便幫我買兩條熱辣辣嘅法包返嚟啦。",
+                    "reading": "Nei5 zan6 gaan1 ging1 gwo3 lau4 haa6 min6 baau1 pou3 ge3 waa2, seon6 bin6 bong1 ngo5 maai5 loeng5 tiu4 jit6 laat6 laat6 ge3 faat3 baau1 faan1 lai4 laa1.",
+                    "translation": "If you pass by the downstairs bakery in a little while, conveniently buy two piping hot baguettes back for me."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (18.1.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "若果雙方對合約條款達成共識，我哋下星期一便正式啟動項目。",
+                    "reading": "Joek6 gwo2 soeng1 fong1 deoi3 hap6 joek3 tiu4 fun2 daat6 sing4 gung6 sik1, ngo5 dei6 haa6 sing1 kei4 jat1 bin6 zing3 sik1 kai2 dung6 hong6 muk6.",
+                    "translation": "If both parties reach a consensus on the contract terms, we shall formally launch the project next Monday."
+                },
+                {
+                    "target": "假使預算唔足夠嘅話，我哋就要考慮削減部分宣傳活動嘅開支。",
+                    "reading": "Gaa2 si2 jyu6 syun3 m4 zuk1 gau3 ge3 waa2, ngo5 dei6 zau6 jiu3 haau2 leoi6 seok3 gaam2 bou6 fan6 syun1 cyun4 wut6 dung6 ge3 hoi1 zi1.",
+                    "translation": "Supposing the budget is insufficient, we will have to consider cutting expenditures on some promotional activities."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 條件假設句式 (Conditionals: 如果...就)"
+                "Conditional Blueprint: [(如果/若果/假使) + Condition + 嘅話, (Subject) + 就/便 + Result]!",
+                "Everyday Shortcut: Just say '...嘅話，就...' (得閒嘅話就嚟 = If free then come)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "Typhoon Signal No. 8 (八號風球): In Hong Kong, conditional announcements like '如果掛八號風球就停工停課' govern civic and financial operations.",
+                "Warm Neighborly Requests: Phrasing favors with '...嘅話，順便幫我...' is the signature polite style among Hong Kong colleagues and friends."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「條件假設句式 (Conditionals: 如果...就)」喺第1節嘅地道廣東話表達？",
+                    "prompt": "想用最地道嘅口語假設句表達「如果你明天有空，就來我家吃飯」，應講：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (18.1.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (18.1.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (18.1.3)。"
+                        "你聽日得閒嘅話，就嚟我屋企食飯啦 (dak1 haan4 ge3 waa2, zau6 lai4)",
+                        "你明天有空的話，便去我家吃",
+                        "被你有空，來我家吃飯",
+                        "由你有空，去我家吃飯"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "[...得閒嘅話，就...] 係廣東話日常最自然嘅假設句式。"
+                },
+                {
+                    "prompt": "在商務文告中，「若果雙方達成共識，我哋便啟動項目」中的「若果 (joek6 gwo2)」意為：",
+                    "options": [
+                        "如果 / 假若（具正式書面色彩的條件詞） (If / In case)",
+                        "因為 / 由於",
+                        "雖然 / 儘管",
+                        "所以 / 因而"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "若果為正式條件詞。"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「條件句：如果...就 (Conditionals)」語境嘅廣東話完整句子（練習 1）：",
+                    "prompt": "廣東話口語中，句尾加上「嘅話 (ge3 waa2)」的主要語法作用是：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (18.1.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (18.1.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (18.1.3)。"
+                        "將前述內容標記為假設條件（If / in case）",
+                        "表示過去完成時",
+                        "表示被動受害",
+                        "表示疑問句"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "「嘅話」是粵語標誌性的假設條件後綴。"
+                },
+                {
+                    "prompt": "句子「如果掛八號風球，股市就會停市」，「就」在這裡表示：",
+                    "options": [
+                        "條件滿足後的必然結果或行動承接 (consequential result)",
+                        "時間非常短",
+                        "空間距離近",
+                        "只有一個人"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "就承接條件句的結果。"
                 }
             ]
         },
@@ -9793,85 +9831,127 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「條件假設句式 (Conditionals: 如果...就)」嘅日常商務與生活習慣（考核 18-1）？",
+                    "prompt": "在廣東話日常對話中，即使省略句首的「如果」，下列哪一個結構依然能獨立表達完整假設？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (18.1.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (18.1.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (18.1.3)。"
+                        "你得閒「嘅話」，就過嚟搵我啦！",
+                        "你得閒「嘅人」，就過嚟搵我啦！",
+                        "你得閒「嘅嘢」，就過嚟搵我啦！",
+                        "你得閒「嘅地方」，就過嚟搵我啦！"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "「...嘅話」可獨立承擔假設條件標記功能。"
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («如果_18_1»):",
+                    "prompt": "Type the 2-character Hanzi for the conditional suffix '...if so / in case' in Cantonese (嘅話):",
                     "acceptedAnswers": [
-                        "如果_18_1"
+                        "嘅話",
+                        "ge3 waa2",
+                        "ge3waa2"
                     ],
-                    "explanation": "The target keyword was: 【如果_18_1】"
+                    "explanation": "嘅話 (ge3 waa2) is the quintessential Cantonese conditional suffix."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u18-l2": {
         "id": "hk-u18-l2",
         "subject": "cantonese",
-        "unit": 18,
-        "lessonNumber": 2,
-        "title": "條件句：如果...就 (Conditionals) (Part 2)",
+        "unit": "hk-u18",
         "level": "B2",
-        "objective": "Comprehensive mastery of 條件假設句式 (Conditionals: 如果...就).",
+        "objective": "Master the pragmatic use of 咪 (mai6 - 'then obviously / why not') as a colloquial conditional connector replacing or reinforcing 就 (zau6).",
+        "prerequisites": [
+            "hk-u18-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u18-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（條件假設句式 (Conditionals: 如果...就) - 第2部分）入面，我哋會探討廣東話嘅核心語用語境同埋條件假設句式 (Conditionals: 如果...就)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "喺廣東話口語嘅條件句入面，除咗「就 (zau6)」，有一個極具港式口吻、出現頻率超高嘅神級連接詞 —— **咪 (mai6)**！\n\n### 🔥 1. 咪 (mai6) 的核心語用功能：\n- **語義**：相當於「**那就不就 / 那就當然 / 何不（Then obviously / Then naturally / Why not）**」。\n- **語氣**：帶有**理所當然、顯而易見、順理成章或輕鬆給出建議**嘅語氣。\n\n### 🗣️ 2. 典型口語條件對照與應用：\n- **遇到問題時的理所當然建議**：\n  - 你唔明**咪**問老師囉！(If you don't understand, then obviously just ask the teacher!)\n  - 唔識路**咪**睇手機地圖囉！(If you don't know the way, just check the map!)\n- **順應客觀條件的豁達心態**：\n  - 冇位坐**咪**企下囉，好快到啦。(If no seats, then just stand; arriving soon anyway.)\n  - 買唔到**咪**算囉，唔使唔開心。(If you couldn't buy it, then forget it; no need to be upset.)\n- **積極好處的順推**：\n  - 聽日老細唔返嚟，大家**咪**可以準時收工囉！(Boss isn't coming tomorrow, then we can all leave on time!)",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (18.2.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "A: 哎呀，今晚餐廳全部爆滿訂唔到位呀！ B: 咁咪買外賣返屋企食囉，一樣咁開心！",
+                    "reading": "A: Aai1 jaa1, gam1 maan5 caan1 teng1 cyun4 bou6 baau3 mun5 deng3 m4 dou2 wai2 aa3! B: Gam2 mai6 maai5 ngoi6 maai6 faan1 uk1 kei2 sik6 lo1, jat1 joeng6 gam3 hoi1 sam1!",
+                    "translation": "A: Oh no, tonight the restaurants are all packed and we can't book a table! B: Then obviously buy takeaway home to eat, just as happy!"
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (18.2.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "你覺得間房咁焗，咪開大部冷氣或者開窗通風囉。",
+                    "reading": "Nei5 gok3 dak1 gaan1 fong2 gam3 guk6, mai6 hoi1 daai6 bou6 laang5 hei3 waak6 ze2 hoi1 coeng1 tung1 fung1 lo1.",
+                    "translation": "If you feel the room is so stuffy, then obviously turn up the air conditioner or open windows for ventilation."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (18.2.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "做人最緊要知足，賺到錢咪同屋企人去旅行開心下囉。",
+                    "reading": "Zou6 jan4 zeoi3 gan2 jiu3 zi1 zuk1, zaan6 dou2 cin2 mai6 tung4 uk1 kei2 jan4 heoi3 leoi5 hang4 hoi1 sam1 haa5 lo1.",
+                    "translation": "In life the most important thing is contentment; when you earn money, then naturally travel with family and have fun."
+                },
+                {
+                    "target": "佢如果唔想去咪由得佢囉，我哋自己去食海鮮大餐！",
+                    "reading": "Keoi5 jyu4 gwo2 m4 soeng2 heoi3 mai6 jau4 dak1 keoi5 lo1, ngo5 dei6 zi6 gei2 heoi3 sik6 hoi2 sin1 daai6 caan1!",
+                    "translation": "If he doesn't want to go, then just let him be; we'll go have a seafood feast ourselves!"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 條件假設句式 (Conditionals: 如果...就)"
+                "咪 (mai6) = 'Then obviously!' [唔明咪問 = don't know, then ask; 攰咪瞓 = tired, then sleep]!",
+                "Golden Duo: 咪...囉 (mai6...lo1) -> Relaxed pragmatic resolution!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "Hong Kong Pragmatic Philosophy '咁咪算囉': Hong Kongers handle daily inconveniences with the breezy resilience of '咁咪算囉 (then just let it go / no big deal)'.",
+                "Conversational Warmth: Using '咪 (mai6)' prevents suggestions from sounding like bossy orders, giving them a casual, friendly tone."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「條件假設句式 (Conditionals: 如果...就)」喺第2節嘅地道廣東話表達？",
+                    "prompt": "朋友抱怨找不到路，你給出理所當然的建議「不知道路那就看地圖唄」，最地道嘅廣東話係：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (18.2.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (18.2.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (18.2.3)。"
+                        "唔識路咪睇地圖囉！ (m4 sik1 lou6 mai6 tai2 dei6 tou4 lo1)",
+                        "唔識路就必須看地圖",
+                        "被你不識路看地圖",
+                        "由你去看地圖"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "「咪...囉」係粵語最親切自然嘅順推建議句式。"
+                },
+                {
+                    "prompt": "廣東話條件句中「咪 (mai6)」的核心語氣特點係：",
+                    "options": [
+                        "表達顯而易見、理所當然或輕鬆豁達的順推結果 (obvious/natural deduction)",
+                        "表達極度憤怒與斥責",
+                        "表達對未來的懷疑與恐懼",
+                        "表達古代文言文"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "咪帶有理所當然、順理成章的語氣。"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「條件句：如果...就 (Conditionals)」語境嘅廣東話完整句子（練習 2）：",
+                    "prompt": "句子「訂唔到位咪買外賣返屋企食囉」，體現咗廣東話人邊種生活態度？",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (18.2.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (18.2.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (18.2.3)。"
+                        "靈活變通、輕鬆豁達的應變思維 (pragmatic flexibility)",
+                        "絕不妥協",
+                        "悲觀絕望",
+                        "喜歡浪費食物"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "展現靈活變通的港式生活哲學。"
+                },
+                {
+                    "prompt": "「你攰咪早啲瞓囉」入面嘅「咪」可以用邊個字替換而基本語義不變？",
+                    "options": [
+                        "就 (zau6)",
+                        "畀 (bei2)",
+                        "將 (zoeng1)",
+                        "過 (gwo3)"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "咪在條件句中對應「就」，但口語色彩更濃。"
                 }
             ]
         },
@@ -9879,85 +9959,126 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「條件假設句式 (Conditionals: 如果...就)」嘅日常商務與生活習慣（考核 18-2）？",
+                    "prompt": "下列邊一句最生動咁展現咗「咪...囉」嘅地道廣東話口語魅力？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (18.2.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (18.2.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (18.2.3)。"
+                        "做嘢攰咪休息下囉，唔使逼得自己咁緊嘅！",
+                        "今天星期二我要去銀行開戶口",
+                        "香港的地鐵非常快速準時",
+                        "這是一本英文語法書"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "完美體現 [攰咪休息下囉] 嘅地道親切語氣。"
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («如果_18_2»):",
+                    "prompt": "Type the 1-character Hanzi for the colloquial conditional connector 'then obviously / why not' in Cantonese (咪):",
                     "acceptedAnswers": [
-                        "如果_18_2"
+                        "咪",
+                        "mai6"
                     ],
-                    "explanation": "The target keyword was: 【如果_18_2】"
+                    "explanation": "咪 (mai6) is the ubiquitous Cantonese colloquial connector for 'then obviously / why not'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u18-l3": {
         "id": "hk-u18-l3",
         "subject": "cantonese",
-        "unit": 18,
-        "lessonNumber": 3,
-        "title": "條件句：如果...就 (Conditionals) (Part 3)",
+        "unit": "hk-u18",
         "level": "B2",
-        "objective": "Comprehensive mastery of 條件假設句式 (Conditionals: 如果...就).",
+        "objective": "Master necessary condition structures using 只有/淨係 (zi2 jau5 / zing6 hai6) paired with the exclusive adverb 先至 (sin1 zi3 - 'only then').",
+        "prerequisites": [
+            "hk-u18-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u18-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（條件假設句式 (Conditionals: 如果...就) - 第3部分）入面，我哋會探討廣東話嘅核心語用語境同埋條件假設句式 (Conditionals: 如果...就)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "同「充分條件（如果...就）」相對，**必要條件（Necessary Condition）** 表示某個前提係達成目標嘅**唯一通道**！喺廣東話入面，核心句型係 **只有 / 淨係 (zi2 jau5 / zing6 hai6) ... 先至 (sin1 zi3)**！\n\n### 🔐 1. 唯一必要條件句式：[只有 / 淨係 + 唯一條件, (主語) + 先至 + 結果]：\n- **先至 (sin1 zi3)**：相當於普通話嘅「才 (cái)」，強調「**唯有在此條件下，才...（Only then）**」。\n  - **只有**大家團結一致，我哋**先至**可以克服呢個難關。(Only if everyone unites can we overcome this difficulty.)\n  - 你做完晒啲功課，**先至准**打機！(Only after you finish all homework are you permitted to game!)\n  - **淨係**有熱情係唔夠嘅，仲要有專業技術**先至得**。(Passion alone isn't enough; professional skills are needed too.)\n\n### ⚖️ 2. 口語精簡結構：[動作 A + 先 / 先至 + 動作 B]：\n- 在日常口語中，常常直接把前提放在前面，後接「先至 (sin1 zi3)」：\n  - 等老細簽咗字，我哋**先至**可以過數。(Only after the boss signs can we transfer the funds.)\n  - 儲夠首期，我哋**先至**考慮買樓啦。(Only after saving enough down payment will we consider buying a home.)",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (18.3.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "只有持續不斷咁練習，你講廣東話先至可以好似本地人咁流利地道！",
+                    "reading": "Zi2 jau5 ci4 zuk6 bat1 dyun3 gam2 lin6 zaap6, nei5 gong2 Gwong2 dung1 waa2 sin1 zi3 ho2 ji5 hou2 ci5 bun2 dei6 jan4 gam3 lau4 lei6 dei6 dou6!",
+                    "translation": "Only by practicing continuously can you speak Cantonese as fluently and authentically as a local!"
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (18.3.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "呢個伺服器權限好嚴密，淨係系統管理員輸入密碼先至開得入去。",
+                    "reading": "Ni1 go3 si6 fuk6 hei3 kyun4 haan6 hou2 jim4 mat6, zing6 hai6 hai6 tung2 gun2 lei5 jan4 syu1 jap6 mat6 maa5 sin1 zi3 hoi1 dak1 jap6 heoi3.",
+                    "translation": "This server permission is very strict; only when the system administrator inputs the password can one enter."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (18.3.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "我哋要等全部數據收集齊全，先至好做最終嘅市場決策呀。",
+                    "reading": "Ngo5 dei6 jiu3 dang2 cyun4 bou6 sou3 geoi3 sau1 zaap6 cai4 cyun4, sin1 zi3 hou2 zou6 zeoi3 zung1 ge3 si5 coeng4 kyut3 caak3 aa1.",
+                    "translation": "We need to wait until all data is fully gathered; only then should we make final market decisions."
+                },
+                {
+                    "target": "一間企業淨係識賺錢係唔夠嘅，仲要回饋社會先至稱得上成功。",
+                    "reading": "Jat1 gaan1 kei5 jip6 zing6 hai6 sik1 zaan6 cin2 hai6 m4 gau3 ge3, zung6 jiu3 wui4 kwai5 se5 wui6 sin1 zi3 cing1 dak1 soeng6 sing4 gung1.",
+                    "translation": "For an enterprise, merely knowing how to make money is not enough; it must also give back to society to be called a success."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 條件假設句式 (Conditionals: 如果...就)"
+                "Necessary Condition Lock & Key: [只有 (Only) ... 先至 (Only then) ...]!",
+                "先至 (sin1 zi3) = 'Only then' (等簽字先至過數 = Only transfer funds after signing)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "Hong Kong Housing Goal '儲夠首期先至買樓': The universal rite of passage for young adults in HK revolves around '儲夠首期 (saving enough for the property down payment)'.",
+                "Workplace Compliance: Strict administrative protocols in finance are described with '審批好先至放行 (only release after approval)'."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「條件假設句式 (Conditionals: 如果...就)」喺第3節嘅地道廣東話表達？",
+                    "prompt": "想表達「只有老闆簽名批准了，我們才能付款」，最地道嘅廣東話係：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (18.3.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (18.3.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (18.3.3)。"
+                        "只有老細簽咗名，我哋先至可以畀錢 (sin1 zi3 ho2 ji5)",
+                        "如果老細簽名，我們才給錢",
+                        "被老細簽名，給錢",
+                        "將老細簽名，給錢"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "[只有...先至...] 係標準必要條件結構。"
+                },
+                {
+                    "prompt": "父母管教孩子「做完功課才准看電視」，廣東話口語應講：",
+                    "options": [
+                        "做完功課先至准睇電視！ (sin1 zi3 zeon2)",
+                        "做完功課被准睇電視",
+                        "做完功課將准睇電視",
+                        "做完功課由准睇電視"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "先至 (sin1 zi3) 表達「才准 / 才...」。"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「條件句：如果...就 (Conditionals)」語境嘅廣東話完整句子（練習 3）：",
+                    "prompt": "廣東話關聯詞「先至 (sin1 zi3)」在句中的核心作用是：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (18.3.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (18.3.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (18.3.3)。"
+                        "強調前面是唯一前提條件，滿足後才產生後果 (only then)",
+                        "表示動作正在進行中",
+                        "表示否定過去",
+                        "表示祈使命令"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "先至為獨特之必要承接副詞。"
+                },
+                {
+                    "prompt": "句子「淨係有熱情係唔得嘅，仲要有技術先至得」，「先至得」表示：",
+                    "options": [
+                        "這樣才可以 / 這樣才行 (only then is it acceptable/effective)",
+                        "這樣不行",
+                        "非常昂貴",
+                        "非常便宜"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "先至得表示才行、才算達成標準。"
                 }
             ]
         },
@@ -9965,85 +10086,127 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「條件假設句式 (Conditionals: 如果...就)」嘅日常商務與生活習慣（考核 18-3）？",
+                    "prompt": "對比「如果...就」與「只有...先至」，後者的語義特點在於：",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (18.3.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (18.3.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (18.3.3)。"
+                        "前者為充分條件（只要有A就有B），後者為排他性的唯一必要條件（唯有A才有B）",
+                        "兩者完全相同沒有任何區別",
+                        "前者用於被動，後者用於主動",
+                        "前者只能用於過去時"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "explanation": "只有...先至體現排他性唯一必要條件。"
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («如果_18_3»):",
+                    "prompt": "Type the 2-character Hanzi for 'only then' in Cantonese (先至):",
                     "acceptedAnswers": [
-                        "如果_18_3"
+                        "先至",
+                        "sin1 zi3",
+                        "sin1zi3"
                     ],
-                    "explanation": "The target keyword was: 【如果_18_3】"
+                    "explanation": "先至 (sin1 zi3) means 'only then'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u18-l4": {
         "id": "hk-u18-l4",
         "subject": "cantonese",
-        "unit": 18,
-        "lessonNumber": 4,
-        "title": "條件句：如果...就 (Conditionals) (Part 4)",
+        "unit": "hk-u18",
         "level": "B2",
-        "objective": "Comprehensive mastery of 條件假設句式 (Conditionals: 如果...就).",
+        "objective": "Master counterfactual conditionals expressing past regret (早知...就...) and preventive warnings (好彩...唔係嘅話...).",
+        "prerequisites": [
+            "hk-u18-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u18-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（條件假設句式 (Conditionals: 如果...就) - 第4部分）入面，我哋會探討廣東話嘅核心語用語境同埋條件假設句式 (Conditionals: 如果...就)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "喺反思過去、表達遺憾或者發出警示預防嗰陣，廣東話有兩組極之經典嘅虛擬與預警假設結構：**早知 (zou2 zi1)** 與 **唔係嘅話 (m4 hai6 ge3 waa2)**！\n\n### 💭 1. 遺憾反事實假設：[早知 (zou2 zi1) ... 就 (zau6) ...] (Counterfactual Regret)：\n- **語義**：相當於「**早知道的話...就...（If only I had known earlier, I would have...）**」。\n- **語氣**：用於對已發生嘅事實感到後悔、遺憾或扼腕嘆息：\n  - **早知**塞車咁嚴重，我**就**搭港鐵啦！(If I had known traffic was this bad, I would've taken the MTR!)\n  - **早知**部手機今日大減價，我琴日**就**唔買住啦！(If I had known it'd go on sale today, I wouldn't have bought it yesterday!)\n  - 俗語常言：「千金難買**早知**！」(No amount of gold can buy hindsight!)\n\n### ⚠️ 2. 警示與慶幸結構：[好彩 (hou2 coi2) ... 唔係嘅話 (m4 hai6 ge3 waa2) ... 就 ...]：\n- **唔係嘅話 (m4 hai6 ge3 waa2)**：相當於「**否則的話 / 要不然的話（Otherwise / If not so）**」。\n  - 快啲出門口啦，**唔係嘅話**就趕唔切開會㗎啦！(Hurry out the door, otherwise you won't make the meeting in time!)\n  - **好彩**我有備份檔案，**唔係嘅話**所有資料就冇晒啦！(Luckily I backed up the files; otherwise all data would be gone!)",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (18.4.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "早知今日會落大暴雨，我今朝出門口就帶定把大雨遮啦，搞到而家成身濕晒！",
+                    "reading": "Zou2 zi1 gam1 jat6 wui5 lok6 daai6 bou6 jyu5, ngo5 gam1 ziu1 ceot1 mun4 hau2 zau6 daai3 ding6 baa2 daai6 jyu5 ze1 laa1, gaau2 dou3 ji4 gaa1 seng4 san1 sap1 saai3!",
+                    "translation": "If only I had known it would pour heavily today, I would have brought a big umbrella in advance this morning; now I'm soaked all over!"
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (18.4.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "好彩你頭先及時提醒我，唔係嘅話我就將份機密報表寄錯畀外人啦！",
+                    "reading": "Hou2 coi2 nei5 tau4 sin1 kap6 si4 tai4 seng2 ngo5, m4 hai6 ge3 waa2 ngo5 zau6 zoeng1 fan6 gei1 mat6 bou3 biu2 gei3 co3 bei2 ngoi6 jan4 laa3!",
+                    "translation": "Luckily you reminded me in time just now; otherwise I would have mailed the confidential report to an outsider by mistake!"
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (18.4.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "早知呢間老字號茶餐廳嘅叉燒咁正，我哋一早應該嚟試下啦。",
+                    "reading": "Zou2 zi1 ni1 gaan1 lou5 zi6 hou6 caa4 caan1 teng1 ge3 caa1 siu1 gam3 zeng3, ngo5 dei6 jat1 zou2 jing1 goi1 lai4 si3 haa5 laa1.",
+                    "translation": "If only we had known the char siu at this heritage tea restaurant was so superb, we should have come try it long ago."
+                },
+                {
+                    "target": "請大家準時交齊所有申請文件，唔係嘅話申請程序就會畀人延誤㗎啦。",
+                    "reading": "Cing2 daai6 gaa1 zeon2 si4 gaau1 cai4 so2 jau5 san1 cing2 man4 gin2, m4 hai6 ge3 waa2 san1 cing2 cing4 zeoi6 zau6 wui5 bei2 jan4 jin4 ng6 gaa3 laa3.",
+                    "translation": "Everyone please submit all application documents on time, otherwise the application process will be delayed."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 條件假設句式 (Conditionals: 如果...就)"
+                "Regret: 早知 (zou2 zi1) [早知係咁就唔去 = If I knew, wouldn't go]!",
+                "Relief & Warning: 好彩 (Luckily) ... 唔係嘅話 (Otherwise) ... 就 ...!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "The Universal Proverb '千金難買早知': Hong Kong culture frequently cites '千金難買早知，萬金難買後悔藥' when lamenting stock market dips or missed opportunities.",
+                "Hong Kong Transit Contingency: Saying '好彩搭地鐵，唔係嘅話塞死' is a daily mantra during rush hour cross-harbour traffic."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「條件假設句式 (Conditionals: 如果...就)」喺第4節嘅地道廣東話表達？",
+                    "prompt": "後悔沒有及早買入特價機票，嘆息「早知道這麼便宜，我早就買了」，應講：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (18.4.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (18.4.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (18.4.3)。"
+                        "早知咁平，我一早就買咗啦！ (zou2 zi1 gam3 peng4, ngo5 jat1 zou2 zau6 maai5 zo2)",
+                        "如果咁平，我一早就買咗",
+                        "只有咁平，我一早買",
+                        "將咁平，我一早買"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "「早知...就...」係表達事後遺憾之後悔句式。"
+                },
+                {
+                    "prompt": "慶幸得到朋友幫助，說「好在有你幫忙，要不然的話我就慘了」，地道廣東話係：",
+                    "options": [
+                        "好彩有你幫手，唔係嘅話我就慘啦！ (hou2 coi2... m4 hai6 ge3 waa2)",
+                        "早知有你幫手，如果我就慘",
+                        "淨係有你幫手，先至我就慘",
+                        "因為有你幫手，所以我就慘"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "好彩...唔係嘅話...完美展現慶幸與預警後果。"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「條件句：如果...就 (Conditionals)」語境嘅廣東話完整句子（練習 4）：",
+                    "prompt": "廣東話諺語「千金難買早知」的意思是：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (18.4.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (18.4.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (18.4.3)。"
+                        "千兩黃金也買不到早知道（悔不當初、千金難買後悔藥） (hindsight cannot be bought)",
+                        "早上的知識非常昂貴",
+                        "買書需要很多錢",
+                        "早上買東西最划算"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "千金難買早知指無法預知未來、事後後悔。"
+                },
+                {
+                    "prompt": "句子「快啲簽約啦，唔係嘅話個優惠就過期㗎啦」，「唔係嘅話」意為：",
+                    "options": [
+                        "否則的話 / 要不然的話 (otherwise / if not)",
+                        "因為這樣",
+                        "雖然如此",
+                        "正因如此"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "唔係嘅話表示「否則的話」。"
                 }
             ]
         },
@@ -10051,85 +10214,128 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「條件假設句式 (Conditionals: 如果...就)」嘅日常商務與生活習慣（考核 18-4）？",
+                    "prompt": "下列哪一句廣東話最完整咁表達了「反事實悔恨（Counterfactual Regret）」？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (18.4.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (18.4.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (18.4.3)。"
+                        "早知條路塞車塞到郁都唔郁，我就搭港鐵過海啦！",
+                        "今天天氣非常好我們去郊遊",
+                        "這部電腦的速度非常快",
+                        "請問現在幾點鐘"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "早知...就搭港鐵展現典型反事實遺憾。"
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («如果_18_4»):",
+                    "prompt": "Type the 2-character Hanzi for 'if only I had known earlier' in Cantonese (早知):",
                     "acceptedAnswers": [
-                        "如果_18_4"
+                        "早知",
+                        "zou2 zi1",
+                        "zou2zi1"
                     ],
-                    "explanation": "The target keyword was: 【如果_18_4】"
+                    "explanation": "早知 (zou2 zi1) means 'if only I had known earlier'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u18-l5": {
         "id": "hk-u18-l5",
         "subject": "cantonese",
-        "unit": 18,
-        "lessonNumber": 5,
-        "title": "條件句：如果...就 (Conditionals) (Part 5)",
+        "unit": "hk-u18",
         "level": "B2",
-        "objective": "Comprehensive mastery of 條件假設句式 (Conditionals: 如果...就).",
+        "objective": "Synthesize 如果...嘅話, 咪, 只有...先至, 早知, and 唔係嘅話 in high-stakes corporate planning, crisis response, and contract negotiation scenarios.",
+        "prerequisites": [
+            "hk-u18-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u18-l1",
+                "hk-u18-l2",
+                "hk-u18-l3",
+                "hk-u18-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（條件假設句式 (Conditionals: 如果...就) - 第5部分）入面，我哋會探討廣東話嘅核心語用語境同埋條件假設句式 (Conditionals: 如果...就)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "喺呢課條件假設句嘅大綜合入面，我哋會將 **基礎假設 (如果...嘅話)**、**順推建議 (咪...囉)**、**唯一必要 (只有...先至)** 以及 **遺憾與預警 (早知... / 唔係嘅話...)** 融會貫通，應用喺高階商務談判同危機決策！\n\n### 💼 商業談判與危機決策深度演練：\n- **合約談判 (Contract Negotiation Dialogue)**：\n  - **甲方代表**：「**如果**貴公司願意降價百分之五**嘅話**，我哋下星期**就**簽五年長約。」\n  - **乙方代表**：「降價空間有限，但**如果**你哋提高採購量，我哋**咪**可以畀免費保養服務囉！」\n  - **甲方代表**：「**只有**確保產品質量達到甲級標準，我哋管理層**先至**會批准追加訂單。」\n  - **乙方代表**：「明白！我哋今晚會重新核算成本，**好彩**大家坦誠溝通，**唔係嘅話**就錯失合作機會啦！」",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (18.5.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "如果聽日客戶同意簽署保密協議嘅話，我哋咪可以即刻將核心設計方案展示畀佢哋睇囉！",
+                    "reading": "Jyu4 gwo2 ting1 jat6 haak3 wu6 tung4 ji3 cim1 cyu5 bou2 mat6 hip3 ji5 ge3 waa2, ngo5 dei6 mai6 ho2 ji5 zik1 hak1 zoeng1 hat6 sam1 cit3 gai3 fong1 on3 zin2 si6 bei2 keoi5 dei6 tai2 lo1!",
+                    "translation": "If the client agrees to sign the non-disclosure agreement tomorrow, then we can immediately showcase the core design proposal to them!"
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (18.5.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "只有各部門緊密配合，我哋先至可以喺限期前順利完成呢個跨國併購項目。",
+                    "reading": "Zi2 jau5 gok3 bou6 mun4 gan2 mat6 pui3 hap6, ngo5 dei6 sin1 zi3 ho2 ji5 hai2 haan6 kei4 cin4 seon6 lei6 jyun4 sing4 ni1 go3 kwaa3 gwok3 bing3 gau3 hong6 muk6.",
+                    "translation": "Only if all departments closely cooperate can we smoothly complete this cross-border acquisition project before the deadline."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (18.5.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "早知市場需求轉變咁快，我哋當初就應該投放更多資源開發線上銷售平台啦。",
+                    "reading": "Zou2 zi1 si5 coeng4 seoi1 kau4 zyun2 bin3 gam3 faai3, ngo5 dei6 dong1 co1 zau6 jing1 goi1 tau4 fong3 gang3 do1 zi1 jyun4 hoi1 faat3 sin3 soeng6 siu1 sau6 ping4 toi4 laa1.",
+                    "translation": "If only we had known market demand would shift so fast, we should have allocated more resources into developing an online sales platform back then."
+                },
+                {
+                    "target": "我哋必須喺今晚十二點前確認供應鏈庫存，唔係嘅話聽日發布會就冇現貨賣㗎啦！",
+                    "reading": "Ngo5 dei6 bit1 seoi1 hai2 gam1 maan5 sap6 ji6 dim2 cin4 kok3 jing6 gung1 jing3 lin2 fu3 cyun4, m4 hai6 ge3 waa2 ting1 jat6 faat3 bou3 wui6 zau6 mou5 jin6 fo3 maai6 gaa3 laa3!",
+                    "translation": "We must verify supply chain inventory before 12 midnight, otherwise there will be no physical stock to sell at tomorrow's launch event!"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 條件假設句式 (Conditionals: 如果...就)"
+                "Negotiation Arsenal: [如果...嘅話 (Condition) → 咪 (Why not) → 只有...先至 (Only if) → 唔係嘅話 (Otherwise)]!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "Hong Kong Business Deal Dynamics: Masterful negotiators switch effortlessly between formal '若果/只有...先至' and persuasive informal '咪...囉' to close multi-million dollar deals with warmth and precision."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「條件假設句式 (Conditionals: 如果...就)」喺第5節嘅地道廣東話表達？",
+                    "prompt": "想在商務談判中表達「如果貴方增加訂購量，那我們就可以提供折扣」，最地道的廣東話是：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (18.5.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (18.5.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (18.5.3)。"
+                        "如果貴公司增加訂購量嘅話，我哋咪可以提供折扣囉！ (mai6 ho2 ji5 tai4 gung1 zit3 kau3 lo1)",
+                        "被貴公司增加訂購量，我們提供折扣",
+                        "由貴公司增加訂購量，才提供折扣",
+                        "將貴公司增加訂購量，給折扣"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "「如果...嘅話，咪...囉」展現最地道親切的商務談判協商口吻。"
+                },
+                {
+                    "prompt": "強調「唯有確保產品質量無誤，管理層才會放行」，應講：",
+                    "options": [
+                        "只有確保產品質量冇問題，管理層先至會批准 (sin1 zi3 wui5 pai1 zeon2)",
+                        "早知產品質量冇問題，管理層便批准",
+                        "唔係產品質量冇問題，管理層被批准",
+                        "好彩產品質量冇問題，管理層將批准"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "只有...先至體現嚴格的必要前置審批條件。"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「條件句：如果...就 (Conditionals)」語境嘅廣東話完整句子（練習 5）：",
+                    "prompt": "句子「好彩我哋提早做好應變方案，唔係嘅話今次系統崩潰就損失慘重啦」，展示咗邊種思維？",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (18.5.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (18.5.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (18.5.3)。"
+                        "危機預防與慶幸應對 (crisis contingency & averted risk)",
+                        "完全不負責任",
+                        "想要辭職不幹",
+                        "隨便花費公款"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "結合好彩與唔係嘅話，展現專業危機應變能力。"
+                },
+                {
+                    "prompt": "在廣東話高階論述中，將「如果...嘅話」、「咪...囉」、「只有...先至」結合運用能夠：",
+                    "options": [
+                        "使邏輯層次分明、語氣既嚴謹專業又具備人情味與說服力 (layered, persuasive & natural)",
+                        "讓句子變得無法理解",
+                        "把對話變成唱歌",
+                        "只能用來罵人"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "豐富的條件句群使論述兼具邏輯嚴謹性與人際說服力。"
                 }
             ]
         },
@@ -10137,24 +10343,28 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「條件假設句式 (Conditionals: 如果...就)」嘅日常商務與生活習慣（考核 18-5）？",
+                    "prompt": "下列哪一句廣東話最完整、最精準咁融合了「假設協商 (如果...嘅話) + 順推方案 (咪...囉) + 必要把關 (只有...先至)」？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (18.5.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (18.5.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (18.5.3)。"
+                        "如果客戶願意簽長約嘅話，我哋咪可以送多一年保養囉，但只有總裁簽字我哋先至可以正式生效！",
+                        "今天星期四我們去喝早茶吃點心",
+                        "這部巴士有冷氣而且速度很快",
+                        "維多利亞港的夜景非常美麗迷人"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "完美融合 假設 (如果...嘅話)、順推 (咪...囉) 同 必要把關 (只有...先至)。"
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («如果_18_5»):",
+                    "prompt": "Type the 4-character Hanzi for 'otherwise / if not so' in Cantonese (唔係嘅話):",
                     "acceptedAnswers": [
-                        "如果_18_5"
+                        "唔係嘅話",
+                        "m4 hai6 ge3 waa2",
+                        "m4hai6ge3waa2"
                     ],
-                    "explanation": "The target keyword was: 【如果_18_5】"
+                    "explanation": "唔係嘅話 (m4 hai6 ge3 waa2) means 'otherwise / if not so'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u19-l1": {
