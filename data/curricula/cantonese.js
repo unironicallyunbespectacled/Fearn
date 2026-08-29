@@ -9085,62 +9085,100 @@
     "hk-u17-l1": {
         "id": "hk-u17-l1",
         "subject": "cantonese",
-        "unit": 17,
-        "lessonNumber": 1,
-        "title": "被動句同處置句 (Passive & Disposal) (Part 1)",
+        "unit": "hk-u17",
         "level": "B2",
-        "objective": "Comprehensive mastery of 被動句畀同處置句將 (Passive 畀 & Disposal 將).",
+        "objective": "Master the canonical Cantonese passive structure using 畀 (bei2: 畀雨淋濕, 畀老細鬧, 畀人呃, 畀車撞到) with specified and unspecified agents.",
+        "prerequisites": [
+            "hk-u16-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u16-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（被動句畀同處置句將 (Passive 畀 & Disposal 將) - 第1部分）入面，我哋會探討廣東話嘅核心語用語境同埋被動句畀同處置句將 (Passive 畀 & Disposal 將)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "踏入 B2 高級廣東話，掌握**被動句（Passive Voice）** 同 **處置句（Disposal Constructions）** 係令說話變得靈活精準、具備敘事深度的必經之路！喺廣東話口語入面，最核心嘅被動標記就係 **畀 (bei2)**！\n\n### 🛡️ 1. 廣東話被動句核心句式：[受事 + 畀 (bei2) + 施事 + 動詞 + 結果補語 / 咗]：\n- **對應關係**：廣東話嘅「**畀 (bei2)**」相當於普通話嘅「被 (bèi)」、「叫 (jiào)」或「讓 (ràng)」。\n- **明確施事者（有具體對象）**：\n  - 件衫**畀雨淋濕咗**。(The clothes were soaked by rain.)\n  - 佢琴日返工遲到，**畀老細鬧咗一餐**。(He was late yesterday and was scolded by the boss.)\n  - 條魚**畀隻貓食咗**。(The fish was eaten by the cat.)\n\n### 👤 2. 泛指/不具名施事者：[受事 + 畀人 (bei2 jan4) + 動詞 + 補語]：\n- 💡 **粵語關鍵規則**：喺廣東話口語入面，如果唔指出具體邊個做，**極少單獨講「畀 + 動詞」**，而係習慣加上「**人 (jan4)**」作為泛指主體：\n  - 部手機**畀人偷咗**。(The phone was stolen [by someone].)\n  - 佢做生意太單純，**畀人呃咗幾萬蚊**。(He was too naive and was scammed out of tens of thousands!)\n  - 佢因為犯大錯，琴日**畀人炒咗魷魚**。(He was fired yesterday.)\n\n### ⚡ 3. 語意色彩：粵語被動句主要用於**不幸、受損、意外或遭受負面影響**嘅事件（Adversative Passives）。",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (17.1.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "我琴日出門口唔記得帶遮，行到半路畀場大雨淋到成身濕晒！",
+                    "reading": "Ngo5 kam4 maan5 ceot1 mun4 hau2 m4 gei3 dak1 daai3 ze1, haang4 dou3 bun3 lou6 bei2 coeng4 daai6 jyu5 lam4 dou3 seng4 san1 sap1 saai3!",
+                    "translation": "I forgot to bring an umbrella yesterday; halfway through walking I was drenched soaking wet by heavy rain!"
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (17.1.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "佢喺地鐵車廂入面唔小心，個銀包畀人偷咗都唔知添。",
+                    "reading": "Keoi5 hai2 dei6 tit3 ce1 soeng1 jap6 min6 m4 siu2 sam1, go3 ngan4 baau1 bei2 jan4 tau1 zo2 dou1 m4 zi1 tim1.",
+                    "translation": "He was careless in the MTR train car; his wallet was stolen by someone without him even noticing."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (17.1.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "張合約畀阿仔整爛咗個角，唯有印過份新嘅畀客戶簽名。",
+                    "reading": "Zoeng1 hap6 joek3 bei2 aa3 zai2 zing2 laan6 zo2 go3 gok3, wai4 jau5 jan3 gwo3 fan6 san1 ge3 bei2 haak3 wu6 cim1 meng2.",
+                    "translation": "The corner of the contract was torn by my son, so we have no choice but to print a new copy for the client to sign."
+                },
+                {
+                    "target": "佢今日喺會議上面畀老細當眾稱讚，成個人開心到爆！",
+                    "reading": "Keoi5 gam1 jat6 hai2 wui6 ji5 soeng6 min6 bei2 lou5 sai3 dong1 zung3 cing1 zaan3, seng4 go3 jan4 hoi1 sam1 dou3 baau3!",
+                    "translation": "He was publicly praised by the boss at the meeting today; he was explosively happy!"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 被動句畀同處置句將 (Passive 畀 & Disposal 將)"
+                "Cantonese Passive Formula: [Victim + 畀 (bei2) + Perpetrator/人 + Action + Result]!",
+                "Unspecified culprit: Always say '畀人 (bei2 jan4)...' (畀人偷 = stolen, 畀人呃 = scammed, 畀人炒 = fired)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "Hong Kong Slang '炒魷魚 (Fried Squid)': Saying '畀老細炒魷魚 (bei2 lou5 sai3 caau2 jau4 jyu2)' is the iconic Cantonese idiom for being sacked or dismissed.",
+                "Scam Awareness: The phrase '畀人呃 (scammed by fraudsters)' is constantly seen in anti-fraud campaigns by the Hong Kong Police."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「被動句畀同處置句將 (Passive 畀 & Disposal 將)」喺第1節嘅地道廣東話表達？",
+                    "prompt": "想表達「錢包在街上被小偷偷走了」，最地道嘅廣東話句式係：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (17.1.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (17.1.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (17.1.3)。"
+                        "個銀包畀人偷咗 (go3 ngan4 baau1 bei2 jan4 tau1 zo2)",
+                        "個銀包被偷咗",
+                        "個銀包由人偷咗",
+                        "個銀包在人偷咗"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "廣東話口語被動句以「畀人 + 動詞」為絕對標準。"
+                },
+                {
+                    "prompt": "下雨沒帶傘導致「衣服被雨水淋濕了」，應講：",
+                    "options": [
+                        "件衫畀雨淋濕咗 (bei2 jyu5 lam4 sap1 zo2)",
+                        "件衫被雨淋濕咗",
+                        "件衫讓雨淋濕咗",
+                        "件衫叫雨淋濕咗"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "畀 (bei2) 係粵語被動標記。"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「被動句同處置句 (Passive & Disposal)」語境嘅廣東話完整句子（練習 1）：",
+                    "prompt": "廣東話俚語「畀老細炒咗魷魚」表示：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (17.1.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (17.1.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (17.1.3)。"
+                        "老闆請大家吃炒魷魚海鮮",
+                        "被老闆解僱、開除了 (was fired by the boss)",
+                        "正在廚房煮海鮮",
+                        "跟老闆一起做生意"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "畀...炒魷魚是粵語被解僱的代表性被動表達。"
+                },
+                {
+                    "prompt": "句子「佢做生意太心急，結果畀人呃咗一筆錢」，「畀人呃」嘅意思係：",
+                    "options": [
+                        "被別人欺騙/詐騙了 (was scammed/tricked by someone)",
+                        "騙了別人很多錢",
+                        "借錢給別人",
+                        "投資成功賺大錢"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "畀人呃表示遭受欺詐。"
                 }
             ]
         },
@@ -9148,85 +9186,128 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「被動句畀同處置句將 (Passive 畀 & Disposal 將)」嘅日常商務與生活習慣（考核 17-1）？",
+                    "prompt": "關於廣東話口語中的被動句標記，下列哪一項完全正確？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (17.1.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (17.1.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (17.1.3)。"
+                        "口語中最地道的核心被動詞是「畀 (bei2)」（如畀雨淋、畀人偷）",
+                        "廣東話口語必須使用「被 (bèi)」字",
+                        "廣東話沒有被動句",
+                        "「畀」只能表示「給予」"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "explanation": "畀 (bei2) 是粵語口語中絕對核心的被動標記。"
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («畀人_17_1»):",
+                    "prompt": "Type the 4-character Hanzi for 'was scammed / got tricked by someone' in Cantonese (畀人呃咗):",
                     "acceptedAnswers": [
-                        "畀人_17_1"
+                        "畀人呃咗",
+                        "bei2 jan4 aak1 zo2",
+                        "bei2jan4aak1zo2",
+                        "畀人呃"
                     ],
-                    "explanation": "The target keyword was: 【畀人_17_1】"
+                    "explanation": "畀人呃咗 (bei2 jan4 aak1 zo2) means 'was scammed / got tricked by someone'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u17-l2": {
         "id": "hk-u17-l2",
         "subject": "cantonese",
-        "unit": 17,
-        "lessonNumber": 2,
-        "title": "被動句同處置句 (Passive & Disposal) (Part 2)",
+        "unit": "hk-u17",
         "level": "B2",
-        "objective": "Comprehensive mastery of 被動句畀同處置句將 (Passive 畀 & Disposal 將).",
+        "objective": "Contrast conversational disposal structures using 攞/執/提 (lo2/zap1/tai4 + Obj + 去/嚟 + V) with formal/written disposal 将 (zoeng1 + Obj + V + 補語).",
+        "prerequisites": [
+            "hk-u17-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u17-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（被動句畀同處置句將 (Passive 畀 & Disposal 將) - 第2部分）入面，我哋會探討廣東話嘅核心語用語境同埋被動句畀同處置句將 (Passive 畀 & Disposal 將)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "「**處置句（Disposal Construction）**」指說話者把某個對象提至動詞前進行處置。喺普通話入面幾乎全部用「把 (bǎ) 字句」，但喺廣東話入面，**口語日常** 同 **正式書面** 有極之鮮明嘅雙軌分工！\n\n### 🗣️ 1. 口語地道處置句：[攞 (lo2) / 執 (zap1) + 受事 + 去 (heoi3) / 嚟 (lai4) + 動詞]：\n- 喺日常粵語口語中，大家**極少用「把」**，而係用動詞「**攞 (lo2 - take)**」或「**執 (zap1 - tidy/pick)**」帶起受事對象：\n  - **攞啲碗筷去洗** (Take the dishes and go wash them) —— 比講「把碗筷洗了」自然十倍！\n  - **攞部電腦去整** (Take the computer to get repaired).\n  - **攞份文件去影印** (Take the document and photocopy it).\n  - **執好啲衫去洗** (Tidy the clothes and go wash them).\n\n### 🏛️ 2. 正式與公眾指示處置句：[將 (zoeng1) + 受事 + 動詞 + 結果補語]：\n- 「**將 (zoeng1)**」係書面語、廣播公告、法律指示同正式商務演講嘅標準處置標記：\n  - 請**將**垃圾**放入**垃圾桶。(Please put rubbish into the bin.)\n  - 請旅客**將**登機證**準備好**。(Passengers please have boarding passes ready.)\n  - 我哋會**將**份報告**寄出畀客戶**。(We will send the report out to the client.)",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (17.2.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "食完飯之後，麻煩你攞啲污糟碗筷去廚房洗乾淨佢啦。",
+                    "reading": "Sik6 jyun4 faan6 zi1 hau6, maa4 faan4 nei5 lo2 di1 wu1 zou1 wun2 faai3 heoi3 cyu4 fong2 sai2 gon1 zeng6 keoi5 laa1.",
+                    "translation": "After finishing the meal, please take the dirty bowls and chopsticks to the kitchen to wash them clean."
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (17.2.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "部手提電腦個電池壞咗，我陣間要攞去深水埗搵師傅整。",
+                    "reading": "Bou6 sau2 tai4 din6 nou5 go3 din6 ci4 waai6 zo2, ngo5 zan6 gaan1 jiu3 lo2 heoi3 Sam1 Seoi2 Bou2 wan2 si1 fu2 zing2.",
+                    "translation": "The laptop battery is broken; in a little while I need to take it to Sham Shui Po to get a technician to fix it."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (17.2.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "港鐵廣播提醒乘客：請將個人隨身行李放喺行李架上面。",
+                    "reading": "Gong2 tit3 gwong2 bo3 tai4 seng2 sing4 haak3: Cing2 zoeng1 go3 jan4 ceoi4 san1 hang4 lei5 fong3 hai2 hang4 lei5 gaa2 soeng6 min6.",
+                    "translation": "MTR announcement reminds passengers: Please place your personal carry-on luggage on the luggage racks."
+                },
+                {
+                    "target": "請大家將填妥嘅表格交去人事部黃小姐度。",
+                    "reading": "Cing2 daai6 gaa1 zoeng1 tin4 to2 ge3 biu2 gaak3 gaau1 heoi3 jan4 si6 bou6 Wong4 siu2 ze2 dou6.",
+                    "translation": "Everyone please submit the completed forms to Ms. Wong in the HR department."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 被動句畀同處置句將 (Passive 畀 & Disposal 將)"
+                "Daily Chat = 攞 (lo2) [攞啲嘢去整 / 攞去洗]!",
+                "Formal PA Announcement = 將 (zoeng1) [請將垃圾放入垃圾桶]!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "MTR & Airport Announcements: Public broadcast announcements in Hong Kong heavily use '請將 (cing2 zoeng1)...' for polite formal directives.",
+                "Home Chores Natural Phrasing: Hong Kong families naturally say '攞啲衫去洗' instead of literal textbook translations."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「被動句畀同處置句將 (Passive 畀 & Disposal 將)」喺第2節嘅地道廣東話表達？",
+                    "prompt": "在日常生活對話中，想叫家人「把髒衣服拿去洗」，最地道的口語句式是：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (17.2.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (17.2.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (17.2.3)。"
+                        "攞啲污糟衫去洗 (lo2 di1 wu1 zou1 saam1 heoi3 sai2)",
+                        "把髒衣服洗了",
+                        "將衣服洗乾淨在口語中唯一正確",
+                        "由衣服去洗"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "粵語口語最地道處置句採用 [攞 + 對象 + 去 + 動詞]。"
+                },
+                {
+                    "prompt": "港鐵廣播或商務公文中「請將行李放好」，「將 (zoeng1)」屬於：",
+                    "options": [
+                        "正式/書面語處置句標記 (formal disposal marker)",
+                        "被動句標記",
+                        "形容詞最高級",
+                        "否定副詞"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "將 (zoeng1) 為粵語正式處置標記。"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「被動句同處置句 (Passive & Disposal)」語境嘅廣東話完整句子（練習 2）：",
+                    "prompt": "句子「我部相機壞咗，要攞去專門店整」體現咗邊種口語處置結構？",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (17.2.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (17.2.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (17.2.3)。"
+                        "攞 + 相機 + 去整（口語實物處置/送修結構）",
+                        "被動受害句",
+                        "比較句",
+                        "反問句"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "[攞 + 受事 + 去 + 動詞] 係粵語典型處置表達。"
+                },
+                {
+                    "prompt": "正式通知「請將款項匯入指定戶口」，「將」字後面的成分是：",
+                    "options": [
+                        "被處置的對象（款項）",
+                        "時間副詞",
+                        "動態助詞",
+                        "語氣詞"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "將後面跟處置對象。"
                 }
             ]
         },
@@ -9234,85 +9315,129 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「被動句畀同處置句將 (Passive 畀 & Disposal 將)」嘅日常商務與生活習慣（考核 17-2）？",
+                    "prompt": "對比「攞去整」與「將其修理妥當」，兩者的主要語體差異是：",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (17.2.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (17.2.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (17.2.3)。"
+                        "前者為地道日常口語處置句，後者為正式書面/公文處置句",
+                        "兩者完全一樣沒有語體差異",
+                        "前者表示被動，後者表示主動",
+                        "前者只能在餐廳使用"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "攞字口語 vs 將字正式書面分工明確。"
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («畀人_17_2»):",
+                    "prompt": "Type the 4-character Hanzi for 'take to get repaired' in colloquial Cantonese (攞去整):",
                     "acceptedAnswers": [
-                        "畀人_17_2"
+                        "攞去整",
+                        "lo2 heoi3 zing2",
+                        "lo2heoi3zing2"
                     ],
-                    "explanation": "The target keyword was: 【畀人_17_2】"
+                    "explanation": "攞去整 (lo2 heoi3 zing2) means 'take to get repaired'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u17-l3": {
         "id": "hk-u17-l3",
         "subject": "cantonese",
-        "unit": 17,
-        "lessonNumber": 3,
-        "title": "被動句同處置句 (Passive & Disposal) (Part 3)",
+        "unit": "hk-u17",
         "level": "B2",
-        "objective": "Comprehensive mastery of 被動句畀同處置句將 (Passive 畀 & Disposal 將).",
+        "objective": "Master the dual causative/passive functions of 畀 (bei2 - causative 'allow/permit/make' vs passive 'be affected by') and avoid semantic ambiguity.",
+        "prerequisites": [
+            "hk-u17-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u17-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（被動句畀同處置句將 (Passive 畀 & Disposal 將) - 第3部分）入面，我哋會探討廣東話嘅核心語用語境同埋被動句畀同處置句將 (Passive 畀 & Disposal 將)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "廣東話入面嘅 **「畀 (bei2)」** 係一個超級全能詞！佢同時承擔住 **被動 (Passive)**、**使役/准許 (Causative/Permissive)** 同 **給予 (Dative 'Give')** 三大角色。精準辨識「畀」喺句入面嘅作用係 B2 高級粵語嘅核心分水嶺！\n\n### 🔑 1. 使役/准許句 (Causative / Permissive \"Let / Allow / Make\")：\n- **結構**：[主語 + 畀 (bei2) + 對象 + 做某事]（Subject lets/allows Object to do something）：\n  - 媽媽**唔畀我出街**。(Mom doesn't let me go out.)\n  - 老細**畀我哋聽日放假**。(The boss allows us to take tomorrow off.)\n  - **畀我試下一啖啦**！(Let me try a bite!)\n  - 呢件事真係**畀我上咗寶貴嘅一課**。(This matter really made me learn a valuable lesson.)\n\n### 🛡️ 2. 被動句 (Passive Voice \"Be V-ed / Suffer action\")：\n- **結構**：[受事主語 + 畀 (bei2) + 施事者 + 動詞 + 結果補語/咗]：\n  - 佢**畀老細扣咗人工**。(He had his wages docked by the boss.)\n  - 件衫**畀人偷咗**。(The shirt was stolen by someone.)\n\n### 🔍 3. 點樣一眼區分使役同被動？\n- **主語有主動發落權力**（老細畀我放假、阿媽唔畀我打機）👉 **使役（Allow/Let）**。\n- **主語處於受害或承受動作結果地位**（佢畀車撞、部電話畀人整爛）👉 **被動（Was affected by）**。",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (17.3.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "經理今日心情好，破例畀全體員工提早兩個鐘頭收工！",
+                    "reading": "Ging1 lei5 gam1 jat6 sam1 cing4 hou2, po3 lai6 bei2 cyun4 tai2 jyun4 gung1 tai4 zou2 loeng5 go3 zung1 tau4 sau1 gung1!",
+                    "translation": "The manager is in a good mood today, exceptionally allowing all staff to leave work two hours early! (Causative/Permissive)"
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (17.3.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "佢做嘢粗心大意，成批貨物畀雨淋濕晒，結果畀老細大鬧一餐。",
+                    "reading": "Keoi5 zou6 je5 cou1 sam1 daai6 ji3, seng4 pai1 fo3 mat6 bei2 jyu5 lam4 sap1 saai3, git3 gwo2 bei2 lou5 sai3 daai6 naau6 jat1 caan1.",
+                    "translation": "He was careless in his work; the whole batch of goods was soaked by rain, and as a result he was severely scolded by the boss. (Passive)"
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (17.3.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "阿爸阿媽管得好嚴，平時夜晚十點之後就唔畀我出夜街㗎啦。",
+                    "reading": "Aa3 baa1 aa3 maa1 gun2 dak1 hou2 jim4, ping4 si4 je6 maan5 sap6 dim2 zi1 hau6 zau6 m4 bei2 ngo5 ceot1 je6 gaai1 gaa3 laa3.",
+                    "translation": "My parents are very strict; usually after 10 PM they don't allow me to go out at night. (Causative/Permissive)"
+                },
+                {
+                    "target": "你可唔可以畀少少時間我考慮下？我聽日覆你啦。",
+                    "reading": "Nei5 ho2 m4 ho2 ji5 bei2 siu2 siu2 si4 gaan3 ngo5 haau2 leoi6 haa5? Ngo5 ting1 jat6 fuk1 nei5 laa1.",
+                    "translation": "Could you give me a little time to consider? I'll reply to you tomorrow. (Give / Dative)"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 被動句畀同處置句將 (Passive 畀 & Disposal 將)"
+                "Three Faces of 畀 (bei2):",
+                "1. Give: 畀錢 (give money).",
+                "2. Let/Allow: 唔畀去 (won't let go).",
+                "3. Passive: 畀人偷 (stolen by someone)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "Hong Kong Parenting '唔畀': In Cantonese household dynamics, parents establish boundaries with '唔畀 (m4 bei2 - not allowed)' for gaming, curfew, and spending.",
+                "Negotiation Request '畀我諗諗': Saying '畀我諗諗先 (Let me think it over first)' is the universal polite stall in Hong Kong business and marketplace bargaining."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「被動句畀同處置句將 (Passive 畀 & Disposal 將)」喺第3節嘅地道廣東話表達？",
+                    "prompt": "句子「媽媽唔畀我食雪糕」入面嘅「畀 (bei2)」屬於邊種用法？",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (17.3.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (17.3.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (17.3.3)。"
+                        "使役/准許用法（表示「允許、讓」） (Allow / Permit)",
+                        "被動句用法（表示「被」）",
+                        "給予物品用法（表示「給」）",
+                        "疑問詞用法"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "唔畀我食雪糕表示不允許吃雪糕（使役/准許）。"
+                },
+                {
+                    "prompt": "句子「佢部單車畀人整爛咗」入面嘅「畀 (bei2)」屬於邊種用法？",
+                    "options": [
+                        "被動句用法（表示單車遭受外人損壞） (Passive)",
+                        "使役用法",
+                        "給予用法",
+                        "最高級用法"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "單車畀人整爛表示單車被人弄壞（被動）。"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「被動句同處置句 (Passive & Disposal)」語境嘅廣東話完整句子（練習 3）：",
+                    "prompt": "在商務談判中，想禮貌表示「請給我一點時間考慮」，應講：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (17.3.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (17.3.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (17.3.3)。"
+                        "畀少少時間我考慮下 (bei2 siu2 siu2 si4 gaan3 ngo5 haau2 leoi6 haa5)",
+                        "被我考慮下",
+                        "將我考慮下",
+                        "由我考慮下"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "畀少少時間我表示給予/允許時間考慮。"
+                },
+                {
+                    "prompt": "「老細畀我哋放假」同「我畀老細鬧」兩者嘅語法區別係：",
+                    "options": [
+                        "前者是老闆主動准許（使役），後者是我承受責罵（被動）",
+                        "兩者都是被動句",
+                        "兩者都是使役句",
+                        "兩者都表示買東西"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "前者為使役准許，後者為被動承受。"
                 }
             ]
         },
@@ -9320,85 +9445,127 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「被動句畀同處置句將 (Passive 畀 & Disposal 將)」嘅日常商務與生活習慣（考核 17-3）？",
+                    "prompt": "廣東話「畀 (bei2)」字的多功能語義包括：",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (17.3.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (17.3.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (17.3.3)。"
+                        "給予（畀錢）、使役准許（畀我試下）、被動承受（畀人呃） (Give, Permit, Passive)",
+                        "只表示過去時態",
+                        "只表示方位詞",
+                        "只表示名詞複數"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "給予、使役、被動是粵語畀字三大支柱語義。"
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («畀人_17_3»):",
+                    "prompt": "Type the 5-character Hanzi for 'Mom doesn\\'t let me go out' in Cantonese (媽媽唔畀我出街):",
                     "acceptedAnswers": [
-                        "畀人_17_3"
+                        "媽媽唔畀我出街",
+                        "maa1 maa1 m4 bei2 ngo5 ceot1 gaai1",
+                        "maa1maa1m4bei2ngo5ceot1gaai1",
+                        "阿媽唔畀我出街"
                     ],
-                    "explanation": "The target keyword was: 【畀人_17_3】"
+                    "explanation": "媽媽唔畀我出街 (maa1 maa1 m4 bei2 ngo5 ceot1 gaai1) means 'Mom doesn\\'t let me go out'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u17-l4": {
         "id": "hk-u17-l4",
         "subject": "cantonese",
-        "unit": 17,
-        "lessonNumber": 4,
-        "title": "被動句同處置句 (Passive & Disposal) (Part 4)",
+        "unit": "hk-u17",
         "level": "B2",
-        "objective": "Comprehensive mastery of 被動句畀同處置句將 (Passive 畀 & Disposal 將).",
+        "objective": "Master multi-part disposal chains expressing precise directional relocation, storage, and transfer (將啲嘢收埋入櫃, 攞部電腦去整, 將份合約寄出去).",
+        "prerequisites": [
+            "hk-u17-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u17-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（被動句畀同處置句將 (Passive 畀 & Disposal 將) - 第4部分）入面，我哋會探討廣東話嘅核心語用語境同埋被動句畀同處置句將 (Passive 畀 & Disposal 將)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "喺高級廣東話入面，處置句往往會同**方向補語、收納補語同結果補語**形成**連環結構（Complex Disposal Chains）**，精準交代物品被移去邊度、點樣處置妥當！\n\n### 📦 核心連環處置句式模組：\n1. **將/攞 + 受事 + [收埋入 / 放埋入] + 容器**（Storage / Placement）：\n   - **將**啲舊相簿**收埋入**衣櫃底。(Store the old photo albums away into the bottom of the wardrobe.)\n   - **攞**啲零食**放埋入**雪櫃。(Put the snacks away into the fridge.)\n2. **將/攞 + 受事 + [寄出去 / 送過去] + 對象/地點**（Outward Dispatch / Transfer）：\n   - **將**份簽好嘅合約**寄出去**畀客戶。(Mail the signed contract out to the client.)\n   - **攞**個包裹**送過去**郵局。(Take the parcel and deliver it over to the post office.)\n3. **將/攞 + 受事 + [抌晒去 / 清理走] + 垃圾處**（Discarding / Clearance）：\n   - **將**啲過期食品**抌晒去**垃圾房！(Throw all the expired food away into the refuse room!)\n4. **將/攞 + 受事 + [換做 / 轉成] + 新狀態**（Transformation）：\n   - **將**啲港幣**換做**日元。(Exchange the HKD into Japanese Yen.)",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (17.4.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "請秘書將今朝會議簽好嘅所有合約掃描存檔，然後寄出去畀總公司。",
+                    "reading": "Cing2 bei3 syu1 zoeng1 gam1 ziu1 wui6 ji5 cim1 hou2 ge3 so2 jau5 hap6 joek3 sou3 miu4 cyun4 dong2, jin4 hau6 gei3 ceot1 heoi3 bei2 zung2 gung1 si1.",
+                    "translation": "Please have the secretary scan and archive all contracts signed in this morning's meeting, then mail them out to headquarters."
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (17.4.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "我陣間會攞部壞咗嘅相機去旺角相機舖整，順便買返個新鏡頭蓋。",
+                    "reading": "Ngo5 zan6 gaan1 wui5 lo2 bou6 waai6 zo2 ge3 soeng2 gei1 heoi3 Wong6 Gok3 soeng2 gei1 pou3 zing2, seon6 bin6 maai5 faan1 go3 san1 geng3 tau4 goi3.",
+                    "translation": "In a little while I will take the broken camera to the Mong Kok camera shop to get repaired, and conveniently buy a replacement lens cap."
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (17.4.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "年廿八洗邋遢，我哋全家合力將屋企啲舊雜物清走晒！",
+                    "reading": "Nin4 jaa6 baat3 sai2 laap6 taap3, ngo5 dei6 cyun4 gaa1 hap6 lik6 zoeng1 uk1 kei2 di1 gau6 zaap6 mat6 cing1 zau2 saai3!",
+                    "translation": "On the 28th of the 12th lunar month we clean up grime; our whole family worked together to clear away all the old clutter at home!"
+                },
+                {
+                    "target": "你出發去日本旅行之前，記得去找換店將啲港幣換做日圓呀。",
+                    "reading": "Nei5 ceot1 faat3 heoi3 Jat6 bun2 leoi5 hang4 zi1 cin4, gei3 dak1 heoi3 zaau2 wun6 dim3 zoeng1 di1 gong2 bai6 wun6 zou6 jat6 jyun4 aa1.",
+                    "translation": "Before departing on your trip to Japan, remember to go to the currency exchange shop to convert your HKD into Yen."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 被動句畀同處置句將 (Passive 畀 & Disposal 將)"
+                "Disposal Chain Blueprint: [將/攞 + Object + Verb + 埋入/出去/走晒/做] (收埋入柜, 寄出去, 換做日元)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "Lunar New Year Tradition '年廿八洗邋遢': In Cantonese tradition, families clean every corner of the house before Lunar New Year, describing it with '將啲邋遢清走晒'.",
+                "Money Exchangers (找換店): Hong Kong currency exchange shops on Nathan Road frequently display '將外幣換做港幣' signage."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「被動句畀同處置句將 (Passive 畀 & Disposal 將)」喺第4節嘅地道廣東話表達？",
+                    "prompt": "想吩咐同事「把簽好名的文件寄給客戶」，地道結構係：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (17.4.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (17.4.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (17.4.3)。"
+                        "將份文件寄出去畀客戶 (zoeng1 fan6 man4 gin2 gei3 ceot1 heoi3 bei2 haak3 wu6)",
+                        "被文件寄出去",
+                        "在文件寄出去",
+                        "由文件寄出去"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "[將 + 受事 + 動詞 + 方向補語 + 對象] 構成完整商務處置鏈。"
+                },
+                {
+                    "prompt": "大掃除時表示「把所有舊雜物徹底清理乾淨扔掉」，應講：",
+                    "options": [
+                        "將啲雜物清走晒 (zoeng1 di1 zaap6 mat6 cing1 zau2 saai3)",
+                        "畀啲雜物清走晒",
+                        "睇啲雜物清走晒",
+                        "聽啲雜物清走晒"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "將...清走晒表示徹底處置清除乾淨。"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「被動句同處置句 (Passive & Disposal)」語境嘅廣東話完整句子（練習 4）：",
+                    "prompt": "出國旅遊前「去找換店將港幣換做日圓」，「換做」表示：",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (17.4.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (17.4.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (17.4.3)。"
+                        "貨幣形式的轉換與結果 (currency conversion result)",
+                        "把錢弄丟了",
+                        "借錢給朋友",
+                        "拒絕換錢"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "換做表示狀態形式轉換。"
+                },
+                {
+                    "prompt": "句子「攞啲貴重首飾收埋入保險箱」，包含咗邊種處置收納結構？",
+                    "options": [
+                        "攞 + 物品 + 收埋入 + 保險箱（口語處置 + 方向收納補語）",
+                        "單純疑問句",
+                        "最高級比較",
+                        "時間條件句"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "包含處置標記 攞 與方向收納補語 收埋入。"
                 }
             ]
         },
@@ -9406,85 +9573,129 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「被動句畀同處置句將 (Passive 畀 & Disposal 將)」嘅日常商務與生活習慣（考核 17-4）？",
+                    "prompt": "下列邊一句廣東話最完整、最地道咁展示咗「連環方向處置鏈」？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (17.4.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (17.4.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (17.4.3)。"
+                        "請秘書將份合約掃描存檔，然後寄出去畀總公司！",
+                        "今天星期四我去上班了",
+                        "房間裡面有一張床",
+                        "這杯水好熱"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "explanation": "展示咗 [將...掃描存檔 + 寄出去畀...] 嘅連環處置。"
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («畀人_17_4»):",
+                    "prompt": "Type the 4-character Hanzi for 'send out / mail out' in Cantonese (寄出去):",
                     "acceptedAnswers": [
-                        "畀人_17_4"
+                        "寄出去",
+                        "gei3 ceot1 heoi3",
+                        "gei3ceot1heoi3"
                     ],
-                    "explanation": "The target keyword was: 【畀人_17_4】"
+                    "explanation": "寄出去 (gei3 ceot1 heoi3) means 'send out / mail out'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u17-l5": {
         "id": "hk-u17-l5",
         "subject": "cantonese",
-        "unit": 17,
-        "lessonNumber": 5,
-        "title": "被動句同處置句 (Passive & Disposal) (Part 5)",
+        "unit": "hk-u17",
         "level": "B2",
-        "objective": "Comprehensive mastery of 被動句畀同處置句將 (Passive 畀 & Disposal 將).",
+        "objective": "Synthesize passive (畀人/畀老細) and disposal (將/攞) structures in reporting workplace incidents, handling complaints, and executing delegated tasks.",
+        "prerequisites": [
+            "hk-u17-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "hk-u17-l1",
+                "hk-u17-l2",
+                "hk-u17-l3",
+                "hk-u17-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "喺呢一課（被動句畀同處置句將 (Passive 畀 & Disposal 將) - 第5部分）入面，我哋會探討廣東話嘅核心語用語境同埋被動句畀同處置句將 (Passive 畀 & Disposal 將)嘅實際應用。廣東話嘅動詞體態助詞（緊、咗、過、完）同句末語氣助詞（啦、㗎、喎、呢）結合得非常緊密，掌握好詞彙搭配同語氣變化，無論喺日常生活定係正式商務場合都可以做到表達自然地道、流暢自如。\n\n語法剖析與英語對照 (Grammatical Architecture & English Glosses):\n透過典型句子操練，學習者可以掌握廣東話嘅地道語序同埋動態結構。",
+            "explanation": "喺呢個單元嘅總結考核入面，我哋會將 **被動句 (畀人呃/畀老細鬧/畀雨淋)** 與 **處置句 (攞去整/將文件寄出/收埋入櫃)** 融合到高難度嘅職場事故匯報、投訴處理同工作交接之中！\n\n### 🏢 職場事故匯報與處置實戰範例：\n- **事故匯報 (Incident Report)**：\n  - 「主管，琴日倉庫**畀大雨浸濕咗**幾箱貨物，部分包裝**畀雨水整爛咗**！」\n- **應對處置 (Action Plan)**：\n  - 「我哋已經即刻**將受損嘅貨物搬走**，**將未浸濕嘅貨物收埋入**高層貨架。」\n  - 「另外，我會**攞啲損毀照片去聯絡保險公司**，並**將索賠表格填妥寄出去**。」\n- **主管反饋 (Manager Response)**：\n  - 「好彩你哋處理得快，冇**畀客戶投訴**！辛苦大家，今晚**畀你哋早啲放工**！」",
             "examples": [
                 {
-                    "target": "陳生今日晏晝去咗茶餐廳同朋友一齊食下午茶兼傾生意合作細節 (17.5.1)。",
-                    "reading": "Can4 saang1 gam1 jat6 aan3 zau3 heoi3 zo2 caa4 caan1 teng1 tung4 pang4 jau5 jat1 cai4 sik6 haa6 ng5 caa4 gim1 king1 sang1 ji3 hap6 zok3 sai3 zit3.",
-                    "translation": "Mr. Chan went to the tea restaurant this afternoon to have tea with friends and discuss business cooperation details."
+                    "target": "部影印機琴日畀同事整壞咗，我今朝一早就攞去搵維修部師傅整返好啦。",
+                    "reading": "Bou6 jing2 jan3 gei1 kam4 jat6 bei2 tung4 si6 zing2 waai6 zo2, ngo5 gam1 ziu1 jat1 zou2 zau6 lo2 heoi3 wan2 wai4 sau1 bou6 si1 fu2 zing2 faan1 hou2 laa3.",
+                    "translation": "The photocopier was broken by a colleague yesterday; first thing this morning I took it to the maintenance team to get it fixed."
                 },
                 {
-                    "target": "我哋搭港鐵去中環金融中心開會，十分鐘左右就順利到達目的地 (17.5.2)。",
-                    "reading": "Ngo5 dei6 daap3 gong2 tit3 heoi3 zung1 waan4 gam1 jung4 zung1 sam1 hoi1 wui6, sap6 fan1 zung1 zo2 jau2 zau6 seon6 lei6 dou3 daat6 muk6 dik1 dei6.",
-                    "translation": "We took the MTR to Central Financial Centre for a meeting and smoothly arrived at the destination in about ten minutes."
+                    "target": "請你將呢批重要嘅財務報表收埋入夾萬，千祈唔好畀外人睇見呀！",
+                    "reading": "Cing2 nei5 zoeng1 ni1 pai1 zung6 jiu3 ge3 coi4 mou6 bou3 biu2 sau1 maai4 jap6 gip6 maan6, cin1 kei4 m4 hou2 bei2 ngoi6 jan4 tai2 gin3 aa1!",
+                    "translation": "Please store this batch of important financial statements away into the safe; definitely do not let outsiders see them!"
                 },
                 {
-                    "target": "呢間老字號舖頭嘅點心好新鮮，每日清晨都有好多街坊排隊購買 (17.5.3)。",
-                    "reading": "Ni1 gaan1 lou5 zi6 hou6 pou3 tau2 ge3 dim2 sam1 hou2 san1 sin1, mui5 jat6 cing1 san4 dou1 jau5 hou2 do1 gaai1 fong1 paai4 deoi2 kau3 maai5.",
-                    "translation": "The dim sum at this heritage shop is very fresh, with many neighbors queuing up every morning."
+                    "target": "佢因為將客戶資料寄錯咗畀對手公司，琴日畀管理層停職調查添。",
+                    "reading": "Keoi5 jan1 wai6 zoeng1 haak3 wu6 zi1 liu2 gei3 co3 zo2 bei2 deoi3 sau2 gung1 si1, kam4 jat6 bei2 gun2 lei5 caang4 ting4 zik1 diu6 caa4 tim1.",
+                    "translation": "Because he mailed client data to the rival company by mistake, he was suspended yesterday by management for investigation."
+                },
+                {
+                    "target": "大堂塊玻璃畀颱風吹爛咗，管理處已經將危險區域圍封好。",
+                    "reading": "Daai6 tong4 faai3 bo1 lei1 bei2 toi4 fung1 ceoi1 laan6 zo2, gun2 lei5 cyu3 ji5 ging1 zoeng1 ngai4 him2 keoi1 wik6 wai4 fung1 hou2.",
+                    "translation": "The lobby glass was blown and shattered by the typhoon; the management office has cordoned off the hazardous area."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 被動句畀同處置句將 (Passive 畀 & Disposal 將)"
+                "Master Discourse Flow: Incident [畀...整壞 was damaged] → Disposal [將/攞...搬走/收埋 relocated/secured] → Prevention [唔畀...睇見 prevented access]!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Cantonese."
+                "Safe Storage Term '夾萬 (gip6 maan6)': In Hong Kong business, a security safe or vault is universally called '夾萬 (gip6 maan6)'.",
+                "Workplace Crisis Management: Combining passive (畀人投訴) with rapid disposal (將問題解決) showcases top-tier executive Cantonese proficiency."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "邊個句子最符合「被動句畀同處置句將 (Passive 畀 & Disposal 將)」喺第5節嘅地道廣東話表達？",
+                    "prompt": "想向上司匯報「複印機被同事弄壞了（被動），我已經送去修理（處置）」，最地道嘅廣東話係：",
                     "options": [
-                        "張小姐買咗兩盒好精緻嘅蛋撻返公司請全體同事食 (17.5.1)。",
-                        "琴日晏晝落咗一陣大暴雨，街上面好多行人都冇帶雨遮 (17.5.2)。",
-                        "佢哋聽日下晝會一齊去尖沙咀嗰間新開嘅海鮮餐廳食點心 (17.5.3)。"
+                        "影印機畀同事整壞咗，我已經攞咗去整 (bei2 tung4 si6 zing2 waai6, lo2 zo2 heoi3 zing2)",
+                        "影印機被同事弄壞，我把影印機修了",
+                        "影印機由同事壞，我去整",
+                        "影印機同事整，我修理"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "完美結合 被動句 (畀同事整壞) 與 處置句 (攞咗去整)。"
+                },
+                {
+                    "prompt": "指示下屬「將機密文件收進保險箱（夾萬），別讓外人看見」，應講：",
+                    "options": [
+                        "將文件收埋入夾萬，千祈唔好畀外人睇見！",
+                        "把文件放在桌上給外人看",
+                        "被文件收進去",
+                        "由文件鎖好"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "融合咗 將...收埋入夾萬 與 唔好畀外人睇見。"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "請選出正確展示「被動句同處置句 (Passive & Disposal)」語境嘅廣東話完整句子（練習 5）：",
+                    "prompt": "句子「佢因為將資料寄錯畀人，結果畀老細大鬧一餐」包含咗邊兩種句式？",
                     "options": [
-                        "李先生好耐冇見大家，今晚約咗成班中學老朋友食飯傾偈 (17.5.1)。",
-                        "我返到屋企之後即刻沖個熱水涼，然後坐喺梳化睇電視新聞報道 (17.5.2)。",
-                        "街市入面啲新鮮海鮮每日朝早七點鐘就開始公開批發出售 (17.5.3)。"
+                        "處置句（將資料寄錯）與 被動句（畀老細大鬧）",
+                        "只有比較句",
+                        "只有疑問句",
+                        "只有感嘆句"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "將...寄錯為處置，畀老細鬧為被動。"
+                },
+                {
+                    "prompt": "廣東話入面嘅「夾萬 (gip6 maan6)」係指：",
+                    "options": [
+                        "保險箱 / 保險櫃 (Safe / Vault)",
+                        "公事包",
+                        "垃圾桶",
+                        "信封"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "夾萬是粵語保險箱的標準詞彙。"
                 }
             ]
         },
@@ -9492,24 +9703,28 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "邊句說話嚴格符合「被動句畀同處置句將 (Passive 畀 & Disposal 將)」嘅日常商務與生活習慣（考核 17-5）？",
+                    "prompt": "下列邊一句廣東話最地道、最完整咁展示咗「被動承受 + 應急處置」嘅綜合商務表達？",
                     "options": [
-                        "黃經理喺會議室詳細向客戶講解緊新項目嘅運作流程同推廣策略 (17.5.1)。",
-                        "香港地鐵嘅班次非常頻密，而且車廂內部環境一直保持得好乾淨 (17.5.2)。",
-                        "陳生同張小姐琴晚去咗香港文化中心大劇院欣賞古典交響音樂會 (17.5.3)。"
+                        "貨物琴日畀雨淋濕咗，我哋已經即刻將受損物品搬走，並將索賠表寄出去畀保險公司！",
+                        "今天星期天我不去上班",
+                        "這部手機可以拍照",
+                        "他在客廳裡面看書"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "融合咗 畀雨淋濕 (被動)、將受損物品搬走 (處置) 同 將索賠表寄出去 (處置鏈)。"
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («畀人_17_5»):",
+                    "prompt": "Type the 2-character Hanzi for 'safe / vault' in Cantonese (夾萬):",
                     "acceptedAnswers": [
-                        "畀人_17_5"
+                        "夾萬",
+                        "gip6 maan6",
+                        "gip6maan6"
                     ],
-                    "explanation": "The target keyword was: 【畀人_17_5】"
+                    "explanation": "夾萬 (gip6 maan6) means 'safe / vault'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "hk-u18-l1": {
