@@ -3877,63 +3877,69 @@
     },
     "zh-u8-l1": {
         "id": "zh-u8-l1",
-        "subject": "mandarin",
-        "unit": 8,
-        "lessonNumber": 1,
-        "title": "动态助词：过与经验态 (Experiential Aspect Marker 过) (Part 1)",
+        "unit": "zh-u8",
         "level": "A2",
-        "objective": "Comprehensive mastery of 经验态动态助词过 (Experiential Aspect Marker 过).",
+        "objective": "Master the experiential aspect marker 过 (guo) placed directly after a verb (Verb + 过 + Object) to indicate having had a past life experience that is no longer continuing.",
+        "prerequisites": [
+            "zh-u7-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u7-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「动态助词：过与经验态 (Experiential Aspect Marker 过)」（第1部分）的核心句法结构与经验态动态助词过 (Experiential Aspect Marker 过)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "动态助词「过 (guo)」置于**动词之后**，表示过去曾经有过某种经历或发生过某种动作（Experiential Aspect）。它的核心特征是：**该经历发生在过去，目前已经结束，并成为主体的人生阅历**。\n\n1. 经验态核心公式 (Experiential Formula):\n- **主语 + 动词 + 过 + 宾语 (Subject + Verb + guo + Object)**\n- 经典人生经历搭配：\n  - **去过 (qùguo)**：我去过中国。(I have been to China.)\n  - **吃过 (chīguo)**：他吃过北京烤鸭。(He has eaten Beijing roast duck.)\n  - **学过 (xuéguo)**：我们学过古代汉语。(We have studied Classical Chinese.)\n  - **看过 (kànguo)**：你看过京剧吗？(Have you seen Peking Opera?)\n  - **听过 (tīngguo)**：我听过这首中国民歌。(I have heard this Chinese folk song.)\n\n2. 关键语法特征 (Key Grammar Distinctions):\n- 动作必须具有‘脱离现实的过去性’（The event is concluded in the past and functions as experiential knowledge）。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (8.1.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "我去年夏天去过一次北京，游览了长城和故宫。",
+                    "reading": "Wǒ qùnián xiàtiān qùguo yí cì Běijīng, yóulǎn le Chángchéng hé Gùgōng.",
+                    "translation": "I have been to Beijing once last summer, and toured the Great Wall and the Forbidden City."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (8.1.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "李明吃过地道的四川麻婆豆腐，觉得味道非常正宗麻辣。",
+                    "reading": "Lǐ Míng chīguo dìdao de Sìchuān mápó dòufu, juéde wèidao fēicháng zhèngzōng málà.",
+                    "translation": "Li Ming has eaten authentic Sichuan Mapo Tofu and thought the taste was very authentically spicy and numbing."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (8.1.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "大卫在大学里学过两年书法，汉字写得非常漂亮。",
+                    "reading": "Dàwèi zài dàxué lǐ xuéguo liǎng nián shūfǎ, hànzì xiě de fēicháng piàoliang.",
+                    "translation": "David has studied calligraphy for two years in college, and writes Chinese characters beautifully."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 经验态动态助词过 (Experiential Aspect Marker 过)"
+                "Verb + 过 = Past Life Experience! (去过 = Have been to; 吃过 = Have eaten; 看过 = Have seen!)"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Sharing cultural experiences like visiting historical sites (游览名胜 yóulǎn míngshèng) or tasting local delicacies (品尝美食 pǐncháng měishí) with «过» is a classic bonding topic in Chinese social culture."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「经验态动态助词过 (Experiential Aspect Marker 过)」在第1小节中的标准汉语语法规范？",
+                    "prompt": "表达‘我曾经去过上海’时，动态助词‘过’应当放在哪里？",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (8.1.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (8.1.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (8.1.3)。"
+                        "放在动词‘去’之后：我去过上海 (Wǒ qùguo Shànghǎi)",
+                        "放在句首：过我去上海",
+                        "放在句尾：我去上海过了"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "Experiential aspect marker 过 directly attaches to the verb: 动词 + 过."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「动态助词：过与经验态 (Experiential Aspect Marker 过)」语用情境与完整句式的选项（练习 1）：",
+                    "prompt": "句子‘他吃过四川火锅’表达的核心语法意义是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (8.1.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (8.1.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (8.1.3)。"
+                        "他正在吃火锅",
+                        "他过去曾经有过吃四川火锅的人生体验 (He has had the past experience of eating Sichuan hotpot)",
+                        "他明天打算吃火锅"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "Verb + 过 signifies that the subject has had that past experience."
                 }
             ]
         },
@@ -3941,85 +3947,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「经验态动态助词过 (Experiential Aspect Marker 过)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 8-1）？",
+                    "prompt": "下列哪个句子正确表达了人生阅历或曾经做过的经历？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (8.1.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (8.1.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (8.1.3)。"
+                        "我看过这部著名的中国电影 (Wǒ kànguo zhè bù zhùmíng de Zhōngguó diànyǐng)",
+                        "我看了这部电影看",
+                        "这部电影我过了看"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "explanation": "我看过这部著名的中国电影 correctly uses 看过 for experiential aspect."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («去过_8_1»):",
+                    "prompt": "Type the Hanzi for the experiential aspect marker (过):",
                     "acceptedAnswers": [
-                        "去过_8_1"
+                        "过",
+                        "guo",
+                        "Guo",
+                        "guò",
+                        "Guò",
+                        "過"
                     ],
-                    "explanation": "The target keyword was: 【去过_8_1】"
+                    "explanation": "过 (guo) is the experiential aspect marker."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u8-l2": {
         "id": "zh-u8-l2",
-        "subject": "mandarin",
-        "unit": 8,
-        "lessonNumber": 2,
-        "title": "动态助词：过与经验态 (Experiential Aspect Marker 过) (Part 2)",
+        "unit": "zh-u8",
         "level": "A2",
-        "objective": "Comprehensive mastery of 经验态动态助词过 (Experiential Aspect Marker 过).",
+        "objective": "Master the negative experiential pattern (主语 + 没/没有 + 动词 + 过 + 宾语) and emphatic negative adverbs (从来没...过 / 还没...过).",
+        "prerequisites": [
+            "zh-u8-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u8-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「动态助词：过与经验态 (Experiential Aspect Marker 过)」（第2部分）的核心句法结构与经验态动态助词过 (Experiential Aspect Marker 过)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在汉语中，否定某种经历时，**绝不能用「不」**，必须使用「没」或「没有」，并且**动词后面的「过」必须保留**！\n\n1. 否定经验态核心公式 (Negative Experiential Formula):\n- **主语 + (从来) + 没 (有) + 动词 + 过 + 宾语 (Subject + méi/méiyǒu + Verb + guo + Object)**\n- 语义：从未有过某种经历（Never experienced...）。\n\n2. 强调否定副词搭配 (Emphatic Negation):\n- **从来没……过 (cónglái méi... guo)**：从过去到现在从未发生过 (have never ever...)\n  - 我**从来没去过**哈尔滨。(I have never ever been to Harbin.)\n  - 他**从来没吃过**臭豆腐。(He has never ever eaten stinky tofu.)\n- **还没……过 (hái méi... guo)**：迄今为止尚未体验 (haven't... yet)\n  - 我们**还没看过**京剧呢。(We haven't seen Peking Opera yet.)\n\n3. 语法避坑铁律 (Crucial Anti-Error Rule):\n- 绝对不能说成 *不吃过、*不去过！必须是「没去过」、「没吃过」！",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (8.2.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "我虽然学了一年中文，但还从来没去过中国。",
+                    "reading": "Wǒ suīrán xué le yì nián zhōngwén, dàn hái cónglái méi qùguo Zhōngguó.",
+                    "translation": "Although I have studied Chinese for a year, I have never been to China yet."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (8.2.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "他以前从来没听过这首中国民乐，今天第一次听就深深喜欢上了。",
+                    "reading": "Tā yǐqián cónglái méi tīngguo zhè shǒu Zhōngguó mínyuè, jīntiān dì-yī cì tīng jiù shēnshēn xǐhuan shang le.",
+                    "translation": "He had never heard this Chinese folk tune before; hearing it for the first time today, he fell deeply in love with it."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (8.2.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "我们还没有学过这个高级语法点，请老师再详细讲解一遍。",
+                    "reading": "Wǒmen hái méiyǒu xuéguo zhè gè gāojí yǔfǎ diǎn, qǐng lǎoshī zài xiángxì jiǎngjiě yí biàn.",
+                    "translation": "We haven't studied this advanced grammar point yet; please teacher explain it in detail once more."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 经验态动态助词过 (Experiential Aspect Marker 过)"
+                "Never had experience: (从来) + 没 + Verb + 过! (Keep 过, use 没, NEVER 不!)"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Expressing «从来没体验过，非常想去试试» (Never tried it, really want to go try!) is the quintessential enthusiastic phrase when making cross-cultural friends."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「经验态动态助词过 (Experiential Aspect Marker 过)」在第2小节中的标准汉语语法规范？",
+                    "prompt": "表达‘我从来没有吃过烤鸭’时，正确的否定格式是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (8.2.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (8.2.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (8.2.3)。"
+                        "我从来没有吃过烤鸭 (Wǒ cónglái méiyǒu chīguo kǎoyā: 没 + V + 过)",
+                        "我从来不吃过烤鸭 (*bù chīguo - incorrect)",
+                        "我吃不烤鸭过"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "Negative experiential requires 没/没有 + 动词 + 过."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「动态助词：过与经验态 (Experiential Aspect Marker 过)」语用情境与完整句式的选项（练习 2）：",
+                    "prompt": "句子‘他没学过书法’表达的意思是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (8.2.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (8.2.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (8.2.3)。"
+                        "他正在学书法",
+                        "他过去没有学习过书法的经历 (He does not have the experience of having studied calligraphy)",
+                        "他学完了书法"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "没学过 indicates lack of prior experience."
                 }
             ]
         },
@@ -4027,85 +4045,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「经验态动态助词过 (Experiential Aspect Marker 过)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 8-2）？",
+                    "prompt": "下列哪个句子在语法上是完全正确的经验态否定句？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (8.2.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (8.2.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (8.2.3)。"
+                        "我们没有看过京剧 (Wǒmen méiyǒu kànguo jīngjù)",
+                        "我们不看过京剧",
+                        "我们看了没京剧过"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "我们没有看过京剧 correctly applies 没(有) + V + 过."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («去过_8_2»):",
+                    "prompt": "Type the Hanzi for 'always / from past to present' (从来):",
                     "acceptedAnswers": [
-                        "去过_8_2"
+                        "从来",
+                        "conglai",
+                        "cónglái",
+                        "Cónglái",
+                        "Conglai",
+                        "從來"
                     ],
-                    "explanation": "The target keyword was: 【去过_8_2】"
+                    "explanation": "从来 (cónglái) means 'all along / from the past to present' (as in 从来没去过)."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u8-l3": {
         "id": "zh-u8-l3",
-        "subject": "mandarin",
-        "unit": 8,
-        "lessonNumber": 3,
-        "title": "动态助词：过与经验态 (Experiential Aspect Marker 过) (Part 3)",
+        "unit": "zh-u8",
         "level": "A2",
-        "objective": "Comprehensive mastery of 经验态动态助词过 (Experiential Aspect Marker 过).",
+        "objective": "Master the two primary experiential question forms: Particle Questions (动词 + 过...吗？) and A-not-A / Tag Questions (动词 + 过...没有？ / 有没有 + 动词 + 过？).",
+        "prerequisites": [
+            "zh-u8-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u8-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「动态助词：过与经验态 (Experiential Aspect Marker 过)」（第3部分）的核心句法结构与经验态动态助词过 (Experiential Aspect Marker 过)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "询问别人是否曾经有过某种经历时，汉语提供了两种最常用、最标准的高频疑问句型。\n\n1. 「吗」字疑问句 (Particle Question with 吗):\n- **主语 + 动词 + 过 + 宾语 + 吗？**\n  - 你去**过**长城**吗**？ (Have you been to the Great Wall?)\n  - 你吃**过**四川火锅**吗**？ (Have you eaten Sichuan hotpot?)\n\n2. 「没有」正反疑问句 (A-not-A Question with 没有):\n- **主语 + 动词 + 过 + 宾语 + 没有？** 或 **主语 + 有没有 + 动词 + 过 + 宾语？**\n  - 你看**过**京剧**没有**？ (Have you seen Peking Opera or not?)\n  - 你**有没有**去**过**上海？ (Have you or haven't you been to Shanghai?)\n\n3. 标准交际答语 (Standard Responses):\n- 肯定回答：去**过**。(Yes, have been.) / 去**过一次**。(Have been once.)\n- 否定回答：**没去过**。(Haven't been.) / **还没去过呢**。(Haven't been yet.)",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (8.3.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "大卫：李明，你去过中国的西安看兵马俑吗？ 李明：去过！两年前我和父母一起去过一次。",
+                    "reading": "Dàwèi: Lǐ Míng, nǐ qùguo Zhōngguó de Xī'ān kàn bīngmǎyǒng ma? Lǐ Míng: Qùguo! Liǎng nián qián wǒ hé fùmǔ yìqǐ qùguo yí cì.",
+                    "translation": "David: Li Ming, have you been to Xi'an in China to see the Terracotta Army? Li Ming: Yes, I have! Two years ago I went once with my parents."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (8.3.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "张老师：同学们，你们有没有读过中国古代的李白诗歌？ 同学们：学过两首！",
+                    "reading": "Zhāng lǎoshī: Tóngxuémen, nǐmen yǒu méiyǒu dúguo Zhōngguó gǔdài de Lǐ Bái shīgē? Tóngxuémen: Xuéguo liǎng shǒu!",
+                    "translation": "Teacher Zhang: Students, have you read ancient Chinese poems by Li Bai? Students: We have studied two of them!"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (8.3.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "A: 你吃过北京烤鸭没有？ B: 还没吃过呢，我们今天晚上一起去尝尝吧！",
+                    "reading": "A: Nǐ chīguo Běijīng kǎoyā méiyǒu? B: Hái méi chīguo ne, wǒmen jīntiān wǎnshang yìqǐ qù chángchang ba!",
+                    "translation": "A: Have you eaten Beijing roast duck yet? B: Not yet; let's go try it together tonight!"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 经验态动态助词过 (Experiential Aspect Marker 过)"
+                "Experience Inquiries: V + 过...吗？ OR V + 过...没有？ (Answer: V+过 / 没+V+过!)"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Xi'an's Terracotta Army (兵马俑 bīngmǎyǒng) and Tang Poetry (唐诗 Táng shī) are universally recognized symbols of classical Chinese civilization."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「经验态动态助词过 (Experiential Aspect Marker 过)」在第3小节中的标准汉语语法规范？",
+                    "prompt": "用中文询问朋友‘你吃过正宗的北京烤鸭吗？’时，最标准自然的问句是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (8.3.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (8.3.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (8.3.3)。"
+                        "你吃过正宗的北京烤鸭吗？ (Nǐ chīguo zhèngzōng de Běijīng kǎoyā ma?)",
+                        "你吃了烤鸭吗在？",
+                        "吃北京烤鸭你过了吗？"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "主语 + 动词 + 过 + 宾语 + 吗？ is the standard formula."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「动态助词：过与经验态 (Experiential Aspect Marker 过)」语用情境与完整句式的选项（练习 3）：",
+                    "prompt": "正反疑问句‘你看过这部中国电影没有？’的正确否定回答是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (8.3.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (8.3.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (8.3.3)。"
+                        "我不看这部电影",
+                        "没看过 (Méi kànguo — Haven't seen it)",
+                        "我看完了"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "没看过 is the standard natural negative answer to experiential inquiries."
                 }
             ]
         },
@@ -4113,85 +4143,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「经验态动态助词过 (Experiential Aspect Marker 过)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 8-3）？",
+                    "prompt": "问句‘你有没有去过西安？’与‘你去过西安没有？’在语法功能上的关系是：",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (8.3.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (8.3.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (8.3.3)。"
+                        "一个表示过去，一个表示将来",
+                        "两者完全等价，都是询问过去经历的正反疑问句 (Completely equivalent A-not-A experiential questions)",
+                        "一个是命令句"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "Both forms represent identical A-not-A inquiry structures for experiential aspect."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («去过_8_3»):",
+                    "prompt": "Type the Hanzi for 'to taste / try (food)' (尝):",
                     "acceptedAnswers": [
-                        "去过_8_3"
+                        "尝",
+                        "chang",
+                        "cháng",
+                        "Cháng",
+                        "Chang",
+                        "嚐"
                     ],
-                    "explanation": "The target keyword was: 【去过_8_3】"
+                    "explanation": "尝 (cháng) means 'to taste / try food' (as in 尝尝)."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u8-l4": {
         "id": "zh-u8-l4",
-        "subject": "mandarin",
-        "unit": 8,
-        "lessonNumber": 4,
-        "title": "动态助词：过与经验态 (Experiential Aspect Marker 过) (Part 4)",
+        "unit": "zh-u8",
         "level": "A2",
-        "objective": "Comprehensive mastery of 经验态动态助词过 (Experiential Aspect Marker 过).",
+        "objective": "Master the placement of verbal frequency measure words (动量词: 次 cì, 趟 tàng, 遍 biàn) after experiential Verb + 过 to quantify the frequency of past experiences.",
+        "prerequisites": [
+            "zh-u8-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u8-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「动态助词：过与经验态 (Experiential Aspect Marker 过)」（第4部分）的核心句法结构与经验态动态助词过 (Experiential Aspect Marker 过)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在叙述过去经历的频次时，汉语使用**动量词（Verbal Measure Words）**。动量短语通常**置于「动词 + 过」之后**。\n\n1. 三大核心动量词辨析 (3 Core Verbal Measure Words):\n- **次 (cì)**：最通用动量词（次 / time / occurrence）→ 去过两**次**、吃过三**次**\n- **遍 (biàn)**：强调从头到尾完整经历全过程（遍 / whole course from start to finish）→ 看过两**遍**这本小说、听过三**遍**录音\n- **趟 (tàng)**：专用于往返行走的行程（趟 / trip / journey）→ 去过一**趟**上海、跑了两**趟**银行。\n\n2. 语序规律与宾语位置 (Word Order Rules):\n- **代词宾语（我/你/他/这里/那里）**：必须置于动量词之前！\n  - 我找过**他**两**次**。(I looked for him twice.)\n- **普通名词宾语**：通常置于动量词之后，也可置于动量词前。\n  - 我去过**两趟**超市。(I went to the supermarket twice.)",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (8.4.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "这本书写得太精彩了，我已经完整地读过三遍了。",
+                    "reading": "Zhè běn shū xiě de tài jīngcǎi le, wǒ yǐjīng wánzhěng de dúguo sān biàn le.",
+                    "translation": "This book is written so brilliantly; I have already read it from start to finish three times."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (8.4.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "我去年去过两趟上海出差，对那里的现代化交通印象深刻。",
+                    "reading": "Wǒ qùnián qùguo liǎng tàng Shànghǎi chūchāi, duì nàlǐ de xiàndàihuà jiāotōng yìnxiàng shēnkè.",
+                    "translation": "I went on business trips to Shanghai twice last year, deeply impressed by the modern transportation there."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (8.4.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "王老师给全班同学认真地讲解过很多次这个重要语法难点。",
+                    "reading": "Wáng lǎoshī gěi quán bān tóngxué rènzhēn de jiǎngjiěguo hěn duō cì zhè gè zhòngyào yǔfǎ nándiǎn.",
+                    "translation": "Teacher Zhang explained this important difficult grammar point many times attentively to the whole class."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 经验态动态助词过 (Experiential Aspect Marker 过)"
+                "Verbal Measure Words: 次 = Occurrences, 遍 = From start to finish, 趟 = Round trips!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Saying «读过三遍» displays scholarly diligence (韦编三绝 wéi biān sān jué), a highly admired virtue in traditional Chinese learning."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「经验态动态助词过 (Experiential Aspect Marker 过)」在第4小节中的标准汉语语法规范？",
+                    "prompt": "表达‘这首中国古琴曲我从头到尾完整听过三遍’时，最精准贴切的动量词是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (8.4.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (8.4.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (8.4.3)。"
+                        "遍 (biàn: whole course from beginning to end)",
+                        "趟",
+                        "个"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "遍 emphasizes experiencing a complete process from start to finish."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「动态助词：过与经验态 (Experiential Aspect Marker 过)」语用情境与完整句式的选项（练习 4）：",
+                    "prompt": "句子‘大卫去过两次中国’中，‘两次’的作用是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (8.4.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (8.4.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (8.4.3)。"
+                        "修饰大卫的名字",
+                        "表示去中国这一经历发生的次数频次 (Quantifies frequency of the experience)",
+                        "表示现在的具体时间"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "两次 is a verbal frequency phrase quantifying the occurrences of the trip."
                 }
             ]
         },
@@ -4199,85 +4241,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「经验态动态助词过 (Experiential Aspect Marker 过)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 8-4）？",
+                    "prompt": "表达专用于往返行程（如跑了一趟邮局）的专用动量词是：",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (8.4.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (8.4.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (8.4.3)。"
+                        "本",
+                        "张",
+                        "趟 (tàng: trip / journey)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "趟 (tàng) is the dedicated verbal measure word for trips/journeys."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («去过_8_4»):",
+                    "prompt": "Type the Hanzi for the verbal measure word 'occurrence / times' (次):",
                     "acceptedAnswers": [
-                        "去过_8_4"
+                        "次",
+                        "ci",
+                        "cì",
+                        "Cì",
+                        "Ci"
                     ],
-                    "explanation": "The target keyword was: 【去过_8_4】"
+                    "explanation": "次 (cì) is the general verbal measure word for occurrences."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u8-l5": {
         "id": "zh-u8-l5",
-        "subject": "mandarin",
-        "unit": 8,
-        "lessonNumber": 5,
-        "title": "动态助词：过与经验态 (Experiential Aspect Marker 过) (Part 5)",
+        "unit": "zh-u8",
         "level": "A2",
-        "objective": "Comprehensive mastery of 经验态动态助词过 (Experiential Aspect Marker 过).",
+        "objective": "Systematically contrast Completed Aspect 了 with Experiential Aspect 过, and synthesize all Unit 8 patterns into a rich A2 life experience narrative and conversational exchange.",
+        "prerequisites": [
+            "zh-u8-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u8-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「动态助词：过与经验态 (Experiential Aspect Marker 过)」（第5部分）的核心句法结构与经验态动态助词过 (Experiential Aspect Marker 过)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在本课中，我们将深度剖析汉语两大核心动态助词「了」与「过」的本质语法区别，并进行全面实战运用。\n\n1. 「了」与「过」终极对比 (Master Contrast: 了 vs. 过):\n- **动态助词「了₁」**：强调**动作的完成与实现**，通常关注近期的具体行为，其结果或状态往往与**当前现实直接关联**（例如：我吃**了**早饭 = I have eaten breakfast [I am not hungry now]）。\n- **动态助词「过」**：强调**曾经有过的人生体验**，该动作早已过去且结束，其状态在当前**已经不再延续**（例如：我吃**过**烤鸭 = I have had the experience of eating roast duck at some point in my life）。\n- **经典语义对比测试**：\n  - 他去**了**北京。(He has gone to Beijing. [He is currently in Beijing now!])\n  - 他去**过**北京。(He has been to Beijing. [He went before and has returned; he is NOT in Beijing now!])\n\n2. 第八单元综合交际实战 (Unit 8 Synthesis Dialogue):\n- 跨国文化阅历分享：与中国朋友畅谈自己去过的城市、品尝过的传统美食、学习过的中华文化技能与未来的旅行心愿。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (8.5.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "对比语境：李明去北京了（李明现在在由北京，不在家）；而大卫去过北京（大卫以前去过，现在已经回到了学校）。",
+                    "reading": "Lǐ Míng qù Běijīng le vs. Dàwèi qùguo Běijīng.",
+                    "translation": "Li Ming went to Beijing (is there now); David has been to Beijing (has returned now)."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (8.5.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫：李明，你吃过外国西餐吗？ 李明：吃过几次意大利面，但我还是最喜欢吃中国菜！",
+                    "reading": "Dàwèi: Lǐ Míng, nǐ chīguo wàiguó xīcān ma? Lǐ Míng: Chīguo jǐ cì Yìdàlì miàn, dàn wǒ háishì zuì xǐhuan chī Zhōngguó cài!",
+                    "translation": "David: Li Ming, have you eaten foreign Western food? Li Ming: I have eaten Italian pasta a few times, but I still like Chinese food best!"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (8.5.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "在过去的一年里，我学过了两百多个生词，看过了三部中文电影，我的汉语水平有了很大的提高！",
+                    "reading": "Zài guòqù de yì nián lǐ, wǒ xuéguò le liǎng bǎi duō gè shēngcí, kànguo le sān bù zhōngwén diànyǐng, wǒ de hànyǔ shuǐpíng yǒu le hěn dà de tígāo!",
+                    "translation": "Over the past year, I have learned over 200 vocabulary words and watched 3 Chinese movies; my Chinese proficiency has improved tremendously!"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 经验态动态助词过 (Experiential Aspect Marker 过)"
+                "Rule of Thumb: 去北京了 = In Beijing NOW! 去过北京 = Back home, was a past trip!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Navigating the distinction between 了 and 过 is widely considered by linguists as the definitive hallmark of natural Chinese fluency."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「经验态动态助词过 (Experiential Aspect Marker 过)」在第5小节中的标准汉语语法规范？",
+                    "prompt": "句子‘张老师去上海了’与‘张老师去过上海’的最核心区别在于：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (8.5.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (8.5.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (8.5.3)。"
+                        "‘去上海了’说明张老师现在就在上海；‘去过上海’说明是过去经历，现在人不在上海 (去了 = there now; 去过 = past trip, back now)",
+                        "两者完全一样",
+                        "‘去过上海’说明张老师永远不回来"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "去了 implies the result is current (is there now); 去过 implies past experience (has returned)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「动态助词：过与经验态 (Experiential Aspect Marker 过)」语用情境与完整句式的选项（练习 5）：",
+                    "prompt": "在求职简历或自我介绍中，表达‘我以前曾经在一家科技公司工作过两年’时，应当使用哪个助词？",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (8.5.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (8.5.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (8.5.3)。"
+                        "工作着",
+                        "工作过 (gōngzuòguo: past career experience)",
+                        "工作要"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "工作过 accurately presents past career experience that has concluded."
                 }
             ]
         },
@@ -4285,24 +4338,30 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「经验态动态助词过 (Experiential Aspect Marker 过)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 8-5）？",
+                    "prompt": "下列哪一项总结了动态助词‘过’的核心语用价值？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (8.5.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (8.5.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (8.5.3)。"
+                        "表示动作正在进行中",
+                        "用于否定句中必须去掉",
+                        "表示主体过去曾经拥有的经验与阅历，且该状态目前已结束 (Conveys concluded past life experience and personal history)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "过 marks past concluded life experience without ongoing current state."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («去过_8_5»):",
+                    "prompt": "Type the Hanzi for 'past / to pass' (过):",
                     "acceptedAnswers": [
-                        "去过_8_5"
+                        "过",
+                        "guo",
+                        "Guo",
+                        "guò",
+                        "Guò",
+                        "過"
                     ],
-                    "explanation": "The target keyword was: 【去过_8_5】"
+                    "explanation": "过 (guo / guò) means 'to pass / past experience'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u9-l1": {
