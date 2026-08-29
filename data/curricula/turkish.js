@@ -450,44 +450,71 @@
         "id": "tr-u1-l1",
         "unit": "tr-u1",
         "level": "A1",
-        "objective": "Greet people using Merhaba, Selam, and Günaydın, and get a first working sense of vowel harmony and agglutination — the two ideas that shape almost every Turkish word.",
+        "objective": "Greet people using Merhaba, Selam, Günaydın, and İyi akşamlar, master the Turkish alphabet's critical dotted İ vs dotless I [ɯ] and silent ğ letters, and understand vowel harmony and agglutination.",
         "prerequisites": [],
         "warmup": {
             "srsPull": true,
             "reviewFocus": []
         },
         "presentation": {
-            "explanation": "Merhaba (hello) is your all-purpose, works-with-anyone greeting. Selam is shorter and more casual, best saved for friends. Günaydın (good morning, literally \"may the day be fresh\") is time-specific. Behind these ordinary words sit two big ideas that explain almost everything unusual about Turkish from here on. First, vowel harmony: Turkish suffixes don't stay fixed — their vowel changes to match the last vowel of whatever they attach to, so the exact same grammatical ending can surface as -im, -ım, -um, or -üm depending on the word, like the suffix \"matching its outfit\" to the stem. Second, agglutination: instead of separate little words for \"am,\" \"not,\" or prepositions, Turkish glues a chain of suffixes directly onto a root to build one long word carrying all that meaning at once — a habit you'll see constantly starting next lesson. Meet today's two speakers, Ayşe and Mehmet.",
+            "explanation": "Merhaba (hello) is your all-purpose, works-with-anyone greeting. Selam is shorter and more casual, best saved for friends. Günaydın (good morning, literally \"may the day be fresh\") is time-specific. İyi akşamlar (good evening) greets someone after dusk.\n\n### 🔤 Turkish Alphabet & Pronunciation Secrets:\nTurkish uses a customized Latin alphabet created in 1928, where spelling is 100% phonetic. But it contains letter distinctions that trip up English speakers:\n1. **The Dotted 'İ/i' vs Dotless 'I/ı' Distinction**:\n   - **İ / i** (with a dot, both uppercase and lowercase!): Front vowel **[i]** (like 'ee' in *machine*). E.g. *İyi* [iˈji] ('good'), *İstanbul* [isˈtanbuɫ].\n   - **I / ı** (WITHOUT a dot, both uppercase and lowercase!): Back close unrounded vowel **[ɯ]** (a deep throaty vowel made with retracted tongue and unrounded lips, like a relaxed 'uh' inside the throat). E.g. *Günaydın* [ɟynajˈdɯn], *akşamlar* [akʃamˈɫaɾ].\n2. **The Special Consonants (ğ, ş, ç, c)**:\n   - **ğ** (*yumuşak g* / soft g): In modern standard Turkish, **ğ is completely silent**! It lengthens the preceding vowel (e.g. *sağ ol* [saː oɫ] 'thank you / stay alive', *öğrenci* [øːɾenˈdʒi] 'student').\n   - **ş** = [ʃ] (the English 'sh' sound in *shoe*). E.g. *akşam* [akˈʃam] ('evening'), *teşekkür* [teʃecˈcyɾ].\n   - **ç** = [tʃ] (the English 'ch' sound in *chair*). E.g. *çok* [tʃok] ('very/much').\n   - **c** = [dʒ] (the English 'j' sound in *jeep*). E.g. *gece* [ɟeˈdʒe] ('night').\n   - **ö** [ø] & **ü** [y]: Front rounded vowels (like French *eu/u* or German *ö/ü*). E.g. *gün* [ɟyn] ('day').\n\n### 🧩 The Two Engines: Vowel Harmony & Agglutination:\n- **Vowel Harmony**: Suffix vowels change to match the front/back vowel family of the stem (back vowels *a, ı, o, u* vs front vowels *e, i, ö, ü*).\n- **Agglutination**: Turkish glues suffix blocks onto roots like Lego bricks.",
             "examples": [
                 {
                     "target": "Ayşe: Merhaba!",
-                    "reading": "Ayşe: Merhaba!",
+                    "reading": "[meɾhaˈba!]",
                     "translation": "Ayşe: Hi! (all-purpose greeting)"
                 },
                 {
                     "target": "Mehmet: Selam!",
-                    "reading": "Mehmet: Selam!",
+                    "reading": "[seˈɫam!]",
                     "translation": "Mehmet: Hey! (casual, for friends)"
                 },
                 {
                     "target": "Günaydın!",
-                    "reading": "Günaydın!",
-                    "translation": "Good morning! (literally \"may the day be fresh/new\")"
+                    "reading": "[ɟynajˈdɯn!]",
+                    "translation": "Good morning! (notice ü [y] and dotless ı [ɯ] in the final syllable)"
                 },
                 {
                     "target": "İyi akşamlar!",
-                    "reading": "İyi akşamlar!",
-                    "translation": "Good evening!"
+                    "reading": "[iˈji akʃamˈɫaɾ!]",
+                    "translation": "Good evening! (İyi starts with dotted İ [i], akşamlar has ş = 'sh' [ʃ])"
                 }
             ],
             "mnemonics": [
-                "Vowel harmony in one line: suffix vowels match their stem's 'vowel family' — a/ı/o/u-flavored stems get a/ı/o/u-flavored suffixes, e/i/ö/ü-flavored stems get e/i/ö/ü-flavored ones. You'll watch this rule fire the moment you attach your first suffix.",
-                "Agglutination is Lego blocks, not one solid word: Turkish snaps suffix after suffix onto a root to say what English needs a whole sentence for. A long Turkish word isn't complicated — it's just efficiently stacked."
+                "The Dot Rule: With dot = 'ee' (İ/i); Without dot = throaty 'uh' (I/ı). In Turkish, capital 'I' and 'İ' are completely different letters!",
+                "Soft G (ğ) is a ghost: It makes no sound of its own, just stretches the vowel before it like an echo.",
+                "Consonants with tails make friction: 'ş' has a tail and says 'sh'; 'ç' has a tail and says 'ch'; plain 'c' says 'j'!",
+                "Vowel harmony in one line: suffix vowels match their stem's 'vowel family' (back vs front)."
             ],
-            "culturalNotes": []
+            "culturalNotes": [
+                "The 1928 Alphabet Revolution: As part of Atatürk's modernization reforms, Turkey switched from the Arabic script to the modern Latin alphabet in 1928. The letterforms were carefully engineered to represent every distinct Turkish phoneme with absolute 1-to-1 consistency.",
+                "Greetings in Turkey carry genuine hospitality: entering a shop or taxi with a warm Merhaba or Günaydın immediately sets a friendly, respectful tone."
+            ]
         },
         "guidedPractice": {
             "items": [
+                {
+                    "prompt": "How is the Turkish dotless letter 'ı' (as in Günaydın) pronounced compared to dotted 'i'?",
+                    "options": [
+                        "Dotted 'i' is [i] ('ee' in machine), while dotless 'ı' is [ɯ] (a deep back unrounded vowel in the throat)",
+                        "They are identical and interchangeable",
+                        "Dotless 'ı' is silent",
+                        "Dotted 'i' is pronounced 'f'"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "İ/i represents front [i], while I/ı represents back unrounded [ɯ]."
+                },
+                {
+                    "prompt": "How is the Turkish letter 'ğ' (yumuşak g) pronounced in standard modern Turkish?",
+                    "options": [
+                        "As a hard English 'g' like in goat",
+                        "It is silent, lengthening the preceding vowel",
+                        "As 'sh'",
+                        "As a hard 'k'"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "ğ is silent and acts to lengthen the preceding vowel sound."
+                },
                 {
                     "prompt": "Which greeting works with almost anyone, in almost any situation?",
                     "options": [
@@ -509,33 +536,22 @@
                     ],
                     "answerIndex": 2,
                     "explanation": "Günaydın is time-specific, used only in the morning."
-                },
-                {
-                    "prompt": "What does 'vowel harmony' mean in Turkish?",
-                    "options": [
-                        "Vowels are silent in Turkish",
-                        "A suffix's vowel changes to match the last vowel of the word it attaches to",
-                        "Turkish has no vowels at all",
-                        "All Turkish words must rhyme"
-                    ],
-                    "answerIndex": 1,
-                    "explanation": "This is the core definition given in the explanation."
-                },
-                {
-                    "prompt": "What does 'agglutination' mean in Turkish?",
-                    "options": [
-                        "Combining two unrelated sentences",
-                        "Building one long word by chaining suffixes onto a root, instead of using separate words",
-                        "A type of formal greeting",
-                        "Removing all vowels from a sentence"
-                    ],
-                    "answerIndex": 1,
-                    "explanation": "This is the core definition given in the explanation."
                 }
             ]
         },
         "independentPractice": {
             "items": [
+                {
+                    "prompt": "Which sound do the letters 'ş' and 'ç' represent in Turkish?",
+                    "options": [
+                        "ş = 'sh' [ʃ], ç = 'ch' [tʃ]",
+                        "ş = 's', ç = 'k'",
+                        "ş = silent, ç = 'z'",
+                        "ş = 'th', ç = 'f'"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "ş is 'sh' and ç is 'ch'."
+                },
                 {
                     "prompt": "Translate: 'Good evening!'",
                     "options": [
@@ -545,7 +561,7 @@
                         "Günaydın! (1.4)"
                     ],
                     "answerIndex": 2,
-                    "explanation": "İyi akşamlar is the standard evening greeting."
+                    "explanation": "İyi akşamlar = Good evening."
                 },
                 {
                     "prompt": "Why might the same Turkish suffix for 'I am' look different depending on the word it attaches to?",
@@ -647,7 +663,7 @@
         "id": "tr-u1-l2",
         "unit": "tr-u1",
         "level": "A1",
-        "objective": "Ask Nasılsın?/Nasılsınız? and answer İyiyim, seeing agglutination and vowel harmony work together in a real word for the first time.",
+        "objective": "Ask Nasılsın?/Nasılsınız?, answer İyiyim, and master the 4-way vowel harmony phonetic engine (-ım/-im/-um/-üm) and silent 'ğ' in değil.",
         "prerequisites": [
             "tr-u1-l1"
         ],
@@ -658,34 +674,37 @@
             ]
         },
         "presentation": {
-            "explanation": "Nasılsın? (how are you, informal) breaks apart into nasıl (how) + sın (you-are, informal suffix) — already agglutination in action. The formal version stacks on an extra politeness suffix: Nasılsınız? = nasıl + sınız. Answer with İyiyim (I'm good) = iyi (good) + yim (I-am suffix) — and here's vowel harmony doing real work: the suffix appears as -yim, not -yım, because iyi's last vowel i belongs to the front-vowel family (e/i/ö/ü). If you were attaching the same \"I am\" suffix to a back-vowel word instead, it would surface as -ım, -um, or -üm — same grammatical job, different vowel clothing, exactly as Lesson 1 promised.",
+            "explanation": "Nasılsın? (how are you, informal) breaks apart into *nasıl* (how) + *-sın* (you-are, informal suffix) — already agglutination in action. The formal version stacks on an extra politeness suffix: *Nasılsınız?* = *nasıl* + *-sınız*.\n\nAnswer with **İyiyim** (I'm good) = *iyi* (good) + *-yim* (I-am suffix) — and here's 4-way vowel harmony doing real work:\n\n### 🔤 The 4-Way Vowel Harmony Engine (Dörtlü Ünlü Uyumu):\nSuffixes containing high vowels (*ı, i, u, ü*) must match the last vowel of the stem:\n1. If last vowel is **a / ı** → suffix uses **ı** (e.g. *nasıl* [naˈsɯɫ] → *nasılsın* [naˈsɯɫsɯn]).\n2. If last vowel is **e / i** → suffix uses **i** (e.g. *iyi* [iˈji] → *iyiyim* [iˈji.jim]).\n3. If last vowel is **o / u** → suffix uses **u** (e.g. *yorgun* [joɾˈɡun] → *yorgunum* [joɾɡuˈnum] 'I am tired').\n4. If last vowel is **ö / ü** → suffix uses **ü** (e.g. *üzgün* [yzˈɟyn] → *üzgünüm* [yzɟyˈnym] 'I am sorry/sad').\n\n### 🗣️ Silent 'ğ' in *değil*:\nIn *Fena değilim* ('I'm not bad'), notice the word **değil** ('not'). Remember that **ğ is completely silent** — *değil* is pronounced **[deːˈjil]** or **[diːl]**, never with a hard 'g'!",
             "examples": [
                 {
                     "target": "Ayşe: Merhaba! Nasılsın?",
-                    "reading": "Ayşe: Merhaba! Nasılsın?",
-                    "translation": "Ayşe: Hi! How are you? (informal)"
+                    "reading": "[meɾhaˈba! naˈsɯɫsɯn?]",
+                    "translation": "Ayşe: Hi! How are you? (nasıl has back vowels a/ı → takes dotless -sın [sɯn])"
                 },
                 {
                     "target": "Mehmet: İyiyim, teşekkürler. Sen nasılsın?",
-                    "reading": "Mehmet: İyiyim, teşekkürler. Sen nasılsın?",
-                    "translation": "Mehmet: I'm good, thanks. How are you? (informal)"
+                    "reading": "[iˈji.jim, teʃeccyɾˈleɾ. sen naˈsɯɫsɯn?]",
+                    "translation": "Mehmet: I'm good, thanks. How are you? (iyi has front vowel i → takes dotted -yim [jim])"
                 },
                 {
                     "target": "Nasılsınız?",
-                    "reading": "Nasılsınız?",
-                    "translation": "How are you? (formal, to a stranger or elder)"
+                    "reading": "[naˈsɯɫsɯnɯz?]",
+                    "translation": "How are you? (formal/plural — stack -ız with dotless ı)"
                 },
                 {
                     "target": "Fena değilim.",
-                    "reading": "Fena değilim.",
-                    "translation": "I'm not bad. (değil = not; a negation preview)"
+                    "reading": "[feˈna deːjiˈlim]",
+                    "translation": "I'm not bad. (değil features silent ğ lengthening the vowel: [deːjil])"
                 }
             ],
             "mnemonics": [
-                "İyiyim is two Lego pieces: iyi (good) + yim (I-am). Read any Turkish word ending in a personal suffix as 'root + who's talking,' not as one solid unbreakable blob.",
-                "-sın (informal you-are) vs. -sınız (formal you-are): the formal version is just the informal one with an extra -ız stacked on — politeness-via-extra-suffix is a pattern you'll meet again and again in Turkish."
+                "4-Way Harmony Compass: a/ı → ı; e/i → i; o/u → u; ö/ü → ü. The suffix mimics the tongue position and lip rounding of the root vowel perfectly!",
+                "İyiyim is two Lego pieces: iyi (good) + yim (I-am). Buffer 'y' prevents two vowels from colliding (*iyi-im → iyiyim*).",
+                "-sın (informal you-are) vs. -sınız (formal you-are): politeness is just stacking an extra suffix block."
             ],
-            "culturalNotes": []
+            "culturalNotes": [
+                "Teşekkürler (thanks) vs Teşekkür ederim (thank you very much): Teşekkürler is universally heard on the street for quick everyday thanks, while teşekkür ederim adds a touch of personal warmth and formality."
+            ]
         },
         "guidedPractice": {
             "items": [
