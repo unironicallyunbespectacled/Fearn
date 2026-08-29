@@ -6322,63 +6322,69 @@
     },
     "zh-u13-l1": {
         "id": "zh-u13-l1",
-        "subject": "mandarin",
-        "unit": 13,
-        "lessonNumber": 1,
-        "title": "把字句的结构限制与对象处置 (The 把 Construction) (Part 1)",
+        "unit": "zh-u13",
         "level": "B1",
-        "objective": "Comprehensive mastery of 把字句处置结构 (The 把 Disposal Construction).",
+        "objective": "Master the foundational structure and communicative rationale of the 把 (bǎ) disposal construction (Subject + 把 + Definite Object + Verb + Complement / Other Element).",
+        "prerequisites": [
+            "zh-u12-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u12-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「把字句的结构限制与对象处置 (The 把 Construction)」（第1部分）的核心句法结构与把字句处置结构 (The 把 Disposal Construction)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "「把字句」是现代汉语最具特色的核心句式之一！它的核心语法功能是**「处置（Disposal）」**——即表示主语通过某种动作行为，对某个**特定的对象产生影响，使其位置、状态、归属或形态发生改变**！\n\n1. 核心处置公式 (The Core 把 Formula):\n- **主语 + 把 + 处置对象 (宾语) + 动作动词 + 其他成分 (补语/了/在/到/给等)**\n- 例子：\n  - 我**把**苹果**洗干净了**。(I washed the apple clean. *[苹果状态由脏变干净]*)\n  - 请**把**门**关上**。(Please close the door. *[门由开变关]*)\n  - 他**把**书**放进了书包**。(He put the book into the bag. *[书的位置发生位移]*)\n\n2. 黄金铁律一：**动词绝不能单独出现（不能是光杆动词）！**\n  - 错误：*我把苹果吃。\n  - 正确：我把苹果**吃了** / 把苹果**吃完了**！",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (13.1.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "下课后，值日生认真地把黑板擦得干干净净，把桌椅摆放整齐。",
+                    "reading": "Xiàkè hòu, zhírìshēng rènzhēn de bǎ hēibǎn cā de gāngānjìngjìng, bǎ zhuōyǐ bǎifàng zhěngqí.",
+                    "translation": "After class, the student on duty attentively wiped the blackboard squeaky clean and arranged desks and chairs neatly."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (13.1.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "出门前请大家务必把窗户关好，把房间里的电源插头全部拔掉。",
+                    "reading": "Chūmén qián qǐng dàjiā wùbì bǎ chuānghu guānhǎo, bǎ fángjiān lǐ de diànyuán chātóu quánbù bádiào.",
+                    "translation": "Before going out, everyone please make sure to close the windows securely and unplug all power plugs in the room."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (13.1.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "大卫高兴地把刚买的新鲜水果洗干净，端出来热情地招待来访的客人。",
+                    "reading": "Dàwèi gāoxìng de bǎ gāng mǎi de xīnxiān shuǐguǒ xǐ gānjìng, duān chūlai rèqíng de zhāodài láifǎng de kèrén.",
+                    "translation": "David happily washed the freshly bought fresh fruit clean and brought it out to warmly host visiting guests."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 把字句处置结构 (The 把 Disposal Construction)"
+                "把 = Take & Dispose! Formula: Subject + 把 + Object + Verb + RESULT/CHANGE! Never leave the verb alone!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "The classroom duty rotation (值日生 zhírìshēng) where students take turns cleaning blackboards (把黑板擦干净) and organizing desks builds communal responsibility in Chinese schools."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「把字句处置结构 (The 把 Disposal Construction)」在第1小节中的标准汉语语法规范？",
+                    "prompt": "下列关于把字句的句子中，哪一个完全符合语法规范？",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (13.1.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (13.1.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (13.1.3)。"
+                        "请把这本书看 (Wrong: naked verb)",
+                        "请把这本书看完了再还给我 (Qǐng bǎ zhè běn shū kànwán le zài huángěi wǒ)",
+                        "请把看这本书"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "把 sentences strictly require a resultative complement, directional complement, or 了 after the verb; naked verbs are ungrammatical."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「把字句的结构限制与对象处置 (The 把 Construction)」语用情境与完整句式的选项（练习 1）：",
+                    "prompt": "句子‘他把房间打扫干净了’中，‘把’字句突出的核心语义是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (13.1.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (13.1.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (13.1.3)。"
+                        "打扫房间的工具",
+                        "对‘房间’这一对象进行了处理并产生了‘干净’的状态改变 (Disposal of 'room' resulting in the state change 'clean')",
+                        "房间非常大"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "The 把 construction highlights active disposal causing a state change in the object."
                 }
             ]
         },
@@ -6386,85 +6392,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「把字句处置结构 (The 把 Disposal Construction)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 13-1）？",
+                    "prompt": "在把字句中，动词后面必须带有‘其他成分’，下列哪个句子符合这一规则？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (13.1.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (13.1.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (13.1.3)。"
+                        "他把衣服洗",
+                        "他把衣服洗干净了 (Tā bǎ yīfu xǐ gānjìng le)",
+                        "他洗了把衣服"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "洗干净了 has the resultative complement 干净 and aspect marker 了."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («把书_13_1»):",
+                    "prompt": "Type the Hanzi for 'to close / shut securely' (关好):",
                     "acceptedAnswers": [
-                        "把书_13_1"
+                        "关好",
+                        "guanhao",
+                        "guānhǎo",
+                        "Guānhǎo",
+                        "Guanhao",
+                        "關好"
                     ],
-                    "explanation": "The target keyword was: 【把书_13_1】"
+                    "explanation": "关好 (guānhǎo) means 'to close / shut securely'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u13-l2": {
         "id": "zh-u13-l2",
-        "subject": "mandarin",
-        "unit": 13,
-        "lessonNumber": 2,
-        "title": "把字句的结构限制与对象处置 (The 把 Construction) (Part 2)",
+        "unit": "zh-u13",
         "level": "B1",
-        "objective": "Comprehensive mastery of 把字句处置结构 (The 把 Disposal Construction).",
+        "objective": "Master the definiteness requirement of the 把 object (must be specific, known, or definite: 这/那/我/特指) and identify verbs that cannot enter the 把 construction (感知/心理/存在: 喜欢, 知道, 见, 听, 有, 是).",
+        "prerequisites": [
+            "zh-u13-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u13-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「把字句的结构限制与对象处置 (The 把 Construction)」（第2部分）的核心句法结构与把字句处置结构 (The 把 Disposal Construction)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "把字句并不是任何名词和动词都能随意使用的，它有两个至关重要的**结构限制法则**！\n\n1. 宾语特指律 (The Definiteness Law):\n- 「把」后面的宾语必须是**说话双方已知的、特定的或有指代的人或事物（Definite / Specific Entity）**！\n  - 正确：他把**那本**小说看完了 / 把**我的**钥匙弄丢了。\n  - 错误：*他把一本小说看完了 (*Incorrect: indefinite 一本 cannot be disposed).\n\n2. 动词排他律 (Verbs Excluded from 把):\n- 只有具有**及物性、动作性并能对对象造成影响**的动词才能用于把字句！\n- **严禁用于把字句的动词**：\n  - **心理情感动词**：*喜欢、爱、讨厌、想念、希望\n  - **知觉认知动词**：*知道、认识、觉得、同意\n  - **存在判断动词**：*是、有、在、等于、像\n  - **趋向无处置动词**：*来、去、上、下。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (13.2.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "请你把桌子上的那份学术研究报告拿给王教授审阅。",
+                    "reading": "Qǐng nǐ bǎ zhuōzi shang de nà fèn xuéshù yánjiū bàogào ná gěi Wáng jiàoshòu shěnyuè.",
+                    "translation": "Please take that academic research report on the desk to Professor Wang for review."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (13.2.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "小明不小心把李明刚买的那支英雄牌钢笔摔坏了，心里非常内疚。",
+                    "reading": "Xiǎomíng bù xiǎoxīn bǎ Lǐ Míng gāng mǎi de nà zhī yīngxióng pái gāngbǐ shuāihuài le, xīnlǐ fēicháng nèijiù.",
+                    "translation": "Xiaoming accidentally dropped and broke that Hero-brand fountain pen Li Ming had just bought, feeling very guilty."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (13.2.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "在整理书房时，我把这些年收集的所有古籍文献都分类编号存放好了。",
+                    "reading": "Zài zhěnglǐ shūfáng shí, wǒ bǎ zhèxiē nián shōují de suǒyǒu gǔjí wénxiàn dōu fēnlèi biānhào cúnfànghǎo le.",
+                    "translation": "While tidying the study, I categorized, numbered, and stored away all the ancient documents collected over these years."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 把字句处置结构 (The 把 Disposal Construction)"
+                "Definite Object Only (这/那/具体已知)! No Love/Know/Be verbs in 把 (喜欢/知道/是有 are banned)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Hero-brand fountain pens (英雄牌钢笔) represent a nostalgic classic of Chinese academic culture and scholastic pride since the mid-20th century."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「把字句处置结构 (The 把 Disposal Construction)」在第2小节中的标准汉语语法规范？",
+                    "prompt": "下列哪一组动词绝对不能用于把字句？",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (13.2.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (13.2.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (13.2.3)。"
+                        "洗、拿、放、关",
+                        "喜欢、知道、认识、是 (Psychological/Cognitive/Copula verbs)",
+                        "写、擦、修、借"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "Psychological, cognitive, and existence verbs (喜欢、知道、认识、是) cannot exert physical disposal and are banned from 把."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「把字句的结构限制与对象处置 (The 把 Construction)」语用情境与完整句式的选项（练习 2）：",
+                    "prompt": "为什么句子‘*我把一本书看完了’在标准现代汉语中是不自然的？",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (13.2.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (13.2.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (13.2.3)。"
+                        "因为书太厚了",
+                        "因为‘一本书’是泛指泛称，把字句宾语必须是已知特指的对象 (Indefinite object violates the Definiteness Rule of 把)",
+                        "因为动词不能用‘看’"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "The object of 把 must be definite/specific (e.g. 这本书 / 那本书), not indefinite (一本书)."
                 }
             ]
         },
@@ -6472,85 +6490,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「把字句处置结构 (The 把 Disposal Construction)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 13-2）？",
+                    "prompt": "下列哪个句子在宾语特指性与动词搭配上完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (13.2.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (13.2.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (13.2.3)。"
+                        "他把那封重要的电子邮件发送出去了 (Tā bǎ nà fēng zhòngyào de diànzǐ yóujiàn fāsòng chūqu le)",
+                        "他把我喜欢了",
+                        "他把一个人认识了"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "explanation": "那封重要的电子邮件 is a specific definite object and 发送出去 is a valid disposal action."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («把书_13_2»):",
+                    "prompt": "Type the Hanzi for 'to arrange / put in order' (放好):",
                     "acceptedAnswers": [
-                        "把书_13_2"
+                        "放好",
+                        "fanghao",
+                        "fànghǎo",
+                        "Fànghǎo",
+                        "Fanghao"
                     ],
-                    "explanation": "The target keyword was: 【把书_13_2】"
+                    "explanation": "放好 (fànghǎo) means 'to place properly / put away neatly'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u13-l3": {
         "id": "zh-u13-l3",
-        "subject": "mandarin",
-        "unit": 13,
-        "lessonNumber": 3,
-        "title": "把字句的结构限制与对象处置 (The 把 Construction) (Part 3)",
+        "unit": "zh-u13",
         "level": "B1",
-        "objective": "Comprehensive mastery of 把字句处置结构 (The 把 Disposal Construction).",
+        "objective": "Master the strict placement rule where negative adverbs (没/没有/别), modal verbs (想/要/能/可以/应该), and time adverbs MUST be placed BEFORE 把, never between 把 and the verb.",
+        "prerequisites": [
+            "zh-u13-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u13-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「把字句的结构限制与对象处置 (The 把 Construction)」（第3部分）的核心句法结构与把字句处置结构 (The 把 Disposal Construction)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在把字句中，副词与助动词的位置有着绝对不可违背的**前置铁律（Pre-把 Placement Rule）**！\n\n1. 核心前置法则：**否定词、能愿动词与副词必须放在「把」字之前！**\n- **否定词前置 (没/没有/别/不 + 把)**：\n  - 我**没把**作业带来。(I didn't bring homework. *[绝不说 *我把作业没带来])*\n  - **别把**这件事情告诉他！(Don't tell him this matter!)\n- **能愿动词前置 (想/要/能/可以/应该 + 把)**：\n  - 你**应该把**字写端正。(You should write characters neatly. *[绝不说 *你把字应该写端正])*\n  - 我**想把**这本小说翻译成英文。(I want to translate this novel into English.)\n- **时间/频度副词前置 (已经/刚刚/经常 + 把)**：\n  - 他**已经把**行李打包好了。(He has already packed the luggage.)\n\n2. 总结公式：**主语 + [时间副词 / 否定词 / 能愿动词] + 把 + 宾语 + 动词 + 补语**！",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (13.3.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "大卫十分抱歉地对老师说：‘老师对不起，我今天早晨走得太匆忙，没把听写本带来。’",
+                    "reading": "Dàwèi shífēn bàoqiàn de duì lǎoshī shuō: ‘Lǎoshī duìbuqǐ, wǒ jīntiān zǎochén zǒu de tài cōngmáng, méi bǎ tīngxiěběn dàilái.’",
+                    "translation": "David very apologetically said to the teacher: 'Sorry teacher, I left in too much of a hurry this morning and didn't bring my dictation notebook.'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (13.3.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "为了保护视力，我们在看书写字时一定要把台灯调到合适的亮度。",
+                    "reading": "Wèile bǎohù shìlì, wǒmen zài kànshū xiězì shí yídìng yào bǎ táidēng tiáo dào héshì de liàngdù.",
+                    "translation": "To protect eyesight, when reading and writing we definitely must adjust the desk lamp to a suitable brightness."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (13.3.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "大家已经把下周文化节的演出服装准备好了，只等正式登台亮相！",
+                    "reading": "Dàjiā yǐjīng bǎ xiàzhōu wénhuàjié de yǎnchū fúzhuāng zhǔnbèihǎo le, zhǐ děng zhèngshì dēngtái liàngxiàng!",
+                    "translation": "Everyone has already prepared the performance costumes for next week's culture festival, just waiting to formally take the stage!"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 把字句处置结构 (The 把 Disposal Construction)"
+                "Front-Load Before 把: Negatives (没), Modals (想/能/要), Adverbs (已经) always MARCH IN FRONT OF 把!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "The school culture festival (校园文化节 xiàoyuán wénhuàjié) with drama, dance, and music is an annual highlight of campus life in China."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「把字句处置结构 (The 把 Disposal Construction)」在第3小节中的标准汉语语法规范？",
+                    "prompt": "句子‘我还没把今天的作业做完’中，否定词‘没’放在什么位置？",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (13.3.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (13.3.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (13.3.3)。"
+                        "放在‘把’字之前 (In front of 把)",
+                        "放在动词‘做’之前",
+                        "放在句尾"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "Negatives like 没 must strictly precede 把."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「把字句的结构限制与对象处置 (The 把 Construction)」语用情境与完整句式的选项（练习 3）：",
+                    "prompt": "表达‘你不能把手机带进考场’时，能愿动词与否定词‘不能’的正确语序是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (13.3.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (13.3.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (13.3.3)。"
+                        "你把手机不能带进考场",
+                        "你不能把手机带进考场 (Nǐ bù néng bǎ shǒujī dàijìn kǎochǎng)",
+                        "你带手机不能把考场"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "不能 must be placed before 把."
                 }
             ]
         },
@@ -6558,85 +6587,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「把字句处置结构 (The 把 Disposal Construction)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 13-3）？",
+                    "prompt": "下列哪个句子的副词与否定词语序完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (13.3.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (13.3.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (13.3.3)。"
+                        "他把钱已经还给我了",
+                        "他已经把借的书还给图书馆了 (Tā yǐjīng bǎ jiè de shū huán gěi túshūguǎn le)",
+                        "他把借的书没还"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "explanation": "已经 correctly precedes 把."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («把书_13_3»):",
+                    "prompt": "Type the Hanzi for 'to pack / pack up' (打包好):",
                     "acceptedAnswers": [
-                        "把书_13_3"
+                        "打包好",
+                        "dabaohao",
+                        "dǎbāohǎo",
+                        "Dǎbāohǎo",
+                        "Dabaohao"
                     ],
-                    "explanation": "The target keyword was: 【把书_13_3】"
+                    "explanation": "打包好 (dǎbāohǎo) means 'to pack up properly'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u13-l4": {
         "id": "zh-u13-l4",
-        "subject": "mandarin",
-        "unit": 13,
-        "lessonNumber": 4,
-        "title": "把字句的结构限制与对象处置 (The 把 Construction) (Part 4)",
+        "unit": "zh-u13",
         "level": "B1",
-        "objective": "Comprehensive mastery of 把字句处置结构 (The 把 Disposal Construction).",
+        "objective": "Master the high-frequency complex 把 constructions involving location shift (放在/送到), transfer/giving (送给/寄给), and transformation/translation (翻译成/看作).",
+        "prerequisites": [
+            "zh-u13-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u13-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「把字句的结构限制与对象处置 (The 把 Construction)」（第4部分）的核心句法结构与把字句处置结构 (The 把 Disposal Construction)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "把字句最广泛生动的应用，是与表示**位移到达（到/在）、对象转移（给）以及状态转化（成/作）**的介词补语深度结合！\n\n1. 四大核心高阶把字句公式 (4 Advanced 把 Patterns):\n- **位置存留：把 + O + 动词 + 在 + 处所 (V + zài + Place)**\n  - 请**把**行李**放**在**行李架上**。(Put luggage on the luggage rack.)\n- **空间位移：把 + O + 动词 + 到 + 终点 (V + dào + Destination)**\n  - 他**把**客人**送**到**了校门口**。(He walked the guests to the school gate.)\n- **对象转移：把 + O + 动词 + 给 + 接收者 (V + gěi + Recipient)**\n  - 我想**把**这束鲜花**送**给**敬爱的老师**。(Give these flowers to the teacher.)\n- **形态转化：把 + O + 动词 + 成 / 作 + 结果 (V + chéng/zuò + Result)**\n  - 请**把**这段中文**翻译**成**优美的英文**。(Translate into English.) / 把他**当**作**好朋友**。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (13.4.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "王老师微笑着把荣誉证书颁发给了在中文演讲比赛中荣获特等奖的留学生。",
+                    "reading": "Wáng lǎoshī wēixiào zhe bǎ róngyù zhèngshū bānfā gěi le zài zhōngwén yǎnjiǎng bǐsài zhōng rónghuò tèděngjiǎng de liúxuéshēng.",
+                    "translation": "Teacher Wang smilingly presented the certificate of honor to the international student who won the grand prize in the Chinese speech contest."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (13.4.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "请同学们在交卷前，先把自己的姓名和考号工整地写在答题卡上。",
+                    "reading": "Qǐng tóngxuémen zài jiāojuàn qián, xiān bǎ zìjǐ de xìngmíng hé kǎohào gōngzhěng de xiě zài dǎtíkǎ shang.",
+                    "translation": "Before submitting the exam, students please first write your name and candidate number neatly on the answer sheet."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (13.4.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "通过长期的刻苦钻研，翻译家把这部中国古典名著成功翻译成了五种外语。",
+                    "reading": "Tōngguò chángqī de kèkǔ zuānyán, fānyìjiā bǎ zhè bù Zhōngguó gǔdiǎn míngzhù chénggōng fānyì chéng le wǔ zhǒng wàiyǔ.",
+                    "translation": "Through long-term assiduous research, the translator successfully translated this Chinese classical masterpiece into five foreign languages."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 把字句处置结构 (The 把 Disposal Construction)"
+                "4 Transformation Links: 在 (Place), 到 (Destination), 给 (Recipient), 成 (Transform/Translate)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Classical translation (典籍外译 diǎnjí wàiyì) plays a vital role in sharing Chinese civilization, philosophy, and literature with global readers."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「把字句处置结构 (The 把 Disposal Construction)」在第4小节中的标准汉语语法规范？",
+                    "prompt": "表达‘将这本中文小说翻译为法文’时，应选用哪个固定把字句式？",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (13.4.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (13.4.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (13.4.3)。"
+                        "把小说翻译成法文 (bǎ ... fānyì chéng: translate into)",
+                        "把小说翻译在法文",
+                        "把小说翻译到法文"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "成 indicates transformation and translation into a new form/language."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「把字句的结构限制与对象处置 (The 把 Construction)」语用情境与完整句式的选项（练习 4）：",
+                    "prompt": "句子‘请把这封邀请函亲手交给张院长’中，‘交给’体现了什么语义？",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (13.4.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (13.4.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (13.4.3)。"
+                        "位置移动",
+                        "物品所有权/承接对象的转移 (Transfer of possession to a recipient)",
+                        "物品被损坏"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "给 marks transfer of the object to a recipient."
                 }
             ]
         },
@@ -6644,85 +6684,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「把字句处置结构 (The 把 Disposal Construction)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 13-4）？",
+                    "prompt": "下列哪个句子正确表达了‘将书包放置在书桌上’？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (13.4.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (13.4.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (13.4.3)。"
+                        "他把书包放在书桌上了 (Tā bǎ shūbāo fàng zài shūzhuō shang le)",
+                        "他放书包把在书桌",
+                        "他把书桌放在书包"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "把 + 书包 + 放在 + 书桌上 is the perfect location disposal pattern."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («把书_13_4»):",
+                    "prompt": "Type the Hanzi for 'to translate into' (翻译成):",
                     "acceptedAnswers": [
-                        "把书_13_4"
+                        "翻译成",
+                        "fanyicheng",
+                        "fānyìchéng",
+                        "Fānyìchéng",
+                        "Fanyicheng",
+                        "翻譯成"
                     ],
-                    "explanation": "The target keyword was: 【把书_13_4】"
+                    "explanation": "翻译成 (fānyìchéng) means 'to translate into'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u13-l5": {
         "id": "zh-u13-l5",
-        "subject": "mandarin",
-        "unit": 13,
-        "lessonNumber": 5,
-        "title": "把字句的结构限制与对象处置 (The 把 Construction) (Part 5)",
+        "unit": "zh-u13",
         "level": "B1",
-        "objective": "Comprehensive mastery of 把字句处置结构 (The 把 Disposal Construction).",
+        "objective": "Synthesize all aspects of the 把 construction (Definiteness rule, Naked-verb ban, Pre-把 adverb/negative/modal rules, and V+在/到/给/成 patterns) into rich expressive narratives and fluent spontaneous dialogues.",
+        "prerequisites": [
+            "zh-u13-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u13-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「把字句的结构限制与对象处置 (The 把 Construction)」（第5部分）的核心句法结构与把字句处置结构 (The 把 Disposal Construction)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在本课中，我们将把第十三单元所有的把字句核心规则提炼为系统总表，并在学术生活、跨国文化交流与日常活动实战中全面运用！\n\n1. 把字句全景法则导航表 (Master 把 Navigation Chart):\n- **基本核心**：主语 + 把 + 特指宾语 + 动词 + 补语/结果/了\n- **禁止动词**：心理 (喜欢/爱)、认知 (知道/认识)、判断 (是/有)\n- **前置铁律**：副词 (已经)、否定词 (没/别)、能愿动词 (想/能/应该) 必在「把」前！\n- **高阶引申**：\n  - 把 + O + 放在 (Location)\n  - 把 + O + 送到 (Destination)\n  - 把 + O + 交给 (Recipient)\n  - 把 + O + 翻译成 (Transformation)\n\n2. 第十三单元实战交际演练 (Unit 13 Synthesis Dialogue):\n- 跨国学术夏令营筹备：把通知发给大家、把会议室布置好、把论文翻译成中文、把行李放到宿舍。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (13.5.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "大卫：李明，明天的国际学术交流会我们应该怎么分工？ 李明：我已经把会议日程表发到大家邮箱了，请大家先把各自的讲稿准备好！",
+                    "reading": "Dàwèi: Lǐ Míng, míngtiān de guójì xuéshù jiāoliúhuì wǒmen yīnggāi zěnme fēngōng? Lǐ Míng: Wǒ yǐjīng bǎ huìyì rìchéngbiǎo fādào dàjiā yóuxiāng le, qǐng dàjiā xiān bǎ gèzì de jiǎnggǎo zhǔnbèihǎo!",
+                    "translation": "David: Li Ming, how should we divide tasks for tomorrow's international academic symposium? Li Ming: I already sent the conference schedule to everyone's email; please first get your individual speech drafts ready!"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (13.5.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "志愿者们齐心协力，不仅把多功能国际会议厅打扫得一尘不染，还把同声传译设备调试好了。",
+                    "reading": "Zhìyuànzhěmen qíxīnxiélì, bùjǐn bǎ duōgōngnéng guójì huìyìtīng dǎsǎo de yìchénbùrǎn, hái bǎ tóngshēng chuányì shèbèi tiáoshìhǎo le.",
+                    "translation": "Working with united efforts, volunteers not only cleaned the multifunctional international hall spotless, but also calibrated the simultaneous interpretation equipment!"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (13.5.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "经过一学期的刻苦训练，留学生们已经能把各种复杂的句式灵活运用在日常汉语交际中了。",
+                    "reading": "Jīngguò yì xuéqī de kèkǔ xùnliàn, liúxuéshēngmen yǐjīng néng bǎ gèzhǒng fùzá de jùshì línghuó yùnyòng zài rìcháng hànyǔ jiāojì zhōng le.",
+                    "translation": "After a semester of hard training, international students are already able to flexibly apply various complex sentence patterns in daily Chinese communication."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 把字句处置结构 (The 把 Disposal Construction)"
+                "The Complete 把 Master: Definite Target + Pre-把 Modals/Negatives + Transformed Outcome (在/到/给/成)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Simultaneous interpretation (同声传译 tóngshēng chuányì) in Chinese-English academic forums demands elite language mastery and lightning-fast syntactic restructuring."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「把字句处置结构 (The 把 Disposal Construction)」在第5小节中的标准汉语语法规范？",
+                    "prompt": "句子‘我已经把会议日程发到你的手机上了’体现了把字句的什么高阶结构？",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (13.5.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (13.5.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (13.5.3)。"
+                        "位置与终点位移结构 (把 + O + V + dào + Destination)",
+                        "被动结构",
+                        "疑问结构"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "发到...上 indicates sending and transmitting to a destination."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「把字句的结构限制与对象处置 (The 把 Construction)」语用情境与完整句式的选项（练习 5）：",
+                    "prompt": "当向外国朋友介绍‘我们必须把中文学好’时，‘学好’在句子中充当：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (13.5.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (13.5.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (13.5.3)。"
+                        "主语",
+                        "处置动作达成满意结果的结果补语 (Resultative complement showing satisfactory learning outcome)",
+                        "时间状语"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "好 is the resultative complement completing the disposal action."
                 }
             ]
         },
@@ -6730,24 +6782,29 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「把字句处置结构 (The 把 Disposal Construction)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 13-5）？",
+                    "prompt": "关于把字句的语法总则，下列哪一项表述完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (13.5.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (13.5.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (13.5.3)。"
+                        "任何动词都可以用于把字句",
+                        "否定词‘没’必须放在‘把’字之后",
+                        "宾语必须是已知特指的，且动词后必须带补语或其它成分 (Object must be definite/specific, and verb must have complements/other elements)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "把 sentences require a definite object and a verb accompanied by complements or aspect particles."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («把书_13_5»):",
+                    "prompt": "Type the Hanzi for 'to arrange / set up properly' (布置好):",
                     "acceptedAnswers": [
-                        "把书_13_5"
+                        "布置好",
+                        "buzhihao",
+                        "bùzhìhǎo",
+                        "Bùzhìhǎo",
+                        "Buzhihao"
                     ],
-                    "explanation": "The target keyword was: 【把书_13_5】"
+                    "explanation": "布置好 (bùzhìhǎo) means 'to arrange / decorate / set up properly'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u14-l1": {
