@@ -11699,63 +11699,69 @@
     },
     "zh-u24-l1": {
         "id": "zh-u24-l1",
-        "subject": "mandarin",
-        "unit": 24,
-        "lessonNumber": 1,
-        "title": "金融银行、供应链与跨境电商 (Banking & Supply Chains) (Part 1)",
+        "unit": "zh-u24",
         "level": "B2",
-        "objective": "Comprehensive mastery of 金融银行与跨境电商 (Banking, Finance & E-Commerce).",
+        "objective": "Master commercial banking operations and cross-border forex terminology (开户 open account, 结算 settlement, 购汇/结汇 FX purchase/settlement, 汇率牌价 exchange rate board, 电汇 T/T wire transfer, 跨境人民币清算 CIPS).",
+        "prerequisites": [
+            "zh-u23-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u23-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「金融银行、供应链与跨境电商 (Banking & Supply Chains)」（第1部分）的核心句法结构与金融银行与跨境电商 (Banking, Finance & E-Commerce)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在全球经贸往来中，精通**商业银行外汇结算与跨境资金划转**是商务沟通的核心能力！\n\n1. 银行账户与外汇结算核心术语 (Banking & FX Terms):\n- **开立账户 (kāilì zhànghù)**：开立外币结算账户或境内基本存款账户。\n- **购汇 (gòuhuì)**：用人民币购买外币（Purchase foreign exchange）。\n- **结汇 (jiéhuì)**：将外币兑换为人民币（Settle foreign exchange into RMB）。\n- **现汇买入价 / 现钞卖出价**：银行外汇即期牌价基准。\n- **跨境电汇 (kuàjìng diànhuì, T/T)**：附带国际汇款代码（SWIFT Code）或**人民币跨境支付系统 (CIPS)** 代码。\n\n2. 银行柜台与国际汇款实用句法 (Banking Counter Dialogue):\n- ‘我们希望在贵行办理一笔**信用证项下的美元跨境电汇**，烦请告知今日**实时结算汇率**。’",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (24.1.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "财务总监在银行对公业务窗口办理汇款：‘请为我们开具这张价值五十万美元的国际电汇凭证，收款行SWIFT代码及跨境清算账户已在申请表上核对无误。’",
+                    "reading": "Cáiwù zǒngjiān zài yínháng duìgōng yèwù chuāngkǒu bànlǐ huìkuǎn: ‘Qǐng wèi wǒmen kāijù zhè zhāng jiàzhí wǔshí wàn Měiyuán de guójì diànhuì píngzhèng, shōukuǎnháng SWIFT dàimǎ jí kuàjìng qīngsuàn zhànghù yǐ zài shēnqǐngbiǎo shang héduì wúwù.’",
+                    "translation": "The CFO handled the transfer: 'Please issue this $500,000 international wire transfer voucher; the beneficiary's SWIFT code and cross-border clearing account have been verified.'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (24.1.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫在手机银行App上操作换汇：‘趁着今天美元对人民币汇率牌价波动，我顺利完成了两千美元的线上购汇并转存为定期存款。’",
+                    "reading": "Dàwèi zài shǒujī yínháng App shang cāozuò huànhuì: ‘Chènzhe jīntiān Měiyuán duì Rénmínbì huìlǜ páijià bōdòng, wǒ shùnlì wánchéng le liǎngqiān Měiyuán de xiànshang gòuhuì bìng zhuǎncún wéi dìngqī cúnkuǎn.’",
+                    "translation": "David exchanged currency on the mobile app: 'Taking advantage of today's USD/RMB exchange rate fluctuations, I completed an online purchase of $2,000 and deposited it into a fixed-term account.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (24.1.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "国际结算部经理向外商推介：‘使用人民币跨境支付系统（CIPS）进行贸易结算，不仅资金到账迅速，还能有效规避第三方汇率波动风险。’",
+                    "reading": "Guójì jiésuànbù jīnglǐ xiàng wàishāng tuījiè: ‘Shǐyòng Rénmínbì Kuàjìng Zhīfù Xìtǒng (CIPS) jìnxíng màoyì jiésuàn, bùjǐn zījīn dàozhàng xùnsù, hái néng yǒuxiào guībì dì-sān-fāng huìlǜ bōdòng fēngxiǎn.’",
+                    "translation": "The international settlement manager recommended: 'Using the CIPS system for trade settlement ensures fast fund arrival and effectively hedges third-party exchange rate volatility.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 金融银行与跨境电商 (Banking, Finance & E-Commerce)"
+                "Banking & FX: 购汇 (Buy FX), 结汇 (Sell FX to RMB), 电汇 (Wire T/T), CIPS清算 (Cross-Border RMB Clearing)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "CIPS (Cross-Border Interbank Payment System / 人民币跨境支付系统) provides dedicated clearing and settlement services for cross-border RMB transactions across global financial institutions."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「金融银行与跨境电商 (Banking, Finance & E-Commerce)」在第1小节中的标准汉语语法规范？",
+                    "prompt": "在银行外汇业务中，指‘企业或个人将持有的外币资金兑换为本国货币（人民币）’的专业金融术语是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (24.1.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (24.1.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (24.1.3)。"
+                        "抵押",
+                        "结汇 (Jiéhuì — Foreign exchange settlement / Selling FX for local currency)",
+                        "透支"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "结汇 (jiéhuì) is the official term for converting foreign exchange into RMB."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「金融银行、供应链与跨境电商 (Banking & Supply Chains)」语用情境与完整句式的选项（练习 1）：",
+                    "prompt": "中国为支持人民币全球跨境贸易投资清算而自主建立的国际金融结算基础设施系统简称是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (24.1.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (24.1.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (24.1.3)。"
+                        "CIPS (Cross-Border Interbank Payment System / 人民币跨境支付系统)",
+                        "ATM",
+                        "POS机"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "CIPS is the premier international RMB cross-border payment and clearing network."
                 }
             ]
         },
@@ -11763,85 +11769,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「金融银行与跨境电商 (Banking, Finance & E-Commerce)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 24-1）？",
+                    "prompt": "关于国际商务中的商业银行跨境结算与汇率，下列哪一项完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (24.1.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (24.1.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (24.1.3)。"
+                        "购汇指买入外币，结汇指将外币折换为人民币，跨境电汇依托SWIFT和CIPS等清算网络实现资金安全高效流转 (FX purchase buys foreign currency, settlement sells for RMB, T/T uses SWIFT/CIPS)",
+                        "国际贸易汇款只能用现金邮寄",
+                        "汇率牌价十年内永远不会变动"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "Accurately defines FX purchase, FX settlement, and international clearing networks."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («银行_24_1»):",
+                    "prompt": "Type the 2-character Hanzi term for 'settling foreign currency into RMB' (结汇):",
                     "acceptedAnswers": [
-                        "银行_24_1"
+                        "结汇",
+                        "jiehui",
+                        "jiéhuì",
+                        "Jiéhuì",
+                        "Jiehui",
+                        "結匯"
                     ],
-                    "explanation": "The target keyword was: 【银行_24_1】"
+                    "explanation": "结汇 (jiéhuì) means 'foreign exchange settlement / converting FX to local RMB'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u24-l2": {
         "id": "zh-u24-l2",
-        "subject": "mandarin",
-        "unit": 24,
-        "lessonNumber": 2,
-        "title": "金融银行、供应链与跨境电商 (Banking & Supply Chains) (Part 2)",
+        "unit": "zh-u24",
         "level": "B2",
-        "objective": "Comprehensive mastery of 金融银行与跨境电商 (Banking, Finance & E-Commerce).",
+        "objective": "Master international supply chain terminology (供应链 supply chain, 海运提单 Bill of Lading / B/L, FOB 离岸价, CIF 到岸价, 报关/清关 customs declaration/clearance, 自动化集装箱码头).",
+        "prerequisites": [
+            "zh-u24-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u24-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「金融银行、供应链与跨境电商 (Banking & Supply Chains)」（第2部分）的核心句法结构与金融银行与跨境电商 (Banking, Finance & E-Commerce)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "中国拥有全球吞吐量最大的港口群与高度智能化的**端到端现代国际供应链（End-to-End Global Supply Chains）**！\n\n1. 国际贸易术语与海运单证 (Incoterms & Shipping Documents):\n- **FOB (离岸价 / 船上交货价)**：卖方在指定装运港将货物装上船即完成交货。\n- **CIF (到岸价 / 成本加保险费、运费)**：卖方承担运费与海上运输保险费至目的港。\n- **海运提单 (hǎiyùn tídān, B/L)**：物权凭证与海上运输契约证明。\n- **报关与清关 (bàoguān yǔ qīngguān)**：向海关申报进出口货物并办理查验放行手续。\n\n2. 智慧集装箱港口运营 (Smart Port Logistics):\n- **全自动化码头** / **无人集卡 (AGV)** / **智能岸桥吊装**。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (24.2.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "外贸业务主管与外商谈判交货条件：‘鉴于近期国际海运运费波动，本次两千个集装箱的出口订单我们建议采用上海港FOB条款，提单将在货物装船后电放。’",
+                    "reading": "Wàimào yèwù zhǔguǎn yǔ wàishāng tánpàn jiāohuò tiáojiàn: ‘Jiànyú jìnqī guójì hǎiyùn yùnfèi bōdòng, běncì liǎngqiān gè jízhuāngxiāng de chūkǒu dìngdān wǒmen jiànyì cǎiyòng Shànghǎi gǎng FOB tiáokuǎn, tídān jiāng zài huòwù zhuāngchuán hòu diànfàng.’",
+                    "translation": "The trade supervisor negotiated: 'Given shipping freight fluctuations, we propose FOB Shanghai port for this 2,000-container order; the B/L will be telex released upon boarding.'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (24.2.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "报关员在海关窗口快速完成申报：‘所有进口报关单据、原产地证书与商检报告均已在线提交，海关系统秒级审核，货物顺利完成通关查验！’",
+                    "reading": "Bàoguānyuán zài hǎiguān chuāngkǒu kuàisù wánchéng shēnbào: ‘Suǒyǒu jìnkǒu bàoguān dānjù, yuánchǎndì zhèngshū yǔ shāngjiǎn bàogào jūn yǐ xiànshang tíjiāo, hǎiguān xìtǒng miǎojí shěnhé, huòwù shùnlì wánchéng tōngguān cháyàn!’",
+                    "translation": "The customs broker completed filing: 'All import declaration forms, certificate of origin, and inspection reports are submitted online for instant clearance verification!'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (24.2.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "港务集团工程师介绍洋山深水港：‘作为全球最大的自动化集装箱码头，洋山港依托人工智能调度系统与5G无人集卡，实现了全天候无人化智慧装卸。’",
+                    "reading": "Gǎngwù jítuán gōngchéngshī jièshào Yángshān shēnshuǐgǎng: ‘Zuòwéi quánqiú zuìdà de zìdònghuà jízhuāngxiāng mǎtóu, Yángshāngǎng yītuō réngōng zhìnéng diàodù xìtǒng yǔ 5G wúrán jíkǎ, shíxiàn le quántiānhòu wúrénhuà zhìnéng zhuāngxiè.’",
+                    "translation": "The port engineer introduced: 'As the world's largest automated container terminal, Yangshan Port relies on AI dispatch and 5G AGVs for 24/7 unmanned smart handling.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 金融银行与跨境电商 (Banking, Finance & E-Commerce)"
+                "Trade & Ports: FOB (离岸), CIF (到岸), 提单 (Bill of Lading), 报关清关 (Customs Clearance)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Shanghai Yangshan Deep-Water Port is the world's busiest container port, operating the largest automated container terminal with automated guided vehicles (AGVs)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「金融银行与跨境电商 (Banking, Finance & E-Commerce)」在第2小节中的标准汉语语法规范？",
+                    "prompt": "国际海运贸易中，作为承运人签发的物权凭证、代表货物所有权并用于提取货物的核心单据是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (24.2.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (24.2.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (24.2.3)。"
+                        "门票",
+                        "海运提单 (Hǎiyùn tídān — Bill of Lading / B/L)",
+                        "邀请函"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "海运提单 (B/L) is the definitive document of title in international maritime trade."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「金融银行、供应链与跨境电商 (Banking & Supply Chains)」语用情境与完整句式的选项（练习 2）：",
+                    "prompt": "在国际贸易术语中，卖方负责支付货物运至指定目的港所需的运费和保险费的贸易条款是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (24.2.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (24.2.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (24.2.3)。"
+                        "CIF (Cost, Insurance and Freight / 到岸价)",
+                        "EXW (工厂交货)",
+                        "货到付款"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "CIF includes cost, insurance, and freight to the destination port."
                 }
             ]
         },
@@ -11849,85 +11867,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「金融银行与跨境电商 (Banking, Finance & E-Commerce)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 24-2）？",
+                    "prompt": "关于国际供应链物流与海关通关流程，下列哪一项表述完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (24.2.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (24.2.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (24.2.3)。"
+                        "集装箱海运不需要经过海关查验",
+                        "海关通关需经历报关、审单、查验、征税与放行流程，海运提单是物权转移的核心法律凭证 (Customs involves declaration/inspection/release; B/L is the core document of title)",
+                        "货物装船之后不能签发提单"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "Correctly outlines the customs clearance sequence and the legal status of the Bill of Lading."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («银行_24_2»):",
+                    "prompt": "Type the 4-character Hanzi term for 'Bill of Lading in maritime transport' (海运提单):",
                     "acceptedAnswers": [
-                        "银行_24_2"
+                        "海运提单",
+                        "haiyuntidan",
+                        "hǎiyùntídān",
+                        "Hǎiyùntídān",
+                        "Haiyuntidan",
+                        "海運提單"
                     ],
-                    "explanation": "The target keyword was: 【银行_24_2】"
+                    "explanation": "海运提单 (hǎiyùn tídān) means 'Ocean Bill of Lading (B/L)'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u24-l3": {
         "id": "zh-u24-l3",
-        "subject": "mandarin",
-        "unit": 24,
-        "lessonNumber": 3,
-        "title": "金融银行、供应链与跨境电商 (Banking & Supply Chains) (Part 3)",
+        "unit": "zh-u24",
         "level": "B2",
-        "objective": "Comprehensive mastery of 金融银行与跨境电商 (Banking, Finance & E-Commerce).",
+        "objective": "Master the discourse of cross-border e-commerce (跨境电商 cross-border e-commerce, 独立站 DTC independent store, 保税区 bonded warehouse, 海外仓 overseas warehouse, 一件代发 drop-shipping).",
+        "prerequisites": [
+            "zh-u24-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u24-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「金融银行、供应链与跨境电商 (Banking & Supply Chains)」（第3部分）的核心句法结构与金融银行与跨境电商 (Banking, Finance & E-Commerce)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "以 SHEIN、Temu、AliExpress 为代表的中国跨境电商平台与「出海品牌」正在深刻重塑全球数字化零售格局！\n\n1. 跨境电商核心商业模式 (Cross-Border E-Commerce Models):\n- **跨境电商零售出口 / 进口 (B2C / B2B2C)**。\n- **独立站 (dúlìzhàn)**：品牌出海自建的 DTC（Direct-to-Consumer）官方电商网站。\n- **保税区备货 (bǎoshuìqū bèihuò)**：利用海关保税物流中心提前批量备货，消费者下单后极速通关配送。\n- **海外仓 (hǎiwàicāng)**：在海外主要消费国建立或租赁的仓储物流基地，实现本地化**一件代发 (yíjiàn dàifā)** 与售后退换货。\n\n2. 跨境数字营销与柔性供应链 (Digital Marketing & Agile Supply Chain):\n- **小单快反 (Agile small-batch on-demand manufacturing)** / **海外社交媒体精准投放**。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (24.3.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "跨境电商品牌负责人在行业论坛上分享：‘我们依托珠三角极致的“小单快反”柔性供应链，在独立站上每天上新数百款服饰，通过海外仓实现欧美主要城市三日内送达！’",
+                    "reading": "Kuàjìng diànshāng pǐnpái fùzérén zài hángyè lùntán shang fēnxiǎng: ‘Wǒmen yītuō Zhū-sān-jiǎo jízhì de “xiǎodān-kuàifǎn” róuxìng gōngyìngliàn, zài dúlìzhàn shang měitiān shàngxīn shùbǎi kuǎn fúshì, tōngguò hǎiwàicāng shíxiàn Ōu-Měi zhǔyào chéngshì sān rì nèi sòngdá!’",
+                    "translation": "The brand head shared: 'Relying on Pearl River Delta's agile small-batch supply chain, we launch hundreds of styles daily on our independent site, delivering within 3 days in Western cities via overseas warehouses!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (24.3.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫在跨境电商研讨课上分析案例：‘保税区模式让国内消费者享受到了“全球购”的价格优势与同城快递般的收货速度，展现了自贸试验区与海关监管创新的强大活力。’",
+                    "reading": "Dàwèi zài kuàjìng diànshāng yántǎokè shang fēnxī ànlì: ‘Bǎoshuìqū móshì ràng guónèi xiāofèizhě xiǎngshòu dào le “quánqiúgòu” de jiàgé yōushì yǔ tóngchéng kuàidì bān de shōuhuò sùdù, zhǎnxiàn le zìmào shìyànqū yǔ hǎiguān jiānguǎn chuàngxīn de qiángdà huólì.’",
+                    "translation": "David analyzed: 'The bonded warehouse model allows consumers to enjoy global shopping prices with domestic delivery speed, showing the vitality of FTZ customs innovations.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (24.3.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "海外仓仓储经理向新入驻商家说明：‘入驻海外仓后，客户下单将由系统自动分配至离消费者最近的仓库一件代发，极大降低了跨境退换货的沟通与物流成本。’",
+                    "reading": "Hǎiwàicāng cāngchǔ jīnglǐ xiàng xīn rùzhù shāngjiā shuōmíng: ‘Rùzhù hǎiwàicāng hòu, kèhù xiàdān jiāng yóu xìtǒng zìdòng fēnpèi zhì lí xiāofèizhě zuì jìn de cāngkù yíjiàn-dàifā, jídà jiàngdī le kuàjìng tuìhuànhuò de gōutōng yǔ wùliú chéngběn.’",
+                    "translation": "The warehouse manager explained: 'Joining the overseas warehouse allows automatic order routing to the closest facility for drop-shipping, slashing cross-border return costs.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 金融银行与跨境电商 (Banking, Finance & E-Commerce)"
+                "Cross-Border E-Commerce: 独立站 (DTC Site), 保税区 (Bonded Zone), 海外仓 (Overseas Warehouse), 一件代发 (Drop-Shipping)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "The 'Small-order, rapid-response' (小单快反) agile manufacturing model pioneered in Guangdong creates rapid testing of thousands of SKU prototypes with 7-day turnaround from design to global consumer delivery."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「金融银行与跨境电商 (Banking, Finance & E-Commerce)」在第3小节中的标准汉语语法规范？",
+                    "prompt": "跨境电商企业为了提升海外消费者的本地化收货速度并提供退换货服务，在目标市场国家设立的仓储物流设施被称为：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (24.3.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (24.3.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (24.3.3)。"
+                        "报废仓库",
+                        "海外仓 (Hǎiwàicāng — Overseas warehouse)",
+                        "露天垃圾站"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "海外仓 (hǎiwàicāng) is the overseas fulfillment center used by cross-border merchants."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「金融银行、供应链与跨境电商 (Banking & Supply Chains)」语用情境与完整句式的选项（练习 3）：",
+                    "prompt": "跨境电商卖家在接到单笔消费者订单后、由海外仓或货源供应商直接打包并发运至终端买家的物流代发模式被称为：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (24.3.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (24.3.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (24.3.3)。"
+                        "一件代发 (Yíjiàn dàifā — Single-item drop-shipping / piece-by-piece fulfillment)",
+                        "整船包租",
+                        "自提自运"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "一件代发 (yíjiàn dàifā) is drop-shipping / single-order automated fulfillment."
                 }
             ]
         },
@@ -11935,85 +11965,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「金融银行与跨境电商 (Banking, Finance & E-Commerce)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 24-3）？",
+                    "prompt": "关于中国跨境电商与品牌出海的商业生态，下列哪一项表述完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (24.3.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (24.3.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (24.3.3)。"
+                        "海外仓严禁进行退换货处理",
+                        "中国商品只能依靠传统集市地摊销售",
+                        "跨境电商依托柔性供应链‘小单快反’、DTC独立站与海外仓网络，实现了全球数字化零售的高效协同 (Empowered by agile supply chains, DTC sites, and overseas warehouses)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "Accurately captures the ecosystem of agile manufacturing, DTC stores, and overseas warehousing."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («银行_24_3»):",
+                    "prompt": "Type the 3-character Hanzi term for 'overseas warehouse' (海外仓):",
                     "acceptedAnswers": [
-                        "银行_24_3"
+                        "海外仓",
+                        "haiwaicang",
+                        "hǎiwàicāng",
+                        "Hǎiwàicāng",
+                        "Haiwaicang",
+                        "海外倉"
                     ],
-                    "explanation": "The target keyword was: 【银行_24_3】"
+                    "explanation": "海外仓 (hǎiwàicāng) means 'overseas warehouse / fulfillment center'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u24-l4": {
         "id": "zh-u24-l4",
-        "subject": "mandarin",
-        "unit": 24,
-        "lessonNumber": 4,
-        "title": "金融银行、供应链与跨境电商 (Banking & Supply Chains) (Part 4)",
+        "unit": "zh-u24",
         "level": "B2",
-        "objective": "Comprehensive mastery of 金融银行与跨境电商 (Banking, Finance & E-Commerce).",
+        "objective": "Master trade finance and financial risk management instruments (跟单信用证 Documentary L/C, 出口押汇 export bill discounting, 远期结售汇 forward FX, 套期保值 hedging, 汇率对冲 FX risk mitigation).",
+        "prerequisites": [
+            "zh-u24-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u24-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「金融银行、供应链与跨境电商 (Banking & Supply Chains)」（第4部分）的核心句法结构与金融银行与跨境电商 (Banking, Finance & E-Commerce)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在巨额跨国贸易中，**贸易融资工具与外汇风险对冲机制**是确保资金链安全与利润稳定的核心财务防线！\n\n1. 贸易融资与信用证业务 (Trade Finance & L/C Operations):\n- **跟单信用证 (L/C, Documentary Letter of Credit)**：开证行根据买方申请向卖方开出的有条件付款承诺保证。\n- **出口押汇 / 贴现 (Bill Discounting)**：卖方在发货后将全套货运单据质押给银行提前获得融资贷款。\n- **不符点 (Discrepancy)**：单据与信用证条款不完全一致时的拒付风险点。\n\n2. 汇率风险管理与套期保值 (Forex Risk Hedging):\n- **远期结售汇 (Forward FX)**：提前锁定未来特定日期的汇率，规避汇率剧烈波动风险。\n- **套期保值 (tàoqī bǎozhí, Hedging)**：利用金融衍生工具对冲大宗商品价格或外汇汇率波动。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (24.4.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "跨国集团资金主管在财务会议上汇报：‘为防范未来三个月内汇率大幅震荡侵蚀出口利润，我们已与中国银行签署了五千万欧元的远期结售汇套期保值合约，成功锁定了净利润率！’",
+                    "reading": "Kuàguó jítuán zījīn zhǔguǎn zài cáiwù huìyì shang huìbào: ‘Wèi fángfàn wèilái sān gè yuè nèi huìlǜ dàfú zhèndàng qīnshí chūkǒu lìrùn, wǒmen yǐ yǔ Zhōngguó Yínháng qiānshǔ le wǔqiān wàn Ōuyuán de yuǎnqī jiéshòuhuì tàoqī-bǎozhí héyuē, chénggōng suǒdìng le jìnglìrùnlǜ!’",
+                    "translation": "The treasury manager reported: 'To prevent forex fluctuations eroding margins over the next 3 months, we signed a €50M forward FX hedging contract with Bank of China, locking in our net margin!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (24.4.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "单证员认真审慎核对全套出运单据：‘跟单信用证业务要求做到“单单一致、单证一致”，哪怕标点符号或拼写出现微小不符点，都可能遭遇开证行拒付风险。’",
+                    "reading": "Dānzhèngyuán rènzhēn shěnshèn héduì quántào chūyùn dānjù: ‘Gēndān xìnyòngzhèng yèwù yāoqiú zuòdào “dān-dān yízhì, dān-zhèng yízhì”, nǎpà biāodiǎnfúhào huò pīnxiě chūxiàn wēixiǎo bùfúdiǎn, dōu kēng néng zāoyù kāizhèngháng jùfù fēngxiǎn.’",
+                    "translation": "The document specialist verified: 'Documentary L/C requires complete consistency across documents and credit terms; even minor discrepancies can trigger refusal by the issuing bank.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (24.4.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "大卫在国际金融案例课上发言：‘利用出口押汇工具，外贸企业能够在货物启运后第一时间收回流动资金，极大地盘活了企业的现金流周转。’",
+                    "reading": "Dàwèi zài guójì jīnróng ànlìkè shang fāyán: ‘Lìyòng chūkǒu yāhuì gōngjù, wàimào qǐyè nénggòu zài huòwù qǐyùn hòu dì-yī shíjiān shōuhuí liúdòng zījīn, jídà de pánhuó le qǐyè de xiànjīnliú zhōuzhuǎn.’",
+                    "translation": "David stated: 'Using export bill discounting, trading enterprises recover working capital immediately after shipment, revitalizing corporate cash flow turnaround.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 金融银行与跨境电商 (Banking, Finance & E-Commerce)"
+                "Trade Finance: 信用证 L/C (Payment Guarantee), 单单一致 (Strict Compliance), 远期结售汇 (Forward Lock), 套期保值 (Hedging)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "International trade settlement via Letters of Credit is governed globally by the International Chamber of Commerce's Uniform Customs and Practice for Documentary Credits (UCP 600)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「金融银行与跨境电商 (Banking, Finance & E-Commerce)」在第4小节中的标准汉语语法规范？",
+                    "prompt": "在跨国贸易结算中，银行根据进口商申请向出口商开立的、承诺在单证一致条件下支付货款的书面凭证是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (24.4.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (24.4.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (24.4.3)。"
+                        "借据",
+                        "信用证 (Xìnyòngzhèng — Letter of Credit / L/C)",
+                        "普通贺卡"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "信用证 (L/C) is the definitive banking payment undertaking in international commerce."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「金融银行、供应链与跨境电商 (Banking & Supply Chains)」语用情境与完整句式的选项（练习 4）：",
+                    "prompt": "外贸企业为了防止未来外币汇率剧烈下跌导致出口亏损，在银行提前锁定未来交割汇率的金融操作是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (24.4.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (24.4.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (24.4.3)。"
+                        "远期结售汇 / 套期保值 (Forward FX settlement / Hedging)",
+                        "随波逐流",
+                        "停止所有贸易"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "远期结售汇 and 套期保值 lock in future exchange rates to eliminate currency volatility."
                 }
             ]
         },
@@ -12021,85 +12063,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「金融银行与跨境电商 (Banking, Finance & E-Commerce)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 24-4）？",
+                    "prompt": "关于跨国贸易金融结算与风险控制原则，下列哪一项表述完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (24.4.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (24.4.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (24.4.3)。"
+                        "信用证不需要审核单据内容",
+                        "所有跨国贸易都不能使用金融衍生品对冲风险",
+                        "跟单信用证严格遵循‘单单一致、单证一致’原则，企业通过远期外汇合约套期保值能够有效锁定经营利润 (Strict compliance for L/Cs; forward FX contracts hedge currency risks)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "Accurately articulates the core principles of documentary credit compliance and FX risk hedging."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («银行_24_4»):",
+                    "prompt": "Type the 3-character Hanzi term for 'Letter of Credit' (信用证):",
                     "acceptedAnswers": [
-                        "银行_24_4"
+                        "信用证",
+                        "xinyongzheng",
+                        "xìnyòngzhèng",
+                        "Xìnyòngzhèng",
+                        "Xinyongzheng",
+                        "信用證"
                     ],
-                    "explanation": "The target keyword was: 【银行_24_4】"
+                    "explanation": "信用证 (xìnyòngzhèng) means 'Letter of Credit (L/C)'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u24-l5": {
         "id": "zh-u24-l5",
-        "subject": "mandarin",
-        "unit": 24,
-        "lessonNumber": 5,
-        "title": "金融银行、供应链与跨境电商 (Banking & Supply Chains) (Part 5)",
+        "unit": "zh-u24",
         "level": "B2",
-        "objective": "Comprehensive mastery of 金融银行与跨境电商 (Banking, Finance & E-Commerce).",
+        "objective": "Synthesize all banking, trade finance, maritime logistics, cross-border e-commerce, and global supply chain resilience discourse into international economic summits and WTO trade dialogues.",
+        "prerequisites": [
+            "zh-u24-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u24-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「金融银行、供应链与跨境电商 (Banking & Supply Chains)」（第5部分）的核心句法结构与金融银行与跨境电商 (Banking, Finance & E-Commerce)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在本课中，我们将系统整合第二十四单元的所有金融结算、港口航运、跨境电商与供应链风控体系，在世界经贸合作高峰论坛与高水平对外开放战略对话中进行高阶论述与综合实战！\n\n1. 现代全球经贸与智慧供应链全景矩阵 (Master Global Trade & Supply Chain Matrix):\n| 业务支柱维度 | 核心机制与专业语用 | 综合功能与全球价值 |\n| :--- | :--- | :--- |\n| **金融结算** | 跨境电汇 / 信用证 / CIPS系统 | 确保全球资金安全、高效与多币种清算 |\n| **航运港口** | 提单 / 自动化集装箱码头 / FOB/CIF | 畅通海上大动脉，保障国际物流大循环 |\n| **跨境数字贸易** | 独立站 / 保税区备货 / 海外仓代发 | 数字化赋能品牌出海，连接全球终端买家 |\n| **风险管理** | 远期结售汇 / 汇率套期保值 | 提升跨国企业抗风险能力与财务稳健度 |\n| **对外开放** | 自贸试验区 / 一带一路 / 制度型开放 | 构建更具韧性、包容与共赢的全球经贸网络 |\n\n2. 第二十四单元实战交际演练 (Unit 24 World Trade Summit):\n- 跨国供应链韧性与数字贸易合作国际峰会主旨演讲与闭门圆桌讨论。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (24.5.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "商务部国际经贸关系司代表在世贸组织边会上发言：‘中国坚定推进高水平对外开放，依托完备的制造业体系、世界一流的枢纽港口群与充满活力的跨境电商新业态，为维护全球产业链供应链稳定畅通贡献了坚实力量！’",
+                    "reading": "Shāngwùbù guójì jīngmào guānxì sī dàibiǎo zài Shìmào Zǔzhī biānhuì shang fāyán: ‘Zhōngguó jiāndìng tuījìn gāoshuǐpíng duìwài kāifàng, yītuō wánbèi de zhìzàoyè tǐxì, shìjiè yīliú de shūniǔ gǎngkǒu qún yǔ chōngmǎn huólì de kuàjìng diànshāng xīn yètài, wèi wéihù quánqiú chǎnyèliàn gōngyìngliàn wěndìng chàngtōng gòngxiàn le jiānshí lìliang!’",
+                    "translation": "The trade representative spoke at the WTO: 'China steadily advances high-standard opening-up, relying on a complete manufacturing system, world-class port hubs, and vibrant cross-border e-commerce to contribute to stable global supply chains!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (24.5.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫在国际供应链高管论坛上作专题报告：‘数字化赋能正在深刻改变全球贸易的运作方式，从无人港口的智慧调度到跨境电商海外仓的秒级履约，科技让跨国贸易更加透明、敏捷与韧性十足！’",
+                    "reading": "Dàwèi zài guójì gōngyìngliàn gāoguǎn lùntán shang zuò zhuāntí bàogào: ‘Shùzìhuà fùnéng zhèngzài shēnkè gǎibiàn quánqiú màoyì de yùnzuò fāngshì, cóng wúréngǎngkǒu de zhìhuì diàodù dào kuàjìng diànshāng hǎiwàicāng de miǎojí lǚyuē, kējì ràng kuàguó màoyì gèngjiā tòumíng, mǐnjié yǔ rènxìng shízú!’",
+                    "translation": "David presented: 'Digitalization is transforming global trade; from unmanned port dispatch to instant overseas warehouse fulfillment, technology makes cross-border commerce transparent, agile, and resilient!'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (24.5.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "财经评论员总结：‘通过深化自贸试验区改革、推动人民币跨境结算以及拓展“丝路电商”，中国正与世界各国携手构建开放型世界经济体系，共享数字经贸时代的繁荣红利！’",
+                    "reading": "Cáijīng pínglùnyuán zǒngjié: ‘Tōngguò shēnhuà zìmào shìyànqū gǎigé, tuīdòng Rénmínbì kuàjìng jiésuàn yǐjí tuòzhǎn “Sīlù Diànshāng”, Zhōngguó zhèng yǔ shìjiè gèguó xiéshǒu gòujiàn kāifàngxíng shìjiè jīngjì tǐxì, gòngxiǎng shùzì jīngmào shídài de fánróng hónglì!’",
+                    "translation": "The financial analyst concluded: 'Deepening FTZ reforms, promoting cross-border RMB settlements, and expanding Silk Road E-Commerce build an open world economy sharing digital dividends!'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 金融银行与跨境电商 (Banking, Finance & E-Commerce)"
+                "Trade Resiliency: Seamless Finance (金融清算) + Smart Shipping (港口物流) + Overseas Warehouses (海外仓) + Hedging (套期保值) = Global Prosperity!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "«丝路电商» (Silk Road E-Commerce) represents China's international cooperation platform extending Belt and Road connectivity through bilateral cross-border e-commerce agreements and digital trade corridors."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「金融银行与跨境电商 (Banking, Finance & E-Commerce)」在第5小节中的标准汉语语法规范？",
+                    "prompt": "形容在全球贸易受到地缘政治或外部冲击时、供应链各环节依然能够快速调整恢复并维持正常运转的核心能力是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (24.5.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (24.5.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (24.5.3)。"
+                        "供应链韧性 (Supply chain resilience)",
+                        "一击即溃",
+                        "闭关自守"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "供应链韧性 (gōngyìngliàn rènxìng, Supply chain resilience) is the capacity to withstand disruptions and maintain stable trade flows."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「金融银行、供应链与跨境电商 (Banking & Supply Chains)」语用情境与完整句式的选项（练习 5）：",
+                    "prompt": "中国提出的旨在与共建国家共享数字经济发展红利、深化双边数字贸易与跨境电商合作的国际经贸倡议品牌是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (24.5.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (24.5.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (24.5.3)。"
+                        "丝路电商 (Silk Road E-Commerce)",
+                        "闭门造车",
+                        "原始物物交换"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "丝路电商 (Silk Road E-Commerce) is China's official international initiative for cross-border digital commerce cooperation."
                 }
             ]
         },
@@ -12107,24 +12161,30 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「金融银行与跨境电商 (Banking, Finance & E-Commerce)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 24-5）？",
+                    "prompt": "关于中国在全球经贸网络、供应链枢纽与跨境金融中的战略角色，下列哪一项总括完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (24.5.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (24.5.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (24.5.3)。"
+                        "中国完全退出了全球经贸合作",
+                        "中国依托完备的产业体系、全球前列的港口群、创新的跨境电商与人民币跨境支付网络，成为维护全球供应链韧性与数字贸易的重要中坚力量 (Anchor of global supply chain resilience and digital commerce)",
+                        "跨境电商已经停止所有海外业务"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "Comprehensive and accurate summation of China's pivotal role in global trade, logistics, and digital finance."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («银行_24_5»):",
+                    "prompt": "Type the 4-character phrase meaning 'Silk Road E-Commerce / international digital trade initiative' (丝路电商):",
                     "acceptedAnswers": [
-                        "银行_24_5"
+                        "丝路电商",
+                        "siludianshang",
+                        "sīlùdiànshāng",
+                        "Sīlùdiànshāng",
+                        "Siludianshang",
+                        "絲路電商"
                     ],
-                    "explanation": "The target keyword was: 【银行_24_5】"
+                    "explanation": "丝路电商 (sīlù diànshāng) means 'Silk Road E-Commerce'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u25-l1": {
