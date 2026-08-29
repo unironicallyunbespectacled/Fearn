@@ -15125,63 +15125,69 @@
     },
     "zh-u31-l1": {
         "id": "zh-u31-l1",
-        "subject": "mandarin",
-        "unit": 31,
-        "lessonNumber": 1,
-        "title": "新闻评论与深度社论修辞 (Media Analysis & Editorial) (Part 1)",
+        "unit": "zh-u31",
         "level": "C2",
-        "objective": "Comprehensive mastery of 新闻社论与深度评论 (Journalism & Editorial Rhetoric).",
+        "objective": "Master the argumentative structure, authoritative stance, and framing rhetoric of major newspaper editorials (社论 leading editorial, 舆论导向 guidance of public opinion, 话语体系 discourse framework, 框架效应 framing effect, 新闻伦理 journalistic ethics, 客观中立 objective neutrality).",
+        "prerequisites": [
+            "zh-u30-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u30-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「新闻评论与深度社论修辞 (Media Analysis & Editorial)」（第1部分）的核心句法结构与新闻社论与深度评论 (Journalism & Editorial Rhetoric)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "主流新闻社论与深度评论是公共舆论的风向标，讲求**「高瞻远瞩、立论严谨、针砭时弊、以理服人」**！\n\n1. 社论写作三大核心支柱 (Core Pillars of Editorial Writing):\n- **立论高远 (Authoritative Stance)**：代表媒体机构发声，紧扣时代脉搏与重大政策热点。\n- **框架构建 (Media Framing)**：通过议题设置（Agenda-Setting）与叙事视角引导受众对公共事务的理性认知。\n- **话语体系 (Discourse Framework)**：兼顾权威性与传播力，构建中国叙事与全球传播话语体系。\n\n2. 典型社论句式 (Editorial Argumentation Syntax):\n- 「……这一里程碑式的突破，不仅标志着……，更为全面推进……提供了坚实的制度保障。」\n- 「面对错综复杂的舆论生态，新闻媒体必须坚守新闻伦理底线，以客观事实还原真相。」",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (31.1.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "《人民日报》特约评论员在头版社论中开宗明义：‘推动高质量发展是全面建设社会主义现代化国家的首要任务，必须牢牢把握舆论导向，构建具有全球辨识度的中国学术话语体系！’",
+                    "reading": "«Rénmín Rìbào» tèyuē pínglùnyuán zài tóubǎn shèlùn zhōng kāizōng-míngyì: ‘Tuīdòng gāozhìliàng fāzhǎn shì quánmiàn jiànshè shèhuìzhǔyì xiàndàihuà guójiā de shǒuyào rènwù, bìxū láoláo bǎwò yúlùn dǎoxiàng, gòujiàn jùyǒu quánqiú biànshídù de Zhōngguó xuéshù huàyǔ tǐxì!’",
+                    "translation": "The guest commentator stated on the front page: 'High-quality development is the primary mission; we must firmly guide public opinion and construct a globally recognizable Chinese discourse system!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (31.1.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "新闻传播学特聘教授在深度报道工作坊授课：‘社论写作绝非空洞说教，而在于通过严密的逻辑推理与深刻的框架构建，在纷繁复杂的社会热点中激浊扬清、凝聚社会共识。’",
+                    "reading": "Xīnwén chuánbōxué tèpìn jiàoshòu zài shēndù bàodào gōngzuòfāng shòukè: ‘Shèlùn xiězuò jué fēi kōngdòng shuōjiào, ér zàiyú tōngguò yánmì de luójí tuīlǐ yǔ shēnkè de kuàngjià gòujiàn, zài fēnfán-fùzá de shèhuì rèdiǎn zhōng jīzhuó-yángqīng, níngjù shèhuì gòngshí.’",
+                    "translation": "The journalism professor taught: 'Editorial writing is not empty preaching, but using rigorous deduction and framing to clarify truths and build social consensus among trending issues.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (31.1.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "资深媒体主编在采编例会上强调：‘在突发事件报道中，严守新闻伦理、杜绝耸人听闻的标题党行为，是主流媒体维护公信力不可逾越的专业底线。’",
+                    "reading": "Zīshēn méitǐ zhǔbiān zài cǎibiān lìhuì shang qiángdiào: ‘Zài tūfā shìjiàn bàodào zhōng, yánshǒu xīnwén lúnlǐ, dùjué sǒngrén-tīngwén de biāotǐdǎng xíngwéi, shì zhǔliú méitǐ wéihù gōngxìnlì bùkě yúyuè de zhuānyè dǐxiàn.’",
+                    "translation": "The editor-in-chief stressed: 'In breaking news, adhering to journalistic ethics and rejecting sensationalist clickbait are red lines to safeguard public trust.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 新闻社论与深度评论 (Journalism & Editorial Rhetoric)"
+                "Editorial Pillars: 权威社论 (Authoritative Editorial), 框架建构 (Media Framing), 导向引领 (Opinion Guidance), 伦理底线 (Journalistic Ethics)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "In Chinese media culture, signed authoritative commentaries (like «任仲平» for People's Daily major commentaries, short for 人民日报重要评论) represent high-level consensus on major national policies."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「新闻社论与深度评论 (Journalism & Editorial Rhetoric)」在第1小节中的标准汉语语法规范？",
+                    "prompt": "新闻媒体在组织采编和评论报道过程中，为公众理解复杂事件提供特定诠释视角和意义界定的传播学概念是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (31.1.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (31.1.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (31.1.3)。"
+                        "盲目跟风",
+                        "框架效应 / 议题设置 (Framing effect / Agenda setting)",
+                        "随心所欲"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "框架效应 (Framing effect) defines the communicative process whereby media organizations shape how issues are interpreted by the public."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「新闻评论与深度社论修辞 (Media Analysis & Editorial)」语用情境与完整句式的选项（练习 1）：",
+                    "prompt": "代表新闻机构最高权威声音、针对重大政治、经济或社会事件发表深度评论与政策立场的专门文体是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (31.1.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (31.1.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (31.1.3)。"
+                        "社论 (Editorial)",
+                        "天气预报",
+                        "商品发票"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "社论 (Editorial) is the official authoritative voice and position paper of a media organization on major developments."
                 }
             ]
         },
@@ -15189,85 +15195,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「新闻社论与深度评论 (Journalism & Editorial Rhetoric)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 31-1）？",
+                    "prompt": "关于主流媒体权威社论的撰写规范与新闻评论传播学功能，下列哪一项表述完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (31.1.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (31.1.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (31.1.3)。"
+                        "社论应当以制造虚假谣言和博取流量为核心目标",
+                        "新闻社论应坚持新闻伦理底线，通过严密的事实论据、深刻的逻辑论证与议题设置框架，正确引导社会舆论并凝聚公共共识 (Maintain ethics, rigorous evidence, logical framing, opinion guidance, and consensus)",
+                        "媒体报道不需要对真实性负责"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR C2 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "Comprehensively describes the societal role, ethical standards, and framing techniques of authoritative news editorials."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («社论_31_1»):",
+                    "prompt": "Type the 2-character Hanzi term for 'leading editorial / newspaper editorial' (社论):",
                     "acceptedAnswers": [
-                        "社论_31_1"
+                        "社论",
+                        "shelun",
+                        "shèlùn",
+                        "Shèlùn",
+                        "Shelun",
+                        "社論"
                     ],
-                    "explanation": "The target keyword was: 【社论_31_1】"
+                    "explanation": "社论 (shè lùn) means 'newspaper editorial / lead article'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u31-l2": {
         "id": "zh-u31-l2",
-        "subject": "mandarin",
-        "unit": 31,
-        "lessonNumber": 2,
-        "title": "新闻评论与深度社论修辞 (Media Analysis & Editorial) (Part 2)",
+        "unit": "zh-u31",
         "level": "C2",
-        "objective": "Comprehensive mastery of 新闻社论与深度评论 (Journalism & Editorial Rhetoric).",
+        "objective": "Master the vocabulary and rhetorical techniques of investigative journalism and fact-checking (调查性报道 investigative reporting, 事实核查 fact-checking, 信源交叉互证 cross-verification of sources, 穿透式调查 penetrative investigation, 舆论监督 public supervision).",
+        "prerequisites": [
+            "zh-u31-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u31-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「新闻评论与深度社论修辞 (Media Analysis & Editorial)」（第2部分）的核心句法结构与新闻社论与深度评论 (Journalism & Editorial Rhetoric)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "深度调查报道被誉为新闻界的**「金字塔尖」**，讲求**「重现现场、交叉印证、穿透表象、捍卫真相」**！\n\n1. 调查记者专业素养与方法 (Investigative Methodologies):\n- **信源交叉互证 (Cross-Verification)**：单一信源不可定论，关键事实必须获得至少两到三个独立匿名或实名信源印证。\n- **数据挖掘与财报穿透 (Data Mining & Penetration)**：追踪资金流向、股权结构与公开监管记录，挖掘隐藏事实。\n- **事实核查 (Fact-Checking)**：核实时间、地点、数字、引语与专业术语的百分之百准确无误。\n\n2. 调查报道核心句型 (Reporting Discourse):\n- 「经过长达三个月的暗访调查与十余名内部知情人士的交叉印证，本刊记者顺藤摸瓜，揭开了这起……」\n- 「舆论监督是全过程人民民主的重要组成部分，旨在倒逼制度漏洞修补与行业规范。」",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (31.2.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "知名调查记者在新闻发布会上公布独家长篇深度报道：‘历经半年艰苦调查，团队调取了上千页工商登记与财务流水，通过多方信源交叉互证，终于彻底揭穿了这家跨国企业的虚假财务造假链条！’",
+                    "reading": "Zhīmíng diàochá jìzhě zài xīnwén fābùhuì shang gōngbù dújiā chángpiān shēndù bàodào: ‘Lìjīng bàn nián jiānkǔ diàochá, tuánduì diàoqǔ le shàngqiān yè gōngshāng dēngjì yǔ cáiwù liúshuǐ, tōngguò duōfāng xìnyuán jiāochā-hùzhèng, zhōngyú chèdǐ jiēchuān le zhè jiā kuàguó qǐyè de xūjiǎ cáiwù zàojiǎ liàntiáo!’",
+                    "translation": "The investigative reporter released an exposé: 'After six months and reviewing thousands of corporate records with cross-verified sources, our team unmasked the multinational's fraudulent accounting network!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (31.2.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "清华大学新闻学院教授讲授非虚构写作：‘深度调查报道要求记者不仅具备敏锐的洞察力，更要有严密的证据链思维，用铁一般的事实撑起舆论监督的公信力大厦。’",
+                    "reading": "Qīnghuá Dàxué xīnwén xuéyuàn jiàoshòu jiǎngshòu fēi-xūgòu xiězuò: ‘Shēndù diàochá bàodào yāoqiú jìzhě bùjǐn jùbèi mǐnruì de dòngchálì, gèng yào yǒu yánmì de zhèngjùliàn sīwéi, yòng tiě yībān de shìshí chēngqǐ yúlùn jiāndū de gōngxìnlì dàshà.’",
+                    "translation": "The professor taught: 'Investigative reporting demands keen insight and strict chain-of-evidence thinking, upholding supervision with ironclad facts.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (31.2.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "新闻核查员在终审签发单上批注：‘涉案关键财务数据已经过两家独立第三方审计机构报告的事实核查，引语表述准确，准予全网首发。’",
+                    "reading": "Xīnwén hécháyuán zài zhōngshěn qiānfā dān shang pīzhù: ‘Shè’àn guānjiàn cáiwù shùjù yǐjīng guò liǎng jiā dúlì dì-sān-fāng shěnjì jīgòu bàogào de shìshí héchá, yǐnyǔ biǎoshù zhǔnquè, zhǔnyǔ quánwǎng shǒufā.’",
+                    "translation": "The fact-checker signed off: 'Key financial figures have been verified against two independent audit reports; quotes are verified, approved for publishing.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 新闻社论与深度评论 (Journalism & Editorial Rhetoric)"
+                "Investigative Rigor: 深入现场 (On the Scene), 交叉互证 (Cross-Verification), 严密核查 (Fact-Checking), 舆论监督 (Public Supervision)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "In modern Chinese media, authoritative investigative columns like CCTV's «焦点访谈» (Focus) and Caixin Media's investigative exposés have historically driven legislative amendments and regulatory reforms."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「新闻社论与深度评论 (Journalism & Editorial Rhetoric)」在第2小节中的标准汉语语法规范？",
+                    "prompt": "在调查性新闻报道中，为确保核心事实与数据的真实可靠，要求利用多个互相独立的线索和信源进行比对验证的专业方法被称为：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (31.2.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (31.2.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (31.2.3)。"
+                        "道听途说",
+                        "信源交叉互证 (Cross-verification of sources)",
+                        "主观臆断"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "信源交叉互证 (Cross-verification of sources) ensures critical facts are confirmed across multiple independent witnesses or documents."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「新闻评论与深度社论修辞 (Media Analysis & Editorial)」语用情境与完整句式的选项（练习 2）：",
+                    "prompt": "新闻媒体利用公开报道与深度调查揭露违法违规行为、督促公共权力规范运行的法定监督机制被称为：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (31.2.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (31.2.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (31.2.3)。"
+                        "舆论监督 (Public opinion supervision / Media oversight)",
+                        "商业公关",
+                        "娱乐八卦"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "舆论监督 (Public opinion supervision) functions as the media's oversight role to safeguard public interest."
                 }
             ]
         },
@@ -15275,85 +15293,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「新闻社论与深度评论 (Journalism & Editorial Rhetoric)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 31-2）？",
+                    "prompt": "关于深度调查报道的采写规范与证据链要求，下列哪一项表述完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (31.2.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (31.2.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (31.2.3)。"
+                        "深度调查报道必须建立在扎实的事实核查与多方独立信源交叉互证基础之上，以严密证据链支撑舆论监督与事实呈现 (Grounded in fact-checking, multiple independent cross-verified sources, and airtight chain of evidence)",
+                        "只要听信一个匿名网友的发帖就可以随意定罪报道",
+                        "调查报道不需要保留任何证据与录音材料"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR C2 target-language standard."
+                    "explanation": "Accurately articulates the methodological and ethical requirements of investigative journalism."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («社论_31_2»):",
+                    "prompt": "Type the 4-character Hanzi term for 'fact-checking' (事实核查):",
                     "acceptedAnswers": [
-                        "社论_31_2"
+                        "事实核查",
+                        "shishihecha",
+                        "shìshíhéchá",
+                        "Shìshíhéchá",
+                        "Shishihecha",
+                        "事實核查"
                     ],
-                    "explanation": "The target keyword was: 【社论_31_2】"
+                    "explanation": "事实核查 (shì shí hé chá) means 'fact-checking'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u31-l3": {
         "id": "zh-u31-l3",
-        "subject": "mandarin",
-        "unit": 31,
-        "lessonNumber": 3,
-        "title": "新闻评论与深度社论修辞 (Media Analysis & Editorial) (Part 3)",
+        "unit": "zh-u31",
         "level": "C2",
-        "objective": "Comprehensive mastery of 新闻社论与深度评论 (Journalism & Editorial Rhetoric).",
+        "objective": "Master the analysis of modern digital media ecosystems and public sentiment management (网络舆情 online public sentiment, 舆情研判 sentiment assessment, 融媒体 omnichannel converged media, 算法推荐 algorithmic feeds, 信息茧房 filter bubbles, 破圈传播 cross-community virality).",
+        "prerequisites": [
+            "zh-u31-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u31-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「新闻评论与深度社论修辞 (Media Analysis & Editorial)」（第3部分）的核心句法结构与新闻社论与深度评论 (Journalism & Editorial Rhetoric)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在万物皆媒的移动互联时代，**「网络舆情研判与全媒体矩阵传播」**已成为现代治理能力的关键一环！\n\n1. 数字化舆论生态核心概念 (Digital Sentiment Ecosystem):\n- **舆情研判 (Sentiment Assessment)**：通过大数据抓取与情绪图谱分析，精准评估网络热点的发展趋势与发酵风险。\n- **信息茧房 (Information Cocoons / Filter Bubbles)**：算法精准推送导致受众接触面狭窄、认知固化的现象。\n- **破圈传播 (Breakthrough Virality)**：优质内容跨越垂直圈层，在全网各群体中引发广泛共鸣。\n\n2. 融媒体与危机公关表达 (Crisis PR & Converged Media):\n- 「建立健全舆情预警机制，做到早发现、早研判、早处置，以公开透明回应社会关切。」\n- 「发挥主流媒体『定盘星』作用，打破算法藩篱与信息茧房，引导网络空间清朗健康。」",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (31.3.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "互联网信息中心舆情分析师在态势研判报告中指出：‘当前该社会热点呈现出跨平台快速发酵态势，相关部门应第一时间发布权威通报澄清事实，防止算法推送加剧群体极化与信息茧房效应！’",
+                    "reading": "Hùliánwǎng xìnxī zhōngxīn yúqíng fēnxīshī zài tàishì yánpàn bàogào zhōng zhǐchū: ‘Dāngqián gāi shèhuì rèdiǎn chéngxiàn chū kuà-píngtái kuàisù fājiào tàishì, xiāngguān bùmén yīng dì-yī shíjiān fābù quánwēi tōngbào chéngqīng shìshí, fángzhǐ suànfǎ tuīsòng jiājù qúntǐ jíhuà yǔ xìnxī jiǎnfáng xiàoyìng!’",
+                    "translation": "The analyst reported: 'Trending topics are fermenting cross-platform; authorities must release official notices immediately to clarify facts and prevent algorithmic radicalization and filter bubble traps!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (31.3.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "新媒体集团运营总监在年度峰会上分享：‘我们打造的融媒体系列短视频通过年轻化叙事实现“破圈传播”，全网播放量突破十亿次，生动讲好了当代中国工匠故事。’",
+                    "reading": "Xīn méitǐ jítuán yùnyíng zǒngjiān zài niándù fēnghuì shang fēnxiǎng: ‘Wǒmen dǎzào de róngméitǐ xìliè duǎn-shìpín tōngguò niánqīnghuà xùshì shíxiàn “pòquān chuánbō”, quánwǎng bōfàngliàng tūpò shí yì cì, shēngdòng jiǎng hǎo le dāngdài Zhōngguó gōngjiàng gùshì.’",
+                    "translation": "The COO shared: 'Our converged media short video series achieved viral breakthrough via youthful storytelling, surpassing 1 billion views to celebrate Chinese artisans.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (31.3.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "网络空间研究院学者在专题研讨中强调：‘构建良好的网络生态，既需要平台强化算法向善伦理，也需要广大网民提升媒介素养，不信谣、不传谣。’",
+                    "reading": "Wǎngluò kōngjiān yánjiūyuàn xuézhě zài zhuāntí yántǎo zhōng qiángdiào: ‘Gòujiàn liánghǎo de wǎngluò shēngtài, jì xūyào píngtái qiánghuà suànfǎ xiàngshàn lúnlǐ, yě xūyào guǎngdà wǎngmín tíshēng méijiè sùyǎng, bù xìnyáo, bù chuányáo.’",
+                    "translation": "The cyberspace researcher stressed: 'A healthy online ecosystem requires platforms to uphold ethical algorithms and netizens to raise media literacy against rumors.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 新闻社论与深度评论 (Journalism & Editorial Rhetoric)"
+                "Digital Media Strategy: 舆情研判 (Sentiment Analysis), 融媒传播 (Converged Media), 破茧破圈 (Break Cocoon & Reach Out), 算法向善 (Algorithms for Good)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "«融媒体中心» (Converged Media Centers) are unified municipal and regional media hubs across China integrating print, television, mobile apps, and social accounts into a single digital publishing command center."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「新闻社论与深度评论 (Journalism & Editorial Rhetoric)」在第3小节中的标准汉语语法规范？",
+                    "prompt": "因算法推荐机制长期只向用户推送符合其既有偏好的信息、从而导致用户认知视野狭隘闭塞的传播学现象被称为：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (31.3.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (31.3.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (31.3.3)。"
+                        "信息高速公路",
+                        "信息茧房 (Information cocoon / Filter bubble)",
+                        "跨界融合"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "信息茧房 (Information cocoon) describes the isolation caused by algorithmically customized content loops."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「新闻评论与深度社论修辞 (Media Analysis & Editorial)」语用情境与完整句式的选项（练习 3）：",
+                    "prompt": "将传统报刊、广播电视与互联网新媒体在内容、渠道、平台与管理上进行全方位深度融合的现代传播形态被称为：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (31.3.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (31.3.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (31.3.3)。"
+                        "融媒体 (Converged media / Omnichannel media)",
+                        "单向广播",
+                        "纸质信件"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "融媒体 (Converged media) integrates traditional and digital channels into a unified ecosystem."
                 }
             ]
         },
@@ -15361,85 +15391,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「新闻社论与深度评论 (Journalism & Editorial Rhetoric)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 31-3）？",
+                    "prompt": "关于数字化新媒体传播特征、网络舆情应对与融媒体运营策略，下列哪一项表述完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (31.3.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (31.3.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (31.3.3)。"
+                        "网络舆情不需要任何科学研判与透明回应",
+                        "任何算法都不可能影响用户的思想观念",
+                        "融媒体运营强调跨平台矩阵整合与优质内容破圈传播，面对网络舆情应建立敏锐预警与事实回应机制以引导清朗网络生态 (Converged media integrates matrices for viral breakthrough, responding with transparency to foster healthy cyberspace)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR C2 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "Accurately articulates converged media dynamics, viral breakthrough strategy, and proactive crisis sentiment handling."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («社论_31_3»):",
+                    "prompt": "Type the 3-character Hanzi term for 'converged media' (融媒体):",
                     "acceptedAnswers": [
-                        "社论_31_3"
+                        "融媒体",
+                        "rongmeiti",
+                        "róngméitǐ",
+                        "Róngméitǐ",
+                        "Rongmeiti",
+                        "融媒體"
                     ],
-                    "explanation": "The target keyword was: 【社论_31_3】"
+                    "explanation": "融媒体 (róng méi tǐ) means 'converged media / integrated media'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u31-l4": {
         "id": "zh-u31-l4",
-        "subject": "mandarin",
-        "unit": 31,
-        "lessonNumber": 4,
-        "title": "新闻评论与深度社论修辞 (Media Analysis & Editorial) (Part 4)",
+        "unit": "zh-u31",
         "level": "C2",
-        "objective": "Comprehensive mastery of 新闻社论与深度评论 (Journalism & Editorial Rhetoric).",
+        "objective": "Master the rhetoric of intellectual cultural critiques and reflective literary essays (文化批评 cultural critique, 深度随笔 in-depth philosophical essay, 批判性反思 critical reflection, 时代精神 Zeitgeist, 人文关怀 humanistic care, 警世钟 clarion call).",
+        "prerequisites": [
+            "zh-u31-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u31-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「新闻评论与深度社论修辞 (Media Analysis & Editorial)」（第4部分）的核心句法结构与新闻社论与深度评论 (Journalism & Editorial Rhetoric)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "文化批评与深度随笔是知识分子**「观照现实、叩问人性、引领思潮」**的锋利思想工具！\n\n1. 文化批评的批判范式与修辞 (Critique Paradigms & Rhetoric):\n- **剖析文化异化 (Dissecting Cultural Alienation)**：批判快餐文化、消费主义与技术狂热对人精神世界的侵蚀。\n- **时代精神观照 (Zeitgeist & Humanism)**：在宏大叙事中始终注入深厚的人文关怀与对个体命运的悲悯。\n- **随笔笔法 (Essayistic Dexterity)**：以小见大、寓理于情、文笔犀利而蕴藉深长。\n\n2. 经典文化论述句式 (Literary Critique Formulas):\n- 「在算法奔流的喧嚣时代，我们更需警惕深度思考能力的退化与人文精神的荒漠化。」\n- 「真正的文化精品，应当能够穿透浮躁的市场泡沫，成为激荡时代回响的精神灯塔。」",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (31.4.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "著名文化学者在《读书》杂志发表封面重磅随笔：‘在信息过载与娱乐至死的当下，文化批评必须充当清醒的“警世钟”，以深沉的人文关怀抵抗精神生活的扁平化与庸俗化！’",
+                    "reading": "Zhùmíng wénhuà xuézhě zài «Dúshū» zázhì fābù fēngmiàn zhòngbàng suíbǐ: ‘Zài xìnxī guòzài yǔ yúlè zhì sǐ de dāngxià, wénhuà pīpíng bìxū chōngdāng qīngxǐng de “jǐngshìzhōng”, yǐ shēnchén de rénwén guānhuái dǐkàng jīngshén shēnghuó de biǎnpínghuà yǔ yōngsúhuà!’",
+                    "translation": "The cultural scholar published a lead essay: 'Amid info overload and amusing ourselves to death, cultural critique must act as an awakening bell, using humanistic care against flattening and vulgarization of spiritual life!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (31.4.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫在当代文学思潮研讨会上发言：‘鲁迅先生的杂文之所以历久弥新，正是因为他将对国民劣根性的解剖与对民族新生的热望融为一体，展现出无与伦比的批判锋芒与思想硬度。’",
+                    "reading": "Dàwèi zài dāngdài wénxué sīcháo yántǎohuì shang fāyán: ‘Lǔ Xùn xiānsheng de záwén zhī suǒyǐ lìjiǔ-míxīn, zhèng shì yīnwèi tā jiāng duì guómín liègēnxìng de jiěpōu yǔ duì mínzú xīnshēng de rèwàng róng wéi yītǐ, zhǎnxiàn chū wúyǔlúnbǐ de pīpàn fēngmáng yǔ sīxiǎng yìngdù.’",
+                    "translation": "David remarked: 'Lu Xun's essays endure because he fused surgical dissection of national flaws with fierce hope for rebirth, displaying unmatched critical edge.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (31.4.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "知名书评人在专栏中写道：‘这部长篇小说最动人之处在于其对历史缝隙中普通人命运的深切体恤，它拒绝廉价的煽情，在冷峻的叙事中迸发出灼热的道德力量。’",
+                    "reading": "Zhīmíng shūpíngrén zài zhuānlán zhōng xiě dào: ‘Zhè bù chángpiān xiǎoshuō zuì dòngrén zhī chù zàiyú qí duì lìshǐ fèngxì zhōng pǔtōng rén mìngyùn de shēnqiè tǐxù, tā jùjué liánjià de shānqíng, zài lěngjùn de xùshì zhōng bèngfā chū zhuórè de dàodé lìliàng.’",
+                    "translation": "The book reviewer wrote: 'The novel moves readers through deep empathy for ordinary people in history's cracks, rejecting cheap sentimentality with moral power.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 新闻社论与深度评论 (Journalism & Editorial Rhetoric)"
+                "Critique Core: 思想硬度 (Intellectual Edge), 人文关怀 (Humanistic Care), 警世钟响 (Awakening Bell), 以小见大 (Micro-Macro Synthesis)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "The genre of «杂文» (polemical essay/satirical commentary), pioneered to its peak by Lu Xun, remains a celebrated form of public intellectual writing in Chinese literature."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「新闻社论与深度评论 (Journalism & Editorial Rhetoric)」在第4小节中的标准汉语语法规范？",
+                    "prompt": "文学评论中，用以指代学者对社会文化现象、文艺作品及其背后的时代精神与价值取向进行理性审视与反思的学术写作门类是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (31.4.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (31.4.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (31.4.3)。"
+                        "产品流水账",
+                        "文化批评 (Cultural criticism)",
+                        "纯账目核对"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "文化批评 (Cultural criticism) provides intellectual examination of cultural phenomena and artistic creations."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「新闻评论与深度社论修辞 (Media Analysis & Editorial)」语用情境与完整句式的选项（练习 4）：",
+                    "prompt": "在文化随笔写作中，强调关注人类生存境遇、维护人性尊严与提升精神境界的崇高情怀通常被称为：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (31.4.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (31.4.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (31.4.3)。"
+                        "人文关怀 (Humanistic care / concern)",
+                        "功利主义",
+                        "算法算力"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "人文关怀 (Humanistic care) represents profound empathy for the human condition and spiritual dignity."
                 }
             ]
         },
@@ -15447,85 +15489,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「新闻社论与深度评论 (Journalism & Editorial Rhetoric)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 31-4）？",
+                    "prompt": "关于文化批评与深度随笔的写作主旨、修辞风格与社会价值，下列哪一项表述完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (31.4.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (31.4.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (31.4.3)。"
+                        "文化批评只应当给商品写推销软文",
+                        "随笔写作不需要任何思想深度",
+                        "深度文化随笔通过批判性反思、开掘时代精神与倾注深厚的人文关怀，发挥启迪公众心智与校准社会精神航向的重要作用 (Illuminates minds and aligns societal spirit through critical reflection, zeitgeist insights, and humanistic care)"
                     ],
                     "answerIndex": 2,
-                    "explanation": "Affirms CEFR C2 target-language standard."
+                    "explanation": "Accurately articulates the transformative intellectual and social mission of cultural critiques and literary essays."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («社论_31_4»):",
+                    "prompt": "Type the 4-character Hanzi phrase meaning 'humanistic care / humanistic concern' (人文关怀):",
                     "acceptedAnswers": [
-                        "社论_31_4"
+                        "人文关怀",
+                        "renwenguanhuai",
+                        "rénwénguānhuái",
+                        "Rénwénguānhuái",
+                        "Renwenguanhuai",
+                        "人文關懷"
                     ],
-                    "explanation": "The target keyword was: 【社论_31_4】"
+                    "explanation": "人文关怀 (rén wén guān huái) means 'humanistic care / concern'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u31-l5": {
         "id": "zh-u31-l5",
-        "subject": "mandarin",
-        "unit": 31,
-        "lessonNumber": 5,
-        "title": "新闻评论与深度社论修辞 (Media Analysis & Editorial) (Part 5)",
+        "unit": "zh-u31",
         "level": "C2",
-        "objective": "Comprehensive mastery of 新闻社论与深度评论 (Journalism & Editorial Rhetoric).",
+        "objective": "Synthesize all editorial argumentation, investigative fact-checking, digital sentiment analysis, and cultural criticism into an international media keynote and live panel debate.",
+        "prerequisites": [
+            "zh-u31-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u31-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「新闻评论与深度社论修辞 (Media Analysis & Editorial)」（第5部分）的核心句法结构与新闻社论与深度评论 (Journalism & Editorial Rhetoric)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在本课中，我们将系统整合第三十一单元的所有新闻社论修辞、调查报道证据链、融媒体舆情研判与文化批评精髓，在全球媒体发展峰会与国际传播高端论坛中进行高水准交际演讲！\n\n1. 现代新闻与跨文化传播矩阵 (Master Media & Journalism Matrix):\n| 传播层级 | 核心修辞手法与专业范式 | 社会功能与全球话语影响 |\n| :--- | :--- | :--- |\n| **权威社论** | 议题设置 / 框架构建 / 宏观立论 | 代表主流立场，阐发重大政策，引领社会舆论走向 |\n| **调查报道** | 信源交叉互证 / 穿透式调查 / 事实核查 | 捍卫新闻真实性，进行有效舆论监督，筑牢公信力基石 |\n| **融媒传播** | 舆情动态研判 / 矩阵分发 / 破圈叙事 | 跨越平台圈层，破除信息茧房，实现年轻化多渠道共鸣 |\n| **文化批评** | 时代精神剖析 / 思想硬度 / 人文关怀 | 抵抗文化浅表化，守护精神家园，提供深刻思想启迪 |\n| **国际传播** | 讲好中国故事 / 融通中外话语体系 | 增进文明互鉴，展现真实立体全面的当代中国形象 |\n\n2. 第三十一单元实战交际演练 (Unit 31 Global Media Keynote):\n- 世界媒体峰会（World Media Summit）主旨演讲与跨文化新闻伦理圆桌论坛。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (31.5.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "中国主流媒体代表团团长在世界媒体峰会主旨演讲中强调：‘在人工智能深度重塑传媒生态的大变局时代，各国媒体更应恪守真实性原则与新闻伦理，以包容互鉴的态度打破信息壁垒，携手构建更加公平公正的全球新闻传播新秩序！’",
+                    "reading": "Zhōngguó zhǔliú méitǐ dàibiǎotuán tuánzhǎng zài Shìjiè Méitǐ Fēnghuì zhǔzhǐ yǎnjiǎng zhōng qiángdiào: ‘Zài réngōng zhìnéng shēndù chóngshù chuánméi shēngtài de dà biànjú shídài, gèguó méitǐ gèng yīng kèshǒu zhēnshíxìng yuánzé yǔ xīnwén lúnlǐ, yǐ bāoróng-hùjiàn de tàidù dǎpò xìnxī bìlěi, xiéshǒu gòujiàn gèngjiā gōngpíng-gōngzhèng de quánqiú xīnwén chuánbō xīn zhìxù!’",
+                    "translation": "The delegation leader stressed: 'As AI reshapes media, nations must uphold truth and ethics, breaking barriers to build an equitable global communication order!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (31.5.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫在国际传播青年论坛上发言：‘讲好跨文化故事的精髓在于“融通中外”，用全人类共通的情感语言与严谨扎实的调查事实，跨越文化隔阂，在文明对话中架起理解与友谊的桥梁。’",
+                    "reading": "Dàwèi zài guójì chuánbō qīngnián lùntán shang fāyán: ‘Jiǎng hǎo kuà-wénhuà gùshì de jīngsuǐ zàiyú “róngtōng zhōng-wài”, yòng quán rénlèi gòngtōng de qínggǎn yǔyán yǔ yánjǐn-zhāshi de diàochá shìshí, kuàyuè wénhuà géhé, zài wénmíng duìhuà zhōng jiàqǐ lǐjiě yǔ yǒuyì de qiáoliáng.’",
+                    "translation": "David shared: 'Cross-cultural storytelling lies in bridging domestic and foreign contexts, using shared emotional language and verified facts to bridge divides.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (31.5.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "资深国际战地记者在闭幕圆桌对话中总结：‘无论传播技术如何迭代更新，好的新闻永远以事实为基准、以良知为罗盘、以人文关怀为温度，这是新闻工作者永恒的职业信仰。’",
+                    "reading": "Zīshēn guójì zhàndì jìzhě zài bìmù yuánzhuō duìhuà zhōng zǒngjié: ‘Wúlùn chuánbō jìshù rúhé diédài gēngxīn, hǎo de xīnwén yǒngyuǎn yǐ shìshí wéi jīzhǔn, yǐ liángzhī wéi luópán, yǐ rénwén guānhuái wéi wēndù, zhè shì xīnwén gōngzuòzhě yǒnghéng de zhíyè xìnyǎng.’",
+                    "translation": "The veteran correspondent concluded: 'No matter tech shifts, journalism is always anchored in truth, guided by conscience, and warmed by humanism.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 新闻社论与深度评论 (Journalism & Editorial Rhetoric)"
+                "Media Summit Triumph: 社论立高瞻 (Editorial), 调查重核查 (Investigation), 融媒破茧圈 (Converged Reach), 批评有温度 (Cultural Care) = Global Voice (融通中外)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "The national international communication imperative is «讲好中国故事，传播好中国声音，展现可信、可爱、可敬的中国形象» (Tell China's stories well, present a credible, appealing, and respectable image of China)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「新闻社论与深度评论 (Journalism & Editorial Rhetoric)」在第5小节中的标准汉语语法规范？",
+                    "prompt": "在开展对外新闻报道与国际传播工作中，强调既植根于本土国情、又能被国际社会广泛理解与接纳的修辞传播策略被称为：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (31.5.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (31.5.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (31.5.3)。"
+                        "照本宣科",
+                        "融通中外 (Bridging Chinese and foreign discourse frameworks)",
+                        "各说各话"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "融通中外 (Bridging Chinese and international discourse) connects domestic narratives with global audiences."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「新闻评论与深度社论修辞 (Media Analysis & Editorial)」语用情境与完整句式的选项（练习 5）：",
+                    "prompt": "由全球各大主流通讯社、报业集团与广电机构共同参与、探讨全球新闻业态发展与技术伦理的顶级多边会议被称为：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (31.5.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (31.5.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (31.5.3)。"
+                        "世界媒体峰会 (World Media Summit)",
+                        "体育俱乐部联谊",
+                        "商品拍卖会"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "世界媒体峰会 (World Media Summit) is a premier global forum for dialogue among international news leaders."
                 }
             ]
         },
@@ -15533,24 +15587,30 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「新闻社论与深度评论 (Journalism & Editorial Rhetoric)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 31-5）？",
+                    "prompt": "关于当代新闻评论修辞、调查报道真实性原则与国际传播能力建设，下列哪一项总括完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (31.5.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (31.5.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (31.5.3)。"
+                        "国际传播不需要考虑受众的文化背景与语言习惯",
+                        "现代新闻事业要求以权威社论引导共识、以深度调查捍卫事实真相、以融媒体矩阵跨越圈层传播，并在国际传播中融通中外以增进人类文明交流互鉴 (Guide consensus via editorials, defend truth via investigations, converged matrices, bridge global dialogues)",
+                        "虚假新闻对国际社会没有任何危害"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR C2 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "Comprehensively synthesizes the entire spectrum of media ethics, investigative rigor, digital distribution, and global dialogue."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («社论_31_5»):",
+                    "prompt": "Type the 4-character Hanzi phrase meaning 'bridging Chinese and foreign / integrating domestic and foreign expressions' (融通中外):",
                     "acceptedAnswers": [
-                        "社论_31_5"
+                        "融通中外",
+                        "rongtongzhongwai",
+                        "róngtōngzhōngwài",
+                        "Róngtōngzhōngwài",
+                        "Rongtongzhongwai",
+                        "融通中外"
                     ],
-                    "explanation": "The target keyword was: 【社论_31_5】"
+                    "explanation": "融通中外 (róng tōng zhōng wài) means 'bridging Chinese and foreign discourse'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u32-l1": {
