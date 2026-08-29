@@ -17112,7 +17112,7 @@
         "level": "C2",
         "objective": "Vienna Convention on the Law of Treaties (VCLT 1969) & Ratification Procedures (Treaty Law & Deposition).",
         "presentation": {
-            "explanation": "Comprehensive mastery of the 1969 Vienna Convention on the Law of Treaties: signature ad referendum, parliamentary ratification, deposition of instruments with the UN Secretary-General, formulation of reservations, and the principle of Pacta sunt servanda.",
+            "explanation": "Treaty law under the 1969 Vienna Convention on the Law of Treaties (VCLT) governs how sovereign states negotiate, adopt, ratify, and interpret international agreements. Essential legal mechanisms include signature ad referendum (subject to confirmation), formal parliamentary ratification, the deposition of ratification instruments with designated depositaries like the UN Secretary-General, and the formulation of unilateral reservations under Article 19. At the heart of all treaty law lies the customary norm of Pacta sunt servanda (Article 26), dictating that every treaty in force is binding upon the parties and must be performed in good faith.",
             "examples": [
                 {
                     "target": "The official instrument of ratification was deposited with the depositary in accordance with Article 82.",
@@ -17194,7 +17194,7 @@
         "level": "C2",
         "objective": "UN Security Council Chapter VII Mandates, Peacekeeping & Conflict Resolution (UN Security Council Resolutions).",
         "presentation": {
-            "explanation": "Rigorous analysis of Chapter VII powers of the UN Security Council: authorizing collective security enforcement, deployment of Blue Helmet peacekeeping missions, ceasefire monitoring, and establishing demilitarized buffer zones.",
+            "explanation": "Under Chapter VII of the United Nations Charter (Articles 39–51), the UN Security Council possesses the legal authority to determine threats to the peace, breaches of the peace, or acts of aggression. The Council can authorize non-military measures such as economic sanctions, asset freezes, and diplomatic severed relations, as well as armed collective security enforcement using the authoritative formula 'all necessary measures'. This legal framework underpins the deployment of peacekeeping missions (Blue Helmets), ceasefire verification mechanisms, and the establishment of demilitarized buffer zones.",
             "examples": [
                 {
                     "target": "Acting under Chapter VII of the United Nations Charter, the Security Council decided to authorize all necessary measures.",
