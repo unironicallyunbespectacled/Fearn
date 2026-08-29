@@ -14975,63 +14975,69 @@
     },
     "am-u30-l1": {
         "id": "am-u30-l1",
-        "subject": "amharic",
-        "unit": 30,
-        "lessonNumber": 1,
-        "title": "ፍልስፍና እና ስነ-ምግባር (Philosophy & Ethics) (Part 1)",
+        "unit": "am-u30",
         "level": "C1",
-        "objective": "Comprehensive mastery of ፍልስፍናዊ አስተሳሰብ (Philosophical Discourse).",
+        "objective": "Examine the 17th-century rationalist philosophy of Zera Yacob («ዘርአ ያዕቆብ»), his seminal treatise *Hatäta* («ሐተታ ዘርአ ያዕቆብ»), the primacy of reason («የአእምሮ ብርሃን»), and radical egalitarian critique.",
+        "prerequisites": [
+            "am-u29-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u29-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ፍልስፍናዊ አስተሳሰብ (Philosophical Discourse) - ደረጃ 1) ተማሪዎች ስለ ፍልስፍናዊ አስተሳሰብ (Philosophical Discourse) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Zera Yacob (1599–1692) founded an indigenous rationalist tradition in Ethiopian philosophy.\n\n1. Philosophical Core Concepts:\n- **ዘርአ ያዕቆብ** (Zera Yacob — 17th-century Ethiopian rationalist philosopher)\n- **ሐተታ** (Hatäta — Critical rational treatise / Systematic inquiry)\n- **የአእምሮ ብርሃን** (The light of reason discerning truth from falsehood)\n- **ምክንያታዊነት** (Rationalism and logical deliberation)\n- **ሰብአዊ እኩልነት** (Universal human equality and anti-slavery stance).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የፍልስፍናዊ አስተሳሰብ (Philosophical Discourse) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (30.1.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ፈላስፋው ዘርአ ያዕቆብ በሐተታው ውስጥ እውነትን ከሀሰት ለመለየት የአእምሮ ምርምር እና ምክንያታዊነት ዋና መሪዎች መሆናቸውን አስተምሯል።",
+                    "reading": "Felasfaw Zer'a Ya'iqob beHatetaw wust iwnetn kehaset lemeleyet ye'a'imro mirmir ina mikniyatawīnet wana merīwoch mehonachewun astemirwall.",
+                    "translation": "In his Hatäta, the philosopher Zera Yacob taught that intellectual inquiry and rationality are the chief guides to distinguish truth from falsehood."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (30.1.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ዘርአ ያዕቆብ በሰው ልጆች ሁሉ እኩልነት እና ነፃነት በማመን የባርነትን እና የፍትህ መጓደልን በጥብቅ ተቃውሟል።",
+                    "reading": "Zer'a Ya'iqob besew lijoch hullu ikkulinet ina nets'anet bemanmen yebarinetn ina yefitih megwadeln bet'ibq teqawimwall.",
+                    "translation": "Believing in the equality and freedom of all human beings, Zera Yacob strictly opposed slavery and injustice."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (30.1.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የሰው ልጅ አእምሮ እውነትን ለመመርመር እና ህይወቱን በጥበብ ለመምራት የተሰጠው ታላቅ የተፈጥሮ ጸጋ ነው 30.1.3።",
+                    "reading": "Yesew lij a'imro iwnetn lememermer ina hiywotun bet'ibeb lememrat yeteset'ew talaq yetefet'ro ts'ega new.",
+                    "translation": "The human intellect is a great natural gift bestowed to investigate truth and steer life with wisdom."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ፍልስፍናዊ አስተሳሰብ (Philosophical Discourse)"
+                "«ዘርአ ያዕቆብ» = 17th-century philosopher! «ሐተታ» = Rational treatise! «ምክንያታዊነት» = Rationalism!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Zera Yacob composed his *Hatäta* in 1667, pre-dating or running parallel to René Descartes and Enlightenment thinkers with his philosophy of pure rationalism."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ፍልስፍናዊ አስተሳሰብ (Philosophical Discourse)» አጠቃቀም በደረጃ 1 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "በ17ኛው መቶ ክፍለ ዘመን የተነሳው ዝነኛው ኢትዮጵያዊ ምክንያታዊ ፈላስፋ ማን ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (30.1.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (30.1.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (30.1.3)።"
+                        "ዘርአ ያዕቆብ (Zera Yacob)",
+                        "ሶቅራጥስ (Socrates)",
+                        "አርስቶትል (Aristotle)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "ዘርአ ያዕቆብ authored the rationalist treatise *Hatäta* in 1667."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ፍልስፍና እና ስነ-ምግባር (Philosophy & Ethics)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 1)፡",
+                    "prompt": "«ሐተታ» የሚለው ቃል ምንን ያመለክታል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (30.1.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (30.1.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (30.1.3)።"
+                        "A recipe book",
+                        "Systematic critical inquiry, philosophical treatise, and rational examination (ምክንያታዊ ምርምር እና ፍልስፍናዊ ድርሰት)",
+                        "A fictional story"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "ሐተታ denotes systematic philosophical investigation and critique."
                 }
             ]
         },
@@ -15039,85 +15045,95 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ፍልስፍናዊ አስተሳሰብ (Philosophical Discourse)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 30-1)?",
+                    "prompt": "ዘርአ ያዕቆብ እውነትን ለመረዳት ዋነኛው መሳሪያ ነው ያለው የትኛውን ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (30.1.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (30.1.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (30.1.3)።"
+                        "የአእምሮ ብርሃን እና ምክንያታዊነት (The light of reason)",
+                        "ጭፍን እምነት (Blind belief)",
+                        "ወሬ (Gossip)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "ዘርአ ያዕቆብ emphasized the light of reason (*የአእምሮ ብርሃን*) above blind tradition."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («እውነት_30_1»):",
+                    "prompt": "Type the Amharic word for 'philosophy' in Fidel script (ፍልስፍና):",
                     "acceptedAnswers": [
-                        "እውነት_30_1"
+                        "ፍልስፍና",
+                        "filsina",
+                        "filsifina",
+                        "Filsifina"
                     ],
-                    "explanation": "The target keyword was: 【እውነት_30_1】"
+                    "explanation": "ፍልስፍና (Filsifina) means 'philosophy'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u30-l2": {
         "id": "am-u30-l2",
-        "subject": "amharic",
-        "unit": 30,
-        "lessonNumber": 2,
-        "title": "ፍልስፍና እና ስነ-ምግባር (Philosophy & Ethics) (Part 2)",
+        "unit": "am-u30",
         "level": "C1",
-        "objective": "Comprehensive mastery of ፍልስፍናዊ አስተሳሰብ (Philosophical Discourse).",
+        "objective": "Analyze the ethical philosophy of Walda Heywat («ወልደ ህይወት»), his practical treatise on civic responsibility, mutual social obligation («ማህበራዊ ትብብር»), and ethical virtue («ስነ-ምግባር»).",
+        "prerequisites": [
+            "am-u30-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u30-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ፍልስፍናዊ አስተሳሰብ (Philosophical Discourse) - ደረጃ 2) ተማሪዎች ስለ ፍልስፍናዊ አስተሳሰብ (Philosophical Discourse) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Walda Heywat translated rational inquiry into applied social ethics, mutual solidarity, and domestic virtue.\n\n1. Applied Ethical Concepts:\n- **ወልደ ህይወት** (Walda Heywat — Disciple of Zera Yacob and philosopher of practical ethics)\n- **ስነ-ምግባር** (Moral conduct and virtuous ethics)\n- **ማህበራዊ ትብብር** (Communal solidarity and mutual obligation)\n- **የህሊና ዳኝነት** (Judgment of conscience)\n- **የስራ ክብር** (Dignity of labor and honest trade).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የፍልስፍናዊ አስተሳሰብ (Philosophical Discourse) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (30.2.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ወልደ ህይወት በድርሰቱ የሰው ልጆች እርስ በእርስ በመረዳዳት እና በጋራ ፍቅር ሊኖሩ እንደሚገባ የስነ-ምግባር ትምህርቱን አቅርቧል።",
+                    "reading": "Welde Hiywot bedirsetu yesew lijoch iris be'iris bemeredadat ina begara fiqir līnnoru indemmīgeba yesine-migbar timihirtun aqribwall.",
+                    "translation": "In his treatise, Walda Heywat presented moral teachings that humans must live in mutual assistance and reciprocal love."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (30.2.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የስራ ክብር እና ታማኝነት ማህበራዊ ሰላምን እና የጋራ ብልጽግናን ለማምጣት ወሳኝ መሰረቶች መሆናቸውን አስረድቷል።",
+                    "reading": "Yesira kibir ina tamanigninet mahiberawī selamn ina yegara bilts'iginan lemamtat wesagn meseretoch mehonachewun asredtwall.",
+                    "translation": "He explained that dignity of labor and honesty are essential foundations to bring social peace and collective prosperity."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (30.2.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የህሊና ፍርድ አንድ ሰው ትክክለኛውን ከስህተቱ ለይቶ እንዲያውቅ እና በጎ ተግባርን እንዲፈጽም ይመራዋል 30.2.3።",
+                    "reading": "Yehilīna fird and sew tikiklegnawun kesihtetu leyito indīyawq ina bego tegbarin indīfetstsim yimerawall.",
+                    "translation": "The verdict of conscience guides a person to distinguish right from wrong and practice good deeds."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ፍልስፍናዊ አስተሳሰብ (Philosophical Discourse)"
+                "«ወልደ ህይወት» = Practical ethicist! «ስነ-ምግባር» = Moral ethics! «ህሊና» = Conscience!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Walda Heywat's work was revolutionary in arguing that philosophy must directly guide daily social relations, marital love, parenting, education, and economic fairness."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ፍልስፍናዊ አስተሳሰብ (Philosophical Discourse)» አጠቃቀም በደረጃ 2 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "የዘርአ ያዕቆብ ደቀ-መዝሙር ሆኖ የስነ-ምግባር እና የማህበራዊ ህይወት ፍልስፍናን ያዳበረው ፈላስፋ ማን ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (30.2.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (30.2.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (30.2.3)።"
+                        "ወልደ ህይወት (Walda Heywat)",
+                        "ፕላቶ (Plato)",
+                        "ዴካርት (Descartes)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "ወልደ ህይወት authored the practical ethical treatise continuing Zera Yacob's school."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ፍልስፍና እና ስነ-ምግባር (Philosophy & Ethics)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 2)፡",
+                    "prompt": "«ስነ-ምግባር» በህብረተሰብ ውስጥ ምን አይነት ሚና ይጫወታል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (30.2.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (30.2.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (30.2.3)።"
+                        "Causes arguments",
+                        "Establishes moral values, mutual respect, and ethical social conduct (በጎ ባህልን እና መልካም ስነ-ስርዓትን ያሰፍናል)",
+                        "Builds ships"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "ስነ-ምግባር (Ethics) anchors social harmony, moral virtue, and respectful coexistence."
                 }
             ]
         },
@@ -15125,85 +15141,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ፍልስፍናዊ አስተሳሰብ (Philosophical Discourse)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 30-2)?",
+                    "prompt": "የሰው ልጅ መልካሙን ከክፉው የሚለይበት የውስጥ ዳኛ ምን ይባላል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (30.2.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (30.2.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (30.2.3)።"
+                        "ስሜት ብቻ (Emotion only)",
+                        "ህሊና (Conscience)",
+                        "ምቀኝነት (Jealousy)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "ህሊና (Conscience) serves as the inner moral arbiter of right and wrong."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («እውነት_30_2»):",
+                    "prompt": "Type the Amharic word for 'ethics / morals' in Fidel script (ስነ-ምግባር):",
                     "acceptedAnswers": [
-                        "እውነት_30_2"
+                        "ስነ-ምግባር",
+                        "sine-migbar",
+                        "sine migbar",
+                        "ስነምግባር",
+                        "Sine-migbar"
                     ],
-                    "explanation": "The target keyword was: 【እውነት_30_2】"
+                    "explanation": "ስነ-ምግባር (Sine-migbar) means 'ethics / morality'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u30-l3": {
         "id": "am-u30-l3",
-        "subject": "amharic",
-        "unit": 30,
-        "lessonNumber": 3,
-        "title": "ፍልስፍና እና ስነ-ምግባር (Philosophy & Ethics) (Part 3)",
+        "unit": "am-u30",
         "level": "C1",
-        "objective": "Comprehensive mastery of ፍልስፍናዊ አስተሳሰብ (Philosophical Discourse).",
+        "objective": "Examine the philosophical structure of traditional Ethiopian proverbs («ተረት እና ምሳሌ»), moral axioms («የአበው ምክር»), and proverbial epistemology.",
+        "prerequisites": [
+            "am-u30-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u30-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ፍልስፍናዊ አስተሳሰብ (Philosophical Discourse) - ደረጃ 3) ተማሪዎች ስለ ፍልስፍናዊ አስተሳሰብ (Philosophical Discourse) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Proverbial literature embodies centuries of collective wisdom and behavioral axioms in Ethiopian civilization.\n\n1. Proverbial Philosophy:\n- **ተረት እና ምሳሌ** (Proverbs and parables condensing moral truths)\n- **የአበው ጥበብ** (Ancestral philosophical wisdom)\n- **ትዕግስት እና ማስተዋል** (Patience, emotional discipline, and deep foresight)\n- **ቃል አክባሪነት** (Fidelity to promises: «ሰው በቃሉ፣ በሬ በገመዱ»)\n- **አንድነት** (Communal solidarity: «ድር ቢያብር አንበሳ ያስር»).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የፍልስፍናዊ አስተሳሰብ (Philosophical Discourse) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (30.3.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "«ድር ቢያብር አንበሳ ያስር» የሚለው የአበው ምሳሌ የአንድነትን እና የትብብርን ታላቅ ሃይል ፍልስፍናዊ በሆነ መንገድ ይገልጻል።",
+                    "reading": "«Dir bīyabir anbesa yasir» yemīlew ye'abew misalē ye'andinetn ina yetibibirin talaq hayil filsifinawī behone menged yiglets'all.",
+                    "translation": "The ancestral proverb 'when spiderwebs unite, they can tie a lion' philosophically illustrates the immense power of unity and cooperation."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (30.3.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የኢትዮጵያ ተረት እና ምሳሌዎች የሰውን ባህሪ፣ እውነተኝነትን እና ማህበራዊ ፍትህን ለማስተማር የሚያገለግሉ የጥበብ ማህደሮች ናቸው።",
+                    "reading": "Ye'ītyop'ya teret ina misalēwoch yesewun bahirī, iwnetegninetn ina mahiberawī fitihn lemasitemar yemīyageleglu yet'ibeb mahideroch nachew.",
+                    "translation": "Ethiopian proverbs are repositories of wisdom serving to instruct human character, truthfulness, and social justice."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (30.3.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ትዕግስት እና ጥልቅ ማስተዋል ፈታኝ ሁኔታዎችን በሰላም ለማለፍ እና ትክክለኛ ውሳኔዎችን ለማሳለፍ ያስችላሉ 30.3.3።",
+                    "reading": "Ti'igist ina t'iliq mastewal fetagn hunētawochin beselam lemalef ina tikiklegna wisanēwochin lemasalef yaschilall.",
+                    "translation": "Patience and profound discernment enable peaceful navigation of challenging circumstances and the execution of sound decisions."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ፍልስፍናዊ አስተሳሰብ (Philosophical Discourse)"
+                "«ተረት እና ምሳሌ» = Proverbial wisdom! «ትዕግስት» = Patience! «ማስተዋል» = Discernment!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "In Ethiopian discourse, a well-placed proverb (*ምሳሌ*) resolves disputes in elders' courts (*ሽምግልና*) where legal rhetoric alone might fail."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ፍልስፍናዊ አስተሳሰብ (Philosophical Discourse)» አጠቃቀም በደረጃ 3 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«ድር ቢያብር አንበሳ ያስር» የሚለው ምሳሌ ምንን ያስተምራል?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (30.3.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (30.3.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (30.3.3)።"
+                        "የአንድነት እና የትብብር ሃይል (Power of unity and cooperation)",
+                        "እንስሳትን ማደን (Hunting animals)",
+                        "ገመድ ማሰር ብቻ (Tying ropes only)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "This proverb teaches that collective cooperation overcomes seemingly insurmountable obstacles."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ፍልስፍና እና ስነ-ምግባር (Philosophy & Ethics)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 3)፡",
+                    "prompt": "«ተረት እና ምሳሌ» በባህል ውስጥ ያለው ዋና ጥቅም ምንድን ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (30.3.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (30.3.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (30.3.3)።"
+                        "Creating riddles only",
+                        "Transmitting moral values, philosophical wisdom, and ancestral life lessons (የህይወት ፍልስፍናን እና ምክርን ማስተላለፍ)",
+                        "Playing games"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "ተረት እና ምሳሌ transmits distilled moral and philosophical wisdom across generations."
                 }
             ]
         },
@@ -15211,85 +15238,95 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ፍልስፍናዊ አስተሳሰብ (Philosophical Discourse)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 30-3)?",
+                    "prompt": "የአበው ምክር እና ተረትና ምሳሌ ዋነኛ መገለጫ ምንድን ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (30.3.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (30.3.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (30.3.3)።"
+                        "ቀልድ ብቻ (Jokes only)",
+                        "ጥልቅ ጥበብ እና ማስተዋል (Profound wisdom & insight)",
+                        "ስራ መፍታት (Idleness)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "Proverbs encapsulate profound philosophical insight."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («እውነት_30_3»):",
+                    "prompt": "Type the Amharic word for 'proverb / example' in Fidel script (ምሳሌ):",
                     "acceptedAnswers": [
-                        "እውነት_30_3"
+                        "ምሳሌ",
+                        "misale",
+                        "misalē",
+                        "Misale"
                     ],
-                    "explanation": "The target keyword was: 【እውነት_30_3】"
+                    "explanation": "ምሳሌ (Misalē) means 'proverb / parable / example'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u30-l4": {
         "id": "am-u30-l4",
-        "subject": "amharic",
-        "unit": 30,
-        "lessonNumber": 4,
-        "title": "ፍልስፍና እና ስነ-ምግባር (Philosophy & Ethics) (Part 4)",
+        "unit": "am-u30",
         "level": "C1",
-        "objective": "Comprehensive mastery of ፍልስፍናዊ አስተሳሰብ (Philosophical Discourse).",
+        "objective": "Appraise modern Ethiopian philosophical debates, African humanism, critical rationalism, and contemporary epistemology («እውቀት እና እውነት»).",
+        "prerequisites": [
+            "am-u30-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u30-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ፍልስፍናዊ አስተሳሰብ (Philosophical Discourse) - ደረጃ 4) ተማሪዎች ስለ ፍልስፍናዊ አስተሳሰብ (Philosophical Discourse) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Modern philosophical research examines humanism, free inquiry, and African existential thought.\n\n1. Contemporary Epistemology:\n- **ዘመናዊ ፍልስፍና** (Modern philosophical inquiry)\n- **ሰብአዊነት** (Humanism and shared human dignity)\n- **እውቀት እና እውነት** (Epistemology: nature of verified knowledge)\n- **ነፃ አስተሳሰብ** (Intellectual freedom and critical thought)\n- **ክላውድ ሰምነር** (Prof. Claude Sumner — Pioneer of modern academic Ethiopian philosophy studies).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የፍልስፍናዊ አስተሳሰብ (Philosophical Discourse) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (30.4.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ዘመናዊው ፈላስፋ ፕሮፌሰር ክላውድ ሰምነር የኢትዮጵያን ክላሲካል ፍልስፍናዊ ድርሰቶች በጥልቀት በመመርመር ለዓለም አቀፉ ማህበረሰብ አስተዋውቋል።",
+                    "reading": "Zemenawīw felasfa Profēser Klawid Semner ye'ītyop'yan kulasīkal filsifinawī dirsetochin bet'ilqet bemermer le'alem aqefu mahibereseb astewawoqwall.",
+                    "translation": "The modern philosopher Professor Claude Sumner introduced Ethiopian classical philosophical treatises to the global intellectual community through deep research."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (30.4.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ሰብአዊነት እና ነፃ አስተሳሰብ የሰው ልጆች በመከባበር፣ በእኩልነት እና በእውቀት ላይ የተመሰረተ ማህበረሰብ እንዲገነቡ ያበረታታሉ።",
+                    "reading": "Seb'awīnet ina nets'a asitesaseb yesew lijoch bemekebaber, be'ikkulinet ina be'iwiqet lay yetemeserete mahibereseb indīgenebu yabiretatalu.",
+                    "translation": "Humanism and free thought encourage humanity to construct a society founded upon mutual respect, equality, and enlightenment."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (30.4.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የአፍሪካ ፍልስፍናዊ እሳቤዎች የህብረተሰብ አንድነትን፣ ተፈጥሮአዊ ሚዛንን እና መንፈሳዊ ጥበብን በጋራ ያዋህዳሉ 30.4.3።",
+                    "reading": "Ye'Afrīka filsifinawī isabēwoch yehibireteseb andinetn, yetefet'roawī mīzann ina menfesawī t'ibebn begara yawahidallu.",
+                    "translation": "African philosophical perspectives synthesize communal solidarity, ecological balance, and spiritual wisdom."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ፍልስፍናዊ አስተሳሰብ (Philosophical Discourse)"
+                "«ሰብአዊነት» = Humanism! «ነፃ አስተሳሰብ» = Free thought! «እውቀት» = Epistemic knowledge!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Prof. Claude Sumner spent decades at Addis Ababa University editing and publishing the 5-volume canonical study *Ethiopian Philosophy*, establishing Zera Yacob and Walda Heywat in world philosophy."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ፍልስፍናዊ አስተሳሰብ (Philosophical Discourse)» አጠቃቀም በደረጃ 4 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "የሰው ልጆችን ክብር፣ እኩልነት እና ነፃነት የሚያስቀድመው ፍልስፍናዊ አመለካከት ምን ይባላል?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (30.4.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (30.4.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (30.4.3)።"
+                        "ሰብአዊነት (Humanism)",
+                        "ራስ ወዳድነት (Selfishness)",
+                        "ጥላቻ (Hatred)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "ሰብአዊነት (Humanism) values human dignity and universal equality."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ፍልስፍና እና ስነ-ምግባር (Philosophy & Ethics)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 4)፡",
+                    "prompt": "«ነፃ አስተሳሰብ» ለአንድ ማህበረሰብ ምን ጥቅም አለው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (30.4.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (30.4.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (30.4.3)።"
+                        "Causes laziness",
+                        "Fosters creativity, innovation, and rational truth-seeking (ፈጠራን፣ እውነትን መፈለግን እና እድገትን ያመጣል)",
+                        "Stops education"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "Free thought cultivates intellectual innovation and truth-seeking."
                 }
             ]
         },
@@ -15297,85 +15334,95 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ፍልስፍናዊ አስተሳሰብ (Philosophical Discourse)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 30-4)?",
+                    "prompt": "የኢትዮጵያ ፍልስፍናን በዓለም አቀፍ ደረጃ በጥልቀት ያጠናውና ያሳተመው ምሁር ማን ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (30.4.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (30.4.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (30.4.3)።"
+                        "ፕሮፌሰር ክላውድ ሰምነር (Prof. Claude Sumner)",
+                        "አልበርት አንስታይን (Albert Einstein)",
+                        "አይዛክ ኒውተን (Isaac Newton)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "Prof. Claude Sumner published the landmark 5-volume study on Ethiopian philosophy."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («እውነት_30_4»):",
+                    "prompt": "Type the Amharic word for 'humanism / humanity' in Fidel script (ሰብአዊነት):",
                     "acceptedAnswers": [
-                        "እውነት_30_4"
+                        "ሰብአዊነት",
+                        "sebawinet",
+                        "seb'awinet",
+                        "Sebawinet"
                     ],
-                    "explanation": "The target keyword was: 【እውነት_30_4】"
+                    "explanation": "ሰብአዊነት (Seb'awīnet) means 'humanism / humanity'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u30-l5": {
         "id": "am-u30-l5",
-        "subject": "amharic",
-        "unit": 30,
-        "lessonNumber": 5,
-        "title": "ፍልስፍና እና ስነ-ምግባር (Philosophy & Ethics) (Part 5)",
+        "unit": "am-u30",
         "level": "C1",
-        "objective": "Comprehensive mastery of ፍልስፍናዊ አስተሳሰብ (Philosophical Discourse).",
+        "objective": "Synthesize Zera Yacob's rationalism, Walda Heywat's ethics, proverbial wisdom, and African humanism into a formal philosophical colloquium symposium in Amharic.",
+        "prerequisites": [
+            "am-u30-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u30-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ፍልስፍናዊ አስተሳሰብ (Philosophical Discourse) - ደረጃ 5) ተማሪዎች ስለ ፍልስፍናዊ አስተሳሰብ (Philosophical Discourse) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "This lesson synthesizes classical rationalist texts, applied social ethics, ancestral proverbs, and modern philosophical discourse into an advanced philosophical colloquium.\n\n1. Philosophical Synthesis Strands:\n- **Rationalism:** «የዘርአ ያዕቆብ የአእምሮ ምርምር...»\n- **Social Ethics:** «የወልደ ህይወት የስነ-ምግባር ትምህርት...»\n- **Proverbial Epistemology:** «የአበው ጥበብ እና ተረትና ምሳሌ...»\n- **Humanism:** «ሰብአዊነት እና ነፃ አስተሳሰብ...»",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የፍልስፍናዊ አስተሳሰብ (Philosophical Discourse) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (30.5.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "በዚህ የፍልስፍና ጉባኤ ላይ ምሁራን የዘርአ ያዕቆብን እና የወልደ ህይወትን አስተምህሮ ከዘመናዊ የስነ-ምግባር ጥያቄዎች ጋር በማገናኘት ተወያይተዋል።",
+                    "reading": "Bezih yefilsifna guba'ē lay mihuran yeZer'a Ya'iqobn ina yeWelde Hiywotn asitemihro kezemenawī yesine-migbar t'iyaqēwoch gar bemagenagnat teweyayitewall.",
+                    "translation": "In this philosophical symposium, scholars discussed the doctrines of Zera Yacob and Walda Heywat in connection with modern ethical questions."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (30.5.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ምክንያታዊ አስተሳሰብ፣ የህሊና ዳኝነት እና ባህላዊ ጥበብ ተደምረው ፍትሃዊ እና የበለጸገ ህብረተሰብ ለመገንባት መመሪያ ይሆናሉ 30.5.2።",
+                    "reading": "Mikniyatawī asitesaseb, yehilīna dagninet ina bahilawī t'ibeb tedemirew fitihawī ina yebeletsege hibireteseb lemeginbat memerīya yihonalu.",
+                    "translation": "Rational thought, conscience, and cultural wisdom combine to serve as a guide to construct a just and prosperous society."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (30.5.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ፍልስፍና የሰውን ልጅ አእምሮ የሚያበራ፣ ለህይወት ትርጉም የሚሰጥ እና የነፃነት ጎዳናን የሚያሳይ ዘላለማዊ የብርሃን ችቦ ነው 30.5.3።",
+                    "reading": "Filsifna yesewun lij a'imro yemīyabera, lehiywot tirgum yemīset' ina yenets'anet godanan yemīyasay zelalemawī yebirhan chibo new.",
+                    "translation": "Philosophy is an eternal torch of light that illuminates the human mind, imparts meaning to life, and reveals the path of freedom."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ፍልስፍናዊ አስተሳሰብ (Philosophical Discourse)"
+                "Philosophical Quad: Rationalism (ዘርአ ያዕቆብ) + Ethics (ወልደ ህይወት) + Wisdom (ምሳሌ) + Humanism (ሰብአዊነት) = Universal Enlightenment!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Ethiopian philosophy represents an indigenous African rationalist tradition that directly engages with the universal questions of human existence, morality, and justice."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ፍልስፍናዊ አስተሳሰብ (Philosophical Discourse)» አጠቃቀም በደረጃ 5 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "የፍልስፍና ዋና ተልዕኮ ምንድን ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (30.5.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (30.5.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (30.5.3)።"
+                        "Illuminating the mind, seeking truth, and guiding ethical life (አእምሮን ማብራት እና እውነትን መመርመር)",
+                        "Selling products (ዕቃ መሸጥ)",
+                        "Fighting wars (ጦርነት ማድረግ)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "Philosophy illuminates the human mind and pursues objective truth and ethical virtue."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ፍልስፍና እና ስነ-ምግባር (Philosophy & Ethics)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 5)፡",
+                    "prompt": "በዚህ ክፍል ካጠናናቸው ውስጥ የሰው ልጅ ከፍተኛው ጸጋ የትኛው ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (30.5.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (30.5.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (30.5.3)።"
+                        "ማሰብ እና ምክንያታዊ ምርምር ማካሄድ (Reason and intellectual thought)",
+                        "ስራ መፍታት (Idleness)",
+                        "ዝምታ (Silence)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "Reason and the capacity for rational thought are humanity's highest faculty."
                 }
             ]
         },
@@ -15383,24 +15430,28 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ፍልስፍናዊ አስተሳሰብ (Philosophical Discourse)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 30-5)?",
+                    "prompt": "የኢትዮጵያ ፍልስፍና ዋነኛ ጥንካሬ የትኛው ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (30.5.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (30.5.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (30.5.3)።"
+                        "ጭፍን መከተል (Blind following)",
+                        "ወሬ ማመን (Believing rumors)",
+                        "በምክንያታዊነት እና በስነ-ምግባር ላይ የተመሰረተ ጥልቅ እውቀት (Rationality & moral ethics)"
                     ],
                     "answerIndex": 2,
-                    "explanation": "Affirms CEFR C1 target-language standard."
+                    "explanation": "Ethiopian classical philosophy is grounded in critical rationalism and applied ethics."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («እውነት_30_5»):",
+                    "prompt": "Type the Amharic word for 'wisdom' in Fidel script (ጥበብ):",
                     "acceptedAnswers": [
-                        "እውነት_30_5"
+                        "ጥበብ",
+                        "tibeb",
+                        "t'ibeb",
+                        "Tibeb"
                     ],
-                    "explanation": "The target keyword was: 【እውነት_30_5】"
+                    "explanation": "ጥበብ (T'ibeb) means 'wisdom / craft'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u31-l1": {
