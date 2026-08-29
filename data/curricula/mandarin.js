@@ -965,63 +965,69 @@
     },
     "zh-u2-l1": {
         "id": "zh-u2-l1",
-        "subject": "mandarin",
-        "unit": 2,
-        "lessonNumber": 1,
-        "title": "基本句型、人称代词与是字句 (Basic SVO & 是-Sentences) (Part 1)",
+        "unit": "zh-u2",
         "level": "A1",
-        "objective": "Comprehensive mastery of 人称代词与是字句 (Pronouns & 是-Sentences).",
+        "objective": "Master the system of Mandarin personal pronouns (我, 你, 您, 他, 她, 它) and the plural suffix 们 (men: 我们, 你们, 他们, 她们).",
+        "prerequisites": [
+            "zh-u1-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u1-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)」（第1部分）的核心句法结构与人称代词与是字句 (Pronouns & 是-Sentences)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "汉语人称代词系统简洁规律，单数形式加上轻声后缀「们 (men)」即构成复数。\n\n1. 人称代词分类 (Personal Pronouns):\n- **第一人称**：我 (wǒ - I / me) → 我们 (wǒmen - We / us)\n- **第二人称**：你 (nǐ - You) / 您 (nín - You, polite) → 你们 (nǐmen - You all)\n- **第三人称**：\n  - 他 (tā - He / him，单人旁 亻)\n  - 她 (tā - She / her，女字旁 女)\n  - 它 (tā - It，宝盖头 宀)\n  - 他们 (tāmen - They / them, masculine or mixed group)\n  - 她们 (tāmen - They / them, all-female group)\n\n2. 语法规则：\n- 汉语人称代词没有主格和宾格的形态变化（‘我’既可作主语 I，也可作宾语 me）。\n- 「们」只用于指人的名词或代词（如：学生们、朋友们），不能加在普通非生物名词后。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (2.1.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "我是学生，他是老师，我们都是中国人。",
+                    "reading": "Wǒ shì xuésheng, tā shì lǎoshī, wǒmen dōu shì Zhōngguórén.",
+                    "translation": "I am a student, he is a teacher, we are all Chinese."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (2.1.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "她叫李月，她们是我的好朋友。",
+                    "reading": "Tā jiào Lǐ Yuè, tāmen shì wǒ de hǎo péngyou.",
+                    "translation": "Her name is Li Yue, they (female) are my good friends."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (2.1.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "你们好！欢迎大家来到我们学校！",
+                    "reading": "Nǐmen hǎo! Huānyíng dàjiā lái dào wǒmen xuéxiào!",
+                    "translation": "Hello everyone! Welcome all to our school!"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 人称代词与是字句 (Pronouns & 是-Sentences)"
+                "«我» = I, «你» = You, «他/她/它» = He/She/It (all pronounced tā!), add «们» for plural!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "In spoken Mandarin, 他, 她, and 它 sound identical (tā). In writing, distinguishing the radical (亻for male/neutral, 女 for female, 宀 for objects/animals) was standardized in the May Fourth Movement by scholar Liu Bannong (刘半农)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「人称代词与是字句 (Pronouns & 是-Sentences)」在第1小节中的标准汉语语法规范？",
+                    "prompt": "汉语中，如何将单数代词‘我 (I)’变成复数‘我们 (We)’？",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (2.1.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (2.1.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (2.1.3)。"
+                        "在‘我’后面加上轻声后缀‘们’：我们 (wǒmen)",
+                        "在‘我’前面加‘多’",
+                        "把‘我’字重复两遍"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "Adding the plural suffix 们 (men) to 我 forms 我们 (wǒmen)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)」语用情境与完整句式的选项（练习 1）：",
+                    "prompt": "当一群全是由女性组成的朋友时，在汉字书写中表示‘她们 (They, female)’应当使用哪个字？",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (2.1.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (2.1.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (2.1.3)。"
+                        "他们 (亻旁)",
+                        "她们 (女字旁)",
+                        "它们 (宝盖头)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "«她们» with the female radical (女) is used for all-female groups in writing."
                 }
             ]
         },
@@ -1029,85 +1035,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「人称代词与是字句 (Pronouns & 是-Sentences)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 2-1）？",
+                    "prompt": "下列关于汉语人称代词的表述，哪一项是完全正确的？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (2.1.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (2.1.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (2.1.3)。"
+                        "人称代词在句中作主语或宾语形态不变 (No case inflection: 我 means both 'I' and 'me')",
+                        "人称代词作宾语时必须改变形式",
+                        "‘们’可以加在任何书本、桌子等物品后面"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "explanation": "Mandarin personal pronouns do not have morphological case inflections for subject/object."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («我是_2_1»):",
+                    "prompt": "Type the Hanzi for 'We / Us' (我们):",
                     "acceptedAnswers": [
-                        "我是_2_1"
+                        "我们",
+                        "women",
+                        "wǒmen",
+                        "Wǒmen",
+                        "Women",
+                        "我們"
                     ],
-                    "explanation": "The target keyword was: 【我是_2_1】"
+                    "explanation": "我们 (Wǒmen) means 'we / us'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u2-l2": {
         "id": "zh-u2-l2",
-        "subject": "mandarin",
-        "unit": 2,
-        "lessonNumber": 2,
-        "title": "基本句型、人称代词与是字句 (Basic SVO & 是-Sentences) (Part 2)",
+        "unit": "zh-u2",
         "level": "A1",
-        "objective": "Comprehensive mastery of 人称代词与是字句 (Pronouns & 是-Sentences).",
+        "objective": "Master the affirmative equational sentence structure using the copula 是 (shì: S + 是 + Noun/NP) to express identity, occupation, and classification.",
+        "prerequisites": [
+            "zh-u2-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u2-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)」（第2部分）的核心句法结构与人称代词与是字句 (Pronouns & 是-Sentences)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "「是 (shì)」字句是汉语最基础的判断与系词句型，相当于英语中的 'to be'（am/is/are），用于连接主语与表示身份、属性或分类的名词短语。\n\n1. 基本句型结构 (Sentence Pattern):\n- **主语 (Subject) + 是 (shì) + 名词短语 (Noun Phrase)**\n- 示例：\n  - 我是学生。(Wǒ shì xuésheng. — I am a student.)\n  - 他是老师。(Tā shì lǎoshī. — He is a teacher.)\n  - 王明是医生。(Wáng Míng shì yīshēng. — Wang Ming is a doctor.)\n\n2. 核心语法特点 (Grammar Points):\n- 汉语中的「是」不随主语的人称（我/你/他）和数（单数/复数）发生形态屈折变化（无 am/is/are 变形，一律用「是」）。\n- **重要区别**：形容词作谓语时通常**不加「是」**，而用程度副词「很」（如：我很忙，不能说 *我是很忙）。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (2.2.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "我是汉语老师，你也是老师吗？",
+                    "reading": "Wǒ shì hànyǔ lǎoshī, nǐ yě shì lǎoshī ma?",
+                    "translation": "I am a Chinese teacher, are you also a teacher?"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (2.2.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "李华和王明都是北京大学的学生。",
+                    "reading": "Lǐ Huá hé Wáng Míng dōu shì Běijīng Dàxué de xuésheng.",
+                    "translation": "Li Hua and Wang Ming are both Peking University students."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (2.2.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "大卫是我的好朋友，他是医生。",
+                    "reading": "Dàwèi shì wǒ de hǎo péngyou, tā shì yīshēng.",
+                    "translation": "David is my good friend, he is a doctor."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 人称代词与是字句 (Pronouns & 是-Sentences)"
+                "«是» (shì) connects Subject to Noun! No conjugation: I 是, You 是, They 是!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "In ancient Chinese, 是 originally meant 'this / correct' (as in 实事求是); its use as a copula verb solidified in Early Modern Chinese."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「人称代词与是字句 (Pronouns & 是-Sentences)」在第2小节中的标准汉语语法规范？",
+                    "prompt": "表达‘他是老师 (He is a teacher)’的正确汉语语序是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (2.2.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (2.2.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (2.2.3)。"
+                        "主语 + 是 + 职业：他是老师 (Tā shì lǎoshī)",
+                        "是 + 他 + 老师",
+                        "他 + 老师 + 是"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "SVO word order: Subject (他) + Copula (是) + Predicate (老师)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)」语用情境与完整句式的选项（练习 2）：",
+                    "prompt": "在汉语中，当主语由单数‘我’变成复数‘我们’时，动词‘是’会怎样变化？",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (2.2.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (2.2.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (2.2.3)。"
+                        "变成 are",
+                        "保持‘是’不变，完全没有形态变化 (Remains unchanged: 我们是)",
+                        "必须省略"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "The copula 是 never inflects for person or number in Mandarin."
                 }
             ]
         },
@@ -1115,85 +1133,95 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「人称代词与是字句 (Pronouns & 是-Sentences)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 2-2）？",
+                    "prompt": "下列哪个句子是标准的汉语判断句（是字句）？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (2.2.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (2.2.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (2.2.3)。"
+                        "我学生是 (Wǒ xuésheng shì)",
+                        "我是学生 (Wǒ shì xuésheng)",
+                        "是学生我 (Shì xuésheng wǒ)"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "explanation": "我是学生 (Wǒ shì xuésheng) follows standard Subject + 是 + Object order."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («我是_2_2»):",
+                    "prompt": "Type the Hanzi for the copular verb 'to be' (是):",
                     "acceptedAnswers": [
-                        "我是_2_2"
+                        "是",
+                        "shi",
+                        "shì",
+                        "Shì"
                     ],
-                    "explanation": "The target keyword was: 【我是_2_2】"
+                    "explanation": "是 (shì) means 'to be / is / am / are'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u2-l3": {
         "id": "zh-u2-l3",
-        "subject": "mandarin",
-        "unit": 2,
-        "lessonNumber": 3,
-        "title": "基本句型、人称代词与是字句 (Basic SVO & 是-Sentences) (Part 3)",
+        "unit": "zh-u2",
         "level": "A1",
-        "objective": "Comprehensive mastery of 人称代词与是字句 (Pronouns & 是-Sentences).",
+        "objective": "Express and inquire about nationality, country of origin, and identity in Mandarin using country names, the suffix 人 (rén), and the question formula 你是哪国人？ (Nǐ shì nǎ guó rén?).",
+        "prerequisites": [
+            "zh-u2-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u2-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)」（第3部分）的核心句法结构与人称代词与是字句 (Pronouns & 是-Sentences)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在中文里，表达国籍的规律极其规则简洁：**国家名称 + 人 (rén)** 即可构成国籍名词。\n\n1. 核心国家与国籍词汇 (Countries & Nationalities):\n- **中国 (Zhōngguó - China)** → **中国人 (Zhōngguórén - Chinese person)**\n- **美国 (Měiguó - USA)** → **美国人 (Měiguórén - American)**\n- **英国 (Yīngguó - UK)** → **英国人 (Yīngguórén - British person)**\n- **法国 (Fǎguó - France)** → **法国人 (Fǎguórén - French person)**\n- **德国 (Déguó - Germany)** → **德国人 (Déguórén - German person)**\n- **日本 (Rìběn - Japan)** → **日本人 (Rìběnrén - Japanese person)**\n\n2. 询问国籍核心句型 (Question Formula):\n- **主语 + 是 + 哪国人？ (Subject + shì + nǎ guó rén?)**\n- 示例：你是哪国人？ (Nǐ shì nǎ guó rén? — What nationality are you / Which country are you from?)\n- 回答：我是美国人。(Wǒ shì Měiguórén. — I am American.)",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (2.3.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "你是哪国人？——我是英国人，她是法国人。",
+                    "reading": "Nǐ shì nǎ guó rén? —— Wǒ shì Yīngguórén, tā shì Fǎguórén.",
+                    "translation": "What country are you from? — I am British, she is French."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (2.3.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "张老师是中国人，大卫是美国留学生。",
+                    "reading": "Zhāng lǎoshī shì Zhōngguórén, Dàwèi shì Měiguó liúxuéshēng.",
+                    "translation": "Teacher Zhang is Chinese, David is an American international student."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (2.3.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "我们来自不同的国家，但我们都是汉语学习者。",
+                    "reading": "Wǒmen láizì bùtóng de guójiā, dàn wǒmen dōu shì hànyǔ xuéxízhě.",
+                    "translation": "We come from different countries, but we are all Chinese language learners."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 人称代词与是字句 (Pronouns & 是-Sentences)"
+                "Country + 人 = Nationality! (中国 + 人 = 中国人; 英国 + 人 = 英国人!)"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "«中国» (Zhōngguó) literally translates to 'Central State' or 'Middle Kingdom', reflecting the ancient worldview where the civilization lay at the center of the world under heaven (*天下*)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「人称代词与是字句 (Pronouns & 是-Sentences)」在第3小节中的标准汉语语法规范？",
+                    "prompt": "用中文询问对方‘你是哪国人？’时，最标准地道的表达是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (2.3.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (2.3.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (2.3.3)。"
+                        "你是哪国人？ (Nǐ shì nǎ guó rén?)",
+                        "你是谁国人？",
+                        "你哪人在？"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "«你是哪国人？» is the standard formula for inquiring nationality."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)」语用情境与完整句式的选项（练习 3）：",
+                    "prompt": "中文中表示‘法国人 (French person)’的构词方式是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (2.3.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (2.3.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (2.3.3)。"
+                        "人法国",
+                        "法国人 (Country 法国 + Suffix 人)",
+                        "法之民"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "Nationalities are systematically formed with Country name + 人."
                 }
             ]
         },
@@ -1201,85 +1229,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「人称代词与是字句 (Pronouns & 是-Sentences)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 2-3）？",
+                    "prompt": "句子‘大卫是美国人’表达的意思是：",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (2.3.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (2.3.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (2.3.3)。"
+                        "David is in America",
+                        "大卫具有美国国籍/是美国人 (David is American)",
+                        "David lives in America"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "大卫是美国人 means 'David is an American'."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («我是_2_3»):",
+                    "prompt": "Type the Hanzi for 'China' (中国):",
                     "acceptedAnswers": [
-                        "我是_2_3"
+                        "中国",
+                        "zhongguo",
+                        "zhōngguó",
+                        "Zhōngguó",
+                        "Zhongguo",
+                        "中國"
                     ],
-                    "explanation": "The target keyword was: 【我是_2_3】"
+                    "explanation": "中国 (Zhōngguó) means 'China'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u2-l4": {
         "id": "zh-u2-l4",
-        "subject": "mandarin",
-        "unit": 2,
-        "lessonNumber": 4,
-        "title": "基本句型、人称代词与是字句 (Basic SVO & 是-Sentences) (Part 4)",
+        "unit": "zh-u2",
         "level": "A1",
-        "objective": "Comprehensive mastery of 人称代词与是字句 (Pronouns & 是-Sentences).",
+        "objective": "Negate copular sentences using the negative adverb 不 (bù -> bú), mastering the tone sandhi of 不 before 4th tone (不 + 是 = bú shì) and expressing negative identity.",
+        "prerequisites": [
+            "zh-u2-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u2-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)」（第4部分）的核心句法结构与人称代词与是字句 (Pronouns & 是-Sentences)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在汉语中，系词「是」的否定形式非常固定，在「是」前加上否定副词「不」构成「不是 (bú shì)」。\n\n1. 否定句型结构 (Negative Sentence Pattern):\n- **主语 + 不是 + 名词短语 (Subject + bú shì + Noun Phrase)**\n- 示例：\n  - 我不是老师，我是学生。(Wǒ bú shì lǎoshī, wǒ shì xuésheng. — I am not a teacher, I am a student.)\n  - 他不是美国人，他是加拿大人。(Tā bú shì Měiguórén, tā shì Jiānádàrén. — He is not American, he is Canadian.)\n\n2. 语音规律：不的变调 (Tone Sandhi of 不):\n- 「不 (bù)」的本调是第四声（51）。\n- **变调规则**：当「不」出现在**第四声音节前**时，自动变为**第二声 (35)**！\n  - 公式：**不 (4) + 第四声 → 不 (2) + 第四声**\n  - 典型例词：**不是** (bù + shì → **bú shì**)、**不对** (bù + duì → **bú duì**)、**不要** (bù + yào → **bú yào**)。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (2.4.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "我不是医生，我是大学老师。",
+                    "reading": "Wǒ bú shì yīshēng, wǒ shì dàxué lǎoshī.",
+                    "translation": "I am not a doctor, I am a university teacher."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (2.4.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "在发音时，「不是」中的「不」要读作第二声「bú」而不是第四声「bù」。",
+                    "reading": "Zài fāyīn shí, «bú shì» zhōng de «bù» yào dú zuò dì-èr shēng «bú» ér bú shì dì-sì shēng «bù».",
+                    "translation": "In pronunciation, 'bù' in 'bú shì' must be pronounced as 2nd tone 'bú' rather than 4th tone 'bù'."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (2.4.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "他们不是英国人，他们是法国留学生。",
+                    "reading": "Tāmen bú shì Yīngguórén, tāmen shì Fǎguó liúxuéshēng.",
+                    "translation": "They are not British, they are French international students."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 人称代词与是字句 (Pronouns & 是-Sentences)"
+                "Tone Sandhi for 不: Before a 4th tone, 不 jumps up to 2nd tone! (bù + shì = bú shì!)"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Tone sandhi of 不 (bù) and 一 (yī) are the two most fundamental phonetic rules in spoken Mandarin, vital for natural rhythm and cadence."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「人称代词与是字句 (Pronouns & 是-Sentences)」在第4小节中的标准汉语语法规范？",
+                    "prompt": "当否定词‘不 (bù)’遇到第四声的‘是 (shì)’时，‘不’的发音会发生什么变调？",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (2.4.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (2.4.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (2.4.3)。"
+                        "变成第二声：bú shì (不是)",
+                        "变成第一声：bū shì",
+                        "保持第四声不变"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "Before a 4th tone (shì), 不 changes to 2nd tone: bú shì."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)」语用情境与完整句式的选项（练习 4）：",
+                    "prompt": "表达‘他不是学生，他是老师’的正确否定句是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (2.4.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (2.4.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (2.4.3)。"
+                        "他不学生，他是老师",
+                        "他不是学生，他是老师 (Tā bú shì xuésheng, tā shì lǎoshī)",
+                        "他没有学生，他是老师"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "Negation of the copula requires 不是 (bú shì)."
                 }
             ]
         },
@@ -1287,85 +1327,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「人称代词与是字句 (Pronouns & 是-Sentences)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 2-4）？",
+                    "prompt": "在汉语中，否定‘我是中国人’的正确否定句是：",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (2.4.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (2.4.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (2.4.3)。"
+                        "我不中国人",
+                        "我不有中国人",
+                        "我不是中国人 (Wǒ bú shì Zhōngguórén)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "我不是中国人 (Wǒ bú shì Zhōngguórén) correctly negates the copula."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («我是_2_4»):",
+                    "prompt": "Type the Hanzi for 'not / no' (不):",
                     "acceptedAnswers": [
-                        "我是_2_4"
+                        "不",
+                        "bu",
+                        "bù",
+                        "Bù",
+                        "bú",
+                        "Bú"
                     ],
-                    "explanation": "The target keyword was: 【我是_2_4】"
+                    "explanation": "不 (bù/bú) means 'not / no'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u2-l5": {
         "id": "zh-u2-l5",
-        "subject": "mandarin",
-        "unit": 2,
-        "lessonNumber": 5,
-        "title": "基本句型、人称代词与是字句 (Basic SVO & 是-Sentences) (Part 5)",
+        "unit": "zh-u2",
         "level": "A1",
-        "objective": "Comprehensive mastery of 人称代词与是字句 (Pronouns & 是-Sentences).",
+        "objective": "Master the formation of yes/no interrogative sentences by appending the neutral-tone question particle 吗 (ma) to declarative sentences, synthesizing all Unit 2 pronouns, affirmative/negative copulas, and nationalities into an integrated A1 dialogue.",
+        "prerequisites": [
+            "zh-u2-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u2-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)」（第5部分）的核心句法结构与人称代词与是字句 (Pronouns & 是-Sentences)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "汉语的疑问句构成极为简明：将陈述句末尾加上语气助词「吗 (ma)」，语序**完全保持不变**，即可构成一般疑问句。\n\n1. 吗字疑问句结构 (Yes/No Question with 吗):\n- **陈述句 + 吗？ (Statement + ma?)**\n- 示例对照：\n  - 陈述句：你是中国人。(You are Chinese.)\n  - 疑问句：你是中国人**吗**？(Are you Chinese?)\n- 回答模式 (Response Patterns):\n  - 肯定回答：是，我是中国人。(Yes, I am Chinese.)\n  - 否定回答：不，我不是中国人，我是美国人。(No, I am not Chinese, I am American.)\n\n2. 第二单元综合交际实战 (Unit 2 Comprehensive Synthesis):\n- 自我介绍与国籍确认完整流程：问候（你好）→ 询问身份国籍（你是学生吗？你是哪国人？）→ 肯定/否定确认（我不是老师，我是英国留学生）→ 礼貌致谢。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (2.5.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "A: 你是北京大学的学生吗？ B: 是，我是中文系的学生。",
+                    "reading": "A: Nǐ shì Běijīng Dàxué de xuésheng ma? B: Shì, wǒ shì zhōngwén xì de xuésheng.",
+                    "translation": "A: Are you a student at Peking University? B: Yes, I am a Chinese department student."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (2.5.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "A: 他们也是美国人吗？ B: 不，他们不是美国人，他们是加拿大人。",
+                    "reading": "A: Tāmen yě shì Měiguórén ma? B: Bù, tāmen bú shì Měiguórén, tāmen shì Jiānádàrén.",
+                    "translation": "A: Are they also American? B: No, they are not American, they are Canadian."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (2.5.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "大卫是我的同学，他不是中国人，但他很喜欢中国文化。",
+                    "reading": "Dàwèi shì wǒ de tóngxué, tā bú shì Zhōngguórén, dàn tā hěn xǐhuan Zhōngguó wénhuà.",
+                    "translation": "David is my classmate, he is not Chinese, but he likes Chinese culture very much."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 人称代词与是字句 (Pronouns & 是-Sentences)"
+                "Question Magic: Statement + 吗 = Question! (你是学生 + 吗 = Are you a student?)"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Unlike English, which requires auxiliary verb inversion ('Are you...?'), Mandarin simply appends 吗 to the end of a regular SVO sentence, keeping the word order entirely unchanged."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「人称代词与是字句 (Pronouns & 是-Sentences)」在第5小节中的标准汉语语法规范？",
+                    "prompt": "如何将陈述句‘他是老师 (He is a teacher)’快速变成疑问句‘他是老师吗？’？",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (2.5.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (2.5.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (2.5.3)。"
+                        "在句末加上轻声疑问助词‘吗’：他是老师吗？",
+                        "把‘是’移到句首：是他老师？",
+                        "在句首加‘吗’：吗他是老师？"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "Adding 吗 (ma) at the end turns any statement into a yes/no question without word inversion."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「基本句型、人称代词与是字句 (Basic SVO & 是-Sentences)」语用情境与完整句式的选项（练习 5）：",
+                    "prompt": "当别人问你「你是英国人吗？」而你来自美国时，最完整准确的回答是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (2.5.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (2.5.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (2.5.3)。"
+                        "是，我是英国人",
+                        "不，我不是英国人，我是美国人 (Bù, wǒ bú shì Yīngguórén, wǒ shì Měiguórén)",
+                        "对不起，再见"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "Accurately negates the question and confirms correct nationality."
                 }
             ]
         },
@@ -1373,24 +1425,28 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「人称代词与是字句 (Pronouns & 是-Sentences)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 2-5）？",
+                    "prompt": "下列哪个句子是完全正确的中文疑问句？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (2.5.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (2.5.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (2.5.3)。"
+                        "你是哪国人吗？ (Incorrect mix of question word and 吗)",
+                        "是你是学生吗？ (Incorrect inversion)",
+                        "你是中国人吗？ (Nǐ shì Zhōngguórén ma? — Correct statement + 吗)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "你是中国人吗？ follows the correct Statement + 吗 pattern."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («我是_2_5»):",
+                    "prompt": "Type the Hanzi for the question particle (吗):",
                     "acceptedAnswers": [
-                        "我是_2_5"
+                        "吗",
+                        "ma",
+                        "Ma",
+                        "嗎"
                     ],
-                    "explanation": "The target keyword was: 【我是_2_5】"
+                    "explanation": "吗 (ma) is the neutral-tone yes/no question particle."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u3-l1": {
