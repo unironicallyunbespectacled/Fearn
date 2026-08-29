@@ -450,46 +450,82 @@
         "id": "de-u1-l1",
         "unit": "de-u1",
         "level": "A1",
-        "objective": "Greet people appropriately at different times of day and open or close a short conversation using core German courtesy expressions.",
+        "objective": "Greet people appropriately at different times of day, master German umlauts (ä, ö, ü), ß vs ss, and core consonant rules (w = [v], v = [f], z = [ts]), and open or close a conversation.",
         "prerequisites": [],
         "warmup": {
             "srsPull": true,
             "reviewFocus": []
         },
         "presentation": {
-            "explanation": "German greetings are time-of-day-specific in a way English mostly isn't. Guten Morgen (\"good morning\") covers roughly until 10-11am, after which people switch to Guten Tag (\"good day\") for the entire rest of the working day, and Guten Abend (\"good evening\") takes over once evening starts — there's no all-purpose \"good day\" stretch the way English speakers might assume. Hallo works informally at any hour, and in southern Germany, Austria, and parts of Switzerland you'll hear Servus used as BOTH hello and goodbye interchangeably, which trips up learners who expect one word per direction. For goodbyes: Tschüss is warm and informal (friends, coworkers you're casual with), while Auf Wiedersehen is the formal, safe default (strangers, shopkeepers, anyone you'd address with Sie). Danke (thanks) and Bitte (please / you're welcome — it does double duty!) round out the basics you'll use constantly.",
+            "explanation": "German greetings are time-of-day-specific in a way English mostly isn't. Guten Morgen (\"good morning\") covers roughly until 10-11am, after which people switch to Guten Tag (\"good day\") for the entire rest of the working day, and Guten Abend (\"good evening\") takes over once evening starts. Hallo works informally at any hour, and in southern Germany, Austria, and parts of Switzerland you'll hear Servus used as BOTH hello and goodbye interchangeably. For goodbyes: Tschüss is warm and informal, while Auf Wiedersehen is the formal, safe default. Danke (thanks) and Bitte (please / you're welcome) round out the basics.\n\n### 🔤 German Orthography & Phonetic Essentials:\nGerman spelling is remarkably consistent, but English defaults will mislead you if you don't master these core rules:\n1. **The Three Umlauts (ä, ö, ü)**:\n   - **ä** = [ɛ] or [eː] (open-mid front vowel, like 'ai' in *air* or 'e' in *bed*, e.g. *spät* [ʃpɛːt] 'late').\n   - **ö** = [øː] or [œ] (round your lips tightly into an 'o' shape while trying to say 'ay', e.g. *schön* [ʃøːn] 'beautiful / very', *Danke schön*).\n   - **ü** = [yː] or [ʏ] (round your lips tightly into an 'o' shape while trying to say 'ee', e.g. *Tschüss* [tʃʏs] 'bye', *müde* [ˈmyːdə] 'tired').\n2. **The Eszett / Sharp S (ß) vs 'ss'**:\n   - **ß** represents a voiceless sharp 'ss' [s] after a **long vowel or diphthong** (e.g. *heiß* [haɪ̯s] 'hot', *groß* [ɡʁoːs] 'big', *Straße* [ˈʃtʁaːsə]).\n   - **ss** represents the same 'ss' [s] after a **short vowel** (e.g. *Tschüss* [tʃʏs], *Wasser* [ˈvasɐ]).\n3. **Consonant Shifts (w, v, z, initial s-)**:\n   - **w** is ALWAYS pronounced as English **[v]** (e.g. *wie* [viː] 'how', *Wiedersehen* [ˈviːdɐˌzeːən]).\n   - **v** is usually pronounced as English **[f]** in native words (e.g. *von* [fɔn], *viel* [fiːl], *Vater* [ˈfaːtɐ]).\n   - **z** is ALWAYS pronounced as **[ts]** (e.g. *zwei* [tsvaɪ̯], *Zeit* [tsaɪ̯t]).\n   - Initial **s-** before a vowel is voiced like English **'z'** [z] (e.g. *sehen* [ˈzeːən], *Sie* [ziː]). Initial **sp-** and **st-** are pronounced **[ʃp]** and **[ʃt]** (e.g. *spät* [ʃpɛːt], *stimmt* [ʃtɪmt]).",
             "examples": [
                 {
                     "target": "Guten Morgen! Wie geht es dir?",
-                    "reading": "",
-                    "translation": "Good morning! How are you? (informal dir)"
+                    "reading": "[ˈɡuːtn̩ ˈmɔʁɡn̩! viː ɡeːt ʔɛs diːɐ̯?]",
+                    "translation": "Good morning! How are you? (Wie starts with w = [v])"
                 },
                 {
                     "target": "Guten Tag, Frau Schmidt.",
-                    "reading": "",
-                    "translation": "Good day/Hello, Mrs. Schmidt. (formal, daytime)"
+                    "reading": "[ˈɡuːtn̩ taːk, fʁaʊ̯ ʃmɪt]",
+                    "translation": "Good day/Hello, Mrs. Schmidt. (formal, daytime; Tag ends with devoiced [k])"
                 },
                 {
-                    "target": "Guten Abend! Und Tschüss, bis morgen!",
-                    "reading": "",
-                    "translation": "Good evening! And bye, see you tomorrow! (informal)"
+                    "target": "Auf Wiedersehen! Und Tschüss, bis morgen!",
+                    "reading": "[ʔaʊ̯f ˈviːdɐˌzeːən! ʔʊnt tʃʏs, bɪs ˈmɔʁɡn̩!]",
+                    "translation": "Goodbye! And bye, see you tomorrow! (Wiedersehen has w=[v] and s=[z]; Tschüss has ü=[ʏ])"
                 },
                 {
                     "target": "Danke schön! — Bitte schön!",
-                    "reading": "",
-                    "translation": "Thank you very much! — You're welcome! (bitte covers both please AND you're welcome)"
+                    "reading": "[ˈdaŋkə ʃøːn! — ˈbɪtə ʃøːn!]",
+                    "translation": "Thank you very much! — You're welcome! (schön has rounded umlaut ö [øː])"
                 }
             ],
             "mnemonics": [
-                "Morgen → Tag → Abend tracks the sun: Morgen while it's rising, Tag once it's up and staying up (a LONG stretch — most of the day), Abend once it's going back down.",
-                "Bitte is the Swiss Army knife of German politeness: 'please' when asking, 'you're welcome' when replying, and 'here you go' when handing something over. One word, three jobs — context decides which."
+                "German 'W' is English 'V', and German 'V' is English 'F'! Think: Volkswagen = 'Folks-Vagen'.",
+                "Umlaut Mouth Shape: Say 'ee' and pucker your lips into a circle without moving your tongue — boom, you just made the perfect German 'ü' (Tschüss)!",
+                "ß vs ss: ß follows long vowels (Straße, heiß); ss follows short rapid vowels (Tschüss, Wasser).",
+                "Bitte is the Swiss Army knife: 'please', 'you're welcome', and 'here you go'."
             ],
             "culturalNotes": [
-                "Servus is a genuine two-way word in Bavaria, Austria, and parts of Switzerland — the exact same word greets someone AND sends them off, unlike most languages where hello and goodbye are unrelated words. Using it outside those regions (e.g., in Hamburg or Berlin) will mark you as clearly not local, though it's still understood."
+                "Capitalization of All Nouns: In German, EVERY noun is always capitalized (der Morgen, der Tag, der Abend, Frau, Schmidt). This rule is universal across the entire language.",
+                "Servus is a genuine two-way greeting in Bavaria, Austria, and parts of Switzerland (greeting and farewell)."
             ]
         },
         "guidedPractice": {
             "items": [
+                {
+                    "prompt": "How is the German letter 'w' (as in wie and Wiedersehen) pronounced?",
+                    "options": [
+                        "As an English 'w' sound like in water",
+                        "As an English 'v' sound [v] (like in voice or victory)",
+                        "As a silent letter",
+                        "As 'sh'"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "German 'w' is always pronounced like English 'v' [v]."
+                },
+                {
+                    "prompt": "How is the German letter 'v' usually pronounced in native words like von, viel, and Vater?",
+                    "options": [
+                        "As an English 'f' sound [f]",
+                        "As an English 'v' sound",
+                        "As 'b'",
+                        "As 'z'"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "German 'v' is pronounced like English 'f' in native words."
+                },
+                {
+                    "prompt": "When is the German Eszett (ß) used instead of double 'ss'?",
+                    "options": [
+                        "After long vowels and diphthongs (like Straße and heiß), while 'ss' follows short vowels",
+                        "Only at the beginning of words",
+                        "Only on Tuesdays",
+                        "They are completely identical with no rules"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "ß follows long vowels and diphthongs; ss follows short vowels."
+                },
                 {
                     "prompt": "It's 9am. What do you say?",
                     "options": [
@@ -500,44 +536,22 @@
                     ],
                     "answerIndex": 3,
                     "explanation": "Guten Morgen covers roughly until 10-11am."
-                },
-                {
-                    "prompt": "It's 2pm and you're greeting your formal doctor. What do you say?",
-                    "options": [
-                        "Servus",
-                        "Guten Tag",
-                        "Guten Morgen",
-                        "Guten Abend"
-                    ],
-                    "answerIndex": 1,
-                    "explanation": "Guten Tag covers the long daytime stretch after morning ends."
-                },
-                {
-                    "prompt": "You're saying goodbye formally to a shopkeeper you don't know. What's the safe choice?",
-                    "options": [
-                        "Servus",
-                        "Tschüss",
-                        "Hallo",
-                        "Auf Wiedersehen"
-                    ],
-                    "answerIndex": 3,
-                    "explanation": "Auf Wiedersehen is the formal, universally safe goodbye."
-                },
-                {
-                    "prompt": "What makes Servus unusual compared to most greeting words?",
-                    "options": [
-                        "It's only written, never spoken",
-                        "It's only used by children",
-                        "It means 'goodnight' exclusively",
-                        "It functions as BOTH hello and goodbye in Bavaria/Austria"
-                    ],
-                    "answerIndex": 3,
-                    "explanation": "This is the specific regional quirk covered in the cultural note."
                 }
             ]
         },
         "independentPractice": {
             "items": [
+                {
+                    "prompt": "Which sound does initial 's-' make before a vowel in German (as in sehen and Sie)?",
+                    "options": [
+                        "A voiced English 'z' sound [z]",
+                        "A voiceless 's' like in hiss",
+                        "A silent sound",
+                        "A 'th' sound"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Initial s- before vowels is voiced [z] in standard German."
+                },
                 {
                     "prompt": "Translate: 'Good evening! See you tomorrow!' (informal)",
                     "options": [
@@ -547,88 +561,69 @@
                         "Guten Morgen! Bis morgen! (1.4)"
                     ],
                     "answerIndex": 2,
-                    "explanation": "Guten Abend fits evening; Bis morgen (see you tomorrow) is a natural informal closer."
-                },
-                {
-                    "prompt": "Why does Bitte sometimes confuse beginners in conversation?",
-                    "options": [
-                        "It's used exclusively in writing",
-                        "It only means 'sorry'",
-                        "It's never actually used",
-                        "It covers 'please,' 'you're welcome,' and 'here you go' — the correct meaning depends entirely on context"
-                    ],
-                    "answerIndex": 3,
-                    "explanation": "Bitte's multiple functions are exactly what the explanation highlights."
+                    "explanation": "Guten Abend fits evening; Bis morgen is a natural informal closer."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
-                    "prompt": "It's 9am — what do you say?",
+                    "type": "multiple-choice",
+                    "prompt": "In German, 'w' sounds like ___ and native 'v' sounds like ___:",
                     "options": [
-                        "Guten Morgen",
-                        "Gute Nacht",
-                        "Guten Abend",
-                        "Tschüss"
+                        "'w' sounds like [v] (voice), 'v' sounds like [f] (fox)",
+                        "'w' sounds like [w], 'v' sounds like [v]",
+                        "'w' is silent, 'v' is [b]",
+                        "'w' sounds like [f], 'v' sounds like [w]"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Morning greeting for early hours."
+                    "explanation": "w = [v], v = [f]."
                 },
                 {
-                    "prompt": "It's 3pm, formal context — what do you say?",
+                    "type": "multiple-choice",
+                    "prompt": "Greeting used at 9am:",
                     "options": [
-                        "Servus",
                         "Guten Abend",
+                        "Guten Tag",
                         "Guten Morgen",
-                        "Guten Tag"
-                    ],
-                    "answerIndex": 3,
-                    "explanation": "Guten Tag spans the long daytime stretch."
-                },
-                {
-                    "prompt": "Formal goodbye to a stranger:",
-                    "options": [
-                        "Servus",
-                        "Tschüss",
-                        "Auf Wiedersehen",
-                        "Hallo"
+                        "Gute Nacht"
                     ],
                     "answerIndex": 2,
+                    "explanation": "Guten Morgen = morning greeting."
+                },
+                {
+                    "type": "multiple-choice",
+                    "prompt": "Formal goodbye safe with strangers:",
+                    "options": [
+                        "Tschüss",
+                        "Auf Wiedersehen",
+                        "Bis morgen",
+                        "Hallo"
+                    ],
+                    "answerIndex": 1,
                     "explanation": "Auf Wiedersehen is the safe formal choice."
                 },
                 {
-                    "prompt": "Servus is unusual because it:",
+                    "type": "multiple-choice",
+                    "prompt": "Everyday casual goodbye in German (Tschüss):",
                     "options": [
-                        "Is only formal",
-                        "Works as both hello and goodbye in Bavaria/Austria",
-                        "Is never used in speech",
-                        "Only means goodbye"
-                    ],
-                    "answerIndex": 1,
-                    "explanation": "Its dual hello/goodbye function is the specific fact taught."
-                },
-                {
-                    "prompt": "Bitte can mean:",
-                    "options": [
-                        "'Please,' 'you're welcome,' or 'here you go,' depending on context",
-                        "Only 'please'",
-                        "Only 'goodbye'",
-                        "Only 'thank you'"
-                    ],
-                    "answerIndex": 0,
-                    "explanation": "Bitte's three context-dependent meanings."
-                },
-                {
-                    "prompt": "Translate: 'Thank you very much! You're welcome!'",
-                    "options": [
-                        "Bitte schön! Danke schön!",
-                        "Guten Tag! Tschüss!",
-                        "Danke! Auf Wiedersehen!",
-                        "Danke schön! Bitte schön!"
+                        "Guten Tag",
+                        "Guten Morgen",
+                        "Auf Wiedersehen",
+                        "Tschüss"
                     ],
                     "answerIndex": 3,
-                    "explanation": "Danke schön (thanks) answered with Bitte schön (you're welcome) is the standard exchange."
+                    "explanation": "Tschüss is informal."
+                },
+                {
+                    "type": "typed-recall",
+                    "prompt": "Type the morning greeting in German (Guten Morgen):",
+                    "acceptedAnswers": [
+                        "Guten Morgen",
+                        "guten morgen",
+                        "Guten morgen"
+                    ],
+                    "explanation": "Guten Morgen is 'good morning'."
                 }
             ],
             "passThreshold": 0.8
@@ -638,7 +633,7 @@
         "id": "de-u1-l2",
         "unit": "de-u1",
         "level": "A1",
-        "objective": "Conjugate sein (to be) for all subject pronouns and build basic identity sentences while respecting German's verb-second word order.",
+        "objective": "Conjugate sein (to be) for all subject pronouns, master the 'ch' allophone split (ich-Laut [ç] vs ach-Laut [x]), and respect German's verb-second (V2) word order.",
         "prerequisites": [
             "de-u1-l1"
         ],
@@ -649,32 +644,33 @@
             ]
         },
         "presentation": {
-            "explanation": "sein (to be) is irregular and worth memorizing cold: ich bin, du bist, er/sie/es ist, wir sind, ihr seid, sie/Sie sind. Subject pronouns: ich (I), du (you, informal singular), er/sie/es (he/she/it), wir (we), ihr (you, informal plural), sie (they) — and Sie, capitalized, doubles as the formal \"you\" (singular AND plural), conjugated exactly like sie (they): Sie sind. Now the real trap, and it's structural, not vocabulary: German is a verb-second (V2) language. The CONJUGATED verb must be the second grammatical element of a statement — not necessarily the second word, and not necessarily right after the subject. Ich bin heute müde (\"I am tired today\") has bin in position two. But flip the sentence to lead with \"today\" instead — Heute bin ich müde (\"Today, I am tired\") — and bin STAYS in position two, forcing ich to jump after the verb. English never does this (\"Today I am tired\" keeps I-am together); German always does.",
+            "explanation": "sein (to be) is irregular and worth memorizing cold: *ich bin* [ʔɪç bɪn], *du bist* [duː bɪst], *er/sie/es ist* [ʔɪst], *wir sind* [vɪɐ̯ zɪnt], *ihr seid* [ʔiːɐ̯ zaɪ̯t], *sie/Sie sind* [ziː zɪnt]. Notice that final *-d* in *sind* and *seid* devoices into a crisp **[t]** (Auslautverhärtung).\n\n### 🔤 Crucial Phonetic Trap: The 'ch' Sound Split (ich-Laut vs ach-Laut):\nGerman 'ch' is NEVER an English 'ch' (as in cheese). It has two distinct pronunciations depending strictly on the vowel before it:\n1. **ich-Laut [ç]** (soft palatal hiss): After front vowels (*i, e, ä, ö, ü*), diphthongs (*ei, eu, äu*), or consonants (*l, n, r*) — e.g. *ich* [ʔɪç], *nicht* [nɪçt], *welcher* [ˈvɛlçɐ]. Tongue arches flat against the hard palate (like hissing a whispery 'hy' in *huge*).\n2. **ach-Laut [x]** (deep velar rasp): After back vowels (*a, o, u, au*) — e.g. *ach* [ʔax], *Nacht* [naxt], *auch* [ʔaʊ̯x]. Tongue pulls back to the throat (like Scottish *loch*).\n\n### 🧩 The Structural Engine: Verb-Second (V2) Word Order:\nIn German main clauses, the conjugated verb is ALWAYS the 2nd element. If you front an adverb like *Heute* ('today'), the verb stays in position 2, bumping the subject: *Heute bin ich müde* (literally \"Today am I tired\").",
             "examples": [
                 {
                     "target": "Ich bin müde.",
-                    "reading": "",
-                    "translation": "I am tired."
+                    "reading": "[ʔɪç bɪn ˈmyːdə]",
+                    "translation": "I am tired. (ich uses the soft palatal ich-Laut [ç]; müde has long ü [yː])"
                 },
                 {
                     "target": "Du bist nett.",
-                    "reading": "",
-                    "translation": "You are nice. (informal)"
+                    "reading": "[duː bɪst nɛt]",
+                    "translation": "You are nice. (informal du)"
                 },
                 {
-                    "target": "Heute bin ich müde.",
-                    "reading": "",
-                    "translation": "Today I am tired. — notice bin still comes second, before ich."
+                    "target": "Heute bin ich müde und auch krank.",
+                    "reading": "[ˈhɔɪ̯tə bɪn ʔɪç ˈmyːdə ʔʊnt ʔaʊ̯x kʁaŋk]",
+                    "translation": "Today I am tired and also sick. (Heute bin ich keeps V2 order; auch has throat ach-Laut [x])"
                 },
                 {
                     "target": "Wir sind Freunde, und Sie sind unser Lehrer.",
-                    "reading": "",
-                    "translation": "We are friends, and you are our teacher. (Sie = formal you)"
+                    "reading": "[viːɐ̯ zɪnt ˈfʁɔɪ̯ndə, ʔʊnt ziː zɪnt ˈʔʊnzɐ ˈleːʁɐ]",
+                    "translation": "We are friends, and you are our teacher. (Sie = formal you; sind devoices final d to [t])"
                 }
             ],
             "mnemonics": [
-                "V2 rule in one line: whatever comes first in the sentence is just the 'topic slot' — the conjugated verb always claims position two, and the subject gets bumped to wherever there's room after it.",
-                "Sie (capital S, formal you) conjugates exactly like sie (lowercase, they) — sind for both. Capitalization is your only clue which one you're reading."
+                "The 'ch' Compass: Front vowels (e, i, ä, ö, ü) make front hiss 'ich' [ç]; Back vowels (a, o, u) make deep throat rasp 'ach' [x]!",
+                "V2 rule in one line: whatever comes first in the sentence is just the 'topic slot' — the conjugated verb always claims position two, and the subject gets bumped to position three.",
+                "Sie (capital S, formal you) conjugates exactly like sie (lowercase, they) — sind for both."
             ],
             "culturalNotes": []
         },
