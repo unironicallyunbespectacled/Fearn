@@ -6362,63 +6362,70 @@
     },
     "am-u12-l1": {
         "id": "am-u12-l1",
-        "subject": "amharic",
-        "unit": 12,
-        "lessonNumber": 1,
-        "title": "የሰውነት ክፍሎች እና ጤና (Health & Medical Consultations) (Part 1)",
+        "unit": "am-u12",
         "level": "B1",
-        "objective": "Comprehensive mastery of የጤና እንክብካቤ እና ህክምና (Health and Anatomy).",
+        "objective": "Identify and name key external and internal parts of the human body in Amharic (የሰውነት ክፍሎች) including ራስ, ዓይን, ጆሮ, አፍ, እጅ, እግር, ልብ, and ሆድ.",
+        "prerequisites": [
+            "am-u11-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u11-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የጤና እንክብካቤ እና ህክምና (Health and Anatomy) - ደረጃ 1) ተማሪዎች ስለ የጤና እንክብካቤ እና ህክምና (Health and Anatomy) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Mastering vocabulary for human anatomy (የሰውነት ክፍሎች) is foundational for expressing physical wellbeing, discussing health conditions, and navigating medical consultations in Amharic.\n\n1. Head and Facial Anatomy (ራስ እና ፊት):\n- **ራስ** (Ras) — Head\n- **ፀጉር** (Ts'egur) — Hair\n- **ዓይን** (Ayn) — Eye (Plural: **ዓይኖች** / Aynoch)\n- **ጆሮ** (Joro) — Ear (Plural: **ጆሮዎች** / Jorowoch)\n- **አፍንጫ** (Afinch'a) — Nose\n- **አፍ** (Af) — Mouth\n- **ጥርስ** (T'irs) — Tooth (Plural: **ጥርሶች** / T'irsoch)\n- **ጉሮሮ** (Guroro) — Throat\n\n2. Torso, Limbs, and Internal Organs (ግንድ፣ ብልቶች እና የውስጥ ክፍሎች):\n- **ደረት** (Deret) — Chest\n- **ልብ** (Lib) — Heart\n- **ሆድ** (Hod) — Stomach / Belly\n- **ጀርባ** (Jerba) — Back\n- **እጅ** (Ij) — Hand / Arm (Plural: **እጆች** / Ijoch)\n- **ጣት** (T'at) — Finger / Toe (Plural: **ጣቶች** / T'atoch)\n- **እግር** (Igir) — Foot / Leg (Plural: **እግሮች** / Igroch)\n- **ጉልበት** (Gulbet) — Knee\n\n3. Possessive Suffix Suffixation with Body Parts:\n- **ራሴ** (Rasē) — My head\n- **እጅህ** (Ijih) — Your [masc.] hand\n- **ሆድሽ** (Hodish) — Your [fem.] stomach\n- **ልቡ** (Libu) — His heart\n- **ዓይኗ** (Aynwa) — Her eye",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየጤና እንክብካቤ እና ህክምና (Health and Anatomy) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (12.1.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ዶክተሩ የታማሚውን ደረት እና ልብ በመመርመሪያ መሳሪያ አዳመጡ።",
+                    "reading": "Dokteru yetamamīwun deret ina lib bememergemīya mesariya adamet'u.",
+                    "translation": "The doctor listened to the patient's chest and heart with an examination instrument."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (12.1.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ከስፖርት በኋላ እግሬ እና ጉልበቴ በጣም ደክመዋል።",
+                    "reading": "Kespirt behwala igrē ina gulbetē bet'am dekmewal.",
+                    "translation": "After sports, my leg and knee are very tired."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (12.1.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ዓይኔን እና ጆሮዬን አቧራ አስቸገረኝ።",
+                    "reading": "Aynēn ina joroyēn ibwara aschegeregn.",
+                    "translation": "Dust troubled my eye and my ear."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የጤና እንክብካቤ እና ህክምና (Health and Anatomy)"
+                "Connect ራስ (Ras) to Ethiopian nobility 'Ras' (head/leader) — ራስ literally means 'head'.",
+                "For እግር (Igir), think of 'gear' — your legs and feet are the running gear of your body!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "In Ethiopian culture, anatomical terms frequently appear in everyday idioms: «ልብ ያለው ሰው» (literally 'a person with a heart') describes someone wise and compassionate, while «አፍ ያለው» denotes an articulate and persuasive speaker."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የጤና እንክብካቤ እና ህክምና (Health and Anatomy)» አጠቃቀም በደረጃ 1 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«ጉሮሮዬን አሞኛል» ሲባል የትኛው የሰውነት ክፍል ነው የተጠቀሰው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (12.1.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (12.1.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (12.1.3)።"
+                        "ሆድ (Stomach)",
+                        "ጉሮሮ (Throat)",
+                        "ጉልበት (Knee)"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "ጉሮሮ (Guroro) means 'throat'. «ጉሮሮዬን አሞኛል» translates to 'my throat hurts me'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የሰውነት ክፍሎች እና ጤና (Health & Medical Consultations)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 1)፡",
+                    "prompt": "«እጅ» እና «እግር» የሚሉት ቃላት ምን ትርጉም አላቸው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (12.1.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (12.1.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (12.1.3)።"
+                        "Eye and Ear",
+                        "Hand/Arm and Foot/Leg",
+                        "Head and Back"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "እጅ (Ij) means 'hand/arm' and እግር (Igir) means 'foot/leg'."
                 }
             ]
         },
@@ -6426,85 +6433,94 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የጤና እንክብካቤ እና ህክምና (Health and Anatomy)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 12-1)?",
+                    "prompt": "የትኛው ቃል 'Chest' የሚለውን የሰውነት ክፍል ይወክላል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (12.1.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (12.1.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (12.1.3)።"
+                        "ደረት (Deret)",
+                        "ጀርባ (Jerba)",
+                        "አፍንጫ (Afinch'a)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "ደረት (Deret) = chest; ጀርባ (Jerba) = back; አፍንጫ (Afinch'a) = nose."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ጤና_12_1»):",
+                    "prompt": "Type the Amharic word for 'head' in Fidel script (ራስ):",
                     "acceptedAnswers": [
-                        "ጤና_12_1"
+                        "ራስ",
+                        "ras",
+                        "Ras"
                     ],
-                    "explanation": "The target keyword was: 【ጤና_12_1】"
+                    "explanation": "ራስ (Ras) means 'head' in Amharic."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u12-l2": {
         "id": "am-u12-l2",
-        "subject": "amharic",
-        "unit": 12,
-        "lessonNumber": 2,
-        "title": "የሰውነት ክፍሎች እና ጤና (Health & Medical Consultations) (Part 2)",
+        "unit": "am-u12",
         "level": "B1",
-        "objective": "Comprehensive mastery of የጤና እንክብካቤ እና ህክምና (Health and Anatomy).",
+        "objective": "Express physical pain, symptoms, and illness using the Amharic impersonal verb of affliction « አመመ » (Ammeme) conjugated with object pronoun suffixes.",
+        "prerequisites": [
+            "am-u12-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u12-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የጤና እንክብካቤ እና ህክምና (Health and Anatomy) - ደረጃ 2) ተማሪዎች ስለ የጤና እንክብካቤ እና ህክምና (Health and Anatomy) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "In Amharic, physical pain and sickness are expressed primarily using the impersonal verb **አመመ** (Ammeme — 'to pain / to afflict'). Unlike English ('I hurt / I am sick'), Amharic frames pain as an affliction acting upon the sufferer as a grammatical direct object.\n\n1. Syntactic Construction:\n- **[Body Part + Definite/Accusative -ን] + አመመ + [Object Suffix]**\n- **ራሴን አመመኝ** (Rasēn ammeme-gn) -> Literally: 'My head, it pained me' = I have a headache.\n- **ሆዷን አመማት** (Hodwan ammeme-at) -> 'Her stomach, it pained her' = She has a stomachache.\n\n2. Conjugation of አመመ with Object Pronoun Suffixes:\n- እኔን: **አመመኝ** (ammeme-gn — it pained me)\n- አንተን: **አመመህ** (ammeme-h — it pained you [masc.])\n- አንቺን: **አመመሽ** (ammeme-sh — it pained you [fem.])\n- እሱን: **አመመው** (ammeme-w — it pained him)\n- እሷን: **አመማት** (ammeme-at — it pained her)\n- እኛን: **አመመን** (ammeme-n — it pained us)\n- እናንተን: **አመማችሁ** (ammeme-achihu — it pained you [pl.])\n- እነሱን: **አመማቸው** (ammeme-achew — it pained them)\n\n3. Common Symptoms and Illnesses (የሕመም ስሜቶች):\n- **ትኩሳት** (Tiksat) — Fever\n- **ጉንፋን** (Gunfan) — Cold / Influenza\n- **ሳል** (Sal) — Cough\n- **ራስ ምታት** (Ras mitat) — Severe headache\n- **ማቅለሽለሽ** (Maqleshlesh) — Nausea",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየጤና እንክብካቤ እና ህክምና (Health and Anatomy) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (12.2.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ትናንት ማታ ጀምሮ ከባድ ትኩሳት እና ጉንፋን ያመኛል።",
+                    "reading": "Tinant mata jemiro kebad tiksat ina gunfan yamēgnal.",
+                    "translation": "Starting yesterday evening, I have had a severe fever and flu."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (12.2.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ልጁን ሆዱን በጣም ስለ አመመው ወደ ክሊኒክ ሄደ።",
+                    "reading": "Lijun hodun bet'am sile ammemew wede klinik hēde.",
+                    "translation": "Because the child had a severe stomachache, he went to the clinic."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (12.2.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ምንሽን አመመሽ? — ጥርሴን በጣም ያመኛል።",
+                    "reading": "Minishin ammemesh? — T'irsēn bet'am yamēgnal.",
+                    "translation": "What is hurting you [fem.]? — My tooth is hurting me very much."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የጤና እንክብካቤ እና ህክምና (Health and Anatomy)"
+                "Remember: In Amharic, pain arrives at you as an object: 'Ammeme-gn' = 'It pained ME'. Suffix -ኝ (-gn) is the receiver of the ache!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "When visiting or calling someone who is unwell, the customary Amharic blessing is «እግዚአብሔር ይማርህ!» (Egziabher yimarih! — to a male) or «እግዚአብሔር ይማርሽ!» (Egziabher yimarish! — to a female), meaning 'May God heal you!'"
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የጤና እንክብካቤ እና ህክምና (Health and Anatomy)» አጠቃቀም በደረጃ 2 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«ራሴን አመመኝ» የሚለው ዓረፍተ ነገር ትርጉም ምንድን ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (12.2.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (12.2.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (12.2.3)።"
+                        "I hurt my leg",
+                        "I have a headache (my head hurts me)",
+                        "I am hungry"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "ራሴን (my head) + አመመኝ (it pained me) expresses having a headache."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የሰውነት ክፍሎች እና ጤና (Health & Medical Consultations)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 2)፡",
+                    "prompt": "ለአንዲት ሴት «ሆድሽን አመመሽ?» ብለን ስንጠይቅ ምን ማለታችን ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (12.2.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (12.2.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (12.2.3)።"
+                        "Does your stomach hurt you?",
+                        "Do your eyes hurt?",
+                        "Are you thirsty?"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "ሆድሽን (your [f.] stomach) + አመመሽ (did it hurt you [f.]?) asks whether she has a stomachache."
                 }
             ]
         },
@@ -6512,85 +6528,94 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የጤና እንክብካቤ እና ህክምና (Health and Anatomy)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 12-2)?",
+                    "prompt": "«ጉንፋን» የሚለው የሕመም ቃል ምን ያመለክታል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (12.2.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (12.2.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (12.2.3)።"
+                        "High blood pressure",
+                        "Common Cold / Flu",
+                        "Bone fracture"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "ጉንፋን (Gunfan) = common cold or flu."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ጤና_12_2»):",
+                    "prompt": "Type the Amharic phrase meaning 'I have a headache' in Fidel script (ራሴን አመመኝ):",
                     "acceptedAnswers": [
-                        "ጤና_12_2"
+                        "ራሴን አመመኝ",
+                        "rasen ammemegn",
+                        "Rasen ammemegn"
                     ],
-                    "explanation": "The target keyword was: 【ጤና_12_2】"
+                    "explanation": "«ራሴን አመመኝ» (Rasēn ammeme-gn) means 'I have a headache'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u12-l3": {
         "id": "am-u12-l3",
-        "subject": "amharic",
-        "unit": 12,
-        "lessonNumber": 3,
-        "title": "የሰውነት ክፍሎች እና ጤና (Health & Medical Consultations) (Part 3)",
+        "unit": "am-u12",
         "level": "B1",
-        "objective": "Comprehensive mastery of የጤና እንክብካቤ እና ህክምና (Health and Anatomy).",
+        "objective": "Navigate medical visits at a clinic (ክሊኒክ) or hospital (ሆስፒታል) and purchase medications at a pharmacy (መድሃኒት ቤት / ፋርማሲ) in Amharic.",
+        "prerequisites": [
+            "am-u12-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u12-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የጤና እንክብካቤ እና ህክምና (Health and Anatomy) - ደረጃ 3) ተማሪዎች ስለ የጤና እንክብካቤ እና ህክምና (Health and Anatomy) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Navigating medical infrastructure in Ethiopia requires specific terminology for healthcare facilities, personnel, diagnostic procedures, and pharmaceutical treatments.\n\n1. Healthcare Facilities and Medical Staff:\n- **ሐኪም / ዶክተር** (Hakim / Dokter) — Doctor / Physician\n- **ነርስ / አስታማሚ** (Ners / Astamami) — Nurse / Patient attendant\n- **ክሊኒክ** (Klinik) — Clinic\n- **ሆስፒታል** (Hospital) — Hospital\n- **መድሃኒት ቤት / ፋርማሲ** (Medhanit bēt / Farmasi) — Pharmacy / Drugstore\n- **ላቦራቶሪ** (Laboratori) — Medical Laboratory\n\n2. Diagnostics and Medications (ምርመራ እና መድሃኒቶች):\n- **መድሃኒት** (Medhanit) — Medicine / Medication\n- **ክኒን** (Knin) — Tablet / Pill\n- **ሽሮፕ** (Shirop) — Liquid syrup\n- **መርፌ** (Merfē) — Injection / Syringe\n- **የሐኪም ማዘዣ** (Yehakim mazeja) — Doctor's prescription\n- **የደም ምርመራ** (Yedem mirmara) — Blood test\n- **የደም ግፊት** (Yedem gifit) — Blood pressure\n\n3. Pharmacist Instructions and Dosage:\n- «**ይህን ክኒን በቀን ሦስት ጊዜ ከምግብ በኋላ ይውሰዱ**» (Take this tablet three times daily after meals).\n- «**በቂ ውሃ ይጠጡ**» (Drink plenty of water).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየጤና እንክብካቤ እና ህክምና (Health and Anatomy) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (12.3.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ዶክተሩ የደም ግፊቴን ለክተው የደም ምርመራ አዘዙልኝ።",
+                    "reading": "Dokteru yedem gifitēn lektew yedem mirmara azezulign.",
+                    "translation": "The doctor measured my blood pressure and ordered a blood test for me."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (12.3.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ይህንን መድሃኒት በፋርማሲ ውስጥ በሐኪም ማዘዣ ወረቀት ብቻ መግዛት ይቻላል።",
+                    "reading": "Yihinnin medhanit befarmasi wust' behakim mazeja wereqet bicha megzat yichalal.",
+                    "translation": "This medicine can only be bought at the pharmacy with a doctor's prescription slip."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (12.3.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ነርሷ ለታማሚው የህመም ማስታገሻ መርፌ ወጋችው።",
+                    "reading": "Nerswa letamamiw yehimem mastagesha merfē wegachiw.",
+                    "translation": "The nurse gave the patient a pain-relieving injection."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የጤና እንክብካቤ እና ህክምና (Health and Anatomy)"
+                "መድሃኒት (Medhanit) = Medicine (both begin with 'Med'). መድሃኒት ቤት is literally 'Medicine House' = Pharmacy!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Major healthcare institutions in Addis Ababa, such as ጥቁር አንበሳ (Tikur Anbessa / Black Lion Hospital) and ቅዱስ ጳውሎስ (St. Paul's Hospital), are landmark tertiary referral centers serving patients from across the entire country."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የጤና እንክብካቤ እና ህክምና (Health and Anatomy)» አጠቃቀም በደረጃ 3 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«መድሃኒት ቤት» ምን ማለት ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (12.3.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (12.3.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (12.3.3)።"
+                        "Doctor's office",
+                        "Pharmacy / Drugstore",
+                        "Hospital room"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "መድሃኒት ቤት (Medhanit bēt) literally translates to 'medicine house' (pharmacy/drugstore)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የሰውነት ክፍሎች እና ጤና (Health & Medical Consultations)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 3)፡",
+                    "prompt": "«በቀን ሦስት ጊዜ ከምግብ በኋላ» የሚለው መመሪያ ምን ያዛል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (12.3.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (12.3.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (12.3.3)።"
+                        "Once a week before sleep",
+                        "Three times a day after meals",
+                        "Twice a day before eating"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "በቀን ሦስት ጊዜ (3 times a day) + ከምግብ በኋላ (after meals) is the standard prescription dosage schedule."
                 }
             ]
         },
@@ -6598,85 +6623,95 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የጤና እንክብካቤ እና ህክምና (Health and Anatomy)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 12-3)?",
+                    "prompt": "የትኛው ቃል 'Injection / Needle' የሚለውን የህክምና ቃል ይወክላል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (12.3.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (12.3.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (12.3.3)።"
+                        "መርፌ (Merfe)",
+                        "ክኒን (Knin)",
+                        "ፋሻ (Fasha)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "explanation": "መርፌ (Merfe) = needle/injection; ክኒን (Knin) = pill; ፋሻ (Fasha) = bandage."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ጤና_12_3»):",
+                    "prompt": "Type the Amharic word for 'medicine' in Fidel script (መድሃኒት):",
                     "acceptedAnswers": [
-                        "ጤና_12_3"
+                        "መድሃኒት",
+                        "medhanit",
+                        "Medhanit"
                     ],
-                    "explanation": "The target keyword was: 【ጤና_12_3】"
+                    "explanation": "መድሃኒት (Medhanit) means 'medicine'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u12-l4": {
         "id": "am-u12-l4",
-        "subject": "amharic",
-        "unit": 12,
-        "lessonNumber": 4,
-        "title": "የሰውነት ክፍሎች እና ጤና (Health & Medical Consultations) (Part 4)",
+        "unit": "am-u12",
         "level": "B1",
-        "objective": "Comprehensive mastery of የጤና እንክብካቤ እና ህክምና (Health and Anatomy).",
+        "objective": "Formulate imperative health advice, dosage instructions, and preventative lifestyle recommendations in Amharic using « ማድረግ አለብህ/አለብሽ » and « ይገባል ».",
+        "prerequisites": [
+            "am-u12-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u12-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የጤና እንክብካቤ እና ህክምና (Health and Anatomy) - ደረጃ 4) ተማሪዎች ስለ የጤና እንክብካቤ እና ህክምና (Health and Anatomy) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Giving medical counsel, instructions, and preventative health recommendations in Amharic employs modal auxiliary verbs of obligation and imperative forms.\n\n1. Expressing Obligation with « አለበት » (Allebbat / Allebbet):\n- **እረፍት ማድረግ አለብህ** (Irefit madrēg allebih) — You [masc.] must rest.\n- **መድሃኒቱን በሰዓቱ መውሰድ አለብሽ** (Medhanītun bese'atu mewsed allebish) — You [fem.] must take the medicine on time.\n- **ብዙ ፈሳሽ መውሰድ አለብዎት** (Bizu fesash mewsed allebiwot) — You [polite] must take plenty of fluids.\n\n2. Expressing Advice with « ይገባል » (Yigebal — 'it is appropriate / one ought to'):\n- **ጤናማ ምግብ መመገብ ይገባዎታል** (T'ēnama migib memegeb yigebawotal) — You ought to eat healthy food.\n- **ስኳር እና ጨው መቀነስ ይገባናል** (Sikwar ina ch'ew meqenes yigebanall) — We ought to reduce sugar and salt.\n\n3. Vital Wellness and Lifestyle Terms (የጤና አኗኗር):\n- **እረፍት** (Irefit) — Rest / Recuperation\n- **እንቅልፍ** (Inqilf) — Sleep\n- **የተመጣጠነ ምግብ** (Yetemet'at'ene migib) — Balanced diet\n- **አካላዊ እንቅስቃሴ / ስፖርት** (Akalawi inqisqasē / Sport) — Physical exercise\n- **ጭንቀት መቀነስ** (Ch'inqet meqenes) — Stress reduction",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየጤና እንክብካቤ እና ህክምና (Health and Anatomy) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (12.4.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ጉንፋኑ እንዲሻልህ በቂ እረፍት ማድረግ እና ሙቅ ሻይ መጠጣት አለብህ።",
+                    "reading": "Gunfanu indīshalih beqī irefit madrēg ina muq shay met'et'at allebih.",
+                    "translation": "For the cold to improve for you, you must get enough rest and drink hot tea."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (12.4.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የደም ግፊት እንዳይጨምር ጨው እና ቅባት መቀነስ ይገባዎታል።",
+                    "reading": "Yedem gifit indayich'emir ch'ew ina qibat meqenes yigebawotal.",
+                    "translation": "So that blood pressure does not rise, you ought to reduce salt and fat."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (12.4.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ሐኪሙ በቀን ሁለት ሊትር ንጹህ ውሃ እንድጠጣ መከሩኝ።",
+                    "reading": "Hakīmu beqen hulet lītir nits'uh wuha indit'et'a mekerugn.",
+                    "translation": "The doctor advised me to drink two liters of clean water daily."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የጤና እንክብካቤ እና ህክምና (Health and Anatomy)"
+                "«አለብህ» (Allebih) has the root 'on' — there is an obligation ON you.",
+                "«እረፍት» (Irefit) = Rest. Take a breath and rest!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Traditional Ethiopian home remedies (የባህል መድሃኒት) are widely used alongside modern clinical care. Herbs such as ጤና አዳም (Tena Adam / Rue, added to coffee for digestive comfort), ኮሶ (Kosso), and ዝንጅብል (Zinjibil / Ginger tea for throat pain) remain cherished remedies."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የጤና እንክብካቤ እና ህክምና (Health and Anatomy)» አጠቃቀም በደረጃ 4 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«መድሃኒቱን በሰዓቱ መውሰድ አለብህ» ምን ማለት ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (12.4.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (12.4.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (12.4.3)።"
+                        "You should buy more medicine",
+                        "You must take the medicine on time",
+                        "You can stop taking the medicine"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "መድሃኒቱን (the medicine) + በሰዓቱ (on time) + መውሰድ አለብህ (you must take) expresses mandatory punctuality in taking doses."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የሰውነት ክፍሎች እና ጤና (Health & Medical Consultations)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 4)፡",
+                    "prompt": "«እረፍት ማድረግ» የሚለው ሀረግ ትርጉም ምንድን ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (12.4.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (12.4.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (12.4.3)።"
+                        "To take rest / recuperate",
+                        "To do heavy labor",
+                        "To wake up early"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "እረፍት (Irefit) = rest; ማድረግ (Madrēg) = to do/make. «እረፍት ማድረግ» means to rest."
                 }
             ]
         },
@@ -6684,85 +6719,94 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የጤና እንክብካቤ እና ህክምና (Health and Anatomy)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 12-4)?",
+                    "prompt": "የትኛው የአማርኛ ሀረግ 'Drink plenty of water' የሚለውን ምክር በትክክል ይገልጻል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (12.4.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (12.4.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (12.4.3)።"
+                        "ምግብ አትብሉ (Do not eat food)",
+                        "ከቤት አትውጡ (Do not leave the house)",
+                        "ብዙ ውሃ ጠጡ (Bizu wuha t'et'u)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "«ብዙ ውሃ ጠጡ» (Bizu wuha t'et'u) means 'Drink plenty of water'."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ጤና_12_4»):",
+                    "prompt": "Type the Amharic word for 'rest / relaxation' in Fidel script (እረፍት):",
                     "acceptedAnswers": [
-                        "ጤና_12_4"
+                        "እረፍት",
+                        "irefit",
+                        "Irefit"
                     ],
-                    "explanation": "The target keyword was: 【ጤና_12_4】"
+                    "explanation": "እረፍት (Irefit) means 'rest'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u12-l5": {
         "id": "am-u12-l5",
-        "subject": "amharic",
-        "unit": 12,
-        "lessonNumber": 5,
-        "title": "የሰውነት ክፍሎች እና ጤና (Health & Medical Consultations) (Part 5)",
+        "unit": "am-u12",
         "level": "B1",
-        "objective": "Comprehensive mastery of የጤና እንክብካቤ እና ህክምና (Health and Anatomy).",
+        "objective": "Engage in an integrated patient-doctor consultation dialogue in Amharic, describing illness history, symptoms, medical examination results, and following recovery plans.",
+        "prerequisites": [
+            "am-u12-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u12-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የጤና እንክብካቤ እና ህክምና (Health and Anatomy) - ደረጃ 5) ተማሪዎች ስለ የጤና እንክብካቤ እና ህክምና (Health and Anatomy) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "This lesson consolidates all clinical and communicative skills from Unit 12 into a realistic doctor-patient dialogue in Amharic.\n\n1. Clinical Dialogue Sequence (የህክምና ውይይት ሂደት):\n- **Doctor's Inquiry:** «ምን ሆንክ? ምን ያመሃል?» (What happened? What is paining you?)\n- **Patient's Complaint:** «ዶክተር፣ ሆዴን እና ራሴን በጣም ያመኛል።» (Doctor, my stomach and head hurt me severely.)\n- **History of Onset:** «ህመሙ ከጀመረኝ ሦስት ቀን ሆኖኛል።» (It has been three days since the pain began.)\n- **Doctor's Examination:** «እስቲ ደረትህን ልመርምረው፤ ትንፋሽ ውሰድ።» (Let me examine your chest; take a breath.)\n- **Doctor's Recommendation:** «ይህንን መድሃኒት ለሰባት ቀናት ውሰድ። ካልተሻለህ ተመለስ።» (Take this medicine for seven days. If it doesn't improve, return.)\n\n2. Recovery and Improvement (ማገገም እና መሻሻል):\n- **ተሻለኝ** (Teshale-gn) — It improved for me / I feel better.\n- **ዳነ** (Dane) — He healed / recovered.\n- **ድነቴ** (Dinetē) — My recovery / wellbeing.",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየጤና እንክብካቤ እና ህክምና (Health and Anatomy) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (12.5.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ዶክተር፣ ሆዴን በጣም ስለሚያመኝ ትናንት ማታ እንቅልፍ አጣሁ።",
+                    "reading": "Dokter, hodēn bet'am silemiyamēgn tinant mata inqilf at'ahu.",
+                    "translation": "Doctor, because my stomach hurts me severely, I lost sleep last night."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (12.5.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ሐኪሙ መርምረውኝ የጨጓራ ህመም እንዳለብኝ እና ቅመም የበዛበት ምግብ እንዳላበዛ ነገሩኝ።",
+                    "reading": "Hakīmu mermirewign yech'egwara himem indallebign ina qimem yebezabbet migib indalabaza negerugn.",
+                    "translation": "The doctor examined me, told me that I have gastritis, and said not to consume overly spicy food."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (12.5.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "መድሃኒቱን ከወሰድኩ በኋላ ህመሙ በጣም ተሽሎኛል።",
+                    "reading": "Medhanītun kewesedku behwala himemu bet'am teshilognall.",
+                    "translation": "After taking the medication, the illness has improved greatly for me."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የጤና እንክብካቤ እና ህክምና (Health and Anatomy)"
+                "«ተሻለኝ» (Teshale-gn) = It improved for me (from ሻለ = to be better). A vital phrase for checking on recovery!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "In Ethiopian healthcare, family members (አስታማሚዎች / caregivers) play a deeply valued role, often visiting hospitalized relatives with homemade nourishing foods like አጃ ሾርባ (oat soup) or የዶሮ መረቅ (chicken broth)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የጤና እንክብካቤ እና ህክምና (Health and Anatomy)» አጠቃቀም በደረጃ 5 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "በህክምና ውይይት ወቅት «ምን ሆንክ?» ተብሎ ሲጠየቅ ትክክለኛው መልስ የትኛው ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (12.5.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (12.5.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (12.5.3)።"
+                        "ትናንት ወደ ትምህርት ቤት ሄድኩ።",
+                        "ራሴን እና ጉሮሮዬን በጣም አመመኝ።",
+                        "ቡና መጠጣት እፈልጋለሁ።"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "«ራሴን እና ጉሮሮዬን በጣም አመመኝ» (My head and throat hurt me severely) directly describes symptoms in response to the clinical inquiry."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የሰውነት ክፍሎች እና ጤና (Health & Medical Consultations)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 5)፡",
+                    "prompt": "«ህመሙ ተሽሎኛል» ሲባል ምን ማለት ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (12.5.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (12.5.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (12.5.3)።"
+                        "The pain is getting worse",
+                        "The illness has improved for me / I feel better",
+                        "I need to see another doctor"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "«ተሽሎኛል» (Teshilognall) means 'it has improved for me' (I am feeling better)."
                 }
             ]
         },
@@ -6770,24 +6814,29 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የጤና እንክብካቤ እና ህክምና (Health and Anatomy)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 12-5)?",
+                    "prompt": "ዶክተሩ «ካልተሻለህ ተመለስ» ሲሉ ምን ማለታቸው ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (12.5.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (12.5.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (12.5.3)።"
+                        "You are completely cured",
+                        "If it does not improve for you, return / come back",
+                        "Do not ever take medicine"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "«ካልተሻለህ ተመለስ» = 'If you do not feel better, come back'."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ጤና_12_5»):",
+                    "prompt": "Type the Amharic word for 'Doctor / Physician' in Fidel script (ሐኪም):",
                     "acceptedAnswers": [
-                        "ጤና_12_5"
+                        "ሐኪም",
+                        "hakim",
+                        "Hakim",
+                        "ዶክተር",
+                        "dokter"
                     ],
-                    "explanation": "The target keyword was: 【ጤና_12_5】"
+                    "explanation": "ሐኪም (Hakim) or ዶክተር (Dokter) means 'doctor / physician'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u13-l1": {
