@@ -16417,63 +16417,69 @@
     },
     "am-u33-l1": {
         "id": "am-u33-l1",
-        "subject": "amharic",
-        "unit": 33,
-        "lessonNumber": 1,
-        "title": "የላቀ የአማርኛ ዘይቤ እና ፈሊጦች (Advanced Idioms & Rhetoric) (Part 1)",
+        "unit": "am-u33",
         "level": "C2",
-        "objective": "Comprehensive mastery of የአነጋገር ዘይቤ (Idiomatic Expressions).",
+        "objective": "Examine the hermeneutics of *Wax and Gold* («ሰምና ወርቅ») in classical and contemporary Amharic poetry, decoding the superficial literal meaning (*ሰም* / wax) versus the concealed esoteric truth (*ወርቅ* / gold) with homophonic punning («ህብር»).",
+        "prerequisites": [
+            "am-u32-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u32-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የአነጋገር ዘይቤ (Idiomatic Expressions) - ደረጃ 1) ተማሪዎች ስለ የአነጋገር ዘይቤ (Idiomatic Expressions) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Wax and Gold (*ሰምና ወርቅ*) forms the crowning hermeneutic paradigm of Ethiopian poetics and indirect communication.\n\n1. Wax and Gold Structural Mechanics:\n- **ሰምና ወርቅ** (The dual-layered poetic method: outer wax enclosing inner gold)\n- **ሰም** (The superficial, overt, literal meaning)\n- **ወርቅ** (The concealed, esoteric, satiric, or philosophical core truth)\n- **ህብር** (The double-edged pivotal homophone joining wax and gold)\n- **ቅኔ** (Classical metered verse demanding profound linguistic decipherment).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየአነጋገር ዘይቤ (Idiomatic Expressions) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (33.1.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "በሰምና ወርቅ ቅኔ ውስጥ «ሰም» የላይኛውን ውጫዊ ትርጉም ሲይዝ፣ «ወርቅ» ደግሞ ተደብቆ የሚገኘውን ጥልቅ እና እውነተኛ ምስጢር ይገልጻል።",
+                    "reading": "Besemna werq qinē wust «sem» yelayignawun wuch'awī tirgum sīyīz, «werq» degmo tedebiqo yemīgegnewun t'iliq ina iwnetenya misit'īr yiglets'all.",
+                    "translation": "In Wax and Gold poetry, 'wax' holds the surface literal meaning, while 'gold' expresses the profound concealed esoteric truth."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (33.1.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የቅኔ ሊቃውንት ህብርን እና ሰምና ወርቅን በመጠቀም ማህበራዊ ሂስን እና ፍልስፍናዊ አስተያየቶችን በረቀቀ መንገድ ያቀርባሉ።",
+                    "reading": "Yeqinē līqawint hibirn ina semna werqn bemet'eqem mahiberawī hīsn ina filsifinawī asiteyayeton bereqeqe menged yaqerballu.",
+                    "translation": "Masters of Qenē employ homophony and Wax and Gold to present social critique and philosophical reflections with unmatched subtlety."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (33.1.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የአማርኛ ስነ-ጽሁፍ ውበት እና ጥልቀት በሰምና ወርቅ የቋንቋ ሀብት ላይ የተመሰረተ ነው 33.1.3።",
+                    "reading": "Ye'Amargna sine-ts'ihuf wubet ina t'ilqet besemna werq yeqwanqwa habt lay yetemeserete new.",
+                    "translation": "The beauty and profundity of Amharic literature rests upon the linguistic wealth of Wax and Gold."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የአነጋገር ዘይቤ (Idiomatic Expressions)"
+                "«ሰም» = Surface wax! «ወርቅ» = Concealed gold! «ህብር» = Poetic pivot word!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Donald Levine's sociological masterpiece *Wax & Gold: Tradition and Innovation in Ethiopian Culture* took this literary form as the master metaphor for Ethiopian social communication and indirect politeness."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የአነጋገር ዘይቤ (Idiomatic Expressions)» አጠቃቀም በደረጃ 1 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "በ«ሰምና ወርቅ» የቅኔ ስልት ውስጥ እውነተኛው እና የተሰወረው መልእክት ምን ይባላል?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (33.1.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (33.1.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (33.1.3)።"
+                        "ወርቅ (Gold)",
+                        "ሰም (Wax)",
+                        "ጭቃ (Mud)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "«ወርቅ» (Gold) is the hidden, authentic message beneath the surface wax."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የላቀ የአማርኛ ዘይቤ እና ፈሊጦች (Advanced Idioms & Rhetoric)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 1)፡",
+                    "prompt": "«ህብር» በሰምና ወርቅ ውስጥ ያለው ሚና ምንድን ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (33.1.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (33.1.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (33.1.3)።"
+                        "A punctuation mark",
+                        "The pivotal homophone/word holding the double semantic meaning (ባለ ሁለት ገጽታ ቃል / የሰም እና የወርቅ መገናኛ)",
+                        "A musical drum"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "ህብር acts as the pivotal homophone linking the literal wax to the esoteric gold."
                 }
             ]
         },
@@ -16481,85 +16487,95 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የአነጋገር ዘይቤ (Idiomatic Expressions)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 33-1)?",
+                    "prompt": "ሰምና ወርቅ በኢትዮጵያ ስነ-ጽሁፍ ውስጥ ምንን ያመለክታል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (33.1.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (33.1.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (33.1.3)።"
+                        "የንግድ ልውውጥ ብቻ (Commerce only)",
+                        "የተሰወረ እና የረቀቀ ጥልቅ የቅኔ ፍልስፍና (Concealed subtle poetic hermeneutics)",
+                        "የቀለም ቅንብር (Color mixing)"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR C2 target-language standard."
+                    "explanation": "Wax and Gold represents layered poetic hermeneutics and indirect subtlety."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ፈሊጥ_33_1»):",
+                    "prompt": "Type the Amharic word for 'gold' in Fidel script (ወርቅ):",
                     "acceptedAnswers": [
-                        "ፈሊጥ_33_1"
+                        "ወርቅ",
+                        "werq",
+                        "worq",
+                        "Werq"
                     ],
-                    "explanation": "The target keyword was: 【ፈሊጥ_33_1】"
+                    "explanation": "ወርቅ (Werq) means 'gold'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u33-l2": {
         "id": "am-u33-l2",
-        "subject": "amharic",
-        "unit": 33,
-        "lessonNumber": 2,
-        "title": "የላቀ የአማርኛ ዘይቤ እና ፈሊጦች (Advanced Idioms & Rhetoric) (Part 2)",
+        "unit": "am-u33",
         "level": "C2",
-        "objective": "Comprehensive mastery of የአነጋገር ዘይቤ (Idiomatic Expressions).",
+        "objective": "Appraise culturally authentic Amharic idioms («ፈሊጣዊ አነጋገሮች»), somatic metaphors (ሆድ, አይን, እጅ), and nuanced interpersonal characterizations.",
+        "prerequisites": [
+            "am-u33-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u33-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የአነጋገር ዘይቤ (Idiomatic Expressions) - ደረጃ 2) ተማሪዎች ስለ የአነጋገር ዘይቤ (Idiomatic Expressions) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Idiomatic phrasal verbs and somatic metaphors enrich everyday conversation and literary rhetoric.\n\n1. Somatic & Behavioral Idioms:\n- **ሆደ ሰፊ** (Magnanimous, patient, tolerant, capable of keeping confidences)\n- **አይነ ግቡ** (Charming, attractive, aesthetically captivating)\n- **እጅ እና ጓንት** (Inseparable, harmonious collaboration)\n- **ሆደ ቆራጥ** (Decisive, courageous, resolute)\n- **እግር አውጣ** (Flee swiftly / take to one's heels)\n- **አፍ አወጣ** (Become excessively talkative or brazen).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየአነጋገር ዘይቤ (Idiomatic Expressions) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (33.2.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ሽማግሌው መሪ እጅግ በጣም ሆደ ሰፊ በመሆናቸው የተፈጠረውን ከባድ አለመግባባት በትዕግስት እና በብልሃት አስታረቁ።",
+                    "reading": "Shimagilēw merī ijig betam hodē sefī bemehonachew yetefet'erewun kebad alemegibabat beti'igist ina bebilihat asitarequ.",
+                    "translation": "Being extraordinarily magnanimous and patient (ሆደ ሰፊ), the elder leader mediated the grave dispute with wisdom."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (33.2.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ሁለቱ ጓደኛሞች በሁሉም የስራ መስክ እንደ እጅ እና ጓንት ተስማምተው ውጤታማ ስራዎችን ያከናውናሉ።",
+                    "reading": "Huletu gwadegniamoch behullum yesira mesk inde ij ina gwant tesmamitew wit'ētama sirawochin yakenawnalu.",
+                    "translation": "The two friends collaborate in perfect harmony like hand and glove in every sphere of work."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (33.2.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "እውነተኛ ጀግንነት በአስቸጋሪ ጊዜ ሆደ ቆራጥ ሆኖ ለህዝብ ጥቅም እና ለፍትህ መቆም ነው 33.2.3።",
+                    "reading": "Iwnetenya jegninet be'asichegarī gīzē hodē qworat' hono lehizb t'iqm ina lefitih meqom new.",
+                    "translation": "True heroism is being resolute and fearless in difficult times, standing up for public good and justice."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የአነጋገር ዘይቤ (Idiomatic Expressions)"
+                "«ሆደ ሰፊ» = Magnanimous & patient! «አይነ ግቡ» = Captivating! «እጅ እና ጓንት» = Inseparable!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "In Amharic somatic psychology, the belly (*ሆድ*) is the seat of emotions, secrets, and endurance, while the heart (*ልብ*) is the seat of intellect and will."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የአነጋገር ዘይቤ (Idiomatic Expressions)» አጠቃቀም በደረጃ 2 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "ብዙ ነገር የሚያሳልፍ እና ትዕግስተኛ የሆነ ሰው በፈሊጥ ምን ይባላል?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (33.2.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (33.2.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (33.2.3)።"
+                        "ሆደ ሰፊ (Magnanimous/patient)",
+                        "እግር አውጣ (Runner)",
+                        "አይነ ግቡ (Attractive)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "«ሆደ ሰፊ» characterizes a magnanimous, patient person who absorbs stress without anger."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የላቀ የአማርኛ ዘይቤ እና ፈሊጦች (Advanced Idioms & Rhetoric)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 2)፡",
+                    "prompt": "«እጅ እና ጓንት» የሚለው ፈሊጥ ምን አይነት ግንኙነትን ያመለክታል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (33.2.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (33.2.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (33.2.3)።"
+                        "Hostility",
+                        "Inseparable harmony, close friendship, and perfect cooperation (እጅግ በጣም የተቀራረበ እና የተስማማ ህብረት)",
+                        "Buying winter clothing"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "«እጅ እና ጓንት» denotes seamless partnership and closeness."
                 }
             ]
         },
@@ -16567,85 +16583,95 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የአነጋገር ዘይቤ (Idiomatic Expressions)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 33-2)?",
+                    "prompt": "ውብ እና ሳቢ የሆነ ሰው በአማርኛ ፈሊጥ ምን ተብሎ ይገለጻል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (33.2.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (33.2.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (33.2.3)።"
+                        "አይነ ግቡ (Attractive / captivating)",
+                        "እጅ አጭር (Miserly)",
+                        "ጆሮ ደግ (Mumps)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR C2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "«አይነ ግቡ» describes an attractive, visually appealing person."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ፈሊጥ_33_2»):",
+                    "prompt": "Type the Amharic word for 'idiom / figurative expression' in Fidel script (ፈሊጥ):",
                     "acceptedAnswers": [
-                        "ፈሊጥ_33_2"
+                        "ፈሊጥ",
+                        "felit",
+                        "felīt",
+                        "Felit"
                     ],
-                    "explanation": "The target keyword was: 【ፈሊጥ_33_2】"
+                    "explanation": "ፈሊጥ (Felīt') means 'idiom / figurative phrase'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u33-l3": {
         "id": "am-u33-l3",
-        "subject": "amharic",
-        "unit": 33,
-        "lessonNumber": 3,
-        "title": "የላቀ የአማርኛ ዘይቤ እና ፈሊጦች (Advanced Idioms & Rhetoric) (Part 3)",
+        "unit": "am-u33",
         "level": "C2",
-        "objective": "Comprehensive mastery of የአነጋገር ዘይቤ (Idiomatic Expressions).",
+        "objective": "Examine formal Amharic rhetoric, persuasive oratorical cadence, rhythmic parallelism («ተነባቢነት»), and classical public discourse techniques.",
+        "prerequisites": [
+            "am-u33-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u33-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የአነጋገር ዘይቤ (Idiomatic Expressions) - ደረጃ 3) ተማሪዎች ስለ የአነጋገር ዘይቤ (Idiomatic Expressions) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Formal rhetoric balances elevated vocabulary, oratorical cadence, rhythmic parallelism, and persuasive reasoning.\n\n1. Rhetorical Craft Principles:\n- **የንግግር ጥበብ** (The art of public rhetoric and eloquent persuasion)\n- **አንደበተ ርቱዕ** (Eloquent, articulate, persuasive orator)\n- **የቃላት አመራረጥ** (Precision in high-register vocabulary selection)\n- **ተነባቢነት እና ዜማዊነት** (Rhythmic sentence balance and antithetical parallelism)\n- **ማሳመን** (Persuasive rhetoric swaying assembly deliberations).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየአነጋገር ዘይቤ (Idiomatic Expressions) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (33.3.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ተናጋሪው አንደበተ ርቱዕ በመሆኑ በጉባኤው የተገኙትን ታዳሚዎች በቃላት ሀይል እና በጥልቅ ማብራሪያ በቀላሉ አሳመነ።",
+                    "reading": "Tenagarīw andebete ritu' bemehonu beguba'ēw yetegegntun tadāmīwochin beqalat hayil ina bet'ilq mabirarīya beqelalu asammene.",
+                    "translation": "Because the speaker was eloquent and articulate (አንደበተ ርቱዕ), he easily persuaded the audience through the power of words."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (33.3.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የተዋበ የንግግር ጥበብ ጥልቅ እውቀትን፣ የህዝብን ስሜት መረዳትን እና ተገቢውን የቃላት መረጣ በጋራ ያጣምራል።",
+                    "reading": "Yetewabe yenigigir t'ibeb t'iliq iwiqetn, yehizbn simēt meredatn ina tegebīwun yeqalat meret'a begara yat'amirall.",
+                    "translation": "Fine rhetoric combines deep knowledge, empathy for public sentiment, and apt choice of diction."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (33.3.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የአማርኛ ንግግር ዜማዊነት እና የቃላት አወቃቀር መልእክቱ በቀጥታ ወደ አድማጩ ልብ እንዲደርስ ያደርጋል 33.3.3።",
+                    "reading": "Ye'Amargna nigigir zēmawīnet ina yeqalat awewaqer meli'ikitu beqet'ita wede admach'u lib indīderes yadergall.",
+                    "translation": "The cadence and syntax of Amharic speech ensure the message penetrates directly to the listener's heart."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የአነጋገር ዘይቤ (Idiomatic Expressions)"
+                "«አንደበተ ርቱዕ» = Eloquent orator! «የንግግር ጥበብ» = Rhetorical eloquence! «ማሳመን» = Persuasion!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Traditional Ethiopian assembly speeches (*የጉባኤ ንግግር*) rely on rhythmic cadences and balanced antitheses that evoke the classical style of court rhetoricians."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የአነጋገር ዘይቤ (Idiomatic Expressions)» አጠቃቀም በደረጃ 3 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "በንግግሩ የተዋጣለት እና አድማጭን በቀላሉ የሚያሳምን ተናጋሪ ምን ይባላል?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (33.3.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (33.3.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (33.3.3)።"
+                        "አንደበተ ርቱዕ (Eloquent orator)",
+                        "አንደበተ ደደብ (Inarticulate)",
+                        "ዝምተኛ (Silent person)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "«አንደበተ ርቱዕ» designates a gifted, eloquent orator."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የላቀ የአማርኛ ዘይቤ እና ፈሊጦች (Advanced Idioms & Rhetoric)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 3)፡",
+                    "prompt": "«የንግግር ጥበብ» ዋና ዓላማ ምንድን ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (33.3.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (33.3.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (33.3.3)።"
+                        "Making noise",
+                        "Communicating ideas persuasively, clearly, and movingly to listeners (ሀሳብን በግልጽ፣ በሚያሳምን እና በሚማርክ መንገድ ማስተላለፍ)",
+                        "Whispering secrets"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "Rhetoric aims to communicate ideas persuasively and eloquently."
                 }
             ]
         },
@@ -16653,85 +16679,95 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የአነጋገር ዘይቤ (Idiomatic Expressions)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 33-3)?",
+                    "prompt": "የአደባባይ ንግግርን አሳማኝ የሚያደርገው ዋናው ጉዳይ ምንድን ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (33.3.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (33.3.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (33.3.3)።"
+                        "መጮህ ብቻ (Shouting only)",
+                        "ጥልቅ እውቀት እና ተገቢ የቃላት አመራረጥ (Deep knowledge & precise diction)",
+                        "ስህተት መናገር (Making errors)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR C2 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "Substantive knowledge and elegant diction create persuasive speech."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ፈሊጥ_33_3»):",
+                    "prompt": "Type the Amharic word for 'speech / address' in Fidel script (ንግግር):",
                     "acceptedAnswers": [
-                        "ፈሊጥ_33_3"
+                        "ንግግር",
+                        "nigigir",
+                        "nigiggir",
+                        "Nigigir"
                     ],
-                    "explanation": "The target keyword was: 【ፈሊጥ_33_3】"
+                    "explanation": "ንግግር (Nigiggir) means 'speech / address'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u33-l4": {
         "id": "am-u33-l4",
-        "subject": "amharic",
-        "unit": 33,
-        "lessonNumber": 4,
-        "title": "የላቀ የአማርኛ ዘይቤ እና ፈሊጦች (Advanced Idioms & Rhetoric) (Part 4)",
+        "unit": "am-u33",
         "level": "C2",
-        "objective": "Comprehensive mastery of የአነጋገር ዘይቤ (Idiomatic Expressions).",
+        "objective": "Examine classical literary allusions, biblical and Ge'ez idiomatic echoes («የግዕዝ ፈሊጦች»), and historic cultural maxims embedded in advanced Amharic prose.",
+        "prerequisites": [
+            "am-u33-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u33-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የአነጋገር ዘይቤ (Idiomatic Expressions) - ደረጃ 4) ተማሪዎች ስለ የአነጋገር ዘይቤ (Idiomatic Expressions) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Elevated Amharic prose weaves classical Ge'ez vocabulary and scriptural allusions into compelling narrative texture.\n\n1. Classical & Allusive Idioms:\n- **የግዕዝ ፈሊጣዊ አሻራዎች** (Classical Ge'ez idioms: *አበው* / forefathers, *ህብር* / harmony, *ጽናት* / fortitude)\n- **መጽሐፍ ቅዱሳዊ ፈሊጦች** (Scriptural allusions: *የሰሎሞን ጥበብ* / wisdom of Solomon, *የኢዮብ ትዕግስት* / patience of Job)\n- **ታሪካዊ ቅሪቶች** (Historical echoes of Axumite stelae, Lalibela monoliths, Gondar castles)\n- **የአባቶች አባባል** (Distilled ancestral maxims and ecclesiastical rhetoric).",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየአነጋገር ዘይቤ (Idiomatic Expressions) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (33.4.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ተመራማሪው በጽሑፋቸው ውስጥ ጥንታዊ የግዕዝ ቃላትን እና ታሪካዊ ፈሊጦችን በማካተት የጽሑፉን ክብደት እና ጥልቀት ከፍ አድርገዋል።",
+                    "reading": "Temaramarīw bets'ihufachew wust t'intawī yeGī'iz qalatn ina tarikawī felīt'ochin bemakatet yets'ihufun kibdet ina t'ilqet kef adrigewall.",
+                    "translation": "By incorporating ancient Ge'ez words and historical allusions into their text, the researcher elevated its gravity and profundity."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (33.4.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "«የኢዮብ ትዕግስት» ያለው ሰው መከራዎችን እና ፈተናዎችን በሙሉ በጽናት እና በእምነት ያሳልፋል።",
+                    "reading": "«Ye'Īyob ti'igist» yallew sew mekerawchin ina fetenawochin bemullu bets'inat ina be'imnet yasalifall.",
+                    "translation": "A person possessing 'the patience of Job' endures all tribulations and tests with steadfast resilience and faith."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (33.4.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የአማርኛ ቋንቋ ጥንታዊ የግዕዝ ስሮችን ከዘመናዊ አገላለጾች ጋር በማዋሃድ እጅግ የበለጸገ የስነ-ጽሁፍ ቅርስ ፈጥሯል 33.4.3።",
+                    "reading": "Ye'Amargna qwanqwa t'intawī yeGī'iz sirochin kezemenawī agelaletsoch gar bemawahad ijig yebeletsege yesine-ts'ihuf qirs fet'irwall.",
+                    "translation": "By fusing ancient Ge'ez roots with modern expressions, the Amharic language has forged an extraordinarily rich literary heritage."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የአነጋገር ዘይቤ (Idiomatic Expressions)"
+                "«የኢዮብ ትዕግስት» = Supreme patience! «የሰሎሞን ጥበብ» = Supreme wisdom! «ግዕዝ» = Classical linguistic root!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "High-register formal Amharic writing (*የከበረ አማርኛ*) freely draws upon Ge'ez vocabulary and scriptural allusions to endow prose with historical authority."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የአነጋገር ዘይቤ (Idiomatic Expressions)» አጠቃቀም በደረጃ 4 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "የማይናወጥ ከፍተኛ ትዕግስትን ለመግለጽ የሚጠቀሰው ታሪካዊ ፈሊጥ የትኛው ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (33.4.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (33.4.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (33.4.3)።"
+                        "የኢዮብ ትዕግስት (Patience of Job)",
+                        "የፈጣን ሯጭ እግር (Runner's leg)",
+                        "የነፋስ ፍጥነት (Wind speed)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "«የኢዮብ ትዕግስት» denotes unshakeable, profound patience."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የላቀ የአማርኛ ዘይቤ እና ፈሊጦች (Advanced Idioms & Rhetoric)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 4)፡",
+                    "prompt": "የግዕዝ ቋንቋ ለአማርኛ ስነ-ጽሁፍ ያበረከተው ዋና አስተዋጽኦ ምንድን ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (33.4.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (33.4.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (33.4.3)።"
+                        "Stopping reading",
+                        "Rich classical vocabulary, morphological roots, and rhetorical elegance (ጥልቅ የቃላት ሀብት እና ሰዋሰዋዊ ስር)",
+                        "Erasing grammar"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "Ge'ez provides the classical morphological and lexical foundation for formal Amharic."
                 }
             ]
         },
@@ -16739,85 +16775,95 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የአነጋገር ዘይቤ (Idiomatic Expressions)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 33-4)?",
+                    "prompt": "በአማርኛ ቋንቋ ውስጥ ከፍተኛ ጥበብን ለመግለጽ የሚጠቀሰው ምሳሌ የትኛው ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (33.4.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (33.4.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (33.4.3)።"
+                        "የሰሎሞን ጥበብ (Wisdom of Solomon)",
+                        "የገበያ ጩኸት (Market noise)",
+                        "የመንገድ አቧራ (Road dust)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR C2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "«የሰሎሞን ጥበብ» signifies supreme discernment and wisdom."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ፈሊጥ_33_4»):",
+                    "prompt": "Type the Amharic word for 'patience' in Fidel script (ትዕግስት):",
                     "acceptedAnswers": [
-                        "ፈሊጥ_33_4"
+                        "ትዕግስት",
+                        "ti'igist",
+                        "tigist",
+                        "Ti'igist"
                     ],
-                    "explanation": "The target keyword was: 【ፈሊጥ_33_4】"
+                    "explanation": "ትዕግስት (Ti'igist) means 'patience / endurance'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u33-l5": {
         "id": "am-u33-l5",
-        "subject": "amharic",
-        "unit": 33,
-        "lessonNumber": 5,
-        "title": "የላቀ የአማርኛ ዘይቤ እና ፈሊጦች (Advanced Idioms & Rhetoric) (Part 5)",
+        "unit": "am-u33",
         "level": "C2",
-        "objective": "Comprehensive mastery of የአነጋገር ዘይቤ (Idiomatic Expressions).",
+        "objective": "Synthesize Wax and Gold hermeneutics, somatic idioms, oratorical rhetoric, and classical Ge'ez allusions into a grand oratorical masterclass thesis in Amharic.",
+        "prerequisites": [
+            "am-u33-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u33-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (የአነጋገር ዘይቤ (Idiomatic Expressions) - ደረጃ 5) ተማሪዎች ስለ የአነጋገር ዘይቤ (Idiomatic Expressions) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "This masterclass synthesizes Wax and Gold poetics, idiomatic expressions, rhetorical cadence, and classical literary roots into supreme Amharic stylistic fluency.\n\n1. Rhetorical Masterclass Strands:\n- **Poetic Hermeneutics:** «የሰምና ወርቅ ረቂቅ ምስጢር...»\n- **Idiomatic Depth:** «ሆደ ሰፊነት እና ባህላዊ ፈሊጦች...»\n- **Persuasive Oratory:** «አንደበተ ርቱዕነት እና የጉባኤ ንግግር...»\n- **Classical Heritage:** «የግዕዝ ስሮች እና ታሪካዊ ፈሊጦች...»",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የየአነጋገር ዘይቤ (Idiomatic Expressions) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (33.5.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "በዚህ የላቀ የስነ-ጽሁፍ አውደ ጥናት ላይ ተሳታፊዎች በሰምና ወርቅ ውበት፣ በፈሊጣዊ አነጋገሮች እና በአደባባይ ንግግር ጥበብ ላይ ተወዳድረዋል።",
+                    "reading": "Bezih yelaqe yesine-ts'ihuf awde t'inat lay tesatafīwoch besemna werq wubet, befelīt'awī anegageroch ina be'adebabayi nigigir t'ibeb lay tewedadirewall.",
+                    "translation": "In this advanced literary masterclass, participants competed in the beauty of Wax and Gold, cultural idioms, and public oratorical prowess."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (33.5.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የቃላት ምስጢር፣ የዘይቤ ቅኔ እና የአነጋገር ለዛ ተደምረው የአማርኛን ቋንቋ የጥበብ እና የውበት ማማ ያደርጉታል 33.5.2።",
+                    "reading": "Yeqalat misit'īr, yezeybē qinē ina ye'anegager leza tedemirew ye'Amargnan qwanqwa yet'ibeb ina yewubet mama yadergutall.",
+                    "translation": "The esoteric meaning of words, figurative rhyme, and melodious elegance combine to make Amharic a pinnacle of wisdom and beauty."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (33.5.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የላቀ የአማርኛ ቋንቋ ችሎታ ባህልን፣ ታሪክን እና የሰውን ልጅ መንፈሳዊ ጥልቀት በሙሉ ልብ ለመግለጽ የሚያስችል ታላቅ ጸጋ ነው 33.5.3።",
+                    "reading": "Yelaqe ye'Amargna qwanqwa chilota bahiln, tarikn ina yesew lij menfesawī t'ilqetn bemullu lib lemeglets' yemīyaschil talaq ts'ega new.",
+                    "translation": "Advanced Amharic fluency is a magnificent gift enabling full expression of culture, history, and the spiritual depth of humanity."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for የአነጋገር ዘይቤ (Idiomatic Expressions)"
+                "Rhetoric Quad: Sem-na-Werq (ሰምና ወርቅ) + Idioms (ሆደ ሰፊ) + Oratory (አንደበተ ርቱዕ) + Classical Roots (ግዕዝ) = Masterful Fluency!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Mastery of Wax and Gold and classical idioms represents the absolute summit of Amharic linguistic sophistication (*የቋንቋ ልዕልና*)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «የአነጋገር ዘይቤ (Idiomatic Expressions)» አጠቃቀም በደረጃ 5 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "የአማርኛ ቋንቋን የንግግር ውበት የሚያጎላው የትኛው ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (33.5.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (33.5.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (33.5.3)።"
+                        "Wax and Gold, idioms, and rich vocabulary (ሰምና ወርቅ፣ ፈሊጦች እና የቃላት ሀብት)",
+                        "Making simple noise (ጩኸት)",
+                        "Using only one word (አንድ ቃል ብቻ)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "Wax and Gold, idioms, and elevated diction create rhetorical beauty."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«የላቀ የአማርኛ ዘይቤ እና ፈሊጦች (Advanced Idioms & Rhetoric)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 5)፡",
+                    "prompt": "በዚህ ክፍል ካጠናናቸው ውስጥ 'ሰምና ወርቅ' ለምን ይጠቅማል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (33.5.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (33.5.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (33.5.3)።"
+                        "To confuse readers without purpose",
+                        "To convey profound, subtle, layered truths with poetic brilliance (ጥልቅ እውነቶችን በረቀቀ እና በውብ መንገድ ለመግለጽ)",
+                        "To buy jewelry"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "Wax and Gold communicates multi-layered truth with poetic subtlety."
                 }
             ]
         },
@@ -16825,24 +16871,27 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«የአነጋገር ዘይቤ (Idiomatic Expressions)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 33-5)?",
+                    "prompt": "የአማርኛ ቋንቋ ከፍተኛው የስነ-ጽሁፍ እና የንግግር ጥበብ ደረጃ በምን ይገለጻል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (33.5.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (33.5.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (33.5.3)።"
+                        "በስህተት መጻፍ (Writing errors)",
+                        "በድምፅ ማነስ (Low volume)",
+                        "በሰምና ወርቅ፣ በፈሊጣዊ አነጋገር እና በአንደበተ ርቱዕነት (Wax and Gold, idioms & oratorical mastery)"
                     ],
                     "answerIndex": 2,
-                    "explanation": "Affirms CEFR C2 target-language standard."
+                    "explanation": "Mastery of Wax and Gold, idioms, and eloquence marks peak linguistic command."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ፈሊጥ_33_5»):",
+                    "prompt": "Type the Amharic word for 'eloquence / rhetorical elegance' in Fidel script (ለዛ):",
                     "acceptedAnswers": [
-                        "ፈሊጥ_33_5"
+                        "ለዛ",
+                        "leza",
+                        "Leza"
                     ],
-                    "explanation": "The target keyword was: 【ፈሊጥ_33_5】"
+                    "explanation": "ለዛ (Leza) means 'grace / charm / rhetorical elegance'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u34-l1": {
