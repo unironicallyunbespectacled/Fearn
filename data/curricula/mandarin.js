@@ -10720,63 +10720,69 @@
     },
     "zh-u22-l1": {
         "id": "zh-u22-l1",
-        "subject": "mandarin",
-        "unit": 22,
-        "lessonNumber": 1,
-        "title": "城市导航与智慧出行 (Urban Transit & Digital Life) (Part 1)",
+        "unit": "zh-u22",
         "level": "B2",
-        "objective": "Comprehensive mastery of 城市交通与智慧生活 (Urban Transit & Digital Life).",
+        "objective": "Master urban metro navigation terminology and syntactic structures (换乘站 interchange station, 途经 stations en route, 始发站/终点站 origin/terminus, 首末班车 first/last train, 扫码乘车 scan QR to ride).",
+        "prerequisites": [
+            "zh-u21-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u21-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「城市导航与智慧出行 (Urban Transit & Digital Life)」（第1部分）的核心句法结构与城市交通与智慧生活 (Urban Transit & Digital Life)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "中国主要大城市拥有世界上规模最庞大、技术最先进的城市轨道交通网络！\n\n1. 轨道交通核心术语与句式 (Metro & Urban Rail Terminology):\n- **换乘 (huànchéng)**：在地铁不同线路之间转换：\n  - 在人民广场站**换乘**地铁二号线 (Transfer to Line 2 at People's Square Station)。\n- **途经 / 经由 (tújīng / jīngyóu)**：列车行驶经过的站点：\n  - 本趟列车**途经**金融街、科技园，最终抵达国际机场。\n- **始发站 (shǐfāzhàn)** / **终点站 (zhōngdiǎnzhàn)**：线路起点与终点。\n- **首末班车时间 (shǒu-mò bānchē)**：首班车（First train）与末班车（Last train）。\n\n2. 智慧扫码与进出站 (Smart Access & Ticketing):\n- **扫码过闸 (sǎomǎ guòzhá)** / **刷脸进站** / **无感支付**。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (22.1.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "地铁车厢广播清晰播报：‘列车运行前方是世纪大道站，该站是二、四、六、九号线的四线换乘枢纽站，请前往浦东国际机场方向的乘客在此站换乘二号线。’",
+                    "reading": "Dìtiě chēxiāng guāngbō qīngxī bōbào: ‘Lièchē yùnxíng qiánfāng shì Shìjì Dàdào zhàn, gāi zhàn shì èr, sì, liù, jiǔ hào xiàn de sì-xiàn huànchéng shūniǔzhàn, qǐng qiánwǎng Pǔdōng Guójì Jīchǎng fāngxiàng de chéngkè zài cǐ zhàn huànchéng èr hào xiàn.’",
+                    "translation": "The metro broadcast announced: 'The next station is Century Avenue, a 4-line transfer hub for Lines 2, 4, 6, and 9; passengers heading for Pudong International Airport please transfer to Line 2 here.'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (22.1.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫在手机交通App上查询路线：‘从北京大学出发乘坐四号线，在海淀黄庄换乘十号线，全程仅需四十分钟，刷手机乘车码即可直接过闸！’",
+                    "reading": "Dàwèi zài shǒujī jiāotōng App shang cháxún lùxiàn: ‘Cóng Běijīng Dàxué chūfā chéngzuò sì hào xiàn, zài Hǎidiàn Huángzhuāng huànchéng shí hào xiàn, quánchéng jǐn xū sìshí fēnzhōng, shuā shǒujī chéngchēmǎ jíkě zhíjiē guòzhá!’",
+                    "translation": "David checked routes on his app: 'Departing from Peking University on Line 4 and transferring to Line 10 at Haidian Huangzhuang takes only 40 minutes, and scanning the mobile QR code allows direct gate passing!'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (22.1.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "站务员热情地为外地游客指路：‘十号线是环线列车，首班车清晨五点十分发车，末班车晚上十一点整由终点站发出。’",
+                    "reading": "Zhànwùyuán rèqíng de wèi wàidì yóukè zhǐlù: ‘Shí hào xiàn shì huánxiàn lièchē, shǒubānchē qīngchén wǔ diǎn shí fēn fāchē, mòbānchē wǎnshang shíyī diǎn zhěng yóu zhōngdiǎnzhàn fāchū.’",
+                    "translation": "The station agent directed: 'Line 10 is a loop line; the first train departs at 5:10 AM and the last train departs from the terminus at 11:00 PM.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 城市交通与智慧生活 (Urban Transit & Digital Life)"
+                "Metro Navigation: 换乘 (Transfer), 途经 (Pass through), 始发/终点 (Start/End), 扫码过闸 (Scan to pass)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Modern Chinese cities utilize unified transit QR codes (乘车码) and interoperable digital transport cards across metro, bus, ferry, and maglev lines nationwide."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「城市交通与智慧生活 (Urban Transit & Digital Life)」在第1小节中的标准汉语语法规范？",
+                    "prompt": "在地铁中表达‘从现在的地铁线路转换到另一条线路’的专业动词是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (22.1.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (22.1.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (22.1.3)。"
+                        "倒退",
+                        "换乘 (Huànchéng — Transfer lines)",
+                        "迷路"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "换乘 (huànchéng) is the standard term for transferring between transit lines."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「城市导航与智慧出行 (Urban Transit & Digital Life)」语用情境与完整句式的选项（练习 1）：",
+                    "prompt": "句子‘本趟列车是由北京南站开往上海虹桥站的高铁列车’中，‘北京南站’是这趟车的：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (22.1.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (22.1.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (22.1.3)。"
+                        "始发站 (Originating station / Start station)",
+                        "终点站",
+                        "维修站"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "始发站 (shǐfāzhàn) is the departure/originating station."
                 }
             ]
         },
@@ -10784,85 +10790,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「城市交通与智慧生活 (Urban Transit & Digital Life)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 22-1）？",
+                    "prompt": "关于城市轨道交通系统的术语，下列哪一项完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (22.1.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (22.1.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (22.1.3)。"
+                        "换乘站是指只能上一条线路的车站",
+                        "始发站是终点站的反义词，首末班车指最早与最晚发车时刻 (始发: origin vs 终点: terminus; 首末班车: first/last trains)",
+                        "扫码过闸必须使用纸质车票"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "Accurately defines the key operational terms of the metro network."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («地铁_22_1»):",
+                    "prompt": "Type the 2-character Hanzi term for 'transferring between transport lines' (换乘):",
                     "acceptedAnswers": [
-                        "地铁_22_1"
+                        "换乘",
+                        "huancheng",
+                        "huànchéng",
+                        "Huànchéng",
+                        "Huancheng",
+                        "換乘"
                     ],
-                    "explanation": "The target keyword was: 【地铁_22_1】"
+                    "explanation": "换乘 (huànchéng) means 'to transfer / change trains'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u22-l2": {
         "id": "zh-u22-l2",
-        "subject": "mandarin",
-        "unit": 22,
-        "lessonNumber": 2,
-        "title": "城市导航与智慧出行 (Urban Transit & Digital Life) (Part 2)",
+        "unit": "zh-u22",
         "level": "B2",
-        "objective": "Comprehensive mastery of 城市交通与智慧生活 (Urban Transit & Digital Life).",
+        "objective": "Master high-speed rail (HSR) terminology and ticketing discourse (高铁 HSR, 复兴号 Fuxing EMU, 商务座 Business Class, 候补购票 standby waitlist, 刷身份证进站 e-ticket ID verification).",
+        "prerequisites": [
+            "zh-u22-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u22-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「城市导航与智慧出行 (Urban Transit & Digital Life)」（第2部分）的核心句法结构与城市交通与智慧生活 (Urban Transit & Digital Life)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "中国高铁（China High-Speed Railway）以其飞驰的「复兴号」列车与四通八达的八纵八横网络闻名世界！\n\n1. 高铁席别与票务术语 (HSR Seat Classes & Ticketing System):\n- **席别 (xíbié)**：**商务座 (Business Class)**、**一等座 (First Class)**、**二等座 (Second Class)**。\n- **候补购票 (hòubǔ gòupiào)**：当车票售罄时，在铁路12306官方平台登记需求排队系统自动兑现车票（Standby Waitlist Ticketing）。\n- **电子客票 (diànzǐ kèpiào)**：无需换取纸质车票，直接**刷二代身份证或护照**便捷进出站。\n\n2. 高铁运行与旅行语汇 (HSR Travel Expressions):\n- **时速达350公里** / **准点率极高** / **千里江陵一日还**。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (22.2.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "大卫通过铁路官方App订购车票：‘京沪高铁复兴号列车最高运营时速达350公里，从北京南站到上海虹桥站一千三百多公里仅需四个半小时，刷护照即可秒速进站！’",
+                    "reading": "Dàwèi tōngguò tiělù guānfāng App dìnggòu chēpiào: ‘Jīng-Hù gāotiě Fùxīnghào lièchē zuìgāo yùnyíng shísù dá 350 gōnglǐ, cóng Běijīng Nánzhàn dào Shànghǎi Hóngqiáo zhàn yìqiān sānbǎi duō gōnglǐ jǐn xū sì gè bàn xiǎoshí, shuā hùzhào jíkě miǎosù jìnzhàn!’",
+                    "translation": "David booked tickets: 'The Beijing-Shanghai HSR Fuxing train reaches 350 km/h; the 1,300+ km from Beijing South to Shanghai Hongqiao takes just 4.5 hours, and scanning passports allows second-speed entry!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (22.2.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "客运广播在大厅响起：‘乘坐G123次列车前往杭州东站的旅客请注意，您的列车已经开始检票，请持有效身份证件在A12检票口排队进站。’",
+                    "reading": "Kèyùn guāngbō zài dàtīng xiǎngqǐ: ‘Chéngzuò G123 cì lièchē qiánwǎng Hángzhōu Dōngzhàn de lǚkè qǐng zhùyì, nín de lièchē yǐjīng kāishǐ jiǎnpiào, qǐng chí yǒuxiào shēnfèn zhèngjiàn zài A12 jiǎnpiàokǒu páiduì jìnzhàn.’",
+                    "translation": "The passenger announcement echoed: 'Passengers for train G123 to Hangzhou East, your train has started boarding; please hold valid ID and line up at boarding gate A12.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (22.2.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "春运期间，李明向朋友分享经验：‘即使热门车次的车票暂时售罄也不必惊慌，只要在12306平台上提交候补订单，系统会在有退票或加开列车时第一时间自动成功兑现！’",
+                    "reading": "Chūnyùn qījiān, Lǐ Míng xiàng péngyou fēnxiǎng jīngyàn: ‘Jíshǐ rèmén chēcì de chēpiào zànshí shòuqìng yě búbì jīnghuāng, zhǐyào zài 12306 píngtái shang tíjiāo hòubǔ dìngdān, xìtǒng huì zài yǒu tuìpiào huò jiākāi lièchē shí dì-yī shíjiān zìdòng chénggōng duìxiàn!’",
+                    "translation": "Li Ming shared: 'Even if popular tickets sell out, just submit a standby waitlist order on 12306, and the system will automatically fulfill the ticket immediately upon cancellations or added trains!'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 城市交通与智慧生活 (Urban Transit & Digital Life)"
+                "HSR Mastery: 高铁复兴号 (350km/h), 商务/一等/二等座 (Classes), 候补购票 (Standby), 刷证进站 (ID Entry)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "The China Railway 12306 system is the world's largest real-time passenger ticketing network, processing billions of transactions smoothly during the annual Spring Festival Travel Rush (春运 Chūnyùn)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「城市交通与智慧生活 (Urban Transit & Digital Life)」在第2小节中的标准汉语语法规范？",
+                    "prompt": "在中国铁路购票系统中，当心仪车次售罄时，旅客提交排队需求由系统自动抢票兑现的功能被称为：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (22.2.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (22.2.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (22.2.3)。"
+                        "盲目等待",
+                        "候补购票 (Hòubǔ gòupiào — Standby waitlist ticketing)",
+                        "退票惩罚"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "候补购票 (hòubǔ gòupiào) is the official automated standby ticketing system on China Railway 12306."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「城市导航与智慧出行 (Urban Transit & Digital Life)」语用情境与完整句式的选项（练习 2）：",
+                    "prompt": "中国自主研发、具有完全知识产权并在高铁线路上常态化以350公里时速运营的高铁动车组型号是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (22.2.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (22.2.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (22.2.3)。"
+                        "蒸汽机车",
+                        "复兴号 (Fùxīng Hào — Fuxing bullet train)",
+                        "拖拉机"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "复兴号 (Fùxīng Hào) is China's flagship indigenous high-speed EMU operating at 350 km/h."
                 }
             ]
         },
@@ -10870,85 +10888,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「城市交通与智慧生活 (Urban Transit & Digital Life)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 22-2）？",
+                    "prompt": "关于中国高铁旅行与乘车流程，下列哪一项完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (22.2.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (22.2.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (22.2.3)。"
+                        "必须提前三天去火车站排队买纸质票",
+                        "高铁上严禁使用手机",
+                        "全面推行电子客票，乘客持身份证或护照在闸机刷证核验即可便捷进站乘车 (E-tickets enabled; swipe ID/passport at automated gates)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "E-ticketing allows travelers to board seamlessly by scanning their ID card or passport."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («地铁_22_2»):",
+                    "prompt": "Type the 3-character Hanzi name of China's premier 350km/h high-speed bullet train (复兴号):",
                     "acceptedAnswers": [
-                        "地铁_22_2"
+                        "复兴号",
+                        "fuxinghao",
+                        "fùxīnghào",
+                        "Fùxīnghào",
+                        "Fuxinghao",
+                        "復興號"
                     ],
-                    "explanation": "The target keyword was: 【地铁_22_2】"
+                    "explanation": "复兴号 (Fùxīng Hào) is China's flagship high-speed train."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u22-l3": {
         "id": "zh-u22-l3",
-        "subject": "mandarin",
-        "unit": 22,
-        "lessonNumber": 3,
-        "title": "城市导航与智慧出行 (Urban Transit & Digital Life) (Part 3)",
+        "unit": "zh-u22",
         "level": "B2",
-        "objective": "Comprehensive mastery of 城市交通与智慧生活 (Urban Transit & Digital Life).",
+        "objective": "Master the language of ride-hailing apps, digital mapping navigation, and shared bikes (网约车 ride-hailing, 实时定位 real-time positioning, 路线规划 route planning, 共享单车 shared bike, 电子围栏 electronic geo-fence).",
+        "prerequisites": [
+            "zh-u22-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u22-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「城市导航与智慧出行 (Urban Transit & Digital Life)」（第3部分）的核心句法结构与城市交通与智慧生活 (Urban Transit & Digital Life)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "智能手机与移动互联网深度重塑了中国城市的日常微出行与智慧生活！\n\n1. 网约车与地图导航指令 (Ride-Hailing & Map Navigation Expressions):\n- **定位出发地与目的地**：系统**精准定位 (jīngzhǔn dìngwèi)** 当前上车点。\n- **路线规划 (lùxiàn guīhuà)**：根据实时路况推荐「用时最短」「躲避拥堵」或「高速优先」方案。\n- **与司机沟通**：‘师傅您好，我已经到达**A出口路边辅路**，尾号是8888。’\n\n2. 共享单车与绿色骑行 (Shared Bikes & Micro-Mobility):\n- **扫码开锁 (sǎomǎ kāisuǒ)** / **按分钟计费**。\n- **电子围栏 (diànzǐ wéilán)** / **定点停放 (dìngdiǎn tíngfàng)**：规范停放在指定的「P点」停车白线框内。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (22.3.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "大卫在手机上使用网约车软件叫车：‘师傅，我已在科技园区正门北侧的临时停靠点等待，我的手机尾号是6789，请您打双闪靠边停靠。’",
+                    "reading": "Dàwèi zài shǒujī shang shǐyòng wǎngyuēchē ruǎnjiàn jiàochē: ‘Shīfu, wǒ yǐ zài kējì yuánqū zhèngmén běicè de línshí tíngkàodiǎn děngdài, wǒ de shǒujī wěihào shì 6789, qǐng nín dǎ shuāngshǎn kàobiān tíngkào.’",
+                    "translation": "David called a ride: 'Driver, I am waiting at the temporary drop-off spot north of the tech park main gate; the last 4 digits of my phone are 6789, please turn on hazard lights and pull over.'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (22.3.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "数字地图语音智能播报：‘前方路段车流量较大、通行缓慢，已为您自动重新规划路线，经由右侧辅路绕行可节省十二分钟。’",
+                    "reading": "Shùzì dìtú yǔyīn zhìnéng bōbào: ‘Qiánfāng lùduàn chēliúliàng jiàodà, tōngxíng huǎnmàn, yǐ wèi nín zìdòng chóngxīn guīhuà lùxiàn, jīngyóu yòucè fǔlù ràoxíng kě jiéshěng shí'èr fēnzhōng.’",
+                    "translation": "Digital map voice announced: 'Traffic ahead is heavy; a new route has been planned, detouring via the right side road saves 12 minutes.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (22.3.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "大学生在地铁口扫码骑行：‘解决城市最后一公里出行的最佳方式就是共享单车，扫码即开、随骑随停，但在还车时必须规范停放在电子围栏指定区域内。’",
+                    "reading": "Dàxuéshēng zài dìtiěkǒu sǎomǎ qíxíng: ‘Jiějué chéngshì zuìhòu yì gōnglǐ chūxíng de zuìjiā fāngshì jiù shì gòngxiǎng dānchē, sǎomǎ jí kāi, suí qí suí tíng, dàn zài huánchē shí bìxū guīfàn tíngfàng zài diànzǐ wéilán zhǐdìng qūyù nèi.’",
+                    "translation": "The student rode a shared bike: 'The best way to solve the last mile problem is shared bikes; scan to unlock and ride freely, but when returning you must park inside the designated geo-fence.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 城市交通与智慧生活 (Urban Transit & Digital Life)"
+                "Smart City Travel: 网约车 (Call ride), 导航规划 (Map routing), 最后一公里 (Last Mile), 共享单车 (Shared bikes)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "The 'Last Mile' (最后一公里) concept in Chinese urban planning refers to the short trip connecting mass transit hubs to one's final destination, seamlessly bridged by dockless shared bicycles."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「城市交通与智慧生活 (Urban Transit & Digital Life)」在第3小节中的标准汉语语法规范？",
+                    "prompt": "在与网约车司机电话核对身份与上车位置时，乘客最常用的简练报数方式是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (22.3.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (22.3.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (22.3.3)。"
+                        "报出手机后四位尾号与具体地标特征 (Report last 4 digits of phone & landmark)",
+                        "把整个身份证号码读一遍",
+                        "什么都不说"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "报手机尾号 (reporting the last 4 digits of the phone) and naming the exact landmark is universal etiquette for ride-hailing."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「城市导航与智慧出行 (Urban Transit & Digital Life)」语用情境与完整句式的选项（练习 3）：",
+                    "prompt": "共享单车为了防止乱停乱放、引导用户在指定区域规范还车而采用的技术手段是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (22.3.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (22.3.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (22.3.3)。"
+                        "人工铁锁",
+                        "电子围栏 / 定点还车 (Electronic geo-fence / Designated parking)",
+                        "禁止所有人骑车"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "电子围栏 (diànzǐ wéilán) uses GPS geo-fencing to ensure orderly parking."
                 }
             ]
         },
@@ -10956,85 +10986,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「城市交通与智慧生活 (Urban Transit & Digital Life)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 22-3）？",
+                    "prompt": "关于中国城市‘智慧出行’生态系统，下列哪一项表述完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (22.3.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (22.3.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (22.3.3)。"
+                        "城市里没有任何数字导航和移动支付工具",
+                        "网约车实时定位、数字地图智能避堵与共享单车无缝衔接，构建了高效的低碳绿色出行网络 (Ride-hailing, smart map rerouting, and shared bikes form a seamless green transit network)",
+                        "共享单车可以随意扔在马路正中间"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "explanation": "Accurately synthesizes the digital micro-mobility ecosystem."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («地铁_22_3»):",
+                    "prompt": "Type the 4-character Hanzi term for 'shared bicycle' (共享单车):",
                     "acceptedAnswers": [
-                        "地铁_22_3"
+                        "共享单车",
+                        "gongxiangdanche",
+                        "gòngxiǎngdānchē",
+                        "Gòngxiǎngdānchē",
+                        "Gongxiangdanche",
+                        "共享單車"
                     ],
-                    "explanation": "The target keyword was: 【地铁_22_3】"
+                    "explanation": "共享单车 (gòngxiǎng dānchē) means 'shared bicycle'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u22-l4": {
         "id": "zh-u22-l4",
-        "subject": "mandarin",
-        "unit": 22,
-        "lessonNumber": 4,
-        "title": "城市导航与智慧出行 (Urban Transit & Digital Life) (Part 4)",
+        "unit": "zh-u22",
         "level": "B2",
-        "objective": "Comprehensive mastery of 城市交通与智慧生活 (Urban Transit & Digital Life).",
+        "objective": "Master the discourse of e-commerce parcel delivery, smart pickup lockers, and on-demand delivery (快递 parcel/courier, 智能快递柜 smart locker, 取件码 pickup PIN, 即时配送 on-demand delivery, 半日达 half-day delivery).",
+        "prerequisites": [
+            "zh-u22-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u22-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「城市导航与智慧出行 (Urban Transit & Digital Life)」（第4部分）的核心句法结构与城市交通与智慧生活 (Urban Transit & Digital Life)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "中国高度发达的现代化**智慧物流与即时配送（Smart Logistics & On-demand Delivery）**，是全球数字化生活体验的标杆！\n\n1. 快递派送与自提柜取件 (Express Parcels & Smart Lockers):\n- **派件中 (pàijiàn zhōng)**：快递员正在派送包裹。\n- **智能快递柜 / 丰巢柜 (zhìnéng kuàidìguì)**：无人智能自提柜。\n- **取件码 (qǔjiànmǎ)**：由数字或条形码组成的取件凭证：\n  - 您的包裹已暂存至北门丰巢快递柜，凭**取件码 5849** 免费取件。\n- **送货上门 (sònghuò shàngmén)**：送至家门口。\n\n2. 即时零售与外卖配送 (On-Demand Delivery & Food Delivery):\n- **半日达 (bànrì dá)** / **小时达** / **骑手正在火速配送中**。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (22.4.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "大卫收到快递服务短信提示：‘尊敬的客户，您的顺丰特快包裹已送达公寓智能快递柜，请于24小时内凭取件码8653前往开柜领取。’",
+                    "reading": "Dàwèi shōudào kuàidì fúwù duǎnxìn tíshì: ‘Zūnjìng de kèhù, nín de Shùnfēng tèkuài bāoguǒ yǐ sòngdá gōngyù zhìnéng kuàidìguì, qǐng yú 24 xiǎoshí nèi píng qǔjiànmǎ 8653 qiánwǎng kāiguì lǐngqǔ.’",
+                    "translation": "David received an SMS: 'Dear customer, your SF Express package has arrived at the apartment smart locker; please use pickup code 8653 to unlock and collect within 24 hours.'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (22.4.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "外卖骑手致电订餐用户：‘您好，我是美团外卖骑手，您订购的热腾腾的午餐已经送达写字楼一楼外卖自提架，祝您用餐愉快！’",
+                    "reading": "Wàimài qíshǒu zhìdiàn dìngcān yònghù: ‘Nínhǎo, wǒ shì Měituán wàimài qíshǒu, nín dìnggòu de rèténgténg de wǔcān yǐjīng sòngdá xièzìlóu yī lóu wàimài zìtíjià, zhù nín yòngcān yúkuài!’",
+                    "translation": "The delivery rider called: 'Hello, this is the Meituan rider; your piping-hot lunch has arrived at the 1st-floor office pickup rack, enjoy your meal!'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (22.4.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "电商平台物流总监在研讨会上介绍：‘依托大数据算法与分布式前置仓网络，我们实现了同城商品半日达甚至半小时极速送达，极大地提升了消费者的智慧生活品质。’",
+                    "reading": "Diànshāng píngtái wùliú zǒngjiān zài yántǎohuì shang jièshào: ‘Yītuō dàshùjù suànfǎ yǔ fēnbùshì qiánzhìcāng wǎngluò, wǒmen shíxiàn le tóngchéng shāngpǐn bànrì dá shènzhì bàn xiǎoshí jísù sòngdá, jídà de tíshēng le xiāofèizhě de zhìhuì shēnghuó pǐnzhì.’",
+                    "translation": "The logistics director introduced: 'Relying on big data algorithms and distributed frontline warehouse networks, we have realized half-day and even 30-minute delivery, vastly enhancing consumers' smart life quality.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 城市交通与智慧生活 (Urban Transit & Digital Life)"
+                "Smart Logistics: 快递派件 (Courier dispatch), 智能快递柜 (Smart locker), 取件码 (Pickup code), 半日达 (Half-day delivery)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "China handles over 150 billion express parcels annually—over 60% of the world's total parcel volume—supported by automated sorting robots and high-density smart lockers."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「城市交通与智慧生活 (Urban Transit & Digital Life)」在第4小节中的标准汉语语法规范？",
+                    "prompt": "前往智能丰巢柜提取暂存的网购快递包裹时，必须输入的六位或四位数字凭证被称为：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (22.4.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (22.4.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (22.4.3)。"
+                        "银行卡密码",
+                        "取件码 (Qǔjiànmǎ — Pickup PIN / Collection code)",
+                        "手机出厂编号"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "取件码 (qǔjiànmǎ) is the pickup PIN texted to recipients to open the smart locker door."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「城市导航与智慧出行 (Urban Transit & Digital Life)」语用情境与完整句式的选项（练习 4）：",
+                    "prompt": "形容利用前置仓与同城即时配送网络、下单后几小时乃至几十分钟内送达的电商物流模式是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (22.4.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (22.4.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (22.4.3)。"
+                        "慢速平邮",
+                        "即时零售 / 小时达 (On-demand retail / 1-hour delivery)",
+                        "牛车运输"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "即时零售 / 半日达 / 小时达 characterizes modern Chinese instant hyper-local logistics."
                 }
             ]
         },
@@ -11042,85 +11084,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「城市交通与智慧生活 (Urban Transit & Digital Life)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 22-4）？",
+                    "prompt": "关于中国现代化快递物流与即时配送体系，下列哪一项完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (22.4.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (22.4.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (22.4.3)。"
+                        "依托数字化仓储与智能快递柜网络，实现了‘送货上门’与‘凭码自提’高度融合的极速物流体验 (Integrates door-to-door delivery with code-based locker pickup)",
+                        "所有快递必须一个月才能送到",
+                        "包裹只能由邮局人工开门领取"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "Accurately represents the multi-channel, hyper-fast convenience of Chinese logistics."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («地铁_22_4»):",
+                    "prompt": "Type the 3-character Hanzi term for 'pickup code / package collection PIN' (取件码):",
                     "acceptedAnswers": [
-                        "地铁_22_4"
+                        "取件码",
+                        "qujianma",
+                        "qǔjiànmǎ",
+                        "Qǔjiànmǎ",
+                        "Qujianma",
+                        "取件碼"
                     ],
-                    "explanation": "The target keyword was: 【地铁_22_4】"
+                    "explanation": "取件码 (qǔjiànmǎ) means 'pickup code / collection PIN'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u22-l5": {
         "id": "zh-u22-l5",
-        "subject": "mandarin",
-        "unit": 22,
-        "lessonNumber": 5,
-        "title": "城市导航与智慧出行 (Urban Transit & Digital Life) (Part 5)",
+        "unit": "zh-u22",
         "level": "B2",
-        "objective": "Comprehensive mastery of 城市交通与智慧生活 (Urban Transit & Digital Life).",
+        "objective": "Synthesize all urban mobility, smart transit, e-logistics, and digital lifestyle discourse into high-level urban planning forums and international smart city comparative studies.",
+        "prerequisites": [
+            "zh-u22-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u22-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「城市导航与智慧出行 (Urban Transit & Digital Life)」（第5部分）的核心句法结构与城市交通与智慧生活 (Urban Transit & Digital Life)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在本课中，我们将系统整合第二十二单元的所有城市交通导航、高铁物流与智慧数字生活体系，在国际智慧城市峰会与宜居科技治理的最高学术语境中进行深度论述与实战表达！\n\n1. 现代中国智慧城市与无缝出行全景矩阵 (Master Smart Transit Matrix):\n| 基础设施维度 | 核心科技与语用表达 | 综合功能与时代价值 |\n| :--- | :--- | :--- |\n| **城市轨道交通** | 换乘枢纽 / 扫码过闸 / 准点高效 | 承载数千万级超大城市骨干通勤 |\n| **国家干线高铁** | 复兴号 / 候补购票 / 刷证通行 | 打造「四小时跨省经济生活圈」 |\n| **微出行与导航** | 智能避堵 / 共享单车 / 最后一公里 | 解决末梢微循环，践行低碳绿色理念 |\n| **智慧物流配送** | 智能快递柜 / 取件码 / 即时零售 | 赋能数字经济，创造极致便捷生活 |\n| **未来城市治理** | 车路协同 / 数字孪生 / 智慧大脑 | 科技赋能民生，构建现代宜居都市 |\n\n2. 第二十二单元实战交际演练 (Unit 22 Global Smart City Summit):\n- 国际智慧城市发展论坛主旨演讲与中国智慧出行案例分析。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (22.5.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "城市规划专家在国际智慧城市峰会上作主旨报告：‘中国城市将高铁干线、地铁骨干网络、网约车微循环与共享单车深度融合，打造了全球领先的零距离换乘与无缝化智慧出行典范，深刻诠释了科技赋能美好生活的真谛！’",
+                    "reading": "Chéngshì guīhuà zhuānjiā zài guójì zhìhuì chéngshì fēnghuì shang zuò zhǔzhǐ bàogào: ‘Zhōngguó chéngshì jiāng gāotiě gànxiàn, dìtiě gǔgàn wǎngluò, wǎngyuēchē wēixúnhuán yǔ gòngxiǎng dānchē shēndù rónghé, dǎzào le quánqiú lǐngxiān de líng-jùlí huànchéng yǔ wúfènghuà zhìhuì chūxíng diǎnfàn, shēnkè quánshì le kējì fùnéng měihǎo shēnghuó de zhēndì!’",
+                    "translation": "The urban planner presented: 'Chinese cities deeply integrate HSR arteries, metro backbones, ride-hailing micro-circulations, and shared bikes, creating a world-leading model of zero-distance transfers and seamless smart mobility, profoundly embodying tech empowering better life!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (22.5.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫在跨国青年学者研讨会上分享调研心得：‘在中国生活，仅凭一部智能手机即可畅行高铁地铁、解锁共享单车、随时收取快递，这种高度集成化与智能化的生活体验令全世界为之赞叹！’",
+                    "reading": "Dàwèi zài kuàguó qīngnián xuézhě yántǎohuì shang fēnxiǎng diàoyán xīndé: ‘Zài Zhōngguó shēnghuó, jǐn píng yí bù zhìnéng shǒujī jíkě chàngxíng gāotiě dìtiě, jiěsuǒ gòngxiǎng dānchē, suíshí shōuqǔ kuàidì, zhè zhǒng gāodù jíchénghuà yǔ zhìnénghuà de shēnghuó tǐyàn lìng quán shìjiè wéi zhī zàntàn!’",
+                    "translation": "David shared: 'Living in China, a single smartphone allows seamless travel on HSR and metro, unlocking shared bikes, and picking up packages anytime; this highly integrated digital lifestyle amazes the entire world!'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (22.5.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "新闻评论员总结：‘从复兴号飞驰神州到智能快递柜星罗棋布，智慧交通与数字物流的发展不仅极大缩短了时空距离，更让每位普通百姓实实在在地享受到了高品质数字文明的红利！’",
+                    "reading": "Xīnwén pínglùnyuán zǒngjié: ‘Cóng Fùxīnghào fēichí shénzhōu dào zhìnéng kuàidìguì xīngluó-qíbù, zhìhuì jiāotōng yǔ shùzì wùliú de fāzhǎn bùjǐn jídà suōduǎn le shíkōng jùlí, gèng ràng měi wèi pǔtōng bǎixìng shíshízàizài de xiǎngshòu dào le gāo pǐnzhì shùzì wénmíng de hónglì!’",
+                    "translation": "The news commentator summarized: 'From Fuxing trains speeding across China to smart lockers spread like stars, smart transport and digital logistics have vastly shortened spatial-temporal distances and brought the dividends of digital civilization to every citizen!'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 城市交通与智慧生活 (Urban Transit & Digital Life)"
+                "Smart City Formula: Seamless Rail (无缝轨道) + Digital Roads (数字导航) + Last Mile (共享微行) + Instant Logistics (极速物流) = Future Living!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "China's rapid infrastructure evolution has generated the popular phrase «中国速度» (Zhōngguó sùdù, 'China Speed'), which describes not only physical rail velocity but also the agile deployment of nationwide digital infrastructure."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「城市交通与智慧生活 (Urban Transit & Digital Life)」在第5小节中的标准汉语语法规范？",
+                    "prompt": "形容不同公共交通工具（高铁、地铁、公交、单车）之间衔接紧密、乘客无需长时间等待或远距离步行的专业术语是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (22.5.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (22.5.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (22.5.3)。"
+                        "寸步难行",
+                        "零距离换乘 / 无缝衔接 (Zero-distance transfer / Seamless connectivity)",
+                        "南辕北辙"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "零距离换乘 and 无缝衔接 are standard modern transport planning terms."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「城市导航与智慧出行 (Urban Transit & Digital Life)」语用情境与完整句式的选项（练习 5）：",
+                    "prompt": "在国际科技新闻中，常用来赞誉中国在高铁建设、智慧基建与数字经济领域惊人发展效率的专有名词是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (22.5.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (22.5.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (22.5.3)。"
+                        "中国速度 (China Speed)",
+                        "慢条斯理",
+                        "拖延主义"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "中国速度 (Zhōngguó sùdù, 'China Speed') is the internationally recognized term for China's high development efficiency."
                 }
             ]
         },
@@ -11128,24 +11182,30 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「城市交通与智慧生活 (Urban Transit & Digital Life)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 22-5）？",
+                    "prompt": "关于现代中国智慧交通与数字生活基础设施的综合概括，下列哪一项完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (22.5.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (22.5.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (22.5.3)。"
+                        "中国没有任何高铁和数字应用",
+                        "共享单车只能在农村使用",
+                        "中国构建了由高铁、轨道交通、数字导航、共享微出行与智慧物流深度协同的数字化生活生态体系 (Constructed an integrated ecosystem of HSR, metro, digital navigation, micro-mobility, and smart logistics)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "Comprehensively summarizes the multi-tiered smart transport and digital lifestyle ecosystem."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («地铁_22_5»):",
+                    "prompt": "Type the 4-character phrase meaning 'China Speed / world-renowned efficiency in infrastructure and innovation' (中国速度):",
                     "acceptedAnswers": [
-                        "地铁_22_5"
+                        "中国速度",
+                        "zhongguosudu",
+                        "zhōngguósùdù",
+                        "Zhōngguósùdù",
+                        "Zhongguosudu",
+                        "中國速度"
                     ],
-                    "explanation": "The target keyword was: 【地铁_22_5】"
+                    "explanation": "中国速度 (zhōngguó sùdù) means 'China Speed'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u23-l1": {
