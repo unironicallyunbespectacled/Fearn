@@ -16100,63 +16100,69 @@
     },
     "zh-u33-l1": {
         "id": "zh-u33-l1",
-        "subject": "mandarin",
-        "unit": 33,
-        "lessonNumber": 1,
-        "title": "宏观经济调控与人民币国际化 (Macroeconomics & Currency) (Part 1)",
+        "unit": "zh-u33",
         "level": "C2",
-        "objective": "Comprehensive mastery of 宏观调控与经济战略 (Macroeconomics & Currency Policy).",
+        "objective": "Master the discourse of macroeconomic governance, fiscal policy tools, and central bank monetary mechanisms (宏观调控 macroeconomic control, 积极的财政政策 proactive fiscal policy, 稳健的货币政策 prudent monetary policy, 逆周期调节 counter-cyclical regulation, 跨周期调节 cross-cyclical regulation, 双支柱调控框架 dual-pillar regulatory framework).",
+        "prerequisites": [
+            "zh-u32-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u32-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「宏观经济调控与人民币国际化 (Macroeconomics & Currency)」（第1部分）的核心句法结构与宏观调控与经济战略 (Macroeconomics & Currency Policy)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "中国宏观经济治理构建了独特的**「货币政策与宏观审慎政策双支柱调控框架」**，讲求**「精准发力、逆周期调节、跨周期统筹、防范系统性风险」**！\n\n1. 宏观调控两大支柱 (Dual-Pillar Governance Framework):\n- **积极的财政政策 (Proactive Fiscal Policy)**：适度加力、提质增效，发行超长期特别国债、优化专项债投资。\n- **稳健的货币政策 (Prudent Monetary Policy)**：灵活适度、精准有效，综合运用降准（RRR cut）、降息（LPR cut）与结构性货币政策工具。\n- **逆周期与跨周期调节 (Counter- & Cross-Cyclical Regulation)**：短期平抑经济波动，中长期提升全要素生产率。\n\n2. 宏观调控高阶论述句式 (Macroeconomic Policy Formulas):\n- 「中央经济工作会议强调，必须强化宏观政策逆周期和跨周期调节，继续实施积极的财政政策和稳健的货币政策。」\n- 「健全双支柱调控框架，守住不发生系统性金融风险的底线，确保经济行稳致远。」",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (33.1.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "中国人民银行行长在国际金融领袖投资峰会上发表专题演讲：‘中国坚定实施稳健的货币政策，保持流动性合理充裕，强化逆周期与跨周期调节，为高质量发展营造适宜的货币金融环境！’",
+                    "reading": "Zhōngguó Rénmín Yínháng hángzhǎng zài guójì jīnróng lǐngxiù tóuzī fēnghuì shang fābiǎo zhuāntí yǎnjiǎng: ‘Zhōngguó jiāndìng shíshī wěnjiàn de huòbì zhèngcè, bǎochí liúdòngxìng hélǐ chōngyù, qiánghuà nìzhōuqī yǔ kuà-zhōuqī tiáojié, wéi gāozhìliàng fāzhǎn yíngzào shìyí de huòbì jīnróng huánjìng!’",
+                    "translation": "The PBOC Governor addressed the summit: 'China adheres to prudent monetary policy, maintaining ample liquidity with counter- and cross-cyclical adjustments for high-quality growth!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (33.1.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "财政部副部长在国新办新闻发布会上说明：‘积极的财政政策将统筹用好超长期特别国债与地方政府专项债券，优先支持重大科技创新与新型基础设施建设。’",
+                    "reading": "Cáizhèngbù fù-bùzhǎng zài Guóxīnbàn xīnwén fābùhuì shang shuōmíng: ‘Jījí de cáizhèng zhèngcè jiāng tǒngchóu yòng hǎo chāo-chángqī tèbié guózhài yǔ dìfāng zhèngfǔ zhuānxiàng zhànquàn, yōuxiān zhīchí zhòngdà kējì chuàngxīn yǔ xīnxíng jīchǔ shèshī jiànshè.’",
+                    "translation": "The Vice Minister of Finance explained: 'Proactive fiscal policy will deploy ultra-long special treasury bonds and local special bonds to support tech and new infrastructure.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (33.1.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "著名宏观经济学家在论坛上点评：‘中国经济治理的独特优势在于能够实现宏观政策与国家中长期规划的有机结合，在稳增长与防风险之间实现动态平衡。’",
+                    "reading": "Zhùmíng hóngguān jīngjìxuéjiā zài lùntán shang diǎnpíng: ‘Zhōngguó jīngjì zhìlǐ de dútè yōushì zàiyú nénggòu shíxiàn hóngguān zhèngcè yǔ guójiā zhōng-chángqī guīhuà de yǒujī jiéhé, zài wěn zēngzhǎng yǔ fáng fēngxiǎn zhījiān shíxiàn dòngtài pínghéng.’",
+                    "translation": "The macroeconomist noted: 'China's economic strength lies in coupling macro policies with five-year plans, balancing growth and risk prevention.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 宏观调控与经济战略 (Macroeconomics & Currency Policy)"
+                "Macro Pillars: 积极财政 (Fiscal Boost), 稳健货币 (Prudent Monetary), 逆跨周期 (Counter & Cross Cycles), 双支柱控 (Dual-Pillar Safety)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "The Annual Central Economic Work Conference (中央经济工作会议) held every December in Beijing sets the core fiscal and monetary policy direction for China for the coming calendar year."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「宏观调控与经济战略 (Macroeconomics & Currency Policy)」在第1小节中的标准汉语语法规范？",
+                    "prompt": "国家中央银行和宏观管理部门通过调控法定存款准备金率、公开市场操作和基准利率以稳定经济波动的政策体系被称为：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (33.1.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (33.1.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (33.1.3)。"
+                        "盲目放贷",
+                        "稳健的货币政策 (Prudent monetary policy)",
+                        "全面休克疗法"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "稳健的货币政策 (Prudent monetary policy) maintains appropriate liquidity, controls inflation, and supports sustainable real economy growth."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「宏观经济调控与人民币国际化 (Macroeconomics & Currency)」语用情境与完整句式的选项（练习 1）：",
+                    "prompt": "兼顾短期经济波动平抑与中长期经济结构优化、防范中长期系统性风险的宏观经济调控机制被称为：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (33.1.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (33.1.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (33.1.3)。"
+                        "跨周期调节 (Cross-cyclical regulation)",
+                        "只顾眼前",
+                        "过度投机"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "跨周期调节 (Cross-cyclical regulation) coordinates policies across multi-year horizons to prevent long-term structural imbalances."
                 }
             ]
         },
@@ -16164,85 +16170,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「宏观调控与经济战略 (Macroeconomics & Currency Policy)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 33-1）？",
+                    "prompt": "关于中国宏观经济治理中的「积极财政政策」与「稳健货币政策」协同调控机制，下列哪一项表述完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (33.1.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (33.1.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (33.1.3)。"
+                        "宏观调控完全不考虑任何通货膨胀与金融风险",
+                        "宏观调控要求积极财政政策适度加力提质增效，稳健货币政策灵活适度精准有效，通过逆周期与跨周期统筹防范系统性风险并推动高质量发展 (Proactive fiscal and prudent monetary policies coordinate counter/cross-cyclical regulation for high-quality growth)",
+                        "财政政策与货币政策应当彼此直接冲突互相拆台"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR C2 target-language standard."
+                    "explanation": "Comprehensively describes China's macroeconomic governance framework and dual-pillar policy coordination."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («宏观调控_33_1»):",
+                    "prompt": "Type the 4-character Hanzi term for 'macroeconomic control / macro regulation' (宏观调控):",
                     "acceptedAnswers": [
-                        "宏观调控_33_1"
+                        "宏观调控",
+                        "hongguantiaokong",
+                        "hóngguāntiáokòng",
+                        "Hóngguāntiáokòng",
+                        "Hongguantiaokong",
+                        "宏觀調控"
                     ],
-                    "explanation": "The target keyword was: 【宏观调控_33_1】"
+                    "explanation": "宏观调控 (hóng guān tiáo kòng) means 'macroeconomic regulation/control'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u33-l2": {
         "id": "zh-u33-l2",
-        "subject": "mandarin",
-        "unit": 33,
-        "lessonNumber": 2,
-        "title": "宏观经济调控与人民币国际化 (Macroeconomics & Currency) (Part 2)",
+        "unit": "zh-u33",
         "level": "C2",
-        "objective": "Comprehensive mastery of 宏观调控与经济战略 (Macroeconomics & Currency Policy).",
+        "objective": "Master the mechanisms, clearing systems, and strategic significance of RMB internationalization (人民币国际化 RMB internationalization, CIPS Cross-Border Interbank Payment System, 特别提款权 Special Drawing Rights / SDR, 双边本币互换协议 bilateral currency swap agreements, 离岸人民币枢纽 offshore RMB hubs).",
+        "prerequisites": [
+            "zh-u33-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u33-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「宏观经济调控与人民币国际化 (Macroeconomics & Currency)」（第2部分）的核心句法结构与宏观调控与经济战略 (Macroeconomics & Currency Policy)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "人民币国际化是全球货币金融体系多极化发展的必然趋势，讲求**「本币结算、跨境清算、储备多元、离岸互联」**！\n\n1. 人民币国际化四大功能支柱 (Four Functions of International Currency):\n- **支付结算 (Payment & Settlement)**：在大宗商品（原油、铁矿石）与跨境贸易中全面提升人民币结算占比。\n- **清算基建 (Clearing Infrastructure - CIPS)**：跨境银行间支付清算系统（CIPS）连接全球百余国家和地区的金融机构。\n- **储备与投资 (Reserve & Investment)**：国际货币基金组织（IMF）特别提款权（SDR）篮子第三大权重货币，成为各国央行重要外汇储备资产。\n- **金融互换网络 (Currency Swap Network)**：中国央行与40多个国家和地区签署双边本币互换协议，保障全球流动性安全。\n\n2. 跨境金融论述句式 (Cross-Border Finance Discourse):\n- 「稳慎扎实推进人民币国际化，深化离岸人民币市场建设，提升人民币在国际贸易与跨境投资中的计价与结算功能。」\n- 「依托CIPS系统构建安全、高效、多元的全球金融支付网络，降低过度依赖单一外币结算的系统性风险。」",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (33.2.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "中国人民银行宏观审慎管理局负责人在陆家嘴论坛表示：‘人民币已成为全球第四大支付货币和第三大贸易融资货币，我们将稳慎扎实推进人民币国际化，支持更多跨国企业使用人民币进行跨境结算与投融资！’",
+                    "reading": "Zhōngguó Rénmín Yínháng hóngguān shěnshèn guǎnlǐjú fùzérén zài Lùjiāzuǐ lùntán biǎoshì: ‘Rénmínbì yǐ chéngwéi quánqiú dì-sì dà zhīfù huòbì hé dì-sān dà màoyì róngzī huòbì, wǒmen jiāng wěnshèn-zhāshi tuījìn Rénmínbì guójìhuà, zhīchí gèng duō kuàguó qǐyè shǐyòng Rénmínbì jìnxíng kuàjìng jiésuàn yǔ tóu-róngzī!’",
+                    "translation": "The PBOC official stated at Lujiazui: 'RMB is now the 4th global payment and 3rd trade finance currency; we will steadily advance RMB internationalization for cross-border settlement!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (33.2.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫在国际金融分析报告中论述：‘香港作为全球最大的离岸人民币业务枢纽，拥有庞大的人民币资金池与多元化金融衍生产品，为海外投资者配置人民币资产提供了无缝通道。’",
+                    "reading": "Dàwèi zài guójì jīnróng fēnxī bàogào zhōng lùnshù: ‘Xiānggǎng zuòwéi quánqiú zuì dà de lí’àn Rénmínbì yèwù shūniǔ, yǒngyǒu pángdà de Rénmínbì zījīnchí yǔ duōyuánhuà jīnróng yǎnshēngchǎnpǐn, wéi hǎiwài tóuzīzhě pèizhì Rénmínbì zīchǎn tígōng le wúféng tōngdào.’",
+                    "translation": "David analyzed: 'Hong Kong, as the top offshore RMB hub with deep liquidity and derivatives, provides seamless access for global investors.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (33.2.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "跨国银行外汇交易主管指出：‘中国与多国央行续签双边本币互换协议并推广CIPS系统，有效规避了汇率波动风险，保障了双边贸易与投资的稳健结算。’",
+                    "reading": "Kuàguó yínháng wàihuì jiāoyì zhǔguǎn zhǐchū: ‘Zhōngguó yǔ duō guó yāngháng xùqiān shuāngbiān běnbì hùhuàn xiéyì bìng tuīguǎng CIPS xìtǒng, yǒuxiào guībì le huìlǜ bōdòng fēngxiǎn, bǎozhàng le shuāngbiān màoyì yǔ tóuzī de wěnjiàn jiésuàn.’",
+                    "translation": "The FX head stated: 'Bilateral currency swaps and CIPS mitigate FX risks and secure stable settlement for trade and investments.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 宏观调控与经济战略 (Macroeconomics & Currency Policy)"
+                "RMB Global Flight: 跨境结算 (Cross-Border Settlement), CIPS清算 (CIPS Network), SDR篮子 (SDR Basket), 本币互换 (Currency Swap) = Global Currency (人民币国际化)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "In 2016, the RMB was formally included in the IMF's Special Drawing Rights (SDR) basket with an 10.92% weight (later raised to 12.28%), making it an official global reserve currency alongside USD, EUR, JPY, and GBP."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「宏观调控与经济战略 (Macroeconomics & Currency Policy)」在第2小节中的标准汉语语法规范？",
+                    "prompt": "中国为人民币跨境支付、结算与清算自主研发并面向全球金融机构开放的核心金融基础设施系统简称是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (33.2.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (33.2.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (33.2.3)。"
+                        "ATM机",
+                        "CIPS系统 (Cross-Border Interbank Payment System)",
+                        "POS机"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "CIPS (Cross-Border Interbank Payment System - 人民币跨境支付系统) provides independent, safe, and highly efficient global RMB clearing."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「宏观经济调控与人民币国际化 (Macroeconomics & Currency)」语用情境与完整句式的选项（练习 2）：",
+                    "prompt": "中国央行与其他国家中央银行签署的、在金融动荡或双边贸易中允许双方直接兑换并使用彼此法定货币的协议被称为：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (33.2.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (33.2.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (33.2.3)。"
+                        "双边本币互换协议 (Bilateral local currency swap agreement)",
+                        "借条",
+                        "普通商业贷款"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "双边本币互换协议 (Bilateral currency swap agreement) stabilizes foreign trade and provides mutual liquidity safety."
                 }
             ]
         },
@@ -16250,85 +16268,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「宏观调控与经济战略 (Macroeconomics & Currency Policy)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 33-2）？",
+                    "prompt": "关于人民币国际化发展进程、SDR篮子货币地位与跨境结算清算机制，下列哪一项表述完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (33.2.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (33.2.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (33.2.3)。"
+                        "稳慎扎实推进人民币国际化，依托CIPS系统与双边本币互换网络，提升了人民币在国际贸易、外汇储备和投融资中的战略地位，推动了国际货币体系多元化 (Steadily advance RMB internationalization, CIPS, and swaps for a diversified global monetary system)",
+                        "人民币只能在中国内地境内流通使用",
+                        "全球贸易中必须百分之百使用单一国家货币结算"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR C2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "Accurately articulates the infrastructure, IMF recognition, and strategic global importance of RMB internationalization."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («宏观调控_33_2»):",
+                    "prompt": "Type the 7-character Hanzi phrase for 'RMB internationalization' (人民币国际化):",
                     "acceptedAnswers": [
-                        "宏观调控_33_2"
+                        "人民币国际化",
+                        "renminbiguojihua",
+                        "rénmínbì guójìhuà",
+                        "Rénmínbì guójìhuà",
+                        "Renminbiguojihua",
+                        "人民幣國際化"
                     ],
-                    "explanation": "The target keyword was: 【宏观调控_33_2】"
+                    "explanation": "人民币国际化 (rén mín bì guó jì huà) means 'RMB internationalization'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u33-l3": {
         "id": "zh-u33-l3",
-        "subject": "mandarin",
-        "unit": 33,
-        "lessonNumber": 3,
-        "title": "宏观经济调控与人民币国际化 (Macroeconomics & Currency) (Part 3)",
+        "unit": "zh-u33",
         "level": "C2",
-        "objective": "Comprehensive mastery of 宏观调控与经济战略 (Macroeconomics & Currency Policy).",
+        "objective": "Master the discourse of financial market liberalization and two-way capital market connectivity (资本账户开放 capital account opening, 互联互通 connectivity schemes: Stock/Bond/Swap Connect, 离岸与在岸市场联动 offshore/onshore linkages, 跨境资本流动 macroprudential capital flow oversight).",
+        "prerequisites": [
+            "zh-u33-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u33-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「宏观经济调控与人民币国际化 (Macroeconomics & Currency)」（第3部分）的核心句法结构与宏观调控与经济战略 (Macroeconomics & Currency Policy)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "中国金融业坚持**「以开放促改革、制度型开放、统筹开放与安全」**的高水平对外开放战略！\n\n1. 金融高水平开放核心机制 (Financial Market Opening-Up Mechanisms):\n- **互联互通机制 (Connect Schemes)**：沪港通、深港通、债券通、跨境理财通、互换通，开创了在岸与离岸市场协同运作的全新开放模式。\n- **外资准入与国民待遇 (Pre-Establishment National Treatment)**：全面取消银行、证券、基金、期货、人身险外资持股比例限制。\n- **跨境资本流动审慎管理 (Macroprudential Oversight)**：宏观审慎与微观监管结合，防范跨境游资冲击（Hot Money）。\n\n2. 制度型开放论述句式 (Institutional Opening-Up Formulas):\n- 「稳步扩大金融领域规则、规制、管理、标准等制度型开放，吸引全球长期资本来华展业兴业。」\n- 「在有序推进资本账户可兑换的同时，健全跨境资本流动宏观审慎管理框架，守牢金融安全底线。」",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (33.3.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "中国证监会主席在国际金融峰会上致辞：‘我们将坚定不移推进资本市场高水平制度型开放，深化境内外市场互联互通机制，为国际投资者提供更加透明、稳定、可预期的市场环境！’",
+                    "reading": "Zhōngguó Zhèngjiānhuì zhǔxí zài guójì jīnróng fēnghuì shang zhìcí: ‘Wǒmen jiāng jiāndìng-bùyí tuījìn zīběn shìchǎng gāozhìliàng zhìdùxíng kāifàng, shēnhuà jìngnèi-wài shìchǎng hùlián-hùtōng jīzhì, wéi guójì tóuzīzhě tígōng gèngjiā tòumíng, wěndìng, kě yùqī de shìchǎng huánjìng!’",
+                    "translation": "The CSRC Chairman stated: 'We will advance institutional opening-up of capital markets, deepening connectivity schemes for global investors!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (33.3.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫在跨国投资银行策略研讨会上发言：‘通过“债券通”与“互换通”，全球大型主权财富基金与养老基金得以高效对冲利率风险，将中国国债作为压舱石资产纳入全球基准指数配置。’",
+                    "reading": "Dàwèi zài kuàguó tóuzī yínháng cèlüè yántǎohuì shang fāyán: ‘Tōngguò “Zhàiquàntōng” yǔ “Hùhuàntōng”, quánqiú dàxíng zhǔquán cáifù jījīn yǔ yǎnglǎojījīn déyǐ gāoxiào duìchōng lìlǜ fēngxiǎn, jiāng Zhōngguó guózhài zuòwéi yāchāngshí zīchǎn nàrù quánqiú jīzhǔn zhǐshù pèizhì.’",
+                    "translation": "David explained: 'Bond Connect and Swap Connect allow sovereign wealth funds to hedge interest risks and allocate Chinese government bonds into benchmark indexes.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (33.3.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "国际金融分析师在报告中指出：‘中国资本市场扩大开放并不是放任自流，而是通过完善宏观审慎工具箱，在拥抱全球资本红利的同时有效抵御外部金融冲击。’",
+                    "reading": "Guójì jīnróng fēnxīshī zài bàogào zhōng zhǐchū: ‘Zhōngguó zīběn shìchǎng kuòdà kāifàng bú shì fàngrèn-zìliú, ér shì tōngguò wánshàn hóngguān shěnshèn gōngjùxiāng, zài yōngbào quánqiú zīběn hónglì de tóngshí yǒuxiào dǐyù wàibù jīnróng chōngjī.’",
+                    "translation": "The analyst reported: 'Opening up is coupled with macroprudential toolkits, harvesting capital dividends while buffering external shocks.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 宏观调控与经济战略 (Macroeconomics & Currency Policy)"
+                "Financial Openness: 制度型开放 (Institutional Opening), 互联互通 (Market Connect), 准入国民待遇 (National Treatment), 审慎防风险 (Macroprudential Safety)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "«制度型开放» (Institutional Opening-up) marks the transition from traditional commodity/factor opening to standardizing rules, regulations, management, and standards with international best practices."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「宏观调控与经济战略 (Macroeconomics & Currency Policy)」在第3小节中的标准汉语语法规范？",
+                    "prompt": "中国资本市场中，连接内地与香港股票、债券及衍生品市场、允许境内外投资者便利进行双向跨境投资的制度创新被称为：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (33.3.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (33.3.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (33.3.3)。"
+                        "闭门造车",
+                        "互联互通机制 (Market Connect Schemes: Stock/Bond Connect)",
+                        "完全物理隔绝"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "互联互通机制 (Market Connect Schemes) enables two-way institutional flows between Mainland and Hong Kong capital markets."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「宏观经济调控与人民币国际化 (Macroeconomics & Currency)」语用情境与完整句式的选项（练习 3）：",
+                    "prompt": "指不仅在商品和要素流动层面开放、更主动对接国际高标准经贸规则并在规则、规制、管理和标准层面进行的深层次对外开放形态被称为：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (33.3.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (33.3.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (33.3.3)。"
+                        "制度型开放 (Institutional Opening-Up)",
+                        "闭关自守",
+                        "短期关税优惠"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "制度型开放 (Institutional opening-up) aligns domestic legal and regulatory standards with high-standard global economic rules."
                 }
             ]
         },
@@ -16336,85 +16366,98 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「宏观调控与经济战略 (Macroeconomics & Currency Policy)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 33-3）？",
+                    "prompt": "关于中国金融高水平对外开放、资本市场互联互通与跨境资本宏观审慎管理，下列哪一项表述完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (33.3.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (33.3.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (33.3.3)。"
+                        "中国金融市场完全不对任何外资机构开放",
+                        "中国金融业推进以规则标准对接为核心的制度型开放，深化互联互通机制，并在开放中健全宏观审慎管理以统筹发展与安全 (Institutional opening-up, deepening connect schemes, and macroprudential safety for balanced development)",
+                        "金融开放意味着完全取消国家对金融体系的一切监管"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR C2 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "Accurately details the institutional opening strategy, connectivity channels, and macroprudential risk management."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («宏观调控_33_3»):",
+                    "prompt": "Type the 4-character Hanzi term for 'market connectivity / connect mechanism' (互联互通):",
                     "acceptedAnswers": [
-                        "宏观调控_33_3"
+                        "互联互通",
+                        "hulianhutong",
+                        "hùlián-hùtōng",
+                        "hùliánhùtōng",
+                        "Hùliánhùtōng",
+                        "Hulianhutong",
+                        "互聯互通"
                     ],
-                    "explanation": "The target keyword was: 【宏观调控_33_3】"
+                    "explanation": "互联互通 (hù lián hù tōng) means 'connectivity / interconnectivity'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u33-l4": {
         "id": "zh-u33-l4",
-        "subject": "mandarin",
-        "unit": 33,
-        "lessonNumber": 4,
-        "title": "宏观经济调控与人民币国际化 (Macroeconomics & Currency) (Part 4)",
+        "unit": "zh-u33",
         "level": "C2",
-        "objective": "Comprehensive mastery of 宏观调控与经济战略 (Macroeconomics & Currency Policy).",
+        "objective": "Master the discourse of multilateral development banks, IMF/World Bank governance reforms, and Belt & Road green financing (亚洲基础设施投资银行 Asian Infrastructure Investment Bank / AIIB, 新开发银行 New Development Bank / NDB, 全球经济治理 global economic governance, 绿色金融标准 green finance standards, 全球金融安全网 Global Financial Safety Net).",
+        "prerequisites": [
+            "zh-u33-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u33-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「宏观经济调控与人民币国际化 (Macroeconomics & Currency)」（第4部分）的核心句法结构与宏观调控与经济战略 (Macroeconomics & Currency Policy)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "中国积极参与并引领**「全球经济金融治理体系改革」**，倡导**「真正的多边主义、普惠包容、绿色可持续」**！\n\n1. 多边金融机构与合作网络 (Multilateral Financial Governance):\n- **亚投行（AIIB）与新开发银行（NDB）**：由新兴市场国家发起的多边开发银行，践行「精干、廉洁、绿色」的高标准治理原则。\n- **一带一路投融资体系 (Belt & Road Financing Architecture)**：构建多元、包容、可持续的融资体系，遵循市场化原则与债务可持续性框架。\n- **国际货币基金组织（IMF）与世行改革**：积极推动增加新兴市场与发展中国家的话语权与份额比重。\n\n2. 全球金融治理高阶论述句式 (Global Governance Formulas):\n- 「坚持真正的多边主义，推动国际金融架构改革，提高全球南方国家在国际经济金融决策中的代表性和话语权。」\n- 「依托亚投行等多边开发机构，为全球南方国家提供高质量、可负担的基础设施与绿色转型融资支持。」",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (33.4.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "亚洲基础设施投资银行（AIIB）行长在理事会年会上宣布：‘亚投行成员已拓展至一百多个国家和地区，我们将坚持高标准国际治理，优先为全球应对气候变化与绿色基础设施提供优惠长期贷款！’",
+                    "reading": "Yàzhōu Jījùnshèshī Tóuzī Yínháng hángzhǎng zài lǐshìhuì niánhuì shang xuānbù: ‘Yàtóuháng chéngyuán yǐ tuòzhǎn zhì yībǎi duō ge guójiā hé dìqū, wǒmen jiāng jiānchí gāobiāozhǔn guójì zhìlǐ, yōuxiān wéi quánqiú yìngduì qìhòu biànhuà yǔ lǜsè jīchǔ shèshī tígōng yōuhuì chángqī dàikuǎn!’",
+                    "translation": "The AIIB President announced: 'AIIB members exceed 100 countries; we uphold international standards to fund climate action and green infrastructure!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (33.4.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫在国际发展经济学研讨会上发言：‘金砖国家新开发银行以本币发债和投融资模式，不仅降低了借款国的汇率风险，更为全球多边金融体系注入了更具包容性的南方智慧。’",
+                    "reading": "Dàwèi zài guójì fāzhǎn jīngjìxué yántǎohuì shang fāyán: ‘Jīnzhuān guójiā Xīn Kāifā Yínháng yǐ běnbì fāzhài yǔ tóu-róngzī móshì, bùjǐn jiàngdī le jièkuǎnguó de huìlǜ fēngxiǎn, gèng wéi quánqiú duōbiān jīnróng tǐxì zhùrù le gèng jù bāoróngxìng de nánfāng zhìhuì.’",
+                    "translation": "David highlighted: 'NDB's local currency financing shields developing nations from FX volatility and enriches global finance with Global South solutions.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (33.4.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "国际经济关系学者在专著中论证：‘全球金融安全网的完善离不开多边危机救助机制与区域金融安排（如清迈倡议多边化）的有效协同，共同抵御系统性外部流动性冲击。’",
+                    "reading": "Guójì jīngjì guānxì xuézhě zài zhuānzhù zhōng lùnzhèng: ‘Quánqiú jīnróng ānquánwǎng de wánshàn líbùkāi duōbiān wēijī jiùzhù jīzhì yǔ qūyù jīnróng ānpái (rú Qīngmǎi Chàngyì duōbiānhuà) de yǒuxiào xiétóng, gòngtóng dǐyù xìtǒngxìng wàibù liúdòngxìng chōngjī.’",
+                    "translation": "The scholar argued: 'A robust Global Financial Safety Net requires multilateral mechanisms and regional arrangements like CMIM to buffer liquidity shocks.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 宏观调控与经济战略 (Macroeconomics & Currency Policy)"
+                "Multilateral Governance: 亚投多边 (AIIB Multilateralism), 新开南方 (NDB Inclusivity), 绿色融资 (Green Financing), 完善安全网 (Financial Safety Net)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Headquartered in Beijing, the Asian Infrastructure Investment Bank (AIIB, 亚投行) operates as a premier AAA-rated multilateral institution with over 100 approved members across 6 continents."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「宏观调控与经济战略 (Macroeconomics & Currency Policy)」在第4小节中的标准汉语语法规范？",
+                    "prompt": "总部设于北京、由中国倡议设立并获得全球百余国参与的国际多边基础设施开发银行简称是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (33.4.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (33.4.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (33.4.3)。"
+                        "亚投行 / AIIB (Asian Infrastructure Investment Bank)",
+                        "社区互助社",
+                        "私人当铺"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "亚投行 (AIIB) is a multilateral development bank dedicated to funding sustainable infrastructure across Asia and beyond."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「宏观经济调控与人民币国际化 (Macroeconomics & Currency)」语用情境与完整句式的选项（练习 4）：",
+                    "prompt": "金砖国家共同设立、旨在支持新兴市场国家和发展中国家基础设施与可持续发展项目的多边银行是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (33.4.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (33.4.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (33.4.3)。"
+                        "新开发银行 / NDB (New Development Bank)",
+                        "私人信用社",
+                        "典当行"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "新开发银行 (New Development Bank - NDB) serves BRICS and developing countries with sovereign/non-sovereign project funding."
                 }
             ]
         },
@@ -16422,85 +16465,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「宏观调控与经济战略 (Macroeconomics & Currency Policy)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 33-4）？",
+                    "prompt": "关于中国在亚投行等多边开发机构中的角色与全球经济金融治理倡议，下列哪一项表述完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (33.4.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (33.4.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (33.4.3)。"
+                        "多边开发机构只服务于单一国家的地缘政治垄断利益",
+                        "亚投行完全不遵循任何国际金融规则",
+                        "中国倡议设立亚投行与新开发银行，践行真正的多边主义与高标准治理，为全球南方提供普惠、绿色、可持续的基础设施融资支持，推动全球经济治理体系更加公正合理 (AIIB & NDB champion true multilateralism, funding green infrastructure for the Global South)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR C2 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "Accurately articulates the multilateral governance philosophy, sustainable financing mandate, and global impact of AIIB and NDB."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («宏观调控_33_4»):",
+                    "prompt": "Type the 3-character Hanzi abbreviation for the Asian Infrastructure Investment Bank (亚投行):",
                     "acceptedAnswers": [
-                        "宏观调控_33_4"
+                        "亚投行",
+                        "yatouhang",
+                        "yàtóuháng",
+                        "Yàtóuháng",
+                        "Yatouhang",
+                        "亞投行"
                     ],
-                    "explanation": "The target keyword was: 【宏观调控_33_4】"
+                    "explanation": "亚投行 (yà tóu háng) is the standard abbreviation for 亚洲基础设施投资银行 (AIIB)."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u33-l5": {
         "id": "zh-u33-l5",
-        "subject": "mandarin",
-        "unit": 33,
-        "lessonNumber": 5,
-        "title": "宏观经济调控与人民币国际化 (Macroeconomics & Currency) (Part 5)",
+        "unit": "zh-u33",
         "level": "C2",
-        "objective": "Comprehensive mastery of 宏观调控与经济战略 (Macroeconomics & Currency Policy).",
+        "objective": "Synthesize all macroeconomic regulation, RMB internationalization, institutional opening-up, and multilateral financial governance into an international central bankers' keynote and ministerial policy speech.",
+        "prerequisites": [
+            "zh-u33-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u33-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「宏观经济调控与人民币国际化 (Macroeconomics & Currency)」（第5部分）的核心句法结构与宏观调控与经济战略 (Macroeconomics & Currency Policy)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在本课中，我们将系统整合第三十三单元的所有宏观经济双支柱调控、人民币国际化路径、资本市场互联互通与亚投行多边治理精髓，在国际金融家圆桌峰会（Global Financial Leaders' Summit）与二十国集团（G20）财长行长会议中进行高水准交际演讲！\n\n1. 宏观调控与全球金融治理综合矩阵 (Master Macroeconomics & Monetary Architecture Matrix):\n| 政策维度 | 核心制度机制与工具箱 | 经济效应与全球战略意义 |\n| :--- | :--- | :--- |\n| **宏观调控** | 双支柱框架 / 积极财政 + 稳健货币 | 平抑周期波动，优化经济结构，防范系统性金融风险 |\n| **本币国际化** | CIPS清算 / 本币互换 / 离岸枢纽 | 降低汇率折算摩擦，提供全球公共金融产品，促进货币多极化 |\n| **资本市场开放** | 互联互通机制 / 制度型开放 / 审慎监管 | 吸引高质量全球长期资本，提升境内外资本要素双向流动效率 |\n| **多边金融治理** | 亚投行 (AIIB) / 新开发银行 (NDB) | 完善全球金融安全网，弥补发展中国家绿色基建资金缺口 |\n\n2. 第三十三单元实战交际演练 (Unit 33 Global Financial Summit Keynote):\n- 国际货币基金组织与世界银行年会主旨演讲与全球宏观政策协调圆桌论坛。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (33.5.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "中国国务院副总理在国际金融领袖投资峰会主旨演讲中庄严宣告：‘中国经济基础稳固、韧性强、潜能大，我们将持续强化宏观政策协同发力，稳慎扎实推进人民币国际化，以高水平金融对外开放与世界共享长期发展机遇！’",
+                    "reading": "Zhōngguó Guówùyuàn fù-zǒnglǐ zài guójì jīnróng lǐngxiù tóuzī fēnghuì zhǔzhǐ yǎnjiǎng zhōng zhuāngyán xuāngào: ‘Zhōngguó jīngjì jīchǔ wěngù, rènshìng qiáng, qiánnéng dà, wǒmen jiāng chíxù qiánghuà hóngguān zhèngcè xiétóng fālì, wěnshèn-zhāshi tuījìn Rénmínbì guójìhuà, yǐ gāozhìliàng jīnróng duìwài kāifàng yǔ shìjiè gòngxiǎng chángqī fāzhǎn jīyù!’",
+                    "translation": "The Vice Premier declared: 'China's economy has solid foundations and great potential; we will advance macro policy coordination, RMB internationalization, and high-level financial opening-up!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (33.5.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫在世界经济论坛全球金融领袖圆桌对话中总结：‘从稳健的货币政策到创新的跨境金融清算网络，中国不仅有效抵御了外部溢出风险，更为动荡重构中的国际货币体系提供了难能可贵的稳定性与流动性锚！’",
+                    "reading": "Dàwèi zài Shìjiè Jīngjì Lùntán quánqiú jīnróng lǐngxiù yuánzhuō duìhuà zhōng zǒngjié: ‘Cóng wěnjiàn de huòbì zhèngcè dào chuàngxīn de kuàjìng jīnróng qīngsuàn wǎngluò, Zhōngguó bùjǐn yǒuxiào dǐyù le wàibù yìchū fēngxiǎn, gèng wéi dòngdàng chónggòu zhōng de guójì huòbì tǐxì tígōng le nánnéng-kěguì de wěndìngxìng yǔ liúdòngxìng máo!’",
+                    "translation": "David summarized: 'From prudent monetary policy to CIPS clearing networks, China buffers external spillovers and anchors the global monetary architecture.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (33.5.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "国际清算银行（BIS）高级顾问在闭幕研讨会上评价：‘中国宏观经济调控与多边金融机构建设展现了卓越的政策定力与前瞻性，为全球经济治理注入了充满活力的新动能。’",
+                    "reading": "Guójì Qīngsuàn Yínháng gāojí gùwèn zài bìmù yántǎohuì shang píngjià: ‘Zhōngguó hóngguān jīngjì tiáokòng yǔ duōbiān jīnróng jīgòu jiànshè zhǎnxiàn le zhuóyuè de zhèngcè dìnglì yǔ qiánzhānxìng, wéi quánqiú jīngjì zhìlǐ zhùrù le chōngmǎn huólì de xīn dòngnéng.’",
+                    "translation": "The BIS adviser concluded: 'China's macroeconomic governance and multilateral financial initiatives bring stability and dynamic impetus to global governance.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 宏观调控与经济战略 (Macroeconomics & Currency Policy)"
+                "Macro Apex: 宏观双支柱 (Dual-Pillar Macro) + 人民币出海 (RMB Global Path) + 互联制度放 (Connect Opening) + 亚投多边治 (Multilateral AIIB) = Global Stability (金融强国)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "The national strategic goal of building a «金融强国» (Financial Powerhouse) guides China's long-term modernization of financial supervision, capital markets, and currency internationalization."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「宏观调控与经济战略 (Macroeconomics & Currency Policy)」在第5小节中的标准汉语语法规范？",
+                    "prompt": "旨在提升金融服务实体经济质效、防范化解系统性金融风险、稳妥推进人民币国际化与资本市场开放的国家战略目标是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (33.5.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (33.5.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (33.5.3)。"
+                        "金融脱实向虚",
+                        "建设金融强国 (Building a Financial Powerhouse)",
+                        "完全去金融化"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "建设金融强国 (Building a Financial Powerhouse) encompasses modernizing financial infrastructure, regulation, and currency governance."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「宏观经济调控与人民币国际化 (Macroeconomics & Currency)」语用情境与完整句式的选项（练习 5）：",
+                    "prompt": "在经济全球化与国际地缘局势深刻调整的背景下，为全球多边货币体系注入稳定动能、降低单一货币依赖风险的核心货币战略是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (33.5.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (33.5.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (33.5.3)。"
+                        "人民币国际化 (RMB Internationalization)",
+                        "封闭内循环",
+                        "以物易物"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "人民币国际化 (RMB internationalization) enhances multilateral liquidity safety and diversifies global trade currencies."
                 }
             ]
         },
@@ -16508,24 +16563,31 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「宏观调控与经济战略 (Macroeconomics & Currency Policy)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 33-5）？",
+                    "prompt": "关于中国宏观经济调控体系、人民币国际化路径、制度型金融开放与多边经济治理贡献，下列哪一项总括完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (33.5.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (33.5.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (33.5.3)。"
+                        "宏观经济完全不需要任何国家调控与金融清算网络",
+                        "中国通过双支柱宏观调控体系维护经济平稳运行，稳慎推进人民币国际化与资本市场制度型开放，并依托亚投行等多边机构推动更加包容普惠的全球经济治理新格局 (Dual-pillar macro controls, steady RMB internationalization, institutional opening, and multilateral governance)",
+                        "金融开放必然导致国家主权与经济崩溃"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR C2 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "Comprehensively summarizes the entire unit on macro controls, currency internationalization, capital market opening, and multilateral development."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («宏观调控_33_5»):",
+                    "prompt": "Type the 4-character Hanzi phrase for 'Financial Powerhouse / Leading Financial Nation' (金融强国):",
                     "acceptedAnswers": [
-                        "宏观调控_33_5"
+                        "金融强国",
+                        "jinrongqiangguo",
+                        "jīnróng qiángguó",
+                        "jīnróngqiángguó",
+                        "Jīnróngqiángguó",
+                        "Jinrongqiangguo",
+                        "金融強國"
                     ],
-                    "explanation": "The target keyword was: 【宏观调控_33_5】"
+                    "explanation": "金融强国 (jīn róng qiáng guó) means 'Financial Powerhouse'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u34-l1": {
