@@ -6841,63 +6841,70 @@
     },
     "am-u13-l1": {
         "id": "am-u13-l1",
-        "subject": "amharic",
-        "unit": 13,
-        "lessonNumber": 1,
-        "title": "አየር ሁኔታ እና የተፈጥሮ አካባቢ (Weather & Geography) (Part 1)",
+        "unit": "am-u13",
         "level": "B1",
-        "objective": "Comprehensive mastery of አየር ጠባይ እና ተፈጥሮ (Weather and Nature).",
+        "objective": "Describe real-time weather conditions and temperature in Amharic using meteorological nouns and descriptive adjectives including ፀሐያማ (sunny), ዝናባማ (rainy), ደመናማ (cloudy), ንፋስ (wind), ሙቀት (heat), and ቅዝቃዜ (cold).",
+        "prerequisites": [
+            "am-u12-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u12-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (አየር ጠባይ እና ተፈጥሮ (Weather and Nature) - ደረጃ 1) ተማሪዎች ስለ አየር ጠባይ እና ተፈጥሮ (Weather and Nature) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Discussing weather (የአየር ሁኔታ) and climate patterns in Amharic involves specialized meteorological vocabulary, descriptive adjective derivations, and impersonal weather verbal idioms.\n\n1. Meteorological Nouns and Adjective Suffixation (-አማ / -ama):\nThe suffix **-አማ** (-ama) derives adjectives indicating abundance or characteristic quality:\n- **ፀሐይ** (Ts'ehay — Sun) -> **ፀሐያማ** (Ts'ehayama — Sunny)\n- **ዝናብ** (Zinab — Rain) -> **ዝናባማ** (Zinabama — Rainy)\n- **ደመና** (Demena — Cloud) -> **ደመናማ** (Demenama — Cloudy)\n- **ንፋስ** (Nifas — Wind) -> **ንፋሳማ** (Nifasama — Windy)\n- **ጭጋግ** (Ch'igag — Fog / Mist) -> **ጭጋጋማ** (Ch'igagama — Foggy)\n\n2. Temperature and Atmospheric Descriptions (የሙቀት መጠን እና ቅዝቃዜ):\n- **ሙቀት** (Muqet — Heat / Warmth) -> **ሞቃታማ** (Moqatama — Warm / Hot)\n- **ብርድ / ቅዝቃዜ** (Bird / Qizqazē — Cold / Chill) -> **ቀዝቃዛ** (Qezqaza — Cold / Chilly)\n\n3. Common Weather Verbs and Idiomatic Phrases:\n- «**ዝናብ ይዘንባል**» (Zinab yizenbal) — It is raining / Rain falls.\n- «**ንፋስ ይነፍሳል**» (Nifas yinefsal) — The wind blows.\n- «**ፀሐይ ወጥታለች**» (Ts'ehay wet'atalech) — The sun is out.\n- «**አየሩ በጣም ደስ ይላል**» (Ayeru bet'am des yilal) — The weather is very pleasant.",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የአየር ጠባይ እና ተፈጥሮ (Weather and Nature) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (13.1.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ዛሬ ጠዋት በአዲስ አበባ ከተማ አየሩ በጣም ቀዝቃዛ እና ደመናማ ነው።",
+                    "reading": "Zarē t'ewat be'Addīs Abeba ketema ayeru bet'am qezqaza ina demenama new.",
+                    "translation": "This morning in Addis Ababa the weather is very cold and cloudy."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (13.1.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ከሰዓት በኋላ ከባድ ዝናብ ስለሚዘንብ ጃንጥላህን ይዘህ ውጣ።",
+                    "reading": "Kese'at behwala kebad zinab silemīzenb jant'ilāhin yizeh wut'a.",
+                    "translation": "Because it will rain heavily in the afternoon, take your umbrella with you as you go out."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (13.1.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "በደብረ ዘይት ዛሬ ፀሐያማ እና ሞቃታማ አየር አለ።",
+                    "reading": "Bedebre Zeyt zarē ts'ehayama ina moqatama ayer alle.",
+                    "translation": "In Debre Zeyit today there is sunny and warm weather."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for አየር ጠባይ እና ተፈጥሮ (Weather and Nature)"
+                "The suffix -አማ (-ama) is like the English '-y': ፀሐይ (sun) -> ፀሐያማ (sunny), ደመና (cloud) -> ደመናማ (cloudy)!",
+                "ጃንጥላ (Jant'ila) = Umbrella — a gentle roof keeping off the rain."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Addis Ababa sits at an elevation of 2,355 meters above sea level. This high altitude gives the capital a subtropical highland climate with sunny, pleasant afternoons (ፀሐያማ) followed by brisk mountain evenings requiring warm shawls (ጋቢ / ነጠላ)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «አየር ጠባይ እና ተፈጥሮ (Weather and Nature)» አጠቃቀም በደረጃ 1 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«ደመናማ» የሚለው ቃል ምን ያመለክታል?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (13.1.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (13.1.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (13.1.3)።"
+                        "Sunny / Clear skies",
+                        "Cloudy / Overcast",
+                        "Hot / Humid"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "ደመና (cloud) + -አማ (-y) = ደመናማ (cloudy / overcast)."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«አየር ሁኔታ እና የተፈጥሮ አካባቢ (Weather & Geography)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 1)፡",
+                    "prompt": "«ዝናብ ይዘንባል» የሚለው አገላለጽ ትርጉም ምንድን ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (13.1.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (13.1.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (13.1.3)።"
+                        "The wind is blowing",
+                        "It is raining",
+                        "The sun is setting"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "ዝናብ (rain) + ይዘንባል (it falls / rains) means 'it is raining'."
                 }
             ]
         },
@@ -6905,85 +6912,94 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«አየር ጠባይ እና ተፈጥሮ (Weather and Nature)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 13-1)?",
+                    "prompt": "የትኛው የአማርኛ ቃል 'Sunny' የሚለውን የአየር ሁኔታ ይገልጻል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (13.1.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (13.1.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (13.1.3)።"
+                        "ፀሐያማ (Ts'ehayama)",
+                        "ደመናማ (Demenama)",
+                        "ጭጋጋማ (Ch'igagama)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "ፀሐያማ (Ts'ehayama) = sunny; ደመናማ = cloudy; ጭጋጋማ = foggy."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ዝናብ_13_1»):",
+                    "prompt": "Type the Amharic word for 'rain' in Fidel script (ዝናብ):",
                     "acceptedAnswers": [
-                        "ዝናብ_13_1"
+                        "ዝናብ",
+                        "zinab",
+                        "Zinab"
                     ],
-                    "explanation": "The target keyword was: 【ዝናብ_13_1】"
+                    "explanation": "ዝናብ (Zinab) means 'rain'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u13-l2": {
         "id": "am-u13-l2",
-        "subject": "amharic",
-        "unit": 13,
-        "lessonNumber": 2,
-        "title": "አየር ሁኔታ እና የተፈጥሮ አካባቢ (Weather & Geography) (Part 2)",
+        "unit": "am-u13",
         "level": "B1",
-        "objective": "Comprehensive mastery of አየር ጠባይ እና ተፈጥሮ (Weather and Nature).",
+        "objective": "Distinguish and discuss the four traditional Ethiopian seasons — ክረምት (Main rainy season), መኸር (Harvest season), በጋ (Dry season), and ጸደይ (Spring/Bloom season) — and their cultural and agricultural significance.",
+        "prerequisites": [
+            "am-u13-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u13-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (አየር ጠባይ እና ተፈጥሮ (Weather and Nature) - ደረጃ 2) ተማሪዎች ስለ አየር ጠባይ እና ተፈጥሮ (Weather and Nature) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Ethiopia's unique geography and calendar define four distinct annual seasons (አራቱ ወቅቶች), which dictate agricultural production, religious celebrations, and community life.\n\n1. The Four Ethiopian Seasons (አራቱ ወቅቶች):\n- **ክረምት** (Kiremt — June to August):\nThe major rainy season characterized by dense highland cloud cover and heavy rainfall. Essential for recharging rivers and irrigating crops.\n- **መኸር** (Meher — September to November):\nThe harvest and post-rain season. Marked by blooming yellow Adey Abeba (አደይ አበባ) flowers, clear skies, and the Ethiopian New Year (እንቁጣጣሽ) in Meskerem.\n- **በጋ** (Bega — December to February):\nThe dry, sun-drenched season featuring crisp blue skies and cool evenings. Major festive season of Gena (ገና) and Timket (ጥምቀት).\n- **ጸደይ / በልግ** (Ts'edey / Belg — March to May):\nThe season of short spring rains (የበልግ ዝናብ) and agricultural soil preparation before the main summer downpours.\n\n2. Agricultural & Cultural Associations:\n- **አዝመራ** (Azmera) — Harvest / Crop yield\n- **እህል መሰብሰብ** (Ihil mesebseb) — Harvesting grain (Teff, barley, wheat)",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የአየር ጠባይ እና ተፈጥሮ (Weather and Nature) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (13.2.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "በክረምት ወራት በኢትዮጵያ ከፍተኛ ተራሮች ላይ ኃይለኛ ዝናብ ይዘንባል።",
+                    "reading": "Bekiremt werat be'Ityop'ya kefitegna teraroch lay haylegna zinab yizenbal.",
+                    "translation": "During the Kiremt months, heavy rain falls on the high mountains of Ethiopia."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (13.2.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "በመኸር ወቅት ቢጫ አደይ አበባ ሜዳውን በሙሉ ያሸበርቀዋል።",
+                    "reading": "Bemeher weqt bīch'a adey abeba mēdawun bemullu yasheberqewal.",
+                    "translation": "In the Meher season, yellow Adey Abeba flowers adorn the entire field."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (13.2.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "በበጋ ወቅት አየሩ ደረቅ እና ፀሐያማ ስለሆነ ለጉዞ እና ለበዓላት ተስማሚ ነው።",
+                    "reading": "Bebega weqt ayeru dereq ina ts'ehayama silehone leguzo ina lebe'alat tesmami new.",
+                    "translation": "In the Bega season, because the weather is dry and sunny, it is suitable for travel and holidays."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for አየር ጠባይ እና ተፈጥሮ (Weather and Nature)"
+                "Remember the 4 seasons in sequence: Kiremt (Heavy Rain), Meher (Harvest & Yellow Flowers), Bega (Dry & Bright), Ts'edey (Spring Blooms)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "The end of the heavy rainy season (ክረምት) on መስከረም 1 (September 11) inaugurates the Ethiopian New Year (እንቁጣጣሽ / Enkutatash). Yellow Adey Abeba flowers (ቢጫ አደይ አበባ) bloom everywhere across the Ethiopian highlands, symbolizing peace, light, and renewed harvest."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «አየር ጠባይ እና ተፈጥሮ (Weather and Nature)» አጠቃቀም በደረጃ 2 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "የኢትዮጵያ ዋነኛ የዝናብ ወቅት የትኛው ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (13.2.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (13.2.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (13.2.3)።"
+                        "በጋ (Bega)",
+                        "ክረምት (Kiremt)",
+                        "መኸር (Meher)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "ክረምት (Kiremt) is the primary heavy rainy season spanning June through August."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«አየር ሁኔታ እና የተፈጥሮ አካባቢ (Weather & Geography)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 2)፡",
+                    "prompt": "«መኸር» ወቅት በምን ይታወቃል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (13.2.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (13.2.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (13.2.3)።"
+                        "በድርቅ እና በበረዶ",
+                        "በእህል አሰባሰብ እና በአደይ አበባ መፈካት",
+                        "በከባድ የበረሃ አውሎ ንፋስ"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "መኸር (Meher) is the harvest season, celebrated for crop gathering and the blooming of golden Adey Abeba wildflowers."
                 }
             ]
         },
@@ -6991,85 +7007,95 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«አየር ጠባይ እና ተፈጥሮ (Weather and Nature)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 13-2)?",
+                    "prompt": "የኢትዮጵያ ደረቅ እና ፀሐያማ ወቅት ምን ተብሎ ይጠራል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (13.2.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (13.2.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (13.2.3)።"
+                        "ክረምት (Kiremt)",
+                        "በጋ (Bega)",
+                        "ጸደይ (Ts'edey)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "በጋ (Bega) is the sunny dry season lasting from December through February."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ዝናብ_13_2»):",
+                    "prompt": "Type the Amharic word for the main rainy season in Fidel script (ክረምት):",
                     "acceptedAnswers": [
-                        "ዝናብ_13_2"
+                        "ክረምት",
+                        "kiremt",
+                        "Kiremt",
+                        "kremt"
                     ],
-                    "explanation": "The target keyword was: 【ዝናብ_13_2】"
+                    "explanation": "ክረምት (Kiremt) is the Ethiopian rainy season."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u13-l3": {
         "id": "am-u13-l3",
-        "subject": "amharic",
-        "unit": 13,
-        "lessonNumber": 3,
-        "title": "አየር ሁኔታ እና የተፈጥሮ አካባቢ (Weather & Geography) (Part 3)",
+        "unit": "am-u13",
         "level": "B1",
-        "objective": "Comprehensive mastery of አየር ጠባይ እና ተፈጥሮ (Weather and Nature).",
+        "objective": "Identify and describe geographical features and landforms in Amharic including ተራራ (mountain), ሸለቆ (valley), ወንዝ (river), ሐይቅ (lake), ደን (forest), ፏፏቴ (waterfall), and ሜዳ (plateau/plain).",
+        "prerequisites": [
+            "am-u13-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u13-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (አየር ጠባይ እና ተፈጥሮ (Weather and Nature) - ደረጃ 3) ተማሪዎች ስለ አየር ጠባይ እና ተፈጥሮ (Weather and Nature) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Ethiopia possesses one of the most dramatic physical topographies on the African continent, from towering volcanic plateaus to deep Rift Valley depressions.\n\n1. Landforms and Water Bodies (የመልክዓ ምድር ክፍሎች):\n- **ተራራ** (Terara) — Mountain (e.g., **ራስ ዳሽን** / Ras Dashen — 4,550m summit)\n- **ሸለቆ** (Sheleqo) — Valley / Canyon\n- **ስምጥ ሸለቆ** (Simt' sheleqo) — The Great Rift Valley\n- **ወንዝ** (Wenz) — River (e.g., **ዓባይ ወንዝ** / Blue Nile, **አዋሽ ወንዝ** / Awash)\n- **ሐይቅ** (Hayq) — Lake (e.g., **ጣና ሐይቅ** / Lake Tana)\n- **ፏፏቴ** (Fwafwatē) — Waterfall (e.g., **የዓባይ ፏፏቴ** / Tis Issat Falls)\n- **ደን** (Den) — Forest / Woodland\n- **ሜዳ** (Mēda) — Open plain / Plateau\n\n2. Traditional Agro-Climatic Zones of Ethiopia:\n- **ደጋ** (Dega) — Cool highland zone (>2,300m elevation)\n- **ወይናደጋ** (Weynadega) — Moderate temperate mid-altitude zone (1,500m–2,300m)\n- **ቆላ** (Qola) — Warm lowland zone (<1,500m elevation)\n- **በረሃ** (Bereha) — Arid desert zone",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የአየር ጠባይ እና ተፈጥሮ (Weather and Nature) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (13.3.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "የዓባይ ወንዝ ከጣና ሐይቅ ተነስቶ ረጅም ጉዞ ያደርጋል።",
+                    "reading": "Ye'Abay wenz keT'ana hayq tenesto rejim guzo yaderegal.",
+                    "translation": "The Blue Nile River rises from Lake Tana and makes a long journey."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (13.3.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ራስ ዳሽን በኢትዮጵያ ውስጥ እጅግ ከፍተኛው ተራራ ነው።",
+                    "reading": "Ras Dashen be'Ityop'ya wust' ijig kefitegnaw terara new.",
+                    "translation": "Ras Dashen is the highest mountain in Ethiopia."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (13.3.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "በስምጥ ሸለቆ ውስጥ በርካታ ውብ ሐይቆች እና ብሔራዊ ፓርኮች ይገኛሉ።",
+                    "reading": "Besimt' sheleqo wust' birkata wub hayqoch ina biherawi parkoch yigegnalu.",
+                    "translation": "In the Great Rift Valley, numerous beautiful lakes and national parks are found."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for አየር ጠባይ እና ተፈጥሮ (Weather and Nature)"
+                "ተራራ (Terara) rises high like a terra-cotta peak! ሐይቅ (Hayq) = Lake — picture hiking around the lake shore!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Ethiopia's traditional agro-ecological classification — ደጋ (Dega), ወይናደጋ (Weynadega), and ቆላ (Qola) — has guided agricultural cultivation for millennia. Teff (ጤፍ) and fine Arabica coffee (ቡና) thrive in the temperate ወይናደጋ zones."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «አየር ጠባይ እና ተፈጥሮ (Weather and Nature)» አጠቃቀም በደረጃ 3 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«ወንዝ» እና «ሐይቅ» ምን ማለት ናቸው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (13.3.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (13.3.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (13.3.3)።"
+                        "River and Lake",
+                        "Mountain and Valley",
+                        "Forest and Meadow"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "ወንዝ (Wenz) = river; ሐይቅ (Hayq) = lake."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«አየር ሁኔታ እና የተፈጥሮ አካባቢ (Weather & Geography)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 3)፡",
+                    "prompt": "«ደጋ» የሚለው የአየር ጠባይ ዞን ምን አይነት ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (13.3.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (13.3.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (13.3.3)።"
+                        "ሞቃታማ ዝቅተኛ ቦታ (Hot lowland)",
+                        "ቀዝቃዛ ከፍተኛ ተራራማ አካባቢ (Cool highland)",
+                        "የበረሃ አካባቢ (Arid desert)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "ደጋ (Dega) represents the cool highland zones situated above 2,300 meters."
                 }
             ]
         },
@@ -7077,85 +7103,94 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«አየር ጠባይ እና ተፈጥሮ (Weather and Nature)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 13-3)?",
+                    "prompt": "የትኛው ቃል 'Waterfall' የሚለውን ተፈጥሮአዊ መልክዓ ምድር ያመለክታል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (13.3.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (13.3.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (13.3.3)።"
+                        "ተራራ (Terara)",
+                        "ደን (Den)",
+                        "ፏፏቴ (Fwafwate)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "ፏፏቴ (Fwafwate) = waterfall; ተራራ = mountain; ደን = forest."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ዝናብ_13_3»):",
+                    "prompt": "Type the Amharic word for 'river' in Fidel script (ወንዝ):",
                     "acceptedAnswers": [
-                        "ዝናብ_13_3"
+                        "ወንዝ",
+                        "wenz",
+                        "Wenz"
                     ],
-                    "explanation": "The target keyword was: 【ዝናብ_13_3】"
+                    "explanation": "ወንዝ (Wenz) means 'river'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u13-l4": {
         "id": "am-u13-l4",
-        "subject": "amharic",
-        "unit": 13,
-        "lessonNumber": 4,
-        "title": "አየር ሁኔታ እና የተፈጥሮ አካባቢ (Weather & Geography) (Part 4)",
+        "unit": "am-u13",
         "level": "B1",
-        "objective": "Comprehensive mastery of አየር ጠባይ እና ተፈጥሮ (Weather and Nature).",
+        "objective": "Inquire about the weather forecast, discuss current atmospheric conditions, and give travel/clothing recommendations in Amharic using « ዛሬ አየሩ እንዴት ነው? ».",
+        "prerequisites": [
+            "am-u13-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u13-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (አየር ጠባይ እና ተፈጥሮ (Weather and Nature) - ደረጃ 4) ተማሪዎች ስለ አየር ጠባይ እና ተፈጥሮ (Weather and Nature) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Conducting daily conversations about the weather forecast (የአየር ሁኔታ ትንበያ) is common in Ethiopian social exchanges, travel planning, and outdoor gatherings.\n\n1. Question Patterns for Weather Inquiries:\n- «**ዛሬ አየሩ እንዴት ነው?**» (Zarē ayeru indēt new?) — How is the weather today?\n- «**ነገ ዝናብ ይዘንባል ተብሏል?**» (Nege zinab yizenbal teblwal?) — Is it forecast to rain tomorrow?\n- «**የሙቀት መጠኑ ስንት ዲግሪ ነው?**» (Yemuqet met'enu sint dīgrī new?) — What is the temperature in degrees?\n\n2. Descriptive Responses and Weather Status:\n- «**አየሩ በጣም ደስ ይላል፤ ፀሐያማ ነው።**» (The weather is very pleasant; it is sunny.)\n- «**ንፋስ እና ብርድ ስላለ ጃኬት ልበስ።**» (Because there is wind and cold, wear a jacket.)\n- «**አየሩ እየተቀየረ ነው፤ ደመና እየመጣ ነው።**» (The weather is changing; clouds are moving in.)\n\n3. Key Meteorological Terms:\n- **ትንበያ** (Tinbeya) — Forecast / Prediction\n- **የሙቀት መጠን** (Yemuqet met'en) — Temperature level\n- **ዲግሪ ሴንቲግሬድ** (Dīgrī sēntīgrēd) — Degrees Celsius",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የአየር ጠባይ እና ተፈጥሮ (Weather and Nature) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (13.4.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "ወደ ጎንደር ከመጓዝህ በፊት የአየር ሁኔታ ትንበያውን አዳምጥ።",
+                    "reading": "Wede Gonder kemegwazih befīt ye'ayer hunēta tinbeyawun adamit'.",
+                    "translation": "Before traveling to Gondar, listen to the weather forecast."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (13.4.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ዛሬ በአዲስ አበባ አየሩ ጥሩ ነው፤ የሙቀት መጠኑ ሃያ ሁለት ዲግሪ ነው።",
+                    "reading": "Zarē be'Addīs Abeba ayeru t'iru new; yemuqet met'enu haya hulet dīgrī new.",
+                    "translation": "Today in Addis Ababa the weather is good; the temperature is twenty-two degrees."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (13.4.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "ነገ ጉዞ ስላለን ጃንጥላ እና ወፍራም ልብስ ማዘጋጀት አለብን።",
+                    "reading": "Nege guzo silallen jant'ila ina wefram libs mazegajet allebin.",
+                    "translation": "Since we have a journey tomorrow, we must prepare an umbrella and thick clothing."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for አየር ጠባይ እና ተፈጥሮ (Weather and Nature)"
+                "«ትንበያ» (Tinbeya) = Forecast / Prediction. Look ahead and predict the weather!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "In Ethiopian culture, rain during an important public celebration or family event (like a wedding or baptism) is traditionally viewed as a sign of heavenly blessing and abundance (በረከት / berekhet)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «አየር ጠባይ እና ተፈጥሮ (Weather and Nature)» አጠቃቀም በደረጃ 4 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«ዛሬ አየሩ እንዴት ነው?» ተብሎ ሲጠየቅ ተስማሚው ምላሽ የትኛው ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (13.4.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (13.4.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (13.4.3)።"
+                        "አየሩ በጣም ፀሐያማ እና ደስ የሚል ነው።",
+                        "ትናንት መጽሐፍ አነበብኩ።",
+                        "ሰዓቱ አምስት ሆኗል።"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "«አየሩ በጣም ፀሐያማ እና ደስ የሚል ነው» (The weather is very sunny and pleasant) directly answers the meteorological inquiry."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«አየር ሁኔታ እና የተፈጥሮ አካባቢ (Weather & Geography)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 4)፡",
+                    "prompt": "«ጃኬት ልበስ፤ ብርድ ነው» ምን ማለት ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (13.4.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (13.4.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (13.4.3)።"
+                        "Take off your hat; it is hot",
+                        "Wear a jacket; it is cold",
+                        "Bring water; it is dry"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "ጃኬት ልበስ (wear a jacket) + ብርድ ነው (it is cold) gives practical clothing advice."
                 }
             ]
         },
@@ -7163,85 +7198,94 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«አየር ጠባይ እና ተፈጥሮ (Weather and Nature)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 13-4)?",
+                    "prompt": "«ትንበያ» የሚለው ቃል ምን ትርጉም አለው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (13.4.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (13.4.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (13.4.3)።"
+                        "Measurement scale",
+                        "Forecast / Prediction",
+                        "Historical diary"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "ትንበያ (Tinbeya) = forecast / prediction."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ዝናብ_13_4»):",
+                    "prompt": "Type the Amharic word for 'weather / air' in Fidel script (አየር):",
                     "acceptedAnswers": [
-                        "ዝናብ_13_4"
+                        "አየር",
+                        "ayer",
+                        "Ayer"
                     ],
-                    "explanation": "The target keyword was: 【ዝናብ_13_4】"
+                    "explanation": "አየር (Ayer) means 'air / weather'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u13-l5": {
         "id": "am-u13-l5",
-        "subject": "amharic",
-        "unit": 13,
-        "lessonNumber": 5,
-        "title": "አየር ሁኔታ እና የተፈጥሮ አካባቢ (Weather & Geography) (Part 5)",
+        "unit": "am-u13",
         "level": "B1",
-        "objective": "Comprehensive mastery of አየር ጠባይ እና ተፈጥሮ (Weather and Nature).",
+        "objective": "Synthesize weather, seasonal cycles, and geographic descriptions into an advanced communicative dialogue describing an ecological tour across Ethiopia's diverse natural landscapes.",
+        "prerequisites": [
+            "am-u13-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u13-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (አየር ጠባይ እና ተፈጥሮ (Weather and Nature) - ደረጃ 5) ተማሪዎች ስለ አየር ጠባይ እና ተፈጥሮ (Weather and Nature) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "This review lesson synthesizes geographical landform terminology, traditional climatic zones, seasonal cycles, and weather descriptions into an integrated descriptive narrative.\n\n1. Geographic Synthesis & Regional Contrasts:\n- **The Highland Peaks (የሰሜን እና የባሌ ተራሮች):** Cool mountain climates (ደጋ), Afro-alpine moorlands, and deep rocky gorges (**ገደሎች**).\n- **The Great Rift Valley (ስምጥ ሸለቆ):** Mild lakes (**ሐይቆች**), acacia savanna, and rich geothermal springs.\n- **The Nile Basin (የዓባይ ተፋሰስ):** Rushing rivers (**ወንዞች**), majestic cataracts (**ፏፏቴዎች**), and dense fertile valleys.\n\n2. Key Geographical Vocabulary Review:\n- **ገደል** (Gedel) — Gorge / Precipice / Canyon\n- **ተፋሰስ** (Tefases) — River Basin / Drainage basin\n- **ተፈጥሮአዊ ውበት** (Tefet'rowi wubet) — Natural beauty",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የአየር ጠባይ እና ተፈጥሮ (Weather and Nature) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (13.5.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "በሰሜን ተራሮች ብሔራዊ ፓርክ ውስጥ የሚገኙት አስደናቂ ገደሎች እና ደኖች ብርቅዬ የዱር እንስሳትን ይይዛሉ።",
+                    "reading": "Besemēn teraroch biherawi park wust' yemigegnut asdenaqi gedeiloch ina denoch birqiyē yedur insisatin yiyzalu.",
+                    "translation": "The stunning cliffs and forests found in the Simien Mountains National Park shelter rare wildlife."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (13.5.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የጣና ሐይቅ እና የዓባይ ፏፏቴ በመኸር ወቅት በጎብኚዎች እጅግ ይወደዳሉ።",
+                    "reading": "YeT'ana hayq ina ye'Abay fwafwatē bemeher weqt begobnyowoch ijig yiwededalu.",
+                    "translation": "Lake Tana and the Blue Nile Falls are deeply beloved by visitors during the harvest season."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (13.5.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "በኢትዮጵያ ውስጥ በአጭር ርቀት ጉዞ ከአስደናቂ ቀዝቃዛ ደጋ ወደ ለምለም ሸለቆ መድረስ ይቻላል።",
+                    "reading": "Be'Ityop'ya wust' be'ach'ir riqet guzo ke'asdenaqi qezqaza dega wede lemlem sheleqo medres yichalal.",
+                    "translation": "In Ethiopia, within a short travel distance one can reach a lush valley from the wondrous cool highlands."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for አየር ጠባይ እና ተፈጥሮ (Weather and Nature)"
+                "ገደል (Gedel) = Canyon/Gorge; ፏፏቴ (Fwafwate) = Waterfall (sounds like rushing foaming water: fwafwa!)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "The Simien Mountains National Park (የስሜን ተራሮች) was designated among the very first UNESCO World Heritage sites in 1978, renowned for its dramatic escarpments and endemic species like the Walia Ibex (ዋሊያ) and Gelada Baboon (ጭላዳ ዝንጀሮ)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «አየር ጠባይ እና ተፈጥሮ (Weather and Nature)» አጠቃቀም በደረጃ 5 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«የሰሜን ተራሮች ብሔራዊ ፓርክ» በምን ይታወቃል?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (13.5.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (13.5.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (13.5.3)።"
+                        "በከፍተኛ ተራሮች፣ አስደናቂ ገደሎች እና ብርቅዬ እንስሳት",
+                        "በባህር ዳርቻ እና አሸዋማ ደሴቶች",
+                        "በትላልቅ የፋብሪካ ከተሞች"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "The Simien Mountains National Park is famed for its monumental escarpments, deep canyons, and rare endemic wildlife."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«አየር ሁኔታ እና የተፈጥሮ አካባቢ (Weather & Geography)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 5)፡",
+                    "prompt": "«ከደጋ ወደ ቆላ» የሚለው ጉዞ ምን አይነት የመልክዓ ምድር ለውጥ ያሳያል?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (13.5.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (13.5.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (13.5.3)።"
+                        "ከቀዝቃዛ ከፍተኛ ቦታ ወደ ሞቃታማ ዝቅተኛ ቦታ",
+                        "ከበረዶ ወደ ውቅያኖስ",
+                        "ከከተማ ወደ ከተማ ብቻ"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "ደጋ (cool highland) to ቆላ (warm lowland) transitions from cool mountain terrain down to warm plains."
                 }
             ]
         },
@@ -7249,24 +7293,27 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«አየር ጠባይ እና ተፈጥሮ (Weather and Nature)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 13-5)?",
+                    "prompt": "የኢትዮጵያ ትልቁ ሐይቅ የትኛው ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (13.5.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (13.5.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (13.5.3)።"
+                        "ላንጋኖ ሐይቅ",
+                        "ጣና ሐይቅ (Lake Tana)",
+                        "ዝዋይ ሐይቅ"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR B1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "ጣና ሐይቅ (Lake Tana) is the largest lake in Ethiopia and the source of the Blue Nile."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ዝናብ_13_5»):",
+                    "prompt": "Type the Amharic word for 'mountain' in Fidel script (ተራራ):",
                     "acceptedAnswers": [
-                        "ዝናብ_13_5"
+                        "ተራራ",
+                        "terara",
+                        "Terara"
                     ],
-                    "explanation": "The target keyword was: 【ዝናብ_13_5】"
+                    "explanation": "ተራራ (Terara) means 'mountain'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u14-l1": {
