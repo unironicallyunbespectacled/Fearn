@@ -450,61 +450,78 @@
         "id": "vi-u1-l1",
         "unit": "vi-u1",
         "level": "A1",
-        "objective": "Recognize and produce Vietnamese's six tones using the classic ma/má/mà/mả/mã/mạ example, and greet someone with xin chào.",
+        "objective": "Recognize and produce Vietnamese's six tones using the classic ma/má/mà/mả/mã/mạ example, master the aspirated vs fricative consonant pairs (ph, th, kh), and greet someone with xin chào.",
         "prerequisites": [],
         "warmup": {
             "srsPull": true,
             "reviewFocus": []
         },
         "presentation": {
-            "explanation": "Before a single word of vocabulary, Vietnamese asks you to hear something English speakers normally ignore: pitch contour is part of the WORD, not just the mood. Say the exact same consonant-vowel combo with six different pitch shapes and you get six completely unrelated words — no shared meaning, no relation, total accident that they share letters. The textbook example every Vietnamese learner meets is the syllable ma: ma (level, flat pitch) means 'ghost'; má (pitch rising sharply, acute mark) means 'mother' or 'cheek'; mà (pitch falling low, grave mark) means 'but'; mả (dipping then rising, hook above) means 'grave/tomb'; mã (creaky and rising, tilde) means 'code' or 'horse'; mạ (short, low, cut off abruptly, dot below) means 'rice seedling.' Get the tone wrong and you haven't mispronounced 'ghost' — you've said 'grave' or 'rice seedling' instead. This is why tone marks are not optional decoration; they're as essential to the word's identity as any consonant. Xin chào is your first vocabulary payoff: a polite, safe, all-purpose 'hello' that works with virtually anyone, in virtually any context — the one greeting you can lean on before you've sorted out who deserves which pronoun (that's next lesson's problem).",
+            "explanation": "Before a single word of vocabulary, Vietnamese asks you to hear something English speakers normally ignore: pitch contour is part of the WORD, not just the mood. Say the exact same consonant-vowel combo with six different pitch shapes and you get six completely unrelated words — no shared meaning, no relation, total accident that they share letters.\n\n### 🔤 The 6 Tones of Vietnamese (Thanh điệu):\n1. **Thanh Ngang** (Level / Flat, no mark): Mid-high level pitch [˧˧ / 44], relaxed vocal cords. *ma* = 'ghost'.\n2. **Thanh Huyền** (Falling, grave accent `\\`): Low-falling pitch [˨˩ / 31], soft and breathy. *mà* = 'but / which'.\n3. **Thanh Sắc** (Rising, acute accent `/`): Mid-high rising pitch [˧˥ / 45], energetic and sharp. *má* = 'mother / cheek'.\n4. **Thanh Hỏi** (Dipping-rising, hook above `?`): Mid-falling then rising pitch [˧˩˧ / 323], smooth curve in throat. *mả* = 'tomb / grave'.\n5. **Thanh Ngã** (Creaky-rising, tilde `~`): High rising pitch with a distinctive glottal stop / creaky break in the middle [˧ˀ˥ / 45]. *mã* = 'horse / code'.\n6. **Thanh Nặng** (Heavy / Dropping, dot below `.`): Low constricted pitch cut off abruptly by vocal cord closure [˨˩ˀ / 21]. *mạ* = 'rice seedling'.\n\n### 🗣️ Core Consonant Trap (ph, th, kh):\n- **ph** = [f] (standard English 'f' sound in *photo*, e.g. *phở* [fəː˧˩˧], *phải* [faːj˧˩˧]).\n- **th** = [tʰ] (strongly ASPIRATED 't', like the puff of air in English *top*, distinct from unaspirated **t** [t] in *tôi*).\n- **kh** = [x] (voiceless velar fricative, like the Scottish 'ch' in *loch* or German *Bach*, e.g. *không* [xəwŋm˧˧] = 'no', *khỏe* [xwɛ˧˩˧] = 'healthy').\n\nXin chào is your first vocabulary payoff: a polite, safe, all-purpose 'hello' that works with virtually anyone, in virtually any context.",
             "examples": [
                 {
                     "target": "ma",
-                    "reading": "level tone, no mark",
+                    "reading": "[maː˧˧] (level tone, no mark)",
                     "translation": "ghost"
                 },
                 {
                     "target": "má",
-                    "reading": "sharply rising tone (sắc)",
+                    "reading": "[maː˧˥] (sharply rising tone — sắc)",
                     "translation": "mother / cheek"
                 },
                 {
                     "target": "mà",
-                    "reading": "low falling tone (huyền)",
-                    "translation": "but"
+                    "reading": "[maː˨˩] (low falling tone — huyền)",
+                    "translation": "but / which"
                 },
                 {
                     "target": "mả",
-                    "reading": "dipping-then-rising tone (hỏi)",
+                    "reading": "[maː˧˩˧] (dipping-then-rising tone — hỏi)",
                     "translation": "grave / tomb"
                 },
                 {
                     "target": "mã",
-                    "reading": "creaky rising tone (ngã)",
+                    "reading": "[maː˧ˀ˥] (creaky broken-rising tone — ngã)",
                     "translation": "code / horse"
                 },
                 {
                     "target": "mạ",
-                    "reading": "short, low, abrupt tone (nặng)",
+                    "reading": "[maː˨˩ˀ] (short, low, heavy cut-off tone — nặng)",
                     "translation": "rice seedling"
                 },
                 {
                     "target": "Xin chào!",
-                    "reading": "sin chow (approx.)",
-                    "translation": "Hello! (polite, safe with anyone)"
+                    "reading": "[sin˧˧ caːw˨˩] (sin chow)",
+                    "translation": "Hello! (polite, safe with anyone — xin is level tone, chào is falling huyền tone)"
+                },
+                {
+                    "target": "Khỏe không?",
+                    "reading": "[xwɛ˧˩˧ xəwŋm˧˧]",
+                    "translation": "Are you healthy/fine? (kh is velar fricative [x], khỏe has hỏi dipping tone)"
                 }
             ],
             "mnemonics": [
-                "Ma-má-mà-mả-mã-mạ is THE canonical drill every Vietnamese textbook uses for a reason: one syllable, six unrelated meanings, purely from pitch. If you only memorize one tonal example in this entire course, make it this one — 'ghost, mother, but, grave, horse, rice seedling' from six ways of saying the same two letters.",
-                "Picture the tone MARKS as literal pitch drawings: á tilts up (rising), à tilts down (falling), ả curves down-then-up (dip), ã wobbles with a creak partway (broken-rise), ạ gets stomped flat and short (heavy/cut-off). The mark is a tiny graph of the pitch — read it like one."
+                "Ma-má-mà-mả-mã-mạ is THE canonical drill every Vietnamese textbook uses for a reason: one syllable, six unrelated meanings, purely from pitch. 'ghost, mother, but, grave, horse, rice seedling' from six ways of saying the same two letters.",
+                "Picture the tone MARKS as literal pitch drawings: á tilts up (rising), à tilts down (falling), ả curves down-then-up (dip), ã wobbles with a creak partway (broken-rise), ạ gets stomped flat and short (heavy/cut-off).",
+                "Consonant Triad: 'ph' = f (face), 'th' = t-with-air (top), 'kh' = loch-ch (throat friction)!"
             ],
             "culturalNotes": [
-                "This course teaches the Hanoi (Northern) six-tone system, the basis of standard broadcast Vietnamese — Southern/Central varieties merge some of these tones together, so don't be surprised if a speaker from Ho Chi Minh City sounds like they're using fewer distinct pitches; both are correct, standard Vietnamese."
+                "This course teaches the Hanoi (Northern) six-tone system, the basis of standard broadcast Vietnamese — Southern/Central varieties merge some of these tones together (hỏi and ngã merge into a single dipping tone in the South), so don't be surprised if a speaker from Ho Chi Minh City sounds like they're using five distinct pitches; both are authentic, standard Vietnamese."
             ]
         },
         "guidedPractice": {
             "items": [
+                {
+                    "prompt": "How is the Vietnamese consonant digraph 'kh' (as in khỏe and không) pronounced?",
+                    "options": [
+                        "As a standard English 'k' like in cat",
+                        "As a voiceless velar fricative [x] (like the 'ch' in Scottish loch or German Bach)",
+                        "As a silent letter",
+                        "As 'sh'"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "kh represents the fricative [x], made with gentle friction in the back of the throat."
+                },
                 {
                     "prompt": "In the ma tone-drill, which word means 'ghost'?",
                     "options": [
@@ -554,6 +571,17 @@
         "independentPractice": {
             "items": [
                 {
+                    "prompt": "Which tone is marked by a tilde (~) and pronounced with a high creaky break in Northern Vietnamese (as in mã)?",
+                    "options": [
+                        "Thanh Ngã (broken-rising creaky tone)",
+                        "Thanh Huyền (falling)",
+                        "Thanh Sắc (rising)",
+                        "Thanh Nặng (dot below)"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Thanh ngã is marked with a tilde and has a distinctive creaky/glottalized break."
+                },
+                {
                     "prompt": "mà means:",
                     "options": [
                         "grave / tomb (1.1)",
@@ -574,23 +602,25 @@
                     ],
                     "answerIndex": 1,
                     "explanation": "nặng is marked with a dot below and is short/abrupt."
-                },
-                {
-                    "prompt": "Why might a Southern Vietnamese speaker sound like they use fewer tones than this course teaches?",
-                    "options": [
-                        "Only Northern Vietnamese has tones at all",
-                        "They are speaking incorrectly",
-                        "It's an accent unrelated to tone",
-                        "Southern/Central varieties merge some of the six Northern tones together — both are standard"
-                    ],
-                    "answerIndex": 3,
-                    "explanation": "This is the regional variation flagged in the cultural note."
                 }
             ]
         },
         "checkpointTest": {
             "items": [
                 {
+                    "type": "multiple-choice",
+                    "prompt": "How many tones does standard Northern Vietnamese have, as illustrated by the ma/má/mà/mả/mã/mạ series?",
+                    "options": [
+                        "Six phonemic tones",
+                        "Two tones (high and low)",
+                        "Four tones only",
+                        "Zero tones"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "Standard Vietnamese has 6 distinct tones."
+                },
+                {
+                    "type": "multiple-choice",
                     "prompt": "ma (level tone, no mark) means:",
                     "options": [
                         "ghost",
@@ -602,6 +632,7 @@
                     "explanation": "Plain/level tone = 'ghost.'"
                 },
                 {
+                    "type": "multiple-choice",
                     "prompt": "má (rising tone) means:",
                     "options": [
                         "rice seedling",
@@ -613,6 +644,7 @@
                     "explanation": "Rising tone (sắc) = 'mother/cheek.'"
                 },
                 {
+                    "type": "multiple-choice",
                     "prompt": "mạ (short, heavy, dot-below tone) means:",
                     "options": [
                         "but",
@@ -624,37 +656,15 @@
                     "explanation": "Heavy/cut-off tone (nặng) = 'rice seedling.'"
                 },
                 {
-                    "prompt": "How many distinct meanings come from ma with six different tones?",
-                    "options": [
-                        "Two meanings",
-                        "Six completely unrelated meanings",
-                        "It's not a real example, just for teaching",
-                        "One meaning, just emphasized differently"
+                    "type": "typed-recall",
+                    "prompt": "Type the polite 2-word Vietnamese greeting for 'Hello' (Xin chào):",
+                    "acceptedAnswers": [
+                        "Xin chào",
+                        "xin chào",
+                        "Xin chao",
+                        "xin chao"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "All six are genuinely distinct, unrelated words."
-                },
-                {
-                    "prompt": "Xin chào is appropriate:",
-                    "options": [
-                        "With virtually anyone, in virtually any polite context",
-                        "Only in writing, never spoken",
-                        "Only as a goodbye",
-                        "Only with children"
-                    ],
-                    "answerIndex": 0,
-                    "explanation": "It's the safe, all-purpose greeting."
-                },
-                {
-                    "prompt": "What does the tone system prove about Vietnamese pronunciation?",
-                    "options": [
-                        "Pitch is decorative and can be skipped",
-                        "Only consonants matter for meaning",
-                        "Vietnamese has no tones at all",
-                        "Pitch contour is part of a word's core identity, not just tone-of-voice/mood"
-                    ],
-                    "answerIndex": 3,
-                    "explanation": "This is the central lesson of the ma/má/mà/mả/mã/mạ set."
+                    "explanation": "Xin chào is the universally respectful greeting."
                 }
             ],
             "passThreshold": 0.8
@@ -664,7 +674,7 @@
         "id": "vi-u1-l2",
         "unit": "vi-u1",
         "level": "A1",
-        "objective": "Address people using Vietnamese's kinship-based pronoun system (anh/chị/em) instead of fixed words for 'I' and 'you', choosing the correct term by relative age and gender.",
+        "objective": "Address people using Vietnamese's kinship-based pronoun system (anh/chị/em), master the critical 'd' vs 'đ' and 'nh' consonant distinctions, and choose terms by relative age and gender.",
         "prerequisites": [
             "vi-u1-l1"
         ],
@@ -675,40 +685,52 @@
             ]
         },
         "presentation": {
-            "explanation": "Here's the biggest conceptual shift in this entire unit: Vietnamese does not have one fixed word for 'I' and one fixed word for 'you' the way English does. Instead, it recycles KINSHIP terms — words that literally mean 'older brother,' 'older sister,' 'younger sibling' — and uses them to address (and refer to yourself as) essentially everyone, based on your age relative to the person you're talking to. anh: a man somewhat older than you, or a male peer close in age (also how a man refers to HIMSELF when speaking to someone younger). chị: a woman somewhat older than you, same idea. em: someone younger than you, of either gender (also how YOU refer to yourself when speaking to someone older). So a single conversation between two strangers requires a quick, usually instant, age-estimate before either person can even say 'I' or 'you' correctly — there's no neutral escape hatch for casual daily use. tôi does exist as a more neutral, formal 'I,' but it carries a slightly distant, official tone — the kind of word you'd use giving a speech or talking to a large stranger group, not chatting with someone you just met. For truly senior figures, ông (grandfather-tier, elderly man) and bà (grandmother-tier, elderly woman) show respect the way you'd address someone genuinely elderly.",
+            "explanation": "Here's the biggest conceptual shift in this entire unit: Vietnamese does not have one fixed word for 'I' and one fixed word for 'you' the way English does. Instead, it recycles KINSHIP terms — words that literally mean 'older brother,' 'older sister,' 'younger sibling' — and uses them to address (and refer to yourself as) essentially everyone, based on your age relative to the person you're talking to. anh: a man somewhat older than you, or a male peer close in age (also how a man refers to HIMSELF when speaking to someone younger). chị: a woman somewhat older than you, same idea. em: someone younger than you, of either gender (also how YOU refer to yourself when speaking to someone older).\n\n### 🔤 Critical Orthography Trap: 'd' vs 'đ':\nEnglish speakers frequently miss one of the most vital letter distinctions in the Vietnamese alphabet:\n1. **đ** (D with horizontal crossbar): This is the TRUE 'd' sound [ɗ / d] (like the English 'd' in *door* or *day*). E.g. *đi* ('go'), *được* ('okay/can'), *đúng* ('correct').\n2. **d** (plain D without crossbar): This is NEVER an English 'd'! In Hanoi (North), plain **d** is pronounced like English **'z'** [z]. In Saigon (South), plain **d** is pronounced like English **'y'** [j]. E.g. *dạ* ('polite yes') sounds like 'zah' in Hanoi and 'yah' in Saigon.\n3. **nh** = [ɲ] (palatal nasal, identical to Spanish *ñ* in *señor* or French *gn* in *montagne*). E.g. *anh* [aɲ˧˧] ends in a softened nasal sound.\n4. **ch** = [tʃ / c] (voiceless palatal affricate, like 'ch' in *chair*). E.g. *chào* [caːw˨˩], *chị* [ci˨˩ˀ].",
             "examples": [
                 {
                     "target": "Chào anh! Em tên là Lan.",
-                    "reading": "chow ang, em ten la lan",
-                    "translation": "Hello! (to an older man/male peer) My name is Lan. (speaker refers to herself as em, being younger)"
+                    "reading": "[caːw˨˩ aɲ˧˧! ɛm˧˧ ten˧˧ laː˨˩ laːn˧˧]",
+                    "translation": "Hello! (to an older man/male peer) My name is Lan. (speaker refers to herself as em; anh ends in palatal nh [ɲ])"
                 },
                 {
                     "target": "Chào em! Anh tên là Minh.",
-                    "reading": "chow em, ang ten la ming",
+                    "reading": "[caːw˨˩ ɛm˧˧! aɲ˧˧ ten˧˧ laː˨˩ miɲ˧˧]",
                     "translation": "Hello! (to someone younger) My name is Minh. (speaker refers to himself as anh, being older)"
                 },
                 {
-                    "target": "Chị khỏe không?",
-                    "reading": "chi kweh khom",
-                    "translation": "Are you well? (asked to a woman older than the speaker)"
+                    "target": "Chị khỏe không? Dạ, khỏe ạ.",
+                    "reading": "[ci˨˩ˀ xwɛ˧˩˧ xəwŋm˧˧? zaː˨˩ˀ / jaː˨˩ˀ, xwɛ˧˩˧ aː˨˩ˀ]",
+                    "translation": "Are you well? (to an older woman) Yes, I am well. (dạ starts with plain d = 'z' in North, 'y' in South)"
                 },
                 {
                     "target": "Tôi là giáo viên.",
-                    "reading": "toy la zow vyen",
-                    "translation": "I am a teacher. (neutral/formal tôi — a speech or stranger-group context)"
+                    "reading": "[toj˧˧ laː˨˩ zaːw˧˥ viən˧˧ / jaːw˧˥ viən˧˧]",
+                    "translation": "I am a teacher. (neutral/formal tôi; giáo starts with gi = 'z' in North, 'y' in South)"
                 }
             ],
             "mnemonics": [
-                "There's no single word for 'I' in Vietnamese daily speech — YOU are 'em' to your elders and 'anh/chị' to those younger, all in the same day. Think of it less like a fixed pronoun and more like a badge that changes depending on who's standing in front of you.",
-                "anh/chị/em swap roles depending on direction: the SAME person can be anh in one conversation (talking to someone younger) and em in the very next one (talking to someone older). It's always relative, never fixed to a person."
+                "The Crossbar Rule: 'đ' with a crossbar has a 'Door' sound [d]; plain 'd' without a crossbar has 'Zero' d-sound ('z' in North, 'y' in South)!",
+                "There's no single word for 'I' in Vietnamese daily speech — YOU are 'em' to your elders and 'anh/chị' to those younger, all in the same day.",
+                "anh/chị/em swap roles depending on direction: the SAME person can be anh in one conversation and em in the very next one."
             ],
             "culturalNotes": [
-                "Guessing age wrong is a normal, low-stakes part of learning — Vietnamese speakers are generally quick to correct you good-naturedly (bạn ơi, mình lớn tuổi hơn — 'hey, I'm actually older') rather than take offense, precisely because the system requires constant, on-the-fly estimation from everyone, not just learners.",
-                "Overusing tôi in casual conversation with someone your own age can come across as cold or overly formal — like replying to a friend's text in full business-letter English. Kinship terms, not tôi, are the warm, default choice once you're comfortable estimating relative age."
+                "Guessing age wrong is a normal, low-stakes part of learning — Vietnamese speakers are generally quick to correct you good-naturedly (bạn ơi, mình lớn tuổi hơn — 'hey, I'm actually older') rather than take offense.",
+                "Overusing tôi in casual conversation with someone your own age can come across as cold or overly formal — like replying to a friend's text in full business-letter English. Kinship terms, not tôi, are the warm, default choice."
             ]
         },
         "guidedPractice": {
             "items": [
+                {
+                    "prompt": "How is the Vietnamese letter 'đ' (with a crossbar) pronounced vs plain 'd' (without a crossbar)?",
+                    "options": [
+                        "đ is an English 'd' sound [d], while plain d is pronounced 'z' (in the North) or 'y' (in the South)",
+                        "Both sound like English 'd'",
+                        "đ is silent, plain d is 'd'",
+                        "đ is pronounced 'f'"
+                    ],
+                    "answerIndex": 0,
+                    "explanation": "đ represents the true [d] sound, whereas plain d represents [z] or [j]."
+                },
                 {
                     "prompt": "You're a man talking to a woman clearly older than you. What do you call her?",
                     "options": [
@@ -868,7 +890,7 @@
         "id": "vi-u1-l3",
         "unit": "vi-u1",
         "level": "A1",
-        "objective": "Introduce yourself with Tên tôi là / [pronoun] tên là, and ask someone's name with ___ tên là gì?, noticing that Vietnamese question words like gì stay in place rather than moving to the front.",
+        "objective": "Introduce yourself with Tên tôi là / [pronoun] tên là, ask someone's name with ___ tên là gì?, master the 'gi' [z/j] vs 'g/gh' [ɣ] and initial 'ng/ngh' [ŋ] pronunciations, and notice that question words like gì stay in-situ.",
         "prerequisites": [
             "vi-u1-l1",
             "vi-u1-l2"
@@ -881,39 +903,64 @@
             ]
         },
         "presentation": {
-            "explanation": "Name introductions plug directly into last lesson's pronoun system: [pronoun] tên là [name] — Tôi tên là Lan (neutral/formal), Em tên là Lan (speaking to someone older), Anh tên là Minh (a man speaking to someone younger). You'll also hear it flipped: Tên tôi là Lan — both orders are correct and mean the same thing. To ask, swap the name for gì (what): ___ tên là gì? — Bạn tên là gì? is the single most useful version, because bạn ('friend') works as a comfortably neutral, peer-level pronoun when you genuinely can't tell someone's age yet, or you're speaking to someone roughly your own age. Notice something structural here that trips up English speakers: gì stays exactly where the answer would go, at the END of the sentence — Vietnamese doesn't front its question words the way English drags 'what' to the start. Tên bạn là gì? is literally 'name friend is what?' — you're filling in a blank in place, not rearranging the whole sentence. One pronunciation note: the 'readings' below use Northern (Hanoi) pronunciation, where gi- sounds like English 'z' (so gì reads like 'zee'). In Southern Vietnamese, gi- sounds like 'y' instead, so the same word is pronounced closer to 'yee' — both are correct, they're just different regions, the same way British and American English pronounce some words differently.",
+            "explanation": "Name introductions plug directly into last lesson's pronoun system: [pronoun] tên là [name] — Tôi tên là Lan (neutral/formal), Em tên là Lan (speaking to someone older), Anh tên là Minh (a man speaking to someone younger). You'll also hear it flipped: Tên tôi là Lan — both orders are correct and mean the same thing. To ask, swap the name for gì (what): ___ tên là gì? — Bạn tên là gì? is the single most useful version, because bạn ('friend') works as a comfortably neutral, peer-level pronoun when you genuinely can't tell someone's age yet, or you're speaking to someone roughly your own age.\n\nNotice something structural here that trips up English speakers: gì stays exactly where the answer would go, at the END of the sentence — Vietnamese doesn't front its question words the way English drags 'what' to the start. Tên bạn là gì? is literally 'name friend is what?' — you're filling in a blank in place, not rearranging the whole sentence.\n\n### 🔤 Crucial Consonant Traps: 'gi', 'g/gh', and Initial 'ng/ngh':\n1. **gi-** = [z] in Hanoi (North) and [j] (English 'y') in Saigon (South). In *gì* ('what') and *giáo viên* ('teacher'), gi sounds like 'zee' in the North and 'yee' in the South. It is NEVER an English 'g' or 'dj'!\n2. **g / gh** = [ɣ] (voiced velar fricative, a throaty buzzing sound). Before front vowels *i, e, ê*, it is spelled **gh** (e.g. *ghế* 'chair'); before other vowels, it is spelled **g** (e.g. *gặp* 'meet').\n3. **ng / ngh** = [ŋ] (velar nasal). In English, 'ng' only ever appears at the *end* of syllables (*sing*, *ring*). In Vietnamese, **ng/ngh** regularly starts syllables! To pronounce *nghe* ('listen') or *người* ('person'), start from the resting position of 'sing', keep the back of the tongue raised against the soft palate, and release directly into the vowel without an English hard 'g'.",
             "examples": [
                 {
                     "target": "Bạn tên là gì?",
-                    "reading": "ban ten la zee",
-                    "translation": "What's your name? (bạn = neutral peer 'you')"
+                    "reading": "[baːn˨˩ˀ ten˧˧ laː˨˩ zi˨˩ / ji˨˩]",
+                    "translation": "What's your name? (bạn = neutral peer 'you'; gì starts with gi = 'z' in North, 'y' in South)"
                 },
                 {
                     "target": "Tôi tên là Lan. Còn bạn?",
-                    "reading": "toy ten la lan, kon ban",
+                    "reading": "[toj˧˧ ten˧˧ laː˨˩ laːn˧˧. kɔn˨˩ baːn˨˩ˀ?]",
                     "translation": "My name is Lan. And you?"
                 },
                 {
                     "target": "Em tên là Minh ạ.",
-                    "reading": "em ten la ming ah",
+                    "reading": "[ɛm˧˧ ten˧˧ laː˨˩ miɲ˧˧ aː˨˩ˀ]",
                     "translation": "My name is Minh. (speaking politely to someone older; ạ softens/politifies the sentence)"
                 },
                 {
-                    "target": "Tên anh là gì?",
-                    "reading": "ten ang la zee",
-                    "translation": "What's your name? (asking an older man/male peer — literally 'name-you is what')"
+                    "target": "Tôi rất vui được gặp người bạn mới.",
+                    "reading": "[toj˧˧ zat˧˥ vuj˧˧ ɗɨək˨˩ˀ ɣap˨˩ˀ ŋɨəj˨˩ baːn˨˩ˀ məːj˧˥]",
+                    "translation": "I am very glad to meet a new friend. (gặp starts with throaty [ɣ], người starts with initial ng [ŋ])"
                 }
             ],
             "mnemonics": [
-                "gì doesn't jump to the front like English 'what' — it just sits in the exact slot where the answer word would go. Tên bạn là gì? → Tên tôi là Lan. Same slot, question in, answer out — like filling in a form field rather than rearranging the sentence.",
-                "bạn is your safety pronoun: when you genuinely can't tell if someone's older or younger, or you're roughly the same age, bạn sidesteps the anh/chị/em guessing game entirely — think of it as Vietnamese's closest thing to a neutral 'you.'"
+                "gi- is a Chameleon: 'z' in Hanoi (North), 'y' in Saigon (South) — never a hard 'g'!",
+                "Initial 'ng' trick: Say 'sing-along', drop 'si-', and you're left with 'ng-along' — that's the exact mouth shape for Vietnamese người and nghe!",
+                "gì doesn't jump to the front like English 'what' — it just sits in the exact slot where the answer word would go. Tên bạn là gì? → Tên tôi là Lan. Same slot, question in, answer out.",
+                "bạn is your safety pronoun: when you genuinely can't tell if someone's older or younger, bạn sidesteps the anh/chị/em guessing game entirely."
             ],
             "culturalNotes": [
-                "Ending a sentence with ạ is a small, very common politeness particle — it doesn't change the literal meaning, but it noticeably softens and formalizes a sentence, especially useful when speaking to someone older or in a position of respect."
+                "Regional Dialect Unity: Northern, Central, and Southern Vietnamese share 100% identical grammar and spelling, differing primarily in consonant shifts (d/gi as z vs y, v as v vs y/w) and tone merges. Both Hanoi and Saigon pronunciations are universally understood throughout the country.",
+                "Ending a sentence with ạ is a small, very common politeness particle — it doesn't change the literal meaning, but it noticeably softens and formalizes a sentence."
             ]
         },
         "guidedPractice": {
             "items": [
+                {
+                    "prompt": "How is the Vietnamese letter cluster 'gi' (as in gì and giáo viên) pronounced?",
+                    "options": [
+                        "As a hard English 'g' like in goat",
+                        "As 'z' in Northern Vietnamese (Hanoi) and 'y' in Southern Vietnamese (Saigon)",
+                        "As a silent letter",
+                        "As 'th'"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "gi is pronounced [z] in the North and [j] ('y') in the South."
+                },
+                {
+                    "prompt": "How do you pronounce the initial 'ng' in Vietnamese words like người and nghe?",
+                    "options": [
+                        "As an English 'n' followed by a hard 'g'",
+                        "As the velar nasal [ŋ] (the 'ng' in song) produced at the very start of the syllable",
+                        "As a silent letter",
+                        "As 'm'"
+                    ],
+                    "answerIndex": 1,
+                    "explanation": "ng represents the velar nasal [ŋ], which can start syllables in Vietnamese."
+                },
                 {
                     "prompt": "Bạn tên là ___? (asking someone's name)",
                     "options": [
