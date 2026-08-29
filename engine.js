@@ -329,22 +329,25 @@
   }
 
   FEARN.matchAnswer = function matchAnswer(userInput, acceptedAnswers, options) {
-    if (!userInput || !acceptedAnswers) return false;
+    if (!userInput || !acceptedAnswers) return { matched: false };
     const opts = options || {};
-    const tolerance = typeof opts.fuzzyTolerance === 'number' ? opts.fuzzyTolerance : 1;
+    const defaultTolerance = typeof opts.fuzzyTolerance === 'number'
+      ? opts.fuzzyTolerance
+      : (typeof opts.tolerance === 'number' ? opts.tolerance : 1);
     const list = Array.isArray(acceptedAnswers) ? acceptedAnswers : [acceptedAnswers];
     const normInput = normalizeString(userInput);
 
     for (const ans of list) {
       const normAns = normalizeString(ans);
-      if (normInput === normAns) return true;
+      const tolerance = normAns.length <= 2 ? 0 : defaultTolerance;
+      if (normInput === normAns) return { matched: true, matchedAnswer: ans };
       if (tolerance > 0 && Math.abs(normInput.length - normAns.length) <= tolerance) {
         if (levenshtein(normInput, normAns) <= tolerance) {
-          return true;
+          return { matched: true, matchedAnswer: ans };
         }
       }
     }
-    return false;
+    return { matched: false };
   };
 
   FEARN.getDailyPlan = function getDailyPlan() {

@@ -1115,7 +1115,7 @@
 
           <div style="background: var(--glass-bg-soft); padding: 14px; border-radius: 8px; font-size: 0.88rem; line-height: 1.5; color: var(--text-main);">
             <b>Biomechanical Presentation:</b><br/>
-            ${escapeHtml(lesson.presentation.explanation)}
+            ${window.FEARN && window.FEARN.formatText ? window.FEARN.formatText(lesson.presentation.explanation) : escapeHtml(lesson.presentation.explanation)}
           </div>
 
           <!-- Phase Movements Breakdown for this location mode -->

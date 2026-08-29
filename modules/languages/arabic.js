@@ -189,7 +189,11 @@
       var pres = lesson.presentation || {};
       var explain = document.createElement('p');
       explain.className = 'fearn-lang-explanation';
-      explain.textContent = pres.explanation || '';
+      if (window.FEARN && window.FEARN.formatText) {
+        explain.innerHTML = window.FEARN.formatText(pres.explanation || '');
+      } else {
+        explain.textContent = pres.explanation || '';
+      }
       flowRoot.appendChild(explain);
 
       if (Array.isArray(pres.examples) && pres.examples.length) {

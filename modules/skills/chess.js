@@ -344,7 +344,7 @@
     box.innerHTML =
       '<div style="display:flex; align-items:center; gap:8px; margin-bottom:12px; flex-wrap:wrap;"><span style="font-size:0.75rem; font-weight:800; padding:3px 8px; border-radius:6px; background:rgba(56,189,248,0.15); color:#38bdf8; border:1px solid rgba(56,189,248,0.3); text-transform:uppercase; letter-spacing:0.05em;">' + escapeHtml(formattedLevel) + '</span><h3 style="margin:0; font-size:1.15rem; font-weight:700; color:#f8fafc;">' + escapeHtml(uName) + '</h3></div>' +
       '<p class="fearn-objective"><strong>Goal:</strong> ' + escapeHtml(lesson.objective) + '</p>' +
-      '<p>' + escapeHtml(lesson.presentation.explanation) + '</p>';
+      '<p>' + (window.FEARN && window.FEARN.formatText ? window.FEARN.formatText(lesson.presentation.explanation) : escapeHtml(lesson.presentation.explanation)) + '</p>';
 
     const exContainer = document.createElement('div');
     exContainer.className = 'fearn-examples';

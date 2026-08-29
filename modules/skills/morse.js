@@ -229,7 +229,7 @@
         <h3 style="margin:0; font-size:1.15rem; font-weight:700; color:#f8fafc;">${escapeHtml(uName)}</h3>
       </div>
       <p class="fearn-objective"><strong>Goal:</strong> ${escapeHtml(lesson.objective)}</p>
-      <p>${escapeHtml(lesson.presentation.explanation)}</p>
+      <p>${window.FEARN && window.FEARN.formatText ? window.FEARN.formatText(lesson.presentation.explanation) : escapeHtml(lesson.presentation.explanation)}</p>
       <div class="fearn-examples">
         ${lesson.presentation.examples
           .map(

@@ -3719,3 +3719,27 @@ button.fearn-lang-btn-primary:hover:not(:disabled) {
     text-align: center;
   }
 }
+
+/* Scoped Urdu RTL Layout & Direction */
+.fearn-urdu-module,
+.fearn-urdu-flow,
+.fearn-urdu-list,
+.fearn-urdu-unit-picker {
+  direction: rtl;
+  text-align: right;
+}
+
+.fearn-urdu-flow button,
+.fearn-urdu-flow .fearn-speak-btn,
+.fearn-urdu-flow .fearn-lang-btn-primary,
+.fearn-urdu-flow .fearn-lang-btn-secondary,
+.fearn-urdu-list button,
+.fearn-urdu-flow .fearn-lang-checkpoint-progress {
+  direction: ltr;
+}
+
+.fearn-urdu-flow .fearn-lang-example-row {
+  direction: rtl;
+  text-align: right;
+}
+
