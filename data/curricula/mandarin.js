@@ -482,63 +482,65 @@
   var LESSONS = {
     "zh-u1-l1": {
         "id": "zh-u1-l1",
-        "subject": "mandarin",
-        "unit": 1,
-        "lessonNumber": 1,
-        "title": "汉语拼音、声调与基础问候 (Pinyin & Greetings) (Part 1)",
+        "unit": "zh-u1",
         "level": "A1",
-        "objective": "Comprehensive mastery of 汉语拼音与日常问候 (Pinyin & Basic Greetings).",
+        "objective": "Master the Mandarin Chinese Pinyin phonological system, distinguishing 21 initials (声母: b, p, m, f, d, t, n, l, g, k, h, j, q, x, zh, ch, sh, r, z, c, s), basic finals (韵母: a, o, e, i, u, ü), and the 4 pitch tones (第一声高平 55, 第二声升 35, 第三声降升 214, 第四声全降 51).",
+        "prerequisites": [],
+        "warmup": {
+            "srsPull": false,
+            "reviewFocus": []
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「汉语拼音、声调与基础问候 (Pinyin & Greetings)」（第1部分）的核心句法结构与汉语拼音与日常问候 (Pinyin & Basic Greetings)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "汉语拼音（Hànyǔ Pīnyīn）是现代标准汉语的罗马化注音系统。每个汉字音节通常由声母（Initial）、韵母（Final）和声调（Tone）三部分组成。\n\n1. 四个基本声调 (The 4 Basic Tones):\n- **第一声 / 阴平 (First Tone, 55)**：高平调，发音高而平稳，如 mā（妈 - Mother）\n- **第二声 / 阳平 (Second Tone, 35)**：中升调，发音从低向高升，如 má（麻 - Hemp）\n- **第三声 / 上声 (Third Tone, 214)**：降升调，先降后升，如 mǎ（马 - Horse）\n- **第四声 / 去声 (Fourth Tone, 51)**：全降调，短促有力迅速下降，如 mà（骂 - Scold)\n- **轻声 (Neutral Tone)**：轻短无调号，如 ma（吗 - Question particle)。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (1.1.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "mā（妈，第一声高平）、má（麻，第二声中升）、mǎ（马，第三声降升）、mà（骂，第四声全降）。",
+                    "reading": "mā, má, mǎ, mà.",
+                    "translation": "mā (Mother, 1st tone), má (Hemp, 2nd tone), mǎ (Horse, 3rd tone), mà (Scold, 4th tone)."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (1.1.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "bā（八 - Eight）、bá（拔 - Pull up）、bǎ（把 - Hold / Measure word）、bà（爸 - Father）。",
+                    "reading": "bā, bá, bǎ, bà.",
+                    "translation": "bā (Eight), bá (Pull), bǎ (Grasp), bà (Father)."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (1.1.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "汉语普通话共有21个声母和39个韵母，声调不同代表完全不同的汉字与意义。",
+                    "reading": "Hànyǔ pǔtōnghuà gòng yǒu 21 gè shēngmǔ hé 39 gè yùnmǔ, shēngdiào bùtóng dàibiǎo wánquán bùtóng de hànzì yǔ yìyì.",
+                    "translation": "Standard Mandarin has 21 initials and 39 finals; distinct tones represent completely different characters and meanings."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 汉语拼音与日常问候 (Pinyin & Basic Greetings)"
+                "Tone Contours: 1st tone is flat high ˉ (mā), 2nd tone climbs up ˊ (má), 3rd tone dips and rises ˇ (mǎ), 4th tone drops sharply ˋ (mà)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Pinyin was developed in the 1950s by a committee led by linguist Zhou Youguang (周有光) and was officially approved by the Chinese government in 1958 and ISO in 1982."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「汉语拼音与日常问候 (Pinyin & Basic Greetings)」在第1小节中的标准汉语语法规范？",
+                    "prompt": "汉语拼音中，表示‘马 (Horse)’的第三声（降升调）声调符号应标在哪一个字母上？",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (1.1.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (1.1.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (1.1.3)。"
+                        "mǎ (标在元音 a 上)",
+                        "mā (第一声)",
+                        "mà (第四声)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "mǎ carries the third tone (ˇ) marked over the main vowel 'a'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「汉语拼音、声调与基础问候 (Pinyin & Greetings)」语用情境与完整句式的选项（练习 1）：",
+                    "prompt": "普通话中的第四声（去声，例如‘爸 bà’）的发音音高走势是怎样的？",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (1.1.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (1.1.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (1.1.3)。"
+                        "高平不变 (55)",
+                        "由高到低快速全降 (51)",
+                        "从低到高上升 (35)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "The fourth tone (去声) is a full-falling pitch contour dropping swiftly from 5 to 1."
                 }
             ]
         },
@@ -546,85 +548,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「汉语拼音与日常问候 (Pinyin & Basic Greetings)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 1-1）？",
+                    "prompt": "在汉语拼音中，声调对于词义起什么作用？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (1.1.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (1.1.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (1.1.3)。"
+                        "区分完全不同的汉字与词义 (Distinguishes different words and lexical meanings)",
+                        "仅用于唱歌 (Only for singing)",
+                        "完全不影响词义 (Does not affect meaning)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "Tones in Mandarin are phonemic and distinguish completely different words."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («你好_1_1»):",
+                    "prompt": "Type the Pinyin for 'horse' including tone mark (mǎ):",
                     "acceptedAnswers": [
-                        "你好_1_1"
+                        "mǎ",
+                        "ma3",
+                        "mă",
+                        "Mǎ",
+                        "Ma3"
                     ],
-                    "explanation": "The target keyword was: 【你好_1_1】"
+                    "explanation": "mǎ (ma3) is the third tone for 'horse' (马)."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u1-l2": {
         "id": "zh-u1-l2",
-        "subject": "mandarin",
-        "unit": 1,
-        "lessonNumber": 2,
-        "title": "汉语拼音、声调与基础问候 (Pinyin & Greetings) (Part 2)",
+        "unit": "zh-u1",
         "level": "A1",
-        "objective": "Comprehensive mastery of 汉语拼音与日常问候 (Pinyin & Basic Greetings).",
+        "objective": "Master everyday Mandarin greetings and courtesy expressions, distinguishing casual versus respectful address (你 vs. 您), morning greetings (早上好), thanking (谢谢), and polite deflections (不客气).",
+        "prerequisites": [
+            "zh-u1-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u1-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「汉语拼音、声调与基础问候 (Pinyin & Greetings)」（第2部分）的核心句法结构与汉语拼音与日常问候 (Pinyin & Basic Greetings)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "掌握汉语基础问候与礼貌用语是开启中文交流的第一步。\n\n1. 核心问候与礼貌词汇 (Essential Vocabulary):\n- **你好 (nǐ hǎo)**：通用问候语（Hello / Hi）\n- **您好 (nín hǎo)**：尊称问候（用于长辈、师长、客户或初次见面的长者）\n- **早上好 (zǎoshang hǎo)**：早晨问候（Good morning）\n- **谢谢 (xièxie)**：感谢表达（Thank you）\n- **不客气 (bú kèqi)**：礼貌回应（You're welcome / Don't mention it）。\n\n2. 礼貌尊称文化：\n「您」字在「你」字下方加了一个「心」，意为‘把对方放在心上’，体现了中华传统礼仪中的尊老与敬客之道。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (1.2.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "你好！我叫王明。",
+                    "reading": "Nǐ hǎo! Wǒ jiào Wáng Míng.",
+                    "translation": "Hello! My name is Wang Ming."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (1.2.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "张老师，您好！早上好！",
+                    "reading": "Zhāng lǎoshī, nín hǎo! Zǎoshang hǎo!",
+                    "translation": "Teacher Zhang, hello (respectful)! Good morning!"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (1.2.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "A: 非常感谢你的帮助！ B: 不客气！",
+                    "reading": "A: Fēicháng gǎnxiè nǐ de bāngzhù! B: Bú kèqi!",
+                    "translation": "A: Thank you very much for your help! B: You're welcome!"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 汉语拼音与日常问候 (Pinyin & Basic Greetings)"
+                "«你好» = Hello! «您好» = Respectful Hello (heart under 你)! «谢谢» = Thanks! «不客气» = You're welcome!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "In Chinese culture, greeting superiors, teachers, or elders with «您好» (nín hǎo) rather than «你好» (nǐ hǎo) shows essential deference and good upbringing."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「汉语拼音与日常问候 (Pinyin & Basic Greetings)」在第2小节中的标准汉语语法规范？",
+                    "prompt": "向新认识的长辈或老师问好时，最得体、尊敬的问候语是哪一个？",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (1.2.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (1.2.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (1.2.3)。"
+                        "您好！ (Nín hǎo!)",
+                        "喂！ (Wèi!)",
+                        "再见！ (Zàijiàn!)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "«您好» (Nín hǎo) is the respectful honorific form of greeting for elders and teachers."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「汉语拼音、声调与基础问候 (Pinyin & Greetings)」语用情境与完整句式的选项（练习 2）：",
+                    "prompt": "当别人对你说「谢谢」时，最标准礼貌的回答是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (1.2.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (1.2.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (1.2.3)。"
+                        "不用 (No need)",
+                        "不客气 (Bú kèqi / You're welcome)",
+                        "对不起 (Sorry)"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "«不客气» (Bú kèqi) is the standard polite reply to «谢谢»."
                 }
             ]
         },
@@ -632,85 +645,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「汉语拼音与日常问候 (Pinyin & Basic Greetings)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 1-2）？",
+                    "prompt": "中文里表达‘早上好 (Good morning)’的标准说法是：",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (1.2.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (1.2.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (1.2.3)。"
+                        "晚上好 (Good evening)",
+                        "早上好 (Zǎoshang hǎo)",
+                        "晚安 (Good night)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "早上好 (Zǎoshang hǎo) means 'Good morning'."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («你好_1_2»):",
+                    "prompt": "Type the Hanzi for 'Hello' (你好):",
                     "acceptedAnswers": [
-                        "你好_1_2"
+                        "你好",
+                        "nihao",
+                        "nǐ hǎo",
+                        "Nǐ hǎo",
+                        "Nihao",
+                        "nǐhǎo"
                     ],
-                    "explanation": "The target keyword was: 【你好_1_2】"
+                    "explanation": "你好 (Nǐ hǎo) means 'Hello'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u1-l3": {
         "id": "zh-u1-l3",
-        "subject": "mandarin",
-        "unit": 1,
-        "lessonNumber": 3,
-        "title": "汉语拼音、声调与基础问候 (Pinyin & Greetings) (Part 3)",
+        "unit": "zh-u1",
         "level": "A1",
-        "objective": "Comprehensive mastery of 汉语拼音与日常问候 (Pinyin & Basic Greetings).",
+        "objective": "Introduce yourself and inquire about others' names in Mandarin Chinese using the verb 叫 (jiào), the interrogative pronoun 什么 (shénme), and polite introductory formulas (认识你很高兴).",
+        "prerequisites": [
+            "zh-u1-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u1-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「汉语拼音、声调与基础问候 (Pinyin & Greetings)」（第3部分）的核心句法结构与汉语拼音与日常问候 (Pinyin & Basic Greetings)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在初次见面时进行自我介绍和询问姓名是基本社交技能。\n\n1. 核心句型结构 (Syntactic Structures):\n- **主语 + 叫 + 名字** (Subject + jiào + Name)：如 我叫李华 (My name is Li Hua)\n- **你叫什么名字？** (Nǐ jiào shénme míngzi? — What is your name?)\n- **认识你很高兴！** (Rènshi nǐ hěn gāoxìng! — Nice to meet you!)\n- **我也很高兴认识你！** (Wǒ yě hěn gāoxìng rènshi nǐ! — Nice to meet you too!)\n\n2. 语法重点 (Grammar Focus):\n- **叫 (jiào)**：动词，在此处表示‘被称为 / 名字叫作’。\n- **什么 (shénme)**：疑问代词，直接置于名词前修饰名词，语序不倒装（保持陈述句 SVO 语序）。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (1.3.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "你好！我叫大卫，你叫什么名字？",
+                    "reading": "Nǐ hǎo! Wǒ jiào Dàwèi, nǐ jiào shénme míngzi?",
+                    "translation": "Hello! My name is David, what is your name?"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (1.3.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "我叫李月。认识你很高兴！",
+                    "reading": "Wǒ jiào Lǐ Yuè. Rènshi nǐ hěn gāoxìng!",
+                    "translation": "My name is Li Yue. Nice to meet you!"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (1.3.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "我也很高兴认识你，欢迎你来北京！",
+                    "reading": "Wǒ yě hěn gāoxìng rènshi nǐ, huānyíng nǐ lái Běijīng!",
+                    "translation": "I'm very glad to meet you too, welcome to Beijing!"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 汉语拼音与日常问候 (Pinyin & Basic Greetings)"
+                "«叫» = Called / Named! «什么名字» = What name! «很高兴» = Very pleased/happy!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Chinese names always place the family surname (姓 xìng) first, followed by the given name (名 míng), e.g. 李 (Surname) + 华 (Given name) = 李华 (Lǐ Huá)."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「汉语拼音与日常问候 (Pinyin & Basic Greetings)」在第3小节中的标准汉语语法规范？",
+                    "prompt": "用中文询问对方‘你叫什么名字？’时，疑问代词‘什么’应该放在哪里？",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (1.3.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (1.3.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (1.3.3)。"
+                        "放在名词‘名字’前面：你叫什么名字？",
+                        "放在句首：什么你叫名字？",
+                        "放在句尾：你叫名字什么？"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "In Mandarin, question words stay in place without inversion: 你叫什么名字？"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「汉语拼音、声调与基础问候 (Pinyin & Greetings)」语用情境与完整句式的选项（练习 3）：",
+                    "prompt": "当对方说「认识你很高兴！」时，你的得体回应通常是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (1.3.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (1.3.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (1.3.3)。"
+                        "再见 (Goodbye)",
+                        "我也很高兴认识你！ (Wǒ yě hěn gāoxìng rènshi nǐ!)",
+                        "对不起 (Sorry)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "«我也很高兴认识你！» means 'Nice to meet you too!'."
                 }
             ]
         },
@@ -718,85 +743,95 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「汉语拼音与日常问候 (Pinyin & Basic Greetings)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 1-3）？",
+                    "prompt": "表达‘我叫李明 (My name is Li Ming)’的正确汉语拼音与汉字结构是：",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (1.3.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (1.3.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (1.3.3)。"
+                        "我名字李明 (Wǒ míngzi Lǐ Míng)",
+                        "我叫李明 (Wǒ jiào Lǐ Míng)",
+                        "我是在李明 (Wǒ shì zài Lǐ Míng)"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "explanation": "我叫李明 (Wǒ jiào Lǐ Míng) uses the verb 叫 to introduce one's name."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («你好_1_3»):",
+                    "prompt": "Type the Hanzi for the verb 'to be called / to call' (叫):",
                     "acceptedAnswers": [
-                        "你好_1_3"
+                        "叫",
+                        "jiao",
+                        "jiào",
+                        "Jiào"
                     ],
-                    "explanation": "The target keyword was: 【你好_1_3】"
+                    "explanation": "叫 (jiào) means 'to be called / to call'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u1-l4": {
         "id": "zh-u1-l4",
-        "subject": "mandarin",
-        "unit": 1,
-        "lessonNumber": 4,
-        "title": "汉语拼音、声调与基础问候 (Pinyin & Greetings) (Part 4)",
+        "unit": "zh-u1",
         "level": "A1",
-        "objective": "Comprehensive mastery of 汉语拼音与日常问候 (Pinyin & Basic Greetings).",
+        "objective": "Master standard Mandarin farewells (再见、明天见、一会儿见), apologies (对不起、不好意思), and conciliatory responses (没关系、没事).",
+        "prerequisites": [
+            "zh-u1-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u1-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「汉语拼音、声调与基础问候 (Pinyin & Greetings)」（第4部分）的核心句法结构与汉语拼音与日常问候 (Pinyin & Basic Greetings)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "日常社交中妥善表达告别与歉意是建立良好人际关系的基础。\n\n1. 告别表达 (Farewells):\n- **再见 (zàijiàn)**：再（Again）+ 见（See）= See you again / Goodbye\n- **明天见 (míngtiān jiàn)**：明天（Tomorrow）+ 见（See）= See you tomorrow\n- **一会儿见 (yíhuìr jiàn)**：一会儿（A while / Later）+ 见（See）= See you in a bit\n\n2. 致歉与回应 (Apologies & Replies):\n- **对不起 (duìbuqǐ)**：对不起（I'm sorry / Excuse me for serious mistakes）\n- **不好意思 (bù hǎoyìsi)**：不好意思（Pardon me / Excuse me for minor inconvenience）\n- **没关系 (méi guānxi)**：没（No）+ 关系（Consequence / Relation）= It doesn't matter / That's alright\n- **没事 (méishì)**：没（No）+ 事（Issue）= No problem / It's nothing.",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (1.4.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "今天时间不早了，我们明天见！——好的，再见！",
+                    "reading": "Jīntiān shíjiān bù zǎo le, wǒmen míngtiān jiàn! —— Hǎo de, zàijiàn!",
+                    "translation": "It's getting late today, see you tomorrow! — Alright, goodbye!"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (1.4.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "A: 对不起，我迟到了。 B: 没关系，请进！",
+                    "reading": "A: Duìbuqǐ, wǒ chídào le. B: Méi guānxi, qǐng jìn!",
+                    "translation": "A: I'm sorry, I'm late. B: It doesn't matter, please come in!"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (1.4.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "不好意思，请问洗手间在哪里？",
+                    "reading": "Bù hǎoyìsi, qǐngwèn xǐshǒujiān zài nǎlǐ?",
+                    "translation": "Excuse me, may I ask where the restroom is?"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 汉语拼音与日常问候 (Pinyin & Basic Greetings)"
+                "«再见» = See you again! «明天见» = See you tomorrow! «对不起» = Sorry! «没关系» = No problem!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "«不好意思» (bù hǎoyìsi) is ubiquitous in daily life across mainland China, Taiwan, and Singapore for casual apologies, polite interruptions, and mild embarrassment."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「汉语拼音与日常问候 (Pinyin & Basic Greetings)」在第4小节中的标准汉语语法规范？",
+                    "prompt": "当不小心踩到别人的脚时，最直接的道歉用语是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (1.4.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (1.4.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (1.4.3)。"
+                        "对不起！ (Duìbuqǐ!)",
+                        "没关系！ (Méi guānxi!)",
+                        "再见！ (Zàijiàn!)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "«对不起！» (Duìbuqǐ) is the standard apology when causing an accident or inconvenience."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「汉语拼音、声调与基础问候 (Pinyin & Greetings)」语用情境与完整句式的选项（练习 4）：",
+                    "prompt": "当别人对你真诚说「对不起」时，最恰当的礼貌回答是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (1.4.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (1.4.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (1.4.3)。"
+                        "谢谢 (Thank you)",
+                        "没关系 (Méi guānxi / It's alright)",
+                        "早上好 (Good morning)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "«没关系» (Méi guānxi) responds politely to an apology."
                 }
             ]
         },
@@ -804,85 +839,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「汉语拼音与日常问候 (Pinyin & Basic Greetings)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 1-4）？",
+                    "prompt": "表达‘明天见 (See you tomorrow)’的正确汉字是：",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (1.4.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (1.4.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (1.4.3)。"
+                        "明天见 (Míngtiān jiàn)",
+                        "昨天见 (Yesterday see)",
+                        "再见 (Goodbye)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "明天见 (Míngtiān jiàn) means 'See you tomorrow'."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («你好_1_4»):",
+                    "prompt": "Type the Hanzi for 'Goodbye / See you again' (再见):",
                     "acceptedAnswers": [
-                        "你好_1_4"
+                        "再见",
+                        "zaijian",
+                        "zàijiàn",
+                        "Zàijiàn",
+                        "Zaijian",
+                        "再見"
                     ],
-                    "explanation": "The target keyword was: 【你好_1_4】"
+                    "explanation": "再见 (Zàijiàn) literally means 'see you again'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u1-l5": {
         "id": "zh-u1-l5",
-        "subject": "mandarin",
-        "unit": 1,
-        "lessonNumber": 5,
-        "title": "汉语拼音、声调与基础问候 (Pinyin & Greetings) (Part 5)",
+        "unit": "zh-u1",
         "level": "A1",
-        "objective": "Comprehensive mastery of 汉语拼音与日常问候 (Pinyin & Basic Greetings).",
+        "objective": "Master the essential phonological rule of Third-Tone Sandhi (三声变调: 3rd tone + 3rd tone -> 2nd tone + 3rd tone, as in nǐ + hǎo -> ní hǎo), synthesizing all Unit 1 greetings, introductions, apologies, and farewells into an integrated A1 conversational dialogue.",
+        "prerequisites": [
+            "zh-u1-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u1-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「汉语拼音、声调与基础问候 (Pinyin & Greetings)」（第5部分）的核心句法结构与汉语拼音与日常问候 (Pinyin & Basic Greetings)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在本课中，我们将系统总结第一单元的所有知识点，并深入学习普通话中最核心的语音规律——第三声变调（Third-Tone Sandhi）。\n\n1. 三声变调规则 (Third-Tone Sandhi Rule):\n- 当两个第三声（214）音节连续出现时，**前一个第三声音节变成第二声（35）**，后一个音节保持第三声不变。\n- 公式：**3 + 3 → 2 + 3**\n- 典型例词：\n  - **你好**：原调 nǐ (3) + hǎo (3) → 实际读作 **ní hǎo (2 + 3)**\n  - **可以**：原调 kě (3) + yǐ (3) → 实际读作 **ké yǐ (2 + 3)**\n  - **手表**：原调 shǒu (3) + biǎo (3) → 实际读作 **shóu biǎo (2 + 3)**\n- 注：在拼音正词法中，调号通常仍标写原调（nǐ hǎo），但发音时自然变为第二声。\n\n2. 第一单元综合交际实战 (Unit 1 Comprehensive Synthesis):\n- 完整对话链条：问候（您好）→ 询问与自报姓名（我叫...你叫什么名字？）→ 结识致谢（认识你很高兴）→ 告别（明天见，再见）。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (1.5.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "「你好」两个字都是第三声（nǐ hǎo），但在实际口语发音中，前面的「你」自动变调为第二声「ní」。",
+                    "reading": "«Nǐ hǎo» liǎng gè zì dōu shì dì-sān shēng (nǐ hǎo), dàn zài shíjì kǒuyǔ fāyīn zhōng, qiánmian de «nǐ» zìdòng biàndiào wéi dì-èr shēng «ní».",
+                    "translation": "Both characters in 'nǐ hǎo' are 3rd tone, but in actual speech, the first syllable automatically changes to 2nd tone 'ní'."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (1.5.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "张华：王老师，您好！ 王老师：你好，张华！今天下午见！",
+                    "reading": "Zhāng Huá: Wáng lǎoshī, nín hǎo! Wáng lǎoshī: Nǐ hǎo, Zhāng Huá! Jīntiān xiàwǔ jiàn!",
+                    "translation": "Zhang Hua: Hello, Teacher Wang! Teacher Wang: Hello, Zhang Hua! See you this afternoon!"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (1.5.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "大卫：对不起，我叫大卫，请问您叫什么名字？ 李明：没关系，我叫李明，认识你很高兴！",
+                    "reading": "Dàwèi: Duìbuqǐ, wǒ jiào Dàwèi, qǐngwèn nín jiào shénme míngzi? Lǐ Míng: Méi guānxi, wǒ jiào Lǐ Míng, rènshi nǐ hěn gāoxìng!",
+                    "translation": "David: Excuse me, my name is David, may I ask your name? Li Ming: No problem, I'm Li Ming, nice to meet you!"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 汉语拼音与日常问候 (Pinyin & Basic Greetings)"
+                "Tone Sandhi Rule: 3 + 3 becomes 2 + 3! (nǐ hǎo sounds like ní hǎo!)"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Third-tone sandhi is automatic and intuitive for native speakers; mastering it will make your Mandarin sound instantly natural and fluent."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「汉语拼音与日常问候 (Pinyin & Basic Greetings)」在第5小节中的标准汉语语法规范？",
+                    "prompt": "当两个第三声音节（如‘你 nǐ’和‘好 hǎo’）连读时，前面的‘你’字发音会发生什么变化？",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (1.5.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (1.5.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (1.5.3)。"
+                        "变成第二声（ní hǎo）",
+                        "变成第一声（nī hǎo）",
+                        "变成第四声（nì hǎo）"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "When two 3rd tones meet (3+3), the first changes to 2nd tone (2+3): ní hǎo."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「汉语拼音、声调与基础问候 (Pinyin & Greetings)」语用情境与完整句式的选项（练习 5）：",
+                    "prompt": "在初次见面的完整对话中，下列哪一组交流顺序最符合自然得体的中文社交礼仪？",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (1.5.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (1.5.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (1.5.3)。"
+                        "再见 → 对不起 → 我叫什么",
+                        "您好 → 我叫大卫，你叫什么名字？ → 认识你很高兴！ → 再见！",
+                        "不客气 → 早上好 → 喂"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "Greeting -> Introduction & Name inquiry -> Pleased to meet you -> Farewell is the natural conversational sequence."
                 }
             ]
         },
@@ -890,24 +937,30 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「汉语拼音与日常问候 (Pinyin & Basic Greetings)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 1-5）？",
+                    "prompt": "在汉语普通话中，‘可以 (kěyǐ)’的实际口语发音声调是：",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (1.5.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (1.5.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (1.5.3)。"
+                        "第一声 + 第一声 (1+1)",
+                        "第四声 + 第四声 (4+4)",
+                        "第二声 + 第三声 (kéyǐ, 3+3变调为2+3)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "kěyǐ undergoes 3rd-tone sandhi, sounding like kéyǐ (2nd tone + 3rd tone)."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («你好_1_5»):",
+                    "prompt": "Type the Hanzi for 'Thank you' (谢谢):",
                     "acceptedAnswers": [
-                        "你好_1_5"
+                        "谢谢",
+                        "xiexie",
+                        "xièxie",
+                        "Xièxie",
+                        "Xiexie",
+                        "謝謝"
                     ],
-                    "explanation": "The target keyword was: 【你好_1_5】"
+                    "explanation": "谢谢 (Xièxie) means 'Thank you'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u2-l1": {
