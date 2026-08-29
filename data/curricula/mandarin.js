@@ -4366,63 +4366,69 @@
     },
     "zh-u9-l1": {
         "id": "zh-u9-l1",
-        "subject": "mandarin",
-        "unit": 9,
-        "lessonNumber": 1,
-        "title": "否定词辨析：不与没/没有 (Negation 不 vs 没) (Part 1)",
+        "unit": "zh-u9",
         "level": "A2",
-        "objective": "Comprehensive mastery of 否定词不与没辨析 (Negation Distinctions 不 vs 没).",
+        "objective": "Master the semantic and temporal scope of 不 (bù), using it to negate subjective intention/volition, habitual actions, present states, and future events.",
+        "prerequisites": [
+            "zh-u8-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u8-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「否定词辨析：不与没/没有 (Negation 不 vs 没)」（第1部分）的核心句法结构与否定词不与没辨析 (Negation Distinctions 不 vs 没)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "否定副词「不 (bù)」是汉语中使用最广泛的否定词之一，其核心语义特征是**主观意愿、习惯性行为、当前状态与将来事件**的否定。\n\n1. 「不」的四大核心使用领域 (4 Core Domains of 不):\n- **主观意愿与态度 (Subjective Volition / Refusal)**：\n  - 我**不想**去。(I don't want to go.) / 我**不吃**肉。(I don't eat meat [by choice/vegetarian].)\n- **日常习惯与规律 (Habitual Actions)**：\n  - 他每天早晨**不喝**咖啡，只喝绿茶。(He doesn't drink coffee in the morning [habit].)\n- **现在与将来时间 (Present & Future Actions)**：\n  - 我明天**不去**学校。(I am not going to school tomorrow.)\n- **系词与绝大多数形容词 (Copula & Adjectives)**：\n  - 他**不是**老师。(He is not a teacher.) / 今天天气**不冷**。(It is not cold today.)\n\n2. 语用对比示例：\n- 我**不吃**。(I refuse to eat / I don't eat this.) [Subjective will]",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (9.1.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "我明天上午有重要的中文期末考试，所以今晚不去参加朋友的聚会了。",
+                    "reading": "Wǒ míngtiān shàngwǔ yǒu zhòngyào de zhōngwén qīmò kǎoshì, suǒyǐ jīnwǎn bú qù cānjiā péngyou de jùhuì le.",
+                    "translation": "I have an important Chinese final exam tomorrow morning, so I won't go attend my friend's gathering tonight."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (9.1.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "李明平时不爱喝碳酸饮料，他习惯随身带一杯温开水。",
+                    "reading": "Lǐ Míng píngshí bú ài hē tànsuān yǐnliào, tā xíguàn suíshēn dài yì bēi wēn kāishuǐ.",
+                    "translation": "Li Ming usually doesn't like drinking carbonated beverages; he is used to carrying a cup of warm water with him."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (9.1.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "今天外面的风虽然很大，但是气温并不低，感觉很舒服。",
+                    "reading": "Jīntiān wàimiàn de fēng suīrán hěn dà, dànshì qìwēn bìng bù dī, gǎnjué hěn shūfu.",
+                    "translation": "Although the wind outside is strong today, the temperature is not low at all and feels very comfortable."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 否定词不与没辨析 (Negation Distinctions 不 vs 没)"
+                "«不» = Volition, Habit, Future, Adjectives! (我不去 = I won't go; 不是 = is not; 不冷 = not cold!)"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Saying «我不吃辣» (I don't eat spicy food) is a vital practical dietary phrase across China, informing hosts and restaurant staff of personal dining preferences."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「否定词不与没辨析 (Negation Distinctions 不 vs 没)」在第1小节中的标准汉语语法规范？",
+                    "prompt": "表达‘我明天不打算去图书馆’（将来时间与主观意愿）时，应当选用的否定词是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (9.1.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (9.1.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (9.1.3)。"
+                        "不 (bù: negates future action & intention)",
+                        "没",
+                        "无"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "不 is used to negate future events, intentions, and willingness."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「否定词辨析：不与没/没有 (Negation 不 vs 没)」语用情境与完整句式的选项（练习 1）：",
+                    "prompt": "句子‘他不抽烟，也不喝酒’中，否定词‘不’表达了什么语义？",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (9.1.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (9.1.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (9.1.3)。"
+                        "过去未发生",
+                        "长期的生活习惯与个人原则 (Habitual lifestyle choice & personal habits)",
+                        "将来的假设"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "不 negates habitual activities and lifestyle traits."
                 }
             ]
         },
@@ -4430,85 +4436,98 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「否定词不与没辨析 (Negation Distinctions 不 vs 没)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 9-1）？",
+                    "prompt": "下列哪个句子正确使用了否定词‘不’？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (9.1.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (9.1.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (9.1.3)。"
+                        "我明天不去上海出差 (Wǒ míngtiān bú qù Shànghǎi chūchāi)",
+                        "我昨天不去图书馆",
+                        "我不有一本书"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "我明天不去上海出差 correctly applies 不 to a future action."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («不是_9_1»):",
+                    "prompt": "Type the Hanzi for the negative adverb 'not' (不):",
                     "acceptedAnswers": [
-                        "不是_9_1"
+                        "不",
+                        "bu",
+                        "bù",
+                        "Bù",
+                        "Bu",
+                        "bú",
+                        "Bú"
                     ],
-                    "explanation": "The target keyword was: 【不是_9_1】"
+                    "explanation": "不 (bù) means 'not / no'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u9-l2": {
         "id": "zh-u9-l2",
-        "subject": "mandarin",
-        "unit": 9,
-        "lessonNumber": 2,
-        "title": "否定词辨析：不与没/没有 (Negation 不 vs 没) (Part 2)",
+        "unit": "zh-u9",
         "level": "A2",
-        "objective": "Comprehensive mastery of 否定词不与没辨析 (Negation Distinctions 不 vs 没).",
+        "objective": "Master the scope of 没 / 没有 (méi / méiyǒu), using it to negate objective facts, past occurrences, the completion of actions, and possession.",
+        "prerequisites": [
+            "zh-u9-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u9-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「否定词辨析：不与没/没有 (Negation 不 vs 没)」（第2部分）的核心句法结构与否定词不与没辨析 (Negation Distinctions 不 vs 没)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "否定词「没 / 没有」的核心语义特征是**客观事实的陈述、过去动作的未发生、完成态的否定以及所有/存在的否定**。\n\n1. 「没/没有」的四大核心使用领域 (4 Core Domains of 没/没有):\n- **过去动作未发生 (Past Actions Not Occurring)**：\n  - 我昨天**没去**学校。(I didn't go to school yesterday [objective fact].)\n- **动作未完成或未实现 (Aspectual Non-completion)**：\n  - 他**还没写完**作业。(He hasn't finished his homework yet.)\n- **客观事实陈述 (Objective Fact without Volition)**：\n  - 昨天**没下雨**。(It didn't rain yesterday.) *[天气无主观意愿，绝不说 *昨天不下雨]*\n- **否定拥有与存在 (Negating Possession / Existence)**：\n  - 我**没有**中文词典。(I don't have a Chinese dictionary.) *[绝不说 *我不有书]*\n\n2. 意愿 vs. 事实 对比经典：\n- 我昨天**不想**去，所以**没去**。(I didn't want to go [意愿 不], so I didn't go [事实 没].)",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (9.2.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "大卫昨天感冒发烧了，所以上午没有来教室上课。",
+                    "reading": "Dàwèi zuótiān gǎnmào fāshāo le, suǒyǐ shàngwǔ méiyǒu lái jiàoshì shàngkè.",
+                    "translation": "David caught a cold and had a fever yesterday, so he didn't come to class in the morning."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (9.2.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "我找了半天，但还是没有在书包里找到我的学生证。",
+                    "reading": "Wǒ zhǎo le bàntiān, dàn háishì méiyǒu zài shūbāo lǐ zhǎodào wǒ de xuéshengzhèng.",
+                    "translation": "I searched for a long time, but still didn't find my student ID in my backpack."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (9.2.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "今天早晨出门太匆忙，李明没来得及吃早饭就跑去赶公交车了。",
+                    "reading": "Jīntiān zǎochén chūmén tài cōngmáng, Lǐ Míng méi láidejí chī zǎofàn jiù pǎo qù gǎn gōngjiāochē le.",
+                    "translation": "Leaving home too hurriedly this morning, Li Ming didn't have time to eat breakfast before running to catch the bus."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 否定词不与没辨析 (Negation Distinctions 不 vs 没)"
+                "«没/没有» = Fact, Past, Completion, Possession! (昨天没去 = Didn't go; 没有书 = Don't have books!)"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "In polite Chinese excuse-making, using «没时间» (didn't have time) or «没来得及» (wasn't able in time) provides an objective, face-saving explanation."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「否定词不与没辨析 (Negation Distinctions 不 vs 没)」在第2小节中的标准汉语语法规范？",
+                    "prompt": "表达‘昨天下午没有下雨’时，为什么必须用‘没下雨’而不能用‘不下雨’？",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (9.2.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (9.2.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (9.2.3)。"
+                        "因为下雨是客观自然现象，且发生在过去，必须用‘没’表达客观事实 (Objective natural fact in the past)",
+                        "因为‘不’只能用于写字",
+                        "两者完全可以互换"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "Natural weather events and past facts require 没/没有, not subjective 不."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「否定词辨析：不与没/没有 (Negation 不 vs 没)」语用情境与完整句式的选项（练习 2）：",
+                    "prompt": "句子‘我昨天生病了，没去上课’中，‘没去’表达的是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (9.2.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (9.2.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (9.2.3)。"
+                        "主观上永远不想上课",
+                        "昨天上课这一动作客观上没有发生 (The action of attending class objectively did not occur)",
+                        "明天不上课"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "没去 states the objective past fact that the action did not occur."
                 }
             ]
         },
@@ -4516,85 +4535,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「否定词不与没辨析 (Negation Distinctions 不 vs 没)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 9-2）？",
+                    "prompt": "表达‘我手头没有汉语词典’时，唯一合法的汉语否定句是：",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (9.2.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (9.2.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (9.2.3)。"
+                        "我不有汉语词典 (*bù yǒu - illegal)",
+                        "我不带词典",
+                        "我没有汉语词典 (Wǒ méiyǒu hànyǔ cídiǎn)"
                     ],
                     "answerIndex": 2,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "explanation": "Possession with 有 is strictly negated by 没有, never *不有."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («不是_9_2»):",
+                    "prompt": "Type the Hanzi for 'not have / did not' (没):",
                     "acceptedAnswers": [
-                        "不是_9_2"
+                        "没",
+                        "mei",
+                        "méi",
+                        "Méi",
+                        "Mei",
+                        "沒"
                     ],
-                    "explanation": "The target keyword was: 【不是_9_2】"
+                    "explanation": "没 (méi) negates past actions and possession."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u9-l3": {
         "id": "zh-u9-l3",
-        "subject": "mandarin",
-        "unit": 9,
-        "lessonNumber": 3,
-        "title": "否定词辨析：不与没/没有 (Negation 不 vs 没) (Part 3)",
+        "unit": "zh-u9",
         "level": "A2",
-        "objective": "Comprehensive mastery of 否定词不与没辨析 (Negation Distinctions 不 vs 没).",
+        "objective": "Master the nuanced contrasts when negating modal verbs (不想 vs 没能 / 不要 vs 没要) and comparative adjective changes (不高 vs 没高).",
+        "prerequisites": [
+            "zh-u9-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u9-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「否定词辨析：不与没/没有 (Negation 不 vs 没)」（第3部分）的核心句法结构与否定词不与没辨析 (Negation Distinctions 不 vs 没)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "助动词（能愿动词）与形容词在配合「不」与「没」时，会产生截然不同的语义色彩。\n\n1. 助动词否定辨析 (Modal Verb Negation):\n- **想 (xiǎng - want to)**：\n  - **不想**：主观不愿 (I don't want to: 我不想去)\n  - *没想*：过去未曾设想/意料 (didn't think of: 我真没想到)\n- **能 (néng - able to)**：\n  - **不能**：不许可 / 无能力 (cannot: 教室里不能抽烟)\n  - **没能**：客观原因未能如愿实现 (failed to / wasn't able to: 昨天路上堵车，我**没能**准时到达)\n- **要 (yào - will / want / must)**：\n  - **不要 / 别**：禁止或拒绝 (Don't / do not want: 不要说话！)\n  - **没要**：过去客观未索取 (didn't ask for: 他送我礼物，我没要)。\n\n2. 形容词配合辨析 (Adjective Negation):\n- **不高 (bù gāo)**：单纯描述性状（not tall）\n- **没高 (méi gāo)**：表示变化或比较未达到预期高度（hasn't grown taller / not as tall as）。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (9.3.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "很抱歉，因为昨晚突降大雪航班延误，我今天上午没能准时参加开幕式。",
+                    "reading": "Hěn bàoqiàn, yīnwèi zuówǎn tū jiàng dàxuě hángbān yánwù, wǒ jīntiān shàngwǔ méi néng zhǔnshí cānjiā kāimùshì.",
+                    "translation": "So sorry, because of heavy snow and flight delays last night, I wasn't able to attend the opening ceremony on time."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (9.3.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "图书馆阅览室里必须保持安静，大家请不要大声喧哗。",
+                    "reading": "Túshūguǎn yuèlǎnshì lǐ bìxū bǎochí ānjìng, dàjiā qǐng búyào dàshēng xuānhuá.",
+                    "translation": "Silence must be maintained in the library reading room; everyone please do not make loud noise."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (9.3.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "弟弟这一年个子长得很快，现在看起来一点儿也不矮了。",
+                    "reading": "Dìdi zhè yì nián gèzi zhǎng de hěn kuài, xiànzài kàn qǐlai yìdiǎnr yě bù ǎi le.",
+                    "translation": "Younger brother grew taller quickly this year, and now doesn't look short at all."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 否定词不与没辨析 (Negation Distinctions 不 vs 没)"
+                "不想 = Don't want to; 没能 = Wanted to but wasn't able to; 不要 = Don't (prohibition)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Using «没能...非常抱歉» demonstrates humble courtesy in formal Chinese correspondence and academic communications."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「否定词不与没辨析 (Negation Distinctions 不 vs 没)」在第3小节中的标准汉语语法规范？",
+                    "prompt": "句子‘昨天我生病了，没能去参加李明的生日聚会’中，‘没能’表达的意思是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (9.3.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (9.3.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (9.3.3)。"
+                        "本来想去，但受客观条件限制未能如愿 (Wanted to go, but was objectively unable to)",
+                        "自己主观上坚决不想去",
+                        "李明不准他去"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "没能 indicates that due to objective circumstances, the intended action could not be fulfilled."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「否定词辨析：不与没/没有 (Negation 不 vs 没)」语用情境与完整句式的选项（练习 3）：",
+                    "prompt": "在公共场所表达礼貌劝阻‘请不要吸烟’时，正确的汉语是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (9.3.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (9.3.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (9.3.3)。"
+                        "请没吸烟",
+                        "请不要吸烟 (Qǐng búyào xīyān)",
+                        "请不有吸烟"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "不要 (or 别) expresses prohibition."
                 }
             ]
         },
@@ -4602,85 +4633,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「否定词不与没辨析 (Negation Distinctions 不 vs 没)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 9-3）？",
+                    "prompt": "对比：A‘我不想去’与 B‘我没能去’，哪一个表达‘主观上没有意愿’？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (9.3.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (9.3.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (9.3.3)。"
+                        "句子 A (不想 = lack of volition)",
+                        "句子 B (没能 = lack of capability/objective blockage)",
+                        "两个都是"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "explanation": "不想 expresses internal unwillingness; 没能 expresses external impediment."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («不是_9_3»):",
+                    "prompt": "Type the Hanzi for 'cannot / must not / do not want' (不要):",
                     "acceptedAnswers": [
-                        "不是_9_3"
+                        "不要",
+                        "buyao",
+                        "búyào",
+                        "Búyào",
+                        "Buyao"
                     ],
-                    "explanation": "The target keyword was: 【不是_9_3】"
+                    "explanation": "不要 (búyào) expresses refusal or prohibition ('don't / do not want')."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u9-l4": {
         "id": "zh-u9-l4",
-        "subject": "mandarin",
-        "unit": 9,
-        "lessonNumber": 4,
-        "title": "否定词辨析：不与没/没有 (Negation 不 vs 没) (Part 4)",
+        "unit": "zh-u9",
         "level": "A2",
-        "objective": "Comprehensive mastery of 否定词不与没辨析 (Negation Distinctions 不 vs 没).",
+        "objective": "Master Chinese double negation structures (不得不, 不能不, 没有...不...) to express strong logical necessity, rhetorical emphasis, and undeniable universal affirmation.",
+        "prerequisites": [
+            "zh-u9-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u9-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「否定词辨析：不与没/没有 (Negation 不 vs 没)」（第4部分）的核心句法结构与否定词不与没辨析 (Negation Distinctions 不 vs 没)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "汉语中的「双重否定（Double Negation）」具有**以否代肯、语气强化**的修辞魅力。两个否定词连用，表达极其坚定或无可奈何的肯定事实！\n\n1. 三大核心双重否定句式 (3 Core Double Negation Structures):\n- **不得不 (bù dé bù)**：客观情势所迫，‘必须 / 只能’ (have no choice but to / cannot but):\n  - 天气太恶劣了，航班**不得不**取消。(The flight had no choice but to be cancelled.)\n  - 面对铁证，他**不得不**承认错误。(He had to admit his mistake.)\n- **不能不 (bù néng bù)**：情理上的绝对必须 (cannot not / must):\n  - 这么重要的国际会议，我们**不能不**去。(We cannot not go to such an important meeting.)\n- **没有……不…… (méiyǒu... bù...)**：表示全称肯定，‘所有人/事全都……’ (there is none who doesn't...):\n  - 全校**没有**一个人**不**喜欢张老师。(There is no one in the school who doesn't like Teacher Zhang [Everyone likes him]!)\n\n2. 修辞效果：\n- 比单纯肯定句（大家喜欢张老师）更具无可辩驳的强调感染力！",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (9.4.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "由于突降暴雨，学校不得不将原定于今天下午的室外运动会延期举行。",
+                    "reading": "Yóuyú tū jiàng bàoyǔ, xuéxiào bùdébù jiāng yuándìng yú jīntiān xiàwǔ de shìwài yùndònghuì yánqī jǔxíng.",
+                    "translation": "Due to the sudden rainstorm, the school had no choice but to postpone the outdoor sports meet."
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (9.4.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "张老师讲课生动幽默、条理清晰，我们班没有一个同学不喜欢听他的课。",
+                    "reading": "Zhāng lǎoshī jiǎngkè shēngdòng yōumò, tiáolǐ qīngxī, wǒmen bān méiyǒu yí gè tóngxué bù xǐhuan tīng tā de kè.",
+                    "translation": "Teacher Zhang lectures vividly and humorously with clear organization; not a single student in our class doesn't like listening to his classes."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (9.4.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "面对日益严峻的气候变化挑战，世界各国不能不加强环境科技合作。",
+                    "reading": "Miànduì rìyì yánjùn de qìhòu biànhuà tiǎozhàn, shìjiè gèguó bù néng bù jiāqiáng huánjìng kējì hézuò.",
+                    "translation": "Facing the increasingly severe challenge of climate change, countries worldwide cannot but strengthen environmental science and technology cooperation."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 否定词不与没辨析 (Negation Distinctions 不 vs 没)"
+                "Double Negative = Super Strong Affirmative! (不得不 = Have no choice but to; 没有不 = Everyone does!)"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Double negation is a cherished stylistic device in formal Chinese rhetoric, argumentative essays, and diplomacy, reflecting intellectual sophistication and rhetorical gravitas."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「否定词不与没辨析 (Negation Distinctions 不 vs 没)」在第4小节中的标准汉语语法规范？",
+                    "prompt": "句子‘面对客观困难，我们不得不改变原定计划’中，‘不得不’的意思是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (9.4.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (9.4.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (9.4.3)。"
+                        "受客观条件迫使，必须改变 (Forced by circumstances; must change)",
+                        "绝不改变",
+                        "不打算改变"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "不得不 means 'have no choice but to / must'."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「否定词辨析：不与没/没有 (Negation 不 vs 没)」语用情境与完整句式的选项（练习 4）：",
+                    "prompt": "双重否定句‘全班同学没有一个不赞成这个提议’表达的实际含义是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (9.4.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (9.4.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (9.4.3)。"
+                        "只有少数人赞成",
+                        "全班所有同学全都坚决赞成这个提议 (Every single classmate agrees with the proposal)",
+                        "大家都不赞成"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "没有一个不... is an emphatic universal affirmative: everyone agrees."
                 }
             ]
         },
@@ -4688,85 +4730,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「否定词不与没辨析 (Negation Distinctions 不 vs 没)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 9-4）？",
+                    "prompt": "下列哪个句子正确运用了‘不得不’双重否定结构？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (9.4.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (9.4.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (9.4.3)。"
+                        "他不得去看电影",
+                        "他生病严重，不得不去医院看医生 (He was seriously ill and had no choice but to see a doctor)",
+                        "医院不得不去看他病"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "explanation": "不得不去医院看医生 accurately uses double negation to mean 'had no choice but to go'."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («不是_9_4»):",
+                    "prompt": "Type the Hanzi for 'have no choice but to / cannot but' (不得不):",
                     "acceptedAnswers": [
-                        "不是_9_4"
+                        "不得不",
+                        "budebu",
+                        "bùdébù",
+                        "Bùdébù",
+                        "Budebu"
                     ],
-                    "explanation": "The target keyword was: 【不是_9_4】"
+                    "explanation": "不得不 (bùdébù) means 'have no choice but to / cannot help but'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u9-l5": {
         "id": "zh-u9-l5",
-        "subject": "mandarin",
-        "unit": 9,
-        "lessonNumber": 5,
-        "title": "否定词辨析：不与没/没有 (Negation 不 vs 没) (Part 5)",
+        "unit": "zh-u9",
         "level": "A2",
-        "objective": "Comprehensive mastery of 否定词不与没辨析 (Negation Distinctions 不 vs 没).",
+        "objective": "Master the complete comprehensive distinction matrix between 不 and 没 across time, volition, stative description, and syntax, executing flawless natural usage in communicative discourse.",
+        "prerequisites": [
+            "zh-u9-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u9-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「否定词辨析：不与没/没有 (Negation 不 vs 没)」（第5部分）的核心句法结构与否定词不与没辨析 (Negation Distinctions 不 vs 没)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在本课中，我们将把第九单元的所有知识点提炼为一张终极对比全景图，通过生活情境辩论与综合实战彻底消除‘不’与‘没’的混淆困扰。\n\n1. 不 vs. 没 终极对比矩阵 (The Definitive Matrix):\n| 语法维度 | 否定词「不 (bù)」 | 否定词「没 / 没有 (méi / méiyǒu)」 |\n| :--- | :--- | :--- |\n| **核心语义** | 主观意愿、拒绝、态度 | 客观事实、动作未发生 |\n| **时间范畴** | 现在、将来、常态习惯 | 过去、迄今未完成 |\n| **词类搭配** | 系词是、形容词、助动词想/要 | 拥有/存在有、动态助词了/过 |\n| **经典范例** | 我**不吃**。(I won't eat / don't eat.) | 我**没吃**。(I didn't eat / haven't eaten yet.) |\n| **经典范例** | 他**不是**中国人。(He isn't Chinese.) | 他**没有**护照。(He doesn't have a passport.) |\n\n2. 第九单元综合交际实战 (Unit 9 Synthesis Dialogue):\n- 跨国朋友谈心：澄清误会、解释过去未能出席活动的原因（没能...）、表达个人生活习惯（不抽烟不喝酒）与未来的坚定选择（不得不...）。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (9.5.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "大卫：李明，你昨天怎么没来参加中文角？ 李明：真抱歉，我昨天突发急性胃肠炎，疼得厉害，不得不去校医院看急诊，所以没能去成！",
+                    "reading": "Dàwèi: Lǐ Míng, nǐ zuótiān zěnme méi lái cānjiā zhōngwén jiǎo? Lǐ Míng: Zhēn bàoqiàn, wǒ zuótiān tūfā jíxìng wèichángyán, téng de lìhai, bùdébù qù xiàoyīyuàn kàn jízhěn, suǒyǐ méi néng qù chéng!",
+                    "translation": "David: Li Ming, why didn't you come to the Chinese Corner yesterday? Li Ming: Really sorry! I suddenly had acute gastroenteritis yesterday and was in terrible pain; I had no choice but to go to the clinic for emergency care, so I wasn't able to make it!"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (9.5.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "张华虽然从小在海边长大，但他并不喜欢吃海鲜，平时从来不吃生鱼片。",
+                    "reading": "Zhāng Huá suīrán cóngxiǎo zài hǎibiān zhǎngdà, dàn tā bìng bù xǐhuan chī hǎixiān, píngshí cónglái bù chī shēngyúpiàn.",
+                    "translation": "Although Zhang Hua grew up by the sea, he really doesn't like seafood and normally never eats sashimi."
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (9.5.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "我们班没有一个人不热爱中国语言与灿烂文化，大家每天都在努力进步！",
+                    "reading": "Wǒmen bān méiyǒu yí gè rén bù rè'ài Zhōngguó yǔyán yǔ cànlàn wénhuà, dàjiā měitiān dōu zài nǔlì jìnbù!",
+                    "translation": "Not a single person in our class doesn't love the Chinese language and glorious culture; everyone is striving hard to progress every day!"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 否定词不与没辨析 (Negation Distinctions 不 vs 没)"
+                "The Golden Rule: 不 is Mind/Habit/Future/State; 没 is Fact/Past/Event/Have!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Navigating 不 vs 没 with nuanced accuracy in social and professional settings ensures clear boundaries, avoiding unintended offense or misunderstandings."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「否定词不与没辨析 (Negation Distinctions 不 vs 没)」在第5小节中的标准汉语语法规范？",
+                    "prompt": "句子‘他昨天没来，因为他根本不想来’中，‘没来’与‘不想’的否定词选用分别体现了什么？",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (9.5.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (9.5.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (9.5.3)。"
+                        "‘没来’描述昨天动作未发生的客观事实，‘不想’描述主观意愿 (Objective past fact vs. Subjective volition)",
+                        "两个都是将来时",
+                        "没有任何区别"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "没来 states the objective past non-occurrence; 不想 describes the subjective mental volition."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「否定词辨析：不与没/没有 (Negation 不 vs 没)」语用情境与完整句式的选项（练习 5）：",
+                    "prompt": "当表达‘我目前手头没有钱，所以买不了这件衣服’时，最精准的否定搭配是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (9.5.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (9.5.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (9.5.3)。"
+                        "我不钱，所以没买",
+                        "我没有钱，所以买不了 (Wǒ méiyǒu qián, suǒyǐ mǎi bù liǎo)",
+                        "我没是钱"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "没有钱 negates possession; 买不了 indicates inability to purchase."
                 }
             ]
         },
@@ -4774,24 +4827,31 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「否定词不与没辨析 (Negation Distinctions 不 vs 没)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 9-5）？",
+                    "prompt": "下列关于汉语否定词‘不’与‘没’的综合总结，哪一项是完全正确的？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (9.5.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (9.5.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (9.5.3)。"
+                        "‘不’主要否定意愿、习惯、将来与性状；‘没’主要否定过去动作、事实、完成与拥有 (不 negates volition/habit/future/adjectives; 没 negates past/facts/completion/possession)",
+                        "两者没有任何区别，可以任意替换",
+                        "‘不’只能用于系词‘是’之前"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR A2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "不 covers volition, habitual traits, future time, and adjectives; 没 covers past actions, objective facts, completion, and possession."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («不是_9_5»):",
+                    "prompt": "Type the Hanzi for 'not at all / truly not' (并不):",
                     "acceptedAnswers": [
-                        "不是_9_5"
+                        "并不",
+                        "bingbu",
+                        "bìngbù",
+                        "Bìngbù",
+                        "Bingbu",
+                        "bìngbú",
+                        "Bìngbú"
                     ],
-                    "explanation": "The target keyword was: 【不是_9_5】"
+                    "explanation": "并不 (bìngbù) means 'not at all / by no means'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u10-l1": {
