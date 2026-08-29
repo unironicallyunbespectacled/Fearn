@@ -12084,63 +12084,69 @@
     },
     "am-u24-l1": {
         "id": "am-u24-l1",
-        "subject": "amharic",
-        "unit": 24,
-        "lessonNumber": 1,
-        "title": "ኪነ-ጥበብ፣ ሙዚቃ እና ስነ-ጽሁፍ (Arts, Music & Literature) (Part 1)",
+        "unit": "am-u24",
         "level": "B2",
-        "objective": "Comprehensive mastery of ስነ-ጽሁፍ እና ጥበብ (Literature and Arts).",
+        "objective": "Comprehend and analyze the classical Ethiopian rhetorical paradigm of «ሰምና ወርቅ» (Wax and Gold), distinguishing between the apparent surface meaning (ሰም) and the hidden profound subtext (ወርቅ) across traditional Qenē (ቅኔ) poetry.",
+        "prerequisites": [
+            "am-u23-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u23-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ስነ-ጽሁፍ እና ጥበብ (Literature and Arts) - ደረጃ 1) ተማሪዎች ስለ ስነ-ጽሁፍ እና ጥበብ (Literature and Arts) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "The rhetorical philosophy of «ሰምና ወርቅ» (Wax and Gold) is the pinnacle of Ethiopian poetic expression.\n\n1. Wax and Gold Structure:\n- **ሰም** (Sem — Wax / Surface meaning: the literal, visible formulation)\n- **ወርቅ** (Werq — Gold / Inner meaning: the esoteric, satirical, or spiritual reality)\n- **ህብር** (Hibir — The pivot homophone linking the two meanings)\n\n2. The Art of **ቅኔ** (Qenē):\nStrictly metered, extemporaneous Ge'ez and Amharic poetry utilizing double-entendre to praise, satirize, or philosophize with deep subtlety.",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የስነ-ጽሁፍ እና ጥበብ (Literature and Arts) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (24.1.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "የሰምና ወርቅ ቅኔ ውበት ግልጽ ከሆነው የውጭ ትርጉም (ሰም) ጀርባ የተሰወረውን ጥልቅ ምስጢር (ወርቅ) ማውጣት ላይ ነው።",
+                    "reading": "Yesemina werq qinē wubet giltse kehonew yewuch' tirgum (sem) jerba yetesewerewun t'iliq mist'īr (werq) mawit'at lay new.",
+                    "translation": "The beauty of Wax and Gold poetry lies in unearthing the deep secret (gold) concealed behind the obvious literal meaning (wax)."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (24.1.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የጥንቱ ባለቅኔ በተቀኘው ስንኝ ውስጥ ማህበራዊ ሂስን በስላቅ ሸፍኖ ለንጉሱ አቀረበ።",
+                    "reading": "Yet'intu baleqinē beteqegnew sinign wust mahiberawī hīsin besilaq shefino lenigusu aqerebe.",
+                    "translation": "In the verse he composed, the ancient poet presented social criticism to the king veiled in satire."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (24.1.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የአማርኛ ስነ-ጽሁፍ በሰምና ወርቅ ፍልስፍና የታነጸ በመሆኑ ቃላቱ ባለብዙ እርከን ምስጢር አላቸው።",
+                    "reading": "Ye'amarigna sine-ts'ihuf besemina werq filisifina yetanetse bemehonu qalatun balebizu irken mist'īr allachew.",
+                    "translation": "Because Amharic literature is shaped by the Wax and Gold philosophy, its words possess multi-layered esoteric meanings."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ስነ-ጽሁፍ እና ጥበብ (Literature and Arts)"
+                "«ሰም» = Surface wax! «ወርቅ» = Hidden gold! «ቅኔ» = Poetic art of ambiguity!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Mastery of Qenē poetry requires rigorous traditional training in monastery schools (የቅኔ ቤት), emphasizing linguistic wit, Biblical typology, and historical allegory."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ስነ-ጽሁፍ እና ጥበብ (Literature and Arts)» አጠቃቀም በደረጃ 1 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "በሰምና ወርቅ ፍልስፍና ውስጥ «ወርቅ» ምንን ይወክላል?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (24.1.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (24.1.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (24.1.3)።"
+                        "The deep hidden / esoteric meaning (ወርቅ)",
+                        "The surface literal word (ሰም)",
+                        "A musical drum"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "ወርቅ represents the deeper, hidden truth beneath the surface word."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ኪነ-ጥበብ፣ ሙዚቃ እና ስነ-ጽሁፍ (Arts, Music & Literature)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 1)፡",
+                    "prompt": "«ቅኔ» በኢትዮጵያ ምን ዓይነት የኪነ-ጥበብ ዘርፍ ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (24.1.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (24.1.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (24.1.3)።"
+                        "A style of cooking",
+                        "Classical poetic verse of philosophical ambiguity",
+                        "Modern sculpture"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "ቅኔ is classical verse based on multi-layered ambiguity."
                 }
             ]
         },
@@ -12148,85 +12154,95 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ስነ-ጽሁፍ እና ጥበብ (Literature and Arts)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 24-1)?",
+                    "prompt": "የሰምና ወርቅ ግጥም የውጫዊውን ትርጉም የሚወክለው የትኛው ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (24.1.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (24.1.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (24.1.3)።"
+                        "ወርቅ (Gold)",
+                        "ሰም (Wax - surface meaning)",
+                        "ብር (Silver)"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "explanation": "ሰም (Sem) represents the outer surface literal meaning."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ሙዚቃ_24_1»):",
+                    "prompt": "Type the Amharic word for the hidden core meaning in Wax & Gold poetry in Fidel script (ወርቅ):",
                     "acceptedAnswers": [
-                        "ሙዚቃ_24_1"
+                        "ወርቅ",
+                        "werq",
+                        "worq",
+                        "Werq"
                     ],
-                    "explanation": "The target keyword was: 【ሙዚቃ_24_1】"
+                    "explanation": "ወርቅ (Werq) means 'hidden inner meaning / gold'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u24-l2": {
         "id": "am-u24-l2",
-        "subject": "amharic",
-        "unit": 24,
-        "lessonNumber": 2,
-        "title": "ኪነ-ጥበብ፣ ሙዚቃ እና ስነ-ጽሁፍ (Arts, Music & Literature) (Part 2)",
+        "unit": "am-u24",
         "level": "B2",
-        "objective": "Comprehensive mastery of ስነ-ጽሁፍ እና ጥበብ (Literature and Arts).",
+        "objective": "Examine the classical literary heritage of Ge'ez (ግዕዝ), parchment manuscripts (ብራና), historical chronicles (ድርሳናት), and the sacred liturgical chanting notation composed by Saint Yared (ያሬዳዊ ዜማ).",
+        "prerequisites": [
+            "am-u24-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u24-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ስነ-ጽሁፍ እና ጥበብ (Literature and Arts) - ደረጃ 2) ተማሪዎች ስለ ስነ-ጽሁፍ እና ጥበብ (Literature and Arts) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Ge'ez manuscript culture and Saint Yared's 6th-century musical system underpin Ethiopia's intellectual legacy.\n\n1. Manuscript Legacy:\n- **ግዕዝ** (Ge'ez — Classical Semitic liturgical tongue)\n- **ብራና** (Birana — Vellum animal-skin parchment for sacred texts)\n- **ድርሳናት** (Dirsanat — Chronicles, homilies, and historical treatises)\n\n2. The Three Modes of **ያሬዳዊ ዜማ** (Yaredic Chants):\n- 1. **ግዕዝ** (Ge'ez — Plain, direct liturgical mode)\n- 2. **ዕዝል** (Izil — Solemn, heavy festive mode)\n- 3. **አራራይ** (Araray — Melancholic, emotional penitential mode)",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የስነ-ጽሁፍ እና ጥበብ (Literature and Arts) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (24.2.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "የቅዱስ ያሬድ ዜማ በስድስተኛው መቶ ክፍለ ዘመን የተፈጠረ ድንቅ ጥንታዊ የዜማ ምልክቶች ያሉት የቤተክርስቲያን ቅርስ ነው።",
+                    "reading": "Yeqidus Yarēd zēma besidistegnaw meto kifle zemen yetefet'ere dinq t'intawī yezēma milikitoc yalut yebētekiristīyan qirs new.",
+                    "translation": "Saint Yared's music is a marvelous ancient church heritage with its own notation system created in the sixth century."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (24.2.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የጥንታውያን ገዳማት መነኮሳት የሀገሪቱን ታሪክ እና መንፈሳዊ ድርሳናት በብራና መጽሐፍት ላይ ጽፈው ጠብቀው አቆይተዋል።",
+                    "reading": "Yet'intawiyan gedamat menekosat yehageritun tarīk ina menfesawī dirsanat bebirana metsihaft lay ts'ifew t'ebqew aqoyitewal.",
+                    "translation": "Monks of ancient monasteries preserved the country's history and spiritual treatises written on parchment manuscripts."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (24.2.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የያሬዳዊ ዜማ ሶስቱ ስልቶች ግዕዝ፣ ዕዝል እና አራራይ በመባል ይታወቃሉ።",
+                    "reading": "Yeyaredawī zēma sostu silt'och Ge'ez, Izil ina Araray bemibal yit'aweqalu.",
+                    "translation": "The three modes of Yared's chants are known as Ge'ez, Izil, and Araray."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ስነ-ጽሁፍ እና ጥበብ (Literature and Arts)"
+                "Yared's 3 Chants: 1. ግዕዝ (plain), 2. ዕዝል (solemn), 3. አራራይ (penitential) on ብራና (parchment)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Saint Yared developed an ingenious indigenous musical notation system (ስርዓተ-ምልክት) utilizing signs, letters, and numbers to indicate tempo, pitch, and melody."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ስነ-ጽሁፍ እና ጥበብ (Literature and Arts)» አጠቃቀም በደረጃ 2 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "የኢትዮጵያ ጥንታዊ የዜማ ስልቶችን የፈጠረው ታላቅ ሊቅ ማን ይባላል?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (24.2.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (24.2.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (24.2.3)።"
+                        "ቅዱስ ያሬድ (Saint Yared)",
+                        "አጼ ቴዎድሮስ",
+                        "ደራሲ ሀዲስ አለማየሁ"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "ቅዱስ ያሬድ created the sacred chanting modes of Ethiopia."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ኪነ-ጥበብ፣ ሙዚቃ እና ስነ-ጽሁፍ (Arts, Music & Literature)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 2)፡",
+                    "prompt": "«ብራና» ምን ዓይነት የጥንት ቁሳቁስ ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (24.2.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (24.2.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (24.2.3)።"
+                        "Modern plastic",
+                        "Animal-skin parchment for sacred manuscripts",
+                        "Clay pot"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "ብራና is parchment made from goat/calf skin for writing ancient books."
                 }
             ]
         },
@@ -12234,85 +12250,95 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ስነ-ጽሁፍ እና ጥበብ (Literature and Arts)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 24-2)?",
+                    "prompt": "ከያሬዳዊ ዜማ ሶስት ስልቶች አንዱ ያልሆነው የትኛው ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (24.2.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (24.2.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (24.2.3)።"
+                        "ግዕዝ (Ge'ez mode)",
+                        "ዕዝል (Izil mode)",
+                        "ጀበና (Coffee pot - Not a melody)"
                     ],
                     "answerIndex": 2,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "explanation": "ጀበና is a coffee pot, not a Yaredic chant mode."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ሙዚቃ_24_2»):",
+                    "prompt": "Type the Amharic word for traditional animal-skin manuscript parchment in Fidel script (ብራና):",
                     "acceptedAnswers": [
-                        "ሙዚቃ_24_2"
+                        "ብራና",
+                        "birana",
+                        "brana",
+                        "Birana"
                     ],
-                    "explanation": "The target keyword was: 【ሙዚቃ_24_2】"
+                    "explanation": "ብራና (Birana) means 'vellum / parchment manuscript'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u24-l3": {
         "id": "am-u24-l3",
-        "subject": "amharic",
-        "unit": 24,
-        "lessonNumber": 3,
-        "title": "ኪነ-ጥበብ፣ ሙዚቃ እና ስነ-ጽሁፍ (Arts, Music & Literature) (Part 3)",
+        "unit": "am-u24",
         "level": "B2",
-        "objective": "Comprehensive mastery of ስነ-ጽሁፍ እና ጥበብ (Literature and Arts).",
+        "objective": "Analyze canonical 20th and 21st-century Ethiopian literature, novels («ልቦለድ»), dramatic theatre («ተውኔት»), character development («ገጸ-ባህሪ»), and prominent authors (ሀዲስ አለማየሁ, ፀጋዬ ገብረመድህን, በዓሉ ግርማ).",
+        "prerequisites": [
+            "am-u24-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u24-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ስነ-ጽሁፍ እና ጥበብ (Literature and Arts) - ደረጃ 3) ተማሪዎች ስለ ስነ-ጽሁፍ እና ጥበብ (Literature and Arts) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Modern Ethiopian vernacular literature flourished in the 20th century across novel and theatrical drama.\n\n1. Literary Genres & Terminology:\n- **ልቦለድ** (Lib-woled — Novel / Fiction prose; literally 'born of the heart')\n- **ተውኔት** (Tewnēt — Stage play / Dramatic theatre)\n- **ግጥም** (Git'im — Poetry / Verse)\n- **ደራሲ** (Derasī — Author / Novelist)\n- **ገጸ-ባህሪ** (Getse-bahirī — Character / Persona)\n\n2. Canonical Luminaries:\n- **ሀዲስ አለማየሁ** (Haddis Alemayehu — Author of *ፍቅር እስከ መቃብር*)\n- **ሎሬት ፀጋዬ ገብረመድህን** (Laureate Tsegaye Gebre-Medhin — Playwright & Poet)\n- **በዓሉ ግርማ** (Be'alu Girma — Novelist of *ኦሮማይ*)",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የስነ-ጽሁፍ እና ጥበብ (Literature and Arts) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (24.3.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "የደራሲ ሀዲስ አለማየሁ «ፍቅር እስከ መቃብር» ድንቅ ልቦለድ በኢትዮጵያ ስነ-ጽሁፍ ውስጥ ከፍተኛ ክብር አለው።",
+                    "reading": "Yederasī Haddīs Alemayehu 'Fiqir Iske Meqabir' dinq lib-woled be'ītyop'ya sine-ts'ihuf wust kefitegna kibir alew.",
+                    "translation": "Author Haddis Alemayehu's masterpiece novel 'Love Unto the Grave' holds high honor in Ethiopian literature."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (24.3.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ሎሬት ፀጋዬ ገብረመድህን የሀገሪቱን ታሪክ እና ባህል በማንጸባረቅ ታላላቅ ተውኔቶችን ለሀገር ብሄራዊ ቴአትር አበርክቷል።",
+                    "reading": "Lorēt Ts'egayē Gebre-Medhin yehageritun tarīk ina bahil bemanst'ebareq talalaq tewnētochin lehager bihērawī tē'atir aberkitwal.",
+                    "translation": "Laureate Tsegaye Gebre-Medhin contributed monumental plays reflecting the nation's history to the National Theatre."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (24.3.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "በልቦለዱ ውስጥ የተሳሉት ገጸ-ባህሪያት የወቅቱን ማህበራዊ እና ፖለቲካዊ ህይወት በግልጽ ያሳያሉ።",
+                    "reading": "Belib-woledu wust yetesalut getse-bahiriyat yeweqtun mahiberawī ina polētīkawī hiywet begiltse yasayalu.",
+                    "translation": "The characters depicted in the novel clearly portray the social and political life of that era."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ስነ-ጽሁፍ እና ጥበብ (Literature and Arts)"
+                "«ልቦለድ» = Heart-born novel! «ተውኔት» = Theatrical play! «ደራሲ» = Author!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Haddis Alemayehu's *ፍቅር እስከ መቃብር* (Fiqir Iske Meqabir) is considered the pinnacle of modern Amharic prose, celebrated for its exquisite social critique and vocabulary."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ስነ-ጽሁፍ እና ጥበብ (Literature and Arts)» አጠቃቀም በደረጃ 3 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«ፍቅር እስከ መቃብር» ምን ዓይነት የስነ-ጽሁፍ ስራ ነው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (24.3.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (24.3.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (24.3.3)።"
+                        "ታዋቂ ልቦለድ (Famous novel)",
+                        "የፊዚክስ መጽሐፍ (Physics book)",
+                        "የሙዚቃ መሳሪያ (Instrument)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "ፍቅር እስከ መቃብር is a celebrated canonical novel."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ኪነ-ጥበብ፣ ሙዚቃ እና ስነ-ጽሁፍ (Arts, Music & Literature)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 3)፡",
+                    "prompt": "«ተውኔት» ምን ማለት ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (24.3.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (24.3.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (24.3.3)።"
+                        "Poetry reading",
+                        "Theatrical stage drama / Play",
+                        "Painting canvas"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "ተውኔት signifies dramatic theatre or stage plays."
                 }
             ]
         },
@@ -12320,85 +12346,95 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ስነ-ጽሁፍ እና ጥበብ (Literature and Arts)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 24-3)?",
+                    "prompt": "በልቦለድ ወይም በቴአትር ውስጥ የሚሳተፍ ሰው ምን ይባላል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (24.3.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (24.3.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (24.3.3)።"
+                        "ገጸ-ባህሪ (Character)",
+                        "ጠረጴዛ (Table)",
+                        "ብዕር (Pen)"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "explanation": "ገጸ-ባህሪ (Getse-bahirī) means 'literary character'."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ሙዚቃ_24_3»):",
+                    "prompt": "Type the Amharic word for 'novel / fictional story' in Fidel script (ልቦለድ):",
                     "acceptedAnswers": [
-                        "ሙዚቃ_24_3"
+                        "ልቦለድ",
+                        "libwoled",
+                        "lib-woled",
+                        "Libwoled"
                     ],
-                    "explanation": "The target keyword was: 【ሙዚቃ_24_3】"
+                    "explanation": "ልቦለድ (Lib-woled) means 'novel / fictional prose'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u24-l4": {
         "id": "am-u24-l4",
-        "subject": "amharic",
-        "unit": 24,
-        "lessonNumber": 4,
-        "title": "ኪነ-ጥበብ፣ ሙዚቃ እና ስነ-ጽሁፍ (Arts, Music & Literature) (Part 4)",
+        "unit": "am-u24",
         "level": "B2",
-        "objective": "Comprehensive mastery of ስነ-ጽሁፍ እና ጥበብ (Literature and Arts).",
+        "objective": "Appraise Ethiopian visual art traditions, ecclesiastical wall frescoes, winged angel ceiling iconography (የደብረ ብርሃን ስላሴ መላእክት), and modern fine art movements led by Maitre Artiste Afewerk Tekle and Skunder Boghossian.",
+        "prerequisites": [
+            "am-u24-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u24-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ስነ-ጽሁፍ እና ጥበብ (Literature and Arts) - ደረጃ 4) ተማሪዎች ስለ ስነ-ጽሁፍ እና ጥበብ (Literature and Arts) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "Visual arts in Ethiopia bridge centuries of ecclesiastical iconography with modern fine arts.\n\n1. Ecclesiastical Wall Paintings:\n- **ቅዱሳን ምስሎች** (Qidusan misiloch — Sacred iconography with expressive wide eyes)\n- **የደብረ ብርሃን ስላሴ መላእክት** (Winged angel frescoes adorning church ceilings in Gondar)\n\n2. Modern Fine Art Figures:\n- **ሰዓሊ** (Se'alī — Painter / Visual artist)\n- **ሜትር አርቲስት አፈወርቅ ተክሌ** (Maitre Artiste Afewerk Tekle — Famed for Africa Hall stained glass)\n- **ስኩንደር ቦጎሲያን** (Skunder Boghossian — Pioneer of African modernist painting)",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የስነ-ጽሁፍ እና ጥበብ (Literature and Arts) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (24.4.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "በጎንደር የሚገኘው የደብረ ብርሃን ስላሴ ቤተክርስቲያን ጣሪያ ላይ የተሳሉት የመላእክት ፊቶች በዓለም አቀፍ ደረጃ እጅግ የታወቁ ናቸው።",
+                    "reading": "Begonder yemīgeygnew yeDebre Birhan Silassē bētekiristīyan t'arīya lay yetesalut yemela'ikt fītoch be'alem aqef dereja ijig yetawaqu nachew.",
+                    "translation": "The faces of winged angels painted on the ceiling of Debre Berhan Selassie Church in Gondar are globally famous."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (24.4.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "ሜትር አርቲስት አፈወርቅ ተክሌ በአፍሪካ አዳራሽ ውስጥ የፈጠረው የመስታወት ላይ ስዕል የጥበብ ጥልቀትን ያሳያል።",
+                    "reading": "Mētir Artīst Afewerq Teklē be'Afrīka adarash wust yefet'erew yemestawot lay si'il yet'ibeb t'iliqetun yasayall.",
+                    "translation": "Maitre Artiste Afewerk Tekle's stained glass artwork in Africa Hall demonstrates profound artistic depth."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (24.4.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የአዲስ አበባ የስነ-ጥበብ ትምህርት ቤት በርካታ ዝነኛ ሰዓሊያንን እና ቅርጻ ቅርጽ ባለሙያዎችን አፍርቷል።",
+                    "reading": "Ye'Addīs Abeba yeSine-t'ibeb timihirt bēt birkata zinegna se'aliyanin ina qirts'a qirts' balemuyawochin afritwal.",
+                    "translation": "The Addis Ababa Fine Art School has produced numerous celebrated painters and sculptors."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ስነ-ጽሁፍ እና ጥበብ (Literature and Arts)"
+                "«ስዕል» = Painting! «ሰዓሊ» = Painter! «አፈወርቅ ተክሌ» = Stained-glass master!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "In traditional Ethiopian church art, saints and holy figures are always depicted facing frontally, while villainous figures are shown in strict profile with one eye."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ስነ-ጽሁፍ እና ጥበብ (Literature and Arts)» አጠቃቀም በደረጃ 4 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "በደብረ ብርሃን ስላሴ ቤተክርስቲያን ጣሪያ ላይ የተሳሉት ታዋቂ ስዕሎች የነማን ናቸው?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (24.4.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (24.4.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (24.4.3)።"
+                        "የመላእክት ፊቶች (Angelic faces)",
+                        "የእንስሳት ስዕሎች",
+                        "የአውሮፕላን ምስሎች"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "የመላእክት ፊቶች are the famous winged angel ceiling frescoes."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ኪነ-ጥበብ፣ ሙዚቃ እና ስነ-ጽሁፍ (Arts, Music & Literature)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 4)፡",
+                    "prompt": "«ሰዓሊ» ምን ማለት ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (24.4.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (24.4.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (24.4.3)።"
+                        "Singer",
+                        "Painter / Visual artist",
+                        "Carpenter"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "ሰዓሊ = painter / visual artist."
                 }
             ]
         },
@@ -12406,85 +12442,95 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ስነ-ጽሁፍ እና ጥበብ (Literature and Arts)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 24-4)?",
+                    "prompt": "በአፍሪካ አዳራሽ ውስጥ ታላቁን የመስታወት ስራ የሰራው ታዋቂው ሰዓሊ ማን ይባላል?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (24.4.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (24.4.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (24.4.3)።"
+                        "ሜትር አርቲስት አፈወርቅ ተክሌ (Afewerk Tekle)",
+                        "አዝማሪው (The minstrel)",
+                        "ደራሲ ሀዲስ (Author Haddis)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "Maitre Artiste Afewerk Tekle crafted the iconic stained glass masterpiece at Africa Hall."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ሙዚቃ_24_4»):",
+                    "prompt": "Type the Amharic word for 'painter / visual artist' in Fidel script (ሰዓሊ):",
                     "acceptedAnswers": [
-                        "ሙዚቃ_24_4"
+                        "ሰዓሊ",
+                        "seali",
+                        "se'ali",
+                        "Seali"
                     ],
-                    "explanation": "The target keyword was: 【ሙዚቃ_24_4】"
+                    "explanation": "ሰዓሊ (Se'alī) means 'painter / visual artist'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u24-l5": {
         "id": "am-u24-l5",
-        "subject": "amharic",
-        "unit": 24,
-        "lessonNumber": 5,
-        "title": "ኪነ-ጥበብ፣ ሙዚቃ እና ስነ-ጽሁፍ (Arts, Music & Literature) (Part 5)",
+        "unit": "am-u24",
         "level": "B2",
-        "objective": "Comprehensive mastery of ስነ-ጽሁፍ እና ጥበብ (Literature and Arts).",
+        "objective": "Synthesize Wax and Gold rhetoric, Ge'ez hymnology, theatrical literature, and fine art iconography into a prestigious national arts symposium critique in Amharic.",
+        "prerequisites": [
+            "am-u24-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "am-u24-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "በዚህ የትምህርት ክፍል (ስነ-ጽሁፍ እና ጥበብ (Literature and Arts) - ደረጃ 5) ተማሪዎች ስለ ስነ-ጽሁፍ እና ጥበብ (Literature and Arts) አገባብ እና ሰዋሰዋዊ ህግጋት በዝርዝር ይማራሉ። በአማርኛ ቋንቋ የዓረፍተ ነገር አወቃቀር ባለቤት-ተሳቢ-ግስ (SOV) ስርዓትን በጥብቅ የሚከተል ሲሆን፣ የቃላት ቅጥያዎችና መስተዋድዶች ትክክለኛውን መልእክት ለማስተላለፍ ቁልፍ ሚና ይጫወታሉ። በዕለት ተዕለት ንግግርም ሆነ በጽሁፍ ውስጥ ተገቢውን የክብር አነጋገር እና ትክክለኛ የሰዋሰው ህግጋትን መከተል እጅግ አስፈላጊ ነው።\n\nየሰዋሰው አጠቃቀም እና የትርጉም ማብራሪያ (Grammar Analysis & English Glosses):\nትክክለኛውን የሰዋሰው መዋቅር በመጠቀም የተሟላ እና ጥርት ያለ መልእክት መግለጽ ይቻላል።",
+            "explanation": "This lesson consolidates literary theory, classical hymnology, vernacular novels, and fine art criticism into a high-level arts symposium.\n\n1. Key Symposium Strands:\n- **Poetic Rhetoric:** «የሰምና ወርቅ ጥበብ...» (The art of Wax and Gold...)\n- **Hymnology:** «የያሬዳዊ ዜማ ቅላጼ...» (The tonality of Yaredic chants...)\n- **Literary Narrative:** «ከጥንታዊው የቅኔ ፍልስፍና እስከ ዘመናዊው ልቦለድ...» (From ancient Qenē to modern novels...)\n- **Visual Art:** «የኢትዮጵያ ስነ-ስዕል እና ኪነ-ጥበብ...» (Ethiopian visual art and aesthetics...)",
             "examples": [
                 {
-                    "target": "መምህሩ በክፍል ውስጥ ላሉ ተማሪዎች የስነ-ጽሁፍ እና ጥበብ (Literature and Arts) ዋና ዋና ነጥቦችን በዝርዝር አብራሩ (24.5.1)።",
-                    "reading": "Memhiru bekiflu wust lalu temariwoch yetimihirtun wana wana netiboch bezirzir abraru.",
-                    "translation": "The teacher explained the main points of this topic in detail to the students in the class."
+                    "target": "በዚህ ብሄራዊ የኪነ-ጥበብ አውደ ጥናት ላይ ከጥንታዊው የቅኔ ፍልስፍና እስከ ዘመናዊው ልቦለድ እና ስነ-ስዕል የተደረገው እድገት ተገመገመ።",
+                    "reading": "Bezih bihērawī yekīne-t'ibeb awde t'inat lay ket'intawīw yeqinē filisifina iske zemenawīw lib-woled ina sine-si'il yetederegew idiget tegemegeme.",
+                    "translation": "In this national arts symposium, the development from ancient Qenē philosophy to modern novels and visual art was evaluated."
                 },
                 {
-                    "target": "እኛ በየቀኑ ጠዋት አዳዲስ እውቀቶችን እና የቋንቋ ክህሎቶችን ለመቅሰም በትጋት እንሰራለን (24.5.2)።",
-                    "reading": "Igna beyeqenu tewat addis iwiqetochin ina yeqwanqwa kihilotochin lemeqsem betigat iniseralen.",
-                    "translation": "We work diligently every morning to acquire new knowledge and language skills."
+                    "target": "የያሬዳዊ ዜማ ቅላጼ እና የደራሲያን ጥልቅ ስራዎች የኢትዮጵያን ስነ-ጽሁፋዊ ማንነት በዓለም አቀፍ መድረክ አስመስክረዋል።",
+                    "reading": "Yeyaredawī zēma qilats'ē ina yederasiyan t'iliq sirawoch ye'ītyop'yan sine-ts'ihufawī manninet be'alem aqef medrek asmeskirewal.",
+                    "translation": "The tonality of Yared's music and authors' profound works have proven Ethiopia's literary identity on the international stage."
                 },
                 {
-                    "target": "በከተማው ማእከል የሚገኙ ጥንታዊ ቅርሶች እና ታሪካዊ ቦታዎች በርካታ ጎብኚዎችን ይስባሉ (24.5.3)።",
-                    "reading": "Beketemaw ma'ikel yemigegnu tintawi qirsoch ina tarikawi botawch birkata gobnyowochin yisbalu.",
-                    "translation": "Ancient heritages and historic sites located in the city center attract numerous visitors."
+                    "target": "የሰምና ወርቅ ጥበብ ትውልድን በምስጢራዊ የአስተሳሰብ ምጥቀት የማነጽ ዘላለማዊ አቅም አለው።",
+                    "reading": "Yesemina werq t'ibeb tiwlidn bemist'īrawī ye'asitesaseb mit'qet yemanets zela'alemawī aqim alew.",
+                    "translation": "The art of Wax and Gold possesses eternal capability to cultivate generations in esoteric depth of intellect."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for ስነ-ጽሁፍ እና ጥበብ (Literature and Arts)"
+                "Grand Arts Synthesis: Poetry (ሰምና ወርቅ) + Music (ያሬድ) + Novels (ልቦለድ) + Art (ስነ-ስዕል) = Sublime Ethiopian Culture!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Amharic."
+                "Addis Ababa University's Institute of Ethiopian Studies (IES) hosts annual symposia curating millennia of indigenous literary manuscripts and contemporary artistic creations."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "ስለ «ስነ-ጽሁፍ እና ጥበብ (Literature and Arts)» አጠቃቀም በደረጃ 5 ትክክለኛውን የአማርኛ ሰዋሰዋዊ ስርዓት የጠበቀው ዓረፍተ ነገር የትኛው ነው?",
+                    "prompt": "«የአስተሳሰብ ምጥቀት» ምንን ያሳያል?",
                     "options": [
-                        "እህቴ በማለዳ ተነስታ ለቤተሰቡ የሚሆን ጣፋጭ ቁርስ እና ትኩስ ቡና አዘጋጀች (24.5.1)።",
-                        "ትናንት ከሰዓት በኋላ ወደ ማዘጋጃ ቤቱ ቤተ መጻሕፍት ሄደን አዳዲስ መጻሕፍትን አነበብን (24.5.2)።",
-                        "እነሱ ዛሬ ጠዋት በማለዳ ተነስተው በስታዲየሙ ውስጥ ስፖርታዊ እንቅስቃሴ ሲሰሩ ነበር (24.5.3)።"
+                        "Intellectual and philosophical depth / sophistication",
+                        "Physical fatigue",
+                        "Fast driving"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "የአስተሳሰብ ምጥቀት = intellectual and philosophical elevation."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "በ«ኪነ-ጥበብ፣ ሙዚቃ እና ስነ-ጽሁፍ (Arts, Music & Literature)» ርዕስ ስር የቃላት አገባብ ትስስርን የሚያሳየውን ምርጥ ዓረፍተ ነገር ይምረጡ (ክፍል 5)፡",
+                    "prompt": "በዚህ ክፍል ካጠናናቸው ውስጥ የጥንት እና የዘመኑን ስነ-ጽሁፍ የሚያስተሳስረው ምንድን ነው?",
                     "options": [
-                        "አባቴ ከስራ ሲመለስ ለልጆቹ አዳዲስ የትምህርት መጽሐፍትን እና ስዕሎችን ይዞ መጣ (24.5.1)።",
-                        "እሱ በሚቀጥለው ሳምንት ወደ ባህር ዳር ከተማ ለስራ ጉዞ ለመሄድ ዝግጅቱን አጠናቋል (24.5.2)።",
-                        "በገበያው ውስጥ አዳዲስ ትኩስ አትክልቶች እና ጣፋጭ ፍራፍሬዎች በብዛት ይገኛሉ (24.5.3)።"
+                        "የሰምና ወርቅ ፍልስፍና (The Wax & Gold philosophy)",
+                        "የስፖርት ህግጋት",
+                        "የአየር ትንበያ"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "ሰምና ወርቅ forms the bridge connecting ancient verse with modern literary prose."
                 }
             ]
         },
@@ -12492,24 +12538,30 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "የትኛው ዓረፍተ ነገር የ«ስነ-ጽሁፍ እና ጥበብ (Literature and Arts)» ሰዋሰዋዊ ህግን በውል ያሟላል (የፈተና ጥያቄ 24-5)?",
+                    "prompt": "የኢትዮጵያን ስነ-ጽሁፍ፣ ዜማ እና ስነ-ስዕል በጋራ የሚያጠቃልለው ጽንሰ-ሀሳብ የትኛው ነው?",
                     "options": [
-                        "መምህሩ ለተማሪዎቹ የፈተናውን ውጤት እና ጠቃሚ ማብራሪያዎችን በግልጽ አስረዱ (24.5.1)።",
-                        "ተማሪዎቹ የፈተናውን ውጤት ለማየት በትምህርት ቤቱ ቅጥር ጊቢ በሰላም ተሰብስበዋል (24.5.2)።",
-                        "አባይ ወንዝ በኢትዮጵያ ከፍተኛ ተራሮች መካከል ወደ ታች በዝግታ ይፈሳል (24.5.3)።"
+                        "እግር ኳስ (Football)",
+                        "ኪነ-ጥበብ እና ስነ-ጽሁፍ (Arts and Literature)",
+                        "የግብርና መሳሪያ (Farming tool)"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "«ኪነ-ጥበብ እና ስነ-ጽሁፍ» unifies visual arts, musical hymnology, and literary prose."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («ሙዚቃ_24_5»):",
+                    "prompt": "Type the Amharic word for 'literature' in Fidel script (ስነ-ጽሁፍ):",
                     "acceptedAnswers": [
-                        "ሙዚቃ_24_5"
+                        "ስነ-ጽሁፍ",
+                        "sine tsihuf",
+                        "sine-tsihuf",
+                        "sinetsihuf",
+                        "Sine tsihuf",
+                        "ስነ ጽሁፍ"
                     ],
-                    "explanation": "The target keyword was: 【ሙዚቃ_24_5】"
+                    "explanation": "ስነ-ጽሁፍ (Sine-ts'ihuf) means 'literature'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "am-u25-l1": {
