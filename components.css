@@ -888,8 +888,16 @@
   line-height: 1.55;
 }
 
+.fearn-lang-explanation {
+  padding: 16px 18px;
+  border-radius: var(--radius-md);
+  background: var(--glass-bg-soft);
+  border: 1px solid var(--glass-border);
+  display: block;
+  line-height: 1.65;
+}
+
 .fearn-lang-warmup,
-.fearn-lang-explanation,
 .fearn-lang-examples,
 .fearn-lang-mnemonics,
 .fearn-lang-cultural-notes,
@@ -989,7 +997,7 @@
 }
 
 .fearn-feedback-checklist ul,
-.fearn-lang-lesson-flow ul {
+.fearn-lang-lesson-flow ul:not(.fearn-explanation-list) {
   list-style: none;
   display: flex;
   flex-direction: column;
@@ -997,7 +1005,7 @@
 }
 
 .fearn-feedback-checklist li,
-.fearn-lang-lesson-flow li {
+.fearn-lang-lesson-flow li:not(.fearn-lang-explanation li) {
   padding-left: 18px;
   position: relative;
   color: var(--text-sub);
@@ -1005,11 +1013,43 @@
 }
 
 .fearn-feedback-checklist li::before,
-.fearn-lang-lesson-flow li::before {
+.fearn-lang-lesson-flow li:not(.fearn-lang-explanation li)::before {
   content: '\2713';
   position: absolute;
   left: 0;
   color: var(--success);
+}
+
+/* Plain, elegant list rendering inside lesson explanations */
+.fearn-lang-explanation ul,
+.fearn-lang-explanation ol {
+  display: block !important;
+  margin: 10px 0 10px 22px !important;
+  padding: 0 0 0 6px !important;
+  list-style-position: outside !important;
+}
+
+.fearn-lang-explanation ul {
+  list-style-type: disc !important;
+}
+
+.fearn-lang-explanation ol {
+  list-style-type: decimal !important;
+}
+
+.fearn-lang-explanation li {
+  display: list-item !important;
+  padding-left: 4px !important;
+  position: static !important;
+  margin-bottom: 5px !important;
+  color: var(--text-sub) !important;
+  font-size: 0.9rem !important;
+  line-height: 1.55 !important;
+}
+
+.fearn-lang-explanation li::before {
+  content: none !important;
+  display: none !important;
 }
 
 /* -------- buttons & inputs inside lesson/practice content -------- */
