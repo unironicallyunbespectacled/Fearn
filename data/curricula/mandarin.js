@@ -11210,63 +11210,69 @@
     },
     "zh-u23-l1": {
         "id": "zh-u23-l1",
-        "subject": "mandarin",
-        "unit": 23,
-        "lessonNumber": 1,
-        "title": "传统中医与经络养生 (TCM Diagnostics & Wellness) (Part 1)",
+        "unit": "zh-u23",
         "level": "B2",
-        "objective": "Comprehensive mastery of 传统中医与养生理念 (Traditional Chinese Medicine).",
+        "objective": "Master the Four Diagnostic Methods of TCM (望神色 Inspection, 闻声息 Auscultation/Olfaction, 问寒热 Inquiry, 切脉象 Palpation) and the holistic principle of 辨证论治 (pattern differentiation and treatment).",
+        "prerequisites": [
+            "zh-u22-l5"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u22-l5"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「传统中医与经络养生 (TCM Diagnostics & Wellness)」（第1部分）的核心句法结构与传统中医与养生理念 (Traditional Chinese Medicine)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "中医学（Traditional Chinese Medicine, TCM）以独特的**天人合一与整体观念**为核心，其诊断体系以著名的「四诊法（Four Diagnostic Methods）」著称！\n\n1. 中医四诊法则 (The Four Diagnostic Methods: 望闻问切):\n- **望 (wàng)**：**望神色与舌苔**（Inspection of complexion, vitality, and tongue coating）。\n- **闻 (wén)**：**闻声息与气味**（Listening to breathing voice and smelling）。\n- **问 (wèn)**：**问寒热、饮食与睡眠**（Inquiring into chills/fever, appetite, and sleep patterns）。\n- **切 (qiè)**：**切脉与触诊**（Pulse palpation on radial artery and abdominal palpation）。\n\n2. 核心辨证论治句法 (Pattern Differentiation Syntax):\n- **辨证论治 (biànzhèng lùnzhì)**：根据四诊收集的表象综合分析病机证型，因人制宜施治：\n  - 老中医通过**望闻问切**，诊断患者为**脾胃虚弱、气血不足**，决定采用**健脾益气**的方剂。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (23.1.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "资深老中医在大卫伸手搭脉后温和地解释：‘中医讲究望闻问切，四诊合参；刚才看你的舌苔微黄厚腻、切脉见滑脉，加之平时多梦易醒，此乃湿热内蕴之征象。’",
+                    "reading": "Zīshēn lǎo zhōngyī zài Dàwèi shēnshǒu dāmài hòu wēnhé de jiěshì: ‘Zhōngyī jiǎngjiu wàng-wén-wèn-qiè, sìzhěn-hécān; gāngcái kàn nǐ de shétāi wēi huáng hòu nì, qièmài jiàn huámài, jiāzhī píngshí duōmèng yì xǐng, cǐ nǎi shīrè nèiyùn zhī zhēngxiàng.’",
+                    "translation": "The veteran TCM physician explained: 'TCM emphasizes inspection, auscultation, inquiry, and palpation in mutual reference; your tongue coating is yellowish and greasy, the pulse is slippery, combined with vivid dreams, indicating internal damp-heat.'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (23.1.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "中医药大学教授在临床带教时强调：‘辨证论治是中医临床的灵魂，同一种感冒，风寒者当辛温解表，风热者则当辛凉透表，绝不能千人一方。’",
+                    "reading": "Zhōngyīyào dàxué jiàoshòu zài línchuáng dàijiào shí qiángdiào: ‘Biànzhèng-lùnzhì shì zhōngyī línchuáng de línghún, tóng yì zhǒng gǎnmào, fēnghán zhě dāng xīnwēn jiěbiǎo, fēngrè zhě zé dāng xīnliáng tòubiǎo, jué bù néng qiānrén-yìfāng.’",
+                    "translation": "The TCM professor stressed: 'Pattern differentiation is the soul of TCM; for the same cold, wind-cold requires acrid-warm release while wind-heat requires acrid-cool release; never prescribe one generic formula for thousands.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (23.1.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "大卫在体验脉诊后赞叹：‘仅凭三根手指按在手腕寸关尺部位，医生就能准确说出我近期的作息与疲劳状态，中医的神奇令人折服！’",
+                    "reading": "Dàwèi zài tǐyàn màizhěn hòu zàntàn: ‘Jǐn píng sān gēn shǒuzhǐ àn zài shǒuwàn cùn-guān-chǐ bèiwei, yīshēng jiù néng zhǔnquè shuōchū wǒ jìnqī de zuòxī yǔ píláo zhuàngtài, zhōngyī de shénqí lìng rén zhéfú!’",
+                    "translation": "David marvelled: 'Just by pressing three fingers on the cun, guan, and chi points of the wrist, the doctor pinpointed my routine and fatigue; the wonder of TCM is truly awe-inspiring!'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 传统中医与养生理念 (Traditional Chinese Medicine)"
+                "TCM Diagnostics: 望 (Look/Tongue), 闻 (Listen/Smell), 问 (Inquire), 切 (Pulse) ➔ 辨证论治 (Tailored Treatment)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "The traditional pulse palpation (切脉 qièmài) at the radial artery is divided into three positions: 寸 (cun), 关 (guan), and 尺 (chi), corresponding to the Heart/Lung, Liver/Spleen, and Kidney organ networks."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「传统中医与养生理念 (Traditional Chinese Medicine)」在第1小节中的标准汉语语法规范？",
+                    "prompt": "中医诊断疾病时所运用的‘望诊、闻诊、问诊、切脉’四种基本诊法的经典四字合称是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (23.1.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (23.1.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (23.1.3)。"
+                        "道听途说",
+                        "望闻问切 (Wàng-wén-wèn-qiè — The Four Diagnostic Methods)",
+                        "走马观花"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "望闻问切 is the foundational Four Diagnostic Methods in Traditional Chinese Medicine."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「传统中医与经络养生 (TCM Diagnostics & Wellness)」语用情境与完整句式的选项（练习 1）：",
+                    "prompt": "中医根据望闻问切收集的症状全面分析疾病本质与机理、并制定个性化治疗方案的核心原则是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (23.1.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (23.1.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (23.1.3)。"
+                        "辨证论治 (Biànzhèng lùnzhì — Pattern differentiation and targeted therapy)",
+                        "千篇一律",
+                        "头痛医头"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "辨证论治 (biànzhèng lùnzhì) is the core diagnostic and treatment methodology of TCM."
                 }
             ]
         },
@@ -11274,85 +11280,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「传统中医与养生理念 (Traditional Chinese Medicine)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 23-1）？",
+                    "prompt": "关于中医脉诊与望诊的科学文化内涵，下列哪一项完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (23.1.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (23.1.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (23.1.3)。"
+                        "中医看病只看血常规化验单",
+                        "望诊重点观察神色与舌苔，切脉通过寸关尺三部感知脏腑气血运行状态，四诊合参以求精准辨证 (Inspection observes complexion/tongue; pulse palpation feels organ qi/blood)",
+                        "中医认为人人生病原因完全一样"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 1,
+                    "explanation": "Accurately expresses the holistic synthesis of inspection, tongue examination, and pulse diagnosis."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («中医_23_1»):",
+                    "prompt": "Type the 4-character phrase for the Four Diagnostic Methods of TCM (望闻问切):",
                     "acceptedAnswers": [
-                        "中医_23_1"
+                        "望闻问切",
+                        "wangwenwenqie",
+                        "wàngwénwènqiè",
+                        "Wàngwénwènqiè",
+                        "Wangwenwenqie",
+                        "望聞問切"
                     ],
-                    "explanation": "The target keyword was: 【中医_23_1】"
+                    "explanation": "望闻问切 (wàng-wén-wèn-qiè) means 'Inspection, Auscultation, Inquiry, and Palpation'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u23-l2": {
         "id": "zh-u23-l2",
-        "subject": "mandarin",
-        "unit": 23,
-        "lessonNumber": 2,
-        "title": "传统中医与经络养生 (TCM Diagnostics & Wellness) (Part 2)",
+        "unit": "zh-u23",
         "level": "B2",
-        "objective": "Comprehensive mastery of 传统中医与养生理念 (Traditional Chinese Medicine).",
+        "objective": "Master the philosophical and physiological terms of TCM (阴阳平衡 Yin-Yang balance, 五行: 木火土金水 Five Elements, 相生相克 mutual generation/restriction, 气血 Qi & Blood, 阴平阳秘).",
+        "prerequisites": [
+            "zh-u23-l1"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u23-l1"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「传统中医与经络养生 (TCM Diagnostics & Wellness)」（第2部分）的核心句法结构与传统中医与养生理念 (Traditional Chinese Medicine)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "中医学以**阴阳五行学说**作为阐释人体生理机能与病理变化的哲学基石！\n\n1. 阴阳调和与五行生克 (Yin-Yang & Five Elements Framework):\n- **阴平阳秘，精神乃治**：阴气平和，阳气固密，生命机能才能健康无虞（Ideal Yin-Yang Equilibrium）。\n- **五行与五脏对应 (Five Elements & Visceral Organs)**：\n  - **木 (Wood) ➔ 肝 (Liver)**：主疏泄，主藏血。\n  - **火 (Fire) ➔ 心 (Heart)**：主神明，主血脉。\n  - **土 (Earth) ➔ 脾 (Spleen)**：主运化，为后天之本。\n  - **金 (Metal) ➔ 肺 (Lung)**：主气司呼吸，主宣发肃降。\n  - **水 (Water) ➔ 肾 (Kidney)**：藏精，为主水之脏，为先天之本。\n- **相生相克 (xiāngshēng xiāngkè)**：五行之间相互滋生与相互制约的动态平衡。\n\n2. 气血病机术语 (Pathological Concepts):\n- **气滞血瘀 (qìzhì-xuèyū)** / **阴虚火旺 (yīnxū-huǒwàng)** / **脾胃湿热**。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (23.2.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "老医师为患者深入剖析病机：‘怒伤肝，肝气郁结则克伐脾土，导致气机不畅、食欲不振；唯有通过疏肝理气，方能恢复肝脾两脏的阴阳相生与气血运化！’",
+                    "reading": "Lǎo yīshī wèi huànzhě shēnrù pōuxī bìngjī: ‘Nù shāng gān, gānqì yùjié zé kèfá pítǔ, dǎozhì qìjī bú chàng, shíyù búzhèn; wéiyǒu tōngguò shūgān-lǐqì, fāng néng huīfù gān-pí liǎng zàng de yīnyáng xiāngshēng yǔ qìxuè yùnhuà!’",
+                    "translation": "The physician analyzed: 'Anger harms the liver; liver qi stagnation over-restricts the spleen earth, impeding qi movement and appetite; only by soothing the liver can we restore the mutual generation of liver and spleen!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (23.2.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫在研读《黄帝内经》时做了精彩笔记：‘《素问》所言“阴平阳秘，精神乃治”，强调人体健康在于阴阳两股对立统一力量的动态平衡，既不能阴虚阳亢，也不能阳虚阴盛。’",
+                    "reading": "Dàwèi zài yándú «Huángdì Nèijīng» shí zuò le jīngcǎi bǐjì: ‘«Sùwèn» suǒ yán “yīnpíng-yángmì, jīngshén nǎi zhì”, qiángdiào réntǐ jiànkāng zàiyú yīnyáng liǎng gǔ duìlì-tǒngyī lìliang de dòngtài pínghéng, jì bù néng yīnxū-yángkàng, yě bù néng yángxū-yīnshèng.’",
+                    "translation": "David noted: 'The Yellow Emperor's Classic states \"When Yin is balanced and Yang is secure, vital spirit remains intact\", highlighting health as dynamic equilibrium of opposing forces.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (23.2.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "针灸师向学员讲解五脏调养：‘肾为先天之本，脾为后天之本；日常调摄当注重温补肾阳、健运脾胃，使气血生化有常。’",
+                    "reading": "Zhēnjiǔshī xiàng xuéyuán jiǎngjiě wǔzàng tiáoyǎng: ‘Shèn wéi xiāntiān zhī běn, pí wéi hòutiān zhī běn; rìcháng tiáoshè dāng zhùzhòng wēnbǔ shènyáng, jiànyùn píwèi, shǐ qìxuè shēnghuà yǒucháng.’",
+                    "translation": "The acupuncturist taught: 'Kidney is the innate foundation, Spleen is the acquired foundation; wellness emphasizes warming kidney yang and tonifying the spleen for steady qi and blood generation.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 传统中医与养生理念 (Traditional Chinese Medicine)"
+                "Five Elements & Organs: 木-肝 (Wood-Liver), 火-心 (Fire-Heart), 土-脾 (Earth-Spleen), 金-肺 (Metal-Lung), 水-肾 (Water-Kidney) ➔ 阴平阳秘 (Harmony)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "«黄帝内经» (Huangdi Neijing / The Yellow Emperor's Classic of Internal Medicine), compiled over 2,000 years ago during the Han Dynasty, is the canonical founding text of Chinese medical theory."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「传统中医与养生理念 (Traditional Chinese Medicine)」在第2小节中的标准汉语语法规范？",
+                    "prompt": "在中医五行归类体系中，‘木、火、土、金、水’所依次对应的五脏是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (23.2.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (23.2.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (23.2.3)。"
+                        "胃、大肠、小肠、胆、膀胱",
+                        "肝、心、脾、肺、肾 (Liver, Heart, Spleen, Lung, Kidney)",
+                        "头、手、足、胸、背"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "木-肝, 火-心, 土-脾, 金-肺, 水-肾 is the classical Five Elements organ correspondence."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「传统中医与经络养生 (TCM Diagnostics & Wellness)」语用情境与完整句式的选项（练习 2）：",
+                    "prompt": "《黄帝内经》中概括人体处于最健康、阴阳协调动态平衡境界的名句是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (23.2.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (23.2.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (23.2.3)。"
+                        "急功近利",
+                        "阴平阳秘，精神乃治 (When Yin is calm and Yang is concealed, vitality thrives)",
+                        "拔苗助长"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 1,
+                    "explanation": "阴平阳秘，精神乃治 is the classical definition of complete physiological health in TCM."
                 }
             ]
         },
@@ -11360,85 +11378,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「传统中医与养生理念 (Traditional Chinese Medicine)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 23-2）？",
+                    "prompt": "关于中医‘气血’与五脏理论，下列哪一项表述完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (23.2.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (23.2.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (23.2.3)。"
+                        "中医认为人体器官之间没有任何关联",
+                        "气为血之帅，血为气之母；肾为先天之本，脾为后天之本 (Qi commands blood, blood mothers qi; Kidney is innate root, Spleen is acquired root)",
+                        "五行之间只能相克不能相生"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "explanation": "Correctly outlines the Qi-Blood dynamic and the roles of Kidney and Spleen."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («中医_23_2»):",
+                    "prompt": "Type the 4-character phrase meaning 'Yin is tranquil and Yang is consolidated / perfect balance' (阴平阳秘):",
                     "acceptedAnswers": [
-                        "中医_23_2"
+                        "阴平阳秘",
+                        "yinpingyangmi",
+                        "yīnpíngyángmì",
+                        "Yīnpíngyángmì",
+                        "Yinpingyangmi",
+                        "陰平陽秘"
                     ],
-                    "explanation": "The target keyword was: 【中医_23_2】"
+                    "explanation": "阴平阳秘 (yīnpíng yángmì) means 'Yin is tranquil and Yang is secure / harmonious physiological balance'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u23-l3": {
         "id": "zh-u23-l3",
-        "subject": "mandarin",
-        "unit": 23,
-        "lessonNumber": 3,
-        "title": "传统中医与经络养生 (TCM Diagnostics & Wellness) (Part 3)",
+        "unit": "zh-u23",
         "level": "B2",
-        "objective": "Comprehensive mastery of 传统中医与养生理念 (Traditional Chinese Medicine).",
+        "objective": "Master the terminology of acupuncture and external TCM therapies (十二经脉 12 primary meridians, 穴位 acupoints: 足三里/合谷, 针灸 acupuncture, 拔罐 cupping, 刮痧 Gua Sha, 艾灸 moxibustion).",
+        "prerequisites": [
+            "zh-u23-l2"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u23-l2"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「传统中医与经络养生 (TCM Diagnostics & Wellness)」（第3部分）的核心句法结构与传统中医与养生理念 (Traditional Chinese Medicine)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "中医外治法以**经络学说（Meridian Theory）与穴位刺激**为核心，通过物理疗法激发人体自愈本能！\n\n1. 经络系统与核心要穴 (Meridians & Vital Acupoints):\n- **十二经脉 (shí'èr jīngmài)**：贯通脏腑与体表的能量经络网络（如：足阳明胃经、手太阴肺经）。\n- **合谷穴 (Hégǔ)**：手部虎口处要穴，擅治头面五官诸疾（面口合谷收）。\n- **足三里穴 (Zúsānlǐ)**：膝下三寸要穴，强壮脾胃、培补元气的长寿名穴。\n\n2. 四大经典中医外治法 (Four Classic External Therapies):\n- **针灸 (zhēnjiǔ)**：以毫针刺入腧穴，得气行针以通经活络。\n- **艾灸 (àijiǔ)**：点燃艾条温灼穴位，温阳散寒、扶正祛邪。\n- **拔罐 (báguàn)**：利用负压吸附体表，行气活血、拔除风寒湿邪。\n- **刮痧 (guāshā)**：以水牛角刮痧板顺经络刮拭，出痧清热、通络解毒。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (23.3.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "针灸科主治医师一边为大卫施针一边指导：‘当你感到穴位局部有酸、麻、胀、重的复合感觉时，这在中医上被称为“得气”，说明经络之气已被成功激发并开始疏通。’",
+                    "reading": "Zhēnjiǔkē zhǔzhì yīshī yìbiān wèi Dàwèi shīzhēn yìbiān zhǐdǎo: ‘Dāng nǐ gǎndào xuéwèi júbù yǒu suān, má, zhàng, zhòng de fùhé gǎnjué shí, zhè zài zhōngyī shang bèi chēng wéi “déqì”, shuōmíng jīngluò zhī qì yǐ bèi chénggōng jīfā bìng kāishǐ shūtōng.’",
+                    "translation": "The acupuncturist guided: 'When you feel a compound sensation of soreness, numbness, distension, and heaviness, it is called \"Deqi\" in TCM, signifying that meridian qi has been successfully stimulated and activated.'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (23.3.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "理疗师为伏案工作的软件工程师进行拔罐治疗：‘背部膀胱经刮痧与拔罐能够快速松解肩颈僵硬肌肉，促进局部血液循环，将体内郁结的寒湿之气透发排出。’",
+                    "reading": "Lǐliáoshī wèi fú'àn gōngzuò de ruǎnjiàn gōngchéngshī jìnxíng báguàn zhìliáo: ‘Bèibù pángguāngjīng guāshā yǔ báguàn nénggòu kuàisù sōngjiě jiānjǐng jiāngyìng jīròu, cùjìn júbù xuèyè xúnhuán, jiāng tǐnèi yùjié de hánshī zhī qì tòufā páichū.’",
+                    "translation": "The therapist performed cupping: 'Scraping and cupping on the Bladder meridian of the back swiftly relieves stiff neck and shoulder muscles, promoting local blood flow and expelling trapped cold-dampness.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (23.3.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "大卫在学习艾灸养生时体会到：‘秋冬季节艾灸足三里和关元穴，能够温经通络、增强免疫力，是中华传统医学预防未病的智慧结晶。’",
+                    "reading": "Dàwèi zài xuéxí àijiǔ yǎngshēng shí tǐhuì dào: ‘Qiū-dōng jìjié àijiǔ Zúsānlǐ hé Guānyuán xué, nénggòu wēnjīng-tōngluò, zēngqiáng miǎnyìlì, shì Zhōnghuá chuántǒng yīxué yùfáng-wèibìng de zhìhuì jiéjīng.’",
+                    "translation": "David realized: 'Moxibustion on Zusanli and Guanyuan in autumn and winter warms meridians and strengthens immunity, representing the wisdom of preventative medicine in TCM.'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 传统中医与养生理念 (Traditional Chinese Medicine)"
+                "TCM External Therapies: 针刺得气 (Needle Deqi), 艾条温灸 (Moxa warmth), 拔罐吸湿 (Cupping detox), 刮痧通络 (Gua Sha)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "Acupuncture and Moxibustion of Traditional Chinese Medicine was officially inscribed on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity in 2010."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「传统中医与养生理念 (Traditional Chinese Medicine)」在第3小节中的标准汉语语法规范？",
+                    "prompt": "针灸施针过程中，患者穴位局部产生的‘酸、麻、胀、重’等感应现象在专业术语中被称为：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (23.3.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (23.3.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (23.3.3)。"
+                        "走火入魔",
+                        "得气 (Déqì — Arrival of Qi / Needle sensation)",
+                        "神经抽搐"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 1,
+                    "explanation": "得气 (déqì) is the canonical term for the therapeutic arrival and activation of meridian Qi."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「传统中医与经络养生 (TCM Diagnostics & Wellness)」语用情境与完整句式的选项（练习 3）：",
+                    "prompt": "中医古籍针灸歌诀‘面口合谷收，肚腹三里留’中，位于膝眼下三寸、调理脾胃虚弱的要穴是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (23.3.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (23.3.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (23.3.3)。"
+                        "太阳穴",
+                        "涌泉穴",
+                        "足三里 (Zúsānlǐ — Acupoint ST36)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 2,
+                    "explanation": "足三里 (Zúsānlǐ, ST36) is the premier acupoint for regulating digestive and immune vigor."
                 }
             ]
         },
@@ -11446,85 +11476,97 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「传统中医与养生理念 (Traditional Chinese Medicine)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 23-3）？",
+                    "prompt": "关于中医拔罐、刮痧与艾灸外治疗法的作用原理，下列哪一项表述完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (23.3.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (23.3.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (23.3.3)。"
+                        "通过刺激体表经络腧穴与改善局部血液微循环，起到温经散寒、行气活血与激发机体自愈力的作用 (Stimulates meridians/acupoints to warm channels, move blood, and boost self-healing)",
+                        "它们没有任何医学依据",
+                        "只能用于骨折急救"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "Accurately articulates the physiological and therapeutic mechanisms of external TCM therapies."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («中医_23_3»):",
+                    "prompt": "Type the 2-character Hanzi term for 'arrival of Qi / needle sensation in acupuncture' (得气):",
                     "acceptedAnswers": [
-                        "中医_23_3"
+                        "得气",
+                        "deqi",
+                        "déqì",
+                        "Déqì",
+                        "Deqi",
+                        "得氣"
                     ],
-                    "explanation": "The target keyword was: 【中医_23_3】"
+                    "explanation": "得气 (déqì) means 'arrival of Qi / sensation of acupuncture efficacy'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u23-l4": {
         "id": "zh-u23-l4",
-        "subject": "mandarin",
-        "unit": 23,
-        "lessonNumber": 4,
-        "title": "传统中医与经络养生 (TCM Diagnostics & Wellness) (Part 4)",
+        "unit": "zh-u23",
         "level": "B2",
-        "objective": "Comprehensive mastery of 传统中医与养生理念 (Traditional Chinese Medicine).",
+        "objective": "Master the structural principles of Chinese herbal formulas (君臣佐使 monarch/minister/assistant/guide roles, 药食同源 food as medicine, 冬病夏治 summer treatment for winter diseases, 顺应四时 seasonal adaptation).",
+        "prerequisites": [
+            "zh-u23-l3"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u23-l3"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「传统中医与经络养生 (TCM Diagnostics & Wellness)」（第4部分）的核心句法结构与传统中医与养生理念 (Traditional Chinese Medicine)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "中药方剂学体现了极致的**配伍组方严密逻辑**，与二十四节气「顺应自然、治未病」的养生哲学一脉相承！\n\n1. 中药方剂组方结构——君臣佐使 (Herbal Formula Hierarchy: Jūn-Chén-Zuǒ-Shǐ):\n- **君药 (Jūn)**：针对主病或主证起主要治疗作用的核心药物。\n- **臣药 (Chén)**：辅助君药加强疗效，或针对兼证治疗的药物。\n- **佐药 (Zuǒ)**：协助治疗、制约君臣药毒烈之性或反佐调和的药物。\n- **使药 (Shǐ)**：引经药（引导药物直达病所）或调和诸药性质的药物（如甘草）。\n\n2. 治未病与四时养生哲学 (Preventative & Seasonal Wellness):\n- **药食同源 (yàoshí-tóngyuán)**：很多食物同时具有药物调养功效（如枸杞、山药、生姜、百合）。\n- **冬病夏治 (dōngbìng-xiàzhì)**：在夏季三伏天阳气最盛时调治冬季易发的哮喘、关节炎（如三伏贴）。\n- **顺应四时**：春生、夏长、秋收、冬藏。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (23.4.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "中药房老药师为大卫抓药时耐心讲解：‘这一副经典的补中益气汤严格遵循“君臣佐使”的组方原则：黄芪为君大补脾肺之气，人参、白术为臣辅助健脾，当归、陈皮为佐理气和血，甘草、柴胡为使引药升清，全方配合天衣无缝！’",
+                    "reading": "Zhōngyàofáng lǎo yàoshī wèi Dàwèi zhuāyào shí nàixīn jiǎngjiě: ‘Zhè yí fù jīngdiǎn de Bǔzhōng Yìqì Tāng yángé zūnxún “jūn-chén-zuǒ-shǐ” de zǔfāng yuánzé: Huángqí wéi jūn dàbǔ pífèi zhī qì, Rénshēn, Báizhú wéi chén fǔzhù jiànpí, Dāngguī, Chénpí wéi zuǒ lǐqì-héxuè, Gāncǎo, Cháihú wéi shǐ yǐnyào shēngqīng, quánfāng pèihé tiānyī-wúfèng!’",
+                    "translation": "The herbalist explained: 'This classic formula strictly follows monarch, minister, assistant, and guide: Astragalus is monarch to tonify spleen/lung qi; Ginseng and Atractylodes are ministers; Angelica and Citrus Peel are assistants; Licorice and Bupleurum are guides, harmonizing seamlessly!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (23.4.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "中医养生专家在节气讲座中分享：‘药食同源是中华民族千百年来的生活智慧，秋分时节天干物燥，煲汤时加入雪梨、百合与银耳，能够滋阴润燥、生津养肺。’",
+                    "reading": "Zhōngyī yǎngshēng zhuānjiā zài jiéqì jiǎngzuò zhōng fēnxiǎng: ‘Yàoshí-tóngyuán shì Zhōnghuá mínzú qiānbǎinián lái de shēnghuó zhìhuì, Qiūfēn shíjié tiāngān-wùzào, bāotāng shí jiārù xuělí, bǎihé yǔ yín'ěr, nénggòu zīyīn-rùnzào, shēngjīn-yǎngfèi.’",
+                    "translation": "The wellness expert shared: 'Medicine and food sharing common origins is Chinese wisdom; during the Autumn Equinox, adding snow pear, lily bulb, and white fungus to soup nourishes Yin and moistens the lungs.'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (23.4.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "大卫在中医院体验“三伏贴”敷贴疗法：‘“冬病夏治”充分利用夏季自然界阳气最旺盛的时机温补阳气、驱除体内深伏的寒邪，这是中医“天人合一、治未病”理念的绝佳体现！’",
+                    "reading": "Dàwèi zài zhōngyīyuàn tǐyàn “sānfútiē” fūtiē liáofǎ: ‘“Dōngbìng-xiàzhì” chōngfèn lìyòng xiàjì zìránjiè yángqì zuì wàngshèng de shíjī wēnbǔ yángqì, qūchú tǐnèi shēnfú de hánxié, zhè shì zhōngyī “tiānrén-héyī, zhìwèibìng” lǐniàn de juéjiā tǐxiàn!’",
+                    "translation": "David experienced Sanfu Herbal Patches: '\"Treating winter diseases in summer\" harnesses peak summer Yang qi to warm the body and expel deep-seated cold, exemplifying the unity of humanity with nature and preventative care!'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 传统中医与养生理念 (Traditional Chinese Medicine)"
+                "Formulas & Seasons: 君臣佐使 (Formula Hierarchy), 药食同源 (Food as Medicine), 冬病夏治 (Summer Cure for Winter Ills), 治未病 (Preventative Care)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "The concept of «治未病» (zhì wèibìng, 'treating disease before it arises') from the Huangdi Neijing represents the world's earliest systematic theory of preventive healthcare and longevity."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「传统中医与养生理念 (Traditional Chinese Medicine)」在第4小节中的标准汉语语法规范？",
+                    "prompt": "中医中药方剂学中，概括中药配伍严密逻辑与各药分工协作地位的核心术语是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (23.4.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (23.4.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (23.4.3)。"
+                        "各自为政",
+                        "君臣佐使 (Jūn-chén-zuǒ-shǐ — Monarch, minister, assistant, guide hierarchy)",
+                        "乱点鸳鸯谱"
                     ],
                     "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "君臣佐使 is the classical architectural principle of Chinese herbal prescription formulas."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「传统中医与经络养生 (TCM Diagnostics & Wellness)」语用情境与完整句式的选项（练习 4）：",
+                    "prompt": "在夏季三伏天利用自然界阳气旺盛时机、针对冬季好发的慢性虚寒病症进行穴位敷贴调理的中医特色疗法原则是：",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (23.4.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (23.4.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (23.4.3)。"
+                        "冬病夏治 (Dōngbìng xiàzhì — Treating winter ailments in summer)",
+                        "以毒攻毒",
+                        "小病大治"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "冬病夏治 (dōngbìng xiàzhì) is the time-tested TCM principle of treating cold-induced diseases during the heat of summer."
                 }
             ]
         },
@@ -11532,85 +11574,96 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「传统中医与养生理念 (Traditional Chinese Medicine)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 23-4）？",
+                    "prompt": "关于中医‘药食同源’与‘治未病’的养生哲学，下列哪一项表述完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (23.4.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (23.4.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (23.4.3)。"
+                        "药材和食物完全对立，不能一起食用",
+                        "中医只在人生重病临终时才起作用",
+                        "‘药食同源’主张通过日常天然膳食调理身体，‘治未病’强调顺应四时节气、在疾病发生之前培固人体正气 (Food & herbs share origins; preventative care nourishes upright Qi before illness)"
                     ],
-                    "answerIndex": 0,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "Accurately represents the holistic lifestyle philosophy of food therapy and preventive health."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («中医_23_4»):",
+                    "prompt": "Type the 4-character phrase for the classical TCM prescription hierarchy (君臣佐使):",
                     "acceptedAnswers": [
-                        "中医_23_4"
+                        "君臣佐使",
+                        "junchenzuoshi",
+                        "jūnchénzuǒshǐ",
+                        "Jūnchénzuǒshǐ",
+                        "Junchenzuoshi"
                     ],
-                    "explanation": "The target keyword was: 【中医_23_4】"
+                    "explanation": "君臣佐使 (jūn-chén-zuǒ-shǐ) means 'Monarch, Minister, Assistant, and Guide in herbal prescription'."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u23-l5": {
         "id": "zh-u23-l5",
-        "subject": "mandarin",
-        "unit": 23,
-        "lessonNumber": 5,
-        "title": "传统中医与经络养生 (TCM Diagnostics & Wellness) (Part 5)",
+        "unit": "zh-u23",
         "level": "B2",
-        "objective": "Comprehensive mastery of 传统中医与养生理念 (Traditional Chinese Medicine).",
+        "objective": "Synthesize all TCM discourse (Four Diagnostics, Yin-Yang & Five Elements, Acupuncture & Meridians, Herbal Formulations, Nobel Laureate Tu Youyou & Artemisinin) into international medical forums and cross-cultural Sinology symposiums.",
+        "prerequisites": [
+            "zh-u23-l4"
+        ],
+        "warmup": {
+            "srsPull": true,
+            "reviewFocus": [
+                "zh-u23-l4"
+            ]
+        },
         "presentation": {
-            "explanation": "在本课中，我们系统探讨「传统中医与经络养生 (TCM Diagnostics & Wellness)」（第5部分）的核心句法结构与传统中医与养生理念 (Traditional Chinese Medicine)。汉语语法强调语序规律与虚词的精准配合，掌握特定句式和关联复句的逻辑衔接，能够使口语交际与学术书面表达更加规范流畅、严谨得体。\n\n句法结构与英文释义 (Grammar Analysis & English Glosses):\n通过反复操练典型例句，学习者能够深入领会汉语独特的表达逻辑。",
+            "explanation": "在本课中，我们将系统整合第二十三单元的所有传统中医理论、辨证思维与现代转化体系，在国际医学学术峰会与文明互鉴的最高讲坛上进行深度论述与实战表达！\n\n1. 中医文化与现代医学交汇全景矩阵 (Master TCM Medicine Matrix):\n| 理论与应用维度 | 核心概念与现代价值 | 国际交融与时代贡献 |\n| :--- | :--- | :--- |\n| **诊断思维** | 望闻问切 / 辨证论治 | 个体化精准医学与整体功能状态评估 |\n| **理论基石** | 阴阳五行 / 脏腑经络 | 复杂系统自稳态调节与微生态平衡 |\n| **外治技术** | 针灸 / 艾灸 / 拔罐 / 刮痧 | 非药物绿色疗法，列入世界非遗名录 |\n| **本草方剂** | 君臣佐使 / 青蒿素研发 | 屠呦呦诺贝尔奖成果造福全球数亿人 |\n| **养生哲学** | 药食同源 / 治未病 / 天人合一 | 预防医学先驱理念，构建人类卫生健康共同体 |\n\n2. 第二十三单元实战交际演练 (Unit 23 World TCM Summit):\n- 跨国传统医学与现代生命科学融合高峰论坛主旨发言与答问。",
             "examples": [
                 {
-                    "target": "老师在多媒体教室里认真地给同学们讲解现代汉语的句法结构与修辞技巧 (23.5.1)。",
-                    "reading": "Lǎoshī zài duōméitǐ jiàoshì lǐ rènzhēn de gěi tóngxuémen jiǎngjiě xiàndài hànyǔ de jùfǎ jiégòu yǔ xiūcí jìqiǎo.",
-                    "translation": "The teacher attentively explains modern Chinese syntactic structures and rhetorical skills to students in the media classroom."
+                    "target": "中国工程院院士在世界传统医学大会上作主旨报告：‘屠呦呦先生从中医古籍《肘后备急方》中汲取灵感成功提取青蒿素，拯救了全球数百万疟疾患者的生命并荣获诺贝尔生理学或医学奖，生动印证了中医药学是中华文明的伟大瑰宝，也是全人类共同的健康财富！’",
+                    "reading": "Zhōngguó gōngchéngyuàn yuànshì zài shìjiè chuántǒng yīxué dàhuì shang zuò zhǔzhǐ bàogào: ‘Tú Yōuyōu xiānsheng cóng zhōngyī gǔjí «Zhǒuhòu Bèijí Fāng» zhōng xīqǔ línggǎn chénggōng tíqǔ qīnghāosù, zhěngjiù le quánqiú shù bǎi wàn nüèjí huànzhě de shēngmìng bìng rónghuò Nuòbèi'ěr shēnglǐxué huò yīxuéjiǎng, shēngdòng yìngzhèng le zhōngyīyàoxué shì Zhōnghuá wénmíng de wěidà guībǎo, yě shì quán rénlèi gòngtóng de jiànkāng cáifù!’",
+                    "translation": "The academician presented: 'Tu Youyou drew inspiration from ancient text Zhouhou Beiji Fang to extract artemisinin, saving millions from malaria and winning the Nobel Prize, proving TCM is a treasure of civilization and common wealth of mankind!'"
                 },
                 {
-                    "target": "我们每天早晨去图书馆借阅最新的权威学术期刊和重要专业参考资料 (23.5.2)。",
-                    "reading": "Wǒmen měitiān zǎochén qù túshūguǎn jièyuè zuìxīn de quánwēi xuéshù qīkān hé zhòngyào zhuānyè cānkǎo zīliào.",
-                    "translation": "We go to the library every morning to borrow recent authoritative academic journals and essential reference materials."
+                    "target": "大卫在国际汉学与医学论坛上发表论文：‘中医的“治未病”思想与现代预防医学、全生命周期健康管理理念高度契合，其辨证论治的整体观念为应对复杂慢性病提供了独特的中国智慧与东方方案！’",
+                    "reading": "Dàwèi zài guójì hànxué yǔ yīxué lùntán shang fābiǎo lùnwén: ‘Zhōngyī de “zhìwèibìng” sīxiǎng yǔ xiàndài yùfáng yīxué, quán shēngmìng-zhōuqī jiànkāng guǎnlǐ lǐniàn gāodù qìhé, qí biànzhèng-lùnzhì de zhěngtǐ guānniàn wèi yìngduì fùzá mànxìngbìng tígōng le dútè de Zhōngguó zhìhuì yǔ Dōngfāng fāng'àn!’",
+                    "translation": "David presented: 'TCM's \"treating disease before it arises\" aligns with modern preventive medicine, offering Chinese wisdom for chronic diseases!'"
                 },
                 {
-                    "target": "这座城市的公共交通网络十分发达，市民日常出行与城际通勤非常便利快捷 (23.5.3)。",
-                    "reading": "Zhè zuò chéngshì de gōnggòng jiāotōng wǎngluò shífēn fādá, shìmín rìcháng chūxíng yǔ chéngjì tōngqín fēicháng biànlì kuàijié.",
-                    "translation": "The public transit network of this city is highly developed, making daily commutes and intercity travel very convenient."
+                    "target": "新闻发布会总结：‘推动中医药现代化、国际化，深化中西医结合与文明互鉴，必将为构建人类卫生健康共同体注入源源不断的生机与活力！’",
+                    "reading": "Xīnwén fābùhuì zǒngjié: ‘Tuīdòng zhōngyīyào xiàndàihuà, guójìhuà, shēnhuà zhōng-xīyī jiéhé yǔ wénmíng hùjiàn, bìjiāng wèi gòujiàn rénlèi wèishēng jiànkāng gòngtóngtǐ zhùrù yuányuán-bùduàn de shēngjī yǔ huólì!’",
+                    "translation": "The conference concluded: 'Promoting TCM modernization, global integration, and East-West medical dialogue injects vitality into building a global community of health for all!'"
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 传统中医与养生理念 (Traditional Chinese Medicine)"
+                "TCM Summit: Ancient Roots (古籍智慧) + Nobel Artemisinin (青蒿素) + Preventative Health (治未病) = Global Health Community (人类健康共同体)!"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Mandarin."
+                "In 2015, Chinese scientist Tu Youyou (屠呦呦) won the Nobel Prize in Physiology or Medicine for discovering Artemisinin (青蒿素), inspired by Ge Hong's 4th-century TCM handbook «肘后备急方»."
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "下列哪一个句子完全符合「传统中医与养生理念 (Traditional Chinese Medicine)」在第5小节中的标准汉语语法规范？",
+                    "prompt": "中国首位诺贝尔生理学或医学奖得主屠呦呦，其研发抗疟神药的灵感源泉与核心中药材是：",
                     "options": [
-                        "李明今天下午去中心邮局给远在海外的知心朋友寄了一封用毛笔书写的信件 (23.5.1)。",
-                        "昨天下午图书馆阅览室里有很多高校学生在安静地阅读各类专业学术著作 (23.5.2)。",
-                        "这家老字号餐厅的手工水饺味道鲜美，多年来一直深受广大市民和游客的热烈欢迎 (23.5.3)。"
+                        "从古代中医古籍中汲取灵感提取的青蒿素 (Artemisinin extracted from sweet wormwood)",
+                        "人工合成塑料",
+                        "普通白糖水"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "Tu Youyou extracted artemisinin (青蒿素) from Artemisia annua based on ancient TCM texts, winning the 2015 Nobel Prize."
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "请选出能够准确表达「传统中医与经络养生 (TCM Diagnostics & Wellness)」语用情境与完整句式的选项（练习 5）：",
+                    "prompt": "中医‘治未病’理念在现代国际医学界被公认为哪一学科领域的先驱思想？",
                     "options": [
-                        "王教授在国际环境科学学术会议上发表了关于可再生绿色能源发展的深度专题演讲 (23.5.1)。",
-                        "明天早晨八点整，所有参加考察活动的师生都将在大学东校门准时集合出发 (23.5.2)。",
-                        "公园里的百年古树与繁花在春雨的滋润下展现出一派生机盎然的秀丽自然景象 (23.5.3)。"
+                        "预防医学与全生命周期健康管理 (Preventive medicine & holistic healthcare)",
+                        "纯化学药物合成",
+                        "放射科拍片"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "治未病 is celebrated globally as the ancient pioneer of modern preventive and lifestyle medicine."
                 }
             ]
         },
@@ -11618,24 +11671,30 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "关于「传统中医与养生理念 (Traditional Chinese Medicine)」的语法规则与语用搭配，下列哪一项表述完全正确（检定 23-5）？",
+                    "prompt": "关于传统中医药在当代的国际价值与文明贡献，下列哪一项总括完全正确？",
                     "options": [
-                        "大会主席向全体与会代表正式宣布了本次多边国际峰会协商达成的共同行动宣言 (23.5.1)。",
-                        "高速铁路列车的准点率极高，为沿线城市居民的商务出行提供了极大的便利条件 (23.5.2)。",
-                        "在国际前沿科学研讨会上，各国学者围绕新一代人工智能与量子计算展开了深入探讨 (23.5.3)。"
+                        "中医药已经完全过时，不具备任何科学价值",
+                        "中医药只能在中国个别山区使用",
+                        "中医药以其辨证论治、治未病与药食同源的博大智慧，结合青蒿素等现代科技突破，为全人类健康福祉作出了不可磨灭的卓越贡献 (TCM's holistic wisdom combined with breakthroughs like artemisinin makes indelible contributions to global health)"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR B2 target-language standard."
+                    "answerIndex": 2,
+                    "explanation": "Comprehensive and accurate appraisal of TCM's historic and contemporary global contributions."
                 },
                 {
                     "type": "typed-recall",
-                    "prompt": "Type the target-language keyword practiced in this lesson («中医_23_5»):",
+                    "prompt": "Type the 3-character Hanzi name of the Nobel Prize-winning antimalarial compound discovered from TCM (青蒿素):",
                     "acceptedAnswers": [
-                        "中医_23_5"
+                        "青蒿素",
+                        "qinghaosu",
+                        "qīnghāosù",
+                        "Qīnghāosù",
+                        "Qinghaosu",
+                        "靑蒿素"
                     ],
-                    "explanation": "The target keyword was: 【中医_23_5】"
+                    "explanation": "青蒿素 (qīnghāosù) is Artemisinin."
                 }
-            ]
+            ],
+            "passThreshold": 0.8
         }
     },
     "zh-u24-l1": {
