@@ -4175,53 +4175,62 @@
     "subject": "hindi",
     "unit": 10,
     "lessonNumber": 1,
-    "title": "मजबूरी और बाध्यता: पड़ना/होना (Compulsion with पड़ना) (Part 1)",
+    "title": "सामान्य बाध्यता / आंतरिक दायित्व: Infinitive + होना (मुझे जाना है / काम करना है)",
     "level": "A2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 10.1) with authentic linguistic precision.",
+    "objective": "व्यक्तिगत योजना, पूर्व-निर्धारित कार्यक्रम अथवा स्वाभाविक आंतरिक दायित्व (Have to / Am to) को व्यक्त करने वाले 'कर्ता + को + क्रिया-ना + होना' संरचना के अन्वय नियमों में प्रवीणता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "जब किसी कार्य को करने की व्यक्तिगत योजना (Plan), कार्यक्रम (Schedule) या स्वाभाविक दायित्व (Obligation) हो, तब 'कर्ता + को + क्रियार्थक संज्ञा + होना' का प्रयोग किया जाता है:\n\n1. निर्माण का सूत्र:\n   - **[कर्ता + को] + [कर्म] + [क्रिया-ना / -नी / -ने] + [है / हैं / था / थे / थी / थीं]**\n\n2. कर्म और क्रिया का अन्वय (Object-Verb Agreement):\n   - **पुल्लिंग एकवचन कर्म**: *मुझे एक पत्र लिखना है* (पत्र = पु. → लिखना है);\n   - **स्त्रीलिंग एकवचन कर्म**: *मुझे चाय बनानी है* (चाय = स्त्री. → बनानी है);\n   - **पुल्लिंग बहुवचन कर्म**: *हमें कई काम करने हैं* (काम = पु.बहु. → करने हैं);\n   - **स्त्रीलिंग बहुवचन कर्म**: *उसे रोटियाँ सेकनी हैं* (रोटियाँ = स्त्री.बहु. → सेकनी हैं);\n   - **अकर्मक क्रिया (कर्म रहित)**: *मुझे कल दिल्ली जाना है* (तटस्थ रूप)।\n\n3. अर्थ-भेद ('चाहिए' बनाम 'होना'):\n   - मुझे पढ़ना चाहिए = I should study (नैतिक सलाह/कर्तव्य);\n   - मुझे पढ़ना है = I have to study / I plan to study (निश्चित कार्यसूची)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 10.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 10."
+          "target": "मुझे कल सुबह की पहली ट्रेन पकड़ने के लिए स्टेशन जल्दी पहुँचना है।",
+          "reading": "mujhe kal subah ki pehli train pakadne ke liye station jaldi pahunchna hai. [mʊdʒʱeː kəl sʊbəh kiː pɛɦliː ʈreːn pəkəɽneː keː lɪjeː sʈeːʃən dʒəldiː pəɦʊntʃnaː hɛː] (MOO-jhay kuhl SOO-buh kee PUH-h-lee trayn puh-KUHD-nay kay lee-ay STAY-shuhn JUHL-dee puh-HOONCH-nah hy)",
+          "translation": "I have to reach the station early tomorrow morning to catch the first train."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 10-1)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "क्या आपको आज शाम तक कार्यालय की यह महत्वपूर्ण और गोपनीय परियोजना पूरी करनी है?",
+          "reading": "kya aapko aaj shaam tak kaaryaalay ki yah mahatvapoorna aur gopaneey pariyojana poori karni hai? [kjaː aːpkoː aːdʒ ʃaːm t̪ək kaːrjaːləj kiː jəɦ məɦət̪ʋəpuːrɳə ɔːr ɡoːpniːj pərɪjoːdʒnaː puːriː kərniː hɛː] (kyah ahp-KOH ahj shahm tuhk kahr-YAH-luy kee yuh muh-huht-vuh-POOR-nuh owr gohp-NEE-yuh puh-ree-YOHJ-nah POO-ree KUHR-nee hy)",
+          "translation": "Do you have to complete this important and confidential office project by this evening?"
+        },
+        {
+          "target": "हम सभी विद्यार्थियों को कल अंतिम तिथि से पहले अपने आवेदन पत्र जमा करने हैं।",
+          "reading": "hum sabhi vidyaarthiyon ko kal antim tithi se pehle apne aavedan patr jama karne hain. [həm səbʱiː ʋɪd̪jaːrt̪ʰɪjõː koː kəl ənt̪ɪm t̪ɪt̪ʰɪ seː pɛɦleː əpneː aːʋeːd̪ən pət̪r dʒəmaː kərneː hɛ̃ː] (hum SUH-bhee veed-YAHR-thee-yohn koh kuhl UHN-teem TEE-thee say PUH-h-lay uhp-NAY ah-VAY-duhn puhtr JUH-mah KUHR-nay hy-n)",
+          "translation": "All of us students have to submit our application forms tomorrow before the deadline."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Plan/Schedule = कर्ता + 'को' + क्रिया-ना + है! चाय बनानी है (स्त्री.), पत्र लिखना है (पु.), काम करने हैं (बहु.)!"
+      ],
+      "culturalNotes": [
+        "दैनिक बातचीत में 'मुझे निकलना है' (I have to leave) कहना विदा लेने का अत्यंत सामान्य और स्वाभाविक तरीका है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"मेज़\":",
+          "prompt": "स्त्रीलिंग कर्म 'बात' के साथ 'कहना है' का शुद्ध व्याकरणिक रूप क्या होगा?",
           "options": [
-            "हम इस पाठ में इकाई 10.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («कुर्सी» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («बिस्तर» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («दीवार» का अनुचित स्थान)"
+            "मुझे आपसे एक बात कहनी है (Mujhe aapse ek baat kahni hai - I have to tell you something [fem. agreement])",
+            "मुझे बात कहना है",
+            "मैं बात कहनी है",
+            "मुझे बात कहने हैं"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "स्त्रीलिंग कर्म 'बात' के अनुसार क्रियार्थक संज्ञा «कहनी है» बनेगी।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"मेज़\":",
+          "prompt": "वाक्य «हमें आज शाम कई कपड़े ___ हैं» में उचित क्रियार्थक संज्ञा भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 10.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («बिस्तर» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («दीवार» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («कुर्सी» का अशुद्ध रूप)"
+            "धोने (Dhone hain - Have to wash [masc. plural agreement with kapde])",
+            "धोना",
+            "धोनी",
+            "धोता"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "पुल्लिंग बहुवचन कर्म 'कपड़े' के साथ क्रियार्थक संज्ञा का रूप «धोने हैं» होगा।"
         }
       ]
     },
@@ -4229,17 +4238,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"मेज़\": Which sentence is completely correct?",
+          "prompt": "योजना/कार्यक्रम (Have to do) की दृष्टि से पूर्णतः शुद्ध वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 10.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («दीवार» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («कुर्सी» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («बिस्तर» से संबंधित)"
+            "आज दोपहर मुझे बैंक जाकर ज़रूरी दस्तावेज़ जमा करने हैं। (Today afternoon I have to go to the bank and submit important documents.)",
+            "आज दोपहर मैं बैंक जाना है।",
+            "मुझे दस्तावेज़ जमा करना हैं।",
+            "मुझको दस्तावेज़ जमा करनी है।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«मुझे... दस्तावेज़ जमा करने हैं» में संप्रदान कर्ता और पुल्लिंग बहुवचन कर्म का अन्वय शुद्ध है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u10-l2": {
@@ -4247,53 +4257,62 @@
     "subject": "hindi",
     "unit": 10,
     "lessonNumber": 2,
-    "title": "मजबूरी और बाध्यता: पड़ना/होना (Compulsion with पड़ना) (Part 2)",
+    "title": "बाह्य मजबूरी और विवशता: Infinitive + पड़ना (वर्तमान: पड़ता है / पड़ती है / पड़ते हैं)",
     "level": "A2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 10.2) with authentic linguistic precision.",
+    "objective": "बाह्य परिस्थितियों, मजबूरी अथवा अनिच्छा (Compulsion / Forced duty) को व्यक्त करने वाले 'पड़ता है / पड़ती है / पड़ते हैं' की संरचना और क्रिया समन्वय में प्रवीणता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "जब कोई कार्य अपनी इच्छा से नहीं, बल्कि किसी बाह्य विवशता, मजबूरी या परिस्थिति के दबाव में करना पड़े, तब 'पड़ना' क्रिया का प्रयोग होता है:\n\n1. निर्माण का सूत्र:\n   - **[कर्ता + को] + [कर्म] + [क्रिया-ना / -नी / -ने] + [पड़ता है / पड़ती है / पड़ते हैं]**\n\n2. अन्वय नियम (Agreement Rules):\n   - **स्त्रीलिंग कर्म**: क्रिया व 'पड़ना' दोनों स्त्रीलिंग होंगे:\n     - उसे रोज़ाना रोटी **बनानी पड़ती है** (रोटी = स्त्री. → बनानी पड़ती है);\n     - हमें फीस **भरनी पड़ती है**।\n   - **पुल्लिंग एकवचन कर्म**: *मुझे भारी किराया **देना पड़ता है** (किराया = पु. → देना पड़ता है)।\n   - **पुल्लिंग बहुवचन कर्म**: *उसे कई चक्कर **काटने पड़ते हैं**।\n   - **अकर्मक क्रिया (कर्म रहित)**: *मुझे पैदल **चलना पड़ता है** (तटस्थ रूप)।\n\n3. 'होना' बनाम 'पड़ना' का अंतर:\n   - मुझे जाना है = I have to go (मेरी योजना);\n   - मुझे जाना पड़ता है = I am forced / compelled to go (मेरी मजबूरी)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 10.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 10."
+          "target": "बस न मिलने के कारण मुझे प्रतिदिन दफ़्तर जाने के लिए पाँच किलोमीटर पैदल चलना पड़ता है।",
+          "reading": "bus na milne ke kaaran mujhe pratidin daftar jaane ke liye paanch kilometer paidal chalna padta hai. [bəs nə mɪlneː keː kaːrəɳ mʊdʒʱeː prət̪ɪd̪ɪn d̪əft̪ər dʒaːneː keː lɪjeː paːntʃ kɪloːmiːʈər pɛːd̪əl tʃəlnaː pəɽt̪aː hɛː] (buhs nuh MEEL-nay kay KAH-ruhn MOO-jhay pruh-tee-DEEN DUHF-tuhr jah-NAY kay lee-ay pahnch kee-loh-MEE-tuhr py-DUHL CHUHL-nah PUHD-tah hy)",
+          "translation": "Due to not getting a bus, I have to walk five kilometers on foot daily to go to the office."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 10-2)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "घर से दूर छात्रावास में रहने वाले विद्यार्थियों को रोज़ाना खुद ही भोजन की व्यवस्था करनी पड़ती है।",
+          "reading": "ghar se door chhaatravaas mein rahne vaale vidyaarthiyon ko rozaana khud hi bhojan ki vyavastha karni padti hai. [ɡʱər seː d̪uːr tʃʰaːt̪raːʋaːs mẽː rəɦneː ʋaːleː ʋɪd̪jaːrt̪ʰɪjõː koː roːzaːnaː kʰʊd̪ ɦiː bʱoːdʒən kiː ʋjəʋəst̪ʰaː kərniː pəɽt̪iː hɛː] (ghuhr say door chhah-trah-VAHS mayn RUH-h-nay vah-LAY veed-YAHR-thee-yohn koh roh-ZAH-nah khood hee BHOJ-uhn kee vyuh-vuhs-THAH KUHR-nee PUHD-tee hy)",
+          "translation": "Students living in hostels far from home have to make arrangements for food themselves every day."
+        },
+        {
+          "target": "महँगाई के इस कठिन दौर में गरीब परिवारों को बहुत सोच-समझकर सीमित धन खर्च करना पड़ता है।",
+          "reading": "mehengaai ke is kathin daur mein gareeb parivaaron ko bahut soch-samajhkar seemit dhan kharch karna padta hai. [mɛɦəŋɡaːiː keː ɪs kəʈʰɪn d̪ɔːr mẽː ɡəriːb pərɪʋaːrõː koː bəɦʊt̪ soːtʃ səmədʒʱkər siːmɪt̪ d̪ʱən kʰərtʃ kərnaː pəɽt̪aː hɛː] (meh-uhng-GAH-ee kay ees KUH-theen dowr mayn guh-REEB puh-ree-VAH-rohn koh buh-hoot sohch-suh-muhj-KUHR SEE-meet dhuhn khuhrch KUHR-nah PUHD-tah hy)",
+          "translation": "In this difficult period of inflation, poor families have to spend limited money very thoughtfully."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Compulsion = कर्ता + 'को' + क्रिया-ना + पड़ता है! मजबूरी में 'पड़ता है' लगाओ!"
+      ],
+      "culturalNotes": [
+        "भारतीय समाज में परिवार की जिम्मेदारियों को निभाते हुए अक्सर लोग कहते हैं 'परिवार के लिए करना पड़ता है' (One has to do it for the family)।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"कुर्सी\":",
+          "prompt": "स्त्रीलिंग कर्म 'मेहनत' के साथ मजबूरी का वर्तमान रूप क्या होगा?",
           "options": [
-            "हम इस पाठ में इकाई 10.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («बिस्तर» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («दीवार» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («छत» का अनुचित स्थान)"
+            "मेहनत करनी पड़ती है (Mehnat karni padti hai - Has to work hard [fem. agreement])",
+            "मेहनत करना पड़ता है",
+            "मेहनत करने पड़ते हैं",
+            "मेहनत करती पड़ती है"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "स्त्रीलिंग कर्म 'मेहनत' के अनुसार «करनी पड़ती है» रूप प्रयुक्त होगा।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"कुर्सी\":",
+          "prompt": "वाक्य «उसे हर महीने भारी टैक्स ___» में सही मजबूरी रूप भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 10.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («दीवार» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («छत» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («बिस्तर» का अशुद्ध रूप)"
+            "देना पड़ता है (Dena padta hai - Has to pay [masc. tax])",
+            "देनी पड़ती है",
+            "देने पड़ते हैं",
+            "देना पड़ते हैं"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "टैक्स (पुल्लिंग एकवचन) के साथ «देना पड़ता है» आएगा।"
         }
       ]
     },
@@ -4301,17 +4320,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"कुर्सी\": Which sentence is completely correct?",
+          "prompt": "वर्तमान मजबूरी (Habitual Compulsion) का पूर्णतः शुद्ध वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 10.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («छत» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («बिस्तर» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («दीवार» से संबंधित)"
+            "समय की कमी के कारण हमें रात में देर तक जागना पड़ता है। (Due to lack of time we have to stay awake late at night.)",
+            "हम रात में जागना पड़ता है।",
+            "हमें जागनी पड़ती है था।",
+            "हमको रात में जागते पड़ता है।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«हमें... जागना पड़ता है» में संप्रदान कर्ता और अकर्मक मजबूरी का वर्तमान अन्वय पूर्णतः शुद्ध है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u10-l3": {
@@ -4319,53 +4339,62 @@
     "subject": "hindi",
     "unit": 10,
     "lessonNumber": 3,
-    "title": "मजबूरी और बाध्यता: पड़ना/होना (Compulsion with पड़ना) (Part 3)",
+    "title": "भूतकालिक मजबूरी: पड़ा / पड़ी / पड़े / पड़ीं (Past Compulsion: Had to / Was forced to)",
     "level": "A2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 10.3) with authentic linguistic precision.",
+    "objective": "अतीत में किसी विशेष परिस्थिति के कारण उत्पन्न विवशता (Had to / Was forced to) को व्यक्त करने वाले 'पड़ा / पड़ी / पड़े / पड़ीं' के अन्वय नियमों में दक्षता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "भूतकाल में किसी एक विशिष्ट अवसर पर मजबूरीवश किए गए कार्य (Had to do) को व्यक्त करने के लिए 'पड़ा' संरचना का प्रयोग होता है:\n\n1. निर्माण का सूत्र:\n   - **[कर्ता + को] + [कर्म] + [क्रिया-ना / -नी / -ने] + [पड़ा / पड़ी / पड़े / पड़ीं]**\n   - (सावधान: कर्ता के साथ 'को' ही लगेगा, भूतकाल होने पर भी 'ने' कभी नहीं लगता!)\n\n2. कर्म के अनुसार लिंग-वचन समन्वय:\n   - **पुल्लिंग एकवचन कर्म**: *मुझे नया टिकट **खरीदना पड़ा** (टिकट = पु.एक. → खरीदना पड़ा);\n   - **स्त्रीलिंग एकवचन कर्म**: *उसे सारी बात **बतानी पड़ी** (बात = स्त्री.एक. → बतानी पड़ी);\n   - **पुल्लिंग बहुवचन कर्म**: *हमें कई घंटे इंतज़ार **करने पड़े** (इंतज़ार के घंटे = पु.बहु. → करने पड़े);\n   - **स्त्रीलिंग बहुवचन कर्म**: *मरीज़ को कड़वी दवाइयाँ **खानी पड़ीं** (दवाइयाँ = स्त्री.बहु. → खानी पड़ीं [अनुनासिक]);\n   - **अकर्मक क्रिया**: *हमें पैदल **जाना पड़ा**।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 10.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 10."
+          "target": "अचानक तेज़ तूफ़ानी बारिश शुरू होने के कारण हमें रास्ते में ही एक पुरानी दुकान के नीचे रुकना पड़ा।",
+          "reading": "achanak tez toofaani baarish shuroo hone ke kaaran humein raaste mein hi ek puraani dukaan ke neeche rukna pada. [ətʃaːnək t̪eːz t̪uːfaːniː baːrɪʃ ʃʊruː hoːneː keː kaːrəɳ ɦəmẽː raːst̪eː mẽː ɦiː eːk pʊraːniː d̪ʊkaːn keː niːtʃeː rʊknaː pəɽaː] (uh-CHAH-nuhk tayz too-FAH-nee BAH-reesh shoo-ROO hoh-NAY kay KAH-ruhn hoo-MAYN RAHS-tay mayn hee ayk poo-RAH-nee doo-KAHN kay NEE-chay ROOK-nah PUH-dah)",
+          "translation": "Due to sudden onset of heavy stormy rain, we had to stop under an old shop on the way."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 10-3)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "पास की दवा की दुकान बंद होने की वजह से मुझे आधी रात में बहुत दूर के अस्पताल जाना पड़ा।",
+          "reading": "paas ki dava ki dukaan band hone ki vajah se mujhe aadhi raat mein bahut door ke aspataal jaana pada. [paːs kiː d̪əʋaː kiː d̪ʊkaːn bən̪d̪ hoːneː kiː ʋədʒəh seː mʊdʒʱeː aːd̪ʱiː raːt̪ mẽː bəɦʊt̪ d̪uːr keː əspət̪aːl dʒaːnaː pəɽaː] (pahs kee duh-VAH kee doo-KAHN buhnd hoh-NAY kee VUJ-uh say MOO-jhay AH-dhee raht mayn buh-hoot door kay uhs-puh-TAHL jah-NAH PUH-dah)",
+          "translation": "Because the nearby pharmacy was closed, I had to go to a very distant hospital in the middle of the night."
+        },
+        {
+          "target": "कार बीच रास्ते में खराब हो जाने पर हमें स्टेशन पहुँचने के लिए अपना भारी सामान खुद उठाना पड़ा।",
+          "reading": "car beech raaste mein kharaab ho jaane par humein station pahunchne ke liye apna bhaari saamaan khud uthaana pada. [kaːr biːtʃ raːst̪eː mẽː kʰəraːb hoː dʒaːneː pər ɦəmẽː sʈeːʃən pəɦʊntʃneː keː lɪjeː əpnaː bʱaːriː saːmaːn kʰʊd̪ ʊt̪ʰaːnaː pəɽaː] (kahr beech RAHS-tay mayn khuh-RAHB hoh jah-NAY puhr hoo-MAYN STAY-shuhn puh-HOONCH-nay kay lee-ay uhp-NAH bhah-REE sah-MAHN khood oo-THAH-nah PUH-dah)",
+          "translation": "When the car broke down halfway, we had to lift our heavy luggage ourselves to reach the station."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Past Had to = कर्ता + 'को' + क्रिया-ना + पड़ा! 'ने' कभी नहीं, 'को' हमेशा!"
+      ],
+      "culturalNotes": [
+        "यात्रा या विपत्ति में किसी अवांछित परिस्थिति का वर्णन करते समय 'मजबूरी में रुकना पड़ा' कहना बहुत स्वाभाविक है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"बिस्तर\":",
+          "prompt": "वाक्य «I had to buy a ticket» का शुद्ध हिंदी अनुवाद क्या होगा?",
           "options": [
-            "हम इस पाठ में इकाई 10.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («दीवार» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («छत» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («काम» का अनुचित स्थान)"
+            "मुझे टिकट खरीदना पड़ा (Mujhe ticket khareedna pada - I had to buy a ticket)",
+            "मैंने टिकट खरीदा पड़ा",
+            "मुझको टिकट खरीदनी पड़ी",
+            "मैं टिकट खरीदना पड़ा"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "भूतकालिक मजबूरी में कर्ता के साथ 'को' («मुझे») और क्रिया «खरीदना पड़ा» (टिकट पु.) आता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"बिस्तर\":",
+          "prompt": "स्त्रीलिंग कर्म 'माफ़ी' के साथ भूतकालिक मजबूरी का रूप क्या होगा?",
           "options": [
-            "हम इस पाठ में इकाई 10.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («छत» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («काम» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («दीवार» का अशुद्ध रूप)"
+            "माँगनी पड़ी (Maangni padi - Had to apologize [fem. agreement])",
+            "माँगना पड़ा",
+            "माँगने पड़े",
+            "माँगती पड़ी"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "स्त्रीलिंग कर्म 'माफ़ी' के अनुसार रूप «माँगनी पड़ी» बनेगा।"
         }
       ]
     },
@@ -4373,17 +4402,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"बिस्तर\": Which sentence is completely correct?",
+          "prompt": "भूतकालिक मजबूरी (Had to do) का सर्वथा शुद्ध वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 10.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («काम» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («दीवार» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («छत» से संबंधित)"
+            "विमान निरस्त होने के कारण यात्रियों को पूरी रात हवाई अड्डे पर ही रुकना पड़ा। (Due to flight cancellation, passengers had to stay at the airport all night.)",
+            "यात्रियों ने हवाई अड्डे पर रुकना पड़ा।",
+            "यात्री हवाई अड्डे रुकना पड़ा था।",
+            "यात्रियों को रुकनी पड़ी।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«यात्रियों को... रुकना पड़ा» में संप्रदान कारक और अकर्मक क्रिया का भूतकालिक मजबूरी अन्वय पूर्णतः शुद्ध है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u10-l4": {
@@ -4391,53 +4421,62 @@
     "subject": "hindi",
     "unit": 10,
     "lessonNumber": 4,
-    "title": "मजबूरी और बाध्यता: पड़ना/होना (Compulsion with पड़ना) (Part 4)",
+    "title": "भविष्यकालिक मजबूरी: पड़ेगा / पड़ेगी / पड़ेंगे / पड़ेंगी (Future Compulsion: Will have to)",
     "level": "A2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 10.4) with authentic linguistic precision.",
+    "objective": "भविष्य की अनिवार्य बाध्यता अथवा कानूनी/परिस्थितिजन्य दबाव (Will have to do) को व्यक्त करने वाले 'पड़ेगा / पड़ेगी / पड़ेंगे / पड़ेंगी' के शुद्ध प्रयोग में निपुणता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "भविष्य में किसी नियम, शर्त या परिस्थिति के कारण जो कार्य अनिवार्य रूप से करना ही होगा (Will have to do), उसे 'पड़ेगा' से व्यक्त किया जाता है:\n\n1. निर्माण का सूत्र:\n   - **[कर्ता + को] + [कर्म] + [क्रिया-ना / -नी / -ने] + [पड़ेगा / पड़ेगी / पड़ेंगे / पड़ेंगी]**\n\n2. लिंग-वचन समन्वय (Gender-Number Agreement):\n   - **पुल्लिंग एकवचन कर्म**: *आपको जुर्माना **भरना पड़ेगा** (जुर्माना = पु.एक. → भरना पड़ेगा);\n   - **स्त्रीलिंग एकवचन कर्म**: *उसे कड़ी मेहनत **करनी पड़ेगी** (मेहनत = स्त्री.एक. → करनी पड़ेगी);\n   - **पुल्लिंग बहुवचन कर्म**: *हमें अतिरिक्त रुपये **देने पड़ेंगे** (रुपये = पु.बहु. → देने पड़ेंगे);\n   - **स्त्रीलिंग बहुवचन कर्म**: *उन्हें सभी शर्तें **माननी पड़ेंगी** (शर्तें = स्त्री.बहु. → माननी पड़ेंगी [अनुनासिक]);\n   - **अकर्मक क्रिया**: *आपको वहाँ स्वयं **जाना पड़ेगा**।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 10.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 10."
+          "target": "यदि आप यातायात के नियमों का जानबूझकर उल्लंघन करेंगे, तो आपको भारी जुर्माना भरना पड़ेगा।",
+          "reading": "yadi aap yaataayaat ke niyamon ka jaanboojhkar ullanghan karenge, to aapko bhaari jurmaana bharna padega. [jəd̪ɪ aːp jaːt̪aːjaːt̪ keː nɪjəmõː kaː dʒaːnbuːdʒʱkər ʊlːəŋɡʱən kərẽːɡeː t̪oː aːpkoː bʱaːriː dʒʊrmaːnaː bʱərnaː pəɽeːɡaː] (YUH-dee ahp yah-tah-YAHT kay NEE-yuh-mohn kah jahn-BOOJH-kuhr ool-LUNG-ghuhn KUH-reng-gay, toh ahp-KOH bhah-REE joor-MAH-nah BHUHR-nah puh-DAY-gah)",
+          "translation": "If you deliberately violate traffic rules, you will have to pay a heavy fine."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 10-4)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "इस कठिन और प्रतिस्पर्धी परीक्षा में सफल होने के लिए सभी विद्यार्थियों को दिन-रात कड़ी मेहनत करनी पड़ेगी।",
+          "reading": "is kathin aur pratispardhi pareeksha mein safal hone ke liye sabhi vidyaarthiyon ko din-raat kadi mehnat karni padegi. [ɪs kəʈʰɪn ɔːr prət̪ɪspərd̪ʱiː pəriːkʃaː mẽː səfəl hoːneː keː lɪjeː səbʱiː ʋɪd̪jaːrt̪ʰɪjõː koː d̪ɪn raːt̪ kəɽiː mɛɦnət̪ kərniː pəɽeːɡiː] (ees KUH-theen owr pruh-tee-SPUHR-dhee puh-REEK-shah mayn suh-FUHL hoh-NAY kay lee-ay SUH-bhee veed-YAHR-thee-yohn koh deen-raht kuh-DEE MEH-huht KUHR-nee puh-DAY-gee)",
+          "translation": "To succeed in this difficult and competitive examination, all students will have to work hard day and night."
+        },
+        {
+          "target": "नियत समय पर बिजली का बिल जमा न करने की स्थिति में उपभोक्ताओं को अतिरिक्त विलंब शुल्क देना पड़ेगा।",
+          "reading": "niyat samay par bijli ka bill jama na karne ki sthiti mein upbhoktaon ko atirikt vilamb shulk dena padega. [nɪjət̪ səməj pər bɪdʒliː kaː bɪl dʒəmaː nə kərneː kiː st̪ʰɪt̪ɪ mẽː ʊpbʱoːkt̪aːõː koː ət̪ɪrɪkt̪ ʋɪləmb ʃʊlk d̪eːnaː pəɽeːɡaː] (NEE-yuht suh-MUHY puhr beej-LEE kah beel JUH-mah nuh KUHR-nay kee STHEE-tee mayn oop-bhohk-TAH-ohn koh uh-tee-REEKT vee-LUHMB shoolk DAY-nah puh-DAY-gah)",
+          "translation": "In case of not depositing the electricity bill on scheduled time, consumers will have to pay additional late fee."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Will have to = कर्ता + 'को' + क्रिया-ना + पड़ेगा/पड़ेगी/पड़ेंगे/पड़ेंगी!"
+      ],
+      "culturalNotes": [
+        "नियमों और वैधानिक चेतावनियों में 'पड़ेगा' का प्रयोग भविष्य की निश्चित बाध्यता दर्शाने के लिए मानक है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"दीवार\":",
+          "prompt": "स्त्रीलिंग बहुवचन कर्म 'दवाइयाँ' के साथ भविष्यकालिक मजबूरी का सही रूप क्या होगा?",
           "options": [
-            "हम इस पाठ में इकाई 10.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («छत» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («काम» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («दफ़्तर» का अनुचित स्थान)"
+            "लेनी पड़ेंगी (Leni padengi - Will have to take [fem. plural])",
+            "लेना पड़ेगा",
+            "लेने पड़ेंगे",
+            "लेनी पड़ेगी"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "स्त्रीलिंग बहुवचन कर्म 'दवाइयाँ' के साथ अनुनासिक युक्त «लेनी पड़ेंगी» आएगा।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"दीवार\":",
+          "prompt": "वाक्य «कल आपको इस मामले पर निर्णय ___» में सही भविष्यत् मजबूरी भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 10.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («काम» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («दफ़्तर» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («छत» का अशुद्ध रूप)"
+            "लेना पड़ेगा (Lena padega - Will have to take [masc. decision])",
+            "लेनी पड़ेगी",
+            "लेने पड़ेंगे",
+            "लेता पड़ेगा"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "निर्णय (पुल्लिंग एकवचन) के साथ «लेना पड़ेगा» प्रयुक्त होता है।"
         }
       ]
     },
@@ -4445,17 +4484,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"दीवार\": Which sentence is completely correct?",
+          "prompt": "भविष्यकालिक मजबूरी (Will have to do) का व्याकरणसम्मत शुद्ध वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 10.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («दफ़्तर» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («छत» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («काम» से संबंधित)"
+            "यदि आप देर से आएँगे, तो आपको बाहर ही प्रतीक्षा करनी पड़ेगी। (If you come late, you will have to wait outside.)",
+            "आपको बाहर प्रतीक्षा करना पड़ेगा।",
+            "आप बाहर प्रतीक्षा करनी पड़ेगी।",
+            "आपको बाहर प्रतीक्षा करेंगे पड़ेगा।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "प्रतीक्षा (स्त्री.) के अनुसार «प्रतीक्षा करनी पड़ेगी» और संप्रदान कर्ता «आपको» पूर्णतः शुद्ध हैं।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u10-l5": {
@@ -4463,53 +4503,62 @@
     "subject": "hindi",
     "unit": 10,
     "lessonNumber": 5,
-    "title": "मजबूरी और बाध्यता: पड़ना/होना (Compulsion with पड़ना) (Part 5)",
+    "title": "बाध्यता और अनिवार्यता का समग्र तुलनात्मक विश्लेषण (चाहिए vs होना vs पड़ना)",
     "level": "A2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 10.5) with authentic linguistic precision.",
+    "objective": "हिंदी की तीनों प्रमुख बाध्यता संरचनाओं ('चाहिए' = नैतिक सलाह, 'होना' = व्यक्तिगत योजना, 'पड़ना' = बाह्य मजबूरी) के अर्थगत भेदों, काल रूपों और व्यावहारिक प्रयोग में पूर्ण महारत प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "हिंदी में बाध्यता और अनिवार्यता व्यक्त करने के तीन मुख्य व्याकरणिक प्रारूप हैं, जिनके अर्थ में सूक्ष्म व स्पष्ट भेद है:\n\n1. तुलनात्मक विश्लेषण तालिका:\n   - **1. 'चाहिए' (Should / Ought to — नैतिक कर्तव्य / सलाह)**:\n     - *मुझे पढ़ना चाहिए* = I should study (यह अच्छा है, नैतिक दायित्व है)।\n   - **2. 'होना' (Have to / Scheduled Plan — व्यक्तिगत योजना / आंतरिक दायित्व)**:\n     - *मुझे पढ़ना है* = I have to study (यह मेरी आज की कार्यसूची/योजना है)।\n   - **3. 'पड़ना' (Forced to / External Compulsion — बाह्य मजबूरी / अनिच्छा)**:\n     - *मुझे पढ़ना पड़ता है* = I am forced to study (मेरी अनिच्छा या मजबूरी है)।\n\n2. काल के अनुसार 'पड़ना' के रूप:\n   - वर्तमान: पड़ता है / पड़ती है / पड़ते हैं\n   - भूतकाल: पड़ा / पड़ी / पड़े / पड़ीं\n   - भविष्यत्: पड़ेगा / पड़ेगी / पड़ेंगे / पड़ेंगी\n   - अपूर्ण भूतकाल: पड़ रहा था / पड़ रही थी।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 10.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 10."
+          "target": "स्वास्थ्य के लिए मुझे प्रतिदिन प्रातःकाल योग करना चाहिए, किंतु अत्यधिक व्यस्तता के कारण मुझे देर रात तक काम करना पड़ता है।",
+          "reading": "svaasthya ke liye mujhe pratidin praatahkaal yog karna chaahiye, kintu atyadhik vyastata ke kaaran mujhe der raat tak kaam karna padta hai. [sʋaːst̪ʰjə keː lɪjeː mʊdʒʱeː prət̪ɪd̪ɪn praːt̪əɦkaːl joːɡ kərnaː tʃaːɦɪjeː kɪnt̪ʊ ət̪jəd̪ʱɪk ʋjəst̪ət̪aː keː kaːrəɳ mʊdʒʱeː d̪eːr raːt̪ t̪ək kaːm kərnaː pəɽt̪aː hɛː] (SVAHS-thyuh kay lee-ay MOO-jhay pruh-tee-DEEN prah-tuh-KAHL yohg KUHR-nah CHAH-hee-yay, KEEN-too uht-yudh-HEEK vyuhs-tuh-TAH kay KAH-ruhn MOO-jhay dayr raht tuhk kahm KUHR-nah PUHD-tah hy)",
+          "translation": "For health I should do yoga every morning, but due to excessive busyness I have to work late at night."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 10-5)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "आज दोपहर मुझे कई ज़रूरी दस्तावेज़ तैयार करने हैं, इसलिए मुझे समय पर दफ़्तर पहुँचना पड़ेगा।",
+          "reading": "aaj dopahar mujhe kayi zaroori dastaavez taiyaar karne hain, isliye mujhe samay par daftar pahunchna padega. [aːdʒ d̪oːpɛɦər mʊdʒʱeː kəiː zəruːriː d̪əst̪aːʋeːz t̪ɛːjaːr kərneː hɛ̃ː ɪslɪjeː mʊdʒʱeː səməj pər d̪əft̪ər pəɦʊntʃnaː pəɽeːɡaː] (ahj doh-PUH-huhr MOO-jhay kuh-EE zuh-ROO-ree duhs-tah-VAYZ ty-YAHR KUHR-nay hy-n, ees-lee-AY MOO-jhay suh-MUHY puhr DUHF-tuhr puh-HOONCH-nah puh-DAY-gah)",
+          "translation": "Today afternoon I have to prepare several important documents, therefore I will have to reach the office on time."
+        },
+        {
+          "target": "इच्छा न होने पर भी सामाजिक शिष्टाचार बनाए रखने के लिए हमें कभी-कभी अनिच्छा से समारोह में जाना पड़ता है।",
+          "reading": "ichha na hone par bhi saamaajik shishtaachaar banaye rakhne ke liye humein kabhi-kabhi anichha se samaaroh mein jaana padta hai. [ɪtʃːʰaː nə hoːneː pər bʱiː saːmaːdʒɪk ʃɪʂʈaːtʃaːr bənaːeː rəkʰneː keː lɪjeː ɦəmẽː kəbʱiː kəbʱiː ənɪtʃːʰaː seː səmaːroːɦ mẽː dʒaːnaː pəɽt̪aː hɛː] (EETCH-chah nuh hoh-NAY puhr bhee sah-mah-JEEK sheesh-tah-CHAHR buh-nah-AY RUHKH-nay kay lee-ay hoo-MAYN KUH-bhee-KUH-bhee uh-NEETCH-chah say suh-mah-ROH mayn jah-NAH PUHD-tah hy)",
+          "translation": "Even without wanting, to maintain social etiquette we sometimes have to go to gatherings reluctantly."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "चाहिए = Should (नैतिक सलाह); होना = Have to (योजना/कार्यक्रम); पड़ना = Forced to (मजबूरी/दबाव)!"
+      ],
+      "culturalNotes": [
+        "हिंदी साहित्य और चलचित्रों में कर्तव्य और मजबूरी के इस द्वंद्व ('करना चाहिए बनाम करना पड़ता है') को बहुत प्रभावशाली ढंग से प्रस्तुत किया जाता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"छत\":",
+          "prompt": "व्यक्तिगत योजना/कार्यसूची (Scheduled Plan) व्यक्त करने हेतु कौन-सा वाक्य उपयुक्त है?",
           "options": [
-            "हम इस पाठ में इकाई 10.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («काम» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («दफ़्तर» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («सहकर्मी» का अनुचित स्थान)"
+            "मुझे आज बाज़ार जाना है (Mujhe aaj baazaar jaana hai - I have to go to the market today [plan])",
+            "मुझे बाज़ार जाना पड़ता है",
+            "मुझे बाज़ार जाना चाहिए था",
+            "मैं बाज़ार जाना पड़ा"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "व्यक्तिगत योजना या कार्यक्रम हेतु «मुझे जाना है» (Infinitive + होना) का प्रयोग होता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"छत\":",
+          "prompt": "बाह्य दबाव या मजबूरी (External Compulsion) व्यक्त करने वाला वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 10.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («दफ़्तर» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («सहकर्मी» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («काम» का अशुद्ध रूप)"
+            "मुझे अनिच्छा से यह काम करना पड़ता है (Mujhe anichha se yah kaam karna padta hai - I am forced to do this work reluctantly)",
+            "मुझे यह काम करना है",
+            "मुझे यह काम करना चाहिए",
+            "मैं यह काम करूँगा"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "बाह्य दबाव और मजबूरी के लिए «करना पड़ता है» का प्रयोग होता है।"
         }
       ]
     },
@@ -4517,17 +4566,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"छत\": Which sentence is completely correct?",
+          "prompt": "बाध्यता और मजबूरी के तीनों रूपों के सही समन्वय वाला वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 10.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («सहकर्मी» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («काम» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («दफ़्तर» से संबंधित)"
+            "हमें सच बोलना चाहिए, पर कभी-कभी परिस्थितियों के कारण चुप रहना पड़ता है। (We should speak truth, but sometimes due to circumstances we have to remain silent.)",
+            "हम सच बोलना चाहिए पर चुप रहना पड़ता है।",
+            "हमें सच बोलना है पर चुप रहना पड़ा था अभी।",
+            "हमें सच बोलना पड़ता है और चुप रहना चाहिए।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«सच बोलना चाहिए» (नैतिक सलाह) और «चुप रहना पड़ता है» (परिस्थितिजन्य मजबूरी) का समन्वय अर्थ और व्याकरण दोनों से पूर्णतः शुद्ध है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u11-l1": {
