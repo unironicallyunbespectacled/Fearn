@@ -5405,53 +5405,62 @@
     "subject": "hindi",
     "unit": 13,
     "lessonNumber": 1,
-    "title": "संभावनार्थ और इच्छार्थक क्रियाएं (Subjunctive Mood) (Part 1)",
+    "title": "प्रथम एवं द्वितीय प्रेरणार्थक क्रियाएं: निर्माण नियम (Direct & Indirect Causative Verbs: -आना / -वाना)",
     "level": "B1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 13.1) with authentic linguistic precision.",
+    "objective": "मूल धातु से प्रथम प्रेरणार्थक (-आना: प्रत्यक्ष प्रेरणा) और द्वितीय प्रेरणार्थक (-वाना: मध्यस्थ द्वारा अप्रत्यक्ष कार्य संपादन) के धातु-परिवर्तन नियमों में पूर्ण दक्षता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "हिंदी में क्रिया के तीन स्तर होते हैं: **मूल क्रिया (Base Verb)**, **प्रथम प्रेरणार्थक (Direct Causative)** और **द्वितीय प्रेरणार्थक (Indirect Causative)**:\n\n1. निर्माण का सामान्य नियम:\n   - **मूल धातु + आना** = प्रथम प्रेरणार्थक (कर्ता स्वयं प्रत्यक्ष रूप से कार्य करवाता/कराता है);\n   - **मूल धातु + वाना** = द्वितीय प्रेरणार्थक (कर्ता किसी तीसरे मध्यस्थ व्यक्ति के माध्यम से कार्य करवाता है)।\n\n2. प्रमुख क्रियाओं का रूपांतरण तालिका:\n   - करना (to do) → **कराना** (to make do) → **करवाना** (to have done by someone);\n   - पढ़ना (to read) → **पढ़ाना** (to teach) → **पढ़वाना** (to have taught/read by someone);\n   - लिखना (to write) → **लिखाना** (to dictate) → **लिखवाना** (to have written by someone);\n   - खाना (to eat) → **खिलाना** (to feed) → **खिलवाना** (to have fed by someone);\n   - पीना (to drink) → **पिलाना** (to serve drink) → **पिलवाना** (to cause to serve drink);\n   - बनाना (to make) → **बनाना** → **बनवाना** (to have built/constructed);\n   - धोना (to wash) → **धुलाना** → **धुलवाना** (to have washed by laundry)।\n\n3. स्वर-ह्रस्वीकरण नियम (Vowel Shortening):\n   - मूल धातु का दीर्घ स्वर प्रेरणार्थक में ह्रस्व हो जाता है (जैसे: पीना → पिलाना, धोना → धुलाना, सीखना → सिखाना)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 13.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 13."
+          "target": "अध्यापक ने कक्षा के सभी नन्हें बच्चों से कठिन हिंदी निबंध सुंदर और सुपाठ्य अक्षरों में लिखवाया।",
+          "reading": "adhyaapak ne kaksha ke sabhi nanhein bachon se kathin hindi nibandh sundar aur supaathya aksharon mein likhvaaya. [əd̪ʱjaːpək neː kəkʃaː keː səbʱiː nənɦẽː bətʃːõː seː kəʈʰɪn ɦɪn̪d̪iː nɪbən̪d̪ʱ sʊn̪d̪ər ɔːr sʊpaːʈʰjə əkʃərə̃õː mẽː lɪkʰʋaːjaː] (uhdh-YAH-puhk nay KUHK-shah kay SUH-bhee NUHN-hayn BUHTCH-chohn say KUH-theen HEEN-dee NEE-buhndh SOON-duhr owr soo-PAHTH-yuh uhk-SHUH-rohn mayn leekh-VAH-yah)",
+          "translation": "The teacher had the difficult Hindi essay written in beautiful and legible handwriting by all the little children in the class."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 13-1)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "स्नेहमयी माता जी ने अपने छोटे बालक को कटोरी से स्वादिष्ट मीठी खीर और गर्म ताज़ा दूध खिलाया और पिलाया।",
+          "reading": "snehamayi maata ji ne apne chhote baalak ko katori se svaadisht meethi kheer aur garm taaza doodh khilaaya aur pilaaya. [sneːɦməjiː maːt̪aː dʒiː neː əpneː tʃʰoːʈeː baːlək koː kəʈoːriː seː sʋaːd̪ɪʂʈ miːtʰiː kʰiːr ɔːr ɡərm t̪aːzaː d̪uːd̪ʱ kʰɪlaːjaː ɔːr pɪlaːjaː] (snay-huh-muh-YEE MAH-tah jee nay uhp-NAY CHHOH-tay BAH-luhk koh kuh-TOH-ree say svah-DEESHT MEE-thee KHEER owr guhrm TAH-zah DOODH khee-LAH-yah owr pee-LAH-yah)",
+          "translation": "The affectionate mother fed the delicious sweet rice pudding and hot fresh milk from a bowl to her little boy."
+        },
+        {
+          "target": "हमने शहर के एक अत्यंत कुशल और प्रसिद्ध वास्तुकार से अपना नया और आधुनिक सुंदर मकान बनवाया है।",
+          "reading": "humne shahar ke ek atyant kushal aur prasiddh vaastukaar se apna naya aur aadhunik sundar makaan banvaaya hai. [ɦəmneː ʃəɦər keː eːk ət̪jən̪t̪ kʊʃəl ɔːr prəsɪd̪ːʱ ʋaːst̪ʊkaːr seː əpnaː nəjaː ɔːr aːd̪ʱʊnɪk sʊn̪d̪ər məkaːn bənʋaːjaː hɛː] (huhm-NAY SHUH-huhr kay ayk uht-YUHNT KOO-shuhl owr pruh-SEETH-dh vahs-too-KAHR say uhp-NAH nuh-YAH owr ah-dhoo-NEEK SOON-duhr muh-KAHN buhn-VAH-yah hy)",
+          "translation": "We have had our new and modern beautiful house constructed by an extremely skilled and renowned architect of the city."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "लिखना (Base) → लिखाना (1st Causative: Dictate) → लिखवाना (2nd Causative: Have written through someone)!"
+      ],
+      "culturalNotes": [
+        "भारतीय समाज में कारीगरों, राजमिस्त्रियों और दर्ज़ियों से कार्य करवाने के लिए द्वितीय प्रेरणार्थक क्रियाओं ('सिलवाना', 'बनवाना') का दैनिक जीवन में सर्वाधिक प्रयोग होता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"किताब\":",
+          "prompt": "धातु 'पढ़ना' (to read) का द्वितीय प्रेरणार्थक रूप (to have taught/read by someone) क्या होगा?",
           "options": [
-            "हम इस पाठ में इकाई 13.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («संगीत» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («फ़िल्म» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («खेल» का अनुचित स्थान)"
+            "पढ़वाना (Padhvaana - Second causative: to cause to be read/taught via intermediary)",
+            "पढ़ानाक (Typo error)",
+            "पढ़ना ही (Infinitive error)",
+            "पढ़ जाना (Compound verb error)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "'-वाना' प्रत्यय जोड़कर द्वितीय प्रेरणार्थक रूप «पढ़वाना» बनता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"किताब\":",
+          "prompt": "वाक्य «रोहन ने धोबी से अपने सभी गर्म कपड़े ___» में शुद्ध प्रेरणार्थक रूप भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 13.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («फ़िल्म» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («खेल» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («संगीत» का अशुद्ध रूप)"
+            "धुलवाए (Dhulvaaye - Had washed by the washerman [2nd causative past masc. plur.])",
+            "धोया (Base verb error without agent marker)",
+            "धुलाया खुद (Self-action confusion)",
+            "धुल गया (Passive involuntary error)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "धोबी (मध्यस्थ) से कपड़े साफ करवाने हेतु द्वितीय प्रेरणार्थक «धुलवाए» सही है।"
         }
       ]
     },
@@ -5459,17 +5468,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"किताब\": Which sentence is completely correct?",
+          "prompt": "प्रथम और द्वितीय प्रेरणार्थक क्रियाओं के शुद्ध प्रयोग वाला वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 13.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («खेल» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («संगीत» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («फ़िल्म» से संबंधित)"
+            "माता जी बच्चे को खाना खिलाती हैं और नौकर से बर्तन साफ़ करवाती हैं। (Mother feeds food to the child and gets utensils cleaned by the servant.)",
+            "माता जी नौकर से खाना खिलाती हैं बच्चे को।",
+            "माता जी बच्चे को बर्तन साफ़ करवाती हैं।",
+            "माता जी नौकर से खाना खाती हैं।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«खिलाती हैं» (प्रथम प्रेरणार्थक: प्रत्यक्ष) और «करवाती हैं» (द्वितीय प्रेरणार्थक: मध्यस्थ द्वारा) दोनों का प्रयोग व्याकरणिक रूप से आदर्श है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u13-l2": {
@@ -5477,53 +5487,62 @@
     "subject": "hindi",
     "unit": 13,
     "lessonNumber": 2,
-    "title": "संभावनार्थ और इच्छार्थक क्रियाएं (Subjunctive Mood) (Part 2)",
+    "title": "प्रेरणार्थक वाक्यों में मध्यस्थ कारक: 'से' और 'को' (Intermediary Agent Postpositions with से and को)",
     "level": "B1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 13.2) with authentic linguistic precision.",
+    "objective": "प्रेरणार्थक वाक्यों में कार्य संपादन करने वाले मध्यस्थ कर्ता (Causee) के साथ 'से' (Instrumental/Intermediary) और अनुभविता के साथ 'को' (Dative/Patient) के सटीक प्रयोग का नियम समझना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "प्रेरणार्थक वाक्यों में मध्यस्थ व्यक्ति (Causee / Agent) के साथ परसर्ग लगाने के दो सार्वभौमिक नियम हैं:\n\n1. **मध्यस्थ कर्ता के साथ 'से' (Intermediary with 'से')**:\n   - द्वितीय प्रेरणार्थक वाक्यों में जिस व्यक्ति के *माध्यम से* या *द्वारा* कार्य कराया जाता है, उसके साथ **'से'** लगता है:\n     - *मैंने दर्ज़ी से कपड़े सिलवाए* (I got clothes stitched by the tailor);\n     - *अमित ने मैकेनिक से गाड़ी बनवाई* (Amit got car repaired by the mechanic);\n     - *मालिक ने मज़दूर से बोरी उठवाई* (Owner had the sack lifted by the laborer)।\n\n2. **अनुभविता/प्राप्तकर्ता के साथ 'को' (Recipient/Experiencer with 'को')**:\n   - प्रथम प्रेरणार्थक क्रियाओं में जब किसी को ज्ञान, भोजन, दृश्य या कौशल प्रत्यक्ष कराया जाता है (दिखाना, सिखाना, पढ़ाना, खिलाना), तब उस व्यक्ति के साथ **'को'** लगता है:\n     - *अध्यापक ने छात्रों को नया पाठ सिखाया* (Teacher taught new lesson to students);\n     - *मैंने मित्र को नया चित्र दिखाया* (I showed new painting to friend)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 13.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 13."
+          "target": "मैंने शहर के सबसे अनुभवी और कुशल दर्ज़ी से अपने विवाह समारोह के लिए एक बहुत सुंदर रेशमी शेरवानी सिलवाई।",
+          "reading": "maine shahar ke sabse anubhavi aur kushal darzi se apne vivaah samaaroh ke liye ek bahut sundar reshmi sherwaani silvaayi. [mɛːnneː ʃəɦər keː səbseː ənʊbʱəʋiː ɔːr kʊʃəl d̪ərziː seː əpneː ʋɪʋaːɦ səmaːroːɦ keː lɪjeː eːk bəɦʊt̪ sʊn̪d̪ər reːʃmiː ʃeːrʋaːniː sɪlʋaːiː] (MY-nay SHUH-huhr kay SUHB-say uh-noobh-HUH-vee owr KOO-shuhl DUHR-zee say uhp-NAY vee-VAH suh-mah-ROH kay lee-ay ayk buh-hoot SOON-duhr RAYSH-mee shayr-VAH-nee seel-VAH-yee)",
+          "translation": "I had a very beautiful silk sherwani stitched by the most experienced and skilled tailor of the city for my wedding ceremony."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 13-2)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "अमित ने अपने क्षेत्र के कुशल ऑटोमोबाइल मैकेनिक से अपनी पुरानी कार का पूरा इंजन और ब्रेक ठीक करवाए।",
+          "reading": "Amit ne apne kshetr ke kushal automobile mechanic se apni puraani car ka poora engine aur brake theek karvaaye. [əmɪt̪ neː əpneː kʃeːt̪r keː kʊʃəl ɔːʈoːmoːbaːiːl mɛːkɛːnɪk seː əpniː pʊraːniː kaːr kaː puːraː ɪndʒən ɔːr breːk t̪ʰiːk kərʋaːjeː] (uh-MEET nay uhp-NAY KSHAY-truh kay KOO-shuhl aw-toh-moh-BEEL muh-KAY-neek say uhp-NEE poo-RAH-nee kahr kah POO-rah EEN-juhn owr brayk theek kuhr-VAH-yay)",
+          "translation": "Amit got the entire engine and brakes of his old car repaired by a skilled automobile mechanic in his area."
+        },
+        {
+          "target": "वरिष्ठ अध्यापक ने सभी नए जिज्ञासु विद्यार्थियों को ऐतिहासिक पुस्तकालय की सभी दुर्लभ और मूल्यवान पांडुलिपियाँ दिखाईं।",
+          "reading": "varishth adhyaapak ne sabhi naye jigyaasu vidyaarthiyon ko aitihasik pustakaalay ki sabhi durlabh aur moolyavaan paandulipiyaan dikhaayein. [ʋərɪʂʈʰ əd̪ʱjaːpək neː səbʱiː nəjeː dʒɪɡjaːsʊ ʋɪd̪jaːrt̪ʰɪjõː koː ɛːt̪ɪhaːsɪk pʊst̪əkaːləj kiː səbʱiː d̪ʊrləbʱ ɔːr muːljəʋaːn paːɳɖʊlɪpɪjaː̃ d̪ɪkʰaːĩː] (vuh-REESH-th uhdh-YAH-puhk nay SUH-bhee nuh-YAY jeeg-YAH-soo veed-YAHR-thee-yohn koh ay-tee-HAH-seek poos-tuh-KAH-luy kee SUH-bhee door-LUHBH owr mool-yuh-VAHN pahn-doo-LEE-pee-yahn deekh-AH-yeen)",
+          "translation": "The senior teacher showed all rare and valuable manuscripts of the historic library to all the new curious students."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "मध्यस्थ कारीगर = 'से' (दर्ज़ी से सिलवाया); प्रत्यक्ष सीखने/देखने वाला = 'को' (छात्रों को सिखाया)!"
+      ],
+      "culturalNotes": [
+        "हिंदी में पेशेवर सेवाओं के लिए 'से करवाना' का प्रयोग शिष्टता और श्रम के सम्मान को प्रकट करता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"संगीत\":",
+          "prompt": "वाक्य «मैंने बढ़ई ___ सुंदर मेज़ बनवाई» में मध्यस्थ कारीगर के साथ कौन-सा परसर्ग आएगा?",
           "options": [
-            "हम इस पाठ में इकाई 13.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («फ़िल्म» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («खेल» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («क्रिकेट» का अनुचित स्थान)"
+            "से (Barhai se banvaayi - Had made by the carpenter [intermediary agent])",
+            "को (Dative error for intermediary)",
+            "का (Genitive error)",
+            "में (Locative error)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "जिस मध्यस्थ से काम करवाया जाता है, उसके साथ «से» परसर्ग आता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"संगीत\":",
+          "prompt": "वाक्य «दीदी ने छोटे भाई ___ गणित का कठिन पाठ सिखाया» में सही परसर्ग भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 13.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («खेल» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («क्रिकेट» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («फ़िल्म» का अशुद्ध रूप)"
+            "को (Chhote bhai ko sikhaya - Taught the difficult lesson to younger brother)",
+            "से (Intermediary confusion)",
+            "का (Genitive error)",
+            "पर (Locative error)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "प्रथम प्रेरणार्थक 'सिखाना' में सीखने वाले अनुभविता के साथ «को» आता है।"
         }
       ]
     },
@@ -5531,17 +5550,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"संगीत\": Which sentence is completely correct?",
+          "prompt": "'से' (मध्यस्थ) और 'को' (अनुभविता) के सही समन्वय वाला वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 13.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («क्रिकेट» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («फ़िल्म» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («खेल» से संबंधित)"
+            "अधिकारी ने टाइपिस्ट से पत्र लिखवाया और मंत्री जी को दिखाया। (The officer got the letter typed by the typist and showed it to the minister.)",
+            "अधिकारी ने टाइपिस्ट को पत्र लिखवाया और मंत्री जी से दिखाया।",
+            "अधिकारी ने टाइपिस्ट में पत्र लिखवाया।",
+            "अधिकारी ने टाइपिस्ट का पत्र दिखाया।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«टाइपिस्ट से लिखवाया» (मध्यस्थ) और «मंत्री जी को दिखाया» (अनुभविता) दोनों का कारक-विधान शत-प्रतिशत शुद्ध है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u13-l3": {
@@ -5549,53 +5569,62 @@
     "subject": "hindi",
     "unit": 13,
     "lessonNumber": 3,
-    "title": "संभावनार्थ और इच्छार्थक क्रियाएं (Subjunctive Mood) (Part 3)",
+    "title": "संभावनार्थ क्रिया और मनोभाव: 'शायद', 'हो सकता है कि' (Subjunctive Mood with Expressions of Possibility)",
     "level": "B1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 13.3) with authentic linguistic precision.",
+    "objective": "अनिश्चितता, संभावना (Possibility), संदेह और परिकल्पना को व्यक्त करने वाले संभावनार्थ रूप (Subjunctive Mood) के प्रत्ययों और प्रेरक वाक्यांशों में निपुण होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "हिंदी में जब कोई कार्य निश्चित तथ्य न होकर केवल संभावना (Possibility), संदेह (Doubt) या परिकल्पना हो, तब **संभावनार्थ क्रिया (Subjunctive Mood)** का प्रयोग होता है:\n\n1. संभावनार्थ क्रिया के प्रत्यय:\n   - मैं → **-ऊँ** (मैं चलूँ / खाऊँ / करूँ);\n   - तू → **-ए** (तू चले / खाए / करे);\n   - तुम → **-ओ** (तुम चलो / खाओ / करो);\n   - आप → **-एं** (आप चलें / खाएं / करें);\n   - वह / यह → **-ए** (वह चले / खाए / करे);\n   - हम / वे / ये → **-एं** (हम चलें / वे खाएं / ये करें)।\n\n2. संभावनार्थ के प्रेरक अव्यय (Triggers):\n   - **शायद (Perhaps)**: *शायद आज बारिश हो* (Perhaps it may rain today);\n   - **हो सकता है कि (It is possible that)**: *हो सकता है कि वह कल आए*;\n   - **ज़रूरी है कि (It is necessary that)**: *ज़रूरी है कि हम समय पर पहुँचें*;\n   - **मेरी इच्छा है कि (My wish is that)**: *मेरी इच्छा है कि आप सफल हों*।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 13.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 13."
+          "target": "शायद आज देर शाम तक अचानक मौसम बदल जाए और सूखे पर्वतीय क्षेत्र में भारी और मूसलाधार वर्षा हो।",
+          "reading": "shaayad aaj der shaam tak achanak mausam badal jaaye aur sookhe parvateey kshetr mein bhaari aur mooslaadhaar varsha ho. [ʃaːjəd̪ aːdʒ d̪eːr ʃaːm t̪ək ətʃaːnək mɔːsəm bəd̪əl dʒaːjeː ɔːr suːkʰeː pərʋət̪iːj kʃeːt̪r mẽː bʱaːriː ɔːr muːslaːd̪ʱaːr ʋərʂaː hoː] (SHAH-yuhd ahj dayr shahm tuhk uh-CHAH-nuhk MOW-suhm BUH-duhl JAH-yay owr SOO-khay puhr-vuh-TEE-yuh KSHAY-truh mayn BHAH-ree owr moos-lah-DHAHR VUHR-shah hoh)",
+          "translation": "Perhaps by late this evening the weather may suddenly change and heavy and torrential rain may occur in the dry mountainous region."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 13-3)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "हो सकता है कि वह इस अत्यंत महत्वपूर्ण और संवेदनशील विषय पर अपने सभी वरिष्ठ अधिकारियों से विस्तारपूर्वक परामर्श करे।",
+          "reading": "ho sakta hai ki vah is atyant mahatvapoorna aur samvedansheel vishay par apne sabhi varishth adhikaariyon se vistaarpoorvak paraamarsh kare. [hoː səkjaː hɛː kɪ ʋəɦ ɪs ət̪jən̪t̪ məɦət̪ʋəpuːrɳə ɔːr səmʋeːd̪ənʃiːl ʋɪʂəj pər əpneː səbʱiː ʋərɪʂʈʰ əd̪ʱɪkaːrɪjõː seː ʋɪst̪aːrpuːrʋək pəraːmərʃ kəreː] (hoh SUHK-tah hy kee vuh ees uht-YUHNT muh-huht-vuh-POOR-nuh owr suhm-vay-duhn-SHEEL vee-SHUY puhr uhp-NAY SUH-bhee vuh-REESH-th uh-dhee-KAH-ree-yohn say vees-tahr-POOR-vuhk puh-RAH-muhrsh KUH-ray)",
+          "translation": "It is possible that he might consult extensively with all his senior officers on this extremely important and sensitive matter."
+        },
+        {
+          "target": "पर्यावरण संरक्षण के लिए यह नितांत आवश्यक है कि हम सभी अपने आसपास के वातावरण को पूर्णतः स्वच्छ और हरा-भरा रखें।",
+          "reading": "paryaavaran sanrakshan ke liye yah nitaant aavashyak hai ki hum sabhi apne aaspaas ke vaataavaran ko poornatah swachh aur hara-bhara rakhein. [pərjaːʋərəɳ sən̪rəkʃəɳ keː lɪjeː jəɦ nɪt̪aːn̪t̪ aːʋəʃjək hɛː kɪ ɦəm səbʱiː əpneː aːspaːs keː ʋaːt̪aːʋərəɳ koː puːrɳət̪əɦ sʋətʃːʰ ɔːr ɦəraː bʱəraː rəkʰẽː] (puhr-yah-vuh-RUHN suhn-RUHK-shuhn kay lee-ay yuh nee-TAHNT ah-vush-YAHK hy kee huhm SUH-bhee uhp-NAY ahs-PAHS kay vah-tah-vuh-RUHN koh POOR-nuh-tuhk SVAHTCHH owr HUH-rah BHUH-rah ruh-KHAYN)",
+          "translation": "For environmental conservation, it is absolutely essential that all of us keep our surrounding atmosphere completely clean and green."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "संभावना = शायद + verb stem + ए/एं/ऊँ (शायद वह आए, शायद हम चलें)!"
+      ],
+      "culturalNotes": [
+        "विनम्रता और गैर-हठधर्मिता प्रकट करने के लिए 'हो सकता है कि मेरी बात ग़लत हो' जैसे संभावनार्थ वाक्य भारतीय संवाद में अत्यंत सम्मानित माने जाते हैं।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"फ़िल्म\":",
+          "prompt": "वाक्य «शायद रोहन आज हमारे घर ___» में संभावनार्थ क्रिया का शुद्ध रूप क्या होगा?",
           "options": [
-            "हम इस पाठ में इकाई 13.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («खेल» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («क्रिकेट» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («यात्रा» का अनुचित स्थान)"
+            "आए (Aaye - May come [subjunctive 3rd person singular])",
+            "आएगा (Definite future error)",
+            "आया था (Past tense error)",
+            "आ रहा है (Continuous fact error)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "'शायद' के साथ अन्य पुरुष एकवचन में संभावनार्थ रूप «आए» प्रयुक्त होता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"फ़िल्म\":",
+          "prompt": "वाक्य «ज़रूरी है कि हम सब मिलकर यह कठिन कार्य ___» में सही क्रिया रूप भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 13.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («क्रिकेट» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («यात्रा» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («खेल» का अशुद्ध रूप)"
+            "करें (Karein - Should/may do [subjunctive 1st person plural])",
+            "करेंगे (Definite future error)",
+            "किया था (Past error)",
+            "करते (Habitual error)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«ज़रूरी है कि हम... करें» में 'हम' के अनुसार बहुवचन संभावनार्थ «करें» शुद्ध है।"
         }
       ]
     },
@@ -5603,17 +5632,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"फ़िल्म\": Which sentence is completely correct?",
+          "prompt": "संभावना और इच्छा (Subjunctive Mood) का सर्वथा शुद्ध वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 13.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («यात्रा» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («खेल» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («क्रिकेट» से संबंधित)"
+            "मेरी दिली इच्छा है कि आप अपने जीवन के प्रत्येक लक्ष्य में अवश्य सफल हों। (It is my heartfelt wish that you certainly become successful in every goal of your life.)",
+            "मेरी इच्छा है कि आप सफल होंगे कल।",
+            "मेरी इच्छा है कि आप सफल हुए थे।",
+            "मेरी इच्छा है कि आप सफल होते हैं।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«मेरी इच्छा है कि आप... सफल हों» में संभावनार्थ क्रिया का आदर्श शिष्ट प्रयोग है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u13-l4": {
@@ -5621,53 +5651,62 @@
     "subject": "hindi",
     "unit": 13,
     "lessonNumber": 4,
-    "title": "संभावनार्थ और इच्छार्थक क्रियाएं (Subjunctive Mood) (Part 4)",
+    "title": "आशीर्वाद, अभिलाषा और शिष्ट अनुमति: संभावनार्थ का व्यावहारिक प्रयोग (Wishes, Blessings & Polite Permissions)",
     "level": "B1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 13.4) with authentic linguistic precision.",
+    "objective": "संभावनार्थ क्रिया का प्रयोग करके मंगलकामनाएं, पारंपरिक आशीर्वाद देना तथा शिष्टतापूर्वक अनुमति (Polite Permission) माँगने के वाक्य-विन्यास में निपुण होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "संभावनार्थ काल केवल संदेह व्यक्त करने के लिए ही नहीं, बल्कि भारतीय संस्कृति में **आशीर्वाद, शुभकामना और शिष्ट अनुमति** के लिए अनिवार्य रूप से प्रयुक्त होता है:\n\n1. **आशीर्वाद एवं मंगलकामनाएं (Blessings & Well-Wishes)**:\n   - *ईश्वर आपका कल्याण करे!* (May God bless you!)\n   - *आप दीर्घायु हों!* (May you live long!)\n   - *आपकी यात्रा मंगलमय हो!* (May your journey be auspicious!)\n   - *सदा सुखी रहो!* (May you stay always happy!)\n   - *सत्य की विजय हो!* (May truth triumph!)\n\n2. **शिष्ट अनुमति व विचार-विमर्श (Polite Permission & Deliberation)**:\n   - जब किसी से अनुमति या सहमति लेनी हो:\n     - *क्या मैं अंदर आऊँ?* (May I come in? — 'क्या मैं अंदर आऊँगा' नहीं);\n     - *क्या अब हम प्रस्थान करें?* (Shall we depart now?);\n     - *मैं आपके लिए क्या लाऊँ?* (What may I bring for you?);\n     - *क्या हम इस प्रस्ताव पर विचार करें?* (Shall we consider this proposal?)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 13.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 13."
+          "target": "सर्वशक्तिमान ईश्वर आपको इस नए और पुनीत कार्य में अपार सफलता, उत्तम स्वास्थ्य और दीर्घायु प्रदान करे!",
+          "reading": "sarvashaktimaan ishwar aapko is naye aur puneet kaary mein apaar safalta, uttam svaasthya aur deerghaayu pradaan kare! [sərʋəʃəkt̪ɪmaːn iːʃʋər aːpkoː ɪs nəjeː ɔːr pʊniːt̪ kaːrjə mẽː əpaːr səfəlt̪aː ʊt̪ːəm sʋaːst̪ʰjə ɔːr d̪iːrɡʱaːjʊ prəd̪aːn kəreː] (suhr-vuh-shuhk-tee-MAHN EESH-vuhr ahp-KOH ees nuh-YAY owr poo-NEET KAHR-yuh mayn uh-PAHR suh-fuhl-TAH, oot-TUHM svahs-THYUH owr deer-ghah-YOO pruh-DAHN KUH-ray)",
+          "translation": "May Almighty God grant you immense success, excellent health, and long life in this new and noble endeavor!"
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 13-4)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "क्या अब हम इस लंबी और गंभीर औपचारिक चर्चा को यहीं समाप्त करके दोपहर के सुरुचिपूर्ण भोजन के लिए चलें?",
+          "reading": "kya ab hum is lambi aur gambheer aupchaarik charcha ko yahin samaapt karke dopahar ke suruchipoorna bhojan ke liye chalein? [kjaː əb ɦəm ɪs ləmbiː ɔːr ɡəmbiːr ɔːptʃaːrɪk tʃərtʃaː koː jəɦĩː səmaːpt̪ kərkeː d̪oːpɛɦər keː sʊrʊtʃɪpuːrɳə bʱoːdʒən keː lɪjeː tʃəlẽː] (kyah uhb huhm ees LUHM-bee owr guhm-BHEER owp-chah-REEK chuhr-CHAH koh yuh-HEEN suh-MAHPT kuhr-kay doh-puh-huhr kay soo-roo-chee-POOR-nuh bhoy-JUHN kay lee-ay chuh-LAYN)",
+          "translation": "Shall we now conclude this long and serious formal discussion right here and proceed for the elegant afternoon lunch?"
+        },
+        {
+          "target": "आपके आगामी लंबे और कठिन विदेश प्रवास के सभी दिन अत्यंत सुखद, सुरक्षित और मंगलमय हों!",
+          "reading": "aapke aagaami lambe aur kathin videsh pravaas ke sabhi din atyant sukhad, surakshit aur mangalmay hon! [aːpkeː aːɡaːmiː ləmbeː ɔːr kəʈʰɪn ʋɪd̪eːʃ prəʋaːs keː səbʱiː d̪ɪn ət̪jən̪t̪ sʊkʰəd̪ sʊrəkʃɪt̪ ɔːr məŋɡəlməj hõː] (ahp-KAY ah-GAH-mee LUHM-bay owr KUH-theen vee-DAYSH pruh-VAHS kay SUH-bhee deen uht-YUHNT SOO-khuhd, soo-ruhk-SHEET owr muhng-guhl-MUHY hohn)",
+          "translation": "May all days of your upcoming long and challenging stay abroad be extremely pleasant, safe, and auspicious!"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "आशीर्वाद = ईश्वर कल्याण करे! अनुमति = क्या मैं आऊँ? दोनों में संभावनार्थ रूप!"
+      ],
+      "culturalNotes": [
+        "बड़ों का चरण स्पर्श करने पर 'दीर्घायु भव' या 'सदा सुखी रहो' और विदाई के समय 'यात्रा मंगलमय हो' भारतीय संस्कृति के स्थायी शिष्टाचार हैं।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"खेल\":",
+          "prompt": "शिष्टतापूर्वक अनुमति माँगने (Polite permission: May I come in?) के लिए शुद्ध वाक्य कौन-सा है?",
           "options": [
-            "हम इस पाठ में इकाई 13.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («क्रिकेट» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («यात्रा» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («सिनेमा» का अनुचित स्थान)"
+            "क्या मैं अंदर आऊँ? (Kya main andar aaoon? - May I come in? [polite subjunctive])",
+            "क्या मैं अंदर आऊँगा? (Definite future fact error)",
+            "मैं अंदर आया हूँ (Present perfect statement error)",
+            "मैं अंदर आ रहा था (Past continuous narrative error)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "अनुमति माँगने के लिए उत्तम पुरुष एकवचन संभावनार्थ «क्या मैं अंदर आऊँ?» शुद्ध है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"खेल\":",
+          "prompt": "पारंपरिक मंगलकामना «भगवान आपकी हर मनोकामना पूर्ण ___» में सही क्रिया रूप भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 13.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («यात्रा» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («सिनेमा» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («क्रिकेट» का अशुद्ध रूप)"
+            "करे (Kare - May God fulfill [subjunctive blessing])",
+            "करेगा (Future assertion error)",
+            "किया था (Past error)",
+            "कर रहा है (Continuous state error)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "आशीर्वाद और शुभकामना के लिए संभावनार्थ «करे» का प्रयोग होता है।"
         }
       ]
     },
@@ -5675,17 +5714,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"खेल\": Which sentence is completely correct?",
+          "prompt": "आशीर्वाद और शिष्ट अनुमति दोनों के शुद्ध संभावनार्थ समन्वय वाला वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 13.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («सिनेमा» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («क्रिकेट» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («यात्रा» से संबंधित)"
+            "ईश्वर आपका मार्ग प्रशस्त करे, क्या अब हम सब प्रस्थान करें? (May God make your path clear, shall we all depart now?)",
+            "ईश्वर आपका मार्ग प्रशस्त करेगा क्या हम प्रस्थान करेंगे?",
+            "ईश्वर ने मार्ग प्रशस्त किया था क्या हम चलें?",
+            "ईश्वर मार्ग प्रशस्त करता है हम चलते हैं।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«प्रशस्त करे» (आशीर्वाद) और «प्रस्थान करें» (शिष्ट अनुमति) दोनों संभावनार्थ रूप व्याकरणिक दृष्टि से सर्वथा शुद्ध हैं।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u13-l5": {
@@ -5693,53 +5733,62 @@
     "subject": "hindi",
     "unit": 13,
     "lessonNumber": 5,
-    "title": "संभावनार्थ और इच्छार्थक क्रियाएं (Subjunctive Mood) (Part 5)",
+    "title": "प्रेरणार्थक एवं संभावनार्थ संरचनाओं का समेकन व संश्लेषण (Synthesis of Causatives & Subjunctive Mood)",
     "level": "B1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 13.5) with authentic linguistic precision.",
+    "objective": "प्रेरणार्थक क्रियाओं (कराना/करवाना) और संभावनार्थ मनोभावों (ताकि, जिससे कि, यदि... तो) के संश्लिष्ट संयोजनों में उच्च स्तरीय वाक्य निर्माण क्षमता विकसित करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "जब प्रेरणार्थक क्रियाओं (Causatives) और संभावनार्थ रूपों (Subjunctive Mood) का एक साथ प्रयोग किया जाता है, तब उद्देश्यपरक (Purpose Clauses: ताकि / जिससे कि) और शर्तपरक (Conditionals) जटिल वाक्य बनते हैं:\n\n1. उद्देश्यपरक संरचनाएँ (Purpose Clauses with 'ताकि / जिससे कि'):\n   - सूत्र: **[मुख्य उपवाक्य (प्रेरणार्थक)] + ताकि / जिससे कि + [आश्रित उपवाक्य (संभावनार्थ)]**\n   - उदाहरण:\n     - *हम मैकेनिक से गाड़ी ठीक करवाएँ ताकि यात्रा में कोई बाधा न आए*;\n     - *अध्यापक छात्रों से अभ्यास करवाते हैं जिससे कि वे परीक्षा में सफल हों*।\n\n2. विनम्र प्रस्ताव एवं सशर्त अनुमति (Polite Proposals & Conditionals):\n   - *यदि आप कहें, तो मैं दर्ज़ी से आपकी पोशाक सिलवा दूँ* (If you say, I may have your dress stitched by the tailor);\n   - *हम चाहते हैं कि आप किसी विशेषज्ञ से यह काम करवाएँ* (We want that you get this work done by an expert)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 13.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 13."
+          "target": "हम चाहते हैं कि आप समय रहते किसी अनुभवी वास्तुकार से इस विशाल भवन का विस्तृत नक्शा बनवा लें ताकि निर्माण कार्य निर्बाध गति से चले।",
+          "reading": "hum chaahte hain ki aap samay rahte kisi anubhavi vaastukaar se is vishaal bhavan ka vistrit naksha banva lein taaki nirmaan kaary nirbaadh gati se chale. [ɦəm tʃaːɦt̪eː hɛ̃ː kɪ aːp səməj rəɦt̪eː kɪsiː ənʊbʱəʋiː ʋaːst̪ʊkaːr seː ɪs ʋɪʃaːl bʱəʋən kaː ʋɪst̪rɪt̪ nəkʃaː bənʋaː lẽː t̪aːkɪ nɪrmaːɳ kaːrjə nɪrbaːd̪ʱ ɡət̪ɪ seː tʃəleː] (huhm CHAHH-tay hy-n kee ahp SUH-muy RUH-h-tay kee-SEE uh-noobh-HUH-vee vahs-too-KAHR say ees vee-SHAHL BHUH-vuhn kah vees-TREE-t NUHK-shah buhn-VAH layn TAH-kee neer-MAHN KAHR-yuh neer-BAHDH GUH-tee say CHUH-lay)",
+          "translation": "We want that you get the detailed blueprint of this massive building prepared in time by an experienced architect so that the construction work may proceed without impediment."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 13-5)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "यदि आपकी कृपापूर्ण अनुमति हो, तो मैं आज ही कार्यालय के वरिष्ठ सहायक से सभी महत्वपूर्ण दस्तावेज़ विधिवत तैयार करवा दूँ।",
+          "reading": "yadi aapki kripaapoorna anumati ho, to main aaj hi kaaryaalay ke varishth sahaayak se sabhi mahatvapoorna dastaavez vidhivat taiyaar karva doon. [jəd̪ɪ aːpkiː krɪpaːpuːrɳə ənʊmət̪ɪ hoː t̪oː mɛː̃ aːdʒ ɦiː kaːrjaːləj keː ʋərɪʂʈʰ səɦaːjək seː səbʱiː məɦət̪ʋəpuːrɳə d̪əst̪aːʋeːz ʋɪd̪ʱɪʋət̪ t̪ɛːjaːr kərʋaː d̪uː̃] (YUD-ee ahp-KEE kree-pah-POOR-nuh uh-noo-MUH-tee hoh, toh my ahj hee kahr-YAH-luy kay vuh-REESH-th suh-HAH-yuhk say SUH-bhee muh-huht-vuh-POOR-nuh duhs-tah-VAYZ vee-dhee-VUHT ty-YAHR kuhr-VAH doon)",
+          "translation": "If there be your gracious permission, then I may have all important documents duly prepared today itself through the senior assistant of the office."
+        },
+        {
+          "target": "माता-पिता की हार्दिक अभिलाषा है कि उनका होनहार पुत्र जीवन के हर क्षेत्र में खूब परिश्रम करे और कुल का नाम रोशन करे।",
+          "reading": "maata-pita ki haardik abhilaasha hai ki unka honhaar putr jeevan ke har kshetr mein khoob parishram kare aur kul ka naam roshan kare. [maːt̪aː pɪt̪aː kiː ɦaːrd̪ɪk əbʱɪlaːʃaː hɛː kɪ ʊnkaː hoːnɦaːr pʊt̪r dʒiːʋən keː ɦər kʃeːt̪r mẽː kʰuːb pərɪʃrəm kəreː ɔːr kʊl kaː naːm roːʃən kəreː] (MAH-tah pee-TAH kee HAHR-deek uh-bhee-LAH-shah hy kee OON-kah hohn-HAHR pootr JEE-vuhn kay huhr KSHAY-truh mayn khoob puh-REESH-ruhm KUH-ray owr kool kah nahm ROH-shuhn KUH-ray)",
+          "translation": "It is the heartfelt aspiration of the parents that their promising son may work very hard in every sphere of life and bring honor to the family name."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "करवाना (Causative) + ताकि ... चले (Subjunctive)! उद्देश्य व प्रेरणा का आदर्श संगम!"
+      ],
+      "culturalNotes": [
+        "पारिवारिक और संस्थागत निर्णयों में 'हम चाहते हैं कि आप करवा लें ताकि...' की भाषा सम्मान, परामर्श और सहयोग का उच्च मानदंड मानी जाती है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"क्रिकेट\":",
+          "prompt": "उद्देश्यपरक वाक्य «मैं दर्ज़ी से कपड़े सिलवाऊँगा ताकि समय पर ___» में सही संभावनार्थ रूप क्या है?",
           "options": [
-            "हम इस पाठ में इकाई 13.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («यात्रा» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («सिनेमा» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («नृत्य» का अनुचित स्थान)"
+            "मिल जाएँ (Mil jaayein - May be received [subjunctive plural for clothes])",
+            "मिलेंगे (Definite future assertion)",
+            "मिले थे (Past error)",
+            "मिलते हैं (Habitual error)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "'ताकि' (so that) के बाद उद्देश्य उपवाक्य में संभावनार्थ «मिल जाएँ» आता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"क्रिकेट\":",
+          "prompt": "वाक्य «यदि आप चाहें, तो मैं माली से बगीचे की सफ़ाई ___» में शुद्ध क्रिया रूप भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 13.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («सिनेमा» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («नृत्य» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («यात्रा» का अशुद्ध रूप)"
+            "करवा दूँ (Karva doon - May have done through the gardener [causative subjunctive])",
+            "करूँगा निश्चित (Definite future error)",
+            "करवाया था (Past error)",
+            "करता हूँ (Present simple error)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "सशर्त प्रस्ताव में मध्यस्थ 'माली' के साथ द्वितीय प्रेरणार्थक संभावनार्थ «करवा दूँ» शुद्ध है।"
         }
       ]
     },
@@ -5747,17 +5796,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"क्रिकेट\": Which sentence is completely correct?",
+          "prompt": "प्रेरणार्थक और संभावनार्थ के संश्लिष्ट समन्वय वाला सर्वथा शुद्ध वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 13.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («नृत्य» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («यात्रा» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («सिनेमा» से संबंधित)"
+            "हम प्रबंधक से नई व्यवस्था लागू करवाएँ ताकि सभी कर्मचारियों को सुविधा हो। (Let us have the new system implemented by the manager so that all employees may have convenience.)",
+            "हम प्रबंधक को नई व्यवस्था लागू करेंगे ताकि कर्मचारियों को सुविधा होगी।",
+            "हम प्रबंधक से व्यवस्था लागू किया था सुविधा हुई थी।",
+            "हम प्रबंधक में व्यवस्था लागू करवाते हैं सुविधा होती है।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«प्रबंधक से लागू करवाएँ» (मध्यस्थ प्रेरणार्थक संभावनार्थ) और «ताकि... सुविधा हो» (उद्देश्य संभावनार्थ) का संश्लेषण व्याकरणिक दृष्टि से उत्कृष्ट है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u14-l1": {
