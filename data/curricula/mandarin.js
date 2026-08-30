@@ -12206,85 +12206,89 @@
     "subject": "mandarin",
     "unit": 21,
     "lessonNumber": 1,
-    "title": "关联词与复杂复句结构 (Complex Sentences & Connectives) (第1讲)",
+    "title": "递进复句（不仅/不但......而且/并且/甚至......，尚且......何况......）与主语同异位置铁律 (Progressive Complex Sentences & Subject Position Rules)",
     "level": "B2",
-    "objective": "全面掌握与熟练运用本课核心内容：递进、转折、因果、假设、条件及让步复句的高级关联词搭配（不仅...而且...、虽然...但是...）。 (第1部分)。",
+    "objective": "系统掌握现代汉语递进复句关联词体系（不仅/不但...而且/甚至...、尚且...何况...、不仅不...反而...），彻底掌握前后分句「主语相同时主语在词前，主语不同时词在主语前」的核心句法语序铁律。",
     "presentation": {
-      "explanation": "",
+      "explanation": "递进复句用于表达后一分句在范围、程度、数量或深度上比前一分句更进一层的逻辑关联：\n\n一、递进复句核心关联词体系：\n1.「不但 / 不仅 / 不光......而且 / 并且 / 还 / 甚至......」【层层递进】：\n- 范例：他不仅在算法理论上有重大建树，而且在工程实践中也取得了卓越突破。\n2.「尚且......何况 / 更不用说......」【反衬递进】：\n- 范例：资深专家尚且需要反复推演，何况毫无基础的初学者呢？\n3.「不仅不 / 不但没......反而 / 反倒......」【反向递进】：\n- 范例：遭遇困难之后，他不仅没有灰心丧气，反而激起了更强的攻坚斗志。\n\n二、核心语法铁律：【前后分句主语同异与关联词位置规则】！\n- 这是现代汉语中高级写作与语法测试中最核心、最严格的语序铁律：\n1.【前后分句主语相同时】：主语**必须置于关联词「不仅/不但」的前面**！\n- 句法框架：【主语 + 不仅......而且 + 谓语2......】。\n- 规范范例：**张教授**不仅精通量子物理，而且熟练掌握三门外语。\n- 严禁病句：*不仅张教授精通量子物理，而且熟练掌握三门外语（主语相同却将不仅置于句首，造成主语残缺病态）。\n2.【前后分句主语不同时】：关联词「不仅/不但」**必须置于第一个主语的前面**！\n- 句法框架：【不仅 + 主语1......，而且 + 主语2......】。\n- 规范范例：**不仅青年学者**全力以赴投入攻坚，**而且老院士们**也亲自到场指导。\n- 严禁病句：*青年学者不仅全力投入，而且老院士们也指导（主语不同却将青年学者放在不仅前，结构彻底断裂）。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「关联词与复杂复句结构 (Complex Sentences & Connectives)」的核心语法法则与应用范例 (21.1.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '关联词与复杂复句结构 (Complex Sentences & Connectives)' in simple terms to students at the academic seminar."
+          "target": "这位青年科学家不仅精通前沿的高性能算法开发，而且熟练掌握三门联合国官方工作语言。(Zhè wèi qīngnián kēxuéjiā bùjǐn jīngtōng qiányán de gāoxìngnéng suànfǎ kāifā, érqiě shúliàn zhǎngwò sān mén Liánhéguó guānfāng gōngzuò yǔyán.)",
+          "reading": "[ʈ͡ʂɤ˥˩ weɪ̯˥˩ t͡ɕʰiŋ˥.njɛn˧˥ kʰɤ˥.ɕɥɛ˧˥.t͡ɕja˥ pu˥.t͡ɕin˨˩˦ t͡ɕiŋ˥.tʰʊŋ˥ t͡ɕʰjɛn˧˥.jan˧˥ tɤ kaʊ̯˥.ɕiŋ˥˩.nɤŋ˧˥ swan˥˩.fa˨˩˦ kʰaɪ̯˥.fa˥, aɚ˥˩.t͡ɕʰjɛ˨˩˦ ʂu˧˥.ljɛn˥˩ ʈ͡ʂɑŋ˨˩.wɔ˥˩ san˥ mən˧˥ ljɛn˧˥.xɤ˧˥.kwɔ˧˥ kwan˥.fɑŋ˥ kʊŋ˥.t͡swoʊ̯˥˩ y˨˩.jan˧˥] (Zhè wèi qīng-nián kē-xué-jiā bù-jǐn jīng-tōng qián-yán de gāo-xìng-néng suàn-fǎ kāi-fā, ér-qiě shú-liàn zhǎng-wò sān mén Lián-hé-guó guān-fāng gōng-zuò yǔ-yán.)",
+          "translation": "This young scientist not only is proficient in cutting-edge high-performance algorithm development, but also masterfully commands three United Nations official working languages."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (21.1.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "不仅重点科研攻关团队全力以赴投入研发，而且全校各学科带头人也纷纷提供了全方位的技术支持。(Bùjǐn zhòngdiǎn kēyán gōngjiān tuánduì quánlì-yǐfù tóurù yánfā, érqiě quán xiào gè xuékē dàitóurén yě fēnfēn tígōng le quánfāngwèi de jìshù zhīchí.)",
+          "reading": "[pu˥.t͡ɕin˨˩˦ ʈ͡ʂʊŋ˥˩.tjɛn˨˩˦ kʰɤ˥.jan˧˥ kʊŋ˥.t͡ɕjɛn˥ tʰwan˧˥.tweɪ̯˥˩ t͡ɕʰyɛn˧˥.li˥˩.i˨˩.fu˥˩ tʰoʊ̯˧˥.ʐu˥˩ jan˧˥.fa˥, aɚ˥˩.t͡ɕʰjɛ˨˩˦ t͡ɕʰyɛn˧˥ ɕjaʊ̯˥˩ kɤ˥˩ ɕɥɛ˧˥.kʰɤ˥ taɪ̯˥˩.tʰoʊ̯˧˥.ʐən˧˥ jɛ˨˩˦ fən˥.fən˥ tʰi˧˥.kʊŋ˥ lɤ t͡ɕʰyɛn˧˥.fɑŋ˥.weɪ̯˥˩ tɤ t͡ɕi˥˩.ʂu˥˩ ʈ͡ʂɨ˥.ʈ͡ʂʰɨ˧˥] (Bù-jǐn zhòng-diǎn kē-yán gōng-jiān tuán-duì quán-lì-yǐ-fù tóu-rù yán-fā, ér-qiě quán xiào gè xué-kē dài-tóu-rén yě fēn-fēn tí-gōng le quán-fāng-wèi de jì-shù zhī-chí.)",
+          "translation": "Not only did the key scientific tackling team throw themselves into R&D with all their might, but academic leaders from all disciplines across the university also provided all-around technical support one after another."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (21.1.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "面对这项极其深奥的算法难题，资深院士尚且需要数周时间反复推演，何况毫无经验的初学者呢？(Miànduì zhè xiàng jíqí shēn'ào de suànfǎ nántí, zīshēn yuànshì shàngqiě xūyào shù zhōu shíjiān fǎnfù tuīyǎn, hékuàng háowú jīngyàn de chūxuézhě ne?)",
+          "reading": "[mjɛn˥˩.tweɪ̯˥˩ ʈ͡ʂɤ˥˩ ɕjaŋ˥˩ t͡ɕi˧˥.t͡ɕʰi˧˥ ʂən˥.aʊ̯˥˩ tɤ swan˥˩.fa˨˩˦ nan˧˥.tʰi˧˥, t͡sɨ˥.ʂən˥ jɥɛn˥˩.ʂɨ˥˩ ʂɑŋ˥˩.t͡ɕʰjɛ˨˩˦ ɕy˥.jaʊ̯˥˩ ʂu˥˩ ʈ͡ʂoʊ̯˥ ʂɨ˧˥.t͡ɕjɛn˥ fan˨˩.fu˥˩ tʰweɪ̯˥.jan˨˩˦, xɤ˧˥.kʰwɑŋ˥˩ xaʊ̯˧˥.u˧˥ t͡ɕiŋ˥.jɛn˥˩ tɤ t͡ʂʰu˥.ɕɥɛ˧˥.ʈ͡ʂɤ˨˩˦ nɤ] (Miàn-duì zhè xiàng jí-qí shēn-'ào de suàn-fǎ nán-tí, zī-shēn yuàn-shì shàng-qiě xū-yào shù zhōu shí-jiān fǎn-fù tuī-yǎn, hé-kuàng háo-wú jīng-yàn de chū-xué-zhě ne?)",
+          "translation": "Facing this extremely abstruse algorithm problem, even veteran academicians require several weeks of repeated deduction, let alone beginners without any experience?"
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (21.1.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "遭遇重重质疑之后，他不仅没有气馁妥协，反而越挫越勇，更加坚定地投入到了后续的试验攻关中。(Zāoyù chóngchóng zhìyí zhīhòu, tā bùjǐn méiyǒu qìněi tuǒxié, fǎn'ér yuècuò-yuèyǒng, gèngjiā jiāndìng de tóurù le hòuxù de shìyàn gōngjiān zhōng.)",
+          "reading": "[t͡saʊ̯˥.y˥˩ ʈ͡ʂʰʊŋ˧˥.ʈ͡ʂʰʊŋ˧˥ ʈ͡ʂɨ˥˩.i˧˥ ʈ͡ʂɨ˥.xoʊ̯˥˩, tʰa˥ pu˥.t͡ɕin˨˩˦ meɪ̯˧˥.joʊ̯˨˩˦ t͡ɕʰi˥˩.neɪ̯˨˩˦ tʰwɔ˨˩.ɕjɛ˧˥, fan˨˩.aɚ˧˥ jɥɛ˥˩.t͡sʰwɔ˥˩.jɥɛ˥˩.jʊŋ˨˩˦, kɤŋ˥˩.t͡ɕja˥ t͡ɕjɛn˥.tiŋ˥˩ tɤ tʰoʊ̯˧˥.ʐu˥˩ lɤ xoʊ̯˥˩.ɕy˥˩ tɤ ʂɨ˧˥.jɛn˥˩ kʊŋ˥.t͡ɕjɛn˥ ʈ͡ʂʊŋ˥] (Zāo-yù chóng-chóng zhì-yí zhī-hòu, tā bù-jǐn méi-yǒu qì-něi tuǒ-xié, fǎn-'ér yuè-cuò-yuè-yǒng, gèng-jiā jiān-dìng de tóu-rù le hòu-xù de shì-yàn gōng-jiān zhōng.)",
+          "translation": "After encountering multiple skepticisms, not only did he not lose heart and compromise, but on the contrary the more setbacks he suffered the braver he became, throwing himself into subsequent experimental tackling even more firmly."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "前后主同主在先，前后主异词在前；不仅而且递进显，尚且何况更超然！"
+      ],
+      "culturalNotes": [
+        "递进复句是汉语逻辑修辞的基石。在学术论文、时政论述与演讲辩论中，严谨的主语同异关联词语序能够赋予论证无懈可击的力量感与严密性。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「关联词与复杂复句结构 (Complex Sentences & Connectives)」（第1讲）的标准汉语规范？",
+          "prompt": "在递进复句中，当两个分句的主语完全相同时，关联词「不仅 / 不但」与主语的正确语序是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「关联词与复杂复句结构 (Complex Sentences & Connectives)」的核心语法法则与应用范例 (21.1.1)。",
-            "存在语序混乱且虚词误用的病句选项 (21.1.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (21.1.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (21.1.w3)"
+            "主语必须置于「不仅 / 不但」的前面 (Subject precedes '不仅' when subjects are identical)",
+            "「不仅 / 不但」必须置于主语前面",
+            "主语必须置于句末",
+            "主语可以随意放置"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "主语相同时，主语必须置于关联词前（如：李教授不仅精通理论，而且善于实践）。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "当两个分句的主语不同时（如主语1为学生，主语2为老师），关联词「不仅」的正确位置是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "必须置于第一个主语的前面：不仅学生......而且老师...... (不仅 precedes Subject 1 when subjects differ)",
+            "必须置于第一个主语的后面",
+            "必须置于第二个主语的后面",
+            "必须置于句末"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "主语不同时，关联词必须置于第一个主语前面，统领全句分工。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「关联词与复杂复句结构 (Complex Sentences & Connectives)」的正式语境下，最准确得体的表达是哪一项？（第21.1题）",
+          "prompt": "下列哪一个递进复句犯了「主语相同时错误将不仅置于主语前」的语法病句？",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (21.1.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (21.1.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (21.1.x2)",
-            "量词与名词修饰搭配错误的病句选项 (21.1.x3)"
+            "*不仅张研究员发表了多篇顶刊，而且获得了国家青年科技奖。(Incorrect: '不仅' incorrectly placed before subject when subjects identical)",
+            "张研究员不仅发表了多篇顶刊，而且获得了国家青年科技奖。",
+            "不仅张研究员获得了奖项，而且李工程师也获得了表彰。",
+            "张研究员不仅理论功底深厚，而且实践经验丰富。"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "前后分句主语都是「张研究员」，主语必须前置于「不仅」之前。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u21-l1）所要求的高阶语言表达？",
+          "prompt": "表达「高级专家尚且感到困难，更不用说普通初学者」时，最地道的反衬递进关联搭配是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (21.1.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (21.1.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (21.1.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (21.1.y3)"
+            "尚且......何况...... / 尚且......更不用说...... (Even X... let alone Y: 尚且...何况...)",
+            "虽然......但是......",
+            "因为......所以......",
+            "如果......就......"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「尚且......何况......」是汉语中表达高强度反衬递进的经典关联体系。"
         }
       ]
     },
@@ -12292,25 +12296,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「关联词与复杂复句结构 (Complex Sentences & Connectives)」的掌握程度，请选出表述完全正确的标准范句（测试 21-1）：",
+          "prompt": "请选出下列递进复句中主语位置、动宾搭配及逻辑递进关系完全合规的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (21.1.4)。",
-            "被动句式与处置句式混用导致的严重病句 (21.1.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (21.1.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (21.1.z3)"
+            "不仅核心攻关小组通宵达旦地全力攻坚，而且全院各科研实验室也协同参与了数据验证，使得该项目不仅如期完成了阶段性目标，而且取得了远超预期的原创性成果！(前一分句主语不同「不仅攻关小组...而且全院实验室...」，后一分句主语相同「项目不仅如期完成...而且取得成果」，全句语序精湛完美)",
+            "攻关小组不仅通宵攻坚，而且全院实验室协同。(主语不同却将小组放词前，语病严重)",
+            "不仅项目完成了目标，而且取得了成果。(主语相同却将不仅放句首，主语残缺)",
+            "尚且项目取得成果，何况小组。(关联词完全误用倒错)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语篇在主语不同与主语相同时准确切换了「不仅」的前后位置，完全符合现代汉语最高级语法规范。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u21-l1）的核心关键词（例如「关联词与」）：",
+          "prompt": "请输入表达反衬递进中「即使达到极高标准尚且如此」的核心两字古雅关联词（例如「」需要数周，拼音为 shàngqiě）：",
           "acceptedAnswers": [
-            "关联词与",
-            "关联词与复杂",
-            "关联词与复杂复句结构"
+            "尚且"
           ],
-          "explanation": "正确的核心关键词为「关联词与」。"
+          "explanation": "词语「尚且」是现代汉语中用于反衬递进句前一分句的核心书面语关联词。"
         }
       ],
       "passThreshold": 0.8
@@ -12321,85 +12323,89 @@
     "subject": "mandarin",
     "unit": 21,
     "lessonNumber": 2,
-    "title": "关联词与复杂复句结构 (Complex Sentences & Connectives) (第2讲)",
+    "title": "转折复句（虽然......但是......，固然......然而/不过/却......）与轻重转折辨析 (Adversative Complex Sentences & Register Nuance)",
     "level": "B2",
-    "objective": "全面掌握与熟练运用本课核心内容：递进、转折、因果、假设、条件及让步复句的高级关联词搭配（不仅...而且...、虽然...但是...）。 (第2部分)。",
+    "objective": "系统掌握现代汉语转折复句多层级关联体系（虽然...但是...、固然...然而...、...不过/只是...、...却/反倒...），熟练运用「先肯定再转折」的辩证说理语用策略。",
     "presentation": {
-      "explanation": "",
+      "explanation": "转折复句用于表达后一分句与前一分句在逻辑语义上存在对立、转折、让步或修正补充的关系：\n\n一、转折复句的多层次关联词体系：\n1.【标准强转折】：虽然 / 尽管 / 虽说......但是 / 可是 / 但 / 然而......\n- 范例：虽然探索过程充满未知与曲折，但是全体研究人员从未动摇过必胜的信念。\n2.【先肯定让步再重大转折】：固然 (gùrán)......然而 / 但是 / 可是......\n- 语义机理：前一分句先充分承认并肯定某种事实或优势（固然），后一分句再笔锋一转提出更为根本或关键的深层考量（然而）。\n- 范例：引进外国技术**固然**能迅速填补短板，**然而**唯有自主创新才能真正把握科技命运。\n3.【轻微转折与修正补充】：......不过 / 只是......\n- 语义机理：不全盘否定前文，仅对局部细节进行轻微修正或补充说明。\n- 范例：这篇学术报告结构完整、数据详实，**不过**在个别图表的标注上还可以更加精细。\n4.【副词承接转折】：......却 (què) / 反倒......\n- 语序铁律：副词「却」必须置于后一分句的【主语之后、主要动词之前】（绝不能放在主语前）！\n- 范例：他虽然连续高强度工作了三天，精神状态**却**依然极其饱满活跃。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「关联词与复杂复句结构 (Complex Sentences & Connectives)」的核心语法法则与应用范例 (21.2.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '关联词与复杂复句结构 (Complex Sentences & Connectives)' in simple terms to students at the academic seminar."
+          "target": "虽然当前的研究条件极其艰苦，但是科研团队全体成员依然保持着昂扬的斗志与饱满的热情。(Suīrán dāngqián de yánjiū tiáojiàn jíqí jiānkǔ, dànshì kēyán tuánduì quántǐ chéngyuán yīrán bǎochí zhe ángyáng de dòuzhì yǔ bǎomǎn de rèqíng.)",
+          "reading": "[sweɪ̯˧˥.ʐan˧˥ tɑŋ˥.t͡ɕʰjɛn˧˥ tɤ jan˧˥.t͡ɕjoʊ̯ tʰjaʊ̯˧˥.t͡ɕjɛn˥˩ t͡ɕi˧˥.t͡ɕʰi˧˥ t͡ɕjɛn˥.kʰu˨˩˦, tan˥˩.ʂɨ˥˩ kʰɤ˥.jan˧˥ tʰwan˧˥.tweɪ̯˥˩ t͡ɕʰyɛn˧˥.tʰi˨˩˦ ʈ͡ʂʰəŋ˧˥.jɥɛn˧˥ i˥.ʐan˧˥ paʊ̯˨˩.ʈ͡ʂʰɨ˧˥ ʈ͡ʂɤ aŋ˧˥.jɑŋ˧˥ tɤ toʊ̯˥˩.ʈ͡ʂɨ˥˩ y˨˩˦ paʊ̯˨˩.man˨˩˦ tɤ ʐɤ˥˩.t͡ɕʰiŋ˧˥] (Suī-rán dāng-qián de yán-jiū tiáo-jiàn jí-qí jiān-kǔ, dàn-shì kē-yán tuán-duì quán-tǐ chéng-yuán yī-rán bǎo-chí zhe áng-yáng de dòu-zhì yǔ bǎo-mǎn de rè-qíng.)",
+          "translation": "Although current research conditions are extremely arduous, all members of the scientific research team still maintain high morale and full enthusiasm."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (21.2.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "依靠引进外国成熟技术固然能解燃眉之急，然而要想真正实现高水平科技自立自强，就必须坚定不移地走自主创新之路。(Yīkào yǐnjìn wàiguó chéngshú jìshù gùrán néng jiě ránméizhījī, rán'ér yào xiǎng zhēnzhèng shíxiàn gāoshuǐpíng kējì zìlì-zìqiáng, jiù bìxū jiāndìng-bùyí de zǒu zìzhǔ chuàngxīn zhī lù.)",
+          "reading": "[i˥.kʰaʊ̯˥˩ in˨˩.t͡ɕin˥˩ waɪ̯˥˩.kwɔ˧˥ ʈ͡ʂʰəŋ˧˥.ʂu˧˥ t͡ɕi˥˩.ʂu˥˩ ku˥˩.ʐan˧˥ nɤŋ˧˥ t͡ɕjɛ˨˩˦ ʐan˧˥.meɪ̯˧˥.ʈ͡ʂɨ˥.t͡ɕi˥, ʐan˧˥.aɚ˧˥ jaʊ̯˥˩ ɕjaŋ˨˩˦ ʈ͡ʂən˥.ʈ͡ʂəŋ˥˩ ʂɨ˧˥.ɕjɛn˥˩ kaʊ̯˥.ʂweɪ̯˨˩.pʰiŋ˧˥ kʰɤ˥.t͡ɕi˥˩ t͡sɨ˥˩.li˥˩.t͡sɨ˥˩.t͡ɕʰjaŋ˧˥, t͡ɕjoʊ̯˥˩ pi˥˩.ɕy˥ t͡ɕjɛn˥.tiŋ˥˩.pu˥.i˧˥ tɤ t͡soʊ̯˨˩˦ t͡sɨ˥˩.ʈ͡ʂu˨˩˦ t͡ʂʰwaŋ˥˩.ɕin˥ ʈ͡ʂɨ˥ lu˥˩] (Yī-kào yǐn-jìn wài-guó chéng-shú jì-shù gù-rán néng jiě rán-méi-zhī-jī, rán-'ér yào xiǎng zhēn-zhèng shí-xiàn gāo-shuǐ-píng kē-jì zì-lì-zì-qiáng, jiù bì-xū jiān-dìng-bù-yí de zǒu zì-zhǔ chuàng-xīn zhī lù.)",
+          "translation": "Relying on introducing foreign mature technologies can certainly relieve an urgent need, but if we want to truly achieve high-level scientific and technological self-reliance and strength, we must unswervingly take the road of independent innovation."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (21.2.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "这篇博士论文的论证逻辑极其严密，不过在部分参考文献的引用格式上还需要进一步规范统一。(Zhè piān bóshì lùnwén de lùnzhèng luójí jíqí yánmì, búguò zài bùfen cānkǎo wénxiàn de yǐnyòng géshì shang hái xūyào jìnyíbù guīfàn tǒngyī.)",
+          "reading": "[ʈ͡ʂɤ˥˩ pʰjɛn˥ pwo˧˥.ʂɨ˥˩ lwən˥˩.wən˧˥ tɤ lwen˥˩.ʈ͡ʂəŋ˥˩ lwɔ˧˥.t͡ɕi˧˥ t͡ɕi˧˥.t͡ɕʰi˧˥ jan˧˥.mi˥˩, pu˥.kwo˥˩ t͡saɪ̯˥˩ pu˥˩.fən t͡sʰan˥.kʰaʊ̯˨˩˦ wən˧˥.ɕjɛn˥˩ tɤ in˨˩˦.jʊŋ˥˩ kɤ˧˥.ʂɨ˥˩ ʂɑŋ xaɪ̯˧˥ ɕy˥.jaʊ̯˥˩ t͡ɕin˥˩.i˥.pu˥˩ kweɪ̯˥.fan˥˩ tʰʊŋ˨˩.i˥] (Zhè piān bó-shì lùn-wén de lùn-zhèng luó-jí jí-qí yán-mì, bú-guò zài bù-fen cān-kǎo wén-xiàn de yǐn-yòng gé-shì shang hái xū-yào jìn-yí-bù guī-fàn tǒng-yī.)",
+          "translation": "The argumentation logic of this doctoral dissertation is extremely rigorous, but in the citation format of some references it still needs further standardization and unification."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (21.2.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "面对突如其来的学术质疑，他非但没有慌乱失措，反而条理清晰地用详实的数据逐一进行了有力回应。(Miànduì tūrúqílái de xuéshù zhìyí, tā fēidàn méiyǒu huāngluàn shīcuò, fǎn'ér tiáolǐ qīngxī de yòng xiángshí de shùjù zhúyī jìnxíng le yǒulì huíyìng.)",
+          "reading": "[mjɛn˥˩.tweɪ̯˥˩ tʰu˥.ʐu˧˥.t͡ɕʰi˧˥.laɪ̯˧˥ tɤ ɕɥɛ˧˥.ʂu˥˩ ʈ͡ʂɨ˥˩.i˧˥, tʰa˥ feɪ̯˥.tan˥˩ meɪ̯˧˥.joʊ̯˨˩˦ xwaŋ˥.lwan˥˩ ʂɨ˥.t͡sʰwɔ˥˩, fan˨˩.aɚ˧˥ tʰjaʊ̯˧˥.li˨˩˦ t͡ɕʰiŋ˥.ɕi˥ tɤ jʊŋ˥˩ ɕjaŋ˧˥.ʂɨ˧˥ tɤ ʂu˥˩.t͡ɕy˥˩ ʈ͡ʂu˧˥.i˥ t͡ɕiŋ˥.ɕiŋ˧˥ lɤ joʊ̯˨˩.li˥˩ xweɪ̯˧˥.iŋ˥˩] (Miàn-duì tū-rú-qí-lái de xué-shù zhì-yí, tā fēi-dàn méi-yǒu huāng-luàn shī-cuò, fǎn-'ér tiáo-lǐ qīng-xī de yòng xiáng-shí de shù-jù zhú-yī jìn-xíng le yǒu-lì huí-yìng.)",
+          "translation": "Facing sudden academic skepticism, not only did he not become flustered, but on the contrary he responded powerfully one by one with detailed data in a well-organized manner."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "虽然但是转折清，固然然而显深情；不过只是轻微转，却在主后动词呈！"
+      ],
+      "culturalNotes": [
+        "「固然......然而......」生动体现了中国传统中庸辩证哲学。先以海纳百川之胸怀肯定客观事实的价值，再以高瞻远瞩之眼光指出长远发展之道。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「关联词与复杂复句结构 (Complex Sentences & Connectives)」（第2讲）的标准汉语规范？",
+          "prompt": "在辩证论证中，表达「先充分肯定某方案具有某种优势，然后笔锋一转提出更有分量的深层反思」时，最典雅的关联词搭配是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「关联词与复杂复句结构 (Complex Sentences & Connectives)」的核心语法法则与应用范例 (21.2.1)。",
-            "存在语序混乱且虚词误用的病句选项 (21.2.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (21.2.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (21.2.w3)"
+            "固然......然而 / 但是...... (Concessive adversative: 固然...然而...)",
+            "因为......所以......",
+            "不仅......而且......",
+            "只要......就......"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「固然......然而......」是先承认合理性再进行深层重大转折的经典辩证关联式。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "副词「却」在转折复句后一分句中的绝对位置是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "必须置于后一分句的主语之后、主要动词之前 (Must be placed AFTER subject and BEFORE verb)",
+            "必须置于后一分句的主语前面",
+            "必须置于前一分句的句首",
+            "必须置于全句末尾"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "副词「却」充当状语，语法位置必须置于主语后、动词前（如：他虽然很累，精神**却**很好）。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「关联词与复杂复句结构 (Complex Sentences & Connectives)」的正式语境下，最准确得体的表达是哪一项？（第21.2题）",
+          "prompt": "下列哪一个句子中的转折副词「却」放置在了错误的语法位置？",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (21.2.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (21.2.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (21.2.x2)",
-            "量词与名词修饰搭配错误的病句选项 (21.2.x3)"
+            "*虽然天色已晚，却学者们依然在激烈研讨。(Incorrect: '却' misplaced before subject 学者们)",
+            "虽然天色已晚，学者们却依然在激烈研讨。",
+            "虽然任务繁重，大家却信心百倍。",
+            "虽然条件艰苦，他却从未放弃。"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「却」绝不能放在主语「学者们」前面，应改为「学者们却依然在研讨」。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u21-l2）所要求的高阶语言表达？",
+          "prompt": "在学术评审中，表达「大体肯定成果，仅作局部细节补充修正」时，最得体的轻微转折词是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (21.2.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (21.2.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (21.2.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (21.2.y3)"
+            "不过 / 只是 (Mild transition / supplementary remark: 不过)",
+            "然而",
+            "但是",
+            "反倒"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「不过/只是」用于轻微转折与补充说明，语气委婉得体。"
         }
       ]
     },
@@ -12407,25 +12413,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「关联词与复杂复句结构 (Complex Sentences & Connectives)」的掌握程度，请选出表述完全正确的标准范句（测试 21-2）：",
+          "prompt": "请选出下列转折复句中辩证逻辑最周密、副词位置最精准、语体最典雅的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (21.2.4)。",
-            "被动句式与处置句式混用导致的严重病句 (21.2.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (21.2.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (21.2.z3)"
+            "引进成熟技术固然能够在短期内带来效益，然而从长远战略来看，我们却必须坚定不移地推进原创自主创新，唯有如此方能打破受制于人的被动局面。(固然让步、然而重大转折、却置于主语后动词前，辩证论述堪称典范)",
+            "引进技术固然好，却我们然而要自主创新。(关联词语序严重错乱堆叠)",
+            "虽然引进技术好，但是却我们要创新。(副词却位置错误且与但是冗余)",
+            "固然自主创新被技术引进。(句式严重残缺杂糅)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该句在「固然（承认短效）」与「然而（战略转折）」的配合上展现了高超的政论辩证逻辑，副词「却」位置完全合规。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u21-l2）的核心关键词（例如「关联词与」）：",
+          "prompt": "请输入表达先充分承认事实存在的两字古雅让步关联词（例如「」能够解燃眉之急，拼音为 gùrán）：",
           "acceptedAnswers": [
-            "关联词与",
-            "关联词与复杂",
-            "关联词与复杂复句结构"
+            "固然"
           ],
-          "explanation": "正确的核心关键词为「关联词与」。"
+          "explanation": "词语「固然」是现代汉语中用于承认既有事实、为后文转折做铺垫的核心书面语让步关联词。"
         }
       ],
       "passThreshold": 0.8
@@ -12436,85 +12440,89 @@
     "subject": "mandarin",
     "unit": 21,
     "lessonNumber": 3,
-    "title": "关联词与复杂复句结构 (Complex Sentences & Connectives) (第3讲)",
+    "title": "因果与推论复句（因为......所以......，既然......就......，之所以......是因为......） (Causal & Inferential Complex Sentences)",
     "level": "B2",
-    "objective": "全面掌握与熟练运用本课核心内容：递进、转折、因果、假设、条件及让步复句的高级关联词搭配（不仅...而且...、虽然...但是...）。 (第3部分)。",
+    "objective": "系统掌握现代汉语因果与推论复句四大经典范式（说明因果、推论因果既然就、倒装强调之所以是因为、书面因果从而/以致），熟练运用于高阶学术与论说文写作。",
     "presentation": {
-      "explanation": "",
+      "explanation": "因果与推论复句用于阐明事件的前因后果、由已知前提推导必然结论，或倒装强调深层原因：\n\n一、因果与推论复句四大经典构型：\n1.【说明因果（前因后果式）】：因为 / 由于......所以 / 因此 / 因而......\n- 范例：因为科研方案论证严密详实，所以整个项目推进过程极其顺利。\n2.【推论因果（已知前提推导行动）】：既然 (jìrán)......就 / 便 / 那就......\n- 语义机理：根据前一分句已经成立的既定事实或公认前提，在后一分句推导出必然结论或应采取的决断行动。\n- 范例：**既然**实验方案已经全票通过，我们**就**要立即组织全员全力推进施工。\n3.【倒装强调因果（先果后因探究式）】：......之所以 (zhī suǒyǐ)......是因为 (shì yīnwèi)......\n- 语义机理：前一分句先亮出引人瞩目的结果事实（之所以），后一分句重点揭示其深层内在根源（是因为）。\n- 范例：这项技术**之所以**能够领先全球，**是因为**团队默默深耕了整整二十年。\n4.【书面衔接因果】：由于......从而 / 进而 / 以致......\n-「从而 / 进而」：引出积极的推进性成果（如：搭建了平台，**从而**加速了成果转化）。\n-「以致 (yǐzhì)」：引出不良的消极后果（如：参数校准不严，**以致**后续数据产生了微小偏差）。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「关联词与复杂复句结构 (Complex Sentences & Connectives)」的核心语法法则与应用范例 (21.3.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '关联词与复杂复句结构 (Complex Sentences & Connectives)' in simple terms to students at the academic seminar."
+          "target": "这项颠覆性量子芯片技术之所以能打破国外长期封锁，是因为科研团队进行了长达十年的潜心自主攻关。(Zhè xiàng diānfùxìng liàngzǐ xīnpiàn jìshù zhī suǒyǐ néng dǎpò guówài chángqī fēngsuǒ, shì yīnwèi kēyán tuánduì jìnxíng le cháng dá shí nián de qiánxīn zìzhǔ gōngjiān.)",
+          "reading": "[ʈ͡ʂɤ˥˩ ɕjaŋ˥˩ tjɛn˥.fu˥˩.ɕiŋ˥˩ ljaŋ˥˩.t͡sɨ˨˩˦ ɕin˥.pʰjɛn˥˩ t͡ɕi˥˩.ʂu˥˩ ʈ͡ʂɨ˥ swɔ˨˩˦.i˨˩˦ nɤŋ˧˥ ta˨˩˦.pʰwɔ˥˩ kwo˧˥.waɪ̯˥˩ ʈ͡ʂʰɑŋ˧˥.t͡ɕʰi˥ fəŋ˥.swɔ˨˩˦, ʂɨ˥˩ in˥.weɪ̯˥˩ kʰɤ˥.jan˧˥ tʰwan˧˥.tweɪ̯˥˩ t͡ɕiŋ˥.ɕiŋ˧˥ lɤ ʈ͡ʂʰɑŋ˧˥ ta˧˥ ʂɨ˧˥ njɛn˧˥ tɤ t͡ɕʰjɛn˧˥.ɕin˥ t͡sɨ˥˩.ʈ͡ʂu˨˩˦ kʊŋ˥.t͡ɕjɛn˥] (Zhè xiàng diān-fù-xìng liàng-zǐ xīn-piàn jì-shù zhī suǒ-yǐ néng dǎ-pò guó-wài cháng-qī fēng-suǒ, shì yīn-wèi kē-yán tuán-duì jìn-xíng le cháng dá shí nián de qián-xīn zì-zhǔ gōng-jiān.)",
+          "translation": "The reason why this subversive quantum chip technology could break the long-term foreign blockade is that the scientific research team conducted dedicated independent tackling for as long as ten years."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (21.3.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "既然实验方案已经通过了国家专家评审委员会的一致审定，我们就要立即全力以赴推进工程建设。(Jìrán shíyàn fāng'àn yǐjīng tōngguò le guójiā zhuānjiā píngshěn wěiyuánhuì de yízhì shěndìng, wǒmen jiù yào lìkè quánlì-yǐfù tuījìn gōngchéng jiànshè.)",
+          "reading": "[t͡ɕi˥˩.ʐan˧˥ ʂɨ˧˥.jɛn˥˩ fɑŋ˥.an˥˩ i˨˩˦.t͡ɕiŋ˥ tʰʊŋ˥.kwo˥˩ lɤ kwo˧˥.t͡ɕja˥ ʈ͡ʂwan˥.t͡ɕja˥ pʰiŋ˧˥.ʂən˨˩˦ weɪ̯˨˩.jɥɛn˧˥.xweɪ̯˥˩ tɤ i˥.ʈ͡ʂɨ˥˩ ʂən˨˩.tiŋ˥˩, wɔ˨˩.mən t͡ɕjoʊ̯˥˩ jaʊ̯˥˩ li˥˩.kʰɤ˥˩ t͡ɕʰyɛn˧˥.li˥˩.i˨˩.fu˥˩ tʰweɪ̯˥.t͡ɕin˥˩ kʊŋ˥.ʈ͡ʂʰəŋ˧˥ t͡ɕjɛn˥˩.ʂɤ˥˩] (Jì-rán shí-yàn fāng-'àn yǐ-jīng tōng-guò le guó-jiā zhuān-jiā píng-shěn wěi-yuán-huì de yí-zhì shěn-dìng, wǒ-men jiù yào lì-kè quán-lì-yǐ-fù tuī-jìn gōng-chéng jiàn-shè.)",
+          "translation": "Since the experimental plan has already passed the unanimous approval of the National Expert Review Committee, we should immediately go all out to advance engineering construction."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (21.3.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "青年科学家们通过建立多学科交叉融合平台，从而极大地加速了原创科研成果向产业应用的转化。(Qīngnián kēxuéjiā men tōngguò jiànlì duō-xuékē jiāochā rónghé píngtái, cóng'ér jídà de jiāsù le yuánchuàng kēyán chéngguǒ xiàng chǎnyè yìngyòng de zhuǎnhuà.)",
+          "reading": "[t͡ɕʰiŋ˥.njɛn˧˥ kʰɤ˥.ɕɥɛ˧˥.t͡ɕja˥ mən tʰʊŋ˥.kwo˥˩ t͡ɕjɛn˥˩.li˥˩ twɔ˥.ɕɥɛ˧˥.kʰɤ˥ t͡ɕjaʊ̯˥.ʈ͡ʂʰa˥ ʐʊŋ˧˥.xɤ˧˥ pʰiŋ˧˥.tʰaɪ̯˧˥, t͡sʰʊŋ˧˥.aɚ˧˥ t͡ɕi˧˥.ta˥˩ tɤ t͡ɕja˥.su˥˩ lɤ jɥan˧˥.t͡ʂʰwaŋ˥˩ kʰɤ˥.jan˧˥ ʈ͡ʂʰəŋ˧˥.kwo˨˩˦ ɕjaŋ˥˩ t͡ʂʰan˨˩.jɛ˥˩ in˥˩.jʊŋ˥˩ tɤ ʈ͡ʂwan˨˩.xwa˥˩] (Qīng-nián kē-xué-jiā men tōng-guò jiàn-lì duō-xué-kē jiāo-chā róng-hé píng-tái, cóng-'ér jí-dà de jiā-sù le yuán-chuàng kē-yán chéng-guǒ xiàng chǎn-yè yìng-yòng de zhuǎn-huà.)",
+          "translation": "By establishing an interdisciplinary cross-integration platform, young scientists thereby greatly accelerated the transformation of original scientific research achievements into industrial applications."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (21.3.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "由于前期没有严格校准仪器参数，以致后续收集到的实验数据出现了不可忽视的微小偏差。(Yóuyú qiánqī méiyǒu yángé jiàozhǔn yíqì cānshù, yǐzhì hòuxù shōují dào de shíyàn shùjù chūxiàn le bù kě hūshì de wēixiǎo piānchā.)",
+          "reading": "[joʊ̯˧˥.y˧˥ t͡ɕʰjɛn˧˥.t͡ɕʰi˥ meɪ̯˧˥.joʊ̯˨˩˦ jan˧˥.kɤ˧˥ t͡ɕjaʊ̯˥˩.ʈ͡ʂwən˨˩˦ i˧˥.t͡ɕʰi˥˩ t͡sʰan˥.ʂu˥˩, i˨˩˦.ʈ͡ʂɨ˥˩ xoʊ̯˥˩.ɕy˥˩ ʂoʊ̯˥.t͡ɕi˧˥ taʊ̯˥˩ tɤ ʂɨ˧˥.jɛn˥˩ ʂu˥˩.t͡ɕy˥˩ t͡ʂʰu˥.ɕjɛn˥˩ lɤ pu˥ kʰɤ˨˩.i˨˩˦ xu˥.ʂɨ˥˩ tɤ weɪ̯˥.ɕjaʊ̯˨˩˦ pʰjɛn˥.ʈ͡ʂʰa˥] (Yóu-yú qián-qī méi-yǒu yán-gé jiào-zhǔn yí-qì cān-shù, yǐ-zhì hòu-xù shōu-jí dào de shí-yàn shù-jù chū-xiàn le bù kě hū-shì de wēi-xiǎo piān-chā.)",
+          "translation": "Because the instrument parameters were not strictly calibrated in the early stage, as a result the experimental data collected subsequently exhibited minor deviations that cannot be overlooked."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "因为所以明因果，既然就从前提出；之所以因倒装妙，从而以致书面殊！"
+      ],
+      "culturalNotes": [
+        "「之所以......是因为......」构成了现代学术论著与政论演说中极具震撼力的设问修辞，能够引导听众从显性事实直击本质内核。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「关联词与复杂复句结构 (Complex Sentences & Connectives)」（第3讲）的标准汉语规范？",
+          "prompt": "在学术答辩与论说文中，表达「先亮出引人瞩目的结果，再集中探究剖析其深层内在根源」时，最经典精炼的句式是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「关联词与复杂复句结构 (Complex Sentences & Connectives)」的核心语法法则与应用范例 (21.3.1)。",
-            "存在语序混乱且虚词误用的病句选项 (21.3.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (21.3.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (21.3.w3)"
+            "......之所以......是因为...... (Inverted causal structure: 之所以...是因为...)",
+            "虽然......但是......",
+            "只要......就......",
+            "不仅......而且......"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「之所以......是因为......」是汉语倒装强调因果关系的标准规范句式。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在句子「既然大方向已经明确，我们就应该毫不迟疑地推进实施」中，「既然......就......」表达的逻辑关系是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "推论因果（根据已知既定前提推导出必然行动） (Inferential causal relation)",
+            "假设让步",
+            "递进关系",
+            "转折关系"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「既然......就......」是由已知既定事实推导合乎逻辑的行动结论。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「关联词与复杂复句结构 (Complex Sentences & Connectives)」的正式语境下，最准确得体的表达是哪一项？（第21.3题）",
+          "prompt": "书面语连词「从而」与「以致」的核心语义区别在于：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (21.3.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (21.3.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (21.3.x2)",
-            "量词与名词修饰搭配错误的病句选项 (21.3.x3)"
+            "「从而」引出积极顺承的推进成果；「以致」引出消极不良的后果 (从而 for positive progression / 以致 for negative consequence)",
+            "二者没有任何区别可以随意混用",
+            "「从而」只能用于否定句",
+            "「以致」只能用于疑问句"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「从而」表积极引申推进，「以致」表不良过失性后果。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u21-l3）所要求的高阶语言表达？",
+          "prompt": "下列哪一个句子中的因果倒装句「之所以......是因为......」运用完全正确？",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (21.3.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (21.3.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (21.3.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (21.3.y3)"
+            "实验之所以取得圆满成功，是因为全员付出了艰苦卓绝的努力。(Standard and elegant inverted causal sentence)",
+            "之所以实验取得成功，是因为付出了努力很多。(语序生涩)",
+            "实验因为取得成功，之所以大家努力。(关联词彻底错乱颠倒)",
+            "是因为实验成功，之所以大家努力。(因果逻辑完全崩溃)"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "主语置于之所以前（实验之所以...），后接是因为揭示原因，结构纯熟规范。"
         }
       ]
     },
@@ -12522,25 +12530,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「关联词与复杂复句结构 (Complex Sentences & Connectives)」的掌握程度，请选出表述完全正确的标准范句（测试 21-3）：",
+          "prompt": "请选出下列因果与推论复句中逻辑链条最严密、书面连词运用最纯熟的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (21.3.4)。",
-            "被动句式与处置句式混用导致的严重病句 (21.3.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (21.3.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (21.3.z3)"
+            "该项重大国家工程之所以能提前竣工并投入运营，是因为全体建设者发扬了精益求精的工匠精神，从而创造了世界基建史上的新奇迹！(之所以...是因为...倒装探因，从而引出积极辉煌成果，句法逻辑极度严密)",
+            "工程因为竣工提前，所以以致创造了奇迹。(以致误用于积极成果且关联词堆叠)",
+            "既然工程提前竣工，是因为工匠精神。(逻辑句式杂糅错乱)",
+            "从而工程之所以提前竣工。(结构破碎病态)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该句精准融合了「之所以......是因为......」倒装因果与「从而......」积极顺承引申，逻辑严密，气魄宏大。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u21-l3）的核心关键词（例如「关联词与」）：",
+          "prompt": "请输入用于已知前提推导行动的核心两字推论关联词（例如「」任务明确我们就全力干，拼音为 jìrán）：",
           "acceptedAnswers": [
-            "关联词与",
-            "关联词与复杂",
-            "关联词与复杂复句结构"
+            "既然"
           ],
-          "explanation": "正确的核心关键词为「关联词与」。"
+          "explanation": "词语「既然」是现代汉语中用于根据已知前提取出结论的核心推论关联词。"
         }
       ],
       "passThreshold": 0.8
@@ -12551,85 +12557,89 @@
     "subject": "mandarin",
     "unit": 21,
     "lessonNumber": 4,
-    "title": "关联词与复杂复句结构 (Complex Sentences & Connectives) (第4讲)",
+    "title": "假设与条件复句（如果/假如/要是......就......，只要......就......，只有......才......，无论/不管......都......） (Conditional & Hypothetical Complex Sentences)",
     "level": "B2",
-    "objective": "全面掌握与熟练运用本课核心内容：递进、转折、因果、假设、条件及让步复句的高级关联词搭配（不仅...而且...、虽然...但是...）。 (第4部分)。",
+    "objective": "系统掌握现代汉语充分条件（只要就）、必要条件（只有才）、无条件（无论都）及让步假设（哪怕/即使也）复句的句法语义对立与精密逻辑建构。",
     "presentation": {
-      "explanation": "",
+      "explanation": "假设与条件复句是现代汉语中用于设定前提假定、规定实现条件或排除外界限制的核心逻辑工具：\n\n一、条件与假设复句四大核心范式辨析：\n1.【充分条件复句（有之必然）】：只要 (zhǐyào)......就......\n- 语义机理：具备了前一分句提出的条件，就足以产生后一分句的结果（不排除存在其他替代条件）。\n- 范例：**只要**大家齐心协力，**就**一定能够按期攻克这个技术难关。\n2.【必要条件复句（无之必不然，唯一前提）】：只有 (zhǐyǒu)......才......\n- 语义机理：前一分句是后一分句结果得以实现的【唯一必由之路】，缺少此条件则绝不可能成功。\n- 范例：**只有**实现核心技术自主可控，**才**能从根本上筑牢国家发展的基石。\n3.【无条件复句（排除一切限制）】：无论 / 不管 / 任凭......都 / 也 / 总......\n- 语义机理：在任何假定或现实条件下，后一分句的结论或行动都坚定不移、绝不改变。\n- 范例：**无论**未来的科研道路面临多么严峻的挑战，我们**都**绝不轻言放弃。\n4.【让步假设复句（承认极端退一步）】：即使 / 哪怕 / 就算......也 / 还......\n- 语义机理：先退一步承认某种极其不利的极端假定，后一分句结果依然坚定成立。\n- 范例：**哪怕**需要耗费十年甚至数十年的光阴，科学家们**也**甘愿坚守冷板凳。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「关联词与复杂复句结构 (Complex Sentences & Connectives)」的核心语法法则与应用范例 (21.4.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '关联词与复杂复句结构 (Complex Sentences & Connectives)' in simple terms to students at the academic seminar."
+          "target": "只要我们始终秉持严谨求实的科学态度，就一定能够攻克前沿探索中的一切未知难关。(Zhǐyào wǒmen shǐzhōng bǐngchí yánjǐn-qiúshí de kēxué tàidu, jiù yídìng nénggòu gōngkè qiányán tànsuǒ zhōng de yíqiè wèizhī nánguān.)",
+          "reading": "[ʈ͡ʂɨ˨˩˦.jaʊ̯˥˩ wɔ˨˩.mən ʂɨ˨˩˦.ʈ͡ʂʊŋ˥ piŋ˨˩.ʈ͡ʂʰɨ˧˥ jan˧˥.t͡ɕin˨˩.t͡ɕʰjoʊ̯˧˥.ʂɨ˧˥ tɤ kʰɤ˥.ɕɥɛ˧˥ tʰaɪ̯˥˩.tu, t͡ɕjoʊ̯˥˩ i˧˥.tiŋ˥˩ nɤŋ˧˥.koʊ̯˥˩ kʊŋ˥.kʰɤ˥ t͡ɕʰjɛn˧˥.jan˧˥ tʰan˥.swɔ˨˩˦ ʈ͡ʂʊŋ˥ tɤ i˧˥.t͡ɕʰjɛ˥˩ weɪ̯˥˩.ʈ͡ʂɨ˥ nan˧˥.kwan˥] (Zhǐ-yào wǒ-men shǐ-zhōng bǐng-chí yán-jǐn-qiú-shí de kē-xué tài-du, jiù yí-dìng néng-gòu gōng-kè qián-yán tàn-suǒ zhōng de yí-qiè wèi-zhī nán-guān.)",
+          "translation": "As long as we consistently uphold a rigorous and realistic scientific attitude, we will definitely be able to overcome all unknown difficulties in frontier exploration."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (21.4.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "只有牢牢掌握了核心关键技术的自主知识产权，才能从根本上保障国家科技与产业链的安全。(Zhǐyǒu láoláo zhǎngwò le héxīn guānjiàn jìshù de zìzhǔ zhīshi chǎnquán, cái néng cóng gēnběn shang bǎozhàng guójiā kējì yǔ chǎnyèliàn de ānquán.)",
+          "reading": "[ʈ͡ʂɨ˨˩˦.joʊ̯˨˩˦ laʊ̯˧˥.laʊ̯ ʈ͡ʂɑŋ˨˩.wɔ˥˩ lɤ xɤ˧˥.ɕin˥ kwan˥.t͡ɕjɛn˥ t͡ɕi˥˩.ʂu˥˩ tɤ t͡sɨ˥˩.ʈ͡ʂu˨˩˦ ʈ͡ʂɨ˥.ʂɨ ʈ͡ʂʰan˨˩.t͡ɕʰyɛn˧˥, t͡sʰaɪ̯˧˥ nɤŋ˧˥ t͡sʰʊŋ˧˥ kən˥.pən˨˩ ʂɑŋ paʊ̯˨˩.ʈ͡ʂɑŋ˥˩ kwo˧˥.t͡ɕja˥ kʰɤ˥.t͡ɕi˥˩ y˨˩˦ t͡ʂʰan˨˩.jɛ˥˩.ljɛn˥˩ tɤ an˥.t͡ɕʰyɛn˧˥] (Zhǐ-yǒu láo-láo zhǎng-wò le hé-xīn guān-jiàn jì-shù de zì-zhǔ zhī-shi chǎn-quán, cái néng cóng gēn-běn shang bǎo-zhàng guó-jiā kē-jì yǔ chǎn-yè-liàn de ān-quán.)",
+          "translation": "Only by firmly grasping the independent intellectual property rights of core and key technologies can we fundamentally safeguard the security of the national science, technology, and industrial chains."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (21.4.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "无论前方的科研探索道路面临多么复杂的风险挑战，广大青年学者都绝不会退缩动摇。(Wúlùn qiánfāng de kēyán tànsuǒ dàolù miànlín duōme fùzá de fēngxiǎn tiǎozhàn, guǎngdà qīngnián xuézhě dōu jué bú huì tuìsuō dòngyáo.)",
+          "reading": "[u˧˥.lwən˥˩ t͡ɕʰjɛn˧˥.fɑŋ˥ tɤ kʰɤ˥.jan˧˥ tʰan˥.swɔ˨˩˦ ta˥˩.lu˥˩ mjɛn˥˩.lin˧˥ twɔ˥.mɤ fu˥˩.t͡sa˧˥ tɤ fəŋ˥.ɕjɛn˨˩˦ tʰjaʊ̯˨˩.ʈ͡ʂan˥˩, kwaŋ˨˩˦.ta˥˩ t͡ɕʰiŋ˥.njɛn˧˥ ɕɥɛ˧˥.ʈ͡ʂɤ˨˩˦ toʊ̯˥ t͡ɕyɛ˧˥ pu˥ xweɪ̯˥˩ tʰweɪ̯˥.swɔ˥ tʊŋ˥˩.jaʊ̯˧˥] (Wú-lùn qián-fāng de kē-yán tàn-suǒ dào-lù miàn-lín duō-me fù-zá de fēng-xiǎn tiǎo-zhàn, guǎng-dà qīng-nián xué-zhě dōu jué bú huì tuì-suō dòng-yáo.)",
+          "translation": "No matter how complex the risk challenges the scientific research exploration path ahead faces, the vast number of young scholars will never shrink back or waver."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (21.4.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "哪怕面对长达数年的失败与挫折，他也始终满怀信心地坚守在无人涉足的科学冷门领域。(Nǎpà miànduì cháng dá shù nián de shībài yǔ cuòzhé, tā yě shǐzhōng mǎnhuái-xìnxīn de jiānshǒu zài wú rén shèzú de kēxué lěngmén lǐngyù.)",
+          "reading": "[na˨˩˦.pʰa˥˩ mjɛn˥˩.tweɪ̯˥˩ ʈ͡ʂʰɑŋ˧˥ ta˧˥ ʂu˥˩ njɛn˧˥ tɤ ʂɨ˥.paɪ̯˥˩ y˨˩˦ t͡sʰwɔ˥˩.ʈ͡ʂɤ˧˥, tʰa˥ jɛ˨˩˦ ʂɨ˨˩˦.ʈ͡ʂʊŋ˥ man˨˩˦.xwaɪ̯˧˥.ɕin˥˩.ɕin˥ tɤ t͡ɕjɛn˥.ʂoʊ̯˨˩˦ t͡saɪ̯˥˩ u˧˥ ʐən˧˥ ʂɤ˥˩.t͡su˧˥ tɤ kʰɤ˥.ɕɥɛ˧˥ ləŋ˨˩.mən˧˥ liŋ˨˩.y˥˩] (Nǎ-pà miàn-duì cháng dá shù nián de shī-bài yǔ cuò-zhé, tā yě shǐ-zhōng mǎn-huái-xìn-xīn de jiān-shǒu zài wú rén shè-zú de kē-xué lěng-mén lǐng-yù.)",
+          "translation": "Even when facing failures and setbacks for as long as several years, he still faithfully held his post with full confidence in unpopular scientific fields that no one had set foot in."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "只要就为充分件，只有才为必由关；无论都除条件限，即使哪怕让步坚！"
+      ],
+      "culturalNotes": [
+        "「只有......才......」承载了求真务实、按客观规律办事的科学理性；而「哪怕......也......」则高度凝聚了中华民族矢志不渝、百折不回的精神品格。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「关联词与复杂复句结构 (Complex Sentences & Connectives)」（第4讲）的标准汉语规范？",
+          "prompt": "在表达「前一分句是后一分句结果得以实现的唯一不可或缺的必由之路」时，正确的关联词是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「关联词与复杂复句结构 (Complex Sentences & Connectives)」的核心语法法则与应用范例 (21.4.1)。",
-            "存在语序混乱且虚词误用的病句选项 (21.4.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (21.4.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (21.4.w3)"
+            "只有......才...... (Necessary condition: 只有...才...)",
+            "只要......就...... (Sufficient condition)",
+            "无论......都......",
+            "即使......也......"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「只有......才......」表达必要条件（唯一前提），非此不可。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在表达「排除任何外界环境与干扰的限制，结论都坚定不变」时，最准确的无条件关联词是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "无论 / 不管......都...... (Unconditional connective: 无论...都...)",
+            "只要......就......",
+            "只有......才......",
+            "既然......就......"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「无论/不管......都......」是表达排除一切条件限制的无条件复句。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「关联词与复杂复句结构 (Complex Sentences & Connectives)」的正式语境下，最准确得体的表达是哪一项？（第21.4题）",
+          "prompt": "下列哪一个句子犯了「混淆充分条件只要就与必要条件只有才」的搭配错误？",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (21.4.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (21.4.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (21.4.x2)",
-            "量词与名词修饰搭配错误的病句选项 (21.4.x3)"
+            "*只有我们团结一致，就能克服难关。(Incorrect: Mixing 只有 with 就)",
+            "只要我们团结一致，就能克服难关。",
+            "只有我们团结一致，才能克服难关。",
+            "无论面对什么难关，我们都能克服。"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「只有」必须与「才」搭配，绝不能与「就」混搭为病句「*只有......就......」。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u21-l4）所要求的高阶语言表达？",
+          "prompt": "表达「哪怕退一步承认最极端的困难假定，科研探索决心依然不变」的让步假设关联词是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (21.4.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (21.4.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (21.4.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (21.4.y3)"
+            "哪怕 / 即使......也...... (Concessive hypothetical: 哪怕...也...)",
+            "因为......所以......",
+            "不仅......而且......",
+            "既然......就......"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「哪怕/即使......也......」是表达极端让步假设的经典句式。"
         }
       ]
     },
@@ -12637,25 +12647,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「关联词与复杂复句结构 (Complex Sentences & Connectives)」的掌握程度，请选出表述完全正确的标准范句（测试 21-4）：",
+          "prompt": "请选出下列条件与假设复句中关联词搭配严丝合缝、逻辑层次最严整的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (21.4.4)。",
-            "被动句式与处置句式混用导致的严重病句 (21.4.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (21.4.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (21.4.z3)"
+            "在攀登世界科技高峰的壮阔征程中，无论前方遭遇多少荆棘险阻，只要我们坚定自立自强的必胜信念，就一定能攻克难关；并且只有牢牢掌握核心自主产权，才能真正赢得世界的由衷尊重！(无论...都/只要...就/只有...才，三大条件复句层层推进无懈可击)",
+            "只有我们坚定信念，就能赢得尊重无论困难。(关联词搭配混乱颠倒)",
+            "哪怕掌握核心技术，才赢得尊重。(哪怕与才严重错配)",
+            "只要掌握产权，才赢得尊重。(只要与才混淆病句)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语篇在无条件「无论...」、充分条件「只要...就...」与必要条件「只有...才...」的配合上逻辑严丝合缝，堪称典范。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u21-l4）的核心关键词（例如「关联词与」）：",
+          "prompt": "请输入表达必要条件（唯一前提必由之路）的核心两字关联词（例如「」自主创新才能强大，拼音为 zhǐyǒu）：",
           "acceptedAnswers": [
-            "关联词与",
-            "关联词与复杂",
-            "关联词与复杂复句结构"
+            "只有"
           ],
-          "explanation": "正确的核心关键词为「关联词与」。"
+          "explanation": "词语「只有」是现代汉语中用于引出必要条件的核心关联词（后与「才」搭配）。"
         }
       ],
       "passThreshold": 0.8
@@ -12666,85 +12674,89 @@
     "subject": "mandarin",
     "unit": 21,
     "lessonNumber": 5,
-    "title": "关联词与复杂复句结构 (Complex Sentences & Connectives) (第5讲)",
+    "title": "辩证论证、战略决策与时代蓝图多重复句综合叙事篇章 (Comprehensive Multi-Clause Dialectical & Strategic Narrative)",
     "level": "B2",
-    "objective": "全面掌握与熟练运用本课核心内容：递进、转折、因果、假设、条件及让步复句的高级关联词搭配（不仅...而且...、虽然...但是...）。 (第5部分)。",
+    "objective": "融会贯通递进、转折、因果、推论、条件、假设及让步全套复句逻辑系统，熟练撰写逻辑周密、气势磅礴的战略决策与科技宏伟蓝图综合论说语篇。",
     "presentation": {
-      "explanation": "",
+      "explanation": "将多重复句逻辑链条熔铸于宏大篇章中，是现代汉语书面语从高级应用向高阶学术思想阐发跃升的集大成体现：\n\n一、战略决策、辩证论证与时代蓝图叙事脉络：\n1. 宏观背景与辩证转折（转折复句）：引进外国成熟技术固然能够在短期内带来经济效益，然而要想从根本上打破受制于人的被动局面，就必须坚定不移地推进自主创新。\n2. 必由之路与战略定力（必要条件与充分条件）：只有把核心关键技术的命脉牢牢掌握在自己手中，才能真正掌握国家长远发展的主动权；只要全社会紧密协同，就一定能铸就科技辉煌。\n3. 深层根源与精神铸魂（倒装因果与让步假设）：我们的科技事业之所以能够实现历史性跨越，是因为无数科研工作者哪怕历经万难也始终满怀科技报国的赤子情怀。\n4. 时代重任与使命担当（递进复句）：新时代青年不仅肩负着勇攀世界科学高峰的科研使命，更承载着实现中华民族伟大复兴的崇高历史担当！\n\n二、全景式战略决策与科技强国综合政论范文赏析：\n- 站在人类新一轮科技革命与产业变革的历史交汇点上，我们面临着前所未有的战略机遇与严峻挑战。依靠引进外国现成技术固然能够节省短期研发成本，然而唯有高水平科技自立自强，才是强国建设的根本基石。我们的科研探索之所以能够不断打破封锁、实现从跟跑到领跑的历史性跨越，是因为一代代科学家哪怕面对最严酷的物质条件，也始终把祖国和人民的利益放在最高位置。实践深刻启示我们：无论前路面对多么复杂的国际风云变幻，只要我们保持战略定力，就一定能够战胜一切艰难险阻；并且只有牢牢掌握了核心关键技术，才能在全球竞争中立于不败之地。新时代的青年科技工作者不仅要勇做探索科学无人区的勇敢开拓者，更要成长为堪当民族复兴大任的时代栋梁！",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「关联词与复杂复句结构 (Complex Sentences & Connectives)」的核心语法法则与应用范例 (21.5.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '关联词与复杂复句结构 (Complex Sentences & Connectives)' in simple terms to students at the academic seminar."
+          "target": "虽然当今世界科技竞争日趋激烈，但是只要我们坚定自主创新的战略方向，就一定能立于不败之地。(Suīrán dāngjīn shìjiè kējì jìngzhēng rìqū jīliè, dànshì zhǐyào wǒmen jiāndìng zìzhǔ chuàngxīn de zhànlüè fāngxiàng, jiù yídìng néng lì yú búbài-zhīdì.)",
+          "reading": "[sweɪ̯˧˥.ʐan˧˥ tɑŋ˥.t͡ɕin˥ ʂɨ˥˩.t͡ɕjɛ˥˩ kʰɤ˥.t͡ɕi˥˩ t͡ɕiŋ˥˩.ʈ͡ʂəŋ˥ ʐɨ˥.t͡ɕʰy˥ t͡ɕi˥.ljɛ˥˩, tan˥˩.ʂɨ˥˩ ʈ͡ʂɨ˨˩˦.jaʊ̯˥˩ wɔ˨˩.mən t͡ɕjɛn˥.tiŋ˥˩ t͡sɨ˥˩.ʈ͡ʂu˨˩˦ t͡ʂʰwaŋ˥˩.ɕin˥ tɤ ʈ͡ʂan˥˩.lyɛ˥˩ fɑŋ˥.ɕjaŋ˥, t͡ɕjoʊ̯˥˩ i˧˥.tiŋ˥˩ nɤŋ˧˥ li˥˩ y˧˥ pu˥.paɪ̯˥˩ ʈ͡ʂɨ˥.ti˥˩] (Suī-rán dāng-jīn shì-jiè kē-jì jìng-zhēng rì-qū jī-liè, dàn-shì zhǐ-yào wǒ-men jiān-dìng zì-zhǔ chuàng-xīn de zhàn-lüè fāng-xiàng, jiù yí-dìng néng lì yú bú-bài-zhī-dì.)",
+          "translation": "Although today's global technological competition is becoming increasingly fierce, as long as we firmly adhere to the strategic direction of independent innovation, we will definitely be able to remain invincible."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (21.5.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "引进国外技术固然能够节省短期时间，然而只有实现高水平自立自强，才能真正掌握发展的主动权。(Yǐnjìn guówài jìshù gùrán nénggòu jiéshěng duǎnqī shíjiān, rán'ér zhǐyǒu shíxiàn gāoshuǐpíng zìlì-zìqiáng, cái néng zhēnzhèng zhǎngwò fāzhǎn de zhǔdòngquán.)",
+          "reading": "[in˨˩.t͡ɕin˥˩ kwo˧˥.waɪ̯˥˩ t͡ɕi˥˩.ʂu˥˩ ku˥˩.ʐan˧˥ nɤŋ˧˥.koʊ̯˥˩ t͡ɕjɛ˧˥.ʂəŋ˨˩˦ twan˨˩.t͡ɕʰi˥ ʂɨ˧˥.t͡ɕjɛn˥, ʐan˧˥.aɚ˧˥ ʈ͡ʂɨ˨˩˦.joʊ̯˨˩˦ ʂɨ˧˥.ɕjɛn˥˩ kaʊ̯˥.ʂweɪ̯˨˩.pʰiŋ˧˥ t͡sɨ˥˩.li˥˩.t͡sɨ˥˩.t͡ɕʰjaŋ˧˥, t͡sʰaɪ̯˧˥ nɤŋ˧˥ ʈ͡ʂən˥.ʈ͡ʂəŋ˥˩ ʈ͡ʂɑŋ˨˩.wɔ˥˩ fa˥.ʈ͡ʂan˨˩˦ tɤ ʈ͡ʂu˨˩.tʊŋ˥˩.t͡ɕʰyɛn˧˥] (Yǐn-jìn guó-wài jì-shù gù-rán néng-gòu jié-shěng duǎn-qī shí-jiān, rán-'ér zhǐ-yǒu shí-xiàn gāo-shuǐ-píng zì-lì-zì-qiáng, cái néng zhēn-zhèng zhǎng-wò fā-zhǎn de zhǔ-dòng-quán.)",
+          "translation": "Introducing foreign technology can certainly save short-term time, but only by achieving high-level self-reliance and strength can we truly hold the initiative of development."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (21.5.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "我们的科研事业之所以能够实现跨越式发展，是因为一代代科学家哪怕历经万难也始终心系祖国、甘于奉献。(Wǒmen de kēyán shìyè zhī suǒyǐ nénggòu shíxiàn kuàyuèshì fāzhǎn, shì yīnwèi yídàidài kēxuéjiā nǎpà lìjīng wànnán yě shǐzhōng xīn xì zǔguó, gānyú fèngxiàn.)",
+          "reading": "[wɔ˨˩.mən tɤ kʰɤ˥.jan˧˥ ʂɨ˥˩.jɛ˥˩ ʈ͡ʂɨ˥ swɔ˨˩˦.i˨˩˦ nɤŋ˧˥.koʊ̯˥˩ ʂɨ˧˥.ɕjɛn˥˩ kʰwa˥˩.jɥɛ˥˩.ʂɨ˥˩ fa˥.ʈ͡ʂan˨˩˦, ʂɨ˥˩ in˥.weɪ̯˥˩ i˥.taɪ̯˥˩.taɪ̯˥˩ kʰɤ˥.ɕɥɛ˧˥.t͡ɕja˥ na˨˩˦.pʰa˥˩ li˥˩.t͡ɕiŋ˥ wan˥˩.nan˧˥ jɛ˨˩˦ ʂɨ˨˩˦.ʈ͡ʂʊŋ˥ ɕin˥ ɕi˥˩ t͡su˨˩.kwɔ˧˥, kan˥.y˧˥ fəŋ˥˩.ɕjɛn˥˩] (Wǒ-men de kē-yán shì-yè zhī suǒ-yǐ néng-gòu shí-xiàn kuà-yuè-shì fā-zhǎn, shì yīn-wèi yí-dài-dài kē-xué-jiā nǎ-pà lì-jīng wàn-nán yě shǐ-zhōng xīn xì zǔ-guó, gān-yú fèng-xiàn.)",
+          "translation": "The reason why our scientific research undertaking could achieve leapfrog development is that generations of scientists, even when experiencing ten thousand hardships, always had their hearts tied to the motherland and were willing to dedicate themselves."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (21.5.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "青年一代不仅肩负着开拓前沿科学的时代重任，更承载着实现民族伟大复兴的崇高历史使命。(Qīngnián yídài bùjǐn jiānfù zhe kāituò qiányán kēxué de shídài zhòngrèn, gèng chéngzǎi zhe shíxiàn mínzú wěidà fùxīng de chónggāo lìshǐ shǐmìng.)",
+          "reading": "[t͡ɕʰiŋ˥.njɛn˧˥ i˥.taɪ̯˥˩ pu˥.t͡ɕin˨˩˦ t͡ɕjɛn˥.fu˥˩ ʈ͡ʂɤ kʰaɪ̯˥.tʰwɔ˥˩ t͡ɕʰjɛn˧˥.jan˧˥ kʰɤ˥.ɕɥɛ˧˥ tɤ ʂɨ˧˥.taɪ̯˥˩ ʈ͡ʂʊŋ˥˩.ʐən˥˩, kɤŋ˥˩ ʈ͡ʂʰəŋ˧˥.t͡saɪ̯˨˩˦ ʈ͡ʂɤ ʂɨ˧˥.ɕjɛn˥˩ min˧˥.t͡su˧˥ weɪ̯˨˩.ta˥˩ fu˥˩.ɕiŋ˥ tɤ ʈ͡ʂʰʊŋ˧˥.kaʊ̯˥ li˥˩.ʂɨ˨˩˦ ʂɨ˨˩.miŋ˥˩] (Qīng-nián yí-dài bù-jǐn jiān-fù zhe kāi-tuò qián-yán kē-xué de shí-dài zhòng-rèn, gèng chéng-zǎi zhe shí-xiàn mín-zú wěi-dà fù-xīng de chóng-gāo lì-shǐ shǐ-mìng.)",
+          "translation": "The young generation not only shoulders the era's heavy responsibility of pioneering frontier science, but also carries the lofty historical mission of realizing the great rejuvenation of the nation."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "辩证论说关联通，虽然固然递进融；只有方能开大道，科技强国铸伟功！"
+      ],
+      "culturalNotes": [
+        "多重复句体系是现代汉语表达国家战略蓝图与辩证唯物主义哲学的最高语言载体。其环环相扣的论证逻辑，生动展现了中国智慧与大国担当。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「关联词与复杂复句结构 (Complex Sentences & Connectives)」（第5讲）的标准汉语规范？",
+          "prompt": "在战略决策综合论说语篇中，串联「固然（承认短利） -> 然而（战略转折） -> 只有才（必由之路） -> 之所以是因为（精神根源） -> 不仅更（使命升华）」的多重复句功能是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「关联词与复杂复句结构 (Complex Sentences & Connectives)」的核心语法法则与应用范例 (21.5.1)。",
-            "存在语序混乱且虚词误用的病句选项 (21.5.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (21.5.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (21.5.w3)"
+            "辩证考量（转折） -> 战略定力（必要条件） -> 探求根源（倒装因果） -> 崇高升华（递进） (Comprehensive dialectical & strategic argumentation)",
+            "全部表示身体跑来跑去",
+            "只是单纯的排比句没有任何逻辑",
+            "全篇全是病句"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "叙事语篇严格遵循从辩证转折、战略定力到探究根源与使命升华的严密逻辑链条。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "语篇中「自力更生，自立自强」的核心时代内涵是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "依靠本国自身力量开拓创新、掌握科技主动权 (Self-reliance and self-strengthening through domestic innovation)",
+            "完全封闭不与任何国家交流",
+            "遇到困难等待别人救助",
+            "完全放弃科技研发"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「自立自强」是当代中国科技发展中依靠自主攻关掌握战略主动权的核心理念。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「关联词与复杂复句结构 (Complex Sentences & Connectives)」的正式语境下，最准确得体的表达是哪一项？（第21.5题）",
+          "prompt": "请选出下列战略论说语篇中复句逻辑链条最严密、文采最沉雄斐然的一项：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (21.5.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (21.5.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (21.5.x2)",
-            "量词与名词修饰搭配错误的病句选项 (21.5.x3)"
+            "引进技术固然能够解燃眉之急，然而只有坚定自主创新，才能真正把握命运；我们的事业之所以能跨越发展，是因为全体青年学者不仅肩负探索使命，更心怀报国担当！(固然让步、然而转折、只有才条件、之所以是因为倒装、不仅更递进，逻辑臻于化境)",
+            "引进技术好，但是要创新，因为大家努力，不仅做实验而且写论文。(语言极度浅陋平庸)",
+            "之所以我们要创新，是因为固然技术被引进。(句式严重杂糅混乱)",
+            "哪怕只有我们掌握技术，才能成功。(关联词混淆错乱)"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "首选选项在多重关联词体系的综合驾驭、辩证说理的深度及爱国情怀的表达上达到了现代汉语政论文的最高境界。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u21-l5）所要求的高阶语言表达？",
+          "prompt": "在宏观战略叙事中表达从根本上摆脱被动、掌握主动地位的核心四字成语是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (21.5.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (21.5.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (21.5.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (21.5.y3)"
+            "立于不败之地 / 掌握主动权 (Remain invincible / hold the initiative)",
+            "任人宰割",
+            "举棋不定",
+            "随波逐流"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「立于不败之地」是战略决策中表达筑牢根基、立足长远的经典成语。"
         }
       ]
     },
@@ -12752,25 +12764,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「关联词与复杂复句结构 (Complex Sentences & Connectives)」的掌握程度，请选出表述完全正确的标准范句（测试 21-5）：",
+          "prompt": "请选出下列辩证论证与战略蓝图综合论说语篇中逻辑最严密、词章最斐然、思想境界最高远的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (21.5.4)。",
-            "被动句式与处置句式混用导致的严重病句 (21.5.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (21.5.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (21.5.z3)"
+            "站在新的历史起点上，引进国外技术固然能带来一时的便利，然而唯有高水平科技自立自强，方能从根本上立于不败之地。我们的科研事业之所以能不断打破垄断，是因为广大科学家哪怕历经万难也始终矢志报国。新时代青年不仅要勇攀科学高峰，更要以自强不息的奋斗铸就中华民族伟大复兴的壮丽蓝图！(全篇复句体系融会贯通，逻辑雄辩，气势磅礴)",
+            "我们要做好科研，因为技术很重要，大家要努力，不要怕困难。(语言极度浅白粗糙)",
+            "固然技术被打破垄断，是因为大家哪怕努力了。(语病严重逻辑崩溃)",
+            "之所以只有创新，才能而且发展。(关联词完全混乱杂糅)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语篇在多重复句系统（转折、因果、条件、让步、递进）的综合驾驭与崇高家国情怀上均达到了现代汉语的最高境界。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u21-l5）的核心关键词（例如「关联词与」）：",
+          "prompt": "请输入表达矢志不渝、坚定不移依靠自己力量奋发图强的核心四字成语（例如「」的奋斗精神，拼音为 zìqiáng-bùxī）：",
           "acceptedAnswers": [
-            "关联词与",
-            "关联词与复杂",
-            "关联词与复杂复句结构"
+            "自强不息"
           ],
-          "explanation": "正确的核心关键词为「关联词与」。"
+          "explanation": "成语「自强不息」源自《周易》，是中华民族数千年来刚健笃实、奋发图强的核心精神象征。"
         }
       ],
       "passThreshold": 0.8
