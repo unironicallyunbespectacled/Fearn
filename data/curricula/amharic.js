@@ -7689,85 +7689,62 @@
     "subject": "amharic",
     "unit": 17,
     "lessonNumber": 1,
-    "title": "አስተያየት መስጠት እና ማወዳደር (Opinions & Comparisons) (ክፍል 1)",
+    "title": "የግል አስተያየትን መግለጽ (Expressing Personal Opinions)",
     "level": "B1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የንጽጽር እና የአስተያየት አገላለጾች («ይሻላል» / «ይበልጣል»)، የክርክር ነጥቦችን ማቅረብ። (ክፍል 1)።",
+    "objective": "የግል አስተያየትን መግለጫ ሀረጎችን (በእኔ አስተያየት፣ እኔ እንደሚመስለኝ፣ ይመስለኛል፣ አምናለሁ) መጠቀም።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የግል አስተያየት መግለጫ ሰዋሰዋዊ ሀረጎች:\n\n፩. የአስተያየት አገላለጾች:\n- በእኔ አስተያየት: በራሴ እይታና አመለካከት (In my opinion)።\n- እኔ እንደሚመስለኝ: እንደ እኔ ግምትና እሳቤ (As I see it / As it seems to me)።\n- ይመስለኛል: ነገሩ እንደዚያ እንደሆነ አስባለሁ (I think / It seems to me)።\n- አምናለሁ: በሙሉ ልብ እርግጠኛ ነኝ (I believe / I trust)።\n- ይሰማኛል: ውስጣዊ ስሜቴና አረዳዴ ነው (I feel that)።\n\n፪. ሰዋሰዋዊ መዋቅር:\n«[የአስተያየት ሀረግ] + [ሃሳብ / ድምዳሜ]»:\n- «በእኔ አስተያየት ይህ መጽሐፍ በጣም ጠቃሚ ነው»\n- «እኔ እንደሚመስለኝ ትምህርት የህይወት መሰረት ነው»።",
       "examples": [
         {
-          "target": "መምህሩ የ«አስተያየት መስጠት እና ማወዳደር (Opinions & Comparisons)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (17.1.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'አስተያየት መስጠት እና ማወዳደር (Opinions & Comparisons)' to the students."
+          "target": "በእኔ አስተያየት ትጋትና ቀጣይነት ያለው ጥረት ለስኬት ወሳኝ ነገሮች ናቸው።",
+          "reading": "Bä'əne astäyayät təgatənna qät’t’aynät yalläw t’irät läsəkkät wäsany nägäročč naččäw. [bɛʔɨˈne ʔastɛjaˈjɛt tɨˈɡatɨnːa kʼɛtʼːajˈnɛt jalːɛw tʼiˈrɛt lɛsɨkːet wɛˈsaɲ nɛɡɛˈrotʃː natʃːɛw] (beh-uh-NAY ahs-teh-yah-YET tuh-GAHT-un-nah k'et'-tah-yeen-NET YAHL-lew t'ee-RET leh-suk-KAYT weh-SAHNY neh-geh-ROHCH-choo NAHCH-chew)",
+          "translation": "In my opinion, diligence and continuous effort are crucial factors for success."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (17.1.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "እኔ እንደሚመስለኝ በከተማችን ውስጥ የህዝብ ትራንስፖርት መስፋፋት አለበት።",
+          "reading": "Əne əndämmimmäsəläny bäkätämaččən wəst’ yähəzb tiransport mäsfafat alläbbät. [ʔɨˈne ʔɨndɛmːimːɛsɨˈlɛɲ bɛkɛtɛmaˈtʃːɨn wɨstʼ jɛhɨzb tiransˈport mɛsfaˈfat ʔalːɛbːɛt] (uh-NAY un-dem-mee-meh-suh-LENY beh-keh-teh-mahch-CHUN woos-T' yeh-HUZB tee-rahns-POHRT mes-fah-FAHT ahl-leb-BET)",
+          "translation": "As it seems to me, public transportation should expand in our city."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (17.1.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (17.1.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "በውይይትና በሰላማዊ መንገድ ችግሮችን መፍታት እንደምንችል በጽኑ አምናለሁ።",
+          "reading": "Bäwəyəyyətənna bäsälamawi mängäd čəggəroččən mäftat əndämmənəčəl bäts’ənu amənallähu. [bɛwɨjɨjːɨˈtɨnːa bɛsɛlamaˈwi mɛnˈɡɛd tʃʼɨɡːɨroˈtʃːɨn mɛfˈtat ʔɨndɛmːɨnɨˈtʃɨl bɛtsʼɨˈnu ʔamɨnaˈlːɛhu] (beh-wuh-yuhy-yuh-TUN-nah beh-seh-lah-mah-WEE men-GED ch'ug-guh-rohch-CHOON mef-TAHT un-dem-muh-nuh-CHUL beh-ts'uh-NOO ah-mun-NAHL-leh-hoo)",
+          "translation": "I firmly believe that we can solve problems through dialogue and peaceful ways."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Opinion Starters: በእኔ አስተያየት (In my opinion) + ይመስለኛል (I think) + አምናለሁ (I believe)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ባህላዊ ውይይት የግል አስተያየትን በትህትና መግለጽ ('እንደ እኔ አረዳድ/ግምት' በማለት) ማህበራዊ ጨዋነትንና አክብሮትን ያሳያል።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«አስተያየት መስጠት እና ማወዳደር (Opinions & Comparisons)» (ክፍል 1) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«In my opinion, this plan is good» የሚለውን በአማርኛ ትክክለኛ የአስተያየት አገላለጽ የያዘው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«አስተያየት መስጠት እና ማወዳደር (Opinions & Comparisons)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (17.1.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (17.1.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (17.1.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (17.1.w3)"
+            "በእኔ አስተያየት ይህ ዕቅድ ጥሩ ነው። (In my opinion, this plan is good - Correct opinion starter)",
+            "ዕቅዱ መጥፎ ነው",
+            "ምንም ዕቅድ የለም",
+            "አስተያየት የለኝም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«በእኔ አስተያየት» የሚለው ሀረግ የግል አስተያየትን በትህትናና በግልጽ ለመግለጽ ያገለግላል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u17-l1) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'I believe we can achieve success' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (17.1.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (17.1.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (17.1.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (17.1.x3)"
+            "ስኬታማ መሆን እንደምንችል አምናለሁ። (I believe we can achieve success - Accurate belief statement)",
+            "ስኬት አይቻልም",
+            "አላምንም",
+            "ምንም ስኬት የለም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«አስተያየት መስጠት እና ማወዳደር (Opinions & Comparisons)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (17.1.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (17.1.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (17.1.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (17.1.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«አምናለሁ» የሚለው ቃል በጽኑ እምነት ላይ የተመሰረተ የግል አቋምን በትክክል ያሳያል።"
         }
       ]
     },
@@ -7775,24 +7752,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 17-1):",
+          "prompt": "የግል አስተያየት መግለጫ ሀረጎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (17.1.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (17.1.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (17.1.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (17.1.z3)"
+            "በእኔ አስተያየት፣ እኔ እንደሚመስለኝ፣ ይመስለኛል፣ አምናለሁ እና ይሰማኛል።",
+            "ሹካ፣ ማንኪያ እና ሳህን።",
+            "አንድ፣ ሁለት እና ሦስት።",
+            "በአማርኛ የአስተያየት ቃላት የሉም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የአስተያየት መግለጫ ሀረጎችን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u17-l1) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «አስተያየት»):",
+          "prompt": "'አስተያየት / Opinion, view' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "አስተያየት",
             "አስተያየት"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «አስተያየት» ነው።"
+          "explanation": "ትክክለኛው ቃል «አስተያየት» (Astäyayät) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -7803,85 +7779,62 @@
     "subject": "amharic",
     "unit": 17,
     "lessonNumber": 2,
-    "title": "አስተያየት መስጠት እና ማወዳደር (Opinions & Comparisons) (ክፍል 2)",
+    "title": "የንጽጽር ደረጃዎች (Comparative Degree)",
     "level": "B1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የንጽጽር እና የአስተያየት አገላለጾች («ይሻላል» / «ይበልጣል»)، የክርክር ነጥቦችን ማቅረብ። (ክፍል 2)።",
+    "objective": "የንጽጽር ግሶችን (ከ... ይሻላል፣ ከ... ይበልጣል፣ ከ... ይልቃል፣ ከ... ያንሳል) በመጠቀም ሁለት ነገሮችን ማወዳደር።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የንጽጽር ሰዋሰዋዊ መዋቅር (Comparatives):\n\n፩. የንጽጽር አገላለጾች:\n- ከ... ይሻላል: አንደኛው ከሌላው የተሻለ ጥራት ሲኖረው (Is better than)።\n- ከ... ይበልጣል: በመጠን፣ በብዛት ወይም በእድሜ ሲበልጥ (Is greater / more than)።\n- ከ... ይልቃል: በከፍተኛ ብልጫ ሲያልፍ (Surpasses / exceeds)።\n- ከ... ያንሳል: በመጠን ወይም በደረጃ ሲያንስ (Is less / smaller than)።\n\n፪. ሰዋሰዋዊ ቀመር:\n[ስም ሀ] + [ከ + ስም ለ] + [ይሻላል / ይበልጣል / ያንሳል]:\n- «ቡና ከሻይ ይሻላል» (Coffee is better than tea)\n- «አዲስ አበባ ከሐዋሳ ትበልጣለች» (Addis Ababa is larger than Hawassa)።",
       "examples": [
         {
-          "target": "መምህሩ የ«አስተያየት መስጠት እና ማወዳደር (Opinions & Comparisons)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (17.2.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'አስተያየት መስጠት እና ማወዳደር (Opinions & Comparisons)' to the students."
+          "target": "ጠዋት በማለዳ መነሳት እና ማጥናት ከማታ ንባብ ይሻላል።",
+          "reading": "T’äwat bämaläda mänässatənna mat’nat kämatan nəbab yəššalal. [tʼɛwat bɛmalɛˈda mɛnɛsːaˈtɨnːa matʼˈnat kɛmaˈtan nɨˈbab jɨʃːaˈlal] (t'eh-WAHT beh-mah-leh-DAH meh-nes-SAH-tun-nah maht'-NAHT keh-mah-TAHN nuh-BAHB yush-shah-LAHL)",
+          "translation": "Waking up and studying early in the morning is better than night reading."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (17.2.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "የአውሮፕላን ጉዞ ከባቡር ወይም ከመኪና ፍጥነቱ እጅግ ይበልጣል።",
+          "reading": "Yä'awroplan guzo käbabur wäyəm kämäkina fət’nätu əğğəg yəbälət’all. [jɛʔawroˈplan ɡuˈzo kɛbaˈbur wɛˈjɨm kɛmɛkiˈna fɨtʼnɛˈtu ʔɨdʒːɨɡ jɨbɛlɨˈtʼalː] (yeh-ow-roh-PLAHN goo-ZOH keh-bah-BOOR weh-YUM keh-meh-kee-NAH fut'-neh-TOO uhj-JUG yuh-beh-luh-T'AHL)",
+          "translation": "A plane journey's speed is far greater than that of a train or a car."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (17.2.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (17.2.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "የጤና ዋጋ ከማናቸውም ቁሳዊ ሀብትና ንብረት ይልቃል።",
+          "reading": "Yät’ena waga kämanaččäwəm qussawi habtənna nəbrät yəlqall. [jɛtʼeˈna waˈɡa kɛmanatʃːɛˈwɨm kʼusːaˈwi habˈtɨnːa nɨbˈrɛt jɨlˈkʼalː] (yeh-t'ay-NAH wah-GAH keh-mah-nahch-chew-UM k'oos-sah-WEE hahb-TUN-nah nub-RET yul-K'AHL)",
+          "translation": "The value of health surpasses any material wealth and property."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Compare Formula: ከ... ይሻላል (Better) + ከ... ይበልጣል (More) + ከ... ያንሳል (Less)!"
+      ],
+      "culturalNotes": [
+        "የአማርኛ ምሳሌያዊ አነጋገር 'ከመቶ ጓደኛ አንድ እውነተኛ ወዳጅ ይሻላል' በማለት ጥራትን ከብዛት በማስበለጥ ንጽጽርን ይጠቀማል።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«አስተያየት መስጠት እና ማወዳደር (Opinions & Comparisons)» (ክፍል 2) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«Plane is faster than car» የሚለውን በአማርኛ ትክክለኛ የንጽጽር መዋቅር የተጠቀመው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«አስተያየት መስጠት እና ማወዳደር (Opinions & Comparisons)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (17.2.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (17.2.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (17.2.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (17.2.w3)"
+            "አውሮፕላን ከመኪና ይፈጥናል። (Plane is faster than car - Correct comparative sentence)",
+            "አውሮፕላንና መኪና አንድ ናቸው",
+            "መኪና ከአውሮፕላን ይበልጣል",
+            "ምንም መኪና የለም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«አውሮፕላን ከመኪና ይፈጥናል/ይበልጣል» የንጽጽር ቅንጣቢ «ከ...» በመጠቀም ፍጥነትን በትክክል ያወዳድራል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u17-l2) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Health is better than wealth' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (17.2.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (17.2.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (17.2.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (17.2.x3)"
+            "ጤና ከሀብት ይሻላል። (Health is better than wealth - Accurate classic comparison)",
+            "ሀብት ከጤና ይሻላል",
+            "ጤና እና ሀብት አንድ ናቸው",
+            "ጤና አያስፈልግም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«አስተያየት መስጠት እና ማወዳደር (Opinions & Comparisons)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (17.2.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (17.2.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (17.2.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (17.2.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ጤና ከሀብት ይሻላል» አንደኛው ከሌላው እንደሚበልጥ በትክክል ያወዳድራል።"
         }
       ]
     },
@@ -7889,24 +7842,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 17-2):",
+          "prompt": "የንጽጽር አገላለጾችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (17.2.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (17.2.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (17.2.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (17.2.z3)"
+            "ከ... ይሻላል፣ ከ... ይበልጣል፣ ከ... ይልቃል እና ከ... ያንሳል።",
+            "ዛሬ፣ ትናንት እና ከትናንት ወዲያ።",
+            "ሰማያዊ፣ አረንጓዴ እና ጥቁር።",
+            "በአማርኛ ንጽጽር ማድረግ አይቻልም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የንጽጽር ግሶችን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u17-l2) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «አስተያየት»):",
+          "prompt": "'ይሻላል / Is better, preferable' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "አስተያየት",
-            "አስተያየት"
+            "ይሻላል"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «አስተያየት» ነው።"
+          "explanation": "ትክክለኛው ቃል «ይሻላል» (Yəššalal) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -7917,85 +7869,62 @@
     "subject": "amharic",
     "unit": 17,
     "lessonNumber": 3,
-    "title": "አስተያየት መስጠት እና ማወዳደር (Opinions & Comparisons) (ክፍል 3)",
+    "title": "የላቀ ንጽጽር (Superlative Degree)",
     "level": "B1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የንጽጽር እና የአስተያየት አገላለጾች («ይሻላል» / «ይበልጣል»)، የክርክር ነጥቦችን ማቅረብ። (ክፍል 3)።",
+    "objective": "የላቀ ንጽጽርን (ከሁሉ ይበልጣል፣ ከሁሉ ይሻላል፣ ከሁሉም በላይ፣ እጅግ በጣም) መጠቀም።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የላቀ ደረጃ ሰዋሰዋዊ መዋቅር (Superlatives):\n\n፩. የላቀ ንጽጽር አገላለጾች:\n- ከሁሉ ይበልጣል: ከማንኛውም ነገር በላይ በብልጫ ደረጃ አንደኛ የሆነ (The greatest / most)።\n- ከሁሉ ይሻላል: በምርጥነትና በጥራት የመጨረሻው የተመረጠ (The best of all)።\n- ከሁሉም በላይ: ከሁሉም ነገሮች ቀዳሚ የሆነ (Above all / most importantly)።\n- እጅግ በጣም: ከፍተኛውን የጥራትና የጥልቀት ደረጃ የሚያመለክት (Extremely / exceptionally)።\n\n፪. ሰዋሰዋዊ ቀመር:\n[ስም] + [ከሁሉ / ከሁሉም በላይ] + [ቅጽል / ግስ]:\n- «ይህ መፍትሔ ከሁሉ ይሻላል» (This solution is the best of all)\n- «ራስ ዳሸን በኢትዮጵያ ከሁሉ ረጅሙ ተራራ ነው» (Ras Dashen is the tallest mountain in Ethiopia)።",
       "examples": [
         {
-          "target": "መምህሩ የ«አስተያየት መስጠት እና ማወዳደር (Opinions & Comparisons)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (17.3.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'አስተያየት መስጠት እና ማወዳደር (Opinions & Comparisons)' to the students."
+          "target": "ራስ ዳሸን በኢትዮጵያ ውስጥ ከሁሉ ከፍተኛውና ረጅሙ ተራራ ነው።",
+          "reading": "Ras Dašän bä-Ityop’ya wəst’ kähullu käftänyawənna räğğəmu tärara näw. [ras daˈʃɛn bɛʔitjoˈpʼja wɨstʼ kɛhulːu kɛfˈtɛɲawɨnːa rɛdʒːɨˈmu tɛraˈra nɛw] (rahs dah-SHEN beh-eet-YOHP-yah woos-T' keh-HOOL-loo kef-TEN-yah-wun-nah red-JUM-moo teh-rah-RAH now)",
+          "translation": "Ras Dashen is the highest and tallest mountain of all in Ethiopia."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (17.3.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ከሁሉም በላይ ሰላምና ፍቅር ለአንድ ሀገር እድገት ዋነኛ መሰረቶች ናቸው።",
+          "reading": "Kähullum bälay sälamənna fəqər lä'and hagär ədgät wanänya mäsärätočč naččäw. [kɛhulːum bɛˈlaj sɛlaˈmɨnːa fɨˈkʼɨr lɛʔand haˈɡɛr ʔɨdˈɡɛt wanɛˈɲa mɛsɛrɛˈtotʃː natʃːɛw] (keh-hool-LOOM beh-LYE seh-LAH-mun-nah fuh-K'UR leh-AHND hah-GER ud-GET wah-nen-YAH meh-seh-reh-TOHCH-choo NAHCH-chew)",
+          "translation": "Above all, peace and love are the primary foundations for a country's development."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (17.3.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (17.3.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ይህ አማራጭ ከቀረቡት ሀሳቦች ሁሉ እጅግ በጣም የተሻለውና ውጤታማው ነው።",
+          "reading": "Yəh ammarač’ käqärräbut hassabočč hullu əğğəg bät’am yätäšaläwənna wət’etamaw näw. [jɨh ʔamːaˈratʃʼ kɛkʼɛrːɛˈbut hasːaˈbotʃː hulːu ʔɨdʒːɨɡ bɛtʼam jɛtɛʃaˈlɛwɨnːa wɨtʼetaˈmaw nɛw] (yuh ahm-mah-RAHCH' keh-k'er-reh-BOOT hahs-sah-BOHCH-choo HOOL-loo uhj-JUG beh-T'AHM yeh-teh-shah-LEW-un-nah wut'-ay-tah-MAH-woo now)",
+          "translation": "This option is the best and most effective among all the presented ideas."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Top Rank: ከሁሉ (Of all) + ከሁሉም በላይ (Above all) + እጅግ በጣም (Extremely)!"
+      ],
+      "culturalNotes": [
+        "በአማርኛ ንግግር 'ከሁሉም በላይ' የሚለው አገላለጽ ዋናውንና ወሳኙን ነጥብ አጉልቶ ለማሳየት በሰፊው ይጠቀሳል።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«አስተያየት መስጠት እና ማወዳደር (Opinions & Comparisons)» (ክፍል 3) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«Above all, education is important» የሚለውን በአማርኛ ትክክለኛ የላቀ ንጽጽር አገላለጽ የያዘው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«አስተያየት መስጠት እና ማወዳደር (Opinions & Comparisons)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (17.3.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (17.3.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (17.3.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (17.3.w3)"
+            "ከሁሉም በላይ ትምህርት አስፈላጊ ነው። (Above all, education is important - Correct superlative emphasis)",
+            "ትምህርት አያስፈልግም",
+            "ትምህርት ትንሽ ነው",
+            "ምንም ትምህርት የለም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ከሁሉም በላይ» የሚለው አገላለጽ ከማናቸውም ነገሮች ቀዳሚ መሆኑን ያመለክታል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u17-l3) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Ras Dashen is the tallest of all' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (17.3.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (17.3.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (17.3.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (17.3.x3)"
+            "ራስ ዳሸን ከሁሉ ረጅሙ ተራራ ነው። (Ras Dashen is the tallest mountain of all - Accurate superlative description)",
+            "ራስ ዳሸን አጭር ነው",
+            "ራስ ዳሸን ተራራ አይደለም",
+            "ምንም ተራራ የለም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«አስተያየት መስጠት እና ማወዳደር (Opinions & Comparisons)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (17.3.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (17.3.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (17.3.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (17.3.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ከሁሉ ረጅሙ ተራራ ነው» የላቀውን ከፍታ በትክክል ያረጋግጣል።"
         }
       ]
     },
@@ -8003,24 +7932,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 17-3):",
+          "prompt": "የላቀ ንጽጽር አገላለጾችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (17.3.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (17.3.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (17.3.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (17.3.z3)"
+            "ከሁሉ ይበልጣል፣ ከሁሉ ይሻላል፣ ከሁሉም በላይ እና እጅግ በጣም።",
+            "ዳቦ፣ ወጥ እና እንጀራ።",
+            "ጠዋት፣ ከሰዓት እና ማታ።",
+            "በአማርኛ የላቀ ንጽጽር የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የላቀ ንጽጽር አገላለጾችን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u17-l3) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «አስተያየት»):",
+          "prompt": "'ከሁሉ / Of all, above all' የሚለውን ሐረግ በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "አስተያየት",
-            "አስተያየት"
+            "ከሁሉ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «አስተያየት» ነው።"
+          "explanation": "ትክክለኛው ቃል «ከሁሉ» (Kähullu) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -8031,85 +7959,62 @@
     "subject": "amharic",
     "unit": 17,
     "lessonNumber": 4,
-    "title": "አስተያየት መስጠት እና ማወዳደር (Opinions & Comparisons) (ክፍል 4)",
+    "title": "ስምምነት እና አለመስማማትን መግለጽ (Expressing Agreement & Disagreement)",
     "level": "B1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የንጽጽር እና የአስተያየት አገላለጾች («ይሻላል» / «ይበልጣል»)، የክርክር ነጥቦችን ማቅረብ። (ክፍል 4)።",
+    "objective": "ስምምነትንና አለመስማማትን (ሙሉ በሙሉ እስማማለሁ፣ አልስማማም፣ ትክክል ነህ፣ የተሳሳተ ነው) መግለጽ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "ስምምነትንና አለመስማማትን የመግለጫ ሰዋሰዋዊ አገላለጾች:\n\n፩. ስምምነት መግለጽ (Agreement):\n- ሙሉ በሙሉ እስማማለሁ: ከቀረበው ሀሳብ ጋር መቶ በመቶ አብሮ መሆን (I completely agree)።\n- ትክክል ነህ / ነሽ / ኖት: የቀረበው ነጥብ እውነተኛና ትክክለኛ ሲሆን (You are right)።\n- በከፊል እስማማለሁ: በአንዳንድ ነጥቦች ላይ ብቻ መስማማት (I partially agree)።\n\n፪. አለመስማማት መግለጽ (Disagreement):\n- አልስማማም / አልቀበለውም: የቀረበውን ሀሳብ አለመቀበል (I disagree)።\n- በፍጹም አልስማማም: ጠንካራ ተቃውሞ ሲኖር (I strongly disagree)።\n- የተሳሳተ አመለካከት ነው: የቀረበው አስተያየት ስህተት መሆኑን ማሳየት (It is a mistaken view)።\n\n፫. ሰዋሰዋዊ አጠቃቀም:\n- «ከአንተ ሀሳብ ጋር ሙሉ በሙሉ እስማማለሁ»\n- «በዚህ ነጥብ ላይ ከአንተ ጋር አልስማማም ምክንያቱም...»",
       "examples": [
         {
-          "target": "መምህሩ የ«አስተያየት መስጠት እና ማወዳደር (Opinions & Comparisons)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (17.4.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'አስተያየት መስጠት እና ማወዳደር (Opinions & Comparisons)' to the students."
+          "target": "ባነሳኸው ጠቃሚ ነጥብ ላይ ሙሉ በሙሉ እስማማለሁ፤ ትክክል ነህ።",
+          "reading": "Bannässahäw t’əqami nät’əb lay mulu bämulu əssəmamallähu; təkkəkəl näh. [banːɛsːaˈhɛw tʼɨkʼaˈmi nɛtʼb laj muˈlu bɛmuˈlu ʔɨsːɨmamaˈlːɛhu tɨkːɨˈkɨl nɛh] (bahn-nes-SAH-hew t'uh-K'AH-mee NET'-b lye moo-LOO beh-moo-LOO us-suh-mah-MAHL-leh-hoo; tuhk-kuh-KUL neh)",
+          "translation": "I completely agree with the useful point you raised; you are right."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (17.4.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "በዚህ ጉዳይ ላይ ከአንተ ጋር በፍጹም አልስማማም ምክንያቱም ማስረጃው ተቃራኒ ነው።",
+          "reading": "Bäzzih gudday lay kä'antä gara bäfəts’um aləssəmamam məknəyatum masräğğaw täqarani näw. [bɛzːih ɡudˈdaj laj kɛʔanˈtɛ ɡaˈra bɛfɨtsʼum ʔalɨsːɨmaˈmam mɨknɨjaˈtum masrɛdʒːaw tɛkʼaraˈni nɛw] (bez-ZEEH good-DYE lye keh-AHN-teh gah-RAH beh-futs'-OOM ahl-us-suh-mah-MAHM muk-nuh-yah-TOOM mahs-red-JAH-woo teh-k'ah-rah-NEE now)",
+          "translation": "I completely disagree with you on this matter because the evidence is contrary."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (17.4.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (17.4.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "የተለያዩ አመለካከቶች ቢኖሩንም በክብርና በሰለጠነ መንገድ መወያየት አለብን።",
+          "reading": "Yätäläyyayu ammäläkakätočč binorunəm bäkəbrənna bäsälät’t’änä mängäd mäwəyayyät alläbbən. [jɛtɛlɛjːaˈju ʔamːɛlɛkakɛˈtotʃː binoˈrunɨm bɛkɨbˈrɨnːa bɛsɛlɛtʼːɛˈnɛ mɛnˈɡɛd mɛwɨjaˈjːɛt ʔalːɛbːɨn] (yeh-teh-ley-yah-YOO ahm-meh-leh-kah-keh-TOHCH-choo bee-noh-ROO-num beh-kuhb-RUN-nah beh-seh-let'-t'eh-NEH men-GED meh-wuh-yahy-YET ahl-leb-BUN)",
+          "translation": "Even if we have different perspectives, we must discuss with respect and in a civilized manner."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Debate Responses: ሙሉ በሙሉ እስማማለሁ (Agree) vs. በፍጹም አልስማማም (Disagree)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ሽምግልናና የክርክር ባህል ውስጥ 'ሀሳብን በሀሳብ ማሸነፍ' እና ተቃራኒ አመለካከትን በአክብሮት ማዳመጥ ታላቅ ጥበብ ተደርጎ ይወሰዳል።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«አስተያየት መስጠት እና ማወዳደር (Opinions & Comparisons)» (ክፍል 4) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«I completely agree with you» የሚለውን በአማርኛ ትክክለኛ የስምምነት አገላለጽ የያዘው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«አስተያየት መስጠት እና ማወዳደር (Opinions & Comparisons)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (17.4.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (17.4.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (17.4.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (17.4.w3)"
+            "ከአንተ ጋር ሙሉ በሙሉ እስማማለሁ። (I completely agree with you - Correct agreement phrase)",
+            "አልስማማም",
+            "ሀሳብህ ስህተት ነው",
+            "ምንም አልገባኝም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ሙሉ በሙሉ እስማማለሁ» ጠንካራና ግልጽ ስምምነትን ያመለክታል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u17-l4) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'I disagree with this opinion' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (17.4.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (17.4.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (17.4.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (17.4.x3)"
+            "በዚህ አስተያየት ላይ አልስማማም። (I disagree with this opinion - Accurate polite disagreement)",
+            "ሙሉ በሙሉ እስማማለሁ",
+            "ትክክል ነህ",
+            "ምንም አስተያየት የለም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«አስተያየት መስጠት እና ማወዳደር (Opinions & Comparisons)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (17.4.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (17.4.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (17.4.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (17.4.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«በዚህ አስተያየት ላይ አልስማማም» አለመስማማትን በግልጽ ያሳያል።"
         }
       ]
     },
@@ -8117,24 +8022,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 17-4):",
+          "prompt": "ስምምነትንና አለመስማማትን መግለጫ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (17.4.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (17.4.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (17.4.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (17.4.z3)"
+            "ሙሉ በሙሉ እስማማለሁ፣ በፍጹም አልስማማም፣ ትክክል ነህ፣ በከፊል እስማማለሁ እና የተሳሳተ ነው።",
+            "ወንበር፣ ጠረጴዛ እና አልጋ።",
+            "ቀን፣ ማታ እና ሌሊት።",
+            "በአማርኛ ስምምነት መግለጽ አይቻልም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የስምምነትና የአለመስማማት አገላለጾችን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u17-l4) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «አስተያየት»):",
+          "prompt": "'እስማማለሁ / I agree' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "አስተያየት",
-            "አስተያየት"
+            "እስማማለሁ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «አስተያየት» ነው።"
+          "explanation": "ትክክለኛው ቃል «እስማማለሁ» (Əssəmamallähu) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -8145,85 +8049,62 @@
     "subject": "amharic",
     "unit": 17,
     "lessonNumber": 5,
-    "title": "አስተያየት መስጠት እና ማወዳደር (Opinions & Comparisons) (ክፍል 5)",
+    "title": "የክፍል 17 አጠቃላይ ማጠቃለያ (Unit 17 Grand Synthesis & Comparative Debate Discourse)",
     "level": "B1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የንጽጽር እና የአስተያየት አገላለጾች («ይሻላል» / «ይበልጣል»)، የክርክር ነጥቦችን ማቅረብ። (ክፍል 5)።",
+    "objective": "የግል አስተያየትን፣ የንጽጽር ደረጃዎችን፣ የላቀ ንጽጽርንና ክርክርን ያቀናጀ የተሟላ ንግግር ማካሄድ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የክፍል ፲፯ አጠቃላይ ሰዋሰዋዊ ውህደት እና የአስተያየትና ንጽጽር ተግባቦት ማጠቃለያ:\n\n፩. የግል አስተያየት:\n- በእኔ አስተያየት፣ እኔ እንደሚመስለኝ፣ ይመስለኛል፣ አምናለሁ።\n\n፪. የንጽጽር ደረጃዎች:\n- ከ... ይሻላል፣ ከ... ይበልጣል፣ ከ... ይልቃል፣ ከ... ያንሳል።\n\n፫. የላቀ ንጽጽር:\n- ከሁሉ ይበልጣል፣ ከሁሉ ይሻላል፣ ከሁሉም በላይ፣ እጅግ በጣም።\n\n፬. ስምምነት እና አለመስማማት:\n- ሙሉ በሙሉ እስማማለሁ፣ በፍጹም አልስማማም፣ ትክክል ነህ፣ በከፊል እስማማለሁ።",
       "examples": [
         {
-          "target": "መምህሩ የ«አስተያየት መስጠት እና ማወዳደር (Opinions & Comparisons)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (17.5.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'አስተያየት መስጠት እና ማወዳደር (Opinions & Comparisons)' to the students."
+          "target": "በእኔ አስተያየት እውቀትና ልምድን ማዳበር ከማንኛውም ቁሳዊ ሀብት በላይ እጅግ በጣም ይሻላል።",
+          "reading": "Bä'əne astäyayät əwqätənna ləmdən madabär kämanaččäwəm qussawi habt bälay əğğəg bät’am yəššalal. [bɛʔɨˈne ʔastɛjaˈjɛt ʔɨwˈkʼɛtɨnːa lɨmˈdɨn madaˈbɛr kɛmanatʃːɛˈwɨm kʼusːaˈwi habt bɛˈlaj ʔɨdʒːɨɡ bɛtʼam jɨʃːaˈlal] (beh-uh-NAY ahs-teh-yah-YET uw-K'ET-un-nah lum-DUN mah-dah-BER keh-mah-nahch-chew-UM k'oos-sah-WEE hahbt beh-LYE uhj-JUG beh-T'AHM yush-shah-LAHL)",
+          "translation": "In my opinion, developing knowledge and experience is extremely better than any material wealth."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (17.5.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "በውይይታችን ወቅት በብዙ ነጥቦች ላይ ብንስማማም በአንዳንድ ጉዳዮች ላይ የተለያየ አመለካከት ነበረን።",
+          "reading": "Bäwəyəyyətaččən wäqət bäbəzu nät’əbočč lay bənnəssəmamam bä'andand guddayočč lay yätäläyayyä ammäkkakät näbbärän. [bɛwɨjɨjːɨˈtatʃːɨn wɛkʼt bɛbɨˈzu nɛtʼboˈtʃː laj bɨnːɨsːɨmaˈmam bɛʔanˈdand ɡudːaˈjotʃː laj jɛtɛlɛjaˈjːɛ ʔamːɛkːaˈkɛt nɛbːɛrɛn] (beh-wuh-yuhy-yuh-TAHCH-chun wehk'-T beh-buh-ZOO net'-bohch-CH lye bun-nus-suh-mah-MAHM beh-ahn-DAHND good-dah-yohch-CH lye yeh-teh-ley-yahy-YAY ahm-mek-kah-KET neb-BEH-ren)",
+          "translation": "During our discussion, although we agreed on many points, we had differing perspectives on some matters."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (17.5.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (17.5.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ከሁሉም በላይ ምክንያታዊ መረጃዎችን በማቅረብ ሀሳብን በነጻነትና በጨዋነት ማጋራት ይገባናል።",
+          "reading": "Kähullum bälay məknəyatawi märäğawoččən bamaqrəb hassabən bänäts’annätənna bäč’əwannät magarat yəggäbbannall. [kɛhulːum bɛˈlaj mɨknɨjaˈtawi mɛrɛdʒaˈwotʃːɨn bamakʼˈrɛb hasːaˈbɨn bɛnɛtsʼanːɛˈtɨnːa bɛtʃʼɨwanːɛt maɡaˈrat jɨɡːɛbːanːalː] (keh-hool-LOOM beh-LYE muk-nuh-yah-tah-WEE meh-reh-jah-wohch-CHUN bah-mahk'-REB hahs-sah-BUN beh-nets'-ahn-NET-un-nah beh-ch'uh-wahn-NET mah-gah-RAHT yug-geb-BAHN-nahl)",
+          "translation": "Above all, we ought to share ideas freely and politely by presenting rational evidence."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Debate Mastery: Opinion (አስተያየት) + Comparison (ንጽጽር) + Superiority (ከሁሉ በላይ) + Respect (ስምምነት)!"
+      ],
+      "culturalNotes": [
+        "የኢትዮጵያ ፍልስፍናዊ አስተሳሰብ (እንደ ዘርአ ያዕቆብ የፍልስፍና ድርሳን) ምክንያታዊ ክርክርንና እውነትን በምርምር መፈለግን ከሁሉ በላይ ያከብራል።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«አስተያየት መስጠት እና ማወዳደር (Opinions & Comparisons)» (ክፍል 5) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "ከሚከተሉት ውስጥ የተሟላ የአስተያየትና የንጽጽር ውህደትን የሚያሳየው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«አስተያየት መስጠት እና ማወዳደር (Opinions & Comparisons)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (17.5.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (17.5.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (17.5.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (17.5.w3)"
+            "በእኔ አስተያየት ይህ አማራጭ ከሁሉም የተሻለ ነው፤ ሙሉ በሙሉ እስማማለሁ። (Complete opinion, comparison, and agreement synthesis)",
+            "ምንም አስተያየት የለም",
+            "አልስማማም",
+            "ንጽጽር የለም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የግል አስተያየትን፣ የላቀ ንጽጽርንና ስምምነትን በአንድነት ያጠቃልላል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u17-l5) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "ምክንያታዊ ክርክርንና ንጽጽርን ያጣመረው ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (17.5.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (17.5.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (17.5.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (17.5.x3)"
+            "መረጃ በማቅረብ ሀሳባችንን እናወዳድራለን እንዲሁም በክብር እንወያያለን። (By presenting evidence we compare our ideas and discuss with respect - Integrated debate sentence)",
+            "መወያየት አንፈልግም",
+            "መረጃ የለም",
+            "ሀሳብ የለም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«አስተያየት መስጠት እና ማወዳደር (Opinions & Comparisons)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (17.5.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (17.5.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (17.5.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (17.5.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ይህ አማራጭ መረጃ ማቅረብን፣ ማወዳደርንና በአክብሮት መወያየትን በትክክል ያዛምዳል።"
         }
       ]
     },
@@ -8231,24 +8112,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 17-5):",
+          "prompt": "የክፍል 17 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (17.5.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (17.5.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (17.5.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (17.5.z3)"
+            "የግል አስተያየት መግለጫዎች፣ የንጽጽር ደረጃዎች (ይሻላል/ይበልጣል)፣ የላቀ ንጽጽር (ከሁሉ/ከሁሉም በላይ)፣ እንዲሁም ስምምነትና አለመስማማት ተካተዋል።",
+            "ይህ ክፍል ስለ ምግብ ዝግጅት ብቻ ነው።",
+            "በአማርኛ የንጽጽር ቃላት የሉም።",
+            "ሁሉም አስተያየቶች አንድ ዓይነት ናቸው።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የክፍል 17ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u17-l5) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «አስተያየት»):",
+          "prompt": "'ንጽጽር / Comparison' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "አስተያየት",
-            "አስተያየት"
+            "ንጽጽር"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «አስተያየት» ነው።"
+          "explanation": "ትክክለኛው ቃል «ንጽጽር» (Nəts’əts’ər) ነው።"
         }
       ],
       "passThreshold": 0.8
