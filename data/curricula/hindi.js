@@ -9095,53 +9095,62 @@
     "subject": "hindi",
     "unit": 22,
     "lessonNumber": 1,
-    "title": "भारतीय व्यंजन, पाककला और आतिथ्य (Cuisine & Hospitality) (Part 1)",
+    "title": "भारतीय पाक विधियाँ, मसाले और छौंक (Cooking Methods, Spices & Tempering: तड़का, भूनना)",
     "level": "B2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 22.1) with authentic linguistic precision.",
+    "objective": "भारतीय पाककला की पारंपरिक विधियों (तड़का लगाना/छौंकना, भूनना, धीमी आँच पर पकाना, दम देना) और विशिष्ट मसालों के प्रामाणिक प्रयोग में दक्षता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "भारतीय पाककला की आधारभूत विधियां, तड़का प्रणाली और सुगंधित मसालों का मानक वाक्य-विन्यास:\n\n1. **प्रमुख पाक विधियाँ (Cooking Techniques)**:\n   - **तड़का लगाना / छौंकना** (Tempering spices in hot oil or ghee);\n   - **भूनना / तलना** (Roasting, sautéing / Deep frying);\n   - **धीमी आँच पर पकाना / सिमराना** (Simmering on low heat);\n   - **दम पर रखना / दम देना** (Slow cooking in sealed cookware);\n   - **उबालना / खौलाना** (Boiling / Scalding)।\n\n2. **पारंपरिक सुगंधित मसाले (Aromatic Spices)**:\n   - **हींग और जीरा** (Asafoetida and Cumin seeds);\n   - **राई और करीपत्ता** (Mustard seeds and Curry leaves);\n   - **इलायची, लौंग और दालचीनी** (Cardamom, Cloves and Cinnamon);\n   - **कस्तूरी मेथी और गरम मसाला** (Dried Fenugreek and Garam Masala)।\n\n3. **वाक्य संरचना और क्रिया रूप**:\n   - विधि-निर्देशों में पूर्वकालिक क्रियाओं (*गर्म करके, डालकर, भूनकर*) तथा प्रेरणार्थक क्रियाओं का व्यापक प्रयोग होता है।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 22.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 22."
+          "target": "कड़ाही में सरसों का तेल गर्म करके उसमें हींग और जीरे का छौंक लगाने के पश्चात बारीक कटा प्याज और अदरक-लहसुन का पेस्ट सुनहरा होने तक भूनना चाहिए।",
+          "reading": "kadaahi mein sarson ka tel garm karke usmein heeng aur jeere ka chhaunk lagaane ke pashchaat baareek kata pyaaz aur adrak-lahsun ka paste sunahara hone tak bhoonna chaahiye. [kəɽaːɦiː mẽː sərsõː kaː t̪eːl ɡərm kərkeː ʊsmẽː ɦiːŋɡ ɔːr dʒiːreː kaː tʃʰɔ̃ːk ləɡaːneː keː pəʃtʃaːt̪ baːriːk kətaː pjaːz ɔːr ədrək ləhsʊn kaː peːsʈ sʊnəɦraː hoːneː t̪ək bʱuːnːaː tʃaːɦɪjeː] (kuh-DAH-hee mayn suhr-SOHN kah tayl guhrm KUHR-kay oos-MAYN heeng owr JEE-ray kah CHHOWNK luh-GAH-nay kay puhsh-CHAHT bah-REEK kuh-TAH pyahz owr UHD-ruhk-luh-HOON kah paste soo-nuh-HAH-rah HOH-nay tuhk BHOON-nah CHAH-hee-yay)",
+          "translation": "After heating mustard oil in the wok and adding a tempering of asafoetida and cumin seeds, finely chopped onion and ginger-garlic paste should be sautéed until golden brown."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 22-1)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "दाल तड़का तैयार करते समय शुद्ध देसी घी में राई, सूखी लाल मिर्च और कश्मीरी मिर्च पाउडर डालकर ऊपर से गरमा-गरम तड़का लगाया जाता है।",
+          "reading": "daal tadka taiyaar karte samay shuddh desi ghee mein raai, sookhi laal mirch aur kashmiri mirch powder daalkar oopar se garma-garam tadka lagaaya jaata hai. [d̪aːl t̪əɽkaː t̪ɛːjaːr kərt̪eː səməj ʃʊd̪ːʱ d̪eːsiː ɡʱiː mẽː raːiː suːkʰiː laːl mɪrtʃ ɔːr kəʃmiːriː mɪrtʃ paːʊɖər ɖaːlkər uːpər seː ɡərmaːɡərm t̪əɽkaː ləɡaːjaː dʒaːt̪aː hɛː] (dahl TUHD-kah ty-YAHR KUHR-tay SUH-muy shoodh DAY-see ghee mayn RAH-ee, SOO-khee lahl meerch owr kush-MEE-ree meerch powder DAHL-kuhr OO-puhr say guhr-mah-GUH-ruhm TUHD-kah luh-GAH-yah JAH-tah hy)",
+          "translation": "While preparing Daal Tadka, hot tempering is poured over from above after adding mustard seeds, dried red chilies, and Kashmiri chili powder in pure clarified butter."
+        },
+        {
+          "target": "शाही बिरयानी को असली स्वाद और मनभावन सुगंध देने के लिए हांडी को आटे से सील करके धीमी आँच पर आधे घंटे तक दम पर पकाया जाता है।",
+          "reading": "shaahi biryani ko asli swaad aur manbhaavan sugandh dene ke liye haandi ko aate se seal karke dheemi aanch par aadhe ghante tak dam par pakaaya jaata hai. [ʃaːɦiː bɪrjaːniː koː əsliː sʋaːd̪ ɔːr mənmbʱaːʋən sʊɡən̪d̪ʱ d̪eːneː keː lɪjeː ɦaːɳɖiː koː aːʈeː seː siːl kərkeː d̪ʱiːmiː aː̃tʃ pər aːd̪ʱeː ɡʱəɳʈeː t̪ək d̪əm pər pəkaːjaː dʒaːt̪aː hɛː] (shah-HEE beer-YAH-nee koh UHS-lee svaad owr muhn-BHAH-vuhn soo-GUHNDH DAY-nay kay lee-ay HAHN-dee koh AH-tay say seal KUHR-kay DHEE-mee ahnch puhr AHD-hay GHUHN-tay tuhk duhm puhr puh-KAH-yah JAH-tah hy)",
+          "translation": "To impart authentic flavor and captivating aroma to the royal biryani, the clay pot is sealed with dough and slow-cooked on dum over low heat for half an hour."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "पाक विधियाँ: छौंकना / तड़का लगाना (tempering), धीमी आँच पर दम देना (slow cooking on dum)!"
+      ],
+      "culturalNotes": [
+        "भारतीय रसोई में 'तड़का' केवल स्वाद बढ़ाने का माध्यम नहीं है, बल्कि गर्म घी/तेल में मसालों के औषधीय गुणों को भोजन में समाहित करने का प्राचीन विज्ञान है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"शाम\":",
+          "prompt": "गर्म तेल या घी में जीरा, हींग और राई डालकर स्वाद बढ़ाने की भारतीय पाक विधि को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 22.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («रात» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («सप्ताह» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («महीना» का अनुचित स्थान)"
+            "तड़का लगाना / छौंकना (Tadka lagaana / Chhaunkna - Tempering / Sputtering spices [authentic culinary term])",
+            "पानी फेंकना (असंगत पाक क्रिया)",
+            "आटा गूँथना (रोटी बनाने की क्रिया)",
+            "चावल धोना (सफाई की प्रारंभिक क्रिया)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "गर्म वसा में खड़े मसालों को चटकाकर भोजन में मिलाने की विधि को «तड़का लगाना» या «छौंकना» कहा जाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"शाम\":",
+          "prompt": "धीमी आँच पर बर्तन को सील करके पकाने की शाही विधि को क्या कहते हैं: «बिरयानी को ___ पर पकाया गया»?",
           "options": [
-            "हम इस पाठ में इकाई 22.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («सप्ताह» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («महीना» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («रात» का अशुद्ध रूप)"
+            "दम (Dam - Slow-cooking under steam seal [dum cooking])",
+            "धूप (Solar drying mismatch)",
+            "बर्फ़ (Freezing mismatch)",
+            "पानी (Simple boiling mismatch)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "हांडी को बंद करके मंद आँच पर भाप में पकाने की मुग़लई विधि को «दम देना» कहा जाता है।"
         }
       ]
     },
@@ -9149,17 +9158,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"शाम\": Which sentence is completely correct?",
+          "prompt": "भारतीय पाककला और तड़का विधि का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 22.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («महीना» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («रात» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («सप्ताह» से संबंधित)"
+            "पनीर की तरीदार सब्जी में कस्तूरी मेथी और गरम मसाला डालकर धीमी आँच पर दो मिनट पकाने से अत्यंत मनभावन सुगंध आती है। (Adding dried fenugreek leaves and garam masala to the paneer curry and cooking on low flame for two minutes produces a delightful aroma.)",
+            "पनीर की सब्जी में कल किसी ने पत्थर डाला था।",
+            "कस्तूरी मेथी को फेंक दिया ताकि सब्जी कड़वी हो।",
+            "धीमी आँच पर सब लोग बाज़ार में सो रहे थे।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«पनीर की तरीदार सब्जी में... अत्यंत मनभावन सुगंध आती है» पाककला की सटीक शब्दावली और व्याकरण का सर्वोत्तम उदाहरण है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u22-l2": {
@@ -9167,53 +9177,62 @@
     "subject": "hindi",
     "unit": 22,
     "lessonNumber": 2,
-    "title": "भारतीय व्यंजन, पाककला और आतिथ्य (Cuisine & Hospitality) (Part 2)",
+    "title": "क्षेत्रीय भोजन विविधता और पारंपरिक थाली (Regional Cuisines & Traditional Thali)",
     "level": "B2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 22.2) with authentic linguistic precision.",
+    "objective": "भारत के विभिन्न भौगोलिक क्षेत्रों (उत्तर, दक्षिण, पूर्व, पश्चिम) के पारंपरिक व्यंजनों, खानपान शैलियों और 'थाली' संस्कृति की समृद्ध शब्दावली में दक्षता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "भारत के प्रमुख क्षेत्रीय व्यंजनों और पारंपरिक थाली की भाषाई विशेषताएँ:\n\n1. **उत्तर भारतीय व्यंजन (North Indian Cuisine)**:\n   - दाल मखनी, शाही पनीर, तंदूरी नान, परांठे और गाढ़ी मलाईदार तरी;\n   - घी, मक्खन और सूखे मेवों का प्रचुर प्रयोग।\n\n2. **दक्षिण भारतीय व्यंजन (South Indian Cuisine)**:\n   - इडली, डोसा, वड़ा, सांभर, रसम, पायसम और नारियल की चटनी;\n   - चावल, इमली, करीपत्ता और नारियल तेल की प्रधानता।\n\n3. **पश्चिम भारतीय व्यंजन (West Indian Cuisine)**:\n   - दाल-बाटी-चूरमा, गट्टे की सब्जी, ढोकला, खांडवी, थेपला और पाव भाजी;\n   - खट्टे-मीठे और तीखे स्वादों का सामंजस्य।\n\n4. **पूर्व भारतीय व्यंजन (East Indian Cuisine)**:\n   - माछेर झोल (मछली का रसा), सरसों का साग, लुची-आलूर दम, रसगुल्ला और संदेश;\n   - सरसों का तेल, पंचफोरन और छेने की मिठाइयों की विशेषता।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 22.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 22."
+          "target": "पारंपरिक राजस्थानी थाली में गरमा-गरम दाल-बाटी-चूरमा के साथ बेसन के गट्टे की सब्जी और तीखी लहसुन की चटनी बड़े चाव से परोसी जाती है।",
+          "reading": "paaramprik rajasthani thaali mein garma-garam daal-baati-choorma ke saath besan ke gatte ki sabji aur teekhi lahsun ki chatni bade chaav se parosi jaati hai. [paːrəmpərɪk raːdʒəst̪ʰaːniː t̪ʰaːliː mẽː ɡərmaːɡərm d̪aːl baːtiː tʃuːrmaː keː saːt̪ʰ beːsən keː ɡət̪ːeː kiː səbdʒiː ɔːr t̪iːkʰiː ləhsʊn kiː tʃəʈniː bəɽeː tʃaːʋ seː pəroːsiː dʒaːt̪aː hɛː] (pah-ruhm-puh-REEK rah-juhs-THAH-nee THAH-lee mayn guhr-mah-GUH-ruhm dahl-BAH-tee-choor-MAH kay sahth BAY-suhn kay GUHT-tay kee suhb-JEE owr TEE-khee luh-HOON kee chuht-NEE buh-DAY chahv say puh-ROH-see JAH-tee hy)",
+          "translation": "In a traditional Rajasthani thali, piping hot Daal-Baati-Choorma is served with great relish alongside gram flour gatte curry and spicy garlic chutney."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 22-2)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "दक्षिण भारतीय खानपान में नारियल के तेल, करीपत्ता और इमली के खट्टे रस का अनूठा सम्मिश्रण सांभर और रसम को अत्यंत विशिष्ट स्वाद प्रदान करता है।",
+          "reading": "dakshin bhaarteey khaanpaan mein naariyal ke tel, kareepatta aur imli ke khatte ras ka anootha sammishran sambhar aur rasam ko atyant vishisht swaad pradaan karta hai. [d̪əkʃɪɳ bʱaːrt̪iːj kʰaːnpaːn mẽː naːrɪjəl keː t̪eːl kəriːpət̪ːaː ɔːr ɪmliː keː kʰət̪ːeː rəs kaː ənuːtʰaː səmːɪʃrəɳ saːmbʱər ɔːr rəsəm koː ət̪jən̪t̪ ʋɪʃɪʂʈ sʋaːd̪ prədaːn kərt̪aː hɛː] (DUHK-sheen bhahr-TEE-yuh khahn-PAHN mayn nah-ree-YUHL kay tayl, kuh-ree-PUHT-tah owr EEM-lee kay KHUHT-tay ruhs kah uh-NOO-thah suhm-MEESH-ruhn SAHM-buhr owr RUH-suhm koh uht-YUHNT vee-SHEESH-th svaad pruh-DAHN KUHR-tah hy)",
+          "translation": "In South Indian cuisine, the unique blend of coconut oil, curry leaves, and sour tamarind juice imparts a very distinctive flavor to sambhar and rasam."
+        },
+        {
+          "target": "पारंपरिक बंगाली भोज में सरसों के तेल और पंचफोरन में पकी मछली के साथ अंत में शुद्ध छेने से निर्मित रसगुल्ला परोसने की समृद्ध परंपरा है।",
+          "reading": "paaramprik bangaali bhoj mein sarson ke tel aur panchphoran mein paki machhli ke saath ant mein shuddh chhene se nirmit rasgulla parosne ki samriddh parampara hai. [paːrəmpərɪk bəŋɡaːliː bʱoːdʒ mẽː sərsõː keː t̪eːl ɔːr pəntʃpʰoːrən mẽː pəkiː mətʃʰliː keː saːt̪ʰ ən̪t̪ mẽː ʃʊd̪ːʱ tʃʰeːneː seː nɪrmɪt̪ rəsɡʊlːaː pəroːsneː kiː səmbrɪd̪ːʱ pərəmpəraː hɛː] (pah-ruhm-puh-REEK buhng-GAH-lee bhohj mayn suhr-SOHN kay tayl owr puhnch-phoh-RUHN mayn puh-KEE MUCHH-lee kay sahth uhnt mayn shoodh CHHAY-nay say neer-MEET ruhs-GOOL-lah puh-ROHS-nay kee suhm-REEDH puh-ruhm-puh-RAH hy)",
+          "translation": "In a traditional Bengali feast, there is a rich tradition of serving fish cooked in mustard oil and panch phoron, followed at the end by rasgulla crafted from pure cottage cheese."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "क्षेत्रीय व्यंजन: उत्तर = दाल मखनी/नान; दक्षिण = डोसा/सांभर; पश्चिम = बाटी/ढोकला; पूर्व = माछेर झोल/रसगुल्ला!"
+      ],
+      "culturalNotes": [
+        "भारतीय 'थाली' में भोजन के सभी प्रमुख अंगों (अनाज, दाल, शाक, दही, चटनी, अचार और मिष्ठान्न) का संतुलित समावेशन पोषण और आतिथ्य का प्रतीक है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"रात\":",
+          "prompt": "दाल-बाटी-चूरमा किस भारतीय राज्य का विश्वप्रसिद्ध पारंपरिक व्यंजन है?",
           "options": [
-            "हम इस पाठ में इकाई 22.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («सप्ताह» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («महीना» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («साल» का अनुचित स्थान)"
+            "राजस्थान (Rajasthan - Traditional cuisine of Rajasthan [regional food identity])",
+            "केरल (दक्षिण तटीय राज्य)",
+            "असम (पूर्वोत्तर चाय राज्य)",
+            "कश्मीर (शीत पर्वतीय राज्य)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "दाल-बाटी-चूरमा राजस्थान की पारंपरिक थाली का मुख्य और प्रतिष्ठित व्यंजन है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"रात\":",
+          "prompt": "दक्षिण भारतीय व्यंजन 'सांभर' में मुख्य रूप से कौन-सा खट्टा तत्व डाला जाता है?",
           "options": [
-            "हम इस पाठ में इकाई 22.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («महीना» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («साल» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («सप्ताह» का अशुद्ध रूप)"
+            "इमली (Imli - Tamarind [essential tangy ingredient of Sambhar])",
+            "शहद (Sweet mismatch)",
+            "केला (Fruit mismatch)",
+            "दूध (Dairy mismatch)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "सांभर और रसम का विशेष खट्टापन इमली के रस से आता है।"
         }
       ]
     },
@@ -9221,17 +9240,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"रात\": Which sentence is completely correct?",
+          "prompt": "क्षेत्रीय भारतीय खानपान और थाली संस्कृति का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 22.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («साल» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («सप्ताह» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («महीना» से संबंधित)"
+            "पारंपरिक गुजराती थाली में खट्टे-मीठे ढोकले और कढ़ी के साथ गरमा-गरम पूरियाँ और श्रीखंड बड़े प्रेम से परोसा जाता है। (In a traditional Gujarati thali, sweet and savory dhokla and kadhi are served with great affection alongside piping hot pooris and shrikhand.)",
+            "गुजराती थाली कल रात को सड़क पर गिर गई थी।",
+            "ढोकला किसी ने नहीं खाया क्योंकि सब सो रहे थे।",
+            "श्रीखंड फेंक दो ताकि कोई भोजन न करे।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«पारंपरिक गुजराती थाली में... श्रीखंड बड़े प्रेम से परोसा जाता है» क्षेत्रीय खानपान का प्रामाणिक और सुंदर वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u22-l3": {
@@ -9239,53 +9259,62 @@
     "subject": "hindi",
     "unit": 22,
     "lessonNumber": 3,
-    "title": "भारतीय व्यंजन, पाककला और आतिथ्य (Cuisine & Hospitality) (Part 3)",
+    "title": "स्वाद, बनावट और संवेदी शब्दावली (Flavors, Textures & Sensory Gastronomic Expressions)",
     "level": "B2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 22.3) with authentic linguistic precision.",
+    "objective": "भोजन के विविध स्वादों (तीखा, चटपटा, खट्टा, मीठा) तथा बनावट (खस्ता, कुरकुरा, नरम, रसीला) को व्यक्त करने वाली परिष्कृत संवेदी हिंदी शब्दावली में पारंगत होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "भोजन के स्वाद (Flavors), बनावट (Textures) और संवेदी अनुभवों की मानक शब्दावली:\n\n1. **स्वाद शब्दावली (Tastes & Flavors)**:\n   - **तीखा** (Spicy / Pungent hot);\n   - **चटपटा** (Tangy, zesty & flavorful);\n   - **खट्टा-मीठा** (Sweet and sour);\n   - **नमकीन / नमकीनदार** (Savory / Salty);\n   - **कड़वा और कसैला** (Bitter and Astringent);\n   - **जायकेदार / लज़ीज़** (Delectable / Delicious)।\n\n2. **बनावट शब्दावली (Textures & Mouthfeel)**:\n   - **खस्ता** (Flaky, crisp pastry texture);\n   - **कुरकुरा** (Crunchy / Crispy);\n   - **मुलायम / नरम** (Soft, tender and melt-in-mouth);\n   - **रसीला** (Juicy and succulent);\n   - **गाढ़ा / गाढ़ी तरी** (Thick consistency / Rich gravy)।\n\n3. **संवेदी अभिव्यक्ति**:\n   - *मुँह में पानी आ जाना* (Mouth-watering);\n   - *मुँह में रखते ही घुल जाना* (Melt in the mouth immediately)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 22.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 22."
+          "target": "यह गरमा-गरम समोसा बाहर से अत्यंत खस्ता और कुरकुरा है, जबकि इसके भीतर भरा हुआ आलू का मसाला बेहद चटपटा और जायकेदार है।",
+          "reading": "yah garma-garam samosa baahar se atyant khasta aur kurkura hai, jabki iske bheetar bhara hua aaloo ka masaala behad chatpata aur jaaykedaar hai. [jəɦ ɡərmaːɡərm səmoːsaː baːɦər seː ət̪jən̪t̪ kʰəst̪aː ɔːr kʊrkʊraː hɛː dʒəbkiː ɪskeː bʱiːt̪ər bʱəraː hʊaː aːluː kaː məsaːlaː beːɦəd̪ tʃəʈpətaː ɔːr dʒaːjkeːd̪aːr hɛː] (yuh guhr-mah-GUH-ruhm suh-MOH-sah BAH-huhr say uht-YUHNT KHUHS-tah owr koor-koo-RAH hy, juhb-KEE ees-kay BHEE-tuhr bhuh-RAH HOO-ah AH-loo kah muh-SAH-lah bay-HUHD chuht-puh-TAH owr jahy-kay-DAHR hy)",
+          "translation": "This piping hot samosa is extremely flaky and crispy on the outside, whereas the spiced potato stuffing inside is delightfully tangy and flavorful."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 22-3)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "गुलाब जामुन केसरिया चाशनी में पूरी तरह डूबने के बाद इतने नरम और रसीले हो गए हैं कि मुँह में रखते ही घुल जाते हैं।",
+          "reading": "gulaab jaamun kesariya chaashni mein poori tarah doobne ke baad itne naram aur raseele ho gaye hain ki munh mein rakhte hi ghul jaate hain. [ɡʊlaːb dʒaːmʊn keːsərɪjaː tʃaːʃniː mẽː puːriː t̪ərəɦ ɖuːbneː keː baːd̪ ɪt̪neː nərəm ɔːr rəsiːleː hoː ɡəjeː hɛ̃ː kɪ mʊ̃ɦ mẽː rəkʰt̪eː ɦiː ɡʱʊl dʒaːt̪eː hɛ̃ː] (goo-LAHB jah-MOON kay-suh-REE-yah chahsh-NEE mayn POO-ree TUH-ruh DOOB-nay kay bahd EET-nay NUH-ruhm owr ruh-SEE-lay hoh GUH-yay hy-n kee moonh mayn RUKH-tay hee ghool JAH-tay hy-n)",
+          "translation": "After soaking fully in saffron sugar syrup, the gulab jamuns have become so soft and juicy that they melt as soon as placed in the mouth."
+        },
+        {
+          "target": "इमली और पुदीने की खट्टी-मीठी चटनी के साथ परोसे जाने पर यह दही-पापड़ी चाट और भी अधिक लज़ीज़ और स्वादिष्ट लगती है।",
+          "reading": "imli aur podeene ki khatti-meethi chatni ke saath parose jaane par yah dahi-paapdi chaat aur bhi adhik lazeez aur svaadisht lagti hai. [ɪmliː ɔːr pʊd̪iːneː kiː kʰəʈːiː miːtʰiː tʃəʈniː keː saːt̪ʰ pəroːseː dʒaːneː pər jəɦ d̪əɦiː paːpɽiː tʃaːʈ ɔːr bʱiː əd̪ʱɪk ləziːz ɔːr sʋaːd̪ɪʂʈ ləɡt̪iː hɛː] (EEM-lee owr poo-DEE-nay kee KHUHT-tee MEE-thee chuht-NEE kay sahth puh-ROH-say JAH-nay puhr yuh duh-HEE-pahp-DEE chaht owr bhee uh-DHEEK luh-ZEEZ owr svah-DEESH-th LUHG-tee hy)",
+          "translation": "When served with sweet-and-sour tamarind and mint chutney, this Dahi Papdi Chaat tastes even more delectable and delicious."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "स्वाद = चटपटा/तीखा; बनावट = खस्ता (flaky)/कुरकुरा (crunchy)/रसीला (juicy)!"
+      ],
+      "culturalNotes": [
+        "भारतीय खानपान में 'चटपटा' शब्द केवल एक स्वाद नहीं बल्कि विभिन्न मसालों, खटास और तीखेपन के उस रोमांचक संगम का प्रतीक है जो भूख को जाग्रत करता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"सप्ताह\":",
+          "prompt": "कचोरी या समोसे की कुरकुरी और परतदार बनावट के लिए मानक हिंदी शब्द कौन-सा है?",
           "options": [
-            "हम इस पाठ में इकाई 22.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («महीना» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («साल» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («लाल» का अनुचित स्थान)"
+            "खस्ता (Khasta - Flaky / Crisp pastry texture [authentic culinary texture term])",
+            "गीला (Wet mismatch)",
+            "कच्चा (Raw mismatch)",
+            "जला हुआ (Burnt error)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "समोसे, कचोरी या मठरी की भुरभुरी व कुरकुरी बनावट को «खस्ता» कहा जाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"सप्ताह\":",
+          "prompt": "रस से भरे हुए रसगुल्ले या जलेबी की बनावट दर्शाने हेतु सही शब्द चुनिए: «यह मिठाई बेहद ___ है»",
           "options": [
-            "हम इस पाठ में इकाई 22.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («साल» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («लाल» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («महीना» का अशुद्ध रूप)"
+            "रसीली (Raseeli - Juicy / Syrupy [texture of syrup-soaked sweets])",
+            "सूखी (Dry mismatch)",
+            "कड़वी (Bitter mismatch)",
+            "रेतीली (Sandy mismatch)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "चाशनी से भरी हुई मिठास को «रसीली» कहा जाता है।"
         }
       ]
     },
@@ -9293,17 +9322,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"सप्ताह\": Which sentence is completely correct?",
+          "prompt": "स्वाद और संवेदी बनावट (Flavor & Texture) का पूर्णतः शुद्ध वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 22.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («लाल» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («महीना» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («साल» से संबंधित)"
+            "मसाला डोसा बाहर से एकदम कुरकुरा है और इसके भीतर भरा आलू का मिश्रण बहुत ही स्वादिष्ट व सुगंधित है। (The masala dosa is completely crunchy on the outside and the spiced potato filling inside is very delicious and fragrant.)",
+            "मसाला डोसा कल रात रो रहा था।",
+            "कुरकुरा होने के कारण डोसा भाग गया था।",
+            "आलू का मिश्रण फेंक दो ताकि कोई न खाए।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«मसाला डोसा बाहर से एकदम कुरकुरा है और... स्वादिष्ट व सुगंधित है» संवेदी पाक शब्दावली का मानक वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u22-l4": {
@@ -9311,53 +9341,62 @@
     "subject": "hindi",
     "unit": 22,
     "lessonNumber": 4,
-    "title": "भारतीय व्यंजन, पाककला और आतिथ्य (Cuisine & Hospitality) (Part 4)",
+    "title": "रेस्तरां संवाद, भोजन आदेश और आतिथ्य शिष्टाचार (Restaurant Dining, Ordering & Hospitality Discourse)",
     "level": "B2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 22.4) with authentic linguistic precision.",
+    "objective": "रेस्तरां में परिष्कृत भोजन आदेश (Ordering), शाकाहारी/मांसाहारी विकल्पों की पूछताछ तथा 'अतिथि देवो भव' की भारतीय आतिथ्य परंपरा के शिष्टाचार में निपुण होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "रेस्तरां में भोजन आदेश और भारतीय आतिथ्य शिष्टाचार के मानक संवाद नियम:\n\n1. **रेस्तरां में पूछताछ एवं आदेश (Ordering in Restaurant)**:\n   - **मेनू कार्ड / व्यंजन सूची** (Menu card / Dish list);\n   - **शाकाहारी और मांसाहारी विकल्प** (Vegetarian and Non-vegetarian options);\n   - **आज का विशेष व्यंजन** (Chef's special of the day);\n   - **मिर्च की मात्रा** (कम तीखा / मध्यम तीखा / बिना मिर्च का);\n   - **बिल / देयक माँगना** (Requesting the check/bill)।\n\n2. **भारतीय आतिथ्य शिष्टाचार (Hospitality Traditions)**:\n   - **'अतिथि देवो भव'** (Guest is equivalent to God);\n   - **मनुहार / आग्रह करना** (Affectionate insistence on taking more food);\n   - **सादर भोजन परोसना** (Serving food with utmost respect);\n   - **तृप्ति और आभार प्रकट करना** (Expressing fullness and heartfelt gratitude)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 22.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 22."
+          "target": "नमस्ते महोदय, क्या आप कृपया आज के विशेष शाकाहारी व्यंजनों की सूची और कम तीखे सूप के विकल्प बता सकते हैं?",
+          "reading": "namaste mahoday, kya aap kripaya aaj ke vishesh shaakaahaari vyanjanon ki soochi aur kam teekhe soup ke vikalp bata sakte hain? [nəməsteː məɦoːd̪əj kjaː aːp krɪpəjaː aːdʒ keː ʋɪʃeːʂ ʃaːkaːɦaːriː ʋjəndʒnõː kiː suːtʃiː ɔːr kəm t̪iːkʰeː suːp keː ʋɪkəlp bətaː səkt̪eː hɛ̃ː] (nuh-muhs-TAY muh-HOH-duy, kyah ahp KREE-puh-yah ahj kay vee-SHAYSH shah-kah-HAH-ree vyuhn-juh-NOHN kee SOO-chee owr kuhm TEE-khay soup kay vee-KUHLP buh-TAH suhk-TAY hy-n)",
+          "translation": "Hello Sir, could you please tell us the list of today's special vegetarian dishes and options for mild soup?"
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 22-4)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "मेजबान ने भारतीय आतिथ्य परंपरा 'अतिथि देवो भव' का सम्मान करते हुए सभी मेहमानों को आदरपूर्वक भोजन परोसा और पुनः भोजन लेने का स्नेहपूर्ण आग्रह किया।",
+          "reading": "mezbaan ne bhaarteey aatithya parampara 'atithi devo bhava' ka sammaan karte hue sabhi mehmaanon ko aadarpookvak bhojan parosa aur punah bhojan lene ka snehapoorna aagrah kiya. [meːzbaːn neː bʱaːrt̪iːj aːt̪ɪt̪ʰjə pərəmpəraː ət̪ɪt̪ʰɪ d̪eːʋoː bʱəʋə kaː səmːaːn kərt̪eː hʊeː səbʱiː meːɦmaːnõː koː aːd̪ərpuːrʋək bʱoːdʒən pəroːsaː ɔːr pʊnəɦ bʱoːdʒən leːneː kaː sneːɦpuːrɳ aːɡrəɦ kɪjaː] (mayz-BAHN nay bhahr-TEE-yuh ah-TEETH-yuh puh-ruhm-puh-RAH 'uh-TEE-thee DAY-voh BHUH-vuh' kah suhm-MAHN KUHR-tay HOO-ay SUH-bhee mayh-mah-NOHN koh ah-duhr-poor-VUK bhoh-JUHN puh-ROH-sah owr POO-nuhk bhoh-JUHN LAY-nay kah snay-huh-POOR-nuh AHG-ruh kee-YAH)",
+          "translation": "The host, honoring the Indian hospitality tradition of 'Guest is God', respectfully served food to all guests and affectionately insisted on their taking second helpings."
+        },
+        {
+          "target": "प्रबंधक महोदय, भोजन अत्यंत स्वादिष्ट और लज़ीज़ था, कृपया हमारे मेज़ का बिल ला दीजिए और हम डिजिटल माध्यम से भुगतान करेंगे।",
+          "reading": "prabandhak mahoday, bhojan atyant svaadisht aur lazeez tha, kripaya hamaare mez ka bill la deejiye aur ham digital maadhyam se bhugtaan karenge. [prəbən̪d̪ʱək məɦoːd̪əj bʱoːdʒən ət̪jən̪t̪ sʋaːd̪ɪʂʈ ɔːr ləziːz t̪ʰaː krɪpəjaː ɦəmaːreː meːz kaː bɪl laː d̪iːdʒɪjeː ɔːr ɦəm ɖɪdʒɪʈəl maːd̪ʱjəm seː bʱʊɡt̪aːn kərẽːɡeː] (pruh-BUHN-dhuhk muh-HOH-duy, bhoh-JUHN uht-YUHNT svah-DEESH-th owr luh-ZEEZ thah, KREE-puh-yah huh-MAH-ray mayz kah bill lah DEE-jee-yay owr hum digital MAHDH-yuhm say bhoog-TAHN kuh-RAYN-gay)",
+          "translation": "Manager Sir, the food was exceptionally delicious and delectable, please bring the bill for our table and we will pay digitally."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "आतिथ्य = 'अतिथि देवो भव'; रेस्तरां = व्यंजन सूची (menu), मनुहार (polite urging to eat)!"
+      ],
+      "culturalNotes": [
+        "पारंपरिक भारतीय घरों में मेहमान को भोजन कराते समय 'मनुहार' (प्रेमपूर्वक दोबारा परोसना) आत्मीयता और सत्कार की सर्वोच्च अभिव्यक्ति मानी जाती है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"महीना\":",
+          "prompt": "भारतीय संस्कृति में मेहमान के सत्कार का मूल आदर्श वाक्य क्या है?",
           "options": [
-            "हम इस पाठ में इकाई 22.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («साल» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («लाल» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («नीला» का अनुचित स्थान)"
+            "अतिथि देवो भव (Atithi Devo Bhava - Guest is equivalent to God [foundational hospitality motto])",
+            "अतिथि को भगाओ (अशिष्ट असांस्कृतिक दोष)",
+            "दरवाज़ा बंद रखो (अनुदार व्यवहार)",
+            "भोजन मत दो (अवांछित अमानक रूप)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "भारतीय संस्कृति में अतिथि को ईश्वर तुल्य मानने वाला उपनिषद वाक्य «अतिथि देवो भव» है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"महीना\":",
+          "prompt": "रेस्तरां में उपलब्ध पकवानों की सूची (Menu Card) के लिए मानक शुद्ध हिंदी पद कौन-सा है?",
           "options": [
-            "हम इस पाठ में इकाई 22.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («लाल» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («नीला» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («साल» का अशुद्ध रूप)"
+            "व्यंजन सूची (Vyanjan soochi - Menu card / List of dishes [culinary term])",
+            "दवा पर्चा (चिकित्सा पर्चा)",
+            "परीक्षा परिणाम (शैक्षणिक परिणाम)",
+            "क्रिकेट स्कोर (खेल स्कोर)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "रेस्तरां में परोसे जाने वाले सभी व्यंजनों की सूची को «व्यंजन सूची» कहा जाता है।"
         }
       ]
     },
@@ -9365,17 +9404,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"महीना\": Which sentence is completely correct?",
+          "prompt": "रेस्तरां संवाद और आतिथ्य शिष्टाचार का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 22.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («नीला» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («साल» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («लाल» से संबंधित)"
+            "कृपया हमारे लिए दो थाली भोजन और कम मिर्च वाला रायता लाने का कष्ट करें। (Please take the trouble to bring two thali meals and mild raita with less chili for us.)",
+            "भोजन की थाली को ज़मीन पर फेंक दो जल्दी।",
+            "रायता में किसी ने पत्थर मिला दिया था।",
+            "कम मिर्च होने पर हम सब चिल्लाएंगे।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«कृपया हमारे लिए दो थाली भोजन और कम मिर्च वाला रायता लाने का कष्ट करें» शिष्ट और मानक रेस्तरां संवाद का उदाहरण है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u22-l5": {
@@ -9383,53 +9423,62 @@
     "subject": "hindi",
     "unit": 22,
     "lessonNumber": 5,
-    "title": "भारतीय व्यंजन, पाककला और आतिथ्य (Cuisine & Hospitality) (Part 5)",
+    "title": "खानपान संस्कृति व पाककला विमर्श का समग्र समेकन (Comprehensive Culinary Arts & Gastronomy Synthesis)",
     "level": "B2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 22.5) with authentic linguistic precision.",
+    "objective": "भारतीय भोजन दर्शन, आयुर्वेदिक षड्रस (Six Tastes) संतुलन, पारंपरिक दावतों तथा पाककला समीक्षा के समग्र भाषाई विमर्श में पूर्ण अधिकार प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "भारतीय पाककला दर्शन, पोषण विज्ञान और समग्र खानपान विमर्श का परिष्कृत ढाँचा:\n\n1. **आयुर्वेदिक षड्रस संतुलन (Six Primary Tastes)**:\n   - **मधुर** (Sweet - मिठास);\n   - **अम्ल** (Sour - खटास);\n   - **लवण** (Salty - नमकीन);\n   - **कटु** (Pungent / Spicy - तीखापन);\n   - **तिक्त** (Bitter - कड़वाहट);\n   - **कषाय** (Astringent - कसैलापन)।\n\n2. **पारंपरिक भोज एवं सामाजिक समरसता**:\n   - *सामूहिक प्रीतिभोज और पंगत में बैठकर भोजन करने की सनातन परंपरा;*\n   - *ऋतु अनुकूल आहार (ऋतुचर्या) द्वारा शारीरिक स्वास्थ्य और मानसिक शांति का संवर्धन;*\n   - *मसालों के औषधीय गुणों द्वारा पाचन और रोग प्रतिरोधक क्षमता का विकास।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 22.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 22."
+          "target": "भारतीय पाककला की वैश्विक ख्याति उसके विविध मसालों के संतुलित संयोजन, औषधीय गुणों और समृद्ध सांस्कृतिक विरासत पर आधारित है।",
+          "reading": "bhaarteey paakkala ki vaishvik khyaati uske vividh masaalon ke santulit sanyojan, aushadheey gunon aur samriddh saanskritik viraasat par aadhaarit hai. [bʱaːrt̪iːj paːkkəlaː kiː ʋɛːʃʋɪk kʰjaːt̪ɪ ʊskeː ʋɪʋɪd̪ʱ məsaːlõː keː sən̪t̪ʊlɪt̪ sənjoːdʒən ɔːʂəd̪ʱiːj ɡʊɳõː ɔːr səmbrɪd̪ːʱ saː̃skrɪt̪ɪk ʋɪraːsət̪ pər aːd̪ʱaːrɪt̪ hɛː] (bhahr-TEE-yuh pahk-kuh-LAH kee VYSH-veek khyah-TEE oos-kay vee-VEEDH muh-sah-LOHN kay suhn-too-LEET suhn-yoh-JUHN, ow-shuh-DHEE-yuh goo-NOHN owr suhm-REEDH sahn-skree-TEEK vee-rah-SUHT puhr ah-dhah-REET hy)",
+          "translation": "The global renown of Indian culinary art is based on the balanced combination of its diverse spices, medicinal properties, and rich cultural heritage."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 22-5)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "पारंपरिक भारतीय भोज में षड्रसों का सुंदर समन्वय शरीर को समग्र पोषण और मन को असीम तृप्ति प्रदान करता है।",
+          "reading": "paaramprik bhaarteey bhoj mein shad-rason ka sundar samanvay shareer ko samagr poshan aur man ko aseem tripti pradaan karta hai. [paːrəmpərɪk bʱaːrt̪iːj bʱoːdʒ mẽː ʂəɖrəsõː kaː sʊn̪d̪ər səmənʋəj ʃəriːr koː səməɡrə poːʂəɳ ɔːr mən koː əsiːm trɪpt̪ɪ prədaːn kərt̪aː hɛː] (pah-ruhm-puh-REEK bhahr-TEE-yuh bhohj mayn shuhd-ruh-SOHN kah SOON-duhr suh-muhn-VUY shuh-REER koh suh-MUH-gruh poh-SHUHN owr muhn koh uh-SEEM TREEP-tee pruh-DAHN KUHR-tah hy)",
+          "translation": "In a traditional Indian feast, the beautiful harmony of the six tastes provides complete nourishment to the body and boundless satisfaction to the mind."
+        },
+        {
+          "target": "पाककला महोत्सव के भव्य समापन पर मुख्य निर्णायक ने भारतीय रसोइयों के कौशल, शुद्धता और नवाचार की भूरि-भूरि प्रशंसा की।",
+          "reading": "paakkala mahotsav ke bhavya samaapan par mukhya nirnaayak ne bhaarteey rasoiyon ke kaushal, shuddhata aur navaachaar ki bhoori-bhoori prashansa ki. [paːkkəlaː məɦoːt̪səʋ keː bʱəʋjə səmaːpən pər mʊkʰjə nɪrɳaːjək neː bʱaːrt̪iːj rəsoːɪjõː keː kɔːʃəl ʃʊd̪ːʱt̪aː ɔːr nəʋaːtʃaːr kiː bʱuːriː bʱuːriː prəʃənsaː kiː] (pahk-kuh-LAH muh-HOHT-suhv kay BHUHV-yuh suh-MAH-puhn puhr MOOKH-yuh neer-nah-YUK nay bhahr-TEE-yuh ruh-soh-ee-YOHN kay KOW-shuhl, shoodh-uh-TAH owr nuh-vah-CHAHR kee BHOO-ree-BHOO-ree pruh-shuhn-SAH kee)",
+          "translation": "At the grand conclusion of the culinary festival, the chief judge lavishly praised the skill, purity, and innovation of Indian chefs."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "खानपान समेकन: षड्रस (six tastes), प्रीतिभोज (communal feast), ऋतु अनुकूल आहार (seasonal diet)!"
+      ],
+      "culturalNotes": [
+        "भारतीय परंपरा में 'अन्नं परब्रह्म स्वरूपम्' (Food is the manifestation of the Supreme Divine) मानकर भोजन पकाने और ग्रहण करने को पवित्र साधना माना जाता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"साल\":",
+          "prompt": "आयुर्वेद के अनुसार भोजन में कितने मूल रसों ( षड्रस - Six Tastes) का संतुलन होना चाहिए?",
           "options": [
-            "हम इस पाठ में इकाई 22.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («लाल» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («नीला» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («पीला» का अनुचित स्थान)"
+            "छह रस - षड्रस (Chhah ras / Shadras - Six primary tastes [Ayurvedic dietary balance])",
+            "केवल दो रस (अधूरा आहार)",
+            "सौ रस (अतिशयोक्तिपूर्ण)",
+            "शून्य रस (स्वादहीन)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "आयुर्वेद में मधुर, अम्ल, लवण, कटु, तिक्त और कषाय इन 6 रसों का संतुलन अनिवार्य माना गया है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"साल\":",
+          "prompt": "भारतीय भोजन में सामूहिक दावत या भोज को क्या कहते हैं: «गाँव में आज भव्य ___ का आयोजन है»?",
           "options": [
-            "हम इस पाठ में इकाई 22.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («नीला» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («पीला» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («लाल» का अशुद्ध रूप)"
+            "प्रीतिभोज / दावत (Preetibhoj / Daavat - Communal feast / Banquet [social dining event])",
+            "अकेलापन (Solitude mismatch)",
+            "उपवास (Fasting opposite)",
+            "क्रोध सभा (Anger mismatch)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "सामूहिक सामाजिक भोज या दावत को हिंदी में «प्रीतिभोज» कहा जाता है।"
         }
       ]
     },
@@ -9437,17 +9486,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"साल\": Which sentence is completely correct?",
+          "prompt": "भारतीय खानपान संस्कृति व पाककला दर्शन का समग्र प्रामाणिक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 22.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («पीला» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («लाल» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («नीला» से संबंधित)"
+            "भारतीय भोजन में मसालों के औषधीय गुणों और ऋतु-अनुकूल आहार का समन्वय स्वास्थ्य और दीर्घायु का मूल आधार है। (The harmony of medicinal properties of spices and seasonally appropriate diet in Indian food is the fundamental basis of health and longevity.)",
+            "मसालों को आग में जला दो ताकि सब बीमार हों।",
+            "ऋतु-अनुकूल आहार कल शाम को बाज़ार में बिक रहा था।",
+            "स्वास्थ्य और दीर्घायु भोजन न करने से मिलती है।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«भारतीय भोजन में मसालों के औषधीय गुणों... स्वास्थ्य और दीर्घायु का मूल आधार है» भारतीय खानपान दर्शन का आदर्श वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u23-l1": {
