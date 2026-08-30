@@ -13829,56 +13829,65 @@
     "subject": "korean",
     "unit": 30,
     "lessonNumber": 1,
-    "title": "헌법 재판, 사법 절차 및 법률 용어 (Constitutional Law & Courts) (Part 1)",
+    "title": "헌법재판소 5대 심판 권한과 기본권 보장 (Constitutional Adjudication)",
     "level": "C1",
-    "objective": "Comprehensive mastery of 법률 용어와 사법 절차 (Legal Discourse & Constitutional Law).",
+    "objective": "위헌법률심판, 헌법소원심판, 탄핵심판, 정당해산심판, 권한쟁의심판 및 과잉금지의 원칙을 이해하고 헌법적 가치를 논증한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 헌법 재판, 사법 절차 및 법률 용어 (Constitutional Law & Courts) » (제1절)의 핵심 언어 요소와 법률 용어와 사법 절차 (Legal Discourse & Constitutional Law)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "대한민국 최고 헌법 수호 기관인 헌법재판소의 5대 관장 심판과 국민의 기본권 보장 체계입니다.\n\n1. 헌법재판소의 5대 관장 심판:\n- **위헌법률심판(Review of Constitutionality of Statutes)**: 법률이 헌법에 위반되는지 여부를 심판하여 효력을 상실시킴 (법원의 제청 필요)\n- **헌법소원심판(Constitutional Complaint)**: 공권력의 행사 또는 불행사로 인해 헌법상 보장된 기본권을 침해받은 국민이 직접 구제를 청구하는 심판\n- **탄핵심판(Impeachment Trial)**: 대통령, 국무총리, 법관 등 고위 공직자가 직무 집행에 있어 헌법이나 법률을 위배했을 때 파면 여부를 결정\n- **정당해산심판(Dissolution of Political Party)**: 정당의 목적이나 활동이 민주적 기본질서에 위배될 때 정부의 청구로 해산 결정\n- **권한쟁의심판(Competence Dispute)**: 국가기관 상호 간 또는 지방자치단체 간의 권한 범위에 관한 다툼을 심판\n\n2. 기본권 제한의 한계 원리:\n- **과잉금지의 원칙(Principle of Proportionality / 과잉금지원칙)**: 국민의 기본권을 법률로 제한할 때 지켜야 할 4대 요건인 목적의 정당성, 수단의 적합성, 침해의 최소성, 법익의 균형성",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (30.1.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "헌법재판소는 해당 법률 조항이 과잉금지원칙을 위반하여 국민의 집회 및 결사의 자유를 과도하게 침해한다고 판단하여 위헌 결정을 내렸습니다.",
+          "reading": "Heonbeopjaepanso-neun haedang beomryul johang-i gwa-ing-geumji-wonchik-eul wiban-hayeo gungmin-ui jiphoe mit gyeolsa-ui jayu-reul gwadohage chimhaehandago pandanhayeo wiheon gyeoljeong-eul naeryeotseumnida.",
+          "translation": "The Constitutional Court judged that the statutory provision in question violated the principle of proportionality ('과잉금지원칙을 위반하여') and excessively infringed citizens' freedom of assembly and association, handing down an unconstitutional decision."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (30.1.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "행정청의 위법한 공권력 행사로 인해 신체의 자유를 침해당한 청구인은 정당한 법적 절차에 따라 헌법소원심판을 청구했습니다.",
+          "reading": "Haengjeongcheong-ui wibeophan gonggwonryeok haengsa-ro inhae sinche-ui jayu-reul chimhaedanghan cheong-guin-eun jeongdanghan beopjeok jeolcha-e ttara heonbeopsowonsimpan-eul cheong-guhaetseumnida.",
+          "translation": "The petitioner, whose physical freedom was infringed by the administrative agency's unlawful exercise of public power, filed a constitutional complaint trial ('헌법소원심판을 청구했습니다') according to due process of law."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (30.1.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "국가기관과 지방자치단체 간의 행정 사무 관할권을 둘러싼 첨예한 대립은 권한쟁의심판 청구를 통해 사법적으로 해결되었습니다.",
+          "reading": "Gukgagigwan-gwa jibangjachidanche gan-ui haengjeong samu gwanhalgwon-eul dulleossan cheom-yehan daerip-eun gwonhanjaeng-uisimpan cheong-gu-reul tonghae sabeopjeog-euro haegyeoldoeeotseumnida.",
+          "translation": "The sharp conflict surrounding administrative affairs jurisdiction between a state agency and a local government was judicially resolved through filing a competence dispute trial ('권한쟁의심판 청구를 통해')."
+        },
+        {
+          "target": "헌법상 기본권 제한은 오직 국가안전보장, 질서유지 또는 공공복리를 위하여 필요한 경우에 한하여 법률로써만 가능합니다.",
+          "reading": "Heonbeopsang gibon-gwon jehan-eun ojik gukga-anjeonbojang, jilseo-yuji ttoneun gonggongbokri-reul wihayeo piryohan gyeong-u-e hanhayeo beomryul-rosseoman ganeunghamnida.",
+          "translation": "Restriction of basic rights under the Constitution is permissible only by statute in cases necessary for national security, maintenance of law and order, or public welfare."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "헌재의 5대 심판: 위헌법률, 헌법소원, 탄핵, 정당해산, 권한쟁의! 기본권엔 과잉금지!"
+      ],
+      "culturalNotes": [
+        "대한민국 헌법재판소(헌재)는 9인의 재판관으로 구성되며, 위헌 결정이나 탄핵 인용, 정당해산 결정을 위해서는 재판관 6인 이상의 찬성이 필요한 엄격한 가중정족수 제도를 채택하고 있습니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 법률 용어와 사법 절차 (Legal Discourse & Constitutional Law) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 1)?",
+          "prompt": "공권력의 행사 또는 불행사로 인해 헌법상 보장된 기본권을 침해받은 국민이 헌법재판소에 직접 권리 구제를 청구하는 심판은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (30.1.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (30.1.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (30.1.3)."
+            "헌법소원심판 (Constitutional Complaint)",
+            "민사소송 (Civil Lawsuit)",
+            "가압류신청 (Provisional Seizure Application)"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "국민이 공권력에 의한 기본권 침해 구제를 청구하는 헌법 재판은 '헌법소원심판'입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 헌법 재판, 사법 절차 및 법률 용어 (Constitutional Law & Courts) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 1):",
+          "prompt": "국민의 기본권을 제한할 때 목적의 정당성, 수단의 적합성, 침해의 최소성, 법익의 균형성을 지켜야 한다는 헌법 원리는?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (30.1.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (30.1.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (30.1.3)."
+            "과잉금지의 원칙 (비례의 원칙 / Principle of Proportionality)",
+            "선착순의 원칙 (First-come Principle)",
+            "무죄추정 배제의 원칙 (Exclusion of Innocence)"
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "기본권 제한의 한계를 규정한 4대 헌법 심사 기준은 '과잉금지의 원칙(비례의 원칙)'입니다."
         }
       ]
     },
@@ -13886,14 +13895,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 법률 용어와 사법 절차 (Legal Discourse & Constitutional Law) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 30-1)?",
+          "prompt": "법원에서 재판 중인 사건에 적용될 법률이 헌법에 위반되는지 여부를 헌법재판소에 심판해 줄 것을 제청하는 제도는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (30.1.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (30.1.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (30.1.3)."
+            "위헌법률심판 (Review of Constitutionality of Statutes)",
+            "정당해산심판 (Dissolution of Political Party)",
+            "탄핵심판 (Impeachment Trial)"
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR C1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "재판의 전제가 되는 법률의 위헌 여부를 가리는 재판은 '위헌법률심판'입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'기본권 침해에 대해 헌법소원심판을 청구했어요'(I filed a constitutional complaint for basic rights infringement)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "기본권 침해에 대해 헌법소원심판을 청구했어요.",
+            "기본권 침해에 대해 헌법소원심판을 청구했어요"
+          ],
+          "explanation": "기본권 침해에 대해 + 헌법소원심판을 + 청구했어요 = 기본권 침해에 대해 헌법소원심판을 청구했어요."
         }
       ]
     }
@@ -13903,56 +13921,65 @@
     "subject": "korean",
     "unit": 30,
     "lessonNumber": 2,
-    "title": "헌법 재판, 사법 절차 및 법률 용어 (Constitutional Law & Courts) (Part 2)",
+    "title": "형사 소송과 민사 소송의 사법 절차 (Criminal & Civil Litigation)",
     "level": "C1",
-    "objective": "Comprehensive mastery of 법률 용어와 사법 절차 (Legal Discourse & Constitutional Law).",
+    "objective": "고소·고발, 기소/불기소, 구속영장 실질심사, 국민참여재판, 민사 소장 접수 및 가압류·가처분 절차를 마스터한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 헌법 재판, 사법 절차 및 법률 용어 (Constitutional Law & Courts) » (제2절)의 핵심 언어 요소와 법률 용어와 사법 절차 (Legal Discourse & Constitutional Law)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "사법부 법원에서 진행되는 형사 소송(Criminal Procedure) 및 민사 소송(Civil Procedure)의 전 과정 전문 법률 절차입니다.\n\n1. 형사 소송 절차 (수사-기소-재판):\n- **고소(Complaint / 피해자) vs 고발(Accusation / 제3자)**\n- **영장실질심사(구속 전 피의자 심문)**: 판사가 구속영장 발부 전 피의자를 대면 심문하여 증거 인멸 및 도주 우려를 심사하는 절차\n- **공소 제기(기소 / Indictment) vs 불기소 처분(기소유예/혐의없음)**: 검사가 법원에 재판을 청구하는 행위\n- **국민참여재판(Jury Trial in Korea)**: 일반 시민이 배심원으로 참여하여 유·무죄 평결과 양형 의견을 제시하는 형사 재판\n\n2. 민사 소송 절차 (권리 구제):\n- **원고(Plaintiff) vs 피고(Defendant)**: 소송을 제기한 사람 vs 소송을 당한 상대방\n- **소장(Complaint) 접수 & 변론기일(Pleading Date)**: 양측 당사자가 법정에 출석하여 주장과 증거를 공방\n- **보전처분(가압류 / 가처분)**: 판결 확정 전 피고가 재산을 은닉하거나 처분하지 못하도록 동결하는 법적 조치",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (30.2.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "법원은 피의자의 주거가 일정하고 증거 인멸 및 도주의 우려가 없다고 판단하여 구속영장 청구를 기각했습니다.",
+          "reading": "Beobwon-eun pi-uija-ui jugeo-ga iljeonghago jeung-geo inmyeol mit doju-ui uryeo-ga eopdago pandanhayeo gusong-yeongjang cheong-gu-reul gigakhaetseumnida.",
+          "translation": "The court dismissed the arrest warrant request ('구속영장 청구를 기각했습니다'), judging that the suspect's residence was fixed and there was no risk of evidence destruction or flight."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (30.2.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "피고인은 시민 배심원단의 평결을 통해 객관적 판단을 받고자 국민참여재판을 신청하였습니다.",
+          "reading": "Pigoin-eun simin baesimwondan-ui pyeong-gyeol-eul tonghae gaekgwanjeok pandan-eul batgoja gungmin-cham-yeo-jaepan-eul sincheonghayeotseumnida.",
+          "translation": "The defendant applied for a citizen participation trial ('국민참여재판을 신청하였습니다') to receive an objective judgment through the citizen jury's verdict."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (30.2.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "원고는 본안 소송 승소 후 강제집행을 원활히 진행하기 위해 피고의 부동산에 가압류를 신청하여 결정을 받았습니다.",
+          "reading": "Won-go-neun bon-an sosong seungso hu gangjejiphaeng-eul wonhwalhi jinhaenghagi wihae pigo-ui budongsan-e ga-amryu-reul sincheonghayeo gyeoljeong-eul badatseumnida.",
+          "translation": "To smoothly proceed with compulsory execution after winning the main lawsuit, the plaintiff applied for provisional seizure ('가압류를 신청하여') on the defendant's real estate and received an order."
+        },
+        {
+          "target": "검찰은 피의자의 범죄 혐의가 충분히 입증되었다고 판단하여 형사 재판부에 정식 기소 처분을 내렸습니다.",
+          "reading": "Geomchal-eun pi-uija-ui beomjoe hyeomi-ga chungbunhi ipjeungdoe-eotdago pandanhayeo hyeongsa jaepanbu-e jeongsik giso cheobun-eul naeryeotseumnida.",
+          "translation": "The prosecution formally indicted ('정식 기소 처분을 내렸습니다') the case to the criminal bench, judging that the suspect's criminal charges were sufficiently proven."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "영장실질심사로 구속 여부 결정, 기소되면 국민참여재판, 민사엔 가압류와 변론기일!"
+      ],
+      "culturalNotes": [
+        "한국의 '국민참여재판'은 미국의 배심원제와 달리 배심원의 평결이 판사에게 법적 기속력을 갖지 않는 '권고적 효력'을 지니지만, 판사는 배심원 평결을 매우 존중하여 판결에 적극 반영합니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 법률 용어와 사법 절차 (Legal Discourse & Constitutional Law) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 2)?",
+          "prompt": "판사가 검사의 구속영장 청구를 받아들여 피의자를 구속하기 전, 법정에서 직접 피의자를 심문하는 제도는?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (30.2.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (30.2.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (30.2.3)."
+            "영장실질심사 (구속 전 피의자 심문)",
+            "약식명령 (Summary Order)",
+            "즉결심판 (Summary Judgment)"
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "구속영장 발부 전 판사가 피의자를 대면 심문하는 절차는 '영장실질심사'입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 헌법 재판, 사법 절차 및 법률 용어 (Constitutional Law & Courts) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 2):",
+          "prompt": "민사 소송에서 승소 판결 후 돈을 돌려받지 못할 것에 대비하여 피고의 예금이나 부동산을 미리 묶어두는 신청은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (30.2.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (30.2.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (30.2.3)."
+            "가압류 (Provisional Seizure)",
+            "공탁 (Deposit)",
+            "항소 (Appeal)"
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "금전 채권의 집행을 보전하기 위해 재산을 동결하는 조치는 '가압류'입니다."
         }
       ]
     },
@@ -13960,14 +13987,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 법률 용어와 사법 절차 (Legal Discourse & Constitutional Law) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 30-2)?",
+          "prompt": "일반 국민이 배심원으로 참여하여 형사 재판의 유무죄 평결과 양형에 의견을 내는 재판은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (30.2.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (30.2.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (30.2.3)."
+            "국민참여재판 (Citizen Participation Trial)",
+            "행정심판 (Administrative Appeals)",
+            "가사재판 (Family Litigation)"
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR C1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "시민 배심원이 참여하는 한국형 배심 재판은 '국민참여재판'입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'영장실질심사와 국민참여재판을 진행했어요'(They conducted warrant hearing and citizen jury trial)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "영장실질심사와 국민참여재판을 진행했어요.",
+            "영장실질심사와 국민참여재판을 진행했어요"
+          ],
+          "explanation": "영장실질심사와 + 국민참여재판을 + 진행했어요 = 영장실질심사와 국민참여재판을 진행했어요."
         }
       ]
     }
@@ -13977,56 +14013,65 @@
     "subject": "korean",
     "unit": 30,
     "lessonNumber": 3,
-    "title": "헌법 재판, 사법 절차 및 법률 용어 (Constitutional Law & Courts) (Part 3)",
+    "title": "민사 불법행위, 채무불이행 및 분쟁 조정 (Torts & Dispute Resolution)",
     "level": "C1",
-    "objective": "Comprehensive mastery of 법률 용어와 사법 절차 (Legal Discourse & Constitutional Law).",
+    "objective": "손해배상 청구, 채무불이행, 부당이득 반환, 소멸시효 완성 및 소송 외 분쟁 해결(조정/중재/합의)을 이해하고 법률 상담을 구사한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 헌법 재판, 사법 절차 및 법률 용어 (Constitutional Law & Courts) » (제3절)의 핵심 언어 요소와 법률 용어와 사법 절차 (Legal Discourse & Constitutional Law)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "사인 간의 권리 침해와 재산상 손해를 사법적으로 해결하는 민사 불법행위(Torts) 및 분쟁 해결 기제입니다.\n\n1. 민사 책임 및 청구권:\n- **불법행위(Tort)로 인한 손해배상 청구**: 고의 또는 과실로 타인에게 위법하게 가한 재산상·정신적 손해(위자료)의 배상을 청구\n- **채무불이행(Default / Non-performance)**: 계약상의 이행기까지 정당한 사유 없이 빚이나 의무를 갚지 않는 행위 (이행지체, 이행불능, 불완전이행)\n- **부당이득 반환 청구(Claim for Unjust Enrichment)**: 법률상 원인 없이 타인의 재산으로 이익을 얻고 타인에게 손해를 가한 경우 반환을 청구\n- **소멸시효(Statute of Limitations)**: 권리자가 권리를 행사할 수 있음에도 일정 기간 행사하지 않으면 권리가 소멸하는 제도 (일반 채권 10년, 상사 채권 5년)\n\n2. 대체적 분쟁 해결 제도(ADR):\n- **합의(Settlement) vs 민사조정(Mediation) vs 중재(Arbitration)**: 당사자 간 자율적 타협 vs 법원 조정위원회의 중재안 합의 vs 중재인의 최종 판정에 승복",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (30.3.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "제조물 책임법상 결함으로 인해 피해를 입은 소비자는 제조업자를 상대로 징벌적 손해배상 청구 소송을 제기했습니다.",
+          "reading": "Jejomul chaegimbeopsang gyeolham-euro inhae pihae-reul ibeun sobija-neun jejoeopja-reul sangdae-ro jingbeoljeok sonhaebaesang cheong-gu sosong-eul jegihaetseumnida.",
+          "translation": "Consumers who suffered damages due to defects under the Product Liability Act filed a punitive damages lawsuit ('손해배상 청구 소송을 제기했습니다') against the manufacturer."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (30.3.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "채무자가 약정 기일까지 대금을 지급하지 않아 채무불이행에 따른 지연손해금과 계약 해제를 통보하였습니다.",
+          "reading": "Chaemuja-ga yakjeong gi-il-kkaji daegeum-eul jigeubhaji ana chaemubur-ihaeng-e ttareun jiyeonsonhaegeum-gwa gyeyak haeje-reul tongbohayotseumnida.",
+          "translation": "Since the debtor did not pay the amount by the agreed due date, we notified delayed damages and contract termination due to default ('채무불이행에 따른')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (30.3.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "장기간의 소송 비용과 시간 낭비를 줄이기 위해 당사자 간 법원 민사조정 절차를 거쳐 원만하게 합의에 도달했습니다.",
+          "reading": "Jang-gigan-ui sosong biyong-gwa sigan nangbi-reul jurigi wihae dangsaja gan beobwon minsajojeong jeolcha-reul geochyeo wonmanhage hab-ui-e dodalhaetseumnida.",
+          "translation": "To reduce long-term lawsuit costs and time waste, the parties reached an amicable agreement through court civil mediation procedures ('법원 민사조정 절차를 거쳐')."
+        },
+        {
+          "target": "해당 채권은 권리 불행사로 인해 10년의 소멸시효가 완성되었으므로 법적으로 청구권이 소멸하였습니다.",
+          "reading": "Haedang chaegwon-eun gwonri bulhaengsa-ro inhae simnyeon-ui somyeolsihyo-ga wanseongdoe-eosseumeuro beopjeog-euro cheong-gugwon-i somyeolhayeotseumnida.",
+          "translation": "Since the 10-year statute of limitations expired ('소멸시효가 완성되었으므로') due to non-exercise of rights, the claim right legally vanished."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "피해엔 손해배상, 빚 안 갚으면 채무불이행, 시간 지나면 소멸시효, 법원 조정으로 원만 합의!"
+      ],
+      "culturalNotes": [
+        "한국 법원은 복잡한 민사 분쟁 시 소송 판결로 가기 전 판사와 조정위원이 참여하는 '조정 회부'를 적극 권장하여 당사자 간의 상생적 합의를 유도합니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 법률 용어와 사법 절차 (Legal Discourse & Constitutional Law) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 3)?",
+          "prompt": "고의 또는 과실로 인한 위법행위로 타인에게 가한 재산상·정신적 손해를 금전으로 보상하도록 청구하는 권리는?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (30.3.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (30.3.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (30.3.3)."
+            "손해배상 청구권 (Claim for Damages)",
+            "소유권 이전 청구권 (Claim for Ownership Transfer)",
+            "지급명령 이의신청 (Objection to Payment Order)"
           ],
           "answerIndex": 0,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "explanation": "불법행위나 채무불이행으로 인한 피해를 보상받는 권리는 '손해배상 청구권'입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 헌법 재판, 사법 절차 및 법률 용어 (Constitutional Law & Courts) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 3):",
+          "prompt": "권리를 행사하지 않고 방치한 채 일정 기간(일반 채권 10년 등)이 지나면 권리 자체가 소멸하는 법 제도는?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (30.3.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (30.3.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (30.3.3)."
+            "소멸시효 (Statute of Limitations)",
+            "취득시효 (Acquisitive Prescription)",
+            "공소시효 (Statute of Criminal Limitations)"
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "민사상 권리를 행사하지 않아 권리가 소멸하는 제도는 '소멸시효'입니다."
         }
       ]
     },
@@ -14034,14 +14079,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 법률 용어와 사법 절차 (Legal Discourse & Constitutional Law) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 30-3)?",
+          "prompt": "법률상 원인 없이 타인의 재산이나 노무로 이익을 얻고 타인에게 손해를 입혔을 때 돌려주어야 하는 것은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (30.3.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (30.3.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (30.3.3)."
+            "부당이득 반환 (Return of Unjust Enrichment)",
+            "증여세 납부 (Gift Tax Payment)",
+            "위약금 몰수 (Forfeiture of Penalty)"
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR C1 target-language standard."
+          "explanation": "원인 없는 부당한 이득을 반환하는 제도는 '부당이득 반환'입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'손해배상 청구와 민사조정으로 합의했어요'(We settled through damages claim and civil mediation)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "손해배상 청구와 민사조정으로 합의했어요.",
+            "손해배상 청구와 민사조정으로 합의했어요"
+          ],
+          "explanation": "손해배상 청구와 + 민사조정으로 + 합의했어요 = 손해배상 청구와 민사조정으로 합의했어요."
         }
       ]
     }
@@ -14051,56 +14105,65 @@
     "subject": "korean",
     "unit": 30,
     "lessonNumber": 4,
-    "title": "헌법 재판, 사법 절차 및 법률 용어 (Constitutional Law & Courts) (Part 4)",
+    "title": "법원 판결문 및 헌재 결정문 전문 어미와 수사 (Judicial Verdict Syntax)",
     "level": "C1",
-    "objective": "Comprehensive mastery of 법률 용어와 사법 절차 (Legal Discourse & Constitutional Law).",
+    "objective": "-에 처한다, -을 각하/기각/인용한다, -의 청구는 이유 없으므로, 헌법불합치 결정을 선고한다 등 사법 판결문 문체를 마스터한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 헌법 재판, 사법 절차 및 법률 용어 (Constitutional Law & Courts) » (제4절)의 핵심 언어 요소와 법률 용어와 사법 절차 (Legal Discourse & Constitutional Law)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "대법원 및 각급 법원의 판결문(Court Verdict), 헌법재판소 결정문(Decision of Constitutional Court)에서 사용되는 엄격한 법정 종결형과 법리 수사입니다.\n\n1. 법원 판결 주문(Main Sentence)의 핵심 종결형:\n- **~에 처한다**: 형사 유죄 판결 시 형량을 선고하는 주문 문형 (예: '피고인을 징역 3년에 처한다. 다만 5년간 위 형의 집행을 유예한다.')\n- **원고의 청구를 기각한다 (Dismissal on Merits)**: 본안 심리 결과 원고의 주장에 법적 이유가 없다고 판단할 때\n- **소송을 각하한다 (Dismissal without Prejudice)**: 소송 요건(당사자 적격, 제소 기간 등)을 갖추지 못해 본안 심리 없이 문전박대하여 종결할 때\n- **소송비용은 피고가 부담한다**: 패소자 부담 원칙에 따른 소송 비용 분담 주문\n\n2. 헌법재판소 결정의 유형별 선고 문구:\n- **위헌(Unconstitutional) vs 합헌(Constitutional)**: 법률 조항이 헌법에 위배됨 vs 위배되지 않음\n- **헌법불합치(Non-conformity with Constitution)**: 위헌이지만 즉각 무효화 시 법적 공백과 사회적 혼란이 우려되어 입법부의 개정 시한까지 잠정 적용하는 변형 결정\n- **인용(Upholding) vs 기각(Rejection) vs 각하(Dismissal)**",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (30.4.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "주문: 피고인을 징역 2년에 처한다. 압수된 증 제1호를 피고인으로부터 몰수한다.",
+          "reading": "Jumun: Pigoin-eul jing-yeok i-nyeon-e cheohanda. Apsudoen jeung je-il-ho-reul pigoin-eurobuteo molsuhanda.",
+          "translation": "Ruling ('주문'): The defendant is sentenced to 2 years in prison ('징역 2년에 처한다'). Seized exhibit No. 1 is confiscated from the defendant."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (30.4.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "원고의 주장은 이유 없으므로 이를 모두 기각하며, 소송비용은 패소자인 원고가 부담한다.",
+          "reading": "Won-go-ui jujang-eun iyu eopseumeuro ireul modu gigakhayeo, sosongbiyong-eun paesojain won-go-ga budamhanda.",
+          "translation": "Since the plaintiff's claims are without merit ('이유 없으므로'), they are all dismissed on the merits ('모두 기각하며'), and lawsuit costs shall be borne by the losing plaintiff."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (30.4.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "본 헌법소원 청구는 청구 기간을 도과하여 부적법하므로 이를 각하하기로 결정한다.",
+          "reading": "Bon heonbeopsowon cheong-gu-neun cheong-gu gigan-eul dogwahayeo bujeokbeobhaneuro ireul gakhahagiro gyeoljeonghanda.",
+          "translation": "This constitutional complaint request is unlawful due to expiration of the filing period, so we decide to dismiss it without hearing on the merits ('이를 각하하기로 결정한다')."
+        },
+        {
+          "target": "해당 형법 조항에 대하여 헌법불합치 결정을 선고하며, 국회는 정해진 시한까지 개정 법률안을 마련해야 합니다.",
+          "reading": "Haedang hyeongbeop johang-e daehayeo heonbeopbulhapchi gyeoljeong-eul seongohamyeo, gukhoe-neun jeonghaejin sihan-kkaji gaejeong beomryulan-eul maryeonhaeya hamnida.",
+          "translation": "We pronounce a decision of non-conformity with the Constitution ('헌법불합치 결정을 선고하며') on the penal code article in question, and the National Assembly must prepare an amended bill by the designated deadline."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "징역형엔 ~에 처한다, 요건 미비는 각하, 이유 없으면 기각, 법적 공백 막을 땐 헌법불합치!"
+      ],
+      "culturalNotes": [
+        "한국 법원의 판결문은 '주문(Main Text)', '이유(Reasons)', '판단(Judgment)'의 3단 논법 구조로 작성되며, 판결 주문 선고 시 판사는 엄숙한 어조로 판결문을 낭독합니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 법률 용어와 사법 절차 (Legal Discourse & Constitutional Law) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 4)?",
+          "prompt": "형사 판결문에서 피고인에 대한 형벌과 징역 기간을 확정하여 선고할 때 쓰는 표준 법정 종결형은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (30.4.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (30.4.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (30.4.3)."
+            "피고인을 징역 O년에 처한다 (~에 처한다)",
+            "피고인을 감옥에 보내기로 생각한다",
+            "피고인이 죄를 지어서 벌을 주겠다"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "형사 판결 주문의 표준 문형은 '~에 처한다'입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 헌법 재판, 사법 절차 및 법률 용어 (Constitutional Law & Courts) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 4):",
+          "prompt": "헌법재판소가 법률 조항의 위헌성을 인정하면서도 즉각 무효화에 따른 법적 혼란을 막기 위해 입법 개정 시한을 두는 결정은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (30.4.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (30.4.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (30.4.3)."
+            "헌법불합치 (Decision of Non-conformity with the Constitution)",
+            "단순합헌 (Simple Constitutionality)",
+            "청구인용 (Upholding the Claim)"
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "위헌이지만 법적 공백을 막기 위해 잠정 적용하는 변형 위헌 결정을 '헌법불합치'라고 합니다."
         }
       ]
     },
@@ -14108,14 +14171,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 법률 용어와 사법 절차 (Legal Discourse & Constitutional Law) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 30-4)?",
+          "prompt": "소송 요건을 갖추지 못하여 법원에서 본안 심리를 하지 않고 소송을 배척하여 끝내는 판결 주문은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (30.4.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (30.4.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (30.4.3)."
+            "소송을 각하한다 (Dismissal without Prejudice / 각하)",
+            "청구를 기각한다 (Dismissal on Merits / 기각)",
+            "승소를 인용한다 (Upholding / 인용)"
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR C1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "소송 요건 불비로 본안 판단 없이 문전박대하는 판결을 '각하'라고 합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'판결 주문에서 청구 기각 판결을 선고했어요'(In the ruling, they pronounced dismissal of the claim)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "판결 주문에서 청구 기각 판결을 선고했어요.",
+            "판결 주문에서 청구 기각 판결을 선고했어요"
+          ],
+          "explanation": "판결 주문에서 + 청구 기각 + 판결을 + 선고했어요 = 판결 주문에서 청구 기각 판결을 선고했어요."
         }
       ]
     }
@@ -14125,56 +14197,65 @@
     "subject": "korean",
     "unit": 30,
     "lessonNumber": 5,
-    "title": "헌법 재판, 사법 절차 및 법률 용어 (Constitutional Law & Courts) (Part 5)",
+    "title": "헌법재판소 대심판정 공개변론 및 법정 재판 실전 사법 종합 담화",
     "level": "C1",
-    "objective": "Comprehensive mastery of 법률 용어와 사법 절차 (Legal Discourse & Constitutional Law).",
+    "objective": "헌법재판소 대심판정 구두 변론, 증거 조사, 최후 변론 및 판결 선고를 총망라한 최고급 C1 사법 재판 담화를 완성한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 헌법 재판, 사법 절차 및 법률 용어 (Constitutional Law & Courts) » (제5절)의 핵심 언어 요소와 법률 용어와 사법 절차 (Legal Discourse & Constitutional Law)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "헌법재판소 대심판정 공개변론(Public Oral Argument) 및 대법원 대법정에서 펼쳐지는 대한민국 최고 수준의 사법 재판 실전 모델입니다.\n\n1. 헌법재판소 대심판정 공개변론 실전 모델:\n- 헌법재판소장: 지금부터 2026헌마OOO 기본권 침해 관련 헌법소원 사건에 대한 대심판정 공개변론을 개정하겠습니다. 청구인 대리인께서는 변론 요지를 진술해 주시기 바랍니다.\n- 청구인 대리인(변호사): 존경하는 헌법재판관 여러분, 피청구인 행정청의 처분은 헌법 제37조 제2항의 **과잉금지원칙(침해의 최소성 및 법익의 균형성)**을 중대하게 위반하여 청구인의 직업의 자유와 행복추구권을 본질적으로 침해하였습니다. 따라서 해당 조항에 대한 **위헌 확인 결정**을 간곡히 청구하는 바입니다.\n- 피청구인 대리인(정부 법무관): 피청구인의 조치는 공공복리와 국민 보건 증진이라는 중대한 공익 목적을 달성하기 위한 불가피한 최소한의 규제로서 목적의 정당성과 수단의 적합성을 온전히 구비하고 있습니다. 따라서 청구인의 심판 청구는 **이유 없으므로 기각**되어야 마땅합니다.\n- 헌법재판소장: 양측의 구두 변론과 참고인 진술을 충실히 청취하였습니다. 평의를 거쳐 추후 선고 기일을 지정하여 통지하겠습니다. 폐정을 선언합니다.",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (30.5.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "헌법재판소 대심판정에서 펼쳐진 치열한 공개변론은 헌법적 정의와 기본권 보장의 소중함을 일깨워 준 역사적 순간이었습니다.",
+          "reading": "Heonbeopjaepanso daesimpanjeong-eseo pyeolchyeojin chi-yeolhan gong-gae-byeonron-eun heonbeopjeok jeong-ui-wa gibon-gwon bojang-ui sojungham-eul ilkkaewo jun yeoksajeok sungan-i-eotseumnida.",
+          "translation": "The fierce public oral argument unfolded in the Constitutional Court Grand Courtroom was a historic moment awakening the value of constitutional justice and basic rights protection."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (30.5.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "변호인의 논리정연한 변론과 명백한 증거 제시 덕분에 피고인은 무죄 판결을 선고받았습니다.",
+          "reading": "Byeonhoin-ui nonrijeong-yeonhan byeonron-gwa myeongbaekhan jeung-geo jesi deokbun-e pigoin-eun mujoe pan-gyeol-eul seong-gobadatseumnida.",
+          "translation": "Thanks to the defense attorney's logical pleading and presentation of clear evidence, the defendant was pronounced not guilty ('무죄 판결을 선고받았습니다')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (30.5.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "사법권의 독립과 적법절차의 원칙 준수는 민주 법치주의 국가를 지탱하는 가장 견고한 주춧돌입니다.",
+          "reading": "Sabeopgwon-ui dongnip-gwa jeokbeopjeolcha-ui wonchik junsu-neun minju beopchiju-ui gukga-reul jitaenghaneun gajang gyeon-gohan juchutdol-imnida.",
+          "translation": "The independence of judicial power and adherence to due process of law is the firmest cornerstone sustaining a democratic constitutional state governed by rule of law."
+        },
+        {
+          "target": "법원은 법률과 양심에 따라 공정무사하게 판결을 내림으로써 국민의 사법 신뢰를 회복해야 합니다.",
+          "reading": "Beobwon-eun beomryul-gwa yangsim-e ttara gongjeongmusahage pan-gyeol-eul naerim-euroseo gungmin-ui sabeop sinroe-reul hoebokhaeya hamnida.",
+          "translation": "The court must restore the public's judicial trust by rendering fair and impartial judgments according to law and conscience."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "대심판정의 공방: 헌법적 가치, 과잉금지원칙, 법치주의와 기본권 수호!"
+      ],
+      "culturalNotes": [
+        "한국의 헌법재판소 공개변론은 인터넷을 통해 전 국민에게 실시간 생중계되며, 중대한 국가적 헌법 쟁점을 공론장에서 투명하게 논의하는 민주주의의 산교육장 역할을 합니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 법률 용어와 사법 절차 (Legal Discourse & Constitutional Law) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 5)?",
+          "prompt": "헌법재판소 대심판정에서 청구인과 피청구인 대리인이 재판관들 앞에서 구두로 주장을 펼치는 절차는?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (30.5.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (30.5.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (30.5.3)."
+            "공개변론 (Public Oral Argument)",
+            "서면독서 (Written Reading)",
+            "비공개조사 (Secret Investigation)"
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "헌법재판소 대심판정에서 공개적으로 진행되는 구두 변론 절차는 '공개변론'입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 헌법 재판, 사법 절차 및 법률 용어 (Constitutional Law & Courts) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 5):",
+          "prompt": "법정 변론에서 청구인이 국가의 기본권 침해 처분에 맞서 위헌성을 주장할 때 가장 결정적인 헌법적 논거는?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (30.5.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (30.5.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (30.5.3)."
+            "해당 처분이 과잉금지원칙을 위반하여 기본권의 본질적 내용을 침해했다는 법리",
+            "청구인의 기분이 매우 불쾌하다는 감정적 호소",
+            "외국 법률과 상관없이 그냥 법을 없애달라는 요구"
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "기본권 침해의 위헌성을 입증하는 핵심 법리는 '과잉금지원칙 위반'입니다."
         }
       ]
     },
@@ -14182,14 +14263,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 법률 용어와 사법 절차 (Legal Discourse & Constitutional Law) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 30-5)?",
+          "prompt": "다음 중 한국의 법원 및 헌법재판소 법정 담화로서 가장 올바르고 품격 있는 것은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (30.5.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (30.5.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (30.5.3)."
+            "과잉금지원칙 위배 여부를 심리하여 헌법에 합치하는 공정한 판결을 선고합니다.",
+            "재판은 귀찮으니 동전을 던져서 유죄와 무죄를 정하겠습니다.",
+            "판결문 작성 대신 당사자들끼리 법정에서 싸우십시오."
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR C1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "'과잉금지원칙 위배 여부 심리', '헌법 합치', '공정한 판결 선고'는 완벽한 최고급 사법 법정 담화 표현입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'공개변론에서 과잉금지원칙 위반을 주장했어요'(In the oral argument, they argued violation of proportionality principle)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "공개변론에서 과잉금지원칙 위반을 주장했어요.",
+            "공개변론에서 과잉금지원칙 위반을 주장했어요"
+          ],
+          "explanation": "공개변론에서 + 과잉금지원칙 + 위반을 + 주장했어요 = 공개변론에서 과잉금지원칙 위반을 주장했어요."
         }
       ]
     }
