@@ -2945,53 +2945,62 @@
     "subject": "hindi",
     "unit": 7,
     "lessonNumber": 1,
-    "title": "पूर्ण भूतकाल और अपूर्ण भूतकाल (Past Perfect & Imperfect) (Part 1)",
+    "title": "पूर्ण भूतकाल की संरचना: सामान्य भूतकालिक कृदंत + था/थे/थी/थीं",
     "level": "A2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 7.1) with authentic linguistic precision.",
+    "objective": "पूर्ण भूतकाल (Past Perfect Tense) के निर्माण सूत्र, अकर्मक व सकर्मक संरचनाओं में सहायक क्रिया (था/थे/थी/थीं) के समन्वय तथा सुदूर भूतकाल की घटनाओं के शुद्ध संप्रेषण को सीखना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "पूर्ण भूतकाल (Past Perfect Tense) का प्रयोग उन घटनाओं के लिए होता है जो भूतकाल में बहुत पहले या किसी अन्य भूतकालिक घटना से पूर्व पूर्णतः समाप्त हो चुकी थीं:\n\n1. निर्माण का मूल सूत्र:\n   - **अकर्मक क्रिया**: [कर्ता] + [धातु + आ/ए/ई/ईं] + [था/थे/थी/थीं]\n     - वह गया था (पु.एक.) / वे गए थे (पु.बहु.) / वह गई थी (स्त्री.एक.) / वे गई थीं (स्त्री.बहु.)।\n   - **सकर्मक क्रिया**: [कर्ता + ने] + [कर्म] + [धातु + आ/ए/ई/ईं] + [था/थे/थी/थीं]\n     - मैंने एक पत्र **लिखा था** (पत्र = पु.एक. → लिखा था);\n     - उसने दो पुस्तकें **पढ़ी थीं** (पुस्तकें = स्त्री.बहु. → पढ़ी थीं);\n     - हमने चाय **पी थी** (चाय = स्त्री.एक. → पी थी)।\n\n2. सहायक क्रिया के लिंग-वचन रूप:\n   - पुल्लिंग एकवचन: *था*\n   - पुल्लिंग बहुवचन / आदर: *थे*\n   - स्त्रीलिंग एकवचन: *थी*\n   - स्त्रीलिंग बहुवचन: *थीं* (अनुनासिक युक्त)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 7.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 7."
+          "target": "हम पिछले वर्ष गर्मियों की छुट्टियों में परिवार सहित कश्मीर गए थे।",
+          "reading": "hum pichhle varsh garmiyon ki chhuttiyon mein parivaar sahit Kashmir gaye the. [həm pɪtʃʰleː ʋərʂ ɡərmɪjõː kiː tʃʰʊʈːɪjõː mẽː pərɪʋaːr səɦɪt̪ kəʃmiːr ɡəeː t̪ʰeː] (hum PEECHH-lay vuhrsh guhr-MEE-yohn kee CHHOOT-tee-yohn mayn puh-ree-VAHR suh-HEET kuhsh-MEER GUH-yay thay)",
+          "translation": "We had gone to Kashmir along with family during the summer vacations last year."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 7-1)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "रोहन ने कल शाम को ही अपना पूरा गृहकार्य समाप्त कर लिया था।",
+          "reading": "rohan ne kal shaam ko hi apna poora grihkaary samaapt kar liya tha. [roːɦən neː kəl ʃaːm koː ɦiː əpnaː puːraː ɡrɪɦkaːrjə səmaːpt̪ kər lɪjaː t̪ʰaː] (ROH-huhn nay kuhl shahm koh hee uhp-NAH POO-rah greeh-KAHR-yuh suh-MAHPT kuhr LEE-yah thah)",
+          "translation": "Rohan had completed all his homework yesterday evening itself."
+        },
+        {
+          "target": "मेरी दादी जी ने बचपन में मुझे कई पौराणिक और ऐतिहासिक कहानियाँ सुनाई थीं।",
+          "reading": "meri daadi jee ne bachpan mein mujhe kai pauraanik aur aitihasik kahaaniyaan sunayeen theen. [meːriː d̪aːd̪iː dʒiː neː bətʃpən mẽː mʊdʒʱeː kəiː pɔːraːɳɪk ɔːr ɛːt̪ɪhaːsɪk kəɦaːnɪjaː̃ sʊnaːĩː t̪ʰĩː] (MAY-ree dah-DEE jee nay BUHTCH-puhn mayn MOO-jhay kye pow-RAH-neek owr ay-tee-HAH-seek kuh-hah-NEE-yahn soo-nah-EEN theen)",
+          "translation": "My grandmother had narrated many mythological and historical stories to me in childhood."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "पूर्ण भूतकाल = भूत कृदंत + था/थे/थी/थीं! सकर्मक में कर्म को देखो: 'पुस्तक पढ़ी थी', 'सेब खाए थे'!"
+      ],
+      "culturalNotes": [
+        "भारतीय परिवारों में दादी-नानी द्वारा सुनाई गई कहानियों ('कहानियाँ सुनाई थीं') का बचपन की स्मृतियों में गहरा सांस्कृतिक महत्व है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"दुकान\":",
+          "prompt": "स्त्रीलिंग बहुवचन कर्म 'चिट्ठियाँ' के साथ सकर्मक पूर्ण भूतकाल का कौन-सा रूप शुद्ध होगा?",
           "options": [
-            "हम इस पाठ में इकाई 7.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («रुपया» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («पैसा» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («दाम» का अनुचित स्थान)"
+            "लिखी थीं (Likhi theen - Had written [fem. plural agreement])",
+            "लिखा था",
+            "लिखे थे",
+            "लिखी थी"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "स्त्रीलिंग बहुवचन कर्म 'चिट्ठियाँ' के साथ 'लिखी थीं' (कृदंत व सहायक क्रिया दोनों अनुनासिक) आएगा।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"दुकान\":",
+          "prompt": "अकर्मक कर्ता 'वे' (पुल्लिंग बहुवचन) के साथ 'आना' का पूर्ण भूतकाल क्या होगा?",
           "options": [
-            "हम इस पाठ में इकाई 7.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («पैसा» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («दाम» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («रुपया» का अशुद्ध रूप)"
+            "आए थे (Aaye the - Had come [masc. plural])",
+            "आया था",
+            "आई थी",
+            "आए हैं"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "पुल्लिंग बहुवचन अकर्मक पूर्ण भूतकाल में «आए थे» बनता है।"
         }
       ]
     },
@@ -2999,17 +3008,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"दुकान\": Which sentence is completely correct?",
+          "prompt": "पूर्ण भूतकाल के नियमों के अनुसार पूर्णतः शुद्ध वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 7.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («दाम» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («रुपया» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («पैसा» से संबंधित)"
+            "अमित ने नया मकान खरीदा था और हम सब वहाँ गए थे। (Amit had bought a new house and we all had gone there.)",
+            "अमित ने नया मकान खरीदी थी और हम गया था।",
+            "अमित नया मकान खरीदा था।",
+            "हम सब वहाँ गई थीं।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«मकान खरीदा था» (सकर्मक पु.एक.) और «हम सब गए थे» (अकर्मक पु.बहु.) दोनों पूर्णतः शुद्ध हैं।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u7-l2": {
@@ -3017,53 +3027,62 @@
     "subject": "hindi",
     "unit": 7,
     "lessonNumber": 2,
-    "title": "पूर्ण भूतकाल और अपूर्ण भूतकाल (Past Perfect & Imperfect) (Part 2)",
+    "title": "आसन्न भूतकाल (Present Perfect: आया है, देखा है, खरीदी हैं)",
     "level": "A2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 7.2) with authentic linguistic precision.",
+    "objective": "आसन्न भूतकाल (Present Perfect / Immediate Past) की रचना, हाल ही में समाप्त क्रियाओं के वर्तमान संदर्भ तथा सहायक क्रिया (हूँ/है/हैं/हो) के संयोजन को समझना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "आसन्न भूतकाल (Immediate Past / Present Perfect) उन क्रियाओं को व्यक्त करता है जो अभी-अभी या हाल ही में घटित हुई हैं और जिनका प्रभाव वर्तमान में विद्यमान है:\n\n1. निर्माण का सूत्र:\n   - **अकर्मक**: [कर्ता] + [धातु + आ/ए/ई/ईं] + [हूँ/हो/है/हैं]\n     - वह अभी आया है (पु.एक.) / वे पहुँचे हैं (पु.बहु.) / वह आई है (स्त्री.एक.)।\n   - **सकर्मक**: [कर्ता + ने] + [कर्म] + [धातु + आ/ए/ई/ईं] + [हूँ/हो/है/हैं]\n     - मैंने भोजन **कर लिया है** (भोजन = पु.एक. → कर लिया है);\n     - उसने दो पुस्तकें **खरीदी हैं** (पुस्तकें = स्त्री.बहु. → खरीदी हैं);\n     - हमने चाय **पी है** (चाय = स्त्री.एक. → पी है)।\n\n2. 'पूर्ण भूत' (था) बनाम 'आसन्न भूत' (है) का अंतर:\n   - *आसन्न भूत*: डाकिया पत्र लाया है। (पत्र अभी आया है और सामने मौजूद है)\n   - *पूर्ण भूत*: डाकिया पत्र लाया था। (पत्र बहुत पहले लाया था, अब वह बात बीत चुकी है)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 7.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 7."
+          "target": "डाकिया अभी-अभी हमारे घर एक ज़रूरी सरकारी पत्र लेकर आया है।",
+          "reading": "daakiya abhi-abhi hamaare ghar ek zaroori sarkaari patr lekar aaya hai. [ɖaːkɪjaː əbʱiː əbʱiː həmaːreː ɡʱər eːk zəruːriː sərkaːriː pət̪r leːkər aːjaː hɛː] (dah-KEE-yah UH-bhee-UH-bhee huh-MAH-ray ghuhr ayk zuh-ROO-ree suhr-KAH-ree PUHT-ruh LAY-kuhr AH-yah hy)",
+          "translation": "The postman has just now arrived at our house carrying an important government letter."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 7-2)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "हमने आज सुबह ही बाज़ार से ताज़े फल और हरी सब्ज़ियाँ खरीदी हैं।",
+          "reading": "humne aaj subah hi bazaar se taaze phal aur hari sabziyaan khareedi hain. [həmneː aːdʒ sʊbəh ɦiː bəzaːr seː t̪aːzeː pʰəl ɔːr həriː səbzɪjaː̃ kʰəriːd̪iː hɛ̃ː] (HUM-nay ahj SOO-buh hee buh-ZAHR say TAH-zay phuhl owr HUH-ree suhb-ZEE-yahn khuh-REE-dee hyn)",
+          "translation": "We have bought fresh fruits and green vegetables from the market this morning itself."
+        },
+        {
+          "target": "क्या आपने आज का ताज़ा राष्ट्रीय समाचार पत्र पढ़ लिया है?",
+          "reading": "kya aapne aaj ka taaza raashtreey samachaar patr padh liya hai? [kjaː aːpneː aːdʒ kaː t̪aːzaː raːʂʈriːjə səmaːtʃaːr pət̪r pəɽʱ lɪjaː hɛː] (kyah ahp-NAY ahj kah TAH-zah rahsh-TREE-yuh suh-mah-CHAHR PUHT-ruh PUHDH lee-yah hy)",
+          "translation": "Have you read today's fresh national newspaper?"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "काम अभी हुआ है = भूत कृदंत + है/हैं/हूँ! 'आया है' (Just arrived), 'खरीदी हैं' (Have bought)!"
+      ],
+      "culturalNotes": [
+        "भोजन के उपरांत शिष्टाचार स्वरूप पूछा जाता है: 'क्या आपने खाना खा लिया है?' (Have you eaten food?)."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"रुपया\":",
+          "prompt": "सकर्मक वाक्य «मैंने अपना काम पूरा कर ___» में आसन्न भूतकाल (Present Perfect) की पूर्ति कीजिए:",
           "options": [
-            "हम इस पाठ में इकाई 7.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («पैसा» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («दाम» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («छूट» का अनुचित स्थान)"
+            "लिया है (Liya hai - Have completed [immediate past])",
+            "लिया था",
+            "लिया होगा",
+            "लेता हूँ"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "आसन्न भूतकाल में भूतकालिक कृदंत के साथ 'है' का प्रयोग होकर «कर लिया है» बनता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"रुपया\":",
+          "prompt": "स्त्रीलिंग बहुवचन कर्म 'मिठाइयाँ' के साथ आसन्न भूतकाल की सही क्रिया क्या होगी?",
           "options": [
-            "हम इस पाठ में इकाई 7.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («दाम» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («छूट» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («पैसा» का अशुद्ध रूप)"
+            "बनाई हैं (Banayee hain - Have made [fem. plural])",
+            "बनाया है",
+            "बनाए हैं",
+            "बनाई थी"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "स्त्रीलिंग बहुवचन कर्म के साथ 'बनाई हैं' (अनुनासिक 'हैं') प्रयुक्त होता है।"
         }
       ]
     },
@@ -3071,17 +3090,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"रुपया\": Which sentence is completely correct?",
+          "prompt": "आसन्न भूतकाल (Present Perfect) का सर्वथा शुद्ध वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 7.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («छूट» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («पैसा» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («दाम» से संबंधित)"
+            "गाड़ी स्टेशन पर पहुँच गई है और सभी यात्री उतर रहे हैं। (The train has arrived at the station and all passengers are getting down.)",
+            "गाड़ी स्टेशन पर पहुँच गई थी और उतर रहे हैं।",
+            "गाड़ी पहुँची है और उतरता है।",
+            "यात्री ने उतरा है।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«पहुँच गई है» हाल ही में पूरी हुई क्रिया है जिसका वर्तमान स्थिति से सीधा संबंध है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u7-l3": {
@@ -3089,53 +3109,62 @@
     "subject": "hindi",
     "unit": 7,
     "lessonNumber": 3,
-    "title": "पूर्ण भूतकाल और अपूर्ण भूतकाल (Past Perfect & Imperfect) (Part 3)",
+    "title": "अपूर्ण भूतकाल (Past Continuous: रहा था, रहे थे, रही थी, रही थीं)",
     "level": "A2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 7.3) with authentic linguistic precision.",
+    "objective": "अपूर्ण भूतकाल (Past Continuous / Imperfect) की संरचना, 'ने' परसर्ग के पूर्ण अभाव तथा भूतकाल में जारी क्रियाओं के धाराप्रवाह वर्णन में दक्षता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "अपूर्ण भूतकाल (Past Continuous Tense) का प्रयोग भूतकाल के किसी निश्चित क्षण में चल रही निरंतर क्रियाओं को व्यक्त करने के लिए होता है:\n\n1. निर्माण का सूत्र:\n   - **कर्ता + कर्म + [धातु + रहा/रहे/रही] + [था/थे/थी/थीं]**\n\n2. 'ने' परसर्ग का पूर्ण निषेध (NO 'ने' Rule):\n   - चाहे क्रिया अकर्मक हो या सकर्मक, अपूर्ण भूतकाल (रहा था) में **कभी भी 'ने' नहीं लगता**।\n   - क्रिया हमेशा सीधे **कर्ता के लिंग और वचन** के अनुसार बदलती है:\n     - *पुल्लिंग एकवचन*: मैं पढ़ रहा था / वह जा रहा था।\n     - *पुल्लिंग बहुवचन*: हम खेल रहे थे / वे जा रहे थे।\n     - *स्त्रीलिंग एकवचन*: रीता गा रही थी / वह लिख रही थी।\n     - *स्त्रीलिंग बहुवचन*: लड़कियाँ पढ़ रही थीं (रही + अनुनासिक 'थीं')।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 7.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 7."
+          "target": "जब मैं घर से निकला, तब बाहर बहुत तेज़ बारिश हो रही थी।",
+          "reading": "jab main ghar se nikla, tab baahar bahut tez baarish ho rahi thi. [dʒəb mɛ̃ː ɡʱər seː nɪklaː t̪əb baːɦər bəɦʊt̪ t̪eːz baːrɪʃ hoː rəɦiː t̪ʰiː] (juhb myn ghuhr say NEEK-lah, tuhb BAH-huhr buh-hoot tayz BAH-reesh hoh ruh-HEE thee)",
+          "translation": "When I left home, it was raining very heavily outside at that time."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 7-3)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "कल शाम को सभी बच्चे बगीचे में गेंद के साथ मजे से खेल रहे थे।",
+          "reading": "kal shaam ko sabhi bachhe bageeche mein gend ke saath maje se khel rahe the. [kəl ʃaːm koː səbʱiː bətʃːʰeː bəɡiːtʃeː mẽː ɡɛ̃ːd̪ keː saːt̪ʰ mədʒeː seː kʰeːl rəɦeː t̪ʰeː] (kuhl shahm koh SUH-bhee BUHTCH-chay buh-GEE-chay mayn gaynd kay sahth muh-JAY say KHAYL ruh-HAY thay)",
+          "translation": "All the children were joyfully playing with a ball in the garden yesterday evening."
+        },
+        {
+          "target": "वह रात भर जागकर अपनी अंतिम वार्षिक परीक्षा की तैयारी कर रही थी।",
+          "reading": "vah raat bhar jaagkar apni antim vaarshik pareeksha ki taiyaari kar rahi thi. [ʋəh raːt̪ bʱər dʒaːɡkər əpniː ənt̪ɪm ʋaːrʂɪk pəriːkʃaː kiː t̪ɛːjaːriː kər rəɦiː t̪ʰiː] (wuh baht bhuhr JAHG-kuhr uhp-NEE UHN-teem VAHR-sheek puh-REEK-shah kee ty-YAH-ree KUHR ruh-HEE thee)",
+          "translation": "She was preparing for her final annual examination by staying awake all night."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "भूतकाल में काम जारी था = रहा था / रहे थे / रही थी / रही थीं! इसमें कभी 'ने' नहीं लगता!"
+      ],
+      "culturalNotes": [
+        "कहानियाँ और संस्मरण सुनाते समय पृष्ठभूमि की घटनाओं का वर्णन करने के लिए अपूर्ण भूतकाल सर्वाधिक प्रयुक्त होता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"पैसा\":",
+          "prompt": "स्त्रीलिंग बहुवचन कर्ता 'महिलाएं' के साथ 'बातचीत करना' का अपूर्ण भूतकाल रूप क्या होगा?",
           "options": [
-            "हम इस पाठ में इकाई 7.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («दाम» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («छूट» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («बिल» का अनुचित स्थान)"
+            "बातचीत कर रही थीं (Were conversing [fem. plural continuous past])",
+            "बातचीत कर रही थी",
+            "बातचीत कर रहे थे",
+            "बातचीत करी थीं"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "स्त्रीलिंग बहुवचन कर्ता के साथ 'रही थीं' (अनुनासिक 'थीं') आता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"पैसा\":",
+          "prompt": "वाक्य «हम कल शाम को टीवी ___» में सही क्रिया रूप भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 7.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («छूट» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («बिल» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («दाम» का अशुद्ध रूप)"
+            "देख रहे थे (Dekh rahe the - We were watching TV)",
+            "देख रहा था",
+            "देखे थे",
+            "देख रही थी"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "सर्वनाम 'हम' (पुल्लिंग बहुवचन) के साथ अपूर्ण भूतकाल में «देख रहे थे» प्रयुक्त होता है।"
         }
       ]
     },
@@ -3143,17 +3172,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"पैसा\": Which sentence is completely correct?",
+          "prompt": "अपूर्ण भूतकाल की दृष्टि से व्याकरणसम्मत शुद्ध वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 7.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («बिल» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («दाम» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («छूट» से संबंधित)"
+            "जब बिजली गई, तब पिताजी समाचार पढ़ रहे थे और माताजी खाना बना रही थीं। (When power went off, father was reading news and mother was cooking food.)",
+            "पिताजी समाचार पढ़ रहा था और माताजी बना रहे थे।",
+            "पिताजी ने समाचार पढ़ रहे थे।",
+            "माताजी ने खाना बना रही थीं।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«पिताजी पढ़ रहे थे» (पु.आदर) और «माताजी बना रही थीं» (स्त्री.आदर) दोनों में बिना 'ने' के सही अन्वय है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u7-l4": {
@@ -3161,53 +3191,62 @@
     "subject": "hindi",
     "unit": 7,
     "lessonNumber": 4,
-    "title": "पूर्ण भूतकाल और अपूर्ण भूतकाल (Past Perfect & Imperfect) (Part 4)",
+    "title": "भूतकालिक अभ्यस्त काल / भूतकालिक आदतन (Past Habitual: करता था, जाता था)",
     "level": "A2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 7.4) with authentic linguistic precision.",
+    "objective": "भूतकालिक आदतों, नित्य क्रियाकलापों तथा अतीत के स्वभाव को व्यक्त करने वाले अभ्यस्त भूतकाल (Past Habitual — ता/ती/ते था/थे/थी) के प्रयोग में महारत हासिल करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "भूतकाल की पुरानी आदतों (Used to do / Would do) को व्यक्त करने के लिए 'भूतकालिक आदतन / अभ्यस्त काल' (Past Habitual) का प्रयोग किया जाता है:\n\n1. निर्माण का सूत्र:\n   - **कर्ता + [धातु + ता/ती/ते] + [था/थे/थी/थीं]**\n   - पुल्लिंग एकवचन: *जाता था, खेलता था, पढ़ता था*\n   - पुल्लिंग बहुवचन / आदर: *जाते थे, खेलते थे, पढ़ते थे*\n   - स्त्रीलिंग एकवचन: *जाती थी, खेलती थी, पढ़ती थी*\n   - स्त्रीलिंग बहुवचन: *जाती थीं, खेलती थीं, पढ़ती थीं* (अनुनासिक 'थीं')।\n\n2. 'ने' परसर्ग का निषेध:\n   - अभ्यस्त भूतकाल (Habitual) में भी **'ने' कभी नहीं लगता** (जैसे: 'वह रोज पुस्तक पढ़ता था', न कि 'उसने पढ़ता था')।\n\n3. आदतन भूत (ता था) बनाम अपूर्ण भूत (रहा था):\n   - *अभ्यस्त*: वह रोज़ व्यायाम करता था। (He used to exercise daily - आदत)\n   - *अपूर्ण*: वह व्यायाम कर रहा था। (He was exercising at that moment - निरंतर क्रिया)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 7.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 7."
+          "target": "मेरे दादाजी प्रतिदिन सुबह जल्दी उठकर नदी के किनारे टहलने जाया करते थे।",
+          "reading": "mere daadaji pratidin subah jaldi uthkar nadi ke kinaare tahalne jaaya karte the. [meːreː d̪aːd̪aːdʒiː prət̪ɪd̪ɪn sʊbəh dʒəld̪iː ʊʈʰkər nəd̪iː keː kɪnaːreː ʈɛɦəlneː dʒaːjaː kərteː t̪ʰeː] (MAY-ray dah-dah-JEE pruh-tee-DEEN SOO-buh JUHL-dee OOTTH-kuhr NUH-dee kay kee-NAH-ray tuh-HUHL-nay JAH-yah KUHR-tay thay)",
+          "translation": "My respected grandfather used to wake up early every morning and go for a walk along the river bank."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 7-4)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "हम अपने पुराने गाँव में विशाल बरगद के पेड़ की छांव में बैठकर कहानियाँ सुनते थे।",
+          "reading": "hum apne puraane gaanv mein vishaal bargad ke ped ki chhaanv mein baithkar kahaaniyaan sunte the. [həm əpneː pʊraːneː ɡaː̃ʋ mẽː ʋɪʃaːl bərɡəd̪ keː peːɽ kiː tʃʰaː̃ʋ mẽː bɛːʈʰkər kəɦaːnɪjaː̃ sʊn̪teː t̪ʰeː] (hum uhp-NAY poo-RAH-nay GAHN-v mayn vee-SHAHL buhr-GUHD kay payd kee CHHAHN-v mayn BYTH-kuhr kuh-hah-NEE-yahn SOON-tay thay)",
+          "translation": "We used to sit in the shade of the huge banyan tree in our old village and listen to stories."
+        },
+        {
+          "target": "जब वह छोटी थी, तब वह भारतीय शास्त्रीय संगीत का नियमित रियाज़ करती थी।",
+          "reading": "jab vah chhoti thi, tab vah bhaartiy shaastreey sangeet ka niyamit riyaaz karti thi. [dʒəb ʋəh tʃʰoːʈiː t̪ʰiː t̪əb ʋəh bʱaːrt̪iːjə ʃaːst̪riːjə səŋɡiːt̪ kaː nɪjəmɪt̪ rɪjaːz kərt̪iː t̪ʰiː] (juhb wuh CHHOH-tee thee, tuhb wuh bhahr-TEE-yuh shahsh-TREE-yuh suhn-GEET kah NEE-yuh-meet ree-YAHZ KUHR-tee thee)",
+          "translation": "When she was young, she used to do regular practice of Indian classical music."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "पुरानी आदत = ता था / ती थी / ते थे! 'खेलते थे' (Used to play), 'जाती थी' (Used to go)!"
+      ],
+      "culturalNotes": [
+        "शास्त्रीय संगीत और नृत्य के दैनिक अभ्यास को हिंदी/उर्दू में विशेष रूप से 'रियाज़' (Riyaaz) कहा जाता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"दाम\":",
+          "prompt": "अतीत की नियमित आदत बताने वाले वाक्य «हम बचपन में रोज़ फुटबॉल ___» में कौन-सा क्रिया रूप आएगा?",
           "options": [
-            "हम इस पाठ में इकाई 7.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («छूट» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («बिल» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («बाज़ार» का अनुचित स्थान)"
+            "खेलते थे (Khelte the - Used to play [past habitual])",
+            "खेला था",
+            "खेल रहे थे",
+            "खेलेंगे"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "अतीत की नियमित आदत (Used to play) के लिए «खेलते थे» का प्रयोग होता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"दाम\":",
+          "prompt": "स्त्रीलिंग एकवचन कर्ता के साथ 'गाना गाना' का भूतकालिक अभ्यस्त रूप क्या होगा?",
           "options": [
-            "हम इस पाठ में इकाई 7.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («बिल» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («बाज़ार» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («छूट» का अशुद्ध रूप)"
+            "गाती थी (Gaati thi - Used to sing [fem. singular])",
+            "गाता था",
+            "गाते थे",
+            "गाया था"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "स्त्रीलिंग एकवचन में अभ्यस्त क्रिया रूप «गाती थी» बनता है।"
         }
       ]
     },
@@ -3215,17 +3254,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"दाम\": Which sentence is completely correct?",
+          "prompt": "भूतकालिक आदत (Past Habitual) को व्यक्त करने वाला शुद्ध वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 7.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («बाज़ार» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («छूट» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («बिल» से संबंधित)"
+            "वह रोज़ सुबह पुस्तकालय जाती थी और कई घंटे पढ़ती थी। (She used to go to the library every morning and study for many hours.)",
+            "उसने रोज़ पुस्तकालय जाती थी और पढ़ती थी।",
+            "वह पुस्तकालय गई थी रोज़।",
+            "पुस्तकालय जा रही थी रोज़ पढ़ती थी।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«जाती थी» और «पढ़ती थी» दोनों भूतकाल की नियमित दिनचर्या का शुद्ध प्रतिनिधित्व करते हैं।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u7-l5": {
@@ -3233,53 +3273,62 @@
     "subject": "hindi",
     "unit": 7,
     "lessonNumber": 5,
-    "title": "पूर्ण भूतकाल और अपूर्ण भूतकाल (Past Perfect & Imperfect) (Part 5)",
+    "title": "भूतकाल के सभी रूपों का समेकन व तुलनात्मक विश्लेषण",
     "level": "A2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 7.5) with authentic linguistic precision.",
+    "objective": "हिंदी के सभी भूतकालिक रूपों (सामान्य भूत, आसन्न भूत, पूर्ण भूत, अपूर्ण भूत और अभ्यस्त भूत) के अर्थगत अंतर, 'ने' के प्रयोग-अभाव तथा वाक्य संरचना का समग्र विश्लेषण करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "हिंदी में भूतकाल के पाँच प्रमुख रूप होते हैं, जिनका तुलनात्मक सार निम्नलिखित है:\n\n1. भूतकाल महा-तालिका (Master Comparative Chart):\n   - **1. सामान्य भूत (Simple Past)**: उसने पत्र *लिखा* (He wrote a letter — निश्चित बिंदु पर समाप्त क्रिया)।\n   - **2. आसन्न भूत (Present Perfect)**: उसने पत्र *लिखा है* (He has written a letter — हाल ही में समाप्त, वर्तमान से जुड़ा)।\n   - **3. पूर्ण भूत (Past Perfect)**: उसने पत्र *लिखा था* (He had written a letter — सुदूर भूतकाल में समाप्त)।\n   - **4. अपूर्ण भूत (Past Continuous)**: वह पत्र *लिख रहा था* (He was writing a letter — उस समय जारी थी)।\n   - **5. अभ्यस्त भूत (Past Habitual)**: वह पत्र *लिखता था* (He used to write letters — पुरानी आदत)।\n\n2. 'ने' परसर्ग का निर्णायक नियम:\n   - 'ने' केवल **सकर्मक धातुओं के पूर्णतासूचक रूपों** (सामान्य, आसन्न, पूर्ण भूत) में लगता है।\n   - अपूर्ण भूत (रहा था) और अभ्यस्त भूत (ता था) में **कभी 'ने' नहीं लगता**।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 7.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 7."
+          "target": "मैंने कल रात यह ज्ञानवर्धक पुस्तक पूरी तरह पढ़ ली थी और आज सुबह पुस्तकालय में लौटा दी है।",
+          "reading": "maine kal raat yah gyanvardhak pustak poori tarah padh li thi aur aaj subah pustakaalay mein lauta di hai. [mɛ̃ːneː kəl raːt̪ jəh ɡjaːnʋərd̪ʱək pʊst̪ək puːriː t̪ərəh pəɽʱ liː t̪ʰiː ɔːr aːdʒ sʊbəh pʊst̪əkaːləj mẽː lɔːʈaː d̪iː hɛː] (MY-nay kuhl baht yuh gyahn-vuhr-DHUHK poos-tuhk POO-ree tuh-RUH PUHDH lee thee owr ahj SOO-buh poos-tuh-KAH-luy mayn low-TAH dee hy)",
+          "translation": "I had completely read this informative book last night and have returned it to the library this morning."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 7-5)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "जब रोहन घर पहुँचा, तब हम सब मिलकर मेज़ पर रात का स्वादिष्ट भोजन कर रहे थे।",
+          "reading": "jab rohan ghar pahuncha, tab hum sab milkar mez par raat ka svaadisht bhojan kar rahe the. [dʒəb roːɦən ɡʱər pəɦʊntʃaː t̪əb həm səb mɪlkər meːz pər raːt̪ kaː sʋaːd̪ɪʂʈ bʱoːdʒən kər rəɦeː t̪ʰeː] (juhb ROH-huhn ghuhr puh-HOON-chah, tuhb hum suhb MEEL-kuhr mayz puhr baht kah SVAH-deesht BHOJ-uhn KUHR ruh-HAY thay)",
+          "translation": "When Rohan reached home, all of us together were having delicious dinner at the table."
+        },
+        {
+          "target": "वे पहले इस पुराने शांत मोहल्ले में रहते थे, परंतु अब वे नए आधुनिक शहर में बस गए हैं।",
+          "reading": "ve pahle is puraane shaant mohalle mein rahte the, parantu ab ve naye aadhunik shahar mein bas gaye hain. [ʋeː pɛɦleː ɪs pʊraːneː ʃaːn̪t̪ moːɦəlːeː mẽː rəɦt̪eː t̪ʰeː pərən̪t̪ʊ əb ʋeː nəjeː aːd̪ʱʊnɪk ʃəɦər mẽː bəs ɡəeː hɛ̃ː] (way PUH-h-lay ees poo-RAH-nay shahnt moh-HUHL-lay mayn RUH-h-tay thay, puh-RUHN-too uhb way nuh-YAY ah-DHOO-neek SHUH-huhr mayn buhs GUH-yay hyn)",
+          "translation": "They used to live in this quiet old neighborhood earlier, but now they have settled in the new modern city."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "लिखा (Simple) → लिखा है (Recent) → लिखा था (Pluperfect) → लिख रहा था (Continuous) → लिखता था (Habitual)!"
+      ],
+      "culturalNotes": [
+        "हिंदी गद्य और उपन्यास साहित्य में इन पाँचों भूतकालिक रूपों के विविध सम्मिश्रण से समय का सूक्ष्म चित्रण किया जाता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"छूट\":",
+          "prompt": "सकर्मक क्रिया में 'ने' परसर्ग का प्रयोग इनमें से किस काल में कभी नहीं होता?",
           "options": [
-            "हम इस पाठ में इकाई 7.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («बिल» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («बाज़ार» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («खरीदारी» का अनुचित स्थान)"
+            "अपूर्ण भूतकाल (Past Continuous - रहा था) और अभ्यस्त भूतकाल (ता था)",
+            "सामान्य भूतकाल (Simple Past)",
+            "पूर्ण भूतकाल (Past Perfect)",
+            "आसन्न भूतकाल (Present Perfect)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "अपूर्ण भूतकाल (रहा था) और अभ्यस्त भूतकाल (ता था) में कर्ता के साथ 'ने' कभी नहीं लगता।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"छूट\":",
+          "prompt": "वाक्य «वह गाना गा रहा था» किस भूतकालिक रूप का उदाहरण है?",
           "options": [
-            "हम इस पाठ में इकाई 7.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («बाज़ार» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («खरीदारी» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («बिल» का अशुद्ध रूप)"
+            "अपूर्ण भूतकाल (Past Continuous)",
+            "सामान्य भूतकाल",
+            "पूर्ण भूतकाल",
+            "आसन्न भूतकाल"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "'रहा था' भूतकाल में क्रिया के जारी रहने (अपूर्ण भूतकाल) को दर्शाता है।"
         }
       ]
     },
@@ -3287,17 +3336,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"छूट\": Which sentence is completely correct?",
+          "prompt": "भूतकाल के विभिन्न रूपों के समन्वय वाला पूर्णतः शुद्ध और सुसंगत वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 7.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («खरीदारी» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («बिल» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («बाज़ार» से संबंधित)"
+            "कल जब मैं बाज़ार गया था, तब उसने मुझे देखा और हमने साथ में चाय पी। (Yesterday when I had gone to the market, he saw me and we drank tea together.)",
+            "कल जब मैंने गया था तब उसने मुझे देखा था और हम चाय पी।",
+            "जब मैं गया था उसने चाय पिया।",
+            "हम चाय पीते थे अभी।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«मैं गया था» (अकर्मक पूर्ण भूत), «उसने मुझे देखा» (तटस्थ अन्वय), और «हमने चाय पी» (कर्म-अन्वय) तीनों का व्याकरणिक संयोजन उत्कृष्ट है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u8-l1": {
