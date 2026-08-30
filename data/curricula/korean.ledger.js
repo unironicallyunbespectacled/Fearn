@@ -169,17 +169,16 @@
     "ko-u33-l2",
     "ko-u33-l3",
     "ko-u33-l4",
-    "ko-u33-l5"
-  ],
-  "stubOnly": [
+    "ko-u33-l5",
     "ko-u34-l1",
     "ko-u34-l2",
     "ko-u34-l3",
     "ko-u34-l4",
     "ko-u34-l5"
   ],
-  "lastCompletedLessonId": "ko-u33-l5",
-  "nextToAuthor": "ko-u34-l1"
+  "stubOnly": [],
+  "lastCompletedLessonId": "ko-u34-l5",
+  "nextToAuthor": null
 };
   global.FEARN_LEDGERS = global.FEARN_LEDGERS || {};
   global.FEARN_LEDGERS['korean'] = LEDGER;

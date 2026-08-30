@@ -15669,56 +15669,65 @@
     "subject": "korean",
     "unit": 34,
     "lessonNumber": 1,
-    "title": "국가 정상회담과 통치 담화 (C2 Capstone Executive Statecraft) (Part 1)",
+    "title": "정상회담 의전, 양자·다자 공동선언문 및 조약 체결 (Summit Diplomacy & Treaties)",
     "level": "C2",
-    "objective": "Comprehensive mastery of 정상회담과 정책 담화 (C2 Capstone Executive Statecraft).",
+    "objective": "단독·확대 정상회담, 공동성명(공동선언문), 비준동의안, 상호호혜 원칙 등 최고위 외교 조약 담화를 마스터한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 국가 정상회담과 통치 담화 (C2 Capstone Executive Statecraft) » (제1절)의 핵심 언어 요소와 정상회담과 정책 담화 (C2 Capstone Executive Statecraft)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "국가 원수 및 정부 수반 간의 최고위 외교 회담(Summit Meeting)과 조약 체결 담화입니다.\n\n1. 정상회담 진행 구조와 의전:\n- **단독 정상회담(In-camera / Tête-à-tête Summit)**: 통역관과 핵심 배석자만 참석하여 양국 정상 간 최고 수준의 전략적 신뢰를 구축하는 비공개 회담\n- **확대 정상회담(Plenary / Expanded Summit)**: 외교·국방·산업 각료들이 배석하여 구체적인 조약 및 협정 이행 방안을 논의\n- **공동 기자회견 및 공동선언문(Joint Statement / Communiqué)**: 합의된 공동 합의안을 전 세계 언론에 공표\n\n2. 조약 체결 및 비준 절차 어휘:\n- **상호호혜(Mutual Reciprocity)와 주권 존중의 원칙**: 국가 간 대등한 주권 평등에 기초한 외교 관계 수립\n- **양해각서(MOU) vs 정식 조약(Treaty)**: 법적 구속력을 지닌 조약은 국회의 **비준동의(Ratification Consent)**를 거쳐 공포\n- **불가역적(Irreversible) 합의 도출**: 정권 교체나 정세 변화에도 되돌릴 수 없는 영구적 합의 문서화",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (34.1.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "양국 정상은 단독 및 확대 정상회담을 잇달아 개최하고 미래지향적 전략적 동반자 관계를 심화·발전시키는 역사적인 공동선언문을 채택하였습니다.",
+          "reading": "Yang-guk jeongsang-eun dandok mit hwakdae jeongsanghoedam-eul itdal-a gaechoehago miraejihyangjeok jeonryakjeok dongbanja gwangye-reul simhwa·baljeonsikineun yeoksajeogin gongdongseoneonmun-eul chaetaekhayeotseumnida.",
+          "translation": "The heads of state of both nations held in-camera and plenary summits in succession and adopted a historic joint declaration deepening and developing a future-oriented strategic partnership ('공동선언문을 채택하였습니다')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (34.1.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "이번에 체결된 자유무역협정(FTA) 개정 조약은 국회의 비준동의 절차를 거쳐 양국 국민과 기업에 실질적인 번영의 혜택을 제공할 것입니다.",
+          "reading": "Ibeon-e chegyeoldoen jayumuyeokhyeopjeong (FTA) gaejeong joyak-eun gukhoe-ui bijundong-ui jeolcha-reul geochyeo yang-guk gungmin-gwa gieop-e siljiljeogin beon-yeong-ui haetaek-eul jegonghal geos-imnida.",
+          "translation": "The Free Trade Agreement (FTA) revision treaty signed this time will provide tangible prosperity benefits to citizens and businesses of both nations upon undergoing the National Assembly's ratification consent procedure ('국회의 비준동의 절차를 거쳐')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (34.1.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "상호호혜와 호혜평등의 외교적 대원칙에 입각하여 글로벌 공급망 안정과 안보 협력을 공고히 하기로 합의하였습니다.",
+          "reading": "Sanghohohye-wa hohye-pyeongdeung-ui oegyojoek daewonchik-e ibgakhayeo geullobeol gong-geubmang anjeong-gwa anbo hyeopryeog-eul gong-gohi hagiro hab-uihayeotseumnida.",
+          "translation": "Based on the cardinal diplomatic principle of mutual reciprocity and reciprocal equality, they agreed to solidify global supply chain stability and security cooperation ('상호호혜와 호혜평등의 외교적 대원칙에 입각하여')."
+        },
+        {
+          "target": "양국은 이견을 좁히고 항구적 평화 구축을 위한 불가역적이고 구속력 있는 합의안을 도출하는 데 성공했습니다.",
+          "reading": "Yang-guk-eun igyeon-eul jobhigo hang-gujeok pyeonghwa guchuk-eul wihan bulgayeokjeog-igo gusongnyeok inneun hab-uian-eul dochulhaneun de seonggonghaetseumnida.",
+          "translation": "Both countries succeeded in narrowing differences and deriving an irreversible and binding agreement for building permanent peace."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "단독·확대 정상회담, 공동선언문 채택, 국회 비준동의, 상호호혜 원칙!"
+      ],
+      "culturalNotes": [
+        "대한민국 헌법 제60조 제1항에 따라 상호원조 또는 안전보장에 관한 조약, 중요한 국제조직에 관한 조약, 평화통일조약 등은 국회의 비준동의권을 거쳐야만 대통령이 비준할 수 있습니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 정상회담과 정책 담화 (C2 Capstone Executive Statecraft) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 1)?",
+          "prompt": "양국 정상회담 후 합의된 주요 외교적 결과와 공동 비전을 문서화하여 대외에 공식 발표하는 문건은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (34.1.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (34.1.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (34.1.3)."
+            "공동선언문 / 공동성명 (Joint Declaration / Communiqué)",
+            "개인 일기장 (Personal Diary)",
+            "간이 영수증 (Simple Receipt)"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "정상 간의 공식 합의 문서는 '공동선언문(Joint Declaration)' 또는 '공동성명'입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 국가 정상회담과 통치 담화 (C2 Capstone Executive Statecraft) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 1):",
+          "prompt": "대통령이 외국의 원수와 체결한 국가 간 조약이 국내법적 효력을 갖기 위해 헌법에 따라 거쳐야 하는 의회의 절차는?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (34.1.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (34.1.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (34.1.3)."
+            "국회 비준동의 (Ratification Consent by National Assembly)",
+            "지방의회 결의",
+            "동사무소 신고"
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "조약의 국내법적 발효를 위해 필수적인 헌법상 절차는 '국회의 비준동의'입니다."
         }
       ]
     },
@@ -15726,14 +15735,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 정상회담과 정책 담화 (C2 Capstone Executive Statecraft) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 34-1)?",
+          "prompt": "외교 관계에서 상대방에게 베푼 혜택만큼 자신도 대등한 혜택을 돌려받는 호혜적 상호 교류 원칙을 뜻하는 용어는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (34.1.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (34.1.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (34.1.3)."
+            "상호호혜의 원칙 (Principle of Mutual Reciprocity)",
+            "일방적 굴종",
+            "무조건적 양보"
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR C2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "대등한 국가 간 대우와 상호 이익을 중시하는 원칙은 '상호호혜의 원칙'입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'정상회담에서 공동선언문을 채택하고 비준동의를 마쳤어요'(We adopted a joint declaration at the summit and completed ratification consent)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "정상회담에서 공동선언문을 채택하고 비준동의를 마쳤어요.",
+            "정상회담에서 공동선언문을 채택하고 비준동의를 마쳤어요"
+          ],
+          "explanation": "정상회담에서 + 공동선언문을 + 채택하고 + 비준동의를 + 마쳤어요 = 정상회담에서 공동선언문을 채택하고 비준동의를 마쳤어요."
         }
       ]
     }
@@ -15743,56 +15761,65 @@
     "subject": "korean",
     "unit": 34,
     "lessonNumber": 2,
-    "title": "국가 정상회담과 통치 담화 (C2 Capstone Executive Statecraft) (Part 2)",
+    "title": "한반도 평화 프로세스와 비핵화 및 다자 안보 협력 (Peninsula Peace & Denuclearization)",
     "level": "C2",
-    "objective": "Comprehensive mastery of 정상회담과 정책 담화 (C2 Capstone Executive Statecraft).",
+    "objective": "비핵·평화·번영의 한반도, CVID 비핵화 원칙, 확장억제(Extended Deterrence), 동북아 다자 안보 및 평화협정을 마스터한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 국가 정상회담과 통치 담화 (C2 Capstone Executive Statecraft) » (제2절)의 핵심 언어 요소와 정상회담과 정책 담화 (C2 Capstone Executive Statecraft)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한반도 안보 지형과 동북아 및 글로벌 비확산 체제(Non-proliferation)를 둘러싼 최고급 통일·안보 외교 담화입니다.\n\n1. 비핵화 및 안보 전략 담론:\n- **완전하고 검증 가능하며 불가역적인 비핵화(CVID)**: Complete, Verifiable, and Irreversible Denuclearization의 외교적 합의 기준\n- **확장억제(Extended Deterrence / 핵우산)**: 동맹국의 핵 전력 및 재래식 전력을 총동원하여 적대국의 도발을 원천 봉쇄하는 압도적 억제력\n- **3축 체계(Kill Chain, KAMD, KMPR)**: 한국형 킬체인, 한국형 미사일방어, 대량응징보복으로 구성된 자위적 방위력\n\n2. 평화체제와 다자 안보 협의체:\n- **정전협정(Armistice Agreement)에서 평화협정(Peace Treaty)으로의 전환**: 1953년 휴전 체제를 종식하고 항구적 평화체제를 정착시키는 국제법적 로드맵\n- **동북아 다자 안보 대화(Multilateral Security Dialogue)**: 역내 신뢰 구축 조치(CBM)와 군비 통제",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (34.2.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "정부는 굳건한 한미동맹의 연합 방위 태세와 압도적인 확장억제력을 바탕으로 한반도의 비핵·평화·번영을 흔들림 없이 구현해 나갈 것입니다.",
+          "reading": "Jeongbu-neun gutgeonhan Han-Mi dongmaeng-ui yeonhap bang-wi taese-wa apdojeogin hwakjang-eokjeryeog-eul batangg-euro Hanbando-ui bihaek·pyeonghwa·beon-yeong-eul heundeullim eopsi guhyeonhae nagal geos-imnida.",
+          "translation": "The government will steadfastly realize the denuclearization, peace, and prosperity of the Korean Peninsula based on the solid ROK-US alliance's combined defense posture and overwhelming extended deterrence ('비핵·평화·번영을 흔들림 없이 구현해 나갈 것입니다')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (34.2.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "국제사회와 긴밀히 공조하여 완전하고 검증 가능하며 불가역적인 비핵화(CVID)를 추진하고 북핵 위협의 근원적 해결을 위해 총력을 기울이고 있습니다.",
+          "reading": "Gukjesahoe-wa ginmilhi gongjohayeo wanjeonhago geomjeung ganeunghamyeo bulgayeokjeogin bihaekhwa (CVID)-reul chujinhago bukhaek wiheop-ui geunwonjeok haegyeol-eul wihae chongryeog-eul gi-urigo itseumnida.",
+          "translation": "In close cooperation with the international community, they are pushing forward complete, verifiable, and irreversible denuclearization (CVID) and devoting all efforts to the fundamental resolution of the North Korean nuclear threat."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (34.2.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "불안정한 정전 체제를 영구적인 평화체제로 전환하기 위한 단계적 군사적 신뢰 구축과 다자 안보 대화가 절실히 요구됩니다.",
+          "reading": "Buranjeonghan jeongjeon cheje-reul yeong-gujeogin pyeonghwacheje-ro jeonhwanhagi wihan dangyejeok gunsajeok sinroe guchuk-gwa daja anbo daehwa-ga jeolsilhi yogudoemnida.",
+          "translation": "Step-by-step military confidence building and multilateral security dialogue are desperately needed to transition the unstable armistice regime into a permanent peace regime ('평화체제로 전환하기 위한')."
+        },
+        {
+          "target": "한국형 3축 체계의 고도화를 통해 어떠한 무력 도발에도 즉각적이고 단호하게 응징할 수 있는 강력한 자주국방 역량을 완비하였습니다.",
+          "reading": "Hangukhyeong sam-chuk chegye-ui godohwa-reul tonghae eotteohan muryeok dobal-eedo jeukgakjeog-igo danhohage eungjinghal su inneun gangnyeokhan jajugukbang yeongryang-eul wanbihayeotseumnida.",
+          "translation": "Through advancing the Korean 3-axis system, we completely equipped a strong self-reliant national defense capability capable of immediately and resolutely retaliating against any armed provocation."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "비핵·평화·번영, CVID 원칙, 확장억제 안보, 정전체제에서 평화협정으로!"
+      ],
+      "culturalNotes": [
+        "한반도는 전 세계 유일의 분단국가이자 정전(Armistice) 상태에 놓여 있어, 한미 상호방위조약과 유엔군사령부(UNC)의 정전 관리 체제가 평화 유지의 핵심 기둥으로 작동합니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 정상회담과 정책 담화 (C2 Capstone Executive Statecraft) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 2)?",
+          "prompt": "동맹국이 핵 공격 위협을 받을 때 자국의 본토와 동일한 수준의 핵 전력과 재래식 전력으로 적을 억제해 주는 안보 공약은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (34.2.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (34.2.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (34.2.3)."
+            "확장억제 (Extended Deterrence / 핵우산)",
+            "무장해제 (Disarmament)",
+            "고립주의 (Isolationism)"
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "동맹국에 대한 핵우산 및 압도적 방위력 제공 공약을 '확장억제'라고 합니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 국가 정상회담과 통치 담화 (C2 Capstone Executive Statecraft) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 2):",
+          "prompt": "국제사회가 북핵 및 대량살상무기 폐기의 기준으로 제시하는 '완전하고 검증 가능하며 불가역적인 비핵화'의 영문 약칭은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (34.2.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (34.2.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (34.2.3)."
+            "CVID (Complete, Verifiable, Irreversible Denuclearization)",
+            "COVID",
+            "OECD"
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "완전하고 검증 가능하며 불가역적인 비핵화는 'CVID'입니다."
         }
       ]
     },
@@ -15800,14 +15827,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 정상회담과 정책 담화 (C2 Capstone Executive Statecraft) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 34-2)?",
+          "prompt": "1953년 체결된 임시 교전 중단 상태인 '정전협정'을 영구적으로 종식시키고 법적 평화를 완성하는 조약은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (34.2.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (34.2.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (34.2.3)."
+            "평화협정 (Peace Treaty / 평화체제 구축)",
+            "임대차계약서",
+            "비밀유지협약"
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR C2 target-language standard."
+          "explanation": "전쟁을 공식 종결하고 평화를 법적으로 완성하는 문건은 '평화협정'입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'확장억제력을 강화하고 한반도 평화체제를 구축했어요'(We strengthened extended deterrence and built a Korean Peninsula peace regime)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "확장억제력을 강화하고 한반도 평화체제를 구축했어요.",
+            "확장억제력을 강화하고 한반도 평화체제를 구축했어요"
+          ],
+          "explanation": "확장억제력을 + 강화하고 + 한반도 + 평화체제를 + 구축했어요 = 확장억제력을 강화하고 한반도 평화체제를 구축했어요."
         }
       ]
     }
@@ -15817,56 +15853,65 @@
     "subject": "korean",
     "unit": 34,
     "lessonNumber": 3,
-    "title": "국가 정상회담과 통치 담화 (C2 Capstone Executive Statecraft) (Part 3)",
+    "title": "글로벌 중추국가(GPS) 비전과 국제기구 다자 외교 담론 (Global Pivotal State & Multilateralism)",
     "level": "C2",
-    "objective": "Comprehensive mastery of 정상회담과 정책 담화 (C2 Capstone Executive Statecraft).",
+    "objective": "글로벌 중추국가(GPS), 유엔 안보리 이사국 외교, ODA 공여국 위상, 녹색 사다리 이니셔티브, 국제 규범 수호를 마스터한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 국가 정상회담과 통치 담화 (C2 Capstone Executive Statecraft) » (제3절)의 핵심 언어 요소와 정상회담과 정책 담화 (C2 Capstone Executive Statecraft)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "원조를 받던 수혜국에서 원조를 주는 공여국으로 거듭난 대한민국이 국제사회에서 자유, 평화, 번영에 기여하는 '글로벌 중추국가(Global Pivotal State, GPS)' 다자 외교 담화입니다.\n\n1. 글로벌 리더십과 국제기구 활동:\n- **글로벌 중추국가(GPS, Global Pivotal State)**: 한반도를 넘어 인도·태평양과 전 세계의 자유 민주주의, 인권, 법치 등 보편적 가치를 수호하고 기여하는 국가 비전\n- **유엔 안전보장이사회(UNSC) 비상임이사국 수임**: 국제 평화와 안보 유지의 최고 의사결정 기구에서 주도적 발언권 행사\n- **공적개발원조(ODA, Official Development Assistance)**: 개도국 대상 보건, 교육, 디지털 전환 지원 확대\n\n2. 글로벌 연대와 기후 외교:\n- **녹색 사다리(Green Ladder) 이니셔티브**: 기후 취약국에 한국의 녹색 기술과 재정을 전수하여 기후 격차를 해소\n- **규범 기반 국제 질서(Rules-based International Order) 수호**: 힘에 의한 현상 변경에 반대하고 국제법적 규범을 확립",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (34.3.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "대한민국은 자유, 평화, 번영에 기여하는 글로벌 중추국가(GPS)로서 규범 기반 국제 질서를 수호하는 데 선도적 책임을 다할 것입니다.",
+          "reading": "Daehanminguk-eun jayu, pyeonghwa, beon-yeong-e giyeohaneun geullobeol jungchugukga (GPS)-rosseo gyubeom giban gukje jilseo-reul suhohaneun de seondojeok chaegim-eul dahal geos-imnida.",
+          "translation": "The Republic of Korea, as a Global Pivotal State (GPS) contributing to freedom, peace, and prosperity, will fulfill its leading responsibility in upholding the rules-based international order ('글로벌 중추국가로서 선도적 책임을 다할 것입니다')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (34.3.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "유엔 안보리 비상임이사국으로서 분쟁 예방과 평화 구축, 그리고 사이버 안보 등 신흥 안보 위협 대응에 주도적인 역할을 수행하고 있습니다.",
+          "reading": "Yuen anbori bisang-im-isaguk-euroseo bunjaeng yebang-gwa pyeonghwa guchuk, geurigo saibeo anbo deung sinheung anbo wiheop dae-eung-e judojeogin yeokhwal-eul suhaenghago itseumnida.",
+          "translation": "As a non-permanent member of the UN Security Council, we are playing a leading role in conflict prevention, peacebuilding, and responding to emerging security threats such as cyber security."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (34.3.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "원조를 받던 나라에서 원조를 주는 공여국으로 성장한 경험을 살려 공적개발원조(ODA) 규모를 대폭 확대하고 개발도상국의 자립을 돕고 있습니다.",
+          "reading": "Wonjo-reul batdeon nara-eseo wonjo-reul juneun gong-yeoguk-euro seongjanghan gyeongheom-eul sallyeo gongjeokgaebalwonjo (ODA) gyumo-reul daepok hwakdaehago gaebaldosangguk-ui jarib-eul dopgo itseumnida.",
+          "translation": "Drawing upon our experience growing from an aid recipient into an aid donor country, we are substantially expanding the scale of Official Development Assistance (ODA) and aiding developing nations' self-reliance ('공적개발원조 규모를 대폭 확대하고')."
+        },
+        {
+          "target": "녹색 사다리 이니셔티브를 통해 기후 취약국들에게 친환경 에너지 인프라와 재정적 지원을 제공함으로써 기후 격차를 해소해 나갑니다.",
+          "reading": "Noksaek sadari inisyeotibeu-reul tonghae gihu chwiyakguk-deul-ege chinhoangyeong eneoji inpeura-wa jaejeongjeok jiwon-eul jegongham-euroseo gihu gyeokcha-reul haesohae nagamnida.",
+          "translation": "Through the Green Ladder Initiative, we resolve climate gaps by providing eco-friendly energy infrastructure and financial support to climate-vulnerable countries."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "글로벌 중추국가(GPS), 규범 기반 국제 질서, ODA 공여국, 녹색 사다리 기후 연대!"
+      ],
+      "culturalNotes": [
+        "한국은 2009년 OECD 개발원조위원회(DAC)에 가입하며 제2차 세계대전 이후 원조 수혜국에서 공식 공여국으로 지위가 전환된 세계 최초이자 유일한 국가입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 정상회담과 정책 담화 (C2 Capstone Executive Statecraft) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 3)?",
+          "prompt": "자유, 평화, 번영의 보편적 가치를 바탕으로 국제사회에 적극 기여하는 대한민국의 21세기 외교 비전 명칭은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (34.3.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (34.3.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (34.3.3)."
+            "글로벌 중추국가 (Global Pivotal State / GPS)",
+            "쇄국정책 (Hermit Kingdom Isolationism)",
+            "일방주의 (Unilateralism)"
           ],
           "answerIndex": 0,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "explanation": "국제사회의 자유와 번영에 능동적으로 기여하는 외교 비전은 '글로벌 중추국가(GPS)'입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 국가 정상회담과 통치 담화 (C2 Capstone Executive Statecraft) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 3):",
+          "prompt": "정부나 공공기관이 개발도상국의 경제 발전과 사회 복지 증진을 위해 무상 또는 유상으로 제공하는 자금 원조는?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (34.3.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (34.3.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (34.3.3)."
+            "공적개발원조 (ODA / Official Development Assistance)",
+            "외환보유액 (Foreign Reserves)",
+            "법인세 (Corporate Tax)"
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "개도국을 위한 정부 차원의 대외 원조는 '공적개발원조(ODA)'입니다."
         }
       ]
     },
@@ -15874,14 +15919,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 정상회담과 정책 담화 (C2 Capstone Executive Statecraft) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 34-3)?",
+          "prompt": "기후 위기에 취약한 개도국들에게 대한민국의 녹색 기술과 재정을 지원하여 기후 격차를 완화하는 외교 구상은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (34.3.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (34.3.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (34.3.3)."
+            "녹색 사다리 이니셔티브 (Green Ladder Initiative)",
+            "화석연료 보조금",
+            "삼림 벌채 계획"
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR C2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "기후 취약국 지원을 위한 한국의 글로벌 기후 연대 구상은 '녹색 사다리 이니셔티브'입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'글로벌 중추국가로서 규범 기반 국제 질서를 수호해요'(As a Global Pivotal State, let us defend the rules-based international order)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "글로벌 중추국가로서 규범 기반 국제 질서를 수호해요.",
+            "글로벌 중추국가로서 규범 기반 국제 질서를 수호해요"
+          ],
+          "explanation": "글로벌 중추국가로서 + 규범 기반 + 국제 질서를 + 수호해요 = 글로벌 중추국가로서 규범 기반 국제 질서를 수호해요."
         }
       ]
     }
@@ -15891,56 +15945,65 @@
     "subject": "korean",
     "unit": 34,
     "lessonNumber": 4,
-    "title": "국가 정상회담과 통치 담화 (C2 Capstone Executive Statecraft) (Part 4)",
+    "title": "국가 수반의 최고급 통치 수사와 대국민 연설 문형 (Executive Statecraft Rhetoric)",
     "level": "C2",
-    "objective": "Comprehensive mastery of 정상회담과 정책 담화 (C2 Capstone Executive Statecraft).",
+    "objective": "국운을 융성하게 하다, 명운을 걸다, 역사의 엄중한 심판, 헌정 질서 수호 등 국가 최고 지도자 통치 수사를 완성한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 국가 정상회담과 통치 담화 (C2 Capstone Executive Statecraft) » (제4절)의 핵심 언어 요소와 정상회담과 정책 담화 (C2 Capstone Executive Statecraft)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "대통령 취임사, 광복절 경축사, 3·1절 기념사, 국회 예산안 시정연설에서 쓰이는 대한민국 국가 지도자의 장엄하고 격조 높은 통치 수사(Executive Rhetoric)입니다.\n\n1. 국가적 소명과 역사성 표지:\n- **국운(國運)을 융성(隆盛)하게 하다**: 나라의 운명과 번영을 크게 일으켜 세우다\n- **국가의 명운(命運)을 걸다**: 국가의 사활이 걸린 일에 모든 역량을 결집하다\n- **역사의 엄중한 심판대 앞에 서다**: 역사와 국민에 대한 무한 책임을 엄숙히 표명할 때\n- **헌정 질서를 굳건히 수호하다**: 헌법에 기초한 법치주의와 자유민주주의 헌법 질서를 수호할 때\n\n2. 비전 선포 및 대국민 헌신 문형:\n- **자유와 번영의 새 시대를 활짝 열어젖히다**: 획기적인 국가 도약의 새 시대를 시작할 때\n- **삼가 국민 여러분께 엎드려 아뢰옵니다 / 분골쇄신(粉骨碎身)하여 헌신하겠습니다**: 국민을 주인으로 섬기는 극존칭의 헌신 다짐",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (34.4.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "저는 헌법을 준수하고 국가를 보위하며 조국의 평화적 통일과 국민의 자유와 복리의 증진을 위해 대통령으로서의 직책을 성실히 수행할 것을 엄숙히 선서합니다.",
+          "reading": "Jeo-neun heonbeop-eul junsuhago gukga-reul bowihamyeo joguk-ui pyeonghwajeok tong-il-gwa gungmin-ui jayu-wa bongni-ui jeungjin-eul wihae daetongryeong-euroseo-ui jikchaek-eul seongsilhi suhaenghal geos-eul eomsukhi seonseohamnida.",
+          "translation": "I solemnly swear that I will faithfully perform the duties of the President by observing the Constitution, defending the State, pursuing the peaceful unification of the fatherland, and promoting the freedom and welfare of the people ('대통령 취임 선서문')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (34.4.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "오늘 우리는 위대한 국민과 함께 담대한 용기로 불굴의 도전을 시작하여 국운을 융성하게 하고 자유와 번영의 새 시대를 활짝 열어젖힐 것입니다.",
+          "reading": "Oneul uri-neun widaehan gungmin-gwa hamkke damdaehan yonggi-ro bulgul-ui dojeon-eul sijakhayeo gukun-eul yungseonghage hago jayu-wa beon-yeong-ui sae sidae-reul hwaljjak yeoreojeochil geos-imnida.",
+          "translation": "Today, together with our great people, we will embark upon an indomitable challenge with bold courage, making the nation's fortunes flourish ('국운을 융성하게 하고') and throwing wide open a new era of freedom and prosperity ('새 시대를 활짝 열어젖힐 것입니다')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (34.4.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "역사의 엄중한 심판대 앞에서 오직 국민만을 바라보며 국가 미래 100년의 초석을 놓는 개혁에 정권의 명운을 걸고 매진하겠습니다.",
+          "reading": "Yeoksa-ui eomjunghan simpandae ap-eseo ojik gungminman-eul barabomyeo gukga mirae baek-nyeon-ui choseog-eul noneun gaehyeog-e jeonggwon-ui myeong-un-eul geolgo maejinhagessseumnida.",
+          "translation": "Before the solemn judgment seat of history, looking solely toward the people, I will dedicate myself, staking the administration's destiny ('정권의 명운을 걸고') on reforms laying the cornerstone for the nation's next 100 years."
+        },
+        {
+          "target": "선열들의 숭고한 희생으로 지켜낸 자유민주주의 헌정 질서를 굳건히 수호하고 미래 세대에게 정의롭고 찬란한 조국을 물려줍시다.",
+          "reading": "Seonyeoldeul-ui sunggohan huisaeng-euro jikyeonaen jayuminjuju-ui heonjeong jilseo-reul gutgeonhi suhohago mirae sedae-ege jeong-uiropgo challanhan joguk-eul mulryeojubpsida.",
+          "translation": "Let us firmly defend the liberal democratic constitutional order preserved by the patriots' sublime sacrifices and hand down a just and brilliant fatherland to future generations."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "취임 선서: 헌법 준수, 국운 융성, 명운을 건 개혁, 자유와 번영의 새 시대!"
+      ],
+      "culturalNotes": [
+        "대한민국 헌법 제69조는 대통령 취임 선서문을 규정하고 있으며, 대통령의 공식 연설문은 국정 철학과 시대정신을 담아내는 한국 최고 수준의 문장론으로 다루어집니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 정상회담과 정책 담화 (C2 Capstone Executive Statecraft) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 4)?",
+          "prompt": "국가의 운명과 번영을 크게 일으키고 번창하게 함을 뜻하는 장엄한 한자어 통치 표현은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (34.4.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (34.4.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (34.4.3)."
+            "국운을 융성(隆盛)하게 하다",
+            "동문서답하다",
+            "임시방편을 쓰다"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "국가의 운명을 크게 떨쳐 일으킴을 '국운을 융성하게 하다'라고 합니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 국가 정상회담과 통치 담화 (C2 Capstone Executive Statecraft) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 4):",
+          "prompt": "국가 지도자가 중대한 개혁 과제를 추진할 때 모든 것을 걸고 임하겠다는 결연한 의지를 나타내는 사자성어적 표현은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (34.4.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (34.4.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (34.4.3)."
+            "명운(命運)을 걸다 / 사활을 걸다",
+            "작심삼일로 끝내다",
+            "탁상공론을 일삼다"
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "목숨이나 운명을 걸고 결단하는 태도는 '명운을 걸다'입니다."
         }
       ]
     },
@@ -15948,14 +16011,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 정상회담과 정책 담화 (C2 Capstone Executive Statecraft) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 34-4)?",
+          "prompt": "대한민국 헌법 제69조에 따른 대통령 취임 선서의 시작 문구는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (34.4.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (34.4.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (34.4.3)."
+            "나는 헌법을 준수하고 국가를 보위하며...",
+            "나는 오늘부터 일을 쉬고 놀러 가며...",
+            "나는 친구들과 함께 파티를 즐기며..."
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR C2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "대통령 취임 선서는 '나는 헌법을 준수하고 국가를 보위하며...'로 시작합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'국운을 융성하게 하고 자유와 번영의 새 시대를 열었어요'(We made national fortunes flourish and opened a new era of freedom and prosperity)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "국운을 융성하게 하고 자유와 번영의 새 시대를 열었어요.",
+            "국운을 융성하게 하고 자유와 번영의 새 시대를 열었어요"
+          ],
+          "explanation": "국운을 융성하게 하고 + 자유와 번영의 + 새 시대를 + 열었어요 = 국운을 융성하게 하고 자유와 번영의 새 시대를 열었어요."
         }
       ]
     }
@@ -15965,56 +16037,65 @@
     "subject": "korean",
     "unit": 34,
     "lessonNumber": 5,
-    "title": "국가 정상회담과 통치 담화 (C2 Capstone Executive Statecraft) (Part 5)",
+    "title": "대통령 취임사 및 유엔 총회 기조연설 C2 최종 졸업 캡스톤 종합 실전 담화",
     "level": "C2",
-    "objective": "Comprehensive mastery of 정상회담과 정책 담화 (C2 Capstone Executive Statecraft).",
+    "objective": "한국어 전 교육과정(170과)의 정수를 총집대성하여 대한민국 국가 수반의 최고 통치 철학과 인류 보편 연대 C2 완결 담화를 완성한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 국가 정상회담과 통치 담화 (C2 Capstone Executive Statecraft) » (제5절)의 핵심 언어 요소와 정상회담과 정책 담화 (C2 Capstone Executive Statecraft)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "대한민국 제21대 대통령 취임식 및 유엔 총회(UN General Assembly) 일반토의 기조연설에서 전 세계 인류를 향해 천명하는 한국어 최고 경지(C2 Capstone Mastery)의 완결 실전 담화 모델입니다.\n\n1. C2 캡스톤 최종 기조연설 실전 모델:\n- 국가 원수(대통령): 존경하는 국민 여러분, 750만 재외동포, 그리고 세계 각국의 정상과 귀빈 여러분. 오늘 대한민국은 **국운을 융성하게 하고**, **자유와 평화, 번영의 새 시대를 활짝 열어젖히기 위해** 이 자리에 섰습니다.\n우리는 식민지의 어둠과 전쟁의 참화를 딛고 일어나, 반도체와 인공지능이 꽃피는 **초격차 혁신 강국**이자 세계인이 함께 열광하는 문화 강국을 일구어냈습니다.\n이제 대한민국은 **글로벌 중추국가(GPS)**로서 **규범 기반 국제 질서를 수호**하고, **녹색 사다리 이니셔티브와 ODA 확대**를 통해 인류가 직면한 복합 위기를 극복하는 데 앞장설 것입니다.\n**한반도의 비핵·평화·번영**을 굳건히 다지고, **역사의 엄중한 심판대 앞**에서 오직 인류의 더 나은 내일을 위해 **모든 명운을 걸고** 전진하겠습니다.\n국민과 함께, 세계 시민과 함께 위대한 도약의 미래를 향해 힘차게 나아갑시다. 대단히 감사합니다.",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (34.5.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "대한민국은 인류의 자유와 연대를 확장하는 글로벌 중추국가로서 세계 평화와 번영의 위대한 여정을 끝까지 함께할 것입니다.",
+          "reading": "Daehanminguk-eun inryu-ui jayu-wa yeondae-reul hwakdaehaneun geullobeol jungchugukga-rosseo segye pyeonghwa-wa beon-yeong-ui widaehan yeojeong-eul kkeutkkaji hamkkehal geos-imnida.",
+          "translation": "The Republic of Korea, as a Global Pivotal State expanding human freedom and solidarity, will accompany the grand journey of world peace and prosperity to the end."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (34.5.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "자유와 인권, 법치라는 보편적 가치에 기반한 국제사회의 굳건한 연대야말로 평화와 번영을 지키는 가장 강력한 보루입니다.",
+          "reading": "Jayu-wa in-gwon, beobchi-raneun bobyeonjeok gachi-e gibanhan gukjesahoe-ui gutgeonhan yeondae-yamallo pyeonghwa-wa beon-yeong-eul jikineun gajang gangnyeokhan boru-imnida.",
+          "translation": "Solid solidarity of the international community based on universal values of freedom, human rights, and the rule of law is indeed the strongest bulwark preserving peace and prosperity."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (34.5.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "우리가 오늘 내리는 담대한 결단과 헌신은 미래 세대에게 영원히 빛나는 희망의 등불이 될 것입니다.",
+          "reading": "Uri-ga oneul naerineun damdaehan gyeoldan-gwa heonsin-eun mirae sedae-ege yeong-wonhi binnaneun huimang-ui deungbul-i doel geos-imnida.",
+          "translation": "The bold decisions and devotion we make today will become an eternally shining beacon of hope for future generations."
+        },
+        {
+          "target": "위대한 국민 여러분과 전 세계 시민 여러분의 지혜와 용기에 진심으로 경의를 표하며 감사드립니다.",
+          "reading": "Widaehan gungmin yeoreobun-gwa jeon segye simin yeoreobun-ui jihye-wa yonggi-e jinsim-euro gyeong-ui-reul pyohamyeo gamsadeurimnida.",
+          "translation": "I express my sincere respect and deepest gratitude to the wisdom and courage of our great people and all global citizens."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "C2 한국어 완결: 국운 융성, 글로벌 중추국가, 자유와 연대, 영원한 번영!"
+      ],
+      "culturalNotes": [
+        "한글 창제(세종대왕)부터 시작하여 21세기 글로벌 중추국가와 한류 문화, 첨단 테크 강국에 이르는 대한민국 5천 년 역사의 정수가 한국어 34개 단원 170개 교과 과정에 완벽히 담겨 있습니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 정상회담과 정책 담화 (C2 Capstone Executive Statecraft) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 5)?",
+          "prompt": "유엔 총회나 국제 정상 연설에서 한국어 최고 수준(C2 Capstone)의 비전을 가장 격조 높게 천명하는 문장은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (34.5.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (34.5.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (34.5.3)."
+            "자유와 평화, 번영에 기여하는 글로벌 중추국가로서 규범 기반 국제 질서를 확립하는 데 앞장서겠습니다.",
+            "연설이 끝났으니 밥 먹으러 가겠습니다.",
+            "외국 친구들과 사진을 찍고 기념품을 사러 가겠습니다."
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "'글로벌 중추국가로서 규범 기반 국제 질서 확립에 앞장서겠다'는 최고 수준의 국가 수반 외교 비전 선언입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 국가 정상회담과 통치 담화 (C2 Capstone Executive Statecraft) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 5):",
+          "prompt": "대통령 취임사에서 국민과 역사를 향한 무한한 책임과 도전을 결의할 때 가장 장엄한 C2 종결 어구는?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (34.5.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (34.5.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (34.5.3)."
+            "역사의 엄중한 심판대 앞에서 국운을 융성하게 하고 자유와 번영의 새 시대를 활짝 열어젖히겠습니다.",
+            "임기 동안 적당히 쉬다가 물러나겠습니다.",
+            "남들이 하라는 대로 대충 하겠습니다."
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "'역사의 엄중한 심판대 앞', '국운 융성', '자유와 번영의 새 시대'는 완벽한 최고위 통치 연설 문형입니다."
         }
       ]
     },
@@ -16022,14 +16103,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 정상회담과 정책 담화 (C2 Capstone Executive Statecraft) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 34-5)?",
+          "prompt": "한국어 170과정 전 교육을 완결하며, 대한민국 국가 지도자의 C2 최종 마스터리 선언으로 가장 완벽한 것은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (34.5.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (34.5.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (34.5.3)."
+            "위대한 국민과 함께 국운을 융성하게 하고 글로벌 중추국가로서 세계 평화와 번영에 영원히 기여합시다.",
+            "한국어 공부가 끝났으니 이제 책을 다 버리겠습니다.",
+            "글자를 모두 잊어버려도 상관없습니다."
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR C2 target-language standard."
+          "explanation": "'국운 융성', '글로벌 중추국가', '세계 평화와 번영 기여'는 한국어 C2 최종 캡스톤의 완벽한 결실입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'글로벌 중추국가로서 자유와 번영의 새 시대를 완성했어요'(As a Global Pivotal State, we completed a new era of freedom and prosperity)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "글로벌 중추국가로서 자유와 번영의 새 시대를 완성했어요.",
+            "글로벌 중추국가로서 자유와 번영의 새 시대를 완성했어요"
+          ],
+          "explanation": "글로벌 중추국가로서 + 자유와 번영의 + 새 시대를 + 완성했어요 = 글로벌 중추국가로서 자유와 번영의 새 시대를 완성했어요."
         }
       ]
     }
