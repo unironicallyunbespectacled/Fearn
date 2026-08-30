@@ -14015,53 +14015,62 @@
     "subject": "cantonese",
     "unit": 34,
     "lessonNumber": 1,
-    "title": "多邊外交、條約法與公報辯護 (C2 Capstone Multilateral Diplomacy & VCLT) (第1課)",
+    "title": "維也納條約法公約（VCLT）與多邊條約締結程序：「全權證書」、「條約草簽」、「批准加入」 (Treaty Law & Ratification)",
     "level": "C2",
-    "objective": "Master Cantonese linguistics for 粵語單元34第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握《維也納條約法公約》（VCLT）核心原則、條約締結五大法定程序（全權證書、草簽、批准、加入、保留）及國際條約法高階粵語話語。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在多邊外交與國際公法體系中，《維也納條約法公約》奠定了主權國家締結與履行條約之根本法理基石：\n\n一、多邊國際條約締結法定程序：\n１．「全權證書與代表權」（cyun4 kyun4 zing3 syu1）：\n- 代表國家談判或簽署條約之代表必須出具由國家元首、政府首腦或外長簽發之全權證書。\n２．「條約約文採納與草簽」（coi2 naap6 jyu5 cou2 cim1）：\n- 經全體與會代表協商一致或三分之二多數通過條約約文，由談判代表草簽（Initialling）確認文本。\n３．「正式簽署與批准加入」（pai1 zeon2 jyu5 gaa1 jap6）：\n- 簽署後需經國內立法機關批准，並向條約保存機關交存批准書（Deposit of Instrument of Ratification）。\n\n二、國際法根本鐵律：\n- 「約定必須遵守」（joek3 ding6 bit1 seoi1 zeon1 sau2 / Pacta sunt servanda）：合法締結之條約對締約國具有絕對約束力，必須善意履行。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第34課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 34 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 34 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 34 in communication."
+          "target": "特命全權大使向大會秘書處遞交全權證書，代表主權國家正式簽署多邊國際環境保護公約。",
+          "reading": "dak6 ming6 cyun4 kyun4 daai6 si3 hoeng3 daai6 wui6*2 bei3 syu1 cyu3 dai6 gaau1 cyun4 kyun4 zing3 syu1, doi6 biu2 zyu2 kyun4 gwok3 zing3 sik1 cim1 cyu5 do1 bin1 gwok3 zai3 waan4 ging2 bou2 wu6 gung1 joek3. [tɐk̚˨ mɪŋ˨ cyːn˨˩ kʰyːn˨˩ taːi˨ siː˧ hœːŋ˧ taːi˨ wuːi˨˩ pei˧ syː˥ tsʰyː˧ tɐi˨ kaːu˥ cyːn˨˩ kʰyːn˨˩ tsɪŋ˧ syː˥, tɔːi˨ piːu˧˥ tsyː˧˥ kʰyːn˨˩ kʷɔːk̚˧ tsɪŋ˧ sɪk̚˥ tsʰiːm˥ tsyː˧˥ tɔː˥ piːn˥ kʷɔːk̚˧ tsɐi˧ waːn˨˩ kɪŋ˧˥ pou˧˥ wuː˨ kʊŋ˥ jœːk̚˧] (DUK-MING CHUEN-KUEN DY-SEE HEUNG DY-WUI BAY-SUE-CHUE DY-GAU CHUEN-KUEN JING-SUE, DOY-BEW JUE-KUEN GWOK JING-SIK CHEEM-CHUE DOH-BEEN GWOK-JY WAHN-GING BOU-WOO GONG-YERK)",
+          "translation": "The Ambassador Extraordinary and Plenipotentiary submitted the full powers to the General Assembly Secretariat, formally signing the multilateral international environmental protection convention on behalf of the sovereign state."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元34-1）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "立法機關全票審議通過條約批准案，國家元首簽署批准書並正式交存聯合國秘書處，條約隨即生效。",
+          "reading": "laap6 faat3 gei1 gwaan1 cyun4 piu3 sam2 ji5 tung1 gwo3 tiu4 joek3 pai1 zeon2 on3, gwok3 gaa1 jyun4 sau2 cim1 cyu5 pai1 zeon2 syu1 bing6 zing3 sik1 gaau1 cyun4 lyun4 hap6 gwok3 bei3 syu1 cyu3, tiu4 joek3 ceoi4 zik1 saang1 haau6. [laːp̚˨ faːt̚˧ kei˥ kʷaːn˥ tsʰyːn˨˩ pʰiːu˧ sɐm˧˥ jiː˩˧ tʰʊŋ˥ kʷɔː˧ tʰiːu˨˩ jœːk̚˧ pʰɐi˥ tsɵn˧˥ ɔːn˧, kʷɔːk̚˧ kaː˥ jyːn˨˩ sɐu˧˥ tsʰiːm˥ tsyː˧˥ pʰɐi˥ tsɵn˧˥ syː˥ pɪŋ˨ tsɪŋ˧ sɪk̚˥ kaːu˥ tsʰyːn˨˩ lyːn˨˩ hɐp̚˨ kʷɔːk̚˧ pei˧ syː˥ tsʰyː˧, tʰiːu˨˩ jœːk̚˧ tsʰɵy˨˩ tsɪk̚˥ saːŋ˥ haːu˨] (LAHP-FAHT GAY-GWAHN CHUEN-PEW SUM-YEE TOONG-GWOR TEW-YERK PY-JEON ON, GWOK-GAH YUEN-SAU CHEEM-CHUE PY-JEON-SUE BING JING-SIK GAU-CHUEN LUEN-HUP GWOK BAY-SUE-CHUE, TEW-YERK CHOEY-JIK SUNG-HAU)",
+          "translation": "The legislature unanimously deliberated and passed the treaty ratification bill, the head of state signed the instrument of ratification and formally deposited it with the UN Secretariat, and the treaty immediately entered into force."
+        },
+        {
+          "target": "締約各方必須恪守「約定必須遵守」之國際法最高原則，善意履行條約所規定之全部國際法義務。",
+          "reading": "tai3 joek3 gok3 fong1 bit1 seoi1 kok3 sau2 \"joek3 ding6 bit1 seoi1 zeon1 sau2\" zi1 gwok3 zai3 faat3 zeoi3 gou1 jyun4 zak1, sin6 ji3 lei5 hang4 tiu4 joek3 so2 kwai1 ding6 zi1 cyun4 bou6 gwok3 zai3 faat3 ji6 mou6. [tʰɐi˧ jœːk̚˧ kɔːk̚˧ fɔːŋ˥ pɪt̚˥ sɵy˥ kʰɔːk̚˧ sɐu˧˥ \"jœːk̚˧ tɪŋ˨ pɪt̚˥ sɵy˥ tsɵn˥ sɐu˧˥\" tsiː˥ kʷɔːk̚˧ tsɐi˧ faːt̚˧ tsɵy˧ kou˥ jyːn˨˩ tsɐk̚˥, siːn˨ jiː˧ lei˩˧ hɐŋ˨˩ tʰiːu˨˩ jœːk̚˧ sɔː˧˥ kʰwɐi˥ tɪŋ˨ tsiː˥ tsʰyːn˨˩ pou˨ kʷɔːk̚˧ tsɐi˧ faːt̚˧ jiː˨ mouou˨] (TY-YERK GOK-FONG BEET-SOEY KOK-SAU \"YERK-DING BEET-SOEY JEON-SAU\" JEE GWOK-JY FAHT JEOY-GOU YUEN-JUK, SEEN-YEE LEY-HAHNG TEW-YERK SOH KWAI-DING JEE CHUEN-BOU GWOK-JY FAHT YEE-MOU)",
+          "translation": "All contracting parties must strictly abide by the supreme international law principle of 'pacta sunt servanda', performing in good faith all international legal obligations stipulated by the treaty."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【條約締結訣】全權證書代表真，草簽約文意相親；批准交存公約立，約定必守千秋信！"
+      ],
+      "culturalNotes": [
+        "香港作為國際金融與航運中心，根據《基本法》享有在對外事務中以『中國香港』（Hong Kong, China）名義單獨參與國際組織、簽署雙邊投資及民用航空協定之廣泛法定權利。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"起訴\":",
+          "prompt": "【國際法原則】《維也納條約法公約》中規定有效條約對締約國具有絕對法律約束力、必須善意履行之拉丁法諺係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第34課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：辯護錯置）",
-            "混雜生硬詞彙之不規範語句（例項：證人未適配）",
-            "聲調助詞搭配欠妥之表達（例項：證據誤用）"
+            "約定必須遵守 (Pacta sunt servanda / Joek3 ding6 bit1 seoi1 zeon1 sau2)",
+            "強權即是真理",
+            "條約隨時可以單方作廢",
+            "口頭承諾無須遵守"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「約定必須遵守（Pacta sunt servanda）」為國際公法與國際條約法體系中最高級別之根本鐵律。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"起訴\":",
+          "prompt": "【締約程序】國家元首或外長出具證明代表享有合法權限談判並簽署國際條約之法定權力憑證係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第34課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：證人未適配）",
-            "聲調助詞搭配欠妥之表達（例項：證據誤用）",
-            "語序顛倒嘅非標準句式（例項：辯護錯置）"
+            "全權證書 (Full Powers / Cyun4 kyun4 zing3 syu1)",
+            "普通商業名片",
+            "私人推薦信",
+            "口頭自我介紹"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「全權證書（Full Powers）」為代表主權國家締結國際條約之法定必要憑證。"
         }
       ]
     },
@@ -14069,15 +14078,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"起訴\": Which sentence is completely correct?",
+          "prompt": "【條約生效】一項多邊國際公約在完成簽署後、在國際法層面正式對締約國產生法律約束力之關鍵法律行為係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第34課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：證據誤用）",
-            "語序顛倒嘅非標準句式（例項：辯護錯置）",
-            "混雜生硬詞彙之不規範語句（例項：證人未適配）"
+            "批准並交存批准書 (Ratification and deposit of instrument of ratification)",
+            "單純在新聞上口頭宣布",
+            "未經批准私下存放",
+            "拒絕履行任何手續"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "國內立法機關批准並向條約保存機關交存批准書係多邊條約對國家正式生效之法定要件。"
         }
       ],
       "passThreshold": 0.8
@@ -14088,53 +14097,62 @@
     "subject": "cantonese",
     "unit": 34,
     "lessonNumber": 2,
-    "title": "多邊外交、條約法與公報辯護 (C2 Capstone Multilateral Diplomacy & VCLT) (第2課)",
+    "title": "聯合國大會多邊辯論、決議草案協商與程序動議：「程序性動議」、「全體一致通過」、「修正案磋商」 (UNGA Multilateral Debate)",
     "level": "C2",
-    "objective": "Master Cantonese linguistics for 粵語單元34第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握聯合國大會多邊外交辯論規則（發言次序、程序問題、答辯權）、決議草案磋商博弈及各國代表團正式外交交涉話語體系。",
     "presentation": {
-      "explanation": "",
+      "explanation": "聯合國大會是主權國家平等開展多邊外交與國際秩序構建之全球最高講壇：\n\n一、聯大議事規則與辯論程序核心話語矩陣：\n１．「程序問題與發言次序」（Point of Order / cing4 zeoi6 man6 tai4）：\n- 「主席先生，我方提出程序問題，要求嚴格遵守議事規則中關於發言時限之規定」。\n２．「答辯權之行使」（Right of Reply / daap3 bin6 kyun4）：\n- 「鑒於個別代表在剛才發言中對我國政策之不實指責，我方請求行使答辯權予以嚴正駁斥」。\n３．「決議草案磋商與表決模式」：\n- 「決議草案共同倡議國」（Co-sponsors）、修正案磋商（Amendments）。\n- 「全體一致協商一致通過」（Consensus / cyun4 tai2 jat1 zi3）：無需付諸表決即獲通過。\n- 「付諸記名表決」（Roll-call Vote / gei3 ming4 biu2 kyut3）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第34課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 34 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 34 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 34 in communication."
+          "target": "常駐聯合國代表在一般性辯論中嚴正行使答辯權，有理有利有節駁斥個別國家之無理指責與雙重標準。",
+          "reading": "soeng4 zyu3 lyun4 hap6 gwok3 doi6 biu2 zoi6 jat1 bun1 sing3 bin6 leon6 zung1 jim4 zing3 hang4 sai2 daap3 bin6 kyun4, jau5 lei5 jau5 lei6 jau5 zit3 bok3 cik1 go3 bit6 gwok3 gaa1 zi1 mou4 lei5 zi2 zaak3 jyu5 soeng1 zung1 biu1 zeon2. [sœːŋ˨˩ tsyː˧ lyːn˨˩ hɐp̚˨ kʷɔːk̚˧ tɔːi˨ piːu˧˥ tsɔːi˨ jɐt̚˥ puːn˥ sɪŋ˧ piːn˨ lœːn˨ tsʊŋ˥ jiːm˨˩ tsɪŋ˧ hɐŋ˨˩ sɐi˧˥ taːp̚˧ piːn˨ kʰyːn˨˩, jɐu˩˧ lei˩˧ jɐu˩˧ lei˨ jɐu˩˧ tsit̚˧ pɔːk̚˧ tsʰɪk̚˥ kɔː˧ piːt̚˨ kʷɔːk̚˧ kaː˥ tsiː˥ mouou˨˩ lei˩˧ tsiː˧˥ tsaːk̚˧ jyː˩˧ sœːŋ˥ tsʊŋ˨ piːu˥ tsɵn˧˥] (SEUNG-JUE LUEN-HUP GWOK DOY-BEW JOY YUT-BOON-SING BEEN-LEON JOONG YEEM-JING HAHNG-SY DAAP-BEEN-KUEN, YAU-LEY YAU-LEY YAU-JEET BOK-CHIK GOH-BEET GWOK-GAH JEE MOU-LEY JEE-JAAK YUE SEUNG-JOONG BEW-JEON)",
+          "translation": "The Permanent Representative to the UN solemnly exercised the right of reply in the General Debate, forcefully and measuredly refuting the unjustified accusations and double standards of individual countries."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元34-2）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "經過多輪艱苦卓絕之多邊磋商，各國代表團最終就決議草案達成共識，獲得聯大全體一致協商通過。",
+          "reading": "ging1 gwo3 do1 leon4 gaan1 fu2 zoek3 zyut6 zi1 do1 bin1 coe1 seong1, gok3 gwok3 doi6 biu2 tyun4 zeoi3 zung1 zau6 kyut3 ji5 cou2 on3 daat6 sing4 gung6 sik1, wok6 dak1 lyun4 daai6 cyun4 tai2 jat1 zi3 hip3 soeng1 tung1 gwo3. [kɪŋ˥ kʷɔː˧ tɔː˥ lɵn˨˩ kaːn˥ fuː˧˥ tsœːk̚˧ tsyːt̚˧ tsiː˥ tɔː˥ piːn˥ tsʰœː˥ sœːŋ˥, kɔːk̚˧ kʷɔːk̚˧ tɔːi˨ piːu˧˥ tʰyːn˨˩ tsɵy˧ tsʊŋ˥ tsɐu˧ kʰyːt̚˧ jiː˩˧ tsʰou˧˥ ɔːn˧ taːt̚˨ sɪŋ˨˩ kʊŋ˧ sɪk̚˥, waːk̚˨ tɐk̚˥ lyːn˨˩ taːi˨ tsʰyːn˨˩ tʰɐi˧˥ jɐt̚˥ tsiː˧ hip̚˧ sœːŋ˥ tʰʊŋ˥ kʷɔː˧] (GING-GWOR DOH-LEON GAHN-FOO JERK-JUET JEE DOH-BEEN CHOE-SEUNG, GOK-GWOK DOY-BEW-TUEN JEOY-JOONG JAU KUET-YEE CHOU-ON DAHT-SING GONG-SIK, WOK-DUK LUEN-DY CHUEN-TY-YUT-JEE HEEP-SEUNG TOONG-GWOR)",
+          "translation": "Following multiple rounds of arduous multilateral consultations, all delegations finally reached consensus on the draft resolution, which was adopted by consensus in the UN General Assembly."
+        },
+        {
+          "target": "代表團團長就重大國際議題發表主旨演說，呼籲國際社會踐行真正之多邊主義同合作共贏。",
+          "reading": "doi6 biu2 tyun4 tyun4 zoeng2 zau6 zung6 daai6 gwok3 zai3 ji4 tai4 faat3 biu2 zyu2 zi2 jin2 seoi3, fu1 jyu4 gwok3 zai3 se5 wui6*2 zin6 hang4 zan1 zing3 zi1 do1 bin1 zyu2 ji6 tung4 hap6 zok3 gung6 jing4. [tɔːi˨ piːu˧˥ tʰyːn˨˩ tʰyːn˨˩ tsœːŋ˧˥ tsɐu˧ tsʊŋ˨ taːi˨ kʷɔːk̚˧ tsɐi˧ jiː˨˩ tʰɐi˨˩ faːt̚˧ piːu˧˥ tsyː˧˥ tsiː˧˥ jiːn˧˥ sɵy˧, fuː˥ jyː˩˧ kʷɔːk̚˧ tsɐi˧ sɛː˩˧ wuːi˨˩ tsiːn˨ hɐŋ˨˩ tsɐn˥ tsɪŋ˧ tsiː˥ tɔː˥ piːn˥ tsyː˧˥ jiː˩˧ tʰʊŋ˨˩ hɐp̚˨ tsɔːk̚˧ kʊŋ˨ jɪŋ˨˩] (DOY-BEW-TUEN TUEN-JEUNG JAU JOONG-DY GWOK-JY YEE-TY FAHT-BEW JUE-JEE YEEN-SOEY, FOO-YUE GWOK-JY SHEH-WUI JEEN-HAHNG JUN-JING JEE DOH-BEEN-JUE-YEE TOONG HUP-JOK GONG-YING)",
+          "translation": "The head of the delegation delivered a keynote address on major international issues, calling upon the international community to practice genuine multilateralism and win-win cooperation."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【聯大外交訣】程序問題立新規，答辯權行理不虧；多邊磋商成共識，聯大講壇展宏威！"
+      ],
+      "culturalNotes": [
+        "在聯合國六種官方正式工作語言中，中文擁有崇高的國際公法地位。在多邊國際談判中，精準的中文同聲傳譯與法律文本草擬是捍衛國家核心利益與國際公平正義的關鍵屏障。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"辯護\":",
+          "prompt": "【多邊外交】在國際會議中當本國立場遭到他國代表歪曲指責時、代表團請求大會主席給予發言機會進行反駁之法定外交權利係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第34課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：證人錯置）",
-            "混雜生硬詞彙之不規範語句（例項：證據未適配）",
-            "聲調助詞搭配欠妥之表達（例項：公義誤用）"
+            "答辯權 (Right of Reply / Daap3 bin6 kyun4)",
+            "直接離場抗議",
+            "當場大聲喧嘩",
+            "永久保持沉默"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「答辯權（Right of Reply）」為聯合國大會及各大多邊外交論壇中捍衛國家尊嚴與立場之標準法定程序權利。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"辯護\":",
+          "prompt": "【表決機制】聯合國大會決議草案在無任何代表團提出異議、無需付諸投票表決而一致通過之最高級別通過方式係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第34課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：證據未適配）",
-            "聲調助詞搭配欠妥之表達（例項：公義誤用）",
-            "語序顛倒嘅非標準句式（例項：證人錯置）"
+            "協商一致通過 (Adoption by Consensus / Cyun4 tai2 jat1 zi3 hip3 soeng1)",
+            "少數服從多數勉強通過",
+            "抽籤決定",
+            "主席一人專斷"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「協商一致（Consensus）」代表了國際社會全體成員之最高政治共識。"
         }
       ]
     },
@@ -14142,15 +14160,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"辯護\": Which sentence is completely correct?",
+          "prompt": "【議事規則】在多邊會議進行中代表針對主持程序或發言規則是否合規當場打斷並要求主席裁決之程序工具係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第34課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：公義誤用）",
-            "語序顛倒嘅非標準句式（例項：證人錯置）",
-            "混雜生硬詞彙之不規範語句（例項：證據未適配）"
+            "程序問題 (Point of Order / Cing4 zeoi6 man6 tai4)",
+            "私人聊天",
+            "廣告宣傳",
+            "無效抱怨"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「程序問題（Point of Order）」為各國代表糾正會議偏離議事規則之有力法定手段。"
         }
       ],
       "passThreshold": 0.8
@@ -14161,53 +14179,62 @@
     "subject": "cantonese",
     "unit": 34,
     "lessonNumber": 3,
-    "title": "多邊外交、條約法與公報辯護 (C2 Capstone Multilateral Diplomacy & VCLT) (第3課)",
+    "title": "國際法院（ICJ）訴訟辯護、管轄權異議與諮詢意見：「管轄權裁定」、「先決抗辯」、「確定力」 (ICJ Litigation & Advisory Opinions)",
     "level": "C2",
-    "objective": "Master Cantonese linguistics for 粵語單元34第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握國際法院（ICJ）訴訟程序（管轄權異議、先決抗辯、臨時保全措施、終局判決）、諮詢意見法律地位及海牙和平宮訴訟抗辯話語。",
     "presentation": {
-      "explanation": "",
+      "explanation": "聯合國主要司法機關國際法院（ICJ，海牙和平宮）承擔著和平解決國家間法律爭端之最高司法職能：\n\n一、國際法院訴訟兩大核心階段：\n１．「管轄權異議與先決抗辯」（Preliminary Objections / sin1 kyut3 kong3 bin6）：\n- 被告國可在實體審理前提出法院缺乏管轄權（Lack of Jurisdiction）或起訴不可受理（Inadmissibility）之先決抗辯。\n２．「實體審理與終局判決」（Merits & Final Judgment）：\n- 經過書面答辯與口頭辯論，法院作出終局且具法律約束力之判決（Final and binding）。\n\n二、國際司法重要概念：\n- 「既判力 / 確定力」（kok3 ding6 lik6 / Res judicata）：案件一經終審判決，同一當事方不得就同一標的重複起訴。\n- 「諮詢意見」（zi1 seon1 ji3 gin3 / Advisory Opinions）：應聯大或安理會請求，就重大國際法律問題提供權威司法闡釋。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第34課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 34 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 34 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 34 in communication."
+          "target": "首席法律顧問在海牙國際法院口頭辯論中提出有力之先決抗辯，成功論證法院對本案缺乏管轄權。",
+          "reading": "sau2 zik6 faat3 leot6 gu3 man6 zoi6 hoi2 ngaa4 gwok3 zai3 faat3 jyun6*2 hau2 tau4 bin6 leon6 zung1 tai4 ceot1 jau5 lik6 zi1 sin1 kyut3 kong3 bin6, sing4 gung1 leon6 zing3 faat3 jyun6*2 deoi3 bun2 on3 kyut3 faat3 gun2 hat6 kyun4. [sɐu˧˥ tsɪk̚˨ faːt̚˧ lɵt̚˨ kuː˧ mɐn˨ tsɔːi˨ hɔːi˧˥ ŋaː˩˧ kʷɔːk̚˧ tsɐi˧ faːt̚˧ jyːn˨ hɐu˧˥ tʰɐu˨˩ piːn˨ lœːn˨ tsʊŋ˥ tʰɐi˨˩ tsʰɵt̚˥ jɐu˩˧ lɪk̚˨ tsiː˥ siːn˥ kʰyːt̚˧ kʰɔːŋ˧ piːn˨, sɪŋ˨˩ kʊŋ˥ lœːn˨ tsɪŋ˧ faːt̚˧ jyːn˨ tɵy˧ puːn˧˥ ɔːn˧ kʰyːt̚˧ faːt̚˧ kuːn˧˥ hɐt̚˨ kʰyːn˨˩] (SAU-JIK FAHT-LUT GOO-MUN JOY HOI-NGAH GWOK-JY FAHT-YUEN HAU-TAU BEEN-LEON JOONG TY-CHUT YAU-LIK JEE SEEN-KUET KONG-BEEN, SING-GONG LEON-JING FAHT-YUEN DEOY BOON-ON KUET-FAHT GOON-HUT-KUEN)",
+          "translation": "The Principal Legal Counsel presented forceful preliminary objections during oral arguments at the International Court of Justice in The Hague, successfully demonstrating that the Court lacked jurisdiction over the present case."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元34-3）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "國際法院依據《國際法院規約》作出終局判決，該判決具備法律確定力，對雙方當事國均有拘束力。",
+          "reading": "gwok3 zai3 faat3 jyun6*2 ji1 geui3 \"gwok3 zai3 faat3 jyun6*2 kwai1 joek3\" zok3 ceot1 zung1 guk6 pun3 kyut3, goi1 pun3 kyut3 geoi6 bei6 faat3 leot6 kok3 ding6 lik6, deoi3 soeng1 fong1 dong1 si6 gwok3 gwan1 jau5 geoi1 cuk1 lik6. [kʷɔːk̚˧ tsɐi˧ faːt̚˧ jyːn˨ jiː˥ kɵy˧ \"kʷɔːk̚˧ tsɐi˧ faːt̚˧ jyːn˨ kʰwɐi˥ jœːk̚˧\" tsɔːk̚˧ tsʰɵt̚˥ tsʊŋ˥ kʊk̚˨ pʰuːn˧ kʰyːt̚˧, kɔːi˥ pʰuːn˧ kʰyːt̚˧ kɵy˨ pei˨ faːt̚˧ lɵt̚˨ kʰɔːk̚˧ tɪŋ˨ lɪk̚˨, tɵy˧ sœːŋ˥ fɔːŋ˥ tɔːŋ˥ siː˨ kʷɔːk̚˧ kʷɐn˥ jɐu˩˧ kɵy˥ tsʰʊk̚˥ lɪk̚˨] (GWOK-JY FAHT-YUEN YEE-GOEY \"GWOK-JY FAHT-YUEN KWAI-YERK\" JOK-CHUT JOONG-GUK POON-KUET, GOI POON-KUET GOEY-BAY FAHT-LUT KOK-DING-LIK, DEOY SEUNG-FONG DONG-SEE GWOK GWUN-YAU GOEY-CHUK-LIK)",
+          "translation": "The International Court of Justice rendered a final judgment in accordance with the ICJ Statute; the judgment possesses the authority of res judicata and is binding upon both state parties."
+        },
+        {
+          "target": "應聯合國大會之特別請求，國際法院就相關國際法原則之適用範圍發表權威諮詢意見。",
+          "reading": "jing1 lyun4 hap6 gwok3 daai6 wui6*2 zi1 dak6 bit6 cing2 kau4, gwok3 zai3 faat3 jyun6*2 zau6 soeng1 gwaan1 gwok3 zai3 faat3 jyun4 zak1 zi1 sik1 jung6 faan6 wai4 faat3 biu2 kyun4 wai1 zi1 seon1 ji3 gin3. [jɪŋ˥ lyːn˨˩ hɐp̚˨ kʷɔːk̚˧ taːi˨ wuːi˨˩ tsiː˥ tɐk̚˨ piːt̚˨ tsʰɪŋ˧˥ kʰɐu˨˩, kʷɔːk̚˧ tsɐi˧ faːt̚˧ jyːn˨ tsɐu˧ sœːŋ˥ kʷaːn˥ kʷɔːk̚˧ tsɐi˧ faːt̚˧ jyːn˨˩ tsɐk̚˥ tsiː˥ sɪk̚˥ jʊŋ˨ faːn˨ wɐi˨˩ faːt̚˧ piːu˧˥ kʰyːn˨˩ wɐi˥ tsiː˥ sɵn˧ jiː˧ kiːn˧] (YING LUEN-HUP GWOK DY-WUI JEE DUK-BEET CHING-KAU, GWOK-JY FAHT-YUEN JAU SEUNG-GWAHN GWOK-JY FAHT YUEN-JUK JEE SIK-YOONG FAHN-WAI FAHT-BEW KUEN-WAI JEE-SEON YEE-GEEN)",
+          "translation": "Upon the special request of the UN General Assembly, the International Court of Justice delivered an authoritative advisory opinion on the scope of application of relevant international law principles."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【海牙國際法訣】先決抗辯駁管轄，終局判決定力嘉；諮詢意見明法理，海牙法殿定邦家！"
+      ],
+      "culturalNotes": [
+        "設在荷蘭海牙和平宮的國際法院是全球最高司法審判殿堂。包括倪征𣋉法官、史久鏞法官、薛捍勤法官在內的中華法學巨擘先後在國際法院擔任大法官及院長，為國際法治貢獻了深邃的東方智慧。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"證人\":",
+          "prompt": "【國際訴訟】在海牙國際法院訴訟中，被告國在實體問題辯論前主張法院無權審理該案之法定抗辯稱為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第34課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：證據錯置）",
-            "混雜生硬詞彙之不規範語句（例項：公義未適配）",
-            "聲調助詞搭配欠妥之表達（例項：早晨誤用）"
+            "先決抗辯 / 管轄權異議 (Preliminary Objections / Sin1 kyut3 kong3 bin6)",
+            "直接認罪認罰",
+            "要求法官全部辭職",
+            "拒絕出庭並撕毀卷宗"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「先決抗辯（Preliminary Objections）」為阻斷不當國際訴訟、質疑法院管轄權之第一道關鍵司法防線。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"證人\":",
+          "prompt": "【判決效力】法院判決一經依法終局作出即具有不容反悔、同一訴訟標的不得重複再審之司法效力稱為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第34課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：公義未適配）",
-            "聲調助詞搭配欠妥之表達（例項：早晨誤用）",
-            "語序顛倒嘅非標準句式（例項：證據錯置）"
+            "確定力 / 既判力 (Res Judicata / Kok3 ding6 lik6)",
+            "臨時參考效力",
+            "隨意撤銷權",
+            "無效通知"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「確定力（Res Judicata）」為保障司法判決權威性與終局性之根本法律基石。"
         }
       ]
     },
@@ -14215,15 +14242,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"證人\": Which sentence is completely correct?",
+          "prompt": "【法院職能】國際法院除審理國家間爭端外、應聯大或安理會請求就重大法律難題發布權威法律闡釋之形式係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第34課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：早晨誤用）",
-            "語序顛倒嘅非標準句式（例項：證據錯置）",
-            "混雜生硬詞彙之不規範語句（例項：公義未適配）"
+            "諮詢意見 (Advisory Opinion / Zi1 seon1 ji3 gin3)",
+            "非公開私人信件",
+            "新聞評論員文章",
+            "匿名社交媒體帖文"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "國際法院發布之「諮詢意見（Advisory Opinion）」在國際公法領域享有崇高的權威性與指導價值。"
         }
       ],
       "passThreshold": 0.8
@@ -14234,53 +14261,62 @@
     "subject": "cantonese",
     "unit": 34,
     "lessonNumber": 4,
-    "title": "多邊外交、條約法與公報辯護 (C2 Capstone Multilateral Diplomacy & VCLT) (第4課)",
+    "title": "聯合國安理會制裁決議與維和行動授權談判：「第七章授權」、「制裁豁免」、「斡旋調解」 (UN Security Council Mandates)",
     "level": "C2",
-    "objective": "Master Cantonese linguistics for 粵語單元34第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握聯合國安理會《憲章》第七章強制行動授權、制裁措施（軍火禁運、資產凍結）、維和部隊交戰規則（ROE）及高階安理會博弈話語。",
     "presentation": {
-      "explanation": "",
+      "explanation": "聯合國安全理事會承擔著維護國際和平與安全之首要責任，其第七章決議具備強制法律效力：\n\n一、安理會第七章強制措施體系：\n１．「第七章行動授權」（Action under Chapter VII）：\n- 依據《聯合國憲章》第七章，安理會可採取非軍事制裁或授權採取一切必要手段（All necessary means）恢復國際和平。\n２．「定向制裁與人道主義豁免」（Targeted Sanctions）：\n- 包括軍火禁運（Arms Embargo）、資產凍結（Asset Freeze）、旅行禁令（Travel Ban）；嚴格設立人道主義豁免條款。\n３．「維和行動授權與交戰規則」（Peacekeeping & ROE）：\n- 部署聯合國維和部隊（藍盔部隊），恪守中立、同意與自衛使用武力原則。\n\n二、安理會常任理事國博弈：\n- 「否決權之審慎行使」（Veto Power）與建設性斡旋調解（Mediation）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第34課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 34 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 34 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 34 in communication."
+          "target": "安理會依據《憲章》第七章一致通過決議，授權向衝突地區部署聯合國維和部隊以保護平民安全。",
+          "reading": "on1 lei5 wui6*2 ji1 geui3 \"hyun1 zoeng1\" dai6 cat1 zoeng1 jat1 zi3 tung1 gwo3 kyut3 ji5, sau6 kyun4 hoeng3 cung1 tat6 dei6 keoi1 bou3 cyu5 lyun4 hap6 gwok3 wai4 ci4 wo4 ping4 bou6 deoi6*2 ji5 bou2 wu6 ping4 man4 on1 cyun4. [ɔːn˥ lei˩˧ wuːi˨˩ jiː˥ kɵy˧ \"hyːn˥ tsœːŋ˥\" tɐi˨ tsʰɐt̚˥ tsœːŋ˥ jɐt̚˥ tsiː˧ tʰʊŋ˥ kʷɔː˧ kʰyːt̚˧ jiː˩˧, sɐu˨ kʰyːn˨˩ hœːŋ˧ tsʰʊŋ˥ tʰɐt̚˧ tei˨ kʰɵy˥ pou˧ tsʰyː˧˥ lyːn˨˩ hɐp̚˨ kʷɔːk̚˧ wɐi˨˩ tsʰiː˨˩ wɔː˨˩ pʰɪŋ˨˩ pou˨ tɵy˧˥ jiː˩˧ pou˧˥ wuː˨ pʰɪŋ˨˩ mɐn˨˩ ɔːn˥ tsʰyːn˨˩] (ON-LEY-WUI YEE-GOEY \"HUEN-JEUNG\" DY-CHUT-JEUNG YUT-JEE TOONG-GWOR KUET-YEE, SAU-KUEN HEUNG CHOONG-TUT DAY-KOEY BOU-CHUE LUEN-HUP GWOK WAI-CHEE WOH-PING BOU-DEOY YEE BOU-WOO PING-MUN ON-CHUEN)",
+          "translation": "The Security Council unanimously adopted a resolution under Chapter VII of the Charter, authorizing the deployment of a UN peacekeeping operation to the conflict area to protect civilian safety."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元34-4）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "決議嚴格設立人道主義物資通行豁免機制，確保國際人道援助能夠及時無阻礙地送達受災民眾手中。",
+          "reading": "kyut3 ji5 jim4 gak3 cit3 laap6 jan4 dou6 zyu2 ji6 mat6 zi1 tung1 hang4 kut3 min5 gei1 zai3, kok3 bou2 gwok3 zai3 jan4 dou6 jyun4 zo6 nang4 gau3 kap6 si4 mou4 zo2 ngoi6 dei6 sung3 daat6 sau6 zoi1 man4 zung3 sau2 zung1. [kʰyːt̚˧ jiː˩˧ jiːm˨˩ kɐk̚˧ tsʰiːt̚˧ laːp̚˨ jɐn˨˩ tou˨ tsyː˧˥ jiː˩˧ mɐt̚˨ tsiː˥ tʰʊŋ˥ hɐŋ˨˩ kʰyːt̚˧ miːn˩˧ kei˥ tsɐi˧, kʰɔːk̚˧ pou˧˥ kʷɔːk̚˧ tsɐi˧ jɐn˨˩ tou˨ jyːn˨˩ tsɔː˨ nɐŋ˨˩ kɐu˧ kʰɐp̚˨ siː˨˩ mouou˨˩ tsɔː˧˥ ŋɔːi˨ tei˨ sʊŋ˧ taːt̚˨ sɐu˨ tsɔːi˥ mɐn˨˩ tsʊŋ˧ sɐu˧˥ tsʊŋ˥] (KUET-YEE YEEM-GUK CHEET-LAHP YUN-DOU JUE-YEE MUT-JEE TOONG-HAHNG KUET-MEEN GAY-JAI, KOK-BOU GWOK-JY YUN-DOU YUEN-JOH NUNG-GAU KUP-SEE MOU-JOH-NGOY DAY SOONG-DAHT SAU-JOY MUN-JOONG SAU-JOONG)",
+          "translation": "The resolution strictly established a humanitarian goods passage exemption mechanism, ensuring that international humanitarian aid can be delivered to disaster-stricken citizens timely and unhindered."
+        },
+        {
+          "target": "常任理事國代表積極開展斡旋調解，推動停火協議達成，維護地區戰略穩定與和平局勢。",
+          "reading": "soeng4 jam6 lei5 si3 gwok3 doi6 biu2 zik1 gik6 hoi1 zin2 waat6 syun4 tiu4 gaai2, teoi1 dung6 ting4 fo2 hip3 ding6 daat6 sing4, wai4 wu6 dei6 keoi1 zin3 loek6 wan2 ding6 jyu5 wo4 ping4 guk6 sai3. [sœːŋ˨˩ jɐm˨ lei˩˧ siː˧ kʷɔːk̚˧ tɔːi˨ piːu˧˥ tsɪk̚˥ kɪk̚˨ hɔːi˥ tsiːn˧˥ waːt̚˨ syːn˨˩ tʰiːu˨˩ kaːi˧˥, tʰɵy˥ tʊŋ˨ tʰɪŋ˨˩ fɔː˧˥ hip̚˧ tɪŋ˨ taːt̚˨ sɪŋ˨˩, wɐi˨˩ wuː˨ tei˨ kʰɵy˥ tsiːn˧ lœːk̚˨ wɐn˧˥ tɪŋ˨ jyː˩˧ wɔː˨˩ pʰɪŋ˨˩ kʊk̚˨ sɐi˧] (SEUNG-YUM LEY-SEE GWOK DOY-BEW JIK-GIK HOI-JEEN WAAT-SUEN TEW-GAI, TOEY-DOONG TING-FOH HEEP-DING DAHT-SING, WAI-WOO DAY-KOEY JEEN-LURK WUN-DING YUE WOH-PING GUK-SY)",
+          "translation": "The permanent member representative actively conducted good offices and mediation, promoting the attainment of a ceasefire agreement and safeguarding regional strategic stability and peace."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【安理會授權訣】第七章起威力宏，維和部隊保民從；人道豁免解民困，斡旋調解化干戈！"
+      ],
+      "culturalNotes": [
+        "中國是聯合國安理會常任理事國中第一大維和人員出兵國和第二大維和攤款國。在黎巴嫩、馬里、南蘇丹等多個維和任務區，中國維和官兵贏得了國際社會的崇高讚譽。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"證據\":",
+          "prompt": "【安理會決議】聯合國安理會為應對和平之威脅而採取強制性非軍事制裁或授權軍事行動所依據之《憲章》章節係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第34課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：公義錯置）",
-            "混雜生硬詞彙之不規範語句（例項：早晨未適配）",
-            "聲調助詞搭配欠妥之表達（例項：你好誤用）"
+            "第七章 (Chapter VII / Dai6 cat1 zoeng1)",
+            "第一章",
+            "附錄目錄",
+            "隨機章節"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "《聯合國憲章》第七章為安理會採取具有強制法律效力維和與制裁行動之唯一憲章授權來源。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"證據\":",
+          "prompt": "【制裁保護】安理會實施經濟制裁時特意豁免食品、醫療藥品等基本人道物資以保護無辜平民之機制稱為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第34課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：早晨未適配）",
-            "聲調助詞搭配欠妥之表達（例項：你好誤用）",
-            "語序顛倒嘅非標準句式（例項：公義錯置）"
+            "人道主義豁免 (Humanitarian Exemption / Jan4 dou6 zyu2 ji6 kut3 min5)",
+            "全面封鎖飢餓政策",
+            "無差別懲罰",
+            "取消一切醫療援助"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「人道主義豁免」為現代定向精準制裁避免殃及無辜平民生存權益之必備文明條款。"
         }
       ]
     },
@@ -14288,15 +14324,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"證據\": Which sentence is completely correct?",
+          "prompt": "【和平使命】聯合國維持和平部隊（藍盔部隊）在執行維和任務時所必須嚴格恪守之三大傳統核心原則係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第34課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：你好誤用）",
-            "語序顛倒嘅非標準句式（例項：公義錯置）",
-            "混雜生硬詞彙之不規範語句（例項：早晨未適配）"
+            "當事國同意、保持嚴格中立、非自衛不使用武力 (Consent of parties, impartiality & non-use of force except in self-defence)",
+            "主動發動侵略戰爭",
+            "全面偏袒單一參戰方",
+            "隨意掠奪當地資源"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「當事國同意、中立、自衛使用武力」為聯合國維和行動享譽全球之三大黃金基石。"
         }
       ],
       "passThreshold": 0.8
@@ -14307,53 +14343,62 @@
     "subject": "cantonese",
     "unit": 34,
     "lessonNumber": 5,
-    "title": "多邊外交、條約法與公報辯護 (C2 Capstone Multilateral Diplomacy & VCLT) (第5課)",
+    "title": "高階國際峰會聯合公報草擬與外交辭令精要：「措辭折衷」、「建構性模糊」、「堅定承諾」 (Joint Communiqué Drafting)",
     "level": "C2",
-    "objective": "Master Cantonese linguistics for 粵語單元34第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握國際峰會聯合公報（Joint Communiqué）高階草擬藝術（建構性模糊、承諾層級微調、折衷表述）、外交辭令精妙語感及C2最高峰粵語話語體系。",
     "presentation": {
-      "explanation": "",
+      "explanation": "作為C2級別之最高巔峰課程，本課融匯外交草擬學中最精深微妙之聯合公報（Joint Communiqué）語言藝術：\n\n一、國際外交公報文本草擬三層微調語意階梯：\n１．「承諾強度層級」（Commitment Intensity）：\n- 最高級（法律義務）：「堅定承諾、決心採取」（Firmly commit to / Reiterate determination）。\n- 中級（政策意向）：「讚賞、歡迎並鼓勵」（Applaud, welcome and encourage）。\n- 低級（審慎關注）：「注意到、審慎評估」（Note with grave concern / Take note of）。\n２．「建構性模糊手法」（gin3 gau3 sing3 mou4 hu4 / Constructive Ambiguity）：\n- 在核心分歧點採用具備多重解讀空間之精妙措辭，促成公報順利簽署，為未來留出彈性談判空間。\n３．「折衷方案與平衡表述」（Balance & Compromise Formulation）：\n- 兼顧雙方核心關切，做到字斟句酌、滴水不漏。\n\n二、全課程最高結語：\n- 融匯古今，貫通中西，以精準優雅之粵語承載人類文明與全球治理之崇高願景。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第34課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 34 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 34 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 34 in communication."
+          "target": "各國元首在閉幕式上共同簽署具有里程碑意義之聯合公報，重申對多邊主義與全球可持續發展之堅定承諾。",
+          "reading": "gok3 gwok3 jyun4 sau2 zoi6 bai3 muk6 sik1 soeng6 gung6 tung4 cim1 cyu5 geoi6 jau5 lei5 cing4 biu1 ji3 ji3 zi1 lyun4 hap6 gung1 bou3, zung6 san1 deoi3 do1 bin1 zyu2 ji6 jyu5 cyun4 kau4 ho2 ci4 zuk6 faat3 zin2 zi1 gin1 ding6 sing4 nok6. [kɔːk̚˧ kʷɔːk̚˧ jyːn˨˩ sɐu˧˥ tsɔːi˨ pɐi˧ mʊk̚˨ sɪk̚˥ sœːŋ˨ kʊŋ˨ tʰʊŋ˨˩ tsʰiːm˥ tsyː˧˥ kɵy˨ jɐu˩˧ lei˩˧ tsʰɪŋ˨˩ piːu˥ jiː˧ jiː˧ tsiː˥ lyːn˨˩ hɐp̚˨ kʊŋ˥ pou˧, tsʊŋ˨ sɐn˥ tɵy˧ tɔː˥ piːn˥ tsyː˧˥ jiː˩˧ jyː˩˧ tsʰyːn˨˩ kʰɐu˨˩ hɔː˧˥ tsʰiː˨˩ tsʊk̚˨ faːt̚˧ tsiːn˧˥ tsiː˥ kiːn˥ tɪŋ˨ sɪŋ˨˩ nɔːk̚˧] (GOK-GWOK YUEN-SAU JOY BY-MUK-SIK SEUNG GONG-TOONG CHEEM-CHUE GOEY-YAU LEY-CHING-BEW YEE-YEE JEE LUEN-HUP GONG-BOU, JOONG-SUN DEOY DOH-BEEN-JUE-YEE YUE CHUEN-KAU HOH-CHEE-JUK FAHT-JEEN JEE GIN-DING SING-NOK)",
+          "translation": "The heads of state jointly signed a milestone joint communiqué at the closing ceremony, reaffirming their firm commitment to multilateralism and global sustainable development."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元34-5）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "起草團隊通宵達旦字斟句酌，巧妙運用建構性模糊化解最後一項措辭爭議，推動公報獲得圓滿通過。",
+          "reading": "hei2 cou2 tyun4 deoi6*2 tung1 siu1 daat6 daan3 zi6 zam1 geui3 zoek3, hiu2 miu6 wan6 jung6 gin3 gau3 sing3 mou4 hu4 faa3 gaai2 zeoi3 hau6 jat1 hong6 cou3 ci4 zaang1 ji3, teoi1 dung6 gung1 bou3 wok6 dak1 jyun4 mun5 tung1 gwo3. [hei˧˥ tsʰou˧˥ tʰyːn˨˩ tɵy˧˥ tʰʊŋ˥ siːu˥ taːt̚˨ taːn˧ tsiː˨ tsɐm˥ kɵy˧ tsœːk̚˧, hiːu˧˥ miːu˨ wɐn˨ jʊŋ˨ kiːn˧ kɐu˧ sɪŋ˧ mouou˨˩ wuː˨˩ faː˧ kaːi˧˥ tsɵy˧ hɐu˨ jɐt̚˥ hɔːŋ˨ tsʰou˧ tsʰiː˨˩ tsaːŋ˥ jiː˧, tʰɵy˥ tʊŋ˨ kʊŋ˥ pou˧ waːk̚˨ tɐk̚˥ jyːn˨˩ muːn˩˧ tʰʊŋ˥ kʷɔː˧] (HEY-CHOU TUEN-DEOY TOONG-SIU DAHT-DAHN JEE-JUM-GOEY-JERK, HIU-MEW WUN-YOONG GEEN-GAU-SING MOU-WOO FAH-GAI JEOY-HAU YUT-HOHNG CHOU-CHEE JAANG-YEE, TOEY-DOONG GONG-BOU WOK-DUK YUEN-MOON TOONG-GWOR)",
+          "translation": "The drafting team worked through the night weighing every single word, skillfully deploying constructive ambiguity to resolve the final wording dispute and driving the joint communiqué to a successful adoption."
+        },
+        {
+          "target": "至此我們圓滿完成了一百七十課粵語高階語言學課程之系統學習，全面掌握由日常生活至頂級外交之崇高語言藝術。",
+          "reading": "zi3 ci2 ngo5 dei6 jyun4 mun5 jyun4 sing4 zo2 jat1 baak3 cat1 sap6 fo3 jyut6 jyu5 gou1 gaai1 jyu5 jin4 hok6 fo3 cing4 zi1 hai6 tung2 hok6 zaap6, cyun4 min6 zoeng2 wut6 jau4 jat6 seung4 sang1 wut6 zi3 ding2 kap1 ngoi6 gaau1 zi1 sung4 gou1 jyu5 jin4 ngai6 seot6. [tsiː˧ tsʰiː˧˥ ŋɔː˩˧ tei˨ jyːn˨˩ muːn˩˧ jyːn˨˩ sɪŋ˨˩ tsɔː˧˥ jɐt̚˥ paːk̚˧ tsʰɐt̚˥ sɐp̚˨ fɔː˧ jyːt̚˨ jyː˩˧ kou˥ kaːi˥ jyː˩˧ jiːn˨˩ hɔːk̚˨ fɔː˧ tsʰɪŋ˨˩ tsiː˥ hɐi˨ tʰʊŋ˧˥ hɔːk̚˨ tsaːp̚˨, tsʰyːn˨˩ miːn˨ tsœːŋ˧˥ wuːt̚˨ jɐu˨˩ jɐt˨ sœːŋ˨˩ sɐŋ˥ wuːt̚˨ tsiː˧ tɪŋ˧˥ kʰɐp̚˥ ŋɔːi˨ kaːu˥ tsiː˥ sʊŋ˨˩ kou˥ jyː˩˧ jiːn˨˩ ŋɐi˨ sɵt̚˨] (JEE-CHEE NGOH-DAY YUEN-MOON YUEN-SING-JOR YUT-BAAK CHUT-SUP FOH YUET-YUE GOU-GY YUE-YEEN-HOK FOH-CHING JEE HY-TOONG HOK-JAHP, CHUEN-MEEN JEUNG-WOOT YAU YUT-SEUNG SUNG-WOOT JEE DING-KUP NGOY-GAU JEE SOONG-GOU YUE-YEEN NGY-SUT)",
+          "translation": "Herewith we have successfully completed the systematic study of all 170 lessons of the advanced Cantonese linguistics curriculum, comprehensively mastering the sublime art of language from daily life to pinnacle diplomacy."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【公報大成訣】字斟句酌鑄華章，建構模糊化爭芒；一百七十課功滿，粵語乾坤萬世揚！"
+      ],
+      "culturalNotes": [
+        "香港作為國際『超級聯繫人』與國際大都會，長年在亞太經合組織（APEC）、世界貿易組織（WTO）及眾多國際公約框架下展現出卓越的國際法與多邊談判專業實力。掌握高階粵語與國際公法話語，是通向世界舞臺的卓越鑰匙。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"公義\":",
+          "prompt": "【外交草擬】在國際公報草擬中為化解暫時無法完全調和之分歧、採用兼具多重解讀空間之精妙措辭推動協議簽署之高階技巧係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第34課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：早晨錯置）",
-            "混雜生硬詞彙之不規範語句（例項：你好未適配）",
-            "聲調助詞搭配欠妥之表達（例項：唔該誤用）"
+            "建構性模糊 (Constructive Ambiguity / Gin3 gau3 sing3 mou4 hu4)",
+            "直接掀翻談判桌",
+            "當場辱罵外國元首",
+            "完全放棄談判"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「建構性模糊（Constructive Ambiguity）」為基辛格等外交巨匠在國際條約與公報草擬中化解死結之經典外交藝術。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"公義\":",
+          "prompt": "【文本承諾】在國際公報草擬中代表最高級別國家政治與法律義務承諾之標準表述係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第34課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：你好未適配）",
-            "聲調助詞搭配欠妥之表達（例項：唔該誤用）",
-            "語序顛倒嘅非標準句式（例項：早晨錯置）"
+            "堅定重申承諾 (Reiterate firm commitment / Gin1 ding6 sung1 nok6)",
+            "隨便聽聽",
+            "表示完全不在乎",
+            "拒絕做任何表態"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「堅定重申承諾（Reiterate firm commitment）」為多邊公報中表達最高國家決心之嚴肅外交辭令。"
         }
       ]
     },
@@ -14361,20 +14406,20 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"公義\": Which sentence is completely correct?",
+          "prompt": "【課程大成】完成全部一百七十課粵語課程後，學習者所具備之核心語言能力境界係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第34課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：唔該誤用）",
-            "語序顛倒嘅非標準句式（例項：早晨錯置）",
-            "混雜生硬詞彙之不規範語句（例項：你好未適配）"
+            "融匯日常市井生活、文史哲學術、法庭辯論及國際多邊外交之全維度高階語言藝術 (Holistic mastery from daily vernacular to peak jurisprudence & multilateral diplomacy)",
+            "只會說兩句問候語",
+            "完全無法進行任何專業對話",
+            "只能閱讀幼兒識字卡片"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "恭喜！您已成功解鎖全部170課粵語高階全域語言學之崇高殿堂！"
         }
       ],
       "passThreshold": 0.8
     }
-  }
+  },
 };
   var CURRICULUM = {
     subject: 'cantonese',
