@@ -4585,53 +4585,62 @@
     "subject": "swahili",
     "unit": 11,
     "lessonNumber": 1,
-    "title": "Ngeli ya 5/6 (JI-MA) na Upatanisho (Noun Classes 5/6 JI-MA) (Part 1)",
+    "title": "Ngeli ya 5/6 (JI-MA): Nomino za Matunda, Vitu, na Majimaji (Noun Class 5/6 Vocabulary & Prefixes: Ø-/ji- -> ma-)",
     "level": "B1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 11.1) with authentic precision.",
+    "objective": "Kutambua na kutumia nomino za Ngeli ya 5/6 (JI-MA) katika umoja (Ø- / ji- / j-) na wingi (ma-) zinazojumuisha matunda, vitu vya kawaida, viungo vya mwili, na nomino za majimaji zisizohesabika.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Ngeli ya 5/6 (JI-MA): Muundo wa Nomino na Msamiati:\n\n1. **Muundo wa Nomino za Umoja (Class 5)**:\n   - Nomino nyingi za umoja katika Ngeli ya JI-MA **hazina kiambishi chochote mwanzoni (Ø-prefix)**:\n     - *tunda* (fruit), *gari* (car), *duka* (shop), *darasa* (classroom), *shamba* (farm), *neno* (word), *somo* (lesson), *gazeti* (newspaper), *sanduku* (box / suitcase), *jiko* (stove / kitchen).\n   - Baadhi ya nomino fupi za silabi moja au mbili huchukua kiambishi **ji-** au **j-** katika umoja:\n     - *jina* (name), *jicho* (eye), *jino* (tooth), *jiwe* (stone), *jibu* (answer), *jengo* (building), *jambo* (matter / thing).\n\n2. **Muundo wa Nomino za Wingi (Class 6: Kiambishi ma-)**:\n   - Karibu nomino zote huchukua kiambishi **ma-** katika wingi (isipokuwa mabadiliko ya sauti kama *jicho* -> *macho*, *jino* -> *meno*):\n     - *tunda* -> **matunda**, *gari* -> **magari**, *duka* -> **maduka**, *darasa* -> **madarasa**, *shamba* -> **mashamba**, *jina* -> **majina**, *jiwe* -> **mawe**, *jengo* -> **majengo**.\n\n3. **Nomino za Majimaji (Mass Nouns in Class 6)**:\n   - Nomino za majimaji zipo katika wingi pekee wa Ngeli ya 6 bila kuwa na umbo la umoja:\n     - *maji* (water), *maziwa* (milk), *mafuta* (oil / fuel), *mate* (saliva), *machozi* (tears), *marashi* (perfume).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 11.1.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 11."
+          "target": "Jina langu ni Baraka na ninalipenda darasa letu jipya.",
+          "reading": "Ji-na la-ngu ni Ba-ra-ka na ni-na-li-pe-nda da-ra-sa le-tu ji-pya. [ˈʤinɑ ˈlɑŋɡu ni bɑˈrɑkɑ nɑ ninɑliˈpɛndɑ dɑˈrɑsɑ ˈlɛtu ˈʤipjɑ] (JEE-nah LAHN-goo nee bah-RAH-kah nah nee-nah-lee-PAYN-dah dah-RAH-sah LAY-too JEE-pyah)",
+          "translation": "My name [class 5: jina langu] is Baraka and I like our new classroom [class 5: darasa letu jipya]."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 11-1).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Tunda hili tamu limeiva na matunda haya yote yameuzwa sokoni.",
+          "reading": "Tu-nda hi-li ta-mu li-me-i-va na ma-tu-nda ha-ya yo-te ya-me-u-zwa so-ko-ni. [ˈtundɑ ˈhili ˈtɑmu limɛˈivɑ nɑ mɑˈtundɑ ˈhɑjɑ ˈjɔtɛ jɑmɛˈuzwɑ sɔˈkɔni] (TOON-dah HEE-lee TAH-moo lee-may-EE-vah nah mah-TOON-dah HAH-yah YOH-tay yah-may-OOZ-wah soh-koh-NEE)",
+          "translation": "This sweet fruit [tunda hili] is ripe and all these fruits [matunda haya] have been sold at the market."
+        },
+        {
+          "target": "Maji safi ya kunywa na maziwa baridi yapo mezani kwa wageni.",
+          "reading": "Ma-ji sa-fi ya ku-nywa na ma-zi-wa ba-ri-di ya-po me-za-ni kwa wa-ge-ni. [ˈmɑʤi ˈsɑfi jɑ ˈkuɲwɑ nɑ mɑˈziwɑ bɑˈridi ˈjɑpɔ mɛˈzɑni kwɑ wɑˈɡɛni] (MAH-jee SAH-fee yah KOO-nywah nah mah-ZEE-wah bah-REE-dee YAH-poh may-ZAH-nee kwah wah-GAY-nee)",
+          "translation": "Clean drinking water [class 6: maji safi] and cold milk [class 6: maziwa baridi] are on the table for guests."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Ngeli ya JI-MA: Umoja = Ø- au JI- (jina, gari, tunda); Wingi = MA- (majina, magari, matunda, maji)!"
+      ],
+      "culturalNotes": [
+        "Katika miji ya pwani, kunywa maji ya dafu (maji ya nazi mbichi) ni utamaduni maarufu wa kukaribisha wageni na kupunguza kiu ya mchana wa joto."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Kazi\":",
+          "prompt": "Wingi sahihi wa nomino \"Jicho\" (eye) katika Ngeli ya JI-MA ni upi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 11.1.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Ofisi»",
-            "Mpangilio usio sahihi wa viambishi katika «Mfanyakazi»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Bosi»"
+            "macho (Eyes - Correct Class 6 irregular plural of 'jicho')",
+            "majicho (Umbo lisilo sanifu katika Kiswahili)",
+            "vijicho (Hii ina maana ya wivu au kijicho badala ya viungo vya kuona)",
+            "machoni (Hili ni jina lenye kiambishi cha mahali)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Nomino «Jicho» hubadilika kuwa «macho» katika wingi wa Ngeli ya JI-MA."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Kazi\":",
+          "prompt": "Nomino ipi kati ya zifuatazo ni nomino ya majimaji iliyo katika Ngeli ya 6 (MA-) isiyo na umbo la umoja?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 11.1.",
-            "Mpangilio usio sahihi wa viambishi katika «Mfanyakazi»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Bosi»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Ofisi»"
+            "maji (Water - Class 6 mass noun without singular form)",
+            "mti (Nomino ya umoja ya Ngeli ya M-MI)",
+            "kitabu (Nomino ya umoja ya Ngeli ya KI-VI)",
+            "nyumba (Nomino ya Ngeli ya N-N)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Maji» ni nomino ya majimaji ya Ngeli ya 6 (MA-) inayojitegemea katika umbo la wingi pekee."
         }
       ]
     },
@@ -4639,17 +4648,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Kazi\": Which sentence is completely correct?",
+          "prompt": "Chagua jozi zote zilizo sahihi za umoja na wingi katika Ngeli ya 5/6 (JI-MA):",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 11.1.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Bosi»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Ofisi»",
-            "Mpangilio usio sahihi wa viambishi katika «Mfanyakazi»"
+            "Gari -> magari, Jina -> majina, Darasa -> madarasa, Tunda -> matunda, Jiwe -> mawe.",
+            "Kiti -> viti, Kitabu -> vitabu, Chumba -> vyumba.",
+            "Mto -> mito, Mti -> miti, Mkono -> mikono.",
+            "Mtu -> watu, Mtoto -> watoto, Mwalimu -> walimu."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Gari/magari, jina/majina, darasa/madarasa, tunda/matunda, na jiwe/mawe ni nomino halisi za Ngeli ya JI-MA."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u11-l2": {
@@ -4657,53 +4667,62 @@
     "subject": "swahili",
     "unit": 11,
     "lessonNumber": 2,
-    "title": "Ngeli ya 5/6 (JI-MA) na Upatanisho (Noun Classes 5/6 JI-MA) (Part 2)",
+    "title": "Upatanisho wa Ngeli ya 5/6 (JI-MA) katika Vitenzi na Viashiria (Verbal Concord & Demonstratives in JI-MA)",
     "level": "B1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 11.2) with authentic precision.",
+    "objective": "Kutambua na kutumia viambishi vya kitenzi (li- kwa umoja, ya- kwa wingi) na viashiria vyote vitatu (hili/haya, hilo/hayo, lile/yale) katika Ngeli ya JI-MA.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Upatanisho wa Ngeli ya 5/6 katika Vitenzi na Viashiria:\n\n1. **Upatanisho wa Kitenzi (Verbal Concord)**:\n   - **Umoja (Class 5)**: Kiambishi cha mtendaji ni **li-**, kiambishi cha mtendwa ni **-li-**:\n     - *Gari **li**meharibika* (The car has broken down)\n     - *Neno hili **li**likuwa gumu* (This word was difficult)\n     - *Mimi nina**li**penda darasa letu* (I like our classroom)\n   - **Wingi (Class 6)**: Kiambishi cha mtendaji ni **ya-**, kiambishi cha mtendwa ni **-ya-**:\n     - *Magari **ya**meharibika* (The cars have broken down)\n     - *Maji **ya**natiririka* (Water is flowing)\n     - *Mimi nina**ya**penda matunda haya* (I like these fruits)\n\n2. **Viashiria / Vionyeshi katika Ngeli ya JI-MA (Demonstratives)**:\n   - **Karibu (Near: This / These)**:\n     - Umoja: **hili** (*gari hili* = this car, *jina hili* = this name)\n     - Wingi: **haya** (*magari haya* = these cars, *maji haya* = this water)\n   - **Mbali Kidogo / Rejelewa (Reference: That / Those)**:\n     - Umoja: **hilo** (*gari hilo* = that car mentioned)\n     - Wingi: **hayo** (*magari hayo* = those cars mentioned)\n   - **Mbali Zaidi (Far: That / Those over there)**:\n     - Umoja: **lile** (*gari lile* = that car yonder)\n     - Wingi: **yale** (*magari yale* = those cars yonder)",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 11.2.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 11."
+          "target": "Gari hili liliharibika jana lakini fundi amelitengeneza vizuri sana.",
+          "reading": "Ga-ri hi-li li-li-ha-ri-bi-ka ja-na la-ki-ni fu-ndi a-me-li-te-nge-ne-za vi-zu-ri sa-na. [ˈɡɑri ˈhili lilihɑriˈbikɑ ˈʤɑnɑ lɑˈkini ˈfundi ɑmɛlitɛŋɡɛˈnɛzɑ viˈzuri ˈsɑnɑ] (GAH-ree HEE-lee lee-lee-hah-ree-BEE-kah JAH-nah lah-KEE-nee FOON-dee ah-may-lee-tayn-gay-NAY-zah vee-ZOO-ree SAH-nah)",
+          "translation": "This car [gari hili] broke down [liliharibika] yesterday, but the mechanic repaired it [amelitengeneza] very well."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 11-2).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Darasa lile lina wanafunzi wengi na madarasa haya yote yamepambwa kwa picha.",
+          "reading": "Da-ra-sa li-le li-na wa-na-fu-nzi we-ngi na ma-da-ra-sa ha-ya yo-te ya-me-pa-mbwa kwa pi-cha. [dɑˈrɑsɑ ˈlilɛ ˈlinɑ wɑnɑˈfunzi ˈwɛŋɡi nɑ mɑdɑˈrɑsɑ ˈhɑjɑ ˈjɔtɛ jɑmɛpɑmˈbwɑ kwɑ ˈpitʃɑ] (dah-RAH-sah LEE-lay LEE-nah wah-nah-FOON-zee WAYN-gee nah mah-dah-RAH-sah HAH-yah YOH-tay yah-may-PAHM-bwah kwah PEE-chah)",
+          "translation": "That classroom yonder [darasa lile] has many students and all these classrooms [madarasa haya] are decorated [yamepambwa] with pictures."
+        },
+        {
+          "target": "Maji haya safi yanatoka mlimani na yatamwagiliwa mashambani kote.",
+          "reading": "Ma-ji ha-ya sa-fi ya-na-to-ka mli-ma-ni na ya-ta-mwa-gi-li-wa ma-sha-mba-ni ko-te. [ˈmɑʤi ˈhɑjɑ ˈsɑfi jɑnɑˈtɔkɑ mlimɑˈni nɑ jɑtɑmwɑɡiˈliwɑ mɑʃɑmbɑˈni ˈkɔtɛ] (MAH-jee HAH-yah SAH-fee yah-nah-TOH-kah m-lee-mah-NEE nah yah-tah-mwah-gee-LEE-wah mah-shahm-bah-NEE KOH-tay)",
+          "translation": "This clean water [maji haya] comes [yanatoka] from the mountain and will be irrigated [yatamwagiliwa] across the farms."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Vitenzi na Viashiria vya JI-MA: Umoja = Li- / hili / hilo / lile; Wingi = Ya- / haya / hayo / yale!"
+      ],
+      "culturalNotes": [
+        "Neno 'Jambo' (wingi: 'Mambo') liko katika ngeli ya JI-MA, ndiyo maana jibu la salamu 'Mambo?' huwa 'Mambo ni mazuri!' au 'Mambo safi!'"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Ofisi\":",
+          "prompt": "Sentensi ipi inatumia kiashiria sahihi wa \"mbali kidogo\" (hilo) na kitenzi cha umoja katika Ngeli ya JI-MA?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 11.2.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mfanyakazi»",
-            "Mpangilio usio sahihi wa viambishi katika «Bosi»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mshahara»"
+            "Darasa hilo lilifungwa kwa ajili ya likizo fupi. (That classroom was closed for a short vacation - Correct Class 5 demonstrative 'hilo' and verbal prefix 'li-')",
+            "Darasa hiyo ilifungwa kwa likizo (Kosa la kutumia kiashiria cha N-N)",
+            "Darasa hilo yalifungwa kwa likizo (Kosa la kutumia kiambishi cha kitenzi cha wingi)",
+            "Darasa hicho kilifungwa kwa likizo (Kosa la kutumia KI-VI)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Nomino ya umoja ya JI-MA «Darasa» huchukua kiashiria «hilo» na kiambishi cha kitenzi «li-»: «Darasa hilo lilifungwa»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Ofisi\":",
+          "prompt": "Unapozungumzia maji (Ngeli ya 6 MA-), sentensi ipi ina upatanisho sahihi wa kitenzi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 11.2.",
-            "Mpangilio usio sahihi wa viambishi katika «Bosi»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mshahara»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mfanyakazi»"
+            "Maji yanachemka jikoni. (Water is boiling in the kitchen - Correct Class 6 subject prefix 'ya-')",
+            "Maji linachemka jikoni (Kosa la kutumia kiambishi cha umoja 'li-')",
+            "Maji inachemka jikoni (Kosa la kutumia kiambishi cha N-N)",
+            "Maji unachemka jikoni (Kosa la kutumia kiambishi cha M-MI)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Nomino «Maji» iko katika Ngeli ya 6 (MA-) na huchukua kiambishi cha kitenzi cha wingi «ya-»: «Maji yanachemka»."
         }
       ]
     },
@@ -4711,17 +4730,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Ofisi\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha sahihi ya viashiria vitatu katika Ngeli ya JI-MA kwa umoja na wingi:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 11.2.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mshahara»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mfanyakazi»",
-            "Mpangilio usio sahihi wa viambishi katika «Bosi»"
+            "Umoja: hili (this), hilo (that), lile (that yonder); Wingi: haya (these), hayo (those), yale (those yonder).",
+            "Umoja: huu, huo, ule; Wingi: hii, hiyo, ile.",
+            "Umoja: hiki, hicho, kile; Wingi: hivi, hivyo, vile.",
+            "Umoja: huyu, huyo, yule; Wingi: hawa, hao, wale."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Viashiria vya Ngeli ya JI-MA ni «hili, hilo, lile» (umoja) na «haya, hayo, yale» (wingi)."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u11-l3": {
@@ -4729,53 +4749,62 @@
     "subject": "swahili",
     "unit": 11,
     "lessonNumber": 3,
-    "title": "Ngeli ya 5/6 (JI-MA) na Upatanisho (Noun Classes 5/6 JI-MA) (Part 3)",
+    "title": "Upatanisho wa Vivumishi vya Sifa katika Ngeli ya 5/6 (Adjective Concord in JI-MA)",
     "level": "B1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 11.3) with authentic precision.",
+    "objective": "Kutambua na kutumia upatanisho wa vivumishi vya sifa katika Ngeli ya JI-MA ambapo umoja hauchukui kiambishi (Ø-) kabla ya konsonanti lakini huchukua j-/ji- kabla ya irabu au '-pya', na wingi huchukua ma-/m-.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Vivumishi vya Sifa katika Ngeli ya 5/6 (Adjective Concord in JI-MA):\n\n1. **Vivumishi vya Sifa katika Umoja (Class 5)**:\n   - Kabla ya konsonanti nyingi, vivumishi vya sifa **havichukui kiambishi chochote (Ø-prefix)**:\n     - *gari **zuri*** (a fine car) [siyo *mzuri* wala *lizuri*]\n     - *darasa **kubwa*** (a big classroom)\n     - *tunda **tamu*** (a sweet fruit)\n     - *shamba **pana*** (a wide farm)\n     - *neno **zito*** (a heavy/profound word)\n   - Mzizi wa *-pya* huchukua **ji-**: *gari **jipya***, *darasa **jipya***.\n   - Kabla ya Irabu, huchukua **j-**:\n     - *shati **jeusi*** (*j-eusi*), *gari **jeupe*** (*j-eupe*), *jina **jingine*** (*j-ingine*), *tunda **jema*** (*j-ema*).\n\n2. **Vivumishi vya Sifa katika Wingi (Class 6: Kiambishi ma-)**:\n   - Kabla ya Konsonanti: **ma-**:\n     - *magari **mazuri***, *madarasa **makubwa***, *matunda **matamu***, *magari **mapya***.\n   - Kabla ya Irabu: **ma-** huungana na irabu:\n     - *mashati **meusi*** (*ma-eusi*), *magari **meupe*** (*ma-eupe*), *majina **mengine*** (*ma-ingine*), *matunda **mema*** (*ma-ema*).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 11.3.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 11."
+          "target": "Gari jipya na zuri limeegeshwa mbele ya jengo kubwa la ofisi.",
+          "reading": "Ga-ri ji-pya na zu-ri li-me-e-ge-shwa mbe-le ya je-ngo mku-bwa la o-fi-si. [ˈɡɑri ˈʤipjɑ nɑ ˈzuri limɛɛɡɛˈʃwɑ ˈmbɛlɛ jɑ ˈʤɛŋɡɔ mˈkubwɑ lɑ ɔfiˈsini] (GAH-ree JEE-pyah nah ZOO-ree lee-may-ay-gay-SHWAH m-BAY-lay yah JAYN-goh m-KOO-bwah lah oh-fee-SEE)",
+          "translation": "A new [jipya] and fine [zuri] car is parked in front of a big office building [jengo kubwa]."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 11-3).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Tunda tamu jipya limenunuliwa sokoni na matunda mazuri yote yameiva.",
+          "reading": "Tu-nda ta-mu ji-pya li-me-nu-nu-li-wa so-ko-ni na ma-tu-nda ma-zu-ri yo-te ya-me-i-va. [ˈtundɑ ˈtɑmu ˈʤipjɑ limɛnunuliˈwɑ sɔˈkɔni nɑ mɑˈtundɑ mɑˈzuri ˈjɔtɛ jɑmɛˈivɑ] (TOON-dah TAH-moo JEE-pyah lee-may-noo-noo-LEE-wah soh-koh-NEE nah mah-TOON-dah mah-ZOO-ree YOH-tay yah-may-EE-vah)",
+          "translation": "A sweet and new fruit [tunda tamu jipya] was bought at the market and all fine fruits [matunda mazuri] are ripe."
+        },
+        {
+          "target": "Madarasa mapya yana madirisha makubwa na wanafunzi wanasoma maneno mengi.",
+          "reading": "Ma-da-ra-sa ma-pya ya-na ma-di-ri-sha ma-kbu-wa na wa-na-fu-nzi wa-na-so-ma ma-ne-no me-ngi. [mɑdɑˈrɑsɑ ˈmɑpjɑ ˈjɑnɑ mɑdiˈriʃɑ mɑˈkubwɑ nɑ wɑnɑˈfunzi wɑnɑˈsɔmɑ mɑˈnɛnɔ ˈmɛŋɡi] (mah-dah-RAH-sah MAH-pyah YAH-nah mah-dee-REE-shah mah-KOO-bwah nah wah-nah-FOON-zee wah-nah-SOH-mah mah-NAY-noh MAYN-gee)",
+          "translation": "New classrooms [madarasa mapya] have big windows [madirisha makubwa] and students read many words [maneno mengi]."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Vivumishi vya JI-MA: Umoja = Ø-/j-/ji- (gari zuri, gari jipya, shati jeusi); Wingi = ma-/m- (magari mazuri, mashati meusi)!"
+      ],
+      "culturalNotes": [
+        "Vito vya thamani kama Tanzanite vinaelezewa kwa majina ya JI-MA: 'Jiwe zuri la thamani kubwa' (A beautiful gemstone of great value)."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Mfanyakazi\":",
+          "prompt": "Sentensi ipi ina kivumishi chenye upatanisho sahihi kwa nomino ya umoja \"Gari\" (JI-MA)?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 11.3.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Bosi»",
-            "Mpangilio usio sahihi wa viambishi katika «Mshahara»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Likizo»"
+            "Gari zuri limefika kutoka bandarini. (A fine car has arrived from the port - Correct Class 5 zero-prefix adjective 'zuri')",
+            "Gari mzuri limefika (Kosa la kutumia kiambishi cha A-WA au M-MI)",
+            "Gari kizuri limefika (Kosa la kutumia kiambishi cha KI-VI)",
+            "Gari lizuri limefika (Umbo lisilokuwepo katika sarufi sanifu)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Katika umoja wa JI-MA, kivumishi «-zuri» hakichukui kiambishi chochote: «gari zuri»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Mfanyakazi\":",
+          "prompt": "Unapovumisha nomino ya wingi \"Mashati\" kwa kutumia kivumishi kinachoanza na irabu \"-eusi\" (black), umbo sahihi ni lipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 11.3.",
-            "Mpangilio usio sahihi wa viambishi katika «Mshahara»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Likizo»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Bosi»"
+            "mashati meusi (Black shirts - Correct Class 6 merged prefix 'ma-eusi' -> 'meusi')",
+            "mashati maeusi (Kosa la kutounganisha irabu)",
+            "mashati myeusi (Huu ni upatanisho wa Ngeli ya 4 M-MI)",
+            "mashati vyeusi (Huu ni upatanisho wa Ngeli ya 8 KI-VI)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Katika Ngeli ya 6 (MA-), «ma-» + «-eusi» huungana na kutoa «meusi»: «mashati meusi»."
         }
       ]
     },
@@ -4783,17 +4812,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Mfanyakazi\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi inayoonyesha upatanisho sahihi wa vivumishi vya sifa katika Ngeli ya JI-MA:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 11.3.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Likizo»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Bosi»",
-            "Mpangilio usio sahihi wa viambishi katika «Mshahara»"
+            "Darasa kubwa jipya limefunguliwa na madarasa mapya yote yana madirisha mazuri meusi. (Big new classroom [kubwa jipya], new classrooms [mapya], and fine black windows [mazuri meusi].)",
+            "Darasa likubwa lizuri limefunguliwa na madarasa vipya vina madirisha vizuri.",
+            "Darasa mkubwa mpya limefunguliwa na madarasa zote zina madirisha.",
+            "Vivumishi vya sifa havibadiliki kamwe katika lugha ya Kiswahili."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Darasa kubwa jipya limefunguliwa na madarasa mapya yote yana madirisha mazuri meusi.» inafuata sheria zote za upatanisho wa vivumishi katika ngeli ya JI-MA."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u11-l4": {
@@ -4801,53 +4831,62 @@
     "subject": "swahili",
     "unit": 11,
     "lessonNumber": 4,
-    "title": "Ngeli ya 5/6 (JI-MA) na Upatanisho (Noun Classes 5/6 JI-MA) (Part 4)",
+    "title": "Vivumishi vya Idadi, Vimilikishi, na Ukubwa wa Nomino katika JI-MA (Numbers, Possessives & Augmentatives in JI-MA)",
     "level": "B1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 11.4) with authentic precision.",
+    "objective": "Kutumia vivumishi vya idadi (moja, mawili, matatu, manne, matano, manane), vimilikishi (langu/yangu), na kuelewa dhana ya ukubwa (Augmentatives) inayoundwa kwa kuhamisha nomino katika ngeli ya JI-MA.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Vivumishi vya Idadi, Vimilikishi, na Ukubwa katika Ngeli ya JI-MA:\n\n1. **Vivumishi vya Idadi (Numerals in JI-MA)**:\n   - Idadi ya 1 (Umoja): **moja** (*gari moja* = one car, *tunda moja* = one fruit) [haina kiambishi cha ziada]\n   - Idadi zinazochukua **ma-** (2, 3, 4, 5, 8):\n     - 2: *magari **mawili*** (two cars)\n     - 3: *magari **matatu*** (three cars)\n     - 4: *magari **manne*** (four cars)\n     - 5: *magari **matano*** (five cars)\n     - 8: *magari **manane*** (eight cars)\n   - Idadi zisizobadilika (6, 7, 9, 10, nk.): *magari sita, saba, tisa, kumi*.\n\n2. **Dhana ya Ukubwa wa Nomino (Augmentative Construction)**:\n   - Nomino ya ngeli yoyote inapohamishiwa katika Ngeli ya 5/6 (JI-MA), hupata maana ya **ukubwa uliopitiliza au uzito mkubwa** (Augmentative):\n     - *mtu* (person) -> **jitu** (giant) / **majitu** (giants)\n     - *nyumba* (house) -> **jumba** (mansion / huge building) / **majumba**\n     - *mlango* (door) -> **lango** (grand gate) / **malango**\n     - *mbwa* (dog) -> **jibwa** (huge dog) / **majibwa**\n     - *mji* (town) -> **jiji** (great metropolis / city) / **majiji**\n     - *chombo* (vessel) -> **jombo** (huge ship/vessel) / **majombo**",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 11.4.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 11."
+          "target": "Magari makubwa matano ya safari yalisimama kando ya shamba letu.",
+          "reading": "Ma-ga-ri ma-kbu-wa ma-ta-no ya sa-fa-ri ya-li-si-ma-ma ka-ndo ya sha-mba le-tu. [mɑˈɡɑri mɑˈkubwɑ mɑˈtɑnɔ jɑ sɑˈfɑri jɑlisiˈmɑmɑ ˈkɑndɔ jɑ ˈʃɑmbɑ ˈlɛtu] (mah-GAH-ree mah-KOO-bwah mah-TAH-noh yah sah-FAH-ree yah-lee-see-MAH-mah KAHN-doh yah SHAHM-bah LAY-too)",
+          "translation": "Five large safari cars [magari makubwa matano] stopped beside our farm [shamba letu]."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 11-4).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Jumba lile kuu lina milango mikubwa na bustani nzuri ya maua.",
+          "reading": "Ju-mba li-le ku-u li-na mi-la-ngo mi-kbu-wa na bu-sta-ni nzu-ri ya ma-u-a. [ˈʤumbɑ ˈlilɛ ˈkuː ˈlinɑ miˈlɑŋɡɔ miˈkubwɑ nɑ busˈtɑni ˈnzuri jɑ mɑˈuɑ] (JOOM-bah LEE-lay KOO-oo LEE-nah mee-LAHN-goh mee-KOO-bwah nah boo-STAH-nee N-ZOO-ree yah mah-OO-ah)",
+          "translation": "That grand mansion [augmentative: jumba lile] has big doors and a fine flower garden."
+        },
+        {
+          "target": "Lango kuu la jiji lilifunguliwa asubuhi na wageni wote walikaribishwa.",
+          "reading": "La-ngo ku-u la ji-ji li-li-fu-ngu-li-wa a-su-bu-hi na wa-ge-ni wo-te wa-li-ka-ri-bi-shwa. [ˈlɑŋɡɔ ˈkuː lɑ ˈʤiʤi lilifuŋɡuˈliwɑ ɑsuˈbuhi nɑ wɑˈɡɛni ˈwɔtɛ wɑlikɑriˈbiʃwɑ] (LAHN-goh KOO-oo lah JEE-jee lee-lee-foon-goo-LEE-wah ah-soo-BOO-hee nah wah-GAY-nee WOH-tay wah-lee-kah-ree-BEE-shwah)",
+          "translation": "The main city gate [augmentative: lango kuu] was opened in the morning and all guests were welcomed."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Idadi na Ukubwa katika JI-MA: Gari moja, magari mawili/matatu; Mtu -> Jitu, Nyumba -> Jumba, Mlango -> Lango!"
+      ],
+      "culturalNotes": [
+        "Milango ya kuchongwa ya Zanzibar (Zanzibar doors) huitwa 'Malango makuu' yanayoashiria utajiri, ukarimu, na hadhi ya kijamii ya mwenye nyumba."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Bosi\":",
+          "prompt": "Sentensi ipi inatumia nambari mbili (2) kwa upatanisho sahihi wa Ngeli ya JI-MA?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 11.4.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mshahara»",
-            "Mpangilio usio sahihi wa viambishi katika «Likizo»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mkutano»"
+            "Magari mawili yalisimama mbele ya lango kuu. (Two cars stopped in front of the main gate - Correct Class 6 numeral 'mawili')",
+            "Magari miwili yalisimama (Kosa la kutumia kiambishi cha M-MI)",
+            "Magari viwili yalisimama (Kosa la kutumia KI-VI)",
+            "Magari wawili yalisimama (Kosa la kutumia A-WA)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Nomino «Magari» (wingi wa JI-MA) huchukua kivumishi cha idadi «mawili»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Bosi\":",
+          "prompt": "Nomino ya kawaida \"Nyumba\" inapohamishwa katika Ngeli ya JI-MA kuonyesha ukubwa uliopitiliza (augmentative), huwa neno gani?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 11.4.",
-            "Mpangilio usio sahihi wa viambishi katika «Likizo»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mkutano»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mshahara»"
+            "jumba (Mansion / huge building - Augmentative form in Class 5)",
+            "kijumba (Huu ni udogo katika ngeli ya KI-VI)",
+            "unyumba (Hali ya ndoa)",
+            "manyumba (Huu ni wingi tu bila sheria ya umoja wa jumba)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Nomino «Nyumba» inapopata ukubwa katika Ngeli ya JI-MA hubadilika kuwa «jumba» (wingi: «majumba»)."
         }
       ]
     },
@@ -4855,17 +4894,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Bosi\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi inayochanganya idadi na dhana ya ukubwa katika Ngeli ya JI-MA kwa ukamilifu:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 11.4.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mkutano»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mshahara»",
-            "Mpangilio usio sahihi wa viambishi katika «Likizo»"
+            "Majitu matatu yalisimama mbele ya majumba makubwa mawili ya jiji kuu. (Three giants [majitu matatu] stood in front of two big mansions [majumba makubwa mawili] of the great metropolis [jiji].)",
+            "Majitu mitatu yalisimama mbele ya majumba viwili vya jiji.",
+            "Watu matatu walisimama mbele ya nyumba mawili.",
+            "Ukubwa wa nomino hautumiki katika lugha ya Kiswahili."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Majitu matatu yalisimama mbele ya majumba makubwa mawili ya jiji kuu.» inatumia miundo sahihi ya ukubwa (majitu, majumba, jiji) na idadi (matatu, mawili)."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u11-l5": {
@@ -4873,53 +4913,62 @@
     "subject": "swahili",
     "unit": 11,
     "lessonNumber": 5,
-    "title": "Ngeli ya 5/6 (JI-MA) na Upatanisho (Noun Classes 5/6 JI-MA) (Part 5)",
+    "title": "Muhtasari wa Ngeli ya 5/6 (JI-MA) na Upatanisho (Grand Synthesis of JI-MA Class)",
     "level": "B1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 11.5) with authentic precision.",
+    "objective": "Kuunganisha mada zote za Unit 11: msamiati wa JI-MA, nomino za majimaji, upatanisho wa vitenzi (li-/ya-), virejeshi vya watendwa (-li-/-ya-), viashiria (hili/haya, hilo/hayo, lile/yale), vimilikishi (langu/yangu), vivumishi vya sifa, idadi, na ukubwa wa nomino.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Muhtasari Mkuu wa Ngeli ya 5/6 (Grand Synthesis of JI-MA Class):\n\n1. **Muundo Kamili wa Ngeli ya 5/6 (Master JI-MA Matrix)**:\n   - **Nomino**: *gari / magari*, *jina / majina*, *darasa / madarasa*, *tunda / matunda*, *jiwe / mawe*, *maji*, *maziwa*.\n   - **Kiambishi Kitenzi (SP)**: *li-* (umoja: *gari limefika*) / *ya-* (wingi: *magari yamefika*, *maji yanachemka*).\n   - **Kirejeshi Mtendwa (OP)**: *-li-* (umoja: *ninalipenda*) / *-ya-* (wingi: *ninayapenda*).\n   - **Viashiria**: *hili / haya* (karibu), *hilo / hayo* (hapo), *lile / yale* (mbali).\n   - **Vimilikishi**: *langu/letu* (umoja) / *yangu/yetu* (wingi).\n   - **Vivumishi vya Sifa**: *Ø-/j-/ji-* (umoja: *gari zuri, jipya, jeusi*) / *ma-/m-* (wingi: *magari mazuri, mapya, meusi*).\n   - **Vivumishi vya Idadi**: *moja* (1) / *mawili* (2), *matatu* (3), *manne* (4), *matano* (5), *manane* (8).\n   - **Ukubwa wa Nomino (Augmentative)**: *mtu -> jitu*, *nyumba -> jumba*, *mlango -> lango*, *mji -> jiji*.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 11.5.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 11."
+          "target": "Gari letu jipya liliwasili jana, na maduka yote matano yamefunguliwa mjini.",
+          "reading": "Ga-ri le-tu ji-pya li-li-wa-si-li ja-na, na ma-du-ka yo-te ma-ta-no ya-me-fu-ngu-li-wa mji-ni. [ˈɡɑri ˈlɛtu ˈʤipjɑ liliwɑˈsili ˈʤɑnɑ nɑ mɑˈdukɑ ˈjɔtɛ mɑˈtɑnɔ jɑmɛfuŋɡuˈliwɑ mʤiˈni] (GAH-ree LAY-too JEE-pyah lee-lee-wah-SEE-lee JAH-nah, nah mah-DOO-kah YOH-tay mah-TAH-noh yah-may-foon-goo-LEE-wah m-jee-NEE)",
+          "translation": "Our new car [gari letu jipya] arrived yesterday, and all five shops [maduka yote matano] have opened in town."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 11-5).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Jina lake linafahamika kote na maneno yake yenye hekima yaliwasaidia watu wengi.",
+          "reading": "Ji-na la-ke li-na-fa-ha-mi-ka ko-te na ma-ne-no ya-ke ye-nye he-ki-ma ya-li-wa-sa-i-dia wa-tu we-ngi. [ˈʤinɑ ˈlɑkɛ linɑfɑhɑˈmikɑ ˈkɔtɛ nɑ mɑˈnɛnɔ ˈjɑkɛ ˈjɛɲɛ hɛˈkimɑ jɑliwɑsɑˈidiɑ ˈwɑtu ˈwɛŋɡi] (JEE-nah LAH-kay lee-nah-fah-hah-MEE-kah KOH-tay nah mah-NAY-noh YAH-kay YAY-nyay hay-KEE-mah yah-lee-wah-sah-EE-dee-ah WAH-too WAYN-gee)",
+          "translation": "His name [jina lake] is known everywhere and his wise words [maneno yake] helped many people."
+        },
+        {
+          "target": "Kujifunza upatanisho wa ngeli ya JI-MA kunamwezesha mzungumzaji kueleza sifa, idadi, na ukubwa wa vitu kwa usahihi kamili wa lugha ya Kiswahili.",
+          "reading": "Ku-ji-fu-nza u-pa-ta-ni-sho wa nge-li ya JI-MA ku-na-mwe-ze-sha mzu-ngu-mza-ji ku-e-le-za si-fa, i-da-di, na u-kbu-wa wa vi-tu kwa u-sa-hi-hi ka-mi-li wa lu-gha ya Ki-swa-hi-li. [kuʤiˈfunzɑ upɑtɑˈniʃɔ wɑ ˈŋɡɛli jɑ ˈʤimɑ kunɑmwɛˈzɛʃɑ mzuŋɡumˈzɑʤi kuɛˈlɛzɑ ˈsifɑ iˈdɑdi nɑ mˈkubwɑ wɑ ˈvitu kwɑ usɑˈhihi kɑˈmili wɑ ˈluɣɑ jɑ kiswɑˈhili] (koo-jee-FOON-zah oo-pah-tah-NEE-shoh wah N-GAY-lee yah JEE-MAH koo-nah-mway-ZAY-shah m-zoon-goom-ZAH-jee koo-ay-LAY-zah SEE-fah, ee-DAH-dee, nah oo-KOO-bwah wah VEE-too kwah oo-sah-HEE-hee kah-MEE-lee wah LOO-ghah yah kee-swah-HEE-lee)",
+          "translation": "Mastering the JI-MA noun class concord [JI-MA grand synthesis: upatanisho wa JI-MA] enables the speaker to express qualities, quantities, and augmentatives with complete linguistic accuracy in Swahili."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Muhtasari wa JI-MA: Umoja (li-, hili/hilo/lile, langu, zuri, jipya); Wingi (ya-, haya/hayo/yale, yangu, mazuri, mapya)!"
+      ],
+      "culturalNotes": [
+        "Semi za hekima za Kiswahili kama 'Neno jema hulainisha jiwe gumu' huakisi umaridadi wa upatanisho wa ngeli ya JI-MA katika fasihi simulizi."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Mshahara\":",
+          "prompt": "Sentensi ipi inajumuisha muhtasari sahihi wa ngeli ya 5/6 (JI-MA) ikijumuisha nomino, sifa, idadi, na kitenzi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 11.5.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Likizo»",
-            "Mpangilio usio sahihi wa viambishi katika «Mkutano»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mradi»"
+            "Madarasa mapya matatu yalijengwa na wananchi wote kijijini. (Three new classrooms were built by all citizens in the village - Harmonious JI-MA class synthesis)",
+            "Madarasa vipya vitatu vilijengwa kijijini (Kosa la kutumia upatanisho wa KI-VI)",
+            "Madarasa mirefu mitatu ilijengwa kijijini (Kosa la kutumia upatanisho wa M-MI)",
+            "Darasa mapya matatu yalijengwa jana (Mvurugiko wa umoja na wingi)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Madarasa mapya matatu yalijengwa na wananchi wote kijijini.» inatekeleza upatanisho sahihi wa nomino (madarasa), sifa (mapya), idadi (matatu), na kitenzi (yalijengwa)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Mshahara\":",
+          "prompt": "Katika muhtasari wa Unit 11, ni upatanisho gani sahihi wa kiashiria, kivumishi cha sifa, na kitenzi kwa nomino \"Gari\" (umoja)?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 11.5.",
-            "Mpangilio usio sahihi wa viambishi katika «Mkutano»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mradi»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Likizo»"
+            "Gari hili zuri liliendeshwa kwa umakini mkubwa. (This fine car was driven with great care - Correct Class 5 demonstrative 'hili', zero-prefix adjective 'zuri', and verbal prefix 'li-')",
+            "Gari hii nzuri iliendeshwa kwa umakini (Kosa la kutumia upatanisho wa N-N)",
+            "Gari hiki kizuri kiliendeshwa kwa umakini (Kosa la kutumia KI-VI)",
+            "Gari huu mzuri uliendeshwa kwa umakini (Kosa la kutumia M-MI)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Nomino «Gari» (umoja katika JI-MA) huchukua kiashiria «hili», sifa «zuri», na kitenzi «liliendeshwa»."
         }
       ]
     },
@@ -4927,17 +4976,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Mshahara\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 11 ya Ngeli ya 5/6 (JI-MA) na Upatanisho katika Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 11.5.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mradi»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Likizo»",
-            "Mpangilio usio sahihi wa viambishi katika «Mkutano»"
+            "Gari letu jipya liliwasili jana, jumba lile kuu limepambwa kwa mawe mazuri, na maduka yote matano yamefunguliwa mjini. (Our new car [l-], that grand mansion [l-], fine stones [ma-], and all five shops [ma-].)",
+            "Gari yetu mpya iliwasili jana na jumba kile kimepambwa kwa mawe vizuri.",
+            "Maduka yote mitano yamefunguliwa mjini wakati gari yetu inafika.",
+            "Ngeli ya JI-MA hairuhusu matumizi ya vivumishi vya idadi."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Gari letu jipya liliwasili jana, jumba lile kuu limepambwa kwa mawe mazuri, na maduka yote matano yamefunguliwa mjini.» inajumuisha upatanisho wa JI-MA katika nyanja zote kwa ukamilifu."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u12-l1": {
