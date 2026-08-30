@@ -11555,53 +11555,62 @@
     "subject": "hindi",
     "unit": 28,
     "lessonNumber": 1,
-    "title": "पत्रकारिता, संपादकीय लेखन और मीडिया (Journalism & Media) (Part 1)",
+    "title": "खोजी पत्रकारिता, प्रेस की स्वतंत्रता और आचार संहिता (Investigative Journalism, Press Freedom & Ethics)",
     "level": "C1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 28.1) with authentic linguistic precision.",
+    "objective": "खोजी पत्रकारिता (Investigative Journalism), प्रेस की स्वतंत्रता (अनुच्छेद 19-1-क), संपादकीय निष्पक्षता तथा पत्रकारिता आचार संहिता की मानक शब्दावली में पारंगत होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "पत्रकारिता के सिद्धांत, खोजी रिपोर्टिंग और व्यावसायिक आचार संहिता के मानक नियम:\n\n1. **लोकतंत्र का चौथा स्तंभ**:\n   - **प्रेस की स्वतंत्रता** — संविधान के अनुच्छेद 19(1)(क) के अंतर्गत विचार व अभिव्यक्ति की स्वतंत्रता के अभिन्न अंग के रूप में मान्यता;\n   - **जवाबदेही एवं पारदर्शिता** — शासन और सार्वजनिक संस्थाओं की कार्यप्रणाली पर सजग निगरानी रखना;\n   - **जनता का जानने का अधिकार** — नागरिकों को निष्पक्ष, सत्य और वस्तुपरक सूचनाएं उपलब्ध कराना।\n\n2. **खोजी पत्रकारिता (इन्वेस्टिगेटिव जर्नलिज्म)**:\n   - **दस्तावेजी अनुसंधान** — गोपनीय सूचनाओं, वित्तीय अनियमितताओं और नीतिगत चूकों का ठोस प्रमाणों के साथ पर्दाफाश;\n   - **व्हिसलब्लोअर एवं स्रोत संरक्षण** — संवेदनशील जानकारी देने वाले सूत्रों की गोपनीयता और सुरक्षा बनाए रखना।\n\n3. **पत्रकारिता आचार संहिता (कोड ऑफ एथिक्स)**:\n   - *तथ्य सत्यापन (फ़ैक्ट वेरिफिकेशन), निष्पक्षता, सनसनीखेज अफवाहों से बचाव तथा चरित्र हनन का पूर्ण निषेध।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 28.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 28."
+          "target": "स्वतंत्र और निष्पक्ष प्रेस को लोकतंत्र का चौथा स्तंभ माना जाता है, जो जनता के प्रति शासन और व्यवस्था की जवाबदेही सुनिश्चित करता है।",
+          "reading": "Swatantr aur nishpaksh press ko loktantr ka chautha stambh maana jaata hai, jo janta ke prati shaasan aur vyavastha ki javaabdehi sunishchit karta hai. [sʋət̪ən̪t̪r ɔːr nɪʂpəkʃ prɛːs koː loːkt̪ən̪t̪r kaː tʃɔːt̪ʰaː st̪əmbʱ maːnaː dʒaːt̪aː hɛː dʒoː dʒən̪t̪aː keː prət̪ɪ ʃaːsən ɔːr ʋjəʋəst̪ʰaː kiː dʒəʋaːbdeːɦiː sʊnɪʃtʃɪt̪ kərt̪aː hɛː] (svuh-TUHN-truh owr neesh-PUHKSH press koh lohk-TUHN-truh kah CHOW-thah STUHM-bh MAH-nah JAH-tah hy, joh JUHN-tah kay pruh-TEE shah-SUHN owr vyuh-vuhs-THAH kee juh-vahb-DAY-hee soo-neesh-CHEET KUHR-tah hy)",
+          "translation": "An independent and impartial press is regarded as the Fourth Pillar of democracy, which ensures the accountability of governance and the system toward the citizenry."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 28-1)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "खोजी पत्रकारों ने गहन अनुसंधान और पुख्ता प्रमाणों के आधार पर जनहित में प्रशासनिक भ्रष्टाचार और वित्तीय घोटालों का पर्दाफाश किया।",
+          "reading": "khoji patrakaaron ne gahan anusandhaan aur pukhta pramaanon ke aadhaar par janahit mein prashaasanik bhrashtaachaar aur vitteey ghotaalon ka pardaafaash kiya. [kʰoːdʒiː pətrəkaːrõː neː ɡəɦən ənʊsən̪d̪ʱaːn ɔːr pʊkʰt̪aː prəmaːɳõː keː aːd̪ʱaːr pər dʒənɦɪt̪ mẽː prəʃaːsnɪk bʱrəʂʈaːtʃaːr ɔːr ʋɪt̪ːiːj ɡʱoːʈaːlõː kaː pərdaːfaːʃ kɪjaː] (khoh-JEE puh-truh-kah-ROHN nay GUH-huhn uh-noo-suhn-DHAHN owr POOKH-tah pruh-mah-NOHN kay ah-DHAHR puhr juhn-HEET mayn pruh-shah-suh-NEEK bhrush-tah-CHAHR owr veet-TEE-yuh ghoh-tah-LOHN kah puhr-dah-FAHSH kee-YAH)",
+          "translation": "Based on thorough research and concrete evidence, investigative journalists exposed administrative corruption and financial scandals in the public interest."
+        },
+        {
+          "target": "पत्रकारिता की आचार संहिता के अनुसार किसी भी संवेदनशील समाचार को प्रकाशित करने से पूर्व सभी पक्षों से तथ्य सत्यापन करना अनिवार्य है।",
+          "reading": "patrakaarita ki aachaar sahita ke anusaar kisi bhi samvedansheel samaachaar ko prakaashit karne se poorv sabhi pakshon se tathya satyaapan karna anivaarya hai. [pətrəkaːrɪt̪aː kiː aːtʃaːr səɦɪt̪aː keː ənʊsaːr kɪsiː bʱiː səmʋeːd̪ənʃiːl səmaːtʃaːr koː prəkaːʃɪt̪ kərneː seː puːrʋ səbʱiː pəkʃõː seː t̪ət̪ʰjə sətjaːpən kərnaː ənɪʋaːrjə hɛː] (puh-truh-kah-ree-TAH kee ah-CHAHR suh-hee-TAH kay uh-noo-SAHR kee-SEE bhee suhm-vay-duhn-SHEEL suh-mah-CHAHR koh pruh-kah-SHEET KUHR-nay say POORV SUH-bhee puhk-SHOHN say TUHTH-yuh suht-yah-PUHN KUHR-nah uh-nee-VAHR-yuh hy)",
+          "translation": "According to the code of journalistic ethics, cross-verifying facts from all sides is mandatory prior to publishing any sensitive news report."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "पत्रकारिता: चौथा स्तंभ (fourth estate), खोजी पत्रकारिता (investigative), आचार संहिता (ethics), तथ्य सत्यापन!"
+      ],
+      "culturalNotes": [
+        "हिंदी का प्रथम समाचार पत्र 'उदन्त मार्तण्ड' (सप्ताहिक) 30 मई 1826 को कोलकाता से पंडित जुगल किशोर शुक्ल के संपादन में प्रकाशित हुआ था, जिसके उपलक्ष्य में प्रतिवर्ष 30 मई को 'हिंदी पत्रकारिता दिवस' मनाया जाता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"पढ़ना\":",
+          "prompt": "लोकतांत्रिक व्यवस्था में विधायिका, कार्यपालिका और न्यायपालिका के बाद प्रेस को क्या संज्ञा दी गई है?",
           "options": [
-            "हम इस पाठ में इकाई 28.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («लिखना» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («सुनना» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («देखना» का अनुचित स्थान)"
+            "लोकतंत्र का चौथा स्तंभ (Loktantr ka chautha stambh - The Fourth Pillar / Fourth Estate of Democracy)",
+            "खेल का मैदान (स्टेडियम)",
+            "मनोरंजन पार्क (एम्यूजमेंट पार्क)",
+            "खरीदारी बाज़ार (शॉपिंग कॉम्प्लेक्स)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "लोकतंत्र के तीन संवैधानिक अंगों के बाद स्वतंत्र प्रेस को «चौथा स्तंभ» (Fourth Pillar) कहा जाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"पढ़ना\":",
+          "prompt": "गोपनीय तथ्यों, भ्रष्टाचार और घोटालों को खोजकर जनता के सामने लाने वाली विशेष पत्रकारिता को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 28.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («सुनना» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («देखना» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («लिखना» का अशुद्ध रूप)"
+            "खोजी पत्रकारिता (Khoji patrakaarita - Investigative Journalism [in-depth exposé reporting])",
+            "मौसम बुलेटिन (दैनिक मौसम)",
+            "सिनेमा गपशप (मनोरंजन समाचार)",
+            "राशिफल वाचन (ज्योतिष रिपोर्ट)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "गहन छानबीन और दस्तावेजी प्रमाणों पर आधारित रिपोर्टिंग को «खोजी पत्रकारिता» (Investigative Journalism) कहते हैं।"
         }
       ]
     },
@@ -11609,17 +11618,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"पढ़ना\": Which sentence is completely correct?",
+          "prompt": "खोजी पत्रकारिता और प्रेस की स्वतंत्रता (Press Freedom & Journalistic Ethics) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 28.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («देखना» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («लिखना» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («सुनना» से संबंधित)"
+            "प्रेस की स्वतंत्रता, सत्यनिष्ठा और आचार संहिता का कठोर अनुपालन ही पत्रकारिता को जनविश्वास और लोकतांत्रिक मूल्यों का रक्षक बनाता है। (Press freedom, integrity, and strict adherence to ethics make journalism the guardian of public trust and democratic values.)",
+            "पत्रकारों को केवल अफवाहें फैलाकर झूठ लिखना चाहिए।",
+            "समाचार पत्र में केवल सफेद कोरे कागज छापने चाहिए।",
+            "प्रेस की स्वतंत्रता को पूरी तरह नष्ट कर देना चाहिए।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«प्रेस की स्वतंत्रता, सत्यनिष्ठा और आचार संहिता का कठोर अनुपालन... रक्षक बनाता है» पत्रकारिता दर्शन का परिपक्व वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u28-l2": {
@@ -11627,53 +11637,62 @@
     "subject": "hindi",
     "unit": 28,
     "lessonNumber": 2,
-    "title": "पत्रकारिता, संपादकीय लेखन और मीडिया (Journalism & Media) (Part 2)",
+    "title": "संपादकीय लेखन, वैचारिक स्तंभ और जनमत निर्माण (Editorial Writing, Opinion Columns & Public Discourse)",
     "level": "C1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 28.2) with authentic linguistic precision.",
+    "objective": "समाचार पत्र के संपादकीय पृष्ठ (Editorial Page), अग्रलेख (Lead Editorial), वैचारिक स्तंभ (Opinion Column) तथा जनमत निर्माण की भाषा शैली में दक्षता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "संपादकीय लेखन, विचार पृष्ठ और जनमत निर्माण के मानक शैलीगत नियम:\n\n1. **संपादकीय पृष्ठ की भूमिका**:\n   - **समाचार पत्र की आवाज़** — संपादकीय किसी एक व्यक्ति का विचार नहीं, बल्कि संपूर्ण पत्र की आधिकारिक संस्थागत राय होती है;\n   - **अग्रलेख (मुख्य संपादकीय)** — दिन के सबसे महत्वपूर्ण राष्ट्रीय या अंतर्राष्ट्रीय घटनाक्रम पर गहरा नीतिगत विश्लेषण;\n   - **संपादक के नाम पत्र** — पाठकों की प्रतिक्रिया और जनभागीदारी का लोकतांत्रिक मंच।\n\n2. **स्तंभ लेखन (कॉलम राइटिंग)**:\n   - **विषय विशेषज्ञता** — अर्थशास्त्र, राजनीति, पर्यावरण, कला व कूटनीति पर प्रख्यात विद्वानों के नियमित विचारोत्तेजक लेख;\n   - **विश्लेषणात्मक वस्तुनिष्ठता** — केवल सूचना देना नहीं, बल्कि पाठकों में विवेकपूर्ण दृष्टिकोण का निर्माण करना।\n\n3. **जनमत निर्माण (पब्लिक ओपिनियन)**:\n   - *तथ्यों, तर्कों और सुसंगत निष्कर्षों द्वारा राष्ट्र के बौद्धिक विमर्श को स्वस्थ दिशा प्रदान करना।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 28.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 28."
+          "target": "दैनिक समाचार पत्र का संपादकीय पृष्ठ समाज की बौद्धिक चेतना का दर्पण होता है, जहाँ ज्वलंत राष्ट्रीय मुद्दों पर प्रबुद्ध विमर्श प्रस्तुत किया जाता है।",
+          "reading": "Dainik samaachaar patr ka sampaadakeey prishth samaaj ki bauddhik chetana ka darpan hota hai, jahaan jwalant raashtreey muddon par prabuddh vimarsh prastut kiya jaata hai. [d̪ɛːnɪk səmaːtʃaːr pətrə kaː səmbaːd̪kiːj prɪʂʈʰ səmaːdʒ kiː bɔːd̪ːʱɪk tʃeːt̪naː kaː d̪ərpəɳ hoːt̪aː hɛː dʒəɦaː̃ dʒʋələn̪t̪ raːʂʈriːj mʊd̪ːõː pər prəbʊd̪ːʱ ʋɪmərʃ prəst̪ʊt̪ kɪjaː dʒaːt̪aː hɛː] (DY-neek suh-mah-CHAHR PUH-truh kah suhm-pah-duh-KEE-yuh PREESHTH suh-MAHJ kee BOHD-dheek chay-tuh-NAH kah DUHR-puhn HOH-tah hy, juh-HAHN jvuh-LUHNT rahsh-TREE-yuh MOOD-dohn puhr pruh-BOODH vee-MUHRSH pruhs-TOOT kee-YAH JAH-tah hy)",
+          "translation": "The editorial page of a daily newspaper is the mirror of society's intellectual consciousness, where enlightened discourse on pressing national issues is presented."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 28-2)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "संपादक ने अपने मुख्य अग्रलेख में राष्ट्रीय बजट के आर्थिक प्रावधानों और मुद्रास्फीति के जनसामान्य पर पड़ने वाले प्रभावों का गहरा विश्लेषण किया।",
+          "reading": "sampaadak ne apne mukhya agrlekh mein raashtreey budget ke aarthik praavdhaanon aur mudraasfeeti ke jansamaanya par padne vaale prabhaavon ka gahra vishleshan kiya. [səmbaːd̪ək neː əpneː mʊkʰjə əɡrəleːkʰ mẽː raːʂʈriːj bədʒəʈ keː aːrt̪ʰɪk praːʋd̪ʱaːnõː ɔːr mʊd̪raːsfiːt̪ɪ keː dʒənsəmaːnjə pər pəɽneː ʋaːleː prəbʱaːʋõː kaː ɡəɦraː ʋɪʃleːʂəɳ kɪjaː] (suhm-PAH-duhk nay uhp-NAY MOOKH-yuh uh-gruh-LAYKH mayn rahsh-TREE-yuh BUH-juht kay ahr-THEEK prahv-dhah-NOHN owr mood-rahs-FEE-tee kay juhn-suh-MAHN-yuh puhr PUHD-nay VAH-lay pruh-BHAH-vohn kah GUH-huh-rah veesh-LAY-shuhn kee-YAH)",
+          "translation": "In the lead editorial, the editor presented an in-depth analysis of the economic provisions of the national budget and the impact of inflation upon the general public."
+        },
+        {
+          "target": "विचारोत्तेजक स्तंभ लेखन केवल घटनाओं की सतही जानकारी नहीं देता, बल्कि पाठकों में आलोचनात्मक चिंतन और स्वतंत्र विवेक जागृत करता है।",
+          "reading": "vichaarottejak stambh lekhan keval ghatnaaon ki satahee jaankaari nahin deta, balki paathakon mein aalochanaatmak chintan aur swatantr vivek jaagrit karta hai. [ʋɪtʃaːroːt̪ːeːdʒək st̪əmbʱ leːkʰən keːʋəl ɡʱəʈnaːõː kiː sət̪əɦiː dʒaːnkaːriː nəɦĩː d̪eːt̪aː bəlkɪ paːtʰkõː mẽː aːloːtʃnaːt̪mək tʃɪn̪t̪ən ɔːr sʋət̪ən̪t̪r ʋɪʋeːk dʒaːɡrɪt̪ kərt̪aː hɛː] (vee-chah-roht-TAY-juhk STUHM-bh LAY-khuhn KAY-vuhl ghuht-nah-OHN kee suh-tuh-HEE jahn-KAH-ree nuh-HEEN DAY-tah, BUHL-kee pah-thuh-KOHN mayn ah-lohtch-NAHT-muhk CHEEN-tuhn owr svuh-TUHN-truh vee-VAYK jahg-REET KUHR-tah hy)",
+          "translation": "Thought-provoking column writing does not merely provide superficial information about events, but awakens critical thinking and independent discernment within readers."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "संपादकीय: अग्रलेख (lead editorial), विचार पृष्ठ (op-ed), स्तंभ लेखन (column), जनमत निर्माण!"
+      ],
+      "culturalNotes": [
+        "आचार्य महावीर प्रसाद द्विवेदी द्वारा संपादित 'सरस्वती' पत्रिका (1903-1920) ने आधुनिक हिंदी भाषा, व्याकरण और संपादकीय मर्यादा को परिष्कृत करने में ऐतिहासिक भूमिका निभाई थी।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"लिखना\":",
+          "prompt": "समाचार पत्र के संपादकीय पृष्ठ पर प्रकाशित होने वाले मुख्य संस्थागत नीतिगत लेख को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 28.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («सुनना» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («देखना» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («चाहना» का अनुचित स्थान)"
+            "अग्रलेख / मुख्य संपादकीय (Agrlekh / Mukhya Sampaadakeey - Lead Editorial [institutional voice of newspaper])",
+            "दुकान का पर्चा (विज्ञापन पर्ची)",
+            "खेल का स्कोर (स्कोरकार्ड)",
+            "सिनेमा पोस्टर (प्रचार चित्र)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "समाचार पत्र की आधिकारिक राय प्रस्तुत करने वाले प्रमुख लेख को «अग्रलेख» (Lead Editorial) कहा जाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"लिखना\":",
+          "prompt": "समाचार पत्र में किसी विशिष्ट विषय पर विशेषज्ञ लेखक द्वारा नियमित रूप से लिखे जाने वाले लेख को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 28.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («देखना» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («चाहना» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («सुनना» का अशुद्ध रूप)"
+            "स्तंभ लेखन / कॉलम (Stambh lekhan / Column - Regular opinion column by specialized analysts)",
+            "क्रॉसवेर्ड पहेली (शब्द पहेली)",
+            "मौसम तालिका (दैनिक तापमान)",
+            "विवाह विज्ञापन (मैट्रिमोनियल)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "नियमित रूप से प्रकाशित होने वाले विश्लेषणात्मक वैचारिक आलेख को «स्तंभ लेखन» (Column Writing) कहते हैं।"
         }
       ]
     },
@@ -11681,17 +11700,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"लिखना\": Which sentence is completely correct?",
+          "prompt": "संपादकीय लेखन और जनमत निर्माण (Editorial Writing & Public Discourse) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 28.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («चाहना» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («सुनना» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («देखना» से संबंधित)"
+            "तथ्यात्मक अग्रलेख और प्रबुद्ध स्तंभ लेखन समाज में स्वस्थ वैचारिक विमर्श और सुदृढ़ जनमत के निर्माण की रीढ़ हैं। (Factual lead editorials and enlightened column writing are the backbone of healthy ideological discourse and the formation of robust public opinion.)",
+            "संपादकीय पृष्ठ पर केवल लूडो का खेल छापना चाहिए।",
+            "जनमत निर्माण के लिए जनता से सोचना बंद करने को कहो।",
+            "अग्रलेख में केवल खाली बिंदु लगाने चाहिए।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«तथ्यात्मक अग्रलेख और प्रबुद्ध स्तंभ लेखन... जनमत के निर्माण की रीढ़ हैं» संपादकीय विधा का प्रामाणिक वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u28-l3": {
@@ -11699,53 +11719,62 @@
     "subject": "hindi",
     "unit": 28,
     "lessonNumber": 3,
-    "title": "पत्रकारिता, संपादकीय लेखन और मीडिया (Journalism & Media) (Part 3)",
+    "title": "इलेक्ट्रॉनिक मीडिया, प्रसारण पत्रकारिता और प्राइम टाइम बहस (Broadcast Journalism, Electronic Media & Debates)",
     "level": "C1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 28.3) with authentic linguistic precision.",
+    "objective": "इलेक्ट्रॉनिक मीडिया (Electronic Media), टेलीविज़न प्रसारण पत्रकारिता (Broadcast Journalism), प्राइम टाइम परिचर्चा तथा लाइव रिपोर्टिंग की विशिष्ट पारिभाषिक शब्दावली में पारंगत होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "इलेक्ट्रॉनिक प्रसारण मीडिया, स्टूडियो परिचर्चा और लाइव रिपोर्टिंग के मानक पारिभाषिक नियम:\n\n1. **प्रसारण पत्रकारिता की शब्दावली**:\n   - **समाचार वाचक / एंकर** — स्टूडियो से समाचार बुलेटिन और बहसों का कुशल संचालन करने वाला मुख्य प्रस्तोता;\n   - **सीधा प्रसारण (लाइव टेलीकास्ट)** — घटनास्थल से वास्तविक समय में दृश्य और ध्वनि का सीधा प्रसारण;\n   - **ध्वनि व वीडियो बाइट (Soundbite)** — घटना के गवाहों या नेताओं के संक्षिप्त और प्रामाणिक वक्तव्य।\n\n2. **प्राइम टाइम परिचर्चा एवं पैनल विमर्श**:\n   - **प्राइम टाइम (मुख्य प्रसारण समय)** — रात्रि 8 से 10 बजे का समय जब अधिकतम दर्शक टेलीविज़न से जुड़ते हैं;\n   - **पैनल विशेषज्ञ** — विभिन्न राजनीतिक दलों के प्रवक्ता, रक्षा विशेषज्ञ, वरिष्ठ पत्रकार व अर्थशास्त्री।\n\n3. **चुनौतियाँ और प्रसारण मानक**:\n   - *टीआरपी (दर्शक संख्या रेटिंग) की होड़ में अनावश्यक आक्रामकता और शोर-शराबे के स्थान पर संतुलित, शालीन और गरिमापूर्ण संवाद स्थापित करना।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 28.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 28."
+          "target": "टेलीविज़न समाचार चैनलों पर प्रसारित होने वाली प्राइम टाइम बहसों में विभिन्न राजनीतिक विश्लेषकों और विषय विशेषज्ञों ने तर्कपूर्ण विचार रखे।",
+          "reading": "Television samaachaar channelon par prasaarit hone vaali prime time bahson mein vibhinn raajneetik vishleshakon aur vishay visheshajnyon ne tarkapoorna vichaar rakhe. [ʈeːliːʋɪzən səmaːtʃaːr tʃɛːnlõː pər prəsaːrɪt̪ hoːneː ʋaːliː praːɪm ʈaːɪm bəɦsõː mẽː ʋɪbʱɪnːə raːdʒniːt̪ɪk ʋɪʃleːʂkõː ɔːr ʋɪʂəj ʋɪʃeːʂədʒɲõː neː t̪ərkəpuːrɳ ʋɪtʃaːr rəkʰeː] (tay-lee-VEE-zhuhn suh-mah-CHAHR chyn-luhn puhr pruh-sah-REET HOH-nay vah-LEE prime time buh-huh-SOHN mayn vee-BHEEN-nuh rahj-nee-TEEK veesh-lay-shuh-KOHN owr vee-SHUY vee-shay-shuhg-NYOHN nay tuhr-kuh-POOR-nuh vee-CHAHR RUKH-ay)",
+          "translation": "In the prime-time debates broadcast on television news channels, diverse political analysts and subject experts presented well-reasoned arguments."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 28-3)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "आपदा प्रभावित क्षेत्र से संवाददाता ने सीधा प्रसारण कर राहत व बचाव कार्यों की ज़मीनी हकीकत देश भर के दर्शकों तक पहुँचाई।",
+          "reading": "aapda prabhaavit kshetr se samvaaddaata ne seedha prasaaran kar raahat va bachaav kaaryon ki zameenee hakeekat desh bhar ke darshakon tak pahunchaai. [aːpdaː prəbʱaːʋɪt̪ kʃeːt̪r seː səmʋaːdːaːt̪aː neː siːd̪ʱaː prəsaːrəɳ kər raːɦət̪ ʋə bətʃaːʋ kaːrjõː kiː zəmiːniː ɦəkiːkət̪ d̪eːʃ bʱər keː d̪ərʃəkõː t̪ək pəɦʊntʃaːiː] (ahp-DAH pruh-bhah-VEET kshay-truh say suhm-vahd-DAH-tah nay SEE-dhah pruh-sah-RUHN kuhr RAH-huht vuh buh-CHAHV kahr-YOHN kee zuh-mee-NEE huh-KEE-kuht daysh Bhuhr kay duhr-shuh-KOHN tuhk puh-hoon-CHAH-ee)",
+          "translation": "Reporting live from the disaster-affected area, the correspondent conveyed the on-ground reality of relief and rescue operations to viewers across the nation."
+        },
+        {
+          "target": "टीआरपी की अंधी दौड़ में सनसनीखेज हेडलाइंस लगाने के बजाय तथ्यात्मक और संयमित प्रसारण पत्रकारिता को सर्वोच्च प्राथमिकता दी जानी चाहिए।",
+          "reading": "TRP ki andhee daud mein sansaneekhez headlines lagaane ke bajaay tathyaatmak aur sanyamit prasaaran patrakaarita ko sarvochch praathamikata dee jaani chaahiye. [ʈiːaːrpiː kiː ən̪d̪ʱiː d̪ɔːɖ mẽː sənsəniːkʰeːz ɦɛːɖlaːɪns ləɡaːneː keː bədʒaːj t̪ət̪ʰjaːt̪mək ɔːr sənjəmɪt̪ prəsaːrəɳ pətrəkaːrɪt̪aː koː sərʋoːtʃː praːt̪ʰmɪkt̪aː d̪iː dʒaːniː tʃaːɦɪjeː] (TRP kee uhn-DHEE DOWD mayn suhn-suh-nee-KHAYZ headlines luh-gah-NAY kay buh-JAHY tuht-yah-TUHM-uhk owr suhn-yuh-MEET pruh-sah-RUHN puh-truh-kah-ree-TAH koh suhr-VOHTCH prah-thuh-meek-TAH DEE JAH-nee chah-HEE-ay)",
+          "translation": "Instead of sensationalist headlines in the blind race for TRP ratings, highest priority must be accorded to factual and restrained broadcast journalism."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "इलेक्ट्रॉनिक मीडिया: सीधा प्रसारण (live broadcast), प्राइम टाइम, समाचार एंकर, वीडियो बाइट!"
+      ],
+      "culturalNotes": [
+        "भारत में दूरदर्शन (Doordarshan) की शुरुआत 15 सितंबर 1959 को हुई थी, जिसने दशकों तक भारत के हर घर में प्रामाणिक, संयमित और सांस्कृतिक रूप से समृद्ध समाचार पहुँचाए।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"सुनना\":",
+          "prompt": "टेलीविज़न स्टूडियो से समाचारों और बहसों का मुख्य संचालन करने वाले प्रस्तोता को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 28.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («देखना» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («चाहना» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («स्कूल» का अनुचित स्थान)"
+            "समाचार वाचक / एंकर (Samaachaar vaachak / Anchor - Television News Presenter)",
+            "फिल्म अभिनेता (सिनेमा कलाकार)",
+            "गाड़ी चालक (ड्राइवर)",
+            "स्टेडियम अंपायर (खेल निर्णायक)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "समाचार बुलेटिन और परिचर्चा का संचालन करने वाले को «समाचार एंकर» या «समाचार वाचक» कहते हैं।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"सुनना\":",
+          "prompt": "घटनास्थल से बिना किसी देरी के वास्तविक समय में दर्शकों तक दृश्य-ध्वनि पहुँचाने को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 28.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («चाहना» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («स्कूल» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («देखना» का अशुद्ध रूप)"
+            "सीधा प्रसारण / लाइव टेलीकास्ट (Seedha prasaaran / Live Telecast - Real-time on-site broadcasting)",
+            "रिकॉर्डेड कैसेट (पुरानी रिकॉर्डिंग)",
+            "डाक चिट्ठी (पारंपरिक पत्र)",
+            "गुप्त संदेश (गोपनीय कोड)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "वास्तविक समय में घटना के सीधे प्रसारण को «सीधा प्रसारण» (Live Telecast) कहा जाता है।"
         }
       ]
     },
@@ -11753,17 +11782,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"सुनना\": Which sentence is completely correct?",
+          "prompt": "इलेक्ट्रॉनिक मीडिया और प्रसारण पत्रकारिता (Broadcast Journalism) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 28.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («स्कूल» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («देखना» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («चाहना» से संबंधित)"
+            "संयमित भाषा, निष्पक्ष एंकरिंग और तथ्यात्मक लाइव रिपोर्टिंग ही प्रसारण पत्रकारिता की साख और जनता में उसकी विश्वसनीयता बनाए रखती है। (Restrained language, impartial anchoring, and factual live reporting alone maintain the credibility of broadcast journalism and its trust among the public.)",
+            "प्राइम टाइम में केवल माइक तोड़कर लड़ाई करनी चाहिए।",
+            "लाइव रिपोर्टिंग में झूठ बोलना कानूनन अनिवार्य है।",
+            "टेलीविज़न चैनलों को बंद कर देना चाहिए ताकि कोई समाचार न देखे।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«संयमित भाषा, निष्पक्ष एंकरिंग और तथ्यात्मक लाइव रिपोर्टिंग... विश्वसनीयता बनाए रखती है» प्रसारण पत्रकारिता का मानक वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u28-l4": {
@@ -11771,53 +11801,62 @@
     "subject": "hindi",
     "unit": 28,
     "lessonNumber": 4,
-    "title": "पत्रकारिता, संपादकीय लेखन और मीडिया (Journalism & Media) (Part 4)",
+    "title": "डिजिटल पत्रकारिता, सोशल मीडिया और फेक न्यूज़ चुनौती (Digital Journalism, Social Media & Fact-Checking)",
     "level": "C1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 28.4) with authentic linguistic precision.",
+    "objective": "डिजिटल समाचार पोर्टल (Digital Portals), सोशल मीडिया पत्रकारिता, भ्रामक सूचनाओं (Misinformation) तथा तथ्य-जाँच (Fact-Checking) की समकालीन तकनीकी शब्दावली में दक्षता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "डिजिटल मीडिया, इंटरनेट पत्रकारिता और तथ्य-जाँच के मानक नियम:\n\n1. **डिजिटल पत्रकारिता की विशेषताएं**:\n   - **त्वरित संप्रेषण एवं मल्टीमीडिया** — टेक्स्ट, वीडियो, पॉडकास्ट और इन्फोग्राफिक्स का एकीकृत डिजिटल मंच;\n   - **अल्गोरिदम और डेटा पत्रकारिता** — बड़े डेटा सेटों का विश्लेषण कर जनकल्याणकारी प्रवृत्तियों को उजागर करना;\n   - **नागरिक पत्रकारिता** — आम नागरिकों द्वारा मोबाइल के माध्यम से घटनाओं का त्वरित प्रकटीकरण।\n\n2. **भ्रामक सूचनाओं एवं फेक न्यूज़ की चुनौती**:\n   - **डीपफेक एवं एडिटेड वीडियो** — कृत्रिम बुद्धिमत्ता (एआई) द्वारा निर्मित भ्रामक और फर्जी दृश्य सामग्री;\n   - **इको चैंबर और ध्रुवीकरण** — सोशल मीडिया पर केवल एकपक्षीय विचारों का प्रसार कर समाज में तनाव पैदा करना।\n\n3. **तथ्य-जाँच (फ़ैक्ट चेकिंग) तंत्र**:\n   - *स्वतंत्र फ़ैक्ट-चेकर्स द्वारा मूल स्रोतों, रिवर्स इमेज सर्च और डिजिटल फॉरेंसिक द्वारा झूठी खबरों का त्वरित खंडन करना।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 28.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 28."
+          "target": "सोशल मीडिया पर तेजी से प्रसारित होने वाली भ्रामक सूचनाओं और मनगढ़ंत अफवाहों को रोकने हेतु स्वतंत्र तथ्य-जाँच दल निरंतर सक्रिय हैं।",
+          "reading": "Social media par tezi se prasaarit hone vaali bhraamak soochanaaon aur mangadhant afwaahon ko rokne hetu swatantr tathya-jaanch dal nirantar sakriy hain. [soːʃəl miːɖɪjaː pər t̪eːziː seː prəsaːrɪt̪ hoːneː ʋaːliː bʱraːmək suːtʃnaːõː ɔːr mənɡəɖʱən̪t̪ əfʋaːɦõː koː roːkneː ɦeːt̪ʊ sʋət̪ən̪t̪r t̪ət̪ʰjədʒaːntʃ d̪əl nɪrən̪t̪ər səkriːj hɛ̃ː] (social media puhr TAY-zee say pruh-sah-REET HOH-nay vah-LEE bhrah-MUHK sooch-nah-OHN owr muhn-guh-DHUHNT uhf-vah-HOHN koh ROHK-nay HAY-too svuh-TUHN-truh TUHTH-yuh-jahnch duhl nee-ruhn-TUHR suhk-REE-yuh hyhn)",
+          "translation": "Independent fact-checking teams are continuously active to counter misleading information and fabricated rumors spreading rapidly on social media."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 28-4)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "डिजिटल युग में समाचार केवल प्रिंट या टीवी तक सीमित नहीं रहे, बल्कि पॉडकास्ट और मोबाइल ऐप्स के माध्यम से हर क्षण उपलब्ध हैं।",
+          "reading": "digital yug mein samaachaar keval print ya TV tak seemit nahin rahe, balki podcast aur mobile apps ke maadhyam se har kshan uplabdh hain. [ɖɪdʒɪʈəl jʊɡ mẽː səmaːtʃaːr keːʋəl prɪɳʈ jaː ʈiːʋiː t̪ək siːmɪt̪ nəɦĩː rəɦeː bəlkɪ pɔːɖkaːst̪ ɔːr moːbaːɪl ɛːps keː maːd̪ʱjəm seː ɦər kʃəɳ ʊpləbd̪ʱ hɛ̃ː] (digital yoog mayn suh-mah-CHAHR KAY-vuhl print yah TV tuhk see-MEET nuh-HEEN ruh-HAY, BUHL-kee podcast owr mobile apps kay MAHDH-yuhm say huhr KSHUHN oop-LUHBDH hyhn)",
+          "translation": "In the digital era, news is no longer confined to print or TV, but is accessible every moment via podcasts and mobile apps."
+        },
+        {
+          "target": "नागरिकों को जागरूक करने हेतु डिजिटल साक्षरता अभियान आवश्यक है ताकि वे प्रामाणिक समाचार और प्रायोजित दुष्प्रचार में अंतर समझ सकें।",
+          "reading": "naagrikon ko jaagruk karne hetu digital saaksharata abhiyaan aavashyak hai taaki ve praamaanik samaachaar aur praayojit dushprachaar mein antar samajh saken. [naːɡrɪkõː koː dʒaːɡruːk kərneː ɦeːt̪ʊ ɖɪdʒɪʈəl saːkʃərt̪aː əbʱɪjaːn aːʋəʃjək hɛː t̪aːkɪ ʋeː praːmaːɳɪk səmaːtʃaːr ɔːr praːjoːdʒɪt̪ d̪ʊʂprətʃaːr mẽː ən̪t̪ər səmədʒʱ səkẽː] (nahg-ree-KOHN koh jahg-ROOK KUHR-nay HAY-too digital sahk-shuh-ruh-TAH uh-bhee-YAHN ah-vush-YUK hy TAH-kee vay prah-mah-NEEK suh-mah-CHAHR owr prah-yoh-JEET doosh-pruh-CHAHR mayn UHN-tuhr SUH-muhjh suh-KAYN)",
+          "translation": "A digital literacy campaign is essential to sensitize citizens so that they can discern the difference between authentic news and sponsored propaganda."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "डिजिटल मीडिया: तथ्य-जाँच (fact-check), भ्रामक सूचना (misinformation), डिजिटल साक्षरता, मल्टीमीडिया!"
+      ],
+      "culturalNotes": [
+        "भारत सरकार के पत्र सूचना कार्यालय (PIB) की 'फ़ैक्ट चेक यूनिट' सरकारी योजनाओं और नीतियों से जुड़े फर्जी वायरल दावों का आधिकारिक रूप से खंडन करती है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"देखना\":",
+          "prompt": "सोशल मीडिया पर वायरल हो रही किसी खबर की सत्यता और प्रामाणिकता की जांच करने की प्रक्रिया को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 28.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («चाहना» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («स्कूल» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («कॉलेज» का अनुचित स्थान)"
+            "तथ्य-जाँच / फ़ैक्ट चेकिंग (Tathya-jaanch / Fact-Checking [verifying claims against primary evidence])",
+            "अफवाह फैलाना (झूठ बढ़ाना)",
+            "फोटो संपादन (चित्र सजाना)",
+            "खेल कमेंट्री (मैच विवरण)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "सोशल मीडिया पर प्रसारित दावों की सच्चाई परखने को «तथ्य-जाँच» (Fact-Checking) कहते हैं।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"देखना\":",
+          "prompt": "कृत्रिम बुद्धिमत्ता (AI) द्वारा बनाए गए किसी व्यक्ति के चेहरे और आवाज़ वाले अत्यधिक भ्रामक फर्जी वीडियो को क्या कहा जाता है?",
           "options": [
-            "हम इस पाठ में इकाई 28.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («स्कूल» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («कॉलेज» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («चाहना» का अशुद्ध रूप)"
+            "डीपफेक (Deepfake - AI-generated synthetic media impersonation)",
+            "सिनेमा ट्रेलर (फिल्म झलक)",
+            "पारिवारिक फोटो (पारिवारिक चित्र)",
+            "कार्टून चित्र (एनिमेशन ड्राइंग)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "एआई तकनीक से बनाए गए हूबहू दिखने वाले फर्जी वीडियो को «डीपफेक» (Deepfake) कहा जाता है।"
         }
       ]
     },
@@ -11825,17 +11864,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"देखना\": Which sentence is completely correct?",
+          "prompt": "डिजिटल पत्रकारिता और फेक न्यूज़ चुनौती (Digital Media & Misinformation) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 28.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («कॉलेज» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («चाहना» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («स्कूल» से संबंधित)"
+            "डिजिटल युग में तथ्य-जाँच का संस्थागत विस्तार और नागरिकों की डिजिटल साक्षरता ही भ्रामक दुष्प्रचार से निपटने का सबसे कारगर हथियार है। (In the digital age, the institutional expansion of fact-checking and digital literacy among citizens is the most potent weapon against misinformation.)",
+            "फेक न्यूज़ को सच मानकर तुरंत दंगा शुरू कर देना चाहिए।",
+            "इंटरनेट पर जो भी लिखा हो, वह 100% भगवान का आदेश होता है।",
+            "तथ्य-जाँच करने वाले सभी लोगों को जेल में डाल देना चाहिए।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«डिजिटल युग में तथ्य-जाँच का संस्थागत विस्तार... सबसे कारगर हथियार है» डिजिटल मीडिया नैतिकता का सर्वोत्तम वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u28-l5": {
@@ -11843,53 +11883,62 @@
     "subject": "hindi",
     "unit": 28,
     "lessonNumber": 5,
-    "title": "पत्रकारिता, संपादकीय लेखन और मीडिया (Journalism & Media) (Part 5)",
+    "title": "मीडिया विमर्श, जन-संचार नीति व महा-समेकन (Mass Communication Policy, Media Ethics & Democratic Synthesis)",
     "level": "C1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 28.5) with authentic linguistic precision.",
+    "objective": "प्रेस काउंसिल ऑफ इंडिया, जनसंचार नीति, अभिव्यक्ति की स्वतंत्रता बनाम राष्ट्रीय सुरक्षा तथा मीडिया साक्षरता के समग्र विमर्श में पूर्ण दक्षता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "जन-संचार नीति, मीडिया नियामक व्यवस्था और लोकतांत्रिक विमर्श का समग्र संश्लेषण:\n\n1. **मीडिया नियामक संस्थाएं एवं विधिक ढाँचा**:\n   - **प्रेस काउंसिल ऑफ इंडिया (भारतीय प्रेस परिषद)** — प्रिंट मीडिया में पत्रकारिता के उच्च मानकों और प्रेस की स्वतंत्रता का सांविधिक संरक्षक;\n   - **न्यूज़ ब्रॉडकास्टर्स एंड डिजिटल एसोसिएशन (NBDA)** — निजी टीवी चैनलों की स्व-नियमन संस्था;\n   - **सूचना प्रौद्योगिकी (आईटी) नियम** — डिजिटल प्लेटफॉर्मों हेतु शिकायत निवारण और आचार संहिता तंत्र।\n\n2. **संवैधानिक संतुलन: स्वतंत्रता बनाम मर्यादा**:\n   - अभिव्यक्ति की स्वतंत्रता असीम नहीं है, बल्कि अनुच्छेद 19(2) के अंतर्गत राज्य की सुरक्षा, लोक व्यवस्था और शिष्टाचार के युक्तियुक्त प्रतिबंध लागू होते हैं;\n   - मीडिया ट्रायल (अदालती निर्णय से पूर्व मीडिया द्वारा किसी को दोषी ठहराना) से बचना और न्याय की निष्पक्षता का सम्मान।\n\n3. **भविष्य की पत्रकारिता**:\n   - *सत्य, निष्पक्षता, मानवीय करुणा और जनहित के मूल्यों पर अडिग रहकर ही पत्रकारिता लोकतंत्र के सजग पहरुए की भूमिका निभा सकती है।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 28.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 28."
+          "target": "लोकतांत्रिक व्यवस्था में जनसंचार माध्यमों का सर्वोच्च कर्तव्य केवल सत्ता की जयकार करना नहीं, बल्कि जनहित के ज्वलंत प्रश्नों को निडरता से उठाना है।",
+          "reading": "loktaantrik vyavastha mein jansanchaar maadhyamon ka sarvochch kartavya keval satta ki jaykaar karna nahin, balki janahit ke jwalant prashnon ko nidarta se uthaana hai. [loːkt̪aːn̪t̪rɪk ʋjəʋəst̪ʰaː mẽː dʒənsəntʃaːr maːd̪ʱjəmõː kaː sərʋoːtʃː kərt̪əʋjə keːʋəl sət̪ːaː kiː dʒəjkaːr kərnaː nəɦĩː bəlkɪ dʒənɦɪt̪ keː dʒʋələn̪t̪ prəʃnõː koː nɪɖərt̪aː seː ʊtʰaːnaː hɛː] (lohk-tahn-TREEK vyuh-vuhs-THAH mayn juhn-suhn-CHAHR mahdh-yuh-MOHN kah suhr-VOHTCH kuhr-TUHV-yuh KAY-vuhl SUHT-tah kee juy-KAHR KUHR-nah nuh-HEEN, BUHL-kee juhn-HEET kay jvuh-LUHNT pruhsh-NOHN koh nee-duhr-TAH say oo-THAH-nah hy)",
+          "translation": "In a democratic system, the supreme duty of mass communication media is not merely to cheerlead authority, but to fearlessly raise burning questions of public interest."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 28-5)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "प्रेस काउंसिल ऑफ इंडिया और विधिक नियामक संस्थाएं मीडिया में निष्पक्षता, सत्यनिष्ठा और व्यावसायिक मर्यादा सुनिश्चित करने हेतु मार्गनिर्देश जारी करती हैं।",
+          "reading": "Press Council of India aur vidhik niyaamak sansthaayein media mein nishpakshata, satyanishtha aur vyaavasaayik maryaada sunishchit karne hetu maarganirdesh jaari karti hain. [prɛːs kaːʊnsɪl ɔːf ɪɳɖɪjaː ɔːr ʋɪd̪ʱɪk nɪjaːmək sənst̪ʰaːẽː miːɖɪjaː mẽː nɪʂpəkʃt̪aː sətjənɪʂʈʰaː ɔːr ʋjaːʋsaːjɪk mərjaːd̪aː sʊnɪʃtʃɪt̪ kərneː ɦeːt̪ʊ maːrɡnɪrdeːʃ dʒaːriː kərt̪iː hɛ̃ː] (Press Council of India owr vee-DHEEK nee-YAH-muhk suhns-thah-AYN media mayn neesh-puhk-shuh-TAH, suht-yuh-neesh-THAH owr vyah-vuh-sah-YEEK muhr-yah-DAH soo-neesh-CHEET KUHR-nay HAY-too mahrg-neer-DAYSH jah-REE KUHR-tee hyhn)",
+          "translation": "The Press Council of India and statutory regulatory bodies issue guidelines to ensure impartiality, integrity, and professional decorum in the media."
+        },
+        {
+          "target": "डिजिटल संचार क्रांति के इस दौर में सत्य, तथ्य और संवेदनशीलता ही पत्रकारिता की साख और विश्वसनीयता को अक्षुण्ण बनाए रखने की एकमात्र कुंजी हैं।",
+          "reading": "digital sanchaar kraanti ke is daur mein satya, tathya aur samvedansheelata hi patrakaarita ki saakh aur vishwasaneeyata ko akshunn banaaye rakhne ki ekmaatr kunjee hain. [ɖɪdʒɪʈəl səntʃaːr kraːn̪t̪ɪ keː ɪs d̪ɔːr mẽː sətjə t̪ət̪ʰjə ɔːr səmʋeːd̪ənʃiːlt̪aː ɦiː pətrəkaːrɪt̪aː kiː saːkʰ ɔːr ʋɪʃʋəsniːjt̪aː koː əkʃʊɳːə bənaːjeː rəkʰneː kiː eːkmaːt̪r kʊndʒiː hɛ̃ː] (digital suhn-CHAHR KRAHN-tee kay ees DOWR mayn SUHT-yuh, TUHTH-yuh owr suhm-vay-duhn-sheel-TAH hee puh-truh-kah-ree-TAH kee SAHKH owr veesh-vuhs-nee-yuh-TAH koh uhk-SHOON-nuh buh-nah-YAY RUKH-nay kee ayk-MAH-truh koon-JEE hyhn)",
+          "translation": "In this era of the digital communication revolution, truth, facts, and sensitivity are the sole key to preserving the credibility and reliability of journalism intact."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "मीडिया समेकन: प्रेस काउंसिल (PCI), अभिव्यक्ति की स्वतंत्रता, निष्पक्षता, सत्यनिष्ठा!"
+      ],
+      "culturalNotes": [
+        "गणेश शंकर विद्यार्थी, जिन्होंने 'प्रताप' समाचार पत्र का संपादन किया, भारतीय पत्रकारिता में निर्भीकता, सांप्रदायिक सौहार्द और स्वतंत्रता संग्राम के अमर प्रतीक माने जाते हैं।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"चाहना\":",
+          "prompt": "भारत में प्रिंट मीडिया की स्वतंत्रता की रक्षा और पत्रकारिता के नैतिक मानकों के नियमन हेतु गठित सांविधिक संस्था कौन-सी है?",
           "options": [
-            "हम इस पाठ में इकाई 28.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («स्कूल» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («कॉलेज» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («अध्यापक» का अनुचित स्थान)"
+            "प्रेस काउंसिल ऑफ इंडिया / भारतीय प्रेस परिषद (Press Council of India - Statutory media ombudsman and standards regulator)",
+            "रेलवे बोर्ड (रेलवे प्रशासन)",
+            "क्रिकेट नियंत्रण बोर्ड (खेल संस्था)",
+            "सिनेमा सेंसर बोर्ड (फिल्म प्रमाणन)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "प्रेस की स्वतंत्रता और पत्रकारिता के मानकों की रक्षा करने वाली संस्था «भारतीय प्रेस परिषद» (Press Council of India) है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"चाहना\":",
+          "prompt": "अदालत के अंतिम फैसले से पहले ही मीडिया द्वारा किसी आरोपी को दोषी करार देने की अनुचित प्रवृत्ति को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 28.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («कॉलेज» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («अध्यापक» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («स्कूल» का अशुद्ध रूप)"
+            "मीडिया ट्रायल (Media Trial - Prejudging cases through sensational media coverage before judicial verdict)",
+            "न्यायिक समीक्षा (अदालती जांच)",
+            "विधिक सहायता (मुफ्त कानूनी मदद)",
+            "संसद का सत्र (संसदीय बैठक)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "अदालत के निर्णय से पूर्व टीवी पर किसी को अपराधी घोषित करने की प्रवृत्ति को «मीडिया ट्रायल» (Media Trial) कहा जाता है।"
         }
       ]
     },
@@ -11897,17 +11946,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"चाहना\": Which sentence is completely correct?",
+          "prompt": "मीडिया विमर्श और जनसंचार नीति (Mass Media & Democratic Ethics) का समग्र प्रामाणिक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 28.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («अध्यापक» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («स्कूल» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («कॉलेज» से संबंधित)"
+            "सत्यनिष्ठा, निर्भीक खोजी दृष्टि और जनसरोकारों के प्रति समर्पण ही स्वतंत्र पत्रकारिता को लोकतांत्रिक गणराज्य की अमर चेतना बनाता है। (Integrity, fearless investigative perspective, and dedication to public concerns make free journalism the immortal consciousness of a democratic republic.)",
+            "पत्रकारिता का काम केवल झूठ और नफरत फैलाना है।",
+            "प्रेस काउंसिल को बंद कर देना चाहिए ताकि कोई नियम न रहे।",
+            "मीडिया ट्रायल करके बिना सबूत सबको फांसी दे देनी चाहिए।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«सत्यनिष्ठा, निर्भीक खोजी दृष्टि और जनसरोकारों के प्रति समर्पण... अमर चेतना बनाता है» मीडिया नैतिकता का सर्वोच्च प्रामाणिक वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u29-l1": {
