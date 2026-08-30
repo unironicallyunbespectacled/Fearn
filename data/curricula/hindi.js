@@ -895,53 +895,62 @@
     "subject": "hindi",
     "unit": 2,
     "lessonNumber": 1,
-    "title": "संज्ञा, लिंग और वचन नियम (Nouns, Gender & Plurals) (Part 1)",
+    "title": "संज्ञा और व्याकरणिक लिंग: पुल्लिंग एवं स्त्रीलिंग की पहचान",
     "level": "A1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 2.1) with authentic linguistic precision.",
+    "objective": "हिंदी में संज्ञा के दो व्याकरणिक लिंगों (पुल्लिंग व स्त्रीलिंग), आकारांत-ईकारांत पहचान नियमों तथा निर्जीव वस्तुओं के लिंग निर्धारण को समझना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "हिंदी व्याकरण में प्रत्येक संज्ञा शब्द का एक निश्चित लिंग होता है। हिंदी में केवल दो लिंग होते हैं — पुल्लिंग (Masculine) और स्त्रीलिंग (Feminine):\n\n1. आकारांत पुल्लिंग संज्ञाएं (-आ अंत वाली):\n   - सामान्यतः '-आ' पर समाप्त होने वाले अधिकांश शब्द पुल्लिंग होते हैं, जैसे: लड़का (Boy), कमरा (Room), दरवाजा (Door), रास्ता (Way/Path), कपड़ा (Cloth), बच्चा (Child)।\n   - अपवाद: हवा (Wind), दवा (Medicine), कृपा (Grace) स्त्रीलिंग हैं।\n\n2. ईकारांत स्त्रीलिंग संज्ञाएं (-ई अंत वाली):\n   - सामान्यतः '-ई' पर समाप्त होने वाले अधिकांश शब्द स्त्रीलिंग होते हैं, जैसे: लड़की (Girl), खिड़की (Window), कुर्सी (Chair), गाड़ी (Car), नदी (River), रोटी (Bread/Roti)।\n   - अपवाद: पानी (Water), घी (Ghee), दही (Curd), मोती (Pearl) पुल्लिंग हैं।\n\n3. निर्जीव वस्तुओं का व्याकरणिक लिंग:\n   - प्राकृतिक लिंग के अतिरिक्त सभी निर्जीव वस्तुएं भी पुल्लिंग या स्त्रीलिंग होती हैं:\n   - पुल्लिंग: अखबार (Newspaper), घर (House), शहर (City), पेड़ (Tree), सेब (Apple), दूध (Milk)।\n   - स्त्रीलिंग: किताब (Book), मेज़ (Table), भाषा (Language), रात (Night), आँख (Eye), चाय (Tea)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 2.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 2."
+          "target": "यह एक बड़ा कमरा है और वह एक सुंदर खिड़की है।",
+          "reading": "yah ek bada kamra hai aur vah ek sundar khidki hai. [jəh eːk bəɽaː kəmraː hɛː ɔːr ʋəh eːk sʊn̪d̪ər kʰɪɽkiː hɛː] (yuh ayk buh-DAH kuhm-rah hy owr wuh ayk SOON-duhr KHEED-kee hy)",
+          "translation": "This is a big room and that is a beautiful window."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 2-1)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "लड़का मैदान में खेलता है और लड़की किताब पढ़ती है।",
+          "reading": "ladka maidaan mein khelta hai aur ladki kitaab padhti hai. [ləɽkaː mɛːd̪aːn mẽː kʰeːlt̪aː hɛː ɔːr ləɽkiː kɪt̪aːb pəɽʱt̪iː hɛː] (luhd-KAH my-DAHN mayn KHAYL-tah hy owr luhd-KEE kee-TAHB PUHDH-tee hy)",
+          "translation": "The boy plays in the field and the girl reads a book."
+        },
+        {
+          "target": "यह गरम चाय है और वह ठंडा पानी है।",
+          "reading": "yah garam chaay hai aur vah thanda paani hai. [jəh ɡərəm tʃaːj hɛː ɔːr ʋəh t̪ʰəɳɖaː paːniː hɛː] (yuh GUH-ruhm CHAH-ee hy owr wuh THUHN-dah PAH-nee hy)",
+          "translation": "This is hot tea and that is cold water."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "आ-ध्वनि = प्रायः पुल्लिंग (कमरा, दरवाजा); ई-ध्वनि = प्रायः स्त्रीलिंग (खिड़की, कुर्सी); ध्यान रखें: 'पानी' पुल्लिंग है और 'चाय' स्त्रीलिंग!"
+      ],
+      "culturalNotes": [
+        "हिंदी में किसी वस्तु का लिंग याद रखना अत्यंत आवश्यक है क्योंकि विशेषण, सर्वनाम और क्रिया सभी संज्ञा के लिंग के अनुसार रूप बदलते हैं।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"शुभकामनाएँ\":",
+          "prompt": "हिंदी में सामान्यतः '-ई' (ईकारांत) पर समाप्त होने वाली संज्ञाएं (जैसे: कुर्सी, खिड़की, गाड़ी) किस लिंग की होती हैं?",
           "options": [
-            "हम इस पाठ में इकाई 2.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («स्वागत» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («नाश्ता» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («दोपहर का खाना» का अनुचित स्थान)"
+            "स्त्रीलिंग (Feminine gender)",
+            "पुल्लिंग",
+            "नपुंसकलिंग",
+            "उभयलिंग"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "'-ई' पर समाप्त होने वाले अधिकांश शब्द (कुर्सी, खिड़की, गाड़ी आदि) स्त्रीलिंग होते हैं।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"शुभकामनाएँ\":",
+          "prompt": "इनमें से कौन-सा शब्द अपवाद स्वरूप '-ई' पर समाप्त होने के बावजूद 'पुल्लिंग' है?",
           "options": [
-            "हम इस पाठ में इकाई 2.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («नाश्ता» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («दोपहर का खाना» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («स्वागत» का अशुद्ध रूप)"
+            "पानी (Water - Masculine noun ending in -ee)",
+            "नदी",
+            "रोटी",
+            "गाड़ी"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«पानी» (Water) हिंदी में एक प्रमुख अपवाद है जो ईकारांत होने पर भी पुल्लिंग माना जाता है।"
         }
       ]
     },
@@ -949,17 +958,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"शुभकामनाएँ\": Which sentence is completely correct?",
+          "prompt": "संज्ञा और लिंग की दृष्टि से सही वाक्य का चयन कीजिए:",
           "options": [
-            "हम इस पाठ में इकाई 2.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («दोपहर का खाना» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («स्वागत» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («नाश्ता» से संबंधित)"
+            "यह किताब बहुत अच्छी है और यह कमरा बहुत साफ़ है। (This book is very good and this room is very clean.)",
+            "यह किताब बहुत अच्छा है और कमरा साफ़ी है।",
+            "यह कमरा अच्छी है और किताब बड़ा है।",
+            "किताब कमरा में सोता है।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«किताब» स्त्रीलिंग है (अच्छी है) और «कमरा» पुल्लिंग है (साफ़ है)।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u2-l2": {
@@ -967,53 +977,62 @@
     "subject": "hindi",
     "unit": 2,
     "lessonNumber": 2,
-    "title": "संज्ञा, लिंग और वचन नियम (Nouns, Gender & Plurals) (Part 2)",
+    "title": "पुल्लिंग संज्ञाओं के एकवचन और बहुवचन नियम",
     "level": "A1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 2.2) with authentic linguistic precision.",
+    "objective": "आकारांत पुल्लिंग शब्दों के '-ए' बहुवचन परिवर्तन तथा व्यंजनांत/अनाकारांत पुल्लिंग शब्दों के अपरिवर्तित रहने के नियम को सीखना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "हिंदी में पुल्लिंग संज्ञाओं के बहुवचन बनाने के दो स्पष्ट और निश्चित नियम हैं:\n\n1. आकारांत पुल्लिंग संज्ञाएं (-आ अंत वाली):\n   - जब पुल्लिंग शब्द के अंत में '-आ' स्वर होता है, तो प्रत्यक्ष बहुवचन में '-आ' बदलकर '-ए' हो जाता है:\n   - लड़का → लड़के (Boy → Boys)\n   - कमरा → कमरे (Room → Rooms)\n   - दरवाजा → दरवाजे (Door → Doors)\n   - कपड़ा → कपड़े (Cloth → Clothes)\n   - बच्चा → बच्चे (Child → Children)\n   - रास्ता → रास्ते (Path → Paths)।\n\n2. अन्य सभी पुल्लिंग संज्ञाएं (व्यंजनांत व अन्य स्वर अंत वाली):\n   - जो पुल्लिंग शब्द '-आ' पर समाप्त नहीं होते, उनका प्रत्यक्ष बहुवचन रूप एकवचन के बिल्कुल समान रहता है:\n   - एक घर → दो घर (One house → Two houses)\n   - एक पेड़ → कई पेड़ (One tree → Many trees)\n   - एक सेब → पाँच सेब (One apple → Five apples)\n   - एक शहर → तीन शहर (One city → Three cities)\n   - एक छात्र → सब छात्र (One student → All students)\n   - एक आदमी → चार आदमी (One man → Four men)।\n\n3. वाक्य में पहचान:\n   - ऐसे अपरिवर्तित शब्दों का बहुवचन होना सहायक क्रिया 'हैं' तथा संख्या शब्दों (दो, तीन, कई) से पहचाना जाता है (जैसे: 'घर सुंदर है' vs 'दो घर सुंदर हैं')।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 2.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 2."
+          "target": "इस होटल में दस बड़े कमरे और खुले दरवाजे हैं।",
+          "reading": "is hotel mein das bade kamre aur khule darvaaje hain. [ɪs hoːʈəl mẽː d̪əs bəɽeː kəmreː ɔːr kʰʊleː d̪ərʋaːzeː hɛ̃ː] (ees hoh-TUHL mayn duhs buh-DAY kuhm-RAY owr KHOO-lay duhr-VAH-zay hyn)",
+          "translation": "There are ten large rooms and open doors in this hotel."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 2-2)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "बाग में कई हरे पेड़ और सुंदर फूल हैं।",
+          "reading": "baag mein kayi hare ped aur sundar phool hain. [baːɡ mẽː kəiː həreː peːɽ ɔːr sʊn̪d̪ər pʰuːl hɛ̃ː] (bahg mayn kuh-EE huh-RAY payd owr SOON-duhr phool hyn)",
+          "translation": "There are many green trees and beautiful flowers in the garden."
+        },
+        {
+          "target": "सभी लड़के समय पर अपने विद्यालय पहुँचते हैं।",
+          "reading": "sabhi ladke samay par apne vidyalay pahunchte hain. [səbʱiː ləɽkeː səməj pər əpneː ʋɪd̪jaːləj pəɦʊ̃tʃt̪eː hɛ̃ː] (SUH-bhee luhd-KAY suh-MUHY puhr uhp-NAY veed-YAH-luy puh-HOONCH-tay hyn)",
+          "translation": "All boys reach their school on time."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "आकारांत पुल्लिंग: लड़का → लड़के, कमरा → कमरे; अन्य पुल्लिंग नहीं बदलते: एक घर → दस घर, एक पेड़ → चार पेड़!"
+      ],
+      "culturalNotes": [
+        "आदर व्यक्त करने के लिए एकवचन आदरणीय पुल्लिंग संज्ञा के साथ भी बहुवचन रूप 'हैं' और विशेषण में 'ए' (जैसे: पिताजी आए हैं) प्रयुक्त होता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"स्वागत\":",
+          "prompt": "आकारांत पुल्लिंग संज्ञा 'कमरा' का प्रत्यक्ष बहुवचन (Direct Plural) रूप क्या होगा?",
           "options": [
-            "हम इस पाठ में इकाई 2.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («नाश्ता» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («दोपहर का खाना» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («रात का खाना» का अनुचित स्थान)"
+            "कमरे (Kamre - Rooms)",
+            "कमराएं",
+            "कमरियां",
+            "कमराओं"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "आकारांत पुल्लिंग संज्ञा में '-आ' बदलकर '-ए' हो जाता है, अतः 'कमरा' का बहुवचन «कमरे» होगा।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"स्वागत\":",
+          "prompt": "पुल्लिंग संज्ञा 'पेड़' का बहुवचन रूप तीन की संख्या के साथ क्या होगा?",
           "options": [
-            "हम इस पाठ में इकाई 2.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («दोपहर का खाना» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («रात का खाना» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («नाश्ता» का अशुद्ध रूप)"
+            "तीन पेड़ (Three trees - Unchanged masculine plural)",
+            "तीन पेड़ें",
+            "तीन पेड़ों",
+            "तीन पेड़े"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "व्यंजनांत पुल्लिंग संज्ञाएं प्रत्यक्ष बहुवचन में नहीं बदलतीं, अतः «तीन पेड़» सही रूप है।"
         }
       ]
     },
@@ -1021,17 +1040,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"स्वागत\": Which sentence is completely correct?",
+          "prompt": "पुल्लिंग बहुवचन के नियमों के अनुसार कौन-सा वाक्य पूर्णतः शुद्ध है?",
           "options": [
-            "हम इस पाठ में इकाई 2.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («रात का खाना» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («नाश्ता» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («दोपहर का खाना» से संबंधित)"
+            "मैदान में कई लड़के खेल रहे हैं और रास्ते साफ़ हैं। (Many boys are playing in the field and the paths are clean.)",
+            "मैदान में कई लड़काएं खेल रहे हैं और रास्ताएं साफ़ हैं।",
+            "मैदान में कई लड़कियां खेलता है।",
+            "मैदान में लड़के खेलती है।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«लड़के» (लड़का का बहुवचन) और «रास्ते» (रास्ता का बहुवचन) दोनों मानक पुल्लिंग बहुवचन रूप हैं।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u2-l3": {
@@ -1039,53 +1059,62 @@
     "subject": "hindi",
     "unit": 2,
     "lessonNumber": 3,
-    "title": "संज्ञा, लिंग और वचन नियम (Nouns, Gender & Plurals) (Part 3)",
+    "title": "स्त्रीलिंग संज्ञाओं के बहुवचन नियम (-इयाँ, -एं और -याँ)",
     "level": "A1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 2.3) with authentic linguistic precision.",
+    "objective": "स्त्रीलिंग संज्ञाओं के बहुवचन रूपांतरण: ईकारांत में '-इयाँ' (लड़की → लड़कियाँ), व्यंजनांत में '-एं' (किताब → किताबें) तथा याकारांत में चन्द्रबिन्दु (चिड़िया → चिड़ियाँ) के नियमों में दक्षता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "हिंदी में स्त्रीलिंग संज्ञाओं के बहुवचन बनाने के तीन प्रमुख और वैज्ञानिक नियम हैं:\n\n1. ईकारांत स्त्रीलिंग संज्ञाएं (-ई अंत वाली):\n   - जब स्त्रीलिंग शब्द के अंत में दीर्घ 'ई' होती है, तो वह ह्रस्व 'इ' में बदल जाती है और अंत में '-याँ' जुड़ता है:\n   - लड़की → लड़कियाँ (Girl → Girls)\n   - खिड़की → खिड़कियाँ (Window → Windows)\n   - कुर्सी → कुर्सियाँ (Chair → Chairs)\n   - गाड़ी → गाड़ियाँ (Vehicle/Car → Cars)\n   - नदी → नदियाँ (River → Rivers)\n   - रोटी → रोटियाँ (Roti → Rotis)।\n\n2. व्यंजनांत तथा अन्य स्वर अंत वाली स्त्रीलिंग संज्ञाएं:\n   - व्यंजनांत अथवा आ/उ/ऊ अंत वाले स्त्रीलिंग शब्दों में अनुनासिक '-एं' जुड़ता है:\n   - किताब → किताबें (Book → Books)\n   - मेज़ → मेज़ें (Table → Tables)\n   - बात → बातें (Matter/Talk → Talks)\n   - आँख → आँखें (Eye → Eyes)\n   - रात → रातें (Night → Nights)\n   - महिला → महिलाएं (Woman → Women)।\n\n3. याकारांत स्त्रीलिंग संज्ञाएं (-या अंत वाली):\n   - जिन स्त्रीलिंग शब्दों के अंत में 'या' होता है, उनमें केवल चन्द्रबिन्दु (ँ) लगाया जाता है:\n   - चिड़िया → चिड़ियाँ (Bird → Birds)\n   - गुड़िया → गुड़ियाँ (Doll → Dolls)\n   - डिबिया → डिबियाँ (Small box → Small boxes)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 2.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 2."
+          "target": "पुस्तकालय में बहुत सारी उपयोगी किताबें और पत्रिकाएं हैं।",
+          "reading": "pustakaalay mein bahut saari upyogi kitabein aur patrikaen hain. [pʊst̪əkaːləj mẽː bəɦʊt̪ saːriː ʊpjɔːɡiː kɪt̪aːbẽː ɔːr pət̪rɪkaːẽː hɛ̃ː] (poos-tuh-KAH-luy mayn buh-hoot SAH-ree oop-YOH-gee kee-TAH-bayn owr puht-ree-KAH-ayn hyn)",
+          "translation": "There are many useful books and magazines in the library."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 2-3)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "कमरे की सभी खिड़कियाँ खुली हैं और कुर्सियाँ साफ़ हैं।",
+          "reading": "kamre ki sabhi khidkiyaan khuli hain aur kursiyaan saaf hain. [kəmreː kiː səbʱiː kʰɪɽkɪjaː̃ kʰʊliː hɛ̃ː ɔːr kʊrsɪjaː̃ saːf hɛ̃ː] (kuhm-RAY kee SUH-bhee KHEED-kee-yahn KHOO-lee hyn owr KOOR-see-yahn SAHF hyn)",
+          "translation": "All windows of the room are open and the chairs are clean."
+        },
+        {
+          "target": "आकाश में रंग-बिरंगी चिड़ियाँ चहक रही हैं।",
+          "reading": "aakaash mein rang-birangi chidiyaan chahak rahi hain. [aːkaːʃ mẽː rəŋɡ bɪrəŋɡiː tʃɪɽɪjaː̃ tʃɛɦək rəɦiː hɛ̃ː] (ah-KAHSH mayn ruhng-bee-RUHN-gee CHEED-ee-yahn chuh-HUHK ruh-HEE hyn)",
+          "translation": "Colorful birds are chirping in the sky."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "ई वाली संज्ञा: लड़की → लड़कियाँ (ह्रस्व इ + याँ); बिना ई वाली: किताब → किताबें (एं); या वाली: चिड़िया → चिड़ियाँ (ँ)!"
+      ],
+      "culturalNotes": [
+        "हिंदी में स्त्रीलिंग बहुवचन बनाते समय दीर्घ 'ई' को ह्रस्व 'इ' में बदलना (जैसे: दवाई → दवाइयाँ) वर्तनी की शुद्धता का अनिवार्य नियम है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"नाश्ता\":",
+          "prompt": "ईकारांत स्त्रीलिंग संज्ञा 'कुर्सी' का शुद्ध बहुवचन रूप कौन-सा है?",
           "options": [
-            "हम इस पाठ में इकाई 2.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («दोपहर का खाना» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («रात का खाना» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («पानी» का अनुचित स्थान)"
+            "कुर्सियाँ (Kursiyaan - Chairs)",
+            "कुर्सीएं",
+            "कुर्सियां",
+            "कुर्से"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "दीर्घ 'ई' ह्रस्व 'इ' में बदलकर '-याँ' जुड़ता है, अतः शुद्ध रूप «कुर्सियाँ» है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"नाश्ता\":",
+          "prompt": "स्त्रीलिंग संज्ञा 'किताब' का शुद्ध बहुवचन रूप क्या है?",
           "options": [
-            "हम इस पाठ में इकाई 2.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («रात का खाना» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («पानी» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («दोपहर का खाना» का अशुद्ध रूप)"
+            "किताबें (Kitabein - Books)",
+            "किताबियाँ",
+            "किताबे",
+            "किताबों"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "व्यंजनांत स्त्रीलिंग शब्द में '-एं' जुड़ता है, अतः 'किताब' का प्रत्यक्ष बहुवचन «किताबें» है।"
         }
       ]
     },
@@ -1093,17 +1122,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"नाश्ता\": Which sentence is completely correct?",
+          "prompt": "स्त्रीलिंग बहुवचन के शुद्ध प्रयोग वाला वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 2.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («पानी» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («दोपहर का खाना» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («रात का खाना» से संबंधित)"
+            "मेज पर नई किताबें और कुर्सियाँ रखी हैं। (New books and chairs are placed on the table.)",
+            "मेज पर नया किताबे और कुर्सिए रखा है।",
+            "मेज पर नई किताबियाँ और कुर्सीएं है।",
+            "मेज पर किताबे रखे हैं।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«किताबें» और «कुर्सियाँ» दोनों मानक स्त्रीलिंग बहुवचन रूप हैं और क्रिया 'हैं' सही है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u2-l4": {
@@ -1111,53 +1141,62 @@
     "subject": "hindi",
     "unit": 2,
     "lessonNumber": 4,
-    "title": "संज्ञा, लिंग और वचन नियम (Nouns, Gender & Plurals) (Part 4)",
+    "title": "विशेषण-संज्ञा अन्वय और लिंग-वचन समन्वय",
     "level": "A1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 2.4) with authentic linguistic precision.",
+    "objective": "विकारी विशेषणों (बड़ा/बड़े/बड़ी, अच्छा/अच्छे/अच्छी, नया/नए/नई) का संज्ञा के लिंग और वचन के अनुसार समन्वय तथा अविकारी विशेषणों (सुंदर, लाल, साफ़) की स्थिरता सीखना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "हिंदी में विशेषण अपनी विशेष्य संज्ञा के लिंग और वचन के अनुसार अपना रूप बदलते हैं:\n\n1. विकारी (परिवर्तनशील) विशेषण (-आ अंत वाले):\n   - जो विशेषण '-आ' पर समाप्त होते हैं, वे संज्ञा के अनुसार चार रूपों में बदलते हैं:\n   - पुल्लिंग एकवचन (-आ): बड़ा कमरा (Big room), अच्छा लड़का (Good boy), नया घर (New house)।\n   - पुल्लिंग बहुवचन (-ए): बड़े कमरे (Big rooms), अच्छे लड़के (Good boys), नए घर (New houses)।\n   - स्त्रीलिंग एकवचन (-ई): बड़ी खिड़की (Big window), अच्छी लड़की (Good girl), नई किताब (New book)।\n   - स्त्रीलिंग बहुवचन (-ई): बड़ी खिड़कियाँ (Big windows), अच्छी लड़कियाँ (Good girls), नई किताबें (New books)।\n   - *ध्यान दें*: स्त्रीलिंग एकवचन और बहुवचन दोनों में विकारी विशेषण का रूप '-ई' ही रहता है (जैसे: 'नई गाड़ी' और 'नई गाड़ियाँ')।\n\n2. अविकारी (अपरिवर्तनशील) विशेषण:\n   - जो विशेषण '-आ' पर समाप्त नहीं होते (व्यंजन या अन्य स्वर वाले), वे किसी भी लिंग या वचन में कभी नहीं बदलते:\n   - सुंदर (Beautiful): सुंदर लड़का, सुंदर लड़के, सुंदर लड़की, सुंदर लड़कियाँ।\n   - लाल (Red): लाल सेब, लाल किताबें, लाल गाड़ियाँ।\n   - साफ़ (Clean): साफ़ कमरा, साफ़ कमरे, साफ़ खिड़की, साफ़ खिड़कियाँ।\n   - भारी (Heavy): भारी बस्ता, भारी बस्ते, भारी मेज़, भारी मेज़ें।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 2.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 2."
+          "target": "यह नया कमरा बहुत बड़ा और हवादार है।",
+          "reading": "yah naya kamra bahut bada aur havadaar hai. [jəh nəjaː kəmraː bəɦʊt̪ bəɽaː ɔːr həʋaːd̪aːr hɛː] (yuh nuh-YAH kuhm-RAH buh-hoot buh-DAH owr huh-wah-DAHR hy)",
+          "translation": "This new room is very big and airy."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 2-4)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "वे नई किताबें बहुत अच्छी और ज्ञानवर्धक हैं।",
+          "reading": "ve nayi kitabein bahut achhi aur gyanvardhak hain. [ʋeː nəiː kɪt̪aːbẽː bəɦʊt̪ ətʃːʰiː ɔːr ɡjaːnʋərd̪ʱək hɛ̃ː] (way nuh-EE kee-TAH-bayn buh-hoot UHTCH-chee owr gyahn-VUHR-dhuhk hyn)",
+          "translation": "Those new books are very good and informative."
+        },
+        {
+          "target": "मेज़ पर सुंदर लाल सेब और ताज़ा फल रखे हैं।",
+          "reading": "mez par sundar laal seb aur taaza phal rakhe hain. [meːz pər sʊn̪d̪ər laːl seːb ɔːr t̪aːzaː pʰəl rəkʰeː hɛ̃ː] (mayz puhr SOON-duhr lahl sayb owr TAH-zah phuhl RUHKH-ay hyn)",
+          "translation": "Beautiful red apples and fresh fruits are kept on the table."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "आकारांत विशेषण: बड़ा (पु.एक.), बड़े (पु.बहु.), बड़ी (स्त्री.एक./बहु.); अविकारी विशेषण: सुंदर व लाल कभी नहीं बदलते!"
+      ],
+      "culturalNotes": [
+        "विशेषण का सही लिंग-वचन समन्वय हिंदी बोलने में स्वाभाविक प्रवाह और व्याकरणिक परिपक्वता का सबसे पहला प्रमाण माना जाता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"दोपहर का खाना\":",
+          "prompt": "स्त्रीलिंग बहुवचन संज्ञा 'किताबें' के साथ विकारी विशेषण 'नया' का कौन-सा रूप प्रयुक्त होगा?",
           "options": [
-            "हम इस पाठ में इकाई 2.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («रात का खाना» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («पानी» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («दूध» का अनुचित स्थान)"
+            "नई (Nayi kitabein - New books [fem. plural])",
+            "नए",
+            "नया",
+            "नयों"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "स्त्रीलिंग संज्ञाओं (एकवचन व बहुवचन दोनों) के साथ विकारी विशेषण का रूप «नई» (ईकारांत) रहता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"दोपहर का खाना\":",
+          "prompt": "पुल्लिंग बहुवचन संज्ञा 'लड़के' के साथ विकारी विशेषण 'अच्छा' का कौन-सा रूप लगेगा?",
           "options": [
-            "हम इस पाठ में इकाई 2.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («पानी» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («दूध» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («रात का खाना» का अशुद्ध रूप)"
+            "अच्छे (Achhe ladke - Good boys [masc. plural])",
+            "अच्छा",
+            "अच्छी",
+            "अच्छों"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "पुल्लिंग बहुवचन संज्ञा के साथ आकारांत विशेषण बदलकर '-ए' (अच्छे) हो जाता है।"
         }
       ]
     },
@@ -1165,17 +1204,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"दोपहर का खाना\": Which sentence is completely correct?",
+          "prompt": "विशेषण-संज्ञा समन्वय की दृष्टि से पूर्णतः शुद्ध वाक्य का चयन कीजिए:",
           "options": [
-            "हम इस पाठ में इकाई 2.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («दूध» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («रात का खाना» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («पानी» से संबंधित)"
+            "हमारे पास बड़े कमरे और अच्छी कुर्सियाँ हैं। (We have large rooms and good chairs.)",
+            "हमारे पास बड़ा कमरे और अच्छा कुर्सियाँ हैं।",
+            "हमारे पास बड़ी कमरे और अच्छे कुर्सियाँ हैं।",
+            "कमरे बड़ी है और कुर्सियाँ बड़ा है।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«बड़े कमरे» (पुल्लिंग बहुवचन) और «अच्छी कुर्सियाँ» (स्त्रीलिंग बहुवचन) में विशेषण का सटीक समन्वय है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u2-l5": {
@@ -1183,53 +1223,62 @@
     "subject": "hindi",
     "unit": 2,
     "lessonNumber": 5,
-    "title": "संज्ञा, लिंग और वचन नियम (Nouns, Gender & Plurals) (Part 5)",
+    "title": "निश्चयवाचक व अनिश्चयवाचक सर्वनाम: यह/ये, वह/वे और कोई/कुछ",
     "level": "A1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 2.5) with authentic linguistic precision.",
+    "objective": "निकटवर्ती/दूरवर्ती निश्चयवाचक सर्वनामों (यह/ये, वह/वे) तथा अनिश्चयवाचक सर्वनामों (सजीव हेतु 'कोई', निर्जीव/मात्रा हेतु 'कुछ') के प्रामाणिक प्रयोग में महारत प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "हिंदी में वस्तुओं व व्यक्तियों की ओर संकेत करने तथा अनिश्चितता व्यक्त करने के लिए सर्वनामों की समृद्ध व्यवस्था है:\n\n1. निश्चयवाचक सर्वनाम (Demonstrative Pronouns):\n   - निकटवर्ती (Proximate — पास की वस्तु/व्यक्ति हेतु):\n     - «यह» (Yah) — यह एकवचन है (This / He / She / It);\n     - «ये» (Ye) — ये बहुवचन है (These / They)।\n   - दूरवर्ती (Distant — दूर की वस्तु/व्यक्ति हेतु):\n     - «वह» (Vah) — वह एकवचन है (That / He / She / It);\n     - «वे» (Ve) — वे बहुवचन है (Those / They)।\n\n2. अनिश्चयवाचक सर्वनाम (Indefinite Pronouns):\n   - «कोई» (Koi) — सजीव/गणनीय प्राणियों के लिए (Someone / Anyone / Somebody):\n     - उदाहरण: दरवाजे पर कोई खड़ा है (Someone is standing at the door);\n     - उदाहरण: क्या कमरे में कोई है? (Is anyone in the room?)\n   - «कुछ» (Kuchh) — निर्जीव वस्तुओं, विचारों अथवा अनिश्चित मात्रा/संख्या के लिए (Something / Some / A few):\n     - उदाहरण: मेज़ पर कुछ फल रखे हैं (Some fruits are kept on the table);\n     - उदाहरण: मुझे कुछ कहना है (I have something to say);\n     - उदाहरण: चाय में कुछ चीनी डालिए (Put some sugar in the tea)।\n\n3. निश्चयवाचक और सार्वनामिक विशेषण में अंतर:\n   - जब 'यह/वह' सीधे संज्ञा के पहले आए (जैसे: 'यह लड़का'), तो वह सार्वनामिक विशेषण बन जाता है।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 2.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 2."
+          "target": "यह मेरी नई कलम है और वे तुम्हारी पुरानी पुस्तकें हैं।",
+          "reading": "yah meri nayi kalam hai aur ve tumhari puraani pustakein hain. [jəh meːriː nəiː kələm hɛː ɔːr ʋeː t̪ʊmɦaːriː pʊraːniː pʊst̪əkẽː hɛ̃ː] (yuh MAY-ree nuh-EE kuh-luhm hy owr way toom-HAH-ree poo-RAH-nee poos-tuh-KAYN hyn)",
+          "translation": "This is my new pen and those are your old books."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 2-5)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "दरवाजे पर कोई खड़ा है, जाकर देखिए कौन है।",
+          "reading": "darvaaje par koi khada hai, jaakar dekhiye kaun hai. [d̪ərʋaːzeː pər koːiː kʰəɽaː hɛː dʒaːkər d̪eːkʰɪjeː kɔːn hɛː] (duhr-VAH-zay puhr koh-EE khuh-DAH hy, JAH-kuhr DAY-khee-yay kown hy)",
+          "translation": "Someone is standing at the door, go and see who it is."
+        },
+        {
+          "target": "रसोई में कुछ ताज़ा फल और पीने का साफ़ पानी उपलब्ध है।",
+          "reading": "rasoi mein kuchh taaza phal aur peene ka saaf paani uplabdh hai. [rəsoːiː mẽː kʊtʃʰ t̪aːzaː pʰəl ɔːr piːneː kaː saːf paːniː ʊpləbd̪ʱ hɛː] (ruh-SOH-ee mayn kooch TAH-zah phuhl owr PEE-nay kah sahf PAH-nee oop-LUHBDH hy)",
+          "translation": "Some fresh fruits and clean drinking water are available in the kitchen."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "पास = यह (एकवचन), ये (बहुवचन); दूर = वह (एकवचन), वे (बहुवचन); सजीव अनिश्चित = कोई; निर्जीव अनिश्चित = कुछ!"
+      ],
+      "culturalNotes": [
+        "हिंदी में किसी तीसरे आदरणीय व्यक्ति की ओर संकेत करते समय एकवचन होने पर भी 'वह' के स्थान पर आदरसूचक 'वे' (वे हमारे अध्यापक हैं) का प्रयोग किया जाता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"रात का खाना\":",
+          "prompt": "किसी अनजान व्यक्ति (सजीव प्राणी) के लिए किस अनिश्चयवाचक सर्वनाम का प्रयोग किया जाता है?",
           "options": [
-            "हम इस पाठ में इकाई 2.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («पानी» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («दूध» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («चाय» का अनुचित स्थान)"
+            "कोई (Koi - Someone / Anyone for persons)",
+            "कुछ",
+            "कौन",
+            "क्या"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "सजीव प्राणियों की अनिश्चितता के लिए «कोई» का प्रयोग होता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"रात का खाना\":",
+          "prompt": "दूर स्थित बहुवचन वस्तुओं (जैसे: पुस्तकें) की ओर संकेत करने के लिए कौन-सा सर्वनाम उपयुक्त है?",
           "options": [
-            "हम इस पाठ में इकाई 2.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («दूध» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («चाय» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («पानी» का अशुद्ध रूप)"
+            "वे (Ve - Those / Distant plural)",
+            "यह",
+            "ये",
+            "वह"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "दूर स्थित बहुवचन वस्तुओं के लिए «वे» (Those) का प्रयोग किया जाता है।"
         }
       ]
     },
@@ -1237,17 +1286,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"रात का खाना\": Which sentence is completely correct?",
+          "prompt": "सर्वनाम के सही प्रयोग वाला प्रामाणिक वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 2.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («चाय» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («पानी» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («दूध» से संबंधित)"
+            "ये मेरे मित्र हैं और बाहर कोई आपका इंतज़ार कर रहा है। (These are my friends and someone outside is waiting for you.)",
+            "यह मेरे मित्र हैं और बाहर कुछ इंतज़ार कर रहा है।",
+            "वे मेरा कलम है और कोई किताबें हैं।",
+            "कुछ लोग वे है और कोई पानी पीता है।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«ये मेरे मित्र हैं» (बहुवचन निकटवर्ती) और «कोई आपका इंतज़ार कर रहा है» (सजीव अनिश्चित) व्याकरण की दृष्टि से पूर्णतः शुद्ध है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u3-l1": {
