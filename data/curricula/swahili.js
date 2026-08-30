@@ -9915,53 +9915,62 @@
     "subject": "swahili",
     "unit": 24,
     "lessonNumber": 1,
-    "title": "Utamaduni wa Waswahili na Pwani ya Afrika Mashariki (Culture) (Part 1)",
+    "title": "Ustaarabu wa Miji ya Pwani na Usanifu wa Majengo ya Matumbawe (Swahili Stone Towns & Coral Architecture)",
     "level": "B2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 24.1) with authentic precision.",
+    "objective": "Kuelewa msamiati wa kina na miundo ya kisarufi inayoelezea ustaarabu wa kale wa Waswahili, Miji ya Mawe (Stone Towns), na usanifu wa majengo ya matumbawe (Coral Rag Architecture).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Usanifu wa Majengo na Miji ya Mawe ya Waswahili (Swahili Architecture & Stone Towns):\n\nUstaarabu wa Waswahili kwenye pwani ya Afrika Mashariki (kutoka Somalia, Kenya, Tanzania hadi Msumbiji) ulijenga miji maarufu ya kihistoria kama vile **Lamu, Mji Mkongwe wa Zanzibar, Kilwa Kisiwani, Bagamoyo, na Mombasa**:\n\n1. **Msamiati Mahsusi wa Usanifu wa Majengo**:\n   - **Mawe ya matumbawe (Coral rag stone)**: Mawe asilia ya baharini yaliyochongwa kujengea kuta imara.\n   - **Chokaa ya asili (Lime mortar)**: Saruji ya kienyeji iliyotengenezwa kwa kuchoma matumbawe na maji.\n   - **Milango ya nakshi (Carved Swahili Doors)**: Milango mikubwa ya mbao ngumu (mvule) iliyochongwa kwa nakshi za Kiarabu (mistari na maua) au Kigujarati (miiba ya kuzuia ndovu).\n   - **Baraza**: Mbenuko wa benchi la mawe kando ya ukuta wa nyumba nje ambapo wazee na wageni huketi kuzungumza.\n   - **Sebule na Daka**: Vyumba vya mapokezi vya ndani vyenye staha na usiri kwa wanafamilia.\n   - **Madirisha ya kimiani (Latticework / Mashrabiya)**: Madirisha yenye vizuizi vya mbao kuruhusu upepo kuingia bila wanaoangalia nje kuonekana ndani.\n\n2. **Miundo ya Kisarufi**:\n   - Matumizi ya Ngeli ya Mahali (PA-KU-MU: *barazani, ukumbini, sebuleni, ufukweni*) pamoja na vivumishi vya sifa (*-a kale, -a jadi, -enye nakshi*).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 24.1.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 24."
+          "target": "Milango mikubwa ya mbao iliyochongwa kwa nakshi za jadi inapamba majumba ya kale ya matumbawe katika Mji Mkongwe wa Zanzibar na Lamu.",
+          "reading": "Mi-la-ngo mi-ku-bwa ya mba-o ili-yo-cho-ngwa kwa na-kshi za ja-di ina-pa-mba maju-mba ya ka-le ya ma-tu-mba-we ka-ti-ka Mji Mko-ngwe wa Za-nzi-bar na La-mu. [miˈlɑŋɡɔ miˈkubwɑ jɑ ˈmbɑɔ ilijɔˈtʃɔŋɡwɑ kwɑ ˈnɑkʃi zɑ ˈʤɑdi inɑˈpɑmbɑ mɑˈʤumbɑ jɑ ˈkɑlɛ jɑ mɑtuˈmbɑwɛ ˈkɑtikɑ ˈmʤi ˈmkɔŋɡwɛ wɑ zɑnziˈbɑr nɑ ˈlɑmu] (mee-LAHN-goh mee-KOO-bwah yah M-BAH-oh ee-lee-yoh-CHOHN-gwah kwah NAHK-shee zah JAH-dee ee-nah-PAHM-bah mah-JOOM-bah yah KAH-lay yah mah-toom-BAH-way KAH-tee-kah M-JEE M-KOHN-gway wah zahn-zee-BAHR nah LAH-moo)",
+          "translation": "Grand wooden doors carved with traditional motifs adorn ancient coral stone houses in the Stone Town of Zanzibar and Lamu."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 24-1).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Wazee wa mtaa huketi barazani nyakati za alasiri ili kupumzika, kusalimiana, na kujadili masuala ya maendeleo ya kijamii.",
+          "reading": "Wa-ze-e wa mta-a hu-ke-ti ba-ra-za-ni nya-ka-ti za ala-si-ri i-li ku-pu-mzi-ka, ku-sa-li-mia-na, na ku-ja-di-li ma-su-a-la ya ma-e-nde-le-o ya ki-ja-mi-i. [wɑˈzɛː wɑ ˈmtɑː huˈkɛti bɑrɑzɑˈni ɲɑˈkɑti zɑ ɑlɑˈsiri ˈili kupuˈmzikɑ kusɑliˈmiɑnɑ nɑ kuʤɑˈdili mɑsuˈɑlɑ jɑ mɑɛndɛˈlɛɔ jɑ kiʤɑˈmiː] (wah-ZAY-ay wah m-TAH-ah hoo-KAY-tee bah-rah-zah-NEE nyah-KAH-tee zah ah-lah-SEE-ree EE-lee koo-poom-ZEE-kah, koo-sah-lee-mee-AH-nah, nah koo-jah-DEE-lee mah-soo-AH-lah yah mah-ayn-day-LAY-oh yah kee-jah-MEE-ee)",
+          "translation": "Neighborhood elders sit on the stone veranda [barazani] during late afternoon hours to rest, greet one another, and deliberate on community development matters."
+        },
+        {
+          "target": "Usanifu wa miji ya kihistoria kama Kilwa Kisiwani na Mombasa unaakisi mchanganyiko wa karne nyingi wa tamaduni za Kibantu na wafanyabiashara wa Bahari ya Hindi.",
+          "reading": "Usa-ni-fu wa mi-ji ya ki-hi-sto-ria ka-ma Ki-lwa Ki-si-wa-ni na Mo-mba-sa una-a-ki-si mcha-nga-nyi-ko wa ka-rne nyi-ngi wa ta-ma-du-ni za Ki-ba-ntu na wa-fa-nya-bia-sha-ra wa Ba-ha-ri ya Hi-ndi. [usɑˈnifu wɑ ˈmiʤi jɑ kihisˈtɔriɑ ˈkɑmɑ ˈkilwɑ kisiwɑˈni nɑ mɔˈmbɑsɑ unɑɑˈkisi mtʃɑŋɡɑˈɲikɔ wɑ ˈkɑrnɛ ˈɲiŋɡi wɑ tɑmɑˈduni zɑ kiˈbɑntu nɑ wɑfɑɲɑbiɑˈʃɑrɑ wɑ bɑˈhɑri jɑ ˈhindi] (oo-sah-NEE-foo wah MEE-jee yah kee-hees-TOH-ree-ah KAH-mah KEEL-wah kee-see-wah-NEE nah mohm-BAH-sah oo-nah-ah-KEE-see m-chahn-gah-NYEE-koh wah KAHR-nay NYEEN-gee wah tah-mah-DOO-nee zah kee-BAHN-too nah wah-fah-nyah-bee-ah-SHAH-rah wah bah-HAH-ree yah HEEN-dee)",
+          "translation": "The architecture of historic coastal towns such as Kilwa Kisiwani and Mombasa reflects a multi-century synthesis of Bantu civilizations and Indian Ocean merchants."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Usanifu wa Waswahili: Mawe ya matumbawe (coral stone), Milango ya nakshi (carved doors), Baraza (stone meeting bench), Chokaa ya asili (lime mortar)!"
+      ],
+      "culturalNotes": [
+        "Mji wa Lamu nchini Kenya na Mji Mkongwe wa Zanzibar yameteuliwa na UNESCO kama Urithi wa Dunia kutokana na kuhifadhi usanifu halisi wa Waswahili kwa zaidi ya karne saba."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Nyeusi\":",
+          "prompt": "Katika nyumba za asili za Waswahili, neno «baraza» linamaanisha nini kisanifu?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 24.1.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kijivu»",
-            "Mpangilio usio sahihi wa viambishi katika «Hudhurungi»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Waridi»"
+            "Benchi la mawe lililojengwa nje kando ya ukuta wa nyumba kwa ajili ya mazungumzo na mapumziko (Stone bench / veranda - Correct architectural meaning)",
+            "Mlango mkuu wa chuma",
+            "Chumba cha kulala cha orofa ya juu",
+            "Baa ya vinywaji vikali"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Baraza» ni benchi la mawe la nje ambapo watu huketi kusalimiana, kupumzika na kubadilishana mawazo."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Nyeusi\":",
+          "prompt": "Majumba ya kale ya Mji Mkongwe wa Zanzibar na Lamu yalijengwa kwa kutumia nyenzo zipi kuu za asili?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 24.1.",
-            "Mpangilio usio sahihi wa viambishi katika «Hudhurungi»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Waridi»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kijivu»"
+            "Mawe ya matumbawe (coral stone) na chokaa ya asili ya kupikwa (Correct traditional building materials)",
+            "Mabati ya kisasa na saruji ya kiwandani",
+            "Plastiki na chuma cha pua",
+            "Mbao za miti ya Ulaya pekee"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Majumba ya Waswahili yalijengwa kwa mawe ya matumbawe (coral rag) yaliyounganishwa kwa chokaa ya asili."
         }
       ]
     },
@@ -9969,17 +9978,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Nyeusi\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha iliyo sahihi ya miji ya kihistoria na sifa za usanifu wa Waswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 24.1.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Waridi»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kijivu»",
-            "Mpangilio usio sahihi wa viambishi katika «Hudhurungi»"
+            "Miji: Lamu, Mji Mkongwe wa Zanzibar, Kilwa Kisiwani, Mombasa. Usanifu: milango ya nakshi, mawe ya matumbawe, baraza, madirisha ya kimiani.",
+            "Waswahili hawakuwahi kujenga nyumba za mawe kabla ya karne ya 21.",
+            "Miji ya pwani ilijengwa kwa mahema ya ngozi pekee.",
+            "Lamu na Zanzibar zilianzishwa na watalii wa kisasa."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Miji ya kihistoria ya Waswahili inajumuisha Lamu, Zanzibar, Kilwa Kisiwani, Mombasa yenye milango ya nakshi na kuta za matumbawe."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u24-l2": {
@@ -9987,53 +9997,62 @@
     "subject": "swahili",
     "unit": 24,
     "lessonNumber": 2,
-    "title": "Utamaduni wa Waswahili na Pwani ya Afrika Mashariki (Culture) (Part 2)",
+    "title": "Bahari ya Hindi, Majahazi na Uvuvi wa Jadi (Dhow Trade, Monsoon Winds & Maritime Life)",
     "level": "B2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 24.2) with authentic precision.",
+    "objective": "Kuelewa msamiati wa usafiri wa baharini, upepo wa msimu (kaskazi na kusi), vyombo vya majini (majahazi, ngalawa), na uvuvi wa jadi katika Bahari ya Hindi.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Usafiri wa Bahari ya Hindi na Maisha ya Wanamaji wa Kiswahili:\n\nBahari ya Hindi ndiyo mshipa mkuu wa biashara na mwingiliano wa kitamaduni wa jamii za Waswahili:\n\n1. **Vyombo vya Majini vya Jadi**:\n   - **Jahazi**: Chombo kikubwa cha mbao chenye tanga la pembetatu kinachosafiri masafa marefu ya bahari.\n   - **Ngalawa**: Mtumbwi wa mti mmoja wenye mirefeji (outriggers) pande zote mbili unaotumiwa na wavuvi kwa utulivu mawimbini.\n   - **Mashua**: Chombo cha wastani kinachoendeshwa kwa makasia au tanga.\n   - **Mtumbwi**: Boti ndogo iliyochongwa kutoka kwenye gogo moja la mti.\n\n2. **Misimu ya Upepo (Monsoon Winds)**:\n   - **Upepo wa Kaskazi (Kaskazini-Mashariki: Novemba - Machi)**: Upepo unaovuma kutoka Bara Arabu na Uhindi kuelekea Afrika Mashariki, ukiwaleta wafanyabiashara.\n   - **Upepo wa Kusi (Kusini-Mashariki: Aprili - Oktoba)**: Upepo unaovuma kutoka kusini kuelekea kaskazini, ukiwarudisha mabaharia makwao.\n\n3. **Msamiati wa Mabaharia na Uvuvi**:\n   - *Nahodha* (Sea captain), *ng'oa nanga* (weigh anchor), *tua nanga* (drop anchor), *vuta makasia* (row oars), *tanga* (sail), *dira* (compass/direction), *maji mafu* (neap tide), *maji mjaa* (high tide).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 24.2.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 24."
+          "target": "Nahodha mahiri aling'oa nanga alfajiri na kuelekeza jahazi lake kaskazini kwa kutumia dira na nguvu za upepo wa kusi.",
+          "reading": "Naho-dha ma-hi-ri ali-ng'o-a na-nga alfa-ji-ri na ku-e-le-ke-za ja-ha-zi la-ke ka-ska-zi-ni kwa ku-tu-mia di-ra na ngu-vu za upe-po wa ku-si. [nɑˈhɔðɑ mɑˈhiri ɑliˈŋɔɑ ˈnɑŋɡɑ ɑlfɑˈʤiri nɑ kuɛlɛˈkɛzɑ ʤɑˈhɑzi ˈlɑkɛ kɑskɑˈzini kwɑ kutuˈmiɑ ˈdirɑ nɑ ˈŋɡuvu zɑ uˈpɛpɔ wɑ ˈkusi] (nah-HOH-thah mah-HEE-ree ah-lee-NGOH-ah NAHN-gah ahl-fah-JEE-ree nah koo-ay-lay-KAY-zah jah-HAH-zee LAH-kay kah-skah-ZEE-nee kwah koo-too-MEE-ah DEE-rah nah N-GOO-voo zah oo-PAY-poh wah KOO-see)",
+          "translation": "The experienced sea captain weighed anchor [aling'oa nanga] at daybreak and steered his dhow northward utilizing the compass and the strength of the southerly monsoon wind [upepo wa kusi]."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 24-2).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Wavuvi wa ngalawa walirudi ufukweni salama kabla ya maji mjaa wakiwa na mapato mengi ya samaki wabichi.",
+          "reading": "Wa-vu-vi wa nga-la-wa wa-li-ru-di ufu-kwe-ni sa-la-ma ka-bla ya ma-ji mja-a wa-ki-wa na ma-pa-to me-ngi ya sa-ma-ki wbi-chi. [wɑˈvuvi wɑ ŋɡɑˈlɑwɑ wɑliˈrudi ufukwɛˈni sɑˈlɑmɑ ˈkɑblɑ jɑ ˈmɑʤi ˈmʤɑː wɑˈkiwɑ nɑ mɑˈpɑtɔ ˈmɛŋɡi jɑ sɑˈmɑki ˈwbitʃi] (wah-VOO-vee wah n-gah-LAH-wah wah-lee-ROO-dee oo-foo-kway-NEE sah-LAH-mah KAH-blah yah MAH-jee M-JAH-ah wah-KEE-wah nah mah-PAH-toh MAYN-gee yah sah-MAH-kee W-BEE-chee)",
+          "translation": "The outrigger canoe fishermen [wavuvi wa ngalawa] returned safely ashore before high tide [maji mjaa] carrying a rich harvest of fresh fish."
+        },
+        {
+          "target": "Mzunguko wa upepo wa msimu na biashara ya majahazi ulisaidia kueneza lugha ya Kiswahili katika bandari zote za Bahari ya Hindi.",
+          "reading": "Mzu-ngu-ko wa upe-po wa msi-mu na bia-sha-ra ya maja-ha-zi uli-sa-i-dia ku-e-ne-za lu-gha ya Ki-swa-hi-li ka-ti-ka ba-nda-ri zo-te za Ba-ha-ri ya Hi-ndi. [mzuˈŋɡukɔ wɑ uˈpɛpɔ wɑ ˈmsimu nɑ biɑˈʃɑrɑ jɑ mɑʤɑˈhɑzi ulisɑˈidiɑ kuɛˈnɛzɑ ˈluɣɑ jɑ kiswɑˈhili ˈkɑtikɑ bɑˈndɑri ˈzɔtɛ zɑ bɑˈhɑri jɑ ˈhindi] (m-zoon-GOO-koh wah oo-PAY-poh wah m-SEE-moo nah bee-ah-SHAH-rah yah mah-jah-HAH-zee oo-lee-sah-EE-dee-ah koo-ay-NAY-zah LOO-gah yah kee-swah-HEE-lee KAH-tee-kah bahn-DAH-ree ZOH-tay zah bah-HAH-ree yah HEEN-dee)",
+          "translation": "The cycle of monsoon winds and dhow maritime commerce aided the widespread expansion of Swahili across all ports of the Indian Ocean."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Vyombo na Upepo wa Bahari: Jahazi (big sailing dhow), Ngalawa (outrigger canoe), Upepo wa Kaskazi (NE monsoon), Upepo wa Kusi (SE monsoon), Nahodha (captain)!"
+      ],
+      "culturalNotes": [
+        "Ufundi wa kuchonga majahazi kwa mbao za asili na kamba za makumbi bila misumari ya chuma (ushonaji wa majahazi) ulikuwa umahiri wa kipekee wa wajenzi wa visiwa vya Lamu na Zanzibar."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Kijivu\":",
+          "prompt": "Chombo gani cha asili cha uvuvi wa Waswahili chenye vizuizi vya mbao (mirefeji) pande zote mbili ili kuzuia kupinduka mawimbini?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 24.2.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Hudhurungi»",
-            "Mpangilio usio sahihi wa viambishi katika «Waridi»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Urujuani»"
+            "Ngalawa (Outrigger canoe - Correct traditional vessel)",
+            "Meli kubwa ya mafuta",
+            "Nyambizi (Submarine)",
+            "Gari moshi"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Ngalawa» ni mtumbwi wa jadi wenye mirefeji (outriggers) kando kando ili kuupa uimara dhidi ya mawimbi."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Kijivu\":",
+          "prompt": "Upepo unaovuma kutoka kusini kuelekea kaskazini kuanzia Aprili hadi Oktoba unaitwaje katika istilahi za kibaharia za Kiswahili?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 24.2.",
-            "Mpangilio usio sahihi wa viambishi katika «Waridi»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Urujuani»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Hudhurungi»"
+            "Upepo wa Kusi (South-east monsoon wind - Correct seasonal wind)",
+            "Upepo wa Kaskazi",
+            "Kimbunga cha theluji",
+            "Upepo wa jangwani"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Upepo wa Kusi» huvuma kuelekea kaskazini kati ya Aprili na Oktoba."
         }
       ]
     },
@@ -10041,17 +10060,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Kijivu\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha iliyo sahihi ya maneno ya kibaharia na vyombo vya majini katika pwani ya Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 24.2.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Urujuani»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Hudhurungi»",
-            "Mpangilio usio sahihi wa viambishi katika «Waridi»"
+            "Jahazi, ngalawa, mashua, nahodha, tanga, ng'oa nanga, upepo wa kaskazi, upepo wa kusi.",
+            "Jahazi, ndege, helikopta, pikipiki, mlingoti wa treni.",
+            "Waswahili hawakuwahi kutumia bahari kwa usafiri wala uvuvi.",
+            "Ngalawa hutembea nchi kavu bila kuingia majini."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Msamiati sahihi wa kibaharia: Jahazi, ngalawa, mashua, nahodha, tanga, ng'oa nanga, upepo wa kaskazi, upepo wa kusi."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u24-l3": {
@@ -10059,53 +10079,62 @@
     "subject": "swahili",
     "unit": 24,
     "lessonNumber": 3,
-    "title": "Utamaduni wa Waswahili na Pwani ya Afrika Mashariki (Culture) (Part 3)",
+    "title": "Mavazi ya Kitamaduni, Sherehe za Harusi na Muziki wa Taarab (Attire, Weddings & Taarab Music)",
     "level": "B2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 24.3) with authentic precision.",
+    "objective": "Kuelewa msamiati wa mavazi ya kitamaduni (kanga, kitenge, kanzu, kofia ya kudarizi), desturi za harusi za Kiswahili, na utamaduni wa muziki wa Taarab.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Mavazi, Sherehe za Harusi na Sanaa ya Taarab katika Jamii ya Waswahili:\n\n1. **Mavazi ya Asili ya Waswahili**:\n   - **Kanga (Leso)**: Vazi la pamba lenye pindo lenye nakshi na katikati ujumbe wa hekima au methali ulioandikwa (*Jina la kanga* au *Ujumbe*).\n   - **Kitenge**: Nguo nene ya pamba yenye rangi na michoro angavu inayoshonwa magauni na suti za kike na kiume.\n   - **Kanzu**: Joho jeupe la heshima linalovaliwa na wanaume katika sherehe, ibada na mikusanyiko rasmi.\n   - **Kofia ya kudarizi**: Kofia ya mviringo ya wanaume iliyoshonwa kwa sindano ya mkono yenye matundu madogo na nakshi maridadi.\n   - **Kikoi**: Kitambaa cha mistari kinachovaliwa na wanaume kama kanga ya kiunoni.\n\n2. **Sherehe za Harusi na Muziki wa Taarab**:\n   - **Nikaha / Ndoa**: Mkataba rasmi wa kidini na kisheria wa ndoa unaofanyika msikitini au ukumbini.\n   - **Taarab**: Muziki wa kimapokeo wa pwani unaochanganya ushairi mtamu wa Kiswahili na ala za muziki kama vile *Udi (Oud), Kanuni (Qanun), Zeze/Violin, Tablas, na Accordion*.\n   - Wasanii mashuhuri wa kihistoria kama *Siti Binti Saad, Bi Kidude, na Shakila Said* waliutangaza muziki wa Taarab duniani.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 24.3.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 24."
+          "target": "Wanawake walijifunga kanga maridadi zenye ujumbe wa hekima huku wakiimba nyimbo tamu za taarab wakati wa sherehe ya harusi.",
+          "reading": "Wa-na-wa-ke wa-li-ji-fu-nga ka-nga ma-ri-da-di ze-nye uju-mbe wa he-ki-ma hu-ku wa-ki-i-mba nyi-mbo ta-mu za ta-a-rab wa-ka-ti wa she-re-he ya ha-ru-si. [wɑnɑˈwɑkɛ wɑliʤiˈfuŋɡɑ ˈkɑŋɡɑ mɑriˈdɑdi ˈzɛɲɛ uˈʤumbɛ wɑ hɛˈkimɑ ˈhuku wɑkiˈimbɑ ˈɲimbɔ ˈtɑmu zɑ tɑːˈrɑb wɑˈkɑti wɑ ʃɛˈrɛhɛ jɑ hɑˈrusi] (wah-nah-WAH-kay wah-lee-jee-FOON-gah KAHN-gah mah-ree-DAH-dee ZAY-nyay oo-JOOM-bay wah hay-KEE-mah HOO-koo wah-kee-EEM-bah NYEEM-boh TAH-moo zah tah-ah-RAHB wah-KAH-tee wah shay-RAY-hay yah hah-ROO-see)",
+          "translation": "Women wrapped themselves in splendid kanga garments bearing wise inscriptions while singing sweet taarab songs during the wedding festivity."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 24-3).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Bwana harusi alivalia kanzu nyeupe nadhifu ya hariri na kofia ya kudarizi iliyotengenezwa kwa ufundi wa hali ya juu.",
+          "reading": "Bwa-na ha-ru-si ali-va-lia ka-nzu nye-u-pe na-dhi-fu ya ha-ri-ri na ko-fia ya ku-da-ri-zi ili-yo-te-nge-ne-zwa kwa ufu-ndi wa ha-li ya ju-u. [ˈbwɑnɑ hɑˈrusi ɑlivɑˈliɑ ˈkɑnzu ˈɲɛupɛ nɑˈðifu jɑ hɑˈriri nɑ kɔˈfiɑ jɑ kudɑˈrizi ilijɔtɛŋɡɛˈnɛzwɑ kwɑ uˈfundi wɑ ˈhɑli jɑ ˈʤuː] (BWAH-nah hah-ROO-see ah-lee-vah-LEE-ah KAHN-zoo NYAY-oo-pay nah-THEE-foo yah hah-REE-ree nah koh-FEE-ah yah koo-dah-REE-zee ee-lee-yoh-tayn-gay-NAY-zwah kwah oo-FOON-dee wah HAH-lee yah JOO-oo)",
+          "translation": "The bridegroom donned an immaculate white silk tunic [kanzu] and a hand-embroidered cap [kofia ya kudarizi] crafted with supreme skill."
+        },
+        {
+          "target": "Muziki wa taarab unachanganya ushairi wa vina na ala za udi na kanuni ili kuwasilisha hisia za mapenzi na maadili ya jamii.",
+          "reading": "Mu-zi-ki wa ta-a-rab una-cha-nga-nya usha-i-ri wa vi-na na a-la za u-di na ka-nu-ni i-li ku-wa-si-li-sha hi-sia za ma-pe-nzi na ma-a-di-li ya ja-mi-i. [muˈziki wɑ tɑːˈrɑb unɑtʃɑˈŋɡɑɲɑ uʃɑˈiri wɑ ˈvinɑ nɑ ˈɑlɑ zɑ ˈudi nɑ kɑˈnuni ˈili kuwɑsiˈliʃɑ hiˈsiɑ zɑ mɑˈpɛnzi nɑ mɑɑˈdili jɑ ʤɑˈmiː] (moo-ZEE-kee wah tah-ah-RAHB oo-nah-chahn-GAH-nyah oo-shah-EE-ree wah VEE-nah nah AH-lah zah OO-dee nah kah-NOO-nee EE-lee koo-wah-see-LEE-shah hee-SEE-ah zah mah-PAYN-zee nah mah-ah-DEE-lee yah jah-MEE-ee)",
+          "translation": "Taarab music harmonizes rhymed poetry with string instruments like the oud and qanun to express feelings of romance and societal morals."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Mavazi na Sanaa: Kanga (leso yenye ujumbe), Kanzu (white male tunic), Kofia ya kudarizi (embroidered cap), Taarab (classical coastal orchestra)!"
+      ],
+      "culturalNotes": [
+        "Kanga za Kiswahili hutumika kama njia ya mawasiliano ya hisia za heshima, shukrani, au onyo la kistaarabu kupitia ujumbe ulioandikwa chini ya kanga."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Hudhurungi\":",
+          "prompt": "Kipande cha kitambaa cha pamba kinachovaliwa na wanawake wa Kiswahili chenye maandishi ya methali au ujumbe wa hekima chini kinaitwaje?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 24.3.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Waridi»",
-            "Mpangilio usio sahihi wa viambishi katika «Urujuani»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kubwa»"
+            "Kanga (au Leso yenye jina/ujumbe - Correct cultural garment)",
+            "Sweta ya sufu",
+            "Koti la mvua",
+            "Glavu za baridi"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Kanga» (leso) ndicho vazi maarufu lenye maandishi ya methali au misemo chini."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Hudhurungi\":",
+          "prompt": "Muziki wa asili ya pwani ya Waswahili unaotumia ala za udi, kanuni, na mashairi ya kimapokeo unaitwaje?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 24.3.",
-            "Mpangilio usio sahihi wa viambishi katika «Urujuani»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kubwa»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Waridi»"
+            "Taarab (Classical coastal orchestral music - Correct genre)",
+            "Muziki wa Rock",
+            "Reggae",
+            "Muziki wa Techno"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Taarab» ni aina ya muziki wa kiasili wa pwani wenye ala za udi, kanuni, zeze na mashairi yenye vina na mizani."
         }
       ]
     },
@@ -10113,17 +10142,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Hudhurungi\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha iliyo sahihi ya mavazi na sanaa za kitamaduni za jamii ya Waswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 24.3.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kubwa»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Waridi»",
-            "Mpangilio usio sahihi wa viambishi katika «Urujuani»"
+            "Mavazi: Kanga, Kitenge, Kanzu, Kofia ya kudarizi, Kikoi. Muziki: Taarab (udi, kanuni, ushairi wa sauti).",
+            "Mavazi ya Waswahili hayajumuishi kanga wala kanzu.",
+            "Taarab ni mtindo wa kuogelea baharini pekee.",
+            "Wanaume wa Kiswahili huvaa buibui na kofia ya chuma."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Mavazi sahihi: Kanga, Kitenge, Kanzu, Kofia ya kudarizi, Kikoi. Muziki: Taarab."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u24-l4": {
@@ -10131,53 +10161,62 @@
     "subject": "swahili",
     "unit": 24,
     "lessonNumber": 4,
-    "title": "Utamaduni wa Waswahili na Pwani ya Afrika Mashariki (Culture) (Part 4)",
+    "title": "Vyakula vya Asili ya Pwani na Viungo vya Visiwani (Coastal Cuisine & Spice Gastronomy)",
     "level": "B2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 24.4) with authentic precision.",
+    "objective": "Kuelewa msamiati wa upishi wa pwani ya Waswahili, matumizi ya nazi (tui la nazi), mapishi ya viungo (biriani, pilau, mahamri, urojo), na kilimo cha karafuu na viungo vya Zanzibar.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Mapishi ya Asili na Viungo vya Waswahili (Swahili Culinary Traditions & Spices):\n\nUpishi wa Waswahili unasifika kwa mchanganyiko wa kipekee wa tui la nazi, samaki wabichi wa baharini, na viungo safi vya asili:\n\n1. **Msamiati wa Vyakula Maarufu vya Pwani**:\n   - **Pilau**: Wali uliopikwa na mchanganyiko wa viungo (iliki, mdalasini, jira, vitunguu swaumu) na nyama ya ng'ombe au kuku.\n   - **Biriani**: Wali wa basmati uliotiwa rangi za asili (zafarani) unaopakuliwa kando na mchuzi mzito wa nyama yenye viungo.\n   - **Mahamri (Maandazi ya tui na iliki)**: Maandazi yaliyokandiwa tui la nazi na unga wa iliki.\n   - **Urojo (Mix ya Zanzibar)**: Supu ya unga wa dengu yenye ladha ya ukwaju, iliyotiwa kachori, mishikaki, na bisi za mihogo.\n   - **Halua ya Unguja**: Pipi laini na nzito ya asili iliyotengenezwa kwa sukari, unga wa ngano, zafarani na lozi.\n\n2. **Viungo vya Visiwani (Spices of the Swahili Coast)**:\n   - **Karafuu (Cloves)**: Zao kuu la kibiashara la Zanzibar na Pemba.\n   - **Mdalasini (Cinnamon)**: Gome la mti lenye harufu nzuri tamu.\n   - **Iliki (Cardamom)**: Mbegu zenye ladha kali na harufu ya kuvutia katika chai na pilau.\n   - **Bizari (Turmeric / Cumin)**: Unga wa manjano unaoleta ladha na rangi ya dhahabu.\n   - **Pilipili manga (Black pepper)** na **Tangawizi (Ginger)**.\n\n3. **Vitenzi vya Upishi wa Kiswahili**:\n   - *Kamua tui* (squeeze coconut milk), *kanda unga* (knead dough), *injika chungu* (put pot on stove), *epua* (remove from heat), *kaanga* (fry), *choma* (roast/grill).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 24.4.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 24."
+          "target": "Mpishi alikamua tui zito la nazi na kulichanganya na iliki, mdalasini, na karafuu kuandaa biriani tamu ya kuku.",
+          "reading": "Mpi-shi ali-ka-mua tu-i zi-to la na-zi na ku-li-cha-nga-nya na ili-ki, mda-la-si-ni, na ka-ra-fu-u ku-a-ndaa bi-ria-ni ta-mu ya ku-ku. [ˈmpiʃi ɑlikɑˈmuɑ ˈtui ˈzitɔ lɑ ˈnɑzi nɑ kulitʃɑˈŋɡɑɲɑ nɑ iˈliki mdɑlɑˈsini nɑ kɑrɑˈfuː kuɑˈndɑː biriˈɑni ˈtɑmu jɑ ˈkuku] (M-PEE-shee ah-lee-kah-MOO-ah TOO-ee ZEE-toh lah NAH-zee nah koo-lee-chahn-GAH-nyah nah ee-LEE-kee, m-dah-lah-SEE-nee, nah kah-rah-FOO-oo koo-ahn-DAH-ah bee-ree-AH-nee TAH-moo yah KOO-koo)",
+          "translation": "The chef squeezed thick coconut cream [tui zito la nazi] and blended it with cardamom, cinnamon, and cloves [karafuu] to prepare delicious chicken biryani."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 24-4).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Asubuhi ya sikukuu, harufu nzuri ya mahamri moto, chai ya tangawizi, na chapati laini ilitanda katika mitaa yote ya Mji Mkongwe.",
+          "reading": "Asu-bu-hi ya si-ku-ku-u, ha-ru-fu nzu-ri ya ma-ha-mri mo-to, cha-i ya ta-nga-wi-zi, na cha-pa-ti la-i-ni ili-ta-nda ka-ti-ka mi-ta-a yo-te ya Mji Mko-ngwe. [ɑsubuˈhi jɑ sikuˈkuː hɑˈrufu ˈnzuri jɑ mɑˈhɑmri ˈmɔtɔ ˈtʃɑi jɑ tɑŋɡɑˈwizi nɑ tʃɑˈpɑti lɑˈini ilitɑˈndɑ ˈkɑtikɑ miˈtɑː ˈjɔtɛ jɑ ˈmʤi ˈmkɔŋɡwɛ] (ah-soo-BOO-hee yah see-koo-KOO-oo, hah-ROO-foo N-ZOO-ree yah mah-HAHM-ree MOH-toh, CHAH-ee yah tahn-gah-WEE-zee, nah chah-PAH-tee lah-EE-nee ee-lee-TAHN-dah KAH-tee-kah mee-TAH-ah YOH-tay yah M-JEE M-KOHN-gway)",
+          "translation": "On the festival morning, the delightful fragrance of hot mahamri pastries, ginger tea, and soft flatbreads suffused every street in Stone Town."
+        },
+        {
+          "target": "Kilimo cha karafuu kimefanya visiwa vya Zanzibar na Pemba kujulikana kimataifa kama 'Visiwa vya Viungo' kwa karne nyingi.",
+          "reading": "Ki-li-mo cha ka-ra-fu-u kime-fa-nya vi-si-wa vya Za-nzi-bar na Pe-mba ku-ju-li-ka-na ki-ma-ta-i-fa ka-ma Vi-si-wa vya Vi-u-ngo kwa ka-rne nyi-ngi. [kiˈlimɔ tʃɑ kɑrɑˈfuː kimɛˈfɑɲɑ viˈsiwɑ vjɑ zɑnziˈbɑr nɑ ˈpɛmbɑ kuʤuliˈkɑnɑ kimɑtɑˈifɑ ˈkɑmɑ viˈsiwɑ vjɑ viˈuŋɡɔ kwɑ ˈkɑrnɛ ˈɲiŋɡi] (kee-LEE-moh chah kah-rah-FOO-oo kee-may-FAH-nyah vee-SEE-wah vyah zahn-zee-BAHR nah PAYM-bah koo-joo-lee-KAH-nah kee-mah-tah-EE-fah KAH-mah vee-SEE-wah vyah vee-OON-goh kwah KAHR-nay NYEEN-gee)",
+          "translation": "Clove cultivation has caused the islands of Zanzibar and Pemba to be celebrated internationally as the 'Spice Islands' for centuries."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Vyakula na Viungo: Pilau (spiced rice), Biriani (layered spiced rice), Mahamri (coconut-cardamom pastries), Karafuu (cloves), Iliki (cardamom), Mdalasini (cinnamon)!"
+      ],
+      "culturalNotes": [
+        "Kupika kwa tui la nazi ni alama kuu inayotofautisha mapishi ya Waswahili na mapishi ya maeneo ya bara barani Afrika."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Waridi\":",
+          "prompt": "Zao gani maarufu la kiungo lililofanya visiwa vya Zanzibar na Pemba viitwe 'Visiwa vya Viungo' duniani kote?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 24.4.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Urujuani»",
-            "Mpangilio usio sahihi wa viambishi katika «Kubwa»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Ndogo»"
+            "Karafuu (Cloves - The iconic spice of Zanzibar and Pemba)",
+            "Ngano ya kizungu",
+            "Mpareto",
+            "Shayiri"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Karafuu» (cloves) ndilo zao kuu la kihistoria la Zanzibar lililoleta umaarufu wa Visiwa vya Viungo."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Waridi\":",
+          "prompt": "Kioevu kizito cheupe kinachotolewa kwenye tunda la nazi baada ya kukunwa na kukamuliwa kwa maji kidogo kinaitwaje?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 24.4.",
-            "Mpangilio usio sahihi wa viambishi katika «Kubwa»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Ndogo»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Urujuani»"
+            "Tui la nazi (Coconut milk / cream - Essential Swahili culinary base)",
+            "Mafuta ya petroli",
+            "Maji ya mto",
+            "Juisi ya tufaha"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Tui la nazi» ni kiungo kikuu katika mapishi ya mboga, wali, na mahamri ya Waswahili."
         }
       ]
     },
@@ -10185,17 +10224,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Waridi\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha iliyo sahihi ya vyakula vya asili na viungo vya upishi wa Waswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 24.4.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Ndogo»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Urujuani»",
-            "Mpangilio usio sahihi wa viambishi katika «Kubwa»"
+            "Vyakula: Pilau, Biriani, Mahamri, Urojo, Halua. Viungo: Karafuu, Iliki, Mdalasini, Bizari, Pilipili manga.",
+            "Vyakula vya Waswahili vinapikwa bila kutumia chumvi wala viungo vyovyote.",
+            "Zanzibar inajulikana kwa uzalishaji wa barafu ya asili pekee.",
+            "Tui la nazi hutolewa kwenye mizizi ya mti wa mchungwa."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Orodha sahihi ya mapishi na viungo: Pilau, Biriani, Mahamri, Urojo, Halua; Karafuu, Iliki, Mdalasini, Bizari."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u24-l5": {
@@ -10203,53 +10243,62 @@
     "subject": "swahili",
     "unit": 24,
     "lessonNumber": 5,
-    "title": "Utamaduni wa Waswahili na Pwani ya Afrika Mashariki (Culture) (Part 5)",
+    "title": "Muhtasari wa Utamaduni wa Waswahili na Ustaarabu wa Pwani (Swahili Coastal Civilization Grand Synthesis)",
     "level": "B2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 24.5) with authentic precision.",
+    "objective": "Kuunganisha mada zote za Unit 24: usanifu wa majengo ya mawe na matumbawe, maisha ya kibaharia na majahazi, mavazi ya kanga na kanzu, muziki wa taarab, pamoja na upishi wa tui la nazi na viungo katika mfumo jumuishi wa ustaarabu wa Waswahili.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Muhtasari Mkuu wa Ustaarabu wa Waswahili (Coastal Civilization Master Matrix):\n\n1. **Misingi Mikuu ya Utamaduni wa Waswahili**:\n   - **Usanifu wa Majengo**: Miji Mkongwe (Lamu, Zanzibar, Kilwa, Mombasa), kuta za matumbawe, chokaa ya asili, baraza, na milango ya nakshi za mbao.\n   - **Uanamaji na Biashara**: Majahazi, ngalawa zenye mirefeji, nahodha, upepo wa kaskazi na upepo wa kusi katika Bahari ya Hindi.\n   - **Mavazi na Adabu**: Kanga zenye methali, kitenge, kanzu nyeupe, kofia za kudarizi, na heshima ya kijamii ya 'utu na heshima'.\n   - **Sanaa na Muziki**: Taarab ya kiasili (udi, kanuni, mashairi ya kimapokeo), ngoma za harusi, na sherehe za kifamilia.\n   - **Mapishi na Gastronomia**: Matumizi ya tui la nazi, biriani, pilau, mahamri, urojo, na viungo vya visiwa kama vile karafuu, iliki, na mdalasini.\n\n2. **Umuhimu wa Kitamaduni katika Kujifunza Kiswahili**:\n   - Utamaduni huu ndio uliozaa misemo, msamiati na falsafa ya lugha ya Kiswahili, ikifanya uelewa wa tamaduni hizi kuwa nguzo muhimu kwa mwanafunzi anayeelekea kiwango cha C1.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 24.5.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 24."
+          "target": "Ustaarabu wa Waswahili unadhihirisha utajiri wa kipekee wa usanifu wa majengo ya mawe, mila za ukarimu, sanaa ya taarab, na lugha inayowaunganisha mamilioni ya watu duniani.",
+          "reading": "Usta-a-ra-bu wa Wa-swa-hi-li una-dhi-hi-ri-sha uta-ji-ri wa ki-pe-ke-e wa usa-ni-fu wa maju-mba ya ma-we, mi-la za uka-ri-mu, sa-naa ya ta-a-rab, na lu-gha ina-yo-wa-u-ngani-sha ma-mi-lio-ni ya wa-tu du-nia-ni. [ustɑːˈrɑbu wɑ wɑswɑˈhili unɑðihiˈriʃɑ utɑˈʤiri wɑ kipɛˈkɛː wɑ usɑˈnifu wɑ mɑˈʤumbɑ jɑ ˈmɑwɛ ˈmilɑ zɑ ukɑˈrimu sɑˈnɑː jɑ tɑːˈrɑb nɑ ˈluɣɑ inɑjɔwɑuŋɡɑˈniʃɑ mɑmiliˈɔni jɑ ˈwɑtu duniˈɑni] (oos-tah-ah-RAH-boo wah wah-swah-HEE-lee oo-nah-thee-hee-REE-shah oo-tah-JEE-ree wah kee-pay-KAY-ay wah oo-sah-NEE-foo wah mah-JOOM-bah yah MAH-way, MEE-lah zah oo-kah-REE-moo, sah-NAH-ah yah tah-ah-RAHB, nah LOO-gah ee-nah-yoh-wah-oon-gah-NEE-shah mah-mee-lee-OH-nee yah WAH-too doo-nee-AH-nee)",
+          "translation": "The Swahili civilization demonstrates a unique wealth of stone architecture, hospitable traditions, taarab arts, and a language uniting millions globally."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 24-5).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Kuanzia pwani ya Lamu hadi Zanzibar na Kilwa, urithi wa kiutamaduni wa Waswahili unalinda historia ya biashara ya baharini na hekima za kale za kijamii.",
+          "reading": "Ku-a-nzia pwa-ni ya La-mu ha-di Za-nzi-bar na Ki-lwa, uri-thi wa kiu-ta-ma-du-ni wa Wa-swa-hi-li una-li-nda hi-sto-ria ya bia-sha-ra ya ba-ha-ri-ni na he-ki-ma za ka-le za ki-ja-mi-i. [kuˈɑnziɑ ˈpwɑni jɑ ˈlɑmu ˈhɑdi zɑnziˈbɑr nɑ ˈkilwɑ uˈriθi wɑ kiutɑmɑˈduni wɑ wɑswɑˈhili unɑˈlindɑ hisˈtɔriɑ jɑ biɑˈʃɑrɑ jɑ bɑhɑriˈni nɑ hɛˈkimɑ zɑ ˈkɑlɛ zɑ kiʤɑˈmiː] (koo-AHN-zee-ah PWAH-nee yah LAH-moo HAH-dee zahn-zee-BAHR nah KEEL-wah, oo-REE-thee wah kee-oo-tah-mah-DOO-nee wah wah-swah-HEE-lee oo-nah-LEEN-dah hees-TOH-ree-ah yah bee-ah-SHAH-rah yah bah-hah-ree-NEE nah hay-KEE-mah zah KAH-lay zah kee-jah-MEE-ee)",
+          "translation": "From the Lamu coast to Zanzibar and Kilwa, Swahili cultural heritage safeguards the history of seafaring commerce and ancient communal wisdom."
+        },
+        {
+          "target": "Kujifunza lugha ya Kiswahili kupitia utamaduni wake huimarisha uelewa wa kina wa falsafa ya utu, adabu ya barazani, na mapishi tajiri ya visiwa vya Afrika Mashariki.",
+          "reading": "Ku-ji-fu-nza lu-gha ya Ki-swa-hi-li ku-pi-tia uta-ma-du-ni wa-ke hui-ma-ri-sha ue-le-wa wa ki-na wa fa-lsa-fa ya u-tu, ada-bu ya ba-ra-za-ni, na ma-pi-shi ta-ji-ri ya vi-si-wa vya Afri-ka Ma-sha-ri-ki. [kuʤiˈfunzɑ ˈluɣɑ jɑ kiswɑˈhili kupiˈtiɑ utɑmɑˈduni ˈwɑkɛ huimɑˈriʃɑ uɛˈlɛwɑ wɑ ˈkinɑ wɑ fɑlsɑˈfɑ jɑ ˈutu ɑˈdɑbu jɑ bɑrɑzɑˈni nɑ mɑˈpiʃi tɑˈʤiri jɑ viˈsiwɑ vjɑ ˈɑfrikɑ mɑʃɑˈriki] (koo-jee-FOON-zah LOO-gah yah kee-swah-HEE-lee koo-pee-TEE-ah oo-tah-mah-DOO-nee WAH-kay hoo-ee-mah-REE-shah oo-ay-LAY-wah wah KEE-nah wah fahl-SAH-fah yah OO-too, ah-DAH-boo yah bah-rah-zah-NEE, nah mah-PEE-shee tah-JEE-ree yah vee-SEE-wah vyah AHF-ree-kah mah-shah-REE-kee)",
+          "translation": "Studying Swahili through its cultural heritage deepens comprehension of the philosophy of personhood [utu], veranda etiquette [adabu ya barazani], and the rich culinary traditions of East African islands."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Utamaduni wa Waswahili Grand Synthesis: Majengo ya mawe & baraza; Majahazi & upepo wa kusi/kaskazi; Kanga & Taarab; Tui la nazi & karafuu za Zanzibar!"
+      ],
+      "culturalNotes": [
+        "Lugha ya Kiswahili ndiyo lugha rasmi pekee yenye asili ya Kiafrika inayotambuliwa na Umoja wa Mataifa (UN) ikiwa na Siku ya Kimataifa ya Kiswahili (Julai 7)."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Urujuani\":",
+          "prompt": "Mchanganyiko upi unawakilisha nguzo kuu za ustaarabu wa Waswahili wa pwani ya Afrika Mashariki?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 24.5.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kubwa»",
-            "Mpangilio usio sahihi wa viambishi katika «Ndogo»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Ndefu»"
+            "Usanifu wa mawe ya matumbawe, usafiri wa majahazi, mavazi ya kanga/kanzu, muziki wa taarab, na mapishi ya tui la nazi na viungo (Comprehensive cultural pillars)",
+            "Mahema ya barafu na uwindaji wa tembo pekee",
+            "Magari ya kisasa ya kielektroniki bila lugha wala mila",
+            "Muziki wa hip-hop wa Marekani na vyakula vya makopo"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Ustaarabu wa Waswahili unajengwa juu ya usanifu wa matumbawe, majahazi, kanga/kanzu, taarab, na mapishi ya nazi na viungo."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Urujuani\":",
+          "prompt": "Sentensi ipi inajumuisha msamiati wa usanifu wa Kiswahili na mapishi ya pwani kwa ufasaha?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 24.5.",
-            "Mpangilio usio sahihi wa viambishi katika «Ndogo»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Ndefu»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kubwa»"
+            "Wageni walikaribishwa barazani mwa nyumba ya matumbawe na kutengewa sinia kubwa ya biriani ya kuku iliyonukia iliki na karafuu. (Guests were welcomed on the stone veranda of the coral house and served a grand platter of chicken biryani fragrant with cardamom and cloves.)",
+            "Wageni walikaa garini na kula mkate mkavu bila kinywaji chochote.",
+            "Nyumba za Waswahili hazina milango wala mabaraza ya kukaribisha wageni.",
+            "Upishi wa pwani hauna uhusiano na viungo vya Zanzibar."
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«barazani», «nyumba ya matumbawe», «biriani ya kuku», na «iliki na karafuu» zote zinaunganisha ustaarabu wa usanifu na chakula cha Kiswahili."
         }
       ]
     },
@@ -10257,17 +10306,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Urujuani\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 24 ya Utamaduni wa Waswahili na Pwani ya Afrika Mashariki:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 24.5.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Ndefu»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kubwa»",
-            "Mpangilio usio sahihi wa viambishi katika «Ndogo»"
+            "Kuanzia majumba ya matumbawe na milango ya nakshi ya Mji Mkongwe, safari za majahazi kwa upepo wa kusi, kanga maridadi na nyimbo za taarab, hadi biriani ya tui la nazi na karafuu za Zanzibar, ustaarabu wa Waswahili unadhihirisha urithi mtukufu wa Afrika Mashariki. (Grand synthesis of architecture, navigation, attire, music, and cuisine.)",
+            "Waswahili hawakuwa na utamaduni wowote wa kipekee katika historia.",
+            "Lugha ya Kiswahili ilianza miaka kumi iliyopita kwenye mtandao.",
+            "Visiwa vya Zanzibar havina historia ya viungo wala majahazi."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Kuanzia majumba ya matumbawe na milango ya nakshi ya Mji Mkongwe, safari za majahazi kwa upepo wa kusi, kanga maridadi na nyimbo za taarab, hadi biriani ya tui la nazi na karafuu za Zanzibar, ustaarabu wa Waswahili unadhihirisha urithi mtukufu wa Afrika Mashariki.» inajumuisha vipengele vyote vya ustaarabu wa Waswahili kwa utajiri kamili wa kisarufi na kiutamaduni."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u25-l1": {
