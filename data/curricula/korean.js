@@ -7843,56 +7843,65 @@
     "subject": "korean",
     "unit": 17,
     "lessonNumber": 1,
-    "title": "명사형 어미(-기, -(으)ㅁ, -는 것) (Nominalization) (Part 1)",
+    "title": "구어적 동작 명사화 어미 ('-는 것')",
     "level": "B2",
-    "objective": "Comprehensive mastery of 명사형 전성어미 (Nominalization: -기 / -는 것).",
+    "objective": "동사/형용사 구를 '-(으)ㄴ/-는/-(으)ㄹ 것'으로 명사절화하여 문장의 주어, 목적어, 보어로 활용하는 구어 명사화 구문을 마스터한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 명사형 어미(-기, -(으)ㅁ, -는 것) (Nominalization) » (제1절)의 핵심 언어 요소와 명사형 전성어미 (Nominalization: -기 / -는 것)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한국어에서 절(Clause) 전체를 명사처럼 바꾸어 문장 성분(주어, 목적어 등)으로 기능하게 만드는 가장 일반적인 구어 방식이 바로 관형형 + 의존명사 '것(thing/fact)' 결합 구문입니다.\n\n1. 형태 및 시제 결합:\n- 현재 동작 명사화: 동사 + -는 것 (한국어를 배우는 것, 운동하는 것)\n- 과거 완료 명사화: 동사 + -(으)ㄴ 것 (어제 친구를 만난 것, 지난주에 시험을 본 것)\n- 미래 예정 명사화: 동사 + -(으)ㄹ 것 (내일 회의에 참석할 것)\n- 형용사 상태 명사화: 형용사 + -(으)ㄴ 것 (마음이 편안한 것, 건강한 것)\n\n2. 격조사 결합 및 구어 축약형 (Colloquial Contractions):\n- 주격: -는 것 + 이 → **-는 게** (\"혼자 여행하는 게 재미있어요.\")\n- 목적격: -는 것 + 을 → **-는 걸** (\"음악 듣는 걸 좋아해요.\")\n- 서술격/보어: -는 것 + 이에요 → **-는 거예요** (\"제 꿈은 세계 일주를 하는 거예요.\")\n- 주제격: -는 것 + 은 → **-는 건** (\"매일 일기를 쓰는 건 쉬운 일이 아니에요.\")",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (17.1.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "외국어를 유창하게 구사하는 것은 끊임없는 매일의 연습과 노력을 필요로 합니다.",
+          "reading": "Oeguk-eo-reul yuchanghage gusa-haneun geos-eun kkeunimeomneun maeil-ui yeonseup-gwa noryeok-eul piryoro hamnida.",
+          "translation": "Speaking a foreign language fluently requires constant daily practice and effort (Subject clause with '-는 것은')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (17.1.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "퇴근한 후에 공원에서 신선한 공기를 마시며 산책하는 것을 제일 좋아해요.",
+          "reading": "Toegeunhan hu-e gongwon-eseo sinseonhan gonggi-reul masimyeo sanchaekhaneun geos-eul jeil joahaeyo.",
+          "translation": "I like walking in the park breathing fresh air the most after leaving work (Object clause with '-는 것을')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (17.1.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "매일 아침 일찍 일어나는 게 처음에는 힘들었지만 지금은 완전히 익숙해졌습니다.",
+          "reading": "Maeil achim iljjik ireonaneun ge cheoeum-eneun himdeureotjiman jigeum-eun wanjeonhi iksukhaejyeotseumnida.",
+          "translation": "Waking up early every morning was hard at first, but now I have become completely used to it (Subject contraction '-는 게')."
+        },
+        {
+          "target": "제 주말 취미는 집에서 따뜻한 차를 마시며 고전 영화를 감상하는 거예요.",
+          "reading": "Je jumal chwimi-neun jip-eseo ttatteuthan cha-reul masimyeo gojeon yeonghwa-reul gamsanghaneun geoyeyo.",
+          "translation": "My weekend hobby is watching classic movies at home while drinking warm tea (Predicate contraction '-는 거예요')."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "구어 명사화는 '것'! 주어는 '-는 게', 목적어는 '-는 걸', 서술어는 '-는 거예요'!"
+      ],
+      "culturalNotes": [
+        "한국어 일상 회화에서는 '-는 것이'나 '-는 것을'처럼 길게 발음하기보다 '-는 게', '-는 걸', '-는 건'으로 축약하여 말하는 것이 훨씬 자연스럽고 세련되게 들립니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 명사형 전성어미 (Nominalization: -기 / -는 것) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 1)?",
+          "prompt": "'음악을 듣다(listen to music)'를 주어로 만들어 '즐겁다'와 연결할 때 가장 자연스러운 구어 표현은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (17.1.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (17.1.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (17.1.3)."
+            "음악을 듣는 게 즐거워요.",
+            "음악을 듣는 기 즐거워요.",
+            "음악을 듣음이 즐거워요."
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "구어에서 주어 역할을 하는 명사화 축약형은 '-는 게(듣는 게)'입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 명사형 어미(-기, -(으)ㅁ, -는 것) (Nominalization) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 1):",
+          "prompt": "'한국어 공부를 하다'를 목적어('좋아하다')와 자연스럽게 연결한 구어 문장은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (17.1.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (17.1.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (17.1.3)."
+            "한국어 공부하는 걸 좋아해요.",
+            "한국어 공부하는 게 좋아해요.",
+            "한국어 공부하기를 좋아해요이지만 비구어적이에요."
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "목적어 역할을 하는 구어 명사화 축약형은 '-는 걸(공부하는 걸)'입니다."
         }
       ]
     },
@@ -7900,14 +7909,25 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 명사형 전성어미 (Nominalization: -기 / -는 것) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 17-1)?",
+          "prompt": "'제 취미는 주말마다 자전거를 _____.' 빈칸에 들어갈 알맞은 서술형 구어 명사화 형태는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (17.1.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (17.1.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (17.1.3)."
+            "타는 거예요",
+            "타는 걸",
+            "타는 게"
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR B2 target-language standard."
+          "explanation": "문장의 보어/서술어 자리이므로 '-는 거예요(타는 거예요)'가 정확합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'한국어 배우는 것이 재미있어요'(Learning Korean is fun)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "한국어 배우는 것이 재미있어요.",
+            "한국어 배우는 것이 재미있어요",
+            "한국어 배우는 게 재미있어요.",
+            "한국어 배우는 게 재미있어요"
+          ],
+          "explanation": "한국어 + 배우는 것이(배우는 게) + 재미있어요 = 한국어 배우는 것이 재미있어요."
         }
       ]
     }
@@ -7917,56 +7937,65 @@
     "subject": "korean",
     "unit": 17,
     "lessonNumber": 2,
-    "title": "명사형 어미(-기, -(으)ㅁ, -는 것) (Nominalization) (Part 2)",
+    "title": "격식적 행위/활동 명사화 어미 ('-기')",
     "level": "B2",
-    "objective": "Comprehensive mastery of 명사형 전성어미 (Nominalization: -기 / -는 것).",
+    "objective": "동사/형용사 어간에 '-기'를 붙여 행위 자체를 범주화하고, 주요 문법 관용구(-기 시작하다, -기 전에, -기 위해, -기 바랍니다)를 완벽하게 구사한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 명사형 어미(-기, -(으)ㅁ, -는 것) (Nominalization) » (제2절)의 핵심 언어 요소와 명사형 전성어미 (Nominalization: -기 / -는 것)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "'-기'는 동사나 형용사 어간에 직접 붙어 어떤 행위나 상태를 추상적 활동 단위(Activity / Category)로 명사화하는 전성어미입니다.\n\n1. 기본 명사화 범주:\n- 기능별 영역 명칭: 읽기 (Reading), 듣기 (Listening), 쓰기 (Writing), 말하기 (Speaking)\n- 일과 및 계획: 달리기, 장보기, 청소하기, 복습하기\n\n2. 주요 필수 관용 구문 (Essential Grammatical Formulas):\n- '-기 시작하다' (Begin to do): \"지난달부터 한국어 학원에 다니기 시작했어요.\"\n- '-기 전에' (Before doing): \"식사하기 전에 손을 깨끗이 씻으세요.\"\n- '-기 위해(서)' (In order to do): \"자격증을 취득하기 위해 열심히 공부합니다.\"\n- '-기 쉽다 / 어렵다' (Easy / Difficult to do): \"이 설명서는 초보자가 이해하기 쉬워요.\"\n- '-기 바랍니다 / 희망하다' (Please / Hope): \"정시에 도착해 주시기 바랍니다.\"",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (17.2.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "외국어 학습의 네 가지 핵심 영역은 듣기, 말하기, 읽기, 쓰기입니다.",
+          "reading": "Oeguk-eo hakseup-ui ne gaji haeksim yeong-yeok-eun deutgi, malhagi, ilkgi, sseugi-imnida.",
+          "translation": "The four core domains of foreign language learning are listening, speaking, reading, and writing ('-기' nominalization)."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (17.2.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "회의를 시작하기 전에 배부해 드린 유인물을 꼼꼼히 확인해 주시기 바랍니다.",
+          "reading": "Hooeui-reul sijakhagi jeon-e baebuhae deurin yuinmul-eul kkomkkomhi hwaginhae jusigi baramnida.",
+          "translation": "Please check thoroughly the handouts distributed before starting the meeting ('-기 전에' + '-기 바랍니다')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (17.2.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "올해 초부터 건강을 지키기 위해 매일 아침마다 조깅을 하기 시작했습니다.",
+          "reading": "Olhae cho-buteo geon-gang-eul jikigi wihae maeil achim-mada joging-eul hagi sijakhaetseumnida.",
+          "translation": "Since early this year, I began jogging every morning in order to protect my health ('-기 위해' + '-기 시작하다')."
+        },
+        {
+          "target": "이 단어는 발음이 까다로워서 외국인이 정확하게 발음하기 어렵습니다.",
+          "reading": "I daneo-neun bareum-i kkadarrowoseo oeguk-in-i jeonghwakhage bareumhagi eoryeopseumnida.",
+          "translation": "Because this word has tricky pronunciation, it is difficult for foreigners to pronounce accurately ('-기 어렵다')."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "읽기·쓰기 활동 이름엔 '-기'! 시작하고(-기 시작하다), 전에도(-기 전에), 위해도(-기 위해) '-기'!"
+      ],
+      "culturalNotes": [
+        "한국어능력시험(TOPIK) 시험 영역이나 학교 교재 목차는 항상 '-기(듣기, 읽기, 쓰기)' 형태로 표기되며, 공식 안내 방송에서 정중한 요청을 할 때도 '-기 바랍니다'를 필수적으로 사용합니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 명사형 전성어미 (Nominalization: -기 / -는 것) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 2)?",
+          "prompt": "'출발하다(depart)' 앞에 '전에(before)'를 결합할 때 올바른 형태는 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (17.2.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (17.2.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (17.2.3)."
+            "출발하기 전에",
+            "출발하는 전에",
+            "출발함 전에"
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "'전에' 앞에는 명사형 어미 '-기'가 결합하여 '출발하기 전에'가 됩니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 명사형 어미(-기, -(으)ㅁ, -는 것) (Nominalization) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 2):",
+          "prompt": "공식 안내문에서 승객들에게 착석을 요청하는 가장 격식 있는 표현은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (17.2.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (17.2.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (17.2.3)."
+            "자리에 앉아 주시기 바랍니다.",
+            "자리에 앉아 주는 것을 바랍니다.",
+            "자리에 앉아 줌을 바랍니다."
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "공식적 요청 관용구는 '-아/어 주시기 바랍니다'가 표준입니다."
         }
       ]
     },
@@ -7974,14 +8003,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 명사형 전성어미 (Nominalization: -기 / -는 것) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 17-2)?",
+          "prompt": "'한국 문화를 깊이 _____ 위해 한국 역사책을 읽고 있습니다.' 빈칸에 알맞은 형태는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (17.2.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (17.2.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (17.2.3)."
+            "이해하기",
+            "이해하는",
+            "이해함"
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR B2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "목적을 나타내는 '위해' 앞에는 '-기(이해하기 위해)'가 결합합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'식사하기 전에 손을 씻어요'(I wash my hands before eating)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "식사하기 전에 손을 씻어요.",
+            "식사하기 전에 손을 씻어요"
+          ],
+          "explanation": "식사하기 전에 + 손을 + 씻어요 = 식사하기 전에 손을 씻어요."
         }
       ]
     }
@@ -7991,56 +8029,65 @@
     "subject": "korean",
     "unit": 17,
     "lessonNumber": 3,
-    "title": "명사형 어미(-기, -(으)ㅁ, -는 것) (Nominalization) (Part 3)",
+    "title": "서면/공식 문서 종결 명사형 어미 ('-(으)ㅁ')",
     "level": "B2",
-    "objective": "Comprehensive mastery of 명사형 전성어미 (Nominalization: -기 / -는 것).",
+    "objective": "공식 공지, 서면 보고서, 시스템 메시지, 일정 메모에서 간결하고 객관적인 종결체로 사용되는 '-(으)ㅁ'의 형태론과 격식을 체득한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 명사형 어미(-기, -(으)ㅁ, -는 것) (Nominalization) » (제3절)의 핵심 언어 요소와 명사형 전성어미 (Nominalization: -기 / -는 것)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "'-(으)ㅁ'은 동사나 형용사 어간 끝에 결합하여 서술어 자체를 간결한 명사형 종결체(Noun-Ended Sentence Final Form)로 완결 짓는 서면 격식 어미입니다.\n\n1. 형태 결합 규칙:\n- 모음 종결 어간 or 'ㄹ' 받침 어간 + -ㅁ:\n  - 알다 → **앎** (삶과 앎)\n  - 살다 → **삶** (행복한 삶)\n  - 보다 → **봄** (일정 확인함)\n  - 없다 → 없음 (자료 없음)\n  - 있다 → 있음 (재고 있음)\n- 'ㄹ' 제외 자음 종결 어간 + -음:\n  - 먹다 → 먹음, 믿다 → 믿음, 겪다 → 겪음\n  - 웃다 → 웃음, 울다 → 울음\n- 과거 시제 선어말어미 결합: '-았/었음'\n  - 마감하다 → 마감하였음 / 마감했음 (접수 마감되었음)\n  - 변경되다 → 변경되었음 (일정 변경되었음)\n\n2. 주요 사용 맥락 (Key Contexts):\n- 회사 업무 일지 및 서면 보고: \"금일 15시 부서 회의 완료함.\"\n- 공식 게시판 공지: \"2026년도 신입사원 공채 접수 마감됨.\"\n- 스마트폰/앱 시스템 알림: \"읽지 않은 메시지 3건 있음.\"\n- 개인적 메모 및 일정 기록: \"오후 2시 거래처 미팅 있음.\"",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (17.3.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "[공지] 시스템 서버 정기 점검으로 인해 오늘 밤 자정부터 서비스 이용이 일시 중단됨.",
+          "reading": "[Gongji] Siseutem seobeo jeonggi jeomgeom-euro inhae oneul bam jajeong-buteo seobiseu iyong-i ilsi jungdandoem.",
+          "translation": "[Notice] Due to regular system server maintenance, service use will be temporarily suspended starting midnight tonight ('중단됨' formal notice noun ending)."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (17.3.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "금일 오전 회의 결과 주요 안건이 전원 일치로 통과되었음을 보고드립니다.",
+          "reading": "Geumil ojeon hoeui gyeolgwa juyo an-geon-i jeon-won ilchiro tonggwadoeeotseum-eul bogodeurimnida.",
+          "translation": "I report that the key agenda items were passed unanimously as a result of this morning's meeting ('통과되었음' past fact noun clause)."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (17.3.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "[알림] 요청하신 파일 다운로드가 정상적으로 완료되었음.",
+          "reading": "[Allim] Yocheonghasin pail daunrodeu-ga jeongsangjeog-euro wanryodoeeotseum.",
+          "translation": "[Alert] The download of the requested file has been successfully completed ('완료되었음')."
+        },
+        {
+          "target": "어려운 역경 속에서도 희망을 잃지 않는 굳은 믿음과 긍정적인 삶의 태도가 필요합니다.",
+          "reading": "Eoryeoun yeokgyeong sok-eseodo huimang-eul ilchi anneun gudeun mideum-gwa geungjeongjeogin sam-ui taedo-ga piryohamnida.",
+          "translation": "Firm faith not losing hope even amidst difficult adversity and a positive attitude toward life are needed ('믿음' faith, '삶' life)."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "공지사항, 시스템 알림, 메모 끝판왕은 '-(으)ㅁ'! 완료함, 마감됨, 있음, 없음!"
+      ],
+      "culturalNotes": [
+        "한국의 직장 내 메모나 메신저 업무 보고, SNS 캡션, 공식 공문서에서는 문장을 길게 끝내지 않고 '-(으)ㅁ' 체를 사용하여 신속성, 객관성, 정보 압축성을 극대화합니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 명사형 전성어미 (Nominalization: -기 / -는 것) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 3)?",
+          "prompt": "시스템 화면에 '재고가 없다'는 사실을 간결하게 표기할 때 가장 표준적인 명사형 종결 표기는?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (17.3.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (17.3.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (17.3.3)."
+            "재고 없음",
+            "재고 없기",
+            "재고 없는 것"
           ],
           "answerIndex": 0,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "explanation": "시스템 상태나 공식 알림의 명사형 종결은 '-(으)ㅁ'을 사용하여 '재고 없음'으로 표기합니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 명사형 어미(-기, -(으)ㅁ, -는 것) (Nominalization) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 3):",
+          "prompt": "공식 업무 보고 메모에서 '회의를 마쳤다'를 압축하여 서면 명사형으로 종결한 올바른 문장은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (17.3.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (17.3.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (17.3.3)."
+            "금일 프로젝트 회의 정상 종료함.",
+            "금일 프로젝트 회의 정상 종료하기.",
+            "금일 프로젝트 회의 정상 종료하는 것."
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "서면 업무 보고 명사형 종결체는 '-(으)ㅁ(종료함)'입니다."
         }
       ]
     },
@@ -8048,14 +8095,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 명사형 전성어미 (Nominalization: -기 / -는 것) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 17-3)?",
+          "prompt": "게시판 공지문 '[알림] 금일 세미나 장소가 301호로 _____.' 빈칸에 가장 알맞은 명사형 종결 표현은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (17.3.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (17.3.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (17.3.3)."
+            "변경되었음",
+            "변경되었기",
+            "변경되는 것"
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR B2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "과거 완료된 공식 공지 사실의 서면 종결체는 '-었음(변경되었음)'입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'읽지 않은 메시지 있음'(There are unread messages)을 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "읽지 않은 메시지 있음.",
+            "읽지 않은 메시지 있음"
+          ],
+          "explanation": "읽지 않은 + 메시지 + 있음 = 읽지 않은 메시지 있음."
         }
       ]
     }
@@ -8065,56 +8121,65 @@
     "subject": "korean",
     "unit": 17,
     "lessonNumber": 4,
-    "title": "명사형 어미(-기, -(으)ㅁ, -는 것) (Nominalization) (Part 4)",
+    "title": "3대 명사형 어미('-는 것' vs '-기' vs '-(으)ㅁ')의 통사 제약 및 화용론적 기능 비교",
     "level": "B2",
-    "objective": "Comprehensive mastery of 명사형 전성어미 (Nominalization: -기 / -는 것).",
+    "objective": "세 가지 명사형 어미가 지닌 통사적 제약(후행 서술어 결합 제약)과 화용론적 문체(구어체 vs 관용구 vs 서면 공지)의 차이를 완벽히 구분한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 명사형 어미(-기, -(으)ㅁ, -는 것) (Nominalization) » (제4절)의 핵심 언어 요소와 명사형 전성어미 (Nominalization: -기 / -는 것)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한국어의 명사화 어미 3인방('-는 것', '-기', '-(으)ㅁ')은 겉보기에 모두 명사를 만드는 것처럼 보이지만, 결합하는 뒤쪽 서술어와 문체에 엄격한 통사적 제약이 존재합니다.\n\n1. '-는 것' [구체적 사실 / 구어적 일상 담화]:\n- 후행 서술어: 알다/모르다, 잊다, 기억하다, 당연하다 등 (사실성 강조)\n- 예: \"그가 한국을 떠난 것을 몰랐어요.\" (구체적 사건 사실)\n\n2. '-기' [추상적 활동 / 미래 지향적 희망 / 관용 구조]:\n- 후행 서술어: 시작하다, 바라다, 희망하다, 쉽다/어렵다, -기 전에, -기 위해\n- 제약: *한국을 떠난 기를 몰랐어요 (비문 X)\n\n3. '-(으)ㅁ' [완결된 객관적 사실 / 서면 공지 및 보고]:\n- 후행 서술어: 밝히다, 증명하다, 보고하다, 알리다, -에 틀림없다\n- 예: \"범인이 현장에 있었음이 명백히 증명되었습니다.\"\n- 제약: 일상 회화에서 서술어로 직접 대화할 때는 쓰이지 않고 서면/공문서에서 활약.",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (17.4.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "저는 주말에 친구들과 모여서 축구하는 것을 가장 즐깁니다.",
+          "reading": "Jeo-neun jumal-e chin-gudeul-gwa moyeoseo chukguhaneun geos-eul gajang jeulgimnida.",
+          "translation": "I enjoy playing soccer together with friends on the weekend the most ('-는 것' colloquial preference)."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (17.4.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "모든 탑승객께서는 비행기 착륙 시까지 좌석 벨트를 매 주시기 바랍니다.",
+          "reading": "Modeun taptseunggaek-kkeseoneun bihaenggi changnyuk si-kkaji jwaseok belteu-reul mae jusigi baramnida.",
+          "translation": "All passengers, please fasten your seatbelts until airplane landing ('-기 바라다' formal request constraint)."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (17.4.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "경찰 수사 결과 피의자가 사건 당일 현장에 있었음이 과학적으로 입증되었습니다.",
+          "reading": "Gyeongchal susa gyeolgwa pi-uija-ga sageon dang-il hyeonjang-e isseotseum-i gwahakjeog-euro ipjeungdoeeotseumnida.",
+          "translation": "As a result of the police investigation, it was scientifically proven that the suspect was at the scene on the day of the incident ('-었음이 입증되다' formal fact constraint)."
+        },
+        {
+          "target": "약속 시간에 늦지 않기 위해서 서둘러 지하철역으로 뛰어갔습니다.",
+          "reading": "Yakssok sigan-e neutji ankgi wihaeseo seodulleo jihacheol-yeog-euro ttwieogatseumnida.",
+          "translation": "In order not to be late for the appointment time, I hurried and ran to the subway station ('-지 않기 위해')."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "구어 사실은 '-는 것', 활동·바람은 '-기', 서면·입증은 '-(으)ㅁ'! 완벽한 3분법!"
+      ],
+      "culturalNotes": [
+        "한국어 고급 화자로 인정받기 위해서는 '내가 바라는 것'을 말할 때 '-기 바랍니다'를 쓰고, '공지 메모'를 쓸 때 '-(으)ㅁ'을 쓰는 등 상황과 격식에 맞는 정확한 명사화 어미를 가려 쓰는 능력이 필수적입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 명사형 전성어미 (Nominalization: -기 / -는 것) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 4)?",
+          "prompt": "'바라다(hope/wish)' 앞에 결합할 수 있는 올바른 명사형 어미는 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (17.4.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (17.4.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (17.4.3)."
+            "-기 (행복하시기를 바랍니다)",
+            "-는 것 (행복하시는 것을 바랍니다)",
+            "-(으)ㅁ (행복하심을 바랍니다)"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "'바라다'는 희망의 동사이므로 명사형 어미 '-기'와 결합하는 강력한 통사 제약을 가집니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 명사형 어미(-기, -(으)ㅁ, -는 것) (Nominalization) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 4):",
+          "prompt": "다음 중 후행 서술어와의 문법적 결합이 올바른 문장은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (17.4.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (17.4.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (17.4.3)."
+            "진실이 밝혀졌음이 법정에서 명백히 인정되었습니다.",
+            "진실이 밝혀졌기가 법정에서 명백히 인정되었습니다.",
+            "진실이 밝혀졌는 걸이 법정에서 명백히 인정되었습니다."
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "법정이나 공식 문서에서 객관적 사실 입증에는 '-(으)ㅁ(밝혀졌음이)'이 결합합니다."
         }
       ]
     },
@@ -8122,14 +8187,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 명사형 전성어미 (Nominalization: -기 / -는 것) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 17-4)?",
+          "prompt": "3대 명사형 어미의 특성을 비교한 설명 중 틀린 것은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (17.4.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (17.4.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (17.4.3)."
+            "'-는 것'은 공식 공지문의 문장 종결체로 가장 선호된다.",
+            "'-기'는 '-기 전에', '-기 위해', '-기 시작하다' 등의 관용구에 필수적으로 쓰인다.",
+            "'-(으)ㅁ'은 서면 보고서나 시스템 알림에서 종결 형태로 널리 쓰인다."
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR B2 target-language standard."
+          "explanation": "공식 공지문의 간결한 서면 종결체로는 '-는 것'이 아니라 '-(으)ㅁ'이 선호됩니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'행복하시기를 바랍니다'(I wish you happiness)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "행복하시기를 바랍니다.",
+            "행복하시기를 바랍니다"
+          ],
+          "explanation": "행복하시기를 + 바랍니다 = 행복하시기를 바랍니다."
         }
       ]
     }
@@ -8139,56 +8213,65 @@
     "subject": "korean",
     "unit": 17,
     "lessonNumber": 5,
-    "title": "명사형 어미(-기, -(으)ㅁ, -는 것) (Nominalization) (Part 5)",
+    "title": "취미 소개, 메모 작성 및 공식 공지문 작성 실전 담화",
     "level": "B2",
-    "objective": "Comprehensive mastery of 명사형 전성어미 (Nominalization: -기 / -는 것).",
+    "objective": "구어 명사화('-는 것/게/걸'), 활동 관용구('-기'), 서면 종결체('-(으)ㅁ')를 완벽하게 배합하여 대화, 메모, 공식 공지문을 유창하게 작성한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 명사형 어미(-기, -(으)ㅁ, -는 것) (Nominalization) » (제5절)의 핵심 언어 요소와 명사형 전성어미 (Nominalization: -기 / -는 것)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "실전 한국어에서는 말할 때(구어 취미 대화), 메모할 때(개인 일정 정리), 공지할 때(회사/학교 게시판) 각기 다른 명사화 양식을 능숙하게 전환해야 합니다.\n\n1. 취미 소개 및 목표 공유 실전 담화:\n- A: 지우 씨는 주말에 주로 뭐 하면서 시간 보내세요?\n- B: 저는 집에서 베이킹하는 걸 아주 좋아해요. 직접 빵을 굽는 게 스트레스 해소에 정말 좋거든요.\n- A: 와, 대단하시네요! 베이킹을 언제부터 배우기 시작하셨어요?\n- B: 작년 가을부터 문화센터에 다니기 시작했어요. 이번 연말에는 제과 기능사 자격증을 취득하기 위해 열심히 연습하고 있어요.\n\n2. 회사 게시판 공식 공지문 양식:\n- [공지] 사내 네트워크 보안 업그레이드 작업 안내\n- 일시: 2026년 9월 5일(토) 22:00 ~ 익일 06:00\n- 내용: 사내 인트라넷 접속 일시 불가함.\n- 주의사항: 작업 시작 전에 진행 중인 문서를 반드시 저장해 주시기 바람.",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (17.5.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "A: 주말에 영화 보는 걸 좋아하세요? B: 네, 영화관에서 신작 영화를 관람하는 게 제 유일한 취미예요.",
+          "reading": "A: Jumal-e yeonghwa boneun geol joahaseyo? B: Ne, yeonghwagwan-eseo sinjak yeonghwa-reul gwanramhaneun ge je yuilhan chwimi-yeyo.",
+          "translation": "A: Do you like watching movies on weekends? B: Yes, watching new releases at the movie theatre is my only hobby ('-는 걸' + '-는 게')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (17.5.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "[메모] 오늘 할 일: 1. 보고서 제출하기 2. 2시 거래처 미팅 참석함 3. 퇴근 후 장보기.",
+          "reading": "[Memo] Oneul hal il: 1. Bogoseo jechulhagi 2. 2-si georaecheo miting chamseokham 3. Toegeun hu jangbogi.",
+          "translation": "[Memo] Today's to-do list: 1. Submit report ('-기') 2. Attend 2 PM client meeting ('-(으)ㅁ') 3. Grocery shopping ('-기')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (17.5.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "행사장에 입장하시기 전에 체온 측정 및 손 소독을 완료해 주시기 바랍니다.",
+          "reading": "Haengsajang-e ipjanghasigi jeon-e cheon cheukjeong mit son sodok-eul wanryohae jusigi baramnida.",
+          "translation": "Please complete temperature measurement and hand disinfection before entering the venue ('-기 전에' + '-기 바랍니다')."
+        },
+        {
+          "target": "[안내] 금일 도서관 정기 휴관으로 대출 및 반납 업무가 진행되지 않음을 알려 드립니다.",
+          "reading": "[Annae] Geumil doseogwan jeonggi hyugwan-euro daechul mit bannap eommu-ga jinhaengdoeji anheum-eul allyeo deurimnida.",
+          "translation": "[Notice] We inform you that checkout and return services will not proceed due to the library's regular closing today ('않음을 알려 드립니다')."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "취미 대화는 '-는 걸/게', 할 일 메모는 '-기', 공지 알림은 '-(으)ㅁ'! 상황별 완벽 변환!"
+      ],
+      "culturalNotes": [
+        "한국의 대학교 동아리 모집 포스터나 회사의 공지글을 보면 '지원 자격: 열정 있는 사람 누구나 가능함', '지원 방법: 이메일 접수하기'처럼 '-기'와 '-(으)ㅁ'이 항목별로 정갈하게 사용됩니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 명사형 전성어미 (Nominalization: -기 / -는 것) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 5)?",
+          "prompt": "동료와 대화할 때 '내 취미는 사진 찍기이다'를 가장 자연스럽고 유창하게 표현한 구어 문장은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (17.5.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (17.5.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (17.5.3)."
+            "제 취미는 여행 가서 사진 찍는 거예요.",
+            "제 취미는 여행 가서 사진 찍음이에요.",
+            "제 취미는 여행 가서 사진 찍기임이에요."
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "구어체에서 자신의 취미를 서술할 때는 '-는 거예요(찍는 거예요)'가 가장 자연스럽습니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 명사형 어미(-기, -(으)ㅁ, -는 것) (Nominalization) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 5):",
+          "prompt": "다음 중 사내 공지문으로 어휘와 종결 어미가 가장 격식 있고 자연스러운 것은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (17.5.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (17.5.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (17.5.3)."
+            "[공지] 금일 임원 회의로 인해 4층 대회의실 사용이 제한됨을 알려 드립니다.",
+            "[공지] 금일 임원 회의로 인해 4층 대회의실 사용이 제한되는 걸 알려 드립니다.",
+            "[공지] 금일 임원 회의로 인해 4층 대회의실 사용이 제한되기를 알려 드립니다."
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "공식 공지문에서는 객관적 사실을 전달하는 '제한됨을 알려 드립니다'가 완벽합니다."
         }
       ]
     },
@@ -8196,14 +8279,25 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 명사형 전성어미 (Nominalization: -기 / -는 것) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 17-5)?",
+          "prompt": "다음 대화의 빈칸에 들어갈 알맞은 표현은?\n\"A: 한국어 공부하면서 뭐가 제일 어려워요?\nB: 저는 원어민의 빠른 말을 _____ 제일 어려워요.\"",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (17.5.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (17.5.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (17.5.3)."
+            "알아듣는 게",
+            "알아듣음이",
+            "알아듣기가"
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR B2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "구어체에서 주어 역할을 하는 '알아듣는 게'가 가장 자연스럽습니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'음악 듣는 것을 좋아해요'(I like listening to music)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "음악 듣는 것을 좋아해요.",
+            "음악 듣는 것을 좋아해요",
+            "음악 듣는 걸 좋아해요.",
+            "음악 듣는 걸 좋아해요"
+          ],
+          "explanation": "음악 + 듣는 것을(듣는 걸) + 좋아해요 = 음악 듣는 것을 좋아해요."
         }
       ]
     }
