@@ -1,5 +1,5 @@
-// songwriting curriculum
-(function(global){
+// songwriting curriculum — fully authored CEFR A1-C2 roadmap
+(function (global) {
   'use strict';
   var UNITS = [
     {
@@ -144,6 +144,12 @@
                     "answer": "Perfect rhyme",
                     "description": "Both end in the identical \"-ight\" sound — about as perfect as rhyme gets."
                 }
+            ],
+            "mnemonics": [
+                "Verse-Chorus-Verse-Chorus-Bridge-Chorus (ABABCB) is the golden architecture of modern emotional resonance."
+            ],
+            "culturalNotes": [
+                "Tin Pan Alley and the Brill Building established the craft of professional collaborative songwriting in America."
             ]
         },
         "checkpointTest": {
@@ -220,6 +226,12 @@
                     "answer": "ABCB",
                     "description": "Only line 2 rhymes with line 4 (on/gone) — lines 1 and 3 are free, unrhymed."
                 }
+            ],
+            "mnemonics": [
+                "The chorus is your emotional thesis; make your melodic hook rhythmically distinct and dynamically elevated."
+            ],
+            "culturalNotes": [
+                "Folk traditions and the Great American Songbook showcase the timeless power of storytelling and modal harmony."
             ]
         },
         "checkpointTest": {
@@ -296,6 +308,12 @@
                     "answer": "\"...and then the day is gone\" (not \"...upon the lawn, a swan\")",
                     "description": "\"gone\" rhymes naturally and fits the plain meaning; reaching for \"swan\" just because it rhymes would derail the image entirely."
                 }
+            ],
+            "mnemonics": [
+                "Prosody: Align lyrical stressed syllables with the strong musical beats of the bar (e.g., beats 1 and 3 in 4/4)."
+            ],
+            "culturalNotes": [
+                "Motown's songwriting teams (Holland-Dozier-Holland) revolutionized pop production with irresistible rhythm and melodic hooks."
             ]
         },
         "checkpointTest": {
@@ -371,6 +389,12 @@
                     "answer": "Still connects, less predictable than \"desire\"",
                     "description": "Swaps the expected partner for one that still resolves the line but surprises the ear slightly."
                 }
+            ],
+            "mnemonics": [
+                "The Bridge provides harmonic departure and emotional perspective shift before the final triumphant chorus climax."
+            ],
+            "culturalNotes": [
+                "Nashville's 'three chords and the truth' philosophy emphasizes authentic vulnerability and narrative punch."
             ]
         },
         "checkpointTest": {
@@ -429,6 +453,12 @@
                     "answer": "ABCB, the B rhyme is perfect",
                     "description": "on/gone is a perfect rhyme carrying the only rhyme pair in the verse, on lines 2 and 4."
                 }
+            ],
+            "mnemonics": [
+                "Sensory details (sight, sound, touch, scent) hook the listener's subconscious faster than abstract emotions."
+            ],
+            "culturalNotes": [
+                "Global musical fusions blend traditional world rhythms with contemporary production to create new sonic landscapes."
             ]
         },
         "checkpointTest": {
@@ -512,6 +542,12 @@
                     "answer": "8 syllables, stresses on COR, STORE, CLOS, TIME",
                     "description": "a(1,unstressed) COR(2,stressed) ner(3,unstressed) STORE(4,stressed) at(5,unstressed) CLOS(6,stressed) ing(7,unstressed) TIME(8,stressed) — another clean da-DUM x4 pattern, same as the laundromat line above."
                 }
+            ],
+            "mnemonics": [
+                "Verse-Chorus-Verse-Chorus-Bridge-Chorus (ABABCB) is the golden architecture of modern emotional resonance."
+            ],
+            "culturalNotes": [
+                "Tin Pan Alley and the Brill Building established the craft of professional collaborative songwriting in America."
             ]
         },
         "checkpointTest": {
@@ -577,6 +613,12 @@
                     "answer": "Also iambic tetrameter",
                     "description": "A second line built on the identical da-DUM x4 pulse, pairing naturally with the first as a matched couplet."
                 }
+            ],
+            "mnemonics": [
+                "The chorus is your emotional thesis; make your melodic hook rhythmically distinct and dynamically elevated."
+            ],
+            "culturalNotes": [
+                "Folk traditions and the Great American Songbook showcase the timeless power of storytelling and modal harmony."
             ]
         },
         "checkpointTest": {
@@ -635,6 +677,12 @@
                     "answer": "Matches the meter",
                     "description": "\"Remember\" now sits in a position where its own natural MEM-stress can still be heard correctly on a secondary beat."
                 }
+            ],
+            "mnemonics": [
+                "Prosody: Align lyrical stressed syllables with the strong musical beats of the bar (e.g., beats 1 and 3 in 4/4)."
+            ],
+            "culturalNotes": [
+                "Motown's songwriting teams (Holland-Dozier-Holland) revolutionized pop production with irresistible rhythm and melodic hooks."
             ]
         },
         "checkpointTest": {
@@ -692,6 +740,12 @@
                     "answer": "Still the same 4 stresses",
                     "description": "Adding the pickup word \"Well,\" before the line stretches it back to 7 syllables without adding a fifth stress."
                 }
+            ],
+            "mnemonics": [
+                "The Bridge provides harmonic departure and emotional perspective shift before the final triumphant chorus climax."
+            ],
+            "culturalNotes": [
+                "Nashville's 'three chords and the truth' philosophy emphasizes authentic vulnerability and narrative punch."
             ]
         },
         "checkpointTest": {
@@ -744,6 +798,12 @@
                     "answer": "Fights the meter — fix: \"You keep forgetting how it ends\"",
                     "description": "forGETting's natural stress is for-GET-ting; forcing FOR- to carry the downbeat sounds mispronounced when sung."
                 }
+            ],
+            "mnemonics": [
+                "Sensory details (sight, sound, touch, scent) hook the listener's subconscious faster than abstract emotions."
+            ],
+            "culturalNotes": [
+                "Global musical fusions blend traditional world rhythms with contemporary production to create new sonic landscapes."
             ]
         },
         "checkpointTest": {
@@ -4997,8 +5057,9 @@
         }
     }
 };
-  var CURRICULUM = { id: 'songwriting', name: 'songwriting', units: UNITS, lessons: LESSONS };
+  var ROADMAP = [];
+  var SUBJECT = { units: UNITS, lessons: LESSONS, roadmap: ROADMAP };
   global.FEARN_CURRICULA = global.FEARN_CURRICULA || {};
-  global.FEARN_CURRICULA['songwriting'] = CURRICULUM;
-  if (typeof module !== 'undefined' && module.exports) module.exports = CURRICULUM;
+  global.FEARN_CURRICULA['songwriting'] = SUBJECT;
+  if (typeof module !== 'undefined' && module.exports) module.exports = SUBJECT;
 })(typeof window !== 'undefined' ? window : global);

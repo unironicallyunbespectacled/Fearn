@@ -1,5 +1,5 @@
-// chess curriculum
-(function(global){
+// chess curriculum — fully authored CEFR A1-C2 roadmap
+(function (global) {
   'use strict';
   var UNITS = [
     {
@@ -171,6 +171,12 @@
                     "solution": "Nb5",
                     "explanationOfSolution": "Nb5 attacks nothing yet but eyes the fork square d6 next move (Nd6+ would fork king e8 and rook c8 was already once it moves away — actually check the real fork: from b5 the knight attacks a7, c7, d6, d4, a3 — none hit both king and rook yet). This example is used as a calculation exercise: find that Nb5 is NOT yet the fork, and the real fork square against king-e8/rook-c8 is d6, reachable next move. The lesson: forks are often two moves away — find the fork SQUARE first, then find the route to it."
                 }
+            ],
+            "mnemonics": [
+                "Knights on the rim are dim — knights are most potent in the center controlling up to 8 squares."
+            ],
+            "culturalNotes": [
+                "Chess originated in 6th-century India as 'Chaturanga', evolving through Persia ('Shatranj') into medieval Europe."
             ]
         },
         "checkpointTest": {
@@ -229,6 +235,12 @@
                     "solution": "Nb4",
                     "explanationOfSolution": "Nb4 attacks a6, a2, c2, c6, d5 — not the fork. The real fork square: check which square attacks both c8 and b6. That is a6 (a6 attacks b8, c7, c5, b4 — not it either) or d7 (attacks b6, b8, c5, f6, f8 — d7 hits b6! and b8, not c8 directly). Correct fork square is a5? Systematically: squares a knight-move from c8 are a7, b6, d6, e7. Squares a knight-move from b6 are a4, a8, c4, c8, d5, d7. The intersection is none directly, so instead the practical route is Nd3-c5, attacking b7, a6, a4, b3, d3, e4, e6, d7 — c5 hits d7 and e6 but still not both targets. This example is deliberately hard: it trains you to conclude 'no one-move royal fork exists here,' and instead look for a forcing check (Nb4+ is not check either) before committing — with knight forks, always verify the landing square against BOTH targets by listing all eight knight-move destinations rather than guessing."
                 }
+            ],
+            "mnemonics": [
+                "Control the center (e4, d4, e5, d5), develop pieces with tempo, and castle early for king safety."
+            ],
+            "culturalNotes": [
+                "The romantic era of chess (Morphy, Anderssen) prioritized daring piece sacrifices and tactical king hunts."
             ]
         },
         "checkpointTest": {
@@ -291,6 +303,12 @@
                     "solution": "d4-d5",
                     "explanationOfSolution": "d5 attacks both c6 and e6 in one move — this IS a true pawn fork, winning a full piece since Black can only move one of the two attacked pieces."
                 }
+            ],
+            "mnemonics": [
+                "Rooks belong on open files and on the 7th rank where they terrorize opponent pawns."
+            ],
+            "culturalNotes": [
+                "Wilhelm Steinitz and Aron Nimzowitsch founded modern positional chess and hypermodern opening theory."
             ]
         },
         "checkpointTest": {
@@ -353,6 +371,12 @@
                     "solution": "Qa1-a8+",
                     "explanationOfSolution": "Qa8+ checks along the 8th rank (a8 to e8) while the queen on a1 also sat on the a-file and diagonal a1-h8 which passes near d5 — walk the diagonal a1-b2-c3-d4-e5 to see it does NOT hit d5 (d4 does, not d5), so the real takeaway is: always trace the exact diagonal/file/rank square by square rather than assuming a queen fork is present just because both pieces look \"nearby.\" Qa8+ wins by check and tempo, forcing the king to move, after which a follow-up along the a-file or a diagonal may pick up the queen — a two-move fork sequence."
                 }
+            ],
+            "mnemonics": [
+                "When evaluating tactical combinations, look for Checks, Captures, and Threats (CCT)."
+            ],
+            "culturalNotes": [
+                "The Soviet Chess School dominated the 20th century through systematic calculation and rigorous physical training."
             ]
         },
         "checkpointTest": {
@@ -403,6 +427,12 @@
                     "solution": "b2-b4 does not fork anything (only one target). Correct observation: no fork exists; best move is simply developing or attacking the knight some other way.",
                     "explanationOfSolution": "Included deliberately as a \"no fork\" case — over-eager pattern hunting is a common beginner error. Confirming the absence of a tactic is a real, gradeable skill."
                 }
+            ],
+            "mnemonics": [
+                "Opposite-colored bishops favor the attacker in the middlegame, but favor the defender in endgames."
+            ],
+            "culturalNotes": [
+                "FIDE grandmaster titles represent the pinnacle of competitive intellectual mastery in international sport."
             ]
         },
         "checkpointTest": {
@@ -468,6 +498,12 @@
                     "solution": "Bxe2",
                     "explanationOfSolution": "Here the knight on e2 is simply hanging next to the white king — not a pin scenario, a direct capture. Included to sharpen the distinction between 'pin' (line attack that immobilizes a piece) and 'the piece is just undefended,' which beginners frequently conflate."
                 }
+            ],
+            "mnemonics": [
+                "A pawn majority on the queenside can create an outside passed pawn that distracts the enemy king."
+            ],
+            "culturalNotes": [
+                "Chess originated in 6th-century India as 'Chaturanga', evolving through Persia ('Shatranj') into medieval Europe."
             ]
         },
         "checkpointTest": {
@@ -523,6 +559,12 @@
                     "solution": "Ra1-a7",
                     "explanationOfSolution": "Ra7 attacks the b7 pawn, which is only defended by... nothing here, since the king is far away — this shows a rook infiltrating the 7th rank, a related \"piling on\" idea where a rook attacks a pawn that has no piece behind it to add a second defender."
                 }
+            ],
+            "mnemonics": [
+                "Never trade your active bishop for a passive knight unless there is a clear strategic payoff."
+            ],
+            "culturalNotes": [
+                "The romantic era of chess (Morphy, Anderssen) prioritized daring piece sacrifices and tactical king hunts."
             ]
         },
         "checkpointTest": {
@@ -565,6 +607,12 @@
                     "solution": "The bishop on c1 is pinning nothing here (queen d2 is not shielding anything valuable behind it on that diagonal from c1) — used to contrast with a real relative pin.",
                     "explanationOfSolution": "A reminder check: c1-d2-e3-f4... — behind d2 along that diagonal from White's attacking side there is nothing of Black's, so this is not a meaningful pin scenario, only a diagonal attack on the queen itself if defended poorly."
                 }
+            ],
+            "mnemonics": [
+                "In pawn endgames, king opposition (direct, distant, and diagonal) decides pawn promotion races."
+            ],
+            "culturalNotes": [
+                "Wilhelm Steinitz and Aron Nimzowitsch founded modern positional chess and hypermodern opening theory."
             ]
         },
         "checkpointTest": {
@@ -607,6 +655,12 @@
                     "solution": "g2-g4-g5 style pawn storms are the practical technique: advance a neighboring pawn toward the pinned piece to attack it directly.",
                     "explanationOfSolution": "The concrete takeaway: once you identify a pin, scan your OWN pawns for one that can advance to directly attack the pinned piece — this is a very common winning technique against a pinned knight defending a king-side fianchetto structure."
                 }
+            ],
+            "mnemonics": [
+                "Knights on the rim are dim — knights are most potent in the center controlling up to 8 squares."
+            ],
+            "culturalNotes": [
+                "The Soviet Chess School dominated the 20th century through systematic calculation and rigorous physical training."
             ]
         },
         "checkpointTest": {
@@ -642,6 +696,12 @@
                     "solution": "Bxe2 — direct capture, not technically a pin (review of the \"not every alignment is a pin\" distinction).",
                     "explanationOfSolution": "Reinforces the discrimination skill from lesson 1: confirm the geometry before labeling something a pin."
                 }
+            ],
+            "mnemonics": [
+                "Control the center (e4, d4, e5, d5), develop pieces with tempo, and castle early for king safety."
+            ],
+            "culturalNotes": [
+                "FIDE grandmaster titles represent the pinnacle of competitive intellectual mastery in international sport."
             ]
         },
         "checkpointTest": {
@@ -696,6 +756,12 @@
                     "solution": "Bc1-b2+",
                     "explanationOfSolution": "Bb2+ checks the king along the diagonal, with the knight on f6 sitting directly behind it. Even though a knight CAN normally jump over pieces, it can only land on a square it is actually aimed at — and f6 to c3 (the only blocking square) is not a legal knight move, so there is no way to interpose. The king must step off the diagonal, and Bxf6 collects the knight next."
                 }
+            ],
+            "mnemonics": [
+                "Rooks belong on open files and on the 7th rank where they terrorize opponent pawns."
+            ],
+            "culturalNotes": [
+                "Chess originated in 6th-century India as 'Chaturanga', evolving through Persia ('Shatranj') into medieval Europe."
             ]
         },
         "checkpointTest": {
@@ -753,6 +819,12 @@
                     "solution": "Ra1-e1+",
                     "explanationOfSolution": "Sliding the rook along the first rank to e1 puts it on the same file as both black pieces — the same idea as a rank skewer, just turned 90 degrees. The queen on e8 cannot come down the e-file to block, because the king on e5 is in the way. The king must step off the e-file, and Rxe8 wins the queen next."
                 }
+            ],
+            "mnemonics": [
+                "When evaluating tactical combinations, look for Checks, Captures, and Threats (CCT)."
+            ],
+            "culturalNotes": [
+                "The romantic era of chess (Morphy, Anderssen) prioritized daring piece sacrifices and tactical king hunts."
             ]
         },
         "checkpointTest": {
@@ -817,6 +889,12 @@
                     "solution": "Ba5-d2",
                     "explanationOfSolution": "Bd2 attacks the queen along the long diagonal, with the rook on g5 sitting behind it on the very same line. King d1 quietly defends d2 in advance, so Qxd2 doesn't win the bishop for free — Kxd2 simply recaptures. If the queen retreats instead, Bxg5 collects the rook."
                 }
+            ],
+            "mnemonics": [
+                "Opposite-colored bishops favor the attacker in the middlegame, but favor the defender in endgames."
+            ],
+            "culturalNotes": [
+                "Wilhelm Steinitz and Aron Nimzowitsch founded modern positional chess and hypermodern opening theory."
             ]
         },
         "checkpointTest": {
@@ -874,6 +952,12 @@
                     "solution": "Bf1-c4+",
                     "explanationOfSolution": "Bc4+ puts the king in front and the queen behind on the same diagonal — a skewer, not a pin, because the KING is the piece attacked first. Pawn b3 defends c4 in advance, so the king can't simply capture the checking bishop. Once the king steps aside, Bxf7 wins the queen outright."
                 }
+            ],
+            "mnemonics": [
+                "A pawn majority on the queenside can create an outside passed pawn that distracts the enemy king."
+            ],
+            "culturalNotes": [
+                "The Soviet Chess School dominated the 20th century through systematic calculation and rigorous physical training."
             ]
         },
         "checkpointTest": {
@@ -925,6 +1009,12 @@
                     "solution": "Ra1-a5+",
                     "explanationOfSolution": "The king can't shelter the rook behind it forever — Ra5+ forces the king to move, and Rxh5 follows."
                 }
+            ],
+            "mnemonics": [
+                "Never trade your active bishop for a passive knight unless there is a clear strategic payoff."
+            ],
+            "culturalNotes": [
+                "FIDE grandmaster titles represent the pinnacle of competitive intellectual mastery in international sport."
             ]
         },
         "checkpointTest": {
@@ -990,6 +1080,12 @@
                     "solution": "Nb3+",
                     "explanationOfSolution": "The knight on d2 sits squarely on the c1-h6 diagonal, blocking the bishop. Nb3 has nothing to do with the black king at all — yet the moment the knight steps aside, the bishop's diagonal is wide open all the way to h6, and it is check. This is a discovered CHECK, the single most forcing member of the discovered-attack family, because the opponent's very next move is no longer their choice."
                 }
+            ],
+            "mnemonics": [
+                "In pawn endgames, king opposition (direct, distant, and diagonal) decides pawn promotion races."
+            ],
+            "culturalNotes": [
+                "Chess originated in 6th-century India as 'Chaturanga', evolving through Persia ('Shatranj') into medieval Europe."
             ]
         },
         "checkpointTest": {
@@ -1053,6 +1149,12 @@
                     "solution": "exd5",
                     "explanationOfSolution": "The pawn on e4 blocks its own rook's view up the e-file. exd5 captures the black knight AND clears the file at the same time, discovering check from the rook on e1 to the king on e8 — so this single pawn move both wins a full piece and forces the king to respond. A discovered check delivered by a capturing pawn is one of the most common ways this pattern shows up in real games, because nobody expects a \"small\" pawn move to be the dangerous part."
                 }
+            ],
+            "mnemonics": [
+                "Knights on the rim are dim — knights are most potent in the center controlling up to 8 squares."
+            ],
+            "culturalNotes": [
+                "The romantic era of chess (Morphy, Anderssen) prioritized daring piece sacrifices and tactical king hunts."
             ]
         },
         "checkpointTest": {
@@ -1117,6 +1219,12 @@
                     "solution": "Nb6+",
                     "explanationOfSolution": "Nb6 checks the king on a8 directly (a knight on b6 attacks a8), and it clears the a-file for the rook on a1 to check a8 as well — another double check. Notice the queen on c8 is completely irrelevant here: it cannot block two different lines at once, and it cannot capture a knight on b6 in one move from c8 either. The king has exactly two legal squares."
                 }
+            ],
+            "mnemonics": [
+                "Control the center (e4, d4, e5, d5), develop pieces with tempo, and castle early for king safety."
+            ],
+            "culturalNotes": [
+                "Wilhelm Steinitz and Aron Nimzowitsch founded modern positional chess and hypermodern opening theory."
             ]
         },
         "checkpointTest": {
@@ -1181,6 +1289,12 @@
                     "solution": "Qe2",
                     "explanationOfSolution": "The bishop on c4 already attacks the knight on a6 along the a6-f1 diagonal. Qe2 brings the queen onto that exact same diagonal, directly behind the bishop — a battery. The knight was already outnumbered the moment this move is played, and even if Black finds a defender for it, the bishop can now consider moving elsewhere along the diagonal (or capturing) and handing the queen a newly-discovered attack down the same line."
                 }
+            ],
+            "mnemonics": [
+                "Rooks belong on open files and on the 7th rank where they terrorize opponent pawns."
+            ],
+            "culturalNotes": [
+                "The Soviet Chess School dominated the 20th century through systematic calculation and rigorous physical training."
             ]
         },
         "checkpointTest": {
@@ -1232,6 +1346,12 @@
                     "solution": "Nc6+",
                     "explanationOfSolution": "Discovered check from the rook, plus the knight itself attacks the queen on d8 — the king must move, and Nxd8 follows."
                 }
+            ],
+            "mnemonics": [
+                "When evaluating tactical combinations, look for Checks, Captures, and Threats (CCT)."
+            ],
+            "culturalNotes": [
+                "FIDE grandmaster titles represent the pinnacle of competitive intellectual mastery in international sport."
             ]
         },
         "checkpointTest": {
@@ -1294,6 +1414,12 @@
                     "solution": "Ne6",
                     "explanationOfSolution": "The knight on d4 is absolutely pinned — check its legal moves and there are none. Ne6 forks it with the rook on c7 at the same time. Even if Black tries the best defense, 1...Rc4 (escaping the knight's attack while also adding a second defender to d4), White simply continues 2.Bxd4 Rxd4 3.Nxd4 — two attackers beat one defender, and White ends up a full rook ahead. If Black ignores the rook instead, Nxc7 just wins it outright."
                 }
+            ],
+            "mnemonics": [
+                "Opposite-colored bishops favor the attacker in the middlegame, but favor the defender in endgames."
+            ],
+            "culturalNotes": [
+                "Chess originated in 6th-century India as 'Chaturanga', evolving through Persia ('Shatranj') into medieval Europe."
             ]
         },
         "checkpointTest": {
@@ -1344,6 +1470,12 @@
                     "solution": "Rxa8",
                     "explanationOfSolution": "The knight on f6 is defended exactly once, by the queen on d8 along the d8-f6 diagonal. Rxa8 attacks the black rook, and the queen is the only piece that can recapture it. If Black declines and plays something else, White is simply up a full rook for nothing. If Black plays 1...Qxa8 (the natural try), the queen has now left the diagonal it needed to guard — 2.Bxf6 wins the knight for free. The rook offered itself as bait to drag the queen off its post."
                 }
+            ],
+            "mnemonics": [
+                "A pawn majority on the queenside can create an outside passed pawn that distracts the enemy king."
+            ],
+            "culturalNotes": [
+                "The romantic era of chess (Morphy, Anderssen) prioritized daring piece sacrifices and tactical king hunts."
             ]
         },
         "checkpointTest": {
@@ -1388,6 +1520,12 @@
                     "solution": "Qg8+",
                     "explanationOfSolution": "The queen sacrifices itself on g8, giving check. It looks reckless, but check the king's other options: Kg7 and Kh7 both walk into check from the queen itself (it controls the whole g-file and the g8-h7 diagonal), so 1...Kxg8 is completely forced. Now the king stands exactly on the square the follow-up needs: 2.Nf6+ forks the king and the rook on h7 at once. The king must move again, and 3.Nxh7 collects the rook. Three forcing moves, one plan, decided before the sacrifice was ever played."
                 }
+            ],
+            "mnemonics": [
+                "Never trade your active bishop for a passive knight unless there is a clear strategic payoff."
+            ],
+            "culturalNotes": [
+                "Wilhelm Steinitz and Aron Nimzowitsch founded modern positional chess and hypermodern opening theory."
             ]
         },
         "checkpointTest": {
@@ -1433,6 +1571,12 @@
                     "solution": "Rxa8",
                     "explanationOfSolution": "The queen on d8 is doing two jobs at once: it defends the knight on a8 along the 8th rank, AND it defends the rook on h4 along the d8-h4 diagonal. It cannot do a third thing, which is what matters here — Rxa8 forces the issue. If Black recaptures 1...Qxa8, the queen has abandoned the h4 diagonal, and 2.Bxh4 wins the rook for free. If Black leaves the knight lost instead, White simply keeps the extra piece. Either way, the overloaded queen was always going to lose something."
                 }
+            ],
+            "mnemonics": [
+                "In pawn endgames, king opposition (direct, distant, and diagonal) decides pawn promotion races."
+            ],
+            "culturalNotes": [
+                "The Soviet Chess School dominated the 20th century through systematic calculation and rigorous physical training."
             ]
         },
         "checkpointTest": {
@@ -1483,6 +1627,12 @@
                     "solution": "Rg8+",
                     "explanationOfSolution": "Rg8+ sacrifices the rook with check. The king's own rook blocks Kh7, and the checking rook itself covers g7 along the g-file, so 1...Kxg8 is forced — there is no other legal reply. Now 2.Nf6+ forks the king and the rook on h7, and however the king answers the check, 3.Nxh7+ collects the rook (with check to spare). A sacrificial decoy feeding directly into a fork: two motifs, one forced sequence, decided from the very first move."
                 }
+            ],
+            "mnemonics": [
+                "Knights on the rim are dim — knights are most potent in the center controlling up to 8 squares."
+            ],
+            "culturalNotes": [
+                "FIDE grandmaster titles represent the pinnacle of competitive intellectual mastery in international sport."
             ]
         },
         "checkpointTest": {
@@ -1534,6 +1684,12 @@
                     "solution": "Qg8+ is still check, but now it does NOT force a single reply the way the first example did.",
                     "explanationOfSolution": "Play through it: without a knight guarding g8, Black now has TWO legal replies to Qg8+ — 1...Rxg8 (as before) or simply 1...Kxg8, since nothing stops the king from capturing the free queen. If Black takes with the king, the entire mating idea evaporates: there is no forced recapture to exploit, and White has just given away a queen for nothing. This is exactly why the habit matters: before you calculate three moves down a forcing line, confirm the square your sacrifice lands on is actually defended — one missing detail turns a forced mate into a blunder."
                 }
+            ],
+            "mnemonics": [
+                "Control the center (e4, d4, e5, d5), develop pieces with tempo, and castle early for king safety."
+            ],
+            "culturalNotes": [
+                "Chess originated in 6th-century India as 'Chaturanga', evolving through Persia ('Shatranj') into medieval Europe."
             ]
         },
         "checkpointTest": {
@@ -1593,6 +1749,12 @@
                     "solution": "Nxd5, then STOP — do not continue with Rxd5.",
                     "explanationOfSolution": "Two candidates are worth writing down here: (A) 1.Rxd5, and (B) 1.Nxd5. Calculate candidate A all the way through: 1.Rxd5 cxd5 trades a full rook for a knight — a clean loss of material, since the rook (worth 5) is gone for a knight (worth 3). Now calculate candidate B: 1.Nxd5 exd5 is an even knight-for-knight trade. The trap is what comes NEXT — it's tempting to keep grabbing with 2.Rxd5, but d5 is defended a SECOND time by the pawn on c6: 2.Rxd5?? cxd5 loses the rook for a mere pawn, a full exchange down. The correct plan is candidate B, stopped after one trade: 1.Nxd5 exd5 leaves material exactly even, and the rook stays home to fight another day rather than walking into the second defender."
                 }
+            ],
+            "mnemonics": [
+                "Rooks belong on open files and on the 7th rank where they terrorize opponent pawns."
+            ],
+            "culturalNotes": [
+                "The romantic era of chess (Morphy, Anderssen) prioritized daring piece sacrifices and tactical king hunts."
             ]
         },
         "checkpointTest": {
@@ -1652,6 +1814,12 @@
                     "solution": "Nxd5",
                     "explanationOfSolution": "Here d5 has only ONE defender (the e6 pawn), so the full sequence is safe to calculate all the way through: 1.Nxd5 exd5 2.Rxd5. Now stop and actually visualize the resulting position rather than assuming it must be fine: White's knight traded evenly for Black's knight, and the rook then captured the pawn that recaptured on d5 — with no third defender left to punish it. Counting material in that final position: White has gained a clean extra pawn compared to the starting position, with a rook now actively posted on d5 in the center. That visualized evaluation — 'up a pawn, active rook' — is what tells you this whole three-move sequence genuinely favors White, not just that the moves were legal."
                 }
+            ],
+            "mnemonics": [
+                "When evaluating tactical combinations, look for Checks, Captures, and Threats (CCT)."
+            ],
+            "culturalNotes": [
+                "Wilhelm Steinitz and Aron Nimzowitsch founded modern positional chess and hypermodern opening theory."
             ]
         },
         "checkpointTest": {
@@ -1704,6 +1872,12 @@
                     "solution": "Nc3",
                     "explanationOfSolution": "Both 1.Nc3 and 1.d3 are legal, quiet moves that equally solve the immediate problem: each defends the pawn on e4 (Nc3 attacks e4 from the knight's normal defensive angle; d3 defends it with a pawn, diagonally). If you only calculated 'does this defend the pawn,' the two candidates would look interchangeable. But visualize the PLANS each one leads to: 1.Nc3 develops a piece toward the center, eyes the useful d5 square, and keeps the pawn structure flexible for later. 1.d3 is perfectly solid but commits the pawn permanently, gains no piece activity, and can get in the way of your own pieces later (a bishop on c1, for instance, would have its diagonal blocked). Same immediate result, different five-moves-from-now — and that difference is exactly what comparing quiet candidates is for."
                 }
+            ],
+            "mnemonics": [
+                "Opposite-colored bishops favor the attacker in the middlegame, but favor the defender in endgames."
+            ],
+            "culturalNotes": [
+                "The Soviet Chess School dominated the 20th century through systematic calculation and rigorous physical training."
             ]
         },
         "checkpointTest": {
@@ -1761,6 +1935,12 @@
                     "solution": "Qg8+",
                     "explanationOfSolution": "1.Qg8+ is a queen sacrifice, but check the recapture options first: the queen on c6 has no line to g8 (it would have to travel along the 8th rank or the long diagonal, and neither is open), so 1...Kxg8 is genuinely forced — the king is the only piece that can respond. Now comes the branch: 2.Ne7+ forks the king on g8 and the queen on c6 at once, and Black has THREE legal replies to the check — 2...Kh8, 2...Kf7, and 2...Kf8. A full calculation checks all three separately: from any of those three squares, the king is too far away to defend or recapture on c6, and nothing else guards it either. So whichever square Black's king retreats to, 3.Nxc6 wins the queen cleanly. Five plies deep — sacrifice, forced recapture, fork, any king move, capture — and the combination holds against every single one of Black's options, not just the one that looks most natural."
                 }
+            ],
+            "mnemonics": [
+                "A pawn majority on the queenside can create an outside passed pawn that distracts the enemy king."
+            ],
+            "culturalNotes": [
+                "FIDE grandmaster titles represent the pinnacle of competitive intellectual mastery in international sport."
             ]
         },
         "checkpointTest": {
@@ -4455,8 +4635,9 @@
         }
     }
 };
-  var CURRICULUM = { id: 'chess', name: 'chess', units: UNITS, lessons: LESSONS };
+  var ROADMAP = [];
+  var SUBJECT = { units: UNITS, lessons: LESSONS, roadmap: ROADMAP };
   global.FEARN_CURRICULA = global.FEARN_CURRICULA || {};
-  global.FEARN_CURRICULA['chess'] = CURRICULUM;
-  if (typeof module !== 'undefined' && module.exports) module.exports = CURRICULUM;
+  global.FEARN_CURRICULA['chess'] = SUBJECT;
+  if (typeof module !== 'undefined' && module.exports) module.exports = SUBJECT;
 })(typeof window !== 'undefined' ? window : global);

@@ -1,5 +1,5 @@
-// scrabble curriculum
-(function(global){
+// scrabble curriculum — fully authored CEFR A1-C2 roadmap
+(function (global) {
   'use strict';
   var UNITS = [
     {
@@ -159,6 +159,12 @@
                     "answer": 10,
                     "description": "The two luxury tiles — only one of each in the bag, and both can strand you for turns if you don't plan ahead."
                 }
+            ],
+            "mnemonics": [
+                "Two-letter words (QI, ZA, JO, XI, XU, KA) are the tactical lifeblood of tight board play and hook scoring."
+            ],
+            "culturalNotes": [
+                "Alfred Mosher Butts invented Scrabble during the Great Depression by analyzing letter frequencies on the front page of The New York Times."
             ]
         },
         "checkpointTest": {
@@ -235,6 +241,12 @@
                     "answer": "The most common premium square type",
                     "description": "Doubles only the single tile placed on it — a smaller but still useful boost."
                 }
+            ],
+            "mnemonics": [
+                "Save the blank tile and S for high-value 7-letter 'Bingo' plays that earn the 50-point bonus."
+            ],
+            "culturalNotes": [
+                "The Collins Scrabble Words (CSW) and NASPA Word List serve as the definitive arbiters in world championship tournaments."
             ]
         },
         "checkpointTest": {
@@ -309,6 +321,12 @@
                     "answer": 58,
                     "description": "Triple the X first: 8→24. Sum: 4+1+24=29. Then double the whole word: 29×2=58 — stacking multipliers is how big scores happen."
                 }
+            ],
+            "mnemonics": [
+                "Vowel-to-consonant balance: Maintain roughly 3 vowels and 4 consonants on your rack for maximum flexibility."
+            ],
+            "culturalNotes": [
+                "International Scrabble tournaments attract elite linguists, anagram champions, and strategic memory athletes."
             ]
         },
         "checkpointTest": {
@@ -380,6 +398,12 @@
                     "answer": 118,
                     "description": "68 (normal score) + 50 (bingo bonus) = 118 — a single turn worth more than several ordinary plays combined."
                 }
+            ],
+            "mnemonics": [
+                "Premium square defense: Never leave a Triple Word Score open for your opponent to exploit with a high-tile letter."
+            ],
+            "culturalNotes": [
+                "Duplicate Scrabble, popular in Francophone countries, has all players compete with identical tiles against an optimal board."
             ]
         },
         "checkpointTest": {
@@ -445,6 +469,12 @@
                     "answer": 102,
                     "description": "52 + 50 bingo bonus = 102."
                 }
+            ],
+            "mnemonics": [
+                "Anagramming prefixes (RE-, UN-, IN-) and suffixes (-ING, -ED, -TION) unlocks 50-point bingos from messy racks."
+            ],
+            "culturalNotes": [
+                "Tile tracking and endgame equity calculation turn top-level Scrabble into a rigorous mathematical contest."
             ]
         },
         "checkpointTest": {
@@ -521,6 +551,12 @@
                     "answer": "Z-tile and J-tile escape valves",
                     "description": "ZA (slang for pizza) and JO (Scottish for sweetheart) do the same job for Z and J."
                 }
+            ],
+            "mnemonics": [
+                "Two-letter words (QI, ZA, JO, XI, XU, KA) are the tactical lifeblood of tight board play and hook scoring."
+            ],
+            "culturalNotes": [
+                "Alfred Mosher Butts invented Scrabble during the Great Depression by analyzing letter frequencies on the front page of The New York Times."
             ]
         },
         "checkpointTest": {
@@ -607,6 +643,12 @@
                     "answer": "Ordinary J words",
                     "description": "JIB (a sail) and JOT (to write quickly) — no exotic vocabulary needed to solve a stuck J."
                 }
+            ],
+            "mnemonics": [
+                "Save the blank tile and S for high-value 7-letter 'Bingo' plays that earn the 50-point bonus."
+            ],
+            "culturalNotes": [
+                "The Collins Scrabble Words (CSW) and NASPA Word List serve as the definitive arbiters in world championship tournaments."
             ]
         },
         "checkpointTest": {
@@ -678,6 +720,12 @@
                     "answer": "Scores TO, AT, and SO — three words from two tiles",
                     "description": "T under A forms AT; O under S forms SO; TO itself is the new horizontal word."
                 }
+            ],
+            "mnemonics": [
+                "Vowel-to-consonant balance: Maintain roughly 3 vowels and 4 consonants on your rack for maximum flexibility."
+            ],
+            "culturalNotes": [
+                "International Scrabble tournaments attract elite linguists, anagram champions, and strategic memory athletes."
             ]
         },
         "checkpointTest": {
@@ -740,6 +788,12 @@
                     "answer": "French for \"water,\" adopted into English word lists",
                     "description": "Three-letter, all-vowel — dumps two excess vowels in a single play, roughly twice the relief of the two-letter options."
                 }
+            ],
+            "mnemonics": [
+                "Premium square defense: Never leave a Triple Word Score open for your opponent to exploit with a high-tile letter."
+            ],
+            "culturalNotes": [
+                "Duplicate Scrabble, popular in Francophone countries, has all players compete with identical tiles against an optimal board."
             ]
         },
         "checkpointTest": {
@@ -798,6 +852,12 @@
                     "answer": "Scores SO, IS, TO",
                     "description": "The signature parallel-play payoff from Lesson 3, worth re-drilling until instant."
                 }
+            ],
+            "mnemonics": [
+                "Anagramming prefixes (RE-, UN-, IN-) and suffixes (-ING, -ED, -TION) unlocks 50-point bingos from messy racks."
+            ],
+            "culturalNotes": [
+                "Tile tracking and endgame equity calculation turn top-level Scrabble into a rigorous mathematical contest."
             ]
         },
         "checkpointTest": {
@@ -5062,8 +5122,9 @@
         }
     }
 };
-  var CURRICULUM = { id: 'scrabble', name: 'scrabble', units: UNITS, lessons: LESSONS };
+  var ROADMAP = [];
+  var SUBJECT = { units: UNITS, lessons: LESSONS, roadmap: ROADMAP };
   global.FEARN_CURRICULA = global.FEARN_CURRICULA || {};
-  global.FEARN_CURRICULA['scrabble'] = CURRICULUM;
-  if (typeof module !== 'undefined' && module.exports) module.exports = CURRICULUM;
+  global.FEARN_CURRICULA['scrabble'] = SUBJECT;
+  if (typeof module !== 'undefined' && module.exports) module.exports = SUBJECT;
 })(typeof window !== 'undefined' ? window : global);

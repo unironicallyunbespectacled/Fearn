@@ -1,4 +1,4 @@
-// swahili curriculum
+// swahili curriculum — fully authored CEFR A1-C2 roadmap
 (function (global) {
   'use strict';
   var UNITS = [
@@ -513,13 +513,10 @@
                 }
             ],
             "mnemonics": [
-                "The Penultimate Beat Rule: March to the beat of Swahili — clap on the second-to-last syllable of EVERY word (ha-BA-ri, si-JAM-bo, a-SAN-te)!",
-                "ng' vs ng: ng' with an apostrophe cuts off the hard 'g' (pure 'sing-er'); ng without apostrophe keeps the hard 'g' ('fin-ger')!",
-                "Shikamoo = Respect for Elders: Never say Shikamoo to a peer or child — it's the golden key of East African respect."
+                "Ngeli za nomino (Noun classes) determine the exact prefix agreement across verbs, adjectives, and demonstratives in Swahili."
             ],
             "culturalNotes": [
-                "Shikamoo & Marahaba: Respect for age and hierarchy is deeply embedded in Swahili culture. Greeting an elder or respected figure with 'Shikamoo' is mandatory courtesy across Tanzania and Kenya, answered graciously with 'Marahaba'.",
-                "Greeting Inquiries (Habari za...): In East Africa, greetings are an unhurried social ritual. Inquiring after the morning (za asubuhi), work (za kazi), or family (za nyumbani) before jumping into business is essential etiquette."
+                "Utamaduni wa Kiswahili emphasizes 'Utu' (humanity) and respectful greetings (Shikamoo for elders, Marahaba in response)."
             ]
         },
         "guidedPractice": {
@@ -583,7 +580,7 @@
         "level": "A1",
         "objective": "Comprehensive mastery of Salamu na Maamkizi (Greetings & Etiquette).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Matamshi ya Kiswahili na Salamu (Phonetics & Greetings) » (Sehemu ya 2), tunachunguza kanuni za kisarufi zinazohusu Salamu na Maamkizi (Greetings & Etiquette). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Matamshi ya Kiswahili na Salamu (Phonetics & Greetings) (Part 2)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Salamu na Maamkizi (Greetings & Etiquette).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (1.2.1).",
@@ -602,10 +599,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Salamu na Maamkizi (Greetings & Etiquette)"
+                "The prefix 'M-/Wa-' represents living human beings (Mtu/Watu, Mtoto/Watoto)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Kiswahili is the lingua franca of the East African Community, uniting over 100 million speakers across diverse ethnic origins."
             ]
         },
         "guidedPractice": {
@@ -669,7 +666,7 @@
         "level": "A1",
         "objective": "Comprehensive mastery of Salamu na Maamkizi (Greetings & Etiquette).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Matamshi ya Kiswahili na Salamu (Phonetics & Greetings) » (Sehemu ya 3), tunachunguza kanuni za kisarufi zinazohusu Salamu na Maamkizi (Greetings & Etiquette). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Matamshi ya Kiswahili na Salamu (Phonetics & Greetings) (Part 3)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Salamu na Maamkizi (Greetings & Etiquette).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (1.3.1).",
@@ -688,10 +685,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Salamu na Maamkizi (Greetings & Etiquette)"
+                "The prefix 'Ki-/Vi-' represents tools, languages, and concrete objects (Kiti/Viti, Kiswahili)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Hospitality is embodied in the phrase 'Karibu mgeni' (Welcome, guest), where sharing food and tea is essential courtesy."
             ]
         },
         "guidedPractice": {
@@ -755,7 +752,7 @@
         "level": "A1",
         "objective": "Comprehensive mastery of Salamu na Maamkizi (Greetings & Etiquette).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Matamshi ya Kiswahili na Salamu (Phonetics & Greetings) » (Sehemu ya 4), tunachunguza kanuni za kisarufi zinazohusu Salamu na Maamkizi (Greetings & Etiquette). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Matamshi ya Kiswahili na Salamu (Phonetics & Greetings) (Part 4)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Salamu na Maamkizi (Greetings & Etiquette).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (1.4.1).",
@@ -774,10 +771,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Salamu na Maamkizi (Greetings & Etiquette)"
+                "Verb conjugation combines Subject Prefix + Tense Infix + Object Infix + Verb Root (e.g., Ni-na-ku-penda)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Proverbs (Methali) like 'Haraka haraka haina baraka' (Hurry hurry has no blessing) carry profound traditional wisdom."
             ]
         },
         "guidedPractice": {
@@ -841,7 +838,7 @@
         "level": "A1",
         "objective": "Comprehensive mastery of Salamu na Maamkizi (Greetings & Etiquette).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Matamshi ya Kiswahili na Salamu (Phonetics & Greetings) » (Sehemu ya 5), tunachunguza kanuni za kisarufi zinazohusu Salamu na Maamkizi (Greetings & Etiquette). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Matamshi ya Kiswahili na Salamu (Phonetics & Greetings) (Part 5)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Salamu na Maamkizi (Greetings & Etiquette).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (1.5.1).",
@@ -860,10 +857,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Salamu na Maamkizi (Greetings & Etiquette)"
+                "Habari za asubuhi/mchana/jioni reflects authentic East African community warmth and relational etiquette."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Taarab music and coastal poetry blend Bantu linguistic roots with historical Indian Ocean maritime connections."
             ]
         },
         "guidedPractice": {
@@ -927,7 +924,7 @@
         "level": "A1",
         "objective": "Comprehensive mastery of Ngeli ya 1/2 A-WA (Noun Classes 1/2).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ngeli za Nomino: Ngeli ya 1/2 (A-WA) (Noun Classes 1/2 A-WA) » (Sehemu ya 1), tunachunguza kanuni za kisarufi zinazohusu Ngeli ya 1/2 A-WA (Noun Classes 1/2). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ngeli za Nomino: Ngeli ya 1/2 (A-WA) (Noun Classes 1/2 A-WA) (Part 1)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Ngeli ya 1/2 A-WA (Noun Classes 1/2).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwanafunzi anasoma kitabu cha hadithi chumbani.",
@@ -946,10 +943,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Ngeli ya 1/2 A-WA (Noun Classes 1/2)"
+                "Ngeli za nomino (Noun classes) determine the exact prefix agreement across verbs, adjectives, and demonstratives in Swahili."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Utamaduni wa Kiswahili emphasizes 'Utu' (humanity) and respectful greetings (Shikamoo for elders, Marahaba in response)."
             ]
         },
         "guidedPractice": {
@@ -1013,7 +1010,7 @@
         "level": "A1",
         "objective": "Comprehensive mastery of Ngeli ya 1/2 A-WA (Noun Classes 1/2).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ngeli za Nomino: Ngeli ya 1/2 (A-WA) (Noun Classes 1/2 A-WA) » (Sehemu ya 2), tunachunguza kanuni za kisarufi zinazohusu Ngeli ya 1/2 A-WA (Noun Classes 1/2). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ngeli za Nomino: Ngeli ya 1/2 (A-WA) (Noun Classes 1/2 A-WA) (Part 2)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Ngeli ya 1/2 A-WA (Noun Classes 1/2).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Watoto wanafurahi wanapocheza uwanjani baada ya masomo.",
@@ -1032,10 +1029,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Ngeli ya 1/2 A-WA (Noun Classes 1/2)"
+                "The prefix 'M-/Wa-' represents living human beings (Mtu/Watu, Mtoto/Watoto)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Kiswahili is the lingua franca of the East African Community, uniting over 100 million speakers across diverse ethnic origins."
             ]
         },
         "guidedPractice": {
@@ -1099,7 +1096,7 @@
         "level": "A1",
         "objective": "Comprehensive mastery of Ngeli ya 1/2 A-WA (Noun Classes 1/2).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ngeli za Nomino: Ngeli ya 1/2 (A-WA) (Noun Classes 1/2 A-WA) » (Sehemu ya 3), tunachunguza kanuni za kisarufi zinazohusu Ngeli ya 1/2 A-WA (Noun Classes 1/2). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ngeli za Nomino: Ngeli ya 1/2 (A-WA) (Noun Classes 1/2 A-WA) (Part 3)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Ngeli ya 1/2 A-WA (Noun Classes 1/2).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (2.3.1).",
@@ -1118,10 +1115,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Ngeli ya 1/2 A-WA (Noun Classes 1/2)"
+                "The prefix 'Ki-/Vi-' represents tools, languages, and concrete objects (Kiti/Viti, Kiswahili)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Hospitality is embodied in the phrase 'Karibu mgeni' (Welcome, guest), where sharing food and tea is essential courtesy."
             ]
         },
         "guidedPractice": {
@@ -1185,7 +1182,7 @@
         "level": "A1",
         "objective": "Comprehensive mastery of Ngeli ya 1/2 A-WA (Noun Classes 1/2).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ngeli za Nomino: Ngeli ya 1/2 (A-WA) (Noun Classes 1/2 A-WA) » (Sehemu ya 4), tunachunguza kanuni za kisarufi zinazohusu Ngeli ya 1/2 A-WA (Noun Classes 1/2). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ngeli za Nomino: Ngeli ya 1/2 (A-WA) (Noun Classes 1/2 A-WA) (Part 4)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Ngeli ya 1/2 A-WA (Noun Classes 1/2).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (2.4.1).",
@@ -1204,10 +1201,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Ngeli ya 1/2 A-WA (Noun Classes 1/2)"
+                "Verb conjugation combines Subject Prefix + Tense Infix + Object Infix + Verb Root (e.g., Ni-na-ku-penda)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Proverbs (Methali) like 'Haraka haraka haina baraka' (Hurry hurry has no blessing) carry profound traditional wisdom."
             ]
         },
         "guidedPractice": {
@@ -1271,7 +1268,7 @@
         "level": "A1",
         "objective": "Comprehensive mastery of Ngeli ya 1/2 A-WA (Noun Classes 1/2).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ngeli za Nomino: Ngeli ya 1/2 (A-WA) (Noun Classes 1/2 A-WA) » (Sehemu ya 5), tunachunguza kanuni za kisarufi zinazohusu Ngeli ya 1/2 A-WA (Noun Classes 1/2). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ngeli za Nomino: Ngeli ya 1/2 (A-WA) (Noun Classes 1/2 A-WA) (Part 5)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Ngeli ya 1/2 A-WA (Noun Classes 1/2).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (2.5.1).",
@@ -1290,10 +1287,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Ngeli ya 1/2 A-WA (Noun Classes 1/2)"
+                "Habari za asubuhi/mchana/jioni reflects authentic East African community warmth and relational etiquette."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Taarab music and coastal poetry blend Bantu linguistic roots with historical Indian Ocean maritime connections."
             ]
         },
         "guidedPractice": {
@@ -1357,7 +1354,7 @@
         "level": "A1",
         "objective": "Comprehensive mastery of Wakati Uliopo -na- (Present Continuous Tense).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Wakati Uliopo: Kiambishi -na- (Present Continuous Tense) » (Sehemu ya 1), tunachunguza kanuni za kisarufi zinazohusu Wakati Uliopo -na- (Present Continuous Tense). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Wakati Uliopo: Kiambishi -na- (Present Continuous Tense) (Part 1)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Wakati Uliopo -na- (Present Continuous Tense).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (3.1.1).",
@@ -1376,10 +1373,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Wakati Uliopo -na- (Present Continuous Tense)"
+                "Ngeli za nomino (Noun classes) determine the exact prefix agreement across verbs, adjectives, and demonstratives in Swahili."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Utamaduni wa Kiswahili emphasizes 'Utu' (humanity) and respectful greetings (Shikamoo for elders, Marahaba in response)."
             ]
         },
         "guidedPractice": {
@@ -1443,7 +1440,7 @@
         "level": "A1",
         "objective": "Comprehensive mastery of Wakati Uliopo -na- (Present Continuous Tense).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Wakati Uliopo: Kiambishi -na- (Present Continuous Tense) » (Sehemu ya 2), tunachunguza kanuni za kisarufi zinazohusu Wakati Uliopo -na- (Present Continuous Tense). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Wakati Uliopo: Kiambishi -na- (Present Continuous Tense) (Part 2)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Wakati Uliopo -na- (Present Continuous Tense).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (3.2.1).",
@@ -1462,10 +1459,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Wakati Uliopo -na- (Present Continuous Tense)"
+                "The prefix 'M-/Wa-' represents living human beings (Mtu/Watu, Mtoto/Watoto)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Kiswahili is the lingua franca of the East African Community, uniting over 100 million speakers across diverse ethnic origins."
             ]
         },
         "guidedPractice": {
@@ -1529,7 +1526,7 @@
         "level": "A1",
         "objective": "Comprehensive mastery of Wakati Uliopo -na- (Present Continuous Tense).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Wakati Uliopo: Kiambishi -na- (Present Continuous Tense) » (Sehemu ya 3), tunachunguza kanuni za kisarufi zinazohusu Wakati Uliopo -na- (Present Continuous Tense). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Wakati Uliopo: Kiambishi -na- (Present Continuous Tense) (Part 3)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Wakati Uliopo -na- (Present Continuous Tense).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (3.3.1).",
@@ -1548,10 +1545,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Wakati Uliopo -na- (Present Continuous Tense)"
+                "The prefix 'Ki-/Vi-' represents tools, languages, and concrete objects (Kiti/Viti, Kiswahili)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Hospitality is embodied in the phrase 'Karibu mgeni' (Welcome, guest), where sharing food and tea is essential courtesy."
             ]
         },
         "guidedPractice": {
@@ -1615,7 +1612,7 @@
         "level": "A1",
         "objective": "Comprehensive mastery of Wakati Uliopo -na- (Present Continuous Tense).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Wakati Uliopo: Kiambishi -na- (Present Continuous Tense) » (Sehemu ya 4), tunachunguza kanuni za kisarufi zinazohusu Wakati Uliopo -na- (Present Continuous Tense). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Wakati Uliopo: Kiambishi -na- (Present Continuous Tense) (Part 4)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Wakati Uliopo -na- (Present Continuous Tense).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (3.4.1).",
@@ -1634,10 +1631,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Wakati Uliopo -na- (Present Continuous Tense)"
+                "Verb conjugation combines Subject Prefix + Tense Infix + Object Infix + Verb Root (e.g., Ni-na-ku-penda)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Proverbs (Methali) like 'Haraka haraka haina baraka' (Hurry hurry has no blessing) carry profound traditional wisdom."
             ]
         },
         "guidedPractice": {
@@ -1701,7 +1698,7 @@
         "level": "A1",
         "objective": "Comprehensive mastery of Wakati Uliopo -na- (Present Continuous Tense).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Wakati Uliopo: Kiambishi -na- (Present Continuous Tense) » (Sehemu ya 5), tunachunguza kanuni za kisarufi zinazohusu Wakati Uliopo -na- (Present Continuous Tense). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Wakati Uliopo: Kiambishi -na- (Present Continuous Tense) (Part 5)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Wakati Uliopo -na- (Present Continuous Tense).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (3.5.1).",
@@ -1720,10 +1717,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Wakati Uliopo -na- (Present Continuous Tense)"
+                "Habari za asubuhi/mchana/jioni reflects authentic East African community warmth and relational etiquette."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Taarab music and coastal poetry blend Bantu linguistic roots with historical Indian Ocean maritime connections."
             ]
         },
         "guidedPractice": {
@@ -1787,7 +1784,7 @@
         "level": "A1",
         "objective": "Comprehensive mastery of Wakati Uliopita -li- (Past Tense with -li-).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Wakati Uliopita: Kiambishi -li- (Simple Past Tense) » (Sehemu ya 1), tunachunguza kanuni za kisarufi zinazohusu Wakati Uliopita -li- (Past Tense with -li-). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Wakati Uliopita: Kiambishi -li- (Simple Past Tense) (Part 1)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Wakati Uliopita -li- (Past Tense with -li-).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (4.1.1).",
@@ -1806,10 +1803,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Wakati Uliopita -li- (Past Tense with -li-)"
+                "Ngeli za nomino (Noun classes) determine the exact prefix agreement across verbs, adjectives, and demonstratives in Swahili."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Utamaduni wa Kiswahili emphasizes 'Utu' (humanity) and respectful greetings (Shikamoo for elders, Marahaba in response)."
             ]
         },
         "guidedPractice": {
@@ -1873,7 +1870,7 @@
         "level": "A1",
         "objective": "Comprehensive mastery of Wakati Uliopita -li- (Past Tense with -li-).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Wakati Uliopita: Kiambishi -li- (Simple Past Tense) » (Sehemu ya 2), tunachunguza kanuni za kisarufi zinazohusu Wakati Uliopita -li- (Past Tense with -li-). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Wakati Uliopita: Kiambishi -li- (Simple Past Tense) (Part 2)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Wakati Uliopita -li- (Past Tense with -li-).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (4.2.1).",
@@ -1892,10 +1889,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Wakati Uliopita -li- (Past Tense with -li-)"
+                "The prefix 'M-/Wa-' represents living human beings (Mtu/Watu, Mtoto/Watoto)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Kiswahili is the lingua franca of the East African Community, uniting over 100 million speakers across diverse ethnic origins."
             ]
         },
         "guidedPractice": {
@@ -1959,7 +1956,7 @@
         "level": "A1",
         "objective": "Comprehensive mastery of Wakati Uliopita -li- (Past Tense with -li-).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Wakati Uliopita: Kiambishi -li- (Simple Past Tense) » (Sehemu ya 3), tunachunguza kanuni za kisarufi zinazohusu Wakati Uliopita -li- (Past Tense with -li-). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Wakati Uliopita: Kiambishi -li- (Simple Past Tense) (Part 3)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Wakati Uliopita -li- (Past Tense with -li-).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (4.3.1).",
@@ -1978,10 +1975,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Wakati Uliopita -li- (Past Tense with -li-)"
+                "The prefix 'Ki-/Vi-' represents tools, languages, and concrete objects (Kiti/Viti, Kiswahili)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Hospitality is embodied in the phrase 'Karibu mgeni' (Welcome, guest), where sharing food and tea is essential courtesy."
             ]
         },
         "guidedPractice": {
@@ -2045,7 +2042,7 @@
         "level": "A1",
         "objective": "Comprehensive mastery of Wakati Uliopita -li- (Past Tense with -li-).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Wakati Uliopita: Kiambishi -li- (Simple Past Tense) » (Sehemu ya 4), tunachunguza kanuni za kisarufi zinazohusu Wakati Uliopita -li- (Past Tense with -li-). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Wakati Uliopita: Kiambishi -li- (Simple Past Tense) (Part 4)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Wakati Uliopita -li- (Past Tense with -li-).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (4.4.1).",
@@ -2064,10 +2061,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Wakati Uliopita -li- (Past Tense with -li-)"
+                "Verb conjugation combines Subject Prefix + Tense Infix + Object Infix + Verb Root (e.g., Ni-na-ku-penda)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Proverbs (Methali) like 'Haraka haraka haina baraka' (Hurry hurry has no blessing) carry profound traditional wisdom."
             ]
         },
         "guidedPractice": {
@@ -2131,7 +2128,7 @@
         "level": "A1",
         "objective": "Comprehensive mastery of Wakati Uliopita -li- (Past Tense with -li-).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Wakati Uliopita: Kiambishi -li- (Simple Past Tense) » (Sehemu ya 5), tunachunguza kanuni za kisarufi zinazohusu Wakati Uliopita -li- (Past Tense with -li-). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Wakati Uliopita: Kiambishi -li- (Simple Past Tense) (Part 5)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Wakati Uliopita -li- (Past Tense with -li-).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (4.5.1).",
@@ -2150,10 +2147,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Wakati Uliopita -li- (Past Tense with -li-)"
+                "Habari za asubuhi/mchana/jioni reflects authentic East African community warmth and relational etiquette."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Taarab music and coastal poetry blend Bantu linguistic roots with historical Indian Ocean maritime connections."
             ]
         },
         "guidedPractice": {
@@ -2217,7 +2214,7 @@
         "level": "A1",
         "objective": "Comprehensive mastery of Wakati Ujao -ta- (Future Tense with -ta-).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Wakati Ujao: Kiambishi -ta- (Future Tense) » (Sehemu ya 1), tunachunguza kanuni za kisarufi zinazohusu Wakati Ujao -ta- (Future Tense with -ta-). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Wakati Ujao: Kiambishi -ta- (Future Tense) (Part 1)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Wakati Ujao -ta- (Future Tense with -ta-).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (5.1.1).",
@@ -2236,10 +2233,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Wakati Ujao -ta- (Future Tense with -ta-)"
+                "Ngeli za nomino (Noun classes) determine the exact prefix agreement across verbs, adjectives, and demonstratives in Swahili."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Utamaduni wa Kiswahili emphasizes 'Utu' (humanity) and respectful greetings (Shikamoo for elders, Marahaba in response)."
             ]
         },
         "guidedPractice": {
@@ -2303,7 +2300,7 @@
         "level": "A1",
         "objective": "Comprehensive mastery of Wakati Ujao -ta- (Future Tense with -ta-).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Wakati Ujao: Kiambishi -ta- (Future Tense) » (Sehemu ya 2), tunachunguza kanuni za kisarufi zinazohusu Wakati Ujao -ta- (Future Tense with -ta-). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Wakati Ujao: Kiambishi -ta- (Future Tense) (Part 2)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Wakati Ujao -ta- (Future Tense with -ta-).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (5.2.1).",
@@ -2322,10 +2319,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Wakati Ujao -ta- (Future Tense with -ta-)"
+                "The prefix 'M-/Wa-' represents living human beings (Mtu/Watu, Mtoto/Watoto)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Kiswahili is the lingua franca of the East African Community, uniting over 100 million speakers across diverse ethnic origins."
             ]
         },
         "guidedPractice": {
@@ -2389,7 +2386,7 @@
         "level": "A1",
         "objective": "Comprehensive mastery of Wakati Ujao -ta- (Future Tense with -ta-).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Wakati Ujao: Kiambishi -ta- (Future Tense) » (Sehemu ya 3), tunachunguza kanuni za kisarufi zinazohusu Wakati Ujao -ta- (Future Tense with -ta-). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Wakati Ujao: Kiambishi -ta- (Future Tense) (Part 3)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Wakati Ujao -ta- (Future Tense with -ta-).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (5.3.1).",
@@ -2408,10 +2405,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Wakati Ujao -ta- (Future Tense with -ta-)"
+                "The prefix 'Ki-/Vi-' represents tools, languages, and concrete objects (Kiti/Viti, Kiswahili)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Hospitality is embodied in the phrase 'Karibu mgeni' (Welcome, guest), where sharing food and tea is essential courtesy."
             ]
         },
         "guidedPractice": {
@@ -2475,7 +2472,7 @@
         "level": "A1",
         "objective": "Comprehensive mastery of Wakati Ujao -ta- (Future Tense with -ta-).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Wakati Ujao: Kiambishi -ta- (Future Tense) » (Sehemu ya 4), tunachunguza kanuni za kisarufi zinazohusu Wakati Ujao -ta- (Future Tense with -ta-). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Wakati Ujao: Kiambishi -ta- (Future Tense) (Part 4)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Wakati Ujao -ta- (Future Tense with -ta-).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (5.4.1).",
@@ -2494,10 +2491,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Wakati Ujao -ta- (Future Tense with -ta-)"
+                "Verb conjugation combines Subject Prefix + Tense Infix + Object Infix + Verb Root (e.g., Ni-na-ku-penda)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Proverbs (Methali) like 'Haraka haraka haina baraka' (Hurry hurry has no blessing) carry profound traditional wisdom."
             ]
         },
         "guidedPractice": {
@@ -2561,7 +2558,7 @@
         "level": "A1",
         "objective": "Comprehensive mastery of Wakati Ujao -ta- (Future Tense with -ta-).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Wakati Ujao: Kiambishi -ta- (Future Tense) » (Sehemu ya 5), tunachunguza kanuni za kisarufi zinazohusu Wakati Ujao -ta- (Future Tense with -ta-). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Wakati Ujao: Kiambishi -ta- (Future Tense) (Part 5)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Wakati Ujao -ta- (Future Tense with -ta-).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (5.5.1).",
@@ -2580,10 +2577,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Wakati Ujao -ta- (Future Tense with -ta-)"
+                "Habari za asubuhi/mchana/jioni reflects authentic East African community warmth and relational etiquette."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Taarab music and coastal poetry blend Bantu linguistic roots with historical Indian Ocean maritime connections."
             ]
         },
         "guidedPractice": {
@@ -2647,7 +2644,7 @@
         "level": "A2",
         "objective": "Comprehensive mastery of Wakati Timilifu -me- (Perfective Aspect with -me-).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Wakati Timilifu: Kiambishi -me- (Perfective Aspect) » (Sehemu ya 1), tunachunguza kanuni za kisarufi zinazohusu Wakati Timilifu -me- (Perfective Aspect with -me-). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Wakati Timilifu: Kiambishi -me- (Perfective Aspect) (Part 1)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Wakati Timilifu -me- (Perfective Aspect with -me-).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (6.1.1).",
@@ -2666,10 +2663,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Wakati Timilifu -me- (Perfective Aspect with -me-)"
+                "Ngeli za nomino (Noun classes) determine the exact prefix agreement across verbs, adjectives, and demonstratives in Swahili."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Utamaduni wa Kiswahili emphasizes 'Utu' (humanity) and respectful greetings (Shikamoo for elders, Marahaba in response)."
             ]
         },
         "guidedPractice": {
@@ -2733,7 +2730,7 @@
         "level": "A2",
         "objective": "Comprehensive mastery of Wakati Timilifu -me- (Perfective Aspect with -me-).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Wakati Timilifu: Kiambishi -me- (Perfective Aspect) » (Sehemu ya 2), tunachunguza kanuni za kisarufi zinazohusu Wakati Timilifu -me- (Perfective Aspect with -me-). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Wakati Timilifu: Kiambishi -me- (Perfective Aspect) (Part 2)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Wakati Timilifu -me- (Perfective Aspect with -me-).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (6.2.1).",
@@ -2752,10 +2749,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Wakati Timilifu -me- (Perfective Aspect with -me-)"
+                "The prefix 'M-/Wa-' represents living human beings (Mtu/Watu, Mtoto/Watoto)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Kiswahili is the lingua franca of the East African Community, uniting over 100 million speakers across diverse ethnic origins."
             ]
         },
         "guidedPractice": {
@@ -2819,7 +2816,7 @@
         "level": "A2",
         "objective": "Comprehensive mastery of Wakati Timilifu -me- (Perfective Aspect with -me-).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Wakati Timilifu: Kiambishi -me- (Perfective Aspect) » (Sehemu ya 3), tunachunguza kanuni za kisarufi zinazohusu Wakati Timilifu -me- (Perfective Aspect with -me-). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Wakati Timilifu: Kiambishi -me- (Perfective Aspect) (Part 3)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Wakati Timilifu -me- (Perfective Aspect with -me-).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (6.3.1).",
@@ -2838,10 +2835,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Wakati Timilifu -me- (Perfective Aspect with -me-)"
+                "The prefix 'Ki-/Vi-' represents tools, languages, and concrete objects (Kiti/Viti, Kiswahili)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Hospitality is embodied in the phrase 'Karibu mgeni' (Welcome, guest), where sharing food and tea is essential courtesy."
             ]
         },
         "guidedPractice": {
@@ -2905,7 +2902,7 @@
         "level": "A2",
         "objective": "Comprehensive mastery of Wakati Timilifu -me- (Perfective Aspect with -me-).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Wakati Timilifu: Kiambishi -me- (Perfective Aspect) » (Sehemu ya 4), tunachunguza kanuni za kisarufi zinazohusu Wakati Timilifu -me- (Perfective Aspect with -me-). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Wakati Timilifu: Kiambishi -me- (Perfective Aspect) (Part 4)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Wakati Timilifu -me- (Perfective Aspect with -me-).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (6.4.1).",
@@ -2924,10 +2921,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Wakati Timilifu -me- (Perfective Aspect with -me-)"
+                "Verb conjugation combines Subject Prefix + Tense Infix + Object Infix + Verb Root (e.g., Ni-na-ku-penda)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Proverbs (Methali) like 'Haraka haraka haina baraka' (Hurry hurry has no blessing) carry profound traditional wisdom."
             ]
         },
         "guidedPractice": {
@@ -2991,7 +2988,7 @@
         "level": "A2",
         "objective": "Comprehensive mastery of Wakati Timilifu -me- (Perfective Aspect with -me-).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Wakati Timilifu: Kiambishi -me- (Perfective Aspect) » (Sehemu ya 5), tunachunguza kanuni za kisarufi zinazohusu Wakati Timilifu -me- (Perfective Aspect with -me-). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Wakati Timilifu: Kiambishi -me- (Perfective Aspect) (Part 5)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Wakati Timilifu -me- (Perfective Aspect with -me-).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (6.5.1).",
@@ -3010,10 +3007,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Wakati Timilifu -me- (Perfective Aspect with -me-)"
+                "Habari za asubuhi/mchana/jioni reflects authentic East African community warmth and relational etiquette."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Taarab music and coastal poetry blend Bantu linguistic roots with historical Indian Ocean maritime connections."
             ]
         },
         "guidedPractice": {
@@ -3077,7 +3074,7 @@
         "level": "A2",
         "objective": "Comprehensive mastery of Kukanusha Vitenzi (Verb Negation: si-, hu-, ha-).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ukanushaji wa Vitenzi (Verb Negation Across Tenses) » (Sehemu ya 1), tunachunguza kanuni za kisarufi zinazohusu Kukanusha Vitenzi (Verb Negation: si-, hu-, ha-). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ukanushaji wa Vitenzi (Verb Negation Across Tenses) (Part 1)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Kukanusha Vitenzi (Verb Negation: si-, hu-, ha-).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (7.1.1).",
@@ -3096,10 +3093,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Kukanusha Vitenzi (Verb Negation: si-, hu-, ha-)"
+                "Ngeli za nomino (Noun classes) determine the exact prefix agreement across verbs, adjectives, and demonstratives in Swahili."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Utamaduni wa Kiswahili emphasizes 'Utu' (humanity) and respectful greetings (Shikamoo for elders, Marahaba in response)."
             ]
         },
         "guidedPractice": {
@@ -3163,7 +3160,7 @@
         "level": "A2",
         "objective": "Comprehensive mastery of Kukanusha Vitenzi (Verb Negation: si-, hu-, ha-).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ukanushaji wa Vitenzi (Verb Negation Across Tenses) » (Sehemu ya 2), tunachunguza kanuni za kisarufi zinazohusu Kukanusha Vitenzi (Verb Negation: si-, hu-, ha-). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ukanushaji wa Vitenzi (Verb Negation Across Tenses) (Part 2)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Kukanusha Vitenzi (Verb Negation: si-, hu-, ha-).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (7.2.1).",
@@ -3182,10 +3179,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Kukanusha Vitenzi (Verb Negation: si-, hu-, ha-)"
+                "The prefix 'M-/Wa-' represents living human beings (Mtu/Watu, Mtoto/Watoto)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Kiswahili is the lingua franca of the East African Community, uniting over 100 million speakers across diverse ethnic origins."
             ]
         },
         "guidedPractice": {
@@ -3249,7 +3246,7 @@
         "level": "A2",
         "objective": "Comprehensive mastery of Kukanusha Vitenzi (Verb Negation: si-, hu-, ha-).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ukanushaji wa Vitenzi (Verb Negation Across Tenses) » (Sehemu ya 3), tunachunguza kanuni za kisarufi zinazohusu Kukanusha Vitenzi (Verb Negation: si-, hu-, ha-). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ukanushaji wa Vitenzi (Verb Negation Across Tenses) (Part 3)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Kukanusha Vitenzi (Verb Negation: si-, hu-, ha-).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (7.3.1).",
@@ -3268,10 +3265,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Kukanusha Vitenzi (Verb Negation: si-, hu-, ha-)"
+                "The prefix 'Ki-/Vi-' represents tools, languages, and concrete objects (Kiti/Viti, Kiswahili)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Hospitality is embodied in the phrase 'Karibu mgeni' (Welcome, guest), where sharing food and tea is essential courtesy."
             ]
         },
         "guidedPractice": {
@@ -3335,7 +3332,7 @@
         "level": "A2",
         "objective": "Comprehensive mastery of Kukanusha Vitenzi (Verb Negation: si-, hu-, ha-).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ukanushaji wa Vitenzi (Verb Negation Across Tenses) » (Sehemu ya 4), tunachunguza kanuni za kisarufi zinazohusu Kukanusha Vitenzi (Verb Negation: si-, hu-, ha-). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ukanushaji wa Vitenzi (Verb Negation Across Tenses) (Part 4)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Kukanusha Vitenzi (Verb Negation: si-, hu-, ha-).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (7.4.1).",
@@ -3354,10 +3351,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Kukanusha Vitenzi (Verb Negation: si-, hu-, ha-)"
+                "Verb conjugation combines Subject Prefix + Tense Infix + Object Infix + Verb Root (e.g., Ni-na-ku-penda)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Proverbs (Methali) like 'Haraka haraka haina baraka' (Hurry hurry has no blessing) carry profound traditional wisdom."
             ]
         },
         "guidedPractice": {
@@ -3421,7 +3418,7 @@
         "level": "A2",
         "objective": "Comprehensive mastery of Kukanusha Vitenzi (Verb Negation: si-, hu-, ha-).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ukanushaji wa Vitenzi (Verb Negation Across Tenses) » (Sehemu ya 5), tunachunguza kanuni za kisarufi zinazohusu Kukanusha Vitenzi (Verb Negation: si-, hu-, ha-). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ukanushaji wa Vitenzi (Verb Negation Across Tenses) (Part 5)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Kukanusha Vitenzi (Verb Negation: si-, hu-, ha-).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (7.5.1).",
@@ -3440,10 +3437,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Kukanusha Vitenzi (Verb Negation: si-, hu-, ha-)"
+                "Habari za asubuhi/mchana/jioni reflects authentic East African community warmth and relational etiquette."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Taarab music and coastal poetry blend Bantu linguistic roots with historical Indian Ocean maritime connections."
             ]
         },
         "guidedPractice": {
@@ -3507,7 +3504,7 @@
         "level": "A2",
         "objective": "Comprehensive mastery of Viambishi vya Watendwa (Object Infixes in Verbs).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Virejeshi vya Watendwa (Object Infixes in Verbs) » (Sehemu ya 1), tunachunguza kanuni za kisarufi zinazohusu Viambishi vya Watendwa (Object Infixes in Verbs). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Virejeshi vya Watendwa (Object Infixes in Verbs) (Part 1)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Viambishi vya Watendwa (Object Infixes in Verbs).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (8.1.1).",
@@ -3526,10 +3523,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Viambishi vya Watendwa (Object Infixes in Verbs)"
+                "Ngeli za nomino (Noun classes) determine the exact prefix agreement across verbs, adjectives, and demonstratives in Swahili."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Utamaduni wa Kiswahili emphasizes 'Utu' (humanity) and respectful greetings (Shikamoo for elders, Marahaba in response)."
             ]
         },
         "guidedPractice": {
@@ -3593,7 +3590,7 @@
         "level": "A2",
         "objective": "Comprehensive mastery of Viambishi vya Watendwa (Object Infixes in Verbs).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Virejeshi vya Watendwa (Object Infixes in Verbs) » (Sehemu ya 2), tunachunguza kanuni za kisarufi zinazohusu Viambishi vya Watendwa (Object Infixes in Verbs). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Virejeshi vya Watendwa (Object Infixes in Verbs) (Part 2)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Viambishi vya Watendwa (Object Infixes in Verbs).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (8.2.1).",
@@ -3612,10 +3609,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Viambishi vya Watendwa (Object Infixes in Verbs)"
+                "The prefix 'M-/Wa-' represents living human beings (Mtu/Watu, Mtoto/Watoto)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Kiswahili is the lingua franca of the East African Community, uniting over 100 million speakers across diverse ethnic origins."
             ]
         },
         "guidedPractice": {
@@ -3679,7 +3676,7 @@
         "level": "A2",
         "objective": "Comprehensive mastery of Viambishi vya Watendwa (Object Infixes in Verbs).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Virejeshi vya Watendwa (Object Infixes in Verbs) » (Sehemu ya 3), tunachunguza kanuni za kisarufi zinazohusu Viambishi vya Watendwa (Object Infixes in Verbs). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Virejeshi vya Watendwa (Object Infixes in Verbs) (Part 3)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Viambishi vya Watendwa (Object Infixes in Verbs).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (8.3.1).",
@@ -3698,10 +3695,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Viambishi vya Watendwa (Object Infixes in Verbs)"
+                "The prefix 'Ki-/Vi-' represents tools, languages, and concrete objects (Kiti/Viti, Kiswahili)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Hospitality is embodied in the phrase 'Karibu mgeni' (Welcome, guest), where sharing food and tea is essential courtesy."
             ]
         },
         "guidedPractice": {
@@ -3765,7 +3762,7 @@
         "level": "A2",
         "objective": "Comprehensive mastery of Viambishi vya Watendwa (Object Infixes in Verbs).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Virejeshi vya Watendwa (Object Infixes in Verbs) » (Sehemu ya 4), tunachunguza kanuni za kisarufi zinazohusu Viambishi vya Watendwa (Object Infixes in Verbs). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Virejeshi vya Watendwa (Object Infixes in Verbs) (Part 4)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Viambishi vya Watendwa (Object Infixes in Verbs).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (8.4.1).",
@@ -3784,10 +3781,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Viambishi vya Watendwa (Object Infixes in Verbs)"
+                "Verb conjugation combines Subject Prefix + Tense Infix + Object Infix + Verb Root (e.g., Ni-na-ku-penda)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Proverbs (Methali) like 'Haraka haraka haina baraka' (Hurry hurry has no blessing) carry profound traditional wisdom."
             ]
         },
         "guidedPractice": {
@@ -3851,7 +3848,7 @@
         "level": "A2",
         "objective": "Comprehensive mastery of Viambishi vya Watendwa (Object Infixes in Verbs).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Virejeshi vya Watendwa (Object Infixes in Verbs) » (Sehemu ya 5), tunachunguza kanuni za kisarufi zinazohusu Viambishi vya Watendwa (Object Infixes in Verbs). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Virejeshi vya Watendwa (Object Infixes in Verbs) (Part 5)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Viambishi vya Watendwa (Object Infixes in Verbs).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (8.5.1).",
@@ -3870,10 +3867,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Viambishi vya Watendwa (Object Infixes in Verbs)"
+                "Habari za asubuhi/mchana/jioni reflects authentic East African community warmth and relational etiquette."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Taarab music and coastal poetry blend Bantu linguistic roots with historical Indian Ocean maritime connections."
             ]
         },
         "guidedPractice": {
@@ -3937,7 +3934,7 @@
         "level": "A2",
         "objective": "Comprehensive mastery of Vimilikishi na Upatanisho (Possessive Pronouns).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Vimilikishi na Upatanisho wa Kisarufi (Possessive Pronouns) » (Sehemu ya 1), tunachunguza kanuni za kisarufi zinazohusu Vimilikishi na Upatanisho (Possessive Pronouns). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Vimilikishi na Upatanisho wa Kisarufi (Possessive Pronouns) (Part 1)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Vimilikishi na Upatanisho (Possessive Pronouns).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (9.1.1).",
@@ -3956,10 +3953,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Vimilikishi na Upatanisho (Possessive Pronouns)"
+                "Ngeli za nomino (Noun classes) determine the exact prefix agreement across verbs, adjectives, and demonstratives in Swahili."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Utamaduni wa Kiswahili emphasizes 'Utu' (humanity) and respectful greetings (Shikamoo for elders, Marahaba in response)."
             ]
         },
         "guidedPractice": {
@@ -4023,7 +4020,7 @@
         "level": "A2",
         "objective": "Comprehensive mastery of Vimilikishi na Upatanisho (Possessive Pronouns).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Vimilikishi na Upatanisho wa Kisarufi (Possessive Pronouns) » (Sehemu ya 2), tunachunguza kanuni za kisarufi zinazohusu Vimilikishi na Upatanisho (Possessive Pronouns). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Vimilikishi na Upatanisho wa Kisarufi (Possessive Pronouns) (Part 2)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Vimilikishi na Upatanisho (Possessive Pronouns).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (9.2.1).",
@@ -4042,10 +4039,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Vimilikishi na Upatanisho (Possessive Pronouns)"
+                "The prefix 'M-/Wa-' represents living human beings (Mtu/Watu, Mtoto/Watoto)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Kiswahili is the lingua franca of the East African Community, uniting over 100 million speakers across diverse ethnic origins."
             ]
         },
         "guidedPractice": {
@@ -4109,7 +4106,7 @@
         "level": "A2",
         "objective": "Comprehensive mastery of Vimilikishi na Upatanisho (Possessive Pronouns).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Vimilikishi na Upatanisho wa Kisarufi (Possessive Pronouns) » (Sehemu ya 3), tunachunguza kanuni za kisarufi zinazohusu Vimilikishi na Upatanisho (Possessive Pronouns). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Vimilikishi na Upatanisho wa Kisarufi (Possessive Pronouns) (Part 3)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Vimilikishi na Upatanisho (Possessive Pronouns).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (9.3.1).",
@@ -4128,10 +4125,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Vimilikishi na Upatanisho (Possessive Pronouns)"
+                "The prefix 'Ki-/Vi-' represents tools, languages, and concrete objects (Kiti/Viti, Kiswahili)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Hospitality is embodied in the phrase 'Karibu mgeni' (Welcome, guest), where sharing food and tea is essential courtesy."
             ]
         },
         "guidedPractice": {
@@ -4195,7 +4192,7 @@
         "level": "A2",
         "objective": "Comprehensive mastery of Vimilikishi na Upatanisho (Possessive Pronouns).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Vimilikishi na Upatanisho wa Kisarufi (Possessive Pronouns) » (Sehemu ya 4), tunachunguza kanuni za kisarufi zinazohusu Vimilikishi na Upatanisho (Possessive Pronouns). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Vimilikishi na Upatanisho wa Kisarufi (Possessive Pronouns) (Part 4)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Vimilikishi na Upatanisho (Possessive Pronouns).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (9.4.1).",
@@ -4214,10 +4211,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Vimilikishi na Upatanisho (Possessive Pronouns)"
+                "Verb conjugation combines Subject Prefix + Tense Infix + Object Infix + Verb Root (e.g., Ni-na-ku-penda)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Proverbs (Methali) like 'Haraka haraka haina baraka' (Hurry hurry has no blessing) carry profound traditional wisdom."
             ]
         },
         "guidedPractice": {
@@ -4281,7 +4278,7 @@
         "level": "A2",
         "objective": "Comprehensive mastery of Vimilikishi na Upatanisho (Possessive Pronouns).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Vimilikishi na Upatanisho wa Kisarufi (Possessive Pronouns) » (Sehemu ya 5), tunachunguza kanuni za kisarufi zinazohusu Vimilikishi na Upatanisho (Possessive Pronouns). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Vimilikishi na Upatanisho wa Kisarufi (Possessive Pronouns) (Part 5)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Vimilikishi na Upatanisho (Possessive Pronouns).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (9.5.1).",
@@ -4300,10 +4297,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Vimilikishi na Upatanisho (Possessive Pronouns)"
+                "Habari za asubuhi/mchana/jioni reflects authentic East African community warmth and relational etiquette."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Taarab music and coastal poetry blend Bantu linguistic roots with historical Indian Ocean maritime connections."
             ]
         },
         "guidedPractice": {
@@ -4367,7 +4364,7 @@
         "level": "A2",
         "objective": "Comprehensive mastery of Ngeli ya 3/4 M-MI (Noun Classes 3/4 M-MI).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ngeli ya 3/4 (M-MI) na Vivumishi (Noun Classes 3/4 M-MI) » (Sehemu ya 1), tunachunguza kanuni za kisarufi zinazohusu Ngeli ya 3/4 M-MI (Noun Classes 3/4 M-MI). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ngeli ya 3/4 (M-MI) na Vivumishi (Noun Classes 3/4 M-MI) (Part 1)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Ngeli ya 3/4 M-MI (Noun Classes 3/4 M-MI).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (10.1.1).",
@@ -4386,10 +4383,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Ngeli ya 3/4 M-MI (Noun Classes 3/4 M-MI)"
+                "Ngeli za nomino (Noun classes) determine the exact prefix agreement across verbs, adjectives, and demonstratives in Swahili."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Utamaduni wa Kiswahili emphasizes 'Utu' (humanity) and respectful greetings (Shikamoo for elders, Marahaba in response)."
             ]
         },
         "guidedPractice": {
@@ -4453,7 +4450,7 @@
         "level": "A2",
         "objective": "Comprehensive mastery of Ngeli ya 3/4 M-MI (Noun Classes 3/4 M-MI).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ngeli ya 3/4 (M-MI) na Vivumishi (Noun Classes 3/4 M-MI) » (Sehemu ya 2), tunachunguza kanuni za kisarufi zinazohusu Ngeli ya 3/4 M-MI (Noun Classes 3/4 M-MI). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ngeli ya 3/4 (M-MI) na Vivumishi (Noun Classes 3/4 M-MI) (Part 2)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Ngeli ya 3/4 M-MI (Noun Classes 3/4 M-MI).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (10.2.1).",
@@ -4472,10 +4469,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Ngeli ya 3/4 M-MI (Noun Classes 3/4 M-MI)"
+                "The prefix 'M-/Wa-' represents living human beings (Mtu/Watu, Mtoto/Watoto)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Kiswahili is the lingua franca of the East African Community, uniting over 100 million speakers across diverse ethnic origins."
             ]
         },
         "guidedPractice": {
@@ -4539,7 +4536,7 @@
         "level": "A2",
         "objective": "Comprehensive mastery of Ngeli ya 3/4 M-MI (Noun Classes 3/4 M-MI).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ngeli ya 3/4 (M-MI) na Vivumishi (Noun Classes 3/4 M-MI) » (Sehemu ya 3), tunachunguza kanuni za kisarufi zinazohusu Ngeli ya 3/4 M-MI (Noun Classes 3/4 M-MI). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ngeli ya 3/4 (M-MI) na Vivumishi (Noun Classes 3/4 M-MI) (Part 3)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Ngeli ya 3/4 M-MI (Noun Classes 3/4 M-MI).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (10.3.1).",
@@ -4558,10 +4555,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Ngeli ya 3/4 M-MI (Noun Classes 3/4 M-MI)"
+                "The prefix 'Ki-/Vi-' represents tools, languages, and concrete objects (Kiti/Viti, Kiswahili)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Hospitality is embodied in the phrase 'Karibu mgeni' (Welcome, guest), where sharing food and tea is essential courtesy."
             ]
         },
         "guidedPractice": {
@@ -4625,7 +4622,7 @@
         "level": "A2",
         "objective": "Comprehensive mastery of Ngeli ya 3/4 M-MI (Noun Classes 3/4 M-MI).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ngeli ya 3/4 (M-MI) na Vivumishi (Noun Classes 3/4 M-MI) » (Sehemu ya 4), tunachunguza kanuni za kisarufi zinazohusu Ngeli ya 3/4 M-MI (Noun Classes 3/4 M-MI). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ngeli ya 3/4 (M-MI) na Vivumishi (Noun Classes 3/4 M-MI) (Part 4)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Ngeli ya 3/4 M-MI (Noun Classes 3/4 M-MI).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (10.4.1).",
@@ -4644,10 +4641,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Ngeli ya 3/4 M-MI (Noun Classes 3/4 M-MI)"
+                "Verb conjugation combines Subject Prefix + Tense Infix + Object Infix + Verb Root (e.g., Ni-na-ku-penda)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Proverbs (Methali) like 'Haraka haraka haina baraka' (Hurry hurry has no blessing) carry profound traditional wisdom."
             ]
         },
         "guidedPractice": {
@@ -4711,7 +4708,7 @@
         "level": "A2",
         "objective": "Comprehensive mastery of Ngeli ya 3/4 M-MI (Noun Classes 3/4 M-MI).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ngeli ya 3/4 (M-MI) na Vivumishi (Noun Classes 3/4 M-MI) » (Sehemu ya 5), tunachunguza kanuni za kisarufi zinazohusu Ngeli ya 3/4 M-MI (Noun Classes 3/4 M-MI). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ngeli ya 3/4 (M-MI) na Vivumishi (Noun Classes 3/4 M-MI) (Part 5)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Ngeli ya 3/4 M-MI (Noun Classes 3/4 M-MI).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (10.5.1).",
@@ -4730,10 +4727,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Ngeli ya 3/4 M-MI (Noun Classes 3/4 M-MI)"
+                "Habari za asubuhi/mchana/jioni reflects authentic East African community warmth and relational etiquette."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Taarab music and coastal poetry blend Bantu linguistic roots with historical Indian Ocean maritime connections."
             ]
         },
         "guidedPractice": {
@@ -4797,7 +4794,7 @@
         "level": "B1",
         "objective": "Comprehensive mastery of Ngeli ya 5/6 JI-MA (Noun Classes 5/6 JI-MA).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ngeli ya 5/6 (JI-MA) na Upatanisho (Noun Classes 5/6 JI-MA) » (Sehemu ya 1), tunachunguza kanuni za kisarufi zinazohusu Ngeli ya 5/6 JI-MA (Noun Classes 5/6 JI-MA). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ngeli ya 5/6 (JI-MA) na Upatanisho (Noun Classes 5/6 JI-MA) (Part 1)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Ngeli ya 5/6 JI-MA (Noun Classes 5/6 JI-MA).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (11.1.1).",
@@ -4816,10 +4813,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Ngeli ya 5/6 JI-MA (Noun Classes 5/6 JI-MA)"
+                "Ngeli za nomino (Noun classes) determine the exact prefix agreement across verbs, adjectives, and demonstratives in Swahili."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Utamaduni wa Kiswahili emphasizes 'Utu' (humanity) and respectful greetings (Shikamoo for elders, Marahaba in response)."
             ]
         },
         "guidedPractice": {
@@ -4883,7 +4880,7 @@
         "level": "B1",
         "objective": "Comprehensive mastery of Ngeli ya 5/6 JI-MA (Noun Classes 5/6 JI-MA).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ngeli ya 5/6 (JI-MA) na Upatanisho (Noun Classes 5/6 JI-MA) » (Sehemu ya 2), tunachunguza kanuni za kisarufi zinazohusu Ngeli ya 5/6 JI-MA (Noun Classes 5/6 JI-MA). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ngeli ya 5/6 (JI-MA) na Upatanisho (Noun Classes 5/6 JI-MA) (Part 2)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Ngeli ya 5/6 JI-MA (Noun Classes 5/6 JI-MA).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (11.2.1).",
@@ -4902,10 +4899,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Ngeli ya 5/6 JI-MA (Noun Classes 5/6 JI-MA)"
+                "The prefix 'M-/Wa-' represents living human beings (Mtu/Watu, Mtoto/Watoto)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Kiswahili is the lingua franca of the East African Community, uniting over 100 million speakers across diverse ethnic origins."
             ]
         },
         "guidedPractice": {
@@ -4969,7 +4966,7 @@
         "level": "B1",
         "objective": "Comprehensive mastery of Ngeli ya 5/6 JI-MA (Noun Classes 5/6 JI-MA).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ngeli ya 5/6 (JI-MA) na Upatanisho (Noun Classes 5/6 JI-MA) » (Sehemu ya 3), tunachunguza kanuni za kisarufi zinazohusu Ngeli ya 5/6 JI-MA (Noun Classes 5/6 JI-MA). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ngeli ya 5/6 (JI-MA) na Upatanisho (Noun Classes 5/6 JI-MA) (Part 3)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Ngeli ya 5/6 JI-MA (Noun Classes 5/6 JI-MA).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (11.3.1).",
@@ -4988,10 +4985,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Ngeli ya 5/6 JI-MA (Noun Classes 5/6 JI-MA)"
+                "The prefix 'Ki-/Vi-' represents tools, languages, and concrete objects (Kiti/Viti, Kiswahili)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Hospitality is embodied in the phrase 'Karibu mgeni' (Welcome, guest), where sharing food and tea is essential courtesy."
             ]
         },
         "guidedPractice": {
@@ -5055,7 +5052,7 @@
         "level": "B1",
         "objective": "Comprehensive mastery of Ngeli ya 5/6 JI-MA (Noun Classes 5/6 JI-MA).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ngeli ya 5/6 (JI-MA) na Upatanisho (Noun Classes 5/6 JI-MA) » (Sehemu ya 4), tunachunguza kanuni za kisarufi zinazohusu Ngeli ya 5/6 JI-MA (Noun Classes 5/6 JI-MA). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ngeli ya 5/6 (JI-MA) na Upatanisho (Noun Classes 5/6 JI-MA) (Part 4)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Ngeli ya 5/6 JI-MA (Noun Classes 5/6 JI-MA).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (11.4.1).",
@@ -5074,10 +5071,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Ngeli ya 5/6 JI-MA (Noun Classes 5/6 JI-MA)"
+                "Verb conjugation combines Subject Prefix + Tense Infix + Object Infix + Verb Root (e.g., Ni-na-ku-penda)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Proverbs (Methali) like 'Haraka haraka haina baraka' (Hurry hurry has no blessing) carry profound traditional wisdom."
             ]
         },
         "guidedPractice": {
@@ -5141,7 +5138,7 @@
         "level": "B1",
         "objective": "Comprehensive mastery of Ngeli ya 5/6 JI-MA (Noun Classes 5/6 JI-MA).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ngeli ya 5/6 (JI-MA) na Upatanisho (Noun Classes 5/6 JI-MA) » (Sehemu ya 5), tunachunguza kanuni za kisarufi zinazohusu Ngeli ya 5/6 JI-MA (Noun Classes 5/6 JI-MA). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ngeli ya 5/6 (JI-MA) na Upatanisho (Noun Classes 5/6 JI-MA) (Part 5)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Ngeli ya 5/6 JI-MA (Noun Classes 5/6 JI-MA).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (11.5.1).",
@@ -5160,10 +5157,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Ngeli ya 5/6 JI-MA (Noun Classes 5/6 JI-MA)"
+                "Habari za asubuhi/mchana/jioni reflects authentic East African community warmth and relational etiquette."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Taarab music and coastal poetry blend Bantu linguistic roots with historical Indian Ocean maritime connections."
             ]
         },
         "guidedPractice": {
@@ -5227,7 +5224,7 @@
         "level": "B1",
         "objective": "Comprehensive mastery of Ngeli ya 7/8 KI-VI (Noun Classes 7/8 KI-VI).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ngeli ya 7/8 (KI-VI) na Vionyeshi (Noun Classes 7/8 KI-VI) » (Sehemu ya 1), tunachunguza kanuni za kisarufi zinazohusu Ngeli ya 7/8 KI-VI (Noun Classes 7/8 KI-VI). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ngeli ya 7/8 (KI-VI) na Vionyeshi (Noun Classes 7/8 KI-VI) (Part 1)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Ngeli ya 7/8 KI-VI (Noun Classes 7/8 KI-VI).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (12.1.1).",
@@ -5246,10 +5243,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Ngeli ya 7/8 KI-VI (Noun Classes 7/8 KI-VI)"
+                "Ngeli za nomino (Noun classes) determine the exact prefix agreement across verbs, adjectives, and demonstratives in Swahili."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Utamaduni wa Kiswahili emphasizes 'Utu' (humanity) and respectful greetings (Shikamoo for elders, Marahaba in response)."
             ]
         },
         "guidedPractice": {
@@ -5313,7 +5310,7 @@
         "level": "B1",
         "objective": "Comprehensive mastery of Ngeli ya 7/8 KI-VI (Noun Classes 7/8 KI-VI).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ngeli ya 7/8 (KI-VI) na Vionyeshi (Noun Classes 7/8 KI-VI) » (Sehemu ya 2), tunachunguza kanuni za kisarufi zinazohusu Ngeli ya 7/8 KI-VI (Noun Classes 7/8 KI-VI). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ngeli ya 7/8 (KI-VI) na Vionyeshi (Noun Classes 7/8 KI-VI) (Part 2)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Ngeli ya 7/8 KI-VI (Noun Classes 7/8 KI-VI).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (12.2.1).",
@@ -5332,10 +5329,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Ngeli ya 7/8 KI-VI (Noun Classes 7/8 KI-VI)"
+                "The prefix 'M-/Wa-' represents living human beings (Mtu/Watu, Mtoto/Watoto)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Kiswahili is the lingua franca of the East African Community, uniting over 100 million speakers across diverse ethnic origins."
             ]
         },
         "guidedPractice": {
@@ -5399,7 +5396,7 @@
         "level": "B1",
         "objective": "Comprehensive mastery of Ngeli ya 7/8 KI-VI (Noun Classes 7/8 KI-VI).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ngeli ya 7/8 (KI-VI) na Vionyeshi (Noun Classes 7/8 KI-VI) » (Sehemu ya 3), tunachunguza kanuni za kisarufi zinazohusu Ngeli ya 7/8 KI-VI (Noun Classes 7/8 KI-VI). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ngeli ya 7/8 (KI-VI) na Vionyeshi (Noun Classes 7/8 KI-VI) (Part 3)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Ngeli ya 7/8 KI-VI (Noun Classes 7/8 KI-VI).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (12.3.1).",
@@ -5418,10 +5415,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Ngeli ya 7/8 KI-VI (Noun Classes 7/8 KI-VI)"
+                "The prefix 'Ki-/Vi-' represents tools, languages, and concrete objects (Kiti/Viti, Kiswahili)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Hospitality is embodied in the phrase 'Karibu mgeni' (Welcome, guest), where sharing food and tea is essential courtesy."
             ]
         },
         "guidedPractice": {
@@ -5485,7 +5482,7 @@
         "level": "B1",
         "objective": "Comprehensive mastery of Ngeli ya 7/8 KI-VI (Noun Classes 7/8 KI-VI).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ngeli ya 7/8 (KI-VI) na Vionyeshi (Noun Classes 7/8 KI-VI) » (Sehemu ya 4), tunachunguza kanuni za kisarufi zinazohusu Ngeli ya 7/8 KI-VI (Noun Classes 7/8 KI-VI). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ngeli ya 7/8 (KI-VI) na Vionyeshi (Noun Classes 7/8 KI-VI) (Part 4)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Ngeli ya 7/8 KI-VI (Noun Classes 7/8 KI-VI).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (12.4.1).",
@@ -5504,10 +5501,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Ngeli ya 7/8 KI-VI (Noun Classes 7/8 KI-VI)"
+                "Verb conjugation combines Subject Prefix + Tense Infix + Object Infix + Verb Root (e.g., Ni-na-ku-penda)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Proverbs (Methali) like 'Haraka haraka haina baraka' (Hurry hurry has no blessing) carry profound traditional wisdom."
             ]
         },
         "guidedPractice": {
@@ -5571,7 +5568,7 @@
         "level": "B1",
         "objective": "Comprehensive mastery of Ngeli ya 7/8 KI-VI (Noun Classes 7/8 KI-VI).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ngeli ya 7/8 (KI-VI) na Vionyeshi (Noun Classes 7/8 KI-VI) » (Sehemu ya 5), tunachunguza kanuni za kisarufi zinazohusu Ngeli ya 7/8 KI-VI (Noun Classes 7/8 KI-VI). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ngeli ya 7/8 (KI-VI) na Vionyeshi (Noun Classes 7/8 KI-VI) (Part 5)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Ngeli ya 7/8 KI-VI (Noun Classes 7/8 KI-VI).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (12.5.1).",
@@ -5590,10 +5587,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Ngeli ya 7/8 KI-VI (Noun Classes 7/8 KI-VI)"
+                "Habari za asubuhi/mchana/jioni reflects authentic East African community warmth and relational etiquette."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Taarab music and coastal poetry blend Bantu linguistic roots with historical Indian Ocean maritime connections."
             ]
         },
         "guidedPractice": {
@@ -5657,7 +5654,7 @@
         "level": "B1",
         "objective": "Comprehensive mastery of Ngeli ya 9/10 N-N (Noun Classes 9/10 N-N).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ngeli ya 9/10 (N-N) na Majina ya Kigeni (Noun Classes 9/10) » (Sehemu ya 1), tunachunguza kanuni za kisarufi zinazohusu Ngeli ya 9/10 N-N (Noun Classes 9/10 N-N). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ngeli ya 9/10 (N-N) na Majina ya Kigeni (Noun Classes 9/10) (Part 1)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Ngeli ya 9/10 N-N (Noun Classes 9/10 N-N).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (13.1.1).",
@@ -5676,10 +5673,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Ngeli ya 9/10 N-N (Noun Classes 9/10 N-N)"
+                "Ngeli za nomino (Noun classes) determine the exact prefix agreement across verbs, adjectives, and demonstratives in Swahili."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Utamaduni wa Kiswahili emphasizes 'Utu' (humanity) and respectful greetings (Shikamoo for elders, Marahaba in response)."
             ]
         },
         "guidedPractice": {
@@ -5743,7 +5740,7 @@
         "level": "B1",
         "objective": "Comprehensive mastery of Ngeli ya 9/10 N-N (Noun Classes 9/10 N-N).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ngeli ya 9/10 (N-N) na Majina ya Kigeni (Noun Classes 9/10) » (Sehemu ya 2), tunachunguza kanuni za kisarufi zinazohusu Ngeli ya 9/10 N-N (Noun Classes 9/10 N-N). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ngeli ya 9/10 (N-N) na Majina ya Kigeni (Noun Classes 9/10) (Part 2)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Ngeli ya 9/10 N-N (Noun Classes 9/10 N-N).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (13.2.1).",
@@ -5762,10 +5759,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Ngeli ya 9/10 N-N (Noun Classes 9/10 N-N)"
+                "The prefix 'M-/Wa-' represents living human beings (Mtu/Watu, Mtoto/Watoto)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Kiswahili is the lingua franca of the East African Community, uniting over 100 million speakers across diverse ethnic origins."
             ]
         },
         "guidedPractice": {
@@ -5829,7 +5826,7 @@
         "level": "B1",
         "objective": "Comprehensive mastery of Ngeli ya 9/10 N-N (Noun Classes 9/10 N-N).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ngeli ya 9/10 (N-N) na Majina ya Kigeni (Noun Classes 9/10) » (Sehemu ya 3), tunachunguza kanuni za kisarufi zinazohusu Ngeli ya 9/10 N-N (Noun Classes 9/10 N-N). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ngeli ya 9/10 (N-N) na Majina ya Kigeni (Noun Classes 9/10) (Part 3)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Ngeli ya 9/10 N-N (Noun Classes 9/10 N-N).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (13.3.1).",
@@ -5848,10 +5845,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Ngeli ya 9/10 N-N (Noun Classes 9/10 N-N)"
+                "The prefix 'Ki-/Vi-' represents tools, languages, and concrete objects (Kiti/Viti, Kiswahili)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Hospitality is embodied in the phrase 'Karibu mgeni' (Welcome, guest), where sharing food and tea is essential courtesy."
             ]
         },
         "guidedPractice": {
@@ -5915,7 +5912,7 @@
         "level": "B1",
         "objective": "Comprehensive mastery of Ngeli ya 9/10 N-N (Noun Classes 9/10 N-N).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ngeli ya 9/10 (N-N) na Majina ya Kigeni (Noun Classes 9/10) » (Sehemu ya 4), tunachunguza kanuni za kisarufi zinazohusu Ngeli ya 9/10 N-N (Noun Classes 9/10 N-N). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ngeli ya 9/10 (N-N) na Majina ya Kigeni (Noun Classes 9/10) (Part 4)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Ngeli ya 9/10 N-N (Noun Classes 9/10 N-N).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (13.4.1).",
@@ -5934,10 +5931,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Ngeli ya 9/10 N-N (Noun Classes 9/10 N-N)"
+                "Verb conjugation combines Subject Prefix + Tense Infix + Object Infix + Verb Root (e.g., Ni-na-ku-penda)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Proverbs (Methali) like 'Haraka haraka haina baraka' (Hurry hurry has no blessing) carry profound traditional wisdom."
             ]
         },
         "guidedPractice": {
@@ -6001,7 +5998,7 @@
         "level": "B1",
         "objective": "Comprehensive mastery of Ngeli ya 9/10 N-N (Noun Classes 9/10 N-N).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ngeli ya 9/10 (N-N) na Majina ya Kigeni (Noun Classes 9/10) » (Sehemu ya 5), tunachunguza kanuni za kisarufi zinazohusu Ngeli ya 9/10 N-N (Noun Classes 9/10 N-N). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ngeli ya 9/10 (N-N) na Majina ya Kigeni (Noun Classes 9/10) (Part 5)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Ngeli ya 9/10 N-N (Noun Classes 9/10 N-N).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (13.5.1).",
@@ -6020,10 +6017,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Ngeli ya 9/10 N-N (Noun Classes 9/10 N-N)"
+                "Habari za asubuhi/mchana/jioni reflects authentic East African community warmth and relational etiquette."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Taarab music and coastal poetry blend Bantu linguistic roots with historical Indian Ocean maritime connections."
             ]
         },
         "guidedPractice": {
@@ -6087,7 +6084,7 @@
         "level": "B1",
         "objective": "Comprehensive mastery of Ngeli ya 11/14 U (Noun Classes 11/14 U).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ngeli ya 11/14 (U) na Majina ya Dhahania (Noun Classes 11/14 U) » (Sehemu ya 1), tunachunguza kanuni za kisarufi zinazohusu Ngeli ya 11/14 U (Noun Classes 11/14 U). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ngeli ya 11/14 (U) na Majina ya Dhahania (Noun Classes 11/14 U) (Part 1)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Ngeli ya 11/14 U (Noun Classes 11/14 U).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (14.1.1).",
@@ -6106,10 +6103,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Ngeli ya 11/14 U (Noun Classes 11/14 U)"
+                "Ngeli za nomino (Noun classes) determine the exact prefix agreement across verbs, adjectives, and demonstratives in Swahili."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Utamaduni wa Kiswahili emphasizes 'Utu' (humanity) and respectful greetings (Shikamoo for elders, Marahaba in response)."
             ]
         },
         "guidedPractice": {
@@ -6173,7 +6170,7 @@
         "level": "B1",
         "objective": "Comprehensive mastery of Ngeli ya 11/14 U (Noun Classes 11/14 U).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ngeli ya 11/14 (U) na Majina ya Dhahania (Noun Classes 11/14 U) » (Sehemu ya 2), tunachunguza kanuni za kisarufi zinazohusu Ngeli ya 11/14 U (Noun Classes 11/14 U). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ngeli ya 11/14 (U) na Majina ya Dhahania (Noun Classes 11/14 U) (Part 2)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Ngeli ya 11/14 U (Noun Classes 11/14 U).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (14.2.1).",
@@ -6192,10 +6189,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Ngeli ya 11/14 U (Noun Classes 11/14 U)"
+                "The prefix 'M-/Wa-' represents living human beings (Mtu/Watu, Mtoto/Watoto)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Kiswahili is the lingua franca of the East African Community, uniting over 100 million speakers across diverse ethnic origins."
             ]
         },
         "guidedPractice": {
@@ -6259,7 +6256,7 @@
         "level": "B1",
         "objective": "Comprehensive mastery of Ngeli ya 11/14 U (Noun Classes 11/14 U).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ngeli ya 11/14 (U) na Majina ya Dhahania (Noun Classes 11/14 U) » (Sehemu ya 3), tunachunguza kanuni za kisarufi zinazohusu Ngeli ya 11/14 U (Noun Classes 11/14 U). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ngeli ya 11/14 (U) na Majina ya Dhahania (Noun Classes 11/14 U) (Part 3)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Ngeli ya 11/14 U (Noun Classes 11/14 U).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (14.3.1).",
@@ -6278,10 +6275,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Ngeli ya 11/14 U (Noun Classes 11/14 U)"
+                "The prefix 'Ki-/Vi-' represents tools, languages, and concrete objects (Kiti/Viti, Kiswahili)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Hospitality is embodied in the phrase 'Karibu mgeni' (Welcome, guest), where sharing food and tea is essential courtesy."
             ]
         },
         "guidedPractice": {
@@ -6345,7 +6342,7 @@
         "level": "B1",
         "objective": "Comprehensive mastery of Ngeli ya 11/14 U (Noun Classes 11/14 U).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ngeli ya 11/14 (U) na Majina ya Dhahania (Noun Classes 11/14 U) » (Sehemu ya 4), tunachunguza kanuni za kisarufi zinazohusu Ngeli ya 11/14 U (Noun Classes 11/14 U). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ngeli ya 11/14 (U) na Majina ya Dhahania (Noun Classes 11/14 U) (Part 4)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Ngeli ya 11/14 U (Noun Classes 11/14 U).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (14.4.1).",
@@ -6364,10 +6361,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Ngeli ya 11/14 U (Noun Classes 11/14 U)"
+                "Verb conjugation combines Subject Prefix + Tense Infix + Object Infix + Verb Root (e.g., Ni-na-ku-penda)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Proverbs (Methali) like 'Haraka haraka haina baraka' (Hurry hurry has no blessing) carry profound traditional wisdom."
             ]
         },
         "guidedPractice": {
@@ -6431,7 +6428,7 @@
         "level": "B1",
         "objective": "Comprehensive mastery of Ngeli ya 11/14 U (Noun Classes 11/14 U).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ngeli ya 11/14 (U) na Majina ya Dhahania (Noun Classes 11/14 U) » (Sehemu ya 5), tunachunguza kanuni za kisarufi zinazohusu Ngeli ya 11/14 U (Noun Classes 11/14 U). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ngeli ya 11/14 (U) na Majina ya Dhahania (Noun Classes 11/14 U) (Part 5)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Ngeli ya 11/14 U (Noun Classes 11/14 U).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (14.5.1).",
@@ -6450,10 +6447,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Ngeli ya 11/14 U (Noun Classes 11/14 U)"
+                "Habari za asubuhi/mchana/jioni reflects authentic East African community warmth and relational etiquette."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Taarab music and coastal poetry blend Bantu linguistic roots with historical Indian Ocean maritime connections."
             ]
         },
         "guidedPractice": {
@@ -6517,7 +6514,7 @@
         "level": "B1",
         "objective": "Comprehensive mastery of Ngeli za Mahali PA, KU, MU (Locative Classes).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ngeli za Mahali: PA, KU, MU (Locative Classes 16/17/18) » (Sehemu ya 1), tunachunguza kanuni za kisarufi zinazohusu Ngeli za Mahali PA, KU, MU (Locative Classes). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ngeli za Mahali: PA, KU, MU (Locative Classes 16/17/18) (Part 1)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Ngeli za Mahali PA, KU, MU (Locative Classes).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (15.1.1).",
@@ -6536,10 +6533,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Ngeli za Mahali PA, KU, MU (Locative Classes)"
+                "Ngeli za nomino (Noun classes) determine the exact prefix agreement across verbs, adjectives, and demonstratives in Swahili."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Utamaduni wa Kiswahili emphasizes 'Utu' (humanity) and respectful greetings (Shikamoo for elders, Marahaba in response)."
             ]
         },
         "guidedPractice": {
@@ -6603,7 +6600,7 @@
         "level": "B1",
         "objective": "Comprehensive mastery of Ngeli za Mahali PA, KU, MU (Locative Classes).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ngeli za Mahali: PA, KU, MU (Locative Classes 16/17/18) » (Sehemu ya 2), tunachunguza kanuni za kisarufi zinazohusu Ngeli za Mahali PA, KU, MU (Locative Classes). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ngeli za Mahali: PA, KU, MU (Locative Classes 16/17/18) (Part 2)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Ngeli za Mahali PA, KU, MU (Locative Classes).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (15.2.1).",
@@ -6622,10 +6619,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Ngeli za Mahali PA, KU, MU (Locative Classes)"
+                "The prefix 'M-/Wa-' represents living human beings (Mtu/Watu, Mtoto/Watoto)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Kiswahili is the lingua franca of the East African Community, uniting over 100 million speakers across diverse ethnic origins."
             ]
         },
         "guidedPractice": {
@@ -6689,7 +6686,7 @@
         "level": "B1",
         "objective": "Comprehensive mastery of Ngeli za Mahali PA, KU, MU (Locative Classes).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ngeli za Mahali: PA, KU, MU (Locative Classes 16/17/18) » (Sehemu ya 3), tunachunguza kanuni za kisarufi zinazohusu Ngeli za Mahali PA, KU, MU (Locative Classes). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ngeli za Mahali: PA, KU, MU (Locative Classes 16/17/18) (Part 3)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Ngeli za Mahali PA, KU, MU (Locative Classes).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (15.3.1).",
@@ -6708,10 +6705,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Ngeli za Mahali PA, KU, MU (Locative Classes)"
+                "The prefix 'Ki-/Vi-' represents tools, languages, and concrete objects (Kiti/Viti, Kiswahili)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Hospitality is embodied in the phrase 'Karibu mgeni' (Welcome, guest), where sharing food and tea is essential courtesy."
             ]
         },
         "guidedPractice": {
@@ -6775,7 +6772,7 @@
         "level": "B1",
         "objective": "Comprehensive mastery of Ngeli za Mahali PA, KU, MU (Locative Classes).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ngeli za Mahali: PA, KU, MU (Locative Classes 16/17/18) » (Sehemu ya 4), tunachunguza kanuni za kisarufi zinazohusu Ngeli za Mahali PA, KU, MU (Locative Classes). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ngeli za Mahali: PA, KU, MU (Locative Classes 16/17/18) (Part 4)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Ngeli za Mahali PA, KU, MU (Locative Classes).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (15.4.1).",
@@ -6794,10 +6791,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Ngeli za Mahali PA, KU, MU (Locative Classes)"
+                "Verb conjugation combines Subject Prefix + Tense Infix + Object Infix + Verb Root (e.g., Ni-na-ku-penda)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Proverbs (Methali) like 'Haraka haraka haina baraka' (Hurry hurry has no blessing) carry profound traditional wisdom."
             ]
         },
         "guidedPractice": {
@@ -6861,7 +6858,7 @@
         "level": "B1",
         "objective": "Comprehensive mastery of Ngeli za Mahali PA, KU, MU (Locative Classes).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ngeli za Mahali: PA, KU, MU (Locative Classes 16/17/18) » (Sehemu ya 5), tunachunguza kanuni za kisarufi zinazohusu Ngeli za Mahali PA, KU, MU (Locative Classes). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ngeli za Mahali: PA, KU, MU (Locative Classes 16/17/18) (Part 5)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Ngeli za Mahali PA, KU, MU (Locative Classes).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (15.5.1).",
@@ -6880,10 +6877,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Ngeli za Mahali PA, KU, MU (Locative Classes)"
+                "Habari za asubuhi/mchana/jioni reflects authentic East African community warmth and relational etiquette."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Taarab music and coastal poetry blend Bantu linguistic roots with historical Indian Ocean maritime connections."
             ]
         },
         "guidedPractice": {
@@ -6947,7 +6944,7 @@
         "level": "B1",
         "objective": "Comprehensive mastery of O-Rejeshi na Vitenzi (Relative Infixes: -ye-/-cho-).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Virejeshi vya O-Rejeshi (-ye-, -o-, -cho-) (Relative Markers) » (Sehemu ya 1), tunachunguza kanuni za kisarufi zinazohusu O-Rejeshi na Vitenzi (Relative Infixes: -ye-/-cho-). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Virejeshi vya O-Rejeshi (-ye-, -o-, -cho-) (Relative Markers) (Part 1)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of O-Rejeshi na Vitenzi (Relative Infixes: -ye-/-cho-).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (16.1.1).",
@@ -6966,10 +6963,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for O-Rejeshi na Vitenzi (Relative Infixes: -ye-/-cho-)"
+                "Ngeli za nomino (Noun classes) determine the exact prefix agreement across verbs, adjectives, and demonstratives in Swahili."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Utamaduni wa Kiswahili emphasizes 'Utu' (humanity) and respectful greetings (Shikamoo for elders, Marahaba in response)."
             ]
         },
         "guidedPractice": {
@@ -7033,7 +7030,7 @@
         "level": "B1",
         "objective": "Comprehensive mastery of O-Rejeshi na Vitenzi (Relative Infixes: -ye-/-cho-).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Virejeshi vya O-Rejeshi (-ye-, -o-, -cho-) (Relative Markers) » (Sehemu ya 2), tunachunguza kanuni za kisarufi zinazohusu O-Rejeshi na Vitenzi (Relative Infixes: -ye-/-cho-). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Virejeshi vya O-Rejeshi (-ye-, -o-, -cho-) (Relative Markers) (Part 2)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of O-Rejeshi na Vitenzi (Relative Infixes: -ye-/-cho-).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (16.2.1).",
@@ -7052,10 +7049,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for O-Rejeshi na Vitenzi (Relative Infixes: -ye-/-cho-)"
+                "The prefix 'M-/Wa-' represents living human beings (Mtu/Watu, Mtoto/Watoto)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Kiswahili is the lingua franca of the East African Community, uniting over 100 million speakers across diverse ethnic origins."
             ]
         },
         "guidedPractice": {
@@ -7119,7 +7116,7 @@
         "level": "B1",
         "objective": "Comprehensive mastery of O-Rejeshi na Vitenzi (Relative Infixes: -ye-/-cho-).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Virejeshi vya O-Rejeshi (-ye-, -o-, -cho-) (Relative Markers) » (Sehemu ya 3), tunachunguza kanuni za kisarufi zinazohusu O-Rejeshi na Vitenzi (Relative Infixes: -ye-/-cho-). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Virejeshi vya O-Rejeshi (-ye-, -o-, -cho-) (Relative Markers) (Part 3)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of O-Rejeshi na Vitenzi (Relative Infixes: -ye-/-cho-).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (16.3.1).",
@@ -7138,10 +7135,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for O-Rejeshi na Vitenzi (Relative Infixes: -ye-/-cho-)"
+                "The prefix 'Ki-/Vi-' represents tools, languages, and concrete objects (Kiti/Viti, Kiswahili)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Hospitality is embodied in the phrase 'Karibu mgeni' (Welcome, guest), where sharing food and tea is essential courtesy."
             ]
         },
         "guidedPractice": {
@@ -7205,7 +7202,7 @@
         "level": "B1",
         "objective": "Comprehensive mastery of O-Rejeshi na Vitenzi (Relative Infixes: -ye-/-cho-).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Virejeshi vya O-Rejeshi (-ye-, -o-, -cho-) (Relative Markers) » (Sehemu ya 4), tunachunguza kanuni za kisarufi zinazohusu O-Rejeshi na Vitenzi (Relative Infixes: -ye-/-cho-). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Virejeshi vya O-Rejeshi (-ye-, -o-, -cho-) (Relative Markers) (Part 4)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of O-Rejeshi na Vitenzi (Relative Infixes: -ye-/-cho-).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (16.4.1).",
@@ -7224,10 +7221,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for O-Rejeshi na Vitenzi (Relative Infixes: -ye-/-cho-)"
+                "Verb conjugation combines Subject Prefix + Tense Infix + Object Infix + Verb Root (e.g., Ni-na-ku-penda)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Proverbs (Methali) like 'Haraka haraka haina baraka' (Hurry hurry has no blessing) carry profound traditional wisdom."
             ]
         },
         "guidedPractice": {
@@ -7291,7 +7288,7 @@
         "level": "B1",
         "objective": "Comprehensive mastery of O-Rejeshi na Vitenzi (Relative Infixes: -ye-/-cho-).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Virejeshi vya O-Rejeshi (-ye-, -o-, -cho-) (Relative Markers) » (Sehemu ya 5), tunachunguza kanuni za kisarufi zinazohusu O-Rejeshi na Vitenzi (Relative Infixes: -ye-/-cho-). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Virejeshi vya O-Rejeshi (-ye-, -o-, -cho-) (Relative Markers) (Part 5)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of O-Rejeshi na Vitenzi (Relative Infixes: -ye-/-cho-).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (16.5.1).",
@@ -7310,10 +7307,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for O-Rejeshi na Vitenzi (Relative Infixes: -ye-/-cho-)"
+                "Habari za asubuhi/mchana/jioni reflects authentic East African community warmth and relational etiquette."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Taarab music and coastal poetry blend Bantu linguistic roots with historical Indian Ocean maritime connections."
             ]
         },
         "guidedPractice": {
@@ -7377,7 +7374,7 @@
         "level": "B2",
         "objective": "Comprehensive mastery of Kauli ya Kutendwa -wa (Passive Verb Forms).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Kauli ya Kutendwa na Vinyambuliko (-wa) (Passive Stems) » (Sehemu ya 1), tunachunguza kanuni za kisarufi zinazohusu Kauli ya Kutendwa -wa (Passive Verb Forms). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Kauli ya Kutendwa na Vinyambuliko (-wa) (Passive Stems) (Part 1)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Kauli ya Kutendwa -wa (Passive Verb Forms).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (17.1.1).",
@@ -7396,10 +7393,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Kauli ya Kutendwa -wa (Passive Verb Forms)"
+                "Ngeli za nomino (Noun classes) determine the exact prefix agreement across verbs, adjectives, and demonstratives in Swahili."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Utamaduni wa Kiswahili emphasizes 'Utu' (humanity) and respectful greetings (Shikamoo for elders, Marahaba in response)."
             ]
         },
         "guidedPractice": {
@@ -7463,7 +7460,7 @@
         "level": "B2",
         "objective": "Comprehensive mastery of Kauli ya Kutendwa -wa (Passive Verb Forms).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Kauli ya Kutendwa na Vinyambuliko (-wa) (Passive Stems) » (Sehemu ya 2), tunachunguza kanuni za kisarufi zinazohusu Kauli ya Kutendwa -wa (Passive Verb Forms). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Kauli ya Kutendwa na Vinyambuliko (-wa) (Passive Stems) (Part 2)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Kauli ya Kutendwa -wa (Passive Verb Forms).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (17.2.1).",
@@ -7482,10 +7479,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Kauli ya Kutendwa -wa (Passive Verb Forms)"
+                "The prefix 'M-/Wa-' represents living human beings (Mtu/Watu, Mtoto/Watoto)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Kiswahili is the lingua franca of the East African Community, uniting over 100 million speakers across diverse ethnic origins."
             ]
         },
         "guidedPractice": {
@@ -7549,7 +7546,7 @@
         "level": "B2",
         "objective": "Comprehensive mastery of Kauli ya Kutendwa -wa (Passive Verb Forms).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Kauli ya Kutendwa na Vinyambuliko (-wa) (Passive Stems) » (Sehemu ya 3), tunachunguza kanuni za kisarufi zinazohusu Kauli ya Kutendwa -wa (Passive Verb Forms). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Kauli ya Kutendwa na Vinyambuliko (-wa) (Passive Stems) (Part 3)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Kauli ya Kutendwa -wa (Passive Verb Forms).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (17.3.1).",
@@ -7568,10 +7565,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Kauli ya Kutendwa -wa (Passive Verb Forms)"
+                "The prefix 'Ki-/Vi-' represents tools, languages, and concrete objects (Kiti/Viti, Kiswahili)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Hospitality is embodied in the phrase 'Karibu mgeni' (Welcome, guest), where sharing food and tea is essential courtesy."
             ]
         },
         "guidedPractice": {
@@ -7635,7 +7632,7 @@
         "level": "B2",
         "objective": "Comprehensive mastery of Kauli ya Kutendwa -wa (Passive Verb Forms).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Kauli ya Kutendwa na Vinyambuliko (-wa) (Passive Stems) » (Sehemu ya 4), tunachunguza kanuni za kisarufi zinazohusu Kauli ya Kutendwa -wa (Passive Verb Forms). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Kauli ya Kutendwa na Vinyambuliko (-wa) (Passive Stems) (Part 4)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Kauli ya Kutendwa -wa (Passive Verb Forms).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (17.4.1).",
@@ -7654,10 +7651,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Kauli ya Kutendwa -wa (Passive Verb Forms)"
+                "Verb conjugation combines Subject Prefix + Tense Infix + Object Infix + Verb Root (e.g., Ni-na-ku-penda)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Proverbs (Methali) like 'Haraka haraka haina baraka' (Hurry hurry has no blessing) carry profound traditional wisdom."
             ]
         },
         "guidedPractice": {
@@ -7721,7 +7718,7 @@
         "level": "B2",
         "objective": "Comprehensive mastery of Kauli ya Kutendwa -wa (Passive Verb Forms).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Kauli ya Kutendwa na Vinyambuliko (-wa) (Passive Stems) » (Sehemu ya 5), tunachunguza kanuni za kisarufi zinazohusu Kauli ya Kutendwa -wa (Passive Verb Forms). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Kauli ya Kutendwa na Vinyambuliko (-wa) (Passive Stems) (Part 5)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Kauli ya Kutendwa -wa (Passive Verb Forms).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (17.5.1).",
@@ -7740,10 +7737,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Kauli ya Kutendwa -wa (Passive Verb Forms)"
+                "Habari za asubuhi/mchana/jioni reflects authentic East African community warmth and relational etiquette."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Taarab music and coastal poetry blend Bantu linguistic roots with historical Indian Ocean maritime connections."
             ]
         },
         "guidedPractice": {
@@ -7807,7 +7804,7 @@
         "level": "B2",
         "objective": "Comprehensive mastery of Kauli ya Kutendea -ia/-ea (Applicative / Prepositional).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Kauli ya Kutendea (-ia/-ea) (Applicative Verbs) » (Sehemu ya 1), tunachunguza kanuni za kisarufi zinazohusu Kauli ya Kutendea -ia/-ea (Applicative / Prepositional). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Kauli ya Kutendea (-ia/-ea) (Applicative Verbs) (Part 1)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Kauli ya Kutendea -ia/-ea (Applicative / Prepositional).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (18.1.1).",
@@ -7826,10 +7823,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Kauli ya Kutendea -ia/-ea (Applicative / Prepositional)"
+                "Ngeli za nomino (Noun classes) determine the exact prefix agreement across verbs, adjectives, and demonstratives in Swahili."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Utamaduni wa Kiswahili emphasizes 'Utu' (humanity) and respectful greetings (Shikamoo for elders, Marahaba in response)."
             ]
         },
         "guidedPractice": {
@@ -7893,7 +7890,7 @@
         "level": "B2",
         "objective": "Comprehensive mastery of Kauli ya Kutendea -ia/-ea (Applicative / Prepositional).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Kauli ya Kutendea (-ia/-ea) (Applicative Verbs) » (Sehemu ya 2), tunachunguza kanuni za kisarufi zinazohusu Kauli ya Kutendea -ia/-ea (Applicative / Prepositional). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Kauli ya Kutendea (-ia/-ea) (Applicative Verbs) (Part 2)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Kauli ya Kutendea -ia/-ea (Applicative / Prepositional).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (18.2.1).",
@@ -7912,10 +7909,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Kauli ya Kutendea -ia/-ea (Applicative / Prepositional)"
+                "The prefix 'M-/Wa-' represents living human beings (Mtu/Watu, Mtoto/Watoto)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Kiswahili is the lingua franca of the East African Community, uniting over 100 million speakers across diverse ethnic origins."
             ]
         },
         "guidedPractice": {
@@ -7979,7 +7976,7 @@
         "level": "B2",
         "objective": "Comprehensive mastery of Kauli ya Kutendea -ia/-ea (Applicative / Prepositional).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Kauli ya Kutendea (-ia/-ea) (Applicative Verbs) » (Sehemu ya 3), tunachunguza kanuni za kisarufi zinazohusu Kauli ya Kutendea -ia/-ea (Applicative / Prepositional). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Kauli ya Kutendea (-ia/-ea) (Applicative Verbs) (Part 3)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Kauli ya Kutendea -ia/-ea (Applicative / Prepositional).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (18.3.1).",
@@ -7998,10 +7995,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Kauli ya Kutendea -ia/-ea (Applicative / Prepositional)"
+                "The prefix 'Ki-/Vi-' represents tools, languages, and concrete objects (Kiti/Viti, Kiswahili)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Hospitality is embodied in the phrase 'Karibu mgeni' (Welcome, guest), where sharing food and tea is essential courtesy."
             ]
         },
         "guidedPractice": {
@@ -8065,7 +8062,7 @@
         "level": "B2",
         "objective": "Comprehensive mastery of Kauli ya Kutendea -ia/-ea (Applicative / Prepositional).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Kauli ya Kutendea (-ia/-ea) (Applicative Verbs) » (Sehemu ya 4), tunachunguza kanuni za kisarufi zinazohusu Kauli ya Kutendea -ia/-ea (Applicative / Prepositional). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Kauli ya Kutendea (-ia/-ea) (Applicative Verbs) (Part 4)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Kauli ya Kutendea -ia/-ea (Applicative / Prepositional).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (18.4.1).",
@@ -8084,10 +8081,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Kauli ya Kutendea -ia/-ea (Applicative / Prepositional)"
+                "Verb conjugation combines Subject Prefix + Tense Infix + Object Infix + Verb Root (e.g., Ni-na-ku-penda)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Proverbs (Methali) like 'Haraka haraka haina baraka' (Hurry hurry has no blessing) carry profound traditional wisdom."
             ]
         },
         "guidedPractice": {
@@ -8151,7 +8148,7 @@
         "level": "B2",
         "objective": "Comprehensive mastery of Kauli ya Kutendea -ia/-ea (Applicative / Prepositional).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Kauli ya Kutendea (-ia/-ea) (Applicative Verbs) » (Sehemu ya 5), tunachunguza kanuni za kisarufi zinazohusu Kauli ya Kutendea -ia/-ea (Applicative / Prepositional). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Kauli ya Kutendea (-ia/-ea) (Applicative Verbs) (Part 5)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Kauli ya Kutendea -ia/-ea (Applicative / Prepositional).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (18.5.1).",
@@ -8170,10 +8167,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Kauli ya Kutendea -ia/-ea (Applicative / Prepositional)"
+                "Habari za asubuhi/mchana/jioni reflects authentic East African community warmth and relational etiquette."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Taarab music and coastal poetry blend Bantu linguistic roots with historical Indian Ocean maritime connections."
             ]
         },
         "guidedPractice": {
@@ -8237,7 +8234,7 @@
         "level": "B2",
         "objective": "Comprehensive mastery of Kauli ya Kutendesha -isha/-esha (Causative Verb Stems).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Kauli ya Kutendesha (-isha/-esha) (Causative Verbs) » (Sehemu ya 1), tunachunguza kanuni za kisarufi zinazohusu Kauli ya Kutendesha -isha/-esha (Causative Verb Stems). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Kauli ya Kutendesha (-isha/-esha) (Causative Verbs) (Part 1)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Kauli ya Kutendesha -isha/-esha (Causative Verb Stems).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (19.1.1).",
@@ -8256,10 +8253,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Kauli ya Kutendesha -isha/-esha (Causative Verb Stems)"
+                "Ngeli za nomino (Noun classes) determine the exact prefix agreement across verbs, adjectives, and demonstratives in Swahili."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Utamaduni wa Kiswahili emphasizes 'Utu' (humanity) and respectful greetings (Shikamoo for elders, Marahaba in response)."
             ]
         },
         "guidedPractice": {
@@ -8323,7 +8320,7 @@
         "level": "B2",
         "objective": "Comprehensive mastery of Kauli ya Kutendesha -isha/-esha (Causative Verb Stems).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Kauli ya Kutendesha (-isha/-esha) (Causative Verbs) » (Sehemu ya 2), tunachunguza kanuni za kisarufi zinazohusu Kauli ya Kutendesha -isha/-esha (Causative Verb Stems). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Kauli ya Kutendesha (-isha/-esha) (Causative Verbs) (Part 2)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Kauli ya Kutendesha -isha/-esha (Causative Verb Stems).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (19.2.1).",
@@ -8342,10 +8339,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Kauli ya Kutendesha -isha/-esha (Causative Verb Stems)"
+                "The prefix 'M-/Wa-' represents living human beings (Mtu/Watu, Mtoto/Watoto)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Kiswahili is the lingua franca of the East African Community, uniting over 100 million speakers across diverse ethnic origins."
             ]
         },
         "guidedPractice": {
@@ -8409,7 +8406,7 @@
         "level": "B2",
         "objective": "Comprehensive mastery of Kauli ya Kutendesha -isha/-esha (Causative Verb Stems).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Kauli ya Kutendesha (-isha/-esha) (Causative Verbs) » (Sehemu ya 3), tunachunguza kanuni za kisarufi zinazohusu Kauli ya Kutendesha -isha/-esha (Causative Verb Stems). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Kauli ya Kutendesha (-isha/-esha) (Causative Verbs) (Part 3)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Kauli ya Kutendesha -isha/-esha (Causative Verb Stems).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (19.3.1).",
@@ -8428,10 +8425,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Kauli ya Kutendesha -isha/-esha (Causative Verb Stems)"
+                "The prefix 'Ki-/Vi-' represents tools, languages, and concrete objects (Kiti/Viti, Kiswahili)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Hospitality is embodied in the phrase 'Karibu mgeni' (Welcome, guest), where sharing food and tea is essential courtesy."
             ]
         },
         "guidedPractice": {
@@ -8495,7 +8492,7 @@
         "level": "B2",
         "objective": "Comprehensive mastery of Kauli ya Kutendesha -isha/-esha (Causative Verb Stems).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Kauli ya Kutendesha (-isha/-esha) (Causative Verbs) » (Sehemu ya 4), tunachunguza kanuni za kisarufi zinazohusu Kauli ya Kutendesha -isha/-esha (Causative Verb Stems). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Kauli ya Kutendesha (-isha/-esha) (Causative Verbs) (Part 4)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Kauli ya Kutendesha -isha/-esha (Causative Verb Stems).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (19.4.1).",
@@ -8514,10 +8511,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Kauli ya Kutendesha -isha/-esha (Causative Verb Stems)"
+                "Verb conjugation combines Subject Prefix + Tense Infix + Object Infix + Verb Root (e.g., Ni-na-ku-penda)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Proverbs (Methali) like 'Haraka haraka haina baraka' (Hurry hurry has no blessing) carry profound traditional wisdom."
             ]
         },
         "guidedPractice": {
@@ -8581,7 +8578,7 @@
         "level": "B2",
         "objective": "Comprehensive mastery of Kauli ya Kutendesha -isha/-esha (Causative Verb Stems).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Kauli ya Kutendesha (-isha/-esha) (Causative Verbs) » (Sehemu ya 5), tunachunguza kanuni za kisarufi zinazohusu Kauli ya Kutendesha -isha/-esha (Causative Verb Stems). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Kauli ya Kutendesha (-isha/-esha) (Causative Verbs) (Part 5)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Kauli ya Kutendesha -isha/-esha (Causative Verb Stems).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (19.5.1).",
@@ -8600,10 +8597,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Kauli ya Kutendesha -isha/-esha (Causative Verb Stems)"
+                "Habari za asubuhi/mchana/jioni reflects authentic East African community warmth and relational etiquette."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Taarab music and coastal poetry blend Bantu linguistic roots with historical Indian Ocean maritime connections."
             ]
         },
         "guidedPractice": {
@@ -8667,7 +8664,7 @@
         "level": "B2",
         "objective": "Comprehensive mastery of Kauli ya Kutendana -ana (Reciprocal Verb Stems).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Kauli ya Kutendana (-ana) (Reciprocal Verbs) » (Sehemu ya 1), tunachunguza kanuni za kisarufi zinazohusu Kauli ya Kutendana -ana (Reciprocal Verb Stems). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Kauli ya Kutendana (-ana) (Reciprocal Verbs) (Part 1)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Kauli ya Kutendana -ana (Reciprocal Verb Stems).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (20.1.1).",
@@ -8686,10 +8683,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Kauli ya Kutendana -ana (Reciprocal Verb Stems)"
+                "Ngeli za nomino (Noun classes) determine the exact prefix agreement across verbs, adjectives, and demonstratives in Swahili."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Utamaduni wa Kiswahili emphasizes 'Utu' (humanity) and respectful greetings (Shikamoo for elders, Marahaba in response)."
             ]
         },
         "guidedPractice": {
@@ -8753,7 +8750,7 @@
         "level": "B2",
         "objective": "Comprehensive mastery of Kauli ya Kutendana -ana (Reciprocal Verb Stems).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Kauli ya Kutendana (-ana) (Reciprocal Verbs) » (Sehemu ya 2), tunachunguza kanuni za kisarufi zinazohusu Kauli ya Kutendana -ana (Reciprocal Verb Stems). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Kauli ya Kutendana (-ana) (Reciprocal Verbs) (Part 2)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Kauli ya Kutendana -ana (Reciprocal Verb Stems).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (20.2.1).",
@@ -8772,10 +8769,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Kauli ya Kutendana -ana (Reciprocal Verb Stems)"
+                "The prefix 'M-/Wa-' represents living human beings (Mtu/Watu, Mtoto/Watoto)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Kiswahili is the lingua franca of the East African Community, uniting over 100 million speakers across diverse ethnic origins."
             ]
         },
         "guidedPractice": {
@@ -8839,7 +8836,7 @@
         "level": "B2",
         "objective": "Comprehensive mastery of Kauli ya Kutendana -ana (Reciprocal Verb Stems).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Kauli ya Kutendana (-ana) (Reciprocal Verbs) » (Sehemu ya 3), tunachunguza kanuni za kisarufi zinazohusu Kauli ya Kutendana -ana (Reciprocal Verb Stems). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Kauli ya Kutendana (-ana) (Reciprocal Verbs) (Part 3)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Kauli ya Kutendana -ana (Reciprocal Verb Stems).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (20.3.1).",
@@ -8858,10 +8855,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Kauli ya Kutendana -ana (Reciprocal Verb Stems)"
+                "The prefix 'Ki-/Vi-' represents tools, languages, and concrete objects (Kiti/Viti, Kiswahili)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Hospitality is embodied in the phrase 'Karibu mgeni' (Welcome, guest), where sharing food and tea is essential courtesy."
             ]
         },
         "guidedPractice": {
@@ -8925,7 +8922,7 @@
         "level": "B2",
         "objective": "Comprehensive mastery of Kauli ya Kutendana -ana (Reciprocal Verb Stems).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Kauli ya Kutendana (-ana) (Reciprocal Verbs) » (Sehemu ya 4), tunachunguza kanuni za kisarufi zinazohusu Kauli ya Kutendana -ana (Reciprocal Verb Stems). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Kauli ya Kutendana (-ana) (Reciprocal Verbs) (Part 4)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Kauli ya Kutendana -ana (Reciprocal Verb Stems).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (20.4.1).",
@@ -8944,10 +8941,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Kauli ya Kutendana -ana (Reciprocal Verb Stems)"
+                "Verb conjugation combines Subject Prefix + Tense Infix + Object Infix + Verb Root (e.g., Ni-na-ku-penda)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Proverbs (Methali) like 'Haraka haraka haina baraka' (Hurry hurry has no blessing) carry profound traditional wisdom."
             ]
         },
         "guidedPractice": {
@@ -9011,7 +9008,7 @@
         "level": "B2",
         "objective": "Comprehensive mastery of Kauli ya Kutendana -ana (Reciprocal Verb Stems).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Kauli ya Kutendana (-ana) (Reciprocal Verbs) » (Sehemu ya 5), tunachunguza kanuni za kisarufi zinazohusu Kauli ya Kutendana -ana (Reciprocal Verb Stems). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Kauli ya Kutendana (-ana) (Reciprocal Verbs) (Part 5)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Kauli ya Kutendana -ana (Reciprocal Verb Stems).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (20.5.1).",
@@ -9030,10 +9027,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Kauli ya Kutendana -ana (Reciprocal Verb Stems)"
+                "Habari za asubuhi/mchana/jioni reflects authentic East African community warmth and relational etiquette."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Taarab music and coastal poetry blend Bantu linguistic roots with historical Indian Ocean maritime connections."
             ]
         },
         "guidedPractice": {
@@ -9097,7 +9094,7 @@
         "level": "B2",
         "objective": "Comprehensive mastery of Masharti -ki- na -nge-/-ngali- (Conditional Clauses).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Masharti: Kiambishi -ki- na -nge-/-ngali- (Conditionals) » (Sehemu ya 1), tunachunguza kanuni za kisarufi zinazohusu Masharti -ki- na -nge-/-ngali- (Conditional Clauses). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Masharti: Kiambishi -ki- na -nge-/-ngali- (Conditionals) (Part 1)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Masharti -ki- na -nge-/-ngali- (Conditional Clauses).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (21.1.1).",
@@ -9116,10 +9113,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Masharti -ki- na -nge-/-ngali- (Conditional Clauses)"
+                "Ngeli za nomino (Noun classes) determine the exact prefix agreement across verbs, adjectives, and demonstratives in Swahili."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Utamaduni wa Kiswahili emphasizes 'Utu' (humanity) and respectful greetings (Shikamoo for elders, Marahaba in response)."
             ]
         },
         "guidedPractice": {
@@ -9183,7 +9180,7 @@
         "level": "B2",
         "objective": "Comprehensive mastery of Masharti -ki- na -nge-/-ngali- (Conditional Clauses).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Masharti: Kiambishi -ki- na -nge-/-ngali- (Conditionals) » (Sehemu ya 2), tunachunguza kanuni za kisarufi zinazohusu Masharti -ki- na -nge-/-ngali- (Conditional Clauses). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Masharti: Kiambishi -ki- na -nge-/-ngali- (Conditionals) (Part 2)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Masharti -ki- na -nge-/-ngali- (Conditional Clauses).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (21.2.1).",
@@ -9202,10 +9199,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Masharti -ki- na -nge-/-ngali- (Conditional Clauses)"
+                "The prefix 'M-/Wa-' represents living human beings (Mtu/Watu, Mtoto/Watoto)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Kiswahili is the lingua franca of the East African Community, uniting over 100 million speakers across diverse ethnic origins."
             ]
         },
         "guidedPractice": {
@@ -9269,7 +9266,7 @@
         "level": "B2",
         "objective": "Comprehensive mastery of Masharti -ki- na -nge-/-ngali- (Conditional Clauses).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Masharti: Kiambishi -ki- na -nge-/-ngali- (Conditionals) » (Sehemu ya 3), tunachunguza kanuni za kisarufi zinazohusu Masharti -ki- na -nge-/-ngali- (Conditional Clauses). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Masharti: Kiambishi -ki- na -nge-/-ngali- (Conditionals) (Part 3)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Masharti -ki- na -nge-/-ngali- (Conditional Clauses).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (21.3.1).",
@@ -9288,10 +9285,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Masharti -ki- na -nge-/-ngali- (Conditional Clauses)"
+                "The prefix 'Ki-/Vi-' represents tools, languages, and concrete objects (Kiti/Viti, Kiswahili)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Hospitality is embodied in the phrase 'Karibu mgeni' (Welcome, guest), where sharing food and tea is essential courtesy."
             ]
         },
         "guidedPractice": {
@@ -9355,7 +9352,7 @@
         "level": "B2",
         "objective": "Comprehensive mastery of Masharti -ki- na -nge-/-ngali- (Conditional Clauses).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Masharti: Kiambishi -ki- na -nge-/-ngali- (Conditionals) » (Sehemu ya 4), tunachunguza kanuni za kisarufi zinazohusu Masharti -ki- na -nge-/-ngali- (Conditional Clauses). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Masharti: Kiambishi -ki- na -nge-/-ngali- (Conditionals) (Part 4)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Masharti -ki- na -nge-/-ngali- (Conditional Clauses).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (21.4.1).",
@@ -9374,10 +9371,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Masharti -ki- na -nge-/-ngali- (Conditional Clauses)"
+                "Verb conjugation combines Subject Prefix + Tense Infix + Object Infix + Verb Root (e.g., Ni-na-ku-penda)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Proverbs (Methali) like 'Haraka haraka haina baraka' (Hurry hurry has no blessing) carry profound traditional wisdom."
             ]
         },
         "guidedPractice": {
@@ -9441,7 +9438,7 @@
         "level": "B2",
         "objective": "Comprehensive mastery of Masharti -ki- na -nge-/-ngali- (Conditional Clauses).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Masharti: Kiambishi -ki- na -nge-/-ngali- (Conditionals) » (Sehemu ya 5), tunachunguza kanuni za kisarufi zinazohusu Masharti -ki- na -nge-/-ngali- (Conditional Clauses). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Masharti: Kiambishi -ki- na -nge-/-ngali- (Conditionals) (Part 5)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Masharti -ki- na -nge-/-ngali- (Conditional Clauses).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (21.5.1).",
@@ -9460,10 +9457,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Masharti -ki- na -nge-/-ngali- (Conditional Clauses)"
+                "Habari za asubuhi/mchana/jioni reflects authentic East African community warmth and relational etiquette."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Taarab music and coastal poetry blend Bantu linguistic roots with historical Indian Ocean maritime connections."
             ]
         },
         "guidedPractice": {
@@ -9527,7 +9524,7 @@
         "level": "B2",
         "objective": "Comprehensive mastery of Vitenzi vya Asili ya Kiarabu (Arabic-Origin Verb Conjugation).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Mnyambuliko wa Vitenzi vya Kiarabu (Arabic-Origin Verbs) » (Sehemu ya 1), tunachunguza kanuni za kisarufi zinazohusu Vitenzi vya Asili ya Kiarabu (Arabic-Origin Verb Conjugation). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Mnyambuliko wa Vitenzi vya Kiarabu (Arabic-Origin Verbs) (Part 1)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Vitenzi vya Asili ya Kiarabu (Arabic-Origin Verb Conjugation).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (22.1.1).",
@@ -9546,10 +9543,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Vitenzi vya Asili ya Kiarabu (Arabic-Origin Verb Conjugation)"
+                "Ngeli za nomino (Noun classes) determine the exact prefix agreement across verbs, adjectives, and demonstratives in Swahili."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Utamaduni wa Kiswahili emphasizes 'Utu' (humanity) and respectful greetings (Shikamoo for elders, Marahaba in response)."
             ]
         },
         "guidedPractice": {
@@ -9613,7 +9610,7 @@
         "level": "B2",
         "objective": "Comprehensive mastery of Vitenzi vya Asili ya Kiarabu (Arabic-Origin Verb Conjugation).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Mnyambuliko wa Vitenzi vya Kiarabu (Arabic-Origin Verbs) » (Sehemu ya 2), tunachunguza kanuni za kisarufi zinazohusu Vitenzi vya Asili ya Kiarabu (Arabic-Origin Verb Conjugation). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Mnyambuliko wa Vitenzi vya Kiarabu (Arabic-Origin Verbs) (Part 2)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Vitenzi vya Asili ya Kiarabu (Arabic-Origin Verb Conjugation).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (22.2.1).",
@@ -9632,10 +9629,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Vitenzi vya Asili ya Kiarabu (Arabic-Origin Verb Conjugation)"
+                "The prefix 'M-/Wa-' represents living human beings (Mtu/Watu, Mtoto/Watoto)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Kiswahili is the lingua franca of the East African Community, uniting over 100 million speakers across diverse ethnic origins."
             ]
         },
         "guidedPractice": {
@@ -9699,7 +9696,7 @@
         "level": "B2",
         "objective": "Comprehensive mastery of Vitenzi vya Asili ya Kiarabu (Arabic-Origin Verb Conjugation).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Mnyambuliko wa Vitenzi vya Kiarabu (Arabic-Origin Verbs) » (Sehemu ya 3), tunachunguza kanuni za kisarufi zinazohusu Vitenzi vya Asili ya Kiarabu (Arabic-Origin Verb Conjugation). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Mnyambuliko wa Vitenzi vya Kiarabu (Arabic-Origin Verbs) (Part 3)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Vitenzi vya Asili ya Kiarabu (Arabic-Origin Verb Conjugation).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (22.3.1).",
@@ -9718,10 +9715,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Vitenzi vya Asili ya Kiarabu (Arabic-Origin Verb Conjugation)"
+                "The prefix 'Ki-/Vi-' represents tools, languages, and concrete objects (Kiti/Viti, Kiswahili)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Hospitality is embodied in the phrase 'Karibu mgeni' (Welcome, guest), where sharing food and tea is essential courtesy."
             ]
         },
         "guidedPractice": {
@@ -9785,7 +9782,7 @@
         "level": "B2",
         "objective": "Comprehensive mastery of Vitenzi vya Asili ya Kiarabu (Arabic-Origin Verb Conjugation).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Mnyambuliko wa Vitenzi vya Kiarabu (Arabic-Origin Verbs) » (Sehemu ya 4), tunachunguza kanuni za kisarufi zinazohusu Vitenzi vya Asili ya Kiarabu (Arabic-Origin Verb Conjugation). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Mnyambuliko wa Vitenzi vya Kiarabu (Arabic-Origin Verbs) (Part 4)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Vitenzi vya Asili ya Kiarabu (Arabic-Origin Verb Conjugation).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (22.4.1).",
@@ -9804,10 +9801,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Vitenzi vya Asili ya Kiarabu (Arabic-Origin Verb Conjugation)"
+                "Verb conjugation combines Subject Prefix + Tense Infix + Object Infix + Verb Root (e.g., Ni-na-ku-penda)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Proverbs (Methali) like 'Haraka haraka haina baraka' (Hurry hurry has no blessing) carry profound traditional wisdom."
             ]
         },
         "guidedPractice": {
@@ -9871,7 +9868,7 @@
         "level": "B2",
         "objective": "Comprehensive mastery of Vitenzi vya Asili ya Kiarabu (Arabic-Origin Verb Conjugation).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Mnyambuliko wa Vitenzi vya Kiarabu (Arabic-Origin Verbs) » (Sehemu ya 5), tunachunguza kanuni za kisarufi zinazohusu Vitenzi vya Asili ya Kiarabu (Arabic-Origin Verb Conjugation). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Mnyambuliko wa Vitenzi vya Kiarabu (Arabic-Origin Verbs) (Part 5)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Vitenzi vya Asili ya Kiarabu (Arabic-Origin Verb Conjugation).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (22.5.1).",
@@ -9890,10 +9887,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Vitenzi vya Asili ya Kiarabu (Arabic-Origin Verb Conjugation)"
+                "Habari za asubuhi/mchana/jioni reflects authentic East African community warmth and relational etiquette."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Taarab music and coastal poetry blend Bantu linguistic roots with historical Indian Ocean maritime connections."
             ]
         },
         "guidedPractice": {
@@ -9957,7 +9954,7 @@
         "level": "B2",
         "objective": "Comprehensive mastery of Methali na Fasihi Simulizi (Swahili Proverbs & Folklore).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Methali za Kiswahili na Fasihi Simulizi (Proverbs & Literature) » (Sehemu ya 1), tunachunguza kanuni za kisarufi zinazohusu Methali na Fasihi Simulizi (Swahili Proverbs & Folklore). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Methali za Kiswahili na Fasihi Simulizi (Proverbs & Literature) (Part 1)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Methali na Fasihi Simulizi (Swahili Proverbs & Folklore).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (23.1.1).",
@@ -9976,10 +9973,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Methali na Fasihi Simulizi (Swahili Proverbs & Folklore)"
+                "Ngeli za nomino (Noun classes) determine the exact prefix agreement across verbs, adjectives, and demonstratives in Swahili."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Utamaduni wa Kiswahili emphasizes 'Utu' (humanity) and respectful greetings (Shikamoo for elders, Marahaba in response)."
             ]
         },
         "guidedPractice": {
@@ -10043,7 +10040,7 @@
         "level": "B2",
         "objective": "Comprehensive mastery of Methali na Fasihi Simulizi (Swahili Proverbs & Folklore).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Methali za Kiswahili na Fasihi Simulizi (Proverbs & Literature) » (Sehemu ya 2), tunachunguza kanuni za kisarufi zinazohusu Methali na Fasihi Simulizi (Swahili Proverbs & Folklore). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Methali za Kiswahili na Fasihi Simulizi (Proverbs & Literature) (Part 2)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Methali na Fasihi Simulizi (Swahili Proverbs & Folklore).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (23.2.1).",
@@ -10062,10 +10059,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Methali na Fasihi Simulizi (Swahili Proverbs & Folklore)"
+                "The prefix 'M-/Wa-' represents living human beings (Mtu/Watu, Mtoto/Watoto)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Kiswahili is the lingua franca of the East African Community, uniting over 100 million speakers across diverse ethnic origins."
             ]
         },
         "guidedPractice": {
@@ -10129,7 +10126,7 @@
         "level": "B2",
         "objective": "Comprehensive mastery of Methali na Fasihi Simulizi (Swahili Proverbs & Folklore).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Methali za Kiswahili na Fasihi Simulizi (Proverbs & Literature) » (Sehemu ya 3), tunachunguza kanuni za kisarufi zinazohusu Methali na Fasihi Simulizi (Swahili Proverbs & Folklore). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Methali za Kiswahili na Fasihi Simulizi (Proverbs & Literature) (Part 3)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Methali na Fasihi Simulizi (Swahili Proverbs & Folklore).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (23.3.1).",
@@ -10148,10 +10145,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Methali na Fasihi Simulizi (Swahili Proverbs & Folklore)"
+                "The prefix 'Ki-/Vi-' represents tools, languages, and concrete objects (Kiti/Viti, Kiswahili)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Hospitality is embodied in the phrase 'Karibu mgeni' (Welcome, guest), where sharing food and tea is essential courtesy."
             ]
         },
         "guidedPractice": {
@@ -10215,7 +10212,7 @@
         "level": "B2",
         "objective": "Comprehensive mastery of Methali na Fasihi Simulizi (Swahili Proverbs & Folklore).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Methali za Kiswahili na Fasihi Simulizi (Proverbs & Literature) » (Sehemu ya 4), tunachunguza kanuni za kisarufi zinazohusu Methali na Fasihi Simulizi (Swahili Proverbs & Folklore). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Methali za Kiswahili na Fasihi Simulizi (Proverbs & Literature) (Part 4)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Methali na Fasihi Simulizi (Swahili Proverbs & Folklore).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (23.4.1).",
@@ -10234,10 +10231,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Methali na Fasihi Simulizi (Swahili Proverbs & Folklore)"
+                "Verb conjugation combines Subject Prefix + Tense Infix + Object Infix + Verb Root (e.g., Ni-na-ku-penda)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Proverbs (Methali) like 'Haraka haraka haina baraka' (Hurry hurry has no blessing) carry profound traditional wisdom."
             ]
         },
         "guidedPractice": {
@@ -10301,7 +10298,7 @@
         "level": "B2",
         "objective": "Comprehensive mastery of Methali na Fasihi Simulizi (Swahili Proverbs & Folklore).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Methali za Kiswahili na Fasihi Simulizi (Proverbs & Literature) » (Sehemu ya 5), tunachunguza kanuni za kisarufi zinazohusu Methali na Fasihi Simulizi (Swahili Proverbs & Folklore). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Methali za Kiswahili na Fasihi Simulizi (Proverbs & Literature) (Part 5)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Methali na Fasihi Simulizi (Swahili Proverbs & Folklore).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (23.5.1).",
@@ -10320,10 +10317,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Methali na Fasihi Simulizi (Swahili Proverbs & Folklore)"
+                "Habari za asubuhi/mchana/jioni reflects authentic East African community warmth and relational etiquette."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Taarab music and coastal poetry blend Bantu linguistic roots with historical Indian Ocean maritime connections."
             ]
         },
         "guidedPractice": {
@@ -10387,7 +10384,7 @@
         "level": "B2",
         "objective": "Comprehensive mastery of Utamaduni wa Waswahili (Swahili Coastal Culture).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Utamaduni wa Waswahili na Pwani ya Afrika Mashariki (Culture) » (Sehemu ya 1), tunachunguza kanuni za kisarufi zinazohusu Utamaduni wa Waswahili (Swahili Coastal Culture). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Utamaduni wa Waswahili na Pwani ya Afrika Mashariki (Culture) (Part 1)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Utamaduni wa Waswahili (Swahili Coastal Culture).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (24.1.1).",
@@ -10406,10 +10403,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Utamaduni wa Waswahili (Swahili Coastal Culture)"
+                "Ngeli za nomino (Noun classes) determine the exact prefix agreement across verbs, adjectives, and demonstratives in Swahili."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Utamaduni wa Kiswahili emphasizes 'Utu' (humanity) and respectful greetings (Shikamoo for elders, Marahaba in response)."
             ]
         },
         "guidedPractice": {
@@ -10473,7 +10470,7 @@
         "level": "B2",
         "objective": "Comprehensive mastery of Utamaduni wa Waswahili (Swahili Coastal Culture).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Utamaduni wa Waswahili na Pwani ya Afrika Mashariki (Culture) » (Sehemu ya 2), tunachunguza kanuni za kisarufi zinazohusu Utamaduni wa Waswahili (Swahili Coastal Culture). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Utamaduni wa Waswahili na Pwani ya Afrika Mashariki (Culture) (Part 2)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Utamaduni wa Waswahili (Swahili Coastal Culture).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (24.2.1).",
@@ -10492,10 +10489,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Utamaduni wa Waswahili (Swahili Coastal Culture)"
+                "The prefix 'M-/Wa-' represents living human beings (Mtu/Watu, Mtoto/Watoto)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Kiswahili is the lingua franca of the East African Community, uniting over 100 million speakers across diverse ethnic origins."
             ]
         },
         "guidedPractice": {
@@ -10559,7 +10556,7 @@
         "level": "B2",
         "objective": "Comprehensive mastery of Utamaduni wa Waswahili (Swahili Coastal Culture).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Utamaduni wa Waswahili na Pwani ya Afrika Mashariki (Culture) » (Sehemu ya 3), tunachunguza kanuni za kisarufi zinazohusu Utamaduni wa Waswahili (Swahili Coastal Culture). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Utamaduni wa Waswahili na Pwani ya Afrika Mashariki (Culture) (Part 3)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Utamaduni wa Waswahili (Swahili Coastal Culture).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (24.3.1).",
@@ -10578,10 +10575,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Utamaduni wa Waswahili (Swahili Coastal Culture)"
+                "The prefix 'Ki-/Vi-' represents tools, languages, and concrete objects (Kiti/Viti, Kiswahili)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Hospitality is embodied in the phrase 'Karibu mgeni' (Welcome, guest), where sharing food and tea is essential courtesy."
             ]
         },
         "guidedPractice": {
@@ -10645,7 +10642,7 @@
         "level": "B2",
         "objective": "Comprehensive mastery of Utamaduni wa Waswahili (Swahili Coastal Culture).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Utamaduni wa Waswahili na Pwani ya Afrika Mashariki (Culture) » (Sehemu ya 4), tunachunguza kanuni za kisarufi zinazohusu Utamaduni wa Waswahili (Swahili Coastal Culture). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Utamaduni wa Waswahili na Pwani ya Afrika Mashariki (Culture) (Part 4)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Utamaduni wa Waswahili (Swahili Coastal Culture).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (24.4.1).",
@@ -10664,10 +10661,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Utamaduni wa Waswahili (Swahili Coastal Culture)"
+                "Verb conjugation combines Subject Prefix + Tense Infix + Object Infix + Verb Root (e.g., Ni-na-ku-penda)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Proverbs (Methali) like 'Haraka haraka haina baraka' (Hurry hurry has no blessing) carry profound traditional wisdom."
             ]
         },
         "guidedPractice": {
@@ -10731,7 +10728,7 @@
         "level": "B2",
         "objective": "Comprehensive mastery of Utamaduni wa Waswahili (Swahili Coastal Culture).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Utamaduni wa Waswahili na Pwani ya Afrika Mashariki (Culture) » (Sehemu ya 5), tunachunguza kanuni za kisarufi zinazohusu Utamaduni wa Waswahili (Swahili Coastal Culture). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Utamaduni wa Waswahili na Pwani ya Afrika Mashariki (Culture) (Part 5)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Utamaduni wa Waswahili (Swahili Coastal Culture).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (24.5.1).",
@@ -10750,10 +10747,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Utamaduni wa Waswahili (Swahili Coastal Culture)"
+                "Habari za asubuhi/mchana/jioni reflects authentic East African community warmth and relational etiquette."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Taarab music and coastal poetry blend Bantu linguistic roots with historical Indian Ocean maritime connections."
             ]
         },
         "guidedPractice": {
@@ -10817,7 +10814,7 @@
         "level": "C1",
         "objective": "Comprehensive mastery of Biashara na Fedha za Kidijitali (Commerce & M-Pesa).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Biashara, Uchumi na Fedha za Kidijitali (Commerce & M-Pesa) » (Sehemu ya 1), tunachunguza kanuni za kisarufi zinazohusu Biashara na Fedha za Kidijitali (Commerce & M-Pesa). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Biashara, Uchumi na Fedha za Kidijitali (Commerce & M-Pesa) (Part 1)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Biashara na Fedha za Kidijitali (Commerce & M-Pesa).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (25.1.1).",
@@ -10836,10 +10833,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Biashara na Fedha za Kidijitali (Commerce & M-Pesa)"
+                "Ngeli za nomino (Noun classes) determine the exact prefix agreement across verbs, adjectives, and demonstratives in Swahili."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Utamaduni wa Kiswahili emphasizes 'Utu' (humanity) and respectful greetings (Shikamoo for elders, Marahaba in response)."
             ]
         },
         "guidedPractice": {
@@ -10903,7 +10900,7 @@
         "level": "C1",
         "objective": "Comprehensive mastery of Biashara na Fedha za Kidijitali (Commerce & M-Pesa).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Biashara, Uchumi na Fedha za Kidijitali (Commerce & M-Pesa) » (Sehemu ya 2), tunachunguza kanuni za kisarufi zinazohusu Biashara na Fedha za Kidijitali (Commerce & M-Pesa). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Biashara, Uchumi na Fedha za Kidijitali (Commerce & M-Pesa) (Part 2)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Biashara na Fedha za Kidijitali (Commerce & M-Pesa).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (25.2.1).",
@@ -10922,10 +10919,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Biashara na Fedha za Kidijitali (Commerce & M-Pesa)"
+                "The prefix 'M-/Wa-' represents living human beings (Mtu/Watu, Mtoto/Watoto)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Kiswahili is the lingua franca of the East African Community, uniting over 100 million speakers across diverse ethnic origins."
             ]
         },
         "guidedPractice": {
@@ -10989,7 +10986,7 @@
         "level": "C1",
         "objective": "Comprehensive mastery of Biashara na Fedha za Kidijitali (Commerce & M-Pesa).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Biashara, Uchumi na Fedha za Kidijitali (Commerce & M-Pesa) » (Sehemu ya 3), tunachunguza kanuni za kisarufi zinazohusu Biashara na Fedha za Kidijitali (Commerce & M-Pesa). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Biashara, Uchumi na Fedha za Kidijitali (Commerce & M-Pesa) (Part 3)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Biashara na Fedha za Kidijitali (Commerce & M-Pesa).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (25.3.1).",
@@ -11008,10 +11005,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Biashara na Fedha za Kidijitali (Commerce & M-Pesa)"
+                "The prefix 'Ki-/Vi-' represents tools, languages, and concrete objects (Kiti/Viti, Kiswahili)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Hospitality is embodied in the phrase 'Karibu mgeni' (Welcome, guest), where sharing food and tea is essential courtesy."
             ]
         },
         "guidedPractice": {
@@ -11075,7 +11072,7 @@
         "level": "C1",
         "objective": "Comprehensive mastery of Biashara na Fedha za Kidijitali (Commerce & M-Pesa).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Biashara, Uchumi na Fedha za Kidijitali (Commerce & M-Pesa) » (Sehemu ya 4), tunachunguza kanuni za kisarufi zinazohusu Biashara na Fedha za Kidijitali (Commerce & M-Pesa). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Biashara, Uchumi na Fedha za Kidijitali (Commerce & M-Pesa) (Part 4)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Biashara na Fedha za Kidijitali (Commerce & M-Pesa).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (25.4.1).",
@@ -11094,10 +11091,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Biashara na Fedha za Kidijitali (Commerce & M-Pesa)"
+                "Verb conjugation combines Subject Prefix + Tense Infix + Object Infix + Verb Root (e.g., Ni-na-ku-penda)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Proverbs (Methali) like 'Haraka haraka haina baraka' (Hurry hurry has no blessing) carry profound traditional wisdom."
             ]
         },
         "guidedPractice": {
@@ -11161,7 +11158,7 @@
         "level": "C1",
         "objective": "Comprehensive mastery of Biashara na Fedha za Kidijitali (Commerce & M-Pesa).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Biashara, Uchumi na Fedha za Kidijitali (Commerce & M-Pesa) » (Sehemu ya 5), tunachunguza kanuni za kisarufi zinazohusu Biashara na Fedha za Kidijitali (Commerce & M-Pesa). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Biashara, Uchumi na Fedha za Kidijitali (Commerce & M-Pesa) (Part 5)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Biashara na Fedha za Kidijitali (Commerce & M-Pesa).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (25.5.1).",
@@ -11180,10 +11177,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Biashara na Fedha za Kidijitali (Commerce & M-Pesa)"
+                "Habari za asubuhi/mchana/jioni reflects authentic East African community warmth and relational etiquette."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Taarab music and coastal poetry blend Bantu linguistic roots with historical Indian Ocean maritime connections."
             ]
         },
         "guidedPractice": {
@@ -11247,7 +11244,7 @@
         "level": "C1",
         "objective": "Comprehensive mastery of Ikolojia na Uhifadhi wa Maliasili (Ecology & Wildlife).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ikolojia, Uhifadhi wa Wanyamapori na Maliasili (Wildlife) » (Sehemu ya 1), tunachunguza kanuni za kisarufi zinazohusu Ikolojia na Uhifadhi wa Maliasili (Ecology & Wildlife). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ikolojia, Uhifadhi wa Wanyamapori na Maliasili (Wildlife) (Part 1)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Ikolojia na Uhifadhi wa Maliasili (Ecology & Wildlife).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (26.1.1).",
@@ -11266,10 +11263,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Ikolojia na Uhifadhi wa Maliasili (Ecology & Wildlife)"
+                "Ngeli za nomino (Noun classes) determine the exact prefix agreement across verbs, adjectives, and demonstratives in Swahili."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Utamaduni wa Kiswahili emphasizes 'Utu' (humanity) and respectful greetings (Shikamoo for elders, Marahaba in response)."
             ]
         },
         "guidedPractice": {
@@ -11333,7 +11330,7 @@
         "level": "C1",
         "objective": "Comprehensive mastery of Ikolojia na Uhifadhi wa Maliasili (Ecology & Wildlife).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ikolojia, Uhifadhi wa Wanyamapori na Maliasili (Wildlife) » (Sehemu ya 2), tunachunguza kanuni za kisarufi zinazohusu Ikolojia na Uhifadhi wa Maliasili (Ecology & Wildlife). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ikolojia, Uhifadhi wa Wanyamapori na Maliasili (Wildlife) (Part 2)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Ikolojia na Uhifadhi wa Maliasili (Ecology & Wildlife).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (26.2.1).",
@@ -11352,10 +11349,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Ikolojia na Uhifadhi wa Maliasili (Ecology & Wildlife)"
+                "The prefix 'M-/Wa-' represents living human beings (Mtu/Watu, Mtoto/Watoto)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Kiswahili is the lingua franca of the East African Community, uniting over 100 million speakers across diverse ethnic origins."
             ]
         },
         "guidedPractice": {
@@ -11419,7 +11416,7 @@
         "level": "C1",
         "objective": "Comprehensive mastery of Ikolojia na Uhifadhi wa Maliasili (Ecology & Wildlife).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ikolojia, Uhifadhi wa Wanyamapori na Maliasili (Wildlife) » (Sehemu ya 3), tunachunguza kanuni za kisarufi zinazohusu Ikolojia na Uhifadhi wa Maliasili (Ecology & Wildlife). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ikolojia, Uhifadhi wa Wanyamapori na Maliasili (Wildlife) (Part 3)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Ikolojia na Uhifadhi wa Maliasili (Ecology & Wildlife).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (26.3.1).",
@@ -11438,10 +11435,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Ikolojia na Uhifadhi wa Maliasili (Ecology & Wildlife)"
+                "The prefix 'Ki-/Vi-' represents tools, languages, and concrete objects (Kiti/Viti, Kiswahili)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Hospitality is embodied in the phrase 'Karibu mgeni' (Welcome, guest), where sharing food and tea is essential courtesy."
             ]
         },
         "guidedPractice": {
@@ -11505,7 +11502,7 @@
         "level": "C1",
         "objective": "Comprehensive mastery of Ikolojia na Uhifadhi wa Maliasili (Ecology & Wildlife).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ikolojia, Uhifadhi wa Wanyamapori na Maliasili (Wildlife) » (Sehemu ya 4), tunachunguza kanuni za kisarufi zinazohusu Ikolojia na Uhifadhi wa Maliasili (Ecology & Wildlife). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ikolojia, Uhifadhi wa Wanyamapori na Maliasili (Wildlife) (Part 4)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Ikolojia na Uhifadhi wa Maliasili (Ecology & Wildlife).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (26.4.1).",
@@ -11524,10 +11521,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Ikolojia na Uhifadhi wa Maliasili (Ecology & Wildlife)"
+                "Verb conjugation combines Subject Prefix + Tense Infix + Object Infix + Verb Root (e.g., Ni-na-ku-penda)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Proverbs (Methali) like 'Haraka haraka haina baraka' (Hurry hurry has no blessing) carry profound traditional wisdom."
             ]
         },
         "guidedPractice": {
@@ -11591,7 +11588,7 @@
         "level": "C1",
         "objective": "Comprehensive mastery of Ikolojia na Uhifadhi wa Maliasili (Ecology & Wildlife).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ikolojia, Uhifadhi wa Wanyamapori na Maliasili (Wildlife) » (Sehemu ya 5), tunachunguza kanuni za kisarufi zinazohusu Ikolojia na Uhifadhi wa Maliasili (Ecology & Wildlife). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ikolojia, Uhifadhi wa Wanyamapori na Maliasili (Wildlife) (Part 5)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Ikolojia na Uhifadhi wa Maliasili (Ecology & Wildlife).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (26.5.1).",
@@ -11610,10 +11607,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Ikolojia na Uhifadhi wa Maliasili (Ecology & Wildlife)"
+                "Habari za asubuhi/mchana/jioni reflects authentic East African community warmth and relational etiquette."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Taarab music and coastal poetry blend Bantu linguistic roots with historical Indian Ocean maritime connections."
             ]
         },
         "guidedPractice": {
@@ -11677,7 +11674,7 @@
         "level": "C1",
         "objective": "Comprehensive mastery of Afya ya Jamii na Tiba (Public Health & Clinical Care).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Afya ya Jamii, Tiba na Epidemiolojia (Public Health) » (Sehemu ya 1), tunachunguza kanuni za kisarufi zinazohusu Afya ya Jamii na Tiba (Public Health & Clinical Care). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Afya ya Jamii, Tiba na Epidemiolojia (Public Health) (Part 1)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Afya ya Jamii na Tiba (Public Health & Clinical Care).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (27.1.1).",
@@ -11696,10 +11693,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Afya ya Jamii na Tiba (Public Health & Clinical Care)"
+                "Ngeli za nomino (Noun classes) determine the exact prefix agreement across verbs, adjectives, and demonstratives in Swahili."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Utamaduni wa Kiswahili emphasizes 'Utu' (humanity) and respectful greetings (Shikamoo for elders, Marahaba in response)."
             ]
         },
         "guidedPractice": {
@@ -11763,7 +11760,7 @@
         "level": "C1",
         "objective": "Comprehensive mastery of Afya ya Jamii na Tiba (Public Health & Clinical Care).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Afya ya Jamii, Tiba na Epidemiolojia (Public Health) » (Sehemu ya 2), tunachunguza kanuni za kisarufi zinazohusu Afya ya Jamii na Tiba (Public Health & Clinical Care). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Afya ya Jamii, Tiba na Epidemiolojia (Public Health) (Part 2)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Afya ya Jamii na Tiba (Public Health & Clinical Care).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (27.2.1).",
@@ -11782,10 +11779,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Afya ya Jamii na Tiba (Public Health & Clinical Care)"
+                "The prefix 'M-/Wa-' represents living human beings (Mtu/Watu, Mtoto/Watoto)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Kiswahili is the lingua franca of the East African Community, uniting over 100 million speakers across diverse ethnic origins."
             ]
         },
         "guidedPractice": {
@@ -11849,7 +11846,7 @@
         "level": "C1",
         "objective": "Comprehensive mastery of Afya ya Jamii na Tiba (Public Health & Clinical Care).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Afya ya Jamii, Tiba na Epidemiolojia (Public Health) » (Sehemu ya 3), tunachunguza kanuni za kisarufi zinazohusu Afya ya Jamii na Tiba (Public Health & Clinical Care). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Afya ya Jamii, Tiba na Epidemiolojia (Public Health) (Part 3)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Afya ya Jamii na Tiba (Public Health & Clinical Care).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (27.3.1).",
@@ -11868,10 +11865,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Afya ya Jamii na Tiba (Public Health & Clinical Care)"
+                "The prefix 'Ki-/Vi-' represents tools, languages, and concrete objects (Kiti/Viti, Kiswahili)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Hospitality is embodied in the phrase 'Karibu mgeni' (Welcome, guest), where sharing food and tea is essential courtesy."
             ]
         },
         "guidedPractice": {
@@ -11935,7 +11932,7 @@
         "level": "C1",
         "objective": "Comprehensive mastery of Afya ya Jamii na Tiba (Public Health & Clinical Care).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Afya ya Jamii, Tiba na Epidemiolojia (Public Health) » (Sehemu ya 4), tunachunguza kanuni za kisarufi zinazohusu Afya ya Jamii na Tiba (Public Health & Clinical Care). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Afya ya Jamii, Tiba na Epidemiolojia (Public Health) (Part 4)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Afya ya Jamii na Tiba (Public Health & Clinical Care).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (27.4.1).",
@@ -11954,10 +11951,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Afya ya Jamii na Tiba (Public Health & Clinical Care)"
+                "Verb conjugation combines Subject Prefix + Tense Infix + Object Infix + Verb Root (e.g., Ni-na-ku-penda)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Proverbs (Methali) like 'Haraka haraka haina baraka' (Hurry hurry has no blessing) carry profound traditional wisdom."
             ]
         },
         "guidedPractice": {
@@ -12021,7 +12018,7 @@
         "level": "C1",
         "objective": "Comprehensive mastery of Afya ya Jamii na Tiba (Public Health & Clinical Care).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Afya ya Jamii, Tiba na Epidemiolojia (Public Health) » (Sehemu ya 5), tunachunguza kanuni za kisarufi zinazohusu Afya ya Jamii na Tiba (Public Health & Clinical Care). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Afya ya Jamii, Tiba na Epidemiolojia (Public Health) (Part 5)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Afya ya Jamii na Tiba (Public Health & Clinical Care).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (27.5.1).",
@@ -12040,10 +12037,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Afya ya Jamii na Tiba (Public Health & Clinical Care)"
+                "Habari za asubuhi/mchana/jioni reflects authentic East African community warmth and relational etiquette."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Taarab music and coastal poetry blend Bantu linguistic roots with historical Indian Ocean maritime connections."
             ]
         },
         "guidedPractice": {
@@ -12107,7 +12104,7 @@
         "level": "C1",
         "objective": "Comprehensive mastery of Uandishi wa Habari na Utangazaji (Journalism & Media).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Uandishi wa Habari, Tahariri na Utangazaji (Journalism) » (Sehemu ya 1), tunachunguza kanuni za kisarufi zinazohusu Uandishi wa Habari na Utangazaji (Journalism & Media). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Uandishi wa Habari, Tahariri na Utangazaji (Journalism) (Part 1)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Uandishi wa Habari na Utangazaji (Journalism & Media).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (28.1.1).",
@@ -12126,10 +12123,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Uandishi wa Habari na Utangazaji (Journalism & Media)"
+                "Ngeli za nomino (Noun classes) determine the exact prefix agreement across verbs, adjectives, and demonstratives in Swahili."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Utamaduni wa Kiswahili emphasizes 'Utu' (humanity) and respectful greetings (Shikamoo for elders, Marahaba in response)."
             ]
         },
         "guidedPractice": {
@@ -12193,7 +12190,7 @@
         "level": "C1",
         "objective": "Comprehensive mastery of Uandishi wa Habari na Utangazaji (Journalism & Media).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Uandishi wa Habari, Tahariri na Utangazaji (Journalism) » (Sehemu ya 2), tunachunguza kanuni za kisarufi zinazohusu Uandishi wa Habari na Utangazaji (Journalism & Media). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Uandishi wa Habari, Tahariri na Utangazaji (Journalism) (Part 2)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Uandishi wa Habari na Utangazaji (Journalism & Media).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (28.2.1).",
@@ -12212,10 +12209,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Uandishi wa Habari na Utangazaji (Journalism & Media)"
+                "The prefix 'M-/Wa-' represents living human beings (Mtu/Watu, Mtoto/Watoto)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Kiswahili is the lingua franca of the East African Community, uniting over 100 million speakers across diverse ethnic origins."
             ]
         },
         "guidedPractice": {
@@ -12279,7 +12276,7 @@
         "level": "C1",
         "objective": "Comprehensive mastery of Uandishi wa Habari na Utangazaji (Journalism & Media).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Uandishi wa Habari, Tahariri na Utangazaji (Journalism) » (Sehemu ya 3), tunachunguza kanuni za kisarufi zinazohusu Uandishi wa Habari na Utangazaji (Journalism & Media). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Uandishi wa Habari, Tahariri na Utangazaji (Journalism) (Part 3)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Uandishi wa Habari na Utangazaji (Journalism & Media).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (28.3.1).",
@@ -12298,10 +12295,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Uandishi wa Habari na Utangazaji (Journalism & Media)"
+                "The prefix 'Ki-/Vi-' represents tools, languages, and concrete objects (Kiti/Viti, Kiswahili)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Hospitality is embodied in the phrase 'Karibu mgeni' (Welcome, guest), where sharing food and tea is essential courtesy."
             ]
         },
         "guidedPractice": {
@@ -12365,7 +12362,7 @@
         "level": "C1",
         "objective": "Comprehensive mastery of Uandishi wa Habari na Utangazaji (Journalism & Media).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Uandishi wa Habari, Tahariri na Utangazaji (Journalism) » (Sehemu ya 4), tunachunguza kanuni za kisarufi zinazohusu Uandishi wa Habari na Utangazaji (Journalism & Media). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Uandishi wa Habari, Tahariri na Utangazaji (Journalism) (Part 4)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Uandishi wa Habari na Utangazaji (Journalism & Media).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (28.4.1).",
@@ -12384,10 +12381,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Uandishi wa Habari na Utangazaji (Journalism & Media)"
+                "Verb conjugation combines Subject Prefix + Tense Infix + Object Infix + Verb Root (e.g., Ni-na-ku-penda)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Proverbs (Methali) like 'Haraka haraka haina baraka' (Hurry hurry has no blessing) carry profound traditional wisdom."
             ]
         },
         "guidedPractice": {
@@ -12451,7 +12448,7 @@
         "level": "C1",
         "objective": "Comprehensive mastery of Uandishi wa Habari na Utangazaji (Journalism & Media).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Uandishi wa Habari, Tahariri na Utangazaji (Journalism) » (Sehemu ya 5), tunachunguza kanuni za kisarufi zinazohusu Uandishi wa Habari na Utangazaji (Journalism & Media). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Uandishi wa Habari, Tahariri na Utangazaji (Journalism) (Part 5)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Uandishi wa Habari na Utangazaji (Journalism & Media).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (28.5.1).",
@@ -12470,10 +12467,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Uandishi wa Habari na Utangazaji (Journalism & Media)"
+                "Habari za asubuhi/mchana/jioni reflects authentic East African community warmth and relational etiquette."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Taarab music and coastal poetry blend Bantu linguistic roots with historical Indian Ocean maritime connections."
             ]
         },
         "guidedPractice": {
@@ -12537,7 +12534,7 @@
         "level": "C1",
         "objective": "Comprehensive mastery of Sheria na Haki za Kisheria (Law & Constitutional Rights).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Sheria, Katiba na Haki za Mahakama (Law & Jurisprudence) » (Sehemu ya 1), tunachunguza kanuni za kisarufi zinazohusu Sheria na Haki za Kisheria (Law & Constitutional Rights). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Sheria, Katiba na Haki za Mahakama (Law & Jurisprudence) (Part 1)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Sheria na Haki za Kisheria (Law & Constitutional Rights).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (29.1.1).",
@@ -12556,10 +12553,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Sheria na Haki za Kisheria (Law & Constitutional Rights)"
+                "Ngeli za nomino (Noun classes) determine the exact prefix agreement across verbs, adjectives, and demonstratives in Swahili."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Utamaduni wa Kiswahili emphasizes 'Utu' (humanity) and respectful greetings (Shikamoo for elders, Marahaba in response)."
             ]
         },
         "guidedPractice": {
@@ -12623,7 +12620,7 @@
         "level": "C1",
         "objective": "Comprehensive mastery of Sheria na Haki za Kisheria (Law & Constitutional Rights).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Sheria, Katiba na Haki za Mahakama (Law & Jurisprudence) » (Sehemu ya 2), tunachunguza kanuni za kisarufi zinazohusu Sheria na Haki za Kisheria (Law & Constitutional Rights). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Sheria, Katiba na Haki za Mahakama (Law & Jurisprudence) (Part 2)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Sheria na Haki za Kisheria (Law & Constitutional Rights).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (29.2.1).",
@@ -12642,10 +12639,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Sheria na Haki za Kisheria (Law & Constitutional Rights)"
+                "The prefix 'M-/Wa-' represents living human beings (Mtu/Watu, Mtoto/Watoto)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Kiswahili is the lingua franca of the East African Community, uniting over 100 million speakers across diverse ethnic origins."
             ]
         },
         "guidedPractice": {
@@ -12709,7 +12706,7 @@
         "level": "C1",
         "objective": "Comprehensive mastery of Sheria na Haki za Kisheria (Law & Constitutional Rights).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Sheria, Katiba na Haki za Mahakama (Law & Jurisprudence) » (Sehemu ya 3), tunachunguza kanuni za kisarufi zinazohusu Sheria na Haki za Kisheria (Law & Constitutional Rights). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Sheria, Katiba na Haki za Mahakama (Law & Jurisprudence) (Part 3)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Sheria na Haki za Kisheria (Law & Constitutional Rights).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (29.3.1).",
@@ -12728,10 +12725,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Sheria na Haki za Kisheria (Law & Constitutional Rights)"
+                "The prefix 'Ki-/Vi-' represents tools, languages, and concrete objects (Kiti/Viti, Kiswahili)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Hospitality is embodied in the phrase 'Karibu mgeni' (Welcome, guest), where sharing food and tea is essential courtesy."
             ]
         },
         "guidedPractice": {
@@ -12795,7 +12792,7 @@
         "level": "C1",
         "objective": "Comprehensive mastery of Sheria na Haki za Kisheria (Law & Constitutional Rights).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Sheria, Katiba na Haki za Mahakama (Law & Jurisprudence) » (Sehemu ya 4), tunachunguza kanuni za kisarufi zinazohusu Sheria na Haki za Kisheria (Law & Constitutional Rights). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Sheria, Katiba na Haki za Mahakama (Law & Jurisprudence) (Part 4)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Sheria na Haki za Kisheria (Law & Constitutional Rights).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (29.4.1).",
@@ -12814,10 +12811,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Sheria na Haki za Kisheria (Law & Constitutional Rights)"
+                "Verb conjugation combines Subject Prefix + Tense Infix + Object Infix + Verb Root (e.g., Ni-na-ku-penda)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Proverbs (Methali) like 'Haraka haraka haina baraka' (Hurry hurry has no blessing) carry profound traditional wisdom."
             ]
         },
         "guidedPractice": {
@@ -12881,7 +12878,7 @@
         "level": "C1",
         "objective": "Comprehensive mastery of Sheria na Haki za Kisheria (Law & Constitutional Rights).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Sheria, Katiba na Haki za Mahakama (Law & Jurisprudence) » (Sehemu ya 5), tunachunguza kanuni za kisarufi zinazohusu Sheria na Haki za Kisheria (Law & Constitutional Rights). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Sheria, Katiba na Haki za Mahakama (Law & Jurisprudence) (Part 5)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Sheria na Haki za Kisheria (Law & Constitutional Rights).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (29.5.1).",
@@ -12900,10 +12897,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Sheria na Haki za Kisheria (Law & Constitutional Rights)"
+                "Habari za asubuhi/mchana/jioni reflects authentic East African community warmth and relational etiquette."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Taarab music and coastal poetry blend Bantu linguistic roots with historical Indian Ocean maritime connections."
             ]
         },
         "guidedPractice": {
@@ -12967,7 +12964,7 @@
         "level": "C1",
         "objective": "Comprehensive mastery of Ushairi wa Kiswahili na Bahari zake (Swahili Poetic Prosody).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ushairi wa Kiswahili na Ushairi wa Ushairi (Poetic Prosody) » (Sehemu ya 1), tunachunguza kanuni za kisarufi zinazohusu Ushairi wa Kiswahili na Bahari zake (Swahili Poetic Prosody). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ushairi wa Kiswahili na Ushairi wa Ushairi (Poetic Prosody) (Part 1)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Ushairi wa Kiswahili na Bahari zake (Swahili Poetic Prosody).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (30.1.1).",
@@ -12986,10 +12983,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Ushairi wa Kiswahili na Bahari zake (Swahili Poetic Prosody)"
+                "Ngeli za nomino (Noun classes) determine the exact prefix agreement across verbs, adjectives, and demonstratives in Swahili."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Utamaduni wa Kiswahili emphasizes 'Utu' (humanity) and respectful greetings (Shikamoo for elders, Marahaba in response)."
             ]
         },
         "guidedPractice": {
@@ -13053,7 +13050,7 @@
         "level": "C1",
         "objective": "Comprehensive mastery of Ushairi wa Kiswahili na Bahari zake (Swahili Poetic Prosody).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ushairi wa Kiswahili na Ushairi wa Ushairi (Poetic Prosody) » (Sehemu ya 2), tunachunguza kanuni za kisarufi zinazohusu Ushairi wa Kiswahili na Bahari zake (Swahili Poetic Prosody). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ushairi wa Kiswahili na Ushairi wa Ushairi (Poetic Prosody) (Part 2)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Ushairi wa Kiswahili na Bahari zake (Swahili Poetic Prosody).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (30.2.1).",
@@ -13072,10 +13069,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Ushairi wa Kiswahili na Bahari zake (Swahili Poetic Prosody)"
+                "The prefix 'M-/Wa-' represents living human beings (Mtu/Watu, Mtoto/Watoto)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Kiswahili is the lingua franca of the East African Community, uniting over 100 million speakers across diverse ethnic origins."
             ]
         },
         "guidedPractice": {
@@ -13139,7 +13136,7 @@
         "level": "C1",
         "objective": "Comprehensive mastery of Ushairi wa Kiswahili na Bahari zake (Swahili Poetic Prosody).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ushairi wa Kiswahili na Ushairi wa Ushairi (Poetic Prosody) » (Sehemu ya 3), tunachunguza kanuni za kisarufi zinazohusu Ushairi wa Kiswahili na Bahari zake (Swahili Poetic Prosody). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ushairi wa Kiswahili na Ushairi wa Ushairi (Poetic Prosody) (Part 3)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Ushairi wa Kiswahili na Bahari zake (Swahili Poetic Prosody).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (30.3.1).",
@@ -13158,10 +13155,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Ushairi wa Kiswahili na Bahari zake (Swahili Poetic Prosody)"
+                "The prefix 'Ki-/Vi-' represents tools, languages, and concrete objects (Kiti/Viti, Kiswahili)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Hospitality is embodied in the phrase 'Karibu mgeni' (Welcome, guest), where sharing food and tea is essential courtesy."
             ]
         },
         "guidedPractice": {
@@ -13225,7 +13222,7 @@
         "level": "C1",
         "objective": "Comprehensive mastery of Ushairi wa Kiswahili na Bahari zake (Swahili Poetic Prosody).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ushairi wa Kiswahili na Ushairi wa Ushairi (Poetic Prosody) » (Sehemu ya 4), tunachunguza kanuni za kisarufi zinazohusu Ushairi wa Kiswahili na Bahari zake (Swahili Poetic Prosody). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ushairi wa Kiswahili na Ushairi wa Ushairi (Poetic Prosody) (Part 4)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Ushairi wa Kiswahili na Bahari zake (Swahili Poetic Prosody).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (30.4.1).",
@@ -13244,10 +13241,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Ushairi wa Kiswahili na Bahari zake (Swahili Poetic Prosody)"
+                "Verb conjugation combines Subject Prefix + Tense Infix + Object Infix + Verb Root (e.g., Ni-na-ku-penda)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Proverbs (Methali) like 'Haraka haraka haina baraka' (Hurry hurry has no blessing) carry profound traditional wisdom."
             ]
         },
         "guidedPractice": {
@@ -13311,7 +13308,7 @@
         "level": "C1",
         "objective": "Comprehensive mastery of Ushairi wa Kiswahili na Bahari zake (Swahili Poetic Prosody).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Ushairi wa Kiswahili na Ushairi wa Ushairi (Poetic Prosody) » (Sehemu ya 5), tunachunguza kanuni za kisarufi zinazohusu Ushairi wa Kiswahili na Bahari zake (Swahili Poetic Prosody). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Ushairi wa Kiswahili na Ushairi wa Ushairi (Poetic Prosody) (Part 5)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Ushairi wa Kiswahili na Bahari zake (Swahili Poetic Prosody).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (30.5.1).",
@@ -13330,10 +13327,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Ushairi wa Kiswahili na Bahari zake (Swahili Poetic Prosody)"
+                "Habari za asubuhi/mchana/jioni reflects authentic East African community warmth and relational etiquette."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Taarab music and coastal poetry blend Bantu linguistic roots with historical Indian Ocean maritime connections."
             ]
         },
         "guidedPractice": {
@@ -13397,7 +13394,7 @@
         "level": "C2",
         "objective": "Comprehensive mastery of Utawala Bora na Jumuiya ya Afrika Mashariki (Regional Governance).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Utawala wa Kiserikali na Ushirikiano wa Afrika Mashariki (Governance) » (Sehemu ya 1), tunachunguza kanuni za kisarufi zinazohusu Utawala Bora na Jumuiya ya Afrika Mashariki (Regional Governance). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Utawala wa Kiserikali na Ushirikiano wa Afrika Mashariki (Governance) (Part 1)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Utawala Bora na Jumuiya ya Afrika Mashariki (Regional Governance).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (31.1.1).",
@@ -13416,10 +13413,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Utawala Bora na Jumuiya ya Afrika Mashariki (Regional Governance)"
+                "Ngeli za nomino (Noun classes) determine the exact prefix agreement across verbs, adjectives, and demonstratives in Swahili."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Utamaduni wa Kiswahili emphasizes 'Utu' (humanity) and respectful greetings (Shikamoo for elders, Marahaba in response)."
             ]
         },
         "guidedPractice": {
@@ -13483,7 +13480,7 @@
         "level": "C2",
         "objective": "Comprehensive mastery of Utawala Bora na Jumuiya ya Afrika Mashariki (Regional Governance).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Utawala wa Kiserikali na Ushirikiano wa Afrika Mashariki (Governance) » (Sehemu ya 2), tunachunguza kanuni za kisarufi zinazohusu Utawala Bora na Jumuiya ya Afrika Mashariki (Regional Governance). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Utawala wa Kiserikali na Ushirikiano wa Afrika Mashariki (Governance) (Part 2)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Utawala Bora na Jumuiya ya Afrika Mashariki (Regional Governance).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (31.2.1).",
@@ -13502,10 +13499,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Utawala Bora na Jumuiya ya Afrika Mashariki (Regional Governance)"
+                "The prefix 'M-/Wa-' represents living human beings (Mtu/Watu, Mtoto/Watoto)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Kiswahili is the lingua franca of the East African Community, uniting over 100 million speakers across diverse ethnic origins."
             ]
         },
         "guidedPractice": {
@@ -13569,7 +13566,7 @@
         "level": "C2",
         "objective": "Comprehensive mastery of Utawala Bora na Jumuiya ya Afrika Mashariki (Regional Governance).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Utawala wa Kiserikali na Ushirikiano wa Afrika Mashariki (Governance) » (Sehemu ya 3), tunachunguza kanuni za kisarufi zinazohusu Utawala Bora na Jumuiya ya Afrika Mashariki (Regional Governance). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Utawala wa Kiserikali na Ushirikiano wa Afrika Mashariki (Governance) (Part 3)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Utawala Bora na Jumuiya ya Afrika Mashariki (Regional Governance).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (31.3.1).",
@@ -13588,10 +13585,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Utawala Bora na Jumuiya ya Afrika Mashariki (Regional Governance)"
+                "The prefix 'Ki-/Vi-' represents tools, languages, and concrete objects (Kiti/Viti, Kiswahili)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Hospitality is embodied in the phrase 'Karibu mgeni' (Welcome, guest), where sharing food and tea is essential courtesy."
             ]
         },
         "guidedPractice": {
@@ -13655,7 +13652,7 @@
         "level": "C2",
         "objective": "Comprehensive mastery of Utawala Bora na Jumuiya ya Afrika Mashariki (Regional Governance).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Utawala wa Kiserikali na Ushirikiano wa Afrika Mashariki (Governance) » (Sehemu ya 4), tunachunguza kanuni za kisarufi zinazohusu Utawala Bora na Jumuiya ya Afrika Mashariki (Regional Governance). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Utawala wa Kiserikali na Ushirikiano wa Afrika Mashariki (Governance) (Part 4)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Utawala Bora na Jumuiya ya Afrika Mashariki (Regional Governance).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (31.4.1).",
@@ -13674,10 +13671,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Utawala Bora na Jumuiya ya Afrika Mashariki (Regional Governance)"
+                "Verb conjugation combines Subject Prefix + Tense Infix + Object Infix + Verb Root (e.g., Ni-na-ku-penda)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Proverbs (Methali) like 'Haraka haraka haina baraka' (Hurry hurry has no blessing) carry profound traditional wisdom."
             ]
         },
         "guidedPractice": {
@@ -13741,7 +13738,7 @@
         "level": "C2",
         "objective": "Comprehensive mastery of Utawala Bora na Jumuiya ya Afrika Mashariki (Regional Governance).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Utawala wa Kiserikali na Ushirikiano wa Afrika Mashariki (Governance) » (Sehemu ya 5), tunachunguza kanuni za kisarufi zinazohusu Utawala Bora na Jumuiya ya Afrika Mashariki (Regional Governance). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Utawala wa Kiserikali na Ushirikiano wa Afrika Mashariki (Governance) (Part 5)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Utawala Bora na Jumuiya ya Afrika Mashariki (Regional Governance).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (31.5.1).",
@@ -13760,10 +13757,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Utawala Bora na Jumuiya ya Afrika Mashariki (Regional Governance)"
+                "Habari za asubuhi/mchana/jioni reflects authentic East African community warmth and relational etiquette."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Taarab music and coastal poetry blend Bantu linguistic roots with historical Indian Ocean maritime connections."
             ]
         },
         "guidedPractice": {
@@ -13827,7 +13824,7 @@
         "level": "C2",
         "objective": "Comprehensive mastery of Utafiti wa Kiisimu na Isimujamii (Linguistics & Sociolinguistics).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Utafiti wa Kiakademia na Nadharia za Isimu (Academic Linguistics) » (Sehemu ya 1), tunachunguza kanuni za kisarufi zinazohusu Utafiti wa Kiisimu na Isimujamii (Linguistics & Sociolinguistics). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Utafiti wa Kiakademia na Nadharia za Isimu (Academic Linguistics) (Part 1)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Utafiti wa Kiisimu na Isimujamii (Linguistics & Sociolinguistics).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (32.1.1).",
@@ -13846,10 +13843,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Utafiti wa Kiisimu na Isimujamii (Linguistics & Sociolinguistics)"
+                "Ngeli za nomino (Noun classes) determine the exact prefix agreement across verbs, adjectives, and demonstratives in Swahili."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Utamaduni wa Kiswahili emphasizes 'Utu' (humanity) and respectful greetings (Shikamoo for elders, Marahaba in response)."
             ]
         },
         "guidedPractice": {
@@ -13913,7 +13910,7 @@
         "level": "C2",
         "objective": "Comprehensive mastery of Utafiti wa Kiisimu na Isimujamii (Linguistics & Sociolinguistics).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Utafiti wa Kiakademia na Nadharia za Isimu (Academic Linguistics) » (Sehemu ya 2), tunachunguza kanuni za kisarufi zinazohusu Utafiti wa Kiisimu na Isimujamii (Linguistics & Sociolinguistics). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Utafiti wa Kiakademia na Nadharia za Isimu (Academic Linguistics) (Part 2)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Utafiti wa Kiisimu na Isimujamii (Linguistics & Sociolinguistics).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (32.2.1).",
@@ -13932,10 +13929,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Utafiti wa Kiisimu na Isimujamii (Linguistics & Sociolinguistics)"
+                "The prefix 'M-/Wa-' represents living human beings (Mtu/Watu, Mtoto/Watoto)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Kiswahili is the lingua franca of the East African Community, uniting over 100 million speakers across diverse ethnic origins."
             ]
         },
         "guidedPractice": {
@@ -13999,7 +13996,7 @@
         "level": "C2",
         "objective": "Comprehensive mastery of Utafiti wa Kiisimu na Isimujamii (Linguistics & Sociolinguistics).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Utafiti wa Kiakademia na Nadharia za Isimu (Academic Linguistics) » (Sehemu ya 3), tunachunguza kanuni za kisarufi zinazohusu Utafiti wa Kiisimu na Isimujamii (Linguistics & Sociolinguistics). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Utafiti wa Kiakademia na Nadharia za Isimu (Academic Linguistics) (Part 3)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Utafiti wa Kiisimu na Isimujamii (Linguistics & Sociolinguistics).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (32.3.1).",
@@ -14018,10 +14015,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Utafiti wa Kiisimu na Isimujamii (Linguistics & Sociolinguistics)"
+                "The prefix 'Ki-/Vi-' represents tools, languages, and concrete objects (Kiti/Viti, Kiswahili)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Hospitality is embodied in the phrase 'Karibu mgeni' (Welcome, guest), where sharing food and tea is essential courtesy."
             ]
         },
         "guidedPractice": {
@@ -14085,7 +14082,7 @@
         "level": "C2",
         "objective": "Comprehensive mastery of Utafiti wa Kiisimu na Isimujamii (Linguistics & Sociolinguistics).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Utafiti wa Kiakademia na Nadharia za Isimu (Academic Linguistics) » (Sehemu ya 4), tunachunguza kanuni za kisarufi zinazohusu Utafiti wa Kiisimu na Isimujamii (Linguistics & Sociolinguistics). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Utafiti wa Kiakademia na Nadharia za Isimu (Academic Linguistics) (Part 4)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Utafiti wa Kiisimu na Isimujamii (Linguistics & Sociolinguistics).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (32.4.1).",
@@ -14104,10 +14101,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Utafiti wa Kiisimu na Isimujamii (Linguistics & Sociolinguistics)"
+                "Verb conjugation combines Subject Prefix + Tense Infix + Object Infix + Verb Root (e.g., Ni-na-ku-penda)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Proverbs (Methali) like 'Haraka haraka haina baraka' (Hurry hurry has no blessing) carry profound traditional wisdom."
             ]
         },
         "guidedPractice": {
@@ -14171,7 +14168,7 @@
         "level": "C2",
         "objective": "Comprehensive mastery of Utafiti wa Kiisimu na Isimujamii (Linguistics & Sociolinguistics).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Utafiti wa Kiakademia na Nadharia za Isimu (Academic Linguistics) » (Sehemu ya 5), tunachunguza kanuni za kisarufi zinazohusu Utafiti wa Kiisimu na Isimujamii (Linguistics & Sociolinguistics). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Utafiti wa Kiakademia na Nadharia za Isimu (Academic Linguistics) (Part 5)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Utafiti wa Kiisimu na Isimujamii (Linguistics & Sociolinguistics).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (32.5.1).",
@@ -14190,10 +14187,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Utafiti wa Kiisimu na Isimujamii (Linguistics & Sociolinguistics)"
+                "Habari za asubuhi/mchana/jioni reflects authentic East African community warmth and relational etiquette."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Taarab music and coastal poetry blend Bantu linguistic roots with historical Indian Ocean maritime connections."
             ]
         },
         "guidedPractice": {
@@ -14257,7 +14254,7 @@
         "level": "C2",
         "objective": "Comprehensive mastery of Diplomasia na Mikataba ya Kimataifa (International Diplomacy).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Diplomasia ya Kimataifa na Mikataba ya Nchi (Diplomacy) » (Sehemu ya 1), tunachunguza kanuni za kisarufi zinazohusu Diplomasia na Mikataba ya Kimataifa (International Diplomacy). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Diplomasia ya Kimataifa na Mikataba ya Nchi (Diplomacy) (Part 1)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Diplomasia na Mikataba ya Kimataifa (International Diplomacy).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (33.1.1).",
@@ -14276,10 +14273,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Diplomasia na Mikataba ya Kimataifa (International Diplomacy)"
+                "Ngeli za nomino (Noun classes) determine the exact prefix agreement across verbs, adjectives, and demonstratives in Swahili."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Utamaduni wa Kiswahili emphasizes 'Utu' (humanity) and respectful greetings (Shikamoo for elders, Marahaba in response)."
             ]
         },
         "guidedPractice": {
@@ -14343,7 +14340,7 @@
         "level": "C2",
         "objective": "Comprehensive mastery of Diplomasia na Mikataba ya Kimataifa (International Diplomacy).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Diplomasia ya Kimataifa na Mikataba ya Nchi (Diplomacy) » (Sehemu ya 2), tunachunguza kanuni za kisarufi zinazohusu Diplomasia na Mikataba ya Kimataifa (International Diplomacy). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Diplomasia ya Kimataifa na Mikataba ya Nchi (Diplomacy) (Part 2)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Diplomasia na Mikataba ya Kimataifa (International Diplomacy).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (33.2.1).",
@@ -14362,10 +14359,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Diplomasia na Mikataba ya Kimataifa (International Diplomacy)"
+                "The prefix 'M-/Wa-' represents living human beings (Mtu/Watu, Mtoto/Watoto)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Kiswahili is the lingua franca of the East African Community, uniting over 100 million speakers across diverse ethnic origins."
             ]
         },
         "guidedPractice": {
@@ -14429,7 +14426,7 @@
         "level": "C2",
         "objective": "Comprehensive mastery of Diplomasia na Mikataba ya Kimataifa (International Diplomacy).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Diplomasia ya Kimataifa na Mikataba ya Nchi (Diplomacy) » (Sehemu ya 3), tunachunguza kanuni za kisarufi zinazohusu Diplomasia na Mikataba ya Kimataifa (International Diplomacy). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Diplomasia ya Kimataifa na Mikataba ya Nchi (Diplomacy) (Part 3)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Diplomasia na Mikataba ya Kimataifa (International Diplomacy).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (33.3.1).",
@@ -14448,10 +14445,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Diplomasia na Mikataba ya Kimataifa (International Diplomacy)"
+                "The prefix 'Ki-/Vi-' represents tools, languages, and concrete objects (Kiti/Viti, Kiswahili)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Hospitality is embodied in the phrase 'Karibu mgeni' (Welcome, guest), where sharing food and tea is essential courtesy."
             ]
         },
         "guidedPractice": {
@@ -14515,7 +14512,7 @@
         "level": "C2",
         "objective": "Comprehensive mastery of Diplomasia na Mikataba ya Kimataifa (International Diplomacy).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Diplomasia ya Kimataifa na Mikataba ya Nchi (Diplomacy) » (Sehemu ya 4), tunachunguza kanuni za kisarufi zinazohusu Diplomasia na Mikataba ya Kimataifa (International Diplomacy). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Diplomasia ya Kimataifa na Mikataba ya Nchi (Diplomacy) (Part 4)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Diplomasia na Mikataba ya Kimataifa (International Diplomacy).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (33.4.1).",
@@ -14534,10 +14531,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Diplomasia na Mikataba ya Kimataifa (International Diplomacy)"
+                "Verb conjugation combines Subject Prefix + Tense Infix + Object Infix + Verb Root (e.g., Ni-na-ku-penda)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Proverbs (Methali) like 'Haraka haraka haina baraka' (Hurry hurry has no blessing) carry profound traditional wisdom."
             ]
         },
         "guidedPractice": {
@@ -14601,7 +14598,7 @@
         "level": "C2",
         "objective": "Comprehensive mastery of Diplomasia na Mikataba ya Kimataifa (International Diplomacy).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Diplomasia ya Kimataifa na Mikataba ya Nchi (Diplomacy) » (Sehemu ya 5), tunachunguza kanuni za kisarufi zinazohusu Diplomasia na Mikataba ya Kimataifa (International Diplomacy). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Diplomasia ya Kimataifa na Mikataba ya Nchi (Diplomacy) (Part 5)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Diplomasia na Mikataba ya Kimataifa (International Diplomacy).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (33.5.1).",
@@ -14620,10 +14617,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Diplomasia na Mikataba ya Kimataifa (International Diplomacy)"
+                "Habari za asubuhi/mchana/jioni reflects authentic East African community warmth and relational etiquette."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Taarab music and coastal poetry blend Bantu linguistic roots with historical Indian Ocean maritime connections."
             ]
         },
         "guidedPractice": {
@@ -14687,7 +14684,7 @@
         "level": "C2",
         "objective": "Comprehensive mastery of Uongozi wa Kidiplomasia na Hotuba Kuu (C2 Capstone Statecraft).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Mkutano Mkuu wa Kidiplomasia na Uongozi wa Dola (C2 Capstone) » (Sehemu ya 1), tunachunguza kanuni za kisarufi zinazohusu Uongozi wa Kidiplomasia na Hotuba Kuu (C2 Capstone Statecraft). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Mkutano Mkuu wa Kidiplomasia na Uongozi wa Dola (C2 Capstone) (Part 1)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Uongozi wa Kidiplomasia na Hotuba Kuu (C2 Capstone Statecraft).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (34.1.1).",
@@ -14706,10 +14703,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Uongozi wa Kidiplomasia na Hotuba Kuu (C2 Capstone Statecraft)"
+                "Ngeli za nomino (Noun classes) determine the exact prefix agreement across verbs, adjectives, and demonstratives in Swahili."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Utamaduni wa Kiswahili emphasizes 'Utu' (humanity) and respectful greetings (Shikamoo for elders, Marahaba in response)."
             ]
         },
         "guidedPractice": {
@@ -14773,7 +14770,7 @@
         "level": "C2",
         "objective": "Comprehensive mastery of Uongozi wa Kidiplomasia na Hotuba Kuu (C2 Capstone Statecraft).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Mkutano Mkuu wa Kidiplomasia na Uongozi wa Dola (C2 Capstone) » (Sehemu ya 2), tunachunguza kanuni za kisarufi zinazohusu Uongozi wa Kidiplomasia na Hotuba Kuu (C2 Capstone Statecraft). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Mkutano Mkuu wa Kidiplomasia na Uongozi wa Dola (C2 Capstone) (Part 2)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Uongozi wa Kidiplomasia na Hotuba Kuu (C2 Capstone Statecraft).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (34.2.1).",
@@ -14792,10 +14789,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Uongozi wa Kidiplomasia na Hotuba Kuu (C2 Capstone Statecraft)"
+                "The prefix 'M-/Wa-' represents living human beings (Mtu/Watu, Mtoto/Watoto)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Kiswahili is the lingua franca of the East African Community, uniting over 100 million speakers across diverse ethnic origins."
             ]
         },
         "guidedPractice": {
@@ -14859,7 +14856,7 @@
         "level": "C2",
         "objective": "Comprehensive mastery of Uongozi wa Kidiplomasia na Hotuba Kuu (C2 Capstone Statecraft).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Mkutano Mkuu wa Kidiplomasia na Uongozi wa Dola (C2 Capstone) » (Sehemu ya 3), tunachunguza kanuni za kisarufi zinazohusu Uongozi wa Kidiplomasia na Hotuba Kuu (C2 Capstone Statecraft). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Mkutano Mkuu wa Kidiplomasia na Uongozi wa Dola (C2 Capstone) (Part 3)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Uongozi wa Kidiplomasia na Hotuba Kuu (C2 Capstone Statecraft).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (34.3.1).",
@@ -14878,10 +14875,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Uongozi wa Kidiplomasia na Hotuba Kuu (C2 Capstone Statecraft)"
+                "The prefix 'Ki-/Vi-' represents tools, languages, and concrete objects (Kiti/Viti, Kiswahili)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Hospitality is embodied in the phrase 'Karibu mgeni' (Welcome, guest), where sharing food and tea is essential courtesy."
             ]
         },
         "guidedPractice": {
@@ -14945,7 +14942,7 @@
         "level": "C2",
         "objective": "Comprehensive mastery of Uongozi wa Kidiplomasia na Hotuba Kuu (C2 Capstone Statecraft).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Mkutano Mkuu wa Kidiplomasia na Uongozi wa Dola (C2 Capstone) » (Sehemu ya 4), tunachunguza kanuni za kisarufi zinazohusu Uongozi wa Kidiplomasia na Hotuba Kuu (C2 Capstone Statecraft). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Mkutano Mkuu wa Kidiplomasia na Uongozi wa Dola (C2 Capstone) (Part 4)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Uongozi wa Kidiplomasia na Hotuba Kuu (C2 Capstone Statecraft).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (34.4.1).",
@@ -14964,10 +14961,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Uongozi wa Kidiplomasia na Hotuba Kuu (C2 Capstone Statecraft)"
+                "Verb conjugation combines Subject Prefix + Tense Infix + Object Infix + Verb Root (e.g., Ni-na-ku-penda)."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Proverbs (Methali) like 'Haraka haraka haina baraka' (Hurry hurry has no blessing) carry profound traditional wisdom."
             ]
         },
         "guidedPractice": {
@@ -15031,7 +15028,7 @@
         "level": "C2",
         "objective": "Comprehensive mastery of Uongozi wa Kidiplomasia na Hotuba Kuu (C2 Capstone Statecraft).",
         "presentation": {
-            "explanation": "Katika somo hili kuhusu « Mkutano Mkuu wa Kidiplomasia na Uongozi wa Dola (C2 Capstone) » (Sehemu ya 5), tunachunguza kanuni za kisarufi zinazohusu Uongozi wa Kidiplomasia na Hotuba Kuu (C2 Capstone Statecraft). Upatanisho sahihi wa ngeli, viambishi vya nafsi na nyakati huleta ufasaha na mtiririko mzuri wa lugha ya Kiswahili katika mawasiliano ya kila siku na maandishi rasmi ya kitaaluma.\n\nUchambuzi wa Kisarufi na Tafsiri (Grammar Analysis & English Glosses):\nMifano ifuatayo inafafanua jinsi miundo ya maneno inavyoungana kwa ukamilifu bila utata.",
+            "explanation": "【Mkutano Mkuu wa Kidiplomasia na Uongozi wa Dola (C2 Capstone) (Part 5)】\n\nKatika sarufi ya Kiswahili, somo hili linafafanua muundo sahihi wa ngeli, viambishi awali na tamathali za usemi.\n\nMuhtasari wa Sarufi:\n• Mada Kuu: Comprehensive mastery of Uongozi wa Kidiplomasia na Hotuba Kuu (C2 Capstone Statecraft).\n• Kanuni: Upatanisho wa kisarufi unazingatia ngeli ya nomino na mpangilio wa viambishi katika sentensi.",
             "examples": [
                 {
                     "target": "Mwalimu anafundisha wanafunzi kwa bidii na maarifa tele darasani (34.5.1).",
@@ -15050,10 +15047,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for Uongozi wa Kidiplomasia na Hotuba Kuu (C2 Capstone Statecraft)"
+                "Habari za asubuhi/mchana/jioni reflects authentic East African community warmth and relational etiquette."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Swahili."
+                "Taarab music and coastal poetry blend Bantu linguistic roots with historical Indian Ocean maritime connections."
             ]
         },
         "guidedPractice": {

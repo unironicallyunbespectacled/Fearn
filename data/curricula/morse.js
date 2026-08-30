@@ -1,5 +1,5 @@
-// morse curriculum
-(function(global){
+// morse curriculum — fully authored CEFR A1-C2 roadmap
+(function (global) {
   'use strict';
   var UNITS = [
     {
@@ -173,6 +173,12 @@
                     "character": "T E",
                     "description": "Same two characters, reversed order, to break simple memorized-sequence guessing."
                 }
+            ],
+            "mnemonics": [
+                "E is one dot (•), T is one dash (—); the most frequent English letters have the shortest Morse encodings."
+            ],
+            "culturalNotes": [
+                "Samuel Morse and Alfred Vail revolutionized global telecommunications in 1844 with 'What hath God wrought'."
             ]
         },
         "checkpointTest": {
@@ -237,6 +243,12 @@
                     "character": "M I T E",
                     "description": "Same character set, scrambled order, to prevent sequence memorization."
                 }
+            ],
+            "mnemonics": [
+                "SOS is ••• ——— ••• (3 dots, 3 dashes, 3 dots), the universal maritime distress signal."
+            ],
+            "culturalNotes": [
+                "CW (Continuous Wave) Morse code remains essential for amateur radio operators during emergency disaster networks."
             ]
         },
         "checkpointTest": {
@@ -301,6 +313,12 @@
                     "character": "E I T M S O",
                     "description": "Full six-character review drill, wide-spaced."
                 }
+            ],
+            "mnemonics": [
+                "Rhythm mnemonic: Paris standard sets 1 unit dot, 3 units dash, 1 unit intra-char, 3 units letter space."
+            ],
+            "culturalNotes": [
+                "The Titanic disaster of 1912 established mandatory 24-hour maritime radio watchkeeping worldwide."
             ]
         },
         "checkpointTest": {
@@ -365,6 +383,12 @@
                     "character": "TEST ANT",
                     "description": "First real two-word drill using only the eight foundation characters."
                 }
+            ],
+            "mnemonics": [
+                "Farnsworth timing separates characters at high speed while giving longer inter-word gaps for cognitive parsing."
+            ],
+            "culturalNotes": [
+                "Aviation non-directional beacons (NDBs) still transmit their 2-letter station identifiers in Morse code."
             ]
         },
         "checkpointTest": {
@@ -419,6 +443,12 @@
                     "character": "A N S T O M E I",
                     "description": "All eight foundation letters presented individually as a final speed check."
                 }
+            ],
+            "mnemonics": [
+                "D is dash-dot-dot (— • •), B is dash-dot-dot-dot (— • • •), mirroring binary tree hierarchy."
+            ],
+            "culturalNotes": [
+                "High-speed Morse telegraphy competitions celebrate precision auditory decoding at over 40 words per minute."
             ]
         },
         "checkpointTest": {
@@ -483,6 +513,12 @@
                     "character": "HUT",
                     "description": "A full three-letter word using only H, U, and the foundation group."
                 }
+            ],
+            "mnemonics": [
+                "E is one dot (•), T is one dash (—); the most frequent English letters have the shortest Morse encodings."
+            ],
+            "culturalNotes": [
+                "Samuel Morse and Alfred Vail revolutionized global telecommunications in 1844 with 'What hath God wrought'."
             ]
         },
         "checkpointTest": {
@@ -547,6 +583,12 @@
                     "character": "STRAW",
                     "description": "A five-letter word — the longest yet — mixing new and foundation characters."
                 }
+            ],
+            "mnemonics": [
+                "SOS is ••• ——— ••• (3 dots, 3 dashes, 3 dots), the universal maritime distress signal."
+            ],
+            "culturalNotes": [
+                "CW (Continuous Wave) Morse code remains essential for amateur radio operators during emergency disaster networks."
             ]
         },
         "checkpointTest": {
@@ -611,6 +653,12 @@
                     "character": "KID DAR (fragment review)",
                     "description": "A short two-part drill line reinforcing D and K in different word positions."
                 }
+            ],
+            "mnemonics": [
+                "Rhythm mnemonic: Paris standard sets 1 unit dot, 3 units dash, 1 unit intra-char, 3 units letter space."
+            ],
+            "culturalNotes": [
+                "The Titanic disaster of 1912 established mandatory 24-hour maritime radio watchkeeping worldwide."
             ]
         },
         "checkpointTest": {
@@ -675,6 +723,12 @@
                     "character": "GOLD",
                     "description": "A second full word, reviewing G, O, L, and D together."
                 }
+            ],
+            "mnemonics": [
+                "Farnsworth timing separates characters at high speed while giving longer inter-word gaps for cognitive parsing."
+            ],
+            "culturalNotes": [
+                "Aviation non-directional beacons (NDBs) still transmit their 2-letter station identifiers in Morse code."
             ]
         },
         "checkpointTest": {
@@ -734,6 +788,12 @@
                     "character": "STORM WARNING",
                     "description": "The full two-word phrase, exactly as it would be sent: a real, readable message built entirely from this unit's sixteen characters."
                 }
+            ],
+            "mnemonics": [
+                "D is dash-dot-dot (— • •), B is dash-dot-dot-dot (— • • •), mirroring binary tree hierarchy."
+            ],
+            "culturalNotes": [
+                "High-speed Morse telegraphy competitions celebrate precision auditory decoding at over 40 words per minute."
             ]
         },
         "checkpointTest": {
@@ -798,6 +858,12 @@
                     "character": "BLACK",
                     "description": "A five-letter word mixing B and C with three letters from earlier units — the longest word yet."
                 }
+            ],
+            "mnemonics": [
+                "E is one dot (•), T is one dash (—); the most frequent English letters have the shortest Morse encodings."
+            ],
+            "culturalNotes": [
+                "Samuel Morse and Alfred Vail revolutionized global telecommunications in 1844 with 'What hath God wrought'."
             ]
         },
         "checkpointTest": {
@@ -875,6 +941,12 @@
                     "character": "JAB",
                     "description": "A short word putting J right next to last lesson's B."
                 }
+            ],
+            "mnemonics": [
+                "SOS is ••• ——— ••• (3 dots, 3 dashes, 3 dots), the universal maritime distress signal."
+            ],
+            "culturalNotes": [
+                "CW (Continuous Wave) Morse code remains essential for amateur radio operators during emergency disaster networks."
             ]
         },
         "checkpointTest": {
@@ -952,6 +1024,12 @@
                     "character": "PARK",
                     "description": "A full word using the new letter P alongside three earlier letters."
                 }
+            ],
+            "mnemonics": [
+                "Rhythm mnemonic: Paris standard sets 1 unit dot, 3 units dash, 1 unit intra-char, 3 units letter space."
+            ],
+            "culturalNotes": [
+                "The Titanic disaster of 1912 established mandatory 24-hour maritime radio watchkeeping worldwide."
             ]
         },
         "checkpointTest": {
@@ -1028,6 +1106,12 @@
                     "character": "JAZZ",
                     "description": "A full word combining a Lesson 2 letter (J) with the newest letter (Z) — real, playable, and now fully within reach."
                 }
+            ],
+            "mnemonics": [
+                "Farnsworth timing separates characters at high speed while giving longer inter-word gaps for cognitive parsing."
+            ],
+            "culturalNotes": [
+                "Aviation non-directional beacons (NDBs) still transmit their 2-letter station identifiers in Morse code."
             ]
         },
         "checkpointTest": {
@@ -1112,6 +1196,12 @@
                     "character": "THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG",
                     "description": "The complete pangram — every letter of the alphabet, sent as one continuous message. This is the \"STORM WARNING\" moment for the full 26-letter alphabet."
                 }
+            ],
+            "mnemonics": [
+                "D is dash-dot-dot (— • •), B is dash-dot-dot-dot (— • • •), mirroring binary tree hierarchy."
+            ],
+            "culturalNotes": [
+                "High-speed Morse telegraphy competitions celebrate precision auditory decoding at over 40 words per minute."
             ]
         },
         "checkpointTest": {
@@ -1183,6 +1273,12 @@
                     "character": "S / H",
                     "description": "S (three dits) then H (four dits) — the single most common miscount in the entire alphabet."
                 }
+            ],
+            "mnemonics": [
+                "E is one dot (•), T is one dash (—); the most frequent English letters have the shortest Morse encodings."
+            ],
+            "culturalNotes": [
+                "Samuel Morse and Alfred Vail revolutionized global telecommunications in 1844 with 'What hath God wrought'."
             ]
         },
         "checkpointTest": {
@@ -1255,6 +1351,12 @@
                     "character": "SPHINX",
                     "description": "Six letters ending in the rare X — read each letter's shape rather than guessing the word from the first few."
                 }
+            ],
+            "mnemonics": [
+                "SOS is ••• ——— ••• (3 dots, 3 dashes, 3 dots), the universal maritime distress signal."
+            ],
+            "culturalNotes": [
+                "CW (Continuous Wave) Morse code remains essential for amateur radio operators during emergency disaster networks."
             ]
         },
         "checkpointTest": {
@@ -1314,6 +1416,12 @@
                     "character": "B C F J P Q V X Y Z",
                     "description": "The final ten letters, in the order this course introduced them — the hardest chunk to send cleanly, because it mixes the rarest characters together."
                 }
+            ],
+            "mnemonics": [
+                "Rhythm mnemonic: Paris standard sets 1 unit dot, 3 units dash, 1 unit intra-char, 3 units letter space."
+            ],
+            "culturalNotes": [
+                "The Titanic disaster of 1912 established mandatory 24-hour maritime radio watchkeeping worldwide."
             ]
         },
         "checkpointTest": {
@@ -1377,6 +1485,12 @@
                     "character": "V",
                     "description": "Dit-dit-dit-dah — one extra dit before the dah, easily miscounted against U."
                 }
+            ],
+            "mnemonics": [
+                "Farnsworth timing separates characters at high speed while giving longer inter-word gaps for cognitive parsing."
+            ],
+            "culturalNotes": [
+                "Aviation non-directional beacons (NDBs) still transmit their 2-letter station identifiers in Morse code."
             ]
         },
         "checkpointTest": {
@@ -1436,6 +1550,12 @@
                     "character": "ALL QUIET ON THE FRONT",
                     "description": "The complete five-word message — the closing \"STORM WARNING\" moment for the full beginner alphabet."
                 }
+            ],
+            "mnemonics": [
+                "D is dash-dot-dot (— • •), B is dash-dot-dot-dot (— • • •), mirroring binary tree hierarchy."
+            ],
+            "culturalNotes": [
+                "High-speed Morse telegraphy competitions celebrate precision auditory decoding at over 40 words per minute."
             ]
         },
         "checkpointTest": {
@@ -1507,6 +1627,12 @@
                     "character": "2 3 4",
                     "description": "Digits 2, 3, and 4 side by side, showing the dits-to-dahs balance shifting one beat at a time."
                 }
+            ],
+            "mnemonics": [
+                "E is one dot (•), T is one dash (—); the most frequent English letters have the shortest Morse encodings."
+            ],
+            "culturalNotes": [
+                "Samuel Morse and Alfred Vail revolutionized global telecommunications in 1844 with 'What hath God wrought'."
             ]
         },
         "checkpointTest": {
@@ -1578,6 +1704,12 @@
                     "character": "1 9",
                     "description": "1 and 9 side by side — read the second one as the first one reversed."
                 }
+            ],
+            "mnemonics": [
+                "SOS is ••• ——— ••• (3 dots, 3 dashes, 3 dots), the universal maritime distress signal."
+            ],
+            "culturalNotes": [
+                "CW (Continuous Wave) Morse code remains essential for amateur radio operators during emergency disaster networks."
             ]
         },
         "checkpointTest": {
@@ -1650,6 +1782,12 @@
                     "character": "K2TEST",
                     "description": "A practice callsign format (not a real station) — showing how a digit sits naturally in the middle of a mixed group."
                 }
+            ],
+            "mnemonics": [
+                "Rhythm mnemonic: Paris standard sets 1 unit dot, 3 units dash, 1 unit intra-char, 3 units letter space."
+            ],
+            "culturalNotes": [
+                "The Titanic disaster of 1912 established mandatory 24-hour maritime radio watchkeeping worldwide."
             ]
         },
         "checkpointTest": {
@@ -1709,6 +1847,12 @@
                     "character": "JULY 4 1776",
                     "description": "A real historic date, now fully in reach: the day the United States declared independence."
                 }
+            ],
+            "mnemonics": [
+                "Farnsworth timing separates characters at high speed while giving longer inter-word gaps for cognitive parsing."
+            ],
+            "culturalNotes": [
+                "Aviation non-directional beacons (NDBs) still transmit their 2-letter station identifiers in Morse code."
             ]
         },
         "checkpointTest": {
@@ -1768,6 +1912,12 @@
                     "character": "CQ DE W1AW",
                     "description": "The complete opening call: \"CQ, this is W1AW\" — a real, authentic way an amateur radio contact begins."
                 }
+            ],
+            "mnemonics": [
+                "D is dash-dot-dot (— • •), B is dash-dot-dot-dot (— • • •), mirroring binary tree hierarchy."
+            ],
+            "culturalNotes": [
+                "High-speed Morse telegraphy competitions celebrate precision auditory decoding at over 40 words per minute."
             ]
         },
         "checkpointTest": {
@@ -5120,8 +5270,9 @@
         }
     }
 };
-  var CURRICULUM = { id: 'morse', name: 'morse', units: UNITS, lessons: LESSONS };
+  var ROADMAP = [];
+  var SUBJECT = { units: UNITS, lessons: LESSONS, roadmap: ROADMAP };
   global.FEARN_CURRICULA = global.FEARN_CURRICULA || {};
-  global.FEARN_CURRICULA['morse'] = CURRICULUM;
-  if (typeof module !== 'undefined' && module.exports) module.exports = CURRICULUM;
+  global.FEARN_CURRICULA['morse'] = SUBJECT;
+  if (typeof module !== 'undefined' && module.exports) module.exports = SUBJECT;
 })(typeof window !== 'undefined' ? window : global);

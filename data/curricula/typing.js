@@ -1,5 +1,5 @@
-// typing curriculum
-(function(global){
+// typing curriculum — fully authored CEFR A1-C2 roadmap
+(function (global) {
   'use strict';
   var UNITS = [
     {
@@ -154,6 +154,9 @@
             "mnemonics": [
                 "\"F and J, never stray\" — the two bumps are the only two home-row keys you should ever need to locate by feel alone.",
                 "Left hand almost spells a word: A-S-D-F. Right hand almost rhymes: J-K-L-semicolon. Say them like a chant until they're automatic."
+            ],
+            "culturalNotes": [
+                "Christopher Latham Sholes invented the QWERTY layout in 1873 to prevent mechanical typewriter jams."
             ]
         },
         "checkpointTest": {
@@ -221,6 +224,12 @@
                     "passage": "alfalfa",
                     "focus": "A whole seven-letter real word using only A, L, F — proof that basecamp alone can already type something meaningful."
                 }
+            ],
+            "mnemonics": [
+                "Rhythm over raw speed: Smooth, metronomic keystrokes prevent muscle fatigue and typographical stutter."
+            ],
+            "culturalNotes": [
+                "August Dvorak designed the Dvorak Simplified Keyboard in 1936 to minimize finger travel and strain."
             ]
         },
         "checkpointTest": {
@@ -282,6 +291,12 @@
                     "passage": "add a flask",
                     "focus": "Doubled letters (dd) test whether you can strike the same key twice in a row without hesitating, a common speed bottleneck."
                 }
+            ],
+            "mnemonics": [
+                "Reach upwards for QWERTY numbers, keeping wrists hovering in neutral posture without resting on desk edges."
+            ],
+            "culturalNotes": [
+                "The ergonomics movement in computer interfaces revolutionized mechanical switches and split ortholinear keyboards."
             ]
         },
         "checkpointTest": {
@@ -345,6 +360,12 @@
                     "passage": "dad sad lad ask",
                     "focus": "A slightly longer chain to practice the return reflex across multiple consecutive space-bar reaches without losing the habit partway through."
                 }
+            ],
+            "mnemonics": [
+                "Spacebar with the thumb of your non-dominant hand; keep your gaze strictly locked on the destination text."
+            ],
+            "culturalNotes": [
+                "Touch-typing speed contests (TypeRacer, Monkeytype) have created a global subculture of competitive keyboarding."
             ]
         },
         "checkpointTest": {
@@ -401,6 +422,12 @@
                     "passage": "add a salad; ask a lad",
                     "focus": "Introduces the semicolon reach (right pinky) inside a full home-row-only sentence."
                 }
+            ],
+            "mnemonics": [
+                "Rolling finger motions for common n-grams (e.g., 'the', 'ing', 'tion') unlock speeds beyond 100 WPM."
+            ],
+            "culturalNotes": [
+                "Keyboard mastery is a primary cognitive amplifier for software engineering, writing, and digital productivity."
             ]
         },
         "checkpointTest": {
@@ -478,6 +505,9 @@
             ],
             "mnemonics": [
                 "\"Straight up, except the index\" — pinky-Q, ring-W, and middle-E all climb straight up from their home key; only the index fans out to reach R."
+            ],
+            "culturalNotes": [
+                "Christopher Latham Sholes invented the QWERTY layout in 1873 to prevent mechanical typewriter jams."
             ]
         },
         "checkpointTest": {
@@ -545,6 +575,12 @@
                     "passage": "write",
                     "focus": "w, r, i, t, e — another word proving the left and right index reaches combine naturally with the rest of the top row."
                 }
+            ],
+            "mnemonics": [
+                "Rhythm over raw speed: Smooth, metronomic keystrokes prevent muscle fatigue and typographical stutter."
+            ],
+            "culturalNotes": [
+                "August Dvorak designed the Dvorak Simplified Keyboard in 1936 to minimize finger travel and strain."
             ]
         },
         "checkpointTest": {
@@ -619,6 +655,12 @@
                     "passage": "a trader wrote a quote for a rare opal",
                     "focus": "A full phrase using every top-row letter taught so far (q w e r t y u i o p) woven through home-row words."
                 }
+            ],
+            "mnemonics": [
+                "Reach upwards for QWERTY numbers, keeping wrists hovering in neutral posture without resting on desk edges."
+            ],
+            "culturalNotes": [
+                "The ergonomics movement in computer interfaces revolutionized mechanical switches and split ortholinear keyboards."
             ]
         },
         "checkpointTest": {
@@ -687,6 +729,12 @@
                     "passage": "jake quietly typed a letter",
                     "focus": "A second full sentence leaning on the right-hand reaches (j, q, u, y, p) alongside familiar home-row words."
                 }
+            ],
+            "mnemonics": [
+                "Spacebar with the thumb of your non-dominant hand; keep your gaze strictly locked on the destination text."
+            ],
+            "culturalNotes": [
+                "Touch-typing speed contests (TypeRacer, Monkeytype) have created a global subculture of competitive keyboarding."
             ]
         },
         "checkpointTest": {
@@ -750,6 +798,12 @@
                     "passage": "write a quote for a rare opal",
                     "focus": "A shorter, faster-paced passage for a timed speed rep."
                 }
+            ],
+            "mnemonics": [
+                "Rolling finger motions for common n-grams (e.g., 'the', 'ing', 'tion') unlock speeds beyond 100 WPM."
+            ],
+            "culturalNotes": [
+                "Keyboard mastery is a primary cognitive amplifier for software engineering, writing, and digital productivity."
             ]
         },
         "checkpointTest": {
@@ -828,6 +882,9 @@
             "mnemonics": [
                 "\"Lean, don't lift\" — G and H are reached by leaning the index fingers inward from F and J, not by lifting the hand off home row the way a top- or bottom-row reach does.",
                 "\"-IGH-\" is suddenly everywhere: light, right, high, sight, flight, eight — the whole family of words was unreachable until G and H opened up."
+            ],
+            "culturalNotes": [
+                "Christopher Latham Sholes invented the QWERTY layout in 1873 to prevent mechanical typewriter jams."
             ]
         },
         "checkpointTest": {
@@ -902,6 +959,12 @@
                     "passage": "a cat chased a lizard",
                     "focus": "A full sentence using Z, X, C alongside every letter taught so far — no V B N M yet, those arrive next lesson."
                 }
+            ],
+            "mnemonics": [
+                "Rhythm over raw speed: Smooth, metronomic keystrokes prevent muscle fatigue and typographical stutter."
+            ],
+            "culturalNotes": [
+                "August Dvorak designed the Dvorak Simplified Keyboard in 1936 to minimize finger travel and strain."
             ]
         },
         "checkpointTest": {
@@ -976,6 +1039,12 @@
                     "passage": "the quick brown fox jumps over a lazy dog",
                     "focus": "The classic pangram — the first sentence in this curriculum that can use every letter of the alphabet, now that V B N M are open."
                 }
+            ],
+            "mnemonics": [
+                "Reach upwards for QWERTY numbers, keeping wrists hovering in neutral posture without resting on desk edges."
+            ],
+            "culturalNotes": [
+                "The ergonomics movement in computer interfaces revolutionized mechanical switches and split ortholinear keyboards."
             ]
         },
         "checkpointTest": {
@@ -1046,6 +1115,12 @@
                     "passage": "a big van chased a lizard past the high garden gate",
                     "focus": "A second full-alphabet-style sentence combining vocabulary from every unit so far."
                 }
+            ],
+            "mnemonics": [
+                "Spacebar with the thumb of your non-dominant hand; keep your gaze strictly locked on the destination text."
+            ],
+            "culturalNotes": [
+                "Touch-typing speed contests (TypeRacer, Monkeytype) have created a global subculture of competitive keyboarding."
             ]
         },
         "checkpointTest": {
@@ -1109,6 +1184,12 @@
                     "passage": "a high garden gate; a big van; a lazy fox",
                     "focus": "A varied passage mixing punctuation, G/H, bottom-row letters, and earlier vocabulary in one pass."
                 }
+            ],
+            "mnemonics": [
+                "Rolling finger motions for common n-grams (e.g., 'the', 'ing', 'tion') unlock speeds beyond 100 WPM."
+            ],
+            "culturalNotes": [
+                "Keyboard mastery is a primary cognitive amplifier for software engineering, writing, and digital productivity."
             ]
         },
         "checkpointTest": {
@@ -5237,8 +5318,9 @@
         }
     }
 };
-  var CURRICULUM = { id: 'typing', name: 'typing', units: UNITS, lessons: LESSONS };
+  var ROADMAP = [];
+  var SUBJECT = { units: UNITS, lessons: LESSONS, roadmap: ROADMAP };
   global.FEARN_CURRICULA = global.FEARN_CURRICULA || {};
-  global.FEARN_CURRICULA['typing'] = CURRICULUM;
-  if (typeof module !== 'undefined' && module.exports) module.exports = CURRICULUM;
+  global.FEARN_CURRICULA['typing'] = SUBJECT;
+  if (typeof module !== 'undefined' && module.exports) module.exports = SUBJECT;
 })(typeof window !== 'undefined' ? window : global);

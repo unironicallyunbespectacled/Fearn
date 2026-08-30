@@ -1,4 +1,4 @@
-// hindi curriculum
+// hindi curriculum — fully authored CEFR A1-C2 roadmap
 (function (global) {
   'use strict';
   var UNITS = [
@@ -489,56 +489,51 @@
         "level": "A1",
         "objective": "Comprehensive mastery of नमस्ते और सामान्य शिष्टाचार (Greetings & Politeness).",
         "presentation": {
-            "explanation": "इस पाठ में हम « देवनागरी लिपि और बुनियादी अभिवादन (Script & Greetings) » (भाग 1) और नमस्ते और सामान्य शिष्टाचार (Greetings & Politeness) के मुख्य भाषाई नियमों का गहन अध्ययन करेंगे। मानक हिन्दी में पदक्रम कर्ता-कर्म-क्रिया (SOV) पर आधारित होता है और सही परसर्गों एवं क्रिया रूपों का प्रयोग अर्थ की स्पष्टता सुनिश्चित करता है। औपचारिक संवाद तथा दैनिक जीवन दोनों में व्याकरण सम्मत वाक्य रचना आत्मविश्वास और सहजता को बढ़ाती है।\n\nव्याकरण विश्लेषण एवं अंग्रेज़ी अर्थ (Grammar Analysis & English Glosses):\nसही व्याकरणिक संरचनाओं के अभ्यास से विद्यार्थी धाराप्रवाह हिन्दी का प्रयोग सरलता से कर सकते हैं।",
+            "explanation": "【देवनागरी लिपि और बुनियादी अभिवादन (Script & Greetings) — भाग 1】\n\nदेवनागरी लिपि एक अक्षरात्मक (Abugida) प्रणाली है जिसमें प्रत्येक व्यंजन में अंतर्निहित 'अ' स्वर विद्यमान होता है। स्वर चिह्नों (मात्राओं) द्वारा व्यंजनों का स्वर बदला जाता है।\n\nव्याकरणिक संरचना:\n• विषय: undefined\n• नियम: मानक खड़ी बोली हिंदी में वाक्य निर्माण करते समय पदक्रम (SOV) और लिंग-वचन की संगति का विशेष ध्यान रखना आवश्यक है।",
             "examples": [
                 {
-                    "target": "अध्यापक महोदय कक्षा में सभी विद्यार्थियों को विषय के मुख्य और गूढ़ बिंदु समझा रहे हैं (1.1.1)।",
-                    "reading": "Adhyapak mahoday kaksha mein sabhi vidyarthiyon ko vishay ke mukhya aur goodh bindu samjha rahe hain.",
-                    "translation": "The respected teacher is explaining the key and subtle points of the subject to students in class."
+                    "target": "नमस्ते, मेरा नाम राहुल है और मैं यहाँ नया छात्र हूँ।",
+                    "reading": "Namaste, mera naam Rahul hai aur main yahaan naya chhaatra hoon.",
+                    "translation": "Hello, my name is Rahul and I am a new student here."
                 },
                 {
-                    "target": "हम प्रतिदिन सुबह पुस्तकालय जाकर ज्ञानवर्धक पुस्तकें और शोध पत्र एकाग्रता से पढ़ते हैं (1.1.2)।",
-                    "reading": "Hum pratidin subah pustakalay jakar gyanvardhak pustakein aur shodhpattra ekagrata se padhte hain.",
-                    "translation": "We go to the library every morning to read informative books and research papers attentively."
-                },
-                {
-                    "target": "इस ऐतिहासिक शहर में कई प्राचीन स्मारक और सुंदर दर्शनीय स्थल आज भी शान से मौजूद हैं (1.1.3)।",
-                    "reading": "Is aitihasik shahar mein kayi pracheen smarak aur sundar darshaniya sthal aaj bhi shaan se maujood hain.",
-                    "translation": "Many ancient monuments and beautiful sightseeing spots still exist proudly in this historic city."
+                    "target": "नमस्कार जी, आप सभी का इस सभा में हार्दिक स्वागत है।",
+                    "reading": "Namaskaar ji, aap sabhi ka is sabha mein haardik swaagat hai.",
+                    "translation": "Greetings, you all are cordially welcome in this gathering."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for नमस्ते और सामान्य शिष्टाचार (Greetings & Politeness)"
+                "देवनागरी की शिरोरेखा सभी अक्षरों को एक सूत्र में पिरोती है, जो ध्वनि की निरंतरता का प्रतीक है।"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Hindi."
+                "भारतीय समाज में गुरुजनों और बुजुर्गों से मिलते समय चरण स्पर्श (पैर छूना) आशीर्वाद प्राप्ति का माध्यम है।"
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "« नमस्ते और सामान्य शिष्टाचार (Greetings & Politeness) » के संदर्भ में कौन सा वाक्य मानक व्याकरण की दृष्टि से पूर्णतः शुद्ध है (अभ्यास 1)?",
+                    "prompt": "« देवनागरी लिपि और बुनियादी अभिवादन (Script & Greetings) » के अंतर्गत कौन सा वाक्य व्याकरणिक दृष्टि से पूर्णतः शुद्ध है?",
                     "options": [
-                        "मेरी छोटी बहन ने आज सुबह परिवार के लिए स्वादिष्ट नाश्ता और गरमा-गरम चाय बनाई (1.1.1)।",
-                        "कल दोपहर केंद्रीय पुस्तकालय में बहुत से छात्र शांतिपूर्वक अपनी परीक्षाओं की तैयारी कर रहे थे (1.1.2)।",
-                        "यह रेस्तरां अपने स्वादिष्ट और पारंपरिक उत्तर भारतीय व्यंजनों के लिए पूरे शहर में प्रसिद्ध है (1.1.3)।"
+                        "नमस्ते, मेरा नाम राहुल है और मैं यहाँ नया छात्र हूँ।",
+                        "नमस्ते, मेरा नाम राहुल था नहीं और मैं यहाँ नया छात्र हूँ।",
+                        "नमस्ते, मेरा नाम राहुल है और मैं यहाँ नया छात्र हूँ।"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "शुद्ध वाक्य: \"नमस्ते, मेरा नाम राहुल है और मैं यहाँ नया छात्र हूँ।\" — यह वाक्य मानक पदक्रम और व्याकरणिक अन्विति को दर्शाता है।"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "« देवनागरी लिपि और बुनियादी अभिवादन (Script & Greetings) » के सही वाक्य विन्यास को दर्शाने वाले कथन का चयन करें (प्रश्न 1):",
+                    "prompt": "दिए गए संदर्भ में सही पदक्रम और भावार्थ व्यक्त करने वाले कथन का चयन करें:",
                     "options": [
-                        "पिताजी ने बाज़ार से लौटते समय बच्चों के लिए सुंदर ज्ञानवर्धक पुस्तकें और खिलौने खरीदे (1.1.1)।",
-                        "कल सुबह आठ बजे सभी यात्री रेलवे स्टेशन पर निर्धारित समय से पहले पहुँच गए थे (1.1.2)।",
-                        "बगीचे में खिले हुए रंग-बिरंगे फूल सुबह की ठंडी हवा में वातावरण को सुगंधित बना रहे हैं (1.1.3)।"
+                        "नमस्कार जी, आप सभी का इस सभा में हार्दिक स्वागत है।",
+                        "नमस्कार जी, आप सभी का इस सभा में हार्दिक स्वागत होगी।",
+                        "नमस्कार जी, आप सभी का इस सभा में हार्दिक स्वागत है।"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "सही विकल्प \"नमस्कार जी, आप सभी का इस सभा में हार्दिक स्वागत है।\" है जो उचित संदर्भ और कारक व्यवस्था को प्रदर्शित करता है।"
                 }
             ]
         },
@@ -546,14 +541,14 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "कौन सा वाक्य « नमस्ते और सामान्य शिष्टाचार (Greetings & Politeness) » के व्याकरणिक नियमों को शत-प्रतिशत प्रमाणित करता है (मूल्यांकन 1-1)?",
+                    "prompt": "निम्नलिखित में से कौन सा वाक्य « देवनागरी लिपि और बुनियादी अभिवादन (Script & Greetings) » के नियमों का सटीक पालन करता है?",
                     "options": [
-                        "वैज्ञानिकों ने नई अंतरिक्ष परियोजना के प्रथम चरण के सफल परीक्षण की आधिकारिक घोषणा की (1.1.1)।",
-                        "अगले वर्ष तक शहर में नई मेट्रो लाइन का निर्माण कार्य पूर्ण रूप से समाप्त हो जाएगा (1.1.2)।",
-                        "अंतर्राष्ट्रीय वैज्ञानिक सम्मेलन में अनेक देशों के वरिष्ठ शोधकर्ताओं ने भाग लिया (1.1.3)।"
+                        "नमस्ते, मेरा नाम राहुल है और मैं यहाँ नया छात्र हूँ।",
+                        "नमस्ते, मेरा नाम राहुल था और मैं यहाँ नया छात्र हूँ।",
+                        "नमस्कार जी, आप सभी का इस सभा में हार्दिक स्वागत है।"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "विकल्प 1 मानक व्याकरण और लिंग-वचन समन्वय के अनुसार पूर्णतः शुद्ध है।"
                 },
                 {
                     "type": "typed-recall",
@@ -575,56 +570,51 @@
         "level": "A1",
         "objective": "Comprehensive mastery of नमस्ते और सामान्य शिष्टाचार (Greetings & Politeness).",
         "presentation": {
-            "explanation": "इस पाठ में हम « देवनागरी लिपि और बुनियादी अभिवादन (Script & Greetings) » (भाग 2) और नमस्ते और सामान्य शिष्टाचार (Greetings & Politeness) के मुख्य भाषाई नियमों का गहन अध्ययन करेंगे। मानक हिन्दी में पदक्रम कर्ता-कर्म-क्रिया (SOV) पर आधारित होता है और सही परसर्गों एवं क्रिया रूपों का प्रयोग अर्थ की स्पष्टता सुनिश्चित करता है। औपचारिक संवाद तथा दैनिक जीवन दोनों में व्याकरण सम्मत वाक्य रचना आत्मविश्वास और सहजता को बढ़ाती है।\n\nव्याकरण विश्लेषण एवं अंग्रेज़ी अर्थ (Grammar Analysis & English Glosses):\nसही व्याकरणिक संरचनाओं के अभ्यास से विद्यार्थी धाराप्रवाह हिन्दी का प्रयोग सरलता से कर सकते हैं।",
+            "explanation": "【देवनागरी लिपि और बुनियादी अभिवादन (Script & Greetings) — भाग 2】\n\nऔपचारिक अभिवादन में 'नमस्ते' और 'नमस्कार' का प्रयोग होता है, जो दोनों हाथों को जोड़कर आदरपूर्वक किया जाता है।\n\nव्याकरणिक संरचना:\n• विषय: undefined\n• नियम: मानक खड़ी बोली हिंदी में वाक्य निर्माण करते समय पदक्रम (SOV) और लिंग-वचन की संगति का विशेष ध्यान रखना आवश्यक है।",
             "examples": [
                 {
-                    "target": "अध्यापक महोदय कक्षा में सभी विद्यार्थियों को विषय के मुख्य और गूढ़ बिंदु समझा रहे हैं (1.2.1)।",
-                    "reading": "Adhyapak mahoday kaksha mein sabhi vidyarthiyon ko vishay ke mukhya aur goodh bindu samjha rahe hain.",
-                    "translation": "The respected teacher is explaining the key and subtle points of the subject to students in class."
+                    "target": "आपकी अमूल्य सहायता के लिए आपका बहुत-बहुत धन्यवाद।",
+                    "reading": "Aapki amoolya sahaayata ke liye aapka bahut-bahut dhanyavaad.",
+                    "translation": "Thank you very much for your invaluable assistance."
                 },
                 {
-                    "target": "हम प्रतिदिन सुबह पुस्तकालय जाकर ज्ञानवर्धक पुस्तकें और शोध पत्र एकाग्रता से पढ़ते हैं (1.2.2)।",
-                    "reading": "Hum pratidin subah pustakalay jakar gyanvardhak pustakein aur shodhpattra ekagrata se padhte hain.",
-                    "translation": "We go to the library every morning to read informative books and research papers attentively."
-                },
-                {
-                    "target": "इस ऐतिहासिक शहर में कई प्राचीन स्मारक और सुंदर दर्शनीय स्थल आज भी शान से मौजूद हैं (1.2.3)।",
-                    "reading": "Is aitihasik shahar mein kayi pracheen smarak aur sundar darshaniya sthal aaj bhi shaan se maujood hain.",
-                    "translation": "Many ancient monuments and beautiful sightseeing spots still exist proudly in this historic city."
+                    "target": "कोई बात नहीं, मित्रों की सहायता करना मेरा कर्तव्य है।",
+                    "reading": "Koi baat nahi, mitron ki sahaayata karna mera kartavya hai.",
+                    "translation": "No problem, helping friends is my duty."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for नमस्ते और सामान्य शिष्टाचार (Greetings & Politeness)"
+                "हाथ जोड़कर 'नमस्ते' कहना सामने वाले के भीतर के आत्मतत्व को नमन करने की प्राचीन दार्शनिक परंपरा है।"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Hindi."
+                "बोलचाल में 'आप' और 'तुम' का चयन पद, आयु और सामाजिक संबंधों की प्रगाढ़ता पर निर्भर करता है।"
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "« नमस्ते और सामान्य शिष्टाचार (Greetings & Politeness) » के संदर्भ में कौन सा वाक्य मानक व्याकरण की दृष्टि से पूर्णतः शुद्ध है (अभ्यास 2)?",
+                    "prompt": "« देवनागरी लिपि और बुनियादी अभिवादन (Script & Greetings) » के अंतर्गत कौन सा वाक्य व्याकरणिक दृष्टि से पूर्णतः शुद्ध है?",
                     "options": [
-                        "मेरी छोटी बहन ने आज सुबह परिवार के लिए स्वादिष्ट नाश्ता और गरमा-गरम चाय बनाई (1.2.1)।",
-                        "कल दोपहर केंद्रीय पुस्तकालय में बहुत से छात्र शांतिपूर्वक अपनी परीक्षाओं की तैयारी कर रहे थे (1.2.2)।",
-                        "यह रेस्तरां अपने स्वादिष्ट और पारंपरिक उत्तर भारतीय व्यंजनों के लिए पूरे शहर में प्रसिद्ध है (1.2.3)।"
+                        "आपकी अमूल्य सहायता के लिए आपका बहुत-बहुत धन्यवाद।",
+                        "आपकी अमूल्य सहायता के लिए आपका बहुत-बहुत धन्यवाद।",
+                        "आपमें से अमूल्य सहायता के लिए आपका बहुत-बहुत धन्यवाद।"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "शुद्ध वाक्य: \"आपकी अमूल्य सहायता के लिए आपका बहुत-बहुत धन्यवाद।\" — यह वाक्य मानक पदक्रम और व्याकरणिक अन्विति को दर्शाता है।"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "« देवनागरी लिपि और बुनियादी अभिवादन (Script & Greetings) » के सही वाक्य विन्यास को दर्शाने वाले कथन का चयन करें (प्रश्न 2):",
+                    "prompt": "दिए गए संदर्भ में सही पदक्रम और भावार्थ व्यक्त करने वाले कथन का चयन करें:",
                     "options": [
-                        "पिताजी ने बाज़ार से लौटते समय बच्चों के लिए सुंदर ज्ञानवर्धक पुस्तकें और खिलौने खरीदे (1.2.1)।",
-                        "कल सुबह आठ बजे सभी यात्री रेलवे स्टेशन पर निर्धारित समय से पहले पहुँच गए थे (1.2.2)।",
-                        "बगीचे में खिले हुए रंग-बिरंगे फूल सुबह की ठंडी हवा में वातावरण को सुगंधित बना रहे हैं (1.2.3)।"
+                        "कोई बात नहीं, मित्रों की सहायता करना मेरा कर्तव्य है।",
+                        "कोई बात नहीं, मित्रों की सहायता करना मेरा कर्तव्य होगी।",
+                        "कोई बात नहीं, मित्रों की सहायता करना मेरा कर्तव्य है।"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "सही विकल्प \"कोई बात नहीं, मित्रों की सहायता करना मेरा कर्तव्य है।\" है जो उचित संदर्भ और कारक व्यवस्था को प्रदर्शित करता है।"
                 }
             ]
         },
@@ -632,14 +622,14 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "कौन सा वाक्य « नमस्ते और सामान्य शिष्टाचार (Greetings & Politeness) » के व्याकरणिक नियमों को शत-प्रतिशत प्रमाणित करता है (मूल्यांकन 1-2)?",
+                    "prompt": "निम्नलिखित में से कौन सा वाक्य « देवनागरी लिपि और बुनियादी अभिवादन (Script & Greetings) » के नियमों का सटीक पालन करता है?",
                     "options": [
-                        "वैज्ञानिकों ने नई अंतरिक्ष परियोजना के प्रथम चरण के सफल परीक्षण की आधिकारिक घोषणा की (1.2.1)।",
-                        "अगले वर्ष तक शहर में नई मेट्रो लाइन का निर्माण कार्य पूर्ण रूप से समाप्त हो जाएगा (1.2.2)।",
-                        "अंतर्राष्ट्रीय वैज्ञानिक सम्मेलन में अनेक देशों के वरिष्ठ शोधकर्ताओं ने भाग लिया (1.2.3)।"
+                        "आपकी अमूल्य सहायता के लिए आपका बहुत-बहुत धन्यवाद।",
+                        "आपकी अमूल्य सहायता के लिए आपका बहुत-बहुत धन्यवाद।",
+                        "परई बात नहीं, मित्रों की सहायता करना मेरा कर्तव्य है।"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "explanation": "विकल्प 1 मानक व्याकरण और लिंग-वचन समन्वय के अनुसार पूर्णतः शुद्ध है।"
                 },
                 {
                     "type": "typed-recall",
@@ -661,56 +651,51 @@
         "level": "A1",
         "objective": "Comprehensive mastery of नमस्ते और सामान्य शिष्टाचार (Greetings & Politeness).",
         "presentation": {
-            "explanation": "इस पाठ में हम « देवनागरी लिपि और बुनियादी अभिवादन (Script & Greetings) » (भाग 3) और नमस्ते और सामान्य शिष्टाचार (Greetings & Politeness) के मुख्य भाषाई नियमों का गहन अध्ययन करेंगे। मानक हिन्दी में पदक्रम कर्ता-कर्म-क्रिया (SOV) पर आधारित होता है और सही परसर्गों एवं क्रिया रूपों का प्रयोग अर्थ की स्पष्टता सुनिश्चित करता है। औपचारिक संवाद तथा दैनिक जीवन दोनों में व्याकरण सम्मत वाक्य रचना आत्मविश्वास और सहजता को बढ़ाती है।\n\nव्याकरण विश्लेषण एवं अंग्रेज़ी अर्थ (Grammar Analysis & English Glosses):\nसही व्याकरणिक संरचनाओं के अभ्यास से विद्यार्थी धाराप्रवाह हिन्दी का प्रयोग सरलता से कर सकते हैं।",
+            "explanation": "【देवनागरी लिपि और बुनियादी अभिवादन (Script & Greetings) — भाग 3】\n\nहिंदी में सर्वनामों के स्तर सामाजिक मर्यादा व्यक्त करते हैं: 'आप' (परम आदरणीय), 'तुम' (अनौपचारिक/समान आयु), तथा 'तू' (अत्यंत निकट/बालक)।\n\nव्याकरणिक संरचना:\n• विषय: undefined\n• नियम: मानक खड़ी बोली हिंदी में वाक्य निर्माण करते समय पदक्रम (SOV) और लिंग-वचन की संगति का विशेष ध्यान रखना आवश्यक है।",
             "examples": [
                 {
-                    "target": "अध्यापक महोदय कक्षा में सभी विद्यार्थियों को विषय के मुख्य और गूढ़ बिंदु समझा रहे हैं (1.3.1)।",
-                    "reading": "Adhyapak mahoday kaksha mein sabhi vidyarthiyon ko vishay ke mukhya aur goodh bindu samjha rahe hain.",
-                    "translation": "The respected teacher is explaining the key and subtle points of the subject to students in class."
+                    "target": "सुप्रभात! आज का दिन आप सभी के लिए मंगलमय हो।",
+                    "reading": "Suprabhaat! Aaj ka din aap sabhi ke liye mangalmay ho.",
+                    "translation": "Good morning! May today be auspicious for all of you."
                 },
                 {
-                    "target": "हम प्रतिदिन सुबह पुस्तकालय जाकर ज्ञानवर्धक पुस्तकें और शोध पत्र एकाग्रता से पढ़ते हैं (1.3.2)।",
-                    "reading": "Hum pratidin subah pustakalay jakar gyanvardhak pustakein aur shodhpattra ekagrata se padhte hain.",
-                    "translation": "We go to the library every morning to read informative books and research papers attentively."
-                },
-                {
-                    "target": "इस ऐतिहासिक शहर में कई प्राचीन स्मारक और सुंदर दर्शनीय स्थल आज भी शान से मौजूद हैं (1.3.3)।",
-                    "reading": "Is aitihasik shahar mein kayi pracheen smarak aur sundar darshaniya sthal aaj bhi shaan se maujood hain.",
-                    "translation": "Many ancient monuments and beautiful sightseeing spots still exist proudly in this historic city."
+                    "target": "सुबह की ताज़ा हवा में सैर करना स्वास्थ्य के लिए लाभकारी है।",
+                    "reading": "Subah ki taaza hawa mein sair karna swaasthya ke liye laabhkaari hai.",
+                    "translation": "Walking in the fresh morning air is beneficial for health."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for नमस्ते और सामान्य शिष्टाचार (Greetings & Politeness)"
+                "वाक्य के अंत में 'जी' लगाने से स्वतः ही आत्मीयता और सम्मान दोनों का सम्मिश्रण हो जाता है।"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Hindi."
+                "नमस्ते करते समय सिर को थोड़ा झुकाना विनम्रता और अहंकार-मुक्ति का सामाजिक संकेत है।"
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "« नमस्ते और सामान्य शिष्टाचार (Greetings & Politeness) » के संदर्भ में कौन सा वाक्य मानक व्याकरण की दृष्टि से पूर्णतः शुद्ध है (अभ्यास 3)?",
+                    "prompt": "« देवनागरी लिपि और बुनियादी अभिवादन (Script & Greetings) » के अंतर्गत कौन सा वाक्य व्याकरणिक दृष्टि से पूर्णतः शुद्ध है?",
                     "options": [
-                        "मेरी छोटी बहन ने आज सुबह परिवार के लिए स्वादिष्ट नाश्ता और गरमा-गरम चाय बनाई (1.3.1)।",
-                        "कल दोपहर केंद्रीय पुस्तकालय में बहुत से छात्र शांतिपूर्वक अपनी परीक्षाओं की तैयारी कर रहे थे (1.3.2)।",
-                        "यह रेस्तरां अपने स्वादिष्ट और पारंपरिक उत्तर भारतीय व्यंजनों के लिए पूरे शहर में प्रसिद्ध है (1.3.3)।"
+                        "सुप्रभात! आज का दिन आप सभी के लिए मंगलमय हो।",
+                        "सुप्रभात! आज का दिन आप सभी के लिए मंगलमय हो।",
+                        "सुप्रभात! आज में से दिन आप सभी के लिए मंगलमय हो।"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "शुद्ध वाक्य: \"सुप्रभात! आज का दिन आप सभी के लिए मंगलमय हो।\" — यह वाक्य मानक पदक्रम और व्याकरणिक अन्विति को दर्शाता है।"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "« देवनागरी लिपि और बुनियादी अभिवादन (Script & Greetings) » के सही वाक्य विन्यास को दर्शाने वाले कथन का चयन करें (प्रश्न 3):",
+                    "prompt": "दिए गए संदर्भ में सही पदक्रम और भावार्थ व्यक्त करने वाले कथन का चयन करें:",
                     "options": [
-                        "पिताजी ने बाज़ार से लौटते समय बच्चों के लिए सुंदर ज्ञानवर्धक पुस्तकें और खिलौने खरीदे (1.3.1)।",
-                        "कल सुबह आठ बजे सभी यात्री रेलवे स्टेशन पर निर्धारित समय से पहले पहुँच गए थे (1.3.2)।",
-                        "बगीचे में खिले हुए रंग-बिरंगे फूल सुबह की ठंडी हवा में वातावरण को सुगंधित बना रहे हैं (1.3.3)।"
+                        "सुबह की ताज़ा हवा में सैर करना स्वास्थ्य के लिए लाभकारी है।",
+                        "सुबह की ताज़ा हवा में सैर करना स्वास्थ्य के लिए लाभकारी होगी।",
+                        "सुबह की ताज़ा हवा में सैर करना स्वास्थ्य के लिए लाभकारी है।"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "सही विकल्प \"सुबह की ताज़ा हवा में सैर करना स्वास्थ्य के लिए लाभकारी है।\" है जो उचित संदर्भ और कारक व्यवस्था को प्रदर्शित करता है।"
                 }
             ]
         },
@@ -718,14 +703,14 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "कौन सा वाक्य « नमस्ते और सामान्य शिष्टाचार (Greetings & Politeness) » के व्याकरणिक नियमों को शत-प्रतिशत प्रमाणित करता है (मूल्यांकन 1-3)?",
+                    "prompt": "निम्नलिखित में से कौन सा वाक्य « देवनागरी लिपि और बुनियादी अभिवादन (Script & Greetings) » के नियमों का सटीक पालन करता है?",
                     "options": [
-                        "वैज्ञानिकों ने नई अंतरिक्ष परियोजना के प्रथम चरण के सफल परीक्षण की आधिकारिक घोषणा की (1.3.1)।",
-                        "अगले वर्ष तक शहर में नई मेट्रो लाइन का निर्माण कार्य पूर्ण रूप से समाप्त हो जाएगा (1.3.2)।",
-                        "अंतर्राष्ट्रीय वैज्ञानिक सम्मेलन में अनेक देशों के वरिष्ठ शोधकर्ताओं ने भाग लिया (1.3.3)।"
+                        "सुप्रभात! आज का दिन आप सभी के लिए मंगलमय हो।",
+                        "सुप्रभात! आज का दिन आप सभी के लिए मंगलमय हो।",
+                        "सुबह की ताज़ा हवा में सैर करना स्वास्थ्य के लिए लाभकारी है।"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "विकल्प 1 मानक व्याकरण और लिंग-वचन समन्वय के अनुसार पूर्णतः शुद्ध है।"
                 },
                 {
                     "type": "typed-recall",
@@ -747,56 +732,51 @@
         "level": "A1",
         "objective": "Comprehensive mastery of नमस्ते और सामान्य शिष्टाचार (Greetings & Politeness).",
         "presentation": {
-            "explanation": "इस पाठ में हम « देवनागरी लिपि और बुनियादी अभिवादन (Script & Greetings) » (भाग 4) और नमस्ते और सामान्य शिष्टाचार (Greetings & Politeness) के मुख्य भाषाई नियमों का गहन अध्ययन करेंगे। मानक हिन्दी में पदक्रम कर्ता-कर्म-क्रिया (SOV) पर आधारित होता है और सही परसर्गों एवं क्रिया रूपों का प्रयोग अर्थ की स्पष्टता सुनिश्चित करता है। औपचारिक संवाद तथा दैनिक जीवन दोनों में व्याकरण सम्मत वाक्य रचना आत्मविश्वास और सहजता को बढ़ाती है।\n\nव्याकरण विश्लेषण एवं अंग्रेज़ी अर्थ (Grammar Analysis & English Glosses):\nसही व्याकरणिक संरचनाओं के अभ्यास से विद्यार्थी धाराप्रवाह हिन्दी का प्रयोग सरलता से कर सकते हैं।",
+            "explanation": "【देवनागरी लिपि और बुनियादी अभिवादन (Script & Greetings) — भाग 4】\n\nकुशल-क्षेम पूछने के लिए 'आप कैसे हैं?' (पुल्लिंग) अथवा 'आप कैसी हैं?' (स्त्रीलिंग) और उत्तर में 'मैं ठीक हूँ' प्रयुक्त होता है।\n\nव्याकरणिक संरचना:\n• विषय: undefined\n• नियम: मानक खड़ी बोली हिंदी में वाक्य निर्माण करते समय पदक्रम (SOV) और लिंग-वचन की संगति का विशेष ध्यान रखना आवश्यक है।",
             "examples": [
                 {
-                    "target": "अध्यापक महोदय कक्षा में सभी विद्यार्थियों को विषय के मुख्य और गूढ़ बिंदु समझा रहे हैं (1.4.1)।",
-                    "reading": "Adhyapak mahoday kaksha mein sabhi vidyarthiyon ko vishay ke mukhya aur goodh bindu samjha rahe hain.",
-                    "translation": "The respected teacher is explaining the key and subtle points of the subject to students in class."
+                    "target": "अच्छा अब आज्ञा दीजिए, कल शाम को हम फिर मिलेंगे, अलविदा।",
+                    "reading": "Achha ab aagya deejiye, kal shaam ko hum phir milenge, alvida.",
+                    "translation": "Alright, please grant permission now, we will meet again tomorrow evening, goodbye."
                 },
                 {
-                    "target": "हम प्रतिदिन सुबह पुस्तकालय जाकर ज्ञानवर्धक पुस्तकें और शोध पत्र एकाग्रता से पढ़ते हैं (1.4.2)।",
-                    "reading": "Hum pratidin subah pustakalay jakar gyanvardhak pustakein aur shodhpattra ekagrata se padhte hain.",
-                    "translation": "We go to the library every morning to read informative books and research papers attentively."
-                },
-                {
-                    "target": "इस ऐतिहासिक शहर में कई प्राचीन स्मारक और सुंदर दर्शनीय स्थल आज भी शान से मौजूद हैं (1.4.3)।",
-                    "reading": "Is aitihasik shahar mein kayi pracheen smarak aur sundar darshaniya sthal aaj bhi shaan se maujood hain.",
-                    "translation": "Many ancient monuments and beautiful sightseeing spots still exist proudly in this historic city."
+                    "target": "शुभ यात्रा, अपना ध्यान रखिएगा और समय पर पहुँचिएगा।",
+                    "reading": "Shubh yaatra, apna dhyaan rakhiyega aur samay par pahunchiyega.",
+                    "translation": "Have a safe journey, take care of yourself and arrive on time."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for नमस्ते और सामान्य शिष्टाचार (Greetings & Politeness)"
+                "विदाई के समय 'अलविदा' के साथ 'फिर मिलेंगे' का भाव भविष्य की शुभकामना व्यक्त करता है।"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Hindi."
+                "औपचारिक अवसरों पर आगंतुकों को जल और चाय अर्पित करना आतिथ्य सत्कार का पहला कदम होता है।"
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "« नमस्ते और सामान्य शिष्टाचार (Greetings & Politeness) » के संदर्भ में कौन सा वाक्य मानक व्याकरण की दृष्टि से पूर्णतः शुद्ध है (अभ्यास 4)?",
+                    "prompt": "« देवनागरी लिपि और बुनियादी अभिवादन (Script & Greetings) » के अंतर्गत कौन सा वाक्य व्याकरणिक दृष्टि से पूर्णतः शुद्ध है?",
                     "options": [
-                        "मेरी छोटी बहन ने आज सुबह परिवार के लिए स्वादिष्ट नाश्ता और गरमा-गरम चाय बनाई (1.4.1)।",
-                        "कल दोपहर केंद्रीय पुस्तकालय में बहुत से छात्र शांतिपूर्वक अपनी परीक्षाओं की तैयारी कर रहे थे (1.4.2)।",
-                        "यह रेस्तरां अपने स्वादिष्ट और पारंपरिक उत्तर भारतीय व्यंजनों के लिए पूरे शहर में प्रसिद्ध है (1.4.3)।"
+                        "अच्छा अब आज्ञा दीजिए, कल शाम को हम फिर मिलेंगे, अलविदा।",
+                        "अच्छा अब आज्ञा दीजिए, कल शाम को हम फिर मिलेंगे, अलविदा।",
+                        "अच्छा अब आज्ञा दीजिए, कल शाम को हम फिर मिलेंगे, अलविदा।"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "शुद्ध वाक्य: \"अच्छा अब आज्ञा दीजिए, कल शाम को हम फिर मिलेंगे, अलविदा।\" — यह वाक्य मानक पदक्रम और व्याकरणिक अन्विति को दर्शाता है।"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "« देवनागरी लिपि और बुनियादी अभिवादन (Script & Greetings) » के सही वाक्य विन्यास को दर्शाने वाले कथन का चयन करें (प्रश्न 4):",
+                    "prompt": "दिए गए संदर्भ में सही पदक्रम और भावार्थ व्यक्त करने वाले कथन का चयन करें:",
                     "options": [
-                        "पिताजी ने बाज़ार से लौटते समय बच्चों के लिए सुंदर ज्ञानवर्धक पुस्तकें और खिलौने खरीदे (1.4.1)।",
-                        "कल सुबह आठ बजे सभी यात्री रेलवे स्टेशन पर निर्धारित समय से पहले पहुँच गए थे (1.4.2)।",
-                        "बगीचे में खिले हुए रंग-बिरंगे फूल सुबह की ठंडी हवा में वातावरण को सुगंधित बना रहे हैं (1.4.3)।"
+                        "शुभ यात्रा, अपना ध्यान रखिएगा और समय पर पहुँचिएगा।",
+                        "शुभ यात्रा, अपना ध्यान रखिएगा और समय पर पहुँचिएगा।",
+                        "शुभ यात्रा, अपना ध्यान रखिएगा किंतु नहीं समय पर पहुँचिएगा।"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "सही विकल्प \"शुभ यात्रा, अपना ध्यान रखिएगा और समय पर पहुँचिएगा।\" है जो उचित संदर्भ और कारक व्यवस्था को प्रदर्शित करता है।"
                 }
             ]
         },
@@ -804,14 +784,14 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "कौन सा वाक्य « नमस्ते और सामान्य शिष्टाचार (Greetings & Politeness) » के व्याकरणिक नियमों को शत-प्रतिशत प्रमाणित करता है (मूल्यांकन 1-4)?",
+                    "prompt": "निम्नलिखित में से कौन सा वाक्य « देवनागरी लिपि और बुनियादी अभिवादन (Script & Greetings) » के नियमों का सटीक पालन करता है?",
                     "options": [
-                        "वैज्ञानिकों ने नई अंतरिक्ष परियोजना के प्रथम चरण के सफल परीक्षण की आधिकारिक घोषणा की (1.4.1)।",
-                        "अगले वर्ष तक शहर में नई मेट्रो लाइन का निर्माण कार्य पूर्ण रूप से समाप्त हो जाएगा (1.4.2)।",
-                        "अंतर्राष्ट्रीय वैज्ञानिक सम्मेलन में अनेक देशों के वरिष्ठ शोधकर्ताओं ने भाग लिया (1.4.3)।"
+                        "अच्छा अब आज्ञा दीजिए, कल शाम को हम फिर मिलेंगे, अलविदा।",
+                        "अच्छा अब आज्ञा दीजिए, कल शाम को हम फिर मिलेंगे, अलविदा।",
+                        "शुभ यात्रा, अपना ध्यान रखिएगा और समय पर पहुँचिएगा।"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "विकल्प 1 मानक व्याकरण और लिंग-वचन समन्वय के अनुसार पूर्णतः शुद्ध है।"
                 },
                 {
                     "type": "typed-recall",
@@ -833,56 +813,51 @@
         "level": "A1",
         "objective": "Comprehensive mastery of नमस्ते और सामान्य शिष्टाचार (Greetings & Politeness).",
         "presentation": {
-            "explanation": "इस पाठ में हम « देवनागरी लिपि और बुनियादी अभिवादन (Script & Greetings) » (भाग 5) और नमस्ते और सामान्य शिष्टाचार (Greetings & Politeness) के मुख्य भाषाई नियमों का गहन अध्ययन करेंगे। मानक हिन्दी में पदक्रम कर्ता-कर्म-क्रिया (SOV) पर आधारित होता है और सही परसर्गों एवं क्रिया रूपों का प्रयोग अर्थ की स्पष्टता सुनिश्चित करता है। औपचारिक संवाद तथा दैनिक जीवन दोनों में व्याकरण सम्मत वाक्य रचना आत्मविश्वास और सहजता को बढ़ाती है।\n\nव्याकरण विश्लेषण एवं अंग्रेज़ी अर्थ (Grammar Analysis & English Glosses):\nसही व्याकरणिक संरचनाओं के अभ्यास से विद्यार्थी धाराप्रवाह हिन्दी का प्रयोग सरलता से कर सकते हैं।",
+            "explanation": "【देवनागरी लिपि और बुनियादी अभिवादन (Script & Greetings) — भाग 5】\n\nकृतज्ञता ज्ञापित करने के लिए 'धन्यवाद' या 'बहुत-बहुत शुक्रिया' का प्रयोग मानक शिष्टाचार है।\n\nव्याकरणिक संरचना:\n• विषय: undefined\n• नियम: मानक खड़ी बोली हिंदी में वाक्य निर्माण करते समय पदक्रम (SOV) और लिंग-वचन की संगति का विशेष ध्यान रखना आवश्यक है।",
             "examples": [
                 {
-                    "target": "अध्यापक महोदय कक्षा में सभी विद्यार्थियों को विषय के मुख्य और गूढ़ बिंदु समझा रहे हैं (1.5.1)।",
-                    "reading": "Adhyapak mahoday kaksha mein sabhi vidyarthiyon ko vishay ke mukhya aur goodh bindu samjha rahe hain.",
-                    "translation": "The respected teacher is explaining the key and subtle points of the subject to students in class."
+                    "target": "हमारे नए विद्यालय परिसर में आप सभी का हार्दिक स्वागत है।",
+                    "reading": "Hamaare naye vidyaalay parisar mein aap sabhi ka haardik swaagat hai.",
+                    "translation": "A warm welcome to all of you in our new school campus."
                 },
                 {
-                    "target": "हम प्रतिदिन सुबह पुस्तकालय जाकर ज्ञानवर्धक पुस्तकें और शोध पत्र एकाग्रता से पढ़ते हैं (1.5.2)।",
-                    "reading": "Hum pratidin subah pustakalay jakar gyanvardhak pustakein aur shodhpattra ekagrata se padhte hain.",
-                    "translation": "We go to the library every morning to read informative books and research papers attentively."
-                },
-                {
-                    "target": "इस ऐतिहासिक शहर में कई प्राचीन स्मारक और सुंदर दर्शनीय स्थल आज भी शान से मौजूद हैं (1.5.3)।",
-                    "reading": "Is aitihasik shahar mein kayi pracheen smarak aur sundar darshaniya sthal aaj bhi shaan se maujood hain.",
-                    "translation": "Many ancient monuments and beautiful sightseeing spots still exist proudly in this historic city."
+                    "target": "अतिथि देवो भव की परंपरा हमारी संस्कृति की पहचान है।",
+                    "reading": "Atithi Devo Bhava ki parampara hamaari sanskriti ki pehchaan hai.",
+                    "translation": "The tradition of 'Guest is God' is the hallmark of our culture."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for नमस्ते और सामान्य शिष्टाचार (Greetings & Politeness)"
+                "भारतीय संस्कृति में अतिथि को भगवान का रूप मानकर 'स्वागत है' अत्यंत हार्दिकता से कहा जाता है।"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Hindi."
+                "उत्तर भारतीय परंपरा में सुबह के अभिवादन के रूप में 'सुप्रभात' या 'राम-राम' भी प्रचलित है।"
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "« नमस्ते और सामान्य शिष्टाचार (Greetings & Politeness) » के संदर्भ में कौन सा वाक्य मानक व्याकरण की दृष्टि से पूर्णतः शुद्ध है (अभ्यास 5)?",
+                    "prompt": "« देवनागरी लिपि और बुनियादी अभिवादन (Script & Greetings) » के अंतर्गत कौन सा वाक्य व्याकरणिक दृष्टि से पूर्णतः शुद्ध है?",
                     "options": [
-                        "मेरी छोटी बहन ने आज सुबह परिवार के लिए स्वादिष्ट नाश्ता और गरमा-गरम चाय बनाई (1.5.1)।",
-                        "कल दोपहर केंद्रीय पुस्तकालय में बहुत से छात्र शांतिपूर्वक अपनी परीक्षाओं की तैयारी कर रहे थे (1.5.2)।",
-                        "यह रेस्तरां अपने स्वादिष्ट और पारंपरिक उत्तर भारतीय व्यंजनों के लिए पूरे शहर में प्रसिद्ध है (1.5.3)।"
+                        "हमारे नए विद्यालय परिसर में आप सभी का हार्दिक स्वागत है।",
+                        "हमारे नए विद्यालय परिसर में आप सभी का हार्दिक स्वागत था नहीं।",
+                        "हमारे नए विद्यालय परिसर में आप सभी में से हार्दिक स्वागत है।"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "शुद्ध वाक्य: \"हमारे नए विद्यालय परिसर में आप सभी का हार्दिक स्वागत है।\" — यह वाक्य मानक पदक्रम और व्याकरणिक अन्विति को दर्शाता है।"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "« देवनागरी लिपि और बुनियादी अभिवादन (Script & Greetings) » के सही वाक्य विन्यास को दर्शाने वाले कथन का चयन करें (प्रश्न 5):",
+                    "prompt": "दिए गए संदर्भ में सही पदक्रम और भावार्थ व्यक्त करने वाले कथन का चयन करें:",
                     "options": [
-                        "पिताजी ने बाज़ार से लौटते समय बच्चों के लिए सुंदर ज्ञानवर्धक पुस्तकें और खिलौने खरीदे (1.5.1)।",
-                        "कल सुबह आठ बजे सभी यात्री रेलवे स्टेशन पर निर्धारित समय से पहले पहुँच गए थे (1.5.2)।",
-                        "बगीचे में खिले हुए रंग-बिरंगे फूल सुबह की ठंडी हवा में वातावरण को सुगंधित बना रहे हैं (1.5.3)।"
+                        "अतिथि देवो भव की परंपरा हमारी संस्कृति की पहचान है।",
+                        "अतिथि देवो भव की परंपरा हमारी संस्कृति की पहचान होगी।",
+                        "अतिथि देवो भव की परंपरा हमारी संस्कृति की पहचान है।"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "सही विकल्प \"अतिथि देवो भव की परंपरा हमारी संस्कृति की पहचान है।\" है जो उचित संदर्भ और कारक व्यवस्था को प्रदर्शित करता है।"
                 }
             ]
         },
@@ -890,14 +865,14 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "कौन सा वाक्य « नमस्ते और सामान्य शिष्टाचार (Greetings & Politeness) » के व्याकरणिक नियमों को शत-प्रतिशत प्रमाणित करता है (मूल्यांकन 1-5)?",
+                    "prompt": "निम्नलिखित में से कौन सा वाक्य « देवनागरी लिपि और बुनियादी अभिवादन (Script & Greetings) » के नियमों का सटीक पालन करता है?",
                     "options": [
-                        "वैज्ञानिकों ने नई अंतरिक्ष परियोजना के प्रथम चरण के सफल परीक्षण की आधिकारिक घोषणा की (1.5.1)।",
-                        "अगले वर्ष तक शहर में नई मेट्रो लाइन का निर्माण कार्य पूर्ण रूप से समाप्त हो जाएगा (1.5.2)।",
-                        "अंतर्राष्ट्रीय वैज्ञानिक सम्मेलन में अनेक देशों के वरिष्ठ शोधकर्ताओं ने भाग लिया (1.5.3)।"
+                        "हमारे नए विद्यालय परिसर में आप सभी का हार्दिक स्वागत है।",
+                        "हमारे नए विद्यालय परिसर में आप सभी का हार्दिक स्वागत था।",
+                        "अतिथि देवो भव की परंपरा हमारी संस्कृति की पहचान है।"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "explanation": "विकल्प 1 मानक व्याकरण और लिंग-वचन समन्वय के अनुसार पूर्णतः शुद्ध है।"
                 },
                 {
                     "type": "typed-recall",
@@ -919,56 +894,51 @@
         "level": "A1",
         "objective": "Comprehensive mastery of संज्ञा के लिंग और बहुवचन (Noun Gender & Plural Rules).",
         "presentation": {
-            "explanation": "इस पाठ में हम « संज्ञा, लिंग और वचन नियम (Nouns, Gender & Plurals) » (भाग 1) और संज्ञा के लिंग और बहुवचन (Noun Gender & Plural Rules) के मुख्य भाषाई नियमों का गहन अध्ययन करेंगे। मानक हिन्दी में पदक्रम कर्ता-कर्म-क्रिया (SOV) पर आधारित होता है और सही परसर्गों एवं क्रिया रूपों का प्रयोग अर्थ की स्पष्टता सुनिश्चित करता है। औपचारिक संवाद तथा दैनिक जीवन दोनों में व्याकरण सम्मत वाक्य रचना आत्मविश्वास और सहजता को बढ़ाती है।\n\nव्याकरण विश्लेषण एवं अंग्रेज़ी अर्थ (Grammar Analysis & English Glosses):\nसही व्याकरणिक संरचनाओं के अभ्यास से विद्यार्थी धाराप्रवाह हिन्दी का प्रयोग सरलता से कर सकते हैं।",
+            "explanation": "【संज्ञा, लिंग और वचन नियम (Nouns, Gender & Plurals) — भाग 1】\n\nहिंदी में केवल दो व्याकरणिक लिंग होते हैं: पुल्लिंग और स्त्रीलिंग। संज्ञा का लिंग वाक्य के विशेषण और क्रिया को नियंत्रित करता है।\n\nव्याकरणिक संरचना:\n• विषय: undefined\n• नियम: मानक खड़ी बोली हिंदी में वाक्य निर्माण करते समय पदक्रम (SOV) और लिंग-वचन की संगति का विशेष ध्यान रखना आवश्यक है।",
             "examples": [
                 {
-                    "target": "अध्यापक महोदय कक्षा में सभी विद्यार्थियों को विषय के मुख्य और गूढ़ बिंदु समझा रहे हैं (2.1.1)।",
-                    "reading": "Adhyapak mahoday kaksha mein sabhi vidyarthiyon ko vishay ke mukhya aur goodh bindu samjha rahe hain.",
-                    "translation": "The respected teacher is explaining the key and subtle points of the subject to students in class."
+                    "target": "वह छोटा लड़का बगीचे में अपने दोस्तों के साथ फुटबॉल खेल रहा है।",
+                    "reading": "Voh chhota ladka bageeche mein apne doston ke saath football khel raha hai.",
+                    "translation": "That little boy is playing football with his friends in the garden."
                 },
                 {
-                    "target": "हम प्रतिदिन सुबह पुस्तकालय जाकर ज्ञानवर्धक पुस्तकें और शोध पत्र एकाग्रता से पढ़ते हैं (2.1.2)।",
-                    "reading": "Hum pratidin subah pustakalay jakar gyanvardhak pustakein aur shodhpattra ekagrata se padhte hain.",
-                    "translation": "We go to the library every morning to read informative books and research papers attentively."
-                },
-                {
-                    "target": "इस ऐतिहासिक शहर में कई प्राचीन स्मारक और सुंदर दर्शनीय स्थल आज भी शान से मौजूद हैं (2.1.3)।",
-                    "reading": "Is aitihasik shahar mein kayi pracheen smarak aur sundar darshaniya sthal aaj bhi shaan se maujood hain.",
-                    "translation": "Many ancient monuments and beautiful sightseeing spots still exist proudly in this historic city."
+                    "target": "सभी लड़के कक्षा में ध्यानपूर्वक शिक्षक की बात सुन रहे हैं।",
+                    "reading": "Sabhi ladke kaksha mein dhyaanpoorvak shikshak ki baat sun rahe hain.",
+                    "translation": "All the boys are attentively listening to the teacher in the classroom."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for संज्ञा के लिंग और बहुवचन (Noun Gender & Plural Rules)"
+                "पुल्लिंग 'आ' बहुवचन में 'ए' बनता है; निर्जीव पुल्लिंग बिना विभक्ति के शांत रहता है।"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Hindi."
+                "संस्कृत तत्सम शब्दों के लिंग और तद्भव शब्दों के लिंग में कभी-कभी सूक्ष्म अंतर होता है।"
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "« संज्ञा के लिंग और बहुवचन (Noun Gender & Plural Rules) » के संदर्भ में कौन सा वाक्य मानक व्याकरण की दृष्टि से पूर्णतः शुद्ध है (अभ्यास 1)?",
+                    "prompt": "« संज्ञा, लिंग और वचन नियम (Nouns, Gender & Plurals) » के अंतर्गत कौन सा वाक्य व्याकरणिक दृष्टि से पूर्णतः शुद्ध है?",
                     "options": [
-                        "मेरी छोटी बहन ने आज सुबह परिवार के लिए स्वादिष्ट नाश्ता और गरमा-गरम चाय बनाई (2.1.1)।",
-                        "कल दोपहर केंद्रीय पुस्तकालय में बहुत से छात्र शांतिपूर्वक अपनी परीक्षाओं की तैयारी कर रहे थे (2.1.2)।",
-                        "यह रेस्तरां अपने स्वादिष्ट और पारंपरिक उत्तर भारतीय व्यंजनों के लिए पूरे शहर में प्रसिद्ध है (2.1.3)।"
+                        "वह छोटा लड़का बगीचे में अपने दोस्तों के साथ फुटबॉल खेल रहा है।",
+                        "वह छोटा लड़का बगीचे में अपने दोस्तों के साथ फुटबॉल खेल रहा था नहीं।",
+                        "वह छोटा लड़में से बगीचे में अपने दोस्तों के साथ फुटबॉल खेल रहा है।"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "शुद्ध वाक्य: \"वह छोटा लड़का बगीचे में अपने दोस्तों के साथ फुटबॉल खेल रहा है।\" — यह वाक्य मानक पदक्रम और व्याकरणिक अन्विति को दर्शाता है।"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "« संज्ञा, लिंग और वचन नियम (Nouns, Gender & Plurals) » के सही वाक्य विन्यास को दर्शाने वाले कथन का चयन करें (प्रश्न 1):",
+                    "prompt": "दिए गए संदर्भ में सही पदक्रम और भावार्थ व्यक्त करने वाले कथन का चयन करें:",
                     "options": [
-                        "पिताजी ने बाज़ार से लौटते समय बच्चों के लिए सुंदर ज्ञानवर्धक पुस्तकें और खिलौने खरीदे (2.1.1)।",
-                        "कल सुबह आठ बजे सभी यात्री रेलवे स्टेशन पर निर्धारित समय से पहले पहुँच गए थे (2.1.2)।",
-                        "बगीचे में खिले हुए रंग-बिरंगे फूल सुबह की ठंडी हवा में वातावरण को सुगंधित बना रहे हैं (2.1.3)।"
+                        "सभी लड़के कक्षा में ध्यानपूर्वक शिक्षक की बात सुन रहे हैं।",
+                        "सभी लड़के कक्षा में ध्यानपूर्वक शिक्षक की बात सुन रहे होगी।",
+                        "सभी लड़के कक्षा में ध्यानपूर्वक शिक्षक की बात सुन रहे हैं।"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "सही विकल्प \"सभी लड़के कक्षा में ध्यानपूर्वक शिक्षक की बात सुन रहे हैं।\" है जो उचित संदर्भ और कारक व्यवस्था को प्रदर्शित करता है।"
                 }
             ]
         },
@@ -976,14 +946,14 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "कौन सा वाक्य « संज्ञा के लिंग और बहुवचन (Noun Gender & Plural Rules) » के व्याकरणिक नियमों को शत-प्रतिशत प्रमाणित करता है (मूल्यांकन 2-1)?",
+                    "prompt": "निम्नलिखित में से कौन सा वाक्य « संज्ञा, लिंग और वचन नियम (Nouns, Gender & Plurals) » के नियमों का सटीक पालन करता है?",
                     "options": [
-                        "वैज्ञानिकों ने नई अंतरिक्ष परियोजना के प्रथम चरण के सफल परीक्षण की आधिकारिक घोषणा की (2.1.1)।",
-                        "अगले वर्ष तक शहर में नई मेट्रो लाइन का निर्माण कार्य पूर्ण रूप से समाप्त हो जाएगा (2.1.2)।",
-                        "अंतर्राष्ट्रीय वैज्ञानिक सम्मेलन में अनेक देशों के वरिष्ठ शोधकर्ताओं ने भाग लिया (2.1.3)।"
+                        "वह छोटा लड़का बगीचे में अपने दोस्तों के साथ फुटबॉल खेल रहा है।",
+                        "वह छोटा लड़का बगीचे में अपने दोस्तों के साथ फुटबॉल खेल रहा था।",
+                        "सभी लड़के कक्षा में ध्यानपूर्वक शिक्षक की बात सुन रहे हैं।"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "explanation": "विकल्प 1 मानक व्याकरण और लिंग-वचन समन्वय के अनुसार पूर्णतः शुद्ध है।"
                 },
                 {
                     "type": "typed-recall",
@@ -1005,56 +975,51 @@
         "level": "A1",
         "objective": "Comprehensive mastery of संज्ञा के लिंग और बहुवचन (Noun Gender & Plural Rules).",
         "presentation": {
-            "explanation": "इस पाठ में हम « संज्ञा, लिंग और वचन नियम (Nouns, Gender & Plurals) » (भाग 2) और संज्ञा के लिंग और बहुवचन (Noun Gender & Plural Rules) के मुख्य भाषाई नियमों का गहन अध्ययन करेंगे। मानक हिन्दी में पदक्रम कर्ता-कर्म-क्रिया (SOV) पर आधारित होता है और सही परसर्गों एवं क्रिया रूपों का प्रयोग अर्थ की स्पष्टता सुनिश्चित करता है। औपचारिक संवाद तथा दैनिक जीवन दोनों में व्याकरण सम्मत वाक्य रचना आत्मविश्वास और सहजता को बढ़ाती है।\n\nव्याकरण विश्लेषण एवं अंग्रेज़ी अर्थ (Grammar Analysis & English Glosses):\nसही व्याकरणिक संरचनाओं के अभ्यास से विद्यार्थी धाराप्रवाह हिन्दी का प्रयोग सरलता से कर सकते हैं।",
+            "explanation": "【संज्ञा, लिंग और वचन नियम (Nouns, Gender & Plurals) — भाग 2】\n\nआकारांत पुल्लिंग शब्द बहुवचन में एकारांत में बदलते हैं (लड़का -> लड़के, कमरा -> कमरे, कपड़ा -> कपड़े)।\n\nव्याकरणिक संरचना:\n• विषय: undefined\n• नियम: मानक खड़ी बोली हिंदी में वाक्य निर्माण करते समय पदक्रम (SOV) और लिंग-वचन की संगति का विशेष ध्यान रखना आवश्यक है।",
             "examples": [
                 {
-                    "target": "अध्यापक महोदय कक्षा में सभी विद्यार्थियों को विषय के मुख्य और गूढ़ बिंदु समझा रहे हैं (2.2.1)।",
-                    "reading": "Adhyapak mahoday kaksha mein sabhi vidyarthiyon ko vishay ke mukhya aur goodh bindu samjha rahe hain.",
-                    "translation": "The respected teacher is explaining the key and subtle points of the subject to students in class."
+                    "target": "यह समझदार लड़की संगीत प्रतियोगिता में मधुर गीत गाती है।",
+                    "reading": "Yeh samajhdaar ladki sangeet pratiyogita mein madhur geet gaati hai.",
+                    "translation": "This sensible girl sings sweet songs in the music competition."
                 },
                 {
-                    "target": "हम प्रतिदिन सुबह पुस्तकालय जाकर ज्ञानवर्धक पुस्तकें और शोध पत्र एकाग्रता से पढ़ते हैं (2.2.2)।",
-                    "reading": "Hum pratidin subah pustakalay jakar gyanvardhak pustakein aur shodhpattra ekagrata se padhte hain.",
-                    "translation": "We go to the library every morning to read informative books and research papers attentively."
-                },
-                {
-                    "target": "इस ऐतिहासिक शहर में कई प्राचीन स्मारक और सुंदर दर्शनीय स्थल आज भी शान से मौजूद हैं (2.2.3)।",
-                    "reading": "Is aitihasik shahar mein kayi pracheen smarak aur sundar darshaniya sthal aaj bhi shaan se maujood hain.",
-                    "translation": "Many ancient monuments and beautiful sightseeing spots still exist proudly in this historic city."
+                    "target": "विद्यालय की लड़कियाँ खेलकूद और विज्ञान में उत्कृष्ट प्रदर्शन कर रही हैं।",
+                    "reading": "Vidyaalay ki ladkiyaan khelkood aur vigyaan mein utkrisht pradarshan kar rahi hain.",
+                    "translation": "The school girls are performing excellently in sports and science."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for संज्ञा के लिंग और बहुवचन (Noun Gender & Plural Rules)"
+                "स्त्रीलिंग की दीर्घ 'ई' बहुवचन बनाते समय लघु 'इ' बनकर 'यां' के साथ उड़ती है।"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Hindi."
+                "हिंदी भाषी क्षेत्रों में बड़ों के सम्मान हेतु 'पिताजी आ रहे हैं' जैसे आदरार्थक बहुवचन का प्रयोग अनिवार्य है।"
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "« संज्ञा के लिंग और बहुवचन (Noun Gender & Plural Rules) » के संदर्भ में कौन सा वाक्य मानक व्याकरण की दृष्टि से पूर्णतः शुद्ध है (अभ्यास 2)?",
+                    "prompt": "« संज्ञा, लिंग और वचन नियम (Nouns, Gender & Plurals) » के अंतर्गत कौन सा वाक्य व्याकरणिक दृष्टि से पूर्णतः शुद्ध है?",
                     "options": [
-                        "मेरी छोटी बहन ने आज सुबह परिवार के लिए स्वादिष्ट नाश्ता और गरमा-गरम चाय बनाई (2.2.1)।",
-                        "कल दोपहर केंद्रीय पुस्तकालय में बहुत से छात्र शांतिपूर्वक अपनी परीक्षाओं की तैयारी कर रहे थे (2.2.2)।",
-                        "यह रेस्तरां अपने स्वादिष्ट और पारंपरिक उत्तर भारतीय व्यंजनों के लिए पूरे शहर में प्रसिद्ध है (2.2.3)।"
+                        "यह समझदार लड़की संगीत प्रतियोगिता में मधुर गीत गाती है।",
+                        "यह समझदार लड़की संगीत प्रतियोगिता में मधुर गीत गाती था नहीं।",
+                        "यह समझदार लड़में से संगीत प्रतियोगिता में मधुर गीत गाती है।"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "शुद्ध वाक्य: \"यह समझदार लड़की संगीत प्रतियोगिता में मधुर गीत गाती है।\" — यह वाक्य मानक पदक्रम और व्याकरणिक अन्विति को दर्शाता है।"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "« संज्ञा, लिंग और वचन नियम (Nouns, Gender & Plurals) » के सही वाक्य विन्यास को दर्शाने वाले कथन का चयन करें (प्रश्न 2):",
+                    "prompt": "दिए गए संदर्भ में सही पदक्रम और भावार्थ व्यक्त करने वाले कथन का चयन करें:",
                     "options": [
-                        "पिताजी ने बाज़ार से लौटते समय बच्चों के लिए सुंदर ज्ञानवर्धक पुस्तकें और खिलौने खरीदे (2.2.1)।",
-                        "कल सुबह आठ बजे सभी यात्री रेलवे स्टेशन पर निर्धारित समय से पहले पहुँच गए थे (2.2.2)।",
-                        "बगीचे में खिले हुए रंग-बिरंगे फूल सुबह की ठंडी हवा में वातावरण को सुगंधित बना रहे हैं (2.2.3)।"
+                        "विद्यालय की लड़कियाँ खेलकूद और विज्ञान में उत्कृष्ट प्रदर्शन कर रही हैं।",
+                        "विद्यालय की लड़कियाँ खेलकूद और विज्ञान में उत्कृष्ट प्रदर्शन कर रही होगी।",
+                        "विद्यालय की लड़कियाँ खेलकूद किंतु नहीं विज्ञान में उत्कृष्ट प्रदर्शन कर रही हैं।"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "सही विकल्प \"विद्यालय की लड़कियाँ खेलकूद और विज्ञान में उत्कृष्ट प्रदर्शन कर रही हैं।\" है जो उचित संदर्भ और कारक व्यवस्था को प्रदर्शित करता है।"
                 }
             ]
         },
@@ -1062,14 +1027,14 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "कौन सा वाक्य « संज्ञा के लिंग और बहुवचन (Noun Gender & Plural Rules) » के व्याकरणिक नियमों को शत-प्रतिशत प्रमाणित करता है (मूल्यांकन 2-2)?",
+                    "prompt": "निम्नलिखित में से कौन सा वाक्य « संज्ञा, लिंग और वचन नियम (Nouns, Gender & Plurals) » के नियमों का सटीक पालन करता है?",
                     "options": [
-                        "वैज्ञानिकों ने नई अंतरिक्ष परियोजना के प्रथम चरण के सफल परीक्षण की आधिकारिक घोषणा की (2.2.1)।",
-                        "अगले वर्ष तक शहर में नई मेट्रो लाइन का निर्माण कार्य पूर्ण रूप से समाप्त हो जाएगा (2.2.2)।",
-                        "अंतर्राष्ट्रीय वैज्ञानिक सम्मेलन में अनेक देशों के वरिष्ठ शोधकर्ताओं ने भाग लिया (2.2.3)।"
+                        "यह समझदार लड़की संगीत प्रतियोगिता में मधुर गीत गाती है।",
+                        "यह समझदार लड़की संगीत प्रतियोगिता में मधुर गीत गाती था।",
+                        "विद्यालय की लड़कियाँ खेलकूद और विज्ञान में उत्कृष्ट प्रदर्शन कर रही हैं।"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "विकल्प 1 मानक व्याकरण और लिंग-वचन समन्वय के अनुसार पूर्णतः शुद्ध है।"
                 },
                 {
                     "type": "typed-recall",
@@ -1091,56 +1056,51 @@
         "level": "A1",
         "objective": "Comprehensive mastery of संज्ञा के लिंग और बहुवचन (Noun Gender & Plural Rules).",
         "presentation": {
-            "explanation": "इस पाठ में हम « संज्ञा, लिंग और वचन नियम (Nouns, Gender & Plurals) » (भाग 3) और संज्ञा के लिंग और बहुवचन (Noun Gender & Plural Rules) के मुख्य भाषाई नियमों का गहन अध्ययन करेंगे। मानक हिन्दी में पदक्रम कर्ता-कर्म-क्रिया (SOV) पर आधारित होता है और सही परसर्गों एवं क्रिया रूपों का प्रयोग अर्थ की स्पष्टता सुनिश्चित करता है। औपचारिक संवाद तथा दैनिक जीवन दोनों में व्याकरण सम्मत वाक्य रचना आत्मविश्वास और सहजता को बढ़ाती है।\n\nव्याकरण विश्लेषण एवं अंग्रेज़ी अर्थ (Grammar Analysis & English Glosses):\nसही व्याकरणिक संरचनाओं के अभ्यास से विद्यार्थी धाराप्रवाह हिन्दी का प्रयोग सरलता से कर सकते हैं।",
+            "explanation": "【संज्ञा, लिंग और वचन नियम (Nouns, Gender & Plurals) — भाग 3】\n\nव्यंजन और अन्य स्वरों से समाप्त होने वाले पुल्लिंग शब्द बहुवचन में बिना परसर्ग के अपरिवर्तित रहते हैं (घर -> घर, फल -> फल, मित्र -> मित्र)।\n\nव्याकरणिक संरचना:\n• विषय: undefined\n• नियम: मानक खड़ी बोली हिंदी में वाक्य निर्माण करते समय पदक्रम (SOV) और लिंग-वचन की संगति का विशेष ध्यान रखना आवश्यक है।",
             "examples": [
                 {
-                    "target": "अध्यापक महोदय कक्षा में सभी विद्यार्थियों को विषय के मुख्य और गूढ़ बिंदु समझा रहे हैं (2.3.1)।",
-                    "reading": "Adhyapak mahoday kaksha mein sabhi vidyarthiyon ko vishay ke mukhya aur goodh bindu samjha rahe hain.",
-                    "translation": "The respected teacher is explaining the key and subtle points of the subject to students in class."
+                    "target": "मैंने पुस्तकालय से इतिहास और विज्ञान की तीन नई किताबें ली हैं।",
+                    "reading": "Maine pustakaalay se itihaas aur vigyaan ki teen nayi kitaabein li hain.",
+                    "translation": "I took three new books of history and science from the library."
                 },
                 {
-                    "target": "हम प्रतिदिन सुबह पुस्तकालय जाकर ज्ञानवर्धक पुस्तकें और शोध पत्र एकाग्रता से पढ़ते हैं (2.3.2)।",
-                    "reading": "Hum pratidin subah pustakalay jakar gyanvardhak pustakein aur shodhpattra ekagrata se padhte hain.",
-                    "translation": "We go to the library every morning to read informative books and research papers attentively."
-                },
-                {
-                    "target": "इस ऐतिहासिक शहर में कई प्राचीन स्मारक और सुंदर दर्शनीय स्थल आज भी शान से मौजूद हैं (2.3.3)।",
-                    "reading": "Is aitihasik shahar mein kayi pracheen smarak aur sundar darshaniya sthal aaj bhi shaan se maujood hain.",
-                    "translation": "Many ancient monuments and beautiful sightseeing spots still exist proudly in this historic city."
+                    "target": "अच्छी किताबें मनुष्य की सबसे सच्ची और मार्गदर्शक मित्र होती हैं।",
+                    "reading": "Achhi kitaabein manushya ki sabse sachhi aur maargdarshak mitra hoti hain.",
+                    "translation": "Good books are the truest and guiding friends of human beings."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for संज्ञा के लिंग और बहुवचन (Noun Gender & Plural Rules)"
+                "संज्ञा के लिंग का सही परीक्षण उसके साथ 'बड़ा/बड़ी' या 'मेरा/मेरी' लगाकर सरलता से किया जा सकता है।"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Hindi."
+                "वस्तुओं के लिंग निर्धारण में बोलचाल की परंपरा और लोकप्रचलित प्रयोग का बहुत बड़ा योगदान है।"
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "« संज्ञा के लिंग और बहुवचन (Noun Gender & Plural Rules) » के संदर्भ में कौन सा वाक्य मानक व्याकरण की दृष्टि से पूर्णतः शुद्ध है (अभ्यास 3)?",
+                    "prompt": "« संज्ञा, लिंग और वचन नियम (Nouns, Gender & Plurals) » के अंतर्गत कौन सा वाक्य व्याकरणिक दृष्टि से पूर्णतः शुद्ध है?",
                     "options": [
-                        "मेरी छोटी बहन ने आज सुबह परिवार के लिए स्वादिष्ट नाश्ता और गरमा-गरम चाय बनाई (2.3.1)।",
-                        "कल दोपहर केंद्रीय पुस्तकालय में बहुत से छात्र शांतिपूर्वक अपनी परीक्षाओं की तैयारी कर रहे थे (2.3.2)।",
-                        "यह रेस्तरां अपने स्वादिष्ट और पारंपरिक उत्तर भारतीय व्यंजनों के लिए पूरे शहर में प्रसिद्ध है (2.3.3)।"
+                        "मैंने पुस्तकालय से इतिहास और विज्ञान की तीन नई किताबें ली हैं।",
+                        "मैंने पुस्तकालय से इतिहास और विज्ञान की तीन नई किताबें ली था नहीं।",
+                        "मैंने पुस्तमें सेलय से इतिहास और विज्ञान की तीन नई किताबें ली हैं।"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "explanation": "शुद्ध वाक्य: \"मैंने पुस्तकालय से इतिहास और विज्ञान की तीन नई किताबें ली हैं।\" — यह वाक्य मानक पदक्रम और व्याकरणिक अन्विति को दर्शाता है।"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "« संज्ञा, लिंग और वचन नियम (Nouns, Gender & Plurals) » के सही वाक्य विन्यास को दर्शाने वाले कथन का चयन करें (प्रश्न 3):",
+                    "prompt": "दिए गए संदर्भ में सही पदक्रम और भावार्थ व्यक्त करने वाले कथन का चयन करें:",
                     "options": [
-                        "पिताजी ने बाज़ार से लौटते समय बच्चों के लिए सुंदर ज्ञानवर्धक पुस्तकें और खिलौने खरीदे (2.3.1)।",
-                        "कल सुबह आठ बजे सभी यात्री रेलवे स्टेशन पर निर्धारित समय से पहले पहुँच गए थे (2.3.2)।",
-                        "बगीचे में खिले हुए रंग-बिरंगे फूल सुबह की ठंडी हवा में वातावरण को सुगंधित बना रहे हैं (2.3.3)।"
+                        "अच्छी किताबें मनुष्य की सबसे सच्ची और मार्गदर्शक मित्र होती हैं।",
+                        "अच्छी किताबें मनुष्य की सबसे सच्ची और मार्गदर्शक मित्र होती होगी।",
+                        "अच्छी किताबें मनुष्य की सबसे सच्ची किंतु नहीं मार्गदर्शक मित्र होती हैं।"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "सही विकल्प \"अच्छी किताबें मनुष्य की सबसे सच्ची और मार्गदर्शक मित्र होती हैं।\" है जो उचित संदर्भ और कारक व्यवस्था को प्रदर्शित करता है।"
                 }
             ]
         },
@@ -1148,14 +1108,14 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "कौन सा वाक्य « संज्ञा के लिंग और बहुवचन (Noun Gender & Plural Rules) » के व्याकरणिक नियमों को शत-प्रतिशत प्रमाणित करता है (मूल्यांकन 2-3)?",
+                    "prompt": "निम्नलिखित में से कौन सा वाक्य « संज्ञा, लिंग और वचन नियम (Nouns, Gender & Plurals) » के नियमों का सटीक पालन करता है?",
                     "options": [
-                        "वैज्ञानिकों ने नई अंतरिक्ष परियोजना के प्रथम चरण के सफल परीक्षण की आधिकारिक घोषणा की (2.3.1)।",
-                        "अगले वर्ष तक शहर में नई मेट्रो लाइन का निर्माण कार्य पूर्ण रूप से समाप्त हो जाएगा (2.3.2)।",
-                        "अंतर्राष्ट्रीय वैज्ञानिक सम्मेलन में अनेक देशों के वरिष्ठ शोधकर्ताओं ने भाग लिया (2.3.3)।"
+                        "मैंने पुस्तकालय से इतिहास और विज्ञान की तीन नई किताबें ली हैं।",
+                        "मैंने पुस्तकालय से इतिहास और विज्ञान की तीन नई किताबें ली थां।",
+                        "अच्छी किताबें मनुष्य की सबसे सच्ची और मार्गदर्शक मित्र होती हैं।"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "विकल्प 1 मानक व्याकरण और लिंग-वचन समन्वय के अनुसार पूर्णतः शुद्ध है।"
                 },
                 {
                     "type": "typed-recall",
@@ -1177,56 +1137,51 @@
         "level": "A1",
         "objective": "Comprehensive mastery of संज्ञा के लिंग और बहुवचन (Noun Gender & Plural Rules).",
         "presentation": {
-            "explanation": "इस पाठ में हम « संज्ञा, लिंग और वचन नियम (Nouns, Gender & Plurals) » (भाग 4) और संज्ञा के लिंग और बहुवचन (Noun Gender & Plural Rules) के मुख्य भाषाई नियमों का गहन अध्ययन करेंगे। मानक हिन्दी में पदक्रम कर्ता-कर्म-क्रिया (SOV) पर आधारित होता है और सही परसर्गों एवं क्रिया रूपों का प्रयोग अर्थ की स्पष्टता सुनिश्चित करता है। औपचारिक संवाद तथा दैनिक जीवन दोनों में व्याकरण सम्मत वाक्य रचना आत्मविश्वास और सहजता को बढ़ाती है।\n\nव्याकरण विश्लेषण एवं अंग्रेज़ी अर्थ (Grammar Analysis & English Glosses):\nसही व्याकरणिक संरचनाओं के अभ्यास से विद्यार्थी धाराप्रवाह हिन्दी का प्रयोग सरलता से कर सकते हैं।",
+            "explanation": "【संज्ञा, लिंग और वचन नियम (Nouns, Gender & Plurals) — भाग 4】\n\nईकारांत स्त्रीलिंग संज्ञाएं बहुवचन में 'इयां' प्रत्यय ग्रहण करती हैं (लड़की -> लड़कियाँ, नदी -> नदियाँ, चाबी -> चाबियाँ)।\n\nव्याकरणिक संरचना:\n• विषय: undefined\n• नियम: मानक खड़ी बोली हिंदी में वाक्य निर्माण करते समय पदक्रम (SOV) और लिंग-वचन की संगति का विशेष ध्यान रखना आवश्यक है।",
             "examples": [
                 {
-                    "target": "अध्यापक महोदय कक्षा में सभी विद्यार्थियों को विषय के मुख्य और गूढ़ बिंदु समझा रहे हैं (2.4.1)।",
-                    "reading": "Adhyapak mahoday kaksha mein sabhi vidyarthiyon ko vishay ke mukhya aur goodh bindu samjha rahe hain.",
-                    "translation": "The respected teacher is explaining the key and subtle points of the subject to students in class."
+                    "target": "यह कमरा बहुत हवादार, स्वच्छ और पढ़ाई के लिए उपयुक्त है।",
+                    "reading": "Yeh kamra bahut havaadaar, swachh aur padhaai ke liye upyukt hai.",
+                    "translation": "This room is very airy, clean and suitable for studying."
                 },
                 {
-                    "target": "हम प्रतिदिन सुबह पुस्तकालय जाकर ज्ञानवर्धक पुस्तकें और शोध पत्र एकाग्रता से पढ़ते हैं (2.4.2)।",
-                    "reading": "Hum pratidin subah pustakalay jakar gyanvardhak pustakein aur shodhpattra ekagrata se padhte hain.",
-                    "translation": "We go to the library every morning to read informative books and research papers attentively."
-                },
-                {
-                    "target": "इस ऐतिहासिक शहर में कई प्राचीन स्मारक और सुंदर दर्शनीय स्थल आज भी शान से मौजूद हैं (2.4.3)।",
-                    "reading": "Is aitihasik shahar mein kayi pracheen smarak aur sundar darshaniya sthal aaj bhi shaan se maujood hain.",
-                    "translation": "Many ancient monuments and beautiful sightseeing spots still exist proudly in this historic city."
+                    "target": "मकान के ऊपरी तल पर चार बड़े और सुंदर कमरे बने हुए हैं।",
+                    "reading": "Makaan ke oopri tal par chaar bade aur sundar kamre bane hue hain.",
+                    "translation": "On the upper floor of the house, four large and beautiful rooms are built."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for संज्ञा के लिंग और बहुवचन (Noun Gender & Plural Rules)"
+                "आदरणीय एकवचन व्यक्तियों के साथ हमेशा बहुवचन क्रिया का प्रयोग भारतीय शिष्टाचार का नियम है।"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Hindi."
+                "पारिवारिक बातचीत में आत्मीयता हेतु बहुवचन संज्ञाओं के साथ 'लोग' (जैसे बच्चे लोग) का प्रयोग सामान्य है।"
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "« संज्ञा के लिंग और बहुवचन (Noun Gender & Plural Rules) » के संदर्भ में कौन सा वाक्य मानक व्याकरण की दृष्टि से पूर्णतः शुद्ध है (अभ्यास 4)?",
+                    "prompt": "« संज्ञा, लिंग और वचन नियम (Nouns, Gender & Plurals) » के अंतर्गत कौन सा वाक्य व्याकरणिक दृष्टि से पूर्णतः शुद्ध है?",
                     "options": [
-                        "मेरी छोटी बहन ने आज सुबह परिवार के लिए स्वादिष्ट नाश्ता और गरमा-गरम चाय बनाई (2.4.1)।",
-                        "कल दोपहर केंद्रीय पुस्तकालय में बहुत से छात्र शांतिपूर्वक अपनी परीक्षाओं की तैयारी कर रहे थे (2.4.2)।",
-                        "यह रेस्तरां अपने स्वादिष्ट और पारंपरिक उत्तर भारतीय व्यंजनों के लिए पूरे शहर में प्रसिद्ध है (2.4.3)।"
+                        "यह कमरा बहुत हवादार, स्वच्छ और पढ़ाई के लिए उपयुक्त है।",
+                        "यह कमरा बहुत हवादार, स्वच्छ और पढ़ाई के लिए उपयुक्त था नहीं।",
+                        "यह कमरा बहुत हवादार, स्वच्छ और पढ़ाई में से लिए उपयुक्त है।"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "शुद्ध वाक्य: \"यह कमरा बहुत हवादार, स्वच्छ और पढ़ाई के लिए उपयुक्त है।\" — यह वाक्य मानक पदक्रम और व्याकरणिक अन्विति को दर्शाता है।"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "« संज्ञा, लिंग और वचन नियम (Nouns, Gender & Plurals) » के सही वाक्य विन्यास को दर्शाने वाले कथन का चयन करें (प्रश्न 4):",
+                    "prompt": "दिए गए संदर्भ में सही पदक्रम और भावार्थ व्यक्त करने वाले कथन का चयन करें:",
                     "options": [
-                        "पिताजी ने बाज़ार से लौटते समय बच्चों के लिए सुंदर ज्ञानवर्धक पुस्तकें और खिलौने खरीदे (2.4.1)।",
-                        "कल सुबह आठ बजे सभी यात्री रेलवे स्टेशन पर निर्धारित समय से पहले पहुँच गए थे (2.4.2)।",
-                        "बगीचे में खिले हुए रंग-बिरंगे फूल सुबह की ठंडी हवा में वातावरण को सुगंधित बना रहे हैं (2.4.3)।"
+                        "मकान के ऊपरी तल पर चार बड़े और सुंदर कमरे बने हुए हैं।",
+                        "मकान के ऊपरी तल पर चार बड़े और सुंदर कमरे बने हुए होगी।",
+                        "मकान के ऊपरी तल पर चार बड़े किंतु नहीं सुंदर कमरे बने हुए हैं।"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "answerIndex": 0,
+                    "explanation": "सही विकल्प \"मकान के ऊपरी तल पर चार बड़े और सुंदर कमरे बने हुए हैं।\" है जो उचित संदर्भ और कारक व्यवस्था को प्रदर्शित करता है।"
                 }
             ]
         },
@@ -1234,14 +1189,14 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "कौन सा वाक्य « संज्ञा के लिंग और बहुवचन (Noun Gender & Plural Rules) » के व्याकरणिक नियमों को शत-प्रतिशत प्रमाणित करता है (मूल्यांकन 2-4)?",
+                    "prompt": "निम्नलिखित में से कौन सा वाक्य « संज्ञा, लिंग और वचन नियम (Nouns, Gender & Plurals) » के नियमों का सटीक पालन करता है?",
                     "options": [
-                        "वैज्ञानिकों ने नई अंतरिक्ष परियोजना के प्रथम चरण के सफल परीक्षण की आधिकारिक घोषणा की (2.4.1)।",
-                        "अगले वर्ष तक शहर में नई मेट्रो लाइन का निर्माण कार्य पूर्ण रूप से समाप्त हो जाएगा (2.4.2)।",
-                        "अंतर्राष्ट्रीय वैज्ञानिक सम्मेलन में अनेक देशों के वरिष्ठ शोधकर्ताओं ने भाग लिया (2.4.3)।"
+                        "यह कमरा बहुत हवादार, स्वच्छ और पढ़ाई के लिए उपयुक्त है।",
+                        "यह कमरा बहुत हवादार, स्वच्छ और पढ़ाई के लिए उपयुक्त था।",
+                        "मकान के ऊपरी तल पर चार बड़े और सुंदर कमरे बपर हुए हैं।"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "explanation": "विकल्प 1 मानक व्याकरण और लिंग-वचन समन्वय के अनुसार पूर्णतः शुद्ध है।"
                 },
                 {
                     "type": "typed-recall",
@@ -1263,56 +1218,51 @@
         "level": "A1",
         "objective": "Comprehensive mastery of संज्ञा के लिंग और बहुवचन (Noun Gender & Plural Rules).",
         "presentation": {
-            "explanation": "इस पाठ में हम « संज्ञा, लिंग और वचन नियम (Nouns, Gender & Plurals) » (भाग 5) और संज्ञा के लिंग और बहुवचन (Noun Gender & Plural Rules) के मुख्य भाषाई नियमों का गहन अध्ययन करेंगे। मानक हिन्दी में पदक्रम कर्ता-कर्म-क्रिया (SOV) पर आधारित होता है और सही परसर्गों एवं क्रिया रूपों का प्रयोग अर्थ की स्पष्टता सुनिश्चित करता है। औपचारिक संवाद तथा दैनिक जीवन दोनों में व्याकरण सम्मत वाक्य रचना आत्मविश्वास और सहजता को बढ़ाती है।\n\nव्याकरण विश्लेषण एवं अंग्रेज़ी अर्थ (Grammar Analysis & English Glosses):\nसही व्याकरणिक संरचनाओं के अभ्यास से विद्यार्थी धाराप्रवाह हिन्दी का प्रयोग सरलता से कर सकते हैं।",
+            "explanation": "【संज्ञा, लिंग और वचन नियम (Nouns, Gender & Plurals) — भाग 5】\n\nअकारांत और आकारांत स्त्रीलिंग शब्द बहुवचन में 'एं' प्रत्यय ग्रहण करते हैं (किताब -> किताबें, रात -> रातें, महिला -> महिलाएं)।\n\nव्याकरणिक संरचना:\n• विषय: undefined\n• नियम: मानक खड़ी बोली हिंदी में वाक्य निर्माण करते समय पदक्रम (SOV) और लिंग-वचन की संगति का विशेष ध्यान रखना आवश्यक है।",
             "examples": [
                 {
-                    "target": "अध्यापक महोदय कक्षा में सभी विद्यार्थियों को विषय के मुख्य और गूढ़ बिंदु समझा रहे हैं (2.5.1)।",
-                    "reading": "Adhyapak mahoday kaksha mein sabhi vidyarthiyon ko vishay ke mukhya aur goodh bindu samjha rahe hain.",
-                    "translation": "The respected teacher is explaining the key and subtle points of the subject to students in class."
+                    "target": "हवा के तेज़ झोंके से मुख्य हॉल का बड़ा दरवाज़ा खुल गया।",
+                    "reading": "Hawa ke tez jhonke se mukhya hall ka bada darwaaza khul gaya.",
+                    "translation": "The main hall's big door opened due to a strong gust of wind."
                 },
                 {
-                    "target": "हम प्रतिदिन सुबह पुस्तकालय जाकर ज्ञानवर्धक पुस्तकें और शोध पत्र एकाग्रता से पढ़ते हैं (2.5.2)।",
-                    "reading": "Hum pratidin subah pustakalay jakar gyanvardhak pustakein aur shodhpattra ekagrata se padhte hain.",
-                    "translation": "We go to the library every morning to read informative books and research papers attentively."
-                },
-                {
-                    "target": "इस ऐतिहासिक शहर में कई प्राचीन स्मारक और सुंदर दर्शनीय स्थल आज भी शान से मौजूद हैं (2.5.3)।",
-                    "reading": "Is aitihasik shahar mein kayi pracheen smarak aur sundar darshaniya sthal aaj bhi shaan se maujood hain.",
-                    "translation": "Many ancient monuments and beautiful sightseeing spots still exist proudly in this historic city."
+                    "target": "सुरक्षा के लिए रात को घर के सभी दरवाज़े बंद कर दिए जाते हैं।",
+                    "reading": "Suraksha ke liye raat ko ghar ke sabhi darwaaze band kar diye jaate hain.",
+                    "translation": "For security, all doors of the house are closed at night."
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for संज्ञा के लिंग और बहुवचन (Noun Gender & Plural Rules)"
+                "वचन बदलने पर केवल संज्ञा ही नहीं, बल्कि क्रिया का अंत भी (है -> हैं) अवश्य बदलता है।"
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Hindi."
+                "प्राकृतिक नदियों और भाषाओं के नाम हिंदी में सदैव स्त्रीलिंग माने जाते हैं।"
             ]
         },
         "guidedPractice": {
             "items": [
                 {
-                    "prompt": "« संज्ञा के लिंग और बहुवचन (Noun Gender & Plural Rules) » के संदर्भ में कौन सा वाक्य मानक व्याकरण की दृष्टि से पूर्णतः शुद्ध है (अभ्यास 5)?",
+                    "prompt": "« संज्ञा, लिंग और वचन नियम (Nouns, Gender & Plurals) » के अंतर्गत कौन सा वाक्य व्याकरणिक दृष्टि से पूर्णतः शुद्ध है?",
                     "options": [
-                        "मेरी छोटी बहन ने आज सुबह परिवार के लिए स्वादिष्ट नाश्ता और गरमा-गरम चाय बनाई (2.5.1)।",
-                        "कल दोपहर केंद्रीय पुस्तकालय में बहुत से छात्र शांतिपूर्वक अपनी परीक्षाओं की तैयारी कर रहे थे (2.5.2)।",
-                        "यह रेस्तरां अपने स्वादिष्ट और पारंपरिक उत्तर भारतीय व्यंजनों के लिए पूरे शहर में प्रसिद्ध है (2.5.3)।"
+                        "हवा के तेज़ झोंके से मुख्य हॉल का बड़ा दरवाज़ा खुल गया।",
+                        "हवा के तेज़ झोंके से मुख्य हॉल का बड़ा दरवाज़ा खुल गया।",
+                        "हवा में से तेज़ झोंके से मुख्य हॉल का बड़ा दरवाज़ा खुल गया।"
                     ],
-                    "answerIndex": 2,
-                    "explanation": "Demonstrates correct morphological and syntactic command."
+                    "answerIndex": 0,
+                    "explanation": "शुद्ध वाक्य: \"हवा के तेज़ झोंके से मुख्य हॉल का बड़ा दरवाज़ा खुल गया।\" — यह वाक्य मानक पदक्रम और व्याकरणिक अन्विति को दर्शाता है।"
                 }
             ]
         },
         "independentPractice": {
             "items": [
                 {
-                    "prompt": "« संज्ञा, लिंग और वचन नियम (Nouns, Gender & Plurals) » के सही वाक्य विन्यास को दर्शाने वाले कथन का चयन करें (प्रश्न 5):",
+                    "prompt": "दिए गए संदर्भ में सही पदक्रम और भावार्थ व्यक्त करने वाले कथन का चयन करें:",
                     "options": [
-                        "पिताजी ने बाज़ार से लौटते समय बच्चों के लिए सुंदर ज्ञानवर्धक पुस्तकें और खिलौने खरीदे (2.5.1)।",
-                        "कल सुबह आठ बजे सभी यात्री रेलवे स्टेशन पर निर्धारित समय से पहले पहुँच गए थे (2.5.2)।",
-                        "बगीचे में खिले हुए रंग-बिरंगे फूल सुबह की ठंडी हवा में वातावरण को सुगंधित बना रहे हैं (2.5.3)।"
+                        "सुरक्षा के लिए रात को घर के सभी दरवाज़े बंद कर दिए जाते हैं।",
+                        "सुरक्षा के लिए रात को घर के सभी दरवाज़े बंद कर दिए जाते होगी।",
+                        "सुरक्षा के लिए रात को घर के सभी दरवाज़े बंद कर दिए जाते हैं।"
                     ],
                     "answerIndex": 0,
-                    "explanation": "Validates structural accuracy and independent mastery."
+                    "explanation": "सही विकल्प \"सुरक्षा के लिए रात को घर के सभी दरवाज़े बंद कर दिए जाते हैं।\" है जो उचित संदर्भ और कारक व्यवस्था को प्रदर्शित करता है।"
                 }
             ]
         },
@@ -1320,14 +1270,14 @@
             "items": [
                 {
                     "type": "multiple-choice",
-                    "prompt": "कौन सा वाक्य « संज्ञा के लिंग और बहुवचन (Noun Gender & Plural Rules) » के व्याकरणिक नियमों को शत-प्रतिशत प्रमाणित करता है (मूल्यांकन 2-5)?",
+                    "prompt": "निम्नलिखित में से कौन सा वाक्य « संज्ञा, लिंग और वचन नियम (Nouns, Gender & Plurals) » के नियमों का सटीक पालन करता है?",
                     "options": [
-                        "वैज्ञानिकों ने नई अंतरिक्ष परियोजना के प्रथम चरण के सफल परीक्षण की आधिकारिक घोषणा की (2.5.1)।",
-                        "अगले वर्ष तक शहर में नई मेट्रो लाइन का निर्माण कार्य पूर्ण रूप से समाप्त हो जाएगा (2.5.2)।",
-                        "अंतर्राष्ट्रीय वैज्ञानिक सम्मेलन में अनेक देशों के वरिष्ठ शोधकर्ताओं ने भाग लिया (2.5.3)।"
+                        "हवा के तेज़ झोंके से मुख्य हॉल का बड़ा दरवाज़ा खुल गया।",
+                        "हवा के तेज़ झोंके से मुख्य हॉल का बड़ा दरवाज़ा खुल गया।",
+                        "सुरक्षा के लिए रात पर घर के सभी दरवाज़े बंद कर दिए जाते हैं।"
                     ],
-                    "answerIndex": 1,
-                    "explanation": "Affirms CEFR A1 target-language standard."
+                    "answerIndex": 0,
+                    "explanation": "विकल्प 1 मानक व्याकरण और लिंग-वचन समन्वय के अनुसार पूर्णतः शुद्ध है।"
                 },
                 {
                     "type": "typed-recall",

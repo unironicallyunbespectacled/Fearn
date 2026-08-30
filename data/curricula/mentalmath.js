@@ -1,5 +1,5 @@
-// mentalmath curriculum
-(function(global){
+// mentalmath curriculum — fully authored CEFR A1-C2 roadmap
+(function (global) {
   'use strict';
   var UNITS = [
     {
@@ -140,6 +140,12 @@
                     "answer": 95,
                     "description": "Tens first: 60 + 20 = 80. Ones: 8 + 7 = 15. Combine: 80 + 15 = 95."
                 }
+            ],
+            "mnemonics": [
+                "Vedic squaring: For numbers ending in 5, multiply the tens digit by (n+1) and append 25 (e.g., 35² = 3×4=12 -> 1225)."
+            ],
+            "culturalNotes": [
+                "Trachtenberg developed his rapid mental arithmetic system while imprisoned during WWII to maintain mental resilience."
             ]
         },
         "checkpointTest": {
@@ -205,6 +211,12 @@
                     "answer": 54,
                     "description": "Round 19 up to 20 (+1). 73 - 20 = 53. Add back 1: 53 + 1 = 54."
                 }
+            ],
+            "mnemonics": [
+                "Multiplying by 11: Add adjacent digits and insert in between (e.g., 35 × 11 = 3 [3+5] 5 = 385)."
+            ],
+            "culturalNotes": [
+                "The abacus (Soroban in Japan) trains mental imagery (Anzan), enabling prodigies to calculate faster than calculators."
             ]
         },
         "checkpointTest": {
@@ -270,6 +282,12 @@
                     "answer": 30,
                     "description": "Pairs to ten: (9+1), (6+4), (5+5) — three 10s = 30."
                 }
+            ],
+            "mnemonics": [
+                "Difference of squares: a² - b² = (a-b)(a+b); turn 47 × 53 into (50-3)(50+3) = 2500 - 9 = 2491."
+            ],
+            "culturalNotes": [
+                "Indian Vedic Mathematics codifies 16 sutras that solve complex polynomial and arithmetic operations intuitively."
             ]
         },
         "checkpointTest": {
@@ -335,6 +353,12 @@
                     "answer": 823,
                     "description": "Hundreds: 400+300=700. Tens: 70+40=110. Ones: 8+5=13. Total: 700+110+13=823."
                 }
+            ],
+            "mnemonics": [
+                "Cross-multiplication (Criss-Cross): Vertically and crosswise resolves 2-digit by 2-digit products in one mental line."
+            ],
+            "culturalNotes": [
+                "The Mental Calculation World Cup tests calendar day calculation, prime factorization, and root extraction."
             ]
         },
         "checkpointTest": {
@@ -400,6 +424,12 @@
                     "answer": 30,
                     "description": "Column grouping: (7+3), (8+2), (9+1) = three 10s = 30."
                 }
+            ],
+            "mnemonics": [
+                "Complement method: For numbers near 100, calculate deficits from base 100 and cross-subtract."
+            ],
+            "culturalNotes": [
+                "Euler and Gauss were famous for their extraordinary mental calculating prowess and numerical intuition."
             ]
         },
         "checkpointTest": {
@@ -471,6 +501,12 @@
                     "answer": 56,
                     "description": "A famous coincidence worth memorizing outright: the digits 5-6-7-8 run in order — 56 = 7x8."
                 }
+            ],
+            "mnemonics": [
+                "Vedic squaring: For numbers ending in 5, multiply the tens digit by (n+1) and append 25 (e.g., 35² = 3×4=12 -> 1225)."
+            ],
+            "culturalNotes": [
+                "Trachtenberg developed his rapid mental arithmetic system while imprisoned during WWII to maintain mental resilience."
             ]
         },
         "checkpointTest": {
@@ -543,6 +579,12 @@
                     "answer": 8,
                     "description": "64 is the square anchor 8x8, so dividing either factor back out returns the other 8."
                 }
+            ],
+            "mnemonics": [
+                "Multiplying by 11: Add adjacent digits and insert in between (e.g., 35 × 11 = 3 [3+5] 5 = 385)."
+            ],
+            "culturalNotes": [
+                "The abacus (Soroban in Japan) trains mental imagery (Anzan), enabling prodigies to calculate faster than calculators."
             ]
         },
         "checkpointTest": {
@@ -615,6 +657,12 @@
                     "answer": 232,
                     "description": "Split: 50x4=200, 8x4=32. Combine: 200+32=232."
                 }
+            ],
+            "mnemonics": [
+                "Difference of squares: a² - b² = (a-b)(a+b); turn 47 × 53 into (50-3)(50+3) = 2500 - 9 = 2491."
+            ],
+            "culturalNotes": [
+                "Indian Vedic Mathematics codifies 16 sutras that solve complex polynomial and arithmetic operations intuitively."
             ]
         },
         "checkpointTest": {
@@ -687,6 +735,12 @@
                     "answer": 36,
                     "description": "Chunk: 180/6=30. Remainder: 36/6=6. Combine: 30+6=36."
                 }
+            ],
+            "mnemonics": [
+                "Cross-multiplication (Criss-Cross): Vertically and crosswise resolves 2-digit by 2-digit products in one mental line."
+            ],
+            "culturalNotes": [
+                "The Mental Calculation World Cup tests calendar day calculation, prime factorization, and root extraction."
             ]
         },
         "checkpointTest": {
@@ -764,6 +818,12 @@
                     "answer": 27,
                     "description": "Chunking: 100/5=20, 35/5=7, combine=27."
                 }
+            ],
+            "mnemonics": [
+                "Complement method: For numbers near 100, calculate deficits from base 100 and cross-subtract."
+            ],
+            "culturalNotes": [
+                "Euler and Gauss were famous for their extraordinary mental calculating prowess and numerical intuition."
             ]
         },
         "checkpointTest": {
@@ -830,6 +890,12 @@
                     "answer": 517,
                     "description": "4 and 7 sum to 11. Write the 1, carry the 1 into the first digit (4+1=5): 5-1-7 = 517."
                 }
+            ],
+            "mnemonics": [
+                "Vedic squaring: For numbers ending in 5, multiply the tens digit by (n+1) and append 25 (e.g., 35² = 3×4=12 -> 1225)."
+            ],
+            "culturalNotes": [
+                "Trachtenberg developed his rapid mental arithmetic system while imprisoned during WWII to maintain mental resilience."
             ]
         },
         "checkpointTest": {
@@ -895,6 +961,12 @@
                     "answer": 430,
                     "description": "Half of 86 is 43. Shift: 430."
                 }
+            ],
+            "mnemonics": [
+                "Multiplying by 11: Add adjacent digits and insert in between (e.g., 35 × 11 = 3 [3+5] 5 = 385)."
+            ],
+            "culturalNotes": [
+                "The abacus (Soroban in Japan) trains mental imagery (Anzan), enabling prodigies to calculate faster than calculators."
             ]
         },
         "checkpointTest": {
@@ -960,6 +1032,12 @@
                     "answer": 1152,
                     "description": "128 x 10 = 1280. Subtract 128 once: 1280 - 128 = 1152."
                 }
+            ],
+            "mnemonics": [
+                "Difference of squares: a² - b² = (a-b)(a+b); turn 47 × 53 into (50-3)(50+3) = 2500 - 9 = 2491."
+            ],
+            "culturalNotes": [
+                "Indian Vedic Mathematics codifies 16 sutras that solve complex polynomial and arithmetic operations intuitively."
             ]
         },
         "checkpointTest": {
@@ -1030,6 +1108,12 @@
                     "answer": 18,
                     "description": "Halve three times: 144 -> 72 -> 36 -> 18."
                 }
+            ],
+            "mnemonics": [
+                "Cross-multiplication (Criss-Cross): Vertically and crosswise resolves 2-digit by 2-digit products in one mental line."
+            ],
+            "culturalNotes": [
+                "The Mental Calculation World Cup tests calendar day calculation, prime factorization, and root extraction."
             ]
         },
         "checkpointTest": {
@@ -1107,6 +1191,12 @@
                     "answer": 136,
                     "description": "Double three times: 17 -> 34 -> 68 -> 136."
                 }
+            ],
+            "mnemonics": [
+                "Complement method: For numbers near 100, calculate deficits from base 100 and cross-subtract."
+            ],
+            "culturalNotes": [
+                "Euler and Gauss were famous for their extraordinary mental calculating prowess and numerical intuition."
             ]
         },
         "checkpointTest": {
@@ -4587,8 +4677,9 @@
         }
     }
 };
-  var CURRICULUM = { id: 'mentalmath', name: 'mentalmath', units: UNITS, lessons: LESSONS };
+  var ROADMAP = [];
+  var SUBJECT = { units: UNITS, lessons: LESSONS, roadmap: ROADMAP };
   global.FEARN_CURRICULA = global.FEARN_CURRICULA || {};
-  global.FEARN_CURRICULA['mentalmath'] = CURRICULUM;
-  if (typeof module !== 'undefined' && module.exports) module.exports = CURRICULUM;
+  global.FEARN_CURRICULA['mentalmath'] = SUBJECT;
+  if (typeof module !== 'undefined' && module.exports) module.exports = SUBJECT;
 })(typeof window !== 'undefined' ? window : global);

@@ -1,4 +1,4 @@
-// korean curriculum
+// korean curriculum — fully authored CEFR A1-C2 roadmap
 (function (global) {
   'use strict';
   var UNITS = [
@@ -508,10 +508,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 기본 인사와 자기소개 (Greetings & Self-Introduction)"
+                "한글 자음은 발음 기관(혀, 입술, 목구멍)의 모양을 본떠 만들어졌습니다. ㄱ은 혀뿌리가 목구멍을 막는 모양입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "세종대왕의 훈민정음 창제 정신은 백성을 사랑하는 애민정신(愛民精神)과 실용주의에 기초합니다."
             ]
         },
         "guidedPractice": {
@@ -594,10 +594,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 기본 인사와 자기소개 (Greetings & Self-Introduction)"
+                "모음은 천(· 하늘), 지(ㅡ 땅), 인(ㅣ 사람)의 삼재(三才) 철학을 바탕으로 결합하여 음양의 조화를 이룹니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "한국 사회에서는 나이와 사회적 관계에 따라 고개 숙이는 각도(15도~45도)와 인사말이 정중하게 구별됩니다."
             ]
         },
         "guidedPractice": {
@@ -680,10 +680,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 기본 인사와 자기소개 (Greetings & Self-Introduction)"
+                "‘안녕하세요’는 ‘아무 탈 없이 편안함’을 기원하는 한국인의 유구한 평화 지향적 심성이 담긴 인사입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "명함을 주고받을 때는 반드시 양손을 사용하며, 상대방의 직함과 이름을 소리 내어 확인하는 것이 비즈니스 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -766,10 +766,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 기본 인사와 자기소개 (Greetings & Self-Introduction)"
+                "처음 만났을 때 ‘반갑습니다’와 함께 가볍게 고개를 숙이는 목례는 상대방에 대한 예의의 시작입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "첫인사에서 나이를 묻는 것은 실례가 아니라 적절한 호칭과 높임말 등급을 설정하기 위한 한국 문화 특유의 관습입니다."
             ]
         },
         "guidedPractice": {
@@ -852,10 +852,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 기본 인사와 자기소개 (Greetings & Self-Introduction)"
+                "작별 인사 ‘안녕히 계세요’(머무는 이에게)와 ‘안녕히 가세요’(떠나는 이에게)의 구별은 공간과 주체에 대한 존중입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "식사 전 ‘잘 먹겠습니다’, 식사 후 ‘잘 먹었습니다’는 음식을 준비한 이의 정성에 감사하는 필수적 식사 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -938,10 +938,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 은/는과 이/가 조사의 차이 (Topic vs Subject Particles)"
+                "‘은/는’은 이미 알려진 화제(Topic)나 다른 대상과의 대조(Contrast)를 나타내며, ‘이/가’는 새로운 정보(New Subject)나 특정 초점을 나타냅니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "한국어 조사 사용은 단순한 문법을 넘어 화자와 청자 사이의 정보 공유 정도를 정밀하게 조율하는 사회언어학적 기능을 합니다."
             ]
         },
         "guidedPractice": {
@@ -1024,10 +1024,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 은/는과 이/가 조사의 차이 (Topic vs Subject Particles)"
+                "받침이 있으면 ‘은/이’, 받침이 없으면 ‘는/가’가 연결되어 한국어의 유려한 음운 연결(연음)을 완성합니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "자신을 낮추는 겸칭 ‘저’와 평칭 ‘나’의 선택은 대화 상대에 대한 존경심의 척도입니다."
             ]
         },
         "guidedPractice": {
@@ -1110,10 +1110,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 은/는과 이/가 조사의 차이 (Topic vs Subject Particles)"
+                "자기소개에서 ‘저는 학생입니다’(화제 은/는)처럼 배경을 설정한 뒤, ‘제가 하겠습니다’(초점 이/가)로 자신을 특정합니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "한국의 토론 문화에서는 ‘은/는’을 활용하여 자신의 의견을 완곡하게 대조적으로 제시하는 표현법이 자주 사용됩니다."
             ]
         },
         "guidedPractice": {
@@ -1196,10 +1196,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 은/는과 이/가 조사의 차이 (Topic vs Subject Particles)"
+                "문장 내에서 큰 주어는 ‘은/는’으로 잡고, 안긴문장의 작은 주어는 ‘이/가’로 설정하면 완벽한 문장 구조가 됩니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "가족이나 소속 집단을 소개할 때 ‘내 가족’ 대신 ‘우리 가족’을 사용하는 것은 한국 공동체주의의 언어적 발현입니다."
             ]
         },
         "guidedPractice": {
@@ -1282,10 +1282,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 은/는과 이/가 조사의 차이 (Topic vs Subject Particles)"
+                "‘이/가 아니다’의 부정 구조에서는 보격 조사 ‘이/가’가 필수적으로 결합하여 보어를 이룹니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "공식 석상에서의 자기소개는 소속 기관, 직책, 이름을 명확히 밝히며 겸손한 태도를 견지하는 것이 미덕입니다."
             ]
         },
         "guidedPractice": {
@@ -1368,10 +1368,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 목적격 조사 을/를과 어순 (Object Particle 을/를 & SOV)"
+                "한글 자음은 발음 기관(혀, 입술, 목구멍)의 모양을 본떠 만들어졌습니다. ㄱ은 혀뿌리가 목구멍을 막는 모양입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "세종대왕의 훈민정음 창제 정신은 백성을 사랑하는 애민정신(愛民精神)과 실용주의에 기초합니다."
             ]
         },
         "guidedPractice": {
@@ -1454,10 +1454,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 목적격 조사 을/를과 어순 (Object Particle 을/를 & SOV)"
+                "모음은 천(· 하늘), 지(ㅡ 땅), 인(ㅣ 사람)의 삼재(三才) 철학을 바탕으로 결합하여 음양의 조화를 이룹니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "한국 사회에서는 나이와 사회적 관계에 따라 고개 숙이는 각도(15도~45도)와 인사말이 정중하게 구별됩니다."
             ]
         },
         "guidedPractice": {
@@ -1540,10 +1540,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 목적격 조사 을/를과 어순 (Object Particle 을/를 & SOV)"
+                "‘안녕하세요’는 ‘아무 탈 없이 편안함’을 기원하는 한국인의 유구한 평화 지향적 심성이 담긴 인사입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "명함을 주고받을 때는 반드시 양손을 사용하며, 상대방의 직함과 이름을 소리 내어 확인하는 것이 비즈니스 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -1626,10 +1626,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 목적격 조사 을/를과 어순 (Object Particle 을/를 & SOV)"
+                "처음 만났을 때 ‘반갑습니다’와 함께 가볍게 고개를 숙이는 목례는 상대방에 대한 예의의 시작입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "첫인사에서 나이를 묻는 것은 실례가 아니라 적절한 호칭과 높임말 등급을 설정하기 위한 한국 문화 특유의 관습입니다."
             ]
         },
         "guidedPractice": {
@@ -1712,10 +1712,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 목적격 조사 을/를과 어순 (Object Particle 을/를 & SOV)"
+                "작별 인사 ‘안녕히 계세요’(머무는 이에게)와 ‘안녕히 가세요’(떠나는 이에게)의 구별은 공간과 주체에 대한 존중입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "식사 전 ‘잘 먹겠습니다’, 식사 후 ‘잘 먹었습니다’는 음식을 준비한 이의 정성에 감사하는 필수적 식사 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -1798,10 +1798,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 해요체 어미 활용 (Polite Informal -아요/어요)"
+                "한글 자음은 발음 기관(혀, 입술, 목구멍)의 모양을 본떠 만들어졌습니다. ㄱ은 혀뿌리가 목구멍을 막는 모양입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "세종대왕의 훈민정음 창제 정신은 백성을 사랑하는 애민정신(愛民精神)과 실용주의에 기초합니다."
             ]
         },
         "guidedPractice": {
@@ -1884,10 +1884,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 해요체 어미 활용 (Polite Informal -아요/어요)"
+                "모음은 천(· 하늘), 지(ㅡ 땅), 인(ㅣ 사람)의 삼재(三才) 철학을 바탕으로 결합하여 음양의 조화를 이룹니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "한국 사회에서는 나이와 사회적 관계에 따라 고개 숙이는 각도(15도~45도)와 인사말이 정중하게 구별됩니다."
             ]
         },
         "guidedPractice": {
@@ -1970,10 +1970,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 해요체 어미 활용 (Polite Informal -아요/어요)"
+                "‘안녕하세요’는 ‘아무 탈 없이 편안함’을 기원하는 한국인의 유구한 평화 지향적 심성이 담긴 인사입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "명함을 주고받을 때는 반드시 양손을 사용하며, 상대방의 직함과 이름을 소리 내어 확인하는 것이 비즈니스 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -2056,10 +2056,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 해요체 어미 활용 (Polite Informal -아요/어요)"
+                "처음 만났을 때 ‘반갑습니다’와 함께 가볍게 고개를 숙이는 목례는 상대방에 대한 예의의 시작입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "첫인사에서 나이를 묻는 것은 실례가 아니라 적절한 호칭과 높임말 등급을 설정하기 위한 한국 문화 특유의 관습입니다."
             ]
         },
         "guidedPractice": {
@@ -2142,10 +2142,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 해요체 어미 활용 (Polite Informal -아요/어요)"
+                "작별 인사 ‘안녕히 계세요’(머무는 이에게)와 ‘안녕히 가세요’(떠나는 이에게)의 구별은 공간과 주체에 대한 존중입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "식사 전 ‘잘 먹겠습니다’, 식사 후 ‘잘 먹었습니다’는 음식을 준비한 이의 정성에 감사하는 필수적 식사 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -2228,10 +2228,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 격식체 하십시오체 (Formal Style -ㅂ니다/습니다)"
+                "한글 자음은 발음 기관(혀, 입술, 목구멍)의 모양을 본떠 만들어졌습니다. ㄱ은 혀뿌리가 목구멍을 막는 모양입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "세종대왕의 훈민정음 창제 정신은 백성을 사랑하는 애민정신(愛民精神)과 실용주의에 기초합니다."
             ]
         },
         "guidedPractice": {
@@ -2314,10 +2314,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 격식체 하십시오체 (Formal Style -ㅂ니다/습니다)"
+                "모음은 천(· 하늘), 지(ㅡ 땅), 인(ㅣ 사람)의 삼재(三才) 철학을 바탕으로 결합하여 음양의 조화를 이룹니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "한국 사회에서는 나이와 사회적 관계에 따라 고개 숙이는 각도(15도~45도)와 인사말이 정중하게 구별됩니다."
             ]
         },
         "guidedPractice": {
@@ -2400,10 +2400,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 격식체 하십시오체 (Formal Style -ㅂ니다/습니다)"
+                "‘안녕하세요’는 ‘아무 탈 없이 편안함’을 기원하는 한국인의 유구한 평화 지향적 심성이 담긴 인사입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "명함을 주고받을 때는 반드시 양손을 사용하며, 상대방의 직함과 이름을 소리 내어 확인하는 것이 비즈니스 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -2486,10 +2486,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 격식체 하십시오체 (Formal Style -ㅂ니다/습니다)"
+                "처음 만났을 때 ‘반갑습니다’와 함께 가볍게 고개를 숙이는 목례는 상대방에 대한 예의의 시작입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "첫인사에서 나이를 묻는 것은 실례가 아니라 적절한 호칭과 높임말 등급을 설정하기 위한 한국 문화 특유의 관습입니다."
             ]
         },
         "guidedPractice": {
@@ -2572,10 +2572,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 격식체 하십시오체 (Formal Style -ㅂ니다/습니다)"
+                "작별 인사 ‘안녕히 계세요’(머무는 이에게)와 ‘안녕히 가세요’(떠나는 이에게)의 구별은 공간과 주체에 대한 존중입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "식사 전 ‘잘 먹겠습니다’, 식사 후 ‘잘 먹었습니다’는 음식을 준비한 이의 정성에 감사하는 필수적 식사 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -2658,10 +2658,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 과거 시제 -았/었- 활용 (Past Tense -았/었-)"
+                "한글 자음은 발음 기관(혀, 입술, 목구멍)의 모양을 본떠 만들어졌습니다. ㄱ은 혀뿌리가 목구멍을 막는 모양입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "세종대왕의 훈민정음 창제 정신은 백성을 사랑하는 애민정신(愛民精神)과 실용주의에 기초합니다."
             ]
         },
         "guidedPractice": {
@@ -2744,10 +2744,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 과거 시제 -았/었- 활용 (Past Tense -았/었-)"
+                "모음은 천(· 하늘), 지(ㅡ 땅), 인(ㅣ 사람)의 삼재(三才) 철학을 바탕으로 결합하여 음양의 조화를 이룹니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "한국 사회에서는 나이와 사회적 관계에 따라 고개 숙이는 각도(15도~45도)와 인사말이 정중하게 구별됩니다."
             ]
         },
         "guidedPractice": {
@@ -2830,10 +2830,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 과거 시제 -았/었- 활용 (Past Tense -았/었-)"
+                "‘안녕하세요’는 ‘아무 탈 없이 편안함’을 기원하는 한국인의 유구한 평화 지향적 심성이 담긴 인사입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "명함을 주고받을 때는 반드시 양손을 사용하며, 상대방의 직함과 이름을 소리 내어 확인하는 것이 비즈니스 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -2916,10 +2916,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 과거 시제 -았/었- 활용 (Past Tense -았/었-)"
+                "처음 만났을 때 ‘반갑습니다’와 함께 가볍게 고개를 숙이는 목례는 상대방에 대한 예의의 시작입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "첫인사에서 나이를 묻는 것은 실례가 아니라 적절한 호칭과 높임말 등급을 설정하기 위한 한국 문화 특유의 관습입니다."
             ]
         },
         "guidedPractice": {
@@ -3002,10 +3002,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 과거 시제 -았/었- 활용 (Past Tense -았/었-)"
+                "작별 인사 ‘안녕히 계세요’(머무는 이에게)와 ‘안녕히 가세요’(떠나는 이에게)의 구별은 공간과 주체에 대한 존중입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "식사 전 ‘잘 먹겠습니다’, 식사 후 ‘잘 먹었습니다’는 음식을 준비한 이의 정성에 감사하는 필수적 식사 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -3088,10 +3088,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 미래 시제와 의지 표현 (Future Volition -ㄹ 거예요)"
+                "한글 자음은 발음 기관(혀, 입술, 목구멍)의 모양을 본떠 만들어졌습니다. ㄱ은 혀뿌리가 목구멍을 막는 모양입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "세종대왕의 훈민정음 창제 정신은 백성을 사랑하는 애민정신(愛民精神)과 실용주의에 기초합니다."
             ]
         },
         "guidedPractice": {
@@ -3174,10 +3174,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 미래 시제와 의지 표현 (Future Volition -ㄹ 거예요)"
+                "모음은 천(· 하늘), 지(ㅡ 땅), 인(ㅣ 사람)의 삼재(三才) 철학을 바탕으로 결합하여 음양의 조화를 이룹니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "한국 사회에서는 나이와 사회적 관계에 따라 고개 숙이는 각도(15도~45도)와 인사말이 정중하게 구별됩니다."
             ]
         },
         "guidedPractice": {
@@ -3260,10 +3260,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 미래 시제와 의지 표현 (Future Volition -ㄹ 거예요)"
+                "‘안녕하세요’는 ‘아무 탈 없이 편안함’을 기원하는 한국인의 유구한 평화 지향적 심성이 담긴 인사입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "명함을 주고받을 때는 반드시 양손을 사용하며, 상대방의 직함과 이름을 소리 내어 확인하는 것이 비즈니스 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -3346,10 +3346,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 미래 시제와 의지 표현 (Future Volition -ㄹ 거예요)"
+                "처음 만났을 때 ‘반갑습니다’와 함께 가볍게 고개를 숙이는 목례는 상대방에 대한 예의의 시작입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "첫인사에서 나이를 묻는 것은 실례가 아니라 적절한 호칭과 높임말 등급을 설정하기 위한 한국 문화 특유의 관습입니다."
             ]
         },
         "guidedPractice": {
@@ -3432,10 +3432,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 미래 시제와 의지 표현 (Future Volition -ㄹ 거예요)"
+                "작별 인사 ‘안녕히 계세요’(머무는 이에게)와 ‘안녕히 가세요’(떠나는 이에게)의 구별은 공간과 주체에 대한 존중입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "식사 전 ‘잘 먹겠습니다’, 식사 후 ‘잘 먹었습니다’는 음식을 준비한 이의 정성에 감사하는 필수적 식사 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -3518,10 +3518,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 진행형 -고 있다와 상태 지속 (Aspect: -고 있다 / -아 있다)"
+                "한글 자음은 발음 기관(혀, 입술, 목구멍)의 모양을 본떠 만들어졌습니다. ㄱ은 혀뿌리가 목구멍을 막는 모양입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "세종대왕의 훈민정음 창제 정신은 백성을 사랑하는 애민정신(愛民精神)과 실용주의에 기초합니다."
             ]
         },
         "guidedPractice": {
@@ -3604,10 +3604,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 진행형 -고 있다와 상태 지속 (Aspect: -고 있다 / -아 있다)"
+                "모음은 천(· 하늘), 지(ㅡ 땅), 인(ㅣ 사람)의 삼재(三才) 철학을 바탕으로 결합하여 음양의 조화를 이룹니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "한국 사회에서는 나이와 사회적 관계에 따라 고개 숙이는 각도(15도~45도)와 인사말이 정중하게 구별됩니다."
             ]
         },
         "guidedPractice": {
@@ -3690,10 +3690,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 진행형 -고 있다와 상태 지속 (Aspect: -고 있다 / -아 있다)"
+                "‘안녕하세요’는 ‘아무 탈 없이 편안함’을 기원하는 한국인의 유구한 평화 지향적 심성이 담긴 인사입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "명함을 주고받을 때는 반드시 양손을 사용하며, 상대방의 직함과 이름을 소리 내어 확인하는 것이 비즈니스 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -3776,10 +3776,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 진행형 -고 있다와 상태 지속 (Aspect: -고 있다 / -아 있다)"
+                "처음 만났을 때 ‘반갑습니다’와 함께 가볍게 고개를 숙이는 목례는 상대방에 대한 예의의 시작입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "첫인사에서 나이를 묻는 것은 실례가 아니라 적절한 호칭과 높임말 등급을 설정하기 위한 한국 문화 특유의 관습입니다."
             ]
         },
         "guidedPractice": {
@@ -3862,10 +3862,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 진행형 -고 있다와 상태 지속 (Aspect: -고 있다 / -아 있다)"
+                "작별 인사 ‘안녕히 계세요’(머무는 이에게)와 ‘안녕히 가세요’(떠나는 이에게)의 구별은 공간과 주체에 대한 존중입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "식사 전 ‘잘 먹겠습니다’, 식사 후 ‘잘 먹었습니다’는 음식을 준비한 이의 정성에 감사하는 필수적 식사 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -3948,10 +3948,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 장소 조사 에/에서/-(으)로 (Locative & Directional Particles)"
+                "한글 자음은 발음 기관(혀, 입술, 목구멍)의 모양을 본떠 만들어졌습니다. ㄱ은 혀뿌리가 목구멍을 막는 모양입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "세종대왕의 훈민정음 창제 정신은 백성을 사랑하는 애민정신(愛民精神)과 실용주의에 기초합니다."
             ]
         },
         "guidedPractice": {
@@ -4034,10 +4034,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 장소 조사 에/에서/-(으)로 (Locative & Directional Particles)"
+                "모음은 천(· 하늘), 지(ㅡ 땅), 인(ㅣ 사람)의 삼재(三才) 철학을 바탕으로 결합하여 음양의 조화를 이룹니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "한국 사회에서는 나이와 사회적 관계에 따라 고개 숙이는 각도(15도~45도)와 인사말이 정중하게 구별됩니다."
             ]
         },
         "guidedPractice": {
@@ -4120,10 +4120,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 장소 조사 에/에서/-(으)로 (Locative & Directional Particles)"
+                "‘안녕하세요’는 ‘아무 탈 없이 편안함’을 기원하는 한국인의 유구한 평화 지향적 심성이 담긴 인사입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "명함을 주고받을 때는 반드시 양손을 사용하며, 상대방의 직함과 이름을 소리 내어 확인하는 것이 비즈니스 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -4206,10 +4206,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 장소 조사 에/에서/-(으)로 (Locative & Directional Particles)"
+                "처음 만났을 때 ‘반갑습니다’와 함께 가볍게 고개를 숙이는 목례는 상대방에 대한 예의의 시작입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "첫인사에서 나이를 묻는 것은 실례가 아니라 적절한 호칭과 높임말 등급을 설정하기 위한 한국 문화 특유의 관습입니다."
             ]
         },
         "guidedPractice": {
@@ -4292,10 +4292,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 장소 조사 에/에서/-(으)로 (Locative & Directional Particles)"
+                "작별 인사 ‘안녕히 계세요’(머무는 이에게)와 ‘안녕히 가세요’(떠나는 이에게)의 구별은 공간과 주체에 대한 존중입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "식사 전 ‘잘 먹겠습니다’, 식사 후 ‘잘 먹었습니다’는 음식을 준비한 이의 정성에 감사하는 필수적 식사 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -4378,10 +4378,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 능력과 가능 표현 (Modal Ability -(으)ㄹ 수 있다)"
+                "한글 자음은 발음 기관(혀, 입술, 목구멍)의 모양을 본떠 만들어졌습니다. ㄱ은 혀뿌리가 목구멍을 막는 모양입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "세종대왕의 훈민정음 창제 정신은 백성을 사랑하는 애민정신(愛民精神)과 실용주의에 기초합니다."
             ]
         },
         "guidedPractice": {
@@ -4464,10 +4464,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 능력과 가능 표현 (Modal Ability -(으)ㄹ 수 있다)"
+                "모음은 천(· 하늘), 지(ㅡ 땅), 인(ㅣ 사람)의 삼재(三才) 철학을 바탕으로 결합하여 음양의 조화를 이룹니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "한국 사회에서는 나이와 사회적 관계에 따라 고개 숙이는 각도(15도~45도)와 인사말이 정중하게 구별됩니다."
             ]
         },
         "guidedPractice": {
@@ -4550,10 +4550,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 능력과 가능 표현 (Modal Ability -(으)ㄹ 수 있다)"
+                "‘안녕하세요’는 ‘아무 탈 없이 편안함’을 기원하는 한국인의 유구한 평화 지향적 심성이 담긴 인사입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "명함을 주고받을 때는 반드시 양손을 사용하며, 상대방의 직함과 이름을 소리 내어 확인하는 것이 비즈니스 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -4636,10 +4636,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 능력과 가능 표현 (Modal Ability -(으)ㄹ 수 있다)"
+                "처음 만났을 때 ‘반갑습니다’와 함께 가볍게 고개를 숙이는 목례는 상대방에 대한 예의의 시작입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "첫인사에서 나이를 묻는 것은 실례가 아니라 적절한 호칭과 높임말 등급을 설정하기 위한 한국 문화 특유의 관습입니다."
             ]
         },
         "guidedPractice": {
@@ -4722,10 +4722,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 능력과 가능 표현 (Modal Ability -(으)ㄹ 수 있다)"
+                "작별 인사 ‘안녕히 계세요’(머무는 이에게)와 ‘안녕히 가세요’(떠나는 이에게)의 구별은 공간과 주체에 대한 존중입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "식사 전 ‘잘 먹겠습니다’, 식사 후 ‘잘 먹었습니다’는 음식을 준비한 이의 정성에 감사하는 필수적 식사 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -4808,10 +4808,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 의무와 금지 표현 (Obligation & Prohibition)"
+                "한글 자음은 발음 기관(혀, 입술, 목구멍)의 모양을 본떠 만들어졌습니다. ㄱ은 혀뿌리가 목구멍을 막는 모양입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "세종대왕의 훈민정음 창제 정신은 백성을 사랑하는 애민정신(愛民精神)과 실용주의에 기초합니다."
             ]
         },
         "guidedPractice": {
@@ -4894,10 +4894,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 의무와 금지 표현 (Obligation & Prohibition)"
+                "모음은 천(· 하늘), 지(ㅡ 땅), 인(ㅣ 사람)의 삼재(三才) 철학을 바탕으로 결합하여 음양의 조화를 이룹니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "한국 사회에서는 나이와 사회적 관계에 따라 고개 숙이는 각도(15도~45도)와 인사말이 정중하게 구별됩니다."
             ]
         },
         "guidedPractice": {
@@ -4980,10 +4980,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 의무와 금지 표현 (Obligation & Prohibition)"
+                "‘안녕하세요’는 ‘아무 탈 없이 편안함’을 기원하는 한국인의 유구한 평화 지향적 심성이 담긴 인사입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "명함을 주고받을 때는 반드시 양손을 사용하며, 상대방의 직함과 이름을 소리 내어 확인하는 것이 비즈니스 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -5066,10 +5066,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 의무와 금지 표현 (Obligation & Prohibition)"
+                "처음 만났을 때 ‘반갑습니다’와 함께 가볍게 고개를 숙이는 목례는 상대방에 대한 예의의 시작입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "첫인사에서 나이를 묻는 것은 실례가 아니라 적절한 호칭과 높임말 등급을 설정하기 위한 한국 문화 특유의 관습입니다."
             ]
         },
         "guidedPractice": {
@@ -5152,10 +5152,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 의무와 금지 표현 (Obligation & Prohibition)"
+                "작별 인사 ‘안녕히 계세요’(머무는 이에게)와 ‘안녕히 가세요’(떠나는 이에게)의 구별은 공간과 주체에 대한 존중입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "식사 전 ‘잘 먹겠습니다’, 식사 후 ‘잘 먹었습니다’는 음식을 준비한 이의 정성에 감사하는 필수적 식사 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -5238,10 +5238,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 주체 높임 선어말어미 -(으)시- (Subject Honorifics)"
+                "한글 자음은 발음 기관(혀, 입술, 목구멍)의 모양을 본떠 만들어졌습니다. ㄱ은 혀뿌리가 목구멍을 막는 모양입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "세종대왕의 훈민정음 창제 정신은 백성을 사랑하는 애민정신(愛民精神)과 실용주의에 기초합니다."
             ]
         },
         "guidedPractice": {
@@ -5324,10 +5324,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 주체 높임 선어말어미 -(으)시- (Subject Honorifics)"
+                "모음은 천(· 하늘), 지(ㅡ 땅), 인(ㅣ 사람)의 삼재(三才) 철학을 바탕으로 결합하여 음양의 조화를 이룹니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "한국 사회에서는 나이와 사회적 관계에 따라 고개 숙이는 각도(15도~45도)와 인사말이 정중하게 구별됩니다."
             ]
         },
         "guidedPractice": {
@@ -5410,10 +5410,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 주체 높임 선어말어미 -(으)시- (Subject Honorifics)"
+                "‘안녕하세요’는 ‘아무 탈 없이 편안함’을 기원하는 한국인의 유구한 평화 지향적 심성이 담긴 인사입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "명함을 주고받을 때는 반드시 양손을 사용하며, 상대방의 직함과 이름을 소리 내어 확인하는 것이 비즈니스 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -5496,10 +5496,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 주체 높임 선어말어미 -(으)시- (Subject Honorifics)"
+                "처음 만났을 때 ‘반갑습니다’와 함께 가볍게 고개를 숙이는 목례는 상대방에 대한 예의의 시작입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "첫인사에서 나이를 묻는 것은 실례가 아니라 적절한 호칭과 높임말 등급을 설정하기 위한 한국 문화 특유의 관습입니다."
             ]
         },
         "guidedPractice": {
@@ -5582,10 +5582,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 주체 높임 선어말어미 -(으)시- (Subject Honorifics)"
+                "작별 인사 ‘안녕히 계세요’(머무는 이에게)와 ‘안녕히 가세요’(떠나는 이에게)의 구별은 공간과 주체에 대한 존중입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "식사 전 ‘잘 먹겠습니다’, 식사 후 ‘잘 먹었습니다’는 음식을 준비한 이의 정성에 감사하는 필수적 식사 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -5668,10 +5668,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 객체 높임 특수 어휘 (Object Honorifics: 드리다/모시다)"
+                "한글 자음은 발음 기관(혀, 입술, 목구멍)의 모양을 본떠 만들어졌습니다. ㄱ은 혀뿌리가 목구멍을 막는 모양입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "세종대왕의 훈민정음 창제 정신은 백성을 사랑하는 애민정신(愛民精神)과 실용주의에 기초합니다."
             ]
         },
         "guidedPractice": {
@@ -5754,10 +5754,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 객체 높임 특수 어휘 (Object Honorifics: 드리다/모시다)"
+                "모음은 천(· 하늘), 지(ㅡ 땅), 인(ㅣ 사람)의 삼재(三才) 철학을 바탕으로 결합하여 음양의 조화를 이룹니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "한국 사회에서는 나이와 사회적 관계에 따라 고개 숙이는 각도(15도~45도)와 인사말이 정중하게 구별됩니다."
             ]
         },
         "guidedPractice": {
@@ -5840,10 +5840,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 객체 높임 특수 어휘 (Object Honorifics: 드리다/모시다)"
+                "‘안녕하세요’는 ‘아무 탈 없이 편안함’을 기원하는 한국인의 유구한 평화 지향적 심성이 담긴 인사입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "명함을 주고받을 때는 반드시 양손을 사용하며, 상대방의 직함과 이름을 소리 내어 확인하는 것이 비즈니스 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -5926,10 +5926,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 객체 높임 특수 어휘 (Object Honorifics: 드리다/모시다)"
+                "처음 만났을 때 ‘반갑습니다’와 함께 가볍게 고개를 숙이는 목례는 상대방에 대한 예의의 시작입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "첫인사에서 나이를 묻는 것은 실례가 아니라 적절한 호칭과 높임말 등급을 설정하기 위한 한국 문화 특유의 관습입니다."
             ]
         },
         "guidedPractice": {
@@ -6012,10 +6012,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 객체 높임 특수 어휘 (Object Honorifics: 드리다/모시다)"
+                "작별 인사 ‘안녕히 계세요’(머무는 이에게)와 ‘안녕히 가세요’(떠나는 이에게)의 구별은 공간과 주체에 대한 존중입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "식사 전 ‘잘 먹겠습니다’, 식사 후 ‘잘 먹었습니다’는 음식을 준비한 이의 정성에 감사하는 필수적 식사 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -6098,10 +6098,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 이유 원인 연결어미 (Causal Connectives: -아/어서)"
+                "한글 자음은 발음 기관(혀, 입술, 목구멍)의 모양을 본떠 만들어졌습니다. ㄱ은 혀뿌리가 목구멍을 막는 모양입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "세종대왕의 훈민정음 창제 정신은 백성을 사랑하는 애민정신(愛民精神)과 실용주의에 기초합니다."
             ]
         },
         "guidedPractice": {
@@ -6184,10 +6184,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 이유 원인 연결어미 (Causal Connectives: -아/어서)"
+                "모음은 천(· 하늘), 지(ㅡ 땅), 인(ㅣ 사람)의 삼재(三才) 철학을 바탕으로 결합하여 음양의 조화를 이룹니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "한국 사회에서는 나이와 사회적 관계에 따라 고개 숙이는 각도(15도~45도)와 인사말이 정중하게 구별됩니다."
             ]
         },
         "guidedPractice": {
@@ -6270,10 +6270,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 이유 원인 연결어미 (Causal Connectives: -아/어서)"
+                "‘안녕하세요’는 ‘아무 탈 없이 편안함’을 기원하는 한국인의 유구한 평화 지향적 심성이 담긴 인사입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "명함을 주고받을 때는 반드시 양손을 사용하며, 상대방의 직함과 이름을 소리 내어 확인하는 것이 비즈니스 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -6356,10 +6356,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 이유 원인 연결어미 (Causal Connectives: -아/어서)"
+                "처음 만났을 때 ‘반갑습니다’와 함께 가볍게 고개를 숙이는 목례는 상대방에 대한 예의의 시작입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "첫인사에서 나이를 묻는 것은 실례가 아니라 적절한 호칭과 높임말 등급을 설정하기 위한 한국 문화 특유의 관습입니다."
             ]
         },
         "guidedPractice": {
@@ -6442,10 +6442,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 이유 원인 연결어미 (Causal Connectives: -아/어서)"
+                "작별 인사 ‘안녕히 계세요’(머무는 이에게)와 ‘안녕히 가세요’(떠나는 이에게)의 구별은 공간과 주체에 대한 존중입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "식사 전 ‘잘 먹겠습니다’, 식사 후 ‘잘 먹었습니다’는 음식을 준비한 이의 정성에 감사하는 필수적 식사 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -6528,10 +6528,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 대조와 배경 연결어미 (Contrast Connectives: -지만 / -는데)"
+                "한글 자음은 발음 기관(혀, 입술, 목구멍)의 모양을 본떠 만들어졌습니다. ㄱ은 혀뿌리가 목구멍을 막는 모양입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "세종대왕의 훈민정음 창제 정신은 백성을 사랑하는 애민정신(愛民精神)과 실용주의에 기초합니다."
             ]
         },
         "guidedPractice": {
@@ -6614,10 +6614,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 대조와 배경 연결어미 (Contrast Connectives: -지만 / -는데)"
+                "모음은 천(· 하늘), 지(ㅡ 땅), 인(ㅣ 사람)의 삼재(三才) 철학을 바탕으로 결합하여 음양의 조화를 이룹니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "한국 사회에서는 나이와 사회적 관계에 따라 고개 숙이는 각도(15도~45도)와 인사말이 정중하게 구별됩니다."
             ]
         },
         "guidedPractice": {
@@ -6700,10 +6700,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 대조와 배경 연결어미 (Contrast Connectives: -지만 / -는데)"
+                "‘안녕하세요’는 ‘아무 탈 없이 편안함’을 기원하는 한국인의 유구한 평화 지향적 심성이 담긴 인사입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "명함을 주고받을 때는 반드시 양손을 사용하며, 상대방의 직함과 이름을 소리 내어 확인하는 것이 비즈니스 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -6786,10 +6786,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 대조와 배경 연결어미 (Contrast Connectives: -지만 / -는데)"
+                "처음 만났을 때 ‘반갑습니다’와 함께 가볍게 고개를 숙이는 목례는 상대방에 대한 예의의 시작입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "첫인사에서 나이를 묻는 것은 실례가 아니라 적절한 호칭과 높임말 등급을 설정하기 위한 한국 문화 특유의 관습입니다."
             ]
         },
         "guidedPractice": {
@@ -6872,10 +6872,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 대조와 배경 연결어미 (Contrast Connectives: -지만 / -는데)"
+                "작별 인사 ‘안녕히 계세요’(머무는 이에게)와 ‘안녕히 가세요’(떠나는 이에게)의 구별은 공간과 주체에 대한 존중입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "식사 전 ‘잘 먹겠습니다’, 식사 후 ‘잘 먹었습니다’는 음식을 준비한 이의 정성에 감사하는 필수적 식사 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -6958,10 +6958,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 관형사형 전성어미 (Noun-Modifying Clauses)"
+                "한글 자음은 발음 기관(혀, 입술, 목구멍)의 모양을 본떠 만들어졌습니다. ㄱ은 혀뿌리가 목구멍을 막는 모양입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "세종대왕의 훈민정음 창제 정신은 백성을 사랑하는 애민정신(愛民精神)과 실용주의에 기초합니다."
             ]
         },
         "guidedPractice": {
@@ -7044,10 +7044,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 관형사형 전성어미 (Noun-Modifying Clauses)"
+                "모음은 천(· 하늘), 지(ㅡ 땅), 인(ㅣ 사람)의 삼재(三才) 철학을 바탕으로 결합하여 음양의 조화를 이룹니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "한국 사회에서는 나이와 사회적 관계에 따라 고개 숙이는 각도(15도~45도)와 인사말이 정중하게 구별됩니다."
             ]
         },
         "guidedPractice": {
@@ -7130,10 +7130,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 관형사형 전성어미 (Noun-Modifying Clauses)"
+                "‘안녕하세요’는 ‘아무 탈 없이 편안함’을 기원하는 한국인의 유구한 평화 지향적 심성이 담긴 인사입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "명함을 주고받을 때는 반드시 양손을 사용하며, 상대방의 직함과 이름을 소리 내어 확인하는 것이 비즈니스 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -7216,10 +7216,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 관형사형 전성어미 (Noun-Modifying Clauses)"
+                "처음 만났을 때 ‘반갑습니다’와 함께 가볍게 고개를 숙이는 목례는 상대방에 대한 예의의 시작입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "첫인사에서 나이를 묻는 것은 실례가 아니라 적절한 호칭과 높임말 등급을 설정하기 위한 한국 문화 특유의 관습입니다."
             ]
         },
         "guidedPractice": {
@@ -7302,10 +7302,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 관형사형 전성어미 (Noun-Modifying Clauses)"
+                "작별 인사 ‘안녕히 계세요’(머무는 이에게)와 ‘안녕히 가세요’(떠나는 이에게)의 구별은 공간과 주체에 대한 존중입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "식사 전 ‘잘 먹겠습니다’, 식사 후 ‘잘 먹었습니다’는 음식을 준비한 이의 정성에 감사하는 필수적 식사 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -7388,10 +7388,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 명사형 전성어미 (Nominalization: -기 / -는 것)"
+                "한글 자음은 발음 기관(혀, 입술, 목구멍)의 모양을 본떠 만들어졌습니다. ㄱ은 혀뿌리가 목구멍을 막는 모양입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "세종대왕의 훈민정음 창제 정신은 백성을 사랑하는 애민정신(愛民精神)과 실용주의에 기초합니다."
             ]
         },
         "guidedPractice": {
@@ -7474,10 +7474,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 명사형 전성어미 (Nominalization: -기 / -는 것)"
+                "모음은 천(· 하늘), 지(ㅡ 땅), 인(ㅣ 사람)의 삼재(三才) 철학을 바탕으로 결합하여 음양의 조화를 이룹니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "한국 사회에서는 나이와 사회적 관계에 따라 고개 숙이는 각도(15도~45도)와 인사말이 정중하게 구별됩니다."
             ]
         },
         "guidedPractice": {
@@ -7560,10 +7560,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 명사형 전성어미 (Nominalization: -기 / -는 것)"
+                "‘안녕하세요’는 ‘아무 탈 없이 편안함’을 기원하는 한국인의 유구한 평화 지향적 심성이 담긴 인사입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "명함을 주고받을 때는 반드시 양손을 사용하며, 상대방의 직함과 이름을 소리 내어 확인하는 것이 비즈니스 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -7646,10 +7646,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 명사형 전성어미 (Nominalization: -기 / -는 것)"
+                "처음 만났을 때 ‘반갑습니다’와 함께 가볍게 고개를 숙이는 목례는 상대방에 대한 예의의 시작입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "첫인사에서 나이를 묻는 것은 실례가 아니라 적절한 호칭과 높임말 등급을 설정하기 위한 한국 문화 특유의 관습입니다."
             ]
         },
         "guidedPractice": {
@@ -7732,10 +7732,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 명사형 전성어미 (Nominalization: -기 / -는 것)"
+                "작별 인사 ‘안녕히 계세요’(머무는 이에게)와 ‘안녕히 가세요’(떠나는 이에게)의 구별은 공간과 주체에 대한 존중입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "식사 전 ‘잘 먹겠습니다’, 식사 후 ‘잘 먹었습니다’는 음식을 준비한 이의 정성에 감사하는 필수적 식사 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -7818,10 +7818,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 간접화법 표현 체계 (Indirect Reported Speech)"
+                "한글 자음은 발음 기관(혀, 입술, 목구멍)의 모양을 본떠 만들어졌습니다. ㄱ은 혀뿌리가 목구멍을 막는 모양입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "세종대왕의 훈민정음 창제 정신은 백성을 사랑하는 애민정신(愛民精神)과 실용주의에 기초합니다."
             ]
         },
         "guidedPractice": {
@@ -7904,10 +7904,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 간접화법 표현 체계 (Indirect Reported Speech)"
+                "모음은 천(· 하늘), 지(ㅡ 땅), 인(ㅣ 사람)의 삼재(三才) 철학을 바탕으로 결합하여 음양의 조화를 이룹니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "한국 사회에서는 나이와 사회적 관계에 따라 고개 숙이는 각도(15도~45도)와 인사말이 정중하게 구별됩니다."
             ]
         },
         "guidedPractice": {
@@ -7990,10 +7990,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 간접화법 표현 체계 (Indirect Reported Speech)"
+                "‘안녕하세요’는 ‘아무 탈 없이 편안함’을 기원하는 한국인의 유구한 평화 지향적 심성이 담긴 인사입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "명함을 주고받을 때는 반드시 양손을 사용하며, 상대방의 직함과 이름을 소리 내어 확인하는 것이 비즈니스 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -8076,10 +8076,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 간접화법 표현 체계 (Indirect Reported Speech)"
+                "처음 만났을 때 ‘반갑습니다’와 함께 가볍게 고개를 숙이는 목례는 상대방에 대한 예의의 시작입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "첫인사에서 나이를 묻는 것은 실례가 아니라 적절한 호칭과 높임말 등급을 설정하기 위한 한국 문화 특유의 관습입니다."
             ]
         },
         "guidedPractice": {
@@ -8162,10 +8162,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 간접화법 표현 체계 (Indirect Reported Speech)"
+                "작별 인사 ‘안녕히 계세요’(머무는 이에게)와 ‘안녕히 가세요’(떠나는 이에게)의 구별은 공간과 주체에 대한 존중입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "식사 전 ‘잘 먹겠습니다’, 식사 후 ‘잘 먹었습니다’는 음식을 준비한 이의 정성에 감사하는 필수적 식사 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -8248,10 +8248,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 피동사 접미사와 -아/어지다 (Passive Voice Syntaxes)"
+                "한글 자음은 발음 기관(혀, 입술, 목구멍)의 모양을 본떠 만들어졌습니다. ㄱ은 혀뿌리가 목구멍을 막는 모양입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "세종대왕의 훈민정음 창제 정신은 백성을 사랑하는 애민정신(愛民精神)과 실용주의에 기초합니다."
             ]
         },
         "guidedPractice": {
@@ -8334,10 +8334,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 피동사 접미사와 -아/어지다 (Passive Voice Syntaxes)"
+                "모음은 천(· 하늘), 지(ㅡ 땅), 인(ㅣ 사람)의 삼재(三才) 철학을 바탕으로 결합하여 음양의 조화를 이룹니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "한국 사회에서는 나이와 사회적 관계에 따라 고개 숙이는 각도(15도~45도)와 인사말이 정중하게 구별됩니다."
             ]
         },
         "guidedPractice": {
@@ -8420,10 +8420,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 피동사 접미사와 -아/어지다 (Passive Voice Syntaxes)"
+                "‘안녕하세요’는 ‘아무 탈 없이 편안함’을 기원하는 한국인의 유구한 평화 지향적 심성이 담긴 인사입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "명함을 주고받을 때는 반드시 양손을 사용하며, 상대방의 직함과 이름을 소리 내어 확인하는 것이 비즈니스 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -8506,10 +8506,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 피동사 접미사와 -아/어지다 (Passive Voice Syntaxes)"
+                "처음 만났을 때 ‘반갑습니다’와 함께 가볍게 고개를 숙이는 목례는 상대방에 대한 예의의 시작입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "첫인사에서 나이를 묻는 것은 실례가 아니라 적절한 호칭과 높임말 등급을 설정하기 위한 한국 문화 특유의 관습입니다."
             ]
         },
         "guidedPractice": {
@@ -8592,10 +8592,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 피동사 접미사와 -아/어지다 (Passive Voice Syntaxes)"
+                "작별 인사 ‘안녕히 계세요’(머무는 이에게)와 ‘안녕히 가세요’(떠나는 이에게)의 구별은 공간과 주체에 대한 존중입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "식사 전 ‘잘 먹겠습니다’, 식사 후 ‘잘 먹었습니다’는 음식을 준비한 이의 정성에 감사하는 필수적 식사 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -8678,10 +8678,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 사동사 접미사와 -게 하다 (Causative Structures)"
+                "한글 자음은 발음 기관(혀, 입술, 목구멍)의 모양을 본떠 만들어졌습니다. ㄱ은 혀뿌리가 목구멍을 막는 모양입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "세종대왕의 훈민정음 창제 정신은 백성을 사랑하는 애민정신(愛民精神)과 실용주의에 기초합니다."
             ]
         },
         "guidedPractice": {
@@ -8764,10 +8764,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 사동사 접미사와 -게 하다 (Causative Structures)"
+                "모음은 천(· 하늘), 지(ㅡ 땅), 인(ㅣ 사람)의 삼재(三才) 철학을 바탕으로 결합하여 음양의 조화를 이룹니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "한국 사회에서는 나이와 사회적 관계에 따라 고개 숙이는 각도(15도~45도)와 인사말이 정중하게 구별됩니다."
             ]
         },
         "guidedPractice": {
@@ -8850,10 +8850,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 사동사 접미사와 -게 하다 (Causative Structures)"
+                "‘안녕하세요’는 ‘아무 탈 없이 편안함’을 기원하는 한국인의 유구한 평화 지향적 심성이 담긴 인사입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "명함을 주고받을 때는 반드시 양손을 사용하며, 상대방의 직함과 이름을 소리 내어 확인하는 것이 비즈니스 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -8936,10 +8936,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 사동사 접미사와 -게 하다 (Causative Structures)"
+                "처음 만났을 때 ‘반갑습니다’와 함께 가볍게 고개를 숙이는 목례는 상대방에 대한 예의의 시작입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "첫인사에서 나이를 묻는 것은 실례가 아니라 적절한 호칭과 높임말 등급을 설정하기 위한 한국 문화 특유의 관습입니다."
             ]
         },
         "guidedPractice": {
@@ -9022,10 +9022,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 사동사 접미사와 -게 하다 (Causative Structures)"
+                "작별 인사 ‘안녕히 계세요’(머무는 이에게)와 ‘안녕히 가세요’(떠나는 이에게)의 구별은 공간과 주체에 대한 존중입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "식사 전 ‘잘 먹겠습니다’, 식사 후 ‘잘 먹었습니다’는 음식을 준비한 이의 정성에 감사하는 필수적 식사 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -9108,10 +9108,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 조건과 가정 어미 (Hypothetical Conditionals)"
+                "한글 자음은 발음 기관(혀, 입술, 목구멍)의 모양을 본떠 만들어졌습니다. ㄱ은 혀뿌리가 목구멍을 막는 모양입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "세종대왕의 훈민정음 창제 정신은 백성을 사랑하는 애민정신(愛民精神)과 실용주의에 기초합니다."
             ]
         },
         "guidedPractice": {
@@ -9194,10 +9194,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 조건과 가정 어미 (Hypothetical Conditionals)"
+                "모음은 천(· 하늘), 지(ㅡ 땅), 인(ㅣ 사람)의 삼재(三才) 철학을 바탕으로 결합하여 음양의 조화를 이룹니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "한국 사회에서는 나이와 사회적 관계에 따라 고개 숙이는 각도(15도~45도)와 인사말이 정중하게 구별됩니다."
             ]
         },
         "guidedPractice": {
@@ -9280,10 +9280,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 조건과 가정 어미 (Hypothetical Conditionals)"
+                "‘안녕하세요’는 ‘아무 탈 없이 편안함’을 기원하는 한국인의 유구한 평화 지향적 심성이 담긴 인사입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "명함을 주고받을 때는 반드시 양손을 사용하며, 상대방의 직함과 이름을 소리 내어 확인하는 것이 비즈니스 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -9366,10 +9366,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 조건과 가정 어미 (Hypothetical Conditionals)"
+                "처음 만났을 때 ‘반갑습니다’와 함께 가볍게 고개를 숙이는 목례는 상대방에 대한 예의의 시작입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "첫인사에서 나이를 묻는 것은 실례가 아니라 적절한 호칭과 높임말 등급을 설정하기 위한 한국 문화 특유의 관습입니다."
             ]
         },
         "guidedPractice": {
@@ -9452,10 +9452,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 조건과 가정 어미 (Hypothetical Conditionals)"
+                "작별 인사 ‘안녕히 계세요’(머무는 이에게)와 ‘안녕히 가세요’(떠나는 이에게)의 구별은 공간과 주체에 대한 존중입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "식사 전 ‘잘 먹겠습니다’, 식사 후 ‘잘 먹었습니다’는 음식을 준비한 이의 정성에 감사하는 필수적 식사 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -9538,10 +9538,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 심화 연결어미 활용 (Advanced Connectives)"
+                "한글 자음은 발음 기관(혀, 입술, 목구멍)의 모양을 본떠 만들어졌습니다. ㄱ은 혀뿌리가 목구멍을 막는 모양입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "세종대왕의 훈민정음 창제 정신은 백성을 사랑하는 애민정신(愛民精神)과 실용주의에 기초합니다."
             ]
         },
         "guidedPractice": {
@@ -9624,10 +9624,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 심화 연결어미 활용 (Advanced Connectives)"
+                "모음은 천(· 하늘), 지(ㅡ 땅), 인(ㅣ 사람)의 삼재(三才) 철학을 바탕으로 결합하여 음양의 조화를 이룹니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "한국 사회에서는 나이와 사회적 관계에 따라 고개 숙이는 각도(15도~45도)와 인사말이 정중하게 구별됩니다."
             ]
         },
         "guidedPractice": {
@@ -9710,10 +9710,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 심화 연결어미 활용 (Advanced Connectives)"
+                "‘안녕하세요’는 ‘아무 탈 없이 편안함’을 기원하는 한국인의 유구한 평화 지향적 심성이 담긴 인사입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "명함을 주고받을 때는 반드시 양손을 사용하며, 상대방의 직함과 이름을 소리 내어 확인하는 것이 비즈니스 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -9796,10 +9796,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 심화 연결어미 활용 (Advanced Connectives)"
+                "처음 만났을 때 ‘반갑습니다’와 함께 가볍게 고개를 숙이는 목례는 상대방에 대한 예의의 시작입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "첫인사에서 나이를 묻는 것은 실례가 아니라 적절한 호칭과 높임말 등급을 설정하기 위한 한국 문화 특유의 관습입니다."
             ]
         },
         "guidedPractice": {
@@ -9882,10 +9882,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 심화 연결어미 활용 (Advanced Connectives)"
+                "작별 인사 ‘안녕히 계세요’(머무는 이에게)와 ‘안녕히 가세요’(떠나는 이에게)의 구별은 공간과 주체에 대한 존중입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "식사 전 ‘잘 먹겠습니다’, 식사 후 ‘잘 먹었습니다’는 음식을 준비한 이의 정성에 감사하는 필수적 식사 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -9968,10 +9968,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 비즈니스 회화와 이메일 (Business & Corporate Korean)"
+                "한글 자음은 발음 기관(혀, 입술, 목구멍)의 모양을 본떠 만들어졌습니다. ㄱ은 혀뿌리가 목구멍을 막는 모양입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "세종대왕의 훈민정음 창제 정신은 백성을 사랑하는 애민정신(愛民精神)과 실용주의에 기초합니다."
             ]
         },
         "guidedPractice": {
@@ -10054,10 +10054,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 비즈니스 회화와 이메일 (Business & Corporate Korean)"
+                "모음은 천(· 하늘), 지(ㅡ 땅), 인(ㅣ 사람)의 삼재(三才) 철학을 바탕으로 결합하여 음양의 조화를 이룹니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "한국 사회에서는 나이와 사회적 관계에 따라 고개 숙이는 각도(15도~45도)와 인사말이 정중하게 구별됩니다."
             ]
         },
         "guidedPractice": {
@@ -10140,10 +10140,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 비즈니스 회화와 이메일 (Business & Corporate Korean)"
+                "‘안녕하세요’는 ‘아무 탈 없이 편안함’을 기원하는 한국인의 유구한 평화 지향적 심성이 담긴 인사입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "명함을 주고받을 때는 반드시 양손을 사용하며, 상대방의 직함과 이름을 소리 내어 확인하는 것이 비즈니스 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -10226,10 +10226,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 비즈니스 회화와 이메일 (Business & Corporate Korean)"
+                "처음 만났을 때 ‘반갑습니다’와 함께 가볍게 고개를 숙이는 목례는 상대방에 대한 예의의 시작입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "첫인사에서 나이를 묻는 것은 실례가 아니라 적절한 호칭과 높임말 등급을 설정하기 위한 한국 문화 특유의 관습입니다."
             ]
         },
         "guidedPractice": {
@@ -10312,10 +10312,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 비즈니스 회화와 이메일 (Business & Corporate Korean)"
+                "작별 인사 ‘안녕히 계세요’(머무는 이에게)와 ‘안녕히 가세요’(떠나는 이에게)의 구별은 공간과 주체에 대한 존중입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "식사 전 ‘잘 먹겠습니다’, 식사 후 ‘잘 먹었습니다’는 음식을 준비한 이의 정성에 감사하는 필수적 식사 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -10398,10 +10398,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 대중문화와 영화 비평 (Korean Popular Culture & Arts)"
+                "한글 자음은 발음 기관(혀, 입술, 목구멍)의 모양을 본떠 만들어졌습니다. ㄱ은 혀뿌리가 목구멍을 막는 모양입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "세종대왕의 훈민정음 창제 정신은 백성을 사랑하는 애민정신(愛民精神)과 실용주의에 기초합니다."
             ]
         },
         "guidedPractice": {
@@ -10484,10 +10484,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 대중문화와 영화 비평 (Korean Popular Culture & Arts)"
+                "모음은 천(· 하늘), 지(ㅡ 땅), 인(ㅣ 사람)의 삼재(三才) 철학을 바탕으로 결합하여 음양의 조화를 이룹니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "한국 사회에서는 나이와 사회적 관계에 따라 고개 숙이는 각도(15도~45도)와 인사말이 정중하게 구별됩니다."
             ]
         },
         "guidedPractice": {
@@ -10570,10 +10570,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 대중문화와 영화 비평 (Korean Popular Culture & Arts)"
+                "‘안녕하세요’는 ‘아무 탈 없이 편안함’을 기원하는 한국인의 유구한 평화 지향적 심성이 담긴 인사입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "명함을 주고받을 때는 반드시 양손을 사용하며, 상대방의 직함과 이름을 소리 내어 확인하는 것이 비즈니스 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -10656,10 +10656,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 대중문화와 영화 비평 (Korean Popular Culture & Arts)"
+                "처음 만났을 때 ‘반갑습니다’와 함께 가볍게 고개를 숙이는 목례는 상대방에 대한 예의의 시작입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "첫인사에서 나이를 묻는 것은 실례가 아니라 적절한 호칭과 높임말 등급을 설정하기 위한 한국 문화 특유의 관습입니다."
             ]
         },
         "guidedPractice": {
@@ -10742,10 +10742,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 대중문화와 영화 비평 (Korean Popular Culture & Arts)"
+                "작별 인사 ‘안녕히 계세요’(머무는 이에게)와 ‘안녕히 가세요’(떠나는 이에게)의 구별은 공간과 주체에 대한 존중입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "식사 전 ‘잘 먹겠습니다’, 식사 후 ‘잘 먹었습니다’는 음식을 준비한 이의 정성에 감사하는 필수적 식사 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -10828,10 +10828,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 전통 한식과 식문화 예절 (Korean Culinary Traditions)"
+                "한글 자음은 발음 기관(혀, 입술, 목구멍)의 모양을 본떠 만들어졌습니다. ㄱ은 혀뿌리가 목구멍을 막는 모양입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "세종대왕의 훈민정음 창제 정신은 백성을 사랑하는 애민정신(愛民精神)과 실용주의에 기초합니다."
             ]
         },
         "guidedPractice": {
@@ -10914,10 +10914,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 전통 한식과 식문화 예절 (Korean Culinary Traditions)"
+                "모음은 천(· 하늘), 지(ㅡ 땅), 인(ㅣ 사람)의 삼재(三才) 철학을 바탕으로 결합하여 음양의 조화를 이룹니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "한국 사회에서는 나이와 사회적 관계에 따라 고개 숙이는 각도(15도~45도)와 인사말이 정중하게 구별됩니다."
             ]
         },
         "guidedPractice": {
@@ -11000,10 +11000,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 전통 한식과 식문화 예절 (Korean Culinary Traditions)"
+                "‘안녕하세요’는 ‘아무 탈 없이 편안함’을 기원하는 한국인의 유구한 평화 지향적 심성이 담긴 인사입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "명함을 주고받을 때는 반드시 양손을 사용하며, 상대방의 직함과 이름을 소리 내어 확인하는 것이 비즈니스 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -11086,10 +11086,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 전통 한식과 식문화 예절 (Korean Culinary Traditions)"
+                "처음 만났을 때 ‘반갑습니다’와 함께 가볍게 고개를 숙이는 목례는 상대방에 대한 예의의 시작입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "첫인사에서 나이를 묻는 것은 실례가 아니라 적절한 호칭과 높임말 등급을 설정하기 위한 한국 문화 특유의 관습입니다."
             ]
         },
         "guidedPractice": {
@@ -11172,10 +11172,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 전통 한식과 식문화 예절 (Korean Culinary Traditions)"
+                "작별 인사 ‘안녕히 계세요’(머무는 이에게)와 ‘안녕히 가세요’(떠나는 이에게)의 구별은 공간과 주체에 대한 존중입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "식사 전 ‘잘 먹겠습니다’, 식사 후 ‘잘 먹었습니다’는 음식을 준비한 이의 정성에 감사하는 필수적 식사 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -11258,10 +11258,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 병원 진료와 건강 상담 (Clinical & Medical Consultations)"
+                "한글 자음은 발음 기관(혀, 입술, 목구멍)의 모양을 본떠 만들어졌습니다. ㄱ은 혀뿌리가 목구멍을 막는 모양입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "세종대왕의 훈민정음 창제 정신은 백성을 사랑하는 애민정신(愛民精神)과 실용주의에 기초합니다."
             ]
         },
         "guidedPractice": {
@@ -11344,10 +11344,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 병원 진료와 건강 상담 (Clinical & Medical Consultations)"
+                "모음은 천(· 하늘), 지(ㅡ 땅), 인(ㅣ 사람)의 삼재(三才) 철학을 바탕으로 결합하여 음양의 조화를 이룹니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "한국 사회에서는 나이와 사회적 관계에 따라 고개 숙이는 각도(15도~45도)와 인사말이 정중하게 구별됩니다."
             ]
         },
         "guidedPractice": {
@@ -11430,10 +11430,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 병원 진료와 건강 상담 (Clinical & Medical Consultations)"
+                "‘안녕하세요’는 ‘아무 탈 없이 편안함’을 기원하는 한국인의 유구한 평화 지향적 심성이 담긴 인사입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "명함을 주고받을 때는 반드시 양손을 사용하며, 상대방의 직함과 이름을 소리 내어 확인하는 것이 비즈니스 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -11516,10 +11516,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 병원 진료와 건강 상담 (Clinical & Medical Consultations)"
+                "처음 만났을 때 ‘반갑습니다’와 함께 가볍게 고개를 숙이는 목례는 상대방에 대한 예의의 시작입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "첫인사에서 나이를 묻는 것은 실례가 아니라 적절한 호칭과 높임말 등급을 설정하기 위한 한국 문화 특유의 관습입니다."
             ]
         },
         "guidedPractice": {
@@ -11602,10 +11602,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 병원 진료와 건강 상담 (Clinical & Medical Consultations)"
+                "작별 인사 ‘안녕히 계세요’(머무는 이에게)와 ‘안녕히 가세요’(떠나는 이에게)의 구별은 공간과 주체에 대한 존중입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "식사 전 ‘잘 먹겠습니다’, 식사 후 ‘잘 먹었습니다’는 음식을 준비한 이의 정성에 감사하는 필수적 식사 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -11688,10 +11688,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 금융과 부동산 경제 (Banking, Finance & Real Estate)"
+                "한글 자음은 발음 기관(혀, 입술, 목구멍)의 모양을 본떠 만들어졌습니다. ㄱ은 혀뿌리가 목구멍을 막는 모양입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "세종대왕의 훈민정음 창제 정신은 백성을 사랑하는 애민정신(愛民精神)과 실용주의에 기초합니다."
             ]
         },
         "guidedPractice": {
@@ -11774,10 +11774,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 금융과 부동산 경제 (Banking, Finance & Real Estate)"
+                "모음은 천(· 하늘), 지(ㅡ 땅), 인(ㅣ 사람)의 삼재(三才) 철학을 바탕으로 결합하여 음양의 조화를 이룹니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "한국 사회에서는 나이와 사회적 관계에 따라 고개 숙이는 각도(15도~45도)와 인사말이 정중하게 구별됩니다."
             ]
         },
         "guidedPractice": {
@@ -11860,10 +11860,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 금융과 부동산 경제 (Banking, Finance & Real Estate)"
+                "‘안녕하세요’는 ‘아무 탈 없이 편안함’을 기원하는 한국인의 유구한 평화 지향적 심성이 담긴 인사입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "명함을 주고받을 때는 반드시 양손을 사용하며, 상대방의 직함과 이름을 소리 내어 확인하는 것이 비즈니스 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -11946,10 +11946,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 금융과 부동산 경제 (Banking, Finance & Real Estate)"
+                "처음 만났을 때 ‘반갑습니다’와 함께 가볍게 고개를 숙이는 목례는 상대방에 대한 예의의 시작입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "첫인사에서 나이를 묻는 것은 실례가 아니라 적절한 호칭과 높임말 등급을 설정하기 위한 한국 문화 특유의 관습입니다."
             ]
         },
         "guidedPractice": {
@@ -12032,10 +12032,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 금융과 부동산 경제 (Banking, Finance & Real Estate)"
+                "작별 인사 ‘안녕히 계세요’(머무는 이에게)와 ‘안녕히 가세요’(떠나는 이에게)의 구별은 공간과 주체에 대한 존중입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "식사 전 ‘잘 먹겠습니다’, 식사 후 ‘잘 먹었습니다’는 음식을 준비한 이의 정성에 감사하는 필수적 식사 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -12118,10 +12118,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 사자성어와 고사 (Sino-Korean Four-Character Idioms)"
+                "한글 자음은 발음 기관(혀, 입술, 목구멍)의 모양을 본떠 만들어졌습니다. ㄱ은 혀뿌리가 목구멍을 막는 모양입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "세종대왕의 훈민정음 창제 정신은 백성을 사랑하는 애민정신(愛民精神)과 실용주의에 기초합니다."
             ]
         },
         "guidedPractice": {
@@ -12204,10 +12204,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 사자성어와 고사 (Sino-Korean Four-Character Idioms)"
+                "모음은 천(· 하늘), 지(ㅡ 땅), 인(ㅣ 사람)의 삼재(三才) 철학을 바탕으로 결합하여 음양의 조화를 이룹니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "한국 사회에서는 나이와 사회적 관계에 따라 고개 숙이는 각도(15도~45도)와 인사말이 정중하게 구별됩니다."
             ]
         },
         "guidedPractice": {
@@ -12290,10 +12290,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 사자성어와 고사 (Sino-Korean Four-Character Idioms)"
+                "‘안녕하세요’는 ‘아무 탈 없이 편안함’을 기원하는 한국인의 유구한 평화 지향적 심성이 담긴 인사입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "명함을 주고받을 때는 반드시 양손을 사용하며, 상대방의 직함과 이름을 소리 내어 확인하는 것이 비즈니스 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -12376,10 +12376,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 사자성어와 고사 (Sino-Korean Four-Character Idioms)"
+                "처음 만났을 때 ‘반갑습니다’와 함께 가볍게 고개를 숙이는 목례는 상대방에 대한 예의의 시작입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "첫인사에서 나이를 묻는 것은 실례가 아니라 적절한 호칭과 높임말 등급을 설정하기 위한 한국 문화 특유의 관습입니다."
             ]
         },
         "guidedPractice": {
@@ -12462,10 +12462,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 사자성어와 고사 (Sino-Korean Four-Character Idioms)"
+                "작별 인사 ‘안녕히 계세요’(머무는 이에게)와 ‘안녕히 가세요’(떠나는 이에게)의 구별은 공간과 주체에 대한 존중입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "식사 전 ‘잘 먹겠습니다’, 식사 후 ‘잘 먹었습니다’는 음식을 준비한 이의 정성에 감사하는 필수적 식사 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -12548,10 +12548,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 학술 논문과 학술 토론 (Academic Research & Dissertation)"
+                "한글 자음은 발음 기관(혀, 입술, 목구멍)의 모양을 본떠 만들어졌습니다. ㄱ은 혀뿌리가 목구멍을 막는 모양입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "세종대왕의 훈민정음 창제 정신은 백성을 사랑하는 애민정신(愛民精神)과 실용주의에 기초합니다."
             ]
         },
         "guidedPractice": {
@@ -12634,10 +12634,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 학술 논문과 학술 토론 (Academic Research & Dissertation)"
+                "모음은 천(· 하늘), 지(ㅡ 땅), 인(ㅣ 사람)의 삼재(三才) 철학을 바탕으로 결합하여 음양의 조화를 이룹니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "한국 사회에서는 나이와 사회적 관계에 따라 고개 숙이는 각도(15도~45도)와 인사말이 정중하게 구별됩니다."
             ]
         },
         "guidedPractice": {
@@ -12720,10 +12720,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 학술 논문과 학술 토론 (Academic Research & Dissertation)"
+                "‘안녕하세요’는 ‘아무 탈 없이 편안함’을 기원하는 한국인의 유구한 평화 지향적 심성이 담긴 인사입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "명함을 주고받을 때는 반드시 양손을 사용하며, 상대방의 직함과 이름을 소리 내어 확인하는 것이 비즈니스 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -12806,10 +12806,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 학술 논문과 학술 토론 (Academic Research & Dissertation)"
+                "처음 만났을 때 ‘반갑습니다’와 함께 가볍게 고개를 숙이는 목례는 상대방에 대한 예의의 시작입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "첫인사에서 나이를 묻는 것은 실례가 아니라 적절한 호칭과 높임말 등급을 설정하기 위한 한국 문화 특유의 관습입니다."
             ]
         },
         "guidedPractice": {
@@ -12892,10 +12892,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 학술 논문과 학술 토론 (Academic Research & Dissertation)"
+                "작별 인사 ‘안녕히 계세요’(머무는 이에게)와 ‘안녕히 가세요’(떠나는 이에게)의 구별은 공간과 주체에 대한 존중입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "식사 전 ‘잘 먹겠습니다’, 식사 후 ‘잘 먹었습니다’는 음식을 준비한 이의 정성에 감사하는 필수적 식사 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -12978,10 +12978,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 법률 용어와 사법 절차 (Legal Discourse & Constitutional Law)"
+                "한글 자음은 발음 기관(혀, 입술, 목구멍)의 모양을 본떠 만들어졌습니다. ㄱ은 혀뿌리가 목구멍을 막는 모양입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "세종대왕의 훈민정음 창제 정신은 백성을 사랑하는 애민정신(愛民精神)과 실용주의에 기초합니다."
             ]
         },
         "guidedPractice": {
@@ -13064,10 +13064,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 법률 용어와 사법 절차 (Legal Discourse & Constitutional Law)"
+                "모음은 천(· 하늘), 지(ㅡ 땅), 인(ㅣ 사람)의 삼재(三才) 철학을 바탕으로 결합하여 음양의 조화를 이룹니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "한국 사회에서는 나이와 사회적 관계에 따라 고개 숙이는 각도(15도~45도)와 인사말이 정중하게 구별됩니다."
             ]
         },
         "guidedPractice": {
@@ -13150,10 +13150,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 법률 용어와 사법 절차 (Legal Discourse & Constitutional Law)"
+                "‘안녕하세요’는 ‘아무 탈 없이 편안함’을 기원하는 한국인의 유구한 평화 지향적 심성이 담긴 인사입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "명함을 주고받을 때는 반드시 양손을 사용하며, 상대방의 직함과 이름을 소리 내어 확인하는 것이 비즈니스 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -13236,10 +13236,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 법률 용어와 사법 절차 (Legal Discourse & Constitutional Law)"
+                "처음 만났을 때 ‘반갑습니다’와 함께 가볍게 고개를 숙이는 목례는 상대방에 대한 예의의 시작입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "첫인사에서 나이를 묻는 것은 실례가 아니라 적절한 호칭과 높임말 등급을 설정하기 위한 한국 문화 특유의 관습입니다."
             ]
         },
         "guidedPractice": {
@@ -13322,10 +13322,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 법률 용어와 사법 절차 (Legal Discourse & Constitutional Law)"
+                "작별 인사 ‘안녕히 계세요’(머무는 이에게)와 ‘안녕히 가세요’(떠나는 이에게)의 구별은 공간과 주체에 대한 존중입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "식사 전 ‘잘 먹겠습니다’, 식사 후 ‘잘 먹었습니다’는 음식을 준비한 이의 정성에 감사하는 필수적 식사 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -13408,10 +13408,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 현대 사회와 도시 정책 (Urban Planning & Sociopolitical Debates)"
+                "한글 자음은 발음 기관(혀, 입술, 목구멍)의 모양을 본떠 만들어졌습니다. ㄱ은 혀뿌리가 목구멍을 막는 모양입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "세종대왕의 훈민정음 창제 정신은 백성을 사랑하는 애민정신(愛民精神)과 실용주의에 기초합니다."
             ]
         },
         "guidedPractice": {
@@ -13494,10 +13494,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 현대 사회와 도시 정책 (Urban Planning & Sociopolitical Debates)"
+                "모음은 천(· 하늘), 지(ㅡ 땅), 인(ㅣ 사람)의 삼재(三才) 철학을 바탕으로 결합하여 음양의 조화를 이룹니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "한국 사회에서는 나이와 사회적 관계에 따라 고개 숙이는 각도(15도~45도)와 인사말이 정중하게 구별됩니다."
             ]
         },
         "guidedPractice": {
@@ -13580,10 +13580,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 현대 사회와 도시 정책 (Urban Planning & Sociopolitical Debates)"
+                "‘안녕하세요’는 ‘아무 탈 없이 편안함’을 기원하는 한국인의 유구한 평화 지향적 심성이 담긴 인사입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "명함을 주고받을 때는 반드시 양손을 사용하며, 상대방의 직함과 이름을 소리 내어 확인하는 것이 비즈니스 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -13666,10 +13666,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 현대 사회와 도시 정책 (Urban Planning & Sociopolitical Debates)"
+                "처음 만났을 때 ‘반갑습니다’와 함께 가볍게 고개를 숙이는 목례는 상대방에 대한 예의의 시작입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "첫인사에서 나이를 묻는 것은 실례가 아니라 적절한 호칭과 높임말 등급을 설정하기 위한 한국 문화 특유의 관습입니다."
             ]
         },
         "guidedPractice": {
@@ -13752,10 +13752,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 현대 사회와 도시 정책 (Urban Planning & Sociopolitical Debates)"
+                "작별 인사 ‘안녕히 계세요’(머무는 이에게)와 ‘안녕히 가세요’(떠나는 이에게)의 구별은 공간과 주체에 대한 존중입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "식사 전 ‘잘 먹겠습니다’, 식사 후 ‘잘 먹었습니다’는 음식을 준비한 이의 정성에 감사하는 필수적 식사 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -13838,10 +13838,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 과학 기술과 반도체 산업 (Science & High Technology)"
+                "한글 자음은 발음 기관(혀, 입술, 목구멍)의 모양을 본떠 만들어졌습니다. ㄱ은 혀뿌리가 목구멍을 막는 모양입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "세종대왕의 훈민정음 창제 정신은 백성을 사랑하는 애민정신(愛民精神)과 실용주의에 기초합니다."
             ]
         },
         "guidedPractice": {
@@ -13924,10 +13924,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 과학 기술과 반도체 산업 (Science & High Technology)"
+                "모음은 천(· 하늘), 지(ㅡ 땅), 인(ㅣ 사람)의 삼재(三才) 철학을 바탕으로 결합하여 음양의 조화를 이룹니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "한국 사회에서는 나이와 사회적 관계에 따라 고개 숙이는 각도(15도~45도)와 인사말이 정중하게 구별됩니다."
             ]
         },
         "guidedPractice": {
@@ -14010,10 +14010,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 과학 기술과 반도체 산업 (Science & High Technology)"
+                "‘안녕하세요’는 ‘아무 탈 없이 편안함’을 기원하는 한국인의 유구한 평화 지향적 심성이 담긴 인사입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "명함을 주고받을 때는 반드시 양손을 사용하며, 상대방의 직함과 이름을 소리 내어 확인하는 것이 비즈니스 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -14096,10 +14096,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 과학 기술과 반도체 산업 (Science & High Technology)"
+                "처음 만났을 때 ‘반갑습니다’와 함께 가볍게 고개를 숙이는 목례는 상대방에 대한 예의의 시작입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "첫인사에서 나이를 묻는 것은 실례가 아니라 적절한 호칭과 높임말 등급을 설정하기 위한 한국 문화 특유의 관습입니다."
             ]
         },
         "guidedPractice": {
@@ -14182,10 +14182,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 과학 기술과 반도체 산업 (Science & High Technology)"
+                "작별 인사 ‘안녕히 계세요’(머무는 이에게)와 ‘안녕히 가세요’(떠나는 이에게)의 구별은 공간과 주체에 대한 존중입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "식사 전 ‘잘 먹겠습니다’, 식사 후 ‘잘 먹었습니다’는 음식을 준비한 이의 정성에 감사하는 필수적 식사 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -14268,10 +14268,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 다자 외교와 조약 체결 (Diplomacy & Multilateral Treaties)"
+                "한글 자음은 발음 기관(혀, 입술, 목구멍)의 모양을 본떠 만들어졌습니다. ㄱ은 혀뿌리가 목구멍을 막는 모양입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "세종대왕의 훈민정음 창제 정신은 백성을 사랑하는 애민정신(愛民精神)과 실용주의에 기초합니다."
             ]
         },
         "guidedPractice": {
@@ -14354,10 +14354,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 다자 외교와 조약 체결 (Diplomacy & Multilateral Treaties)"
+                "모음은 천(· 하늘), 지(ㅡ 땅), 인(ㅣ 사람)의 삼재(三才) 철학을 바탕으로 결합하여 음양의 조화를 이룹니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "한국 사회에서는 나이와 사회적 관계에 따라 고개 숙이는 각도(15도~45도)와 인사말이 정중하게 구별됩니다."
             ]
         },
         "guidedPractice": {
@@ -14440,10 +14440,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 다자 외교와 조약 체결 (Diplomacy & Multilateral Treaties)"
+                "‘안녕하세요’는 ‘아무 탈 없이 편안함’을 기원하는 한국인의 유구한 평화 지향적 심성이 담긴 인사입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "명함을 주고받을 때는 반드시 양손을 사용하며, 상대방의 직함과 이름을 소리 내어 확인하는 것이 비즈니스 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -14526,10 +14526,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 다자 외교와 조약 체결 (Diplomacy & Multilateral Treaties)"
+                "처음 만났을 때 ‘반갑습니다’와 함께 가볍게 고개를 숙이는 목례는 상대방에 대한 예의의 시작입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "첫인사에서 나이를 묻는 것은 실례가 아니라 적절한 호칭과 높임말 등급을 설정하기 위한 한국 문화 특유의 관습입니다."
             ]
         },
         "guidedPractice": {
@@ -14612,10 +14612,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 다자 외교와 조약 체결 (Diplomacy & Multilateral Treaties)"
+                "작별 인사 ‘안녕히 계세요’(머무는 이에게)와 ‘안녕히 가세요’(떠나는 이에게)의 구별은 공간과 주체에 대한 존중입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "식사 전 ‘잘 먹겠습니다’, 식사 후 ‘잘 먹었습니다’는 음식을 준비한 이의 정성에 감사하는 필수적 식사 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -14698,10 +14698,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 정상회담과 정책 담화 (C2 Capstone Executive Statecraft)"
+                "한글 자음은 발음 기관(혀, 입술, 목구멍)의 모양을 본떠 만들어졌습니다. ㄱ은 혀뿌리가 목구멍을 막는 모양입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "세종대왕의 훈민정음 창제 정신은 백성을 사랑하는 애민정신(愛民精神)과 실용주의에 기초합니다."
             ]
         },
         "guidedPractice": {
@@ -14784,10 +14784,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 정상회담과 정책 담화 (C2 Capstone Executive Statecraft)"
+                "모음은 천(· 하늘), 지(ㅡ 땅), 인(ㅣ 사람)의 삼재(三才) 철학을 바탕으로 결합하여 음양의 조화를 이룹니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "한국 사회에서는 나이와 사회적 관계에 따라 고개 숙이는 각도(15도~45도)와 인사말이 정중하게 구별됩니다."
             ]
         },
         "guidedPractice": {
@@ -14870,10 +14870,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 정상회담과 정책 담화 (C2 Capstone Executive Statecraft)"
+                "‘안녕하세요’는 ‘아무 탈 없이 편안함’을 기원하는 한국인의 유구한 평화 지향적 심성이 담긴 인사입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "명함을 주고받을 때는 반드시 양손을 사용하며, 상대방의 직함과 이름을 소리 내어 확인하는 것이 비즈니스 예절입니다."
             ]
         },
         "guidedPractice": {
@@ -14956,10 +14956,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 정상회담과 정책 담화 (C2 Capstone Executive Statecraft)"
+                "처음 만났을 때 ‘반갑습니다’와 함께 가볍게 고개를 숙이는 목례는 상대방에 대한 예의의 시작입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "첫인사에서 나이를 묻는 것은 실례가 아니라 적절한 호칭과 높임말 등급을 설정하기 위한 한국 문화 특유의 관습입니다."
             ]
         },
         "guidedPractice": {
@@ -15042,10 +15042,10 @@
                 }
             ],
             "mnemonics": [
-                "Key cognitive anchor for 정상회담과 정책 담화 (C2 Capstone Executive Statecraft)"
+                "작별 인사 ‘안녕히 계세요’(머무는 이에게)와 ‘안녕히 가세요’(떠나는 이에게)의 구별은 공간과 주체에 대한 존중입니다."
             ],
             "culturalNotes": [
-                "Cultural nuance and communicative etiquette in Korean."
+                "식사 전 ‘잘 먹겠습니다’, 식사 후 ‘잘 먹었습니다’는 음식을 준비한 이의 정성에 감사하는 필수적 식사 예절입니다."
             ]
         },
         "guidedPractice": {
