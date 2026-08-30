@@ -4995,53 +4995,62 @@
     "subject": "hindi",
     "unit": 12,
     "lessonNumber": 1,
-    "title": "संयुक्त क्रियाएं और सहायक धातुएं (Compound Verbs) (Part 1)",
+    "title": "समाप्ति और निश्चितता: 'जाना' रंजक क्रिया (Completion & Irreversibility with जाना)",
     "level": "B1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 12.1) with authentic linguistic precision.",
+    "objective": "मुख्य धातु के साथ 'जाना' रंजक क्रिया जोड़कर कार्य की संपूर्ण समाप्ति (Completion) व अपरिवर्तनीयता व्यक्त करना और भूतकाल में 'ने' के विलोप नियम को सिद्ध करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "हिंदी में **संयुक्त क्रिया** (Compound Verb) का निर्माण **'मुख्य क्रिया की मूल धातु + सहायक/रंजक क्रिया'** से होता है।\n\n1. 'जाना' रंजक क्रिया (Vector Verb 'जाना'):\n   - जब किसी कार्य के पूर्णतः समाप्त होने, स्थिति में अचानक व अपरिवर्तनीय बदलाव (Irreversible change) या प्रभाव के पूर्ण क्षय को दर्शाना हो, तब 'जाना' का प्रयोग होता है:\n     - **खा जाना** (to eat up / devour completely)\n     - **पी जाना** (to drink up)\n     - **सो जाना** (to fall asleep)\n     - **बैठ जाना** (to sit down)\n     - **टूट जाना** (to break down completely)\n     - **भूल जाना** (to forget completely)\n     - **मर जाना** (to pass away)।\n\n2. 'ने' परसर्ग का अत्यंत महत्वपूर्ण नियम (Zero Ergative 'ने' Rule):\n   - संयुक्त क्रिया की सकर्मकता/अकर्मकता का निर्धारण **रंजक (दूसरी) क्रिया** करती है। चूँकि 'जाना' अकर्मक है, अतः 'जाना' से बनी संयुक्त क्रियाओं के भूतकाल में **'ने' कभी नहीं लगता**:\n     - *रोहन सारा खाना खा गया* (Rohan ate up all the food) — ('रोहन ने खा गया' सर्वथा अशुद्ध है!)\n     - *मैं उसका नाम भूल गया* (I forgot his name)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 12.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 12."
+          "target": "भूखा नन्हा बालक मेज़ पर रखी हुई सभी ताज़ी गर्म रोटियाँ और स्वादिष्ट सब्ज़ी कुछ ही मिनटों में खा गया।",
+          "reading": "bhookha nanha baalak mez par rakhi huyi sabhi taazi garm rotiyaan aur svaadisht sabzi kuchh hi minton mein kha gaya. [bʱuːkʰaː nənɦaː baːlək meːz pər rəkʰiː hʊiː səbʱiː t̪aːziː ɡərm roːʈɪjaː̃ ɔːr sʋaːd̪ɪʂʈ səbziː kʊtʃʰ ɦiː mɪnʈõː mẽː kʰaː ɡəjaː] (BHOOKH-hah NUHN-hah BAH-luhk mayz puhr RUHKH-ee HOO-yee SUH-bhee TAH-zee guhrm roh-tee-YAHN owr svah-DEESHT SUHB-zee koochh hee MEEN-tohn mayn khah GUH-yah)",
+          "translation": "The hungry little boy ate up all the fresh hot rotis and delicious curry kept on the table in just a few minutes."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 12-1)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "दिनभर की कठिन और थकाऊ यात्रा के बाद वह सोफे पर बैठते ही अत्यंत गहरी और सुखद नींद में सो गया।",
+          "reading": "dinbhar ki kathin aur thakaaoo yaatra ke baad vah sofa par baithte hi atyant gehri aur sukhad neend mein so gaya. [d̪ɪnbʱər kiː kəʈʰɪn ɔːr t̪ʰəkaːuː jaːt̪raː keː baːd̪ ʋəɦ soːfaː pər bɛːʈʰt̪eː ɦiː ət̪jən̪t̪ ɡɛɦriː ɔːr sʊkʰəd̪ niːn̪d̪ mẽː soː ɡəjaː] (DEEN-bhuhr kee KUH-theen owr thuh-KAH-oo YAH-trah kay bahd vuh SOH-fah puhr BYTH-tay hee uht-YUHNT GUH-h-ree owr SOO-khuhd NEEND mayn soh GUH-yah)",
+          "translation": "After the difficult and exhausting journey of the entire day, as soon as he sat on the sofa he fell into an extremely deep and restful sleep."
+        },
+        {
+          "target": "पुराने शीशे की बहुत नाज़ुक खिड़की तेज़ आँधी और चक्रवाती तूफ़ान के तीव्र झोंके से अचानक टूट गई।",
+          "reading": "puraane sheeshe ki bahut naazuk khidki tez aandhi aur chakravaati toofaan ke teevr jhonke se achanak toot gayi. [pʊraːneː ʃiːʃeː kiː bəɦʊt̪ naːzʊk kʰɪɽkiː t̪eːz aː̃d̪ʱiː ɔːr tʃəkrəʋaːt̪iː t̪uːfaːn keː t̪iːʋr dʒʱõːkeː seː ətʃaːnək ʈuːʈ ɡəiː] (poo-RAH-nay SHEE-shay kee buh-hoot NAH-zook KHEED-kee tayz AHN-dhee owr chuhk-ruh-VAH-tee too-FAHN kay TEE-vruh JHOHN-kay say uh-CHAH-nuhk toot GUH-yee)",
+          "translation": "The very delicate window of old glass broke completely suddenly from the fierce gust of the severe storm and cyclone."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "जाना रंजक क्रिया = पूर्ण समाप्ति! 'खा गया' में 'ने' नहीं आता (वह खा गया, उसने खा गया नहीं)!"
+      ],
+      "culturalNotes": [
+        "बोलचाल में 'बात समझ में आ गई' (The point became understood) और 'वह चला गया' में 'जाना' का प्रयोग स्वाभाविक पूर्णता लाता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"छुट्टी\":",
+          "prompt": "वाक्य «वह सारा दूध ___» में 'पीना + जाना' का शुद्ध भूतकालिक रूप क्या है?",
           "options": [
-            "हम इस पाठ में इकाई 12.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («बैठक» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («योजना» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («अनुबंध» का अनुचित स्थान)"
+            "पी गया (Pee gaya - Drank up completely [no 'ne' with jaana])",
+            "ने पी लिया (Unnecessary 'ne' for simple intake)",
+            "पी दिया (Outward direction error)",
+            "पी पड़ा (Suddenness mismatch)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "जाना रंजक क्रिया के साथ अकर्मक अन्वय में «पी गया» आता है (कर्ता बिना 'ने' के)।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"छुट्टी\":",
+          "prompt": "सकर्मक धातु 'खाना' और रंजक 'जाना' के भूतकाल का शुद्ध रूप पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 12.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («योजना» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («अनुबंध» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («बैठक» का अशुद्ध रूप)"
+            "अमित सारा सेब खा गया (Amit saara seb kha gaya - Amit ate up the whole apple)",
+            "अमित ने सारा सेब खा गया (अशुद्ध 'ने' का प्रयोग)",
+            "अमित सेब को खा दिया (अनुचित रंजक धातु)",
+            "अमित सेब खा बैठा था (अनुचित पछतावा भाव)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "'जाना' रंजक क्रिया लगने से भूतकाल में 'ने' का प्रयोग वर्जित है, अतः «अमित सारा सेब खा गया» शुद्ध है।"
         }
       ]
     },
@@ -5049,17 +5058,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"छुट्टी\": Which sentence is completely correct?",
+          "prompt": "'जाना' रंजक क्रिया (Completion) के सटीक प्रयोग वाला शुद्ध वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 12.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («अनुबंध» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («बैठक» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («योजना» से संबंधित)"
+            "दवा की कड़वी गोली पानी के साथ निगलते ही मरीज़ तुरंत सो गया। (As soon as he swallowed the bitter medicine pill with water, the patient fell asleep immediately.)",
+            "दवा निगलते ही मरीज़ ने तुरंत सो गया।",
+            "मरीज़ सो दिया दवा खाकर।",
+            "मरीज़ नींद में सो बैठा।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«मरीज़ तुरंत सो गया» में 'सो जाना' का मानक प्रयोग है जहाँ 'ने' का सर्वथा अभाव है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u12-l2": {
@@ -5067,53 +5077,62 @@
     "subject": "hindi",
     "unit": 12,
     "lessonNumber": 2,
-    "title": "संयुक्त क्रियाएं और सहायक धातुएं (Compound Verbs) (Part 2)",
+    "title": "स्व-लाभ और अंतर्मुखी क्रिया: 'लेना' रंजक क्रिया (Self-Benefaction & Internal Action with लेना)",
     "level": "B1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 12.2) with authentic linguistic precision.",
+    "objective": "मुख्य धातु के साथ 'लेना' रंजक क्रिया जोड़कर कार्य का लाभ कर्ता को मिलने (Self-benefaction) और सकर्मक भूतकाल में 'ने' के अनिवार्य प्रयोग में निपुण होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "जब कोई कार्य कर्ता अपने स्वयं के लाभ (Self-benefit), आंतरिक समझ (Internalization) अथवा अपनी ओर निर्देशित करके करता है, तब **'लेना'** रंजक क्रिया का प्रयोग होता है:\n\n1. 'लेना' रंजक क्रिया के विशिष्ट अर्थ:\n   - **पढ़ लेना** (to read to oneself / for own understanding)\n   - **सीख लेना** (to learn / master for oneself)\n   - **समझ लेना** (to grasp / understand)\n   - **रख लेना** (to keep for oneself)\n   - **सोच लेना** (to think over / ponder carefully)\n   - **बना लेना** (to prepare for oneself)।\n\n2. 'ने' परसर्ग का नियम (Transitive 'ने' Rule with लेना):\n   - 'लेना' सकर्मक धातु है, अतः भूतकाल में कर्ता के साथ **'ने' अनिवार्य रूप से लगेगा** और क्रिया कर्म के अनुसार बदलेगी:\n     - *मैंने पुस्तक पढ़ ली* (I read the book [fem. sing. agreement]);\n     - *रोहन ने सभी प्रश्न हल कर लिए* (Rohan solved all questions [masc. plur. agreement])।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 12.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 12."
+          "target": "रोहन ने आगामी कठिन वार्षिक परीक्षा से पहले सभी जटिल व्याकरणिक नियमों को एकाग्रता से पढ़ लिया और भली-भाँति समझ लिया।",
+          "reading": "Rohan ne aagaami kathin vaarshik pareeksha se pehle sabhi jatil vyaakaranik niyamon ko ekaagrata se padh liya aur bhali-bhaanti samajh liya. [roːɦən neː aːɡaːmiː kəʈʰɪn ʋaːrʂɪk pəriːkʃaː seː pɛɦleː səbʱiː dʒəʈɪl ʋjaːkərəɳɪk nɪjəmõː koː eːkaːɡrət̪aː seː pəɽʱ lɪjaː ɔːr bʱəliː bʱaː̃t̪ɪ səmədʒʱ lɪjaː] (ROH-huhn nay ah-GAH-mee KUH-theen VAHR-sheek puh-REEK-shah say PEH-lay SUH-bhee JUH-teel vyah-kuh-RUH-neek NEE-yuh-mohn koh ay-KAHG-ruh-tah say pudh LEE-yah owr bhuh-LEE-BHAHN-tee suh-MUHJH LEE-yah)",
+          "translation": "Rohan read with concentration and understood thoroughly all the complex grammatical rules before the upcoming difficult annual exam."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 12-2)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "हमने नए देश की यात्रा पर जाने से पूर्व वहाँ के समाज में प्रयुक्त होने वाले बुनियादी व्यावहारिक वाक्य सीख लिए हैं।",
+          "reading": "humne naye desh ki yaatra par jaane se poorv vahaan ke samaaj mein prayukt hone vaale buniyaadi vyaavahaarik vaakya seekh liye hain. [ɦəmneː nəjeː d̪eːʃ kiː jaːt̪raː pər dʒaːneː seː puːrʋ ʋəɦaː̃ keː səmaːdʒ mẽː prəjʊkt̪ hoːneː ʋaːleː bʊnɪjaːd̪iː ʋjaːʋəɦaːrɪk ʋaːkjə siːkʰ lɪjeː hɛ̃ː] (huhm-NAY nuh-YAY daysh kee YAH-trah puhr JAH-nay say poorv vuh-HAHN kay suh-MAHJ mayn pruh-YOOKT hoh-NAY VAH-lay boo-nee-YAH-dee vyah-vuh-HAH-reek VAHK-yuh seekh LEE-yay hy-n)",
+          "translation": "Before going on a journey to a new country, we have learned the basic practical sentences used in that society."
+        },
+        {
+          "target": "आप किसी भी अंतिम और महत्वपूर्ण निर्णय पर पहुँचने से पहले सभी व्यावहारिक पक्षों के बारे में अच्छी तरह सोच लीजिए।",
+          "reading": "aap kisi bhi antim aur mahatvapoorna nirnay par pahunchne se pehle sabhi vyaavahaarik pakshon ke baare mein achhi tarah soch leejiye. [aːp kɪsiː bʱiː ən̪t̪ɪm ɔːr məɦət̪ʋəpuːrɳə nɪrɳəj pər pəɦʊntʃneː seː pɛɦleː səbʱiː ʋjaːʋəɦaːrɪk pəkʃõː keː baːreː mẽː ətʃːʰiː t̪ərəɦ soːtʃ liːdʒɪjeː] (ahp kee-SEE bhee UHN-teem owr muh-huht-vuh-POOR-nuh NEER-nuy puhr puh-HOONCH-nay say PEH-lay SUH-bhee vyah-vuh-HAH-reek PUHK-shohn kay BAH-ray mayn UHTCH-hee TUH-ruh sohch LEE-jee-yay)",
+          "translation": "Please think over thoroughly about all practical aspects before reaching any final and important decision."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "लेना = अपने लिए (मैंने सीख लिया)! Transitive vector verb → 'ने' लगेगा!"
+      ],
+      "culturalNotes": [
+        "भोजन के लिए शिष्टता से पूछने पर 'क्या आपने चाय पी ली?' या 'खाना खा लीजिए' में 'लेना' आत्म-संतुष्टि का भाव देता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"बैठक\":",
+          "prompt": "स्व-लाभ (Internal understanding) के लिए 'पढ़ना + लेना' का शुद्ध भूतकालिक वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 12.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («योजना» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («अनुबंध» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («व्यवसाय» का अनुचित स्थान)"
+            "छात्र ने सारा पाठ पढ़ लिया (Chhaatr ne saara paath padh liya - The student read the whole lesson for himself)",
+            "छात्र सारा पाठ पढ़ गया (अकर्मक भाव विहीन)",
+            "छात्र ने पाठ पढ़ दिया (पर-लाभ का गलत प्रयोग)",
+            "छात्र पाठ पढ़ बैठा (अनुचित पश्चाताप)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "आत्म-लाभ और सकर्मक भूतकाल हेतु «छात्र ने... पढ़ लिया» पूर्णतः शुद्ध है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"बैठक\":",
+          "prompt": "वाक्य «मैंने सभी आवश्यक निर्देश ध्यान से ___» में शुद्ध क्रिया रूप भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 12.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («अनुबंध» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («व्यवसाय» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («योजना» का अशुद्ध रूप)"
+            "सुन लिए हैं (Sun liye hain - Have listened carefully for oneself)",
+            "सुन दिया है (Outward direction error)",
+            "सुन गया हूँ (Intransitive vector mismatch with 'maine')",
+            "सुन पड़ा हूँ (Suddenness mismatch)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "कर्ता 'मैंने' और कर्म 'निर्देश' (पुल्लिंग बहुवचन) के साथ «सुन लिए हैं» शुद्ध है।"
         }
       ]
     },
@@ -5121,17 +5140,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"बैठक\": Which sentence is completely correct?",
+          "prompt": "'लेना' रंजक क्रिया (Self-Benefaction) के शुद्ध प्रयोग वाला वाक्य कौन-सा है?",
           "options": [
-            "हम इस पाठ में इकाई 12.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («व्यवसाय» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («योजना» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («अनुबंध» से संबंधित)"
+            "वकील ने मुवक्किल के सभी महत्वपूर्ण कागज़ात अपने पास रख लिए। (The lawyer kept all important documents of the client with himself.)",
+            "वकील कागज़ात रख गया था।",
+            "वकील ने कागज़ात रख दिया अपने पास।",
+            "वकील कागज़ात रख बैठा।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«वकील ने... रख लिए» में स्व-हित में कार्य संपन्न करने का सटीक प्रयोग है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u12-l3": {
@@ -5139,53 +5159,62 @@
     "subject": "hindi",
     "unit": 12,
     "lessonNumber": 3,
-    "title": "संयुक्त क्रियाएं और सहायक धातुएं (Compound Verbs) (Part 3)",
+    "title": "पर-लाभ और बहिर्मुखी क्रिया: 'देना' रंजक क्रिया (Other-Benefaction & Outward Action with देना)",
     "level": "B1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 12.3) with authentic linguistic precision.",
+    "objective": "मुख्य धातु के साथ 'देना' रंजक क्रिया जोड़कर कार्य का प्रभाव या लाभ दूसरों तक पहुँचाने (Other-benefaction) और 'लेना' बनाम 'देना' के विपरीतार्थक अंतर को स्पष्ट करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "जब किसी कार्य की दिशा बाहर की ओर (Outward) हो, अर्थात् कार्य किसी अन्य व्यक्ति के लाभ (Other-benefaction) या विसर्जन हेतु किया जाए, तब **'देना'** रंजक क्रिया का प्रयोग होता है:\n\n1. 'देना' रंजक क्रिया के प्रमुख रूप:\n   - **बता देना** (to tell someone / disclose)\n   - **समझा देना** (to explain to someone else)\n   - **भेज देना** (to send out)\n   - **लौटा देना** (to return / give back)\n   - **छोड़ देना** (to drop off / release)\n   - **सुना देना** (to narrate to others)।\n\n2. 'लेना' (Inward) बनाम 'देना' (Outward) का अंतर:\n   - *उसने किताब पढ़ ली* (He read the book for himself);\n   - *उसने सबको किताब पढ़कर सुना दी* (He read out the book to everyone);\n   - *मैंने रुपये रख लिए* (I kept the money) vs *मैंने रुपये लौटा दिए* (I returned the money)।\n\n3. भूतकाल में 'ने' का प्रयोग: 'देना' सकर्मक है, अतः कर्ता के साथ **'ने'** अवश्य आता है।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 12.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 12."
+          "target": "अनुभवी अध्यापक ने सभी जिज्ञासु विद्यार्थियों को आगामी कठिन परीक्षा की पूरी रूपरेखा विस्तार से समझा दी।",
+          "reading": "anubhavi adhyaapak ne sabhi jigyaasu vidyaarthiyon ko aagaami kathin pareeksha ki poori rooprekha vistaar se samjha di. [ənʊbʱəʋiː əd̪ʱjaːpək neː səbʱiː dʒɪɡjaːsʊ ʋɪd̪jaːrt̪ʰɪjõː koː aːɡaːmiː kəʈʰɪn pəriːkʃaː kiː puːriː ruːpreːkʰaː ʋɪst̪aːr seː səmədʒʱaː d̪iː] (uh-noobh-HUH-vee uhdh-YAH-puhk nay SUH-bhee jeeg-YAH-soo veed-YAHR-thee-yohn koh ah-GAH-mee KUH-theen puh-REEK-shah kee POO-ree ROOP-ray-khah vees-TAHR say suh-MUHJH-ah dee)",
+          "translation": "The experienced teacher explained in detail the complete blueprint of the upcoming difficult examination to all curious students."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 12-3)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "मैंने अपने विदेशी मित्र को ईमेल द्वारा सभी आवश्यक आधिकारिक दस्तावेज़ और पारिवारिक तस्वीरें तुरंत भेज दी हैं।",
+          "reading": "maine apne videshi mitr ko email dvaara sabhi aavashyak aadhikaarik dastaavez aur paarivaarik tasveerein turant bhej di hain. [mɛːnneː əpneː ʋɪd̪eːʃiː mɪt̪r koː iːmeːl d̪ʋaːraː səbʱiː aːʋəʃjək aːd̪ʱɪkaːrɪk d̪əst̪aːʋeːz ɔːr paːrɪʋaːrɪk t̪əsʋiːrẽː t̪ʊrən̪t̪ bʱeːdʒ d̪iː hɛ̃ː] (MY-nay uhp-NAY vee-DAY-shee MEEN-truh koh EE-mayl dvah-RAH SUH-bhee ah-vush-YAHK ah-dhee-KAH-reek duhs-tah-VAYZ owr pah-ree-VAH-reek tuhs-vee-RAYN TOO-ruhnt bhayj dee hy-n)",
+          "translation": "I have sent immediately all necessary official documents and family photographs to my foreign friend via email."
+        },
+        {
+          "target": "कृपया आज शाम की महत्वपूर्ण बैठक से पूर्व मुझे अपनी नई व्यावसायिक परियोजना की पूरी जानकारी स्पष्ट रूप से बता दीजिए।",
+          "reading": "kripya aaj shaam ki mahatvapoorna baithak se poorv mujhe apni nayi vyaavasaayik pariyojana ki poori jaankaari spasht roop se bata deejiye. [krɪpəjaː aːdʒ ʃaːm kiː məɦət̪ʋəpuːrɳə bɛːʈʰək seː puːrʋ mʊdʒʱeː əpniː nəiː ʋjaːʋəsaːjɪk pərɪjoːdʒnaː kiː puːriː dʒaːnkaːriː spəʂʈ ruːp seː bət̪aː d̪iːdʒɪjeː] (KREEP-yah ahj shahm kee muh-huht-vuh-POOR-nuh BY-thuhk say poorv MOO-jhay uhp-NEE nuh-EE vyah-vuh-SAH-yeek puh-ree-YOHJ-nah kee POO-ree jahn-KAH-ree spuhsht ROOP say buh-TAH DEE-jee-yay)",
+          "translation": "Please tell me clearly the complete information about your new commercial project before this evening's important meeting."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "देना = दूसरों के लिए (उसने बता दिया)! लेना (Inward) vs देना (Outward)!"
+      ],
+      "culturalNotes": [
+        "भारतीय शिष्टाचार में किसी का काम पूरा करके 'मैंने आपका पत्र पहुँचा दिया है' कहना परोपकार व निष्ठा का प्रतीक है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"योजना\":",
+          "prompt": "दूसरों को सूचित करने (Other-directed action) हेतु कौन-सा वाक्य व्याकरणिक रूप से सही है?",
           "options": [
-            "हम इस पाठ में इकाई 12.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («अनुबंध» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («व्यवसाय» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («किताब» का अनुचित स्थान)"
+            "मैंने सबको सूचना दे दी (Maine sabko soochna de di - I gave/conveyed the information to all)",
+            "मैंने सबको सूचना ले ली (अर्थ का अनर्थ: खुद सूचना ले ली)",
+            "मैं सबको सूचना दे गया (अस्वाभाविक प्रयोग)",
+            "मैंने सबको सूचना दे पड़ा (असंगत आकस्मिकता)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "दूसरों को सूचना देने के लिए 'देना' रंजक क्रिया «दे दी» प्रयुक्त होती है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"योजना\":",
+          "prompt": "वाक्य «माँ ने बच्चे को सुंदर कहानी ___» में सही संयुक्त क्रिया रूप भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 12.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («व्यवसाय» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («किताब» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («अनुबंध» का अशुद्ध रूप)"
+            "सुना दी (Suna di - Narrated outward to the child)",
+            "सुना ली (Internalization error)",
+            "सुना गई (Intransitive vector error)",
+            "सुना बैठी (Foolish action error)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "बच्चे को कहानी सुनाने का बहिर्मुखी प्रभाव होने से «सुना दी» शुद्ध है।"
         }
       ]
     },
@@ -5193,17 +5222,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"योजना\": Which sentence is completely correct?",
+          "prompt": "'देना' रंजक क्रिया (Other-Benefaction) के सटीक अन्वय वाला वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 12.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («किताब» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («अनुबंध» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («व्यवसाय» से संबंधित)"
+            "अधिकारी ने क्लर्क को सभी पत्राचार तुरंत डाक से भेजने का आदेश दे दिया। (The officer gave the order to the clerk to send all correspondence by post immediately.)",
+            "अधिकारी ने आदेश ले लिया क्लर्क को।",
+            "अधिकारी आदेश दे गया क्लर्क को।",
+            "अधिकारी आदेश दे बैठा क्लर्क को।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«अधिकारी ने... आदेश दे दिया» में बहिर्मुखी निर्देशन का शुद्ध प्रयोग है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u12-l4": {
@@ -5211,53 +5241,62 @@
     "subject": "hindi",
     "unit": 12,
     "lessonNumber": 4,
-    "title": "संयुक्त क्रियाएं और सहायक धातुएं (Compound Verbs) (Part 4)",
+    "title": "आकस्मिकता और भावोद्रेक: 'पड़ना', 'उठना', 'बैठना' (Suddenness, Eruption & Rash Actions with पड़ना, उठना, बैठना)",
     "level": "B1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 12.4) with authentic linguistic precision.",
+    "objective": "अचानक घटने वाली घटनाओं (पड़ना), तीव्र भावनात्मक विस्फोट (उठना) और बिना सोचे-समझे किए गए अविवेकपूर्ण कार्यों (बैठना) के रंजक प्रयोग में निपुणता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "हिंदी में विशेष मनोवैज्ञानिक और आवेगात्मक स्थितियों को व्यक्त करने हेतु तीन विशिष्ट रंजक क्रियाएं प्रयुक्त होती हैं:\n\n1. **'पड़ना' (Suddenness / Involuntary Occurrence)**:\n   - अचानक अनपेक्षित रूप से कोई क्रिया घटित होना:\n     - *हँस पड़ना* (to burst into laughter);\n     - *रो पड़ना* (to burst into tears);\n     - *गिर पड़ना* (to fall down suddenly);\n     - *चमक पड़ना* (to shine suddenly)।\n     - (नियम: पड़ना अकर्मक है, अतः भूतकाल में 'ने' नहीं लगता: *बच्चा रो पड़ा*)।\n\n2. **'उठना' (Sudden Emotional Eruption / Surge)**:\n   - भय, क्रोध या आश्चर्य से अचानक कोई तीव्र प्रतिक्रिया होना:\n     - *काँप उठना* (to shudder / tremble with fear);\n     - *चीख उठना* (to scream out);\n     - *चौंक उठना* (to be startled);\n     - *जाग उठना* (to awaken suddenly)।\n     - (नियम: अकर्मक, भूतकाल में 'ने' नहीं लगता: *वह डर से काँप उठा*)।\n\n3. **'बैठना' (Rash / Regrettable / Foolish Mistake)**:\n   - बिना विचारे, मूर्खतापूर्ण या पश्चातापकारी कार्य करना:\n     - *कर बैठना* (to do something rashly);\n     - *कह बैठना* (to blurt out regrettably);\n     - *लड़ बैठना* (to pick a fight foolishly)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 12.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 12."
+          "target": "विदूषक का अत्यंत हास्यप्रद और विचित्र अभिनय देखकर विशाल सभागार में उपस्थित सभी दर्शक अचानक ज़ोर-ज़ोर से हँस पड़े।",
+          "reading": "vidooshak ka atyant haasyaprad aur vichitr abhinay dekhkar vishaal sabhaagaar mein upasthit sabhi darshak achanak zor-zor se hans pade. [ʋɪd̪uːʂək kaː ət̪jən̪t̪ ɦaːsjəprəd̪ ɔːr ʋɪtʃɪt̪r əbʱɪnəj d̪eːkʰkər ʋɪʃaːl səbʱaːɡaːr mẽː ʊpəst̪ʰɪt̪ səbʱiː d̪ərʃək ətʃaːnək zoːr zoːr seː ɦə̃s pəɽeː] (vee-DOO-shuhk kah uht-YUHNT hahs-yuh-PRUHD owr vee-CHEE-truh uhbh-ee-NUHY daykh-kuhr vee-SHAHL suh-bhah-GAHR mayn oo-puhs-THEET SUH-bhee DUHR-shuhk uh-CHAH-nuhk zohr zohr say huhns PUH-day)",
+          "translation": "Seeing the extremely comical and peculiar performance of the clown, all spectators present in the huge auditorium suddenly burst into loud laughter."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 12-4)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "रात के घने सन्नाटे और अँधेरे में अचानक एक भयानक आवाज़ सुनकर वह छोटा बालक भय से काँप उठा और चीख पड़ा।",
+          "reading": "raat ke ghane sannaate aur andhere mein achanak ek bhayanak aavaaz sunkar vah chhota baalak bhay se kaamp utha aur cheekh pada. [raːt̪ keː ɡʱəneː sənːaːʈeː ɔːr ə̃d̪ʱeːreː mẽː ətʃaːnək eːk bʱəjaːnək aːʋaːz sʊnkər ʋəɦ tʃʰoːʈaː baːlək bʱəj seː kaː̃p ʊtʰaː ɔːr tʃiːkʰ pəɽaː] (raht kay ghuh-NAY suhn-NAH-tay owr uhn-DHAY-ray mayn uh-CHAH-nuhk ayk bhuh-YAH-nuhk ah-VAHZ soon-kuhr vuh CHHOH-tah BAH-luhk bhuy say KAHMP OO-thah owr cheekh PUH-dah)",
+          "translation": "Hearing a terrifying sound suddenly in the dense silence and darkness of the night, that little boy shuddered with fear and screamed out."
+        },
+        {
+          "target": "अत्यधिक उत्तेजना, क्रोध और आवेश में आकर वह अकारण ही अपने सबसे पुराने और सच्चे मित्र से बुरी तरह लड़ बैठा।",
+          "reading": "atyadhik uttejana, krodh aur aavesh mein aakar vah akaaran hi apne sabse puraane aur sachhe mitr se buri tarah lad baitha. [ət̪jəd̪ʱɪk ʊt̪ːeːdʒnaː kroːd̪ʱ ɔːr aːʋeːʃ mẽː aːkər ʋəɦ əkaːrəɳ ɦiː əpneː səbseː pʊraːneː ɔːr sətʃːeː mɪt̪r seː bʊriː t̪ərəɦ ləɽ bɛːʈʰaː] (uht-yudh-HEEK oot-tayj-NAH, krohdh owr ah-VAYSH mayn ah-kuhr vuh uh-KAH-ruhn hee uhp-NAY SUHB-say poo-RAH-nay owr SUHTCH-chay MEEN-truh say BOO-ree TUH-ruh luhd BY-thah)",
+          "translation": "Coming under excessive agitation, anger, and passion, he rashly picked a severe fight without any cause with his oldest and truest friend."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "पड़ना = अचानक (हँस पड़ा); उठना = डर/आवेग (काँप उठा); बैठना = मूर्खता (लड़ बैठा)!"
+      ],
+      "culturalNotes": [
+        "हिंदी कथा-साहित्य में मानवीय भावनाओं के अचानक विस्फोट को जीवंत बनाने के लिए 'रो पड़ी', 'काँप उठा' जैसे रंजक अत्यंत लोकप्रिय हैं।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"अनुबंध\":",
+          "prompt": "भय से अचानक काँपने (Sudden emotional eruption) के लिए शुद्ध संयुक्त क्रिया क्या है?",
           "options": [
-            "हम इस पाठ में इकाई 12.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («व्यवसाय» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («किताब» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («संगीत» का अनुचित स्थान)"
+            "काँप उठा (Kaamp utha - Shuddered/trembled with sudden fear)",
+            "काँप लिया (Self-benefit mismatch)",
+            "काँप दिया (Outward benefaction mismatch)",
+            "काँप बैठा (Foolish deliberate action mismatch)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "भय या आश्चर्य के अचानक भावोद्रेक के लिए 'उठना' रंजक क्रिया «काँप उठा» प्रयुक्त होती है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"अनुबंध\":",
+          "prompt": "क्रोध में बिना सोचे-समझे किए गए अविवेकपूर्ण कार्य (Rash/Regrettable act) वाला वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 12.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («किताब» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («संगीत» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («व्यवसाय» का अशुद्ध रूप)"
+            "वह आवेश में आकर कड़वी बात कह बैठा (Vah aavesh mein aakar katu baat kah baitha - In anger, he rashly blurted out a bitter remark)",
+            "वह कड़वी बात कह दिया (सामान्य कथन)",
+            "वह कड़वी बात कह लिया (आत्म-लाभ का अशुद्ध रूप)",
+            "वह कड़वी बात कह गया (तटस्थ रूप)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "अविवेकपूर्ण या पछतावे वाले कार्य के लिए 'बैठना' रंजक धातु «कह बैठा» प्रयुक्त होती है।"
         }
       ]
     },
@@ -5265,17 +5304,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"अनुबंध\": Which sentence is completely correct?",
+          "prompt": "आकस्मिकता और अविवेक के रंजक रूपों वाला पूर्णतः शुद्ध वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 12.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («संगीत» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («व्यवसाय» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («किताब» से संबंधित)"
+            "दुखद समाचार सुनते ही वह अचानक रो पड़ी और अपने भाग्य को कोस बैठी। (Upon hearing the sad news she suddenly burst into tears and rashly blamed her fate.)",
+            "दुखद समाचार सुनकर वह रो दी और कोस ली।",
+            "समाचार सुनकर उसने रो पड़ी।",
+            "समाचार सुनकर वह रो गया।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«रो पड़ी» (आकस्मिक रोना) और «कोस बैठी» (अविवेकपूर्ण कृत्य) दोनों का समन्वय व्याकरणिक और संवेदनात्मक दृष्टि से पूर्णतः शुद्ध है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u12-l5": {
@@ -5283,53 +5323,62 @@
     "subject": "hindi",
     "unit": 12,
     "lessonNumber": 5,
-    "title": "संयुक्त क्रियाएं और सहायक धातुएं (Compound Verbs) (Part 5)",
+    "title": "संयुक्त क्रियाओं का समेकन व रंजक क्रियाओं का चयन नियम (Compound Verbs Synthesis & Semantic Matrix)",
     "level": "B1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 12.5) with authentic linguistic precision.",
+    "objective": "पाँचों रंजक क्रियाओं (जाना, लेना, देना, पड़ना, उठना/बैठना) के सूक्ष्म अर्थ-भेदों का संश्लेषण करना और नकारात्मक वाक्यों में संयुक्त क्रियाओं के निषेध नियम में पूर्ण दक्षता पाना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "संयुक्त क्रियाओं (Compound Verbs) की समग्र वर्गीकरण तालिका और प्रयोग के सार्वभौमिक नियम:\n\n1. पाँच प्रमुख रंजक क्रियाओं का सार-संक्षेप:\n   - **1. जाना**: पूर्ण समाप्ति / अपरिवर्तनीयता / अकर्मक (खा जाना, सो जाना, टूट जाना — 'ने' रहित);\n   - **2. लेना**: स्व-लाभ / अंतर्मुखी / सकर्मक (पढ़ लेना, सीख लेना, समझ लेना — 'ने' सहित);\n   - **3. देना**: पर-लाभ / बहिर्मुखी / सकर्मक (समझा देना, भेज देना, बता देना — 'ने' सहित);\n   - **4. पड़ना / उठना**: आकस्मिकता / भावोद्रेक / अकर्मक (हँस पड़ना, काँप उठना — 'ने' रहित);\n   - **5. बैठना**: अविवेक / मूर्खता / पश्चाताप (कह बैठना, लड़ बैठना, कर बैठना)।\n\n2. नकारात्मक वाक्यों में रंजक क्रिया का निषेध (Prohibition in Negatives):\n   - हिंदी में सामान्य निषेध (Simple Negative) वाक्यों में रंजक क्रिया हट जाती है:\n     - *सकारात्मक*: मैंने पुस्तक पढ़ ली (I read the book);\n     - *नकारात्मक*: मैंने पुस्तक नहीं पढ़ी (I didn't read the book) — ('मैंने पुस्तक नहीं पढ़ ली' अमानक है)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 12.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 12."
+          "target": "जब उसने मुझे पूरी सच्चाई विस्तार से बता दी, तब मैंने मन ही मन सब कुछ समझ लिया और शांति से अपनी कुर्सी पर बैठ गया।",
+          "reading": "jab usne mujhe poori sachhaai vistaar se bata di, tab maine man hi man sab kuchh samajh liya aur shaanti se apni kursi par baith gaya. [dʒəb ʊsneː mʊdʒʱeː puːriː sətʃːʰaːiː ʋɪst̪aːr seː bət̪aː d̪iː t̪əb mɛːnneː mən ɦiː mən səb kʊtʃʰ səmədʒʱ lɪjaː ɔːr ʃaːn̪t̪iː seː əpniː kʊrsiː pər bɛːʈʰ ɡəjaː] (juhb oos-NAY MOO-jhay POO-ree suhtch-CHAH-ee vees-TAHR say buh-TAH dee, tuhb MY-nay muhn hee muhn suhb koochh suh-MUHJH LEE-yah owr SHAHN-tee say uhp-NEE KOOR-see puhr BYTH GUH-yah)",
+          "translation": "When he explained the whole truth to me in detail, then I understood everything in my mind and sat down peacefully on my chair."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 12-5)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "वह बिना विचारे अत्यधिक क्रोध में ऐसी कटु बात कह बैठा जिसे सुनकर उसका संवेदनशील छोटा भाई अचानक रो पड़ा।",
+          "reading": "vah bina vichaare atyadhik krodh mein aisi katu baat kah baitha jise sunkar uska samvedansheel chhota bhai achanak ro pada. [ʋəɦ bɪnaː ʋɪtʃaːreː ət̪jəd̪ʱɪk kroːd̪ʱ mẽː ɛːsiː kəʈʊ baːt̪ kəɦ bɛːʈʰaː dʒɪseː sʊnkər ʊskaː səmʋeːd̪ənʃiːl tʃʰoːʈaː bʱaːiː ətʃaːnək roː pəɽaː] (vuh BEE-nah vee-CHAH-ray uht-yudh-HEEK krohdh mayn EYE-see KUH-too baht kuh BY-thah jee-SAY soon-kuhr oos-KAH suhm-vay-duhn-SHEEL CHHOH-tah bhah-EE uh-CHAH-nuhk roh PUH-dah)",
+          "translation": "Without thinking in extreme anger, he rashly blurted out such a bitter word upon hearing which his sensitive younger brother suddenly burst into tears."
+        },
+        {
+          "target": "मानक हिंदी में सकारात्मक रूप 'मैंने अपना काम कर लिया है' होता है, किंतु नकारात्मक रूप में प्रायः 'मैंने काम नहीं किया' कहा जाता है।",
+          "reading": "maanak hindi mein sakaaraatmak roop 'maine apna kaam kar liya hai' hota hai, kintu nakaaraatmak roop mein praayah 'maine kaam nahin kiya' kaha jaata hai. [maːnək ɦɪn̪d̪iː mẽː səkaːraːt̪mək ruːp mɛːnneː əpnaː kaːm kər lɪjaː hɛː hoːt̪aː hɛː kɪn̪t̪ʊ nəkaːraːt̪mək ruːp mẽː praːjəɦ mɛːnneː kaːm nəɦĩː kɪjaː kəɦaː dʒaːt̪aː hɛː] (MAH-nuhk HEEN-dee mayn suh-kah-RAHT-muhk roop 'MY-nay uhp-NAH kahm kuhr LEE-yah hy' hoh-TAH hy, KEEN-too nuh-kah-RAHT-muhk roop mayn PRAH-yuh 'MY-nay kahm nuh-HEEN kee-YAH' KUH-hah jah-TAH hy)",
+          "translation": "In standard Hindi, the positive form is 'I have completed my work', but in the negative form usually 'I did not do the work' is spoken."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "जाना (पूर्ण), लेना (स्व), देना (पर), पड़ना (अचानक), बैठना (भूल)! नकारात्मक में रंजक क्रिया प्रायः हट जाती है!"
+      ],
+      "culturalNotes": [
+        "संयुक्त क्रियाओं का सही चयन हिंदी भाषा में वक्ता के मनोभाव, उद्देश्य और संवेदनशीलता को सबसे जीवंत अभिव्यक्ति प्रदान करता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"व्यवसाय\":",
+          "prompt": "सकारात्मक वाक्य «उसने खाना खा लिया» का मानक नकारात्मक रूप क्या होगा?",
           "options": [
-            "हम इस पाठ में इकाई 12.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («किताब» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («संगीत» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («फ़िल्म» का अनुचित स्थान)"
+            "उसने खाना नहीं खाया (Usne khaana nahin khaaya - Standard negative drops the vector verb)",
+            "उसने खाना नहीं खा लिया (अमानक नकारात्मक रचना)",
+            "उसने खाना नहीं खा दिया (अनुचित रंजक धातु)",
+            "उसने खाना नहीं खा गया (अकर्मक दोष)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "मानक हिंदी में नकारात्मक वाक्यों में रंजक क्रिया हटकर मुख्य क्रिया का सामान्य भूतकाल «उसने खाना नहीं खाया» बनता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"व्यवसाय\":",
+          "prompt": "रंजक क्रियाओं के सही मिलान वाला वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 12.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («संगीत» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («फ़िल्म» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («किताब» का अशुद्ध रूप)"
+            "मैंने पत्र लिख लिया और डाकिया को दे दिया (Maine patr likh liya aur daakiya ko de diya - I wrote the letter for myself and gave it to the postman)",
+            "मैंने पत्र लिख दिया खुद के लिए (स्व-लाभ में 'देना' का गलत प्रयोग)",
+            "मैंने डाकिया को पत्र ले लिया (बहिर्मुखी में 'लेना' का गलत प्रयोग)",
+            "मैं पत्र लिख बैठा शांति से (शांतिपूर्ण कार्य में 'बैठना' का अनुपयुक्त प्रयोग)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "खुद लिखने के लिए «लिख लिया» (स्व-लाभ) और डाकिया को देने के लिए «दे दिया» (पर-लाभ) का समन्वय पूर्णतः शुद्ध है।"
         }
       ]
     },
@@ -5337,17 +5386,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"व्यवसाय\": Which sentence is completely correct?",
+          "prompt": "संयुक्त क्रियाओं की संपूर्ण संरचना का प्रामाणिक वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 12.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («फ़िल्म» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («किताब» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («संगीत» से संबंधित)"
+            "अध्यापक ने पाठ समझा दिया, छात्रों ने उसे समझ लिया, और घंटी बजते ही सब बाहर चले गए। (Teacher explained the lesson, students understood it, and as bell rang all went outside.)",
+            "अध्यापक ने पाठ समझा लिया छात्रों को।",
+            "छात्रों ने पाठ समझ दिया अपने लिए।",
+            "घंटी बजते ही सब बाहर चल दिए बिना कारण।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«समझा दिया» (पर-लाभ), «समझ लिया» (स्व-लाभ), और «चले गए» (पूर्णता) तीनों का समन्वय व्याकरणिक रूप से आदर्श है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u13-l1": {
