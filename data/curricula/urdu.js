@@ -10735,53 +10735,62 @@
     "subject": "urdu",
     "unit": 26,
     "lessonNumber": 1,
-    "title": "اردو افسانہ، ناول اور نثری شاہکار (Urdu Fiction) (Part 1)",
+    "title": "افسانہ نگاری کے ارکان، پلاٹ اور کردار نگاری (Urdu Short Story: Plot & Characterization)",
     "level": "C1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 26.1) with authentic precision.",
+    "objective": "اردو افسانہ نگاری کے بنیادی ارکان (وحدتِ تاثر، پلاٹ، کردار نگاری، نکتۂ عروج / کلائمیکس، مکالمہ نگاری) کے فصیح و ناقدانہ بیانیے پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں افسانہ نگاری کے فنی ارکان اور تنقید (Urdu Short Story Technique):\n\n1. **افسانے کے بنیادی اجزائے ترکیبی**:\n   - «**وحدتِ تاثر (Unity of Impression / Effect)**»: افسانے کی بنیادی روح؛\n   - «**پلاٹ کی ساخت (Plot Structure)**»: واقعات کا مربوط، منطقی اور چست تانا بانا؛\n   - «**کردار نگاری (Characterization)**»: ظاہری اور باطنی نفسیاتی کشمکش کا بیان؛\n   - «**مکالمہ نگاری (Dialogue)**»: شستہ، برجستہ اور فطری گفتگو؛\n   - «**نکتۂ عروج (Climax)**»: کہانی کا سنسنی خیز اور اثر انگیز موڑ۔\n\n2. **منٹو اور پریم چند کی افسانوی روایت**:\n   - حقیقت پسندی اور نچلے طبقات کے زندہ کردار۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "اردو افسانے میں وحدتِ تاثر اور چست پلاٹ کی بدولت قاری ابتدا سے لے کر نکتۂ عروج تک کہانی کے سحر میں جکڑا رہتا ہے۔",
+          "reading": "Urdu afsaanay mein wahdat-e-ta'assur aur chust plot ki badawlat qaari ibtida se lay kar nuqta-e-urooj tak kahaani ke sehar mein jakra rehta hai. [ʊrd̪uː əfsaːneː mẽː ʋəhd̪ət̪-eː-t̪əʔəsːʊr ɔːr tʃʊst̪ plɔːʈ kiː bəd̪ɔːlət̪ qaːriː ɪbt̪ɪd̪aː seː leː kər nʊqt̪aː-jeː-ʊruːdʒ t̪ək kəhaːniː keː sɪɦr mẽː dʒəkɽaː rɛhtaː hɛː] (OOR-doo uhf-SAH-nay mayn wuh-DUHT-ay-tuh-UHS-soor owr CHOOHST plot kee buh-DOW-luht QAH-ree eeb-tee-DAH say LAY kuhr NOOQ-tah-ay-oo-ROOJ tuhk kuh-hah-NEE kay SEE-huhr mayn juhk-RAH ryh-TAH HY)",
+          "translation": "Owing to unity of impression [literary term: wahdat-e-ta'assur] and a tight plot in the Urdu short story, the reader remains spellbound in the narrative from inception to climax [nuqta-e-urooj]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 26-1)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "منٹو کے افسانوں کی سب سے بڑی طاقت ان کی بے باک کردار نگاری اور حقیقت پسندانہ نکتۂ عروج میں مضمر ہے۔",
+          "reading": "Manto ke afsaanon ki sab se barri taaqat un ki bay-baak kirdaar nigaari aur haqeeqat-pasandaana nuqta-e-urooj mein muzmar hai. [mənʈoː keː əfsaːnõː kiː səb seː bəɽiː t̪aːqət̪ ʊn kiː beː-baːk kɪrdaːr nɪɡaːriː ɔːr həqiːqət̪-pəsənd̪aːnaː nʊqt̪aː-jeː-ʊruːdʒ mẽː mʊzmər hɛː] (muhn-TOH kay uhf-sah-NOHN kee SUHB say buh-REE TAH-quht OON kee bay-BAHK keer-DAHR nee-gah-REE owr huh-qee-quht-puh-suhn-DAH-nah NOOQ-tah-ay-oo-ROOJ mayn mooz-MUHR HY)",
+          "translation": "The greatest strength of Manto's short stories lies concealed in their fearless characterization [kirdaar nigaari] and realistic climax."
+        },
+        {
+          "target": "افسانہ نگار نے مکالموں کے ذریعے سماجی طبقاتی تضادات اور انسانی نفسیات کے پیچیدہ تار و پود کو کمال مہارت سے نمایاں کیا۔",
+          "reading": "Afsaana nigaar ne mukaalmon ke zariye samaaji tabaqaati tazaadaat aur insaani nafsiyaat ke pecheeda taar-o-pood ko kamaal-e-mahaarat se numaayan kiya. [əfsaːnaː nɪɡaːr neː mʊkaːlmõː keː zərɪjeː səmaːdʒiː t̪əbəqaːt̪iː t̪əzaːd̪aːt̪ ɔːr ɪnsaːniː nəfsɪjaːt̪ keː peːtʃiːd̪aː t̪aːr-oː-puːd̪ koː kəmaːl-eː-məhaːrət̪ seː nʊmaːjõː kɪjaː] (uhf-sah-NAH nee-GAHR nay moo-kahl-MOHN kay zuh-ree-YAY suh-mah-JEE tuh-buh-qah-TEE tuh-zah-DAHT owr een-sah-NEE nuhf-see-YAHT kay pay-chee-DAH TAHR-oh-POOD koh kuh-MAHL-ay-muh-hah-RUHT say noo-mah-YAHN kee-YAH)",
+          "translation": "Through dialogues, the short-story writer masterfully highlighted the social class contradictions and the intricate fabric of human psychology."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "ارکانِ افسانہ: وحدتِ تاثر + چست پلاٹ + جاندار کردار نگاری + مکالمے + نکتۂ عروج (کلائمیکس)!"
+      ],
+      "culturalNotes": [
+        "اردو افسانہ سعادت حسن منٹو، بانو قدسیہ، پریم چند اور عصمت چغتائی کے قلم سے نکل کر عالمی ادب کے ہم پلہ شاہکار بنا۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"تیز\":",
+          "prompt": "افسانے کی اس بنیادی خوبی کو کیا کہتے ہیں جس کی وجہ سے پوری کہانی ایک واحد اور گہرا تاثر قائم کرتی ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («آہستہ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («نیا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («پرانا» کی خرابی)"
+            "وحدتِ تاثر (Wahdat-e-ta'assur - Unity of impression / Singular emotional effect)",
+            "صرف اخبار کی خبر",
+            "صرف خط لکھنا",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "افسانے کی روح کو «وحدتِ تاثر» (Unity of Effect) کہا جاتا ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"تیز\":",
+          "prompt": "افسانے یا ڈرامے کے اس انتہائی ہیجان انگیز موڑ کو کیا کہتے ہیں جہاں کہانی اپنے عروج پر پہنچتی ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («نیا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («پرانا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («آہستہ» کا غیر درست استعمال)"
+            "نکتۂ عروج / کلائمیکس (Nuqta-e-urooj - Narrative Climax / Peak of dramatic tension)",
+            "دیباچہ",
+            "فہرست",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "کہانی کے جذباتی اور ڈرامائی انتہا کو «نکتۂ عروج» (Climax) کہتے ہیں۔"
         }
       ]
     },
@@ -10789,89 +10798,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"تیز\": Which sentence is completely correct?",
+          "prompt": "اردو افسانہ نگاری کے فنی ارکان (Urdu Short Story Technique) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («پرانا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («آہستہ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («نیا» سے متعلق)"
+            "اردو افسانہ وحدتِ تاثر، حقیقت پسندانہ کردار نگاری اور فطری مکالموں کے ذریعے انسانی نفسیات کو نکتۂ عروج پر پہنچا کر لافانی تاثر چھوڑتا ہے۔ (The Urdu short story, via unity of impression, realistic characterization, and natural dialogues, takes human psychology to a climax leaving an immortal impact.)",
+            "افسانے نے چائے میں بسکٹ ڈبو کر گاڑی چلائی تھی۔",
+            "وحدت تاثر صرف بازار کی دکان کو کہتے ہیں۔",
+            "افسانے میں کردار نگاری کرنا منع ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
-        }
-      ]
-    }
-  },
-  "ur-u26-l1": {
-    "id": "ur-u26-l1",
-    "subject": "urdu",
-    "unit": 26,
-    "lessonNumber": 1,
-    "title": "آئینی حکمرانی، پارلیمان اور عدالتی اصطلاحات (Law) (Part 1)",
-    "level": "C1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 26.1) with authentic precision.",
-    "presentation": {
-      "explanation": "",
-      "examples": [
-        {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
-        },
-        {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 26-1)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "explanation": "«اردو افسانہ وحدتِ تاثر، حقیقت پسندانہ کردار نگاری اور فطری مکالموں کے ذریعے انسانی نفسیات کو نکتۂ عروج پر پہنچا کر لافانی تاثر چھوڑتا ہے۔» افسانوی تنقید کا مستند ترین جملہ ہے۔"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
-    },
-    "guidedPractice": {
-      "items": [
-        {
-          "prompt": "Select the authentic standard sentence practicing \"آہستہ\":",
-          "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («نیا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («پرانا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («اچھا» کی خرابی)"
-          ],
-          "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
-        }
-      ]
-    },
-    "independentPractice": {
-      "items": [
-        {
-          "prompt": "Identify the linguistically natural exemplar featuring \"آہستہ\":",
-          "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («پرانا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («اچھا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («نیا» کا غیر درست استعمال)"
-          ],
-          "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
-        }
-      ]
-    },
-    "checkpointTest": {
-      "items": [
-        {
-          "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"آہستہ\": Which sentence is completely correct?",
-          "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («اچھا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («نیا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («پرانا» سے متعلق)"
-          ],
-          "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
-        }
-      ]
+      "passThreshold": 0.8
     }
   },
   "ur-u26-l2": {
@@ -10879,53 +10817,62 @@
     "subject": "urdu",
     "unit": 26,
     "lessonNumber": 2,
-    "title": "آئینی حکمرانی، پارلیمان اور عدالتی اصطلاحات (Law) (Part 2)",
+    "title": "اردو ناول کی روایت، طویل بیانیہ اور ارتقا (Urdu Novel: Epic Narrative & Evolution)",
     "level": "C1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 26.2) with authentic precision.",
+    "objective": "اردو ناول کے ارتقا (امراؤ جان ادا، آگ کا دریا، اداس نسلیں، شعور کی رو، طویل نثری بیانیہ) کے اعلیٰ تنقیدی اسلوب پر مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو ناول کی تاریخی روایت اور جدید تکنیک (Urdu Novel & Evolution):\n\n1. **ابتدائی اور کلاسیکی دور کے شاہکار**:\n   - «نذیر احمد کے اصلاحی قصے اور رتن ناتھ سرشار کا '**فسانۂ آزاد**'»；\n   - «مرزا ہادی رسوا کا '**امراؤ جان ادا**'»: زوال پذیر لکھنوی کلچر کا لازوال نوحہ۔\n\n2. **تقسیم اور جدید ناول کی فکری وسعت**:\n   - «قراۃ العین حیدر کا '**آگ کا دریا**'»: **شعور کی رو (Stream of Consciousness)** کی تکنیک؛\n   - «عبداللہ حسین کا '**اداس نسلیں**'»: برصغیر کی تقسیم، جنگ اور المیاتی بکھراؤ۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "قراۃ العین حیدر نے اپنے شاہکار ناول 'آگ کا دریا' میں شعور کی رو کی جدید تکنیک کے ذریعے ڈھائی ہزار سالہ ہندوستانی تاریخ کے تہذیبی تسلسل کو سمویا ہے۔",
+          "reading": "Qurratulain Hyder ne apnay shaahkaar novel 'Aag Ka Darya' mein shu'oor ki raw ki jadeed technique ke zariye dhaai hazaar saala Hindustaani taareekh ke tehzeebi tasalsul ko samoya hai. [qʊrːət̪ʊlʔɛːn hɛːd̪ər neː əpneː ʃaːhkaːr nɔːʋəl aːɡ kaː d̪ərjaː mẽː ʃʊʔuːr kiː rɔː kiː dʒəd̪iːd̪ ʈɛkniːk keː zərɪjeː ɖʱaːʔiː həzaːr saːlaː hɪnd̪uːst̪aːniː t̪aːriːx keː t̪ɛhziːbiː t̪əsəlsʊl koː səmoːjaː hɛː] (qoor-ruh-tool-AYN HY-duhr nay uhp-NAY shah-KHAHR novel AAHG kah duhr-YAH mayn shooh-OOR kee ROW kee juh-DEED technique kay zuh-ree-YAY dhy huh-ZAHR sah-LAH heen-doos-tah-NEE tah-REEKH kay tyh-zee-BEE tuh-suhl-SOOL koh suh-MOH-yah HY)",
+          "translation": "Qurratulain Hyder encapsulated two and a half thousand years of cultural continuity in Indian history through the modern technique of stream of consciousness [novel technique: shu'oor ki raw] in her masterpiece novel 'Aag Ka Darya'."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 26-2)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "مرزا ہادی رسوا نے 'امراؤ جان ادا' میں زوال پذیر اودھ کے کلچر اور لکھنوی تہذیب کی بزم کو لافانی ادبی کردار کے ذریعے پیش کیا۔",
+          "reading": "Mirza Hadi Ruswa ne 'Umrao Jan Ada' mein zawaal-pazeer Awadh ke culture aur Lakhnawi tehzeeb ki bazm ko la-faani adabi kirdaar ke zariye peish kiya. [mɪrzaː haːd̪iː rʊsʋaː neː ʊmraːʔoː dʒaːn əd̪aː mẽː zəʋaːl-pəziːr əʋəd̪ʱ keː kəltʃər ɔːr ləxnoːiː t̪ɛhziːb kiː bəzm koː laː-faːniː əd̪əbiː kɪrdaːr keː zərɪjeː peːʃ kɪjaː] (MEER-zah HAH-dee roos-WAH nay oom-rah-OH JAHN uh-DAH mayn zuh-vahl-puh-ZEER uh-WUDH kay culture owr luhkh-now-EE tyh-ZEEB kee BUHZM koh lah-fah-NEE uh-duh-BEE keer-DAHR kay zuh-ree-YAY paysh kee-YAH)",
+          "translation": "Mirza Hadi Ruswa presented the declining Awadh culture and Lakhnawi civilization's gathering through an immortal literary character in 'Umrao Jan Ada'."
+        },
+        {
+          "target": "عبداللہ حسین کا ناول 'اداس نسلیں' جنگِ عظیم اور تحریکِ آزادی کے تناظر میں سیاسی و سماجی انتشار کی بھرپور نثری دستاویز ہے۔",
+          "reading": "Abdullah Hussain ka novel 'Udaas Naslein' jang-e-azeem aur tehreek-e-aazaadi ke tanaazur mein siyaasi-o-samaaji intishaar ki bharpoor nasri dastaawez hai. [əbd̪ʊlːaːh hʊsɛːn kaː nɔːʋəl ʊd̪aːs nəslẽː dʒəŋɡ-eː-əziːm ɔːr t̪ɛhriːk-eː-aːzaːd̪iː keː t̪ənaːzʊr mẽː sɪjaːsiː-oː-səmaːdʒiː ɪnt̪ɪʃaːr kiː bʱərpuːr nəsriː d̪əst̪aːʋeːz hɛː] (uhb-dool-LAH hoos-SAYN kah novel oo-DAHS nuhs-LAYN juhng-ay-uh-ZEEM owr tyh-REEK-ay-ah-zah-DEE kay tuh-nah-ZOOR mayn see-yah-SEE-oh-suh-mah-JEE een-tee-SHAHR kee bhuhr-POOR nuhs-REE duhs-tah-VAYZ HY)",
+          "translation": "Abdullah Hussain's novel 'Udaas Naslein' is a profound prose chronicle of socio-political chaos against the backdrop of the World War and independence movement."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "ناول کی روایت: فسانۂ آزاد + امراؤ جان ادا (لکھنوی کلچر) + آگ کا دریا (شعور کی رو) + اداس نسلیں!"
+      ],
+      "culturalNotes": [
+        "'آگ کا دریا' کو عالمی ناقدین نے برصغیر کے ادب کا 'وار اینڈ پیس' قرار دیا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"نیا\":",
+          "prompt": "ناول میں انسانی ذہن کے خیالات کے بے ساختہ اور مسلسل بہاؤ کو پیش کرنے والی جدید تکنیک کو کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («پرانا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («اچھا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («خوبصورت» کی خرابی)"
+            "شعور کی رو (Shu'oor ki raw - Stream of Consciousness technique)",
+            "صرف سیدھا قصہ",
+            "صرف مزاحیہ نظم",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "خیالات کے اندرونی بہاؤ کی تکنیک کو «شعور کی رو» (Stream of Consciousness) کہتے ہیں۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"نیا\":",
+          "prompt": "برصغیر کی تقسیم اور تحریکِ آزادی کے المیے پر لکھا گیا عبداللہ حسین کا شہرۂ آفاق ناول کون سا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («اچھا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («خوبصورت» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («پرانا» کا غیر درست استعمال)"
+            "اداس نسلیں (Udaas Naslein - Masterpiece novel on Partition and generation of turmoil)",
+            "علی پور کا ایلی",
+            "راجہ گدھ",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "تقسیم کے المیے پر عبداللہ حسین کا ناول «اداس نسلیں» ہے۔"
         }
       ]
     },
@@ -10933,17 +10880,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"نیا\": Which sentence is completely correct?",
+          "prompt": "اردو ناول اور طویل بیانیے کی روایت (Urdu Novel & Evolution) کا مستند جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («خوبصورت» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («پرانا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («اچھا» سے متعلق)"
+            "اردو ناول امراؤ جان ادا کی لکھنوی تہذیب سے لے کر قراۃ العین حیدر کے 'آگ کا دریا' اور عبداللہ حسین کے 'اداس نسلیں' تک برصغیر کے تہذیبی و سیاسی المیوں کا عظیم الشان بیانیہ ہے۔ (The Urdu novel from Umrao Jan Ada's Lakhnawi culture to Qurratulain's Aag Ka Darya and Abdullah Hussain's Udaas Naslein is an epic chronicle of socio-cultural tragedies.)",
+            "ناول نے اخبار کو پانی میں ڈالا تھا اور رویا تھا۔",
+            "ناول صرف دس سطروں پر مشتمل ہوتا ہے۔",
+            "شعور کی رو کا تعلق ادبی تکنیک سے بالکل نہیں ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«اردو ناول امراؤ جان ادا کی لکھنوی تہذیب سے لے کر قراۃ العین حیدر کے 'آگ کا دریا' اور عبداللہ حسین کے 'اداس نسلیں' تک برصغیر کے تہذیبی و سیاسی المیوں کا عظیم الشان بیانیہ ہے۔» ناول کی روایت کا کامل ترین جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u26-l3": {
@@ -10951,53 +10899,62 @@
     "subject": "urdu",
     "unit": 26,
     "lessonNumber": 3,
-    "title": "آئینی حکمرانی، پارلیمان اور عدالتی اصطلاحات (Law) (Part 3)",
+    "title": "ترقی پسند تحریک، انگارے اور حقیقت نگاری (Progressive Writers & Realism)",
     "level": "C1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 26.3) with authentic precision.",
+    "objective": "ترقی پسند تحریک (Progressive Writers' Movement)، 'انگارے' کے انقلابی اثرات، منشی پریم چند، کرشن چندر اور عصمت چغتائی کی حقیقت نگاری کے تنقیدی تجزیے پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں ترقی پسند تحریک اور سماجی حقیقت پسندی (Progressive Movement & Realism):\n\n1. **ترقی پسند تحریک کا منشور (1936ء)**:\n   - «**ادب برائے زندگی (Literature for Life)**»: محض حسن و عشق کے بجائے بھوک، افلاس اور محنت کشوں کے مسائل کا بیان؛\n   - «**منشی پریم چند کا تاریخی صدارتی خطبہ**»: 'ہمیں حسن کا معیار بدلنا ہوگا'؛\n   - «'**انگارے (Angaaray)**'»: روایت شکن باغیانہ افسانوں کا مجموعہ۔\n\n2. **بڑے ترقی پسند افسانہ نگار**:\n   - «**کرشن چندر**»: طبقاتی ناہمواری اور استحصالی نظام پر طنز؛\n   - «**عصمت چغتائی**»: متوسط گھرانوں اور خواتین کے مسائل کی بے باک تصویر کشی؛\n   - «**احمد ندیم قاسمی**»: دیہی پنجاب کے کسانوں کا دکھ درد۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "ترقی پسند تحریک نے ادب برائے زندگی کا نعرہ لگا کر رومانوی تخیل کے بجائے محنت کش طبقے کے دکھ درد اور بھوک کو نثری ادب کا مرکزی موضوع بنایا۔",
+          "reading": "Taraqqi-pasand tehreek ne adab baraa-e-zindagi ka na'ra laga kar roomaanwi takhayyul ke bajaaye mehnat-kash tabaqay ke dukh dard aur bhook ko nasri adab ka markazi mauzoo' banaya. [t̪ərəqːiː-pəsənd̪ t̪ɛhriːk neː əd̪əb bəraːjeː zɪnd̪əɡiː kaː naːʔraː ləɡaː kər roːmaːnʋiː t̪əxəjːʊl keː bədʒaːjeː mɛɦnət̪-kəʃ t̪əbəqeː keː d̪ʊx d̪ərd̪ ɔːr bʱuːk koː nəsriː əd̪əb kaː mərkəziː mɔːzuːʔ bənaːjaː] (tuh-ruhq-QEE-puh-suhnd tyh-REEK nay uh-DUHB buh-rah-yay zeen-duh-GEE kah NAH-rah luh-GAH kuhr roh-mahn-VEE tuh-khuhy-YOOL kay buh-JAH-yay myh-nuht-KUSH tuh-buh-QAY kay dookh duhrd owr BHOOK koh nuhs-REE uh-duhb kah muhr-kuh-ZEE mow-ZOO buh-NAH-yah)",
+          "translation": "By raising the slogan of 'Literature for Life' [Progressive manifesto: adab baraa-e-zindagi], the Progressive Writers' Movement made the pain, suffering, and hunger of the working class the central theme of prose literature instead of romantic imagination."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 26-3)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "منشی پریم چند نے ترقی پسند مصنفین کی پہلی کل ہند کانفرنس میں اعلان کیا تھا کہ ادب کو سماج کے سچے آئینے کے طور پر حسن کا نیا معیار وضع کرنا ہوگا۔",
+          "reading": "Munshi Premchand ne taraqqi-pasand musannifeen ki pehli kul Hind conference mein i'laan kiya tha keh adab ko samaaj ke sachay aa'enay ke taur par husn ka naya me'yaar waza' karna hoga. [mʊnʃiː preːmtʃənd̪ neː t̪ərəqːiː-pəsənd̪ mʊsənːɪfiːn kiː pɛɦliː kʊl hɪnd̪ kɔːnfrəns mẽː ɪʔlaːn kɪjaː t̪ʰaː kɛh əd̪əb koː səmaːdʒ keː sətʃːeː aːʔiːneː keː t̪ɔːr pər hʊsn kaː nəjaː mɪʔjaːr ʋəzəʔ kərnaː hoːɡaː] (moon-SHEE praym-CHUHND nay tuh-ruhq-QEE-puh-suhnd moo-suhn-nee-FEEN kee pyh-LEE kool HEEND conference mayn eeh-LAHN kee-YAH THAH kyh uh-duhb koh suh-MAHJ kay suhch-CHAY ah-ee-NAY kay TOWR puhr HOOSN kah nuh-YAH meeh-YAHR wuh-ZUH kuhr-NAH hoh-GAH)",
+          "translation": "Munshi Premchand declared in the first All-India Progressive Writers' Conference that literature, as a true mirror of society, must formulate a new standard of beauty."
+        },
+        {
+          "target": "عصمت چغتائی اور کرشن چندر کے افسانوں نے جاگیردارانہ نظام کی فرسودگی اور متوسط طبقے کے منافقانہ رویوں کو بے نقاب کیا۔",
+          "reading": "Ismat Chughtai aur Krishan Chander ke afsaanon ne jaageer-daaraana nizaam ki farsoodagi aur mutawassit tabaqay ke munaafiqaana rawaiyyon ko bay-naqaab kiya. [ɪsmət̪ tʃʊɣt̪aːʔiː ɔːr krɪʃən tʃənd̪ər keː əfsaːnõː neː dʒaːɡiːr-d̪aːraːnaː nɪzaːm kiː fərsuːd̪əɡiː ɔːr mʊt̪əʋəsːɪʈ t̪əbəqeː keː mʊnaːfɪqaːnaː rəʋɛjːõː koː beː-nəqaːb kɪjaː] (ees-MUHT choogh-tah-EE owr KREE-shuhn chuhn-DUHR kay uhf-sah-NOHN nay jah-geer-dah-RAH-nah nee-ZAHM kee fuhr-soo-duh-GEE owr moo-tuh-wuhs-SEET tuh-buh-QAY kay moo-nah-fee-qah-NAH ruh-wuhy-YOHN koh bay-nuh-QAHB kee-YAH)",
+          "translation": "The short stories of Ismat Chughtai and Krishan Chander unmasked the decadence of the feudal system and the hypocritical attitudes of the middle class [social realism]."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "ترقی پسند ادب: ادب برائے زندگی + پریم چند کا خطبہ (حسن کا معیار) + انگارے + سماجی حقیقت پسندی!"
+      ],
+      "culturalNotes": [
+        "1936ء کی انجمنِ ترقی پسند مصنفین برصغیر کی جدید ادبی تاریخ کی سب سے بڑی اور ہمہ گیر فکری تحریک ثابت ہوئی۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"پرانا\":",
+          "prompt": "ترقی پسند تحریک کا بنیادی فلسفہ اور منشور کیا تھا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («اچھا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («خوبصورت» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سمجھنا» کی خرابی)"
+            "ادب برائے زندگی اور سماجی حقیقت پسندی (Literature for life and social realism - Fighting inequality)",
+            "ادب برائے تفریح",
+            "صرف شاہی دربار کی تعریف",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "ترقی پسند تحریک کا بنیادی نعرہ «ادب برائے زندگی» (Literature for Life) تھا۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"پرانا\":",
+          "prompt": "ترقی پسند مصنفین کے پہلے صدارتی خطبے میں 'ہمیں حسن کا معیار بدلنا ہوگا' کا تاریخی جملہ کس نے کہا تھا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («خوبصورت» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سمجھنا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («اچھا» کا غیر درست استعمال)"
+            "منشی پریم چند (Munshi Premchand - Iconic address at first Progressive Writers Conference 1936)",
+            "غالب",
+            "میر تقی میر",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "یہ تاریخی صدارتی خطبہ «منشی پریم چند» نے دیا تھا۔"
         }
       ]
     },
@@ -11005,17 +10962,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"پرانا\": Which sentence is completely correct?",
+          "prompt": "ترقی پسند تحریک اور حقیقت نگاری (Progressive Realism) کا مستند جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سمجھنا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («اچھا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («خوبصورت» سے متعلق)"
+            "ترقی پسند تحریک نے 'ادب برائے زندگی' کے منشور اور پریم چند، منٹو اور عصمت چغتائی کی بے باک حقیقت نگاری کے ذریعے جاگیردارانہ نظام اور سماجی ناہمواری کو جھنجھوڑ ڈالا۔ (The Progressive Movement, through Literature for Life manifesto and realism of Premchand, Manto, and Chughtai, shook feudalism and social disparity.)",
+            "ترقی پسند تحریک نے حلوہ کھا کر درخت پر چھلانگ لگائی تھی اور روئی تھی۔",
+            "انگارے صرف باورچی خانے کے کوئلوں کا نام ہوتا ہے۔",
+            "ترقی پسند ادب صرف پریوں کے قصے سناتا ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«ترقی پسند تحریک نے 'ادب برائے زندگی' کے منشور اور پریم چند، منٹو اور عصمت چغتائی کی بے باک حقیقت نگاری کے ذریعے جاگیردارانہ نظام اور سماجی ناہمواری کو جھنجھوڑ ڈالا۔» ترقی پسند ادب کا فصیح جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u26-l4": {
@@ -11023,53 +10981,62 @@
     "subject": "urdu",
     "unit": 26,
     "lessonNumber": 4,
-    "title": "آئینی حکمرانی، پارلیمان اور عدالتی اصطلاحات (Law) (Part 4)",
+    "title": "جدید علامتی، تجریدی افسانہ اور وجودیت (Symbolic & Abstract Urdu Fiction)",
     "level": "C1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 26.4) with authentic precision.",
+    "objective": "علامتی افسانے، تجرید نگاری (Abstraction)، انتظار حسین کے اساطیری و داستانوی اسلوب، اور وجودی لایعنیت کے اعلیٰ نثری بیانیے پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں علامتی اور تجریدی افسانہ (Symbolic & Abstract Fiction):\n\n1. **جدیدیت اور علامت نگاری کا آغاز**:\n   - روایتی بیانیے کے برعکس علامتوں، استعاروں اور خواب نما فضا کا استعمال؛\n   - «**تجرید نگاری (Abstract Expression)**» اور «**وجودیت (Existentialism)**»۔\n\n2. **انتظار حسین کا لافانی اسلوب**:\n   - «**داستانوی، اساطیری اور بدھ جاتک انداز**»；\n   - «ہجرت کا اجتماعی کرب، بچھڑے ہوئے شہر اور نوستالجیا»۔\n\n3. **عصری انسان کی تنہائی اور لایعنیت**:\n   - انور سجاد، سریندر پرکاش اور بلراج مینرا کی تجریدی علامتیں،*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "انتظار حسین نے ہندو اور اسلامی اساطیر، بدھ جاتک کتھاؤں اور داستانوی اسلوب کو یکجا کر کے ہجرت کے اجتماعی المیے کو لافانی علامتوں میں ڈھالا۔",
+          "reading": "Intizar Hussain ne Hindu aur Islaami asaateer, Buddh Jaatak kathaon aur daastaanwi usloob ko yakja kar ke hijrat ke ijtimaa'i almiye ko la-faani alaamaton mein dhaala. [ɪnt̪ɪzaːr hʊsɛːn neː hɪnd̪uː ɔːr ɪslaːmiː əsaːt̪iːr bʊd̪ːʱ dʒaːt̪ək kət̪ʰaːʔõː ɔːr d̪aːst̪aːnʋiː ʊsluːb koː jək-dʒaː kər keː hɪdʒrət̪ keː ɪdʒt̪ɪmaːʔiː əlmɪjeː koː laː-faːniː əlaːmt̪õː mẽː ɖʱaːlaː] (een-tee-ZAHR hoos-SAYN nay HEEN-doo owr ees-LAH-mee uh-sah-TEER, BOODH jah-TUHK kuh-tah-OHN owr dahs-tahn-VEE oos-LOOB koh yuhk-JAH kuhr kay heej-RUHT kay eej-tee-MAH-ee uhl-mee-YAY koh lah-fah-NEE uh-lah-muh-TOHN mayn DHAH-lah)",
+          "translation": "Intizar Hussain integrated Hindu and Islamic mythologies, Buddhist Jataka tales, and legendary fable style to mold the collective tragedy of migration into immortal symbols [symbolic prose: asaateer aur alaamatein]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 26-4)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "جدید اردو افسانہ نگاروں نے روایتی پلاٹ کو توڑ کر تجریدی علامتوں کے ذریعے عصری انسان کی لایعنیت اور وجودی اضطراب کو زبان دی۔",
+          "reading": "Jadeed Urdu afsaana nigaaron ne rawaayati plot ko tor kar tajreedi alaamaton ke zariye asri insaan ki laa-ya'niyat aur wujoodi iztiraab ko zabaan di. [dʒəd̪iːd̪ ʊrd̪uː əfsaːnaː nɪɡaːrõː neː rəʋaːjət̪iː plɔːʈ koː t̪oːɽ kər t̪ədʒriːd̪iː əlaːmt̪õː keː zərɪjeː əsriː ɪnsaːn kiː laː-jəʔnɪjət̪ ɔːr ʋʊdʒuːd̪iː ɪzt̪ɪraːb koː zəbaːn d̪iː] (juh-DEED OOR-doo uhf-sah-nah nee-gah-ROHN nay ruh-vah-yuh-TEE plot koh TOHR kuhr tuhj-ree-DEE uh-lah-muh-TOHN kay zuh-ree-YAY uhs-REE een-SAHN kee lah-yuh-nee-YUHT owr woo-joo-DEE eez-tee-RAHB koh zuh-BAHN DEE)",
+          "translation": "Modern Urdu short-story writers broke the conventional plot and gave voice to contemporary human meaninglessness and existential anxiety through abstract symbols [existentialism: wujoodi iztiraab]."
+        },
+        {
+          "target": "علامتی افسانے میں قاری محض خاموش تماشائی نہیں رہتا بلکہ متن کے باطنی اشاروں سے معنی کی نئی پرتیں خود دریافت کرتا ہے۔",
+          "reading": "Alaamati afsaanay mein qaari mehaz khaamosh tamaashaa'i nahin rehta balkeh matan ke baatini ishaaron se ma'ni ki nayi partein khud daryaaft karta hai. [əlaːmət̪iː əfsaːneː mẽː qaːriː mɛɦz xaːmoːʃ t̪əmaːʃaːʔiː nəhĩː rɛhtaː bəlkɛh mət̪ən keː baːt̪ɪniː ɪʃaːrõː seː məʔniː kiː nəjiː pərt̪ẽː xʊd̪ d̪ərjaːft̪ kərt̪aː hɛː] (uh-lah-muh-TEE uhf-SAH-nay mayn QAH-ree myhz khah-MOHSH tuh-mah-SHAH-ee nuh-HEEN ryh-TAH buhl-KYH MUH-tuhn kay bah-tee-NEE ee-shah-ROHN say muh-NEE kee nuh-YEE puhr-TAYN KHOOD duhr-YAHFT kuhr-TAH HY)",
+          "translation": "In the symbolic short story, the reader does not remain a passive spectator but actively discovers new layers of meaning from the text's internal subtle cues."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "علامتی و تجریدی افسانہ: علامت نگاری + تجریدیت + انتظار حسین (اساطیر و نوستالجیا) + وجودی اضطراب!"
+      ],
+      "culturalNotes": [
+        "انتظار حسین کو بین الاقوامی بکر پرائز کے لیے نامزد کیا گیا تھا، جو اردو فکشن کے علامتی اسلوب کی عالمی پذیرائی کا ثبوت ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"اچھا\":",
+          "prompt": "اردو کے کس عظیم افسانہ نگار نے داستانوی اسلوب اور بدھ مت کی جاتک کتھاؤں کو علامت کے طور پر برتا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («خوبصورت» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سمجھنا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («جاننا» کی خرابی)"
+            "انتظار حسین (Intizar Hussain - Master of mythological, parabolic, and nostalgic short fiction)",
+            "ڈپٹی نذیر احمد",
+            "میر امن",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "اساطیری اور داستانوی علامت نگاری کے امام «انتظار حسین» ہیں۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"اچھا\":",
+          "prompt": "انسانی وجود کی تنہائی، خوف اور لایعنیت کے فلسفے پر مبنی ادبی دبستان کو کیا کہتے ہیں؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سمجھنا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («جاننا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («خوبصورت» کا غیر درست استعمال)"
+            "وجودیت / وجودی فلسفہ (Existentialism - Literary and philosophical focus on individual existence and absurdity)",
+            "صرف خطابت",
+            "صرف مزاح",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "انسان کی داخلی تنہائی اور وجود کے مطالعے کو «وجودیت» (Existentialism) کہتے ہیں۔"
         }
       ]
     },
@@ -11077,17 +11044,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"اچھا\": Which sentence is completely correct?",
+          "prompt": "علامتی اور تجریدی اردو افسانے (Symbolic & Abstract Urdu Fiction) کا مستند جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («جاننا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («خوبصورت» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («سمجھنا» سے متعلق)"
+            "جدید اردو افسانہ انتظار حسین کے اساطیری اسلوب اور علامتی و تجریدی تکنیک کے ذریعے عصری انسان کے وجودی کرب اور تہذیبی نوستالجیا کا عمیق ترجمان ہے۔ (Modern Urdu short story, through Intizar Hussain's mythological style and symbolic techniques, is a profound interpreter of existential angst and nostalgia.)",
+            "علامتی افسانے نے روٹی کھائی تھی اور گاڑی روئی تھی۔",
+            "تجریدی افسانہ صرف تصویروں کی کتاب ہوتا ہے۔",
+            "انتظار حسین صرف بچوں کے کارٹون لکھتے تھے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«جدید اردو افسانہ انتظار حسین کے اساطیری اسلوب اور علامتی و تجریدی تکنیک کے ذریعے عصری انسان کے وجودی کرب اور تہذیبی نوستالجیا کا عمیق ترجمان ہے۔» علامتی فکشن کا شاہکار جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u26-l5": {
@@ -11095,53 +11063,62 @@
     "subject": "urdu",
     "unit": 26,
     "lessonNumber": 5,
-    "title": "آئینی حکمرانی، پارلیمان اور عدالتی اصطلاحات (Law) (Part 5)",
+    "title": "اردو افسانہ، ناول اور نثری شاہکار کا جامع سمیکن (Urdu Fiction Grand Synthesis)",
     "level": "C1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 26.5) with authentic precision.",
+    "objective": "افسانوی ارکان، کلاسیکی و جدید ناول، ترقی پسند تحریک اور علامتی تجرید نگاری کو ایک مربوط، پرشکوہ نثری شاہکار میں یکجا کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو افسانہ، ناول اور نثری شاہکاروں کا عظیم الشان سمیکن (Grand Synthesis):\n\n1. **اردو فکشن کے تمام ارتقائی ادوار کا احاطہ**:\n   - **افسانوی ارکان**: «وحدتِ تاثر، چست پلاٹ، نکتۂ عروج اور فطری مکالمے»؛\n   - **ناول کی روایت**: «'امراؤ جان ادا' کے تہذیبی مرقع سے 'آگ کا دریا' کے شعور کی رو تک»؛\n   - **ترقی پسند انقلاب**: «پریم چند، منٹو اور عصمت چغتائی کی بے باک حقیقت نگاری»؛\n   - **جدید علامتی اسلوب**: «انتظار حسین کی اساطیری علامت نگاری اور وجودی تفکر»۔\n\n2. **اردو نثری شاہکار کا وقار**:\n   - یہ زبان اردو کے ادبی تنقیدی مضامین، تحقیقی مقالہ جات اور نثری فصاحت کا عظیم ترین امتزاج ہے۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "اردو فکشن کلاسیکی داستانوں کے طلسم سے لے کر ترقی پسند حقیقت نگاری، 'آگ کا دریا' کے فلسفیانہ شعور کی رو اور جدید علامتی نثری شاہکاروں تک زبان کی فکری و جمالیاتی وسعت کا روشن ترین ثبوت ہے۔",
+          "reading": "Urdu fiction classical daastaanon ke tilism se lay kar taraqqi-pasand haqeeqat-nigaari, 'Aag Ka Darya' ke falsafiyaana shu'oor ki raw aur jadeed alaamati nasri shaahkaaron tak zabaan ki fikri-o-jamaaliyaati wus'at ka raushan-tareen saboot hai. [ʊrd̪uː fɪkʃən klaːsiːkiː d̪aːst̪aːnõː keː t̪ɪlɪsm seː leː kər t̪ərəqːiː-pəsənd̪ həqiːqət̪-nɪɡaːriː aːɡ kaː d̪ərjaː keː fəlsəfɪjaːnaː ʃʊʔuːr kiː rɔː ɔːr dʒəd̪iːd̪ əlaːmət̪iː nəsriː ʃaːhkaːrõː t̪ək zəbaːn kiː fɪkriː-oː-dʒəmaːlɪjaːt̪iː ʋʊsʔət̪ kaː rɔːʃən-t̪əriːn səbuːt̪ hɛː] (OOR-doo fiction classical dahs-tah-NOHN kay tee-LEESM say LAY kuhr tuh-ruhq-QEE-puh-suhnd huh-qee-quht-nee-gah-REE, AAHG kah duhr-YAH kay fuhl-suh-fee-YAH-nah shooh-OOR kee ROW owr juh-DEED uh-lah-muh-TEE nuhs-REE shah-kah-ROHN tuhk zuh-BAHN kee feek-REE-oh-juh-mah-lee-yah-TEE woos-UHT kah row-shuhn-tuh-REEN suh-BOOT HY)",
+          "translation": "Urdu fiction, ranging from the enchantment of classical tales to progressive realism, the philosophical stream of consciousness in 'Aag Ka Darya', and modern symbolic prose masterpieces, is the brightest proof of the language's intellectual and aesthetic breadth [grand fiction synthesis]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 26-5)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "منٹو، پریم چند اور انتظار حسین کے افسانوں نے انسانی نفسیات اور برصغیر کی تہذیبی ہجرتوں کو عالمی معیار کے لافانی ادبی متن میں تبدیل کر دیا۔",
+          "reading": "Manto, Premchand aur Intizar Hussain ke afsaanon ne insaani nafsiyaat aur bar-e-saghir ki tehzeebi hijraton ko aalami me'yaar ke la-faani adabi matan mein tabdeel kar diya. [mənʈoː preːmtʃənd̪ ɔːr ɪnt̪ɪzaːr hʊsɛːn keː əfsaːnõː neː ɪnsaːniː nəfsɪjaːt̪ ɔːr bərː-eː-səɣiːr kiː t̪ɛhziːbiː hɪdʒrət̪õː koː aːləmiː mɪʔjaːr keː laː-faːniː əd̪əbiː mət̪ən mẽː t̪əbd̪iːl kər d̪ɪjaː] (muhn-TOH, praym-CHUHND owr een-tee-ZAHR hoos-SAYN kay uhf-sah-NOHN nay een-sah-NEE nuhf-see-YAHT owr buhr-ray-suh-GHEER kee tyh-zee-BEE heej-ruh-TOHN koh ah-luh-MEE meeh-YAHR kay lah-fah-NEE uh-duh-BEE MUH-tuhn mayn tuhb-DEEL kuhr DEE-yah)",
+          "translation": "The short stories of Manto, Premchand, and Intizar Hussain transformed human psychology and the cultural migrations of the subcontinent into immortal literary texts of world caliber."
+        },
+        {
+          "target": "اردو نثر کا یہ عظیم الشان سمیکن قاری کو نہ صرف زبان کی نفاست اور اسلوبیاتی تنوع سے آشنا کرتا ہے بلکہ انسانی زندگی کے گہرے ترین فلسفوں کی فہم عطا کرتا ہے۔",
+          "reading": "Urdu nasr ka yeh azeem-ush-shaan samaykan qaari ko na sirf zabaan ki nafaasat aur usloobiyaati tanawwo' se aashna karta hai balkeh insaani zindagi ke gehrai-tareen falsafon ki feham ata karta hai. [ʊrd̪uː nəsr kaː jɛh əziːm-ʊʃ-ʃaːn səmɛːkən qaːriː koː nə sɪrf zəbaːn kiː nəfaːsət̪ ɔːr ʊsluːbɪjaːt̪iː t̪ənəʋːʊʔ seː aːʃnaː kərt̪aː hɛː bəlkɛh ɪnsaːniː zɪnd̪əɡiː keː ɡɛɦraːʔiː-t̪əriːn fəlsəfõː kiː fɛɦm ət̪aː kərt̪aː hɛː] (OOR-doo NUHSR kah YEH uh-ZEEM-oosh-SHAHN suh-may-KUHN QAH-ree koh nuh SEERF zuh-BAHN kee nuh-fah-SUHT owr oos-loo-bee-yah-TEE tuh-nuhv-VOO say ahsh-NAH kuhr-TAH HY buhl-KYH een-sah-NEE zeen-duh-GEE kay gyh-rah-ee-tuh-REEN fuhl-suh-FOHN kee FYHM uh-TAH kuhr-TAH HY)",
+          "translation": "This grand synthesis of Urdu prose not only introduces the reader to the refinement of language and stylistic diversity, but also bestows an understanding of the deepest philosophies of human life."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "جامع نثری سمیکن: افسانوی ارکان (پلاٹ و کلائمیکس) + ناول (آگ کا دریا) + ترقی پسند حقیقت پسندی + علامتی و وجودی اسلوب!"
+      ],
+      "culturalNotes": [
+        "اردو نثر اور فکشن نے برصغیر کے مشترکہ تہذیبی، فلسفیانہ اور المیاتی ورثے کو محفوظ رکھنے میں سب سے زیادہ مؤثر کردار ادا کیا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"خوبصورت\":",
+          "prompt": "اردو افسانہ، ناول اور نثری شاہکاروں کے جامع سمیکن کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («سمجھنا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («جاننا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سوچنا» کی خرابی)"
+            "افسانوی ارکان، کلاسیکی و جدید ناول، ترقی پسند تحریک اور علامتی وجودیت کا مربوط مطالعہ (Masterful synthesis of short story elements, novels, Progressive realism, and symbolic existentialism)",
+            "ہم نے کتاب کے اوراق پر چائے پی تھی اور رویا تھا (بے ربط الفاظ)",
+            "وہ صرف ڈکشنری کے صفحات الٹتا رہتا ہے (غیر معیاری)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«افسانوی ارکان، کلاسیکی و جدید ناول، ترقی پسند تحریک اور علامتی وجودیت کا مربوط مطالعہ» فکشن کا کامل سمیکن ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"خوبصورت\":",
+          "prompt": "اردو فکشن اور نثری شاہکاروں کا جامع سمیکن قاری میں کیا صلاحیت پیدا کرتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («جاننا» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سوچنا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («سمجھنا» کا غیر درست استعمال)"
+            "اعلیٰ نثری جمالیات، اسلوبیاتی تنوع کی تفہیم، اور سماجی و وجودی حقیقتوں کا تنقیدی شعور (Appreciating advanced prose aesthetics, stylistic diversity, and critical understanding of socio-existential realities)",
+            "صرف کتابوں کے نام حفظ کرنا (بے فائدہ مشق)",
+            "صرف پرانے کاغذات جمع کرنا (محدود دائرہ)",
+            "فکشن کو غیر سنجیدہ سمجھنا (سطحی رویہ)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "یہ نثری جمالیات، اسلوبیاتی تنوع اور سماجی و وجودی حقیقتوں کا تنقیدی شعور بخشتا ہے۔"
         }
       ]
     },
@@ -11149,17 +11126,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"خوبصورت\": Which sentence is completely correct?",
+          "prompt": "اردو فکشن اور نثری شاہکاروں کے جامع سمیکن (Urdu Fiction Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («سوچنا» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («سمجھنا» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («جاننا» سے متعلق)"
+            "اردو فکشن منٹو و پریم چند کی حقیقت پسندی، 'آگ کا دریا' و 'اداس نسلیں' کے طویل بیانیے اور انتظار حسین کی علامتی اساطیر کے ذریعے برصغیر کے تہذیبی و وجودی المیوں کا عظیم الشان شاہکار ہے۔ (Urdu fiction through Manto/Premchand's realism, epic narratives of Aag Ka Darya/Udaas Naslein, and Intizar's mythic symbolism is a grand masterpiece of socio-existential realities.)",
+            "ناول نے افسانے کو ہانڈی میں پکا کر گاڑی پر ڈالا تھا رویا تھا۔",
+            "جامع سمیکن صرف پرانی جلد بندی کو کہتے ہیں۔",
+            "اردو میں نثر نگاری کا کوئی باقاعدہ وجود نہیں ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«اردو فکشن منٹو و پریم چند کی حقیقت پسندی، 'آگ کا دریا' و 'اداس نسلیں' کے طویل بیانیے اور انتظار حسین کی علامتی اساطیر کے ذریعے برصغیر کے تہذیبی و وجودی المیوں کا عظیم الشان شاہکار ہے۔» اردو نثری سمیکن کا کامل ترین شاہکار ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u27-l1": {
