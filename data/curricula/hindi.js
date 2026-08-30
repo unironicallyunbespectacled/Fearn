@@ -7045,53 +7045,62 @@
     "subject": "hindi",
     "unit": 17,
     "lessonNumber": 1,
-    "title": "प्रेरणार्थक क्रियाएं: प्रथम व द्वितीय (Causatives) (Part 1)",
+    "title": "अप्रत्यक्ष कथन का बुनियादी नियम: 'कि' योजक और सर्वनाम परिवर्तन (Indirect Discourse & Pronoun Shift with कि)",
     "level": "B2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 17.1) with authentic linguistic precision.",
+    "objective": "प्रत्यक्ष कथन (Direct Speech) को योजक 'कि' और वक्ता के अनुसार सर्वनाम/संकेतवाचक पदों (Pronoun & Deictic Shift) का रूपांतरण करके अप्रत्यक्ष कथन (Indirect Speech) में बदलने की क्षमता में निपुण होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "हिंदी में किसी के कहे हुए शब्दों को अपने शब्दों में प्रस्तुत करने को **अप्रत्यक्ष कथन (Indirect Speech)** कहते हैं:\n\n1. मुख्य संरचना का सूत्र:\n   - **[वक्ता + ने + कहा/बताया/पूछा] + कि + [रूपांतरित उपवाक्य]**\n   - प्रत्यक्ष: *राम ने कहा, \"मैं कल दिल्ली जाऊँगा।\"*\n   - अप्रत्यक्ष: *राम ने कहा कि वह कल दिल्ली जाएगा।*\n\n2. सर्वनाम और संकेतवाचक परिवर्तन के नियम (Deictic Shifts):\n   - मूल वक्ता का 'मैं/मेरा/मुझे' → **वह/उसका/उसे** में बदल जाता है;\n   - 'हम/हमारा' → **वे/उनका** में बदल जाता है;\n   - निकटतावाची 'यह' प्रायः **'वह'** में परिवर्तित होता है;\n   - आज्ञा व अनुरोध में क्रिया संभावनार्थ में बदल जाती है:\n     - प्रत्यक्ष: *पिताजी ने कहा, \"तुम तुरंत पढ़ो।\"*\n     - अप्रत्यक्ष: *पिताजी ने कहा कि वह तुरंत पढ़े।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 17.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 17."
+          "target": "वरिष्ठ अध्यापक ने कक्षा के सभी नए और पुराने विद्यार्थियों से स्पष्ट कहा कि वे कल ठीक समय पर अपना गृहकार्य पूरा करके कक्षा में लाएँ।",
+          "reading": "varishth adhyaapak ne kaksha ke sabhi naye aur puraane vidyaarthiyon se spasht kaha ki ve kal theek samay par apna grihkaary poora karke kaksha mein laayein. [ʋərɪʂʈʰ əd̪ʱjaːpək neː kəkʃaː keː səbʱiː nəjeː ɔːr pʊraːneː ʋɪd̪jaːrt̪ʰɪjõː seː spəʂʈ kəɦaː kɪ ʋeː kəl t̪ʰiːk səməj pər əpnaː ɡrɪɦkaːrjə puːraː kərkeː kəkʃaː mẽː laːẽː] (vuh-REESH-th uhdh-YAH-puhk nay KUHK-shah kay SUH-bhee nuh-YAY owr poo-RAH-nay veed-YAHR-thee-yohn say SPUHSHT KUH-hah kee vay kuhl theek SUH-muy puhr uhp-NAH greeh-KAHR-yuh POO-rah KUHR-kay KUHK-shah mayn LAH-yayn)",
+          "translation": "The senior teacher clearly told all new and old students of the class that they should bring their homework completely finished to the class on time tomorrow."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 17-1)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "रोहन ने अपने माता-पिता को अत्यंत विनम्रता से बताया कि वह उच्च वैज्ञानिक अनुसंधान के लिए विदेश जाने की गंभीर योजना बना रहा है।",
+          "reading": "Rohan ne apne maata-pita ko atyant vinamrata se bataaya ki vah uchch vaigyaanik anusandhaan ke liye videsh jaane ki gambheer yojana bana raha hai. [roːɦən neː əpneː maːt̪aː pɪt̪aː koː ət̪jən̪t̪ ʋɪnəmrət̪aː seː bət̪aːjaː kɪ ʋəɦ ʊtʃː ʋɛːɡjaːnɪk ənʊsən̪d̪ʱaːn keː lɪjeː ʋɪd̪eːʃ dʒaːneː kiː ɡəmbiːr joːdʒnaː bənaː rəɦaː hɛː] (ROH-huhn nay uhp-NAY MAH-tah pee-TAH koh uht-YUHNT vee-nuhm-ruh-TAH say buh-TAH-yah kee vuh ootch vyg-YAH-neek uh-noo-suhn-DHAHN kay lee-ay vee-DAYSH JAH-nay kee guhm-BHEER yohj-NAH buh-NAH ruh-HAH hy)",
+          "translation": "Rohan informed his parents with utmost modesty that he is making serious plans to go abroad for advanced scientific research."
+        },
+        {
+          "target": "विदेशी यात्री ने रेलवे पूछताछ केंद्र पर शिष्टतापूर्वक पूछा कि आगामी राजधानी सुपरफास्ट एक्सप्रेस गाड़ी किस प्लेटफार्म पर आएगी।",
+          "reading": "videshi yaatri ne railway poochhtaachh kendr par shishtataapoorvak poochha ki aagaami Raajdhaani superfast express gaadi kis platform par aayegi. [ʋɪd̪eːʃiː jaːt̪riː neː reːlʋeː puːtʃʰt̪aːtʃʰ keːn̪d̪r pər ʃɪʂʈət̪aːpuːrʋək puːtʃʰaː kɪ aːɡaːmiː raːdʒd̪ʱaːniː sʊpərfaːsʈ eːksprɛs ɡaːɽiː kɪs plɛːʈfɔːrm pər aːjeːɡiː] (vee-DAY-shee YAH-tree nay RAYL-vay poochh-TAHCHH kayn-druh puhr sheesh-tuh-tah-POOR-vuhk POO-chhah kee ah-GAH-mee rahj-DHAH-nee SOO-puhr-fahst ayks-PREHS GAH-dee kees playt-FAHRM puhr ah-YAY-gee)",
+          "translation": "The foreign passenger politely inquired at the railway inquiry counter as to which platform the upcoming Rajdhani Superfast Express train would arrive on."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Direct: उसने कहा \"मैं जाऊँगा\" → Indirect: उसने कहा कि वह जाएगा (कि + 3rd person pronoun)!"
+      ],
+      "culturalNotes": [
+        "भारतीय वार्तालाप में शिष्टता के लिए 'उन्होंने कृपा करके बताया कि...' जैसे आदरसूचक परोक्ष कथनों का प्रयोग किया जाता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"डॉक्टर\":",
+          "prompt": "प्रत्यक्ष कथन «अमित ने कहा, \"मेरी पुस्तक खो गई है।\"» का मानक अप्रत्यक्ष रूपांतरण क्या होगा?",
           "options": [
-            "हम इस पाठ में इकाई 17.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («दवा» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («अस्पताल» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («स्वास्थ्य» का अनुचित स्थान)"
+            "अमित ने कहा कि उसकी पुस्तक खो गई है (Amit ne kaha ki uski pustak kho gayi hai - Amit said that his book has been lost [pronoun shift to 3rd person])",
+            "अमित ने कहा कि मेरी पुस्तक खो गई है (सर्वनाम अपरिवर्तित दोष)",
+            "अमित ने कहा मैं पुस्तक खो दिया हूँ (अमानक रचना)",
+            "अमित कहा पुस्तक उसकी खो गई (परसर्ग लोप दोष)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "अप्रत्यक्ष कथन में वक्ता के सर्वनाम 'मेरी' का रूपांतरण तृतीय पुरुष «उसकी» में होना व्याकरण का अनिवार्य नियम है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"डॉक्टर\":",
+          "prompt": "वाक्य «डॉक्टर ने रोगी को सलाह दी ___ वह नियमित रूप से दवा ले» में सही योजक भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 17.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («अस्पताल» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («स्वास्थ्य» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («दवा» का अशुद्ध रूप)"
+            "कि (Ki - That [indirect speech declarative complementizer])",
+            "की (Feminine genitive error)",
+            "क्योंकि (Causal mismatch)",
+            "इसलिए (Resultative mismatch)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "कथन को जोड़ने वाले योजक (that) के रूप में ह्रस्व इ-कार वाला «कि» शुद्ध है।"
         }
       ]
     },
@@ -7099,17 +7108,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"डॉक्टर\": Which sentence is completely correct?",
+          "prompt": "अप्रत्यक्ष कथन (Indirect Speech) का सर्वथा शुद्ध वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 17.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («स्वास्थ्य» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («दवा» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («अस्पताल» से संबंधित)"
+            "मंत्री जी ने अधिकारियों को निर्देश दिया कि वे जनहित के सभी कार्य प्राथमिकता के आधार पर पूर्ण करें। (The minister instructed the officers that they should complete all public welfare works on a priority basis.)",
+            "मंत्री जी ने कहा कि तुम सब काम करो।",
+            "मंत्री जी ने निर्देश दिया की वे काम करेंगे।",
+            "मंत्री जी बोले कि हम काम पूरा कर रहे हैं।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«निर्देश दिया कि वे... पूर्ण करें» में योजक 'कि', सर्वनाम 'वे' और संभावनार्थ क्रिया 'करें' का समन्वय शत-प्रतिशत शुद्ध है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u17-l2": {
@@ -7117,53 +7127,62 @@
     "subject": "hindi",
     "unit": 17,
     "lessonNumber": 2,
-    "title": "प्रेरणार्थक क्रियाएं: प्रथम व द्वितीय (Causatives) (Part 2)",
+    "title": "कारण और परिणाम योजक: 'क्योंकि...इसलिए' एवं 'चूँकि...अतः' (Causal & Resultative Conjunctions)",
     "level": "B2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 17.2) with authentic linguistic precision.",
+    "objective": "कारणसूचक (क्योंकि, चूँकि) और परिणामसूचक (इसलिए, अतः, अतएव, फलस्वरूप) योजकों के सटीक संयोजन द्वारा जटिल तार्किक वाक्यों के निर्माण में निपुण होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "हिंदी में कारण और परिणाम को जोड़ने वाले दो मुख्य वाक्य-प्रतिमान हैं:\n\n1. **कारण बाद में (Forward Causal with 'क्योंकि')**:\n   - सूत्र: **[परिणाम उपवाक्य] + क्योंकि + [कारण उपवाक्य]**\n   - *वह विद्यालय नहीं आया क्योंकि वह अस्वस्थ था*;\n   - *हम मैच हार गए क्योंकि हमारे प्रमुख खिलाड़ी चोटिल थे*।\n\n2. **कारण पहले (Pre-positioned Causal with 'चूँकि...इसलिए / अतः')**:\n   - सूत्र: **चूँकि [कारण उपवाक्य], इसलिए / अतः / अतएव [परिणाम उपवाक्य]**\n   - *चूँकि भारी बारिश हो रही थी, इसलिए सभी उड़ानें स्थगित कर दी गईं*;\n   - *चूँकि बजट सीमित है, अतः हमें सोच-समझकर व्यय करना होगा*।\n\n3. **परिणामवाची अव्यय (Resultative Markers)**:\n   - **फलस्वरूप / परिणामस्वरूप (As a result / Consequently)**: *उसने कठिन परिश्रम किया, फलस्वरूप प्रथम श्रेणी में उत्तीर्ण हुआ*।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 17.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 17."
+          "target": "चूँकि पर्वतीय क्षेत्र में भारी हिमपात और भूस्खलन हुआ था, इसलिए स्थानीय प्रशासन ने सभी वाहनों का आवागमन तुरंत प्रभाव से रोक दिया।",
+          "reading": "choonki parvateey kshetr mein bhaari himpaat aur bhooskhalan hua tha, isliye sthaaneey prashaasan ne sabhi vaahanon ka aavaagaman turant prabhaav se rok diya. [tʃuː̃kɪ pərʋət̪iːj kʃeːt̪r mẽː bʱaːriː ɦɪmpaːt̪ ɔːr bʱuːskʰələn hʊaː t̪ʰaː ɪslɪjeː st̪ʰaːniːj prəʃaːsən neː səbʱiː ʋaːɦnõː kaː aːʋaːɡəmən t̪ʊrən̪t̪ prəbʱaːʋ seː roːk d̪ɪjaː] (CHOON-kee puhr-vuh-TEE-yuh KSHAY-truh mayn BHAH-ree heem-PAHT owr bhoos-KHUH-luhn HOO-ah thah, ees-LEE-ay sthah-NEE-yuh pruh-SHAH-suhn nay SUH-bhee VAH-huh-nohn kah ah-vah-GUH-muhn TOO-ruhnt pruh-BHAHV say rohk DEE-yah)",
+          "translation": "Since there had been heavy snowfall and landslides in the mountainous region, therefore the local administration halted the movement of all vehicles with immediate effect."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 17-2)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "वह आज की अत्यंत महत्वपूर्ण और निर्णायक संगठनात्मक बैठक में उपस्थित नहीं हो सका क्योंकि अचानक उसकी माता जी की तबीयत बहुत बिगड़ गई थी।",
+          "reading": "vah aaj ki atyant mahatvapoorna aur nirnaayak sangathanaatmak baithak mein upasthit nahin ho saka kyonki achanak uski maata ji ki tabeeyat bahut bigad gayi thi. [ʋəɦ aːdʒ kiː ət̪jən̪t̪ məɦət̪ʋəpuːrɳə ɔːr nɪrɳaːjək sənɡəʈʰnaːt̪mək bɛːʈʰək mẽː ʊpəst̪ʰɪt̪ nəɦĩː hoː səkaː kjõːkɪ ətʃaːnək ʊskiː maːt̪aː dʒiː kiː t̪əbiːjət̪ bəɦʊt̪ bɪɡəɽ ɡəiː t̪ʰiː] (vuh ahj kee uht-YUHNT muh-huht-vuh-POOR-nuh owr neer-NAH-yuhk suhn-guh-thuh-NAHT-muhk BY-thuhk mayn oo-puhs-THEET nuh-HEEN hoh SUH-kah KYOHN-kee uh-CHAH-nuhk OOS-kee MAH-tah jee kee tuh-BEE-yuht buh-hoot BEE-guhd GUH-yee thee)",
+          "translation": "He could not be present in today's extremely important and decisive organizational meeting because suddenly his mother's health deteriorated significantly."
+        },
+        {
+          "target": "वैज्ञानिकों के दल ने दिन-रात निरंतर समर्पित अनुसंधान किया, जिसके फलस्वरूप उन्होंने इस गंभीर संक्रामक रोग का नया प्रभावी टीका विकसित करने में सफलता पाई।",
+          "reading": "vaigyaanikon ke dal ne din-raat nirantar samarpit anusandhaan kiya, jiske phalasvaroop unhone is gambheer sankraamak rog ka naya prabhaavi teeka vikasit karne mein safalta paayi. [ʋɛːɡjaːnɪkõː keː d̪əl neː d̪ɪn raːt̪ nɪrən̪t̪ər səmərpɪt̪ ənʊsən̪d̪ʱaːn kɪjaː dʒɪskeː pʰələsʋəruːp ʊnɦõːneː ɪs ɡəmbiːr səŋkraːmək roːɡ kaː nəjaː prəbʱaːʋiː ʈiːkaː ʋɪksɪt̪ kərneː mẽː səfəlt̪aː paːiː] (vyg-YAH-nee-kohn kay duhl nay DEEN-raht nee-RUHN-tuhr suh-muhr-PEET uh-noo-suhn-DHAHN kee-YAH, jees-KAY phuhl-svuh-ROOP oon-HOHN-nay ees guhm-BHEER suhn-KRAH-muhk rohg kah nuh-YAH pruh-bhah-VEE TEE-kah veek-SEET KUHR-nay mayn suh-fuhl-TAH PAH-yee)",
+          "translation": "The team of scientists conducted dedicated research day and night continuously, as a result of which they achieved success in developing a new effective vaccine for this serious infectious disease."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "कारण पहले = चूँकि...इसलिए; कारण बाद में = क्योंकि; परिणाम = फलस्वरूप!"
+      ],
+      "culturalNotes": [
+        "तर्कशास्त्र और गंभीर निबंधों में 'चूँकि...अतएव' की शैली लेखक के बौद्धिक संतुलन और तार्किक स्पष्टता को दर्शाती है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"दवा\":",
+          "prompt": "कारणसूचक वाक्य «चूँकि आज अवकाश है, ___ सभी दुकानें बंद हैं» में सही परिणामवाची योजक क्या है?",
           "options": [
-            "हम इस पाठ में इकाई 17.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («अस्पताल» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («स्वास्थ्य» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («इलाज» का अनुचित स्थान)"
+            "इसलिए (Isliye - Therefore [correlative resultative to choonki])",
+            "क्योंकि (Causal repetition error)",
+            "ताकि (Purposive mismatch)",
+            "यद्यपि (Concessive mismatch)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "'चूँकि' के साथ परिणाम उपवाक्य में नित्यसंबंधी «इसलिए» या 'अतः' आता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"दवा\":",
+          "prompt": "वाक्य «वह समय पर स्टेशन नहीं पहुँच सका ___ रास्ते में भारी जाम लगा था» में सही योजक भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 17.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («स्वास्थ्य» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («इलाज» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («अस्पताल» का अशुद्ध रूप)"
+            "क्योंकि (Kyonki - Because [causal explanation])",
+            "इसलिए (Resultative error)",
+            "ताकि (Purposive error)",
+            "तथापि (Concessive error)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "विलंब का कारण बताने के लिए उपवाक्य के बीच में «क्योंकि» शुद्ध है।"
         }
       ]
     },
@@ -7171,17 +7190,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"दवा\": Which sentence is completely correct?",
+          "prompt": "कारण और परिणाम के पूर्णतः शुद्ध समन्वय वाला वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 17.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («इलाज» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («अस्पताल» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («स्वास्थ्य» से संबंधित)"
+            "चूँकि उसने परीक्षा के लिए निष्ठापूर्वक तैयारी की थी, इसलिए उसे उत्कृष्ट सफलता प्राप्त हुई। (Since he had prepared faithfully for the exam, therefore he achieved excellent success.)",
+            "चूँकि उसने तैयारी की क्योंकि सफलता मिली।",
+            "उसने तैयारी की ताकि सफलता मिली थी।",
+            "चूँकि तैयारी किया इसलिए सफल हो गया था वह।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«चूँकि... इसलिए» का कारण-परिणाम संबंध व्याकरणिक दृष्टि से सर्वथा त्रुटिहीन है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u17-l3": {
@@ -7189,53 +7209,62 @@
     "subject": "hindi",
     "unit": 17,
     "lessonNumber": 3,
-    "title": "प्रेरणार्थक क्रियाएं: प्रथम व द्वितीय (Causatives) (Part 3)",
+    "title": "उद्देश्य और परिणाम योजक: 'ताकि', 'जिससे कि', 'इतना...कि' (Purposive & Resultative Clauses)",
     "level": "B2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 17.3) with authentic linguistic precision.",
+    "objective": "उद्देश्यसूचक (ताकि, जिससे कि + संभावनार्थ काल) और परिणामसूचक तीव्रता (इतना/इतनी/इतने...कि) के वाक्य-विन्यास में पूर्ण दक्षता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "उद्देश्य (Purpose) और परिणाम की तीव्रता (Degree of Result) व्यक्त करने वाले योजक:\n\n1. **उद्देश्यसूचक योजक (ताकि / जिससे कि — 'So that / In order that')**:\n   - सूत्र: **[मुख्य उपवाक्य] + ताकि / जिससे कि + [संभावनार्थ उपवाक्य]**\n   - *कठिन परिश्रम करो ताकि तुम सफल हो सको*;\n   - *खिड़की बंद करो जिससे कि धूल अंदर न आए*;\n   - (नियम: 'ताकि' के बाद क्रिया प्रायः संभावनार्थ काल में होती है)।\n\n2. **परिणामसूचक तीव्रता (इतना / इतनी / इतने...कि — 'So...that')**:\n   - सूत्र: **[इतना/इतनी विशेषण] + कि + [निश्चयात्मक परिणाम उपवाक्य]**\n   - *वह इतना कमज़ोर था कि खड़ा भी नहीं हो सका*;\n   - *चाय इतनी गर्म थी कि पी नहीं जा सकी*;\n   - *इतने सारे लोग आए कि सभागार छोटा पड़ गया*।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 17.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 17."
+          "target": "चिकित्सक ने मरीज़ को पौष्टिक और संतुलित आहार लेने का परामर्श दिया ताकि उसके शरीर की रोग-प्रतिरोधक क्षमता तीव्र गति से बढ़ सके।",
+          "reading": "chikitsak ne mareez ko paushtik aur santulit aahaar lene ka paraamarsh diya taaki uske shareer ki rog-pratirodhak kshamta teevr gati se badh sake. [tʃɪkɪt̪sək neː məriːz koː pɔːʂʈɪk ɔːr sən̪t̪ʊlɪt̪ aːɦaːr leːneː kaː pəraːmərʃ d̪ɪjaː t̪aːkɪ ʊskeː ʃəriːr kiː roːɡ prət̪ɪroːd̪ʱək kʃəmt̪aː t̪iːʋr ɡət̪ɪ seː bəɽʱ səkeː] (chee-KEET-suhk nay muh-REEZ koh powsh-TEEK owr suhn-too-LEET ah-HAHR LAY-nay kah puh-RAH-muhrsh DEE-yah TAH-kee OOS-kay shuh-REER kee rohg-pruh-tee-roh-DHUHK kshuhm-TAH TEEV-ruh GUH-tee say buhdh SUH-kay)",
+          "translation": "The doctor advised the patient to take nutritious and balanced food so that his body's immune capacity could increase rapidly."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 17-3)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "विशाल जनसभा में इतनी भारी और अप्रत्याशित भीड़ जमा हो गई थी कि सुरक्षाकर्मियों और प्रशासन के लिए व्यवस्था संभालना अत्यंत कठिन हो गया।",
+          "reading": "vishaal jansabha mein itni bhaari aur apratyaashit bheed jama ho gayi thi ki surakshaakarmiyon aur prashaasan ke liye vyavastha sambhaalna atyant kathin ho gaya. [ʋɪʃaːl dʒənsəbʱaː mẽː ɪt̪niː bʱaːriː ɔːr əprət̪jaːʃɪt̪ bʱiːɽ dʒəmaː hoː ɡəiː t̪ʰiː kɪ sʊrəkʃaːkərmɪjõː ɔːr prəʃaːsən keː lɪjeː ʋjəʋəst̪ʰaː səmbʱaːlnaː ət̪jən̪t̪ kəʈʰɪn hoː ɡəjaː] (vee-SHAHL juhn-SUH-bhah mayn EET-nee BHAH-ree owr uh-pruht-yah-SHEET BHEED JUH-mah hoh GUH-yee thee kee soo-ruhk-shah-KUHR-mee-yohn owr pruh-SHAH-suhn kay lee-ay vyuh-VUHS-thah suhm-BHAHL-nah uht-YUHNT KUH-theen hoh GUH-yah)",
+          "translation": "Such a massive and unanticipated crowd had gathered in the large public rally that it became extremely difficult for security personnel and administration to manage the situation."
+        },
+        {
+          "target": "कृपया सभी खिड़कियाँ और दरवाज़े कसकर बंद कर दीजिए जिससे कि बाहर का भारी वायु प्रदूषण और उड़ती हुई धूल कमरे के अंदर न आ सके।",
+          "reading": "kripaya sabhi khidkiyaan aur darvaaze kaskar band kar deejiye jisse ki baahar ka bhaari vaayu pradooshan aur udti hui dhool kamre ke andar na aa sake. [krɪpəjaː səbʱiː kʰɪɽkɪjaː̃ ɔːr d̪ərʋaːzeː kəskər bən̪d̪ kər d̪iːdʒɪjeː dʒɪsseː kɪ baːɦər kaː bʱaːriː ʋaːjʊ prəd̪uːʂəɳ ɔːr ʊɽt̪iː hʊiː d̪ʱuːl kəmreː keː ən̪d̪ər nə aː səkeː] (kree-puh-YAH SUH-bhee kheed-kee-YAHN owr duhr-VAH-zay KUHS-kuhr buhnd kuhr DEE-jee-yay JEES-say kee BAH-huhr kah BHAH-ree VAH-yoo pruh-doo-SHUHN owr OOD-tee HOO-ee DHOOL KUHM-ray kay UHN-duhr nuh ah SUH-kay)",
+          "translation": "Please close all windows and doors tightly so that heavy outdoor air pollution and blowing dust may not enter inside the room."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "उद्देश्य = ताकि / जिससे कि (+ Subjunctive); परिणाम = इतना...कि (+ Fact)!"
+      ],
+      "culturalNotes": [
+        "सार्वजनिक भाषणों में 'हम यह कार्य कर रहे हैं ताकि आने वाली पीढ़ी को गौरव मिले' उद्देश्यपरक योजकों का सबसे प्रेरक उपयोग है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"अस्पताल\":",
+          "prompt": "उद्देश्य (Purpose: so that you may succeed) व्यक्त करने वाला शुद्ध वाक्य कौन-सा है?",
           "options": [
-            "हम इस पाठ में इकाई 17.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («स्वास्थ्य» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («इलाज» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («बुखार» का अनुचित स्थान)"
+            "नियमित अभ्यास करो ताकि तुम परीक्षा में सफल हो सको (Niyamit abhyaas karo taaki tum pareeksha mein safal ho sako - Practice regularly so that you may succeed)",
+            "नियमित अभ्यास करो क्योंकि सफल हो गए (कारण विपर्यय)",
+            "नियमित अभ्यास करो इसलिए सफल हुए (परिणाम दोष)",
+            "नियमित अभ्यास करो तथापि सफल हो (वैषम्य दोष)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "उद्देश्य दर्शाने के लिए «ताकि... सफल हो सको» का प्रयोग व्याकरणिक दृष्टि से शुद्ध है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"अस्पताल\":",
+          "prompt": "परिणाम की तीव्रता «वह इतना थक गया था ___ तुरंत सो गया» में सही योजक क्या है?",
           "options": [
-            "हम इस पाठ में इकाई 17.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («इलाज» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («बुखार» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («स्वास्थ्य» का अशुद्ध रूप)"
+            "कि (Ki - That [resultative connector with itna])",
+            "की (Feminine genitive typo)",
+            "ताकि (Purposive error)",
+            "क्योंकि (Causal error)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "'इतना' के साथ परिणाम उपवाक्य को जोड़ने वाला योजक «कि» है।"
         }
       ]
     },
@@ -7243,17 +7272,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"अस्पताल\": Which sentence is completely correct?",
+          "prompt": "उद्देश्य (ताकि) और परिणाम की तीव्रता (इतना...कि) का शुद्ध प्रयोग वाला वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 17.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («बुखार» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («स्वास्थ्य» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («इलाज» से संबंधित)"
+            "वक्ता ने इतनी मधुर वाणी में समझाया कि सभी श्रोता मंत्रमुग्ध हो गए और शांति बनाए रखी ताकि कोई व्यवधान न हो। (The speaker explained in so sweet a voice that all listeners were enchanted and maintained silence so that there was no disruption.)",
+            "वक्ता ने ताकि समझाया कि श्रोता इतने हो गए।",
+            "वक्ता इतना समझाया क्योंकि व्यवधान न हो।",
+            "वक्ता ने समझाया इसलिए ताकि शांति हो गई थी।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«इतनी मधुर वाणी में... कि सभी मंत्रमुग्ध हो गए» (तीव्रता) और «ताकि कोई व्यवधान न हो» (उद्देश्य) दोनों का समन्वय सर्वथा मानक है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u17-l4": {
@@ -7261,53 +7291,62 @@
     "subject": "hindi",
     "unit": 17,
     "lessonNumber": 4,
-    "title": "प्रेरणार्थक क्रियाएं: प्रथम व द्वितीय (Causatives) (Part 4)",
+    "title": "वैषम्य और रियायत योजक: 'यद्यपि...तथापि', 'हालाँकि...फिर भी' (Concessive & Adversative Conjunctions)",
     "level": "B2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 17.4) with authentic linguistic precision.",
+    "objective": "विरोधाभास, वैषम्य (Adversative) और रियायत (Concession) व्यक्त करने वाले उच्च स्तरीय योजकों — यद्यपि...तथापि, हालाँकि...फिर भी, किंतु, परंतु, लेकिन, बल्कि, अपितु — के शुद्ध प्रयोग में निपुण होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "परस्पर विरोधी या अप्रत्याशित विचारों को जोड़ने वाले योजक:\n\n1. **रियायत / छूट योजक (Concessive: 'यद्यपि...तथापि' / 'हालाँकि...फिर भी')**:\n   - तत्सम/साहित्यिक: **यद्यपि...तथापि** (*यद्यपि वह निर्धन है, तथापि अत्यंत स्वाभिमानी है*);\n   - मानक बोलचाल: **हालाँकि...फिर भी / तो भी** (*हालाँकि बारिश तेज़ थी, फिर भी हम पहुँचे*)।\n\n2. **विरोधवाची योजक (Adversative: किंतु, परंतु, लेकिन)**:\n   - *उसने प्रयास बहुत किया, किंतु सफलता नहीं मिली*।\n\n3. **संशोधनवाची / प्रतिषेधात्मक योजक (Corrective: 'बल्कि' / 'अपितु' — 'Not only/not X, but rather Y')**:\n   - *वह केवल गायक ही नहीं है, बल्कि कुशल संगीतकार भी है*;\n   - *हमें क्रोध नहीं करना चाहिए, बल्कि समस्या का समाधान खोजना चाहिए*।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 17.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 17."
+          "target": "यद्यपि पर्वतारोहण का मार्ग अत्यंत दुर्गम, पथरीला और बीहड़ था, तथापि सभी साहसी पर्वतारोहियों ने अदम्य उत्साह से सर्वोच्च शिखर पर तिरंगा फहराया।",
+          "reading": "yadyapi parvataarohan ka maarg atyant durgam, pathreela aur beehad tha, tathaapi sabhi saahasi parvataarohiyon ne adamya utsaah se sarvochch shikhar par tiranga phahraaya. [jəd̪jəpɪ pərʋət̪aːroːɦəɳ kaː maːrɡ ət̪jən̪t̪ d̪ʊrɡəm pət̪ʰriːlaː ɔːr biːɦəɽ t̪ʰaː t̪ət̪ʰaːpɪ səbʱiː saːɦsiː pərʋət̪aːroːɦɪjõː neː əd̪əmjə ʊt̪saːɦ seː sərʋoːtʃː ʃɪkʰər pər t̪ɪrənɡaː pʰɛɦraːjaː] (yud-YUH-pee puhr-vuh-tah-ROH-huhn kah MAHRG uht-YUHNT door-GUHM, puht-REE-lah owr BEE-huhd thah, tuh-THAH-pee SUH-bhee sah-huh-SEE puhr-vuh-tah-roh-HEE-yohn nay uh-DUHM-yuh oot-SAH say suhr-VOHTCH SHEE-khuhr puhr tee-RUHN-gah fuh-h-RAH-yah)",
+          "translation": "Although the mountaineering route was extremely difficult, rocky, and rugged, nevertheless all brave mountaineers unfurled the tricolor on the highest summit with indomitable enthusiasm."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 17-4)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "हालाँकि इस प्रतिष्ठित राष्ट्रीय प्रतियोगिता में देश-विदेश के अत्यंत प्रतिभाशाली प्रतिभागी आए थे, फिर भी हमारे स्थानीय ग्रामीण विद्यालय के छात्र ने प्रथम पुरस्कार जीता।",
+          "reading": "haalaanki is pratishthit raashtreey pratiyogita mein desh-videsh ke atyant pratibhaashaali pratibhaagi aaye the, phir bhi hamaare sthaaneey graameen vidyaalay ke chhaatr ne pratham puraskaar jeeta. [ɦaːlaː̃kɪ ɪs prət̪ɪʂʈʰɪt̪ raːʂʈriːj prət̪ɪjoːɡɪt̪aː mẽː d̪eːʃ ʋɪd̪eːʃ keː ət̪jən̪t̪ prət̪ɪbʱaːʃaːliː prət̪ɪbʱaːɡiː aːjeː t̪ʰeː pʰɪr bʱiː ɦəmaːreː st̪ʰaːniːj ɡraːmiːɳ ʋɪd̪jaːləj keː tʃʰaːt̪r neː prət̪ʰəm pʊrəskaːr dʒiːt̪aː] (hah-LAHN-kee ees pruh-teesh-THEET rahsh-TREE-yuh pruh-tee-yoh-GEE-tah mayn daysh-vee-DAYSH kay uht-YUHNT pruh-tee-bhah-SHAH-lee pruh-tee-bhah-GEE AH-yay thay, feer bhee huh-MAH-ray sthah-NEE-yuh grah-MEEN veed-YAH-luy kay CHHAH-truh nay PRUH-thuhm poor-uhs-KAHR JEE-tah)",
+          "translation": "Although extremely talented participants from across the country and abroad had come to this prestigious national competition, still the student of our local rural school won the first prize."
+        },
+        {
+          "target": "सच्चा निष्ठावान देशप्रेमी केवल खोखले भाषण देने में विश्वास नहीं रखता, बल्कि देश के सर्वांगीण उत्थान के लिए ठोस और रचनात्मक कार्य करता है।",
+          "reading": "sachcha nishthaavaan deshpremi keval khokhale bhaashan dene mein vishvaas nahin rakhta, balki desh ke sarvaangeen utthaan ke liye thos aur rachnaatmak kaary karta hai. [sətʃːaː nɪʂʈʰaːʋaːn d̪eːʃpreːmiː keːʋəl kʰoːkʰleː bʱaːʂəɳ d̪eːneː mẽː ʋɪʃʋaːs nəɦĩː rəkʰt̪aː bəlkiː d̪eːʃ keː sərʋaːŋɡiːɳ ʊt̪ːʰaːn keː lɪjeː t̪ʰoːs ɔːr rətʃnaːt̪mək kaːrjə kərt̪aː hɛː] (SUHTCH-chah neesh-thah-VAHN daysh-PRAY-mee KAY-vuhl KHOH-khuh-lay bhah-SHUHN DAY-nay mayn veesh-VAHS nuh-HEEN RUHKH-tah, BUHL-kee daysh kay suhr-vahn-GEEN oot-THAHN kay lee-ay thohs owr ruhch-nah-TMUHK KAHR-yuh KUHR-tah hy)",
+          "translation": "A true dedicated patriot does not believe merely in giving hollow speeches, but rather does solid and constructive work for the all-round upliftment of the country."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "रियायत = यद्यपि...तथापि / हालाँकि...फिर भी; संशोधन = नहीं...बल्कि (Not X, but Y)!"
+      ],
+      "culturalNotes": [
+        "गांधीवादी दर्शन और स्वतंत्रता संग्राम के साहित्यों में 'यद्यपि विपत्तियाँ अपार थीं, तथापि हम अडिग रहे' जैसी भाषा आत्मबल और नैतिक शक्ति का उद्घोष रही है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"स्वास्थ्य\":",
+          "prompt": "साहित्यिक रियायत योजक «यद्यपि वह बीमार था, ___ उसने परीक्षा दी» में सही नित्यसंबंधी शब्द क्या होगा?",
           "options": [
-            "हम इस पाठ में इकाई 17.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («इलाज» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («बुखार» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («सिरदर्द» का अनुचित स्थान)"
+            "तथापि (Tathaapi - Nevertheless / Even so [correlative to yadyapi])",
+            "क्योंकि (Causal error)",
+            "इसलिए (Resultative error)",
+            "ताकि (Purposive error)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "'यद्यपि' (although) के साथ नित्यसंबंधी के रूप में तत्सम अव्यय «तथापि» आता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"स्वास्थ्य\":",
+          "prompt": "संशोधनवाची वाक्य «वह मूर्ख नहीं है, ___ अत्यंत चतुर है» में सही योजक भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 17.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («बुखार» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («सिरदर्द» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («इलाज» का अशुद्ध रूप)"
+            "बल्कि (Balki - But rather / On the contrary)",
+            "क्योंकि (Causal error)",
+            "इसलिए (Resultative error)",
+            "यद्यपि (Concessive error)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "पूर्व कथन का खंडन कर नवीन तथ्य स्थापित करने हेतु «बल्कि» (but rather) शुद्ध है।"
         }
       ]
     },
@@ -7315,17 +7354,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"स्वास्थ्य\": Which sentence is completely correct?",
+          "prompt": "वैषम्य और रियायत योजकों (यद्यपि...तथापि एवं बल्कि) का शुद्ध प्रयोग वाला वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 17.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («सिरदर्द» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («इलाज» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («बुखार» से संबंधित)"
+            "यद्यपि परिस्थितियाँ अत्यंत प्रतिकूल थीं, तथापि उसने धैर्य नहीं खोया, बल्कि दुगुने उत्साह से कार्य में जुट गया। (Although circumstances were extremely adverse, nevertheless he did not lose patience, but rather immersed in work with redoubled zeal.)",
+            "यद्यपि परिस्थितियाँ प्रतिकूल थीं इसलिए धैर्य खो दिया।",
+            "हालाँकि परिस्थितियाँ थीं ताकि उत्साह बढ़ गया।",
+            "परिस्थितियाँ प्रतिकूल थीं तथापि क्योंकि उसने काम किया।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«यद्यपि... तथापि» (रियायत) और «बल्कि» (संशोधन) का संश्लिष्ट प्रयोग व्याकरणिक दृष्टि से सर्वथा आदर्श है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u17-l5": {
@@ -7333,53 +7373,62 @@
     "subject": "hindi",
     "unit": 17,
     "lessonNumber": 5,
-    "title": "प्रेरणार्थक क्रियाएं: प्रथम व द्वितीय (Causatives) (Part 5)",
+    "title": "जटिल मिश्रित वाक्यों का समेकन व वाक्य विश्लेषण (Synthesis of Complex Sentence Connectors)",
     "level": "B2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 17.5) with authentic linguistic precision.",
+    "objective": "हिंदी के सभी पाँचों योजक वर्गों (कथन, कारण, उद्देश्य, परिणाम, वैषम्य) का उच्च स्तरीय गद्य अनुच्छेदों में समेकन तथा जटिल वाक्यों के पद-विश्लेषण (Syntactic Analysis) में पूर्ण अधिकार प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "हिंदी योजक व्यवस्था (Conjunction System) का संपूर्ण पंचवर्गीय संश्लेषण:\n\n1. **पाँचों प्रमुख योजक वर्ग**:\n   - **1. कथन योजक (Declarative)**: *कि* (उसने कहा कि...);\n   - **2. कारण योजक (Causal)**: *क्योंकि*, *चूँकि...इसलिए/अतः*;\n   - **3. उद्देश्य योजक (Purposive)**: *ताकि*, *जिससे कि* (+ Subjunctive);\n   - **4. परिणाम योजक (Resultative)**: *इतना...कि*, *फलस्वरूप*;\n   - **5. वैषम्य/रियायत योजक (Concessive/Adversative)**: *यद्यपि...तथापि*, *हालाँकि...फिर भी*, *किंतु/परंतु*, *बल्कि/अपितु*।\n\n2. **मिश्रित व संयुक्त वाक्यों का विश्लेषण (Syntax Parsing)**:\n   - एक ही अनुच्छेद में विभिन्न उपवाक्यों की तार्किक शृंखला:\n     *वैज्ञानिकों ने बताया कि यद्यपि चुनौती कठिन थी, तथापि हमने निरंतर प्रयास किया ताकि देश आत्मनिर्भर बने।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 17.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 17."
+          "target": "प्रधान वैज्ञानिक ने आधिकारिक संवाददाता सम्मेलन में घोषणा की कि यद्यपि यह अंतरिक्ष परीक्षण अत्यंत चुनौतीपूर्ण था, तथापि उनकी टीम ने पूरी निष्ठा से इसे सफल बनाया ताकि देश विज्ञान में आत्मनिर्भर हो सके।",
+          "reading": "pradhaan vaigyaanik ne aadhikaarik samvaadaata sammelan mein ghoshna ki ki yadyapi yah antariksh pareekshan atyant chunautipoorna tha, tathaapi unki team ne poori nishtha se ise safal banaaya taaki desh vigyaan mein aatmanirbhar ho sake. [prəd̪ʱaːn ʋɛːɡjaːnɪk neː aːd̪ʱɪkaːrɪk səmʋaːd̪aːt̪aː səmːeːlən mẽː ɡʱoːʂɳaː kiː kɪ jəd̪jəpɪ jəɦ ən̪t̪rɪkʃ pəriːkʃəɳ ət̪jən̪t̪ tʃʊnɔːt̪iːpuːrɳə t̪ʰaː t̪ət̪ʰaːpɪ ʊnkiː ʈiːm neː puːriː nɪʂʈʰaː seː ɪseː səfəl bənaːjaː t̪aːkɪ d̪eːʃ ʋɪɡjaːn mẽː aːt̪mənɪrbʱər hoː səkeː] (pruh-DHAHN vyg-YAH-neek nay ah-dhee-KAH-reek suhm-vah-DAH-tah suhm-MAY-luhn mayn GHOHSH-nah kee kee yud-YUH-pee yuh uhn-tuh-REEKSH puh-REEK-shuhn uht-YUHNT choo-now-tee-POOR-nuh thah, tuh-THAH-pee OON-kee teem nay POO-ree NEESH-thah say ee-SAY SUH-fuhl buh-NAH-yah TAH-kee daysh veeg-YAHN mayn aht-muh-neer-BHUHR hoh SUH-kay)",
+          "translation": "The chief scientist announced in the official press conference that although this space test was extremely challenging, nevertheless his team made it successful with total dedication so that the nation could become self-reliant in science."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 17-5)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "चूँकि वार्षिक परीक्षा की तिथियाँ बहुत निकट आ गई थीं, इसलिए सभी गंभीर विद्यार्थियों ने प्रतिदिन कई घंटे अतिरिक्त अध्ययन किया जिससे कि वे परीक्षा में उत्कृष्ट अंक प्राप्त कर सकें।",
+          "reading": "choonki vaarshik pareeksha ki tithiyaan bahut nikat aa gayi theen, isliye sabhi gambheer vidyaarthiyon ne pratidin kayi ghante atirikt adhyayan kiya jisse ki ve pareeksha mein utkrisht ank praapt kar sakein. [tʃuː̃kɪ ʋaːrʂɪk pəriːkʃaː kiː t̪ɪt̪ʰɪjaː̃ bəɦʊt̪ nɪkəʈ aː ɡəiː t̪ʰĩː ɪslɪjeː səbʱiː ɡəmbiːr ʋɪd̪jaːrt̪ʰɪjõː neː prət̪ɪd̪ɪn kəiː ɡʱəɳʈeː ət̪ɪrɪkt̪ əd̪ʱjəjən kɪjaː dʒɪsseː kɪ ʋeː pəriːkʃaː mẽː ʊt̪krɪʂʈ əŋk praːpt̪ kər səkẽː] (CHOON-kee VAHR-sheek puh-REEK-shah kee tee-THEE-yahn buh-hoot NEE-kuht ah GUH-yee theen, ees-LEE-ay SUH-bhee guhm-BHEER veed-YAHR-thee-yohn nay pruh-tee-DEEN kuh-EE GHUHN-tay uh-tee-REEKT uhdh-YUH-yuhn kee-YAH JEES-say kee vay puh-REEK-shah mayn oot-KREESH-th uhnk PRAHPT kuhr suh-KAYN)",
+          "translation": "Since the dates of the annual examination had come very close, therefore all serious students studied several hours extra each day so that they could obtain excellent marks in the examination."
+        },
+        {
+          "target": "उस महान और त्यागी समाज सुधारक ने सदैव यह संदेश दिया कि सच्चा धर्म केवल बाहरी आडंबरों में नहीं है, बल्कि समाज के अंतिम पीड़ित व्यक्ति की निःस्वार्थ सेवा करने में निहित है।",
+          "reading": "us mahaan aur tyaagi samaaj sudhaarak ne sadaiv yah sandesh diya ki sachcha dharm keval baahari aadambaron mein nahin hai, balki samaaj ke antim peedit vyakti ki nihsvaarth seva karne mein nihit hai. [ʊs məɦaːn ɔːr t̪jaːɡiː səmaːdʒ sʊd̪ʱaːrək neː səd̪ɛːʋ jəɦ sən̪d̪eːʃ d̪ɪjaː kɪ sətʃːaː d̪ʱərm keːʋəl baːɦriː aːɖəmbərõː mẽː nəɦĩː hɛː bəlkiː səmaːdʒ keː ən̪t̪ɪm piːɽɪt̪ ʋjəkt̪ɪ kiː nɪɦsʋaːrt̪ʰ seːʋaː kərneː mẽː nɪɦɪt̪ hɛː] (oos muh-HAHN owr tyah-GEE suh-MAHJ soo-DHAH-ruhk nay suh-DYV yuh suhn-DAYSH DEE-yah kee SUHTCH-chah DHUHRM KAY-vuhl bah-huh-REE ah-duhm-buh-ROHN mayn nuh-HEEN hy, BUHL-kee suh-MAHJ kay UHN-teem PEE-deet VYUHNK-tee kee neeh-SVAHRTH SAY-vah KUHR-nay mayn nee-HEET hy)",
+          "translation": "That great and selfless social reformer always gave the message that true religion does not lie merely in external pretenses, but rather is inherent in selflessly serving the last afflicted person of society."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "कि (कथन) + चूँकि...इसलिए (कारण) + ताकि (उद्देश्य) + इतना...कि (परिणाम) + यद्यपि...तथापि (वैषम्य)! वाक्य रचना का पंचतत्व!"
+      ],
+      "culturalNotes": [
+        "समकालीन हिंदी के उत्कृष्ट संपादकीय (Editorials) और साहित्यिक आलोचनाओं में इन पंचवर्गीय योजकों का संश्लिष्ट प्रयोग शैलीगत परिपक्वता का सर्वोच्च प्रमाण माना जाता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"इलाज\":",
+          "prompt": "योजकों के संश्लिष्ट संयोजन वाला व्याकरणिक रूप से आदर्श वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 17.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («बुखार» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («सिरदर्द» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («आँखें» का अनुचित स्थान)"
+            "उसने बताया कि यद्यपि कार्य कठिन था, तथापि उसने पूरा किया ताकि सभी को लाभ मिले (He told that although work was tough, still he completed it so that all may benefit)",
+            "उसने बताया क्योंकि कार्य कठिन था तथापि ताकि पूरा हुआ (अव्यवस्थित योजक दोष)",
+            "उसने कहा इसलिए यद्यपि कार्य था ताकि पूरा हुआ (असंगत संयोजन)",
+            "उसने बताया कि कार्य कठिन था क्योंकि पूरा किया (तार्किक विपर्यय)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«कि» (कथन), «यद्यपि... तथापि» (रियायत), और «ताकि» (उद्देश्य) का संयोजन वाक्य को सुगठित और प्रामाणिक बनाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"इलाज\":",
+          "prompt": "वाक्य «चूँकि वह ज्ञानी है, ___ अहंकारी नहीं ___ अत्यंत विनम्र है» में सही योजक युग्म भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 17.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («सिरदर्द» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («आँखें» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («बुखार» का अशुद्ध रूप)"
+            "इसलिए...बल्कि (Isliye...balki - Therefore...but rather)",
+            "क्योंकि...ताकि (Mismatch)",
+            "यद्यपि...तथापि (Double concessive clash)",
+            "कि...की (Punctuation mismatch)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "कारण-परिणाम हेतु «इसलिए» और संशोधन/विरोधाभास हेतु «बल्कि» का युग्म शत-प्रतिशत शुद्ध है।"
         }
       ]
     },
@@ -7387,17 +7436,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"इलाज\": Which sentence is completely correct?",
+          "prompt": "पाँचों योजक वर्गों का समग्र रूप से शुद्ध व तार्किक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 17.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («आँखें» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («बुखार» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («सिरदर्द» से संबंधित)"
+            "शिक्षक ने समझाया कि चूँकि समय अमूल्य है, इसलिए हमें व्यर्थ समय नहीं गँवाना चाहिए, बल्कि निरंतर परिश्रम करना चाहिए ताकि भविष्य उज्ज्वल हो। (The teacher explained that since time is invaluable, therefore we should not waste time, but rather work hard continuously so that future may be bright.)",
+            "शिक्षक ने समझाया की समय अमूल्य है क्योंकि व्यर्थ गँवाते हैं ताकि भविष्य हो।",
+            "शिक्षक ने कहा इसलिए समय अमूल्य है यद्यपि परिश्रम करें।",
+            "समय अमूल्य है ताकि शिक्षक ने समझाया इसलिए भविष्य हो गया था।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«कि» (कथन) + «चूँकि... इसलिए» (कारण) + «बल्कि» (संशोधन) + «ताकि» (उद्देश्य) का यह संश्लेषण हिंदी वाक्य रचना का शिखर मानक है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u18-l1": {
