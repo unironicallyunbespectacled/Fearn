@@ -13963,85 +13963,89 @@
     "subject": "mandarin",
     "unit": 24,
     "lessonNumber": 1,
-    "title": "商务汉语与公文写作 (Business Chinese & Official Correspondence) (第1讲)",
+    "title": "公文行政体例、呈批请示与请批批复句法范式 (Administrative Documents, Requests & Approvals Syntax)",
     "level": "B2",
-    "objective": "全面掌握与熟练运用本课核心内容：商务合同、招投标书、公函、行政呈批件及正式商务谈判策略。 (第1部分)。",
+    "objective": "系统掌握现代汉语法定公文体例结构（标题三要素、正文、呈批与结语词）、请示报告标准程式（妥否，请批示）及公函商洽语言规范（望予协助为盼/为荷）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "公文是国家机关、企事业单位进行行政运转、政策上传下达与跨部门协作的法定规范文书：\n\n一、法定公文标题与三大必备要素：\n1. 标准公文标题结构：【发文机关 + 发文事由 + 公文文种】（如《国家科学技术部关于申请追加重大科技攻关项目经费的请示》）。\n2. 核心公文文种谱系：\n-【下行文与批转】：通知、通报、决定、批复（上级针对下级请示的正式裁决）。\n-【上行文与呈报】：请示（向上级请求指示或批准）、报告（向上级汇报工作且不要求批复）。\n-【平行文与商洽】：函（不相隶属机关之间商洽工作、询问答复、请求协助）。\n\n二、公文结尾习惯用语（结语虚词）铁律：\n1.【请示件标准结语】：\n-「妥否，请批示。」 / 「当否，请审示。」 / 「如无不妥，请批转各单位执行。」\n2.【公函商洽标准结语】：\n-「特此函达，望予协助为盼。」 / 「请予大力支持为荷。」（「为荷」意为：以此为感谢与感激）。\n3.【上级批复标准用语】：\n-「贵司关于...的请示收悉，经研究，现批复如下：」 / 「特此批复。」",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「商务汉语与公文写作 (Business Chinese & Official Correspondence)」的核心语法法则与应用范例 (24.1.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '商务汉语与公文写作 (Business Chinese & Official Correspondence)' in simple terms to students at the academic seminar."
+          "target": "《关于申请追加重大科技攻关项目专项经费的请示》业经专家委员会严格论证，妥否，请批示。(《Guānyú shēnqǐng zhuījiā zhòngdà kējì gōngguān xiàngmù zhuānxiàng jīngfèi de qǐngshì》 yèjīng zhuānjiā wěiyuánhuì yángé lùnzhèng, tuǒfǒu, qǐng pīshì.)",
+          "reading": "[《kwan˥.y˧˥ ʂən˥.t͡ɕʰiŋ˨˩.ʈ͡ʂweɪ̯˥.t͡ɕja˥ ʈ͡ʂʊŋ˥˩.ta˥˩ kʰɤ˥.t͡ɕi˥˩ kʊŋ˥.kwan˥ ɕjaŋ˥˩.mu˥˩ ʈ͡ʂwan˥.ɕjaŋ˥˩ t͡ɕiŋ˥.feɪ̯˥˩ tɤ t͡ɕʰiŋ˨˩.ʂɨ˥˩》 jɛ˥˩.t͡ɕiŋ˥ ʈ͡ʂwan˥.t͡ɕja˥ weɪ̯˨˩.jɥɛn˧˥.xweɪ̯˥˩ jan˧˥.kɤ˧˥ lwən˥˩.ʈ͡ʂəŋ˥˩, tʰwɔ˨˩.foʊ̯˨˩˦, t͡ɕʰiŋ˨˩˦ pʰi˥.ʂɨ˥˩] (《Guān-yú shēn-qǐng zhuī-jiā zhòng-dà kē-jì gōng-guān xiàng-mù zhuān-xiàng jīng-fèi de qǐng-shì》 yè-jīng zhuān-jiā wěi-yuán-huì yán-gé lùn-zhèng, tuǒ-fǒu, qǐng pī-shì.)",
+          "translation": "The 'Request for Instructions on Applying for Additional Special Funds for Major Scientific and Technological Breakthrough Projects' has already been strictly demonstrated by the expert committee. Whether appropriate, please instruct."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (24.1.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "贵司关于联合设立人工智能前沿创新实验室的函件收悉，经我厅党组审慎研究，现批复如下。(Guìsī guānyú liánhé shèlì réngōng-zhìnéng qiányán chuàngxīn shíyànshì de hánjiàn shōuxī, jīng wǒ tīng dǎngzǔ shěnshèn yánjiū, xiàn pīfù rúxià.)",
+          "reading": "[kweɪ̯˥˩.sɨ˥ kwan˥.y˧˥ ljɛn˧˥.xɤ˧˥ ʂɤ˥˩.li˥˩ ʐən˧˥.kʊŋ˥.ʈ͡ʂɨ˥˩.nɤŋ˧˥ t͡ɕʰjɛn˧˥.jan˧˥ t͡ʂʰwaŋ˥˩.ɕin˥ ʂɨ˧˥.jan˥˩.ʂɨ˥˩ tɤ xan˧˥.t͡ɕjɛn˥˩ ʂoʊ̯˥.ɕi˥, t͡ɕiŋ˥ wɔ˨˩˦ tʰiŋ˥ taŋ˨˩.t͡su˨˩˦ ʂən˨˩.ʂən˥˩ jan˧˥.t͡ɕjoʊ̯˥, ɕjɛn˥˩ pʰi˥.fu˥˩ ʐu˧˥.ɕja˥˩] (Guì-sī guān-yú lián-hé shè-lì rén-gōng-zhì-néng qián-yán chuàng-xīn shí-yàn-shì de hán-jiàn shōu-xī, jīng wǒ tīng dǎng-zǔ shěn-shèn yán-jiū, xiàn pī-fù rú-xià.)",
+          "translation": "Your company's letter regarding the joint establishment of the Frontier Artificial Intelligence Innovation Laboratory has been received and thoroughly understood. Following careful deliberation by our department's Party leadership group, the official reply is hereby given as follows."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (24.1.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "为深化产学研协同创新，拟请贵校选派三名国家级领军人才赴我基地指导，望予大力协助为盼。(Wèi shēnhuà chǎn-xué-yán xiétóng chuàngxīn, nǐqǐng guìxiào xuǎnpài sān míng guójiājí lǐngjūn réncái fù wǒ jīdì zhǐdǎo, wàngyǔ dàlì xiézhù wéipàn.)",
+          "reading": "[weɪ̯˥˩ ʂən˥.xwa˥˩ t͡ʂʰan˨˩.ɕɥɛ˧˥.jan˧˥ ɕjɛ˧˥.tʰʊŋ˧˥ t͡ʂʰwaŋ˥˩.ɕin˥, ni˨˩.t͡ɕʰiŋ˨˩˦ kweɪ̯˥˩.ɕjaʊ̯˥˩ ɕɥɛn˨˩.pʰaɪ̯˥˩ san˥ miŋ˧˥ kwo˧˥.t͡ɕja˥.t͡ɕi˧˥ liŋ˨˩.t͡ɕyn˥ ʐən˧˥.t͡sʰaɪ̯˧˥ fu˥˩ wɔ˨˩˦ t͡ɕi˥.ti˥˩ ʈ͡ʂɨ˨˩.taʊ̯˨˩˦, wɑŋ˥˩.y˨˩˦ ta˥˩.li˥˩ ɕjɛ˧˥.ʈ͡ʂu˥˩ weɪ̯˧˥.pʰan˥˩] (Wèi shēn-huà chǎn-xué-yán xié-tóng chuàng-xīn, nǐ-qǐng guì-xiào xuǎn-pài sān míng guó-jiā-jí lǐng-jūn rén-cái fù wǒ jī-dì zhǐ-dǎo, wàng-yǔ dà-lì xié-zhù wéi-pàn.)",
+          "translation": "To deepen industry-university-research collaborative innovation, it is proposed to request your esteemed university to select and dispatch three national-level leading talents to our base for guidance. Your vigorous assistance is earnestly looked forward to."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (24.1.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "法定公文格式严谨周密，请示末尾常以「妥否，请批示」作为标准结语以示敬重与遵循程序。(Fǎdìng gōngwén gēshì yánjǐn zhōumì, qǐngshì mòwěi cháng yǐ 'tuǒfǒu, qǐng pīshì' zuòwéi biāozhǔn jiéyǔ yǐ shì jìngzhòng yǔ zūnxún chéngxù.)",
+          "reading": "[fa˨˩.tiŋ˥˩ kʊŋ˥.wən˧˥ kɤ˧˥.ʂɨ˥˩ jan˧˥.t͡ɕin˨˩˦ ʈ͡ʂoʊ̯˥.mi˥˩, t͡ɕʰiŋ˨˩.ʂɨ˥˩ mwo˥˩.weɪ̯˨˩˦ t͡ʂʰɑŋ˧˥ i˨˩˦ 'tʰwɔ˨˩.foʊ̯˨˩˦, t͡ɕʰiŋ˨˩˦ pʰi˥.ʂɨ˥˩' t͡swoʊ̯˥˩.weɪ̯˧˥ pjaʊ̯˥.ʈ͡ʂwən˨˩˦ t͡ɕjɛ˧˥.y˨˩˦ i˨˩˦ ʂɨ˥˩ t͡ɕiŋ˥˩.ʈ͡ʂʊŋ˥˩ y˨˩˦ t͡swn˥.ɕyn˧˥ t͡ʂʰəŋ˧˥.ɕy˥] (Fǎ-dìng gōng-wén gé-shì yán-jǐn zhōu-mì, qǐng-shì mò-wěi cháng yǐ 'tuǒ-fǒu, qǐng pī-shì' zuò-wéi biāo-zhǔn jié-yǔ yǐ shì jìng-zhòng yǔ zūn-xún chéng-xù.)",
+          "translation": "The statutory official document format is rigorous and meticulous; the end of a request for instructions often uses 'Whether appropriate, please instruct' as the standard concluding remark to show deference and adhere to procedural protocol."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "发文事由文种全，妥否批示挂文端；收悉批复如下告，为荷为盼敬重显！"
+      ],
+      "culturalNotes": [
+        "中文公文的敬语体系（如「妥否，请批示」、「为荷」、「为盼」）体现了中国传统公牍礼法与现代行政规程的完美融合，具有极高的程序严肃性。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「商务汉语与公文写作 (Business Chinese & Official Correspondence)」（第1讲）的标准汉语规范？",
+          "prompt": "在向上级机关呈送的正式《请示》文件结尾，最标准的规范呈批结语是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「商务汉语与公文写作 (Business Chinese & Official Correspondence)」的核心语法法则与应用范例 (24.1.1)。",
-            "存在语序混乱且虚词误用的病句选项 (24.1.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (24.1.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (24.1.w3)"
+            "妥否，请批示。 (Whether appropriate, please instruct: 严格上行公文呈批语)",
+            "你看着办吧",
+            "必须明天回复我",
+            "就这样决定了"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「妥否，请批示」是现代汉语上行公文《请示》的标准法定结语。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在不相隶属机关之间发送商洽公函请求对方协助时，文末常用的感激期盼结语是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "特此函达，望予协助为盼 / 为荷 (Your assistance is looked forward to / greatly appreciated)",
+            "请上级立刻命令他们",
+            "快点做完别偷懒",
+            "命令你单位执行"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「望予协助为盼」或「请予大力支持为荷」是公函平行商洽的标准敬辞结语。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「商务汉语与公文写作 (Business Chinese & Official Correspondence)」的正式语境下，最准确得体的表达是哪一项？（第24.1题）",
+          "prompt": "上级机关在对下级单位的请示文件作出正式书面答复时，所使用的法定公文文种是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (24.1.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (24.1.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (24.1.x2)",
-            "量词与名词修饰搭配错误的病句选项 (24.1.x3)"
+            "批复 (Official reply / approval: 专用于答复下级请示事项)",
+            "日记",
+            "散文",
+            "口信"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「批复」是法定公文中专用于答复下级机关请示事项的下行文文种。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u24-l1）所要求的高阶语言表达？",
+          "prompt": "在公文体例中，公文标题的黄金标准三要素构成顺序是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (24.1.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (24.1.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (24.1.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (24.1.y3)"
+            "发文机关 + 发文事由 + 公文文种 (Issuing agency + Subject/matter + Document type)",
+            "文种 + 日期 + 领导名字",
+            "随便起一个吸引人的标题",
+            "事由 + 天气 + 电话号码"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "标准法定公文标题必须由「发文机关 + 发文事由 + 公文文种」三要素构成。"
         }
       ]
     },
@@ -14049,25 +14053,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「商务汉语与公文写作 (Business Chinese & Official Correspondence)」的掌握程度，请选出表述完全正确的标准范句（测试 24-1）：",
+          "prompt": "请选出下列公文呈批与请批批复行文中结构最严谨、格式最规范、用语最得体的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (24.1.4)。",
-            "被动句式与处置句式混用导致的严重病句 (24.1.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (24.1.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (24.1.z3)"
+            "《关于申请设立国家级重大创新试验区的请示》业经专家委员会周密论证。为抢抓数字经济发展机遇，拟请上级批准在我市设立试验区并给予先行先试政策支持。妥否，请批示。(标题规范、事由明确、公文敬语得体、结语标准，法定公文请示典范)",
+            "我们想建个试验区，大家赶紧批准，别耽误时间。(语气傲慢极不规范)",
+            "设立试验区被妥否请批示在专家委员会。(句式混乱破损)",
+            "请示报告说要设立试验区你看着办。(口语化严重缺乏公文严肃性)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语段在公文标题构成、事由陈述、申请意图及标准呈批结语「妥否，请批示」上完全符合国家法定公文标准。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u24-l1）的核心关键词（例如「商务汉语」）：",
+          "prompt": "请输入正式公文请示末尾用于请求上级批阅指示的核心四字经典结语（例如「妥否，」；拼音为 qǐng pīshì）：",
           "acceptedAnswers": [
-            "商务汉语",
-            "商务汉语与公",
-            "商务汉语与公文写作"
+            "请批示"
           ],
-          "explanation": "正确的核心关键词为「商务汉语」。"
+          "explanation": "词语「请批示」是现代汉语上行请示公文中最关键的核心程式语。"
         }
       ],
       "passThreshold": 0.8
@@ -14078,85 +14080,89 @@
     "subject": "mandarin",
     "unit": 24,
     "lessonNumber": 2,
-    "title": "商务汉语与公文写作 (Business Chinese & Official Correspondence) (第2讲)",
+    "title": "商务合同、权责条款与违约赔偿法律语言体系 (Commercial Contracts, Rights/Obligations & Breach Clauses)",
     "level": "B2",
-    "objective": "全面掌握与熟练运用本课核心内容：商务合同、招投标书、公函、行政呈批件及正式商务谈判策略。 (第2部分)。",
+    "objective": "系统掌握现代汉语商务合同法治语言体系（甲方/乙方、鉴于条款、以资信守、不可抗力、实质违约及违约金赔偿机制）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "商务合同是商业主体确立民商事权利义务关系、防范法律风险的核心契约载体：\n\n一、合同主体与鉴于条款（Preamble）程式语：\n1. 主体称谓：甲方 (Party A) 与 乙方 (Party B)。\n2. 鉴于条款与立约目的：\n-「鉴于甲乙双方本着平等自愿、互惠互利的原则，经友好协商，特订立本合同，以资共同信守/遵守。」（「以资」意为：以此作为证据或凭证）。\n\n二、核心权责与不可抗力免责条款：\n1.【履约与保密义务】：各方应严格恪守合同约定，未经对方书面同意，不得向任何第三方披露保密信息。\n2.【不可抗力 (Force Majeure)】：因不可抗力（如地震、台风、战争等不可预见、不可避免且不能克服的客观情况）致使合同不能履行，受影响方应在规定时间内出具有效证明并免除相应责任。\n\n三、违约责任与争议解决机制：\n1.【实质违约与违约金】：任何一方违反本合同约定义务，即构成违约，应向守约方支付违约金，并全额赔偿实际直接与间接经济损失。\n2.【合同生效与份数】：本合同一式两份，甲乙双方各执一份，自双方法定代表人签字并加盖公章之日起生效，均具有同等法律效力。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「商务汉语与公文写作 (Business Chinese & Official Correspondence)」的核心语法法则与应用范例 (24.2.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '商务汉语与公文写作 (Business Chinese & Official Correspondence)' in simple terms to students at the academic seminar."
+          "target": "鉴于甲乙双方本着平等互惠之原则，经充分友好协商，特订立本战略采购协议，以资共同信守。(Jiànyú jiǎ-yǐ shuāngfāng běnzhe píngděng hùhuì zhī yuánzé, jīng chōngfèn yǒuhǎo xiéshāng, tè dìnglì běn zhànlüè cǎigòu xiéyì, yǐzī gòngtóng xìnshǒu.)",
+          "reading": "[t͡ɕjɛn˥˩.y˧˥ t͡ɕja˨˩.i˨˩˦ ʂwɑŋ˥.fɑŋ˥ pən˨˩.ʈ͡ʂɤ pʰiŋ˧˥.tɤŋ˨˩˦ xu˥˩.xweɪ̯˥˩ ʈ͡ʂɨ˥ yɛn˧˥.t͡sɤ˧˥, t͡ɕiŋ˥ ʈ͡ʂʰʊŋ˥.fən˥˩ joʊ̯˨˩.xaʊ̯˨˩˦ ɕjɛ˧˥.ʂɑŋ˥, tʰɤ˥˩ tiŋ˥˩.li˥˩ pən˨˩˦ ʈ͡ʂan˥˩.lyɛ˥˩ t͡sʰaɪ̯˨˩.koʊ̯˥˩ ɕjɛ˧˥.i˥˩, i˨˩˦.t͡sɨ˥ kʊŋ˥˩.tʰʊŋ˧˥ ɕin˥˩.ʂoʊ̯˨˩˦] (Jiàn-yú jiǎ-yǐ shuāng-fāng běn-zhe píng-děng hù-huì zhī yuán-zé, jīng chōng-fèn yǒu-hǎo xié-shāng, tè dìng-lì běn zhàn-lüè cǎi-gòu xié-yì, yǐ-zī gòng-tóng xìn-shǒu.)",
+          "translation": "Whereas Party A and Party B, in the principle of equality and mutual benefit and after thorough friendly negotiations, hereby enter into this Strategic Procurement Agreement, as evidence to be mutually abided by."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (24.2.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "任何一方未按期履行合同约定义务，均构成实质性违约，应当向守约方全额赔偿实际经济损失。(Rènhé yìfāng wèi ànqī lǚxíng hétong yuēdìng yìwù, jūn gòuchéng shízhìxìng wéiyuē, yīngdāng xiàng shǒuyuēfāng quán'é péicháng shíjì jīngjì sǔnshī.)",
+          "reading": "[ʐən˥˩.xɤ˧˥ i˥.fɑŋ˥ weɪ̯˥˩ an˥˩.t͡ɕʰi˥ ly˨˩.ɕiŋ˧˥ xɤ˧˥.tʰʊŋ yɛ˥.tiŋ˥˩ i˥˩.u˥˩, t͡ɕyn˥ koʊ̯˥˩.ʈ͡ʂʰəŋ˧˥ ʂɨ˧˥.ʈ͡ʂɨ˥˩.ɕiŋ˥˩ weɪ̯˧˥.yɛ˥, iŋ˥.tɑŋ˥ ɕjaŋ˥˩ ʂoʊ̯˨˩.yɛ˥.fɑŋ˥ t͡ɕʰyɛn˧˥.ɤ˧˥ pʰeɪ̯˧˥.t͡ʂʰɑŋ˧˥ ʂɨ˧˥.t͡ɕi˥˩ t͡ɕiŋ˥.t͡ɕi˥˩ swən˨˩.ʂɨ˥] (Rèn-hé yì-fāng wèi àn-qī lǚ-xíng hé-tong yuē-dìng yì-wù, jūn gòu-chéng shí-zhì-xìng wéi-yuē, yīng-dāng xiàng shǒu-yuē-fāng quán-'é péi-cháng shí-jì jīng-jì sǔn-shī.)",
+          "translation": "Failure of either party to perform the obligations agreed upon in the contract on schedule constitutes a material breach of contract, and full compensation shall be paid to the non-breaching party for actual economic losses."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (24.2.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "本合同一式四份，甲乙双方各执两份，自双方签字盖章之日起生效，均具有同等法律效力。(Běn hétong yíshì sìfèn, jiǎ-yǐ shuāngfāng gè zhí liàng fèn, zì shuāngfāng qiānzì gàizhāng zhī rì qǐ shēngxiào, jūn jùyǒu tóngděng fǎlǜ xiàolì.)",
+          "reading": "[pən˨˩˦ xɤ˧˥.tʰʊŋ i˥.ʂɨ˥˩ sɨ˥˩.fən˥˩, t͡ɕja˨˩.i˨˩˦ ʂwɑŋ˥.fɑŋ˥ kɤ˥˩ ʈ͡ʂɨ˧˥ ljaŋ˨˩˦ fən˥˩, t͡sɨ˥˩ ʂwɑŋ˥.fɑŋ˥ t͡ɕʰjɛn˥.t͡sɨ˥˩ kaɪ̯˥˩.ʈ͡ʂwaŋ˥ ʈ͡ʂɨ˥ ʐɨ˥˩ t͡ɕʰi˨˩˦ ʂəŋ˥.ɕjaʊ̯˥˩, t͡ɕyn˥ t͡ɕy˥˩.joʊ̯˨˩˦ tʰʊŋ˧˥.tɤŋ˨˩˦ fa˨˩.ly˥˩ ɕjaʊ̯˥˩.li˥˩] (Běn hé-tong yí-shì sì-fèn, jiǎ-yǐ shuāng-fāng gè zhí liàng fèn, zì shuāng-fāng qiān-zì gài-zhāng zhī rì qǐ shēng-xiào, jūn jù-yǒu tóng-děng fǎ-lǜ xiào-lì.)",
+          "translation": "This contract is made in quadruplicate, with Party A and Party B holding two copies each. It shall take effect from the date of signing and sealing by both parties, and all copies have equal legal validity."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (24.2.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "因不可抗力致使本合同无法按期履行的，遭遇不可抗力的一方应在二十四小时内书面通知另一方。(Yīn bùkěkànglì zhìshǐ běn hétong wúfǎ ànqī lǚxíng de, zāoyù bùkěkànglì de yìfāng yīng zài èrshísì xiǎoshí nèi shūmiàn tōngzhī lìng yìfāng.)",
+          "reading": "[in˥ pu˥.kʰɤ˨˩.kʰɑŋ˥˩.li˥˩ ʈ͡ʂɨ˥˩.ʂɨ˨˩˦ pən˨˩˦ xɤ˧˥.tʰʊŋ wu˧˥.fa˨˩˦ an˥˩.t͡ɕʰi˥ ly˨˩.ɕiŋ˧˥ tɤ, t͡saʊ̯˥.y˥˩ pu˥.kʰɤ˨˩.kʰɑŋ˥˩.li˥˩ tɤ i˥.fɑŋ˥ iŋ˥ t͡saɪ̯˥˩ aɚ˥˩.ʂɨ˧˥.sɨ˥˩ ɕjaʊ̯˨˩.ʂɨ˧˥ neɪ̯˥˩ ʂu˥.mjɛn˥˩ tʰʊŋ˥.ʈ͡ʂɨ˥ liŋ˥˩ i˥.fɑŋ˥] (Yīn bù-kě-kàng-lì zhì-shǐ běn hé-tong wú-fǎ àn-qī lǚ-xíng de, zāo-yù bù-kě-kàng-lì de yì-fāng yīng zài èr-shí-sì xiǎo-shí nèi shū-miàn tōng-zhī lìng yì-fāng.)",
+          "translation": "If force majeure renders this contract unable to be performed on schedule, the party encountering force majeure shall notify the other party in writing within 24 hours."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "鉴于协商立约诚，以资信守双方盟；实质违约全额赔，签字盖章法力恒！"
+      ],
+      "culturalNotes": [
+        "现代中国商事合同中，「盖章」（企业公章或合同专用章）具有甚至高于个人签字的法律效力，加盖法人公章是合同成立生效的法定标志。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「商务汉语与公文写作 (Business Chinese & Official Correspondence)」（第2讲）的标准汉语规范？",
+          "prompt": "在商务合同开头的鉴于条款结尾，用于表达「以此作为双方共同遵守信守凭证」的经典书面法律程式语是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「商务汉语与公文写作 (Business Chinese & Official Correspondence)」的核心语法法则与应用范例 (24.2.1)。",
-            "存在语序混乱且虚词误用的病句选项 (24.2.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (24.2.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (24.2.w3)"
+            "以资共同信守 / 以资共同遵守 (As evidence to be mutually abided by)",
+            "大家随便看看",
+            "反正没人管",
+            "大家看着办"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「以资共同信守」是中文合同导语中表明以此作为正式法律凭据的经典规范程式语。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "合同中指称地震、海啸、战争等「不可预见、不能避免且无法克服」的法律免责事由的专业法律概念是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "不可抗力 (Force Majeure: 法定免责的客观不可抗因素)",
+            "主观故意",
+            "恶意违约",
+            "疏忽大意"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「不可抗力」是民商法中关于无法预见克服的客观免责事由的法定专有名词。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「商务汉语与公文写作 (Business Chinese & Official Correspondence)」的正式语境下，最准确得体的表达是哪一项？（第24.2题）",
+          "prompt": "在商务合同中，未违反合同条款、有权向违约方追究法律责任的一方当事人被称为：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (24.2.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (24.2.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (24.2.x2)",
-            "量词与名词修饰搭配错误的病句选项 (24.2.x3)"
+            "守约方 (Non-breaching party / Abiding party)",
+            "违约方",
+            "路人甲",
+            "看客"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「守约方」是民商事法律合同中专指严格履行义务的一方。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u24-l2）所要求的高阶语言表达？",
+          "prompt": "标准商务合同正式生效的核心法定要件通常表述为：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (24.2.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (24.2.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (24.2.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (24.2.y3)"
+            "自双方法定代表人签字并加盖公章之日起生效 (Take effect upon signature and sealing by legal representatives)",
+            "只要心里想一想就生效",
+            "吃完饭就生效",
+            "不用签字盖章也生效"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "法定代表人签字并加盖公章是现代中国商业合同生效的最权威法定形式要件。"
         }
       ]
     },
@@ -14164,25 +14170,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「商务汉语与公文写作 (Business Chinese & Official Correspondence)」的掌握程度，请选出表述完全正确的标准范句（测试 24-2）：",
+          "prompt": "请选出下列商务合同条款中法律逻辑最严密、书面语体最规范、权责界定最清晰的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (24.2.4)。",
-            "被动句式与处置句式混用导致的严重病句 (24.2.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (24.2.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (24.2.z3)"
+            "鉴于甲乙双方经友好协商达成合作，特订立本合同。任何一方无正当理由单方解除合同，均构成实质性违约，应向守约方支付合同总额百分之二十的违约金，并赔偿由此产生的一切直接与间接经济损失。本合同自双方签字盖章之日起生效，以资共同信守。(鉴于条款、实质违约、违约金比例、赔偿范围、签字盖章生效，法律合同标准范本)",
+            "甲方和乙方签了个合同，谁如果不听话就要赔钱，合同今天开始管用。(口语化严重缺乏法律效力)",
+            "违约金被以资信守在签字盖章。(句式错乱破碎)",
+            "守约方必须向违约方道歉并支付赔偿金。(法律责任颠倒荒谬)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语段在合同鉴于条款、违约责任界定、赔偿金比例及生效要件上完全达到了专业公司法律顾问与国际商事仲裁律师的起草标准。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u24-l2）的核心关键词（例如「商务汉语」）：",
+          "prompt": "请输入商务合同中用于表达「以此作为共同遵守凭借」的核心四字法律程式语（例如「」共同信守，拼音为 yǐzī）：",
           "acceptedAnswers": [
-            "商务汉语",
-            "商务汉语与公",
-            "商务汉语与公文写作"
+            "以资"
           ],
-          "explanation": "正确的核心关键词为「商务汉语」。"
+          "explanation": "虚词词组「以资」（如「以资遵守」、「以资信守」）是法律文书中表达以此作为依据凭证的标准书面语。"
         }
       ],
       "passThreshold": 0.8
@@ -14193,85 +14197,89 @@
     "subject": "mandarin",
     "unit": 24,
     "lessonNumber": 3,
-    "title": "商务汉语与公文写作 (Business Chinese & Official Correspondence) (第3讲)",
+    "title": "招投标书、技术规范与商务标书对决语言范式 (Tenders, Technical Specifications & Commercial Bidding)",
     "level": "B2",
-    "objective": "全面掌握与熟练运用本课核心内容：商务合同、招投标书、公函、行政呈批件及正式商务谈判策略。 (第3部分)。",
+    "objective": "系统掌握现代汉语招投标法治与商务竞争语体（招标公告、技术标响应、正/负偏离表、商务报价、评标委员会综合评审及履约保证金）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "大型工程采购与企业招投标是现代经济中最严密、竞争最激烈的商事博弈文书体系：\n\n一、招投标全流程法定文书体系：\n1.【招标公告与招标文件 (RFP)】：明确项目背景、资格审查条件、核心技术参数及评标办法。\n2.【投标标书核心构成】：\n-【技术标 (Technical Bid)】：技术方案设计、参数响应表（正偏离/负偏离）、项目实施进度表。\n-【商务标 (Commercial Bid)】：工程报价清单、付款方式、财务审计报告、商业信誉证明。\n\n二、技术参数响应与偏离表规范：\n1.【完全响应】：对招标文件中的技术要求百分之百达到或满足。\n2.【正偏离 (Positive Deviation)】：投标方提供的技术指标或服务优于招标文件的最低要求（加分项）。\n3.【负偏离 (Negative Deviation)】：技术指标低于招标文件要求（严重负偏离可导致废标）。\n\n三、评标评审与履约保证金机制：\n- 评标委员会、综合评分法、中标候选人公示、中标通知书、履约保证金（中标后缴纳以保证合同执行）。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「商务汉语与公文写作 (Business Chinese & Official Correspondence)」的核心语法法则与应用范例 (24.3.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '商务汉语与公文写作 (Business Chinese & Official Correspondence)' in simple terms to students at the academic seminar."
+          "target": "投标人必须具备国家高新技术企业资质及相关行业一级认证，并在近三年内无任何重大质量安全事故记录。(Tóubiāorén bìxū jùbèi guójiā gāoxīnjìshù qǐyè zīzhì jí xiāngguān hángyè yījí rènzhèng, bìng zài jìn sān nián nèi wú rènhé zhòngdà zhìliàng ānquán shìgù jìlù.)",
+          "reading": "[tʰoʊ̯˨˩.pjaʊ̯˥.ʐən˧˥ pi˥˩.ɕy˥ t͡ɕy˥˩.peɪ̯˥˩ kwo˧˥.t͡ɕja˥ kaʊ̯˥.ɕin˥.t͡ɕi˥˩.ʂu˥˩ t͡ɕʰi˨˩.jɛ˥˩ t͡sɨ˥.ʈ͡ʂɨ˥˩ t͡ɕi˧˥ ɕjaŋ˥.kwan˥ xɑŋ˧˥.jɛ˥˩ i˥.t͡ɕi˧˥ ʐən˥˩.ʈ͡ʂəŋ˥˩, piŋ˥˩ t͡saɪ̯˥˩ t͡ɕin˥˩ san˥ njɛn˧˥ neɪ̯˥˩ wu˧˥ ʐən˥˩.xɤ˧˥ ʈ͡ʂʊŋ˥˩.ta˥˩ ʈ͡ʂɨ˥˩.ljaŋ˥˩ an˥.t͡ɕʰyɛn˧˥ ʂɨ˥˩.ku˥˩ t͡ɕi˥˩.lu˥˩] (Tóu-biāo-rén bì-xū jù-bèi guó-jiā gāo-xīn-jì-shù qǐ-yè zī-zhì jí xiāng-guān háng-yè yī-jí rèn-zhèng, bìng zài jìn sān nián nèi wú rèn-hé zhòng-dà zhì-liàng ān-quán shì-gù jì-lù.)",
+          "translation": "Bidders must possess national high-tech enterprise qualification and relevant industry Grade-A certification, and have no record of major quality or safety accidents in the past three years."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (24.3.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "经评标委员会综合评审，我方技术标方案完全响应招标文件全部关键技术参数，且在能耗控制上实现显著正偏离。(Jīng píngbiāo wěiyuánhuì zōnghé píngshěn, wǒfāng jìshùbiāo fāng'àn wánquán xiǎngyìng zhàobiāo wénjiàn quánbù guānjiàn jìshù cānshù, qiě zài nénghào kòngzhì shang shíxiàn xiǎnzhù zhèngpiānlí.)",
+          "reading": "[t͡ɕiŋ˥ pʰiŋ˧˥.pjaʊ̯˥ weɪ̯˨˩.jɥɛn˧˥.xweɪ̯˥˩ t͡sʊŋ˥.xɤ˧˥ pʰiŋ˧˥.ʂən˨˩˦, wɔ˨˩.fɑŋ˥ t͡ɕi˥˩.ʂu˥˩.pjaʊ̯˥ fɑŋ˥.an˥˩ wan˧˥.t͡ɕʰyɛn˧˥ ɕjaŋ˨˩.iŋ˥˩ ʈ͡ʂaʊ̯˥.pjaʊ̯˥ wən˧˥.t͡ɕjɛn˥˩ t͡ɕʰyɛn˧˥.pu˥˩ kwan˥.t͡ɕjɛn˥ t͡ɕi˥˩.ʂu˥˩ t͡sʰan˥.ʂu˥, t͡ɕʰjɛ˨˩˦ t͡saɪ̯˥˩ nɤŋ˧˥.xaʊ̯˥˩ kʰʊŋ˥˩.ʈ͡ʂɨ˥˩ ʂɑŋ ʂɨ˧˥.ɕjɛn˥˩ ɕjɛn˨˩.ʈ͡ʂu˥˩ ʈ͡ʂəŋ˥˩.pʰjɛn˥.li˧˥] (Jīng píng-biāo wěi-yuán-huì zōng-hé píng-shěn, wǒ-fāng jì-shù-biāo fāng-'àn wán-quán xiǎng-yìng zhào-biāo wén-jiàn quán-bù guān-jiàn jì-shù cān-shù, qiě zài néng-hào kòng-zhì shang shí-xiàn xiǎn-zhù zhèng-piān-lí.)",
+          "translation": "Following comprehensive evaluation by the bid evaluation committee, our technical bid proposal fully responsive to all key technical parameters of the bidding document, achieving a significant positive deviation in energy consumption control."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (24.3.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "中标人应在收到中标通知书之日起三十日内，向招标人足额缴纳合同总额百分之十的履约保证金。(Zhòngbiāorén yīng zài shōudào zhòngbiāo tōngzhīshū zhī rì qǐ sānshí rì nèi, xiàng zhàobiāorén zú'é jiǎonà hétong zǒng'é bǎifēnzhī shí de lǚyuē bǎozhèngjīn.)",
+          "reading": "[ʈ͡ʂʊŋ˥˩.pjaʊ̯˥.ʐən˧˥ iŋ˥ t͡saɪ̯˥˩ ʂoʊ̯˥.taʊ̯˥˩ ʈ͡ʂʊŋ˥˩.pjaʊ̯˥ tʰʊŋ˥.ʈ͡ʂɨ˥.ʂu˥ ʈ͡ʂɨ˥ ʐɨ˥˩ t͡ɕʰi˨˩˦ san˥.ʂɨ˧˥ ʐɨ˥˩ neɪ̯˥˩, ɕjaŋ˥˩ ʈ͡ʂaʊ̯˥.pjaʊ̯˥.ʐən˧˥ t͡su˧˥.ɤ˧˥ t͡ɕjaʊ̯˨˩.na˥˩ xɤ˧˥.tʰʊŋ t͡sʊŋ˨˩.ɤ˧˥ paɪ̯˨˩˦.fən˥.ʈ͡ʂɨ˥ ʂɨ˧˥ tɤ ly˨˩.yɛ˥ paʊ̯˨˩.ʈ͡ʂəŋ˥˩.t͡ɕin˥] (Zhòng-biāo-rén yīng zài shōu-dào zhòng-biāo tōng-zhī-shū zhī rì qǐ sān-shí rì nèi, xiàng zhào-biāo-rén zú-'é jiǎo-nà hé-tong zǒng-'é bǎi-fēn-zhī shí de lǚ-yuē bǎo-zhèng-jīn.)",
+          "translation": "The winning bidder shall, within 30 days from the date of receiving the notification of award, pay the performance bond amounting to 10% of the total contract value to the tenderer in full."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (24.3.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "商务标与技术标的有机结合，要求在保证高标准技术指标与服务方案的前提下提供最具竞争力的报价。(Shāngwùbiāo yǔ jìshùbiāo de yǒujī jiéhé, yāoqiú zài bǎozhèng gāobiāozhǔn jìshù zhǐbiāo yǔ fúwù fāng'àn de qiántí xià tígōng zuì jù jìngzhēnglì de bàojià.)",
+          "reading": "[ʂɑŋ˥.u˥˩.pjaʊ̯˥ y˨˩˦ t͡ɕi˥˩.ʂu˥˩.pjaʊ̯˥ tɤ joʊ̯˨˩˦.t͡ɕi˥ t͡ɕjɛ˧˥.xɤ˧˥, jaʊ̯˥.t͡ɕʰjoʊ̯˥ t͡saɪ̯˥˩ paʊ̯˨˩.ʈ͡ʂəŋ˥˩ kaʊ̯˥.pjaʊ̯˥.ʈ͡ʂwən˨˩˦ t͡ɕi˥˩.ʂu˥˩ ʈ͡ʂɨ˨˩.pjaʊ̯˥ y˨˩˦ fu˧˥.u˥˩ fɑŋ˥.an˥˩ tɤ t͡ɕʰjɛn˧˥.tʰi˧˥ ɕja˥˩ tʰi˧˥.kʊŋ˥ t͡sweɪ̯˥˩ t͡ɕy˥˩ t͡ɕiŋ˥˩.ʈ͡ʂəŋ˥.li˥˩ tɤ paʊ̯˥˩.t͡ɕja˥˩] (Shāng-wù-biāo yǔ jì-shù-biāo de yǒu-jī jié-hé, yāo-qiú zài bǎo-zhèng gāo-biāo-zhǔn jì-shù zhǐ-biāo yǔ fú-wù fāng-'àn de qián-tí xià tí-gōng zuì jù jìng-zhēng-lì de bào-jià.)",
+          "translation": "The organic combination of commercial and technical bids requires providing the most competitive quote under the premise of guaranteeing high-standard technical indicators and service proposals."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "资质预审技术标，参数响应无偏离；开标评标委员会，履约保证信誉基！"
+      ],
+      "culturalNotes": [
+        "中国的《中华人民共和国招标投标法》对招投标程序有严格的法定要求，技术标与商务标分离评审、专家盲评是维护市场公平竞争的重要法治屏障。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「商务汉语与公文写作 (Business Chinese & Official Correspondence)」（第3讲）的标准汉语规范？",
+          "prompt": "在投标技术偏离表中，如果投标方案的某项核心性能指标「显著优于招标文件规定的最低标准」，该现象被称为：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「商务汉语与公文写作 (Business Chinese & Official Correspondence)」的核心语法法则与应用范例 (24.3.1)。",
-            "存在语序混乱且虚词误用的病句选项 (24.3.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (24.3.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (24.3.w3)"
+            "正偏离 (Positive deviation: 指标优于招标文件要求的加分项)",
+            "负偏离 (低于要求的扣分项)",
+            "零偏离",
+            "离谱偏离"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「正偏离」是招投标专业术语，指投标人的技术方案优于招标文件的要求。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "中标人为了向招标方担保自己将严格按照合同履约而缴纳的法定款项被称为：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "履约保证金 (Performance bond / Performance security)",
+            "小费",
+            "红包",
+            "打赏"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「履约保证金」是招投标中用于担保中标人依约履行合同的法定保证金。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「商务汉语与公文写作 (Business Chinese & Official Correspondence)」的正式语境下，最准确得体的表达是哪一项？（第24.3题）",
+          "prompt": "在招投标中，由行业专家组成的对各家投标文件进行独立、专业、公正打分评审的法定组织是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (24.3.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (24.3.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (24.3.x2)",
-            "量词与名词修饰搭配错误的病句选项 (24.3.x3)"
+            "评标委员会 (Bid evaluation committee)",
+            "啦啦队",
+            "群众演员",
+            "亲友团"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「评标委员会」是依照招标投标法设立的法定专家评审组织。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u24-l3）所要求的高阶语言表达？",
+          "prompt": "在投标标书中，专门阐述施工方案、设备参数与售后保障的标书部分是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (24.3.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (24.3.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (24.3.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (24.3.y3)"
+            "技术标 (Technical bid: 聚焦技术、工艺与方案)",
+            "商务标 (聚焦价格、财务与资质)",
+            "图画本",
+            "草稿纸"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「技术标」专注于技术方案的先进性、可行性与参数响应。"
         }
       ]
     },
@@ -14279,25 +14287,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「商务汉语与公文写作 (Business Chinese & Official Correspondence)」的掌握程度，请选出表述完全正确的标准范句（测试 24-3）：",
+          "prompt": "请选出下列招投标与技术标评审表述中专业术语最准确、商业逻辑最严密的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (24.3.4)。",
-            "被动句式与处置句式混用导致的严重病句 (24.3.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (24.3.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (24.3.z3)"
+            "我方投标方案全面响应了招标文件的所有硬性技术指标，并在算力优化与能耗控制上实现了显著正偏离。评标委员会综合评分名列第一，中标公示期满后，我司已按期足额缴纳了履约保证金，确保项目高质量交付！(响应指标、正偏离、综合评分第一、履约保证金，招投标专业语体极其地道严整)",
+            "我们公司去投标了，专家觉得挺好给打了最高分，给钱之后就可以开工了。(语言极度口语化不合体例)",
+            "履约保证金被正偏离在评标委员会。(术语严重错位破损)",
+            "负偏离越严重说明标书质量越优秀。(概念颠倒荒谬)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语段在投标参数响应、正偏离、评标委员会评审及履约保证金等招投标核心术语的运用上达到了行业标杆水准。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u24-l3）的核心关键词（例如「商务汉语」）：",
+          "prompt": "请输入招投标技术方案中表达指标优于招标要求的专业三字术语（例如实现显著「」，拼音为 zhèngpiānlí）：",
           "acceptedAnswers": [
-            "商务汉语",
-            "商务汉语与公",
-            "商务汉语与公文写作"
+            "正偏离"
           ],
-          "explanation": "正确的核心关键词为「商务汉语」。"
+          "explanation": "术语「正偏离」是招投标评审中指技术指标高于招标基准要求的标准用词。"
         }
       ],
       "passThreshold": 0.8
@@ -14308,85 +14314,89 @@
     "subject": "mandarin",
     "unit": 24,
     "lessonNumber": 4,
-    "title": "商务汉语与公文写作 (Business Chinese & Official Correspondence) (第4讲)",
+    "title": "高阶商务谈判、攻防话术与利益博弈策略 (Advanced Business Negotiations, Tactical Rebuttal & Game Strategy)",
     "level": "B2",
-    "objective": "全面掌握与熟练运用本课核心内容：商务合同、招投标书、公函、行政呈批件及正式商务谈判策略。 (第4部分)。",
+    "objective": "系统掌握现代汉语高阶商务谈判攻防话术、利益诉求表达、有条件让步策略（以退为进）、守住底线及求同存异促成互利共赢的语用艺术。",
     "presentation": {
-      "explanation": "",
+      "explanation": "高阶商务谈判是商业领袖在多方博弈中平衡利益关切、化解僵局、达成战略共赢的语言智慧与博弈艺术：\n\n一、探寻关切与委婉施压话术：\n1.【表达关切与探寻底牌】：\n-「贵方提出的方案我们已充分评估，但在价格/交期这一核心关切上，仍希望能探讨更具弹性的空间。」\n2.【委婉施压与守住底线】：\n-「坦率地讲，贵方目前的报价已经触及我方的成本红线；若再无妥协，我们将不得不重新审视合作的可行性。」\n\n二、有条件让步与利益置换（以退为进）：\n1.【条件性让步句型（如果...那么...）】：\n-「如果贵方能将首付款比例提高至百分之四十，我方原则上可以在单价上作出百分之二的诚意让步。」\n2.【结构性条款重组】：\n-「虽然在基准单价上我们无法继续降价，但我们可以通过延长质保期、提供免费技术培训等一揽子方案来补偿贵方成本。」\n\n三、打破僵局与达成共赢升华：\n- 求同存异、寻找利益交汇点、各退一步、达成互利共赢 (Win-Win) 的战略协议。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「商务汉语与公文写作 (Business Chinese & Official Correspondence)」的核心语法法则与应用范例 (24.4.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '商务汉语与公文写作 (Business Chinese & Official Correspondence)' in simple terms to students at the academic seminar."
+          "target": "坦率地讲，贵方目前的报价已经触及我方的成本红线；若贵方能适当提高采购总量，我们愿意在账期上做出诚意让步。(Tǎnshuài de jiǎng, guìfāng mùqián de bàojià yǐjīng chùjí wǒfāng de chéngběn hóngxiàn; ruò guìfāng néng shìdàng tígāo cǎigòu zǒngliàng, wǒmen yuànyì zài zhàngqī shang zuòchū chéngyì ràngbù.)",
+          "reading": "[tʰan˨˩˦.ʂwaɪ̯˥˩ tɤ t͡ɕjaŋ˨˩˦, kweɪ̯˥˩.fɑŋ˥ mu˥˩.t͡ɕʰjɛn˧˥ tɤ paʊ̯˥˩.t͡ɕja˥˩ i˨˩˦.t͡ɕiŋ˥ ʈ͡ʂʰu˥.t͡ɕi˧˥ wɔ˨˩.fɑŋ˥ tɤ t͡ʂʰəŋ˧˥.pən˨˩ xʊŋ˧˥.ɕjɛn˥˩; ʐwɔ˥˩ kweɪ̯˥˩.fɑŋ˥ nɤŋ˧˥ ʂɨ˥˩.tɑŋ˥˩ tʰi˧˥.kaʊ̯˥ t͡sʰaɪ̯˨˩.koʊ̯˥˩ t͡sʊŋ˨˩.ljaŋ˥˩, wɔ˨˩.mən jɥan˥˩.i˥˩ t͡saɪ̯˥˩ ʈ͡ʂɑŋ˥˩.t͡ɕʰi˥ ʂɑŋ t͡swoʊ̯˥˩.t͡ʂʰu˥ ʈ͡ʂʰəŋ˧˥.i˥˩ ʐɑŋ˥˩.pu˥˩] (Tǎn-shuài de jiǎng, guì-fāng mù-qián de bào-jià yǐ-jīng chù-jí wǒ-fāng de chéng-běn hóng-xiàn; ruò guì-fāng néng shì-dàng tí-gāo cǎi-gòu zǒng-liàng, wǒ-men yuàn-yì zài zhàng-qī shang zuò-chū chéng-yì ràng-bù.)",
+          "translation": "Frankly speaking, your company's current quote has already touched our cost red line; if your company can appropriately increase the total procurement volume, we are willing to make a sincere concession on the payment terms."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (24.4.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "谈判的关键在于寻找利益交汇点，通过结构性条款重组打破僵局，最终达成互利共赢的战略协议。(Tánpàn de guānjiàn zàiyú xúnzhǎo lìyì jiāohuìdiǎn, tōngguò jiégòuxìng tiáokuǎn chóngzǔ dǎpò jiāngjú, zuìzhōng dáchéng hùlì-gòngyíng de zhànlüè xiéyì.)",
+          "reading": "[tʰan˧˥.pʰan˥˩ tɤ kwan˥.t͡ɕjɛn˥ t͡saɪ̯˥˩.y˧˥ ɕyn˧˥.ʈ͡ʂaʊ̯˨˩˦ li˥˩.i˥˩ t͡ɕjaʊ̯˥.xweɪ̯˥˩.tjɛn˨˩˦, tʰʊŋ˥.kwɔ˥˩ t͡ɕjɛ˧˥.koʊ̯˥˩.ɕiŋ˥˩ tʰjaʊ̯˧˥.kʰwan˨˩˦ ʈ͡ʂʰʊŋ˧˥.t͡su˨˩˦ ta˨˩.pʰwɔ˥˩ t͡ɕjaŋ˥.t͡ɕy˧˥, t͡sweɪ̯˥˩.ʈ͡ʂʊŋ˥ ta˧˥.t͡ʂʰəŋ˧˥ xu˥˩.li˥˩-kʊŋ˥˩.iŋ˧˥ tɤ ʈ͡ʂan˥˩.lyɛ˥˩ ɕjɛ˧˥.i˥˩] (Tán-pàn de guān-jiàn zài-yú xún-zhǎo lì-yì jiāo-huì-diǎn, tōng-guò jié-gòu-xìng tiáo-kuǎn chóng-zǔ dǎ-pò jiāng-jú, zuì-zhōng dá-chéng hù-lì-gòng-yíng de zhàn-lüè xié-yì.)",
+          "translation": "The key to negotiation lies in finding the intersection of interests, breaking the deadlock through structural clause restructuring, and ultimately reaching a strategic agreement of mutual benefit and win-win results."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (24.4.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "如果贵方能够承诺在关键技术培训与售后响应上提供全天候保障，我们原则上可以同意贵方的首期付款比例。(Rúguǒ guìfāng nénggòu chéngnuò zài guānjiàn jìshù péixùn yǔ shòuhòu xiǎngyìng shang tígōng quántiānhòu bǎozhàng, wǒmen yuánzé shang kěyǐ tóngyì guìfāng de shǒuqī fùkuǎn bǐlì.)",
+          "reading": "[ʐu˧˥.kwo˨˩˦ kweɪ̯˥˩.fɑŋ˥ nɤŋ˧˥.koʊ̯˥˩ ʈ͡ʂʰəŋ˧˥.nwo˥˩ t͡saɪ̯˥˩ kwan˥.t͡ɕjɛn˥ t͡ɕi˥˩.ʂu˥˩ pʰeɪ̯˧˥.ɕyn˥˩ y˨˩˦ ʂoʊ̯˥˩.xoʊ̯˥˩ ɕjaŋ˨˩.iŋ˥˩ ʂɑŋ tʰi˧˥.kʊŋ˥ t͡ɕʰyɛn˧˥.tʰjɛn˥.xoʊ̯˥˩ paʊ̯˨˩.ʈ͡ʂɑŋ˥˩, wɔ˨˩.mən yɛn˧˥.t͡sɤ˧˥ ʂɑŋ kʰɤ˨˩.i˨˩˦ tʰʊŋ˧˥.i˥˩ kweɪ̯˥˩.fɑŋ˥ tɤ ʂoʊ̯˨˩.t͡ɕʰi˥ fu˥˩.kʰwan˨˩˦ pi˨˩.li˥˩] (Rú-guǒ guì-fāng néng-gòu chéng-nuò zài guān-jiàn jì-shù péi-xùn yǔ shòu-hòu xiǎng-yìng shang tí-gōng quán-tiān-hòu bǎo-zhàng, wǒ-men yuán-zé shang kě-yǐ tóng-yì guì-fāng de shǒu-qī fù-kuǎn bǐ-lì.)",
+          "translation": "If your company can commit to providing around-the-clock guarantees for key technical training and after-sales response, we can in principle agree to your initial payment ratio."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (24.4.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "在商务博弈中，既要坚持核心利益不动摇，又要善于运用灵活战术化解分歧，以求同存异实现合作共赢。(Zài shāngwù bóyì zhōng, jì yào jiānchí héxīn lìyì bù dòngyáo, yòu yào shànyú yùnyòng línghuó zhànshù huàjiě fēnqí, yǐ qiútóng-cúnyì shíxiàn hézuò gòngyíng.)",
+          "reading": "[t͡saɪ̯˥˩ ʂɑŋ˥.u˥˩ pwo˧˥.i˥˩ ʈ͡ʂʊŋ˥, t͡ɕi˥˩ jaʊ̯˥˩ t͡ɕjɛn˥.ʈ͡ʂʰɨ˧˥ xɤ˧˥.ɕin˥ li˥˩.i˥˩ pu˥ tʊŋ˥˩.jaʊ̯˧˥, joʊ̯˥˩ jaʊ̯˥˩ ʂan˥˩.y˧˥ jyn˥˩.jʊŋ˥˩ liŋ˧˥.xwo˧˥ ʈ͡ʂan˥˩.ʂu˥˩ xwa˥˩.t͡ɕjɛ˨˩˦ fən˥.t͡ɕʰi˧˥, i˨˩˦ t͡ɕʰjoʊ̯˧˥.tʰʊŋ˧˥-t͡sʰwn˧˥.i˥˩ ʂɨ˧˥.ɕjɛn˥˩ xɤ˧˥.t͡swoʊ̯˥˩ kʊŋ˥˩.iŋ˧˥] (Zài shāng-wù bó-yì zhōng, jì yào jiān-chí hé-xīn lì-yì bù dòng-yáo, yòu yào shàn-yú yùn-yòng líng-huó zhàn-shù huà-jiě fēn-qí, yǐ qiú-tóng-cún-yì shí-xiàn hé-zuò gòng-yíng.)",
+          "translation": "In commercial games, we must both adhere to our core interests without wavering and be good at using flexible tactics to resolve differences, achieving cooperative win-win results through seeking common ground while reserving differences."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "成本红线探底牌，条件让步利益排；结构重组破僵局，求同存异共赢来！"
+      ],
+      "culturalNotes": [
+        "中国商道讲求「以和为贵」与「互利共赢」。高超的谈判不仅是数字的争夺，更是格局的展现，追求的是可持续的长期战略伙伴关系。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「商务汉语与公文写作 (Business Chinese & Official Correspondence)」（第4讲）的标准汉语规范？",
+          "prompt": "在商务谈判中，表达某项报价已经达到自己所能承受的最低极限、无法再作退让时，最地道规范的说法是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「商务汉语与公文写作 (Business Chinese & Official Correspondence)」的核心语法法则与应用范例 (24.4.1)。",
-            "存在语序混乱且虚词误用的病句选项 (24.4.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (24.4.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (24.4.w3)"
+            "触及我方的成本红线 / 底线 (Touch our cost red line / bottom line)",
+            "我们不想卖了",
+            "你们太贪心了",
+            "别跟我们说话了"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「触及成本红线/底线」是商务谈判中委婉但坚定表明底线立场的标准专业表述。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在谈判陷入僵局时，提出「如果对方在A条件上让步，我方就在B条件上给予优惠」的谈判策略属于：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "有条件让步 / 利益置换 (Conditional concession / Interest trade-off)",
+            "无底线投降",
+            "掀桌子走人",
+            "拒绝沟通"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「有条件让步」是国际高阶商务谈判中化解僵局、引导双赢的核心博弈战术。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「商务汉语与公文写作 (Business Chinese & Official Correspondence)」的正式语境下，最准确得体的表达是哪一项？（第24.4题）",
+          "prompt": "成语「求同存异」在商务谈判中的智慧体现为：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (24.4.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (24.4.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (24.4.x2)",
-            "量词与名词修饰搭配错误的病句选项 (24.4.x3)"
+            "寻找双方共同利益交汇点，暂时搁置次要分歧 (Seek common ground while preserving differences)",
+            "要求对方彻底放弃所有原则",
+            "完全不在意任何合同细节",
+            "必须让对方全都听自己的"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「求同存异」是在谈判中聚焦共同利益、求得共识的东方哲学智慧。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u24-l4）所要求的高阶语言表达？",
+          "prompt": "在商务谈判最后阶段，形容双方都获得了满意的利益回报、达成最佳合作结果的核心成语是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (24.4.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (24.4.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (24.4.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (24.4.y3)"
+            "互利共赢 / 合作共赢 (Mutual benefit and win-win)",
+            "零和博弈",
+            "两败俱伤",
+            "损人利己"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「互利共赢」是现代商业合作追求的崇高境界与最终目标。"
         }
       ]
     },
@@ -14394,25 +14404,24 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「商务汉语与公文写作 (Business Chinese & Official Correspondence)」的掌握程度，请选出表述完全正确的标准范句（测试 24-4）：",
+          "prompt": "请选出下列高阶商务谈判攻防话术中表达最得体、博弈逻辑最精湛的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (24.4.4)。",
-            "被动句式与处置句式混用导致的严重病句 (24.4.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (24.4.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (24.4.z3)"
+            "坦率地讲，贵方目前的报价已经触及我方的成本红线。但出于长远战略合作的诚意，如果贵方能将首付款提高至百分之四十，并在采购规模上进一步扩大，我们愿意在交货账期上作出相应让步，通过求同存异实现互利共赢！(底线申明、有条件让步、利益置换、求同存异与合作共赢，高阶商业谈判话术典范)",
+            "你们价格太低了我们不干，除非你们先给钱再说。(语言粗鲁完全破坏合作氛围)",
+            "成本红线被互利共赢在首付款。(句式错乱不通)",
+            "只要我们亏本卖给你们，你们就开心了。(情绪化严重违背谈判职业道德)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语段在底线表达、条件性让步置换及引导互利共赢上体现了当代国际顶尖商务谈判专家的风范。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u24-l4）的核心关键词（例如「商务汉语」）：",
+          "prompt": "请输入表达双方在合作中互相带来利益、共同取得胜利的核心四字成语（例如实现「」，拼音为 hùlì-gòngyíng）：",
           "acceptedAnswers": [
-            "商务汉语",
-            "商务汉语与公",
-            "商务汉语与公文写作"
+            "互利共赢",
+            "合作共赢"
           ],
-          "explanation": "正确的核心关键词为「商务汉语」。"
+          "explanation": "成语「互利共赢」是当代商务与国际经贸合作中最核心的价值导向。"
         }
       ],
       "passThreshold": 0.8
@@ -14423,85 +14432,89 @@
     "subject": "mandarin",
     "unit": 24,
     "lessonNumber": 5,
-    "title": "商务汉语与公文写作 (Business Chinese & Official Correspondence) (第5讲)",
+    "title": "跨国并购、政企战略合作与现代商务公文综合叙事篇章 (Comprehensive Business & Corporate Strategy Narrative: Cross-Border M&A & Strategic Partnerships)",
     "level": "B2",
-    "objective": "全面掌握与熟练运用本课核心内容：商务合同、招投标书、公函、行政呈批件及正式商务谈判策略。 (第5部分)。",
+    "objective": "融会贯通公文行政呈批体系、商务合同法律条款、招投标规范与战略谈判博弈，独立撰写文法严谨、逻辑缜密、商业眼光宏阔的跨国战略合作与现代商事综合语篇。",
     "presentation": {
-      "explanation": "",
+      "explanation": "本课是商务汉语与公文写作的巅峰综合篇章，将行政呈批、合同契约、招投标与战略谈判四大支柱熔铸为一体：\n\n一、跨国并购与政企战略合作全景实战流程：\n1. 行政呈批与立项请示：起草《关于与某跨国集团设立联合研发中心暨重大技术并购的请示》，文末规范标注「妥否，请批示」，经主管部门审慎论证正式获批。\n2. 招投标竞争与技术标评审：在国际联合竞标中，技术标方案实现关键指标正偏离，评标委员会综合打分位列榜首，按期足额缴纳履约保证金。\n3. 高阶商业谈判与条款博弈：双方围绕估值基准、专利归属及首期付款比例展开多轮攻防，秉持求同存异理念，以结构性条款重组打破僵局，守住核心利益的同时达成互利共赢。\n4. 合同订立与签字盖章生效：鉴于双方本着平等互惠原则，特订立跨国战略并购协议，明确界定实质违约责任与不可抗力免责范围，经双方法定代表人签字并加盖公章正式生效，以资共同信守！\n\n二、全景式商务战略合作综合范文赏析：\n- 《关于深化高端装备制造跨国并购与战略合作的请示》业经董事会与专家委员会严格审议，妥否，请批示。在本次跨国技术标书对决中，我司提交的方案完全响应全部硬性参数，并在核心算法能效上实现了显著正偏离，顺利赢得评标委员会综合评审首位。在随后的商务博弈中，面对外方苛刻的初始报价，我方谈判团队坚守成本红线，通过将首期付款与专利共享深度捆绑，以有条件让步成功打破僵局。鉴于甲乙双方在智能制造生态上的高度战略协同，经充分友好协商，特订立本跨国战略合作协议。任何一方违反保密与交付义务均构成实质性违约。本合同一式四份，自双方法定代表人签字并加盖公章之日起正式生效，以资共同信守。政企协同，法商融合；契约严谨，共赢未来！",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「商务汉语与公文写作 (Business Chinese & Official Correspondence)」的核心语法法则与应用范例 (24.5.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '商务汉语与公文写作 (Business Chinese & Official Correspondence)' in simple terms to students at the academic seminar."
+          "target": "经双方高层多轮艰苦商务谈判与利益博弈，终于打破僵局，就跨国技术并购核心估值与专利归属达成双赢共识。(Jīng shuāngfāng gāocéng duō lún jiānkǔ shāngwù tánpàn yǔ lìyì bóyì, zhōngyú dǎpò jiāngjú, jiù kuàguó jìshù bìnggòu héxīn gūzhí yǔ zhuānlì guīshǔ dáchéng shuāngyíng gòngshí.)",
+          "reading": "[t͡ɕiŋ˥ ʂwɑŋ˥.fɑŋ˥ kaʊ̯˥.t͡sʰəŋ˧˥ twɔ˥ lwən˧˥ t͡ɕjɛn˥.kʰu˨˩˦ ʂɑŋ˥.u˥˩ tʰan˧˥.pʰan˥˩ y˨˩˦ li˥˩.i˥˩ pwo˧˥.i˥˩, ʈ͡ʂʊŋ˥.y˧˥ ta˨˩.pʰwɔ˥˩ t͡ɕjaŋ˥.t͡ɕy˧˥, t͡ɕjoʊ̯˥˩ kʰwa˥˩.kwo˧˥ t͡ɕi˥˩.ʂu˥˩ piŋ˥˩.koʊ̯˥˩ xɤ˧˥.ɕin˥ ku˥.ʈ͡ʂɨ˧˥ y˨˩˦ ʈ͡ʂwaŋ˥.li˥˩ kweɪ̯˥.ʂu˨˩˦ ta˧˥.t͡ʂʰəŋ˧˥ ʂwɑŋ˥.iŋ˧˥ kʊŋ˥˩.ʂɨ˧˥] (Jīng shuāng-fāng gāo-céng duō lún jiān-kǔ shāng-wù tán-pàn yǔ lì-yì bó-yì, zhōng-yú dǎ-pò jiāng-jú, jiù kuà-guó jì-shù bìng-gòu hé-xīn gū-zhí yǔ zhuān-lì guī-shǔ dá-chéng shuāng-yíng gòng-shí.)",
+          "translation": "Through multiple rounds of arduous business negotiations and game-playing of interests between the high levels of both sides, the deadlock was finally broken, reaching a win-win consensus on the core valuation and patent ownership of the cross-border technology acquisition."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (24.5.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "鉴于甲乙双方在智能制造产业链上的高度互补性，特订立本战略合作协议，本合同自双方法定代表人签字并加盖公章之日起正式生效。(Jiànyú jiǎ-yǐ shuāngfāng zài zhìnéng zhìzào chǎnyèliàn shang de gāodù hùbǔxìng, tè dìnglì běn zhànlüè hézuò xiéyì, běn hétong zì shuāngfāng fǎdìng dàibiǎorén qiānzì bìng jiāgài gōngzhāng zhī rì qǐ zhèngshì shēngxiào.)",
+          "reading": "[t͡ɕjɛn˥˩.y˧˥ t͡ɕja˨˩.i˨˩˦ ʂwɑŋ˥.fɑŋ˥ t͡saɪ̯˥˩ ʈ͡ʂɨ˥˩.nɤŋ˧˥ ʈ͡ʂɨ˥˩.t͡saʊ̯˥˩ t͡ʂʰan˨˩.jɛ˥˩.ljɛn˥˩ ʂɑŋ tɤ kaʊ̯˥.tu˥˩ xu˥˩.pu˨˩.ɕiŋ˥˩, tʰɤ˥˩ tiŋ˥˩.li˥˩ pən˨˩˦ ʈ͡ʂan˥˩.lyɛ˥˩ xɤ˧˥.t͡swoʊ̯˥˩ ɕjɛ˧˥.i˥˩, pən˨˩˦ xɤ˧˥.tʰʊŋ t͡sɨ˥˩ ʂwɑŋ˥.fɑŋ˥ fa˨˩.tiŋ˥˩ taɪ̯˥˩.pjaʊ̯˨˩.ʐən˧˥ t͡ɕʰjɛn˥.t͡sɨ˥˩ piŋ˥˩ t͡ɕja˥.kaɪ̯˥˩ kʊŋ˥.ʈ͡ʂwaŋ˥ ʈ͡ʂɨ˥ ʐɨ˥˩ t͡ɕʰi˨˩˦ ʈ͡ʂəŋ˥˩.ʂɨ˥˩ ʂəŋ˥.ɕjaʊ̯˥˩] (Jiàn-yú jiǎ-yǐ shuāng-fāng zài zhì-néng zhì-zào chǎn-yè-liàn shang de gāo-dù hù-bǔ-xìng, tè dìng-lì běn zhàn-lüè hé-zuò xié-yì, běn hé-tong zì shuāng-fāng fǎ-dìng dài-biǎo-rén qiān-zì bìng jiā-gài gōng-zhāng zhī rì qǐ zhèng-shì shēng-xiào.)",
+          "translation": "Whereas Party A and Party B possess high complementarity in the intelligent manufacturing industrial chain, this Strategic Cooperation Agreement is hereby entered into. This contract shall formally take effect from the date when the legal representatives of both parties sign and affix their official seals."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (24.5.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "评标委员会全票评定我方提交的投标书在核心参数响应与售后保障上均具压倒性优势，并已按期足额缴纳履约保证金。(Píngbiāo wěiyuánhuì quánpiào píngdìng wǒfāng tíjiāo de tóubiāoshū zài héxīn cānshù xiǎngyìng yǔ shòuhòu bǎozhàng shang jūn jù yādǎoxìng yōushì, bìng yǐ ànqī zú'é jiǎonà lǚyuē bǎozhèngjīn.)",
+          "reading": "[pʰiŋ˧˥.pjaʊ̯˥ weɪ̯˨˩.jɥɛn˧˥.xweɪ̯˥˩ t͡ɕʰyɛn˧˥.pʰjaʊ̯˥˩ pʰiŋ˧˥.tiŋ˥˩ wɔ˨˩.fɑŋ˥ tʰi˧˥.t͡ɕjaʊ̯˥ tɤ tʰoʊ̯˨˩.pjaʊ̯˥.ʂu˥ t͡saɪ̯˥˩ xɤ˧˥.ɕin˥ t͡sʰan˥.ʂu˥ ɕjaŋ˨˩.iŋ˥˩ y˨˩˦ ʂoʊ̯˥˩.xoʊ̯˥˩ paʊ̯˨˩.ʈ͡ʂɑŋ˥˩ ʂɑŋ t͡ɕyn˥ t͡ɕy˥˩ ja˥.taʊ̯˨˩.ɕiŋ˥˩ joʊ̯˥.ʂɨ˥˩, piŋ˥˩ i˨˩˦ an˥˩.t͡ɕʰi˥ t͡su˧˥.ɤ˧˥ t͡ɕjaʊ̯˨˩.na˥˩ ly˨˩.yɛ˥ paʊ̯˨˩.ʈ͡ʂəŋ˥˩.t͡ɕin˥] (Píng-biāo wěi-yuán-huì quán-piào píng-dìng wǒ-fāng tí-jiāo de tóu-biāo-shū zài hé-xīn cān-shù xiǎng-yìng yǔ shòu-hòu bǎo-zhàng shang jūn jù yā-dǎo-xìng yōu-shì, bìng yǐ àn-qī zú-'é jiǎo-nà lǚ-yuē bǎo-zhèng-jīn.)",
+          "translation": "The bid evaluation committee unanimously evaluated that the bid proposal submitted by our side possessed overwhelming advantages in core parameter response and after-sales support, and the performance bond had been paid in full and on schedule."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (24.5.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "现代商务汉语与公文规范融汇法治严谨性与商业智慧，以专业契约精神和战略博弈视野助推企业在全球化竞争中行稳致远。(Xiàndài shāngwù Hànyǔ yǔ gōngwén guīfàn rónghuì fǎzhì yánjǐnxìng yǔ shāngyè zhìhuì, yǐ zhuānyè qìyuē jīngshén hé zhànlüè bóyì shìyě zhùtuī qǐyè zài quánqiúhuà jìngzhēng zhōng xíngwěn-zhìyuǎn.)",
+          "reading": "[ɕjɛn˥˩.taɪ̯˥˩ ʂɑŋ˥.u˥˩ xan˥˩.y˨˩˦ y˨˩˦ kʊŋ˥.wən˧˥ kweɪ̯˥.fan˥˩ ʐʊŋ˧˥.xweɪ̯˥˩ fa˨˩.ʈ͡ʂɨ˥˩ jan˧˥.t͡ɕin˨˩.ɕiŋ˥˩ y˨˩˦ ʂɑŋ˥.jɛ˥˩ ʈ͡ʂɨ˥˩.xweɪ̯˥˩, i˨˩˦ ʈ͡ʂwan˥.jɛ˥˩ t͡ɕʰi˥˩.yɛ˥˩ t͡ɕiŋ˥.ʂən˧˥ xɤ˧˥ ʈ͡ʂan˥˩.lyɛ˥˩ pwo˧˥.i˥˩ ʂɨ˥˩.jɛ˨˩˦ ʈ͡ʂu˥˩.tʰweɪ̯˥ t͡ɕʰi˨˩.jɛ˥˩ t͡saɪ̯˥˩ t͡ɕʰyɛn˧˥.t͡ɕʰjoʊ̯˧˥.xwa˥˩ t͡ɕiŋ˥˩.ʈ͡ʂəŋ˥ ʈ͡ʂʊŋ˥ ɕiŋ˧˥.wən˨˩˦.ʈ͡ʂɨ˥˩.jɥɛn˨˩˦] (Xiàn-dài shāng-wù Hàn-yǔ yǔ gōng-wén guī-fàn róng-huì fǎ-zhì yán-jǐn-xìng yǔ shāng-yè zhì-huì, yǐ zhuān-yè qì-yuē jīng-shén hé zhàn-lüè bó-yì shì-yě zhù-tuī qǐ-yè zài quán-qiú-huà jìng-zhēng zhōng xíng-wěn-zhì-yuǎn.)",
+          "translation": "Modern business Chinese and official document standards integrate rule-of-law rigor with commercial wisdom, boosting enterprises to maintain steady and sustainable progress in global competition through professional contractual spirit and strategic game-playing vision."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "呈批公函程序正，合同条款契约神；投标博弈显实力，合作共赢四海亲！"
+      ],
+      "culturalNotes": [
+        "中国企业的跨国经营深刻体现了当代「法治合规」与「契约精神」，在尊重国际通行业务惯例的同时融入中华公文严密体例与共赢商业哲学。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「商务汉语与公文写作 (Business Chinese & Official Correspondence)」（第5讲）的标准汉语规范？",
+          "prompt": "在跨国商业并购与战略合作综合语篇中，将「行政请批呈批（妥否，请批示） -> 技术标书正偏离中标 -> 商务谈判博弈互利共赢 -> 合同签字盖章以资信守」串联起来的核心主线是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「商务汉语与公文写作 (Business Chinese & Official Correspondence)」的核心语法法则与应用范例 (24.5.1)。",
-            "存在语序混乱且虚词误用的病句选项 (24.5.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (24.5.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (24.5.w3)"
+            "行政立项呈批 -> 竞标技术胜出 -> 商业博弈攻防 -> 法律契约签署 (Full-cycle corporate strategy progression)",
+            "普通菜市场买菜过程",
+            "小学生写请假条",
+            "全是病句的乱码拼凑"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "语篇完美再现了跨国现代企业从公文立项呈批、招投标竞争、谈判博弈到合同法治签署的全生命周期。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在商务综合语篇中，指称「双方在核心业务能力上能够互相补充、产生协同乘数效应」的专业表述是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "高度互补性 / 战略协同效应 (High complementarity & strategic synergy)",
+            "互相拆台",
+            "谁也不理谁",
+            "没有共同点"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「高度互补性」与「战略协同」是企业并购与合资合作中最核心的商业价值动因。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「商务汉语与公文写作 (Business Chinese & Official Correspondence)」的正式语境下，最准确得体的表达是哪一项？（第24.5题）",
+          "prompt": "请选出下列跨国战略合作公文与商业综合语篇中词章最典雅、法商逻辑最严密的一项：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (24.5.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (24.5.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (24.5.x2)",
-            "量词与名词修饰搭配错误的病句选项 (24.5.x3)"
+            "《关于深化跨国智能装备技术并购的请示》业经专家委员会周密论证，妥否，请批示。我司技术标在关键参数上实现显著正偏离并顺利中标。在商务谈判中，双方秉持求同存异理念打破僵局，订立战略合作合同，自签字盖章之日起生效，以资共同信守！(请示呈批、正偏离中标、求同存异打破僵局、签字盖章以资信守，法商公文臻于化境)",
+            "我们公司想买个外国公司，大家赶紧批了，然后我们去签字给钱。(语言浅陋粗鄙)",
+            "以资信守被正偏离在合同妥否请批示。(语序错乱荒唐)",
+            "求同存异意味着我们单方面赔偿所有违约金。(法律逻辑完全崩溃)"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "首选选项在公文格式、招投标术语、商务谈判策略及合同生效程式语的综合运用上堪称现代法商公文的典范。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u24-l5）所要求的高阶语言表达？",
+          "prompt": "在商业战略语篇中表达共同达成的坚定共识与纲领性协议的核心词汇是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (24.5.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (24.5.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (24.5.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (24.5.y3)"
+            "战略共识 / 战略协议 (Strategic consensus / Strategic agreement)",
+            "随便聊聊",
+            "草率口约",
+            "没有准信"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「战略共识」与「战略协议」是高层商务交往与并购重组中表达双方最高决策意向的标准术语。"
         }
       ]
     },
@@ -14509,25 +14522,24 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「商务汉语与公文写作 (Business Chinese & Official Correspondence)」的掌握程度，请选出表述完全正确的标准范句（测试 24-5）：",
+          "prompt": "请选出下列跨国商务并购、公文呈批与契约法治综合语篇中气度最恢宏、法理最严密、结构最完整的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (24.5.4)。",
-            "被动句式与处置句式混用导致的严重病句 (24.5.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (24.5.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (24.5.z3)"
+            "《关于推进跨国高端制造战略并购与技术合作的请示》业经董事会严格审议，妥否，请批示。在招投标角逐中，我方技术标在核心能效参数上实现显著正偏离，顺利赢得评标委员会综合评审第一名。在随后的高阶商务谈判中，团队坚守成本底线，通过结构性条款重组打破僵局。鉴于双方高度战略互补性，特订立本合同，自双方法定代表人签字并加盖公章之日起生效，以资共同信守！(公文呈批、投标胜出、谈判破局、契约生效，四大模块水乳交融，商法一体典范)",
+            "我们写了个请示想买下外国厂子，招标第一名，然后去跟老外谈判签合同盖章。(语言极度白话贫乏)",
+            "请示被评标委员会签字盖章在成本底线。(句式严重破损杂糅)",
+            "只要正偏离，就能不签合同直接拿走违约金。(法律逻辑彻底颠倒)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语篇融会贯通公文行政呈批、招投标技术响应、商务博弈攻防与合同法治要件，语言极其严谨典雅，达到了最高级别的商事公文水准。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u24-l5）的核心关键词（例如「商务汉语」）：",
+          "prompt": "请输入表达双方在战略合作中共同达成一致意见的核心两字概念（例如达成双赢「」，拼音为 gòngshí）：",
           "acceptedAnswers": [
-            "商务汉语",
-            "商务汉语与公",
-            "商务汉语与公文写作"
+            "共识",
+            "战略共识"
           ],
-          "explanation": "正确的核心关键词为「商务汉语」。"
+          "explanation": "词语「共识」是现代商务谈判与政商合作中指称双方在核心利益与目标上达成一致的标准概念。"
         }
       ],
       "passThreshold": 0.8
