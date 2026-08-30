@@ -14015,53 +14015,62 @@
     "subject": "swahili",
     "unit": 34,
     "lessonNumber": 1,
-    "title": "Mkutano Mkuu wa Kidiplomasia na Uongozi wa Dola (C2 Capstone) (Part 1)",
+    "title": "Nadharia za Uhakiki wa Kifasihi: Umuundo, Umarx na Ubaada-Ukoloni (Literary Theories & Criticism)",
     "level": "C2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 34.1) with authentic precision.",
+    "objective": "Kuelewa na kutumia msamiati wa nadharia kuu za uhakiki wa kifasihi (literary criticism theories): Umuundo (Structuralism - semiotiki na mfumo wa lugha), Umarx (Marxist criticism - utabaka na unyonyaji), na Ubaada-Ukoloni (Post-colonial theory - utambulisho na ukombozi wa kiakili).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Nadharia za Uhakiki wa Kifasihi ya Kiswahili (Literary Criticism Theories):\n\nKatika kilele cha masomo ya fasihi ya Kiswahili (C2), mwanafunzi anapaswa kumudu uchambuzi wa kifasihi kwa kutumia misingi ya kinadharia:\n\n1. **Umuundo (Structuralism & Semiotics)**:\n   - Inachunguza kazi ya fasihi kama mfumo unaojitegemea wa vipengele vya kilugha, ishara (*semiotics*), na miundo ya kisintaksia bila kuangazia historia ya mwandishi.\n\n2. **Nadharia ya Umarx / Utabaka (Marxist Literary Criticism)**:\n   - Inachambua uhusiano wa uzalishaji mali, unyonyaji wa kitabaka (*bourgeoisie vs proletariat*), na namna fasihi inavyoonyesha mapambano ya wanyonge dhidi ya watawala na mabepari.\n\n3. **Ubaada-Ukoloni (Postcolonial Theory)**:\n   - Inachunguza athari za kiutamaduni, kisaikolojia na kisiasa za utawala wa kikoloni, ikipinga hegemoni ya Kizungu na kuijenga upya nafsi na utambulisho wa Mwafrika (*African agency*).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 34.1.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 34."
+          "target": "Nadharia ya Umarx katika uhakiki wa fasihi ya Kiswahili inatusaidia kuchambua jinsi waandishi wanavyomulika migogoro ya kitabaka na unyonyaji wa wafanyakazi.",
+          "reading": "Na-dha-ria ya Uma-rx ka-ti-ka uha-ki-ki wa fa-si-hi ya Ki-swa-hi-li ina-tu-sa-i-dia ku-cha-mbua ji-nsi waa-ndi-shi wa-na-vyo-mu-li-ka mi-go-go-ro ya ki-ta-ba-ka na unyo-nya-ji wa wa-fa-nya-ka-zi. [nɑðɑˈriɑ jɑ uˈmɑrks ˈkɑtikɑ uhɑˈkiki wɑ fɑˈsihi jɑ kiswɑˈhili inɑtusɑˈidiɑ kutʃɑˈmbuɑ ˈʤinsi wɑɑˈndiʃi wɑnɑvjɔmuˈlikɑ miɡɔˈɡɔrɔ jɑ kitɑˈbɑkɑ nɑ uɲɔˈɲɑʤi wɑ wɑfɑɲɑˈkɑzi] (nah-thah-REE-ah yah oo-MAHRKS KAH-tee-kah oo-hah-KEE-kee wah fah-SEE-hee yah kee-swah-HEE-lee ee-nah-too-sah-EE-dee-ah koo-chahm-BOO-ah JEEN-see wah-ahn-DEE-shee wah-nah-vyoh-moo-LEE-kah mee-goh-GOH-roh yah kee-tah-BAH-kah nah oo-nyoh-NYAH-jee wah wah-fah-nyah-KAH-zee)",
+          "translation": "Marxist literary theory in Swahili critical scholarship enables us to analyze how novelists elucidate class struggle and worker exploitation."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 34-1).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Kwa kutumia nadharia ya ubaada-ukoloni, mhakiki anachunguza namna matini ya Kiswahili inavyovunja hegemoni ya kikoloni na kujenga upya utambulisho huru wa Mwafrika.",
+          "reading": "Kwa ku-tu-mia na-dha-ria ya uba-a-da-uko-lo-ni, mha-ki-ki ana-chu-ngu-za na-mna ma-ti-ni ya Ki-swa-hi-li ina-vyo-vu-nja he-ge-mo-ni ya ki-ko-lo-ni na ku-je-nga upya uta-mbu-li-sho hu-ru wa Mwa-fri-ka. [kwɑ kutuˈmiɑ nɑðɑˈriɑ jɑ ubɑːdɑukɔˈlɔni mhɑˈkiki ɑnɑtʃuˈŋɡuzɑ ˈnɑmnɑ mɑˈtini jɑ kiswɑˈhili inɑvjɔˈvunʤɑ hɛɡɛˈmɔni jɑ kikɔˈlɔni nɑ kuˈʤɛŋɡɑ ˈupjɑ utɑmbuliˈʃɔ ˈhuru wɑ mwɑˈfrikɑ] (kwah koo-too-MEE-ah nah-thah-REE-ah yah oo-bah-AH-dah-oo-koh-LOH-nee, m-hah-KEE-kee ah-nah-choon-GOO-zah NAHM-nah mah-TEE-nee yah kee-swah-HEE-lee ee-nah-vyoh-VOON-jah hay-gay-MOH-nee yah kee-koh-LOH-nee nah koo-JAYN-gah OOP-yah oo-tahm-boo-LEE-shoh HOO-roo wah mwah-FREE-kah)",
+          "translation": "By employing postcolonial theory, a critic interrogates how Swahili texts dismantle colonial hegemony and reconstruct an autonomous African identity."
+        },
+        {
+          "target": "Uhakiki wa kimuundo unalenga kuchanganua mifumo ya lugha, ishara, na mifumo ya kisintaksia inayounda maana ya kazi ya kisanaa.",
+          "reading": "Uha-ki-ki wa ki-muu-ndo una-le-nga ku-cha-nga-nua mi-fu-mo ya lu-gha, i-sha-ra, na mi-fu-mo ya ki-si-nta-ksia ina-yo-u-nda ma-a-na ya ka-zi ya ki-sa-naa. [uhɑˈkiki wɑ kiˈmuːndɔ unɑˈlɛŋɡɑ kutʃɑŋɡɑˈnuɑ miˈfumɔ jɑ ˈluɣɑ iˈʃɑrɑ nɑ miˈfumɔ jɑ kisintɑˈksiɑ inɑjɔˈundɑ mɑˈɑnɑ jɑ ˈkɑzi jɑ kisɑˈnɑː] (oo-hah-KEE-kee wah kee-MOO-oon-doh oo-nah-LAYN-gah koo-chahn-gah-NOO-ah mee-FOO-moh yah LOO-gah, ee-SHAH-rah, nah mee-FOO-moh yah kee-seen-tahk-SEE-ah ee-nah-yoh-OON-dah mah-AH-nah yah KAH-zee yah kee-sah-NAH-ah)",
+          "translation": "Structuralist critique aims to dissect linguistic systems, semiotic codes, and syntactic formations that construct meaning in literary art."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Nadharia za Uhakiki: Umuundo (mfumo wa lugha & ishara), Umarx (utabaka & unyonyaji), Ubaada-Ukoloni (uhuru wa kiakili & utambulisho wa Mwafrika)!"
+      ],
+      "culturalNotes": [
+        "Idara za Kiswahili katika vyuo vikuu vya Afrika Mashariki ndizo zilizoongoza harakati za kuanzisha nadharia za fasihi zinazoakisi tajiriba ya Mwafrika badala ya kutegemea nadharia za kigeni pekee."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Shahidi\":",
+          "prompt": "Nadharia ya kifasihi inayochambua namna kazi za sanaa zinavyopinga athari za ukoloni na kujenga upya utambulisho na heshima ya Mwafrika inaitwaje?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 34.1.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Uamuzi»",
-            "Mpangilio usio sahihi wa viambishi katika «Katiba»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Serikali»"
+            "Nadharia ya Ubaada-Ukoloni (Postcolonial literary theory - Correct academic paradigm)",
+            "Mwongozo wa safari za ndege",
+            "Mkataba wa upangaji nyumba",
+            "Kanuni za usalama barabarani"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Nadharia ya Ubaada-Ukoloni» inachunguza uhuru wa kifikra, utamaduni na utambulisho baada ya ukoloni."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Shahidi\":",
+          "prompt": "Nadharia ya Umarx katika uhakiki wa riwaya za Kiswahili inatilia mkazo kipengele gani kikuu?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 34.1.",
-            "Mpangilio usio sahihi wa viambishi katika «Katiba»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Serikali»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Uamuzi»"
+            "Migogoro ya kitabaka na unyonyaji wa kiuchumi (Class conflict and economic exploitation)",
+            "Bei ya unga sokoni leo",
+            "Hali ya hewa ya mwezi ujao",
+            "Rangi za nguo za mhusika"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Nadharia ya Umarx inachambua mfumo wa uzalishaji mali, unyonyaji, na migogoro ya kitabaka."
         }
       ]
     },
@@ -14069,17 +14078,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Shahidi\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha iliyo sahihi ya nadharia kuu za uhakiki wa fasihi ya Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 34.1.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Serikali»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Uamuzi»",
-            "Mpangilio usio sahihi wa viambishi katika «Katiba»"
+            "Umuundo (mfumo wa lugha na ishara), Umarx (uhakiki wa kitabaka na uchumi), na Ubaada-Ukoloni (uhakiki wa athari za kikoloni na ukombozi wa Mwafrika).",
+            "Hakuna nadharia yoyote inayoweza kutumika kuchambua fasihi ya Kiswahili.",
+            "Ubaada-Ukoloni unamaanisha kupenda kutawaliwa na wageni daima.",
+            "Umuundo ni jina la meli ya mizigo inayotoka Mombasa."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Nadharia kuu za uhakiki: Umuundo, Umarx, na Ubaada-Ukoloni."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u34-l2": {
@@ -14087,53 +14097,62 @@
     "subject": "swahili",
     "unit": 34,
     "lessonNumber": 2,
-    "title": "Mkutano Mkuu wa Kidiplomasia na Uongozi wa Dola (C2 Capstone) (Part 2)",
+    "title": "Ufeministi na Mtazamo wa Kijinsia katika Fasihi ya Kiswahili (Feminist Literary Criticism)",
     "level": "C2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 34.2) with authentic precision.",
+    "objective": "Kuelewa na kutumia msamiati wa uhakiki wa kifeministi katika fasihi ya Kiswahili: ukombozi wa mwanamke, ubomoaji wa mfumo dume, sauti ya mwandishi wa kike (Penina Mlama, Zainab Burhani), na usawa wa kijinsia.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Ufeministi na Uhakiki wa Kijinsia katika Fasihi ya Kiswahili (Feminist Literary Criticism):\n\nUhakiki wa Kifeministi unachunguza nafasi, haki, na uwakilishi wa mwanamke katika matini za Kiswahili:\n\n1. **Dhana Kuu za Kifeministi (Feminist Concepts)**:\n   - **Mfumo Dume (Patriarchy)**: Mfumo wa kijamii unaomweka mwanamume juu ya mwanamke katika maamuzi, umiliki wa mali, na uongozi.\n   - **Ukombozi wa Kijinsia (Gender Emancipation)**: Harakati za kisheria, kiuchumi na kifikra za kumpatia mwanamke haki sawa na mwanamume.\n   - **Mila Kandamizi (Oppressive Traditional Practices)**: Desturi zinazomnyima mwanamke uhuru, elimu au haki ya kurithi mali.\n\n2. **Mchango wa Waandishi na Wahakiki wa Kike**:\n   - **Zainab Burhani** (*Mwisho wa Kosa*, *Mali ya Maskini*): Anaangazia changamoto za ndoa, elimu ya watoto wa kike, na haki za kiuchumi za wanawake pwani.\n   - **Profesa Penina Mlama**: Anamulika ushujaa wa mwanamke kupitia sanaa ya jukwaa na maigizo kwa maendeleo.\n   - **Wahakiki wa Kisasa**: Wanaangazia nadharia ya *Womanism* (Ufeministi wa Kiafrika) unaozingatia mshikamano wa familia na jamii nzima.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 34.2.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 34."
+          "target": "Uhakiki wa kifeministi katika fasihi ya Kiswahili unafichua jinsi mfumo dume unavyomkandamiza mwanamke na kutoa mwito wa usawa kamili wa kijinsia.",
+          "reading": "Uha-ki-ki wa ki-fe-mi-ni-sti ka-ti-ka fa-si-hi ya Ki-swa-hi-li una-fi-chua ji-nsi mfu-mo du-me una-vyo-mka-nda-mi-za mwa-na-mke na ku-to-a mwi-to wa usa-wa ka-mi-li wa ki-ji-nsia. [uhɑˈkiki wɑ kifɛmiˈnisti ˈkɑtikɑ fɑˈsihi jɑ kiswɑˈhili unɑfiˈtʃuɑ ˈʤinsi ˈmfumɔ ˈdumɛ unɑvjɔmkɑndɑˈmizɑ mwɑnɑˈmkɛ nɑ kuˈtɔɑ ˈmwitɔ wɑ uˈsɑwɑ kɑˈmili wɑ kiˈʤinsiɑ] (oo-hah-KEE-kee wah kee-fay-mee-NEES-tee KAH-tee-kah fah-SEE-hee yah kee-swah-HEE-lee oo-nah-fee-CHOO-ah JEEN-see M-FOO-moh DOO-may oo-nah-vyohm-kahn-dah-MEE-zah mwah-nah-M-kay nah koo-TOH-ah MWEE-toh wah oo-SAH-wah kah-MEE-lee wah kee-JEEN-see-ah)",
+          "translation": "Feminist critique in Swahili literature unmasks how patriarchal frameworks subjugate women and issues a resolute call for absolute gender parity."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 34-2).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Kazi za waandishi wa kike kama Zainab Burhani na Penina Mlama zinatoa sauti thabiti inayoweka uzoefu wa mwanamke wa Kiafrika katikati ya masimulizi ya kitaifa.",
+          "reading": "Ka-zi za waa-ndi-shi wa ki-ke ka-ma Za-i-na-b Bu-rha-ni na Pe-ni-na Mla-ma zi-na-to-a sa-u-ti tha-bi-ti ina-yo-we-ka uzo-e-fu wa mwa-na-mke wa Kia-fri-ka ka-ti-ka-ti ya ma-si-mu-li-zi ya ki-ta-i-fa. [ˈkɑzi zɑ wɑɑˈndiʃi wɑ ˈkikɛ ˈkɑmɑ zɑiˈnɑb burˈhɑni nɑ pɛˈninɑ ˈmlɑmɑ zinɑˈtɔɑ sɑˈuti θɑˈbiti inɑjɔˈwɛkɑ uzɔˈɛfu wɑ mwɑnɑˈmkɛ wɑ kiɑˈfrikɑ kɑtikɑˈti jɑ mɑsimuˈlizi jɑ kitɑˈifɑ] (KAH-zee zah wah-ahn-DEE-shee wah KEE-kay KAH-mah zah-ee-NAHB boor-HAH-nee nah pay-NEE-nah MLAH-mah zee-nah-TOH-ah sah-OO-tee thah-BEE-tee ee-nah-yoh-WAY-kah oo-zoh-AY-foo wah mwah-nah-M-kay wah kee-ah-FREE-kah kah-tee-KAH-tee yah mah-see-moo-LEE-zee yah kee-tah-EE-fah)",
+          "translation": "Literary masterpieces by female authors such as Zainab Burhani and Penina Mlama articulate an unwavering voice foregrounding the African woman's lived experiences in national discourse."
+        },
+        {
+          "target": "Ukombozi wa kweli wa jamii hauwezi kufikiwa bila kuangamiza mila kandamizi na kumwezesha mwanamke kiuchumi, kisiasa na kisheria.",
+          "reading": "Uko-mbo-zi wa kwe-li wa ja-mi-i ha-u-we-zi ku-fi-ki-wa bi-la kua-nga-mi-za mi-la ka-nda-mi-zi na ku-mwe-ze-sha mwa-na-mke kiu-chu-mi, ki-sia-sa na ki-she-ria. [ukɔˈmbɔzi wɑ ˈkwɛli wɑ ʤɑˈmiː hɑuˈwɛzi kufiˈkiwɑ ˈbilɑ kuɑŋɡɑˈmizɑ ˈmilɑ kɑndɑˈmizi nɑ kumwɛzɛˈʃɑ mwɑnɑˈmkɛ kiutʃuˈmi kisiˈɑsɑ nɑ kiʃɛˈriɑ] (oo-kohm-BOH-zee wah KWAY-lee wah jah-MEE-ee hah-oo-WAY-zee koo-fee-KEE-wah BEE-lah koo-ahn-gah-MEE-zah MEE-lah kahn-dah-MEE-zee nah koo-mway-ZAY-shah mwah-nah-M-kay kee-oo-CHOO-mee, kee-see-AH-sah nah kee-shay-REE-ah)",
+          "translation": "Authentic emancipation of society remains unobtainable without obliterating oppressive conventions and empowering women economically, politically, and legally."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Ufeministi & Jinsia: Mfumo dume (patriarchy), Ukombozi wa kijinsia, Mila kandamizi, Zainab Burhani & Penina Mlama!"
+      ],
+      "culturalNotes": [
+        "Ufeministi wa Kiafrika (Womanism) una mtazamo wa pekee unaotetea haki za wanawake huku ukisisitiza mshikamano wa kifamilia na heshima ya kijamii."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Uamuzi\":",
+          "prompt": "Mfumo wa kijamii unaomkandamiza mwanamke na kumpa mwanamume mamlaka yote ya maamuzi na umiliki wa mali unaitwaje katika uhakiki wa kifeministi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 34.2.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Katiba»",
-            "Mpangilio usio sahihi wa viambishi katika «Serikali»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Uhuru»"
+            "Mfumo dume (Patriarchy - Correct feminist sociological term)",
+            "Chama cha ushirika wa mazao",
+            "Mfumo wa benki ya posta",
+            "Shirika la ndege za abiria"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Mfumo dume» (patriarchy) ndio muundo wa kijamii unaokosolewa na nadharia ya ufeministi kwa kuwanyima wanawake usawa."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Uamuzi\":",
+          "prompt": "Mwandishi nguli wa kike wa Kizanzibari aliyeandika riwaya maarufu za 'Mwisho wa Kosa' na 'Mali ya Maskini' anaitwaje?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 34.2.",
-            "Mpangilio usio sahihi wa viambishi katika «Serikali»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Uhuru»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Katiba»"
+            "Zainab Burhani (Distinguished female Swahili novelist)",
+            "Nahodha wa jahazi",
+            "Mwindaji wa simba",
+            "Mhasibu wa kiwanda"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Zainab Burhani» ndiye mwandishi maarufu wa riwaya za kike zilizochambua maisha ya wanawake wa pwani."
         }
       ]
     },
@@ -14141,17 +14160,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Uamuzi\": Which sentence is completely correct?",
+          "prompt": "Chagua maelezo yaliyo sahihi kuhusu uhakiki wa kifeministi katika fasihi ya Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 34.2.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Uhuru»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Katiba»",
-            "Mpangilio usio sahihi wa viambishi katika «Serikali»"
+            "Uhakiki wa kifeministi unapambana na mfumo dume, unapinga mila kandamizi, na unatetea ukombozi kamili wa mwanamke kiuchumi, kisiasa na kisheria kupitia kazi za waandishi kama Zainab Burhani na Penina Mlama.",
+            "Ufeministi unakataza wanawake kusoma vitabu au kuandika insha za fasihi.",
+            "Mfumo dume ndio mpango pekee unaoruhusiwa kutumika katika uandishi wa vitabu.",
+            "Zainab Burhani alikuwa daktari wa meno asiyejua lugha ya Kiswahili."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Uhakiki wa kifeministi unapambana na mfumo dume, unapinga mila kandamizi na kutetea ukombozi wa mwanamke."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u34-l3": {
@@ -14159,53 +14179,62 @@
     "subject": "swahili",
     "unit": 34,
     "lessonNumber": 3,
-    "title": "Mkutano Mkuu wa Kidiplomasia na Uongozi wa Dola (C2 Capstone) (Part 3)",
+    "title": "Uandishi wa Tasnifu, Insha za Kiakademia na Usanifu wa Lugha (Academic Dissertation Writing)",
     "level": "C2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 34.3) with authentic precision.",
+    "objective": "Kuelewa na kutumia msamiati wa uandishi wa tasnifu za uzamivu (dissertations), insha za kiakademia, usuli wa utafiti, mapitio ya machapisho, uchanganuzi wa data, na nukuu za marejeleo kwa Kiswahili sanifu cha kiwango cha juu.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Uandishi wa Tasnifu za Uzamivu na Insha za Kitaaluma (Academic Theses & Dissertation Writing):\n\nKiwango cha juu cha C2 kinahitaji umahiri kamili wa kuandika tasnifu za shahada za juu (Uzamili / Uzamivu - Ph.D.) kwa Kiswahili fasaha:\n\n1. **Muundo Sanifu wa Tasnifu (Standard Thesis Structure)**:\n   - **Usuli wa Utafiti (Background of the Study)**: Muktadha wa kihistoria na kitaaluma wa mada.\n   - **Tamko la Tatizo la Utafiti (Statement of the Research Problem)**: Pengo la maarifa (*knowledge gap*) linalotafitiwa.\n   - **Malengo na Maswali ya Utafiti (Research Objectives & Questions)**.\n   - **Mapitio ya Machapisho / Fasihi (Literature Review)**: Kuchambua maandishi yaliyotangulia na kuonyesha uhusiano wake na utafiti wa sasa.\n   - **Mbinu za Utafiti (Research Methodology)**: Mkabala wa kimaelezo (*qualitative*) au wa kitakwimu (*quantitative*), sampuli, na zana za ukusanyaji data.\n   - **Uwasilishaji na Mjadala wa Matokeo (Presentation & Discussion of Findings)**.\n   - **Hitimisho, Mapendekezo na Orodha ya Marejeleo (Conclusions, Recommendations & Bibliography)**.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 34.3.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 34."
+          "target": "Katika tasnifu yake ya uzamili, mtafiti alifanya mapitio ya kina ya machapisho na kutumia mbinu bora za kiutafiti kuthibitisha uasili wa lugha ya Kiswahili.",
+          "reading": "Ka-ti-ka ta-sni-fu ya-ke ya uza-mi-li, mta-fi-ti ali-fa-nya ma-pi-tio ya ki-na ya ma-cha-pi-sho na ku-tu-mia mbi-nu bo-ra za kiu-ta-fi-ti ku-thi-bi-ti-sha ua-si-li wa lu-gha ya Ki-swa-hi-li. [ˈkɑtikɑ tɑˈsnifu ˈjɑkɛ jɑ uzɑˈmili mtɑˈfiti ɑliˈfɑɲɑ mɑpiˈtiɔ jɑ ˈkinɑ jɑ mɑtʃɑˈpiʃɔ nɑ kutuˈmiɑ ˈmbinu ˈbɔrɑ zɑ kiutɑˈfiti kuθibiˈtiʃɑ uɑˈsili wɑ ˈluɣɑ jɑ kiswɑˈhili] (KAH-tee-kah tah-SNEE-foo YAH-kay yah oo-zah-MEE-lee, m-tah-FEE-tee ah-lee-FAH-nyah mah-pee-TEE-oh yah KEE-nah yah mah-chah-PEE-shoh nah koo-TOO-mee-ah M-BEE-noo BOH-rah zah kee-oo-tah-FEE-tee koo-thee-bee-TEE-shah oo-ah-SEE-lee wah LOO-gah yah kee-swah-HEE-lee)",
+          "translation": "In their master's dissertation, the scholar executed an exhaustive literature review and utilized rigorous research methodology to demonstrate the indigenous origins of Swahili."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 34-3).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Ufafanuzi wa tatizo la utafiti unapaswa kuwa bayana na kuonyesha pengo la kiusomi linalokusudiwa kuzibwa na andiko husika.",
+          "reading": "Ufa-fa-nu-zi wa ta-ti-zo la uta-fi-ti una-pa-shwa ku-wa ba-ya-na na kuo-nye-sha pe-ngo la kiu-so-mi li-na-lo-ku-su-di-wa ku-zi-bwa na a-ndi-ko hu-si-ka. [ufɑfɑˈnuzi wɑ tɑˈtizɔ lɑ utɑˈfiti unɑˈpɑʃwɑ ˈkuwɑ bɑˈjɑnɑ nɑ kuɔˈɲɛʃɑ ˈpɛŋɡɔ lɑ kiusɔˈmi linɑlɔkusuˈdiwɑ kuˈzibwɑ nɑ ɑˈndikɔ huˈsikɑ] (oo-fah-fah-NOO-zee wah tah-TEE-zoh lah oo-tah-FEE-tee oo-nah-PAH-shwah KOO-wah bah-YAH-nah nah koo-ohn-YAY-shah PAYN-goh lah kee-oo-SOH-mee lee-nah-loh-koo-soo-DEE-wah koo-ZEE-bwah nah ahn-DEE-koh hoo-SEE-kah)",
+          "translation": "The formulation of the research problem must be precise and explicitly illustrate the scholarly gap intended to be resolved by the respective treatise."
+        },
+        {
+          "target": "Uandishi wa insha za kitaaluma unazingatia usahihi wa marejeleo na matumizi ya lugha sanifu ya Kiswahili yenye msamiati sahihi wa kitaalamu.",
+          "reading": "Ua-ndi-shi wa i-nsha za ki-ta-a-lu-ma una-zi-nga-tia usa-hi-hi wa ma-re-je-le-o na ma-tu-mi-zi ya lu-gha sa-ni-fu ya Ki-swa-hi-li ye-nye msa-mia-ti sa-hi-hi wa ki-ta-a-la-mu. [uɑˈndiʃi wɑ ˈinʃɑ zɑ kitɑɑˈlumɑ unɑziŋɡɑˈtiɑ usɑˈhihi wɑ mɑrɛʤɛˈlɛɔ nɑ mɑtuˈmizi jɑ ˈluɣɑ sɑˈnifu jɑ kiswɑˈhili ˈjɛɲɛ msɑmiˈɑti sɑˈhihi wɑ kitɑɑˈlɑmu] (oo-ahn-DEE-shee wah EEN-shah zah kee-tah-ah-LOO-mah oo-nah-zeen-gah-TEE-ah oo-sah-HEE-hee wah mah-ray-jay-LAY-oh nah mah-too-MEE-zee yah LOO-gah sah-NEE-foo yah kee-swah-HEE-lee YAY-nyay m-sah-mee-AH-tee sah-HEE-hee wah kee-tah-ah-LAH-moo)",
+          "translation": "The drafting of academic papers strictly observes citation precision and the application of standardized Swahili enriched with rigorous professional lexicon."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Muundo wa Tasnifu: Usuli, Tatizo la utafiti, Mapitio ya machapisho, Mbinu za utafiti, Data & Matokeo, Marejeleo!"
+      ],
+      "culturalNotes": [
+        "Vyuo vikuu vingi vya Afrika Mashariki hutoa shahada za Uzamivu (Ph.D.) zinazoandikwa na kutetewa kikamilifu kwa lugha sanifu ya Kiswahili."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Katiba\":",
+          "prompt": "Sehemu ya tasnifu inayoeleza kwa kina pengo la kimaarifa lililopo ambalo utafiti unakusudia kulitatua inaitwaje?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 34.3.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Serikali»",
-            "Mpangilio usio sahihi wa viambishi katika «Uhuru»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Hujambo»"
+            "Tatizo la utafiti / Tamko la tatizo (Statement of the research problem - Correct dissertation component)",
+            "Orodha ya bei za maduka",
+            "Jedwali la namba za simu",
+            "Mkataba wa ajira ya ofisi"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Tatizo la utafiti» (statement of the problem) ndiyo sehemu inayobainisha pengo la kitaaluma linalotafitiwa."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Katiba\":",
+          "prompt": "Katika uandishi wa tasnifu ya kiakademia, orodha kamili ya vitabu na makala zilizosomwa na kunukuliwa katika andiko huitwaje?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 34.3.",
-            "Mpangilio usio sahihi wa viambishi katika «Uhuru»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Hujambo»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Serikali»"
+            "Marejeleo / Orodha ya machapisho (Bibliography & References)",
+            "Stakabadhi ya malipo ya benki",
+            "Hati ya kiapo ya mahakama",
+            "Kadi ya mwaliko wa arusi"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Marejeleo» ndiyo orodha ya maandiko yote yaliyotumiwa na kunukuliwa katika utafiti wa kitaaluma."
         }
       ]
     },
@@ -14213,17 +14242,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Katiba\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha iliyo sahihi ya muundo wa tasnifu ya kitaaluma ya lugha ya Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 34.3.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Hujambo»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Serikali»",
-            "Mpangilio usio sahihi wa viambishi katika «Uhuru»"
+            "Usuli wa utafiti, tatizo la utafiti, malengo na maswali, mapitio ya machapisho, mbinu za utafiti, mjadala wa matokeo, hitimisho, na orodha ya marejeleo.",
+            "Tasnifu ya kiakademia inapaswa kuwa na picha za katuni pekee bila maneno.",
+            "Utafiti wa kitaaluma hauruhusu kutumia marejeleo yoyote ya vitabu.",
+            "Mapitio ya machapisho yanamaanisha kuangalia magazeti ya michezo jioni."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Muundo wa tasnifu: Usuli, tatizo, malengo, mapitio ya machapisho, mbinu, matokeo, na marejeleo."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u34-l4": {
@@ -14231,53 +14261,62 @@
     "subject": "swahili",
     "unit": 34,
     "lessonNumber": 4,
-    "title": "Mkutano Mkuu wa Kidiplomasia na Uongozi wa Dola (C2 Capstone) (Part 4)",
+    "title": "Mkutano Mkuu wa Kiswahili Duniani na Sera za Lugha Kimataifa (World Kiswahili Day & Global Policy)",
     "level": "C2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 34.4) with authentic precision.",
+    "objective": "Kuelewa na kutumia msamiati wa sera za lugha za kimataifa: Siku ya Kiswahili Duniani (UNESCO - Julai 7), hadhi ya Kiswahili katika Umoja wa Afrika (AU) na Jumuiya ya Afrika Mashariki (EAC), utandawazi, na ufundishaji wa Kiswahili katika vyuo vikuu vya kimataifa.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Kiswahili kama Lugha Rasmi ya Kimataifa na Sera za Kidunia (Global Swahili Policy & World Kiswahili Day):\n\nKiswahili kimepiga hatua kubwa ya kihistoria katika medani ya diplomasia ya kimataifa:\n\n1. **Siku ya Kiswahili Duniani (World Kiswahili Language Day - Julai 7)**:\n   - Tarehe 7 Julai ilitangazwa rasmi na Shirika la Umoja wa Mataifa la Elimu, Sayansi na Utamaduni (UNESCO) kuwa Siku ya Kiswahili Duniani.\n   - Kiswahili ndiyo **lugha ya kwanza ya asili ya Kiafrika** kupewa heshima hii ya kipekee na UNESCO.\n\n2. **Kiswahili katika Mashirika ya Kikanda na Kimataifa**:\n   - **Umoja wa Afrika (AU)**: Lugha rasmi ya kazi ya Umoja wa Afrika.\n   - **Jumuiya ya Afrika Mashariki (EAC)**: Lugha rasmi ya Jumuiya kando ya Kiingereza na Kifaransa.\n   - **SADC (Jumuiya ya Maendeleo ya Kusini mwa Afrika)**: Lugha rasmi ya mawasiliano.\n   - **Umoja wa Mataifa (UN)**: Idhaa ya Kiswahili ya Umoja wa Mataifa (*UN News Kiswahili*).\n\n3. **Upanuzi wa Kimataifa na Teknolojia**:\n   - Kiswahili kinafundishwa katika vyuo vikuu zaidi ya 150 duniani (kama vile Harvard, Oxford, Sorbonne, Leipzig, Beijing Foreign Studies University, na Sankore).\n   - Kuingizwa katika mifumo mikubwa ya kidijitali na akili mnemba (Artificial Intelligence).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 34.4.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 34."
+          "target": "Uamuzi wa UNESCO kuitangaza Julai 7 kuwa Siku ya Kiswahili Duniani uliweka historia kubwa kama lugha ya kwanza ya asili ya Kiafrika kupewa heshima hiyo ya kipekee.",
+          "reading": "Ua-mu-zi wa UNE-SCO kui-ta-nga-za Ju-la-i 7 ku-wa Si-ku ya Ki-swa-hi-li Du-nia-ni uli-we-ka hi-sto-ria mku-u ka-ma lu-gha ya kwa-nza ya a-si-li ya Kia-fri-ka ku-pe-wa he-shi-ma hi-yo ya ki-pe-ke-e. [uɑˈmuzi wɑ juˈnɛskɔ kuitɑˈŋɡɑzɑ ʤuˈlɑi ˈsɑbɑ ˈkuwɑ ˈsiku jɑ kiswɑˈhili duniˈɑni uliˈwɛkɑ histɔˈriɑ ˈmkuː ˈkɑmɑ ˈluɣɑ jɑ ˈkwɑnzɑ jɑ ɑˈsili jɑ kiɑˈfrikɑ kuˈpɛwɑ hɛˈʃimɑ ˈhijɔ jɑ kipɛˈkɛː] (oo-ah-MOO-zee wah yoo-NES-koh koo-ee-tahn-GAH-zah joo-LAH-ee SAH-bah KOO-wah SEE-koo yah kee-swah-HEE-lee doo-nee-AH-nee oo-lee-WAY-kah hee-stoh-REE-ah M-KOO-oo KAH-mah LOO-gah yah KWAHN-zah yah ah-SEE-lee yah kee-ah-FREE-kah koo-PAY-wah hay-SHEE-mah HEE-yoh yah kee-pay-KAY-ay)",
+          "translation": "UNESCO's monumental resolution proclaiming July 7 as World Kiswahili Language Day established history as the first indigenous African language awarded this singular global distinction."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 34-4).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Kama lugha rasmi ya kazi ya Umoja wa Afrika na Jumuiya ya Afrika Mashariki, Kiswahili kinakuza utangamano wa kiuchumi na diplomasia ya kikanda kwa ufanisi mkubwa.",
+          "reading": "Ka-ma lu-gha ra-smi ya ka-zi ya Umo-ja wa Afri-ka na Ju-mui-ya ya Afri-ka Ma-sha-ri-ki, Ki-swa-hi-li ki-na-ku-za uta-nga-ma-no wa kiu-chu-mi na di-plo-ma-sia ya ki-ka-nda kwa ufa-ni-si mku-u. [ˈkɑmɑ ˈluɣɑ ˈrɑsmi jɑ ˈkɑzi jɑ uˈmɔʤɑ wɑ ˈɑfrikɑ nɑ ʤumuˈijɑ jɑ ˈɑfrikɑ mɑʃɑˈriki kiswɑˈhili kinɑˈkuzɑ utɑŋɡɑˈmɑnɔ wɑ kiutʃuˈmi nɑ diplɔmɑˈsiɑ jɑ kiˈkɑndɑ kwɑ ufɑˈnisi ˈmkuː] (KAH-mah LOO-gah RAHS-mee yah KAH-zee yah oo-MOH-jah wah AHF-ree-kah nah joo-moo-EE-yah yah AHF-ree-kah mah-shah-REE-kee, kee-swah-HEE-lee kee-nah-KOO-zah oo-tahn-gah-MAH-noh wah kee-oo-CHOO-mee nah deep-loh-MAH-see-ah yah kee-KAHN-dah kwah oo-fah-NEE-see M-KOO-oo)",
+          "translation": "As an official operational language of the African Union and the East African Community, Swahili fosters economic integration and regional diplomacy with extraordinary efficacy."
+        },
+        {
+          "target": "Kuingizwa kwa Kiswahili katika mifumo ya kidijitali na akili mnemba kunafungua milango ya fursa za kibiashara na kiteknolojia kwa mamilioni ya wazungumzaji kote ulimwenguni.",
+          "reading": "Kui-ngi-zwa kwa Ki-swa-hi-li ka-ti-ka mi-fu-mo ya ki-di-ji-ta-li na a-ki-li mne-mba ku-na-fu-ngua mi-la-ngo ya fu-rsa za ki-bia-sha-ra na ki-te-kno-lo-jia kwa ma-mi-lio-ni ya wa-zu-ngu-mza-ji ko-te uli-mwe-ngu-ni. [kuiˈŋɡizwɑ kwɑ kiswɑˈhili ˈkɑtikɑ miˈfumɔ jɑ kidiʤiˈtɑli nɑ ˈɑkili ˈmnɛmbɑ kunɑfuˈŋɡuɑ miˈlɑŋɡɔ jɑ ˈfursɑ zɑ gibiɑˈʃɑrɑ nɑ kitɛknɔlɔˈʤiɑ kwɑ mɑmiliˈɔni jɑ wɑzuŋɡuˈmzɑʤi ˈkɔtɛ ulimwɛˈŋɡuni] (koo-ee-NGEE-zwah kwah kee-swah-HEE-lee KAH-tee-kah mee-FOO-moh yah kee-dee-jee-TAH-lee nah AH-kee-lee M-NAYM-bah koo-nah-foon-GOO-ah mee-LAHN-goh yah FOOR-sah zah kee-bee-ah-SHAH-rah nah kee-tay-knoh-LOH-jee-ah kwah mah-mee-lee-OH-nee yah wah-zoon-goom-ZAH-jee KOH-tay oo-leem-wayn-GOO-nee)",
+          "translation": "The integration of Swahili into digital infrastructures and artificial intelligence unlocks avenues of commercial and technological opportunity for hundreds of millions of speakers across the globe."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Sera za Kimataifa: Julai 7 (Siku ya Kiswahili Duniani - UNESCO), Lugha ya AU & EAC, Zaidi ya vyuo 150 duniani, Akili Mnemba (AI)!"
+      ],
+      "culturalNotes": [
+        "Tarehe 7 Julai ilichaguliwa kuwa Siku ya Kiswahili Duniani kwa sababu tarehe hiyo mwaka 1954 ndiyo siku Mwalimu Julius Nyerere na chama cha TANU walipotangaza Kiswahili kuwa lugha ya ukombozi wa taifa."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Serikali\":",
+          "prompt": "Tarehe ipi ya kila mwaka iliyotangazwa rasmi na UNESCO kuwa Siku ya Kiswahili Duniani kote?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 34.4.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Uhuru»",
-            "Mpangilio usio sahihi wa viambishi katika «Hujambo»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Habari»"
+            "Tarehe 7 Julai (July 7 - Official UNESCO World Kiswahili Language Day)",
+            "Tarehe 1 Januari",
+            "Tarehe 25 Desemba",
+            "Tarehe 1 Mei"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Tarehe 7 Julai» ndiyo Siku ya Kiswahili Duniani inayoadhimishwa kimataifa na UNESCO."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Serikali\":",
+          "prompt": "Mashirika gani makuu ya kimataifa na kikanda yaliyopitisha Kiswahili kuwa lugha rasmi ya kazi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 34.4.",
-            "Mpangilio usio sahihi wa viambishi katika «Hujambo»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Habari»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Uhuru»"
+            "Umoja wa Afrika (AU), Jumuiya ya Afrika Mashariki (EAC), na SADC (African Union, East African Community & SADC)",
+            "Klabu ya mpira wa miguu ya mtaa",
+            "Chama cha wakulima wa kijiji",
+            "Soko la samaki la wilaya"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Kiswahili ni lugha rasmi ya kazi ya Umoja wa Afrika (AU), Jumuiya ya Afrika Mashariki (EAC), na SADC."
         }
       ]
     },
@@ -14285,17 +14324,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Serikali\": Which sentence is completely correct?",
+          "prompt": "Chagua maelezo yaliyo sahihi kuhusu hadhi ya kimataifa ya lugha ya Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 34.4.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Habari»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Uhuru»",
-            "Mpangilio usio sahihi wa viambishi katika «Hujambo»"
+            "Kiswahili ni lugha rasmi ya kazi ya Umoja wa Afrika na EAC, inatambuliwa na UNESCO kupitia Siku ya Kiswahili Duniani (Julai 7), na inafundishwa katika vyuo vikuu zaidi ya 150 duniani kote.",
+            "Kiswahili kinazungumzwa na watu watatu pekee katika kisiwa kidogo.",
+            "UNESCO ilipiga marufuku matumizi ya Kiswahili katika mikutano ya kimataifa.",
+            "Hakuna chuo kikuu chochote duniani kinachofundisha lugha ya Kiswahili."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Kiswahili kina hadhi rasmi katika AU, EAC, UNESCO (Julai 7), na vyuo vikuu zaidi ya 150 duniani."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u34-l5": {
@@ -14303,53 +14343,62 @@
     "subject": "swahili",
     "unit": 34,
     "lessonNumber": 5,
-    "title": "Mkutano Mkuu wa Kidiplomasia na Uongozi wa Dola (C2 Capstone) (Part 5)",
+    "title": "Kilele cha Lugha ya Kiswahili: Miaka 1000 ya Historia, Utamaduni na Umahiri Kamili wa C2 (The Swahili Master Apex Synthesis)",
     "level": "C2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 34.5) with authentic precision.",
+    "objective": "Kuunganisha mtaala mzima wa lugha ya Kiswahili (Unit 1 hadi 34): ngeli 18 za Kibantu, fonolojia na mofolojia, utamaduni wa pwani na historia ya miaka 1000, ushairi wa arudhi wa Fumo Liyongo na Muyaka, tamthilia za Ebrahim Hussein na Penina Mlama, riwaya za Said Ahmed Mohamed na Kezilahabi, falsafa ya Utu na Ujamaa, hadi hadhi ya kimataifa ya UNESCO na Umoja wa Afrika.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Kilele cha Lugha ya Kiswahili: Miaka 1000 ya Urithi, Fasihi, Falsafa na Umahiri Kamili wa C2 (The Grand Apex Swahili Curriculum Matrix):\n\n1. **Muhtasari wa Miaka 1000 ya Safari ya Lugha ya Kiswahili (Historical & Linguistic Trajectory)**:\n   - **Misingi ya Kibantu na Ngeli 18 (Bantu Roots & Noun Concord)**: Upatanisho kamili wa kisarufi (A-WA, KI-VI, M-MI, JI-MA, N-N, U, KU, PA-MU-KU).\n   - **Sauti, Fonolojia na Lafudhi za Pwani (Phonetics & Phonology)**: /dh/, /th/, /gh/, /ng'/, mkazo wa silabi ya pili kutoka mwisho.\n   - **Mila, Bahari na Historia (Coastal Heritage & Marine Culture)**: Majahazi, dharuba, pepo za kusi na kaskazi, miji ya kihistoria ya Kilwa, Lamu, Mombasa, na Unguja.\n   - **Fasihi Simulizi na Ushairi wa Jadi (Orality & Classical Poetry)**: Hadithi za Paukwa Pakawa, tanzu za ushairi wa arudhi (Utenzi wa Fumo Liyongo, Muyaka bin Haji, Shaaban Robert).\n   - **Tamthilia, Maigizo na Riwaya za Kisasasa (Modern Drama & Novels)**: Ebrahim Hussein (*Kinjeketile*, *Mashetani*), Penina Mlama (*Lina Ubani* - TfD), Said Ahmed Mohamed (*Utengano*), na Euphrase Kezilahabi (*Rosa Mistika*, *Nagona*, *Mzingile*).\n   - **Falsafa ya Kiafrika, Maadili na Sheria (Philosophy, Ethics & Law)**: Falsafa ya Utu/Ubuntu, Ujamaa na tafsiri za Shakespeare za Mwalimu Nyerere, mahakama na sheria za Katiba.\n   - **Hadhi ya Kimataifa (Global Stature)**: Siku ya Kiswahili Duniani ya UNESCO (Julai 7), lugha ya Umoja wa Afrika na EAC, insha za kiakademia na utandawazi.\n\n2. **Tuzo ya Umahiri wa C2 (C2 Mastery Certification)**:\n   - Hongera! Mwanafunzi aliyekamilisha mtaala huu anao umahiri wa kilele wa kiisimu, kifasihi, kimaadili na kitamaduni wa lugha ya Kiswahili.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 34.5.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 34."
+          "target": "Kuanzia mizizi ya miaka elfu moja kwenye mwambao wa Bahari ya Hindi, mashairi ya kale ya arudhi ya Fumo Liyongo na Muyaka, riwaya na tamthilia za kifalsafa, hadi kutambuliwa rasmi na UNESCO na Umoja wa Afrika kama lugha kuu ya kimataifa, lugha ya Kiswahili inasimama kama kilele cha utajiri wa kiakili, kimaadili na kistaarabu wa bara la Afrika.",
+          "reading": "Ku-a-nzia mi-zi-zi ya mia-ka e-lfu mo-ja kwe-nye mwa-mba-o wa Ba-ha-ri ya Hi-ndi, ma-sha-i-ri ya ka-le ya a-ru-dhi ya Fu-mo Li-yo-ngo na Mu-ya-ka, ri-wa-ya na ta-mthi-lia za ki-fa-lsa-fa, ha-di ku-ta-mbu-li-wa ra-smi na UNE-SCO na Umo-ja wa Afri-ka ka-ma lu-gha ku-u ya ki-ma-ta-i-fa, lu-gha ya Ki-swa-hi-li ina-si-ma-ma ka-ma ki-le-le cha uta-ji-ri wa kia-ki-li, ki-ma-a-di-li na ki-sta-a-ra-bu wa ba-ra la Afri-ka. [kuˈɑnziɑ miˈzizi jɑ miˈɑkɑ ˈɛlfu ˈmɔʤɑ ˈkwɛɲɛ mwɑˈmbɑɔ wɑ bɑˈhɑri jɑ ˈhindi mɑʃɑˈiri jɑ ˈkɑlɛ jɑ ɑˈruði jɑ ˈfumɔ liˈjɔŋɡɔ nɑ muˈjɑkɑ riˈwɑjɑ nɑ tɑmˈθiliɑ zɑ kifɑˈlsɑfɑ ˈhɑdi kutɑmbuˈliwɑ ˈrɑsmi nɑ juˈnɛskɔ nɑ uˈmɔʤɑ wɑ ˈɑfrikɑ ˈkɑmɑ ˈluɣɑ ˈkuː jɑ kimɑtɑˈifɑ ˈluɣɑ jɑ kiswɑˈhili inɑsiˈmɑmɑ ˈkɑmɑ kiˈlɛlɛ tʃɑ utɑˈʤiri wɑ kiɑˈkili kimɑɑˈdili nɑ kistɑɑˈrɑbu wɑ ˈbɑrɑ lɑ ˈɑfrikɑ] (koo-AHN-zee-ah mee-ZEE-zee yah mee-AH-kah EL-foo MOH-jah KWAY-nyay mwah-MBAH-oh wah bah-HAH-ree yah HEEN-dee, mah-shah-EE-ree yah KAH-lay yah ah-ROO-thee yah FOO-moh lee-YOHN-goh nah moo-YAH-kah, ree-WAH-yah nah tahm-THEE-lee-ah zah kee-fahl-SAH-fah, HAH-dee koo-tahm-boo-LEE-wah RAHS-mee nah yoo-NES-koh nah oo-MOH-jah wah AHF-ree-kah KAH-mah LOO-gah KOO-oo yah kee-mah-tah-EE-fah, LOO-gah yah kee-swah-HEE-lee ee-nah-see-MAH-mah KAH-mah kee-LAY-lay chah oo-tah-JEE-ree wah kee-ah-KEE-lee, kee-mah-ah-DEE-lee nah kee-stah-ah-RAH-boo wah BAH-rah lah AHF-ree-kah)",
+          "translation": "From millennium-old roots along the Indian Ocean seaboard, classical prosodic epics of Fumo Liyongo and Muyaka, philosophical novels and dramas, to historic recognition by UNESCO and the African Union as a preeminent global language, Swahili stands as the summit of intellectual, ethical, and civilizational splendor across the African continent."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 34-5).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Kukamilisha mtaala huu wa ngazi ya C2 kunamtawaza mwanafunzi kuwa mwanazuoni kamili wa lugha na fasihi ya Kiswahili mwenye umahiri usiotiliwa shaka wa kuzungumza, kuandika, kutafiti na kuhakiki kitaaluma.",
+          "reading": "Ku-ka-mi-li-sha mta-a-la hu-u wa nga-zi ya C2 ku-na-mta-wa-za mwa-na-funzi ku-wa mwa-na-zuo-ni ka-mi-li wa lu-gha na fa-si-hi ya Ki-swa-hi-li mwe-nye uma-hi-ri usi-o-ti-li-wa sha-ka wa ku-zu-ngu-mza, kua-ndi-ka, ku-ta-fi-ti na ku-ha-ki-ki ki-ta-a-lu-ma. [kukɑmiˈliʃɑ mtɑˈɑlɑ ˈhuː wɑ ˈŋɡɑzi jɑ siːˈtuː kunɑmtɑˈwɑzɑ mwɑnɑˈfundzi ˈkuwɑ mwɑnɑzuˈɔni kɑˈmili wɑ ˈluɣɑ nɑ fɑˈsihi jɑ kiswɑˈhili ˈmwɛɲɛ umɑˈhiri usiɔtiliˈwɑ ˈʃɑkɑ wɑ kuzuˈŋɡumzɑ kuɑˈndikɑ kutɑˈfiti nɑ kuhɑˈkiki kitɑɑˈlumɑ] (koo-kah-mee-LEE-shah m-tah-AH-lah HOO-oo wah NGAH-zee yah C2 koo-nahm-tah-WAH-zah mwah-nah-FOON-zee KOO-wah mwah-nah-zoo-OH-nee kah-MEE-lee wah LOO-gah nah fah-SEE-hee yah kee-swah-HEE-lee MWAY-nyay oo-mah-HEE-ree oo-see-oh-tee-LEE-wah SHAH-kah wah koo-zoon-GOOM-zah, koo-ahn-DEE-kah, koo-tah-FEE-tee nah koo-hah-KEE-kee kee-tah-ah-LOO-mah)",
+          "translation": "Completing this comprehensive C2 curriculum crowns the scholar as a consummate master of Swahili linguistics and literature possessing unassailable authority to discourse, author, research, and critique at the highest international academic standard."
+        },
+        {
+          "target": "Kiswahili si lugha tu bali ni daraja la mshikamano wa kibinadamu, hazina isiyo na kifani ya hekima za kale, na sauti yenye nguvu inayoangaza mustakabali wa Afrika na ulimwengu wote.",
+          "reading": "Ki-swa-hi-li si lu-gha tu ba-li ni da-ra-ja la mshi-ka-ma-no wa ki-bi-na-da-mu, ha-zi-na isi-yo na ki-fa-ni ya he-ki-ma za ka-le, na sa-u-ti ye-nye ngu-vu ina-yo-a-nga-za mu-sta-ka-ba-li wa Afri-ka na uli-mwe-ngu wo-te. [kiswɑˈhili si ˈluɣɑ tu ˈbɑli ni dɑˈrɑʤɑ lɑ mʃikɑˈmɑnɔ wɑ kibinɑˈdɑmu hɑˈzinɑ isiˈjɔ nɑ kiˈfɑni jɑ hɛˈkimɑ zɑ ˈkɑlɛ nɑ sɑˈuti ˈjɛɲɛ ˈŋɡuvu inɑjɔɑŋɡɑˈzɑ mustɑkɑˈbɑli wɑ ˈɑfrikɑ nɑ ulimwɛˈŋɡu ˈwɔtɛ] (kee-swah-HEE-lee see LOO-gah TOO BAH-lee nee dah-RAH-jah lah m-shee-kah-MAH-noh wah kee-bee-nah-DAH-moo, hah-ZEE-nah ee-see-YOH nah kee-FAH-nee yah hay-KEE-mah zah KAH-lay, nah sah-OO-tee YAY-nyay N-GOO-voo ee-nah-yoh-ahn-gah-ZAH moo-stah-kah-BAH-lee wah AHF-ree-kah nah oo-leem-WAYN-goo WOH-tay)",
+          "translation": "Swahili is not merely a language but a bridge of human solidarity, an peerless treasury of ancient wisdom, and a potent voice illuminating the destiny of Africa and the wider world."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Kilele cha Kiswahili: Miaka 1000 ya Historia & Pwani, Ngeli 18, Fumo Liyongo & Muyaka, Shaaban Robert, Hussein & Mlama, Kezilahabi, Utu & Ujamaa, UNESCO Julai 7!"
+      ],
+      "culturalNotes": [
+        "Hongera sana kwa kukamilisha mtaala mzima wa Kiswahili wa ngazi zote (A1, A2, B1, B2, C1, C2) wenye masomo 170 yaliyosanifiwa kwa ukamilifu wa asilimia mia moja!"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Uhuru\":",
+          "prompt": "Mchanganyiko upi unawakilisha kilele cha safari nzima ya miaka 1000 ya lugha, fasihi na ustaarabu wa Kiswahili?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 34.5.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Hujambo»",
-            "Mpangilio usio sahihi wa viambishi katika «Habari»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Asante»"
+            "Misingi ya Kibantu na ngeli 18, fonolojia ya pwani, ushairi wa arudhi wa kale na wa kisasa, tamthilia na riwaya za kifalsafa, falsafa ya Utu na Ujamaa, na hadhi ya kimataifa ya UNESCO (Master Synthesis of all 1000 years of Swahili linguistic & cultural heritage)",
+            "Kufuta mtaala mzima wa lugha ya Kiswahili",
+            "Kukataza kuzungumza Kiswahili katika mikutano ya kimataifa",
+            "Kufunga idara zote za vyuo vikuu vya Afrika Mashariki"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Lugha ya Kiswahili inajumuisha ngeli 18 za Kibantu, ushairi wa kale na wa kisasa, riwaya na tamthilia, falsafa ya Utu, na hadhi ya UNESCO."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Uhuru\":",
+          "prompt": "Sentensi ipi inawakilisha kilele cha umahiri wa kiisimu, kifasihi na kitamaduni wa kiwango cha C2 kwa lugha ya Kiswahili?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 34.5.",
-            "Mpangilio usio sahihi wa viambishi katika «Habari»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Asante»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Hujambo»"
+            "Kuanzia utajiri wa ngeli za Kibantu na ushairi wa Muyaka hadi riwaya za Kezilahabi na hadhi ya UNESCO, Kiswahili kinasimama kama mnara thabiti wa hekima na ustaarabu wa kimataifa. (From the richness of Bantu noun classes and Muyaka's prosody to Kezilahabi's novels and UNESCO status, Swahili stands as an enduring monument of global wisdom and civilization - Apex C2 master synthesis)",
+            "Kiswahili hakina historia wala fasihi yoyote iliyoandikwa.",
+            "Waswahili hawana methali wala tamthilia za jukwaani.",
+            "Julai 7 ni siku ya kawaida isiyo na umuhimu wowote."
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Sentensi inajumuisha muhtasari kamili wa ngeli za Kibantu, ushairi, riwaya, na hadhi ya kimataifa ya UNESCO."
         }
       ]
     },
@@ -14357,17 +14406,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Uhuru\": Which sentence is completely correct?",
+          "prompt": "Chagua tamko kuu la mwisho linalothibitisha kukamilika kwa mafanikio kwa masomo yote 170 ya mtaala wa Kiswahili (Kiwango cha A1 hadi C2):",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 34.5.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Asante»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Hujambo»",
-            "Mpangilio usio sahihi wa viambishi katika «Habari»"
+            "Kuanzia misingi imara ya sarufi ya Kibantu na mfumo wa ngeli 18, urithi mkuu wa kihistoria wa pwani ya Bahari ya Hindi, utajiri wa ushairi wa kale wa Fumo Liyongo, Muyaka na Shaaban Robert, tamthilia nzito za kifalsafa za Ebrahim Hussein na Penina Mlama, riwaya za kijamii na uhalisia wa kiajabu za Said Ahmed Mohamed na Euphrase Kezilahabi, falsafa tukufu ya Utu, Ubuntu na Ujamaa wa Mwalimu Julius Nyerere, hadi kutambuliwa kileleni na UNESCO kupitia Siku ya Kiswahili Duniani (Julai 7) na Umoja wa Afrika kama lugha rasmi ya kazi, mtaala huu unathibitisha umahiri wa kiwango cha juu kabisa cha uzamili na ubingwa wa lugha, fasihi na ustaarabu wa Kiswahili duniani kote! (GRAND CAPSTONE C2 APEX FINALE: 100% COMPLETE & AUTHENTIC SWAHILI CURRICULUM).",
+            "Mtaala wa Kiswahili umefutwa na haupo tena.",
+            "Hakuna mwanafunzi anayeweza kujifunza Kiswahili hadi kiwango cha C2.",
+            "Lugha ya Kiswahili haina maneno ya kutosha kueleza sayansi wala falsafa."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Kuanzia misingi imara ya sarufi ya Kibantu na mfumo wa ngeli 18, urithi mkuu wa kihistoria wa pwani ya Bahari ya Hindi, utajiri wa ushairi wa kale wa Fumo Liyongo, Muyaka na Shaaban Robert, tamthilia nzito za kifalsafa za Ebrahim Hussein na Penina Mlama, riwaya za kijamii na uhalisia wa kiajabu za Said Ahmed Mohamed na Euphrase Kezilahabi, falsafa tukufu ya Utu, Ubuntu na Ujamaa wa Mwalimu Julius Nyerere, hadi kutambuliwa kileleni na UNESCO kupitia Siku ya Kiswahili Duniani (Julai 7) na Umoja wa Afrika kama lugha rasmi ya kazi, mtaala huu unathibitisha umahiri wa kiwango cha juu kabisa cha uzamili na ubingwa wa lugha, fasihi na ustaarabu wa Kiswahili duniani kote!» inathibitisha umahiri wa mwisho wa masomo yote 170 ya Kiswahili."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   }
 };
