@@ -9687,56 +9687,65 @@
     "subject": "korean",
     "unit": 21,
     "lessonNumber": 1,
-    "title": "조건과 가정(-(으)면, -(았/었)더라면) (Hypotheticals) (Part 1)",
+    "title": "기본 조건 ('-(으)면')과 완료 전제 ('-(았/었)으면')",
     "level": "B2",
-    "objective": "Comprehensive mastery of 조건과 가정 어미 (Hypothetical Conditionals).",
+    "objective": "일반적 가설 및 반복적 법칙을 나타내는 '-(으)면'과 앞선 행위의 완료나 화자의 간절한 희망을 전제하는 '-(았/었)으면 (좋겠다)'의 결합 규칙을 완성한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 조건과 가정(-(으)면, -(았/었)더라면) (Hypotheticals) » (제1절)의 핵심 언어 요소와 조건과 가정 어미 (Hypothetical Conditionals)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "'-(으)면'은 어떤 사실이나 상황을 조건으로 설정할 때 사용하는 가장 기초적이면서도 핵심적인 연결어미입니다.\n\n1. 결합 규칙:\n- 모음 or 받침 ㄹ 종결 → **-면** (가다 → **가면**, 살다 → **살면**, 만들다 → **만들면**)\n- ㄹ 제외 자음 받침 종결 → **-으면** (먹다 → **먹으면**, 닫다 → **닫으면**, 찾다 → **찾으면**)\n- ㄷ 불규칙: 듣다 → **들으면**, ㅂ 불규칙: 돕다 → **도우면** / 춥다 → **추우면**\n\n2. '-(으)면' vs '-(았/었)으면'의 화용적 차이:\n- 단순 조건 (General / Future Conditional): \"비가 오면 우산을 쓰세요.\" / \"봄이 오면 따뜻해집니다.\"\n- 과거 완료 전제 (Completed Precondition): \"숙제를 다 끝냈으면 이제 나가서 놀아라.\"\n- 간절한 소망/희망 (Optative Desire): \"이번 주말에는 날씨가 맑았으면 좋겠어요.\" (\"I wish the weather were clear this weekend.\")",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (21.1.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "아침에 일찍 일어나서 가벼운 스트레칭을 꾸준히 하면 하루 종일 몸과 마음이 상쾌합니다.",
+          "reading": "Achim-e iljjik ireonaseo gabyeoun seuteureching-eul kkujunhi hamyeon haru jong-il mom-gwa ma-eum-i sangkwaehamnida.",
+          "translation": "If you wake up early in the morning and do light stretching continuously ('하면'), your body and mind feel refreshed all day."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (21.1.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "오늘 회의에 필요한 발표 자료 준비가 모두 끝났으면 3층 대회의실로 이동합시다.",
+          "reading": "Oneul hoeui-e piryohan balpyo jaryo junbi-ga modu kkeutnatssumeon 3-cheung daehoeuisil-ro idonghapssida.",
+          "translation": "If the preparation of presentation materials needed for today's meeting is completely finished ('끝났으면'), let's move to the 3rd floor main conference room."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (21.1.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "다가오는 이번 여름휴가에는 가족들과 함께 푸른 동해 바다로 여행을 갈 수 있었으면 좋겠습니다.",
+          "reading": "Dagaoneun ibeon yeoreumhyuga-eneun gajokdeul-gwa hamkke pureun Donghae bada-ro yeohaeng-eul gal su isseotseumeon joketseumnida.",
+          "translation": "I hope/wish we could go on a trip to the blue East Sea with family during this upcoming summer vacation ('갈 수 있었으면 좋겠습니다')."
+        },
+        {
+          "target": "모르는 한국어 어휘나 문법이 있으면 언제든지 선생님께 주저하지 말고 질문하세요.",
+          "reading": "Moreuneun hanguk-eo eohwi-na munbeop-i isseumyeon eonjedeunji seonsaengnim-kke jujeohaji malgo jilmunhaseyo.",
+          "translation": "If there are Korean vocabulary words or grammar points you do not know ('있으면'), ask the teacher anytime without hesitating."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "조건은 '-(으)면', 이미 끝났으면 '-(았/었)으면', 간절한 소망엔 '-(았/었)으면 좋겠다'!"
+      ],
+      "culturalNotes": [
+        "한국인들은 자신의 바람을 직설적으로 요구하지 않고 \"내일 비가 안 왔으면 좋겠어요\", \"일찍 끝났으면 좋겠네요\"처럼 가정 소망형 어미를 통해 완곡하고 부드럽게 표현합니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 조건과 가정 어미 (Hypothetical Conditionals) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 1)?",
+          "prompt": "'듣다(listen)'의 올바른 조건형 결합 형태는 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (21.1.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (21.1.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (21.1.3)."
+            "들으면",
+            "듣으면",
+            "듣면"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "'듣다'는 'ㄷ 불규칙' 동사이므로 모음 앞 'ㄹ'로 바뀌어 '들으면'이 됩니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 조건과 가정(-(으)면, -(았/었)더라면) (Hypotheticals) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 1):",
+          "prompt": "'주말에 푹 쉴 수 있기를 간절히 바란다'를 가장 자연스러운 소망 문장으로 완성한 것은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (21.1.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (21.1.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (21.1.3)."
+            "이번 주말에는 푹 쉴 수 있었으면 좋겠습니다.",
+            "이번 주말에는 푹 쉴 수 있으면 싫겠습니다.",
+            "이번 주말에는 푹 쉴 수 있어지면 되겠습니다."
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "화자의 간절한 희망을 나타내는 완곡한 표현은 '-(았/었)으면 좋겠습니다'입니다."
         }
       ]
     },
@@ -9744,14 +9753,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 조건과 가정 어미 (Hypothetical Conditionals) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 21-1)?",
+          "prompt": "다음 중 과거 완료 전제 조건으로 가장 자연스러운 문장은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (21.1.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (21.1.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (21.1.3)."
+            "점심 식사를 다 마쳤으면 커피 한잔하러 갈까요?",
+            "점심 식사를 다 마치면 커피 한잔하러 갔었어요?",
+            "점심 식사를 다 마칠수록 커피 한잔하러 가요?"
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR B2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "식사가 완료되었음을 전제로 다음 행동을 제안하는 문장이므로 '마쳤으면'이 적절합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'궁금한 점이 있으면 물어보세요'(If you have questions, please ask)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "궁금한 점이 있으면 물어보세요.",
+            "궁금한 점이 있으면 물어보세요"
+          ],
+          "explanation": "궁금한 점이 + 있으면(있다 + 으면) + 물어보세요 = 궁금한 점이 있으면 물어보세요."
         }
       ]
     }
@@ -9761,56 +9779,65 @@
     "subject": "korean",
     "unit": 21,
     "lessonNumber": 2,
-    "title": "조건과 가정(-(으)면, -(았/었)더라면) (Hypotheticals) (Part 2)",
+    "title": "과거 사실의 반대 가정 및 후회 ('-(았/었)더라면')",
     "level": "B2",
-    "objective": "Comprehensive mastery of 조건과 가정 어미 (Hypothetical Conditionals).",
+    "objective": "과거에 이미 일어난 사실과 반대되는 가상의 상황을 전제하여 후회, 탄식, 또는 천만다행의 안도감을 표현하는 '-(았/었)더라면' 구문을 마스터한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 조건과 가정(-(으)면, -(았/었)더라면) (Hypotheticals) » (제2절)의 핵심 언어 요소와 조건과 가정 어미 (Hypothetical Conditionals)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "'-(았/었)더라면'은 과거에 실현되지 않은 일을 반대로 가정(Counterfactual Past Hypothesis)할 때 사용하며, 뒷절에는 주로 후회, 아쉬움, 혹은 다행스러움을 나타내는 '-(으)ㄹ 텐데', '-(으)ㄹ 뻔했다', '-(았/었)을 것이다'가 호응합니다.\n\n1. 결합 규칙:\n- 양성 모음 (ㅏ, ㅗ) → **-았더라면** (가다 → **갔더라면**, 보다 → **봤더라면**, 알다 → **알았더라면**)\n- 음성 모음 (ㅓ, ㅜ, ㅡ, ㅣ 등) → **-었더라면** (먹다 → **먹었더라면**, 서두르다 → **서둘렀더라면**)\n- 하다 동사 → **-했더라면** (공부하다 → **공부했더라면**, 준비하다 → **준비했더라면**)\n\n2. 주요 호응 패턴과 심리적 태도:\n- 후회 및 아쉬움: \"그때 그 아파트를 샀더라면 지금 큰 부자가 되었을 텐데...\"\n- 아찔한 위기 모면 (안도감): \"안전벨트를 매지 않았더라면 크게 다칠 뻔했어요.\"\n- 인과적 반대 결과: \"비가 오지 않았더라면 야외 소풍을 취소하지 않았을 것입니다.\"",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (21.2.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "학창 시절에 외국어 공부를 조금만 더 열심히 했더라면 지금 훨씬 더 유창하게 말할 수 있었을 텐데요.",
+          "reading": "Hakchang sijeol-e oeguk-eo gongbu-reul jogeumman deo yeolsimhi haetdeoramyeon jigeum hwolssin deo yuchanghage malhal su isseosseul tende-yo.",
+          "translation": "If I had studied foreign languages just a little harder during my school days ('공부했더라면'), I could have spoken much more fluently now ('있었을 텐데요')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (21.2.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "골든타임 안에 구급차가 신속히 도착하지 않았더라면 위급한 환자의 생명이 위험했을 것입니다.",
+          "reading": "Goldeuntaim an-e gugeupcha-ga sinsokhi dochakhaji anatdeoramyeon wigeubhan hwanja-ui saengmyeong-i wiheomhaesseul geosimnida.",
+          "translation": "If the ambulance had not arrived promptly within the golden time, the critical patient's life would have been in danger."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (21.2.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "서둘러 우산을 챙겨 나오지 않았더라면 갑작스러운 소나기에 옷을 흠뻑 다 젖을 뻔했습니다.",
+          "reading": "Seodulleo usan-eul chaeng-gyeo na-oji anatdeoramyeon gapjakeuseureoun sonagi-e os-eul heumpbeok da jeojeul ppeonhaetseumnida.",
+          "translation": "If I had not hurried to bring an umbrella ('챙겨 나오지 않았더라면'), my clothes almost got completely soaked in the sudden rain shower."
+        },
+        {
+          "target": "그 당시 친구의 진심 어린 충고를 귀담아들었더라면 그런 어처구니없는 실수는 범하지 않았을 텐데.",
+          "reading": "Geu dangsi chin-gu-ui jinsim eorin chung-go-reul gwidamadureotdeoramyeon geureon eocheogunieopneun silsu-neun beomhaji anhasseul tende.",
+          "translation": "If I had listened carefully to my friend's heartfelt advice at that time, I would not have committed such an absurd mistake."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "과거 반대 가정엔 '-(았/었)더라면', 후회할 땐 '-(으)ㄹ 텐데', 안도할 땐 '-(으)ㄹ 뻔했다'!"
+      ],
+      "culturalNotes": [
+        "한국인들은 지나간 기회에 대한 아쉬움을 회고할 때 '-(았/었)더라면'을 자주 쓰며, 반대로 큰 사고를 피했을 때는 '조상님이 도우셨다', '정말 다행이다'라며 가슴을 쓸어내립니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 조건과 가정 어미 (Hypothetical Conditionals) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 2)?",
+          "prompt": "'그때 표를 미리 예매했더라면' 뒤에 가장 자연스럽게 어울리는 후회의 호응 구문은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (21.2.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (21.2.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (21.2.3)."
+            "매진되어 헛걸음하지 않았을 텐데요.",
+            "매진되어 헛걸음하게 되었습니다.",
+            "매진되어 헛걸음할 수밖에 없습니다."
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "'-(았/었)더라면' 과거 반대 가정 뒤에는 과거 추측/후회 '-(았/었)을 텐데요'가 자연스럽게 호응합니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 조건과 가정(-(으)면, -(았/었)더라면) (Hypotheticals) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 2):",
+          "prompt": "'안전모를 쓰지 않았다면 큰 부상을 입었을 것이다'를 가장 실감 나게 표현한 문장은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (21.2.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (21.2.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (21.2.3)."
+            "안전모를 쓰지 않았더라면 머리를 크게 다칠 뻔했습니다.",
+            "안전모를 쓰지 않더라도 머리를 크게 다치게 되었습니다.",
+            "안전모를 쓰지 않는 한 머리를 크게 다쳤을 것입니다."
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "과거 반대 가정 '않았더라면' + 아찔한 모면 '-(으)ㄹ 뻔했다'의 조합이 완벽합니다."
         }
       ]
     },
@@ -9818,14 +9845,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 조건과 가정 어미 (Hypothetical Conditionals) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 21-2)?",
+          "prompt": "다음 중 '-(았/었)더라면'의 쓰임새가 문법적으로 가장 알맞은 것은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (21.2.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (21.2.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (21.2.3)."
+            "조금만 일찍 출발했더라면 기차를 놓치지 않았을 텐데 아쉽습니다.",
+            "조금만 일찍 출발하더라면 기차를 놓치지 않을 텐데 아쉽습니다.",
+            "조금만 일찍 출발했더면 기차를 놓치지 않았을 텐데 아쉽습니다."
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR B2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "과거 사실의 반대 가정은 '출발했더라면' + '놓치지 않았을 텐데'가 정확합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'열심히 공부했더라면 합격했을 텐데요'(If I had studied hard, I would have passed)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "열심히 공부했더라면 합격했을 텐데요.",
+            "열심히 공부했더라면 합격했을 텐데요"
+          ],
+          "explanation": "열심히 + 공부했더라면 + 합격했을 텐데요(합격하다 + 었 + 을 텐데요) = 열심히 공부했더라면 합격했을 텐데요."
         }
       ]
     }
@@ -9835,56 +9871,65 @@
     "subject": "korean",
     "unit": 21,
     "lessonNumber": 3,
-    "title": "조건과 가정(-(으)면, -(았/었)더라면) (Hypotheticals) (Part 3)",
+    "title": "조건의 한계 ('-(으)ㄴ/는 한')과 조건 전제 ('-거든')",
     "level": "B2",
-    "objective": "Comprehensive mastery of 조건과 가정 어미 (Hypothetical Conditionals).",
+    "objective": "'어떤 조건이 유지되는 한도 내에서만'을 규정하는 '-(으)ㄴ/는 한'과 명령·청유문과 주로 어울려 '만약 ~하거든'을 나타내는 '-거든'을 습득한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 조건과 가정(-(으)면, -(았/었)더라면) (Hypotheticals) » (제3절)의 핵심 언어 요소와 조건과 가정 어미 (Hypothetical Conditionals)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "1. '-(으)ㄴ/는 한' (As long as / Unless):\n- 앞 절의 상태나 조건이 유효하게 지속되는 한도 내에서 뒤 절의 내용이 성립함을 나타냅니다.\n- 결합: 동사 현재 → **-는 한**, 형용사 → **-(으)ㄴ 한**, 과거 → **-(으)ㄴ 한**\n  - \"내가 살아 숨 쉬는 한(동사) 결코 꿈을 포기하지 않겠습니다.\"\n  - \"건강이 허락하는 한(동사) 봉사 활동을 계속할 생각입니다.\"\n  - \"특별한 사정이 없는 한(형용사 없다) 정시에 시작합니다.\"\n\n2. '-거든' (If indeed / Once... then do):\n- 구어체에서 조건이나 가정을 나타내며, 특히 뒤 절에 **명령(-(으)세요, -(으)십시오)**, **청유(-(으)ㅂ시다, -자)**, **약속(-(으)ㄹ게)** 문장이 필연적으로 호응합니다.\n- ⚠️ 주의: 뒤 절에 단순 평서문 과거형(*-았어요)은 올 수 없음!\n  - ⭕ \"서울에 도착하거든 꼭 전화해라.\"\n  - ⭕ \"시간이 남거든 차나 한잔하자.\"\n  - ❌ *서울에 도착하거든 전화를 걸었습니다.",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (21.3.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "천재지변이나 특별한 긴급 사정이 발생하지 않는 한, 이번 행사는 예정대로 진행됩니다.",
+          "reading": "Cheonjaejibyeon-ina teukbyeolhan gin-geup sajeong-i balsaenghaji anhneun han, ibeon haengsa-neun yejeongdaero jinhaengdoemnida.",
+          "translation": "Unless natural disasters or special emergency circumstances occur ('발생하지 않는 한'), this event will proceed as scheduled."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (21.3.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "퇴근길에 마트에 들르거든 내일 아침에 마실 우유와 신선한 계란 좀 사다 주세요.",
+          "reading": "Toegeungil-e mateu-e deulleugeodeun naeil achim-e masil uyu-wa sinseonhan gyeran jom sada juseyo.",
+          "translation": "If you happen to drop by the supermarket on your way home from work ('들르거든'), please buy some milk and fresh eggs for tomorrow morning."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (21.3.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "양측이 서로 양보하고 대화로 해결하려는 의지를 가지는 한 평화적 합의는 가능합니다.",
+          "reading": "Yangcheuk-i seoro yangbo-hago daehwa-ro haegyeolharyeoneun uiji-reul gajineun han pyeonghwajeok hab-ui-neun ganeunghamnida.",
+          "translation": "As long as both sides have the willingness to concede to each other and resolve through dialogue ('가지는 한'), a peaceful agreement is possible."
+        },
+        {
+          "target": "혹시 회의 중에 이해가 잘 안 가거나 의문점이 생기거든 주저 없이 손을 들고 질문하세요.",
+          "reading": "Hoksi hoeui jung-e ihaega jal an gageona uimunjeom-i saeng-gigeodeun jujeo eop-si son-eul deulgo jilmunhaseyo.",
+          "translation": "If by chance something is not understood or a question arises during the meeting ('생기거든'), raise your hand and ask without hesitation."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "조건의 한계는 '~는 한(As long as)', 명령·청유 부르는 조건은 '~거든(If... do)'!"
+      ],
+      "culturalNotes": [
+        "한국어에서 '-거든'은 조건문뿐만 아니라 문장 끝에서 이유를 덧붙이는 종결어미(\"나 지금 바쁘거든!\")로도 쓰이므로 문맥상 어미의 위치를 잘 파악해야 합니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 조건과 가정 어미 (Hypothetical Conditionals) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 3)?",
+          "prompt": "'-거든' 뒤에 올 수 있는 가장 자연스러운 문장 유형은 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (21.3.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (21.3.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (21.3.3)."
+            "집에 도착하거든 바로 연락해 주세요. (명령/요청)",
+            "집에 도착하거든 바로 연락을 했습니다. (과거 서술)",
+            "집에 도착하거든 어제 비가 내렸습니다. (과거 사실)"
           ],
           "answerIndex": 0,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "explanation": "'-거든' 조건 뒤에는 명령, 요청, 청유문이 호응하는 것이 문법적 규칙입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 조건과 가정(-(으)면, -(았/었)더라면) (Hypotheticals) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 3):",
+          "prompt": "'별다른 문제가 없다면 원래 계획대로 추진한다'를 '-(으)ㄴ/는 한'으로 가장 정확하게 표현한 문장은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (21.3.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (21.3.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (21.3.3)."
+            "특별한 문제가 없는 한, 원래 계획대로 추진할 것입니다.",
+            "특별한 문제가 없는 한, 원래 계획대로 추진해 주세요.",
+            "특별한 문제가 없었던 한, 원래 계획대로 추진했거든."
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "조건의 범위를 규정하는 '없는 한' + 평서문 의지 '추진할 것입니다'의 결합이 가장 적합합니다."
         }
       ]
     },
@@ -9892,14 +9937,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 조건과 가정 어미 (Hypothetical Conditionals) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 21-3)?",
+          "prompt": "다음 중 '-거든'의 문법적 제약에 맞지 않는 비문(틀린 문장)은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (21.3.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (21.3.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (21.3.3)."
+            "친구가 오거든 함께 맛있는 점심을 먹었습니다.",
+            "친구가 오거든 함께 맛있는 점심을 먹으러 가자.",
+            "친구가 오거든 문을 열어 주십시오."
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR B2 target-language standard."
+          "explanation": "'-거든' 뒤에는 과거 완료 평서문('먹었습니다')이 올 수 없습니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'집에 도착하거든 전화해 주세요'(When you arrive home, please call me)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "집에 도착하거든 전화해 주세요.",
+            "집에 도착하거든 전화해 주세요"
+          ],
+          "explanation": "집에 + 도착하거든(도착하다 + 거든) + 전화해 주세요 = 집에 도착하거든 전화해 주세요."
         }
       ]
     }
@@ -9909,56 +9963,65 @@
     "subject": "korean",
     "unit": 21,
     "lessonNumber": 4,
-    "title": "조건과 가정(-(으)면, -(았/었)더라면) (Hypotheticals) (Part 4)",
+    "title": "부정적 결과 경고 ('-다가는')와 양보 가정 ('-(으)ㄹ지라도')",
     "level": "B2",
-    "objective": "Comprehensive mastery of 조건과 가정 어미 (Hypothetical Conditionals).",
+    "objective": "어떤 행동이 계속될 경우 불행한 결과를 초래할 것임을 경고하는 '-다가는'과 극단적인 가정을 양보로 수용하는 '-(으)ㄹ지라도'를 구사한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 조건과 가정(-(으)면, -(았/었)더라면) (Hypotheticals) » (제4절)의 핵심 언어 요소와 조건과 가정 어미 (Hypothetical Conditionals)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "1. 경고의 조건 어미 '-다가는' (Warning of Negative Consequence):\n- 앞 절의 부정적이거나 위험한 행동이 지속될 경우, 필연적으로 나쁜 결과나 재앙에 이를 것임을 강력하게 경고할 때 사용합니다.\n- 뒷절에는 부정적 예측('-(으)ㄹ지도 모른다', '-기 십상이다', '큰코다친다')이 결합합니다.\n  - \"그렇게 매일 밤을 새우다가는 건강을 크게 해칠 거예요.\"\n  - \"과속 운전을 계속하다가는 큰 교통사고가 날 수 있습니다.\"\n\n2. 양보 가정 '-(으)ㄹ지라도' / '-아/어도' (Even if / Even though):\n- 앞 절의 상황을 극단적인 한계까지 가상으로 인정하더라도, 뒤 절의 결심이나 사실에는 아무런 영향을 주지 못함을 나타냅니다.\n  - \"비바람이 몰아칠지라도 우리는 결코 행진을 멈추지 않을 것입니다.\"\n  - \"아무리 힘들지라도 끝까지 포기하지 않고 해내겠습니다.\"",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (21.4.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "스마트폰을 보면서 길을 걷다가는 지나가는 차량이나 장애물에 부딪혀 크게 다치기 십상입니다.",
+          "reading": "Seumateupon-eul bomyeonseo gil-eul geotdaganeun jinaganeun charyang-ina jang-aemul-e budichyeo keuge dachigi sipsang-imnida.",
+          "translation": "If you keep walking while looking at your smartphone ('걷다가는'), you are prone to bump into passing vehicles or obstacles and get badly hurt."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (21.4.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "비록 앞길에 수많은 난관과 시련이 가로막을지라도 우리는 결코 굴복하지 않고 전진할 것입니다.",
+          "reading": "Birok apgil-e sumanheun nangwan-gwa siryeon-i garomageuljilado uri-neun gyeolko gulbokhaji anhgo jeonjinhal geosimnida.",
+          "translation": "Even if numerous hardships and trials block the road ahead ('가로막을지라도'), we will never yield and will march forward."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (21.4.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "일을 차일피일 미루다가는 마감 기한을 맞추지 못해 클라이언트의 신뢰를 잃게 됩니다.",
+          "reading": "Il-eul chairpiil mirudaganeun magam gihan-eul matchuji mothae keullaieonteu-ui sinroe-reul ilhge doemnida.",
+          "translation": "If you keep putting off work day after day ('미루다가는'), you won't meet the deadline and will lose the client's trust."
+        },
+        {
+          "target": "아무리 세상이 험난할지라도 따뜻한 온정을 나누는 진실한 이웃들이 곁에 있습니다.",
+          "reading": "Amuri sesang-i heomnanhajilado ttatteuthan onjeong-eul nanuneun jinsilhan iutdeul-i gyeot-e itseumnida.",
+          "translation": "No matter how harsh the world may be ('험난할지라도'), there are sincere neighbors who share warm compassion beside us."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "계속 그러다간 큰일 난다는 경고는 '-다가는', 아무리 힘들어도 하겠다는 양보는 '-(으)ㄹ지라도'!"
+      ],
+      "culturalNotes": [
+        "한국의 부모님이나 선생님들이 훈계할 때 \"너 그렇게 게으름 피우다가는 나중에 후회한다!\"처럼 '-다가는'은 생활 속에서 가장 생생하게 쓰이는 경고 표현입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 조건과 가정 어미 (Hypothetical Conditionals) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 4)?",
+          "prompt": "음주 운전의 위험성을 경고하는 문장으로 가장 적절한 연결어미는?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (21.4.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (21.4.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (21.4.3)."
+            "술을 마시고 운전대를 잡다가는 패가망신할 수 있습니다.",
+            "술을 마시고 운전대를 잡는 한 패가망신할 수 있습니다.",
+            "술을 마시고 운전대를 잡았더라면 패가망신할 수 있습니다."
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "부정적 행동의 지속으로 인한 비극적 결과를 경고하므로 '-다가는(잡다가는)'이 정확합니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 조건과 가정(-(으)면, -(았/었)더라면) (Hypotheticals) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 4):",
+          "prompt": "'아무리 실패가 반복되더라도 굴하지 않겠다'를 가장 비장하고 격조 높게 표현한 문장은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (21.4.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (21.4.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (21.4.3)."
+            "수없이 실패할지라도 끝까지 도전하겠습니다.",
+            "수없이 실패하다가는 끝까지 도전하겠습니다.",
+            "수없이 실패하거든 끝까지 도전하겠습니다."
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "극단적 시련을 양보로 수용하는 '-(으)ㄹ지라도(실패할지라도)'가 가장 적합합니다."
         }
       ]
     },
@@ -9966,14 +10029,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 조건과 가정 어미 (Hypothetical Conditionals) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 21-4)?",
+          "prompt": "다음 빈칸에 들어갈 가장 자연스러운 어미는?\n\"자극적인 음식을 너무 자주 _____ 위장병에 걸릴 위험이 큽니다.\"",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (21.4.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (21.4.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (21.4.3)."
+            "먹다가는",
+            "먹었더라면",
+            "먹는 한편"
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR B2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "위험한 습관의 반복에 따른 건강 악화 경고이므로 '먹다가는'이 들어갑니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'계속 놀다가는 후회하게 돼요'(If you keep playing like that, you'll end up regretting it)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "계속 놀다가는 후회하게 돼요.",
+            "계속 놀다가는 후회하게 돼요"
+          ],
+          "explanation": "계속 + 놀다가는(놀다 + 다가는) + 후회하게 돼요 = 계속 놀다가는 후회하게 돼요."
         }
       ]
     }
@@ -9983,56 +10055,65 @@
     "subject": "korean",
     "unit": 21,
     "lessonNumber": 5,
-    "title": "조건과 가정(-(으)면, -(았/었)더라면) (Hypotheticals) (Part 5)",
+    "title": "재테크 투자 자문, 진로 상담 및 비상 대책 실전 조건/가정 담화",
     "level": "B2",
-    "objective": "Comprehensive mastery of 조건과 가정 어미 (Hypothetical Conditionals).",
+    "objective": "'-(으)면', '-(았/었)더라면', '-(으)ㄴ/는 한', '-다가는', '-(으)ㄹ지라도'를 총망라하여 금융 투자 자문, 진로 멘토링, 위기 대책 실전 담화를 완성한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 조건과 가정(-(으)면, -(았/었)더라면) (Hypotheticals) » (제5절)의 핵심 언어 요소와 조건과 가정 어미 (Hypothetical Conditionals)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "조건과 가정 어미는 리스크 관리(금융/투자 포트폴리오), 진로 설계(미래 선택 시나리오), 비상 대응 매뉴얼(위기 상황 대처)에서 핵심적인 논리 도구로 기능합니다.\n\n1. 금융 PB 센터 자산 관리 및 투자 포트폴리오 자문 실전 담화 모델:\n- 고객: 전문가님, 요즘 주식 시장 변동성이 너무 큰데 제 투자 비중을 어떻게 조정하면 좋을까요?\n- PB: 고객님, 한 특정 종목에만 올인 투자하시다가는 급락장에서 회복 불가능한 손실을 입으실 수 있습니다.\n- 고객: 맞아요. 작년에 분산 투자를 미리 해 두었더라면 마음고생을 덜 했을 텐데요.\n- PB: 지나간 일은 잊으시고요. 안정적인 배당 수익과 안전 자산 비율을 50% 이상 유지하는 한, 단기 조정이 올지라도 장기적으로는 반드시 안정적 자산 증식이 가능합니다.\n- 고객: 그렇군요. 혹시 추가 여유 자금이 생기거든 채권형 ETF에 나누어 분할 매수해야겠네요.\n- PB: 아주 훌륭한 판단이십니다. 리스크 관리 원칙만 철저히 지키시면 시장이 흔들려도 흔들리지 않습니다.",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (21.5.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "시장 변동성이 극심할지라도 장기 가치 투자 원칙을 일관되게 고수하는 한 실패 확률을 대폭 낮출 수 있습니다.",
+          "reading": "Sijang byeondongseong-i geuksimhaljilado janggi gachi tuja wonchik-eul ilgwandoege gosu-haneun han silpae hwakryul-eul daepok natchul su itseumnida.",
+          "translation": "Even if market volatility is extreme ('극심할지라도'), as long as you adhere to long-term value investing principles consistently ('고수하는 한'), you can drastically lower failure probability."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (21.5.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "리스크 분산 없이 단기 테마주에 무리하게 대출받아 투자했다가는 파산 위기에 직면할 수 있습니다.",
+          "reading": "Liseukeu bunsan eop-si dan-gi temaju-e murihage daechulbada tujahaetdaganeun pasan wigi-e jigmyeonhal su itseumnida.",
+          "translation": "If you invest by taking excessive loans into short-term theme stocks without risk diversification ('투자했다가는'), you could face bankruptcy crisis."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (21.5.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "그때 무리한 사업 확장을 조금만 늦추었더라면 자금 유동성 위기를 지혜롭게 극복했을 텐데 아쉽습니다.",
+          "reading": "Geu ttae murihan sa-eop hwakjang-eul jogeumman neutchueotdeoramyeon jageum yudongseong wigi-reul jihyereopge geukbokhaesseul tende aswipssumnida.",
+          "translation": "If we had slowed down excessive business expansion just a little at that time ('늦추었더라면'), we would have wisely overcome the fund liquidity crisis."
+        },
+        {
+          "target": "해외 거래처로부터 긴급 수정 견적서가 도착하거든 담당자에게 즉시 전달하고 보고해 주시기 바랍니다.",
+          "reading": "Haeoe georaecheo-robuteo gin-geup sujeong gyeonjeokseo-ga dochakhageodeun damdangja-ege jeukssi jeondalhago bogohae jusigi baramnida.",
+          "translation": "Once the urgent revised quotation arrives from the overseas client ('도착하거든'), please immediately relay it to the person in charge and report."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "무리하다간 큰코다치고(-다가는), 과거 반성엔 -었더라면, 원칙 지키는 한(-는 한) 성공한다!"
+      ],
+      "culturalNotes": [
+        "한국의 금융 상담 및 비즈니스 협상에서는 위험을 경고할 때 '-다가는', 협상의 전제를 걸 때 '-는 한', 행동 개시를 지시할 때 '-거든'을 적재적소에 배합하는 것이 프로페셔널한 소통의 표준입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 조건과 가정 어미 (Hypothetical Conditionals) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 5)?",
+          "prompt": "투자 자문가가 고객에게 위험한 집중 투자를 경고할 때 가장 어울리는 문장은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (21.5.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (21.5.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (21.5.3)."
+            "무리하게 한 종목에만 몰아서 투자하다가는 큰 손실을 볼 수 있습니다.",
+            "무리하게 한 종목에만 몰아서 투자했더라면 큰 손실을 볼 수 있습니다.",
+            "무리하게 한 종목에만 몰아서 투자하거든 큰 손실을 볼 수 있습니다."
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "부정적 결과에 대한 경고는 '-다가는(투자하다가는)'이 가장 정확합니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 조건과 가정(-(으)면, -(았/었)더라면) (Hypotheticals) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 5):",
+          "prompt": "진로 상담 중 '시련이 있더라도 열정이 유지되는 한 성공할 것'을 가장 훌륭히 표현한 문장은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (21.5.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (21.5.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (21.5.3)."
+            "어려움이 따를지라도 꿈을 향한 열정을 잃지 않는 한 반드시 성취할 것입니다.",
+            "어려움이 따를지라도 꿈을 향한 열정을 잃지 않다가는 반드시 성취할 것입니다.",
+            "어려움이 따랐더라면 꿈을 향한 열정을 잃지 않거든 반드시 성취할 것입니다."
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "양보 가정('따를지라도') + 조건의 한계 지속('잃지 않는 한')의 결합이 완벽합니다."
         }
       ]
     },
@@ -10040,14 +10121,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 조건과 가정 어미 (Hypothetical Conditionals) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 21-5)?",
+          "prompt": "다음 대화의 빈칸에 들어갈 가장 알맞은 표현은?\n\"A: 변동성 장세에서 어떻게 대응할까요?\nB: 원칙을 _____ 단기 등락에 불안해할 필요가 없습니다.\"",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (21.5.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (21.5.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (21.5.3)."
+            "지키는 한",
+            "지키다가는",
+            "지켰더라면"
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR B2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "조건이 유효하게 유지되는 한도를 나타내므로 '지키는 한'이 알맞습니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'꿈을 포기하지 않는 한 희망은 있어요'(As long as you don't give up on your dream, there is hope)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "꿈을 포기하지 않는 한 희망은 있어요.",
+            "꿈을 포기하지 않는 한 희망은 있어요"
+          ],
+          "explanation": "꿈을 + 포기하지 않는 한(포기하지 않다 + 는 한) + 희망은 있어요 = 꿈을 포기하지 않는 한 희망은 있어요."
         }
       ]
     }

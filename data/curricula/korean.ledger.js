@@ -104,14 +104,14 @@
     "ko-u20-l2",
     "ko-u20-l3",
     "ko-u20-l4",
-    "ko-u20-l5"
-  ],
-  "stubOnly": [
+    "ko-u20-l5",
     "ko-u21-l1",
     "ko-u21-l2",
     "ko-u21-l3",
     "ko-u21-l4",
-    "ko-u21-l5",
+    "ko-u21-l5"
+  ],
+  "stubOnly": [
     "ko-u22-l1",
     "ko-u22-l2",
     "ko-u22-l3",
@@ -178,8 +178,8 @@
     "ko-u34-l4",
     "ko-u34-l5"
   ],
-  "lastCompletedLessonId": "ko-u20-l5",
-  "nextToAuthor": "ko-u21-l1"
+  "lastCompletedLessonId": "ko-u21-l5",
+  "nextToAuthor": "ko-u22-l1"
 };
   global.FEARN_LEDGERS = global.FEARN_LEDGERS || {};
   global.FEARN_LEDGERS['korean'] = LEDGER;
