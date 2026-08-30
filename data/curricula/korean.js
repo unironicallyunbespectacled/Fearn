@@ -11987,56 +11987,65 @@
     "subject": "korean",
     "unit": 26,
     "lessonNumber": 1,
-    "title": "의료 상담과 건강보험 체계 (Medical & Clinical Discourse) (Part 1)",
+    "title": "임상 증상 호소와 초진 문진 어휘 (Clinical Symptoms & Intake)",
     "level": "C1",
-    "objective": "Comprehensive mastery of 병원 진료와 건강 상담 (Clinical & Medical Consultations).",
+    "objective": "통증의 양상(욱신거리다, 따끔거리다, 찌릿하다, 뻐근하다, 쥐어짜다)과 소화기·신경계 이상 증상을 문진표 및 의사 면담에서 정밀하게 표현한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 의료 상담과 건강보험 체계 (Medical & Clinical Discourse) » (제1절)의 핵심 언어 요소와 병원 진료와 건강 상담 (Clinical & Medical Consultations)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한국의 병원 진료에서는 신체 통증의 미세한 감각과 발현 양상을 나타내는 다채로운 의성어·의태어 및 전문 의학 어휘가 문진에 사용됩니다.\n\n1. 통증 양상(Pain Descriptors) 전문 묘사 어휘:\n- **욱신거리다 / 쑤시다(Throbbing / Aching)**: 심장이 뛰듯 주기적으로 묵직하고 깊게 아픈 양상 (염증, 치통, 관절염)\n- **따끔거리다 / 화끈거리다(Stinging / Burning)**: 바늘로 찌르듯 뾰족하게 아프거나 열감이 느껴지는 피부·점막 통증\n- **찌릿하다 / 저리다(Tingling / Numb)**: 전기가 통하듯 신경이 당기거나 혈액순환이 안 되어 감각이 둔해지는 증상 (디스크, 신경통)\n- **뻐근하다 / 결리다(Stiff / Sore)**: 근육이 뭉쳐서 유연하게 움직이지 않고 굳어 있는 상태 (목·어깨 담)\n- **쥐어짜는 듯하다(Squeezing / Colicky)**: 위장이나 심장 주변이 비틀리듯 극심하게 조여오는 통증\n\n2. 전신 및 소화기 증상:\n- **더부룩하다(Bloated)**: 소화가 안 되어 명치끝이 가득 차고 답답한 상태\n- **메스껍다 / 구역감(Nauseous)**: 속이 울렁거려 토할 것 같은 느낌\n- **오한과 미열/고열(Chills, Mild/High Fever)**: 춥고 떨리면서 체온이 상승하는 증상",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (26.1.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "어젯밤부터 명치끝이 쥐어짜듯이 아프고 속이 몹시 더부룩하며 구역감이 지속되고 있습니다.",
+          "reading": "Eojetbam-buteo myeongchikkeut-i jwieojjadeusi apheugo sog-i mop-si deoburuhhamyeo guyeokgam-i jisokdoego itseumnida.",
+          "translation": "Since last night, the pit of my stomach aches as if being squeezed ('쥐어짜듯이 아프고'), my stomach feels very bloated ('더부룩하며'), and nausea is persisting."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (26.1.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "허리를 숙일 때마다 오른쪽 다리 뒤쪽으로 전기가 통하듯 찌릿하고 저린 증상이 발끝까지 뻗칩니다.",
+          "reading": "Heori-reul sugil ttaemada oreunjjok dari dwijjog-euro jeon-gi-ga tonghadeut jjiritago jeorin jeungsang-i balkkeut-kkaji ppeotchimnida.",
+          "translation": "Whenever I bend my waist, an electric tingling and numbness ('찌릿하고 저린 증상') radiates down the back of my right leg to the toes."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (26.1.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "어금니 잇몸 부위가 심장 박동에 맞춰 욱신거리고 쑤셔서 잠을 제대로 잘 수 없었습니다.",
+          "reading": "Eogeumni itmom buwi-ga simjang bakdong-e matchwo uksingeorigo ssusyeoseo jam-eul jedaero jal su eopseotseumnida.",
+          "translation": "The molar gum area throbbed and ached ('욱신거리고 쑤셔서') in sync with heartbeat, making it impossible to sleep properly."
+        },
+        {
+          "target": "환자분께서는 초진 문진표에 과거 병력과 약물 알레르기 유무를 상세히 기재해 주시기 바랍니다.",
+          "reading": "Hwanjabun-kkeseoneun chojin munjinpyo-e gwageo byeongnyeok-gwa yangmul allereugi yumu-reul sangsehi gijaehae jusigi baramnida.",
+          "translation": "Patient, please record past medical history and presence of drug allergies in detail on the initial intake form ('초진 문진표')."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "염증엔 욱신욱신, 신경엔 찌릿찌릿, 소화 불량엔 더부룩, 근육엔 뻐근!"
+      ],
+      "culturalNotes": [
+        "한국 병원 초진 접수 시에는 '문진표(Medical questionnaire)'를 작성하며 기저질환(고혈압, 당뇨) 및 복용 중인 약물을 정확히 알리는 것이 진료의 첫 단계입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 병원 진료와 건강 상담 (Clinical & Medical Consultations) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 1)?",
+          "prompt": "소화가 잘되지 않아 배 속에 가스가 차고 답답한 상태를 나타내는 가장 알맞은 형용사는?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (26.1.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (26.1.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (26.1.3)."
+            "더부룩하다 (Bloated)",
+            "따끔거리다 (Stinging)",
+            "뻐근하다 (Stiff)"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "소화불량으로 위장이 꽉 차고 답답한 느낌은 '더부룩하다'입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 의료 상담과 건강보험 체계 (Medical & Clinical Discourse) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 1):",
+          "prompt": "디스크로 인해 신경이 눌려 다리가 전기가 오듯 저리는 증상을 의사에게 설명할 때 가장 정확한 표현은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (26.1.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (26.1.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (26.1.3)."
+            "다리 뒤쪽이 전기가 통하듯 찌릿찌릿하고 저려요.",
+            "다리가 얼음처럼 차갑고 간지러워요.",
+            "다리에 화상을 입은 것처럼 따끔거려요."
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "신경 압박으로 인한 방사통은 '찌릿찌릿하고 저리다'로 표현합니다."
         }
       ]
     },
@@ -12044,14 +12053,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 병원 진료와 건강 상담 (Clinical & Medical Consultations) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 26-1)?",
+          "prompt": "병원에서 처음 진료받을 때 작성하는 건강 상태 및 병력 기록 양식은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (26.1.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (26.1.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (26.1.3)."
+            "문진표 (Intake Questionnaire)",
+            "영수증 (Receipt)",
+            "계약서 (Contract)"
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR C1 target-language standard."
+          "explanation": "환자의 증상과 병력을 파악하는 설문 서식을 '문진표(問診票)'라고 합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'속이 더부룩하고 명치가 욱신거려요'(My stomach feels bloated and the pit thumps)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "속이 더부룩하고 명치가 욱신거려요.",
+            "속이 더부룩하고 명치가 욱신거려요"
+          ],
+          "explanation": "속이 더부룩하고 + 명치가 + 욱신거려요 = 속이 더부룩하고 명치가 욱신거려요."
         }
       ]
     }
@@ -12061,56 +12079,65 @@
     "subject": "korean",
     "unit": 26,
     "lessonNumber": 2,
-    "title": "의료 상담과 건강보험 체계 (Medical & Clinical Discourse) (Part 2)",
+    "title": "정밀 영상 검사와 임상 진단 소견 (Diagnostic Imaging & Clinical Findings)",
     "level": "C1",
-    "objective": "Comprehensive mastery of 병원 진료와 건강 상담 (Clinical & Medical Consultations).",
+    "objective": "초음파, 내시경, CT, MRI 등 첨단 의료 영상 검사 결과와 의사의 전문 진단 소견(음성/양성, 이상 소견, 추적 관찰)을 정확히 해독한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 의료 상담과 건강보험 체계 (Medical & Clinical Discourse) » (제2절)의 핵심 언어 요소와 병원 진료와 건강 상담 (Clinical & Medical Consultations)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "정확한 병인 규명을 위해 시행되는 첨단 진단 검사와 검사 결과 보고서의 전문 임상 어휘입니다.\n\n1. 정밀 영상 검사(Medical Imaging Tests):\n- **초음파 검사(Ultrasonography)**: 복부, 갑상선, 심장 등의 연부 조직을 실시간 음파로 확인\n- **내시경 검사(Endoscopy / Colonoscopy)**: 위·대장 내부 점막을 카메라로 직접 관찰하고 조직 검사를 병행\n- **CT(컴퓨터 단층촬영) vs MRI(자기공명영상)**: 방사선 단면 촬영(CT, 뼈·혈관·폐) vs 자기장 3차원 정밀 영상(MRI, 뇌·척추·관절·연골)\n\n2. 진단 결과 판독 및 임상 소견 어휘:\n- **소견(Clinical Findings / Opinion)**: 검사 결과를 바탕으로 전문의가 내린 의학적 판단 (\"특이 소견 없음\")\n- **음성(Negative) vs 양성(Positive)**: 질환이나 바이러스 반응이 없음(음성, 정상) vs 특정 반응이나 병변이 발견됨(양성)\n- **양성 종양(Benign) vs 악성 종양(Malignant / Cancer)**: 단순 물혹이나 양호한 혹(양성) vs 주위 조직을 침범하는 암(악성)\n- **추적 관찰(Follow-up Monitoring)**: 즉각적인 수술 대신 일정 기간 후 재검사를 통해 병변의 변화를 지켜보는 조치",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (26.2.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "위내시경 검사 결과 가벼운 만성 표재성 위염 외에는 암을 의심할 만한 특이 소견은 관찰되지 않았습니다.",
+          "reading": "Winaesigyeong geomsa gyeolgwa gabyeoun manseong pyojaeseong wiyeom oe-eneun am-eul uisimhal manhan teugi sogyeon-eun gwanchaldoeji anatseumnida.",
+          "translation": "As a result of gastroscopy, other than mild chronic superficial gastritis, no specific findings ('특이 소견은 관찰되지 않았습니다') suspected of cancer were observed."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (26.2.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "복부 초음파에서 간에 1cm 미만의 결절이 발견되었으나 양성 혈관종으로 판단되므로 6개월 후 추적 관찰을 권고합니다.",
+          "reading": "Bokbu cho-eumpa-eseo gan-e il-sentimiteo miman-ui gyeoljeol-i balgyeondoeeotseuna yangseong hyeol-gwanjong-euro pandandoemuro yukgae-wol hu chujeok gwanchal-eul gwongohamnida.",
+          "translation": "A nodule under 1cm was found on the liver in abdominal ultrasound, but as it is judged a benign hemangioma, follow-up monitoring ('추적 관찰') in 6 months is recommended."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (26.2.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "조직 검사 결과 악성 종양이 아닌 단순 양성 병변으로 최종 확진 판정이 내려졌습니다.",
+          "reading": "Jojik geomsa gyeolgwa akseong jong-yang-i anin dansun yangseong byeongbyeon-euro choejong hwakjin panjeong-i naeryeojyeotseumnida.",
+          "translation": "As a result of the biopsy, a final confirmed diagnosis was made that it is a simple benign lesion ('양성 병변'), not a malignant tumor."
+        },
+        {
+          "target": "요추 MRI 촬영을 통해 제4-5번 추간판 탈출증으로 인한 신경근 압박 소견이 명확히 확인되었습니다.",
+          "reading": "Yochu MRI chwaryeong-eul tonghae je-sa-obeon chuganpan talchuljeung-euro inan sin-gyeonggeun apbak sogyeon-i myeonghwakhi hwagindoeeotseumnida.",
+          "translation": "Through lumbar spine MRI scanning, findings of nerve root compression ('신경근 압박 소견') due to L4-L5 herniated intervertebral disc were clearly confirmed."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "검사 결과 병 없으면 '음성', 이상 판단은 '소견', 지켜볼 땐 '추적 관찰'!"
+      ],
+      "culturalNotes": [
+        "한국은 국가건강검진 제도가 매우 발달하여 만 40세 이상 국민에게 2년마다 위내시경, 간초음파, 유방촬영 등 주요 암 검진을 무료 또는 10% 본인부담으로 제공합니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 병원 진료와 건강 상담 (Clinical & Medical Consultations) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 2)?",
+          "prompt": "검사 결과에서 검사 대상 바이러스나 질병 반응이 나타나지 않아 정상임을 뜻하는 용어는?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (26.2.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (26.2.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (26.2.3)."
+            "음성 (Negative)",
+            "양성 (Positive)",
+            "악성 (Malignant)"
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "의학 검사에서 질병 반응이 없음을 나타내는 용어는 '음성(Negative)'입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 의료 상담과 건강보험 체계 (Medical & Clinical Discourse) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 2):",
+          "prompt": "발견된 혹이 즉시 수술할 위험이 없어 몇 달 뒤 다시 검사하여 변화를 지켜보자는 의사의 조치를 무엇이라 하는가?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (26.2.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (26.2.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (26.2.3)."
+            "추적 관찰 (Follow-up Observation)",
+            "응급 수술 (Emergency Surgery)",
+            "강제 퇴원 (Forced Discharge)"
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "일정 주기를 두고 병변 경과를 지켜보는 것을 '추적 관찰'이라고 합니다."
         }
       ]
     },
@@ -12118,14 +12145,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 병원 진료와 건강 상담 (Clinical & Medical Consultations) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 26-2)?",
+          "prompt": "의사가 정밀 검사 결과를 바탕으로 진단하여 작성한 전문적 소견을 뜻하는 단어는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (26.2.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (26.2.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (26.2.3)."
+            "소견 (Clinical findings / opinion)",
+            "추견 (Rough estimate)",
+            "편견 (Prejudice)"
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR C1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "의학적 판단 의견이나 관찰 결과를 '소견(所見)'이라고 합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'정밀 검사 결과 특이 소견이 없어요'(There are no specific findings in precision tests)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "정밀 검사 결과 특이 소견이 없어요.",
+            "정밀 검사 결과 특이 소견이 없어요"
+          ],
+          "explanation": "정밀 검사 결과 + 특이 소견이 + 없어요 = 정밀 검사 결과 특이 소견이 없어요."
         }
       ]
     }
@@ -12135,56 +12171,65 @@
     "subject": "korean",
     "unit": 26,
     "lessonNumber": 3,
-    "title": "의료 상담과 건강보험 체계 (Medical & Clinical Discourse) (Part 3)",
+    "title": "처방전 해독과 약국 복약 지도 (Prescription & Pharmacy Guidance)",
     "level": "C1",
-    "objective": "Comprehensive mastery of 병원 진료와 건강 상담 (Clinical & Medical Consultations).",
+    "objective": "처방전 복용법(식전/식후 30분, 취침 전), 약물 부작용 주의사항(졸음, 위장 장애, 음주 금지), 항생제 복약 완료 원칙을 전문 약사 지도 수준으로 이해한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 의료 상담과 건강보험 체계 (Medical & Clinical Discourse) » (제3절)의 핵심 언어 요소와 병원 진료와 건강 상담 (Clinical & Medical Consultations)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "의사의 처방전에 따른 약사의 전문 **복약 지도(Medication Counseling)**를 이해하고 환자 안전을 지키는 필수 임상 지침입니다.\n\n1. 복용 시점 및 투여 경로 전문 용어:\n- **식후 30분(30 min after meals)**: 위장 점막을 보호하고 일정한 혈중 농도를 유지하기 위한 가장 일반적인 복용법\n- **식전 30분 / 공복(Before meals / Empty stomach)**: 음식물과의 흡수 간섭을 피하고 약효를 신속히 흡수시키기 위한 복용법 (위장약, 갑상선 호르몬제)\n- **취침 전(Before bedtime)**: 야간 통증 조절이나 졸림을 유발하는 약물 (수면진정제, 항히스타민제)\n- **경구 투여(Oral)** vs **외용제(Topical)** vs **좌약(Suppository)**\n\n2. 복약 주의사항 및 부작용(Side Effects):\n- **졸음 및 집중력 저하**: 운전이나 기계 조작 금지 알림 (감기약, 알레르기 비염약)\n- **위장 장애(Gastrointestinal upset)**: 속쓰림, 메스꺼움 유발 시 식사 직후 복용 권고\n- **항생제 복약 준수**: 증상이 호전되더라도 내성균 발생을 방지하기 위해 처방된 일수만큼 끝까지 완복해야 함\n- **금주(Alcohol prohibition)**: 약물 간독성 및 급성 부작용 예방",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (26.3.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "이 약은 졸음을 유발할 수 있으므로 복용 후 장거리 운전이나 위험한 기계 조작을 절대 삼가시기 바랍니다.",
+          "reading": "I yag-eun joreum-eul yubalhal su isseumuro bokyong hu janggeori unjeon-ina wiheomhan gigye jojak-eul jeoldae samgasigi baramnida.",
+          "translation": "As this medication may induce drowsiness ('졸음을 유발할 수 있으므로'), please strictly refrain from long-distance driving or operating dangerous machinery after taking it."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (26.3.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "처방된 항생제는 증상이 나아지더라도 중간에 임의로 끊지 마시고 반드시 처방 일수를 채워 끝까지 복용하십시오.",
+          "reading": "Cheobangdoen hangsaengje-neun jeungsang-i naajideorado junggan-e imui-ro kkeunji masigo bandeusi cheobang ilsu-reul chaewo kkeutkkaji bokyonghasipsio.",
+          "translation": "Even if symptoms improve, do not arbitrarily discontinue the prescribed antibiotics halfway, but be sure to finish taking them ('끝까지 복용하십시오') for the full prescribed days."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (26.3.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "위장 장애를 최소화하기 위해 소염진통제와 위벽 보호제는 반드시 식후 30분 이내에 충분한 물과 함께 드셔야 합니다.",
+          "reading": "Wijang jang-ae-reul choesohwahagi wihae soyeomjintongje-wa wibyeok bohoje-neun bandeusi sikhu samsipbun inaee chungbunhan mul-gwa hamkke deusyeoya hamnida.",
+          "translation": "To minimize gastrointestinal disorders, anti-inflammatory analgesics and gastric mucosal protectants must be taken within 30 minutes after meals with plenty of water."
+        },
+        {
+          "target": "약 복용 기간 중 음주를 하실 경우 간 손상 및 혈압 급상승 등의 치명적인 부작용이 발생할 위험이 큽니다.",
+          "reading": "Yak bokyong gigan jung eumju-reul hasil gyeong-u gan sonsang mit hyeorap geupsangseung deung-ui chimyeongjeogin bujagyong-i balsaenghal wiheom-i keumnida.",
+          "translation": "If you drink alcohol during the medication period, there is a great danger that fatal side effects ('치명적인 부작용') such as liver damage and acute blood pressure surge may occur."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "졸리면 운전 금지, 항생제는 끝까지 완복, 진통제는 식후 30분 물 한 컵!"
+      ],
+      "culturalNotes": [
+        "한국의 '의약분업' 제도에 따라 병의원에서 진료 후 교부받은 처방전(Prescription)을 약국에 제출해야 전문의약품을 조제받을 수 있습니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 병원 진료와 건강 상담 (Clinical & Medical Consultations) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 3)?",
+          "prompt": "처방된 항생제를 복용할 때 가장 올바른 복약 수칙은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (26.3.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (26.3.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (26.3.3)."
+            "증상이 호전되더라도 내성균을 막기 위해 처방 일수 동안 끝까지 모두 복용한다.",
+            "열이 내리면 즉시 약 복용을 중단하고 서랍에 보관한다.",
+            "더 빨리 낫기 위해 한 번에 3회 분량을 몰아서 복용한다."
           ],
           "answerIndex": 0,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "explanation": "항생제는 내성균 예방을 위해 증상이 나아져도 처방 일수를 끝까지 복용해야 합니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 의료 상담과 건강보험 체계 (Medical & Clinical Discourse) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 3):",
+          "prompt": "항히스타민제나 비염 감기약을 복용한 환자가 반드시 주의해야 할 행동은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (26.3.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (26.3.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (26.3.3)."
+            "졸림 현상이 나타날 수 있으므로 운전 및 정밀 기계 조작을 피한다.",
+            "약효를 높이기 위해 소주와 함께 삼킨다.",
+            "약을 씹어서 가루로 만들어 코로 마신다."
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "졸음을 유발하는 감기약이나 항히스타민제 복용 후에는 운전을 삼가야 합니다."
         }
       ]
     },
@@ -12192,14 +12237,25 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 병원 진료와 건강 상담 (Clinical & Medical Consultations) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 26-3)?",
+          "prompt": "약사가 환자에게 약의 효능, 복용 시간, 주의사항 등을 상세히 설명해 주는 것을 무엇이라 하는가?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (26.3.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (26.3.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (26.3.3)."
+            "복약 지도 (Medication Counseling)",
+            "도로 지도 (Road Map)",
+            "인사 지도 (Personnel Guidance)"
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR C1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "약 복용 방법과 주의점을 환자에게 안내하는 전문 행위를 '복약 지도(服藥指導)'라고 합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'처방된 약을 식후 삼십 분에 복용하세요'(Please take the prescribed medication 30 minutes after meals)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "처방된 약을 식후 삼십 분에 복용하세요.",
+            "처방된 약을 식후 삼십 분에 복용하세요",
+            "처방된 약을 식후 30분에 복용하세요.",
+            "처방된 약을 식후 30분에 복용하세요"
+          ],
+          "explanation": "처방된 약을 + 식후 삼십 분에 + 복용하세요 = 처방된 약을 식후 삼십 분에 복용하세요."
         }
       ]
     }
@@ -12209,56 +12265,65 @@
     "subject": "korean",
     "unit": 26,
     "lessonNumber": 4,
-    "title": "의료 상담과 건강보험 체계 (Medical & Clinical Discourse) (Part 4)",
+    "title": "국민건강보험(NHIS)과 3단계 의료 전달 체계",
     "level": "C1",
-    "objective": "Comprehensive mastery of 병원 진료와 건강 상담 (Clinical & Medical Consultations).",
+    "objective": "한국의 국민건강보험 제도(급여/비급여, 본인부담금, 건보공단)와 1·2·3차 의료기관 간 진료의뢰서 시스템을 완벽히 이해한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 의료 상담과 건강보험 체계 (Medical & Clinical Discourse) » (제4절)의 핵심 언어 요소와 병원 진료와 건강 상담 (Clinical & Medical Consultations)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한국의 의료보장 시스템은 세계 최고 수준의 **국민건강보험(National Health Insurance)**과 체계적인 의료 전달 체계로 구성되어 있습니다.\n\n1. 국민건강보험 재정 및 수가 전문 어휘:\n- **국민건강보험공단(NHIS)**: 전 국민의 자격을 관리하고 보험료를 부과·징수하며 보험급여를 지급하는 공공기관\n- **급여(Covered Items)**: 건강보험이 적용되어 공단이 진료비의 대부분을 부담하는 필수 의료 항목\n- **비급여(Non-covered Items)**: 건강보험이 적용되지 않아 환자가 전액 부담하는 선택 항목 (도수치료, 일부 비급여 MRI, 영양주사 등)\n- **본인부담금(Co-payment / Out-of-pocket)**: 총 진료비 중 환자 개인이 직접 수납하는 법정 분담 비용\n\n2. 3단계 의료 전달 체계(Healthcare Delivery System):\n- **1차 의료기관(Primary Clinic)**: 동네 의원, 보건소 (경증 질환, 1차 진료)\n- **2차 의료기관(Secondary Hospital)**: 병원, 종합병원 (입원실과 수술실을 갖춘 전문 진료)\n- **3차 의료기관(Tertiary Hospital / 상급종합병원)**: 대학병원 등 최고 난도 중증 질환 전문 병원\n- **진료의뢰서(Medical Referral Form)**: 1·2차 병원의 소견서 없이 3차 상급종합병원으로 직행할 경우 건강보험 혜택을 받을 수 없도록 통제하는 필수 의뢰서",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (26.4.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "상급종합병원에서 건강보험 급여 혜택을 적용받으시려면 1차 또는 2차 병원에서 발급받은 진료의뢰서를 반드시 지참하셔야 합니다.",
+          "reading": "Sang-geupjonghapbyeongwon-eseo geon-gangboheom geub-yeo haetaek-eul jeok-yongbadeusiryeomyeon ilcha ttoneun icha byeongwon-eseo balgeupbadeun jinryouiroeseo-reul bandeusi jichamhasyeoya hamnida.",
+          "translation": "To receive health insurance covered benefits at a tertiary hospital, you must bring a medical referral form ('진료의뢰서') issued by a primary or secondary hospital."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (26.4.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "해당 정밀 검사는 비급여 항목으로 분류되어 국민건강보험이 적용되지 않으므로 환자 본인부담금이 발생합니다.",
+          "reading": "Haedang jeongmil geomsa-neun bigeub-yeo hangmog-euro bullyudoeeo gungmingeon-gangboheom-i jeok-yongdoeji aneumuro hwanja bon-inbudamgam-i balsaenghamnida.",
+          "translation": "As that precision test is classified as a non-covered item ('비급여 항목'), national health insurance is not applied, resulting in patient co-payment."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (26.4.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "한국의 단일 국민건강보험 체계는 의료 접근성을 획기적으로 높이고 국민의 의료비 부담을 크게 경감시켰습니다.",
+          "reading": "Hanguk-ui dan-il gungmingeon-gangboheom chegye-neun uiryo jeopgeunseong-eul hoekgijeog-euro nop-igo gungmin-ui uiryobi budam-eul keuge gyeong-gamsikyeotseumnida.",
+          "translation": "Korea's single national health insurance system drastically raised medical accessibility and greatly reduced the public's medical cost burden."
+        },
+        {
+          "target": "중증 환자 산정특례 제도가 적용되어 암 치료비의 본인부담률이 5%로 대폭 낮아졌습니다.",
+          "reading": "Jungjeung hwanja sanjeongteungnye jedo-ga jeok-yongdoeeo am chiryobi-ui bon-inbudamryul-i o-peosenteu-ro daepok naja-jyeotseumnida.",
+          "translation": "With the critical illness calculation exception system applied, the co-payment rate for cancer treatment costs was significantly lowered to 5%."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "1·2차 거쳐 진료의뢰서 들고 3차 병원, 급여는 건보 적용, 비급여는 본인 부담!"
+      ],
+      "culturalNotes": [
+        "한국에 체류하는 외국인 등록증 소지자도 입국 후 일정 요건을 충족하면 국민건강보험에 의무 가입되어 내국인과 동일한 수준의 의료 보장 혜택을 누립니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 병원 진료와 건강 상담 (Clinical & Medical Consultations) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 4)?",
+          "prompt": "동네 의원(1차 병원)을 거치지 않고 대학병원(3차 상급종합병원)에 진료를 받으러 갈 때 건강보험 적용을 위해 반드시 필요한 서류는?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (26.4.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (26.4.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (26.4.3)."
+            "진료의뢰서 (Medical Referral Form)",
+            "졸업증명서 (Graduation Certificate)",
+            "부동산 계약서 (Real Estate Contract)"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "상급종합병원 진료 시 보험 적용을 받기 위해서는 1·2차 의료기관의 '진료의뢰서(소견서)'가 필수입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 의료 상담과 건강보험 체계 (Medical & Clinical Discourse) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 4):",
+          "prompt": "국민건강보험 혜택이 적용되지 않아 환자가 전액 비용을 지불해야 하는 의료 항목을 일컫는 말은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (26.4.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (26.4.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (26.4.3)."
+            "비급여 항목 (Non-covered items)",
+            "급여 항목 (Covered items)",
+            "산정특례 항목 (Special calculation items)"
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "건강보험공단에서 진료비를 분담하지 않는 항목은 '비급여(非給與)' 항목입니다."
         }
       ]
     },
@@ -12266,14 +12331,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 병원 진료와 건강 상담 (Clinical & Medical Consultations) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 26-4)?",
+          "prompt": "전체 병원 진료비 중 환자가 병원 창구에서 직접 결제하는 자신의 몫을 뜻하는 용어는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (26.4.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (26.4.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (26.4.3)."
+            "본인부담금 (Co-payment / Out-of-pocket)",
+            "공단부담금 (NHIS burden)",
+            "전액무료금 (Full free fund)"
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR C1 target-language standard."
+          "explanation": "환자 자신이 직접 지불하는 의료비 금액을 '본인부담금'이라고 부릅니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'진료의뢰서가 있어야 보험 급여가 적용돼요'(You need a medical referral for insurance coverage to apply)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "진료의뢰서가 있어야 보험 급여가 적용돼요.",
+            "진료의뢰서가 있어야 보험 급여가 적용돼요"
+          ],
+          "explanation": "진료의뢰서가 있어야 + 보험 급여가 + 적용돼요 = 진료의뢰서가 있어야 보험 급여가 적용돼요."
         }
       ]
     }
@@ -12283,56 +12357,65 @@
     "subject": "korean",
     "unit": 26,
     "lessonNumber": 5,
-    "title": "의료 상담과 건강보험 체계 (Medical & Clinical Discourse) (Part 5)",
+    "title": "종합병원 전문의 진료 상담 및 약국 복약 지도 실전 임상 종합 담화",
     "level": "C1",
-    "objective": "Comprehensive mastery of 병원 진료와 건강 상담 (Clinical & Medical Consultations).",
+    "objective": "통증 호소, 영상 판독 소견, 처방전 복약 수칙, 건강보험 급여/비급여 상담을 유기적으로 통합하여 실전 C1 의료 담화를 완성한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 의료 상담과 건강보험 체계 (Medical & Clinical Discourse) » (제5절)의 핵심 언어 요소와 병원 진료와 건강 상담 (Clinical & Medical Consultations)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "병원 진료실과 약국 조제 창구에서 이루어지는 의사·환자·약사 간의 실전 전문 임상 대화 모델입니다.\n\n1. 대학병원 소화기내과 전문의 진료 및 약국 복약 지도 실전 모델:\n- 의사: 환자분, 가져오신 1차 병원 진료의뢰서와 문진표를 확인했습니다. 명치 부위 통증이 정확히 어떤 양상으로 나타납니까?\n- 환자: 네, 2주 전부터 식사 후 속이 몹시 더부룩하고 쥐어짜듯이 욱신거리며 통증이 등 쪽으로 뻗치는 느낌입니다.\n- 의사: 위내시경과 복부 CT 촬영을 진행해 보겠습니다. 혈액 검사 수치와 영상 소견을 종합해 본 결과, 다행히 악성 종양 의심 소견은 없으며 급성 담낭염 및 위궤양으로 확인되었습니다. 염증 수치가 다소 높으므로 항생제와 위산분비억제제를 처방해 드리겠습니다.\n- 약사(원외 약국): 환자분, 처방전 조제 완료되었습니다. 이 약은 소염진통제와 항생제 복합 처방입니다. 식후 30분에 드셔야 위장 장애를 예방할 수 있으며, 복용 중 졸음이 유발될 수 있으니 운전을 피하십시오. 증상이 호전되더라도 내성균 발생 방지를 위해 5일 치 처방약을 반드시 끝까지 복용하셔야 합니다.",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (26.5.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "전문의 선생님의 친절하고 명확한 진단 소견과 약사님의 꼼꼼한 복약 지도 덕분에 환자는 큰 불안감을 덜 수 있었습니다.",
+          "reading": "Jeonmun-ui seonsaengnim-ui chinjeolhago myeonghwakhan jindan sogyeon-gwa yaksanim-ui kkomkkomhan bokyak jido deokbun-e hwanja-neun keun buran-gam-eul deol su iseotseumnida.",
+          "translation": "Thanks to the specialist's kind and clear diagnostic opinion ('진단 소견') and the pharmacist's meticulous medication guidance ('복약 지도'), the patient was able to relieve great anxiety."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (26.5.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "정기적인 건강검진을 통한 조기 발견과 정확한 치료 계획 수립은 만성 질환 관리의 핵심 열쇠입니다.",
+          "reading": "Jeonggijeogin geon-ganggeomjin-eul tonghan jogi balgyeon-gwa jeonghwakhan chiryo gyehoek surip-eun manseong jilhwan gwanri-ui haeksim yeolsoe-imnida.",
+          "translation": "Early detection through regular health screenings and establishing an accurate treatment plan are key to managing chronic diseases."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (26.5.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "의료진과의 신뢰를 바탕으로 한 솔직한 문진 상담은 오진을 방지하고 치료 효과를 극대화합니다.",
+          "reading": "Uiryojin-gwa-ui sinroe-reul batangg-euro han soljikhan munjin sangdam-eun ojin-eul bangjihago chiryo hyogwa-reul geukdaehwahamnida.",
+          "translation": "Frank clinical consultation based on trust with medical staff prevents misdiagnosis and maximizes treatment efficacy."
+        },
+        {
+          "target": "건강보험 급여 항목과 본인부담금 내역이 명시된 진료비 세부내역서를 발급받아 실손의료보험을 청구했습니다.",
+          "reading": "Geon-gangboheom geub-yeo hangmok-gwa bon-inbudamgeum naeyeog-i myeongsidoen jinryobi sebu-naeyeokseo-reul balgeupbada silson-uiryoboheom-eul cheong-guhaetseumnida.",
+          "translation": "I received an itemized medical bill showing health insurance covered items and out-of-pocket payments ('본인부담금 내역') and claimed private indemnity medical insurance."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "문진으로 증상 설명, 검사 소견 듣고, 처방약 복약 지도 철저 준수!"
+      ],
+      "culturalNotes": [
+        "한국에서는 진료비 세부내역서, 영수증, 처방전 등을 스마트폰 병원 앱을 통해 전자 문서로 발급받고 실손보험을 터치 한 번으로 청구하는 디지털 헬스케어 인프라가 대중화되어 있습니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 병원 진료와 건강 상담 (Clinical & Medical Consultations) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 5)?",
+          "prompt": "의료 상담 및 복약 과정의 올바른 절차를 바르게 나열한 것은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (26.5.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (26.5.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (26.5.3)."
+            "증상 문진 접수 → 정밀 검사 및 소견 확인 → 처방전 발급 → 약국 복약 지도 및 완복",
+            "약국에서 약 먼저 사기 → 수술실 들어가기 → 의사에게 화내기",
+            "CT 먼저 찍기 → 1차 병원 가기 → 처방전 버리기"
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "문진 → 정밀 검사/소견 → 처방전 발급 → 약국 복약 지도의 순서가 표준 의료 프로세스입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 의료 상담과 건강보험 체계 (Medical & Clinical Discourse) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 5):",
+          "prompt": "약사가 환자에게 항생제 복용에 대해 지도할 때 가장 중요한 지침 문장은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (26.5.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (26.5.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (26.5.3)."
+            "증상이 호전되더라도 내성균 방지를 위해 처방 일수 동안 끝까지 약을 다 드셔야 합니다.",
+            "속이 쓰리면 즉시 약을 버리고 커피를 마시세요.",
+            "약을 반으로 쪼개서 친구와 나누어 드세요."
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "항생제는 내성균 발생 예방을 위해 처방된 일수만큼 완복하도록 지도해야 합니다."
         }
       ]
     },
@@ -12340,14 +12423,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 병원 진료와 건강 상담 (Clinical & Medical Consultations) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 26-5)?",
+          "prompt": "다음 중 한국의 병원 및 약국 의료 임상 대화로서 가장 적합한 것은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (26.5.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (26.5.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (26.5.3)."
+            "환자분, 위내시경 검사 결과 특이 소견은 없으며 처방약은 식후 30분에 복용하십시오.",
+            "환자분, 오늘 수술은 식전에 하시고 붕대는 집에서 가위로 자르세요.",
+            "환자분, 약이 졸리면 운전하면서 커피를 세 잔 드세요."
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR C1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "'특이 소견 없음'과 '식후 30분 복용'은 표준적인 의료 및 복약 지도 표현입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'정밀 검사 소견과 복약 지도를 확인했어요'(I checked the precision test findings and medication guidance)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "정밀 검사 소견과 복약 지도를 확인했어요.",
+            "정밀 검사 소견과 복약 지도를 확인했어요"
+          ],
+          "explanation": "정밀 검사 소견과 + 복약 지도를 + 확인했어요 = 정밀 검사 소견과 복약 지도를 확인했어요."
         }
       ]
     }
