@@ -3411,85 +3411,89 @@
     "subject": "mandarin",
     "unit": 6,
     "lessonNumber": 1,
-    "title": "中华饮食文化、点餐与味觉 (Chinese Cuisine & Dining) (第1讲)",
+    "title": "中华核心饮食词汇、主食与菜肴体系 (Chinese Staples, Dishes & Culinary Lexicon)",
     "level": "A1",
-    "objective": "全面掌握与熟练运用本课核心内容：八大菜系、传统风味词汇（酸/甜/苦/辣/咸/鲜）、餐馆点餐与结账会话。 (第1部分)。",
+    "objective": "掌握现代汉语核心饮食词汇（米饭/面条/饺子/包子/牛肉/豆腐/青菜）与中华代表性名菜名称，熟练描述中餐主食与食材搭配。",
     "presentation": {
-      "explanation": "",
+      "explanation": "中华饮食文化源远流长，掌握中餐主食、荤素食材及代表性名菜的名称与量词搭配，是进行餐馆点餐与美食交流的基础。\n\n一、核心主食与面点体系：\n1. 米饭类：\n- 米饭 (mǐfàn，煮熟的白米饭，常用量词「碗」：一碗米饭)\n- 炒饭 (chǎofàn，翻炒调味米饭，如扬州炒饭)\n2. 面食与点心类：\n- 面条 (miàntiáo，小麦面条，如牛肉面、炸酱面：一碗面条)\n- 饺子 (jiǎozi，中华传统水饺/蒸饺：一盘饺子、两斤饺子)\n- 包子 (bāozi，带馅蒸面点：三个包子、一笼包子)\n- 馒头 (mántou，无馅发酵蒸面食：两个馒头)\n- 馄饨 (húntun，薄皮包馅汤点：一碗热馄饨)\n\n二、常用荤素食材词汇：\n1. 荤菜肉类：牛肉 (niúròu)、羊肉 (yángròu)、猪肉 (zhūròu)、鸡肉 (jīròu)、鸭肉 (yāròu)、新鲜鱼 (yú)、大虾 (xiā)。\n2. 素菜蔬菜：青菜 / 蔬菜 (qīngcài / shūcài)、豆腐 (dòufu)、西红柿 / 番茄 (xīhóngshì / fānqié)、土豆 / 马铃薯 (tǔdòu)、鸡蛋 (jīdàn)、蘑菇 (mógu)。\n\n三、享誉中外的中华代表名菜：\n1. 宫保鸡丁 (Gōngbǎo jīdīng) —— 川菜代表，花生米与滑嫩鸡丁香辣爆炒。\n2. 麻婆豆腐 (Mápó dòufu) —— 川菜名馔，麻、辣、鲜、香、烫、嫩、酥兼备。\n3. 北京烤鸭 (Běijīng kǎoyā) —— 京味瑰宝，枣红油亮、皮脆肉嫩、薄饼卷食。\n4. 西红柿炒鸡蛋 (Xīhóngshì chǎo jīdàn) —— 中国国民第一家常菜，酸甜可口、老少咸宜。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「中华饮食文化、点餐与味觉 (Chinese Cuisine & Dining)」的核心语法法则与应用范例 (6.1.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '中华饮食文化、点餐与味觉 (Chinese Cuisine & Dining)' in simple terms to students at the academic seminar."
+          "target": "我们点了一盘正宗的北京烤鸭和两碗热气腾腾的牛肉面。(Wǒmen diǎn le yì pán zhèngzōng de Běijīng kǎoyā hé liǎng wǎn rèqìténgténg de niúròumiàn.)",
+          "reading": "[wɔ˨˩.mən tjɛn˨˩˦ lɤ i˥ pʰan˧˥ ʈ͡ʂɤŋ˥˩.t͡sʊŋ˥ tɤ peɪ̯˨˩.t͡ɕiŋ˥ kʰaʊ̯˨˩.ja˥ xɤ˧˥ ljaŋ˨˩ wan˨˩˦ ʐɤ˥˩.t͡ɕʰi˥˩.tʰɤŋ˧˥.tʰɤŋ˧˥ tɤ njoʊ̯˧˥.ʐoʊ̯˥˩.mjɛn˥˩] (Wǒ-men diǎn le yì pán zhèng-zōng de Běi-jīng kǎo-yā hé liǎng wǎn rè-qì-téng-téng de niú-ròu-miàn.)",
+          "translation": "We ordered a plate of authentic Peking Roast Duck and two steaming bowls of beef noodles."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (6.1.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "中国北方人在过春节时全家人一起包饺子吃。(Zhōngguó běifāngrén zài guò chūnjié shí quán jiārén yìqǐ bāo jiǎozi chī.)",
+          "reading": "[ʈ͡ʂʊŋ˥.kwɔ˧˥ peɪ̯˨˩.fɑŋ˥.ʐən˧˥ t͡saɪ̯˥˩ kwɔ˥˩ t͡ʂʰwən˥.t͡ɕjɛ˧˥ ʂɨ˧˥ t͡ɕʰɥɛn˧˥ t͡ɕja˥.ʐən˧˥ i˥˩.t͡ɕʰi˨˩˦ paʊ̯˥ t͡ɕjaʊ̯˨˩.t͡sɨ t͡ʂʰɨ˥] (Zhōng-guó běi-fāng-rén zài guò chūn-jié shí quán jiā-rén yì-qǐ bāo jiǎo-zi chī.)",
+          "translation": "People in Northern China wrap dumplings and eat them together with the whole family during the Spring Festival."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (6.1.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "这家川菜馆的宫保鸡丁和麻婆豆腐味道非常地道！(Zhè jiā Chuāncàiguǎn de Gōngbǎo jīdīng hé Mápó dòufu wèidào fēicháng dìdao!)",
+          "reading": "[ʈ͡ʂɤ˥˩ t͡ɕja˥ t͡ʂʰwan˥.t͡sʰaɪ̯˥˩.kwan˨˩˦ tɤ kʊŋ˥.paʊ̯˨˩˦ t͡ɕi˥.tiŋ˥ xɤ˧˥ ma˧˥.pʰwɔ˧˥ toʊ̯˥˩.fu weɪ̯˥˩.taʊ̯ ffeɪ̯˥.ʈ͡ʂʰɑŋ˧˥ ti˥˩.taʊ̯] (Zhè jiā Chuān-cài-guǎn de Gōng-bǎo jī-dīng hé Má-pó dòu-fu wèi-dào fēi-cháng dì-dao!)",
+          "translation": "The Kung Pao Chicken and Mapo Tofu of this Sichuan restaurant are very authentic in flavor!"
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (6.1.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "妈妈今天晚上给我们做了一盘西红柿炒鸡蛋和一碗青菜豆腐汤。(Māma jīntiān wǎnshang gěi wǒmen zuò le yì pán xīhóngshì chǎo jīdàn hé yì wǎn qīngcài dòufu tāng.)",
+          "reading": "[ma˥.ma t͡ɕin˥.tʰjɛn˥ wan˨˩.ʂaŋ keɪ̯˨˩ wɔ˨˩.mən t͡swɔ˥˩ lɤ i˥ pʰan˧˥ ɕi˥.xʊŋ˧˥.ʂɨ˥˩ t͡ʂʰaʊ̯˨˩˦ t͡ɕi˥.tan˥˩ xɤ˧˥ i˥ wan˨˩˦ t͡ɕʰiŋ˥.t͡sʰaɪ̯˥˩ toʊ̯˥˩.fu tʰɑŋ˥] (Mā-ma jīn-tiān wǎn-shang gěi wǒ-men zuò le yì pán xī-hóng-shì chǎo jī-dàn hé yì wǎn qīng-cài dòu-fu tāng.)",
+          "translation": "Mom cooked a plate of scrambled eggs with tomatoes and a bowl of green vegetable and tofu soup for us tonight."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "米面饺包是主食，荤素搭配味道适；烤鸭宫保麻婆豆，红黄西红柿炒蛋！"
+      ],
+      "culturalNotes": [
+        "中国传统饮食地理格局素有「南米北面」之说：南方温暖多雨盛产稻米，居民主食以米饭、米粉为主；北方干爽适种小麦，主食以馒头、面条、水饺与烙饼为主，反映了地理环境与农耕文明的深厚交融。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「中华饮食文化、点餐与味觉 (Chinese Cuisine & Dining)」（第1讲）的标准汉语规范？",
+          "prompt": "在下列中华美食中，属于中国传统节庆（如除夕春节）最具象征意义的面食是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「中华饮食文化、点餐与味觉 (Chinese Cuisine & Dining)」的核心语法法则与应用范例 (6.1.1)。",
-            "存在语序混乱且虚词误用的病句选项 (6.1.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (6.1.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (6.1.w3)"
+            "饺子 (jiǎozi - dumplings) (Traditional festival staple)",
+            "面包 (miànbāo)",
+            "汉堡 (hànbǎo)",
+            "三明治 (sānmíngzhì)"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "饺子形如元宝，是中国传统文化（尤其是北方）过年团圆最重要的象征性主食。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "由鸡肉丁、花生米、干辣椒爆炒而成的著名川菜名馔是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "宫保鸡丁 (Gōngbǎo jīdīng) (Kung Pao Chicken)",
+            "北京烤鸭",
+            "西红柿炒鸡蛋",
+            "清蒸鱼"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「宫保鸡丁」是川菜中以鸡肉丁与花生米为主料的享誉世界的经典菜肴。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「中华饮食文化、点餐与味觉 (Chinese Cuisine & Dining)」的正式语境下，最准确得体的表达是哪一项？（第6.1题）",
+          "prompt": "点餐时表达「两碗白米饭和一盘水饺」，量词搭配完全正确的是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (6.1.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (6.1.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (6.1.x2)",
-            "量词与名词修饰搭配错误的病句选项 (6.1.x3)"
+            "两碗米饭和一盘饺子 (Two bowls of rice and a plate of dumplings)",
+            "两张米饭和一本饺子",
+            "两条米饭和两支饺子",
+            "两把米饭和两双饺子"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "米饭用容器量词「碗」，水饺用盘装量词「盘」，搭配精准严密。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u6-l1）所要求的高阶语言表达？",
+          "prompt": "中国国民家常菜「西红柿炒鸡蛋」中的主要蔬菜原料「西红柿」又称作：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (6.1.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (6.1.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (6.1.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (6.1.y3)"
+            "番茄 (fānqié) (Tomato)",
+            "土豆",
+            "黄瓜",
+            "青椒"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「西红柿」在中文中亦广泛被称为「番茄 (fānqié)」。"
         }
       ]
     },
@@ -3497,25 +3501,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「中华饮食文化、点餐与味觉 (Chinese Cuisine & Dining)」的掌握程度，请选出表述完全正确的标准范句（测试 6-1）：",
+          "prompt": "请选出下列句子中菜品名称与量词搭配完全正确的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (6.1.4)。",
-            "被动句式与处置句式混用导致的严重病句 (6.1.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (6.1.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (6.1.z3)"
+            "服务员，请给我们上一盘麻婆豆腐、两碗米饭和一碗热汤。(Waiter, please serve us a plate of Mapo Tofu, two bowls of rice, and a bowl of hot soup.)",
+            "服务员，请给我们上一本麻婆豆腐、两张米饭和一条热汤。",
+            "服务员，请给我们上两双麻婆豆腐、两支米饭和一把热汤。",
+            "服务员，请给我们上一群麻婆豆腐、两个米饭和一点儿热汤们。"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "麻婆豆腐用「盘」，米饭与热汤用「碗」，完全符合现代汉语餐饮量词规范。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u6-l1）的核心关键词（例如「中华饮食」）：",
+          "prompt": "请输入表示中国南方主要农作物主食「大米/白米饭」的单字汉字（拼音为 mǐ）：",
           "acceptedAnswers": [
-            "中华饮食",
-            "中华饮食文化",
-            "中华饮食文化、点餐与味觉"
+            "米"
           ],
-          "explanation": "正确的核心关键词为「中华饮食」。"
+          "explanation": "汉字「米」是构成「大米」、「米饭」、「米粉」的核心字根。"
         }
       ],
       "passThreshold": 0.8
@@ -3526,85 +3528,89 @@
     "subject": "mandarin",
     "unit": 6,
     "lessonNumber": 2,
-    "title": "中华饮食文化、点餐与味觉 (Chinese Cuisine & Dining) (第2讲)",
+    "title": "餐厅点餐全流程交际：服务员、菜单、点菜与结账 (Restaurant Dining Discourse)",
     "level": "A1",
-    "objective": "全面掌握与熟练运用本课核心内容：八大菜系、传统风味词汇（酸/甜/苦/辣/咸/鲜）、餐馆点餐与结账会话。 (第2部分)。",
+    "objective": "熟练掌握餐馆就餐全流程交际用语（询问人数、查阅菜单、推荐特色菜、动词「要/来/点」下单、买单结账与移动支付）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "掌握现代中餐厅真实就餐的完整交际流程，涵盖进门入座、点菜下单至微信结账的全套核心会话模块：\n\n一、进店迎宾与入座安排：\n- 服务员：您好，欢迎光临！请问几位？(Qǐngwèn, jǐ wèi?)\n- 顾客：我们两位。(Wǒmen liǎng wèi.) / 一共四个人。\n- 服务员：请这边坐，请看菜单。(Qǐng zhèbiān zuò, qǐng kàn càidān.)\n\n二、查阅菜单与咨询特色招牌：\n- 顾客：服务员，请问你们这儿有什么特色菜 / 招牌菜？(Yǒu shénme tèsècài / zhāopáicài?)\n- 服务员：我们的北京烤鸭和宫保鸡丁是招牌菜，非常受欢迎。(Zhāopáicài, fēicháng shòu huānyíng.)\n\n三、点菜下单的核心实用动词（要 / 来 / 点）：\n在现代中餐点菜中，动词「要 (yào)」与「来 (lái)」使用频率最高且极其自然地道：\n- 顾客：我们要一盘北京烤鸭，一盘清炒青菜。(Wǒmen yào...)\n- 顾客：再来两碗米饭，一瓶青岛啤酒，谢谢！(Zài lái liǎng wǎn mǐfàn...)\n- 顾客：服务员，我们点好了。(Wǒmen diǎnhǎo le.)\n\n四、餐后买单结账与现代移动支付：\n- 顾客：服务员，买单！ / 结账！(Fúwùyuán, mǎidān / jiézhàng!)\n- 服务员：您好，一共是一百六十八块钱。(Yígòng shì yībǎi liùshíbā kuài qián.)\n- 顾客：可以刷微信 / 支付宝吗？(Kěyǐ shuā Wēixìn / Zhīfùbǎo ma?)\n- 服务员：当然可以，请扫描桌子上的二维码。(Qǐng sǎomiáo èrwéimǎ.)",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「中华饮食文化、点餐与味觉 (Chinese Cuisine & Dining)」的核心语法法则与应用范例 (6.2.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '中华饮食文化、点餐与味觉 (Chinese Cuisine & Dining)' in simple terms to students at the academic seminar."
+          "target": "——服务员，请问几位？——我们一共三位，请给我们找一个安静的靠窗位子。(—Fúwùyuán, qǐngwèn jǐ wèi? —Wǒmen yígòng sān wèi, qǐng gěi wǒmen zhǎo yí gè ānjìng de kàochuāng wèizi.)",
+          "reading": "[—fu˧˥.u˥˩.ɥɛn˧˥, t͡ɕʰiŋ˨˩.wən˥˩ t͡ɕi˨˩˦ weɪ̯˥˩? —wɔ˨˩.mən i˧˥.kʊŋ˥˩ san˥ weɪ̯˥˩, t͡ɕʰiŋ˨˩ keɪ̯˨˩ wɔ˨˩.mən ʈ͡ʂaʊ̯˨˩˦ i˧˥ kɤ an˥.t͡ɕiŋ˥˩ tɤ kʰaʊ̯˥˩.ʈ͡ʂʰwɑŋ˥ weɪ̯˥˩.t͡sɨ] (—Fú-wù-yuán, qǐng-wèn jǐ wèi? —Wǒ-men yí-gòng sān wèi, qǐng gěi wǒ-men zhǎo yí gè ān-jìng de kào-chuāng wèi-zi.)",
+          "translation": "—Waiter, how many of you, please? —There are three of us in total; please find us a quiet table by the window."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (6.2.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "我们点了一盘水煮牛肉、一盘麻婆豆腐，再来三碗白米饭。(Wǒmen diǎn le yì pán shuǐzhǔ niúròu, yì pán Mápó dòufu, zài lái sān wǎn bái mǐfàn.)",
+          "reading": "[wɔ˨˩.mən tjɛn˨˩˦ lɤ i˥ pʰan˧˥ ʂweɪ̯˨˩.ʈ͡ʂu˨˩˦ njoʊ̯˧˥.ʐoʊ̯˥˩, i˥ pʰan˧˥ ma˧˥.pʰwɔ˧˥ toʊ̯˥˩.fu, t͡saɪ̯˥˩ laɪ̯˧˥ san˥ wan˨˩˦ paɪ̯˧˥ mi˨˩.fan˥˩] (Wǒ-men diǎn le yì pán shuǐ-zhǔ niú-ròu, yì pán Má-pó dòu-fu, zài lái sān wǎn bái mǐ-fàn.)",
+          "translation": "We ordered a plate of Sichuan boiled beef, a plate of Mapo Tofu, and also three bowls of white rice."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (6.2.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "——服务员，结账！一共多少钱？——您好，一共是一百五十二块。(—Fúwùyuán, jiézhàng! Yígòng duōshao qián? —Nín hǎo, yígòng shì yībǎiwǔshí'èr kuài.)",
+          "reading": "[—fu˧˥.u˥˩.ɥɛn˧˥, t͡ɕjɛ˧˥.ʈ͡ʂɑŋ˥˩! i˧˥.kʊŋ˥˩ twɔ˥.ʂaʊ̯ t͡ɕʰjɛn˧˥? —nin˧˥ xaʊ˨˩˦, i˧˥.kʊŋ˥˩ ʂɨ˥˩ i˥.paɪ̯˨˩.u˨˩˦.ʂɨ˧˥.aɻ˥˩ kʰwaɪ̯˥˩] (—Fú-wù-yuán, jié-zhàng! Yí-gòng duō-shao qián? —Nín hǎo, yí-gòng shì yī-bǎi-wǔ-shí-'èr kuài.)",
+          "translation": "—Waiter, the bill please! How much is it in total? —Hello, it is 152 yuan in total."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (6.2.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "我可以用手机扫码支付吗？(Wǒ kěyǐ yòng shǒujī sǎomǎ zhīfù ma?)",
+          "reading": "[wɔ˨˩ kʰɤ˨˩.i˨˩˦ jʊŋ˥˩ ʂoʊ̯˨˩.t͡ɕi˥ saʊ̯˨˩.ma˨˩˦ ʈ͡ʂɨ˥.fu˥˩ ma] (Wǒ kě-yǐ yòng shǒu-jī sǎo-mǎ zhī-fù ma?)",
+          "translation": "Can I pay by scanning the QR code with my mobile phone?"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "进门入座问几位，看单要菜再来配；买单结账唤服务，扫码支付极干脆！"
+      ],
+      "culturalNotes": [
+        "在中国当代餐饮日常中，移动扫码支付（微信支付与支付宝）已实现全覆盖普及。顾客常常只需扫描餐桌上的专属二维码，即可在手机小程序上自助完成浏览菜单、点菜加菜以及在线支付结算的全流程。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「中华饮食文化、点餐与味觉 (Chinese Cuisine & Dining)」（第2讲）的标准汉语规范？",
+          "prompt": "在餐厅就餐完毕需要结账支付时，礼貌呼唤服务员的标准用语是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「中华饮食文化、点餐与味觉 (Chinese Cuisine & Dining)」的核心语法法则与应用范例 (6.2.1)。",
-            "存在语序混乱且虚词误用的病句选项 (6.2.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (6.2.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (6.2.w3)"
+            "服务员，买单！ / 服务员，结账！(Fúwùyuán, mǎidān / jiézhàng!) (Check please!)",
+            "服务员，给钱！",
+            "服务员，算账我！",
+            "服务员，收人民币！"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「买单」与「结账」是现代标准汉语中最通用、最礼貌得体的结账用语。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "服务员询问就餐人数「请问几位？」，两人就餐的标准回答是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "我们两位。(Wǒmen liǎng wèi.) (Two of us - polite classifier wèi)",
+            "我们二个。",
+            "我们俩位人。",
+            "我们二位人。"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "回答就餐人数时，使用数量词「两位（两位客人）」最为典雅得体。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「中华饮食文化、点餐与味觉 (Chinese Cuisine & Dining)」的正式语境下，最准确得体的表达是哪一项？（第6.2题）",
+          "prompt": "点菜时，表达「我们要一盘烤鸭，再来两碗米饭」，动词「来」在语境中的含义是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (6.2.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (6.2.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (6.2.x2)",
-            "量词与名词修饰搭配错误的病句选项 (6.2.x3)"
+            "上菜 / 带来 / 下单（点取） (Bring / Serve / Order)",
+            "走过来",
+            "离开",
+            "做饭"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "动词「来」在餐饮点餐语境中是极其高频口语词，表示「请上一道菜/点取某物」。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u6-l2）所要求的高阶语言表达？",
+          "prompt": "想要询问餐厅最拿手、最具代表性的菜肴，最标准的提问是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (6.2.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (6.2.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (6.2.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (6.2.y3)"
+            "请问你们有什么特色菜 / 招牌菜？(What are your special / signature dishes?)",
+            "请问你们有什么贵菜？",
+            "请问你们做什么饭？",
+            "请问菜好不好吃？"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「特色菜」与「招牌菜」专指餐厅独具风味与极高声誉的代表名菜。"
         }
       ]
     },
@@ -3612,25 +3618,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「中华饮食文化、点餐与味觉 (Chinese Cuisine & Dining)」的掌握程度，请选出表述完全正确的标准范句（测试 6-2）：",
+          "prompt": "请选出下列点餐会话中表达最为自然、得体且完全符合规范的一组：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (6.2.4)。",
-            "被动句式与处置句式混用导致的严重病句 (6.2.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (6.2.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (6.2.z3)"
+            "顾客：服务员，我们要一盘宫保鸡丁，再来两碗米饭。 服务员：好的，请稍等！",
+            "顾客：服务员，我们要两张鸡丁，再来两支米饭。 服务员：好的！",
+            "顾客：服务员，做一盘宫保鸡丁我们吃在现在。 服务员：请等！",
+            "顾客：服务员，米饭两碗宫保鸡丁一盘要买。 服务员：是的！"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "顾客使用「要一盘宫保鸡丁，再来两碗米饭」，量词精准，动词地道，服务员应答得体。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u6-l2）的核心关键词（例如「中华饮食」）：",
+          "prompt": "请输入表达就餐后结账付款动作的常用动词单字汉字（例如「买单」的「买」）：",
           "acceptedAnswers": [
-            "中华饮食",
-            "中华饮食文化",
-            "中华饮食文化、点餐与味觉"
+            "买"
           ],
-          "explanation": "正确的核心关键词为「中华饮食」。"
+          "explanation": "汉字「买」在「买单」中指支付账单结算费用。"
         }
       ],
       "passThreshold": 0.8
@@ -3641,85 +3645,89 @@
     "subject": "mandarin",
     "unit": 6,
     "lessonNumber": 3,
-    "title": "中华饮食文化、点餐与味觉 (Chinese Cuisine & Dining) (第3讲)",
+    "title": "五味调和与口感偏好表达：酸、甜、苦、辣、咸 (Five Flavors & Taste Expressions)",
     "level": "A1",
-    "objective": "全面掌握与熟练运用本课核心内容：八大菜系、传统风味词汇（酸/甜/苦/辣/咸/鲜）、餐馆点餐与结账会话。 (第3部分)。",
+    "objective": "掌握中国传统五味核心词汇（酸、甜、苦、辣、咸、鲜、香、清淡），能够精准表达个人饮食风味偏好与忌口定制要求（少放盐/别放辣）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "中华烹饪哲学极其强调「五味调和，百味纷呈」。掌握味觉描写词汇与个性化点餐定制表达，能让就餐交际精准而得体：\n\n一、传统「五味」核心形容词体系：\n1. 酸 (suān) —— 酸味（如食醋、柠檬、糖醋里脊）：这道糖醋鱼酸甜可口。\n2. 甜 (tián) —— 甜味（如白糖、蜜糖、广式点心）：江南菜普遍偏甜。\n3. 苦 (kǔ) —— 苦味（如苦瓜、黑巧克力、中药）：苦瓜味道虽苦，但清热去火。\n4. 辣 (là) —— 辛辣刺激之味（如辣椒、花椒、川菜）：四川菜和湖南菜都非常辣！\n5. 咸 (xián) —— 咸味（如食盐、酱油）：这碗汤稍微有点儿咸。\n\n二、鲜香与口感清润词汇：\n1. 鲜 (xiān) —— 鲜美鲜甜（Umami，如海鲜、鲜鸡汤、蘑菇）：清蒸鱼的味道特别鲜美！\n2. 香 (xiāng) —— 芳香扑鼻（如芝麻油、烤鸭）：刚出炉的包子真香！\n3. 清淡 (qīngdàn) —— 少油少盐、清爽原味：病人适合吃清淡的饮食。\n4. 油腻 (yóunì) —— 油脂过多：肥肉吃多了容易觉得油腻。\n\n三、个性化忌口与烹饪定制表达句式：\n在餐馆点菜时，顾客常根据自身健康或口味习惯提出烹饪要求：\n1.「请少放...... (Qǐng shǎo fàng...)」：\n- 请少放盐 / 请少放糖 / 请少放辣椒 / 请少放油。\n2.「请别放...... / 不要放...... (Qǐng bié fàng... / Bú yào fàng...)」：\n- 请别放香菜。(Please don't put cilantro.)\n- 请不要放味精。(Please do not add MSG.)\n3.「我对......过敏 (Wǒ duì... guòmǐn)」：\n- 我对海鲜过敏，请不要放虾。(I am allergic to seafood; please do not put shrimp.)",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「中华饮食文化、点餐与味觉 (Chinese Cuisine & Dining)」的核心语法法则与应用范例 (6.3.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '中华饮食文化、点餐与味觉 (Chinese Cuisine & Dining)' in simple terms to students at the academic seminar."
+          "target": "四川菜以麻辣鲜香著称，味道非常浓郁！(Sìchuāncài yǐ málà xiānxiāng zhùchēng, wèidào fēicháng nóngyù!)",
+          "reading": "[sɨ˥˩.t͡ʂʰwan˥.t͡sʰaɪ̯˥˩ i˨˩˦ ma˧˥.la˥˩ ɕjɛn˥.ɕjɑŋ˥ ʈ͡ʂu˥˩.ʈ͡ʂʰɤŋ˥, weɪ̯˥˩.taʊ̯ ffeɪ̯˥.ʈ͡ʂʰɑŋ˧˥ nʊŋ˧˥.y˥˩] (Sì-chuān-cài yǐ má-là xiān-xiāng zhù-chēng, wèi-dào fēi-cháng nóng-yù!)",
+          "translation": "Sichuan cuisine is famous for being numbingly spicy, fresh, and fragrant; its flavor is very rich!"
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (6.3.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "服务员，我不大习惯吃辣，请少放辣椒和花椒，多放一点儿葱。(Fúwùyuán, wǒ búdà xíguàn chī là, qǐng shǎo fàng làjiāo hé huājiāo, duō fàng yìdiǎnr cōng.)",
+          "reading": "[fu˧˥.u˥˩.ɥɛn˧˥, wɔ˨˩ pu˧˥.ta˥˩ ɕi˧˥.kwan˥˩ t͡ʂʰɨ˥ la˥˩, t͡ɕʰiŋ˨˩ ʂaʊ̯˨˩˦ fɑŋ˥˩ la˥˩.t͡ɕjaʊ̯˥ xɤ˧˥ xwa˥.t͡ɕjaʊ̯˥, twɔ˥ fɑŋ˥˩ i˥.tjɛɻ˨˩˦ t͡sʰʊŋ˥] (Fú-wù-yuán, wǒ bú-dà xí-guàn chī là, qǐng shǎo fàng là-jiāo hé huā-jiāo, duō fàng yì-diǎnr cōng.)",
+          "translation": "Waiter, I am not quite used to spicy food; please put less chili and Sichuan pepper, and put a little more scallions."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (6.3.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "这盘清蒸桂鱼口感非常鲜嫩、清淡，一点儿也不油腻。(Zhè pán qīngzhēng guìyú kǒugǎn fēicháng xiānnèn, qīngdàn, yìdiǎnr yě bù yóunì.)",
+          "reading": "[ʈ͡ʂɤ˥˩ pʰan˧˥ t͡ɕʰiŋ˥.ʈ͡ʂɤŋ˥ kweɪ̯˥˩.y˧˥ kʰoʊ̯˨˩.kan˨˩˦ feɪ̯˥.ʈ͡ʂʰɑŋ˧˥ ɕjɛn˥.nən˥˩, t͡ɕʰiŋ˥.tan˥˩, i˥.tjɛɻ˨˩˦ jɛ˨˩˦ pun˥˩ joʊ̯˧˥.ni˥˩] (Zhè pán qīng-zhēng guì-yú kǒu-gǎn fēi-cháng xiān-nèn, qīng-dàn, yì-diǎnr yě bù yóu-nì.)",
+          "translation": "This plate of steamed mandarin fish tastes very fresh, tender, and light, not greasy at all."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (6.3.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "中国传统的糖醋排骨外脆里嫩，酸甜适口。(Zhōngguó chuántǒng de tángcù páigǔ wài cuì lǐ nèn, suāntián shìkǒu.)",
+          "reading": "[ʈ͡ʂʊŋ˥.kwɔ˧˥ t͡ʂʰwan˧˥.tʰʊŋ˨˩˦ tɤ tʰɑŋ˧˥.t͡sʰu˥˩ pʰaɪ̯˧˥.ku˨˩˦ waɪ̯˥˩ t͡sʰweɪ̯˥˩ li˨˩˦ nən˥˩, swan˥.tʰjɛn˧˥ ʂɨ˥˩.kʰoʊ̯˨˩˦] (Zhōng-guó chuán-tǒng de táng-cù pái-gǔ wài cuì lǐ nèn, suān-tián shì-kǒu.)",
+          "translation": "Traditional Chinese sweet and sour pork ribs are crispy outside and tender inside, sour and sweet to taste."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "酸甜苦辣咸五味，鲜美清淡香味随；少放辣椒多放葱，别放香菜定制美！"
+      ],
+      "culturalNotes": [
+        "在中国传统中医学与养生学中，「五味入五脏」：酸入肝、苦入心、甘（甜）入脾、辛（辣）入肺、咸入肾。调和五味不仅是烹饪审美的追求，更是平衡阴阳、保养身心的健康哲学。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「中华饮食文化、点餐与味觉 (Chinese Cuisine & Dining)」（第3讲）的标准汉语规范？",
+          "prompt": "在餐馆点菜时，向服务员表达「不要在菜里添加辣椒」的正确中文句式是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「中华饮食文化、点餐与味觉 (Chinese Cuisine & Dining)」的核心语法法则与应用范例 (6.3.1)。",
-            "存在语序混乱且虚词误用的病句选项 (6.3.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (6.3.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (6.3.w3)"
+            "请别放辣椒 / 请不要放辣椒 (Qǐng bié fàng làjiāo / Qǐng bú yào fàng làjiāo) (Please don't put chili)",
+            "请少吃辣椒",
+            "请不要辣椒放",
+            "辣椒请不给"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「请别放......」或「请不要放......」是表达忌口要求的最标准地道格式。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "中国著名菜肴「糖醋里脊」与「糖醋排骨」最突出的复合风味是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "酸甜 (suāntián - sweet and sour)",
+            "苦辣",
+            "咸苦",
+            "麻辣"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「糖醋」指以食糖与米醋调制而成的经典中餐复合风味「酸甜」。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「中华饮食文化、点餐与味觉 (Chinese Cuisine & Dining)」的正式语境下，最准确得体的表达是哪一项？（第6.3题）",
+          "prompt": "形容清蒸海鲜肉质极佳、带有天然美味鲜香的味觉形容词是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (6.3.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (6.3.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (6.3.x2)",
-            "量词与名词修饰搭配错误的病句选项 (6.3.x3)"
+            "鲜 / 鲜美 (xiān / xiānměi) (Fresh and umami)",
+            "苦",
+            "咸",
+            "辣"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「鲜」是中华饮食中专门赞美水产海鲜、优质肉类或鲜汤纯正滋味的最高评语。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u6-l3）所要求的高阶语言表达？",
+          "prompt": "如果某位顾客饮食习惯清淡少油，他最可能对服务员说：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (6.3.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (6.3.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (6.3.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (6.3.y3)"
+            "请做得清淡一点儿，少放油和盐。(Please make it light, put less oil and salt.)",
+            "请做得油腻一点儿，多放辣。",
+            "请做得太咸一点儿，少放水。",
+            "请多放糖和肥肉。"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「清淡一点儿，少放油和盐」准确反映了健康少油盐的饮食偏好。"
         }
       ]
     },
@@ -3727,25 +3735,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「中华饮食文化、点餐与味觉 (Chinese Cuisine & Dining)」的掌握程度，请选出表述完全正确的标准范句（测试 6-3）：",
+          "prompt": "请选出下列句子中口味描写与定制要求完全规范地道的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (6.3.4)。",
-            "被动句式与处置句式混用导致的严重病句 (6.3.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (6.3.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (6.3.z3)"
+            "这道川菜非常辣，服务员，请给我们上一大杯冰水，下一道菜请少放辣椒。(This Sichuan dish is very spicy; waiter, please bring us a large cup of ice water, and please put less chili in the next dish.)",
+            "这道川菜非常甜，服务员，下一道菜请少吃辣椒。",
+            "这道川菜非常苦，服务员，请放多辣椒在下一道菜上。",
+            "这道川菜非常清淡，服务员，请不要放水在菜里。"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "川菜特征为「辣」，点水解辣并提出「少放辣椒」的要求，语义自然，逻辑严密。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u6-l3）的核心关键词（例如「中华饮食」）：",
+          "prompt": "请输入表示辣椒辛辣滋味的核心单字汉字（拼音为 là）：",
           "acceptedAnswers": [
-            "中华饮食",
-            "中华饮食文化",
-            "中华饮食文化、点餐与味觉"
+            "辣"
           ],
-          "explanation": "正确的核心关键词为「中华饮食」。"
+          "explanation": "汉字「辣」是表示辛辣、刺激味觉的核心形容词。"
         }
       ],
       "passThreshold": 0.8
@@ -3756,85 +3762,89 @@
     "subject": "mandarin",
     "unit": 6,
     "lessonNumber": 4,
-    "title": "中华饮食文化、点餐与味觉 (Chinese Cuisine & Dining) (第4讲)",
+    "title": "助动词「想」、「要」、「想要」在点餐中的意愿层级与语气差异 (Modal Verbs '想' vs '要')",
     "level": "A1",
-    "objective": "全面掌握与熟练运用本课核心内容：八大菜系、传统风味词汇（酸/甜/苦/辣/咸/鲜）、餐馆点餐与结账会话。 (第4部分)。",
+    "objective": "系统辨析助动词「想」（意愿探讨）、「要」（明确下单）与「想要」在餐饮点选中的语气轻重与语用功能，掌握「不想」与「不要」的否定语义分工。",
     "presentation": {
-      "explanation": "",
+      "explanation": "能愿助动词「想 (xiǎng)」、「要 (yào)」与复合词「想要 (xiǎngyào)」在表达需求与消费决策时具有极其精妙的语气层次与语用差异：\n\n一、三大意愿助动词的语义层级对照：\n1.「想 (xiǎng)」—— 心理愿望、试探性设想（Would like to）：\n- 侧重表达说话人主观上的倾向与设想，口吻极其温和、谦逊客气：\n- 我想尝尝正宗的北京烤鸭。(I would like to taste authentic Peking Duck.)\n- 询问顾客喜好时最常用：您想喝点儿什么茶？(What kind of tea would you like to drink?)\n\n2.「要 (yào)」—— 明确决断、确定指令（Want / Will have）：\n- 侧重表达坚定的决策意志，在点菜下单给服务员下指令时最直接干脆：\n- 服务员，我们要一盘宫保鸡丁，两碗米饭。(We want a plate of Kung Pao Chicken and two bowls of rice.)\n\n3.「想要 (xiǎngyào)」—— 渴望获得或拥有某种具体实物：\n- 我想要一杯热咖啡。(I would like a cup of hot coffee.)\n\n二、否定形式的严格语义分界（极高频核心考点）：\n1.「不想 (bù xiǎng)」—— 仅表示主观上没有想法、不愿意做某事：\n- 我今天不想吃面条，我想吃米饭。(I don't feel like eating noodles today; I want to eat rice.)\n2.「不要 (bú yào)」—— 具有两大截然不同的核心语法功能：\n- 功能一：表示断然拒绝或不需要某物（如：我不要香菜 / 我们不要加糖）。\n- 功能二：充当祈使句中的强烈禁止否定副词（相当于「别」）：\n- 炒菜时千万不要放味精！(Do not add MSG when cooking!)",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「中华饮食文化、点餐与味觉 (Chinese Cuisine & Dining)」的核心语法法则与应用范例 (6.4.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '中华饮食文化、点餐与味觉 (Chinese Cuisine & Dining)' in simple terms to students at the academic seminar."
+          "target": "——您好，请问您想喝点儿什么？——我想喝一杯热绿茶，谢谢！(—Nín hǎo, qǐngwèn nín xiǎng hē diǎnr shénme? —Wǒ xiǎng hē yì bēi rè lǜchá, xièxie!)",
+          "reading": "[—nin˧˥ xaʊ˨˩˦, t͡ɕʰiŋ˨˩.wən˥˩ nin˧˥ ɕjɑŋ˨˩˦ xɤ˥ tjɛɻ˨˩˦ ʂən˧˥.mɤ? —wɔ˨˩ ɕjɑŋ˨˩˦ xɤ˥ i˥ peɪ̯˥ ʐɤ˥˩ ly˥˩.ʈ͡ʂʰa˧˥, ɕjɛ˥˩.ɕjɛ!] (—Nín hǎo, qǐng-wèn nín xiǎng hē diǎnr shén-me? —Wǒ xiǎng hē yì bēi rè lǜ-chá, xiè-xie!)",
+          "translation": "—Hello, what would you like to drink? —I would like to drink a cup of hot green tea, thank you!"
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (6.4.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "服务员，我们要一盘麻婆豆腐，不要太辣，再来两碗米饭。(Fúwùyuán, wǒmen yào yì pán Mápó dòufu, bú yào tài là, zài lái liǎng wǎn mǐfàn.)",
+          "reading": "[fu˧˥.u˥˩.ɥɛn˧˥, wɔ˨˩.mən jaʊ̯˥˩ i˥ pʰan˧˥ ma˧˥.pʰwɔ˧˥ toʊ̯˥˩.fu, pu˧˥ jaʊ̯˥˩ tʰaɪ̯˥˩ la˥˩, t͡saɪ̯˥˩ laɪ̯˧˥ ljaŋ˨˩ wan˨˩˦ mi˨˩.fan˥˩] (Fú-wù-yuán, wǒ-men yào yì pán Má-pó dòu-fu, bú yào tài là, zài lái liǎng wǎn mǐ-fàn.)",
+          "translation": "Waiter, we want a plate of Mapo Tofu, not too spicy, and two bowls of rice."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (6.4.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "我今天胃不太舒服，不想吃油腻的肉类，想吃清淡的蔬菜。(Wǒ jīntiān wèi bú tài shūfu, bù xiǎng chī yóunì de ròulèi, xiǎng chī qīngdàn de shūcài.)",
+          "reading": "[wɔ˨˩ t͡ɕin˥.tʰjɛn˥ weɪ̯˥˩ pu˧˥ tʰaɪ̯˥˩ ʂu˥.fu, pu˥˩ ɕjɑŋ˨˩˦ t͡ʂʰɨ˥ joʊ̯˧˥.ni˥˩ tɤ ʐoʊ̯˥˩.leɪ̯˥˩, ɕjɑŋ˨˩˦ t͡ʂʰɨ˥ t͡ɕʰiŋ˥.tan˥˩ tɤ ʂu˥.t͡sʰaɪ̯˥˩] (Wǒ jīn-tiān wèi bú tài shū-fu, bù xiǎng chī yóu-nì de ròu-lèi, xiǎng chī qīng-dàn de shū-cài.)",
+          "translation": "My stomach is not feeling very well today; I don't feel like eating greasy meats, and would like to eat light vegetables."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (6.4.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "请服务员做菜时千万不要放花生，我对坚果严重过敏。(Qǐng fúwùyuán zuòcài shí qiānwàn bú yào fàng huāshēng, wǒ duì jiānguǒ yánzhòng guòmǐn.)",
+          "reading": "[t͡ɕʰiŋ˨˩ fu˧˥.u˥˩.ɥɛn˧˥ t͡swɔ˥˩.t͡sʰaɪ̯˥˩ ʂɨ˧˥ t͡ɕʰjɛn˥.wan˥˩ pu˧˥ jaʊ̯˥˩ fɑŋ˥˩ xwa˥.ʂɤŋ˥, wɔ˨˩ tweɪ̯˥˩ t͡ɕjɛn˥.kwɔ˨˩˦ jɛn˧˥.ʈ͡ʂʊŋ˥˩ kwɔ˥˩.min˨˩˦] (Qǐng fú-wù-yuán zuò-cài shí qiān-wàn bú yào fàng huā-shēng, wǒ duì jiān-guǒ yán-zhòng guò-mǐn.)",
+          "translation": "Please ask the chef never to add peanuts when cooking; I am severely allergic to nuts."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "想表愿望客气探（想尝烤鸭），要表决定下单欢（我们要两碗饭）；不想无意莫强求，不要拒绝与禁言！"
+      ],
+      "culturalNotes": [
+        "汉语在表达请求时，助动词「想」带有明显的委婉与谦抑色彩。对长辈、客人或初次相识者，服务员与主人常用「您想......」而很少直接生硬地说「你要......」，展现了崇尚礼让的语用风范。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「中华饮食文化、点餐与味觉 (Chinese Cuisine & Dining)」（第4讲）的标准汉语规范？",
+          "prompt": "在正式点餐向服务员下达点菜指令时，最自然直接的动词是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「中华饮食文化、点餐与味觉 (Chinese Cuisine & Dining)」的核心语法法则与应用范例 (6.4.1)。",
-            "存在语序混乱且虚词误用的病句选项 (6.4.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (6.4.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (6.4.w3)"
+            "要 (我们要一盘北京烤鸭) (yào - decisive order)",
+            "必须",
+            "应该",
+            "可以"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "在餐馆向服务员点菜下单时，「我们要...... / 来一盘......」是最自然地道的表达。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "要表达「主观上没有吃辣的意愿/不想吃辣」，应选用的否定形式是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "不想吃辣 (bù xiǎng chī là) (Don't feel like eating spicy)",
+            "不要吃辣 (多用于禁止命令)",
+            "不肯吃辣",
+            "不愿吃辣"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "表达主观上缺乏做某事的意愿与心情时，使用「不想 (bù xiǎng)」。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「中华饮食文化、点餐与味觉 (Chinese Cuisine & Dining)」的正式语境下，最准确得体的表达是哪一项？（第6.4题）",
+          "prompt": "请选出下列句子中「不要」表示明确拒绝添加某食材的一项：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (6.4.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (6.4.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (6.4.x2)",
-            "量词与名词修饰搭配错误的病句选项 (6.4.x3)"
+            "服务员，我的这碗面条不要放香菜。(Waiter, please do not add cilantro to my bowl of noodles.)",
+            "我不想去上课。",
+            "我今天晚上想看电影。",
+            "我们要两杯热绿茶。"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「不要放香菜」明确表达了拒绝添加香菜的忌口定制要求。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u6-l4）所要求的高阶语言表达？",
+          "prompt": "询问远方来宾的饮食偏好时，最具礼貌和亲和力的问句是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (6.4.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (6.4.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (6.4.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (6.4.y3)"
+            "请问您想品尝哪种中国特色菜肴？(What Chinese specialty would you like to taste? - polite xiǎng)",
+            "你必须吃什么菜？",
+            "你一定要吃哪个？",
+            "你吃什么现在？"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "使用「您想品尝......」语气委婉亲切，极具跨文化交际礼貌。"
         }
       ]
     },
@@ -3842,25 +3852,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「中华饮食文化、点餐与味觉 (Chinese Cuisine & Dining)」的掌握程度，请选出表述完全正确的标准范句（测试 6-4）：",
+          "prompt": "请选出下列会话中助动词「想」与「要」运用完全得体正确的一组：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (6.4.4)。",
-            "被动句式与处置句式混用导致的严重病句 (6.4.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (6.4.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (6.4.z3)"
+            "服务员：请问两位想吃点儿什么？ 顾客：我们想尝尝这儿的特色菜，我们要一盘宫保鸡丁和两碗米饭。",
+            "服务员：两位必须吃什么？ 顾客：我们不可吃这儿的菜。",
+            "服务员：两位要吃什么呢？ 顾客：我们不想要菜在今天。",
+            "服务员：想吃两位什么？ 顾客：要一盘鸡丁我们想。"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "服务员用「想吃点儿什么」礼貌询问，顾客先表达愿望「想尝尝」，再明确下单「我们要......」，语用极其地道标准。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u6-l4）的核心关键词（例如「中华饮食」）：",
+          "prompt": "请输入表达心理愿望「想要/打算做」的单字助动词汉字（拼音为 xiǎng）：",
           "acceptedAnswers": [
-            "中华饮食",
-            "中华饮食文化",
-            "中华饮食文化、点餐与味觉"
+            "想"
           ],
-          "explanation": "正确的核心关键词为「中华饮食」。"
+          "explanation": "汉字「想」在能愿动词用法中表示主观意愿与打算（如想吃、想去）。"
         }
       ],
       "passThreshold": 0.8
@@ -3871,85 +3879,89 @@
     "subject": "mandarin",
     "unit": 6,
     "lessonNumber": 5,
-    "title": "中华饮食文化、点餐与味觉 (Chinese Cuisine & Dining) (第5讲)",
+    "title": "中华饮食礼仪、八大菜系与宴饮交际语篇 (Chinese Dining Etiquette & Eight Cuisines)",
     "level": "A1",
-    "objective": "全面掌握与熟练运用本课核心内容：八大菜系、传统风味词汇（酸/甜/苦/辣/咸/鲜）、餐馆点餐与结账会话。 (第5部分)。",
+    "objective": "了解中国传统八大菜系（川/粤/鲁/苏/浙/闽/湘/徽）的地域风味特色，掌握中餐宴饮礼仪（敬酒/干杯/公筷）与核心文化禁忌（忌插筷），能进行得体的中餐宴席社交叙事。",
     "presentation": {
-      "explanation": "",
+      "explanation": "中华饮食不仅是烹饪技术的集成，更是中华礼仪文明、宗族亲情与人际交际的最高舞台。\n\n一、中国传统「八大菜系」地域版图与风味灵魂：\n1. 川菜（四川）—— 麻辣鲜香、变化万千（麻婆豆腐、水煮牛肉、宫保鸡丁）。\n2. 粤菜（广东）—— 选料精细、清鲜脆嫩、原汁原味（白切鸡、广式早茶蒸点、烧鹅）。\n3. 鲁菜（山东）—— 北方菜系之首，咸鲜醇厚、重葱香火候（葱烧海参、糖醋黄河鲤鱼）。\n4. 苏菜（江苏/淮扬）—— 刀工精细、咸甜浓淡适口（松鼠鳜鱼、狮子头）。\n5. 浙菜（浙江）—— 选料讲究、清鲜爽脆（西湖醋鱼、东坡肉、龙井虾仁）。\n6. 闽菜（福建）—— 鲜香清甜、善制海鲜汤羹（佛跳墙、荔枝肉）。\n7. 湘菜（湖南）—— 浓辣酸香、色浓味重（剁椒鱼头、腊味合蒸）。\n8. 徽菜（安徽）—— 善用山珍、重火功重油重色（红烧臭鳜鱼、毛豆腐）。\n\n二、中华餐桌社交核心礼仪：\n1. 尊老爱客与动筷顺序：主人与长辈先动筷（「请长辈先动筷」），年轻晚辈随后享用。\n2. 敬酒与祝酒礼仪：\n- 祝酒辞：「大家干杯 (Gānbēi)!」/「祝您身体健康、工作顺利！」\n- 碰杯细节：晚辈或主人敬酒时，自己的酒杯边缘应略低于对方杯沿，以示谦卑敬意。\n3. 公筷公勺：提倡使用公筷夹菜，以示文明卫生。\n\n三、中华筷子文化四大绝对禁忌：\n1. 忌直插筷子（当头插筷）：**绝对不能**把筷子直立插在米饭碗中央（形同给死者祭祀上香，极其不吉利！）。\n2. 忌敲击碗碟（击盏敲盅）：不可用筷子敲打碗沿（古代乞丐乞讨之举）。\n3. 忌筷子指人（仙人指路）：用餐时绝不可拿筷子对着他人指点。\n4. 忌跨盘夹菜：只夹取靠近自己一侧的菜肴，不越过他人挑拣菜品。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「中华饮食文化、点餐与味觉 (Chinese Cuisine & Dining)」的核心语法法则与应用范例 (6.5.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '中华饮食文化、点餐与味觉 (Chinese Cuisine & Dining)' in simple terms to students at the academic seminar."
+          "target": "今天晚上王教授在传统中餐馆设宴招待来自各国的留学生。(Jīntiān wǎnshang Wáng jiàoshòu zài chuántǒng Zhōngcānguǎn shèyàn zhāodài láizì gèguó de liúxuéshēng.)",
+          "reading": "[t͡ɕin˥.tʰjɛn˥ wan˨˩.ʂaŋ wɑŋ˧˥ t͡ɕjaʊ̯˥˩.ʂoʊ̯˥˩ t͡saɪ̯˥˩ t͡ʂʰwan˧˥.tʰʊŋ˨˩˦ ʈ͡ʂʊŋ˥.t͡sʰan˥.kwan˨˩˦ ʂɤ˥˩.jɛn˥˩ ʈ͡ʂaʊ̯˥.taɪ̯˥˩ laɪ̯˧˥.t͡sɨ˥˩ kɤ˥˩.kwɔ˧˥ tɤ ljoʊ̯˧˥.ɕɥɛ˧˥.ʂəŋ] (Jīn-tiān wǎn-shang Wáng jiào-shòu zài chuán-tǒng Zhōng-cān-guǎn shè-yàn zhāo-dài lái-zì gè-guó de liú-xué-shēng.)",
+          "translation": "Tonight Professor Wang hosted a banquet at a traditional Chinese restaurant to entertain international students from various countries."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (6.5.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "在中国餐桌上，大家举杯祝酒时常说「干杯」，祝愿友谊长存！(Zài Zhōngguó cānzhuō shang, dàjiā jǔbēi zhùjiǔ shí cháng shuō \"Gānbēi\", zhùyuàn yǒuyì chángcún!)",
+          "reading": "[t͡saɪ̯˥˩ ʈ͡ʂʊŋ˥.kwɔ˧˥ t͡sʰan˥.ʈ͡ʂwɔ˥ ʂɑŋ, ta˥˩.t͡ɕja˥ t͡ɕy˨˩.peɪ̯˥ ʈ͡ʂu˥˩.t͡ɕjoʊ̯˨˩˦ ʂɨ˧˥ ʈ͡ʂʰɑŋ˧˥ ʂwɔ˥ \"kan˥.peɪ̯˥\", ʈ͡ʂu˥˩.ɥɛn˥˩ joʊ̯˨˩.i˥˩ ʈ͡ʂʰɑŋ˧˥.t͡sʰwən˧˥!] (Zài Zhōng-guó cān-zhuō shang, dà-jiā jǔ-bēi zhù-jiǔ shí cháng shuō \"Gān-bēi\", zhù-yuàn yǒu-yì cháng-cún!)",
+          "translation": "At the Chinese dining table, when raising glasses to toast, people often say 'Cheers' to wish that friendship will last forever!"
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (6.5.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "请记住，绝对不能把两支筷子竖直插在米饭碗中央。(Qǐng jìzhu, juéduì bù néng bǎ liǎng zhī kuàizi shùzhí chā zài mǐfàn wǎn zhōngyāng.)",
+          "reading": "[t͡ɕʰiŋ˨˩ t͡ɕi˥˩.ʈ͡ʂu, t͡ɕɥɛ˧˥.tweɪ̯˥˩ pu˥˩ nɤŋ˧˥ pa˨˩˦ ljaŋ˨˩ ʈ͡ʂɨ˥ kʰwaɪ̯˥˩.t͡sɨ ʂu˥˩.ʈ͡ʂɨ˧˥ t͡ʂʰa˥ t͡saɪ̯˥˩ mi˨˩.fan˥˩ wan˨˩˦ ʈ͡ʂʊŋ˥.jɑŋ˥] (Qǐng jì-zhu, jué-duì bù néng bǎ liǎng zhī kuài-zi shù-zhí chā zài mǐ-fàn wǎn zhōng-yāng.)",
+          "translation": "Please remember that you must never stick two chopsticks vertically into the center of a rice bowl."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (6.5.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "粤菜注重食材原本的清鲜，而川菜则以麻辣浓郁征服了无数食客。(Yuècài zhùzhòng shícái yuánběn de qīngxiān, ér Chuāncài zé yǐ málà nóngyù zhēngfú le wúshù shíkè.)",
+          "reading": "[ɥɛ˥˩.t͡sʰaɪ̯˥˩ ʈ͡ʂu˥˩.ʈ͡ʂʊŋ˥˩ ʂɨ˧˥.t͡sʰaɪ̯˧˥ jɥɛn˧˥.pən˨˩˦ tɤ t͡ɕʰiŋ˥.ɕjɛn˥, aɻ˧˥ t͡ʂʰwan˥.t͡sʰaɪ̯˥˩ t͡sɤ˧˥ i˨˩˦ ma˧˥.la˥˩ nʊŋ˧˥.y˥˩ ʈ͡ʂɤŋ˥.fu˧˥ lɤ u˧˥.ʂu˥˩ ʂɨ˧˥.kʰɤ˥˩] (Yuè-cài zhù-zhòng shí-cái yuán-běn de qīng-xiān, ér Chuān-cài zé yǐ má-là nóng-yù zhēng-fú le wú-shù shí-kè.)",
+          "translation": "Cantonese cuisine emphasizes the original freshness of ingredients, while Sichuan cuisine conquers countless diners with its rich numbing-spiciness."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "八大菜系各芬芳，川麻粤鲜鲁醇香；尊长先动干杯敬，忌插筷子碗中央！"
+      ],
+      "culturalNotes": [
+        "「民以食为天」出自《史记·郦生陆贾列传》，彰显了中国人将饮食视为生命依托与治国安邦之本的崇高地位。中国人重食、爱食、善烹、乐聚，餐桌既是情感纽带的熔炉，也是中华待客之道的核心体现。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「中华饮食文化、点餐与味觉 (Chinese Cuisine & Dining)」（第5讲）的标准汉语规范？",
+          "prompt": "在中国餐桌礼仪中，关于使用筷子的重大文化禁忌是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「中华饮食文化、点餐与味觉 (Chinese Cuisine & Dining)」的核心语法法则与应用范例 (6.5.1)。",
-            "存在语序混乱且虚词误用的病句选项 (6.5.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (6.5.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (6.5.w3)"
+            "绝对不能将筷子直立插在米饭碗中央 (Never stick chopsticks vertically into rice bowl)",
+            "不能用筷子夹蔬菜",
+            "不能使用木质筷子",
+            "就餐前必须把筷子洗三遍"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "将筷子直插在饭碗中央形似祭祀插香，在中国文化中属于严重禁忌。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "以「原汁原味、清脆鲜美、广式早茶点心」闻名天下的中国菜系是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "粤菜（广东菜） (Cantonese Cuisine)",
+            "川菜（四川菜）",
+            "湘菜（湖南菜）",
+            "鲁菜（山东菜）"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "粤菜极其讲究食材原汁原味与鲜活清爽，广式早茶点心享誉全球。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「中华饮食文化、点餐与味觉 (Chinese Cuisine & Dining)」的正式语境下，最准确得体的表达是哪一项？（第6.5题）",
+          "prompt": "在宴席敬酒祝愿时，中国人常说的经典祝酒词是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (6.5.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (6.5.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (6.5.x2)",
-            "量词与名词修饰搭配错误的病句选项 (6.5.x3)"
+            "干杯！(Gānbēi! - Cheers!)",
+            "快喝！",
+            "喝完它！",
+            "倒酒！"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「干杯 (Gānbēi)」是现代中餐宴会聚餐中最经典通用的举杯祝酒用语。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u6-l5）所要求的高阶语言表达？",
+          "prompt": "在正式中餐宴席上，合乎中华礼仪的动筷进餐顺序是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (6.5.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (6.5.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (6.5.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (6.5.y3)"
+            "请主人与长辈先动筷夹菜，晚辈与客人随后 (Elders and host pick food first)",
+            "小孩子抢先吃自己喜欢的菜",
+            "所有人必须同时抓起筷子夹菜",
+            "只夹离自己最远的那盘菜"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「长者先动筷」体现了中华传统尊老敬贤与谦让待客的伦理秩序。"
         }
       ]
     },
@@ -3957,25 +3969,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「中华饮食文化、点餐与味觉 (Chinese Cuisine & Dining)」的掌握程度，请选出表述完全正确的标准范句（测试 6-5）：",
+          "prompt": "请选出下列关于中华饮食文化与宴席礼仪叙述完全正确的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (6.5.4)。",
-            "被动句式与处置句式混用导致的严重病句 (6.5.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (6.5.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (6.5.z3)"
+            "川菜以麻辣著称，粤菜以清鲜闻名；宴席上大家举杯说「干杯」，绝不可将筷子直立插在饭碗中。(Authentic summary of Chinese cuisine and dining etiquette.)",
+            "川菜以清淡著称，粤菜以极其辛辣闻名；敬酒时杯子必须高于长辈。(菜系特色颠倒且礼仪错误)",
+            "中国餐桌上必须把筷子插在米饭上以示吉利。(严重禁忌错误)",
+            "中国人聚餐从来不用筷子，只用刀叉勺。(与事实严重不合)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该项全面准确地概括了川粤菜系风味对比、宴席祝酒词以及筷子核心文化禁忌。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u6-l5）的核心关键词（例如「中华饮食」）：",
+          "prompt": "请输入宴席上举杯碰杯时祝酒的核心单字汉字（例如「干杯」的「杯」）：",
           "acceptedAnswers": [
-            "中华饮食",
-            "中华饮食文化",
-            "中华饮食文化、点餐与味觉"
+            "杯"
           ],
-          "explanation": "正确的核心关键词为「中华饮食」。"
+          "explanation": "汉字「杯」在「干杯」、「举杯」中指饮酒器具与祝酒动作。"
         }
       ],
       "passThreshold": 0.8
