@@ -6225,53 +6225,62 @@
     "subject": "ukrainian",
     "unit": 15,
     "lessonNumber": 1,
-    "title": "Ступені порівняння прикметників та прислівників (Comparatives) (Part 1)",
+    "title": "Вищий ступінь порівняння прикметників (Comparative Degree: Simple & Compound)",
     "level": "B1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 15.1) with authentic linguistic precision.",
+    "objective": "Опанувати творення простої синтетичної (суфікси -іш-, -ш-) та складеної аналітичної (більш, менш) форм вищого ступеня порівняння якісних прикметників.",
     "presentation": {
-      "explanation": "",
+      "explanation": "В українській мові ступені порівняння мають виключно якісні прикметники (що позначають ознаку, яка може виявлятися більшою чи меншою мірою).\n\nВищий ступінь показує, що в одному предметі ознака виражена сильніше, ніж в іншому, і твориться двома способами:\n\n1. Проста (синтетична) форма:\n   - За допомогою суфікса «-іш-» (найпродуктивніша модель від повної основи):\n     * новий -> новіший; теплий -> тепліший; світлий -> світліший; молодий -> молодіший.\n   - За допомогою суфікса «-ш-» (при цьому суфікси «-к-, -ок-, -ек-» основи випадають):\n     * короткий -> коротший; широкий -> ширший; глибокий -> глибший; далекий -> дальший.\n\n2. Складена (аналітична) форма:\n   - Утворюється додаванням слів «більш» або «менш» до початкової форми прикметника:\n     * більш зручний, менш доступний, більш ефективний, менш яскравий.\n\n3. СУВОРЕ ПРАВИЛО: Категорично заборонено поєднувати обидві форми! Конструкції на кшталт «більш тепліший» чи «менш зручніший» є грубою граматичною помилкою (подвійний ступінь). Правильно: «тепліший» АБО «більш теплий».",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 15.1.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Новий маршрут виявився значно коротшим і безпечнішим для пішоходів.",
+          "reading": "[nɔˈwɪj mɐrʃˈrut wɪˈjɑwɪwsʲɑ ˈznɑtʃnɔ kɔˈrɔtʃɪm i bɛzˈpɛtʃnʲiʃɪm dlʲɑ pʲiʃɔˈxɔdʲiw] (noh-VYY mahrsh-ROOT vy-YAH-vyv-syah ZNAHCH-noh koh-ROH-tchym ee bez-PECH-neey-sheem dlyah pee-shoh-KHOH-deew)",
+          "translation": "The new route turned out to be significantly shorter and safer for pedestrians."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 15-1).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Цей сучасний підхід є більш гнучким та адаптивним до змін ринку.",
+          "reading": "[t͡sɛj sut͡ʃɐsˈnɪj pʲidˈxʲid jɛ bʲilʲʃ ɦnut͡ʃˈkɪm tɑ ɐdɐpˈtɪwnɪm dɔ zmʲin ˈrɪnku] (tsey soo-chahs-NYY peed-KHEED yeh beel'sh hnooch-KYM tah ah-dahp-TYV-nym doh zmeen RYN-koo)",
+          "translation": "This modern approach is more flexible and adaptive to market changes."
+        },
+        {
+          "target": "З кожним весняним днем повітря ставало все теплішим і свіжішим.",
+          "reading": "[z ˈkɔʒnɪm wɛsʲˈnʲɑnɪm dnɛm pɔˈwʲitrʲɑ stɐˈwɑlɔ wsɛ tɛpˈlʲiʃɪm i swʲiˈʒiʃɪm] (z KOHZH-nym ves-NYAH-nym dnehm poh-VEET-ryah stah-VAH-loh vseh tep-LEE-sheem ee svee-ZHEE-sheem)",
+          "translation": "With every spring day the air became warmer and fresher."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Обирай або суфікс «-іш- / -ш-» (тепліший), або слово «більш» (більш теплий), але ніколи не змішуй їх разом!"
+      ],
+      "culturalNotes": [
+        "Уникнення тавтологічних помилок на кшталт «більш кращий» є головним маркером культури мови в українському публічному просторі."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Погода\":",
+          "prompt": "Оберіть граматично правильну форму вищого ступеня порівняння прикметника:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 15.1.",
-            "Неправильне відмінкове узгодження зі словом «Сонце»",
-            "Порушення законів евфонії та словотворення для «Дощ»",
-            "Стилістично некоректна синтаксична конструкція з «Сніг»"
+            "Тепліший (Correct simple comparative form with suffix -іш-)",
+            "Більш тепліший",
+            "Самий теплий",
+            "Більш найтепліший"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Нормативною є проста форма «тепліший» або складена «більш теплий» (але без поєднання слів)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Погода\":",
+          "prompt": "Яка форма вищого ступеня утворюється від прикметника «широкий» з випаданням суфікса -ок-?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 15.1.",
-            "Порушення законів евфонії та словотворення для «Дощ»",
-            "Стилістично некоректна синтаксична конструкція з «Сніг»",
-            "Неправильне відмінкове узгодження зі словом «Сонце»"
+            "Ширший (Truncation of suffix -ок- + suffix -ш-)",
+            "Широкіший",
+            "Більш ширший",
+            "Широчайший"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "При творенні форми на -ш- суфікс -ок- випадає: «широкий -> ширший»."
         }
       ]
     },
@@ -6279,17 +6288,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Погода\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому НЕМАЄ граматичної помилки у вживанні ступеня порівняння:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 15.1.",
-            "Стилістично некоректна синтаксична конструкція з «Сніг»",
-            "Неправильне відмінкове узгодження зі словом «Сонце»",
-            "Порушення законів евфонії та словотворення для «Дощ»"
+            "Сьогоднішній день був значно теплішим за вчорашній.",
+            "Сьогоднішній день був більш теплішим за вчорашній.",
+            "Сьогоднішній день був самий теплий за вчорашній.",
+            "Сьогоднішній день був більш найкращий за вчорашній."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Форма «значно теплішим» утворена бездоганно без надлишкових слів «більш/самий»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u15-l2": {
@@ -6297,53 +6307,62 @@
     "subject": "ukrainian",
     "unit": 15,
     "lessonNumber": 2,
-    "title": "Ступені порівняння прикметників та прислівників (Comparatives) (Part 2)",
+    "title": "Чергування приголосних та суплетивні форми вищого ступеня (Consonant Alternations & Suppletion)",
     "level": "B1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 15.2) with authentic linguistic precision.",
+    "objective": "Опанувати фонетичні зміни кінцевих приголосних основи ([г, ж, з] + ш -> жч; [к, с] + ш -> щ) та суплетивні форми ступенів порівняння (великий -> більший, добрий -> кращий/ліпший, поганий -> гірший).",
     "presentation": {
-      "explanation": "",
+      "explanation": "При творенні простої форми вищого ступеня за допомогою суфікса «-ш-» відбуваються закономірні фонетичні зміни:\n\n1. Історичні чергування звуків основи перед суфіксом «-ш-»:\n   - [г], [ж], [з] + [ш] зливаються в [жч]:\n     * дорогий -> дорожчий;\n     * дужий -> дужчий;\n     * низький -> нижчий (суфікс -к- випадає, з + ш -> жч);\n     * вузький -> вужчий;\n     * близький -> ближчий.\n   - [к], [с] + [ш] зливаються в [щ] ([шч]):\n     * високий -> вищий (випадає -ок-, с + ш -> щ);\n     * товстий -> товщий (або товстіший);\n     * красивий -> кращий (або красивіший).\n\n2. Суплетивні форми (утворені від іншої кореневої основи):\nДеякі найважливіші якісні прикметники мають форми вищого ступеня з іншим коренем:\n   - Великий -> більший\n   - Малий -> менший\n   - Хороший / добрий -> кращий / ліпший\n   - Поганий -> гірший.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 15.2.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Цей варіант проєкту виявився значно кращим і вищим за якістю виконання.",
+          "reading": "[t͡sɛj wɐrʲiˈɑnt prɔˈjɛktu wɪˈjɑwɪwsʲɑ ˈznɑtʃnɔ ˈkrɐʃtʃɪm i ˈwɪʃtʃɪm zɑ ˈjɑkʲisʲtʲu wɪkɔˈnɑnʲːɑ] (tsey vah-ree-AHNT proh-YEK-too vy-YAH-vyv-syah ZNAHCH-noh KRAHSH-chym ee VYSH-chym zah YAH-keest'-yoo vy-koh-NAHN-nyah)",
+          "translation": "This project option turned out to be significantly better and higher in execution quality."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 15-2).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Вужчий прохід у старій фортеці веде до найвищої спостережної вежі.",
+          "reading": "[ˈwuʒtʃɪj prɔˈxʲid u stɐˈrʲij fɔrˈtɛt͡sʲi wɛˈdɛ dɔ nɐjˈwɪʃtʃɔji spɔstɛrɛʒˈnɔji ˈwɛʒʲi] (VOOZH-chyy proh-KHEED oo stah-REEY fohr-TET-see veh-DEH doh nahy-VYSH-choh-yee spoh-steh-rehzh-NOH-yee VEH-zhee)",
+          "translation": "The narrower passageway in the old fortress leads to the highest observation tower."
+        },
+        {
+          "target": "У нових економічних умовах прибуток підприємства став значно меншим.",
+          "reading": "[u nɔˈwɪx ɛkɔnɔˈmʲitʃnɪx uˈmɔwɐx prɪˈbutɔk pʲidprɪˈjɛmstwɐ stɑw ˈznɑtʃnɔ ˈmɛnʃɪm] (oo noh-VYKH eh-koh-noh-MEECH-nykh oo-MOH-vahkh pry-BOO-tohk peed-pry-YEM-stvah stahv ZNAHCH-noh MEN-sheem)",
+          "translation": "Under the new economic conditions the enterprise's profit became significantly smaller."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "[г, ж, з] + ш дає «жч» (дорожчий, нижчий), а [с, к] + ш дає «щ» (вищий, кращий)!"
+      ],
+      "culturalNotes": [
+        "Синонімічна пара «кращий / ліпший» демонструє лексичне багатство української мови: слово «ліпший» є питомим і широко вживаним у літературній традиції."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Сонце\":",
+          "prompt": "Утворіть форму вищого ступеня від прикметника «дорогий» з урахуванням чергування г + ш -> жч:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 15.2.",
-            "Неправильне відмінкове узгодження зі словом «Дощ»",
-            "Порушення законів евфонії та словотворення для «Сніг»",
-            "Стилістично некоректна синтаксична конструкція з «Вітер»"
+            "Дорожчий (Alternation g + sh -> zhch)",
+            "Дорогіший",
+            "Дорогший",
+            "Дорожший"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Звук [г] перед суфіксом -ш- чергується, утворюючи буквосполучення жч: «дорогий -> дорожчий»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Сонце\":",
+          "prompt": "Яка форма є суплетивним вищим ступенем до прикметника «поганий»?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 15.2.",
-            "Порушення законів евфонії та словотворення для «Сніг»",
-            "Стилістично некоректна синтаксична конструкція з «Вітер»",
-            "Неправильне відмінкове узгодження зі словом «Дощ»"
+            "Гірший (Suppletive comparative from base root гір-)",
+            "Поганіший",
+            "Поганший",
+            "Зліший"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Вищий ступінь від «поганий» утворюється від іншого кореня: «гірший»."
         }
       ]
     },
@@ -6351,17 +6370,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Сонце\": Which sentence is completely correct?",
+          "prompt": "Оберіть рядок, у якому всі форми вищого ступеня утворені правильно з урахуванням фонетичних змін:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 15.2.",
-            "Стилістично некоректна синтаксична конструкція з «Вітер»",
-            "Неправильне відмінкове узгодження зі словом «Дощ»",
-            "Порушення законів евфонії та словотворення для «Сніг»"
+            "Вищий, дорожчий, нижчий, вужчий, кращий.",
+            "Високіший, дорогший, низший, вузший, добріший.",
+            "Вижчий, дорожший, низькіший, вузькіший, гарніший.",
+            "Висший, дорогіший, нижший, вужший, кращійший."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Усі форми «вищий, дорожчий, нижчий, вужчий, кращий» відображають нормативні звукові зміни та суплетивізм."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u15-l3": {
@@ -6369,53 +6389,62 @@
     "subject": "ukrainian",
     "unit": 15,
     "lessonNumber": 3,
-    "title": "Ступені порівняння прикметників та прислівників (Comparatives) (Part 3)",
+    "title": "Найвищий ступінь порівняння прикметників (Superlative Degree: Simple & Compound)",
     "level": "B1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 15.3) with authentic linguistic precision.",
+    "objective": "Опанувати творення простої (префікс най-), посиленої (якнай-, щонай-) та складеної (найбільш, найменш) форм найвищого ступеня порівняння прикметників та уникати калькованих конструкцій.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Найвищий ступінь показує, що предмет має ознаку в найвищому (або найнижчому) прояві порівняно з усіма іншими предметами:\n\n1. Проста (синтетична) форма:\n   - Твориться додаванням префікса «най-» до простої форми вищого ступеня:\n     * найновіший, найтепліший, найкращий, найвищий, найдорожчий, найбільший.\n\n2. Посилена синтетична форма:\n   - Твориться додаванням часток-префіксів «як-» або «що-» до форми найвищого ступеня для вираження граничної міри якості:\n     * якнайкращий, якнайшвидший, якнайбільший, щонайкращий, щонайдорожчий.\n\n3. Складена (аналітична) форма:\n   - Утворюється додаванням слів «найбільш» або «найменш» до початкової форми якісного прикметника:\n     * найбільш авторитетний, найменш шкідливий, найбільш вагомий.\n\n4. ГРАМАТИЧНА ЗАБОРОНА НА КАЛЬКИ:\nВ українській мові категорично не вживається слово «самий» для творення ступенів порівняння! Конструкції «самий красивий», «самий кращий», «самий головний» є грубим суржиком. Правильно: «найкрасивіший», «найкращий», «найголовніший».",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 15.3.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Тарас Шевченко залишається найвидатнішим поетом та пророком українського народу.",
+          "reading": "[tɐˈrɑs ʃɛwˈtʃɛnkɔ zɐlɪˈʃɑjɛtʲsʲɑ nɐjwɪdɐtʲˈnʲiʃɪm pɔˈɛtɔm tɑ prɔˈrɔkɔm ukrɐˈjinʲskɔɦɔ nɐˈrɔdu] (tah-RAHS shehv-CHEN-koh zah-ly-SHAH-yet'-syah nahy-vy-daht-NEEY-sheem poh-EH-tohm tah proh-ROH-kohm oo-krah-YEEN-skoh-hoh nah-ROH-doo)",
+          "translation": "Taras Shevchenko remains the most prominent poet and prophet of the Ukrainian people."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 15-3).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Ми докладемо всіх зусиль, щоб знайти якнайкраще розв'язання цієї проблеми.",
+          "reading": "[mɪ dɔklɐˈdɛmɔ wsʲix zuˈsɪlʲ, ʃtʃɔb znɐjˈtɪ jɐknɐjˈkrɑʃtʃɛ rɔzˈwjɑzɐnʲːɑ t͡sʲiˈjɛji prɔbˈlɛmɪ] (my doh-klah-DEH-moh vseekh zoo-SYL', shchohb znahy-TY yahk-nahy-KRAHSH-cheh roz-VYAH-zahn-nyah tsee-YEH-yee prohb-LEH-my)",
+          "translation": "We will make every effort to find the very best solution to this problem."
+        },
+        {
+          "target": "Цей науковий журнал є найбільш авторитетним виданням у галузі біотехнологій.",
+          "reading": "[t͡sɛj nɐuˈkɔwɪj ʒurˈnɑl jɛ nɐjˈbʲilʲʃ ɐwtɔrɪˈtɛtnɪm wɪˈdɑnʲːɐm u ɦɑˈluzʲi bʲiɔtɛxnɔˈlɔɦʲij] (tsey nah-oo-KOH-vyy zhoor-NAHL yeh nahy-BEEL'SH ahv-toh-ry-TET-nym vy-DAHN-nyah-moo hah-LOO-zee bee-oh-tehkh-noh-LOH-heey)",
+          "translation": "This scientific journal is the most authoritative publication in the field of biotechnology."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Префікс «най-» (найкращий) або посилений «якнай-» (якнайшвидший), а слово «самий» залиш іншим мовам!"
+      ],
+      "culturalNotes": [
+        "Найвища вершина України — гора Говерла (2061 м) у Чорногорі — є класичним географічним прикладом для прикметника «найвища»."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Дощ\":",
+          "prompt": "Оберіть нормативну форму найвищого ступеня порівняння прикметника:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 15.3.",
-            "Неправильне відмінкове узгодження зі словом «Сніг»",
-            "Порушення законів евфонії та словотворення для «Вітер»",
-            "Стилістично некоректна синтаксична конструкція з «Хмара»"
+            "Найважливіший (Normative simple superlative with prefix най-)",
+            "Самий важливий",
+            "Самий найважливіший",
+            "Більш важливіший"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Нормативною формою в українській мові є «найважливіший» (або «найбільш важливий»)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Дощ\":",
+          "prompt": "Яке значення надає префікс «якнай-» (наприклад, у слові «якнайкращий»)?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 15.3.",
-            "Порушення законів евфонії та словотворення для «Вітер»",
-            "Стилістично некоректна синтаксична конструкція з «Хмара»",
-            "Неправильне відмінкове узгодження зі словом «Сніг»"
+            "Граничного посилення найвищого ступеня (Emphatic superlative: the absolute best possible)",
+            "Неповної міри якості",
+            "Зменшувально-пестливого значення",
+            "Зневажливого значення"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Префікс «якнай-» виражає гранично високу міру якості (якомога кращий)."
         }
       ]
     },
@@ -6423,17 +6452,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Дощ\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому допущено суржикову помилку у творенні найвищого ступеня порівняння:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 15.3.",
-            "Стилістично некоректна синтаксична конструкція з «Хмара»",
-            "Неправильне відмінкове узгодження зі словом «Сніг»",
-            "Порушення законів евфонії та словотворення для «Вітер»"
+            "Це самий найкращий день у моєму житті.",
+            "Це найкращий день у моєму житті.",
+            "Це якнайкращий варіант для нашої команди.",
+            "Це найбільш вдалий день для презентації проєкту."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Вживання «самий найкращий» є грубою помилкою суржикового походження. Правильно: «найкращий»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u15-l4": {
@@ -6441,53 +6471,62 @@
     "subject": "ukrainian",
     "unit": 15,
     "lessonNumber": 4,
-    "title": "Ступені порівняння прикметників та прислівників (Comparatives) (Part 4)",
+    "title": "Ступені порівняння прислівників на -о, -е (Comparison of Adverbs)",
     "level": "B1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 15.4) with authentic linguistic precision.",
+    "objective": "Опанувати творення вищого та найвищого ступенів порівняння якісних прислівників на -о, -е (швидко -> швидше, найшвидше; добре -> краще/ліпше, якнайкраще).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Прислівники, утворені від якісних прикметників на «-о», «-е», мають такі самі ступені порівняння, як і прикметники:\n\n1. Вищий ступінь прислівників:\n   - Проста форма (суфікси «-ше», «-іше»):\n     * тепло -> тепліше; яскраво -> яскравіше; чисто -> чистіше;\n     * швидко -> швидше; високо -> вище; дорого -> дорожче; низько -> нижче;\n     * добре/хорошо -> краще / ліпше; погано -> гірше; багато -> більше; мало -> менше.\n   - Складена форма (слова «більш / менш» + прислівник):\n     * більш виразно, менш помітно, більш оперативно.\n\n2. Найвищий ступінь прислівників:\n   - Проста форма (префікс «най-» + проста форма вищого ступеня):\n     * найтепліше, найшвидше, найвище, найкраще, найменше.\n   - Посилена форма (префікси «якнай-», «щонай-»):\n     * якнайшвидше (якнайскоріше), якнайкраще, щонайдовше.\n   - Складена форма (слова «найбільш / найменш» + прислівник):\n     * найбільш детально, найменш ризиковано.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 15.4.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Він виконав складний математичний розрахунок набагато швидше і точніше за інших.",
+          "reading": "[wʲin wɪˈkɔnɐw sklɐdˈnɪj mɐtɛmɐˈtɪtʃnɪj rɔzˈrɐxunɔk nɐbɐˈɦɑtɔ ˈʃwɪdʃɛ i tɔtʃˈnʲiʃɛ zɑ ˈinʃɪx] (veen vy-KOH-nahv sklahd-NYY mah-teh-mah-TYCH-nyy roz-RAH-khoo-nohk nah-bah-HAH-toh SHVYD-sheh ee toch-NEE-sheh zah EEN-shykh)",
+          "translation": "He performed the complex mathematical calculation much faster and more accurately than the others."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 15-4).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Просимо вас якнайшвидше надіслати підтвердження участі у міжнародній конференції.",
+          "reading": "[prɔˈsɪmɔ wɑs jɐknɐjˈʃwɪdʃɛ nɐdʲisˈlɑtɪ pʲidtwɛrˈdʒɛnʲːɑ uˈtʃɑsʲtʲi u mʲiʒnɐˈrɔdnʲij kɔnfɛˈrɛnt͡sʲiji] (proh-SY-moh vahs yahk-nahy-SHVYD-sheh nah-dees-LAH-ty peed-twehr-DZHEN-nyah oo-CHAHS-tyee oo meezh-nah-ROHD-neey kohn-feh-REN-tsee-yee)",
+          "translation": "We ask you to send confirmation of participation in the international conference as quickly as possible."
+        },
+        {
+          "target": "Нові технології дозволяють працювати значно більш продуктивно та безпечно.",
+          "reading": "[nɔˈwʲi tɛxnɔˈlɔɦʲiji dɔzwɔˈlʲɑjutʲ prɐt͡sʲuˈwɑtɪ ˈznɑtʃnɔ bʲilʲʃ prɔdukˈtɪwnɔ tɑ bɛzˈpɛtʃnɔ] (noh-VEE tehkh-noh-LOH-heeyee dohz-voh-LYAH-yoot' praht-syoo-VAH-ty ZNAHCH-noh beel'sh proh-dook-TYV-noh tah bez-PECH-noh)",
+          "translation": "New technologies allow working much more productively and safely."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Прислівник закінчується на «-е / -ше» (швидше, найтепліше), а прикметник — на закінчення роду (швидший, найтепліший)!"
+      ],
+      "culturalNotes": [
+        "Формула ввічливості «якнайшвидше» є еталоном ділового листування в українському електронному та дипломатичному етикеті."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Сніг\":",
+          "prompt": "Оберіть форму вищого ступеня прислівника для заповнення пропуску: «Цього разу команда зіграла набагато ...»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 15.4.",
-            "Неправильне відмінкове узгодження зі словом «Вітер»",
-            "Порушення законів евфонії та словотворення для «Хмара»",
-            "Стилістично некоректна синтаксична конструкція з «Тепло»"
+            "Краще (Comparative adverb form from добре)",
+            "Кращий",
+            "Більш краще",
+            "Саме краще"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Прислівник способу дії у формі вищого ступеня — «краще»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Сніг\":",
+          "prompt": "Яка форма є посиленим найвищим ступенем прислівника «швидко»?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 15.4.",
-            "Порушення законів евфонії та словотворення для «Хмара»",
-            "Стилістично некоректна синтаксична конструкція з «Тепло»",
-            "Неправильне відмінкове узгодження зі словом «Вітер»"
+            "Якнайшвидше (Emphatic superlative adverb: as fast as possible)",
+            "Саме скоріше",
+            "Більш швидше",
+            "Швидкісінько"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Посилена форма прислівника найвищого ступеня — «якнайшвидше»."
         }
       ]
     },
@@ -6495,17 +6534,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Сніг\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому ступінь порівняння прислівника вжито синтаксично правильно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 15.4.",
-            "Стилістично некоректна синтаксична конструкція з «Тепло»",
-            "Неправильне відмінкове узгодження зі словом «Вітер»",
-            "Порушення законів евфонії та словотворення для «Хмара»"
+            "Він говорив набагато виразніше і переконливіше, ніж раніше.",
+            "Він говорив більш виразніше і переконливіше.",
+            "Він говорив самий виразно з усіх доповідачів.",
+            "Він говорив виразніший за всіх."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Форми прислівників «виразніше і переконливіше» утворені бездоганно."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u15-l5": {
@@ -6513,53 +6553,62 @@
     "subject": "ukrainian",
     "unit": 15,
     "lessonNumber": 5,
-    "title": "Ступені порівняння прикметників та прислівників (Comparatives) (Part 5)",
+    "title": "Синтаксичні порівняльні конструкції (Comparative Syntax & Government)",
     "level": "B1",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 15.5) with authentic linguistic precision.",
+    "objective": "Опанувати автентичні українські синтаксичні конструкції порівняння (за + Знахідний, від + Родовий, ніж/як + Називний, утричі більший за) та позбутися калькованого безприйменникового вживання.",
     "presentation": {
-      "explanation": "",
+      "explanation": "В українській мові при порівнянні предметів чи дій обов'язково використовуються спеціальні прийменникові та сполучникові конструкції:\n\n1. Нормативні моделі порівняння в українській мові:\n   - Модель 1: «Прикметник/прислівник вищого ступеня + ЗА + Знахідний відмінок»:\n     * «Брат старший за сестру» (а не *старше сестри*);\n     * «Київ давніший за багато європейських столиць».\n   - Модель 2: «Прикметник/прислівник вищого ступеня + ВІД + Родовий відмінок»:\n     * «Ця книга цікавіша від попередньої»;\n     * «Він працює швидше від мене».\n   - Модель 3: «Прикметник/прислівник вищого ступеня + НІЖ / ЯК + паралельна форма»:\n     * «Сьогодні тепліше, ніж учора»;\n     * «Цей будинок вищий, як той».\n\n2. Кількісне порівняння (міра різниці):\n   - «НА + скільки»: «На п'ять років старший за...», «На два метри вищий».\n   - «У / В + скільки разів»: «Удвічі дорожчий від...», «Утричі швидше за...».\n\n3. ГРАМАТИЧНА ПОМИЛКА (Безприйменниковий родовий відмінок):\nКонструкції на кшталт «він старше мене», «краще того варіанту» є прямою калькою з російської мови. В українській мові порівняльний зворот ЗАВЖДИ має прийменник («старший за мене», «кращий від того варіанту») або сполучник («старший, ніж я»).",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 15.5.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Андрій на три роки старший за свого молодшого брата.",
+          "reading": "[ɐnˈdrʲij nɑ trɪ ˈrɔkɪ ˈstɑrʃɪj zɑ swɔˈjɔɦɔ mɔˈlɔdʃɔɦɔ ˈbrɑtɐ] (ahn-DREEY nah try ROH-ky STAHR-sheey zah swoh-YOH-hoh moh-LOHD-shoh-hoh BRAH-tah)",
+          "translation": "Andriy is three years older than his younger brother."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 15-5).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Нова будівля виявилася значно вищою від навколишніх старовинних споруд.",
+          "reading": "[nɔˈwɑ buˈdʲiwlʲɑ wɪˈjɑwɪlɐsʲɑ ˈznɑtʃnɔ ˈwɪʃtʃɔju wʲid nɐwkoˈlɪʃnʲix stɐrɔˈwɪnːɪx spɔˈrud] (noh-VAH boo-DEEV-lyah vy-YAH-vy-lahs'-yah ZNAHCH-noh VYSH-choh-yoo veed nahv-koh-LYSH-neekh stah-roh-VYN-nykh spoh-ROOD)",
+          "translation": "The new building turned out to be significantly taller than the surrounding ancient structures."
+        },
+        {
+          "target": "Цей сучасний комп'ютер працює втричі швидше, ніж попередня модель.",
+          "reading": "[t͡sɛj sut͡ʃɐsˈnɪj kɔmˈpjutɛr prɐt͡sʲuˈjɛ ˈwtrɪtʃi ˈʃwɪdʃɛ, nʲiʒ pɔpɛˈrɛdnʲɑ mɔˈdɛlʲ] (tsey soo-chahs-NYY kohm-PYOO-tehr praht-syoo-YEH VTRY-chee SHVYD-sheh, neezh poh-peh-RED-nyah moh-DEL')",
+          "translation": "This modern computer operates three times faster than the previous model."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Порівнюй по-українськи: «старший за мене», «кращий від тебе» або «розумніший, ніж він»!"
+      ],
+      "culturalNotes": [
+        "Конструкція «старший за» з прийменником «за» є найпоширенішою і найорганічнішою в живій розмовній та літературній мові України."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Вітер\":",
+          "prompt": "Оберіть правильну граматичну конструкцію порівняння віку:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 15.5.",
-            "Неправильне відмінкове узгодження зі словом «Хмара»",
-            "Порушення законів евфонії та словотворення для «Тепло»",
-            "Стилістично некоректна синтаксична конструкція з «Холодно»"
+            "Оксана старша за Марію (Correct Ukrainian comparative with prep за + Acc)",
+            "Оксана старше Марії",
+            "Оксана більш старша Марії",
+            "Оксана сама старша від Марії"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Нормативна українська синтаксична модель — «старша за Марію»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Вітер\":",
+          "prompt": "Які прийменники стандартно використовуються в українській мові при ступенях порівняння?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 15.5.",
-            "Порушення законів евфонії та словотворення для «Тепло»",
-            "Стилістично некоректна синтаксична конструкція з «Холодно»",
-            "Неправильне відмінкове узгодження зі словом «Хмара»"
+            "За (+ Зн. в.) та Від (+ Род. в.) (старший за нього / кращий від цього)",
+            "Без прийменника з родовим відмінком",
+            "Через (+ Зн. в.)",
+            "Крізь (+ Зн. в.)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Стандартними порівняльними прийменниками є «за» (зі знахідним відмінком) та «від» (із родовим відмінком)."
         }
       ]
     },
@@ -6567,17 +6616,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Вітер\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому порівняльну синтаксичну конструкцію побудовано абсолютно правильно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 15.5.",
-            "Стилістично некоректна синтаксична конструкція з «Холодно»",
-            "Неправильне відмінкове узгодження зі словом «Хмара»",
-            "Порушення законів евфонії та словотворення для «Тепло»"
+            "Наш університет значно давніший за багато сучасних європейських закладів вищої освіти.",
+            "Наш університет значно давніше багатьох сучасних закладів.",
+            "Наш університет більш давніший багатьох сучасних закладів.",
+            "Наш університет самий давніший серед усіх закладів."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Конструкція «давніший за багато закладів» є бездоганною літературною нормою."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u16-l1": {
