@@ -3765,53 +3765,62 @@
     "subject": "urdu",
     "unit": 9,
     "lessonNumber": 1,
-    "title": "ضرورت اور وجوب: چاہیے کی ساختیں (Obligation with چاہیے) (Part 1)",
+    "title": "لفظ 'چاہیے' کے ساتھ مفعولی ضمیر اور مصدر کی مطابقت (Dative Subject + Infinitive + چاہیے)",
     "level": "A2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 9.1) with authentic precision.",
+    "objective": "اخلاقی و عملی ضرورت کے لیے مفعولی فاعل (کو) + مصدر (نا/نی) + چاہیے کے نحوی اوزان پر کامل مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں وجوب اور ضرورت کے لیے «چاہیے» (Obligation with 'Chaahiye') کی ساخت:\n\n1. **مفعولی فاعل (Dative Subject with 'کو')**:\n   - جس شخص پر کوئی کام واجب یا ضروری ہو، اس کے ساتھ ہمیشہ پرسرگ «**کو**» لگتا ہے (جیسے: مجھے، ہمیں، آپ کو، ہر شہری کو)۔\n\n2. **مصدر اور مفعول کی مطابقت**:\n   - فاعل کو + مفعول + **مصدر (کرنا / کرنی / کرنے)** + **چاہیے**:\n     - مذکر مفعول: «ہمیں قانون کا احترام **کرنا چاہیے**»؛\n     - مؤنث مفعول: «آپ کو محنت **کرنی چاہیے**»؛\n     - جمع مفعول: «طلبہ کو اسباق یاد **کرنے چاہئیں**»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "ہر باشعور شہری کو اپنے وطن کی ترقی اور خوشحالی کے لیے دیانت داری سے محنت کرنی چاہیے۔",
+          "reading": "Har baa-shaoor shehri ko apne watan ki taraqqi aur khush-haali ke liye diyaanat-daari se mehnat karni chaahiye. [hər baː-ʃʊʔuːr ʃɛɦriː koː əpneː ʋət̪ən kiː t̪ərəqːiː ɔːr xʊʃ-haːliː keː lɪjeː d̪ɪjaːnət̪-d̪aːriː seː mɛɦnət̪ kərniː tʃaːhɪjeː] (HUHR bah-shuh-OOR SHYH-ree koh uhp-NAY vuh-TUHN kee tuh-ruhq-QEE owr khoosh-hah-LEE kay lee-AY dee-yah-nuht-dah-REE say muhh-NUHT kuhr-NEE chah-hee-YAY)",
+          "translation": "Every conscious citizen ought to work with honesty for the progress and prosperity of their homeland."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 9-1)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "طلبہ کو اپنے قیمتی وقت کا ایک لمحہ بھی ضائع کیے بغیر امتحانات کی تیاری کرنی چاہیے۔",
+          "reading": "Talaba ko apne qeemti waqt ka ek lamha bhi zaaya kiye baghair imtehaanaat ki tayyaari karni chaahiye. [t̪ələbaː koː əpneː qiːmt̪iː ʋəqt̪ kaː eːk ləmhaː bʱiː zaːjəʔ kɪjeː bəɣɛːr ɪmt̪ɪhaːnaːt̪ kiː t̪əjːaːriː kərniː tʃaːhɪjeː] (tuh-luh-BAH koh uhp-NAY QEEM-tee VUHKT kah AYK luhm-HAH bhee zah-YUH kee-YAY buh-GHYR eem-tuh-hah-NAHT kee ty-yah-REE kuhr-NEE chah-hee-YAY)",
+          "translation": "Students ought to prepare for examinations without wasting a single moment of their valuable time."
+        },
+        {
+          "target": "ہمیں اپنے ارد گرد کے ماحول کو صاف ستھرا اور آلودگی سے پاک رکھنا چاہیے۔",
+          "reading": "Hamein apne ird-gird ke mahaul ko saaf-suthra aur aaloodgi se paak rakhna chaahiye. [həmẽː əpneː ɪrd̪-ɡɪrd̪ keː maːhɔːl koː saːf-sʊt̪ʰraː ɔːr aːluːd̪ɡiː seː paːk rəkʰnaː tʃaːhɪjeː] (huh-MAYN uhp-NAY eerd-GEERD kay mah-HOHL koh SAHF-sooth-RAH owr ah-lood-GEE say PAHK ruhkh-NAH chah-hee-YAY)",
+          "translation": "We ought to keep our surrounding environment clean, tidy, and free of pollution."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "چاہیے فارمولا: فاعل + کو + مصدر (کرنا/کرنی) + چاہیے (محنت کرنی چاہیے، احترام کرنا چاہیے)!"
+      ],
+      "culturalNotes": [
+        "اردو اخلاقیات میں براہِ راست حکم دینے کے بجائے 'آپ کو ایسا کرنا چاہیے' کہنا کمال درجے کی شائستگی مانا جاتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"گھر\":",
+          "prompt": "مؤنث اسم «مدد» کے ساتھ چاہیے کا فصیح جملہ کیا ہوگا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («کمرہ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («باورچی خانہ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («کھڑکی» کی خرابی)"
+            "ہمیں غریبوں کی مدد کرنی چاہیے (We ought to help the poor - Correct feminine infinitive agreement with madad)",
+            "ہمیں مدد کرنا چاہیے (تذکیر کی غلطی)",
+            "ہمیں مدد کیا تھا (ماضی)",
+            "ہمیں مدد کرو (غیر معیاری)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "لفظ 'مدد' مؤنث ہے، اس لیے مصدر «کرنی چاہیے» آئے گا۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"گھر\":",
+          "prompt": "چاہیے کے جملوں میں فاعل کے ساتھ کون سا پرسرگ آنا لازمی ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («باورچی خانہ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («کھڑکی» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («کمرہ» کا غیر درست استعمال)"
+            "کو (Ko - Dative postposition required on the logical subject with chaahiye)",
+            "نے (ارگیٹو)",
+            "سے (آلہ)",
+            "پر (مقام)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "چاہیے کی ساخت میں فاعل ہمیشہ 'کو' کے ساتھ مفعولی حالت میں آتا ہے (جیسے: آپ کو، مجھے)۔"
         }
       ]
     },
@@ -3819,17 +3828,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"گھر\": Which sentence is completely correct?",
+          "prompt": "لفظ 'چاہیے' کی نحوی ساخت (Obligation Syntax) کا درست جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («کھڑکی» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («کمرہ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («باورچی خانہ» سے متعلق)"
+            "ہر انسان کو اپنے اساتذہ اور والدین کا دل سے احترام کرنا چاہیے۔ (Every human ought to respect their teachers and parents [ehtiram karna chaahiye] from the heart.)",
+            "انسان نے احترام کرنا چاہیے تھا اور رویا۔",
+            "چاہیے کا مطلب صرف بازار سے چائے خریدنا ہے۔",
+            "کو کو فاعل سے دس لفظ پہلے لکھنا چاہیے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«ہر انسان کو اپنے اساتذہ اور والدین کا دل سے احترام کرنا چاہیے۔» چاہیے کی نحوی ساخت کا بالکل درست اور فصیح جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u9-l2": {
@@ -3837,53 +3847,62 @@
     "subject": "urdu",
     "unit": 9,
     "lessonNumber": 2,
-    "title": "ضرورت اور وجوب: چاہیے کی ساختیں (Obligation with چاہیے) (Part 2)",
+    "title": "اسم کی ضرورت کے لیے 'چاہیے' اور جمع کے لیے 'چاہئیں' (Noun Requirement & Plural چاہئیں)",
     "level": "A2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 9.2) with authentic precision.",
+    "objective": "مطلوبہ اشیاء کی ضرورت کے اظہار اور واحد شے کے لیے 'چاہیے' بمقابلہ جمع اشیاء کے لیے 'چاہئیں' کے فرق پر مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں کسی شے کی ضرورت کے لیے «چاہیے» اور «چاہئیں» کے قواعد:\n\n1. **مطلوبہ شے کی ضرورت (Needing a Noun)**:\n   - فاعل کو + مطلوبہ شے + **چاہیے / چاہئیں**؛\n\n2. **واحد بمقابلہ جمع کا فرق**:\n   - **واحد شے کے لیے «چاہیے»**:\n     - «مجھے ایک نیا **قلم چاہیے**»؛\n     - «احمد کو ایک معلوماتی **کتاب چاہیے**»؛\n   - **جمع اشیاء کے لیے «چاہئیں»**:\n     - «طلبہ کو امتحانات کے لیے کچھ نئی **کتابیں چاہئیں**»؛\n     - «ہسپتال کو جدید **آلات چاہئیں**»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "تحقیقی مقالہ مکمل کرنے کے لیے مجھے لائبریری سے چند نایاب کتابیں اور تاریخی نقشے چاہئیں۔",
+          "reading": "Tehqeeqi maqaala mukammal karne ke liye mujhe library se chand naayaab kitaabein aur taareekhi naqshay chaahein. [t̪əɦqiːqiː məqaːlaː mʊkəmːəl kərneː keː lɪjeː mʊdʒʰeː laːɪbreːriː seː tʃənd̪ naːjaːb kɪt̪aːbẽː ɔːr t̪aːriːxiː nəqʃeː tʃaːɦĩː] (tuhh-qee-QEE muh-QAH-lah moo-kuhm-MUHL kuhr-NAY kay lee-AY MOOJ-hay library say CHUHND nah-YAHB kee-tah-BAYN owr tah-REE-khee nuhq-SHAY chah-HEEN)",
+          "translation": "To complete the research paper, I need several rare books and historical maps [plural objects -> chaahein] from the library."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 9-2)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "اس ہسپتال میں مریضوں کے بہتر علاج کے لیے جدید طبی آلات اور ماہر ڈاکٹرز چاہئیں۔",
+          "reading": "Is haspataal mein mareezon ke behtar ilaaj ke liye jadeed tibbi aalaat aur maahir doctors chaahein. [ɪs həspət̪aːl mẽː məriːzõː keː bɛɦt̪ər ɪlaːdʒ keː lɪjeː dʒəd̪iːd̪ t̪ɪbːiː aːlaːt̪ ɔːr maːɦɪr ɖɔːkʈərz tʃaːɦĩː] (EES huhs-puh-TAHL mayn muh-ree-ZOHN kay BYH-tuhr ee-LAHJ kay lee-AY juh-DEED teeb-BEE ah-LAHT owr MAH-heer doctors chah-HEEN)",
+          "translation": "Modern medical equipment and expert doctors are needed in this hospital for better treatment of patients."
+        },
+        {
+          "target": "مسافر کو سفر کے دوران صرف ایک چھوٹا سفری بیگ اور ضروری ادویات چاہئیں۔",
+          "reading": "Musaafir ko safar ke dauraan sirf ek chhota safari bag aur zaroori adwiyaat chaahein. [mʊsaːfɪr koː səfər keː d̪ɔːraːn sɪrf eːk tʃʰoːʈaː səfəriː bɛːɡ ɔːr zəruːriː əd̪ʋɪjaːt̪ tʃaːɦĩː] (moo-sah-FEER koh suh-FUHR kay dow-RAHN SEERF AYK chhoh-TAH suh-fuh-REE bag owr zuh-ROO-ree uhd-vee-YAHT chah-HEEN)",
+          "translation": "During the journey, the traveler needs only a small travel bag and essential medicines."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "واحد و جمع قاعدہ: ایک قلم (چاہیے)، دس کتابیں (چاہئیں)!"
+      ],
+      "culturalNotes": [
+        "اردو شائستگی میں ضرورت کا اظہار کرتے وقت 'مجھے دیجیے' کے بجائے 'مجھے درکار ہے' یا 'چاہیے' کہنا زیادہ باوقار سمجھا جاتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"کمرہ\":",
+          "prompt": "جمع اسم «کتابیں» کے ساتھ کون سا لفظ درست ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («باورچی خانہ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («کھڑکی» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («دروازہ» کی خرابی)"
+            "چاہئیں (Chaahein - Plural form of chaahiye agreeing with plural noun kitaabein)",
+            "چاہیے (واحد صیغہ)",
+            "چاہتا تھا (ماضی)",
+            "چاہیں گے (مستقبل)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "جمع اسم کے ساتھ فصیح اردو میں نون غنہ والا صیغہ «چاہئیں» بولا جاتا ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"کمرہ\":",
+          "prompt": "واحد اسم «قلم» کے ساتھ ضرورت کا درست جملہ کیا بنے گا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («کھڑکی» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («دروازہ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («باورچی خانہ» کا غیر درست استعمال)"
+            "مجھے ایک نیا قلم چاہیے (I need a new pen - Correct singular noun agreement with chaahiye)",
+            "مجھے قلم چاہئیں (جمع کی غلطی)",
+            "مجھے قلم چاہا (غیر فصیح)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "واحد اسم 'قلم' کے ساتھ «چاہیے» درست ہے۔"
         }
       ]
     },
@@ -3891,17 +3910,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"کمرہ\": Which sentence is completely correct?",
+          "prompt": "اسم کی ضرورت اور جمع صیغے 'چاہئیں' کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («دروازہ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («باورچی خانہ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («کھڑکی» سے متعلق)"
+            "اس نئے اسکول کی تعمیر مکمل کرنے کے لیے ہمیں لائق اساتذہ اور جدید سائنسی تجربہ گاہیں چاہئیں۔ (To complete this new school, we need competent teachers and modern science laboratories [chaahein].)",
+            "ہمیں اساتذہ چاہیے تھا اور پانی پیتا تھا۔",
+            "چاہئیں کا لفظ صرف شاعری میں گایا جاتا ہے۔",
+            "جمع کے ساتھ ہمیشہ چاہیے ہی لکھنا چاہیے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«اس نئے اسکول کی تعمیر مکمل کرنے کے لیے ہمیں لائق اساتذہ اور جدید سائنسی تجربہ گاہیں چاہئیں۔» چاہئیں کا بالکل فصیح جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u9-l3": {
@@ -3909,53 +3929,62 @@
     "subject": "urdu",
     "unit": 9,
     "lessonNumber": 3,
-    "title": "ضرورت اور وجوب: چاہیے کی ساختیں (Obligation with چاہیے) (Part 3)",
+    "title": "ماضی کا پچھتاوا اور وجوبِ فوت شدہ: 'چاہیے تھا / چاہیے تھی' (Past Regret & Obligation)",
     "level": "A2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 9.3) with authentic precision.",
+    "objective": "ماضی میں فوت شدہ ذمہ داری اور حسرت (چاہیے تھا / چاہیے تھی / چاہیے تھے / چاہیے تھیں) میں تذکیر و تانیث کی مطابقت سمجھنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں ماضی کے وجوب اور حسرت (Past Obligation & Regret: Should have done) کے قواعد:\n\n1. **ماضی کے وجوب کا مفہوم**:\n   - وہ کام جو ماضی میں کرنا لازم تھا مگر نہ کیا گیا، جس پر اب پچھتاوا یا حسرت کا اظہار مقصود ہو۔\n\n2. **مفعول کے مطابق مطابقت کے اصول**:\n   - **مذکر واحد مفعول**: «آپ کو وقت پر **آنا چاہیے تھا**»، «احمد کو **خط لکھنا چاہیے تھا**»؛\n   - **مؤنث واحد مفعول**: «آپ کو یہ **کتاب پڑھنی چاہیے تھی**»؛\n   - **مذکر جمع مفعول**: «انہیں اپنے **واجبات ادا کرنے چاہیے تھے**»؛\n   - **مؤنث جمع مفعول**: «طالبات کو یہ **نظمیں یاد کرنی چاہیے تھیں**»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "آپ کو بارش شروع ہونے سے پہلے ہی محفوظ مقام پر پہنچ جانا چاہیے تھا۔",
+          "reading": "Aap ko baarish shuroo hone se pehle hi mehfooz maqaam par pohanch jaana chaahiye tha. [aːp koː baːrɪʃ ʃʊruːʔ hoːneː seː pɛɦleː hiː mɛɦfuːz məqaːm pər pɔɦʊntʃ dʒaːnaː tʃaːhɪjeː t̪ʰaː] (AHP koh BAH-reesh shoo-ROO hoh-NAY say PYH-lay HEE muhh-FOOZ muh-QAHM puhr poh-HOONCH jah-NAH chah-hee-YAY THAH)",
+          "translation": "You ought to have reached a safe place before the rain started."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 9-3)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "احمد کو اس اہم اور حساس معاملے پر اپنے بزرگوں سے مشورہ کر لینا چاہیے تھا۔",
+          "reading": "Ahmad ko is aham aur hassaas maamlay par apne buzurgon se mashwara kar lena chaahiye tha. [əɦməd̪ koː ɪs əɦəm ɔːr həsaːs maːmleː pər əpneː bʊzʊrɡõː seː məʃʋərəh kər leːnaː tʃaːhɪjeː t̪ʰaː] (UH-muhd koh EES UH-huhm owr huhs-SAHS mahm-LAY puhr uhp-NAY boo-zoor-GOHN say muhsh-vuh-RUH kuhr lay-NAH chah-hee-YAY THAH)",
+          "translation": "Ahmad ought to have consulted his elders on this important and sensitive matter."
+        },
+        {
+          "target": "ہمیں وقت کی نزاکت کا احساس کرتے ہوئے یہ سنہری موقع ہرگز نہیں گنوانا چاہیے تھا۔",
+          "reading": "Hamein waqt ki nazaakat ka ehsaas kartay hue yeh sunehri mauqa hargiz nahin ganwaana chaahiye tha. [həmẽː ʋəqt̪ kiː nəzaːqət̪ kaː eːɦsaːs kərt̪eː hʊeː jɛɦ sʊnɛɦriː mɔːqaː hərɡɪz nəɦĩː ɡənʋaːnaː tʃaːhɪjeː t̪ʰaː] (huh-MAYN VUHKT kee nuh-zah-QUHT kah ayh-SAHS kuhr-TAY hoo-AY YEH soo-NYH-ree MOW-qah HUHR-geez nuh-HEEN guhn-vah-NAH chah-hee-YAY THAH)",
+          "translation": "Realizing the delicacy of the moment, we ought not to have lost this golden opportunity at all."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "ماضی وجوب: جانا چاہیے تھا (مذکر)، پڑھنی چاہیے تھی (مؤنث)، ادا کرنے چاہیے تھے (جمع)!"
+      ],
+      "culturalNotes": [
+        "اردو شاعری اور اخلاقی نثر میں 'چاہیے تھا' کا صیغہ زندگی کے ضائع شدہ مواقع پر گہرے فلسفیانہ پچھتاوے کی عکاسی کرتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"باورچی خانہ\":",
+          "prompt": "مؤنث مفعول «کتاب» کے ساتھ ماضی وجوب کا درست صیغہ کیا ہوگا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («کھڑکی» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («دروازہ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («میز» کی خرابی)"
+            "پڑھنی چاہیے تھی (Parhni chaahiye thee - Feminine past obligation concord)",
+            "پڑھنا چاہیے تھا (مذکر صیغہ)",
+            "پڑھنے چاہیے تھے (جمع مذکر)",
+            "پڑھنی چاہیے (حال)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "مؤنث اسم 'کتاب' کے ساتھ ماضی وجوب «پڑھنی چاہیے تھی» درست ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"باورچی خانہ\":",
+          "prompt": "مذکر جمع مفعول «اسباق» کے ساتھ ماضی وجوب کا کون سا صیغہ آئے گا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («دروازہ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («میز» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («کھڑکی» کا غیر درست استعمال)"
+            "یاد کرنے چاہیے تھے (Yaad karnay chaahiye thay - Masculine plural past obligation)",
+            "یاد کرنا چاہیے تھا (واحد مذکر)",
+            "یاد کرنی چاہیے تھی (مؤنث واحد)",
+            "یاد کرنی چاہیے تھیں (مؤنث جمع)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "مذکر جمع اسم 'اسباق' کے ساتھ «یاد کرنے چاہیے تھے» درست ہے۔"
         }
       ]
     },
@@ -3963,17 +3992,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"باورچی خانہ\": Which sentence is completely correct?",
+          "prompt": "ماضی کے وجوب اور پچھتاوے (Past Obligation & Regret) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («میز» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («کھڑکی» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («دروازہ» سے متعلق)"
+            "ڈرائیور کو دھند کے دوران گاڑی کی رفتار انتہائی دھیمی رکھنی چاہیے تھی تاکہ حادثے سے بچا جا سکتا۔ (The driver ought to have kept the vehicle speed very slow [raftaar dheemi rakhni chaahiye thee - feminine] during fog.)",
+            "ڈرائیور کو رفتار دھیما رکھنا چاہیے تھا اور الٹ گئی۔",
+            "چاہیے تھا صرف گرمیوں میں بولا جاتا ہے۔",
+            "تھی کو ہمیشہ فاعل سے پہلے لگانا چاہیے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«ڈرائیور کو دھند کے دوران گاڑی کی رفتار انتہائی دھیمی رکھنی چاہیے تھی تاکہ حادثے سے بچا جا سکتا۔» ماضی کے وجوب کا مکمل اور مستند جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u9-l4": {
@@ -3981,53 +4011,62 @@
     "subject": "urdu",
     "unit": 9,
     "lessonNumber": 4,
-    "title": "ضرورت اور وجوب: چاہیے کی ساختیں (Obligation with چاہیے) (Part 4)",
+    "title": "نفی اور ممانعت: 'نہیں چاہیے' اور 'نہیں چاہیے تھا' (Negative Obligation)",
     "level": "A2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 9.4) with authentic precision.",
+    "objective": "حال اور ماضی میں منفی وجوب (نہیں کرنا چاہیے / نہیں کرنا چاہیے تھا) کے شائستہ اور اثر انگیز اسلوب پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں منفی وجوب (Negative Obligation & Prohibition) کے قواعد:\n\n1. **حال کی نفی (Should not do)**:\n   - فاعل کو + **نہیں** + مصدر + **چاہیے**:\n     - «انسان کو تکبر **نہیں کرنا چاہیے**»؛\n     - «کسی کے جذبات کو مجروح **نہیں کرنا چاہیے**»۔\n\n2. **ماضی کی نفی اور سرزنش (Should not have done)**:\n   - فاعل کو + **نہیں** + مصدر + **چاہیے تھا / تھی / تھے**:\n     - «آپ کو اتنی جلدی بازی میں یہ فیصلہ **نہیں کرنا چاہیے تھا**»؛\n     - «ہمیں کسی بے گناہ پر الزام **نہیں لگانا چاہیے تھا**»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "کسی بھی معزز شہری کو بغیر ٹھوس ثبوت کے کسی پر الزام تراشی نہیں کرنی چاہیے۔",
+          "reading": "Kisi bhi mo'azzaz shehri ko baghair thos saboot ke kisi par ilzaam-taraashi nahin karni chaahiye. [kɪsiː bʱiː mʊʔəzːəz ʃɛɦriː koː bəɣɛːr t̪ʰoːs səbuːt̪ keː kɪsiː pər ɪlzaːm-t̪əraːʃiː nəɦĩː kərniː tʃaːhɪjeː] (kee-SEE bhee moo-uhz-ZUHZ SHYH-ree koh buh-GHYR THOHS suh-BOOT kay kee-SEE puhr eel-zahm-tuh-RAH-shee nuh-HEEN kuhr-NEE chah-hee-YAY)",
+          "translation": "No respectable citizen ought to level accusations [feminine object] against anyone without solid proof."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 9-4)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "آپ کو اتنے اہم اور نازک مسئلے پر بغیر سوچے سمجھے کوئی فوری بیان نہیں دینا چاہیے تھا۔",
+          "reading": "Aap ko itnay aham aur naazuk mas'alay par baghair sochay samjhay koi fauri bayaan nahin dena chaahiye tha. [aːp koː ɪt̪neː əɦəm ɔːr naːzʊk məsʔəleː pər bəɣɛːr soːtʃeː səmdʒʱeː koːiː fɔːriː bəjaːn nəɦĩː d̪eːnaː tʃaːhɪjeː t̪ʰaː] (AHP koh eet-NAY UH-huhm owr nah-ZOOK muhs-uh-LAY puhr buh-GHYR soh-CHAY suhm-JHAY koh-EE FOW-ree buh-YAHN nuh-HEEN day-NAH chah-hee-YAY THAH)",
+          "translation": "You ought not to have given any hasty statement on such an important and sensitive issue without thinking."
+        },
+        {
+          "target": "ہمیں امتحانات کے نازک دنوں میں سوشل میڈیا پر اپنا قیمتی وقت بالکل ضائع نہیں کرنا چاہیے۔",
+          "reading": "Hamein imtehaanaat ke naazuk dinon mein social media par apna qeemti waqt bilkul zaaya nahin karna chaahiye. [həmẽː ɪmt̪ɪhaːnaːt̪ keː naːzʊk d̪ɪnõː mẽː soːʃəl miːɖɪjaː pər əpnaː qiːmt̪iː ʋəqt̪ bɪlkʊl zaːjəʔ nəɦĩː kərnaː tʃaːhɪjeː] (huh-MAYN eem-tuh-hah-NAHT kay nah-ZOOK dee-NOHN mayn social media puhr uhp-NAH QEEM-tee VUHKT beel-KOOL zah-YUH nuh-HEEN kuhr-NAH chah-hee-YAY)",
+          "translation": "We ought not to waste our valuable time at all on social media during the crucial days of examinations."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "منفی وجوب: نہیں کرنا چاہیے (حال کی نصیحت)، نہیں کرنا چاہیے تھا (ماضی کا پچھتاوا)!"
+      ],
+      "culturalNotes": [
+        "اردو میں سخت ممانعت یا تنبیہ کے بجائے 'آپ کو ایسا نہیں کرنا چاہیے تھا' کہنا باوقار اور بااثر سرزنش کا شائستہ انداز ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"کھڑکی\":",
+          "prompt": "ماضی میں غلط فیصلے پر شائستہ تنبیہ کا کون سا جملہ درست ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («دروازہ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («میز» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («کرسی» کی خرابی)"
+            "آپ کو ایسا فیصلہ نہیں کرنا چاہیے تھا (You ought not to have made such a decision - Polite past negative obligation)",
+            "آپ نے ایسا فیصلہ مت کیا (غیر معیاری)",
+            "آپ کو ایسا فیصلہ نہیں چاہیے (موجودہ شے کی نفی)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "ماضی کے منفی وجوب کے لیے «نہیں کرنا چاہیے تھا» بالکل درست ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"کھڑکی\":",
+          "prompt": "حال میں اخلاقی ممانعت کے لیے کون سا جملہ فصیح ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («میز» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («کرسی» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («دروازہ» کا غیر درست استعمال)"
+            "کسی کا دل نہیں دکھانا چاہیے (One ought not to hurt anyone's heart - Correct present negative obligation)",
+            "کسی کا دل مت دکھانا تھا (بے جوڑ)",
+            "کسی کا دل نہیں دکھایا (ماضی مطلق)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«کسی کا دل نہیں دکھانا چاہیے» اخلاقی ممانعت کا بہترین جملہ ہے۔"
         }
       ]
     },
@@ -4035,17 +4074,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"کھڑکی\": Which sentence is completely correct?",
+          "prompt": "منفی وجوب اور اخلاقی ممانعت (Negative Obligation) کا مستند جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («کرسی» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («دروازہ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («میز» سے متعلق)"
+            "کسی بھی باوقار انسان کو اپنے ذاتی مفاد کے لیے قومی مفادات پر سمجھوتہ نہیں کرنا چاہیے۔ (No dignified person ought to compromise national interests for personal gain [samjhauta nahin karna chaahiye].)",
+            "انسان کو قومی مفاد پر سمجھوتہ مت کرتا تھا۔",
+            "منفی وجوب صرف جیل کے اندر بولا جاتا ہے۔",
+            "نہیں کو ہمیشہ جملے کے بالکل آخر میں لگانا چاہیے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«کسی بھی باوقار انسان کو اپنے ذاتی مفاد کے لیے قومی مفادات پر سمجھوتہ نہیں کرنا چاہیے۔» منفی وجوب کا مکمل اور جامع جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u9-l5": {
@@ -4053,53 +4093,62 @@
     "subject": "urdu",
     "unit": 9,
     "lessonNumber": 5,
-    "title": "ضرورت اور وجوب: چاہیے کی ساختیں (Obligation with چاہیے) (Part 5)",
+    "title": "اخلاقی و سماجی وجوب کا جامع سمیکن و ادبی انطباق (Obligation & Ethics Grand Synthesis)",
     "level": "A2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 9.5) with authentic precision.",
+    "objective": "چاہیے، چاہئیں، چاہیے تھا/تھی اور منفی وجوب کو ایک کثیر الجملاتی اخلاقی و سماجی منشور میں فصاحت سے یکجا کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اخلاقی و سماجی وجوب کا عظیم الشان سمیکن (Grand Synthesis):\n\n1. **اخلاقی و سماجی منشور (Moral & Social Manifesto)**:\n   - **حال کا وجوب**: «ہمیں باہمی احترام کو فروغ دینا **چاہیے**»؛\n   - **اسم کی جمع ضرورت**: «ہمیں باصلاحیت اور مخلص رہنما **چاہئیں**»؛\n   - **ماضی کی حسرت و عبرت**: «ہمیں ماضی کی کوتاہیوں پر غور **کرنا چاہیے تھا**»؛\n   - **منفی وجوب**: «ہمیں اصولوں پر سمجھوتہ **نہیں کرنا چاہیے**»۔\n\n2. **ادبی و تحریری وقار**:\n   - یہ تمام ساختیں مل کر اردو کے اداریوں، خطبات اور اخلاقی مضامین کو پرتاثیر اور لافانی بناتی ہیں۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "اگر ہم ایک مثالی اور پرامن معاشرہ تشکیل دینا چاہتے ہیں تو ہمیں باہمی احترام کو فروغ دینا چاہیے، ماضی کی کوتاہیوں پر غور کرنا چاہیے تھا اور ہر شہری کو اپنے فرائض کا احساس ہونا چاہیے۔",
+          "reading": "Agar hum ek misaali aur pur-amn muaashra tashkeel dena chaahte hain to hamein baahami ehtiraam ko farogh dena chaahiye, maazi ki kotaahiyon par ghaur karna chaahiye tha aur har shehri ko apne faraaiz ka ehsaas hona chaahiye. [əɡər həm eːk mɪsaːliː ɔːr pʊr-əmn mʊʔaːʃraː t̪əʃkiːl d̪eːnaː tʃaːɦt̪eː hɛ̃ː t̪oː həmẽː baːɦəmiː eːɦt̪ɪraːm koː fəroːɣ d̪eːnaː tʃaːhɪjeː maːziː kiː koːt̪aːhɪjõː pər ɣɔːr kərnaː tʃaːhɪjeː t̪ʰaː ɔːr hər ʃɛɦriː koː əpneː fəraːʔɪz kaː eːɦsaːs hoːnaː tʃaːhɪjeː] (UH-guhr HOOM AYK mee-SAH-lee owr poor-UHMN moo-AHSH-rah tuhsh-KEEL day-NAH chah-huht-TAY hyhn toh huh-MAYN bah-huh-MEE ayh-tee-RAHM koh fuh-ROHGH day-NAH chah-hee-YAY, MAH-zee kee koh-tah-hee-YOHN puhr GHOWR kuhr-NAH chah-hee-YAY THAH owr HUHR SHYH-ree koh uhp-NAY fuh-rah-EEZ kah ayh-SAHS hoh-NAH chah-hee-YAY)",
+          "translation": "If we wish to build an ideal and peaceful society, we ought to promote mutual respect, we ought to have reflected on past shortcomings, and every citizen ought to feel their duties."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 9-5)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "تعلیمی اداروں کی اصلاح کے لیے ہمیں قابل اساتذہ اور جدید تحقیقی وسائل چاہئیں تاکہ ہماری نئی نسل دنیا کا مقابلہ کر سکے۔",
+          "reading": "Ta'leemi idaaron ki islaah ke liye hamein qaabil asaatiza aur jadeed tehqeeqi wasaail chaahein taake hamaari nayi nasal dunya ka muqaabla kar sakay. [t̪əʔliːmiː ɪd̪aːrõː kiː ɪslaːh keː lɪjeː həmẽː qaːbɪl əsaːt̪ɪzaː ɔːr dʒəd̪iːd̪ t̪əɦqiːqiː ʋəsaːʔɪl tʃaːɦĩː t̪aːkɪ həm-aːriː nəjiː nəsl d̪ʊnjaː kaː mʊqaːbəlaː kər səkeː] (tuh-LEE-mee ee-dah-ROHN kee ees-LAHH kay lee-AY huh-MAYN QAH-beel uh-sah-tee-ZAH owr juh-DEED tuhh-qee-QEE vuh-sah-EEL chah-HEEN tah-KAY huh-mah-REE nuh-YEE NUH-suhl doon-YAH kah moo-qah-buh-LAH kuhr suh-KAY)",
+          "translation": "For the reform of educational institutions, we need competent teachers and modern research resources so that our new generation can compete with the world."
+        },
+        {
+          "target": "ہمیں ہمیشہ حق اور سچائی کا ساتھ دینا چاہیے اور کسی بھی ظالم کے خوف سے اپنے بنیادی اصولوں پر سمجھوتہ نہیں کرنا چاہیے۔",
+          "reading": "Hamein hamesha haqq aur sachchaai ka saath dena chaahiye aur kisi bhi zaalim ke khauf se apne bunyaadi usoolon par samjhauta nahin karna chaahiye. [həmẽː həm-eːʃaː hʌqː ɔːr sətʃːaːiː kaː saːt̪ʰ d̪eːnaː tʃaːhɪjeː ɔːr kɪsiː bʱiː zaːlɪm keː xɔːf seː əpneː bʊnjaːd̪iː ʊsuːlõː pər səmdʒʱɔːt̪aː nəɦĩː kərnaː tʃaːhɪjeː] (huh-MAYN huh-MAY-shah HUHQQ owr suhch-chah-EE kah sahth day-NAH chah-hee-YAY owr kee-SEE bhee ZAH-leem kay KHOWF say uhp-NAY boon-yah-DEE oo-SOO-lohn puhr suhm-jhow-TAH nuh-HEEN kuhr-NAH chah-hee-YAY)",
+          "translation": "We ought always to stand with truth and righteousness, and ought not to compromise our fundamental principles out of fear of any oppressor."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "جامع وجوب: فروغ دینا چاہیے (حال)، وسائل چاہئیں (جمع ضرورت)، سمجھوتہ نہیں کرنا چاہیے (منفی وجوب)!"
+      ],
+      "culturalNotes": [
+        "اردو کے قومی مفکرین (جیسے سر سید احمد خان اور علامہ اقبال) کی نثری تحریروں میں وجوب کی یہ ساختیں قوم کی فکری بیداری کا زبردست وسیلہ ثابت ہوئیں۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"دروازہ\":",
+          "prompt": "اخلاقی منشور میں حال کے وجوب اور جمع کی ضرورت کے امتزاج کا فصیح جملہ کیا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («میز» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («کرسی» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بستر» کی خرابی)"
+            "ہمیں محنت کرنی چاہیے اور اچھے وسائل چاہئیں (We ought to work hard and we need good resources - Harmonious combination of obligation and plural noun requirement)",
+            "ہمیں محنت کرنا چاہئیں اور وسائل چاہیے تھا (بے جوڑ غلطیاں)",
+            "ہم نے محنت کی تھی (ماضی بعید)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«ہمیں محنت کرنی چاہیے اور اچھے وسائل چاہئیں» وجوب اور ضرورت کا بہترین اور فصیح جملہ ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"دروازہ\":",
+          "prompt": "اخلاقی و سماجی وجوب کے جامع سمیکن کا بنیادی مقصد کیا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («کرسی» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بستر» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («میز» کا غیر درست استعمال)"
+            "فرد اور معاشرے کی اخلاقی اصلاح اور فصیح طرزِ بیان کا فروغ (Moral reform of individual and society with eloquent expression)",
+            "صرف زبانی بحث و تکرار",
+            "صرف پرانی یادیں تازہ کرنا",
+            "بے معنی جملے بنانا"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "اس کا مقصد معاشرتی اصلاح اور اخلاقی شعور کو فصیح پیرائے میں اجاگر کرنا ہے۔"
         }
       ]
     },
@@ -4107,17 +4156,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"دروازہ\": Which sentence is completely correct?",
+          "prompt": "اخلاقی و سماجی وجوب کے جامع سمیکن (Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («بستر» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («میز» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («کرسی» سے متعلق)"
+            "ہمیں علم کی قدر کرنی چاہیے، سچائی کا پرچم بلند رکھنا چاہیے اور کسی بھی لالچ میں آ کر اپنے ضمیر کا سودا نہیں کرنا چاہیے۔ (We ought to value knowledge [qadr karni chaahiye], keep high the banner of truth [buland rakhna chaahiye], and never sell our conscience [sauda nahin karna chaahiye] out of any greed.)",
+            "ہمیں علم کی قدر کرنا چاہئیں اور ضمیر بیچ دیا تھا۔",
+            "جامع سمیکن صرف پانی پینے کو کہتے ہیں۔",
+            "چاہیے کو صرف فارسی کتاب میں لکھنا چاہیے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«ہمیں علم کی قدر کرنی چاہیے، سچائی کا پرچم بلند رکھنا چاہیے اور کسی بھی لالچ میں آ کر اپنے ضمیر کا سودا نہیں کرنا چاہیے۔» اخلاقی وجوب کے جامع سمیکن کا شاہکار اور مستند جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u10-l1": {
