@@ -12653,85 +12653,62 @@
     "subject": "amharic",
     "unit": 28,
     "lessonNumber": 1,
-    "title": "የኢትዮጵያ ባህላዊ ሥነ-ጥበብ እና ሥነ-ህንፃ (Art & Architecture) (ክፍል 1)",
+    "title": "የአብያተ ክርስቲያናት ጥንታዊ ስዕሎች እና የብርሃነ-ስዕል ጥበብ (Church Frescoes & Manuscript Illumination)",
     "level": "C1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የጥንታዊ አብያተ ክርስቲያናት ሥዕሎች፣ የድንጋይ ውቅር ህንፃዎች ጥበብ። (ክፍል 1)።",
+    "objective": "የኢትዮጵያን ጥንታዊ የስዕል ጥበብ፣ የብራና መጻሕፍት ብርሃነ-ስዕላትንና የሰዓሊያን ስልትን መተንተን።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የኢትዮጵያ ጥንታዊ የስዕል እና የብርሃነ-ስዕል ጥበብ መዋቅር:\n\n፩. የጥበቡ መሰረቶች:\n- ስዕል፣ ሰዓሊ፣ ምስል፣ ብርሃነ-ስዕል እና የብራና ጽሑፍ።\n- ባህላዊ ቀለሞች (ከዕፅዋትና ከማዕድናት የሚዘጋጁ የተፈጥሮ ቀለማት)።\n\n፪. ዋና ባህሪያት:\n- የኢትዮጵያ ጥንታዊ ስዕሎች ትላልቅ ዓይኖች፣ ግልጽ መስመሮችና ብሩህ ቀለማት ያላቸው ሲሆን በመንፈሳዊ ታሪኮችና በቅዱሳን ገድላት ዙሪያ ያተኩራሉ።",
       "examples": [
         {
-          "target": "መምህሩ የ«የኢትዮጵያ ባህላዊ ሥነ-ጥበብ እና ሥነ-ህንፃ (Art & Architecture)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (28.1.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የኢትዮጵያ ባህላዊ ሥነ-ጥበብ እና ሥነ-ህንፃ (Art & Architecture)' to the students."
+          "target": "ጥንታዊው ሰዓሊ በብራና መጽሐፉ ላይ የተፈጥሮ ቀለማትን ተጠቅሞ ድንቅ ብርሃነ-ስዕል ሳለ።",
+          "reading": "T’əntawiw sä'ali bäbəranna mäts’əhafu lay yätäfät’ro qälämatən tät’äqəmo dənq bərəhanä-sə'əl salä. [tʼɨntaˈwiw sɛʔaˈli bɛbɨrˈanːa mɛtsʼɨˈhafu laj jɛtɛfɛtʼˈro kʼɛlɛmaˈtɨn tɛtʼɛkʼɨˈmo dɨnkʼ bɨrhaˈnɛsɨʔɨl saˈlɛ] (t'un-tah-WEEW seh-ah-LEE beh-bur-AHN-nah meh-ts'uh-HAH-foo lye yeh-teh-fet'-ROH k'eh-leh-mah-TUN tet'-ek'-uh-MOH dunk' bur-hah-neh-SUH-ul sah-LEH)",
+          "translation": "Using natural pigments, the ancient painter illustrated a magnificent manuscript illumination upon the parchment book."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (28.1.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "በአብያተ ክርስቲያናት ግድግዳዎች ላይ የተሳሉት ስዕሎች የኢትዮጵያን የጥበብ ታሪክ እና መንፈሳዊ እሴት ያንጸባርቃሉ።",
+          "reading": "Bä'abyatä krəstiyanat gədəggəddawočč lay yätäsalut sə'əločč yä'Ityop’əyan yät’əbäb tarik ənna mänfäsawi əset yants’äbarəqallu. [bɛʔabjaˈtɛ krɨstiˈjanat ɡɨdɨɡːɨdːaˈwotʃː laj jɛtɛsaˈlut sɨʔɨˈlotʃː jɛʔitjoˈpʼɨjan jɛtʼɨˈbɛb taˈrik ʔɨnːa mɛnfɛsaˈwi ʔɨˈset jantsʼɛbaˈrɨkʼalːu] (beh-ahb-yah-TEH kris-tee-yah-NAHT guh-dug-guh-dah-WOHCH lye yeh-teh-sah-LOOT suh-ul-OHCH yeh-eet-yoh-P'EE-yahn yeh-t'uh-BEB tah-REEK un-nah men-feh-sah-WEE uh-SAYT yahn-ts'eh-bah-ruh-k'ahl-LOO)",
+          "translation": "The murals painted upon church walls reflect Ethiopia's artistic history and spiritual value."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (28.1.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (28.1.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "የኢትዮጵያ ስነ-ስዕል በዓለም አቀፍ ሙዚየሞች ውስጥ ታላቅ አድናቆት የተቸረው ብርቅዬ ቅርስ ነው።",
+          "reading": "Yä'Ityop’əya sənä-sə'əl bä'aläm aqäf muziyämočč wəsət’ talaq adənaqot yätäčärräw bərəqəye qərs näw. [jɛʔitjoˈpʼɨja sɨnɛsɨˈʔɨl bəʔaˈlɛm ʔaˈkʼɛf muziˈjɛmotʃː wɨstʼ taˈlakʼ ʔadɨnaˈkʼot jɛtɛtʃɛrːɛw bɨrɨkʼɨˈje kʼɨrs nɛw] (yeh-eet-yoh-P'EE-yah suh-neh-SUH-ul beh-ah-LEM ah-K'EF moo-zee-yeh-MOHCH woos-T' tah-LAHK' ahd-nah-K'OHT yeh-teh-cher-REW bur-uk'-uh-YAY k'urs new)",
+          "translation": "Ethiopian painting is a rare heritage bestowed with great admiration within international museums."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Iconography: ስዕል (Painting) + ሰዓሊ (Artist) + ብርሃነ-ስዕል (Illumination) + ብራና (Parchment)!"
+      ],
+      "culturalNotes": [
+        "የኢትዮጵያ የጥንት ሰዓሊያን ቀለማትን ከአፈር፣ ከቅጠላቅጠልና ከእንቁላል አስኳል በማዋሃድ ለዘመናት የማይለወጥ ዘላቂ ቀለም ያዘጋጁ ነበር።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የኢትዮጵያ ባህላዊ ሥነ-ጥበብ እና ሥነ-ህንፃ (Art & Architecture)» (ክፍል 1) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "በብራና መጻሕፍት ላይ የተሳለውን ጥንታዊ የብርሃን እና የኪነ-ጥበብ ስራ ምን ብለን እንጠራዋለን?",
           "options": [
-            "መምህሩ የ«የኢትዮጵያ ባህላዊ ሥነ-ጥበብ እና ሥነ-ህንፃ (Art & Architecture)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (28.1.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (28.1.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (28.1.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (28.1.w3)"
+            "ብርሃነ-ስዕል (Manuscript illumination / icon miniature)",
+            "ጋዜጣ",
+            "መስታወት",
+            "ሰዓት"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ብርሃነ-ስዕል» በጥንታዊ የብራና መጻሕፍት ውስጥ የሚሳል ረቂቅና ያጌጠ መንፈሳዊ ስዕል ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u28-l1) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Painting, drawing' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (28.1.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (28.1.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (28.1.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (28.1.x3)"
+            "ስዕል (Painting, visual artwork)",
+            "ዘፈን",
+            "ዳንስ",
+            "ሩጫ"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የኢትዮጵያ ባህላዊ ሥነ-ጥበብ እና ሥነ-ህንፃ (Art & Architecture)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (28.1.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (28.1.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (28.1.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (28.1.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ስዕል» በቀለማትና በመስመሮች የሚገለጽ የእይታ ጥበብ ነው።"
         }
       ]
     },
@@ -12739,24 +12716,24 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 28-1):",
+          "prompt": "የጥንታዊ ስዕል እና የብራና ኪነ-ጥበብ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (28.1.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (28.1.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (28.1.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (28.1.z3)"
+            "ስዕል፣ ሰዓሊ፣ ብርሃነ-ስዕል፣ ብራና፣ ቀለማት እና ምስል።",
+            "ድንጋይ፣ አሸዋ፣ ሲሚንቶ እና ብረት።",
+            "እንጀራ፣ ወጥ፣ ቅቤ እና በርበሬ።",
+            "በኢትዮጵያ የስዕል ጥበብ አልነበረም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የስነ-ስዕል እና የብርሃነ-ስዕል መሰረታዊ ቃላትን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u28-l1) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የኢትዮጵያ»):",
+          "prompt": "'ስዕል / Painting, artwork' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የኢትዮጵያ",
-            "የኢትዮጵያ"
+            "ስዕል",
+            "ሥዕል"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የኢትዮጵያ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ስዕል» ወይም «ሥዕል» (Sə'əl) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -12767,85 +12744,62 @@
     "subject": "amharic",
     "unit": 28,
     "lessonNumber": 2,
-    "title": "የኢትዮጵያ ባህላዊ ሥነ-ጥበብ እና ሥነ-ህንፃ (Art & Architecture) (ክፍል 2)",
+    "title": "የድንጋይ ውቅር እና የላሊበላ ውቅር አብያተ ክርስቲያናት (Rock-Hewn Architecture & Lalibela Monoliths)",
     "level": "C1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የጥንታዊ አብያተ ክርስቲያናት ሥዕሎች፣ የድንጋይ ውቅር ህንፃዎች ጥበብ። (ክፍል 2)።",
+    "objective": "የላሊበላን ከአንድ ወጥ አለት የተፈለፈሉ ውቅር አብያተ ክርስቲያናት የምህንድስና እና የኪነ-ህንፃ ጥበብ መተንተን።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የላሊበላ ውቅር አብያተ ክርስቲያናት እና የድንጋይ ጥበብ መዋቅር:\n\n፩. የኪነ-ህንፃው ምስጢር:\n- ላሊበላ (የ፲፪ኛው መቶ ክፍለ ዘመን ንጉሥና ቅዱስ)\n- ውቅር (Rock-hewn / monolithic chiseled structure)\n- ከአንድ ወጥ አለት (From a single monolithic volcanic rock)።\n\n፪. ዋና ምሳሌዎች:\n- ቤተ ጊዮርጊስ፣ ቤተ መድኃኔዓለም፣ ቤተ ማርያም (በአለም ዙሪያ አስደናቂ የምህንድስና ድንቅ ተብለው የተመዘገቡ ቅርሶች)።",
       "examples": [
         {
-          "target": "መምህሩ የ«የኢትዮጵያ ባህላዊ ሥነ-ጥበብ እና ሥነ-ህንፃ (Art & Architecture)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (28.2.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የኢትዮጵያ ባህላዊ ሥነ-ጥበብ እና ሥነ-ህንፃ (Art & Architecture)' to the students."
+          "target": "የላሊበላ ውቅር አብያተ ክርስቲያናት ከአንድ ወጥ አለት ተፈልፍለው የታነጹ ዓለም አቀፍ የኪነ-ህንፃ ድንቆች ናቸው።",
+          "reading": "YäLalibäla wəqər abyatä krəstiyanat kä'and wät’ alät täfälfəläw yätanäts’u aläm aqäf yäkinä-hənts’a dənqočč naččäw. [jɛlalibɛˈla wɨˈkʼɨr ʔabjaˈtɛ krɨstiˈjanat kɛʔand wɛtʼ ʔaˈlɛt tɛfɛlˈfɨlɛw jɛtaˈnɛtsʼu ʔaˈlɛm ʔaˈkʼɛf jɛkinɛhɨnˈtsʼa dɨnˈkʼotʃː naˈtʃːɛw] (yeh-lah-lee-beh-LAH wuh-K'UR ahb-yah-TEH kris-tee-yah-NAHT keh-AHND wet' ah-LET teh-fel-fuh-LEW yeh-tah-neh-TS'OO ah-LEM ah-K'EF yeh-kee-neh-hun-TS'AH dun-K'OHCH nahch-CHEW)",
+          "translation": "The rock-hewn churches of Lalibela, carved from a single monolithic rock, are international wonders of architecture."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (28.2.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ቤተ ጊዮርጊስ የመስቀል ቅርጽ ያለው ሆኖ ከላይ ወደ ታች በመቆፈር የተሰራ አስደናቂ ህንፃ ነው።",
+          "reading": "Betä Giyorgis yämäsqäl qərts’ yalläw hono kälay wädä tačč bämäqqofär yätäsärra asdännaqi hənts’a näw. [beˈtɛ ɡiˈjorɡis jɛmɛsˈkʼɛl kʼɨrtsʼ jalːɛw hoˈno kɛˈlaj wɛdɛ tatʃː bɛmɛkʼːoˈfɛr jɛtɛsɛrːa ʔasdɛnːaˈkʼi hɨnˈtsʼa nɛw] (bay-TEH gee-yor-GEES yeh-mes-K'EL k'ur-TS' yahl-LEW hoh-NOH keh-LYE weh-deh TAHCH beh-mek'-k'oh-FER yeh-teh-ser-RAH ahs-den-nah-K'EE hun-TS'AH new)",
+          "translation": "Bete Giyorgis is an astonishing structure shaped like a cross and constructed by excavating from top to bottom."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (28.2.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (28.2.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "የኢትዮጵያ ጥንታዊ መሃንዲሶች ያለ ምንም ሲሚንቶ አለትን በመቅረጽ ዘላለማዊ ድንቅ ስራ አቆሙ።",
+          "reading": "Yä'Ityop’əya t’əntawi mähändisočč yalä mənnəm siminto alätən bämäqräts’ zälalämawi dənq səra aqomu. [jɛʔitjoˈpʼɨja tʼɨntaˈwi mɛhandiˈsotʃː jaˈlɛ mɨnːɨm siˈminto ʔaˈlɛtɨn bɛmɛkʼˈrɛtsʼ zɛlalɛmaˈwi dɨnkʼ sɨˈra ʔaˈkʼomu] (yeh-eet-yoh-P'EE-yah t'un-tah-WEE meh-hahn-dee-SOHCH yah-LEH muhn-NUM see-meen-TOH ah-LEH-tun beh-mek'-REH-ts' zeh-lah-leh-mah-WEE dunk' suh-RAH ah-k'oh-MOO)",
+          "translation": "Ancient Ethiopian engineers erected an eternal masterpiece by sculpting rock without any cement."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Lalibela Wonders: ላሊበላ (King Lalibela) + ውቅር (Hewn) + ወጥ አለት (Monolith) + ኪነ-ህንፃ (Architecture)!"
+      ],
+      "culturalNotes": [
+        "ላሊበላ በዩኔስኮ የዓለም ቅርስነት የተመዘገበ ሲሆን በአስራ ሁለተኛው መቶ ክፍለ ዘመን ዳግማዊት እየሩሳሌም ተብላ የታነጸች የተቀደሰች ከተማ ናት።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የኢትዮጵያ ባህላዊ ሥነ-ጥበብ እና ሥነ-ህንፃ (Art & Architecture)» (ክፍል 2) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "ከአንድ ወጥ አለት ተፈልፍለው የተሰሩትን አስራ አንዱን ውቅር አብያተ ክርስቲያናት ያነጹት ንጉሥ ማን ናቸው?",
           "options": [
-            "መምህሩ የ«የኢትዮጵያ ባህላዊ ሥነ-ጥበብ እና ሥነ-ህንፃ (Art & Architecture)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (28.2.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (28.2.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (28.2.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (28.2.w3)"
+            "ቅዱስ ላሊበላ (King Saint Lalibela - Creator of the 12th-century rock-hewn monolithic churches)",
+            "ቴዎድሮስ",
+            "ዮሐንስ",
+            "ምኒልክ"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "ቅዱስ ላሊበላ በ፲፪ኛው መቶ ክፍለ ዘመን ታላላቆቹን ውቅር አብያተ ክርስቲያናት ያነጹ ንጉሥ ናቸው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u28-l2) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Rock-hewn, carved from rock' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (28.2.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (28.2.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (28.2.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (28.2.x3)"
+            "ውቅር (Rock-hewn, monolithic structure)",
+            "እንጨት",
+            "ፕላስቲክ",
+            "ጭቃ"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የኢትዮጵያ ባህላዊ ሥነ-ጥበብ እና ሥነ-ህንፃ (Art & Architecture)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (28.2.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (28.2.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (28.2.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (28.2.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ውቅር» ከአለት ወይም ከድንጋይ ተፈልፍሎ የተሰራ ህንፃን የሚያመለክት ቃል ነው።"
         }
       ]
     },
@@ -12853,24 +12807,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 28-2):",
+          "prompt": "የላሊበላን እና የድንጋይ ውቅር ኪነ-ህንፃ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (28.2.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (28.2.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (28.2.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (28.2.z3)"
+            "ላሊበላ፣ ውቅር፣ ወጥ አለት፣ ቤተ ጊዮርጊስ፣ ኪነ-ህንፃ እና መሃንዲስ።",
+            "ሸሚዝ፣ ሱሪ፣ ካልሲ እና ጫማ።",
+            "መኪና፣ ባቡር፣ አውሮፕላን እና ጀልባ።",
+            "በላሊበላ ውቅር ህንፃ የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የላሊበላን ውቅር ኪነ-ህንፃ መሰረታዊ ቃላት በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u28-l2) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የኢትዮጵያ»):",
+          "prompt": "'ውቅር / Rock-hewn, monolithic structure' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የኢትዮጵያ",
-            "የኢትዮጵያ"
+            "ውቅር"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የኢትዮጵያ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ውቅር» (Wəqər) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -12881,85 +12834,62 @@
     "subject": "amharic",
     "unit": 28,
     "lessonNumber": 3,
-    "title": "የኢትዮጵያ ባህላዊ ሥነ-ጥበብ እና ሥነ-ህንፃ (Art & Architecture) (ክፍል 3)",
+    "title": "የፋሲል ግቢ እና የጎንደር ስነ-መንግስት ህንፃዎች (Fasil Ghebbi & Gondarine Castles)",
     "level": "C1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የጥንታዊ አብያተ ክርስቲያናት ሥዕሎች፣ የድንጋይ ውቅር ህንፃዎች ጥበብ። (ክፍል 3)።",
+    "objective": "የጎንደር ግንቦችን፣ የፋሲል ግቢን ቤተ-መንግስታት እና የ፲፯ኛው መቶ ክፍለ ዘመን የድንጋይ ኪነ-ህንፃ መተንተን።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የፋሲል ግቢ እና የጎንደር ግንቦች መዋቅር:\n\n፩. የጎንደር ስልጣኔ:\n- ፋሲል ግቢ (The Royal Enclosure of Gondar)\n- አፄ ፋሲለደስ (የ፲፯ኛው መቶ ክፍለ ዘመን ንጉሥ)\n- ግንብ እና ቤተ-መንግስት (Castles, fortresses & palaces)።\n\n፪. የህንፃዎቹ አሰራር:\n- በኖራ፣ በአሸዋና በጠጠር የተገነቡ ባለ ሁለትና ባለ ሶስት ፎቅ ታሪካዊ ግንቦች፣ አብያተ-መንግስታት እና የፋሲል መዋኛ ገንዳ።",
       "examples": [
         {
-          "target": "መምህሩ የ«የኢትዮጵያ ባህላዊ ሥነ-ጥበብ እና ሥነ-ህንፃ (Art & Architecture)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (28.3.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የኢትዮጵያ ባህላዊ ሥነ-ጥበብ እና ሥነ-ህንፃ (Art & Architecture)' to the students."
+          "target": "የፋሲል ግቢ ግንቦች የጎንደርን የስነ-መንግስት ጥበብ እና የህንፃ ምህንድስና ከፍታ ያሳያሉ።",
+          "reading": "YäFasil gəbbi gənbočč yäGondärən yäsənä-mängəsət t’əbäb ənna yähənts’a məhəndəsənna kəffəta yasäyyallu. [jɛfaˈsil ɡɨbːi ɡɨnˈbotʃː jɛɡonˈdɛrɨn jɛsɨnɛmɛnˈɡɨsɨt tʼɨˈbɛb ʔɨnːa jɛhɨnˈtsʼa mɨhɨndɨˈsɨnːa kɨfːɨˈta jasɛjːaˈlːu] (yeh-fah-SEEL guhb-bee gun-BOHCH yeh-gohn-DEH-run yeh-suh-neh-men-guh-SUT t'uh-BEB un-nah yeh-hun-TS'AH muh-hun-duh-sun-NAH kuf-fuh-TAH yah-seh-yahl-LOO)",
+          "translation": "The castles of Fasil Ghebbi demonstrate the peak of Gondar's imperial art and architectural engineering."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (28.3.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "አፄ ፋሲለደስ ከተማይቱን የኢትዮጵያ ቋሚ ዋና ከተማ አድርገው በመሰየም ታላላቅ ግንቦችን አሳነጹ።",
+          "reading": "As’e Fasilädäs kätämaytun yä'Ityop’əya qwami wana kätäma adrəgäw bämässäyäm talaq gənboččən asanäts’u. [ʔatsʼe fasilɛˈdɛs kɛtɛmajˈtun jɛʔitjoˈpʼɨja kʼʷaˈmi waˈna kɛtɛˈma ʔadrɨˈɡɛw bɛmɛsːɛˈjɛm taˈlakʼ ɡɨnˈbotʃːɨn ʔasaˈnɛtsʼu] (ah-ts'ay fah-see-leh-DES keh-teh-mye-TOON yeh-eet-yoh-P'EE-yah k'wah-MEE wah-NAH keh-teh-MAH ahd-ruh-GEW beh-mes-seh-YEM tah-LAHK' gun-bohch-CHUN ah-sah-neh-TS'OO)",
+          "translation": "Emperor Fasilides designated the city as Ethiopia's permanent capital and commissioned great castles."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (28.3.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (28.3.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "በፋሲል መዋኛ ገንዳ ውስጥ የሚከበረው የጥምቀት በዓል በዓለም አቀፍ ደረጃ የታወቀ ባህላዊ መስህብ ነው።",
+          "reading": "BäFasil mäwanya gända wəsət’ yämmikkäbbäräw yäT’əmqät bä'al bä'aläm aqäf däräğa yätawwäqä bahəlawi məshəb näw. [bɛfaˈsil mɛwaˈɲa ɡɛnˈda wɨstʼ jɛmːikːɛbːɛˈrɛw jɛtʼɨmˈkʼɛt bɛʔal bəʔaˈlɛm ʔaˈkʼɛf dɛrɛˈdʒa jɛtawːɛˈkʼɛ bahɨlaˈwi mɨsˈhɨb nɛw] (beh-fah-SEEL meh-wahn-YAH gen-DAH woos-T' yem-mik-keb-beh-REW yeh-t'um-K'ET beh-AHL beh-ah-LEM ah-K'EF deh-reh-JAH yeh-tow-weh-K'EH bah-huh-lah-WEE mus-HUB new)",
+          "translation": "The Timkat celebration held at Fasilides' Bath is an internationally recognized cultural attraction."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Gondar Fortresses: ፋሲል ግቢ (Royal Enclosure) + ግንብ (Castle) + ፋሲለደስ (Emperor Fasilides) + ጎንደር (Gondar)!"
+      ],
+      "culturalNotes": [
+        "የፋሲል ግቢ ግንቦች የኢትዮጵያን ባህላዊ የስነ-ህንፃ ዘዴዎች ከፖርቹጋልና ከህንድ ስነ-ህንፃ ቅይጥ ጋር በማጣመር የተገነቡ ድንቅ ቤተ-መንግስታት ናቸው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የኢትዮጵያ ባህላዊ ሥነ-ጥበብ እና ሥነ-ህንፃ (Art & Architecture)» (ክፍል 3) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "በ፲፯ኛው መቶ ክፍለ ዘመን በጎንደር ከተማ ታላቁን የፋሲል ግቢ ቤተ-መንግስት ያስገነቡት ንጉሥ ማን ናቸው?",
           "options": [
-            "መምህሩ የ«የኢትዮጵያ ባህላዊ ሥነ-ጥበብ እና ሥነ-ህንፃ (Art & Architecture)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (28.3.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (28.3.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (28.3.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (28.3.w3)"
+            "አፄ ፋሲለደስ (Emperor Fasilides - Founder of the Gondar imperial capital and castles)",
+            "ቴዎድሮስ",
+            "ሱሰኒዮስ",
+            "ኢያሱ"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "አፄ ፋሲለደስ በ1636 ዓ.ም ጎንደርን ዋና ከተማ አድርገው በመሰየም የፋሲል ግቢ ግንቦችን አሳንጸዋል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u28-l3) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Castle, stone fortress' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (28.3.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (28.3.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (28.3.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (28.3.x3)"
+            "ግንብ (Castle, stone masonry fortress)",
+            "ድንኳን",
+            "ጎጆ",
+            "ጀልባ"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የኢትዮጵያ ባህላዊ ሥነ-ጥበብ እና ሥነ-ህንፃ (Art & Architecture)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (28.3.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (28.3.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (28.3.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (28.3.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ግንብ» ከድንጋይና ከኖራ በከፍተኛ ጥንካሬ የሚገነባ ታሪካዊ ቤተ-መንግስት ወይም ምሽግ ነው።"
         }
       ]
     },
@@ -12967,24 +12897,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 28-3):",
+          "prompt": "የፋሲል ግቢ እና የጎንደር ግንቦችን ቃላት በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (28.3.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (28.3.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (28.3.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (28.3.z3)"
+            "ፋሲል ግቢ፣ አፄ ፋሲለደስ፣ ግንብ፣ ቤተ-መንግስት፣ ቅጥር እና ጎንደር።",
+            "ወተት፣ ቅቤ፣ እርጎ እና አይብ።",
+            "ወረቀት፣ እስክሪብቶ እና ላጲስ።",
+            "በጎንደር ምንም ግንብ የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የጎንደር እና የፋሲል ግቢ ታሪካዊ ቃላትን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u28-l3) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የኢትዮጵያ»):",
+          "prompt": "'ግንብ / Castle, stone fortress' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የኢትዮጵያ",
-            "የኢትዮጵያ"
+            "ግንብ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የኢትዮጵያ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ግንብ» (Gənb) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -12995,85 +12924,62 @@
     "subject": "amharic",
     "unit": 28,
     "lessonNumber": 4,
-    "title": "የኢትዮጵያ ባህላዊ ሥነ-ጥበብ እና ሥነ-ህንፃ (Art & Architecture) (ክፍል 4)",
+    "title": "የሐረር ጁጎል እና ባህላዊ የመኖሪያ ቤቶች (Harar Jugol & Vernacular Architecture)",
     "level": "C1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የጥንታዊ አብያተ ክርስቲያናት ሥዕሎች፣ የድንጋይ ውቅር ህንፃዎች ጥበብ። (ክፍል 4)።",
+    "objective": "የሐረር ጁጎልን ግንብ፣ የጌይ ጋር ባህላዊ ቤቶችን፣ የእደ-ጥበብና የከተማ ኪነ-ህንፃን መተንተን።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የሐረር ጁጎል እና ባህላዊ ቤቶች መዋቅር:\n\n፩. የጁጎል ቅጥር:\n- ጁጎል (The Historic Wall of Harar)\n- አምስቱ ታሪካዊ በሮች (The five historic gates)\n- አሚር ኑር (የጁጎልን ግንብ ያስገነቡ መሪ)።\n\n፪. ባህላዊ የጌይ ጋር ቤቶች:\n- ጌይ ጋር (Traditional Harari house with unique interior platforms / Gidir Tiqet)\n- ያጌጡ ግድግዳዎች፣ ሸክላዎችና ባህላዊ ሰፌዶች።",
       "examples": [
         {
-          "target": "መምህሩ የ«የኢትዮጵያ ባህላዊ ሥነ-ጥበብ እና ሥነ-ህንፃ (Art & Architecture)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (28.4.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የኢትዮጵያ ባህላዊ ሥነ-ጥበብ እና ሥነ-ህንፃ (Art & Architecture)' to the students."
+          "target": "የሐረር ጁጎል ቅጥር ከተማዋን ለዘመናት ከጥቃት የጠበቀ እና በዩኔስኮ የተመዘገበ ታሪካዊ ቅርስ ነው።",
+          "reading": "YäHarär Ğugol qət’ər kätämawan läzämänat kät’əqat yät’äbbäqä ənna bäYunesko yätämäzzägäbä tarikawi qərs näw. [jɛhaˈrɛr dʒuˈɡol kʼɨˈtʼɨr kɛtɛmaˈwan ləzɛmɛˈnat kɛtʼɨˈkʼat jɛtʼɛbːɛˈkʼɛ ʔɨnːa bɛjunesˈko jɛtɛmɛzːɛˈɡɛbɛ taˈrikawi kʼɨrs nɛw] (yeh-hah-RER joo-GOHL k'uh-T'UR keh-teh-mah-WAHN luh-zeh-meh-NAHT keh-t'uh-K'AHT yeh-t'eb-beh-K'EH un-nah beh-yoo-nes-KOH yeh-teh-mez-zeg-EH-beh tah-ree-KAH-wee k'urs new)",
+          "translation": "The Jugol wall of Harar is a historical heritage registered by UNESCO that protected the city from assault for centuries."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (28.4.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "በባህላዊው የጌይ ጋር ቤት ውስጥ የተሰደሩት ሰፌዶች እና የሸክላ እቃዎች ልዩ የውበት ድባብ ይፈጥራሉ።",
+          "reading": "Bäbahəlawiw yäGey Gar bet wəsət’ yätäsäddärut säfedočč ənna yäšäkla əqawočč ləyyu yäwəbät dəbab yəfät’rallu. [bɛbahɨlaˈwiw jɛɡej ɡar bet wɨstʼ jɛtɛsɛdːɛˈrut sɛfeˈdotʃː ʔɨnːa jɛʃɛkˈla ʔɨkʼaˈwotʃː lɨjːu jɛwɨˈbɛt dɨˈbab jɨfɛtʼˈralːu] (beh-bah-huh-lah-WEEW yeh-GAY GAHR bay-T woos-T' yeh-teh-sed-deh-ROOT seh-fay-DOHCH un-nah yeh-shek-LAH uh-k'ah-WOHCH luhy-YOO yeh-wuh-BET duh-BAHB yuh-fet'-RAHL-loo)",
+          "translation": "The woven baskets and ceramic utensils arranged inside the traditional Gey Gar house create a distinct aesthetic ambiance."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (28.4.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (28.4.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "የሐረር ከተማ አምስቱ በሮች የንግድ፣ የባህል እና የእስልምና ትምህርት መተላለፊያ ሆነው አገልግለዋል።",
+          "reading": "YäHarär kätäma amməstu bäročč yänəgəd, yäbahəl ənna yä'Əsələmənna təməhərt mättälaläfiya honäw agälgəlwallu. [jɛhaˈrɛr kɛtɛˈma ʔamːɨsˈtu bɛˈrotʃː jɛnɨˈɡɨd jɛbaˈhɨl ʔɨnːa jɛʔɨsɨlɨmɨnːa tɨmɨˈhɨrt mɛtːalaˈlɛfija hoˈnɛw ʔaɡɛlɡɨlˈwalːu] (yeh-hah-RER keh-teh-MAH ahm-mus-TOO beh-ROHCH yeh-nuh-GUD, yeh-bah-HUL un-nah yeh-us-luh-mun-NAH tuh-muh-hur-T met-tah-lah-leh-FEE-yah hoh-NEW ah-gel-gul-WAHL-loo)",
+          "translation": "The five gates of Harar city served as passageways for commerce, culture, and Islamic scholarship."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Harar Architecture: ጁጎል (Historic Wall) + አምስት በሮች (5 Gates) + ጌይ ጋር (Traditional House) + ሐረር (Harar)!"
+      ],
+      "culturalNotes": [
+        "ሐረር ጁጎል አራተኛዋ የተቀደሰች የእስልምና ከተማ ተብላ የምትታወቅ እና በርካታ መስጊዶችንና ባህላዊ ቤቶችን ያቀፈች የታሪክ ማዕከል ናት።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የኢትዮጵያ ባህላዊ ሥነ-ጥበብ እና ሥነ-ህንፃ (Art & Architecture)» (ክፍል 4) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "የሐረር ከተማን ከበባ የያዘውና በዩኔስኮ የተመዘገበው ጥንታዊ ግንብ ምን ይባላል?",
           "options": [
-            "መምህሩ የ«የኢትዮጵያ ባህላዊ ሥነ-ጥበብ እና ሥነ-ህንፃ (Art & Architecture)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (28.4.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (28.4.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (28.4.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (28.4.w3)"
+            "ጁጎል (Jugol - The historic fortified wall of Harar)",
+            "ፋሲል",
+            "ላሊበላ",
+            "አክሱም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ጁጎል» የሐረርን ጥንታዊ ከተማ የከበበ አምስት በሮች ያሉት ታሪካዊ ግንብ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u28-l4) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "የሐረሪ ባህላዊ የመኖሪያ ቤት ምን ተብሎ ይጠራል?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (28.4.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (28.4.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (28.4.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (28.4.x3)"
+            "ጌይ ጋር (Gey Gar - Traditional Harari vernacular house)",
+            "ፎቅ ብቻ",
+            "ጎጆ ብቻ",
+            "ድንኳን"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የኢትዮጵያ ባህላዊ ሥነ-ጥበብ እና ሥነ-ህንፃ (Art & Architecture)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (28.4.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (28.4.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (28.4.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (28.4.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ጌይ ጋር» ልዩ የስነ-ህንፃ ጥበብና ውስጣዊ ጌጦች ያሉት ባህላዊ የሐረር ቤት ነው።"
         }
       ]
     },
@@ -13081,24 +12987,24 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 28-4):",
+          "prompt": "የሐረር ጁጎልን እና ባህላዊ ኪነ-ህንፃን ቃላት በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (28.4.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (28.4.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (28.4.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (28.4.z3)"
+            "ሐረር፣ ጁጎል፣ አምስቱ በሮች፣ ጌይ ጋር፣ ቅጥር እና እደ-ጥበብ።",
+            "ጫማ፣ ካልሲ፣ ኮት እና ጃኬት።",
+            "ብርቱካን፣ ሙዝ፣ ማንጎ እና ፓፓያ።",
+            "በሐረር ግንብ የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የሐረር ጁጎልን እና ባህላዊ ቤቶችን ቃላት በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u28-l4) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የኢትዮጵያ»):",
+          "prompt": "'ጁጎል / Jugol, historic fortified wall' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የኢትዮጵያ",
-            "የኢትዮጵያ"
+            "ጁጎል",
+            "ጀጎል"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የኢትዮጵያ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ጁጎል» ወይም «ጀጎል» (Ğugol) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -13109,85 +13015,62 @@
     "subject": "amharic",
     "unit": 28,
     "lessonNumber": 5,
-    "title": "የኢትዮጵያ ባህላዊ ሥነ-ጥበብ እና ሥነ-ህንፃ (Art & Architecture) (ክፍል 5)",
+    "title": "የክፍል 28 አጠቃላይ ማጠቃለያ (Unit 28 Grand Synthesis & Ethiopian Architectural Masterpieces)",
     "level": "C1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የጥንታዊ አብያተ ክርስቲያናት ሥዕሎች፣ የድንጋይ ውቅር ህንፃዎች ጥበብ። (ክፍል 5)።",
+    "objective": "ጥንታዊ ስዕሎችን፣ የላሊበላ ውቅር አብያተ ክርስቲያናትን፣ የፋሲል ግንቦችንና የሐረር ጁጎልን ያቀናጀ የተሟላ የስነ-ህንፃ ውይይት ማካሄድ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የክፍል ፳፰ አጠቃላይ የኢትዮጵያ ኪነ-ጥበብ እና ስነ-ህንፃ ቅርስ ማጠቃለያ:\n\n፩. ስነ-ስዕልና ብርሃነ-ስዕል:\n- ስዕል፣ ሰዓሊ፣ ብራና፣ ብርሃነ-ስዕል፣ የተፈጥሮ ቀለማት።\n\n፪. የድንጋይ ውቅር ህንፃዎች:\n- ላሊበላ፣ ወጥ አለት፣ ውቅር አብያተ ክርስቲያናት፣ ቤተ ጊዮርጊስ።\n\n፫. የድንጋይ ግንቦች:\n- ፋሲል ግቢ፣ አፄ ፋሲለደስ፣ ጎንደር፣ ቤተ-መንግስት።\n\n፬. የተመሸጉ ከተሞችና ባህላዊ ቤቶች:\n- ሐረር ጁጎል፣ አምስቱ በሮች፣ ጌይ ጋር፣ ቅጥር።",
       "examples": [
         {
-          "target": "መምህሩ የ«የኢትዮጵያ ባህላዊ ሥነ-ጥበብ እና ሥነ-ህንፃ (Art & Architecture)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (28.5.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የኢትዮጵያ ባህላዊ ሥነ-ጥበብ እና ሥነ-ህንፃ (Art & Architecture)' to the students."
+          "target": "የኢትዮጵያ ስነ-ህንፃ እና ኪነ-ጥበብ በላሊበላ ውቅር፣ በፋሲል ግንቦች፣ በሐረር ጁጎልና በብራና ስዕሎች የደመቀ ነው።",
+          "reading": "Yä'Ityop’əya sənä-hənts’a ənna kinä-t’əbäb bäLalibäla wəqər, bäFasil gənbočč, bäHarär Ğugol ənna bäbəranna sə'əločč yädämmäqä näw. [jɛʔitjoˈpʼɨja sɨnɛhɨnˈtsʼa ʔɨnːa kinɛtʼɨˈbɛb bɛlalibɛˈla wɨˈkʼɨr bɛfaˈsil ɡɨnˈbotʃː bɛhaˈrɛr dʒuˈɡol ʔɨnːa bɛbɨrˈanːa sɨʔɨˈlotʃː jɛdɛmːɛˈkʼɛ nɛw] (yeh-eet-yoh-P'EE-yah suh-neh-hun-TS'AH un-nah kee-neh-t'uh-BEB beh-lah-lee-beh-LAH wuh-K'UR, beh-fah-SEEL gun-BOHCH, beh-hah-RER joo-GOHL un-nah beh-bur-AHN-nah suh-ul-OHCH yeh-dem-meh-K'EH new)",
+          "translation": "Ethiopia's architecture and art are resplendent in Lalibela's rock-hewn monoliths, Fasil's castles, Harar's Jugol, and manuscript paintings."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (28.5.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ጥንታዊያን መሃንዲሶች እና ሰዓሊያን ዘመናትን የሚሻገሩ አስደናቂ ቅርሶችን ለትውልድ አውርሰዋል።",
+          "reading": "T’əntawəyan mähändisočč ənna sä'aliyan zämänatən yämmiššagäru asdännaqi qərsoččən lätəwəld awrəsäwal. [tʼɨntaˈwɨjan mɛhandiˈsotʃː ʔɨnːa sɛʔaliˈjan zɛmɛˈnatɨn jɛmːiʃːaˈɡɛru ʔasdɛnːaˈkʼi kʼɨrˈsotʃːɨn lətɨˈwɨld ʔawwɨrˈsɛwal] (t'un-tah-wuh-YAHN meh-hahn-dee-SOHCH un-nah seh-ah-lee-YAHN zeh-meh-nah-TUN yem-mish-shah-GEH-roo ahs-den-nah-K'EE k'ur-SOHCH-chun luh-tuh-WULD ow-ruh-SEH-wahl)",
+          "translation": "Ancient engineers and painters bequeathed magnificent monuments transcending the ages unto posterity."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (28.5.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (28.5.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "የኢትዮጵያን ታሪካዊ ቅርሶች መጠበቅ እና ማስተዋወቅ የሁሉም ዜጎች ሀገራዊ ሀላፊነት ነው።",
+          "reading": "Yä'Ityop’əyan tarikawi qərsočč mät’t’äbäq ənna mastäwawäq yähullum zegočč hagärawi halafinnät näw. [jɛʔitjoˈpʼɨjan taˈrikawi kʼɨrˈsotʃː mɛtʼːɛˈbɛkʼ ʔɨnːa mastɛwaˈwɛkʼ jɛhulːum zeˈɡotʃː haɡɛraˈwi halaˈfinːɛt nɛw] (yeh-eet-yoh-P'EE-yahn tah-ree-KAH-wee k'ur-SOHCH met'-t'eh-BEK' un-nah mahs-teh-wah-WEK' yeh-hool-LOOM zay-GOHCH hah-geh-rah-WEE hah-lah-FEEN-net new)",
+          "translation": "Preserving and promoting Ethiopia's historic monuments is the national responsibility of all citizens."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Grand Synthesis 28: Art (ብርሃነ-ስዕል) + Monoliths (ላሊበላ) + Castles (ፋሲል ግቢ) + Fortified Walls (ሐረር ጁጎል)!"
+      ],
+      "culturalNotes": [
+        "የኢትዮጵያ ስነ-ህንፃ ቅርሶች የአፍሪካን ታላቅ የስልጣኔ ታሪክ እና የሰው ልጅ የፈጠራ ችሎታ ለዓለም የሚያረጋግጡ ዓለም አቀፍ ሀብቶች ናቸው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የኢትዮጵያ ባህላዊ ሥነ-ጥበብ እና ሥነ-ህንፃ (Art & Architecture)» (ክፍል 5) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "ከሚከተሉት ውስጥ የተሟላ የኢትዮጵያ ስነ-ህንፃ እና የስነ-ጥበብ ውህደትን የያዘው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«የኢትዮጵያ ባህላዊ ሥነ-ጥበብ እና ሥነ-ህንፃ (Art & Architecture)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (28.5.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (28.5.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (28.5.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (28.5.w3)"
+            "የኢትዮጵያ ስነ-ህንፃ እና ኪነ-ጥበብ በላሊበላ ውቅር፣ በፋሲል ግንቦች፣ በሐረር ጁጎልና በብራና ስዕሎች የደመቀ ነው። (Complete architectural synthesis combining Lalibela, Fasil Ghebbi, Harar Jugol, and manuscript illumination)",
+            "ምንም ቅርስ የለም",
+            "ሁሉም ተራ ቃላት ናቸው",
+            "ህንፃ የለም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "ይህ አማራጭ ላሊበላን፣ ፋሲል ግቢን፣ ሐረር ጁጎልንና ስነ-ስዕልን በአንድነት ያጠቃለለ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u28-l5) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "ኪነ-ህንፃን እና ታሪካዊ ቅርሶችን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (28.5.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (28.5.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (28.5.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (28.5.x3)"
+            "ጎብኚዎቹ የላሊበላን ውቅር አብያተ ክርስቲያናት እና የፋሲል ግንቦችን በጥልቀት ተመለከቱ። (The visitors closely observed the rock-hewn churches of Lalibela and the castles of Fasil - Accurate unified sentence)",
+            "ምንም እይታ አልነበረም",
+            "ግንብ የለም",
+            "ውቅር የለም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የኢትዮጵያ ባህላዊ ሥነ-ጥበብ እና ሥነ-ህንፃ (Art & Architecture)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (28.5.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (28.5.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (28.5.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (28.5.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ይህ አማራጭ ውቅር አብያተ ክርስቲያናትን እና ታሪካዊ ግንቦችን በትክክል ያዛምዳል።"
         }
       ]
     },
@@ -13195,24 +13078,26 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 28-5):",
+          "prompt": "የክፍል 28 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (28.5.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (28.5.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (28.5.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (28.5.z3)"
+            "የአብያተ ክርስቲያናት ስዕሎች፣ የላሊበላ ውቅር ድንጋዮች፣ የፋሲል ግቢ ግንቦች፣ እንዲሁም የሐረር ጁጎል ቅጥር ተካተዋል።",
+            "ይህ ክፍል ስለ ምግብ ማብሰል ብቻ ነው።",
+            "በኢትዮጵያ ስነ-ህንፃ አልነበረም።",
+            "ሁሉም ህንፃዎች ተመሳሳይ ናቸው።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የክፍል 28ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u28-l5) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የኢትዮጵያ»):",
+          "prompt": "'ህንፃ / Building, architecture' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የኢትዮጵያ",
-            "የኢትዮጵያ"
+            "ህንፃ",
+            "ሕንፃ",
+            "ህንጻ",
+            "ሕንጻ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የኢትዮጵያ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ህንፃ» ወይም «ሕንፃ» (Hənts’a) ነው።"
         }
       ],
       "passThreshold": 0.8
