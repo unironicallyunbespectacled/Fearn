@@ -12449,56 +12449,65 @@
     "subject": "korean",
     "unit": 27,
     "lessonNumber": 1,
-    "title": "금융 시장, 부동산 계약 및 경제 분석 (Finance & Real Estate) (Part 1)",
+    "title": "은행 금융 상품과 투자 자산 운용 전문 어휘 (Banking & Investments)",
     "level": "C1",
-    "objective": "Comprehensive mastery of 금융과 부동산 경제 (Banking, Finance & Real Estate).",
+    "objective": "예금·적금의 이자 계산 방식, 대출 상환 구조(원리금 균등상환), 투자 상품의 위험 등급 및 예금자 보호법 체계를 이해하고 활용한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 금융 시장, 부동산 계약 및 경제 분석 (Finance & Real Estate) » (제1절)의 핵심 언어 요소와 금융과 부동산 경제 (Banking, Finance & Real Estate)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "금융 자산 관리 및 은행 창구 거래에서 사용되는 전문 금융 공학 및 자산 운용 어휘입니다.\n\n1. 수신(Deposit) 및 여신(Loan) 금융 어휘:\n- **정기예금(Time Deposit) vs 정기적금(Installment Savings)**: 목돈을 일정 기간 묶어두고 만기 이자를 받는 예금 vs 매월 일정액을 적립하여 목돈을 만드는 적금\n- **고정금리(Fixed Rate) vs 변동금리(Variable / Floating Rate)**: 만기까지 금리가 유지되는 방식 vs 시장 기준금리에 연동되어 주기적으로 변동하는 금리\n- **원리금 균등상환(Equal Principal & Interest Repayment)**: 대출 기간 동안 매월 원금과 이자의 합계액을 일정하게 분할 납부하는 방식\n- **원금 균등상환 vs 만기 일시상환**: 원금만 균등하게 나누어 갚는 방식 vs 만기 전까지 이자만 내다가 만기에 원금을 일시에 상환하는 방식\n\n2. 투자 상품 및 금융소비자 보호:\n- **원금 손실 위험(Risk of Principal Loss)**: 주식형 펀드, ELS 등 파생결합증권 가입 시 고지되는 필수 투자 위험\n- **수익률(Rate of Return / Yield)**: 투자 원금 대비 발생한 순이익의 백분율\n- **예금자 보호법(Depositor Protection Act)**: 금융회사 파산 시 예금보험공사가 1인당 원금과 이자를 합산하여 최고 5천만 원까지 보호하는 제도",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (27.1.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "금리 인상기에는 대출 이자 부담을 줄이기 위해 변동금리에서 고정금리 상품으로 갈아타는 대환대출 수요가 급증합니다.",
+          "reading": "Geumri insanggi-eneun daechul ija budam-eul jurigi wihae byeondonggeumri-eseo gojeonggeumri sangpum-euro garataneun daehwandaechul suyo-ga geupjeunghamnida.",
+          "translation": "During interest rate hike periods, refinancing demand to switch from floating rate to fixed rate products ('변동금리에서 고정금리 상품으로') surges to reduce loan interest burdens."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (27.1.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "본 펀드 상품은 고수익을 기대할 수 있는 반면, 시장 상황에 따라 원금 손실 위험이 발생할 수 있음을 사전 설명드렸습니다.",
+          "reading": "Bon peondeu sangpum-eun gosuyik-eul gidaehal su inneun banmyeon, sijang sanghwang-e ttara won-geum sonsil wiheom-i balsaenghal su isseum-eul sajeon seolmyeongdeuryeotseumnida.",
+          "translation": "While this fund product can expect high yields, I explained in advance that a risk of principal loss ('원금 손실 위험') may occur depending on market conditions."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (27.1.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "해당 정기적금은 예금자 보호법에 따라 1인당 원금과 소정의 이자를 합하여 최고 5천만 원까지 안전하게 보호됩니다.",
+          "reading": "Haedang jeong-gijeokgeum-eun yogeumja bohopeop-e ttara irindang won-geum-gwa sojeong-ui ija-reul haphayeo choego ocheonman won-kkaji anjeonhage bohodoemnida.",
+          "translation": "That installment savings is safely protected up to a maximum of 50 million KRW per person including principal and prescribed interest according to the Depositor Protection Act."
+        },
+        {
+          "target": "주택담보대출의 상환 방식을 원리금 균등분할상환으로 설정하여 매달 일정한 자금 지출 계획을 수립했습니다.",
+          "reading": "Jutaekdambodaechul-ui sanghwan bangsik-eul wonrigeum gyundeungbunhalsanghwan-euro seoljeonghayeo maedal iljeonghan jageum jichul gyehoek-eul suriphaetseumnida.",
+          "translation": "By setting the mortgage loan repayment method to equal principal and interest installment repayment ('원리금 균등분할상환'), I established a steady monthly expenditure plan."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "목돈 굴릴 땐 예금, 모을 땐 적금, 대출엔 원리금 균등상환, 보호 한도는 5천만 원!"
+      ],
+      "culturalNotes": [
+        "한국의 '금융소비자보호법(금소법)' 시행으로 은행과 증권사는 투자 상품 판매 시 원금 손실 위험과 수수료 구조를 6대 판매 규제 원칙에 따라 철저히 설명해야 합니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 금융과 부동산 경제 (Banking, Finance & Real Estate) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 1)?",
+          "prompt": "대출 기간 동안 매월 납부하는 원금과 이자의 합계액이 매달 동일하도록 설계된 상환 방식은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (27.1.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (27.1.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (27.1.3)."
+            "원리금 균등상환 (Equal Principal and Interest)",
+            "만기 일시상환 (Bullet Repayment at Maturity)",
+            "원금 유예상환 (Grace Period Repayment)"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "원금과 이자를 합쳐 매달 같은 금액을 납부하는 방식은 '원리금 균등상환'입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 금융 시장, 부동산 계약 및 경제 분석 (Finance & Real Estate) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 1):",
+          "prompt": "한국의 예금보험공사가 일반 금융기관 파산 시 법적으로 보장하는 1인당 최고 보호 금액은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (27.1.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (27.1.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (27.1.3)."
+            "원금과 소정의 이자를 합하여 1인당 최고 5천만 원까지",
+            "원금 전액 무제한 보호",
+            "보호 금액 한도 없음 (0원)"
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "현행 예금자 보호법상 1인당 금융기관별 최고 보호 한도는 원금과 이자를 합쳐 5천만 원입니다."
         }
       ]
     },
@@ -12506,14 +12515,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 금융과 부동산 경제 (Banking, Finance & Real Estate) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 27-1)?",
+          "prompt": "투자 원금보다 손실이 발생하여 원금을 까먹을 수 있는 가능성을 뜻하는 금융 용어는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (27.1.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (27.1.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (27.1.3)."
+            "원금 손실 위험 (Risk of Principal Loss)",
+            "원금 보장 확약 (Guarantee of Principal)",
+            "무위험 수익 (Risk-free Profit)"
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR C1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "투자로 인해 원금을 잃을 수 있는 위험을 '원금 손실 위험'이라고 합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'고정금리와 원리금 균등상환으로 대출받았어요'(I took a loan with fixed rate and equal principal-interest repayment)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "고정금리와 원리금 균등상환으로 대출받았어요.",
+            "고정금리와 원리금 균등상환으로 대출받았어요"
+          ],
+          "explanation": "고정금리와 + 원리금 균등상환으로 + 대출받았어요 = 고정금리와 원리금 균등상환으로 대출받았어요."
         }
       ]
     }
@@ -12523,56 +12541,65 @@
     "subject": "korean",
     "unit": 27,
     "lessonNumber": 2,
-    "title": "금융 시장, 부동산 계약 및 경제 분석 (Finance & Real Estate) (Part 2)",
+    "title": "한국 고유의 부동산 임대차 계약과 권리 분석 (Jeonse & Real Estate)",
     "level": "C1",
-    "objective": "Comprehensive mastery of 금융과 부동산 경제 (Banking, Finance & Real Estate).",
+    "objective": "한국 고유의 전세·월세 임대차 제도, 등기부등본 권리 분석(근저당권), 확정일자·전입신고를 통한 대항력 확보 절차를 마스터한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 금융 시장, 부동산 계약 및 경제 분석 (Finance & Real Estate) » (제2절)의 핵심 언어 요소와 금융과 부동산 경제 (Banking, Finance & Real Estate)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한국의 부동산 시장은 매월 세를 내지 않고 거액의 보증금을 맡겼다가 계약 만료 시 전액 돌려받는 독특한 **전세(Jeonse / Lump-sum Deposit Lease)** 제도가 발달해 있습니다.\n\n1. 임대차(Lease) 유형 및 핵심 계약 용어:\n- **전세(Jeonse)**: 매입가의 60~80%에 달하는 거액의 보증금을 맡기고 월세 없이 거주하는 임대차 형태\n- **월세(Monthly Rent) & 반전세(보증부 월세)**: 보증금을 낮추고 매월 차임을 지급하는 방식\n- **임대인(Lessor / 집주인) vs 임차인(Lessee / 세입자)**\n- **공인중개사(Licensed Real Estate Agent) & 중개보수(Brokerage Fee / 복비)**\n\n2. 보증금 보호와 권리 분석 필수 절차:\n- **등기부등본(Certified Real Estate Register)**: 부동산의 소유권(갑구)과 저당권·근저당권 등 부채 권리관계(을구)를 공시하는 장부\n- **근저당권(Collateral Mortgage)**: 집주인이 집을 담보로 은행에서 빌린 대출 채권\n- **대항력(Opposability)**: 주택 인도(이사) + **전입신고(Moving-in Report)** 완료 시 다음 날 0시부터 발생하는 법적 권리\n- **확정일자(Fixed Date)**: 주민센터나 법원에서 계약서에 날짜 도장을 받아 후순위 권리자보다 보증금을 먼저 배당받는 **우선변제권(Right of Preferential Payment)** 취득",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (27.2.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "전세 계약 전 반드시 등기부등본 을구를 열람하여 과도한 선순위 근저당권이 설정되어 있는지 꼼꼼히 확인해야 합니다.",
+          "reading": "Jeonse gyeyak jeon bandeusi deunggibudeungbon eulgu-reul yeollamhayeo gwadohan seonsunwi geunjeodang-gwon-i seoljeongdoeeo inneunji kkomkkomhi hwaginhaeya hamnida.",
+          "translation": "Before a Jeonse contract, you must inspect section Eul of the certified register to carefully check if excessive prior collateral mortgages ('선순위 근저당권') are established."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (27.2.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "이사 당일에 관할 주민센터를 방문하여 전입신고를 마치고 계약서에 확정일자를 받아야 소중한 보증금을 지킬 수 있습니다.",
+          "reading": "Isa dang-il-e gwanhal juminsenteo-reul bangmunhayeo jeonipsingo-reul machigo gyeyakseo-e hwakjeong-ilja-reul badaya sojunghan bojeunggeum-eul jikil su itseumnida.",
+          "translation": "On moving day, visiting the local community center to complete moving-in report ('전입신고') and receive a fixed date on the contract ('확정일자') is required to protect your precious deposit."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (27.2.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "임차인은 주택의 인도와 전입신고를 통해 제3자에게 임대차 관계를 주장할 수 있는 법적 대항력을 확보하게 됩니다.",
+          "reading": "Imchain-eun jutaek-ui indo-wa jeonipsingo-reul tonghae jesamja-ege imdaecha gwan-gye-reul jujanghal su inneun beopjeok daehangryeok-eul hwakbohaneun geos-imnida.",
+          "translation": "The tenant secures legal opposability ('법적 대항력') to assert the lease relationship against third parties through house handover and moving-in report."
+        },
+        {
+          "target": "공인중개사는 중개 대상물의 권리관계를 명확히 설명하고 법정 중개보수 요율을 준수하여 계약을 체결했습니다.",
+          "reading": "Gong-injunggaesa-neun junggae daesangmul-ui gwonrigwan-gye-reul myeonghwakhi seolmyeonghago beopjeong junggaebosu yoyul-eul junsuhayeo gyeyak-eul chegyeolhaetseumnida.",
+          "translation": "The licensed real estate agent clearly explained the rights relations of the property and concluded the contract complying with statutory brokerage fee rates."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "을구에서 근저당권 확인, 이삿날 전입신고와 확정일자로 보증금 완벽 사수!"
+      ],
+      "culturalNotes": [
+        "전세금 미반환 사고(전세 사기)를 방지하기 위해 주택도시보증공사(HUG)나 SGI서울보증의 '전세보증금 반환보증보험' 가입이 청년과 신혼부부 사이에서 필수가 되었습니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 금융과 부동산 경제 (Banking, Finance & Real Estate) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 2)?",
+          "prompt": "세입자가 집주인의 빚으로 집이 경매에 넘어갔을 때 보증금을 후순위 채권자보다 먼저 돌려받기 위해 계약서에 받아두는 관공서 도장은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (27.2.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (27.2.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (27.2.3)."
+            "확정일자 (Fixed Date)",
+            "출국일자 (Departure Date)",
+            "생년월일 (Date of Birth)"
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "주민센터에서 계약서에 받는 날짜 공증 도장을 '확정일자'라고 하며, 우선변제권을 부여합니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 금융 시장, 부동산 계약 및 경제 분석 (Finance & Real Estate) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 2):",
+          "prompt": "부동산 등기부등본에서 집주인이 은행에 진 빚(담보 대출)이나 가압류 내역을 확인할 수 있는 항목은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (27.2.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (27.2.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (27.2.3)."
+            "을구 (소유권 이외의 권리 - 근저당권, 전세권 등)",
+            "갑구 (소유권에 관한 사항)",
+            "표제부 (부동산의 소재지 및 면적)"
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "담보 대출, 근저당권 등 소유권 이외의 부채 권리관계는 '을구'에 기재됩니다."
         }
       ]
     },
@@ -12580,14 +12607,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 금융과 부동산 경제 (Banking, Finance & Real Estate) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 27-2)?",
+          "prompt": "월세 없이 목돈의 보증금을 맡겨두고 계약 기간 거주한 뒤 원금을 전액 돌려받는 한국 고유의 임대차 제도는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (27.2.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (27.2.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (27.2.3)."
+            "전세 (Jeonse)",
+            "사글세 (Sagulse)",
+            "일세 (Daily rent)"
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR C1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "거액의 보증금을 예치하고 월세를 내지 않는 한국 전통 임대차 방식은 '전세'입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'전입신고를 하고 확정일자를 받았어요'(I submitted moving-in report and received a fixed date)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "전입신고를 하고 확정일자를 받았어요.",
+            "전입신고를 하고 확정일자를 받았어요"
+          ],
+          "explanation": "전입신고를 하고 + 확정일자를 + 받았어요 = 전입신고를 하고 확정일자를 받았어요."
         }
       ]
     }
@@ -12597,56 +12633,65 @@
     "subject": "korean",
     "unit": 27,
     "lessonNumber": 3,
-    "title": "금융 시장, 부동산 계약 및 경제 분석 (Finance & Real Estate) (Part 3)",
+    "title": "거시경제 지표와 금융 통화 정책 분석 (Macroeconomics & Monetary Policy)",
     "level": "C1",
-    "objective": "Comprehensive mastery of 금융과 부동산 경제 (Banking, Finance & Real Estate).",
+    "objective": "한국은행 금융통화위원회의 기준금리 결정, 소비자물가지수(CPI), 원/달러 환율 및 경상수지 변동이 실물경제에 미치는 영향을 분석한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 금융 시장, 부동산 계약 및 경제 분석 (Finance & Real Estate) » (제3절)의 핵심 언어 요소와 금융과 부동산 경제 (Banking, Finance & Real Estate)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한국 경제의 거시경제 지표(Macroeconomic Indicators)와 중앙은행의 통화 정책 담론을 정밀하게 분석하는 전문 고급 어휘입니다.\n\n1. 통화 정책 및 금리 어휘:\n- **한국은행(BOK) & 금융통화위원회(금통위)**: 국가의 통화신용정책을 수립하고 **기준금리(Base Interest Rate)**를 결정하는 최고 의사결정 기구\n- **베이비스텝(0.25%p 인상/인하) vs 빅스텝(0.50%p 인상)**\n- **양적완화(Quantitative Easing) vs 긴축(Tightening / Quantitative Tightening)**\n\n2. 물가, 환율, 무역 지표:\n- **소비자물가지수(CPI) & 인플레이션(Inflation)**: 가계가 소비하는 상품·서비스의 가격 변동률\n- **원/달러 환율(KRW/USD Exchange Rate)**: 환율 상승(원화 가치 하락/고환율) 시 수출 기업 가격 경쟁력 개선 vs 수입 원자재 가격 상승으로 물가 압력 가중\n- **경상수지(Current Account Balance)**: 상품수지, 서비스수지, 본원소득수지를 합산한 대외 거래 최종 성적표 (흑자 vs 적자)\n- **경기 연착륙(Soft Landing) vs 경착륙(Hard Landing)**",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (27.3.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "한국은행 금융통화위원회는 물가 안정과 가계부채 억제를 위해 기준금리를 연 3.5%로 동결하기로 결정했습니다.",
+          "reading": "Hanguk-eunhaeng geumyungtonghwawiwonhoe-neun mulga anjeong-gwa gagye-buchae eokje-reul wihae gijungeumri-reul yeon sam-jeom-o-peosenteu-ro donggyeolhagiro gyeoljeonghaetseumnida.",
+          "translation": "The Bank of Korea's Monetary Policy Board decided to freeze the base interest rate ('기준금리를 동결하기로') at 3.5% per annum to stabilize inflation and curb household debt."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (27.3.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "원/달러 환율이 급등함에 따라 수입 원자재 가격이 상승하여 국내 소비자물가 상승 압력이 한층 거세지고 있습니다.",
+          "reading": "Won/dalleo hwanryul-i geupdeungham-e ttara suyip wonjajae gagyeog-i sangseunghayeo gungnae sobijamulga sangseung apryeog-i hancheung geoseojigo itseumnida.",
+          "translation": "As the KRW/USD exchange rate surges ('환율이 급등함에 따라'), import raw material prices rise, making domestic consumer inflation pressure much more intense."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (27.3.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "반도체 수출 호조에 힘입어 지난달 경상수지가 100억 달러가 넘는 대규모 흑자를 기록했습니다.",
+          "reading": "Bandoche suchul hojo-e him-ibeo jinandal gyeongsangsuji-ga baek-eok dalleo-ga neomneun daegyumo heukja-reul girokhaetseumnida.",
+          "translation": "Buoyed by buoyant semiconductor exports, last month's current account balance ('경상수지가') recorded a massive surplus exceeding 10 billion dollars."
+        },
+        {
+          "target": "중앙은행은 급격한 경기 침체를 방지하고 시장의 연착륙을 유도하기 위해 점진적인 금리 인하 경로를 시사했습니다.",
+          "reading": "Jung-ang-eunhaeng-eun geupgyeokhan gyeonggi chimche-reul bangjihago sijang-ui yeonchakryuk-eul yudohagi wihae jeomjinjeogin geumri inha gyeongno-reul sisahaetseumnida.",
+          "translation": "The central bank hinted at a gradual rate cut path to prevent abrupt economic recession and induce a market soft landing ('시장의 연착륙을 유도하기 위해')."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "금통위가 기준금리 결정, 환율 오르면 수입물가 상승, 반도체 수출로 경상수지 흑자!"
+      ],
+      "culturalNotes": [
+        "대외 무역 의존도가 높은 한국 경제의 특성상 미국 연방준비제도(Fed)의 금리 결정과 원/달러 환율 변동은 국내 증시(KOSPI)와 부동산 시장에 즉각적인 파급 효과를 미칩니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 금융과 부동산 경제 (Banking, Finance & Real Estate) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 3)?",
+          "prompt": "한국의 중앙은행으로서 국가 통화 정책을 총괄하고 기준금리를 결정하는 기관은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (27.3.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (27.3.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (27.3.3)."
+            "한국은행 금융통화위원회",
+            "국민건강보험공단",
+            "한국관광공사"
           ],
           "answerIndex": 0,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "explanation": "국내 통화신용정책 및 기준금리를 결정하는 기구는 한국은행 금융통화위원회입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 금융 시장, 부동산 계약 및 경제 분석 (Finance & Real Estate) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 3):",
+          "prompt": "국제 수지 중 상품 및 서비스의 수출입, 배당과 이자 소득을 종합한 국가 대외 거래 지표는?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (27.3.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (27.3.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (27.3.3)."
+            "경상수지 (Current Account Balance)",
+            "재정수지 (Fiscal Balance)",
+            "가계부채 (Household Debt)"
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "국가의 종합적인 대외 경상 거래 실적을 나타내는 지표는 '경상수지'입니다."
         }
       ]
     },
@@ -12654,14 +12699,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 금융과 부동산 경제 (Banking, Finance & Real Estate) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 27-3)?",
+          "prompt": "경기가 급격한 불황에 빠지지 않고 완만하게 안정세를 되찾는 현상을 비유한 경제 용어는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (27.3.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (27.3.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (27.3.3)."
+            "연착륙 (Soft Landing)",
+            "경착륙 (Hard Landing)",
+            "불시착 (Crash Landing)"
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR C1 target-language standard."
+          "explanation": "경기 과열을 완만하게 진정시켜 부드럽게 안정시키는 것을 '연착륙(Soft Landing)'이라고 합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'기준금리 동결과 경상수지 흑자 달성'(Freezing the base rate and achieving current account surplus)을 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "기준금리 동결과 경상수지 흑자 달성",
+            "기준금리 동결과 경상수지 흑자 달성."
+          ],
+          "explanation": "기준금리 동결과 + 경상수지 흑자 달성 = 기준금리 동결과 경상수지 흑자 달성."
         }
       ]
     }
@@ -12671,56 +12725,65 @@
     "subject": "korean",
     "unit": 27,
     "lessonNumber": 4,
-    "title": "금융 시장, 부동산 계약 및 경제 분석 (Finance & Real Estate) (Part 4)",
+    "title": "핀테크, 간편결제 및 디지털 가상자산 규제 (Fintech & Digital Assets)",
     "level": "C1",
-    "objective": "Comprehensive mastery of 금융과 부동산 경제 (Banking, Finance & Real Estate).",
+    "objective": "한국의 선진 핀테크 인프라(마이데이터, 오픈뱅킹, 간편송금)와 가상자산 이용자 보호법 체계를 이해하고 전문 경제 IT 담화를 구사한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 금융 시장, 부동산 계약 및 경제 분석 (Finance & Real Estate) » (제4절)의 핵심 언어 요소와 금융과 부동산 경제 (Banking, Finance & Real Estate)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "IT 강국 한국은 세계 최고 수준의 디지털 금융 및 **핀테크(Fintech)** 생태계와 가상자산 법제화를 선도하고 있습니다.\n\n1. 핀테크 및 전자금융 혁신 어휘:\n- **마이데이터(MyData)**: 분산된 개인의 금융·소비 정보를 한곳에 모아 맞춤형 자산관리 서비스를 제공하는 데이터 주권 플랫폼\n- **오픈뱅킹(Open Banking)**: 하나의 은행 앱에서 모든 금융기관의 계좌를 조회하고 송금할 수 있는 표준 공동 인프라\n- **간편결제 / 간편송금(Easy Pay / Easy Wire)**: 공인인증서 없이 생체 인식(지문, 안면)이나 6자리 비밀번호만으로 초고속 송금·결제\n\n2. 블록체인 및 가상자산(Digital Assets / Cryptocurrency) 규제:\n- **가상자산 이용자 보호법**: 미공개 중요정보 이용 금지, 시세조종 등 불공정 거래 행위를 처벌하고 예치금을 보호하는 법률\n- **실명확인 입출금계정(Real-name Account)**: 자금세탁 방지(AML)를 위해 은행과 1:1 제휴를 맺은 실명 계좌로만 원화 거래 허용\n- **토큰 증권(ST / Security Token)**: 부동산, 미술품 등 실물 자산을 블록체인 기반 토큰으로 쪼개어 소액 투자할 수 있는 조각 투자 증권",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (27.4.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "마이데이터 서비스가 본격화되면서 여러 금융기관에 흩어져 있던 은행 계좌와 주식, 보험 내역을 통합 조회할 수 있게 되었습니다.",
+          "reading": "Maideiteo seobiseu-ga bongyeokhwa-doemyeonseo yeoreo geumyung-gigwan-e heuteojyeo itdeon eunhaeng gyejwa-wa jusik, boheom naeyeok-eul tonghap johoehal su itge doe-eotseumnida.",
+          "translation": "As MyData service became fully active, it became possible to integrally view bank accounts, stocks, and insurance histories scattered across multiple financial institutions ('통합 조회할 수 있게 되었습니다')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (27.4.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "새로 시행된 가상자산 이용자 보호법에 따라 거래소는 이용자의 원화 예치금을 공신력 있는 은행에 안전하게 신탁해야 합니다.",
+          "reading": "Saero sihaengdoen gasangjasan yongja bohopeop-e ttara georaeso-neun yongja-ui wonhwa yechigeum-eul gongsinryeok inneun eunhaeng-e anjeonhage sintakhaeya hamnida.",
+          "translation": "According to the newly enforced Virtual Asset User Protection Act, exchanges must safely trust users' KRW deposits to credible banks."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (27.4.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "부동산과 미술품 등의 고가 자산을 토큰 증권(ST) 형태로 유동화하여 소액 투자자들의 진입 장벽을 대폭 낮췄습니다.",
+          "reading": "Budongsan-gwa misulpum deung-ui goga jasan-eul tokeun jeung-gwon hyeongtae-ro yudonghwahayeo so-aek tujajadeul-ui jin-ip jangbyeok-eul daepok nachwotseumnida.",
+          "translation": "By securitizing high-priced assets such as real estate and art into security tokens (ST), they drastically lowered the entry barrier for retail micro-investors."
+        },
+        {
+          "target": "간편결제 플랫폼의 확산은 카드나 현금 없는 사회로의 디지털 전환을 급격하게 가속화하고 있습니다.",
+          "reading": "Ganpyeongyeolje peullaetpom-ui hwaksan-eun kadeu-na hyeon-geum eomneun sahoe-ro-ui dijiteol jeonhwan-eul geupgyeokhage gasokhwahago itseumnida.",
+          "translation": "The proliferation of easy payment platforms is rapidly accelerating the digital transition to a cardless and cashless society."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "마이데이터로 자산 통합, 간편결제로 원클릭, 가상자산은 실명계좌로 투명하게!"
+      ],
+      "culturalNotes": [
+        "한국은 '토스(Toss)', '카카오페이(KakaoPay)', '네이버페이(NaverPay)' 등 빅테크 기반의 핀테크 플랫폼이 국민 대다수의 일상 금융을 대체하며 현금 사용률이 세계 최저 수준입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 금융과 부동산 경제 (Banking, Finance & Real Estate) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 4)?",
+          "prompt": "여러 은행, 카드사, 증권사에 흩어진 개인 금융 정보를 한곳에 모아 관리해 주는 공공 데이터 금융 서비스를 일컫는 말은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (27.4.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (27.4.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (27.4.3)."
+            "마이데이터 (MyData)",
+            "빅데이터 (BigData)",
+            "스몰데이터 (SmallData)"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "개인 금융 정보를 통합 조회·관리하는 표준 플랫폼은 '마이데이터(MyData)'입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 금융 시장, 부동산 계약 및 경제 분석 (Finance & Real Estate) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 4):",
+          "prompt": "한국에서 가상자산(암호화폐)을 원화로 거래하기 위해 금융 당국이 의무화한 계좌 인증 시스템은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (27.4.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (27.4.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (27.4.3)."
+            "은행 실명확인 입출금계정",
+            "가명 익명 거래 계좌",
+            "해외 페이퍼컴퍼니 계좌"
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "한국의 가상자산 거래소 원화 입출금은 '은행 실명확인 입출금계정'을 통해서만 가능합니다."
         }
       ]
     },
@@ -12728,14 +12791,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 금융과 부동산 경제 (Banking, Finance & Real Estate) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 27-4)?",
+          "prompt": "부동산, 미술품 등의 실물 자산을 블록체인 기술을 활용해 디지털 증권으로 발행하는 것을 무엇이라 하는가?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (27.4.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (27.4.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (27.4.3)."
+            "토큰 증권 (Security Token / STO)",
+            "종이 증권 (Paper Stock)",
+            "기프티콘 (Gift Coupon)"
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR C1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "실물 자산을 블록체인 기반의 디지털 증권으로 발행한 것을 '토큰 증권(Security Token)'이라 합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'마이데이터와 간편결제로 자산을 관리해요'(I manage assets with MyData and simple pay)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "마이데이터와 간편결제로 자산을 관리해요.",
+            "마이데이터와 간편결제로 자산을 관리해요"
+          ],
+          "explanation": "마이데이터와 + 간편결제로 + 자산을 + 관리해요 = 마이데이터와 간편결제로 자산을 관리해요."
         }
       ]
     }
@@ -12745,56 +12817,65 @@
     "subject": "korean",
     "unit": 27,
     "lessonNumber": 5,
-    "title": "금융 시장, 부동산 계약 및 경제 분석 (Finance & Real Estate) (Part 5)",
+    "title": "자산관리 PB 포트폴리오 상담 및 부동산 전세계약 실전 경제 담화",
     "level": "C1",
-    "objective": "Comprehensive mastery of 금융과 부동산 경제 (Banking, Finance & Real Estate).",
+    "objective": "은행 자산관리(PB) 포트폴리오 설계, 부동산 전세계약 권리 분석 및 특약 조항 작성을 총망라한 C1 실전 금융 경제 담화를 완성한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 금융 시장, 부동산 계약 및 경제 분석 (Finance & Real Estate) » (제5절)의 핵심 언어 요소와 금융과 부동산 경제 (Banking, Finance & Real Estate)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "고급 자산관리 PB(Private Banker) 센터 및 공인중개사 사무소에서 이루어지는 최고급 실전 금융·부동산 대화 모델입니다.\n\n1. 은행 PB 센터 자산 포트폴리오 및 부동산 전세계약 실전 모델:\n- PB 상담사: 고객님, 최근 한국은행의 기준금리 동결 기조와 글로벌 시장 변동성을 감안하여 자산 포트폴리오 리밸런싱을 제안해 드립니다. 안전 자산인 5천만 원 예금자 보호 한도 내 정기예금과 원리금 균등상환 대출 상환을 병행하시고, 여유 자금은 마이데이터 분석을 통해 배당주 펀드와 토큰 증권으로 분산 투자하시는 것이 바람직합니다.\n- 고객: 네, 그리고 이번에 새로 이사할 아파트 전세계약도 앞두고 있는데 어떤 점을 주의해야 할까요?\n- 공인중개사: 네, 제가 발급해 드린 등기부등본 을구를 보시면 선순위 근저당권 채권최고액이 매매 시세의 20% 미만으로 매우 안전합니다. 계약서 특약 사항에 '잔금 지급일 익일까지 임대인은 추가 담보대출을 설정하지 아니하며, 위반 시 계약은 무효로 하고 계약금 전액을 반환한다'는 조항을 명시했습니다. 이사 당일 전입신고와 확정일자를 즉시 부여받으시면 완벽한 대항력과 우선변제권을 확보하실 수 있습니다.",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (27.5.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "철저한 권리 분석과 안전한 특약 조항 덕분에 임차인은 전세보증금 반환에 대한 법적 안전장치를 완벽히 마련했습니다.",
+          "reading": "Cheoljeohan gwonri bunseok-gwa anjeonhan teug-yak johang deokbun-e imchain-eun jeonsebojeunggeum banhwan-e daehan beopjeok anjeonjangchi-reul wanbyeokhi maryeonhaetseumnida.",
+          "translation": "Thanks to thorough rights analysis and secure special terms ('안전한 특약 조항'), the tenant completely arranged legal safeguards for Jeonse deposit return."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (27.5.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "시장 금리 변동에 유연하게 대처하기 위해 정기예금과 국채, 배당형 ETF를 적절히 배분한 자산 포트폴리오를 구성했습니다.",
+          "reading": "Sijang geumri byeondong-e yuyeonhage daecheohagi wihae jeong-giyegeum-gwa gukchae, baedanghyeong ETF-reul jeokjeolhi baebunhan jasan poteupolrio-reul guseonghaetseumnida.",
+          "translation": "To flexibly cope with market rate fluctuations, I constructed an asset portfolio appropriately allocating time deposits, treasury bonds, and dividend ETFs."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (27.5.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "공인중개사의 전문적이고 투명한 중개 설명서는 부동산 거래 사고를 예방하는 가장 확실한 길잡이가 됩니다.",
+          "reading": "Gong-injunggaesa-ui jeonmunjeog-igo tumyeonghan junggae seolmyeongseo-neun budongsan georae sago-reul yebanghaneun gajang hwaksilhan giljabi-ga doemnida.",
+          "translation": "The licensed real estate agent's professional and transparent property explanation report is the surest guide to preventing real estate transaction accidents."
+        },
+        {
+          "target": "금융 시장의 흐름을 정확히 읽고 리스크를 분산하는 지혜로운 자산 관리가 미래의 경제적 안정을 보장합니다.",
+          "reading": "Geumyung sijang-ui heureum-eul jeonghwakhi ilkgo riseukeu-reul bunsanhaneun jihyeroun jasan gwanri-ga mirae-ui gyeongjejeok anjeong-eul bojanghamnida.",
+          "translation": "Wise asset management that accurately reads financial market trends and diversifies risks guarantees future economic stability."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "포트폴리오로 리스크 분산, 등기부등본 확인과 특약 조항으로 전세금 사수!"
+      ],
+      "culturalNotes": [
+        "한국의 부동산 계약에서는 구두 약속이 아닌 '계약서 특약 사항(Special Contract Terms)'에 명시된 문구만이 법적 분쟁 시 효력을 발휘하므로 문구 하나하나를 정밀하게 검토해야 합니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 금융과 부동산 경제 (Banking, Finance & Real Estate) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 5)?",
+          "prompt": "전세 계약 시 집주인이 잔금 지급 당일 몰래 은행 대출을 받는 것을 막기 위해 계약서에 넣는 가장 중요한 안전장치는?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (27.5.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (27.5.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (27.5.3)."
+            "잔금 지급 익일까지 추가 담보대출을 설정하지 않는다는 계약서 특약 조항",
+            "집주인에게 구두로 잘 부탁한다고 인사하기",
+            "계약서를 작성하지 않고 현금으로 직접 건네기"
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "대항력 발생(익일 0시) 전 선순위 대출 방지를 위해 '특약 조항'을 반드시 명시해야 합니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 금융 시장, 부동산 계약 및 경제 분석 (Finance & Real Estate) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 5):",
+          "prompt": "PB 자산관리 상담 중 시장 변동성에 대비하는 가장 이상적인 투자 태도로 서술된 것은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (27.5.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (27.5.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (27.5.3)."
+            "예금자 보호가 되는 안전 자산과 분산 투자 포트폴리오를 균형 있게 구성한다.",
+            "한 가지 위험 종목에 모든 전 재산을 몰빵하여 올인한다.",
+            "은행 대출을 최대로 받아 가상자산에 빚내서 투자한다."
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "원금 보장 안전 자산과 분산 투자를 통한 리스크 관리가 정석적인 자산관리입니다."
         }
       ]
     },
@@ -12802,14 +12883,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 금융과 부동산 경제 (Banking, Finance & Real Estate) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 27-5)?",
+          "prompt": "다음 중 한국의 부동산 및 금융 실전 상담 대화로 가장 올바른 것은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (27.5.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (27.5.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (27.5.3)."
+            "등기부등본을 확인하고 전입신고와 확정일자를 마쳐 보증금 대항력을 확보했습니다.",
+            "전세계약을 맺었으니 등기부등본은 찢어서 버리셔도 됩니다.",
+            "원금 손실 위험이 100% 보장되는 펀드에 전 재산을 맡기세요."
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR C1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "'등기부등본 확인', '전입신고', '확정일자', '대항력 확보'는 완벽한 부동산 경제 실전 표현입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'등기부등본 확인과 특약 조항으로 보증금을 지켜요'(We protect the deposit with register check and special terms)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "등기부등본 확인과 특약 조항으로 보증금을 지켜요.",
+            "등기부등본 확인과 특약 조항으로 보증금을 지켜요"
+          ],
+          "explanation": "등기부등본 확인과 + 특약 조항으로 + 보증금을 + 지켜요 = 등기부등본 확인과 특약 조항으로 보증금을 지켜요."
         }
       ]
     }
