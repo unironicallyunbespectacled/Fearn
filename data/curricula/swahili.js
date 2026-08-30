@@ -8685,53 +8685,62 @@
     "subject": "swahili",
     "unit": 21,
     "lessonNumber": 1,
-    "title": "Masharti: Kiambishi -ki- na -nge-/-ngali- (Conditionals) (Part 1)",
+    "title": "Sharti Halisi na Linalowezekana: Kiambishi cha Sharti -ki- (Real Conditionals: 'If / When')",
     "level": "B2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 21.1) with authentic precision.",
+    "objective": "Kuelewa na kutumia kiambishi cha sharti halisi na linalowezekana (-ki-) katika miundo ya vishazi vya masharti na matukio yanayoambatana (Real Conditionals: 'If/When').",
     "presentation": {
-      "explanation": "",
+      "explanation": "Kiambishi cha Sharti Halisi (-ki-) katika Kiswahili:\n\nKiambishi cha wakati/hali cha **-ki-** huingizwa kati ya kiambishi cha upatanisho wa nafsi na shina la kitenzi (*[Nafsi] + -ki- + [Shina]*):\n\n1. **Kazi Kuu za Kiambishi -ki-**:\n   - **Sharti Halisi Linalowezekana (Real / Probable Condition)**: Huonyesha kuwa ikiwa tendo la kwanza litatendeka, tendo la pili litatokea (mara nyingi likifuatiwa na wakati ujao *-ta-* au amri):\n     - *U-ki-soma kwa bidii, u-ta-faulu.* (If you study hard, you will pass.)\n     - *Mvua i-ki-nyesha, tu-ta-panda mbegu.* (If rain falls, we will plant seeds.)\n   - **Wakati Tendo Linapotendeka (Simultaneous / Continuous Action: 'When / While')**:\n     - *Nilimkuta a-ki-la chakula.* (I found him while he was eating food.)\n     - *U-ki-fika mjini, nipigie simu.* (When you arrive in town, call me.)\n\n2. **Kanuni ya Vitenzi vya Silabi Moja**:\n   - Vitenzi vya silabi moja hupoteza kiambishi kiambata cha *ku-* kinapopokea *-ki-*:\n     - *kula* -> **ukila** (*ukila vizuri...* siyo *ukikula*)\n     - *kunywa* -> **ukinywa** (*ukinywa maji safi...*)\n     - *kuja* -> **ukija** (*ukija nyumbani...*)\n     - *kufa* -> **akifa** (*mnyama akifa...*).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 21.1.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 21."
+          "target": "Ukisoma kwa bidii na kufanya mazoezi kila siku, utafaulu vizuri sana katika mitihani yako ya mwisho.",
+          "reading": "U-ki-so-ma kwa bi-di-i na ku-fa-nya ma-zo-e-zi ki-la si-ku, u-ta-fa-u-lu vi-zu-ri sa-na ka-ti-ka mti-ha-ni ya-ko ya mwi-sho. [ukisɔˈmɑ kwɑ biˈdiː nɑ kuˈfɑɲɑ mɑzɔˈɛzi ˈkilɑ ˈsiku utɑfɑˈulu viˈzuri ˈsɑnɑ ˈkɑtikɑ mtiˈhɑni ˈjɑkɔ jɑ ˈmwiʃɔ] (oo-kee-SOH-mah kwah bee-DEE-ee nah koo-FAH-nyah mah-zoh-AY-zee KEE-lah SEE-koo, oo-tah-fah-OO-loo vee-ZOO-ree SAH-nah KAH-tee-kah m-tee-HAH-nee YAH-koh yah MWEE-shoh)",
+          "translation": "If you study diligently [ukisoma: u-ki-soma] and practice every day, you will pass very well in your final exams."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 21-1).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Mvua ikinyesha mfululizo juma hili, wakulima wataanza kupanda mbegu mashambani mwao.",
+          "reading": "Mvu-a i-ki-nye-sha mfu-lu-li-zo ju-ma hi-li, wa-ku-li-ma wa-ta-a-nza ku-pa-nda mbe-gu ma-sha-mba-ni mwa-o. [ˈmvuɑ ikinɲɛˈʃɑ mfuluˈlizɔ ˈʤumɑ ˈhili wɑkuˈlimɑ wɑtɑˈɑnzɑ kuˈpɑndɑ ˈmbɛɡu mɑʃɑmbɑˈni ˈmwɑɔ] (MVOO-ah ee-kee-NYAY-shah m-foo-loo-LEE-zoh JOO-mah HEE-lee, wah-koo-LEE-mah wah-tah-AHN-zah koo-PAHN-dah M-BAY-goo mah-shahm-bah-NEE MWAH-oh)",
+          "translation": "If rain falls [ikinyesha: i-ki-nyesha] continuously this week, farmers will begin planting seeds in their fields."
+        },
+        {
+          "target": "Tukishirikiana pamoja kama jamii moja, tutatatua changamoto zote za maendeleo kwa urahisi.",
+          "reading": "Tu-ki-shi-ri-kia-na pa-mo-ja ka-ma ja-mi-i mo-ja, tu-ta-ta-tu-a cha-nga-mo-to zo-te za ma-e-nde-le-o kwa u-ra-hi-si. [tukiʃiriˈkiɑnɑ pɑˈmɔʤɑ ˈkɑmɑ ʤɑˈmiː ˈmɔʤɑ tutɑtɑˈtuɑ tʃɑŋɡɑˈmɔtɔ ˈzɔtɛ zɑ mɑɛndɛˈlɛɔ kwɑ urɑˈhisi] (too-kee-shee-ree-kee-AH-nah pah-MOH-jah KAH-mah jah-MEE-ee MOH-jah, too-tah-tah-TOO-ah chahn-gah-MOH-toh ZOH-tay zah mah-ayn-day-LAY-oh kwah oo-rah-HEE-see)",
+          "translation": "If we cooperate [tukishirikiana: tu-ki-shirikiana] together as one community, we will solve all development challenges easily."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Kiambishi -ki- = If / When: ukisoma (if you study); ikinyesha (if it rains); ukila (if you eat - kumbuka ku- inafutwa kwa vitenzi vya silabi moja)!"
+      ],
+      "culturalNotes": [
+        "Methali maarufu ya Kiswahili: 'Ukiona vyaelea, vimeundwa' (If you see vessels floating smoothly, know they were constructed with great effort)."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Leo\":",
+          "prompt": "Sentensi ipi inatumia kiambishi cha sharti \"-ki-\" kwa kitenzi cha silabi moja \"kula\" (eat) kwa usahihi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 21.1.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Jana»",
-            "Mpangilio usio sahihi wa viambishi katika «Kesho»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Asubuhi»"
+            "Ukila matunda kwa wingi, utaimarisha kinga ya mwili wako. (If you eat plenty of fruits - Correct drop of 'ku-' to get 'ukila')",
+            "Ukikula matunda kwa wingi, utaimarisha kinga ya mwili",
+            "Ulikula matunda kwa wingi (Huu ni wakati uliopita)",
+            "Unakula matunda kwa wingi (Wakati uliopo)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Kitenzi cha silabi moja «kula» kinapopokea kiambishi cha sharti «-ki-» hupoteza «ku-» na kuwa «ukila» (*Ukila matunda...*)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Leo\":",
+          "prompt": "Chagua sentensi inayoonyesha sharti halisi linalowezekana (Real Conditional) katika lugha ya Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 21.1.",
-            "Mpangilio usio sahihi wa viambishi katika «Kesho»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Asubuhi»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Jana»"
+            "Tukiamka mapema asubuhi, tutawahi usafiri wa basi la kwanza. (If we wake up early in the morning, we will catch the first bus - Correct real conditional)",
+            "Tungeamka mapema tungechelewa basi",
+            "Tuliamka mapema bila kuwahi basi",
+            "Tunaamka mapema kila siku asubuhi"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Tukiamka mapema, tutawahi usafiri» inajumuisha sharti halisi la «-ki-» likifuatiwa na wakati ujao wa «-ta-»."
         }
       ]
     },
@@ -8739,17 +8748,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Leo\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha iliyo sahihi kabisa ya vitenzi vilivyonyambulishwa kwa kiambishi cha sharti halisi (-ki-):",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 21.1.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Asubuhi»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Jana»",
-            "Mpangilio usio sahihi wa viambishi katika «Kesho»"
+            "ukisoma, ikinyesha, tukishirikiana, ukila, ukija, ukinywa, wakielewa.",
+            "ukisoma, ikinyesha, ukikula, ukikuja, ukikunywa (kosa la kubakiza 'ku-').",
+            "ungesoma, ingenyesha, ungalikula (mchanganyiko wa masharti mengine).",
+            "Kiambishi cha '-ki-' hakiwezi kutumika mwanzoni au katikati ya kitenzi."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Miundo sahihi ya -ki- ni ukisoma, ikinyesha, tukishirikiana, na vitenzi vya silabi moja vilivyopoteza ku- (ukila, ukija, ukinywa)."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u21-l2": {
@@ -8757,53 +8767,62 @@
     "subject": "swahili",
     "unit": 21,
     "lessonNumber": 2,
-    "title": "Masharti: Kiambishi -ki- na -nge-/-ngali- (Conditionals) (Part 2)",
+    "title": "Ukanushaji wa Sharti Halisi: Kiambishi cha Sharti Hasi -sipo- (Negative Conditionals: 'If not / Unless')",
     "level": "B2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 21.2) with authentic precision.",
+    "objective": "Kuelewa na kutumia kiambishi cha sharti hasi (-sipo-) kueleza masharti ya kukanusha (Negative Conditionals: 'If not / Unless') bila kutumia viambishi visivyo sahihi vya kukanusha.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Kiambishi cha Sharti Hasi (-sipo-) katika Kiswahili:\n\nMiongoni mwa kanuni za kisarufi za Kiswahili, ukanushaji wa kiambishi cha sharti *-ki-* **hauwi** *huki-* au *hasi-*, bali unatumia kiambishi maalum cha sharti hasi **-sipo-** (*[Nafsi] + -sipo- + [Shina]*):\n\n1. **Ulinganifu wa Sharti Chanya na Sharti Hasi**:\n   - *U-ki-soma* (If you study) -> **U-sipo-soma** (If you do not study / Unless you study)\n   - *A-ki-fika* (If he arrives) -> **A-sipo-fika** (If he does not arrive / Unless he arrives)\n   - *Mvua i-ki-nyesha* -> **Mvua i-sipo-nyesha** (If rain does not fall)\n   - *Tu-ki-fanya bidii* -> **Tu-sipo-fanya bidii** (If we do not make effort)\n   - *Wa-ki-kubali* -> **Wa-sipo-kubali** (If they do not agree).\n\n2. **Vitenzi vya Silabi Moja katika Sharti Hasi**:\n   - Vitenzi vya silabi moja pia hupoteza kiambishi cha *ku-* kinapounganishwa na *-sipo-*:\n     - *kula* -> **usipola** au **usipokula** (katika Kiswahili sanifu, *usipokula* au *usipola* hutumika, lakini *usipokula* kimeenea sana kuweka uzito wa silabi)\n     - *kunywa* -> **usipokunywa** / **usiponywa**\n     - *kuja* -> **usipokuja** / **usipoja**.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 21.2.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 21."
+          "target": "Usiposoma kwa makini na kufuata ushauri wa walimu, utapata ugumu kuelewa dhana hizi ngumu za kisarufi.",
+          "reading": "U-si-po-so-ma kwa ma-ki-ni na ku-fu-a-ta u-sha-u-ri wa wa-li-mu, u-ta-pa-ta u-gu-mu ku-e-le-wa dha-na hi-zi ngu-mu za ki-sa-ru-fi. [usipɔsɔˈmɑ kwɑ mɑˈkini nɑ kufuˈɑtɑ uʃɑˈuri wɑ wɑˈlimu utɑˈpɑtɑ uˈɡumu kuɛˈlɛwɑ ˈðɑnɑ ˈhizi ˈŋɡumu zɑ kisɑˈrufi] (oo-see-poh-SOH-mah kwah mah-KEE-nee nah koo-foo-AH-tah oo-shah-OO-ree wah wah-LEE-moo, oo-tah-PAH-tah oo-GOO-moo koo-ay-LAY-wah THAH-nah HEE-zee N-GOO-moo zah kee-sah-ROO-fee)",
+          "translation": "If you do not study [usiposoma: u-sipo-soma] carefully and follow teachers' advice, you will find it difficult to understand these complex grammatical concepts."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 21-2).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Mkulima asipopalilia shamba lake kwa wakati, magugu yataharibu mimea na kupunguza mavuno.",
+          "reading": "Mku-li-ma a-si-po-pa-li-lia sha-mba la-ke kwa wa-ka-ti, ma-gu-gu ya-ta-ha-ri-bu mi-me-a na ku-pu-ngu-za ma-vu-no. [mkuˈlimɑ ɑsipɔpɑliˈliɑ ˈʃɑmbɑ ˈlɑkɛ kwɑ wɑˈkɑti mɑˈɡuɡu jɑtɑhɑˈribu miˈmɛɑ nɑ kupuˈŋɡuzɑ mɑˈvunɔ] (m-koo-LEE-mah ah-see-poh-pah-lee-LEE-ah SHAHM-bah LAH-kay kwah wah-KAH-tee, mah-GOO-goo yah-tah-hah-REE-boo mee-MAY-ah nah koo-poon-GOO-zah mah-VOO-noh)",
+          "translation": "Unless the farmer weeds [asipopalilia: a-sipo-palilia] his field on time, weeds will ruin the crops and reduce harvest."
+        },
+        {
+          "target": "Tusipolinda vyanzo vya maji na misitu yetu, ukame utatishia maisha ya viumbe vyote nchini.",
+          "reading": "Tu-si-po-li-nda vya-nzo vya ma-ji na mi-si-tu ye-tu, u-ka-me u-ta-ti-shi-a ma-i-sha ya viu-mbe vyo-te nchi-ni. [tusipɔˈlindɑ ˈvjɑnzɔ vjɑ ˈmɑʤi nɑ miˈsitu ˈjɛtu uˈkɑmɛ utɑtiˈʃiɑ mɑˈiʃɑ jɑ viˈumbɛ ˈvjɔtɛ ˈntʃini] (too-see-poh-LEEN-dah VYAHN-zoh vyah MAH-jee nah mee-SEE-too YAY-too, oo-KAH-may oo-tah-tee-SHEE-ah mah-EE-shah yah vee-OOM-bay VYOH-tay n-CHEE-nee)",
+          "translation": "If we do not protect [tusipolinda: tu-sipo-linda] water sources and our forests, drought will threaten the lives of all creatures in the country."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Ukanushaji wa -ki- ni -sipo-: ukisoma -> usiposoma; ukifika -> usipofika; wakikubali -> wasipokubali (Unless / If not)!"
+      ],
+      "culturalNotes": [
+        "Msemo maarufu wa Kiswahili unaotumia sharti hasi: 'Asiyesikia la mkuu huvunjika guu' na 'Usipoziba ufa utajenga ukuta' (If you don't repair a crack, you will build a wall)."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Jana\":",
+          "prompt": "Ukanushaji sahihi wa sentensi ya sharti «Ukifika mapema utamwona mgeni» ni upi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 21.2.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kesho»",
-            "Mpangilio usio sahihi wa viambishi katika «Asubuhi»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mchana»"
+            "Usipofika mapema hutamwona mgeni. (If you don't arrive early you won't see the guest - Correct negative conditional '-sipo-')",
+            "Hukifika mapema hutamwona mgeni (Kosa la kuweka 'hu-' kwenye '-ki-')",
+            "Ukikosa kufika hutamwona mgeni (Muundo mrefu usio wa moja kwa moja)",
+            "Usipofika mapema utamwona mgeni (Mtiririko usio sahihi wa maana)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Ukanushaji wa «ukifika» ni «usipofika» na «utamwona» unakanushwa kuwa «hutamwona»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Jana\":",
+          "prompt": "Sentensi ipi inatumia kiambishi cha sharti hasi \"-sipo-\" kwa usahihi wa kisarufi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 21.2.",
-            "Mpangilio usio sahihi wa viambishi katika «Asubuhi»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mchana»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kesho»"
+            "Wagonjwa wasipotumia dawa kama walivyoelekezwa, hawatapona haraka. (If patients do not use medication as instructed, they will not heal quickly - Correct '-sipo-')",
+            "Wagonjwa hawakutumia dawa kama walivyoelekezwa",
+            "Wagonjwa hawakusoma dawa kama walivyoelekezwa",
+            "Wagonjwa wasipokula dawa hawatapona"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Wagonjwa wasipotumia dawa... hawatapona haraka» inatumia sharti hasi la upatanisho wa ngeli ya WA- («wasipotumia»)."
         }
       ]
     },
@@ -8811,17 +8830,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Jana\": Which sentence is completely correct?",
+          "prompt": "Chagua ulinganifu sahihi wa sharti chanya (-ki-) na sharti hasi (-sipo-):",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 21.2.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mchana»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kesho»",
-            "Mpangilio usio sahihi wa viambishi katika «Asubuhi»"
+            "ukisoma -> usiposoma, akija -> asipokuja, tukilinda -> tusipolinda, ikinyesha -> isiponyesha.",
+            "ukisoma -> hutosoma, akija -> hakuji, tukilinda -> hatulindi.",
+            "ukisoma -> hukisoma, akija -> hasikija, tukilinda -> hatukilinda.",
+            "Katika lugha ya Kiswahili hakuna njia ya kukanusha kiambishi cha sharti '-ki-'."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Ukanushaji wa kipekee wa sharti chanya «-ki-» ni kiambishi «-sipo-» (usiposoma, asipokuja, tusipolinda, isiponyesha)."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u21-l3": {
@@ -8829,53 +8849,62 @@
     "subject": "swahili",
     "unit": 21,
     "lessonNumber": 3,
-    "title": "Masharti: Kiambishi -ki- na -nge-/-ngali- (Conditionals) (Part 3)",
+    "title": "Masharti ya Hali ya Sasa / Yasiyo Halisi: Kiambishi -nge- na Ukanushaji -singe- (Present Hypothetical Conditionals)",
     "level": "B2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 21.3) with authentic precision.",
+    "objective": "Kuelewa na kutumia kiambishi cha sharti la dhahania/sasa (-nge-) na ukanushaji wake (-singe-) kueleza mambo ambayo yangewezekana sasa lakini hayajatendeka (Present Hypothetical: 'If would / If were to').",
     "presentation": {
-      "explanation": "",
+      "explanation": "Kiambishi cha Sharti la Dhahania / Hali ya Sasa (-nge- na -singe-):\n\nKiambishi cha **-nge-** huonyesha **sharti la dhahania au sharti ambalo lingewezekana kutokea wakati wa sasa au ujao lakini halijatokea (*Present / Future Hypothetical: If X were to happen, Y would happen*)**:\n\n1. **Muundo wa Pande Mbili (Correlative Structure)**:\n   - Tofauti na *-ki-* ambacho kishazi cha pili huchukua wakati ujao *-ta-*, muundo wa *-nge-* unahitaji kiambishi **-nge-** katika vishazi vyote viwili vya sentensi (kishazi tegemezi na kishazi kikuu):\n     - *Ni-nge-kuwa na fedha, ni-nge-nunua nyumba.* (If I had money, I would buy a house.)\n     - *U-nge-fanya mazoezi, u-nge-kuwa na afya nzuri.* (If you exercised, you would be in good health.)\n     - *Mvua i-nge-nyesha, wakulima wa-nge-furahi.* (If it were to rain, farmers would rejoice.)\n\n2. **Ukanushaji wa Sharti la -nge- unatumia -singe-**:\n   - Kishazi hasi hupokea **-singe-** badala ya *-nge-*:\n     - *U-singe-chelewa, tu-nge-wahi basi.* (If you weren't late, we would catch the bus.)\n     - *Ni-singe-jua ukweli, ni-nge-danganyika.* (If I didn't know the truth, I would be deceived.)\n     - *U-singe-fanya fujo, u-singe-adhibiwa.* (If you didn't cause trouble, you wouldn't be punished.)\n\n3. **Vitenzi vya Silabi Moja**:\n   - Vitenzi vya silabi moja hubakiza kiambishi cha *ku-* kwa kawaida: *ningekula*, *ningekunywa*, *ningekuwa*.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 21.3.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 21."
+          "target": "Ningekuwa na nafasi ya kutosha leo, ningetembelea makumbusho ya taifa mjini kujifunza historia.",
+          "reading": "Ni-nge-ku-wa na na-fa-si ya ku-to-sha le-o, ni-nge-te-mbe-le-a ma-ku-mbu-sho ya ta-i-fa mji-ni ku-ji-fu-nza hi-sto-ria. [niŋɡɛˈkuwɑ nɑ nɑˈfɑsi jɑ kuˈtɔʃɑ ˈlɛɔ niŋɡɛtɛmbɛˈlɛɑ mɑkumbuˈʃɔ jɑ tɑˈifɑ mʤiˈni kuʤiˈfunzɑ histɔˈriɑ] (nee-ngay-KOO-wah nah nah-FAH-see yah koo-TOH-shah LAY-oh, nee-ngay-taym-bay-LAY-ah mah-koom-BOO-shoh yah tah-EE-fah m-jee-NEE koo-jee-FOON-zah hees-toh-REE-ah)",
+          "translation": "If I had [ningekuwa: ni-nge-kuwa] enough free time today, I would visit [ningetembelea: ni-nge-tembelea] the national museum in town to learn history."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 21-3).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Ungewasikiliza wataalamu wa afya, usingepata matatizo haya ya kiafya yanayokusumbua sasa.",
+          "reading": "U-nge-wa-si-ki-li-za wa-ta-a-la-mu wa a-fya, u-si-nge-pa-ta ma-ta-ti-zo ha-ya ya ki-a-fya ya-na-yo-ku-su-mbu-a sa-sa. [uŋɡɛwɑsikiˈlizɑ wɑtɑɑˈlɑmu wɑ ˈɑfjɑ usiŋɡɛˈpɑtɑ mɑtɑˈtizɔ ˈhɑjɑ jɑ kiˈɑfjɑ jɑnɑjɔkuˈsumbuɑ ˈsɑsɑ] (oon-gay-wah-see-kee-LEE-zah wah-tah-ah-LAH-moo wah AHF-yah, oo-seen-gay-PAH-tah mah-tah-TEE-zoh HAH-yah yah kee-AHF-yah yah-nah-yoh-koo-soom-BOO-ah SAH-sah)",
+          "translation": "If you listened to [ungewasikiliza: u-nge-wasikiliza] health experts, you would not get [usingepata: u-singe-pata] these health issues that trouble you now."
+        },
+        {
+          "target": "Mvua ingenyesha leo, wakulima wangefurahi sana kwa sababu ardhi imekauka kwa jua kali.",
+          "reading": "Mvu-a i-nge-nye-sha le-o, wa-ku-li-ma wa-nge-fu-ra-hi sa-na kwa sa-ba-bu a-rdhi i-me-ka-u-ka kwa ju-a ka-li. [ˈmvuɑ iŋɡɛɲɛˈʃɑ ˈlɛɔ wɑkuˈlimɑ wɑŋɡɛfuˈrɑhi ˈsɑnɑ kwɑ sɑˈbɑbu ˈɑrði imɛkɑˈukɑ kwɑ ˈʤuɑ ˈkɑli] (MVOO-ah een-gay-NYAY-shah LAY-oh, wah-koo-LEE-mah wahn-gay-foo-RAH-hee SAH-nah kwah sah-BAH-boo AHR-thee ee-may-kah-OO-kah kwah JOO-ah KAH-lee)",
+          "translation": "If it were to rain [ingenyesha: i-nge-nyesha] today, farmers would rejoice greatly [wangefurahi: wa-nge-furahi] because the soil has dried out under strong sun."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Kiambishi -nge- = Present Hypothetical: ningekuwa (if I were); ungesoma (if you would read); usingechelewa (if you wouldn't delay) - pande zote mbili zinachukua -nge-/-singe-!"
+      ],
+      "culturalNotes": [
+        "Msemo maarufu: 'Laiti ningejua...' (Had I only known / If only I knew...) huonyesha majuto ya kibinadamu katika lugha ya staha ya Kiswahili."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Kesho\":",
+          "prompt": "Sentensi ipi inatumia muundo sahihi wa sharti la sasa la \"-nge-\" katika pande zote mbili?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 21.3.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Asubuhi»",
-            "Mpangilio usio sahihi wa viambishi katika «Mchana»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Jioni»"
+            "Ungeniambia mapema, ningekusaidia kutatua tatizo lako. (If you told me early, I would help you solve your problem - Correct '-nge-' in both clauses)",
+            "Ungeniambia mapema, nitakusaidia kutatua tatizo lako (Kosa la kuchanganya '-nge-' na '-ta-')",
+            "Ukinianbia mapema ningekusaidia (Kosa la kuchanganya '-ki-' na '-nge-')",
+            "Ungenianbia mapema ulikusaidia"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Muundo wa sharti la «-nge-» unahitaji «-nge-» katika kishazi tegemezi («ungeniambia») na kishazi kikuu («ningekusaidia»)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Kesho\":",
+          "prompt": "Kishazi hasi cha sharti la sasa cha kitenzi «ungesoma» kinaundwa kwa kutumia kiambishi kipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 21.3.",
-            "Mpangilio usio sahihi wa viambishi katika «Mchana»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Jioni»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Asubuhi»"
+            "usingesoma (If you were not to study - Correct negative '-singe-')",
+            "usiposoma (Huu ni ukanushaji wa sharti halisi la '-ki-')",
+            "hungesoma (Umbo lisilo sanifu)",
+            "hukusoma (Wakati uliopita hasi)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Ukanushaji wa sharti la «-nge-» ni «-singe-», hivyo «ungesoma» huwa «usingesoma»."
         }
       ]
     },
@@ -8883,17 +8912,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Kesho\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi iliyo sahihi kabisa inayotumia sharti chanya la -nge- na sharti hasi la -singe-:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 21.3.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Jioni»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Asubuhi»",
-            "Mpangilio usio sahihi wa viambishi katika «Mchana»"
+            "Wanafunzi wangesikiliza maelekezo ya mwalimu, wasingefanya makosa mengi katika jaribio la leo.",
+            "Wanafunzi wangesikiliza maelekezo ya mwalimu, hawatafanya makosa mengi.",
+            "Wanafunzi wakisikiliza maelekezo ya mwalimu, wasingefanya makosa mengi.",
+            "Sharti la '-nge-' halihitaji kiambishi sawa katika kishazi kikuu."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Muundo sahihi: «wangesikiliza» (sharti chanya la -nge-) na «wasingefanya» (sharti hasi la -singe- katika kishazi kikuu)."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u21-l4": {
@@ -8901,53 +8931,62 @@
     "subject": "swahili",
     "unit": 21,
     "lessonNumber": 4,
-    "title": "Masharti: Kiambishi -ki- na -nge-/-ngali- (Conditionals) (Part 4)",
+    "title": "Masharti Yaliyopita na Yasiyowezekana Tena: Kiambishi -ngali- na Ukanushaji -singali- (Past Counterfactual Conditionals)",
     "level": "B2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 21.4) with authentic precision.",
+    "objective": "Kuelewa na kutumia kiambishi cha sharti lililopita lisilowezekana tena (-ngali-) na ukanushaji wake (-singali-) kueleza mambo yaliyoshindikana zamani (Past Counterfactual: 'If had... would have').",
     "presentation": {
-      "explanation": "",
+      "explanation": "Kiambishi cha Sharti Lililopita na Lisilowezekana (-ngali- na -singali-):\n\nKiambishi cha **-ngali-** huonyesha **sharti lililopita ambalo halikutendeka kabisa na haliwezi kubadilika tena (*Past Counterfactual / Unfulfilled Condition: If X had happened, Y would have happened*)**:\n\n1. **Tofauti kati ya -nge- na -ngali-**:\n   - **-nge-**: Sharti la wakati wa sasa au ujao ambalo linawezekana kidhahania (*Ungesoma sasa, ungeelewa.*).\n   - **-ngali-**: Sharti la wakati uliopita ambalo fursa yake imeshapita na halitekelezeki tena (*Ungalisoma jana, ungalifaulu mtihani ule.* = If you had studied yesterday, you would have passed that exam).\n\n2. **Muundo wa Vishazi Viwili vya -ngali-**:\n   - Vishazi vyote viwili lazima viwe na kiambishi **-ngali-**:\n     - *Ni-ngali-pata taarifa mapema, ni-ngali-fika kwenye kikao.* (If I had received information early, I would have attended the meeting.)\n     - *Wa-ngali-fanya bidii, wa-ngali-vuna mazao mengi.* (If they had worked hard, they would have harvested many crops.)\n\n3. **Ukanushaji wa -ngali- unatumia -singali-**:\n   - Ukanushaji unaweka **-singali-** badala ya *-ngali-*:\n     - *U-singali-poteza ramani, tu-singali-potea.* (If you had not lost the map, we would not have gotten lost.)\n     - *Daktari a-singali-wahi, mgonjwa a-ngali-zidiwa.* (If the doctor had not arrived in time, the patient would have deteriorated.)\n\n4. **Vitenzi vya Silabi Moja**:\n   - Vitenzi vya silabi moja hubakiza *ku-*: *ningalikuja*, *ningalikula*, *ningalikunywa*.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 21.4.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 21."
+          "target": "Wangalifanya kazi kwa bidii msimu uliopita, wangalivuna mazao mengi na kupata faida kubwa.",
+          "reading": "Wa-nga-li-fa-nya ka-zi kwa bi-di-i msi-mu u-li-o-pi-ta, wa-nga-li-vu-na ma-za-o me-ngi na ku-pa-ta fa-i-da kbu-bwa. [wɑŋɡɑlifɑˈɲɑ ˈkɑzi kwɑ biˈdiː ˈmsimu uliɔˈpitɑ wɑŋɡɑlivuˈnɑ mɑˈzɑɔ ˈmɛŋɡi nɑ kuˈpɑtɑ fɑˈidɑ ˈkubwɑ] (wahn-gah-lee-FAH-nyah KAH-zee kwah bee-DEE-ee m-SEE-moo oo-lee-oh-PEE-tah, wahn-gah-lee-VOO-nah mah-ZAH-oh MAYN-gee nah koo-PAH-tah fah-EE-dah KOO-bwah)",
+          "translation": "If they had worked [wangalifanya: wa-ngali-fanya] hard last season, they would have harvested [wangalivuna: wa-ngali-vuna] plenty of crops and earned large profit."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 21-4).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Usingalipoteza ramani ile ya zamani, tusingalipotea porini usiku kucha bila msaada.",
+          "reading": "U-si-nga-li-po-te-za ra-ma-ni i-le ya za-ma-ni, tu-si-nga-li-po-te-a po-ri-ni u-si-ku ku-cha bi-la msa-a-da. [usiŋɡɑlipɔˈtɛzɑ rɑˈmɑni ˈilɛ jɑ zɑˈmɑni tusiŋɡɑlipɔˈtɛɑ pɔˈrini uˈsiku ˈkutʃɑ ˈbilɑ msɑˈɑdɑ] (oo-seen-gah-lee-poh-TAY-zah rah-MAH-nee EE-lay yah zah-MAH-nee, too-seen-gah-lee-poh-TAY-ah poh-REE-nee oo-SEE-koo KOO-chah BEE-lah m-sah-AH-dah)",
+          "translation": "If you had not lost [usingalipoteza: u-singali-poteza] that old map, we would not have gotten lost [tusingalipotea: tu-singali-potea] in the wild all night without help."
+        },
+        {
+          "target": "Daktari bingwa angalifika mapema zaidi jana, mgonjwa angalipata matibabu sahihi bila kuchelewa.",
+          "reading": "Da-kta-ri bi-ngwa a-nga-li-fi-ka ma-pe-ma za-i-di ja-na, mgo-njwa a-nga-li-pa-ta ma-ti-ba-bu sa-hi-hi bi-la ku-che-le-wa. [dɑkˈtɑri ˈbiŋɡwɑ ɑŋɡɑliˈfikɑ mɑˈpɛmɑ zɑˈidi ˈʤɑnɑ mˈɡɔnʤwɑ ɑŋɡɑliˈpɑtɑ mɑtiˈbɑbu sɑˈhihi ˈbilɑ kutʃɛˈlɛwɑ] (dahk-TAH-ree BEENG-wah ahn-gah-lee-FEE-kah mah-PAY-mah zah-EE-dee JAH-nah, m-GOHN-jwah ahn-gah-lee-PAH-tah mah-tee-BAH-boo sah-HEE-hee BEE-lah koo-chay-LAY-wah)",
+          "translation": "If the specialist doctor had arrived [angalifika: a-ngali-fika] earlier yesterday, the patient would have received [angalipata: a-ngali-pata] proper treatment without delay."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Kiambishi -ngali- = Past Counterfactual: ungalisoma (if you had read); ungalifaulu (you would have passed); usingalipoteza (if you had not lost) - hutumika kwa matukio yaliyopita!"
+      ],
+      "culturalNotes": [
+        "Neno la Kiswahili 'Maji yakimwagika hayazoleki' linaelezea falsafa hiyo hiyo ya masharti ya -ngali-: mambo yaliyopita hayawezi kurejeshwa."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Asubuhi\":",
+          "prompt": "Sentensi ipi inawakilisha sharti lililopita lisilowezekana tena (Past Counterfactual) kwa usahihi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 21.4.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mchana»",
-            "Mpangilio usio sahihi wa viambishi katika «Jioni»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Usiku»"
+            "Ningalijua matokeo ya uamuzi wangu jana, nisingalifanya makosa yale. (If I had known the results of my decision yesterday, I would not have made those mistakes - Correct '-ngali-' / '-singali-')",
+            "Ningejua matokeo ya uamuzi wangu nitafanya mazoezi",
+            "Nikijua matokeo ya uamuzi wangu jana nisingalifanya",
+            "Nalijua matokeo ya uamuzi wangu jana"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Ningalijua... nisingalifanya» inatekeleza kanuni ya sharti lililopita lisilowezekana tena kwa kutumia «-ngali-» na «-singali-»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Asubuhi\":",
+          "prompt": "Kishazi hasi cha sharti lililopita cha kitenzi «wangalifika» kinaundwa vipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 21.4.",
-            "Mpangilio usio sahihi wa viambishi katika «Jioni»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Usiku»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mchana»"
+            "wasingalifika (If they had not arrived - Correct negative '-singali-')",
+            "wasingefika (Huu ni ukanushaji wa sharti la sasa la '-nge-')",
+            "wasipofika (Ukanushaji wa sharti halisi la '-ki-')",
+            "hawakufika (Wakati uliopita hasi wa kawaida)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Kitenzi «wangalifika» kinapokanushwa katika sharti la -ngali- huwa «wasingalifika»."
         }
       ]
     },
@@ -8955,17 +8994,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Asubuhi\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi iliyo sahihi kabisa inayotumia sharti chanya la -ngali- na sharti hasi la -singali- kwa muktadha wa wakati uliopita:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 21.4.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Usiku»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mchana»",
-            "Mpangilio usio sahihi wa viambishi katika «Jioni»"
+            "Mvua ingalinyesha mwaka jana kama ilivyotarajiwa, tusingalipata hasara hii ya ukame.",
+            "Mvua ikinyesha mwaka jana kama ilivyotarajiwa, tusingalipata hasara hii.",
+            "Mvua ingalinyesha mwaka jana, hatutapata hasara.",
+            "Masharti ya '-ngali-' yanaweza kutumika tu kwa vitendo vinavyotokea kesho."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Muundo sahihi wa wakati uliopita usiorejeshwa: «ingalinyesha» (-ngali-) na «tusingalipata» (-singali-)."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u21-l5": {
@@ -8973,53 +9013,62 @@
     "subject": "swahili",
     "unit": 21,
     "lessonNumber": 5,
-    "title": "Masharti: Kiambishi -ki- na -nge-/-ngali- (Conditionals) (Part 5)",
+    "title": "Muhtasari wa Mifumo ya Masharti katika Kiswahili (Conditionals Grand Synthesis: -ki-, -sipo-, -nge-, -singe-, -ngali-, -singali-)",
     "level": "B2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 21.5) with authentic precision.",
+    "objective": "Kuunganisha mada zote za Unit 21: kulinganisha na kutofautisha sharti halisi (-ki-/-sipo-), sharti la dhahania la sasa (-nge-/-singe-), sharti lililopita lisilowezekana (-ngali-/-singali-), na matumizi ya viunganishi vya masharti (kama, ikiwa, iwapo, endapo).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Muhtasari Mkuu wa Mifumo ya Masharti katika Kiswahili (Conditionals Master Matrix):\n\n1. **Ngazi Tatu Kuu za Masharti katika Kiswahili**:\n   - **Ngazi ya 1: Sharti Halisi Linalowezekana (Real / Present-Future)**:\n     - *Chanya*: **-ki-** (*Ukisoma, utafaulu.*)\n     - *Hasi*: **-sipo-** (*Usiposoma, utafeli.*)\n     - *Uhusiano*: Kishazi kikuu huchukua wakati ujao *-ta-* au amri.\n   - **Ngazi ya 2: Sharti la Dhahania / Hali ya Sasa (Present Hypothetical)**:\n     - *Chanya*: **-nge-** (*Ungesoma, ungefaulu.*)\n     - *Hasi*: **-singe-** (*Usingesoma, usingefaulu.*)\n     - *Uhusiano*: Vishazi vyote viwili lazima vichukue *-nge-* au *-singe-*.\n   - **Ngazi ya 3: Sharti Lililopita Lisilowezekana (Past Counterfactual)**:\n     - *Chanya*: **-ngali-** (*Ungalisoma, ungalifaulu.*)\n     - *Hasi*: **-singali-** (*Usingalisoma, usingalifaulu.*)\n     - *Uhusiano*: Vishazi vyote viwili lazima vichukue *-ngali-* au *-singali-*.\n\n2. **Matumizi ya Maneno ya Masharti (Conditional Conjunctions)**:\n   - Maneno kama **kama**, **ikiwa**, **iwapo**, na **endapo** yanaweza kuwekwa mwanzoni mwa sentensi ili kuongeza msisitizo wa kishazi cha sharti:\n     - *Iwapo ukizingatia maelekezo...* (In case you heed the instructions...)\n     - *Kama ungalinijulisha mapema...* (If you had informed me early...)\n     - *Endapo mvua ikinyesha...* (In the event that rain falls...).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 21.5.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 21."
+          "target": "Iwapo ukizingatia maelekezo haya, na kama ungalijua umuhimu wake mapema, usingalipoteza muda mwingi kiasi kile.",
+          "reading": "I-wa-po u-ki-zi-nga-tia ma-e-le-ke-zo ha-ya, na ka-ma u-nga-li-jua u-mu-hi-mu wa-ke ma-pe-ma, u-si-nga-li-po-te-za mu-da mwi-ngi ki-a-si ki-le. [iwɑˈpɔ ukiziˈŋɡɑtiɑ mɑɛlɛˈkɛzɔ ˈhɑjɑ nɑ ˈkɑmɑ uŋɡɑliˈʤuɑ umuˈhimu ˈwɑkɛ mɑˈpɛmɑ usiŋɡɑlipɔˈtɛzɑ ˈmudɑ ˈmwiŋɡi kiˈɑsi ˈkilɛ] (ee-wah-POH oo-kee-zeen-GAH-tee-ah mah-ay-lay-KAY-zoh HAH-yah, nah KAH-mah oon-gah-lee-JOO-ah oo-moo-HEE-moo WAH-kay mah-PAY-mah, oo-seen-gah-lee-poh-TAY-zah MOO-dah MWEE-ngee kee-AH-see KEE-lay)",
+          "translation": "If you heed [ukizingatia: -ki-] these directions, and if you had known [ungalijua: -ngali-] their importance early, you would not have lost [usingalipoteza: -singali-] so much time."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 21-5).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Endapo viongozi wangalisikiliza ushauri wa wananchi, miradi yote ingalitekelezwa kwa wakati na bila migogoro.",
+          "reading": "E-nda-po vi-o-ngo-zi wa-nga-li-si-ki-li-za u-sha-u-ri wa wa-na-nchi, mi-ra-di yo-te i-nga-li-te-ke-le-zwa kwa wa-ka-ti na bi-la mi-go-go-ro. [ɛˈndɑpɔ viɔˈŋɡɔzi wɑŋɡɑlisiˈkilizɑ uʃɑˈuri wɑ wɑnɑˈntʃi miˈrɑdi ˈjɔtɛ iŋɡɑlitɛkɛˈlɛzwɑ kwɑ wɑˈkɑti nɑ ˈbilɑ miɡɔˈɡɔrɔ] (ayn-DAH-poh vee-ohn-GOH-zee wahn-gah-lee-see-kee-LEE-zah oo-shah-OO-ree wah wah-nahn-CHEE, mee-RAH-dee YOH-tay een-gah-lee-tay-kay-LAY-zwah kwah wah-KAH-tee nah BEE-lah mee-goh-GOH-roh)",
+          "translation": "Had leaders listened to [wangalisikiliza: -ngali-] citizens' counsel, all projects would have been implemented [ingalitekelezwa] on time and without conflicts."
+        },
+        {
+          "target": "Umahiri wa mifumo ya masharti humwezesha mzungumzaji wa Kiswahili kutofautisha kwa usahihi kabisa kati ya uwezekano halisi wa sasa na majuto au ndoto za mambo yaliyopita.",
+          "reading": "U-ma-hi-ri wa mi-fu-mo ya ma-sha-rti hu-mwe-ze-sha mzu-ngu-mza-ji wa Ki-swa-hi-li ku-to-fa-u-ti-sha kwa u-sa-hi-hi ka-bi-sa ka-ti ya u-we-ze-ka-no ha-li-si wa sa-sa na ma-ju-to au ndo-to za ma-mbo ya-li-yo-pi-ta. [umɑˈhiri wɑ miˈfumɔ jɑ mɑˈʃɑrti humwɛzɛˈʃɑ mzuŋɡumˈzɑʤi wɑ kiswɑˈhili kutɔfɑuˈtiʃɑ kwɑ usɑˈhihi kɑˈbisɑ ˈkɑti jɑ uwɛzɛˈkɑnɔ hɑˈlisi wɑ ˈsɑsɑ nɑ mɑˈʤutɔ ɑu ˈndɔtɔ zɑ ˈmɑmbɔ jɑlijɔˈpitɑ] (oo-mah-HEE-ree wah mee-FOO-moh yah mah-SHAHR-tee hoom-way-zay-SHAH m-zoon-goom-ZAH-jee wah kee-swah-HEE-lee koo-toh-fah-oo-TEE-shah kwah oo-sah-HEE-hee kah-BEE-sah KAH-tee yah oo-way-zay-KAH-noh hah-LEE-see wah SAH-sah nah mah-JOO-toh ah-oo N-DOH-toh zah MAHM-boh yah-lee-yoh-PEE-tah)",
+          "translation": "Mastery of conditional systems [conditionals grand synthesis: -ki-, -sipo-, -nge-, -ngali-] empowers the Swahili speaker to distinguish with flawless precision between real present possibilities and counterfactual past realities."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Conditionals Grand Synthesis: -ki-/-sipo- (Halisi: Ukisoma / Usiposoma); -nge-/-singe- (Sasa: Ungesoma / Usingesoma); -ngali-/-singali- (Zamani: Ungalisoma / Usingalisoma)!"
+      ],
+      "culturalNotes": [
+        "Lugha ya Kiswahili inathamini uwazi wa masharti katika mikataba ya kijamii na ndoa (Mahari na Makubaliano) ili kuzuia kutokuelewana siku zijazo."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Mchana\":",
+          "prompt": "Ni jozi ipi inayoonyesha ulinganifu sahihi wa kiambishi cha sharti na maana yake katika Kiswahili?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 21.5.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Jioni»",
-            "Mpangilio usio sahihi wa viambishi katika «Usiku»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Wiki»"
+            "-ki- (Sharti halisi linalowezekana), -nge- (Sharti la dhahania la sasa), -ngali- (Sharti lililopita lisilowezekana tena).",
+            "-ki- (Sharti lililopita), -nge- (Wakati ujao), -ngali- (Wakati uliopo).",
+            "-ki- (Sharti hasi), -nge- (Sharti chanya), -ngali- (Hakuna maana).",
+            "Mifumo ya masharti katika Kiswahili haina tofauti ya wakati au uwezekano."
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Mgawanyo sahihi wa masharti ya Kiswahili ni: -ki- (halisi/probable), -nge- (dhahania/hypothetical), na -ngali- (yaliyopita/counterfactual)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Mchana\":",
+          "prompt": "Sentensi ipi inachanganya neno la sharti \"Endapo\" na kiambishi cha sharti \"-ki-\" kwa usahihi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 21.5.",
-            "Mpangilio usio sahihi wa viambishi katika «Usiku»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Wiki»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Jioni»"
+            "Endapo ukikubali ofa hii ya kazi, utaanza mafunzo rasmi juma lijalo. (In the event that you accept this job offer, you will begin official training next week - Correct usage)",
+            "Endapo ungekubali ofa hii utakubali kazi",
+            "Endapo ulikubali ofa hii umeanza mafunzo",
+            "Endapo unakubali ofa hii jana"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Endapo ukikubali ofa hii, utaanza mafunzo» inatumia neno la sharti «Endapo» likiambatana na kiambishi «-ki-» na wakati ujao «-ta-»."
         }
       ]
     },
@@ -9027,17 +9076,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Mchana\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 21 ya Mifumo ya Masharti katika lugha ya Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 21.5.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Wiki»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Jioni»",
-            "Mpangilio usio sahihi wa viambishi katika «Usiku»"
+            "Ukifanya kazi kwa bidii utafanikiwa, ungalinijulisha jana ningalikusaidia, na tusiposhirikiana pamoja kama jamii hatutaweza kufikia malengo yetu. (Real conditional [-ki-, -sipo-], and past counterfactual [-ngali-].)",
+            "Ukifanya kazi ungalifanikiwa bila kufanya chochote.",
+            "Watu wote walikaa bila kutumia mifumo yoyote ya masharti.",
+            "Kiambishi cha sharti hakina tofauti kati ya wakati uliopo na uliopita."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Ukifanya kazi kwa bidii utafanikiwa, ungalinijulisha jana ningalikusaidia, na tusiposhirikiana pamoja kama jamii hatutaweza kufikia malengo yetu.» inajumuisha nyanja zote za mifumo ya masharti kwa ukamilifu."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u22-l1": {
