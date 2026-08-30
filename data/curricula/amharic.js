@@ -8139,85 +8139,62 @@
     "subject": "amharic",
     "unit": 18,
     "lessonNumber": 1,
-    "title": "ውስብስብ የግስ ዓይነቶች እና እርባታ (Complex Verb Morphology) (ክፍል 1)",
+    "title": "ተሻጋሪ እና ተሻጋሪ ያልሆኑ ግሶች (Transitive & Intransitive Verbs)",
     "level": "B1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የተሻጋሪና ተሻጋሪ ያልሆኑ ግሶች፣ አስደራጊና ተደራጊ የግስ ክፍሎች። (ክፍል 1)።",
+    "objective": "ተሻጋሪ (ተሳቢ የሚፈልጉ) እና ተሻጋሪ ያልሆኑ (ተሳቢ የማይፈልጉ) ግሶችን መለየትና መጠቀም።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የተሻጋሪ እና ተሻጋሪ ያልሆኑ ግሶች ሰዋሰዋዊ ህግ:\n\n፩. ተሻጋሪ ግሶች (Transitive Verbs):\n- ድርጊቱ ወደ ቀጥተኛ ተሳቢ የሚሸጋገርባቸውና «ማንን?» ወይም «ምንን?» ለሚለው ጥያቄ መልስ የሚሰጡ ናቸው።\n- ምሳሌ: በላ (በላው)፣ ጻፈ (ጻፈው)፣ ገዛ (ገዛው)፣ አነበበ (አነበበው)።\n- ተሳቢው «-ን» የሚለውን የተሳቢ ቅጥያ ይወስዳል («መጽሐፉን አነበበ»)።\n\n፪. ተሻጋሪ ያልሆኑ (ኢ-ተሻጋሪ) ግሶች (Intransitive Verbs):\n- ድርጊቱ በባለቤቱ ላይ ብቻ የሚቆምና ወደ ተሳቢ የማይሸጋገርባቸው ናቸው።\n- ምሳሌ: ሄደ፣ መጣ፣ ተኛ፣ ሞተ፣ ሳቀ፣ ወደቀ።\n- ቀጥተኛ ተሳቢ አይወስዱም («ተማሪው ተኛ»)።",
       "examples": [
         {
-          "target": "መምህሩ የ«ውስብስብ የግስ ዓይነቶች እና እርባታ (Complex Verb Morphology)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (18.1.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ውስብስብ የግስ ዓይነቶች እና እርባታ (Complex Verb Morphology)' to the students."
+          "target": "ተማሪው መጽሐፉን በጥልቀት አነበበ እንዲሁም አዳዲስ ማስታወሻዎችን ጻፈ።",
+          "reading": "Tämariw mäts’hafun bät’əlqät annäbbäbä əndihum addaddis mastawäšawoččən t’afä. [tɛmaˈriw mɛtsʼhaˈfun bɛtʼɨlˈkʼɛt ʔanːɛbːɛˈbɛ ʔɨndiˈhum ʔadːadːis mastawɛʃawoˈtʃːɨn tʼaˈfɛ] (teh-mah-REEW mets'-hah-FOON beh-t'ul-K'ET ahn-neb-beh-BEH un-dee-HOOM ahd-dahd-DEES mahs-tah-weh-shah-wohch-CHOON t'ah-FEH)",
+          "translation": "The student read the book thoroughly and wrote new notes."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (18.1.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "እንግዶቹ በሰዓቱ ደረሱና በሳሎን ውስጥ ባለው ምቹ ሶፋ ላይ ተቀመጡ።",
+          "reading": "Əngədočču bäsäʿatu därräsunna bäsalon wəst’ balläw məč’u sofa lay täqämmät’u. [ʔɨnɡɨdoˈtʃːu bɛsɛˈʔatu dɛrːɛˈsunːa bɛsaˈlon wɨstʼ balːɛw mɨtʃʼu soˈfa laj tɛkʼɛmːɛˈtʼu] (un-guh-DOHCH-choo beh-seh-AH-too der-reh-SOON-nah beh-sah-LOHN woos-T' bahl-LEW muh-CH'OO soh-FAH lye teh-k'em-meh-T'OO)",
+          "translation": "The guests arrived on time and sat on the comfortable sofa in the living room."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (18.1.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (18.1.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "አስተማሪው ጥያቄውን ጠየቀ፤ ተማሪዎቹም ፈጥነው መልሱን መለሱ።",
+          "reading": "Astämariw t’əyaqewən t’äyyäqä; tämariwoččum fät’näw mälssun mälläsu. [ʔastɛmaˈriw tʼɨjaˈkʼewɨn tʼɛjːɛˈkʼɛ tɛmariwoˈtʃːum fɛtʼˈnɛw mɛlˈsun mɛlːɛˈsu] (ahs-teh-mah-REEW t'uh-yah-k'ay-WUN t'ey-yeh-K'EH; teh-mah-ree-wohch-CHOOM fet'-NEW mel-SOON mel-leh-SOO)",
+          "translation": "The teacher asked the question; the students promptly returned the answer."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Verb Flow: ተሻጋሪ (Crosses to Object with -ን) vs. ኢ-ተሻጋሪ (Stays with Subject)!"
+      ],
+      "culturalNotes": [
+        "በአማርኛ ስነ-ጽሑፍ የተሳቢ ቅጥያ «-ን» ወሳኝ ሰዋሰዋዊ ሚና ያለው ሲሆን፣ የድርጊቱን ተቀባይ ለይቶ ለማሳወቅ ያገለግላል።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ውስብስብ የግስ ዓይነቶች እና እርባታ (Complex Verb Morphology)» (ክፍል 1) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "ከሚከተሉት ውስጥ ተሻጋሪ ግስ (Transitive verb) የያዘው የትኛው ዓረፍተ ነገር ነው?",
           "options": [
-            "መምህሩ የ«ውስብስብ የግስ ዓይነቶች እና እርባታ (Complex Verb Morphology)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (18.1.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (18.1.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (18.1.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (18.1.w3)"
+            "ልጁ ኳሱን መታ። (The boy kicked the ball - Transitive verb with direct object marker -n)",
+            "ልጁ ተኛ",
+            "ልጁ ሄደ",
+            "ልጁ መጣ"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ልጁ ኳሱን መታ» በሚለው ውስጥ 'መታ' የሚለው ግስ 'ኳሱን' የሚል ቀጥተኛ ተሳቢ ስለሚወስድ ተሻጋሪ ግስ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u18-l1) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "ተሻጋሪ ያልሆነ (Intransitive verb) የያዘውን ዓረፍተ ነገር ይምረጡ:",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (18.1.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (18.1.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (18.1.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (18.1.x3)"
+            "እንግዳው በሰላም ደረሰ። (The guest arrived safely - Intransitive verb without direct object)",
+            "እንግዳው ሻይ ጠጣ",
+            "እንግዳው ደብዳቤ ጻፈ",
+            "እንግዳው ዳቦ በላ"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ውስብስብ የግስ ዓይነቶች እና እርባታ (Complex Verb Morphology)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (18.1.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (18.1.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (18.1.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (18.1.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ደረሰ» የሚለው ግስ ድርጊቱ በባለቤቱ ላይ የሚቆም በመሆኑ ተሻጋሪ ያልሆነ (ኢ-ተሻጋሪ) ግስ ነው።"
         }
       ]
     },
@@ -8225,24 +8202,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 18-1):",
+          "prompt": "የተሻጋሪ እና ተሻጋሪ ያልሆኑ ግሶችን ልዩነት በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (18.1.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (18.1.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (18.1.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (18.1.z3)"
+            "ተሻጋሪ ግሶች ቀጥተኛ ተሳቢ (-ን) ሲፈልጉ፣ ተሻጋሪ ያልሆኑ ግሶች ግን ተሳቢ አይፈልጉም።",
+            "ሁሉም የአማርኛ ግሶች ተሻጋሪ ናቸው።",
+            "ተሻጋሪ ግሶች ባለቤት የላቸውም።",
+            "በአማርኛ የግስ ክፍሎች የሉም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የተሻጋሪና ኢ-ተሻጋሪ ግሶችን መሰረታዊ ሰዋሰዋዊ ህግ በትክክል ያብራራል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u18-l1) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ውስብስብ»):",
+          "prompt": "'ተሻጋሪ / Transitive' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ውስብስብ",
-            "ውስብስብ"
+            "ተሻጋሪ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ውስብስብ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ተሻጋሪ» (Täšagari) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -8253,85 +8229,62 @@
     "subject": "amharic",
     "unit": 18,
     "lessonNumber": 2,
-    "title": "ውስብስብ የግስ ዓይነቶች እና እርባታ (Complex Verb Morphology) (ክፍል 2)",
+    "title": "ተደራጊ የግስ ክፍሎች (Passive Voice & Reflexive - Stem Prefix «ተ-»)",
     "level": "B1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የተሻጋሪና ተሻጋሪ ያልሆኑ ግሶች፣ አስደራጊና ተደራጊ የግስ ክፍሎች። (ክፍል 2)።",
+    "objective": "ተደራጊ ግሶችን በቅድመ-ቅጥያ «ተ-» በመጠቀም አድራጊው ላልታወቀ ወይም ለተደራጊው ትኩረት ለሚሰጥ ዓረፍተ ነገር መጠቀም።",
     "presentation": {
-      "explanation": "",
+      "explanation": "ተደራጊ የግስ ክፍሎች ሰዋሰዋዊ መዋቅር (Passive Voice):\n\n፩. የተደራጊ ግስ ምስረታ:\n- ቀዳሚው ግስ ላይ «ተ-» የሚለውን ቅድመ-ቅጥያ በማስገባት ይመሰረታል።\n- ጻፈ (Wrote) -> ተጻፈ (Was written)\n- ሰራ (Made/Built) -> ተሰራ (Was made/built)\n- አነበበ (Read) -> ተነበበ (Was read)\n- አዘጋጀ (Prepared) -> ተዘጋጀ (Was prepared)\n- ሰበረ (Broke) -> ተሰበረ (Was broken)\n\n፪. የተደራጊ ግስ አገልግሎት:\n- ድርጊቱ የተፈጸመበትን ነገር ወይም ተቀባዩን ለማጉላት።\n- አድራጊው በማይታወቅበት ወይም መጥቀስ በማያስፈልግበት ጊዜ («ቤቱ ተሰራ» / «ውሉ ተፈረመ»)።",
       "examples": [
         {
-          "target": "መምህሩ የ«ውስብስብ የግስ ዓይነቶች እና እርባታ (Complex Verb Morphology)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (18.2.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ውስብስብ የግስ ዓይነቶች እና እርባታ (Complex Verb Morphology)' to the students."
+          "target": "አዲሱ የትምህርት መመሪያ በመምህራኑና በባለሙያዎቹ አማካኝነት በሚገባ ተዘጋጀ።",
+          "reading": "Addisu yätəmhərt mämmäriya bämämhəranunna bäbalämuyawočču amakanyənät bämigäba täzäggağğä. [ʔadːiˈsu jɛtɨmˈhɨrt mɛmːɛriˈja bɛmɛmhɨraˈnunːa bɛbalɛmujawoˈtʃːu ʔamakaɲɨˈnɛt bɛmiɡɛˈba tɛzɛɡːaˈdʒːɛ] (ahd-dee-SOO yeh-tum-HURT mem-meh-ree-YAH beh-mem-huh-rah-NOON-nah beh-bah-leh-moo-yah-wohch-CHOO ah-mah-kahn-yuh-NET beh-mee-geh-BAH teh-zeg-GAHJ-jeh)",
+          "translation": "The new educational guideline was properly prepared through the teachers and experts."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (18.2.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ይህ ታሪካዊ መጽሐፍ በብዙ ቋንቋዎች ተተርጉሞ በዓለም ዙሪያ ተነበበ።",
+          "reading": "Yəh tarikawi mäts’haf bäbəzu qwanqwawočč tätärgumo bä'aläm zuriya tännäbbäbä. [jɨh tariˈkawi mɛtsʼˈhaf bɛbɨˈzu kʼʷankʼʷaˈwotʃː tɛtɛrˈɡumo bɛʔaˈlɛm zuˈrija tɛnːɛbːɛˈbɛ] (yuh tah-ree-KAH-wee mets'-HAHF beh-buh-ZOO k'wahn-k'wah-wohch-CH teh-ter-GOO-moh beh-AH-lem zoo-REE-yah ten-neb-beh-BEH)",
+          "translation": "This historical book was translated into many languages and read around the world."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (18.2.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (18.2.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "የከተማው ዋና መንገድ በዘመናዊ ቴክኖሎጂ ታድሶ በድጋሚ ተከፈተ።",
+          "reading": "Yäkätämaw wana mängäd bäzämänawi tekənoloğği taddəso bädəgami täkäffätä. [jɛkɛtɛˈmaw waˈna mɛnˈɡɛd bɛzɛmɛnaˈwi teknoloˈdʒi tadːɨˈso bɛdɨɡaˈmi tɛkɛfːɛˈtɛ] (yeh-keh-teh-MAHW wah-NAH men-GED beh-zeh-meh-nah-WEE tek-noh-loh-JEE tahd-duh-SOH beh-duh-gah-MEE teh-kef-feh-TEH)",
+          "translation": "The city's main road was renovated with modern technology and reopened."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Passive Transform: አድራጊ (Active) + ተ- (Prefix) = ተደራጊ (ተጻፈ / ተሰራ / ተከፈተ)!"
+      ],
+      "culturalNotes": [
+        "በአማርኛ ቋንቋ ተደራጊ ግሶች በዜና፣ በህጋዊ ሰነዶችና በአካዳሚክ ጽሑፎች ውስጥ ገለልተኛና መደበኛ ቃና ለመፍጠር በስፋት ይሠራባቸዋል።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ውስብስብ የግስ ዓይነቶች እና እርባታ (Complex Verb Morphology)» (ክፍል 2) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«The letter was written» የሚለውን በአማርኛ ትክክለኛ ተደራጊ ግስ የተጠቀመው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«ውስብስብ የግስ ዓይነቶች እና እርባታ (Complex Verb Morphology)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (18.2.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (18.2.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (18.2.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (18.2.w3)"
+            "ደብዳቤው ተጻፈ። (The letter was written - Correct passive verb with ተ- prefix)",
+            "ደብዳቤው ጻፈ",
+            "ደብዳቤው አስጻፈ",
+            "ደብዳቤው ጠፋ"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ተጻፈ» የሚለው ግስ 'ጻፈ' ከሚለው ንቁ ግስ 'ተ-' ቅድመ-ቅጥያ በመጨመር የተመሰረተ ተደራጊ ግስ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u18-l2) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'The door was opened' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (18.2.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (18.2.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (18.2.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (18.2.x3)"
+            "በሩ ተከፈተ። (The door was opened - Accurate passive verb construction)",
+            "በሩ ከፈተ",
+            "በሩ ዘጋ",
+            "በሩ አስከፈተ"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ውስብስብ የግስ ዓይነቶች እና እርባታ (Complex Verb Morphology)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (18.2.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (18.2.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (18.2.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (18.2.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«በሩ ተከፈተ» ድርጊቱ በበሩ ላይ መፈጸሙን የሚያሳይ ተደራጊ ግስ ነው።"
         }
       ]
     },
@@ -8339,24 +8292,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 18-2):",
+          "prompt": "ተደራጊ ግሶችን (Passive verbs) በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (18.2.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (18.2.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (18.2.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (18.2.z3)"
+            "ተጻፈ፣ ተነበበ፣ ተሰራ፣ ተዘጋጀ እና ተከፈተ።",
+            "በላ፣ ጠጣ፣ ሄደ እና መጣ።",
+            "ትልቅ፣ ትንሽ እና መካከለኛ።",
+            "በአማርኛ ተደራጊ ግስ የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ በ«ተ-» ቅድመ-ቅጥያ የተመሰረቱ ዋና ዋና ተደራጊ ግሶችን ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u18-l2) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ውስብስብ»):",
+          "prompt": "'ተደራጊ / Passive' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ውስብስብ",
-            "ውስብስብ"
+            "ተደራጊ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ውስብስብ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ተደራጊ» (Tädäragi) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -8367,85 +8319,62 @@
     "subject": "amharic",
     "unit": 18,
     "lessonNumber": 3,
-    "title": "ውስብስብ የግስ ዓይነቶች እና እርባታ (Complex Verb Morphology) (ክፍል 3)",
+    "title": "አስደራጊ እና አድራጊ የግስ ክፍሎች (Causative Voice - Stem Prefixes «አ-» & «አስ-»)",
     "level": "B1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የተሻጋሪና ተሻጋሪ ያልሆኑ ግሶች፣ አስደራጊና ተደራጊ የግስ ክፍሎች። (ክፍል 3)።",
+    "objective": "አስደራጊ ግሶችን በቅድመ-ቅጥያ «አ-» እና «አስ-» በመጠቀም ሌላ አካልን በማሰራት ወይም በማስደረግ ድርጊትን መግለጽ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "አስደራጊ የግስ ክፍሎች ሰዋሰዋዊ ህግ (Causative Voice):\n\n፩. ቀላል አስደራጊ (Simple Causative with «አ-»):\n- ኢ-ተሻጋሪ ግስን ወደ ተሻጋሪ ለመቀየር ያገለግላል።\n- ወጣ (Went out) -> አወጣ (Took out / brought out)\n- ገባ (Entered) -> አገባ (Brought in / married)\n- ጠጣ (Drank) -> አጠጣ (Gave drink / watered)\n\n፪. ጠንካራ አስደራጊ (Agentive Causative with «አስ-»):\n- ድርጊቱን በሌላ ሦስተኛ አካል አማካኝነት ማከናወንን (Have someone do something) ያመለክታል።\n- ጻፈ (Wrote) -> አስጻፈ (Had someone write)\n- ሰራ (Made) -> አስሰራ (Had someone make / ordered)\n- ጠገነ (Repaired) -> አስጠገነ (Had something repaired)\n- አስተማረ (Taught / caused to learn)።",
       "examples": [
         {
-          "target": "መምህሩ የ«ውስብስብ የግስ ዓይነቶች እና እርባታ (Complex Verb Morphology)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (18.3.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ውስብስብ የግስ ዓይነቶች እና እርባታ (Complex Verb Morphology)' to the students."
+          "target": "አባቴ የተበላሸውን መኪና በመካኒኩ በኩል አስጠገነ።",
+          "reading": "Abbate yätäbällašäwən mäkina bämäkaniku bäkkul ast’äggänä. [ʔabːaˈte jɛtɛbɛlːaˈʃɛwɨn mɛkiˈna bɛmɛkaniˈku bɛkːul ʔastʼɛɡːɛˈnɛ] (ahb-bah-TAY yeh-teh-bel-lah-SHEW-un meh-kee-NAH beh-meh-kah-nee-KOO bek-KOOL ahs-t'eg-geh-NEH)",
+          "translation": "My father had the broken car repaired through the mechanic."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (18.3.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ነጋዴው አዲስ የመኖሪያ ቤት በባለሙያዎች አስገነባ።",
+          "reading": "Näggadew addis yämänoriya bet bäbalämuyawočč asgännäba. [nɛɡːaˈdew ʔadːis jɛmɛnoriˈja bet bɛbalɛmujaˈwotʃː ʔasɡɛnːɛˈba] (neg-gah-DAY-woo ahd-DEES yeh-meh-noh-ree-YAH bayt beh-bah-leh-moo-yah-WOHCH ahs-gen-neh-BAH)",
+          "translation": "The merchant had a new residential house built by professionals."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (18.3.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (18.3.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "መምህሩ ተማሪዎቹን አዳዲስ ቃላትን በደብተራቸው ላይ አስጻፈ።",
+          "reading": "Mämhəru tämariwoččun addaddis qalatən bädäbtäraččäw lay ast’afä. [mɛmhɨˈru tɛmariwoˈtʃːun ʔadːadːis kʼalaˈtɨn bɛdɛbtɛraˈtʃːɛw laj ʔastʼaˈfɛ] (mem-huh-ROO teh-mah-ree-wohch-CHOON ahd-dahd-DEES k'ah-lah-TUN beh-deb-teh-rahch-CHEW lye ahs-t'ah-FEH)",
+          "translation": "The teacher made the students write new words in their exercise books."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Causative Spark: Direct (አ- : አበላ) vs. Agentive (አስ- : አስጠገነ / አስገነባ / አስጻፈ)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ማህበራዊ ኑሮ 'አስሰራሁ' ወይም 'አስጠገንኩ' የሚሉ ቃላት የዕደ-ጥበብና የሙያ አገልግሎቶችን በባለሙያ የማሰራት ባህልን ያንጸባርቃሉ።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ውስብስብ የግስ ዓይነቶች እና እርባታ (Complex Verb Morphology)» (ክፍል 3) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«He had the house built by workers» የሚለውን በአማርኛ ትክክለኛ አስደራጊ ግስ የያዘው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«ውስብስብ የግስ ዓይነቶች እና እርባታ (Complex Verb Morphology)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (18.3.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (18.3.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (18.3.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (18.3.w3)"
+            "ቤቱን በሠራተኞች አስገነባ። (He had the house built by workers - Correct causative with አስ- prefix)",
+            "ቤቱ ተገነባ",
+            "ቤቱን አፈረሰ",
+            "ምንም ቤት አልተሰራም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«አስገነባ» የሚለው ግስ 'ገነባ' ከሚለው ግስ 'አስ-' በመጨመር የተመሰረተ አስደራጊ ግስ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u18-l3) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'I had the car repaired' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (18.3.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (18.3.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (18.3.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (18.3.x3)"
+            "መኪናውን አስጠገንኩ። (I had the car repaired - Accurate agentive causative)",
+            "መኪናውን ጠገንኩ",
+            "መኪናው ተሰበረ",
+            "መኪና የለኝም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ውስብስብ የግስ ዓይነቶች እና እርባታ (Complex Verb Morphology)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (18.3.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (18.3.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (18.3.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (18.3.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«አስጠገንኩ» ሌላ ባለሙያ አሰርቶ ማስተካከልን የሚያመለክት አስደራጊ ግስ ነው።"
         }
       ]
     },
@@ -8453,24 +8382,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 18-3):",
+          "prompt": "አስደራጊ ግሶችን (Causative verbs) በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (18.3.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (18.3.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (18.3.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (18.3.z3)"
+            "አስጻፈ፣ አስጠገነ፣ አስገነባ፣ አስጠና እና አስተማረ።",
+            "ተኛ፣ ተቀመጠ እና ወደቀ።",
+            "ውሃ፣ ወተት እና ሻይ።",
+            "በአማርኛ አስደራጊ ግስ የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ በ«አስ-» ቅድመ-ቅጥያ የተመሰረቱ ዋና ዋና አስደራጊ ግሶችን ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u18-l3) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ውስብስብ»):",
+          "prompt": "'አስደራጊ / Causative' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ውስብስብ",
-            "ውስብስብ"
+            "አስደራጊ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ውስብስብ» ነው።"
+          "explanation": "ትክክለኛው ቃል «አስደራጊ» (Asdäragi) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -8481,85 +8409,62 @@
     "subject": "amharic",
     "unit": 18,
     "lessonNumber": 4,
-    "title": "ውስብስብ የግስ ዓይነቶች እና እርባታ (Complex Verb Morphology) (ክፍል 4)",
+    "title": "ተደራራጊ እና አስደራራጊ ግሶች (Reciprocal & Frequentative Verbs)",
     "level": "B1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የተሻጋሪና ተሻጋሪ ያልሆኑ ግሶች፣ አስደራጊና ተደራጊ የግስ ክፍሎች። (ክፍል 4)።",
+    "objective": "ተደራራጊ (የጋራ ድርጊት) እና ተደጋጋሚ (ተደጋግሞ የሚፈጸም) ግሶችን መጠቀም።",
     "presentation": {
-      "explanation": "",
+      "explanation": "ተደራራጊ እና ተደጋጋሚ የግስ ዓይነቶች:\n\n፩. ተደራራጊ ግሶች (Reciprocal Verbs):\n- ሁለትና ከዚያ በላይ የሆኑ አካላት ድርጊትን እርስ በርስ ሲፈራረቁ ወይም በጋራ ሲያደርጉ።\n- ቅርጽ: የግሱ መካከለኛ ፊደል ወደ አራተኛ (ወይም ሳድስ) ድምፅ ይረዝማል።\n- ተደገፈ -> ተደጋገፉ (Supported each other)\n- ተጨበጠ -> ተጨባበጡ (Shook hands with each other)\n- ተረዳ -> ተረዳዱ (Helped each other)\n- ተነጋገረ -> ተነጋገሩ (Talked with each other)\n\n፪. ተደጋጋሚ ድርጊት (Frequentative Verbs):\n- አንድ ድርጊት በተደጋጋሚና በቁርጥራጭ ሲፈጸም የሚገለጽበት የግስ ቅርጽ።\n- ቆረጠ -> ቆራረጠ (Cut into multiple pieces / chopped)\n- ሰበረ -> ሰባበረ (Smashed into pieces / shattered)።",
       "examples": [
         {
-          "target": "መምህሩ የ«ውስብስብ የግስ ዓይነቶች እና እርባታ (Complex Verb Morphology)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (18.4.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ውስብስብ የግስ ዓይነቶች እና እርባታ (Complex Verb Morphology)' to the students."
+          "target": "ጓደኛሞች በረጅም ጊዜ ናፍቆት ተቃቅፈውና እጅ ለእጅ ተጨባብጠው ሰላምታ ተለዋወጡ።",
+          "reading": "Gwadänyammočč bäräğğəm gize nafqot täqaqfäwənna əğğ lä'əğğ täč’äbabbət’äw sälamta täläwawwät’u. [ɡʷadɛɲamːoˈtʃː bɛrɛdʒːɨm ɡiˈze nafˈkʼot tɛkʼakʼˈfɛwɨnːa ʔɨdʒː lɛʔɨdʒː tɛtʃʼɛbabːɨˈtʼɛw sɛlamˈta tɛlɛwawːɛˈtʼu] (gwah-den-yahm-MOHCH-choo beh-red-JUM gee-ZAY nahf-K'OHT teh-k'ahk'-FEW-un-nah uhj leh-UHJ teh-ch'eh-bahb-T'EW seh-lahm-TAH teh-leh-wahw-WEH-t'oo)",
+          "translation": "The friends hugged in long-missed longing and exchanged greetings shaking hands."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (18.4.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "የአካባቢው ነዋሪዎች ችግሮቻቸውን በጋራ ለመፍታት እርስ በርስ ተረዳዱና ተደጋገፉ።",
+          "reading": "Yä'akkababiw näwariwočč čəggəroččaččäwən bägara lämäftat ərs bärs täräddadunna tädägaggäfu. [jɛʔakːabaˈbiw nɛwariˈwotʃː tʃʼɨɡːɨrotʃːaˈtʃːɛwɨn bɛɡaˈra ləmɛfˈtat ʔɨrs bɛrs tɛrɛdːaˈdunːa tɛdɛɡaɡːɛˈfu] (yeh-ahk-kah-bah-BEEW neh-wah-ree-WOHCH ch'ug-guh-rohch-CHAHCH-chew-un beh-gah-RAH leh-mef-TAHT urs bers teh-red-DAH-doon-nah teh-deh-gahg-GEH-foo)",
+          "translation": "The local residents helped each other and supported one another to solve their problems together."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (18.4.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (18.4.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "አብሳዩ ሥጋውንና አትክልቶቹን በትናንሽ ቁርጥራጮች ቆራረጠ።",
+          "reading": "Absayu səgawənna atkəltwoččun bətənannəš qurt’əraččočč qworarrät’ä. [ʔabsaˈju sɨɡaˈwɨnːa ʔatkɨltwoˈtʃːun bɛtɨnanːɨʃ kʼurtʼɨraˈtʃːotʃː kʼʷorarːɛˈtʼɛ] (ahb-sah-YOO suh-gah-WUN-nah aht-kul-twohch-CHOON beh-tuh-nahn-NUSH k'oor-t'uh-rahch-CHOHCH k'woh-rahr-REH-t'eh)",
+          "translation": "The cook chopped the meat and vegetables into small pieces."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Reciprocal Bond: ተጨባበጡ (Shook hands) + ተረዳዱ (Helped each other) + ተደጋገፉ (Mutual support)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ የማህበረሰብ ባህል 'እድር' እና 'ዕቁብ' የህዝቡ መረዳዳትና መደጋገፍ (የተደራራጊነት መርህ) በተግባር የሚገለጽባቸው ጥንታዊ ተቋማት ናቸው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ውስብስብ የግስ ዓይነቶች እና እርባታ (Complex Verb Morphology)» (ክፍል 4) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«They helped each other» የሚለውን በአማርኛ ትክክለኛ ተደራራጊ ግስ የያዘው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«ውስብስብ የግስ ዓይነቶች እና እርባታ (Complex Verb Morphology)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (18.4.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (18.4.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (18.4.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (18.4.w3)"
+            "እርስ በርስ ተረዳዱ። (They helped each other - Correct reciprocal verb form)",
+            "እርስ በርስ ተጣሉ",
+            "አልተረዳዱም",
+            "ምንም እርዳታ የለም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ተረዳዱ» እርስ በርስ በጋራ የመረዳዳት ድርጊትን የሚያሳይ ተደራራጊ ግስ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u18-l4) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'They shook hands' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (18.4.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (18.4.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (18.4.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (18.4.x3)"
+            "እጅ ለእጅ ተጨባበጡ። (They shook hands with each other - Accurate reciprocal greeting action)",
+            "እጅ ተሰበረ",
+            "ምንም ሰላምታ አልሰጡም",
+            "ጨበጠ ብቻ"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ውስብስብ የግስ ዓይነቶች እና እርባታ (Complex Verb Morphology)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (18.4.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (18.4.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (18.4.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (18.4.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ተጨባበጡ» ሁለቱም ወገኖች እጅ ለእጅ የተጨባበጡ መሆኑን የሚያሳይ ተደራራጊ ግስ ነው።"
         }
       ]
     },
@@ -8567,24 +8472,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 18-4):",
+          "prompt": "ተደራራጊ ግሶችን (Reciprocal verbs) በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (18.4.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (18.4.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (18.4.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (18.4.z3)"
+            "ተደጋገፉ፣ ተጨባበጡ፣ ተረዳዱ፣ ተነጋገሩ እና ተቃቀፉ።",
+            "ሮጠ፣ ዘለለ እና ወደቀ።",
+            "ጠዋት፣ ከሰዓት እና ማታ።",
+            "በአማርኛ ተደራራጊ ግስ የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የጋራና ተደራራጊ ግሶችን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u18-l4) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ውስብስብ»):",
+          "prompt": "'ተደራራጊ / Reciprocal' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ውስብስብ",
-            "ውስብስብ"
+            "ተደራራጊ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ውስብስብ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ተደራራጊ» (Tädäraragi) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -8595,85 +8499,62 @@
     "subject": "amharic",
     "unit": 18,
     "lessonNumber": 5,
-    "title": "ውስብስብ የግስ ዓይነቶች እና እርባታ (Complex Verb Morphology) (ክፍል 5)",
+    "title": "የክፍል 18 አጠቃላይ ማጠቃለያ (Unit 18 Grand Synthesis & Complex Verb Morphology Discourse)",
     "level": "B1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የተሻጋሪና ተሻጋሪ ያልሆኑ ግሶች፣ አስደራጊና ተደራጊ የግስ ክፍሎች። (ክፍል 5)።",
+    "objective": "ተሻጋሪ፣ ተደራጊ፣ አስደራጊ እና ተደራራጊ የግስ ክፍሎችን ያቀናጀ የተሟላ የቋንቋና የሰዋሰው ንግግር ማካሄድ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የክፍል ፲፰ አጠቃላይ ሰዋሰዋዊ ውህደት እና ውስብስብ የግስ እርባታ ማጠቃለያ:\n\n፩. ተሻጋሪና ኢ-ተሻጋሪ ግሶች:\n- ተሻጋሪ (ተሳቢ የሚፈልግ: ጻፈ፣ አነበበ) vs. ኢ-ተሻጋሪ (ተሳቢ የማይፈልግ: ሄደ፣ ተኛ)።\n\n፪. ተደራጊ ግሶች (Passive Voice):\n- በ«ተ-» ቅድመ-ቅጥያ የሚመሰረቱ (ተጻፈ፣ ተሰራ፣ ተዘጋጀ፣ ተከፈተ)።\n\n፫. አስደራጊ ግሶች (Causative Voice):\n- በ«አ-» እና «አስ-» የሚመሰረቱ (አስጻፈ፣ አስጠገነ፣ አስገነባ፣ አስተማረ)።\n\n፬. ተደራራጊ እና ተደጋጋሚ ግሶች (Reciprocal & Frequentative):\n- በጋራ የሚከናወኑና የሚደጋገሙ (ተደጋገፉ፣ ተጨባበጡ፣ ተረዳዱ፣ ቆራረጠ)።",
       "examples": [
         {
-          "target": "መምህሩ የ«ውስብስብ የግስ ዓይነቶች እና እርባታ (Complex Verb Morphology)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (18.5.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ውስብስብ የግስ ዓይነቶች እና እርባታ (Complex Verb Morphology)' to the students."
+          "target": "ማህበረሰቡ ተረዳድቶና ተደጋግፎ አዲስ ትምህርት ቤት በባለሙያዎች አስገነባ።",
+          "reading": "Mahbäräsäbu täräddadtonna tädägaggəfo addis təməhərt bet bäbalämuyawočč asgännäba. [mahbɛrɛsɛˈbu tɛrɛdːadˈtonːa tɛdɛɡaɡːɨˈfo ʔadːis tɨmɨˈhɨrt bet bɛbalɛmujaˈwotʃː ʔasɡɛnːɛˈba] (mah-beh-reh-seh-BOO teh-red-dahd-TOHN-nah teh-deh-gahg-GUH-foh ahd-DEES tuh-muh-HURT bayt beh-bah-leh-moo-yah-WOHCH ahs-gen-neh-BAH)",
+          "translation": "The community helped each other, supported one another, and had a new school built by professionals."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (18.5.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "መጽሐፉ በጥልቀት ተዘጋጅቶ በሊቃውንቱ አማካኝነት በብዙ ቋንቋዎች ተተረጎመ።",
+          "reading": "Mäts’hafu bät’əlqät täzäggağəto bäliqawəntu amakanyənät bäbəzu qwanqwawočč tätäräggwämä. [mɛtsʼˈhafu bɛtʼɨlˈkʼɛt tɛzɛɡːaˈdʒɨto bɛlikʼawɨnˈtu ʔamakaɲɨˈnɛt bɛbɨˈzu kʼʷankʼʷaˈwotʃː tɛtɛrɛɡːʷɛˈmɛ] (mets'-HAH-foo beh-t'ul-K'ET teh-zeg-gah-JUH-toh beh-lee-k'ah-wun-TOO ah-mah-kahn-yuh-NET beh-buh-ZOO k'wahn-k'wah-wohch-CH teh-teh-reg-GWEH-meh)",
+          "translation": "The book was thoroughly prepared and translated into many languages through scholars."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (18.5.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (18.5.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ተወያዮቹ ከተጨባበጡ በኋላ ሀሳባቸውን በነጻነት ተለዋወጡና የጋራ ስምምነት ላይ ደረሱ።",
+          "reading": "Täwəyayočču kätäč’äbabbät’u bähwala hassabaččäwən bänäts’annät täläwawwät’unna yägara səməmmənät lay därräsu. [tɛwɨjajoˈtʃːu kɛtɛtʃʼɛbabːɨˈtʼu bɛhʷaˈla hasːabaˈtʃːɛwɨn bɛnɛtsʼanːɛt tɛlɛwawːɛˈtʼunːa jɛɡaˈra sɨmɨmːɨˈnɛt laj dɛrːɛˈsu] (teh-wuh-yah-YOHCH-choo keh-teh-ch'eh-bahb-T'OO beh-hwah-LAH hahs-sah-bahch-CHEW-un beh-nets'-ahn-NET teh-leh-wahw-WEH-t'oon-nah yeh-gah-RAH suh-mum-muh-NET lye der-reh-SOO)",
+          "translation": "After the discussants shook hands, they exchanged their ideas freely and reached a common consensus."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Morphology Grand Quad: Transitive (ተሻጋሪ) + Passive (ተደራጊ) + Causative (አስደራጊ) + Reciprocal (ተደራራጊ)!"
+      ],
+      "culturalNotes": [
+        "የአማርኛ ግስ እርባታ እጅግ የበለጸገ ስነ-ቅርጽ (Morphology) ያለው ሲሆን፣ በጥቂት ፊደላት ለውጥ ውስብስብ ማህበራዊና ተግባቦታዊ ድርጊቶችን የመግለጽ ልዩ አቅም አለው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ውስብስብ የግስ ዓይነቶች እና እርባታ (Complex Verb Morphology)» (ክፍል 5) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "ከሚከተሉት ውስጥ የተለያዩ ውስብስብ የግስ እርባታዎችን ያጣመረው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«ውስብስብ የግስ ዓይነቶች እና እርባታ (Complex Verb Morphology)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (18.5.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (18.5.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (18.5.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (18.5.w3)"
+            "ተረዳዱ፣ አስገነቡ፣ ተዘጋጀ እና ተጨባበጡ። (Complete verb morphology synthesis: reciprocal, causative, passive)",
+            "ምንም ግስ የለም",
+            "ሁሉም ቃላት ስሞች ናቸው",
+            "የግስ እርባታ የለም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ተደራራጊ (ተረዳዱ፣ ተጨባበጡ)፣ አስደራጊ (አስገነቡ) እና ተደራጊ (ተዘጋጀ) ግሶችን በአንድነት ያጠቃልላል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u18-l5) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "ተደራራጊ እና አስደራጊ ግሶችን ያጣመረው ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (18.5.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (18.5.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (18.5.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (18.5.x3)"
+            "ነዋሪዎቹ ተረዳድተው አዲስ መንገድ አስጠገኑ። (The residents helped each other and had a new road repaired - Integrated complex verb sentence)",
+            "ምንም መንገድ አልተሰራም",
+            "አልተረዳዱም",
+            "መንገድ የለም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ውስብስብ የግስ ዓይነቶች እና እርባታ (Complex Verb Morphology)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (18.5.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (18.5.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (18.5.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (18.5.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ይህ አማራጭ ተደራራጊውን 'ተረዳድተው' እና አስደራጊውን 'አስጠገኑ' በትክክል ያዛምዳል።"
         }
       ]
     },
@@ -8681,24 +8562,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 18-5):",
+          "prompt": "የክፍል 18 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (18.5.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (18.5.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (18.5.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (18.5.z3)"
+            "ተሻጋሪና ኢ-ተሻጋሪ ግሶች፣ ተደራጊ ግሶች (ተ-)፣ አስደራጊ ግሶች (አስ-)፣ እንዲሁም ተደራራጊና ተደጋጋሚ ግሶች ተካተዋል።",
+            "ይህ ክፍል ስለ መጓጓዣ ብቻ ነው።",
+            "በአማርኛ ውስብስብ ግሶች የሉም።",
+            "ሁሉም ግሶች አንድ ዓይነት እርባታ አላቸው።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የክፍል 18ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u18-l5) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ውስብስብ»):",
+          "prompt": "'ግስ / Verb' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ውስብስብ",
-            "ውስብስብ"
+            "ግስ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ውስብስብ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ግስ» (Gəs) ነው።"
         }
       ],
       "passThreshold": 0.8
