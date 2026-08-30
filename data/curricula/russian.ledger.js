@@ -64,14 +64,14 @@
     "ru-u12-l2",
     "ru-u12-l3",
     "ru-u12-l4",
-    "ru-u12-l5"
-  ],
-  "stubOnly": [
+    "ru-u12-l5",
     "ru-u13-l1",
     "ru-u13-l2",
     "ru-u13-l3",
     "ru-u13-l4",
-    "ru-u13-l5",
+    "ru-u13-l5"
+  ],
+  "stubOnly": [
     "ru-u14-l1",
     "ru-u14-l2",
     "ru-u14-l3",
@@ -178,8 +178,8 @@
     "ru-u34-l4",
     "ru-u34-l5"
   ],
-  "lastCompletedLessonId": "ru-u12-l5",
-  "nextToAuthor": "ru-u13-l1"
+  "lastCompletedLessonId": "ru-u13-l5",
+  "nextToAuthor": "ru-u14-l1"
 };
   global.FEARN_LEDGERS = global.FEARN_LEDGERS || {};
   global.FEARN_LEDGERS['russian'] = LEDGER;
