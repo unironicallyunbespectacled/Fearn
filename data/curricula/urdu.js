@@ -14015,53 +14015,62 @@
     "subject": "urdu",
     "unit": 34,
     "lessonNumber": 1,
-    "title": "سربراہی اجلاس اور ریاستی بیانات (C2 Capstone Statecraft) (Part 1)",
+    "title": "کلاسیکی و جدید شاعری اور غزل و نظم کا آخری سمیکن (Master Capstone: Classical & Modern Poetry)",
     "level": "C2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 34.1) with authentic precision.",
+    "objective": "اردو غزل و نظم کے کلاسیکی و جدید ارتقا، میر، غالب، اقبال، فیض، عروض و بحور، اور صنائعِ سخن کے حتمی فنی و فکری سمیکن پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو شاعری کا فکری، فنی اور جمالیاتی عروج (Master Capstone: Poetry & Ghazal):\n\n1. **کلاسیکی و جدید شعری اسالیب کا موازنہ**:\n   - «**میر تقی میر** کا غمِ ذات و غمِ کائنات؛ **مرزا غالب** کی معنی آفرینی اور فلسفیانہ گہرائی»؛\n   - «**علامہ اقبال** کا پیغامِ خودی، عقل و عشق اور مردِ مومن؛ **فیض احمد فیض** کی انقلابی غنائیت»۔\n\n2. **اصنافِ سخن اور عروضی اوزان**:\n   - «**غزل، نظم، قصیدہ، مرثیہ اور مثنوی** کا تقابلی مطالعہ»；\n   - «ردیف، قافیہ، مطلع، مقطع اور بحور کے ذریعے موسیقی اور فصاحت کا امتزاج»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "اردو غزل میر کے سوز و گداز سے لے کر غالب کی فلسفیانہ نکتہ رسی اور فیض کی انقلابی رومانیت تک انسانی جذبات کے ہر لطیف گوشے کا احاطہ کرتی ہے۔",
+          "reading": "Urdu ghazal Mir ke soz-o-gudaaz se lay kar Ghalib ki falsafiyaana nukta-rasi aur Faiz ki inqilaabi romaaniyat tak insaani jazbaat ke har lateef goshay ka ehaata karti hai. [ʊrd̪uː ɣəzəl miːr keː soːz-oː-ɡʊd̪aːz seː ltiː kər ɣaːlɪb kiː fəlsəfɪjaːnaː nʊqt̪aː-rəsiː ɔːr fɛːz kiː ɪnqɪlaːbiː roːmaːnɪjət̪ t̪ək ɪnsaːniː dʒəzbaːt̪ keː hər lətcomb-iːf ɡoːʃeː kaː ɪhaːt̪aː kərt̪iː hɛː] (OOR-doo GHUH-zuhl MEER kay sohz-oh-goo-DAHZ say lay kuhr GHAH-leeb kee fuhl-suh-fee-YAH-nah nook-tuh-ruh-SEE owr FYZ kee een-qee-LAH-bee roh-mah-nee-YUHT tuhk een-sah-NEE juhz-BAHT kay HUHR luh-TEEF goh-SHAY kah ee-hah-TAH kuhr-TEE HY)",
+          "translation": "From Mir's poignant pathos to Ghalib's philosophical subtlety and Faiz's revolutionary lyricism, the Urdu ghazal [poetry capstone: Urdu ghazal] encompasses every delicate corner of human emotion."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 34-1)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "علامہ اقبال کی نظمیہ شاعری نے اردو کو آفاقی فلسفے، مردِ مومن کی خود داری اور ملی بیداری کا لافانی ترجمان بنا دیا۔",
+          "reading": "Allama Iqbal ki nazmiya shaa'iri ne Urdu ko aafaaqi falsafay, mard-e-momin ki khud-daari aur milli bedaari ka laa-faani tarjumaan bana diya. [əlːaːmaː ɪqbaːl kiː nəzmɪjaː ʃaːʔɪriː neː ʊrd̪uː koː aːfaːqiː fəlsəfeː mərd̪-eː-moːmɪn kiː xʊd̪-d̪aːriː ɔːr mɪlːiː beːd̪aːriː kaː laː-faːniː t̪ərdʒʊmaːn bənaː d̪ɪjaː] (uhl-LAH-mah eeq-BAHL kee nuhz-mee-YAH shah-ee-REE nay OOR-doo koh ah-fah-QEE fuhl-suh-FAY, muhrd-ay-MOH-meen kee khohd-dah-REE owr meel-LEE bay-dah-REE kah lah-fah-NEE tuhr-joo-MAHN buh-nah DEE-yah)",
+          "translation": "Allama Iqbal's poetic verses made Urdu the immortal exponent of universal philosophy, the self-respect of the Perfect Believer (Mard-e-Momin), and national awakening."
+        },
+        {
+          "target": "بحر اور اوزان کی سخت پابندی کے باوجود اردو شعراء نے قافیہ و ردیف کے حسن سے الفاظ میں ایسا جادو جگایا جو دلوں کو مسخر کر لیتا ہے۔",
+          "reading": "Bahar aur awzaan ki sakht paabandi ke baa-wujood Urdu shu'ara ne qaafiya o radeef ke husn se alfaaz mein aisa jaadoo jagaaya jo dilon ko musakhkhar kar laita hai. [bəhər ɔːr əʋzaːn kiː səxt̪ paːbəndiː keː baː-ʋʊdʒuːd̪ ʊrd̪uː ʃʊʔəraː neː qaːfɪjaː oː rədiːf keː hʊsn seː əlfaːz mẽː ɛːsaː dʒaːd̪uː dʒəɡaːjaː dʒoː d̪ɪlõː koː mʊsəxːər kər ltiː hɛː] (buh-HUHR owr ow-ZAHN kee SUHKHT pah-buhn-DEE kay bah-woo-JOOD OOR-doo shoo-uh-RAH nay QAH-fee-yah oh ruh-DEEF kay HOOSN say uhl-FAHZ mayn AY-sah jah-DOO juh-GAH-yah joh dee-LOHN koh moo-suhkh-KHAHR kuhr lay-TAH HY)",
+          "translation": "Despite strict adherence to meter and scansion rules, Urdu poets created such linguistic magic through the elegance of rhyme and refrain that it completely captivates hearts."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "شعری سمیکن: میر کا درد + غالب کا فکر + اقبال کا فلسفہ + فیض کی غنائیت + عروضی کمال!"
+      ],
+      "culturalNotes": [
+        "اردو مشاعرہ صدیوں سے برصغیر کی تہذیبی و فکری محفلوں کا سب سے تابندہ اور سحر انگیز مظہر رہا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"گواہ\":",
+          "prompt": "اردو غزل کی روایات اور کلاسیکی و جدید شاعری کے جامع سمیکن کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («فیصلہ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («آئین» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («حکومت» کی خرابی)"
+            "میر کا سوز، غالب کا فلسفہ، اقبال کی خودی اور فیض کی غنائیت کا مربوط شعری مطالعہ (Masterful synthesis of Mir's pathos, Ghalib's thought, Iqbal's Khudi, and Faiz's lyricism)",
+            "ہم نے مشاعرے کے باہر چائے پی تھی اور رویا تھا (بے ربط الفاظ)",
+            "وہ صرف مائیک کی تاریں گنتا رہتا ہے (غیر معیاری)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«میر کا سوز، غالب کا فلسفہ، اقبال کی خودی اور فیض کی غنائیت کا مربوط شعری مطالعہ» شاعری کا کامل سمیکن ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"گواہ\":",
+          "prompt": "اردو شاعری کا آخری جامع سمیکن طالب علم کو کس صلاحیت سے ہمکنار کرتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («آئین» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («حکومت» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («فیصلہ» کا غیر درست استعمال)"
+            "عروضی اوزان کا فہم، استعاراتی بصیرت، کلاسیکی و جدید کلام کی تفہیم اور ادبی ذوق (Mastery of poetic meters, metaphoric insight, textual comprehension, and sublime literary taste)",
+            "صرف قافیہ ملا کر وقت ضائع کرنا (منفی رویہ)",
+            "صرف شور مچانا (بے فائدہ مشق)",
+            "شاعری کے قواعد کو نظر انداز کرنا (تباہ کن)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "یہ عروضی اوزان کا فہم، استعاراتی بصیرت اور ادبی ذوق بخشتا ہے۔"
         }
       ]
     },
@@ -14069,17 +14078,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"گواہ\": Which sentence is completely correct?",
+          "prompt": "کلاسیکی و جدید شاعری کے جامع سمیکن (Master Capstone: Poetry & Ghazal) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («حکومت» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («فیصلہ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («آئین» سے متعلق)"
+            "میر کے سوز و گداز، غالب کی فلسفیانہ نکتہ رسی، اقبال کے پیامِ خودی اور فیض کی انقلابی رومانیت نے اردو شاعری کو عالمی ادب کے ماتھے کا جھومر بنا دیا۔ (Mir's pathos, Ghalib's intellect, Iqbal's Khudi, and Faiz's lyricism made Urdu poetry the crown jewel of world literature.)",
+            "غزل نے مشاعرے کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا روئی تھی۔",
+            "شاعری صرف پرانی ڈائری کے خالی صفحات کو کہتے ہیں۔",
+            "اردو شاعری کا انسانی جذبات اور تہذیب سے کوئی تعلق نہیں ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«میر کے سوز و گداز، غالب کی فلسفیانہ نکتہ رسی، اقبال کے پیامِ خودی اور فیض کی انقلابی رومانیت نے اردو شاعری کو عالمی ادب کے ماتھے کا جھومر بنا دیا۔» شاعری کا کامل ترین شاہکار جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u34-l2": {
@@ -14087,53 +14097,62 @@
     "subject": "urdu",
     "unit": 34,
     "lessonNumber": 2,
-    "title": "سربراہی اجلاس اور ریاستی بیانات (C2 Capstone Statecraft) (Part 2)",
+    "title": "اردو نثری شاہکار، فکشن اور تنقیدی اسالیب (Master Capstone: Prose, Fiction & Criticism)",
     "level": "C2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 34.2) with authentic precision.",
+    "objective": "اردو فکشن، داستان، ناول نگاری (رسوا، پریم چند، قرۃ العین حیدر)، افسانہ نگاری (منٹو، بانو قدسیہ)، اور تنقیدی روایات (حالی، شبلی، عسکری) کے جامع سمیکن پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو فکشن اور تنقیدی روایت کا عظیم الشان سمیکن (Master Capstone: Prose & Fiction):\n\n1. **داستان سے جدید ناول تک کا سفر**:\n   - «**میر امن کی باغ و بہار** کی سادگی؛ **مرزا رسوا کا امراؤ جان ادا**»؛\n   - «**منشی پریم چند** کی دیہی حقیقت نگاری اور **قرۃ العین حیدر کا 'آگ کا دریا'** کا تاریخی شعور»۔\n\n2. **افسانہ نگاری اور ادبی تنقید**:\n   - «**سعادت حسن منٹو** کی بے باک نفسیاتی حقیقت پسندی اور **بانو قدسیہ کا 'راجہ گدھ'**»；\n   - «**اردو تنقید کے بنیادی نقوش**: حالی کا مقدمۂ شعر و شاعری اور جدید تنقیدی اسالیب»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "اردو ناول نے پریم چند کے سماجی شعور اور قرۃ العین حیدر کے 'آگ کا دریا' کے تاریخی شعور کے ذریعے تہذیبی المیوں کو بے مثال نثری کینوس پر مصور کیا۔",
+          "reading": "Urdu novel ne Premchand ke samaaji sho'oor aur Qurrat-ul-Ain Haider ke 'Aag Ka Darya' ke taareekhi sho'oor ke zariye tehzeebi almiyon ko bay-misaal nasri canvas par musawwar kiya. [ʊrd̪uː nɔːʋəl neː preːmtʃənd̪ keː səmaːdʒiː ʃʊʔuːr ɔːr qʊrːət̪-ʊl-əɛn hɛːd̪ər keː aːɡ kaː d̪ərjaː keː t̪aːriːxiː ʃʊʔuːr keː zərɪjeː t̪ɛhziːbiː əlmɪjõː koː beː-mɪsaːl nəscomb-riː kɛːnʋəs pər mʊsəʋːər kɪjaː] (OOR-doo NOH-wuhl nay Premchand kay sah-mah-JEE shoo-OOR owr Qoor-ruht-ool-AYN HY-duhr kay AHG KAH DUHR-yah kay tah-ree-KHEE shoo-OOR kay zuh-ree-YAY tyh-zee-BEE uhl-mee-YOHN koh bay-mee-SAHL NUHS-ree canvas puhr moo-suhv-WUHR kee-YAH)",
+          "translation": "The Urdu novel illustrated cultural tragedies upon an unparalleled prose canvas through Premchand's social consciousness and Qurratulain Hyder's historical awareness in 'River of Fire' (Aag Ka Darya) [prose capstone: Urdu novel]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 34-2)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "سعادت حسن منٹو کے بے باک افسانوں نے منافقت پر کاری ضرب لگائی جبکہ بانو قدسیہ نے 'راجہ گدھ' میں تقدیسِ حلال اور انسانی نفسیات کے پیچیدہ تار و پود بکھیرے۔",
+          "reading": "Saadat Hasan Manto ke bay-baak afsaanon ne munaafiqat par kaari zarb lagaa'i jabkeh Bano Qudsia ne 'Raja Gidh' mein taqdees-e-halaal aur insaani nafsiyaat ke pecheeda taar o pod bakheiray. [səʔaːd̪ət̪ həsən mənʈoː keː beː-baːk əfsaːnõː neː mʊnaːfɪqət̪ pər kaːriː zərb ləɡaːʔiː dʒəbkɛh baːnoː qʊd̪sɪjaː neː raːdʒaː ɡɪd̪ʱ mẽː t̪əqdiːs-eː-həlaːl ɔːr ɪnsaːniː nəfsɪjaːt̪ keː peːtʃiːd̪aː t̪aːr oː poːd̪ bəkʰeːreː] (suh-AH-duht HUH-suhn MUHN-toh kay bay-BAHK uhf-sah-NOHN nay moo-nah-fee-QUHT puhr KAH-ree ZUHRB luh-gah-EE juhb-KYH BAH-noh qood-see-YAH nay RAH-jah GEEDH mayn tuhq-DEES-ay-huh-LAHL owr een-sah-NEE nuhf-see-YAHT kay pay-chee-DAH TAHR oh POHD buh-khay-RAY)",
+          "translation": "Saadat Hasan Manto's fearless short stories dealt severe blows to social hypocrisy, while Bano Qudsia unraveled the complex web of halal sanctification and human psychology in 'Raja Gidh'."
+        },
+        {
+          "target": "حالی کا 'مقدمۂ شعر و شاعری' اردو تنقید کا باقاعدہ منشور ہے جس نے مقصدیت، سادگی اور سچائی کو شعر و نثر کا اولین معیار قرار دیا۔",
+          "reading": "Hali ka 'Muqaddama-e-She'r-o-Shaa'iri' Urdu tanqeed ka baa-zaabita manshoor hai jis ne maqsad-pasandi, saadagi aur sachaa'i ko she'r o nasr ka awwaleen me'yaar qaraar diya. [haːliː kaː mʊqəd̪ːəmaː-eː-ʃeːʔr-oː-ʃaːʔɪriː ʊrd̪uː t̪ənqiːd̪ kaː baː-zaːbɪt̪aː mənʃuːr hɛː dʒɪs neː məqsəd̪-pəsəndiː saːd̪əɡiː ɔːr sətʃːaːʔiː koː ʃeːʔr oː nəscomb-r kaː əʋːəliːn mɪʔjaːr qəraːr d̪ɪjaː] (HAH-lee kah moo-quhd-duh-MAH-ay-SHAYR-oh-shah-ee-REE OOR-doo tuhn-QEED kah bah-zah-bee-TAH muhn-SHOOR HY JEES nay muhq-suhd-puh-suhn-DEE, sah-duh-GEE owr suhch-CHAH-ee koh SHAYR oh NUHSR kah uhv-wuh-LEEN meh-YAHR quh-RAHR DEE-yah)",
+          "translation": "Hali's 'Introduction to Poetry' (Muqaddama) is the foundational manifesto of Urdu literary criticism, establishing social purpose, simplicity, and truth as the supreme criteria of literature."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "نثری و فکشن سمیکن: باغ و بہار + پریم چند و قرۃ العین حیدر + منٹو و بانو قدسیہ + حالی کی تنقید!"
+      ],
+      "culturalNotes": [
+        "اردو فکشن نے برصغیر کی آزادی، تقسیمِ ہند کے المیے اور جدید وجودی کشمکش کو عالمی ادب کے شاہکاروں میں تبدیل کر دیا۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"فیصلہ\":",
+          "prompt": "اردو فکشن، ناول، افسانے اور ادبی تنقید کے جامع سمیکن کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («آئین» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («حکومت» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («آزادی» کی خرابی)"
+            "باغ و بہار کی سادگی، پریم چند و قرۃ العین حیدر کے ناول، منٹو کے افسانے اور حالی کی تنقید کا مربوط مطالعہ (Masterful synthesis of classic prose, novels, Manto's fiction, and Hali's literary criticism)",
+            "ہم نے فکشن کی کتاب پر چائے پی تھی اور رویا تھا (بے ربط الفاظ)",
+            "وہ صرف پرانے رسالوں کے صفحات الٹتا رہتا ہے (غیر معیاری)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«باغ و بہار کی سادگی، پریم چند و قرۃ العین حیدر کے ناول، منٹو کے افسانے اور حالی کی تنقید کا مربوط مطالعہ» فکشن کا کامل سمیکن ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"فیصلہ\":",
+          "prompt": "اردو نثری شاہکاروں اور تنقیدی اسالیب کا جامع سمیکن قاری میں کس فکری بصیرت کو بیدار کرتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («حکومت» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («آزادی» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («آئین» کا غیر درست استعمال)"
+            "تہذیبی المیوں کا ادراک، انسانی نفسیات کی تفہیم، نثری تخلیقی صلاحیت اور مدلل تنقیدی شعور (Understanding cultural tragedies, human psychology, creative prose, and reasoned critical judgment)",
+            "صرف جھوٹی کہانیاں سنانا (منفی رویہ)",
+            "صرف کتابوں کے نام یاد رکھنا (بے فائدہ مشق)",
+            "نثری اصولوں کو نظر انداز کرنا (تباہ کن)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "یہ تہذیبی المیوں کا ادراک، انسانی نفسیات کی تفہیم اور مدلل تنقیدی شعور بخشتا ہے۔"
         }
       ]
     },
@@ -14141,17 +14160,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"فیصلہ\": Which sentence is completely correct?",
+          "prompt": "اردو نثری شاہکاروں اور فکشن کے جامع سمیکن (Master Capstone: Prose & Fiction) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («آزادی» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («آئین» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («حکومت» سے متعلق)"
+            "پریم چند کی حقیقت نگاری، قرۃ العین حیدر کا تاریخی ناول، منٹو کے نفسیاتی افسانے اور حالی کا تنقیدی منشور اردو نثر کو فکر و بصیرت کی لافانی رفعت عطا کرتے ہیں۔ (Premchand's realism, Hyder's historical novel, Manto's fiction, and Hali's criticism endow Urdu prose with immortal elevation.)",
+            "ناول نے افسانے کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا رویا تھا۔",
+            "تنقید صرف دوسروں پر غصہ نکالنے کو کہتے ہیں۔",
+            "اردو فکشن کا انسانی زندگی اور معاشرے سے کوئی تعلق نہیں ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«پریم چند کی حقیقت نگاری، قرۃ العین حیدر کا تاریخی ناول، منٹو کے نفسیاتی افسانے اور حالی کا تنقیدی منشور اردو نثر کو فکر و بصیرت کی لافانی رفعت عطا کرتے ہیں۔» فکشن کا کامل ترین جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u34-l3": {
@@ -14159,53 +14179,62 @@
     "subject": "urdu",
     "unit": 34,
     "lessonNumber": 3,
-    "title": "سربراہی اجلاس اور ریاستی بیانات (C2 Capstone Statecraft) (Part 3)",
+    "title": "دستور، قانون، ریاست اور صحافتی قیادت (Master Capstone: Law, Statecraft & Media)",
     "level": "C2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 34.3) with authentic precision.",
+    "objective": "دستورِ پاکستان، عدالتی نظام، قانونِ شہادت، پارلیمانی خودمختاری، اردو صحافت، کالم نگاری، اور نشریاتی میڈیا کے باوقار ریاستی بیانیے پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں ریاست، قانون، دستور اور صحافت کا حتمی سمیکن (Master Capstone: Law & Media):\n\n1. **دستوری و قانونی ڈھانچہ**:\n   - «**آئینِ پاکستان (1973)**: بنیادی انسانی حقوق اور قانون کی بالادستی»；\n   - «**سپریم کورٹ اور عدلیہ**: رٹ پٹیشن، آئینی تشریح، اور عدالتی نظائر (Precedents)»۔\n\n2. **صحافت اور ریاستی بیانیہ**:\n   - «**اردو صحافت کی تاریخی خدمات**: مولانا ظفر علی خان، زمیندار اور نڈر اداریہ نویسی»；\n   - «نشریاتی و ڈیجیٹل میڈیا، کالم نگاری، اور رائے عامہ کی اخلاقی رہنمائی»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "دستورِ پاکستان ریاست کے تمام اداروں کے اختیارات کا واضح تعین کرتا ہے اور سپریم کورٹ بنیادی انسانی حقوق کے تحفظ کی اعلیٰ ترین نگہبان ہے۔",
+          "reading": "Dastoor-e-Pakistan riyaasat ke tamaam idaaron ke ikhtiyaaraat ka waazeh ta'ayyun karta hai aur Supreme Court bunyaadi insaani huqooq ke tahaffuz ki a'la-tareen nigahbaan hai. [d̪əstuːr-eː-paːkɪst̪aːn rɪjaːsət̪ keː t̪əmaːm ɪd̪aːrõː keː ɪxt̪ɪjaːraːt̪ kaː ʋaːzɪh t̪əʔəjːʊn kərt̪aː hɛː ɔːr suːpriːm koːrʈ bʊnjaːd̪iː ɪnsaːniː hʊquːq keː t̪əhəfːʊz kiː aːʔlaː-t̪əriːn nɪɡəhbaːn hɛː] (duhs-TOOR-ay-pah-kees-TAHN ree-yah-SUHT kay tuh-MAHM ee-dah-ROHN kay eekh-tee-yah-RAHT kah wah-ZEH tuh-uhy-YOON kuhr-TAH HY owr supreme court boon-yah-DEE een-sah-NEE hoo-QOOQ kay tuh-huhf-FOOZ kee AHH-lah-tuh-REEN nee-guh-h-BAHN HY)",
+          "translation": "The Constitution of Pakistan clearly delineates the powers of all state organs, and the Supreme Court serves as the supreme guardian [legal capstone: Dastoor-e-Pakistan] for protecting fundamental human rights."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 34-3)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "اردو کے کالم نگاروں اور اداریہ نویسوں نے اپنے فصیح اور نڈر قلم کے ذریعے عوامی شعور کی بیداری اور جمہوری اقدار کی پاسداری میں کلیدی کردار ادا کیا۔",
+          "reading": "Urdu ke column-nigaaron aur idaariya-nawisoon ne apnay faseeh aur nidar qalam ke zariye awaami sho'oor ki bedaari aur jamhoori iqdaar ki paasdaari mein kaleedi kirdaar ada kiya. [ʊrd̪uː keː kɔːləm-nɪɡaːrõː ɔːr ɪd̪aːrɪjaː-nəʋiːsõː neː əpneː fəsiːh ɔːr nɪɖər qələm keː zərɪjeː əʋaːmiː ʃʊʔuːr kiː beːd̪aːriː ɔːr dʒəmhuːriː ɪqdaːr kiː paːsdaːriː mẽː kəliːd̪iː kɪrdaːr əd̪aː kɪjaː] (OOR-doo kay column-nee-gah-ROHN owr ee-dah-ree-yah-nuh-wee-SOHN nay uhp-NAY fuh-SEEH owr nee-DUHR quh-LUHM kay zuh-ree-YAY uh-wah-MEE shoo-OOR kee bay-dah-REE owr juhm-hoo-REE eeq-DAHR kee pahs-dah-REE mayn kuh-lee-DEE keer-DAHR uh-DAH kee-YAH)",
+          "translation": "Urdu columnists and editorial writers played a pivotal role in awakening public consciousness and upholding democratic values through their eloquent and fearless pens."
+        },
+        {
+          "target": "آزاد نشریاتی میڈیا اور اخلاقی صحافت ریاست کے ستونوں کے درمیان احتساب کا توازن قائم رکھنے کا مؤثر ترین ہتھیار ہے۔",
+          "reading": "Aazaad nashriyaati media aur akhlaaqi sahaafat riyaasat ke sutoonon ke darmiyaan ehtisaab ka tawaazun qaayim rakhnay ka mo'assir-tareen hathyaar hai. [aːzaːd̪ nəʃrɪjaːt̪iː miːɖɪjaː ɔːr əxlaːqiː səhaːfət̪ rɪjaːsət̪ keː sʊtuːnõː keː d̪ərmɪjaːn ɪht̪ɪsaːb kaː t̪əʋaːzʊn qaːʔɪm rəkʰneː kaː mʊʔəsːɪr-t̪əriːn hət̪ʰjaːr hɛː] (ah-ZAHD nuhsh-ree-yah-TEE media owr uhkh-lah-QEE suh-hah-FUHT ree-yah-SUHT kay soo-TOO-nohn kay duhr-mee-YAHN eh-tee-SAHB kah tuh-wah-ZOON QAH-eem ruhkh-NAY kah moo-uhs-seer-tuh-REEN huht-h-YAHR HY)",
+          "translation": "An independent broadcast media and ethical journalism serve as the most effective instrument for maintaining the balance of accountability among the pillars of the state."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "دستور و صحافت سمیکن: 1973 کا آئین + سپریم کورٹ و رٹ پٹیشن + نڈر اداریہ نویسی + اخلاقی میڈیا!"
+      ],
+      "culturalNotes": [
+        "قائدِ اعظم محمد علی جناح کی قانونی فہم اور مولانا ظفر علی خان کی صحافتی جرات نے برصغیر کے مسلمانوں کو آزادی اور دستور کی منزل دکھائی۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"آئین\":",
+          "prompt": "دستور، قانون، ریاستی نظام اور باوقار صحافت کے جامع سمیکن کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («حکومت» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («آزادی» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («السلام علیکم» کی خرابی)"
+            "آئینِ پاکستان، سپریم کورٹ کے عدالتی اختیارات، اور نڈر اردو صحافت کا مربوط مطالعہ (Masterful synthesis of Constitution of Pakistan, judicial powers, and fearless Urdu journalism)",
+            "ہم نے پارلیمنٹ کے باہر چائے پی تھی اور رویا تھا (بے ربط الفاظ)",
+            "وہ صرف پریس کانفرنس کی کرسیاں گنتا رہتا ہے (غیر معیاری)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«آئینِ پاکستان، سپریم کورٹ کے عدالتی اختیارات، اور نڈر اردو صحافت کا مربوط مطالعہ» دستوری امور کا کامل سمیکن ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"آئین\":",
+          "prompt": "دستور، قانون اور صحافتی قیادت کا جامع سمیکن معاشرے میں کس بنیادی قدر کو مستحکم کرتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («آزادی» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («السلام علیکم» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («حکومت» کا غیر درست استعمال)"
+            "قانون کی بالادستی، بنیادی شہری حقوق کا تحفظ، جمہوری احتساب اور بیدار رائے عامہ (Rule of law, protection of fundamental rights, democratic accountability, and enlightened public opinion)",
+            "صرف مقدمہ بازی میں وقت ضائع کرنا (منفی رویہ)",
+            "صرف اخباری سرخیوں پر بحث کرنا (بے فائدہ مشق)",
+            "دستوری اصولوں کی خلاف ورزی کرنا (تباہ کن)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "یہ قانون کی بالادستی، بنیادی حقوق کا تحفظ اور جمہوری احتساب قائم کرتا ہے۔"
         }
       ]
     },
@@ -14213,17 +14242,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"آئین\": Which sentence is completely correct?",
+          "prompt": "دستور، قانون اور صحافتی قیادت کے جامع سمیکن (Master Capstone: Law & Media) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («السلام علیکم» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («حکومت» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («آزادی» سے متعلق)"
+            "آئینِ پاکستان کے تحت قانون کی بالادستی، سپریم کورٹ کے عدالتی اختیارات اور اردو صحافت کی اخلاقی قیادت جمہوری معاشرے اور عوامی حقوق کے محافظ ہیں۔ (The Constitution of Pakistan, Supreme Court judicial authority, and Urdu journalism guard democratic society.)",
+            "دستور نے اخبار کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا رویا تھا۔",
+            "سپریم کورٹ صرف پرانی عمارت کی چھت کو کہتے ہیں۔",
+            "صحافت اور قانون کا انسانی حقوق سے کوئی تعلق نہیں ہوتا۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«آئینِ پاکستان کے تحت قانون کی بالادستی، سپریم کورٹ کے عدالتی اختیارات اور اردو صحافت کی اخلاقی قیادت جمہوری معاشرے اور عوامی حقوق کے محافظ ہیں۔» دستوری بیانیے کا کامل ترین شاہکار جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u34-l4": {
@@ -14231,53 +14261,62 @@
     "subject": "urdu",
     "unit": 34,
     "lessonNumber": 4,
-    "title": "سربراہی اجلاس اور ریاستی بیانات (C2 Capstone Statecraft) (Part 4)",
+    "title": "سائنس، مصنوعی ذہانت، خارجہ پالیسی اور فلسفہ (Master Capstone: Science, AI & Global Diplomacy)",
     "level": "C2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 34.4) with authentic precision.",
+    "objective": "مصنوعی ذہانت، سائنس و ٹیکنالوجی، بین الاقوامی تعلقات، خارجہ پالیسی (سی پیک و اقوام متحدہ)، اور فلسفہ و تصوف کے ہمہ جہت سمیکن پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں سائنس، مصنوعی ذہانت، خارجہ پالیسی اور فلسفے کا تکمیلی سمیکن (Master Capstone: Science, Diplomacy & Philosophy):\n\n1. **سائنس اور مصنوعی ذہانت کا انقلاب**:\n   - «**مصنوعی ذہانت کے الگورتھمز**، بائیو ٹیکنالوجی اور تجدید پذیر توانائی کے جدید حل»؛\n   - «کمپیوٹیشنل ماڈلز اور قدرتی زبان کی سائنسی فہم»۔\n\n2. **عالمی سفارت اور فلسفۂ خودی کا سنگم**:\n   - «**خارجہ پالیسی اور جیو اکنامکس**: پرامن بقائے باہمی، سی پیک، اور اقوامِ متحدہ کا منشور»；\n   - «**فلسفہ و تصوف**: علامہ اقبال کی خودی اور ابنِ عربی کے مابعد الطبیعیاتی اسرار»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "اکیسویں صدی میں مصنوعی ذہانت کے نیورل نیٹ ورکس، اقوامِ متحدہ کے سفارتی فورمز اور فلسفۂ خودی کا ہمہ گیر مطالعہ اردو زبان کی بے کراں وسعت کو عیاں کرتا ہے۔",
+          "reading": "Ikkisween sadi mein masnoo'i zahaanat ke neural networks, Aqwaam-e-Muttahida ke safaarati forums aur falsafa-e-khudi ka hama-geer mutaala'a Urdu zabaan ki bay-karaan wus'at ko ayaan karta hai. [ɪkːiːsʋĩː səd̪iː mẽː məsnuːʔiː zəhaːnət̪ keː njuːrəl nɛʈʋərks əqʋaːm-eː-mʊt̪ːəhɪd̪aː keː səfaːrət̪iː foːrəmz ɔːr fəlsəfaː-eː-xʊd̪iː kaː həmə-ɡeːr mʊt̪aːlɪʔaː ʊrd̪uː zəbaːn kiː beː-kəraː̃ ʋʊsʔət̪ koː əjaːn kərt̪aː hɛː] (eek-kees-VEEN suh-DEE mayn muhs-noo-EE zuh-hah-NUHT kay neural networks, uhq-WAHM-ay-moot-tuh-hee-DAH kay suh-fah-ruh-TEE forums owr fuhl-suh-fah-ay-khoo-DEE kah huh-muh-GAYR moo-tah-lah-AH OOR-doo zuh-BAHN kee bay-kuh-RAHN WOOS-uht koh uh-YAHN kuhr-TAH HY)",
+          "translation": "In the 21st century, the comprehensive study of artificial intelligence neural networks, UN diplomatic forums, and Iqbal's philosophy of Khudi reveals the boundless expanse of the Urdu language [scientific and philosophical capstone: masnoo'i zahaanat]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 34-4)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "پاکستان کی خارجہ پالیسی کے سفارتی آداب، ویانا کنونشن اور سی پیک تجارتی راہداری خطے میں پائیدار امن اور اقتصادی خود انحصاری کے ضامن ہیں۔",
+          "reading": "Pakistan ki khaarija policy ke safaarati aadaab, Vienna Convention aur CPEC tijaarati raahdaari khittay mein paa'idaar amn aur ma'aashi khud-inhisaari ke zaamin hain. [paːkɪst̪aːn kiː xaːrɪdʒaː pɔːlɪsiː keː səfaːrət̪iː aːd̪aːb ʋɪjeːnaː kənʋɛnʃən ɔːr siː-pɛk t̪ɪdʒaːrət̪iː raːhdaːriː xɪt̪ːeː mẽː paːʔɪd̪aːr əmn ɔːr məʔaːʃiː xʊd̪-ɪnhɪsaːriː keː zaːmɪn hɛ̃ː] (pah-kees-TAHN kee khah-ree-JAH policy kay suh-fah-ruh-TEE ah-DAHB, Vienna convention owr CPEC tee-jah-ruh-TEE rah-hdah-REE kheet-TAY mayn pah-ee-DAHR UHMN owr muh-ah-SHEE khohd-een-hee-sah-REE kay ZAH-meen HYN)",
+          "translation": "The diplomatic protocols of Pakistan's foreign policy, the Vienna Convention, and the CPEC trade corridor guarantee lasting peace and economic self-reliance in the region."
+        },
+        {
+          "target": "اردو کی لسانی لچک نے سائنس، فلسفے اور بین الاقوامی تعلقات کی پیچیدہ ترین اصطلاحات کو بغیر کسی ابہام کے اپنے دامن میں سمو لیا ہے۔",
+          "reading": "Urdu ki lisaani lachak ne saains, falsafay aur bain-ul-aqwaami ta'alluqaat ki pecheeda-tareen istilaahaat ko baghair kisi ibhaam ke apnay daaman mein samoh liya hai. [ʊrd̪uː kiː lɪsaːniː lətʃək neː saːʔɪns fəlsəfeː ɔːr bɛːn-ʊl-əqʋaːmiː t̪əʔəlːʊqaːt̪ kiː piːtʃʰiːd̪aː-t̪əriːn ɪst̪ɪlaːhaːt̪ koː bəɣɛːr kɪsiː ɪbhaːm keː əpneː d̪aːmən mẽː səmoːh lɪjaː hɛː] (OOR-doo kee lee-sah-NEE luh-CHUHK nay sah-EEN-s, fuhl-suh-FAY owr byn-ool-uhq-VAH-mee tuh-uhl-loo-QAHT kee pay-chee-dah-tuh-REEN ees-tee-lah-HAHT koh buh-GHYR kee-SEE eeb-HAHM kay uhp-NAY dah-MUHN mayn suh-MOH LEE-yah HY)",
+          "translation": "Urdu's linguistic versatility has effortlessly embraced the most complex terminology of science, philosophy, and international relations without any ambiguity."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "سائنس، خارجہ و فلسفہ سمیکن: AI الگورتھمز + سی پیک جیو اکنامکس + فلسفۂ خودی + لسانی وسعت!"
+      ],
+      "culturalNotes": [
+        "اردو کے سائنسی مفکرین اور سفارت کاروں نے ثابت کیا کہ قومی زبان دنیا کے ہر جدید شعبۂ علم کی تسخیر کے لیے پوری طرح تیار ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"حکومت\":",
+          "prompt": "سائنس، مصنوعی ذہانت، بین الاقوامی سفارت اور فلسفے کے جامع سمیکن کا فصیح ترین نمونہ کون سا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («آزادی» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («السلام علیکم» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («شکریہ» کی خرابی)"
+            "مصنوعی ذہانت کے الگورتھمز، اقوامِ متحدہ کی سفارت، سی پیک راہداری اور فلسفۂ خودی کا مربوط مطالعہ (Masterful synthesis of AI algorithms, UN diplomacy, CPEC corridor, and Iqbal's philosophy of Khudi)",
+            "ہم نے سائنس لیب کے باہر چائے پی تھی اور رویا تھا (بے ربط الفاظ)",
+            "وہ صرف سیٹلائٹ کی تصویریں دیکھتا رہتا ہے (غیر معیاری)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«مصنوعی ذہانت کے الگورتھمز، اقوامِ متحدہ کی سفارت، سی پیک راہداری اور فلسفۂ خودی کا مربوط مطالعہ» سائنس و خارجہ کا کامل سمیکن ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"حکومت\":",
+          "prompt": "سائنس، مصنوعی ذہانت، سفارت کاری اور فلسفے کا جامع سمیکن اردو زبان کے بارے میں کیا ثابت کرتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («السلام علیکم» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («شکریہ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («آزادی» کا غیر درست استعمال)"
+            "زبان کی علمی ہمہ گیری، سائنسی اظہار کی مکمل صلاحیت، فلسفیانہ بلندی اور بین الاقوامی وقار (Linguistic universality, scientific adequacy, philosophical elevation, and international prestige)",
+            "صرف پرانی باتیں دہرانا (منفی رویہ)",
+            "صرف کمپیوٹر کے پرزے بیچنا (بے فائدہ مشق)",
+            "سائنسی ترقی کی مخالفت کرنا (تباہ کن)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "یہ اردو کی علمی ہمہ گیری، سائنسی اظہار کی صلاحیت اور فلسفیانہ بلندی کو ثابت کرتا ہے۔"
         }
       ]
     },
@@ -14285,17 +14324,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"حکومت\": Which sentence is completely correct?",
+          "prompt": "سائنس، مصنوعی ذہانت، خارجہ پالیسی اور فلسفے کے جامع سمیکن (Master Capstone: Science & Global Diplomacy) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («شکریہ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («آزادی» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («السلام علیکم» سے متعلق)"
+            "مصنوعی ذہانت کے الگورتھمز، اقوامِ متحدہ کے منشور پر مبنی خارجہ پالیسی، سی پیک اور علامہ اقبال کا فلسفۂ خودی اکیسویں صدی میں اردو زبان کے لازوال علمی وقار کے مظہر ہیں۔ (AI algorithms, UN diplomacy, CPEC, and Iqbal's Khudi embody Urdu's timeless intellectual prestige in the 21st century.)",
+            "سائنس نے الگورتھم کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا رویا تھا۔",
+            "سی پیک صرف ایک عام موٹر سائیکل کا نام ہے۔",
+            "مصنوعی ذہانت اور فلسفے کا اردو زبان سے کوئی تعلق نہیں ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«مصنوعی ذہانت کے الگورتھمز، اقوامِ متحدہ کے منشور پر مبنی خارجہ پالیسی، سی پیک اور علامہ اقبال کا فلسفۂ خودی اکیسویں صدی میں اردو زبان کے لازوال علمی وقار کے مظہر ہیں۔» سائنس و خارجہ کا کامل ترین جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u34-l5": {
@@ -14303,53 +14343,62 @@
     "subject": "urdu",
     "unit": 34,
     "lessonNumber": 5,
-    "title": "سربراہی اجلاس اور ریاستی بیانات (C2 Capstone Statecraft) (Part 5)",
+    "title": "اردو زبان، ادب اور فصاحت و بلاغت کا حتمی جامع سمیکن (Ultimate Grand Synthesis & Master Capstone)",
     "level": "C2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 34.5) with authentic precision.",
+    "objective": "اردو کے تمام 34 یونٹس اور 170 اسباق (شاعری، فکشن، قانون، صحافت، سائنس، سفارت، فلسفہ، لسانیات، لغت نویسی، اور بلاغت) کو ایک لافانی، بے مثال اور حتمی ماسٹر کیپ اسٹون میں یکجا کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان، ادب اور فصاحت و بلاغت کا حتمی عظیم الشان سمیکن (Ultimate Grand Synthesis & Master Capstone):\n\n1. **اردو کے تمام 170 اسباق کا آفاقی احاطہ**:\n   - **شعری و ادبی معراج**: «میر کا سوز، غالب کا تخیل، اقبال کا فلسفہ، فیض کی غنائیت اور عروضی حسن»；\n   - **فکشن و تنقید**: «باغ و بہار سے منٹو، پریم چند، بانو قدسیہ اور حالی کے مقدمے تک»；\n   - **دستور، قانون و میڈیا**: «1973 کا آئین، سپریم کورٹ، نڈر صحافت اور جمہوری قیادت»；\n   - **سائنس، ٹیکنالوجی و سفارت**: «مصنوعی ذہانت (AI)، سی پیک، اقوامِ متحدہ اور گلوبل جیو اکنامکس»；\n   - **فلسفہ و مابعد الطبیعیات**: «وحدت الوجود و الشہود، خودی، علمِ کلام اور وجودی اخلاقیات»；\n   - **لسانیات و لغت نویسی**: «کھڑی بولی کے ماخذ سے لے کر لغتِ کبیر کی 22 جلدوں اور ڈیجیٹل نستعلیق تک»۔\n\n2. **اردو کی ابدی حیثیت اور فکری کمال**:\n   - یہ زبان انسانی تہذیب کا درخشندہ تاج محل اور مشرق کا سب سے تابندہ علمی و ادبی شاہکار ہے۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "اردو زبان، اپنے شیریں لہجے، زرخیز شعری روایات، پرشکوہ نثری بلاغت، دستوری اصطلاحات اور جدید سائنسی تراجم کے ساتھ، انسانی تہذیب کا ایک لافانی اور بے مثل شاہکار ہے۔",
+          "reading": "Urdu zabaan, apnay sheereen lehjay, zarkhaiz shaa'iraana riwaayaat, pur-shikwah nasri balaaghat, dastoori istilaahaat aur jadeed saainsi taraajum ke saath, insaani tehzeeb ka aik laa-faani aur bay-misl shaahkaar hai. [ʊrd̪uː zəbaːn əpneː ʃiːrĩː lɛɦdʒeː zərxɛːz ʃaːʔɪraːnaː rɪʋaːjaːt̪ pʊr-ʃɪkʋaː nəscomb-riː bəlaːɣət̪ d̪əstuːriː ɪst̪ɪlaːhaːt̪ ɔːr dʒəd̪iːd̪ saːʔɪnsiː t̪əraːdʒʊm keː saːt̪ʰ ɪnsaːniː t̪ɛhziːb kaː eːk laː-faːniː ɔːr beː-mɪsl ʃaːhkaːr hɛː] (OOR-doo zuh-BAHN, uhp-NAY shee-REEN lyh-JAY, zuhr-KHAYZ shah-ee-rah-NAH ree-wah-YAHT, poor-sheek-WAH NUHS-ree buh-LAH-ghuht, duhs-too-REE ees-tee-lah-HAHT owr juh-DEED sah-een-SEE tuh-rah-JOOM kay SAHTH, een-sah-NEE tyh-ZEEB kah AYK lah-fah-NEE owr bay-MEESL shah-h-KAHR HY)",
+          "translation": "The Urdu language [ultimate grand synthesis: Urdu zabaan], with its melodious cadence, rich poetic heritage, magnificent prose rhetoric, constitutional terminology, and modern scientific translations, stands as an immortal and peerless masterpiece of human civilization."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 34-5)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "ابتدائی حروف اور روزمرہ مکالمات سے شروع ہو کر فلسفہ، قانون، مصنوعی ذہانت اور مابعد الطبیعیات کے پیچیدہ ترین مباحث تک اردو نے ہر میدان میں اپنی فصاحت کا لوہا منوایا ہے۔",
+          "reading": "Ibtidaa'i huroof aur roz-marrah mukaalamaat se shuroo' ho kar falsafa, qaanoon, masnoo'i zahaanat aur maaba'ad-ut-tabee'aati pecheeda-tareen mabaahis tak Urdu ne har maidaan mein apni fasaahat ka loha manwaaya hai. [ɪbt̪ɪd̪aːʔiː hʊruːf ɔːr roːz-mərːaː mʊkaːləmaːt̪ seː ʃʊruːʔ hoː kər fəlsəfaː qaːnuːn məsnuːʔiː zəhaːnət̪ ɔːr maː-bəʔd̪-ʊt̪-t̪əbiːʔaːt̪iː piːtʃʰiːd̪aː-t̪əriːn məbaːhɪs t̪ək ʊrd̪uː neː hər mɛːd̪aːn mẽː əpniː fəsaːhət̪ kaː loːhaː mənʋaːjaː hɛː] (eeb-tee-dah-EE hoo-ROOF owr rohz-muhr-RAH moo-kah-luh-MAHT say shoo-ROO hoh kuhr fuhl-suh-FAH, qah-NOON, muhs-noo-EE zuh-hah-NUHT owr mah-buh-doot-tuh-bee-ah-TEE pay-chee-dah-tuh-REEN muh-bah-HEES tuhk OOR-doo nay HUHR my-DAHN mayn uhp-NEE fuh-sah-HUHT kah LOH-hah muhn-WAH-yah HY)",
+          "translation": "Beginning from rudimentary letters and everyday conversations to the intricate discourses of philosophy, law, artificial intelligence, and metaphysics, Urdu has proven its undisputed eloquence in every field."
+        },
+        {
+          "target": "اردو نصاب کا یہ حتمی جامع سمیکن طالب علم کو محض زبان دانی ہی نہیں بلکہ مشرقی تہذیبی وقار، بلند پایہ فکری بصیرت، اور نثری و شعری تخلیق کا کامل اور خود مختار معمار بناتا ہے۔",
+          "reading": "Urdu nisaab ka yeh hatmi jaam'e samaykan taalib-e-ilm ko mehaz zabaan-daani hi naheen balkeh mashriqi tehzeebi waqaar, buland-paaya fikri baseerat, aur nasri o shaa'iraana takhleeq ka kaamil aur khud-mukhtaar me'maar banaata hai. [ʊrd̪uː nɪsaːb kaː jɛh hət̪miː dʒaːmɪʔ səmɛːkən t̪aːlɪb-eː-ɪlm koː mɛɦz zəbaːn-d̪aːniː hiː nəhĩː bəlkɛh məʃrɪqiː t̪ɛhziːbiː ʋəqaːr bʊlənd̪-paːjaː fɪkriː bəsiːrət̪ ɔːr nəscomb-riː oː ʃaːʔɪraːnaː t̪əxliːq kaː kaːmɪl ɔːr xʊd̪-mʊxt̪aːr mɪʔmaːr bənaːt̪aː hɛː] (OOR-doo nee-SAHB kah YEH huht-MEE JAH-meh suh-may-KUHN tah-LEEB-ay-EELM koh my-HUHZ zuh-bahn-dah-NEE HEE nuh-HEEN buhl-KYH muhsh-ree-QEE tyh-zee-BEE wuh-QAHR, boo-luhnd-pah-YAH feek-REE buh-see-RUHT, owr NUHS-ree oh shah-ee-rah-NAH tuhkh-LEEQ kah KAH-meel owr khohd-mookh-TAHR meh-MAHR buh-nah-TAH HY)",
+          "translation": "This Ultimate Grand Synthesis of the Urdu curriculum transforms the learner not merely into a proficient speaker, but into an autonomous master of Eastern cultural dignity, profound intellectual vision, and creative prose and poetic excellence."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "حتمی جامع سمیکن: 170 اسباق کا کمال = شاعری + فکشن + قانون + صحافت + AI و سائنس + سفارت + فلسفہ + لسانیات و بلاغت!"
+      ],
+      "culturalNotes": [
+        "اردو زبان عالمی ادب کے افق پر فصاحت و بلاغت کا وہ سورج ہے جو ہر دور کے فکری و سائنسی انقلاب کو اپنے حسنِ بیاں سے منور کرتا رہے گا۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"آزادی\":",
+          "prompt": "اردو زبان، ادب اور فصاحت و بلاغت کے حتمی جامع سمیکن (Ultimate Grand Synthesis) کا فصیح ترین شاہکار کون سا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («السلام علیکم» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («شکریہ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («برائے مہربانی» کی خرابی)"
+            "شاعری، فکشن، قانون، صحافت، سائنس و AI، سفارت کاری، فلسفہ، اور لسانیات کا مربوط و کامل ترین مطالعہ (The supreme grand synthesis of Urdu poetry, fiction, law, journalism, science & AI, diplomacy, philosophy, and linguistics)",
+            "ہم نے اردو کی کتاب پر چائے پی تھی اور رویا تھا (بے ربط الفاظ)",
+            "وہ صرف حرف تہجی گنتا رہتا ہے (غیر معیاری)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«شاعری، فکشن، قانون، صحافت، سائنس و AI، سفارت کاری، فلسفہ، اور لسانیات کا مربوط و کامل ترین مطالعہ» اردو کا حتمی جامع سمیکن ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"آزادی\":",
+          "prompt": "اردو نصاب کے تمام 170 اسباق کی کامیاب تکمیل طالب علم کو کس درجے پر فائز کرتی ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («شکریہ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («برائے مہربانی» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («السلام علیکم» کا غیر درست استعمال)"
+            "اردو زبان، فصاحت و بلاغت، کلاسیکی و جدید ادب، اور سائنسی و دستوری مضامین پر مکمل خود مختار مہارت (Complete native-level mastery over Urdu language, rhetoric, literature, law, and scientific discourse)",
+            "صرف چند محاورے رٹنا (محدود دائرہ)",
+            "صرف املا کی درستی (بے فائدہ مشق)",
+            "کلاسیکی ادب سے ناواقف رہنا (تباہ کن)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "یہ اردو زبان، ادب، فصاحت و بلاغت اور سائنسی و دستوری مضامین پر مکمل مہارت بخشتی ہے۔"
         }
       ]
     },
@@ -14357,17 +14406,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"آزادی\": Which sentence is completely correct?",
+          "prompt": "اردو زبان، ادب اور فصاحت و بلاغت کے حتمی جامع سمیکن (Ultimate Grand Synthesis & Master Capstone) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («برائے مہربانی» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («السلام علیکم» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («شکریہ» سے متعلق)"
+            "شاعری کی نزاکتوں، فکشن کی حقیقت پسندی، دستور و قانون کے وقار، سائنسی و AI اصطلاحات، سفارتی آداب، فلسفۂ خودی اور لسانیاتی ارتقا کے ساتھ اردو زبان انسانی تہذیب کا لافانی اور درخشندہ شاہکار ہے۔ (With poetic subtlety, realistic fiction, legal prestige, scientific AI terms, diplomacy, Khudi, and linguistic evolution, Urdu is an immortal masterpiece of civilization.)",
+            "اردو زبان نے سمیکن کو ہانڈی میں پکا کر گاڑی پر بٹھایا تھا رویا تھا۔",
+            "جامع سمیکن صرف پرانی کتاب کی جلد کو کہتے ہیں۔",
+            "اردو زبان کا عالمی ادب اور جدید سائنس سے کوئی تعلق نہیں ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«شاعری کی نزاکتوں، فکشن کی حقیقت پسندی، دستور و قانون کے وقار، سائنسی و AI اصطلاحات، سفارتی آداب، فلسفۂ خودی اور لسانیاتی ارتقا کے ساتھ اردو زبان انسانی تہذیب کا لافانی اور درخشندہ شاہکار ہے۔» اردو نصاب کا کامل ترین اور حتمی شاہکار جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   }
 };
