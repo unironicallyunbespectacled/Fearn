@@ -11290,85 +11290,62 @@
     "subject": "amharic",
     "unit": 25,
     "lessonNumber": 1,
-    "title": "የኢትዮጵያ አንጋፋ ሥነ-ጽሑፍ (Classical Ethiopian Literature) (ክፍል 1)",
+    "title": "የአማርኛ ስነ-ጽሑፍ ታሪክ እና ታላላቅ ደራስያን (History of Amharic Literature & Prominent Authors)",
     "level": "C1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የግዕዝ እና የቀዳማዊ አማርኛ ሥነ-ጽሑፍ፣ የከበደ ሚካኤል እና የጸጋዬ ገብረመድህን ድርሰቶች። (ክፍል 1)።",
+    "objective": "የአማርኛ ስነ-ጽሑፍን ታሪክ፣ የልቦለድ ዘውጎችን እና ታዋቂ ደራስያንን (ከበደ ሚካኤል፣ ሐዲስ ዓለማየሁ፣ በዓሉ ግርማ) ማወቅ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የአማርኛ ስነ-ጽሑፍ ታሪክ እና ዋና ዋና ዘውጎች (Amharic Literary Heritage & Genres):\n\n፩. የስነ-ጽሑፍ ዘውጎች:\n- ልቦለድ (Novel) / አጭር ልቦለድ (Short story) / ድርሰት (Essay/Composition)\n- ተውኔት (Play/Drama) / ደራሲ (Author) / ገጣሚ (Poet)።\n\n፪. አንጋፋ ደራስያንና ስራዎቻቸው:\n- ሐዲስ ዓለማየሁ («ፍቅር እስከ መቃብር»)\n- በዓሉ ግርማ («ኦሮማይ»፣ «ደራሲው»)\n- ከበደ ሚካኤል («ታሪክና ምሳሌ»፣ «የትንቢት ቀጠሮ»)።",
       "examples": [
         {
-          "target": "መምህሩ የ«የኢትዮጵያ አንጋፋ ሥነ-ጽሑፍ (Classical Ethiopian Literature)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (25.1.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የኢትዮጵያ አንጋፋ ሥነ-ጽሑፍ (Classical Ethiopian Literature)' to the students."
+          "target": "ሐዲስ ዓለማየሁ በጻፉት «ፍቅር እስከ መቃብር» የተሰኘ ድንቅ ልቦለድ የአማርኛ ስነ-ጽሑፍን ወደ ላቀ ደረጃ አሸጋገሩ።",
+          "reading": "Haddis Alämayyähu bäts’afut «Fəqr əskä Mäqabər» yätäsännyä dənq ləb-wälläd yä'amarənyya sənä-ts’əhufən wädä laqä däräğa ašäggagäru. [hadːis ʔalɛmaˈjːɛhu bɛtsʼaˈfut fɨkʼr ʔɨskɛ mɛkʼaˈbɨr jɛtɛsɛɲːɛ dɨnkʼ lɨbʷɛlːɛd jɛʔamaˈrɨɲːa sɨnɛtsʼɨˈhufɨn wɛˈdɛ laˈkʼɛ dɛrɛˈdʒa ʔaʃɛɡːaˈɡɛru] (HAHD-dees ah-leh-mah-YEH-hoo beh-ts'ah-FOOT «FUK'-ur us-KEH meh-K'AH-bur» yeh-teh-sen-NYEH dunk' lub-WEL-led yeh-ah-mah-RUN-yah suh-neh-ts'uh-HOO-fun weh-DEH lah-K'EH deh-reh-JAH ah-sheg-gah-GEH-roo)",
+          "translation": "Haddis Alemayehu elevated Amharic literature to a higher stage with his magnificent novel titled 'Love unto the Grave'."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (25.1.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ደራሲ ከበደ ሚካኤል በርካታ የታሪክ፣ የፍልስፍና እና የትምህርት መጻሕፍትን ለሀገራቸው አበርክተዋል።",
+          "reading": "Därasi Käbbädä Mika'el bərkata yätarik, yäfəlsəfənna ənna yätəməhərt mäts’ahəftən lähagäraččäw abärkətäwal. [dɛraˈsi kɛbːɛˈdɛ miˈkaʔel bɨrkaˈta jɛtaˈrik jɛfɨlsɨˈfɨnːa ʔɨnːa jɛtɨmɨhɨrt mɛtsʼaˈhɨftɨn ləhaɡɛraˈtʃːɛw ʔabɛrkɨˈtɛwal] (deh-rah-SEE keb-beh-DEH mee-KAH-el bur-KAH-tah yeh-tah-REEK, yeh-ful-suh-fun-NAH un-nah yeh-tuh-muh-hur-T mets'-ah-HUF-tun luh-hah-geh-rahch-CHEW ah-ber-kuh-TEH-wahl)",
+          "translation": "Author Kebede Mikael contributed numerous history, philosophy, and educational books to his country."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (25.1.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (25.1.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "የአማርኛ ስነ-ጽሑፍ የኢትዮጵያን ረጅም ታሪክ፣ ፍልስፍናና ማህበራዊ ኑሮ በጥልቀት ያንጸባርቃል።",
+          "reading": "Yä'amarənyya sənä-ts’əhuf yä'Ityop’əyan räğğəm tarik, fəlsəfənnanna mahəbärawi nuro bät’ələqät yansts’äbarraqal. [jɛʔamaˈrɨɲːa sɨnɛtsʼɨˈhuf jɛʔitjoˈpʼɨjan rɛdʒːɨm taˈrik fɨlsɨfɨnːanːa mahɨbɛraˈwi nuˈro bɛtʼɨlɨˈkʼɛt jantsʼɛbaˈrːakʼal] (yeh-ah-mah-RUN-yah suh-neh-ts'uh-HOOF yeh-eet-yoh-P'EE-yahn rej-JUM tah-REEK, ful-suh-fun-NAHN-nah mah-huh-beh-rah-WEE noo-ROH beh-t'uh-luh-K'ET yahnts'-eh-bahr-rah-K'AHL)",
+          "translation": "Amharic literature profoundly reflects Ethiopia's long history, philosophy, and social life."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Literary Masters: ሐዲስ ዓለማየሁ (ፍቅር እስከ መቃብር) + በዓሉ ግርማ (ኦሮማይ) + ከበደ ሚካኤል (ታሪክና ምሳሌ)!"
+      ],
+      "culturalNotes": [
+        "«ፍቅር እስከ መቃብር» በኢትዮጵያ ስነ-ጽሑፍ ታሪክ ውስጥ በታላቅነቱ የሚወደስ እና በኢትዮጵያ ሬዲዮ በድምፅ ተተርኮ በሚሊዮኖች ልብ ውስጥ የሰረጸ ድንቅ ስራ ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የኢትዮጵያ አንጋፋ ሥነ-ጽሑፍ (Classical Ethiopian Literature)» (ክፍል 1) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«ፍቅር እስከ መቃብር» የተሰኘውን ድንቅ ልቦለድ የጻፉት አንጋፋ ደራሲ ማን ናቸው?",
           "options": [
-            "መምህሩ የ«የኢትዮጵያ አንጋፋ ሥነ-ጽሑፍ (Classical Ethiopian Literature)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (25.1.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (25.1.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (25.1.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (25.1.w3)"
+            "ሐዲስ ዓለማየሁ (Haddis Alemayehu - Author of Fikir Iske Meqabir)",
+            "ከበደ ሚካኤል",
+            "በዓሉ ግርማ",
+            "ጸጋዬ ገብረመድህን"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ፍቅር እስከ መቃብር» በታዋቂው ደራሲ ሐዲስ ዓለማየሁ የተደረሰ ድንቅ የልቦለድ ስራ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u25-l1) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Novel' የሚለውን የስነ-ጽሑፍ ዘውግ በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (25.1.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (25.1.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (25.1.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (25.1.x3)"
+            "ልቦለድ (Novel - Literary prose genre)",
+            "ግጥም",
+            "ዜና",
+            "ደብዳቤ"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የኢትዮጵያ አንጋፋ ሥነ-ጽሑፍ (Classical Ethiopian Literature)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (25.1.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (25.1.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (25.1.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (25.1.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ልቦለድ» ረጅም ልብወለዳዊ ታሪክን የሚያቀርብ የስነ-ጽሑፍ ዘውግ ነው።"
         }
       ]
     },
@@ -11376,24 +11353,24 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 25-1):",
+          "prompt": "የአማርኛ ስነ-ጽሑፍ ዘውጎችንና ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (25.1.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (25.1.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (25.1.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (25.1.z3)"
+            "ስነ-ጽሑፍ፣ ልቦለድ፣ አጭር ልቦለድ፣ ድርሰት፣ ተውኔት እና ደራሲ።",
+            "ወተት፣ ቅቤ፣ አይብ እና እርጎ።",
+            "ሰኞ፣ ማክሰኞ እና እሮብ።",
+            "በአማርኛ ስነ-ጽሑፍ የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የስነ-ጽሑፍ ዘውጎችንና ቃላትን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u25-l1) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የኢትዮጵያ»):",
+          "prompt": "'ልቦለድ / Novel' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የኢትዮጵያ",
-            "የኢትዮጵያ"
+            "ልቦለድ",
+            "ልብወለድ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የኢትዮጵያ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ልቦለድ» ወይም «ልብወለድ» (Ləb-wälläd) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -11404,85 +11381,62 @@
     "subject": "amharic",
     "unit": 25,
     "lessonNumber": 2,
-    "title": "የኢትዮጵያ አንጋፋ ሥነ-ጽሑፍ (Classical Ethiopian Literature) (ክፍል 2)",
+    "title": "የግጥም ቅርፅ እና የቤት መምቻ ስነ-ስርዓት (Poetic Form, Stanza & Rhyme / 'Bet Memcha')",
     "level": "C1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የግዕዝ እና የቀዳማዊ አማርኛ ሥነ-ጽሑፍ፣ የከበደ ሚካኤል እና የጸጋዬ ገብረመድህን ድርሰቶች። (ክፍል 2)።",
+    "objective": "የአማርኛ ግጥም ስንኞችን፣ የቤት መምቻ (Rhyme Scheme) ህጎችን እና ዜማዊ ውበትን መተንተን።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የአማርኛ ግጥም ቅርፅ እና የቤት መምቻ ህግ (Poetic Metre & Rhyme):\n\n፩. የግጥም መዋቅር:\n- ስንኝ (Verse / Line) / ሀረግ (Phrase/Hemistich)\n- ቤት (Rhyme / Stanza) / ቤት መምቻ (Rhyme ending / rhyme scheme)\n- ዜማ እና ምት (Rhythm & Cadence) / ገጣሚ (Poet)።\n\n፪. የቤት መምቻ ህግ:\n- በእያንዳንዱ ስንኝ መጨረሻ ላይ የሚገኝ ተመሳሳይ ድምፅ ወይም ፊደል «ቤት መምቻ» ይባላል።\n  ምሳሌ: «ሰው መሆን ያኮራል፣ ከእንስሳ ይለያል / መልካም ስራ ሰርቶ፣ በክብር ይታወሳል» (የ«ል» ቤት መምቻ)።",
       "examples": [
         {
-          "target": "መምህሩ የ«የኢትዮጵያ አንጋፋ ሥነ-ጽሑፍ (Classical Ethiopian Literature)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (25.2.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የኢትዮጵያ አንጋፋ ሥነ-ጽሑፍ (Classical Ethiopian Literature)' to the students."
+          "target": "ገጣሚው በስንኞቹ ማጠቃለያ ላይ የ«ኛ»ን ፊደል በማስገባት የተዋበ ቤት መታ።",
+          "reading": "Gät’amiw bəsənənyočču mat’äqqaläya lay yä«nya»n fidäl bamasgabbat yätäwabä bet mätta. [ɡɛtʼaˈmiw bɛsɨnɨɲoˈtʃːu matʼɛkʼːalɛˈja laj jɛɲan fiˈdɛl bamasɡɛbːat jɛtɛwaˈbɛ bet mɛtːa] (geh-t'ah-MEEW beh-sun-uhn-YOHCH-choo maht'-ek'-k'ah-leh-YAH lye yeh-«nyah»-n fee-DEL bah-mahs-geb-BAHT yeh-teh-wah-BEH bayt met-TAH)",
+          "translation": "The poet struck a beautiful rhyme by inserting the letter 'nya' at the end of his verses."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (25.2.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ሎሬት ጸጋዬ ገብረመድህን በኃያል የግጥም ስልታቸው እና በቲያትር ድርሰቶቻቸው እጅግ ይታወቃሉ።",
+          "reading": "Loret Ts’äggaye Gäbrä-Mädhən bähayal yägət’əm səltaččäw ənna bätiyatər dərsätoččaččäw əğğəg yəttawwäqallu. [loˈret tsʼɛɡːaˈje ɡɛbrɛmɛdˈhɨn bɛhaˈjal jɛɡɨtʼɨm sɨltaˈtʃːɛw ʔɨnːa bɛtiˈjatr dɨrsɛtoˈtʃːatʃːɛw ʔɨdʒːɨɡ jɨtːawːɛkʼaˈlːu] (loh-RAYT ts'eg-gah-YAY geh-breh-med-HUN beh-hah-YAHL yeh-guh-T'UM sul-tahch-CHEW un-nah beh-tee-YAH-tur dur-seh-tohch-chahch-CHEW uhj-JUG yut-taw-weh-k'ahl-LOO)",
+          "translation": "Laureate Tsegaye Gebre-Medhin is exceptionally renowned for his powerful poetic style and theatrical plays."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (25.2.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (25.2.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "የግጥሙ ዜማ እና ምት የአንባቢውን ስሜት በጥልቀት የመማረክ ታላቅ ኃይል አለው።",
+          "reading": "Yägət’əmu zema ənna mət yä'anbabiwən səmet bät’ələqät yämämaräk talaq hayl alläw. [jɛɡɨtʼɨˈmu zeˈma ʔɨnːa mɨt jɛʔanbaˈbiwɨn sɨˈmet bɛtʼɨlɨˈkʼɛt jəmɛmaˈrɛk taˈlakʼ hajl ʔalːɛw] (yeh-guh-t'uh-MOO zay-MAH un-nah mut yeh-ahn-bah-BEE-wun suh-MAYT beh-t'uh-luh-K'ET yeh-meh-mah-REK tah-LAHK' hye-L ahl-LEW)",
+          "translation": "The melody and rhythm of the poem possess great power to profoundly captivate the reader's emotions."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Poetry Terms: ስንኝ (Verse) + ቤት መምቻ (Rhyme) + ዜማ (Melody) + ሎሬት ጸጋዬ (Poet Laureate)!"
+      ],
+      "culturalNotes": [
+        "ሎሬት ጸጋዬ ገብረመድህን የኢትዮጵያ ብሔራዊ ቲያትርን የመሩ እና የሀገሪቱን ታሪክ፣ ባህልና ኩራት በግጥም ያንጎራጎሩ ታላቅ ባለቅኔ ናቸው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የኢትዮጵያ አንጋፋ ሥነ-ጽሑፍ (Classical Ethiopian Literature)» (ክፍል 2) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "በአማርኛ ግጥም ውስጥ በስንኞች መጨረሻ ላይ የሚገኝ ተነባቢ ድምፅ ወይም ፊደል ምን ይባላል?",
           "options": [
-            "መምህሩ የ«የኢትዮጵያ አንጋፋ ሥነ-ጽሑፍ (Classical Ethiopian Literature)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (25.2.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (25.2.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (25.2.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (25.2.w3)"
+            "ቤት መምቻ (Rhyme scheme / 'Bet Memcha' - Traditional poetic rhyme rule)",
+            "አርዕስት",
+            "ደብዳቤ",
+            "ስምምነት"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ቤት መምቻ» የግጥሙን ስንኞች በተመሳሳይ ፊደል ወይም ድምፅ የማሳረጊያ ሰዋሰዋዊ እና ቅኔያዊ ስም ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u25-l2) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Poet' የሚለውን ቃል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (25.2.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (25.2.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (25.2.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (25.2.x3)"
+            "ገጣሚ (Poet - Creator of poetry / verses)",
+            "ነጋዴ",
+            "አሽከርካሪ",
+            "ገበሬ"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የኢትዮጵያ አንጋፋ ሥነ-ጽሑፍ (Classical Ethiopian Literature)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (25.2.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (25.2.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (25.2.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (25.2.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ገጣሚ» ግጥሞችን የሚጽፍ ወይም የሚያንጎራጉር ባለሙያ ነው።"
         }
       ]
     },
@@ -11490,24 +11444,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 25-2):",
+          "prompt": "የግጥም ቅርፅ እና የዜማ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (25.2.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (25.2.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (25.2.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (25.2.z3)"
+            "ስንኝ፣ ሀረግ፣ ቤት መምቻ፣ ዜማ፣ ምት እና ገጣሚ።",
+            "ውሃ፣ ጭማቂ፣ ወተት እና ሻይ።",
+            "ጠረጴዛ፣ ወንበር እና በር።",
+            "በአማርኛ ግጥም የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የግጥም ክፍሎችንና የቤት መምቻ ቃላትን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u25-l2) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የኢትዮጵያ»):",
+          "prompt": "'ግጥም / Poem, poetry' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የኢትዮጵያ",
-            "የኢትዮጵያ"
+            "ግጥም"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የኢትዮጵያ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ግጥም» (Gət’əm) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -11518,85 +11471,62 @@
     "subject": "amharic",
     "unit": 25,
     "lessonNumber": 3,
-    "title": "የኢትዮጵያ አንጋፋ ሥነ-ጽሑፍ (Classical Ethiopian Literature) (ክፍል 3)",
+    "title": "የሰምና ወርቅ ቅኔያዊ ምስጢር (Sem-nna-Worq: Wax and Gold Poetic Double Meaning)",
     "level": "C1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የግዕዝ እና የቀዳማዊ አማርኛ ሥነ-ጽሑፍ፣ የከበደ ሚካኤል እና የጸጋዬ ገብረመድህን ድርሰቶች። (ክፍል 3)።",
+    "objective": "የሰምና ወርቅን (የላይኛው ትርጉም 'ሰም' እና ውስጠ-ሚስጥሩ 'ወርቅ') የቅኔ ፍልስፍና መረዳትና መተንተን።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የሰምና ወርቅ ቅኔያዊ ጥበብ እና ፍልስፍና (Wax and Gold Poetic Double Entendre):\n\n፩. የሰምና ወርቅ መርህ:\n- «ሰም» (Wax): ላይኛው እና ግልጹ የቃላት ትርጉም (Apparent surface meaning)።\n- «ወርቅ» (Gold): በሰሙ ውስጥ የተደበቀው እውነተኛው እና ጥልቁ ሚስጥር (Hidden core meaning)።\n- «ህብር» (Pivot word): ሰሙንና ወርቁን በአንድነት የያዘ ባለሁለት ትርጉም ቃል።\n\n፪. የቅኔ ውበት:\n- በኢትዮጵያ ስነ-ጽሑፍና ባህል ሀሳብን በቀጥታ ከመናገር ይልቅ በሰምና ወርቅ ሸፍኖ ማቅረብ ከፍተኛ የጥበብ ደረጃ ተደርጎ ይወሰዳል።",
       "examples": [
         {
-          "target": "መምህሩ የ«የኢትዮጵያ አንጋፋ ሥነ-ጽሑፍ (Classical Ethiopian Literature)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (25.3.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የኢትዮጵያ አንጋፋ ሥነ-ጽሑፍ (Classical Ethiopian Literature)' to the students."
+          "target": "የሰምና ወርቅ ቅኔ ላይኛው ሰም ግልጽ ሲሆን ውስጠኛው ወርቅ ግን ጥልቅ ጥበብን ይዟል።",
+          "reading": "Yäsämənna wärq qəne layənyaw säm gəlts’ sihon wəsət’änyaw wärq gən t’ələq t’əbäbən yəzwal. [jɛsɛmɨnːa wɛrkʼ kʼɨˈne lajɨˈɲaw sɛm ɡɨltsʼ siˈhon wɨstʼɛˈɲaw wɛrkʼ ɡɨn tʼɨˈlɨkʼ tʼɨˈbɛbɨn jɨzˈwal] (yeh-SEM-un-nah WEHR-k' k'uh-NAY lye-un-YAHW sem gults' see-HOHN woos-t'en-YAHW wehr-k' gun t'uh-LUK' t'uh-BEB-un yuz-WAHL)",
+          "translation": "In Wax and Gold poetry, while the surface wax is obvious, the inner gold holds profound wisdom."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (25.3.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ቅኔ አዋቂው ሊቅ በህብረ-ቃል ተጠቅመው ያስተላለፉትን የወርቅ ምስጢር መፍታት ጥልቅ እውቀትን ይጠይቃል።",
+          "reading": "Qəne awaqiw liq bähəbrä-qal tät’äqmow yastälalläfutən yäwärq məsət’ir mäfətat t’ələq əwqätən yət’äyyəqal. [kʼɨˈne ʔawaˈkʼiw likʼ bɛhɨbrɛˈkʼal tɛtʼɛkʼˈmow jastɛlalːɛˈfutɨn jɛwɛrkʼ mɨsɨˈtʼir mɛfɨˈtat tʼɨˈlɨkʼ ʔɨwˈkʼɛtɨn jɨtʼɛjːɨˈkʼal] (k'uh-NAY ah-wah-K'EEW leek' beh-hub-reh-K'AHL tet'-ek'-MOH yahs-teh-lahl-leh-FOO-tun yeh-wehr-K' muh-suh-T'EER meh-fuh-TAHT t'uh-LUK' ew-k'eh-TUN yuh-t'ey-yuh-K'AHL)",
+          "translation": "Deciphering the secret golden meaning conveyed by the Qene master using a pivot word requires deep knowledge."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (25.3.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (25.3.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "የኢትዮጵያ ስነ-ቃል እና ስነ-ጽሑፍ በሰምና ወርቅ ፍልስፍና የታነጸ ረቂቅ ጥበብ ነው።",
+          "reading": "Yä'Ityop’əya sənä-qal ənna sənä-ts’əhuf bäsämənna wärq fəlsəfənna yätannäts’ä räqiq t’əbäb näw. [jɛʔitjoˈpʼɨja sɨnɛˈkʼal ʔɨnːa sɨnɛtsʼɨˈhuf bɛsɛmɨnːa wɛrkʼ fɨlsɨˈfɨnːa jɛtanːɛˈtsʼɛ rɛˈkʼikʼ tʼɨˈbɛb nɛw] (yeh-eet-yoh-P'EE-yah suh-neh-K'AHL un-nah suh-neh-ts'uh-HOOF beh-SEM-un-nah WEHR-k' ful-suh-fun-NAH yeh-tahn-NETS'-eh reh-K'EEK' t'uh-BEB new)",
+          "translation": "Ethiopian oral tradition and literature is a subtle art constructed upon the philosophy of Wax and Gold."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Sem-nna-Worq Concept: ሰም (Wax = Surface) + ወርቅ (Gold = Hidden Core) + ህብር (Pivot Word)!"
+      ],
+      "culturalNotes": [
+        "ሰምና ወርቅ የኢትዮጵያ ኦርቶዶክስ ተዋህዶ አብነት ትምህርት ቤቶች ውስጥ ለዘመናት ሲተላለፍ የኖረ የቅኔ ትምህርት ፍልስፍናዊ መሰረት ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የኢትዮጵያ አንጋፋ ሥነ-ጽሑፍ (Classical Ethiopian Literature)» (ክፍል 3) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "በሰምና ወርቅ ቅኔ ውስጥ «ወርቅ» የሚባለው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«የኢትዮጵያ አንጋፋ ሥነ-ጽሑፍ (Classical Ethiopian Literature)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (25.3.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (25.3.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (25.3.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (25.3.w3)"
+            "በውስጥ የተደበቀው እውነተኛ እና ጥልቅ ምስጢር (The hidden golden truth and core secret - True meaning of Worq)",
+            "የላይኛው ግልጽ ትርጉም",
+            "የሚሸጥ ጌጥ",
+            "የወረቀት ቀለም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "በቅኔ ፍልስፍና «ወርቅ» የሚባለው በግጥሙ ውስጥ ተሸፍኖ የተቀመጠው እውነተኛው እና ጥልቁ መልእክት ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u25-l3) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "በሰምና ወርቅ ውስጥ ሁለቱንም ትርጉሞች የያዘው ቁልፍ ቃል ምን ይባላል?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (25.3.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (25.3.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (25.3.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (25.3.x3)"
+            "ህብር (Pivot word / connector of wax and gold)",
+            "ሰም ብቻ",
+            "ርዕስ",
+            "ማጠቃለያ"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የኢትዮጵያ አንጋፋ ሥነ-ጽሑፍ (Classical Ethiopian Literature)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (25.3.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (25.3.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (25.3.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (25.3.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ህብር» ሰሙንና ወርቁን በአንድነት አጣምሮ የያዘ ባለሁለት አቅጣጫ ቃል ነው።"
         }
       ]
     },
@@ -11604,24 +11534,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 25-3):",
+          "prompt": "የሰምና ወርቅ የቅኔ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (25.3.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (25.3.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (25.3.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (25.3.z3)"
+            "ሰም፣ ወርቅ፣ ህብር፣ ቅኔ፣ ምስጢር እና ፈሊጥ።",
+            "ጠመኔ፣ ሰሌዳ፣ እርሳስ እና ደብተር።",
+            "ሰማይ፣ ምድር፣ ጨረቃ እና ፀሐይ።",
+            "በአማርኛ ቅኔ የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የሰምና ወርቅን መሰረታዊ ጽንሰ-ሀሳቦች በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u25-l3) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የኢትዮጵያ»):",
+          "prompt": "'ቅኔ / Qene, classical poetic verse' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የኢትዮጵያ",
-            "የኢትዮጵያ"
+            "ቅኔ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የኢትዮጵያ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ቅኔ» (Qəne) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -11632,85 +11561,62 @@
     "subject": "amharic",
     "unit": 25,
     "lessonNumber": 4,
-    "title": "የኢትዮጵያ አንጋፋ ሥነ-ጽሑፍ (Classical Ethiopian Literature) (ክፍል 4)",
+    "title": "የስነ-ጽሑፍ ትችት እና ገጸ-ባህሪ ትንተና (Literary Criticism & Character Analysis)",
     "level": "C1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የግዕዝ እና የቀዳማዊ አማርኛ ሥነ-ጽሑፍ፣ የከበደ ሚካኤል እና የጸጋዬ ገብረመድህን ድርሰቶች። (ክፍል 4)።",
+    "objective": "የልቦለድ ገጸ-ባህሪያትን፣ ሴራን (Plot)፣ ጭብጥን (Theme) እና የስነ-ጽሑፍ ትችት ቋንቋን መተንተን።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የስነ-ጽሑፍ ትችት እና የልቦለድ ትንተና መዋቅር (Literary Criticism & Analysis):\n\n፩. የልቦለድ መሰረታዊ አካላት:\n- ጭብጥ (Theme) / ሴራ (Plot) / ግጭት (Conflict)\n- ገጸ-ባህሪ (Character) / ዋና ገጸ-ባህሪ (Protagonist) / ተቃራኒ ገጸ-ባህሪ (Antagonist)\n- መቼት (Setting / Time and Place) / የስነ-ጽሑፍ ትችት (Literary criticism)።\n\n፪. የትንተና አገባብ:\n- «የልቦለዱ ዋና ጭብጥ በማህበራዊ ፍትህ ዙሪያ ያጠነጥናል...»\n- «የገጸ-ባህሪው ውስጣዊ ግጭት ድርሰቱን ይበልጥ አጓጊ ያደርገዋል...»",
       "examples": [
         {
-          "target": "መምህሩ የ«የኢትዮጵያ አንጋፋ ሥነ-ጽሑፍ (Classical Ethiopian Literature)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (25.4.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የኢትዮጵያ አንጋፋ ሥነ-ጽሑፍ (Classical Ethiopian Literature)' to the students."
+          "target": "የልቦለዱ ዋና ጭብጥ በባህላዊ አስተሳሰብ እና በዘመናዊነት መካከል ያለውን ግጭት ያሳያል።",
+          "reading": "Yäləb-wällädun wana č’əbt’ bäbahəlawi astäsasäb ənna bäzämänawinnät mäkkakäl yalläwən gəč’č’ət yasayyal. [jɛlɨbʷɛlːɛˈdun waˈna tʃʼɨbtʼ bɛbahɨlaˈwi ʔastɛsaˈsɛb ʔɨnːa bɛzɛmɛnaˈwinːɛt mɛkːaˈkɛl jalːɛˈwɨn ɡɨtʃʼːɨt jasaˈjːal] (yeh-lub-wel-leh-DOON wah-NAH ch'ub-T' beh-bah-huh-lah-WEE ahs-teh-sah-SEB un-nah beh-zeh-meh-nah-WEEN-net meh-kah-KEL yahl-leh-WUN guch'-ch'ut yah-SYE-yahl)",
+          "translation": "The novel's main theme portrays the conflict between traditional mindset and modernity."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (25.4.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ተቺው በድርሰቱ ሴራ አወቃቀር እና በገጸ-ባህሪያቱ ጥንካሬ ላይ ጥልቅ የስነ-ጽሑፍ ትችት አቀረበ።",
+          "reading": "Täčiw bädərsätu sera awäqaqär ənna bägäts’ä-bahəriyatu t’ənkare lay t’ələq yäsənä-ts’əhuf təččət aqärräbä. [tɛtʃiˈw bɛdɨrsɛˈtu seˈra ʔawɛkʼaˈkʼɛr ʔɨnːa bɛɡɛtsʼɛbahɨriˈjatu tʼɨnkaˈre laj tʼɨˈlɨkʼ jɛsɨnɛtsʼɨˈhuf tɨtʃːɨt ʔakʼɛrːɛˈbɛ] (teh-CHEEW beh-dur-seh-TOO say-RAH ah-weh-k'ah-K'ER un-nah beh-gets'-eh-bah-huh-ree-YAH-too t'un-kah-RAY lye t'uh-LUK' yeh-suh-neh-ts'uh-HOOF tuch-chut ah-k'er-reh-BEH)",
+          "translation": "The critic presented a profound literary critique regarding the plot structure of the work and the strength of the characters."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (25.4.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (25.4.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "የዋናው ገጸ-ባህሪ የህይወት ውጣ ውረድ አንባቢውን ከመጀመሪያ እስከ መጨረሻው ድረስ ይማርካል።",
+          "reading": "Yäwanaw gäts’ä-bahəri yähəywät wət’a wərPosition anbabiwən kämäğämmäriya əskä mäč’ärräšaw dəräs yəmarəkal. [jɛwaˈnaw ɡɛtsʼɛbaˈhɨri jɛhɨjˈwɛt wɨˈtʼa wɨrɛd ʔanbaˈbiwɨn kɛmɛdʒɛmːɛriˈja ʔɨskɛ mɛtʃʼɛrːɛˈʃaw dɨˈrɛs jɨmaˈrɨkal] (yeh-wah-NAHW gets'-eh-bah-huh-REE yeh-huy-WET wut'-AH wuh-RED ahn-bah-BEE-wun keh-meh-jem-meh-ree-YAH us-KEH meh-ch'er-reh-SHAHW duh-RES yuh-mah-ruh-KAHL)",
+          "translation": "The main character's life ups and downs captivate the reader from the beginning until the end."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Critique Formula: ጭብጥ (Theme) + ሴራ (Plot) + ገጸ-ባህሪ (Character) + መቼት (Setting)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ስነ-ጽሑፍ ትችት ውስጥ የማህበረሰብ ፍልስፍናን፣ ስነ-ልቦናንና የሞራል እሴቶችን መመርመር ትልቅ ቦታ አለው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የኢትዮጵያ አንጋፋ ሥነ-ጽሑፍ (Classical Ethiopian Literature)» (ክፍል 4) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«Plot» የሚለውን የልቦለድ አወቃቀር ክፍል በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«የኢትዮጵያ አንጋፋ ሥነ-ጽሑፍ (Classical Ethiopian Literature)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (25.4.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (25.4.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (25.4.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (25.4.w3)"
+            "ሴራ (Plot - Sequence and arrangement of events in fiction)",
+            "መቼት",
+            "ጭብጥ",
+            "ገጸ-ባህሪ"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ሴራ» በልቦለድ ውስጥ የክስተቶችን ቅደም ተከተልና ትስስር የሚያመለክት የስነ-ጽሑፍ ቃል ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u25-l4) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Theme' የሚለውን የስነ-ጽሑፍ ዋና ሀሳብ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (25.4.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (25.4.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (25.4.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (25.4.x3)"
+            "ጭብጥ (Theme - Central idea or underlying meaning)",
+            "ስም",
+            "ቀን",
+            "ቦታ"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የኢትዮጵያ አንጋፋ ሥነ-ጽሑፍ (Classical Ethiopian Literature)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (25.4.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (25.4.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (25.4.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (25.4.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ጭብጥ» የድርሰቱ ዋና መልእክትና ማጠንጠኛ ሀሳብ ነው።"
         }
       ]
     },
@@ -11718,24 +11624,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 25-4):",
+          "prompt": "የስነ-ጽሑፍ ትችት እና የልቦለድ ክፍሎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (25.4.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (25.4.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (25.4.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (25.4.z3)"
+            "ጭብጥ፣ ሴራ፣ ገጸ-ባህሪ፣ መቼት፣ ግጭት እና የስነ-ጽሑፍ ትችት።",
+            "ዳቦ፣ ስጋ፣ እንቁላል እና ወተት።",
+            "ጫማ፣ ኮት እና ቆብ።",
+            "በአማርኛ የስነ-ጽሑፍ ትችት የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የስነ-ጽሑፍ ትንተና ክፍሎችን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u25-l4) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የኢትዮጵያ»):",
+          "prompt": "'ጭብጥ / Theme, central subject' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የኢትዮጵያ",
-            "የኢትዮጵያ"
+            "ጭብጥ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የኢትዮጵያ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ጭብጥ» (Č’əbt’) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -11746,85 +11651,62 @@
     "subject": "amharic",
     "unit": 25,
     "lessonNumber": 5,
-    "title": "የኢትዮጵያ አንጋፋ ሥነ-ጽሑፍ (Classical Ethiopian Literature) (ክፍል 5)",
+    "title": "የክፍል 25 አጠቃላይ ማጠቃለያ (Unit 25 Grand Synthesis & Classical Literary Discourse)",
     "level": "C1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የግዕዝ እና የቀዳማዊ አማርኛ ሥነ-ጽሑፍ፣ የከበደ ሚካኤል እና የጸጋዬ ገብረመድህን ድርሰቶች። (ክፍል 5)።",
+    "objective": "ልቦለድን፣ የግጥም ስንኞችን፣ የሰምና ወርቅ ቅኔንና የስነ-ጽሑፍ ትችትን ያቀናጀ የተሟላ ስነ-ጽሑፋዊ ውይይት ማካሄድ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የክፍል ፳፭ አጠቃላይ የስነ-ጽሑፍ፣ የግጥምና የቅኔ ውህደት ማጠቃለያ:\n\n፩. አንጋፋ ስነ-ጽሑፍ:\n- ልቦለድ፣ ደራሲ፣ ሐዲስ ዓለማየሁ፣ በዓሉ ግርማ፣ ከበደ ሚካኤል።\n\n፪. የግጥም ውበት:\n- ስንኝ፣ ቤት መምቻ፣ ዜማ፣ ሎሬት ጸጋዬ ገብረመድህን።\n\n፫. የሰምና ወርቅ ቅኔ:\n- ሰም (ላይኛው ትርጉም)፣ ወርቅ (ውስጠ-ምስጢር)፣ ህብር (ባለ ሁለት ትርጉም ቃል)።\n\n፬. የስነ-ጽሑፍ ትችት:\n- ጭብጥ፣ ሴራ፣ ገጸ-ባህሪ፣ መቼት፣ ግጭት።",
       "examples": [
         {
-          "target": "መምህሩ የ«የኢትዮጵያ አንጋፋ ሥነ-ጽሑፍ (Classical Ethiopian Literature)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (25.5.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የኢትዮጵያ አንጋፋ ሥነ-ጽሑፍ (Classical Ethiopian Literature)' to the students."
+          "target": "የአማርኛ ስነ-ጽሑፍ በልቦለድ ድርሰቶች፣ በግጥም ቤት መምቻ እና በሰምና ወርቅ ቅኔያዊ ምስጢር የጎለበተ ነው።",
+          "reading": "Yä'amarənyya sənä-ts’əhuf bäləb-wälläd dərsätočč, bägət’əm bet mämča ənna bäsämənna wärq qəneyawi məsət’ir yägoläbbätä näw. [jɛʔamaˈrɨɲːa sɨnɛtsʼɨˈhuf bɛlɨbʷɛlːɛd dɨrsɛˈtotʃː bɛɡɨtʼɨm bet mɛmˈtʃa ʔɨnːa bɛsɛmɨnːa wɛrkʼ kʼɨnejaˈwi mɨsɨˈtʼir jɛɡolɛbːɛˈtɛ nɛw] (yeh-ah-mah-RUN-yah suh-neh-ts'uh-HOOF beh-lub-wel-led dur-seh-TOHCH, beh-guh-T'UM bayt mem-CHAH un-nah beh-SEM-un-nah WEHR-k' k'uh-nay-yah-WEE muh-suh-T'EER yeh-goh-leb-beh-TEH new)",
+          "translation": "Amharic literature is enriched by novels, poetic rhyme schemes, and the poetic secrets of Wax and Gold."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (25.5.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ደራሲው በፈጠሯቸው ጥልቅ ገጸ-ባህሪያት እና በረቂቅ ሴራ አማካኝነት የህብረተሰቡን እውነተኛ ገጽታ አሳዩ።",
+          "reading": "Därasiw bäfät’t’äruwaččäw t’ələq gäts’ä-bahəriyat ənna bäräqiq sera amakanyənnät yähəbrätäsäbun əwnätänya gäts’ta asayyu. [dɛraˈsiw bɛfɛtʼːɛruwaˈtʃːɛw tʼɨˈlɨkʼ ɡɛtsʼɛbahɨriˈjat ʔɨnːa bɛrɛˈkʼikʼ seˈra ʔamaˈkaɲɨnːɛt jɛhɨbrɛtɛsɛˈbun ʔɨwnɛtɛˈɲa ɡɛtsʼˈta ʔasaˈjːu] (deh-rah-SEEW beh-fet'-t'eh-roo-wahch-CHEW t'uh-LUK' gets'-eh-bah-huh-ree-YAHT un-nah beh-reh-K'EEK' say-RAH ah-mah-kahn-yuhn-NET yeh-hub-reh-teh-seh-BOON ew-neh-ten-YAH gets'-TAH ah-SYE-yoo)",
+          "translation": "Through the deep characters and intricate plot created, the author showed the true face of society."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (25.5.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (25.5.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "በስነ-ጽሑፍ ትችት ወቅት የቅኔው ሰም ብቻ ሳይሆን ውስጠኛው ወርቅ በሚገባ ተተነተነ።",
+          "reading": "Bäsənä-ts’əhuf təččət wäqt yäqənew säm bəčča sayhon wəsət’änyaw wärq bämigäba tätänättänä. [bɛsɨnɛtsʼɨˈhuf tɨtʃːɨt wɛkʼt jɛkʼɨˈnew sɛm bɨˈtʃːa sajˈhon wɨstʼɛˈɲaw wɛrkʼ bɛmiɡɛˈba tɛtɛnɛtːɛˈnɛ] (beh-suh-neh-ts'uh-HOOF tuch-chut wehk'-T yeh-k'uh-NAY-woo sem buhch-CHAH sah-yuh-HOHN woos-t'en-YAHW wehr-K' beh-mee-geh-BAH teh-teh-net-teh-NEH)",
+          "translation": "During the literary critique, not only the wax of the poem but also the inner gold was thoroughly analyzed."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Grand Synthesis 25: Author (ደራሲ) + Poem (ስንኝ) + Wax & Gold (ሰምና ወርቅ) + Analysis (ትችት)!"
+      ],
+      "culturalNotes": [
+        "የኢትዮጵያ ስነ-ጽሑፍ እና የቅኔ ባህል የሰው ልጅን የህይወት ፍልስፍና፣ ፍቅርን፣ ጀግንነትንና ማህበራዊ ፍትህን በጥበብ የማንጸባረቅ የረጅም ዘመናት አኩሪ ቅርስ ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የኢትዮጵያ አንጋፋ ሥነ-ጽሑፍ (Classical Ethiopian Literature)» (ክፍል 5) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "ከሚከተሉት ውስጥ የተሟላ የስነ-ጽሑፍና የቅኔ ውህደትን የያዘው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«የኢትዮጵያ አንጋፋ ሥነ-ጽሑፍ (Classical Ethiopian Literature)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (25.5.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (25.5.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (25.5.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (25.5.w3)"
+            "የአማርኛ ስነ-ጽሑፍ በልቦለድ፣ በግጥም ቤት መምቻ እና በሰምና ወርቅ ምስጢር የጎለበተ ነው። (Complete literary synthesis combining novels, rhyme, and wax & gold poetry)",
+            "ምንም ስነ-ጽሑፍ የለም",
+            "ሁሉም ተራ ቃላት ናቸው",
+            "ግጥም የለም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "ይህ አማራጭ ልቦለድን፣ የግጥም ስነ-ስርዓትን እና የሰምና ወርቅን በአንድነት ያጠቃለለ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u25-l5) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "የስነ-ጽሑፍ ትችት እና የቅኔ ቃላትን ያጣመረ ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (25.5.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (25.5.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (25.5.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (25.5.x3)"
+            "ተቺው በስነ-ጽሑፍ ትንተናው ወቅት የቅኔውን ሰም እና ወርቅ በዝርዝር አብራራ። (The critic explained the wax and gold of the poem in detail during literary analysis - Accurate unified sentence)",
+            "ምንም ትችት አልቀረበም",
+            "ቅኔ የለም",
+            "ወርቅ የለም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የኢትዮጵያ አንጋፋ ሥነ-ጽሑፍ (Classical Ethiopian Literature)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (25.5.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (25.5.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (25.5.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (25.5.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ይህ አማራጭ የስነ-ጽሑፍ ትችትን እና የቅኔ ፍልስፍናን በትክክል ያዛምዳል።"
         }
       ]
     },
@@ -11832,24 +11714,26 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 25-5):",
+          "prompt": "የክፍል 25 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (25.5.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (25.5.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (25.5.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (25.5.z3)"
+            "የአማርኛ ስነ-ጽሑፍ ታሪክና ደራስያን፣ የግጥም ቅርፅና ቤት መምቻ፣ የሰምና ወርቅ ቅኔያዊ ምስጢር፣ እንዲሁም የስነ-ጽሑፍ ትችት ተካተዋል።",
+            "ይህ ክፍል ስለ ጂኦግራፊ ብቻ ነው።",
+            "በአማርኛ ልቦለድ አይጻፍም።",
+            "ሁሉም ግጥሞች ቤት መምቻ የላቸውም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የክፍል 25ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u25-l5) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የኢትዮጵያ»):",
+          "prompt": "'ስነ-ጽሑፍ / Literature' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የኢትዮጵያ",
-            "የኢትዮጵያ"
+            "ስነ-ጽሑፍ",
+            "ሥነ-ጽሑፍ",
+            "ስነ ጽሑፍ",
+            "ሥነ ጽሑፍ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የኢትዮጵያ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ስነ-ጽሑፍ» ወይም «ሥነ-ጽሑፍ» (Sənä-ts’əhuf) ነው።"
         }
       ],
       "passThreshold": 0.8
