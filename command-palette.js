@@ -34,7 +34,8 @@
     { id: 'skill-cs110', name: 'CS110: Algorithms & Data Structures', icon: '💻', cat: 'University', level: 'Elite Core' },
     { id: 'skill-b110', name: 'B110: Market Dynamics & Psych', icon: '📊', cat: 'University', level: 'Executive' },
     { id: 'skill-b111', name: 'B111: Financial Modeling & Valuation', icon: '📈', cat: 'University', level: 'Wall St Core' },
-    { id: 'fitness', name: 'Adaptive Fitness & Movement', icon: '🏃', cat: 'Fitness', level: 'Periodized' }
+    { id: 'fitness', name: 'Adaptive Fitness & Movement', icon: '🏃', cat: 'Fitness', level: 'Periodized' },
+    { id: 'srs-review-deck', name: 'SRS Flashcard Review Deck', icon: '🎴', cat: 'Memory / Review', level: 'SuperMemo FSRS', action: function() { if (typeof global.openSRSFlashcardDeck === 'function') global.openSRSFlashcardDeck(); } }
   ];
 
   function openCommandPalette() {
@@ -118,7 +119,11 @@
         };
         item.onclick = function () {
           if (overlay.parentNode) overlay.parentNode.removeChild(overlay);
-          if (global.location) global.location.hash = '#module=' + encodeURIComponent(m.id);
+          if (typeof m.action === 'function') {
+            m.action();
+          } else if (global.location) {
+            global.location.hash = '#module=' + encodeURIComponent(m.id);
+          }
         };
         list.appendChild(item);
       });
