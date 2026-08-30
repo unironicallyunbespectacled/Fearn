@@ -2125,53 +2125,62 @@
     "subject": "cantonese",
     "unit": 5,
     "lessonNumber": 1,
-    "title": "日常生活同喺字句 (Daily Routine & Location) (第1課)",
+    "title": "處所介詞「喺」與「主語＋喺＋處所＋動詞」語序 (Location Preposition hai2 & Word Order)",
     "level": "A1",
-    "objective": "Master Cantonese linguistics for 粵語單元5第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語核心處所介詞「喺」（hai2）及「主語＋喺＋處所＋動詞」之標準空間行動句式語序。",
     "presentation": {
-      "explanation": "",
+      "explanation": "粵語中表達動作發生之空間處所時，處所介詞「喺」（hai2，第2聲高升調）扮演核心樞紐角色：\n\n一、「喺」之核心句式結構：\n１．「主語＋喺＋處所＋動詞短語」：表示某人在某處進行某項活動。例如「我喺中環返工」（我在中環上班）、「佢哋喺屋企睇電視」（他們在家看電視）。\n２．「主語＋喺＋處所」：單純表示存在方位。例如「陳先生依家喺辦公室」（陳先生現在在辦公室）。\n\n二、語音與字形辨析：\n１．「喺」（hai2，第2聲高升調）：處所介詞/動詞，表「在……地方」。\n２．「係」（hai6，第6聲低平調）：判斷動詞（繫詞），表「是」。\n兩者聲調不同、語義完全獨立，嚴禁混淆！",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第5課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 5 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 5 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 5 in communication."
+          "target": "黃小姐每日朝早都喺公園跑步做運動。",
+          "reading": "wong4 siu2 ze2 mui5 jat6 ziu1 zou2 dou1 hai2 gung1 jyun2 paau4 bou6 zou6 wan6 dung6. [wɔːŋ˨˩ siːu˧˥ tsɛː˧˥ muːi˩˧ jɐt̚˨ tsiːu˥ tsou˧˥ tou˥ hɐi˩˧ kʊŋ˥ jyːn˧˥ pʰaːu˨˩ pou˨ tsou˨ wɐn˨ tʊŋ˨] (WONG SEW-JEH MOOY-YUT JEW-JOH DOH HY GOONG-YUEN POW-BO JOE WUN-DOONG)",
+          "translation": "Miss Wong runs and exercises in the park every morning."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元5-1）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "我哋今晚打算喺銅鑼灣嗰間日本餐廳食晚飯。",
+          "reading": "ngo5 dei6 gam1 maan5 daa2 syun3 hai2 tung4 lo4 waan4 go2 gaan1 jat6 bun2 caan1 teng1 sik6 maan5 faan6. [ŋɔː˩˧ tei˨ kɐm˥ maːn˩˧ taː˧˥ syːn˧ hɐi˩˧ tʰʊŋ˨˩ lɔː˨˩ waːn˨˩ kɔː˧˥ kaːn˥ jɐt̚˨ puːn˧˥ tsʰaːn˥ tʰɛːŋ˥ sɪk̚˨ maːn˩˧ faːn˨] (NGOH-DAY GUM-MAHN DY-SUEN HY TOONG-LOH-WAHN GOH-GAHN YUT-BOON TSAHN-TENG SIK MAHN-FAHN)",
+          "translation": "We plan to have dinner at that Japanese restaurant in Causeway Bay tonight."
+        },
+        {
+          "target": "李經理依家喺會議室同客戶開緊會。",
+          "reading": "lei5 ging1 lei5 ji1 gaa1 hai2 wui6 ji5 sat1 tung4 haak3 wu6 hoi1 gan2 wui6. [lei˩˧ kɪŋ˥ lei˩˧ jiː˥ kaː˥ hɐi˩˧ wuːi˨ jiː˩˧ sɐt̚˥ tʰʊŋ˨˩ haːk̚˧ wuː˨ hɔːi˥ kɐn˧˥ wuːi˨] (LEE GING-LEE YEE-GAH HY WOOEY-YEE-SUT TOONG HAHK-WOO HOY-GUN-WOOEY)",
+          "translation": "Manager Lee is currently in the meeting room holding a meeting with clients."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【聲調辨析訣】二聲高升「喺」（hai2）在處所，六聲低平「係」（hai6）作判斷；聲調分明句式準，處所行動一目了然！"
+      ],
+      "culturalNotes": [
+        "在香港問候他人近況時，常問「你最近喺邊度返工呀？」（你最近在哪裡上班？），以工作區域（如中環、觀塘、鰂魚涌）為社交話題切入點。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"地鐵\":",
+          "prompt": "【語序造句】欲表達「我們在圖書館看書」，正確之粵語語序係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第5課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：巴士錯置）",
-            "混雜生硬詞彙之不規範語句（例項：小巴未適配）",
-            "聲調助詞搭配欠妥之表達（例項：電車誤用）"
+            "我哋喺圖書館睇書。 (ngo5 dei6 hai2 tou4 syu1 gun2 tai2 syu1.)",
+            "我哋睇書喺圖書館。",
+            "喺圖書館我哋睇書係。",
+            "我哋圖書館喺睇書。"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「主語＋喺＋處所＋動詞短語」（我哋喺圖書館睇書）係標準粵語語序。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"地鐵\":",
+          "prompt": "【音義辨析】「佢＿＿＿香港人」與「佢＿＿＿香港住」，兩空格依序應填入之字詞係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第5課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：小巴未適配）",
-            "聲調助詞搭配欠妥之表達（例項：電車誤用）",
-            "語序顛倒嘅非標準句式（例項：巴士錯置）"
+            "係 (hai6) …… 喺 (hai2)",
+            "喺 (hai2) …… 係 (hai6)",
+            "喺 (hai2) …… 喺 (hai2)",
+            "係 (hai6) …… 係 (hai6)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "前者為判斷身份（係香港人），後者為處所居住（喺香港住）。"
         }
       ]
     },
@@ -2179,15 +2188,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"地鐵\": Which sentence is completely correct?",
+          "prompt": "【語法正誤】以下邊句句子之處所介詞與語序完全正確？",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第5課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：電車誤用）",
-            "語序顛倒嘅非標準句式（例項：巴士錯置）",
-            "混雜生硬詞彙之不規範語句（例項：小巴未適配）"
+            "陳生每日下晝都喺尖沙咀見客戶。",
+            "陳生每日下晝都係尖沙咀見客戶。",
+            "陳生每日見客戶尖沙咀喺。",
+            "陳生喺每日見客戶尖沙咀。"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「喺＋處所＋動詞短語」（喺尖沙咀見客戶）完全正確。"
         }
       ],
       "passThreshold": 0.8
@@ -2198,53 +2207,62 @@
     "subject": "cantonese",
     "unit": 5,
     "lessonNumber": 2,
-    "title": "日常生活同喺字句 (Daily Routine & Location) (第2課)",
+    "title": "「喺邊度」問句與空間方位詞（前、後、左、右、上、下、入、出） (Location Questions & Spatial Relators)",
     "level": "A1",
-    "objective": "Master Cantonese linguistics for 粵語單元5第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握「喺邊度」處所詢問句式，並熟練運用前、後、左、右、上、下、入、出、隔離等全套空間方位詞。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在廣東話中進行空間定位與方位指示時，方位詞系統呈現鮮明之名詞後綴結構：\n\n一、空間方位詞體系：\n１．基本方位：「前面」（前頭/前方）、「後面」（後方）、「左便」（左邊）、「右便」（右邊）。\n２．垂直與內外：「上面」（上方/表面）、「下面」（下方/底端）、「入面」（內部/裡面）、「出面」（外部/外面）。\n３．鄰近與相對：「隔離」（gaak3 lei4，隔壁/相鄰）、「對面」（deoi3 min6，正對面）。\n\n二、「喺邊度」處所問答句式：\n１．詢問：「請問便利店喺邊度呀？」（請問便利店在哪裡？）\n２．回答：「便利店喺地鐵站出口對面，藥房隔離。」（便利店在地鐵站出口對面，藥房隔壁。）",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第5課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 5 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 5 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 5 in communication."
+          "target": "請問洗手間喺邊度呀？喺前面轉左，餐廳出面就係。",
+          "reading": "cing2 man6 sai2 sau2 gaan1 hai2 bin1 dou6 aa3? hai2 cin4 min6 zyun3 zo2, caan1 teng1 ceot1 min6 zau6 hai6. [tsʰɪŋ˧˥ mɐn˨ sɐi˧˥ sɐu˧˥ kaːn˥ hɐi˩˧ piːn˥ tou˨ aː˧? hɐi˩˧ tsʰiːn˨˩ miːn˨ tsyn˧ tsɔː˧˥, tsʰaːn˥ tʰɛːŋ˥ tsʰɵt̚˥ miːn˨ tsɐu˨ hɐi˨] (CHING-MUN SYE-SAU-GAHN HY BEEN-DOH AH? HY CHEEN-MEEN JUEN-JOH, TSAHN-TENG CHUT-MEEN JAU-HY)",
+          "translation": "Excuse me, where is the restroom? Turn left ahead, and it is right outside the restaurant."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元5-2）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "我部電話擺咗喺書枱上面，電腦隔離。",
+          "reading": "ngo5 bou6 din6 waa2 baai2 zo2 hai2 syu1 toi2 soeng6 min6, din6 nou5 gaak3 lei4. [ŋɔː˩˧ pou˨ tiːn˨ waː˧˥ paːi˧˥ tsɔː˧˥ hɐi˩˧ syː˥ tʰɔːi˧˥ sœːŋ˨ miːn˨, tiːn˨ nou˩˧ kaːk̚˧ lei˨˩] (NGOH-BO DEEN-WAH BY-JOR HY SYU-TOY SEUNG-MEEN, DEEN-NOH GAHK-LEY)",
+          "translation": "My phone is placed on the desk, next to the computer."
+        },
+        {
+          "target": "銀行就喺商場入面，超市對面。",
+          "reading": "ngan4 hong4 zau6 hai2 soeng1 coeng4 jap6 min6, ciu1 si5 deoi3 min6. [ŋɐn˨˩ hɔːŋ˨˩ tsɐu˨ hɐi˩˧ sœːŋ˥ tsʰœːŋ˨˩ jɐp˨ miːn˨, tsʰiːu˥ siː˨˧ tʰɵy˧ miːn˨] (NGUN-HONG JAU HY SEUNG-CHEUNG YUP-MEEN, CHEW-SEE DOEY-MEEN)",
+          "translation": "The bank is right inside the shopping mall, opposite the supermarket."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【方位定位訣】前瞻後顧左便右，上天入地出面留；「隔離」緊挨「對面」望，行街問路唔使愁！"
+      ],
+      "culturalNotes": [
+        "香港地少人多、高樓林立，給人指路時常精確結合商舖地標與「隔離」（相鄰）、「對面」，如「喺港鐵A出口對面，餅店隔離」，極為直觀有效。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"巴士\":",
+          "prompt": "【方位理解】「間咖啡舖喺書店隔離」所表達之具體方位關係係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第5課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：小巴錯置）",
-            "混雜生硬詞彙之不規範語句（例項：電車未適配）",
-            "聲調助詞搭配欠妥之表達（例項：渡輪誤用）"
+            "咖啡店在書店隔壁 / 緊挨著書店",
+            "咖啡店在書店對面",
+            "咖啡店在書店樓上",
+            "咖啡店在書店裡面"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「隔離」（gaak3 lei4）在粵語中意為「隔壁/相鄰」。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"巴士\":",
+          "prompt": "【問路句式】欲向路人詢問「請問最近嘅地鐵站在哪裡」，正確之粵語表達係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第5課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：電車未適配）",
-            "聲調助詞搭配欠妥之表達（例項：渡輪誤用）",
-            "語序顛倒嘅非標準句式（例項：小巴錯置）"
+            "請問最近嘅地鐵站喺邊度呀？ (cing2 man6 zeoi3 kan5 ge3 dei6 tit3 zaam6 hai2 bin1 dou6 aa3?)",
+            "請問最近嘅地鐵站係邊個呀？",
+            "請問最近嘅地鐵站有冇人呀？",
+            "請問最近嘅地鐵站得唔得閒呀？"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "詢問地點處所使用「喺邊度」（hai2 bin1 dou6）。"
         }
       ]
     },
@@ -2252,15 +2270,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"巴士\": Which sentence is completely correct?",
+          "prompt": "【方位對應】與「入面」（裡面）語義完全相反之粵語方位詞係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第5課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：渡輪誤用）",
-            "語序顛倒嘅非標準句式（例項：小巴錯置）",
-            "混雜生硬詞彙之不規範語句（例項：電車未適配）"
+            "出面 (ceot1 min6 / 外面)",
+            "上面 (soeng6 min6)",
+            "下面 (haa6 min6)",
+            "後面 (hau6 min6)"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「出面」（外面）與「入面」（裡面）構成反義詞。"
         }
       ],
       "passThreshold": 0.8
@@ -2271,53 +2289,62 @@
     "subject": "cantonese",
     "unit": 5,
     "lessonNumber": 3,
-    "title": "日常生活同喺字句 (Daily Routine & Location) (第3課)",
+    "title": "公共交通工具：搭地鐵、搭巴士、搭小巴、坐的士 (Public Transport Collocations)",
     "level": "A1",
-    "objective": "Master Cantonese linguistics for 粵語單元5第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握搭乘香港特色公共交通工具之動賓搭配（搭地鐵、搭巴士、搭小巴、坐的士、搭叮叮）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "香港擁有世界領先之公共交通網絡，日常出行中動詞「搭」（daap3）與「坐」（co5）為主要乘坐動詞：\n\n一、交通工具搭配：\n１．「搭地鐵 / 港鐵」（daap3 dei6 tit3）：乘坐地下鐵路。\n２．「搭巴士」（daap3 baa1 si2）：乘坐雙層巴士。\n３．「搭小巴」（daap3 siu2 baa1）：乘坐公共小型巴士（綠色專線小巴或紅色小巴）。\n４．「坐的士 / 搭的士」（co5 dik1 si2）：乘坐計程車/出租車。\n５．「搭電車 / 搭叮叮」（daap3 din6 ce1 / daap3 ding1 ding1）：乘坐港島百年雙層有軌電車。\n６．「搭天星小輪」（daap3 tin1 sing1 siu2 leon4）：乘坐維港渡海輪船。\n\n二、出行問答句式：\n「你平時點樣返工呀？」「我平時搭地鐵返工，好快好方便。」",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第5課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 5 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 5 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 5 in communication."
+          "target": "由中環去尖沙咀，搭地鐵或者搭天星小輪都好快到。",
+          "reading": "jau4 zung1 waan4 heoi3 zim1 saa1 zeoi2, daap3 dei6 tit3 waak6 ze2 daap3 tin1 sing1 siu2 leon4 dou1 hou2 faai3 dou3. [jɐu˨˩ tsʊŋ˥ waːn˨˩ hɵy˧ tsɪm˥ saː˥ tsɵy˧˥, taːp̚˧ tei˨ tʰiːt̚˧ waːk˨ tsɛː˧˥ taːp̚˧ tʰiːn˥ sɪŋ˥ siːu˧˥ lɵn˨˩ tou˥ hou˧˥ faːi˧ tou˧] (YAU JOONG-WAHN HOY JEEM-SAH-TSOY, DAHP DAY-TEET WAHK-JEH DAHP TEEN-SING SEW-LUN DOH HOH-FY DOH)",
+          "translation": "From Central to Tsim Sha Tsui, taking the MTR or the Star Ferry is very fast."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元5-3）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "如果趕時間嘅話，我哋不如坐的士去機場啦。",
+          "reading": "jyu4 gwo2 gon2 si4 gaan3 ge3 waa2, ngo5 dei6 bat1 jyu4 co5 dik1 si2 heoi3 gei1 coeng4 laa1. [jyː˨˩ kʷɔː˧˥ kɔːn˧˥ siː˨˩ kaːn˧ kɛː˧ waː˧˥, ŋɔː˩˧ tei˨ pɐt̚˥ jyː˨˩ tsʰɔː˩˧ tɪk̚˥ siː˧˥ hɵy˧ kei˥ tsʰœːŋ˨˩ laː˥] (YOO-GWOR GON-SEE-GAHN GEH-WAH, NGOH-DAY BUT-YOO CHOH DIK-SEE HOY GAY-CHEUNG LAH)",
+          "translation": "If we are in a hurry, why don't we take a taxi to the airport."
+        },
+        {
+          "target": "喺港島搭叮叮慢悠悠睇街景，真係一種享受。",
+          "reading": "hai2 gong2 dou2 daap3 ding1 ding1 maan6 jau4 jau4 tai2 gaai1 ging2, zan1 hai6 jat1 zung2 hoeng2 sau6. [hɐi˩˧ kɔːŋ˧˥ tou˧˥ taːp̚˧ tɪŋ˥ tɪŋ˥ maːn˨ jɐu˨˩ jɐu˨˩ tʰɐi˧˥ kaːi˥ kɪŋ˧˥, tsɐn˥ hɐi˨ jɐt̚˥ tsʊŋ˧˥ hœːŋ˧˥ sɐu˨] (HY GONG-DOH DAHP DING-DING MAHN-YAU-YAU TY GY-GING, JUN-HY YUT-JOONG HEUNG-SAU)",
+          "translation": "Riding the tram leisurely on Hong Kong Island to watch the street scenes is truly an enjoyment."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【港島交通訣】地鐵穿梭海陸通，雙層巴士過橋衝；「叮叮」電車聲聲脆，天星小輪渡海風！"
+      ],
+      "culturalNotes": [
+        "香港電車因行車時發出清脆之「叮叮」警示鈴聲，被全港市民親切暱稱為「叮叮」（ding1 ding1）。搭乘叮叮「後門上車、前門落車付款」，係港島獨特之城市文化印記。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"小巴\":",
+          "prompt": "【文化名詞】香港市民常將香港島百年雙層有軌電車親切暱稱為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第5課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：電車錯置）",
-            "混雜生硬詞彙之不規範語句（例項：渡輪未適配）",
-            "聲調助詞搭配欠妥之表達（例項：的士誤用）"
+            "叮叮 (ding1 ding1)",
+            "小巴 (siu2 baa1)",
+            "的士 (dik1 si2)",
+            "小輪 (siu2 leon4)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "香港電車因鈴聲而被廣泛稱為「叮叮」（ding1 ding1）。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"小巴\":",
+          "prompt": "【動賓搭配】欲表達「乘坐地下鐵路上班」，最地道之粵語詞組係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第5課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：渡輪未適配）",
-            "聲調助詞搭配欠妥之表達（例項：的士誤用）",
-            "語序顛倒嘅非標準句式（例項：電車錯置）"
+            "搭地鐵返工 (daap3 dei6 tit3 faan1 gung1)",
+            "行地鐵返工",
+            "跑地鐵返工",
+            "飛地鐵返工"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "乘坐交通工具使用動詞「搭」（搭地鐵）。"
         }
       ]
     },
@@ -2325,15 +2352,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"小巴\": Which sentence is completely correct?",
+          "prompt": "【交通辨析】以下邊種交通工具係橫渡維多利亞港之經典渡輪？",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第5課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：的士誤用）",
-            "語序顛倒嘅非標準句式（例項：電車錯置）",
-            "混雜生硬詞彙之不規範語句（例項：渡輪未適配）"
+            "天星小輪 (tin1 sing1 siu2 leon4)",
+            "叮叮電車 (ding1 ding1)",
+            "紅色小巴 (hung4 sik1 siu2 baa1)",
+            "雙層巴士 (soeng1 caang4 baa1 si2)"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "天星小輪係維多利亞港極具歷史文化底蘊之渡海輪船。"
         }
       ],
       "passThreshold": 0.8
@@ -2344,53 +2371,62 @@
     "subject": "cantonese",
     "unit": 5,
     "lessonNumber": 4,
-    "title": "日常生活同喺字句 (Daily Routine & Location) (第4課)",
+    "title": "日常生活作息動詞：起身、返工、放工、食飯、瞓覺 (Daily Routine Verbs)",
     "level": "A1",
-    "objective": "Master Cantonese linguistics for 粵語單元5第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "熟練運用粵語高頻日常作息動詞（起身、返工、放工、食晏、返學、放學、瞓覺）描述一日流程。",
     "presentation": {
-      "explanation": "",
+      "explanation": "廣東話中描述日常生活作息之核心動詞具有鮮明之構詞特徵：\n\n一、核心作息動詞：\n１．「起身」（hei2 san1）：起床。\n２．「返工」（faan1 gung1）：上班/去工作；「放工」（fong3 gung1）：下班。\n３．「返學」（faan1 hok6）：上學/去學校；「放學」（fong3 hok6）：放學。\n４．「食飯」（sik6 faan6）：用餐；「食晏」（sik6 aan3）：吃午飯/午餐。\n５．「瞓覺」（fan3 gaau3）：睡覺。\n\n二、一日時間與作息串聯：\n「我每日朝早七點起身，八點搭車返工，一點食晏，下晝六點放工，夜晚十一點瞓覺。」",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第5課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 5 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 5 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 5 in communication."
+          "target": "我平時朝早七點三個字起身，梳洗完就出門口返工。",
+          "reading": "ngo5 ping4 si4 ziu1 zou2 cat1 dim2 saam1 go3 zi6 hei2 san1, so1 sai2 jyun4 zau6 ceot1 mun4 hau2 faan1 gung1. [ŋɔː˩˧ pʰɪŋ˨˩ siː˨˩ tsiːu˥ tsou˧˥ tsʰɐt̚˥ tiːm˧˥ saːm˥ kɔː˧ tsiː˨ hei˧˥ sɐn˥, sɔː˥ sɐi˧˥ jyːn˨˩ tsɐu˨ tsʰɵt̚˥ muːn˨˩ hɐu˧˥ faːn˥ kʊŋ˥] (NGOH PING-SEE JEW-JOH CHUT-DEEM SAHM-GOH-JEE HY-SUN, SOH-SY-YUEN JAU CHUT-MOON-HAU FAHN-GOONG)",
+          "translation": "I usually get up at 7:15 in the morning, freshen up and head out to work."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元5-4）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "今日公司好忙，我哋要加班做到夜晚八點幾先可以放工。",
+          "reading": "gam1 jat6 gung1 si1 hou2 mong4, ngo5 dei6 jiu3 gaa1 baan1 zou6 dou3 je6 maan5 baat3 dim2 gei2 sin1 ho2 ji5 fong3 gung1. [kɐm˥ jɐt̚˨ kʊŋ˥ siː˥ hou˧˥ mɔːŋ˨˩, ŋɔː˩˧ tei˨ jiu˧ kaː˥ paːn˥ tsou˨ tou˧ jɛː˨ maːn˩˧ paːt̚˧ tiːm˧˥ kei˧˥ siːn˥ hɔː˧˥ jiː˩˧ fɔːŋ˧ kʊŋ˥] (GUM-YUT GOONG-SEE HOH-MONG, NGOH-DAY YEW GAH-BAHN JOE-DOH YE-MAHN BAHT-DEEM-GAY SEEN HOH-YEE FONG-GOONG)",
+          "translation": "The company is very busy today; we have to work overtime until after 8:00 pm before getting off work."
+        },
+        {
+          "target": "時間唔早喇，大家早啲瞓覺，聽朝精神啲。",
+          "reading": "si4 gaan3 m4 zou2 laa3, daai6 gaa1 zou2 di1 fan3 gaau3, ting1 ziu1 zing1 san4 di1. [siː˨˩ kaːn˧ m̩˨˩ tsou˧˥ laː˧, taːi˨ kaː˥ tsou˧˥ tiː˥ fɐn˧ kaːu˧, tʰɪŋ˥ tsiːu˥ tsɪŋ˥ sɐn˨˩ tiː˥] (SEE-GAHN M-JOH LAH, DY-GAH JOH-DEE FUN-GOW, TING-JEW JING-SUN-DEE)",
+          "translation": "It is getting late; everyone go to sleep earlier so we are more refreshed tomorrow morning."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【作息循環歌】晨早「起身」迎朝陽，「返工」「返學」步履忙；傍晚「放工」回溫暖，「食飯」「瞓覺」夢甜鄉！"
+      ],
+      "culturalNotes": [
+        "粵語將吃午飯特稱為「食晏」（sik6 aan3），「晏」字本義為日落或遲暮，引申為中午時分。例如「晏晝」（下午）、「食晏未呀？」（吃午飯了嗎？），係地道生活問候。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"電車\":",
+          "prompt": "【詞彙對應】粵語詞彙「放工」所對應之現代標準漢語係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第5課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：渡輪錯置）",
-            "混雜生硬詞彙之不規範語句（例項：的士未適配）",
-            "聲調助詞搭配欠妥之表達（例項：車站誤用）"
+            "下班",
+            "上班",
+            "請假",
+            "加班"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「放工」（fong3 gung1）即下班，相對應之「返工」（faan1 gung1）為上班。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"電車\":",
+          "prompt": "【日常問候】同事在中午時分向你打招呼「食晏未呀？」，其真實意圖係詢問：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第5課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：的士未適配）",
-            "聲調助詞搭配欠妥之表達（例項：車站誤用）",
-            "語序顛倒嘅非標準句式（例項：渡輪錯置）"
+            "吃午飯了嗎？",
+            "起床了嗎？",
+            "下班了嗎？",
+            "睡覺了嗎？"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「食晏」（sik6 aan3）專指吃午餐。"
         }
       ]
     },
@@ -2398,15 +2434,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"電車\": Which sentence is completely correct?",
+          "prompt": "【語法造句】以下邊句句子之日常作息表達完全符合粵語習慣？",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第5課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：車站誤用）",
-            "語序顛倒嘅非標準句式（例項：渡輪錯置）",
-            "混雜生硬詞彙之不規範語句（例項：的士未適配）"
+            "我每晚十一點半瞓覺，聽朝七點起身。",
+            "我每晚十一點半起身，聽朝七點瞓覺。",
+            "我每晚十一點半放學返工。",
+            "我每晚十一點半食晏。"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "夜晚睡覺（瞓覺）、明早起床（起身）邏輯與語法完全正確。"
         }
       ],
       "passThreshold": 0.8
@@ -2417,53 +2453,62 @@
     "subject": "cantonese",
     "unit": 5,
     "lessonNumber": 5,
-    "title": "日常生活同喺字句 (Daily Routine & Location) (第5課)",
+    "title": "「有」與「冇」之存在句與領屬表達 (Existential & Possessive 有 jau5 vs 冇 mou5)",
     "level": "A1",
-    "objective": "Master Cantonese linguistics for 粵語單元5第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語存在動詞與領屬動詞「有」（jau5）及其強大否定對立詞「冇」（mou5）之句法結構。",
     "presentation": {
-      "explanation": "",
+      "explanation": "粵語中「有」（jau5）與「冇」（mou5）構成高度對稱之肯定與否定體系：\n\n一、「有」之兩大功能：\n１．領屬所有（Possession）：「主語＋有＋賓語」。例如「我有兩部電話」（我有兩部手機）。\n２．存在句（Existence）：「處所＋有＋名詞」。例如「樓下有一間超市」（樓下有一家超市）。\n\n二、「冇」（mou5，第5聲低升調）之對稱否定：\n「冇」係粵語極具代表性之本字（字形由「有」內部兩橫被掏空演化而來），直接對應「沒有」：\n１．否定領屬：「我冇帶現金」（我沒帶現金）。\n２．否定存在：「呢度冇洗手間」（這裡沒有洗手間）。\n３．否定過去動作/完成貌（相當於未曾/沒有做）：「我琴日冇見過佢」（我昨天沒見過他）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第5課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 5 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 5 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 5 in communication."
+          "target": "請問呢間茶餐廳有冇免費無線網絡呀？",
+          "reading": "cing2 man6 ni1 gaan1 caa4 caan1 teng1 jau5 mou5 min5 fai3 mou4 sin3 mong5 lok3 aa3? [tsʰɪŋ˧˥ mɐn˨ niː˥ kaːn˥ tsʰaː˨˩ tsʰaːn˥ tʰɛːŋ˥ jɐu˩˧ mou˩˧ miːn˩˧ fɐi˧ mou˨˩ siːn˧ mɔːŋ˩˧ lɔːk˨ aː˧] (CHING-MUN NEE-GAHN CHAH-TSAHN-TENG YAU-MOU MEEN-FY MOU-SEEN-MONG-LOK AH?)",
+          "translation": "Excuse me, does this cha chaan teng have free Wi-Fi?"
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元5-5）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "唔好意思，我今日出門太急，冇帶雨遮。",
+          "reading": "m4 hou2 ji3 si3, ngo5 gam1 jat6 ceot1 mun4 taai3 gap1, mou5 daai3 jyu5 ze1. [m̩˨˩ hou˧˥ jiː˧ siː˧, ŋɔː˩˧ kɐm˥ jɐt̚˨ tsʰɵt̚˥ muːn˨˩ tʰaːi˧ kɐp̚˥, mou˩˧ taːi˧ jyː˩˧ tsɛː˥] (M-HOH-YEE-SEE, NGOH GUM-YUT CHUT-MOON TY-GUP, MOU DY YOO-JEH)",
+          "translation": "Sorry, I left home in a hurry today and didn't bring an umbrella."
+        },
+        {
+          "target": "公司附近有好多間好地道嘅傳統茶樓。",
+          "reading": "gung1 si1 fu6 gan6 jau5 hou2 do1 gaan1 hou2 dei6 dou6 ge3 cyun4 tung4 caa4 lau4. [kʊŋ˥ siː˥ fuː˨ kɐn˨ jɐu˩˧ hou˧˥ tɔː˥ kaːn˥ hou˧˥ tei˨ tou˨ kɛː˧ tsʰyːn˨˩ tʰʊŋ˨˩ tsʰaː˨˩ lɐu˨˩] (GOONG-SEE FOO-GUN YAU HOH-DOH GAHN HOH-DAY-DOH GEH TSUEN-TOONG CHAH-LAU)",
+          "translation": "There are many very authentic traditional teahouses near the company."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【字形記憶法】「有」中藏筆畫表擁有，「冇」字中空無一物即「沒有」；「有冇」相連成問句，一語道盡存與無！"
+      ],
+      "culturalNotes": [
+        "在香港商戶詢問是否有某件商品時，最地道之正反問句係「請問有冇……呀？」（jau5 mou5 ... aa3?）。店員若有則答「有呀」，若售罄則答「冇喇 / 賣晒喇」。「有冇」係粵語使用率最高之核心詞組之一。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"渡輪\":",
+          "prompt": "【正反問句】在便利店詢問店員「請問有沒有熱咖啡」，最地道之句式係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第5課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：的士錯置）",
-            "混雜生硬詞彙之不規範語句（例項：車站未適配）",
-            "聲調助詞搭配欠妥之表達（例項：車飛誤用）"
+            "請問有冇熱咖啡呀？ (cing2 man6 jau5 mou5 jit6 gaa3 fe1 aa3?)",
+            "請問是不是熱咖啡呀？",
+            "請問有沒有熱咖啡是？",
+            "請問熱咖啡有冇是？"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「有冇」（jau5 mou5）係詢問有無最標準正宗之正反問構式。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"渡輪\":",
+          "prompt": "【語意否定】粵語獨特字「冇」（mou5）之核心語法功能係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第5課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：車站未適配）",
-            "聲調助詞搭配欠妥之表達（例項：車飛誤用）",
-            "語序顛倒嘅非標準句式（例項：的士錯置）"
+            "直接表達「沒有 / 未曾」",
+            "表示「很多」",
+            "表示「非常喜歡」",
+            "表示「已經完成」"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「冇」（mou5）在粵語中專門表示「沒有」或否定過去動作。"
         }
       ]
     },
@@ -2471,15 +2516,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"渡輪\": Which sentence is completely correct?",
+          "prompt": "【問答匹配】對問句「你今日有冇帶八達通卡？」之標準否定答覆係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第5課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：車飛誤用）",
-            "語序顛倒嘅非標準句式（例項：的士錯置）",
-            "混雜生硬詞彙之不規範語句（例項：車站未適配）"
+            "我今日冇帶。 (ngo5 gam1 jat6 mou5 daai3.)",
+            "我今日唔係。 (ngo5 gam1 jat6 m4 hai6.)",
+            "我今日唔得。 (ngo5 gam1 jat6 m4 dak1.)",
+            "我今日唔使。 (ngo5 gam1 jat6 m4 sai2.)"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "回答「有冇」問句時，否定答「冇」（冇帶）。"
         }
       ],
       "passThreshold": 0.8
