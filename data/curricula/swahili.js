@@ -10735,53 +10735,62 @@
     "subject": "swahili",
     "unit": 26,
     "lessonNumber": 1,
-    "title": "Ikolojia, Uhifadhi wa Wanyamapori na Maliasili (Wildlife) (Part 1)",
+    "title": "Hifadhi za Taifa, Wanyama Wakubwa na Bioanuwai ya Afrika Mashariki (National Parks & Biodiversity)",
     "level": "C1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 26.1) with authentic precision.",
+    "objective": "Kuelewa msamiati wa kina wa ikolojia, hifadhi za taifa (Serengeti, Ngorongoro, Maasai Mara), uhajiri mkuu wa nyumbu, Wanyama Wakubwa Watano (Big Five), na utunzaji wa bioanuwai.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Ikolojia, Mbuga za Wanyama na Bioanuwai ya Afrika Mashariki (Ecology & Wildlife):\n\nAfrika Mashariki ina mojawapo ya mifumo ya ikolojia tajiri zaidi ulimwenguni:\n\n1. **Msamiati Mahsusi wa Wanyamapori na Mazingira**:\n   - **Bioanuwai (Biodiversity)**: Aina na mchanganyiko mpana wa viumbe hai (mimea, wanyama, ndege, na wadudu) wanaoishi katika mfumo wa asili.\n   - **Hifadhi ya Taifa / Mbuga ya Wanyama (National Park / Game Reserve)**: Eneo lililotengwa kisheria na serikali kulinda wanyamapori na uoto wa asili (k.m., *Serengeti, Ngorongoro, Maasai Mara, Tsavo, Ruaha, Nyerere/Selous*).\n   - **Uhajiri mkuu wa nyumbu (The Great Wildebeest Migration)**: Msafara wa mamilioni ya nyumbu, pundamilia, na swala wanaovuka Mto Mara kila mwaka kutafuta malisho mapya.\n   - **Wanyama Wakubwa Watano (The Big Five)**:\n     - *Simba* (Lion), *Ndovu / Tembo* (Elephant), *Kifaru* (Rhinoceros), *Chui* (Leopard), *Nyati / Mbogo* (Cape Buffalo).\n   - **Wanyama walao majani (Herbivores)** na **Wanyama walao nyama (Carnivores / Predators)**.\n\n2. **Upatanisho wa Ngeli na Sarufi ya Wanyama**:\n   - Wanyama wote, ndege, wadudu na samaki huwekwa kisarufi katika **Ngeli ya A-WA** bila kujali herufi ya mwanzo ya nomino (*Kifaru huyu amelala, Nyumbu hawa wanavuka mto*).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 26.1.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 26."
+          "target": "Uhajiri mkuu wa mamilioni ya nyumbu na pundamilia kati ya Serengeti na Maasai Mara ni mojawapo ya maajabu makubwa zaidi ya kiikolojia duniani.",
+          "reading": "Uha-ji-ri mku-u wa ma-mi-lio-ni ya nyu-mbu na pu-nda-mi-lia ka-ti ya Se-re-nge-ti na Ma-a-sa-i Ma-ra ni mo-ja-wa-po ya ma-a-ja-bu ma-ku-bwa za-i-di ya ki-i-ko-lo-jia du-nia-ni. [uhɑˈʤiri ˈmkuː wɑ mɑmiliˈɔni jɑ ˈɲumbu nɑ pundɑmiˈliɑ ˈkɑti jɑ sɛrɛˈŋɡɛti nɑ mɑːsɑi ˈmɑrɑ ni mɔʤɑˈwɑpɔ jɑ mɑɑˈʤɑbu mɑˈkubwɑ zɑˈidi jɑ kiikɔlɔˈʤiɑ duniˈɑni] (oo-hah-JEE-ree M-KOO-oo wah mah-mee-lee-OH-nee yah NYOOM-boo nah poon-dah-mee-LEE-ah KAH-tee yah say-rayn-GAY-tee nah mah-ah-sah-EE MAH-rah nee moh-jah-WAH-poh yah mah-ah-JAH-boo mah-KOO-bwah zah-EE-dee yah kee-ee-koh-loh-JEE-ah doo-nee-AH-nee)",
+          "translation": "The great migration of millions of wildebeests and zebras between the Serengeti and Maasai Mara is one of the world's most spectacular ecological wonders."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 26-1).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Hifadhi za taifa zinalinda bioanuwai ya wanyamapori adimu ikiwemo wanyama wakubwa watano: simba, ndovu, kifaru, chui, na nyati.",
+          "reading": "Hi-fa-dhi za ta-i-fa zi-na-li-nda bio-a-nu-wa-i ya wnya-ma-po-ri a-di-mu iki-we-mo wnya-ma ma-ku-bwa wa-ta-no: si-mba, ndo-vu, ki-fa-ru, chu-i, na nya-ti. [hifɑˈði zɑ tɑˈifɑ zinɑˈlindɑ biɔɑnuˈwɑi jɑ wɲɑmɑˈpɔri ɑˈdimu ikiˈwɛmɔ ˈwɲɑmɑ mɑˈkubwɑ wɑˈtɑnɔ ˈsimbɑ ˈndɔvu kiˈfɑru ˈtʃui nɑ ˈɲɑti] (hee-FAH-thee zah tah-EE-fah zee-nah-LEEN-dah bee-oh-ah-noo-WAH-ee yah wnyah-mah-POH-ree ah-DEE-moo ee-kee-WAY-moh WNYAH-mah mah-KOO-bwah wah-TAH-noh: SEEM-bah, N-DOH-voo, kee-FAH-roo, CHOO-ee, nah NYAH-tee)",
+          "translation": "National parks preserve the biodiversity of rare wildlife including the Big Five: lions, elephants, rhinos, leopards, and buffaloes."
+        },
+        {
+          "target": "Mabadiliko katika mfumo wa ikolojia yanaweza kuhatarisha maisha ya mimea na wanyama iwapo maliasili hazitatunzwa kwa misingi ya uendelevu.",
+          "reading": "Ma-ba-di-li-ko ka-ti-ka mfu-mo wa iko-lo-jia ya-na-we-za ku-ha-ta-ri-sha ma-i-sha ya mi-me-a na wnya-ma iwa-po ma-lia-si-li ha-zi-ta-tu-nzwa kwa mi-si-ngi ya ue-nde-le-vu. [mɑbɑdiˈlikɔ ˈkɑtikɑ mfuˈmɔ wɑ ikɔlɔˈʤiɑ jɑnɑˈwɛzɑ kuhɑtɑˈriʃɑ mɑˈiʃɑ jɑ miˈmɛɑ nɑ ˈwɲɑmɑ iˈwɑpɔ mɑliɑˈsili hɑzitɑˈtunzwɑ kwɑ miˈsiŋɡi jɑ uɛndɛˈlɛvu] (mah-bah-dee-LEE-koh KAH-tee-kah m-FOO-moh wah ee-koh-loh-JEE-ah yah-nah-WAY-zah koo-hah-tah-REE-shah mah-EE-shah yah mee-MAY-ah nah WNYAH-mah ee-WAH-poh mah-lee-ah-SEE-lee hah-zee-tah-TOON-zwah kwah mee-SEEN-gee yah oo-ayn-day-LAY-voo)",
+          "translation": "Disruptions within the ecological system can imperil flora and fauna if natural resources are not preserved upon foundations of sustainability."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Wanyamapori na Bioanuwai: Bioanuwai (biodiversity), Hifadhi za taifa (national parks), Uhajiri wa nyumbu (wildebeest migration), Wanyama watano (Big Five)!"
+      ],
+      "culturalNotes": [
+        "Eneo la Hifadhi ya Ngorongoro nchini Tanzania ni hifadhi ya kipekee duniani ambapo jamii za wafugaji wa Kimaasai zinaishi kwa amani kando ya wanyamapori wakali."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Polepole\":",
+          "prompt": "Katika Kiswahili sanifu, neno linalomaanisha uwepo wa aina mbalimbali za viumbe hai (mimea na wanyama) katika mazingira ya asili ni lipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 26.1.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mpya»",
-            "Mpangilio usio sahihi wa viambishi katika «Nzee»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Nzuri»"
+            "Bioanuwai (Biodiversity - Correct ecological terminology)",
+            "Mfumuko wa bei",
+            "Uchumi mkuu",
+            "Mnyororo wa usafiri"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Bioanuwai» ndilo neno rasmi la kisanifu linalotafsiri dhana ya 'biodiversity'."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Polepole\":",
+          "prompt": "Orodha ipi inajumuisha wanyama wote wanaounda kundi maarufu la 'Wanyama Wakubwa Watano' (The Big Five) barani Afrika?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 26.1.",
-            "Mpangilio usio sahihi wa viambishi katika «Nzee»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Nzuri»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mpya»"
+            "Simba, Ndovu (Tembo), Kifaru, Chui, na Nyati (The Big Five - Correct wildlife identification)",
+            "Pundamilia, Twiga, Swala, Sungura, na Fisi",
+            "Kuku, Mbuzi, Ng'ombe, Kondoo, na Paka",
+            "Mamba, Kiboko, Nyoka, Kobe, na Mjusi"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Wanyama wakubwa watano ni: Simba, Ndovu (Tembo), Kifaru, Chui, na Nyati."
         }
       ]
     },
@@ -10789,17 +10798,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Polepole\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha iliyo sahihi ya mbuga za wanyama na dhana za ikolojia katika Afrika Mashariki:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 26.1.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Nzuri»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mpya»",
-            "Mpangilio usio sahihi wa viambishi katika «Nzee»"
+            "Serengeti, Ngorongoro, Maasai Mara, Tsavo, Ruaha; Bioanuwai, Uhajiri wa nyumbu, Mnyororo wa ikolojia.",
+            "Mbuga zote za wanyama ziko ndani ya majengo ya mijini.",
+            "Wanyama wa porini hawahitaji mimea wala maji ili kuishi.",
+            "Afrika Mashariki haina wanyamapori wowote wa asili."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Hifadhi kuu na dhana za ikolojia: Serengeti, Ngorongoro, Maasai Mara, Tsavo; Bioanuwai, Uhajiri mkuu."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u26-l2": {
@@ -10807,53 +10817,62 @@
     "subject": "swahili",
     "unit": 26,
     "lessonNumber": 2,
-    "title": "Ikolojia, Uhifadhi wa Wanyamapori na Maliasili (Wildlife) (Part 2)",
+    "title": "Ujangili, Wanyama Walio Hatarini Kutoweka na Doria za Misitu (Anti-Poaching & Endangered Species)",
     "level": "C1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 26.2) with authentic precision.",
+    "objective": "Kuelewa na kutumia msamiati wa mapambano dhidi ya ujangili, ulinzi wa wanyama walio hatarini kutoweka (tembo, kifaru), doria za askari wanyamapori, na sheria za mazingira.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Mapambano Dhidi ya Ujangili na Uhifadhi wa Spishi Zilizo Hatarini (Anti-Poaching & Endangered Fauna):\n\nUhifadhi wa wanyamapori unakabiliwa na tishio la biashara haramu ya nyara za serikali:\n\n1. **Msamiati Muhimu wa Mapambano Dhidi ya Ujangili**:\n   - **Ujangili (Poaching)**: Uwindaji haramu na usio halali wa wanyamapori kwa ajili ya nyama, pembe, au ngozi.\n   - **Majangili (Poachers)**: Watu wanaofanya uwindaji haramu msituni.\n   - **Pembe za ndovu (Ivory Tusks)** na **Pembe za kifaru (Rhino Horns)**.\n   - **Nyara za serikali (Government Trophies)**: Sehemu za miili ya wanyamapori zilizolindwa kisheria.\n   - **Spishi zilizo hatarini kutoweka (Endangered Species)**: Wanyama au mimea yenye hatari ya kufutika kabisa duniani.\n   - **Askari Wanyamapori / Walinzi wa Doria (Rangers / Game Wardens)**: Maafisa wa usalama waliotwikwa jukumu la kulinda mbuga na doria za misituni.\n   - **Mitego ya waya (Snares)**: Vitanzi vya chuma vinavyotegwa na majangili kunasa wanyama.\n\n2. **Miundo ya Kisheria na Kisarufi**:\n   - *Mtu yeyote atakayepatikana na nyara za serikali atahukumiwa kifungo gerezani.* (Anyone caught with government trophies will be sentenced to prison.)\n   - Matumizi ya vitenzi vya ukaguzi: *kagua* (inspect), *kamata* (arrest/seize), *teketeza nyara* (incinerate illegal trophies).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 26.2.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 26."
+          "target": "Askari wanyamapori wanafanya doria za mchana na usiku katika misitu minene ili kupambana na majangili wanaowinda ndovu kwa ajili ya pembe zao.",
+          "reading": "Aska-ri wnya-ma-po-ri wa-na-fa-nya do-ria za mcha-na na usi-ku ka-ti-ka mi-si-tu mne-ne i-li ku-pa-mba-na na ma-ja-ngi-li wa-na-o-wi-nda ndo-vu kwa aji-li ya pe-mbe za-o. [ɑsˈkɑri wɲɑmɑˈpɔri wɑnɑˈfɑɲɑ dɔˈriɑ zɑ mtʃɑˈnɑ nɑ uˈsiku ˈkɑtikɑ miˈsitu ˈmnɛnɛ ˈili kupɑmbɑˈnɑ nɑ mɑʤɑˈŋɡili wɑnɑɔˈwindɑ ˈndɔvu kwɑ ɑˈʤili jɑ ˈpɛmbɛ ˈzɑɔ] (ahs-KAH-ree wnyah-mah-POH-ree wah-nah-FAH-nyah doh-REE-ah zah m-chah-NAH nah oo-SEE-koo KAH-tee-kah mee-SEE-too M-NAY-nay EE-lee koo-pahm-bah-NAH nah mah-jahn-GEE-lee wah-nah-oh-WEEN-dah N-DOH-voo kwah ah-JEE-lee yah PAYM-bay ZAH-oh)",
+          "translation": "Game rangers conduct day and night patrols throughout deep forests to combat poachers hunting elephants for their ivory tusks."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 26-2).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Kifaru mweusi amejumuishwa katika orodha ya wanyama walio hatarini kutoweka, jambo linalohitaji ulinzi mkali na uangalizi wa kipekee wa kisayansi.",
+          "reading": "Ki-fa-ru mwe-u-si ame-ju-mu-i-shwa kwe-nye o-ro-dha ya wnya-ma wa-li-o ha-ta-ri-ni ku-to-we-ka, ja-mbo li-na-lo-hi-ti-ji uli-nzi mka-li na ua-nga-li-zi wa ki-pe-ke-e wa ki-sa-ya-nsi. [kiˈfɑru ˈmwɛusi ɑmɛʤumuiˈʃwɑ ˈkwɛɲɛ ɔˈrɔðɑ jɑ ˈwɲɑmɑ wɑliɔ hɑtɑˈrini kutɔˈwɛkɑ ˈʤɑmbɔ linɑlɔhiˈtiʤi uˈlindzi ˈmkɑli nɑ uɑŋɡɑˈlizi wɑ kipɛˈkɛː wɑ kisɑˈjɑnsi] (kee-FAH-roo MWAY-oo-see ah-may-joo-moo-EE-shwah KWAY-nyay oh-ROH-thah yah WNYAH-mah wah-lee-oh hah-tah-REE-nee koo-toh-WAY-kah, JAHM-boh lee-nah-loh-hee-TEE-jee oo-LEEN-zee M-KAH-lee nah oo-ahn-gah-LEE-zee wah kee-pay-KAY-ay wah kee-sah-YAHN-see)",
+          "translation": "The black rhino has been categorized among endangered species, a reality necessitating armed protection and specialized scientific oversight."
+        },
+        {
+          "target": "Jamii za wenyeji zinashirikishwa kikamilifu katika kulinda maliasili kupitia mipango ya uhifadhi shirikishi inayowanufaisha kiuchumi.",
+          "reading": "Ja-mi-i za we-nye-ji zi-na-shi-ri-ki-shwa ki-ka-mi-li-fu ka-ti-ka ku-li-nda ma-lia-si-li ku-pi-tia mi-pa-ngo ya uhi-fa-dhi shi-ri-ki-shi ina-yo-wa-nu-fa-i-sha kiu-chu-mi. [ʤɑˈmiː zɑ wɛˈɲɛʤi zinɑʃirikiˈʃwɑ kikɑmiˈlifu ˈkɑtikɑ kuˈlindɑ mɑliɑˈsili kupiˈtiɑ miˈpɑŋɡɔ jɑ uhiˈfɑði ʃiriˈkiʃi inɑjɔwɑnufɑˈiʃɑ kiutʃuˈmi] (jah-MEE-ee zah way-NYAY-jee zee-nah-shee-ree-KEE-shwah kee-kah-mee-LEE-foo KAH-tee-kah koo-LEEN-dah mah-lee-ah-SEE-lee koo-pee-TEE-ah mee-PAHN-goh yah oo-hee-FAH-thee shee-ree-KEE-shee ee-nah-yoh-wah-noo-fah-EE-shah kee-oo-CHOO-mee)",
+          "translation": "Indigenous host communities are fully engaged in protecting natural resources via community-based conservation schemes that generate economic returns."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Uhifadhi na Ujangili: Ujangili (poaching), Majangili (poachers), Pembe za ndovu/kifaru (tusks/horns), Askari wanyamapori (rangers), Spishi zilizo hatarini (endangered)!"
+      ],
+      "culturalNotes": [
+        "Tanzania na Kenya zimeweka adhabu kali za kisheria ikiwemo vifungo virefu gerezani na faini kubwa kwa yeyote anayejihusisha na ujangili wa tembo na vifaru."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Mpya\":",
+          "prompt": "Kitendo haramu cha kuwinda wanyamapori bila kibali kisheria ili kuchukua pembe, ngozi au nyama kinaitwaje katika Kiswahili?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 26.2.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Nzee»",
-            "Mpangilio usio sahihi wa viambishi katika «Nzuri»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Bora»"
+            "Ujangili (Poaching - Correct legal and ecological term)",
+            "Kilimo cha umwagiliaji",
+            "Ufugaji wa kuku",
+            "Uvuvi wa mto"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Ujangili» ndilo neno rasmi la Kiswahili linalomaanisha uwindaji haramu wa wanyamapori."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Mpya\":",
+          "prompt": "Maafisa wa usalama waliotwikwa jukumu la kulinda mbuga za wanyama na kupambana na majangili wanaitwaje?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 26.2.",
-            "Mpangilio usio sahihi wa viambishi katika «Nzuri»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Bora»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Nzee»"
+            "Askari Wanyamapori / Walinzi wa Doria (Wildlife Rangers / Wardens - Correct security title)",
+            "Madaktari wa meno",
+            "Walimu wa shule ya msingi",
+            "Wafanyabiashara wa soko la hisa"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Askari Wanyamapori» (rangers) ndio walinzi wanaofanya doria mbugani kulinda wanyama."
         }
       ]
     },
@@ -10861,17 +10880,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Mpya\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha iliyo sahihi ya maneno yanayohusiana na mapambano dhidi ya ujangili na wanyama walio hatarini:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 26.2.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Bora»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Nzee»",
-            "Mpangilio usio sahihi wa viambishi katika «Nzuri»"
+            "Ujangili, Majangili, Pembe za ndovu, Pembe za kifaru, Nyara za serikali, Askari wanyamapori, Doria ya msituni, Spishi zilizo hatarini.",
+            "Ujangili ni mchezo wa watoto shuleni.",
+            "Tembo na vifaru wanaruhusiwa kuwindwa bila vibali popote.",
+            "Hakuna haja ya kuwa na askari wanyamapori mbugani."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Msamiati sahihi wa kisheria na kiuhifadhi: Ujangili, Majangili, Pembe za ndovu, Pembe za kifaru, Nyara za serikali, Askari wanyamapori, Doria."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u26-l3": {
@@ -10879,53 +10899,62 @@
     "subject": "swahili",
     "unit": 26,
     "lessonNumber": 3,
-    "title": "Ikolojia, Uhifadhi wa Wanyamapori na Maliasili (Wildlife) (Part 3)",
+    "title": "Mabadiliko ya Tabianchi, Ukataji Miti na Utunzaji wa Vyanzo vya Maji (Climate Change & Watersheds)",
     "level": "C1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 26.3) with authentic precision.",
+    "objective": "Kuelewa na kutumia msamiati wa mabadiliko ya tabianchi, ongezeko la joto duniani, hewa ya ukaa, ukataji miti haramu, upandaji miti (reforestation), na utunzaji wa vyanzo vya maji na mito.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Mabadiliko ya Tabianchi na Utunzaji wa Mazingira (Climate Change & Water Catchments):\n\n1. **Msamiati wa Sayansi ya Mazingira**:\n   - **Mabadiliko ya tabianchi (Climate Change)**: Mabadiliko ya muda mrefu ya hali ya hewa, halijoto, na mifumo ya mvua duniani.\n   - **Ongezeko la joto duniani (Global Warming)**: Kupanda kwa joto la wastani la angahewa ya dunia kutokana na gesi chafuzi.\n   - **Hewa ya ukaa (Carbon Dioxide / Carbon Emissions)**: Gesi inayotokana na uchomaji wa mafuta, makaa, na uharibifu wa misitu.\n   - **Ukataji miti haramu (Deforestation)**: Uhusishaji wa kufyeka misitu bila kupanda miti mipya.\n   - **Upandaji miti na kurudisha uoto wa asili (Afforestation & Reforestation)**.\n   - **Vyanzo vya maji / Bonde la mto (Water Catchment / River Basin)**: Maeneo ya milimani na misituni ambako mito na chemchemi za maji huanzia (k.m., *Mlima Kilimanjaro, Safu ya Milima ya Uluguru, Ziwa Victoria*).\n   - **Mmomonyoko wa udongo (Soil Erosion)** na **Ukame (Drought)**.\n\n2. **Miundo ya Kisarufi ya Sababu na Matokeo**:\n   - *Kutokana na ukataji miti kiholela, vyanzo vya maji vimekauka na kusababisha ukame mkali.* (Owing to indiscriminate logging, water sources have dried up causing severe drought.)",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 26.3.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 26."
+          "target": "Ongezeko la joto duniani na mabadiliko ya tabianchi yanasababisha ukame wa muda mrefu na kupungua kwa theluji katika Mlima Kilimanjaro.",
+          "reading": "O-nge-ze-ko la jo-to du-nia-ni na ma-ba-di-li-ko ya ta-bia-nchi ya-na-sa-ba-bi-sha uka-me wa mu-da mre-fu na kupu-ngua kwa the-lu-ji ka-ti-ka Mli-ma Ki-li-ma-nja-ro. [ɔŋɡɛˈzɛkɔ lɑ ˈʤɔtɔ duniˈɑni nɑ mɑbɑdiˈlikɔ jɑ tɑbiɑˈɲtʃi jɑnɑsɑbɑˈbiʃɑ uˈkɑmɛ wɑ ˈmudɑ ˈmrɛfu nɑ kupuˈŋɡuɑ kwɑ θɛˈluʤi ˈkɑtikɑ ˈmlimɑ kilimɑˈnʤɑrɔ] (ohn-gay-ZAY-koh lah JOH-toh doo-nee-AH-nee nah mah-bah-dee-LEE-koh yah tah-bee-ahn-CHEE yah-nah-sah-bah-BEE-shah oo-KAH-may wah MOO-dah m-RAY-foo nah koo-poon-GOO-ah kwah thay-LOO-jee KAH-tee-kah M-LEE-mah kee-lee-mahn-JAH-roh)",
+          "translation": "Global warming and climatic shifts are provoking protracted droughts and the depletion of glacial snow caps atop Mount Kilimanjaro."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 26-3).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Serikali na wananchi wameanzisha kampeni kabambe ya upandaji miti ili kuzuia mmomonyoko wa udongo na kulinda vyanzo vya maji.",
+          "reading": "Se-ri-ka-li na wa-na-nchi wa-me-a-nzi-sha ka-mpe-ni ka-mba-mbe ya upa-nda-ji mi-ti i-li ku-zu-ia mmo-mo-nyo-ko wa udo-ngo na ku-li-nda vya-nzo vya ma-ji. [sɛriˈkɑli nɑ wɑnɑˈɲtʃi wɑmɛɑˈnziʃɑ kɑˈmpɛni kɑˈmbɑmbɛ jɑ upɑˈndɑʤi ˈmiti ˈili kuˈzuiɑ mmɔmɔˈɲɔkɔ wɑ uˈdɔŋɡɔ nɑ kuˈlindɑ ˈvjɑnzɔ vjɑ ˈmɑʤi] (say-ree-KAH-lee nah wah-nahn-CHEE wah-may-ahn-ZEE-shah kahm-PAY-nee kahm-BAHM-bay yah oo-pahn-DAH-jee MEE-tee EE-lee koo-ZOO-ee-ah m-moh-moh-NYOH-koh wah oo-DOHN-goh nah koo-LEEN-dah VYAHN-zoh vyah MAH-jee)",
+          "translation": "The government alongside citizenry initiated an aggressive afforestation campaign to thwart soil erosion and secure vital watersheds."
+        },
+        {
+          "target": "Kupunguza uzalishaji wa hewa ya ukaa na kulinda misitu ya asili ndiyo nguzo kuu ya mikataba ya kimataifa ya mazingira.",
+          "reading": "Kupu-ngu-za uza-li-sha-ji wa he-wa ya uka-a na ku-li-nda mi-si-tu ya a-si-li ndi-yo ngu-zo ku-u ya mi-ka-ta-ba ya ki-ma-ta-i-fa ya ma-zi-ngi-ra. [kupuˈŋɡuzɑ uzɑliˈʃɑʤi wɑ ˈhɛwɑ jɑ uˈkɑː nɑ kuˈlindɑ miˈsitu jɑ ɑˈsili ˈndijɔ ˈŋɡuzɔ ˈkuː jɑ mikɑˈtɑbɑ jɑ kimɑtɑˈifɑ jɑ mɑziˈŋɡirɑ] (koo-poon-GOO-zah oo-zah-lee-SHAH-jee wah HAY-wah yah oo-KAH-ah nah koo-LEEN-dah mee-SEE-too yah ah-SEE-lee N-DEE-yoh N-GOO-zoh KOO-oo yah mee-kah-TAH-bah yah kee-mah-tah-EE-fah yah mah-zeen-GEE-rah)",
+          "translation": "Mitigating anthropogenic carbon emissions and preserving native rainforests constitute the paramount pillar of international environmental conventions."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Mazingira na Tabianchi: Mabadiliko ya tabianchi (climate change), Ongezeko la joto (global warming), Hewa ya ukaa (carbon), Vyanzo vya maji (water catchments)!"
+      ],
+      "culturalNotes": [
+        "Marehemu Profesa Wangari Maathai wa Kenya alikuwa mshindi wa kwanza wa Tuzo ya Amani ya Nobel kutoka Afrika kutokana na uongozi wake katika vuguvugu la upandaji miti la Green Belt Movement."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Nzee\":",
+          "prompt": "Gesi inayotokana na uchomaji wa mafuta na kuni inayochangia kuongezeka kwa joto duniani inaitwaje katika Kiswahili sanifu?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 26.3.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Nzuri»",
-            "Mpangilio usio sahihi wa viambishi katika «Bora»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kuelewa»"
+            "Hewa ya ukaa (Carbon dioxide / Carbon emissions - Correct scientific term)",
+            "Hewa ya oksijeni",
+            "Maji ya mvua",
+            "Upepo wa kaskazi"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Hewa ya ukaa» ndilo jina la kisayansi la Kiswahili kwa Carbon Dioxide."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Nzee\":",
+          "prompt": "Kitendo cha kupanda miti kwa wingi ili kurudisha misitu iliyoharibiwa na kuzuia mmomonyoko wa udongo kinaitwaje?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 26.3.",
-            "Mpangilio usio sahihi wa viambishi katika «Bora»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kuelewa»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Nzuri»"
+            "Upandaji miti na kurudisha uoto wa asili (Afforestation / Reforestation - Correct environmental action)",
+            "Ukataji miti haramu",
+            "Uchimbaji wa mawe ya matumbawe",
+            "Ujenzi wa barabara za lami"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Upandaji miti» (reforestation/afforestation) ndicho kitendo chanya cha kulinda mazingira na vyanzo vya maji."
         }
       ]
     },
@@ -10933,17 +10962,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Nzee\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha iliyo sahihi ya istilahi za mazingira na mabadiliko ya tabianchi katika Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 26.3.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kuelewa»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Nzuri»",
-            "Mpangilio usio sahihi wa viambishi katika «Bora»"
+            "Mabadiliko ya tabianchi, Ongezeko la joto duniani, Hewa ya ukaa, Ukataji miti, Upandaji miti, Vyanzo vya maji, Mmomonyoko wa udongo.",
+            "Tabianchi inahusu tabia za wanafunzi darasani pekee.",
+            "Ukataji miti hauna athari yoyote kwa mvua wala maji.",
+            "Mlima Kilimanjaro hauna theluji wala vyanzo vya mito."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Msamiati sahihi wa tabianchi: Mabadiliko ya tabianchi, Ongezeko la joto, Hewa ya ukaa, Upandaji miti, Vyanzo vya maji, Mmomonyoko wa udongo."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u26-l4": {
@@ -10951,53 +10981,62 @@
     "subject": "swahili",
     "unit": 26,
     "lessonNumber": 4,
-    "title": "Ikolojia, Uhifadhi wa Wanyamapori na Maliasili (Wildlife) (Part 4)",
+    "title": "Nishati Jadidifu na Uchumi wa Bluu (Renewable Energy & Blue Economy)",
     "level": "C1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 26.4) with authentic precision.",
+    "objective": "Kuelewa na kutumia msamiati wa nishati jadidifu (jua, upepo, jotoardhi, umeme wa maji) na uchumi wa bluu (uhifadhi wa bahari, miamba ya matumbawe, mikoko na udhibiti wa taka za plastiki).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Nishati Safi, Jadidifu na Uchumi wa Bluu (Renewable Energy & Marine Conservation):\n\nAfrika Mashariki inaongoza katika matumizi ya nishati safi na rasilimali za bahari na maziwa:\n\n1. **Msamiati Mahsusi wa Nishati Jadidifu**:\n   - **Nishati jadidifu (Renewable Energy)**: Nishati endelevu isiyoisha inayozalishwa kutokana na nguvu za asili.\n   - **Nishati ya jotoardhi (Geothermal Energy)**: Umeme unaozalishwa kwa mvuke wa ardhini (k.m., *Kituo cha Olkaria nchini Kenya*).\n   - **Nishati ya jua (Solar Power)** na **Nishati ya upepo (Wind Power)**.\n   - **Umeme wa maji (Hydroelectric Power)**: Umeme unaotokana na maporomoko au mabwawa ya mito (k.m., *Bwawa la Julius Nyerere kwenye Mto Rufiji*).\n\n2. **Uchumi wa Bluu na Uhifadhi wa Bahari (Blue Economy)**:\n   - **Uchumi wa bluu (Blue Economy)**: Matumizi endelevu ya rasilimali za bahari, mito na maziwa kwa maendeleo ya kiuchumi.\n   - **Miamba ya matumbawe (Coral Reefs)** na **Misitu ya mikoko (Mangrove Forests)**: Makazi ya asili ya samaki na vizuizi vya mmomonyoko wa fukwe.\n   - **Uchafuzi wa taka za plastiki (Plastic Pollution)** na athari zake kwa viumbe wa majini.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 26.4.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 26."
+          "target": "Uwekezaji katika nishati ya jotoardhi huko Olkaria na mabwawa ya umeme wa maji umeiwezesha Afrika Mashariki kuongoza katika matumizi ya nishati jadidifu.",
+          "reading": "Uwe-ke-za-ji ka-ti-ka ni-sha-ti ya jo-to-a-rdhi hu-ko Ol-ka-ria na ma-bwa-wa ya ume-me wa ma-ji umei-we-ze-sha Afri-ka Ma-sha-ri-ki kuo-ngo-za ka-ti-ka ma-tu-mi-zi ya ni-sha-ti ja-di-di-fu. [uwɛkɛˈzɑʤi ˈkɑtikɑ niˈʃɑti jɑ ʤɔtɔˈɑrði ˈhukɔ ɔlˈkɑriɑ nɑ mɑˈbwɑwɑ jɑ uˈmɛmɛ wɑ ˈmɑʤi umɛiˈwɛzɛʃɑ ˈɑfrikɑ mɑʃɑˈriki kuɔˈŋɡɔzɑ ˈkɑtikɑ mɑtuˈmizi jɑ niˈʃɑti ʤɑdiˈdifu] (oo-way-kay-ZAH-jee KAH-tee-kah nee-SHAH-tee yah joh-toh-AHR-thee HOO-koh ohl-KAH-ree-ah nah mah-BWAH-wah yah oo-MAY-may wah MAH-jee oo-may-ee-way-ZAY-shah AHF-ree-kah mah-shah-REE-kee koo-ohn-GOH-zah KAH-tee-kah mah-too-MEE-zee yah nee-SHAH-tee jah-dee-DEE-foo)",
+          "translation": "Capital deployment toward Olkaria geothermal energy and hydroelectric reservoirs has propelled East Africa to apex continental standing in renewable energy transition."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 26-4).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Uchumi wa bluu unalenga kuendeleza rasilimali za bahari na maziwa makuu kwa njia endelevu bila kuharibu miamba ya matumbawe na mikoko ya pwani.",
+          "reading": "Uchu-mi wa blu-u una-le-nga kue-nde-le-za ra-si-li-ma-li za ba-ha-ri na ma-zia-wa ma-ku-u kwa nji-a e-nde-le-vu bi-la ku-ha-ri-bu mia-mba ya ma-tu-mba-we na mi-ko-ko ya pwa-ni. [uˈtʃumi wɑ ˈbluː unɑˈlɛŋɡɑ kuɛndɛˈlɛzɑ rɑsiliˈmɑli zɑ bɑˈhɑri nɑ mɑziˈɑwɑ mɑˈkuː kwɑ ˈnʤiɑ ɛndɛˈlɛvu ˈbilɑ kuhɑˈribu miˈɑmbɑ jɑ mɑtumbɑˈwɛ nɑ miˈkɔkɔ jɑ ˈpwɑni] (oo-CHOO-mee wah BLOO-oo oo-nah-LAYN-gah koo-ayn-day-LAY-zah rah-see-lee-MAH-lee zah bah-HAH-ree nah mah-zee-AH-wah mah-KOO-oo kwah NJEE-ah ayn-day-LAY-voo BEE-lah koo-hah-REE-boo mee-AHM-bah yah mah-toom-bah-WAY nah mee-KOH-koh yah PWAH-nee)",
+          "translation": "The blue economy framework targets the sustainable harnessing of marine and Great Lakes resources without degrading coral reefs and coastal mangrove forests."
+        },
+        {
+          "target": "Kudhibiti uchafuzi wa taka za plastiki katika Bahari ya Hindi na Ziwa Victoria kumesaidia kulinda viumbe wa majini na afya ya mifumo ya ikolojia.",
+          "reading": "Ku-dhi-bi-ti ucha-fu-zi wa ta-ka za pla-sti-ki ka-ti-ka Ba-ha-ri ya Hi-ndi na Zi-wa Vi-cto-ria ku-me-sa-i-dia ku-li-nda viu-mbe wa ma-ji-ni na a-fya ya mi-fu-mo ya iko-lo-jia. [kuðiˈbiti utʃɑˈfuzi wɑ ˈtɑkɑ zɑ plɑˈstiki ˈkɑtikɑ bɑˈhɑri jɑ ˈhindi nɑ ˈziwɑ vikˈtɔriɑ kumɛsɑˈidiɑ kuˈlindɑ viˈumbɛ wɑ mɑˈʤini nɑ ˈɑfjɑ jɑ miˈfumɔ jɑ ikɔlɔˈʤiɑ] (koo-thee-BEE-tee oo-chah-FOO-zee wah TAH-kah zah plah-STEE-kee KAH-tee-kah bah-HAH-ree yah HEEN-dee nah ZEE-wah veek-TOH-ree-ah koo-may-sah-EE-dee-ah koo-LEEN-dah vee-OOM-bay wah mah-jee-NEE nah AHF-yah yah mee-FOO-moh yah ee-koh-loh-JEE-ah)",
+          "translation": "Curbing synthetic plastic refuse across the Indian Ocean and Lake Victoria has significantly preserved aquatic organisms and ecological matrix vitality."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Nishati na Uchumi wa Bluu: Nishati jadidifu (renewable energy), Jotoardhi (geothermal), Umeme wa maji (hydro), Uchumi wa bluu (blue economy), Mikoko na Matumbawe!"
+      ],
+      "culturalNotes": [
+        "Afrika Mashariki ina baadhi ya mabwawa makubwa zaidi ya umeme wa maji na maeneo bora zaidi ya nishati ya jotoardhi katika Bonde la Ufa la Afrika Mashariki (Rift Valley)."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Nzuri\":",
+          "prompt": "Umeme unaozalishwa kutokana na mvuke unaofukuta chini ya ardhi katika Bonde la Ufa (kama vile Olkaria) unaitwaje katika Kiswahili sanifu?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 26.4.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Bora»",
-            "Mpangilio usio sahihi wa viambishi katika «Kuelewa»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kujua»"
+            "Nishati ya jotoardhi (Geothermal energy - Correct energy term)",
+            "Nishati ya makaa ya mawe",
+            "Nishati ya mafuta ya taa",
+            "Nishati ya betri kavu"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Nishati ya jotoardhi» ndiyo fasiri sanifu ya nishati ya mvuke wa ardhi (geothermal)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Nzuri\":",
+          "prompt": "Miti ya pekee inayoota katika maji ya chumvi kwenye fukwe za bahari na kuzuia mmomonyoko wa udongo inaitwaje?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 26.4.",
-            "Mpangilio usio sahihi wa viambishi katika «Kuelewa»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kujua»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Bora»"
+            "Mikoko (Mangroves / Mangrove forests - Correct botanical and marine term)",
+            "Miparachichi",
+            "Miembe ya bara",
+            "Misonobari"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Mikoko» (mangroves) huota pwani na ina jukumu kubwa katika uchumi wa bluu na ikolojia ya bahari."
         }
       ]
     },
@@ -11005,17 +11044,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Nzuri\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha iliyo sahihi ya vyanzo vya nishati jadidifu na vipengele vya uchumi wa bluu katika Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 26.4.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kujua»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Bora»",
-            "Mpangilio usio sahihi wa viambishi katika «Kuelewa»"
+            "Nishati ya jotoardhi, Nishati ya jua, Nishati ya upepo, Umeme wa maji, Uchumi wa bluu, Miamba ya matumbawe, Misitu ya mikoko.",
+            "Nishati jadidifu inapatikana kwa kuchoma matairi ya magari tu.",
+            "Bahari haina umuhimu wowote kwa uchumi wa nchi.",
+            "Mikoko inaharibu mazingira na inapaswa kung'olewa yote."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Nishati safi na uchumi wa bluu: Jotoardhi, Jua, Upepo, Maji, Uchumi wa bluu, Matumbawe, Mikoko."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u26-l5": {
@@ -11023,53 +11063,62 @@
     "subject": "swahili",
     "unit": 26,
     "lessonNumber": 5,
-    "title": "Ikolojia, Uhifadhi wa Wanyamapori na Maliasili (Wildlife) (Part 5)",
+    "title": "Muhtasari wa Ikolojia, Maliasili na Mazingira (Ecology, Wildlife & Conservation Grand Synthesis)",
     "level": "C1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 26.5) with authentic precision.",
+    "objective": "Kuunganisha mada zote za Unit 26: hifadhi za taifa na Wanyama Watano, mapambano dhidi ya ujangili, mikakati ya kupambana na mabadiliko ya tabianchi, pamoja na nishati jadidifu na uchumi wa bluu kwa lugha sanifu ya kitaalamu ya C1.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Muhtasari Mkuu wa Ikolojia, Wanyamapori na Maliasili (Ecology & Conservation Master Matrix):\n\n1. **Ujumuishaji wa Dhana Kuu za Mazingira za Kiwango cha C1**:\n   - **Bioanuwai na Wanyamapori**: Mbuga za Serengeti, Ngorongoro na Maasai Mara; uhajiri mkuu wa nyumbu; Wanyama Wakubwa Watano (Simba, Tembo, Kifaru, Chui, Nyati).\n   - **Ulinzi na Sheria**: Kupambana na majangili, doria za askari wanyamapori, sheria dhidi ya biashara haramu ya pembe za ndovu na nyara za serikali.\n   - **Tabianchi na Misitu**: Kudhibiti hewa ya ukaa, upandaji miti kabambe, na uhifadhi wa vyanzo vya maji milimani.\n   - **Nishati Safi na Uchumi wa Bluu**: Jotoardhi (Olkaria), mabwawa ya umeme wa maji, nishati ya jua, na utunzaji wa mikoko na matumbawe baharini.\n\n2. **Ufasaha wa Kisayansi na Kimataifa**:\n   - Umahiri wa msamiati huu unamwezesha mtaalamu kuwasilisha ripoti za kisayansi, kushiriki makongamano ya kimataifa ya mazingira (k.m. COP), na kuongoza sera za uhifadhi shirikishi.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 26.5.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 26."
+          "target": "Uhifadhi endelevu wa wanyamapori na misitu ya asili unathibitisha kwamba maliasili za Afrika Mashariki ni urithi adimu wa sayari nzima unaohitaji usimamizi wa kisayansi na ushirikishwaji wa jamii.",
+          "reading": "Uhi-fa-dhi e-nde-le-vu wa wnya-ma-po-ri na mi-si-tu ya a-si-li una-thi-bi-ti-sha kwa-mba ma-lia-si-li za Afri-ka Ma-sha-ri-ki ni u-ri-thi a-di-mu wa sa-ya-ri nzi-ma una-o-hi-ti-ji usi-ma-mi-zi wa ki-sa-ya-nsi na ushi-ri-ki-shwa-ji wa ja-mi-i. [uhifɑˈði ɛndɛˈlɛvu wɑ wɲɑmɑˈpɔri nɑ miˈsitu jɑ ɑˈsili unɑθibiˈtiʃɑ ˈkwɑmbɑ mɑliɑˈsili zɑ ˈɑfrikɑ mɑʃɑˈriki ni uˈriθi ɑˈdimu wɑ sɑˈjɑri ˈnzimɑ unɑɔhiˈtiʤi usimɑˈmizi wɑ kisɑˈjɑnsi nɑ uʃirikiˈʃwɑʤi wɑ ʤɑˈmiː] (oo-hee-FAH-thee ayn-day-LAY-voo wah wnyah-mah-POH-ree nah mee-SEE-too yah ah-SEE-lee oo-nah-thee-bee-TEE-shah KWAHM-bah mah-lee-ah-SEE-lee zah AHF-ree-kah mah-shah-REE-kee nee oo-REE-thee ah-DEE-moo wah sah-YAH-ree N-ZEE-mah oo-nah-oh-hee-TEE-jee oo-see-mah-MEE-zee wah kee-sah-YAHN-see nah oo-shee-ree-keesh-WAH-jee wah jah-MEE-ee)",
+          "translation": "Sustainable conservation of wilderness fauna and indigenous primary woodlands affirms that East African biodiversity constitutes an invaluable planetary heirloom demanding scientific stewardship and civic engagement."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 26-5).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Kuanzia mbuga za Serengeti hadi nishati jadidifu na uchumi wa bluu baharini, lugha ya Kiswahili inatoa msamiati thabiti wa kuelezea mikakati yote ya kimataifa ya mazingira na ikolojia.",
+          "reading": "Ku-a-nzia mbu-ga za Se-re-nge-ti ha-di ni-sha-ti ja-di-di-fu na uchu-mi wa blu-u ba-ha-ri-ni, lu-gha ya Ki-swa-hi-li ina-to-a msa-mia-ti tha-bi-ti wa kue-le-ze-a mi-ka-ta-ti yo-te ya ki-ma-ta-i-fa ya ma-zi-ngi-ra na iko-lo-jia. [kuˈɑnziɑ ˈmbuɡɑ zɑ sɛrɛˈŋɡɛti ˈhɑdi niˈʃɑti ʤɑdiˈdifu nɑ uˈtʃumi wɑ ˈbluː bɑhɑˈrini ˈluɣɑ jɑ kiswɑˈhili inɑˈtɔɑ msɑmiˈɑti θɑˈbiti wɑ kuɛlɛˈzɛɑ mikɑˈtɑti ˈjɔtɛ jɑ kimɑtɑˈifɑ jɑ mɑziˈŋɡirɑ nɑ ikɔlɔˈʤiɑ] (koo-AHN-zee-ah M-BOO-gah zah say-rayn-GAY-tee HAH-dee nee-SHAH-tee jah-dee-DEE-foo nah oo-CHOO-mee wah BLOO-oo bah-hah-ree-NEE, LOO-gah yah kee-swah-HEE-lee ee-nah-TOH-ah m-sah-mee-AH-tee thah-BEE-tee wah koo-ay-lay-ZAY-ah mee-kah-TAH-tee YOH-tay yah kee-mah-tah-EE-fah yah mah-zeen-GEE-rah nah ee-koh-loh-JEE-ah)",
+          "translation": "From Serengeti savannahs to renewable energies and oceanic blue economy frameworks, Swahili offers an uncompromising lexicon to express all global environmental paradigms."
+        },
+        {
+          "target": "Kuelimisha vizazi vipya kuhusu umuhimu wa bioanuwai, upandaji miti, na kuzuia uchafuzi wa mazingira kunajenga mustakabali wa kijani na maendeleo endelevu.",
+          "reading": "Kue-li-mi-sha vi-za-zi vi-pya ku-hu-su umu-hi-mu wa bio-a-nu-wa-i, upa-nda-ji mi-ti, na ku-zu-ia ucha-fu-zi wa ma-zi-ngi-ra ku-na-je-nga mu-sta-ka-ba-li wa ki-ja-ni na ma-e-nde-le-o e-nde-le-vu. [kuɛliˈmiʃɑ viˈzɑzi ˈvipjɑ kuˈhusu umuˈhimu wɑ biɔɑnuˈwɑi upɑˈndɑʤi ˈmiti nɑ kuˈzuiɑ utʃɑˈfuzi wɑ mɑziˈŋɡirɑ kunɑˈʤɛŋɡɑ mustɑkɑˈbɑli wɑ kiˈʤɑni nɑ mɑɛndɛˈlɛɔ ɛndɛˈlɛvu] (koo-ay-lee-MEE-shah vee-ZAH-zee VEE-pyah koo-HOO-soo oo-moo-HEE-moo wah bee-oh-ah-noo-WAH-ee, oo-pahn-DAH-jee MEE-tee, nah koo-ZOO-ee-ah oo-chah-FOO-zee wah mah-zeen-GEE-rah koo-nah-JAYN-gah moo-stah-kah-BAH-lee wah kee-JAH-nee nah mah-ayn-day-LAY-oh ayn-day-LAY-voo)",
+          "translation": "Sensitizing rising generations regarding the centrality of biodiversity, tree planting, and anti-pollution measures cultivates a green future and sustainable societal advancement."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Ikolojia na Mazingira Grand Synthesis: Bioanuwai & Wanyama Watano; Mapambano ya ujangili; Tabianchi & Upandaji miti; Nishati jadidifu & Uchumi wa bluu!"
+      ],
+      "culturalNotes": [
+        "Kiswahili kinatumika kama lugha ya kuelimisha jamii za vijijini na wafugaji katika miradi ya uhifadhi wa wanyamapori na misitu kote Afrika Mashariki."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Bora\":",
+          "prompt": "Mchanganyiko upi unawakilisha nguzo kuu za ikolojia, uhifadhi wa maliasili na mazingira ya Afrika Mashariki?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 26.5.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kuelewa»",
-            "Mpangilio usio sahihi wa viambishi katika «Kujua»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kufikiri»"
+            "Bioanuwai ya wanyama wakubwa, ulinzi dhidi ya ujangili, upandaji miti na utunzaji vyanzo vya maji, pamoja na nishati jadidifu na uchumi wa bluu (Comprehensive environmental pillars)",
+            "Kufyeka misitu yote na kuwinda wanyama bila kizuizi",
+            "Kutupa taka za plastiki baharini na maziwani",
+            "Kufunga vituo vyote vya kuzalisha nishati ya jua na maji"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Uhifadhi kamili wa kimazingira unajumuisha bioanuwai, kupinga ujangili, upandaji miti, na nishati jadidifu/uchumi wa bluu."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Bora\":",
+          "prompt": "Sentensi ipi inaunganisha mada za uhifadhi wa wanyamapori na utunzaji wa mazingira kwa ufasaha wa kiwango cha C1?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 26.5.",
-            "Mpangilio usio sahihi wa viambishi katika «Kujua»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kufikiri»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kuelewa»"
+            "Kupitia doria za askari wanyamapori na miradi ya nishati jadidifu, jamii za wenyeji zinalinda bioanuwai na vyanzo vya maji kwa uendelevu. (Through wildlife ranger patrols and renewable energy projects, local communities sustainably protect biodiversity and watersheds - Correct C1 environmental synthesis)",
+            "Wanyamapori wanaishi mijini bila kuhitaji misitu wala maji.",
+            "Ukataji miti unasaidia kuongeza idadi ya tembo na vifaru.",
+            "Nishati ya jua na upepo inasababisha uharibifu wa miamba ya matumbawe."
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Sentensi inatumia msamiati wa kina wa C1: «doria za askari wanyamapori», «nishati jadidifu», «bioanuwai», «vyanzo vya maji», na «uendelevu»."
         }
       ]
     },
@@ -11077,17 +11126,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Bora\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 26 ya Ikolojia, Uhifadhi wa Wanyamapori na Maliasili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 26.5.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kufikiri»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kuelewa»",
-            "Mpangilio usio sahihi wa viambishi katika «Kujua»"
+            "Kuanzia bioanuwai ya Serengeti na ulinzi wa Wanyama Watano, mapambano dhidi ya ujangili, upandaji miti kulinda vyanzo vya maji, hadi maendeleo ya nishati jadidifu na uchumi wa bluu, ukanda wa Afrika Mashariki unaonyesha uongozi thabiti katika uhifadhi wa mazingira. (Apex C1 synthesis of biodiversity, anti-poaching, watershed protection, renewable energy, and blue economy.)",
+            "Maliasili zote za Afrika Mashariki ziliuzwa miaka mingi iliyopita.",
+            "Ujangili unaruhusiwa kisheria katika mbuga zote za wanyama.",
+            "Kiswahili hakina maneno ya kuelezea masuala ya sayansi ya mazingira na ikolojia."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Kuanzia bioanuwai ya Serengeti na ulinzi wa Wanyama Watano, mapambano dhidi ya ujangili, upandaji miti kulinda vyanzo vya maji, hadi maendeleo ya nishati jadidifu na uchumi wa bluu, ukanda wa Afrika Mashariki unaonyesha uongozi thabiti katika uhifadhi wa mazingira.» inajumuisha maarifa yote ya Unit 26 kwa ufasaha wa hali ya juu wa C1."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u27-l1": {
