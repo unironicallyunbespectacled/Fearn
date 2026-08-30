@@ -1715,53 +1715,62 @@
     "subject": "cantonese",
     "unit": 4,
     "lessonNumber": 1,
-    "title": "量詞同名詞修飾 (Classifiers & Noun Modification) (第1課)",
+    "title": "高頻個體量詞：個、隻、條、間 (Individual Classifiers: go3, zek3, tiu4, gaan1)",
     "level": "A1",
-    "objective": "Master Cantonese linguistics for 粵語單元4第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語最核心之四大個體量詞（個、隻、條、間）之分類特徵與精準名詞搭配語法。",
     "presentation": {
-      "explanation": "",
+      "explanation": "廣東話量詞系統豐富精密，名詞與量詞之間存在嚴格語義制約：\n\n一、核心四大量詞範疇：\n１．「個」（go3）：最通用量詞。用於人（一個人）、圓形球狀物（一個蘋果、一個橙）、抽象單位（一個問題、一個鐘頭）。\n２．「隻」（zek3）：用於動物（一隻狗、一隻貓）、船隻（一隻船）、餐具器皿（一隻杯、一隻碟）、成雙成對中之單件（一隻手、一隻鞋）。\n３．「條」（tiu4）：用於細長柔軟或延伸之物（一條繩、一條毛巾、一條褲）、水生魚類（一條魚）、街道道路（一條街、一條路）。\n４．「間」（gaan1）：專門用於房屋、店舖、機構建築（一間屋、一間舖頭、一間學校、一間醫院、一間茶餐廳）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第4課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 4 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 4 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 4 in communication."
+          "target": "街角嗰間舖頭養咗一隻好得意嘅花貓。",
+          "reading": "gaai1 gok3 go2 gaan1 pou3 tau2 joeng5 zo2 jat1 zek3 hou2 dak1 ji3 ge3 faa1 maau1. [kaːi˥ kɔːk̚˧ kɔː˧˥ kaːn˥ pʰou˧ tʰɐu˧˥ jœːŋ˩˧ tsɔː˧˥ jɐt̚˥ tsɛːk˧ hou˧˥ tɐk̚˥ jiː˧ kɛː˧ faː˥ maːu˥] (GY-GOK GOH-GAHN POH-TAU YEUNG-JOR YUT-JEK HOH DUK-YEE GEH FAH-MAU)",
+          "translation": "That shop at the corner of the street keeps a very cute calico cat."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元4-1）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "佢今日著咗一條好修身嘅黑色牛仔褲。",
+          "reading": "keoi5 gam1 jat6 zoek3 zo2 jat1 tiu4 hou2 sau1 san1 ge3 hak1 sik1 ngau4 zai2 fu3. [kʰɵy˩˧ kɐm˥ jɐt̚˨ tsœːk̚˧ tsɔː˧˥ jɐt̚˥ tʰiːu˨˩ hou˧˥ sɐu˥ sɐn˥ kɛː˧ hɐk̚˥ sɪk̚˥ ŋɐu˨˩ tsɐi˧˥ fuː˧] (KUY GUM-YUT JEUK-JOR YUT-TEW HOH SAU-SUN GEH HUK-SIK NGAU-JY-FOO)",
+          "translation": "He/she is wearing a pair of very slim-fitting black jeans today."
+        },
+        {
+          "target": "我哋打算喺呢間茶餐廳叫三個午市套餐。",
+          "reading": "ngo5 dei6 daa2 syun3 hai2 ni1 gaan1 caa4 caan1 teng1 giu3 saam1 go3 ng5 si5 tou3 caan1. [ŋɔː˩˧ tei˨ taː˧˥ syːn˧ hɐi˩˧ niː˥ kaːn˥ tsʰaː˨˩ tsʰaːn˥ tʰɛːŋ˥ kiːu˧ saːm˥ kɔː˧ ŋ̍˩˧ siː˨˧ tʰou˧ tsʰaːn˥] (NGOH-DAY DY-SUEN HY NEE-GAHN CHAH-TSAHN-TENG GEW SAHM-GOH NG-SEE TOE-TSAHN)",
+          "translation": "We plan to order three lunch set meals at this cha chaan teng."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【量詞分類法】屋宇店舖全用「間」，動物器具多用「隻」；長條魚路皆用「條」，一般人事信手「個」！"
+      ],
+      "culturalNotes": [
+        "粵語在描述杯子或碟子時，習慣講「一隻杯」（jat1 zek3 bui1）、「一隻碟」（jat1 zek3 dip6），在北方漢語中則多用「個」。這種器皿用「隻」之習慣係粵語鮮明特徵。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"蛋撻\":",
+          "prompt": "【量詞匹配】欲形容「一家茶餐廳」，最正宗道地之粵語量詞係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第4課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：菠蘿油錯置）",
-            "混雜生硬詞彙之不規範語句（例項：凍檸茶未適配）",
-            "聲調助詞搭配欠妥之表達（例項：奶茶誤用）"
+            "一間茶餐廳 (jat1 gaan1 caa4 caan1 teng1)",
+            "一個茶餐廳",
+            "一隻茶餐廳",
+            "一條茶餐廳"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "建築物、餐飲門店及機構必須使用量詞「間」（gaan1）。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"蛋撻\":",
+          "prompt": "【器物搭配】粵語口語中稱呼「一隻水杯」，正確量詞搭配係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第4課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：凍檸茶未適配）",
-            "聲調助詞搭配欠妥之表達（例項：奶茶誤用）",
-            "語序顛倒嘅非標準句式（例項：菠蘿油錯置）"
+            "一隻杯 (jat1 zek3 bui1)",
+            "一個杯",
+            "一條杯",
+            "一間杯"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "粵語中杯子、碟子等器皿習慣以「隻」（zek3）作量詞。"
         }
       ]
     },
@@ -1769,15 +1778,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"蛋撻\": Which sentence is completely correct?",
+          "prompt": "【語法糾錯】以下邊句句子中之量詞搭配完全符合粵語語法規範？",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第4課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：奶茶誤用）",
-            "語序顛倒嘅非標準句式（例項：菠蘿油錯置）",
-            "混雜生硬詞彙之不規範語句（例項：凍檸茶未適配）"
+            "街市嗰條鮮魚好新鮮，游嚟游去。",
+            "街市嗰間鮮魚好新鮮。",
+            "街市嗰隻褲好靚。",
+            "街市嗰條舖頭好大。"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "魚類使用量詞「條」（條魚）。"
         }
       ],
       "passThreshold": 0.8
@@ -1788,53 +1797,62 @@
     "subject": "cantonese",
     "unit": 4,
     "lessonNumber": 2,
-    "title": "量詞同名詞修飾 (Classifiers & Noun Modification) (第2課)",
+    "title": "容器與集合量詞：杯、碗、碟、樽、對、打 (Container & Group Classifiers)",
     "level": "A1",
-    "objective": "Master Cantonese linguistics for 粵語單元4第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "熟練運用餐飲容器量詞（杯、碗、碟、樽）與成套集合量詞（對、打、套）進行日常計量。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在飲食與日用品消費領域，容器量詞與集合量詞扮演著核心角色：\n\n一、餐飲容器量詞（兼作計量單位）：\n１．「杯」（bui1）：液體飲品。如「一杯凍檸茶」、「兩杯熱鴛鴦」。\n２．「碗」（wun2）：湯麵粥品。如「一碗雲吞麵」、「一碗艇仔粥」。\n３．「碟」（dip6）：飯麵菜餚。如「一碟乾炒牛河」、「兩碟油菜」。\n４．「樽」（zeon1）：瓶裝飲品。如「一樽蒸餾水」、「兩樽汽水」。\n\n二、集合與成雙量詞：\n１．「對」（deoi3）：成對之物。如「一對筷子」、「一對皮鞋」。\n２．「打」（daa1 / daa2）：源自英語 'dozen'（十二個）。如「一打蛋撻」（12個蛋撻）、「半打西餅」（6件蛋糕）。\n３．「套」（tou3）：成套之物。如「一套西裝」、「一套餐具」。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第4課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 4 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 4 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 4 in communication."
+          "target": "唔該伙計，畀一碗雲吞麵同一杯凍奶茶少甜。",
+          "reading": "m4 goi1 fo2 gai3, bei2 jat1 wun2 wan4 tan1 min6 tung4 jat1 bui1 dung3 naai5 caa4 siu2 tim4. [m̩˨˩ kɔːi˥ fɔː˧˥ kɐi˧, pei˧˥ jɐt̚˥ wuːn˧˥ wɐn˨˩ tʰɐn˥ miːn˨ tʰʊŋ˨˩ jɐt̚˥ puːi˥ tʊŋ˧ naːi˩˧ tsʰaː˨˩ siːu˧˥ tʰiːm˨˩] (M-GOY FOH-GY, BAY YUT-WOON WUN-TUN-MEEN TOONG YUT-BOOY DOONG NY-CHAH SEW-TEEM)",
+          "translation": "Excuse me waiter, please give me a bowl of wonton noodles and an iced milk tea less sweet."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元4-2）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "我買咗半打熱辣辣嘅新鮮葡撻返去請同事食。",
+          "reading": "ngo5 maai5 zo2 bun3 daa1 jit6 laat6 laat6 ge3 san1 sin1 pou4 taat1 faan1 heoi3 cing2 tung4 si6 sik6. [ŋɔː˩˧ maːi˩˧ tsɔː˧˥ puːn˧ taː˥ jiːt̚˨ laːt̚˨ laːt̚˨ kɛː˧ sɐn˥ siːn˥ pʰou˨˩ tʰaːt̚˥ faːn˥ hɵy˧ tsʰɪŋ˧˥ tʰʊŋ˨˩ siː˨ sɪk̚˨] (NGOH MY-JOR BOON-DAH YEET-LAHT-LAHT GEH SUN-SEEN POH-TAHT FAHN-HOY CHING TOONG-SEE SIK)",
+          "translation": "I bought half a dozen piping hot fresh Portuguese egg tarts back to treat colleagues."
+        },
+        {
+          "target": "請擺多一對筷子同一隻湯匙喺枱上面。",
+          "reading": "cing2 baai2 do1 jat1 deoi3 faai3 zi2 tung4 jat1 zek3 tong1 ci4 hai2 toi2 soeng6 min6. [tsʰɪŋ˧˥ paːi˧˥ tɔː˥ jɐt̚˥ tʰɵy˧ faːi˧ tsiː˧˥ tʰʊŋ˨˩ jɐt̚˥ tsɛːk˧ tʰɔːŋ˥ tsʰiː˨˩ hɐi˩˧ tʰɔːi˧˥ sœːŋ˨ miːn˨] (CHING BY-DOH YUT-DOEY FY-JEE TOONG YUT-JEK TONG-CHEE HY TOY-SEUNG-MEEN)",
+          "translation": "Please place an extra pair of chopsticks and a soup spoon on the table."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【借詞融入法】「一打」（daa1）十二件，洋派詞彙粵音顯；一碗雲吞一杯茶，港式滋味滿人間！"
+      ],
+      "culturalNotes": [
+        "喺香港餅店買蛋撻或西餅，店員常問「要幾多個呀？半打定一打？」（要幾個？半打還是十二個？）。買「半打」（6個）或「一打」（12個）通常配以專用紙盒包裝，體面方便。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"菠蘿油\":",
+          "prompt": "【飲食點餐】在茶餐廳欲點一份熱奶茶，最正確之量詞係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第4課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：凍檸茶錯置）",
-            "混雜生硬詞彙之不規範語句（例項：奶茶未適配）",
-            "聲調助詞搭配欠妥之表達（例項：鴛鴦誤用）"
+            "一杯熱奶茶 (jat1 bui1 jit6 naai5 caa4)",
+            "一碗熱奶茶",
+            "一碟熱奶茶",
+            "一條熱奶茶"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "杯裝液體飲品使用量詞「杯」（bui1）。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"菠蘿油\":",
+          "prompt": "【集合量詞】在香港麵包店購買「一打蛋撻」，其精確數量係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第4課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：奶茶未適配）",
-            "聲調助詞搭配欠妥之表達（例項：鴛鴦誤用）",
-            "語序顛倒嘅非標準句式（例項：凍檸茶錯置）"
+            "十二個",
+            "六個",
+            "十個",
+            "二十個"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「一打」（jat1 daa1）源自英語 'dozen'，即十二個。"
         }
       ]
     },
@@ -1842,15 +1860,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"菠蘿油\": Which sentence is completely correct?",
+          "prompt": "【語境點餐】以下邊組點餐語句之量詞搭配完全符合香港茶餐廳慣例？",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第4課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：鴛鴦誤用）",
-            "語序顛倒嘅非標準句式（例項：凍檸茶錯置）",
-            "混雜生硬詞彙之不規範語句（例項：奶茶未適配）"
+            "一碗雲吞麵、一碟乾炒牛河、一杯凍檸茶",
+            "一樽雲吞麵、一碗乾炒牛河、一條凍檸茶",
+            "一隻雲吞麵、一條乾炒牛河、一碗凍檸茶",
+            "一間雲吞麵、一對乾炒牛河、一打凍檸茶"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "麵用「碗」，炒河粉用「碟」，冷飲用「杯」。"
         }
       ],
       "passThreshold": 0.8
@@ -1861,53 +1879,62 @@
     "subject": "cantonese",
     "unit": 4,
     "lessonNumber": 3,
-    "title": "量詞同名詞修飾 (Classifiers & Noun Modification) (第3課)",
+    "title": "量詞單獨修飾名詞與定指功能 (Classifier without Numeral as Definite Marker)",
     "level": "A1",
-    "objective": "Master Cantonese linguistics for 粵語單元4第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語量詞直接置於名詞前（無數詞）表達定指「這/那/該（the）」之重大語法特徵。",
     "presentation": {
-      "explanation": "",
+      "explanation": "粵語語法中有一項極具特色且有別於北方話之重大規律：量詞可以直接與名詞結合（省略數詞「一」或指示詞），並承擔「定指」（Definite Reference）功能，相當於英語定冠詞 'the'：\n\n一、結構規律（量詞＋名詞）：\n１．「部車好靚」（bou6 ce1 hou2 leng3）：（那輛 / 這輛）車真漂亮。（直指上下文已提及或眼前特定之車輛）。\n２．「條路好窄」（tiu4 lou6 hou2 zaak3）：（那條）路很窄。\n３．「間舖頭執咗」（gaan1 pou3 tau2 zap1 zo2）：（那家）店舖結業倒閉了。\n４．「隻狗好惡」（zek3 gau2 hou2 ok3）：（那隻）狗非常兇猛。\n\n二、定指與非定指對比：\n１．泛指/非定指：「我好想買車」（ngo5 hou2 soeng2 maai5 ce1，我想買車，不特指某輛）。\n２．定指：「部車賣咗喇」（bou6 ce1 maai6 zo2 laa3，那輛車已經賣掉了）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第4課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 4 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 4 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 4 in communication."
+          "target": "隻貓喺梳化上面瞓得好冧。",
+          "reading": "zek3 maau1 hai2 so1 faa2 soeng6 min6 fan3 dak1 hou2 lam1. [tsɛːk˧ maːu˥ hɐi˩˧ sɔː˥ faː˧˥ sœːŋ˨ miːn˨ fɐn˧ tɐk̚˥ hou˧˥ lɐm˥] (JEK-MAU HY SOH-FAH SEUNG-MEEN FUN-DUK HOH-LUM)",
+          "translation": "The cat is sleeping very soundly on the sofa."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元4-3）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "間茶餐廳啲奶茶真係好香滑。",
+          "reading": "gaan1 caa4 caan1 teng1 di1 naai5 caa4 zan1 hai6 hou2 hoeng1 waat6. [kaːn˥ tsʰaː˨˩ tsʰaːn˥ tʰɛːŋ˥ tiː˥ naːi˩˧ tsʰaː˨˩ tsɐn˥ hɐi˨ hou˧˥ hœːŋ˥ waːt̚˨] (GAHN CHAH-TSAHN-TENG DEE NY-CHAH JUN-HY HOH HEUNG-WAHT)",
+          "translation": "The milk tea of that cha chaan teng is truly fragrant and smooth."
+        },
+        {
+          "target": "條褲太長，需要攞去改短少少。",
+          "reading": "tiu4 fu3 taai3 coeng4, seoi1 jiu3 lo2 heoi3 goi2 dyun2 siu2 siu2. [tʰiːu˨˩ fuː˧ tʰaːi˧ tsʰœːŋ˨˩, sɵy˥ jiu˧ lɔː˧˥ hɵy˧ kɔːi˧˥ tyːn˧˥ siːu˧˥ siːu˧˥] (TEW-FOO TY CHEUNG, SOEY-YEW LOR-HOY GOY-DUEN SEW-SEW)",
+          "translation": "The pair of trousers is too long; it needs to be taken to be shortened a bit."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【量詞定指法】量詞當前無數詞，即表特定「嗰一隻」；英文 'the' 字粵中現，簡練傳神顯本色！"
+      ],
+      "culturalNotes": [
+        "在香港日常交談中，講話者極少累贅地說「那一間茶餐廳」、「那一隻貓」，而係極度自然流暢地直接講「間茶餐廳」、「隻貓」，節奏緊湊明快。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"凍檸茶\":",
+          "prompt": "【定指理解】句子「部電腦壞咗」中，「部電腦」所表達之真實語法涵義係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第4課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：奶茶錯置）",
-            "混雜生硬詞彙之不規範語句（例項：鴛鴦未適配）",
-            "聲調助詞搭配欠妥之表達（例項：地鐵誤用）"
+            "（特定的那部）電腦壞了 (The computer is broken)",
+            "世界上所有的電腦都壞了",
+            "某一部不知名的電腦",
+            "很多部電腦"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「量詞＋名詞」（部電腦）在粵語中具備明確之定指功能（The computer）。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"凍檸茶\":",
+          "prompt": "【語法造句】欲特指「剛才提到的那條街很熱鬧」，最簡練地道之粵語開頭係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第4課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：鴛鴦未適配）",
-            "聲調助詞搭配欠妥之表達（例項：地鐵誤用）",
-            "語序顛倒嘅非標準句式（例項：奶茶錯置）"
+            "條街好熱鬧 (tiu4 gaai1 hou2 jit6 naau6)",
+            "一個街好熱鬧",
+            "街好熱鬧一個",
+            "熱鬧好條街"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "以「條街」定指開頭，最為地道自然。"
         }
       ]
     },
@@ -1915,15 +1942,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"凍檸茶\": Which sentence is completely correct?",
+          "prompt": "【語法辨析】關於粵語「量詞＋名詞」（如「隻杯」、「間屋」）之結構功能，以下何者正確？",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第4課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：地鐵誤用）",
-            "語序顛倒嘅非標準句式（例項：奶茶錯置）",
-            "混雜生硬詞彙之不規範語句（例項：鴛鴦未適配）"
+            "直接表達定指（相當於英語中的 the）",
+            "只能表示疑問",
+            "只能表示否定",
+            "表示數量極大"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "粵語「量詞＋名詞」承擔定指（Definite Reference）功能。"
         }
       ],
       "passThreshold": 0.8
@@ -1934,53 +1961,62 @@
     "subject": "cantonese",
     "unit": 4,
     "lessonNumber": 4,
-    "title": "量詞同名詞修飾 (Classifiers & Noun Modification) (第4課)",
+    "title": "街市買餸與量詞問價：「幾多錢一斤/磅」 (Market Shopping & Price Inquiries)",
     "level": "A1",
-    "objective": "Master Cantonese linguistics for 粵語單元4第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握香港街市傳統計量單位（斤、磅、兩）以及「幾多錢一斤」等買餸高頻問價句式。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在香港街市（傳統菜市場）買餸時，量詞與計量重量單位緊密相連：\n\n一、街市常用重量單位：\n１．「斤」（gan1）：香港司馬斤，一斤合 16 兩（約 600 克）。\n２．「兩」（loeng2）：一兩約 37.5 克。如「買四兩蝦」。（注意此處讀第2聲陰上調 loeng2，以別於數詞 loeng5）。\n３．「磅」（bong6）：英制單位（Pound，約 454 克），在水果攤或超市極常用。\n\n二、問價與計價句式：\n１．「請問呢啲菜幾多錢一斤呀？」（請問這些蔬菜多少錢一斤？）\n２．「二十蚊一斤，買兩斤算你平啲啦！」（二十元一斤，買兩斤算你便宜點吧！）\n３．「唔該同我稱半斤排骨。」（麻煩幫我秤半斤排骨。）",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第4課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 4 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 4 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 4 in communication."
+          "target": "老闆，呢啲新鮮菜心幾多錢一斤呀？",
+          "reading": "lou5 baan2, ni1 di1 san1 sin1 coi3 sam1 gei2 do1 cin2 jat1 gan1 aa3? [lou˩˧ paːn˧˥, niː˥ tiː˥ sɐn˥ siːn˥ tsʰɔːi˧ sɐm˥ kei˧˥ tɔː˥ tsʰiːn˧˥ jɐt̚˥ kɐn˥ aː˧] (LOH-BAHN, NEE-DEE SUN-SEEN TSOY-SUM GAY-DOH CHEEN YUT-GUN AH?)",
+          "translation": "Boss, how much per catty for this fresh choy sum?"
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元4-4）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "唔該同我稱一條石斑同半斤鮮蝦。",
+          "reading": "m4 goi1 tung4 ngo5 cing3 jat1 tiu4 sek6 baan1 tung4 bun3 gan1 sin1 haa1. [m̩˨˩ kɔːi˥ tʰʊŋ˨˩ ŋɔː˩˧ tsʰɪŋ˧ jɐt̚˥ tʰiːu˨˩ sɛːk˨ paːn˥ tʰʊŋ˨˩ puːn˧ kɐn˥ siːn˥ haː˥] (M-GOY TOONG NGOH CHING YUT-TEW SEK-BAHN TOONG BOON-GUN SEEN-HAH)",
+          "translation": "Please weigh a garoupa and half a catty of fresh prawns for me."
+        },
+        {
+          "target": "啲澳洲橙十蚊三個，好抵買呀。",
+          "reading": "di1 ou3 zau1 caang2 sap6 man1 saam1 go3, hou2 dai2 maai5 aa3. [tiː˥ ou˧ tsɐu˥ tsʰaːŋ˧˥ sɐp̚˨ mɐn˥ saːm˥ kɔː˧, hou˧˥ tɐi˧˥ maːi˩˧ aː˧] (DEE OH-JAU CHAHNG SUP-MUN SAHM-GOH, HOH-DY-MY AH)",
+          "translation": "Those Australian oranges are ten dollars for three, very good value."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【買餸問價訣】稱斤論兩街市行，「幾多錢一斤」掛嘴旁；「十蚊三個」算得明，地道生活樂洋洋！"
+      ],
+      "culturalNotes": [
+        "香港街市講求人情味與鮮活（生猛 saang1 maang5）。買菜時菜販常在秤好後主動送多幾條蔥或一把芫荽，稱為「送粒蔥」，展現市井人情之美。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"奶茶\":",
+          "prompt": "【買菜問價】在香港街市欲詢問番茄每斤價格，最地道之句式係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第4課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：鴛鴦錯置）",
-            "混雜生硬詞彙之不規範語句（例項：地鐵未適配）",
-            "聲調助詞搭配欠妥之表達（例項：巴士誤用）"
+            "請問番茄幾多錢一斤呀？ (cing2 man6 faan1 ke2 gei2 do1 cin2 jat1 gan1 aa3?)",
+            "請問番茄有冇一斤呀？",
+            "請問番茄走先喇！",
+            "請問番茄得閒飲茶！"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「幾多錢一斤」係標準地道之問價句式。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"奶茶\":",
+          "prompt": "【單位常識】香港傳統市場所稱之一「斤」（司馬斤），一斤等於幾多「兩」？",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第4課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：地鐵未適配）",
-            "聲調助詞搭配欠妥之表達（例項：巴士誤用）",
-            "語序顛倒嘅非標準句式（例項：鴛鴦錯置）"
+            "十六兩",
+            "十兩",
+            "十二兩",
+            "八兩"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "香港司馬斤沿用十六兩制（半斤八兩）。"
         }
       ]
     },
@@ -1988,15 +2024,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"奶茶\": Which sentence is completely correct?",
+          "prompt": "【語境理解】菜檔標明「十蚊三棵」，欲買六棵菜需支付之金額為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第4課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：巴士誤用）",
-            "語序顛倒嘅非標準句式（例項：鴛鴦錯置）",
-            "混雜生硬詞彙之不規範語句（例項：地鐵未適配）"
+            "二十蚊 (jaa6 man1 / 二十元)",
+            "三十蚊",
+            "十五蚊",
+            "十蚊"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "十蚊三棵，六棵即兩份，共計二十蚊。"
         }
       ],
       "passThreshold": 0.8
@@ -2007,53 +2043,62 @@
     "subject": "cantonese",
     "unit": 4,
     "lessonNumber": 5,
-    "title": "量詞同名詞修飾 (Classifiers & Noun Modification) (第5課)",
+    "title": "購物議價與折扣表達：「平啲啦」、「幾多折」 (Bargaining & Discounts)",
     "level": "A1",
-    "objective": "Master Cantonese linguistics for 粵語單元4第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語購物議價口語（平啲啦、抵唔抵）、折扣計算（八折、減價）及結帳表達。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在香港零售與集市購物時，議價與折扣表達具有鮮明之語言習慣：\n\n一、議價與求減價句式：\n１．「平啲得唔得呀？」（peng4 di1 dak1 m4 dak1 aa3？，便宜點行不行？）\n２．「算平啲啦，我買多兩件呀。」（算便宜點吧，我多買兩件。）\n３．「好抵呀！」（hou2 dai2 aa3！，性價比極高/非常划算！）對比「好貴呀」（太貴了）。\n\n二、折扣與促銷術語：\n１．「折」（zit3）：粵語折扣計算與現代漢語一致，以百分比成數計算：\n   - 「八折」（baat3 zit3）：即原價之 80%（相當於 20% off）。\n   - 「半價」（bun3 gaa3）：五折（50% off）。\n２．「減價」（gaam2 gaa3）：降價促銷；「大減價」（daai6 gaam2 gaa3）：大減價 / 清貨大特賣。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第4課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 4 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 4 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 4 in communication."
+          "target": "老細，如果我買兩件，可唔可以算平啲呀？",
+          "reading": "lou5 sai3, jyu4 gwo2 ngo5 maai5 loeng5 gin6, ho2 m4 ho2 ji5 syun3 peng4 di1 aa3? [lou˩˧ sɐi˧, jyː˨˩ kʷɔː˧˥ ŋɔː˩˧ maːi˩˧ lœːŋ˩˧ kiːn˨, hɔː˧˥ m̩˨˩ hɔː˧˥ jiː˩˧ syːn˧ pʰɛːŋ˨˩ tiː˥ aː˧] (LOH-SY, YOO-GWOR NGOH MY LEUNG-GEEN, HOH-M-HOH-YEE SUEN PENG-DEE AH?)",
+          "translation": "Boss, if I buy two pieces, can you give me a cheaper price?"
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元4-5）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "全場貨品一律八折，買滿五百蚊仲有禮券送。",
+          "reading": "cyun4 coeng4 fo3 ban2 jat1 leot6 baat3 zit3, maai5 mun5 ng5 baak3 man1 zung6 jau5 lai5 hyun3 sung3. [tsʰyːn˨˩ tsʰœːŋ˨˩ fɔː˧ pɐn˧˥ jɐt̚˥ lɵt˨ paːt̚˧ tsit̚˧, maːi˩˧ muːn˩˧ ŋ̍˩˧ paːk̚˧ mɐn˥ tsʊŋ˨ jɐu˩˧ lɐi˩˧ hyːn˧ sʊŋ˧] (TSUEN-CHEUNG FOH-BUN YUT-LOOT BAHT-JEET, MY-MOON NG-BAHK-MUN JOONG-YAU LY-HUEN SOONG)",
+          "translation": "All goods in the store are 20% off; purchases over 500 dollars come with gift coupons."
+        },
+        {
+          "target": "呢對皮鞋真係好靚，而且折咗之後好抵買。",
+          "reading": "ni1 deoi3 pei4 haai4 zan1 hai6 hou2 leng3, ji4 ce2 zit3 zo2 zi1 hau6 hou2 dai2 maai5. [niː˥ tʰɵy˧ pʰei˨˩ haːi˨˩ tsɐn˥ hɐi˨ hou˧˥ lɛːŋ˧, jiː˨˩ tsʰɛː˧˥ tsit̚˧ tsɔː˧˥ tsiː˥ hɐu˨ hou˧˥ tɐi˧˥ maːi˩˧] (NEE-DOEY PAY-HY JUN-HY HOH-LENG, YEE-TSHE JEET-JOR JEE-HAU HOH-DY-MY)",
+          "translation": "This pair of leather shoes is really nice, and after discount it is very great value."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【議價記憶法】「平」（peng4）係便宜「貴」（gwai3）係昂，「抵買」（dai2 maai5）划算真叫爽；八折即付八成銀，買得稱心樂開懷！"
+      ],
+      "culturalNotes": [
+        "在香港大型商場或連鎖店通常標價固定（不設議價），但在女人街、廟街、深水埗鴨寮街等露天市集，適度禮貌講一句「老細，平少少得唔得呀？」，往往能獲得友善折扣。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"鴛鴦\":",
+          "prompt": "【議價用語】在露天排檔買衣服，欲禮貌請求店主降價，最地道之句式係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第4課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：地鐵錯置）",
-            "混雜生硬詞彙之不規範語句（例項：巴士未適配）",
-            "聲調助詞搭配欠妥之表達（例項：小巴誤用）"
+            "老細，平啲得唔得呀？ (lou5 sai3, peng4 di1 dak1 m4 dak1 aa3?)",
+            "老細，貴啲得唔得呀？",
+            "老細，早晨你好！",
+            "老細，我走先喇！"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「平啲得唔得呀？」（便宜點行不行？）係最經典之粵語議價句式。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"鴛鴦\":",
+          "prompt": "【折扣計算】商場櫥窗貼出「全場七折」，一件原價 100 蚊嘅襯衫折後售價係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第4課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：巴士未適配）",
-            "聲調助詞搭配欠妥之表達（例項：小巴誤用）",
-            "語序顛倒嘅非標準句式（例項：地鐵錯置）"
+            "70 蚊 (七十元)",
+            "30 蚊",
+            "17 蚊",
+            "7 蚊"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「七折」（cat1 zit3）即按原價 70% 支付，100 蚊 × 70% ＝ 70 蚊。"
         }
       ]
     },
@@ -2061,15 +2106,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"鴛鴦\": Which sentence is completely correct?",
+          "prompt": "【詞彙理解】在粵語中，形容一件商品「物超所值、極度划算」之專用形容詞係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第4課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：小巴誤用）",
-            "語序顛倒嘅非標準句式（例項：地鐵錯置）",
-            "混雜生硬詞彙之不規範語句（例項：巴士未適配）"
+            "好抵 (hou2 dai2)",
+            "好貴 (hou2 gwai3)",
+            "好慢 (hou2 maan6)",
+            "好難 (hou2 naan4)"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「抵」（dai2 / 抵買）意為划算、性價比高。"
         }
       ],
       "passThreshold": 0.8
