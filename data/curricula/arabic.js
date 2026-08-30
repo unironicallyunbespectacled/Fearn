@@ -8821,85 +8821,89 @@
     "subject": "arabic",
     "unit": 15,
     "lessonNumber": 1,
-    "title": "الطقس والمناخ والجغرافيا العربية (Weather & Arab Geography) (الدرس 1)",
+    "title": "معجم السفر والمطارات ووثائق الرحلات (Travel Documents, Airports & Transit Lexicon)",
     "level": "B1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: الأقاليم المناخية في العالم العربي، الفصول الأربعة، والمصطلحات الجغرافية والبيئية. (الجزء 1).",
+    "objective": "إتقان مصطلحات السفر والمطارات ووثائق التنقل (جواز السفر، تأشيرة الدخول، تذكرة الطيران، صالة المغادرة، بطاقة صعود الطائرة، الأمتعة، موعد الإقلاع والهبوط).",
     "presentation": {
-      "explanation": "",
+      "explanation": "يمثل السفر والتنقل الدولي محورًا تواصليًا هامًا يتطلب معرفة المصطلحات الرسمية للمطارات والوثائق:\n\nأولاً: وثائق السفر والتأشيرات (Travel Documents):\n1.【جَوَازُ السَّفَرِ (Passport)】 | 【تَأْشِيرَةُ الدُّخُولِ / الفِيزَا (Entry Visa)】.\n2.【تَذْكِرَةُ الطَّيَرَانِ / السَّفَرِ (Flight / Travel Ticket)】.\n3.【بِطَاقَةُ صُعُودِ الطَّائِرَةِ (Boarding Pass)】.\n4.【أَمْتِعَةُ السَّفَرِ / الحَقَائِبُ (Luggage / Baggage)】 | 【وَزْنُ الأَمْتِعَةِ (Luggage weight)】.\n\nثانياً: أروقة المطار وإجراءات الرحلة (Airport Facilities & Procedures):\n- 【صَالَةُ المُغَادَرَةِ (Departure Lounge)】 | 【صَالَةُ الوُصُولِ (Arrivals Lounge)】.\n- 【بَوَّابَةُ الإِقْلَاعِ (Boarding Gate)】 | 【مَوْعِدُ الإِقْلَاعِ (Take-off / Departure Time)】.\n- 【مَوْعِدُ الهُبُوطِ (Landing Time)】 | 【مَكْتَبُ الجَوَازَاتِ (Immigration / Passport Control)】.\n- 【جَمَارِكُ المَطَارِ (Customs)】 | 【اسْتِلَامُ الأَمْتِعَةِ (Baggage Claim)】.\n\nثالثاً: وسائل النقل والسفر:\n- الطَّائِرَةُ (Airplane) | القِطَارُ السَّرِيعُ (High-speed train) | السَّفِينَةُ (Ship) | الحَافِلَةُ (Bus).",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الطقس والمناخ والجغرافيا العربية (Weather & Arab Geography)» بأسلوب أكاديمي دقيق (15.1.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الطقس والمناخ والجغرافيا العربية (Weather & Arab Geography)' to students in an accurate academic style."
+          "target": "حَرَصَ المُسَافِرُ عَلَى فَتْحِ جَوَازِ السَّفَرِ وَالتَّأَكُّدِ مِنْ صَلَاحِيَّةِ تَأْشِيرَةِ الدُّخُولِ قَبْلَ التَّوَجُّهِ إِلَى المَطَارِ.(Ḥaraṣa al-musāfiru ʿalā fatḥi jawāzi as-safari wa-at-taʾakkudi min ṣalāḥiyyati taʾshīrati ad-dukhūli qabla at-tawajjūhi ilā al-maṭār.)",
+          "reading": "[ħa.ra.sˤa‿l.mu.saː.fi.ru ʕa.laː fat.ħi ʒa.waː.zi‿s.sa.fa.ri wat.ta.ʔak.ku.di min sˤa.laː.ħij.ja.ti taʔ.ʃiː.ra.ti‿d.du.xuː.li qab.la‿t.ta.waʒ.ʒu.hi ʔi.laː‿l.ma.tˤaːr] (Ḥa-ra-ṣa al-mu-sā-fi-ru ʿa-lā fat-ḥi ja-wā-zi as-sa-fa-ri wa-at-ta-ʾak-ku-di min ṣa-lā-ḥiy-ya-ti taʾ-shī-ra-ti ad-du-khū-li qab-la at-ta-waj-ju-hi i-lā al-ma-ṭār.)",
+          "translation": "The traveler ensured opening the passport and checking the validity of the entry visa before heading to the airport."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (15.1.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "اسْتَلَمَتْ سَارَةُ بِطَاقَةَ صُعُودِ الطَّائِرَةِ فِي صَالَةِ المُغَادَرَةِ لِتَبْدَأَ رِحْلَتَهَا السِّيَاحِيَّةَ المُمْتِعَةَ.(Istalamat Sāratu biṭāqata ṣuʿūdi aṭ-ṭāʾirati fī ṣālati al-mughādarati li-tabdaʾa riḥlatahā as-siyāḥiyyata al-mumtiʿah.)",
+          "reading": "[is.ta.la.mat saː.ra.tu bi.tˤaː.qa.ta sˤu.ʕuː.di‿tˤ.tˤaː.ʔi.ra.ti fiː sˤaː.la.ti‿l.mu.ɣaː.da.ra.ti li.tab.da.ʔa riħ.la.ta.haː‿s.si.jaː.ħij.ja.ta‿l.mum.ti.ʕah] (Is-ta-la-mat Sā-ra-tu bi-ṭā-qa-ta ṣu-ʿū-di aṭ-ṭā-ʾi-ra-ti fī ṣā-la-ti al-mu-ghā-da-ra-ti li-tab-da-ʾa riḥ-la-ta-hā as-si-yā-ḥiy-ya-ta al-mum-ti-ʿah.)",
+          "translation": "Sarah received the boarding pass in the departure lounge to begin her enjoyable tourism trip."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (15.1.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "يُعْلِنُ بُرْجُ المُرَاقَبَةِ عَنْ مَوْعِدِ إِقْلَاعِ الرِّحْلَةِ الدَّوْلِيَّةِ المُتَّجِهَةِ إِلَى العَاصِمَةِ.(Yuʿlinu burju al-murāqabati ʿan mawʿidi iqlāʿi ar-riḥlati ad-dawliyyati al-muttajahati ilā al-ʿāṣimah.)",
+          "reading": "[juʕ.li.nu bur.ʒu‿l.mu.raː.qa.ba.ti ʕan maw.ʕi.di ʔiq.laː.ʕi‿r.riħ.la.ti‿d.daw.lij.ja.ti‿l.mut.ta.ʒi.ha.ti ʔi.laː‿l.ʕaː.sˤi.mah] (Yuʿ-li-nu bur-ju al-mu-rā-qa-ba-ti ʿan maw-ʿi-di iq-lā-ʿi ar-riḥ-la-ti ad-daw-liy-ya-ti al-mut-ta-ji-ha-ti i-lā al-ʿā-ṣi-mah.)",
+          "translation": "The control tower announces the departure time of the international flight bound for the capital."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (15.1.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "يَفْحَصُ ضَابِطُ الجَوَازَاتِ وَثَائِقَ الرُّكَّابِ بِدِقَّةٍ وَيُخْتِمُ الجَوَازَاتِ بِمَرَاسِمِ التَّرْحِيبِ.(Yafḥaṣu ḍābiṭu al-jawāzāti wathāʾiqa ar-rukkābi bi-diqqatin wa-yakhtimu al-jawāzāti bi-marāsimi at-tarḥīb.)",
+          "reading": "[jaf.ħa.sˤu dˤaː.bi.tˤu‿l.ʒa.waː.zaː.ti wa.θaː.ʔi.qa‿r.ruk.kaː.bi bi.diq.qa.tin wa.jax.ti.mu‿l.ʒa.waː.zaː.ti bi.ma.raː.si.mi‿t.tar.ħiːb] (Yaf-ḥa-ṣu ḍā-bi-ṭu al-ja-wā-zā-ti wa-thā-ʾi-qa ar-ruk-kā-bi bi-diq-qa-tin wa-yakh-ti-mu al-ja-wā-zā-ti bi-ma-rā-si-mi at-tar-ḥīb.)",
+          "translation": "The passport control officer checks passengers' documents accurately and stamps passports with welcoming courtesies."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "جَوَازٌ وَتَأْشِيرَةٌ وَحَجْزُ التَّذَاكِرِ، لِتَنْطَلِقَ الرِّحْلَةُ نَحْوَ المَآثِرِ!"
+      ],
+      "culturalNotes": [
+        "المطارات الدولية في العواصم العربية كدبي والدوحة والرياض وإسطنبول والقاهرة تعد من أكبر مراكز الترانزيت والربط الجوي عالميًا."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الطقس والمناخ والجغرافيا العربية (Weather & Arab Geography)» (الدرس 1)؟",
+          "prompt": "ما هي الوثيقة الرسمية الصادرة من السفارة أو القنصلية التي تسمح بدخول البلد الأجنبي؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الطقس والمناخ والجغرافيا العربية (Weather & Arab Geography)» بأسلوب أكاديمي دقيق (15.1.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (15.1.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (15.1.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (15.1.w3)"
+            "تَأْشِيرَةُ الدُّخُولِ (Entry Visa)",
+            "فاتورة الفندق",
+            "رخصة القيادة المحلية فقط",
+            "بطاقة المكتبة"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "«تَأْشِيرَةُ الدُّخُولِ» (الفيزا) هي الإذن الرسمي الممنوح لدخول أراضي الدولة."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ماذا تسمى البطاقة التي يستلمها المسافر في المطار ليسمح له بالصعود إلى مقعده في الطائرة؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "بِطَاقَةُ صُعُودِ الطَّائِرَةِ (Boarding Pass)",
+            "بطاقة التأمين الصحي",
+            "البطاقة الائتمانية",
+            "وصل الشراء"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "«بِطَاقَةُ صُعُودِ الطَّائِرَةِ» هي الوثيقة المحددة لرقم المقعد وبوابة الصعود."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u15-l1):",
+          "prompt": "اختر الجملة التي تصف وصول المسافر واستلام أمتعته في المطار بأسلوب فصيح:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (15.1.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (15.1.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (15.1.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (15.1.x3)"
+            "وَصَلَ المُسَافِرُونَ إِلَى صَالَةِ الوُصُولِ وَاسْتَلَمُوا أَمْتِعَتَهُمْ مِنْ حِزَامِ الحَقَائِبِ. (Travelers arrived at the arrivals hall and collected their luggage from the baggage carousel.)",
+            "وصل المسافرون الى صالة الطائرة فوق البحر بالخطأ",
+            "المسافرون اشتروا المطار",
+            "وصول امتعة حقائب صالة سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الجملة تعبر عن الوصول واستلام الأمتعة «صَالَةِ الوُصُولِ»، «اسْتَلَمُوا أَمْتِعَتَهُمْ» بصياغة عربية ممتازة."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الطقس والمناخ والجغرافيا العربية (Weather & Arab Geography)»؟",
+          "prompt": "ما المصطلح المعبر عن انطلاق الطائرة وارتفاعها في الجو من المدرج؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (15.1.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (15.1.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (15.1.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (15.1.y3)"
+            "الإِقْلَاعُ (Take-off)",
+            "الهبوط",
+            "التأجيل",
+            "الإلغاء"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«الإِقْلَاعُ» هو مصطلح بدء طيران الطائرة ومغادرتها المدرج."
         }
       ]
     },
@@ -8907,24 +8911,28 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 15-1)؟",
+          "prompt": "اختر النص الذي يصف مسار إجراءات السفر في المطار من الدخول حتى ركوب الطائرة بدقة واحترافية:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (15.1.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (15.1.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (15.1.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (15.1.z3)"
+            "تَوَجَّهَ المُسَافِرُ إِلَى صَالَةِ المُغَادَرَةِ، فَأَبْرَزَ جَوَازَ السَّفَرِ وَتَأْشِيرَةَ الدُّخُولِ، ثُمَّ اسْتَلَمَ بِطَاقَةَ صُعُودِ الطَّائِرَةِ وَشَحَنَ أَمْتِعَتَهُ، لِيَجْلِسَ عِنْدَ بَوَّابَةِ الإِقْلَاعِ فِي انْتِظَارِ مَوْعِدِ الرِّحْلَةِ. (The traveler headed to the departure lounge, presented the passport and entry visa, then received the boarding pass and checked his baggage, to sit at the boarding gate waiting for flight time.)",
+            "توجه المسافر بالافعال الماضية فقط بلا وثائق وبلا اجراءات مطار.",
+            "مطار جواز سفر تاشيرة اقلاع هبوط امتعة سكون فتحة ضمة.",
+            "اغلقت بوابات المطار وغادر جميع الركاب دون سفر."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يصف التسلسل الإجرائي المتقن للسفر موظفًا «صَالَة المُغَادَرَة، جَوَاز السَّفَر، تَأْشِيرَة الدُّخُول، بِطَاقَة صُعُود الطَّائِرَة، أَمْتِعَة، بَوَّابَة الإِقْلَاع» بفصاحة تامة."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u15-l1) باللغة العربية (مثال: «الطقس»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم الوثيقة الرسمية الأساسية للهوية والتنقل بين الدول (اكتب: «جواز سفر» أو «الجواز»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الطقس",
-            "الطقس"
+            "جواز سفر",
+            "جواز السفر",
+            "الجواز",
+            "جَوَازُ سَفَرٍ",
+            "جَوَازُ السَّفَرِ",
+            "جَوَاز"
           ],
-          "explanation": "المصطلح الصحيح هو «الطقس»."
+          "explanation": "الوثيقة هي «جواز سفر» أو «جواز السفر»."
         }
       ],
       "passThreshold": 0.8
@@ -8935,85 +8943,89 @@
     "subject": "arabic",
     "unit": 15,
     "lessonNumber": 2,
-    "title": "الطقس والمناخ والجغرافيا العربية (Weather & Arab Geography) (الدرس 2)",
+    "title": "تصريف الفعل الأجوف في الماضي والمضارع (Form I Hollow Verbs: Al-Fiʿl al-Ajwaf)",
     "level": "B1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: الأقاليم المناخية في العالم العربي، الفصول الأربعة، والمصطلحات الجغرافية والبيئية. (الجزء 2).",
+    "objective": "إتقان تصريف الفعل الأجوف الثلاثي (واوي العين مثل: زار/يزور، قال/يقول، عاد/يعود، كان/يكون؛ ويائي العين مثل: سار/يسير، عاش/يعيش، طار/يطير) وقاعدة حذف حرف العلة مع ضمائر الرفع المتحركة في الماضي.",
     "presentation": {
-      "explanation": "",
+      "explanation": "الفعل الأجوف هو ما كان وسطه (عينه) حرف علة، وله قواعد تصريفية دقيقة في الماضي والمضارع:\n\nأولاً: الأجوف الواوي (أصل ألفه واو في المضارع):\n- «زَارَ -> يَزُورُ» | «قَالَ -> يَقُولُ» | «عَادَ -> يَعُودُ» | «كَانَ -> يَكُونُ».\n- **قاعدة الماضي مع ضمائر الرفع المتحركة** (تُحذف ألف المد وتُضَمُّ فاؤه منعًا لالتقاء الساكنين):\n  - أَنَا: **زُرْتُ** [zurtu] / **قُلْتُ** [qultu] / **عُدْتُ** [ʿudtu] / **كُنْتُ** [kuntu].\n  - أَنْتَ: **زُرْتَ** | أَنْتِ: **زُرْتِ** | نَحْنُ: **زُرْنَا** | هُنَّ: **زُرْنَ**.\n- مع الضمائر الساكنة (يبقى حرف العلة): هُوَ **زَارَ** | هِيَ **زَارَتْ** | هُمْ **زَارُوا** | هُمَا **زَارَا**.\n\nثانياً: الأجوف اليائي (أصل ألفه ياء في المضارع):\n- «سَارَ -> يَسِيرُ» | «عَاشَ -> يَعِيشُ» | «طَارَ -> يَطِيرُ» | «بَاعَ -> يَبِيعُ».\n- **قاعدة الماضي مع ضمائر الرفع المتحركة** (تُحذف ألف المد وتُكْسَرُ فاؤه):\n  - أَنَا: **سِرْتُ** [sirtu] / **عِشْتُ** [ʿishtu] / **طِرْتُ** [ṭirtu] / **بِعْتُ** [biʿtu].\n  - أَنْتَ: **سِرْتَ** | أَنْتِ: **سِرْتِ** | نَحْنُ: **سِرْنَا** | هُنَّ: **سِرْنَ**.\n- مع الضمائر الساكنة: هُوَ **سَارَ** | هِيَ **سَارَتْ** | هُمْ **سَارُوا**.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الطقس والمناخ والجغرافيا العربية (Weather & Arab Geography)» بأسلوب أكاديمي دقيق (15.2.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الطقس والمناخ والجغرافيا العربية (Weather & Arab Geography)' to students in an accurate academic style."
+          "target": "زُرْتُ عَاصِمَةَ الثَّقَافَةِ العَرَبِيَّةِ وَقُلْتُ قَصِيدَةً رَائِعَةً فِي مَحَبَّةِ أَهْلِهَا الكِرَامِ.(Zurtu ʿāṣimata ath-thaqāfati al-ʿarabiyyati wa-qultu qaṣīdatan rāʾiʿatan fī maḥabbati ahlihā al-kirām.)",
+          "reading": "[zur.tu ʕaː.sˤi.ma.ta‿θ.θa.qaː.fa.ti‿l.ʕa.ra.bij.ja.ti wa.qul.tu qa.sˤiː.da.tan raː.ʔi.ʕa.tan fiː ma.ħab.ba.ti ʔah.li.haː‿l.ki.raːm] (Zur-tu ʿā-ṣi-ma-ta ath-tha-qā-fa-ti al-ʿa-ra-biy-ya-ti wa-qul-tu qa-ṣī-da-tan rā-ʾi-ʿa-tan fī ma-ḥab-ba-ti ah-li-hā al-ki-rām.)",
+          "translation": "I visited the capital of Arab culture and recited a wonderful poem expressing love for its noble people."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (15.2.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "طَارَتِ الطَّائِرَةُ فِي السَّمَاءِ الصَّافِيَةِ، وَسِرْنَا بَيْنَ المَعَالِمِ التَّارِيخِيَّةِ الخَالِدَةِ.(Ṭārati aṭ-ṭāʾiratu fī as-samāʾi aṣ-ṣāfiyati, wa-sirnā bayna al-maʿālimi at-tārīkhiyyati al-khālidah.)",
+          "reading": "[tˤaː.ra.ti‿tˤ.tˤaː.ʔi.ra.tu fiː‿s.sa.maː.ʔi‿sˤ.sˤaː.fi.ja.ti, wa.sir.naː baj.na‿l.ma.ʕaː.li.mi‿t.taː.riː.xij.ja.ti‿l.xaː.li.dah] (Ṭā-ra-ti aṭ-ṭā-ʾi-ra-tu fī as-sa-mā-ʾi aṣ-ṣā-fi-ya-ti, wa-sir-nā bay-na al-ma-ʿā-li-mi at-tā-rī-khiy-ya-ti al-khā-li-dah.)",
+          "translation": "The airplane flew in the clear sky, and we walked among the eternal historical landmarks."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (15.2.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "يُحْذَفُ حَرْفُ العِلَّةِ مِنَ الأَجْوَفِ فِي المَاضِي عِنْدَ اتِّصَالِهِ بِضَمَائِرِ الرَّفْعِ المُتَحَرِّكَةِ مَنْعًا لِالْتِقَاءِ السَّاكِنَيْنِ.(Yuḥdhafu ḥarfu al-ʿillati min al-ajwafi fī al-māḍī ʿinda ittiṣālihi bi-ḍamāʾiri ar-rafʿi al-mutaḥarrikati manʿan li-ltiqāʾi as-sākinayn.)",
+          "reading": "[juħ.ða.fu ħar.fu‿l.ʕil.la.ti mi.na‿l.ʔaʒ.wa.fi fiː‿l.maː.dˤiː ʕin.da‿it.ti.sˤaː.li.hi bi.dˤa.maː.ʔi.ri‿r.raf.ʕi‿l.mu.ta.ħar.ri.ka.ti man.ʕan lil.ti.qaː.ʔi‿s.saː.ki.najn] (Yuḥ-dha-fu ḥar-fu al-ʿil-la-ti mi-na al-aj-wa-fi fī al-mā-ḍī ʿin-da it-ti-ṣā-li-hi bi-ḍa-mā-ʾi-ri ar-raf-ʿi al-mu-ta-ḥar-ri-ka-ti man-ʿan li-il-ti-qā-ʾi as-sā-ki-nayn.)",
+          "translation": "The weak letter is dropped from the hollow verb in the past tense when connecting to moving subject pronouns to prevent the meeting of two unvoweled letters."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (15.2.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "عَادَ المُسَافِرُونَ إِلَى أَوْطَانِهِمْ وَهُمْ يَحْمِلُونَ أَجْمَلَ الذِّكْرَيَاتِ عَنْ تِلْكَ الرِّحْلَةِ.(ʿĀda al-musāfirūna ilā awṭānihim wa-hum yaḥmilūna ajmala adh-dhikrayāti ʿan tilka ar-riḥlah.)",
+          "reading": "[ʕaː.da‿l.mu.saː.fi.ruː.na ʔi.laː ʔaw.tˤaː.ni.him wa.hum jaħ.mi.luː.na ʔaʒ.ma.la‿ð.ðik.ra.jaː.ti ʕan til.ka‿r.riħ.lah] (ʿĀ-da al-mu-sā-fi-rū-na i-lā aw-ṭā-ni-him wa-hum yaḥ-mi-lū-na aj-ma-la adh-dhik-ra-yā-ti ʿan til-ka ar-riḥ-lah.)",
+          "translation": "The travelers returned to their homelands carrying the most beautiful memories of that trip."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "عَيْنُ الأَجْوَفِ حَرْفُ مَدٍّ صَحِيحْ، وَإِنْ لَقِيَ السَّاكِنَ حُذِفَ لِيَسْتَرِيحْ!"
+      ],
+      "culturalNotes": [
+        "السفر والتجوال في الأرض من أعظم تقاليد الاستكشاف في الحضارة العربية؛ حيث ارتحل العلماء والفقهاء طلبًا للعلم وتوثيقًا لأخبار الأمم."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الطقس والمناخ والجغرافيا العربية (Weather & Arab Geography)» (الدرس 2)؟",
+          "prompt": "ما هو التصريف الصحيح للفعل الأجوف «زَارَ» مع ضمير المتكلم (أَنَا) في الماضي؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الطقس والمناخ والجغرافيا العربية (Weather & Arab Geography)» بأسلوب أكاديمي دقيق (15.2.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (15.2.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (15.2.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (15.2.w3)"
+            "زُرْتُ (Zurtu - with dammah on zaa and dropping alif)",
+            "زارتُ",
+            "زِرتُ",
+            "زيرت"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "الفعل «زَارَ» واوي العين (يزور)، فتحذف عينه وتضم فاؤه مع تاء الفاعل: «زُرْتُ»."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو التصريف الصحيح للفعل الأجوف اليائي «سَارَ» مع ضمير المتكلمين (نَحْنُ) في الماضي؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "سِرْنَا (Sirnā - with kasrah on seen and dropping alif)",
+            "سارنا",
+            "سُرنا",
+            "سيرنا"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "الفعل «سَارَ» يائي العين (يسير)، فتحذف عينه وتكسر فاؤه مع نا الفاعلين: «سِرْنَا»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u15-l2):",
+          "prompt": "اختر الجملة التي تصرف الأفعال الجوفاء في الماضي تصريفًا سليمًا خالياً من الأخطاء:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (15.2.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (15.2.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (15.2.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (15.2.x3)"
+            "قُلْتُ لِصَدِيقِي: «كُنْتُ فِي المَطَارِ عِنْدَمَا عُدْتَ مِنَ السَّفَرِ». (I said to my friend: 'I was at the airport when you returned from travel.')",
+            "قالتُ لصديقي كانتُ في المطار بالخطأ",
+            "قلتُ كانوتُ عودتَ",
+            "تصريف اجوف قال كان عاد سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "«قُلْتُ»، «كُنْتُ»، «عُدْتَ» كلها أفعال جوفاء واوية صُرِّفت مع ضمائر الرفع المتحركة بحذف الألف وضم الفاء بدقة متناهية."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الطقس والمناخ والجغرافيا العربية (Weather & Arab Geography)»؟",
+          "prompt": "ما هو مضارع الفعل الأجوف «عَاشَ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (15.2.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (15.2.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (15.2.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (15.2.y3)"
+            "يَعِيشُ (Yaʿīshu)",
+            "يعوش",
+            "يعاش",
+            "يعيشو"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "مضارع «عَاشَ» هو «يَعِيشُ» بانقلاب الألف إلى ياء مدية."
         }
       ]
     },
@@ -9021,24 +9033,26 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 15-2)؟",
+          "prompt": "اختر الفقرة التي توظف مجموعة من الأفعال الجوفاء المتنوعة (الواوية واليائية) في سياق سردي لرحلة سفر بليغة:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (15.2.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (15.2.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (15.2.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (15.2.z3)"
+            "سَافَرْنَا إِلَى العَاصِمَةِ، فَزُرْنَا مَتَاحِفَهَا العَرِيقَةَ، وَسِرْنَا فِي شَوَارِعِهَا القَدِيمَةِ، وَكُنَّا سُعَدَاءَ حِينَ قُلْنَا لِأَهْلِهَا شُكْرًا عَلَى حُسْنِ الضِّيَافَةِ، ثُمَّ عُدْنَا إِلَى دِيَارِنَا بِسَلَامٍ. (We traveled to the capital, so we visited its ancient museums, and walked in its old streets, and we were happy when we said to its people thank you for good hospitality, then we returned to our homes in peace.)",
+            "سافرنا الى العاصمة بالافعال الصحيحة فقط بلا اي فعل اجوف.",
+            "زرنا سرنا كنا قلنا عدنا افعال جوفاء سكون فتحة ضمة كسرة.",
+            "توقفت الرحلة ولم يسافر احد ولم يعد احد."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "الفقرة تجمع بين الأفعال الجوفاء الواوية واليائية «زُرْنَا، سِرْنَا، كُنَّا، قُلْنَا، عُدْنَا» بضبط تصريفي ناصع وسليم."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u15-l2) باللغة العربية (مثال: «الطقس»):",
+          "prompt": "اكتب باللغة العربية الفصحى تصريف الفعل «كَانَ» مع ضمير المتكلم (أَنَا) في الماضي (اكتب: «كنت»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الطقس",
-            "الطقس"
+            "كنت",
+            "كُنْتُ",
+            "كُنتُ",
+            "كُنْت"
           ],
-          "explanation": "المصطلح الصحيح هو «الطقس»."
+          "explanation": "التصريف هو «كنت»."
         }
       ],
       "passThreshold": 0.8
@@ -9049,85 +9063,89 @@
     "subject": "arabic",
     "unit": 15,
     "lessonNumber": 3,
-    "title": "الطقس والمناخ والجغرافيا العربية (Weather & Arab Geography) (الدرس 3)",
+    "title": "حجز الفنادق والتذاكر والمحطات (Hotel Bookings, Ticket Classes & Train Stations)",
     "level": "B1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: الأقاليم المناخية في العالم العربي، الفصول الأربعة، والمصطلحات الجغرافية والبيئية. (الجزء 3).",
+    "objective": "إتقان مصطلحات الإقامة الفندقية وحجز التذاكر ودرجات السفر (غرفة مفردة/مزدوجة، جناح فاخر، درجة رجال الأعمال، الدرجة السياحية، رصيف المحطة، تسجيل الدخول).",
     "presentation": {
-      "explanation": "",
+      "explanation": "تتكامل رحلة السفر بمعرفة المصطلحات الدقيقة للإقامة الفندقية والتنقل بالقطارات:\n\nأولاً: معجم الفنادق والإقامة (Hotel & Accommodation):\n1.【فُنْدُقٌ / فَنَادِقُ (Hotel / Hotels)】 | 【مَكْتَبُ الِاسْتِقْبَالِ (Reception Desk)】.\n2.【غُرْفَةٌ مُفْرَدَةٌ (Single Room)】 | 【غُرْفَةٌ مُزْدَوِجَةٌ (Double Room)】.\n3.【جَنَاحٌ فَاخِرٌ (Luxury Suite)】 | 【إِقَامَةٌ كَامِلَةٌ (Full Board)】.\n4.【تَسْجِيلُ الدُّخُولِ (Check-in)】 | 【تَسْجِيلُ المُغَادَرَةِ (Check-out)】.\n5.【مِفْتَاحُ الغُرْفَةِ / البِطَاقَةُ الذَّكِيَّةُ (Room Key / Keycard)】.\n\nثانياً: درجات السفر ومحطات القطار (Travel Classes & Train Stations):\n- 【دَرَجَةُ رِجَالِ الأَعْمَالِ (Business Class)】: مقاعد مريحة وخدمات مميزة.\n- 【الدَّرَجَةُ السِّيَاحِيَّةُ / الِاقْتِصَادِيَّةُ (Economy Class)】.\n- 【مَحَطَّةُ القِطَارِ (Train Station)】 | 【رَصِيفُ القِطَارِ (Train Platform)】.\n- 【قِطَارٌ سَرِيعٌ (High-speed Train)】 | 【عَرَبَةُ القِطَارِ (Train Carriage)】.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الطقس والمناخ والجغرافيا العربية (Weather & Arab Geography)» بأسلوب أكاديمي دقيق (15.3.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الطقس والمناخ والجغرافيا العربية (Weather & Arab Geography)' to students in an accurate academic style."
+          "target": "حَجَزْنَا غُرْفَةً مُزْدَوِجَةً فِي الفُنْدُقِ تُطِلُّ عَلَى الشَّاطِئِ مَعَ خِدْمَةِ الإِفْطَارِ اليَوْمِيِّ.(Ḥajaznā ghurfatan muzdawijatan fī al-funduqi tuṭillu ʿalā ash-shāṭiʾi maʿa khidmati al-ifṭāri al-yawmiyy.)",
+          "reading": "[ħa.ʒaz.naː ɣur.fa.tan muz.da.wi.ʒa.tan fiː‿l.fun.du.qi tu.tˤil.lu ʕa.laː‿ʃ.ʃaː.tˤi.ʔi ma.ʕa xid.ma.ti‿l.ʔif.tˤaː.ri‿l.jaw.mijj] (Ḥa-jaz-nā ghur-fa-tan muz-da-wi-ja-tan fī al-fun-du-qi tu-ṭil-lu ʿa-lā ash-shā-ṭi-ʾi ma-ʿa khid-ma-ti al-if-ṭā-ri al-yaw-miyy.)",
+          "translation": "We booked a double room in the hotel overlooking the beach with daily breakfast service."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (15.3.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "تَوَجَّهَ الرُّكَّابُ إِلَى رَصِيفِ المَحَطَّةِ لِرُكُوبِ القِطَارِ السَّرِيعِ فِي الدَّرَجَةِ السِّيَاحِيَّةِ.(Tawajjaha ar-rukkābu ilā raṣīfi al-maḥaṭṭati li-rukūbi al-qiṭāri as-sarīʿi fī ad-darajati as-siyāḥiyyah.)",
+          "reading": "[ta.waʒ.ʒa.ha‿r.ruk.kaː.bu ʔi.laː ra.sˤiː.fi‿l.ma.ħatˤ.tˤa.ti li.ru.kuː.bi‿l.qi.tˤaː.ri‿s.sa.riː.ʕi fiː‿d.da.ra.ʒa.ti‿s.si.jaː.ħij.jah] (Ta-waj-ja-ha ar-ruk-kā-bu i-lā ra-ṣī-fi al-ma-ḥaṭ-ṭa-ti li-ru-kū-bi al-qi-ṭā-ri as-sa-rī-ʿi fī ad-da-ra-ja-ti as-si-yā-ḥiy-yah.)",
+          "translation": "Passengers headed to the station platform to board the high-speed train in economy class."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (15.3.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "قَدَّمَ مُوَظَّفُ الِاسْتِقْبَالِ مَفَاتِيحَ الجَنَاحِ لِلنَّزِيلِ بَعْدَ إِتْمَامِ إِجْرَاءَاتِ تَسْجِيلِ الدُّخُولِ.(Qaddama muwaẓẓafu al-istiqbāli mafātīḥa al-janāḥi li-n-nazīli baʿda itmāmi ijrāʾāti tasjīli ad-dukhūl.)",
+          "reading": "[qad.da.ma mu.wazˤ.zˤa.fu‿l.ʔis.tiq.baː.li ma.faː.tiː.ħa‿l.ʒa.naː.ħi lin.na.ziː.li baʕ.da ʔit.maː.mi ʔiʒ.raː.ʔaː.ti tas.ʒiː.li‿d.du.xuːl] (Qad-da-ma mu-waẓ-ẓa-fu al-is-tiq-bā-li ma-fā-tī-ḥa al-ja-nā-ḥi li-n-na-zī-li baʿ-da it-mā-mi ij-rā-ʾā-ti tas-jī-li ad-du-khūl.)",
+          "translation": "The reception clerk handed the suite keys to the guest after completing check-in procedures."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (15.3.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "يُوَفِّرُ حَجْزُ التَّذَاكِرِ إِلِكْتُرُونِيًّا الوَقْتَ وَالجُهْدَ وَيَضْمَنُ الحُصُولَ عَلَى مَقَاعِدَ مُمَيَّزَةٍ.(Yuwaffiru ḥajzu at-tadhākiri iliktrūniyyan al-waqta wa-al-juhda wa-yaḍmanu al-ḥuṣūla ʿalā maqāʿida mumayyazah.)",
+          "reading": "[ju.waf.fi.ru ħaʒ.zu‿t.ta.ðaː.ki.ri ʔi.lik.truː.nij.jan‿l.waq.ta wal.ʒuh.da wa.jadˤ.ma.nu‿l.ħu.sˤuː.la ʕa.laː ma.qaː.ʕi.da mu.maj.ja.zah] (Yu-waf-fi-ru ḥaj-zu at-ta-dhā-ki-ri i-lik-trū-niy-yan al-waq-ta wa-al-juh-da wa-yaḍ-ma-nu al-ḥu-ṣū-la ʿa-lā ma-qā-ʿi-da mu-may-ya-zah.)",
+          "translation": "Booking tickets electronically saves time and effort and ensures securing distinguished seats."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "فِي الفُنْدُقِ حَجْزٌ وَغُرَفٌ تُطِلُّ عَلَى البِحَارْ، وَفِي المَحَطَّةِ رَصِيفٌ يَنْتَظِرُ القِطَارْ!"
+      ],
+      "culturalNotes": [
+        "الفندقة والضيافة في المدن التراثية العربية تجمع بين الفخامة المعمارية الإسلامية والتقاليد الأصيلة في الترحيب وإكرام الضيف."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الطقس والمناخ والجغرافيا العربية (Weather & Arab Geography)» (الدرس 3)؟",
+          "prompt": "ما هو نوع الغرفة الفندقية المخصصة لإقامة شخصين؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الطقس والمناخ والجغرافيا العربية (Weather & Arab Geography)» بأسلوب أكاديمي دقيق (15.3.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (15.3.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (15.3.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (15.3.w3)"
+            "غُرْفَةٌ مُزْدَوِجَةٌ (Double Room)",
+            "غرفة مفردة",
+            "صالة انتظار",
+            "مكتب الاستقبال"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "«غُرْفَةٌ مُزْدَوِجَةٌ» هي الغرفة المجهزة لشخصين (بسريرين أو سرير كبير)."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "أين يقف المسافرون في محطة السكك الحديدية لانتظار قدوم عربات القطار؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "رَصِيفُ المَحَطَّةِ / القِطَارِ (Train Platform)",
+            "مدرج الطائرات",
+            "صالة السينما",
+            "مطبخ الفندق"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "«رَصِيفُ القِطَارِ» هو المكان المخصص لوقوف الركاب وصعود القطار بأمان."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u15-l3):",
+          "prompt": "اختر الجملة التي تصف الحجز الفندقي والاستقبال بأسلوب فصيح ودقيق:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (15.3.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (15.3.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (15.3.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (15.3.x3)"
+            "أَتْمَمَ النَّزِيلُ تَسْجِيلَ الدُّخُولِ لَدَى مَكْتَبِ الِاسْتِقْبَالِ وَاسْتَلَمَ مِفْتَاحَ الجَنَاحِ. (The guest completed check-in at the reception desk and received the suite key.)",
+            "النزيل اكل مكتب الاستقبال في المحطة",
+            "تسجيل الدخول يركض في الشارع",
+            "فندق استقبال جناح مفتاح سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الجملة تعبر عن إجراءات تسجيل الدخول «تَسْجِيلَ الدُّخُولِ لَدَى مَكْتَبِ الِاسْتِقْبَالِ» بفصاحة واحترافية."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الطقس والمناخ والجغرافيا العربية (Weather & Arab Geography)»؟",
+          "prompt": "ما هي درجة السفر الفاخرة المخصصة للخدمات المتميزة والمقاعد الواسعة؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (15.3.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (15.3.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (15.3.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (15.3.y3)"
+            "دَرَجَةُ رِجَالِ الأَعْمَالِ (Business Class)",
+            "الدرجة الاقتصادية",
+            "عربة الشحن فقط",
+            "الدرجة العادية"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«دَرَجَةُ رِجَالِ الأَعْمَالِ» هي الدرجة المتميزة للراحة والخدمة الراقية."
         }
       ]
     },
@@ -9135,24 +9153,28 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 15-3)؟",
+          "prompt": "اختر النص الذي يصف تنظيم الإقامة الفندقية وحجز القطارات السريعة بأسلوب لغوي رصين:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (15.3.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (15.3.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (15.3.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (15.3.z3)"
+            "حَجَزَ المُسَافِرُونَ إِقَامَتَهُمْ فِي فُنْدُقٍ قَرِيبٍ مِنَ المَحَطَّةِ المَرْكَزِيَّةِ، وَبَعْدَ إِتْمَامِ تَسْجِيلِ الدُّخُولِ، انْطَلَقُوا إِلَى رَصِيفِ القِطَارِ السَّرِيعِ لِبَدْءِ جَوْلَتِهِمْ فِي الدَّرَجَةِ السِّيَاحِيَّةِ المُرِيحَةِ. (Travelers booked their stay in a hotel near the central station, and after completing check-in, they set off to the high-speed train platform to begin their tour in comfortable economy class.)",
+            "حجز المسافرون بالماضي فقط بلا فنادق وبلا قطارات ومحطات.",
+            "فندق تسجيل دخول محطة رصيف قطار درجة سياحية سكون فتحة ضمة.",
+            "الغيت جميع الحجوزات واغلقت الفنادق والمحطات ابوابها."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يجمع بين مصطلحات الإقامة الفندقية وحجز القطارات «فُنْدُق، تَسْجِيل الدُّخُول، رَصِيف القِطَار، الدَّرَجَة السِّيَاحِيَّة» بتناسق تركيبي بديع."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u15-l3) باللغة العربية (مثال: «الطقس»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم المكان المخصص لاستقبال نزلاء الفندق وإنهاء إجراءات الغرف (اكتب: «الاستقبال» أو «مكتب الاستقبال»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الطقس",
-            "الطقس"
+            "الاستقبال",
+            "مكتب الاستقبال",
+            "استقبال",
+            "الِاسْتِقْبَالُ",
+            "الِاسْتِقْبَال",
+            "مَكْتَبُ الِاسْتِقْبَالِ"
           ],
-          "explanation": "المصطلح الصحيح هو «الطقس»."
+          "explanation": "المكان هو «الاستقبال» أو «مكتب الاستقبال»."
         }
       ],
       "passThreshold": 0.8
@@ -9163,85 +9185,89 @@
     "subject": "arabic",
     "unit": 15,
     "lessonNumber": 4,
-    "title": "الطقس والمناخ والجغرافيا العربية (Weather & Arab Geography) (الدرس 4)",
+    "title": "وصف الرحلات والمدن التاريخية (Describing Past Journeys & Historical Cities)",
     "level": "B1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: الأقاليم المناخية في العالم العربي، الفصول الأربعة، والمصطلحات الجغرافية والبيئية. (الجزء 4).",
+    "objective": "إتقان وصف الرحلات الثقافية إلى كبرى المدن التاريخية في العالم العربي (القاهرة، دمشق، بغداد، فاس، صنعاء) وتوظيف الأفعال الجوفاء في السرد الماضي.",
     "presentation": {
-      "explanation": "",
+      "explanation": "تعد المدن التاريخية في العالم العربي حواضر حضارية عريقة تروي فصول المجد الإنساني:\n\nأولاً: حواضر التراث العربي الخالدة:\n1.【القَاهِرَةُ المِعِزِّيَّةُ (مصر)】: مدينة الألف مئذنة، قلعة صلاح الدين، وخان الخليلي.\n2.【دِمَشْقُ الفَيْحَاءُ (سوريا)】: أقدم عاصمة مأهولة في التاريخ، الجامع الأموي، وسوق الحميدية.\n3.【بَغْدَادُ دَارُ السَّلَامِ (العراق)】: عاصمة الرشيد، بيت الحكمة، والمدرسة المستنصرية على ضفاف دجلة.\n4.【فَاسُ العَرِيقَةُ (المغرب)】: العاصمة العلمية والروحية، وجامعة القرويين أقدم جامعة في العالم.\n5.【صَنْعَاءُ القَدِيمَةُ (اليمن)】: متحف العمارة الطينية الفريدة ذات النوافذ الملونة «القمريات» وباب اليمن.\n\nثانياً: توظيف الأفعال الجوفاء في السرد التاريخي:\n- «**زُرْتُ** المَدِينَةَ القَدِيمَةَ» | «**كُنَّا** نَسِيرُ بَيْنَ الآثَارِ».\n- «**عِشْتُ** أَيَّامًا لَا تُنْسَى» | «**قَالَ** لَنَا المُرْشِدُ التَّارِيخِيُّ».\n- «**عُدْنَا** إِلَى الدِّيَارِ مُحَمَّلِينَ بِأَنْوَارِ المَعْرِفَةِ».",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الطقس والمناخ والجغرافيا العربية (Weather & Arab Geography)» بأسلوب أكاديمي دقيق (15.4.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الطقس والمناخ والجغرافيا العربية (Weather & Arab Geography)' to students in an accurate academic style."
+          "target": "زُرْتُ مَدِينَةَ فَاسَ العَرِيقَةَ وَشَاهَدْتُ جَامِعَةَ القَرَوِيِّينَ الَّتِي تُعَدُّ أَقْدَمَ جَامِعَةٍ فِي العَالَمِ.(Zurtu madīnata Fāsa al-ʿarīqata wa-shāhadtu jāmiʿata al-Qarawiyyīna al-latī tuʿaddu aqdama jāmiʿatin fī al-ʿālam.)",
+          "reading": "[zur.tu ma.diː.na.ta faː.sa‿l.ʕa.riː.qa.ta wa.ʃaː.had.tu ʒaː.mi.ʕa.ta‿l.qa.ra.wij.jiː.na‿l.la.tiː tu.ʕad.du ʔaq.da.ma ʒaː.mi.ʕa.tin fiː‿l.ʕaː.lam] (Zur-tu ma-dī-na-ta Fā-sa al-ʿa-rī-qa-ta wa-shā-had-tu jā-mi-ʿa-ta al-Qa-ra-wiy-yī-na al-la-tī tu-ʿad-du aq-da-ma jā-mi-ʿa-tin fī al-ʿā-lam.)",
+          "translation": "I visited the ancient city of Fez and saw the University of al-Qarawiyyin, which is considered the oldest university in the world."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (15.4.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "كُنْتُ فِي دِمَشْقَ الفَيْحَاءِ وَسِرْتُ فِي سُوقِ الحَمِيدِيَّةِ التَّارِيخِيِّ بَيْنَ رَوَائِحِ التَّوَابِلِ وَالعُطُورِ.(Kuntu fī Dimashqa al-fayḥāʾi wa-sirtu fī sūqi al-Ḥamīdiyyati at-tārīkhiyyi bayna rawāʾiḥi at-tawābili wa-al-ʿuṭūr.)",
+          "reading": "[kun.tu fiː di.maʃ.qa‿l.faj.ħaː.ʔi wa.sir.tu fiː suː.qi‿l.ħa.miː.dij.ja.ti‿t.taː.riː.xij.ji baj.na ra.waː.ʔi.ħi‿t.ta.waː.bi.li wal.ʕu.tˤuːr] (Kun-tu fī Di-mash-qa al-fay-ḥā-ʾi wa-sir-tu fī sū-qi al-Ḥa-mī-diy-ya-ti at-tā-rī-khiy-yi bay-na ra-wā-ʾi-ḥi at-ta-wā-bi-li wa-al-ʿu-ṭūr.)",
+          "translation": "I was in radiant Damascus and walked in the historic al-Hamidiyyah souq amidst scents of spices and perfumes."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (15.4.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "عِشْنَا فِي بَغْدَادَ عَلَى ضِفَافِ نَهْرِ دِجْلَةَ أَيَّامًا عَامِرَةً بِالعِلْمِ وَالأَدَبِ وَالشِّعْرِ الأَصِيلِ.(ʿIshnā fī Baghdāda ʿalā ḍifāfi nahri Dijlata ayyāman ʿāmiratan bi-al-ʿilmi wa-al-adabi wa-ash-shiʿri al-aṣīl.)",
+          "reading": "[ʕiʃ.naː fiː baɣ.daː.da ʕa.laː dˤi.faː.fi nah.ri diʒ.la.ta ʔaj.jaː.man ʕaː.mi.ra.tan bil.ʕil.mi wal.ʔa.da.bi waʃ.ʃiʕ.ri‿l.ʔa.sˤiːl] (ʿIsh-nā fī Bagh-dā-da ʿa-lā ḍi-fā-fi nah-ri Dij-la-ta ay-yā-man ʿā-mi-ra-tan bi-al-ʿil-mi wa-al-a-da-bi wa-ash-shiʿ-ri al-a-ṣīl.)",
+          "translation": "We lived in Baghdad on the banks of the Tigris River days filled with science, literature, and authentic poetry."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (15.4.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "تَجْسُدُ صَنْعَاءُ القَدِيمَةُ رَوْعَةَ العِمَارَةِ العَرَبِيَّةِ التُّرَاثِيَّةِ بِبَنَائِهَا الشَّامِخِ وَنَوَافِذِهَا المُلَوَّنَةِ.(Tajsudu Ṣanʿāʾu al-qadīmatu rawʿata al-ʿimārati al-ʿarabiyyati at-turāthiyyati bi-bināʾihā ash-shāmikhi wa-nawāfiddhihā al-mulawwanah.)",
+          "reading": "[taʒ.su.du sˤan.ʕaː.ʔu‿l.qa.diː.ma.tu raw.ʕa.ta‿l.ʕi.maː.ra.ti‿l.ʕa.ra.bij.ja.ti‿t.tu.raː.θij.ja.ti bi.bi.naː.ʔi.haː‿ʃ.ʃaː.mi.xi wa.na.waː.fi.ði.haː‿l.mu.law.wa.nah] (Taj-su-du Ṣan-ʿā-ʾu al-qa-dī-ma-tu raw-ʿa-ta al-ʿi-mā-ra-ti al-ʿa-ra-biy-ya-ti at-tu-rā-thiy-ya-ti bi-bi-nā-ʾi-hā ash-shā-mi-khi wa-na-wā-fi-dhi-hā al-mu-law-wa-nah.)",
+          "translation": "Old Sana'a embodies the magnificence of traditional Arab architecture with its lofty construction and colored windows."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "مِنْ فَاسَ لِدِمَشْقَ لِبَغْدَادَ وَصَنْعَاءْ، مُدُنٌ تَرْوِي التَّارِيخَ بِالعِزِّ وَالبَهَاءْ!"
+      ],
+      "culturalNotes": [
+        "جامعة القرويين في فاس أسستها فاطمة الفهرية عام 859م، وتعدها منظمة اليونسكو أقدم مؤسسة للتعليم العالي مستمرة في العمل بالعالم."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الطقس والمناخ والجغرافيا العربية (Weather & Arab Geography)» (الدرس 4)؟",
+          "prompt": "ما هي المدينة المغربية العريقة التي تحتضن أقدم جامعة في العالم (جامعة القرويين)؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الطقس والمناخ والجغرافيا العربية (Weather & Arab Geography)» بأسلوب أكاديمي دقيق (15.4.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (15.4.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (15.4.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (15.4.w3)"
+            "مَدِينَةُ فَاسَ (The city of Fez)",
+            "الدار البيضاء",
+            "طنجة",
+            "أغادير"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "«مَدِينَةُ فَاسَ» هي العاصمة العلمية للمغرب ومقر جامعة القرويين التاريخية."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو اللقب الشهير للعاصمة السورية التاريخية دمشق؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "دِمَشْقُ الفَيْحَاءُ (Radiant / Spacious Damascus)",
+            "دار السلام",
+            "عروس البحر",
+            "مدينة الضباب"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "تلقب دمشق بـ «الفَيْحَاءِ» لاتساعها ونضارة بساتين الغوطة المحيطة بها."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u15-l4):",
+          "prompt": "اختر الجملة التي تسرد زيارة المعالم التاريخية بالأفعال الجوفاء الماضية:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (15.4.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (15.4.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (15.4.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (15.4.x3)"
+            "زُرْنَا قَلْعَةَ صَلَاحِ الدِّينِ فِي القَاهِرَةِ وَكُنَّا مُنْبَهِرِينَ بِعَظَمَةِ التَّارِيخِ. (We visited Saladin Citadel in Cairo and were fascinated by the greatness of history.)",
+            "زرنا القلعة تاكل في الصباح بالخطأ المعنوي",
+            "نحن يزور القلعة امس",
+            "زيارة قلعة قاهرة تاريخ سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "«زُرْنَا» و«كُنَّا» أفعال جوفاء مصرفية في الماضي بدقة تصف زيارة قلعة القاهرة."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الطقس والمناخ والجغرافيا العربية (Weather & Arab Geography)»؟",
+          "prompt": "ما اسم النهر العظيم الذي قامت على ضفافه مدينة بغداد دار السلام التاريخية؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (15.4.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (15.4.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (15.4.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (15.4.y3)"
+            "نَهْرُ دِجْلَةَ (The Tigris River)",
+            "نهر الأمازون",
+            "نهر الدانوب",
+            "نهر التايمز"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«نَهْرُ دِجْلَةَ» هو النهر الخالد الذي يشق مدينة بغداد."
         }
       ]
     },
@@ -9249,24 +9275,26 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 15-4)؟",
+          "prompt": "اختر النص السردي الذي يصف جولة عبر الحواضر التاريخية العربية بالأفعال الجوفاء والبيان الفصيح:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (15.4.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (15.4.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (15.4.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (15.4.z3)"
+            "كُنْتُ فِي جَوْلَةٍ عَرَبِيَّةٍ شَامِلَةٍ؛ حَيْثُ زُرْتُ القَاهِرَةَ وَتَأَمَّلْتُ قَلْعَتَهَا، ثُمَّ طِرْتُ إِلَى دِمَشْقَ وَسِرْتُ فِي أَسْوَاقِهَا، وَعِشْتُ فِي بَغْدَادَ عَلَى ضِفَافِ دِجْلَةَ، وَعُدْتُ لِأَقُولَ لِلْجَمِيعِ: «إِنَّ التُّرَاثَ العَرَبِيَّ صَرْحٌ خَالِدٌ». (I was on a comprehensive Arab tour; where I visited Cairo and contemplated its citadel, then I flew to Damascus and walked in its souqs, and lived in Baghdad on the banks of Tigris, and returned to say to everyone: 'Indeed, Arab heritage is an eternal edifice.')",
+            "كنت في جولة بالافعال المضارعة فقط بلا مدن تاريخية وبلا سرد.",
+            "قاهرة دمشق بغداد فاس قلاع اسواق دجلة سكون فتحة ضمة.",
+            "لم يزر احد اي مدينة تاريخية واغلقت جميع المتاحف."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يجمع بين سرد الحواضر التاريخية وأفعال الأجوف في الماضي «كُنْتُ، زُرْتُ، طِرْتُ، سِرْتُ، عِشْتُ، عُدْتُ، أَقُولَ» في ذروة الفصاحة والبيان."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u15-l4) باللغة العربية (مثال: «الطقس»):",
+          "prompt": "اكتب باللغة العربية الفصحى لقب مدينة بغداد التاريخي الشهير (اكتب: «دار السلام»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الطقس",
-            "الطقس"
+            "دار السلام",
+            "دار سلام",
+            "دَارُ السَّلَامِ",
+            "دَارُ السَّلَام"
           ],
-          "explanation": "المصطلح الصحيح هو «الطقس»."
+          "explanation": "اللقب هو «دار السلام»."
         }
       ],
       "passThreshold": 0.8
@@ -9277,85 +9305,89 @@
     "subject": "arabic",
     "unit": 15,
     "lessonNumber": 5,
-    "title": "الطقس والمناخ والجغرافيا العربية (Weather & Arab Geography) (الدرس 5)",
+    "title": "حوار تنظيم الرحلة الاستكشافية التراثية (Heritage Travel & Itinerary Dialogue)",
     "level": "B1",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: الأقاليم المناخية في العالم العربي، الفصول الأربعة، والمصطلحات الجغرافية والبيئية. (الجزء 5).",
+    "objective": "الدمج الشامل لكافة مخرجات الوحدة الخامسة عشرة: وثائق السفر والمطارات، تصريف الأفعال الجوفاء، الحجوزات الفندقية وتذاكر القطار، ووصف المعالم التاريخية في حوار تطبيقي متكامل.",
     "presentation": {
-      "explanation": "",
+      "explanation": "مرحبًا بك في الدرس التتويجي للوحدة الخامسة عشرة من منهاج اللغة العربية الفصحى!\n\nفي هذا الدرس ندمج جميع المكتسبات اللغوية والتصريفية في حوار تطبيقي شيق يدور بين صديقين مسافرين (يوسف وأمير) يراجعان تفاصيل رحلتهما الثقافية الكبرى عبر المدن التاريخية وحجوزات الطيران والفنادق والأفعال الجوفاء:\n\nمحاور النص الحواري الشامل:\n1.【استخدام وثائق وحجوزات السفر】: جَوَازَاتُ السَّفَرِ، تَأْشِيرَاتُ الدُّخُولِ، تَذَاكِرُ الطَّيَرَانِ، حَجْزُ الفُنْدُقِ.\n2.【تصريف الأفعال الجوفاء في الماضي والمضارع】: زَارَ/زُرْنَا، كَانَ/كُنْتُ، عَاشَ/نَعِيشُ، قَالَ/قُلْتُ، عَادَ/نَعُودُ، طَارَ/نَطِيرُ، سَارَ/أَسِيرُ.\n3.【الحديث عن المدن التاريخية ووسائل النقل】: القَاهِرَةُ، فَاسُ، جَامِعَةُ القَرَوِيِّينَ، القِطَارُ السَّرِيعُ.\n4.【الاعتزاز بأدب الرحلات والضيافة العربية】: اكتساب المعارف وتوثيق الذكريات الخالدة.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الطقس والمناخ والجغرافيا العربية (Weather & Arab Geography)» بأسلوب أكاديمي دقيق (15.5.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الطقس والمناخ والجغرافيا العربية (Weather & Arab Geography)' to students in an accurate academic style."
+          "target": "مَرْحَبًا أَمِير، هَلْ أَكَّدْتَ حَجْزَ تَذَاكِرِ الطَّيَرَانِ وَالفَنَادِقِ لِرِحْلَتِنَا التُّرَاثِيَّةِ؟(Marḥaban Amīr, hal akkadta ḥajza tadhākiri aṭ-ṭayarāni wa-al-fanādiqi li-riḥlatinā at-turāthiyyah?)",
+          "reading": "[mar.ħa.ban ʔa.miːr, hal ʔak.kad.ta ħaʒ.za ta.ðaː.ki.ri‿tˤ.tˤa.ja.raː.ni wal.fa.naː.di.qi li.riħ.la.ti.naː‿t.tu.raː.θij.jah?] (Mar-ḥa-ban A-mīr, hal ak-kad-ta ḥaj-za ta-dhā-ki-ri aṭ-ṭa-ya-rā-ni wa-al-fa-nā-di-qi li-riḥ-la-ti-nā at-tu-rā-thiy-yah?)",
+          "translation": "Hello Amir, have you confirmed the flight tickets and hotel bookings for our heritage trip?"
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (15.5.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "نَعَمْ يَا يُوسُف، حَجَزْتُ التَّذَاكِرَ وَأَصْدَرْتُ التَّأْشِيرَاتِ، وَسَنَزُورُ القَاهِرَةَ ثُمَّ نَطِيرُ إِلَى فَاسَ.(Naʿam yā Yūsuf, ḥajaztu at-tadhākira wa-aṣdartu at-taʾshīrāt, wa-sanazūru al-Qāhirata thumma naṭīru ilā Fās.)",
+          "reading": "[na.ʕam jaː juː.suf, ħa.ʒaz.tu‿t.ta.ðaː.ki.ra wa.ʔasˤ.dar.tu‿t.taʔ.ʃiː.raːt, wa.sa.na.zuː.ru‿l.qaː.hi.ra.ta θum.ma na.tˤiː.ru ʔi.laː faːs] (Na-ʿam yā Yū-suf, ḥa-jaz-tu at-ta-dhā-ki-ra wa-aṣ-dar-tu at-taʾ-shī-rāt, wa-sa-na-zū-ru al-Qā-hi-ra-ta thum-ma na-ṭī-ru i-lā Fās.)",
+          "translation": "Yes, Yusuf, I booked the tickets and issued the visas, and we will visit Cairo then we fly to Fez."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (15.5.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "كُنْتُ أَتَمَنَّى دَائِمًا أَنْ أَزُورَ جَامِعَةَ القَرَوِيِّينَ وَأَسِيرَ فِي أَزِقَّةِ المَدِينَةِ التَّارِيخِيَّةِ.(Kuntu atamannā dāʾiman an azūra jāmiʿata al-Qarawiyyīna wa-asīra fī aziqqati al-madīnati at-tārīkhiyyah.)",
+          "reading": "[kun.tu ʔa.ta.man.naː daː.ʔi.man ʔan ʔa.zuː.ra ʒaː.mi.ʕa.ta‿l.qa.ra.wij.jiː.na wa.ʔa.siː.ra fiː ʔa.ziq.qa.ti‿l.ma.diː.na.ti‿t.taː.riː.xij.jah] (Kun-tu a-ta-man-nā dā-ʾi-man an a-zū-ra jā-mi-ʿa-ta al-Qa-ra-wiy-yī-na wa-a-sī-ra fī a-ziq-qa-ti al-ma-dī-na-ti at-tā-rī-khiy-yah.)",
+          "translation": "I always wished to visit the University of al-Qarawiyyin and walk in the historic city's alleys."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (15.5.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "سَتَكُونُ رِحْلَةً مَلِيئَةً بِالمَعْرِفَةِ؛ حَيْثُ نَعِيشُ سِحْرَ التَّارِيخِ وَنَعُودُ مُحَمَّلِينَ بِأَغْلَى الذِّكْرَيَاتِ.(Satakūnu riḥlatan malīʾatan bi-al-maʿrifah; ḥaythu naʿīshu siḥra at-tārīkhi wa-naʿūdu muḥammalīna bi-aghlā adh-dhikrayāt.)",
+          "reading": "[sa.ta.kuː.nu riħ.la.tan ma.liː.ʔa.tan bil.maʕ.ri.fah; ħaj.θu na.ʕiː.ʃu siħ.ra‿t.taː.riː.xi wa.na.ʕuː.du mu.ħam.ma.liː.na bi.ʔaɣ.laː‿ð.ðik.ra.jaːt] (Sa-ta-kū-nu riḥ-la-tan ma-lī-ʾa-tan bi-al-maʿ-ri-fah; ḥay-thu na-ʿī-shu siḥ-ra at-tā-rī-khi wa-na-ʿū-du mu-ḥam-ma-lī-na bi-agh-lā adh-dhik-ra-yāt.)",
+          "translation": "It will be a journey full of knowledge; where we live the magic of history and return loaded with the most precious memories."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "حَجَزْنَا وَطِرْنَا وَزُرْنَا المَدَائِنَ بِالأَمَانْ، فَأَجْوَفُ الفِعْلِ صَارَ شَاهِدًا لِلزَّمَانْ!"
+      ],
+      "culturalNotes": [
+        "أدب الرحلات والمدونات الجغرافية كرحلة ابن بطوطة («تحفة النظار») تعد من أروع ما قدمه الفكر العربي للتواصل الحضاري العالمي."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الطقس والمناخ والجغرافيا العربية (Weather & Arab Geography)» (الدرس 5)؟",
+          "prompt": "في الحوار الشامل، ما هي الوجهة الأولى التي سيزورها يوسف وأمير قبل الطيران إلى فاس؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الطقس والمناخ والجغرافيا العربية (Weather & Arab Geography)» بأسلوب أكاديمي دقيق (15.5.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (15.5.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (15.5.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (15.5.w3)"
+            "القَاهِرَةُ (Cairo)",
+            "لندن فقط",
+            "طوكيو",
+            "القطب الشمالي"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "أوضح أمير في الحوار: «سَنَزُورُ القَاهِرَةَ ثُمَّ نَطِيرُ إِلَى فَاسَ»."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما المعلم الأكاديمي التاريخي الذي تمنى يوسف زيارته في مدينة فاس؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "جَامِعَةُ القَرَوِيِّينَ (University of al-Qarawiyyin)",
+            "برج إيفل",
+            "ساعة بيغ بن",
+            "متحف اللوفر"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "قال يوسف: «كُنْتُ أَتَمَنَّى دَائِمًا أَنْ أَزُورَ جَامِعَةَ القَرَوِيِّينَ»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u15-l5):",
+          "prompt": "اختر الفقرة الحوارية التي تصف الاستعداد لصعود الطائرة بالأفعال الجوفاء والمصطلحات الرسمية:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (15.5.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (15.5.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (15.5.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (15.5.x3)"
+            "— هَلْ اسْتَلَمْتَ بِطَاقَةَ الصُّعُودِ؟ — نَعَمْ، قُلْتُ لِلْمُوَظَّفِ إِنَّنَا جَاهِزُونَ وَسَنَطِيرُ حَالًا عَبْرَ البَوَّابَةِ. (— Have you received the boarding pass? — Yes, I told the clerk that we are ready and will fly immediately through the gate.)",
+            "— هل تذكرة القطار في البحر؟",
+            "— كم سعر اللحم في المطار؟",
+            "— بطاقة صعود طيران بوابة سكون فتحة."
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الفقرة توظف «بِطَاقَة الصُّعُود»، «قُلْتُ»، «سَنَطِيرُ»، «البَوَّابَة» بسبك حواري فصيح ومتقن."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الطقس والمناخ والجغرافيا العربية (Weather & Arab Geography)»؟",
+          "prompt": "كيف وصف الصديقان رحلتهما في ختام الحوار؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (15.5.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (15.5.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (15.5.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (15.5.y3)"
+            "رِحْلَةٌ مَلِيئَةٌ بِالمَعْرِفَةِ وَاسْتِكْشَافِ سِحْرِ التَّارِيخِ (A journey full of knowledge and exploring history's magic)",
+            "رحلة مملة وخالية من الفائدة",
+            "رحلة تجارية لبيع البضائع فقط",
+            "رحلة ضائعة بلا هدف"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "اتفقا على أنها رحلة مليئة بالمعرفة والذكريات التاريخية الثمينة."
         }
       ]
     },
@@ -9363,24 +9395,28 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 15-5)؟",
+          "prompt": "اختر النص الحواري السردي الشامل الذي يدمج مخرجات الوحدة الخامسة عشرة بأكملها (وثائق السفر، تصريف الأجوف، حجوزات الفنادق، المعالم التاريخية، والرحلات):",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (15.5.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (15.5.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (15.5.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (15.5.z3)"
+            "أَعَدَّ يُوسُفُ وَأَمِيرٌ جَوَازَاتِ السَّفَرِ وَالتَّأْشِيرَاتِ، وَحَجَزَا تَذَاكِرَ الطَّيَرَانِ وَغُرَفَ الفُنْدُقِ، فَقَالَ يُوسُفُ: «زُرْتُ القَاهِرَةَ سَابِقًا، وَالْآنَ سَنَطِيرُ إِلَى فَاسَ لِنَسِيرَ فِي جَامِعَةِ القَرَوِيِّينَ»، فَرَدَّ أَمِيرٌ: «كُنْتُ أَتَرَقَّبُ هٰذِهِ اللَّحْظَةَ لِنَعِيشَ سِحْرَ التَّارِيخِ وَنَعُودَ بِأَجْمَلِ الذِّكْرَيَاتِ». (Yusuf and Amir prepared passports and visas, and booked flight tickets and hotel rooms, so Yusuf said: 'I visited Cairo previously, and now we will fly to Fez to walk in al-Qarawiyyin University,' so Amir replied: 'I was anticipating this moment so that we live history's magic and return with the most beautiful memories.')",
+            "اعد يوسف وامير بالافعال الصحيحة فقط بلا وثائق سفر وبلا افعال جوفاء.",
+            "جواز سفر تااشيرات تذاكر قاهرة فاس قرويين طيران قطار سكون فتحة.",
+            "الغيت الرحلة وضاعت الجوازات ولم يسافر يوسف ولا امير."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يمثل قمة الفصاحة والتكامل البياني في دمج وثائق السفر، وحجوزات الفنادق والطيران، وتصريفات الأفعال الجوفاء في الماضي والمضارع (زُرْتُ، سَنَطِيرُ، لِنَسِيرَ، كُنْتُ، لِنَعِيشَ، نَعُودَ) في سياق سردي أصيل وملهم."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u15-l5) باللغة العربية (مثال: «الطقس»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم الفعل الذي وسطه حرف علة مثل (قال، زار، سار، كان) (اكتب: «أجوف» أو «الأجوف»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الطقس",
-            "الطقس"
+            "أجوف",
+            "الأجوف",
+            "اجوف",
+            "الاجوف",
+            "أَجْوَفُ",
+            "الأَجْوَفُ"
           ],
-          "explanation": "المصطلح الصحيح هو «الطقس»."
+          "explanation": "الفعل هو «أجوف» أو «الأجوف»."
         }
       ],
       "passThreshold": 0.8
