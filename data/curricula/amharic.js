@@ -5888,85 +5888,62 @@
     "subject": "amharic",
     "unit": 13,
     "lessonNumber": 1,
-    "title": "የሥራ ዓለም እና ሙያዎች (Professions & Workplace) (ክፍል 1)",
+    "title": "ዋና ዋና ሙያዎች እና የሙያ ስሞች (Major Professions & Occupations)",
     "level": "A2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የተለያዩ የሥራ መስኮች፣ የሥራ ማመልከቻ እና የቢሮ ውስጥ ግንኙነት። (ክፍል 1)።",
+    "objective": "የተለመዱ ሙያዎችን (መምህር፣ ሐኪም/ዶክተር፣ መሃንዲስ፣ ነጋዴ፣ ሹፌር፣ ገበሬ፣ ጠበቃ) መለየትና መጠቀም።",
     "presentation": {
-      "explanation": "",
+      "explanation": "ዋና ዋና ሙያዎች እና የሙያ ስሞች:\n\n፩. የህዝብ አገልግሎት እና የጤና ሙያዎች:\n- መምህር / መምህርት: ተማሪዎችን የሚያስተምር / የምታስተምር።\n- ሐኪም (ዶክተር) / ነርስ: ህሙማንን የሚያክም / የምታክም የጤና ባለሙያ።\n- ጠበቃ: በህግ ጉዳዮች ላይ ሰዎችን የሚከላከልና ምክር የሚሰጥ ባለሙያ።\n\n፪. የቴክኒክ፣ የንግድ እና የእርሻ ሙያዎች:\n- መሃንዲስ: ህንጻዎችን፣ መንገዶችን እና ማሽኖችን የሚነድፍና የሚገነባ።\n- ነጋዴ: ዕቃዎችንና አገልግሎቶችን የሚገዛና የሚሸጥ።\n- ገበሬ: ሰብል የሚያመርትና እንስሳትን የሚያረባ።\n- ሹፌር: ተሽከርካሪዎችን የሚያሽከረክር።\n\n፫. የጾታ አገባብ:\nተባዕታይ: መምህር፣ ዶክተር፣ መሃንዲስ\nአንስታይ: መምህርት፣ ዶክተሯ፣ መሃንዲሷ።",
       "examples": [
         {
-          "target": "መምህሩ የ«የሥራ ዓለም እና ሙያዎች (Professions & Workplace)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (13.1.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የሥራ ዓለም እና ሙያዎች (Professions & Workplace)' to the students."
+          "target": "መምህሩ ተማሪዎቹን በከፍተኛ ትጋትና ፍቅር ያስተምራል።",
+          "reading": "Mämhiru tämariwoččun bäkäftänya təgatənna fəqər yastämərall. [mɛmˈhɨru tɛmariˈwotʃːun bɛkɛfˈtɛɲa tɨˈɡatɨnːa fɨˈkʼɨr jastɛmɨˈralː] (mem-huh-ROO teh-mah-ree-wohch-CHOON beh-kef-TEN-yah tuh-GAHT-un-nah fuh-K'UR yahs-teh-muh-RAHL)",
+          "translation": "The teacher teaches his students with great dedication and love."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (13.1.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ሐኪሟ በሆስፒታል ውስጥ ህሙማንን በትኩረት ታክማለች።",
+          "reading": "Hakimwa bähospital wəst’ həmumanən bätəkkuhrät takmalläčč. [hakiˈmʷa bɛhospiˈtal wɨstʼ hɨmuˈmanɨn bɛtɨkːuˈrɛt takˈmalːɛtʃː] (hah-keem-WAH beh-hohs-pee-TAHL woos-T' huh-moo-MAH-nun beh-tuk-koo-RET tahk-MAHL-lehch)",
+          "translation": "The female physician treats patients attentively in the hospital."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (13.1.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (13.1.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "መሃንዲሱ አዲስ የከተማ ድልድይና ዘመናዊ ህንጻዎችን ይነድፋል።",
+          "reading": "Mähandisu addis yäkätäma dəldəyənna zämänawi hənts’awoččən yənädfall. [mɛhandiˈsu ʔadːis jɛkɛtɛˈma dɨlˈdɨjɨnːa zɛmɛnaˈwi hɨntsʼaˈwotʃːɨn jɨnɛdˈfalː] (meh-hahn-dee-SOO ahd-DEES yeh-keh-teh-MAH dul-DUY-un-nah zeh-meh-nah-WEE hun-ts'ah-wohch-CHUN yuh-ned-FAHL)",
+          "translation": "The engineer designs a new city bridge and modern buildings."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Profession Pillars: መምህር (Teacher) + ሐኪም (Doctor) + መሃንዲስ (Engineer) + ነጋዴ (Merchant)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ማህበረሰብ ውስጥ መምህራን እና የህክምና ባለሙያዎች በታላቅ ክብርና አክብሮት ይታያሉ።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የሥራ ዓለም እና ሙያዎች (Professions & Workplace)» (ክፍል 1) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«Teacher, doctor, and engineer» የሚለውን በአማርኛ ትክክለኛ የሙያ ስሞች የያዘው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«የሥራ ዓለም እና ሙያዎች (Professions & Workplace)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (13.1.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (13.1.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (13.1.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (13.1.w3)"
+            "መምህር፣ ሐኪም እና መሃንዲስ (Teacher, doctor, and engineer - Correct professional nouns)",
+            "ወንበር፣ ጠረጴዛ እና በር",
+            "ዳቦ፣ ወተት እና ስጋ",
+            "ባቡር፣ አውቶቡስ እና ታክሲ"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«መምህር»፣ «ሐኪም» እና «መሃንዲስ» ሦስቱን ዋና ዋና የሙያ መጠሪያዎች ያመለክታሉ።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u13-l1) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'The farmer produces crops' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (13.1.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (13.1.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (13.1.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (13.1.x3)"
+            "ገበሬው ሰብል ያመርታል። (The farmer produces crops - Accurate agricultural role)",
+            "ገበሬው መኪና ይነዳል",
+            "ገበሬው ህክምና ይሰጣል",
+            "ገበሬው ፎቶ ያነሳል"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የሥራ ዓለም እና ሙያዎች (Professions & Workplace)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (13.1.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (13.1.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (13.1.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (13.1.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ገበሬው ሰብል ያመርታል» የእርሻ ሙያንና ተግባርን በትክክል ያሳያል።"
         }
       ]
     },
@@ -5974,24 +5951,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 13-1):",
+          "prompt": "ዋና ዋና የሙያ መጠሪያዎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (13.1.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (13.1.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (13.1.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (13.1.z3)"
+            "መምህር፣ ሐኪም፣ መሃንዲስ፣ ነጋዴ፣ ሹፌር፣ ገበሬ እና ጠበቃ።",
+            "ቤት፣ በር፣ መስኮት እና ጣሪያ።",
+            "ጠዋት፣ ከሰዓት እና ማታ።",
+            "በአማርኛ የሙያ ስሞች የሉም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የሙያ ዓይነቶችን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u13-l1) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የሥራ»):",
+          "prompt": "'መምህር / Teacher, instructor' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የሥራ",
-            "የሥራ"
+            "መምህር"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የሥራ» ነው።"
+          "explanation": "ትክክለኛው ቃል «መምህር» (Mämhir) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -6002,85 +5978,62 @@
     "subject": "amharic",
     "unit": 13,
     "lessonNumber": 2,
-    "title": "የሥራ ዓለም እና ሙያዎች (Professions & Workplace) (ክፍል 2)",
+    "title": "የሥራ ቦታዎች እና የሥራ አካባቢ (Workplaces & Professional Settings)",
     "level": "A2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የተለያዩ የሥራ መስኮች፣ የሥራ ማመልከቻ እና የቢሮ ውስጥ ግንኙነት። (ክፍል 2)።",
+    "objective": "የሥራ ቦታዎችን (ቢሮ፣ ሆስፒታል፣ ትምህርት ቤት፣ ፋብሪካ፣ ባንክ፣ እርሻ) መግለጽ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የሥራ ቦታዎች እና የሥራ አካባቢዎች:\n\n፩. ዋና ዋና የሥራ ቦታዎች:\n- ቢሮ: አስተዳደራዊና የጽሕፈት ሥራዎች የሚከናወኑበት ቦታ ነው።\n- ሆስፒታል / ክሊኒክ: የህክምና አገልግሎት የሚሰጥበት ቦታ ነው።\n- ትምህርት ቤት / ዩኒቨርሲቲ: የማስተማርና የምርምር ተግባር የሚከናወንበት ነው።\n- ባንክ: የገንዘብና የፋይናንስ አገልግሎት የሚሰጥበት ተቋም ነው።\n- ፋብሪካ: የተለያዩ የኢንዱስትሪ ምርቶች የሚመረቱበት ቦታ ነው።\n- እርሻ: ሰብል የሚዘራበትና የሚሰበሰብበት ሰፊ መሬት ነው።\n\n፪. ሰዋሰዋዊ መዋቅር:\n«በ... ውስጥ መሥራት» (To work in...):\n- «እሷ በባንክ ውስጥ ትሠራለች»\n- «እሱ በፋብሪካ ውስጥ መሐንዲስ ሆኖ ይሠራል»።",
       "examples": [
         {
-          "target": "መምህሩ የ«የሥራ ዓለም እና ሙያዎች (Professions & Workplace)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (13.2.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የሥራ ዓለም እና ሙያዎች (Professions & Workplace)' to the students."
+          "target": "እህቴ በአንድ ትልቅ ዓለም አቀፍ ባንክ ውስጥ በሂሳብ ሹምነት ትሠራለች።",
+          "reading": "Əhəte bā'and təlləq ʿaläm aqäf bank wəst’ bähisab šummənnät təsärralläčč. [ʔɨhɨˈte bɛʔand tɨlːɨkʼ ʔaˈlɛm ʔaˈkʼɛf bank wɨstʼ bɛhisab ʃumːɨnˈnɛt tɨsɛrːalːɛtʃː] (uh-huh-TAY beh-AHND tul-LUK' ah-LEM ah-K'EF bahnk woos-T' beh-hee-SAHB shoom-nun-NET tuh-ser-RAHL-lehch)",
+          "translation": "My sister works as an accountant in a large international bank."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (13.2.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ሰራተኞቹ በፋብሪካው ውስጥ አዳዲስ አልባሳትን በከፍተኛ ጥራት ያመርታሉ።",
+          "reading": "Särratänyočču bäfabrika wəst’ addadis albasatən bäkäftänya t’ərat yamärtallu. [sɛrːatɛˈɲotʃːu bɛfabriˈka wɨstʼ ʔadːaˈdis ʔalbaˈsatɨn bɛkɛfˈtɛɲa tʼɨˈrat jamɛrˈtalːu] (ser-rah-ten-yohch-CHOO beh-fahb-REE-kah woos-T' ahd-dah-DEES ahl-bah-SAH-tun beh-kef-TEN-yah t'uh-RAHT yah-mer-TAHL-loo)",
+          "translation": "The workers manufacture new clothing with high quality in the factory."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (13.2.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (13.2.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ጠበቃው በከፍተኛ ፍርድ ቤት ውስጥ የደንበኞቹን መብት በህግ ይከራከራል።",
+          "reading": "T’äbäqaw bäkäftänya fərd bet wəst’ yädänbänyoččun mäbt bähəgg yəkkärakkärall. [tʼɛbɛˈkʼaw bɛkɛfˈtɛɲa fɨrd bet wɨstʼ jɛdɛnbɛˈɲotʃːun mɛbt bɛhɨɡː jɨkːɛrakːɛˈralː] (t'eh-beh-K'AH-woo beh-kef-TEN-yah furd bayt woos-T' yeh-den-ben-yohch-CHOON mebt beh-HUG yook-keh-rahk-keh-RAHL)",
+          "translation": "The lawyer argues his clients' rights in the high court according to the law."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Workplaces: ቢሮ (Office) + ባንክ (Bank) + ፋብሪካ (Factory) + ፍርድ ቤት (Court)!"
+      ],
+      "culturalNotes": [
+        "በአዲስ አበባ እና በሌሎች የኢትዮጵያ ከተሞች አዳዲስ የኢንዱስትሪ ፓርኮችና የንግድ ማዕከላት በርካታ የሥራ ዕድሎችን እየፈጠሩ ይገኛሉ።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የሥራ ዓለም እና ሙያዎች (Professions & Workplace)» (ክፍል 2) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«She works in the bank» የሚለውን በአማርኛ ትክክለኛ አረፍተ ነገር የገለጸው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«የሥራ ዓለም እና ሙያዎች (Professions & Workplace)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (13.2.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (13.2.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (13.2.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (13.2.w3)"
+            "በባንክ ውስጥ ትሠራለች። (She works in the bank - Accurate workplace preposition and verb)",
+            "ወደ ባንክ ሄደች",
+            "ባንክ አልሄደችም",
+            "ባንክ ዘግቷል"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«በባንክ ውስጥ ትሠራለች» የሥራ ቦታውንና ድርጊቱን በትክክል ያሳያል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u13-l2) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'In the office and factory' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (13.2.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (13.2.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (13.2.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (13.2.x3)"
+            "በቢሮ እና በፋብሪካ ውስጥ (In the office and in the factory - Correct location nouns)",
+            "በመንገድ ላይ",
+            "በቤት ውስጥ",
+            "በገበያ ላይ"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የሥራ ዓለም እና ሙያዎች (Professions & Workplace)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (13.2.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (13.2.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (13.2.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (13.2.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«በቢሮ እና በፋብሪካ ውስጥ» ሁለቱን የስራ አካባቢዎች ያመለክታል።"
         }
       ]
     },
@@ -6088,24 +6041,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 13-2):",
+          "prompt": "የሥራ ቦታዎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (13.2.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (13.2.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (13.2.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (13.2.z3)"
+            "ቢሮ፣ ባንክ፣ ሆስፒታል፣ ትምህርት ቤት፣ ፋብሪካ፣ ፍርድ ቤት እና እርሻ።",
+            "አልጋ፣ ቁምሳጥን እና ሶፋ።",
+            "ወጥ፣ ዶሮ እና ሩዝ።",
+            "በአማርኛ የሥራ ቦታ ስሞች የሉም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የሥራ ቦታዎችን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u13-l2) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የሥራ»):",
+          "prompt": "'ቢሮ / Office' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የሥራ",
-            "የሥራ"
+            "ቢሮ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የሥራ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ቢሮ» (Biro) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -6116,85 +6068,62 @@
     "subject": "amharic",
     "unit": 13,
     "lessonNumber": 3,
-    "title": "የሥራ ዓለም እና ሙያዎች (Professions & Workplace) (ክፍል 3)",
+    "title": "የሥራ ተግባራት እና የዕለት ተዕለት ኃላፊነቶች (Job Tasks & Professional Responsibilities)",
     "level": "A2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የተለያዩ የሥራ መስኮች፣ የሥራ ማመልከቻ እና የቢሮ ውስጥ ግንኙነት። (ክፍል 3)።",
+    "objective": "የሥራ ኃላፊነቶችን (ማስተማር፣ ማከም፣ ማስተዳደር፣ ሪፖርት ማዘጋጀት፣ ስብሰባ መምራት) መግለጽ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የሥራ ተግባራት እና የኃላፊነት መግለጫዎች:\n\n፩. የዕለት ተዕለት ተግባራት:\n- ማስተማር: ዕውቀትን ለተማሪዎች የማስተላለፍ ተግባር ነው።\n- ማከም: ህሙማንን የመመርመርና የመፈወስ ኃላፊነት ነው።\n- ማስተዳደር: ሰራተኞችንና ፕሮጀክቶችን የመምራት ተግባር ነው።\n- ሪፖርት ማዘጋጀት: የሥራ አፈጻጸምን በጽሑፍ የማቅረብ ኃላፊነት ነው።\n- ስብሰባ መምራት: ውሳኔዎችን በጋራ የማሳለፍ ሂደት ነው።\n\n፪. ሰዋሰዋዊ መዋቅር:\n«ኃላፊነቴ ... ነው» (My responsibility is...):\n- «የእኔ ኃላፊነት ፕሮጀክቱን ማስተባበር ነው»\n- «የዕለት ተዕለት ሥራው ሪፖርት መጻፍን ያካትታል»።",
       "examples": [
         {
-          "target": "መምህሩ የ«የሥራ ዓለም እና ሙያዎች (Professions & Workplace)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (13.3.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የሥራ ዓለም እና ሙያዎች (Professions & Workplace)' to the students."
+          "target": "የሥራ አስኪያጁ ዋና ኃላፊነት የሰራተኞችን ተግባር ማስተባበር እና ስብሰባዎችን መምራት ነው።",
+          "reading": "Yä-śəra askiyyağu wana halaﬁnnät yäsärratänyoččun tägbar mastäbabbärənna səbsäbawoččən mämrat näw. [jɛsɨra ʔaskidʒaˈdʒu waˈna halafiˈnːɛt jɛsɛrːatɛˈɲotʃːun tɛɡˈbar mastɛbabːɛˈrɨnːa sɨbsɛbaˈwotʃːɨn mɛmˈrat nɛw] (yeh-suh-RAH ahs-kee-yah-JOO wah-NAH hah-lah-feen-NET yeh-ser-rah-ten-yohch-CHOON teg-BAHR mahs-teh-bahb-beh-run-nah sub-seh-bah-wohch-CHUN mem-RAHT now)",
+          "translation": "The manager's main responsibility is to coordinate the staff's tasks and lead meetings."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (13.3.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "እኔ በየሳምንቱ መጨረሻ የሥራ ክንውን ዝርዝር ሪፖርት አዘጋጅቼ ለኃላፊዬ አቀርባለሁ።",
+          "reading": "Əne bäyyäsaməntu mäč’ärräša yäśəra kənəwwun zərəzzər riport azäggağəčče lähalaﬁye aqärballähu. [ʔɨne bɛjːɛsaˈmɨntu mɛtʃʼɛrːɛˈʃa jɛsɨra kɨnɨwːun zɨrɨzːɨr riˈport ʔazɛɡːadʒɨtʃːe lɛhalafiˈje ʔakʼɛrˈbalːɛhu] (uh-NAY bey-yeh-sah-MUN-too meh-ch'er-reh-SHAH yeh-suh-RAH kuh-nuw-WOON zuh-ruz-ZUR ree-POHRT ah-zeg-gah-juhch-CHAY leh-hah-lah-fee-YAY ah-k'er-BAHL-leh-hoo)",
+          "translation": "At the end of every week, I prepare a detailed work performance report and submit it to my supervisor."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (13.3.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (13.3.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "የሂሳብ ባለሙያው የበጀት ዕቅዱን በጥንቃቄ አጥንቶ ትክክለኛነቱን ያረጋግጣል።",
+          "reading": "Yä-hisab balämuyaw yäbäğät ʿəqədun bät’ənqaqe at’nəto təkkəklänyanätun yarägaggət’all. [jɛhiˈsab balɛmuˈjaw jɛbɛˈdʒɛt ʔɨkʼɨˈdun bɛtʼɨnkʼaˈkʼe ʔatʼnɨˈto tɨkːɨklɛɲanɛˈtun jarɛɡaɡːɨˈtʼalː] (yeh-hee-SAHB bah-leh-moo-YOW yeh-beh-JET uh-k'uh-DOON beh-t'un-k'ah-K'AY aht'-nuh-TOH tuk-kuk-len-yah-neh-TOON yah-reh-gahg-guh-T'AHL)",
+          "translation": "The accountant carefully analyzes the budget plan and confirms its accuracy."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Tasks: ማስተባበር (Coordinate) + ሪፖርት (Report) + መምራት (Lead) + ማረጋገጥ (Verify)!"
+      ],
+      "culturalNotes": [
+        "በሥራ ቦታ የቡድን ሥራ፣ የጋራ መግባባትና የሥራ ሰዓትን ማክበር ለስኬት ወሳኝ መርሆዎች ናቸው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የሥራ ዓለም እና ሙያዎች (Professions & Workplace)» (ክፍል 3) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«Preparing a report and leading a meeting» የሚለውን በአማርኛ ትክክለኛ የሥራ ተግባራት የገለጸው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«የሥራ ዓለም እና ሙያዎች (Professions & Workplace)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (13.3.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (13.3.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (13.3.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (13.3.w3)"
+            "ሪፖርት ማዘጋጀት እና ስብሰባ መምራት (Preparing a report and leading a meeting - Correct workplace task verbal nouns)",
+            "እግር ኳስ መጫወት",
+            "ምሳ መብላት",
+            "ቴሌቪዥን ማየት"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ሪፖርት ማዘጋጀት እና ስብሰባ መምራት» ሁለቱን ቁልፍ የቢሮ ተግባራት በትክክል ያመለክታሉ።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u13-l3) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'My responsibility is to treat patients' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (13.3.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (13.3.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (13.3.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (13.3.x3)"
+            "ኃላፊነቴ ህሙማንን ማከም ነው። (My responsibility is to treat patients - Accurate medical duty)",
+            "ህሙማን አይታከሙም",
+            "ሆስፒታል አልሄድም",
+            "ምንም ኃላፊነት የለኝም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የሥራ ዓለም እና ሙያዎች (Professions & Workplace)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (13.3.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (13.3.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (13.3.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (13.3.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ኃላፊነቴ ህሙማንን ማከም ነው» የህክምና ሙያ ዋነኛ ተግባርን በትክክል ያሳያል።"
         }
       ]
     },
@@ -6202,24 +6131,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 13-3):",
+          "prompt": "የሥራ ተግባራትንና ኃላፊነቶችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (13.3.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (13.3.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (13.3.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (13.3.z3)"
+            "ማስተማር፣ ማከም፣ ማስተዳደር፣ ሪፖርት ማዘጋጀት እና ስብሰባ መምራት።",
+            "መተኛት፣ መነሳት እና ማዛጋት።",
+            "መሮጥ፣ መዝለል እና መዋኘት።",
+            "በአማርኛ የሥራ ተግባር ቃላት የሉም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የሥራ ተግባራትንና ኃላፊነቶችን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u13-l3) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የሥራ»):",
+          "prompt": "'ኃላፊነት / Responsibility, duty' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የሥራ",
-            "የሥራ"
+            "ኃላፊነት"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የሥራ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ኃላፊነት» (Halaﬁnnät) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -6230,85 +6158,62 @@
     "subject": "amharic",
     "unit": 13,
     "lessonNumber": 4,
-    "title": "የሥራ ዓለም እና ሙያዎች (Professions & Workplace) (ክፍል 4)",
+    "title": "የሥራ ማመልከቻ፣ ቃለ መጠይቅ እና ውይይት (Job Applications, CV & Interviews)",
     "level": "A2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የተለያዩ የሥራ መስኮች፣ የሥራ ማመልከቻ እና የቢሮ ውስጥ ግንኙነት። (ክፍል 4)።",
+    "objective": "የሥራ ማመልከቻን፣ ሲቪን፣ የቃለ መጠይቅ ውይይትንና የቅጥር ሁኔታዎችን መግለጽ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የሥራ ቅጥር ሂደት፣ ማመልከቻ እና ቃለ መጠይቅ:\n\n፩. የቅጥር ቅደም ተከተል:\n- የሥራ ማስታወቂያ: ክፍት የሥራ ቦታዎችን የሚያሳውቅ ሰነድ ነው።\n- ማመልከቻ እና ሲቪ: የትምህርት ደረጃንና የሥራ ልምድን የሚያሳይ ዝርዝር ነው።\n- ቃለ መጠይቅ: ተቀጣሪው ከቀጣሪዎች ጋር የሚያደርገው የፊት ለፊት ውይይት ነው።\n- የቅጥር ውል: የደመወዝ፣ የሥራ ሰዓትና የመብት ስምምነት ነው።\n\n፪. ቁልፍ የቃለ መጠይቅ አገላለጾች:\n- «የትምህርት ደረጃዬ ... ነው»\n- «የአምስት ዓመት የሥራ ልምድ አለኝ»\n- «በቡድን የመሥራት ከፍተኛ ችሎታ አለኝ»።",
       "examples": [
         {
-          "target": "መምህሩ የ«የሥራ ዓለም እና ሙያዎች (Professions & Workplace)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (13.4.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የሥራ ዓለም እና ሙያዎች (Professions & Workplace)' to the students."
+          "target": "ለክፍት የሥራ ቦታው ማመልከቻዬንና የሥራ ልምድ ማስረጃዬን (ሲቪ) በኢሜይል ላክሁ።",
+          "reading": "Läkəft yäśəra botaw mamälkäčaye-nna yäśəra ləmd masräğaye-n (sivi) bä-imeyl lakhut. [lɛkɨft jɛsɨra boˈtaw mamɛlkɛtʃaˈjenːa jɛsɨra lɨmd masrɛdʒaˈjen siˈvi bɛʔiˈmejl lakˈhut] (leh-KUFT yeh-suh-RAH boh-TOW mah-mel-keh-chah-YAYN-nah yeh-suh-RAH lumd mahs-reh-jah-YAYN see-VEE beh-ee-MAYL LAHK-hoot)",
+          "translation": "I sent my application and CV with proof of work experience for the open job vacancy via email."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (13.4.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "በቃለ መጠይቁ ወቅት ስለ ቀድሞ የሥራ ልምዴ እና ስለ ችሎታዬ በግልጽ አስረዳሁ።",
+          "reading": "Bäqalä mät’äyyəqu wäqət səlä qädmo yäśəra ləmde ənna səlä čəlotaye bägilts’ asräddahu. [bɛkʼalɛ mɛtʼɛjːɨˈkʼu wɛkʼt sɨlɛ kʼɛdˈmo jɛsɨra lɨmˈde ɨnːa sɨlɛ tʃɨlotaˈje bɛɡɨltsʼ ʔasrɛdːaˈhu] (beh-k'ah-LEH met'-ey-yuh-K'OO wehk'-T suh-leh k'ed-MOH yeh-suh-RAH lum-DAY un-nah suh-leh chuh-loh-tah-YAY beh-GULTS' ahs-red-dah-HOO)",
+          "translation": "During the interview, I explained clearly about my previous work experience and my skills."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (13.4.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (13.4.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ድርጅቱ ጥሩ ደመወዝና የተሟላ የጤና ዋስትና የሚሰጥ የቅጥር ውል አቀረበልኝ።",
+          "reading": "Dərəğğətu t’əru dämäwäznna yätämwāla yät’ena wastənna yämmisät’ yäqət’ər wəl aqärräbäləny. [dɨrɨdʒːɨˈtu tʼɨru dɛmɛwɛzɨnːa jɛtɛmʷaˈla jɛtʼeˈna wastɨnˈna jɛmːiˈsɛtʼ jɛkʼɨtʼɨr wɨl ʔakʼɛrːɛbɛˈlɨɲ] (duh-ruhd-juh-TOO t'uh-ROO deh-meh-wez-un-nah yeh-tem-wah-LAH yeh-t'ay-NAH wahs-tun-NAH yem-mee-SET' yeh-k'ut'-UR wul ah-k'er-reh-beh-LUNY)",
+          "translation": "The organization offered me an employment contract with good salary and full health insurance."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Hiring Path: ማመልከቻ (Application) -> ቃለ መጠይቅ (Interview) -> ውል (Contract) -> ደመወዝ (Salary)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ በሥራ ቃለ መጠይቅ ወቅት ጨዋነት፣ በራስ መተማመን እና ተገቢ አለባበስ ትልቅ ግምት ይሰጣቸዋል።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የሥራ ዓለም እና ሙያዎች (Professions & Workplace)» (ክፍል 4) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«Job interview and work experience» የሚለውን በአማርኛ ትክክለኛ የቅጥር ቃላት የገለጸው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«የሥራ ዓለም እና ሙያዎች (Professions & Workplace)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (13.4.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (13.4.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (13.4.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (13.4.w3)"
+            "የሥራ ቃለ መጠይቅ እና የሥራ ልምድ (Job interview and work experience - Accurate hiring terms)",
+            "የገበያ ሽያጭ",
+            "የእግር ኳስ ጨዋታ",
+            "የሲኒማ ትኬት"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«የሥራ ቃለ መጠይቅ» እና «የሥራ ልምድ» ሁለቱን ወሳኝ የቅጥር ቃላት ያመለክታሉ።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u13-l4) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'I sent my application and CV' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (13.4.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (13.4.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (13.4.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (13.4.x3)"
+            "ማመልከቻዬንና ሲቪዬን ላክሁ። (I sent my application and CV - Accurate job submission sentence)",
+            "ማመልከቻ አልጻፍኩም",
+            "ሲቪ የለኝም",
+            "ሥራ አልፈልግም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የሥራ ዓለም እና ሙያዎች (Professions & Workplace)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (13.4.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (13.4.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (13.4.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (13.4.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ማመልከቻዬንና ሲቪዬን ላክሁ» የማመልከቻን መላክ በትክክል ያሳያል።"
         }
       ]
     },
@@ -6316,24 +6221,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 13-4):",
+          "prompt": "የሥራ ማመልከቻና የቅጥር ሂደትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (13.4.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (13.4.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (13.4.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (13.4.z3)"
+            "የሥራ ማስታወቂያ፣ ማመልከቻ፣ ሲቪ፣ ቃለ መጠይቅ፣ የቅጥር ውል እና ደመወዝ።",
+            "የበረራ ትኬት፣ ፓስፖርት እና ሻንጣ።",
+            "ስኳር፣ ጨው እና ዘይት።",
+            "በአማርኛ የቅጥር ቃላት የሉም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የሥራ ቅጥር ሂደትን ደረጃዎች በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u13-l4) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የሥራ»):",
+          "prompt": "'ቃለ መጠይቅ / Interview' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የሥራ",
-            "የሥራ"
+            "ቃለ መጠይቅ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የሥራ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ቃለ መጠይቅ» (Qalä mät’äyyəq) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -6344,85 +6248,62 @@
     "subject": "amharic",
     "unit": 13,
     "lessonNumber": 5,
-    "title": "የሥራ ዓለም እና ሙያዎች (Professions & Workplace) (ክፍል 5)",
+    "title": "የክፍል 13 አጠቃላይ ማጠቃለያ (Unit 13 Grand Synthesis & Professional Discourse)",
     "level": "A2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የተለያዩ የሥራ መስኮች፣ የሥራ ማመልከቻ እና የቢሮ ውስጥ ግንኙነት። (ክፍል 5)።",
+    "objective": "ሙያዎችን፣ የሥራ ቦታዎችን፣ ኃላፊነቶችንና የቅጥር ውይይትን ያቀናጀ የተሟላ ሙያዊ ንግግር ማካሄድ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የክፍል ፲፫ አጠቃላይ ሰዋሰዋዊ ውህደት እና የሥራ ዓለም ተግባቦት ማጠቃለያ:\n\n፩. ዋና ዋና ሙያዎች:\n- መምህር፣ ሐኪም፣ መሃንዲስ፣ ነጋዴ፣ ሹፌር፣ ገበሬ፣ ጠበቃ።\n\n፪. የሥራ ቦታዎች:\n- ቢሮ፣ ሆስፒታል፣ ትምህርት ቤት፣ ፋብሪካ፣ ባንክ፣ ፍርድ ቤት፣ እርሻ።\n\n፫. የሥራ ተግባራትና ኃላፊነቶች:\n- ማስተማር፣ ማከም፣ ማስተዳደር፣ ሪፖርት ማዘጋጀት፣ ስብሰባ መምራት።\n\n፬. የቅጥር ሂደት:\n- ማመልከቻ፣ ሲቪ፣ ቃለ መጠይቅ፣ ውል፣ ደመወዝ።",
       "examples": [
         {
-          "target": "መምህሩ የ«የሥራ ዓለም እና ሙያዎች (Professions & Workplace)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (13.5.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የሥራ ዓለም እና ሙያዎች (Professions & Workplace)' to the students."
+          "target": "በሙያዬ መሃንዲስ ነኝ፤ በግንባታ ድርጅት ውስጥ ፕሮጀክቶችን በማስተባበር በከፍተኛ ኃላፊነት እሠራለሁ።",
+          "reading": "Bämuya-ye mähandis näny; bägənnbata dərəğğət wəst’ proğäktoččən bamastäbabbär bäkäftänya halaﬁnnät əsärrallähu. [bɛmujaˈje mɛhanˈdis nɛɲ bɛɡɨnbaˈta dɨrɨdʒːɨt wɨstʼ prodʒɛkˈtotʃːɨn bamastɛbabːɛr bɛkɛfˈtɛɲa halafiˈnːɛt ʔɨsɛrːaˈlːɛhu] (beh-moo-yah-YAY meh-hahn-DEES neny; beh-gun-BAH-tah duh-ruhd-juhT woos-T' proh-jek-TOHCH-chun bah-mahs-teh-bahb-BER beh-kef-TEN-yah hah-lah-feen-NET uh-ser-RAHL-leh-hoo)",
+          "translation": "I am an engineer by profession; I work with high responsibility coordinating projects in a construction firm."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (13.5.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "የተሳካ ቃለ መጠይቅ ካደረግሁ በኋላ ድርጅቱ በቋሚነት ቀጥሮኝ ሥራዬን ጀመርኩ።",
+          "reading": "Yätäsakka qalä mät’äyyəq kadärräghu bähwala dərəğğətu bäqwaminnät qät’t’ərony śərayen ğämmärkut. [jɛtɛsakːa kʼalɛ mɛtʼɛjːɨkʼ kaˈdɛrːɛɡhu bɛhʷaˈla dɨrɨdʒːɨˈtu bɛkʼwamɨnˈnɛt kʼɛtʼːɨˈroɲ sɨraˈjen dʒɛmːɛrˈkut] (yeh-teh-SAHK-kah k'ah-LEH met'-ey-yuhK' kah-der-REG-hoo beh-hwah-LAH duh-ruhd-juh-TOO beh-k'wah-mun-NET k'et'-t'uh-ROHNY suh-rah-YAYN jem-mer-KOOT)",
+          "translation": "After conducting a successful interview, the company hired me permanently and I began my work."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (13.5.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (13.5.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ታታሪ ሠራተኞች ለሀገር ሁለንተናዊ ዕድገትና ልማት የማይተካ አስተዋጽኦ ያበረክታሉ።",
+          "reading": "Tattari särratänyočč lähagär huläntänawi ʿədggätənna ləmat yämmayəttäkka astäwas’ots’o yabäräktallu. [tatːaˈri sɛrːatɛˈɲotʃː lɛhaˈɡɛr hulɛntɛnaˈwi ʔɨdɡːɛtɨnːa lɨˈmat jɛmːajɨtːɛkːa ʔastɛwasˤoˈtsʼo jabɛrɛkˈtalːu] (taht-tah-REE ser-rah-ten-yohch-CH leh-hah-GER hoo-len-teh-nah-WEE ud-get-un-nah luh-MAHT yem-mah-yut-TEK-kah ahs-teh-wah-ts'oh-TS'OH yah-beh-rek-TAHL-loo)",
+          "translation": "Hardworking employees make an irreplaceable contribution to the country's comprehensive growth and development."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Career Matrix: Profession (ሙያ) + Workplace (ቦታ) + Duty (ኃላፊነት) + Growth (ዕድገት)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ 'ሥራ ክብር ነው' የሚል ባህላዊ መርህ አለ፤ ማንኛውም ህጋዊና ጠቃሚ ሥራ የተከበረና የሚያኮራ እንደሆነ ይታመናል።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የሥራ ዓለም እና ሙያዎች (Professions & Workplace)» (ክፍል 5) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "ከሚከተሉት ውስጥ የተሟላ ሙያዊ ማንነትንና የሥራ ቦታን የሚያሳየው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«የሥራ ዓለም እና ሙያዎች (Professions & Workplace)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (13.5.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (13.5.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (13.5.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (13.5.w3)"
+            "እኔ መምህር ነኝ፤ በዩኒቨርሲቲ ውስጥ ተማሪዎችን አስተምራለሁ። (Complete professional identity and role)",
+            "እኔ ተማሪ አይደለሁም",
+            "ሥራ የለም",
+            "ቤት ተቀምጫለሁ"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ሙያን፣ የሥራ ቦታንና ተግባርን በአንድነት ያጠቃልላል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u13-l5) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "የሥራ ቅጥርንና የሥራ ጅማሬን ያጣመረው ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (13.5.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (13.5.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (13.5.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (13.5.x3)"
+            "ቃለ መጠይቁን አልፌ አዲሱን ሥራዬን በደስታ ጀመርኩ። (I passed the interview and happily started my new job - Integrated career milestone)",
+            "ሥራ አልፈልግም",
+            "ቃለ መጠይቅ የለም",
+            "ደመወዝ አልፈልግም"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የሥራ ዓለም እና ሙያዎች (Professions & Workplace)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (13.5.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (13.5.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (13.5.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (13.5.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ይህ አማራጭ ቃለ መጠይቅን ማለፍና ሥራ መጀመርን በትክክል ያዛምዳል።"
         }
       ]
     },
@@ -6430,24 +6311,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 13-5):",
+          "prompt": "የክፍል 13 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (13.5.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (13.5.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (13.5.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (13.5.z3)"
+            "ዋና ዋና ሙያዎች፣ የሥራ ቦታዎች፣ የዕለት ተዕለት የሥራ ኃላፊነቶች፣ እንዲሁም የሥራ ማመልከቻ፣ ሲቪ እና የቃለ መጠይቅ ውይይቶች ተካተዋል።",
+            "ይህ ክፍል ስለ ምግብ ዝግጅት ብቻ ነው።",
+            "በአማርኛ የሙያ ቃላት የሉም።",
+            "ሁሉም ሰዎች አንድ ዓይነት ሥራ ይሠራሉ።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የክፍል 13ን አጠቃላይ ሙያዊ ይዘት በሙሉ ይሸፍናል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u13-l5) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የሥራ»):",
+          "prompt": "'ሙያ / Profession, career, occupation' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የሥራ",
-            "የሥራ"
+            "ሙያ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የሥራ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ሙያ» (Muya) ነው።"
         }
       ],
       "passThreshold": 0.8
