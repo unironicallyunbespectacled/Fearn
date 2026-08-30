@@ -5167,85 +5167,89 @@
     "subject": "mandarin",
     "unit": 9,
     "lessonNumber": 1,
-    "title": "购物、价格与货币表达 (Shopping & Currency) (第1讲)",
+    "title": "人民币货币单位体系（元/角/分 vs 块/毛/分）与价格读法 (Renminbi Currency System & Price Reading)",
     "level": "A2",
-    "objective": "全面掌握与熟练运用本课核心内容：人民币货币单位（元/角/分/块/毛）、讨价还价、衣物尺码及商场购物实用表达。 (第1部分)。",
+    "objective": "系统掌握现代人民币货币单位的书面语（元角分）与口语（块毛分）对应体系，熟练掌握价格读法、省略规律及核心问价句式（多少钱/怎么卖）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在现代中国日常经济生活与商贸往来中，人民币（RMB / CNY）的货币单位与价格表达体系具有鲜明的书面语与口语双轨特征：\n\n一、人民币法定单位与口语称谓对照体系：\n1. 书面语法定单位：元 (yuán)、角 (jiǎo)、分 (fēn)。主要用于银行账目、正式发票、合同文本及书面明码标价。\n2. 口语生活俗称单位：块 (kuài)、毛 (máo)、分 (fēn)。主要用于日常市井买卖、街头交际与口语对话。\n- 进率关系：1元 = 10角 = 100分（1块 = 10毛 = 100分）。\n\n二、价格数字读法与口语省略铁律：\n1. 规范口语读法与末尾单位省略（极高频口语规律）：\n- ¥15.50 -> 十五块五（口语中末位的「毛」字通常习惯性省略）/ 十五块五毛。\n- ¥3.80 -> 三块八（等于三块八毛）。\n- ¥150.00 -> 一百五 / 一百五十块（口语中末位单位常省略）。\n\n2. 价格中「零」的读法铁律（绝对不能省略）：\n- ¥15.05 -> 十五块零五分（中间的「零」必须读出，且末尾的「分」绝对不能省略，否则会与「十五块五」混淆造成严重误会！）。\n- ¥105.00 -> 一百零五块（百位与个位之间的「零」必须读出）。\n\n三、高频问价核心句式：\n1.「这个/这种......多少钱？」(Zhè ge... duōshǎo qián?)\n2.「苹果/西红柿怎么卖？」(Píngguǒ zěnme mài?) —— 通常用于询问按斤或按个计价的生鲜商品。\n3.「一共多少钱？」(Yígòng duōshǎo qián?)",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「购物、价格与货币表达 (Shopping & Currency)」的核心语法法则与应用范例 (9.1.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '购物、价格与货币表达 (Shopping & Currency)' in simple terms to students at the academic seminar."
+          "target": "请问这种新鲜的红富士苹果怎么卖？——五块八毛一斤。(Qǐngwèn zhè zhǒng xīnxiān de Hóngfùshì píngguǒ zěnme mài? —Wǔ kuài bā máo yì jīn.)",
+          "reading": "[t͡ɕʰiŋ˨˩˦.wən˥˩ ʈ͡ʂɤ˥˩ ʈ͡ʂʊŋ˨˩˦ ɕin˥.ɕjɛn˥ tɤ xʊŋ˧˥.fu˥˩.ʂɨ˥˩ pʰiŋ˧˥.kwɔ˨˩˦ t͡sən˨˩.mɤ maɪ̯˥˩? —u˨˩˦ kʰwaɪ̯˥˩ pa˥ maʊ̯˧˥ i˥ t͡ɕin˥] (Qǐng-wèn zhè zhǒng xīn-xiān de Hóng-fù-shì píng-guǒ zěn-me mài? —Wǔ kuài bā máo yì jīn.)",
+          "translation": "Excuse me, how much are these fresh Red Fuji apples? —Five yuan eighty cents per half-kilogram (jin)."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (9.1.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "这件纯棉衬衫在商场打完折后是一百八十五块钱。(Zhè jiàn chúnmián chènshān zài shāngchǎng dǎ wán zhé hòu shì yībǎi bāshíwǔ kuài qián.)",
+          "reading": "[ʈ͡ʂɤ˥˩ t͡ɕjɛn˥˩ ʈ͡ʂʰwən˧˥.mjɛn˧˥ ʈ͡ʂʰən˥˩.ʂan˥ t͡saɪ̯˥˩ ʂɑŋ˥.ʈ͡ʂʰɑŋ˨˩˦ ta˨˩˦ wan˧˥ ʈ͡ʂɤ˧˥ xoʊ̯˥˩ ʂɨ˥˩ i˥.paɪ̯˨˩˦ pa˥.ʂɨ˧˥.u˨˩˦ kʰwaɪ̯˥˩ t͡ɕʰjɛn˧˥] (Zhè jiàn chún-mián chèn-shān zài shāng-chǎng dǎ wán zhé hòu shì yī-bǎi bā-shí-wǔ kuài qián.)",
+          "translation": "This pure cotton shirt is 185 yuan after the discount in the department store."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (9.1.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "一共是六十四块零五分，请问您刷卡还是扫码支付？(Yígòng shì liùshísì kuài líng wǔ fēn, qǐngwèn nín shuākǎ háishì sǎomǎ zhīfù?)",
+          "reading": "[i˧˥.kʊŋ˥˩ ʂɨ˥˩ ljoʊ̯˥˩.ʂɨ˧˥.sɨ˥˩ kʰwaɪ̯˥˩ liŋ˧˥ u˨˩˦ fən˥, t͡ɕʰiŋ˨˩˦.wən˥˩ nin˧˥ ʂwa˥.kʰa˨˩˦ xaɪ̯˧˥.ʂɨ˥˩ saʊ̯˨˩.ma˨˩˦ ʈ͡ʂɨ˥.fu˥˩?] (Yí-gòng shì liù-shí-sì kuài líng wǔ fēn, qǐng-wèn nín shuā-kǎ hái-shì sǎo-mǎ zhī-fù?)",
+          "translation": "The total is sixty-four yuan and five cents; would you like to pay by card or by scanning a QR code?"
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (9.1.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "商业合同上明确写着本次设备采购的总金额为两万三千五百元整。(Shāngyè hétong shang míngquè xiě zhe běncì shèbèi cǎigòu de zǒng jīné wéi liǎng wàn sān qiān wǔ bǎi yuán zhěng.)",
+          "reading": "[ʂɑŋ˥.jɛ˥˩ xɤ˧˥.tʰʊŋ ʂɑŋ miŋ˧˥.t͡ɕʰɥɛ˥˩ ɕjɛ˨˩˦ ʈ͡ʂɤ pən˨˩.t͡sʰɨ˥˩ ʂɤ˥˩.peɪ̯˥˩ t͡sʰaɪ̯˨˩.koʊ̯˥˩ tɤ t͡sʊŋ˨˩˦ t͡ɕin˥.ɤ˧˥ weɪ̯˧˥ ljaŋ˨˩˦ wan˥˩ san˥ t͡ɕʰjɛn˥ u˨˩˦ paɪ̯˨˩˦ jɥɛn˧˥ ʈ͡ʂɤŋ˨˩˦] (Shāng-yè hé-tong shang míng-què xiě zhe běn-cì shè-bèi cǎi-gòu de zǒng jīn-é wéi liǎng wàn sān qiān wǔ bǎi yuán zhěng.)",
+          "translation": "The commercial contract explicitly states that the total amount for this equipment procurement is exactly 23,500 yuan."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "元角分字写账目，块毛分音出市井；点五读毛省尾缀，中间有零莫漏声！"
+      ],
+      "culturalNotes": [
+        "人民币是中国法定流通货币。在中国口语语境中，「块」与「毛」的应用频率极高。在菜市场和水果店，商品计价通常以市制单位「斤（1斤 = 500克 / 0.5公斤）」为基准，问价时常说「多少钱一斤」。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「购物、价格与货币表达 (Shopping & Currency)」（第1讲）的标准汉语规范？",
+          "prompt": "在口语日常交际中，价格「¥18.50」最常用且自然的口语读法是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「购物、价格与货币表达 (Shopping & Currency)」的核心语法法则与应用范例 (9.1.1)。",
-            "存在语序混乱且虚词误用的病句选项 (9.1.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (9.1.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (9.1.w3)"
+            "十八块五 (shíbā kuài wǔ - 'máo' omitted naturally)",
+            "十八元五角零分",
+            "十八个钱五个钱",
+            "十八元角五"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "口语中¥18.50通常读作「十八块五」，末尾的「毛」字习惯性省略。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "价格「¥12.05」正确的读法是（注意中间有零）：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "十二块零五分 (中间有零，末尾「分」不可省)",
+            "十二块五 (这是¥12.50的读法，会产生混淆)",
+            "十二块零五",
+            "十二点零五块毛"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "¥12.05中间有零，必须读「十二块零五分」，末尾「分」字绝对不可省。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「购物、价格与货币表达 (Shopping & Currency)」的正式语境下，最准确得体的表达是哪一项？（第9.1题）",
+          "prompt": "在水果摊询问西瓜的价格，最地道规范的口语问法是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (9.1.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (9.1.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (9.1.x2)",
-            "量词与名词修饰搭配错误的病句选项 (9.1.x3)"
+            "老板，西瓜怎么卖？ / 这个西瓜多少钱一斤？",
+            "老板，西瓜怎么买去？",
+            "老板，西瓜的价格是多少元角？",
+            "老板，西瓜多少货币？"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「怎么卖？」或「多少钱一斤？」是市井买卖中最地道的问价句式。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u9-l1）所要求的高阶语言表达？",
+          "prompt": "下列人民币货币单位中，属于正式书面语规范单位的一组是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (9.1.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (9.1.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (9.1.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (9.1.y3)"
+            "元、角、分 (Official written currency units)",
+            "块、毛、分",
+            "个、张、张",
+            "本、只、条"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「元、角、分」是人民币法定的正式书面语货币单位。"
         }
       ]
     },
@@ -5253,25 +5257,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「购物、价格与货币表达 (Shopping & Currency)」的掌握程度，请选出表述完全正确的标准范句（测试 9-1）：",
+          "prompt": "请选出下列关于人民币价格读法完全正确且符合交际规范的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (9.1.4)。",
-            "被动句式与处置句式混用导致的严重病句 (9.1.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (9.1.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (9.1.z3)"
+            "这盒优质碧螺春茶叶标价是两百零八块整，如果买两盒一共四百一十六块钱。(价格读法与货币量词完全严谨规范)",
+            "这盒茶叶标价是两百八块整，买两盒四百一十六元角。(数字与单位混乱)",
+            "这盒茶叶标价是两百块零八毛分，买两盒四百十六块。(读法不通)",
+            "这盒茶叶两百零八元钱块，买两盒一共四百一十六个。(单位杂糅)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "「两百零八块」、「四百一十六块钱」数字发音与货币搭配天衣无缝。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u9-l1）的核心关键词（例如「购物、价」）：",
+          "prompt": "请输入人民币口语中最核心的主币单位单字汉字（拼音为 kuài）：",
           "acceptedAnswers": [
-            "购物、价",
-            "购物、价格与",
-            "购物、价格与货币表达"
+            "块"
           ],
-          "explanation": "正确的核心关键词为「购物、价」。"
+          "explanation": "汉字「块」是现代汉语口语中指称「元」的最核心货币单位。"
         }
       ],
       "passThreshold": 0.8
@@ -5282,85 +5284,89 @@
     "subject": "mandarin",
     "unit": 9,
     "lessonNumber": 2,
-    "title": "购物、价格与货币表达 (Shopping & Currency) (第2讲)",
+    "title": "商场选购、衣物尺寸、颜色与试穿交际（件/条/双、大号/中号/小号、试一试） (Shopping for Clothes, Sizes, Colors & Trying On)",
     "level": "A2",
-    "objective": "全面掌握与熟练运用本课核心内容：人民币货币单位（元/角/分/块/毛）、讨价还价、衣物尺码及商场购物实用表达。 (第2部分)。",
+    "objective": "熟练掌握服饰类专属量词搭配（件/条/双/顶）、尺码表达（大号/中号/小号/合身）、动词重叠式试穿请求（试一试）及「有点儿」与「一点儿」的精细辨析。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在商场挑选试穿衣物是日常生活极其重要的交际板块，涉及专属量词、尺码颜色与评价副词的系统搭配：\n\n一、服饰类专属量词严密搭配系统：\n1.「件 (jiàn)」：专用于上衣、外套、大衣、衬衫、毛衣、西装（一件衬衫、一件羽绒服）。\n2.「条 (tiáo)」：专用于下装、长条状配饰（一条裤子、一条牛仔裤、一条连衣裙、一条围巾、一条领带）。\n3.「双 (shuāng)」：专用于成双成对的鞋袜手套（一双皮鞋、一双运动鞋、一双袜子）。\n4.「顶 (dǐng)」：专用于帽子（一顶棒球帽、一顶羊毛帽）。\n\n二、服装尺码与肥瘦松紧词汇体系：\n- 尺码规格：大号 (L / dàhào)、中号 (M / zhōnghào)、小号 (S / xiǎohào)、加大号 (XL / jiādàhào)。\n- 穿着体感：合身 (héshēn / fits well)、合适 (héshì)、肥 (féi / too loose)、瘦 (shòu / too tight)、长 (cháng)、短 (duǎn)。\n\n三、「有点儿」与「一点儿」的极重要句法辨析：\n1.「有点儿 (yǒudiǎnr) + 形容词」：置于形容词**之前**，通常表达说话人**消极、不如意、带有抱怨或微词**的感受：\n- 这件大衣[有点儿大]。(A bit too big - undesirable)\n- 这双鞋[有点儿贵]。(A bit too expensive)\n2.「形容词 + 一点儿 (yìdiǎnr)」：置于形容词**之后**，表达说话人的**期待、要求或客观微量调整**：\n- 有没有[便宜一点儿]的？(Can it be a bit cheaper?)\n- 请帮我拿一件[小一点儿]的衬衫。(Please bring a slightly smaller shirt.)\n\n四、试穿委婉请求句式：\n-「请问我可以试一试 / 试穿一下吗？」(Qǐngwèn wǒ kěyǐ shì yi shì ma?)\n-「试衣间 (shìyījiān)」在哪里？",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「购物、价格与货币表达 (Shopping & Currency)」的核心语法法则与应用范例 (9.2.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '购物、价格与货币表达 (Shopping & Currency)' in simple terms to students at the academic seminar."
+          "target": "服务员，这件黑色大衣有点儿大，请帮我拿一件中号的试一试。(Fúwùyuán, zhè jiàn hēisè dàyī yǒudiǎnr dà, qǐng bāng wǒ ná yí jiàn zhōnghào de shì yi shì.)",
+          "reading": "[fu˧˥.u˥˩.jɥɛn˧˥, ʈ͡ʂɤ˥˩ t͡ɕjɛn˥˩ xeɪ̯˥.sɤ˥˩ ta˥˩.i˥ joʊ̯˨˩.tjɛɚ˨˩˦ ta˥˩, t͡ɕʰiŋ˨˩˦ pɑŋ˥ wɔ˨˩ na˧˥ i˥ t͡ɕjɛn˥˩ ʈ͡ʂʊŋ˥.xaʊ̯˥˩ tɤ ʂɨ˥˩ i ʂɨ˥˩] (Fú-wù-yuán, zhè jiàn hēi-sè dà-yī yǒu-diǎnr dà, qǐng bāng wǒ ná yí jiàn zhōng-hào de shì yi shì.)",
+          "translation": "Salesperson, this black overcoat is a bit too big; please help me get a medium-sized one to try on."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (9.2.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "这条深蓝色牛仔裤肥瘦刚刚好，穿起来非常合身舒适。(Zhè tiáo shēnlánsè niúzǎikù féishòu gānggāng hǎo, chuān qǐlai fēicháng héshēn shūshì.)",
+          "reading": "[ʈ͡ʂɤ˥˩ tʰjaʊ̯˧˥ ʂən˥.lan˧˥.sɤ˥˩ njoʊ̯˧˥.t͡saɪ̯˨˩.kʰu˥˩ feɪ̯˧˥.ʂoʊ̯˥˩ kɑŋ˥.kɑŋ˥ xaʊ̯˨˩˦, t͡ʂʰwan˥ t͡ɕʰi.laɪ̯ feɪ̯˥.ʈ͡ʂʰɑŋ˧˥ xɤ˧˥.ʂən˥ ʂu˥.ʂɨ˥˩] (Zhè tiáo shēn-lán-sè niú-zǎi-kù féi-shòu gāng-gāng hǎo, chuān qǐ-lai fēi-cháng hé-shēn shū-shì.)",
+          "translation": "These dark blue jeans are just right in width; they are very well-fitting and comfortable to wear."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (9.2.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "您觉得这双皮鞋的颜色怎么样？——样式挺好看，就是颜色稍微深了一点儿。(Nín juéde zhè shuāng píxié de yánsè zěnmeyàng? —Yàngshì tǐng hǎokàn, jiùshì yánsè shāowēi shēn le yìdiǎnr.)",
+          "reading": "[nin˧˥ t͡ɕɥɛ˧˥.tɤ ʈ͡ʂɤ˥˩ ʂwaŋ˥ pʰi˧˥.ɕjɛ˧˥ tɤ jɛn˧˥.sɤ˨˩˦ t͡sən˨˩.mɤ.jɑŋ˥˩? —jɑŋ˥˩.ʂɨ˥˩ tʰiŋ˨˩˦ xaʊ̯˨˩.kʰan˥˩, t͡ɕjoʊ̯˥˩.ʂɨ˥˩ jɛn˧˥.sɤ˨˩˦ ʂaʊ̯˥.weɪ̯˥ ʂən˥ lɤ i˥.tjɛɚ˨˩˦] (Nín jué-de zhè shuāng pí-xié de yán-sè zěn-me-yàng? —Yàng-shì tǐng hǎo-kàn, jiù-shì yán-sè shāo-wēi shēn le yì-diǎnr.)",
+          "translation": "What do you think of the color of this pair of leather shoes? —The style is quite nice, but the color is just slightly a bit too dark."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (9.2.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "试衣间在专卖店的里侧，您可以先进去试穿一下这套西服。(Shìyījiān zài zhuānmàidiàn de lǐcè, nín kěyǐ xiān jìnqù shìchuān yíxià zhè tào xīfú.)",
+          "reading": "[ʂɨ˥˩.i˥.t͡ɕjɛn˥ t͡saɪ̯˥˩ ʈ͡ʂwan˥.maɪ̯˥˩.tjɛn˥˩ tɤ li˨˩.t͡sʰɤ˥˩, nin˧˥ kʰɤ˨˩.i˨˩˦ ɕjɛn˥ t͡ɕin˥˩.t͡ɕʰy ʂɨ˥˩.t͡ʂʰwan˥ i˥.ɕja˥˩ ʈ͡ʂɤ˥˩ tʰaʊ̯˥˩ ɕi˥.fu˧˥] (Shì-yī-jiān zài zhuān-mài-diàn de lǐ-cè, nín kě-yǐ xiān jìn-qù shì-chuān yí-xià zhè tào xī-fú.)",
+          "translation": "The fitting room is on the inner side of the specialty store; you can go inside first to try on this suit."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "有点儿大来有点儿贵，消极不快置词前；便宜一点儿大一点儿，微调期望放后边！"
+      ],
+      "culturalNotes": [
+        "在中国的品牌服装专卖店与商场专柜，店员服务非常主动热情。进店时店员常会问候「您好，想看点儿什么？」，试穿后常夸赞「这件衣服特别显您的气质」。掌握得体的客套回应能让购物体验格外温馨融洽。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「购物、价格与货币表达 (Shopping & Currency)」（第2讲）的标准汉语规范？",
+          "prompt": "要表达「这条裤子我觉得有点太紧了（表达消极感受）」，正确的句子是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「购物、价格与货币表达 (Shopping & Currency)」的核心语法法则与应用范例 (9.2.1)。",
-            "存在语序混乱且虚词误用的病句选项 (9.2.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (9.2.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (9.2.w3)"
+            "这条裤子有点儿紧。(有点儿 + 形容词 表示消极不如意)",
+            "这条裤子紧一点儿。",
+            "这条裤子一点儿有紧。",
+            "这条裤子紧有点儿。"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "表达说话人主观上不合心意的感受，使用「有点儿 + 形容词」（有点儿紧）。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "向店员提出期望「请帮我拿一件稍微大一点的衬衫」，正确的句子是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "请帮我拿一件大一点儿的衬衫。(形容词 + 一点儿 表示期待微调)",
+            "请帮我拿一件有点儿大的衬衫。",
+            "请帮我拿一件一点儿有大的衬衫。",
+            "请帮我拿一件大有点儿的衬衫。"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "表示希望尺寸进行微量调整，使用「形容词 + 一点儿」（大一点儿）。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「购物、价格与货币表达 (Shopping & Currency)」的正式语境下，最准确得体的表达是哪一项？（第9.2题）",
+          "prompt": "下列哪一项量词与服饰名词的搭配完全符合现代汉语规范？",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (9.2.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (9.2.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (9.2.x2)",
-            "量词与名词修饰搭配错误的病句选项 (9.2.x3)"
+            "一件外套、两条裤子、一双皮鞋 (件配上装，条配下装，双配鞋袜)",
+            "一条外套、一件裤子、一顶皮鞋",
+            "一双外套、一顶裤子、一件皮鞋",
+            "一顶外套、一条皮鞋、一件裤子"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "外套用「件」，裤子用「条」，鞋袜用「双」，这是汉语量词铁律。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u9-l2）所要求的高阶语言表达？",
+          "prompt": "想询问试衣间的位置，最得体的交际用语是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (9.2.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (9.2.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (9.2.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (9.2.y3)"
+            "请问，试衣间在哪里？我想试穿一下。(Qǐngwèn, shìyījiān zài nǎlǐ?)",
+            "喂，试衣间在哪里去？",
+            "试衣服屋子在何处？",
+            "我想穿衣服房子在哪里？"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「试衣间」是试穿衣服场所的标准专业词汇，句式礼貌规范。"
         }
       ]
     },
@@ -5368,25 +5374,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「购物、价格与货币表达 (Shopping & Currency)」的掌握程度，请选出表述完全正确的标准范句（测试 9-2）：",
+          "prompt": "请选出下列试穿选购对话中量词、尺码与副词搭配完全严谨得体的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (9.2.4)。",
-            "被动句式与处置句式混用导致的严重病句 (9.2.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (9.2.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (9.2.z3)"
+            "服务员，这件大号毛衣我穿有点儿肥，请帮我换一件中号的试一试，谢谢。(件、有点儿肥、中号、试一试搭配精准完美)",
+            "服务员，这条毛衣我穿肥一点儿，换一顶大号试。(量词与副词错位)",
+            "服务员，这件毛衣我穿一点儿肥，换一条小号看。(副词语序颠倒)",
+            "服务员，这双毛衣大号有肥，换件试一。(词汇搭配严重错乱)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "「一件毛衣」、「有点儿肥」（消极）、「换一件中号」（期望）、「试一试」（重叠），无可挑剔。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u9-l2）的核心关键词（例如「购物、价」）：",
+          "prompt": "请输入商场服装店中供顾客试穿衣服的专属空间三字名词（拼音为 shìyījiān）：",
           "acceptedAnswers": [
-            "购物、价",
-            "购物、价格与",
-            "购物、价格与货币表达"
+            "试衣间"
           ],
-          "explanation": "正确的核心关键词为「购物、价」。"
+          "explanation": "词语「试衣间」是现代商场与服装专卖店中试穿衣物的核心设施名词。"
         }
       ],
       "passThreshold": 0.8
@@ -5397,85 +5401,89 @@
     "subject": "mandarin",
     "unit": 9,
     "lessonNumber": 3,
-    "title": "购物、价格与货币表达 (Shopping & Currency) (第3讲)",
+    "title": "讨价还价艺术与优惠折扣表达（打折、打八折、太贵了、便宜点儿、买一赠一） (Bargaining & Discounts - da zhe)",
     "level": "A2",
-    "objective": "全面掌握与熟练运用本课核心内容：人民币货币单位（元/角/分/块/毛）、讨价还价、衣物尺码及商场购物实用表达。 (第3部分)。",
+    "objective": "系统掌握现代汉语「打折」逆向折扣计算法则（打八折=按原价80%结算），熟练掌握市场讨价还价委婉交际句型与商场促销优惠表达。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在汉语商业交际与市井购物中，折扣计算与议价表达具有极具特色的文化与句法逻辑：\n\n一、「打折 (dǎzhé)」与中西逆向思维折扣算法（极重要核心考点）：\n1. 核心定义：汉语中的「打X折」指的是**以原价的X成（即百分之X十）出售**，与西方的折扣逻辑（减免百分比）刚好相反：\n-「打九折 (dǎ jiǔ zhé)」：按原价的90%付款（即减价10% / 10% off）。\n-「打八折 (dǎ bā zhé)」：按原价的80%付款（即减价20% / 20% off）。\n-「打七五折 (dǎ qī wǔ zhé)」：按原价的75%付款（即减价25% / 25% off）。\n-「打五折 / 打对折 (dǎ duìzhé)」：按原价的50%付款（即半价 / Half price）。\n-「打一折 (dǎ yì zhé)」：按原价的10%付款（即巨额减价90% / 90% off）。\n\n二、市井讨价还价委婉交际句型：\n1. 表达价格偏高与请求降价：\n-「太贵了，能不能便宜一点儿？」(Tài guì le, néng bu néng piányi yìdiǎnr?)\n-「老板，给个实惠价吧！」\n-「最低多少钱能卖？」\n2. 增加购买量争取优惠：\n-「老板，如果我买两件，能算便宜点儿吗？」\n\n三、现代商场促销与优惠高频词汇：\n-「买一赠一 / 买一送一 (mǎi yī zèng yī)」(Buy one get one free)\n-「满减优惠 (mǎnjiǎn)」：满两百减五十 (Get 50 off on purchases over 200)\n-「清仓大减价 (qīngcāng dà jiǎnjià)」(Clearance sale)\n-「包邮 (bāoyóu)」(Free shipping)",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「购物、价格与货币表达 (Shopping & Currency)」的核心语法法则与应用范例 (9.3.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '购物、价格与货币表达 (Shopping & Currency)' in simple terms to students at the academic seminar."
+          "target": "这款真丝围巾原价三百元，商场店庆全场打八折，现价二百四十元。(Zhè kuǎn zhēnsī wéijīn yuánjià sānbǎi yuán, shāngchǎng diànqìng quánchǎng dǎ bā zhé, xiànjià èrbǎi sìshí yuán.)",
+          "reading": "[ʈ͡ʂɤ˥˩ kʰwan˨˩˦ ʈ͡ʂən˥.sɨ˥ weɪ̯˧˥.t͡ɕin˥ jɥɛn˧˥.t͡ɕja˥˩ san˥.paɪ̯˨˩˦ jɥɛn˧˥, ʂɑŋ˥.ʈ͡ʂʰɑŋ˨˩˦ tjɛn˥˩.t͡ɕʰiŋ˥˩ t͡ɕʰyɛn˧˥.ʈ͡ʂʰɑŋ˨˩˦ ta˨˩˦ pa˥ ʈ͡ʂɤ˧˥, ɕjɛn˥˩.t͡ɕja˥˩ aɚ˥˩.paɪ̯˨˩˦ sɨ˥˩.ʂɨ˧˥ jɥɛn˧˥] (Zhè kuǎn zhēn-sī wéi-jīn yuán-jià sān-bǎi yuán, shāng-chǎng diàn-qìng quán-chǎng dǎ bā zhé, xiàn-jià èr-bǎi sì-shí yuán.)",
+          "translation": "The original price of this real silk scarf was 300 yuan; for the store anniversary, the entire store is 20% off (at 80% price), and the current price is 240 yuan."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (9.3.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "老板，这套紫砂茶具一百块钱卖不卖？便宜一点儿我就买两套。(Lǎobǎn, zhè tào zǐshā chájù yībǎi kuài qián mài bu mài? Piányi yìdiǎnr wǒ jiù mǎi liǎng tào.)",
+          "reading": "[laʊ˨˩.pan˨˩˦, ʈ͡ʂɤ˥˩ tʰaʊ̯˥˩ t͡sɨ˨˩.ʂa˥ ʈ͡ʂʰa˧˥.t͡ɕy˥˩ i˥.paɪ̯˨˩˦ kʰwaɪ̯˥˩ t͡ɕʰjɛn˧˥ maɪ̯˥˩ pu maɪ̯˥˩? pʰjɛn˧˥.i i˥.tjɛɚ˨˩˦ wɔ˨˩ t͡ɕjoʊ̯˥˩ maɪ̯˨˩˦ ljaŋ˨˩˦ tʰaʊ̯˥˩] (Lǎo-bǎn, zhè tào zǐ-shā chá-jù yī-bǎi kuài qián mài bu mài? Pián-yi yì-diǎnr wǒ jiù mǎi liǎng tào.)",
+          "translation": "Boss, will you sell this set of purple clay tea set for 100 yuan? If it's a bit cheaper, I'll buy two sets."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (9.3.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "超市周末搞大型促销活动，所有进口优质牛奶一律买一箱送一箱。(Chāoshì zhōumò gǎo dàxíng cùxiāo huódòng, suǒyǒu jìnkǒu yōuzhì niúnǎi yílǜ mǎi yì xiāng sòng yì xiāng.)",
+          "reading": "[t͡ʂʰaʊ̯˥.ʂɨ˥˩ ʈ͡ʂoʊ̯˥.mwɔ˥˩ kaʊ̯˨˩˦ ta˥˩.ɕiŋ˧˥ t͡sʰu˥˩.ɕjaʊ̯˥ xwo˧˥.tʊŋ˥˩, swɔ˨˩˦.joʊ̯˨˩˦ t͡ɕin˥˩.kʰoʊ̯˨˩˦ joʊ̯˥.ʈ͡ʂɨ˥˩ njoʊ̯˧˥.naɪ̯˨˩˦ i˧˥.ly˥˩ maɪ̯˨˩˦ i˥ ɕjaŋ˥ sʊŋ˥˩ i˥ ɕjaŋ˥] (Chāo-shì zhōu-mò gǎo dà-xíng cù-xiāo huó-dòng, suǒ-yǒu jìn-kǒu yōu-zhì niú-nǎi yí-lǜ mǎi yì xiāng sòng yì xiāng.)",
+          "translation": "The supermarket is holding a large promotional campaign this weekend; all imported high-quality milk is buy-one-get-one-free without exception."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (9.3.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "这种手工艺品虽然做工精细，但价格确实有点儿贵，能给我们打个九折吗？(Zhè zhǒng shǒugōngyìpǐn suīrán zuògōng jīngxì, dàn jiàgé quèshí yǒudiǎnr guì, néng gěi wǒmen dǎ ge jiǔ zhé ma?)",
+          "reading": "[ʈ͡ʂɤ˥˩ ʈ͡ʂʊŋ˨˩˦ ʂoʊ̯˨˩.kʊŋ˥.i˥˩.pʰin˨˩˦ sweɪ̯˥.ʐan˧˥ t͡swɔ˥˩.kʊŋ˥ t͡ɕiŋ˥.ɕi˥˩, tan˥˩ t͡ɕja˥˩.kɤ˧˥ t͡ɕʰɥɛ˥˩.ʂɨ˧˥ joʊ̯˨˩.tjɛɚ˨˩˦ kweɪ̯˥˩, nɤŋ˧˥ keɪ̯˨˩˦ wɔ˨˩.mən ta˨˩˦ kɤ t͡ɕjoʊ̯˨˩˦ ʈ͡ʂɤ˧˥ ma?] (Zhè zhǒng shǒu-gōng-yì-pǐn suī-rán zuò-gōng jīng-xì, dàn jià-gé què-shí yǒu-diǎnr guì, néng gěi wǒ-men dǎ ge jiǔ zhé ma?)",
+          "translation": "Although this handicraft has fine workmanship, the price is indeed a bit expensive; could you give us a 10% discount (90% price)?"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "打八折来付八成，打七五折付七五；逆向思维算折扣，便宜点儿巧交流！"
+      ],
+      "culturalNotes": [
+        "掌握中国独特的「打折」计算法是跨文化交际的必修课（如看到商场挂出「全场5折」，即为半价特惠）。在传统手工艺品集市或古玩市场，适度而礼貌的讨价还价是促进买卖双方交流互动的市井文化魅力所在。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「购物、价格与货币表达 (Shopping & Currency)」（第3讲）的标准汉语规范？",
+          "prompt": "在商场看到一件标价200元的衣服正在「打八折」，顾客最终需要支付的实际金额是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「购物、价格与货币表达 (Shopping & Currency)」的核心语法法则与应用范例 (9.3.1)。",
-            "存在语序混乱且虚词误用的病句选项 (9.3.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (9.3.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (9.3.w3)"
+            "160元 (按原价的80%计算：200 × 0.8 = 160元)",
+            "40元 (误将打八折理解为减免80%)",
+            "20元",
+            "180元"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「打八折」即按原价的80%付款（200 × 0.8 = 160元）。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在小商品集市上，向摊主委婉请求降低价格，最得体的表达是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "老板，能不能便宜一点儿？(Néng bu néng piányi yìdiǎnr?)",
+            "老板，你必须给我很便宜！",
+            "老板，我不给你钱！",
+            "老板，价格太便宜了！"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「能不能便宜一点儿？」是集市议价中最经典得体的礼貌表达。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「购物、价格与货币表达 (Shopping & Currency)」的正式语境下，最准确得体的表达是哪一项？（第9.3题）",
+          "prompt": "促销术语「买一赠一」表达的真实含义是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (9.3.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (9.3.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (9.3.x2)",
-            "量词与名词修饰搭配错误的病句选项 (9.3.x3)"
+            "购买一件商品，免费赠送同款或指定商品一件 (Buy one get one free)",
+            "买一件商品收两件的钱",
+            "买一件商品打一折",
+            "买两件商品只给一件"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「买一赠一/买一送一」即买一件免费赠送一件。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u9-l3）所要求的高阶语言表达？",
+          "prompt": "商场进行半价促销，海报上最规范典雅的中文表达是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (9.3.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (9.3.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (9.3.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (9.3.y3)"
+            "全场打五折 / 全场打对折 (Half price)",
+            "全场打半折",
+            "全场打二折",
+            "全场打十折"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "半价在汉语中表述为「打五折」或「打对折」。"
         }
       ]
     },
@@ -5483,25 +5491,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「购物、价格与货币表达 (Shopping & Currency)」的掌握程度，请选出表述完全正确的标准范句（测试 9-3）：",
+          "prompt": "请选出下列关于商场折扣与议价表述完全正确无误的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (9.3.4)。",
-            "被动句式与处置句式混用导致的严重病句 (9.3.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (9.3.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (9.3.z3)"
+            "这套精美的中国茶具原价四百元，现在商场搞促销打七五折，实付三百元即可买下。(折扣计算 400 × 0.75 = 300元 完全精确)",
+            "这套茶具原价四百元，打七五折后实付一百元。(计算错误)",
+            "这套茶具原价四百元，打七折五后实付七十五元。(算法混乱)",
+            "这套茶具打折七五，四百元减去三百五。(表达不通)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "400元打七五折（400 × 0.75 = 300元），计算与语法表述无懈可击。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u9-l3）的核心关键词（例如「购物、价」）：",
+          "prompt": "请输入汉语中表达商品按比例降价出售的核心双字动词词语（拼音为 dǎzhé）：",
           "acceptedAnswers": [
-            "购物、价",
-            "购物、价格与",
-            "购物、价格与货币表达"
+            "打折"
           ],
-          "explanation": "正确的核心关键词为「购物、价」。"
+          "explanation": "词语「打折」是现代汉语中指称折扣促销的最核心动词词汇。"
         }
       ],
       "passThreshold": 0.8
@@ -5512,85 +5518,89 @@
     "subject": "mandarin",
     "unit": 9,
     "lessonNumber": 4,
-    "title": "购物、价格与货币表达 (Shopping & Currency) (第4讲)",
+    "title": "现代移动支付与结账结算交际（微信支付、支付宝、扫码、发票与退换货） (Mobile Payments & Checkout Discourse)",
     "level": "A2",
-    "objective": "全面掌握与熟练运用本课核心内容：人民币货币单位（元/角/分/块/毛）、讨价还价、衣物尺码及商场购物实用表达。 (第4部分)。",
+    "objective": "熟练掌握现代移动支付全流程词汇与交际（微信支付/支付宝/扫码/出示付款码）、发票索取及售后退换货（七天无理由退货/小票）标准句式。",
     "presentation": {
-      "explanation": "",
+      "explanation": "现代中国社会的商品交易与日常结账已全面进入移动数字化时代，掌握移动支付与售后交际是不可或缺的生存技能：\n\n一、移动支付核心词汇与操作指令：\n1. 主流移动支付平台：微信支付 (Wēixìn zhīfù)、支付宝 (Zhīfùbǎo)、云闪付 (Yúnshǎnfù)、刷银行卡 (shuā yínhángkǎ)、现金支付 (xiànjīn zhīfù)。\n2. 扫码主被动交互句式：\n-「我扫你 (Wǒ sǎo nǐ)」：顾客用手机摄像头扫描商家的静态或动态「收款码 (shōukuǎnmǎ)」输入金额付款。\n-「你扫我 (Nǐ sǎo wǒ)」：顾客在手机上打开「付款码 (fùkuǎnmǎ)」，商家用扫码枪或POS机扫描扣款。\n\n二、结账与收银经典交际用语：\n-「服务员 / 老板，买单 / 结账！」(Mǎidān / Jiézhàng!)\n-「请问支持微信或支付宝吗？」\n-「请出示您的付款码。」\n-「已经扫码付过了，您看一眼到账提示。」\n\n三、发票索取与售后退换货保障：\n1. 索取票据：\n-「请给我开一张发票 (fāpiào)」/「可以开电子发票 (diànzǐ fāpiào) 吗？」\n-「购物小票 / 收银条 (xiǎopiào / shōuyíntheader)」\n2. 售后权益保障：\n-「七天无理由退货 (qī tiān wú lǐyóu tuìhuò)」\n-「凭购物小票办理退货 (tuìhuò) 或换货 (huànhuò)」",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「购物、价格与货币表达 (Shopping & Currency)」的核心语法法则与应用范例 (9.4.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '购物、价格与货币表达 (Shopping & Currency)' in simple terms to students at the academic seminar."
+          "target": "服务员，结账！请问这里支持微信支付和支付宝吗？——都可以，请出示您的付款码。(Fúwùyuán, jiézhàng! Qǐngwèn zhèlǐ zhīchí Wēixìn zhīfù hé Zhīfùbǎo ma? —Dōu kěyǐ, qǐng chūshì nín de fùkuǎnmǎ.)",
+          "reading": "[fu˧˥.u˥˩.jɥɛn˧˥, t͡ɕjɛ˧˥.ʈ͡ʂɑŋ˥˩! t͡ɕʰiŋ˨˩˦.wən˥˩ ʈ͡ʂɤ˥˩.li˨˩˦ ʈ͡ʂɨ˥.ʈ͡ʂʰɨ˧˥ weɪ̯˥.ɕin˥˩ ʈ͡ʂɨ˥.fu˥˩ xɤ˧˥ ʈ͡ʂɨ˥.fu˥˩.paʊ̯˨˩˦ ma? —toʊ̯˥ kʰɤ˨˩.i˨˩˦, t͡ɕʰiŋ˨˩˦ t͡ʂʰu˥.ʂɨ˥˩ nin˧˥ tɤ fu˥˩.kʰwan˨˩.ma˨˩˦] (Fú-wù-yuán, jié-zhàng! Qǐng-wèn zhè-lǐ zhī-chí Wēi-xìn zhī-fù hé Zhī-fù-bǎo ma? —Dōu kě-yǐ, qǐng chū-shì nín de fù-kuǎn-mǎ.)",
+          "translation": "Server, the bill please! Do you accept WeChat Pay and Alipay here? —Both are fine; please present your payment QR code."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (9.4.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "您好，一共消费了三百六十元整，请问需要开具电子发票吗？(Nínhǎo, yígòng xiāofèi le sānbǎi liùshí yuán zhěng, qǐngwèn xūyào kāijù diànzǐ fāpiào ma?)",
+          "reading": "[nin˧˥.xaʊ̯˨˩˦, i˧˥.kʊŋ˥˩ ɕjaʊ̯˥.feɪ̯˥˩ lɤ san˥.paɪ̯˨˩˦ ljoʊ̯˥˩.ʂɨ˧˥ jɥɛn˧˥ ʈ͡ʂɤŋ˨˩˦, t͡ɕʰiŋ˨˩˦.wən˥˩ ɕy˥.jaʊ̯˥˩ kʰaɪ̯˥.t͡ɕy˥˩ tjɛn˥˩.t͡sɨ˨˩˦ fa˥.pʰjaʊ̯˥˩ ma?] (Nín-hǎo, yí-gòng xiāo-fèi le sān-bǎi liù-shí yuán zhěng, qǐng-wèn xū-yào kāi-jù diàn-zǐ fā-piào ma?)",
+          "translation": "Hello, the total consumption is exactly 360 yuan; would you like an electronic invoice issued?"
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (9.4.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "拿着购物小票和完好的原包装，在七天之内可以在商场总服务台办理免费退换货。(Názhe gòuwù xiǎopiào hé wánhǎo de yuán bāozhuāng, zài qī tiān zhīnèi kěyǐ zài shāngchǎng zǒng fúwùtái bànlǐ miǎnfèi tuì-huàn huò.)",
+          "reading": "[na˧˥.ʈ͡ʂɤ koʊ̯˥˩.u˥˩ ɕjaʊ̯˨˩.pʰjaʊ̯˥˩ xɤ˧˥ wan˧˥.xaʊ̯˨˩˦ tɤ jɥɛn˧˥ paʊ̯˥.ʈ͡ʂwaŋ˥, t͡saɪ̯˥˩ t͡ɕʰi˥ tʰjɛn˥ ʈ͡ʂɨ˥.neɪ̯˥˩ kʰɤ˨˩.i˨˩˦ t͡saɪ̯˥˩ ʂɑŋ˥.ʈ͡ʂʰɑŋ˨˩˦ t͡sʊŋ˨˩˦ fu˧˥.u˥˩.tʰaɪ̯˧˥ pan˨˩.li˨˩˦ mjɛn˨˩.feɪ̯˥˩ tʰweɪ̯˥˩.xwan˥˩ xwo˥˩] (Ná-zhe gòu-wù xiǎo-piào hé wán-hǎo de yuán bāo-zhuāng, zài qī tiān zhī-nèi kě-yǐ zài shāng-chǎng zǒng fú-wù-tái bàn-lǐ miǎn-fèi tuì-huàn huò.)",
+          "translation": "Holding the shopping receipt and intact original packaging, you can handle free return or exchange at the mall's main service desk within seven days."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (9.4.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "我扫描柜台上的二维码付了五十块钱，请您确认一下到账信息。(Wǒ sǎomiáo guìtái shang de èrwéimǎ fù le wǔshí kuài qián, qǐng nín quèrèn yíxià dàozhàng xìnxī.)",
+          "reading": "[wɔ˨˩ saʊ̯˨˩.mjaʊ̯˧˥ kweɪ̯˥˩.tʰaɪ̯ ʂɑŋ tɤ aɚ˥˩.weɪ̯˧˥.ma˨˩˦ fu˥˩ lɤ u˨˩˦.ʂɨ˧˥ kʰwaɪ̯˥˩ t͡ɕʰjɛn˧˥, t͡ɕʰiŋ˨˩˦ nin˧˥ t͡ɕʰɥɛ˥˩.ʐən˥˩ i˥.ɕja˥˩ taʊ̯˥˩.ʈ͡ʂɑŋ˥˩ ɕin˥.ɕi˥] (Wǒ sǎo-miáo guì-tái shang de èr-wéi-mǎ fù le wǔ-shí kuài qián, qǐng nín què-rèn yí-xià dào-zhàng xìn-xī.)",
+          "translation": "I scanned the QR code on the counter and paid fifty yuan; please confirm the incoming payment notification."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "扫码买单出示码，微信支付宝两全；小票开出发票留，七天退换心放宽！"
+      ],
+      "culturalNotes": [
+        "在中国，「扫码支付」已经彻底渗透进城市与乡村的每一个角落。小到街头菜摊、便利店，大到连锁百货、星级酒店，手机轻轻一扫即可完成结算。同时「七天无理由退货」制度为消费者提供了坚实的法律保障。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「购物、价格与货币表达 (Shopping & Currency)」（第4讲）的标准汉语规范？",
+          "prompt": "在餐厅用餐完毕准备结账，最常用得体的汉语表达是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「购物、价格与货币表达 (Shopping & Currency)」的核心语法法则与应用范例 (9.4.1)。",
-            "存在语序混乱且虚词误用的病句选项 (9.4.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (9.4.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (9.4.w3)"
+            "服务员，买单！ / 服务员，结账！(Mǎidān / Jiézhàng)",
+            "服务员，算算你的钱！",
+            "服务员，给钱你！",
+            "服务员，钱拿走！"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「买单」与「结账」是结账结算最标准通用的交际用语。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "收银员说「请出示您的付款码」，顾客应该进行的操作是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "在手机App上打开自己的付款二维码让商家扫描 (Present customer's payment QR)",
+            "用手机去扫描商家桌上的二维码",
+            "拿出现金纸币",
+            "拿出身份证件"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「出示付款码」即展示手机上的个人付款条码或二维码供扫码设备识别。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「购物、价格与货币表达 (Shopping & Currency)」的正式语境下，最准确得体的表达是哪一项？（第9.4题）",
+          "prompt": "向商家索取可用于企业报销或正式记账的凭证，应使用的规范词汇是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (9.4.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (9.4.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (9.4.x2)",
-            "量词与名词修饰搭配错误的病句选项 (9.4.x3)"
+            "发票 (fāpiào - Official invoice)",
+            "草稿",
+            "便条",
+            "贺卡"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「发票」是具有法律效力的正规商业凭证。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u9-l4）所要求的高阶语言表达？",
+          "prompt": "购买商品后若尺寸不合，凭购物凭证向商场申请换一件新的，该售后行为称为：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (9.4.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (9.4.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (9.4.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (9.4.y3)"
+            "换货 (huànhuò - Exchange goods)",
+            "送货",
+            "进货",
+            "发货"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "更换商品称为「换货」，退掉商品退款称为「退货」。"
         }
       ]
     },
@@ -5598,25 +5608,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「购物、价格与货币表达 (Shopping & Currency)」的掌握程度，请选出表述完全正确的标准范句（测试 9-4）：",
+          "prompt": "请选出下列移动支付与结算对话中表达最规范地道的一组：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (9.4.4)。",
-            "被动句式与处置句式混用导致的严重病句 (9.4.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (9.4.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (9.4.z3)"
+            "甲：你好，一共是一百二十五块钱，扫码还是刷卡？ 乙：我扫微信付款码，顺便帮我开一张电子发票。(移动支付与开票交际完全规范流畅)",
+            "甲：你好，一百二十五块钱拿来。 乙：我给你微信扫发票。(粗鲁且语义混乱)",
+            "甲：钱一共一百二十五元角。 乙：刷卡出示退货码。(术语完全错用)",
+            "甲：买单多少钱你。 乙：我扫你的发票小票。(语无伦次)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "收银提问「扫码还是刷卡」，顾客回答「扫微信付款码并开电子发票」，展现了当代中国最典型的结算场景。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u9-l4）的核心关键词（例如「购物、价」）：",
+          "prompt": "请输入表示通过手机摄像头识别图形码完成付款的动作双字词语（拼音为 sǎomǎ）：",
           "acceptedAnswers": [
-            "购物、价",
-            "购物、价格与",
-            "购物、价格与货币表达"
+            "扫码"
           ],
-          "explanation": "正确的核心关键词为「购物、价」。"
+          "explanation": "词语「扫码」是现代移动支付中最核心的高频动作词汇。"
         }
       ],
       "passThreshold": 0.8
@@ -5627,85 +5635,89 @@
     "subject": "mandarin",
     "unit": 9,
     "lessonNumber": 5,
-    "title": "购物、价格与货币表达 (Shopping & Currency) (第5讲)",
+    "title": "商场购物与集市选购全流程综合篇章 (Comprehensive Shopping & Commercial Narrative)",
     "level": "A2",
-    "objective": "全面掌握与熟练运用本课核心内容：人民币货币单位（元/角/分/块/毛）、讨价还价、衣物尺码及商场购物实用表达。 (第5部分)。",
+    "objective": "融会贯通货币单位、服饰量词、尺码试穿、打折议价与移动支付全流程交际，能够独立撰写逻辑严密、细节生动的现代商业购物综合叙事语篇。",
     "presentation": {
-      "explanation": "",
+      "explanation": "将货币体系、量词搭配、尺码试穿、打折计算与移动支付融汇于同一叙事脉络中，是掌握高阶汉语实用生活语篇写作的标志：\n\n一、商场与集市购物全流程语篇架构：\n1. 进店与选购：浏览柜台 -> 挑选心仪款式颜色 -> 确认专属量词（件/条/双）。\n2. 试穿与评价：询问试衣间 -> 试穿体验（有点儿大 / 合身舒适 / 稍微深了一点儿）。\n3. 询价与折扣：询问价格 -> 确认优惠政策（打八折 / 满减 / 买一赠一）。\n4. 结算与售后：出示付款码移动支付 -> 索取购物小票与发票 -> 确认七天退换保障。\n\n二、全景式购物叙事范文（周末王府井购物记）：\n- 今天是周末，我和留学生朋友一起去著名的王府井步行街购物。在一楼品牌服装专卖店里，我看中了一件深灰色的羊毛开衫。我让服务员帮我拿了一件中号的，走进试衣间试了试，大小非常合身，款式也很大方。这件开衫原价六百八十块钱，赶上商场换季促销全场打七折，折后只要四百七十六块钱。在收银台结账时，我打开手机微信出示了付款码，两秒钟就完成了扫码支付。收银员微笑着把装好的衣服和购物小票递给我，并提醒我凭小票在七天之内可以办理退换货。整个购物过程既顺畅又开心！",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「购物、价格与货币表达 (Shopping & Currency)」的核心语法法则与应用范例 (9.5.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '购物、价格与货币表达 (Shopping & Currency)' in simple terms to students at the academic seminar."
+          "target": "今天周末我和朋友去王府井百货大楼购物，看中了一件深灰色的羊毛开衫，穿上试了试，大小和颜色都非常合适。(Jīntiān zhōumò wǒ hé péngyou qù Wángfǔjǐng bǎihuò dàlóu gòuwù, kànzhòng le yí jiàn shēnhuīsè de yángmáo kāishān, chuān shang shì le shi, dàxiǎo hé yánsè dōu fēicháng héshì.)",
+          "reading": "[t͡ɕin˥.tʰjɛn˥ ʈ͡ʂoʊ̯˥.mwɔ˥˩ wɔ˨˩ xɤ˧˥ pʰɤŋ˧˥.joʊ̯ t͡ɕʰy˥˩ wɑŋ˧˥.fu˨˩.t͡ɕiŋ˨˩˦ paɪ̯˨˩.xwo˥˩ ta˥˩.loʊ̯˧˥ koʊ̯˥˩.u˥˩, kʰan˥˩.ʈ͡ʂʊŋ˥˩ lɤ i˥ t͡ɕjɛn˥˩ ʂən˥.xweɪ̯˥.sɤ˥˩ tɤ jɑŋ˧˥.maʊ̯˧˥ kʰaɪ̯˥.ʂan˥, t͡ʂʰwan˥ ʂɑŋ ʂɨ˥˩ lɤ ʂɨ, ta˥˩.ɕjaʊ̯˨˩˦ xɤ˧˥ jɛn˧˥.sɤ˨˩˦ toʊ̯˥ feɪ̯˥.ʈ͡ʂʰɑŋ˧˥ xɤ˧˥.ʂɨ˥˩] (Jīn-tiān zhōu-mò wǒ hé péng-you qù Wáng-fǔ-jǐng bǎi-huò dà-lóu gòu-wù, kàn-zhòng le yí jiàn shēn-huī-sè de yáng-máo kāi-shān, chuān shang shì le shi, dà-xiǎo hé yán-sè dōu fēi-cháng hé-shì.)",
+          "translation": "This weekend my friend and I went shopping at Wangfujing Department Store; I took a fancy to a dark gray wool cardigan, tried it on, and both size and color were very suitable."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (9.5.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "这件外套原价六百八十元，赶上商场换季促销打七折，店员还热情地帮我开具了增值税电子发票。(Zhè jiàn wàitào yuánjià liùbǎi bāshí yuán, gǎnshang shāngchǎng huànjì cùxiāo dǎ qī zhé, diànyuán hái rèqíng de bāng wǒ kāijù le zēngzhíshuì diànzǐ fāpiào.)",
+          "reading": "[ʈ͡ʂɤ˥˩ t͡ɕjɛn˥˩ waɪ̯˥˩.tʰaʊ̯˥˩ jɥɛn˧˥.t͡ɕja˥˩ ljoʊ̯˥˩.paɪ̯˨˩˦ pa˥.ʂɨ˧˥ jɥɛn˧˥, kan˨˩˦.ʂɑŋ ʂɑŋ˥.ʈ͡ʂʰɑŋ˨˩˦ xwan˥˩.t͡ɕi˥˩ t͡sʰu˥˩.ɕjaʊ̯˥ ta˨˩˦ t͡ɕʰi˥ ʈ͡ʂɤ˧˥, tjɛn˥˩.jɥɛn˧˥ xaɪ̯˧˥ ʐɤ˥˩.t͡ɕʰiŋ˧˥ tɤ pɑŋ˥ wɔ˨˩ kʰaɪ̯˥.t͡ɕy˥˩ lɤ t͡sɤŋ˥.ʈ͡ʂɨ˧˥.ʂweɪ̯˥˩ tjɛn˥˩.t͡sɨ˨˩˦ fa˥.pʰjaʊ̯˥˩] (Zhè jiàn wài-tào yuán-jià liù-bǎi bā-shí yuán, gǎn-shang shāng-chǎng huàn-jì cù-xiāo dǎ qī zhé, diàn-yuán hái rè-qíng de bāng wǒ kāi-jù le zēng-zhí-shuì diàn-zǐ fā-piào.)",
+          "translation": "The original price of this jacket was 680 yuan; catching the mall's seasonal promotion at 30% off (70% price), the clerk also warmly helped me issue a VAT electronic invoice."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (9.5.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "在传统茶城选购茶叶时，店主热情地邀请我们品尝了新上市的龙井春茶，最后给我们打了八五折。(Zài chuántǒng cháchéng xuǎngòu cháyè shí, diànzhǔ rèqíng de yāoqǐng wǒmen pǐncháng le xīn shàngshì de Lóngjǐng chūnchá, zuìhòu gěi wǒmen dǎ le bā wǔ zhé.)",
+          "reading": "[t͡saɪ̯˥˩ t͡ʂʰwan˧˥.tʰʊŋ˧˥ ʈ͡ʂʰa˧˥.ʈ͡ʂʰɤŋ˧˥ ɕɥan˨˩˦.koʊ̯˥˩ ʈ͡ʂʰa˧˥.jɛ˥˩ ʂɨ˧˥, tjɛn˥˩.ʈ͡ʂu˨˩˦ ʐɤ˥˩.t͡ɕʰiŋ˧˥ tɤ jaʊ̯˥.t͡ɕʰiŋ˨˩˦ wɔ˨˩.mən pʰin˨˩.ʈ͡ʂʰɑŋ˧˥ lɤ ɕin˥ ʂɑŋ˥˩.ʂɨ˥˩ tɤ lʊŋ˧˥.t͡ɕiŋ˨˩˦ t͡ʂʰwən˥.ʈ͡ʂʰa˧˥, t͡sweɪ̯˥˩.xoʊ̯˥˩ keɪ̯˨˩˦ wɔ˨˩.mən ta˨˩˦ lɤ pa˥ u˨˩˦ ʈ͡ʂɤ˧˥] (Zài chuán-tǒng chá-chéng xuǎn-gòu chá-yè shí, diàn-zhǔ rè-qíng de yāo-qǐng wǒ-men pǐn-cháng le xīn shàng-shì de Lóng-jǐng chūn-chá, zuì-hòu gěi wǒ-men dǎ le bā wǔ zhé.)",
+          "translation": "When shopping for tea at the traditional tea market, the shop owner warmly invited us to taste the newly listed Longjing spring tea, and finally gave us a 15% discount (85% price)."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (9.5.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "我拿出手机打开微信扫码买单，不到三秒钟就完成了付款，整个购物体验既高效又愉快。(Wǒ ná chū shǒujī dǎkāi Wēixìn sǎomǎ mǎidān, bú dào sān miǎozhōng jiù wánchéng le fùkuǎn, zhěnggè gòuwù tǐyàn jì gāoxiào yòu yúkuài.)",
+          "reading": "[wɔ˨˩ na˧˥ t͡ʂʰu˥ ʂoʊ̯˨˩.t͡ɕi˥ ta˨˩˦.kʰaɪ̯˥ weɪ̯˥.ɕin˥˩ saʊ̯˨˩.ma˨˩˦ maɪ̯˨˩˦.tan˥, pu˧˥ taʊ̯˥˩ san˥ mjaʊ̯˨˩˦.ʈ͡ʂʊŋ˥ t͡ɕjoʊ̯˥˩ wan˧˥.ʈ͡ʂʰɤŋ˧˥ lɤ fu˥˩.kʰwan˨˩˦, ʈ͡ʂɤŋ˨˩.kɤ koʊ̯˥˩.u˥˩ tʰi˨˩.jɛn˥˩ t͡ɕi˥˩ kaʊ̯˥.ɕjaʊ̯˥˩ joʊ̯˥˩ y˧˥.kʰwaɪ̯˥˩] (Wǒ ná chū shǒu-jī dǎ-kāi Wēi-xìn sǎo-mǎ mǎi-dān, bú dào sān miǎo-zhōng jiù wán-chéng le fù-kuǎn, zhěng-gè gòu-wù tǐ-yàn jì gāo-xiào yòu yú-kuài.)",
+          "translation": "I took out my mobile phone and opened WeChat to scan the QR code to pay the bill, completing payment in less than three seconds; the entire shopping experience was both efficient and pleasant."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "试穿选色问价格，打折优惠算分明；扫码支付开小票，篇章购物乐融融！"
+      ],
+      "culturalNotes": [
+        "在当代中国，无论是现代化的百货大厦、繁华的商业步行街，还是充满烟火气的特色集市，购物都是感知中国经济活力与市井人情的最直接窗口。融会贯通这些表达，能让汉语学习者真正自信地融入中国日常生活。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「购物、价格与货币表达 (Shopping & Currency)」（第5讲）的标准汉语规范？",
+          "prompt": "在购物叙事中，正确串联「挑选试穿 -> 询问折扣 -> 扫码支付」的篇章脉络是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「购物、价格与货币表达 (Shopping & Currency)」的核心语法法则与应用范例 (9.5.1)。",
-            "存在语序混乱且虚词误用的病句选项 (9.5.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (9.5.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (9.5.w3)"
+            "看中试穿合身 -> 询问得知打折 -> 出示付款码结账 (Coherent narrative progression)",
+            "先扫码付款 -> 再去试穿衣服 -> 最后询问价格",
+            "先开具发票 -> 挑选衣服试穿 -> 询问能不能退货",
+            "退换衣服 -> 扫码支付 -> 进店选购"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "叙事语篇遵循选购试穿、询价打折、扫码买单的自然时序逻辑。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "语篇中「原价六百元打八折」与「微信扫码支付」对应的实际交际是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "实付480元，使用手机微信完成无现金结算 (600 × 0.8 = 480 yuan via WeChat Pay)",
+            "实付120元，使用现金结算",
+            "实付600元，使用银行支票结算",
+            "实付80元，使用刷卡结算"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "600元打八折为480元，微信扫码为移动支付方式。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「购物、价格与货币表达 (Shopping & Currency)」的正式语境下，最准确得体的表达是哪一项？（第9.5题）",
+          "prompt": "请选出下列购物叙事语篇中词汇搭配、句式与逻辑完全典范通畅的一项：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (9.5.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (9.5.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (9.5.x2)",
-            "量词与名词修饰搭配错误的病句选项 (9.5.x3)"
+            "我在商场看中了一条牛仔裤，试穿后觉得有点儿长，店员帮我换了一条小号的，打八折后扫码付了一百六十块钱。(量词、评价副词、尺码、折扣与支付完全融会贯通)",
+            "我在商场看中了一件牛仔裤，试穿后觉得长一点儿，店员换了一顶小号，打二折付了钱。(量词与副词错乱)",
+            "我在商场看中一双牛仔裤，有点儿合身，打折了八，现金扫码退换。(逻辑混乱搭配荒谬)",
+            "我在商场看中一条裤子，穿起来一点儿长，打八折付了一百六十个。(量词不通)"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「一条牛仔裤」、「有点儿长」（消极感受）、「换一条小号」（期望）、「打八折扫码付了一百六十块」，语法体系完美无缺。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u9-l5）所要求的高阶语言表达？",
+          "prompt": "在语篇「凭小票在七天之内可以办理退换货」中，「凭」的语法功能是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (9.5.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (9.5.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (9.5.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (9.5.y3)"
+            "介词，表示依据或凭借某种凭据 (Preposition: based on / relying on)",
+            "动词，表示跑步",
+            "副词，表示经常",
+            "助词，表示时态"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「凭」在此处充当介词，表示「凭借、依据（小票）」。"
         }
       ]
     },
@@ -5713,25 +5725,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「购物、价格与货币表达 (Shopping & Currency)」的掌握程度，请选出表述完全正确的标准范句（测试 9-5）：",
+          "prompt": "请选出下列商业购物综合语篇中用词最地道、语法逻辑完全严密的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (9.5.4)。",
-            "被动句式与处置句式混用导致的严重病句 (9.5.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (9.5.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (9.5.z3)"
+            "今天我和同学去商场选购衣物，我试穿了一件深蓝色外套，大小正合适。这件外套原价五百元，赶上商场店庆打八折，我拿出手机扫码支付了四百块钱，收银员还开具了正规电子发票。(全流程要素完备，语法典范流畅)",
+            "今天我和同学去商场，我试穿了一条外套，有点儿合身。原价五百元打二折，我扫码支付了一百元小票。(量词与折扣理解错误)",
+            "今天我和同学去商场，我试穿一双外套，大一点儿长。五百元打八折给五十元发票。(严重语法语用缺陷)",
+            "今天我和同学商场去，试穿外套一件，太贵一点儿。打折八给四百元钱。(语序破碎词汇错乱)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语篇在选购、试穿（正合适）、原价与打折计算（500 × 0.8 = 400元）、移动支付（扫码支付）及开票（电子发票）上均达到了现代汉语的最高标准。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u9-l5）的核心关键词（例如「购物、价」）：",
+          "prompt": "请输入表示消费者购买商品与服务的核心双字动词词语（拼音为 gòuwù）：",
           "acceptedAnswers": [
-            "购物、价",
-            "购物、价格与",
-            "购物、价格与货币表达"
+            "购物"
           ],
-          "explanation": "正确的核心关键词为「购物、价」。"
+          "explanation": "词语「购物」是现代汉语中表达购买物品的最通用核心书面与口语词汇。"
         }
       ],
       "passThreshold": 0.8
