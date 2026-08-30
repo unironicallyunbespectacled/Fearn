@@ -5815,53 +5815,62 @@
     "subject": "hindi",
     "unit": 14,
     "lessonNumber": 1,
-    "title": "पूर्वकालिक क्रिया: कर-प्रत्यय (Conjunctive Participles) (Part 1)",
+    "title": "पूर्वकालिक क्रिया का आधारभूत निर्माण: धातु + कर / करके (Basic Conjunctive Participle: Dhaatu + kar / karke)",
     "level": "B1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 14.1) with authentic linguistic precision.",
+    "objective": "एक ही कर्ता द्वारा क्रमिक रूप से किए जाने वाले दो कार्यों में पहले कार्य को 'धातु + कर / करके' (Conjunctive Participle) में बदलने और अंतिम मुख्य क्रिया के आधार पर 'ने' का सटीक निर्धारण करने में दक्षता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "जब एक ही कर्ता दो क्रियाएं एक के बाद एक (Sequentially) करता है, तब पहली क्रिया को **पूर्वकालिक क्रिया (Conjunctive Participle)** कहते हैं। इसका निर्माण मुख्य धातु में **'कर'** या **'करके'** जोड़कर किया जाता है:\n\n1. निर्माण का सूत्र:\n   - **मूल धातु + कर / करके**\n   - पढ़ + कर = **पढ़कर / पढ़ करके** (having read / after reading);\n   - खा + कर = **खाकर** (having eaten);\n   - जा + कर = **जाकर** (having gone);\n   - आ + कर = **आकर** (having come);\n   - देख + कर = **देखकर** (having seen);\n   - सो + कर = **सोकर** (having slept)।\n   - (अपवाद: 'करना' धातु के साथ 'करके' का प्रयोग मानक है: *काम करके*, 'करकर' नहीं)।\n\n2. 'ने' परसर्ग का नियम (Final Verb Dominance Rule):\n   - वाक्य में 'ने' लगेगा या नहीं, इसका निर्धारण पूर्वकालिक क्रिया नहीं बल्कि **वाक्य की अंतिम मुख्य क्रिया** करती है:\n     - *रोहन खाना खाकर सो गया* ('सो जाना' अकर्मक है → 'ने' नहीं लगेगा);\n     - *रोहन ने खाना खाकर चाय पी* ('पीना' सकर्मक है → 'रोहन ने' लगेगा)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 14.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 14."
+          "target": "वह सुबह बहुत जल्दी उठकर ताज़ी शीतल हवा में सैर करता है और फिर स्नान करके पौष्टिक नाश्ता करता है।",
+          "reading": "vah subah bahut jaldi uthkar taazi sheetal hava mein sair karta hai aur phir snaan karke paushtik naashta karta hai. [ʋəɦ sʊbəɦ bəɦʊt̪ dʒəldiː ʊʈʰkər t̪aːziː ʃiːt̪əl ɦəʋaː mẽː sɛːr kərt̪aː hɛː ɔːr pʰɪr snaːn kərkeː pɔːʂʈɪk naːʃt̪aː kərt̪aː hɛː] (vuh SOO-buh buh-hoot JUHL-dee OOTH-kuhr TAH-zee SHEE-tuhl huh-VAH mayn syr KUHR-tah hy owr feer snahn KUHR-kay powsh-TEEK nahsh-TAH KUHR-tah hy)",
+          "translation": "He wakes up very early in the morning, goes for a walk in the fresh cool air, and then after bathing takes a nutritious breakfast."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 14-1)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "अमित ने विश्वविद्यालय के केंद्रीय पुस्तकालय से कई महत्वपूर्ण संदर्भ ग्रंथ लेकर पूरी रात एकाग्रता से गहन अध्ययन किया।",
+          "reading": "Amit ne vishvavidyaalay ke kendreey pustakaalay se kayi mahatvapoorna sandarbh granth lekar poori raat ekaagrata se gahan adhyayan kiya. [əmɪt̪ neː ʋɪʃʋəʋɪd̪jaːləj keː keːn̪d̪riːj pʊst̪əkaːləj seː kəiː məɦət̪ʋəpuːrɳə sən̪d̪ərbʱ ɡrən̪t̪ʰ leːkər puːriː raːt̪ eːkaːɡrət̪aː seː ɡɛɦən əd̪ʱjəjən kɪjaː] (uh-MEET nay veesh-vuh-veed-YAH-luy kay kayn-DREE-yuh poos-tuh-KAH-luy say kuh-EE muh-huht-vuh-POOR-nuh suhn-DUHRBH gruhnth LAY-kuhr POO-ree raht ay-KAHG-ruh-tah say GUH-huhn uhdh-YUH-yuhn kee-YAH)",
+          "translation": "Amit took several important reference volumes from the university's central library and studied deeply with concentration the entire night."
+        },
+        {
+          "target": "दिनभर की लंबी और कठिन पर्वतीय यात्रा समाप्त करके सभी थके हुए विदेशी यात्री विश्राम गृह में जाकर चैन से सो गए।",
+          "reading": "dinbhar ki lambi aur kathin parvateey yaatra samaapt karke sabhi thake huye videshi yaatri vishraam grih mein jaakar chain se so gaye. [d̪ɪnbʱər kiː ləmbiː ɔːr kəʈʰɪn pərʋət̪iːj jaːt̪raː səmaːpt̪ kərkeː səbʱiː t̪ʰəkeː hʊjeː ʋɪd̪eːʃiː jaːt̪riː ʋɪʃraːm ɡrɪɦ mẽː dʒaːkər tʃɛːn seː soː ɡəjeː] (DEEN-bhuhr kee LUHM-bee owr KUH-theen puhr-vuh-TEE-yuh YAH-trah suh-MAHPT KUHR-kay SUH-bhee thuh-KAY HOO-yay vee-DAY-shee YAH-tree veesh-RAHM greeh mayn JAH-kuhr chyn say soh GUH-yay)",
+          "translation": "After completing the daylong long and difficult mountain trek, all the tired foreign tourists went to the rest house and fell peacefully asleep."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "First action = Verb Stem + कर (खाकर, जाकर)! 'ने' का फैसला अंतिम क्रिया करेगी!"
+      ],
+      "culturalNotes": [
+        "हिंदी की कथा शैली और औपचारिक वार्तालाप में वाक्यों को छोटा, सुगठित और प्रवाहमयी बनाने के लिए पूर्वकालिक क्रिया 'कर' सबसे सशक्त व्याकरणिक साधन है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"यात्रा\":",
+          "prompt": "दो क्रियाओं «रोहन ने खाना खाया» और «रोहन सो गया» को पूर्वकालिक क्रिया से जोड़ने वाला शुद्ध वाक्य कौन-सा है?",
           "options": [
-            "हम इस पाठ में इकाई 14.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («सिनेमा» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («नृत्य» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («कला» का अनुचित स्थान)"
+            "रोहन खाना खाकर सो गया (Rohan khaana khaakar so gaya - Having eaten, Rohan fell asleep [no 'ne' with so gaya])",
+            "रोहन ने खाना खाकर सो गया (अंतिम अकर्मक क्रिया में अशुद्ध 'ने')",
+            "रोहन खाना खाया और सो दिया (अमानक संयोजक)",
+            "रोहन खाकर ने सो गया (पदक्रम दोष)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "चूँकि अंतिम क्रिया 'सो जाना' अकर्मक है, अतः पूरे वाक्य में कर्ता बिना 'ने' के «रोहन खाना खाकर सो गया» रहेगा।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"यात्रा\":",
+          "prompt": "वाक्य «छात्र ने गृहकार्य पूरा ___ अध्यापक को दिखाया» में सही पूर्वकालिक रूप भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 14.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («नृत्य» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («कला» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («सिनेमा» का अशुद्ध रूप)"
+            "करके (Karke - Having done / completed the homework)",
+            "करता हुआ (Continuous participle error)",
+            "किया था (Past tense conjunction error)",
+            "करने पर भी (Concessive error)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "धातु 'करना' का मानक पूर्वकालिक रूप «करके» है।"
         }
       ]
     },
@@ -5869,17 +5878,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"यात्रा\": Which sentence is completely correct?",
+          "prompt": "पूर्वकालिक क्रिया और अंतिम क्रिया के 'ने' समन्वय वाला पूर्णतः शुद्ध वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 14.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («कला» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («सिनेमा» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («नृत्य» से संबंधित)"
+            "अमित ने बाज़ार जाकर फल खरीदे और घर आकर सबको खिलाए। (Amit went to the market and bought fruits, and having come home fed them to all.)",
+            "अमित बाज़ार जाकर फल खरीदा और खिला दिया।",
+            "अमित ने घर जाकर ने सो गया।",
+            "अमित जाकर फल खरीद लिया था।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«अमित ने बाज़ार जाकर... फल खरीदे और घर आकर... खिलाए» में 'खरीदना' और 'खिलाना' सकर्मक क्रियाओं के अनुसार 'ने' का प्रयोग शत-प्रतिशत शुद्ध है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u14-l2": {
@@ -5887,53 +5897,62 @@
     "subject": "hindi",
     "unit": 14,
     "lessonNumber": 2,
-    "title": "पूर्वकालिक क्रिया: कर-प्रत्यय (Conjunctive Participles) (Part 2)",
+    "title": "कारण, साधन और रीति का बोध: 'कर' के विशिष्ट अर्थ (Kar as Manner, Cause & Means: हँसकर, चलकर, सोच-समझकर)",
     "level": "B1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 14.2) with authentic linguistic precision.",
+    "objective": "पूर्वकालिक प्रत्यय 'कर' का प्रयोग केवल समय-क्रम में ही नहीं, बल्कि क्रिया-विशेषण (Manner), कारण (Cause) और साधन (Means) के रूप में करने की विधा में निपुण होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "हिंदी में **'कर'** प्रत्यय केवल समय-क्रम (Sequence) ही नहीं दर्शाता, बल्कि क्रिया-विशेषण के तीन प्रमुख अर्थ भी व्यक्त करता है:\n\n1. **रीतिवाचक क्रिया-विशेषण (Manner / How an action is done)**:\n   - *हँसकर बोला* (spoke smilingly / with a smile);\n   - *मुस्कुराकर देखा* (looked smilingly);\n   - *दौड़कर आया* (came running);\n   - *सोच-समझकर कदम उठाया* (took a step thoughtfully);\n   - *संभलकर चलो* (walk carefully)।\n\n2. **कारणवाचक (Cause / Reason — 'On account of / Hearing/Seeing X')**:\n   - *यह दुखद समाचार सुनकर वह रो पड़ा* (Hearing this sad news he burst into tears);\n   - *बिजली की कड़क देखकर बच्चा डर गया* (Seeing the lightning flash the child got scared)।\n\n3. **साधन / माध्यम (Means / Instrument — 'By doing X')**:\n   - *कठिन परिश्रम करके उसने परीक्षा में शीर्ष स्थान प्राप्त किया* (By working hard he attained top rank)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 14.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 14."
+          "target": "उसने बहुत सोच-समझकर और सभी व्यावहारिक पक्षों पर गहराई से विचार करके यह अत्यंत महत्वपूर्ण और साहसिक निर्णय लिया।",
+          "reading": "usne bahut soch-samajhkar aur sabhi vyaavahaarik pakshon par gehraai se vichaar karke yah atyant mahatvapoorna aur saahasik nirnay liya. [ʊsneː bəɦʊt̪ soːtʃ səmədʒʱkər ɔːr səbʱiː ʋjaːʋəɦaːrɪk pəkʃõː pər ɡɛɦraːiː seː ʋɪtʃaːr kərkeː jəɦ ət̪jən̪t̪ məɦət̪ʋəpuːrɳə ɔːr saːɦsiːk nɪrɳəj lɪjaː] (oos-NAY buh-hoot SOHCH-suh-muhjh-kuhr owr SUH-bhee vyah-vuh-HAH-reek PUHK-shohn puhr GUH-h-rah-ee say vee-CHAHR KUHR-kay yuh uht-YUHNT muh-huht-vuh-POOR-nuh owr sah-huh-SEEK NEER-nuy LEE-yah)",
+          "translation": "He took this extremely important and courageous decision after thinking very carefully and contemplating deeply on all practical aspects."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 14-2)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "वरिष्ठ अध्यापक की अत्यंत प्रेरणादायक और उत्साहवर्धक बातें सुनकर सभी निराश विद्यार्थियों के उदास चेहरों पर चमक आ गई।",
+          "reading": "varishth adhyaapak ki atyant prernadaayak aur utsaahvardhak baatein sunkar sabhi niraash vidyaarthiyon ke udaas chehron par chamak aa gayi. [ʋərɪʂʈʰ əd̪ʱjaːpək kiː ət̪jən̪t̪ preːrɳəd̪aːjək ɔːr ʊt̪saːɦʋərd̪ʱək baːt̪ẽː sʊnkər səbʱiː nɪraːʃ ʋɪd̪jaːrt̪ʰɪjõː keː ʊd̪aːs tʃeːɦrõː pər tʃəmək aː ɡəiː] (vuh-REESH-th uhdh-YAH-puhk kee uht-YUHNT prayr-nuh-DAH-yuhk owr oot-sah-huhr-DHUHK bah-TAYN SOON-kuhr SUH-bhee nee-RAHSH veed-YAHR-thee-yohn kay oo-DAHS CHAY-h-rohn puhr CHUH-muhk ah GUH-yee)",
+          "translation": "Hearing the senior teacher's extremely inspiring and encouraging words, a glow returned to the gloomy faces of all disappointed students."
+        },
+        {
+          "target": "उस होनहार और लगनशील ग्रामीण युवक ने दिन-रात अनवरत कठिन परिश्रम करके अपनी प्रतिष्ठित राष्ट्रीय प्रशासनिक परीक्षा उत्तीर्ण की।",
+          "reading": "us honhaar aur lagansheel graameen yuvak ne din-raat anavarat kathin parishram karke apni pratishthit raashtreey prashaasnik pareeksha utteerna ki. [ʊs hoːnɦaːr ɔːr ləɡənʃiːl ɡraːmiːɳ jʊʋək neː d̪ɪn raːt̪ ənəʋrət̪ kəʈʰɪn pərɪʃrəm kərkeː əpniː prət̪ɪʂʈʰɪt̪ raːʂʈriːj prəʃaːsnɪk pəriːkʃaː ʊt̪ːiːrɳə kiː] (oos hohn-HAHR owr luh-guhn-SHEEL grah-MEEN YOO-vuhk nay DEEN-raht uh-nuh-vuh-RUHT KUH-theen puh-REESH-ruhm KUHR-kay uhp-NEE pruh-teesh-THEET rahsh-TREE-yuh pruh-SHAH-sneek puh-REEK-shah oot-TEER-nuh kee)",
+          "translation": "By working incessantly hard day and night, that promising and dedicated rural young man passed his prestigious national administrative examination."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "रीति = सोच-समझकर; कारण = सुनकर रो पड़ा; साधन = परिश्रम करके सफलता पाई!"
+      ],
+      "culturalNotes": [
+        "हिंदी में 'हँसमुख' स्वभाव को दर्शाने के लिए 'हँसकर मिलना' (to meet with a smile) भारतीय आतिथ्य की सर्वोपरि पहचान है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"सिनेमा\":",
+          "prompt": "रीतिवाचक क्रिया-विशेषण (Manner: to speak with a smile) व्यक्त करने वाला वाक्य कौन-सा है?",
           "options": [
-            "हम इस पाठ में इकाई 14.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («नृत्य» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («कला» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («कविता» का अनुचित स्थान)"
+            "उसने मुस्कुराकर मेरा स्वागत किया (Usne muskuraakar mera svaagat kiya - He welcomed me smilingly)",
+            "उसने मुस्कुराया और स्वागत हुआ (असंगत वाक्य रचना)",
+            "वह मुस्कुराते स्वागत करता है (अमानक रूप)",
+            "मुस्कुराना से स्वागत किया (विभक्ति दोष)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "रीति (ढंग) दर्शाने हेतु 'मुस्कुराना' में 'कर' जोड़कर «मुस्कुराकर स्वागत किया» शुद्ध है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"सिनेमा\":",
+          "prompt": "कारण (Cause) व्यक्त करने वाला वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 14.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («कला» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («कविता» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («नृत्य» का अशुद्ध रूप)"
+            "अचानक शेर की दहाड़ सुनकर शिकारी चौंक उठा (Hearing the lion's roar suddenly, the hunter was startled)",
+            "शिकारी शेर को देखा और दौड़ा (साधारण संयुक्त वाक्य)",
+            "शिकारी दौड़ता हुआ गया (कृदंत रूप)",
+            "शिकारी ने शेर से डर गया (कारक अशुद्धि)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«शेर की दहाड़ सुनकर» क्रिया के कारण (Reason) का सटीक बोध कराती है।"
         }
       ]
     },
@@ -5941,17 +5960,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"सिनेमा\": Which sentence is completely correct?",
+          "prompt": "'साधन' (Means: by doing hard work) के अर्थ में 'कर' का शुद्ध प्रयोग चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 14.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («कविता» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («नृत्य» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («कला» से संबंधित)"
+            "सच्ची लगन से अभ्यास करके ही किसी भी कला में प्रवीणता पाई जा सकती है। (Only by practicing with true dedication can proficiency be attained in any art.)",
+            "अभ्यास करते ही कला पाई जाती है।",
+            "अभ्यास करने के बिना कला आती है।",
+            "अभ्यास किया तो कला खो गई।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«अभ्यास करके ही... प्रवीणता पाई जा सकती है» में 'करके' साधन (Means) का सर्वथा मानक रूप प्रस्तुत करता है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u14-l3": {
@@ -5959,53 +5979,62 @@
     "subject": "hindi",
     "unit": 14,
     "lessonNumber": 3,
-    "title": "पूर्वकालिक क्रिया: कर-प्रत्यय (Conjunctive Participles) (Part 3)",
+    "title": "समान कर्ता नियम और कर्ता-अन्वय (Same Subject Constraint with कर)",
     "level": "B1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 14.3) with authentic linguistic precision.",
+    "objective": "पूर्वकालिक क्रिया 'कर' के सबसे महत्वपूर्ण नियम — दोनों क्रियाओं का कर्ता एक ही होना (Same Subject Constraint) — को समझना और असंबद्ध कृदंत दोष (Dangling Participle) से बचना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "हिंदी व्याकरण का अकाट्य नियम है कि **'कर / करके' का कर्ता और मुख्य क्रिया का कर्ता अनिवार्य रूप से एक ही व्यक्ति/संज्ञा होना चाहिए**:\n\n1. शुद्ध समन्वय (Same Subject):\n   - *अमित ने घर पहुँचकर चाय पी* (अमित ही पहुँचा, अमित ने ही चाय पी → शुद्ध);\n   - *विद्यार्थी ने कक्षा में बैठकर निबंध लिखा* (विद्यार्थी ही बैठा, उसी ने लिखा → शुद्ध)।\n\n2. असंबद्ध कृदंत का व्याकरणिक दोष (Dangling Participle Error):\n   - यदि दोनों क्रियाओं के कर्ता अलग-अलग हों, तो 'कर' का प्रयोग **अशुद्ध** हो जाता है:\n     - अशुद्ध: *घर पहुँचकर ज़ोरदार बारिश शुरू हो गई* (यहाँ 'बारिश' घर नहीं पहुँची! बारिश पहुँची जैसा हास्यास्पद अर्थ निकलता है);\n     - शुद्ध: *मेरे घर पहुँचते ही बारिश शुरू हो गई* (तत्कालिक कृदंत) अथवा *जब मैं घर पहुँचा, तब बारिश शुरू हो गई*।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 14.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 14."
+          "target": "जाँच अधिकारी ने सभी गोपनीय संचिकाओं की गहराई से छानबीन करके अपनी अंतिम आधिकारिक रिपोर्ट सक्षम प्राधिकारी को प्रस्तुत की।",
+          "reading": "jaanch adhikaari ne sabhi gopaneey sanchikaaon ki gehraai se chhaanbeen karke apni antim aadhikaarik report saksham praadhikaari ko prastut ki. [dʒaːntʃ əd̪ʱɪkaːriː neː səbʱiː ɡoːpniːj səntʃɪkaːõː kiː ɡɛɦraːiː seː tʃʰaːnbiːn kərkeː əpniː ən̪t̪ɪm aːd̪ʱɪkaːrɪk rɪpoːrʈ səkʃəm praːd̪ʱɪkaːriː koː prəst̪ʊt̪ kiː] (JAHNCH uh-dhee-KAH-ree nay SUH-bhee gohp-NEE-yuh suhn-chee-KAH-ohn kee GUH-h-rah-ee say chhhahn-BEEN KUHR-kay uhp-NEE UHN-teem ah-dhee-KAH-reek ree-POHRT SUHK-shuhm prah-dhee-KAH-ree koh pruhs-TOOT kee)",
+          "translation": "The investigating officer submitted his final official report to the competent authority after examining deeply all confidential files."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 14-3)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "जब दोनों क्रियाओं का कर्ता एक ही व्यक्ति हो, तब 'रोहन ने पत्र लिखकर डाकपेटी में डाल दिया' कहना व्याकरण की दृष्टि से पूर्णतः शुद्ध है।",
+          "reading": "jab donon kriyaaon ka karta ek hi vyakti ho, tab 'Rohan ne patr likhkar daakpeti mein daal diya' kahna vyaakaran ki drishti se poornatah shuddh hai. [dʒəb d̪oːnõː krɪjaːõː kaː kərtaː eːk ɦiː ʋjəkt̪ɪ hoː t̪əb roːɦən neː pət̪r lɪkʰkər ddaːkpeːʈiː mẽː ddaːl d̪ɪjaː kəɦnaː ʋjaːkərəɳ kiː drɪʂʈɪ seː puːrɳət̪əɦ ʃʊd̪ːʱ hɛː] (juhb DOH-nohn kree-YAH-ohn kah KUHR-tah ayk hee VYUHNK-tee hoh, tuhb 'ROH-huhn nay PUH-truh LEEKH-kuhr DAHK-pay-tee mayn dahl DEE-yah' KUH-h-nah vyah-kuh-RUHN kee DREESH-tee say POOR-nuh-tuhk SHOODH-dh hy)",
+          "translation": "When the subject of both actions is the same person, then saying 'Rohan, having written the letter, dropped it into the postbox' is completely correct grammatically."
+        },
+        {
+          "target": "वह विदेशी भाषा के कठिन शब्दों का मानक उच्चारण ध्यानपूर्वक सुनकर अपनी वाणी में उनका बार-बार अभ्यास करता है।",
+          "reading": "vah videshi bhaasha ke kathin shabdon ka maanak uchhaaran dhyaanpoorvak sunkar apni vaani mein unka baar-baar abhyaas karta hai. [ʋəɦ ʋɪd̪eːʃiː bʱaːʂaː keː kəʈʰɪn ʃəbd̪õː kaː maːnək ʊtʃːʰaːrəɳ d̪ʱjaːnpuːrʋək sʊnkər əpniː ʋaːɳiː mẽː ʊnkaː baːr baːr əbʱjaːs kərt̪aː hɛː] (vuh vee-DAY-shee BHAH-shah kay KUH-theen SHUHB-dohn kah MAH-nuhk ootch-CHAH-ruhn dhyahn-POOR-vuhk SOON-kuhr uhp-NEE VAH-nee mayn OON-kah bahr-bahr uhbh-YAH-sah KUHR-tah hy)",
+          "translation": "Having listened carefully to the standard pronunciation of difficult foreign words, he practices them repeatedly in his speech."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "कर का नियम: कर्ता एक ही होना चाहिए! 'घर पहुँचकर बारिश हुई' गलत है, 'मेरे पहुँचते ही बारिश हुई' सही है!"
+      ],
+      "culturalNotes": [
+        "प्रतियोगी परीक्षाओं (UPSC, राज्य लोक सेवा आयोग) की हिंदी व्याकरण परीक्षा में 'समान कर्ता नियम' से संबंधित शुद्धि-अशुद्धि का प्रश्न अनिवार्य रूप से पूछा जाता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"नृत्य\":",
+          "prompt": "समान कर्ता नियम (Same Subject Constraint) के आधार पर व्याकरणिक रूप से शुद्ध वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 14.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («कला» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («कविता» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («मौसम» का अनुचित स्थान)"
+            "मैंने स्टेशन पहुँचकर टिकट खरीदी (Maine station pahunchkar ticket khareedi - Reaching station I bought ticket [same subject 'I'])",
+            "स्टेशन पहुँचकर ट्रेन छूट गई (अशुद्ध: ट्रेन स्टेशन नहीं पहुँची)",
+            "दवा खाकर बुखार कम हो गया (अशुद्ध: बुखार ने दवा नहीं खाई)",
+            "पत्र लिखकर डाकिया ले गया (अशुद्ध: डाकिया ने पत्र नहीं लिखा)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«मैंने स्टेशन पहुँचकर टिकट खरीदी» में दोनों क्रियाओं (पहुँचना और खरीदना) का कर्ता एक ही ('मैं') होने से वाक्य शुद्ध है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"नृत्य\":",
+          "prompt": "अशुद्ध वाक्य «घंटी बजकर कक्षा समाप्त हो गई» का मानक शुद्ध रूपांतरण क्या होगा?",
           "options": [
-            "हम इस पाठ में इकाई 14.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («कविता» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («मौसम» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («कला» का अशुद्ध रूप)"
+            "घंटी बजते ही कक्षा समाप्त हो गई (Ghanti bajte hi kaksha samaapt ho gayi - As soon as bell rang, class ended)",
+            "घंटी ने बजकर कक्षा समाप्त की (अस्वाभाविक कर्ता)",
+            "कक्षा घंटी बजाकर समाप्त हुई (विपरीत अर्थ)",
+            "घंटी बजा तो कक्षा हो गई (अमानक संरचना)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "अलग-अलग कर्ता (घंटी और कक्षा) होने पर पूर्वकालिक 'कर' के स्थान पर तत्कालिक कृदंत «घंटी बजते ही» का प्रयोग शुद्ध है।"
         }
       ]
     },
@@ -6013,17 +6042,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"नृत्य\": Which sentence is completely correct?",
+          "prompt": "समान कर्ता नियम का पूर्ण पालन करने वाला मानक वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 14.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («मौसम» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («कला» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («कविता» से संबंधित)"
+            "वैज्ञानिक ने प्रयोगशाला में प्रवेश करके नए उपकरण चालू किए। (The scientist entered the lab and turned on the new instruments.)",
+            "प्रयोगशाला में प्रवेश करके उपकरण चालू हो गए।",
+            "दरवाज़ा खोलकर हवा अंदर आई।",
+            "किताब पढ़कर पृष्ठ फट गया।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«वैज्ञानिक ने... प्रवेश करके... उपकरण चालू किए» में प्रवेश करने और चालू करने वाला कर्ता एक ही ('वैज्ञानिक') है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u14-l4": {
@@ -6031,53 +6061,62 @@
     "subject": "hindi",
     "unit": 14,
     "lessonNumber": 4,
-    "title": "पूर्वकालिक क्रिया: कर-प्रत्यय (Conjunctive Participles) (Part 4)",
+    "title": "'कर' बनाम 'ते ही' (तत्कालिकता) एवं 'के बाद' (Participle vs Immediate Participle vs ke baad)",
     "level": "B1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 14.4) with authentic linguistic precision.",
+    "objective": "सामान्य पूर्वकालिक क्रिया ('कर'), तत्कालिक क्रिया ('धातु + ते ही') और समय-अंतराल सूचक ('के बाद') के सूक्ष्म अर्थ-भेदों और वाक्य-संरचना में भेद स्पष्ट करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "क्रमिक घटनाओं को व्यक्त करने के लिए हिंदी में तीन अलग-अलग व्याकरणिक प्रतिमान हैं:\n\n1. **सामान्य पूर्वकालिक क्रिया (धातु + कर)**:\n   - सामान्य क्रम दर्शाता है (समान कर्ता आवश्यक):\n     - *वह चाय पीकर दफ़्तर गया* (Having drunk tea, he went to office).\n\n2. **तत्कालिक कृदंत (धातु + ते ही — 'As soon as')**:\n   - शून्य समय-अंतराल (Instant action / Immediate sequence) दर्शाता है (कर्ता समान या भिन्न हो सकते हैं):\n     - *स्टेशन पहुँचते ही ट्रेन चल पड़ी* (As soon as I reached the station, the train departed);\n     - *दवा लेते ही दर्द बंद हो गया* (As soon as medicine was taken, pain stopped).\n\n3. **समय-अंतराल सूचक (क्रिया-ना + के बाद — 'After doing X')**:\n   - समय का स्पष्ट अंतराल या पूर्णता दर्शाता है:\n     - *भोजन करने के बाद हम टहलने गए* (After taking food we went for a walk);\n     - *अध्यापक के जाने के बाद छात्रों ने बात की*।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 14.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 14."
+          "target": "स्कूल की अंतिम घंटी बजते ही सभी छोटे बच्चे उत्साहपूर्वक कक्षा से बाहर भागे, किंतु अध्यापक ने सभी कॉपियाँ समेटने के बाद ही कक्ष छोड़ा।",
+          "reading": "school ki antim ghanti bajte hi sabhi chhote bachche utsaahpoorvak kaksha se baahar bhaage, kintu adhyaapak ne sabhi copy-aan sametne ke baad hi kaksh chhoda. [skuːl kiː ən̪t̪ɪm ɡʱəɳʈiː bədʒt̪eː ɦiː səbʱiː tʃʰoːʈeː bətʃːeː ʊt̪saːɦpuːrʋək kəkʃaː seː baːɦər bʱaːɡeː kɪn̪t̪ʊ əd̪ʱjaːpək neː səbʱiː kɔːpɪjaː̃ səmeːʈneː keː baːd̪ ɦiː kəkʃ tʃʰoːɽaː] (skool kee UHN-teem GHUHN-tee BUHJ-tay hee SUH-bhee CHHOH-tay BUHTCH-chay oot-sah-POOR-vuhk KUHK-shah say BAH-huhr BHAH-gay, KEEN-too uhdh-YAH-puhk nay SUH-bhee KAH-pee-yahn suh-MAYT-nay kay bahd hee kuhksh CHHOH-dah)",
+          "translation": "As soon as the final school bell rang, all the little children ran outside the classroom enthusiastically, but the teacher left the room only after gathering all notebooks."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 14-4)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "डॉक्टर द्वारा सुझाई गई दवा की पहली खुराक लेते ही मरीज़ का असहनीय सिरदर्द तुरंत कम हो गया और वह गहरी नींद में सो गया।",
+          "reading": "doctor dvaara sujhaaee gayi dawa ki pehli khuraak lete hi mareez ka asahaneey sirdard turant kam ho gaya aur vah gehri neend mein so gaya. [ɖɔːkʈər d̪ʋaːraː sʊdʒʱaːiː ɡəiː d̪əʋaː kiː pɛɦliː kʰʊraːk leːt̪eː ɦiː məriːz kaː əsəɦniːj sɪrd̪ərd̪ t̪ʊrən̪t̪ kəm hoː ɡəjaː ɔːr ʋəɦ ɡɛɦriː niːn̪d̪ mẽː soː ɡəjaː] (DAHK-tuhr dvah-RAH soojh-AH-ee GUH-yee duh-VAH kee PEH-lee khoo-RAHK LAY-tay hee muh-REEZ kah uh-suh-h-NEE-yuh seer-DUHRD TOO-ruhnt kuhm hoh GUH-yah owr vuh GUH-h-ree NEEND mayn soh GUH-yah)",
+          "translation": "As soon as he took the first dose of medicine recommended by the doctor, the patient's unbearable headache subsided immediately and he fell into a deep sleep."
+        },
+        {
+          "target": "होटल में स्वादिष्ट सुबह का नाश्ता करने के बाद हम सभी इस ऐतिहासिक महानगर के प्राचीन किलों और संग्रहालयों का भ्रमण करने के लिए निकल पड़े।",
+          "reading": "hotel mein svaadisht subah ka naashta karne ke baad hum sabhi is aitihasik mahaanagar ke praacheen kilon aur sangrahaalayon ka bhraman karne ke liye nikal pade. [ɦoːʈəl mẽː sʋaːd̪ɪʂʈ sʊbəɦ kaː naːʃt̪aː kərneː keː baːd̪ ɦəm səbʱiː ɪs ɛːt̪ɪhaːsɪk məɦaːnəɡər keː praːtʃiːn kɪlõː ɔːr sənɡrəɦaːləjõː kaː bʱrəməɳ kərneː keː lɪjeː nɪkəl pəɽeː] (hoh-TUHL mayn svah-DEESHT SOO-buh kah nahsh-TAH KUHR-nay kay bahd huhm SUH-bhee ees ay-tee-HAH-seek muh-hah-NUH-guhr kay prah-CHEEN KEE-lohn owr suhn-gruh-HAH-luh-yohn kah bhruh-MUHN KUHR-nay kay lee-ay NEE-kuhl PUH-day)",
+          "translation": "After having delicious morning breakfast at the hotel, all of us set out to tour the ancient forts and museums of this historic metropolis."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "कर = सामान्य क्रम (खाकर गया); ते ही = तत्कालिक (पहुँचते ही ट्रेन चली); के बाद = समय अंतराल (नाश्ता करने के बाद)!"
+      ],
+      "culturalNotes": [
+        "यात्रा वृत्तांतों और दैनिक दिनचर्या के विवरण में इन तीनों का संतुलित प्रयोग शैली को अत्यंत समृद्ध और स्वाभाविक बनाता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"कला\":",
+          "prompt": "शून्य समय-अंतराल (Instant action: As soon as the lightning flashed...) व्यक्त करने वाला शुद्ध वाक्य कौन-सा है?",
           "options": [
-            "हम इस पाठ में इकाई 14.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («कविता» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («मौसम» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («सूरज» का अनुचित स्थान)"
+            "बिजली चमकते ही मूसलाधार बारिश शुरू हो गई (Bijli chamakte hi mooslaadhaar varsha shuru ho gayi - As soon as lightning flashed, torrential rain began)",
+            "बिजली चमककर बारिश शुरू हुई (दोषपूर्ण कर्ता अन्वय)",
+            "बिजली चमकने के बाद ही बारिश थी (विलंब भाव)",
+            "बिजली चमकी और बारिश हो गई (साधारण वाक्य)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "तत्कालिकता और भिन्न कर्ता (बिजली और बारिश) हेतु «चमकते ही» का प्रयोग शत-प्रतिशत शुद्ध है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"कला\":",
+          "prompt": "वाक्य «व्यायाम पूरा करने ___ उसने आधा घंटा विश्राम किया» में सही अव्यय भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 14.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («मौसम» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («सूरज» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («कविता» का अशुद्ध रूप)"
+            "के बाद (Ke baad - After completing exercise)",
+            "ते ही (Instant clash error)",
+            "करके (Double participle error)",
+            "बिना (Negative contradiction)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "समय-अंतराल दर्शाने हेतु «व्यायाम पूरा करने के बाद» सही है।"
         }
       ]
     },
@@ -6085,17 +6124,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"कला\": Which sentence is completely correct?",
+          "prompt": "तीनों समयावधियों ('कर', 'ते ही', 'के बाद') के सटीक प्रयोग वाला वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 14.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («सूरज» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («कविता» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («मौसम» से संबंधित)"
+            "वह पत्र लिखकर, लिफाफा बंद करने के बाद डाकघर गया और वहाँ पहुँचते ही पत्र पोस्ट कर दिया। (Having written letter, after sealing envelope he went to post office and as soon as he reached there posted it.)",
+            "वह पत्र लिखते ही लिफाफा करके डाकघर के बाद गया।",
+            "वह पत्र लिखकर डाकघर पहुँचने के बाद पोस्ट करते ही गया।",
+            "पत्र के बाद लिफाफा पहुँचते ही लिखा।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«लिखकर» (पूर्वकालिक), «करने के बाद» (समय अंतराल), और «पहुँचते ही» (तत्कालिकता) तीनों का समन्वय व्याकरणिक रूप से आदर्श है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u14-l5": {
@@ -6103,53 +6143,62 @@
     "subject": "hindi",
     "unit": 14,
     "lessonNumber": 5,
-    "title": "पूर्वकालिक क्रिया: कर-प्रत्यय (Conjunctive Participles) (Part 5)",
+    "title": "पूर्वकालिक और कृदंत संरचनाओं का समग्र समेकन व संश्लेषण (Synthesis of Conjunctive & Participial Structures)",
     "level": "B1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 14.5) with authentic linguistic precision.",
+    "objective": "पूर्वकालिक ('कर'), तत्कालिक ('ते ही') और कालिक ('के बाद') कृदंतों का संश्लिष्ट वृत्तांतों और निबंधात्मक अनुच्छेदों में धाराप्रवाह प्रयोग करने की क्षमता सिद्ध करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "पूर्वकालिक और कृदंत संरचनाओं का संश्लिष्ट भाषा में संयोजन:\n\n1. कृदंत त्रिवेणी का तुलनात्मक विश्लेषण:\n   - **1. धातु + कर/करके**: क्रमिक क्रियाएं, समान कर्ता (उठकर, पढ़कर, देखकर);\n   - **2. धातु + ते ही**: तत्कालिकता, शून्य समय-अंतराल, समान या भिन्न कर्ता (आते ही, देखते ही, बजते ही);\n   - **3. क्रिया-ना + के बाद**: समय का अंतराल, पूर्ण कार्य (खाने के बाद, पहुँचने के बाद)।\n\n2. जटिल वृत्तांतों का निर्माण:\n   - एक परिच्छेद में इनका क्रमिक प्रवाह:\n     *सुबह उठकर, योगाभ्यास करके, स्नान करने के बाद, वह स्टेशन पहुँचते ही ट्रेन में बैठ गया।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 14.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 14."
+          "target": "वह सुबह बहुत जल्दी उठकर, नियमित योगाभ्यास करके और पौष्टिक नाश्ता करने के बाद ठीक समय पर अपने कार्यालय पहुँच गया।",
+          "reading": "vah subah bahut jaldi uthkar, niyamit yogabhyaas karke aur paushtik naashta karne ke baad theek samay par apne kaaryaalay pahunch gaya. [ʋəɦ sʊbəɦ bəɦʊt̪ dʒəldiː ʊʈʰkər nɪjəmɪt̪ joːɡaːbʱjaːs kərkeː ɔːr pɔːʂʈɪk naːʃt̪aː kərneː keː baːd̪ t̪ʰiːk səməj pər əpneː kaːrjaːləj pəɦʊntʃ ɡəjaː] (vuh SOO-buh buh-hoot JUHL-dee OOTH-kuhr, nee-yuh-MEET yoh-gahbh-YAH-suh KUHR-kay owr powsh-TEEK nahsh-TAH KUHR-nay kay bahd theek SUH-muy puhr uhp-NAY kahr-YAH-luy puh-HOONCH GUH-yah)",
+          "translation": "Having woken up very early in the morning, having performed regular yoga practice, and after having a nutritious breakfast, he arrived at his office right on time."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 14-5)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "मुख्य वैज्ञानिक ने प्रयोगशाला में नए उपकरण की कार्यक्षमता का भली-भाँति परीक्षण करके सभी प्राप्त आँकड़ों का अत्यंत सावधानीपूर्वक विश्लेषण किया।",
+          "reading": "mukhya vaigyaanik ne prayogshaala mein naye upkaran ki kaaryakshamta ka bhali-bhaanti pareekshan karke sabhi praapt aankadon ka atyant saavadhaanipoorvak vishleshan kiya. [mʊkʰjə ʋɛːɡjaːnɪk neː prəjoːɡʃaːlaː mẽː nəjeː ʊpkərəɳ kiː kaːrjəkʃəmt̪aː kaː bʱəliː bʱaː̃t̪ɪ pəriːkʃəɳ kərkeː səbʱiː praːpt̪ aː̃kɽõː kaː ət̪jən̪t̪ saːʋd̪ʱaːniːpuːrʋək ʋɪʃleːʂəɳ kɪjaː] (MOOKH-yuh vyg-YAH-neek nay pruh-yohg-SHAH-lah mayn nuh-YAY oop-KUH-ruhn kee kahr-yuh-KSHUHM-tah kah bhuh-LEE-BHAHN-tee puh-REEK-shuhn KUHR-kay SUH-bhee PRAHPT ahn-KUH-dohn kah uht-YUHNT sahv-dhah-nee-POOR-vuhk veesh-LAY-shuhn kee-YAH)",
+          "translation": "The chief scientist, having tested thoroughly the efficiency of the new instrument in the laboratory, analyzed all obtained data extremely carefully."
+        },
+        {
+          "target": "विद्वान वक्ता ने सभागार में उपस्थित श्रोताओं के सभी जटिल प्रश्नों का बहुत शांत भाव से उत्तर देकर पूरी सभा को मंत्रमुग्ध और आनंदित कर दिया।",
+          "reading": "vidvaan vakta ne sabhaagaar mein upasthit shrotaaon ke sabhi jatil prashnon ka bahut shaant bhaav se uttar dekar poori sabha ko mantramugdh aur aanandit kar diya. [ʋɪd̪ʋaːn ʋəkt̪aː neː səbʱaːɡaːr mẽː ʊpəst̪ʰɪt̪ ʃroːt̪aːõː keː səbʱiː dʒəʈɪl prəʃnõː kaː bəɦʊt̪ ʃaːn̪t̪ bʱaːʋ seː ʊt̪ːər d̪eːkər puːriː səbʱaː koː mən̪t̪rəmʊɡd̪ʱ ɔːr aːnən̪d̪ɪt̪ kər d̪ɪjaː] (veed-VAHN VUHK-tah nay suh-bhah-GAHR mayn oo-puhs-THEET shroh-tah-OHN kay SUH-bhee JUH-teel PRUSH-nohn kah buh-hoot SHAHNT bhahv say OOT-tuhr DAY-kuhr POO-ree SUH-bhah koh muhn-truh-MOOGDH owr ah-nuhn-DEET kuhr DEE-yah)",
+          "translation": "The learned speaker, having answered all complex questions of the audience present in the auditorium with a very calm demeanor, charmed and delighted the whole assembly."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "उठकर (कर), योगा करके (करके), नाश्ते के बाद (के बाद), पहुँचते ही (ते ही)! कृदंतों का संपूर्ण प्रवाह!"
+      ],
+      "culturalNotes": [
+        "संस्कृत और हिंदी साहित्य की समृद्ध परंपरा में पूर्वकालिक और तत्कालिक कृदंतों का यह बहुस्तरीय संयोजन महाकाव्यात्मक शैली की मुख्य विशेषता रहा है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"कविता\":",
+          "prompt": "कृदंतों के संश्लिष्ट संयोजन वाला व्याकरणिक रूप से आदर्श वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 14.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («मौसम» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («सूरज» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («बारिश» का अनुचित स्थान)"
+            "रोहन ने समाचार सुनकर, मित्रों से विचार-विमर्श करके उचित कदम उठाया (Rohan, hearing news and consulting friends, took appropriate step)",
+            "रोहन समाचार सुनते ही मित्रों से विचार के बाद कदम उठा लिया (अव्यवस्थित संयोजन)",
+            "रोहन ने समाचार सुन लिया और मित्रों को विचार दिया (सामान्य शिथिल वाक्य)",
+            "रोहन समाचार सुनकर मित्रों से विचार करके ने कदम उठाया (पदक्रम दोष)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«समाचार सुनकर» और «विचार-विमर्श करके» का पूर्वकालिक संयोजन वाक्य को सुगठित और मानक बनाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"कविता\":",
+          "prompt": "वाक्य «अतिथि का सत्कार ___ भोजन परोसकर हमने उन्हें संतुष्ट किया» में रिक्त स्थान का सही रूप क्या है?",
           "options": [
-            "हम इस पाठ में इकाई 14.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («सूरज» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («बारिश» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («मौसम» का अशुद्ध रूप)"
+            "करके (Karke - Having welcomed the guest and served food)",
+            "करते ही (Immediate mismatch)",
+            "किया था (Tense conflict)",
+            "करने पर (Conditional mismatch)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "क्रमिक सम्मानजनक कार्यों के संयोजन में «सत्कार करके भोजन परोसकर» शुद्ध है।"
         }
       ]
     },
@@ -6157,17 +6206,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"कविता\": Which sentence is completely correct?",
+          "prompt": "कृदंत एवं पूर्वकालिक संरचनाओं का समग्र रूप से शुद्ध वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 14.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («बारिश» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («मौसम» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («सूरज» से संबंधित)"
+            "यात्री ने टिकट खरीदकर, सामान जाँच करवाने के बाद गाड़ी में प्रवेश किया और बैठते ही खिड़की खोल दी। (The passenger, having bought ticket and after getting luggage checked, entered the train and as soon as he sat opened the window.)",
+            "यात्री टिकट खरीदते ही सामान करके गाड़ी के बाद खिड़की खोल दिया।",
+            "यात्री ने टिकट के बाद सामान खरीदते ही खिड़की खोलकर गया।",
+            "यात्री टिकट खरीदा और सामान के बाद खिड़की खोल दी।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«खरीदकर» (पूर्वकालिक), «जाँच करवाने के बाद» (समय अंतराल), और «बैठते ही» (तत्कालिकता) का समन्वय शत-प्रतिशत त्रुटिहीन है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u15-l1": {
