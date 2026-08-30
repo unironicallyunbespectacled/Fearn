@@ -7509,85 +7509,89 @@
     "subject": "mandarin",
     "unit": 13,
     "lessonNumber": 1,
-    "title": "职业、学术专业与职场对话 (Professions & Workplace Dialogue) (第1讲)",
+    "title": "现代社会职业职务与行业领域称谓（律师/建筑师/软件工程师/医生/记者/会计/经理/导游） (Professions & Industry Vocabulary)",
     "level": "A2",
-    "objective": "全面掌握与熟练运用本课核心内容：职场职务称谓、大学专业设置、面试沟通及商务电子邮件基础格式。 (第1部分)。",
+    "objective": "系统掌握现代汉语职业称谓（工程师/律师/医师/会计师/建筑师/经理/导游/记者）的词法构成规律，熟练运用「从事......工作 / 担任......职务」表达职业背景。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在现代汉语职业称谓体系中，各类社会职业与企事业单位职务的命名蕴含着严密的构词构件与行业专属规律：\n\n一、核心职业称谓构词规律与行业分类体系：\n1. 专业技能与技术专家（以「师」结尾，具有高度专业权威）：\n- 信息科技：软件工程师、系统架构师、数据分析师、网络安全工程师。\n- 法律与建筑规划：执业律师、建筑师、室内设计师、城市规划师。\n- 财经审计：注册会计师、审计师、精算师、理财规划师。\n- 医疗与工程制造：主任医师、药剂师、机械工程师、土木工程师。\n2. 企事业单位层级管理职务称谓：\n- 决策与管理层：总经理、副总经理、行政总监、财务总监、技术总监。\n- 执行与业务层：部门经理、项目经理、人力资源主管、业务主管、行政助理。\n3. 文教传媒与公共服务职业：\n- 教授、研究员、记者、主编、同声传译翻译官、新闻发言人。\n- 涉外导游、民航乘务员、列车长、酒店大堂经理。\n\n二、表达职业身份与工作职责的核心句式结构：\n1.「主语 + 从事 + 行业/工作」：例如「他长期从事涉外法律咨询工作」。\n2.「主语 + 在 + 单位 + 担任 + 职务」：例如「李女士在跨国科技企业担任高级项目经理」。\n3.「主语 + 主要负责 + 具体业务板块」：例如「我主要负责人工智能算法的研发与落地应用」。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「职业、学术专业与职场对话 (Professions & Workplace Dialogue)」的核心语法法则与应用范例 (13.1.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '职业、学术专业与职场对话 (Professions & Workplace Dialogue)' in simple terms to students at the academic seminar."
+          "target": "王明在一家知名跨国互联网科技企业担任高级软件工程师，主要负责人工智能算法的开发与优化。(Wáng Míng zài yì jiā zhīmíng kuàguó hùliánwǎng kējì qǐyè dānrèn gāojí ruǎnjiàn gōngchéngshī, zhǔyào fùzé réngōng zhìnéng suànfǎ de kāifā yǔ yōuhuà.)",
+          "reading": "[wɑŋ˧˥ miŋ˧˥ t͡saɪ̯˥˩ i˥ t͡ɕja˥ ʈ͡ʂɨ˥.miŋ˧˥ kʰwa˥˩.kwɔ˧˥ xu˥˩.ljɛn˧˥.wɑŋ˨˩˦ kʰɤ˥.t͡ɕi˥˩ t͡ɕʰi˨˩.jɛ˥˩ tan˥.ʐən˥˩ kaʊ̯˥.t͡ɕi˨˩˦ ʐwan˨˩˦.t͡ɕjɛn˥˩ kʊŋ˥.ʈ͡ʂʰəŋ˧˥.ʂɨ˥, ʈ͡ʂu˨˩˦.jaʊ̯˥˩ fu˥˩.t͡sɤ˧˥ ʐən˧˥.kʊŋ˥ ʈ͡ʂɨ˥˩.nɤŋ˧˥ swan˥˩.fa˨˩˦ tɤ kʰaɪ̯˥.fa˥ y˨˩˦ joʊ̯˥.xwa˥˩] (Wáng Míng zài yì jiā zhī-míng kuà-guó hù-lián-wǎng kē-jì qǐ-yè dān-rèn gāo-jí ruǎn-jiàn gōng-chéng-shī, zhǔ-yào fù-zé rén-gōng zhì-néng suàn-fǎ de kāi-fā yǔ yōu-huà.)",
+          "translation": "Wang Ming serves as a senior software engineer at a well-known multinational Internet technology enterprise, mainly responsible for the development and optimization of AI algorithms."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (13.1.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "李女士是一名资深涉外商务律师，擅长处理跨国投资并购与国际知识产权纠纷。(Lǐ nǚshì shì yì míng zīshēn shèwài shāngwù lǜshī, shàncháng chǔlǐ kuàguó tóuzī bìnggòu yǔ guójì zhīshi chǎnquán jiūfēn.)",
+          "reading": "[li˨˩˦ ny˨˩˦.ʂɨ˥˩ ʂɨ˥˩ i˥˩ miŋ˧˥ t͡sɨ˥.ʂən˥ ʂɤ˥˩.waɪ̯˥˩ ʂɑŋ˥.u˥˩ ly˥˩.ʂɨ˥, ʂan˥˩.ʈ͡ʂʰɑŋ˧˥ ʈ͡ʂʰu˨˩˦.li˨˩˦ kʰwa˥˩.kwɔ˧˥ tʰoʊ̯˧˥.t͡sɨ˥ piŋ˥˩.koʊ̯˥˩ y˨˩˦ kwo˧˥.t͡ɕi˥˩ ʈ͡ʂɨ˥.ʂɨ t͡ʂʰan˨˩.t͡ɕʰɥɛn˧˥ t͡ɕjoʊ̯˥.fən˥] (Lǐ nǚ-shì shì yì míng zī-shēn shè-wài shāng-wù lǜ-shī, shàn-cháng chǔ-lǐ kuà-guó tóu-zī bìng-gòu yǔ guó-jì zhī-shi chǎn-quán jiū-fēn.)",
+          "translation": "Ms. Li is a veteran foreign-related commercial lawyer, skilled in handling cross-border mergers and acquisitions and international intellectual property disputes."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (13.1.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "他的父亲是三甲医院的主任医师，母亲是一所重点大学的汉语言文学教授。(Tā de fùqīn shì sānjiǎ yīyuàn de zhǔrèn yīshī, mǔqīn shì yì suǒ zhòngdiǎn dàxué de Hànyǔ yányǔ wénxué jiàoshòu.)",
+          "reading": "[tʰa˥ tɤ fu˥˩.t͡ɕʰin˥ ʂɨ˥˩ san˥.t͡ɕja˨˩˦ i˥.jɥɛn˥˩ tɤ ʈ͡ʂu˨˩˦.ʐən˥˩ i˥.ʂɨ˥, mu˨˩˦.t͡ɕʰin˥ ʂɨ˥˩ i˥ swɔ˨˩˦ ʈ͡ʂʊŋ˥˩.tjɛn˨˩˦ ta˥˩.ɕɥɛ˧˥ tɤ xan˥˩.y˨˩.jan˧˥.y˨˩ wən˧˥.ɕɥɛ˧˥ t͡ɕjaʊ̯˥˩.ʂoʊ̯˥˩] (Tā de fù-qīn shì sān-jiǎ yī-yuàn de zhǔ-rèn yī-shī, mǔ-qīn shì yì suǒ zhòng-diǎn dà-xué de Hàn-yǔ yán-yǔ wén-xué jiào-shòu.)",
+          "translation": "His father is a chief physician at a Grade-A tertiary hospital, and his mother is a professor of Chinese language and literature at a key university."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (13.1.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "大学毕业以后，张华选择从事国际旅游文化交流工作，成为了一名优秀的涉外双语导游。(Dàxué bìyè yǐhòu, Zhāng Huá xuǎnzé cóngshì guójì lǚyóu wénhuà jiāoliú gōngzuò, chéngwéi le yì míng yōuxiù de shèwài shuāngyǔ dǎoyóu.)",
+          "reading": "[ta˥˩.ɕɥɛ˧˥ pi˥˩.jɛ˥˩ i˨˩.xoʊ̯˥˩, ʈ͡ʂɑŋ˥ xwa˧˥ ɕɥɛn˨˩˦.t͡sɤ˧˥ t͡sʰʊŋ˧˥.ʂɨ˥˩ kwo˧˥.t͡ɕi˥˩ ly˨˩.joʊ̯˧˥ wən˧˥.xwa˥˩ t͡ɕjaʊ̯˥.ljoʊ̯˧˥ kʊŋ˥.t͡swoʊ̯˥˩, ʈ͡ʂʰəŋ˧˥.weɪ̯˧˥ lɤ i˥˩ miŋ˧˥ joʊ̯˥.ɕjoʊ̯˥˩ tɤ ʂɤ˥˩.waɪ̯˥˩ ʂwaŋ˥.y˨˩˦ taʊ̯˨˩˦.joʊ̯˧˥] (Dà-xué bì-yè yǐ-hòu, Zhāng Huá xuǎn-zé cóng-shì guó-jì lǚ-yóu wén-huà jiāo-liú gōng-zuò, chéng-wéi le yì míng yōu-xiù de shè-wài shuāng-yǔ dǎo-yóu.)",
+          "translation": "After graduating from university, Zhang Hua chose to engage in international tourism and cultural exchange work, becoming an outstanding foreign-related bilingual tour guide."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "工程师写程序，律师法官断是非；医护教授施仁德，各行各业展光辉！"
+      ],
+      "culturalNotes": [
+        "在现代中国社会，各类专业技术人才备受尊敬，具有国家专业资格认证的「工程师、律师、会计师、医师、教师」是推动社会高质量发展的骨干栋梁。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「职业、学术专业与职场对话 (Professions & Workplace Dialogue)」（第1讲）的标准汉语规范？",
+          "prompt": "在现代企业组织架构中，负责统筹全公司整体运营管理的最高行政领导职务称谓是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「职业、学术专业与职场对话 (Professions & Workplace Dialogue)」的核心语法法则与应用范例 (13.1.1)。",
-            "存在语序混乱且虚词误用的病句选项 (13.1.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (13.1.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (13.1.w3)"
+            "总经理 (General Manager / CEO)",
+            "出纳员",
+            "前台接待",
+            "实习生"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「总经理」是主持企业日常经营管理工作的最高行政长官。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "表达某人从事的行业与岗位，最标准地道的规范句式框架是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "他长期从事软件开发工作，在公司担任架构师。(从事 + 行业，担任 + 职务)",
+            "他从事了架构师，在公司工作从事。",
+            "他担任在软件开发，从事架构师。",
+            "他是工作从事担任架构师。"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「从事......工作」搭配行业，「担任......职务」搭配具体职位。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「职业、学术专业与职场对话 (Professions & Workplace Dialogue)」的正式语境下，最准确得体的表达是哪一项？（第13.1题）",
+          "prompt": "下列哪一组职业称谓与工作内容的搭配完全对应准确？",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (13.1.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (13.1.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (13.1.x2)",
-            "量词与名词修饰搭配错误的病句选项 (13.1.x3)"
+            "律师辩护诉讼、医师救死扶伤、记者采访报道、会计核算账目 (Precise occupational correspondences)",
+            "律师救死扶伤、医师核算账目、记者设计图纸、会计采访报道",
+            "建筑师辩护诉讼、导游编写代码、工程师带领旅游",
+            "教师开处方药、厨师诊断病情、法官炒菜做饭"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "律师诉讼、医师治病、记者采访、会计算账，职责匹配极为严谨。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u13-l1）所要求的高阶语言表达？",
+          "prompt": "在跨国文化交流与涉外旅游中，负责讲解景点历史文化与行程协调的专业人员是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (13.1.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (13.1.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (13.1.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (13.1.y3)"
+            "涉外导游 (Tour guide for international visitors)",
+            "程序员",
+            "精算师",
+            "机械师"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「导游」是引领游客观光并讲解文化历史的专业文旅工作者。"
         }
       ]
     },
@@ -7595,25 +7599,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「职业、学术专业与职场对话 (Professions & Workplace Dialogue)」的掌握程度，请选出表述完全正确的标准范句（测试 13-1）：",
+          "prompt": "请选出下列职场身份介绍中用词最典雅、句式结构最严密规范的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (13.1.4)。",
-            "被动句式与处置句式混用导致的严重病句 (13.1.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (13.1.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (13.1.z3)"
+            "陈先生毕业于同济大学建筑系，目前在一家国家级规划设计院担任高级建筑师，主持过多项大型城市地标工程的设计工作。(毕业院校、单位、职务及业绩叙述典范严谨)",
+            "陈先生从事建筑师，在设计院做大官，搞房子。(用词粗俗语意含混)",
+            "陈先生担任在设计院，工作做建筑。(语法结构残缺破碎)",
+            "陈先生主持做设计建筑师在城市。(语序完全混乱)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该句在学历背景、就职机构、职务头衔及项目业绩表述上均达到了高级职场汉语的最高标准。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u13-l1）的核心关键词（例如「职业、学」）：",
+          "prompt": "请输入专门从事法律代理、法律咨询与法庭辩护的核心双字职业名称（拼音为 lǜshī）：",
           "acceptedAnswers": [
-            "职业、学",
-            "职业、学术专",
-            "职业、学术专业与职场对话"
+            "律师"
           ],
-          "explanation": "正确的核心关键词为「职业、学」。"
+          "explanation": "词语「律师」是现代汉语中指称法律专业执业人员的核心专有名词。"
         }
       ],
       "passThreshold": 0.8
@@ -7624,85 +7626,89 @@
     "subject": "mandarin",
     "unit": 13,
     "lessonNumber": 2,
-    "title": "职业、学术专业与职场对话 (Professions & Workplace Dialogue) (第2讲)",
+    "title": "大学学科专业与学术研究方向（计算机科学/金融学/国际经济与贸易/汉语言文学/临床医学） (Academic Majors & Fields of Study)",
     "level": "A2",
-    "objective": "全面掌握与熟练运用本课核心内容：职场职务称谓、大学专业设置、面试沟通及商务电子邮件基础格式。 (第2部分)。",
+    "objective": "熟练掌握大学核心学科门类（工学/理学/经管/人文/医学）及专业名称，熟练运用「主修/辅修/研究方向」阐述学术教育背景。",
     "presentation": {
-      "explanation": "",
+      "explanation": "大学本科与研究生教育的学科专业体系是构建个人学术身份与职业发展基石的核心知识领域：\n\n一、大学核心学科门类与前沿专业体系：\n1. 工学与计算机前沿科技类：\n- 计算机科学与技术、软件工程、人工智能、数据科学与大数据技术、电子信息工程、自动化、土木工程、微电子学。\n2. 经济学、金融学与管理学类：\n- 金融学、国际经济与贸易、财政学、工商管理、市场营销、会计学、人力资源管理、供应链与物流管理。\n3. 人文社会科学与法学语言类：\n- 汉语言文学、应用语言学、对外汉语教育、国际法学、新闻传播学、哲学、历史学、社会学。\n4. 医学与生命科学类：\n- 临床医学、口腔医学、基础医学、中医学、针灸推拿学、药学、生物工程。\n\n二、阐述大学学术背景的核心句法框架：\n1.「本科阶段主修 + 专业名称，辅修 + 专业名称」：例如「本科主修国际经济与贸易，同时辅修了英语专业」。\n2.「硕士/博士研究生阶段的研究方向是 + 具体学术领域」：例如「我的硕士研究方向是跨文化传播与汉语国际教育」。\n3.「毕业于 + 大学名称 + 学院」：例如「他毕业于清华大学计算机科学与技术系，获工学学士学位」。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「职业、学术专业与职场对话 (Professions & Workplace Dialogue)」的核心语法法则与应用范例 (13.2.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '职业、学术专业与职场对话 (Professions & Workplace Dialogue)' in simple terms to students at the academic seminar."
+          "target": "大卫在清华大学主修计算机科学与技术专业，同时还辅修了工商管理双学士学位。(Dàwèi zài Qīnghuá Dàxué zhǔxiū Jìsuànjī Kēxué yǔ Jìshù zhuānyè, tóngshí hái fǔxiū le Gōngshāng Guǎnlǐ shuāng xuéshì xuéwèi.)",
+          "reading": "[ta˥˩.weɪ̯˥˩ t͡saɪ̯˥˩ t͡ɕʰiŋ˥.xwa˧˥ ta˥˩.ɕɥɛ˧˥ ʈ͡ʂu˨˩˦.ɕjoʊ̯˥ t͡ɕi˥˩.swan˥˩.t͡ɕi˥ kʰɤ˥.ɕɥɛ˧˥ y˨˩˦ t͡ɕi˥˩.ʂu˥˩ ʈ͡ʂwan˥.jɛ˥˩, tʰʊŋ˧˥.ʂɨ˧˥ xaɪ̯˧˥ fu˨˩˦.ɕjoʊ̯˥ lɤ kʊŋ˥.ʂɑŋ˥ kwan˨˩˦.li˨˩˦ ʂwaŋ˥ ɕɥɛ˧˥.ʂɨ˥˩ ɕɥɛ˧˥.weɪ̯˥˩] (Dà-wèi zài Qīng-huá Dà-xué zhǔ-xiū Jì-suàn-jī Kē-xué yǔ Jì-shù zhuān-yè, tóng-shí hái fǔ-xiū le Gōng-shāng Guǎn-lǐ shuāng xué-shì xué-wèi.)",
+          "translation": "David majored in Computer Science and Technology at Tsinghua University, while also minoring in Business Administration for a double bachelor's degree."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (13.2.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "她的硕士研究方向是国际经济与贸易规则，毕业后计划去跨国金融机构从事宏观经济分析工作。(Tā de shuòshì yánjiū fāngxiàng shì guójì jīngjì yǔ màoyì guīzé, bìyè hòu jìhuà qù kuàguó jīnróng jīgòu cóngshì hóngguān jīngjì fēnxī gōngzuò.)",
+          "reading": "[tʰa˥ tɤ ʂwɔ˥˩.ʂɨ˥˩ jan˧˥.t͡ɕjoʊ̯˥ fɑŋ˥.ɕjaŋ˥˩ ʂɨ˥˩ kwo˧˥.t͡ɕi˥˩ t͡ɕiŋ˥.t͡ɕi˥˩ y˨˩˦ maʊ̯˥˩.i˥˩ kweɪ̯˥.t͡sɤ˧˥, pi˥˩.jɛ˥˩ xoʊ̯˥˩ t͡ɕi˥˩.xwa˥˩ t͡ɕʰy˥˩ kʰwa˥˩.kwɔ˧˥ t͡ɕin˥.ʐʊŋ˧˥ t͡ɕi˥.koʊ̯˥˩ t͡sʰʊŋ˧˥.ʂɨ˥˩ xʊŋ˧˥.kwan˥ t͡ɕiŋ˥.t͡ɕi˥˩ feɪ̯n˥.ɕi˥ kʊŋ˥.t͡swoʊ̯˥˩] (Tā de shuò-shì yán-jiū fāng-xiàng shì guó-jì jīng-jì yǔ mào-yì guī-zé, bì-yè hòu jì-huà qù kuà-guó jīn-róng jī-gòu cóng-shì hóng-guān jīng-jì fēn-xī gōng-zuò.)",
+          "translation": "Her master's research direction is international economic and trade rules; after graduation she plans to go to a multinational financial institution to engage in macroeconomic analysis."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (13.2.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "作为一名汉语言文学专业的留学生，安娜对中国古代唐诗宋词和古典文献版本学有着深厚的研究兴趣。(Zuòwéi yì míng Hànyǔ yányǔ wénxué zhuānyè de liúxuéshēng, Ānnà duì Zhōngguó gǔdài Tángshī Sòngcí hé gǔdiǎn wénxiàn bǎnběnxué yǒu zhe shēnhòu de yánjiū xìngqù.)",
+          "reading": "[t͡swoʊ̯˥˩.weɪ̯˧˥ i˥˩ miŋ˧˥ xan˥˩.y˨˩.jan˧˥.y˨˩ wən˧˥.ɕɥɛ˧˥ ʈ͡ʂwan˥.jɛ˥˩ tɤ ljoʊ̯˧˥.ɕɥɛ˧˥.ʂəŋ, an˥.na˥˩ tweɪ̯˥˩ ʈ͡ʂʊŋ˥.kwɔ˧˥ ku˨˩.taɪ̯˥˩ tʰɑŋ˧˥.ʂɨ˥ sʊŋ˥˩.t͡sʰɨ˧˥ xɤ˧˥ ku˨˩.tjɛn˨˩˦ wən˧˥.ɕjɛn˥˩ pan˨˩˦.pən˨˩.ɕɥɛ˧˥ joʊ̯˨˩˦ ʈ͡ʂɤ ʂən˥.xoʊ̯˥˩ tɤ jan˧˥.t͡ɕjoʊ̯˥ ɕiŋ˥˩.t͡ɕʰy˥˩] (Zuò-wéi yì míng Hàn-yǔ yán-yǔ wén-xué zhuān-yè de liú-xué-shēng, Ān-nà duì Zhōng-guó gǔ-dài Táng-shī Sòng-cí hé gǔ-diǎn wén-xiàn bǎn-běn-xué yǒu zhe shēn-hòu de yán-jiū xìng-qù.)",
+          "translation": "As an international student majoring in Chinese Language and Literature, Anna has profound research interest in ancient Chinese Tang poetry, Song lyrics, and classical philology."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (13.2.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "医学院的学生必须在临床医学专业经过长达五年以上的系统理论学习与严谨的医院规培实习。(Yīxuéyuàn de xuésheng bìxū zài línchuáng yīxué zhuānyè jīngguò chángdá wǔ nián yǐshàng de xìtǒng lǐlùn xuéxí yǔ yánjǐn de yīyuàn guīpéi shíxí.)",
+          "reading": "[i˥.ɕɥɛ˧˥.jɥɛn˥˩ tɤ ɕɥɛ˧˥.ʂəŋ pi˥˩.ɕy˥ t͡saɪ̯˥˩ lin˧˥.ʈ͡ʂʰwɑŋ˧˥ i˥.ɕɥɛ˧˥ ʈ͡ʂwan˥.jɛ˥˩ t͡ɕiŋ˥.kwo˥˩ t͡ʂʰɑŋ˧˥.ta˨˩˦ u˨˩˦ njɛn˧˥ i˨˩.ʂɑŋ˥˩ tɤ ɕi˥˩.tʰʊŋ˨˩˦ li˨˩.lwen˥˩ ɕɥɛ˧˥.ɕi˧˥ y˨˩˦ jan˧˥.t͡ɕin˨˩˦ tɤ i˥.jɥɛn˥˩ kweɪ̯˥.pʰeɪ̯˧˥ ʂɨ˧˥.ɕi˧˥] (Yī-xué-yuàn de xué-sheng bì-xū zài lín-chuáng yī-xué zhuān-yè jīng-guò cháng-dá wǔ nián yǐ-shàng de xì-tǒng lǐ-lùn xué-xí yǔ yán-jǐn de yī-yuàn guī-péi shí-xí.)",
+          "translation": "Medical school students must undergo over five years of systematic theoretical study and rigorous hospital standardized residency training in clinical medicine."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "计科金融医文理，主修辅修研方向；文理交融博精深，专业报国铸栋梁！"
+      ],
+      "culturalNotes": [
+        "中国高等教育注重理论基础扎实与科研实践创新并重。随着新工科、新文科、新医科的建设，跨学科复合型学术背景成为当代青年学子的显著特色。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「职业、学术专业与职场对话 (Professions & Workplace Dialogue)」（第2讲）的标准汉语规范？",
+          "prompt": "在大学阶段，除主要学习的第一专业之外，同时修读的第二专业被称为：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「职业、学术专业与职场对话 (Professions & Workplace Dialogue)」的核心语法法则与应用范例 (13.2.1)。",
-            "存在语序混乱且虚词误用的病句选项 (13.2.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (13.2.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (13.2.w3)"
+            "辅修专业 (Minor / Secondary major)",
+            "主修专业",
+            "选修课",
+            "必修课"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「辅修专业」指学生在修读主修专业的同时修读的辅助学科专业。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "表达研究生深入钻研的专门学术领域，最规范的汉语术语是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "研究方向 (Research direction / specialization)",
+            "课外活动",
+            "兴趣小组",
+            "平时作业"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「研究方向」是研究生阶段聚焦学术前沿探索的专业细分领域。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「职业、学术专业与职场对话 (Professions & Workplace Dialogue)」的正式语境下，最准确得体的表达是哪一项？（第13.2题）",
+          "prompt": "下列哪一项学科门类与所属专业的分类完全正确？",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (13.2.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (13.2.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (13.2.x2)",
-            "量词与名词修饰搭配错误的病句选项 (13.2.x3)"
+            "工学包含计算机与软件工程，人文包含汉语言文学与哲学 (Accurate academic classification)",
+            "医学包含国际经济与贸易，工学包含古诗词鉴赏",
+            "法学包含临床外科手术，理学包含民事诉讼法",
+            "管理学包含人体解剖学，文学包含半导体集成电路"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "计算机属于工科，文哲属于人文学科，分类准确严谨。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u13-l2）所要求的高阶语言表达？",
+          "prompt": "在介绍个人学术背景时，表达「获得工科学士学位」的标准说法是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (13.2.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (13.2.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (13.2.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (13.2.y3)"
+            "获工学学士学位 (Awarded Bachelor of Engineering)",
+            "拿工科毕业证书",
+            "考工科满分",
+            "读工科书本"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「获工学学士学位」是正规学历学位表述的标准学术用语。"
         }
       ]
     },
@@ -7710,25 +7716,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「职业、学术专业与职场对话 (Professions & Workplace Dialogue)」的掌握程度，请选出表述完全正确的标准范句（测试 13-2）：",
+          "prompt": "请选出下列学术背景介绍中专业术语最规范、逻辑表达最流畅严密的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (13.2.4)。",
-            "被动句式与处置句式混用导致的严重病句 (13.2.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (13.2.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (13.2.z3)"
+            "张华本科就读于北京大学软件工程专业，硕士阶段师从知名学者专攻人工智能与自然语言处理研究方向，在顶级学术期刊发表过多篇高水平论文。(专业门类、师从名师、研究方向及学术产出表述极为典雅规范)",
+            "张华本科读电脑做软件，硕士找老师搞聊天机器人，写了文章。(表述俚俗欠缺学术严谨性)",
+            "张华就读人工智能研究方向在本科，硕士专攻软件工程大学。(逻辑顺序颠倒错乱)",
+            "张华学位了工学在论文研究方向。(语法结构彻底混乱)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该句学术语体色彩浓厚，专业术语精准，展现了高阶汉语的书面语典范规范。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u13-l2）的核心关键词（例如「职业、学」）：",
+          "prompt": "请输入指称大学里某一专门学科知识领域的核心双字名词（例如主修「」，拼音为 zhuānyè）：",
           "acceptedAnswers": [
-            "职业、学",
-            "职业、学术专",
-            "职业、学术专业与职场对话"
+            "专业"
           ],
-          "explanation": "正确的核心关键词为「职业、学」。"
+          "explanation": "词语「专业」是现代高等教育中指称专门学术学科分类的核心名词。"
         }
       ],
       "passThreshold": 0.8
@@ -7739,85 +7743,89 @@
     "subject": "mandarin",
     "unit": 13,
     "lessonNumber": 3,
-    "title": "职业、学术专业与职场对话 (Professions & Workplace Dialogue) (第3讲)",
+    "title": "求职招聘与求职信/个人简历核心要素（工作经历/项目经验/教育背景/专业技能） (Job Application & Resumes)",
     "level": "A2",
-    "objective": "全面掌握与熟练运用本课核心内容：职场职务称谓、大学专业设置、面试沟通及商务电子邮件基础格式。 (第3部分)。",
+    "objective": "掌握中文个人求职简历（教育背景/实习经历/项目成果/技能证书）四大核心模块的书写规范，熟练撰写得体严谨的求职自荐信。",
     "presentation": {
-      "explanation": "",
+      "explanation": "中文求职简历与自荐信是求职者向用人单位展示综合素质、专业技能与岗位匹配度的首要商业书面语载体：\n\n一、中文个人简历四大核心支柱模块：\n1. 个人基本信息与求职意向：\n- 包含姓名、联系电话、电子邮箱、常住城市，以及明确具体的应聘岗位意向。\n2. 教育背景（按时间倒叙排列）：\n- 就读高校名称、所属院系与主修专业、学位学历、在校学积分绩点排名、重大荣誉奖学金。\n3. 工作经历与实习经历（运用行动动词与量化成果）：\n- 任职机构、岗位名称、核心工作职责、团队协作表现、为单位带来的量化效益与业绩指标。\n4. 核心项目经验与专业技能证书：\n- 担任的项目角色、核心攻关难点、项目最终交付成果。\n- 语言水平等级认证（如汉语水平考试高级证书）、计算机专业技能、从业执业资格认证。\n\n二、商务求职自荐信的严谨格式与敬语系统：\n1. 尊称称谓：尊敬的招聘负责人、尊敬的人力资源总监。\n2. 正文开篇：本人谨向贵公司应聘某某岗位，并简述从何处获悉招聘资讯。\n3. 核心论证：阐述个人专业背景与实践能力如何高度契合贵岗位的任职要求。\n4. 结语祝颂：此致，敬礼！并附上简历与作品附件。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「职业、学术专业与职场对话 (Professions & Workplace Dialogue)」的核心语法法则与应用范例 (13.3.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '职业、学术专业与职场对话 (Professions & Workplace Dialogue)' in simple terms to students at the academic seminar."
+          "target": "请在您的个人简历中详细列出教育背景、实习工作经历、核心专业技能以及所获得的专业资格证书。(Qǐng zài nín de gèrén jiǎnlì zhōng xiángxì lièchū jiàoyù bèijǐng, shíxí gōngzuò jīnglì, hexin zhuānyè jìnéng yǐjí suǒ huòdé de zhuānyè zīgé zhèngshū.)",
+          "reading": "[t͡ɕʰiŋ˨˩˦ t͡saɪ̯˥˩ nin˧˥ tɤ kɤ˥˩.ʐən˧˥ t͡ɕjan˨˩˦.li˥˩ ʈ͡ʂʊŋ˥ ɕjaŋ˧˥.ɕi˥˩ ljɛ˥˩.ʈ͡ʂʰu˥ t͡ɕjaʊ̯˥˩.y˥˩ peɪ̯˥˩.t͡ɕiŋ˨˩˦, ʂɨ˧˥.ɕi˧˥ kʊŋ˥.t͡swoʊ̯˥˩ t͡ɕiŋ˥.li˥˩, xɤ˧˥.ɕin˥ ʈ͡ʂwan˥.jɛ˥˩ t͡ɕi˥˩.nɤŋ˧˥ i˨˩.t͡ɕi˧˥ swɔ˨˩˦ xwo˥˩.tɤ˧˥ ʈ͡ʂwan˥.jɛ˥˩ t͡sɨ˥.kɤ˧˥ ʈ͡ʂɤŋ˥˩.ʂu˥] (Qǐng zài nín de gè-rén jiǎn-lì zhōng xiáng-xì liè-chū jiào-yù bèi-jǐng, shí-xí gōng-zuò jīng-lì, hé-xīn zhuān-yè jì-néng yǐ-jí suǒ huò-dé de zhuān-yè zī-gé zhèng-shū.)",
+          "translation": "Please list in detail your educational background, internship and work experience, core professional skills, and acquired professional qualification certificates in your personal resume."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (13.3.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "我在大学期间曾多次参与大型软件项目的研发工作，具备扎实的编程功底和优秀的团队协作解决问题能力。(Wǒ zài dàxué qījiān céng duōcì cānyù dàxíng ruǎnjiàn xiàngmù de yánfā gōngzuò, jùbèi zhāshi de biānchéng gōngdǐ hé yōuxiù de tuánduì xiézuò jiějué wèntí nénglì.)",
+          "reading": "[wɔ˨˩ t͡saɪ̯˥˩ ta˥˩.ɕɥɛ˧˥ t͡ɕʰi˥.t͡ɕjɛn˥ t͡sʰəŋ˧˥ twɔ˥.t͡sʰɨ˥˩ t͡sʰan˥.y˨˩˦ ta˥˩.ɕiŋ˧˥ ʐwan˨˩˦.t͡ɕjɛn˥˩ ɕjaŋ˥˩.mu˥˩ tɤ jan˧˥.fa˥ kʊŋ˥.t͡swoʊ̯˥˩, t͡ɕy˥˩.peɪ̯˥˩ ʈ͡ʂa˥.ʂɨ tɤ pjɛn˥.ʈ͡ʂʰəŋ˧˥ kʊŋ˥.ti˨˩˦ xɤ˧˥ joʊ̯˥.ɕjoʊ̯˥˩ tɤ tʰwan˧˥.tweɪ̯˥˩ ɕjɛ˧˥.t͡swoʊ̯˥˩ t͡ɕjɛ˨˩˦.t͡ɕɥɛ˧˥ wən˥˩.tʰi˧˥ nɤŋ˧˥.li˥˩] (Wǒ zài dà-xué qī-jiān céng duō-cì cān-yù dà-xíng ruǎn-jiàn xiàng-mù de yán-fā gōng-zuò, jù-bèi zhā-shi de biān-chéng gōng-dǐ hé yōu-xiù de tuán-duì xié-zuò jiě-jué wèn-tí néng-lì.)",
+          "translation": "During university, I participated multiple times in the R&D work of large-scale software projects, possessing solid programming foundation and outstanding team collaboration problem-solving skills."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (13.3.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "尊敬的招聘主管：本人谨向贵公司应聘涉外商务经理一职，随信附上我的中英文简历与学历证明。(Zūnjìng de zhāopìn zhǔguǎn: Běnrén jǐn xiàng guì gōngsī yìngpìn shèwài shāngwù jīnglǐ yì zhí, suí xìn fùshang wǒ de Zhōng-Yīngwén jiǎnlì yǔ xuélì zhèngmíng.)",
+          "reading": "[t͡swən˥.t͡ɕiŋ˥˩ tɤ ʈ͡ʂaʊ̯˥.pʰin˥˩ ʈ͡ʂu˨˩˦.kwan˨˩˦: pən˨˩˦.ʐən˧˥ t͡ɕin˨˩˦ ɕjaŋ˥˩ kweɪ̯˥˩ kʊŋ˥.sɨ˥ iŋ˥˩.pʰin˥˩ ʂɤ˥˩.waɪ̯˥˩ ʂɑŋ˥.u˥˩ t͡ɕiŋ˥.li˨˩˦ i˥ ʈ͡ʂɨ˧˥, sweɪ̯˧˥ ɕin˥˩ fu˥˩.ʂɑŋ wɔ˨˩ tɤ ʈ͡ʂʊŋ˥.iŋ˥.wən˧˥ t͡ɕjan˨˩˦.li˥˩ y˨˩˦ ɕɥɛ˧˥.li˥˩ ʈ͡ʂɤŋ˥˩.miŋ˧˥] (Zūn-jìng de zhāo-pìn zhǔ-guǎn: Běn-rén jǐn xiàng guì gōng-sī yìng-pìn shè-wài shāng-wù jīng-lǐ yì zhí, suí xìn fù-shang wǒ de Zhōng-Yīng-wén jiǎn-lì yǔ xué-lì zhèng-míng.)",
+          "translation": "Respected Hiring Manager: I hereby apply for the position of Foreign-related Business Manager at your company, enclosing my Chinese-English resumes and degree certificates with this letter."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (13.3.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "凭借优异的专业学术成绩和出色的多语种跨文化交际能力，他在激烈的校园秋季招聘中脱颖而出。(Píngjiè yōuyì de zhuānyè xueshu chéngjì hé chūsè de duōyǔzhǒng kuàwénhuà jiāoliú nénglì, tā zài jīliè de xiàoyuán qiūjì zhāopìn zhōng tuōyǐng-érchū.)",
+          "reading": "[pʰiŋ˧˥.t͡ɕjɛ˥˩ joʊ̯˥.i˥˩ tɤ ʈ͡ʂwan˥.jɛ˥˩ ɕɥɛ˧˥.ʂu˥˩ ʈ͡ʂʰəŋ˧˥.t͡ɕi˥˩ xɤ˧˥ ʈ͡ʂʰu˥.sɤ˥˩ tɤ twɔ˥.y˨˩.ʈ͡ʂʊŋ˨˩˦ kʰwa˥˩.wən˧˥.xwa˥˩ t͡ɕjaʊ̯˥.ljoʊ̯˧˥ nɤŋ˧˥.li˥˩, tʰa˥ t͡saɪ̯˥˩ t͡ɕi˥.ljɛ˥˩ tɤ ɕjaʊ̯˥.jɥɛn˧˥ t͡ɕʰjoʊ̯˥.t͡ɕi˥˩ ʈ͡ʂaʊ̯˥.pʰin˥˩ ʈ͡ʂʊŋ˥ tʰwɔ˥.iŋ˨˩˦ aɚ˧˥.ʈ͡ʂʰu˥] (Píng-jiè yōu-yì de zhuān-yè xué-shù chéng-jì hé chū-sè de duō-yǔ-zhǒng kuà-wén-huà jiāo-liú néng-lì, tā zài jī-liè de xiào-yuán qiū-jì zhāo-pìn zhōng tuō-yǐng-ér-chū.)",
+          "translation": "Relying on excellent professional academic results and outstanding multilingual intercultural communication ability, he stood out in the intense campus autumn recruitment."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "简历求职条理清，教育经历技能明；项目业绩用数据，自信契合展前程！"
+      ],
+      "culturalNotes": [
+        "在中国求职文化中，每逢九十月份的「秋招」与次年三四月份的「春招」是高校应届毕业生迈入职场的黄金时期。简历呈现强调实事求是与数据支撑。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「职业、学术专业与职场对话 (Professions & Workplace Dialogue)」（第3讲）的标准汉语规范？",
+          "prompt": "在中文简历中，概括求职者以往在企事业单位所承担职责与业务产出的模块是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「职业、学术专业与职场对话 (Professions & Workplace Dialogue)」的核心语法法则与应用范例 (13.3.1)。",
-            "存在语序混乱且虚词误用的病句选项 (13.3.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (13.3.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (13.3.w3)"
+            "工作经历 / 实习经历 (Work and internship experience)",
+            "兴趣爱好",
+            "家庭成员",
+            "休闲娱乐"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「工作经历/实习经历」是展现求职者实战能力与业务产出的核心模块。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在正式商务求职信中，称呼对方公司与自称的规范敬语与谦称是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "贵公司（敬称对方），本人 / 应聘者（谦称自己） (Standard business respectful & humble terms)",
+            "你家公司，我本人",
+            "那个单位，我们几个",
+            "老板公司，小弟"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「贵公司」是对用人单位的标准敬称，「本人」是求职者的规范自称。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「职业、学术专业与职场对话 (Professions & Workplace Dialogue)」的正式语境下，最准确得体的表达是哪一项？（第13.3题）",
+          "prompt": "下列哪一项求职信中的自我推荐语句最具说服力且符合商务礼仪？",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (13.3.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (13.3.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (13.3.x2)",
-            "量词与名词修饰搭配错误的病句选项 (13.3.x3)"
+            "我相信我的专业知识储备与多语种沟通能力非常契合贵公司的岗位需求。(Polite, confident, and highly tailored)",
+            "你们公司必须录用我，因为我最厉害。",
+            "我随便找个工作干干，不行我就辞职。",
+            "给多少钱我就干多少活。"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "该句态度自信谦逊，明确表达了专业技能与岗位需求的契合度。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u13-l3）所要求的高阶语言表达？",
+          "prompt": "在简历中列举项目经验时，最能体现工作成效的科学方法是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (13.3.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (13.3.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (13.3.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (13.3.y3)"
+            "用具体翔实的数据与量化指标说明成果 (Using quantifiable data & metrics)",
+            "只写项目名字不写任何细节",
+            "夸大其词编造虚假信息",
+            "用长篇大论抒发个人感慨"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "量化数据（如提高效率20%、交付百万级系统）是用人单位最为看重的硬指标。"
         }
       ]
     },
@@ -7825,25 +7833,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「职业、学术专业与职场对话 (Professions & Workplace Dialogue)」的掌握程度，请选出表述完全正确的标准范句（测试 13-3）：",
+          "prompt": "请选出下列求职邮件正文中格式最规范、语气最得体、用词最典范的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (13.3.4)。",
-            "被动句式与处置句式混用导致的严重病句 (13.3.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (13.3.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (13.3.z3)"
+            "尊敬的招聘负责人：您好！得知贵公司正在招聘涉外项目助理，本人深感该岗位与我的专业背景高度契合。随信附上我的个人简历与成绩单，恳请审阅。期待能有机会参与面试。此致，敬礼！(格式完备、敬语得体、行文极度规范)",
+            "喂，招人吗？看我简历吧，快点回复。(极度不礼貌且格式残缺)",
+            "贵公司好，我来找工作了，给我多少工资？(语气轻浮全无礼仪)",
+            "招聘你看简历在附件里，一定要要我。(语法错乱缺乏修养)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该求职信包含了尊称、应聘缘由、契合说明、附件提示、面试期待与标准祝颂语，堪称商务书信典范。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u13-l3）的核心关键词（例如「职业、学」）：",
+          "prompt": "请输入求职时向用人单位提交的概述个人教育背景与经历的核心双字书面材料名称（拼音为 jiǎnlì）：",
           "acceptedAnswers": [
-            "职业、学",
-            "职业、学术专",
-            "职业、学术专业与职场对话"
+            "简历"
           ],
-          "explanation": "正确的核心关键词为「职业、学」。"
+          "explanation": "词语「简历」是求职招聘中指称个人履历表的核心专用名词。"
         }
       ],
       "passThreshold": 0.8
@@ -7854,85 +7860,89 @@
     "subject": "mandarin",
     "unit": 13,
     "lessonNumber": 4,
-    "title": "职业、学术专业与职场对话 (Professions & Workplace Dialogue) (第4讲)",
+    "title": "职场面试实战问答与商务沟通礼仪（自我介绍/优缺点分析/薪资待遇/团队协作） (Job Interview & Professional Etiquette)",
     "level": "A2",
-    "objective": "全面掌握与熟练运用本课核心内容：职场职务称谓、大学专业设置、面试沟通及商务电子邮件基础格式。 (第4部分)。",
+    "objective": "熟练掌握职场求职面试经典问答策略（三分钟自我介绍/优劣势分析/职业规划/薪酬福利协商），严格遵守中国职场商务礼仪规范。",
     "presentation": {
-      "explanation": "",
+      "explanation": "求职面试是求职者与用人单位展开深度双向沟通、全面评估综合素质与企业文化契合度的关键实战环节：\n\n一、职场面试经典问答策略与核心话术体系：\n1. 高效精炼的自我介绍（三分钟黄金法则）：\n- 提纲挈领：说明教育背景与专业方向，突出两到三个与岗位最匹配的核心竞争优势，简要列举代表性项目成果与求职动机。\n2. 核心竞争优势与个人长处剖析：\n- 话术框架：我的核心优势体现在扎实的专业理论功底、敏锐的逻辑分析能力以及强大的团队协作与抗压执行力。\n3. 面对个人短板与不足的成熟应答智慧：\n- 话术原则：坦诚承认非核心经验短板，重点阐述正在采取的积极弥补措施（例如通过持续向前辈请教与自主深造快速提升）。\n4. 未来三至五年的职业规划展望：\n- 话术框架：立足基层岗位扎实掌握核心业务，逐步成长为业务骨干，未来为团队协同管理与公司战略发展贡献价值。\n5. 薪资待遇与职业发展通道探讨：\n- 礼貌咨询：基本薪资、绩效奖金机制、社会保险与住房公积金（五险一金）、带薪年休假以及员工晋升通道。\n\n二、中国职场面试沟通礼仪黄金法则：\n1. 开场与结束致谢礼仪：感谢各位面试官在百忙之中给予宝贵的面试机会。\n2. 倾听与眼神交流：沉稳专注、表达清晰、自信从容、谦逊有礼。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「职业、学术专业与职场对话 (Professions & Workplace Dialogue)」的核心语法法则与应用范例 (13.4.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '职业、学术专业与职场对话 (Professions & Workplace Dialogue)' in simple terms to students at the academic seminar."
+          "target": "面试官好，我是应聘软件开发岗位的李明，毕业于北京邮电大学计算机学院，很高兴今天能来参加复试。(Miànshìguān hǎo, wǒ shì yìngpìn ruǎnjiàn kāifā gǎngwèi de Lǐ Míng, bìyè yú Běijīng Yóudiàn Dàxué Jìsuànjī Xuéyuàn, hěn gāoxìng jīntiān néng lái cānjiā fùshì.)",
+          "reading": "[mjɛn˥˩.ʂɨ˥˩.kwan˥ xaʊ̯˨˩˦, wɔ˨˩ ʂɨ˥˩ iŋ˥˩.pʰin˥˩ ʐwan˨˩˦.t͡ɕjɛn˥˩ kʰaɪ̯˥.fa˥ kɑŋ˨˩˦.weɪ̯˥˩ tɤ li˨˩˦ miŋ˧˥, pi˥˩.jɛ˥˩ y˧˥ peɪ̯˨˩.t͡ɕiŋ˥ joʊ̯˧˥.tjɛn˥˩ ta˥˩.ɕɥɛ˧˥ t͡ɕi˥˩.swan˥˩.t͡ɕi˥ ɕɥɛ˧˥.jɥɛn˥˩, xən˨˩.kaʊ̯˥.ɕiŋ˥˩ t͡ɕin˥.tʰjɛn˥ nɤŋ˧˥ laɪ̯˧˥ t͡sʰan˥.t͡ɕja˥ fu˥˩.ʂɨ˥˩] (Miàn-shì-guān hǎo, wǒ shì yìng-pìn ruǎn-jiàn kāi-fā gǎng-wèi de Lǐ Míng, bì-yè yú Běi-jīng Yóu-diàn Dà-xué Jì-suàn-jī Xué-yuàn, hěn gāo-xìng jīn-tiān néng lái cān-jiā fù-shì.)",
+          "translation": "Hello interviewers, I am Li Ming applying for the software development position, graduated from the School of Computer Science at Beijing University of Posts and Telecommunications; very glad to participate in the second-round interview today."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (13.4.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "我的最大优势在于具备极强的自主学习能力和严谨的逻辑思维，在面对全新技术挑战时能够迅速攻克难关。(Wǒ de zuìdà yōushì zàiyú jùbèi jí qiáng de zìzhǔ xuéxí nénglì hé yánjǐn de luóji sīwéi, zài miànduì quánxīn jìshù tiǎozhàn shí nénggòu xùnsù gōngkè nánguān.)",
+          "reading": "[wɔ˨˩ tɤ t͡sweɪ̯˥˩.ta˥˩ joʊ̯˥.ʂɨ˥˩ t͡saɪ̯˥˩.y˧˥ t͡ɕy˥˩.peɪ̯˥˩ t͡ɕi˧˥ t͡ɕʰjɑŋ˧˥ tɤ t͡sɨ˥˩.ʈ͡ʂu˨˩˦ ɕɥɛ˧˥.ɕi˧˥ nɤŋ˧˥.li˥˩ xɤ˧˥ jan˧˥.t͡ɕin˨˩˦ tɤ lwɔ˧˥.t͡ɕi sɨ˥.weɪ̯˧˥, t͡saɪ̯˥˩ mjɛn˥˩.tweɪ̯˥˩ t͡ɕʰyɛn˧˥.ɕin˥ t͡ɕi˥˩.ʂu˥˩ tʰjaʊ̯˨˩˦.ʈ͡ʂan˥˩ ʂɨ˧˥ nɤŋ˧˥.koʊ̯˥˩ ɕyn˥˩.su˥˩ kʊŋ˥.kʰɤ˥ nan˧˥.kwan˥] (Wǒ de zuì-dà yōu-shì zài-yú jù-bèi jí qiáng de zì-zhǔ xué-xí néng-lì hé yán-jǐn de luó-ji sī-wéi, zài miàn-duì quán-xīn jì-shù tiǎo-zhàn shí néng-gòu xùn-sù gōng-kè nán-guān.)",
+          "translation": "My greatest strength lies in possessing extremely strong autonomous learning ability and rigorous logical thinking, able to quickly overcome difficulties when facing brand-new technical challenges."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (13.4.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "当团队内部出现意见分歧时，我认为最重要的是以项目目标为导向，通过充分理性沟通达成一致共识。(Dāng tuánduì nèibù chūxiàn yìjiàn fēnqí shí, wǒ rènwéi zuì zhòngyào de shì yǐ xiàngmù mùbiāo wéi dǎoxiàng, tōngguò chōngfèn lǐxìng gōutōng dáchéng yízhì gòngshí.)",
+          "reading": "[tɑŋ˥ tʰwan˧˥.tweɪ̯˥˩ neɪ̯˥˩.pu˥˩ t͡ʂʰu˥.ɕjɛn˥˩ i˥˩.t͡ɕjɛn˥˩ fən˥.t͡ɕʰi˧˥ ʂɨ˧˥, wɔ˨˩ ʐən˥˩.weɪ̯˧˥ t͡sweɪ̯˥˩ ʈ͡ʂʊŋ˥˩.jaʊ̯˥˩ tɤ ʂɨ˥˩ i˨˩˦ ɕjaŋ˥˩.mu˥˩ mu˥˩.pjaʊ̯˥ weɪ̯˧˥ taʊ̯˨˩˦.ɕjaŋ˥˩, tʰʊŋ˥.kwo˥˩ ʈ͡ʂʰʊŋ˥.fən˥˩ li˨˩.ɕiŋ˥˩ koʊ̯˥.tʰʊŋ˥ ta˧˥.ʈ͡ʂʰəŋ˧˥ i˧˥.ʈ͡ʂɨ˥˩ kʊŋ˥˩.ʂɨ˧˥] (Dāng tuán-duì nèi-bù chū-xiàn yì-jiàn fēn-qí shí, wǒ rèn-wéi zuì zhòng-yào de shì yǐ xiàng-mù mù-biāo wéi dǎo-xiàng, tōng-guò chōng-fèn lǐ-xìng gōu-tōng dá-chéng yí-zhì gòng-shí.)",
+          "translation": "When differences of opinion arise within the team, I believe the most important thing is to take the project goal as the orientation and reach a consensus through full rational communication."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (13.4.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "请问贵公司针对新入职应届毕业生有哪些系统性的专业技能培训与职业发展晋升通道？(Qǐngwèn guì gōngsī zhènduì xīn rùzhí yīngjiè bìyèshēng yǒu nǎxiē xìtǒngxìng de zhuānyè jìnéng péixùn yǔ zhíyè fāzhǎn jìnshēng tōngdào?)",
+          "reading": "[t͡ɕʰiŋ˨˩˦.wən˥˩ kweɪ̯˥˩ kʊŋ˥.sɨ˥ ʈ͡ʂən˥˩.tweɪ̯˥˩ ɕin˥ ʐu˥˩.ʈ͡ʂɨ˧˥ iŋ˥.t͡ɕjɛ˥˩ pi˥˩.jɛ˥˩.ʂəŋ joʊ̯˨˩˦ na˨˩˦.ɕjɛ˥ ɕi˥˩.tʰʊŋ˨˩˦.ɕiŋ˥˩ tɤ ʈ͡ʂwan˥.jɛ˥˩ t͡ɕi˥˩.nɤŋ˧˥ pʰeɪ̯˧˥.ɕyn˥˩ y˨˩˦ ʈ͡ʂɨ˧˥.jɛ˥˩ fa˥.ʈ͡ʂan˨˩˦ t͡ɕin˥˩.ʂəŋ˥ tʰʊŋ˥.taʊ̯˥˩] (Qǐng-wèn guì gōng-sī zhèn-duì xīn rù-zhí yīng-jiè bì-yè-shēng yǒu nǎ-xiē xì-tǒng-xìng de zhuān-yè jì-néng péi-xùn yǔ zhí-yè fā-zhǎn jìn-shēng tōng-dào?)",
+          "translation": "May I ask what systematic professional skill training and career advancement channels your company has for newly recruited fresh graduates?"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "自我介绍抓要点，优势长处实例显；面对分歧重沟通，礼貌致谢显修养！"
+      ],
+      "culturalNotes": [
+        "中国企业面试高度看重应聘者的团队精神、敬业态度与大局意识。在回答问题时保持理性、谦逊、积极向上，能够给用人单位留下深刻的良好印象。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「职业、学术专业与职场对话 (Professions & Workplace Dialogue)」（第4讲）的标准汉语规范？",
+          "prompt": "在面试结束前，当面试官询问「你还有什么问题要问我们吗」时，最得体专业的提问是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「职业、学术专业与职场对话 (Professions & Workplace Dialogue)」的核心语法法则与应用范例 (13.4.1)。",
-            "存在语序混乱且虚词误用的病句选项 (13.4.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (13.4.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (13.4.w3)"
+            "请问贵公司对该岗位新人的培养机制与发展空间是怎样的？ (Inquiring on training & growth professionally)",
+            "没有问题，我就想知道什么时候发工资。",
+            "你们公司平时加班严重不严重？",
+            "没有，我什么都不想问。"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "询问人才培养机制与成长空间，能展现求职者积极上进的敬业精神。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在面试中面对面试官关于「你的最大短板」的提问时，最成熟得体的应对方法是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "诚恳说明具体不足并着重阐述目前正在采取的改进措施 (Acknowledge and detail ongoing improvements)",
+            "直接回答自己没有任何缺点，十全十美",
+            "说自己脾气暴躁容易和同事吵架",
+            "抱怨以前的学校和老师不好"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "坦诚承认短处并阐述改进措施，展现了成熟的自省能力与进取心。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「职业、学术专业与职场对话 (Professions & Workplace Dialogue)」的正式语境下，最准确得体的表达是哪一项？（第13.4题）",
+          "prompt": "下列哪一项体现了中国职场中优秀的团队协作与跨部门沟通素养？",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (13.4.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (13.4.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (13.4.x2)",
-            "量词与名词修饰搭配错误的病句选项 (13.4.x3)"
+            "以项目总体目标为导向，主动倾听他人意见并通过理性沟通化解分歧 (Goal-oriented collaboration & active listening)",
+            "遇到问题互相推卸责任",
+            "只顾个人表现不配合团队",
+            "拒绝与任何其他同事交流"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "目标导向、倾听包容与理性沟通是现代职场团队精神的核心内核。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u13-l4）所要求的高阶语言表达？",
+          "prompt": "在中国企事业单位用工福利制度中，常说的「五险一金」是指：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (13.4.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (13.4.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (13.4.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (13.4.y3)"
+            "社会保险（养老/医疗/失业/工伤/生育）与住房公积金 (Social insurances & Housing Provident Fund)",
+            "五种奖金和一份礼物",
+            "五次带薪休假和一次旅游",
+            "五倍加班费和一辆公车"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「五险一金」是中国法定社会保险与住房公积金福利体系的统称。"
         }
       ]
     },
@@ -7940,25 +7950,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「职业、学术专业与职场对话 (Professions & Workplace Dialogue)」的掌握程度，请选出表述完全正确的标准范句（测试 13-4）：",
+          "prompt": "请选出下列面试问答中求职者回答逻辑最清晰、修养最典范的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (13.4.4)。",
-            "被动句式与处置句式混用导致的严重病句 (13.4.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (13.4.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (13.4.z3)"
+            "感谢各位面试官的提问。我的核心优势在于不仅具备扎实的专业理论功底，更具有很强的跨文化沟通能力。如果能够有幸加入贵团队，我将全力以赴投入项目研发，并虚心向前辈学习，为公司的业务开拓贡献力量。(表达感恩、展现实力、谦逊进取、格局开阔)",
+            "反正我就是最强的人才，你们不录用我就是你们的损失。(态度狂妄目中无人)",
+            "我不知道我能干什么，你们看着安排吧。(态度消极极度缺乏自信)",
+            "我主要是为了混个经验，随时打算跳槽。(缺乏职业忠诚度与责任感)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该应答既表达了谢意与自信，又体现了团队意识与敬业精神，是现代职场面试的典范标杆。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u13-l4）的核心关键词（例如「职业、学」）：",
+          "prompt": "请输入求职过程中由用人单位对求职者进行面对面考查评估的核心双字名词（拼音为 miànshì）：",
           "acceptedAnswers": [
-            "职业、学",
-            "职业、学术专",
-            "职业、学术专业与职场对话"
+            "面试"
           ],
-          "explanation": "正确的核心关键词为「职业、学」。"
+          "explanation": "词语「面试」是招聘选拔中面对面考核考察的核心专用名词。"
         }
       ],
       "passThreshold": 0.8
@@ -7969,85 +7977,89 @@
     "subject": "mandarin",
     "unit": 13,
     "lessonNumber": 5,
-    "title": "职业、学术专业与职场对话 (Professions & Workplace Dialogue) (第5讲)",
+    "title": "求职应聘、职场沟通与职业发展综合叙事篇章 (Comprehensive Job Application, Workplace & Career Narrative)",
     "level": "A2",
-    "objective": "全面掌握与熟练运用本课核心内容：职场职务称谓、大学专业设置、面试沟通及商务电子邮件基础格式。 (第5部分)。",
+    "objective": "融会贯通专业学科背景、简历制作、职场面试问答与职业发展愿景，独立撰写结构严谨、辞意畅达的高水平职场纪实叙事语篇。",
     "presentation": {
-      "explanation": "",
+      "explanation": "将大学学术专业背景、简历投递、严谨面试历练以及职场抱负有机融合，是检验高级汉语综合语篇建构与职场表达能力的集大成之作：\n\n一、求职历练与职业发展综合叙事逻辑脉络：\n1. 扎实厚重的学业积淀：回顾本科与研究生阶段在主修专业上的系统理论深造与科研实训。\n2. 严谨精准的求职准备：精心打磨中英文个人简历，用翔实的项目数据与资格证书量化展现核心优势。\n3. 沉稳自信的面试实战：在多轮技术复试与高管综合素质考核中从容应答、展现格局与团队意识。\n4. 拿到录用通知与职业启航抱负：获得心仪跨国企业的录用通知书（Offer），立足岗位、脚踏实地、追求卓越。\n\n二、全景式职场成长与求职纪实范文赏析：\n- 回顾我的大学与求职历程，那是一段充满挑战与蜕变的宝贵岁月。在大学期间，我主修计算机科学与技术专业，扎实的算法功底与多次大型项目的研发实战为我步入职场奠定了坚实的基石。临近毕业季，我认真打磨了个人简历，清晰呈现了自己的教育背景、实习经历以及多语种跨文化交际优势。在激烈的校园秋招中，我向一家知名跨国互联网科技企业投递了求职自荐信。经过三轮严谨的技术考核与终面沟通，我凭借扎实的专业素养、清晰的逻辑表达以及真诚的团队协作精神，成功脱颖而出，顺利斩获了心仪的录用通知书。站在崭新的职业起点上，我决心将所学的专业知识充分转化为实际生产力，在未来的职场道路上笃行致远、开创属于自己的广阔天地！",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「职业、学术专业与职场对话 (Professions & Workplace Dialogue)」的核心语法法则与应用范例 (13.5.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '职业、学术专业与职场对话 (Professions & Workplace Dialogue)' in simple terms to students at the academic seminar."
+          "target": "回顾我的大学求学历程，在计算机科学专业的深造与实习实战为我步入职场奠定了坚实的专业技术基石。(Huígù wǒ de dàxué qiúxué lìchéng, zài Jìsuànjī Kēxué zhuānyè de shēnzào yǔ shíxí shízhàn wèi wǒ bùrù zhíchǎng diàndìng le jiānshí de zhuānyè jìshù jīshí.)",
+          "reading": "[xweɪ̯˧˥.ku˥˩ wɔ˨˩ tɤ ta˥˩.ɕɥɛ˧˥ t͡ɕʰjoʊ̯˧˥.ɕɥɛ˧˥ li˥˩.ʈ͡ʂʰəŋ˧˥, t͡saɪ̯˥˩ t͡ɕi˥˩.swan˥˩.t͡ɕi˥ kʰɤ˥.ɕɥɛ˧˥ ʈ͡ʂwan˥.jɛ˥˩ tɤ ʂən˥.t͡saʊ̯˥ y˨˩˦ ʂɨ˧˥.ɕi˧˥ ʂɨ˧˥.ʈ͡ʂan˥˩ weɪ̯˥˩ wɔ˨˩ pu˥˩.ʐu˥˩ ʈ͡ʂɨ˧˥.ʈ͡ʂʰɑŋ˨˩˦ tjɛn˥˩.tiŋ˥˩ lɤ t͡ɕjɛn˥.ʂɨ˧˥ tɤ ʈ͡ʂwan˥.jɛ˥˩ t͡ɕi˥˩.ʂu˥˩ t͡ɕi˥.ʂɨ˧˥] (Huí-gù wǒ de dà-xué qiú-xué lì-chéng, zài Jì-suàn-jī Kē-xué zhuān-yè de shēn-zào yǔ shí-xí shí-zhàn wèi wǒ bù-rù zhí-chǎng diàn-dìng le jiān-shí de zhuān-yè jì-shù jī-shí.)",
+          "translation": "Looking back at my university study journey, the deep study and internship practical drills in the Computer Science major laid a solid technical cornerstone for my entry into the workplace."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (13.5.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "在毕业季的求职过程中，我认真准备了个人的中英文简历，精准展现了自己的项目研发经验与跨文化协作优势。(Zài bìyèjì de qiúzhí guòchéng zhōng, wǒ rènzhēn zhǔnbèi le gèrén de Zhōng-Yīngwén jiǎnlì, jīngzhǔn zhǎnxiàn le zìjǐ de xiàngmù yánfā jīngyàn yǔ kuàwénhuà xiézuò yōushì.)",
+          "reading": "[t͡saɪ̯˥˩ pi˥˩.jɛ˥˩.t͡ɕi˥˩ tɤ t͡ɕʰjoʊ̯˧˥.ʈ͡ʂɨ˧˥ kwo˥˩.ʈ͡ʂʰəŋ˧˥ ʈ͡ʂʊŋ˥, wɔ˨˩ ʐən˥˩.ʈ͡ʂən˥ ʈ͡ʂwən˨˩.peɪ̯˥˩ lɤ kɤ˥˩.ʐən˧˥ tɤ ʈ͡ʂʊŋ˥.iŋ˥.wən˧˥ t͡ɕjan˨˩˦.li˥˩, t͡ɕiŋ˥.ʈ͡ʂwən˨˩˦ ʈ͡ʂan˨˩˦.ɕjɛn˥˩ lɤ t͡sɨ˥˩.t͡ɕi˨˩˦ tɤ ɕjaŋ˥˩.mu˥˩ jan˧˥.fa˥ t͡ɕiŋ˥.jan˥˩ y˨˩˦ kʰwa˥˩.wən˧˥.xwa˥˩ ɕjɛ˧˥.t͡swoʊ̯˥˩ joʊ̯˥.ʂɨ˥˩] (Zài bì-yè-jì de qiú-zhí guò-chéng zhōng, wǒ rèn-zhēn zhǔn-bèi le gè-rén de Zhōng-Yīng-wén jiǎn-lì, jīng-zhǔn zhǎn-xiàn le zì-jǐ de xiàng-mù yán-fā jīng-yàn yǔ kuà-wén-huà xié-zuò yōu-shì.)",
+          "translation": "During the job-seeking process in graduation season, I earnestly prepared my Chinese-English resumes, accurately demonstrating my project R&D experience and intercultural collaboration advantages."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (13.5.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "经过三轮严谨的专业技术面试与高管综合素质评估，我最终凭借出色的综合素养成功获得了跨国科技公司的录用通知书。(Jīngguò sān lún yánjǐn de zhuānyè jìshù miànshì yǔ gāoguǎn zōnghé sùzhì pínggū, wǒ zuìzhōng píngjiè chūsè de zōnghé sùzhì chénggōng huòdé le kuàguó kējì gōngsī de lùyòng tōngzhīshū.)",
+          "reading": "[t͡ɕiŋ˥.kwo˥˩ san˥ lwən˧˥ jan˧˥.t͡ɕin˨˩˦ tɤ ʈ͡ʂwan˥.jɛ˥˩ t͡ɕi˥˩.ʂu˥˩ mjɛn˥˩.ʂɨ˥˩ y˨˩˦ kaʊ̯˥.kwan˨˩˦ t͡sʊŋ˥.xɤ˧˥ su˥˩.ʈ͡ʂɨ˥˩ pʰiŋ˧˥.ku˥, wɔ˨˩ t͡sweɪ̯˥˩.ʈ͡ʂʊŋ˥ pʰiŋ˧˥.t͡ɕjɛ˥˩ ʈ͡ʂʰu˥.sɤ˥˩ tɤ t͡sʊŋ˥.xɤ˧˥ su˥˩.ʈ͡ʂɨ˥˩ ʈ͡ʂʰəŋ˧˥.kʊŋ˥ xwo˥˩.tɤ˧˥ lɤ kʰwa˥˩.kwɔ˧˥ kʰɤ˥.t͡ɕi˥˩ kʊŋ˥.sɨ˥ tɤ lu˥˩.jʊŋ˥˩ tʰʊŋ˥.ʈ͡ʂɨ˥.ʂu˥] (Jīng-guò sān lún yán-jǐn de zhuān-yè jì-shù miàn-shì yǔ gāo-guǎn zōng-hé sù-zhì píng-gū, wǒ zuì-zhōng píng-jiè chū-sè de zōng-hé sù-zhì chéng-gōng huò-dé le kuà-guó kē-jì gōng-sī de lù-yòng tōng-zhī-shū.)",
+          "translation": "After three rounds of rigorous technical interviews and executive comprehensive quality assessments, I ultimately succeeded in obtaining the job offer letter from the multinational tech company."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (13.5.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "站在崭新的职业起点上，我决心将所学的专业理论知识充分运用于实际研发项目中，在职场中不断追求卓越。(Zhàn zài zhǎnxīn de zhíyè qǐdiǎn shang, wǒ juéxīn jiāng suǒ xué de zhuānyè lǐlùn zhīshi chōngfèn yòngyù shíjì yánfā xiàngmù zhōng, zài zhíchǎng zhōng búduàn zhuīqiú zhuóyuè.)",
+          "reading": "[ʈ͡ʂan˥˩ t͡saɪ̯˥˩ ʈ͡ʂan˨˩˦.ɕin˥ tɤ ʈ͡ʂɨ˧˥.jɛ˥˩ t͡ɕʰi˨˩˦.tjɛn˨˩˦ ʂɑŋ, wɔ˨˩ t͡ɕɥɛ˧˥.ɕin˥ t͡ɕjaŋ˥ swɔ˨˩˦ ɕɥɛ˧˥ tɤ ʈ͡ʂwan˥.jɛ˥˩ li˨˩.lwen˥˩ ʈ͡ʂɨ˥.ʂɨ ʈ͡ʂʰʊŋ˥.fən˥˩ jʊŋ˥˩.y˧˥ ʂɨ˧˥.t͡ɕi˥˩ jan˧˥.fa˥ ɕjaŋ˥˩.mu˥˩ ʈ͡ʂʊŋ˥, t͡saɪ̯˥˩ ʈ͡ʂɨ˧˥.ʈ͡ʂʰɑŋ˨˩˦ ʈ͡ʂʊŋ˥ pu˥.twan˥˩ ʈ͡ʂweɪ̯˥.t͡ɕʰjoʊ̯˧˥ ʈ͡ʂwɔ˧˥.jɥɛ˥˩] (Zhàn zài zhǎn-xīn de zhí-yè qǐ-diǎn shang, wǒ jué-xīn jiāng suǒ xué de zhuān-yè lǐ-lùn zhī-shi chōng-fèn yòng-yù shí-jì yán-fā xiàng-mù zhōng, zài zhí-chǎng zhōng bú-duàn zhuī-qiú zhuó-yuè.)",
+          "translation": "Standing at the brand-new career starting point, I am determined to fully apply the professional theoretical knowledge learned into practical R&D projects, unceasingly pursuing excellence in the workplace."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "笃学专业奠根基，精备简历展实力；过关斩将获录用，职场扬帆谱新篇！"
+      ],
+      "culturalNotes": [
+        "从高校学府步入现代职场，是青年学子实现人生价值的重大飞跃。在中国社会，脚踏实地、精益求精、追求卓越的敬业担当是最受推崇的品格。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「职业、学术专业与职场对话 (Professions & Workplace Dialogue)」（第5讲）的标准汉语规范？",
+          "prompt": "在职场求职叙事篇章中，正确串联「专业学习 -> 简历投递 -> 面试考核 -> 获得录用」的逻辑时间线是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「职业、学术专业与职场对话 (Professions & Workplace Dialogue)」的核心语法法则与应用范例 (13.5.1)。",
-            "存在语序混乱且虚词误用的病句选项 (13.5.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (13.5.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (13.5.w3)"
+            "深造奠定基石 -> 打磨个人简历 -> 历经面试评估 -> 荣获录用通知 (Strict sequential career advancement progression)",
+            "先拿录用通知 -> 再去面试 -> 再写简历 -> 最后上大学",
+            "面试录用 -> 简历投递 -> 大学深造",
+            "简历投递 -> 大学学习 -> 获得录用 -> 面试考核"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "叙事篇章严格遵循从大学深造积淀到求职录用的自然时序与因果逻辑。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "语篇中「将所学的专业知识充分运用于实际研发项目中」所体现的职业精神是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "理论联系实际、学以致用 (Integrating theory with practice / applying knowledge)",
+            "纸上谈兵不求实干",
+            "不劳而获坐享其成",
+            "只讲理论不做实事"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「学以致用、知行合一」是中华文化中崇尚实践与实干的核心价值观。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「职业、学术专业与职场对话 (Professions & Workplace Dialogue)」的正式语境下，最准确得体的表达是哪一项？（第13.5题）",
+          "prompt": "请选出下列职场成长叙事中用词最典雅、句式最完整通畅的一项：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (13.5.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (13.5.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (13.5.x2)",
-            "量词与名词修饰搭配错误的病句选项 (13.5.x3)"
+            "在激烈的求职竞争中，我凭借扎实的专业功底与出色的综合素养脱颖而出，成功获得了心仪企业的录用通知书。(成语与专业术语运用典范通畅)",
+            "求职很热闹，我打败了很多人拿到了纸头通知。(口吻轻浮语体失当)",
+            "我在竞争中拿到了录用，因为我很厉害他们不得不给。(用语粗糙缺乏修养)",
+            "录用通知书给我了在激烈的招聘中。(语序倒置语法残缺)"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「脱颖而出」、「录用通知书」搭配精准，书面语体典雅严谨。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u13-l5）所要求的高阶语言表达？",
+          "prompt": "在职场篇章中表达不断进取、追求最高水平的经典四字成语是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (13.5.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (13.5.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (13.5.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (13.5.y3)"
+            "追求卓越 / 精益求精 (Pursuing excellence / striving for perfection)",
+            "得过且过",
+            "半途而废",
+            "敷衍了事"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「追求卓越」是表达在事业中精益求精、不断攀登高峰的标准成语。"
         }
       ]
     },
@@ -8055,25 +8067,25 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「职业、学术专业与职场对话 (Professions & Workplace Dialogue)」的掌握程度，请选出表述完全正确的标准范句（测试 13-5）：",
+          "prompt": "请选出下列职业成长与求职发展叙事语篇中思想境界最高远、语言最典范严密的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (13.5.4)。",
-            "被动句式与处置句式混用导致的严重病句 (13.5.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (13.5.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (13.5.z3)"
+            "回顾从校园走向职场的历程，大学期间的系统专业学习与科研实践为我铸就了坚实的翅膀。在严谨的求职面试中，我充分展现了自己的专业实力与团队协作潜能，最终顺利加盟跨国科技团队。未来我将始终保持谦逊笃学的心态，在岗位上深耕细作、追求卓越！(结构严谨、辞意畅达、立意高远、文采斐然)",
+            "我终于毕业了，找了个班上，天天等下班拿工资。(立意消极平庸)",
+            "求职面试很好玩，我随便说说就录用了，我不打算多干活。(态度轻浮完全背离职业精神)",
+            "我走向职场在大学，面试了在跨国公司拿钱。(语法破碎结构混乱)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语篇在时序建构、辞章修辞、职业精神与抱负升华上均达到了现代汉语的最高境界。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u13-l5）的核心关键词（例如「职业、学」）：",
+          "prompt": "请输入用人单位正式发给被录取求职者的核心四字录用凭证名称（例如「」通知书，拼音为 lùyòng）：",
           "acceptedAnswers": [
-            "职业、学",
-            "职业、学术专",
-            "职业、学术专业与职场对话"
+            "录用",
+            "录用通知书",
+            "录取通知书"
           ],
-          "explanation": "正确的核心关键词为「职业、学」。"
+          "explanation": "词语「录用」或「录用通知书」是现代企事业单位指称聘用录用决定的核心法律书面文书。"
         }
       ],
       "passThreshold": 0.8
