@@ -5437,85 +5437,62 @@
     "subject": "amharic",
     "unit": 12,
     "lessonNumber": 1,
-    "title": "ትርፍ ጊዜ፣ ስፖርት እና መዝናኛ (Leisure & Hobbies) (ክፍል 1)",
+    "title": "ዋና ዋና የስፖርት አይነቶች (Major Sports & Athletics)",
     "level": "A2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የተለያዩ የትርፍ ጊዜ ማሳለፊያዎች፣ ስፖርቶች፣ እና የፍላጎት መግለጫዎች። (ክፍል 1)።",
+    "objective": "ስፖርቶችን (እግር ኳስ፣ ሩጫ፣ ቅርጫት ኳስ፣ መረብ ኳስ፣ ዋና፣ ብስክሌት) መለየትና በውይይት መጠቀም።",
     "presentation": {
-      "explanation": "",
+      "explanation": "ዋና ዋና የስፖርት አይነቶች እና የሜዳ ተግባራት:\n\n፩. የኳስ ጨዋታዎች:\n- እግር ኳስ: በሁለት ቡድኖች መካከል የሚደረግ ተወዳጅ የሜዳ ጨዋታ ነው።\n- ቅርጫት ኳስ: ኳስን በእጅ ወደ ቅርጫት በማስገባት የሚጫወቱት ስፖርት ነው።\n- መረብ ኳስ: በመረብ የተከፈለ ሜዳ ላይ በእጅ የሚመታ ኳስ ጨዋታ ነው።\n- ቴኒስ: በራኬት የሚጫወቱት ስፖርት ነው።\n\n፪. የአትሌቲክስና የግል ስፖርቶች:\n- ሩጫ: አጭርና ረጅም ርቀቶችን በመሮጥ የሚደረግ ውድድር ነው።\n- ዋና: በውሃ ውስጥ የሚደረግ ጠቃሚ የሰውነት እንቅስቃሴ ነው።\n- ብስክሌት መንዳት: በመንገድና በተራራ ላይ የሚደረግ ውድድር ነው።\n\n፫. ሰዋሰዋዊ አጠቃቀም:\nየስፖርቱን ስም ከ«መጫወት»፣ «መሮጥ» ወይም «መዋኘት» ግሶች ጋር በማጣመር እንጠቀማለን።",
       "examples": [
         {
-          "target": "መምህሩ የ«ትርፍ ጊዜ፣ ስፖርት እና መዝናኛ (Leisure & Hobbies)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (12.1.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ትርፍ ጊዜ፣ ስፖርት እና መዝናኛ (Leisure & Hobbies)' to the students."
+          "target": "በኢትዮጵያ ውስጥ የረጅም ርቀት ሩጫ እና እግር ኳስ በጣም ተወዳጅ ስፖርቶች ናቸው።",
+          "reading": "Bä-Ityop’ya wəst’ yäräğğəm rəqät ruč’č’anna əgər kwas bät’am täwäddağ sportočč naččäw. [bɛʔitjoˈpʼja wɨstʼ jɛrɛdʒːɨm rɨkʼɛt rutʃʼːanːa ʔɨɡr kʷas bɛtʼam tɛwɛdːadʒ sporˈtotʃː natʃːɛw] (beh-eet-YOHP-yah woos-T' yeh-red-JUM ruh-K'ET rooch-CHAHN-nah ug-GUR kwas beh-T'AHM teh-wed-DAHJ spohr-TOHCH-choo NAHCH-chew)",
+          "translation": "In Ethiopia, long-distance running and football are very popular sports."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (12.1.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ጓደኞቼ ቅዳሜ ከሰዓት በኋላ ወደ ስታዲየም ሄደው ቅርጫት ኳስ ይጫወታሉ።",
+          "reading": "Gwadänyočče Qədame käsä'at bähwala wädä stadiyäm hedäw qərč’at kwas yəč’awwätallu. [ɡʷadɛˈɲotʃːe kʼɨdaˈme kɛsɛʔat bɛhʷaˈla wɛdɛ stadiˈjɛm heˈdɛw kʼɨrtʃʼat kʷas jɨtʃʼawːɛˈtalːu] (gwah-den-yohch-CHAY k'uh-dah-MAY keh-seh-AHT beh-hwah-LAH weh-DEH stah-dee-YEM hay-DEW k'ur-ch'aht kwas yuh-ch'ow-weh-TAHL-loo)",
+          "translation": "My friends go to the stadium on Saturday afternoon and play basketball."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (12.1.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (12.1.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "በየቀኑ ጠዋት በዋና መዋኛ ገንዳ ውስጥ መዋኘት ለልብ ጤንነት እጅግ ጠቃሚ ነው።",
+          "reading": "Bäyyäqänu t’əwat bäwana mäwanya gända wəst’ mäwanyät läləbb t’enənnät əğğəg t’äqqami näw. [bɛjːɛkʼɛˈnu tʼɨwat bɛwaˈna mɛwaˈɲa ɡɛnˈda wɨstʼ mɛwaˈɲɛt lɛlɨbː tʼenɨnˈnɛt ʔɨdʒːɨɡ tʼɛkʼːaˈmi nɛw] (bey-yeh-k'eh-NOO t'uh-WAHT beh-wah-NAH meh-wahn-YAH gen-DAH woos-T' meh-wahn-YET lel-lub-B t'ayn-nun-NET uhj-JUG t'ehk'-K'AH-mee now)",
+          "translation": "Swimming every morning in a swimming pool is extremely useful for heart health."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Sports Array: እግር ኳስ (Football) + ሩጫ (Running) + ዋና (Swimming) + ብስክሌት (Cycling)!"
+      ],
+      "culturalNotes": [
+        "ኢትዮጵያ በዓለም አቀፍ ኦሊምፒክ ውድድሮች በረጅም ርቀት ሩጫ (በአበበ ቢቂላ፣ ኃይሌ ገብረስላሴ፣ ደራርቱ ቱሉ እና ቀነኒሳ በቀለ) ከፍተኛ ዝናን ያተረፈች ሀገር ናት።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ትርፍ ጊዜ፣ ስፖርት እና መዝናኛ (Leisure & Hobbies)» (ክፍል 1) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«Football and running» የሚለውን በአማርኛ ትክክለኛ የስፖርት ስሞች የያዘው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«ትርፍ ጊዜ፣ ስፖርት እና መዝናኛ (Leisure & Hobbies)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (12.1.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (12.1.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (12.1.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (12.1.w3)"
+            "እግር ኳስ እና ሩጫ (Football and running - Correct major sports nouns)",
+            "ጠረጴዛ እና ወንበር",
+            "መጽሐፍ እና ደብተር",
+            "ታክሲ እና ባቡር"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«እግር ኳስ» እና «ሩጫ» ሁለቱን ዋና የስፖርት አይነቶች ያመለክታሉ።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u12-l1) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'They swim in the pool' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (12.1.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (12.1.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (12.1.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (12.1.x3)"
+            "በገንዳው ውስጥ ይዋኛሉ። (They swim in the pool - Accurate swimming action)",
+            "እግር ኳስ ይጫወታሉ።",
+            "መጽሐፍ ያነባሉ።",
+            "ምግብ ያበስላሉ።"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ትርፍ ጊዜ፣ ስፖርት እና መዝናኛ (Leisure & Hobbies)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (12.1.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (12.1.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (12.1.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (12.1.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ይዋኛሉ» የመዋኘት ተግባርን ለሦስተኛ መደብ ብዙ በትክክል ያሳያል።"
         }
       ]
     },
@@ -5523,24 +5500,24 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 12-1):",
+          "prompt": "ዋና ዋና የስፖርት አይነቶችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (12.1.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (12.1.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (12.1.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (12.1.z3)"
+            "እግር ኳስ፣ ሩጫ፣ ቅርጫት ኳስ፣ መረብ ኳስ፣ ዋና እና ብስክሌት መንዳት።",
+            "እንጀራ፣ ወጥ እና ዳቦ።",
+            "ቀሚስ፣ ሱሪ እና ጫማ።",
+            "በአማርኛ የስፖርት ስሞች የሉም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የስፖርት አይነቶችን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u12-l1) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ትርፍ»):",
+          "prompt": "'እግር ኳስ / Football, soccer' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ትርፍ",
-            "ትርፍ"
+            "እግር ኳስ",
+            "እግር ኳስ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ትርፍ» ነው።"
+          "explanation": "ትክክለኛው ቃል «እግር ኳስ» (Əgər kwas) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -5551,85 +5528,62 @@
     "subject": "amharic",
     "unit": 12,
     "lessonNumber": 2,
-    "title": "ትርፍ ጊዜ፣ ስፖርት እና መዝናኛ (Leisure & Hobbies) (ክፍል 2)",
+    "title": "የትርፍ ጊዜ ማሳለፊያዎች እና ተግባራት (Hobbies & Leisure Pastimes)",
     "level": "A2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የተለያዩ የትርፍ ጊዜ ማሳለፊያዎች፣ ስፖርቶች፣ እና የፍላጎት መግለጫዎች። (ክፍል 2)።",
+    "objective": "የትርፍ ጊዜ ተግባራትን (ሙዚቃ ማዳመጥ፣ መጽሐፍ ማንበብ፣ ፊልም ማየት፣ ሥዕል መሳል፣ ፎቶግራፍ ማንሳት) መግለጽ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የትርፍ ጊዜ ማሳለፊያዎች እና የትርፍ ሰዓት ተግባራት:\n\n፩. የዕውቀትና የጥበብ ተግባራት:\n- መጽሐፍ ማንበብ: አዳዲስ ዕውቀቶችንና ታሪኮችን ለመገብየት ይጠቅማል።\n- ሥዕል መሳል: የውስጥ ስሜትንና ውበትን በቀለማት የመግለጽ ጥበብ ነው።\n- ፎቶግራፍ ማንሳት: የማይረሱ ትዝታዎችን በምስል የማስቀረት ተግባር ነው።\n\n፪. የመዝናኛና የዕረፍት ተግባራት:\n- ሙዚቃ ማዳመጥ: አዕምሮን ለማረጋጋትና ለማዝናናት ይረዳል።\n- ፊልም ማየት: በሲኒማ ወይም በቤት ውስጥ ከወዳጆች ጋር የሚደረግ መዝናኛ ነው።\n- የአትክልት እንክብካቤ: አበቦችንና ዛፎችን በመንከባከብ ጊዜን ማሳለፍ ነው።\n\n፫. ሰዋሰዋዊ መዋቅር:\n«በትርፍ ጊዜዬ መጽሐፍ ማንበብ እመርጣለሁ» በማለት የግል ምርጫን መግለጽ ይቻላል።",
       "examples": [
         {
-          "target": "መምህሩ የ«ትርፍ ጊዜ፣ ስፖርት እና መዝናኛ (Leisure & Hobbies)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (12.2.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ትርፍ ጊዜ፣ ስፖርት እና መዝናኛ (Leisure & Hobbies)' to the students."
+          "target": "በትርፍ ጊዜዬ የኢትዮጵያን ታሪክ የሚያወሱ ድንቅ መጻሕፍትን ማንበብ እወዳለሁ።",
+          "reading": "Bätərf gizeye yä-Ityop’yan tarik yämmiyawäsu dənq mäs’ahəftən manbäb əwädallähu. [bɛtɨrf ɡizeˈje jɛʔitjoˈpʼjan taˈrik jɛmːijaˈwɛsu dɨnkʼ mɛsˤaˈhɨftɨn manˈbɛb ʔɨwɛˈdalːɛhu] (beh-TURF gee-ZAY-yay yeh-eet-YOHP-yahn tah-REEK yem-mee-yah-WEH-soo dunk' meh-TS'AH-huf-tun mahn-BEB uh-wed-DAHL-leh-hoo)",
+          "translation": "In my spare time, I love reading wonderful books that narrate Ethiopian history."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (12.2.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "እሷ ማታ ማታ ባህላዊ የክራርና የመሰንቆ ሙዚቃዎችን በስልኳ ታዳምጣለች።",
+          "reading": "Əsswa mata mata bahəlawi yäkərarənna yämäsanqo muziqawoččən bäsəlkwa taddammət’alläčč. [ʔɨsːwa maˈta maˈta bahɨlaˈwi jɛkɨraˈrɨnːa jɛmɛsanˈkʼo muzikʼaˈwotʃːɨn bɛsɨlˈkʷa tadːamːɨˈtʼalːɛtʃː] (us-SWAH mah-TAH mah-TAH bah-huh-LAH-wee yeh-kuh-RAH-run-nah yeh-meh-sahn-K'OH moo-zee-k'ah-wohch-CHUN beh-sul-KWAH tahd-dahm-muh-T'AHL-lehch)",
+          "translation": "In the evenings, she listens to traditional Krar and Masenqo music on her phone."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (12.2.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (12.2.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ወጣቱ ሰዓሊ ውብ የተፈጥሮ ገጽታዎችን በሸራ ላይ በቀለማት ይስላል።",
+          "reading": "Wät’t’atu sä'ali wəbb yätäfät’ro gäs’t’awoččən bäšära lay bäqälämat yəsəlall. [wɛtʼːaˈtotʃːu sɛʔaˈli wɨbː jɛtɛfɛtʼˈro ɡɛsˤtʼaˈwotʃːɨn bɛʃɛˈra laj bɛkʼɛlɛˈmat jɨsɨˈlalː] (wet'-t'ah-TOO seh-ah-LEE wub-B yeh-teh-fet'-ROH gets'-t'ah-wohch-CHUN beh-sheh-RAH lye beh-k'eh-leh-MAHT yuh-suh-LAHL)",
+          "translation": "The young painter draws beautiful natural landscapes on canvas with colors."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Hobby Harmony: ማንበብ (Read) + ማዳመጥ (Listen) + መሳል (Paint) + ማየት (Watch)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ባህላዊ የሙዚቃ መሳሪያዎች (ክራር፣ መሰንቆ፣ ዋሽንት እና ከበሮ) ለዘመናት የህዝቡ የደስታና የሃዘን መግለጫ ሆነው አገልግለዋል።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ትርፍ ጊዜ፣ ስፖርት እና መዝናኛ (Leisure & Hobbies)» (ክፍል 2) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«Reading books in free time» የሚለውን በአማርኛ ትክክለኛ አገላለጽ የያዘው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«ትርፍ ጊዜ፣ ስፖርት እና መዝናኛ (Leisure & Hobbies)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (12.2.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (12.2.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (12.2.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (12.2.w3)"
+            "በትርፍ ጊዜ መጽሐፍ ማንበብ (Reading books in free time - Correct hobby phrase)",
+            "ሥራ መፈለግ",
+            "ሆስፒታል መሄድ",
+            "ታክሲ መጠበቅ"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«በትርፍ ጊዜ መጽሐፍ ማንበብ» የትርፍ ሰዓት የንባብ ልማድን በትክክል ይገልጻል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u12-l2) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'She listens to traditional music' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (12.2.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (12.2.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (12.2.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (12.2.x3)"
+            "ባህላዊ ሙዚቃ ታዳምጣለች። (She listens to traditional music - Accurate listening activity)",
+            "ሙዚቃ አትወድም።",
+            "መጽሐፍ ትጽፋለች።",
+            "ምግብ አትበላም።"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ትርፍ ጊዜ፣ ስፖርት እና መዝናኛ (Leisure & Hobbies)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (12.2.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (12.2.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (12.2.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (12.2.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ባህላዊ ሙዚቃ ታዳምጣለች» የሙዚቃ ማዳመጥን ድርጊት በትክክል ያሳያል።"
         }
       ]
     },
@@ -5637,24 +5591,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 12-2):",
+          "prompt": "የትርፍ ጊዜ ተግባራትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (12.2.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (12.2.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (12.2.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (12.2.z3)"
+            "መጽሐፍ ማንበብ፣ ሙዚቃ ማዳመጥ፣ ፊልም ማየት፣ ሥዕል መሳል እና ፎቶግራፍ ማንሳት።",
+            "ክኒን መዋጥ እና መርፌ መወጋት።",
+            "ትኬት መቁረጥ እና ወያላ መጥራት።",
+            "በአማርኛ የመዝናኛ ቃላት የሉም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የትርፍ ጊዜ ማሳለፊያዎችን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u12-l2) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ትርፍ»):",
+          "prompt": "'ማንበብ / Reading, to read' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ትርፍ",
-            "ትርፍ"
+            "ማንበብ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ትርፍ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ማንበብ» (Manbäb) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -5665,85 +5618,62 @@
     "subject": "amharic",
     "unit": 12,
     "lessonNumber": 3,
-    "title": "ትርፍ ጊዜ፣ ስፖርት እና መዝናኛ (Leisure & Hobbies) (ክፍል 3)",
+    "title": "የፍላጎት እና የምርጫ መግለጫዎች (Expressing Preferences: «እወዳለሁ»፣ «እመርጣለሁ»፣ «ይሻለኛል»)",
     "level": "A2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የተለያዩ የትርፍ ጊዜ ማሳለፊያዎች፣ ስፖርቶች፣ እና የፍላጎት መግለጫዎች። (ክፍል 3)።",
+    "objective": "ፍላጎትን እና ምርጫን («እወዳለሁ» / «አልወድም» / «እመርጣለሁ» / «ይሻለኛል») መግለጽ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የፍላጎት እና የምርጫ መግለጫ ሰዋሰዋዊ ስርዓት:\n\n፩. የመውደድ ግስ እርባታ:\n- እኔ: እወዳለሁ (በጣም ደስ ይለኛል) / አልወድም (አልፈልግም)\n- አንተ: ትወዳለህ / አትወድም\n- አንቺ: ትወጃለሽ / አትወጂም\n- እሱ: ይወዳል / አይወድም\n- እሷ: ትወዳለች / አትወድም\n- እኛ: እንወዳለን / አንወድም።\n\n፪. የምርጫና የውሳኔ ቃላት:\n- መምረጥ: እመርጣለሁ (ከሌላው አስበልጣለሁ)\n- መሻል: ይሻለኛል (የተሻለ ሆኖ አግኝቼዋለሁ)።\n\n፫. የአረፍተ ነገር መዋቅር:\nስም ወይም ማስረጃ ግስ + እወዳለሁ / እመርጣለሁ:\n«እግር ኳስ መጫወት እወዳለሁ»፣ «ሻይ ከመጠጣት ቡና መጠጣት ይሻለኛል»።",
       "examples": [
         {
-          "target": "መምህሩ የ«ትርፍ ጊዜ፣ ስፖርት እና መዝናኛ (Leisure & Hobbies)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (12.3.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ትርፍ ጊዜ፣ ስፖርት እና መዝናኛ (Leisure & Hobbies)' to the students."
+          "target": "እኔ ቅዳሜ ዕለት ከጓደኞቼ ጋር ኳስ መጫወት በጣም እወዳለሁ።",
+          "reading": "Əne Qədame ʿəlät kägwadänyočče gara kwas mäč’awät bät’am əwädallähu. [ʔɨne kʼɨdaˈme ʔɨˈlɛt kɛɡʷadɛˈɲotʃːe ɡaˈra kʷas mɛtʃʼaˈwɛt bɛtʼam ʔɨwɛˈdalːɛhu] (uh-NAY k'uh-dah-MAY uh-LET keh-gwah-den-yohch-CHAY gah-RAH kwas meh-ch'ah-WET beh-T'AHM uh-wed-DAHL-leh-hoo)",
+          "translation": "I really love playing football with my friends on Saturdays."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (12.3.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "እሷ ፊልም ከማየት ይልቅ መጽሐፍ ማንበብን ትመርጣለች።",
+          "reading": "Əsswa film kämamyät yələq mäs’haf manbäbən təmärt’alläčč. [ʔɨsːwa film kɛmamˈjɛt jɨˈlɨkʼ mɛsˤhaf manˈbɛbɨn tɨmɛrˈtʼalːɛtʃː] (us-SWAH film keh-mahm-YET yuh-LUK' meh-TS'AHF mahn-BEH-bun tuh-mer-T'AHL-lehch)",
+          "translation": "Rather than watching movies, she prefers reading books."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (12.3.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (12.3.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ዛሬ በጣም ስለደከመኝ ወደ ውጭ ከመውጣት ቤት ውስጥ ማረፍ ይሻለኛል።",
+          "reading": "Zare bät’am sälädäkkämäny wädä wəč’ kämäwt’at bet wəst’ maräf yəššalänyall. [zaˈre bɛtʼam sɨlɛdɛkːɛˈmɛɲ wɛdɛ wɨtʃʼ kɛmɛwtʼat bet wɨstʼ maˈrɛf jɨʃːaˈlɛɲal] (zah-RAY beh-T'AHM suh-leh-dek-keh-MENY weh-DEH wuch' keh-mew-T'AHT bayt woos-T' mah-REF yush-shah-len-YAHL)",
+          "translation": "Because I am very tired today, resting at home is better for me than going outside."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Preference Scale: እወዳለሁ (I like) -> እመርጣለሁ (I prefer) -> ይሻለኛል (It's better for me)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ እንግዳ ሲጋበዝ 'ምን ልጋብዝህ/ሽ? ሻይ ወይስ ቡና?' ተብሎ ሲጠየቅ 'የፈቀድከውን/የፈቀድሽውን' ወይም 'ቡና ይሻለኛል' ማለት የተለመደ ጨዋነት ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ትርፍ ጊዜ፣ ስፖርት እና መዝናኛ (Leisure & Hobbies)» (ክፍል 3) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«I prefer reading» የሚለውን በአማርኛ ትክክለኛ የምርጫ አገባብ የገለጸው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«ትርፍ ጊዜ፣ ስፖርት እና መዝናኛ (Leisure & Hobbies)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (12.3.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (12.3.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (12.3.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (12.3.w3)"
+            "ማንበብን እመርጣለሁ። (I prefer reading - Correct preference structure with እመርጣለሁ)",
+            "ማንበብ አልችልም",
+            "መጽሐፍ የለኝም",
+            "አላነብም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ማንበብን እመርጣለሁ» ከሌሎች ነገሮች ይልቅ ንባብን መምረጥን በትክክል ያሳያል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u12-l3) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'He doesn't like watching sports' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (12.3.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (12.3.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (12.3.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (12.3.x3)"
+            "ስፖርት ማየት አይወድም። (He doesn't like watching sports - Accurate negative preference)",
+            "ስፖርት ይወዳል",
+            "ስፖርት ይጫወታል",
+            "ስፖርት ሮጠ"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ትርፍ ጊዜ፣ ስፖርት እና መዝናኛ (Leisure & Hobbies)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (12.3.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (12.3.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (12.3.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (12.3.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«አይወድም» ለሦስተኛ መደብ ተባዕታይ ያለመውደድን በትክክል ይገልጻል።"
         }
       ]
     },
@@ -5751,24 +5681,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 12-3):",
+          "prompt": "የፍላጎት እና የምርጫ መግለጫዎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (12.3.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (12.3.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (12.3.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (12.3.z3)"
+            "እወዳለሁ፣ አልወድም፣ እመርጣለሁ እና ይሻለኛል።",
+            "ሄድኩ፣ መጣሁ እና በላሁ።",
+            "ትላንት፣ ዛሬ እና ነገ።",
+            "በአማርኛ የምርጫ ቃላት የሉም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የምርጫና የፍላጎት መግለጫዎችን ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u12-l3) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ትርፍ»):",
+          "prompt": "'እወዳለሁ / I like, I love' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ትርፍ",
-            "ትርፍ"
+            "እወዳለሁ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ትርፍ» ነው።"
+          "explanation": "ትክክለኛው ቃል «እወዳለሁ» (Əwädallähu) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -5779,85 +5708,62 @@
     "subject": "amharic",
     "unit": 12,
     "lessonNumber": 4,
-    "title": "ትርፍ ጊዜ፣ ስፖርት እና መዝናኛ (Leisure & Hobbies) (ክፍል 4)",
+    "title": "የባህል ስፖርቶች እና ጨዋታዎች (Traditional Ethiopian Sports & Games)",
     "level": "A2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የተለያዩ የትርፍ ጊዜ ማሳለፊያዎች፣ ስፖርቶች፣ እና የፍላጎት መግለጫዎች። (ክፍል 4)።",
+    "objective": "የባህል ስፖርቶችን (ገና፣ ገበጣ፣ የፈረስ ጉግስ፣ ሻጥር) እና ባህላዊ አከባበራቸውን መረዳትና መግለጽ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የኢትዮጵያ ባህላዊ ስፖርቶች እና ጨዋታዎች:\n\n፩. የገና ጨዋታ:\n- በገና በዓል ወቅት የሚጫወቱት ባህላዊ የሆኪ ዓይነት ጨዋታ ነው።\n- «በገና ጨዋታ አይቆጡም ጌታ» የሚል ታዋቂ ባህላዊ አባባል አለው።\n\n፪. ገበጣ እና ሻጥር:\n- ገበጣ: በእንጨት ወይም በድንጋይ ጉድጓዶች ውስጥ ጠጠሮችን በማንቀሳቀስ የሚጫወቱት ጥንታዊ የስትራቴጂ ጨዋታ ነው።\n- ሻጥር: ባህላዊ የቼዝ ጨዋታ ሲሆን ከፍተኛ የማሰብ ችሎታን ይጠይቃል።\n\n፫. የፈረስ ጉግስ:\n- በፈረስ ላይ ሆነው ጦር በመወርወርና በጋሻ በመከላከል የሚካሄድ የጀግንነትና የፈረሰኝነት ባህላዊ ስፖርት ነው።\n\n፬. ባህላዊ ፋይዳ:\nእነዚህ ጨዋታዎች የህዝቡን አንድነት፣ ብልሃትና አካላዊ ብርታት ያዳብራሉ።",
       "examples": [
         {
-          "target": "መምህሩ የ«ትርፍ ጊዜ፣ ስፖርት እና መዝናኛ (Leisure & Hobbies)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (12.4.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ትርፍ ጊዜ፣ ስፖርት እና መዝናኛ (Leisure & Hobbies)' to the students."
+          "target": "በገና በዓል ዕለት ወጣቶች በሜዳ ላይ ተሰባስበው ባህላዊ የገና ጨዋታን በደመቀ ሁኔታ ይጫወታሉ።",
+          "reading": "Bä-Gänna bä'al ʿəlät wät’t’atočč bämeda lay täsäbasəbäw bahəlawi yä-Gänna č’äwatan bädämäqä huneta yəč’awwätallu. [bɛɡɛnːa bɛʔal ʔɨlɛt wɛtʼːaˈtotʃː bɛmeˈda laj tɛsɛbaˈsɨbɛw bahɨlaˈwi jɛɡɛnːa tʃʼɛwaˈtan bɛdɛmɛˈkʼɛ huneˈta jɨtʃʼawːɛˈtalːu] (beh-gen-NAH beh-AHL uh-LET wet'-t'ah-TOHCH beh-may-DAH lye teh-seh-bah-suh-BEW bah-huh-LAH-wee yeh-gen-NAH ch'eh-wah-TAHN beh-deh-meh-K'EH hoo-nay-TAH yuh-ch'ow-weh-TAHL-loo)",
+          "translation": "On Genna (Christmas) holiday, youth gather in the open field and play the traditional Genna game vividly."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (12.4.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ሽማግሌዎቹ ከዛፍ ጥላ ሥር ተቀምጠው የገበጣ እና የሻጥር ጨዋታዎችን በጥልቀት ይጫወታሉ።",
+          "reading": "Šəmagəllewočču käzaf t’əla sər täqämt’äw yä-Gäbät’a ənna yä-Šat’ər č’äwatawoččən bät’əlqät yəč’awwätallu. [ʃɨmaɡɨlːeˈwotʃːu kɛzaf tʼɨla sɨr tɛkʼɛmˈtʼɛw jɛɡɛbɛˈtʼa ɨnːa jɛʃaˈtʼɨr tʃʼɛwataˈwotʃːɨn bɛtʼɨlˈkʼɛt jɨtʃʼawːɛˈtalːu] (shuh-mah-guhl-lay-wohch-CHOO keh-ZAHF t'uh-LAH sur teh-k'em-T'EW yeh-geh-beh-T'AH un-nah yeh-shah-T'UR ch'eh-wah-tah-wohch-CHUN beh-t'ul-K'ET yuh-ch'ow-weh-TAHL-loo)",
+          "translation": "The elders sit under the tree shade and deeply play the Gebet'a and Shatur games."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (12.4.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (12.4.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "በጥምቀት በዓል ላይ ፈረሰኞቹ በፈረስ ጉግስ ትርዒት ታላቅ ጀግንነትንና ችሎታን ያሳያሉ።",
+          "reading": "Bä-T’əmqät bä'al lay färäsänyočču bäfäräs gugs tər'it talaq ğägnənnätənna čəlotan yasayyallu. [bɛtʼɨmˈkʼɛt bɛʔal laj fɛrɛsɛˈɲotʃːu bɛfɛˈrɛs ɡuɡs tɨrʔit taˈlakʼ dʒɛɡnɨnˈnɛtɨnːa tʃɨloˈtan jasaˈjːalːu] (beh-t'um-K'ET beh-AHL lye feh-reh-sen-yohch-CHOO beh-feh-RES googs tur-EET tah-LAHK' jeg-nun-NET-un-nah chuh-loh-TAHN yah-sye-YAHL-loo)",
+          "translation": "On the Timkat holiday, the horsemen display great bravery and skill in the equestrian Gugs spectacle."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Heritage Games: ገና (Hockey) + ገበጣ (Mancala) + ጉግስ (Horsemanship) + ሻጥር (Chess)!"
+      ],
+      "culturalNotes": [
+        "የገና ጨዋታ በኢትዮጵያ ከሁለት ሺህ ዓመታት በላይ ዕድሜ ያለው ሲሆን በገና በዓል ዕለት እኩልነትንና ማህበራዊ ነፃነትን የሚያንጸባርቅ ታላቅ ባህላዊ ትውፊት ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ትርፍ ጊዜ፣ ስፖርት እና መዝናኛ (Leisure & Hobbies)» (ክፍል 4) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "በገና በዓል ወቅት የሚጫወተው ታዋቂው የኢትዮጵያ ባህላዊ ስፖርት የትኛው ነው?",
           "options": [
-            "መምህሩ የ«ትርፍ ጊዜ፣ ስፖርት እና መዝናኛ (Leisure & Hobbies)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (12.4.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (12.4.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (12.4.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (12.4.w3)"
+            "የገና ጨዋታ (Genna traditional hockey game - Authentic cultural sport)",
+            "ቅርጫት ኳስ",
+            "መረብ ኳስ",
+            "ቴኒስ"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«የገና ጨዋታ» በገና ወቅት በባህል የሚዘወተር ጥንታዊ የሆኪ ዓይነት ጨዋታ ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u12-l4) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Elders play Gebet'a under the shade' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (12.4.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (12.4.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (12.4.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (12.4.x3)"
+            "ሽማግሌዎች በጥላ ሥር ገበጣ ይጫወታሉ። (Elders play Gebet'a under the shade - Accurate cultural scene)",
+            "ሽማግሌዎች ይሮጣሉ።",
+            "ገበጣ መጫወት አይቻልም።",
+            "ምንም ጨዋታ የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ትርፍ ጊዜ፣ ስፖርት እና መዝናኛ (Leisure & Hobbies)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (12.4.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (12.4.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (12.4.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (12.4.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ይህ ዓረፍተ ነገር ሽማግሌዎችን፣ ጥላንና የገበጣ ጨዋታን በትክክል ያዛምዳል።"
         }
       ]
     },
@@ -5865,24 +5771,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 12-4):",
+          "prompt": "የኢትዮጵያ ባህላዊ ስፖርቶችንና ጨዋታዎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (12.4.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (12.4.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (12.4.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (12.4.z3)"
+            "የገና ጨዋታ፣ ገበጣ፣ የፈረስ ጉግስ እና ሻጥር።",
+            "እግር ኳስ እና ቴኒስ ብቻ።",
+            "በኢትዮጵያ ባህላዊ ስፖርት የለም።",
+            "መኪና መንዳት እና አውሮፕላን ማብረር።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና ባህላዊ ስፖርቶችንና ጨዋታዎችን በሙሉ ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u12-l4) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ትርፍ»):",
+          "prompt": "'ገበጣ / Gebeta, traditional Mancala game' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ትርፍ",
-            "ትርፍ"
+            "ገበጣ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ትርፍ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ገበጣ» (Gäbät’a) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -5893,85 +5798,62 @@
     "subject": "amharic",
     "unit": 12,
     "lessonNumber": 5,
-    "title": "ትርፍ ጊዜ፣ ስፖርት እና መዝናኛ (Leisure & Hobbies) (ክፍል 5)",
+    "title": "የክፍል 12 አጠቃላይ ማጠቃለያ (Unit 12 Grand Synthesis & Leisure Activities Discourse)",
     "level": "A2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የተለያዩ የትርፍ ጊዜ ማሳለፊያዎች፣ ስፖርቶች፣ እና የፍላጎት መግለጫዎች። (ክፍል 5)።",
+    "objective": "ስፖርቶችን፣ የትርፍ ጊዜ ማሳለፊያዎችን፣ የምርጫ መግለጫዎችንና ባህላዊ ጨዋታዎችን ያቀናጀ የተሟላ ንግግር ማካሄድ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የክፍል ፲፪ አጠቃላይ ሰዋሰዋዊ ውህደት እና የመዝናኛ ተግባቦት ማጠቃለያ:\n\n፩. የስፖርት አይነቶች:\n- እግር ኳስ፣ ሩጫ፣ ቅርጫት ኳስ፣ መረብ ኳስ፣ ዋና፣ ብስክሌት።\n\n፪. የትርፍ ጊዜ ማሳለፊያዎች:\n- መጽሐፍ ማንበብ፣ ሙዚቃ ማዳመጥ፣ ፊልም ማየት፣ ሥዕል መሳል፣ ፎቶግራፍ ማንሳት።\n\n፫. የፍላጎትና የምርጫ መግለጫዎች:\n- እወዳለሁ፣ አልወድም፣ እመርጣለሁ፣ ይሻለኛል።\n\n፬. የባህል ስፖርቶች:\n- የገና ጨዋታ፣ ገበጣ፣ የፈረስ ጉግስ፣ ሻጥር።",
       "examples": [
         {
-          "target": "መምህሩ የ«ትርፍ ጊዜ፣ ስፖርት እና መዝናኛ (Leisure & Hobbies)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (12.5.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'ትርፍ ጊዜ፣ ስፖርት እና መዝናኛ (Leisure & Hobbies)' to the students."
+          "target": "በትርፍ ጊዜዬ እግር ኳስ መጫወትና መጽሐፍ ማንበብ እወዳለሁ፤ ጤናማ የአኗኗር ዘይቤም እከተላለሁ።",
+          "reading": "Bätərf gizeye əgər kwas mäč’awätənna mäs’haf manbäb əwädallähu; t’enamma yä'anwawwar zäybem əkkättälallähu. [bɛtɨrf ɡizeˈje ʔɨɡr kʷas mɛtʃʼaˈwɛtɨnːa mɛsˤhaf manˈbɛb ʔɨwɛˈdalːɛhu tʼenaˈma jɛʔanwawːar zɛjˈbem ʔɨkːɛtːɛˈlalːɛhu] (beh-TURF gee-ZAY-yay ug-GUR kwas meh-ch'ah-WET-un-nah meh-TS'AHF mahn-BEB uh-wed-DAHL-leh-hoo; t'ay-nah-MAH yeh-ahn-wow-WAHR zey-BAY-m uhk-ket-teh-LAHL-leh-hoo)",
+          "translation": "In my spare time, I love playing football and reading books; and I follow a healthy lifestyle."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (12.5.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "በበዓላት ወቅት ባህላዊ የገና ጨዋታን መመልከትና ከሽማግሌዎች ጋር ገበጣ መጫወት ታላቅ ደስታ ይሰጣል።",
+          "reading": "Bäbä'alat wäqət bahəlawi yä-Gänna č’äwatan mämälkätənna käšəmagəllewočč gara Gäbät’a mäč’awät talaq dässəta yəsät’all. [bɛbɛʔaˈlat wɛkʼt bahɨlaˈwi jɛɡɛnːa tʃʼɛwaˈtan mɛmɛlˈkɛtɨnːa kɛʃɨmaɡɨlːeˈwotʃː ɡaˈra ɡɛbɛˈtʼa mɛtʃʼaˈwɛt taˈlakʼ dɛsːɨˈta jɨsɛˈtʼal] (beh-beh-ah-LAHT wehk'-T bah-huh-LAH-wee yeh-gen-NAH ch'eh-wah-TAHN meh-mel-KET-un-nah keh-shuh-mah-guhl-lay-wohch-CH gah-RAH geh-beh-T'AH meh-ch'ah-WET tah-LAHK' des-suh-TAH yuh-set'-TAHL)",
+          "translation": "During holidays, watching the traditional Genna game and playing Gebet'a with the elders brings great joy."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (12.5.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (12.5.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ስፖርት መሥራትና ጠቃሚ መዝናኛዎች የሰውን ልጅ አካልና አዕምሮ ያድሳሉ።",
+          "reading": "Sport mäsratənna t’äqqami mäznanyaočč yäsäw ləğn akalənna a'əmron yaddəsallu. [sport mɛsˈratɨnːa tʼɛkʼːaˈmi mɛznaɲaˈwotʃː jɛsɛw lɨdʒn ʔaˈkalɨnːa ʔaʔɨmˈron jadːɨˈsalːu] (spohrt mes-RAHT-un-nah t'ehk'-k'ah-MEE mez-nahn-yah-wohch-CH yeh-SEW luhj-un ah-KAH-lun-nah ah-uhm-ROHN yahd-duh-SAHL-loo)",
+          "translation": "Engaging in sports and worthwhile recreation rejuvenates the human body and mind."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Leisure Sphere: Athletics (ስፖርት) + Arts (ጥበብ) + Choice (ምርጫ) + Heritage (ባህል)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ማህበረሰብ ውስጥ 'መጫወት፣ መሳቅና መደሰት ለጤና መድኃኒት ነው' ተብሎ ይታመናል።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«ትርፍ ጊዜ፣ ስፖርት እና መዝናኛ (Leisure & Hobbies)» (ክፍል 5) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "ከሚከተሉት ውስጥ የተሟላ የስፖርትና የመዝናኛ አኗኗርን የሚያሳየው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«ትርፍ ጊዜ፣ ስፖርት እና መዝናኛ (Leisure & Hobbies)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (12.5.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (12.5.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (12.5.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (12.5.w3)"
+            "ስፖርት እሠራለሁ፣ መጽሐፍ አነባለሁ፣ እንዲሁም በትርፍ ጊዜዬ እዝናናለሁ። (Complete active leisure synthesis)",
+            "ምንም ስፖርት አልሠራም",
+            "መጽሐፍ አልወድም",
+            "ቤት ብቻ እቀመጣለሁ"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ስፖርትን፣ ንባብንና መዝናናትን በአንድነት ያጠቃልላል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u12-l5) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "ባህላዊ ጨዋታዎችንና ዘመናዊ ስፖርቶችን ያጣመረው ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (12.5.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (12.5.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (12.5.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (12.5.x3)"
+            "እግር ኳስ መጫወትም ሆነ ገበጣ መጫወት ደስ ይለኛል። (I enjoy playing both football and Gebet'a - Integrated sports sentence)",
+            "ስፖርት አልወድም።",
+            "ገበጣ ጨዋታ አይደለም።",
+            "ኳስ የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«ትርፍ ጊዜ፣ ስፖርት እና መዝናኛ (Leisure & Hobbies)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (12.5.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (12.5.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (12.5.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (12.5.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ይህ አማራጭ እግር ኳስንና ገበጣን በአንድ ላይ በማጣመር ትክክለኛውን ትርጉም ይሰጣል።"
         }
       ]
     },
@@ -5979,24 +5861,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 12-5):",
+          "prompt": "የክፍል 12 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (12.5.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (12.5.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (12.5.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (12.5.z3)"
+            "ዋና ዋና ስፖርቶች፣ የትርፍ ጊዜ ማሳለፊያዎች፣ የፍላጎትና የምርጫ መግለጫዎች (እወዳለሁ፣ እመርጣለሁ)፣ እንዲሁም የኢትዮጵያ ባህላዊ ጨዋታዎች ተካተዋል።",
+            "ይህ ክፍል ስለ ፖለቲካ ብቻ ነው።",
+            "በአማርኛ የመዝናኛ ስሞች የሉም።",
+            "ሁሉም ስፖርቶች አንድ ዓይነት ናቸው።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የክፍል 12ን አጠቃላይ ይዘት በሙሉ ይሸፍናል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u12-l5) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «ትርፍ»):",
+          "prompt": "'ስፖርት / Sport' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "ትርፍ",
-            "ትርፍ"
+            "ስፖርት"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «ትርፍ» ነው።"
+          "explanation": "ትክክለኛው ቃል «ስፖርት» (Sport) ነው።"
         }
       ],
       "passThreshold": 0.8
