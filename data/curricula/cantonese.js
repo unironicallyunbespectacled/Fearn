@@ -3355,53 +3355,62 @@
     "subject": "cantonese",
     "unit": 8,
     "lessonNumber": 1,
-    "title": "方向、位置同行街交通 (Directions & HK Transit) (第1課)",
+    "title": "問路與導航核心動詞：「行直」、「轉左/轉右」、「過馬路」 (Asking Directions & Navigation Verbs)",
     "level": "A2",
-    "objective": "Master Cantonese linguistics for 粵語單元8第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語問路句式與核心步行導航動詞（行直、轉左、轉右、過馬路、過天橋、搭扶手電梯）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在香港立體錯綜複雜之高密度街區中問路與指路，必須熟練運用精確之道地空間移動動詞與方位名詞：\n\n一、核心步行導航動詞短語深度解析：\n１．「行直 / 一直行」（haang4 zik6 / jat1 zik6 haang4）：筆直向前走，指順著當前街道方向直行不拐彎。\n２．「轉左 / 轉右」（zyun3 zo2 / zyun3 jau6）：向左轉或向右轉。注意粵語動詞「轉」在此讀陰去調。\n３．「過馬路」（gwo3 maa5 lou6）：橫過街道馬路，穿越行車道。\n４．「過行人天橋」（gwo3 hang4 jan4 tin1 kiu4）：登上並走過架空人行天橋。\n５．「搭扶手電梯 / 搭升降機」（daap3 fu4 sau2 din6 tai1 / daap3 lip1）：乘搭自動扶梯或乘搭垂直箱式電梯。\n\n二、街頭地標與交通參照物網絡：\n１．「十字路口」（sap6 zi6 lou6 hau2）：四向交叉之道路交匯點。\n２．「紅綠燈 / 燈位」（hung4 luk6 dang1 / dang1 wai2）：交通信號燈處，香港俗稱「燈位」。\n３．「斑馬線」（baan1 maa5 sin3）：地面漆有黑白條紋之行人過路專用通道。\n４．「路口」（lou6 hau2）：街道拐彎或分支處；「巷仔」（hong6 zai2）：狹窄的小巷弄堂。\n\n三、地道禮貌問路句型結構：\n１．「唔該借借，請問去……應該點樣行？」（借光請問，去某地該怎麼走？）\n２．「一直行到燈位，見到天橋上橋轉左，落橋右手邊就係。」（直走到信號燈，看到天橋上去左轉，下橋右邊即是。）",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第8課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 8 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 8 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 8 in communication."
+          "target": "唔該借借，請問去香港故宮文化博物館應該點樣行？",
+          "reading": "m4 goi1 ze3 ze3, cing2 man6 heoi3 hoeng1 gong2 gu3 gung1 man4 faa3 bok3 mat6 gun2 jing1 goi1 dim2 joeng2 haang4? [m̩˨˩ kɔːi˥ tsɛː˧ tsɛː˧, tsʰɪŋ˧˥ mɐn˨ hɵy˧ hœːŋ˥ kɔːŋ˧˥ kuː˧ kʊŋ˥ mɐn˨˩ faː˧ pɔːk̚˧ mɐt̚˨ kuːn˧˥ jɪŋ˥ kɔːi˥ tiːm˧˥ jœːŋ˧˥ haːŋ˨˩] (M-GOY JEH-JEH, CHING-MUN HOY HEUNG-GONG GOO-GOONG MUN-FAH BOK-MUT-GOON YING-GOY DEEM-YEUNG HAHNG?)",
+          "translation": "Excuse me, could you tell me how to get to the Hong Kong Palace Museum?"
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元8-1）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "一直行到紅綠燈位轉左，行過條天橋就見到㗎喇。",
+          "reading": "jat1 zik6 haang4 dou3 hung4 luk6 dang1 wai2 zyun3 zo2, haang4 gwo3 tiu4 tin1 kiu4 zau6 gin3 dou2 gaa3 laa3. [jɐt̚˥ tsɪk̚˨ haːŋ˨˩ tou˧ hʊŋ˨˩ lʊk˨ tɐŋ˥ wɐi˧˥ tsyn˧ tsɔː˧˥, haːŋ˨˩ kʷɔː˧ tʰiːu˨˩ tʰiːn˥ kʰiːu˨˩ tsɐu˨ kiːn˧ tou˧˥ kaː˧ laː˧] (YUT-JIK HAHNG-DOH HOONG-LUK-DUNG-WY JUEN-JOH, HAHNG-GWOR TEW TEEN-KEW JAU GEEN-DOH GAH LAH)",
+          "translation": "Walk straight to the traffic lights and turn left; cross the footbridge and you will see it."
+        },
+        {
+          "target": "前面十字路口過咗馬路之後，右手邊就係地鐵站出口。",
+          "reading": "cin4 min6 sap6 zi6 lou6 hau2 gwo3 zo2 maa5 lou6 zi1 hau6, jau6 sau2 bin1 zau6 hai6 dei6 tit3 zaam6 ceot1 hau2. [tsʰiːn˨˩ miːn˨ sɐp̚˨ tsiː˨ lou˨ hɐu˧˥ kʷɔː˧ tsɔː˧˥ maː˩˧ lou˨ tsiː˥ hɐu˨, jɐu˨ sɐu˧˥ piːn˥ tsɐu˨ hɐi˨ tei˨ tʰiːt̚˧ tsaːm˨ tsʰɵt̚˥ hɐu˧˥] (CHEEN-MEEN SUP-JEE LOH-HAU GWOR-JOR MAH-LOH JEE-HAU, YAU-SAU-BEEN JAU-HY DAY-TEET-JAHM CHUT-HAU)",
+          "translation": "After crossing the road at the crossroad ahead, the MTR station exit is on your right-hand side."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【行街導航訣】前行「行直」莫徬徨，見燈「轉左」「轉右」傍；「過橋」「過路」斑馬線，四通八達在香港！"
+      ],
+      "culturalNotes": [
+        "香港立體城市步行網絡極為發達（如中環至半山自動扶手電梯系統、金鐘及中環龐大之人行天橋網絡系統），指路時經常包含「上天橋」（soeng5 tin1 kiu4）或「落地下」（lok6 dei6 haa2）。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"平啲\":",
+          "prompt": "【方向指示】路人告訴你「喺前面紅綠燈位轉右」，你應該進行之動作係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第8課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：貴咗錯置）",
-            "混雜生硬詞彙之不規範語句（例項：收據未適配）",
-            "聲調助詞搭配欠妥之表達（例項：信用卡誤用）"
+            "在前面的交通信號燈處向右轉 (Turn right at traffic lights)",
+            "在前面的交通信號燈處向左轉",
+            "在前面的交通信號燈處往後退",
+            "在前面的交通信號燈處停下不走"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「轉右」（zyun3 jau6）即向右轉，「燈位」指紅綠燈處。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"平啲\":",
+          "prompt": "【立體交通】欲表達「乘搭自動扶手電梯上二樓」，最地道之粵語動賓搭配係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第8課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：收據未適配）",
-            "聲調助詞搭配欠妥之表達（例項：信用卡誤用）",
-            "語序顛倒嘅非標準句式（例項：貴咗錯置）"
+            "搭扶手電梯上二樓 (daap3 fu4 sau2 din6 tai1 soeng5 ji6 lau2)",
+            "行升降機上二樓",
+            "坐斑馬線上二樓",
+            "飛天橋上二樓"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "手扶梯在粵語中稱為「扶手電梯」（fu4 sau2 din6 tai1）。"
         }
       ]
     },
@@ -3409,15 +3418,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"平啲\": Which sentence is completely correct?",
+          "prompt": "【問路句式】欲向路人禮貌詢問「去香港站應該怎麼走」，最地道標準之句式係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第8課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：信用卡誤用）",
-            "語序顛倒嘅非標準句式（例項：貴咗錯置）",
-            "混雜生硬詞彙之不規範語句（例項：收據未適配）"
+            "請問去香港站應該點樣行？ (cing2 man6 heoi3 hoeng1 gong2 zaam6 jing1 goi1 dim2 joeng2 haang4?)",
+            "請問去香港站幾多錢一個？",
+            "請問去香港站食咗飯未？",
+            "請問去香港站有冇得打包？"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「應該點樣行」（應該怎麼走）係粵語問路最經典之表達。"
         }
       ],
       "passThreshold": 0.8
@@ -3428,53 +3437,62 @@
     "subject": "cantonese",
     "unit": 8,
     "lessonNumber": 2,
-    "title": "方向、位置同行街交通 (Directions & HK Transit) (第2課)",
+    "title": "港鐵搭乘指南：月台、轉線、出閘、拍卡與八達通增值 (MTR Navigation & Octopus Top-up)",
     "level": "A2",
-    "objective": "Master Cantonese linguistics for 粵語單元8第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握乘搭港鐵必備術語（入閘、出閘、轉線、月台）以及在便利店或客務中心為八達通「增值」之實用語句。",
     "presentation": {
-      "explanation": "",
+      "explanation": "港鐵鐵路系統係香港市民出行不可或缺之地下動脈網絡，涵蓋一套嚴謹地道之專用搭乘與票務術語：\n\n一、港鐵站內行動專用術語全景剖析：\n１．「八達通」（baat3 daat6 tung1）：香港全覆蓋非接觸式智能收費卡。\n２．「拍卡」（paak3 kaat1）：將卡片貼近感應器刷卡；「入閘」（jap6 zaap6）：刷卡通過驗票閘機進站；「出閘」（ceot1 zaap6）：刷卡通過閘機出站。\n３．「月台」（jyut6 toi4）：列車停靠之候車站台（例如「前往柴灣方向之乘客請前往一號月台」）。\n４．「轉線 / 轉車」（zyun3 sin3 / zyun3 ce1）：在不同線路交匯之樞紐站換乘其他鐵路幹線（例如「喺金鐘站轉乘港島線」）。\n\n二、八達通儲值充值日常對話構式：\n在全港各大便利店或港鐵站內客務中心為八達通儲值時，唯一標準規範動詞為「增值」（zang1 zik6，充值）：\n１．「唔該幫我張八達通增值一百蚊現金。」（麻煩幫我的八達通充值一百元現金。）\n２．「請喺感應器上面拍卡啦，唔該晒！」（請在感應器上刷卡，非常感謝！）\n３．「張卡餘額負數出唔到閘，要去客務中心拍卡補票。」（卡內餘額為負無法出站，需要去服務台刷卡處理。）",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第8課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 8 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 8 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 8 in communication."
+          "target": "唔該幫我張八達通增值五百蚊現金，多謝。",
+          "reading": "m4 goi1 bong1 ngo5 zoeng1 baat3 daat6 tung1 zang1 zik6 ng5 baak3 man1 jin6 gam1, do1 ze6. [m̩˨˩ kɔːi˥ pɔːŋ˥ ŋɔː˩˧ tsœːŋ˥ paːt̚˧ taːt̚˨ tʰʊŋ˥ tsɐŋ˥ tsɪk̚˨ ŋ̍˩˧ paːk̚˧ mɐn˥ jiːn˨ kɐm˥, tɔː˥ tsɛː˨] (M-GOY BONG NGOH JEUNG BAHT-DAHT-TOONG JUNG-JIK NG-BAHK-MUN YEEN-GUM, DOH-JEH)",
+          "translation": "Please top up my Octopus card with five hundred dollars in cash, thank you."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元8-2）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "由荃灣去中環，可以喺荔景站轉東涌線，或者直搭荃灣線過海。",
+          "reading": "jau4 cyun4 waan1 heoi3 zung1 waan4, ho2 ji5 hai2 lai6 ging2 zaam6 zyun3 dung1 cung1 sin3, waak6 ze2 zik6 daap3 cyun4 waan1 sin3 gwo3 hoi2. [jɐu˨˩ tsʰyːn˨˩ waːn˨˩ hɵy˧ tsʊŋ˥ waːn˨˩, hɔː˧˥ jiː˩˧ hɐi˩˧ lɐi˨ kɪŋ˧˥ tsaːm˨ tsyn˧ tʊŋ˥ tsʰʊŋ˥ siːn˧, waːk˨ tsɛː˧˥ tsɪk̚˨ taːp̚˧ tsʰyːn˨˩ waːn˨˩ siːn˧ kʷɔː˧ hɔːi˧˥] (YAU TSUEN-WAHN HOY JOONG-WAHN, HOH-YEE HY LY-GING-JAHM JUEN DOONG-CHOONG-SEEN, WAHK-JEH JIK-DAHP TSUEN-WAHN-SEEN GWOR-HOY)",
+          "translation": "From Tsuen Wan to Central, you can transfer to the Tung Chung Line at Lai King Station, or directly ride the Tsuen Wan Line across the harbour."
+        },
+        {
+          "target": "我張八達通餘額唔夠出唔到閘，要去客務中心拍卡處理。",
+          "reading": "ngo5 zoeng1 baat3 daat6 tung1 jyu4 ngaak6 m4 gau3 ceot1 m4 dou2 zaap6, jiu3 heoi3 haak3 mou6 zung1 sam1 paak3 kaat1 cyu2 lei5. [ŋɔː˩˧ tsœːŋ˥ paːt̚˧ taːt̚˨ tʰʊŋ˥ jyː˨˩ ŋaːk̚˨ m̩˨˩ kɐu˧ tsʰɵt̚˥ m̩˨˩ tou˧˥ tsaːp̚˨, jiu˧ hɵy˧ haːk̚˧ mou˨ tsʊŋ˥ sɐm˥ pʰaːk̚˧ kʰaːt̚˥ tsʰyː˧˥ lei˩˧] (NGOH JEUNG BAHT-DAHT-TOONG YOO-NGAHK M-GAU CHUT-M-DOH-JAHP, YEW HOY HAHK-MOU JOONG-SUM PAHK-KAHT CHU-LEE)",
+          "translation": "My Octopus balance is insufficient to exit the turnstile; I need to go to the Customer Service Centre to tap and resolve it."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【港鐵出行歌】「八達通」卡行全港，入閘出閘輕「拍卡」；線路交匯「轉線」快，餘額不足「增值」妥！"
+      ],
+      "culturalNotes": [
+        "香港的「八達通」除搭乘港鐵、巴士、小巴、輪渡外，亦全面覆蓋便利店、茶餐廳、自動售賣機、甚至公眾停車場，普及率近乎百分之一百，被譽為全球最成功之電子收費卡之一。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"貴咗\":",
+          "prompt": "【充值用語】在香港便利店欲為八達通充值 200 港幣，應講：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第8課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：收據錯置）",
-            "混雜生硬詞彙之不規範語句（例項：信用卡未適配）",
-            "聲調助詞搭配欠妥之表達（例項：現金誤用）"
+            "唔該八達通增值兩百蚊。 (m4 goi1 baat3 daat6 tung1 zang1 zik6 loeng5 baak3 man1.)",
+            "唔該八達通買單兩百蚊。",
+            "唔該八達通找錢兩百蚊。",
+            "唔該八達通平啲兩百蚊。"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「增值」（zang1 zik6）係粵語為儲值卡充值之唯一正宗專用詞。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"貴咗\":",
+          "prompt": "【換乘術語】在港鐵廣播中聽到「往柴灣方向嘅乘客，請喺呢個站＿＿＿」，空格應填入：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第8課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：信用卡未適配）",
-            "聲調助詞搭配欠妥之表達（例項：現金誤用）",
-            "語序顛倒嘅非標準句式（例項：收據錯置）"
+            "轉線 (zyun3 sin3 / 換乘線路)",
+            "出閘 (ceot1 zaap6)",
+            "打包 (daa2 baau1)",
+            "埋單 (maai4 daan1)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "地鐵換乘線路稱為「轉線」（zyun3 sin3）。"
         }
       ]
     },
@@ -3482,15 +3500,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"貴咗\": Which sentence is completely correct?",
+          "prompt": "【動作識別】將八達通靠近地鐵閘機感應區刷卡進站，此動作在粵語中稱為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第8課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：現金誤用）",
-            "語序顛倒嘅非標準句式（例項：收據錯置）",
-            "混雜生硬詞彙之不規範語句（例項：信用卡未適配）"
+            "拍卡入閘 (paak3 kaat1 jap6 zaap6)",
+            "轉線出閘 (zyun3 sin3 ceot1 zaap6)",
+            "埋單找錢 (maai4 daan1 zaau2 cin2)",
+            "走青烘底 (zau2 ceng1 hung3 dai2)"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "刷卡進站稱為「拍卡入閘」（paak3 kaat1 jap6 zaap6）。"
         }
       ],
       "passThreshold": 0.8
@@ -3501,53 +3519,62 @@
     "subject": "cantonese",
     "unit": 8,
     "lessonNumber": 3,
-    "title": "方向、位置同行街交通 (Directions & HK Transit) (第3課)",
+    "title": "香港小巴搭乘神技：「有落」、「前面路口落」 (Minibus Shouting Etiquette)",
     "level": "A2",
-    "objective": "Master Cantonese linguistics for 粵語單元8第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握搭乘香港公共小型巴士（紅頂/綠頂小巴）必備之高聲呼叫下車禮儀與核心句式（有落、燈位有落、路口有落）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "香港公共小型巴士（俗稱「小巴」，分為綠色專線小巴與紅色非專線公共小巴）係香港極富本土特色但亦極考驗粵語聽說膽識之交通工具：\n\n一、小巴下車核心呼叫喊話句式全套解析（語音必須洪亮清晰、吐字果斷）：\n由於多數小巴不設逐站自動廣播報站系統，乘客到達目的地前必須提前一至兩個街口主動大聲向司機叫停下車：\n１．「有落！」（jau5 lok6！）：有人要下車！此乃最核心之全域下車指令。\n２．「前面有落，唔該！」（cin4 min6 jau5 lok6, m4 goi1！）：前方位置下車，勞駕司機！\n３．「燈位有落！」（dang1 wai2 jau5 lok6！）：在前方紅綠燈交通信號處靠邊停靠下車！\n４．「路口有落！」（lou6 hau2 jau5 lok6！）：在前方十字路口或街巷交匯處下車！\n５．「過咗天橋有落！」（gwo3 zo2 tin1 kiu4 jau5 lok6！）：穿過人行天橋之後立即靠邊下車！\n６．「轉彎有落！」（zyun3 waan1 jau5 lok6！）：拐過街角彎道後靠邊下車！\n\n二、司機車廂互動反饋與默契：\n司機聽聞呼喊後通常會舉手示意、按下車頂「客落」指示燈或簡潔回應「收到 / 知道」（sau1 dou3 / zi1 dou3）。若遇噪音或司機未有反應，乘客宜再度清晰大聲呼喊「司機，前面有落呀！」。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第8課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 8 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 8 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 8 in communication."
+          "target": "司機，唔該前面銀行門口有落！",
+          "reading": "si1 gei1, m4 goi1 cin4 min6 ngan4 hong4 mun4 hau2 jau5 lok6! [siː˥ kei˥, m̩˨˩ kɔːi˥ tsʰiːn˨˩ miːn˨ ŋɐn˨˩ hɔːŋ˨˩ muːn˨˩ hɐu˧˥ jɐu˩˧ lɔːk˨!] (SEE-GAY, M-GOY CHEEN-MEEN NGUN-HONG MOON-HAU YAU-LOK!)",
+          "translation": "Driver, please let me off in front of the bank ahead!"
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元8-3）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "搭小巴一定要夠膽大聲嗌「有落」，司機先聽得清楚。",
+          "reading": "daap3 siu2 baa1 jat1 ding6 jiu3 gau3 daam2 daai6 seng1 aai3 \"jau5 lok6\", si1 gei1 sin1 teng1 dak1 cing1 co2. [taːp̚˧ siːu˧˥ paː˥ jɐt̚˥ tɪŋ˨ jiu˧ kɐu˧ taːm˧˥ taːi˨ sɛːŋ˥ aːi˧ \"jɐu˩˧ lɔːk˨\", siː˥ kei˥ siːn˥ tʰɛːŋ˥ tɐk̚˥ tsʰɪŋ˥ tsʰɔː˧˥] (DAHP SEW-BAH YUT-DING YEW GAU-DAHM DY-SENG EYE \"YAU-LOK\", SEE-GAY SEEN TENG-DUK CHING-CHOH)",
+          "translation": "Taking a minibus requires having the courage to shout 'yau lok' loudly so the driver can hear clearly."
+        },
+        {
+          "target": "過咗前面個油站之後，第二個路口有落，唔該！",
+          "reading": "gwo3 zo2 cin4 min6 go3 jau4 zaam6 zi1 hau6, dai6 ji6 go3 lou6 hau2 jau5 lok6, m4 goi1! [kʷɔː˧ tsɔː˧˥ tsʰiːn˨˩ miːn˨ kɔː˧ jɐu˨˩ tsaːm˨ tsiː˥ hɐu˨, tɐi˨ jiː˨ kɔː˧ lou˨ hɐu˧˥ jɐu˩˧ lɔːk˨, m̩˨˩ kɔːi˥!] (GWOR-JOR CHEEN-MEEN GOH YAU-JAHM JEE-HAU, DY-YEE GOH LOH-HAU YAU-LOK, M-GOY!)",
+          "translation": "After passing the petrol station ahead, stopping at the second intersection, please!"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【小巴嗌落訣】乘搭小巴莫膽怯，提前開口聲清冽；「前面有落」「燈位落」，司機舉手「收到」帖！"
+      ],
+      "culturalNotes": [
+        "「小巴嗌落車」被外國遊客與初學者戲稱為「粵語口語終極考核」。很多害羞的新手因不敢大聲嗌「有落」而坐過站，成為經典文化趣事。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"收據\":",
+          "prompt": "【小巴喊話】乘搭香港小巴即將到達目的地紅綠燈處，欲要求司機停車下車，最地道之喊話係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第8課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：信用卡錯置）",
-            "混雜生硬詞彙之不規範語句（例項：現金未適配）",
-            "聲調助詞搭配欠妥之表達（例項：屋企誤用）"
+            "司機，燈位有落，唔該！ (si1 gei1, dang1 wai2 jau5 lok6, m4 goi1!)",
+            "司機，我想埋單！",
+            "司機，唔該增值一百蚊！",
+            "司機，我想食雲吞麵！"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「燈位有落，唔該！」係要求在紅綠燈處下車最標準地道之小巴用語。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"收據\":",
+          "prompt": "【語意理解】在小巴上聽到有乘客大嗌「過咗天橋有落」，其準確含義係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第8課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：現金未適配）",
-            "聲調助詞搭配欠妥之表達（例項：屋企誤用）",
-            "語序顛倒嘅非標準句式（例項：信用卡錯置）"
+            "穿過天橋之後靠邊停車讓我下車 (Stopping after passing the bridge)",
+            "在天橋正上方停車跳下去",
+            "司機開車撞到了天橋",
+            "天橋上面有人跌落下來"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「過咗天橋有落」指越過天橋後立即停車落客。"
         }
       ]
     },
@@ -3555,15 +3582,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"收據\": Which sentence is completely correct?",
+          "prompt": "【文化禮儀】在香港乘搭沒有按鈴裝置之紅色小巴時，乘客要求下車之常規方式係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第8課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：屋企誤用）",
-            "語序顛倒嘅非標準句式（例項：信用卡錯置）",
-            "混雜生硬詞彙之不規範語句（例項：現金未適配）"
+            "提前大聲向司機呼喊「有落」 (aai3 jau5 lok6)",
+            "在座位上默默等待司機主動問每個人",
+            "直接站起來走到司機身旁拍司機肩膀",
+            "用手機向運輸署發送下車短信"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "乘搭紅色小巴必須由乘客主動大聲嗌「有落」。"
         }
       ],
       "passThreshold": 0.8
@@ -3574,53 +3601,62 @@
     "subject": "cantonese",
     "unit": 8,
     "lessonNumber": 4,
-    "title": "方向、位置同行街交通 (Directions & HK Transit) (第4課)",
+    "title": "搭的士與司機溝通：「去……唔該」、「行紅隧定東隧」 (Taking a Taxi & Route Choice)",
     "level": "A2",
-    "objective": "Master Cantonese linguistics for 粵語單元8第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握乘坐香港的士之目的地告知句式、過海隧道選擇（紅隧、東隧、西隧）及找零索取發票禮儀。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在香港乘搭的士（即計程車、出租車）出行時，與司機之言語溝通講求精煉準確與迅速果斷：\n\n一、告知目的地與過海隧道選擇路徑：\n１．「司機，去……唔該。」（司機，去某某地方，謝謝。）例如「司機，唔該去中環置地廣場。」\n２．跨越維多利亞港之「過海」隧道三大選擇方案：\n   - 「紅隧」（hung4 seoi6）：紅磡海底隧道，收費最低但交通最為繁忙容易塞車。\n   - 「東隧」（dung1 seoi6）：東區海底隧道，前往港島東區北角、鰂魚涌之首選捷徑。\n   - 「西隧」（sai1 seoi6）：西區海底隧道，通道寬暢速度最快，直通中環上環西九龍。\n\n二、車費結算、小費找零與索取乘車收據：\n１．「唔使找喇」（m4 sai2 zaau2 laa3）：不用找零錢了，剩餘零錢作為感謝司機之小費。\n２．「唔該印張收據 / 唔該印張飛」（m4 goi1 jan3 zoeng1 sau1 geoi3 / jan3 zoeng1 fei1）：請打印一張正式乘車發票收據以便報銷。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第8課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 8 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 8 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 8 in communication."
+          "target": "司機，唔該去香港國際機場一號客運大樓，行青嶼幹線。",
+          "reading": "si1 gei1, m4 goi1 heoi3 hoeng1 gong2 gwok3 zai3 gei1 coeng4 jat1 hou6 haak3 wan6 daai6 lau4, haang4 cing1 jyu4 gon3 sin3. [siː˥ kei˥, m̩˨˩ kɔːi˥ hɵy˧ hœːŋ˥ kɔːŋ˧˥ kʷɔːk̚˧ tsɐi˧ kei˥ tsʰœːŋ˨˩ jɐt̚˥ hou˨ haːk̚˧ wɐn˨ taːi˨ lɐu˨˩, haːŋ˨˩ tsʰɪŋ˥ jyː˩˧ kɔːn˧ siːn˧] (SEE-GAY, M-GOY HOY HEUNG-GONG GWOK-JY GAY-CHEUNG YUT-HOH HAHK-WUN DY-LAU, HAHNG CHING-YOO GON-SEEN)",
+          "translation": "Driver, please go to Hong Kong International Airport Terminal 1, via Tsing Ma line."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元8-4）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "過海去灣仔會展中心，行紅隧定行西隧快啲呀？",
+          "reading": "gwo3 hoi2 heoi3 waan1 zai2 wui6 zin2 zung1 sam1, haang4 hung4 seoi6 ding6 haang4 sai1 seoi6 faai3 di1 aa3? [kʷɔː˧ hɔːi˧˥ hɵy˧ waːn˥ tsɐi˧˥ wuːi˨ tsiːn˧˥ tsʊŋ˥ sɐm˥, haːŋ˨˩ hʊŋ˨˩ sɵy˨ tɪŋ˨ haːŋ˨˩ sɐi˥ sɵy˨ faːi˧ tiː˥ aː˧?] (GWOR-HOY HOY WAHN-JY WOOEY-JEEN JOONG-SUM, HAHNG HOONG-SOEY DING HAHNG SY-SOEY FY-DEE AH?)",
+          "translation": "Crossing the harbour to Wan Chai Convention Centre, is taking Hung Hom Tunnel or Western Tunnel faster?"
+        },
+        {
+          "target": "呢度一百蚊，唔該印張收據畀我返公司報銷。",
+          "reading": "ni1 dou6 jat1 baak3 man1, m4 goi1 jan3 zoeng1 sau1 geoi3 bei2 ngo5 faan1 gung1 si1 bou3 siu1. [niː˥ tou˨ jɐt̚˥ paːk̚˧ mɐn˥, m̩˨˩ kɔːi˥ jɐn˧ tsœːŋ˥ sɐu˥ kɵy˧ pei˧˥ ŋɔː˩˧ faːn˥ kʊŋ˥ siː˥ pou˧ siːu˥] (NEE-DOH YUT-BAHK-MUN, M-GOY YUN JEUNG SAU-GOEY BAY NGOH FAHN GOONG-SEE BO-SEW)",
+          "translation": "Here is one hundred dollars; please print a receipt for me to claim expenses at company."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【乘的士心訣】目的地前「唔該」敬，「紅隧」「西隧」過海巡；找錢零碎「唔使找」，「印張收據」好報銷！"
+      ],
+      "culturalNotes": [
+        "香港的士分三種車身顏色：市區的士（紅色，全港通行除大嶼山南部）、新界的士（綠色，專門行駛於新界指定區域）、大嶼山的士（藍色，專門行駛於大嶼山島內各區），搭乘前需留意各自營運範圍。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"信用卡\":",
+          "prompt": "【的士小費】車費為 88 元，你給予司機 100 元並表示不用找零錢，應講：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第8課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：現金錯置）",
-            "混雜生硬詞彙之不規範語句（例項：屋企未適配）",
-            "聲調助詞搭配欠妥之表達（例項：客廳誤用）"
+            "唔使找喇，多謝司機！ (m4 sai2 zaau2 laa3, do1 ze6 si1 gei1!)",
+            "一定要找錢畀我！",
+            "唔該印張車飛！",
+            "我想轉線去柴灣！"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「唔使找喇」（m4 sai2 zaau2 laa3）意為不用找零錢了。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"信用卡\":",
+          "prompt": "【隧道名稱】在香港從九龍過海到港島，所稱「西隧」之全名係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第8課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：屋企未適配）",
-            "聲調助詞搭配欠妥之表達（例項：客廳誤用）",
-            "語序顛倒嘅非標準句式（例項：現金錯置）"
+            "西區海底隧道 (Western Harbour Crossing)",
+            "香港大橋隧道",
+            "獅子山隧道",
+            "將軍澳隧道"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「西隧」（sai1 seoi6）即西區海底隧道。"
         }
       ]
     },
@@ -3628,15 +3664,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"信用卡\": Which sentence is completely correct?",
+          "prompt": "【發票索取】下車前欲向的士司機索取乘車發票收據，最正確之粵語說法係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第8課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：客廳誤用）",
-            "語序顛倒嘅非標準句式（例項：現金錯置）",
-            "混雜生硬詞彙之不規範語句（例項：屋企未適配）"
+            "司機，唔該印張收據 / 印張飛。 (si1 gei1, m4 goi1 jan3 zoeng1 sau1 geoi3 / fei1.)",
+            "司機，唔該埋單加單。",
+            "司機，唔該走青少甜。",
+            "司機，唔該行直轉左。"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "打印發票稱為「印張收據」或「印張飛」（jan3 zoeng1 fei1）。"
         }
       ],
       "passThreshold": 0.8
@@ -3647,53 +3683,62 @@
     "subject": "cantonese",
     "unit": 8,
     "lessonNumber": 5,
-    "title": "方向、位置同行街交通 (Directions & HK Transit) (第5課)",
+    "title": "城市地標與繁華街區指引：中環、尖沙咀、旺角、銅鑼灣 (City Landmarks & Districts)",
     "level": "A2",
-    "objective": "Master Cantonese linguistics for 粵語單元8第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握香港三大地理板塊（港島、九龍、新界）及核心著名街區地標之粵語地道發音與文化認知。",
     "presentation": {
-      "explanation": "",
+      "explanation": "香港地理劃分為三大主要板塊區域，每個區域皆擁有鮮明之歷史文化底蘊與商業生活地標：\n\n一、香港三大地理板塊與核心街區地標全景分佈：\n１．香港島（俗稱「港島」 gong2 dou2）：\n   - 「中環」（zung1 waan4）：全港金融中樞神經、摩天大廈群、半山扶手電梯系統、蘭桂坊。\n   - 「銅鑼灣」（tung4 lo4 waan4）：繁華購物零售天堂、時代廣場、希慎廣場、崇光百貨。\n   - 「金鐘」（gam1 zung1）：特區政府總部、高等法院、太古廣場樞紐。\n   - 「灣仔」（waan1 zai2）：香港會議展覽中心、金紫荊廣場、老街修頓球場。\n２．九龍半島（俗稱「九龍」 gau2 lung4）：\n   - 「尖沙咀」（zim1 saa1 zeoi2）：星光大道、維多利亞港天際線、海港城、文化中心。\n   - 「旺角」（wong6 gok3）：潮流集市、女人街、西洋菜南街、波鞋街。\n   - 「深水埗」（sam1 seoi2 bou2）：鴨寮街數碼電子跳蚤市場、平民道地美食天國。\n３．新界地區（俗稱「新界」 san1 gaai3）：\n   - 「沙田」（saa1 tin4）、「荃灣」（cyun4 waan1）、「屯門」（tyun4 mun4）、「元朗」（jyun4 long5）。\n\n二、地道空間心理方位語彙：\n香港市民習慣將跨越維多利亞港統稱為「過海」（gwo3 hoi2），跨海公車被稱為「過海巴士」。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第8課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 8 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 8 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 8 in communication."
+          "target": "今晚我哋先去尖沙咀睇維多利亞港夜景，然後搭天星小輪過中環。",
+          "reading": "gam1 maan5 ngo5 dei6 sin1 heoi3 zim1 saa1 zeoi2 tai2 wai4 do1 lei6 aa3 gong2 je6 ging2, jin4 hau6 daap3 tin1 sing1 siu2 leon4 gwo3 zung1 waan4. [kɐm˥ maːn˩˧ ŋɔː˩˧ tei˨ siːn˥ hɵy˧ tsɪm˥ saː˥ tsɵy˧˥ tʰɐi˧˥ wɐi˨˩ tɔː˥ lei˨˩ aː˧ kɔːŋ˧˥ jɛː˨ kɪŋ˧˥, jiːn˨˩ hɐu˨ taːp̚˧ tʰiːn˥ sɪŋ˥ siːu˧˥ lɵn˨˩ kʷɔː˧ tsʊŋ˥ waːn˨˩] (GUM-MAHN NGOH-DAY SEEN HOY JEEM-SAH-TSOY TY WY-DOH-LAY-AH-GONG YE-GING, YEEN-HAU DAHP TEEN-SING SEW-LUN GWOR JOONG-WAHN)",
+          "translation": "Tonight we will first go to Tsim Sha Tsui to see the Victoria Harbour night view, then take the Star Ferry across to Central."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元8-5）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "旺角同銅鑼灣係全香港最繁華熱鬧嘅購物商圈。",
+          "reading": "wong6 gok3 tung4 tung4 lo4 waan4 hai6 cyun4 hoeng1 gong2 zeoi3 faan4 waa4 jit6 naau6 ge3 gau3 mat6 soeng1 hyun1. [wɔːŋ˨ kɔːk̚˧ tʰʊŋ˨˩ tʰʊŋ˨˩ lɔː˨˩ waːn˨˩ hɐi˨ tsʰyːn˨˩ hœːŋ˥ kɔːŋ˧˥ tsɵy˧ faːn˨˩ waː˨˩ jiːt̚˨ naːu˨ kɛː˧ kɐu˧ mɐt̚˨ sœːŋ˥ hyːn˥] (WONG-GOK TOONG TOONG-LOH-WAHN HY TSUEN HEUNG-GONG JOY FAHN-WAH YEET-NAU GEH GAU-MUT SEUNG-HUEN)",
+          "translation": "Mong Kok and Causeway Bay are the most bustling and lively shopping districts in the whole of Hong Kong."
+        },
+        {
+          "target": "深水埗保留咗好多香港傳統嘅地道小食同行街排檔。",
+          "reading": "sam1 seoi2 bou2 bou2 lau4 zo2 hou2 do1 hoeng1 gong2 cyun4 tung4 ge3 dei6 dou6 siu2 sik6 tung4 haang4 gaai1 paai4 dong3. [sɐm˥ sɵy˧˥ pou˧˥ pou˧˥ lɐu˨˩ tsɔː˧˥ hou˧˥ tɐi˧˥ hœːŋ˥ kɔːŋ˧˥ tsʰyːn˨˩ tʰʊŋ˨˩ kɛː˧ tei˨ tou˨ siːu˧˥ sɪk̚˨ tʰʊŋ˨˩ haːŋ˨˩ kaːi˥ pʰaːi˨˩ tɔːŋ˧] (SUM-SOEY-BO BO-LAU-JOR HOH-DOH HEUNG-GONG TSUEN-TOONG GEH DAY-DOH SEW-SIK TOONG HAHNG-GY PY-DONG)",
+          "translation": "Sham Shui Po preserves a great deal of Hong Kong's traditional local snacks and street stalls."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【港九新界歌】中環金融高樓矗，尖沙咀畔望維港；旺角市集人如潮，銅鑼灣內買興旺！"
+      ],
+      "culturalNotes": [
+        "香港市民習慣將過維多利亞港統稱為「過海」（gwo3 hoi2），例如「我今日要過海見客」（我今天要去港島/九龍見客戶），成為獨具港味之空間心理標記。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"現金\":",
+          "prompt": "【地標識別】位於九龍半島南端、坐擁維多利亞港壯麗海景與星光大道之著名街區係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第8課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：屋企錯置）",
-            "混雜生硬詞彙之不規範語句（例項：客廳未適配）",
-            "聲調助詞搭配欠妥之表達（例項：廚房誤用）"
+            "尖沙咀 (zim1 saa1 zeoi2)",
+            "中環 (zung1 waan4)",
+            "屯門 (tyun4 mun4)",
+            "沙田 (saa1 tin4)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "尖沙咀（zim1 saa1 zeoi2）位於九龍半島南端。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"現金\":",
+          "prompt": "【空間語彙】在香港日常口語中，「過海」（gwo3 hoi2）所指之具體地理行為係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第8課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：客廳未適配）",
-            "聲調助詞搭配欠妥之表達（例項：廚房誤用）",
-            "語序顛倒嘅非標準句式（例項：屋企錯置）"
+            "橫渡或穿過維多利亞港（往返港島與九龍）",
+            "出國去外國旅遊",
+            "游泳去大嶼山",
+            "坐輪船去澳門"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「過海」專指跨越維多利亞港往返港島與九龍。"
         }
       ]
     },
@@ -3701,15 +3746,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"現金\": Which sentence is completely correct?",
+          "prompt": "【區域歸屬】以下邊個著名繁華街區位於香港島（而非九龍）？",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第8課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：廚房誤用）",
-            "語序顛倒嘅非標準句式（例項：屋企錯置）",
-            "混雜生硬詞彙之不規範語句（例項：客廳未適配）"
+            "銅鑼灣 (tung4 lo4 waan4)",
+            "旺角 (wong6 gok3)",
+            "尖沙咀 (zim1 saa1 zeoi2)",
+            "深水埗 (sam1 seoi2 bou2)"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "銅鑼灣（Causeway Bay）位於香港島北岸。"
         }
       ],
       "passThreshold": 0.8
