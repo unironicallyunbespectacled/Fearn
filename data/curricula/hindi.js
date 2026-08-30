@@ -1305,53 +1305,62 @@
     "subject": "hindi",
     "unit": 3,
     "lessonNumber": 1,
-    "title": "सर्वनाम और संबंधबोधक परसर्ग (Pronouns & Postpositions) (Part 1)",
+    "title": "मूल स्थानिक परसर्ग: में (In/Inside), पर (On/At) और तक (Until/Up to)",
     "level": "A1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 3.1) with authentic linguistic precision.",
+    "objective": "हिंदी के बुनियादी स्थानिक परसर्गों (में, पर, तक) की संकल्पना, अंग्रेजी Prepositions की तुलना में Postpositions की स्थिति तथा संज्ञाओं के साथ इनके समन्वय को सीखना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "हिंदी में संबंधबोधक अव्यय संज्ञा अथवा सर्वनाम के बाद आते हैं, इसलिए इन्हें अंग्रेजी की तरह Preposition न कहकर 'परसर्ग' (Postposition) अथवा 'कारक चिह्न' कहा जाता है:\n\n1. मुख्य स्थानिक परसर्ग (Locative Postpositions):\n   - *«में»* (In / Inside / Into) — स्थान, सीमा अथवा आंतरिक स्थिति दर्शाने हेतु:\n     - उदाहरण: कमरे में (In the room), घर में (In the house), शहर में (In the city), डिब्बे में (Inside the box)।\n   - *«पर»* (On / Upon / At) — सतह, ऊपरी भाग अथवा निश्चित स्थान/समय दर्शाने हेतु:\n     - उदाहरण: मेज़ पर (On the table), छत पर (On the roof), दरवाजे पर (At the door), समय पर (On time)।\n   - *«तक»* (Until / Up to / As far as) — सीमा, गंतव्य अथवा समयावधि की अंतिम सीमा दर्शाने हेतु:\n     - उदाहरण: शाम तक (Until evening), स्टेशन तक (Up to the station), अंत तक (Until the end)।\n\n2. पदक्रम और उच्चारण नियम:\n   - परसर्ग हमेशा अपनी संज्ञा के ठीक बाद अलग शब्द के रूप में लिखे जाते हैं (जैसे: 'घर में', न कि 'घरमें')।\n   - 'में' का उच्चारण अनुनासिक स्वर [mẽː] होता है।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 3.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 3."
+          "target": "मेरी सभी किताबें मेज़ पर हैं और कलम बस्ते में है।",
+          "reading": "meri sabhi kitabein mez par hain aur kalam baste mein hai. [meːriː səbʱiː kɪt̪aːbẽː meːz pər hɛ̃ː ɔːr kələm bəstteː mẽː hɛː] (MAY-ree SUH-bhee kee-TAH-bayn mayz puhr hyn owr KUH-luhm BUHS-tay mayn hy)",
+          "translation": "All my books are on the table and the pen is in the bag."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 3-1)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "अध्यापक जी अभी अपने कार्यालय के कमरे में उपस्थित हैं।",
+          "reading": "adhyaapak jee abhi apne kaaryalay ke kamre mein upasthit hain. [əd̪ʱjaːpək dʒiː əbʱiː əpneː kaːrjaːləj keː kəmreː mẽː ʊpəst̪ʰɪt̪ hɛ̃ː] (uh-DHYAH-puhk jee UH-bhee uhp-NAY kahr-YAH-luy kay kuhm-RAY mayn oop-UHS-theet hyn)",
+          "translation": "The respected teacher is currently present in his office room."
+        },
+        {
+          "target": "हम आज शाम पाँच बजे तक पुस्तकालय में अध्ययन करेंगे।",
+          "reading": "hum aaj shaam paanch baje tak pustakaalay mein adhyayan karenge. [həm aːdʒ ʃaːm paː̃tʃ bədʒeː t̪ək pʊst̪əkaːləj mẽː əd̪ʱjəjən kərẽːɡeː] (hum ahj shahm PAHNCH buh-JAY tuhk poos-tuh-KAH-luy mayn uh-DHYUH-yuhn kuh-RAYN-gay)",
+          "translation": "We will study in the library until five o'clock this evening."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "अंदर = 'में' (कमरे में); ऊपर/सतह = 'पर' (मेज़ पर); सीमा = 'तक' (शाम तक); हमेशा संज्ञा के बाद आते हैं!"
+      ],
+      "culturalNotes": [
+        "हिंदी में परसर्गों का स्थान निश्चित होता है। संज्ञा के बाद लगने के कारण ही हिंदी को 'परसर्गीय भाषा' (Postpositional Language) कहा जाता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"पानी\":",
+          "prompt": "किसी सतह के ऊपर स्थित होने का भाव (जैसे: On the table) व्यक्त करने के लिए कौन-सा परसर्ग प्रयुक्त होता है?",
           "options": [
-            "हम इस पाठ में इकाई 3.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («दूध» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («चाय» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («रोटी» का अनुचित स्थान)"
+            "पर (Par - On / Upon)",
+            "में",
+            "से",
+            "को"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "सतह या ऊपर की स्थिति दर्शाने के लिए «पर» (On) का प्रयोग किया जाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"पानी\":",
+          "prompt": "वाक्य «मेरी कलम बस्ते ___ है» में सही परसर्ग भरिए:",
           "options": [
-            "हम इस पाठ में इकाई 3.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («चाय» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («रोटी» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («दूध» का अशुद्ध रूप)"
+            "में (Mein - In / Inside the bag)",
+            "पर",
+            "तक",
+            "से"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "बस्ते के भीतर होने का भाव व्यक्त करने हेतु «में» (In) सही परसर्ग है।"
         }
       ]
     },
@@ -1359,17 +1368,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"पानी\": Which sentence is completely correct?",
+          "prompt": "स्थानिक परसर्गों के शुद्ध प्रयोग वाला वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 3.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («रोटी» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («दूध» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («चाय» से संबंधित)"
+            "सभी छात्र कक्षा में बैठे हैं और पुस्तकें मेज़ पर रखी हैं। (All students are sitting in the class and books are kept on the table.)",
+            "सभी छात्र कक्षा पर बैठे हैं और पुस्तकें मेज़ में रखी हैं।",
+            "सभी छात्र कक्षा तक बैठा है।",
+            "पुस्तकें मेज़ से सोती हैं।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«कक्षा में» (In the class) और «मेज़ पर» (On the table) परसर्गों का सर्वथा उपयुक्त और प्रामाणिक प्रयोग है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u3-l2": {
@@ -1377,53 +1387,62 @@
     "subject": "hindi",
     "unit": 3,
     "lessonNumber": 2,
-    "title": "सर्वनाम और संबंधबोधक परसर्ग (Pronouns & Postpositions) (Part 2)",
+    "title": "स्रोत, साधन और साहचर्य परसर्ग: से (From / By / With / Since)",
     "level": "A1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 3.2) with authentic linguistic precision.",
+    "objective": "परसर्ग 'से' के विविध प्रकार्यात्मक रूपों: स्रोत/अलगाव (Ablative - From), साधन/माध्यम (Instrumental - By/With), साहचर्य/संवाद (With) तथा तुलना (Comparative) में महारत प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "हिंदी में 'से' (Se) एक बहु-प्रकार्यात्मक और अत्यंत महत्वपूर्ण परसर्ग है, जिसके प्रमुख व्याकरणिक अर्थ निम्नलिखित हैं:\n\n1. स्रोत अथवा अलगाव (Source / Origin / Separation — From):\n   - किसी स्थान या वस्तु से अलग होने या आरंभ होने का भाव:\n   - उदाहरण: मैं भारत से हूँ (I am from India);\n   - उदाहरण: वह घर से निकलता है (He leaves from home);\n   - उदाहरण: पेड़ से पत्ता गिरता है (A leaf falls from the tree)।\n\n2. साधन अथवा माध्यम (Instrument / Means — By / With):\n   - किसी कार्य को करने का साधन या औजार:\n   - उदाहरण: कलम से लिखना (To write with a pen);\n   - उदाहरण: बस से यात्रा करना (To travel by bus);\n   - उदाहरण: चम्मच से खाना (To eat with a spoon)।\n\n3. साहचर्य अथवा संवाद (Association / Communication — With):\n   - किसी व्यक्ति से बात करने, मिलने या पूछने का भाव:\n   - उदाहरण: मित्र से बात करना (To speak with a friend);\n   - उदाहरण: अध्यापक से प्रश्न पूछना (To ask a question to/from the teacher)।\n\n4. तुलना और समयारंभ (Comparison & Point in Time):\n   - तुलना: राम, श्याम से बड़ा है (Ram is elder than Shyam);\n   - समयारंभ: सुबह से शाम तक (From morning until evening)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 3.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 3."
+          "target": "रोहन रोज़ सुबह बस से दफ़्तर जाता है और शाम को घर आता है।",
+          "reading": "rohan roz subah bas se daftar jaata hai aur shaam ko ghar aata hai. [roːɦən roːz sʊbəh bəs seː d̪əft̪ər dʒaːt̪aː hɛː ɔːr ʃaːm koː ɡʱər aːt̪aː hɛː] (ROH-huhn rohz SOO-buh buhs say DUHF-tuhr JAH-tah hy owr shahm koh ghuhr AH-tah hy)",
+          "translation": "Rohan goes to the office by bus every morning and comes home in the evening."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 3-2)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "कृपया इस आवेदन पत्र को नीली कलम से साफ़-साफ़ लिखिए।",
+          "reading": "kripaya is aavedan patr ko neeli kalam se saaf-saaf likhiye. [krɪpəjaː ɪs aːʋeːd̪ən pət̪r koː niːliː kələm seː saːf saːf lɪkʰɪjeː] (krih-puh-YAH ees ah-VAY-duhn puht-ruh koh NEE-lee KUH-luhm say SAHF-sahf LEEKH-ee-yay)",
+          "translation": "Please write this application form clearly with a blue pen."
+        },
+        {
+          "target": "मैं कल शाम अपने पुराने मित्र से मिलकर बहुत प्रसन्न हुआ।",
+          "reading": "main kal shaam apne puraane mitra se milkar bahut prasann hua. [mɛ̃ː kəl ʃaːm əpneː pʊraːneː mɪt̪rə seː mɪlkər bəɦʊt̪ prəsənːə hʊaː] (myn kuhl shahm uhp-NAY poo-RAH-nay MEET-ruh say MEEL-kuhr buh-hoot pruh-SUHN-nuh HOO-ah)",
+          "translation": "I was very pleased to meet my old friend yesterday evening."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "'से' के रूप: कहाँ से = स्रोत (घर से); किससे = साधन (कलम से); किससे मिला = साहचर्य (मित्र से)!"
+      ],
+      "culturalNotes": [
+        "हिंदी में किसी व्यक्ति से संवाद करते समय 'से' का प्रयोग होता है (जैसे: 'उनसे कहिए', 'मुझसे पूछिए'), जो शिष्ट भाषा की पहचान है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"दूध\":",
+          "prompt": "साधन या माध्यम (जैसे: 'बस द्वारा जाना' या 'कलम द्वारा लिखना') दर्शाने के लिए किस परसर्ग का प्रयोग होता है?",
           "options": [
-            "हम इस पाठ में इकाई 3.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («चाय» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («रोटी» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («चावल» का अनुचित स्थान)"
+            "से (Se - By / With as instrumental marker)",
+            "में",
+            "पर",
+            "को"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "साधन या माध्यम व्यक्त करने के लिए «से» (Instrumental) का प्रयोग किया जाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"दूध\":",
+          "prompt": "वाक्य «मैं भारत ___ हूँ» में अपने मूल देश को बताने के लिए कौन-सा परसर्ग लगेगा?",
           "options": [
-            "हम इस पाठ में इकाई 3.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («रोटी» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («चावल» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («चाय» का अशुद्ध रूप)"
+            "से (Se - From India)",
+            "में",
+            "पर",
+            "तक"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "स्रोत या मूल स्थान बताने के लिए «से» (From) का प्रयोग होता है।"
         }
       ]
     },
@@ -1431,17 +1450,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"दूध\": Which sentence is completely correct?",
+          "prompt": "परसर्ग 'से' के सटीक और व्याकरणसम्मत प्रयोग वाला वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 3.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («चावल» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («चाय» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («रोटी» से संबंधित)"
+            "अमित रोज़ रेलगाड़ी से यात्रा करता है और अपने गुरुजी से सीखता है। (Amit travels by train every day and learns from his teacher.)",
+            "अमित रोज़ रेलगाड़ी में लिखता है और गुरुजी पर खाता है।",
+            "अमित रेलगाड़ी को जाता है।",
+            "अमित गुरुजी तक सोता है।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«रेलगाड़ी से यात्रा करना» (साधन) और «गुरुजी से सीखना» (स्रोत) दोनों में 'से' का सटीक प्रयोग है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u3-l3": {
@@ -1449,53 +1469,62 @@
     "subject": "hindi",
     "unit": 3,
     "lessonNumber": 3,
-    "title": "सर्वनाम और संबंधबोधक परसर्ग (Pronouns & Postpositions) (Part 3)",
+    "title": "लक्ष्य, कर्म और संप्रदान परसर्ग: को (To/Object marker) एवं के लिए (For)",
     "level": "A1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 3.3) with authentic linguistic precision.",
+    "objective": "सकर्मक क्रियाओं में निश्चित सजीव कर्म के लिए 'को', संप्रदान कारक (Dative) तथा उद्देश्य/प्रयोजन हेतु 'के लिए' (For) के सही प्रयोग को समझना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "हिंदी में कर्म और संप्रदान (प्रयोजन) को व्यक्त करने वाले दो अत्यंत मौलिक परसर्ग 'को' और 'के लिए' हैं:\n\n1. परसर्ग 'को' (Ko) के प्रमुख प्रयोग:\n   - *निश्चित सजीव कर्म (Definite Animate Direct Object)*: जब क्रिया का कर्म कोई विशिष्ट सजीव प्राणी (व्यक्ति) हो, तो उसके साथ 'को' अनिवार्य रूप से लगता है:\n     - उदाहरण: बच्चे को बुलाओ (Call the child);\n     - उदाहरण: डॉक्टर को दिखाओ (Show to the doctor);\n     - *अपवाद*: सामान्य निर्जीव कर्म के साथ 'को' नहीं लगता (जैसे: 'किताब पढ़ो', न कि 'किताब को पढ़ो')।\n   - *अप्रत्यक्ष कर्म / संप्रदान (Indirect Object / Dative)*: किसी को कुछ देने का भाव:\n     - उदाहरण: भिखारी को भोजन दो (Give food to the beggar);\n     - उदाहरण: राहुल को पत्र भेजो (Send a letter to Rahul)।\n   - *निश्चित समय अथवा दिन*: रात को (At night), सोमवार को (On Monday)।\n\n2. परसर्ग 'के लिए' (Ke liye — For / For the sake of):\n   - किसी व्यक्ति के हित, लाभ अथवा किसी कार्य के उद्देश्य/प्रयोजन को दर्शाने हेतु:\n   - उदाहरण: आपके लिए चाय (Tea for you);\n   - उदाहरण: बच्चों के लिए खिलौने (Toys for children);\n   - उदाहरण: परीक्षा की तैयारी के लिए (For exam preparation)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 3.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 3."
+          "target": "डॉक्टर साहब ने मरीज़ को समय पर दवा लेने की सलाह दी।",
+          "reading": "doctor sahab ne mareez ko samay par dava lene ki salaah dee. [ɖɔːkʈər saːɦəb neː məriːz koː səməj pər d̪əʋaː leːneː kiː səlaːh d̪iː] (DAHK-tuhr SAH-huhb nay muh-REEZ koh suh-MUHY puhr duh-VAH LAY-nay kee suh-LAH dee)",
+          "translation": "The doctor advised the patient to take medicine on time."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 3-3)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "यह सुंदर उपहार आपके और आपके पूरे परिवार के लिए है।",
+          "reading": "yah sundar upahaar aapke aur aapke poore parivaar ke liye hai. [jəh sʊn̪d̪ər ʊpəɦaːr aːpkeː ɔːr aːpkeː puːreː pərɪʋaːr keː lɪjeː hɛː] (yuh SOON-duhr oop-HAHR AHP-kay owr AHP-kay POO-ray puh-ree-VAHR kay lee-ay hy)",
+          "translation": "This beautiful gift is for you and your whole family."
+        },
+        {
+          "target": "हम हर सोमवार को सुबह मंदिर और शाम को बाज़ार जाते हैं।",
+          "reading": "hum har somvaar ko subah mandir aur shaam ko bazaar jaate hain. [həm hər soːmʋaːr koː sʊbəh mən̪d̪ɪr ɔːr ʃaːm koː bəzaːr dʒaːt̪eː hɛ̃ː] (hum huhr sohm-VAHR koh SOO-buh MUHN-deer owr shahm koh buh-ZAHR JAH-tay hyn)",
+          "translation": "We go to the temple in the morning and to the market in the evening every Monday."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "सजीव व्यक्ति को बुलाना = 'को' (मरीज़ को); किसी के वास्ते = 'के लिए' (आपके लिए); निश्चित समय = 'रात को'!"
+      ],
+      "culturalNotes": [
+        "हिंदी में बड़ों या सम्मानित व्यक्तियों के लिए कुछ लाते समय हमेशा 'आपके लिए' कहना अत्यंत आदरयुक्त और विनम्र माना जाता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"चाय\":",
+          "prompt": "किसी व्यक्ति के हित या उद्देश्य (जैसे: For you) को दर्शाने के लिए किस संयुक्त परसर्ग का प्रयोग होता है?",
           "options": [
-            "हम इस पाठ में इकाई 3.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («रोटी» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («चावल» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («दाल» का अनुचित स्थान)"
+            "के लिए (Ke liye - For / For the sake of)",
+            "के पास",
+            "के ऊपर",
+            "के साथ"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "उद्देश्य या हित दर्शाने के लिए «के लिए» (For) का प्रयोग किया जाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"चाय\":",
+          "prompt": "सजीव विशिष्ट कर्म वाले वाक्य «अध्यापक ने छात्र ___ बुलाया» में उपयुक्त परसर्ग क्या होगा?",
           "options": [
-            "हम इस पाठ में इकाई 3.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («चावल» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («दाल» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («रोटी» का अशुद्ध रूप)"
+            "को (Ko - Direct object marker for animate nouns)",
+            "में",
+            "पर",
+            "तक"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "विशिष्ट सजीव कर्म के साथ «को» परसर्ग आता है (छात्र को बुलाया)।"
         }
       ]
     },
@@ -1503,17 +1532,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"चाय\": Which sentence is completely correct?",
+          "prompt": "परसर्ग 'को' और 'के लिए' के सटीक प्रयोग वाला शुद्ध वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 3.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («दाल» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («रोटी» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («चावल» से संबंधित)"
+            "मैंने अपने मित्र को जन्मदिन पर बधाई दी और उसके लिए उपहार खरीदा। (I congratulated my friend on his birthday and bought a gift for him.)",
+            "मैंने मित्र में बधाई दी और उसके पर उपहार खरीदा।",
+            "मैंने मित्र तक उपहार दिया।",
+            "उपहार मित्र से खाता है।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«मित्र को बधाई दी» और «उसके लिए उपहार खरीदा» दोनों व्याकरण और अर्थ की दृष्टि से पूर्णतः शुद्ध हैं।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u3-l4": {
@@ -1521,53 +1551,62 @@
     "subject": "hindi",
     "unit": 3,
     "lessonNumber": 4,
-    "title": "सर्वनाम और संबंधबोधक परसर्ग (Pronouns & Postpositions) (Part 4)",
+    "title": "तिर्यक् रूप (Oblique Case) के नियम: संज्ञा और विशेषण का रूपांतरण",
     "level": "A1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 3.4) with authentic linguistic precision.",
+    "objective": "परसर्ग लगने पर संज्ञाओं और विशेषणों के तिर्यक् रूप (Oblique Case) में बदलने के अनिवार्य व्याकरणिक नियमों को समझना और उनका सही प्रयोग करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "हिंदी व्याकरण का सबसे केंद्रीय और आधारभूत नियम 'तिर्यक् रूप' (Oblique Case) है। जब किसी संज्ञा या विशेषण के बाद कोई भी परसर्ग (में, पर, से, को, का, के लिए, तक) आता है, तो वह शब्द अपने 'प्रत्यक्ष रूप' (Direct Case) से बदलकर 'तिर्यक् रूप' (Oblique Case) में आ जाता है:\n\n1. आकारांत पुल्लिंग संज्ञाओं का तिर्यक् रूप:\n   - एकवचन: '-आ' बदलकर '-ए' हो जाता है:\n     - कमरा + में → *कमरे में* (In the room)\n     - लड़का + को → *लड़के को* (To the boy)\n     - दरवाजा + पर → *दरवाजे पर* (At the door)\n     - रास्ता + से → *रास्ते से* (By the path)।\n   - बहुवचन: '-ओं' जुड़ता है:\n     - कमरे + में → *कमरों में* (In the rooms)\n     - लड़के + को → *लड़कों को* (To the boys)।\n\n2. अन्य पुल्लिंग व स्त्रीलिंग संज्ञाओं का तिर्यक् बहुवचन:\n   - एकवचन में ये नहीं बदलते (घर में, किताब में)।\n   - बहुवचन में सभी संज्ञाएं तिर्यक् रूप में '-ओं' या '-यों' लेती हैं:\n     - घर + में → *घरों में* (In the houses)\n     - किताब + में → *किताबों में* (In the books)\n     - लड़की + को → *लड़कियों को* (To the girls)।\n\n3. विशेषण का तिर्यक् अन्वय:\n   - आकारांत विशेषण तिर्यक् संज्ञा के पहले हमेशा '-ए' रूप में बदल जाता है:\n     - बड़ा कमरा → *बड़े कमरे में* (In the big room)\n     - अच्छा लड़का → *अच्छे लड़के को* (To the good boy)\n     - बड़े कमरे → *बड़े कमरों में* (In the big rooms)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 3.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 3."
+          "target": "उस बड़े कमरे में चार लोग बैठे हैं और बातें कर रहे हैं।",
+          "reading": "us bade kamre mein chaar log baithe hain aur baatein kar rahe hain. [ʊs bəɽeː kəmreː mẽː tʃaːr loːɡ bɛːʈʰeː hɛ̃ː ɔːr baːtẽː kər rəɦeː hɛ̃ː] (oos buh-DAY kuhm-RAY mayn chahr lohg BY-thay hyn owr BAH-tayn kuhr ruh-HAY hyn)",
+          "translation": "Four people are sitting and talking in that big room."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 3-4)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "अध्यापक जी ने सभी नए छात्रों को उपयोगी पुस्तकें दीं।",
+          "reading": "adhyaapak jee ne sabhi naye chhaatron ko upyogi pustakein deen. [əd̪ʱjaːpək dʒiː neː səbʱiː nəjeː tʃʰaːt̪rõː koː ʊpjɔːɡiː pʊst̪əkẽː d̪ĩː] (uh-DHYAH-puhk jee nay SUH-bhee nuh-YAY CHHAH-trohn koh oop-YOH-gee poos-tuh-KAYN deen)",
+          "translation": "The respected teacher gave useful books to all new students."
+        },
+        {
+          "target": "इन पुरानी किताबों में भारतीय इतिहास की सुंदर कहानियां हैं।",
+          "reading": "in puraani kitaabon mein bharatiya itihaas ki sundar kahaniyaan hain. [ɪn pʊraːniː kɪt̪aːbõː mẽː bʱaːrət̪iːjə ɪt̪ɪɦaːs kiː sʊn̪d̪ər kəɦaːnɪjaː̃ hɛ̃ː] (een poo-RAH-nee kee-TAH-bohn mayn BHAH-ruh-teey ee-tee-HAHS kee SOON-duhr kuh-HAH-nee-yahn hyn)",
+          "translation": "There are beautiful stories of Indian history in these old books."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "परसर्ग आया = तिर्यक् रूप छाया! लड़का + को = लड़के को; बड़ा कमरा + में = बड़े कमरे में; बहुवचन तिर्यक् = -ओं/-यों (लड़कों को, किताबों में)!"
+      ],
+      "culturalNotes": [
+        "तिर्यक् रूप (Oblique Case) का सही प्रयोग हिंदी व्याकरण का सबसे प्रामाणिक मापदंड है। 'कमरा में' या 'बड़ा कमरे में' बोलना अशुद्ध माना जाता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"रोटी\":",
+          "prompt": "आकारांत पुल्लिंग शब्द 'कमरा' के बाद परसर्ग 'में' आने पर उसका शुद्ध तिर्यक् एकवचन रूप क्या बनेगा?",
           "options": [
-            "हम इस पाठ में इकाई 3.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («चावल» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («दाल» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («सब्ज़ी» का अनुचित स्थान)"
+            "कमरे में (Kamre mein - In the room [oblique singular])",
+            "कमरा में",
+            "कमरी में",
+            "कमरों में"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "परसर्ग 'में' लगने पर आकारांत संज्ञा 'कमरा' तिर्यक् रूप में बदलकर «कमरे में» हो जाती है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"रोटी\":",
+          "prompt": "स्त्रीलिंग संज्ञा 'किताब' का परसर्ग 'में' के साथ तिर्यक् बहुवचन (Oblique Plural) रूप क्या होगा?",
           "options": [
-            "हम इस पाठ में इकाई 3.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («दाल» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («सब्ज़ी» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («चावल» का अशुद्ध रूप)"
+            "किताबों में (Kitaabon mein - In the books [oblique plural])",
+            "किताबें में",
+            "किताब में",
+            "किताबियों में"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "परसर्ग के साथ बहुवचन में '-ओं' जुड़ता है, अतः शुद्ध रूप «किताबों में» है।"
         }
       ]
     },
@@ -1575,17 +1614,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"रोटी\": Which sentence is completely correct?",
+          "prompt": "तिर्यक् रूप और विशेषण अन्वय की दृष्टि से पूर्णतः शुद्ध वाक्य का चयन कीजिए:",
           "options": [
-            "हम इस पाठ में इकाई 3.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («सब्ज़ी» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («चावल» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («दाल» से संबंधित)"
+            "उस बड़े कमरे में दो नए पंखे चल रहे हैं। (In that big room two new fans are running.)",
+            "उस बड़ा कमरा में दो नया पंखे चल रहे हैं।",
+            "उस बड़े कमरा में दो नए पंखा चलता है।",
+            "कमरा में पंखे सोता है।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«उस बड़े कमरे में» में सर्वनाम, विशेषण और संज्ञा तीनों का तिर्यक् रूप पूर्णतः शुद्ध है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u3-l5": {
@@ -1593,53 +1633,62 @@
     "subject": "hindi",
     "unit": 3,
     "lessonNumber": 5,
-    "title": "सर्वनाम और संबंधबोधक परसर्ग (Pronouns & Postpositions) (Part 5)",
+    "title": "सर्वनामों का तिर्यक् रूप और संयुक्त सर्वनाम (मुझे, उसे, इन्हें, किन्हें)",
     "level": "A1",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 3.5) with authentic linguistic precision.",
+    "objective": "परसर्गों के साथ सर्वनामों के तिर्यक् रूपांतरण (मुझ, तुझ, इस, उस, इन, उन, किस, किन) तथा 'को' के साथ संयुक्त रूपों (मुझे, तुझे, इसे, उसे, इन्हें, उन्हें, किसे) में महारत प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "जब सर्वनामों के बाद कोई परसर्ग (में, पर, से, को, का) लगता है, तो सर्वनाम अपने विशेष तिर्यक् रूपों में बदल जाते हैं:\n\n1. मूल सर्वनामों का तिर्यक् रूप:\n   - मैं → *मुझ* (मुझ में, मुझ पर, मुझ से, मुझ तक)\n   - तू → *तुझ* (तुझ में, तुझ पर, तुझ से)\n   - तुम → *तुम* (तुम में, तुम पर, तुम से) [अपरिवर्तित]\n   - आप → *आप* (आप में, आप पर, आप से) [अपरिवर्तित]\n   - यह → *इस* (इस में, इस पर, इस से, इस के लिए)\n   - वह → *उस* (उस में, उस पर, उस से, उस के लिए)\n   - ये → *इन* (इन में, इन पर, इन से, इन के लिए)\n   - वे → *उन* (उन में, उन पर, उन से, उन के लिए)\n   - कौन → *किस* (एकवचन) / *किन* (बहुवचन)।\n\n2. 'को' परसर्ग के साथ संयुक्त संक्षिप्त रूप:\n   - मुझ + को = *मुझको* अथवा *«मुझे»* (To me / Me)\n   - तुझ + को = *तुझको* अथवा *«तुझे»* (To you)\n   - तुम + को = *तुमको* अथवा *«तुम्हें»* (To you)\n   - आप + को = *«आपको»* (To you [आदरसूचक])\n   - इस + को = *इसको* अथवा *«इसे»* (To this/him/her)\n   - उस + को = *उसको* अथवा *«उसे»* (To that/him/her)\n   - इन + को = *इनको* अथवा *«इन्हें»* (To these/them)\n   - उन + को = *उनको* अथवा *«उन्हें»* (To those/them)\n   - किस + को = *किसको* अथवा *«किसे»* (To whom [एकवचन])\n   - किन + को = *किनको* अथवा *«किन्हें»* (To whom [बहुवचन])।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 3.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 3."
+          "target": "मुझे आज शाम को एक बहुत ज़रूरी काम पूरा करना है।",
+          "reading": "mujhe aaj shaam ko ek bahut zaroori kaam poora karna hai. [mʊdʒʱeː aːdʒ ʃaːm koː eːk bəɦʊt̪ zəruːriː kaːm puːraː kərnaː hɛː] (MOO-zhay ahj shahm koh ayk buh-hoot zuh-ROO-ree kahm POO-rah KUHR-nah hy)",
+          "translation": "I have to complete a very important work this evening."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 3-5)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "अध्यापक जी ने उसे कक्षा में सबसे आगे बैठने को कहा।",
+          "reading": "adhyaapak jee ne use kaksha mein sabse aage baithne ko kaha. [əd̪ʱjaːpək dʒiː neː ʊseː kəkʃaː mẽː səbseː aːɡeː bɛːʈʰneː koː kəɦaː] (uh-DHYAH-puhk jee nay OO-say KUHK-shah mayn SUHB-say AH-gay BYTH-nay koh kuh-HAH)",
+          "translation": "The respected teacher told him to sit at the very front in the class."
+        },
+        {
+          "target": "इन्हें यह नई पुस्तक दीजिए और उनसे उनका शुभ नाम पूछिए।",
+          "reading": "inhein yah nayi pustak deejiye aur unse unka shubh naam poochiye. [ɪnɦẽː jəh nəiː pʊst̪ək d̪iːdʒɪjeː ɔːr ʊnseː ʊnkaː ʃʊbʱ naːm puːtʃʰɪjeː] (een-HAYN yuh nuh-EE POOS-tuhk DEE-jee-yay owr OON-say OON-kah shoobh NAHM POO-chhee-yay)",
+          "translation": "Give this new book to them and ask them their auspicious name."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "मैं + को = मुझे; वह + को = उसे; यह + को = इसे; वे + को = उन्हें; ये + को = इन्हें; कौन + को = किसे!"
+      ],
+      "culturalNotes": [
+        "आदरणीय व्यक्तियों के लिए 'उसे' या 'इसे' के स्थान पर हमेशा आदरसूचक बहुवचन 'उन्हें' या 'इन्हें' (जैसे: 'उन्हें अंदर बुलाइए') का प्रयोग करना चाहिए।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"चावल\":",
+          "prompt": "सर्वनाम 'वह' के साथ परसर्ग 'को' जुड़ने पर कौन-सा संक्षिप्त संयुक्त रूप बनता है?",
           "options": [
-            "हम इस पाठ में इकाई 3.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («दाल» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («सब्ज़ी» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («फल» का अनुचित स्थान)"
+            "उसे / उसको (Use / Usko - To him / To her / To that)",
+            "इसे",
+            "मुझे",
+            "तुम्हें"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "वह + को मिलकर «उसे» या «उसको» रूप बनता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"चावल\":",
+          "prompt": "आदरणीय या बहुवचन व्यक्तियों के लिए 'वे' + 'को' का संयुक्त रूप क्या होगा?",
           "options": [
-            "हम इस पाठ में इकाई 3.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («सब्ज़ी» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («फल» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («दाल» का अशुद्ध रूप)"
+            "उन्हें / उनको (Unhein / Unko - To them / Honorific to him/her)",
+            "इन्हें",
+            "उसे",
+            "किसे"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "वे + को का संयुक्त रूप «उन्हें» अथवा «उनको» होता है।"
         }
       ]
     },
@@ -1647,17 +1696,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"चावल\": Which sentence is completely correct?",
+          "prompt": "तिर्यक् सर्वनाम के सही प्रयोग वाला मानक वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 3.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («फल» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («दाल» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («सब्ज़ी» से संबंधित)"
+            "मुझे यह बात अच्छी लगी और मैंने उन्हें धन्यवाद दिया। (I liked this thing and I thanked them.)",
+            "मैं को यह बात अच्छा लगा और मैंने वह को धन्यवाद दिया।",
+            "मुझ यह बात अच्छी लगी और उन धन्यवाद दिया।",
+            "मुझे वह में धन्यवाद है।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«मुझे» (मैं+को) और «उन्हें» (वे+को) दोनों मानक संयुक्त सर्वनाम रूप हैं।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u4-l1": {
