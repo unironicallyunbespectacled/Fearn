@@ -2945,53 +2945,62 @@
     "subject": "cantonese",
     "unit": 7,
     "lessonNumber": 1,
-    "title": "動態助詞「咗」「緊」「過」 (Aspect Particles ZO, GAN, GWO) (第1課)",
+    "title": "完成貌助詞「咗」（zo2）及其與普通話「了」之深層異同 (Perfective Aspect ZO)",
     "level": "A2",
-    "objective": "Master Cantonese linguistics for 粵語單元7第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語核心完成貌助詞「咗」（zo2）之緊隨動詞語法規則及其與「未/仲未」否定對立。",
     "presentation": {
-      "explanation": "",
+      "explanation": "粵語中表達動作已經完成之核心動態助詞為「咗」（zo2，第2聲陰上調）：\n\n一、「咗」之語法位置與特徵：\n１．「咗」必須緊貼動詞之後（「動詞＋咗＋賓語」）。例如「我食咗早餐」（我吃了早餐）、「佢買咗新衫」（他買了新衣服）。\n２．粵語中「咗」不作句末語氣詞。普通話句末表變化的「了」（如「下雨了」），粵語對應為句尾語氣詞「喇 / 啦」（laa3），如「落雨喇」，兩者分工極為涇渭分明。\n\n二、「咗」之否定體系：\n否定已完成動作時，必須去掉「咗」，改用「未」（mei6，還未）或「仲未」（zung6 mei6，還沒有）：\n１．肯定：「我做咗功課喇。」（我做了功課了。）\n２．否定：「我仲未做功課。」（我還沒有做功課。——嚴禁說「我冇做咗功課」）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第7課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 7 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 7 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 7 in communication."
+          "target": "我已經寄咗份重要文件畀香港辦事處喇。",
+          "reading": "ngo5 ji5 ging1 gei3 zo2 fan6 zung6 jiu3 man4 gin2 bei2 hoeng1 gong2 baan6 si6 cyu3 laa3. [ŋɔː˩˧ jiː˩˧ kɪŋ˥ kei˧ tsɔː˧˥ fɐn˨ tsʊŋ˨ jiu˧ mɐn˨˩ kiːn˧˥ pei˧˥ hœːŋ˥ kɔːŋ˧˥ paːn˨ siː˨ tsʰyː˧ laː˧] (NGOH YEE-GING GAY-JOR FUN JOONG-YEW MUN-GEEN BAY HEUNG-GONG BAHN-SEE-CHUE LAH)",
+          "translation": "I have already sent that important document to the Hong Kong office."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元7-1）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "佢哋啱啱搭咗地鐵去尖沙咀參加展覽會。",
+          "reading": "keoi5 dei6 aam1 aam1 daap3 zo2 dei6 tit3 heoi3 zim1 saa1 zeoi2 caam1 gaa1 zin2 laam5 wui6. [kʰɵy˩˧ tei˨ aːm˥ aːm˥ taːp̚˧ tsɔː˧˥ tei˨ tʰiːt̚˧ hɵy˧ tsɪm˥ saː˥ tsɵy˧˥ tsʰaːm˥ kaː˥ tsiːn˧˥ laːm˩˧ wuːi˨] (KUY-DAY AHM-AHM DAHP-JOR DAY-TEET HOY JEEM-SAH-TSOY TSAHM-GAH JEEN-LAHM-WOOEY)",
+          "translation": "They just took the MTR to Tsim Sha Tsui to attend the exhibition."
+        },
+        {
+          "target": "你食咗晏晝飯未呀？我仲未食，不如一齊去飲茶啦。",
+          "reading": "nei5 sik6 zo2 aan3 zau3 faan6 mei6 aa3? ngo5 zung6 mei6 sik6, bat1 jyu4 jat1 cai4 heoi3 jam2 caa4 laa1. [nei˩˧ sɪk̚˨ tsɔː˧˥ aːn˧ tsɐu˧ faːn˨ mei˨ aː˧? ŋɔː˩˧ tsʊŋ˨ mei˨ sɪk̚˨, pɐt̚˥ jyː˨˩ jɐt̚˥ tsʰɐi˨˩ hɵy˧ jɐm˧˥ tsʰaː˨˩ laː˥] (NEI SIK-JOR AHN-JAU-FAHN MAY AH? NGOH JOONG-MAY SIK, BUT-YOO YUT-CHY HOY YUM-CHAH LAH)",
+          "translation": "Have you eaten lunch yet? I haven't eaten yet; why don't we go for yum cha together."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【完成貌口訣】動作完畢緊跟「咗」，緊貼動詞不蹉跎；否定切記換「仲未」，句尾變化用「喇」收！"
+      ],
+      "culturalNotes": [
+        "廣東人見面問候常講「食咗飯未呀？」（sik6 zo2 faan6 mei6 aa3？），回答若已吃則講「食咗喇」，若未吃則講「未呀 / 仲未食」，係嶺南飲食文化投射於人際社交之體現。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"買嘢\":",
+          "prompt": "【語法造句】欲表達「我已經買了車票」，正確之粵語句子係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第7課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：幾多錢錯置）",
-            "混雜生硬詞彙之不規範語句（例項：埋單未適配）",
-            "聲調助詞搭配欠妥之表達（例項：找錢誤用）"
+            "我已經買咗車飛喇。 (ngo5 ji5 ging1 maai5 zo2 ce1 fei1 laa3.)",
+            "我已經買車飛咗喇。",
+            "我已經買車飛了。",
+            "我買咗車飛已經冇。"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「咗」（zo2）必須緊跟在動詞「買」之後（買咗車飛）。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"買嘢\":",
+          "prompt": "【否定轉換】對問句「你簽咗份合約未？」，標準之否定回答係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第7課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：埋單未適配）",
-            "聲調助詞搭配欠妥之表達（例項：找錢誤用）",
-            "語序顛倒嘅非標準句式（例項：幾多錢錯置）"
+            "我仲未簽。 (ngo5 zung6 mei6 cim1.)",
+            "我冇簽咗。",
+            "我唔係簽咗。",
+            "我未簽咗。"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "否定完成貌使用「未 / 仲未」，同時必須去掉「咗」（仲未簽）。"
         }
       ]
     },
@@ -2999,15 +3008,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"買嘢\": Which sentence is completely correct?",
+          "prompt": "【語法辨析】關於粵語助詞「咗」（zo2）之用法，以下敘述何者完全正確？",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第7課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：找錢誤用）",
-            "語序顛倒嘅非標準句式（例項：幾多錢錯置）",
-            "混雜生硬詞彙之不規範語句（例項：埋單未適配）"
+            "必須緊隨動詞之後表示動作完成",
+            "必須放在句末表示狀態改變",
+            "可以用於否定句「冇＋動詞＋咗」",
+            "只能用於形容詞後面"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「咗」作為動態助詞，必須緊貼動詞後面。"
         }
       ],
       "passThreshold": 0.8
@@ -3018,53 +3027,62 @@
     "subject": "cantonese",
     "unit": 7,
     "lessonNumber": 2,
-    "title": "動態助詞「咗」「緊」「過」 (Aspect Particles ZO, GAN, GWO) (第2課)",
+    "title": "進行貌助詞「緊」（gan2）與持續態 (Progressive Aspect GAN)",
     "level": "A2",
-    "objective": "Master Cantonese linguistics for 粵語單元7第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語進行貌助詞「緊」（gan2）表達「正在進行某動作」之精準語法結構。",
     "presentation": {
-      "explanation": "",
+      "explanation": "粵語中表達動作正在進行中（相當於英語 '-ing' 或普通話『正在……』）之核心助詞為「緊」（gan2，第2聲陰上調）：\n\n一、「緊」之句法規則：\n１．「主語＋動詞＋緊＋賓語」：例如「我睇緊電視」（我正在看電視）、「佢哋開緊會」（他們正在開會）。\n２．可與副詞「正喺度 / 喺度」（正在）結合加強語氣：「我正喺度寫緊報告」（我正在寫著報告）。\n\n二、高頻進行時問答：\n１．「你做緊乜嘢呀？」（你正在做什麼？）\n２．「我執緊行李，準備聽日搭飛機出差。」（我正在收拾行李，準備明天坐飛機出差。）",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第7課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 7 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 7 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 7 in communication."
+          "target": "唔好意思，我揸緊車，陣間停低車再打返畀你。",
+          "reading": "m4 hou2 ji3 si3, ngo5 zaa1 gan2 ce1, zan6 gaan1 ting4 dai1 ce1 zoi3 daa2 faan1 bei2 nei5. [m̩˨˩ hou˧˥ jiː˧ siː˧, ŋɔː˩˧ tsaː˥ kɐn˧˥ tsʰɛː˥, tsɐn˨ kaːn˥ tʰɪŋ˨˩ tɐi˥ tsʰɛː˥ tsɔːi˧ taː˧˥ faːn˥ pei˧˥ nei˩˧] (M-HOH-YEE-SEE, NGOH JAH-GUN-CHEH, JUN-GAHN TING-DY-CHEH JOY DY-FAHN BAY-NEI)",
+          "translation": "Sorry, I am driving right now; I will call you back once I pull over in a moment."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元7-2）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "陳教授喺課室入面同學生講緊語言學歷史。",
+          "reading": "can4 gaau3 sau6 hai2 fo3 sat1 jap6 min6 tung4 hok6 saang1 gong2 gan2 jyu5 jin4 hok6 lik6 si2. [tsʰɐn˨˩ kaːu˧ sɐu˨ hɐi˩˧ fɔː˧ sɐt̚˥ jɐp˨ miːn˨ tʰʊŋ˨˩ hɔːk˨ saːŋ˥ kɔːŋ˧˥ kɐn˧˥ jyː˩˧ jiːn˨˩ hɔːk˨ lɪk˨ siː˧˥] (CHUN GAU-SAU HY FOH-SUT YUP-MEEN TOONG HOK-SAHNG GONG-GUN YOO-YEEN-HOK LIK-SEE)",
+          "translation": "Professor Chan is explaining the history of linguistics to students in the classroom."
+        },
+        {
+          "target": "出面落緊大雨，出門口記得帶把雨遮呀。",
+          "reading": "ceot1 min6 lok6 gan2 daai6 jyu5, ceot1 mun4 hau2 gei3 dak1 daai3 baa2 jyu5 ze1 aa3. [tsʰɵt̚˥ miːn˨ lɔːk˨ kɐn˧˥ taːi˨ jyː˩˧, tsʰɵt̚˥ muːn˨˩ hɐu˧˥ kei˧ tɐk̚˥ taːi˧ paː˧˥ jyː˩˧ tsɛː˥ aː˧] (CHUT-MEEN LOK-GUN DY-YOO, CHUT-MOON-HAU GAY-DUK DY BAH YOO-JEH AH)",
+          "translation": "It is raining heavily outside; remember to take an umbrella when heading out."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【進行貌口訣】當下動作正在行，動詞後便緊接「緊」；揸車講電話唔得，專心辦事最醒神！"
+      ],
+      "culturalNotes": [
+        "接到電話若不便通話，香港人最常用之禮貌應對即係「動詞＋緊」（如「開緊會」、「食緊飯」、「行緊路」），簡練明快直指當下狀態。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"幾多錢\":",
+          "prompt": "【進行時態】欲表達「他正在聽音樂」，最地道之粵語句子係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第7課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：埋單錯置）",
-            "混雜生硬詞彙之不規範語句（例項：找錢未適配）",
-            "聲調助詞搭配欠妥之表達（例項：減價誤用）"
+            "佢聽緊音樂。 (keoi5 teng1 gan2 jam1 ngok6.)",
+            "佢聽咗音樂。",
+            "佢聽過音樂。",
+            "佢聽住音樂喇。"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「動詞＋緊」（聽緊）表示動作正在進行中。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"幾多錢\":",
+          "prompt": "【語意理解】句子「我覆緊客戶電郵」表示之時間狀態係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第7課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：找錢未適配）",
-            "聲調助詞搭配欠妥之表達（例項：減價誤用）",
-            "語序顛倒嘅非標準句式（例項：埋單錯置）"
+            "說話當下正在回覆客戶郵件 (Progressive)",
+            "昨天已經回覆完了客戶郵件",
+            "從來沒有回覆過客戶郵件",
+            "明天打算回覆客戶郵件"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「覆緊」（覆＋緊）精確標記當下正在進行之動作。"
         }
       ]
     },
@@ -3072,15 +3090,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"幾多錢\": Which sentence is completely correct?",
+          "prompt": "【語句糾錯】在以下句子中，邊句正確運用「緊」表達「正在下雨」？",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第7課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：減價誤用）",
-            "語序顛倒嘅非標準句式（例項：埋單錯置）",
-            "混雜生硬詞彙之不規範語句（例項：找錢未適配）"
+            "出面落緊雨。 (ceot1 min6 lok6 gan2 jyu5.)",
+            "出面緊落雨。",
+            "出面落雨緊。",
+            "出面緊雨落。"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「緊」必須緊貼動詞「落」（落緊雨）。"
         }
       ],
       "passThreshold": 0.8
@@ -3091,53 +3109,62 @@
     "subject": "cantonese",
     "unit": 7,
     "lessonNumber": 3,
-    "title": "動態助詞「咗」「緊」「過」 (Aspect Particles ZO, GAN, GWO) (第3課)",
+    "title": "經歷貌助詞「過」（gwo3）與人生體驗表達 (Experiential Aspect GWO)",
     "level": "A2",
-    "objective": "Master Cantonese linguistics for 粵語單元7第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語經歷貌助詞「過」（gwo3）表達過往經驗（曾幾何時）與「從來未……過」之全套句式。",
     "presentation": {
-      "explanation": "",
+      "explanation": "粵語中表達主體過去之人生經歷與體驗時，使用經歷貌助詞「過」（gwo3，第3聲陰去調）：\n\n一、「過」之核心句式：\n１．肯定句：「主語＋動詞＋過＋（次數/賓語）」。例如「我去過兩次日本」（我去過兩次日本）、「我食過呢間餐廳嘅點心」（我吃過這家餐廳的點心）。\n２．正反疑問句：「動詞＋過……未呀？」。例如「你睇過呢套戲未呀？」（你看過這部電影了嗎？）\n\n二、「過」之否定體系：\n否定經歷貌時，句首加「未 / 仲未」或「從來未」（從未），但後綴「過」保留：\n１．「我仲未去過長洲。」（我還沒去過長洲。）\n２．「佢從來未食過榴槤。」（他從來沒吃過榴槤。）",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第7課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 7 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 7 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 7 in communication."
+          "target": "你以前有冇去過大嶼山睇天壇大佛呀？",
+          "reading": "nei5 ji5 cin4 jau5 mou5 heoi3 gwo3 daai6 jyu4 saan1 tai2 tin1 taan4 daai6 fat6 aa3? [nei˩˧ jiː˩˧ tsʰiːn˨˩ jɐu˩˧ mou˩˧ hɵy˧ kʷɔː˧ taːi˨ jyː˨˩ saːn˥ tʰɐi˧˥ tʰiːn˥ tʰaːn˨˩ taːi˨ fɐt̚˨ aː˧] (NEI YEE-CHEEN YAU-MOU HOY-GWOR DY-YOO-SAHN TY TEEN-TAHN DY-FUT AH?)",
+          "translation": "Have you ever been to Lantau Island to see the Tian Tan Big Buddha before?"
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元7-3）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "我細個嗰陣學過幾年鋼琴，但依家放低晒喇。",
+          "reading": "ngo5 sai3 go3 go2 zan6 hok6 gwo3 gei2 nin4 gong3 kam4, daan6 ji1 gaa1 fong3 dai1 saai3 laa3. [ŋɔː˩˧ sɐi˧ kɔː˧ kɔː˧˥ tsɐn˨ hɔːk˨ kʷɔː˧ kei˧˥ niːn˨˩ kɔːŋ˧ kʰɐm˨˩, taːn˨ jiː˥ kaː˥ fɔːŋ˧ tɐi˥ saːi˧ laː˧] (NGOH SY-GOH GOH-JUN HOK-GWOR GAY-NEEN GONG-KUM, DAHN YEE-GAH FONG-DY-SY LAH)",
+          "translation": "I learned the piano for a few years when I was small, but have completely put it down now."
+        },
+        {
+          "target": "呢種正宗順德雙皮奶我從來未試過，真係好香濃。",
+          "reading": "ni1 zung2 zing3 zung1 seon6 dak1 soeng1 pei4 naai5 ngo5 cung4 loi4 mei6 si3 gwo3, zan1 hai6 hou2 hoeng1 nung4. [niː˥ tsʊŋ˧˥ tsɪŋ˧ tsʊŋ˥ sɵn˨ tɐk̚˥ sœːŋ˥ pʰei˨˩ naːi˩˧ ŋɔː˩˧ tsʰʊŋ˨˩ lɔːi˨˩ mei˨ siː˧ kʷɔː˧, tsɐn˥ hɐi˨ hou˧˥ hœːŋ˥ nʊŋ˨˩] (NEE-JOONG JING-JOONG SOON-DUK SEUNG-PAY-NY NGOH CHOONG-LOY MAY SEE-GWOR, JUN-HY HOH HEUNG-NOONG)",
+          "translation": "I have never tried this authentic Shunde double skin milk before; it is really fragrant and rich."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【經歷貌口訣】人生閱歷添上「過」，動詞後置述蹉跎；「從來未試」表初度，問句常跟「……未呀」和！"
+      ],
+      "culturalNotes": [
+        "香港作為國際大都會，社交聚會常談論旅遊與生活體驗，「你去過邊度旅行？」（你去過哪裡旅行？）係破冰交談極為高頻之熱門話題。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"埋單\":",
+          "prompt": "【經歷表達】欲表達「我以前在英國住過兩年」，正確之粵語句子係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第7課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：找錢錯置）",
-            "混雜生硬詞彙之不規範語句（例項：減價未適配）",
-            "聲調助詞搭配欠妥之表達（例項：平啲誤用）"
+            "我以前喺英國住過兩年。 (ngo5 ji5 cin4 hai2 jing1 gwok3 zyu6 gwo3 loeng5 nin4.)",
+            "我以前喺英國住咗兩年喇。",
+            "我以前喺英國住緊兩年。",
+            "我以前喺英國住住兩年。"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "表達過去的人生經歷體驗使用經歷貌助詞「過」（住過兩年）。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"埋單\":",
+          "prompt": "【從未經歷】欲表達「我從來沒有喝過絲襪奶茶」，最正宗之粵語說法係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第7課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：減價未適配）",
-            "聲調助詞搭配欠妥之表達（例項：平啲誤用）",
-            "語序顛倒嘅非標準句式（例項：找錢錯置）"
+            "我從來未飲過絲襪奶茶。 (ngo5 cung4 loi4 mei6 jam2 gwo3 si1 maat6 naai5 caa4.)",
+            "我從來冇飲咗絲襪奶茶。",
+            "我從來唔飲緊絲襪奶茶。",
+            "我從來未飲咗絲襪奶茶。"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「從來未＋動詞＋過」（從來未飲過）係否定經歷之標準構式。"
         }
       ]
     },
@@ -3145,15 +3172,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"埋單\": Which sentence is completely correct?",
+          "prompt": "【時態區分】「我食咗藥」與「我食過嗰隻藥」之核心差異在於：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第7課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：平啲誤用）",
-            "語序顛倒嘅非標準句式（例項：找錢錯置）",
-            "混雜生硬詞彙之不規範語句（例項：減價未適配）"
+            "前者指剛才完成了吃藥動作，後者指過去曾有過吃那種藥的經歷",
+            "前者指正在吃藥，後者指將要吃藥",
+            "兩者意思完全相同沒有分別",
+            "前者指否定吃藥，後者指肯定吃藥"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「咗」標記具體事件之完成，「過」標記人生體驗經歷。"
         }
       ],
       "passThreshold": 0.8
@@ -3164,53 +3191,62 @@
     "subject": "cantonese",
     "unit": 7,
     "lessonNumber": 4,
-    "title": "動態助詞「咗」「緊」「過」 (Aspect Particles ZO, GAN, GWO) (第4課)",
+    "title": "持續靜態貌助詞「住」（zyu6）與伴隨動作 (Continuous State ZYU)",
     "level": "A2",
-    "objective": "Master Cantonese linguistics for 粵語單元7第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握持續貌助詞「住」（zyu6）在靜態持續、伴隨動作及祈使暫緩（「住先」）中之三大核心功能。",
     "presentation": {
-      "explanation": "",
+      "explanation": "粵語中「住」（zyu6，第6聲陽去調）係極富表現力之持續態助詞，主要承擔三大功能：\n\n一、靜態持續貌（相當於普通話『着』）：\n表示某種姿勢、服飾或狀態之延續：\n１．「佢戴住眼鏡」（他戴著眼鏡）。\n２．「門開住」（門開著）。\n３．「手入面揸住把雨遮」（手裡握著一把雨傘）。\n\n二、伴隨動作（V1住＋V2）：\n表示以 V1 之方式或伴隨狀態進行 V2：\n１．「我哋行住傾啦」（我們邊走邊聊吧）。\n２．「大家坐住等」（大家坐著等）。\n\n三、暫緩或維持現狀（「動詞＋住先 / 唔好……住」）：\n１．「你食住先啦，唔使等我。」（你先吃著吧，不用等我。）\n２．「唔好行住，等埋陳生一齊走。」（先別走，等陳先生一起走。）",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第7課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 7 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 7 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 7 in communication."
+          "target": "外面好凍，你著住件厚褸先好出門口呀。",
+          "reading": "ngoi6 min6 hou2 dung3, nei5 zoek3 zyu6 gin6 hau5 lau1 sin1 hou2 ceot1 mun4 hau2 aa3. [ŋɔːi˨ miːn˨ hou˧˥ tʊŋ˧, nei˩˧ tsœːk̚˧ tsyː˨ kiːn˨ hɐu˩˧ lɐu˥ siːn˥ hou˧˥ tsʰɵt̚˥ muːn˨˩ hɐu˧˥ aː˧] (NGOY-MEEN HOH-DOONG, NEI JEUK-JEW GEEN HAU-LAU SEEN-HOH CHUT-MOON-HAU AH)",
+          "translation": "It is very cold outside; put on and wear a thick coat before heading out."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元7-4）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "會議仲未開始，大家可以飲住咖啡坐低等一等。",
+          "reading": "wui6 ji5 zung6 mei6 hoi1 ci2, daai6 gaa1 ho2 ji5 jam2 zyu6 gaa3 fe1 co5 dai1 dang2 jat1 dang2. [wuːi˨ jiː˩˧ tsʊŋ˨ mei˨ hɔːi˥ tsʰiː˧˥, taːi˨ kaː˥ hɔː˧˥ jiː˩˧ jɐm˧˥ tsyː˨ kaː˧ fɛː˥ tsʰɔː˩˧ tɐi˥ tɐŋ˧˥ jɐt̚˥ tɐŋ˧˥] (WOOEY-YEE JOONG-MAY HOY-CHEE, DY-GAH HOH-YEE YUM-JEW GAH-FEH CHOH-DY DUNG-YUT-DUNG)",
+          "translation": "The meeting has not started yet; everyone can drink coffee while sitting down and waiting."
+        },
+        {
+          "target": "唔好熄掣住，部電腦仲處理緊啲大數據。",
+          "reading": "m4 hou2 sik1 zai3 zyu6, bou6 din6 nou5 zung6 cyu2 lei5 gan2 di1 daai6 sou3 geoi3. [m̩˨˩ hou˧˥ sɪk̚˥ tsɐi˧ tsyː˨, pou˨ tiːn˨ nou˩˧ tsʊŋ˨ tsʰyː˧˥ lei˩˧ kɐn˧˥ tiː˥ taːi˨ sou˧ kɵy˧] (M-HOH SIK-JY-JEW, BO DEEN-NOH JOONG CHU-LEE-GUN DEE DY-SO-GOEY)",
+          "translation": "Don't switch it off just yet; the computer is still processing big data."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【持續態口訣】靜態持續「住」相隨，著衫戴帽開門居；「食住先」表暫緩意，「唔好行住」莫心著！"
+      ],
+      "culturalNotes": [
+        "「你做住先啦 / 你食住先啦」係香港極高頻之社交客套用語，體現出讓對方無需拘泥等待、先行動之體貼與效率。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"找錢\":",
+          "prompt": "【伴隨動作】欲表達「我們邊走邊談這件事」，最地道之粵語句子係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第7課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：減價錯置）",
-            "混雜生硬詞彙之不規範語句（例項：平啲未適配）",
-            "聲調助詞搭配欠妥之表達（例項：貴咗誤用）"
+            "我哋行住傾呢件事。 (ngo5 dei6 haang4 zyu6 king1 ni1 gin6 si6.)",
+            "我哋行咗傾呢件事。",
+            "我哋行過傾呢件事。",
+            "我哋行緊傾呢件事。"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「動詞1＋住＋動詞2」（行住傾）表示伴隨動作（邊走邊聊）。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"找錢\":",
+          "prompt": "【祈使暫緩】朋友催促你離開，你希望對方「先別走，等我五分鐘」，應講：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第7課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：平啲未適配）",
-            "聲調助詞搭配欠妥之表達（例項：貴咗誤用）",
-            "語序顛倒嘅非標準句式（例項：減價錯置）"
+            "唔好走住，等我五分鐘！ (m4 hou2 zau2 zyu6, dang2 ngo5 ng5 fan1 zung1!)",
+            "唔好走咗，等我五分鐘！",
+            "唔好走緊，等我五分鐘！",
+            "唔好走過，等我五分鐘！"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「唔好＋動詞＋住」（唔好走住）表示「先不要做某事 / 暫緩做某事」。"
         }
       ]
     },
@@ -3218,15 +3254,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"找錢\": Which sentence is completely correct?",
+          "prompt": "【語法功能】助詞「住」（zyu6）在句子「你著住件衫」中承擔之核心語法功能係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第7課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：貴咗誤用）",
-            "語序顛倒嘅非標準句式（例項：減價錯置）",
-            "混雜生硬詞彙之不規範語句（例項：平啲未適配）"
+            "表示靜態穿著狀態之持續 (Static Continuous)",
+            "表示動作已經結束",
+            "表示動作從未發生",
+            "表示將來計劃"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「著住」表示穿著狀態之持續延續。"
         }
       ],
       "passThreshold": 0.8
@@ -3237,53 +3273,62 @@
     "subject": "cantonese",
     "unit": 7,
     "lessonNumber": 5,
-    "title": "動態助詞「咗」「緊」「過」 (Aspect Particles ZO, GAN, GWO) (第5課)",
+    "title": "三大動態助詞綜合辨析與時間副詞搭配（已經、仲未、啱啱、正喺度） (Aspect Synthesis)",
     "level": "A2",
-    "objective": "Master Cantonese linguistics for 粵語單元7第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "綜合掌握「咗、緊、過、住」四種動態助詞之語義對立，並熟練搭配「已經、仲未、啱啱、正喺度」等時間副詞。",
     "presentation": {
-      "explanation": "",
+      "explanation": "四項動態助詞構成了粵語精密完備之時體（Aspect）網絡：\n\n一、核心四態語義對比矩陣：\n１．完成態（Perfective）：「食咗」（吃了/已吃）。常搭時間副詞「已經」（已經食咗）、「啱啱」（啱啱食咗）。\n２．進行態（Progressive）：「食緊」（正在吃）。常搭副詞「正喺度 / 喺度」（正喺度食緊）。\n３．經歷態（Experiential）：「食過」（吃過/有經驗）。常搭「以前」（以前食過）、「從來未……過」（從來未食過）。\n４．持續態（Continuous/Accompanying）：「食住」（吃著/伴隨）。常搭「……先」（食住先）、「唔好……住」（唔好食住）。\n\n二、全景語境對比例證：\n「我已經食咗飯」（I have eaten） vs 「我正喺度食緊飯」（I am eating） vs 「我食過呢道菜」（I have tasted this dish before） vs 「大家食住傾」（Let's talk while eating）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第7課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 7 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 7 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 7 in communication."
+          "target": "我啱啱寄咗份合約，佢依家正喺度睇緊，睇完我哋再傾住決定。",
+          "reading": "ngo5 aam1 aam1 gei3 zo2 fan6 hap6 zoek3, keoi5 ji1 gaa1 zing3 hai2 dou6 tai2 gan2, tai2 jyun4 ngo5 dei6 zoi3 king1 zyu6 kyut3 ding6. [ŋɔː˩˧ aːm˥ aːm˥ kei˧ tsɔː˧˥ fɐn˨ hɐp̚˨ tsœːk̚˧, kʰɵy˩˧ jiː˥ kaː˥ tsɪŋ˧ hɐi˩˧ tou˨ tʰɐi˧˥ kɐn˧˥, tʰɐi˧˥ jyːn˨˩ ŋɔː˩˧ tei˨ tsɔːi˧ kʰɪŋ˨˩ tsyː˨ kʰyːt̚˧ tɪŋ˨] (NGOH AHM-AHM GAY-JOR FUN HUP-JEUK, KUY YEE-GAH JING-HY-DOH TY-GUN, TY-YUEN NGOH-DAY JOY KING-JEW KUET-DING)",
+          "translation": "I just sent the contract; he is currently reading it, and after reading we will talk while deciding."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元7-5）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "佢雖然從來未去過外國，但講得一口好流利嘅英文。",
+          "reading": "keoi5 seoi1 jin4 cung4 loi4 mei6 heoi3 gwo3 ngoi6 gwok3, daan6 gong2 dak1 jat1 hau2 hou2 lau4 lei6 ge3 jing1 man2. [kʰɵy˩˧ sɵy˥ jiːn˨˩ tsʰʊŋ˨˩ lɔːi˨˩ mei˨ hɵy˧ kʷɔː˧ ŋɔːi˨ kʷɔːk̚˧, taːn˨ kɔːŋ˧˥ tɐk̚˥ jɐt̚˥ hɐu˧˥ hou˧˥ lɐu˨˩ lei˨ kɛː˧ jɪŋ˥ mɐn˧˥] (KUY SOEY-YEEN CHOONG-LOY MAY HOY-GWOR NGOY-GWOK, DAHN GONG-DUK YUT-HAU HOH LAU-LAY GEH YING-MUN)",
+          "translation": "Although he has never been abroad, he speaks very fluent English."
+        },
+        {
+          "target": "時間好緊迫，我哋唔好等住，一齊開工做咗佢先啦！",
+          "reading": "si4 gaan3 hou2 gan2 baak1, ngo5 dei6 m4 hou2 dang2 zyu6, jat1 cai4 hoi1 gung1 zou6 zo2 keoi5 sin1 laa1! [siː˨˩ kaːn˧ hou˧˥ kɐn˧˥ paːk̚˥, ŋɔː˩˧ tei˨ m̩˨˩ hou˧˥ tɐŋ˧˥ tsyː˨, jɐt̚˥ tsʰɐi˨˩ hɔːi˥ kʊŋ˥ tsou˨ tsɔː˧˥ kʰɵy˩˧ siːn˥ laː˥] (SEE-GAHN HOH GUN-BAHK, NGOH-DAY M-HOH DUNG-JEW, YUT-CHY HOY-GOONG JOE-JOR-KUY SEEN LAH!)",
+          "translation": "Time is very tight; let's not keep waiting, let's start working together and get it done first!"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【時態四重奏】「咗」表完成事已辦，「緊」標進行正忙碌；「過」述經歷留痕跡，「住」持狀態伴隨淑！"
+      ],
+      "culturalNotes": [
+        "掌握「咗、緊、過、住」四助詞之切換係邁向粵語中高級（A2-B1）最核心之分水嶺。精準運用能令話語生動自然、充滿道地港味。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"減價\":",
+          "prompt": "【語境填空】「我＿＿＿（剛才）食＿＿＿（完成）午餐，依家＿＿＿（正在）寫＿＿＿（進行）報告」，應填入：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第7課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：平啲錯置）",
-            "混雜生硬詞彙之不規範語句（例項：貴咗未適配）",
-            "聲調助詞搭配欠妥之表達（例項：收據誤用）"
+            "啱啱 …… 咗 …… 正喺度 …… 緊",
+            "已經 …… 緊 …… 仲未 …… 咗",
+            "從來 …… 過 …… 已經 …… 住",
+            "正喺度 …… 住 …… 啱啱 …… 過"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「啱啱……咗」搭配完成貌，「正喺度……緊」搭配進行貌。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"減價\":",
+          "prompt": "【時體辨析】「你睇緊邊套戲？」詢問之焦點在於：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第7課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：貴咗未適配）",
-            "聲調助詞搭配欠妥之表達（例項：收據誤用）",
-            "語序顛倒嘅非標準句式（例項：平啲錯置）"
+            "你當下正在觀看哪部電影 (Ongoing Progressive)",
+            "你昨天看完了哪部電影",
+            "你生平看過哪部電影",
+            "你打算買哪部電影的票"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「睇緊」標記正在進行之觀影動作。"
         }
       ]
     },
@@ -3291,15 +3336,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"減價\": Which sentence is completely correct?",
+          "prompt": "【綜合判斷】以下四個句子中，邊句正確表達「我們邊喝茶邊聊天」？",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第7課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：收據誤用）",
-            "語序顛倒嘅非標準句式（例項：平啲錯置）",
-            "混雜生硬詞彙之不規範語句（例項：貴咗未適配）"
+            "我哋飲住茶傾偈。 (ngo5 dei6 jam2 zyu6 caa4 king1 gai2.)",
+            "我哋飲咗茶傾偈。",
+            "我哋飲過茶傾偈。",
+            "我哋飲緊茶傾咗偈。"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「飲住茶傾偈」（V1住＋V2）正確表達伴隨動作（邊喝茶邊聊天）。"
         }
       ],
       "passThreshold": 0.8
