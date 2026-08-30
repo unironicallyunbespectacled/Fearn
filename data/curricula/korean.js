@@ -6003,56 +6003,65 @@
     "subject": "korean",
     "unit": 13,
     "lessonNumber": 1,
-    "title": "객체 높임법(드리다, 모시다, 뵙다) (Object Honorifics) (Part 1)",
+    "title": "객체 높임 여격 조사 '께'와 수여 특수 동사 '드리다'",
     "level": "B1",
-    "objective": "Comprehensive mastery of 객체 높임 특수 어휘 (Object Honorifics: 드리다/모시다).",
+    "objective": "문장의 목적어나 부사어(행위가 미치는 대상/받는 사람)가 화자보다 높을 때 사용하는 여격 조사 '께'와 '주다'의 겸양/높임형 '드리다'의 결합 규칙을 마스터한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 객체 높임법(드리다, 모시다, 뵙다) (Object Honorifics) » (제1절)의 핵심 언어 요소와 객체 높임 특수 어휘 (Object Honorifics: 드리다/모시다)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "객체 높임법(Object Honorifics)은 문장의 주어가 아닌, 행동이 미치는 대상(목적어나 부사어로 표현되는 사람)이 화자보다 높은 인물일 때 그 대상을 높이고 화자 자신을 낮추는 한국어 경어법의 핵심입니다.\n\n1. 통사적 대응 구조:\n- 평칭 여격 조사 '에게 / 한테' → 존칭 여격 조사 '께':\n  - 친구에게 선물을 주다. → 선생님께 선물을 드리다.\n  - 동생한테 편지를 쓰다. → 할머니께 편지를 쓰다(올리다).\n- 평칭 수여 동사 '주다' → 겸양 수여 동사 '드리다':\n  - 책을 주다 → 책을 드리다\n  - 도와주다 → 도와드리다\n  - 알려주다 → 알려드리다\n\n2. '명사 + 드리다' 합성 겸양 표현:\n- 말씀 드리다 (tell / say to an elder)\n- 인사 드리다 (greet an elder)\n- 전화 드리다 (call an elder on phone)\n- 감사 드리다 (express gratitude)",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (13.1.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "스승의 날을 맞이하여 은사님께 카네이션 꽃과 감사 편지를 드렸습니다.",
+          "reading": "Seuseung-ui nal-eul majihayeo eunsa-nim-kke kaneisyeon kkot-gwa gamsa pyeonji-reul deuryeotseumnida.",
+          "translation": "On Teacher's Day, I gave carnation flowers and a thank-you letter to my teacher ('선생님께' + '드리다')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (13.1.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "어머니께 매일 저녁 퇴근길에 안부 전화를 드립니다.",
+          "reading": "Eomeoni-kke maeil jeonyeok toegeungil-e anbu jeonhwa-reul deurimnida.",
+          "translation": "I make a courtesy phone call to Mother every evening on my way home from work ('전화 드리다')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (13.1.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "무거운 짐을 들고 계시는 할머니를 위해 짐을 들어 드렸어요.",
+          "reading": "Mugeoun jim-eul deulgo gyesineun harabeoji-reul wihae jim-eul deureo deuryeosseoyo.",
+          "translation": "I carried the heavy luggage for Grandmother who was holding it ('들어 드리다')."
+        },
+        {
+          "target": "교수님께 연구 계획서 초안을 이메일로 보내 드렸습니다.",
+          "reading": "Gyosunim-kke yeongu gyehoekseo choan-eul imeil-ro bonae deuryeotseumnida.",
+          "translation": "I sent the draft of the research proposal to the professor by email ('보내 드리다')."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "받는 분이 높은 분이면 '에게' 대신 '께', '주다' 대신 '드리다'! 깍듯한 선물과 마음의 '드리다'!"
+      ],
+      "culturalNotes": [
+        "한국에서는 윗사람에게 물건을 건네드릴 때 반드시 '두 손'으로 공손히 받쳐 드려야 하며, 한 손으로만 물건을 건네는 것은 큰 결례입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 객체 높임 특수 어휘 (Object Honorifics: 드리다/모시다) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 1)?",
+          "prompt": "'선생님(Teacher)'에게 물건을 건넬 때 결합할 가장 알맞은 여격 조사는 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (13.1.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (13.1.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (13.1.3)."
+            "께",
+            "에게",
+            "한테"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "웃어른이나 존경의 대상인 부사어 뒤에는 존칭 여격 조사 '께'가 결합합니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 객체 높임법(드리다, 모시다, 뵙다) (Object Honorifics) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 1):",
+          "prompt": "'할아버지께 선물을 주다'를 완벽한 객체 높임으로 바르게 고친 문장은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (13.1.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (13.1.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (13.1.3)."
+            "할아버지께 선물을 드렸습니다.",
+            "할아버지에게 선물을 주었습니다.",
+            "할아버지가 선물을 드렸습니다."
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "여격 조사 '께'와 겸양 동사 '드리다'가 결합한 '할아버지께 선물을 드렸습니다'가 완벽합니다."
         }
       ]
     },
@@ -6060,14 +6069,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 객체 높임 특수 어휘 (Object Honorifics: 드리다/모시다) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 13-1)?",
+          "prompt": "'제가 교수님을 _____ (I will help the professor).' 빈칸에 알맞은 객체 높임형은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (13.1.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (13.1.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (13.1.3)."
+            "도와 드리겠습니다",
+            "도와 주겠습니다",
+            "도와 계시겠습니다"
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR B1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "높임 대상인 교수님을 위해 돕는 행위이므로 겸양 수여 동사 '도와 드리겠습니다'가 정확합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'선생님께 선물을 드렸어요'(I gave a present to the teacher)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "선생님께 선물을 드렸어요.",
+            "선생님께 선물을 드렸어요"
+          ],
+          "explanation": "선생님께(여격) + 선물을(목적어) + 드렸어요(드리다 과거형) = 선생님께 선물을 드렸어요."
         }
       ]
     }
@@ -6077,56 +6095,65 @@
     "subject": "korean",
     "unit": 13,
     "lessonNumber": 2,
-    "title": "객체 높임법(드리다, 모시다, 뵙다) (Object Honorifics) (Part 2)",
+    "title": "동행 및 동반의 객체 높임 특수 동사 '모시다'",
     "level": "B1",
-    "objective": "Comprehensive mastery of 객체 높임 특수 어휘 (Object Honorifics: 드리다/모시다).",
+    "objective": "웃어른을 데리고 가거나 동행하여 모실 때 평칭 '데리다/데려가다' 대신 사용하는 특수 동사 '모시다 / 모시고 가다 / 모셔다 드리다'의 용법을 체득한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 객체 높임법(드리다, 모시다, 뵙다) (Object Honorifics) » (제2절)의 핵심 언어 요소와 객체 높임 특수 어휘 (Object Honorifics: 드리다/모시다)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "화자가 웃어른과 함께 동행하거나 어딘가로 안내하여 데려갈 때는 평칭 동사 '데리다(데리고 가다, 데려다주다)'를 결코 쓰지 않고, 극존칭 객체 특수 동사 '모시다'를 사용합니다.\n\n1. 통사적 대응 구조:\n- 평칭: 동생을 데리고 병원에 가다. → 높임: 할머니를 모시고 병원에 가다.\n- 평칭: 친구를 집에 데려다주다. → 높임: 부모님을 댁에 모셔다 드리다.\n- 평칭: 손님을 방으로 데려오다. → 높임: 귀빈을 VIP룸으로 모셔오다.\n\n2. '모시다'의 다양한 의미 영역:\n- 동행 (Accompany): \"부모님을 모시고 제주도로 효도 여행을 다녀왔습니다.\"\n- 배웅 및 마중 (Escort / Drive): \"제가 공항까지 차로 모셔다 드리겠습니다.\"\n- 봉양 및 거주 (Live with / Take care of): \"시부모님을 정성껏 모시고 삽니다.\"",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (13.2.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "어머니를 모시고 대학병원 안과에 정기 검진을 다녀왔습니다.",
+          "reading": "Eomeoni-reul mosigo daehakbyeongwon an-gwa-e jeonggi geomjin-eul danyeowatseumnida.",
+          "translation": "I accompanied Mother and went to the university hospital ophthalmology department for a routine checkup ('모시고 가다')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (13.2.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "비가 많이 오니 제가 우산으로 교수님을 연구동까지 모셔다 드릴게요.",
+          "reading": "Bi-ga mani oni je-ga usan-euro gyosunim-eul yeongudong-kkaji mosyeoda deurilgeyo.",
+          "translation": "Since it is raining heavily, I will escort the professor to the research building with an umbrella ('모셔다 드리다')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (13.2.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "오늘 저녁에 귀한 손님을 모시고 유명한 한정식 식당에 갑니다.",
+          "reading": "Oneul jeonyeok-e gwihan sonnim-eul mosigo yumyeonghan hanjeongsik sikdang-e gamnida.",
+          "translation": "This evening, I am hosting a precious guest and going to a famous Korean course restaurant."
+        },
+        {
+          "target": "저희 부부는 시골에 계신 부모님을 서울 집으로 모셔왔습니다.",
+          "reading": "Jeohui bubu-neun sigol-e gyesin bumonim-eul Seoul jib-euro mosyeowatseumnida.",
+          "translation": "Our married couple brought our parents from the countryside to our home in Seoul ('모셔오다')."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "어른과 함께 갈 땐 '데리고'는 절대 금지! 깍듯이 '모시고 가고, 모셔다 드리자'!"
+      ],
+      "culturalNotes": [
+        "한국에서 윗사람과 동행하여 걸을 때는 어른보다 반 걸음 정도 뒤쪽이나 옆쪽에서 보폭을 맞추며 걷는 것이 '모시는' 전통적인 예절입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 객체 높임 특수 어휘 (Object Honorifics: 드리다/모시다) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 2)?",
+          "prompt": "'할아버지를 데리고 병원에 갔다'를 올바른 객체 높임으로 바꾼 문장은 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (13.2.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (13.2.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (13.2.3)."
+            "할아버지를 모시고 병원에 갔습니다.",
+            "할아버지를 데리고 병원에 갔습니다.",
+            "할아버지를 가시고 병원에 갔습니다."
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "'데리다'의 객체 높임 특수 동사는 '모시다'이므로 '모시고'가 정확합니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 객체 높임법(드리다, 모시다, 뵙다) (Object Honorifics) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 2):",
+          "prompt": "'부모님을 집까지 안전하게 차로 데려다주었다'를 객체 높임으로 바르게 표현한 것은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (13.2.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (13.2.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (13.2.3)."
+            "부모님을 댁까지 차로 모셔다 드렸습니다.",
+            "부모님을 댁까지 차로 데려다 드렸습니다.",
+            "부모님을 집까지 차로 모셔다 주었습니다."
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "목적어 명사 '댁', 동행 동사 '모시다', 수여 보조동사 '드리다'가 완벽히 결합했습니다."
         }
       ]
     },
@@ -6134,14 +6161,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 객체 높임 특수 어휘 (Object Honorifics: 드리다/모시다) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 13-2)?",
+          "prompt": "'제가 교수님을 역까지 _____ (I will escort the professor to the station).' 빈칸에 알맞은 표현은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (13.2.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (13.2.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (13.2.3)."
+            "모셔다 드리겠습니다",
+            "데려다 주겠습니다",
+            "가셔다 드리겠습니다"
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR B1 target-language standard."
+          "explanation": "교수님을 배웅하는 상황이므로 '모셔다 드리겠습니다'가 가장 공손하고 정확합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'부모님을 모시고 식당에 갔어요'(I went to the restaurant accompanying my parents)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "부모님을 모시고 식당에 갔어요.",
+            "부모님을 모시고 식당에 갔어요"
+          ],
+          "explanation": "부모님을 + 모시고 + 식당에 + 갔어요 = 부모님을 모시고 식당에 갔어요."
         }
       ]
     }
@@ -6151,56 +6187,65 @@
     "subject": "korean",
     "unit": 13,
     "lessonNumber": 3,
-    "title": "객체 높임법(드리다, 모시다, 뵙다) (Object Honorifics) (Part 3)",
+    "title": "만남과 예방(禮訪)의 객체 높임 특수 동사 '뵙다 / 뵈다'",
     "level": "B1",
-    "objective": "Comprehensive mastery of 객체 높임 특수 어휘 (Object Honorifics: 드리다/모시다).",
+    "objective": "웃어른을 만나거나 찾아뵐 때 '만나다/보다' 대신 사용하는 '뵙다 / 뵈다'의 형태 구분(뵙겠습니다 vs 봬요)과 공손한 인사법을 익힌다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 객체 높임법(드리다, 모시다, 뵙다) (Object Honorifics) » (제3절)의 핵심 언어 요소와 객체 높임 특수 어휘 (Object Honorifics: 드리다/모시다)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "화자가 웃어른을 직접 만나거나 찾아가는 행위(Visit/Meet)를 표현할 때는 일반 동사 '만나다'나 '보다' 대신 자신을 낮추는 겸양 특수 동사 '뵙다 / 뵈다'를 사용합니다.\n\n1. 형태 및 철자 구별 규칙 (Spelling Rules):\n- 자음으로 시작하는 어미 앞 → '뵙-':\n  - 뵙겠습니다 (I will see you)\n  - 뵙고 싶었습니다 (I wanted to see you)\n  - 뵙게 되어 영광입니다 (It is an honor to meet you)\n- 모음으로 시작하는 어미 앞 → '뵈-' + '-어(요)' = '봬(요)':\n  - 뵈다 + 어요 → 봬요 (내일 봬요 - *뵈어요 축약)\n  - 뵈다 + 었습니다 → 뵀습니다 (어제 뵀습니다 - *뵈었습니다 축약)\n- 의도/목적 어미 앞 → '뵈러':\n  - 뵈러 가다 (교수님을 뵈러 연구실에 갑니다)\n\n2. 필수적인 첫인사 및 약속 공식:\n- \"처음 뵙겠습니다. 반갑습니다.\"\n- \"내일 오후 세 시에 찾아뵙겠습니다.\"",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (13.3.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "처음 뵙겠습니다. 이번 학기 신입 연구원 김민수라고 합니다.",
+          "reading": "Cheo-eum boepgetseumnida. Ibeon hakgi sin-ip yeonguwon Kim Minsu-rago hamnida.",
+          "translation": "Nice to meet you for the first time. I am Minsu Kim, the new researcher this semester ('처음 뵙겠습니다')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (13.3.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "교수님, 내일 오후 두 시에 연구실로 찾아봬도 될까요?",
+          "reading": "Gyosunim, naeil ohu du si-e yeongusil-ro chajabaedo doelkkayo?",
+          "translation": "Professor, may I visit you in your office tomorrow at 2 PM? ('찾아봬도' = 찾아뵈- + -어도)."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (13.3.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "오랫동안 뵙지 못했던 고등학교 은사님을 드디어 뵀습니다.",
+          "reading": "Oraedong-an boepji mothaetdeon godeunghakgyo eunsanim-eul deudieo baetseumnida.",
+          "translation": "I finally met my high school teacher whom I had not seen for a long time ('뵀습니다' = 뵈었습니다)."
+        },
+        {
+          "target": "선생님, 오늘 정말 감사했습니다. 다음 주 월요일에 봬요!",
+          "reading": "Seonsaengnim, oneul jeongmal gamsahaetseumnida. Daeum ju woryoil-e bwaeyo!",
+          "translation": "Teacher, thank you so much today. See you next Monday ('봬요' = 뵈어요)!"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "자음 앞엔 '뵙겠습니다', 모음 앞엔 '봬요(찾아뵀어요)', 목적은 '뵈러 가다'! 철자까지 완벽하게!"
+      ],
+      "culturalNotes": [
+        "한국어 문자 메시지나 이메일에서 '내일 뵈요(X)'라고 잘못 쓰는 경우가 흔하지만, '뵈어요'의 준말은 반드시 '봬요(O)'로 표기해야 하는 맞춤법 핵심 사항입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 객체 높임 특수 어휘 (Object Honorifics: 드리다/모시다) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 3)?",
+          "prompt": "처음 만난 웃어른께 건네는 가장 표준적이고 정중한 인사말은 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (13.3.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (13.3.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (13.3.3)."
+            "처음 뵙겠습니다.",
+            "처음 만나겠습니다.",
+            "처음 보겠습니다."
           ],
           "answerIndex": 0,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "explanation": "첫 만남의 정중한 인사말은 '처음 뵙겠습니다'입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 객체 높임법(드리다, 모시다, 뵙다) (Object Honorifics) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 3):",
+          "prompt": "'다음 주에 만나요(See you next week)'를 선생님께 올바른 해요체 높임으로 표현한 것은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (13.3.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (13.3.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (13.3.3)."
+            "다음 주에 봬요.",
+            "다음 주에 뵈요.",
+            "다음 주에 뵙어요."
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "'뵈다'에 '-어요'가 결합하여 축약된 올바른 표기는 '봬요'입니다."
         }
       ]
     },
@@ -6208,14 +6253,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 객체 높임 특수 어휘 (Object Honorifics: 드리다/모시다) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 13-3)?",
+          "prompt": "'교수님을 _____ 연구실에 갔습니다 (I went to the lab to see the professor).' 빈칸에 알맞은 형태는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (13.3.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (13.3.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (13.3.3)."
+            "뵈러",
+            "뵙으러",
+            "봬러"
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR B1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "목적 연결어미 '-(으)러' 앞에서는 어간 '뵈-' 뒤에 '러'가 붙어 '뵈러'가 됩니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'내일 연구실에서 뵙겠습니다'(I will see you in the office tomorrow)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "내일 연구실에서 뵙겠습니다.",
+            "내일 연구실에서 뵙겠습니다"
+          ],
+          "explanation": "내일 + 연구실에서 + 뵙겠습니다 = 내일 연구실에서 뵙겠습니다."
         }
       ]
     }
@@ -6225,56 +6279,65 @@
     "subject": "korean",
     "unit": 13,
     "lessonNumber": 4,
-    "title": "객체 높임법(드리다, 모시다, 뵙다) (Object Honorifics) (Part 4)",
+    "title": "질문과 조언 요청의 객체 높임 '여쭙다 / 여쭤보다'",
     "level": "B1",
-    "objective": "Comprehensive mastery of 객체 높임 특수 어휘 (Object Honorifics: 드리다/모시다).",
+    "objective": "웃어른께 궁금한 점을 묻거나 자문을 구할 때 '묻다' 대신 자신을 낮추며 공손히 질문하는 '여쭙다 / 여쭤보다'의 문법과 화용을 마스터한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 객체 높임법(드리다, 모시다, 뵙다) (Object Honorifics) » (제4절)의 핵심 언어 요소와 객체 높임 특수 어휘 (Object Honorifics: 드리다/모시다)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "화자가 웃어른께 어떤 사실을 질문하거나 의견을 구할 때는 일반 동사 '묻다(물어보다)' 대신 겸양 특수 동사 '여쭙다 / 여쭤보다(여쭈어보다)'를 사용합니다.\n\n1. 형태 및 활용 규칙 (ㅂ 불규칙 활용):\n- 기본형: 여쭙다 (또는 여쭈다)\n- 자음 어미 앞: 여쭙겠습니다, 여쭙고 싶습니다\n- 모음 어미 앞: 여쭙- + -어 → 여쭈어 / 여쭤 (여쭤보다, 여쭤봤습니다)\n\n2. '여쭙다' vs '말씀을 여쭙다':\n- \"교수님, 논문 주제에 대해 한 가지 여쭤보고 싶습니다.\"\n- \"부모님께 먼저 말씀을 여쭙고 허락을 받겠습니다.\"\n\n3. 조언과 자문을 구할 때의 관용적 화법:\n- \"실례지만 한 가지만 여쭤봐도 되겠습니까?\" (Excuse me, but may I ask you one question?)\n- \"잘 모르는 부분이 있어서 여쭙고자 찾아왔습니다.\"",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (13.4.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "교수님, 이번 학기 과제 제출 기한에 대해 한 가지 여쭤보고 싶습니다.",
+          "reading": "Gyosunim, ibeon hakgi gwaje jechul gihan-e daehae han gaji yeojjwobogo sipseumnida.",
+          "translation": "Professor, I would like to ask one question regarding the assignment submission deadline ('여쭤보다')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (13.4.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "실례지만 길을 잘 몰라서 그러는데 버스 정류장 위치 좀 여쭤봐도 될까요?",
+          "reading": "Sillyejiman gil-eul jal mollaseo geureoneunde beoseu jeongnyujang wichi jom yeojjwobaedo doelkkayo?",
+          "translation": "Excuse me, but I don't know the way well, so may I ask the location of the bus stop?"
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (13.4.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "앞으로의 진로에 대해 아버지께 조언을 여쭙고 깊이 고민했습니다.",
+          "reading": "Apeuro-ui jinro-e daehae abeoji-kke joeon-eul yeojjupgo gipi gominhaetseumnida.",
+          "translation": "I asked Father for advice regarding my future career path and pondered deeply ('여쭙고')."
+        },
+        {
+          "target": "선생님께 궁금한 점을 여쭈어보았더니 아주 친절하게 설명해 주셨습니다.",
+          "reading": "Seonsaengnim-kke gunggeumhan jeom-eul yeojjueoboatdeoni aju chinjeolhage seolmyeonghae jusyeotseumnida.",
+          "translation": "When I asked the teacher about things I was curious about, they explained very kindly."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "어른께 물어볼 땐 '물어보다' 말고 '여쭤보다'! ㅂ 불규칙이라 '여쭤보겠습니다'!"
+      ],
+      "culturalNotes": [
+        "한국의 학계나 직장에서 윗사람에게 질문할 때는 '질문이 있습니다'보다 '한 가지 여쭤봐도 되겠습니까?'로 시작하는 것이 훨씬 더 정중하고 공손한 인상을 줍니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 객체 높임 특수 어휘 (Object Honorifics: 드리다/모시다) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 4)?",
+          "prompt": "'선생님께 질문을 묻다'를 객체 높임으로 바르게 표현한 문장은 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (13.4.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (13.4.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (13.4.3)."
+            "선생님께 질문을 여쭤보았습니다.",
+            "선생님께 질문을 물어보았습니다.",
+            "선생님에게 질문을 물었습니다."
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "웃어른께 질문할 때는 특수 겸양 동사인 '여쭤보다(여쭙다)'를 씁니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 객체 높임법(드리다, 모시다, 뵙다) (Object Honorifics) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 4):",
+          "prompt": "'교수님께 길을 물어봐도 됩니까?'를 정중한 허가 질문으로 바르게 고친 것은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (13.4.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (13.4.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (13.4.3)."
+            "교수님, 한 가지 여쭤봐도 될까요?",
+            "교수님, 한 가지 물어봐도 될까요?",
+            "교수님, 한 가지 말씀해도 될까요?"
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "'여쭤보다'와 허가 어미 '-아/어도 되다'가 결합한 '여쭤봐도 될까요?'가 가장 공손합니다."
         }
       ]
     },
@@ -6282,14 +6345,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 객체 높임 특수 어휘 (Object Honorifics: 드리다/모시다) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 13-4)?",
+          "prompt": "'진로 문제에 대해 선배님께 _____ (I would like to ask for advice).' 빈칸에 알맞은 표현은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (13.4.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (13.4.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (13.4.3)."
+            "조언을 여쭙고 싶습니다",
+            "조언을 묻고 싶습니다",
+            "조언을 드리고 싶습니다"
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR B1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "선배나 윗사람에게 조언을 구하는 질문이므로 '조언을 여쭙고 싶습니다'가 정확합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'한 가지 여쭤봐도 될까요?'(May I ask you one question?)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "한 가지 여쭤봐도 될까요?",
+            "한 가지 여쭤봐도 될까요"
+          ],
+          "explanation": "한 가지(수량) + 여쭤봐도(여쭙다 + 아도) + 될까요(되다 + ㄹ까요) = 한 가지 여쭤봐도 될까요?"
         }
       ]
     }
@@ -6299,56 +6371,65 @@
     "subject": "korean",
     "unit": 13,
     "lessonNumber": 5,
-    "title": "객체 높임법(드리다, 모시다, 뵙다) (Object Honorifics) (Part 5)",
+    "title": "연구실 면담 및 은사님 예방 실전 객체 경어 담화",
     "level": "B1",
-    "objective": "Comprehensive mastery of 객체 높임 특수 어휘 (Object Honorifics: 드리다/모시다).",
+    "objective": "여격 조사 '께', 수여 '드리다', 동행 '모시다', 방문 '뵙다', 질문 '여쭙다'를 결합하여 완벽한 격식 상담 담화를 완성한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 객체 높임법(드리다, 모시다, 뵙다) (Object Honorifics) » (제5절)의 핵심 언어 요소와 객체 높임 특수 어휘 (Object Honorifics: 드리다/모시다)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "대학원 진학, 직장 멘토링, 은사님 예방 등의 격식 있는 대면 상황에서는 주체 높임법과 객체 높임법이 복합적으로 얽혀 나타납니다.\n\n1. 실전 연구실 방문 상담 담화 모델:\n- A: 실례합니다, 교수님. 약속드린 시간에 찾아뵈었습니다.\n- B: 어서 들어와요, 민수 군. 날씨가 꽤 쌀쌀하지요?\n- A: 네, 조금 춥지만 찾아뵙게 되어 기쁩니다. 작은 전통차 세트를 준비했는데 교수님께 드리고 싶습니다.\n- B: 고마워요, 아주 향이 좋겠네요. 오늘 어떤 상담을 하고 싶어서 찾아왔나요?\n- A: 이번 졸업 논문 주제에 대해 교수님께 몇 가지 조언을 여쭙고자 찾아왔습니다.\n- B: 그래요, 준비한 논문 계획서가 있으면 보여줘 봐요.\n- A: 네, 여기 출력해 온 자료를 교수님께 드리겠습니다. 꼼꼼히 지도해 주시면 감사하겠습니다.\n- B: 주제가 매우 참신하고 좋네요. 이번 학기 동안 열심히 지도해 줄게요.\n- A: 바쁘신 중에 시간 내어 주셔서 진심으로 감사드립니다. 다음 주에 다시 뵙겠습니다!",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (13.5.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "A: 교수님, 약속 시간에 찾아뵈었습니다. B: 네, 민수 군 어서 들어오세요.",
+          "reading": "A: Gyosunim, yaksok sigan-e chajabaetseumnida. B: Ne, Minsu gun eoseo deureooseyo.",
+          "translation": "A: Professor, I have come to see you at the appointed time. B: Yes, please come in, Minsu."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (13.5.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "선생님께 약소하지만 정성껏 준비한 선물을 전해 드렸습니다.",
+          "reading": "Seonsaengnim-kke yaksohajiman jeongseongkkeot junbihan seonmul-eul jeonhae deuryeotseumnida.",
+          "translation": "I presented the gift that I prepared with all my heart to the teacher ('전해 드리다')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (13.5.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "학술 대회 발표 준비에 대해 선배님께 노하우를 여쭤보았습니다.",
+          "reading": "Haksul daehoe balpyo junbi-e daehae seonbaenim-kke nohau-reul yeojjwoboatseumnida.",
+          "translation": "I asked my senior colleague about the know-how for conference presentation preparation."
+        },
+        {
+          "target": "부모님을 모시고 시골 고향에 계신 조부모님 댁을 찾아뵈었습니다.",
+          "reading": "Bumonim-eul mosigo sigol gohyang-e gyesin jobumonim daek-eul chajabaetseumnida.",
+          "translation": "Accompanying my parents, I visited my grandparents' home in my rural hometown ('모시고' + '찾아뵈었습니다')."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "어른께 드릴 땐 '께'와 '드리다', 동행할 땐 '모시다', 찾아갈 땐 '뵙다', 물어볼 땐 '여쭙다'로 객체 높임 완벽 마스터!"
+      ],
+      "culturalNotes": [
+        "한국에서는 은사님이나 상사의 연구실/사무실에 방문할 때 약속 시간 5분 전에 도착하여 노크를 3번 하고 들어가는 것이 정중한 비즈니스 에티켓입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 객체 높임 특수 어휘 (Object Honorifics: 드리다/모시다) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 5)?",
+          "prompt": "교수님 연구실에 들어가며 선물을 건넬 때 가장 적절한 경어 표현은 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (13.5.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (13.5.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (13.5.3)."
+            "교수님께 드리려고 작은 선물을 준비했습니다.",
+            "교수님에게 주려고 작은 선물을 준비했습니다.",
+            "교수님이 주려고 작은 선물을 준비했습니다."
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "여격 조사 '께'와 수여 동사 '드리다'가 사용된 첫 번째 문장이 완벽합니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 객체 높임법(드리다, 모시다, 뵙다) (Object Honorifics) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 5):",
+          "prompt": "연구실 상담 대화 중 모든 객체/주체 높임법이 완벽히 적용된 것은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (13.5.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (13.5.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (13.5.3)."
+            "논문 주제에 대해 교수님께 조언을 여쭙고자 찾아뵈었습니다.",
+            "논문 주제에 대해 교수님에게 조언을 묻고자 찾아보았습니다.",
+            "논문 주제에 대해 교수님께 조언을 말하고자 찾아갔습니다."
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "'교수님께', '여쭙고자', '찾아뵈었습니다'가 완벽한 객체 경어 호응을 이룹니다."
         }
       ]
     },
@@ -6356,14 +6437,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 객체 높임 특수 어휘 (Object Honorifics: 드리다/모시다) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 13-5)?",
+          "prompt": "다음 상담 대화 중 화용론적으로 가장 품격 있고 자연스러운 문장은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (13.5.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (13.5.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (13.5.3)."
+            "바쁘신 중에 귀한 시간 내어 주셔서 감사드리며, 다음 주에 다시 뵙겠습니다.",
+            "바쁜데 시간 줘서 고맙고 다음 주에 다시 만나겠다.",
+            "바쁘신 중에 시간 줘서 감사하고 다음 주에 보자."
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR B1 target-language standard."
+          "explanation": "감사 인사('감사드리며')와 다음 약속 인사('다시 뵙겠습니다')가 완벽한 격식을 갖추었습니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'교수님께 조언을 여쭤보았습니다'(I asked the professor for advice)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "교수님께 조언을 여쭤보았습니다.",
+            "교수님께 조언을 여쭤보았습니다"
+          ],
+          "explanation": "교수님께 + 조언을 + 여쭤보았습니다 = 교수님께 조언을 여쭤보았습니다."
         }
       ]
     }
