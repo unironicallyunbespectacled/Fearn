@@ -17479,90 +17479,94 @@
       "passThreshold": 0.8
     }
   },
-  "zh-u30-l1": {
+"zh-u30-l1": {
     "id": "zh-u30-l1",
     "subject": "mandarin",
     "unit": 30,
     "lessonNumber": 1,
-    "title": "当代影视艺术与审美批评 (Contemporary Cinema & Media Aesthetics) (第1讲)",
+    "title": "第五代导演电影美学：民俗奇观、黄土地色彩造型与历史反思 (Fifth Generation Cinema: Folk Spectacle, Earth Colors & Historical Reflection)",
     "level": "C1",
-    "objective": "全面掌握与熟练运用本课核心内容：第五代/第六代导演电影美学、现实主义题材剧作分析与视听语言叙事批评。 (第1部分)。",
+    "objective": "系统掌握中国第五代导演电影美学体系（张艺谋、陈凯歌、田壮壮代表作）、民俗意象与原色造型美学、封闭式对称构图隐喻及宏大历史文化反思批评语体。",
     "presentation": {
-      "explanation": "",
+      "explanation": "20世纪80年代中期崛起于世界影坛的「第五代导演」（以北京电影学院78级毕业生为核心），是中国电影史上最具革命性与美学突破的代际群体：\n\n一、核心领军人物与传世代表作：\n1.【陈凯歌】：\n-《黄土地》（1984，奠基之作，张艺谋任摄影，颠覆传统戏剧化构图，苍茫黄土占画面五分之四）。\n-《霸王别姬》（1993，荣获第46届戛纳国际电影节最高大奖「金棕榈奖」，华语影史登峰造极之作）。\n2.【张艺谋】：\n-《红高粱》（1987，斩获第38届柏林国际电影节最高大奖「金熊奖」，狂野原始生命力的红色视觉盛宴）。\n-《大红灯笼高高挂》（1991，威尼斯电影节银狮奖，封建深宅大院的规训与异化隐喻）。\n-《活着》（1994，戛纳评审团大奖，以平民苦难史诗反思历史风云）。\n3.【田壮壮】：\n-《盗马贼》《蓝风筝》，以独特的宗教神秘意象与静穆凝视探索人性与历史。\n\n二、第五代电影美学核心特征：\n1.【色彩造型与原色视觉冲击】：高饱和度的原色运用（高粱红、大红灯笼、黄土黄、戏服金红），将色彩作为承载情绪与文化批判的第一视觉语言。\n2.【仪式感与民俗奇观】：将「祭天求雨」、「颠轿」、「点灯封灯」、「京剧戏班」等传统民俗仪式提炼为强烈的视听奇观。\n3.【压抑性空间构图】：利用封建深宅大院极端严整的几何对称构图，压迫逼仄的空间形成对封建礼教桎梏的无声控诉。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「当代影视艺术与审美批评 (Contemporary Cinema & Media Aesthetics)」的核心语法法则与应用范例 (30.1.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '当代影视艺术与审美批评 (Contemporary Cinema & Media Aesthetics)' in simple terms to students at the academic seminar."
+          "target": "第五代导演以《黄土地》与《红高粱》震撼世界影坛，凭借浓烈炽热的色彩造型与苍茫大气的构图打破了传统戏剧化叙事模式。(Dì-wǔ dài dǎoyǎn yǐ 《Huáng Tǔdì》 yǔ 《Hóng Gāoliang》 zhènhàn shìjiè yǐngtán, píngjiè nóngliè chìrè de sècǎi zàoxíng yǔ cāngmáng dàqì de gòutú dǎpò le chuántǒng xìjùhuà xùshì móshì.)",
+          "reading": "[ti˥˩-u˨˩˦ taɪ̯˥˩ taʊ̯˨˩.jan˨˩˦ i˨˩˦ 《xwaŋ˧˥ tʰu˨˩.ti˥˩》 y˨˩˦ 《xʊŋ˧˥ kaʊ̯˥.ljaŋ》 ʈ͡ʂən˥˩.xan˥˩ ʂɨ˥˩.t͡ɕjɛ˥˩ iŋ˨˩.tʰan˧˥, pʰiŋ˧˥.t͡ɕjɛ˥˩ nʊŋ˧˥.ljɛ˥˩ ʈ͡ʂʰɨ˥˩.ʐɤ˥˩ tɤ sɤ˥˩.t͡sʰaɪ̯˨˩˦ t͡saʊ̯˥˩.ɕiŋ˧˥ y˨˩˦ t͡sʰɑŋ˥.mɑŋ˧˥ ta˥˩.t͡ɕʰi˥˩ tɤ koʊ̯˥˩.tʰu˧˥ ta˨˩.pʰwɔ˥˩ lɤ t͡ʂʰwan˧˥.tʰʊŋ˧˥ ɕi˥˩.t͡ɕy˥˩.xwa˥˩ ɕy˥˩.ʂɨ˥˩ mwo˧˥.ʂɨ˥˩] (Dì-wǔ dài dǎo-yǎn yǐ 《Huáng Tǔ-dì》 yǔ 《Hóng Gāo-liang》 zhèn-hàn shì-jiè yǐng-tán, píng-jiè nóng-liè chì-rè de sè-cǎi zào-xíng yǔ cāng-máng dà-qì de gòu-tú dǎ-pò le chuán-tǒng xì-jù-huà xù-shì mó-shì.)",
+          "translation": "The Fifth Generation directors shocked the world cinema with 'Yellow Earth' and 'Red Sorghum', breaking traditional dramatic narrative modes with intense, passionate color styling and vast, magnificent compositions."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (30.1.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "张艺谋在《大红灯笼高高挂》中运用极端严整对称的封闭式院落构图与刺目猩红，将封建宗法礼教对人性的残酷扼杀具象化为沉重的视觉隐喻。(Zhāng Yìmóu zài 《Dà Hóng Dēnglong Gāo Gāo Guà》 zhōng yùnyòng jíduān yánzhěng duìchèn de fēngbìshì yuànluò gòutú yǔ cìmù xīnghóng, jiāng fēngjiàn zōngfǎ lǐjiào duì rénxìng de cánkù èshā jùxiànghuà wéi chénzhòng de shìjué yǐnyù.)",
+          "reading": "[ʈ͡ʂɑŋ˥ i˥˩.moʊ̯˧˥ t͡saɪ̯˥˩ 《ta˥˩ xʊŋ˧˥ təŋ˥.lʊŋ kaʊ̯˥ kaʊ̯˥ kwa˥˩》 ʈ͡ʂʊŋ˥ yn˥˩.jʊŋ˥˩ t͡ɕi˧˥.twan˥ jan˧˥.ʈ͡ʂəŋ˨˩˦ tweɪ̯˥˩.ʈ͡ʂʰən˥˩ tɤ fəŋ˥.pi˥˩.ʂɨ˥˩ yɥɛn˥˩.lwɔ˥˩ koʊ̯˥˩.tʰu˧˥ y˨˩˦ t͡sʰɨ˥˩.mu˥˩ ɕiŋ˥.xʊŋ˧˥, t͡ɕjɑŋ˥ fəŋ˥.t͡ɕjɛn˥˩ t͡sʊŋ˥.fa˨˩˦ li˨˩.t͡ɕjaʊ̯˥˩ tweɪ̯˥˩ ʐən˧˥.ɕiŋ˥˩ tɤ t͡sʰan˧˥.kʰu˥˩ ɤ˥˩.ʂa˥ t͡ɕy˥˩.ɕjaŋ˥˩.xwa˥˩ weɪ̯˧˥ ʈ͡ʂʰən˧˥.ʈ͡ʂʊŋ˥˩ tɤ ʂɨ˥˩.t͡ɕɥɛ˧˥ in˨˩.y˥˩] (Zhāng Yì-móu zài 《Dà Hóng Dēng-long Gāo Gāo Guà》 zhōng yùn-yòng jí-duān yán-zhěng duì-chèn de fēng-bì-shì yuàn-luò gòu-tú yǔ cì-mù xīng-hóng, jiāng fēng-jiàn zōng-fǎ lǐ-jiào duì rén-xìng de cán-kù è-shā jù-xiàng-huà wéi chén-zhòng de shì-jué yǐn-yù.)",
+          "translation": "In 'Raise the Red Lantern', Zhang Yimou utilized extremely rigid and symmetrical closed-courtyard compositions alongside glaring scarlet to materialize the cruel strangulation of human nature by feudal patriarchal ethics into a weighty visual metaphor."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (30.1.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "陈凯歌执导的《霸王别姬》以「不疯魔不成活」的戏剧痴狂，熔铸个人命运与半个世纪历史风云于一炉，成就了华语史诗电影的巅峰之作。(Chén Kǎigē zhídǎo de 《Bàwáng Bié Jī》 yǐ \"bù fēngmó bù chéng huó\" de xìjù chīkuáng, róngzhù gèrén mìngyùn yǔ bàn gè shìjì lìshǐ fēngyún yú yī lú, chéngjiù le Huáyǔ shǐshī diànyǐng de diānfēng zhī zuò.)",
+          "reading": "[ʈ͡ʂʰən˧˥ kʰaɪ̯˨˩.kɤ˥ ʈ͡ʂʰɨ˧˥.taʊ̯˨˩˦ tɤ 《pa˥˩.wɑŋ˧˥ pjɛ˧˥ t͡ɕi˥》 i˨˩˦ \"pu˥ fəŋ˥.mwo˧˥ pu˥ ʈ͡ʂʰəŋ˧˥ xwo˧˥\" tɤ ɕi˥˩.t͡ɕy˥˩ t͡ʂʰɨ˥.kʰwaŋ˧˥, ʐʊŋ˧˥.ʈ͡ʂu˥˩ kɤ˥˩.ʐən˧˥ miŋ˥˩.yn˥˩ y˨˩˦ pan˥˩ kɤ˥˩ ʂɨ˥˩.t͡ɕi˥˩ lì.ʂɨ˨˩˦ fəŋ˥.yn˧˥ y˨˩˦ i˥ lu˧˥, ʈ͡ʂʰəŋ˧˥.t͡ɕjoʊ̯˥˩ lɤ xwa˧˥.y˨˩˦ ʂɨ˨˩.ʂɨ˥ tjɛn˥˩.iŋ˨˩.t͡sɨ-t͡swɔ˥˩] (Chén Kǎi-gē zhí-dǎo de 《Bà-wáng Bié Jī》 yǐ \"bù fēng-mó bù chéng huó\" de xì-jù chī-kuáng, róng-zhù gè-rén mìng-yùn yǔ bàn gè shì-jì lì-shǐ fēng-yún yú yī lú, chéng-jiù le Huá-yǔ shǐ-shī diàn-yǐng de diān-fēng zhī zuò.)",
+          "translation": "Chen Kaige's 'Farewell My Concubine', with its dramatic madness of 'either be obsessed or be nothing', fused individual destiny with half a century of turbulent history in a single crucible, achieving the pinnacle masterpiece of Chinese epic cinema."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (30.1.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "影片通过民俗奇观与身体仪式的视觉狂欢，深刻反思了古老农耕文明的沉重历史包袱与民族现代性阵痛。(Yǐngpiān tōngguò mínsú qíguān yǔ shēntǐ yíshì de shìjué kuánghuān, shēnkè fǎnsī le gǔlǎo nónggēng wénmíng de chénzhòng lìshǐ bāofu yǔ mínzú xiàndàixìng zhèntòng.)",
+          "reading": "[iŋ˨˩.pʰjɛn˥ tʰʊŋ˥.kwɔ˥˩ min˧˥.su˧˥ t͡ɕʰi˧˥.kwan˥ y˨˩˦ ʂən˥.tʰi˨˩˦ i˧˥.ʂɨ˥˩ tɤ ʂɨ˥˩.t͡ɕɥɛ˧˥ kʰwaŋ˧˥.xwan˥, ʂən˥.kʰɤ˥ fan˨˩.sɨ˥ lɤ ku˨˩.laʊ̯˨˩˦ nʊŋ˧˥.kəŋ˥ wən˧˥.miŋ˧˥ tɤ ʈ͡ʂʰən˧˥.ʈ͡ʂʊŋ˥˩ lì.ʂɨ˨˩˦ paʊ̯˥.fu y˨˩˦ min˧˥.t͡su˧˥ ɕjɛn˥˩.taɪ̯˥˩.ɕiŋ˥˩ ʈ͡ʂən˥˩.tʰʊŋ˥˩] (Yǐng-piān tōng-guò mín-sú qí-guān yǔ shēn-tǐ yí-shì de shì-jué kuáng-huān, shēn-kè fǎn-sī le gǔ-lǎo nóng-gēng wén-míng de chén-zhòng lì-shǐ bāo-fu yǔ mín-zú xiàn-dài-xìng zhèn-tòng.)",
+          "translation": "Through the visual carnival of folk spectacles and bodily rituals, the film profoundly reflected upon the heavy historical burden of ancient agrarian civilization and the pains of national modernity."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "第五代导黄土地，红高粱燃霸王痴；封建深院对称构，色彩造型史诗立！"
+      ],
+      "culturalNotes": [
+        "张艺谋《红高粱》（1988柏林金熊奖）与陈凯歌《霸王别姬》（1993戛纳金棕榈奖）是中国电影跻身世界电影艺术殿堂的划时代里程碑。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「当代影视艺术与审美批评 (Contemporary Cinema & Media Aesthetics)」（第1讲）的标准汉语规范？",
+          "prompt": "荣获第46届戛纳国际电影节最高奖「金棕榈奖」、被公认为华语史诗电影巅峰之作的陈凯歌导演作品是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「当代影视艺术与审美批评 (Contemporary Cinema & Media Aesthetics)」的核心语法法则与应用范例 (30.1.1)。",
-            "存在语序混乱且虚词误用的病句选项 (30.1.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (30.1.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (30.1.w3)"
+            "《霸王别姬》 (Farewell My Concubine)",
+            "《小时代》",
+            "《大话西游》",
+            "《泰囧》"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "《霸王别姬》由陈凯歌执导，张国荣、张丰毅、巩俐主演，是迄今唯一荣获戛纳金棕榈大奖的华语电影。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "中国「第五代导演」在视觉造型上最标志性的美学探索特征是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "高饱和度原色造型、压抑性对称空间构图与民俗奇观反思 (High saturation colors, symmetrical framing & folk spectacle)",
+            "只用黑白模糊画面拍家庭吵架",
+            "完全模仿低成本肥皂剧室内对话",
+            "全程只用文字不拍任何画面"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "色彩造型（浓烈红/黄）、对称压抑空间与民俗反思是第五代导演震撼世界影坛的核心美学标志。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「当代影视艺术与审美批评 (Contemporary Cinema & Media Aesthetics)」的正式语境下，最准确得体的表达是哪一项？（第30.1题）",
+          "prompt": "在《大红灯笼高高挂》中，张艺谋用来象征封建宗法礼教森严与女性被困窒息命运的视觉构图手段是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (30.1.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (30.1.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (30.1.x2)",
-            "量词与名词修饰搭配错误的病句选项 (30.1.x3)"
+            "极端严整对称的封闭式四合院深宅构图 (Extremely symmetrical, closed courtyard framing)",
+            "手持晃动镜头拍大街",
+            "彩色动漫特效",
+            "一镜到底长镜头拍风景"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "张艺谋通过严整对称的封闭式深宅大院构图，以几何冰冷的建筑结构具象化封建礼教的压迫窒息。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u30-l1）所要求的高阶语言表达？",
+          "prompt": "电影《霸王别姬》中程蝶衣一生人戏不分、执着于京剧艺术最高境界的经典台词是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (30.1.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (30.1.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (30.1.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (30.1.y3)"
+            "不疯魔不成活 (Either be obsessed or be nothing)",
+            "随随便便差不多就行",
+            "演戏就是为了下班吃饭",
+            "无所谓无所不能"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「不疯魔不成活」是《霸王别姬》程蝶衣戏痴人生的崇高写照与华语影史最经典名言。"
         }
       ]
     },
@@ -17570,25 +17574,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「当代影视艺术与审美批评 (Contemporary Cinema & Media Aesthetics)」的掌握程度，请选出表述完全正确的标准范句（测试 30-1）：",
+          "prompt": "请选出下列关于中国第五代电影美学批评最深刻、最精准的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (30.1.4)。",
-            "被动句式与处置句式混用导致的严重病句 (30.1.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (30.1.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (30.1.z3)"
+            "第五代导演以《黄土地》为起点发动了中国电影的美学革命：张艺谋在《红高粱》《大红灯笼高高挂》中以炽热猩红与压抑封闭对称构图，将民俗奇观与身体仪式升华为对宗法礼教的犀利解构；陈凯歌在《霸王别姬》中以「不疯魔不成活」的戏痴执念，将个人悲欢与半世纪历史风云融铸成悲壮史诗，奠定了华语电影在世界影坛的崇高地位！(人物、代表作、色彩造型、对称空间构图与历史反思，批评深度与艺术见解登峰造极)",
+            "第五代导演就是张艺谋一个人拍拍红灯笼，没有什么深刻的文化思考。(极度片面且常识性错误)",
+            "第五代电影被霸王别姬在红高粱构图民俗奇观。(词句生硬乱序堆叠)",
+            "第五代导演从来没有获得过任何国际电影节的任何奖项。(完全违背国际影史事实)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语段将第五代导演的代表巨作、色彩造型、封闭构图与历史批判精神融会贯通，是专业电影批评的典范。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u30-l1）的核心关键词（例如「当代影视」）：",
+          "prompt": "请输入由陈凯歌执导、荣获戛纳金棕榈大奖的华语影史巅峰巨作片名（四个字，例如《》；拼音为 Bàwáng Bié Jī）：",
           "acceptedAnswers": [
-            "当代影视",
-            "当代影视艺术",
-            "当代影视艺术与审美批评"
+            "霸王别姬"
           ],
-          "explanation": "正确的核心关键词为「当代影视」。"
+          "explanation": "电影《霸王别姬》是华语电影艺术的无可争议的登峰造极之作。"
         }
       ],
       "passThreshold": 0.8
@@ -17599,85 +17601,89 @@
     "subject": "mandarin",
     "unit": 30,
     "lessonNumber": 2,
-    "title": "当代影视艺术与审美批评 (Contemporary Cinema & Media Aesthetics) (第2讲)",
+    "title": "第六代独立电影与现实主义转向：城市边缘、纪实美学与个体经验 (Sixth Generation & Realism: Urban Margins, Documentary Aesthetics & Individual Agency)",
     "level": "C1",
-    "objective": "全面掌握与熟练运用本课核心内容：第五代/第六代导演电影美学、现实主义题材剧作分析与视听语言叙事批评。 (第2部分)。",
+    "objective": "系统掌握第六代导演（贾樟柯、王小帅、娄烨）独立电影美学、微观个体叙事转向、纪实长镜头与非职业演员美学、都市边缘空间与社会转型批评语体。",
     "presentation": {
-      "explanation": "",
+      "explanation": "20世纪90年代崛起的「第六代导演」，告别了第五代的宏大历史寓言，将镜头决然对准中国急剧城市化转型时期的微观个体生存困境与边缘空间：\n\n一、第六代领军导演与代表作品：\n1.【贾樟柯（纪实美学大师）】：\n-「故乡三部曲」（《小武》《站台》《任逍遥》）：以故乡山西汾阳为原点，真实呈现县城底层青年的迷茫与时代变迁。\n-《三峡好人》（2006，荣获第63届威尼斯国际电影节最高大奖「金狮奖」）：拆迁废墟与超现实主义神来之笔。\n-《天注定》《山河故人》《江湖儿女》：当代中国社会的深层阵痛与情感变迁。\n2.【王小帅】：\n-《十七岁的单车》《青红》《地久天长》（柏林电影节最佳男女演员双银熊奖），关注三线建设家庭命运与失落青春。\n3.【娄烨】：\n-《苏州河》《春风沉醉的夜晚》《风中有朵雨做的云》，晃动的主观手持摄影与迷离湿润的都市欲望流动。\n\n二、第六代电影美学核心特征：\n1.【从宏大寓言转向微观个体】：拒绝宏大叙事与英雄主义，关注县城小偷（小武）、矿工、拆迁移民、打工者等转型期的「时代失语者」。\n2.【纪实美学与视听语言】：写实长镜头（Long Take）、非职业演员（或素人本色出演）、现场同期声、粗粝方言，呈现未经修饰的生活原生态。\n3.【城市边缘与废墟空间】：县城录像厅、台球厅、拆迁废墟、城中村，展现现代化浪潮中被遗忘的空间角落。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「当代影视艺术与审美批评 (Contemporary Cinema & Media Aesthetics)」的核心语法法则与应用范例 (30.2.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '当代影视艺术与审美批评 (Contemporary Cinema & Media Aesthetics)' in simple terms to students at the academic seminar."
+          "target": "贾樟柯以故乡山西汾阳为原点，在《小武》与《站台》中采用大量写实长镜头与非职业演员，真实记录了中国社会转型期县城青年的迷茫与生存困境。(Jiǎ Zhāngkē yǐ gùxiāng Shānxī Fényáng wéi yuándiǎn, zài 《Xiǎo Wǔ》 yǔ 《Zhàntái》 zhōng cǎiyòng dàliàng xiěshí cháng-jìngtóu yǔ fēi-zhíyè yǎnyuán, zhēnshí jìlù le Zhōngguó shèhuì zhuǎnxíngqī xiànchéng qīngnián de mímáng yǔ shēngcún kùnjìng.)",
+          "reading": "[t͡ɕja˨˩˦ ʈ͡ʂɑŋ˥.kʰɤ˥ i˨˩˦ ku˥˩.ɕjaŋ˥ ʂan˥.ɕi˥ fən˧˥.jɑŋ˧˥ weɪ̯˧˥ yɥɛn˧˥.tjan˨˩˦, t͡saɪ̯˥˩ 《ɕjaʊ̯˨˩˦ u˨˩˦》 y˨˩˦ 《ʈ͡ʂan˥˩.tʰaɪ̯˧˥》 ʈ͡ʂʊŋ˥ t͡sʰaɪ̯˨˩.jʊŋ˥˩ ta˥˩.ljaŋ˥˩ ɕjɛ˨˩.ʂɨ˧˥ ʈ͡ʂʰɑŋ˧˥-t͡ɕiŋ˥˩.tʰoʊ̯˧˥ y˨˩˦ feɪ̯˥-ʈ͡ʂɨ˧˥.jɛ˥˩ jan˨˩.yɥɛn˧˥, ʈ͡ʂən˥.ʂɨ˧˥ t͡ɕi˥˩.lu˥˩ lɤ ʈ͡ʂʊŋ˥.kwo˧˥ ʂɤ˥˩.xweɪ̯˥˩ ʈ͡ʂwan˨˩.ɕiŋ˧˥.t͡ɕʰi˥ ɕjɛn˥˩.ʈ͡ʂʰəŋ˧˥ t͡ɕʰiŋ˥.njɛn˧˥ tɤ mi˧˥.mɑŋ˧˥ y˨˩˦ ʂəŋ˥.t͡sʰwn˧˥ kʰwn˥˩.t͡ɕiŋ˥˩] (Jiǎ Zhāng-kē yǐ gù-xiāng Shān-xī Fén-yáng wéi yuán-diǎn, zài 《Xiǎo Wǔ》 yǔ 《Zhàn-tái》 zhōng cǎi-yòng dà-liàng xiě-shí cháng-jìng-tóu yǔ fēi-zhí-yè yǎn-yuán, zhēn-shí jì-lù le Zhōng-guó shè-huì zhuǎn-xíng-qī xiàn-chéng qīng-nián de mí-máng yǔ shēng-cún kùn-jìng.)",
+          "translation": "Taking his hometown Fenyang in Shanxi as the origin, Jia Zhangke employed extensive realistic long takes and non-professional actors in 'Xiao Wu' and 'Platform', genuinely documenting the confusion and existential dilemmas of small-town youths during China's social transition."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (30.2.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "《三峡好人》将镜头对准拆迁废墟中的边缘底层群体，以超现实主义诗意神来之笔穿透粗粝的纪实影像，斩获威尼斯电影节金狮奖。(《Sānxiá Hǎorén》 jiāng jìngtóu duìzhǔn chāiqiān fèixū zhōng de biānyuán dǐcéng qúntǐ, yǐ chāoxiànshí-zhǔyì shīyì shénlái-zhī-bǐ chuāntòu cūlì de jìshí yǐngxiàng, zhǎnhuò Wēinísī Diànyǐngjié Jīnshī Jiǎng.)",
+          "reading": "[《san˥.ɕja˧˥ xaʊ̯˨˩.ʐən˧˥》 t͡ɕjɑŋ˥ t͡ɕiŋ˥˩.tʰoʊ̯˧˥ tweɪ̯˥˩.ʈ͡ʂwn˨˩˦ t͡ʂʰaɪ̯˥.t͡ɕʰjɛn˥ feɪ̯˥˩.ɕy˥ ʈ͡ʂʊŋ˥ tɤ pjɛn˥.yɥɛn˧˥ ti˨˩.t͡sʰəŋ˧˥ t͡ɕʰyn˧˥.tʰi˨˩˦, i˨˩˦ t͡sʰaʊ̯˥.ɕjɛn˥˩.ʂɨ˧˥-ʈ͡ʂu˨˩.i˥˩ ʂɨ˥.i˥˩ ʂən˧˥.laɪ̯˧˥-ʈ͡ʂɨ˥-pi˨˩˦ t͡ʂʰwan˥.tʰoʊ̯˥˩ t͡sʰu˥.li˥˩ tɤ t͡ɕi˥˩.ʂɨ˧˥ in˨˩.ɕjaŋ˥˩, ʈ͡ʂan˨˩.xwɔ˥˩ weɪ̯˥.ni˧˥.sɨ˥ tjɛn˥˩.iŋ˨˩.t͡ɕjɛ˧˥ t͡ɕin˥.ʂɨ˥ t͡ɕjaŋ˨˩˦] (《Sān-xiá Hǎo-rén》 jiāng jìng-tóu duì-zhǔn chāi-qiān fèi-xū zhōng de biān-yuán dǐ-céng qún-tǐ, yǐ chāo-xiàn-shí-zhǔ-yì shī-yì shén-lái-zhī-bǐ chuān-tòu cū-lì de jì-shí yǐng-xiàng, zhǎn-huò Wēi-ní-sī Diàn-yǐng-jié Jīn-shī Jiǎng.)",
+          "translation": "'Still Life' aimed its lens at marginalized grassroots populations amidst demolition ruins, penetrating gritty documentary images with surrealist poetic strokes of genius, winning the Golden Lion at the Venice Film Festival."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (30.2.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "第六代导演告别了第五代的宏大历史寓言，将审美视线坚定转向微观个体经验与都市边缘空间，开创了当代中国电影的纪实美学浪潮。(Dì-liù dài dǎoyǎn gàobié le Dì-wǔ dài de hóngdà lìshǐ yùyán, jiāng shěnměi shìxiàn jiāndìng zhuǎnhuàng wéi wēiguān gèrén jīngyàn yǔ dūshì biānyuán kōngjiān, kāichuàng le dāngdài Zhōngguó diànyǐng de jìshí shěnměi làngcháo.)",
+          "reading": "[ti˥˩-ljoʊ̯˥˩ taɪ̯˥˩ taʊ̯˨˩.jan˨˩˦ kaʊ̯˥˩.pjɛ˧˥ lɤ ti˥˩-u˨˩˦ taɪ̯˥˩ tɤ xʊŋ˧˥.ta˥˩ lì.ʂɨ˨˩˦ y˥˩.jan˧˥, t͡ɕjɑŋ˥ ʂən˨˩.meɪ̯˨˩˦ ʂɨ˥˩.ɕjɛn˥˩ t͡ɕjɛn˥.tiŋ˥˩ ʈ͡ʂwan˨˩.ɕjaŋ˥˩ weɪ̯˥.kwan˥ kɤ˥˩.ʐən˧˥ t͡ɕiŋ˥.jan˥˩ y˨˩˦ tu˥.ʂɨ˥˩ pjɛn˥.yɥɛn˧˥ kʰʊŋ˥.t͡ɕjɛ˥, kʰaɪ̯˥.t͡ʂʰwaŋ˥˩ lɤ tɑŋ˥.taɪ̯˥˩ ʈ͡ʂʊŋ˥.kwo˧˥ tjɛn˥˩.iŋ˨˩.tɤ t͡ɕi˥˩.ʂɨ˧˥ ʂən˨˩.meɪ̯˨˩˦ lɑŋ˥˩.t͡ʂʰaʊ̯˧˥] (Dì-liù dài dǎo-yǎn gào-bié le Dì-wǔ dài de hóng-dà lì-shǐ yù-yán, jiāng shěn-měi shì-xiàn jiān-dìng zhuǎn-xiàng wéi wēi-guān gè-rén jīng-yàn yǔ dū-shì biān-yuán kōng-jiān, kāi-chuàng le dāng-dài Zhōng-guó diàn-yǐng de jì-shí shěn-měi làng-cháo.)",
+          "translation": "The Sixth Generation directors bid farewell to the Fifth Generation's grand historical allegories, firmly shifting their aesthetic focus toward micro-individual experiences and urban marginal spaces, initiating the documentary aesthetic wave of contemporary Chinese cinema."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (30.2.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "娄烨导演在《苏州河》中通过晃动的主观手持镜头与独白式旁白叙事，构筑起迷离流动的世纪之交都市情感记忆。(Lóu Yè dǎoyǎn zài 《Sūzhōu Hé》 zhōng tōngguò huàngdòng de zhǔguān shǒuchí jìngtóu yǔ dúbáishì pángbái xùshì, gòuzhù qǐ mílí liúdòng de shìjì-zhī-jiāo dūshì qínggǎn jìyì.)",
+          "reading": "[loʊ̯˧˥ jɛ˥˩ taʊ̯˨˩.jan˨˩˦ t͡saɪ̯˥˩ 《su˥.ʈ͡ʂoʊ̯˥ xɤ˧˥》 ʈ͡ʂʊŋ˥ tʰʊŋ˥.kwɔ˥˩ xwaŋ˥˩.tʊŋ˥˩ tɤ ʈ͡ʂu˨˩.kwan˥ ʂoʊ̯˨˩.ʈ͡ʂʰɨ˧˥ t͡ɕiŋ˥˩.tʰoʊ̯˧˥ y˨˩˦ tu˧˥.paɪ̯˧˥.ʂɨ˥˩ pʰɑŋ˧˥.paɪ̯˧˥ ɕy˥˩.ʂɨ˥˩, koʊ̯˥˩.ʈ͡ʂu˥˩ t͡ɕʰi˨˩˦ mi˧˥.li˧˥ ljoʊ̯˧˥.tʊŋ˥˩ tɤ ʂɨ˥˩.t͡ɕi˥˩-ʈ͡ʂɨ˥-t͡ɕjaʊ̯˥ tu˥.ʂɨ˥˩ t͡ɕʰiŋ˧˥.kan˨˩˦ t͡ɕi˥˩.i˥˩] (Lóu Yè dǎo-yǎn zài 《Sū-zhōu Hé》 zhōng tōng-guò huàng-dòng de zhǔ-guān shǒu-chí jìng-tóu yǔ dú-bái-shì páng-bái xù-shì, gòu-zhù qǐ mí-lí liú-dòng de shì-jì-zhī-jiāo dū-shì qíng-gǎn jì-yì.)",
+          "translation": "Director Lou Ye constructed a blurred, fluid turn-of-the-century urban emotional memory in 'Suzhou River' through shaky subjective handheld cinematography and monologue voice-over narration."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "第六代转微观个，长镜实声小武活；三峡废墟金狮耀，边缘城市真实搏！"
+      ],
+      "culturalNotes": [
+        "贾樟柯执导的《三峡好人》在第63届威尼斯电影节摘得最高荣誉金狮奖，奠定了其国际独立电影大师的历史地位。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「当代影视艺术与审美批评 (Contemporary Cinema & Media Aesthetics)」（第2讲）的标准汉语规范？",
+          "prompt": "执导「故乡三部曲」（《小武》《站台》《任逍遥》》并凭《三峡好人》荣获威尼斯金狮奖的中国第六代代表导演是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「当代影视艺术与审美批评 (Contemporary Cinema & Media Aesthetics)」的核心语法法则与应用范例 (30.2.1)。",
-            "存在语序混乱且虚词误用的病句选项 (30.2.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (30.2.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (30.2.w3)"
+            "贾樟柯 (Jia Zhangke)",
+            "冯小刚",
+            "王晶",
+            "徐峥"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "贾樟柯是中国第六代导演的灵魂人物，以独特的纪实美学享誉国际影坛。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "中国第六代独立电影在叙事范式上最核心的美学转向是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "告别宏大历史寓言，转向微观个体经验与城市边缘空间纪实 (From grand allegories to micro-individual experience & urban margins)",
+            "全盘转向古装神话大片",
+            "完全模仿好莱坞超级英雄电影",
+            "放弃所有现实题材只拍外星人"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "第六代导演的根本转折在于从宏大历史神话叙事转向微观边缘个体的日常生活纪实。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「当代影视艺术与审美批评 (Contemporary Cinema & Media Aesthetics)」的正式语境下，最准确得体的表达是哪一项？（第30.2题）",
+          "prompt": "在电影《三峡好人》中，导演贾樟柯用来打破纯粹写实纪录、带来震撼超现实诗意的神来之笔镜头是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (30.2.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (30.2.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (30.2.x2)",
-            "量词与名词修饰搭配错误的病句选项 (30.2.x3)"
+            "拆迁废墟上空升空的飞碟 / 像火箭一样发射的移民纪念碑 (UFO in ruins / rocket-launching monument)",
+            "主角突然变身奥特曼打怪兽",
+            "满天飞舞的彩色卡通气球",
+            "全剧演员突然开始跳街舞"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "废墟上空的飞碟与形似火箭升空的纪念碑是《三峡好人》中最具天才创造力的超现实主义视听神来之笔。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u30-l2）所要求的高阶语言表达？",
+          "prompt": "娄烨导演在《苏州河》中用来制造沉浸式、私人化都市迷离情感记忆的摄影手法是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (30.2.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (30.2.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (30.2.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (30.2.y3)"
+            "主观晃动手持摄影与独白旁白 (Subjective handheld camera & monologue voice-over)",
+            "完全静止的固定机位大远景",
+            "无人机机械化俯瞰航拍",
+            "动画逐格拍摄"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "晃动的主观手持镜头（Handheld Camera）与主观第一人称旁白是娄烨极具作者辨识度的视听语言。"
         }
       ]
     },
@@ -17685,25 +17691,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「当代影视艺术与审美批评 (Contemporary Cinema & Media Aesthetics)」的掌握程度，请选出表述完全正确的标准范句（测试 30-2）：",
+          "prompt": "请选出下列关于第六代独立电影美学与现实主义转向述评最深刻、最精准的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (30.2.4)。",
-            "被动句式与处置句式混用导致的严重病句 (30.2.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (30.2.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (30.2.z3)"
+            "第六代导演开启了中国电影的现实主义纪实转向：贾樟柯以故乡汾阳与三峡废墟为地标，以长镜头、现场同期声与非职业演员记录转型期边缘群体的生存阵痛，在《三峡好人》中以超现实神笔摘得威尼斯金狮；王小帅深耕三线家庭个体记忆，娄烨以晃动手持镜头构筑都市欲望迷局。他们以冷峻而深情的影像，为时代变迁中的普通人留下了不可磨灭的真实档案！(贾樟柯、王小帅、娄烨美学风格全景梳理，长镜头、同期声、个体记忆与现实主义深刻剖析)",
+            "第六代导演拍的电影画面粗糙，没有任何艺术价值。(极度无知且缺乏专业审美素养)",
+            "第六代电影被贾樟柯在三峡好人长镜头超现实主义。(词句断裂错乱拼凑)",
+            "第六代电影全部都是商业搞笑喜剧片。(完全违背电影艺术基本常识)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语段全面概括了第六代电影的代表导演、纪实视听语言、底层关怀与美学历史贡献，评论精当有力。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u30-l2）的核心关键词（例如「当代影视」）：",
+          "prompt": "请输入由贾樟柯执导、在第63届威尼斯国际电影节荣获最高大奖「金狮奖」的经典影片片名（四个字，例如《》；拼音为 Sānxiá Hǎorén）：",
           "acceptedAnswers": [
-            "当代影视",
-            "当代影视艺术",
-            "当代影视艺术与审美批评"
+            "三峡好人"
           ],
-          "explanation": "正确的核心关键词为「当代影视」。"
+          "explanation": "电影《三峡好人》是贾樟柯荣获威尼斯最高大奖金狮奖的传世名作。"
         }
       ],
       "passThreshold": 0.8
@@ -17714,85 +17718,89 @@
     "subject": "mandarin",
     "unit": 30,
     "lessonNumber": 3,
-    "title": "当代影视艺术与审美批评 (Contemporary Cinema & Media Aesthetics) (第3讲)",
+    "title": "新主流大片与类型工业化：科幻重工业、主旋律叙事创新与视效奇观 (New Mainstream Blockbusters: Sci-Fi Industrialization & Visual Effects)",
     "level": "C1",
-    "objective": "全面掌握与熟练运用本课核心内容：第五代/第六代导演电影美学、现实主义题材剧作分析与视听语言叙事批评。 (第3部分)。",
+    "objective": "系统掌握现代电影重工业体系、科幻巨制工业化（《流浪地球》系列）、新主流大片叙事转型（平民英雄与家国情怀）、全流程视效（VFX）与虚拟制片批评语体。",
     "presentation": {
-      "explanation": "",
+      "explanation": "进入21世纪第二个十年，中国电影迎来了「工业化重构」与「新主流大片」的爆发式繁荣，实现了类型叙事与顶尖视效的跨越式飞跃：\n\n一、新主流大片与科幻工业化标志性作品：\n1.【郭帆《流浪地球》系列（2019/2023）】：\n- 开启中国硬核科幻电影工业化元年；打破西方科幻「飞船逃离」模式，提出「带着地球家园流浪」的深沉中国式土地家国情怀；建立重工业道具、机械外骨骼与数万个视效镜头的标准化制作管线。\n2.【乌尔善《封神三部曲》（2023）】：\n- 东方神话史诗的工业化重构，建立概念设计、实景搭建、马术动作与全流程视效工业化体系。\n3.【新主流大片叙事转型（《红海行动》《长津湖》《战狼2》）】：\n- 告别传统说教模式，融合好莱坞高概念（High Concept）强情节、快节奏商业类型片法则，以平民化英雄视角与生死与共的情感共鸣打动全球观众。\n\n二、电影重工业与前沿视听科技体系：\n1.【全流程数字视效管线（VFX Pipeline）】：高精物理渲染、流体动力学模拟（太空电梯、行星发动机喷射、粒子风暴）。\n2.【虚拟制片（Virtual Production）】：LED巨幕虚拟摄影、实时动作捕捉（MoCap）与预演（Previs），彻底重构影视创作流程。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「当代影视艺术与审美批评 (Contemporary Cinema & Media Aesthetics)」的核心语法法则与应用范例 (30.3.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '当代影视艺术与审美批评 (Contemporary Cinema & Media Aesthetics)' in simple terms to students at the academic seminar."
+          "target": "《流浪地球》以硬核机械重工业美学与「带着地球家园流浪」的深厚华夏土地情结，开辟了中国科幻电影的工业化新纪元。(《Liúlàng Dìqiú》 yǐ yìnghé jīxiè zhòng-gōngyè shěnměi yǔ \"dài zhe dìqiú jiāyuán liúlàng\" de shēnhòu Huáyǔ tǔdì qíngjié, kāipì le Zhōngguó kēhuàn diànyǐng de gōngyèhuà xīn jìyuán.)",
+          "reading": "[《ljoʊ̯˧˥.lɑŋ˥˩ ti˥˩.t͡ɕʰjoʊ̯˧˥》 i˨˩˦ iŋ˥˩.xɤ˧˥ t͡ɕi˥.ɕjɛ˥˩ ʈ͡ʂʊŋ˥-kʊŋ˥.jɛ˨˩˦ ʂən˨˩.meɪ̯˨˩˦ y˨˩˦ \"taɪ̯˥˩ ʈ͡ʂɤ ti˥˩.t͡ɕʰjoʊ̯˧˥ t͡ɕja˥.yɥɛn˧˥ ljoʊ̯˧˥.lɑŋ˥˩\" tɤ ʂən˥.xoʊ̯˥˩ xwa˧˥.y˨˩˦ tʰu˨˩.ti˥˩ t͡ɕʰiŋ˧˥.t͡ɕjɛ˧˥, kʰaɪ̯˥.pʰi˥˩ lɤ ʈ͡ʂʊŋ˥.kwo˧˥ kʰɤ˥.xwan˥˩ tjɛn˥˩.iŋ˨˩.tɤ kʊŋ˥.jɛ˨˩˦.xwa˥˩ ɕin˥ t͡ɕi˥˩.yɥɛn˧˥] (《Liú-làng Dì-qiú》 yǐ yìng-hé jī-xiè zhòng-gōng-yè shěn-měi yǔ \"dài zhe dì-qiú jiā-yuán liú-làng\" de shēn-hòu Huá-yǔ tǔ-dì qíng-jié, kāi-pì le Zhōng-guó kē-huàn diàn-yǐng de gōng-yè-huà xīn jì-yuán.)",
+          "translation": "'The Wandering Earth' inaugurated a new era of industrialization for Chinese sci-fi cinema with its hardcore mechanical heavy-industry aesthetics and profound Chinese land attachment of 'wandering with the Earth home'."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (30.3.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "新主流大片通过借鉴成熟的类型片叙事法则，将宏大国家主题叙事与微观平民英雄叙事相融合，实现了商业票房与主流价值观传播的双赢。(Xīn zhǔliú dàpiān tōngguò jièjiàn chéngshú de lèixíngpiān xùshì fǎzé, jiāng hóngdà guójiā zhǔtí xùshì yǔ wēiguān píngmín yīngxióng xùshì xiāng rónghé, shíxiàn le shāngyè piàofáng yǔ zhǔliú jiàzhíguān chuánbō de shuāngyíng.)",
+          "reading": "[ɕin˥ ʈ͡ʂu˨˩.ljoʊ̯˧˥ ta˥˩.pʰjɛn˥ tʰʊŋ˥.kwɔ˥˩ t͡ɕjɛ˥˩.t͡ɕjɛn˥˩ ʈ͡ʂʰəŋ˧˥.ʂu˧˥ tɤ leɪ̯˥˩.ɕiŋ˧˥.pʰjɛn˥ ɕy˥˩.ʂɨ˥˩ fa˨˩.t͡sɤ˧˥, t͡ɕjɑŋ˥ xʊŋ˧˥.ta˥˩ kwo˧˥.t͡ɕja˥ ʈ͡ʂu˨˩.tʰi˧˥ ɕy˥˩.ʂɨ˥˩ y˨˩˦ weɪ̯˥.kwan˥ pʰiŋ˧˥.min˧˥ in˥.ɕjʊŋ˧˥ ɕy˥˩.ʂɨ˥˩ ɕjaŋ˥ ʐʊŋ˧˥.xɤ˧˥, ʂɨ˧˥.ɕjɛn˥˩ lɤ ʂɑŋ˥.jɛ˨˩˦ pʰjaʊ̯˥˩.fɑŋ˧˥ y˨˩˦ ʈ͡ʂu˨˩.ljoʊ̯˧˥ t͡ɕja˥˩.ʈ͡ʂɨ˧˥.kwan˥ t͡ʂʰwan˧˥.pwo˥ tɤ ʂwaŋ˥.iŋ˧˥] (Xīn zhǔ-liú dà-piān tōng-guò jiè-jiàn chéng-shú de lèi-xíng-piān xù-shì fǎ-zé, jiāng hóng-dà guó-jiā zhǔ-tí xù-shì yǔ wēi-guān píng-mín yīng-xióng xù-shì xiāng róng-hé, shí-xiàn le shāng-yè piào-fáng yǔ zhǔ-liú jià-zhí-guān chuán-bō de shuāng-yíng.)",
+          "translation": "New Mainstream Blockbusters achieved a win-win between commercial box-office revenue and mainstream value dissemination by drawing on mature genre film narrative rules, fusing grand national theme narratives with micro-level civilian hero narratives."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (30.3.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "《封神三部曲》建立了从概念设计、全流程视效管线到演员工业化培训的完整制作标准，树立了东方神话史诗电影的工业标杆。(《Fēngshén Sānbùqǔ》 jiànlì le cóng gàiniàn shèjì, quán-liúchéng shìxiào guǎnxiàn dào yǎnyuán gōngyèhuà péixùn de wánzhěng zhìzuò biāozhǔn, shùlì le Dōngfāng shénhuà shǐshī diànyǐng de gōngyè biāogān.)",
+          "reading": "[《fəŋ˥.ʂən˧˥ san˥.pu˥˩.t͡ɕʰy˨˩˦》 t͡ɕjɛn˥˩.li˥˩ lɤ t͡sʰʊŋ˧˥ kaɪ̯˥˩.njɛn˥˩ ʂɤ˥˩.t͡ɕi˥˩, t͡ɕʰyɛn˧˥-ljoʊ̯˧˥.ʈ͡ʂʰəŋ˧˥ ʂɨ˥˩.ɕjaʊ̯˥˩ kwan˨˩.ɕjɛn˥˩ taʊ̯˥˩ jan˨˩.yɥɛn˧˥ kʊŋ˥.jɛ˨˩˦.xwa˥˩ pʰeɪ̯˧˥.ɕyn˥˩ tɤ wan˧˥.ʈ͡ʂəŋ˨˩˦ ʈ͡ʂɨ˥˩.t͡swɔ˥˩ pjaʊ̯˥.ʈ͡ʂwn˨˩˦, ʂu˥˩.li˥˩ lɤ tʊŋ˥.fɑŋ˥ ʂən˧˥.xwa˥˩ ʂɨ˨˩.ʂɨ˥ tjɛn˥˩.iŋ˨˩.tɤ kʊŋ˥.jɛ˨˩˦ pjaʊ̯˥.kan˥] (《Fēng-shén Sān-bù-qǔ》 jiàn-lì le cóng gài-niàn shè-jì, quán-liú-chéng shì-xiào guǎn-xiàn dào yǎn-yuán gōng-yè-huà péi-xùn de wán-zhěng zhì-zuò biāo-zhǔn, shù-lì le Dōng-fāng shén-huà shǐ-shī diàn-yǐng de gōng-yè biāo-gān.)",
+          "translation": "'Creation of the Gods' established complete production standards ranging from concept design and full-pipeline VFX to industrialized actor training, setting an industrial benchmark for Eastern mythological epic cinema."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (30.3.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "虚拟制片与实时动作捕捉技术的广泛应用，极大拓展了当代影视创作者的想象力维度与视效奇观表现力。(Xūnǐ zhìpiān yǔ shíshí dòngzuò bǔzhuō jìshù de guǎnfàn yìngyòng, jídà tuòzhǎn le dāngdài yǐngshì chuàngzuòzhě de xiǎngxiànglì wéidù yǔ shìxiào qíguān biǎoxiànlì.)",
+          "reading": "[ɕy˥.ni˨˩˦ ʈ͡ʂɨ˥˩.pʰjɛn˥ y˨˩˦ ʂɨ˧˥.ʂɨ˧˥ tʊŋ˥˩.t͡swɔ˥˩ pu˨˩.ʈ͡ʂwɔ˥ t͡ɕi˥˩.ʂu˥˩ tɤ kwan˨˩.fan˥˩ iŋ˥˩.jʊŋ˥˩, t͡ɕi˧˥.ta˥˩ tʰwɔ˥˩.ʈ͡ʂan˨˩˦ lɤ tɑŋ˥.taɪ̯˥˩ in˨˩.ʂɨ˥˩ t͡ʂʰwaŋ˥˩.t͡swɔ˥˩.ʈ͡ʂɤ˨˩˦ tɤ ɕjaŋ˨˩.ɕjaŋ˥˩.li˥˩ weɪ̯˧˥.tu˥˩ y˨˩˦ ʂɨ˥˩.ɕjaʊ̯˥˩ t͡ɕʰi˧˥.kwan˥ pjaʊ̯˨˩.ɕjɛn˥˩.li˨˩˦] (Xū-nǐ zhì-piān yǔ shí-shí dòng-zuò bǔ-zhuō jì-shù de guǎng-fàn yìng-yòng, jí-dà tuò-zhǎn le dāng-dài yǐng-shì chuàng-zuò-zhě de xiǎng-xiàng-lì wéi-dù yǔ shì-xiào qí-guān biǎo-xiàn-lì.)",
+          "translation": "The widespread application of virtual production and real-time motion capture technologies has immensely expanded contemporary filmmakers' dimensions of imagination and visual spectacle expressive power."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "流浪地球硬核开，工业重工封神台；新主流融平民泪，视效奇观铸未来！"
+      ],
+      "culturalNotes": [
+        "电影《流浪地球》（2019/2023）改编自刘慈欣同名科幻小说，以中国硬核重工业美学和家国大爱改写了世界科幻电影格局。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「当代影视艺术与审美批评 (Contemporary Cinema & Media Aesthetics)」（第3讲）的标准汉语规范？",
+          "prompt": "被誉为开启中国硬核科幻电影工业化元年、体现「带着地球家园去流浪」中国特色家国情怀的巨作是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「当代影视艺术与审美批评 (Contemporary Cinema & Media Aesthetics)」的核心语法法则与应用范例 (30.3.1)。",
-            "存在语序混乱且虚词误用的病句选项 (30.3.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (30.3.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (30.3.w3)"
+            "《流浪地球》 (The Wandering Earth)",
+            "《上海堡垒》",
+            "《人在囧途》",
+            "《前任攻略》"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "《流浪地球》由郭帆执导，吴京等主演，开启了中国科幻电影重工业化全新纪元。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "近年来中国「新主流大片」（如《长津湖》《红海行动》）在叙事上取得巨大商业成功的核心法宝是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "借鉴成熟类型片高强度对抗与快节奏，以平民英雄视角引发强烈共鸣 (Mature genre thrills & civilian hero perspectives)",
+            "只放长篇大论的政治宣讲",
+            "完全没有任何故事情节只有口号",
+            "把电影拍成无声纪录片"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "新主流大片将成熟商业类型片法则与真挚的家国平民英雄叙事深度融合，实现了口碑与票房双丰收。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「当代影视艺术与审美批评 (Contemporary Cinema & Media Aesthetics)」的正式语境下，最准确得体的表达是哪一项？（第30.3题）",
+          "prompt": "在现代电影重工业制作体系中，利用LED巨幕墙实时呈现虚拟场景并与摄像机追踪联动的拍摄革新技术被称为：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (30.3.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (30.3.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (30.3.x2)",
-            "量词与名词修饰搭配错误的病句选项 (30.3.x3)"
+            "虚拟制片 (Virtual Production)",
+            "画画上色",
+            "洗印胶片",
+            "拉幕布放映"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「虚拟制片」（Virtual Production）是影视工业化的前沿制高点，实现所见即所得的沉浸式拍摄。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u30-l3）所要求的高阶语言表达？",
+          "prompt": "由乌尔善执导、开创中国东方神话史诗全流程工业化与新人演员系统化培养的标杆三部曲是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (30.3.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (30.3.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (30.3.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (30.3.y3)"
+            "《封神三部曲》 (Creation of the Gods)",
+            "《小时代三部曲》",
+            "《煎饼侠》",
+            "《港囧》"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "《封神三部曲》建立了中国东方神话史诗电影从概念设计到全流程工业化制作的最高标杆。"
         }
       ]
     },
@@ -17800,25 +17808,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「当代影视艺术与审美批评 (Contemporary Cinema & Media Aesthetics)」的掌握程度，请选出表述完全正确的标准范句（测试 30-3）：",
+          "prompt": "请选出下列关于中国电影重工业化与新主流大片述评最全面、最深刻的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (30.3.4)。",
-            "被动句式与处置句式混用导致的严重病句 (30.3.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (30.3.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (30.3.z3)"
+            "中国电影迎来了工业化重塑与类型创新的黄金时代：《流浪地球》以硬核机械美学与数万视效镜头开辟科幻重工业元年，用「带着地球流浪」诠释深厚的家国眷恋；《封神三部曲》以全流程视效管线树立神话史诗工业标杆；新主流大片以高概念类型法则融合微观平民英雄叙事，在虚拟制片与前沿数字科技赋能下，展现出强劲的文化自信与视效奇观魅力！(科幻重工业、带着地球流浪家国情怀、封神神话工业化、新主流类型叙事与虚拟制片，全景分析精准深刻)",
+            "中国电影工业化就是多花钱买外国特效，没有任何自己的文化内涵。(严重偏见且完全忽视本土文化创新)",
+            "科幻工业化被流浪地球在封神虚拟制片新主流大片。(生硬罗列无逻辑)",
+            "电影只要有明星脸就行，不需要任何视效工业化标准。(违背现代电影工业基本规律)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语段将科幻工业化、新主流平民叙事、神话史诗重塑与前沿视听科技融会贯通，评析精深，气魄宏大。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u30-l3）的核心关键词（例如「当代影视」）：",
+          "prompt": "请输入改编自刘慈欣小说、由郭帆执导并开启中国科幻电影工业化元年的里程碑巨作片名（四个字，例如《》；拼音为 Liúlàng Dìqiú）：",
           "acceptedAnswers": [
-            "当代影视",
-            "当代影视艺术",
-            "当代影视艺术与审美批评"
+            "流浪地球"
           ],
-          "explanation": "正确的核心关键词为「当代影视」。"
+          "explanation": "电影《流浪地球》是中国科幻电影重工业化的奠基之作。"
         }
       ],
       "passThreshold": 0.8
@@ -17829,85 +17835,89 @@
     "subject": "mandarin",
     "unit": 30,
     "lessonNumber": 4,
-    "title": "当代影视艺术与审美批评 (Contemporary Cinema & Media Aesthetics) (第4讲)",
+    "title": "影视视听语言分析与高级审美批评术语 (Film Semiotics, Audiovisual Syntax & Critical Aesthetics)",
     "level": "C1",
-    "objective": "全面掌握与熟练运用本课核心内容：第五代/第六代导演电影美学、现实主义题材剧作分析与视听语言叙事批评。 (第4部分)。",
+    "objective": "系统掌握电影符号学与专业视听语言语法（景别角度、深焦长镜头与蒙太奇剪辑、场面调度Mise-en-scène、声画对位与审美间离）及高端学术影评撰写语体。",
     "presentation": {
-      "explanation": "",
+      "explanation": "专业的影视审美批评建立在对视听语言（Audiovisual Language）语法体系的精准解构之上：\n\n一、镜头、景别与机位角度语法体系：\n1.【景别序列】：大远景（EFS，环境宏大）、远景（FS）、全景（WS，全身动作）、中景（MS，半身交流）、近景（MCU，面部情绪）、特写（CU，细微心理）、大特写（ECU，极限细节震撼）。\n2.【机位角度与视线】：仰拍（崇高/压迫/威严）、俯拍（渺小/脆弱/宿命感）、平拍（客观/中立）、倾斜角度（荷兰角，失衡/心理异常）。\n\n二、时空蒙太奇与场面调度（Mise-en-scène）：\n1.【剪辑蒙太奇】：\n- 平行蒙太奇（两条线索同步发展）、交叉蒙太奇（两条线索交替加速最后汇聚，如惊险营救）、理性蒙太奇（爱森斯坦隐喻联想）。\n2.【场面调度与深焦摄影】：\n- 深焦摄影（Deep Focus）：前景、中景、后景全部清晰呈现，赋予观众自主选择观看的民主性。\n- 空间场面调度（演员走位、光影明暗、道具位置关系构成的戏剧张力）。\n\n三、声音艺术与视听批评高阶范畴：\n1.【声画关系】：声画同步、声画对位（音画反差，如以欢快圆舞曲衬托残酷暴力）、画外音（Voice-over）。\n2.【批评术语】：审美间离效果（Alienation Effect）、男性凝视（Male Gaze）、互文性（Intertextuality）、视听符码（Semiotics）。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「当代影视艺术与审美批评 (Contemporary Cinema & Media Aesthetics)」的核心语法法则与应用范例 (30.4.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '当代影视艺术与审美批评 (Contemporary Cinema & Media Aesthetics)' in simple terms to students at the academic seminar."
+          "target": "导演通过精妙的场面调度与深焦摄影，在同一画面内构建出多重人物关系与前景后景的张力对比。(Dǎoyǎn tōngguò jīngmiào de chǎngmiàn diàodù yǔ shēnjiāo shèyǐng, zài tóngyī huàmiàn nèi gòujiàn chū duōzhòng rénwù guānxi yǔ qiánjǐng hòujǐng de zhānglì duìbǐ.)",
+          "reading": "[taʊ̯˨˩.jan˨˩˦ tʰʊŋ˥.kwɔ˥˩ t͡ɕiŋ˥.mjaʊ̯˥˩ tɤ ʈ͡ʂʰɑŋ˨˩.mjɛn˥˩ tjaʊ̯˥.tu˥˩ y˨˩˦ ʂən˥.t͡ɕjaʊ̯˥ ʂɤ˥˩.iŋ˨˩˦, t͡saɪ̯˥˩ tʰʊŋ˧˥.i˥ xwa˥˩.mjɛn˥˩ neɪ̯˥˩ koʊ̯˥˩.t͡ɕjɛn˥˩ t͡ʂʰu˥ twɔ˥.ʈ͡ʂʊŋ˥˩ ʐən˧˥.u˥˩ kwan˥.ɕi y˨˩˦ t͡ɕʰjɛn˧˥.t͡ɕiŋ˨˩˦ xoʊ̯˥˩.t͡ɕiŋ˨˩˦ tɤ ʈ͡ʂɑŋ˥.li˥˩ tweɪ̯˥˩.pi˨˩˦] (Dǎo-yǎn tōng-guò jīng-miào de chǎng-miàn diào-dù yǔ shēn-jiāo shè-yǐng, zài tóng-yī huà-miàn nèi gòu-jiàn chū duō-zhòng rén-wù guān-xi yǔ qián-jǐng hòu-jǐng de zhāng-lì duì-bǐ.)",
+          "translation": "Through exquisite mise-en-scène and deep-focus cinematography, the director constructed multiple character relationships and tension contrasts between foreground and background within the same frame."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (30.4.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "影片在高潮段落运用交替加速的交叉蒙太奇剪辑，将两组时空中的生死博弈剪辑在一起，制造出令人窒息的戏剧悬念与节奏张力。(Yǐngpiān zài gāocháo duànluò yùnyòng jiāotì jiāsù de jiāochā méngtàiqí jiǎnjí, jiāng liǎng zǔ shíkōng zhōng de shēngsǐ bóyì jiǎnjí zài yīqǐ, zhìzào chū lìngrén zhìxī de xìjù xuánniàn yǔ jiézòu zhānglì.)",
+          "reading": "[iŋ˨˩.pʰjɛn˥ t͡saɪ̯˥˩ kaʊ̯˥.t͡ʂʰaʊ̯˧˥ twan˥˩.lwɔ˥˩ yn˥˩.jʊŋ˥˩ t͡ɕjaʊ̯˥.tʰi˥˩ t͡ɕja˥.su˥˩ tɤ t͡ɕjaʊ̯˥.t͡ʂʰa məŋ˧˥.tʰaɪ̯˥˩.t͡ɕʰi˧˥ t͡ɕjɛn˨˩.t͡ɕi˧˥, t͡ɕjɑŋ˥ ljaŋ˨˩˦ t͡su˨˩˦ ʂɨ˧˥.kʰʊŋ˥ ʈ͡ʂʊŋ˥ tɤ ʂəŋ˥.sɨ˨˩˦ pwo˧˥.i˥˩ t͡ɕjɛn˨˩.t͡ɕi˧˥ t͡saɪ̯˥˩ i˥.t͡ɕʰi˨˩˦, ʈ͡ʂɨ˥˩.t͡saʊ̯˥˩ t͡ʂʰu˥ liŋ˥˩.ʐən˧˥ ʈ͡ʂɨ˥˩.ɕi˥ tɤ ɕi˥˩.t͡ɕy˥˩ ɕyɛn˧˥.njɛn˥˩ y˨˩˦ t͡ɕjɛ˧˥.t͡soʊ̯˥˩ ʈ͡ʂɑŋ˥.li˥˩] (Yǐng-piān zài gāo-cháo duàn-luò yùn-yòng jiāo-tì jiā-sù de jiāo-tì jiāo-chā méng-tài-qí jiǎn-jí, jiāng liǎng zǔ shí-kōng zhōng de shēng-sǐ bó-yì jiǎn-jí zài yī-qǐ, zhì-zào chū lìng-rén zhì-xī de xì-jù xuán-niàn yǔ jié-zòu zhāng-lì.)",
+          "translation": "In the climax, the film employed alternately accelerating cross-cutting montage, cutting together life-and-death contests in two spatio-temporal settings to generate suffocating dramatic suspense and rhythmic tension."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (30.4.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "声画对位手法的创造性运用，以欢快悠扬的古典交响乐衬托惨烈悲壮的战争图景，产生了极具反差震撼力的审美间离效果。(Shēng-huà duìwèi shǒufǎ de chuàngzàoxìng yùnyòng, yǐ huānkuài yōuyáng de gǔdiǎn jiāoxiǎngyuè chèntuō cǎnliè bēizhuàng de zhànzhēng tújǐng, chǎnshēng le jījù fǎnchā zhènhànlì de shěnměi jiānlí xiàoguǒ.)",
+          "reading": "[ʂəŋ˥-xwa˥˩ tweɪ̯˥˩.weɪ̯˥˩ ʂoʊ̯˨˩.fa˨˩˦ tɤ t͡ʂʰwaŋ˥˩.t͡saʊ̯˥˩.ɕiŋ˥˩ yn˥˩.jʊŋ˥˩, i˨˩˦ xwan˥.kʰwaɪ̯˥˩ joʊ̯˥.jɑŋ˧˥ tɤ ku˨˩.tjan˨˩˦ t͡ɕjaʊ̯˥.ɕjaŋ˨˩˦.yɛ˥˩ t͡ʂʰən˥˩.tʰwɔ˥ t͡sʰan˨˩.ljɛ˥˩ peɪ̯˥.ʈ͡ʂwaŋ˥˩ tɤ ʈ͡ʂan˥˩.ʈ͡ʂəŋ˥ tu˧˥.t͡ɕiŋ˨˩˦, t͡ʂʰan˨˩.ʂəŋ˥ lɤ t͡ɕi˧˥.t͡ɕy˥˩ fan˨˩.t͡ʂʰa˥ ʈ͡ʂən˥˩.xan˥˩.li˥˩ tɤ ʂən˨˩.meɪ̯˨˩˦ t͡ɕjɛn˥.li˧˥ ɕjaʊ̯˥˩.kwo˨˩˦] (Shēng-huà duì-wèi shǒu-fǎ de chuàng-zào-xìng yùn-yòng, yǐ huān-kuài yōu-yáng de gǔ-diǎn jiāo-xiǎng-yuè chèn-tuō cǎn-liè bēi-zhuàng de zhàn-zhēng tú-jǐng, chǎn-shēng le jí-jù fǎn-chā zhèn-hàn-lì de shěn-měi jiān-lí xiào-guǒ.)",
+          "translation": "The creative use of audiovisual counterpoint, contrasting cheerful, melodious classical symphony with tragic, brutal war scenes, produced a deeply shocking aesthetic alienation effect born of immense contrast."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (30.4.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "专业的电影审美批评要求跳脱单纯的剧情复述，深入文本细读与视听符码层面揭示影像背后的文化意蕴与意识形态编码。(Zhuānyè de diànyǐng shěnměi pīpíng yāoqiú tiàotuō dānchún de jùqíng fùshù, shēnrù wénběn xìdú yǔ shìtīng fúmǎ céngmiàn jiēshì yǐngxiàng bèihòu de wénhuà yìyùn yǔ yìshí-xíngtài biānmǎ.)",
+          "reading": "[ʈ͡ʂwan˥.jɛ˥˩ tɤ tjɛn˥˩.iŋ˨˩.ʂən˨˩.meɪ̯˨˩˦ pʰi˥.pʰiŋ˧˥ jaʊ̯˥.t͡ɕʰjoʊ̯˥ tʰjaʊ̯˥˩.tʰwɔ˥ tan˥.t͡ʂʰwn˧˥ tɤ t͡ɕy˥˩.t͡ɕʰiŋ˧˥ fu˥˩.ʂu˥˩, ʂən˥.ʐu˥ wən˧˥.pən˨˩˦ ɕi˥˩.tu˧˥ y˨˩˦ ʂɨ˥˩.tʰiŋ˥ fu˧˥.ma˨˩˦ t͡sʰəŋ˧˥.mjɛn˥˩ t͡ɕjɛ˥.ʂɨ˥˩ in˨˩.ɕjaŋ˥˩ peɪ̯˥˩.xoʊ̯˥˩ tɤ wən˧˥.xwa˥˩ i˥˩.yn˥˩ y˨˩˦ i˥˩.ʂɨ˧˥-ɕiŋ˧˥.tʰaɪ̯˥˩ pjɛn˥.ma˨˩˦] (Zhuān-yè de diàn-yǐng shěn-měi pī-píng yāo-qiú tiào-tuō dān-chún de jù-qíng fù-shù, shēn-rù wén-běn xì-dú yǔ shì-tīng fú-mǎ céng-miàn jiē-shì yǐng-xiàng bèi-hòu de wén-huà yì-yùn yǔ yì-shí-xíng-tài biān-mǎ.)",
+          "translation": "Professional cinematic aesthetic criticism demands breaking away from simplistic plot recounting, delving into textual close reading and audiovisual semiotic levels to reveal the cultural connotations and ideological encoding behind the imagery."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "景别调度深焦控，交叉蒙太时空弄；声画对位间离效，视听细读品意浓！"
+      ],
+      "culturalNotes": [
+        "从巴赞的「长镜头深焦理论」到爱森斯坦的「蒙太奇学说」，视听语言语法是世界电影学术研究通用的核心分析工具。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「当代影视艺术与审美批评 (Contemporary Cinema & Media Aesthetics)」（第4讲）的标准汉语规范？",
+          "prompt": "在电影剪辑中，将处于两个不同空间同时发生、相互关联并不断加速交替切换以制造强烈戏剧悬念的技巧是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「当代影视艺术与审美批评 (Contemporary Cinema & Media Aesthetics)」的核心语法法则与应用范例 (30.4.1)。",
-            "存在语序混乱且虚词误用的病句选项 (30.4.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (30.4.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (30.4.w3)"
+            "交叉蒙太奇 / 交叉剪辑 (Cross-cutting / Inter-cutting montage)",
+            "跳切",
+            "黑屏淡出",
+            "乱剪一通"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "交叉蒙太奇（Cross-cutting）常用于惊险营救或生死对决高潮，制造强烈的戏剧张力与节奏感。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在声画关系中，当画面的悲惨残酷与声音音乐的欢快优美形成极度反差、引发观众理性反思的艺术手法是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "声画对位 (Audiovisual Counterpoint)",
+            "声画同步",
+            "无声哑剧",
+            "噪音干扰"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「声画对位」（Counterpoint）利用声音与画面的情绪反差，创造出强烈的审美间离与讽刺批判力量。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「当代影视艺术与审美批评 (Contemporary Cinema & Media Aesthetics)」的正式语境下，最准确得体的表达是哪一项？（第30.4题）",
+          "prompt": "在电影摄影中，使画面中的前景、中景与远景都保持高度清晰锐利、让观众自由选择关注焦点的摄影技术是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (30.4.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (30.4.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (30.4.x2)",
-            "量词与名词修饰搭配错误的病句选项 (30.4.x3)"
+            "深焦摄影 (Deep Focus)",
+            "浅景深虚化",
+            "镜头模糊失焦",
+            "全黑曝光不足"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "深焦摄影（Deep Focus）是现实主义长镜头美学的技术基石，展现多层次空间细节与人物关系。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u30-l4）所要求的高阶语言表达？",
+          "prompt": "影视批评中，借用戏剧大师布莱希特概念、指通过特殊形式打破观众对剧情的盲目沉迷、促使其保持清醒理性反思的效果是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (30.4.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (30.4.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (30.4.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (30.4.y3)"
+            "审美间离效果 / 间离效应 (Alienation Effect / Verfremdungseffekt)",
+            "催眠效应",
+            "白日梦效应",
+            "盲从效应"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「间离效果」（Alienation Effect）旨在阻断情绪无脑共情，激发观众理性的社会批判意识。"
         }
       ]
     },
@@ -17915,25 +17925,25 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「当代影视艺术与审美批评 (Contemporary Cinema & Media Aesthetics)」的掌握程度，请选出表述完全正确的标准范句（测试 30-4）：",
+          "prompt": "请选出下列影视视听语言与审美批评分析中术语最专业、逻辑最严密的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (30.4.4)。",
-            "被动句式与处置句式混用导致的严重病句 (30.4.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (30.4.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (30.4.z3)"
+            "专业的影视审美批评建立在精密的视听语言解构之上：场面调度通过人物走位与深焦摄影在景深内构建复杂张力；交叉蒙太奇以多线交织加速推进高潮悬念；声画对位更以音画情绪的强烈背离引发深刻的审美间离反思。跳脱单纯的剧情复述，深入视听符码与意识形态细读，方能洞察光影背后的文化真谛！(场面调度、深焦摄影、交叉蒙太奇、声画对位与审美间离，视听语法批评逻辑无懈可击)",
+            "看电影就是看哪个明星长得好看，特效打得热闹就行，不需要懂什么镜头语言。(缺乏专业批评素养的普通娱乐心态)",
+            "深焦摄影被声画对位在交叉蒙太奇场面调度间离效果。(专业词汇无序堆积)",
+            "电影的所有镜头都是随便拍的，没有任何艺术构思与符号学意图。(根本性否定影视艺术创作规律)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语段将场面调度、深焦摄影、交叉蒙太奇、声画对位与符号学细读有机融合，是专业电影批评的典范。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u30-l4）的核心关键词（例如「当代影视」）：",
+          "prompt": "请输入影视艺术中借用布莱希特理论、通过形式反差促使观众跳脱情感沉迷而进行理性批判思考的核心四字美学效果（例如「效应」；拼音为 jiānlí xiàoguǒ）：",
           "acceptedAnswers": [
-            "当代影视",
-            "当代影视艺术",
-            "当代影视艺术与审美批评"
+            "间离效果",
+            "间离效应",
+            "审美间离"
           ],
-          "explanation": "正确的核心关键词为「当代影视」。"
+          "explanation": "术语「间离效果」（Alienation Effect）是电影美学与现代戏剧批评中极具深度的高级概念。"
         }
       ],
       "passThreshold": 0.8
@@ -17944,85 +17954,89 @@
     "subject": "mandarin",
     "unit": 30,
     "lessonNumber": 5,
-    "title": "当代影视艺术与审美批评 (Contemporary Cinema & Media Aesthetics) (第5讲)",
+    "title": "光影流年、时代镜像与光影视听批评综合叙事篇章 (Comprehensive Cinema & Media Aesthetics: Time, Mirror & Critical Essay)",
     "level": "C1",
-    "objective": "全面掌握与熟练运用本课核心内容：第五代/第六代导演电影美学、现实主义题材剧作分析与视听语言叙事批评。 (第5部分)。",
+    "objective": "融会贯通第五代民俗造型与历史反思、第六代城市纪实与微观关怀、新主流电影工业化与科幻奇观，以及专业视听语言语法（蒙太奇/深焦/场面调度/声画对位），撰写具有深刻人文反思与雄浑美学气魄的当代中国电影与影视批评综合语篇。",
     "presentation": {
-      "explanation": "",
+      "explanation": "本课是当代中国影视艺术与视听审美批评的巅峰综合篇章，融通了四十年中国光影流变与影像美学范式跃迁：\n\n一、当代中国影视艺术四大美学流变图谱：\n1.【第五代历史文化反思】：以《黄土地》《红高粱》《霸王别姬》为代表，凭借浓烈原色造型、压抑对称空间与民俗狂欢，震撼世界影坛并斩获金棕榈、金熊大奖。\n2.【第六代城市纪实与微观转向】：以贾樟柯《小武》《三峡好人》（威尼斯金狮）为标志，以长镜头、现场同期声与非职业演员，记录转型期边缘小人物的生存尊严。\n3.【新主流与科幻重工业时代】：以《流浪地球》《封神三部曲》为引领，建立标准化工业视效管线与虚拟制片，以「带着地球流浪」的深厚家国情怀重塑中国科幻与神话史诗。\n4.【视听语言与审美批评语法】：熟练运用深焦摄影、交叉蒙太奇、声画对位与审美间离，开展高水准的文本细读与文化符码解构。\n\n二、全景式光影时代镜像与视听批评综合范文赏析：\n- 光影如炬，映照时代；视听生辉，淬炼精神。电影是流动的建筑，更是民族心灵的时代镜像。回眸当代中国影视四十年波澜壮阔的美学征程：第五代导演以《黄土地》与《红高粱》破茧而出，浓烈赤诚的原色造型与严整对称的深宅构图，在《霸王别姬》「不疯魔不成活」的戏痴史诗中斩获戛纳金棕榈，铸就历史反思的丰碑；第六代导演则将审美视线决然转向微观个体，贾樟柯以故乡汾阳与三峡废墟为舞台，凭借写实长镜头与非职业演员的粗粝真实，在超现实神笔中勇夺威尼斯金狮，为转型期时代失语者立传；迈入新时代，《流浪地球》以硬核机械重工业与「带着家园流浪」的东方土地情怀开启科幻元年，新主流大片更在视效奇观与平民英雄叙事中引发全民共鸣。运用深焦摄影、交叉蒙太奇与声画对位的精深视听语法，当代中国影视批评正以开阔深邃的学术理性，深度解构光影背后的文化符码与精神密码，见证华语影像艺术在世界文明交融互鉴中绽放历久弥新的光芒！",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「当代影视艺术与审美批评 (Contemporary Cinema & Media Aesthetics)」的核心语法法则与应用范例 (30.5.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '当代影视艺术与审美批评 (Contemporary Cinema & Media Aesthetics)' in simple terms to students at the academic seminar."
+          "target": "电影是时代的镜像与民族心灵的折射，百年中国光影在历史反思、现实关怀与工业重塑中谱写出波澜壮阔的视觉史诗。(Diànyǐng shì shídài de jìngxiàng yǔ mínzú xīnlíng de zhéshè, bǎinián Zhōngguó guāngyǐng zài lìshǐ fǎnsī, xiànshí guānhuái yǔ gōngyè chóngsù zhōng pǔxiě chū bōlán-kuàngzuò de shìjué shǐshī.)",
+          "reading": "[tjɛn˥˩.iŋ˨˩.ʂɨ˥˩ ʂɨ˧˥.taɪ̯˥˩ tɤ t͡ɕiŋ˥˩.ɕjaŋ˥˩ y˨˩˦ min˧˥.t͡su˧˥ ɕin˥.liŋ˧˥ tɤ ʈ͡ʂɤ˧˥.ʂɤ˥˩, paɪ̯˨˩.njɛn˧˥ ʈ͡ʂʊŋ˥.kwo˧˥ kwaŋ˥.iŋ˨˩˦ t͡saɪ̯˥˩ lì.ʂɨ˨˩˦ fan˨˩.sɨ˥, ɕjɛn˥˩.ʂɨ˧˥ kwan˥.xwaɪ̯˧˥ y˨˩˦ kʊŋ˥.jɛ˨˩˦ ʈ͡ʂʰʊŋ˧˥.su˥˩ ʈ͡ʂʊŋ˥ pʰu˨˩.ɕjɛ˨˩˦ t͡ʂʰu˥ pwo˥.lan˧˥-kʰwaŋ˥˩.t͡swɔ˥˩ tɤ ʂɨ˥˩.t͡ɕɥɛ˧˥ ʂɨ˨˩.ʂɨ˥] (Diàn-yǐng shì shí-dài de jìng-xiàng yǔ mín-zú xīn-líng de zhé-shè, bǎi-nián Zhōng-guó guāng-yǐng zài lì-shǐ fǎn-sī, xiàn-shí guān-huái yǔ gōng-yè chóng-sù zhōng pǔ-xiě chū bō-lán-kuàng-zuò de shì-jué shǐ-shī.)",
+          "translation": "Cinema is a mirror of the times and a refraction of the national soul; a century of Chinese film has composed a magnificent visual epic amidst historical reflection, realistic care, and industrial reshaping."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (30.5.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "从第五代《黄土地》《霸王别姬》苍茫炽烈的文化寻根，到第六代《小武》《三峡好人》粗粝深情的纪实凝视，中国电影完成了从宏大寓言向个体经验的深刻跃迁。(Cóng Dì-wǔ dài 《Huáng Tǔdì》《Bàwáng Bié Jī》 cāngmáng chìrè de wénhuà xúngēn, dào Dì-liù dài 《Xiǎo Wǔ》《Sānxiá Hǎorén》 cūlì shēnqíng de jìshí níngshì, Zhōngguó diànyǐng wánchéng le cóng hóngdà yùyán xiàng gèrén jīngyàn de shēnkè yuèqiān.)",
+          "reading": "[t͡sʰʊŋ˧˥ ti˥˩-u˨˩˦ taɪ̯˥˩ 《xwaŋ˧˥ tʰu˨˩.ti˥˩》《pa˥˩.wɑŋ˧˥ pjɛ˧˥ t͡ɕi˥》 t͡sʰɑŋ˥.mɑŋ˧˥ ʈ͡ʂʰɨ˥˩.ʐɤ˥˩ tɤ wən˧˥.xwa˥˩ ɕyn˧˥.kən˥, taʊ̯˥˩ ti˥˩-ljoʊ̯˥˩ taɪ̯˥˩ 《ɕjaʊ̯˨˩˦ u˨˩˦》《san˥.ɕja˧˥ xaʊ̯˨˩.ʐən˧˥》 t͡sʰu˥.li˥˩ ʂən˥.t͡ɕʰiŋ˧˥ tɤ t͡ɕi˥˩.ʂɨ˧˥ niŋ˧˥.ʂɨ˥˩, ʈ͡ʂʊŋ˥.kwo˧˥ tjɛn˥˩.iŋ˨˩.wan˧˥.ʈ͡ʂʰəŋ˧˥ lɤ t͡sʰʊŋ˧˥ xʊŋ˧˥.ta˥˩ y˥˩.jan˧˥ ɕjaŋ˥˩ kɤ˥˩.ʐən˧˥ t͡ɕiŋ˥.jan˥˩ tɤ ʂən˥.kʰɤ˥ yɛ˥˩.t͡ɕʰjɛn˥] (Cóng Dì-wǔ dài 《Huáng Tǔ-dì》《Bà-wáng Bié Jī》 cāng-máng chì-rè de wén-huà xún-gēn, dào Dì-liù dài 《Xiǎo Wǔ》《Sān-xiá Hǎo-rén》 cū-lì shēn-qíng de jì-shí níng-shì, Zhōng-guó diàn-yǐng wán-chéng le cóng hóng-dà yù-yán xiàng gè-rén jīng-yàn de shēn-kè yuè-qiān.)",
+          "translation": "From the vast, passionate cultural root-seeking of Fifth Generation's 'Yellow Earth' and 'Farewell My Concubine' to the gritty, profound documentary gaze of Sixth Generation's 'Xiao Wu' and 'Still Life', Chinese cinema accomplished a profound leap from grand allegories to individual experiences."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (30.5.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "迈入新时代，《流浪地球》以硬核重工业标准开启科幻元年，新主流大片更在视效奇观与平民英雄叙事中引发了强烈的全球情感共鸣。(Màirù xīn shídài, 《Liúlàng Dìqiú》 yǐ yìnghé zhòng-gōngyè biāozhǔn kāiqǐ kēhuàn yuánnián, xīn zhǔliú dàpiān gèng zài shìxiào qíguān yǔ píngmín yīngxióng xùshì zhōng yǐnfā le qiángliè de quánqiú qínggǎn gòngmíng.)",
+          "reading": "[maɪ̯˥˩.ʐu˥ ɕin˥ ʂɨ˧˥.taɪ̯˥˩, 《ljoʊ̯˧˥.lɑŋ˥˩ ti˥˩.t͡ɕʰjoʊ̯˧˥》 i˨˩˦ iŋ˥˩.xɤ˧˥ ʈ͡ʂʊŋ˥-kʊŋ˥.jɛ˨˩˦ pjaʊ̯˥.ʈ͡ʂwn˨˩˦ kʰaɪ̯˥.t͡ɕʰi˨˩˦ kʰɤ˥.xwan˥˩ yɥɛn˧˥.njɛn˧˥, ɕin˥ ʈ͡ʂu˨˩.ljoʊ̯˧˥ ta˥˩.pʰjɛn˥ kəŋ˥˩ t͡saɪ̯˥˩ ʂɨ˥˩.ɕjaʊ̯˥˩ t͡ɕʰi˧˥.kwan˥ y˨˩˦ pʰiŋ˧˥.min˧˥ in˥.ɕjʊŋ˧˥ ɕy˥˩.ʂɨ˥˩ ʈ͡ʂʊŋ˥ in˨˩.fa˥ lɤ t͡ɕʰjaŋ˧˥.ljɛ˥˩ tɤ t͡ɕʰyɛn˧˥.t͡ɕʰjoʊ̯˧˥ t͡ɕʰiŋ˧˥.kan˨˩˦ koʊŋ˥˩.miŋ˧˥] (Mài-rù xīn shí-dài, 《Liú-làng Dì-qiú》 yǐ yìng-hé zhòng-gōng-yè biāo-zhǔn kāi-qǐ kē-huàn yuán-nián, xīn zhǔ-liú dà-piān gèng zài shì-xiào qí-guān yǔ píng-mín yīng-xióng xù-shì zhōng yǐn-fā le qiáng-liè de quán-qiú qíng-gǎn gòng-míng.)",
+          "translation": "Entering the new era, 'The Wandering Earth' inaugurated the sci-fi milestone year with hardcore heavy-industry standards, while New Mainstream Blockbusters evoked intense global emotional resonance through visual spectacles and civilian hero narratives."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (30.5.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "运用严谨的视听语言与审美批评范式，当代影评人以深邃的文本细读解析光影密码，见证并助推华语影视艺术走向世界舞台的中央！(Yùnyòng yánjǐn de shìtīng yǔyán yǔ shěnměi pīpíng fànshì, dāngdài yǐngpíngrén yǐ shēnsuì de wénběn xìdú jiěxī guāngyǐng mìmǎ, jiànzhèng bìng zhùtuī Huáyǔ yǐngshì yìshù zǒuxiàng shìjiè wǔtái de zhōngyāng!)",
+          "reading": "[yn˥˩.jʊŋ˥˩ jan˧˥.t͡ɕin˨˩˦ tɤ ʂɨ˥˩.tʰiŋ˥ y˨˩.jan˧˥ y˨˩˦ ʂən˨˩.meɪ̯˨˩˦ pʰi˥.pʰiŋ˧˥ fan˥˩.ʂɨ˥˩, tɑŋ˥.taɪ̯˥˩ in˨˩.pʰiŋ˧˥.ʐən˧˥ i˨˩˦ ʂən˥.sweɪ̯˥˩ tɤ wən˧˥.pən˨˩˦ ɕi˥˩.tu˧˥ t͡ɕjɛ˨˩.ɕi˥ kwaŋ˥.iŋ˨˩˦ mi˥˩.ma˨˩˦, t͡ɕjɛn˥˩.ʈ͡ʂəŋ˥˩ piŋ˥˩ ʈ͡ʂu˥˩.tʰweɪ̯˥ xwa˧˥.y˨˩˦ in˨˩.ʂɨ˥˩ i˥˩.ʂu˥˩ t͡soʊ̯˨˩.ɕjaŋ˥˩ ʂɨ˥˩.t͡ɕjɛ˥˩ wu˨˩.tʰaɪ̯˧˥ tɤ ʈ͡ʂʊŋ˥.jɑŋ˥] (Yùn-yòng yán-jǐn de shì-tīng yǔ-yán yǔ shěn-měi pī-píng fàn-shì, dāng-dài yǐng-píng-rén yǐ shēn-suì de wén-běn xì-dú jiě-xī guāng-yǐng mì-mǎ, jiàn-zhèng bìng zhù-tuī Huá-yǔ yǐng-shì yì-shù zǒu-xiàng shì-jiè wǔ-tái de zhōng-yāng!)",
+          "translation": "Applying rigorous audiovisual language and aesthetic critical paradigms, contemporary film critics decode cinematic ciphers through profound textual close readings, witnessing and propelling Chinese screen arts toward the center of the world stage!"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "光影镜像时代裁，五六宏微代际开；科幻重工新主流，视听批评映未来！"
+      ],
+      "culturalNotes": [
+        "电影是国家文化软实力的重要载体。从第五代的国际艺术节折桂，到新时代的重工业与高品质主流大片，中国电影正在构筑具有全球影响力的影像叙事话语体系。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「当代影视艺术与审美批评 (Contemporary Cinema & Media Aesthetics)」（第5讲）的标准汉语规范？",
+          "prompt": "在回顾当代中国电影美学流变时，将「第五代」与「第六代」的核心美学差异概括得最精辟的一项是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「当代影视艺术与审美批评 (Contemporary Cinema & Media Aesthetics)」的核心语法法则与应用范例 (30.5.1)。",
-            "存在语序混乱且虚词误用的病句选项 (30.5.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (30.5.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (30.5.w3)"
+            "第五代注重宏大历史寓言与原色民俗造型；第六代转向微观个体经验与纪实粗粝现实 (5th gen: grand allegories & colors; 6th gen: micro experiences & raw realism)",
+            "第五代只拍喜剧，第六代只拍悲剧",
+            "第五代用电脑特技，第六代用手绘动画",
+            "两者完全一样没有任何区别"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "第五代的宏大历史寓言与原色造型，与第六代的微观个体关怀与纪实长镜头，构成了当代中国影史最鲜明的代际美学对照。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在当代中国电影走向工业化与全球传播的过程中，将东方文化特质融入世界级科幻叙事的典范是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "《流浪地球》以「带着地球家园流浪」展现华夏深厚的土地眷恋与人类命运担当 (The Wandering Earth: deep land attachment & collective responsibility)",
+            "放弃所有地球家园直接逃跑",
+            "完全照搬好莱坞个人英雄主义救世主设定",
+            "依靠神仙法术直接变出新星球"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "《流浪地球》将独特的中华土地情结与人类命运共同体意识注入硬核科幻，成就了划时代的东方科幻美学。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「当代影视艺术与审美批评 (Contemporary Cinema & Media Aesthetics)」的正式语境下，最准确得体的表达是哪一项？（第30.5题）",
+          "prompt": "请选出下列当代电影审美批评综合论述中立论最高远、概括最透彻的一项：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (30.5.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (30.5.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (30.5.x2)",
-            "量词与名词修饰搭配错误的病句选项 (30.5.x3)"
+            "光影映照时代精神：第五代以民俗色彩与霸王史诗震撼国际影坛，第六代以纪实长镜头为边缘失语者立传，新主流与硬核科幻以工业重构铸就视效奇观，专业视听批评以文本细读洞悉文化密码。中国影视在历史、现实与未来的交响中展现出崇高的文化自信！(五六代代际、新主流工业化、视听批评全景精辟总结)",
+            "现在的电影就是只要明星多就能赚钱，不需要任何艺术和文化思考。(极度庸俗化商业论调)",
+            "光影流年被霸王别姬在三峡好人流浪地球视听语言。(词句无序堆砌)",
+            "中国电影不需要任何视听批评和理论研究，观众看看笑笑即可。(轻视学术理论批评价值)"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "首选选项全景融通了第五代、第六代、新主流工业化与视听专业批评，见解深邃，气象恢弘。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u30-l5）所要求的高阶语言表达？",
+          "prompt": "影视艺术理论中用来比喻电影如同镜子一般真实折射社会历史风貌与大众集体心理的经典术语是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (30.5.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (30.5.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (30.5.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (30.5.y3)"
+            "时代的镜像 (Mirror of the times)",
+            "虚幻的谎言",
+            "无聊的消遣",
+            "机械的翻版"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「时代的镜像」是影视社会学与文化批评中最具象征力与概括力的经典比喻。"
         }
       ]
     },
@@ -18030,25 +18044,24 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「当代影视艺术与审美批评 (Contemporary Cinema & Media Aesthetics)」的掌握程度，请选出表述完全正确的标准范句（测试 30-5）：",
+          "prompt": "请选出下列中国影视艺术美学与视听审美批评综合语篇中格局最宏大、论述最透彻、文采最雅正的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (30.5.4)。",
-            "被动句式与处置句式混用导致的严重病句 (30.5.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (30.5.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (30.5.z3)"
+            "光影如炬，映照时代；视听生辉，淬炼精神。当代中国影视在四十年激荡岁月中谱写了壮丽的美学史诗：第五代以《黄土地》《红高粱》《霸王别姬》之原色造型与封闭对称构图，在戛纳金棕榈中铸就历史反思丰碑；第六代以贾樟柯《小武》《三峡好人》之纪实长镜头与微观凝视，在威尼斯金狮中为转型期普通人铭刻生存尊严；新时代《流浪地球》与新主流大片更以硬核重工业标准、虚拟制片与家国大爱开辟东方视效新纪元。融通深焦调度、交叉蒙太奇与声画对位之视听语法，当代中国电影正以博大的文化自信与卓越的艺术创造力，屹立于世界光影之林！(全景融汇第五代、第六代、新主流科幻工业化与专业视听批评语法，文质兼美，荡气回肠，影评巅峰之作)",
+            "中国电影就是以前拍农村现在拍科幻，大家去电影院吃吃爆米花挺高兴的。(语言极度贫乏简陋)",
+            "光影时代镜像被深焦摄影在金棕榈金狮奖流浪地球。(术语生硬拼凑毫无句法逻辑)",
+            "中国电影完全没有任何国际影响力，也没有出过任何优秀导演。(完全背离客观世界影史事实)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语篇全景贯通第五代、第六代、新主流科幻重工业与视听批评语法体系，思想深邃，气象万千，是当代影视艺术批评的典范杰作。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u30-l5）的核心关键词（例如「当代影视」）：",
+          "prompt": "请输入影视艺术与文化批评中用来形容电影如同镜子般折射社会历史变迁与大众心理的核心四字名言短语（例如「电影是」；拼音为 shídài de jìngxiàng）：",
           "acceptedAnswers": [
-            "当代影视",
-            "当代影视艺术",
-            "当代影视艺术与审美批评"
+            "时代的镜像",
+            "时代镜像"
           ],
-          "explanation": "正确的核心关键词为「当代影视」。"
+          "explanation": "短语「时代的镜像」高度凝练地概括了电影艺术深刻反映时代风貌与民族精神的本质功能。"
         }
       ],
       "passThreshold": 0.8
