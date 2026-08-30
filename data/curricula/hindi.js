@@ -9505,53 +9505,62 @@
     "subject": "hindi",
     "unit": 23,
     "lessonNumber": 1,
-    "title": "सिनेमा, संगीत और कला समीक्षा (Cinema & Arts) (Part 1)",
+    "title": "भारतीय सिनेमा, पटकथा और अभिनय समीक्षा (Cinema, Screenplay, Direction & Acting Review)",
     "level": "B2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 23.1) with authentic linguistic precision.",
+    "objective": "भारतीय सिनेमा की विधाओं — निर्देशन (Direction), पटकथा (Screenplay), छायांकन (Cinematography) तथा अभिनय (Acting) — की उच्च स्तरीय कला समीक्षा शब्दावली में निपुणता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "भारतीय सिनेमा, फिल्म निर्माण और कला समीक्षा के मानक पारिभाषिक नियम:\n\n1. **फिल्म निर्माण के प्रमुख अंग (Cinema Craft)**:\n   - **निर्देशन** (Film Direction);\n   - **पटकथा एवं संवाद लेखन** (Screenplay and Dialogue Writing);\n   - **छायांकन / सिनेमैटोग्राफी** (Cinematography and Visual Composition);\n   - **पार्श्व संगीत और ध्वनि संयोजन** (Background Score and Sound Design);\n   - **चरमोत्कर्ष / क्लाइमेक्स** (Climax and Resolution)।\n\n2. **अभिनय समीक्षा शब्दावली (Acting Evaluation)**:\n   - **जीवंत और सशक्त अभिनय** (Stellar, lively and powerful performance);\n   - **संवाद अदायगी** (Dialogue delivery and diction);\n   - **पात्र का अंतर्द्वंद्व** (Character's internal conflict and psychological depth);\n   - **स्वाभाविक भाव-भंगिमा** (Natural facial expressions and body language)।\n\n3. **समीक्षात्मक भाषा-शैली**:\n   - समीक्षा लेखन में तत्सम विशेषणों, आलंकारिक पदों और विश्लेषणात्मक वाक्यों का प्रयोग होता है।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 23.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 23."
+          "target": "फिल्म निर्देशक ने सामाजिक असमानता के अत्यंत संवेदनशील विषय को परिपक्व पटकथा और यथार्थवादी छायांकन के माध्यम से रूपहले पर्दे पर साकार किया है।",
+          "reading": "film nirdeshak ne saamaajik asamaanta ke atyant sanvedansheel vishay ko paripakkva patkatha aur yathaarthvaadi chhaayaankan ke maadhyam se roopahle parde par saakaar kiya hai. [fɪlm nɪrdeːʃək neː saːmaːdʒɪk əsəmaːnt̪aː keː ət̪jən̪t̪ sənʋeːd̪ənʃiːl ʋɪʂəj koː pərɪpəkːʋə pəʈkət̪ʰaː ɔːr jət̪ʰaːrt̪ʰʋaːd̪iː tʃʰaːjaːŋkən keː maːd̪ʱjəm seː ruːpəɦleː pərdeː pər saːkaːr kɪjaː hɛː] (film neer-DAY-shuhk nay sah-MAH-jeek uh-suh-mahn-TAH kay uht-YUHNT suhn-vay-duhn-SHEEL vee-SHUY koh puh-ree-PUHK-vuh puht-kuh-THAH owr yuh-thahrth-vah-DEE chhah-yahn-KUHN kay MAHDH-yuhm say roo-puh-LAY puhr-DAY puhr sah-KAHR kee-YAH hy)",
+          "translation": "The film director has brought the highly sensitive subject of social inequality to life on the silver screen through a mature screenplay and realistic cinematography."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 23-1)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "मुख्य अभिनेता ने अपनी सधी हुई संवाद अदायगी और भावपूर्ण नेत्रों के माध्यम से ऐतिहासिक चरित्र के मानसिक अंतर्द्वंद्व को अत्यंत जीवंत बना दिया।",
+          "reading": "mukhya abhineta ne apni sadhee hui samvaad adaayagi aur bhaavpoorna netron ke maadhyam se aitihasik charitr ke maanasik antardvandva ko atyant jeevant bana diya. [mʊkʰjə əbʱɪneːt̪aː neː əpniː səd̪ʱiː hʊiː səmʋaːd̪ ədaːjɡiː ɔːr bʱaːʋpuːrɳ neːt̪rõː keː maːd̪ʱjəm seː ɛːt̪ɪhaːsɪk tʃərɪt̪r keː maːnsɪk ən̪t̪ərd̪ʋən̪d̪ʋə koː ət̪jən̪t̪ dʒiːʋən̪t̪ bənaː d̪ɪjaː] (MOOKH-yuh uh-bhee-NAY-tah nay uhp-NEE suh-DHEE HOO-ee suhm-VAHD uh-dah-yuh-GEE owr bhahv-POOR-nuh NAY-trohn kay MAHDH-yuhm say ay-tee-HAH-seek chuh-REE-truh kay MAHN-seek uhn-tuhr-DVUHN-dvuh koh uht-YUHNT jee-VUHNT buh-NAH DEE-yah)",
+          "translation": "The lead actor made the psychological internal conflict of the historical character vividly alive through his poised dialogue delivery and expressive eyes."
+        },
+        {
+          "target": "वरिष्ठ फिल्म समीक्षकों ने इस सिनेमाई कृति के अप्रत्याशित चरमोत्कर्ष और कर्णप्रिय पार्श्व संगीत की मुक्त कंठ से प्रशंसा की।",
+          "reading": "varishth film sameekshakon ne is cinemaai kriti ke apratyaashit charmotkarsh aur karnapriy paarshva sangeet ki mukt kanth se prashansa ki. [ʋərɪʂʈʰ fɪlm səmbiːkʃəkõː neː ɪs sɪneːmaːiː krɪt̪ɪ keː əprət̪jaːʃɪt̪ tʃərmoːt̪kərʂ ɔːr kərɳprɪj paːrʃʋə səŋɡiːt̪ kiː mʊkt̪ kəɳʈʰ seː prəʃənsaː kiː] (vuh-REESH-th film suh-meek-shuh-KOHN nay ees see-nay-mah-EE KREE-tee kay uh-pruht-yah-SHEET chuhr-moht-KUHRSH owr kuhr-nuh-PREE-yuh pahrsh-VUH suhng-GEET kee mookt KUHNTH say pruh-shuhn-SAH kee)",
+          "translation": "Senior film critics lavishly praised the unexpected climax and melodious background score of this cinematic creation."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "सिनेमा समीक्षा: पटकथा (screenplay), छायांकन (cinematography), संवाद अदायगी (dialogue delivery), चरमोत्कर्ष (climax)!"
+      ],
+      "culturalNotes": [
+        "भारतीय सिनेमा (सत्यजीत रे, राज कपूर, गुरु दत्त आदि) में गीतों और पार्श्व संगीत को केवल मनोरंजन नहीं बल्कि कथा के भावनात्मक प्रवाह का मुख्य संवाहक माना जाता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"लाल\":",
+          "prompt": "फिल्म की लिखित कहानी और संवादों के पूर्ण प्रारूप (Screenplay) को हिंदी में क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 23.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («नीला» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («पीला» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («हरा» का अनुचित स्थान)"
+            "पटकथा (Patkatha - Screenplay [cinematic script term])",
+            "समाचार पत्र (दैनिक समाचार)",
+            "पोस्टर (विज्ञापन चित्र)",
+            "टिकट (प्रवेश पर्ची)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "फिल्म के दृश्यवार दृश्य-संवाद विवरण और आलेख को «पटकथा» (Screenplay) कहा जाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"लाल\":",
+          "prompt": "कैमरे द्वारा दृश्य संयोजन और प्रकाश व्यवस्था (Cinematography) के लिए मानक हिंदी शब्द चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 23.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («पीला» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («हरा» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («नीला» का अशुद्ध रूप)"
+            "छायांकन (Chhaayaankan - Cinematography [camera and visual lighting craft])",
+            "रंगाई (साधारण रंगाई)",
+            "सिलाई (कपड़ों की सिलाई)",
+            "धुलाई (कपड़े धोना)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "सिनेमा में कैमरावर्क और दृश्यों के फिल्मांकन को «छायांकन» कहा जाता है।"
         }
       ]
     },
@@ -9559,17 +9568,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"लाल\": Which sentence is completely correct?",
+          "prompt": "सिनेमा और अभिनय समीक्षा (Film & Acting Criticism) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 23.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («हरा» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («नीला» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («पीला» से संबंधित)"
+            "समीक्षकों के अनुसार निर्देशक का नवाचारी दृष्टिकोण और कलाकारों का सधा हुआ अभिनय इस फिल्म को एक उत्कृष्ट कलाकृति बनाते हैं। (According to critics, the director's innovative vision and the artists' poised acting make this film an outstanding masterpiece.)",
+            "निर्देशक ने कल शाम को टॉफ़ी खाई थी।",
+            "फिल्म में सभी कलाकार भाग रहे थे ताकि हॉल खाली हो।",
+            "पटकथा को नदी में फेंक देना चाहिए।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«समीक्षकों के अनुसार... उत्कृष्ट कलाकृति बनाते हैं» कला समीक्षा की परिपक्व और प्रामाणिक भाषा का उदाहरण है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u23-l2": {
@@ -9577,53 +9587,62 @@
     "subject": "hindi",
     "unit": 23,
     "lessonNumber": 2,
-    "title": "सिनेमा, संगीत और कला समीक्षा (Cinema & Arts) (Part 2)",
+    "title": "शास्त्रीय संगीत, राग प्रणाली और वाद्य यंत्र (Hindustani Classical Music, Ragas & Instruments)",
     "level": "B2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 23.2) with authentic linguistic precision.",
+    "objective": "भारतीय शास्त्रीय संगीत के मूल तत्वों — राग, ताल, आलाप, तान, बंदिश, घराना परंपरा तथा प्रमुख वाद्य यंत्रों — की परिष्कृत शब्दावली में दक्षता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "भारतीय शास्त्रीय संगीत (Hindustani & Carnatic Music) की प्रमुख अवधारणाएं एवं पारिभाषिक शब्दावली:\n\n1. **राग प्रणाली एवं गायन शैलियाँ (Raga System & Vocal Forms)**:\n   - **राग और स्वर** (सप्तक: सा, रे, ग, म, प, ध, नि);\n   - **आलाप और तान** (Improvisation on slow tempo & Rapid melodic runs);\n   - **बंदिश / रचना** (Poetic composition set to a specific Raga and Tala);\n   - **ध्रुपद, खयाल और ठुमरी** (Classical vocal genres);\n   - **घराना परंपरा** (Musical lineages — ग्वालियर, किराना, बनारस, आगरा घराना)।\n\n2. **ताल और लय (Rhythm & Tempo)**:\n   - **ताल** (तीनताल, एकताल, झपताल, दादरा, रूपक);\n   - **लय** (विलंबित / मंद्र, मध्य, द्रुत लय);\n   - **सम और तिहाई** (First beat and rhythmic cadence)।\n\n3. **शास्त्रीय वाद्य यंत्र (Classical Instruments)**:\n   - तानपूरा (Tampura), सितार (Sitar), तबला (Tabla), सरोद (Sarod), बाँसुरी (Flute), शहनाई (Shehnai)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 23.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 23."
+          "target": "प्रख्यात उस्ताद ने राग यमन में मंद्र सप्तक से प्रारंभ करते हुए जब गंभीर आलाप छेड़ा, तो संपूर्ण संगीत सभागार मंत्रमुग्ध हो गया।",
+          "reading": "prakhyaat ustaad ne Raag Yaman mein mandr saptak se praarambh karte hue jab gambheer aalaap chheda, to sampoorna sangeet sabhaagaar mantramugdh ho gaya. [prəkʰjaːt̪ ʊst̪aːd̪ neː raːɡ jəmən mẽː mən̪d̪rə səpt̪ək seː praːrəmbʱ kərt̪eː hʊeː dʒəb ɡəmbiːr aːlaːp tʃʰeːɽaː t̪oː səmbuːrɳ səŋɡiːt̪ səbʱaːɡaːr mən̪t̪rəmʊɡd̪ʱ hoː ɡəjaː] (pruh-KHYAHT oos-TAHD nay Rahg Yuh-muhn mayn MUHN-druh suhp-TUHK say prah-RUHMBH KUHR-tay HOO-ay juhb guhm-BHEER ah-LAHP CHHAY-dah, toh suhm-POOR-nuh suhng-GEET suh-bhah-GAHR muhn-truh-MOOGDH hoh GUH-yah)",
+          "translation": "When the renowned Ustad struck up a deep Alaap starting from the lower octave in Raga Yaman, the entire concert hall was held spellbound."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 23-2)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "तबला वादक ने तीनताल में द्रुत लय पर अत्यंत तीव्र और जटिल तिहाइयाँ प्रस्तुत कर संगीत रसिकों को तालियाँ बजाने पर विवश कर दिया।",
+          "reading": "tabla vaadak ne teentaal mein drut lay par atyant teevr aur jatil tihaaiyaan prastut kar sangeet rasikon ko taaliyaan bajaane par vivash kar diya. [t̪əblaː ʋaːd̪ək neː t̪iːntaːl mẽː d̪rʊt̪ ləj pər ət̪jən̪t̪ t̪iːʋrə ɔːr dʒəʈɪl t̪ɪhaːɪjaː̃ prəst̪ʊt̪ kər səŋɡiːt̪ rəsɪkõː koː t̪aːlɪjaː̃ bədʒaːneː pər ʋɪʋəʃ kər d̪ɪjaː] (tuhb-LAH vah-DUHK nay teen-TAHL mayn DROOT luy puhr uht-YUHNT TEEV-ruh owr JUH-teel tee-hah-ee-YAHN pruhs-TOOT kuhr suhng-GEET ruh-see-KOHN koh tah-lee-YAHN buh-jah-NAY puhr vee-VUHTH kuhr DEE-yah)",
+          "translation": "The tabla player, performing exceptionally fast and intricate Tihais in Teentaal on a fast tempo, compelled the music connoisseurs to break into applause."
+        },
+        {
+          "target": "ग्वालियर और किराना घराने की समृद्ध गायकी परंपरा में राग की शुद्धता और स्वरों के सूक्ष्म लगाव का अनुपम सम्मिश्रण दिखाई देता है।",
+          "reading": "Gwalior aur Kirana gharaane ki samriddh gaayaki parampara mein raag ki shuddhata aur swaron ke sookshm lagaav ka anupam sammishran dikhaai deta hai. [ɡʋaːlɪjər ɔːr kɪraːnaː ɡʱəraːneː kiː səmbrɪd̪ːʱ ɡaːjkiː pərəmpəraː mẽː raːɡ kiː ʃʊd̪ːʱt̪aː ɔːr sʋərõː keː suːkʃmə ləɡaːʋ kaː ənʊpəm səmːɪʃrəɳ d̪ɪkʰaːiː d̪eːt̪aː hɛː] (GWAH-lee-yuhr owr kee-rah-NAH ghuh-rah-NAY kee suhm-REEDH gah-yuh-KEE puh-ruhm-puh-RAH mayn rahg kee shoodh-uh-TAH owr svuh-ROHN kay SOOKSH-muh luh-GAHV kah uh-noo-PUHM suhm-MEESH-ruhn dee-khah-EE DAY-tah hy)",
+          "translation": "In the rich vocal tradition of the Gwalior and Kirana Gharanas, an exquisite blend of the purity of the Raga and the nuanced microtonal inflection of notes is visibly evident."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "संगीत तत्व: आलाप (melodic intro), तान (rapid runs), तीनताल (16-beat rhythm), घराना (lineage)!"
+      ],
+      "culturalNotes": [
+        "भारतीय शास्त्रीय संगीत में गुरु-शिष्य परंपरा केवल विद्या सीखने का साधन नहीं, बल्कि नादब्रह्म (Sound as Divine Reality) की आध्यात्मिक साधना मानी जाती है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"नीला\":",
+          "prompt": "शास्त्रीय गायन में राग के स्वरों को बिना ताल के मंद्र व गंभीर गति से विस्तार करने की विधि को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 23.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («पीला» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («हरा» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («सफ़ेद» का अनुचित स्थान)"
+            "आलाप (Aalaap - Slow unmetered improvisational exposition of a Raga [fundamental classical music form])",
+            "शोर मचाना (असंगत अशिष्ट क्रिया)",
+            "भाषण देना (राजनीतिक वक्तव्य)",
+            "सीटी बजाना (अमानक क्रिया)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "राग के स्वरूप और भाव को स्थापित करने वाले प्रारंभिक धीमे गायन विस्तार को «आलाप» कहा जाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"नीला\":",
+          "prompt": "शास्त्रीय संगीत की विशिष्ट परंपरा और शिक्षण शैली की गुरु-शिष्य वंश-परंपरा को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 23.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («हरा» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («सफ़ेद» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («पीला» का अशुद्ध रूप)"
+            "घराना (Gharaana - Musical lineage / Tradition [classical stylistic school])",
+            "दुकान (व्यावसायिक प्रतिष्ठान)",
+            "होटल (आतिथ्य गृह)",
+            "स्टेशन (रेलवे संदर्भ)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "भारतीय संगीत में विशिष्ट गायकी या वादन परंपरा वाले परिवार/शैली को «घराना» (जैसे किराना घराना) कहा जाता है।"
         }
       ]
     },
@@ -9631,17 +9650,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"नीला\": Which sentence is completely correct?",
+          "prompt": "भारतीय शास्त्रीय संगीत और राग प्रणाली का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 23.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («सफ़ेद» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («पीला» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («हरा» से संबंधित)"
+            "सितार वादक ने राग दरबारी में विलंबित लय से प्रारंभ कर द्रुत झाला बजाकर संपूर्ण वातावरण को संगीतमय बना दिया। (The sitar player, starting with slow tempo in Raga Darbari and playing fast Jhala, filled the entire ambiance with music.)",
+            "सितार को कल रात को तोड़ दिया था।",
+            "राग दरबारी में सब लोग सो रहे थे ताकि गाना बंद हो।",
+            "तबला वादक ने ढोलक बजाकर फुटबॉल मैच जीता।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«सितार वादक ने राग दरबारी में विलंबित लय... संगीतमय बना दिया» शास्त्रीय संगीत की प्रामाणिक शब्दावली का आदर्श वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u23-l3": {
@@ -9649,53 +9669,62 @@
     "subject": "hindi",
     "unit": 23,
     "lessonNumber": 3,
-    "title": "सिनेमा, संगीत और कला समीक्षा (Cinema & Arts) (Part 3)",
+    "title": "पारंपरिक लोक नृत्य, शास्त्रीय नृत्य और नाट्य मंचन (Classical Dance & Folk Theatre)",
     "level": "B2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 23.3) with authentic linguistic precision.",
+    "objective": "भारतीय शास्त्रीय नृत्यों (कथक, भरतनाट्यम) के आंगिक अभिनय, पदचाप, नवरस तथा पारंपरिक लोकनाट्यों (नौटंकी, यक्षगान) की परिष्कृत शब्दावली में दक्षता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "भारतीय शास्त्रीय नृत्य, लोकनृत्य एवं पारंपरिक रंगमंच के प्रमुख तत्व:\n\n1. **शास्त्रीय नृत्य शैलियाँ (Classical Dances)**:\n   - **कथक** (उत्तर भारत — तत्कार, पदचाप, घुँघरू, चक्राकार चक्कर, आंगिक अभिनय);\n   - **भरतनाट्यम** (तमिलनाडु — अड़वु, हस्तमुद्राएं, नटराज मुद्रा, ज्यामितीय संतुलन);\n   - **कथकली एवं ओडिसी** (विशिष्ट मुखौटा/मेकअप, त्रिभंग मुद्रा और नवरस अभिव्यक्ति)।\n\n2. **नृत्य के प्रमुख अंग (Dance Elements)**:\n   - **पदचाप / तत्कार** (Rhythmic footwork);\n   - **हस्तमुद्रा** (Single and double hand gestures);\n   - **भाव-भंगिमा और नवरस** (Facial expressions enacting nine aesthetic emotions);\n   - **नृत्य नाटिका** (Ballet / Dance Drama)।\n\n3. **पारंपरिक लोक नाट्य (Folk Theatre Forms)**:\n   - **नौटंकी और रासलीला** (उत्तर प्रदेश);\n   - **जात्रा** (पश्चिम बंगाल);\n   - **यक्षगान** (कर्नाटक);\n   - **तमाशा** (महाराष्ट्र)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 23.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 23."
+          "target": "कथक नृत्यांगना ने नवरसों की सूक्ष्म भाव-भंगिमाओं और तीव्र पदचाप के साथ घुँघरुओं की झंकार से राधा-कृष्ण की प्रेम-लीला का सजीव मंचन किया।",
+          "reading": "Kathak nrityangana ne navrason ki sookshm bhaav-bhangimaon aur teevr padchaap ke saath ghunghruon ki jhankaar se Radha-Krishna ki prem-leela ka sajeev manchan kiya. [kət̪ʰək nrɪtjaːŋɡnaː neː nɔːrəsõː kiː suːkʃmə bʱaːʋbʱəŋɡɪmaːõː ɔːr t̪iːʋrə pəd̪tʃaːp keː saːt̪ʰ ɡʱʊŋɡʱrʊõː kiː dʒʱəŋkaːr seː raːd̪ʱaː krɪʂɳə kiː preːmliːlaː kaː sədʒiːʋ məntʃən kɪjaː] (KUH-thuhk nreet-yahn-guh-NAH nay nuhv-ruh-SOHN kee SOOKSH-muh bhahv-bhuhng-gee-MAH-ohn owr TEEV-ruh puhd-CHAHP kay sahth ghoon-ghroo-OHN kee jhuhn-KAHR say RAH-dhah-KREESH-nuh kee praym-LEE-lah kah suh-JEEV muhn-CHUHN kee-YAH)",
+          "translation": "The Kathak dancer enacted the love-play of Radha-Krishna vividly with subtle facial expressions of the nine rasas and rapid footwork accompanied by the chiming of ankle bells."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 23-3)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "भरतनाट्यम में नटराज की दिव्य मुद्राओं, सटीक हस्तमुद्राओं और ज्यामितीय शारीरिक संतुलन का ऐसा अद्भुत प्रदर्शन देखने को मिला जो मन को स्तब्ध कर देता है।",
+          "reading": "Bharatnatyam mein Natraj ki divya mudraon, sateek hast-mudraon aur jyaamiteey shaareerik santulan ka aisa adbhut pradarshan dekhne ko mila jo man ko stabdh kar deta hai. [bʱərət̪naːʈjəm mẽː nəʈraːdʒ kiː d̪ɪʋjə mʊd̪raːõː sətiːk ɦəst̪mʊd̪raːõː ɔːr dʒjaːmɪt̪iːj ʃaːriːrɪk sən̪t̪ʊlən kaː ɛːsaː əd̪bʱʊt̪ prəd̪ərʃən d̪eːkʰneː koː mɪlaː dʒoː mən koː st̪əbd̪ʱ kər d̪eːt̪aː hɛː] (bhuhr-uht-NAHT-yuhm mayn nuht-RAHJ kee DEEV-yuh moo-drah-OHN, suh-TEEK huhst-moo-drah-OHN owr jyah-mee-TEE-yuh shah-ree-REEK suhn-too-LUHN kah AY-sah uhd-BHOOT pruh-duhr-SHUHN DAYKH-nay koh mee-LAH joh muhn koh STUHBDH kuhr DAY-tah hy)",
+          "translation": "Such a magnificent display of divine postures of Nataraja, precise hand gestures, and geometric bodily balance was seen in Bharatanatyam that it leaves the mind awestruck."
+        },
+        {
+          "target": "उत्तर भारत की पारंपरिक नौटंकी शैली में ऐतिहासिक लोकगाथाओं को हास्य, व्यंग्य और लोकगीतों के सशक्त माध्यम से खुले मंच पर प्रस्तुत किया जाता है।",
+          "reading": "Uttar bhaarat ki paaramprik nautanki shaili mein aitihasik lok-gaathaaon ko haasya, vyangya aur lok-geeton ke sashakt maadhyam se khule manch par prastut kiya jaata hai. [ʊt̪ːər bʱaːrət̪ kiː paːrəmpərɪk nɔːʈəŋkiː ʃɛːliː mẽː ɛːt̪ɪhaːsɪk loːkɡaːt̪ʰaːõː koː ɦaːsjə ʋjəŋɡjə ɔːr loːkɡiːt̪õː keː səʃəkt̪ maːd̪ʱjəm seː kʰʊleː məntʃ pər prəst̪ʊt̪ kɪjaː dʒaːt̪aː hɛː] (OOT-tuhr BHAH-ruht kee pah-ruhm-puh-REEK now-TUHNG-kee SHY-lee mayn ay-tee-HAH-seek lohk-gah-THAH-ohn koh HAHS-yuh, vyuhng-YUH owr lohk-gee-TOHN kay suh-SHUHKT MAHDH-yuhm say KHOO-lay muhnch puhr pruhs-TOOT kee-YAH JAH-tah hy)",
+          "translation": "In the traditional Nautanki style of North India, historical folk tales are presented on open stages through the powerful medium of humor, satire, and folk songs."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "नृत्य कला: पदचाप (footwork), हस्तमुद्रा (hand gestures), भाव-भंगिमा (expressions), नौटंकी (folk theatre)!"
+      ],
+      "culturalNotes": [
+        "भारतीय शास्त्रीय नृत्यों में पैरों में बंधे 'घुँघरू' केवल आभूषण नहीं बल्कि ताल और लय की जटिल गणनाओं को श्रव्य रूप देने वाले वाद्य का कार्य करते हैं।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"पीला\":",
+          "prompt": "कथक नृत्य में पैरों की तालबद्ध गति और थिरकन (Footwork) को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 23.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («हरा» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («सफ़ेद» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («काला» का अनुचित स्थान)"
+            "तत्कार / पदचाप (Tatkaar / Padchaap - Rhythmic footwork in Kathak [classical dance technique])",
+            "दौड़ना (साधारण खेल क्रिया)",
+            "कूदना (व्यायाम क्रिया)",
+            "फिसलना (दुर्घटना)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "कथक में घुँघरुओं के साथ पैरों द्वारा लयबद्ध आघात करने को «तत्कार» या «पदचाप» कहा जाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"पीला\":",
+          "prompt": "उत्तर भारत के प्रसिद्ध पारंपरिक लोक-नाट्य (Folk Theatre) का क्या नाम है?",
           "options": [
-            "हम इस पाठ में इकाई 23.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («सफ़ेद» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («काला» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («हरा» का अशुद्ध रूप)"
+            "नौटंकी (Nautanki - Traditional folk theatre of North India [folk performing art])",
+            "सिनेमाघर (Movie theatre hall)",
+            "पुस्तकालय (Library)",
+            "चिड़ियाघर (Zoo)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "उत्तर प्रदेश और उत्तर भारत के पारंपरिक खुले रंगमंच लोकनाट्य को «नौटंकी» कहा जाता है।"
         }
       ]
     },
@@ -9703,17 +9732,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"पीला\": Which sentence is completely correct?",
+          "prompt": "शास्त्रीय नृत्य और नाट्य मंचन का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 23.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («काला» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («हरा» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («सफ़ेद» से संबंधित)"
+            "नृत्यांगना के भावपूर्ण नेत्रों और सूक्ष्म हस्तमुद्राओं ने शांत रस की अलौकिक अनुभूति करा दी। (The dancer's expressive eyes and subtle hand gestures brought about the transcendent experience of the Shanta Rasa.)",
+            "नृत्यांगना कल सुबह सड़क पर कार चला रही थी।",
+            "हस्तमुद्रा बंद कर दो ताकि कोई न देखे।",
+            "शांत रस के कारण सब लोग बाज़ार भाग गए।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«नृत्यांगना के भावपूर्ण नेत्रों और सूक्ष्म हस्तमुद्राओं ने... अलौकिक अनुभूति करा दी» शास्त्रीय नृत्य समीक्षा का परिपूर्ण वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u23-l4": {
@@ -9721,53 +9751,62 @@
     "subject": "hindi",
     "unit": 23,
     "lessonNumber": 4,
-    "title": "सिनेमा, संगीत और कला समीक्षा (Cinema & Arts) (Part 4)",
+    "title": "दृश्य कला, चित्रकला शैलियाँ और शिल्प (Visual Arts, Painting Schools & Sculpture)",
     "level": "B2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 23.4) with authentic linguistic precision.",
+    "objective": "भारत की पारंपरिक चित्रकला शैलियों (मधुबनी, तंजौर, मिनिएचर/लघुचित्र), प्रस्तर मूर्तिशिल्प तथा हस्तशिल्प की समृद्ध पारिभाषिक शब्दावली में पारंगत होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "भारतीय चित्रकला और मूर्तिकला की प्रमुख शैलियाँ एवं कलात्मक शब्दावली:\n\n1. **प्रमुख पारंपरिक चित्रकला शैलियाँ (Traditional Painting Schools)**:\n   - **मधुबनी / मिथिला चित्रकला** (बिहार — प्राकृतिक रंग, द्वि-आयामी रूप, ज्यामितीय आकृतियाँ और रामायण प्रसंग);\n   - **तंजौर चित्रकला** (तमिलनाडु — सोने का वर्क, उभरी हुई कलाकृति और कीमती रत्न जड़ाव);\n   - **लघुचित्र शैली / मिनिएचर पेंटिंग** (राजस्थान व पहाड़ी शैली — बारीक रेखाएं, प्राकृतिक खनिज रंग और राजदरबार के दृश्य);\n   - **वरली लोककला** (महाराष्ट्र — श्वेत रेखाचित्र, जनजातीय जीवन और वृत्त-त्रिकोण आकृतियाँ)।\n\n2. **शिल्प और मूर्तिकला (Sculpture & Handicrafts)**:\n   - **प्रस्तर मूर्तिशिल्प** (Stone carving and temple iconography);\n   - **काँस्य प्रतिमाएँ** (Chola bronze casting tradition);\n   - **काष्ठ शिल्प और टेराकोटा** (Woodcraft and Terracotta pottery)।\n\n3. **कला समीक्षा शब्दावली**:\n   - रंग-संयोजन (Color palette), रेखांकन (Linework), बारीक नक्काशी (Intricate carving), विषयवस्तु (Theme)।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 23.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 23."
+          "target": "मिथिला की विश्वविख्यात मधुबनी चित्रकला में प्राकृतिक रंगों, बाँस की तीलियों और चावल के लेप से प्रकृति व रामायण के पावन प्रसंगों का सुंदर रेखांकन किया जाता है।",
+          "reading": "Mithila ki vishvavikhyaat Madhubani chitrakala mein praakritik rangon, baans ki teeliyon aur chaaval ke lep se prakriti va Raamaayan ke paavan prasangon ka sundar rekhaankan kiya jaata hai. [mɪt̪ʰɪlaː kiː ʋɪʃʋəʋɪkʰjaːt̪ məd̪ʱʊbəniː tʃɪt̪rkəlaː mẽː praːkrɪt̪ɪk rəŋɡõː baː̃s kiː t̪iːlɪjõː ɔːr tʃaːʋəl keː leːp seː prəkrɪt̪ɪ ʋə raːmaːjəɳ keː paːʋən prəsəŋɡõː kaː sʊn̪d̪ər reːkʰaːŋkən kɪjaː dʒaːt̪aː hɛː] (mee-thee-LAH kee veesh-vuh-veekh-YAHT muh-dhoo-buh-NEE cheet-ruh-kuh-LAH mayn prah-kree-TEEK ruhng-GOHN, bahns kee tee-lee-YOHN owr CHAH-vuhl kay layp say pruh-KREE-tee vuh rah-MAH-yuhn kay PAH-vuhn pruh-suhng-GOHN kah SOON-duhr ray-khahn-KUHN kee-YAH JAH-tah hy)",
+          "translation": "In the world-famous Madhubani painting of Mithila, beautiful linework depicting sacred episodes of nature and the Ramayana is executed using natural colors, bamboo twigs, and rice paste."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 23-4)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "तंजौर चित्रकला में शुद्ध सोने के सूक्ष्म वर्क, उभारदार शिल्पकला और बहुमूल्य रत्नों का प्रयोग देवी-देवताओं के विग्रह को अलौकिक आभा प्रदान करता है।",
+          "reading": "Tanjore chitrakala mein shuddh sone ke sookshm varq, ubhaardaar shilpkala aur bahumoolya ratnon ka prayog devi-devtaaon ke vigrah ko alaukik aabha pradaan karta hai. [t̪əndʒɔːr tʃɪt̪rkəlaː mẽː ʃʊd̪ːʱ soːneː keː suːkʃmə ʋərq ʊbʱaːrdaːr ʃɪlpkəlaː ɔːr bəɦʊmuːljə rət̪nõː kaː prəjoːɡ d̪eːʋiː d̪eːʋt̪aːõː keː ʋɪɡrəɦ koː əlɔːkɪk aːbʱaː prədaːn kərt̪aː hɛː] (tuhn-JOHR cheet-ruh-kuh-LAH mayn shoodh SOH-nay kay SOOKSH-muh vuhrq, oo-bhahr-DAHR sheelp-kuh-LAH owr buh-hoo-MOOL-yuh ruht-NOHN kah pruh-YOHG day-vee-dayv-tah-OHN kay veeg-RUH koh uh-low-KEEK ah-BHAH pruh-DAHN KUHR-tah hy)",
+          "translation": "In Tanjore painting, the use of pure gold foil, embossed relief work, and precious gems imparts a divine radiance to the icons of gods and goddesses."
+        },
+        {
+          "target": "राजस्थान की लघुचित्र शैली में मानवीय भावों, राजदरबार के वैभव और महीन रेखाओं का अत्यंत सूक्ष्म व मनोहारी अंकन किया गया है।",
+          "reading": "Rajasthan ki laghuchitr shaili mein maanveey bhaavon, raajdarbaar ke vaibhav aur maheen rekhaaon ka atyant sookshm va manohaari ankan kiya gaya hai. [raːdʒəst̪ʰaːn kiː ləɡʱʊtʃɪt̪r ʃɛːliː mẽː maːnʋiːj bʱaːʋõː raːdʒd̪ərbaːr keː ʋɛːbʱəʋ ɔːr məɦiːn reːkʰaːõː kaː ət̪jən̪t̪ suːkʃmə ʋə mənoːɦaːriː əŋkən kɪjaː ɡəjaː hɛː] (rah-juhs-THAHN kee luh-ghoo-CHEET-ruh SHY-lee mayn mahn-VEE-yuh bhah-VOHN, rahj-duhr-BAHR kay VY-bhuhv owr muh-HEEN ray-khah-OHN kah uht-YUHNT SOOKSH-muh vuh muh-noh-HAH-ree uhng-KUHN kee-YAH GUH-yah hy)",
+          "translation": "In Rajasthan's miniature painting style, human emotions, royal court splendor, and fine lines have been depicted with utmost delicacy and charm."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "दृश्य कला: मधुबनी (प्राकृतिक रंग/रेखांकन), तंजौर (सोने का वर्क), लघुचित्र (बारीक मिनिएचर)!"
+      ],
+      "culturalNotes": [
+        "प्राचीन भारतीय शिल्पशास्त्र (मानसार व मयमतम्) में मूर्तियों के अनुपात (तालमान) और भाव-अभिव्यक्ति के कड़े सौंदर्यशास्त्रीय नियम संकलित हैं।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"हरा\":",
+          "prompt": "प्राकृतिक रंगों और बाँस की तीलियों से बनाई जाने वाली बिहार की विश्वविख्यात लोक चित्रकला कौन-सी है?",
           "options": [
-            "हम इस पाठ में इकाई 23.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («सफ़ेद» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («काला» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («भूरा» का अनुचित स्थान)"
+            "मधुबनी / मिथिला चित्रकला (Madhubani / Mithila Painting - Traditional folk art of Bihar [indigenous painting school])",
+            "डिजिटल ग्राफ़िक्स (आधुनिक कंप्यूटर कला)",
+            "ऑयल स्प्रे पेंटिंग (आधुनिक स्प्रे)",
+            "चाक ड्राइंग (अस्थायी कक्षा कला)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "बिहार के मिथिलांचल की पारंपरिक लोक चित्रकला को «मधुबनी चित्रकला» कहा जाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"हरा\":",
+          "prompt": "सोने के वर्क और उभरी हुई कारीगरी वाली तमिलनाडु की पारंपरिक चित्रकला को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 23.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («काला» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («भूरा» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («सफ़ेद» का अशुद्ध रूप)"
+            "तंजौर चित्रकला (Tanjore Painting - Classical South Indian painting featuring gold leaf)",
+            "कार्टून कला (हास्य चित्र)",
+            "फ़ोटोकॉपी (दस्तावेज़ प्रतिलिपि)",
+            "सिनेमा पोस्टर (प्रचार चित्र)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "तंजौर (तंजावुर) की स्वर्ण-पत्र जड़ी चित्रकला को «तंजौर चित्रकला» कहा जाता है।"
         }
       ]
     },
@@ -9775,17 +9814,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"हरा\": Which sentence is completely correct?",
+          "prompt": "दृश्य कला, चित्रकला और शिल्प का पूर्णतः प्रामाणिक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 23.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («भूरा» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («सफ़ेद» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («काला» से संबंधित)"
+            "प्रस्तर मूर्तियों पर बारीक नक्काशी और शास्त्रीय अनुपात का यह बेजोड़ संगम प्राचीन भारतीय मूर्तिकला की पराकाष्ठा है। (This unmatched confluence of intricate carving and classical proportions on stone sculptures is the pinnacle of ancient Indian sculpture.)",
+            "मूर्तियों को कल सुबह नदी में फेंक देना चाहिए।",
+            "नक्काशी मत करो ताकि पत्थर टूट जाए।",
+            "प्राचीन काल में कोई चित्र नहीं बनाता था।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«प्रस्तर मूर्तियों पर बारीक नक्काशी... मूर्तिकला की पराकाष्ठा है» दृश्य कला समीक्षा का परिपक्व वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u23-l5": {
@@ -9793,53 +9833,62 @@
     "subject": "hindi",
     "unit": 23,
     "lessonNumber": 5,
-    "title": "सिनेमा, संगीत और कला समीक्षा (Cinema & Arts) (Part 5)",
+    "title": "कला, संगीत व नाट्य समीक्षा का समग्र समेकन (Comprehensive Arts Criticism, Aesthetics & Rasa Theory Synthesis)",
     "level": "B2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 23.5) with authentic linguistic precision.",
+    "objective": "भरतमुनि के नाट्यशास्त्र, नवरस सिद्धांत (Aesthetic Rasa Theory), साधारणीकरण तथा कला-आलोचना के समग्र शास्त्रीय विमर्श में पूर्ण अधिकार प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "भारतीय सौंदर्यशास्त्र (Indian Aesthetics), रस सिद्धांत और कला समीक्षा का समग्र दर्शन:\n\n1. **भरतमुनि का रस सूत्र और नवरस सिद्धांत (Nine Aesthetic Rasas)**:\n   - *विभावानुभावव्यभिचारिसंयोगाद्रसनिष्पत्तिः* (रस की उत्पत्ति);\n   - **नवरस**: श्रृंगार (Erotic/Love), हास्य (Comic), करुण (Pathetic/Sorrow), रौद्र (Furious), वीर (Heroic), भयानक (Terrible), बीभत्स (Odious/Disgust), अद्भुत (Marvelous), शांत (Peaceful/Serene)।\n\n2. **साधारणीकरण और रसानुभूति (Universalization of Emotion)**:\n   - जब दर्शक या श्रोता व्यक्तिगत सीमाओं से ऊपर उठकर सार्वभौमिक सौंदर्य का आनंद लेता है, उसे **'साधारणीकरण'** कहते हैं;\n   - कला का अंतिम लक्ष्य **'रसो वै सः'** (आनंद और सत्य का साक्षात्कार) है।\n\n3. **कला समीक्षा के मानदण्ड (Criteria of Art Criticism)**:\n   - भाव-पक्ष और कला-पक्ष का संतुलन;\n   - सामाजिक प्रासंगिकता, रचनात्मक मौलिकता और सौंदर्यशास्त्रीय प्रभाव।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 23.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 23."
+          "target": "भरतमुनि के नाट्यशास्त्र में प्रतिपादित नवरस सिद्धांत भारतीय कला, संगीत और रंगमंच की आत्मा है, जो दर्शक को अलौकिक आनंद का साक्षात्कार कराता है।",
+          "reading": "Bharatmuni ke Naatyashaastr mein pratipaadit navras siddhaant bhaarteey kala, sangeet aur rangmanch ki aatma hai, jo darshak ko alaukik aanand ka saakshaatkaar karaata hai. [bʱərət̪mʊnɪ keː naːʈjəʃaːst̪r mẽː prət̪ɪpaːd̪ɪt̪ nɔːrəs sɪd̪ːʱaːn̪t̪ bʱaːrt̪iːj kəlaː səŋɡiːt̪ ɔːr rəŋɡməntʃ kiː aːt̪maː hɛː dʒoː d̪ərʃək koː əlɔːkɪk aːnən̪d̪ kaː saːkʃaːt̪kaːr kəraːt̪aː hɛː] (bhuh-ruht-MOO-nee kay naht-yuh-SHAHST-ruh mayn pruh-tee-pah-DEET nuhv-RUHS seed-DHAHNT bhahr-TEE-yuh kuh-LAH, suhng-GEET owr ruhng-MUHNCH kee AHT-mah hy, joh duhr-SHUHK koh uh-low-KEEK ah-NUHND kah sahk-shaht-KAHR kuh-rah-TAH hy)",
+          "translation": "The Nine Rasas theory propounded in Bharata Muni's Natyashastra is the soul of Indian art, music, and theatre, which brings the spectator to the realization of transcendental bliss."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 23-5)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "कला समीक्षक ने नाटक के कथानक, सधे हुए संवाद, संगीत और प्रकाश-संयोजन के सुंदर तालमेल की प्रशंसा करते हुए इसे समकालीन रंगमंच की अनुपम उपलब्धि बताया।",
+          "reading": "kala sameekshak ne naatak ke kathanak, sadhe hue samvaad, sangeet aur prakaash-sanyojan ke sundar taalmel ki prashansa karte hue ise samkaaleen rangmanch ki anupam uplabdhi bataaya. [kəlaː səmbiːkʃək neː naːʈək keː kət̪ʰaːnək səd̪ʱeː hʊeː səmʋaːd̪ səŋɡiːt̪ ɔːr prəkaːʃ sənjoːdʒən keː sʊn̪d̪ər t̪aːlmeːl kiː prəʃənsaː kərt̪eː hʊeː ɪseː səmkaːliːn rəŋɡməntʃ kiː ənʊpəm ʊpləbd̪ʱɪ bətaːjaː] (kuh-LAH suh-meek-SHUHK nay NAH-tuhk kay kuh-thah-NUHK, suh-DHAY HOO-ay suhm-VAHD, suhng-GEET owr pruh-kahsh-suhn-YOH-juhn kay SOON-duhr tahl-MAYL kee pruh-shuhn-SAH KUHR-tay HOO-ay ee-SAY suhm-kah-LEEN ruhng-MUHNCH kee uh-noo-PUHM oop-LUHBD-hee buh-TAH-yah)",
+          "translation": "The art critic, praising the beautiful harmony of the play's storyline, poised dialogues, music, and lighting design, described it as an incomparable achievement of contemporary theatre."
+        },
+        {
+          "target": "भव्य सांस्कृतिक संध्या के समापन पर प्रसिद्ध कलाविदों ने भारतीय पारंपरिक कला धरोहर के संरक्षण और युवा पीढ़ी में सुरुचिपूर्ण कला-संवेदना जगाने का पुरजोर आह्वान किया।",
+          "reading": "bhavya saanskritik sandhya ke samaapan par prasiddh kalaavidon ne bhaarteey paaramprik kala dharohar ke sanrakshan aur yuva peedhee mein suruchipoorna kala-sanvedana jagaane ka purzor aahvaan kiya. [bʱəʋjə saː̃skrɪt̪ɪk sən̪d̪ʱjaː keː səmaːpən pər prəsɪd̪ːʱ kəlaːʋɪd̪õː neː bʱaːrt̪iːj paːrəmpərɪk kəlaː d̪ʱəroːɦər keː sənkrəkʃəɳ ɔːr jʊʋaː piːɽʱiː mẽː sʊrʊtʃɪpuːrɳ kəlaː sənʋeːd̪naː dʒəɡaːneː kaː pʊrzoːr aːɦʋaːn kɪjaː] (BHUHV-yuh sahn-skree-TEEK suhn-DHYAH kay suh-MAH-puhn puhr pruh-seedh kuh-lah-vee-DOHN nay bhahr-TEE-yuh pah-ruhm-puh-REEK kuh-LAH dhuh-ROH-huhr kay suhn-RUK-shuhn owr yoo-VAH peed-HEE mayn soo-roo-chee-POOR-nuh kuh-lah-suhn-VAYD-nah juh-gah-NAY kah poor-ZOHR ah-hvahn kee-YAH)",
+          "translation": "At the conclusion of the grand cultural evening, distinguished artists strongly called for preserving India's traditional artistic heritage and awakening refined aesthetic sensibility in the younger generation."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "रस सिद्धांत: भरतमुनि (नाट्यशास्त्र), नवरस (nine emotions), साधारणीकरण (universal aesthetic bliss)!"
+      ],
+      "culturalNotes": [
+        "भारतीय कला-दर्शन में 'रस' को केवल लौकिक आनंद नहीं बल्कि 'ब्रह्मानंद सहोदर' (दिव्य आनंद के समान) माना गया है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"सफ़ेद\":",
+          "prompt": "भारतीय सौंदर्यशास्त्र में 'नाट्यशास्त्र' और 'रस सिद्धांत' के प्रणेता आचार्य कौन हैं?",
           "options": [
-            "हम इस पाठ में इकाई 23.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («काला» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («भूरा» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («गुलाबी» का अनुचित स्थान)"
+            "आचार्य भरतमुनि (Acharya Bharata Muni - Sage Bharata, founder of Natyashastra and Rasa Theory)",
+            "पाणिनी (संस्कृत व्याकरणकार)",
+            "चाणक्य (अर्थशास्त्रकार)",
+            "आर्यभट्ट (गणितज्ञ)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "नाट्यशास्त्र और रस सूत्र के मूल रचयिता आचार्य «भरतमुनि» हैं।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"सफ़ेद\":",
+          "prompt": "कला के अनुभव में जब व्यक्तिगत संकीर्णता समाप्त होकर सार्वभौमिक आनंद मिलता है, तो उस प्रक्रिया को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 23.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («भूरा» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («गुलाबी» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («काला» का अशुद्ध रूप)"
+            "साधारणीकरण (Saadhaaranikaran - Universalization of aesthetic experience [classical Rasa doctrine])",
+            "निजीकरण (आर्थिक प्रक्रिया)",
+            "लड़ाई-झगड़ा (विवाद)",
+            "क्रोध (नकारात्मक विकार)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "रस निष्पत्ति में व्यक्तिगत बंधनों से मुक्त होकर सार्वजनीन रसानुभूति को «साधारणीकरण» कहते हैं।"
         }
       ]
     },
@@ -9847,17 +9896,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"सफ़ेद\": Which sentence is completely correct?",
+          "prompt": "कला, संगीत व सौंदर्यशास्त्र (Aesthetics & Art Criticism) का समग्र मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 23.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («गुलाबी» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («काला» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («भूरा» से संबंधित)"
+            "नाट्य प्रस्तुति में नवरसों का सजीव प्रकटीकरण दर्शकों को साधारणीकरण के माध्यम से परम रसानुभूति प्रदान करता है। (The vivid manifestation of the nine rasas in the theatrical performance provides supreme aesthetic bliss to the audience through universalization.)",
+            "नाट्य प्रस्तुति के समय सब लोग चाय पीने चले गए थे।",
+            "नवरस को पानी में घोलकर पी लेना चाहिए।",
+            "रसानुभूति मत करो ताकि कोई खुश न हो।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«नाट्य प्रस्तुति में नवरसों का सजीव प्रकटीकरण... परम रसानुभूति प्रदान करता है» भारतीय सौंदर्यशास्त्र का परिष्कृत और प्रामाणिक वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u24-l1": {
