@@ -8767,56 +8767,65 @@
     "subject": "korean",
     "unit": 19,
     "lessonNumber": 1,
-    "title": "피동 표현(-이/히/리/기-, -아/어지다) (Passive Voice) (Part 1)",
+    "title": "단형 피동 접미사 ('-이/히/리/기-')",
     "level": "B2",
-    "objective": "Comprehensive mastery of 피동사 접미사와 -아/어지다 (Passive Voice Syntaxes).",
+    "objective": "타동사 어간에 결합하여 '남의 힘에 의해 동작을 당하거나 자연스레 일어나게 됨'을 나타내는 4대 단형 피동 접미사의 형태 결합 규칙을 마스터한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 피동 표현(-이/히/리/기-, -아/어지다) (Passive Voice) » (제1절)의 핵심 언어 요소와 피동사 접미사와 -아/어지다 (Passive Voice Syntaxes)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한국어에서 주어가 동작을 직접 수행하는 것이 아니라, 다른 주체에 의해 어떤 동작을 당하거나 저절로 실현되는 것을 피동(Passive Voice)이라고 합니다. 타동사 어간에 파생 접미사 '-이/히/리/기-'를 결합하여 단형 피동사를 만듭니다.\n\n1. 4대 피동 접미사 분류 및 규칙:\n- **-이-** (모음 종결 어간 or 받침 ㄱ/ㅂ/ㄷ 일부):\n  - 보다 → **보이다** (\"저 멀리 산이 보여요.\")\n  - 쓰다 → **쓰이다** (\"이 단어는 자주 쓰입니다.\")\n  - 놓다 → **놓이다** (\"책상 위에 꽃병이 놓여 있어요.\")\n  - 쌓다 → **쌓이다** (\"마당에 눈이 하얗게 쌓였어요.\")\n- **-히-** (받침 ㄱ/ㄷ/ㅂ/ㅈ):\n  - 닫다 → **닫히다** [다치다] (\"바람에 창문이 닫혔어요.\")\n  - 먹다 → **먹히다** [머키다] (\"모기에게 물리고 먹히다\")\n  - 잡다 → **잡히다** [자피다] (\"경찰에게 범인이 잡혔습니다.\")\n  - 꽂다 → **꽂히다** [꼬치다] (\"책꽂이에 책이 꽂혀 있어요.\")\n- **-리-** (받침 ㄹ or ㄷ 불규칙):\n  - 듣다 → **들리다** (\"밖에서 빗소리가 들려요.\")\n  - 열다 → **열리다** (\"드디어 문이 열렸습니다.\")\n  - 팔다 → **팔리다** (\"신제품이 날개 돋친 듯 팔립니다.\")\n  - 풀다 → **풀리다** (\"어려웠던 문제가 풀렸어요.\")\n- **-기-** (받침 ㄴ/ㅁ/ㅅ/ㅊ/ㄶ):\n  - 끊다 → **끊기다** [끈키다] (\"전화 연결이 갑자기 끊겼어요.\")\n  - 안다 → **안기다** (\"아기가 엄마 품에 안겼습니다.\")\n  - 쫓다 → **쫓기다** [쪼키다] (\"시간에 쫓기며 일하다.\")\n  - 찢다 → **찢기다** (\"종이가 찢겼어요.\")",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (19.1.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "창밖으로 아름다운 한강의 야경과 남산타워가 한눈에 똑똑히 보입니다.",
+          "reading": "Changbak-euro areumdaun Han-gang-ui yagyeong-gwa Namsantaweo-ga hannun-e ttokttokhi boimnida.",
+          "translation": "The beautiful night view of the Han River and Namsan Tower are clearly visible at a glance out the window ('보다' → '보이다' passive)."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (19.1.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "갑자기 거세게 불어닥친 돌풍 때문에 열려 있던 베란다 창문이 쾅 닫혔습니다.",
+          "reading": "Gapjagi geose-ge bureodakchin dolpung ttaemun-e yeollyeo itdeon beranda changmun-i kwang dachyeotseumnida.",
+          "translation": "Because of the sudden strong gust of wind, the open veranda window slammed shut ('닫다' → '닫히다')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (19.1.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "조용한 숲속 오솔길을 걷는 동안 맑은 산새 소리와 시냇물 소리가 청아하게 들렸어요.",
+          "reading": "Joyonghan supsok osolgil-eul geotneun dong-an malgeun sansae sori-wa sinaenmul sori-ga cheong-ahage deullyeosseoyo.",
+          "translation": "While walking on the quiet forest path, the clear sounds of mountain birds and stream water were serenely audible ('듣다' → '들리다')."
+        },
+        {
+          "target": "터널 안으로 진입하자마자 스마트폰 통화 연결이 갑자기 뚝 끊겼습니다.",
+          "reading": "Teoneol an-euro jinip-hajamaja seumateupon tonghwa yeon-gyeol-i gapjagi ttuk kkeunkyeotseumnida.",
+          "translation": "As soon as we entered the tunnel, the smartphone phone call connection suddenly got cut off ('끊다' → '끊기다')."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "눈에 보이고(이), 문이 닫히고(히), 귀에 들리고(리), 전화 끊기네(기)! 이·히·리·기 피동!"
+      ],
+      "culturalNotes": [
+        "한국어 피동사는 단순한 수동적 피동뿐 아니라, 화자의 의도와 상관없이 감각 기관에 자연스럽게 지각되는 자발(Spontaneous Perception)을 표현할 때 핵심적으로 쓰입니다(예: 보이다, 들리다)."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 피동사 접미사와 -아/어지다 (Passive Voice Syntaxes) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 1)?",
+          "prompt": "'듣다(hear)'의 올바른 단형 피동사 형태는 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (19.1.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (19.1.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (19.1.3)."
+            "들리다",
+            "듣히다",
+            "듣기다"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "'듣다'의 피동사는 'ㄷ'이 'ㄹ'로 바뀌고 '-리-'가 붙어 '들리다'가 됩니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 피동 표현(-이/히/리/기-, -아/어지다) (Passive Voice) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 1):",
+          "prompt": "'경찰이 도둑을 잡았다(능동)'를 피동문으로 바르게 전환한 문장은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (19.1.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (19.1.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (19.1.3)."
+            "도둑이 경찰에게 잡혔다.",
+            "도둑이 경찰에게 잡았다.",
+            "도둑이 경찰에게 잡렸다."
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "주어 '도둑이', 행위자 '경찰에게', 피동사 '잡히다(잡혔다)'의 구조가 완벽합니다."
         }
       ]
     },
@@ -8824,14 +8833,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 피동사 접미사와 -아/어지다 (Passive Voice Syntaxes) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 19-1)?",
+          "prompt": "'문이 바람에 저절로 _____.' 빈칸에 알맞은 피동사 형태는?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (19.1.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (19.1.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (19.1.3)."
+            "닫혔어요",
+            "닫았어요",
+            "닫겼어요"
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR B2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "'닫다'의 피동사는 '-히-'가 결합하여 '닫히다(닫혔어요)'가 됩니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'밖에서 빗소리가 들려요'(The sound of rain is heard outside)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "밖에서 빗소리가 들려요.",
+            "밖에서 빗소리가 들려요"
+          ],
+          "explanation": "밖에서 + 빗소리가 + 들려요(들리다 + 어요) = 밖에서 빗소리가 들려요."
         }
       ]
     }
@@ -8841,56 +8859,65 @@
     "subject": "korean",
     "unit": 19,
     "lessonNumber": 2,
-    "title": "피동 표현(-이/히/리/기-, -아/어지다) (Passive Voice) (Part 2)",
+    "title": "장형 통사적 피동 어미 ('-아/어지다')",
     "level": "B2",
-    "objective": "Comprehensive mastery of 피동사 접미사와 -아/어지다 (Passive Voice Syntaxes).",
+    "objective": "단형 피동 접미사가 붙지 않는 3음절 이상 동사나 '-하다' 동사에 결합하여 피동 및 상태 변화를 나타내는 '-아/어지다' 구문을 체득한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 피동 표현(-이/히/리/기-, -아/어지다) (Passive Voice) » (제2절)의 핵심 언어 요소와 피동사 접미사와 -아/어지다 (Passive Voice Syntaxes)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한국어의 모든 타동사가 '-이/히/리/기-' 접미사를 가질 수 있는 것은 아닙니다. 접미사 피동형이 없는 대부분의 동사나 복합 동사는 보조 용언적 피동 어미 '-아/어지다'를 결합하여 통사적 장형 피동을 구성합니다.\n\n1. 결합 규칙:\n- 양성 모음 (ㅏ, ㅗ) → **-아지다**\n  - 좋아하다 → **좋아지다**, 흩다 → **흩어지다**\n- 음성 모음 (ㅓ, ㅜ, ㅡ, ㅣ 등) → **-어지다**\n  - 만들다 → **만들어지다** (\"장인의 손에서 만들어진 명품\")\n  - 쓰다 → **써지다** (단, 접미사 피동은 '쓰이다')\n  - 이루다 → **이루어지다** (\"소원이 이루어졌어요.\")\n  - 믿다 → **믿어지다** (\"꿈처럼 믿어지지 않아요.\")\n- 하다 동사 → **-해지다 / -하여지다**\n  - 전하다 → **전해지다** (\"전설이 전해져 내려옵니다.\")\n  - 정하다 → **정해지다** (\"회의 날짜가 정해졌습니다.\")\n\n2. 피동 vs 상태 변화 (Passive vs Change of State):\n- 동사 + -아/어지다 = 피동 (Action Passive): 만들어지다, 전해지다\n- 형용사 + -아/어지다 = 점진적 상태 변화 (Becoming): 따뜻해지다, 예뻐지다, 밝아지다",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (19.2.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "오랜 세월 동안 사람들의 입에서 입으로 흥미진진한 전설이 전해져 내려왔습니다.",
+          "reading": "Oraen sewol dong-an saramdeul-ui ip-eseo ip-euro heungmijinjinhan jeonseol-i jeonhaejyeo naeryeowatseumnida.",
+          "translation": "Over long periods of time, fascinating legends have been transmitted from mouth to mouth ('전하다' → '전해지다')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (19.2.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "수많은 연구진의 끈질긴 헌신과 노력 끝에 획기적인 신약이 드디어 만들어졌습니다.",
+          "reading": "Sumanheun yeon-gujin-ui kkeunjilgin heonsin-gwa noryeok kkeut-e hoekgijeogin sinyak-i deudieo mandeureojyeotseumnida.",
+          "translation": "At the end of persistent dedication and effort of numerous researchers, an epoch-making new drug was finally created ('만들다' → '만들어지다')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (19.2.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "다음 달에 개최될 국제 학술 심포지엄의 구체적인 세부 일정이 최종 정해졌습니다.",
+          "reading": "Daeum dal-e gaechoedoel gukje hakssul simpojieom-ui guchejeogin sebu iljeong-i choejong jeonghaejyeotseumnida.",
+          "translation": "The concrete detailed schedule of the international academic symposium to be held next month has been finally determined ('정하다' → '정해지다')."
+        },
+        {
+          "target": "시험에 만점을 받았다는 기쁜 합격 소식이 도무지 꿈만 같아서 믿어지지 않아요.",
+          "reading": "Siheom-e manjeom-eul badatdaneun gippeun hapgyeok sosik-i domuji kkumman gat-aseo mideojiji anhayo.",
+          "translation": "The joyful passing news that I got a perfect score on the exam feels just like a dream, so it cannot be believed ('믿다' → '믿어지다')."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "전해지고, 만들어지고, 정해지는 건 '-아/어지다'! 세상 모든 결과의 통사적 피동!"
+      ],
+      "culturalNotes": [
+        "한국어에서 '소원이 이루어지다', '꿈이 실현되다'처럼 인간의 의지 너머에 있는 거대한 결과는 능동문보다 피동 표현('-아/어지다')으로 완결 짓는 것이 전통적 사고방식에 더욱 부합합니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 피동사 접미사와 -아/어지다 (Passive Voice Syntaxes) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 2)?",
+          "prompt": "'만들다(make)'의 올바른 장형 피동 형태는 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (19.2.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (19.2.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (19.2.3)."
+            "만들어지다",
+            "만들이다",
+            "만들히다"
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "'만들다'는 3음절 이상 용언으로 접미사가 붙지 않고 '-어지다'가 붙어 '만들어지다'가 됩니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 피동 표현(-이/히/리/기-, -아/어지다) (Passive Voice) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 2):",
+          "prompt": "'회의 날짜를 정했다'를 피동문으로 전환하여 일정이 결정되었음을 나타낸 올바른 문장은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (19.2.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (19.2.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (19.2.3)."
+            "회의 날짜가 정해졌습니다.",
+            "회의 날짜가 정했습니다.",
+            "회의 날짜가 정히였습니다."
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "'정하다'에 '-아/어지다'가 결합하여 '정해지다(정해졌습니다)'가 됩니다."
         }
       ]
     },
@@ -8898,14 +8925,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 피동사 접미사와 -아/어지다 (Passive Voice Syntaxes) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 19-2)?",
+          "prompt": "다음 중 '-아/어지다' 피동 표현의 결합이 어법상 가장 자연스러운 것은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (19.2.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (19.2.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (19.2.3)."
+            "도저히 꿈같아서 사실이라고 믿어지지 않아요.",
+            "도저히 꿈같아서 사실이라고 믿히지 않아요.",
+            "도저히 꿈같아서 사실이라고 믿리지 않아요."
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR B2 target-language standard."
+          "explanation": "'믿다'의 자연스러운 피동 표현은 '믿어지다'입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'소원이 이루어졌어요'(My wish came true)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "소원이 이루어졌어요.",
+            "소원이 이루어졌어요"
+          ],
+          "explanation": "소원이 + 이루어졌어요(이루어지다 + 었 + 어요) = 소원이 이루어졌어요."
         }
       ]
     }
@@ -8915,56 +8951,65 @@
     "subject": "korean",
     "unit": 19,
     "lessonNumber": 3,
-    "title": "피동 표현(-이/히/리/기-, -아/어지다) (Passive Voice) (Part 3)",
+    "title": "상황적·결과적 피동 ('-게 되다')",
     "level": "B2",
-    "objective": "Comprehensive mastery of 피동사 접미사와 -아/어지다 (Passive Voice Syntaxes).",
+    "objective": "자신의 직접적인 의도보다는 외부 상황, 제도, 인연에 의해 어떤 새로운 국면이나 지위에 이르게 됨을 나타내는 '-게 되다' 구문을 습득한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 피동 표현(-이/히/리/기-, -아/어지다) (Passive Voice) » (제3절)의 핵심 언어 요소와 피동사 접미사와 -아/어지다 (Passive Voice Syntaxes)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "'-게 되다'는 주어의 직접적인 의지나 통제를 벗어나 외부의 객관적 상황, 규칙, 결정, 인연 등의 작용으로 어떤 결과나 상태에 도달하게 됨(Resultative / Circumstantial Passive)을 나타내는 매우 유용한 문법입니다.\n\n1. 핵심 뉘앙스 (Core Nuances):\n- 외부 환경이나 지시로 인한 변화: \"다음 달부터 본사 기획팀에서 일하게 되었습니다.\"\n- 우연한 기회나 인연: \"우연히 길에서 옛 친구를 만나게 되었어요.\"\n- 자연스러운 인식의 발전: \"수업을 들으면서 한국 문화의 매력을 점차 알게 되었습니다.\"\n\n2. '-게 하다'(사동) vs '-게 되다'(피동/결과):\n- 사동: 선생님이 학생을 공부하게 했다. (Make someone do)\n- 피동: 장학금을 받아서 한국으로 유학을 가게 되었다. (Come to be in a situation to do)",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (19.3.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "회사 인사 이동 발령에 따라 다음 달부터 해외 지사에서 근무하게 되었습니다.",
+          "reading": "Hoesa insa idong ballyeong-e ttara daeum dal-buteo haeoe jisa-eseo geunmuhage doeeotseumnida.",
+          "translation": "In accordance with the company personnel transfer announcement, I have come to work at an overseas branch starting next month ('-게 되었습니다')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (19.3.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "한국인 룸메이트와 일 년 동안 함께 생활하면서 한국 요리를 자연스럽게 배우게 되었어요.",
+          "reading": "Hangukin rummeiteu-wa il nyeon dong-an hamkke saenghwalhamyeonseo hanguk yori-reul jayeonseureopge baeuge doeeosseoyo.",
+          "translation": "While living together with a Korean roommate for one year, I came to learn Korean cooking naturally."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (19.3.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "갑작스러운 폭설로 인해 오늘 출발 예정이던 모든 항공편이 결항되게 되었습니다.",
+          "reading": "Gapjakeuseureoun pokseol-ro inhae oneul chulbal yejeong-ideon modeun hang-gongpyeon-i gyeolhangdoege doeeotseumnida.",
+          "translation": "Due to sudden heavy snowfall, all flights scheduled to depart today have ended up being canceled ('결항되게 되었습니다')."
+        },
+        {
+          "target": "처음에는 낯설었지만 자주 왕래하면서 동네 이웃들과 친한 사이로 발전하게 되었어요.",
+          "reading": "Cheoeum-eneun natseoreotjiman jaju wangraehamyeonseo dongne iutdeul-gwa chinhan sai-ro baljeonhage doeeosseoyo.",
+          "translation": "Although it was unfamiliar at first, coming and going frequently led us to develop into close relations with village neighbors."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "상황이 그렇게 만들었을 땐 '-게 되다'! 인사 발령, 새로운 인연, 저절로 알게 됨!"
+      ],
+      "culturalNotes": [
+        "한국인들은 자신의 성취나 진로를 겸손하게 표현할 때 \"제가 노력해서 합격했습니다\"보다 \"운 좋게 좋은 결과를 얻게 되었습니다\"처럼 '-게 되다'를 사용하여 겸양의 미덕을 표합니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 피동사 접미사와 -아/어지다 (Passive Voice Syntaxes) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 3)?",
+          "prompt": "외부 인사 발령으로 인해 부산으로 전근 가게 되었음을 표현한 가장 알맞은 문장은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (19.3.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (19.3.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (19.3.3)."
+            "다음 달부터 부산에서 근무하게 되었습니다.",
+            "다음 달부터 부산에서 근무하게 했습니다.",
+            "다음 달부터 부산에서 근무하게 보았습니다."
           ],
           "answerIndex": 0,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "explanation": "외부 결정이나 상황에 의한 상태 변화는 '-게 되다(근무하게 되었습니다)'를 씁니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 피동 표현(-이/히/리/기-, -아/어지다) (Passive Voice) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 3):",
+          "prompt": "'한국 문화를 깊이 알다'를 점진적 인식 변화 구문으로 나타낸 가장 자연스러운 표현은?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (19.3.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (19.3.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (19.3.3)."
+            "한국 문화를 점차 깊이 알게 되었습니다.",
+            "한국 문화를 점차 깊이 알게 시켰습니다.",
+            "한국 문화를 점차 깊이 알아지게 되었습니다."
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "동사 '알다'와 '-게 되다'가 결합하여 '알게 되었습니다'가 됩니다."
         }
       ]
     },
@@ -8972,14 +9017,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 피동사 접미사와 -아/어지다 (Passive Voice Syntaxes) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 19-3)?",
+          "prompt": "다음 중 '-게 되다'의 화용론적 쓰임새로 가장 알맞은 설명은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (19.3.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (19.3.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (19.3.3)."
+            "개인의 독단적 고집보다는 외부 환경, 결정, 자연스러운 과정의 결과를 겸손히 드러낸다.",
+            "다른 사람에게 강제로 행동을 지시할 때 쓴다.",
+            "과거에 완료하지 못한 일을 후회할 때 쓴다."
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR B2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "'-게 되다'는 외부 상황의 귀결이나 자연스러운 변화 국면을 나타냅니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'한국에서 일하게 되었어요'(I have come to work in Korea)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "한국에서 일하게 되었어요.",
+            "한국에서 일하게 되었어요"
+          ],
+          "explanation": "한국에서 + 일하게 되었어요(일하다 + 게 되다 + 었어요) = 한국에서 일하게 되었어요."
         }
       ]
     }
@@ -8989,56 +9043,65 @@
     "subject": "korean",
     "unit": 19,
     "lessonNumber": 4,
-    "title": "피동 표현(-이/히/리/기-, -아/어지다) (Passive Voice) (Part 4)",
+    "title": "피동태의 격 표지 전환 및 이중 피동 오류 교정",
     "level": "B2",
-    "objective": "Comprehensive mastery of 피동사 접미사와 -아/어지다 (Passive Voice Syntaxes).",
+    "objective": "능동문에서 피동문으로 바뀔 때의 격조사(이/가, 에게/에 의해, 으로) 전환 원리를 이해하고, 흔히 범하는 이중 피동 비문 오류를 철저히 교정한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 피동 표현(-이/히/리/기-, -아/어지다) (Passive Voice) » (제4절)의 핵심 언어 요소와 피동사 접미사와 -아/어지다 (Passive Voice Syntaxes)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "피동문을 정확히 구사하기 위해서는 주어와 목적어의 격 표지(Case Marker) 전환 원리를 숙지하고, 접미사 피동과 '-아/어지다'가 불필요하게 겹친 이중 피동(Double Passive) 오류를 교정해야 합니다.\n\n1. 능동문 ↔ 피동문 격 표지 전환 공식:\n- 능동문: [주어 -이/가] + [목적어 -을/를] + [타동사]\n  - 예: \"사냥꾼이(주어) 호랑이를(목적어) 잡았다.\"\n- 피동문: [원래 목적어 -이/가] + [원래 주어 -에게 / -에 의해] + [피동사]\n  - 예: \"호랑이가(새 주어) 사냥꾼에게(유정물 행위자) 잡혔다.\"\n  - 무정물 원인: \"돌풍에(무정물) 창문이 닫혔다.\"\n\n2. 절대 금기: 이중 피동 오류 교정 (Correcting Double Passive Errors):\n- 피동 접미사(-이/히/리/기-)가 이미 붙은 단어에 '-아/어지다'를 또 붙이면 비문(Ungrammatical)!\n- ❌ 잊혀지다 (잊- + -히- + -어지다) → ⭕ **잊히다** or **잊어지다**\n- ❌ 불려지다 (부르- + -리- + -어지다) → ⭕ **불리다**\n- ❌ 쓰여지다 (쓰- + -이- + -어지다) → ⭕ **쓰이다** or **써지다**\n- ❌ 닫혀지다 (닫- + -히- + -어지다) → ⭕ **닫히다**\n- ❌ 끊겨지다 (끊- + -기- + -어지다) → ⭕ **끊기다**",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (19.4.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "사람들의 기억 속에서 영원히 잊히지 않을 감동적인 영웅의 희생이었습니다.",
+          "reading": "Saramdeul-ui gieok sok-eseo yeong-wonhi itchiji anheul gamdongjeogin yeong-ung-ui huisaeng-ieotseumnida.",
+          "translation": "It was a moving hero's sacrifice that will never be forgotten in people's memory (Correct single passive '잊히다', NOT *'잊혀지다')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (19.4.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "이 아름다운 호수는 사계절 내내 청량한 빛을 띠어 '푸른 보석'이라 불립니다.",
+          "reading": "I areumdaun hosu-neun sagyejeol naenae cheongryanghan bit-eul ttieo 'pureun boseok'-ira bullimnida.",
+          "translation": "This beautiful lake takes on a refreshing hue throughout all four seasons and is called the 'Blue Jewel' (Correct '불리다', NOT *'불려지다')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (19.4.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "한글은 전 세계 언어학자들에게 대단히 과학적이고 독창적인 문자로 쓰이고 있습니다.",
+          "reading": "Hangeul-eun jeon segye eon-eohakjadeul-ege daedanhi gwahakjeog-igo dokchangjeogin munja-ro ssu-igo itseumnida.",
+          "translation": "Hangul is being used as a remarkably scientific and original script among linguists worldwide ('쓰이다', NOT *'쓰여지다')."
+        },
+        {
+          "target": "경찰의 신속한 출동에 의해 연쇄 절도 용의자가 현장에서 전원 잡혔습니다.",
+          "reading": "Gyeongchal-ui sinsokhan chuldong-e uihae yeonswae jeoldo yong-uija-ga hyeonjang-eseo jeon-won japhyeotseumnida.",
+          "translation": "By the rapid dispatch of the police, all serial theft suspects were caught at the scene ('~에 의해' + '잡히다')."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "'잊혀지다'는 틀림! '잊히다'가 정답! '불려지다'도 틀림! '불리다'가 바른말! 이중 피동 타파!"
+      ],
+      "culturalNotes": [
+        "방송이나 언론 기사에서도 무분별한 번역투로 인해 *'잊혀진 계절', *'생각되어집니다' 같은 이중 피동 오류가 자주 노출되지만, 올바른 표준 국어 문법은 단일 피동('잊힌', '생각됩니다')만을 표준어로 인정합니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 피동사 접미사와 -아/어지다 (Passive Voice Syntaxes) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 4)?",
+          "prompt": "'부르다(call)'의 올바른 단일 피동 표준어 형태는 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (19.4.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (19.4.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (19.4.3)."
+            "불리다",
+            "불려지다",
+            "부르어지다"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "'부르다'의 올바른 피동사는 '불리다'이며, '불려지다'는 이중 피동 오류입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 피동 표현(-이/히/리/기-, -아/어지다) (Passive Voice) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 4):",
+          "prompt": "다음 중 이중 피동 오류가 없는 문법적으로 완벽한 문장은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (19.4.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (19.4.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (19.4.3)."
+            "세월이 흘러도 그의 이름은 영원히 잊히지 않을 것입니다.",
+            "세월이 흘러도 그의 이름은 영원히 잊혀지지 않을 것입니다.",
+            "세월이 흘러도 그의 이름은 영원히 잊히어지지 않을 것입니다."
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "'잊히다'는 단일 피동형으로 어법에 완벽하게 부합합니다 (*'잊혀지다'는 비문)."
         }
       ]
     },
@@ -9046,14 +9109,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 피동사 접미사와 -아/어지다 (Passive Voice Syntaxes) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 19-4)?",
+          "prompt": "다음 중 올바른 피동형 짝지음이 아닌 것은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (19.4.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (19.4.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (19.4.3)."
+            "닫다 → 닫혀지다",
+            "닫다 → 닫히다",
+            "쓰다 → 쓰이다"
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR B2 target-language standard."
+          "answerIndex": 0,
+          "explanation": "'닫다'의 피동사는 '닫히다'이며, '닫혀지다'는 이중 피동 오류입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'영원히 잊히지 않을 추억이에요'(This is a memory that will never be forgotten)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "영원히 잊히지 않을 추억이에요.",
+            "영원히 잊히지 않을 추억이에요"
+          ],
+          "explanation": "영원히 + 잊히지 않을(잊히다 + 지 않다 + 을) + 추억이에요 = 영원히 잊히지 않을 추억이에요."
         }
       ]
     }
@@ -9063,56 +9135,65 @@
     "subject": "korean",
     "unit": 19,
     "lessonNumber": 5,
-    "title": "피동 표현(-이/히/리/기-, -아/어지다) (Passive Voice) (Part 5)",
+    "title": "사고 뉴스, 분실물 신고 및 날씨/환경 변화 묘사 실전 피동 담화",
     "level": "B2",
-    "objective": "Comprehensive mastery of 피동사 접미사와 -아/어지다 (Passive Voice Syntaxes).",
+    "objective": "단형 피동, 장형 피동, 결과 피동('-게 되다')을 종합하여 뉴스 브리핑, 분실물 신고, 환경 묘사 실전 담화를 완성한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 피동 표현(-이/히/리/기-, -아/어지다) (Passive Voice) » (제5절)의 핵심 언어 요소와 피동사 접미사와 -아/어지다 (Passive Voice Syntaxes)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "피동 표현은 뉴스 보도(사건/사고 객관적 전달), 경찰서/분실물 센터(지갑/가방 분실 신고), 기상 및 풍경 묘사에서 결정적인 역할을 수행합니다.\n\n1. 지하철 유실물 센터 분실물 신고 실전 담화 모델:\n- 손님: 저기요, 제가 2호선 지하철에 가방을 두고 내린 것 같아서 문의드리러 왔는데요.\n- 직원: 네, 어떤 가방인지 상세히 말씀해 주시겠어요?\n- 손님: 검은색 가죽 백팩인데, 가방 지퍼가 반쯤 열려 있고 앞주머니에 파란색 필통이 꽂혀 있어요.\n- 직원: 안에 귀중품이나 신분증이 들어 있었나요?\n- 손님: 네, 지갑과 학생증이 들어 있어요. 혹시 습득되어 접수된 물건이 있나요?\n- 직원: 잠시만요, 방금 역무실로 유실물 하나가 전달되어 들어왔는데요. 본인 확인 후 바로 찾아 드리겠습니다.\n- 손님: 정말 다행이네요! 친절하게 찾아 주셔서 감사합니다.",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (19.5.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "[뉴스 속보] 오늘 새벽 서해안 고속도로에서 짙은 안개로 인해 차량 5중 추돌 사고가 발생하여 도로가 전면 통제되었습니다.",
+          "reading": "[Nyuseu sokbo] Oneul saebyeok Seohaean gosokdoro-eseo jiteun angae-ro inhae charyang o-jung chudol sageo-ga balsaenghayeo doro-ga jeonmyeon tongjedoeeotseumnida.",
+          "translation": "[News Flash] Due to dense fog on the West Coast Expressway early this morning, a 5-vehicle chain collision occurred and the road was completely blocked ('통제되었습니다')."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (19.5.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "비행기 창가 좌석에 앉으니 솜사탕처럼 하얗게 흩어지는 구름이 시원하게 내려다보입니다.",
+          "reading": "Bihaenggi chang-ga jwaseok-e anjeuni somsatang-cheoreom hayake heuteojineun gureum-i siwonhage naeryeodaboimnida.",
+          "translation": "Sitting at the airplane window seat, the clouds scattering white like cotton candy are refreshingly looked down upon ('흩어지다' + '내려다보이다')."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (19.5.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "갑작스러운 정전 사태로 인해 엘리베이터 안에 승객 세 명이 30분간 갇히게 되었습니다.",
+          "reading": "Gapjakeuseureoun jeongjeon satae-ro inhae ellibeiteo an-e seunggaek se myeong-i 30-bun-gan gathige doeeotseumnida.",
+          "translation": "Due to a sudden blackout situation, three passengers ended up trapped inside the elevator for 30 minutes ('갇히다' + '-게 되었습니다')."
+        },
+        {
+          "target": "잃어버렸던 소중한 지갑이 선량한 시민의 따뜻한 신고 덕분에 주인 품으로 무사히 되돌아오게 되었습니다.",
+          "reading": "Ilheobeoryeotdeon sojunghan jigap-i seonlyanghan simin-ui ttatteuthan sin-go deokbun-e juin pum-euro musahi doedora-oge doeeotseumnida.",
+          "translation": "The lost precious wallet ended up safely returning to its owner's arms thanks to a warm report by a good-hearted citizen."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "사고 소식엔 '통제되었습니다', 분실물엔 '꽂혀 있고 전달되었습니다'! 실전 피동 완벽 구사!"
+      ],
+      "culturalNotes": [
+        "한국의 언론 보도문에서는 사건 사고의 원인과 책임을 주관적으로 단정 짓지 않고 객관적 사실만을 신속히 알리기 위해 '도로가 통제되다', '용의자가 검거되다', '피해가 발생하다' 등 피동 구문을 전면 배치합니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 피동사 접미사와 -아/어지다 (Passive Voice Syntaxes) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 5)?",
+          "prompt": "분실물 센터에서 가방의 상태를 설명할 때 '필통이 가방에 끼워져 있다'를 나타내는 가장 올바른 표현은?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (19.5.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (19.5.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (19.5.3)."
+            "앞주머니에 파란 필통이 꽂혀 있어요.",
+            "앞주머니에 파란 필통이 꽂아 있어요.",
+            "앞주머니에 파란 필통이 꽂혀져 있어요."
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "'꽂다'의 단일 피동사 '꽂히다'에 완료 상태 '-어 있다'가 붙어 '꽂혀 있어요'가 정확합니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 피동 표현(-이/히/리/기-, -아/어지다) (Passive Voice) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 5):",
+          "prompt": "뉴스 보도문 중 피동과 원인 격조사가 가장 정확하게 쓰인 문장은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (19.5.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (19.5.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (19.5.3)."
+            "강한 태풍으로 인해 해안가 도로가 침수되었습니다.",
+            "강한 태풍으로 인해 해안가 도로를 침수되었습니다.",
+            "강한 태풍으로 인해 해안가 도로가 침수하게 되었습니다."
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "원인('태풍으로 인해') + 피동 주어('도로가') + 피동 서술어('침수되었습니다')의 구성이 완벽합니다."
         }
       ]
     },
@@ -9120,14 +9201,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 피동사 접미사와 -아/어지다 (Passive Voice Syntaxes) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 19-5)?",
+          "prompt": "다음 중 문맥과 피동 표현이 가장 자연스러운 문장은?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (19.5.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (19.5.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (19.5.3)."
+            "창문을 여니 멀리 산봉우리가 한눈에 보이고 맑은 바람이 느껴집니다.",
+            "창문을 여니 멀리 산봉우리가 한눈에 보아지고 맑은 바람이 느끼어집니다.",
+            "창문을 여니 멀리 산봉우리가 한눈에 보여지고 맑은 바람이 느껴지게 합니다."
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR B2 target-language standard."
+          "explanation": "'보이다(단형 피동)' + '느껴지다(장형 피동)'의 배합이 완벽합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'저 멀리 산이 보여요'(The mountain is visible far over there)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "저 멀리 산이 보여요.",
+            "저 멀리 산이 보여요"
+          ],
+          "explanation": "저 멀리 + 산이 + 보여요(보이다 + 어요) = 저 멀리 산이 보여요."
         }
       ]
     }
