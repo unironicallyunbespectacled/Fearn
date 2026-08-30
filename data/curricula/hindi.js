@@ -9915,53 +9915,62 @@
     "subject": "hindi",
     "unit": 24,
     "lessonNumber": 1,
-    "title": "बैंकिंग, वित्त और डिजिटल भुगतान (Banking & Finance) (Part 1)",
+    "title": "बैंक खाते, ऋण और सावधि जमा (Bank Accounts, Loans & Fixed Deposits)",
     "level": "B2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 24.1) with authentic linguistic precision.",
+    "objective": "बैंकिंग प्रणाली के विभिन्न खातों (बचत खाता, चालू खाता, सावधि जमा), ऋण प्रक्रियाओं (गृह ऋण, व्यक्तिगत ऋण) तथा ब्याज दरों की औपचारिक शब्दावली में दक्षता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "भारतीय बैंकिंग प्रणाली, खाता प्रबंधन और ऋण व्यवस्था के मानक पारिभाषिक नियम:\n\n1. **बैंक खातों के प्रमुख प्रकार**:\n   - **बचत खाता** — व्यक्तिगत बचत, दैनिक जमा और ब्याज अर्जन हेतु मूल बैंक खाता;\n   - **चालू खाता** — व्यावसायिक प्रतिष्ठानों और व्यापारियों के असीमित लेन-देन हेतु;\n   - **सावधि जमा खाता (एफडी)** — एक निश्चित समयावधि के लिए उच्चतर ब्याज दर पर धनराशि सुरक्षित रखने की योजना;\n   - **आवर्ती जमा खाता (आरडी)** — प्रतिमाह निश्चित धनराशि नियमित रूप से जमा करने का बचत खाता।\n\n2. **ऋण और वित्तीय दायित्व**:\n   - **गृह ऋण एवं व्यक्तिगत ऋण** — आवास निर्माण अथवा निजी आवश्यकताओं हेतु स्वीकृत बैंक कर्ज़;\n   - **वार्षिक ब्याज दर** — ऋण अथवा जमा पर बैंक द्वारा निर्धारित वार्षिक प्रतिशत दर;\n   - **मासिक समेकित किश्त (ईएमआई)** — मूलधन और ब्याज का प्रतिमाह किया जाने वाला निश्चित भुगतान;\n   - **संपार्श्विक संपत्ति** — ऋण सुरक्षा हेतु बैंक के पास गिरवी रखी जाने वाली अचल संपत्ति या प्रतिभूति।\n\n3. **मानक बैंकिंग क्रियाएं**:\n   - *नया बैंक खाता खुलवाना, नकद धनराशि जमा करना व निकासी करना, ऋण आवेदन की स्वीकृति पाना, चेक भुनाना तथा खाता विवरण प्राप्त करना।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 24.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 24."
+          "target": "ग्राहक ने अपनी मासिक आय से नियमित बचत करने हेतु बैंक में पाँच वर्ष की अवधि के लिए सावधि जमा (एफडी) खाता खुलवाया।",
+          "reading": "graahak ne apni maasik aay se niyamit bachat karne hetu bank mein paanch varsh ki avadhi ke liye saavadhi jama (FD) khaata khulvaaya. [ɡraːɦək neː əpniː maːsɪk aːj seː nɪjəmɪt̪ bətʃət̪ kərneː ɦeːt̪ʊ bɛːŋk mẽː paː̃ntʃ ʋərʂ kiː əʋəd̪ʱɪ keː lɪjeː saːʋəd̪ʱiː dʒəmaː (ɛfɖiː) kʰaːt̪aː kʰʊlʋaːjaː] (GRAH-huhk nay uhp-NEE MAH-seek ahy say nee-yuh-MEET buh-CHUHT KUHR-nay HAY-too bank mayn PAHNCH vuhrsh kee uh-vuh-DHEE kay lee-ay sah-vuh-DHEE juh-MAH (FD) KHAH-tah khool-VAH-yah)",
+          "translation": "The customer opened a Fixed Deposit (FD) account for a tenure of five years in the bank to make regular savings from his monthly income."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 24-1)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "बैंक प्रबंधक ने गृह ऋण के आवेदन की विस्तृत जांच के पश्चात न्यूनतम ब्याज दर पर ऋण स्वीकृत करने की आधिकारिक संस्तुति की।",
+          "reading": "bank prabandhak ne grih rin ke aavedan ki vistrit jaanch ke pashchaat nyoonatam byaaj dar par rin sveekrit karne ki aadhikaarik sanstuti ki. [bɛːŋk prəbən̪d̪ʱək neː ɡrɪɦ rɪɳ keː aːʋeːd̪ən kiː ʋɪst̪rɪt̪ dʒaːntʃ keː pəʃtʃaːt̪ njuːnət̪əm bjaːdʒ d̪ər pər rɪɳ sʋiːkrɪt̪ kərneː kiː aːd̪ʱɪkaːrɪk sənst̪ʊt̪ɪ kiː] (bank pruh-BUHN-dhuhk nay gree-HUH reen kay ah-vay-DUHN kee vees-TREET JAHNCH kay puhsh-CHAHT nyoo-nuh-TUHM byahj duhr puhr reen svee-KREET KUHR-nay kee ah-dhee-kah-REEK suhns-TOO-tee kee)",
+          "translation": "The bank manager, following detailed scrutiny of the home loan application, made an official recommendation to sanction the loan at the minimum interest rate."
+        },
+        {
+          "target": "ऋणधारक को अपनी मासिक किश्त (ईएमआई) प्रत्येक माह की निर्धारित अंतिम तिथि से पूर्व अपने बचत खाते में रखना अनिवार्य होता है।",
+          "reading": "rindhaarak ko apni maasik kisht (EMI) pratyek maah ki nirdhaarit antim tithi se poorva apne bachat khaate mein rakhna anivaarya hota hai. [rɪɳd̪ʱaːrək koː əpniː maːsɪk kɪʃt̪ (iːɛm-aːiː) prətjeːk maːɦ kiː nɪrd̪ʱaːrɪt̪ ən̪t̪ɪm t̪ɪt̪ʰɪ seː puːrʋə əpneː bətʃət̪ kʰaːt̪eː mẽː rəkʰnaː ənɪʋaːrjə hoːt̪aː hɛː] (reen-DHAH-ruhk koh uhp-NEE MAH-seek keesht (EMI) pruht-YAYK mahk kee neer-dhah-REET uhn-TEEM TEE-thee say POOR-vuh uhp-NAY buh-CHUHT KHAH-tay mayn RUKH-nah uh-nee-VAHR-yuh HOH-tah hy)",
+          "translation": "It is mandatory for the borrower to maintain his Equated Monthly Installment (EMI) in his savings account before the specified deadline of each month."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "बैंकिंग: बचत खाता (savings), सावधि जमा (FD), गृह ऋण (home loan), मासिक किश्त (EMI)!"
+      ],
+      "culturalNotes": [
+        "भारत सरकार की 'प्रधानमंत्री जन धन योजना' ने देश के करोड़ों नागरिकों को शून्य शेष बचत खाते और बैंकिंग सुरक्षा तंत्र से जोड़कर वित्तीय समावेशन की मिसाल कायम की है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"काला\":",
+          "prompt": "एक निश्चित समय अवधि के लिए बैंक में जमा की जाने वाली राशि (Fixed Deposit) को हिंदी में क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 24.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («भूरा» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («गुलाबी» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («बैंगनी» का अनुचित स्थान)"
+            "सावधि जमा खाता (Saavadhi jama khaata - Fixed Deposit Account [standard banking term])",
+            "हवाई टिकट (यात्रा टिकट)",
+            "दुकान का बिल (खरीद रसीद)",
+            "सिनेमा पास (मनोरंजन पास)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "एक तय अवधि के लिए ब्याज अर्जित करने वाले खाते को «सावधि जमा खाता» (FD) कहा जाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"काला\":",
+          "prompt": "बैंक से लिए गए ऋण के मासिक भुगतान (Monthly Installment) के लिए मानक शब्द चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 24.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («गुलाबी» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («बैंगनी» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («भूरा» का अशुद्ध रूप)"
+            "मासिक किश्त / ईएमआई (Maasik kisht / EMI - Monthly installment [loan repayment unit])",
+            "दान दक्षिणा (धार्मिक दान)",
+            "उपहार राशि (भेंट)",
+            "जेब खर्च (व्यक्तिगत व्यय)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "ऋण चुकता करने के लिए प्रतिमाह दी जाने वाली निर्धारित राशि को «मासिक किश्त» (EMI) कहते हैं।"
         }
       ]
     },
@@ -9969,17 +9978,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"काला\": Which sentence is completely correct?",
+          "prompt": "बैंकिंग, खाता प्रबंधन और ऋण (Banking & Loans) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 24.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («बैंगनी» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («भूरा» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («गुलाबी» से संबंधित)"
+            "खाताधारक ने अपने बचत खाते में धनराशि जमा कर सावधि जमा पर मिलने वाले वार्षिक ब्याज की जानकारी प्राप्त की। (The account holder, having deposited funds in his savings account, obtained information regarding the annual interest receivable on the fixed deposit.)",
+            "खाताधारक कल शाम को बाज़ार में फल बेच रहा था।",
+            "बचत खाता बंद कर दो ताकि बैंक गिर जाए।",
+            "वार्षिक ब्याज मिलने पर हम सब रोएंगे।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«खाताधारक ने अपने बचत खाते में... वार्षिक ब्याज की जानकारी प्राप्त की» बैंकिंग शब्दावली का त्रुटिहीन वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u24-l2": {
@@ -9987,53 +9997,62 @@
     "subject": "hindi",
     "unit": 24,
     "lessonNumber": 2,
-    "title": "बैंकिंग, वित्त और डिजिटल भुगतान (Banking & Finance) (Part 2)",
+    "title": "डिजिटल भुगतान, यूपीआई और साइबर सुरक्षा (Digital Payments, UPI & Cyber Security)",
     "level": "B2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 24.2) with authentic linguistic precision.",
+    "objective": "आधुनिक डिजिटल बैंकिंग (UPI, QR Code), ऑनलाइन लेन-देन, वित्तीय साइबर सुरक्षा नियमों तथा पासवर्ड गोपनीयता की शब्दावली में निपुण होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "डिजिटल भुगतान प्रणाली, वित्तीय सुरक्षा और साइबर सतर्कता के मानक नियम:\n\n1. **डिजिटल भुगतान तंत्र**:\n   - **एकीकृत भुगतान अंतरापृष्ठ (यूपीआई)** — मोबाइल नंबर अथवा वर्चुअल आईडी के माध्यम से सीधे बैंक खाते से त्वरित धनराशि अंतरण की राष्ट्रीय प्रणाली;\n   - **त्वरित प्रतिक्रिया कोड (क्यूआर कोड)** — कैमरे से स्कैन करके दुकानों व प्रतिष्ठानों पर तुरंत संपर्कहीन भुगतान करने का डिजिटल कोड;\n   - **इंटरनेट एवं मोबाइल बैंकिंग** — बैंक शाखा जाए बिना घर बैठे 24 घंटे ऑनलाइन वित्तीय लेन-देन करने की आधुनिक सुविधा;\n   - **त्वरित धनराशि अंतरण प्रणालियाँ** — तत्काल भुगतान सेवा, राष्ट्रीय इलेक्ट्रॉनिक निधि अंतरण तथा वास्तविक समय सकल निपटान।\n\n2. **साइबर सुरक्षा और वित्तीय गोपनीयता**:\n   - **गोपनीय यूपीआई पिन एवं पासवर्ड** — वित्तीय प्रमाणीकरण हेतु नितांत निजी गुप्त सुरक्षा संख्या;\n   - **एकबारीय पासवर्ड (ओटीपी)** — प्रत्येक लेन-देन की पुष्टि हेतु पंजीकृत मोबाइल पर आने वाला एकल सुरक्षा कोड;\n   - **वित्तीय साइबर धोखाधड़ी से बचाव** — फर्जी कॉल्स, अज्ञात लिंक और लॉटरी के प्रलोभनों से पूर्ण सतर्कता बरतना।\n\n3. **सुरक्षा का स्वर्णिम नियम**:\n   - *बैंक कभी भी ग्राहक से उसका पासवर्ड, पिन अथवा ओटीपी नहीं पूछता, अतः इसे किसी के साथ साझा न करें।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 24.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 24."
+          "target": "भारत में यूपीआई और क्यूआर कोड आधारित डिजिटल भुगतान प्रणाली ने दैनिक वित्तीय लेन-देन को अत्यंत सुगम, सुरक्षित और त्वरित बना दिया है।",
+          "reading": "Bhaarat mein UPI aur QR code aadhaarit digital bhugtaan pranaali ne dainik vitteey len-den ko atyant sugam, surakshit aur tvarit bana diya hai. [bʱaːrət̪ mẽː juːpiːaːiː ɔːr kjuːaːr koːɖ aːd̪ʱaːrɪt̪ ɖɪdʒɪʈəl bʱʊɡt̪aːn prəɳaːliː neː d̪ɛːnɪk ʋɪt̪ːiːj leːnd̪eːn koː ət̪jən̪t̪ sʊɡəm sʊrəkʃɪt̪ ɔːr t̪ʋərɪt̪ bənaː d̪ɪjaː hɛː] (BHAH-ruht mayn UPI owr QR code ah-dhah-REET digital bhoog-TAHN pruh-nah-LEE nay DY-neek veet-TEE-yuh layn-DAYN koh uht-YUHNT SOO-guhm, soo-RUHK-sheet owr TVUH-reet buh-NAH DEE-yah hy)",
+          "translation": "In India, the UPI and QR-code-based digital payment system has made daily financial transactions extremely smooth, secure, and instant."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 24-2)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "बैंक किसी भी परिस्थिति में अपने ग्राहकों से उनका गुप्त पासवर्ड या ओटीपी नहीं माँगता, अतः वित्तीय धोखाधड़ी से सदैव सतर्क रहना चाहिए।",
+          "reading": "bank kisi bhi paristhiti mein apne graahakon se unka gupt password ya OTP nahin maangta, atah vitteey dhokhadhadi se sadaiv satark rahna chaahiye. [bɛːŋk kɪsiː bʱiː pərɪst̪ʰɪt̪ɪ mẽː əpneː ɡraːɦkõː seː ʊnkaː ɡʊpt̪ paːsʋərɖ jaː oːtiːpiː nəɦĩː maːŋɡt̪aː ət̪əɦ ʋɪt̪ːiːj d̪ʱoːkʰaːd̪ʱəɽiː seː səd̪ɛːʋ sət̪ərk rəɦnaː tʃaːɦɪjeː] (bank kee-SEE bhee puh-rees-thee-TEE mayn uhp-NAY grah-huh-KOHN say oon-KAH goopt password yah OTP nuh-HEEN MAHN-gtah, uh-TUHK veet-TEE-yuh dhoh-khah-dhuh-DEE say suh-DYV suh-TUHRK ruh-HNAH CHAH-hee-yay)",
+          "translation": "The bank under no circumstances asks its customers for their confidential password or OTP; therefore, one should always remain vigilant against financial fraud."
+        },
+        {
+          "target": "उपभोक्ता ने मोबाइल बैंकिंग ऐप के माध्यम से त्वरित भुगतान कर डिजिटल लेन-देन की इलेक्ट्रॉनिक रसीद तुरंत डाउनलोड कर ली।",
+          "reading": "upbhokta ne mobile banking app ke maadhyam se tvarit bhugtaan kar digital len-den ki electronic raseed turant download kar lee. [ʊpbʱoːkt̪aː neː moːbaːɪl bɛːŋkɪŋɡ ɛp keː maːd̪ʱjəm seː t̪ʋərɪt̪ bʱʊɡt̪aːn kər ɖɪdʒɪʈəl leːnd̪eːn kiː ɪleːkʈrɔːnɪk rəsiːd̪ t̪ʊrən̪t̪ ɖaːʊnloːɖ kər liː] (oop-bhohk-TAH nay mobile banking app kay MAHDH-yuhm say TVUH-reet bhoog-TAHN kuhr digital layn-DAYN kee electronic ruh-SEED too-RUHNT download kuhr LEE)",
+          "translation": "The consumer made an instant payment via the mobile banking app and immediately downloaded the electronic receipt of the digital transaction."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "डिजिटल सुरक्षा: यूपीआई (UPI), क्यूआर कोड (QR code), ओटीपी (OTP गोपनीय रखें), सतर्कता (vigilance)!"
+      ],
+      "culturalNotes": [
+        "भारत दुनिया में रियल-टाइम डिजिटल लेन-देन के मामले में शीर्ष पर है, जहाँ चाय की छोटी दुकान से लेकर बड़े मॉल तक यूपीआई का सार्वभौमिक प्रयोग होता है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"भूरा\":",
+          "prompt": "ऑनलाइन वित्तीय लेन-देन प्रमाणित करने हेतु मोबाइल पर आने वाले गुप्त सुरक्षा कोड (OTP) को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 24.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («गुलाबी» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («बैंगनी» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («नारंगी» का अनुचित स्थान)"
+            "एकबारीय पासवर्ड / ओटीपी (Ekbaareey password / OTP - One-Time Password [digital authentication code])",
+            "सार्वजनिक इश्तिहार (विज्ञापन)",
+            "अखबार की खबर (समाचार)",
+            "किताब का पृष्ठ (पुस्तक पृष्ठ)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "एक ही बार प्रयोग होने वाले सुरक्षा कोड को «एकबारीय पासवर्ड» (One-Time Password / OTP) कहा जाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"भूरा\":",
+          "prompt": "साइबर सुरक्षा का मूलभूत नियम क्या है: «अपना गुप्त पिन किसी से ___ न करें»?",
           "options": [
-            "हम इस पाठ में इकाई 24.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («बैंगनी» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («नारंगी» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («गुलाबी» का अशुद्ध रूप)"
+            "साझा (Saajha - Share [keep confidential])",
+            "सुरक्षित (Protect opposite)",
+            "याद (Memorize mismatch)",
+            "मजबूत (Strong mismatch)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "साइबर सुरक्षा हेतु पिन या पासवर्ड किसी के साथ «साझा» (Share) नहीं करना चाहिए।"
         }
       ]
     },
@@ -10041,17 +10060,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"भूरा\": Which sentence is completely correct?",
+          "prompt": "डिजिटल भुगतान और साइबर सुरक्षा (Digital Payments & Cyber Security) का पूर्णतः शुद्ध वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 24.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («नारंगी» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («गुलाबी» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («बैंगनी» से संबंधित)"
+            "डिजिटल लेन-देन करते समय हमेशा सुरक्षित नेटवर्क का उपयोग करना चाहिए और किसी भी अनजान लिंक पर क्लिक करने से बचना चाहिए। (While conducting digital transactions, one should always use a secure network and avoid clicking on any unknown links.)",
+            "डिजिटल लेन-देन के समय अपना पासवर्ड सबको बता देना चाहिए।",
+            "अनजान लिंक पर क्लिक करो ताकि खाता खाली हो जाए।",
+            "सुरक्षित नेटवर्क को बंद कर देना चाहिए।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«डिजिटल लेन-देन करते समय... अनजान लिंक पर क्लिक करने से बचना चाहिए» साइबर सुरक्षा का मानक और विवेकपूर्ण वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u24-l3": {
@@ -10059,53 +10079,62 @@
     "subject": "hindi",
     "unit": 24,
     "lessonNumber": 3,
-    "title": "बैंकिंग, वित्त और डिजिटल भुगतान (Banking & Finance) (Part 3)",
+    "title": "पूँजी बाज़ार, शेयर और म्यूचुअल फंड (Capital Markets, Stocks & Mutual Funds)",
     "level": "B2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 24.3) with authentic linguistic precision.",
+    "objective": "पूँजी बाज़ार (Stock Market), म्यूचुअल फंड, व्यवस्थित निवेश योजना (SIP), लाभांश तथा वित्तीय पोर्टफोलियो विविधीकरण की मानक शब्दावली में पारंगत होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "पूँजी बाज़ार, प्रतिभूतियों और निवेश प्रबंधन से संबंधित मानक पारिभाषिक नियम:\n\n1. **शेयर बाज़ार और प्रतिभूतियाँ**:\n   - **पूँजी बाज़ार एवं शेयर बाज़ार** — सार्वजनिक कंपनियों की हिस्सेदारी (शेयर) खरीदने व बेचने का संगठित मंच;\n   - **संवेदी सूचकांक (सेंसेक्स और निफ्टी)** — बाज़ार के समग्र उतार-चढ़ाव और आर्थिक रुझान को दर्शाने वाले प्रमुख सूचकांक;\n   - **अंशधारिता एवं लाभांश** — कंपनी के मुनाफे में से शेयरधारकों को वितरित किया जाने वाला लाभ का वैध हिस्सा;\n   - **पूँजीगत लाभ एवं हानि** — प्रतिभूतियों के क्रय-विक्रय मूल्य के अंतर से प्राप्त होने वाला वित्तीय प्रतिफल।\n\n2. **म्यूचुअल फंड और निवेश रणनीतियाँ**:\n   - **पारस्परिक निधि (म्यूचुअल फंड)** — अनेक निवेशकों से पूँजी एकत्र कर विविध क्षेत्रों में निवेश करने वाली पेशेवर योजना;\n   - **व्यवस्थित निवेश योजना (एसआईपी)** — प्रतिमाह एक निश्चित धनराशि अनुशासित रूप से म्यूचुअल फंड में निवेश करने की प्रणाली;\n   - **पोर्टफोलियो विविधीकरण** — जोखिम कम करने और स्थिर प्रतिफल पाने हेतु अलग-अलग परिसंपत्तियों में पूँजी का संतुलित वितरण;\n   - **बाज़ार जोखिम** — बाज़ार के उतार-चढ़ाव और आर्थिक कारकों से प्रभावित होने वाला निवेश जोखिम।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 24.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 24."
+          "target": "वित्तीय सलाहकार ने निवेशक को जोखिम कम करने और दीर्घकालिक पूँजीगत लाभ अर्जित करने हेतु विभिन्न क्षेत्रों में संतुलित पोर्टफोलियो बनाने का सुझाव दिया।",
+          "reading": "vitteey salaahkaar ne niveshak ko jokhim kam karne aur deerghakaalik poonjeegat laabh arjit karne hetu vibhinn kshetron mein santulit portfolio banaane ka sujhav diya. [ʋɪt̪ːiːj səlaːɦkaːr neː nɪʋeːʃək koː dʒoːkʰɪm kəm kərneː ɔːr d̪iːrɡʱkaːlɪk puːndʒiːɡət̪ laːbʱ ərdʒɪt̪ kərneː ɦeːt̪ʊ ʋɪbʱɪnːə kʃeːt̪rõː mẽː sən̪t̪ʊlɪt̪ poːrʈfoːlɪjoː bənaːneː kaː sʊdʒʱaːʋ d̪ɪjaː] (veet-TEE-yuh suh-lah-kahr nay nee-vay-SHUHK koh joh-KHEEM kuhm KUHR-nay owr deergh-kah-LEEK poon-jee-GUHT lahbh uhr-JEET KUHR-nay HAY-too vee-BHEEN-nuh kshay-TROHN mayn suhn-too-LEET portfolio buh-nah-NAY kah soojh-AHV DEE-yah)",
+          "translation": "The financial advisor suggested the investor to create a balanced portfolio across different sectors to reduce risk and earn long-term capital gains."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 24-3)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "शेयर बाज़ार के संवेदी सूचकांक में भारी उछाल आने से सभी प्रमुख बहुराष्ट्रीय कंपनियों के शेयरों के मूल्यों में उल्लेखनीय वृद्धि दर्ज की गई।",
+          "reading": "share baazaar ke samvedi soochkaank mein bhaari uchhaal aane se sabhi pramukh bahuraashtreey companiyon ke shareon ke moolyon mein ullekhaneey vriddhi darj ki gayi. [ʃeːjər baːzaːr keː səmʋeːd̪iː suːtʃkaːŋk mẽː bʱaːriː ʊtʃʰaːl aːneː seː səbʱiː prəmʊkʰ bəɦʊraːʂʈriːj kəmpənɪjõː keː ʃeːjərõː keː muːljõː mẽː ʊlːeːkʰniːj ʋrɪd̪ːʱɪ d̪ərdʒ kiː ɡəjiː] (share bah-ZAHR kay suhm-vay-DEE sooch-KAHN-k mayn BHAH-ree oochh-AHL AH-nay say SUH-bhee pruh-MOOKH buh-hoo-rahsh-TREE-yuh com-puh-nee-YOHN kay share-OHN kay MOOL-yohn mayn ool-lay-khuh-NEE-yuh VREED-dhee duhrj kee GUH-yee)",
+          "translation": "Following a massive surge in the stock market's benchmark index, a notable increase was recorded in the share values of all major multinational corporations."
+        },
+        {
+          "target": "म्यूचुअल फंड में एसआईपी के माध्यम से प्रतिमाह निश्चित धनराशि निवेश करने से बाज़ार के उतार-चढ़ाव का औसत लाभ आसानी से प्राप्त होता है।",
+          "reading": "mutual fund mein SIP ke maadhyam se pratimaah nishchit dhanraashi nivesh karne se baazaar ke utaar-chadhaav ka ausat laabh aasaani se praapt hota hai. [mjuːtʃʊəl fənɖ mẽː ɛsaːiːpiː keː maːd̪ʱjəm seː prət̪ɪmaːɦ nɪʃtʃɪt̪ d̪ʱənraːʃɪ nɪʋeːʃ kərneː seː baːzaːr keː ʊt̪aːrtʃəɖʱaːʋ kaː ɔːsət̪ laːbʱ aːsaːniː seː praːpt̪ hoːt̪aː hɛː] (mutual fund mayn SIP kay MAHDH-yuhm say pruh-tee-MAHK neesh-CHEET dhuhn-rah-SHEE nee-VAYSH KUHR-nay say bah-ZAHR kay oo-tahr-chuh-DHAHV kah OW-suht lahbh ah-sah-NEE say PRAHPT HOH-tah hy)",
+          "translation": "Investing a fixed amount every month through SIP in mutual funds easily yields the benefit of rupee cost averaging across market fluctuations."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "पूँजी बाज़ार: सेंसेक्स (Sensex), लाभांश (dividend), एसआईपी (SIP - नियमित निवेश), पोर्टफोलियो (portfolio)!"
+      ],
+      "culturalNotes": [
+        "भारत का प्रतिभूति एवं विनिमय बोर्ड (SEBI) निवेशकों के हितों के संरक्षण और वित्तीय बाज़ार में पारदर्शिता सुनिश्चित करने का सर्वोच्च विनियामक निकाय है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"गुलाबी\":",
+          "prompt": "कंपनी के मुनाफे में से शेयरधारकों को दिए जाने वाले लाभ के हिस्से (Dividend) को हिंदी में क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 24.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («बैंगनी» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («नारंगी» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («बड़ा» का अनुचित स्थान)"
+            "लाभांश (Laabhaansh - Dividend / Share of corporate profit [equity term])",
+            "दण्ड शुल्क (Penalty error)",
+            "घाटा (Loss error)",
+            "ऋण भार (Debt burden)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "शेयरधारकों को वितरित किए जाने वाले लाभ के अनुपात को «लाभांश» (Dividend) कहा जाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"गुलाबी\":",
+          "prompt": "म्यूचुअल फंड में प्रतिमाह तय राशि निवेश करने की योजना (SIP) को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 24.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («नारंगी» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («बड़ा» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («बैंगनी» का अशुद्ध रूप)"
+            "व्यवस्थित निवेश योजना (Vyavasthit nivesh yojana - Systematic Investment Plan / SIP)",
+            "आकस्मिक लाटरी (जुआ संदर्भ)",
+            "मुफ्त उपहार (दान संदर्भ)",
+            "अनियमित खर्चा (फिजूलखर्ची)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "SIP का मानक हिंदी रूपांतरण «व्यवस्थित निवेश योजना» (Systematic Investment Plan) है।"
         }
       ]
     },
@@ -10113,17 +10142,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"गुलाबी\": Which sentence is completely correct?",
+          "prompt": "पूँजी बाज़ार और म्यूचुअल फंड निवेश का पूर्णतः शुद्ध वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 24.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («बड़ा» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («बैंगनी» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («नारंगी» से संबंधित)"
+            "निवेशकों को बाज़ार जोखिमों का आकलन करने के उपरांत ही विभिन्न प्रतिभूतियों में सोच-समझकर पूँजी निवेश करनी चाहिए। (Investors should thoughtfully invest capital in diverse securities only after evaluating market risks.)",
+            "निवेशकों ने कल रात को शेयर बाज़ार को आग लगा दी थी।",
+            "म्यूचुअल फंड में निवेश मत करो ताकि सारा धन खो जाए।",
+            "बाज़ार जोखिम के कारण सब लोग घर छोड़कर भाग गए।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«निवेशकों को बाज़ार जोखिमों का आकलन करने के उपरांत ही... पूँजी निवेश करनी चाहिए» वित्तीय निवेश का प्रामाणिक वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u24-l4": {
@@ -10131,53 +10161,62 @@
     "subject": "hindi",
     "unit": 24,
     "lessonNumber": 4,
-    "title": "बैंकिंग, वित्त और डिजिटल भुगतान (Banking & Finance) (Part 4)",
+    "title": "कराधान, आयकर और जीएसटी (Taxation, Income Tax & GST)",
     "level": "B2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 24.4) with authentic linguistic precision.",
+    "objective": "प्रत्यक्ष व अप्रत्यक्ष कराधान प्रणाली (आयकर, जीएसटी), कर विवरणी (ITR), कर छूट (Deductions) तथा वित्तीय ऑडिट की आधिकारिक शब्दावली में दक्षता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "भारतीय कराधान प्रणाली, विधिक अनुपालन और कर विवरणी के मानक नियम:\n\n1. **प्रत्यक्ष कर (आयकर प्रणाली)**:\n   - **आयकर विवरणी (आईटीआर)** — वित्तीय वर्ष की समाप्ति पर प्रत्येक करदाता द्वारा अपनी कुल वार्षिक आय, व्यय और कर का दिया जाने वाला आधिकारिक विधिक ब्यौरा;\n   - **करयोग्य आय एवं कर स्लैब** — सरकार द्वारा निर्धारित आय सीमा जिसके आधार पर आयकर की गणना की जाती है;\n   - **कर छूट और वैधानिक कटौतियाँ** — धारा 80सी आदि के अंतर्गत जीवन बीमा, भविष्य निधि और सावधि जमा में निवेश पर मिलने वाली वैध कर राहत;\n   - **स्रोत पर कर कटौती (टीडीएस)** — आय प्राप्त होते समय ही स्रोत पर काट ली जाने वाली कर राशि।\n\n2. **अप्रत्यक्ष कर (वस्तु एवं सेवा कर — जीएसटी)**:\n   - **वस्तु एवं सेवा कर** — देश भर में वस्तुओं और सेवाओं की आपूर्ति पर लगने वाला एकीकृत अप्रत्यक्ष कर ढाँचा;\n   - **मासिक कर विवरणी एवं चालान** — व्यापारियों द्वारा बिक्री और खरीद का मासिक विवरण पोर्टल पर जमा करने का दायित्व;\n   - **इनपुट टैक्स क्रेडिट** — उत्पादन और आपूर्ति श्रृंखला में पूर्व में चुकाए गए कर की विधिवत वापसी या समायोजन।\n\n3. **वित्तीय लेखा परीक्षा (ऑडिट)**:\n   - *खातों की सत्यता, विधिक पारदर्शिता और कर नियमों का पूर्ण अनुपालन सुनिश्चित करना।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 24.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 24."
+          "target": "प्रत्येक करदाता नागरिक को वित्तीय वर्ष की समाप्ति पर अपनी आय और व्यय का विधिवत ब्यौरा देते हुए समय पर आयकर विवरणी (आईटीआर) दाखिल करनी चाहिए।",
+          "reading": "pratyek kardata naagrik ko vitteey varsh ki samaapti par apni aay aur vyay ka vidhivat byora dete hue samay par aaykar vivarani (ITR) daakhil karni chaahiye. [prətjeːk kərdaːt̪aː naːɡrɪk koː ʋɪt̪ːiːj ʋərʂ kiː səmaːpt̪ɪ pər əpniː aːj ɔːr ʋjəj kaː ʋɪd̪ʱɪʋət̪ bjoːraː d̪eːt̪eː hʊeː səməj pər aːjkər ʋɪʋrəɳiː (aːiːtiːaːr) d̪aːkʰɪl kərniː tʃaːɦɪjeː] (pruht-YAYK kuhr-dah-TAH nahg-REEK koh veet-TEE-yuh vuhrsh kee suh-MAHP-tee puhr uhp-NEE ahy owr vyuy kah vee-dhee-VUHT byoh-RAH DAY-tay HOO-ay SUH-muy puhr ahy-KUHR veev-ruh-NEE (ITR) dah-KHEEL KUHR-nee CHAH-hee-yay)",
+          "translation": "Every taxpayer citizen should file an Income Tax Return (ITR) on time at the end of the financial year, providing a due account of his income and expenditure."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 24-4)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "व्यावसायिक प्रतिष्ठानों के लिए वस्तु एवं सेवा कर (जीएसटी) पोर्टल पर मासिक कर विवरणी और चालान जमा करना अनिवार्य विधिक दायित्व है।",
+          "reading": "vyaavsaayik pratishthaanon ke liye Vastu evam Seva Kar (GST) portal par maasik kar vivarani aur challan jama karna anivaarya vidhik daayitwa hai. [ʋjaːʋsaːjɪk prət̪ɪʂʈʰaːnõː keː lɪjeː ʋəst̪ʊ eːʋəm seːʋaː kər (dʒiːɛsʈiː) poːrʈəl pər maːsɪk kər ʋɪʋrəɳiː ɔːr tʃaːlaːn dʒəmaː kərnaː ənɪʋaːrjə ʋɪd̪ʱɪk d̪aːjɪt̪ʋə hɛː] (vyahv-sah-YEEK pruh-teesh-thah-NOHN kay lee-ay VUHS-too AY-vuhm SAY-vah kuhr (GST) portal puhr MAH-seek kuhr veev-ruh-NEE owr chuhl-LAHN JUH-mah KUHR-nah uh-nee-VAHR-yuh vee-DHEEK dah-yeet-VUH hy)",
+          "translation": "For commercial enterprises, submitting monthly tax returns and challans on the Goods and Services Tax (GST) portal is a mandatory legal obligation."
+        },
+        {
+          "target": "सरकार द्वारा निर्धारित कर छूट योजनाओं में निवेश करने से करदाता को वैधानिक रूप से आयकर में उल्लेखनीय राहत प्राप्त होती है।",
+          "reading": "sarkaar dvaara nirdhaarit kar chhoot yojnaon mein nivesh karne se kardata ko vaidhaanik roop se aaykar mein ullekhaneey raahat praapt hoti hai. [sərkaːr d̪ʋaːraː nɪrd̪ʱaːrɪt̪ kər tʃʰuːʈ joːdʒnaːõː mẽː nɪʋeːʃ kərneː seː kərdaːt̪aː koː ʋɛːd̪ʱaːnɪk ruːp seː aːjkər mẽː ʊlːeːkʰniːj raːɦət̪ praːpt̪ hoːt̪iː hɛː] (suhr-KAHR dvah-RAH neer-dhah-REET kuhr chhoot yohj-nah-OHN mayn nee-VAYSH KUHR-nay say kuhr-dah-TAH koh vy-dhah-NEEK roop say ahy-KUHR mayn ool-lay-khuh-NEE-yuh RAH-huht PRAHPT HOH-tee hy)",
+          "translation": "Investing in government-prescribed tax saving schemes provides significant statutory relief in income tax to the taxpayer."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "कराधान: आयकर विवरणी (ITR), वस्तु एवं सेवा कर (GST), कर छूट (tax exemption), टीडीएस (TDS)!"
+      ],
+      "culturalNotes": [
+        "भारत में 'एक राष्ट्र, एक कर' की अवधारणा के तहत 2017 में लागू किया गया जीएसटी (GST) देश के अप्रत्यक्ष कर ढांचे का ऐतिहासिक सुधार है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"बैंगनी\":",
+          "prompt": "आयकर विभाग में अपनी वार्षिक आय का ब्यौरा देने वाले विधिक दस्तावेज़ (Income Tax Return) को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 24.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («नारंगी» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («बड़ा» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («छोटा» का अनुचित स्थान)"
+            "आयकर विवरणी / आईटीआर (Aaykar vivarani / ITR - Income Tax Return [official tax filing document])",
+            "रेलवे आरक्षण प्रपत्र (टिकट फॉर्म)",
+            "पासपोर्ट आवेदन (विदेश यात्रा फॉर्म)",
+            "राशन कार्ड (राशन प्रपत्र)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "वार्षिक आय का ब्यौरा सरकार को दाखिल करने के प्रपत्र को «आयकर विवरणी» (ITR) कहा जाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"बैंगनी\":",
+          "prompt": "वस्तुओं और सेवाओं पर लगने वाले एकीकृत अप्रत्यक्ष कर (GST) का पूर्ण हिंदी नाम क्या है?",
           "options": [
-            "हम इस पाठ में इकाई 24.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («बड़ा» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («छोटा» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («नारंगी» का अशुद्ध रूप)"
+            "वस्तु एवं सेवा कर (Vastu evam Seva Kar - Goods and Services Tax / GST [comprehensive indirect tax])",
+            "सड़क निर्माण कर (रोड टैक्स)",
+            "जल संरक्षण कर (जल कर)",
+            "मनोरंजन कर (पुराना कर)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "GST का आधिकारिक मानक हिंदी नाम «वस्तु एवं सेवा कर» है।"
         }
       ]
     },
@@ -10185,17 +10224,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"बैंगनी\": Which sentence is completely correct?",
+          "prompt": "कराधान और वित्तीय अनुपालन (Taxation & Compliance) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 24.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («छोटा» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («नारंगी» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («बड़ा» से संबंधित)"
+            "समय पर आयकर विवरणी दाखिल करने और करों का विधिवत भुगतान करने से देश के आर्थिक विकास और अवसंरचना निर्माण को मजबूती मिलती है। (Filing income tax returns on time and duly paying taxes strengthens the economic development and infrastructure building of the country.)",
+            "आयकर कभी मत दो ताकि देश रुक जाए।",
+            "कर विवरणी को फाड़कर फेंक देना चाहिए।",
+            "वित्तीय वर्ष के अंत में सब लोग सो रहे थे।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«समय पर आयकर विवरणी दाखिल करने... अवसंरचना निर्माण को मजबूती मिलती है» कराधान विषयक नागरिक दायित्व का श्रेष्ठ वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u24-l5": {
@@ -10203,53 +10243,62 @@
     "subject": "hindi",
     "unit": 24,
     "lessonNumber": 5,
-    "title": "बैंकिंग, वित्त और डिजिटल भुगतान (Banking & Finance) (Part 5)",
+    "title": "वित्तीय प्रबंधन व बैंकिंग संवाद का समग्र समेकन (Comprehensive Banking, Finance & Economic Synthesis)",
     "level": "B2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 24.5) with authentic linguistic precision.",
+    "objective": "केंद्रीय बैंक की मौद्रिक नीतियों (Monetary Policy, Repo Rate), समष्टिगत अर्थशास्त्र तथा व्यक्तिगत वित्तीय प्रबंधन के समग्र विमर्श में पूर्ण निपुणता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "मौद्रिक नीति, वित्तीय प्रबंधन और व्यापक आर्थिक संवाद का परिष्कृत संश्लेषण:\n\n1. **केंद्रीय बैंकिंग और मौद्रिक नीति तंत्र**:\n   - **भारतीय रिज़र्व बैंक** — भारत का केंद्रीय सर्वोच्च बैंक जो देश की मौद्रिक प्रणाली, मुद्रा आपूर्ति और विदेशी मुद्रा भंडार का संचालन करता है;\n   - **मौद्रिक नीति समिति** — अर्थव्यवस्था में मूल्य स्थिरता और सतत आर्थिक विकास हेतु ब्याज दरों का निर्धारण करने वाली उच्चस्तरीय समिति;\n   - **रेपो दर और रिवर्स रेपो दर** — वाणिज्यिक बैंकों को ऋण देने अथवा उनसे ऋण लेने पर केंद्रीय बैंक द्वारा निर्धारित अल्पकालिक मानक ब्याज दरें;\n   - **मुद्रास्फीति नियंत्रण** — बाज़ार में वस्तुओं और सेवाओं की कीमतों को नियंत्रित कर आम जनता की क्रय शक्ति की रक्षा करना।\n\n2. **व्यक्तिगत वित्तीय प्रबंधन के मूल स्तंभ**:\n   - **आपातकालीन निधि** — अप्रत्याशित संकट अथवा बीमारी की स्थिति में कम से कम छह महीने के खर्च हेतु सुरक्षित कोष;\n   - **बीमा सुरक्षा कवच** — जीवन बीमा और स्वास्थ्य बीमा द्वारा परिवार को अप्रत्याशित आर्थिक संकट से सुरक्षा प्रदान करना;\n   - **सेवानिवृत्ति योजना** — वृद्धावस्था में वित्तीय आत्मनिर्भरता और सम्मानजनक जीवन हेतु दीर्घकालिक पूँजी निर्माण करना;\n   - **वित्तीय समावेशन** — बैंकिंग, डिजिटल भुगतान और सामाजिक सुरक्षा की सुविधा समाज के प्रत्येक नागरिक तक पहुँचाना।",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 24.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 24."
+          "target": "केंद्रीय रिज़र्व बैंक द्वारा मौद्रिक नीति समीक्षा में रेपो दर को स्थिर रखने के निर्णय से आवास और ऑटो ऋण पर सकारात्मक प्रभाव पड़ने की संभावना है।",
+          "reading": "kendreey Reserve Bank dvaara maudrik neeti sameeksha mein repo dar ko sthir rakhne ke nirnay se aavaas aur auto rin par saakaaraatmak prabhaav padne ki sambhaavana hai. [keːn̪d̪riːj rɪzərʋ bɛːŋk d̪ʋaːraː mɔːd̪rɪk niːt̪ɪ səmbiːkʃaː mẽː reːpoː d̪ər koː st̪ʰɪr rəkʰneː keː nɪrɳəj seː aːʋaːs ɔːr ɔːʈoː rɪɳ pər saːkaːraːt̪mək prəbʱaːʋ pəɽneː kiː səmbʱaːʋnaː hɛː] (kayn-DREE-yuh Reserve Bank dvah-RAH mow-DREEK NEE-tee suh-meek-SHAH mayn repo duhr koh STHEER RUKH-nay kay neer-NUHY say ah-VAHS owr auto reen puhr sah-kah-RAHT-muhk pruh-BHAHV PUHD-nay kee suhm-bhahv-NAH hy)",
+          "translation": "The decision of the central Reserve Bank to keep the repo rate stable in the monetary policy review is likely to have a positive impact on home and auto loans."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 24-5)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "अनुशासित वित्तीय प्रबंधन, नियमित बचत और विवेकपूर्ण निवेश योजना व्यक्ति को दीर्घकालिक वित्तीय स्वतंत्रता और आर्थिक सुरक्षा प्रदान करती है।",
+          "reading": "anushaashit vitteey prabandhan, niyamit bachat aur vivekpoorna nivesh yojana vyakti ko deerghakaalik vitteey swatantrata aur aarthik suraksha pradaan karti hai. [ənʊʃaːsɪt̪ ʋɪt̪ːiːj prəbən̪d̪ʱən nɪjəmɪt̪ bətʃət̪ ɔːr ʋɪʋeːkpuːrɳ nɪʋeːʃ joːdʒnaː ʋjəkt̪ɪ koː d̪iːrɡʱkaːlɪk ʋɪt̪ːiːj sʋət̪ən̪t̪rət̪aː ɔːr aːrt̪ʰɪk sʊrəkʃaː prədaːn kərt̪iː hɛː] (uh-noo-shah-SHEET veet-TEE-yuh pruh-BUHN-dhuhn, nee-yuh-MEET buh-CHUHT owr vee-vayk-POOR-nuh nee-VAYSH yohj-NAH VYUHNK-tee koh deergh-kah-LEEK veet-TEE-yuh svuh-tuhn-truh-TAH owr ahr-THEEK soo-RUK-shah pruh-DAHN KUHR-tee hy)",
+          "translation": "Disciplined financial management, regular savings, and prudent investment planning provide long-term financial independence and economic security to an individual."
+        },
+        {
+          "target": "बैंकिंग सम्मेलन के समापन सत्र में अर्थशास्त्रियों ने डिजिटल वित्तीय समावेशन और समावेशी आर्थिक विकास की ऐतिहासिक उपलब्धियों को रेखांकित किया।",
+          "reading": "banking sammelan ke samaapan satr mein arthshaastriyon ne digital vitteey samaaveshan aur samaaveshi aarthik vikaas ki aitihasik uplabdhiyon ko rekhaankit kiya. [bɛːŋkɪŋɡ səmːeːlən keː səmaːpən sət̪r mẽː ərt̪ʰʃaːst̪rɪjõː neː ɖɪdʒɪʈəl ʋɪt̪ːiːj səmbaːʋeːʃən ɔːr səmbaːʋeːʃiː aːrt̪ʰɪk ʋɪkaːs kiː ɛːt̪ɪhaːsɪk ʊpləbd̪ʱɪjõː koː reːkʰaːŋkɪt̪ kɪjaː] (banking suhm-MAY-luhn kay suh-MAH-puhn SUH-truh mayn uhrth-shah-stree-YOHN nay digital veet-TEE-yuh suh-mah-VAY-shuhn owr suh-mah-VAY-shee ahr-THEEK vee-KAHS kee ay-tee-HAH-seek oop-LUHBD-hee-yohn koh ray-khahn-KEET kee-YAH)",
+          "translation": "In the concluding session of the banking conference, economists underscored the historic achievements of digital financial inclusion and inclusive economic growth."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "वित्तीय समेकन: मौद्रिक नीति (monetary policy), रेपो दर (repo rate), वित्तीय समावेशन (financial inclusion)!"
+      ],
+      "culturalNotes": [
+        "भारतीय संस्कृति में 'अर्थ' (धन और समृद्धि) को धर्म, काम और मोक्ष के साथ जीवन के चार पुरुषार्थों में से एक महत्वपूर्ण साधन माना गया है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"नारंगी\":",
+          "prompt": "देश में बैंकों के नियमन और मौद्रिक नीति संचालन का केंद्रीय सर्वोच्च बैंक कौन-सा है?",
           "options": [
-            "हम इस पाठ में इकाई 24.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («बड़ा» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («छोटा» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («लंबा» का अनुचित स्थान)"
+            "भारतीय रिज़र्व बैंक - आरबीआई (Bhaarteey Reserve Bank / RBI - Reserve Bank of India [central banking authority])",
+            "डाकघर बचत बैंक (डाकघर सेवा)",
+            "रेलवे बैंक (रेलवे प्रभाग)",
+            "सिनेमा बैंक (काल्पनिक संस्था)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "भारत का केंद्रीय बैंक और मौद्रिक नियामक «भारतीय रिज़र्व बैंक» (RBI) है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"नारंगी\":",
+          "prompt": "समाज के अंतिम व्यक्ति तक बैंकिंग और वित्तीय सेवाएं पहुँचाने की प्रक्रिया को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 24.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («छोटा» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («लंबा» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («बड़ा» का अशुद्ध रूप)"
+            "वित्तीय समावेशन (Vitteey samaaveshan - Financial Inclusion [extending banking access])",
+            "वित्तीय बहिष्कार (विपरीतार्थी शब्द)",
+            "धन की बर्बादी (अपव्यय)",
+            "चोरी-डकैती (अपराध)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "सभी नागरिकों तक औपचारिक बैंकिंग सेवाओं के विस्तार को «वित्तीय समावेशन» (Financial Inclusion) कहा जाता है।"
         }
       ]
     },
@@ -10257,17 +10306,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"नारंगी\": Which sentence is completely correct?",
+          "prompt": "वित्तीय प्रबंधन और समष्टिगत अर्थशास्त्र (Financial Economics Synthesis) का समग्र शुद्ध वाक्य चुनिए:",
           "options": [
-            "हम इस पाठ में इकाई 24.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («लंबा» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («बड़ा» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («छोटा» से संबंधित)"
+            "सुलभ डिजिटल बैंकिंग और वित्तीय साक्षरता से देश के ग्रामीण क्षेत्रों में आर्थिक सशक्तीकरण और सतत विकास को नई गति मिली है। (Accessible digital banking and financial literacy have given fresh momentum to economic empowerment and sustainable development in rural areas of the country.)",
+            "वित्तीय साक्षरता से लोग पैसे जलाना सीख गए हैं।",
+            "ग्रामीण क्षेत्रों में बैंक बंद कर देने चाहिए।",
+            "सतत विकास के लिए कोई काम मत करो।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«सुलभ डिजिटल बैंकिंग और वित्तीय साक्षरता से... सतत विकास को नई गति मिली है» वित्तीय अर्थशास्त्र का श्रेष्ठ और प्रामाणिक वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u25-l1": {
