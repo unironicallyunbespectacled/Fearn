@@ -895,53 +895,62 @@
     "subject": "cantonese",
     "unit": 2,
     "lessonNumber": 1,
-    "title": "人稱代詞同基本句式 (Pronouns & Basic Sentences) (第1課)",
+    "title": "人稱代詞系統：我、你、佢與複數後綴「哋」 (Personal Pronouns & Plural Suffix dei6)",
     "level": "A1",
-    "objective": "Master Cantonese linguistics for 數字一至十與入聲韻尾 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語單數人稱代詞（我、你、佢）及加上複數後綴「哋」（我哋、你哋、佢哋）之語法結構。",
     "presentation": {
-      "explanation": "",
+      "explanation": "廣東話之人稱代詞系統簡潔明晰，第三人稱代詞不分性別，複數形式一律通過後綴「哋」構詞：\n\n一、單數人稱代詞：\n１．第一人稱單數：「我」，指稱自己。\n２．第二人稱單數：「你」，指稱對方（粵語無北方話「您」字，對尊長一律通過稱謂如「黃先生」、「陳經理」表達敬意）。\n３．第三人稱單數：「佢」，兼指「他、她、它」，無性別與物稱差別，口語高度通用。\n\n二、複數人稱代詞（代詞根＋「哋」）：\n１．「我哋」：我們。\n２．「你哋」：你們。\n３．「佢哋」：他們、她們、它們。\n\n後綴「哋」僅用於人稱代詞及部分指人名詞（如「朋友哋」、「後生仔哋」），不可用於普通非指人物件。",
       "examples": [
         {
-          "target": "呢間舖頭買咗七隻茶杯。",
-          "reading": "ni1 gaan1 pou3 tau2 maai5 zo2 cat1 zek3 caa4 bui1 [niː˥ kaːn˥ pʰou˧ tʰɐu˧˥ maːi˩˧ tsɔː˧˥ tsʰɐt˥ tsɛːk˧ tsʰaː˨˩ puːi˥] (NEE-GAHN POH-TAU MY-JOR CHUT-JEK CHAH-BOOY)",
-          "translation": "This shop bought seven teacups."
+          "target": "我哋全部都係香港大學嘅學生。",
+          "reading": "ngo5 dei6 cyun4 bou6 dou1 hai6 hoeng1 gong2 daai6 hok6 ge3 hok6 saang1. [ŋɔː˩˧ tei˨ tsʰyːn˨˩ pou˨ tou˥ hɐi˨ hœːŋ˥ kɔːŋ˧˥ taːi˨ hɔːk˨ kɛː˧ hɔːk˨ saːŋ˥] (NGOH-DAY TSUEN-BO DOH HY HEUNG-GONG DY-HOK GEH HOK-SAHNG)",
+          "translation": "We are all students at the University of Hong Kong."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元2-1）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "佢哋今日下晝約咗去中環食飯。",
+          "reading": "keoi5 dei6 gam1 jat6 haa6 zau3 joek3 zo2 heoi3 zung1 waan4 sik6 faan6. [kʰɵy˩˧ tei˨ kɐm˥ jɐt̚˨ haː˨ tsɐu˧ jœːk˧ tsɔː˧˥ hɵy˧ tsʊŋ˥ waːn˨˩ sɪk̚˨ faːn˨] (KUY-DAY GUM-YUT HAH-JAU YEUK-JOR HOY JOONG-WAHN SIK-FAHN)",
+          "translation": "They arranged to have a meal in Central this afternoon."
+        },
+        {
+          "target": "你哋兩位聽朝使唔使返工呀？",
+          "reading": "nei5 dei6 loeng5 wai2 ting1 ziu1 sai2 m4 sai2 faan1 gung1 aa3? [nei˩˧ tei˨ lœːŋ˩˧ wɐi˧˥ tʰɪŋ˥ tsiːu˥ sɐi˧˥ m̩˨˩ sɐi˧˥ faːn˥ kʊŋ˥ aː˧] (NAY-DAY LEUNG-WY TING-JEW SYE M-SYE FAHN-GOONG AH?)",
+          "translation": "Do the two of you need to go to work tomorrow morning?"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【構詞記憶法】單數代詞加上後綴「哋」（dei6），好似一群人手拉手「喺同一塊地（哋）上」，即成複數群體：我哋、你哋、佢哋！"
+      ],
+      "culturalNotes": [
+        "廣東話日常對話中並無書面語「您」之敬稱。粵語社會中表達尊敬，係直接使用對方之職業稱謂或姓氏尊稱（如「李校長」、「張律師」、「陳伯」），直呼「你」配以尊稱即合乎禮儀。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"唔好意思\":",
+          "prompt": "【代詞替換】欲將「佢一個人去行街」改為複數「他們一起去逛街」，正確代詞係：",
           "options": [
-            "呢間舖頭買咗七隻茶杯。",
-            "語序顛倒嘅非標準句式（例項：對唔住錯置）",
-            "混雜生硬詞彙之不規範語句（例項：食飯未適配）",
-            "聲調助詞搭配欠妥之表達（例項：飲茶誤用）"
+            "佢哋 (keoi5 dei6)",
+            "我哋 (ngo5 dei6)",
+            "你哋 (nei5 dei6)",
+            "大家 (daai6 gaa1)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "第三人稱複數「他們/她們」在粵語中為「佢哋」（keoi5 dei6）。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"唔好意思\":",
+          "prompt": "【語法規則】關於粵語第三人稱單數代詞「佢」（keoi5），以下描述何者完全正確？",
           "options": [
-            "呢間舖頭買咗七隻茶杯。",
-            "混雜生硬詞彙之不規範語句（例項：食飯未適配）",
-            "聲調助詞搭配欠妥之表達（例項：飲茶誤用）",
-            "語序顛倒嘅非標準句式（例項：對唔住錯置）"
+            "口語中不分性別，兼指男性、女性及事物",
+            "僅專門指代女性",
+            "僅專門指代男性",
+            "只能指代非人類動物"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "粵語代詞「佢」在口語中兼表他、她、它，不分性別與物稱。"
         }
       ]
     },
@@ -949,15 +958,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"唔好意思\": Which sentence is completely correct?",
+          "prompt": "【句子填空】「＿＿＿今晚一齊去銅鑼灣睇戲啦！」（提議我們大家一起去）應填入：",
           "options": [
-            "呢間舖頭買咗七隻茶杯。",
-            "聲調助詞搭配欠妥之表達（例項：飲茶誤用）",
-            "語序顛倒嘅非標準句式（例項：對唔住錯置）",
-            "混雜生硬詞彙之不規範語句（例項：食飯未適配）"
+            "我哋 (ngo5 dei6)",
+            "佢 (keoi5)",
+            "你 (nei5)",
+            "佢哋 (keoi5 dei6)"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "提議包含說話者自身之集體行動，應使用第一人稱複數「我哋」（ngo5 dei6）。"
         }
       ],
       "passThreshold": 0.8
@@ -968,53 +977,62 @@
     "subject": "cantonese",
     "unit": 2,
     "lessonNumber": 2,
-    "title": "人稱代詞同基本句式 (Pronouns & Basic Sentences) (第2課)",
+    "title": "判斷動詞「係」與否定結構「唔係」 (The Copula hai6 & Negation m4 hai6)",
     "level": "A1",
-    "objective": "Master Cantonese linguistics for 量詞搭配：個、隻、條、間 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "熟練運用繫詞「係」（表肯定判斷）與「唔係」（表否定判斷）建構主謂賓基本陳述句。",
     "presentation": {
-      "explanation": "",
+      "explanation": "粵語基本句型遵循「主語＋謂語＋賓語」結構。其中判斷動詞「係」相當於英語繫詞，否定形式則在動詞前加否定詞「唔」：\n\n一、肯定判斷句（主語＋係＋名詞/形容詞短語）：\n１．表示身份、國籍或職業：例如「我係工程師」、「佢係香港人」。\n２．表示事物屬性：「呢部係最新款電話」。\n\n二、否定判斷句（主語＋唔係＋名詞/形容詞短語）：\n１．粵語核心否定詞為「唔」（鼻音獨立成音節，第4聲低降調），置於動詞「係」之前構成「唔係」。\n２．例如：「我唔係遊客，我喺呢度住」、「嗰個唔係我嘅手袋」。",
       "examples": [
         {
-          "target": "我想買兩條新鮮石斑魚。",
-          "reading": "ngo5 soeng2 maai5 loeng5 tiu4 san1 sin1 sek6 baan1 jyu2 [ŋɔː˩˧ sœːŋ˧˥ maːi˩˧ lœːŋ˩˧ tʰiːu˨˩ sɐn˥ siːn˥ sɛːk˨ paːn˥ jyː˧˥] (NGOH SEUNG-MY LEUNG-TEW SUN-SEEN SEK-BAHN YOO)",
-          "translation": "I would like to buy two fresh garoupas."
+          "target": "陳先生係一間中學嘅英文老師。",
+          "reading": "can4 sin1 saang1 hai6 jat1 gaan1 zung1 hok6 ge3 jing1 man4 lou5 si1. [tsʰɐn˨˩ siːn˥ saːŋ˥ hɐi˨ jɐt̚˥ kaːn˥ tsʊŋ˥ hɔːk˨ kɛː˧ jɪŋ˥ mɐn˨˩ lou˩˧ siː˥] (CHUN SEEN-SAHNG HY YUT-GAHN JOONG-HOK GEH YING-MUN LOH-SEE)",
+          "translation": "Mr. Chan is an English teacher at a secondary school."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元2-2）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "我唔係護士，我係醫院嘅藥劑師。",
+          "reading": "ngo5 m4 hai6 wu6 si6, ngo5 hai6 ji1 jyun2 ge3 joek6 zai1 si1. [ŋɔː˩˧ m̩˨˩ hɐi˨ wuː˨ siː˨, ŋɔː˩˧ hɐi˨ jiː˥ jyːn˧˥ kɛː˧ jœːk˨ tsɐi˥ siː˥] (NGOH M-HY WOO-SEE, NGOH HY YEE-YUEN GEH YEUK-JY-SEE)",
+          "translation": "I am not a nurse; I am a pharmacist at the hospital."
+        },
+        {
+          "target": "呢位女士唔係佢太太，係佢生意拍檔。",
+          "reading": "ni1 wai2 neoi5 si6 m4 hai6 keoi5 taai3 taai2, hai6 keoi5 saang1 ji3 paak3 dong3. [niː˥ wɐi˧˥ nɵy˩˧ siː˨ m̩˨˩ hɐi˨ kʰɵy˩˧ tʰaːi˧ tʰaːi˧˥, hɐi˨ kʰɵy˩˧ saːŋ˥ jiː˧ pʰaːk̚˧ tɔːŋ˧] (NEE-WY NUI-SEE M-HY KUY TY-TY, HY KUY SAHNG-YEE PAH-DONG)",
+          "translation": "This lady is not his wife; she is his business partner."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【發音助記法】否定詞「唔」（m4）閉唇發出鼻音低調，好似搖頭沉聲示意「不」；「唔係」（m4 hai6）即是堅決否定。"
+      ],
+      "culturalNotes": [
+        "粵語中回答他人詢問時，單獨講一聲「係呀」（hai6 aa3）即表示贊同或「是的」；若表示否定，則講「唔係呀」（m4 hai6 aa3），語氣自然溫和。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"對唔住\":",
+          "prompt": "【句型轉換】將肯定句「佢係我哋公司經理」改為否定句，正確表達係：",
           "options": [
-            "我想買兩條新鮮石斑魚。",
-            "語序顛倒嘅非標準句式（例項：食飯錯置）",
-            "混雜生硬詞彙之不規範語句（例項：飲茶未適配）",
-            "聲調助詞搭配欠妥之表達（例項：點心誤用）"
+            "佢唔係我哋公司經理 (keoi5 m4 hai6 ngo5 dei6 gung1 si1 ging1 lei5)",
+            "佢冇係我哋公司經理 (keoi5 mou5 hai6...)",
+            "佢未係我哋公司經理 (keoi5 mei6 hai6...)",
+            "佢咪係我哋公司經理 (keoi5 mai6 hai6...)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "否定動詞「係」必須使用「唔」，構成「唔係」（m4 hai6）。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"對唔住\":",
+          "prompt": "【語法辨析】喺「我＿＿＿日本人，我＿＿＿韓國人」中，表「不是...而是...」之正確詞語搭配係：",
           "options": [
-            "我想買兩條新鮮石斑魚。",
-            "混雜生硬詞彙之不規範語句（例項：飲茶未適配）",
-            "聲調助詞搭配欠妥之表達（例項：點心誤用）",
-            "語序顛倒嘅非標準句式（例項：食飯錯置）"
+            "唔係……係……",
+            "冇……有……",
+            "未……係……",
+            "唔……都……"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「唔係……係……」表達否定前者、肯定後者之判斷。"
         }
       ]
     },
@@ -1022,15 +1040,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"對唔住\": Which sentence is completely correct?",
+          "prompt": "【正誤判斷】以下邊句粵語判斷句嘅語法完全正確？",
           "options": [
-            "我想買兩條新鮮石斑魚。",
-            "聲調助詞搭配欠妥之表達（例項：點心誤用）",
-            "語序顛倒嘅非標準句式（例項：食飯錯置）",
-            "混雜生硬詞彙之不規範語句（例項：飲茶未適配）"
+            "佢係一名經驗豐富嘅建築師。",
+            "佢冇係一名建築師。",
+            "佢係唔建築師。",
+            "佢建築師係唔。"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「主語＋係＋名詞短語」係標準正確之粵語判斷句。"
         }
       ],
       "passThreshold": 0.8
@@ -1041,53 +1059,62 @@
     "subject": "cantonese",
     "unit": 2,
     "lessonNumber": 3,
-    "title": "人稱代詞同基本句式 (Pronouns & Basic Sentences) (第3課)",
+    "title": "領屬助詞「嘅」與定語修飾結構 (Possessive Particle ge3 & Modifiers)",
     "level": "A1",
-    "objective": "Master Cantonese linguistics for 茶餐廳點餐與特色飲品 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握結構助詞「嘅」（ge3）在表示所有關係（我嘅/你嘅）及形容詞修飾名詞時之核心用法。",
     "presentation": {
-      "explanation": "",
+      "explanation": "助詞「嘅」係廣東話中使用頻率最高之結構助詞之一，主要承擔兩種語法功能：\n\n一、表示領屬所有關係：\n１．代詞/名詞＋「嘅」＋中心名詞：例如「我嘅手錶」、「公司嘅文件」。\n２．領屬代詞省略中心語：「呢本小說係我嘅」（這本小說是我的）。\n３．親屬關係中助詞可省略：在關係親近之家庭成員前，常可省去「嘅」，直接講「我阿爸」、「我阿哥」。\n\n二、形容詞修飾名詞（定語標記）：\n１．形容詞短語＋「嘅」＋名詞：例如「好靚嘅衫」（漂亮的衣服）、「新鮮嘅水果」。\n２．複合修飾結構：「好平好食嘅茶餐廳」（便宜好吃的茶餐廳）。",
       "examples": [
         {
-          "target": "唔該畀杯凍檸茶少甜同菠蘿油。",
-          "reading": "m4 goi1 bei2 bui1 dung3 ning4 caa4 siu2 tim4 tung4 bo1 lo4 jau4 [m̩˨˩ kɔːi˥ pei˧˥ puːi˥ tʊŋ˧ nɪŋ˨˩ tsʰaː˨˩ siːu˧˥ tʰiːm˨˩ tʰʊŋ˨˩ pɔː˥ lɔː˨˩ jɐu˨˩] (M-GOY BAY-BOOY DOONG-NING-CHAH SEW-TEEM TOONG BOH-LOH-YAU)",
-          "translation": "Please give me an iced lemon tea less sweet and a pineapple bun."
+          "target": "呢部銀色手提電腦係黃小姐嘅。",
+          "reading": "ni1 bou6 ngan4 sik1 sau2 tai4 din6 nou5 hai6 wong4 siu2 ze2 ge3. [niː˥ pou˨ ŋɐn˨˩ sɪk̚˥ sɐu˧˥ tʰɐi˨˩ tiːn˨ nou˩˧ hɐi˨ wɔːŋ˨˩ siːu˧˥ tsɛː˧˥ kɛː˧] (NEE-BO N GUN-SIK SAU-TY DEEN-NOH HY WONG SEW-JEH GEH)",
+          "translation": "This silver laptop belongs to Miss Wong."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元2-3）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "我好鍾意佢設計嗰套好典雅嘅晚裝。",
+          "reading": "ngo5 hou2 zung1 ji3 keoi5 cit3 gai3 go2 tou3 hou2 din2 ngaa5 ge3 maan5 zong1. [ŋɔː˩˧ hou˧˥ tsʊŋ˥ jiː˧ kʰɵy˩˧ tsʰiːt˧ kɐi˧ kɔː˧˥ tʰou˧ hou˧˥ tiːn˧˥ ŋaː˩˧ kɛː˧ maːn˩˧ tsɔːŋ˥] (NGOH HOH JOONG-YEE KUY CHEET-GY GOH-TOE HOH DEEN-NGAH GEH MAHN-JONG)",
+          "translation": "I really like that very elegant evening gown she designed."
+        },
+        {
+          "target": "今日天氣好好，我同我阿哥去行山。",
+          "reading": "gam1 jat6 tin1 hei3 hou2 hou2, ngo5 tung4 ngo5 aa3 go1 heoi3 haang4 saan1. [kɐm˥ jɐt̚˨ tʰiːn˥ hei˧ hou˧˥ hou˧˥, ŋɔː˩˧ tʰʊŋ˨˩ ŋɔː˩˧ aː˧ kɔː˥ hɵy˧ haːŋ˨˩ saːn˥] (GUM-YUT TEEN-HAY HOH-HOH, NGOH TOONG NGOH AH-GOH HOY HAHNG-SAHN)",
+          "translation": "The weather is great today; I am going hiking with my older brother."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【口訣法】「嘅」（ge3）字中平音，好似一條連繫紐帶，將主人與物品緊緊連埋一齊：我嘅筆、你嘅書、大家嘅家！"
+      ],
+      "culturalNotes": [
+        "廣東話日常習慣將「我嘅媽媽」簡化為「我阿媽」或「我媽咪」，直呼親切自然。但在正式書面轉述或商務引介時，則多稱「我嘅母親」或「家母」。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"食飯\":",
+          "prompt": "【表達所有】欲表達「這是陳律師的公事包」，最道地之粵語句式係：",
           "options": [
-            "唔該畀杯凍檸茶少甜同菠蘿油。",
-            "語序顛倒嘅非標準句式（例項：飲茶錯置）",
-            "混雜生硬詞彙之不規範語句（例項：點心未適配）",
-            "聲調助詞搭配欠妥之表達（例項：蝦餃誤用）"
+            "呢個係陳律師嘅公事包。 (ni1 go3 hai6 can4 leot6 si1 ge3 gung1 si6 baau1.)",
+            "呢個係陳律師公事包嘅。",
+            "呢個陳律師係嘅公事包。",
+            "呢個公事包陳律師係嘅。"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "領屬助詞「嘅」置於所有者與名詞之間：陳律師嘅公事包。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"食飯\":",
+          "prompt": "【語法填空】「呢間餐廳有好多好食＿＿＿點心。」空格內應填入之結構助詞係：",
           "options": [
-            "唔該畀杯凍檸茶少甜同菠蘿油。",
-            "混雜生硬詞彙之不規範語句（例項：點心未適配）",
-            "聲調助詞搭配欠妥之表達（例項：蝦餃誤用）",
-            "語序顛倒嘅非標準句式（例項：飲茶錯置）"
+            "嘅 (ge3)",
+            "哋 (dei6)",
+            "喺 (hai2)",
+            "晒 (saai3)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "形容詞修飾名詞（好食嘅點心）需使用定語標記「嘅」（ge3）。"
         }
       ]
     },
@@ -1095,15 +1122,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"食飯\": Which sentence is completely correct?",
+          "prompt": "【語用語義】句子「呢部車係佢哋嘅」所表達之真實含義係：",
           "options": [
-            "唔該畀杯凍檸茶少甜同菠蘿油。",
-            "聲調助詞搭配欠妥之表達（例項：蝦餃誤用）",
-            "語序顛倒嘅非標準句式（例項：飲茶錯置）",
-            "混雜生硬詞彙之不規範語句（例項：點心未適配）"
+            "這輛車是屬於他們的",
+            "這輛車是他們駕駛的",
+            "他們正在購買這輛車",
+            "他們討厭這輛車"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「代詞＋嘅」作謂語表所有權歸屬。"
         }
       ],
       "passThreshold": 0.8
@@ -1114,53 +1141,62 @@
     "subject": "cantonese",
     "unit": 2,
     "lessonNumber": 4,
-    "title": "人稱代詞同基本句式 (Pronouns & Basic Sentences) (第4課)",
+    "title": "粵語疑問句式：句末助詞「呀」與正反問「係唔係」 (Questions: aa4 & 係唔係 hai6 m4 hai6)",
     "level": "A1",
-    "objective": "Master Cantonese linguistics for 問價與埋單結賬 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語是非問句之兩種主要構式：句末疑問語氣助詞「呀/咩」與正反重疊問句「係唔係」。",
     "presentation": {
-      "explanation": "",
+      "explanation": "廣東話形成疑問句之手段極為豐富靈活，日常是非問句主要有兩大核心構式：\n\n一、正反重疊問句：\n１．動詞正反重疊：「主語＋動詞＋唔＋動詞＋賓語」。例如：「你係唔係張先生？」（你是不是張先生？）\n２．行為動詞正反問：「你飲唔飲奶茶？」（你喝不喝奶茶？）「佢去唔去尖沙咀？」（他去不去尖沙咀？）\n３．特點：正反問句內部已包含疑問焦點，句末通常不再需要重複加疑問詞。\n\n二、句末疑問助詞問句：\n１．陳述句＋「呀？」（中性禮貌詢問，如「你係學生呀？」）。\n２．陳述句＋「咩？」（帶有詫異、懷疑或不確定語氣，如「佢今日唔返工咩？」）。",
       "examples": [
         {
-          "target": "老闆，呢餐飯一共幾多錢？",
-          "reading": "lou5 baan2, ni1 caan1 faan6 jat1 gung6 gei2 do1 cin2 [lou˩˧ paːn˧˥, niː˥ tsʰaːn˥ faːn˨ jɐt˥ kʊŋ˨ kei˧˥ tɔː˥ tsʰiːn˧˥] (LOH-BAHN, NEE-TSAHN FAHN YUT-GOONG GAY-DOH CHEEN)",
-          "translation": "Boss, how much is this meal in total?"
+          "target": "請問李經理喺唔喺辦公室入面呀？",
+          "reading": "cing2 man6 lei5 ging1 lei5 hai2 m4 hai2 baan6 gung1 sat1 jap6 min6 aa3? [tsʰɪŋ˧˥ mɐn˨ lei˩˧ kɪŋ˥ lei˩˧ hɐi˩˧ m̩˨˩ hɐi˩˧ paːn˨ kʊŋ˥ sɐt̚˥ jɐp˨ miːn˨ aː˧] (CHING-MUN LEE GING-LEE HY M-HY BAHN-GOONG-SUT YUP-MEEN AH?)",
+          "translation": "Excuse me, is Manager Lee inside the office?"
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元2-4）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "你哋聽日得唔得閒一齊去食日本菜呀？",
+          "reading": "nei5 dei6 ting1 jat6 dak1 m4 dak1 haan4 jat1 cai4 heoi3 sik6 jat6 bun2 coi3 aa3? [nei˩˧ tei˨ tʰɪŋ˥ jɐt̚˨ tɐk̚˥ m̩˨˩ tɐk̚˥ haːn˨˩ jɐt̚˥ tsʰɐi˨˩ hɵy˧ sɪk̚˨ jɐt̚˨ puːn˧˥ tsʰɔːi˧ aː˧] (NAY-DAY TING-YUT DUK M-DUK-HAHN YUT-TSY HOY SIK YUT-BOON-TSOY AH?)",
+          "translation": "Are you all free to go eat Japanese food together tomorrow?"
+        },
+        {
+          "target": "呢件外套真係你嘅咩？顏色好似有啲唔同。",
+          "reading": "ni1 gin6 ngoi6 tou3 zan1 hai6 nei5 ge3 me1? ngaan4 sik1 hou2 ci5 jau5 di1 m4 tung4. [niː˥ kiːn˨ ŋɔːi˨ tʰou˧ tsɐn˥ hɐi˨ nei˩˧ kɛː˧ mɛː˥? ŋaːn˨˩ sɪk̚˥ hou˧˥ tsʰiː˩˧ jɐu˩˧ tiː˥ m̩˨˩ tʰʊŋ˨˩] (NEE-GEEN NGOI-TOE JUN HY NAY GEH MEH? NGAHN-SIK HOH-TSZEE YAU-DEE M-TOONG)",
+          "translation": "Is this coat really yours? The color seems a bit different."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【句式規律法】粵語問句「正反相疊」（係唔係、去唔去、食唔食），先肯定後否定，節奏明快，一問即明！"
+      ],
+      "culturalNotes": [
+        "在茶餐廳或餐廳點餐時，侍應常用極簡正反問詢問顧客需求，如「飲熱定凍？」（喝熱的還是凍的？）、「要唔要加飯？」（要不要加米飯？），直接回答「熱」或「要」即可。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"飲茶\":",
+          "prompt": "【問句構造】欲以正反問句詢問對方「你今天去不去九龍塘」，正確句式係：",
           "options": [
-            "老闆，呢餐飯一共幾多錢？",
-            "語序顛倒嘅非標準句式（例項：點心錯置）",
-            "混雜生硬詞彙之不規範語句（例項：蝦餃未適配）",
-            "聲調助詞搭配欠妥之表達（例項：燒賣誤用）"
+            "你今日去唔去九龍塘？ (nei5 gam1 jat6 heoi3 m4 heoi3 gau2 lung4 tong4?)",
+            "你今日去九龍塘係唔？",
+            "你今日去唔九龍塘？",
+            "你今日係九龍塘去？"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "正反問句將動詞正反重疊：「去唔去」（heoi3 m4 heoi3）。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"飲茶\":",
+          "prompt": "【語氣辨析】句末助詞「咩」（me1，如「佢唔知咩？」）帶有何種典型語氣色彩？",
           "options": [
-            "老闆，呢餐飯一共幾多錢？",
-            "混雜生硬詞彙之不規範語句（例項：蝦餃未適配）",
-            "聲調助詞搭配欠妥之表達（例項：燒賣誤用）",
-            "語序顛倒嘅非標準句式（例項：點心錯置）"
+            "驚訝、反詰或難以置信之懷疑語氣",
+            "極度恭敬之謙卑語氣",
+            "冷淡命令之威嚴語氣",
+            "歡欣慶祝之熱烈語氣"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「咩」（me1）常用於表示詫異、反問或不相信之語氣。"
         }
       ]
     },
@@ -1168,15 +1204,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"飲茶\": Which sentence is completely correct?",
+          "prompt": "【問答匹配】對問句「你係唔係陳大文先生？」之標準肯定與否定答覆分別為：",
           "options": [
-            "老闆，呢餐飯一共幾多錢？",
-            "聲調助詞搭配欠妥之表達（例項：燒賣誤用）",
-            "語序顛倒嘅非標準句式（例項：點心錯置）",
-            "混雜生硬詞彙之不規範語句（例項：蝦餃未適配）"
+            "肯定：「係，我係」／ 否定：「唔係，我姓黃」",
+            "肯定：「好，我哋」／ 否定：「冇，我唔」",
+            "肯定：「有，我知」／ 否定：「未，我早」",
+            "肯定：「得，我去」／ 否定：「咪，我講」"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "回答判斷動詞問句時，肯定答「係」，否定答「唔係」。"
         }
       ],
       "passThreshold": 0.8
@@ -1187,53 +1223,62 @@
     "subject": "cantonese",
     "unit": 2,
     "lessonNumber": 5,
-    "title": "人稱代詞同基本句式 (Pronouns & Basic Sentences) (第5課)",
+    "title": "指示詞體系：呢個、嗰個與方位代詞 (Demonstratives: ni1 vs go2 & Locations)",
     "level": "A1",
-    "objective": "Master Cantonese linguistics for 時間與日期表達 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語近指指示詞「呢」（ni1）與遠指指示詞「嗰」（go2）及其引申之處所方位代詞（呢度、嗰度、邊度）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "廣東話之指示詞系統層次分明，以空間距離之遠近為基準，並與量詞及處所名詞緊密結合：\n\n一、近指代詞（靠近說話者空間）：\n１．「呢個」：這個（物件/人）。\n２．「呢度」或「呢便」：這裡、這兒、這邊。\n３．「呢啲」：這些（複數指示）。\n\n二、遠指代詞（遠離說話者空間）：\n１．「嗰個」：那個（物件/人）。\n２．「嗰度」或「嗰便」：那裡、那兒、那邊。\n３．「嗰啲」：那些（複數指示）。\n\n三、疑問處所代詞：\n１．「邊度」或「邊便」：哪裡、哪兒、何處。例如：「地鐵站喺邊度？」（地鐵站在哪裡？）。",
       "examples": [
         {
-          "target": "我哋約咗聽日下晝三點三個字見。",
-          "reading": "ngo5 dei6 joek3 zo2 ting1 jat6 haa6 zau3 saam1 dim2 saam1 go3 zi6 [ŋɔː˩˧ tei˨ jœːk˧ tsɔː˧˥ tʰɪŋ˥ jɐt˨ haː˨ tsɐu˧ saːm˥ tiːm˧˥ saːm˥ kɔː˧ tsiː˨] (NGOH-DAY YEUK-JOR TING-YUT HAH-JAU SAHM-DEEM SAHM-GOH-JEE)",
-          "translation": "We arranged to meet tomorrow afternoon at 3:15."
+          "target": "唔該借借，我想睇下呢個櫥窗入面嗰隻手錶。",
+          "reading": "m4 goi1 ze3 ze3, ngo5 soeng2 tai2 haa5 ni1 go3 cyu4 coeng1 jap6 min6 go2 zek3 sau2 biu1. [m̩˨˩ kɔːi˥ tsɛː˧ tsɛː˧, ŋɔː˩˧ sœːŋ˧˥ tʰɐi˧˥ haː˩˧ niː˥ kɔː˧ tsʰyː˨˩ tsʰœːŋ˥ jɐp˨ miːn˨ kɔː˧˥ tsɛːk˧ sɐu˧˥ piːu˥] (M-GOY JEH-JEH, NGOH SEUNG TY-HAH NEE-GOH CHU-CHEUNG YUP-MEEN GOH-JEK SAU-BEW)",
+          "translation": "Excuse me, I would like to look at that watch inside this display window."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元2-5）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "請問最近嘅洗手間喺邊度呀？喺嗰度轉右就係。",
+          "reading": "cing2 man6 zeoi3 kan5 ge3 sai2 sau2 gaan1 hai2 bin1 dou6 aa3? hai2 go2 dou6 zyun3 jau6 zau6 hai6. [tsʰɪŋ˧˥ mɐn˨ tsɵy˧ kʰɐn˩˧ kɛː˧ sɐi˧˥ sɐu˧˥ kaːn˥ hɐi˩˧ piːn˥ tou˨ aː˧? hɐi˩˧ kɔː˧˥ tou˨ tsyn˧ jɐu˨ tsɐu˨ hɐi˨] (CHING-MUN JOY-KUN GEH SYE-SAU-GAHN HY BEEN-DOH AH? HY GOH-DOH JUEN-YAU JAU-HY)",
+          "translation": "Excuse me, where is the nearest restroom? Turn right over there and it is right there."
+        },
+        {
+          "target": "呢啲全部都係今日新鮮出爐嘅蛋撻。",
+          "reading": "ni1 di1 cyun4 bou6 dou1 hai6 gam1 jat6 san1 sin1 ceot1 lou4 ge3 daan6 taat1. [niː˥ tiː˥ tsʰyːn˨˩ pou˨ tou˥ hɐi˨ kɐm˥ jɐt̚˨ sɐn˥ siːn˥ tsʰɵt̚˥ lou˨˩ kɛː˧ taːn˨ tʰaːt̚˥] (NEE-DEE TSEN-BO DOH HY GUM-YUT SUN-SEEN CHUT-LOH GEH DAHN-TAHT)",
+          "translation": "These are all fresh out of the oven egg tarts today."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【音義對比法】近在眼前用「呢」（ni1，近指），遠在天邊用「嗰」（go2，遠指），尋求方位問「邊度」（bin1 dou6）！"
+      ],
+      "culturalNotes": [
+        "喺香港問路時，先講一聲禮貌呼語「唔該請問……喺邊度？」（m4 goi1 cing2 man6 ... hai2 bin1 dou6?），對方指路時常講「喺嗰便、行過去就係」，語調親切簡潔。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"點心\":",
+          "prompt": "【問路表達】欲禮貌向路人詢問「請問巴士總站在哪裡？」，正確粵語句式係：",
           "options": [
-            "我哋約咗聽日下晝三點三個字見。",
-            "語序顛倒嘅非標準句式（例項：蝦餃錯置）",
-            "混雜生硬詞彙之不規範語句（例項：燒賣未適配）",
-            "聲調助詞搭配欠妥之表達（例項：叉燒包誤用）"
+            "請問巴士總站喺邊度呀？ (cing2 man6 baa1 si2 zung2 zaam6 hai2 bin1 dou6 aa3?)",
+            "請問巴士總站喺呢度呀？",
+            "請問巴士總站喺嗰度呀？",
+            "請問巴士總站係邊個呀？"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "詢問方位處所使用疑問代詞「邊度」（bin1 dou6）。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"點心\":",
+          "prompt": "【指示辨析】指著近處手中的文件說「這份文件很重要」，應使用之指示詞係：",
           "options": [
-            "我哋約咗聽日下晝三點三個字見。",
-            "混雜生硬詞彙之不規範語句（例項：燒賣未適配）",
-            "聲調助詞搭配欠妥之表達（例項：叉燒包誤用）",
-            "語序顛倒嘅非標準句式（例項：蝦餃錯置）"
+            "呢份 (ni1 fan6)",
+            "嗰份 (go2 fan6)",
+            "邊份 (bin1 fan6)",
+            "邊度 (bin1 dou6)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "近指量詞短語為「呢份」（ni1 fan6）。"
         }
       ]
     },
@@ -1241,15 +1286,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"點心\": Which sentence is completely correct?",
+          "prompt": "【空間對應】「呢度」對應「這裡」，「嗰度」對應「那裡」，則「邊度」對應之現代漢語詞彙係：",
           "options": [
-            "我哋約咗聽日下晝三點三個字見。",
-            "聲調助詞搭配欠妥之表達（例項：叉燒包誤用）",
-            "語序顛倒嘅非標準句式（例項：蝦餃錯置）",
-            "混雜生硬詞彙之不規範語句（例項：燒賣未適配）"
+            "哪裡 / 何處",
+            "這裡",
+            "那裡",
+            "到處"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「邊度」（bin1 dou6）為粵語處所疑問代詞，相當於「哪裡/何處」。"
         }
       ],
       "passThreshold": 0.8
