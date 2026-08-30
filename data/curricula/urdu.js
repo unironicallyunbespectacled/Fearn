@@ -4585,53 +4585,62 @@
     "subject": "urdu",
     "unit": 11,
     "lessonNumber": 1,
-    "title": "ملکیت کی ساختیں: کا/کے/کی اور کے پاس (Possession) (Part 1)",
+    "title": "اضافت و ملکیتی پرسرگ: کا / کے / کی کے بنیادی اصول (Genitive Postpositions: کا / کے / کی)",
     "level": "B1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 11.1) with authentic precision.",
+    "objective": "علامتِ اضافت (کا/کے/کی) کی مضاف (Possessed Noun) کے ساتھ جنس اور تعداد کے مطابق مطابقت کے اصولوں پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں ملکیتی پرسرگ اور اضافت (Genitive Postpositions: 'Kaa / Kay / Kee') کے قواعد:\n\n1. **قانونِ مطابقت (Concord with the Possessed Noun)**:\n   - اردو میں ملکیتی پرسرگ (کا / کے / کی) کی تذکیر، تانیث اور تعداد کا تعین ہمیشہ **مضاف (بعد میں آنے والے اسم)** کے مطابق ہوتا ہے:\n     - **مذکر واحد مضاف**: «شاعر **کا کلام**»، «احمد **کا مکان**»؛\n     - **مذکر جمع / مغیرہ حالت**: «استاد **کے شاگرد**»، «شہر **کے راستے**»؛\n     - **مؤنث واحد و جمع مضاف**: «مصنف **کی کتاب**»، «شاعر **کی غزلیں**»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "علامہ اقبال کا کلام اور ان کی فکری شاعری برصغیر کے مسلمانوں کے لیے بیداری کا پیغام ہے۔",
+          "reading": "Allama Iqbal ka kalaam aur un ki fikri shaayiri barsagheer ke musalmaanon ke liye bedaari ka paighaam hai. [əlːaːmaː ɪqbaːl kaː kəlaːm ɔːr ʊn kiː fɪkriː ʃaːʔɪriː bərsəɣiːr keː mʊsəlmaːnõː keː lɪjeː beːd̪aːriː kaː peːɣaːm hɛː] (uhl-LAH-mah eeq-BAHL kah kuh-LAHM owr OON kee feek-REE shah-ee-REE buhr-suh-GHEER kay moo-suhl-mah-NOHN kay lee-AY bay-dah-REE kah pay-GHAHM HY)",
+          "translation": "Allama Iqbal's poetry [masculine: ka kalaam] and his thought-provoking verse [feminine: ki shaayiri] are a message of awakening for the Muslims of the subcontinent."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 11-1)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "اس قدیم کتب خانے کے دروازے اور اس کی تمام تاریخی الماریاں دیودار کی قیمتی لکڑی سے بنی ہیں۔",
+          "reading": "Is qadeem kutub khaanay ke darwaazay aur is ki tamaam taareekhi almaariyaan deodaar ki qeemti lakri se bani hain. [ɪs qəd̪iːm kʊt̪ʊb xaːneː keː d̪ərʋaːzeː ɔːr ɪs kiː t̪əmaːm t̪aːriːxiː əlmaːrɪjaː̃ d̪eːoːd̪aːr kiː qiːmt̪iː ləkɽiː seː bəniː hɛ̃ː] (EES quh-DEEM koo-toob khah-NAY kay duhr-vah-ZAY owr EES kee tuh-MAHM tah-REE-khee uhl-mah-ree-YAHN day-oh-DAHR kee QEEM-tee luhk-DEE say buh-NEE HYN)",
+          "translation": "The doors of this ancient library [masculine plural: ke darwaazay] and all its historical shelves [feminine plural: ki almaariyaan] are made of precious deodar wood."
+        },
+        {
+          "target": "پروفیسر صاحب کی علمی تحقیق اور ان کے تحقیقی مضامین بین الاقوامی جرائد میں شائع ہو چکے ہیں۔",
+          "reading": "Professor saahib ki ilmi tehqeeq aur un ke tehqeeqi mazaameen bain-ul-aqwaami jaraaid mein shaaya ho chukay hain. [proːfɛsər saːhɪb kiː ɪlmiː t̪əɦqiːq ɔːr ʊn keː t̪əɦqiːqiː məzaːmiːn bɛːn-ʊl-əqʋaːmiː dʒəraːʔɪd̪ mẽː ʃaːjəʔ hoː tʃʊkeː hɛ̃ː] (professor SAH-heeb kee EEL-mee tuhh-QEEQ owr OON kay tuhh-qee-QEE muh-zah-MEEN byn-ool-uhq-vah-MEE juh-rah-EED mayn shah-YUH hoh choo-KAY HYN)",
+          "translation": "The scholarly research of the professor [feminine: ki tehqeeq] and his research essays [masculine plural: ke mazaameen] have been published in international journals."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "اضافت قانون: مضاف مذکر تو 'کا' (کا مکان)، مضاف جمع تو 'کے' (کے دوست)، مضاف مؤنث تو 'کی' (کی کتاب)!"
+      ],
+      "culturalNotes": [
+        "اردو میں احترام کے لیے کسی شخصیت کے تذکرے پر 'صاحب کے خطوط' یا 'والد صاحب کی رائے' جیسے شائستہ اضافتی مرکبات استعمال کیے جاتے ہیں۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"کام\":",
+          "prompt": "مؤنث اسم «کتاب» کے ساتھ درست ملکیتی پرسرگ کون سا ہوگا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («دفتر» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («ساتھی» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («افسر» کی خرابی)"
+            "کی (Kee - Feminine genitive postposition agreeing with kitaab)",
+            "کا (مذکر واحد)",
+            "کے (مذکر جمع)",
+            "کو (مفعولی)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "لفظ 'کتاب' مؤنث ہے، اس لیے ملکیتی پرسرگ «کی» آئے گا۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"کام\":",
+          "prompt": "مذکر جمع اسم «مضامین» کے ساتھ درست اضافت کیا ہوگی؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («ساتھی» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («افسر» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («دفتر» کا غیر درست استعمال)"
+            "مصنف کے مضامین (The author's essays - Correct masculine plural genitive agreement)",
+            "مصنف کا مضامین (واحد کی غلطی)",
+            "مصنف کی مضامین (تانیث کی غلطی)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "جمع مذکر اسم 'مضامین' کے ساتھ «مصنف کے مضامین» درست ہے۔"
         }
       ]
     },
@@ -4639,17 +4648,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"کام\": Which sentence is completely correct?",
+          "prompt": "اضافت اور ملکیتی پرسرگ (کا / کے / کی) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («افسر» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («دفتر» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («ساتھی» سے متعلق)"
+            "شاعرِ مشرق علامہ اقبال کی شاعری اور ان کے فلسفیانہ افکار نے برصغیر کے مسلمانوں میں آزادی کا جذبہ بیدار کیا۔ (The poetry of the Poet of the East [ki shaayiri] and his philosophical thoughts [ke afkaar] awakened the passion for freedom [aazaadi ka jazba].)",
+            "علامہ اقبال کا شاعری اور ان کی افکار روتی تھی۔",
+            "کا/کے/کی صرف انگریزی میں بولا جاتا ہے۔",
+            "کی کو ہمیشہ جملے کے بالکل آخر میں لگانا چاہیے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«شاعرِ مشرق علامہ اقبال کی شاعری اور ان کے فلسفیانہ افکار نے برصغیر کے مسلمانوں میں آزادی کا جذبہ بیدار کیا۔» اضافت کے تمام اصولوں پر پورا اترتا ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u11-l2": {
@@ -4657,53 +4667,62 @@
     "subject": "urdu",
     "unit": 11,
     "lessonNumber": 2,
-    "title": "ملکیت کی ساختیں: کا/کے/کی اور کے پاس (Possession) (Part 2)",
+    "title": "منقولہ مادی ملکیت: 'کے پاس' بمقابلہ غیر منقولہ/رشتے (Alienable vs Inalienable Possession)",
     "level": "B1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 11.2) with authentic precision.",
+    "objective": "منقولہ اشیاء کے لیے 'کے پاس' اور خاندانی رشتوں، جسمانی اعضاء اور مستقل جائیداد کے لیے 'کا/کے/کی' کے نازک فرق پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں منقولہ بمقابلہ غیر منقولہ ملکیت (Alienable vs Inalienable Possession):\n\n1. **منقولہ مادی اشیاء (Alienable / Movable Items with 'کے پاس')**:\n   - جو چیزیں فاعل کے پاس عارضی یا مادی طور پر موجود ہوں:\n     - «احمد **کے پاس ایک گاڑی ہے**»؛\n     - «میرے **پاس نایاب کتابیں ہیں**»۔\n\n2. **رشتے، اعضاء اور جائیداد (Inalienable Kinship, Body Parts & Property with 'کا/کے/کی')**:\n   - **خاندانی رشتے**: «احمد **کا ایک بھائی ہے**» («احمد کے پاس ایک بھائی ہے» کہنا فاش غلطی ہے!)؛\n   - **جسمانی اعضاء**: «اس **کی دو آنکھیں ہیں**»؛\n   - **مستقل جائیداد و مکان**: «ان **کا ایک خوبصورت مکان ہے**»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "اس لائق محقق کے پاس جدید دور کی تمام سائنسی کتابیں اور نایاب مخطوطات موجود ہیں۔",
+          "reading": "Is laaiq muhaqqiq ke paas jadeed daur ki tamaam sainsi kitaabein aur naayaab makhtootaat maujood hain. [ɪs laːʔɪq mʊhəqːɪq keː paːs dʒəd̪iːd̪ d̪ɔːr kiː t̪əmaːm saːɪnsiː kɪt̪aːbẽː ɔːr naːjaːb məxtuːt̪aːt̪ mɔːdʒuːd̪ hɛ̃ː] (EES LAH-eeq moo-huhq-QEEQ kay PAHS juh-DEED DOWR kee tuh-MAHM sah-EEN-see kee-tah-BAYN owr nah-YAHB muhkh-too-TAHT mow-JOOD HYN)",
+          "translation": "This competent researcher has [movable possession: ke paas] all modern scientific books and rare manuscripts in their possession."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 11-2)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "اس بزرگ استاد کے دو ہونہار بیٹے اور تین انتہائی لائق بیٹیاں ہیں جو ملک کی خدمت کر رہی ہیں۔",
+          "reading": "Is buzurg ustaad ke do honhaar betay aur teen intehaai laaiq betiyaan hain jo mulk ki khidmat kar rahi hain. [ɪs bʊzʊrɡ ʊst̪aːd̪ keː d̪oː hoːnhaːr beːʈeː ɔːr t̪iːn ɪnt̪ɪhaːʔiː laːʔɪq beːʈɪjaː̃ hɛ̃ː dʒoː mʊlk kiː xɪd̪mət̪ kər rəhiː hɛ̃ː] (EES boo-zoor-GOOS-tahd kay DOH hohn-HAHR bay-TAY owr TEEN een-tuh-hah-EE LAH-eeq bay-tee-YAHN HYN joh MOOLK kee kheed-MUHT kuhr ruh-HEE HYN)",
+          "translation": "This venerable teacher has two promising sons and three very competent daughters [kinship -> ke do betay / teen betiyaan; NOT ke paas]."
+        },
+        {
+          "target": "ہمارے پاس وقت کی شدید قلت ہے جبکہ اس ادارے کے پاس جدید ترین تکنیکی وسائل موجود ہیں۔",
+          "reading": "Hamaare paas waqt ki shadeed qillat hai jabke is idaare ke paas jadeed tareen takneeki wasaail maujood hain. [həm-aːreː paːs ʋəqt̪ kiː ʃəd̪iːd̪ qɪlːət̪ hɛː dʒəbkeː ɪs ɪd̪aːreː keː paːs dʒəd̪iːd̪ t̪əriːn t̪əkniːkiː ʋəsaːʔɪl mɔːdʒuːd̪ hɛ̃ː] (huh-mah-RAY PAHS VUHKT kee shuh-DEED qeel-LUHT HY juhb-KAY EES ee-dah-RAY kay PAHS juh-DEED tuh-REEN tuhk-nee-KEE vuh-sah-EEL mow-JOOD HYN)",
+          "translation": "We have severe shortage of time [hamaare paas], whereas this institution possesses modern technical resources [is idaare ke paas]."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "پاس بمقابلہ کا: مادی شے (میرے پاس قلم ہے)، رشتہ و تعلق (میرا ایک بھائی ہے)!"
+      ],
+      "culturalNotes": [
+        "اردو میں رشتوں کے لیے 'کے پاس' بولنا انتہائی نامناسب اور غیر فصیح سمجھا جاتا ہے؛ ہمیشہ 'کا/کے/کی' بولا جاتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"دفتر\":",
+          "prompt": "خاندانی رشتے (بھائی) کے لیے درست جملہ کون سا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («ساتھی» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («افسر» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («تنخواہ» کی خرابی)"
+            "میرا ایک بھائی ہے (I have a brother - Inalienable kinship with mera)",
+            "میرے پاس ایک بھائی ہے (غیر فصیح اور غلط)",
+            "مجھ کو بھائی ملا تھا (ماضی)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "خاندانی رشتوں کے لیے 'کے پاس' کے بجائے «میرا / میری / میرے» مستعمل ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"دفتر\":",
+          "prompt": "منقولہ مادی شے (گاڑی) کے لیے درست ملکیتی جملہ کیا ہوگا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («افسر» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («تنخواہ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («ساتھی» کا غیر درست استعمال)"
+            "احمد کے پاس ایک نئی گاڑی ہے (Ahmad has a new car - Correct alienable possession with ke paas)",
+            "احمد کا گاڑی ہے (تذکیر کی غلطی)",
+            "احمد نے گاڑی رکھا تھا (ارگیٹو)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "مادی منقولہ شے کے پاس ہونے کے لیے «کے پاس» درست ہے۔"
         }
       ]
     },
@@ -4711,17 +4730,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"دفتر\": Which sentence is completely correct?",
+          "prompt": "منقولہ اور غیر منقولہ ملکیت (Alienable vs Inalienable Possession) کا مستند جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («تنخواہ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («ساتھی» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («افسر» سے متعلق)"
+            "اس بزرگ اسکالر کے تین ہونہار بیٹے ہیں اور ان کے ذاتی کتب خانے کے پاس نایاب تاریخی قلمی نسخے موجود ہیں۔ (This senior scholar has three promising sons [ke teen betay - kinship] and their personal library possesses rare historical manuscripts [ke paas makhtoote].)",
+            "اس بزرگ کے پاس تین بیٹے اور ایک ناک ہے اور رویا۔",
+            "کے پاس کا استعمال صرف جانوروں کے لیے ہوتا ہے۔",
+            "رشتوں کے ساتھ ہمیشہ کے پاس لگانا واجب ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«اس بزرگ اسکالر کے تین ہونہار بیٹے ہیں اور ان کے ذاتی کتب خانے کے پاس نایاب تاریخی قلمی نسخے موجود ہیں۔» ملکیت کے دونوں دائروں کا فصیح جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u11-l3": {
@@ -4729,53 +4749,62 @@
     "subject": "urdu",
     "unit": 11,
     "lessonNumber": 3,
-    "title": "ملکیت کی ساختیں: کا/کے/کی اور کے پاس (Possession) (Part 3)",
+    "title": "علم و خوبی اور صفات کی ملکیت: 'میں' اور 'کا' (Possession of Abstract Qualities & Knowledge)",
     "level": "B1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 11.3) with authentic precision.",
+    "objective": "باطنی اوصاف، اخلاقی صفات، علمی قابلیت اور شعور کے ملکیتی اظہار (میں / کا / کو) کے نحوی اسلوب پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں باطنی اوصاف اور علم کی ملکیت (Possession of Qualities & Knowledge):\n\n1. **باطنی اوصاف اور صلاحیتوں کے لیے «میں»**:\n   - جب کسی انسان یا شے میں کوئی اندرونی خوبی یا خامی موجود ہو:\n     - «اس طالب علم **میں بلا کی ذہانت ہے**»؛\n     - «اس قائد **میں قربانی کا بے مثال جذبہ ہے**»۔\n\n2. **علم، معلومات اور شعور کے لیے «کو» یا «کا»**:\n   - «مجھے اس تاریخی واقعے **کا پورا علم ہے**»؛\n   - «اساتذہ **کو معاملے کی نزاکت کا احساس ہے**»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "اس نوجوان اسکالر میں علمی تحقیق کا بے پناہ شوق اور مسائل کو حل کرنے کی غیر معمولی صلاحیت ہے۔",
+          "reading": "Is naujawaan scholar mein ilmi tehqeeq ka bay-panaah shauq aur masaa'il ko hal karne ki ghair-ma'mooli salaahiyat hai. [ɪs nɔːdʒəʋaːn skoːlər mẽː ɪlmiː t̪əɦqiːq kaː beː-pənaːh ʃɔːq ɔːr məsaːʔɪl koː həl kərneː kiː ɣɛːr-maːmuːliː səlaːhɪjət̪ hɛː] (EES now-juh-VAHN scholar mayn EEL-mee tuhh-QEEQ kah bay-puh-NAHH SHOWQ owr muh-sah-EEL koh HUHL kuhr-NAY kee ghyr-mah-moo-LEE suh-lah-hee-YUHT HY)",
+          "translation": "In this young scholar [abstract internal qualities: scholar mein], there is immense passion for research and extraordinary problem-solving ability."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 11-3)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "ہر سچے اور مخلص انسان کے دل میں انسانیت کے لیے ہمدردی، اخلاص اور محبت کا جذبہ موجزن ہوتا ہے۔",
+          "reading": "Har sachchay aur mukhlis insaan ke dil mein insaaniyat ke liye hamdardi, ikhlaas aur mohabbat ka jazba maujzan hota hai. [hər sətʃːeː ɔːr mʊxlɪs ɪnsaːn keː d̪ɪl mẽː ɪnsaːnɪjət̪ keː lɪjeː hʌmd̪ərdiː ɪxlaːs ɔːr mʊhʌbːət̪ kaː dʒəzbaː mɔːdʒzən hoːt̪aː hɛː] (HUHR suhch-CHAY owr mookh-LEES een-SAHN kay DEEL mayn een-sah-nee-YUHT kay lee-AY huhm-duhr-DEE eekh-LAHS owr moo-huhb-BUHT kah JUHZ-bah mowj-ZUHN hoh-TAH HY)",
+          "translation": "In the heart of every true and sincere human [internal emotion: dil mein], the spirit of compassion, sincerity, and love for humanity surges."
+        },
+        {
+          "target": "ہمیں اس بات کا مکمل یقین ہے کہ اس باصلاحیت ٹیم میں ہر مشکل چیلنج کا مقابلہ کرنے کی بھرپور ہمت ہے۔",
+          "reading": "Hamein is baat ka mukammal yaqeen hai ke is baa-salaahiyat team mein har mushkil challenge ka muqaabla karne ki bharpoor himmat hai. [həmẽː ɪs baːt̪ kaː mʊkəmːəl jəqiːn hɛː kɪ ɪs baː-səlaːhɪjət̪ ʈiːm mẽː hər mʊʃkɪl tʃɛːləndʒ kaː mʊqaːbəlaː kərneː kiː bʱərpuːr hɪmːət̪ hɛː] (huh-MAYN EES BAHT kah moo-kuhm-MUHL yuh-QEEN HY kay EES bah-suh-lah-hee-YUHT team mayn HUHR moosh-KEEL challenge kah moo-qah-buh-LAH kuhr-NAY kee bhuhr-POOR heem-MUHT HY)",
+          "translation": "We have complete certainty [baat ka yaqeen] that in this talented team [team mein] there is ample courage to face every difficult challenge."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "باطنی اوصاف فارمولا: اس میں ذہانت ہے (اندرونی خوبی)، مجھے علم ہے (معلومات کا احساس)!"
+      ],
+      "culturalNotes": [
+        "اردو کے فکری اور اخلاقی بیانیے میں انسانی صفات کو 'میں' کے ذریعے بیان کرنا باطنی خوبصورتی کی علامت سمجھا جاتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"ساتھی\":",
+          "prompt": "کسی شخص کی اندرونی صلاحیت اور ذہانت ظاہر کرنے کے لیے کون سا پرسرگ آئے گا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («افسر» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («تنخواہ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («چھٹی» کی خرابی)"
+            "میں (Mein - Locative postposition for inherent qualities: us mein salaahiyat hai)",
+            "کے پاس (مادی منقولہ شے)",
+            "سے (ذریعہ)",
+            "پر (اوپر)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "باطنی اوصاف اور صلاحیتوں کے لیے پرسرگ «میں» استعمال ہوتا ہے (جیسے: اس میں قابلیت ہے)۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"ساتھی\":",
+          "prompt": "علم اور شعور کے لیے فصیح ملکیتی جملہ کون سا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («تنخواہ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («چھٹی» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («افسر» کا غیر درست استعمال)"
+            "ہمیں اس حقیقت کا پورا علم ہے (We have complete knowledge of this truth - Correct cognitive possession)",
+            "ہمارے پاس حقیقت کا علم رہتا ہے (غیر فصیح)",
+            "ہم نے حقیقت جانا تھا (ماضی)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«ہمیں اس حقیقت کا پورا علم ہے» علمی و شعوری ملکیت کا فصیح جملہ ہے۔"
         }
       ]
     },
@@ -4783,17 +4812,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"ساتھی\": Which sentence is completely correct?",
+          "prompt": "باطنی اوصاف اور علم کی ملکیت (Abstract Qualities & Knowledge) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («چھٹی» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («افسر» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («تنخواہ» سے متعلق)"
+            "اس محنتی استاد میں طلبہ کی اخلاقی تربیت کا گہرا جذبہ ہے اور انہیں جدید تدریسی طریقوں کا مکمل ادراک ہے۔ (In this diligent teacher there is a deep passion [jazba hai] for moral education, and he has complete grasp [idraak hai] of modern methods.)",
+            "استاد کے پاس جذبہ کھڑا تھا اور رویا۔",
+            "اوصاف کی ملکیت صرف پہاڑوں میں پائی جاتی ہے۔",
+            "ادراک کو ہمیشہ فعل سے دس لفظ بعد لکھنا چاہیے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«اس محنتی استاد میں طلبہ کی اخلاقی تربیت کا گہرا جذبہ ہے اور انہیں جدید تدریسی طریقوں کا مکمل ادراک ہے۔» باطنی اوصاف کا بہترین اور فصیح جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u11-l4": {
@@ -4801,53 +4831,62 @@
     "subject": "urdu",
     "unit": 11,
     "lessonNumber": 4,
-    "title": "ملکیت کی ساختیں: کا/کے/کی اور کے پاس (Possession) (Part 4)",
+    "title": "اضافتِ مقلوب اور ضمائرِ ملکیت: میرا/ہمارا/آپ کا (Pronominal & Inverted Possession)",
     "level": "B1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 11.4) with authentic precision.",
+    "objective": "ضمائرِ ملکیت (میرا/میری/میرے، ہمارا/ہماری/ہمارے، آپ کا/آپ کے/آپ کی) اور مرکباتِ اضافی کے فصیح ادبی استعمال پر مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں ضمائرِ ملکیت (Possessive Pronouns) اور اضافی تراکیب:\n\n1. **ضمائرِ ملکیت کی گردان**:\n   - **متکلم (واحد)**: **میرا** (مذکر واحد) / **میری** (مؤنث) / **میرے** (مذکر جمع و مغیرہ)؛\n   - **متکلم (جمع)**: **ہمارا** / **ہماری** / **ہمارے**؛\n   - **مخاطب (دوستانہ)**: **تمہارا** / **تمہاری** / **تمہارے**؛\n   - **مخاطب (شائستہ)**: **آپ کا** / **آپ کی** / **آپ کے**؛\n   - **غائب**: **ان کا** / **ان کی** / **ان کے**۔\n\n2. **مرکب اضافی میں ترتیب**:\n   - مضاف الیہ (مالک) ہمیشہ مضاف (شے) سے پہلے آتا ہے (جیسے: «ہمارا وطن»، «آپ کی رائے»)۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "ہمارا تاریخی کتب خانہ اور ہماری قومی روایات ہماری تہذیبی شناخت کا سب سے مضبوط قلعہ ہیں۔",
+          "reading": "Hamaara taareekhi kutub khaana aur hamaari qaumi riwaayaat hamaari tehzeebi shanaakht ka sab se mazboot qila hain. [həm-aːraː t̪aːriːxiː kʊt̪ʊb xaːnəh ɔːr həm-aːriː qɔːmiː rɪʋaːjaːt̪ həm-aːriː t̪ɛɦziːbiː ʃənaːxt̪ kaː səb seː məzbuːt̪ qɪlaː hɛ̃ː] (huh-mah-RAH tah-REE-khee koo-toob khah-NUH owr huh-mah-REE QOW-mee ree-wah-YAHT huh-mah-REE tyh-zee-BEE shuh-NAHKHT kah SUHB say muhz-BOOT qee-LAH HYN)",
+          "translation": "Our historical library [masculine: hamaara] and our national traditions [feminine: hamaari riwaayaat] are the strongest fortress of our cultural identity."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 11-4)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "آپ کا یہ علمی مقالہ اور آپ کے تحقیقی نظریات ہماری یونیورسٹی کے طلبہ کے لیے مشعلِ راہ ہیں۔",
+          "reading": "Aap ka yeh ilmi maqaala aur aap ke tehqeeqi nazariyaat hamaari university ke talaba ke liye mash'al-e-raah hain. [aːp kaː jɛɦ ɪlmiː məqaːlaː ɔːr aːp keː t̪əɦqiːqiː nəzərɪjaːt̪ həm-aːriː juːnɪʋərsɪʈiː keː t̪ələbaː keː lɪjeː məʃʔəl-eː-raːh hɛ̃ː] (AHP kah YEH EEL-mee muh-QAH-lah owr AHP kay tuhh-qee-QEE nuh-zuh-ree-YAHT huh-mah-REE university kay tuh-luh-BAH kay lee-AY muhsh-uhl-ay-RAHH HYN)",
+          "translation": "Your scholarly paper [masculine: aap ka] and your research theories [masculine plural: aap ke nazariyaat] are a guiding light for our university students."
+        },
+        {
+          "target": "میرا عزم، میری لگن اور میرے خواب صرف اپنے وطن کی خود مختاری اور ترقی سے وابستہ ہیں۔",
+          "reading": "Mera azm, meri lagan aur mere khwaab sirf apne watan ki khud-mukhtaari aur taraqqi se waabasta hain. [meːraː əzm meːriː ləɡən ɔːr meːreː xwaːb sɪrf əpneː ʋət̪ən kiː xʊd̪-mʊxt̪aːriː ɔːr t̪ərəqːiː seː ʋaːbəst̪aː hɛ̃ː] (MAY-rah UHTHM, MAY-ree luh-GUHN owr MAY-ray KHWAHB SEERF uhp-NAY vuh-TUHN kee khoord-mookh-tah-REE owr tuh-ruhq-QEE say vah-BUHS-tah HYN)",
+          "translation": "My resolve [masculine: mera azm], my dedication [feminine: meri lagan], and my dreams [masculine plural: mere khwaab] are tied solely to the sovereignty and progress of my homeland."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "ضمائرِ ملکیت اوزان: میرا عزم (مذکر)، میری لگن (مؤنث)، میرے خواب (جمع مذکر)!"
+      ],
+      "culturalNotes": [
+        "اردو خطوط اور شائستہ تحریر میں 'آپ کا مخلص' یا 'آپ کا نیازمند' کہنا باوقار تہذیبی روایت ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"افسر\":",
+          "prompt": "مؤنث اسم «سوچ» کے ساتھ متکلم کا درست ملکیتی ضمیر کیا ہوگا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («تنخواہ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («چھٹی» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («اجلاس» کی خرابی)"
+            "میری سوچ (Meri soch - Feminine 1st person possessive agreement)",
+            "میرا سوچ (تذکیر کی غلطی)",
+            "میرے سوچ (جمع کی غلطی)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "لفظ 'سوچ' مؤنث ہے، اس لیے «میری سوچ» درست ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"افسر\":",
+          "prompt": "جمع مذکر اسم «خیالات» کے ساتھ تعظیمی مخاطب کی درست ترکیب کیا ہوگی؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («چھٹی» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («اجلاس» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («تنخواہ» کا غیر درست استعمال)"
+            "آپ کے خیالات (Aap ke khayaalaat - Masculine plural respectful possessive)",
+            "آپ کا خیالات (واحد کی غلطی)",
+            "آپ کی خیالات (تانیث کی غلطی)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "جمع مذکر اسم 'خیالات' کے ساتھ «آپ کے خیالات» درست ہے۔"
         }
       ]
     },
@@ -4855,17 +4894,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"افسر\": Which sentence is completely correct?",
+          "prompt": "ضمائرِ ملکیت اور اضافی تراکیب (Possessive Pronouns) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («اجلاس» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («تنخواہ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («چھٹی» سے متعلق)"
+            "ہمارا نصب العین، ہماری جدوجہد اور ہمارے اجتماعی فیصلے ہی ہمارے تابناک مستقبل کی ضمانت ہیں۔ (Our objective [hamaara nasb-ul-ain], our struggle [hamaari jadd-o-jehad], and our collective decisions [hamaare faislay] are the guarantee of our bright future.)",
+            "ہمارا جدوجہد اور ہمارے نصب العین روتے تھے۔",
+            "ضمائرِ ملکیت صرف ریڈیو پر بولے جاتے ہیں۔",
+            "میرا کو ہمیشہ مؤنث اسم کے ساتھ لگانا چاہیے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«ہمارا نصب العین، ہماری جدوجہد اور ہمارے اجتماعی فیصلے ہی ہمارے تابناک مستقبل کی ضمانت ہیں۔» ضمائرِ ملکیت کے مکمل مطابقت کا شاہکار جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u11-l5": {
@@ -4873,53 +4913,62 @@
     "subject": "urdu",
     "unit": 11,
     "lessonNumber": 5,
-    "title": "ملکیت کی ساختیں: کا/کے/کی اور کے پاس (Possession) (Part 5)",
+    "title": "ملکیت، اوصاف اور اضافت کا جامع سمیکن (Possession & Genitive Grand Synthesis)",
     "level": "B1",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 11.5) with authentic precision.",
+    "objective": "کا/کے/کی، کے پاس، میں (اوصاف) اور ضمائرِ ملکیت کو ایک کثیر الجملاتی فصیح اور باوقار بیانیے میں یکجا کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "ملکیت، اضافت اور باطنی اوصاف کا عظیم الشان سمیکن (Grand Synthesis):\n\n1. **مادی، روحانی اور فکری ملکیت کا مربوط امتزاج**:\n   - **خاندانی رشتے**: «ان **کا ایک پروقار خاندان** ہے»؛\n   - **مادی منقولہ اشیاء**: «ان **کے پاس نایاب کتب** ہیں»؛\n   - **باطنی اوصاف**: «ان **میں علم و حکمت کا سمندر** موجزن ہے»؛\n   - **ضمائرِ ملکیت**: «**ہماری** روایات اور **ہمارا** عزم»۔\n\n2. **ادبی و نثری کمال**:\n   - یہ تمام مدارج مل کر اردو سوانح نگاری، ادبی تنقید اور تاریخی مضامین کو بے مثال روانی اور حسن بخشتے ہیں۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "ہمارے بزرگ استاد کا ایک پروقار خاندان ہے، ان کے پاس صدیوں پرانی نایاب کتابیں ہیں اور ان کے دل میں علم و حکمت کا ایک بے کراں سمندر موجزن ہے۔",
+          "reading": "Hamaare buzurg ustaad ka ek pur-waqaar khaandaan hai, un ke paas sadiyon puraani naayaab kitaabein hain aur un ke dil mein ilm-o-hikmat ka ek bay-karaan samandar maujzan hai. [həm-aːreː bʊzʊrɡ ʊst̪aːd̪ kaː eːk pʊr-ʋəqaːr xaːnd̪aːn hɛː ʊn keː paːs səd̪ɪjõː pʊraːniː naːjaːb kɪt̪aːbẽː hɛ̃ː ɔːr ʊn keː d̪ɪl mẽː ɪlm-oː-hɪkmət̪ kaː eːk beː-kəraː̃ səmənd̪ər mɔːdʒzən hɛː] (huh-mah-RAY boo-zoor-GOOS-tahd kah AYK poor-vuh-QAHR khahn-DAHN HY, OON kay PAHS suh-dee-YOHN poo-RAH-nee nah-YAHB kee-tah-BAYN HYN owr OON kay DEEL mayn EEL-moh-HEEK-muht kah AYK bay-kuh-RAHN suh-muhn-DUHR mowj-ZUHN HY)",
+          "translation": "Our venerable teacher has a dignified family [kinship: ka khaandaan], he possesses centuries-old rare books [movable: ke paas kitaabein], and in his heart surges a boundless ocean of knowledge and wisdom [internal: dil mein samandar]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 11-5)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "اس ممتاز ادارے کی تمام شاخیں منظم ہیں، ان کے پاس جدید ترین لیبارٹریاں ہیں اور ان کے اساتذہ میں تدریس کا بے مثال جذبہ موجود ہے۔",
+          "reading": "Is mumtaaz idaare ki tamaam shaakhein munazzam hain, un ke paas jadeed tareen laboratories hain aur un ke asaatiza mein tadrees ka bay-misaal jazba maujood hai. [ɪs mʊmt̪aːz ɪd̪aːreː kiː t̪əmaːm ʃaːxẽː mʊnəzːəm hɛ̃ː ʊn keː paːs dʒəd̪iːd̪ t̪əriːn ləbɔːrəʈriːjaː̃ hɛ̃ː ɔːr ʊn keː əsaːt̪ɪzaː mẽː t̪əd̪riːs kaː beː-mɪsaːl dʒəzbaː mɔːdʒuːd̪ hɛː] (EES moom-TAHZ ee-dah-RAY kee tuh-MAHM shah-KHAYN moo-nuhz-ZAHM HYN, OON kay PAHS juh-DEED tuh-REEN laboratories HYN owr OON kay uh-sah-tee-ZAH mayn tuhd-REES kah bay-mee-SAHL JUHZ-bah mow-JOOD HY)",
+          "translation": "All branches of this distinguished institution are organized, they possess state-of-the-art laboratories, and in their teachers there is an exemplary passion for teaching."
+        },
+        {
+          "target": "ہماری قومی تاریخ کے روشن اور سنہری ابواب ہمارے شاندار ماضی کی گواہی دیتے ہیں اور ہماری نوجوان نسل کے پاس روشن مستقبل بنانے کا سنہری موقع ہے۔",
+          "reading": "Hamaari qaumi taareekh ke raushan aur sunehri abwaab hamaare shaandaar maazi ki gawaahi detay hain aur hamaari naujawaan nasal ke paas raushan mustaqbil banaane ka sunehri mauqa hai. [həm-aːriː qɔːmiː t̪aːriːx keː rɔːʃən ɔːr sʊnɛɦriː əbʋaːb həm-aːreː ʃaːndaːr maːziː kiː ɡəʋaːhiː d̪eːt̪eː hɛ̃ː ɔːr həm-aːriː nɔːdʒəʋaːn nəsl keː paːs rɔːʃən mʊst̪əqbɪl bənaːneː kaː sʊnɛɦriː mɔːqaː hɛː] (huh-mah-REE QOW-mee tah-REEKH kay row-SHUHN owr soo-NYH-ree uhb-VAHB huh-mah-RAY shahn-DAHR MAH-zee kee guh-vah-HEE day-TAY HYN owr huh-mah-REE now-juh-VAHN NUH-suhl kay PAHS row-SHUHN moos-tuhq-BEEL buh-nah-NAY kah soo-NYH-ree MOW-qah HY)",
+          "translation": "The luminous and golden chapters of our national history bear witness to our glorious past, and our young generation possesses the golden opportunity to forge a bright future."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "جامع سمیکن: استاد کا خاندان (رشتے)، ان کے پاس کتب (ملکیت)، ان میں جذبہ (اوصاف)!"
+      ],
+      "culturalNotes": [
+        "اردو کی کلاسیکی سوانح نگاری (جیسے شبلی نعمانی اور الطاف حسین حالی کی کتب) میں شخصیات کی ہمہ جہت تصویر کشی کے لیے یہی جامع اسلوب برتا گیا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"تنخواہ\":",
+          "prompt": "مادی ملکیت (کے پاس) اور خاندانی تعلق (کا/کے/کی) کے امتزاج کا فصیح جملہ منتخب کیجیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («چھٹی» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («اجلاس» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («منصوبہ» کی خرابی)"
+            "ان کا ایک بیٹا ہے اور ان کے پاس گاڑی ہے (He has a son [kinship] and possesses a car [movable] - Harmonious authentic synthesis)",
+            "ان کے پاس بیٹا ہے اور ان کا گاڑی ہے (فاش غلطیاں)",
+            "بیٹا گاڑی میں گیا تھا (ماضی)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«ان کا ایک بیٹا ہے اور ان کے پاس گاڑی ہے» دونوں ساختوں کا درست ترین امتزاج ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"تنخواہ\":",
+          "prompt": "اضافت اور باطنی اوصاف کے جامع سمیکن کا اصل ادبی حسن کیا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («اجلاس» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («منصوبہ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («چھٹی» کا غیر درست استعمال)"
+            "مادی اور باطنی حقیقتوں کو فصیح نحوی اوزان میں خوبصورتی سے پرو دینا (Articulating material and internal realities in eloquent syntax)",
+            "صرف الفاظ کی لمبائی بڑھانا",
+            "پرانی کہانیوں کو دہرانا",
+            "بے معنی بحث کرنا"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "اس کا حسن مادی اور باطنی اوصاف کو فصیح نحوی اوزان میں یکجا کرنا ہے۔"
         }
       ]
     },
@@ -4927,17 +4976,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"تنخواہ\": Which sentence is completely correct?",
+          "prompt": "ملکیت، اوصاف اور اضافت کے جامع سمیکن (Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («منصوبہ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («چھٹی» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («اجلاس» سے متعلق)"
+            "ہماری یونیورسٹی کے اساتذہ کا علمی وقار بے مثال ہے، ان کے پاس وسیع لائبریریاں ہیں اور ان کے دلوں میں طلبہ کی فکری رہنمائی کا سچا جذبہ موجود ہے۔ (The scholarly prestige of our university teachers is exemplary [ka ilmi waqaar], they possess extensive libraries [ke paas kutub khaane], and in their hearts there is true passion [dilon mein jazba].)",
+            "اساتذہ کے پاس وقار روتا تھا اور کتابیں بھاگیں۔",
+            "جامع سمیکن صرف رات کے اندھیرے میں لکھا جاتا ہے۔",
+            "اضافت کا استعمال صرف اشعار میں جائز ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«ہماری یونیورسٹی کے اساتذہ کا علمی وقار بے مثال ہے، ان کے پاس وسیع لائبریریاں ہیں اور ان کے دلوں میں طلبہ کی فکری رہنمائی کا سچا جذبہ موجود ہے۔» اضافت اور ملکیت کے جامع سمیکن کا کامل جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u12-l1": {
