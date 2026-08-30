@@ -12785,53 +12785,62 @@
     "subject": "hindi",
     "unit": 31,
     "lessonNumber": 1,
-    "title": "दक्षिण एशियाई भू-राजनीति और विदेश नीति (Geopolitics) (Part 1)",
+    "title": "गुटनिरपेक्ष आंदोलन, पंचशील सिद्धांत और सामरिक स्वायत्तता (NAM, Panchsheel & Strategic Autonomy)",
     "level": "C2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 31.1) with authentic linguistic precision.",
+    "objective": "पंचशील के पांच सिद्धांत (Panchsheel), गुटनिरपेक्ष आंदोलन (NAM), राष्ट्रीय संप्रभुता तथा सामरिक स्वायत्तता (Strategic Autonomy) की उच्च कूटनीतिक शब्दावली में पारंगत होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "भारतीय विदेश नीति के मूल सिद्धांत, गुटनिरपेक्षता और सामरिक स्वायत्तता के मानक नियम:\n\n1. **पंचशील के पांच ऐतिहासिक सिद्धांत (1954)**:\n   - **क्षेत्रीय अखंडता व संप्रभुता का सम्मान** — प्रत्येक राष्ट्र की सीमाओं और स्वतंत्रता का आदर;\n   - **परस्पर अनाक्रमण** — किसी भी देश के विरुद्ध सैन्य आक्रामकता का परित्याग;\n   - **आंतरिक मामलों में अहस्तक्षेप** — दूसरे राष्ट्रों की संप्रभुता और शासन व्यवस्था में दखल न देना;\n   - **समानता एवं पारस्परिक लाभ** — निष्पक्ष अंतरराष्ट्रीय संबंध और परस्पर हित;\n   - **शांतिपूर्ण सह-अस्तित्व** — भिन्न राजनीतिक प्रणालियों के बावजूद शांतिपूर्वक साथ रहना।\n\n2. **गुटनिरपेक्ष आंदोलन (Non-Aligned Movement - NAM)**:\n   - शीतयुद्ध कालीन द्विध्रुवीय गुटबाजी (अमेरिका व सोवियत संघ) से पृथक रहकर स्वतंत्र विदेश नीति का संचालन।\n\n3. **21वीं सदी में सामरिक स्वायत्तता (Strategic Autonomy)**:\n   - *किसी सैन्य गठबंधन में बंधे बिना राष्ट्रहित और संप्रभुता के आधार पर स्वतंत्र वैश्विक निर्णय लेना।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 31.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 31."
+          "target": "भारत की विदेश नीति ऐतिहासिक पंचशील सिद्धांतों और गुटनिरपेक्ष आंदोलन के आदर्शों पर आधारित होकर राष्ट्रीय संप्रभुता की रक्षा करती है।",
+          "reading": "Bhaarat ki videsh neeti itihaasik Panchsheel siddhaanton aur gut-nirpeksh aandolan ke aadarshon par aadhaarit hokar raashtreey samprabhuta ki raksha karti hai. [bʱaːrət̪ kiː ʋɪd̪eːʃ niːt̪ɪ ɪt̪ɪɦaːsɪk pəntʃʃiːl sɪd̪ːʱaːn̪t̪õː ɔːr ɡʊʈ-nɪrpəkʃ aːn̪d̪oːlən keː aːd̪ərʃõː pər aːd̪ʱaːrɪt̪ hoːkər raːʂʈriːj səmprəbʱʊt̪aː kiː rəkʃaː kərt̪iː hɛː] (BHAH-ruht kee vee-DAYSH nee-TEE ee-tee-HAH-seek puhnch-SHEEL seed-DHAHN-tohn owr goot-neer-PUHKSH ahn-DOH-luhn kay ah-duhr-SHOHN puhr ah-dhah-REET HOH-kuhr rahsh-TREE-yuh suhm-pruh-bhoo-TAH kee RUHK-shah KUHR-tee hy)",
+          "translation": "India's foreign policy is founded upon the historic Panchsheel principles and the ideals of the Non-Aligned Movement, safeguarding national sovereignty."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 31-1)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "समकालीन भू-राजनीति में भारत ने किसी भी शक्ति गुट का पिछलग्गू बनने के बजाय सामरिक स्वायत्तता और राष्ट्रीय हितों को सर्वोच्च प्राथमिकता दी।",
+          "reading": "samkaaleen bhoo-raajneeti mein Bhaarat ne kisi bhi shakti gut ka pichhlaggoo banne ke bajaay saamrik svaayattata aur raashtreey hiton ko sarvochch praathamikata dee. [səmkaːliːn bʱuː-raːdʒniːt̪ɪ mẽː bʱaːrət̪ neː kɪsiː bʱiː ʃəkt̪ɪ ɡʊʈ kaː pɪtʃʰləɡːuː bənneː keː bədʒaːj saːmrɪk sʋaːjət̪ːt̪aː ɔːr raːʂʈriːj ɦɪt̪õː koː sərʋoːtʃː praːt̪ʰmɪkt̪aː d̪iː] (suhm-kah-LEEN bhoo-rahj-nee-TEE mayn BHAH-ruht nay kee-SEE bhee SHUHK-tee goot kah peechh-luhg-GOO buhn-NAY kay buh-JAHY sahm-REEK svah-yuht-tuh-TAH owr rahsh-TREE-yuh HEE-tohn koh suhr-VOHTCH prah-thuh-meek-TAH DEE)",
+          "translation": "In contemporary geopolitics, India accorded highest priority to strategic autonomy and national interests rather than becoming a camp-follower of any power bloc."
+        },
+        {
+          "target": "शांतिपूर्ण सह-अस्तित्व और आंतरिक मामलों में अहस्तक्षेप के सिद्धांत अंतरराष्ट्रीय विवादों के शांतिपूर्ण कूटनीतिक समाधान का आधार हैं।",
+          "reading": "shaantipoorna sah-astitva aur aantarik maamlon mein ahastakshep ke siddhaant antarraashtreey vivaadon ke shaantipoorna kootneetik samaadhaan ka aadhaar hain. [ʃaːn̪t̪ɪpuːrɳ səɦ-əst̪ɪt̪ʋə ɔːr aːn̪t̪rɪk maːmlõː mẽː əɦəst̪əkʃeːp keː sɪd̪ːʱaːn̪t̪ ən̪t̪rːaːʂʈriːj ʋɪʋaːd̪õː keː ʃaːn̪t̪ɪpuːrɳ kuːt̪niːt̪ɪk səmaːd̪ʱaːn kaː aːd̪ʱaːr hɛ̃ː] (shahn-tee-POOR-nuh suh-uhs-TEET-vuh owr ahn-tuh-REEK mahm-LOHN mayn uh-huhs-tuhk-SHAYP kay seed-DHAHNT uhn-tuhr-rahsh-TREE-yuh vee-vah-DOHN kay shahn-tee-POOR-nuh koot-nee-TEEK suh-mah-DHAHN kah ah-DHAHR hyhn)",
+          "translation": "The principles of peaceful coexistence and non-interference in internal affairs are the bedrock of peaceful diplomatic resolution of international disputes."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "विदेश नीति: पंचशील (5 सिद्धांत), गुटनिरपेक्षता (NAM), सामरिक स्वायत्तता, शांतिपूर्ण सह-अस्तित्व!"
+      ],
+      "culturalNotes": [
+        "1955 के ऐतिहासिक बांडुंग सम्मेलन (इंडोनेशिया) ने गुटनिरपेक्ष आंदोलन की नींव रखी थी, जिसमें पंडित जवाहरलाल नेहरू ने एशिया और अफ्रीका के नव-स्वतंत्र राष्ट्रों का नेतृत्व किया था।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"बैंक\":",
+          "prompt": "1954 में भारत और चीन के मध्य हुए शांतिपूर्ण सह-अस्तित्व और अहस्तक्षेप के पांच सिद्धांतों को क्या नाम दिया गया?",
           "options": [
-            "हम इस पाठ में इकाई 31.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («खाता» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («ऋण» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («ब्याज» का अनुचित स्थान)"
+            "पंचशील सिद्धांत (Panchsheel Principles - Five Principles of Peaceful Coexistence)",
+            "पंचतंत्र की कहानियां (कथा साहित्य)",
+            "पंचामृत (धार्मिक भोग)",
+            "पंचायती राज (ग्राम शासन)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "शांतिपूर्ण सह-अस्तित्व और संप्रभुता के पांच विदेश नीति सिद्धांतों को «पंचशील» (Panchsheel) कहा जाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"बैंक\":",
+          "prompt": "किसी भी महाशक्ति गुट का पिछलग्गू बने बिना स्वतंत्र रूप से अपने राष्ट्रीय हित में विदेश नीति संचालित करने को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 31.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («ऋण» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («ब्याज» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («खाता» का अशुद्ध रूप)"
+            "सामरिक स्वायत्तता (Strategic Autonomy - Independent strategic decision-making in national interest)",
+            "सैन्य अधीनता (गुलामी)",
+            "विदेशी गुलामी (परतंत्रता)",
+            "आर्थिक दिवालियापन (कंगाली)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "स्वतंत्र निर्णय लेने की भू-राजनीतिक संप्रभुता को «सामरिक स्वायत्तता» (Strategic Autonomy) कहते हैं।"
         }
       ]
     },
@@ -12839,17 +12848,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"बैंक\": Which sentence is completely correct?",
+          "prompt": "गुटनिरपेक्षता और सामरिक स्वायत्तता (NAM & Strategic Autonomy) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 31.1 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («ब्याज» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («खाता» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («ऋण» से संबंधित)"
+            "पंचशील के आदर्श, गुटनिरपेक्षता की विरासत और सामरिक स्वायत्तता का दृढ़ संकल्प ही भारत को बहुध्रुवीय विश्व में एक स्वतंत्र व सम्मानित महाशक्ति बनाता है। (The ideals of Panchsheel, the legacy of non-alignment, and the steadfast resolve for strategic autonomy make India an independent and respected power in a multipolar world.)",
+            "विदेश नीति का अर्थ केवल विदेशों में जाकर छुट्टियां मनाना है।",
+            "भारत को अपनी सारी जमीन दूसरे देशों को दान कर देनी चाहिए।",
+            "सामरिक स्वायत्तता को समाप्त करके किसी का गुलाम बन जाना चाहिए।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«पंचशील के आदर्श, गुटनिरपेक्षता की विरासत और सामरिक स्वायत्तता... सम्मानित महाशक्ति बनाता है» विदेश नीति का मानक वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u31-l2": {
@@ -12857,53 +12867,62 @@
     "subject": "hindi",
     "unit": 31,
     "lessonNumber": 2,
-    "title": "दक्षिण एशियाई भू-राजनीति और विदेश नीति (Geopolitics) (Part 2)",
+    "title": "पड़ोसी प्रथम नीति, बिम्सटेक और सार्क विमर्श (Neighbourhood First Policy & Regional Platforms)",
     "level": "C2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 31.2) with authentic linguistic precision.",
+    "objective": "पड़ोसी प्रथम नीति (Neighbourhood First), बिम्सटेक (BIMSTEC), सार्क (SAARC), क्षेत्रीय संपर्क (Connectivity) तथा संकट कूटनीति की पारिभाषिक शब्दावली में प्रवीण होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "दक्षिण एशियाई क्षेत्रीय कूटनीति, बिम्सटेक और सीमा पार संपर्क के मानक नियम:\n\n1. **पड़ोसी प्रथम नीति (Neighbourhood First Policy)**:\n   - **आर्थिक व मानवीय सहयोग** — नेपाल, भूटान, बांग्लादेश, श्रीलंका, मालदीव आदि पड़ोसी देशों के साथ विकास साझेदारी;\n   - **प्रथम प्रत्युत्तरदाता (First Responder)** — प्राकृतिक आपदाओं, आर्थिक संकटों और महामारियों में त्वरित सहायता।\n\n2. **बिम्सटेक (BIMSTEC - बंगाल की खाड़ी उपक्रम)**:\n   - **तटीय सहयोग** — दक्षिण एशिया और दक्षिण-पूर्व एशिया (आसियान) को जोड़ने वाला जीवंत सेतु (भारत, बांग्लादेश, भूटान, नेपाल, श्रीलंका, म्यांमार, थाईलैंड);\n   - **प्राथमिकता क्षेत्र** — व्यापार, ऊर्जा ग्रिड इंटरकनेक्शन, समुद्री सुरक्षा और आतंकवाद-निरोध।\n\n3. **सार्क (SAARC) बनाम उप-क्षेत्रीय मंच**:\n   - *सीमा पार आतंकवाद के कारण सार्क की शिथिलता के उपरांत बीबीआईएन (BBIN - बांग्लादेश, भूटान, भारत, नेपाल) मोटर वाहन समझौते द्वारा संपर्क संवर्धन।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 31.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 31."
+          "target": "भारत की 'पड़ोसी प्रथम नीति' दक्षिण एशिया में आर्थिक सहयोग, सीमा-पार संपर्क और संकट के समय त्वरित मानवीय सहायता को सुदृढ़ करती है।",
+          "reading": "Bhaarat ki 'Padosi Pratham Neeti' Dakshin Asia mein aarthik sahyog, seema-paar sampark aur sankat ke samay tvarit maanveey sahaayata ko sudridh karti hai. [bʱaːrət̪ kiː pəɽoːsiː prət̪ʰəm niːt̪ɪ d̪əkʃɪɳ aːʃɪjaː mẽː aːrt̪ʰɪk səɦjoːɡ siːmaː-paːr səmpərk ɔːr səŋkəʈ keː səməj t̪ʋərɪt̪ maːnʋiːj səɦaːjt̪aː koː sʊdrɪɖʱ kərt̪iː hɛː] (BHAH-ruht kee Puh-DOH-see PRUH-thuhm nee-TEE DUHK-sheen AH-shyah mayn ahr-THEEK suh-hy-YOHG, see-mah-PAHR suhm-PUHRK owr suhn-KUHT kay SUH-muy TVUH-reet mahn-VEE-yuh suh-hah-yuh-TAH koh soo-DREEDH KUHR-tee hy)",
+          "translation": "India's 'Neighbourhood First Policy' consolidates economic cooperation, cross-border connectivity, and swift humanitarian assistance during times of crisis across South Asia."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 31-2)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "बिम्सटेक संगठन ने बंगाल की खाड़ी के तटीय राष्ट्रों के मध्य व्यापार, ऊर्जा ग्रिड कनेक्टिविटी और आतंकवाद-विरोधी समन्वय को नई गति दी है।",
+          "reading": "BIMSTEC sangathan ne Bangaal ki khaadi ke tateey raashtron ke madhya vyaapaar, oorja grid connectivity aur aatankvaad-virodhi samanvay ko nayi gati dee hai. [bɪmsteːk səŋɡət̪ʰən neː bəŋɡaːl kiː kʰaːɽiː keː t̪əʈiːj raːʂʈrõː keː məd̪ʱjə ʋjaːpaːr uːrdʒaː ɡrɪɖ kənɛkt̪ɪʋɪʈiː ɔːr aːt̪əŋkʋaːd̪-ʋɪroːd̪ʱiː səmənʋəj koː nəjiː ɡət̪ɪ d̪iː hɛː] (BIMSTEC suhn-guh-THUHN nay buhng-GAHL kee khah-DEE kay tuh-TEE-yuh rahsh-TROHN kay MUHDH-yuh vyah-PAHR, OOR-jah grid connectivity owr ah-tuhngk-vahd-vee-ROH-dhee suh-muhn-VUY koh nuh-YEE GUH-tee DEE hy)",
+          "translation": "The BIMSTEC grouping has imparted fresh momentum to trade, energy grid connectivity, and counter-terrorism coordination among littoral nations of the Bay of Bengal."
+        },
+        {
+          "target": "सार्क की निष्क्रियता के दौर में उप-क्षेत्रीय सहयोग मंचों के माध्यम से मोटर वाहन समझौतों और मुक्त व्यापार को निरंतर प्रोत्साहित किया जा रहा है।",
+          "reading": "SAARC ki nishkriyata ke daur mein up-kshetreey sahyog manchon ke maadhyam se motor vaahan samjhauton aur mukt vyaapaar ko nirantar protsaahit kiya ja raha hai. [saːrk kiː nɪʂkrɪjt̪aː keː d̪ɔːr mẽː ʊp-kʃeːt̪riːj səɦjoːɡ məntʃõː keː maːd̪ʱjəm seː moːʈər ʋaːɦən səmədʒʱɔːt̪õː ɔːr mʊkt̪ ʋjaːpaːr koː nɪrən̪t̪ər proːtsaːɦɪt̪ kɪjaː dʒaː rəɦaː hɛː] (SAARC kee neesh-kree-yuh-TAH kay DOWR mayn oop-kshay-TREE-yuh suh-hy-YOHG muhn-CHOHN kay MAHDH-yuhm say motor vah-huhn suhm-jhow-TOHN owr MOOKT vyah-PAHR koh nee-ruhn-TUHR proht-sah-HEET kee-YAH JAH ruh-HAH hy)",
+          "translation": "Amidst the dormancy of SAARC, motor vehicle pacts and free trade are being steadily promoted through sub-regional cooperation frameworks."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "पड़ोसी कूटनीति: पड़ोसी प्रथम (neighbourhood first), बिम्सटेक (BIMSTEC), बीबीआईएन संपर्क, संकट सहायता!"
+      ],
+      "culturalNotes": [
+        "भारत और भूटान के संबंध अद्वितीय मैत्री और विश्वास के प्रतीक हैं, जहाँ भारत भूटान की जलविद्युत परियोजनाओं के विकास में प्रमुख साझेदार है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"खाता\":",
+          "prompt": "बंगाल की खाड़ी के तटीय देशों के बीच आर्थिक और तकनीकी सहयोग को बढ़ावा देने वाले सात-सदस्यीय संगठन का क्या नाम है?",
           "options": [
-            "हम इस पाठ में इकाई 31.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («ऋण» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («ब्याज» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («कर» का अनुचित स्थान)"
+            "बिम्सटेक / BIMSTEC (Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation)",
+            "नाटो (सैन्य संगठन)",
+            "यूरोपीय संघ (यूरोप का संघ)",
+            "ओपेक (तेल निर्यातक देश)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "बंगाल की खाड़ी के तटीय दक्षिण और दक्षिण-पूर्व एशियाई देशों के संगठन को «बिम्सटेक» (BIMSTEC) कहते हैं।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"खाता\":",
+          "prompt": "संकट और आपदा के समय पड़ोसी देशों को सर्वप्रथम सहायता पहुंचाने की भारतीय विदेश नीति की प्राथमिकता को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 31.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («ब्याज» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («कर» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («ऋण» का अशुद्ध रूप)"
+            "पड़ोसी प्रथम नीति (Neighbourhood First Policy - Priority development partnership and disaster aid for immediate neighbors)",
+            "दूरस्थ तटस्थता (दूरी बनाए रखना)",
+            "आक्रामक घेराबंदी (घेरा डालना)",
+            "सीमा सील नीति (सीमा बंद करना)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "निकटवर्ती पड़ोसियों को सर्वोच्च प्राथमिकता देने की नीति को «पड़ोसी प्रथम नीति» (Neighbourhood First Policy) कहा जाता है।"
         }
       ]
     },
@@ -12911,17 +12930,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"खाता\": Which sentence is completely correct?",
+          "prompt": "पड़ोसी प्रथम नीति और क्षेत्रीय मंच (Neighbourhood First & Regional Diplomacy) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 31.2 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («कर» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («ऋण» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («ब्याज» से संबंधित)"
+            "पड़ोसी प्रथम नीति, बिम्सटेक सहयोग और मजबूत संपर्क परियोजनाएं दक्षिण एशिया में शांति, समृद्धि और साझा विकास की आधारशिला हैं। (The Neighbourhood First policy, BIMSTEC cooperation, and robust connectivity projects are the cornerstone of peace, prosperity, and shared development in South Asia.)",
+            "पड़ोसी देशों से सभी प्रकार के रिश्ते तोड़कर युद्ध करना चाहिए।",
+            "बिम्सटेक का अर्थ केवल नाव चलाने का खेल होता है।",
+            "सार्क का काम केवल समुद्र में मछलियां पकड़ना है।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«पड़ोसी प्रथम नीति, बिम्सटेक सहयोग और मजबूत संपर्क परियोजनाएं... आधारशिला हैं» क्षेत्रीय विदेश नीति का मानक वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u31-l3": {
@@ -12929,53 +12949,62 @@
     "subject": "hindi",
     "unit": 31,
     "lessonNumber": 3,
-    "title": "दक्षिण एशियाई भू-राजनीति और विदेश नीति (Geopolitics) (Part 3)",
+    "title": "हिंद-प्रशांत रणनीति, क्वाड और समुद्री सुरक्षा (Indo-Pacific Strategy, QUAD & Maritime Security)",
     "level": "C2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 31.3) with authentic linguistic precision.",
+    "objective": "हिंद-प्रशांत क्षेत्र (Indo-Pacific), क्वाड (QUAD: भारत, अमेरिका, जापान, ऑस्ट्रेलिया), सागर विजन (SAGAR) तथा समुद्री सुरक्षा की रणनीतिक शब्दावली में पूर्ण दक्षता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "हिंद-प्रशांत भू-राजनीति, क्वाड गठबंधन और नौसैनिक सुरक्षा के मानक नियम:\n\n1. **हिंद-प्रशांत क्षेत्र की अवधारणा**:\n   - **भू-रणनीतिक महत्व** — अफ्रीका के पूर्वी तट से लेकर अमेरिका के पश्चिमी तट तक फैला विशाल समुद्री क्षेत्र, जहाँ विश्व व्यापार का 60% से अधिक हिस्सा गुजरता है;\n   - **मुक्त एवं समावेशी हिंद-प्रशांत** — नौवहन की स्वतंत्रता (Freedom of Navigation) और नियम-आधारित व्यवस्था (Rules-based Order)।\n\n2. **क्वाड (चतुष्कोणीय सुरक्षा संवाद - QUAD)**:\n   - **सदस्य राष्ट्र** — भारत, संयुक्त राज्य अमेरिका, जापान और ऑस्ट्रेलिया;\n   - **उद्देश्य** — खुले समुद्री मार्ग, लचीली आपूर्ति श्रृंखला (Supply Chains), साइबर सुरक्षा, जलवायु आपदा राहत और 5जी/एआई तकनीकी सहयोग।\n\n3. **भारत का 'सागर' (SAGAR) विजन**:\n   - *'Security and Growth for All in the Region' — क्षेत्र में सभी के लिए सुरक्षा और सतत आर्थिक विकास।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 31.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 31."
+          "target": "स्वतंत्र, खुला और समावेशी हिंद-प्रशांत क्षेत्र नियम-आधारित अंतरराष्ट्रीय व्यवस्था और नौवहन की निर्बाध स्वतंत्रता सुनिश्चित करने हेतु अनिवार्य है।",
+          "reading": "Swatantr, khula aur samaaveshi Hind-Prashaant kshetr niyam-aadhaarit antarraashtreey vyavastha aur nauvahan ki nirbaadh swatantrata sunishchit karne hetu anivaarya hai. [sʋət̪ən̪t̪r kʰʊlaː ɔːr səmaːʋeːʃiː ɦɪn̪d̪-prəʃaːn̪t̪ kʃeːt̪r nɪjəm-aːd̪ʱaːrɪt̪ ən̪t̪rːaːʂʈriːj ʋjəʋəst̪ʰaː ɔːr nɔːʋəɦən kiː nɪrbaːd̪ʱ sʋət̪ən̪t̪rt̪aː sʊnɪʃtʃɪt̪ kərneː ɦeːt̪ʊ ənɪʋaːrjə hɛː] (svuh-TUHN-truh, KHOO-lah owr suh-mah-VAY-shee HEEND-pruh-SHAHNT kshay-truh nee-YUM-ah-dhah-REET uhn-tuhr-rahsh-TREE-yuh vyuh-vuhs-THAH owr now-vuh-HUHN kee neer-BAHDH svuh-tuhn-truh-TAH soo-neesh-CHEET KUHR-nay HAY-too uh-nee-VAHR-yuh hy)",
+          "translation": "A free, open, and inclusive Indo-Pacific region is essential to guarantee a rules-based international order and unimpeded freedom of navigation."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 31-3)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "क्वाड समूह के सदस्य राष्ट्रों ने हिंद महासागर में मानवीय सहायता, आपदा राहत और समुद्री क्षेत्र जागरूकता हेतु संयुक्त रणनीतिक समन्वय किया।",
+          "reading": "QUAD samooh ke sadasya raashtron ne Hind Mahaasaagar mein maanveey sahaayata, aapda raahat aur samudree kshetr jaagarookata hetu sanyukt rananeetik samanvay kiya. [kʋaːɖ səmuːɦ keː səd̪əsjə raːʂʈrõː neː ɦɪn̪d̪ məɦaːsaːɡər mẽː maːnʋiːj səɦaːjt̪aː aːpdaː raːɦət̪ ɔːr səmʊd̪riː kʃeːt̪r dʒaːɡruːkt̪aː ɦeːt̪ʊ sənjoːdʒɪt̪ rəɳniːt̪ɪk səmənʋəj kɪjaː] (QUAD suh-MOOH kay suh-DUHS-yuh rahsh-TROHN nay HEEND muh-hah-SAH-guhr mayn mahn-VEE-yuh suh-hah-yuh-TAH, ahp-DAH RAH-huht owr suh-mood-REE kshay-truh jahg-rook-TAH HAY-too suhn-YOOKT ruhn-nee-TEEK suh-muhn-VUY kee-YAH)",
+          "translation": "The member states of the QUAD group carried out joint strategic coordination in the Indian Ocean for humanitarian assistance, disaster relief, and maritime domain awareness."
+        },
+        {
+          "target": "भारत का 'सागर' विजन मित्र तटीय देशों के साथ रक्षा साझेदारी, समुद्री डकैती-निरोध और नीली अर्थव्यवस्था को बढ़ावा देता है।",
+          "reading": "Bhaarat ka 'SAGAR' vision mitr tateey deshon ke saath raksha saajhedaari, samudree dakaiti-nirodh aur neeli arthavyavastha ko badhaava deta hai. [bʱaːrət̪ kaː saːɡər ʋɪzən mɪt̪r t̪əʈiːj d̪eːʃõː keː saːt̪ʰ rəkʃaː saːdʒʱeːd̪aːriː səmʊd̪riː ɖəkɛːt̪iː-nɪroːd̪ʱ ɔːr niːliː ərt̪ʰʋjəʋəst̪ʰaː koː bəɖʱaːʋaː d̪eːt̪aː hɛː] (BHAH-ruht kah SAGAR vision MEET-ruh tuh-TEE-yuh day-SHOHN kay SAHTH RUHK-shah sah-jhay-DAH-ree, suh-mood-REE duh-ky-TEE-nee-ROHDH owr nee-LEE uhrth-vyuh-vuhs-THAH koh buh-dhah-VAH DAY-tah hy)",
+          "translation": "India's 'SAGAR' vision fosters defense partnerships, counter-piracy operations, and the blue economy with friendly littoral nations."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "हिंद-प्रशांत: खुला व समावेशी क्षेत्र, क्वाड (QUAD: भारत-US-जापान-ऑस्ट्रेलिया), सागर (SAGAR) विजन!"
+      ],
+      "culturalNotes": [
+        "प्राचीन भारत में चोल साम्राज्य (Chola Dynasty) ने हिंद महासागर और दक्षिण-पूर्व एशिया (मलय प्रायद्वीप, सुमात्रा, जावा) तक शक्तिशाली नौसैनिक और व्यापारिक प्रभाव स्थापित किया था।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"ऋण\":",
+          "prompt": "भारत, संयुक्त राज्य अमेरिका, जापान और ऑस्ट्रेलिया के चार-पक्षीय रणनीतिक सुरक्षा समूह को क्या कहा जाता है?",
           "options": [
-            "हम इस पाठ में इकाई 31.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («ब्याज» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («कर» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («व्यापार» का अनुचित स्थान)"
+            "क्वाड / QUAD (Quadrilateral Security Dialogue - Indo-Pacific Strategic Forum)",
+            "त्रिमूर्ति (तीन देवता)",
+            "जी-7 (सात धनी देश)",
+            "आसियान (दक्षिण-पूर्व एशियाई संघ)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "भारत, अमेरिका, जापान और ऑस्ट्रेलिया के रणनीतिक मंच को «क्वाड» (QUAD) कहा जाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"ऋण\":",
+          "prompt": "हिंद महासागर में सभी तटीय देशों की सुरक्षा और विकास हेतु भारत द्वारा घोषित दृष्टिकोण का क्या नाम है?",
           "options": [
-            "हम इस पाठ में इकाई 31.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («कर» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («व्यापार» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («ब्याज» का अशुद्ध रूप)"
+            "'सागर' विजन / SAGAR (Security and Growth for All in the Region)",
+            "'आकाश' विजन (वायु सुरक्षा)",
+            "'भूमि' विजन (जमीन सुरक्षा)",
+            "'अंतरिक्ष' विजन (उपग्रह सुरक्षा)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "क्षेत्र में सभी की सुरक्षा और समृद्धि के भारतीय समुद्री विजन को «सागर» (SAGAR) कहा जाता है।"
         }
       ]
     },
@@ -12983,17 +13012,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"ऋण\": Which sentence is completely correct?",
+          "prompt": "हिंद-प्रशांत रणनीति और समुद्री सुरक्षा (Indo-Pacific & Maritime Strategy) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 31.3 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («व्यापार» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («ब्याज» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («कर» से संबंधित)"
+            "मुक्त, सुरक्षित और नियम-आधारित हिंद-प्रशांत क्षेत्र का निर्माण तथा क्वाड व सागर विजन का सशक्त क्रियान्वयन वैश्विक व्यापार और स्थिरता की जीवनरेखा है। (The creation of a free, secure, and rules-based Indo-Pacific and the robust implementation of QUAD and the SAGAR vision are the lifeline of global trade and stability.)",
+            "समुद्र में सभी जहाजों को डुबो देना ही हिंद-प्रशांत नीति है।",
+            "क्वाड केवल चार दोस्तों द्वारा ताश खेलने का खेल है।",
+            "हिंद महासागर को सुखाकर वहां गेहूं की खेती करनी चाहिए।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«मुक्त, सुरक्षित और नियम-आधारित हिंद-प्रशांत क्षेत्र का निर्माण... जीवनरेखा है» समुद्री कूटनीति का मानक वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u31-l4": {
@@ -13001,53 +13031,62 @@
     "subject": "hindi",
     "unit": 31,
     "lessonNumber": 4,
-    "title": "दक्षिण एशियाई भू-राजनीति और विदेश नीति (Geopolitics) (Part 4)",
+    "title": "ग्लोबल साउथ की आवाज़, बहुपक्षीय मंच और ब्रिक्स (Voice of Global South, BRICS & Reform)",
     "level": "C2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 31.4) with authentic linguistic precision.",
+    "objective": "ग्लोबल साउथ (Global South), ब्रिक्स (BRICS), जी-20 अध्यक्षता तथा संयुक्त राष्ट्र सुरक्षा परिषद सुधारों की उच्चस्तरीय बहुपक्षीय शब्दावली में पारंगत होना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "ग्लोबल साउथ, ब्रिक्स और बहुपक्षीय अंतरराष्ट्रीय मंचों के मानक नियम:\n\n1. **ग्लोबल साउथ की आवाज़ (Voice of Global South)**:\n   - **विकासशील राष्ट्रों का नेतृत्व** — एशिया, अफ्रीका और लैटिन अमेरिका के विकासशील देशों की प्राथमिकताओं, जलवायु वित्तपोषण और खाद्य सुरक्षा को मंच प्रदान करना;\n   - **ऋण संकट एवं निष्पक्षता** — विकासशील देशों पर अनुचित आर्थिक दबाव और ऋणजाल का विरोध।\n\n2. **ब्रिक्स (BRICS) का विस्तार एवं बहुध्रुवीयता**:\n   - **स्थापना एवं नए सदस्य** — ब्राजील, रूस, भारत, चीन, दक्षिण अफ्रीका तथा नए शामिल देश;\n   - **न्यू डेवलपमेंट बैंक (NDB)** — उभरती अर्थव्यवस्थाओं में बुनियादी ढांचे और सतत विकास परियोजनाओं का वित्तपोषण।\n\n3. **बहुपक्षीय संस्थाओं में संस्थागत सुधार**:\n   - *संयुक्त राष्ट्र सुरक्षा परिषद (UNSC), अंतरराष्ट्रीय मुद्रा कोष (IMF) और विश्व बैंक में 21वीं सदी की वास्तविकताओं के अनुरूप लोकतांत्रिक सुधार।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 31.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 31."
+          "target": "भारत ने जी-20 और ब्रिक्स के मंचों पर 'ग्लोबल साउथ' की प्राथमिकताओं, जलवायु न्याय और विकासशील देशों के ऋण संकट को मुखरता से उठाया।",
+          "reading": "Bhaarat ne G20 aur BRICS ke manchon par 'Global South' ki praathamikataaon, jalavaayu nyaay aur vikaassheel deshon ke rin sankat ko mukharta se uthaaya. [bʱaːrət̪ neː dʒiː-ʈʋɛnʈiː ɔːr brɪks keː məntʃõː pər ɡloːbəl saːʊt̪ʰ kiː praːt̪ʰmɪkt̪aːõː dʒəlʋaːjʊ njaːj ɔːr ʋɪkaːsʃiːl d̪eːʃõː keː rɪɳ səŋkəʈ koː mʊkʰərt̪aː seː ʊtʰaːjaː] (BHAH-ruht nay G20 owr BRICS kay muhn-CHOHN puhr Global South kee prah-thuh-meek-tah-OHN, juh-luh-VAH-yoo NYAHY owr vee-kahs-SHEEL day-SHOHN kay REEN suhn-KUHT koh moo-khuhr-TAH say oo-THAH-yah)",
+          "translation": "India emphatically raised the priorities of the 'Global South,' climate justice, and the debt crisis of developing nations on the platforms of the G20 and BRICS."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 31-4)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "बहुपक्षीय संस्थाओं जैसे संयुक्त राष्ट्र सुरक्षा परिषद में समकालीन भू-राजनीतिक वास्तविकताओं के अनुरूप अविलंब सुधार आवश्यक है।",
+          "reading": "bahupaksheey sansthaaon jaise Sanyukt Raashtr Suraksha Parishad mein samkaaleen bhoo-raajneetik vaastavikataaon ke anuroop avilamb sudhaar aavashyak hai. [bəɦʊpəkʃiːj sənst̪ʰaːõː dʒɛːseː sənjoːkt̪ raːʂʈr sʊrəkʃaː pərɪʂəd̪ mẽː səmkaːliːn bʱuː-raːdʒniːt̪ɪk ʋaːst̪əʋɪkt̪aːõː keː ənʊruːp əʋɪləmb sʊd̪ʱaːr aːʋəʃjək hɛː] (buh-hoo-puhk-SHEE-yuh suhns-thah-OHN JY-say suhn-YOOKT rahsh-truh soo-RUHK-shah puh-ree-SHUHD mayn suhm-kah-LEEN bhoo-rahj-nee-TEEK vahs-tuh-veek-tah-OHN kay uh-noo-ROOP uh-vee-LUHMB soo-DHAHR ah-vush-YUK hy)",
+          "translation": "Expeditious reform aligned with contemporary geopolitical realities is essential in multilateral institutions such as the United Nations Security Council."
+        },
+        {
+          "target": "विकासशील राष्ट्रों को सशक्त बनाने हेतु भारत ने अपनी डिजिटल सार्वजनिक अवसंरचना के ओपन-सोर्स मॉडल को दुनिया के साथ साझा किया।",
+          "reading": "vikaassheel raashtron ko sashakt banaane hetu Bhaarat ne apni digital saarvajanik avasanrachana ke open-source model ko duniya ke saath saajha kiya. [ʋɪkaːsʃiːl raːʂʈrõː koː səʃəkt̪ bənaːneː ɦeːt̪ʊ bʱaːrət̪ neː əpniː ɖɪdʒɪʈəl saːrʋdʒənɪk əʋsənrətʃnaː keː oːpən-soːrs moːɖəl koː d̪ʊnɪjaː keː saːt̪ʰ saːdʒʱaː kɪjaː] (vee-kahs-SHEEL rahsh-TROHN koh suh-SHUKT buh-nah-NAY HAY-too BHAH-ruht nay uhp-NEE digital sahr-vuh-juh-NEEK uh-vuh-suhn-ruhch-NAH kay open-source model koh doo-nee-YAH kay SAHTH sah-JHAH kee-YAH)",
+          "translation": "To empower developing nations, India shared its open-source model of digital public infrastructure with the world."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "ग्लोबल साउथ: ब्रिक्स (BRICS), जी-20, बहुपक्षीय सुधार (UNSC reform), डिजिटल अवसंरचना!"
+      ],
+      "culturalNotes": [
+        "भारत की अध्यक्षता में 2023 के नई दिल्ली जी-20 शिखर सम्मेलन में 55 देशों के 'अफ्रीकी संघ' (African Union) को जी-20 का स्थायी सदस्य बनाया गया, जो ग्लोबल साउथ के लिए ऐतिहासिक उपलब्धि थी।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"ब्याज\":",
+          "prompt": "एशिया, अफ्रीका और लैटिन अमेरिका के विकासशील और अल्पविकसित देशों के समूह को वैश्विक कूटनीति में क्या संज्ञा दी गई है?",
           "options": [
-            "हम इस पाठ में इकाई 31.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («कर» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («व्यापार» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («दस्तावेज़» का अनुचित स्थान)"
+            "ग्लोबल साउथ (Global South - Developing, emerging, and under-represented nations of the world)",
+            "उत्तरी ध्रुव (आर्कटिक क्षेत्र)",
+            "अंतरिक्ष केंद्र (नासा प्रयोगशाला)",
+            "अंटार्कटिका महाद्वीप (बर्फ का इलाका)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "विकासशील और उभरते देशों के समूह को अंतरराष्ट्रीय कूटनीति में «ग्लोबल साउथ» (Global South) कहा जाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"ब्याज\":",
+          "prompt": "ब्राजील, रूस, भारत, चीन और दक्षिण अफ्रीका के नेतृत्व वाले उभरती अर्थव्यवस्थाओं के शक्तिशाली आर्थिक-राजनीतिक मंच का क्या नाम है?",
           "options": [
-            "हम इस पाठ में इकाई 31.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («व्यापार» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («दस्तावेज़» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («कर» का अशुद्ध रूप)"
+            "ब्रिक्स / BRICS (Grouping of major emerging national economies)",
+            "इंटरपोल (अंतरराष्ट्रीय पुलिस)",
+            "फीफा (फुटबॉल संस्था)",
+            "नाटो (पश्चिमी सैन्य गठबंधन)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "उभरती प्रमुख अर्थव्यवस्थाओं के समूह को «ब्रिक्स» (BRICS) कहा जाता है।"
         }
       ]
     },
@@ -13055,17 +13094,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"ब्याज\": Which sentence is completely correct?",
+          "prompt": "ग्लोबल साउथ और बहुपक्षीय सुधार (Global South & Multilateral Reform) का पूर्णतः मानक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 31.4 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («दस्तावेज़» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («कर» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («व्यापार» से संबंधित)"
+            "ग्लोबल साउथ का सशक्त नेतृत्व, समावेशी बहुपक्षवाद और संयुक्त राष्ट्र सुरक्षा परिषद में सुधार ही एक न्यायसंगत व संतुलित विश्व व्यवस्था की गारंटी हैं। (Empowered leadership of the Global South, inclusive multilateralism, and UNSC reform are the guarantee of a just and balanced world order.)",
+            "विकासशील देशों पर भारी कर्ज लादकर उन्हें बर्बाद कर देना चाहिए।",
+            "ब्रिक्स का काम केवल एक दूसरे पर बम गिराना है।",
+            "संयुक्त राष्ट्र को बंद कर देना चाहिए ताकि पूरी दुनिया में अराजकता फैले।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«ग्लोबल साउथ का सशक्त नेतृत्व, समावेशी बहुपक्षवाद और संयुक्त राष्ट्र सुरक्षा परिषद में सुधार... न्यायसंगत व्यवस्था की गारंटी हैं» बहुपक्षीय कूटनीति का मानक वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u31-l5": {
@@ -13073,53 +13113,62 @@
     "subject": "hindi",
     "unit": 31,
     "lessonNumber": 5,
-    "title": "दक्षिण एशियाई भू-राजनीति और विदेश नीति (Geopolitics) (Part 5)",
+    "title": "विदेश नीति सिद्धांत, कूटनीतिक संतुलन व महा-समेकन (Foreign Policy Doctrine & Synthesis)",
     "level": "C2",
-    "objective": "Master Hindi grammar and Devanagari syntax for हिंदी व्याकरण और वाक्य विन्यास (इकाई 31.5) with authentic linguistic precision.",
+    "objective": "कौटिल्य के मंडल सिद्धांत (Mandala Theory), यथार्थवाद, सॉफ्ट पावर, बहु-संलग्नता (Multi-alignment) तथा 'विश्वबंधु' दृष्टिकोण के समग्र विमर्श में पूर्ण दक्षता प्राप्त करना।",
     "presentation": {
-      "explanation": "",
+      "explanation": "भारतीय विदेश नीति का दार्शनिक आधार, रणनीतिक संतुलन और वैश्विक दृष्टिकोण का समग्र संश्लेषण:\n\n1. **प्राचीन भारतीय कूटनीति सिद्धांत (कौटिल्य का अर्थशास्त्र)**:\n   - **मंडल सिद्धांत (Mandala Theory)** — 'अरि' (शत्रु), 'मित्र', 'उदासीन' और 'मध्यम' राज्यों का भू-राजनीतिक वृत्त (पड़ोसी देश का स्वभावतः प्रतिस्पर्धी होना और पड़ोसी का पड़ोसी स्वाभाविक मित्र होना);\n   - **षड्गुण्य नीति** — संधि (समझौता), विग्रह (युद्ध), यान (आक्रमण), आसन (तटस्थता), संश्रय (आश्रय) और द्वैधीभाव (दोहरी नीति)।\n\n2. **सॉफ्ट पावर और सांस्कृतिक कूटनीति**:\n   - योग (अंतरराष्ट्रीय योग दिवस 21 जून), आयुर्वेद, संगीत, सिनेमा, भारतीय व्यंजन तथा विश्व भर में फैला 3.2 करोड़ का प्रभावशाली प्रवासी भारतीय समुदाय (Diaspora)।\n\n3. **आधुनिक 'विश्वबंधु' दृष्टिकोण**:\n   - *वसुधैव कुटुम्बकम् के अमर आदर्श के साथ भारत आज वैश्विक समस्याओं (जलवायु परिवर्तन, खाद्य-ऊर्जा सुरक्षा, महामारी, शांति स्थापना) का समाधानकर्ता और 'विश्व का विश्वसनीय मित्र' (विश्वबंधु) है।*",
       "examples": [
         {
-          "target": "हम इस पाठ में इकाई 31.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-          "reading": "[həm ɪs paːʈʰ mẽː əbʱjaːs kərteː hɛ̃ː] (hum is paht mayn)",
-          "translation": "We practice the core grammatical rules and sentence structure of Unit 31."
+          "target": "कौटिल्य के अर्थशास्त्र के मंडल सिद्धांत से लेकर आधुनिक बहु-संलग्नता नीति तक भारत का कूटनीतिक दर्शन यथार्थवाद और शांति का अद्भुत समन्वय है।",
+          "reading": "Kautilya ke Arthashastra ke mandal siddhaant se lekar aadhunik bahu-sanlagnata neeti tak Bhaarat ka kootneetik darshan yathaarthvaad aur shaanti ka adbhut samanvay hai. [kɔːʈɪljə keː ərt̪ʰʃaːstrə keː məɳɖəl sɪd̪ːʱaːn̪t̪ seː leːkər aːd̪ʱʊnɪk bəɦʊ-sənleːɡnət̪aː niːt̪ɪ t̪ək bʱaːrət̪ kaː kuːt̪niːt̪ɪk d̪ərʃən jət̪ʰaːrt̪ʰʋaːd̪ ɔːr ʃaːn̪t̪ɪ kaː əd̪bʱʊt̪ səmənʋəj hɛː] (kow-TEEL-yuh kay uhrth-SHAHS-truh kay MUHN-duhl seed-DHAHNT say LAY-kuhr ah-dhoo-NEEK buh-hoo-suhn-luhg-nuh-TAH nee-TEE tuhk BHAH-ruht kah koot-nee-TEEK DUHR-shuhn yuh-thahrth-VAHD owr SHAHN-tee kah uhd-BHOOT suh-muhn-VUY hy)",
+          "translation": "From the Mandala theory of Kautilya's Arthashastra to the modern multi-alignment policy, India's diplomatic philosophy is a marvelous synthesis of realism and peace."
         },
         {
-          "target": "कृपया इस वाक्य में क्रिया और परसर्ग के सही समन्वय पर ध्यान दें (पाठ 31-5)।",
-          "reading": "[krɪpəjaː ɪs vaːkjə mẽː d̪ʱjaːn d̪ẽː] (krip-yah is vahk-yuh mayn)",
-          "translation": "Please pay attention to the correct coordination of verb and postposition."
+          "target": "योग, आयुर्वेद और समृद्ध सांस्कृतिक विरासत रूपी सॉफ्ट पावर तथा प्रवासी भारतीय समुदाय वैश्विक मंचों पर भारत के जीवंत राजदूत सिद्ध हुए हैं।",
+          "reading": "Yoga, Ayurveda aur samriddh saanskritik viraasat roopi soft power tatha pravaasi Bhaarateey samudaay vaishvik manchon par Bhaarat ke jeevant raajdoot siddh hue hain. [joːɡaː aːjʊrʋeːd̪ ɔːr səmrd̪ːʱ saːnskrt̪ɪk ʋɪraːsət̪ ruːpiː sɔːfʈ paːʋər t̪ət̪ʰaː prəʋaːsiː bʱaːrt̪iːj səmʊd̪aːj ʋɛːʃʋɪk məntʃõː pər bʱaːrət̪ keː dʒiːʋən̪t̪ raːdʒd̪uːt̪ sɪd̪ːʱ ɦʊeː hɛ̃ː] (Yoga, Ayurveda owr suhm-REEDH sahn-skree-TEEK vee-rah-SUHT ROO-pee soft power TUHTH-ah pruh-vah-SEE bhahr-TEE-yuh suh-moo-DAHY vy-SHVEEK muhn-CHOHN puhr BHAH-ruht kay jee-VUHNTH rahj-DOOT seedh hoo-AY hyhn)",
+          "translation": "Soft power in the form of Yoga, Ayurveda, and rich cultural heritage alongside the Indian diaspora have proven to be vibrant ambassadors of India on global stages."
+        },
+        {
+          "target": "एक ध्रुवीय या द्विध्रुवीय प्रतिद्वंद्विता के स्थान पर भारत एक संतुलित बहुध्रुवीय विश्व और 'विश्वबंधु' के रूप में मानवता के साझा भविष्य का पक्षधर है।",
+          "reading": "ek dhruveey ya dvi-dhruveey pratidvandvita ke sthaan par Bhaarat ek santulit bahu-dhruveey vishwa aur 'Vishwa-Bandhu' ke roop mein maanavata ke saajha bhavishya ka pakshdhar hai. [eːk d̪ʱrʊʋiːj jaː d̪ʋɪ-d̪ʱrʊʋiːj prət̪ɪd̪ʋən̪d̪ʋɪt̪aː keː st̪ʰaːn pər bʱaːrət̪ eːk sən̪t̪ʊlɪt̪ bəɦʊ-d̪ʱrʊʋiːj ʋɪʃʋə ɔːr ʋɪʃʋə-bən̪d̪ʱʊ keː ruːp mẽː maːnʋt̪aː keː saːdʒʱaː bʱəʋɪʂjə kaː pəkʃd̪ʱər hɛː] (AYK dhroo-VEE-yuh yah dvee-dhroo-VEE-yuh pruh-teed-vuhn-dvee-TAH kay STHAHN puhr BHAH-ruht AYK suhn-too-LEET buh-hoo-dhroo-VEE-yuh VEESH-vuh owr Vishwa-Bandhu kay ROOP mayn mah-nuhv-TAH kay sah-JHAH bhuh-VEESH-yuh kah puhk-shuh-DHAHR hy)",
+          "translation": "In place of unipolar or bipolar rivalry, India champions a balanced multipolar world and stands for humanity's shared future as a 'Global Friend' (Vishwa-Bandhu)."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "विदेश नीति समेकन: कौटिल्य मंडल सिद्धांत, बहु-संलग्नता, सॉफ्ट पावर (योग/प्रवासी), विश्वबंधु!"
+      ],
+      "culturalNotes": [
+        "चाणक्य (कौटिल्य) द्वारा रचित 'अर्थशास्त्र' (चौथी शताब्दी ईसा पूर्व) राज्यशास्त्र, गुप्तचर व्यवस्था, विदेश नीति और कूटनीतिक कूटकौशल का विश्व का प्राचीनतम और सर्वाधिक व्यापक ग्रंथ है।"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"कर\":",
+          "prompt": "प्राचीन भारतीय कूटनीतिज्ञ कौटिल्य द्वारा प्रतिपादित पड़ोसी राज्यों के भू-राजनीतिक संबंधों के सिद्धांत को क्या कहते हैं?",
           "options": [
-            "हम इस पाठ में इकाई 31.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («व्यापार» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («दस्तावेज़» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («हस्ताक्षर» का अनुचित स्थान)"
+            "मंडल सिद्धांत (Mandala Theory - Ancient geopolitical doctrine of circle of neighboring and distant states)",
+            "सौर मंडल (ग्रह-नक्षत्र)",
+            "वायु मंडल (हवा की परत)",
+            "तारामंडल (आकाशगंगा)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "कौटिल्य के अर्थशास्त्र में राज्यों के आपसी भू-राजनीतिक संबंधों के सिद्धांत को «मंडल सिद्धांत» (Mandala Theory) कहा जाता है।"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"कर\":",
+          "prompt": "समकालीन अंतरराष्ट्रीय कूटनीति में भारत की सार्वभौमिक मित्रता, शांतिदूत और संकटमोचक की छवि को किस शब्द से व्यक्त किया गया है?",
           "options": [
-            "हम इस पाठ में इकाई 31.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («दस्तावेज़» से संबंधित)",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («हस्ताक्षर» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («व्यापार» का अशुद्ध रूप)"
+            "विश्वबंधु (Vishwa-Bandhu - Global Friend / Trusted bridge-builder and partner to all humanity)",
+            "युद्धोन्मादी (लड़ाकू)",
+            "साम्राज्यवादी (विस्तारवादी)",
+            "अलगाववादी (तन्हाई पसंद)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "समस्त विश्व के कल्याणकारी मित्र और निष्पक्ष सेतु के रूप में भारत की कूटनीतिक भूमिका को «विश्वबंधु» कहा जाता है।"
         }
       ]
     },
@@ -13127,17 +13176,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"कर\": Which sentence is completely correct?",
+          "prompt": "भारतीय विदेश नीति और कूटनीतिक दर्शन (Foreign Policy & Diplomatic Synthesis) का समग्र प्रामाणिक वाक्य पहचानिए:",
           "options": [
-            "हम इस पाठ में इकाई 31.5 के प्रमुख व्याकरणिक नियमों और वाक्य संरचना का अभ्यास करते हैं।",
-            "अस्वाभाविक पदक्रम वाला अमानक वाक्य («हस्ताक्षर» का अनुचित स्थान)",
-            "कारक व परसर्ग की त्रुटिपूर्ण रचना («व्यापार» का अशुद्ध रूप)",
-            "लिंग-वचन समन्वय का असंगत प्रयोग («दस्तावेज़» से संबंधित)"
+            "कौटिल्य के यथार्थवाद, पंचशील के शांति आदर्शों, सामरिक स्वायत्तता और 'विश्वबंधु' भावना का समन्वय ही भारतीय विदेश नीति को वैश्विक व्यवस्था का मार्गदर्शक स्तंभ बनाता है। (The synthesis of Kautilyan realism, Panchsheel peace ideals, strategic autonomy, and the 'Vishwa-Bandhu' spirit makes Indian foreign policy a guiding pillar of the global order.)",
+            "कूटनीति का अर्थ केवल दूसरे देशों के राजदूतों को अपमानित करना है।",
+            "भारत को सभी अंतरराष्ट्रीय संधियां फाड़कर युद्ध की घोषणा कर देनी चाहिए।",
+            "अर्थशास्त्र पुस्तक को जला देना चाहिए।"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«कौटिल्य के यथार्थवाद, पंचशील के शांति आदर्शों, सामरिक स्वायत्तता और 'विश्वबंधु' भावना का समन्वय... मार्गदर्शक स्तंभ बनाता है» भारतीय कूटनीति का सर्वोच्च प्रामाणिक वाक्य है।"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "hi-u32-l1": {
