@@ -943,56 +943,65 @@
     "subject": "korean",
     "unit": 2,
     "lessonNumber": 1,
-    "title": "주제격(은/는)과 주격(이/가) 조사 (Topic & Subject Particles) (Part 1)",
+    "title": "주제격 보조사 은/는과 화제 제시 (Topic Particle 은/는 & Discourse Themes)",
     "level": "A1",
-    "objective": "Comprehensive mastery of 은/는과 이/가 조사의 차이 (Topic vs Subject Particles).",
+    "objective": "주제격 보조사 '은/는'의 형태 결합 규칙(받침 유무)을 익히고, 대화의 중심 화제(Topic) 설정 및 일반적 사실 진술 기능을 활용한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 주제격(은/는)과 주격(이/가) 조사 (Topic & Subject Particles) » (제1절)의 핵심 언어 요소와 은/는과 이/가 조사의 차이 (Topic vs Subject Particles)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한국어의 '은/는'은 문장의 화제(Topic)를 제시하거나 다른 대상과의 대조(Contrast)를 나타내는 가장 대표적인 보조사입니다. 영어로는 'As for...' 또는 'Speaking of...'에 해당합니다.\n\n1. 형태 결합 규칙 (Phonological Conditioning):\n앞 명사의 마지막 음절에 받침이 있는지에 따라 '은'과 '는'을 선택합니다.\n- 받침 있는 명사 + 은: 책 + 은 → 책은 [chae-geun], 선생님 + 은 → 선생님은\n- 받침 없는 명사 + 는: 나 + 는 → 나는 [na-neun], 저 + 는 → 저는, 사과 + 는 → 사과는\n\n2. 주요 문법 기능:\n- 대화의 화제 제시(Topic Introduction): 청자와 이미 알고 있거나 새로 이야기하고자 하는 주제를 꺼낼 때 사용합니다. (예: 오늘은 날씨가 좋습니다. / 제 이름은 김민수입니다.)\n- 보편적 진리 및 일반적 사실 서술: 사물의 속성이나 정의를 설명할 때 사용합니다. (예: 사과는 과일입니다. / 지구는 둥급니다.)\n\n3. 주격 조사와의 1차적 차이:\n'은/는'은 단순한 문법적 주어 표지를 넘어 화자가 담화의 초점을 어디에 두고 있는지를 알리는 담화 표지(Discourse Marker) 역할을 수행합니다.",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (2.1.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "저는 한국 사람입니다.",
+          "reading": "Jeo-neun Hanguk saram-imnida.",
+          "translation": "As for me, I am Korean."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (2.1.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "이것은 한국어 책입니다.",
+          "reading": "Igeot-eun hangugeo chaek-imnida.",
+          "translation": "As for this, it is a Korean book."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (2.1.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "오늘은 월요일입니다.",
+          "reading": "Oneul-eun woryoil-imnida.",
+          "translation": "As for today, it is Monday."
+        },
+        {
+          "target": "제 친구는 미국에서 왔습니다.",
+          "reading": "Je chingu-neun miguk-eseo watseumnida.",
+          "translation": "As for my friend, he/she came from the United States."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "받침 있으면 동그란 '은'(ㅇ), 받침 없으면 날씬한 '는'(ㄴ)! 명사의 마지막 글자 받침을 확인하세요."
+      ],
+      "culturalNotes": [
+        "한국어 대화에서는 문맥상 화제가 명확할 경우 주어나 주제어('저는', '그 사람은')를 자주 생략합니다. 주제어를 계속 반복하면 오히려 어색하게 들릴 수 있습니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 은/는과 이/가 조사의 차이 (Topic vs Subject Particles) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 1)?",
+          "prompt": "명사 '선생님(teacher - 받침 ㅁ 있음)' 뒤에 결합할 올바른 주제격 조사는 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (2.1.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (2.1.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (2.1.3)."
+            "선생님은",
+            "선생님는",
+            "선생님이"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "'선생님'은 마지막 음절 '님'에 받침 'ㅁ'이 있으므로 주제격 조사 '은'이 결합하여 '선생님은'이 됩니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 주제격(은/는)과 주격(이/가) 조사 (Topic & Subject Particles) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 1):",
+          "prompt": "다음 중 받침 없는 명사 뒤에 '는'이 올바르게 결합된 문장은 어느 것입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (2.1.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (2.1.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (2.1.3)."
+            "친구는 학생입니다.",
+            "친구은 학생입니다.",
+            "친구이 학생입니다."
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "'친구'는 받침이 없는 모음 종결 명사이므로 '는'이 결합하여 '친구는'이 올바릅니다."
         }
       ]
     },
@@ -1000,14 +1009,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 은/는과 이/가 조사의 차이 (Topic vs Subject Particles) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 2-1)?",
+          "prompt": "'이것(받침 ㅅ 있음) _____ 사전입니다.' 빈칸에 들어갈 올바른 주제격 조사는 무엇입니까?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (2.1.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (2.1.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (2.1.3)."
+            "은",
+            "는",
+            "가"
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR A1 target-language standard."
+          "explanation": "'이것'은 받침 'ㅅ'이 있으므로 연음되어 '이것은[igeoseun]'이 됩니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'오늘은 월요일입니다'(Today is Monday)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "오늘은 월요일입니다.",
+            "오늘은 월요일입니다"
+          ],
+          "explanation": "오늘(받침 ㄹ) + 은(주제격) + 월요일(명사) + 입니다 = 오늘은 월요일입니다."
         }
       ]
     }
@@ -1017,56 +1035,65 @@
     "subject": "korean",
     "unit": 2,
     "lessonNumber": 2,
-    "title": "주제격(은/는)과 주격(이/가) 조사 (Topic & Subject Particles) (Part 2)",
+    "title": "주격 조사 이/가와 새로운 정보의 초점 (Subject Particle 이/가 & Focus)",
     "level": "A1",
-    "objective": "Comprehensive mastery of 은/는과 이/가 조사의 차이 (Topic vs Subject Particles).",
+    "objective": "주격 조사 '이/가'의 결합 규칙을 체득하고, 통사적 주어 지정 및 새로운 정보(New Information) 초점 기능을 정확히 구사한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 주제격(은/는)과 주격(이/가) 조사 (Topic & Subject Particles) » (제2절)의 핵심 언어 요소와 은/는과 이/가 조사의 차이 (Topic vs Subject Particles)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한국어의 '이/가'는 문장의 통사적 주어(Grammatical Subject)를 명확히 지정해 주는 격조사(Case Particle)입니다.\n\n1. 형태 결합 규칙:\n앞 명사의 끝 음절 받침 유무에 따라 '이'와 '가'를 구분하여 씁니다.\n- 받침 있는 명사 + 이: 가방 + 이 → 가방이 [ga-bang-i], 물 + 이 → 물이 [mu-ri]\n- 받침 없는 명사 + 가: 학교 + 가 → 학교가 [hak-gyo-ga], 모자 + 가 → 모자가 [mo-ja-ga]\n\n2. 인칭 대명사 결합 시 불규칙 어간 변화:\n대명사 뒤에 주격 조사 '가'가 결합할 때 형태가 특수하게 바뀝니다.\n- 나 + 가 → 내가 [nae-ga] (I - informal)\n- 저 + 가 → 제가 [je-ga] (I - polite/formal)\n- 너 + 가 → 네가 [ne-ga / colloquially ni-ga] (You - informal)\n- 누구 + 가 → 누가 [nu-ga] (Who?)\n\n3. 주요 문법 및 화용 기능:\n- 새로운 정보 도입(New Information): 눈앞에서 벌어지는 생생한 현상이나 새로운 사건을 묘사할 때 사용합니다. (예: 밖을 보세요! 비가 옵니다. / 꽃이 피었습니다.)\n- 의문사 주어에 대한 특정 지정(Exhaustive Listing / Focus): '누가(Who)' 질문에 대한 직접적 답변에 사용합니다. (예: Q: 누가 반장입니까? A: 민수가 반장입니다.)",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (2.2.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "비가 옵니다.",
+          "reading": "Bi-ga omnida.",
+          "translation": "It is raining (Rain is falling)."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (2.2.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "누가 선생님입니까? 제가 선생님입니다.",
+          "reading": "Nu-ga seonsaengnim-imnikka? Je-ga seonsaengnim-imnida.",
+          "translation": "Who is the teacher? I am the teacher."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (2.2.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "물이 아주 따뜻합니다.",
+          "reading": "Mul-i aju ttatteut-hamnida.",
+          "translation": "The water is very warm."
+        },
+        {
+          "target": "한국어가 참 재미있습니다.",
+          "reading": "Hangugeo-ga cham jaemi-isseumnida.",
+          "translation": "The Korean language is really interesting."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "'저 + 가 = 제가', '나 + 가 = 내가', '누구 + 가 = 누가'! '저가'나 '누구가'라고 말하지 않도록 주의하세요."
+      ],
+      "culturalNotes": [
+        "처음 자기소개를 할 때는 '저는 김민수입니다'(화제)라고 하지만, '누가 발표하겠습니까?'라는 질문에 손을 들 때는 '제가 하겠습니다'(초점/지정)라고 답하는 것이 자연스럽습니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 은/는과 이/가 조사의 차이 (Topic vs Subject Particles) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 2)?",
+          "prompt": "1인칭 공손 대명사 '저(I)'에 주격 조사 '가'가 결합할 때 변화하는 올바른 형태는 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (2.2.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (2.2.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (2.2.3)."
+            "제가",
+            "저가",
+            "저는"
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "'저 + 가'는 불규칙 축약되어 '제가[jega]'로 변합니다. '저가'는 비문법적 형태입니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 주제격(은/는)과 주격(이/가) 조사 (Topic & Subject Particles) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 2):",
+          "prompt": "'가방(받침 ㅇ 있음) _____ 무겁습니다.' 빈칸에 들어갈 올바른 주격 조사는 무엇입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (2.2.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (2.2.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (2.2.3)."
+            "이",
+            "가",
+            "을"
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "'가방'은 받침 'ㅇ'이 있으므로 주격 조사 '이'가 결합하여 '가방이[gabangi]'가 됩니다."
         }
       ]
     },
@@ -1074,14 +1101,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 은/는과 이/가 조사의 차이 (Topic vs Subject Particles) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 2-2)?",
+          "prompt": "'Q: 누가 한국 사람입니까? A: _____ 한국 사람입니다.' 빈칸에 들어갈 가장 자연스러운 주어 표현은 무엇입니까?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (2.2.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (2.2.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (2.2.3)."
+            "제가",
+            "저는",
+            "저를"
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR A1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "'누가(Who)'라는 의문사 초점 질문에 답변할 때는 주격 조사 결합형인 '제가(I am the one)'가 문맥상 정확합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'비가 옵니다'(It is raining)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "비가 옵니다.",
+            "비가 옵니다"
+          ],
+          "explanation": "비(받침 없음) + 가(주격) + 옵니다 = 비가 옵니다."
         }
       ]
     }
@@ -1091,56 +1127,65 @@
     "subject": "korean",
     "unit": 2,
     "lessonNumber": 3,
-    "title": "주제격(은/는)과 주격(이/가) 조사 (Topic & Subject Particles) (Part 3)",
+    "title": "은/는 대 이/가의 의미·화용론적 대립 (Contrastive Pragmatics: 은/는 vs 이/가)",
     "level": "A1",
-    "objective": "Comprehensive mastery of 은/는과 이/가 조사의 차이 (Topic vs Subject Particles).",
+    "objective": "담화 맥락 속에서 '은/는'(구정보·대조·화제)과 '이/가'(신정보·지정·초점)의 미묘한 의미 차이를 구별하고 적재적소에 선택하여 사용한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 주제격(은/는)과 주격(이/가) 조사 (Topic & Subject Particles) » (제3절)의 핵심 언어 요소와 은/는과 이/가 조사의 차이 (Topic vs Subject Particles)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한국어를 배우는 학습자에게 '은/는'과 '이/가'의 구분은 가장 핵심적인 문법 과제입니다. 두 조사는 문맥(Context)과 화자의 의도(Speaker's Focus)에 따라 구별됩니다.\n\n1. 구정보(Topic) vs 신정보(Subject Focus):\n- 은/는 (Topic / Given Info): 청자와 이미 알고 있는 대상을 주제로 끌고 올 때 (예: 옛날에 한 남자가(신정보) 살았습니다. 그 남자는(구정보) 매우 착했습니다.)\n- 이/가 (New Info / Specific Event): 청자에게 새로운 사실을 처음 알리거나 지각할 때 (예: 저기 버스가 옵니다!)\n\n2. 대조(Contrast)의 은/는:\n둘 이상의 대상을 서로 비교하거나 대조할 때 '은/는'을 필수적으로 사용합니다.\n- 사과는 맛있습니다. 하지만 바나나는 맛없습니다. (Apples are tasty, BUT bananas are not.)\n- 형은 키가 큽니다. 반면에 동생은 키가 작습니다.\n\n3. 지정(Exclusive Focus)의 이/가:\n'오직 그 대상만이 그러하다'는 배타적 지정을 나타낼 때 '이/가'를 씁니다.\n- 민수가 서울대에 합격했습니다 (다른 사람이 아닌 바로 민수가).\n- 이것이 진짜 보석입니다 (다른 것이 아닌 이것이 바로).",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (2.3.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "형은 학생이고 동생은 회사원입니다.",
+          "reading": "Hyeong-eun haksaeng-igo dongsaeng-eun hoesawon-imnida.",
+          "translation": "The older brother is a student, while the younger brother is an office worker."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (2.3.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "사과는 빨갛고 바나나는 노랗습니다.",
+          "reading": "Sagwa-neun ppalgako banana-neun noratseumnida.",
+          "translation": "Apples are red, whereas bananas are yellow."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (2.3.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "옛날에 한 왕이 살았습니다. 그 왕은 지혜로웠습니다.",
+          "reading": "Yennar-e han wang-i saratseumnida. Geu wang-eun jihyerowotseumnida.",
+          "translation": "Once upon a time, a king lived. The king was wise."
+        },
+        {
+          "target": "바다는 푸르고 하늘은 맑습니다.",
+          "reading": "Bada-neun pureugo haneur-eun maktseumnida.",
+          "translation": "The sea is blue and the sky is clear."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "대조할 때는 '은/는' (비교 대조의 짝꿍!), 처음 등장할 때는 '이/가', 다시 언급할 때는 '은/는'!"
+      ],
+      "culturalNotes": [
+        "한국어 문학이나 전래동화의 첫 문장은 항상 '옛날 옛적에 착한 호랑이가(이/가) 살았습니다'로 시작하고, 두 번째 문장부터는 '그 호랑이는(은/는)...'으로 전개됩니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 은/는과 이/가 조사의 차이 (Topic vs Subject Particles) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 3)?",
+          "prompt": "'한국어는 재미있습니다. 하지만 수학_____ 어렵습니다.' 두 과목을 대조할 때 빈칸에 들어갈 가장 알맞은 조사는 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (2.3.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (2.3.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (2.3.3)."
+            "은",
+            "는",
+            "이"
           ],
           "answerIndex": 0,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "explanation": "'한국어는'과 대조를 이루며, '수학'은 받침 'ㄱ'이 있으므로 대조의 보조사 '은'이 결합하여 '수학은'이 됩니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 주제격(은/는)과 주격(이/가) 조사 (Topic & Subject Particles) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 3):",
+          "prompt": "이야기를 시작하며 새로운 주인공을 처음 소개할 때(신정보) 알맞은 조사가 쓰인 문장은 무엇입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (2.3.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (2.3.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (2.3.3)."
+            "한 소년이 마을에 살았습니다.",
+            "한 소년은 마을에 살았습니다.",
+            "한 소년을 마을에 살았습니다."
           ],
-          "answerIndex": 1,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "담화에 새로운 대상을 처음 도입하는 신정보 주어에는 주격 조사 '이/가'를 사용하여 '한 소년이'가 자연스럽습니다."
         }
       ]
     },
@@ -1148,14 +1193,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 은/는과 이/가 조사의 차이 (Topic vs Subject Particles) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 2-3)?",
+          "prompt": "'형_____ 키가 크고, 동생_____ 키가 작습니다.' 두 사람의 키를 대조하는 빈칸에 알맞은 조사 쌍은 무엇입니까?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (2.3.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (2.3.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (2.3.3)."
+            "은, 은",
+            "이, 가",
+            "을, 를"
           ],
-          "answerIndex": 2,
-          "explanation": "Affirms CEFR A1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "'형(받침 ㅇ 있음)은'과 '동생(받침 ㅇ 있음)은'으로 대조 보조사 '은'이 양쪽에 결합해야 대조 문맥이 성립합니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'사과는 빨갛습니다'(Apples are red)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "사과는 빨갛습니다.",
+            "사과는 빨갛습니다"
+          ],
+          "explanation": "사과(받침 없음) + 는(주제격) + 빨갛습니다 = 사과는 빨갛습니다."
         }
       ]
     }
@@ -1165,56 +1219,65 @@
     "subject": "korean",
     "unit": 2,
     "lessonNumber": 4,
-    "title": "주제격(은/는)과 주격(이/가) 조사 (Topic & Subject Particles) (Part 4)",
+    "title": "이중 주어문과 대주제-소주어 구조 (Double Subject Constructions: 은/는 ... 이/가)",
     "level": "A1",
-    "objective": "Comprehensive mastery of 은/는과 이/가 조사의 차이 (Topic vs Subject Particles).",
+    "objective": "'[전체/대주제]은/는 [부분/소주어]이/가 [형용사]' 구조를 이해하고, 사람의 신체 특징, 성격, 사물의 속성 및 날씨를 자연스럽게 묘사한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 주제격(은/는)과 주격(이/가) 조사 (Topic & Subject Particles) » (제4절)의 핵심 언어 요소와 은/는과 이/가 조사의 차이 (Topic vs Subject Particles)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한국어 통사 구조의 매우 독특하고 아름다운 특징 중 하나는 한 문장 안에 두 개의 주격/주제격 명사가 연이어 나타나는 이중 주어문(Double Subject Construction)입니다.\n\n1. 문장 공식과 논리 구조:\n[전체·대주제] + 은/는 + [부분·소주어] + 이/가 + [형용사/서술어]\n- '대주제(은/는)'는 전체 대상이나 논의의 범위를 한정합니다.\n- '소주어(이/가)'는 그 대상의 신체 부위, 속성, 세부 특징을 지칭하며 형용사의 직접적인 주어가 됩니다.\n\n2. 대표적 활용 분야:\n- 신체 특징 및 외모 묘사:\n  - 코끼리는 코가 깁니다. (As for elephants, the trunk is long.)\n  - 민수 씨는 키가 큽니다. (As for Minsu, height is tall → Minsu is tall.)\n  - 지은 씨는 눈이 예쁩니다. (Jieun has pretty eyes.)\n- 성격 및 능력:\n  - 선생님은 마음이 따뜻합니다. (The teacher has a warm heart.)\n  - 제 친구는 한국어 발음이 좋습니다. (My friend has good Korean pronunciation.)\n- 도시 및 환경 특성:\n  - 서울은 대중교통이 편리합니다. (Seoul has convenient public transportation.)\n  - 한국은 가을이 아름답습니다. (Korea has beautiful autumns.)",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (2.4.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "코끼리는 코가 깁니다.",
+          "reading": "Kokkiri-neun ko-ga gimnida.",
+          "translation": "An elephant has a long trunk (As for elephants, the trunk is long)."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (2.4.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "민수 씨는 키가 아주 큽니다.",
+          "reading": "Minsu ssi-neun ki-ga aju keumnida.",
+          "translation": "Minsu is very tall."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (2.4.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "지은 씨는 마음이 참 따뜻합니다.",
+          "reading": "Jieun ssi-neun ma-eum-i cham ttatteut-hamnida.",
+          "translation": "Jieun has a truly warm heart."
+        },
+        {
+          "target": "서울은 교통이 매우 편리합니다.",
+          "reading": "Seoul-eun gyotong-i maeu pyeonrihamnida.",
+          "translation": "Seoul has very convenient transportation."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "이중 주어 공식: 큰 대상에는 '은/는', 작은 부위에는 '이/가'! 코끼리는(큰 동물) 코가(작은 부위) 깁니다."
+      ],
+      "culturalNotes": [
+        "영어로는 'Minsu has a tall height' 또는 'Minsu is tall'이지만, 한국어에서는 '민수 씨는 키가 큽니다'처럼 속성을 소주어로 분리하여 표현하는 것이 가장 자연스럽고 세련된 어법입니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 은/는과 이/가 조사의 차이 (Topic vs Subject Particles) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 4)?",
+          "prompt": "'코끼리(전체) _____ 코(부분) _____ 깁니다.' 이중 주어문 공식에 맞게 빈칸에 들어갈 올바른 조사 쌍은 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (2.4.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (2.4.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (2.4.3)."
+            "는, 가",
+            "가, 는",
+            "를, 이"
           ],
-          "answerIndex": 1,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "전체 대주제 '코끼리(받침 없음)' 뒤에는 '는', 부분 소주어 '코(받침 없음)' 뒤에는 '가'가 결합하여 '코끼리는 코가 깁니다'가 됩니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 주제격(은/는)과 주격(이/가) 조사 (Topic & Subject Particles) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 4):",
+          "prompt": "'민수 씨는 마음(받침 ㅁ 있음) _____ 착합니다.' 빈칸에 들어갈 올바른 소주어 조사는 무엇입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (2.4.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (2.4.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (2.4.3)."
+            "이",
+            "가",
+            "은"
           ],
-          "answerIndex": 2,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "answerIndex": 0,
+          "explanation": "'마음'은 받침 'ㅁ'이 있으므로 소주어격 조사 '이'가 결합하여 '마음이 착합니다'가 됩니다."
         }
       ]
     },
@@ -1222,14 +1285,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 은/는과 이/가 조사의 차이 (Topic vs Subject Particles) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 2-4)?",
+          "prompt": "다음 중 한국어의 자연스러운 이중 주어문 구조를 갖춘 문장은 어느 것입니까?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (2.4.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (2.4.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (2.4.3)."
+            "지은 씨는 눈이 예쁩니다.",
+            "지은 씨를 눈을 예쁩니다.",
+            "지은 씨에 눈에 예쁩니다."
           ],
           "answerIndex": 0,
-          "explanation": "Affirms CEFR A1 target-language standard."
+          "explanation": "'[대주제]은/는 [소주어]이/가 [형용사]' 구조에 완벽히 부합하는 문장은 '지은 씨는 눈이 예쁩니다'입니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'코끼리는 코가 깁니다'(An elephant has a long trunk)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "코끼리는 코가 깁니다.",
+            "코끼리는 코가 깁니다"
+          ],
+          "explanation": "코끼리는(대주제) + 코가(소주어) + 깁니다(형용사 서술) = 코끼리는 코가 깁니다."
         }
       ]
     }
@@ -1239,56 +1311,65 @@
     "subject": "korean",
     "unit": 2,
     "lessonNumber": 5,
-    "title": "주제격(은/는)과 주격(이/가) 조사 (Topic & Subject Particles) (Part 5)",
+    "title": "존재사 있다/없다와 위치·소유 표현 (Existence & Possession: 있다/없다 & -에)",
     "level": "A1",
-    "objective": "Comprehensive mastery of 은/는과 이/가 조사의 차이 (Topic vs Subject Particles).",
+    "objective": "존재사 '있다(to exist/have)'와 '없다(to not exist/not have)'의 문형을 익히고, 위치 조사 '에'와 결합하여 사물과 사람의 존재 및 소유 관계를 표현한다.",
     "presentation": {
-      "explanation": "본 단원에서는 « 주제격(은/는)과 주격(이/가) 조사 (Topic & Subject Particles) » (제5절)의 핵심 언어 요소와 은/는과 이/가 조사의 차이 (Topic vs Subject Particles)에 대해 체계적으로 학습합니다. 한국어는 조사의 결합과 어미의 정밀한 활용을 통해 문법적 관계와 화자의 심리적 태도를 드러냅니다. 올바른 높임법 체계와 문맥에 부합하는 어휘 선택은 자연스럽고 품격 있는 의사소통의 기초가 됩니다.\n\n문법 분석 및 영어 해설 (Grammar Analysis & English Glosses):\n정확한 통사 구조와 실용 표현을 익혀 다양한 담화 상황에 능동적으로 대처할 수 있습니다.",
+      "explanation": "한국어의 '있다'와 '없다'는 형용사/존재사로서 사물이나 사람의 위치(Location/Existence)와 소유(Possession)를 나타내는 핵심 어휘입니다.\n\n1. 위치와 존재 문형: [장소]에 [대상]이/가 있습니다/없습니다\n- 사물이나 사람이 특정 장소에 존재함을 나타냅니다.\n- 받침 있는 명사 + 이 있습니다: 책상 위에 시계가 있습니다. / 가방 안에 책이 있습니다.\n- 부정형: 방에 텔레비전이 없습니다. (There is no TV in the room.)\n\n2. 소유 문형: [사람]은 [사물/대상]이/가 있습니다/없습니다\n- 한국어에서는 '가지다(to hold)' 대신 '있다/없다' 구조로 소유를 표현합니다.\n- 저는 한국 친구가 있습니다. (I have a Korean friend.)\n- 지갑에 현금이 없습니다. / 저는 차가 없습니다. (I don't have a car.)\n\n3. 사람에 대한 높임 존재사 '계시다':\n웃어른이나 선생님이 특정 장소에 계심을 나타낼 때는 '있다' 대신 높임 특수 어휘 '계시다'를 사용합니다.\n- 교실에 선생님이 계십니다. (O) (선생님이 있습니다보다 정중함)",
       "examples": [
         {
-          "target": "선생님께서 교실에서 학생들에게 핵심 문법 표현을 친절하고 상세하게 가르쳐 주십니다 (2.5.1).",
-          "reading": "Seonsaengnim-kkeseo gyosil-eseo haksaengdeul-ege haeksim munbeop pyohyeon-eul chinjeolhago sangsehage gareuchyeo jusimnida.",
-          "translation": "The teacher kindly and thoroughly teaches key grammatical expressions to students in the classroom."
+          "target": "교실에 컴퓨터가 있습니다.",
+          "reading": "Gyosil-e keompyuteo-ga isseumnida.",
+          "translation": "There is a computer in the classroom."
         },
         {
-          "target": "우리는 매일 아침 도서관에 가서 전공 서적을 읽으며 학문 연구에 성실하게 매진합니다 (2.5.2).",
-          "reading": "Uri-neun maeil achim doseogwan-e gaseo jeongong seojeog-eul ilgeomyeo hangmun yeongu-e seongsilhage maejinhamnida.",
-          "translation": "We go to the library every morning, reading major textbooks and dedicating ourselves to academic research."
+          "target": "지금 지갑에 돈이 없습니다.",
+          "reading": "Jigeum jigap-e don-i eopseumnida.",
+          "translation": "Right now, there is no money in my wallet."
         },
         {
-          "target": "서울 중심가에는 유서 깊은 전통 문화유적과 현대적인 초고층 건물들이 조화를 이룹니다 (2.5.3).",
-          "reading": "Seoul jungsimga-eneun yuseo gipeun jeontong munhwayujeog-gwa hyeondaejeogin chogocheung geonmuldeul-i johwa-reul irumnida.",
-          "translation": "Historic cultural heritages and modern skyscrapers harmonize in central Seoul."
+          "target": "저는 한국어 책이 있습니다.",
+          "reading": "Jeo-neun hangugeo chaek-i isseumnida.",
+          "translation": "I have a Korean textbook."
+        },
+        {
+          "target": "교무실에 선생님이 계십니다.",
+          "reading": "Gyomusil-e seonsaengnim-i gyesimnida.",
+          "translation": "The teacher is in the faculty office."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "위치 조사 '에'는 화살표가 꽂히는 핀(Pin)! [장소]에 [대상]이 있다/없다로 기억하세요."
+      ],
+      "culturalNotes": [
+        "한국어에서 위치를 나타낼 때는 '한국 서울 강남구'처럼 '큰 단위에서 작은 단위'로 내려가는 것이 원칙입니다. 가방 안의 필통, 필통 안의 연필 순서로 위치를 묘사합니다."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "« 은/는과 이/가 조사의 차이 (Topic vs Subject Particles) »의 기준에 부합하는 가장 자연스러운 한국어 문장은 무엇입니까 (문항 5)?",
+          "prompt": "'가방(bag) 안에 책(book - 받침 ㄱ 있음) _____ 있습니다.' 빈칸에 들어갈 알맞은 조사는 무엇입니까?",
           "options": [
-            "동생이 아침 일찍 일어나서 온 가족을 위해 맛있는 토스트와 신선한 주스를 만들었습니다 (2.5.1).",
-            "어제 오후에 중앙도서관에서 많은 대학생들이 조용히 전공 서적을 탐독하고 있었습니다 (2.5.2).",
-            "이 전통 식당은 신선한 제철 식재료로 정갈하게 차려낸 한정식 요리로 인기가 많습니다 (2.5.3)."
+            "이",
+            "가",
+            "은"
           ],
-          "answerIndex": 2,
-          "explanation": "Demonstrates correct morphological and syntactic command."
+          "answerIndex": 0,
+          "explanation": "'책'은 받침 'ㄱ'이 있으므로 존재 주격 조사 '이'가 결합하여 '책이 있습니다'가 됩니다."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "« 주제격(은/는)과 주격(이/가) 조사 (Topic & Subject Particles) »의 올바른 통사 구조와 문맥적 일치를 보여주는 문장을 고르십시오 (과제 5):",
+          "prompt": "'도서관에 학생이 많이 _____(There are many students in the library).' 빈칸에 들어갈 긍정 존재 서술어는 무엇입니까?",
           "options": [
-            "민수 씨는 퇴근 후에 동료들과 함께 시내 대형 서점에 들러 새로 출간된 베스트셀러 소설을 샀습니다 (2.5.1).",
-            "내일 아침 여덟 시 정각에 모든 연수 참가자가 역 광장 앞에 모여서 버스로 출발할 예정입니다 (2.5.2).",
-            "공원에 만개한 화사한 봄꽃들이 완연한 봄 날씨의 정취를 시민들에게 한껏 느끼게 해 줍니다 (2.5.3)."
+            "있습니다",
+            "없습니다",
+            "입니다"
           ],
           "answerIndex": 0,
-          "explanation": "Validates structural accuracy and independent mastery."
+          "explanation": "장소에 사람이 존재함을 나타내는 격식체 서술어는 '있습니다'입니다."
         }
       ]
     },
@@ -1296,14 +1377,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "« 은/는과 이/가 조사의 차이 (Topic vs Subject Particles) »의 문법적 쓰임새에 엄격히 부합하는 완성형 표현은 어느 것입니까 (평가 2-5)?",
+          "prompt": "'저는 자동차가 _____ (I do not have a car).' 소유의 부정을 나타내는 올바른 존재사는 무엇입니까?",
           "options": [
-            "연구팀이 새로운 인공지능 알고리즘 개발 및 성능 검증 결과를 국제 학술지에 성공적으로 게재했습니다 (2.5.1).",
-            "새로운 광역 지하철 노선이 조기 개통되어 도심으로의 출퇴근 이동이 한층 더 편리하고 신속해졌습니다 (2.5.2).",
-            "국제 학술 심포지엄에 참가한 세계 각국의 연구원들이 최신 기술 동향에 대해 열띤 토론을 진행했습니다 (2.5.3)."
+            "없습니다",
+            "아닙니다",
+            "있습니다"
           ],
-          "answerIndex": 1,
-          "explanation": "Affirms CEFR A1 target-language standard."
+          "answerIndex": 0,
+          "explanation": "물건의 소유가 없음을 나타낼 때는 '없습니다'를 씁니다. '아닙니다'는 신분/동일성을 부인할 때 씁니다."
+        },
+        {
+          "type": "typed-recall",
+          "prompt": "'교실에 컴퓨터가 있습니다'(There is a computer in the classroom)를 한글로 정확히 입력하십시오.",
+          "acceptedAnswers": [
+            "교실에 컴퓨터가 있습니다.",
+            "교실에 컴퓨터가 있습니다"
+          ],
+          "explanation": "교실에(장소) + 컴퓨터가(대상) + 있습니다(존재사) = 교실에 컴퓨터가 있습니다."
         }
       ]
     }
