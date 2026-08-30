@@ -1385,85 +1385,62 @@
     "subject": "amharic",
     "unit": 3,
     "lessonNumber": 1,
-    "title": "የግል ተውላጠ ስሞች እና መስተዋድድ (Personal Pronouns & Prepositions) (ክፍል 1)",
+    "title": "የግል ተውላጠ ስሞች እና ማሰሪያ አንቀጾች (Personal Pronouns & Copula Alignment)",
     "level": "A1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የግል እና የአመልካች ተውላጠ ስሞች፣ እና መሠረታዊ መስተዋድዶች (በ-፣ ከ-፣ ወደ-፣ ለ-)። (ክፍል 1)።",
+    "objective": "የአማርኛ የግል ተውላጠ ስሞችን (እኔ፣ አንተ፣ አንቺ፣ እርስዎ፣ እሱ፣ እሷ፣ እኛ፣ እናንተ፣ እነሱ፣ እሳቸው) እና ተዛማጅ ማሰሪያ አንቀጾችን (ነኝ፣ ነህ፣ ነሽ፣ ኖት/ነዎት፣ ነው፣ ናት፣ ነን፣ ናችሁ፣ ናቸው) ማወቅ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የግል ተውላጠ ስሞች እና ማሰሪያ አንቀጾች:\n\nበአማርኛ ቋንቋ የግል ተውላጠ ስሞች ከማሰሪያ አንቀጾቻቸው ጋር የሚከተለውን ጥምረት ይፈጥራሉ:\n\n፩. ነጠላ ቁጥር:\n- «እኔ»: ነኝ (እኔ ተማሪ ነኝ)\n- «አንተ»: ነህ (አንተ ዶክተር ነህ)\n- «አንቺ»: ነሽ (አንቺ መምህርት ነሽ)\n- «እርስዎ» ወይም «እርሶ»: ነዎት / ኖት (እርስዎ አስተማሪ ኖት)\n- «እሱ»: ነው (እሱ ኢንጂነር ነው)\n- «እሷ»: ናት / ነች (እሷ ነርስ ናት)\n\n፪. ብዙ ቁጥር:\n- «እኛ»: ነን (እኛ ጓደኛሞች ነን)\n- «እናንተ»: ናችሁ (እናንተ ጎበዞች ናችሁ)\n- «እነሱ»: ናቸው (እነሱ አትሌቶች ናቸው)\n- «እሳቸው»: ናቸው (እሳቸው የዩኒቨርሲቲ ፕሮፌሰር ናቸው)።\n\n፫. መጠይቃዊ እና አሉታዊ ቅርጾች:\n- «አንተ ማን ነህ?»: ስምን ወይም ማንነትን ለመጠየቅ።\n- «አይደለሁም» / «አይደለህም»።",
       "examples": [
         {
-          "target": "መምህሩ የ«የግል ተውላጠ ስሞች እና መስተዋድድ (Personal Pronouns & Prepositions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (3.1.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የግል ተውላጠ ስሞች እና መስተዋድድ (Personal Pronouns & Prepositions)' to the students."
+          "target": "እኔ ኢትዮጵያዊ ነኝ፣ እሱ ደግሞ ጓደኛዬ ነው።",
+          "reading": "Əne ityop’yawi näny, əssu dägmo gwaddänyaye näw. [ɨˈne itjoˈpʼjawɨ nɛɲ ɨsːu dɛɡˈmo ɡwadːɨɲaˈje nɛw] (uh-NAY eet-yohp'-yah-WEE neh-ny, uhs-SOO deg-MOH gwahd-duh-nyah-YAY neh)",
+          "translation": "I am Ethiopian, and he is my friend."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (3.1.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "እኛ በአዲስ አበባ ዩኒቨርሲቲ ተማሪዎች ነን።",
+          "reading": "Əngya bə-Addis Abäba yunivärsiti tämariwočč nän. [ɨɲa bɨ-adˈdis abɨˈba junivɛrˈsiti tɛmariˈwotʃː nɛn] (un-NYAH buh-ahd-DEES ah-buh-BAH yoo-nee-ver-SEE-tee teh-mah-ree-WOHCH nen)",
+          "translation": "We are students at Addis Ababa University."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (3.1.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (3.1.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "እርስዎ በጣም የተከበሩ እና ታታሪ አስተማሪ ኖት።",
+          "reading": "Ərsəwo bətam yätäkäbbäru ənna tatari astämari not. [ɨrˈsɨwo bɨˈtʼam jɛtɨkɛbːɛˈru ɨnːa tataˈri astɨmaˈri not] (ur-suh-WOH buh-TAHM yeh-tuh-kub-buh-ROO un-nah tah-tah-REE ahs-tuh-mah-REE noht)",
+          "translation": "You [polite] are a highly respected and hardworking teacher."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Pronoun Pairs: እኔ->ነኝ, አንተ->ነህ, አንቺ->ነሽ, እሱ->ነው, እሷ->ናት, እኛ->ነን, እናንተ->ናችሁ, እነሱ->ናቸው!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ባህል አዋቂዎችን ወይም እንግዶችን 'እርስዎ' ብሎ በአክብሮት መጥራት ትልቅ የጨዋነት መገለጫ ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የግል ተውላጠ ስሞች እና መስተዋድድ (Personal Pronouns & Prepositions)» (ክፍል 1) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«እኛ» (We) ከሚለው የግል ተውላጠ ስም ጋር የሚሄደው ትክክለኛው ማሰሪያ አንቀጽ የትኛው ነው?",
           "options": [
-            "መምህሩ የ«የግል ተውላጠ ስሞች እና መስተዋድድ (Personal Pronouns & Prepositions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (3.1.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (3.1.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (3.1.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (3.1.w3)"
+            "እኛ ጎበዝ ሠራተኞች ነን። (We are diligent workers - Correct first-person plural agreement)",
+            "እኛ ጎበዝ ሠራተኞች ነኝ።",
+            "እኛ ጎበዝ ሠራተኞች ናችሁ።",
+            "እኛ ጎበዝ ሠራተኞች ነህ።"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«እኛ» ከሚለው ባለቤት ጋር የሚሄደው ማሰሪያ አንቀጽ «ነን» ነው።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u3-l1) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "ለአንዲት ሴት 'አንቺ ጎበዝ ዶክተር...' ለማለት ዓረፍተ ነገሩን የሚያጠናቅቀው ትክክለኛው ቃል የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (3.1.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (3.1.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (3.1.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (3.1.x3)"
+            "ነሽ (You are [f] - Correct feminine singular copula)",
+            "ነህ",
+            "ነኝ",
+            "ናቸው"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የግል ተውላጠ ስሞች እና መስተዋድድ (Personal Pronouns & Prepositions)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (3.1.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (3.1.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (3.1.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (3.1.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ለአንቺ የሚስማማው ማሰሪያ አንቀጽ «ነሽ» ነው።"
         }
       ]
     },
@@ -1471,24 +1448,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 3-1):",
+          "prompt": "የአማርኛ የግል ተውላጠ ስሞችና የማሰሪያ አንቀጾች ጥምረት በትክክል የቀረበው በየትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (3.1.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (3.1.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (3.1.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (3.1.z3)"
+            "እኔ ነኝ፣ አንተ ነህ፣ አንቺ ነሽ፣ እሱ ነው፣ እሷ ናት፣ እኛ ነን።",
+            "እኔ ነህ፣ አንተ ነኝ፣ እሷ ነው፣ እሱ ናት።",
+            "እኛ ናችሁ፣ እናንተ ነን፣ እነሱ ነኝ።",
+            "እርስዎ ነህ፣ እሱ ነሽ።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ሙሉውን የተውላጠ ስም እና የማሰሪያ አንቀጽ ስምምነት በትክክል ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u3-l1) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የግል»):",
+          "prompt": "'እኛ / We' የሚለውን የግል ተውላጠ ስም በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የግል",
-            "የግል"
+            "እኛ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የግል» ነው።"
+          "explanation": "ትክክለኛው ቃል «እኛ» (Əngya) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -1499,85 +1475,62 @@
     "subject": "amharic",
     "unit": 3,
     "lessonNumber": 2,
-    "title": "የግል ተውላጠ ስሞች እና መስተዋድድ (Personal Pronouns & Prepositions) (ክፍል 2)",
+    "title": "የባለቤትነት / የይዞታ ቅጥያዎች (Possessive Suffixes -ዬ/-ህ/-ሽ/-ው/-ዋ/-አችን/-አችሁ/-አቸው)",
     "level": "A1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የግል እና የአመልካች ተውላጠ ስሞች፣ እና መሠረታዊ መስተዋድዶች (በ-፣ ከ-፣ ወደ-፣ ለ-)። (ክፍል 2)።",
+    "objective": "የይዞታ/የባለቤትነት ቅጥያዎችን ከስሞች ጋር በማጣመር (ቤቴ፣ ቤትህ፣ ቤትሽ፣ ቤቱ፣ ቤቷ፣ ቤታችን፣ ቤታችሁ፣ ቤታቸው) መጠቀም።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የይዞታ እና የባለቤትነት ቅጥያዎች:\n\nበአማርኛ ቋንቋ 'የኔ'፣ 'ያንተ'፣ 'የሷ' ወዘተ የሚሉትን የይዞታ ቃላት በስሙ መጨረሻ ላይ በሚጨመሩ ቅጥያዎች መግለጽ ይቻላል:\n\n፩. ነጠላ ቁጥር:\n- «-ኤ» ወይም «-ዬ»: መጽሐፌ፣ ውሻዬ\n- «-ህ»: መጽሐፍህ፣ ውሻህ\n- «-ሽ»: መጽሐፍሽ፣ ውሻሽ\n- «-ዎ»: መጽሐፍዎ፣ ውሻዎ\n- «-ኡ» ወይም «-ው»: መጽሐፉ፣ ውሻው\n- «-ዋ»: መጽሐፏ፣ ውሻዋ\n\n፪. ብዙ ቁጥር:\n- «-አችን»: መጽሐፋችን፣ ቤታችን\n- «-አችሁ»: መጽሐፋችሁ፣ ቤታችሁ\n- «-አቸው»: መጽሐፋቸው፣ ቤታቸው።\n\n፫. የባለቤትነት ሐረጎች:\n- የኔ መጽሐፍ = መጽሐፌ\n- ያንተ ቤት = ቤትህ\n- የሷ ደብተር = ደብተሯ።",
       "examples": [
         {
-          "target": "መምህሩ የ«የግል ተውላጠ ስሞች እና መስተዋድድ (Personal Pronouns & Prepositions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (3.2.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የግል ተውላጠ ስሞች እና መስተዋድድ (Personal Pronouns & Prepositions)' to the students."
+          "target": "ይህ የእኔ አዲስ መጽሐፍ ነው፤ መጽሐፌ በጣም ጠቃሚ ነው።",
+          "reading": "Yəh yäne addis mäs’haf näw; mäs’hafe bətam t’äqami näw. [jɨh jɛne adˈdis mɨsˤˈhaf nɛw mɨsˤhaˈfe bɨˈtʼam tʼɛkʼaˈmi nɛw] (yuh yeh-NAY ahd-DEES mus'-HAHF neh; mus'-hah-FAY buh-TAHM t'eh-k'ah-MEE neh)",
+          "translation": "This is my new book; my book is very useful."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (3.2.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ቤትህ የት ነው? ቤታችን በአዲስ አበባ ውስጥ ይገኛል።",
+          "reading": "Betəh yät näw? Betaččən bə-Addis Abäba wəst’ yəggänyall. [beˈtɨh jɛt nɛw beˈtatʃːɨn bɨ-adˈdis abɨˈba wɨstʼ jɨɡːɛˈɲalː] (bay-TUH yet neh? bay-tahch-CHUN buh-ahd-DEES ah-buh-BAH woos-T' yuhg-geh-NYAHL)",
+          "translation": "Where is your house [to male]? Our house is located in Addis Ababa."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (3.2.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (3.2.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "እህትሽ እና እናትሽ በሰላም ደረሱ?",
+          "reading": "Əhətəš ənna ənnatəš bäsälam därräsu? [ɨhɨˈtɨʃ ɨnːa ɨnːaˈtɨʃ bɛsɛˈlam dɛrːɛˈsu] (uh-huh-TOOSH un-nah un-nah-TOOSH buh-seh-LAHM der-reh-SOO?)",
+          "translation": "Did your sister and your mother arrive safely [to female]?"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Possessives: -ዬ (my), -ህ (your [m]), -ሽ (your [f]), -ው (his), -ዋ (her), -አችን (our), -አችሁ (your pl), -አቸው (their)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ባህል ሰውን በስሙ ከመጥራት ይልቅ 'ወንድሜ' (my brother) ወይም 'እህቴ' (my sister) ብሎ በይዞታ ቅጥያ ማናገር ትልቅ ወዳጅነትን ያሳያል።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የግል ተውላጠ ስሞች እና መስተዋድድ (Personal Pronouns & Prepositions)» (ክፍል 2) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«ቤት» (House) የሚለውን ቃል 'Our house' ለማለት ትክክለኛው የይዞታ ቅጥያ የትኛው ነው?",
           "options": [
-            "መምህሩ የ«የግል ተውላጠ ስሞች እና መስተዋድድ (Personal Pronouns & Prepositions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (3.2.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (3.2.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (3.2.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (3.2.w3)"
+            "ቤታችን (Our house - Correct first-person plural possessive suffix)",
+            "ቤቴ",
+            "ቤትህ",
+            "ቤታቸው"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "ለ'የኛ ቤት' የሚሆነው የይዞታ ቅጥያ «-አችን» ተጨምሮ «ቤታችን» ይሆናል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u3-l2) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "ለአንድ ወንድ 'Your book' ለማለት ትክክለኛው ቃል የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (3.2.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (3.2.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (3.2.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (3.2.x3)"
+            "መጽሐፍህ (Your book [to male] - Correct masculine possessive suffix -h)",
+            "መጽሐፍሽ",
+            "መጽሐፌ",
+            "መጽሐፋቸው"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የግል ተውላጠ ስሞች እና መስተዋድድ (Personal Pronouns & Prepositions)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (3.2.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (3.2.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (3.2.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (3.2.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ለወንድ 'ያንተ መጽሐፍ' ለማለት «መጽሐፍህ» ይባላል።"
         }
       ]
     },
@@ -1585,24 +1538,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 3-2):",
+          "prompt": "የይዞታ ቅጥያዎችን ትክክለኛ አጠቃቀም ያሳየው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (3.2.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (3.2.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (3.2.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (3.2.z3)"
+            "-ኤ/ዬ (የኔ)፣ -ህ (ያንተ)፣ -ሽ (ያንቺ)፣ -አችን (የኛ)፣ -አቸው (የነሱ) ናቸው።",
+            "-ህ የሴት ይዞታ ማሳያ ነው።",
+            "-ሽ የወንድ ይዞታ ማሳያ ነው።",
+            "በአማርኛ የይዞታ ቅጥያዎች የሉም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የይዞታ ቅጥያዎች ስርዓት ያሳያል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u3-l2) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የግል»):",
+          "prompt": "'ቤታችን / Our house' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የግል",
-            "የግል"
+            "ቤታችን"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የግል» ነው።"
+          "explanation": "ትክክለኛው ቃል «ቤታችን» (Betaččən) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -1613,85 +1565,62 @@
     "subject": "amharic",
     "unit": 3,
     "lessonNumber": 3,
-    "title": "የግል ተውላጠ ስሞች እና መስተዋድድ (Personal Pronouns & Prepositions) (ክፍል 3)",
+    "title": "መሰረታዊ ቅድመ-መስተዋድዶች (Basic Simple Prepositions: በ-, ከ-, ወደ-, ለ-)",
     "level": "A1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የግል እና የአመልካች ተውላጠ ስሞች፣ እና መሠረታዊ መስተዋድዶች (በ-፣ ከ-፣ ወደ-፣ ለ-)። (ክፍል 3)።",
+    "objective": "መሠረታዊ የአማርኛ ቅድመ-መስተዋድዶችን (በ- [in/with/by]፣ ከ- [from/than]፣ ወደ- [to/towards]፣ ለ- [for/to]) ማወቅ እና በዓረፍተ ነገር ውስጥ መተግበር።",
     "presentation": {
-      "explanation": "",
+      "explanation": "መሰረታዊ ቅድመ-መስተዋድዶች:\n\nበአማርኛ ቋንቋ ቅድመ-መስተዋድዶች ከስሙ ፊት ለፊት ተጣብቀው ይጻፋሉ:\n\n፩. «በ-»:\n- ቦታን ያሳያል: በቤት፣ በአዲስ አበባ\n- መሳሪያን ያሳያል: በመኪና፣ በእስክሪብቶ\n- ጊዜን ያሳያል: በጠዋት፣ በማታ።\n\n፪. «ከ-»:\n- መነሻ ቦታን ያሳያል: ከቤት፣ ከትምህርት ቤት\n- ማወዳደሪያን ያሳያል: ከኔ ይበልጣል።\n\n፫. «ወደ-»:\n- አቅጣጫን ያሳያል: ወደ ትምህርት ቤት፣ ወደ ገበያ፣ ወደ ከተማ።\n\n፬. «ለ-»:\n- ተጠቃሚን ያሳያል: ለእናት፣ ለተማሪዎች፣ ለምሳ።",
       "examples": [
         {
-          "target": "መምህሩ የ«የግል ተውላጠ ስሞች እና መስተዋድድ (Personal Pronouns & Prepositions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (3.3.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የግል ተውላጠ ስሞች እና መስተዋድድ (Personal Pronouns & Prepositions)' to the students."
+          "target": "ተማሪው በጠዋት ከመኖሪያ ቤቱ ተነስቶ ወደ ትምህርት ቤት ሄደ።",
+          "reading": "Tämariw bät’äwat kämänoriya betu tänəsto wädä təməhərt bet hedä. [tɛmaˈriw bɨtʼɨˈwat kɛmɨnoriˈja beˈtu tɨnɨsˈto wɛdɛ tɨmˈhɨrt bet heˈdɛ] (teh-mah-REE-oo buh-t'uh-WAHT keh-muh-noh-ree-YAH bay-TOO tuh-nus-TOH weh-DEH tum-HURT bayt hay-DEH)",
+          "translation": "The student woke up in the morning from his house and went to school."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (3.3.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "እኔ ለእናቴ ቆንጆ ስጦታ ገዛሁላት።",
+          "reading": "Əne lä'ənnate qonjo sət’ota gäzahullat. [ɨˈne lɨ-ɨnːaˈte kʼonˈdʒo sɨtʼoˈta ɡɨzaˈhulːat] (uh-NAY luh-un-nah-TAY k'ohn-JOH suh-t'oh-TAH geh-zah-hool-LAHT)",
+          "translation": "I bought a beautiful gift for my mother."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (3.3.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (3.3.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "እኛ በመኪና ከጎንደር ወደ ባሕር ዳር እንጓዛለን።",
+          "reading": "Əngya bämäkina kä-Gondär wädä Bahər Dar ənnəgwazzallän. [ɨɲa bɨmɛkiˈna kɛ-ɡonˈdɛr wɛdɛ baˈhɨr dar ɨnːɨɡwazːalːɛn] (un-NYAH buh-meh-kee-NAH keh-GOHN-der weh-DEH BAH-hur DAHR un-nug-wahz-zuhl-LEN)",
+          "translation": "We travel by car from Gondar to Bahir Dar."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Preposition Prefixes: በ- (in/by), ከ- (from), ወደ- (to), ለ- (for) attach directly to nouns!"
+      ],
+      "culturalNotes": [
+        "የኢትዮጵያ ታሪካዊ ከተሞች (ጎንደር፣ ላሊበላ፣ ባሕር ዳር፣ አክሱም) የጉዞ እና የባህል ማዕከላት ናቸው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የግል ተውላጠ ስሞች እና መስተዋድድ (Personal Pronouns & Prepositions)» (ክፍል 3) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«ወደ ትምህርት ቤት ሄደ» በሚለው ሐረግ ውስጥ «ወደ-» የሚያሳየው ምንን ነው?",
           "options": [
-            "መምህሩ የ«የግል ተውላጠ ስሞች እና መስተዋድድ (Personal Pronouns & Prepositions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (3.3.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (3.3.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (3.3.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (3.3.w3)"
+            "አቅጣጫን ወይም መዳረሻን (Direction / Destination - Correct role of ወደ-)",
+            "መነሻ ቦታን",
+            "መሳሪያን",
+            "ባለቤትነትን"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ወደ-» የሚለው መስተዋድድ አቅጣጫንና መዳረሻን ያሳያል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u3-l3) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'I am going from Addis Ababa to Hawassa' የሚለውን ሐሳብ በትክክል የሚገልጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (3.3.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (3.3.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (3.3.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (3.3.x3)"
+            "ከአዲስ አበባ ወደ ሐዋሳ እሄዳለሁ። (From Addis Ababa to Hawassa I will go - Correct prepositions)",
+            "በአዲስ አበባ ለአዋሳ እሄዳለሁ።",
+            "ለአዲስ አበባ ከሐዋሳ እሄዳለሁ።",
+            "ወደ አዲስ አበባ በሐዋሳ እሄዳለሁ።"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የግል ተውላጠ ስሞች እና መስተዋድድ (Personal Pronouns & Prepositions)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (3.3.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (3.3.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (3.3.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (3.3.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "መነሻ «ከ-»፣ መዳረሻ «ወደ-» በትክክል ተጣምረዋል።"
         }
       ]
     },
@@ -1699,24 +1628,24 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 3-3):",
+          "prompt": "የአማርኛ መሠረታዊ መስተዋድዶች (በ-፣ ከ-፣ ወደ-፣ ለ-) ትክክለኛ ተግባር የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (3.3.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (3.3.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (3.3.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (3.3.z3)"
+            "«በ-» (ውስጥ/በመሳሪያ)፣ «ከ-» (መነሻ)፣ «ወደ-» (አቅጣጫ)፣ «ለ-» (ተጠቃሚ/ምክንያት) ያሳያሉ።",
+            "«ወደ-» መነሻ ቦታን ብቻ ያሳያል።",
+            "«ለ-» አቅጣጫን ብቻ ያሳያል።",
+            "መስተዋድዶች ከስም ጋር አይጣበቁም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "መስተዋድዶች የስሞችን የቦታ፣ አቅጣጫና መሳሪያዊ ግንኙነት ይገልጻሉ።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u3-l3) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የግል»):",
+          "prompt": "'ወደ / Towards, To' የሚለውን መስተዋድድ በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የግል",
-            "የግል"
+            "ወደ",
+            "ወደ-"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የግል» ነው።"
+          "explanation": "ትክክለኛው መስተዋድድ «ወደ» (Wädä) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -1727,85 +1656,62 @@
     "subject": "amharic",
     "unit": 3,
     "lessonNumber": 4,
-    "title": "የግል ተውላጠ ስሞች እና መስተዋድድ (Personal Pronouns & Prepositions) (ክፍል 4)",
+    "title": "ድርብ መስተዋድዶች (Compound Prepositions: በ...ውስጥ, በ...ላይ, ከ...በታች, ከ...ጋር)",
     "level": "A1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የግል እና የአመልካች ተውላጠ ስሞች፣ እና መሠረታዊ መስተዋድዶች (በ-፣ ከ-፣ ወደ-፣ ለ-)። (ክፍል 4)።",
+    "objective": "ድርብ ወይም ከበባዊ መስተዋድዶችን (በ...ውስጥ፣ በ...ላይ፣ ከ...በታች፣ ከ...ጋር፣ ከ...በፊት፣ ከ...በኋላ) በትክክል መጠቀም።",
     "presentation": {
-      "explanation": "",
+      "explanation": "ድርብ እና ከበባዊ መስተዋድዶች:\n\nበአማርኛ ቋንቋ ቅድመ-መስተዋድድ እና ድኅረ-መስተዋድድ በአንድ ላይ በመጣመር ድርብ መስተዋድድ ይፈጥራሉ:\n\n፩. «በ...ውስጥ»:\n- በክፍሉ ውስጥ (Inside the room)\n- በሳጥኑ ውስጥ (Inside the box)\n- በልቤ ውስጥ (In my heart)።\n\n፪. «በ...ላይ»:\n- በጠረጴዛው ላይ (On the table)\n- በወንበሩ ላይ (On the chair)\n- በምድር ላይ (On earth)።\n\n፫. «ከ...በታች»:\n- ከዛፉ በታች (Under the tree)\n- ከአልጋው በታች (Under the bed)።\n\n፬. «ከ...ጋር»:\n- ከጓደኛዬ ጋር (With my friend)\n- ከአባቴ ጋር (With my father)።\n\n፭. የጊዜ ድርብ መስተዋድዶች:\n- «ከ...በፊት» (Before): ከምሳ በፊት\n- «ከ...በኋላ» (After): ከትምህርት በኋላ።",
       "examples": [
         {
-          "target": "መምህሩ የ«የግል ተውላጠ ስሞች እና መስተዋድድ (Personal Pronouns & Prepositions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (3.4.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የግል ተውላጠ ስሞች እና መስተዋድድ (Personal Pronouns & Prepositions)' to the students."
+          "target": "መጽሐፉ በጠረጴዛው ላይ ነው፣ ደብተሬ ደግሞ በቦርሳው ውስጥ አለ።",
+          "reading": "Mäs’hafu bät’äräp’p’ezaw lay näw, däbtäre dägmo bäborsaw wəst’ allä. [mɨsˤˈhafu bɨtʼɛrɛpʼeˈzaw laj nɛw dɛbtɨˈre dɛɡˈmo bɨborˈsaw wɨstʼ alːɛ] (mus'-HAH-foo buh-t'eh-rep'-pay-ZAH-oo lie neh, deb-tuh-RAY deg-MOH buh-bohr-SAH-oo woos-T' ahl-LEH)",
+          "translation": "The book is on the table, and my notebook is inside the bag."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (3.4.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ድመቷ ከወንበሩ በታች ተኝታለች።",
+          "reading": "Dəmätwa käwänbäru bətačč tänytalläčč. [dɨmɛtˈwa kɛwɨnbɛˈru bɨˈtatʃː tɨɲɨtalːɛtʃː] (duh-met-WAH keh-wun-beh-ROO buh-TAHCH-ch tuh-nyuh-tahl-LECH)",
+          "translation": "The cat is sleeping under the chair."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (3.4.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (3.4.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "እኔ ከጓደኞቼ ጋር ከትምህርት በኋላ እግር ኳስ እጫወታለሁ።",
+          "reading": "Əne kägwaddänyočče gar kätəməhərt bähwala əgər kwas əč’awwätallähu. [ɨˈne kɛɡwadːɨɲoˈtʃːe ɡar kɛtɨmˈhɨrt bɛhʷaˈla ɨˈɡɨr kʷas ɨtʃʼawːɨˈtalːɨhu] (uh-NAY keh-gwahd-duh-nyohch-CHAY gahr keh-tum-HURT beh-HWAH-lah uh-GUR kwas uh-ch'ow-wuh-TAHL-luh-hoo)",
+          "translation": "I play football with my friends after school."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Compound pairs: በ...ላይ (on), በ...ውስጥ (inside), ከ...በታች (under), ከ...ጋር (with), ከ...በኋላ (after)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ማህበረሰብ 'ከሰው ጋር በፍቅር መኖር' እና 'ከማዕድ በፊት እጅ መታጠብ' ባህላዊና ሃይማኖታዊ ስርዓቶች ናቸው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የግል ተውላጠ ስሞች እና መስተዋድድ (Personal Pronouns & Prepositions)» (ክፍል 4) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«መጽሐፉ በጠረጴዛው ላይ ነው» በሚለው ዓረፍተ ነገር ውስጥ «በ...ላይ» ምንን ያመለክታል?",
           "options": [
-            "መምህሩ የ«የግል ተውላጠ ስሞች እና መስተዋድድ (Personal Pronouns & Prepositions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (3.4.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (3.4.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (3.4.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (3.4.w3)"
+            "በአንድ ነገር የላይኛው ክፍል ላይ መገኘትን (On top of / Surface location - Correct use of በ...ላይ)",
+            "በአንድ ነገር ውስጥ መሆንን",
+            "ከአንድ ነገር በታች መደበቅን",
+            "የጊዜ ቅደም ተከተልን"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«በ...ላይ» የአንድን ነገር የላይኛውን ገጽታ ወይም መገኛ ያሳያል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u3-l4) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'I am sitting with my friend' የሚለውን ሐሳብ የሚያስተላልፈው ትክክለኛው አረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (3.4.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (3.4.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (3.4.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (3.4.x3)"
+            "እኔ ከጓደኛዬ ጋር ተቀምጫለሁ። (I am seated with my friend - Correct compound preposition ከ...ጋር)",
+            "እኔ በጓደኛዬ ውስጥ ተቀምጫለሁ።",
+            "እኔ ወደ ጓደኛዬ በታች ተቀምጫለሁ።",
+            "እኔ ለጓደኛዬ ላይ ተቀምጫለሁ።"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የግል ተውላጠ ስሞች እና መስተዋድድ (Personal Pronouns & Prepositions)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (3.4.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (3.4.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (3.4.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (3.4.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "አብሮነትን ለመግለጽ «ከ...ጋር» ጥቅም ላይ ይውላል።"
         }
       ]
     },
@@ -1813,24 +1719,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 3-4):",
+          "prompt": "ድርብ መስተዋድዶችን (በ...ውስጥ፣ በ...ላይ፣ ከ...በታች፣ ከ...ጋር) በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (3.4.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (3.4.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (3.4.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (3.4.z3)"
+            "በክፍሉ ውስጥ (inside), በጠረጴዛው ላይ (on), ከወንበሩ በታች (under), ከጓደኛ ጋር (with)።",
+            "በክፍሉ ጋር (with room), ከጠረጴዛው ውስጥ (inside table)።",
+            "ወደ ወንበሩ ላይ (to chair), ለክፍሉ በታች (for room)።",
+            "በአማርኛ ድርብ መስተዋድዶች አይፈቀዱም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ትክክለኛዎቹን ድርብ መስተዋድዶች በጥምረት ያሳያል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u3-l4) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የግል»):",
+          "prompt": "'ውስጥ / Inside' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የግል",
-            "የግል"
+            "ውስጥ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የግል» ነው።"
+          "explanation": "ትክክለኛው ቃል «ውስጥ» (Wəst’) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -1841,85 +1746,62 @@
     "subject": "amharic",
     "unit": 3,
     "lessonNumber": 5,
-    "title": "የግል ተውላጠ ስሞች እና መስተዋድድ (Personal Pronouns & Prepositions) (ክፍል 5)",
+    "title": "የክፍል 3 አጠቃላይ ማጠቃለያ (Unit 3 Grand Synthesis & Integrated Syntax)",
     "level": "A1",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የግል እና የአመልካች ተውላጠ ስሞች፣ እና መሠረታዊ መስተዋድዶች (በ-፣ ከ-፣ ወደ-፣ ለ-)። (ክፍል 5)።",
+    "objective": "የግል ተውላጠ ስሞችን፣ የይዞታ ቅጥያዎችን እና ቀላልና ድርብ መስተዋድዶችን በማጣመር የተሟሉ የአማርኛ ዓረፍተ ነገሮችን ማዋቀር።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የክፍል ፫ አጠቃላይ ሰዋሰዋዊ ውህደትና ማጠቃለያ:\n\n፩. የግል ተውላጠ ስሞች እና ማሰሪያ አንቀጾች:\n- እኔ ነኝ፣ አንተ ነህ፣ አንቺ ነሽ፣ እርስዎ ኖት/ነዎት፣ እሱ ነው፣ እሷ ናት/ነች፣ እኛ ነን፣ እናንተ ናችሁ፣ እነሱ ናቸው፣ እሳቸው ናቸው።\n\n፪. የይዞታ ቅጥያዎች:\n- ቤቴ (የኔ), ቤትህ (ያንተ), ቤትሽ (ያንቺ), ቤትዎ (የእርስዎ), ቤቱ (የሱ), ቤቷ (የሷ), ቤታችን (የኛ), ቤታችሁ (የናንተ), ቤታቸው (የነሱ)።\n\n፫. ቀላል መስተዋድዶች:\n- «በ-» (ቦታ/መሳሪያ/ጊዜ), «ከ-» (መነሻ/ንፅፅር), «ወደ-» (አቅጣጫ), «ለ-» (ተጠቃሚ/ምክንያት)።\n\n፬. ድርብ መስተዋድዶች:\n- በ...ውስጥ (በቤቱ ውስጥ), በ...ላይ (በጠረጴዛው ላይ), ከ...በታች (ከወንበሩ በታች), ከ...ጋር (ከጓደኛዬ ጋር), ከ...በፊት (ከምሳ በፊት), ከ...በኋላ (ከትምህርት በኋላ)።",
       "examples": [
         {
-          "target": "መምህሩ የ«የግል ተውላጠ ስሞች እና መስተዋድድ (Personal Pronouns & Prepositions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (3.5.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የግል ተውላጠ ስሞች እና መስተዋድድ (Personal Pronouns & Prepositions)' to the students."
+          "target": "እኛ ከቤታችን ወጥተን ከጓደኞቻችን ጋር ወደ ትምህርት ቤት እንሄዳለን።",
+          "reading": "Əngya käbetaččən wət’t’än kägwaddänyočaččən gar wädä təməhərt bet ənnəhedallän. [ɨɲa kɛbeˈtatʃːɨn wɨtʼːɛn kɛɡwadːɨɲoˈtʃatʃːɨn ɡar wɛdɛ tɨmˈhɨrt bet ɨnːɨheˈdalːɛn] (un-NYAH keh-bay-tahch-CHUN wut'-TEN keh-gwahd-duh-nyoh-chahch-CHUN gahr weh-DEH tum-HURT bayt un-nuh-hay-DAHL-len)",
+          "translation": "We leave our house and go to school together with our friends."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (3.5.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "የእኔ መጽሐፍ በጠረጴዛው ላይ ነው፤ ያንተ ደብተር ደግሞ በቦርሳህ ውስጥ አለ።",
+          "reading": "Yäne mäs’haf bät’äräp’p’ezaw lay näw; yantä däbtär dägmo bäborsah wəst’ allä. [jɛne mɨsˤˈhaf bɨtʼɛrɛpʼeˈzaw laj nɛw janˈtɛ dɛbˈtɛr dɛɡˈmo bɨborˈsah wɨstʼ alːɛ] (yeh-NAY mus'-HAHF buh-t'eh-rep'-pay-ZAH-oo lie neh; yahn-TEH deb-TUR deg-MOH buh-bohr-SAH-h woos-T' ahl-LEH)",
+          "translation": "My book is on the table; and your notebook is inside your bag [to male]."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (3.5.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (3.5.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "እሷ ከእናቷ ጋር በአዲስ አበባ ከተማ ውስጥ ትኖራለች።",
+          "reading": "Əsswa kä'ənnatwa gar bə-Addis Abäba kätäma wəst’ tənoralläčč. [ɨsːwa kɛ-ɨnːaˈtwa ɡar bɨ-adˈdis abɨˈba kɛtɛˈma wɨstʼ tɨnoˈralːɛtʃː] (uhs-SWAH keh-un-naht-WAH gahr buh-ahd-DEES ah-buh-BAH keh-teh-MAH woos-T' tuh-noh-RAHL-lech)",
+          "translation": "She lives inside Addis Ababa city together with her mother."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Unit 3 Grand Formula: Pronoun (እኔ/እኛ) + Noun with Possessive (ቤታችን) + Preposition (በ...ውስጥ/ከ...ጋር) + Verb/Copula (ነን/እንሄዳለን)!"
+      ],
+      "culturalNotes": [
+        "የአማርኛ ቋንቋ ሰዋሰዋዊ ውበት የሚገለጸው ቅጥያዎችን እና መስተዋድዶችን አቀናጅቶ አጫጭር ግን ጥልቅ መልእክት ባላቸው ዓረፍተ ነገሮች መግለጽ በመቻሉ ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የግል ተውላጠ ስሞች እና መስተዋድድ (Personal Pronouns & Prepositions)» (ክፍል 5) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«እኛ ከቤታችን ወጥተን ወደ ትምህርት ቤት እንሄዳለን» በሚለው አረፍተ ነገር ውስጥ «ከ-» እና «ወደ-» የሚያሳዩት ምንድን ነው?",
           "options": [
-            "መምህሩ የ«የግል ተውላጠ ስሞች እና መስተዋድድ (Personal Pronouns & Prepositions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (3.5.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (3.5.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (3.5.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (3.5.w3)"
+            "«ከ-» መነሻ ቦታን ሲያሳይ «ወደ-» መዳረሻ አቅጣጫን ያሳያል። (Correct prepositions of origin and destination)",
+            "«ከ-» መዳረሻን፣ «ወደ-» መነሻን ያሳያሉ።",
+            "ሁለቱም ጊዜን ብቻ ያሳያሉ።",
+            "ሁለቱም ባለቤትነትን ያሳያሉ።"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ከ-» መነሻን (ከቤታችን)፣ «ወደ-» ደግሞ መዳረሻን (ወደ ትምህርት ቤት) ያሳያሉ።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u3-l5) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "ከሚከተሉት ውስጥ የባለቤትነት ቅጥያዎችን፣ መስተዋድዶችንና የግስ ስምምነትን ሙሉ በሙሉ የጠበቀው አረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (3.5.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (3.5.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (3.5.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (3.5.x3)"
+            "እኔ መጽሐፌን በቦርሳዬ ውስጥ አደረግሁ። (I put my book inside my bag - Correct full syntax)",
+            "እኔ መጽሐፍህ በቦርሳሽ ውስጥ አደረገ እሷ።",
+            "እኛ ወደ ቤቴ ሄደች።",
+            "እነሱ ከትምህርት ቤት ጋር ነኝ።"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የግል ተውላጠ ስሞች እና መስተዋድድ (Personal Pronouns & Prepositions)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (3.5.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (3.5.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (3.5.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (3.5.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«እኔ መጽሐፌን በቦርሳዬ ውስጥ አደረግሁ» ሰዋሰዋዊ ህጎችን ሙሉ በሙሉ ያሟላ ነው።"
         }
       ]
     },
@@ -1927,24 +1809,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 3-5):",
+          "prompt": "የክፍል 3ን ዋና ዋና ሰዋሰዋዊ ህጎች በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (3.5.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (3.5.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (3.5.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (3.5.z3)"
+            "የግል ተውላጠ ስሞች ከማሰሪያ አንቀጽ ጋር ይዛመዳሉ፤ ስሞች የይዞታ ቅጥያዎችን ይወስዳሉ፤ መስተዋድዶች (ቀላልና ድርብ) ግንኙነትን ይገልጻሉ።",
+            "በአማርኛ የግል ተውላጠ ስሞችና ማሰሪያ አንቀጾች ምንም ግንኙነት የላቸውም።",
+            "መስተዋድዶች የሚገቡት በዓረፍተ ነገር መጨረሻ ላይ ብቻ ነው።",
+            "የይዞታ ቅጥያዎች ለወንድና ለሴት አንድ ዓይነት ናቸው።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "በአማርኛ ተውላጠ ስሞች፣ የይዞታ ቅጥያዎች እና መስተዋድዶች የተቀናጀ ስርዓት አላቸው።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u3-l5) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የግል»):",
+          "prompt": "'መስተዋድድ / Preposition' የሚለውን የሰዋሰው ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የግል",
-            "የግል"
+            "መስተዋድድ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የግል» ነው።"
+          "explanation": "ትክክለኛው ቃል «መስተዋድድ» (Mästewadəd) ነው።"
         }
       ],
       "passThreshold": 0.8
