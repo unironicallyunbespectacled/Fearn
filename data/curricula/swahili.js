@@ -7860,58 +7860,67 @@
       "passThreshold": 0.8
     }
   },
-  "sw-u19-l1": {
+"sw-u19-l1": {
     "id": "sw-u19-l1",
     "subject": "swahili",
     "unit": 19,
     "lessonNumber": 1,
-    "title": "Kauli ya Kutendesha (-isha/-esha) (Causative Verbs) (Part 1)",
+    "title": "Kauli ya Kutendesha: Kanuni ya Upatanisho wa Irabu kwa Mashina ya Kawaida (-isha / -esha)",
     "level": "B2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 19.1) with authentic precision.",
+    "objective": "Kuelewa dhana ya Kauli ya Kutendesha (Causative Voice) na kutumia kanuni ya upatanisho wa irabu kwa mashina ya kawaida ya konsonanti: a, i, u -> -isha na e, o -> -esha.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Kauli ya Kutendesha katika Kiswahili (The Causative Extension):\n\nKauli ya kutendesha huonyesha **kusababisha, kushawishi, au kumfanya mtu au kitu kutenda jambo fulani** (*to make, cause, or enable someone to do something*):\n\n1. **Kanuni ya Upatanisho wa Irabu (Vowel Harmony for Causative -isha vs. -esha)**:\n   - Ikiwa irabu ya shina kabla ya konsonanti ni **a, i, u**, shina hupokea **-isha**:\n     - *fika* (arrive) -> **fikisha** (deliver / make arrive / escort to)\n     - *rudi* (return) -> **rudisha** (return sth / refund / cause to go back)\n     - *simama* (stand / stop) -> **simamisha** (stop sb or sth / suspend / erect)\n     - *safisha* (clean / purify - already causative from root *safi*)\n     - *fundisha* (teach / instruct: cause to know skills)\n     - *linda* (guard) -> **lindisha** (cause to guard).\n\n   - Ikiwa irabu ya shina ni **e, o**, shina hupokea **-esha**:\n     - *soma* (read / study) -> **somesha** (educate / sponsor education / cause to read)\n     - *ona* (see) -> **onesha** / **onyesha** (show / display / point out)\n     - *kopa* (borrow money) -> **kopesha** (lend money / credit)\n     - *chelewa* (be late) -> **chelewesha** (delay / postpone)\n     - *penda* (love) -> **pendesha** / *pendeza* (make pleasing / cause to be loved)\n     - *shuka* (descend) -> **shusha** (lower / drop off).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 19.1.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 19."
+          "target": "Mwalimu anawasomesha wanafunzi kwa bidii ili wafikie viwango vya juu vya elimu.",
+          "reading": "Mwa-li-mu a-na-wa-so-me-sha wa-na-fu-nzi kwa bi-di-i i-li wa-fi-ki-e vi-wa-ngo vya ju-u vya e-li-mu. [mwɑˈlimu ɑnɑwɑsɔˈmɛʃɑ wɑnɑˈfunzi kwɑ biˈdiː ˈili wɑfiˈkiɛ viˈwɑŋɡɔ vjɑ ˈʤuː vjɑ ɛˈlimu] (mwah-LEE-moo ah-nah-wah-soh-MAY-shah wah-nah-FOON-zee kwah bee-DEE-ee EE-lee wah-fee-KEE-ay vee-WAHN-goh vyah JOO-oo vyah ay-LEE-moo)",
+          "translation": "The teacher is educating [anawasomesha: soma -> somesha] the students diligently so they reach high educational standards."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 19-1).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Dereva alisimamisha basi kituo kikuu na akawashusha abiria wote salama.",
+          "reading": "De-re-va a-li-si-ma-mi-sha ba-si ki-tu-o ki-ku-u na a-ka-wa-shu-sha a-bi-ri-a wo-te sa-la-ma. [dɛˈrɛvɑ ɑlisimɑˈmiʃɑ ˈbɑsi kiˈtuɔ kiˈkuː nɑ ɑkɑwɑˈʃuʃɑ ɑbiˈriɑ ˈwɔtɛ sɑˈlɑmɑ] (day-RAY-vah ah-lee-see-mah-MEE-shah BAH-see kee-TOO-oh kee-KOO-oo nah ah-kah-wah-SHOO-shah ah-bee-REE-ah WOH-tay sah-LAH-mah)",
+          "translation": "The driver stopped [alisimamisha: simama -> simamisha] the bus at the main stop and dropped off [akawashusha: shuka -> shusha] all passengers safely."
+        },
+        {
+          "target": "Mfanyabiashara anawakopesha wakulima pembejeo za kilimo kwa masharti nafuu.",
+          "reading": "Mfa-nya-bi-a-sha-ra a-na-wa-ko-pe-sha wa-ku-li-ma pe-mbe-je-o za ki-li-mo kwa ma-sha-rti na-fu-u. [mfɑɲɑbiɑˈʃɑrɑ ɑnɑwɑkɔˈpɛʃɑ wɑkuˈlimɑ pɛmbɛˈʤɛɔ zɑ kiˈlimɔ kwɑ mɑˈʃɑrti nɑˈfuː] (m-fah-nyah-bee-ah-SHAH-rah ah-nah-wah-koh-PAY-shah wah-koo-LEE-mah paym-bay-JAY-oh zah kee-LEE-moh kwah mah-SHAHR-tee nah-FOO-oo)",
+          "translation": "The merchant lends [anawakopesha: kopa -> kopesha] agricultural inputs to farmers under affordable terms."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Vowel Harmony ya Kutendesha: a, i, u -> -isha (fika -> fikisha, simama -> simamisha); e, o -> -esha (soma -> somesha, kopa -> kopesha, chelewa -> chelewesha)!"
+      ],
+      "culturalNotes": [
+        "Katika jamii za Waswahili, msemo 'Kusomesha si kazi ndogo' unasisitiza heshima kubwa wanayopewa wazazi na walezi wanaogharamia elimu ya watoto wao."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Familia\":",
+          "prompt": "Kauli ya kutendesha ya kitenzi \"soma\" (study/read) inayomaanisha kufundisha au kugharamia masomo ya mtu ni ipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 19.1.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Baba»",
-            "Mpangilio usio sahihi wa viambishi katika «Mama»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kaka»"
+            "somesha (Educate / cause to learn - Correct causative form with '-esha')",
+            "somisha (Kosa la upatanisho wa irabu ya 'o')",
+            "somea (Hii ni kauli ya kutendea)",
+            "somwa (Hii ni kauli ya kutendwa)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Kitenzi «soma» kina irabu «o», hivyo kulingana na kanuni ya upatanisho wa irabu huchukua «-esha» kupata «somesha» (educate / sponsor education)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Familia\":",
+          "prompt": "Kitenzi \"kopa\" (borrow) kinapobadilishwa kuwa kauli ya kutendesha (lend money / credit), neno sahihi huwa lipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 19.1.",
-            "Mpangilio usio sahihi wa viambishi katika «Mama»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kaka»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Baba»"
+            "kopesha (Lend / cause to borrow - Correct causative with '-esha')",
+            "kopisha (Kosa la kutumia '-isha' badala ya '-esha')",
+            "kopea (Kauli ya kutendea)",
+            "kopezwa (Umbo lisilo sanifu)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Shina «kopa» lina irabu «o», hivyo huchukua «-esha» kupata «kopesha» (lend money)."
         }
       ]
     },
@@ -7919,17 +7928,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Familia\": Which sentence is completely correct?",
+          "prompt": "Chagua jozi zote zilizo sahihi za vitenzi vya kawaida na vinyambuliko vyao vya kutendesha:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 19.1.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Kaka»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Baba»",
-            "Mpangilio usio sahihi wa viambishi katika «Mama»"
+            "fika -> fikisha, simama -> simamisha, rudi -> rudisha, soma -> somesha, kopa -> kopesha, chelewa -> chelewesha.",
+            "fika -> fikesha, simama -> simamesha, rudi -> rudesha.",
+            "soma -> somisha, kopa -> kopisha, chelewa -> chelewisha.",
+            "Vitenzi vyote vya Kiswahili huchukua kiambishi '-isha' pekee bila kujali irabu."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«a, i, u» huchukua «-isha» (fikisha, simamisha, rudisha) na «e, o» huchukua «-esha» (somesha, kopesha, chelewesha)."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u19-l2": {
@@ -7937,53 +7947,62 @@
     "subject": "swahili",
     "unit": 19,
     "lessonNumber": 2,
-    "title": "Kauli ya Kutendesha (-isha/-esha) (Causative Verbs) (Part 2)",
+    "title": "Kauli ya Kutendesha kwa Mashina ya Irabu Mbili (-lisha / -lesha) na Vitenzi vya Silabi Moja",
     "level": "B2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 19.2) with authentic precision.",
+    "objective": "Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya irabu mbili (-lisha / -lesha) na vitenzi vyenye silabi moja (kula -> lisha, kunywa -> nywesha, kujua -> julisha).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Kauli ya Kutendesha kwa Mashina ya Irabu Mbili na Silabi Moja:\n\n1. **Mashina ya Irabu Mbili (-lisha vs. -lesha)**:\n   - Mashina yanayoishia na irabu mbili kabla ya *-a* huingiza herufi ya kiunganishi **l** kabla ya kiambishi cha kusababisha:\n     - *nunua* (buy) -> **nunulisha** (cause to buy / entice into buying)\n     - *zaa* (bear fruit / breed) -> **zalisha** (breed / generate / produce / assist in childbirth)\n     - *ondoa* (remove) -> **ondosha** / **ondolesha** (dismiss / banish / cause to be removed)\n     - *kosea* (err) -> **koselesha** / **kosesha** (cause to miss or err)\n     - *chagua* (choose) -> **chagulisha** (cause to select / assist in choosing).\n\n2. **Vitenzi vya Silabi Moja na Miundo Maalum (Monosyllabic Causatives)**:\n   - Vitenzi hivi hupoteza kiambishi nafsi cha *ku-* kinapounganishwa na viambishi vya nyakati, vikichukua *-lisha*, *-nywesha*, au *-fisha*:\n     - *kula* (eat) -> **lisha** (feed / nourish / cause to eat)\n     - *kunywa* (drink) -> **nywesha** (water / irrigate / give drink to)\n     - *kufa* (die) -> **fisha** (cause to die / mortify / execute)\n     - *kujua* (know) -> **julisha** (inform / notify / introduce)\n     - *kuona* -> **onyesha** / **onesha** (show / display).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 19.2.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 19."
+          "target": "Mama anawalisha watoto wadogo uji wenye virutubisho na kuwanywesha maji safi.",
+          "reading": "Ma-ma a-na-wa-li-sha wa-to-to wa-do-go u-ji we-nye vi-ru-tu-bi-sho na ku-wa-nywe-sha ma-ji sa-fi. [ˈmɑmɑ ɑnɑwɑˈliʃɑ wɑˈtɔtɔ wɑˈdɔɡɔ ˈuʤi ˈwɛɲɛ virutuˈbiʃɔ nɑ kuwɑˈɲwɛʃɑ ˈmɑʤi ˈsɑfi] (MAH-mah ah-nah-wah-LEE-shah wah-TOH-toh wah-DOH-goh OO-jee WAY-nyay vee-roo-too-BEE-shoh nah koo-wah-NYWAY-shah MAH-jee SAH-fee)",
+          "translation": "Mother is feeding [anawalisha: kula -> lisha] young children nutritious porridge and giving them clean water to drink [kuwanywesha: kunywa -> nywesha]."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 19-2).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Mkurugenzi alitujulisha kuhusu sera mpya za uzalishaji viwandani mapema leo.",
+          "reading": "Mku-ru-ge-nzi a-li-tu-ju-li-sha ku-hu-su se-ra mpy-a za u-za-li-sha-ji vi-wa-nda-ni ma-pe-ma le-o. [mkurʊˈɡɛnzi ɑlituʤuˈliʃɑ kuˈhusu ˈsɛrɑ ˈmpjɑ zɑ uzɑliˈʃɑʤi viwɑˈndɑni mɑˈpɛmɑ ˈlɛɔ] (m-koo-roo-GAYN-zee ah-lee-too-joo-LEE-shah koo-HOO-soo SAY-rah M-PYAH zah oo-zah-lee-SHAH-jee vee-wahn-DAH-nee mah-PAY-mah LAY-oh)",
+          "translation": "The director notified [alitujulisha: kujua -> julisha] us about new manufacturing policies [uzalishaji: zaa -> zalisha] in factories early today."
+        },
+        {
+          "target": "Mkulima anazalisha mazao mengi ya nafaka na anawanywesha ng'ombe wake maji.",
+          "reading": "Mku-li-ma a-na-za-li-sha ma-za-o me-ngi ya na-fa-ka na a-na-wa-nywe-sha ngo-mbe wa-ke ma-ji. [mkuˈlimɑ ɑnɑzɑˈliʃɑ mɑˈzɑɔ ˈmɛŋɡi jɑ nɑˈfɑkɑ nɑ ɑnɑwɑˈɲwɛʃɑ ˈŋɔmbɛ ˈwɑkɛ ˈmɑʤi] (m-koo-LEE-mah ah-nah-zah-LEE-shah mah-ZAH-oh MAYN-gee yah nah-FAH-kah nah ah-nah-wah-NYWAY-shah NG-OHM-bay WAH-kay MAH-jee)",
+          "translation": "The farmer produces [anazalisha: zaa -> zalisha] plenty of cereal crops and gives water to [anawanywesha: kunywa -> nywesha] his cattle."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Silabi Moja & Irabu Mbili: kula -> lisha (kulisha watoto); kunywa -> nywesha (kunywesha mimea); kujua -> julisha (kujulisha taarifa); zaa -> zalisha (kuzalisha umeme/mazao)!"
+      ],
+      "culturalNotes": [
+        "Neno 'Mzalendo' na 'Uzalishaji' (kutoka 'zaa' -> 'zalisha') ni dhana kuu za kiuchumi na kijamii nchini Tanzania na Kenya zinazosisitiza uchumi wa viwanda na uzalishaji wa ndani."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Baba\":",
+          "prompt": "Kauli ya kutendesha ya kitenzi cha silabi moja \"kula\" (eat) inayomaanisha kumlisha mtu chakula ni ipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 19.2.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mama»",
-            "Mpangilio usio sahihi wa viambishi katika «Kaka»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Dada»"
+            "lisha (Feed / cause to eat - Correct causative form of 'kula')",
+            "kulisha (Umbo lenye 'ku-' wakati linapotumika bila viambishi vya wakati)",
+            "lia (Hii ni kauli ya kutendea)",
+            "liwa (Hii ni kauli ya kutendwa)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Kitenzi «kula» kina umbo la kutendesha «lisha» (mfano: *Mwalimu anawalisha wanafunzi chakula*)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Baba\":",
+          "prompt": "Kitenzi \"kujua\" (know) kinapobadilishwa kuwa kauli ya kutendesha yenye maana ya 'kufahamisha / kutangaza kwa mtu', neno sahihi huwa lipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 19.2.",
-            "Mpangilio usio sahihi wa viambishi katika «Kaka»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Dada»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mama»"
+            "julisha (Inform / notify / make known - Correct causative formation)",
+            "juaisha (Kosa la uundaji wa maneno)",
+            "juliwa (Kauli ya kutendwa)",
+            "julikana (Kauli ya kutendeka)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Kitenzi «kujua» hubadilika kuwa «julisha» katika kauli ya kutendesha: *alitujulisha* (he informed us)."
         }
       ]
     },
@@ -7991,17 +8010,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Baba\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha iliyo sahihi kabisa ya vitenzi vya silabi moja na vya irabu mbili vilivyonyambulishwa katika kauli ya kutendesha:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 19.2.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Dada»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Mama»",
-            "Mpangilio usio sahihi wa viambishi katika «Kaka»"
+            "kula -> lisha, kunywa -> nywesha, kufa -> fisha, kujua -> julisha, zaa -> zalisha, nunua -> nunulisha.",
+            "kula -> lesha, kunywa -> nywisha, kufa -> fesha.",
+            "kujua -> juisha, zaa -> zaisha, nunua -> nunuisha.",
+            "Vitenzi vyenye silabi moja havina kauli ya kutendesha katika lugha ya Kiswahili."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Miundo sahihi ya kutendesha ni kula/lisha, kunywa/nywesha, kufa/fisha, kujua/julisha, zaa/zalisha, na nunua/nunulisha."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u19-l3": {
@@ -8009,53 +8029,62 @@
     "subject": "swahili",
     "unit": 19,
     "lessonNumber": 3,
-    "title": "Kauli ya Kutendesha (-isha/-esha) (Causative Verbs) (Part 3)",
+    "title": "Kauli ya Kutendesha kwa Mabadiliko ya Sauti za Konsonanti (-za, -sha: Sound Alternations)",
     "level": "B2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 19.3) with authentic precision.",
+    "objective": "Kutambua na kutumia mabadiliko ya kifonolojia katika kauli ya kutendesha ambapo konsonanti za mwisho za mzizi hubadilika moja kwa moja kuwa -sha au -za (-ka -> -sha, -ta -> -za/-sha, -la -> -za).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Mabadiliko ya Sauti katika Kauli ya Kutendesha (Morphophonological Causatives):\n\nKatika Kiswahili, vitenzi vingi haviongezi silabi nzima ya *-isha/-esha*, bali konsonanti ya mwisho ya shina hubadilika moja kwa moja kupitia mchakato wa kifonolojia (Consonant Mutation):\n\n1. **Konsonanti -ka hubadilika kuwa -sha**:\n   - *anguka* (fall) -> **angusha** (drop / cause to fall / fell a tree)\n   - *amka* (wake up - intr.) -> **amsha** (awaken sb - tr.)\n   - *chemka* (boil - intr.) -> **chemsha** (boil - tr.)\n   - *kauka* (dry - intr.) -> **kausha** (dry sth - tr.)\n   - *kumbuka* (remember) -> **kumbusha** (remind)\n   - *geuka* (turn around - intr.) -> **geuza** / **geusha** (turn sth / convert - tr.)\n   - *shuka* (descend / disembark) -> **shusha** (lower / drop off).\n\n2. **Konsonanti -ta / -la / -nda / -pa hubadilika kuwa -za au -nya**:\n   - *lala* (sleep / lie down) -> **laza** (lay down / hospitalize)\n   - *penda* (love / like) -> **pendeza** (please / charm / look attractive)\n   - *kimbia* (run) -> **kimbiza** (chase / hurry)\n   - *potea* (get lost) -> **poteza** (lose / misplace / waste)\n   - *ona* (see) -> **onya** (warn / reprimand) / **onyesha** (show)\n   - *lea* (raise / nurse) -> **lelewa** / **leza**.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 19.3.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 19."
+          "target": "Mwalimu anawakumbusha wanafunzi wote kufanya marudio kabla ya mtihani kuanza.",
+          "reading": "Mwa-li-mu a-na-wa-ku-mbu-sha wa-na-fu-nzi wo-te ku-fa-nya ma-ru-di-o ka-bla ya mti-ha-ni ku-a-nza. [mwɑˈlimu ɑnɑwɑkumbuˈʃɑ wɑnɑˈfunzi ˈwɔtɛ kuˈfɑɲɑ mɑruˈdiɔ ˈkɑblɑ jɑ mtiˈhɑni kuˈɑnzɑ] (mwah-LEE-moo ah-nah-wah-koom-BOO-shah wah-nah-FOON-zee WOH-tay koo-FAH-nyah mah-roo-DEE-oh KAH-blah yah m-tee-HAH-nee koo-AHN-zah)",
+          "translation": "The teacher is reminding [anawakumbusha: kumbuka -> kumbusha] all students to do revision before the exam begins."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 19-3).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Mpishi anachemsha maji safi ya kunywa na kukausha vyombo vilivyooshwa jikoni.",
+          "reading": "Mpi-shi a-na-che-msha ma-ji sa-fi ya ku-nywa na ku-ka-u-sha vyo-mbo vi-li-vyo-o-shwa ji-ko-ni. [mpiˈʃi ɑnɑtʃɛˈmʃɑ ˈmɑʤi ˈsɑfi jɑ ˈkuɲwɑ nɑ kukɑˈuʃɑ ˈvjɔmbɔ vilivjɔˈɔʃwɑ ʤiˈkɔni] (m-PEE-shee ah-nah-chaym-SHAH MAH-jee SAH-fee yah koo-NYWAH nah koo-kah-OO-shah VYOHM-boh vee-lee-vyoh-OH-shwah jee-KOH-nee)",
+          "translation": "The cook is boiling [anachemsha: chemka -> chemsha] clean drinking water and drying [kukausha: kauka -> kausha] washed utensils in the kitchen."
+        },
+        {
+          "target": "Hotuba nzuri ya mgeni rasmi iliwapendeza wananchi na akawahimiza kufanya kazi.",
+          "reading": "Ho-tu-ba nzu-ri ya mge-ni ra-smi i-li-wa-pe-nde-za wa-na-nchi na a-ka-wa-hi-mi-za ku-fa-nya ka-zi. [hɔˈtubɑ ˈnzuri jɑ mˈɡɛni ˈrɑsmi iliwɑpɛˈndɛzɑ wɑnɑˈntʃi nɑ ɑkɑwɑhimiˈzɑ kuˈfɑɲɑ ˈkɑzi] (hoh-TOO-bah N-ZOO-ree yah m-GAY-nee RAH-smee ee-lee-wah-payn-DAY-zah wah-nahn-CHEE nah ah-kah-wah-hee-MEE-zah koo-FAH-nyah KAH-zee)",
+          "translation": "The guest of honor's fine speech pleased [iliwapendeza: penda -> pendeza] the citizens and he urged [akawahimiza] them to work hard."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Mabadiliko ya Sauti: kumbuka -> kumbusha; chemka -> chemsha; kauka -> kausha; lala -> laza; penda -> pendeza; potea -> poteza!"
+      ],
+      "culturalNotes": [
+        "Neno 'Kupendeza' (kutoka shina 'penda' -> 'pendeza') ndio msingi wa neno la pongezi 'Umependeza sana!' (You look very smart/attractive!) linalotumika kote Afrika Mashariki."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Mama\":",
+          "prompt": "Kauli ya kutendesha ya kitenzi \"kumbuka\" (remember) inayomaanisha 'kumfanya mtu akumbuke' ni ipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 19.3.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kaka»",
-            "Mpangilio usio sahihi wa viambishi katika «Dada»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Babu»"
+            "kumbusha (Remind / cause to remember - Correct '-ka' to '-sha' mutation)",
+            "kumbukisha (Kosa la kutotumia mabadiliko ya sauti ya '-ka -> -sha')",
+            "kumbukia (Hii ni kauli ya kutendea)",
+            "kumbukwa (Hii ni kauli ya kutendwa)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Kitenzi «kumbuka» hubadilisha konsonanti ya mwisho «-ka» kuwa «-sha» kupata «kumbusha» (remind)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Mama\":",
+          "prompt": "Kitenzi \"lala\" (sleep / lie down) kinapobadilishwa kuwa kauli ya kutendesha (lay down / hospitalize), neno sahihi huwa lipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 19.3.",
-            "Mpangilio usio sahihi wa viambishi katika «Dada»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Babu»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kaka»"
+            "laza (Lay down / put to bed / admit to hospital - Correct '-la -> -za' shift)",
+            "lalisha (Umbo lisilo la kawaida katika Kiswahili sanifu)",
+            "lalia (Kauli ya kutendea)",
+            "lalwa (Kauli ya kutendwa)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Kitenzi «lala» hubadilika kuwa «laza» (mfano: *daktari alimlaza mgonjwa hospitalini*)."
         }
       ]
     },
@@ -8063,17 +8092,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Mama\": Which sentence is completely correct?",
+          "prompt": "Chagua jozi zote zinazoonyesha mabadiliko sahihi ya sauti za konsonanti katika kauli ya kutendesha:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 19.3.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Babu»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Kaka»",
-            "Mpangilio usio sahihi wa viambishi katika «Dada»"
+            "chemka -> chemsha, kauka -> kausha, amka -> amsha, kumbuka -> kumbusha, lala -> laza, penda -> pendeza, potea -> poteza.",
+            "chemka -> chemkisha, kauka -> kaukisha, amka -> amkisha.",
+            "lala -> lalisha, penda -> pendisha, potea -> potesha.",
+            "Konsonanti za mwisho za vitenzi haziwezi kubadilika katika sarufi ya Kiswahili."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Mabadiliko ya fonolojia hutoa chemsha, kausha, amsha, kumbusha, laza, pendeza, na poteza."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u19-l4": {
@@ -8081,53 +8111,62 @@
     "subject": "swahili",
     "unit": 19,
     "lessonNumber": 4,
-    "title": "Kauli ya Kutendesha (-isha/-esha) (Causative Verbs) (Part 4)",
+    "title": "Kauli ya Kutendesha kwa Vitenzi vya Kigeni / Kiarabu (-isha / -esha / -zisha)",
     "level": "B2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 19.4) with authentic precision.",
+    "objective": "Kutambua na kutumia kauli ya kutendesha kwa vitenzi vya asili ya kigeni (hasa Kiarabu) vinavyoishia na irabu -i, -u, au -e (-isha / -esha / -zisha).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Kauli ya Kutendesha kwa Vitenzi vya Kigeni (Loanword Causatives):\n\nVitenzi vyenye asili ya Kiarabu vinavyoishia na irabu **-i, -u, au -e** hunyambulishwa kuwa kauli ya kutendesha kwa kufuata kanuni maalum:\n\n1. **Vitenzi Vinavyoishia na -i (Huchukua -isha au -zisha)**:\n   - *safiri* (travel) -> **safirisha** (transport / freight / make travel)\n   - *rudi* (return) -> **rudisha** (return sth / refund / send back)\n   - *hakiki* (verify) -> **hakikisha** (ensure / make sure / certify)\n   - *kiri* (confess) -> **kirisha** (cause to admit)\n   - *badili* (change) -> **badilisha** (exchange / alter / transform)\n   - *fikiri* (think) -> **fikirisha** (provoke thought / make sb think).\n\n2. **Vitenzi Vinavyoishia na -u (Huchukua -isha)**:\n   - *jibu* (answer) -> **jibisha** (challenge to answer / provoke a reply)\n   - *jaribu* (try / test) -> **jaribisha** (put to the test / sample)\n   - *hukumu* (judge) -> **hukumisha** (cause to be judged / sentence).\n\n3. **Vitenzi Vinavyoishia na -e (Huchukua -esha / -zisha)**:\n   - *starehe* (relax / be comfortable) -> **starehesha** (entertain / comfort / amuse)\n   - *samehe* (forgive) -> **samehesha** (cause forgiveness / mediate).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 19.4.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 19."
+          "target": "Tafadhali hakikisha kwamba umerejesha na kurudisha vitabu vyote vya maktaba kwa wakati.",
+          "reading": "Ta-fa-dha-li ha-ki-ki-sha kwa-mba u-me-re-je-sha na ku-ru-di-sha vi-ta-bu vyo-te vya ma-kta-ba kwa wa-ka-ti. [tɑfɑˈðɑli hɑkikiˈʃɑ ˈkwɑmbɑ umɛrɛˈʤɛʃɑ nɑ kuruˈdiʃɑ viˈtɑbu ˈvjɔtɛ vjɑ mɑkˈtɑbɑ kwɑ wɑˈkɑti] (tah-fah-THAH-lee hah-kee-KEE-shah KWAHM-bah oo-may-ray-JAY-shah nah koo-roo-DEE-shah vee-TAH-boo VYOH-tay vyah mahk-TAH-bah kwah wah-KAH-tee)",
+          "translation": "Please make sure [hakikisha: hakiki -> hakikisha] that you have returned [kurudisha: rudi -> rudisha] all library books on time."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 19-4).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Kampuni yetu inasafirisha shehena kubwa ya mizigo kwenda mikoa mbalimbali nchini.",
+          "reading": "Ka-mpu-ni ye-tu i-na-sa-fi-ri-sha she-he-na kbu-bwa ya mzi-go kwe-nda mi-ko-a mba-li-mba-li nchi-ni. [kɑmˈpuni ˈjɛtu inɑsɑfiriˈʃɑ ʃɛˈhɛnɑ ˈkubwɑ jɑ ˈmziɡɔ ˈkwɛndɑ miˈkɔɑ mbɑlimbɑˈli ˈntʃini] (kahm-POO-nee YAY-too ee-nah-sah-fee-REE-shah shay-HAY-nah KOO-bwah yah m-ZEE-goh KWAYN-dah mee-KOH-ah M-BAH-lee-m-BAH-lee n-CHEE-nee)",
+          "translation": "Our company is transporting [inasafirisha: safiri -> safirisha] a large consignment of cargo to various regions in the country."
+        },
+        {
+          "target": "Wanamuziki walitumbuiza kwa nyimbo tamu na kuwastarehesha wageni wote ukumbini.",
+          "reading": "Wa-na-mu-zi-ki wa-li-tu-mbu-i-za kwa nyi-mbo ta-mu na ku-wa-sta-re-he-sha wa-ge-ni wo-te u-ku-mbi-ni. [wɑnɑmuˈziki wɑlitumbuiˈzɑ kwɑ ˈɲimbɔ ˈtɑmu nɑ kuwɑstɑrɛhɛˈʃɑ wɑˈɡɛni ˈwɔtɛ ukumbiˈni] (wah-nah-moo-ZEE-kee wah-lee-toom-boo-EE-zah kwah NYEEM-boh TAH-moo nah koo-wah-stah-ray-hay-SHAH wah-GAY-nee WOH-tay oo-koom-bee-NEE)",
+          "translation": "The musicians performed sweet songs and entertained [kuwastarehesha: starehe -> starehesha] all guests in the hall."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Vitenzi vya Kigeni vya Kutendesha: safiri -> safirisha; rudi -> rudisha; hakiki -> hakikisha; badili -> badilisha; starehe -> starehesha!"
+      ],
+      "culturalNotes": [
+        "Neno 'Kuhakikisha' (kutoka 'hakiki') hutumika kila siku kama msemo wa kawaida wa usalama: 'Hakikisha unafunga mlango kabla ya kuondoka.'"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Kaka\":",
+          "prompt": "Kauli ya kutendesha ya kitenzi cha Kiarabu \"safiri\" (travel) inayomaanisha kusafirisha mizigo au watu ni ipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 19.4.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Dada»",
-            "Mpangilio usio sahihi wa viambishi katika «Babu»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Bibi»"
+            "safirisha (Transport / cause to travel - Correct loanword causative suffix '-isha')",
+            "safiresha (Kosa la kutumia '-esha' badala ya '-isha' baada ya 'i')",
+            "safiria (Hii ni kauli ya kutendea)",
+            "safiriwa (Hii ni kauli ya kutendwa)"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Kitenzi «safiri» kinaishia na «-i», hivyo huchukua «-isha» kupata «safirisha» (transport / cause to travel)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Kaka\":",
+          "prompt": "Kitenzi \"badili\" (change / alter) kinapobadilishwa kuwa kauli ya kutendesha (exchange / transform sth), neno sahihi huwa lipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 19.4.",
-            "Mpangilio usio sahihi wa viambishi katika «Babu»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Bibi»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Dada»"
+            "badilisha (Exchange / transform / cause to change - Correct causative form)",
+            "badilesha (Kosa la upatanisho wa irabu ya 'i')",
+            "badilia (Kauli ya kutendea)",
+            "badilika (Kauli ya kutendeka)"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Kitenzi «badili» huchukua «-isha» kupata «badilisha» (exchange / alter / change something)."
         }
       ]
     },
@@ -8135,17 +8174,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Kaka\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha iliyo sahihi kabisa ya vitenzi vya kigeni katika kauli ya kutendesha:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 19.4.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Bibi»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Dada»",
-            "Mpangilio usio sahihi wa viambishi katika «Babu»"
+            "safiri -> safirisha, rudi -> rudisha, hakiki -> hakikisha, badili -> badilisha, jaribu -> jaribisha, starehe -> starehesha.",
+            "safiri -> safiresha, rudi -> rudesha, hakiki -> hakikesha.",
+            "safiri -> safiriza, rudi -> rudiza, badili -> badiliza.",
+            "Vitenzi vyenye asili ya Kiarabu haviwezi kunyambulishwa katika kauli ya kutendesha."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Vitenzi vya Kiarabu vyenye irabu -i/-u huchukua -isha (safirisha, rudisha, hakikisha, badilisha, jaribisha) na -e huchukua -esha (starehesha)."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u19-l5": {
@@ -8153,53 +8193,62 @@
     "subject": "swahili",
     "unit": 19,
     "lessonNumber": 5,
-    "title": "Kauli ya Kutendesha (-isha/-esha) (Causative Verbs) (Part 5)",
+    "title": "Muhtasari wa Kauli ya Kutendesha na Mseto wa Vinyambuliko (Causative Grand Synthesis & Stacked Extensions)",
     "level": "B2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 19.5) with authentic precision.",
+    "objective": "Kuunganisha mada zote za Unit 19: mashina ya kawaida ya konsonanti (-isha / -esha), mashina ya irabu mbili na silabi moja (lisha, nywesha, zalisha), mabadiliko ya sauti (chemsha, kumbusha, laza), vitenzi vya kigeni, na kuunda miundo mseto ya vinyambuliko vilivyopangwa (Kutendeshwa, Kutendeshea).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Muhtasari Mkuu wa Kauli ya Kutendesha na Vinyambuliko Mseto (Stacked Extensions):\n\n1. **Muundo Kamili wa Kauli ya Kutendesha (Causative Master Matrix)**:\n   - **Konsonanti Kawaida**: *a, i, u -> -isha* (*fikisha, simamisha, safisha*); *e, o -> -esha* (*somesha, kopesha, chelewesha*).\n   - **Silabi Moja & Irabu Mbili**: *kula -> lisha, kunywa -> nywesha, kujua -> julisha, zaa -> zalisha, nunua -> nunulisha*.\n   - **Mabadiliko ya Sauti (-ka -> -sha, -la -> -za)**: *chemka -> chemsha, kauka -> kausha, kumbuka -> kumbusha, lala -> laza, penda -> pendeza*.\n   - **Vitenzi vya Kigeni**: *safirisha, rudisha, hakikisha, badilisha, starehesha*.\n\n2. **Vinyambuliko Mseto Vilivyopangwa (Stacked Extensions)**:\n   - **Kutendesha + Kutendwa = Kutendeshwa** (*To be caused/made to do*):\n     - *soma -> somesha -> **someshwa*** (*Mwanafunzi alisomeshwa chuo kikuu.*)\n     - *safiri -> safirisha -> **safirishwa*** (*Mzigo ulisafirishwa jana.*)\n     - *anguka -> angusha -> **angushwa*** (*Mti uliangushwa na upepo.*)\n   - **Kutendesha + Kutendea = Kutendeshea** (*To cause on behalf of / for*):\n     - *soma -> somesha -> **someshea*** (*Alinisomeshea mwanangu.*)\n     - *rudi -> rudisha -> **rudishia*** (*Alinirudishia fedha zangu.*).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 19.5.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 19."
+          "target": "Mwanafunzi yatima alisomeshwa na mfadhili hadi akamaliza masomo yake ya udaktari.",
+          "reading": "Mwa-na-fu-nzi ya-ti-ma a-li-so-me-shwa na mfa-dhi-li ha-di a-ka-ma-li-za ma-so-mo ya-ke ya u-da-kta-ri. [mwɑnɑˈfunzi jɑˈtimɑ ɑlisɔˈmɛʃwɑ nɑ mfɑˈðili ˈhɑdi ɑkɑmɑˈlizɑ mɑˈsɔmɔ ˈjɑkɛ jɑ udɑkˈtɑri] (mwah-nah-FOON-zee yah-TEE-mah ah-lee-soh-MAY-shwah nah m-fah-THEE-lee HAH-dee ah-kah-mah-LEE-zah mah-SOH-moh YAH-kay yah oo-dahk-TAH-ree)",
+          "translation": "The orphaned student was educated/sponsored [alisomeshwa: soma -> somesha -> someshwa] by a benefactor until finishing medical studies."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 19-5).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Meneja alituhakikishia kwamba mizigo yote itasafirishwa salama na kurudishiwa wenyewe.",
+          "reading": "Me-ne-ja a-li-tu-ha-ki-ki-shi-a kwa-mba mzi-go yo-te i-ta-sa-fi-ri-shwa sa-la-ma na ku-ru-di-shi-wa wye-nye-we. [mɛˈnɛʤɑ ɑlituhɑkikiˈʃiɑ ˈkwɑmbɑ ˈmziɡɔ ˈjɔtɛ itɑsɑfiriˈʃwɑ sɑˈlɑmɑ nɑ kurudiˈʃiwɑ wɛˈɲɛwɛ] (may-NAY-jah ah-lee-too-hah-kee-kee-SHEE-ah KWAHM-bah m-ZEE-goh YOH-tay ee-tah-sah-fee-REE-shwah sah-LAH-mah nah koo-roo-dee-SHEE-wah way-NYAY-way)",
+          "translation": "The manager assured us [alituhakikishia: hakiki -> hakikisha -> hakikishia] that all cargo will be transported [itasafirishwa] safely and returned to [kurudishiwa] the owners."
+        },
+        {
+          "target": "Umahiri wa kauli ya kutendesha na uwezo wa kuunganisha viambishi nyambulishi ni uthibitisho wa nguvu kubwa ya kisarufi ya lugha ya Kiswahili katika kujenga dhana changamano za visababishi na uhusika kwa kutumia neno moja pekee.",
+          "reading": "U-ma-hi-ri wa ka-u-li ya ku-te-nde-sha na u-we-zo wa ku-u-nga-ni-sha vi-a-mbi-shi nya-mbu-li-shi ni u-thi-bi-ti-sho wa ngu-vu kbu-bwa ya ki-sa-ru-fi ya lu-gha ya Ki-swa-hi-li ka-ti-ka ku-je-nga dha-na cha-nga-ma-no za vi-sa-ba-bi-shi na u-hu-si-ka kwa ku-tu-mia ne-no mo-ja pe-ke-e. [umɑˈhiri wɑ kɑˈuli jɑ kutɛndɛˈʃɑ nɑ uˈwɛzɔ wɑ kuiŋɡɑˈniʃɑ viɑmˈbiʃi ɲɑmbuˈliʃi ni uθibiˈtiʃɔ wɑ ˈŋɡuvu ˈkubwɑ jɑ kisɑˈrufi jɑ ˈluɡɑ jɑ kiswɑˈhili ˈkɑtikɑ kuˈʤɛŋɡɑ ˈðɑnɑ tʃɑŋɡɑˈmɑnɔ zɑ visɑbɑˈbiʃi nɑ uhuˈsikɑ kwɑ kutuˈmiɑ ˈnɛnɔ ˈmɔʤɑ pɛˈkɛː] (oo-mah-HEE-ree wah kah-OO-lee yah koo-tayn-day-SHAH nah oo-WAY-zoh wah koo-oon-gah-NEE-shah vee-ahm-BEE-shee nyahm-boo-LEE-shee nee oo-thee-bee-TEE-shoh wah N-GOO-voo KOO-bwah yah kee-sah-ROO-fee yah LOO-gah yah kee-swah-HEE-lee KAH-tee-kah koo-JAYN-gah THAH-nah chahn-gah-MAH-noh zah vee-sah-bah-BEE-shee nah oo-hoo-SEE-kah kwah koo-too-MEE-ah NAY-noh MOH-jah pay-KAY-ay)",
+          "translation": "Mastery of the causative voice [causative grand synthesis: kauli ya kutendesha] and morphological stacking proves the immense grammar capacity of Swahili in constructing nuanced concepts of causation and agency within a single word."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Kutendesha Grand Synthesis: soma -> somesha -> someshwa (kuwa mtu anasomeshwa na mtu mwingine); rudi -> rudisha -> rudishia (kumrudishia mtu kitu)!"
+      ],
+      "culturalNotes": [
+        "Mifumo ya ushirikiano wa kijamii (Harambee nchini Kenya na Ujamaa nchini Tanzania) inajengwa juu ya dhana ya 'kusomeshana' na 'kusaidiana' kufanikisha maendeleo ya jamii."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Dada\":",
+          "prompt": "Katika sentensi «Mwanafunzi alisomeshwa na mjomba wake», mnyambuliko wa kitenzi unachanganya kauli zipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 19.5.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Babu»",
-            "Mpangilio usio sahihi wa viambishi katika «Bibi»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mtoto»"
+            "Kauli ya Kutendesha na Kauli ya Kutendwa (Causative Passive: soma -> somesha -> someshwa)",
+            "Kauli ya Kutenda na Kauli ya Kutendea",
+            "Kauli ya Kutendeka pekee",
+            "Kauli ya Kutendana na Kutendea"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Kitenzi «alisomeshwa» kimetokana na: soma -> somesha (kutendesha) -> someshwa (kutendeshwa: causative passive)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Dada\":",
+          "prompt": "Sentensi ipi inatumia mseto wa kauli ya kutendesha na kauli ya kutendea (Kutendeshea: cause for/to someone) kwa usahihi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 19.5.",
-            "Mpangilio usio sahihi wa viambishi katika «Bibi»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mtoto»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Babu»"
+            "Mfanyabiashara alimrudishia mteja chenji yake yote. (The merchant returned/refunded to the customer all his change - Correct causative applicative 'alimrudishia')",
+            "Mfanyabiashara alirudisha mteja bila kumpa chenji",
+            "Mfanyabiashara alirudiwa na mteja",
+            "Mfanyabiashara alimrudisha mteja chenji"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«alimrudishia mteja chenji» inatumia kauli ya kutendeshea (rudi -> rudisha -> rudishia: return/refund to someone)."
         }
       ]
     },
@@ -8207,27 +8256,21 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Dada\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 19 ya Kauli ya Kutendesha na Vinyambuliko Mseto katika Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 19.5.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mtoto»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Babu»",
-            "Mpangilio usio sahihi wa viambishi katika «Bibi»"
+            "Mwalimu aliwasomesha wanafunzi kwa maarifa mapya, akawahakikishia ushindi katika mitihani, na wale waliohitaji msaada wakasomeshwa kwa ukarimu wote. (Causative active [aliwasomesha], loanword causative [akawahakikishia], and causative passive [wakasomeshwa].)",
+            "Mwalimu alisoma na wanafunzi bila kusababisha chochote.",
+            "Wanafunzi walimfundisha mwalimu jikoni.",
+            "Kauli ya kutendesha haiwezi kuunganishwa na kauli ya kutendwa."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Mwalimu aliwasomesha wanafunzi kwa maarifa mapya, akawahakikishia ushindi katika mitihani, na wale waliohitaji msaada wakasomeshwa kwa ukarimu wote.» inajumuisha nyanja zote za kauli ya kutendesha na vinyambuliko vyake mseto kwa ukamilifu."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u20-l1": {
-    "id": "sw-u20-l1",
-    "subject": "swahili",
-    "unit": 20,
-    "lessonNumber": 1,
-    "title": "Kauli ya Kutendana (-ana) (Reciprocal Verbs) (Part 1)",
-    "level": "B2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 20.1) with authentic precision.",
     "presentation": {
       "explanation": "",
       "examples": [
