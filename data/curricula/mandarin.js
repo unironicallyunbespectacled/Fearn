@@ -8096,85 +8096,89 @@
     "subject": "mandarin",
     "unit": 14,
     "lessonNumber": 1,
-    "title": "比较句（比/没有/不如/一样） (Comparative Structures) (第1讲)",
+    "title": "「比」字句肯定式、程度副词限制与差异量表达（A比B+形容词+得多/一点儿/数量词） (The 'Bi' Comparative Construction)",
     "level": "A2",
-    "objective": "全面掌握与熟练运用本课核心内容：汉语四大比较句型（A比B更...、A没有B...、A不如B...、A跟B一样...）的句法制约。 (第1部分)。",
+    "objective": "系统掌握现代汉语「比」字句肯定式基本句型，深刻领会「形容词前严禁修饰绝对程度副词」语法禁忌，熟练运用「得多/一点儿/具体数量词」精准表达差异量。",
     "presentation": {
-      "explanation": "",
+      "explanation": "「比」字句是现代汉语中用于表达两者在性质、状态或数量上存在差异的最核心句法结构：\n\n一、「比」字句基本句型结构：\n- 句法框架：主语（比较主体 A） + 比 + 比较客体（B） + 谓语形容词。\n- 范例说明：高铁比普速列车快、这件毛衣比那件厚、北京的冬天比上海冷。\n\n二、「比」字句核心语法禁忌：【严禁在形容词前添加绝对程度副词】！\n- 句法机理：「比」字本身已经表达了相对程度的超越，因此谓语形容词前**绝对不能附加「很、非常、十分、太、极其、特别」等绝对程度副词**！\n1. 病句：今天比昨天很冷。改正：今天比昨天冷 / 今天比昨天更冷（可用相对程度副词「更、还要」）。\n2. 病句：他的成绩比我非常高。改正：他的成绩比我高得多 / 他的成绩比我还要高。\n\n三、差异量的精确与概略补充表达体系（置于形容词之后）：\n1. 概略差异较小：A 比 B + 形容词 + 一点儿 / 一些。\n- 范例说明：今天早晨的气温比昨天暖和一点儿、这双鞋子比那双大一些。\n2. 概略差异极大：A 比 B + 形容词 + 得多 / 多了。\n- 范例说明：新型处理器的运算速度比旧款快得多、乘坐飞机的耗时比坐轮船短多了。\n3. 精确数值差异：A 比 B + 形容词 + 具体数量短语。\n- 范例说明：哥哥比弟弟大整整三岁、这本专业词典比那本参考书贵了五十块钱。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「比较句（比/没有/不如/一样） (Comparative Structures)」的核心语法法则与应用范例 (14.1.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '比较句（比/没有/不如/一样） (Comparative Structures)' in simple terms to students at the academic seminar."
+          "target": "这台新型超级计算机的数据处理速度比上一代产品快得多，能耗却降低了百分之三十。(Zhè tái xīnxíng chāojí jìsuànjī de shùjù chǔlǐ sùdù bǐ shàng yí dài chǎnpǐn kuài de duō, nénghào què jiàngdī le bǎifēnzhī sānshí.)",
+          "reading": "[ʈ͡ʂɤ˥˩ tʰaɪ̯˧˥ ɕin˥.ɕiŋ˧˥ t͡ʂʰaʊ̯˥.t͡ɕi˨˩˦ t͡ɕi˥˩.swan˥˩.t͡ɕi˥ tɤ ʂu˥˩.t͡ɕy˥˩ ʈ͡ʂʰu˨˩˦.li˨˩˦ su˥˩.tu˥˩ pi˨˩˦ ʂɑŋ˥˩ i˥ taɪ̯˥˩ t͡ʂʰan˨˩.pʰin˨˩˦ kʰwaɪ̯˥˩ tɤ twɔ˥, nɤŋ˧˥.xaʊ̯˥˩ t͡ɕʰɥɛ˥˩ t͡ɕjaŋ˥˩.ti˥ lɤ paɪ̯˨˩.fən˥.ʈ͡ʂɨ˥ san˥.ʂɨ˧˥] (Zhè tái xīn-xíng chāo-jí jì-suàn-jī de shù-jù chǔ-lǐ sù-dù bǐ shàng yí dài chǎn-pǐn kuài de duō, néng-hào què jiàng-dī le bǎi-fēn-zhī sān-shí.)",
+          "translation": "The data processing speed of this new supercomputer is much faster than the previous generation product, yet its energy consumption is reduced by thirty percent."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (14.1.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "今天早晨的气温比昨天低了整整五度，出门前一定要记得多穿一件厚外套以防感冒。(Jīntiān zǎochén de qìwēn bǐ zuótiān dī le zhěngzhěng wǔ dù, chūmén qián yídìng yào jìde duō chuān yí jiàn hòu wàitào yǐfáng gǎnmào.)",
+          "reading": "[t͡ɕin˥.tʰjɛn˥ t͡saʊ̯˨˩˦.ʈ͡ʂʰən tɤ t͡ɕʰi˥˩.wən˥ pi˨˩˦ t͡swɔ˧˥.tʰjɛn˥ ti˥ lɤ ʈ͡ʂɤŋ˨˩.ʈ͡ʂɤŋ˨˩˦ u˨˩˦ tu˥˩, t͡ʂʰu˥.mən˧˥ t͡ɕʰjɛn˧˥ i˧˥.tiŋ˥˩ jaʊ̯˥˩ t͡ɕi˥˩.tɤ twɔ˥ t͡ʂʰwan˥ i˥ t͡ɕjɛn˥˩ xoʊ̯˥˩ waɪ̯˥˩.tʰaʊ̯˥˩ i˨˩˦.fɑŋ˧˥ kan˨˩.maʊ̯˥˩] (Jīn-tiān zǎo-chén de qì-wēn bǐ zuó-tiān dī le zhěng-zhěng wǔ dù, chū-mén qián yí-dìng yào jì-de duō chuān yí jiàn hòu wài-tào yǐ-fáng gǎn-mào.)",
+          "translation": "The temperature this morning is a full five degrees lower than yesterday; definitely remember to put on an extra thick coat before going out to prevent catching a cold."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (14.1.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "经过近一年的刻苦学习，大卫的汉语听力与口语表达能力比刚来中国时有了更显著的提高。(Jīngguò jìn yì nián de kèkǔ xuéxí, Dàwèi de Hànyǔ tīnglì yǔ kǒuyǔ biǎodá nénglì bǐ gāng lái Zhōngguó shí yǒu le gèng xiǎnzhù de tígāo.)",
+          "reading": "[t͡ɕiŋ˥.kwo˥˩ t͡ɕin˥˩ i˥˩ njɛn˧˥ tɤ kʰɤ˥˩.kʰu˨˩˦ ɕɥɛ˧˥.ɕi˧˥, ta˥˩.weɪ̯˥˩ tɤ xan˥˩.y˨˩ tʰiŋ˥.li˥˩ y˨˩˦ kʰoʊ̯˨˩.y˨˩˦ pjaʊ̯˨˩.ta˧˥ nɤŋ˧˥.li˥˩ pi˨˩˦ kɑŋ˥ laɪ̯˧˥ ʈ͡ʂʊŋ˥.kwɔ˧˥ ʂɨ˧˥ joʊ̯˨˩˦ lɤ kɤŋ˥˩ ɕjan˨˩˦.ʈ͡ʂu˥˩ tɤ tʰi˧˥.kaʊ̯˥] (Jīng-guò jìn yì nián de kè-kǔ xué-xí, Dà-wèi de Hàn-yǔ tīng-lì yǔ kǒu-yǔ biǎo-dá néng-lì bǐ gāng lái Zhōng-guó shí yǒu le gèng xiǎn-zhù de tí-gāo.)",
+          "translation": "After nearly a year of assiduous study, David's Chinese listening and spoken expression skills have achieved a more remarkable improvement compared to when he first arrived in China."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (14.1.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "乘坐复兴号高速动车从北京到上海仅需四个半小时，比普通的普速列车缩短了整整十个小时。(Chéngzuò Fùxīnghào gāosù dòngchē cóng Běijīng dào Shànghǎi jǐn xū sì ge bàn xiǎoshí, bǐ pǔtōng de pǔsù lièchē suōduǎn le zhěngzhěng shí ge xiǎoshí.)",
+          "reading": "[ʈ͡ʂʰəŋ˧˥.t͡swoʊ̯˥˩ fu˥˩.ɕiŋ˥.xaʊ̯˥˩ kaʊ̯˥.su˥˩ tʊŋ˥˩.t͡ʂʰɤ˥ t͡sʰʊŋ˧˥ peɪ̯˨˩.t͡ɕiŋ˥ taʊ̯˥˩ ʂɑŋ˥˩.xaɪ̯˨˩˦ t͡ɕin˨˩˦ ɕy˥ sɨ˥˩ kɤ pan˥˩ ɕjaʊ̯˨˩.ʂɨ˧˥, pi˨˩˦ pʰu˨˩.tʰʊŋ˥ tɤ pʰu˨˩.su˥˩ ljɛ˥˩.t͡ʂʰɤ˥ swɔ˥.twan˨˩˦ lɤ ʈ͡ʂɤŋ˨˩.ʈ͡ʂɤŋ˨˩˦ ʂɨ˧˥ kɤ ɕjaʊ̯˨˩.ʂɨ˧˥] (Chéng-zuò Fù-xīng-hào gāo-sù dòng-chē cóng Běi-jīng dào Shàng-hǎi jǐn xū sì ge bàn xiǎo-shí, bǐ pǔ-tōng de pǔ-sù liè-chē suō-duǎn le zhěng-zhěng shí ge xiǎo-shí.)",
+          "translation": "Taking the Fuxing high-speed train from Beijing to Shanghai only takes four and a half hours, which has shortened the travel time by a full ten hours compared to ordinary regular trains."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "比字句前莫加很，更和还要可助阵；差异多少放词后，一点得多数量准！"
+      ],
+      "culturalNotes": [
+        "现代汉语「比」字句不仅在日常生活交际中广泛使用，更在描述中国高新科技突破、高铁网络延伸与现代化建设成就中发挥着不可替代的对比论证功能。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「比较句（比/没有/不如/一样） (Comparative Structures)」（第1讲）的标准汉语规范？",
+          "prompt": "在「比」字句中，下列哪一个副词绝对不能出现在谓语形容词前面修饰？",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「比较句（比/没有/不如/一样） (Comparative Structures)」的核心语法法则与应用范例 (14.1.1)。",
-            "存在语序混乱且虚词误用的病句选项 (14.1.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (14.1.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (14.1.w3)"
+            "很 / 非常 (Strictly forbidden absolute degree adverbs in '比' sentences)",
+            "更",
+            "还要",
+            "略微"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「比」字句中形容词前严禁加「很/非常/十分」等绝对程度副词。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "要表达「哥哥的年龄大于弟弟三岁」，完全符合语法规范的句子是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "哥哥比弟弟大三岁。(A + 比 + B + 形容词 + 数量词补语)",
+            "哥哥比弟弟很大三岁。",
+            "哥哥三大岁比弟弟。",
+            "哥哥比三岁大弟弟。"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "具体差异数量词必须置于形容词之后：大三岁。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「比较句（比/没有/不如/一样） (Comparative Structures)」的正式语境下，最准确得体的表达是哪一项？（第14.1题）",
+          "prompt": "表达两者的差异量极其悬殊巨大时，正确的补语形式是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (14.1.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (14.1.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (14.1.x2)",
-            "量词与名词修饰搭配错误的病句选项 (14.1.x3)"
+            "这台新电脑比旧电脑快得多 / 快多了 (Complement of vast difference: 得多/多了)",
+            "这台新电脑比旧电脑很快。",
+            "这台新电脑非常比旧电脑快。",
+            "这台新电脑比旧电脑快很。"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "差异量巨大时在形容词后加「得多」或「多了」。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u14-l1）所要求的高阶语言表达？",
+          "prompt": "下列哪一项「比」字句完全符合现代汉语语法规则？",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (14.1.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (14.1.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (14.1.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (14.1.y3)"
+            "这件衣服比那件漂亮得多，价格也更实惠。(Strict compliance with comparative syntax)",
+            "这件衣服比那件很漂亮，价格也非常实惠。",
+            "这件衣服十分比那件漂亮。",
+            "这件衣服比那件太漂亮得多。"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "首选选项在形容词后用「得多」，第二分句用相对副词「更」，完全正确。"
         }
       ]
     },
@@ -8182,25 +8186,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「比较句（比/没有/不如/一样） (Comparative Structures)」的掌握程度，请选出表述完全正确的标准范句（测试 14-1）：",
+          "prompt": "请选出下列比较句中语法结构最严谨、差异量补充表达最规范的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (14.1.4)。",
-            "被动句式与处置句式混用导致的严重病句 (14.1.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (14.1.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (14.1.z3)"
+            "随着工业互联网技术的升级，新建自动化车间的生产效率比传统车间提高了整整两倍，废品率也比以往降低了许多。(数量补语与概略补语使用典范)",
+            "自动化车间比传统车间很提高，废品率非常降低。(严重语法病句)",
+            "自动化车间十分比传统车间提高两倍。(虚词位置严重颠倒)",
+            "自动化车间比两倍提高传统车间。(语序彻底混乱)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该句在比较主体、比较对象、谓语动词及后置数量补语的配合上堪称现代汉语比较句的最高规范。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u14-l1）的核心关键词（例如「比较句（」）：",
+          "prompt": "请输入现代汉语差比句中作为比较标志的核心单字介词（拼音为 bǐ）：",
           "acceptedAnswers": [
-            "比较句（",
-            "比较句（比/",
-            "比较句（比/没有/不如/一样）"
+            "比"
           ],
-          "explanation": "正确的核心关键词为「比较句（」。"
+          "explanation": "字词「比」是现代汉语比较句的核心标记词。"
         }
       ],
       "passThreshold": 0.8
@@ -8211,85 +8213,89 @@
     "subject": "mandarin",
     "unit": 14,
     "lessonNumber": 2,
-    "title": "比较句（比/没有/不如/一样） (Comparative Structures) (第2讲)",
+    "title": "否定比较句精微语义对立：不比 (Bù bǐ) vs 没有 (Méiyǒu) vs 不如 (Bùrú) (Negative Comparatives: Bu bi, Meiyou & Bùrú)",
     "level": "A2",
-    "objective": "全面掌握与熟练运用本课核心内容：汉语四大比较句型（A比B更...、A没有B...、A不如B...、A跟B一样...）的句法制约。 (第2部分)。",
+    "objective": "深刻领会汉语三大否定比较句型（没有/不比/不如）的句法语义对立：熟练辨析客观不及（没有）、反驳抗辩（不比）与主观劣选（不如）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在现代汉语否定比较范畴中，「没有」、「不比」与「不如」具有鲜明的句法语义分工与深层语用功能对立：\n\n一、「A 没有 B + (那么/这么) + 形容词」：客观不及句\n- 语义功能：客观陈述 A 在某种属性或程度上低于 B（B 达到了某一标准，而 A 尚未达到）。\n- 范例说明：今天没有昨天那么热、我的发音没有播音员那么标准、这台设备没有那台耗电。\n\n二、「A 不比 B + 形容词」：辩驳反驳句（不相上下或超越）\n- 语义功能：具有强烈的反驳性或辩护性语气，强调「A 并不比 B 差，A 与 B 程度相当，甚至 A 可能比 B 更好」！\n- 范例说明：我不比你笨，只要肯下功夫我也能学好、这件国产品牌的质量绝不比进口大牌差。\n\n三、「A 不如 B + (形容词/动词短语)」：主观评价与劣选不及句\n- 语义功能：强调在质量、品质、造诣或行为决策上 A 赶不上 B，具有鲜明的褒贬评价与优先选择意味。\n- 范例说明：在古典诗词鉴赏方面我远不如王教授、与其在寝室虚度光阴，不如去图书馆研读典籍。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「比较句（比/没有/不如/一样） (Comparative Structures)」的核心语法法则与应用范例 (14.2.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '比较句（比/没有/不如/一样） (Comparative Structures)' in simple terms to students at the academic seminar."
+          "target": "今天的风沙天气虽然很大，但是气温没有昨天那么寒冷刺骨，大家不必过于担心。(Jīntiān de fēngshā tiānqì suīrán hěn dà, dànshì qìwēn méiyǒu zuótiān nàme hánlěng cìgǔ, dàjiā búbì guòyú dānxīn.)",
+          "reading": "[t͡ɕin˥.tʰjɛn˥ tɤ fɤŋ˥.ʂa˥ tʰjɛn˥.t͡ɕʰi˥˩ sweɪ̯˧˥.ʐan˧˥ xən˨˩.ta˥˩, tan˥˩.ʂɨ˥˩ t͡ɕʰi˥˩.wən˥ meɪ̯˧˥.joʊ̯˨˩˦ t͡swɔ˧˥.tʰjɛn˥ na˥˩.mɤ xan˧˥.lɤŋ˨˩˦ t͡sʰɨ˥.ku˨˩˦, ta˥˩.t͡ɕja˥ pu˥.pi˥˩ kwo˥˩.y˧˥ tan˥.ɕin˥] (Jīn-tiān de fēng-shā tiān-qì suī-rán hěn dà, dàn-shì qì-wēn méi-yǒu zuó-tiān nà-me hán-lěng cì-gǔ, dà-jiā bú-bì guò-yú dān-xīn.)",
+          "translation": "Although today's sandstorm weather is quite heavy, the temperature is not as piercingly cold as yesterday, so everyone doesn't need to be overly worried."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (14.2.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "我们的研发团队虽然年轻，但技术创新实力与攻坚意志绝不比任何国际同行差！(Wǒmen de yánfā tuánduì suīrán niánqīng, dàn jìshù chuàngxīn shílì yǔ gōngjiān yìzhì jué bù bǐ rènhé guójì tóngháng chà!)",
+          "reading": "[wɔ˨˩.mən tɤ jan˧˥.fa˥ tʰwan˧˥.tweɪ̯˥˩ sweɪ̯˧˥.ʐan˧˥ njɛn˧˥.t͡ɕʰiŋ˥, tan˥˩ t͡ɕi˥˩.ʂu˥˩ t͡ʂʰwaŋ˥˩.ɕin˥ ʂɨ˧˥.li˥˩ y˨˩˦ kʊŋ˥.t͡ɕjɛn˥ i˥˩.ʈ͡ʂɨ˥˩ t͡ɕɥɛ˧˥ pu˥ pi˨˩˦ ʐən˥˩.xɤ˧˥ kwo˧˥.t͡ɕi˥˩ tʰʊŋ˧˥.xɑŋ˧˥ t͡ʂʰa˥˩] (Wǒ-men de yán-fā tuán-duì suī-rán nián-qīng, dàn jì-shù chuàng-xīn shí-lì yǔ gōng-jiān yì-zhì jué bù bǐ rèn-hé guó-jì tóng-háng chà!)",
+          "translation": "Although our R&D team is young, our technological innovation strength and tackling willpower are definitely no worse than any international peers!"
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (14.2.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "与其在网络上盲目争论不休，不如静下心来多读几本经典学术专著以提升个人修养。(Yǔqí zài wǎnglù shang mángmù zhēnglùn bùxiū, bùrú jìng xià xīn lai duō dú jǐ běn jīngdiǎn xuéshù zhuānzhù yǐ tíshēng gèrén xiūyǎng.)",
+          "reading": "[y˨˩˦.t͡ɕʰi˧˥ t͡saɪ̯˥˩ wɑŋ˨˩˦.lu˥˩ ʂɑŋ maŋ˧˥.mu˥˩ ʈ͡ʂəŋ˥.lwen˥˩ pu˥.ɕjoʊ̯˥, pu˥.ʐu˧˥ t͡ɕiŋ˥˩ ɕja˥˩ ɕin˥ laɪ̯ twɔ˥ tu˧˥ t͡ɕi˨˩˦ pən˨˩˦ t͡ɕiŋ˥.tjɛn˨˩˦ ɕɥɛ˧˥.ʂu˥˩ ʈ͡ʂwan˥.ʈ͡ʂu˥˩ i˨˩˦ tʰi˧˥.ʂəŋ˥ kɤ˥˩.ʐən˧˥ ɕjoʊ̯˥.jɑŋ˨˩˦] (Yǔ-qí zài wǎng-lù shang máng-mù zhēng-lùn bù-xiū, bù-rú jìng xià xīn lai duō dú jǐ běn jīng-diǎn xué-shù zhuān-zhù yǐ tí-shēng gè-rén xiū-yǎng.)",
+          "translation": "Rather than blindly arguing endlessly on the internet, it is better to calm down and read more classic academic monographs to enhance personal accomplishment."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (14.2.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "这家老字号餐馆的环境装潢虽然没有现代化大酒店那么奢华，但菜肴的传统地道风味却远胜一筹。(Zhè jiā lǎozìhào cānguǎn de huánjìng zhuānghuáng suīrán méiyǒu xiàndàihuà dà jiǔdiàn nàme shēhuá, dàn càiyáo de chuántǒng dìdao fēngwèi què yuǎn shèng yì chóu.)",
+          "reading": "[ʈ͡ʂɤ˥˩ t͡ɕja˥ laʊ̯˨˩˦.t͡sɨ˥˩.xaʊ̯˥˩ t͡sʰɑŋ˥.kwan˨˩˦ tɤ xwan˧˥.t͡ɕiŋ˥˩ ʈ͡ʂwaŋ˥.xwaŋ˧˥ sweɪ̯˧˥.ʐan˧˥ meɪ̯˧˥.joʊ̯˨˩˦ ɕjɛn˥˩.taɪ̯˥˩.xwa˥˩ ta˥˩ t͡ɕjoʊ̯˨˩.tjɛn˨˩˦ na˥˩.mɤ ʂɤ˥.xwa˧˥, tan˥˩ t͡sʰaɪ̯˥˩.jaʊ̯˧˥ tɤ t͡ʂʰwan˧˥.tʰʊŋ˧˥ ti˥˩.taʊ̯ fɤŋ˥.weɪ̯˥˩ t͡ɕʰɥɛ˥˩ jɥɛn˨˩˦ ʂəŋ˥˩ i˥ ʈ͡ʂʰoʊ̯˧˥] (Zhè jiā lǎo-zì-hào cān-guǎn de huán-jìng zhuāng-huáng suī-rán méi-yǒu xiàn-dài-huà dà jiǔ-diàn nà-me shē-huá, dàn cài-yáo de chuán-tǒng dì-dao fēng-wèi què yuǎn shèng yì chóu.)",
+          "translation": "Although the environmental decor of this time-honored restaurant is not as luxurious as modern grand hotels, the traditional authentic flavor of its dishes is far superior."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "没有客观说不足，不比反驳表不输；不如主观评优劣，辨析精微用语纯！"
+      ],
+      "culturalNotes": [
+        "否定比较的选词体现了深厚的语用艺术。在日常社交与商务谈判中，熟练切换「没有」的委婉中立与「不比」的自信坚毅，是汉语高阶语用能力的核心体现。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「比较句（比/没有/不如/一样） (Comparative Structures)」（第2讲）的标准汉语规范？",
+          "prompt": "在辩论中反驳对方观点，表达「本产品的质量并不比任何竞争对手差」时，最准确的句式是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「比较句（比/没有/不如/一样） (Comparative Structures)」的核心语法法则与应用范例 (14.2.1)。",
-            "存在语序混乱且虚词误用的病句选项 (14.2.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (14.2.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (14.2.w3)"
+            "本产品的质量绝不比任何对手差！ (Refutational '不比' indicating equality/superiority)",
+            "本产品的质量没有对手好。",
+            "本产品的质量不如对手。",
+            "本产品的质量比对手更差。"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「不比......差」带有明确的反驳与肯定自信语气。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在客观陈述「今天的天气没有昨天热」时，句中的「没有」表达的是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "今天的热度未达到昨天的程度（客观不及） (Objective inferiority in degree)",
+            "今天比昨天更热",
+            "今天和昨天完全一样热",
+            "昨天一点儿都不热"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「A 没有 B + 形容词」表示 A 的程度低于 B。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「比较句（比/没有/不如/一样） (Comparative Structures)」的正式语境下，最准确得体的表达是哪一项？（第14.2题）",
+          "prompt": "在复句关联词框架「与其......不如......」中，「不如」所引导的分句表达的是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (14.2.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (14.2.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (14.2.x2)",
-            "量词与名词修饰搭配错误的病句选项 (14.2.x3)"
+            "说话人经过权衡后认为更优、更值得采取的选择 (Preferred/superior alternative)",
+            "说话人坚决放弃的糟糕选项",
+            "与前句完全相同的事情",
+            "毫无意义的废话"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「与其 A 不如 B」表示放弃 A 而选择更优方案 B。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u14-l2）所要求的高阶语言表达？",
+          "prompt": "下列哪一项否定比较句的运用完全符合现代汉语语用逻辑？",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (14.2.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (14.2.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (14.2.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (14.2.y3)"
+            "尽管条件艰苦，但大家的科研热情绝不比在优越实验室里低。(Expressing unyielding spirit via '不比')",
+            "大家的科研热情没有比在优越实验室里高。",
+            "大家的科研热情不如在优越实验室里更低。",
+            "大家的科研热情不比在优越实验室里高得很。"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「绝不比......低」反驳困难，表达坚强毅力，语用极其贴切。"
         }
       ]
     },
@@ -8297,25 +8303,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「比较句（比/没有/不如/一样） (Comparative Structures)」的掌握程度，请选出表述完全正确的标准范句（测试 14-2）：",
+          "prompt": "请选出下列否定比较句中语义最精准、语用色彩最得体的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (14.2.4)。",
-            "被动句式与处置句式混用导致的严重病句 (14.2.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (14.2.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (14.2.z3)"
+            "我们青年一代虽然起步稍晚，但求知探索的精神绝不比任何人逊色，在未来的科技竞争中一定能迎头赶上。(反驳性「不比」运用得体，立意高远昂扬)",
+            "我们青年一代不如任何人，没有办法学习。(态度消极自暴自弃)",
+            "我们青年一代不比很差在任何人。(严重语法病句)",
+            "我们青年一代没有任何人那么聪明所以不用努力。(逻辑完全荒谬)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该句准确运用「不比......逊色」表达青年一代奋发图强的坚定信念，语体典雅庄重。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u14-l2）的核心关键词（例如「比较句（」）：",
+          "prompt": "请输入表达在权衡选择中「赶不上 / 相比之下后者更好」的核心双字比较词（例如与其A「」B，拼音为 bùrú）：",
           "acceptedAnswers": [
-            "比较句（",
-            "比较句（比/",
-            "比较句（比/没有/不如/一样）"
+            "不如"
           ],
-          "explanation": "正确的核心关键词为「比较句（」。"
+          "explanation": "词语「不如」是现代汉语中表达主观评价与优选方案的核心比较词。"
         }
       ],
       "passThreshold": 0.8
@@ -8326,85 +8330,89 @@
     "subject": "mandarin",
     "unit": 14,
     "lessonNumber": 3,
-    "title": "比较句（比/没有/不如/一样） (Comparative Structures) (第3讲)",
+    "title": "等同与相似比较句（A跟B一样/差不多/相似/如同） (Equality & Similarity Comparatives)",
     "level": "A2",
-    "objective": "全面掌握与熟练运用本课核心内容：汉语四大比较句型（A比B更...、A没有B...、A不如B...、A跟B一样...）的句法制约。 (第3部分)。",
+    "objective": "系统掌握现代汉语等同比较句式（A跟B一样+形容词）、否定式（不一样）及近似比拟句式（差不多/相似/如同），熟练进行事物同异分析。",
     "presentation": {
-      "explanation": "",
+      "explanation": "等同与相似比较句是现代汉语中用于表达两者在性质、特征或状态上具有一致性或高度相仿性的重要语法体系：\n\n一、「A 跟/和/同/与 B 一样 + (形容词)」基本句型：\n- 句法框架：比较主体 (A) + 介词 (跟/和/同/与) + 比较对象 (B) + 一样 + (形容词/动词短语)。\n- 范例说明：大卫的中文说得跟中国人一样流利、这件大衣的颜色跟我买的那件完全一样。\n- 否定形式：A 跟 B 不一样（例如「南北方的生活习惯很不合，有很多不一样的地方」）。\n\n二、近似、相仿与比拟句型拓展：\n1.「A 跟 B 差不多 (+ 形容词)」：表示两者的差距微乎其微、大体相当。\n- 范例说明：这本书的难易程度跟上一册差不多、他的身高跟我差不多高。\n2.「A 与 B 极其相似 / 相仿 / 大同小异」：书面语中表达特征高度接近。\n- 范例说明：这两个算法模型的底层逻辑极其相似。\n3.「A 如同 / 犹如 B 一般 / 似的」：文学修辞中的比拟等同句。\n- 范例说明：高铁列车平稳飞驰，车厢内安静得如同图书馆一般。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「比较句（比/没有/不如/一样） (Comparative Structures)」的核心语法法则与应用范例 (14.3.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '比较句（比/没有/不如/一样） (Comparative Structures)' in simple terms to students at the academic seminar."
+          "target": "这对孪生姐妹不仅长相一模一样，而且说话的声音和开朗的性格也跟彼此完全一样。(Zhè duì luánshēng jiěmèi bùjǐn zhǎngxiàng yìmú yíyàng, érqiě shuōhuà de shēngyīn hé kāilǎng de xìnggé yě gēn bǐcǐ wánquán yíyàng.)",
+          "reading": "[ʈ͡ʂɤ˥˩ tweɪ̯˥˩ lwan˧˥.ʂəŋ t͡ɕjɛ˨˩˦.meɪ̯˥˩ pu˥.t͡ɕin˨˩˦ ʈ͡ʂɑŋ˨˩˦.ɕjaŋ˥˩ i˥.mu˧˥ i˥.jɑŋ˥˩, aɚ˥˩.t͡ɕʰjɛ˨˩˦ ʂwɔ˥.xwa˥˩ tɤ ʂəŋ˥.in˥ xɤ˧˥ kʰaɪ̯˥.lɑŋ˨˩˦ tɤ ɕiŋ˥˩.kɤ˧˥ jɛ˨˩˦ kən˥ pi˨˩.t͡sʰɨ˨˩˦ wan˧˥.t͡ɕʰyɛn˧˥ i˥.jɑŋ˥˩] (Zhè duì luán-shēng jiě-mèi bù-jǐn zhǎng-xiàng yì-mú yí-yàng, ér-qiě shuō-huà de shēng-yīn hé kāi-lǎng de xìng-gé yě gēn bǐ-cǐ wán-quán yí-yàng.)",
+          "translation": "This pair of twin sisters not only look completely identical, but their speaking voices and cheerful personalities are also entirely the same as each other."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (14.3.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "现代高铁车厢内的平稳度与舒适度跟坐在自家的客厅里差不多，甚至感觉不到列车正在飞速奔驰。(Xiàndài gāotiě chēxiāng nèi de píngwěndù yǔ shūshìdù gēn zuò zài zìjiā de kètīng lǐ chàbuduō, shènzhì gǎnjué búdào lièchē zhèngzài fēisù bēnchí.)",
+          "reading": "[ɕjɛn˥˩.taɪ̯˥˩ kaʊ̯˥.tʰjɛ˨˩˦ ʈ͡ʂʰɤ˥.ɕjaŋ˥ neɪ̯˥˩ tɤ pʰiŋ˧˥.wən˨˩.tu˥˩ y˨˩˦ ʂu˥.ʂɨ˥˩.tu˥˩ kən˥ t͡swoʊ̯˥˩ t͡saɪ̯˥˩ t͡sɨ˥˩.t͡ɕja˥ tɤ kʰɤ˥˩.tʰiŋ˥ li˨˩˦ t͡ʂʰa˥.pu.twɔ˥, ʂən˥˩.ʈ͡ʂɨ˥˩ kan˨˩.t͡ɕɥɛ˧˥ pu˥.taʊ̯˥˩ ljɛ˥˩.t͡ʂʰɤ˥ ʈ͡ʂəŋ˥˩.t͡saɪ̯˥˩ feɪ̯˥.su˥˩ pən˥.ʈ͡ʂʰɨ˧˥] (Xiàn-dài gāo-tiě chē-xiāng nèi de píng-wěn-dù yǔ shū-shì-dù gēn zuò zài zì-jiā de kè-tīng lǐ chà-bu-duō, shèn-zhì gǎn-jué bú-dào liè-chē zhèng-zài fēi-sù bēn-chí.)",
+          "translation": "The stability and comfort inside modern high-speed train cars are almost the same as sitting in one's own living room, scarcely feeling that the train is speeding along."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (14.3.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "汉字字形演变的历史与中华文明的发展脉络紧密相连，如同两幅交相辉映的壮丽历史画卷。(Hànzì zìxíng yǎnbiàn de lìshǐ yǔ Zhōnghuá wénmíng de fāzhǎn màiluò jǐnmì xiānglián, rútóng liǎng fú jiāoxiāng huìyìng de zhuànglì lìshǐ huàjuàn.)",
+          "reading": "[xan˥˩.t͡sɨ˥˩ t͡sɨ˥˩.ɕiŋ˧˥ jan˨˩˦.pjɛn˥˩ tɤ li˥˩.ʂɨ˨˩˦ y˨˩˦ ʈ͡ʂʊŋ˥.xwa˧˥ wən˧˥.miŋ˧˥ tɤ fa˥.ʈ͡ʂan˨˩˦ maɪ̯˥˩.lwɔ˥˩ t͡ɕin˨˩.mi˥˩ ɕjaŋ˥.ljɛn˧˥, ʐu˧˥.tʰʊŋ˧˥ ljaŋ˨˩˦ fu˧˥ t͡ɕjaʊ̯˥.ɕjaŋ˥ xweɪ̯˥˩.iŋ˥˩ tɤ ʈ͡ʂwaŋ˥˩.li˥˩ li˥˩.ʂɨ˨˩˦ xwa˥˩.t͡ɕɥɛn˥˩] (Hàn-zì zì-xíng yǎn-biàn de lì-shǐ yǔ Zhōng-huá wén-míng de fā-zhǎn mài-luò jǐn-mì xiāng-lián, rú-tóng liǎng fú jiāo-xiāng huì-yìng de zhuàng-lì lì-shǐ huà-juàn.)",
+          "translation": "The history of the evolution of Chinese character glyphs is closely connected with the development thread of Chinese civilization, like two magnificent historical scrolls complementing each other."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (14.3.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "中外两所大学在人才培养理念和教学质量评估体系上大体相同，为开展学分互认提供了坚实基础。(Zhōng-wài liǎng suǒ dàxué zài réncái péiyǎng lǐniàn hé jiàoxué zhìliàng pínggū tǐxì shang dàtǐ xiāngtóng, wèi kāizhǎn xuéfēn hùrèn tígōng le jiānshí jīchǔ.)",
+          "reading": "[ʈ͡ʂʊŋ˥.waɪ̯˥˩ ljaŋ˨˩˦ swɔ˨˩˦ ta˥˩.ɕɥɛ˧˥ t͡saɪ̯˥˩ ʐən˧˥.t͡sʰaɪ̯˧˥ pʰeɪ̯˧˥.jɑŋ˨˩˦ li˨˩.njɛn˥˩ xɤ˧˥ t͡ɕjaʊ̯˥˩.ɕɥɛ˧˥ ʈ͡ʂɨ˥˩.ljaŋ˥˩ pʰiŋ˧˥.ku˥ tʰi˨˩.ɕi˥˩ ʂɑŋ ta˥˩.tʰi˨˩˦ ɕjaŋ˥.tʰʊŋ˧˥, weɪ̯˥˩ kʰaɪ̯˥.ʈ͡ʂan˨˩˦ ɕɥɛ˧˥.fən˥ xu˥˩.ʐən˥˩ tʰi˧˥.kʊŋ˥ lɤ t͡ɕjɛn˥.ʂɨ˧˥ t͡ɕi˥.t͡ʂʰu˨˩˦] (Zhōng-wài liǎng suǒ dà-xué zài rén-cái péi-yǎng lǐ-niàn hé jiào-xué zhì-liàng píng-gū tǐ-xì shang dà-tǐ xiāng-tóng, wèi kāi-zhǎn xué-fēn hù-rèn tí-gōng le jiān-shí jī-chǔ.)",
+          "translation": "The Chinese and foreign universities are largely identical in talent cultivation concepts and teaching quality evaluation systems, providing a solid foundation for credit mutual recognition."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "跟和同与引对象，一样相差无两样；一模一样同胞生，如同犹如画卷长！"
+      ],
+      "culturalNotes": [
+        "「求同存异、美美与共」是中华文明处理多样性文化关系的核心哲学智慧。等同比较句在跨文化交流中常用于寻找中外文化的共通之美。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「比较句（比/没有/不如/一样） (Comparative Structures)」（第3讲）的标准汉语规范？",
+          "prompt": "要表达「大卫的汉语发音跟播音员一样标准」，完全符合等同比较句式的是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「比较句（比/没有/不如/一样） (Comparative Structures)」的核心语法法则与应用范例 (14.3.1)。",
-            "存在语序混乱且虚词误用的病句选项 (14.3.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (14.3.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (14.3.w3)"
+            "大卫的发音跟播音员一样标准。(A + 跟 + B + 一样 + 形容词)",
+            "大卫的发音一样标准跟播音员。",
+            "大卫的发音播音员跟一样标准。",
+            "大卫的发音比播音员一样标准。"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「A + 跟 + B + 一样 + 形容词」是现代汉语等同比较的标准句式。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "形容两件事情或两个物体几乎没有任何区别、极其相似时，最生动的四字成语是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "一模一样 / 大同小异 (Completely identical / substantially similar)",
+            "截然不同",
+            "天差地别",
+            "南辕北辙"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「一模一样」是表达外观或特征完全一致的核心成语。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「比较句（比/没有/不如/一样） (Comparative Structures)」的正式语境下，最准确得体的表达是哪一项？（第14.3题）",
+          "prompt": "在书面语中表达「车厢里安静得好像图书馆一样」，最典雅的比拟修辞句式是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (14.3.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (14.3.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (14.3.x2)",
-            "量词与名词修饰搭配错误的病句选项 (14.3.x3)"
+            "车厢内安静得如同图书馆一般 (Elegant simile construction with '如同...一般')",
+            "车厢内安静得比图书馆一样。",
+            "车厢内安静得跟图书馆很一样。",
+            "车厢内安静得图书馆差不多。"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「如同......一般」是典雅的书面语比拟修辞结构。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u14-l3）所要求的高阶语言表达？",
+          "prompt": "下列哪一项表达了两者在核心观点上的高度一致性？",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (14.3.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (14.3.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (14.3.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (14.3.y3)"
+            "两位教授在学术创新理念上的看法完全一致。(Identical views)",
+            "两位教授的看法截然相反。",
+            "两位教授谁也不理谁。",
+            "两位教授毫无共同语言。"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「完全一致」准确表达了等同与高度吻合。"
         }
       ]
     },
@@ -8412,25 +8420,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「比较句（比/没有/不如/一样） (Comparative Structures)」的掌握程度，请选出表述完全正确的标准范句（测试 14-3）：",
+          "prompt": "请选出下列等同与相似比较句中语法结构最规范、修辞色彩最典雅的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (14.3.4)。",
-            "被动句式与处置句式混用导致的严重病句 (14.3.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (14.3.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (14.3.z3)"
+            "经过多年的学术交流，两校在科研管理与人才培养机制上已经建立起了如同孪生兄弟般紧密的战略合作关系。(比拟修辞与等同关系结合极为自然生动)",
+            "两校一样在管理上跟孪生兄弟。(语法支离破碎)",
+            "两校的管理差不多很一样在兄弟。(词汇杂糅不通)",
+            "两校如同一样在科研上。(残缺病句)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该句语法完整，比拟贴切，兼具学术严谨性与文学修辞美感。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u14-l3）的核心关键词（例如「比较句（」）：",
+          "prompt": "请输入表达两者完全相同、毫无差别的核心两字词语（例如「」一样，拼音为 yíyàng）：",
           "acceptedAnswers": [
-            "比较句（",
-            "比较句（比/",
-            "比较句（比/没有/不如/一样）"
+            "一样"
           ],
-          "explanation": "正确的核心关键词为「比较句（」。"
+          "explanation": "词语「一样」是现代汉语中表达等同比较的核心词汇。"
         }
       ],
       "passThreshold": 0.8
@@ -8441,85 +8447,89 @@
     "subject": "mandarin",
     "unit": 14,
     "lessonNumber": 4,
-    "title": "比较句（比/没有/不如/一样） (Comparative Structures) (第4讲)",
+    "title": "递进与关联比较句（越......越...... / 愈......愈...... / 一代比一代） (Progressive & Correlative Comparatives)",
     "level": "A2",
-    "objective": "全面掌握与熟练运用本课核心内容：汉语四大比较句型（A比B更...、A没有B...、A不如B...、A跟B一样...）的句法制约。 (第4部分)。",
+    "objective": "系统掌握条件递进关联比较句（越A越B / 愈...愈...）及纵向时序递进差比句（一年比一年 / 一代比一代），熟练进行动态发展演变趋势分析。",
     "presentation": {
-      "explanation": "",
+      "explanation": "递进与关联比较句用于表达某一种状态、程度随着时间推移或某一前提条件的变化而产生连续、深化的递增变化：\n\n一、「越 + A + 越 + B」关联递进句型体系：\n1. 条件随动型（B 随 A 程度加深而加深）：\n- 句法框架：主语 + 越 + [动词/形容词 A] + (就) 越 + [形容词/动词 B]。\n- 范例说明：汉语学得越深，就越能体会到文字之美；站得越高，看得越远。\n2. 时间演进型（「越来越 + 形容词」）：\n- 句法框架：主语 + 越来越 + 形容词/心理动词。\n- 范例说明：天气越来越暖和了、城市的基础设施越来越完善了。\n\n二、书面语典雅形式「愈......愈...... / 愈发......」：\n- 句法特点：多用于庄重典雅书面语与成语结构中：\n- 愈挫愈勇（越受挫折越有勇气）、愈演愈烈、愈发繁荣昌盛、愈加坚定。\n\n三、名词重叠纵向差比推进句型：\n- 句法框架：[时间/代际名词重叠] + 比 + [同名词] + (更) + 形容词。\n- 范例说明：人民的生活水平一年比一年好、年轻一代比一代更有朝气与担当、技术迭代一步比一步坚实。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「比较句（比/没有/不如/一样） (Comparative Structures)」的核心语法法则与应用范例 (14.4.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '比较句（比/没有/不如/一样） (Comparative Structures)' in simple terms to students at the academic seminar."
+          "target": "汉语学习是一个渐进的过程，你对中国历史文化了解得越深入，就越能体会到中华文明的独特魅力。(Hànyǔ xuéxí shì yí ge jiànjìn de guòchéng, nǐ duì Zhōngguó lìshǐ wénhuà liǎojiě de yuè shēnrù, jiù yuè néng tǐhuì dào Zhōnghuá wénmíng de dútè mèilì.)",
+          "reading": "[xan˥˩.y˨˩ ɕɥɛ˧˥.ɕi˧˥ ʂɨ˥˩ i˥ kɤ t͡ɕjɛn˥˩.t͡ɕin˥˩ tɤ kwo˥˩.ʈ͡ʂʰəŋ˧˥, ni˨˩˦ tweɪ̯˥˩ ʈ͡ʂʊŋ˥.kwɔ˧˥ li˥˩.ʂɨ˨˩˦ wən˧˥.xwa˥˩ ljaʊ̯˨˩.t͡ɕjɛ˨˩˦ tɤ jɥɛ˥˩ ʂən˥.ʐu˥, t͡ɕjoʊ̯˥˩ jɥɛ˥˩ nɤŋ˧˥ tʰi˨˩.xweɪ̯˥˩ taʊ̯˥˩ ʈ͡ʂʊŋ˥.xwa˧˥ wən˧˥.miŋ˧˥ tɤ tu˧˥.tʰɤ˥˩ meɪ̯˥˩.li˥˩] (Hàn-yǔ xué-xí shì yí ge jiàn-jìn de guò-chéng, nǐ duì Zhōng-guó lì-shǐ wén-huà liǎo-jiě de yuè shēn-rù, jiù yuè néng tǐ-huì dào Zhōng-huá wén-míng de dú-tè mèi-lì.)",
+          "translation": "Chinese learning is a gradual process; the more deeply you understand Chinese history and culture, the more you can appreciate the unique charm of Chinese civilization."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (14.4.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "面对科研攻关中的重重险阻，青年科学家们愈挫愈勇，终于在芯片核心算法领域取得了重大突破。(Miànduì kēyán gōngjiān zhōng de chóngchóng xiǎnzǔ, qīngnián kēxuéjiāmen yù cuò yù yǒng, zhōngyú zài xīnpiàn héxīn suànfǎ lǐngyù qǔdé le zhòngdà tūpò.)",
+          "reading": "[mjɛn˥˩.tweɪ̯˥˩ kʰɤ˥.jan˧˥ kʊŋ˥.t͡ɕjɛn˥ ʈ͡ʂʊŋ˥ tɤ ʈ͡ʂʰʊŋ˧˥.ʈ͡ʂʰʊŋ˧˥ ɕjan˨˩.t͡su˨˩˦, t͡ɕʰiŋ˥.njɛn˧˥ kʰɤ˥.ɕɥɛ˧˥.t͡ɕja˥.mən jy˥˩ t͡sʰwɔ˥˩ jy˥˩ jʊŋ˨˩˦, ʈ͡ʂʊŋ˥.y˧˥ t͡saɪ̯˥˩ ɕin˥.pʰjɛn˥˩ xɤ˧˥.ɕin˥ swan˥˩.fa˨˩˦ liŋ˨˩.y˥˩ t͡ɕʰy˨˩˦.tɤ˧˥ lɤ ʈ͡ʂʊŋ˥˩.ta˥˩ tʰu˥.pʰwɔ˥˩] (Miàn-duì kē-yán gōng-jiān zhōng de chóng-chóng xiǎn-zǔ, qīng-nián kē-xué-jiā-men yù cuò yù yǒng, zhōng-yú zài xīn-piàn hé-xīn suàn-fǎ lǐng-yù qǔ-dé le zhòng-dà tū-pò.)",
+          "translation": "Facing numerous obstacles in scientific research tackling, young scientists became braver with each setback, finally achieving major breakthroughs in the field of chip core algorithms."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (14.4.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "改革开放以来，我国的综合国力显著增强，人民群众的生活水平一年比一年更加殷实富足。(Gǎigé kāifàng yǐlái, wǒguó de zōnghé guólì xiǎnzhù zēngqiáng, rénmín qúnzhòng de shēnghuó shuǐpíng yì nián bǐ yì nián gèngjiā yīnshí fùzú.)",
+          "reading": "[kaɪ̯˨˩.kɤ˧˥ kʰaɪ̯˥.fɑŋ˥˩ i˨˩.laɪ̯˧˥, wɔ˨˩.kwɔ˧˥ tɤ t͡sʊŋ˥.xɤ˧˥ kwo˧˥.li˥˩ ɕjan˨˩˦.ʈ͡ʂu˥˩ t͡sɤŋ˥.t͡ɕʰjɑŋ˧˥, ʐən˧˥.min˧˥ t͡ɕʰyn˧˥.ʈ͡ʂʊŋ˥˩ tɤ ʂəŋ˥.xwo˧˥ ʂweɪ̯˨˩.pʰiŋ˧˥ i˥˩ njɛn˧˥ pi˨˩˦ i˥˩ njɛn˧˥ kɤŋ˥˩.t͡ɕja˥ in˥.ʂɨ˧˥ fu˥˩.t͡su˧˥] (Gǎi-gé kāi-fàng yǐ-lái, wǒ-guó de zōng-hé guó-lì xiǎn-zhù zēng-qiáng, rén-mín qún-zhòng de shēng-huó shuǐ-píng yì nián bǐ yì nián gèng-jiā yīn-shí fù-zú.)",
+          "translation": "Since the reform and opening up, our country's comprehensive national strength has significantly increased, and the living standards of the people have become more well-off and affluent year by year."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (14.4.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "随着全球化进程的加快，世界各国之间的经贸文化联系比以往任何时候都更加紧密不可分割。(Suízhe quánqiúhuà jìnchéng de jiākuài, shìjiè gèguó zhījiān de jīngmào wénhuà liánxì bǐ yǐwǎng rènhé shíhou dōu gèngjiā jǐnmì bùkě fēngē.)",
+          "reading": "[sweɪ̯˧˥.ʈ͡ʂɤ t͡ɕʰyɛn˧˥.t͡ɕʰjoʊ̯˧˥.xwa˥˩ t͡ɕin˥˩.ʈ͡ʂʰəŋ˧˥ tɤ t͡ɕja˥.kʰwaɪ̯˥˩, ʂɨ˥˩.t͡ɕjɛ˥˩ kɤ˥˩.kwɔ˧˥ ʈ͡ʂɨ˥.t͡ɕjɛn˥ tɤ t͡ɕiŋ˥.maʊ̯˥˩ wən˧˥.xwa˥˩ ljɛn˧˥.ɕi˥˩ pi˨˩˦ i˨˩˦.wɑŋ˨˩˦ ʐən˥˩.xɤ˧˥ ʂɨ˧˥.xoʊ̯ toʊ̯˥ kɤŋ˥˩.t͡ɕja˥ t͡ɕin˨˩.mi˥˩ pu˥.kʰɤ˨˩˦ fən˥.kɤ˥] (Suí-zhe quán-qiú-huà jìn-chéng de jiā-kuài, shì-jiè gè-guó zhī-jiān de jīng-mào wén-huà lián-xì bǐ yǐ-wǎng rèn-hé shí-hou dōu gèng-jiā jǐn-mì bù-kě fēn-gē.)",
+          "translation": "With the acceleration of globalization, the economic, trade, and cultural ties among countries around the world are tighter and more inseparable than ever before."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "越越关联随因变，愈挫愈勇志更坚；一年比一年更美，古往今来万象添！"
+      ],
+      "culturalNotes": [
+        "荀子名言「青出于蓝而胜于蓝，冰水为之而寒于水」体现了中华先贤对后来居上、代代递进的深刻辩证洞察。在现代社会中，「一年比一年好」表达了对繁荣发展的坚定信心。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「比较句（比/没有/不如/一样） (Comparative Structures)」（第4讲）的标准汉语规范？",
+          "prompt": "在复句「你练习得越勤奋，中文口语就会说得越流利」中，「越......越......」表达的逻辑关系是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「比较句（比/没有/不如/一样） (Comparative Structures)」的核心语法法则与应用范例 (14.4.1)。",
-            "存在语序混乱且虚词误用的病句选项 (14.4.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (14.4.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (14.4.w3)"
+            "后者的程度随着前者的程度加深而同步加深 (Correlative progressive deepening)",
+            "前后两件事完全没有关系",
+            "前者越努力后者反而越差",
+            "两者互相排斥不可共存"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「越 A 越 B」表达 B 的发展程度随 A 的增长而正向递进。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "形容在挫折和困难面前不仅不气馁，反而变得更加英勇顽强的典雅成语是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "愈挫愈勇 (Bravier and more resilient with every setback)",
+            "知难而退",
+            "半途而废",
+            "一蹶不振"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「愈挫愈勇」是表达在逆境中越发坚韧刚毅的标准典雅成语。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「比较句（比/没有/不如/一样） (Comparative Structures)」的正式语境下，最准确得体的表达是哪一项？（第14.4题）",
+          "prompt": "表达事物随着时间推移一年接着一年变得更加美好，最标准的重叠递进句式是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (14.4.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (14.4.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (14.4.x2)",
-            "量词与名词修饰搭配错误的病句选项 (14.4.x3)"
+            "一年比一年好 / 一年比一年繁荣 (Progressive year-by-year improvement)",
+            "一年和一年一样好",
+            "一年没有一年好",
+            "一年不如一年好"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「一年比一年 + 形容词」是表达年年向上递增的标准句法结构。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u14-l4）所要求的高阶语言表达？",
+          "prompt": "下列哪一项递进比较句的语法搭配完全正确？",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (14.4.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (14.4.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (14.4.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (14.4.y3)"
+            "随着科技的不断进步，智能设备的操作变得越来越简便人性化。(Standard progressive structure)",
+            "智能设备变得很越来越简便。",
+            "智能设备越来越非常简便。",
+            "智能设备越简便越非常人性化。"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「越来越」后直接加形容词，绝不能再加「很/非常」。"
         }
       ]
     },
@@ -8527,25 +8537,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「比较句（比/没有/不如/一样） (Comparative Structures)」的掌握程度，请选出表述完全正确的标准范句（测试 14-4）：",
+          "prompt": "请选出下列递进与关联比较句中思想境界最高远、句式最典范工整的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (14.4.4)。",
-            "被动句式与处置句式混用导致的严重病句 (14.4.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (14.4.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (14.4.z3)"
+            "学术攀登之路虽充满荆棘，但青年学者们愈挫愈勇，所取得的科研成果一年比一年丰硕，为国家科技强国建设贡献了源源不断的青春力量。(愈挫愈勇、一年比一年丰硕，递进逻辑严密工整)",
+            "科研很难，越来越不想干，一年比一年差。(立意消极语句庸俗)",
+            "青年学者越挫折越非常勇敢在科研里。(语法错误杂糅)",
+            "成果越来越很多在一年比一年。(语病严重混乱)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该句兼备了「愈挫愈勇」的书面语典雅度与「一年比一年」的纵向递进感，展现了极高语言修养。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u14-l4）的核心关键词（例如「比较句（」）：",
+          "prompt": "请输入表达事物程度随时间持续递增的核心三字词语（例如「」好，拼音为 yuèláiyuè）：",
           "acceptedAnswers": [
-            "比较句（",
-            "比较句（比/",
-            "比较句（比/没有/不如/一样）"
+            "越来越"
           ],
-          "explanation": "正确的核心关键词为「比较句（」。"
+          "explanation": "词语「越来越」是现代汉语中指称程度随时间不断加深的核心递进副词短语。"
         }
       ],
       "passThreshold": 0.8
@@ -8556,85 +8564,89 @@
     "subject": "mandarin",
     "unit": 14,
     "lessonNumber": 5,
-    "title": "比较句（比/没有/不如/一样） (Comparative Structures) (第5讲)",
+    "title": "时代变迁、城市发展与科技进步综合对比叙事篇章 (Comprehensive Temporal & Technological Comparison Narrative)",
     "level": "A2",
-    "objective": "全面掌握与熟练运用本课核心内容：汉语四大比较句型（A比B更...、A没有B...、A不如B...、A跟B一样...）的句法制约。 (第5部分)。",
+    "objective": "融会贯通现代汉语四大比较句型（比字句/没有句/不如句/一样句/递进关联句），独立撰写宏阔深邃、论述严密的时代科技发展综合叙事语篇。",
     "presentation": {
-      "explanation": "",
+      "explanation": "将差比（比字句）、客观不及（没有）、主观优选（不如）、等同相仿（一样/差不多）与动态递进（越来越/一年比一年）融会贯通于宏大叙事中，是汉语篇章写作的高阶标志：\n\n一、时代变迁与科技腾飞综合对比篇章架构：\n1. 基础设施今昔纵向差比：现在的现代交通网络比几十年前发达得多，高铁运营里程跃居世界前列。\n2. 现代数字生活与过往对比：移动支付与智能生活让办事越来越便捷，完全没有过去的排长队奔波之苦。\n3. 高铁与航空舒适度等同与超越：中国高铁的平稳舒适度跟坐在家中客厅一样惬意，且准点率远比航空出行更有保障。\n4. 时代愿景与青年使命递进升华：祖国的发展一年比一年更加繁荣昌盛，青年学子拥有的时代舞台比以往任何时候都更加广阔辉煌！\n\n二、全景式时代变迁与科技飞跃对比范文赏析：\n- 漫步在今日北京的现代化街头，纵观今昔巨变，令人感慨万千。现在的城市交通网络比几十年前发达得多，四通八达的地铁与纵横交错的立交桥让市民的出行效率比过去大幅提升。数字化与移动支付的普及，让人们的生活变得越来越便捷智能，如今出门一部手机便能畅行无阻，完全没有了以往随身携带现金与排长队结账的繁琐。登上平稳飞驰的复兴号高铁，车厢内的安静与舒适度跟坐在自家的客厅里差不多，而其风雨无阻的准点率与高性价比甚至远比民航客机更具优势。科技的飞速腾飞让国家的发展一年比一年更加繁荣富强，我们青年一代所拥有的施展才华的时代舞台，也比以往任何历史时期都更加宽广壮丽！",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「比较句（比/没有/不如/一样） (Comparative Structures)」的核心语法法则与应用范例 (14.5.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '比较句（比/没有/不如/一样） (Comparative Structures)' in simple terms to students at the academic seminar."
+          "target": "今昔对比，现在的北京城市交通网络比几十年前发达得多，地铁线路总里程已跃居世界前列。(Jīnxī duìbǐ, xiànzài de Běijīng chéngshì jiāotōng wǎngluò bǐ jǐshí nián qián fādá de duō, dìtiě xiànlù zǒng lǐchéng yǐ yuèjū shìjiè qiánliè.)",
+          "reading": "[t͡ɕin˥.ɕi˥ tweɪ̯˥˩.pi˨˩˦, ɕjɛn˥˩.t͡saɪ̯˥˩ tɤ peɪ̯˨˩.t͡ɕiŋ˥ ʈ͡ʂʰəŋ˧˥.ʂɨ˥˩ t͡ɕjaʊ̯˥.tʰʊŋ˥ wɑŋ˨˩˦.lwɔ˥˩ pi˨˩˦ t͡ɕi˨˩˦.ʂɨ˧˥ njɛn˧˥ t͡ɕʰjɛn˧˥ fa˥.ta˧˥ tɤ twɔ˥, ti˥˩.tʰjɛ˨˩˦ ɕjɛn˥˩.lu˥˩ t͡sʊŋ˨˩˦ li˨˩.ʈ͡ʂʰəŋ˧˥ i˨˩˦ jɥɛ˥˩.t͡ɕy˥ ʂɨ˥˩.t͡ɕjɛ˥˩ t͡ɕʰjɛn˧˥.ljɛ˥˩] (Jīn-xī duì-bǐ, xiàn-zài de Běi-jīng chéng-shì jiāo-tōng wǎng-luò bǐ jǐ-shí nián qián fā-dá de duō, dì-tiě xiàn-lù zǒng lǐ-chéng yǐ yuè-jū shì-jiè qián-liè.)",
+          "translation": "Comparing past and present, the current urban transportation network of Beijing is much more developed than decades ago, with the total subway mileage leaping to the forefront of the world."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (14.5.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "移动支付的普及让人们的生活变得越来越便捷，现在的出门购物体验完全没有过去排长队结账的繁琐。(Yídòng zhīfù de pǔjí ràng rénmen de shēnghuó biàn de yuè lái yuè biànjié, xiànzài de chūmén gòuwù tǐyàn wánquán méiyǒu guòqù pái chángduì jiézhàng de fánsuǒ.)",
+          "reading": "[i˧˥.tʊŋ˥˩ ʈ͡ʂɨ˥.fu˥˩ tɤ pʰu˨˩.t͡ɕi˧˥ ʐɑŋ˥˩ ʐən˧˥.mən tɤ ʂəŋ˥.xwo˧˥ pjɛn˥˩ tɤ jɥɛ˥˩ laɪ̯˧˥ jɥɛ˥˩ pjɛn˥˩.t͡ɕjɛ˧˥, ɕjɛn˥˩.t͡saɪ̯˥˩ tɤ t͡ʂʰu˥.mən˧˥ koʊ̯˥˩.u˥˩ tʰi˨˩.jɛn˥˩ wan˧˥.t͡ɕʰyɛn˧˥ meɪ̯˧˥.joʊ̯˨˩˦ kwo˥˩.t͡ɕʰy˥˩ pʰaɪ̯˧˥ t͡ʂʰɑŋ˧˥.tweɪ̯˥˩ t͡ɕjɛ˧˥.ʈ͡ʂɑŋ˥˩ tɤ fan˧˥.swɔ˨˩˦] (Yí-dòng zhī-fù de pǔ-jí ràng rén-men de shēng-huó biàn de yuè lái yuè biàn-jié, xiàn-zài de chū-mén gòu-wù tǐ-yàn wán-quán méi-yǒu guò-qù pái cháng-duì jié-zhàng de fán-suǒ.)",
+          "translation": "The popularization of mobile payments has made people's lives increasingly convenient; the current shopping experience has none of the cumbersomeness of lining up to pay in the past."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (14.5.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "国产高铁的平稳舒适度不仅跟飞机头等舱一样惬意，而且准点率与性价比远比航空出行更胜一筹。(Guóchǎn gāotiě de píngwěn shūshìdù bùjǐn gēn fēijī tóuděngcāng yíyàng qièyì, érqiě zhǔndiǎnlǜ yǔ xìngjiàbǐ yuǎn bǐ hángkōng chūxíng gèng shèng yì chóu.)",
+          "reading": "[kwo˧˥.t͡ʂʰan˨˩˦ kaʊ̯˥.tʰjɛ˨˩˦ tɤ pʰiŋ˧˥.wən˨˩ ʂu˥.ʂɨ˥˩.tu˥˩ pu˥.t͡ɕin˨˩˦ kən˥ feɪ̯˥.t͡ɕi˥ tʰoʊ̯˧˥.tɤŋ˨˩.t͡sʰɑŋ˥ i˥.jɑŋ˥˩ t͡ɕʰjɛ˥˩.i˥˩, aɚ˥˩.t͡ɕʰjɛ˨˩˦ ʈ͡ʂwən˨˩.tjɛn˨˩.ly˥˩ y˨˩˦ ɕiŋ˥˩.t͡ɕja˥˩.pi˨˩˦ jɥɛn˨˩˦ pi˨˩˦ xɑŋ˧˥.kʰʊŋ˥ t͡ʂʰu˥.ɕiŋ˧˥ kɤŋ˥˩ ʂəŋ˥˩ i˥ ʈ͡ʂʰoʊ̯˧˥] (Guó-chǎn gāo-tiě de píng-wěn shū-shì-dù bù-jǐn gēn fēi-jī tóu-děng-cāng yí-yàng qiè-yì, ér-qiě zhǔn-diǎn-lǜ yǔ xìng-jià-bǐ yuǎn bǐ háng-kōng chū-xíng gèng shèng yì chóu.)",
+          "translation": "The stability and comfort of domestically produced high-speed trains are not only as pleasant as an airplane first-class cabin, but their on-time rate and cost-effectiveness are also far superior to air travel."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (14.5.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "科技的飞速跃升让国家的发展一年比一年更加繁荣昌盛，青年一代面对的时代舞台也比以往任何时候都更加广阔辉煌。(Kējì de fēisù yuèshēng ràng guójiā de fāzhǎn yì nián bǐ yì nián gèngjiā fánróng chāngshèng, qīngnián yídài miànduì de shídài wǔtái yě bǐ yǐwǎng rènhé shíhou dōu gèngjiā guǎngkuò huīhuáng.)",
+          "reading": "[kʰɤ˥.t͡ɕi˥˩ tɤ feɪ̯˥.su˥˩ jɥɛ˥˩.ʂəŋ˥ ʐɑŋ˥˩ kwo˧˥.t͡ɕja˥ tɤ fa˥.ʈ͡ʂan˨˩˦ i˥˩ njɛn˧˥ pi˨˩˦ i˥˩ njɛn˧˥ kɤŋ˥˩.t͡ɕja˥ fan˧˥.ʐʊŋ˧˥ t͡ʂʰɑŋ˥.ʂəŋ˥˩, t͡ɕʰiŋ˥.njɛn˧˥ i˥.taɪ̯˥˩ mjɛn˥˩.tweɪ̯˥˩ tɤ ʂɨ˧˥.taɪ̯˥˩ u˨˩.tʰaɪ̯˧˥ jɛ˨˩˦ pi˨˩˦ i˨˩˦.wɑŋ˨˩˦ ʐən˥˩.xɤ˧˥ ʂɨ˧˥.xoʊ̯ toʊ̯˥ kɤŋ˥˩.t͡ɕja˥ kwaŋ˨˩˦.kʰwɔ˥˩ xweɪ̯˥.xwaŋ˧˥] (Kē-jì de fēi-sù yuè-shēng ràng guó-jiā de fā-zhǎn yì nián bǐ yì nián gèng-jiā fán-róng chāng-shèng, qīng-nián yí-dài miàn-duì de shí-dài wǔ-tái yě bǐ yǐ-wǎng rèn-hé shí-hou dōu gèng-jiā guǎng-kuò huī-huáng.)",
+          "translation": "The rapid leap of science and technology makes the country's development more prosperous and flourishing year by year, and the historical stage faced by the younger generation is broader and more brilliant than ever before."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "今昔对比展宏图，比字没有不如殊；越来越好年年进，科技昌盛赞神州！"
+      ],
+      "culturalNotes": [
+        "通过多维比较句式展现当代中国在高铁、移动互联与城市建设等领域的跨越式发展，能够极其深刻地传递中国人民自强不息、追求美好生活的时代精神。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「比较句（比/没有/不如/一样） (Comparative Structures)」（第5讲）的标准汉语规范？",
+          "prompt": "在时代发展对比语篇中，串联「今昔交通差比 -> 移动支付便捷递进 -> 高铁等同舒适 -> 国家一年比一年好」的宏观逻辑是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「比较句（比/没有/不如/一样） (Comparative Structures)」的核心语法法则与应用范例 (14.5.1)。",
-            "存在语序混乱且虚词误用的病句选项 (14.5.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (14.5.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (14.5.w3)"
+            "比以往发达得多 -> 越来越便捷 -> 跟客房一样舒适 -> 一年比一年繁荣 (Coherent multi-dimensional comparative progression)",
+            "先说一年不如一年 -> 再说没有飞机快 -> 最后说都一样",
+            "越来越落后 -> 比过去差得多 -> 不如古代",
+            "完全一样 -> 没有变化 -> 越来越慢"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "叙事篇章严格融合差比、递进、等同与年际推进，逻辑层次分明。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "语篇中「远比航空出行更胜一筹」中的成语「更胜一筹」意思是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "相比之下表现更好、更具优势 (Far superior / a cut above)",
+            "相比之下完全失败",
+            "两者打成平手毫无区别",
+            "极其低劣糟糕"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「更胜一筹」是比较范畴中指称质量或性能更优异的核心成语。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「比较句（比/没有/不如/一样） (Comparative Structures)」的正式语境下，最准确得体的表达是哪一项？（第14.5题）",
+          "prompt": "请选出下列时代科技对比叙事中比较句式融合最典范、语言最通畅的一项：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (14.5.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (14.5.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (14.5.x2)",
-            "量词与名词修饰搭配错误的病句选项 (14.5.x3)"
+            "现在的通信网络比过去快得多，人们的生活也越来越智能化，这种飞跃比以往任何时候都更加令人振奋。(比字句、越来越、比以往任何时候完美融合)",
+            "现在的通信比过去很快速，生活越来越非常智能。(程度副词严重误用)",
+            "通信十分比过去快，生活没有比过去更好。(语法结构崩坏)",
+            "生活越来越快得多在通信网络。(语序错乱)"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「比过去快得多」、「越来越智能化」、「比以往任何时候都更加......」句法体系严丝合缝。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u14-l5）所要求的高阶语言表达？",
+          "prompt": "在宏观篇章中表达国家综合国力不断壮大、蓬勃兴旺的最典雅四字成语是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (14.5.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (14.5.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (14.5.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (14.5.y3)"
+            "繁荣昌盛 / 欣欣向荣 (Thriving and prosperous / flourishing)",
+            "残缺不全",
+            "故步自封",
+            "萧条冷落"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「繁荣昌盛」是形容国家与社会高度繁荣发展的典范庄重成语。"
         }
       ]
     },
@@ -8642,25 +8654,25 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「比较句（比/没有/不如/一样） (Comparative Structures)」的掌握程度，请选出表述完全正确的标准范句（测试 14-5）：",
+          "prompt": "请选出下列科技与时代变迁综合对比叙事篇章中句法最严密、文采最斐然、立意最高远的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (14.5.4)。",
-            "被动句式与处置句式混用导致的严重病句 (14.5.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (14.5.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (14.5.z3)"
+            "纵观时代变迁，今天的科技创新速度比以往任何时期都更加迅猛。不仅高铁与移动互联让大众生活变得越来越高效便捷，国家的现代化建设更是展现出一年比一年更加繁荣昌盛的壮丽图景。立足新时代，青年一代施展才干的舞台比过去任何时候都更加广阔！(全篇集成三大比较句式，气势磅礴，文理俱佳)",
+            "以前什么都没有，现在有手机了，比以前好玩。(口吻轻浮立意狭隘)",
+            "现在的科技比以前非常快，越来越很多东西出来。(语法语病严重)",
+            "科技发展了一年比一年，没有不好。(语言极其匮乏贫瘪)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "该语篇在比较句式的多样性（差比、递进、纵向时序）、思想立意的高度与词章文采上均达到了现代汉语的最高境界。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u14-l5）的核心关键词（例如「比较句（」）：",
+          "prompt": "请输入表达国家经济社会欣欣向荣、兴旺发达的核心四字成语（例如「」昌盛，拼音为 fánróng）：",
           "acceptedAnswers": [
-            "比较句（",
-            "比较句（比/",
-            "比较句（比/没有/不如/一样）"
+            "繁荣",
+            "繁荣昌盛",
+            "繁荣富强"
           ],
-          "explanation": "正确的核心关键词为「比较句（」。"
+          "explanation": "成语「繁荣」或「繁荣昌盛」是现代汉语中指称国家与社会繁盛昌明状态的经典成语。"
         }
       ],
       "passThreshold": 0.8
