@@ -169,17 +169,16 @@
     "ar-u33-l2",
     "ar-u33-l3",
     "ar-u33-l4",
-    "ar-u33-l5"
-  ],
-  "stubOnly": [
+    "ar-u33-l5",
     "ar-u34-l1",
     "ar-u34-l2",
     "ar-u34-l3",
     "ar-u34-l4",
     "ar-u34-l5"
   ],
-  "lastCompletedLessonId": "ar-u33-l5",
-  "nextToAuthor": "ar-u34-l1"
+  "stubOnly": [],
+  "lastCompletedLessonId": "ar-u34-l5",
+  "nextToAuthor": null
 };
   global.FEARN_LEDGERS = global.FEARN_LEDGERS || {};
   global.FEARN_LEDGERS['arabic'] = LEDGER;

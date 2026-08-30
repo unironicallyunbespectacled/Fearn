@@ -20352,85 +20352,89 @@
     "subject": "arabic",
     "unit": 34,
     "lessonNumber": 1,
-    "title": "الدبلوماسية متعددة الأطراف والقانون الدولي (C2 Capstone Statecraft) (الدرس 1)",
+    "title": "لغة المعاهدات الدولية والقانون الدولي العام (Language of International Treaties & Vienna Convention 1969)",
     "level": "C2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: اتفاقية فيينا لقانون المعاهدات 1969، قرارات مجلس الأمن، والبيانات الختامية للقمم الدولية. (الجزء 1).",
+    "objective": "إتقان الصياغة القانونية الدبلوماسية للمعاهدات الدولية وفق اتفاقية فيينا 1969: الديباجة، التوقيع بالأحرف الأولى، التصديق، الانضمام، التحفظات، القواعد الآمرة (Jus Cogens)، ومبدأ العقد شريعة المتعاقدين (Pacta Sunt Servanda).",
     "presentation": {
-      "explanation": "",
+      "explanation": "تُمثل «لُغَةُ المُعَاهَدَاتِ وَالقَانُونِ الدَّوْلِيِّ» أرقى وأدق مستويات التعبير الاصطلاحي والقانوني في الدبلوماسية المعاصرة، وتنظمها **اتفاقية فيينا لقانون المعاهدات لعام 1969 (VCLT)**:\n\nأولاً: البنية المعيارية للمعاهدة الدولية:\n1. **الدِّيبَاجَةُ (Preamble)**: مدخل المعاهدة الذي يحدد الأطراف السامية المتعاقدة، الدوافع، والمقاصد الكبرى دون إنشاء التزامات تفصيلية مباشرة.\n2. **المَتْنُ وَالمَوَادُّ الإِلْزَامِيَّةُ (Operative Articles)**: الأحكام الموضوعية الملزمة التي تحدد حقوق والتزامات الدول الأطراف بدقة لغوية قاطعة.\n3. **الأَحْكَامُ الخِتَامِيَّةُ (Final Clauses)**: شروط دخول المعاهدة حيز النفاذ، الإيداع، التعديل، والانسحاب.\n\nثانياً: المراحل الإجرائية لإبرام المعاهدات:\n- **التَّفَاوُضُ وَاعْتِمَادُ النَّصِّ (Adoption of the Text)**.\n- **التَّوْقِيعُ بِالأَحْرُفِ الأُولَى (Initialing)**: توقيع مؤقت يعبر عن مطابقة النص المتفق عليه.\n- **التَّصْدِيقُ (Ratification)**: الإجراء الدستوري السيادي الذي تعلن به الدولة موافقتها النهائية على الالتزام بالمعاهدة.\n- **الانْضِمَامُ (Accession)**: قبول دولة غير موقعة الانضمام إلى معاهدة نافذة.\n- **التَّحَفُّظُ (Reservation)**: إعلان انفرادي تستبعد به الدولة الأثر القانوني لبعض نصوص المعاهدة تجاهها.\n\nثالثاً: المبادئ التأسيسية للقانون الدولي:\n- **العَقْدُ شَرِيعَةُ المُتَعَاقِدِينَ (*Pacta sunt servanda*)**: المادة 26 من اتفاقية فيينا؛ كل معاهدة نافذة ملزمة لأطرافها وعليهم تنفيذها بحسن نية.\n- **القَوَاعِدُ الآمِرَةُ (*Jus Cogens*)**: المادة 53؛ قواعد القانون الدولي العام القطعية التي لا يجوز انتهاكها أو الاتفاق على خلافها (كحظر العدوان، والإبادة، وتجارة الرقيق).",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الدبلوماسية متعددة الأطراف والقانون الدولي (C2 Capstone Statecraft)» بأسلوب أكاديمي دقيق (34.1.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الدبلوماسية متعددة الأطراف والقانون الدولي (C2 Capstone Statecraft)' to students in an accurate academic style."
+          "target": "تُقَرِّرُ المَادَّةُ السَّادِسَةُ وَالعِشْرُونَ مِنْ اتِّفَاقِيَّةِ فْيِينَا أَنَّ «العَقْدَ شَرِيعَةُ المُتَعَاقِدِينَ» وَأَنَّ المَعَاهَدَاتِ نَافِذَةٌ بِحُسْنِ نِيَّةٍ.(TuqarExceptions al-māddatu as-sādisatu wa-al-ʿishrūna min ittifāqiyyati Viyennā anna «al-ʿaqda sharīʿatu al-mutaʿāqidīn» wa-anna al-muʿāhadāti nāfidhatun bi-ḥusni niyyah.)",
+          "reading": "[tu.qar.ri.ru‿l.maːd.da.tu‿s.saː.di.sa.tu wal.ʕiʃ.ruː.na min ʔit.ti.faː.qij.ja.ti vi.jen.naː ʔan.na «ʔal.ʕaq.da ʃa.riː.ʕa.tu‿l.mu.ta.ʕaː.qi.diːn» wa.ʔan.nal.mu.ʕaː.ha.daː.ti naː.fi.ða.tun bi.ħus.ni nij.jah] (Tu-qar-ri-ru al-mād-da-tu as-sā-di-sa-tu wal-ʿish-rū-na min it-ti-fā-qiy-ya-ti Vi-yen-nā an-na «al-ʿaq-da sha-rī-ʿa-tu al-mu-ta-ʿā-qi-dīn» wa-an-na al-mu-ʿā-ha-dā-ti nā-fi-dha-tun bi-ḥus-ni niy-yah.)",
+          "translation": "Article 26 of the Vienna Convention establishes that 'Pacta sunt servanda' and that treaties are binding in good faith."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (34.1.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "تُعَدُّ القَوَاعِدُ الآمِرَةُ فِي القَانُونِ الدَّوْلِيِّ حُدُودًا سِيَادِيَّةً لَا يَجُوزُ لِأَيِّ اتِّفَاقٍ ثُنَائِيٍّ أَوْ مُتَعَدِّدِ الأَطْرَافِ مُخَالَفَتُهَا.(Tuʿaddu al-qawāʿidu al-āmiratu fī al-qānūni ad-dawliyyi ḥudūdan siyādiyyatan lā yajūzu li-ayyi ittifāqin thunāʾiyyin aw mutaʿaddidi al-aṭrāfi mukhālafatuhā.)",
+          "reading": "[tu.ʕad.du‿l.qa.waː.ʕi.du‿l.ʔaː.mi.ra.tu fil.qaː.nuː.ni‿d.daw.lij.ji ħu.duː.dan si.jaː.dij.ja.tan laː ja.ʒuː.zu li.ʔaj.ji‿t.ti.faː.qin θu.naː.ʔij.jin ʔaw mu.ta.ʕad.di.di‿l.ʔatˤ.raː.fi mu.xaː.la.fa.tu.haː] (Tu-ʿad-du al-qa-wā-ʿi-du al-ā-mi-ra-tu fī al-qā-nū-ni ad-daw-liy-yi ḥu-dū-dan si-yā-diy-ya-tan lā ya-jū-zu li-ay-yi it-ti-fā-qin thu-nā-ʾiy-yin aw mu-ta-ʿad-di-di al-aṭ-rā-fi mu-khā-la-fa-tu-hā.)",
+          "translation": "Peremptory norms (jus cogens) in international law are sovereign limits that no bilateral or multilateral agreement may violate."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (34.1.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "يَتَطَلَّبُ نَفَاذُ المُعَاهَدَةِ إِيدَاعَ وَثَائِقِ التَّصْدِيقِ الرَّسْمِيَّةِ لَدَى الأَمَانَةِ العَامَّةِ لِلْأُمَمِ المُتَّحِدَةِ.(Yataṭallabu nafādhu al-muʿāhadati īdāʿa wathāʾiqi at-taṣdīqi ar-rasmiyyati ladā al-amānati al-ʿāmmati li-l-Umami al-Muttaḥidah.)",
+          "reading": "[ja.ta.tˤal.la.bu na.faː.ðu‿l.mu.ʕaː.ha.da.ti ʔiː.daː.ʕa wa.θaː.ʔi.qi‿t.tasˤ.diː.qi‿r.ras.mij.ja.ti la.dal.ʔa.maː.na.ti‿l.ʕaːm.ma.ti lil.ʔu.ma.mi‿l.mut.ta.ħi.dah] (Ya-ta-ṭal-la-bu na-fā-dhu al-mu-ʿā-ha-da-ti ī-dā-ʿa wa-thā-ʾi-qi at-taṣ-dī-qi ar-ras-miy-ya-ti la-dā al-a-mā-na-ti al-ʿām-ma-ti lil-U-ma-mi al-Mut-ta-ḥi-dah.)",
+          "translation": "Entry into force of the treaty requires depositing official ratification instruments with the UN Secretariat."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (34.1.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "تَصُوغُ الدِّيبَاجَةُ المَبَادِئَ العَامَّةَ وَالإِرَادَةَ المُشْتَرَكَةَ لِلدُّوَلِ الأَطْرَافِ فِي تَعْزِيزِ السِّلْمِ وَالأَمْنِ الدَّوْلِيَّيْنِ.(Taṣūghu ad-dībājatu al-mabādiʾa al-ʿāmmata wa-al-irādata al-mushtarakata li-d-duwali al-aṭrāfi fī taʿzīzi as-silmi wa-al-amni ad-dawliyyayn.)",
+          "reading": "[ta.sˤuː.ɣu‿d.diː.baː.ʒa.tu‿l.ma.baː.di.ʔa‿l.ʕaːm.ma.ta wal.ʔi.raː.da.ta‿l.muʃ.ta.ra.ka.ta lid.du.wa.li‿l.ʔatˤ.raː.fi fiː taʕ.ziː.zi‿s.sil.mi wal.ʔam.ni‿d.daw.lij.jajn] (Ta-ṣū-ghu ad-dī-bā-ja-tu al-ma-bā-di-ʾa al-ʿām-ma-ta wal-i-rā-da-ta al-mush-ta-ra-ka-ta lid-du-wa-li al-aṭ-rā-fi fī taʿ-zī-zi as-sil-mi wal-am-ni ad-daw-liy-yayn.)",
+          "translation": "The preamble articulates the general principles and common will of state parties in promoting international peace and security."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "عَهْدُ المَعَاهِدِ بِالوَفَاءِ يُقَامُ، سِلْمُ الشُّعُوبِ وَحِكْمَةٌ وَسَلَامُ!"
+      ],
+      "culturalNotes": [
+        "تُعد اللغة العربية إحدى اللغات الرسمية الست المعتمدة في منظمة الأمم المتحدة وجميع معاهداتها ومواثيقها الدولية منذ القرار التاريخي للجمعية العامة رقم 3190 الصادر في 18 ديسمبر 1973."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الدبلوماسية متعددة الأطراف والقانون الدولي (C2 Capstone Statecraft)» (الدرس 1)؟",
+          "prompt": "ما هو المبدأ القانوني الدولي التأسيسي المنصوص عليه في المادة 26 من اتفاقية فيينا 1969 والذي يعني أن المعاهدات ملزمة لأطرافها بحسن نية؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الدبلوماسية متعددة الأطراف والقانون الدولي (C2 Capstone Statecraft)» بأسلوب أكاديمي دقيق (34.1.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (34.1.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (34.1.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (34.1.w3)"
+            "العَقْدُ شَرِيعَةُ المُتَعَاقِدِينَ (Pacta sunt servanda)",
+            "القوة تصنع الحق دائماً",
+            "جواز نقض المعاهدات دون إشعار",
+            "إلغاء سيادة الدول المستقلة"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "مبدأ «Pacta sunt servanda» (العقد شريعة المتعاقدين) هو أساس الالتزام الدولي وتنفيذ المعاهدات بحسن نية."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هي «القواعد الآمرة» (Jus Cogens) في القانون الدولي العام؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "قَوَاعِدُ دَوْلِيَّةٌ قَاطِعَةٌ مَقْبُولَةٌ لَدَى المُجْتَمَعِ الدَّوْلِيِّ لَا يَجُوزُ الإِخْلَالُ بِهَا أَوْ مُخَالَفَتُهَا (Peremptory norms from which no derogation is permitted)",
+            "نصائح غير ملزمة في العلاقات الودية",
+            "قوانين المرور في العواصم الأوروبية",
+            "معاهدات تجارية محدودة المدة"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "القواعد الآمرة (Jus Cogens) هي قمة هرم القانون الدولي وتعد باطلة بطلاناً مطلقاً أي معاهدة تخالفها."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u34-l1):",
+          "prompt": "ما هو الفرق الدبلوماسي الدقيق بين «التوقيع بالأحرف الأولى» و«التصديق الرسمي» على المعاهدة؟",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (34.1.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (34.1.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (34.1.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (34.1.x3)"
+            "«التَّوْقِيعُ بِالأَحْرُفِ الأُولَى إِقْرَارٌ بِمُطَابَقَةِ النَّصِّ، أَمَّا التَّصْدِيقُ فَهُوَ الإِجْرَاءُ الدُّسْتُورِيُّ السِّيَادِيُّ المُلْزِمُ لِلدَّوْلَةِ نِهَائِيًّا». ('Initialing confirms text conformity; ratification is sovereign constitutional binding approval.')",
+            "التوقيع بالأحرف الأولى يلزم الدولة والتصديق اختياري",
+            "لا يوجد أي فرق بينهما في القانون الدولي",
+            "معاهدات فيينا تصديق توقيع ديباجة سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "التوقيع بالأحرف الأولى يثبت اعتماد النص التفاوضي، بينما التصديق هو التعبير النهائي عن رضا الدولة بالالتزام بالمعاهدة."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الدبلوماسية متعددة الأطراف والقانون الدولي (C2 Capstone Statecraft)»؟",
+          "prompt": "ما إعراب كلمة «شَرِيعَةُ» في جملة: «العَقْدُ شَرِيعَةُ المُتَعَاقِدِينَ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (34.1.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (34.1.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (34.1.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (34.1.y3)"
+            "خَبَرُ المُبْتَدَأِ مَرْفُوعٌ بِالضَّمَّةِ الظَّاهِرَةِ (Predicate of mubtada' in nominative)",
+            "مبتدأ مؤخر مرفوع",
+            "نعت مرفوع بالضمة",
+            "مفعول به منصوب"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«العَقْدُ» مبتدأ مرفوع، و«شَرِيعَةُ» خبر المبتدأ مرفوع وعلامة رفعه الضمة الظاهرة."
         }
       ]
     },
@@ -20438,24 +20442,29 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 34-1)؟",
+          "prompt": "اختر النص الدبلوماسي المقنن الذي يحلل فلسفة القانون الدولي والمعاهدات بأعلى معايير الإتقان المعجمي والرصانة السيادية:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (34.1.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (34.1.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (34.1.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (34.1.z3)"
+            "تُمَثِّلُ «اتِّفَاقِيَّةُ فْيِينَا لِقَانُونِ المَعَاهَدَاتِ 1969» عِمَادَ النِّظَامِ القَانُونِيِّ الدَّوْلِيِّ وَدُسْتُورَ الدِّبْلُومَاسِيَّةِ مُتَعَدِّدَةِ الأَطْرَافِ؛ حَيْثُ تُنَظِّمُ مَرَاحِلَ إِبْرَامِ المَعَاهَدَاتِ مِنَ الدِّيبَاجَةِ وَالتَّوْقِيعِ بِالأَحْرُفِ الأُولَى إِلَى التَّصْدِيقِ وَالإِيدَاعِ، مُرَسِّخَةً المَبْدَأَ الخَالِدَ «العَقْدُ شَرِيعَةُ المُتَعَاقِدِينَ» (*Pacta sunt servanda*) فِي ظِلِّ عُلْوِيَّةِ «القَوَاعِدِ الآمِرَةِ» (*Jus Cogens*)، لِتَغْدُوَ المَعَاهَدَاتُ الدَّوْلِيَّةُ حَامِيَةَ السِّلْمِ العَالَمِيِّ وَمِرْآةَ السِّيَادَةِ وَالتَّعَايُشِ الحَضَارِيِّ. (The 'Vienna Convention on the Law of Treaties 1969' represents the pillar of international legal order and constitution of multilateral diplomacy; regulating treaty conclusion stages from preamble and initialing to ratification and deposit, cementing the immortal maxim 'Pacta sunt servanda' under supremacy of 'Jus Cogens', making international treaties guardian of world peace and mirror of sovereignty and civilizational coexistence.)",
+            "المعاهدات الدولية هي اتفاقيات مكتوبة بين الدول لحفظ السلم.",
+            "معاهدات فيينا قانون دولي ديباجة تصديق انضمام قواعد آمرة سكون فتحة ضمة تنوين.",
+            "ألغت الأمم المتحدة اتفاقية فيينا للمعاهدات مؤخرا."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يجمع بدقة: اتفاقية فيينا 1969، مراحل إبرام المعاهدات، مبدأ Pacta sunt servanda، والقواعد الآمرة Jus Cogens في سياق دبلوماسي رفيع."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u34-l1) باللغة العربية (مثال: «الدبلوماسية»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم الاتفاقية الدولية الشهيرة لعام 1969 التي تحكم قانون المعاهدات بين الدول (اكتب: «اتفاقية فيينا» أو «اتفاقية فيينا لقانون المعاهدات»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الدبلوماسية",
-            "الدبلوماسية"
+            "اتفاقية فيينا",
+            "اتفاقية فيينا لقانون المعاهدات",
+            "معاهدة فيينا",
+            "اتفاقيه فيينا",
+            "اتفاقيه فيينا لقانون المعاهدات",
+            "اتِّفَاقِيَّةُ فْيِينَا",
+            "اتِّفَاقِيَّة فْيِينَا"
           ],
-          "explanation": "المصطلح الصحيح هو «الدبلوماسية»."
+          "explanation": "الاتفاقية هي «اتفاقية فيينا» (Vienna Convention on the Law of Treaties)."
         }
       ],
       "passThreshold": 0.8
@@ -20466,85 +20475,89 @@
     "subject": "arabic",
     "unit": 34,
     "lessonNumber": 2,
-    "title": "الدبلوماسية متعددة الأطراف والقانون الدولي (C2 Capstone Statecraft) (الدرس 2)",
+    "title": "صياغة قرارات مجلس الأمن والمنظمات الدولية (Drafting UN Security Council Resolutions & Pacts)",
     "level": "C2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: اتفاقية فيينا لقانون المعاهدات 1969، قرارات مجلس الأمن، والبيانات الختامية للقمم الدولية. (الجزء 2).",
+    "objective": "إتقان الصياغة الاحترافية لقرارات مجلس الأمن والجمعية العامة للأمم المتحدة: الفقرات التمهيدية (Preambular clauses)، الفقرات المنطوقة (Operative clauses)، وصيغ تفويض الفصل السابع (Chapter VII).",
     "presentation": {
-      "explanation": "",
+      "explanation": "تتطلب «صِيَاغَةُ قَرَارَاتِ مَجْلِسِ الأَمْنِ وَالأُمَمِ المُتَّحِدَةِ» إتقاناً لغوياً ودبلوماسياً استثنائياً؛ حيث يحمل كل فعل وحرف جر دلالات سياسية وقانونية ملزمة دولياً:\n\nأولاً: الفقرات التمهيدية (Preambular Clauses):\n- تبدأ بأفعال حالية منونة بالكسر (اسم فاعل أو مفعول مع ظرف زماني):\n  * «**إِذْ يُؤَكِّدُ** عَلَى مَقَاصِدِ مِيثَاقِ الأُمَمِ المُتَّحِدَةِ...» (Reaffirming).\n  * «**إِذْ يُعْرِبُ عَنْ بَالِغِ قَلَقِهِ** إِزَاءَ تَدَهْوُرِ الأَوْضَاعِ الإِنْسَانِيَّةِ...» (Expressing grave concern).\n  * «**إِذْ يُشَدِّدُ** عَلَى سِيَادَةِ الدُّوَلِ وَاسْتِقْلَالِهَا السِّيَاسِيِّ وَسَلَامَةِ أَرَاضِيهَا...» (Underlining sovereignty).\n  * «**إِذْ يُشِيدُ** بِالجُهُودِ المَبْذُولَةِ لِتَسْوِيَةِ النِّزَاعِ...» (Commending efforts).\n\nثانياً: الفقرات المنطوقة والإجرائية (Operative Clauses):\n- تبدأ بأفعال مضارعة مرفوعة تحدد التدابير والقرارات الفعلية المعتمدة:\n  * «**يُقَرِّرُ** الوَقْفَ الفَوْرِيَّ وَالشَّامِلَ لِإِطْلَاقِ النَّارِ...» (Decides immediate ceasefire).\n  * «**يُطَالِبُ** جَمِيعَ الأَطْرَافِ بِالامْتِثَالِ لِالتِزَامَاتِهَا بِمُوجِبِ القَانُونِ الدَّوْلِيِّ الإِنْسَانِيِّ...» (Demands all parties comply).\n  * «**يُفَوِّضُ** بَعْثَةَ حِفْظِ السَّلَامِ بِاتِّخَاذِ جَمِيعِ التَّدَابِيرِ اللَّازِمَةِ...» (Authorizes peacekeeping mission).\n  * «**يُهيبُ بِـ** جَمِيعِ الدُّوَلِ الأَعْضَاءِ تَقْدِيمَ الدَّعْمِ اللُّوجِسْتِيِّ...» (Calls upon member states).\n\nثالثاً: الفصل السابع من ميثاق الأمم المتحدة (Chapter VII Mandates):\n- العبارة الإلزامية الحاسمة: «**وَإِذْ يَتَصَرَّفُ بِمُوجِبِ الفَصْلِ السَّابِعِ مِنْ مِيثَاقِ الأُمَمِ المُتَّحِدَةِ**» (*Acting under Chapter VII*).\n- تمنح القرار قوة تنفيذية قسرية تشمل العقوبات الاقتصادية، الحظر الجوي، أو التدخل العسكري الجماعي لحفظ السلم.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الدبلوماسية متعددة الأطراف والقانون الدولي (C2 Capstone Statecraft)» بأسلوب أكاديمي دقيق (34.2.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الدبلوماسية متعددة الأطراف والقانون الدولي (C2 Capstone Statecraft)' to students in an accurate academic style."
+          "target": "يُصَدِّرُ مَجْلِسُ الأَمْنِ قَرَارَهُ بِالفَقْرَةِ المَنْطُوقَةِ: «يُقَرِّرُ مَجْلِسُ الأَمْنِ الوَقْفَ الفَوْرِيَّ لِلْأَعْمَالِ العِدَائِيَّةِ».(Yuṣaddiru majlisu al-amni qarārahu bi-al-faqrati al-manṭūqah: «YuqarExceptions majlisu al-amni al-waqfa al-fawriyya li-l-aʿmāli al-ʿidāʾiyyah».)",
+          "reading": "[ju.sˤad.di.ru maʒ.li.su‿l.ʔam.ni qa.raː.ra.hu bil.faq.ra.ti‿l.man.tˤuː.qah: «ju.qar.ri.ru maʒ.li.su‿l.ʔam.ni‿l.waq.fa‿l.faw.rij.ja lil.ʔaʕ.maː.li‿l.ʕi.daː.ʔij.jah»] (Yu-ṣad-di-ru maj-li-su al-am-ni qa-rā-ra-hu bi-al-faq-ra-ti al-man-ṭū-qah: «Yu-qar-ri-ru maj-li-su al-am-ni al-waq-fa al-faw-riy-ya lil-aʿ-mā-li al-ʿi-dā-ʾiy-yah».)",
+          "translation": "The Security Council heads its resolution with the operative clause: 'The Security Council decides the immediate cessation of hostilities'."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (34.2.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "تَعْكِسُ عِبَارَةُ «إِذْ يَتَصَرَّفُ بِمُوجِبِ الفَصْلِ السَّابِعِ» القُوَّةَ الإِلْزَامِيَّةَ القَسْرِيَّةَ لِقَرَارَاتِ حِفْظِ السِّلْمِ الدَّوْلِيِّ.(Taʿkisu ʿibāratu «idh yataṣarrafu bi-mūjabi al-faṣli as-sābiʿ» al-quwwata al-ilzāmiyyata al-qasriyyata li-qarārāti ḥifẓi as-silmi ad-dawliyy.)",
+          "reading": "[taʕ.ki.su ʕi.baː.ra.tu «ʔið ja.ta.sˤar.ra.fu bi.muː.ʒa.bi‿l.fasˤ.li‿s.saː.biʕ» ʔal.quw.wa.ta‿l.ʔil.zaː.mij.ja.ta‿l.qas.rij.ja.ta li.qa.raː.raː.ti ħif.zˤi‿s.sil.mi‿d.daw.lijj] (Taʿ-ki-su ʿi-bā-ra-tu «idh ya-ta-ṣar-ra-fu bi-mū-ja-bi al-faṣ-li as-sā-biʿ» al-quw-wa-ta al-il-zā-miy-ya-ta al-qas-riy-ya-ta li-qa-rā-rā-ti ḥif-ẓi as-sil-mi ad-daw-liyy.)",
+          "translation": "The phrase 'Acting under Chapter VII' reflects the coercive binding force for international peace preservation resolutions."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (34.2.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "تُؤَكِّدُ الفَقَرَاتُ التَّمْهِيدِيَّةُ عَلَى الِالْتِزَامِ بِسِيَادَةِ الدَّوْلَةِ وَاسْتِقْلَالِهَا السِّيَاسِيِّ وَوَحْدَةِ أَرَاضِيهَا.(Tuʾakkidu al-faqarātu at-tamhīdiyyatu ʿalā al-iltizāmi bi-siyādati ad-dawlati wa-istiqlālihā as-siyāsiyyi wa-waḥdati arāḍīhā.)",
+          "reading": "[tu.ʔak.ki.du‿l.fa.qa.raː.tu‿t.tam.hiː.dij.ja.tu ʕa.lal.ʔil.ti.zaː.mi bi.si.jaː.da.ti‿d.daw.la.ti was.tiq.laː.li.haː‿s.si.jaː.sij.ji wa.waħ.da.ti ʔa.raː.dˤiː.haː] (Tu-ʾak-ki-du al-fa-qa-rā-tu at-tam-hī-diy-ya-tu ʿa-lā al-il-ti-zā-mi bi-si-yā-da-ti ad-daw-la-ti wa-is-tiq-lā-li-hā as-si-yā-siy-yi wa-waḥ-da-ti a-rā-ḍī-hā.)",
+          "translation": "Preambular paragraphs emphasize commitment to state sovereignty, political independence, and territorial integrity."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (34.2.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "يُهيبُ مَجْلِسُ الأَمْنِ بِجَمِيعِ الدُّوَلِ الأَعْضَاءِ تَيْسِيرَ دُخُولِ المُسَاعَدَاتِ الإِنْسَانِيَّةِ دُونَ عَوَائِقَ.(Yuhību majlisu al-amni bi-jamīʿi ad-duwali al-aʿḍāʾi taysīra dukhūli al-musāʿadāti al-insāniyyati dūna ʿawāʾiq.)",
+          "reading": "[ju.hiː.bu maʒ.li.su‿l.ʔam.ni bi.ʒa.miː.ʕi‿d.du.wa.li‿l.ʔaʕ.dˤaː.ʔi taj.siː.ra du.xuː.li‿l.mu.saː.ʕa.daː.ti‿l.ʔin.saː.nij.ja.ti duː.na ʕa.waː.ʔiq] (Yu-hī-bu maj-li-su al-am-ni bi-ja-mī-ʿi ad-du-wa-li al-aʿ-ḍā-ʾi tay-sī-ra du-khū-li al-mu-sā-ʿa-dā-ti al-in-sā-niy-ya-ti dū-na ʿa-wā-ʾiq.)",
+          "translation": "The Security Council calls upon all member states to facilitate unhindered entry of humanitarian assistance."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "إِذْ يُؤَكِّدُ دِيبَاجَةٌ لِلْبَيَانْ، وَيُقَرِّرُ فِعْلٌ يُعِيدُ الأَمَانْ!"
+      ],
+      "culturalNotes": [
+        "يُعد قسم الترجمة العربية في المقر الدائم للأمم المتحدة بنيويورك وجنيف من أرقى هيئات الترجمة الفورية والتحريرية في العالم لصياغة القرارات الدولية المعتمدة."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الدبلوماسية متعددة الأطراف والقانون الدولي (C2 Capstone Statecraft)» (الدرس 2)؟",
+          "prompt": "أي الصيغ التالية تُعد بداية نموذجية لـ «فقرة تمهيدية» (Preambular Clause) في قرارات مجلس الأمن؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الدبلوماسية متعددة الأطراف والقانون الدولي (C2 Capstone Statecraft)» بأسلوب أكاديمي دقيق (34.2.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (34.2.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (34.2.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (34.2.w3)"
+            "«إِذْ يُعْرِبُ عَنْ بَالِغِ قَلَقِهِ إِزَاءَ تَدَهْوُرِ الأَوْضَاعِ...» (Expressing grave concern...)",
+            "«يقرر المجلس فرض عقوبات فورية...»",
+            "«يطالب بسحب القوات غداً...»",
+            "«يفوض الأمين العام بتعيين مبعوث...»"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "الفقرات التمهيدية تبدأ دائماً بـ «إِذْ + فعل حالي منون» مثل: «إذ يؤكد»، «إذ يعرب عن بالغ قلقه»، «إذ يرحب»."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هي العبارة الدبلوماسية التي تُكسب قرار مجلس الأمن سلطة الإلزام التنفيذي والقسري الدولي؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "«وَإِذْ يَتَصَرَّفُ بِمُوجِبِ الفَصْلِ السَّابِعِ مِنْ مِيثَاقِ الأُمَمِ المُتَّحِدَةِ» (Acting under Chapter VII of the UN Charter)",
+            "«وإذ يرجو من الجميع التكرم بالتعاون»",
+            "«وإذ يتمنى للأطراف التوفيق والنجاح»",
+            "«وإذ ينصح الدول الأعضاء بالصبر»"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "التصرف بموجب الفصل السابع يمنح القرار قوة الإنفاذ الإلزامي والتدابير القسرية لحفظ السلم والأمن الدوليين."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u34-l2):",
+          "prompt": "اختر الفقرة المنطوقة (Operative Clause) التي تفوض بعثة حفظ السلام بمهامها الأمنية بأعلى درجات الدقة القانونية:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (34.2.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (34.2.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (34.2.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (34.2.x3)"
+            "«يُقَرِّرُ تَمْدِيدَ وِلَايَةِ بَعْثَةِ الأُمَمِ المُتَّحِدَةِ لِحِفْظِ السَّلَامِ، وَيُفَوِّضُهَا بِاتِّخَاذِ جَمِيعِ التَّدَابِيرِ اللَّازِمَةِ لِحِمَايَةِ المَدَنِيِّينَ». ('Decides to extend the UN peacekeeping mission mandate, authorizing it to take all necessary measures to protect civilians.')",
+            "نرجو من الجنود البقاء في مواقعهم لفترة إضافية",
+            "انتهت مهمة حفظ السلام ويمكن للجميع العودة لمنازلهم",
+            "قرارات مجلس أمن فصل سابع تمهيدي منطوق سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "هذه هي الصياغة المعيارية المعتمدة لقرارات مجلس الأمن في تمديد الولايات وتفويض استخدام التدابير اللازمة لحماية المدنيين."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الدبلوماسية متعددة الأطراف والقانون الدولي (C2 Capstone Statecraft)»؟",
+          "prompt": "ما إعراب كلمة «الوَّقْفَ» في جملة: «يُقَرِّرُ مَجْلِسُ الأَمْنِ الوَقْفَ الفَوْرِيَّ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (34.2.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (34.2.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (34.2.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (34.2.y3)"
+            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (Direct object in accusative)",
+            "فاعل مرفوع بالضمة",
+            "نعت منصوب",
+            "حال منصوبة بالفتحة"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«مَجْلِسُ» فاعل مرفوع، و«الوَقْفَ» مفعول به منصوب وعلامة نصبه الفتحة الظاهرة."
         }
       ]
     },
@@ -20552,24 +20565,28 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 34-2)؟",
+          "prompt": "اختر النص الصياغي الدبلوماسي الشامل لقرار دولي صادر عن مجلس الأمن يدمج الفقرات التمهيدية والمنطوقة بدقة متناهية:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (34.2.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (34.2.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (34.2.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (34.2.z3)"
+            "«إِنَّ مَجْلِسَ الأَمْنِ، إِذْ يُؤَكِّدُ عَلَى مَقَاصِدِ مِيثَاقِ الأُمَمِ المُتَّحِدَةِ وَسِيَادَةِ الدُّوَلِ وَسَلَامَةِ أَرَاضِيهَا، وَإِذْ يُعْرِبُ عَنْ بَالِغِ قَلَقِهِ إِزَاءَ تَفَاقُمِ الأَزْمَةِ، وَإِذْ يَتَصَرَّفُ بِمُوجِبِ الفَصْلِ السَّابِعِ: 1. يُقَرِّرُ الوَقْفَ الفَوْرِيَّ وَالشَّامِلَ لِلْعَمَلِيَّاتِ العَسْكَرِيَّةِ؛ 2. يُطَالِبُ جَمِيعَ الأَطْرَافِ بِتَأْمِينِ مَمَرَّاتٍ إِنْسَانِيَّةٍ آمِنَةٍ لِإِيصَالِ الإِغَاثَةِ؛ 3. يُفَوِّضُ الأَمِينَ العَامَّ بِتَعْيِينِ مَبْعُوثٍ خَاصٍّ لِرِعَايَةِ المُفَاوَضَاتِ؛ 4. يُقَرِّرُ أَنْ يَبْقَى المَسْأَلَةَ قَيْدَ نَظَرِهِ الفِعْلِيِّ». ('The Security Council, Reaffirming the purposes of the UN Charter, state sovereignty and territorial integrity, Expressing grave concern over crisis escalation, Acting under Chapter VII: 1. Decides immediate comprehensive cessation of military operations; 2. Demands all parties secure safe humanitarian corridors for relief; 3. Authorizes Secretary-General to appoint Special Envoy for negotiations; 4. Decides to remain actively seized of the matter.')",
+            "قرر مجلس الأمن اليوم إيقاف الحرب وإرسال مبعوث للمنطقة فورا.",
+            "مجلس أمن قرارات تمهيدي منطوق فصل سابع سيادة حظر سلام سكون فتحة ضمة تنوين.",
+            "صدر قرار غير ملزم من الجمعية العامة يرجو التهدئة بين الأطراف."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يجسد الهيكل الكامل المعتمد لقرارات مجلس الأمن: الديباجة التمهيدية، إسناد الفصل السابع، الفقرات المنطوقة الإجرائية، وختام 'قيد نظره الفعلي'."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u34-l2) باللغة العربية (مثال: «الدبلوماسية»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم الهيئة الدولية التابعة للأمم المتحدة المسؤولة عن حفظ السلم والأمن الدوليين (اكتب: «مجلس الأمن» أو «مجلس الأمن الدولي»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الدبلوماسية",
-            "الدبلوماسية"
+            "مجلس الأمن",
+            "مجلس الأمن الدولي",
+            "مجلس الامن",
+            "مجلس الامن الدولي",
+            "مَجْلِسُ الأَمْنِ",
+            "مَجْلِسُ الأَمْن"
           ],
-          "explanation": "المصطلح الصحيح هو «الدبلوماسية»."
+          "explanation": "الهيئة هي «مجلس الأمن» (UN Security Council)."
         }
       ],
       "passThreshold": 0.8
@@ -20580,85 +20597,89 @@
     "subject": "arabic",
     "unit": 34,
     "lessonNumber": 3,
-    "title": "الدبلوماسية متعددة الأطراف والقانون الدولي (C2 Capstone Statecraft) (الدرس 3)",
+    "title": "البيانات الختامية للقمم والمفاوضات السيادية (Diplomatic Summit Communiqués & State Negotiations)",
     "level": "C2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: اتفاقية فيينا لقانون المعاهدات 1969، قرارات مجلس الأمن، والبيانات الختامية للقمم الدولية. (الجزء 3).",
+    "objective": "إتقان لغة التفاوض وصياغة البيانات الختامية (Communiqués) للقمم الرئاسية والإقليمية، تحقيق الإجماع الدبلوماسي (Consensus)، واتفاقية فيينا للعلاقات الدبلوماسية 1961 (الحصانات والامتيازات).",
     "presentation": {
-      "explanation": "",
+      "explanation": "تُمثل «البَيَانَاتُ الخِتَامِيَّةُ لِلْقِمَمِ الدِّبْلُومَاسِيَّةِ (Summit Communiqués)» ذروة التوافق السياسي وصناعة السياسات الإقليمية والدولية (كالقمم العربية، والخليجية، وقمم العشرين والأمم المتحدة):\n\nأولاً: خصائص صياغة البيان الختامي (Consensus Drafting):\n1. **التَّعْبِيرُ عَنِ الإِرَادَةِ الجَمَاعِيَّةِ المُشْتَرَكَةِ**:\n   - استخدام عبارات رصينة مثل: «أَكَّدَ القَادَةُ عَلَى...»، «شَدَّدَ إِعْلَانُ القِمَّةِ عَلَى...»، و«أَعْرَبَ أَصْحَابُ الجَلَالَةِ وَالفَخَامَةِ وَالسُّمُوِّ عَنِ ارْتِيَاحِهِمْ لِـ...».\n2. **بِنَاءُ التَّسْوِيَاتِ التَّوَافُقِيَّةِ (Diplomatic Consensus)**:\n   - صياغة عبارات مرنة ودقيقة تُرضي جميع الأطراف المتفاوضة دون التنازل عن الثوابت الاستراتيجية.\n3. **الأَجِنْدَةُ التَّنْفِيذِيَّةُ وَالمُتَابَعَةُ**:\n   - تشكيل لجان وزارية، وتحديد آليات متابعة زمنية لتنفيذ مخرجات القمة.\n\nثانياً: اتفاقية فيينا للعلاقات الدبلوماسية لعام 1961 (VCDR):\n- المرجعية العالمية التي تحكم الحصانات والامتيازات الدبلوماسية:\n  1. **حُرْمَةُ المَقَارِّ الدِّبْلُومَاسِيَّةِ (Inviolability of Mission Premises)**: حظر دخول سلطات الدولة المستقبلة للبعثة إلا بإذن رئيس البعثة.\n  2. **الحَصَانَةُ الشَّخْصِيَّةُ وَالقَضَائِيَّةُ (Diplomatic Immunity)**: عدم جواز توقيف أو محاكمة المبعوث الدبلوماسي أمام محاكم الدولة المضيفة.\n  3. **الحَقِيبَةُ الدِّبْلُومَاسِيَّةُ (Diplomatic Bag)**: حظر فتحها أو حجزها لضمان سرية الاتصالات السيادية.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الدبلوماسية متعددة الأطراف والقانون الدولي (C2 Capstone Statecraft)» بأسلوب أكاديمي دقيق (34.3.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الدبلوماسية متعددة الأطراف والقانون الدولي (C2 Capstone Statecraft)' to students in an accurate academic style."
+          "target": "صَدَرَ البَيَانُ الخِتَامِيُّ لِلْقِمَّةِ مُؤَكِّدًا عَلَى الإِجْمَاعِ العَرَبِيِّ فِي تَعْزِيزِ الأَمْنِ القَوْمِيِّ وَالتَّكَامُلِ الِاقْتِصَادِيِّ.(Ṣadara al-bayānu al-khitāmiyyu li-l-qimmati muʾakkidan ʿalā al-ijmāʿi al-ʿarabiyyi fī taʿzīzi al-amni al-qawmiyyi wa-al-takāmuli al-iqtiṣādiyy.)",
+          "reading": "[sˤa.da.ra‿l.ba.jaː.nu‿l.xi.taː.mij.ju lil.qim.ma.ti mu.ʔak.ki.dan ʕa.lal.ʔiʒ.maː.ʕi‿l.ʕa.ra.bij.ji fiː taʕ.ziː.zi‿l.ʔam.ni‿l.qaw.mij.ji wat.ta.kaː.mu.li‿l.ʔiq.ti.sˤaː.dijj] (Ṣa-da-ra al-ba-yā-nu al-khi-tā-miy-yu lil-qim-ma-ti mu-ʾak-ki-dan ʿa-lā al-ij-mā-ʿi al-ʿa-ra-biy-yi fī taʿ-zī-zi al-am-ni al-qaw-miy-yi wat-ta-kā-mu-li al-iq-ti-ṣā-diyy.)",
+          "translation": "The summit's final communiqué was issued confirming Arab consensus in strengthening national security and economic integration."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (34.3.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "تَضْمَنُ اتِّفَاقِيَّةُ فْيِينَا 1961 حُرْمَةَ مَقَارِّ السِّفَارَاتِ وَحَصَانَةَ المَبْعُوثِ الدِّبْلُومَاسِيِّ فِي الدَّوْلَةِ المُضِيفَةِ.(Taḍmanu ittifāqiyyatu Viyennā 1961 ḥurmata maqārri as-sifārāti wa-ḥaṣānata al-mabʿūthi ad-diblūmāsiyyi fī ad-dawlati al-muḍīfah.)",
+          "reading": "[tadˤ.ma.nu‿t.ti.faː.qij.ja.tu vi.jen.naː 1961 ħur.ma.ta ma.qaːr.ri‿s.si.faː.raː.ti wa.ħa.sˤaː.na.ta‿l.mab.ʕuː.θi‿d.dib.luː.maː.sij.ji fid.daw.la.ti‿l.mu.dˤiː.fah] (Taḍ-ma-nu it-ti-fā-qiy-ya-tu Vi-yen-nā 1961 ḥur-ma-ta ma-qār-ri as-si-fā-rā-ti wa-ḥa-ṣā-na-ta al-mab-ʿū-thi ad-dib-lū-mā-siy-yi fī ad-daw-la-ti al-mu-ḍī-fah.)",
+          "translation": "The Vienna Convention 1961 guarantees the inviolability of embassy premises and the diplomatic immunity of the envoy in the host state."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (34.3.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "أَسْفَرَتِ المُفَاوَضَاتُ المُغْلَقَةُ عَنْ تَسْوِيَةٍ تَوَافُقِيَّةٍ رَاعَتِ المَصَالِحَ الحَيَوِيَّةَ لِجَمِيعِ الأَطْرَافِ السِّيَادِيَّةِ.(Asfarati al-mufāwaḍātu al-mughlaqatu ʿan taswiyatin tawāfuqiyyatin rāʿati al-maṣāliḥa al-ḥayawiyyata li-jamīʿi al-aṭrāfi as-siyādiyyah.)",
+          "reading": "[ʔas.fa.ra.ti‿l.mu.faː.wa.dˤaː.tu‿l.muɣ.la.qa.tu ʕan tas.wi.ja.tin ta.waː.fu.qij.ja.tin raː.ʕa.til.ma.sˤaː.li.ħa‿l.ħa.ja.wij.ja.ta li.ʒa.miː.ʕi‿l.ʔatˤ.raː.fi‿s.si.jaː.dij.jah] (As-fa-ra-ti al-mu-fā-wa-ḍā-tu al-mugh-la-qa-tu ʿan tas-wi-ya-tin ta-wā-fu-qiy-ya-tin rā-ʿat al-ma-ṣā-li-ḥa al-ḥa-ya-wiy-ya-ta li-ja-mī-ʿi al-aṭ-rā-fi as-si-yā-diy-yah.)",
+          "translation": "Closed negotiations resulted in a consensual settlement respecting the vital interests of all sovereign parties."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (34.3.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "تَتَمَتَّعُ الحَقِيبَةُ الدِّبْلُومَاسِيَّةُ بِحِمَايَةٍ مُطْلَقَةٍ تَمْنَعُ فَتْحَهَا أَوْ مُصَادَرَتَهَا تَحْتَ أَيِّ ظَرْفٍ كَانَ.(Tatamattaʿu al-ḥaqībatu ad-diblūmāsiyyatu bi-ḥimāyatin muṭlaqatin tamnaʿu fatḥahā aw muṣādaratahā taḥta ayyi ẓarfin kān.)",
+          "reading": "[ta.ta.mat.ta.ʕu‿l.ħa.qiː.ba.tu‿d.dib.luː.maː.sij.ja.tu bi.ħi.maː.ja.tin mutˤ.la.qa.tin tam.na.ʕu fat.ħa.haː ʔaw mu.sˤaː.da.ra.ta.haː taħ.ta ʔaj.ji zˤar.fin kaːn] (Ta-ta-mat-ta-ʿu al-ḥa-qī-ba-tu ad-dib-lū-mā-siy-ya-tu bi-ḥi-mā-ya-tin muṭ-la-qa-tin tam-na-ʿu fat-ḥa-hā aw mu-ṣā-da-ra-ta-hā taḥ-ta ay-yi ẓar-fin kān.)",
+          "translation": "The diplomatic bag enjoys absolute protection prohibiting its opening or confiscation under any circumstance."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "بَيَانُ القِمَّةِ صَوْتُ الإِجْمَاعْ، دِبْلُومَاسِيَّةٌ تَمْنَعُ النِّزَاعْ!"
+      ],
+      "culturalNotes": [
+        "تُعد قمم جامعة الدول العربية ومجلس التعاون لدول الخليج العربية من أبرز المنصات التي تصدر أرفع وثائق العمل الدبلوماسي العربي المشترك وصياغة البيانات الختامية السيادية."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الدبلوماسية متعددة الأطراف والقانون الدولي (C2 Capstone Statecraft)» (الدرس 3)؟",
+          "prompt": "ما هي الوثيقة الدبلوماسية الختامية التي تصدر في ختام اجتماعات القادة والرؤساء لتلخيص التوافقات والقرارات؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الدبلوماسية متعددة الأطراف والقانون الدولي (C2 Capstone Statecraft)» بأسلوب أكاديمي دقيق (34.3.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (34.3.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (34.3.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (34.3.w3)"
+            "البَيَانُ الخِتَامِيُّ (Summit Final Communiqué)",
+            "محضر ضبط الشرطة",
+            "بطاقة دعوة شخصية",
+            "سند قبض مالي"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "البيان الختامي (Final Communiqué) هو الوثيقة الرسمية الجامعة التي تعبر عن توافق القمة وقراراتها الاستراتيجية."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو الحصن القانوني الذي تمنحه اتفاقية فيينا 1961 لمقار السفارات وحقائب الدبلوماسيين؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "الحُرْمَةُ وَالحَصَانَةُ الدِّبْلُومَاسِيَّةُ المُطْلَقَةُ عَنِ التَّفْتِيشِ أَوِ الاقْتِحَامِ (Absolute inviolability and diplomatic immunity from search/entry)",
+            "السماح بتفتيشها يوميا في المطار",
+            "دفع الضرائب التجارية للبلد المضيف",
+            "نزع الحصانة في العطلات الأسبوعية"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "اتفاقية فيينا 1961 تقرر حرمة مقرات البعثات الدبلوماسية والحقيبة الدبلوماسية وحصانتها التامة لحماية سيادة الاتصال."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u34-l3):",
+          "prompt": "اختر الصياغة النموذجية لافتتاحية إعلان قمة رئاسية تعبر عن الإجماع والتعاون المشترك:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (34.3.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (34.3.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (34.3.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (34.3.x3)"
+            "«أَكَّدَ القَادَةُ فِي خِتَامِ أَعْمَالِ القِمَّةِ عَلَى وَحْدَةِ الصَّفِّ، وَشَدَّدُوا عَلَى ضَرُورَةِ تَعْزِيزِ الشَّرَاكَةِ الِاسْتِرَاتِيجِيَّةِ لِتَحْقِيقِ التَّنْمِيَةِ المُسْتَدَامَةِ وَالسِّلْمِ الإِقْلِيمِيِّ». ('The leaders confirmed at summit conclusion the unity of ranks, emphasizing the necessity of enhancing strategic partnership for sustainable development and regional peace.')",
+            "اجتمعنا اليوم وتحدثنا قليلا ثم تناولنا العشاء وغادرنا",
+            "اختلف القادة في كل شيء وقرروا عدم اللقاء مجددا",
+            "بيان ختامي قمة دبلوماسية حصانة فيينا سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "هذه هي الصياغة الدبلوماسية الفصحى الرصينة المعتمدة في البيانات الرئاسية والبيانات الختامية للقمم."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الدبلوماسية متعددة الأطراف والقانون الدولي (C2 Capstone Statecraft)»؟",
+          "prompt": "ما إعراب كلمة «البَيَانُ» في جملة: «صَدَرَ البَيَانُ الخِتَامِيُّ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (34.3.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (34.3.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (34.3.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (34.3.y3)"
+            "فَاعِلٌ مَرْفُوعٌ بِالضَّمَّةِ الظَّاهِرَةِ (Subject in nominative)",
+            "مفعول به منصوب بالفتحة",
+            "نائب فاعل مرفوع",
+            "مبتدأ مؤخر مرفوع"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«صَدَرَ» فعل ماضٍ، و«البَيَانُ» فاعل مرفوع وعلامة رفعه الضمة الظاهرة."
         }
       ]
     },
@@ -20666,24 +20687,27 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 34-3)؟",
+          "prompt": "اختر النص الدبلوماسي التوثيقي الذي يحلل فنون صياغة البيانات الختامية وضمانات الحصانة الدبلوماسية بأعلى درجات البلاغة السيادية:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (34.3.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (34.3.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (34.3.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (34.3.z3)"
+            "تَتَجَلَّى بَرَاعَةُ الدِّبْلُومَاسِيَّةِ السِّيَادِيَّةِ فِي صِيَاغَةِ «البَيَانَاتِ الخِتَامِيَّةِ لِلْقِمَمِ الدَّوْلِيَّةِ» حَيْثُ تَتَّحِدُ الإِرَادَةُ السِّيَاسِيَّةُ مَعَ دِقَّةِ اللَّفْظِ لِتَرْسِيخِ التَّوَافُقِ وَحِمَايَةِ المَصَالِحِ الحَيَوِيَّةِ لِلأُمَمِ؛ وَتَتَكَامَلُ هٰذِهِ المَنْظُومَةُ مَعَ «اتِّفَاقِيَّةِ فْيِينَا لِلْعَلَاقَاتِ الدِّبْلُومَاسِيَّةِ 1961» الَّتِي شَيَّدَتْ حِصْنَ الحَصَانَاتِ وَالامْتِيَازَاتِ، فَحَمَتْ حُرْمَةَ المَقَارِّ وَحَصَانَةَ المَبْعُوثِ وَقَدَاسَةَ الحَقِيبَةِ الدِّبْلُومَاسِيَّةِ، لِيَبْقَى الحِوَارُ الدَّوْلِيُّ آمِنًا وَفَاعِلًا فِي خِدْمَةِ السِّلْمِ وَالأَمْنِ العَالَمِيَّيْنِ. (The mastery of sovereign diplomacy manifests in drafting 'International Summit Final Communiqués' where political will unites with verbal precision to consolidate consensus and protect nations' vital interests; integrated with the 'Vienna Convention on Diplomatic Relations 1961' which erected the fortress of immunities and privileges, protecting mission premises inviolability, envoy immunity, and diplomatic bag sanctity, keeping international dialogue secure and effective in service of global peace and security.)",
+            "البيان الختامي هو ملخص للقمة الدبلوماسية التي يحضرها الرؤساء.",
+            "بيان ختامي قمة مفاوضات حصانات امتيازات فيينا 1961 سكون فتحة ضمة تنوين.",
+            "لا تعترف الدول بالحصانة الدبلوماسية في العصر الحديث."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يجمع بين فنون صياغة البيانات الختامية التوافقية، وضمانات اتفاقية فيينا 1961 للحصانات والامتيازات الدبلوماسية في سياق سيادي متقن."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u34-l3) باللغة العربية (مثال: «الدبلوماسية»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم الوثيقة السياسية الرسمية التي تصدر في ختام مؤتمرات القمة لإعلان نتائجها (اكتب: «البيان الختامي»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الدبلوماسية",
-            "الدبلوماسية"
+            "البيان الختامي",
+            "بيان ختامي",
+            "البيان الختامى",
+            "البَيَانُ الخِتَامِيُّ",
+            "البَيَان الخِتَامِي"
           ],
-          "explanation": "المصطلح الصحيح هو «الدبلوماسية»."
+          "explanation": "الوثيقة هي «البيان الختامي» (Final Communiqué)."
         }
       ],
       "passThreshold": 0.8
@@ -20694,85 +20718,89 @@
     "subject": "arabic",
     "unit": 34,
     "lessonNumber": 4,
-    "title": "الدبلوماسية متعددة الأطراف والقانون الدولي (C2 Capstone Statecraft) (الدرس 4)",
+    "title": "تسوية النزاعات الدولية والتحكيم والعدالة الدولية (International Dispute Settlement & Arbitration)",
     "level": "C2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: اتفاقية فيينا لقانون المعاهدات 1969، قرارات مجلس الأمن، والبيانات الختامية للقمم الدولية. (الجزء 4).",
+    "objective": "إتقان آليات التسوية السلمية للنزاعات الدولية (المادة 33 من ميثاق الأمم المتحدة): المفاوضات، المساعي الحميدة، الوساطة، التحكيم الدولي (Arbitration)، ومحكمة العدل الدولية (ICJ).",
     "presentation": {
-      "explanation": "",
+      "explanation": "يُعد مبدأ «التَّسْوِيَةِ السِّلْمِيَّةِ لِلْمُنَازَعَاتِ الدَّوْلِيَّةِ» الركيزة الأساسية لمنع الحروب وحفظ السلم، وقد نصت عليه **المادة 33 من ميثاق الأمم المتحدة**:\n\nأولاً: الوسائل الدبلوماسية والسياسية لتسوية النزاعات:\n1. **المُفَاوَضَاتُ المُبَاشِرَةُ (Direct Negotiations)**: الحوار الثنائي المباشر بين أطراف النزاع دون وسيط.\n2. **المَسَاعِي الحَمِيدَةُ (Good Offices)**: قيام طرف ثالث محايد بتسهيل استئناف الاتصال بين الخصوم دون التدخل في مضمون المفاوضات.\n3. **الوَسَاطَةُ (Mediation)**: تدخل طرف ثالث يقترح حلولاً وتسويات مقبولة للنزاع.\n4. **التَّحْقِيقُ وَالتَّوْفِيقُ (Inquiry & Conciliation)**: لجان محايدة لتحديد الوقائع القانونية واقتراح توصيات غير ملزمة.\n\nثانياً: الوسائل القضائية والتحكيمية الإلزامية:\n1. **التَّحْكِيمُ الدَّوْلِيُّ (International Arbitration)**:\n   - فصل النزاع بحكم قانوني ملزم عبر هيئة تحكيم يختارها الخصوم (محكمة التحكيم الدائمة في لاهاي - PCA).\n2. **التَّسْوِيَةُ القَضَائِيَّةُ وَمَحْكَمَةُ العَدْلِ الدَّوْلِيَّةُ (ICJ - The Hague)**:\n   - الجهاز القضائي الرئيسي للأمم المتحدة:\n     * **الدَّعَاوَى النِّزَاعِيَّةُ (Contentious Cases)**: أحكام قطعية ملزمة للدول الأطراف في النزاع (وفق المادة 94 من الميثاق).\n     * **الفَتَاوَى الاسْتِشَارِيَّةُ (Advisory Opinions)**: آراء قانونية تصدرها المحكمة بطلب من الجمعية العامة أو مجلس الأمن حول قضايا القانون الدولي.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الدبلوماسية متعددة الأطراف والقانون الدولي (C2 Capstone Statecraft)» بأسلوب أكاديمي دقيق (34.4.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الدبلوماسية متعددة الأطراف والقانون الدولي (C2 Capstone Statecraft)' to students in an accurate academic style."
+          "target": "تَقْضِي المَادَّةُ الثَّالِثَةُ وَالثَّلَاثُونَ مِنْ مِيثَاقِ الأُمَمِ المُتَّحِدَةِ بِوُجُوبِ حَلِّ النِّزَاعَاتِ بِالوَسَائِلِ السِّلْمِيَّةِ كَالمُفَاوَضَاتِ وَالوَسَاطَةِ وَالتَّحْكِيمِ.(Taqḍī al-māddatu ath-thālithatu wa-ath-thalāthūna min mīthāqi al-Umami al-Muttaḥidati bi-wujūbi ḥalli an-nizāʿāti bi-al-wasāʾili as-silmiyyati ka-al-mufāwaḍāti wa-al-wasāṭati wa-al-taḥkīm.)",
+          "reading": "[taq.dˤiː‿l.maːd.da.tu‿θ.θaː.li.θa.tu waθ.θa.laː.θuː.na min miː.θaː.qi‿l.ʔu.ma.mi‿l.mut.ta.ħi.da.ti bi.wu.ʒuː.bi ħal.lin.ni.zaː.ʕaː.ti bil.wa.saː.ʔi.li‿s.sil.mij.ja.ti kal.mu.faː.wa.dˤaː.ti wal.wa.saː.tˤa.ti wat.taħ.kiːm] (Taq-ḍī al-mād-da-tu ath-thā-li-tha-tu wa-ath-tha-lā-thū-na min mī-thā-qi al-U-ma-mi al-Mut-ta-ḥi-da-ti bi-wu-jū-bi ḥal-li an-ni-zā-ʿā-ti bi-al-wa-sā-ʾi-li as-sil-miy-ya-ti kal-mu-fā-wa-ḍā-ti wal-wa-sā-ṭa-ti wat-taḥ-kīm.)",
+          "translation": "Article 33 of the UN Charter stipulates the obligation to resolve disputes through peaceful means such as negotiations, mediation, and arbitration."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (34.4.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "تُصْدِرُ مَحْكَمَةُ العَدْلِ الدَّوْلِيَّةِ فِي لَاهَاي أَحْكَامًا قَضَائِيَّةً قَاطِعَةً وَفَتَاوَى اسْتِشَارِيَّةً تُعَزِّزُ حُكْمَ القَانُونِ الدَّوْلِيِّ.(Tuṣdiru maḥkamatu al-ʿadli ad-dawliyyati fī Lāhāy aḥkāman qaḍāʾiyyatan qāṭiʿatan wa-fatāwā istishāriyyatan tuʿazzizu ḥukma al-qānūni ad-dawliyy.)",
+          "reading": "[tusˤ.di.ru maħ.ka.ma.tu‿l.ʕad.li‿d.daw.lij.ja.ti fiː laː.haːj ʔaħ.kaː.man qa.dˤaː.ʔij.ja.tan qaː.tˤi.ʕa.tan wa.fa.taː.waː‿s.ti.ʃaː.rij.ja.tan tu.ʕaz.zi.zu ħuk.ma‿l.qaː.nuː.ni‿d.daw.lijj] (Tuṣ-di-ru maḥ-ka-ma-tu al-ʿad-li ad-daw-liy-ya-ti fī Lā-hāy aḥ-kā-man qa-ḍā-ʾiy-ya-tan qā-ṭi-ʿa-tan wa-fa-tā-wā is-ti-shā-riy-ya-tan tu-ʿaz-zi-zu ḥuk-ma al-qā-nū-ni ad-daw-liyy.)",
+          "translation": "The International Court of Justice in The Hague issues binding judicial judgments and advisory opinions enhancing international rule of law."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (34.4.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "يَمْتَازُ التَّحْكِيمُ الدَّوْلِيُّ بِأَنَّ قَرَارَ هَيْئَةِ التَّحْكِيمِ نِهَائِيٌّ وَمُلْزِمٌ قَانُونًا لِطَرَفَيِ النِّزَاعِ.(Yamtāzu at-taḥkīmu ad-dawliyyu bi-anna qarāra hayʾati at-taḥkīmi nihāʾiyyun wa-mulzimun qānūnan li-ṭarafayi an-nizāʿ.)",
+          "reading": "[jam.taː.zu‿t.taħ.kiː.mu‿d.daw.lij.ju bi.ʔan.na qa.raː.ra haj.ʔa.ti‿t.taħ.kiː.mi ni.haː.ʔij.jun wa.mul.zi.mun qaː.nuː.nan li.tˤa.ra.fa.jin.ni.zaːʕ] (Yam-tā-zu at-taḥ-kī-mu ad-daw-liy-yu bi-an-na qa-rā-ra hay-ʾa-ti at-taḥ-kī-mi ni-hā-ʾiy-yun wa-mul-zi-mun qā-nū-nan li-ṭa-ra-fa-yi an-ni-zāʿ.)",
+          "translation": "International arbitration is distinguished by the fact that the arbitral tribunal award is final and legally binding on dispute parties."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (34.4.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "نَجَحَتِ الوَسَاطَةُ الدِّبْلُومَاسِيَّةُ فِي تَقْرِيبِ وُجُهَاتِ النَّظَرِ وَإِبْرَامِ اتِّفَاقِيَّةِ سَلَامٍ شَامِلَةٍ.(Najaḥati al-wasāṭatu ad-diblūmāsiyyatu fī taqrībi wujuhāti an-naẓari wa-ibrāmi ittifāqiyyati salāmin shāmilah.)",
+          "reading": "[na.ʒa.ħa.ti‿l.wa.saː.tˤa.tu‿d.dib.luː.maː.sij.ja.tu fiː taq.riː.bi wu.ʒuː.haː.ti‿n.na.zˤa.ri wa.ʔib.raː.mi‿t.ti.faː.qij.ja.ti sa.laː.min ʃaː.mi.lah] (Na-ja-ḥat al-wa-sā-ṭa-tu ad-dib-lū-mā-siy-ya-tu fī taq-rī-bi wu-jū-hā-ti an-na-ẓa-ri wa-ib-rā-mi it-ti-fā-qiy-ya-ti sa-lā-min shā-mi-lah.)",
+          "translation": "Diplomatic mediation succeeded in bridging viewpoints and concluding a comprehensive peace agreement."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "سِلْمُ النِّزَاعِ هُدًى لِلْعَالَمِينْ، عَدْلٌ وَتَحْكِيمٌ لِحَقِّ الشَّعْبِ صِينْ!"
+      ],
+      "culturalNotes": [
+        "تُعد استعادة مصر لسيادة طابا عبر التحكيم الدولي لعام 1988 نموذجاً قانونياً ودبلوماسياً تاريخياً في العالم العربي على الانتصار بالبراهين والوثائق والتحكيم الدولي."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الدبلوماسية متعددة الأطراف والقانون الدولي (C2 Capstone Statecraft)» (الدرس 4)؟",
+          "prompt": "ما هي المادة في ميثاق الأمم المتحدة التي تنص على الوسائل السلمية لتسوية المنازعات الدولية (المفاوضات، الوساطة، التحكيم، والتسوية القضائية)؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الدبلوماسية متعددة الأطراف والقانون الدولي (C2 Capstone Statecraft)» بأسلوب أكاديمي دقيق (34.4.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (34.4.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (34.4.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (34.4.w3)"
+            "المَادَّةُ 33 مِنْ مِيثَاقِ الأُمَمِ المُتَّحِدَةِ (Article 33 of the UN Charter)",
+            "المادة الأولى فقط",
+            "المادة مائة وعشرون",
+            "لا يوجد نص على التسوية السلمية"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "المادة 33 هي الأساس القانوني الدولي الذي يلزم الدول بالسعي إلى حل منازعاتها بالطرق السلمية."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "أين يقع المقر الدائم لمحكمة العدل الدولية (الجهاز القضائي الرئيسي للأمم المتحدة)؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "فِي قَصْرِ السَّلَامِ بِمَدِينَةِ لَاهَاي (هُولَنْدَا) (Peace Palace, The Hague, Netherlands)",
+            "في نيويورك",
+            "في باريس",
+            "في طوكيو"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "يقع مقر محكمة العدل الدولية (ICJ) ومحكمة التحكيم الدائمة في قصر السلام بمدينة لاهاي بهولندا."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u34-l4):",
+          "prompt": "ما هو الفرق بين «الدعاوى النزاعية» و«الفتاوى الاستشارية» الصادرة عن محكمة العدل الدولية؟",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (34.4.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (34.4.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (34.4.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (34.4.x3)"
+            "«الدَّعَاوَى النِّزَاعِيَّةُ تَصْدُرُ بِأَحْكَامٍ قَضَائِيَّةٍ مُلْزِمَةٍ لِلدُّوَلِ الأَطْرَافِ، بَيْنَمَا الفَتَاوَى الاسْتِشَارِيَّةُ آرَاءٌ قَانُونِيَّةٌ غَيْرُ مُلْزِمَةٍ بِذَاتِهَا تُفَسِّرُ القَانُونَ الدَّوْلِيَّ». ('Contentious cases issue binding judgments for parties; advisory opinions are legal clarifications of international law.')",
+            "الفتاوى الاستشارية ملزمة والدعاوى غير ملزمة",
+            "كلاهما نصائح شفوية غير رسمية",
+            "نزاعات دولية محكمة عدل لاهاي تحكيم سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الأحكام في القضايا النزاعية بين الدول قطعية وملزمة وفق المادة 94، بينما الفتاوى الاستشارية توضح الموقف القانوني الدولي بطلب من أجهزة الأمم المتحدة."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الدبلوماسية متعددة الأطراف والقانون الدولي (C2 Capstone Statecraft)»؟",
+          "prompt": "ما إعراب كلمة «أَحْكَامًا» في جملة: «تُصْدِرُ المَحْكَمَةُ أَحْكَامًا قَاطِعَةً»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (34.4.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (34.4.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (34.4.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (34.4.y3)"
+            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (Direct object in accusative)",
+            "فاعل مرفوع بالضمة",
+            "نعت منصوب",
+            "حال منصوبة بالفتحة"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«المَحْكَمَةُ» فاعل مرفوع، و«أَحْكَامًا» مفعول به منصوب وعلامة نصبه الفتحة الظاهرة."
         }
       ]
     },
@@ -20780,24 +20808,27 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 34-4)؟",
+          "prompt": "اختر النص القانوني الدبلوماسي الشامل الذي يوثق آليات العدالة الدولية والتحكيم وفض المنازعات السلمية بأعلى درجات الفصاحة المعيارية:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (34.4.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (34.4.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (34.4.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (34.4.z3)"
+            "يُشَكِّلُ مَبْدَأُ «التَّسْوِيَةِ السِّلْمِيَّةِ لِلْمُنَازَعَاتِ الدَّوْلِيَّةِ» حَجَرَ الزَّاوِيَةِ فِي مِيثَاقِ الأُمَمِ المُتَّحِدَةِ (المَادَّة 33)؛ حَيْثُ يُتِيحُ لِلدُّوَلِ التَّدَرُّجَ مِنْ حِوَارِ المُفَاوَضَاتِ وَالمَسَاعِي الحَمِيدَةِ وَالوَسَاطَةِ، إِلَى صَرَامَةِ التَّحْكِيمِ الدَّوْلِيِّ وَقَضَاءِ «مَحْكَمَةِ العَدْلِ الدَّوْلِيَّةِ فِي لَاهَاي»، لِتَظَلَّ سِيَادَةُ القَانُونِ وَقَرَارَاتُ الشَّرْعِيَّةِ الدَّوْلِيَّةِ الدِّرْعَ الحَامِيَ لِحُقُوقِ الشُّعُوبِ وَحِصْنَ السِّلْمِ وَالأَمْنِ العَالَمِيَّيْنِ. (The principle of 'Peaceful Settlement of International Disputes' forms the cornerstone of the UN Charter [Article 33]; allowing states to ascend from dialogue of negotiations, good offices, and mediation, to the rigor of international arbitration and adjudication of the 'International Court of Justice in The Hague', ensuring rule of law and international legitimacy decisions remain the protective shield of nations' rights and fortress of global peace and security.)",
+            "محكمة العدل الدولية تفصل في النزاعات بين الدول في مدينة لاهاي.",
+            "نزاعات دولية تسوية سلمية مادة 33 مفاوضات وساطة تحكيم محكمة لاهاي سكون فتحة ضمة تنوين.",
+            "ألغت المحاكم الدولية آليات التحكيم التجاري والدولي."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يحيط بكافة منظومة التسوية السلمية: المادة 33، الوسائل السياسية (مفاوضات، وساطة، مساعٍ حميدة)، والوسائل القضائية (التحكيم الدولي، محكمة العدل الدولية) وسيادة القانون الدولي."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u34-l4) باللغة العربية (مثال: «الدبلوماسية»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم الجهاز القضائي الرئيسي للأمم المتحدة ومقره لاهاي (اكتب: «محكمة العدل الدولية»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الدبلوماسية",
-            "الدبلوماسية"
+            "محكمة العدل الدولية",
+            "محكمة العدل الدوليه",
+            "العدل الدولية",
+            "مَحْكَمَةُ العَدْلِ الدَّوْلِيَّةِ",
+            "مَحْكَمَة العَدْل الدَّوْلِيَّة"
           ],
-          "explanation": "المصطلح الصحيح هو «الدبلوماسية»."
+          "explanation": "المحكمة هي «محكمة العدل الدولية» (International Court of Justice - ICJ)."
         }
       ],
       "passThreshold": 0.8
@@ -20808,85 +20839,89 @@
     "subject": "arabic",
     "unit": 34,
     "lessonNumber": 5,
-    "title": "الدبلوماسية متعددة الأطراف والقانون الدولي (C2 Capstone Statecraft) (الدرس 5)",
+    "title": "حوار قمة الدبلوماسية الشاملة وحصاد الإتقان العربي C2 (Grand Multilateral Summit & Arabic C2 Capstone Mastery)",
     "level": "C2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: اتفاقية فيينا لقانون المعاهدات 1969، قرارات مجلس الأمن، والبيانات الختامية للقمم الدولية. (الجزء 5).",
+    "objective": "التتويج الأسطوري الشامل لمنهاج اللغة العربية الفصحى بالكامل (170/170 درسًا - C2 Mastery): دمج المعاهدات الدولية وقرارات مجلس الأمن، البيان الختامي، والتسوية السلمية في قمة دبلوماسية تاريخية كبرى بالأمم المتحدة تتوج الإتقان اللغوي والأدبي والفلسفي والتشريعي المطلق للغة العربية.",
     "presentation": {
-      "explanation": "",
+      "explanation": "مرحبًا بك في الدرس الختامي والتتويجي لمنهاج اللغة العربية الفصحى (الدرس رقم 170 / 170 - مستوى C2 Mastery الأعلى في الكفاءة اللغوية عالميًا)!\n\nفي هذا الدرس الملحمي، ندمج أصول الدبلوماسية والقانون الدولي مع حصاد الإتقان العربي الشامل (النحو، الصرف، البلاغة، الأدب، الفلسفة، العلوم، أصول الفقه، المناظرة، والسياسة الدولية) في حوار قمة دبلوماسية تاريخية بالأمم المتحدة بين المندوب الدائم والسفير المفوض فوق العادة (سعادة د. سامي) وممثلة الأمين العام ومستشارة القانون الدولي (سعادة د. ريم):\n\nالمحاور التتويجية الشاملة لمنهاج العربية C2:\n1.【القانون الدولي والمعاهدات】: «اتِّفَاقِيَّةُ فْيِينَا 1969»، «العَقْدُ شَرِيعَةُ المُتَعَاقِدِينَ (*Pacta sunt servanda*)»، و«عُلْوِيَّةُ القَوَاعِدِ الآمِرَةِ (*Jus Cogens*)».\n2.【قرارات مجلس الأمن】: الصياغة التمهيدية والمنطوقة، وتدابير «الفَصْلِ السَّابِعِ مِنْ مِيثَاقِ الأُمَمِ المُتَّحِدَةِ».\n3.【البيان الختامي والحصانات】: «إِجْمَاعُ القِمَمِ السِّيَادِيَّةِ»، و«اتِّفَاقِيَّةُ فْيِينَا لِلْعَلَاقَاتِ الدِّبْلُومَاسِيَّةِ 1961».\n4.【العدالة الدولية وفض النزاعات】: «المَادَّةُ 33»، «التَّحْكِيمُ الدَّوْلِيُّ»، و«أَحْكَامُ مَحْكَمَةِ العَدْلِ الدَّوْلِيَّةِ فِي لَاهَاي».\n5.【حصاد الإتقان والخلود اللغوي العربي】: الاحتفاء باللسان العربي المبين كأعظم لغة حية جمعت بين إعجاز الوحي، ودقة الفلسفة، ومرونة التشريع، وسحر الشعر، وجلال الدبلوماسية العالمية.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الدبلوماسية متعددة الأطراف والقانون الدولي (C2 Capstone Statecraft)» بأسلوب أكاديمي دقيق (34.5.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الدبلوماسية متعددة الأطراف والقانون الدولي (C2 Capstone Statecraft)' to students in an accurate academic style."
+          "target": "سَعَادَةَ السَّفِيرَةِ رِيم، كَيْفَ نُتَوِّجُ مَسِيرَةَ الدِّبْلُومَاسِيَّةِ وَالإِتْقَانِ العَرَبِيِّ C2 فِي صِيَاغَةِ بَيَانِ هٰذِهِ القِمَّةِ التَّارِيخِيَّةِ؟(Saʿādata as-safīrati Rīm, kayfa nutawwiju masīrata ad-diblūmāsiyyati wa-al-itqāni al-ʿarabiyyi C2 fī ṣiyāghati bayāni hādhihi al-qimmati at-tārīkhiyyah?)",
+          "reading": "[sa.ʕaː.da.ta‿s.sa.fiː.ra.ti riːm, kaj.fa nu.taw.wi.ʒu ma.siː.ra.ta‿d.dib.luː.maː.sij.ja.ti wal.ʔit.qaː.ni‿l.ʕa.ra.bij.ji siː tuː fiː sˤi.jaː.ɣa.ti ba.jaː.ni haː.ði.hi‿l.qim.ma.ti‿t.taː.riː.xij.jah?] (Sa-ʿā-da-ta as-sa-fī-ra-ti Rīm, kay-fa nu-taw-wi-ju ma-sī-ra-ta ad-dib-lū-mā-siy-ya-ti wal-it-qā-ni al-ʿa-ra-biy-yi C2 fī ṣi-yā-gha-ti ba-yā-ni hā-dhi-hi al-qim-ma-ti at-tā-rī-khiy-yah?)",
+          "translation": "Excellency Ambassador Reem, how do we crown the journey of diplomacy and Arabic C2 mastery in drafting this historic summit communiqué?"
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (34.5.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "أَهْلًا سَعَادَةَ المَنْدُوبِ الدَّائِمِ د. سَامِي؛ إِنَّهُ اللِّسَانُ العَرَبِيُّ الَّذِي يَجْمَعُ بَيْنَ صَلَابَةِ الشَّرْعِيَّةِ الدَّوْلِيَّةِ وَسُمُوِّ البَيَانِ الدِّبْلُومَاسِيِّ الخَالِدِ.(Ahlan saʿādata al-mandūbi ad-dāʾimi duktūr Sāmī; innahu al-lisānu al-ʿarabiyyu al-ladhī yajmaʿu bayna ṣalābati ash-sharʿiyyati ad-dawliyyati wa-sumuwwi al-bayāni ad-diblūmāsiyyi al-khālid.)",
+          "reading": "[ʔah.lan sa.ʕaː.da.ta‿l.man.duː.bi‿d.daː.ʔi.mi duk.tuːr saː.miː; ʔin.na.hu‿l.li.saː.nu‿l.ʕa.ra.bij.ju‿l.la.ðiː jaʒ.ma.ʕu baj.na sˤa.laː.ba.ti‿ʃ.ʃar.ʕij.ja.ti‿d.daw.lij.ja.ti wa.su.muw.wi‿l.ba.jaː.ni‿d.dib.luː.maː.sij.ji‿l.xaː.lid] (Ah-lan sa-ʿā-da-ta al-man-dū-bi ad-dā-ʾi-mi duk-tūr Sā-mī; in-na-hu al-li-sā-nu al-ʿa-ra-biy-yu al-la-dhī yaj-ma-ʿu bay-na ṣa-lā-ba-ti ash-shar-ʿiy-ya-ti ad-daw-liy-ya-ti wa-su-muw-wi al-ba-yā-ni ad-dib-lū-mā-siy-yi al-khā-lid.)",
+          "translation": "Welcome Excellency Permanent Representative Dr. Sami; it is the Arabic tongue that unites international legitimacy's solidity with the sublimity of eternal diplomatic eloquence."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (34.5.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "فَنَصُوغُ المُعَاهَدَاتِ بِقَوَاعِدِ فْيِينَا الآمِرَةِ، وَنُرَسِّخُ السِّلْمَ بِمِيثَاقِ الأُمَمِ المُتَّحِدَةِ، لِيَبْقَى العَقْدُ شَرِيعَةَ المُتَعَاقِدِينَ وَدِرْعَ الحَقِّ وَالعَدَالَةِ.(Fa-naṣūghu al-muʿāhadāti bi-qawāʿidi Viyennā al-āmirah, wa-nurassikhu as-silma bi-mīthāqi al-Umami al-Muttaḥidah, li-yabqā al-ʿaqdu sharīʿata al-mutaʿāqidīna wa-dirʿa al-ḥaqqi wa-al-ʿadālah.)",
+          "reading": "[fa.na.sˤuː.ɣu‿l.mu.ʕaː.ha.daː.ti bi.qa.waː.ʕi.di vi.jen.nal.ʔaː.mi.rah, wa.nu.ras.si.xu‿s.sil.ma bi.miː.θaː.qi‿l.ʔu.ma.mi‿l.mut.ta.ħi.dah, li.jab.qal.ʕaq.du ʃa.riː.ʕa.ta‿l.mu.ta.ʕaː.qi.diː.na wa.dir.ʕa‿l.ħaq.qi wal.ʕa.daː.lah] (Fa-na-ṣū-ghu al-mu-ʿā-ha-dā-ti bi-qa-wā-ʿi-di Vi-yen-nā al-ā-mi-rah, wa-nu-ras-si-khu as-sil-ma bi-mī-thā-qi al-U-ma-mi al-Mut-ta-ḥi-dah, li-yab-qā al-ʿaq-du sha-rī-ʿa-ta al-mu-ta-ʿā-qi-dī-na wa-dir-ʿa al-ḥaq-qi wal-ʿa-dā-lah.)",
+          "translation": "So we draft treaties with Vienna's peremptory norms, and cement peace via the UN Charter, keeping agreements binding and the shield of truth and justice."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (34.5.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "هَنِيئًا لِطُلَّابِ العَرَبِيَّةِ بُلُوغَ هٰذِهِ الذِّرْوَةِ الشَّامِخَةِ مِنَ التَّمَكُّنِ الشَّامِلِ؛ فَقَدْ حُزْتُمْ مَفَاتِيحَ أَعْظَمِ لِسَانٍ فِي تَارِيخِ الإِنْسَانِيَّةِ!(Hanīʾan li-ṭullābi al-ʿarabiyyati bulūgha hādhihi adh-dhirwati ash-shāmikhati min al-tamakkuni ash-shāmil; fa-qad ḥuztum mafātīḥa aʿẓami lisānin fī tārīkhi al-insāniyyah!)",
+          "reading": "[ha.niː.ʔan li.tˤul.laː.bi‿l.ʕa.ra.bij.ja.ti bu.luː.ɣa haː.ði.hi‿ð.ðir.wa.ti‿ʃ.ʃaː.mi.xa.ti mi.nat.ta.mak.ku.ni‿ʃ.ʃaː.mil; fa.qad ħuz.tum ma.faː.tiː.ħa ʔaʕ.zˤa.mi li.saː.nin fiː taː.riː.xi‿l.ʔin.saː.nij.jah!] (Ha-nī-ʾan li-ṭul-lā-bi al-ʿa-ra-biy-ya-ti bu-lū-gha hā-dhi-hi adh-dhir-wa-ti ash-shā-mi-kha-ti min at-ta-mak-ku-ni ash-shā-mil; fa-qad ḥuz-tum ma-fā-tī-ḥa aʿ-ẓa-mi li-sā-nin fī tā-rī-khi al-in-sā-niy-yah!)",
+          "translation": "Congratulations to students of Arabic on reaching this lofty summit of comprehensive mastery; you have attained the keys to the greatest tongue in human history!"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "تَمَّتْ بِحَمْدِ اللَّهِ غَايَاتُ البَيَانْ، مِسْكُ الخِتَامِ ضِيَاءُ عِزٍّ وَأَمَانْ!"
+      ],
+      "culturalNotes": [
+        "بإتمام هذا الدرس، يكتمل منهاج اللغة العربية الفصحى عبر 34 وحدة و170 درساً تأليفياً رصيناً، متدرجاً من الحروف والأصوات حتى قمة الدبلوماسية الدولية وفلسفة الفكر والتشريع (C2 Mastery Capstone)."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الدبلوماسية متعددة الأطراف والقانون الدولي (C2 Capstone Statecraft)» (الدرس 5)؟",
+          "prompt": "ما هو الإنجاز الأكاديمي والمعرفي الشامل الذي يتحقق بإتمام هذا الدرس التتويجي (الدرس 170 من منهاج العربية)؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الدبلوماسية متعددة الأطراف والقانون الدولي (C2 Capstone Statecraft)» بأسلوب أكاديمي دقيق (34.5.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (34.5.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (34.5.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (34.5.w3)"
+            "بُلُوغُ دَرَجَةِ الإِتْقَانِ اللُّغَوِيِّ وَالفِكْرِيِّ وَالدِّبْلُومَاسِيِّ الكَامِلِ (C2 Full Mastery) فِي اللُّغَةِ العَرَبِيَّةِ الفُصْحَى (Attaining full C2 linguistic, intellectual & diplomatic mastery in Classical/Standard Arabic)",
+            "حفظ عشر كلمات جديدة فقط",
+            "تعلم قراءة الحروف الأبجدية",
+            "التوقف عن التحدث بالعربية"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "إتمام 170 درساً بتكامل نحوي وبلاغي وأدبي وفلسفي ودبلوماسي يمنح المتعلم أعلى درجات الكفاءة والإتقان اللغوي الشامل (C2 Mastery)."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "كيف تتكامل علوم اللغة العربية (نحواً وبلاغة) مع الصياغة الدبلوماسية والقانونية الدولية؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "بِأَنَّ الدِّقَّةَ النَّحْوِيَّةَ وَالبَلَاغِيَّةَ هِيَ الضَّامِنُ لِعَدَمِ اللَّبْسِ فِي تَفْسِيرِ حُقُوقِ وَوَاجِبَاتِ الدُّوَلِ وَالمُعَاهَدَاتِ السِّيَادِيَّةِ (Grammatical and rhetorical precision guarantees zero ambiguity in interpreting sovereign treaty rights and duties)",
+            "بفصل اللغة عن القانون تماماً",
+            "بالاعتماد على الترجمات الآلية العشوائية دون تدقيق",
+            "بإلغاء المعاجم اللغوية"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "الدقة النحوية وضبط دلالات الألفاظ هما ركيزة الصياغة القانونية الرصينة لمنع النزاعات وتأكيد الالتزامات الدولية."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u34-l5):",
+          "prompt": "اختر العبارة التتويجية التي تجسد خلود اللغة العربية وريادتها الحضارية والإنسانية بأرقى أسلوب أدبي:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (34.5.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (34.5.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (34.5.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (34.5.x3)"
+            "«إِنَّ اللُّغَةَ العَرَبِيَّةَ الفُصْحَى لَيْسَتْ مُجَرَّدَ أَدَاةٍ لِلتَّوَاصُلِ، بَلْ هِيَ وِعَاءُ الحَضَارَةِ، وَمِرْآةُ الفِكْرِ، وَلِسَانُ الحِكْمَةِ الخَالِدُ الَّذِي سَيَظَلُّ يُشِعُّ نُورًا وَبَيَانًا عَلَى البَشَرِيَّةِ جَمْعَاءَ». ('Classical Arabic is not merely a communication tool, but the vessel of civilization, mirror of thought, and eternal tongue of wisdom that will forever radiate light and eloquence upon all humanity.')",
+            "اللغة العربية صعبة وقواعدها كثيرة",
+            "انتهت دراسة اللغة العربية لهذا اليوم فقط",
+            "عربية ختام إتقان تتويج منهاج سكون"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "العبارة تتوج مكانة العربية كوعاء حضاري ورسالة إنسانية تجمع بين الفصاحة والبلاغة والخلود."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الدبلوماسية متعددة الأطراف والقانون الدولي (C2 Capstone Statecraft)»؟",
+          "prompt": "ما إعراب كلمة «مَفَاتِيحَ» في قولنا: «فَقَدْ حُزْتُمْ مَفَاتِيحَ أَعْظَمِ لِسَانٍ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (34.5.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (34.5.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (34.5.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (34.5.y3)"
+            "مَفْعُولٌ بِهِ مَنْصُوبٌ بِالفَتْحَةِ الظَّاهِرَةِ (Direct object in accusative)",
+            "فاعل مرفوع بالضمة",
+            "مضاف إليه مجرور بالفتحة",
+            "حال منصوبة بالفتحة"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«حُزْتُمْ» فعل وفاعل، و«مَفَاتِيحَ» مفعول به منصوب وعلامة نصبه الفتحة الظاهرة."
         }
       ]
     },
@@ -20894,24 +20929,31 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 34-5)؟",
+          "prompt": "اختر النص التتويجي التاريخي الشامل الذي يُلخص إتمام المنهاج العربي الكامل (170/170 درسًا) وتكامله الدبلوماسي والحضاري بأعلى معايير الإعجاز البياني:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (34.5.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (34.5.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (34.5.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (34.5.z3)"
+            "د. سَامِي: «سَعَادَةَ السَّفِيرَةِ رِيم، كَيْفَ نُجْمِلُ المَلْحَمَةَ المَعْرِفِيَّةَ الكُبْرَى لِإِتْقَانِ اللُّغَةِ العَرَبِيَّةِ الفُصْحَى عَبْرَ هٰذَا المِنْهَاجِ الشَّامِلِ؟» — د. رِيم: «إِنَّهُ حَصَادُ المَجْدِ وَذِرْوَةُ الإِعْجَازِ البَيَانِيِّ؛ حَيْثُ ارْتَقَى بِنَا المِنْهَاجُ مِنْ أَصْوَاتِ الحُرُوفِ وَأَبْنِيَةِ الصَّرْفِ وَقَوَاعِدِ الإِعْرَابِ، عَبْرَ رَوَائِعِ الشِّعْرِ الجَاهِلِيِّ وَالأَنْدَلُوسِيِّ وَنَوَابِغِ الرِّوَايَةِ الحَدِيثَةِ، مُرُورًا بِفَلْسَفَةِ ابْنِ رُشْدٍ وَعُلُومِ ابْنِ الهَيْثَمِ وَأُصُولِ الشَّاطِبِيِّ وَفُنُونِ المُنَاظَرَةِ وَالخَطَابَةِ، وُصُولًا إِلَى قِمَّةِ الدِّبْلُومَاسِيَّةِ الدَّوْلِيَّةِ وَلُغَةِ المَعَاهَدَاتِ السِّيَادِيَّةِ فِي الأُمَمِ المُتَّحِدَةِ؛ لِيَغْدُوَ طَالِبُ العَرَبِيَّةِ فَارِسًا لِلْبَيَانِ، مُتَمَكِّنًا مِنْ أَعْظَمِ لِسَانٍ أَنْزَلَ اللَّهُ بِهِ كِتَابَهُ وَأَبْدَعَتْ بِهِ حَضَارَةُ الإِنْسَانِ!». (Dr. Sami: 'Excellency Ambassador Reem, how do we summarize the grand epistemological epic of Classical Arabic mastery through this comprehensive curriculum?' — Dr. Reem: 'It is the harvest of glory and zenith of rhetorical inimitability; where the curriculum elevated us from phonetic sounds, morphological structures, and syntax parsing, through masterpieces of pre-Islamic and Andalusian poetry and modern novel geniuses, passing through Ibn Rushd's philosophy, Ibn al-Haytham's science, Shatibi's Usul, and debating and oratory arts, reaching the summit of international diplomacy and sovereign treaty language at the United Nations; making the student of Arabic a knight of eloquence, mastering the greatest tongue in which God revealed His Book and in which human civilization created its finest masterpieces!')",
+            "د. سامي: هل أنهينا دراسة جميع دروس منهاج اللغة العربية؟ — د. ريم: نعم لقد انتهينا من كافة الدروس اليوم بنجاح.",
+            "حوار ختامي شامل منهاج لغة عربية كامل 170 درسا نحو صرف بلاغة أدب فلسفة دبلوماسية سكون فتحة ضمة تنوين.",
+            "اكتملت دراسة اللغة العربية للمستوى المبتدئ فقط."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يمثل التتويج الملحمي الأعظم للمنهاج العربي الكامل (170/170): يربط البدايات الصوتية والصرفية بالنحو، البلاغة، الأدب الكلاسيكي والحديث، العلوم، الفلسفة، أصول الفقه، المناظرة، واللغة الدبلوماسية السيادية للأمم المتحدة."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u34-l5) باللغة العربية (مثال: «الدبلوماسية»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم لغة الضاد الخالدة التي أتممت دراستها وإتقانها في هذا المنهاج الشامل (اكتب: «اللغة العربية» أو «اللغة العربية الفصحى»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الدبلوماسية",
-            "الدبلوماسية"
+            "اللغة العربية",
+            "اللغة العربية الفصحى",
+            "العربية",
+            "العربية الفصحى",
+            "اللغه العربيه",
+            "اللغه العربيه الفصحى",
+            "اللُّغَةُ العَرَبِيَّةُ",
+            "اللُّغَةُ العَرَبِيَّةُ الفُصْحَى",
+            "العَرَبِيَّة"
           ],
-          "explanation": "المصطلح الصحيح هو «الدبلوماسية»."
+          "explanation": "اللغة هي «اللغة العربية» أو «اللغة العربية الفصحى» (Classical / Modern Standard Arabic)."
         }
       ],
       "passThreshold": 0.8
