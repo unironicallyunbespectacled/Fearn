@@ -9505,53 +9505,62 @@
     "subject": "ukrainian",
     "unit": 23,
     "lessonNumber": 1,
-    "title": "Ділове листування, резюме та діловий етикет (Business) (Part 1)",
+    "title": "Реквізити та архітектура офіційного ділового листа",
     "level": "B2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 23.1) with authentic linguistic precision.",
+    "objective": "Опанувати композицію та мовні норми українського офіційного ділового листа: етикетні звертання у кличному відмінку, вступні формули, стандарти прийменникового керування та правопис ввічливого «Ви».",
     "presentation": {
-      "explanation": "",
+      "explanation": "Офіційний діловий лист є основним інструментом міжвідомчої та комерційної комунікації в Україні, де кожен реквізит має суворо регламентоване мовне оформлення:\n\n1. Етикетні формули звертання (обов'язково Кличний відмінок):\n   - *«Шановний пане директоре!» / «Шановна пані професорко!» / «Високоповажний пане Міністре!»*\n   - До колективу: *«Шановні колеги!» / «Шановні панове!»*\n   - Ввічливе звертання «Ви, Ваш» пишеться з великої літери лише при особистому індивідуальному зверненні до однієї особи (*«Щиро дякуємо за Вашу пропозицію»*); при зверненні до колективу — з малої.\n\n2. Стандартні вступні формули:\n   - *«У відповідь на Ваш запит від 12 травня 2026 року повідомляємо...»*\n   - *«Звертаємося до Вас із проханням розглянути можливість...»*\n   - *«На виконання розпорядження Кабінету Міністрів України надсилаємо...»*\n\n3. Нормативне прийменникове керування в діловому стилі:\n   - Правильно: *«відповідно до закону» / «згідно із законом»* (НЕ *згідно закону*!);\n   - Правильно: *«надіслати на адресу»* (НЕ *за адресом*!);\n   - Правильно: *«за наказом» / «на прохання»* (НЕ *по наказу / по проханню*).\n\n4. Прикінцеві формули ввічливості:\n   - *«З повагою» / «З щирою повагою» / «Сподіваємося на плідну та взаємовигідну співпрацю»* (після формули «З повагою» зазвичай ставиться кома або підпис із нового рядка).",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 23.1.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Шановний пане директоре, надсилаємо на Ваш розгляд оновлений проєкт двостороннього інвестиційного меморандуму.",
+          "reading": "[ʃɐˈnɔwnɪj ˈpɑnɛ dɪˈrɛktɔrɛ, nɐdsɪˈlɑjɛmɔ nɑ wɑʃ rɔzˈɦlʲɑd ɔnɔwˈlɛnɪj prɔˈjɛkt dwɔstɔrɔnʲˈnʲɔɦɔ inwɛstɪt͡sʲijˈnɔɦɔ mɛmɔˈrɑndumu] (shah-NOHV-nyy PAH-neh dy-REHK-toh-reh, nahd-sy-LAH-yeh-moh nah VAHSH roz-HLYAHD oh-nohv-LEH-nyy proh-YEHKT dvoh-stoh-rohn-NYOH-hoh een-vehs-ty-tseey-NOH-hoh meh-moh-RAHN-doo-moo)",
+          "translation": "Dear Mr. Director, we are sending for Your consideration the updated draft of the bilateral investment memorandum."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 23-1).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Відповідно до укладеної генеральної угоди, усі платіжні зобов'язання мають бути виконані впродовж п'яти банківських днів.",
+          "reading": "[wʲidpɔˈwʲidnɔ dɔ uˈklɑdɛnɔji ɦɛnɛˈrɑlʲnɔji uˈɦɔdɪ, uˈsʲi plɐˈtʲiʒnʲi zɔbɔwˈjɑzɐnʲːɑ ˈmɑjutʲ ˈbutɪ wɪˈkɔnɐnʲi wprɔˈdɔwʒ pjɑˈtɪ ˈbɑnkʲiwsʲkɪx dnʲiw] (veed-poh-VEED-noh doh oo-KLAH-deh-noh-yee heh-neh-RAHL'-noh-yee oo-HOH-dy, oo-SEE plah-TEEZH-nee zoh-boh-VYAH-zahn-nyah MAH-yoot' BOO-ty vy-KOH-nah-nee vproh-DOVZH pyah-TY BAHN-keew-s'kykh DNEEW)",
+          "translation": "According to the concluded general agreement, all payment obligations must be fulfilled within five banking days."
+        },
+        {
+          "target": "Щиро дякуємо за оперативну відповідь і сподіваємося на подальший розвиток партнерських взаємин.",
+          "reading": "[ˈʃtʃɪrɔ ˈdʲɑkujɛmɔ zɑ ɔpɛrɐˈtɪwnu wʲidpɔˈwʲidʲ i spɔdʲiˈwɑjɛmɔsʲɑ nɑ pɔˈdɑlʲʃɪj rɔzˈwɪtɔk pɐrtˈnɛrsʲkɪx wzɐˈjɛmɪn] (SHCHY-roh DYAH-koo-yeh-moh zah oh-peh-rah-TYV-noo veed-poh-VEED' ee spoh-dee-VAH-yeh-mohs'-yah nah poh-DAHL'-shyy roz-VY-tohk pahrt-NEHR-s'kykh vzah-YEH-myn)",
+          "translation": "We sincerely thank you for the prompt response and look forward to the further development of partner relations."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Звернення — тільки у кличному: «Шановний пане професоре!»; прийменники — «відповідно до», «згідно з»!"
+      ],
+      "culturalNotes": [
+        "Офіційне діловодство в сучасній Україні регулюється національним стандартом ДСТУ 4163:2020 («Уніфікована система організаційно-розпорядчої документації»)."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Червоний\":",
+          "prompt": "Оберіть нормативну форму звертання до міністра в офіційному листі:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 23.1.",
-            "Неправильне відмінкове узгодження зі словом «Синій»",
-            "Порушення законів евфонії та словотворення для «Жовтий»",
-            "Стилістично некоректна синтаксична конструкція з «Зелений»"
+            "Шановний пане Міністре! (Vocative case for both title and position with formal polite capitalization)",
+            "Шановний пан Міністр!",
+            "Шановний міністр!",
+            "Шановний пана міністра!"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "В українському діловому мовленні використовується кличний відмінок обох слів: «Шановний пане Міністре!»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Червоний\":",
+          "prompt": "Яка синтаксична сполука прийменника є нормативною в офіційно-діловому стилі?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 23.1.",
-            "Порушення законів евфонії та словотворення для «Жовтий»",
-            "Стилістично некоректна синтаксична конструкція з «Зелений»",
-            "Неправильне відмінкове узгодження зі словом «Синій»"
+            "Відповідно до наказу (Normative prepositional government відповідно до + Genitive)",
+            "Згідно наказу",
+            "У відповідності з наказом",
+            "По наказу"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Нормативною є конструкція «відповідно до наказу» (або «згідно з наказом»). Конструкція «згідно наказу» є помилковою."
         }
       ]
     },
@@ -9559,17 +9568,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Червоний\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому ВСІ норми офіційно-ділового листування дотримано бездоганно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 23.1.",
-            "Стилістично некоректна синтаксична конструкція з «Зелений»",
-            "Неправильне відмінкове узгодження зі словом «Синій»",
-            "Порушення законів евфонії та словотворення для «Жовтий»"
+            "У відповідь на Ваш лист надсилаємо завірені копії статутних документів на зазначену адресу.",
+            "У відповідь на Ваш лист висилаємо копії документів по зазначеному адресу.",
+            "Згідно закону надсилаємо копії документів за адресом.",
+            "У відповідності з листом надсилаємо копії документів."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "У першому варіанті «на зазначену адресу» та ділові формули вжито абсолютно бездоганно."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u23-l2": {
@@ -9577,53 +9587,62 @@
     "subject": "ukrainian",
     "unit": 23,
     "lessonNumber": 2,
-    "title": "Ділове листування, резюме та діловий етикет (Business) (Part 2)",
+    "title": "Мовні кліше договорів, угод та юридичних актів",
     "level": "B2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 23.2) with authentic linguistic precision.",
+    "objective": "Опанувати правничу фразеологію, термінологічні стандарти договорів та угод (укладати договір, набувати чинності, брати до відома) та усунення калькованих штампів.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Правничий підстиль офіційно-ділового мовлення ґрунтується на винятковій семантичній однозначності та стандартизованих формулах:\n\n1. Нормативні дієслівні колокації в договорах та актах:\n   - *«Укладати договір / договір укладено»* (НЕ *заключати / складати договір*);\n   - *«Договір набуває чинності»* (НЕ *вступає в силу*);\n   - *«Брати до уваги / до відома»* (НЕ *приймати до уваги*);\n   - *«Вживати заходів»* (НЕ *приймати міри*);\n   - *«Заходи щодо запобігання...»* (НЕ *міроприємства по...*);\n   - *«Визнати таким, що втратив чинність»* (НЕ *втратив силу*);\n   - *«Розривати договір»* (припинення дії) / *«Скасовувати рішення»*.\n\n2. Спеціалізовані термінологічні категорії:\n   - *«Форс-мажорні обставини (обставини непереборної сили)»*;\n   - *«Штрафні санкції, неустойка, пеня»*;\n   - *«Юридичні адреси та банківські реквізити сторін»*.\n\n3. Граматичні ознаки тексту договору:\n   - Використання дієслів 3-ї особи теперішнього часу зі значенням обов'язку: *«Виконавець зобов'язується...», «Замовник гарантує...»*;\n   - Переважання віддієслівних іменників на -ння: *«виконання, забезпечення, надання, розірвання, підписання»*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 23.2.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Цей договір укладено в двох автентичних примірниках, які мають однакову юридичну силу для обох Сторін.",
+          "reading": "[t͡sɛj dɔˈɦɔwʲir uˈklɑdɛnɔ w dwɔx ɐwtɛnˈtɪtʃnɪx prɪˈmʲirnɪkɐx, jɑˈkʲi ˈmɑjutʲ ɔdnɐˈkɔwu jurɪˈdɪtʃnu ˈsɪlu dlʲɑ ɔˈbɔx stɔˈrʲin] (tseh-y doh-HOH-veer oo-KLAH-deh-noh v dvohkh ahv-ten-TYCH-nykh pry-MEER-ny-kahkh, yah-KEE MAH-yoot' ohd-nah-KOH-voo yoo-ry-DYCH-noo SY-loo dlyah oh-BOHKH stoh-REEN)",
+          "translation": "This contract is concluded in two authentic counterparts having equal legal force for both Parties."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 23-2).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Угода набуває чинності з моменту її підписання уповноваженими представниками контрагентів.",
+          "reading": "[uˈɦɔdɐ nɐbuˈwɑjɛ ˈtʃɪnnɔsʲtʲi z mɔˈmɛntu ˈjiji pʲidpɪˈsɑnʲːɑ upɔwnɔˈwɑʒɛnɪmɪ prɛdstɐwnɪˈkɑmɪ kɔntrɐˈɦɛntʲiw] (oo-HOH-dah nah-boo-VAH-yeh CHYN-nohs-tee z moh-MEHN-too yee-YEE peed-py-SAHN-nyah oo-pohv-noh-VAH-zheh-ny-my prehd-stahv-ny-KAH-my kohn-trah-HEHN-teew)",
+          "translation": "The agreement enters into force from the moment of its signing by authorized representatives of the contracting parties."
+        },
+        {
+          "target": "У разі невиконання взятих зобов'язань винна Сторона відшкодовує завдані збитки в повному обсязі.",
+          "reading": "[u ˈrɑzʲi nɛwɪkɔˈnɑnʲːɑ ˈwzʲɑtɪx zɔbɔwˈjɑzɐnʲ ˈwɪnnɐ stɔrɔˈnɑ wʲidʃkɔˈdɔwujɛ ˈzɑwdɐnʲi ˈzbɪtkɪ w ˈpɔwnɔmu ɔbˈsʲɑzʲi] (oo RAH-zee neh-vy-koh-NAHN-nyah VZYAH-tykh zoh-boh-VYAH-zahn' VYN-nah stoh-roh-NAH veed-shkoh-DOH-voo-yeh ZAHV-dah-nee ZBYT-ky v POHV-noh-moo ohb-SYAH-zee)",
+          "translation": "In case of non-fulfillment of undertaken obligations, the defaulting Party compensates for incurred damages in full."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Договір — «укладають» (не заключають!); чинності він — «набуває» (не вступає в силу!); заходів — «вживають» (не приймають міри!)"
+      ],
+      "culturalNotes": [
+        "Викорінення радянських канцеляризмів з українського цивільного та господарського права є важливим кроком гармонізації законодавства з нормами ЄС."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Синій\":",
+          "prompt": "Як нормативно сказати про дату початку дії закону чи договору?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 23.2.",
-            "Неправильне відмінкове узгодження зі словом «Жовтий»",
-            "Порушення законів евфонії та словотворення для «Зелений»",
-            "Стилістично некоректна синтаксична конструкція з «Білий»"
+            "Набуває чинності (Normative Ukrainian legal collocation for entering into legal force)",
+            "Вступає в силу",
+            "Входить у дію",
+            "Стає дійсним"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Нормативним юридичним висловом в українській мові є «набувати чинності»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Синій\":",
+          "prompt": "Оберіть нормативне дієслово для створення двосторонньої угоди:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 23.2.",
-            "Порушення законів евфонії та словотворення для «Зелений»",
-            "Стилістично некоректна синтаксична конструкція з «Білий»",
-            "Неправильне відмінкове узгодження зі словом «Жовтий»"
+            "Укладати договір (To conclude a contract - correct term)",
+            "Заключати договір",
+            "Складати договір",
+            "Чинити договір"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Нормативне юридичне словосполучення — «укладати договір»."
         }
       ]
     },
@@ -9631,17 +9650,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Синій\": Which sentence is completely correct?",
+          "prompt": "Оберіть пункт договору, в якому ВСІ правничі мовні кліше вжито нормативно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 23.2.",
-            "Стилістично некоректна синтаксична конструкція з «Білий»",
-            "Неправильне відмінкове узгодження зі словом «Жовтий»",
-            "Порушення законів евфонії та словотворення для «Зелений»"
+            "Сторони вживають усіх необхідних заходів щодо належного виконання умов цього договору.",
+            "Сторони приймають усі міри по належному виконанню умов договору.",
+            "Сторони заключають договір і приймають його до уваги.",
+            "Цей договір вступає в силу з моменту заключення."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "У першому варіанті конструкції «вживають заходів щодо виконання» є повністю нормативними."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u23-l3": {
@@ -9649,53 +9669,62 @@
     "subject": "ukrainian",
     "unit": 23,
     "lessonNumber": 3,
-    "title": "Ділове листування, резюме та діловий етикет (Business) (Part 3)",
+    "title": "Складання професійного резюме (CV), супровідного листа та біографії",
     "level": "B2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 23.3) with authentic linguistic precision.",
+    "objective": "Опанувати лексичні та композиційні стандарти створення сучасного резюме (CV), мотиваційного супровідного листа та автобіографії українською мовою.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Резюме та супровідний лист — це візитна картка фахівця на сучасному ринку праці:\n\n1. Структура професійного резюме (CV):\n   - *«Особисті та контактні дані»* (Прізвище, ім'я, телефон, електронна адреса, профіль LinkedIn);\n   - *«Мета / Посада, на яку претендує кандидат»* (наприклад: *«Менеджер IT-проєктів»*);\n   - *«Досвід роботи»* (у зворотно-хронологічному порядку із зазначенням обов'язків та конкретних досягнень);\n   - *«Освіта та підвищення кваліфікації»* (ВНЗ, спеціальність, сертифікати);\n   - *«Професійні навички та компетенції»* (Hard & Soft Skills);\n   - *«Володіння іноземними мовами»* (рівні за шкалою CEFR: вільно, B2, C1).\n\n2. Дієслова досягнень (Action Verbs) для опису досвіду:\nЗамість пасивних процесів використовуйте дієслова доконаного виду та активні форми:\n   - *«Розробив та впровадив...»* (не *займався розробкою*);\n   - *«Оптимізував робочі процеси на 25%»*;\n   - *«Керував командою з десяти аналітиків»*;\n   - *«Забезпечив ріст продажів та розширив клієнтську базу»*.\n\n3. Супровідний лист (Cover Letter):\n   - *«Пропоную свою кандидатуру на відкриту вакансію...»*;\n   - *«Маю успішний досвід роботи у сфері...»*;\n   - *«Буду щиро вдячний за можливість презентувати свій досвід під час особистої співбесіди»*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 23.3.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Маю понад п'ять років успішного досвіду в управлінні інноваційними фінтех-проєктами в провідних банках.",
+          "reading": "[ˈmɑju ˈpɔnɐd pjɑtʲ ˈrɔkʲiw usʲˈpʲiʃnɔɦɔ ˈdɔswʲidu w uprɐwˈlʲinʲːi innɔwɐt͡sʲijˈnɪmɪ fʲinˈtɛx prɔˈjɛktɐmɪ w prɔwʲidˈnɪx ˈbɑnkɐx] (MAH-yoo POH-nahd pyat' ROH-keew oos-PEESH-noh-hoh DOHS-vee-doo v oo-prahv-LEEN-nyee een-noh-vah-tseey-NY-my feen-TEHKH proh-YEHK-tah-my v proh-veed-NYKH BAHN-kahkh)",
+          "translation": "I have over five years of successful experience in managing innovative fintech projects in leading banks."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 23-3).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Успішно розробив і масштабував хмарну інфраструктуру, зменшивши витрати компанії на обслуговування серверів на тридцять відсотків.",
+          "reading": "[usʲˈpʲiʃnɔ rɔzrɔˈbɪw i mɐʃtɐbuˈwɑw ˈxmɑrnu infrɐstruktˈuru, zmɛnʲˈʃɪwʃɪ wɪtˈrɑtɪ kɔmˈpɑnʲiji nɑ ɔbsluˈɦɔwuwɐnʲːɑ sɛrwɛˈrʲiw nɑ ˈtrɪdt͡sʲɑtʲ wʲidˈsɔtkʲiw] (oos-PEESH-noh roz-roh-BYV ee mahsh-tah-boo-VAHV KHMAHR-noo een-frah-strook-TOO-roo, zmen'-SHYV-shy vy-TRAH-ty kohm-PAH-nee-yee nah ohb-sloo-HOH-voo-vahn-nyah sehr-veh-REEW nah TRYD-tsyat' veed-SOHT-keew)",
+          "translation": "I successfully developed and scaled cloud infrastructure, reducing company server maintenance costs by thirty percent."
+        },
+        {
+          "target": "Буду вдячний за розгляд моєї кандидатури та запрошення на співбесіду в зручний для Вас час.",
+          "reading": "[ˈbudu ˈwdʲɑtʃnɪj zɑ ˈrɔzɦlʲɑd mɔˈjɛji kɐndɪdɐˈturɪ tɑ zɐprɔˈʃɛnʲːɑ nɑ spʲiwˈbɛsʲidu w zrutʃˈnɪj dlʲɑ wɑs t͡ʃɑs] (BOO-doo VDYAHCH-nyy zah ROZ-hlyahd moh-YEH-yee kahn-dy-dah-TOO-ry tah zah-proh-SHEN-nyah nah speew-BEH-see-doo v zrooch-NYY dlyah Vahs chahs)",
+          "translation": "I will be grateful for the consideration of my candidacy and an invitation to an interview at a time convenient for You."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "У резюме пиши активно: «розробив, оптимізував, керував» замість пасивного «брав участь»!"
+      ],
+      "culturalNotes": [
+        "В українській практиці написання автобіографії використовується розповідна форма від 1-ї особи однини без надмірної експресії."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Жовтий\":",
+          "prompt": "Яке формулювання найкраще демонструє професійне досягнення у резюме?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 23.3.",
-            "Неправильне відмінкове узгодження зі словом «Зелений»",
-            "Порушення законів евфонії та словотворення для «Білий»",
-            "Стилістично некоректна синтаксична конструкція з «Чорний»"
+            "Оптимізував логістичні ланцюги, скоротивши час доставки на 20% (Active achievement-oriented phrasing)",
+            "Займався питаннями логістики",
+            "Приймав участь у логістичній роботі",
+            "Був задіяний на складі"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Активне дієслово доконаного виду з конкретною метрикою («оптимізував... скоротивши на 20%») відповідає найвищому професійному стандарту."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Жовтий\":",
+          "prompt": "Як ввічливо завершити супровідний лист до резюме?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 23.3.",
-            "Порушення законів евфонії та словотворення для «Білий»",
-            "Стилістично некоректна синтаксична конструкція з «Чорний»",
-            "Неправильне відмінкове узгодження зі словом «Зелений»"
+            "Буду вдячний за можливість обговорити мою кандидатуру на співбесіді. (Polite professional closing formula)",
+            "Чекаю дзвінка негайно.",
+            "Передзвоніть мені завтра.",
+            "Надіюся, ви мене візьмете."
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Формула «Буду вдячний за можливість обговорити мою кандидатуру...» є зразком ділової коректності."
         }
       ]
     },
@@ -9703,17 +9732,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Жовтий\": Which sentence is completely correct?",
+          "prompt": "Оберіть фрагмент резюме, складений із дотриманням усіх норм офіційного стилю:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 23.3.",
-            "Стилістично некоректна синтаксична конструкція з «Чорний»",
-            "Неправильне відмінкове узгодження зі словом «Зелений»",
-            "Порушення законів евфонії та словотворення для «Білий»"
+            "Керував відділом продажів, розширив клієнтську мережу та підвищив обсяг річного прибутку компанії на 15%.",
+            "Керував відділом, займався розширенням бази і робив прибуток.",
+            "Приймав участь у продажах і був відповідальним по клієнтам.",
+            "Був задіяний на керівній посаді по продажам."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Використано активні дієслова «керував, розширив, підвищив» та бездоганну ділову лексику."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u23-l4": {
@@ -9721,53 +9751,62 @@
     "subject": "ukrainian",
     "unit": 23,
     "lessonNumber": 4,
-    "title": "Ділове листування, резюме та діловий етикет (Business) (Part 4)",
+    "title": "Протокол, витяг із протоколу та офіційний звіт",
     "level": "B2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 23.4) with authentic linguistic precision.",
+    "objective": "Опанувати композиційну схему протоколу зборів чи засідань (СЛУХАЛИ — ВИСТУПИЛИ — УХВАЛИЛИ), оформлення витягів із протоколів та лексику ділових звітів.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Протокол — документ, у якому фіксується перебіг обговорення питань і рішення, ухвалені на зборах, нарадах або засіданнях колегіальних органів:\n\n1. Реквізити заголовної частини протоколу:\n   - Назва організації / установи;\n   - Назва виду документа (ПРОТОКОЛ №...);\n   - Дата проведення та місце складання;\n   - *«Голова»* та *«Секретар»*;\n   - *«Присутні»* (список учасників із зазначенням посад або кількості присутніх);\n   - *«ПОРЯДОК ДЕННИЙ»* (нумерований перелік питань у називному відмінку з прийменником «Про...»: *1. Про підсумки роботи за I квартал. 2. Про затвердження плану...*).\n\n2. Триадна композиційна структура кожного питання:\n   - **СЛУХАЛИ:** Прізвище та ініціали доповідача (у родовому відмінку: *Іванченка О. М.*) — стислий зміст виступу або посилання на доданий текст доповіді.\n   - **ВИСТУПИЛИ:** Прізвища учасників обговорення та тези їхніх виступів.\n   - **УХВАЛИЛИ (ПОСТАНОВИЛИ):** Чіткі пункти рішень, сформульовані в неозначеній формі дієслова (*1. Затвердити звіт. 2. Створити робочу комісію. 3. Покласти контроль на...*).\n\n3. Витяг із протоколу (Extract of Minutes):\nВідтворює лише частину протоколу за конкретним пунктом порядку денного, що стосується відповідного виконавця.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 23.4.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "ПОРЯДОК ДЕННИЙ: 1. Про затвердження річного фінансового плану. 2. Про обрання нового складу наглядової ради товариства.",
+          "reading": "[pɔˈrʲɑdɔk ˈdɛnnɪj: ˈpɛrʃɛ. prɔ zɐtwɛrˈdʒɛnʲːɑ ˈrʲitʃnɔɦɔ fʲinɐnˈsɔwɔɦɔ ˈplɑnu. ˈdruɦɛ. prɔ ɔbˈrɑnʲːɑ ˈnɔwɔɦɔ ˈsklɑdu nɐɦlʲɑˈdɔwɔji ˈrɑdɪ tɔwɐˈrɪstxɐ] (poh-RYAH-dohk DEHN-nyy: PEHR-sheh. proh zah-twehr-DZHEN-nyah REECH-noh-hoh fee-nahn-SOH-woh-hoh PLAH-noo. DROO-heh. proh ohb-RAHN-nyah NOH-woh-hoh SKLAH-doo nah-hlyah-DOH-woh-yee RAH-dy toh-vah-RYST-wah)",
+          "translation": "AGENDA: 1. On the approval of the annual financial plan. 2. On the election of the new composition of the company's supervisory board."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 23-4).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "УХВАЛИЛИ: 1. Роботу науково-дослідної лабораторії за звітний період визнати задовільною. 2. Опублікувати результати досліджень у фаховому виданні.",
+          "reading": "[uxwɐˈlɪlɪ: ˈpɛrʃɛ. ˈrɔbɔtu nɐuˈkɔwɔ dɔsʲˈlʲidnɔji lɐbɔrɐˈtɔrʲiji zɑ ˈzwʲitnɪj pɛˈrʲiɔd wɪzˈnɑtɪ zɐdɔˈwʲilʲnɔju. ˈdruɦɛ. ɔpublʲikuˈwɑtɪ rɛzulʲˈtɑtɪ dɔsʲˈlʲidʒɛnʲ u fɐxɔˈwɔmu wɪˈdɑnʲnʲi] (ookh-vah-LY-ly: PEHR-sheh. ROH-boh-too nah-oo-KOH-woh dohs-LEED-noh-yee lah-boh-rah-TOH-ry-yee zah ZVEET-nyy peh-REE-ohd vyz-NAH-ty zah-doh-VEEL'-noh-yoo. DROO-heh. oh-poob-lee-koo-VAH-ty reh-zool'-TAH-ty dohs-LEE-dzhen' oo fah-khoh-VOH-moo vy-DAHN-nyee)",
+          "translation": "RESOLVED: 1. To recognize the work of the research laboratory for the reporting period as satisfactory. 2. To publish research results in a specialized journal."
+        },
+        {
+          "target": "Контроль за виконанням цієї постанови покласти на заступника голови вченої ради.",
+          "reading": "[kɔntˈrɔlʲ zɑ wɪkɔˈnɑnʲːɐm t͡sʲiˈjɛji pɔstɐˈnɔwɪ pɔklɑsˈtɪ nɑ zɐsˈtupnɪkɐ ɦɔlɔˈwɪ ˈwtʃɛnɔji ˈrɑdɪ] (kohn-TROHL' zah vy-koh-NAHN-nyahm tsee-YEH-yee pohs-tah-NOH-wy poh-klahs-TY nah zahs-TOOP-ny-kah hoh-loh-VY VCHEH-noh-yee RAH-dy)",
+          "translation": "The control over the implementation of this resolution shall be assigned to the deputy chairman of the academic council."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Тріада протоколу незмінна: СЛУХАЛИ — ВИСТУПИЛИ — УХВАЛИЛИ; рішення завжди в інфінітиві: «Затвердити, створити, покласти»!"
+      ],
+      "culturalNotes": [
+        "Грамотне протоколювання засідань є гарантом юридичної чинності рішень органів самоврядування та бізнес-структур."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Зелений\":",
+          "prompt": "Яка тріада ключових слів становить основу фіксації кожного питання в протоколі?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 23.4.",
-            "Неправильне відмінкове узгодження зі словом «Білий»",
-            "Порушення законів евфонії та словотворення для «Чорний»",
-            "Стилістично некоректна синтаксична конструкція з «Сірий»"
+            "СЛУХАЛИ — ВИСТУПИЛИ — УХВАЛИЛИ (Standard tripartite sequence in Ukrainian meeting minutes)",
+            "ГОВОРИЛИ — ДУМАЛИ — ЗРОБИЛИ",
+            "ПИТАННЯ — ВІДПОВІДЬ — РІШЕННЯ",
+            "ЧИТАЛИ — ПИСАЛИ — ПІДПИСАЛИ"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Офіційний стандарт протоколювання вимагає тріади: СЛУХАЛИ — ВИСТУПИЛИ — УХВАЛИЛИ (або ПОСТАНОВИЛИ)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Зелений\":",
+          "prompt": "У якій граматичній формі формулюються рішення в частині «УХВАЛИЛИ» протоколу?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 23.4.",
-            "Порушення законів евфонії та словотворення для «Чорний»",
-            "Стилістично некоректна синтаксична конструкція з «Сірий»",
-            "Неправильне відмінкове узгодження зі словом «Білий»"
+            "У формі інфінітива: Затвердити звіт, покласти контроль (Infinitive mood)",
+            "У минулому часі: Затвердили звіт",
+            "У наказовому способі: Затвердіть звіт",
+            "У майбутньому часі: Будемо затверджувати"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Рішення в протоколі формулюються інфінітивом: «Затвердити...», «Схвалити...», «Покласти контроль...»."
         }
       ]
     },
@@ -9775,17 +9814,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Зелений\": Which sentence is completely correct?",
+          "prompt": "Оберіть правильний запис пункту порядку денного в протоколі:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 23.4.",
-            "Стилістично некоректна синтаксична конструкція з «Сірий»",
-            "Неправильне відмінкове узгодження зі словом «Білий»",
-            "Порушення законів евфонії та словотворення для «Чорний»"
+            "ПОРЯДОК ДЕННИЙ: 1. Про підсумки приймальної кампанії 2026 року.",
+            "ПОРЯДОК ДЕННИЙ: 1. Підсумки по приймальній кампанії.",
+            "ПОРЯДОК ДЕННИЙ: 1. Як пройшла кампанія.",
+            "ПОРЯДОК ДЕННИЙ: 1. Щодо проведення по кампанії."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Пункти порядку денного починаються прийменником «Про...» у називному / місцевому відмінку."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u23-l5": {
@@ -9793,53 +9833,62 @@
     "subject": "ukrainian",
     "unit": 23,
     "lessonNumber": 5,
-    "title": "Ділове листування, резюме та діловий етикет (Business) (Part 5)",
+    "title": "Етикет електронного листування та ділових переговорів",
     "level": "B2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 23.5) with authentic linguistic precision.",
+    "objective": "Опанувати стандарти цифрового ділового листування (тема листа, вкладення, етикет відповідей) та лексику дипломатичних і бізнес-переговорів.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Сучасний діловий етикет в електронному листуванні (Netiquette) та телефонних переговорах вимагає лаконічності, ввічливості та поваги до часу адресата:\n\n1. Тема електронного листа (Subject Line):\n   - Тема має бути чіткою та інформативною: *«Комерційна пропозиція щодо постачання обладнання | ТОВ \"Альфа\"»*, *«Резюме на посаду UX/UI дизайнера — Іван Петренко»* (уникайте порожніх або загальних тем типу *«Питання» / «Важливо»*).\n\n2. Робота з вкладеннями (Attachments):\n   - Правильно: *«Додаю до листа оновлений файл проєкту»* / *«Надсилаю у додатку розрахунки»* (НЕ *прикріпляю файл*);\n   - Формат вкладень має бути загальнодоступним (PDF для документів).\n\n3. Дипломатичні формули ділових переговорів:\n   - Уточнення позиції: *«Дозвольте уточнити деякі деталі...»*;\n   - Пропозиція компромісу: *«Ми готові піти назустріч за умови...»*;\n   - Ввічлива незгода: *«На жаль, наразі ми не маємо змоги прийняти ці умови, проте пропонуємо альтернативний варіант...»*;\n   - Завершення комунікації: *«Дякуємо за плідну розмову, надішлемо підсумковий протокол зустрічі (Follow-up) до кінця робочого дня»*.",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 23.5.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Додаю до листа фінансовий звіт за попередній квартал та проєкт кошторису на наступний фінансовий рік.",
+          "reading": "[dɔˈdɑju dɔ ˈlɪstɐ fʲinɐnˈsɔwɪj zwʲit zɑ pɔpɛˈrɛdnʲij ˈkwɑrtɐl tɑ prɔˈjɛkt kɔʃˈtɔrɪsu nɑ nɐsˈtupnɪj fʲinɐnˈsɔwɪj rʲik] (doh-DAH-yoo doh LYS-tah fee-nahn-SOH-vyy zveet zah poh-peh-RED-neey KVAHR-tahl tah proh-YEHKT kosh-TOH-ry-soo nah nahs-TOOP-nyy fee-nahn-SOH-vyy reek)",
+          "translation": "I attach to the letter the financial report for the previous quarter and the budget draft for the next financial year."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 23-5).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Будемо щиро вдячні за надання зворотного зв'язку до кінця поточного робочого тижня.",
+          "reading": "[ˈbudɛmɔ ˈʃtʃɪrɔ ˈwdʲɑtʃnʲi zɑ nɐˈdɑnʲːɑ zwɔˈrɔtnɔɦɔ zwjɑzˈku dɔ kʲinʲˈt͡sʲɑ pɔˈtɔtʃnɔɦɔ rɔˈbɔtʃɔɦɔ ˈtɪʒnʲɑ] (BOO-deh-moh SHCHY-roh VDYAHCH-nee zah nah-DAHN-nyah zwoh-ROHT-noh-hoh zvyahz-KOO doh keen-TSYAH poh-TOHCH-noh-hoh roh-BOH-choh-hoh TYZH-nyah)",
+          "translation": "We will be sincerely grateful for providing feedback before the end of the current working week."
+        },
+        {
+          "target": "Ми високо цінуємо наше партнерство та готові запропонувати взаємовигідні умови довгострокової співпраці.",
+          "reading": "[mɪ wɪsɔˈkɔ t͡sʲiˈnujɛmɔ ˈnɑʃɛ pɐrtˈnɛrstwɔ tɑ ɦɔˈtɔwʲi zɐprɔpɔnuˈwɑtɪ wzɐjɛmɔwɪˈɦʲidnʲi uˈmɔwɪ dɔwɦɔstrɔˈkɔwɔji spʲiwˈprɑt͡sʲi] (my vy-soh-KOH tsee-NOO-yeh-moh NAH-sheh pahrt-NEHR-stvah tah hoh-TOH-vee zah-proh-poh-noo-VAH-ty vzah-yeh-moh-vy-HEED-nee oo-MOH-vy dov-hoh-stroh-KOH-woh-yee speew-PRAH-tsee)",
+          "translation": "We highly value our partnership and are ready to propose mutually beneficial terms for long-term cooperation."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Не «прикріпляю», а «додаю до листа»! Тема листа — чітка і конкретна! Follow-up — закріплює всі домовленості!"
+      ],
+      "culturalNotes": [
+        "Українська цифрова ділова комунікація спирається на принципи взаємоповаги, чіткості дедлайнів та обов'язкового фідбеку."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Білий\":",
+          "prompt": "Як нормативно повідомити співрозмовника про додані файли в електронному листі?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 23.5.",
-            "Неправильне відмінкове узгодження зі словом «Чорний»",
-            "Порушення законів евфонії та словотворення для «Сірий»",
-            "Стилістично некоректна синтаксична конструкція з «Коричневий»"
+            "Додаю до листа презентацію / надсилаю у додатку (Normative digital correspondence phrasing)",
+            "Я прикріпив файл",
+            "Дивіться у скріпці",
+            "Файл вісить у листі"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Нормативною фразою в українському діловому листуванні є «Додаю до листа...» або «Надсилаю у додатку...»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Білий\":",
+          "prompt": "Яка тема електронного листа є правильно сформульованою за стандартами ділового етикету?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 23.5.",
-            "Порушення законів евфонії та словотворення для «Сірий»",
-            "Стилістично некоректна синтаксична конструкція з «Коричневий»",
-            "Неправильне відмінкове узгодження зі словом «Чорний»"
+            "Запит цінової пропозиції на серверне обладнання | ТОВ «Технолоджі» (Clear, specific, and attributed subject line)",
+            "Питання",
+            "Терміново гляньте!!",
+            "Без теми"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Тема ділового листа має містити точну суть повідомлення та назву компанії/відправника."
         }
       ]
     },
@@ -9847,17 +9896,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Білий\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення ділового листування з абсолютно бездоганною стилістикою:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 23.5.",
-            "Стилістично некоректна синтаксична конструкція з «Коричневий»",
-            "Неправильне відмінкове узгодження зі словом «Чорний»",
-            "Порушення законів евфонії та словотворення для «Сірий»"
+            "Додаємо до листа проєкт комерційної пропозиції та будемо вдячні за зворотний зв'язок.",
+            "Прикріпляємо файл з пропозицією і чекаємо обратний зв'язок.",
+            "Висилаємо пропозицію у скріпці, дайте швидку відповідь.",
+            "Шлемо файл, гляньте будь ласка."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Додаємо до листа... зворотний зв'язок» — бездоганні норми українського ділового мовлення."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u24-l1": {
