@@ -2241,85 +2241,89 @@
     "subject": "mandarin",
     "unit": 4,
     "lessonNumber": 1,
-    "title": "量词系统与名词修饰 (Classifiers & Noun Modification) (第1讲)",
+    "title": "汉语量词系统概述与万能通用量词「个」的用法 (Classifier System & The General Classifier '个')",
     "level": "A1",
-    "objective": "全面掌握与熟练运用本课核心内容：现代汉语核心名量词（个/本/张/条/支/位）、数量短语修饰名词及助词「的」。 (第1部分)。",
+    "objective": "理解现代汉语量词系统的核心语法机制，掌握「数词 + 量词 + 名词」的基本构造模型，熟练运用万能通用个体量词「个」修饰人、物与抽象概念。",
     "presentation": {
-      "explanation": "",
+      "explanation": "现代汉语在语言类型学上属于典型的「量词语言（Classifier Language）」。在标准汉语中，数词通常**绝对不能直接修饰名词**，数词与名词之间必须嵌入一个合适的量词，构成规范的「数词 + 量词 + 名词」语法结构。\n\n一、汉语数量短语修饰名词的黄金模型：\n1. 基数词 + 量词 + 名词：\n- 一个人（不可说成 *一人*）\n- 三本书（不可说成 *三书*）\n- 五张桌子（不可说成 *五桌子*）\n2. 指示代词 + 量词 + 名词：\n- 这个人、那本书、这台电脑、那张地图\n3. 疑问代词 + 量词 + 名词：\n- 哪位老师、几个苹果、哪条裤子\n\n二、万能通用个体量词「个」的广阔适用范围：\n「个 (gè)」是现代汉语中使用频率最高、包容性最强的通用个体量词，主要应用于以下范畴：\n1. 人员与亲属称谓：一个人、两个朋友、三个学生、四个同班同学、一个弟弟。\n2. 水果与日常物品：一个苹果、一个西瓜、一个面包、一个包子、一个杯子。\n3. 场所、机构与国家：一个国家、一个学校、一个公司、一个大学、一个房间、一个超市。\n4. 抽象概念与语言事物：一个问题、一个想法、一个好办法、一个汉字、一个故事、一个机会。\n5. 时间周期单位：一个月、一个星期、一个小时、一个季度（注意：「天」和「年」本身具有量词性质，前面不可加「个」，如只能说「三天」、「五年」）。\n\n三、语流发音与「一」的变调：\n1. 量词「个」在口语中通常弱化为轻声：yí ge, liǎng ge, sān ge。\n2. 基数词「一」在第四声「个」前必须变调为第二声阳平「yí gè」。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「量词系统与名词修饰 (Classifiers & Noun Modification)」的核心语法法则与应用范例 (4.1.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '量词系统与名词修饰 (Classifiers & Noun Modification)' in simple terms to students at the academic seminar."
+          "target": "我们班一共有二十个来自不同国家的留学生。(Wǒmen bān yígòng yǒu èrshí gè láizì bùtóng guójiā de liúxuéshēng.)",
+          "reading": "[wɔ˨˩.mən pan˥ i˧˥.kʊŋ˥˩ joʊ̯˨˩˦ aɻ˥˩.ʂɨ˧˥ kɤ laɪ̯˧˥.t͡sɨ˥˩ pu˥˩.tʰʊŋ˧˥ kwɔ˧˥.t͡ɕja˥ tɤ ljoʊ̯˧˥.ɕɥɛ˧˥.ʂəŋ] (Wǒ-men bān yí-gòng yǒu èr-shí gè lái-zì bù-tóng guó-jiā de liú-xué-shēng.)",
+          "translation": "There are twenty international students from different countries in our class in total."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (4.1.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "我想问老师一个关于汉字由来的问题。(Wǒ xiǎng wèn lǎoshī yí gè guānyú Hànzì yóulái de wèntí.)",
+          "reading": "[wɔ˨˩ ɕjɑŋ˨˩˦ wən˥˩ laʊ˨˩.ʂɨ˥ i˧˥ kɤ kwan˥.y˧˥ xan˥˩.t͡sɨ˥˩ joʊ̯˧˥.laɪ̯˧˥ tɤ wən˥˩.tʰi˧˥] (Wǒ xiǎng wèn lǎo-shī yí gè guān-yú Hàn-zì yóu-lái de wèn-tí.)",
+          "translation": "I would like to ask the teacher a question regarding the origin of Chinese characters."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (4.1.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "桌子上有三个红苹果和一个大西瓜。(Zhuōzi shang yǒu sān gè hóng píngguǒ hé yí gè dà xīguā.)",
+          "reading": "[ʈ͡ʂwɔ˥.t͡sɨ ʂɑŋ joʊ̯˨˩˦ san˥ kɤ xʊŋ˧˥ pʰiŋ˧˥.kwɔ˨˩˦ xɤ˧˥ i˧˥ kɤ ta˥˩ ɕi˥.kwa˥] (Zhuō-zi shang yǒu sān gè hóng píng-guǒ hé yí gè dà xī-guā.)",
+          "translation": "There are three red apples and a big watermelon on the table."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (4.1.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "我们下个月计划去北京参观故宫。(Wǒmen xià gè yuè jìhuà qù Běijīng cānguān Gùgōng.)",
+          "reading": "[wɔ˨˩.mən ɕja˥˩ kɤ ɥɛ˥˩ t͡ɕi˥˩.xwa˥˩ t͡ɕʰy˥˩ peɪ̯˨˩.t͡ɕiŋ˥ t͡sʰan˥.kwan˥ ku˥˩.kʊŋ˥] (Wǒ-men xià gè yuè jì-huà qù Běi-jīng cān-guān Gù-gōng.)",
+          "translation": "We plan to go to Beijing next month to visit the Forbidden City."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "数词名词不相见，中间必须量词连；万能通用个体「个」，一人两果一个月！"
+      ],
+      "culturalNotes": [
+        "汉语量词体系起源于先秦时期，成熟于魏晋南北朝。量词的运用反映了汉民族根据事物的外部形象、功能及感官特征对世界进行精细分类的独特认知方式。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「量词系统与名词修饰 (Classifiers & Noun Modification)」（第1讲）的标准汉语规范？",
+          "prompt": "在现代汉语语法中，关于数词修饰名词的正确语法规则是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「量词系统与名词修饰 (Classifiers & Noun Modification)」的核心语法法则与应用范例 (4.1.1)。",
-            "存在语序混乱且虚词误用的病句选项 (4.1.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (4.1.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (4.1.w3)"
+            "数词与名词之间必须嵌入合适的量词：数词 + 量词 + 名词 (Numeral + Classifier + Noun)",
+            "数词必须直接紧贴在名词前面，绝不使用量词。",
+            "量词必须放在句子的最末尾。",
+            "只有修饰人时才使用量词，修饰物品不用量词。"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "汉语属于量词语言，数词修饰名词时必须通过量词连接（如「三个学生」，不可说「*三学生*」）。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "下列哪一个词语的时间表达中，不能添加量词「个」？",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "三天 (Sān tiān) ——「天」本身即为量词，不可说「三个天」 (Tiān is inherently a measure word)",
+            "三个月 (Sān gè yuè)",
+            "三个星期 (Sān gè xīngqī)",
+            "三个小时 (Sān gè xiǎoshí)"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "汉语中「天（日）」和「年」自身兼具量词功能，直接说「三天」、「三年」，绝不可加「个」。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「量词系统与名词修饰 (Classifiers & Noun Modification)」的正式语境下，最准确得体的表达是哪一项？（第4.1题）",
+          "prompt": "要表达「我想买一个红苹果」，指示代词与数量搭配规范的是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (4.1.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (4.1.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (4.1.x2)",
-            "量词与名词修饰搭配错误的病句选项 (4.1.x3)"
+            "一个红苹果 (yí gè hóng píngguǒ) (One red apple)",
+            "一红苹果 (缺少量词)",
+            "个一红苹果 (语序颠倒)",
+            "红苹果一个的 (语序混乱)"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「数词（一）+ 量词（个）+ 形容词定语（红）+ 名词（苹果）」结构严谨规范。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u4-l1）所要求的高阶语言表达？",
+          "prompt": "在短语「一个」中，数词「一」的实际口语发音变调为：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (4.1.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (4.1.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (4.1.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (4.1.y3)"
+            "第二声阳平：yí gè (1st tone becomes 2nd before 4th tone gè)",
+            "第四声去声：yì gè",
+            "第一声阴平原调：yī gè",
+            "轻声：yi ge"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「个」为第四声，数词「一」在第四声音节前必须变调为第二声「yí gè」。"
         }
       ]
     },
@@ -2327,25 +2331,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「量词系统与名词修饰 (Classifiers & Noun Modification)」的掌握程度，请选出表述完全正确的标准范句（测试 4-1）：",
+          "prompt": "请选出下列句子中通用量词「个」使用完全正确规范的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (4.1.4)。",
-            "被动句式与处置句式混用导致的严重病句 (4.1.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (4.1.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (4.1.z3)"
+            "我们学校新来了一个经验丰富的美国外教。(Wǒmen xuéxiào xīn lái le yí gè jīngyàn fēngfù de Měiguó wàijiào.)",
+            "我们学校新来了一经验丰富的美国外教。(缺少量词)",
+            "我们学校新来了三个外教们。(数量词与「们」杂糅)",
+            "我们学校新来了个一美国外教。(词序颠倒)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "「一个 + 形容词定语 + 名词中心语」完全符合现代汉语标准量词句式规范。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u4-l1）的核心关键词（例如「量词系统」）：",
+          "prompt": "请输入汉语中最常用的万能通用个体量词单字汉字（拼音为 gè）：",
           "acceptedAnswers": [
-            "量词系统",
-            "量词系统与名",
-            "量词系统与名词修饰"
+            "个"
           ],
-          "explanation": "正确的核心关键词为「量词系统」。"
+          "explanation": "汉字「个」是现代汉语中使用最广泛的通用个体量词。"
         }
       ],
       "passThreshold": 0.8
@@ -2356,85 +2358,89 @@
     "subject": "mandarin",
     "unit": 4,
     "lessonNumber": 2,
-    "title": "量词系统与名词修饰 (Classifiers & Noun Modification) (第2讲)",
+    "title": "核心个体量词辨析：本、张、条、支、把 (Core Individual Classifiers: 本, 张, 条, 支, 把)",
     "level": "A1",
-    "objective": "全面掌握与熟练运用本课核心内容：现代汉语核心名量词（个/本/张/条/支/位）、数量短语修饰名词及助词「的」。 (第2部分)。",
+    "objective": "掌握五大高频核心个体名量词（本、张、条、支、把）的形态认知特征、搭配范围与语义选择机制，能够根据物体的形状与功能精准选用量词。",
     "presentation": {
-      "explanation": "",
+      "explanation": "汉语个体名量词的选择与被修饰物体的空间形态、物理材质、构造特征及操作方式具有深刻的认知关联：\n\n一、五大核心个体名量词的语义分类与搭配：\n1.「本 (běn)」—— 装订成册的纸质书册刊物：\n- 搭配范畴：书籍、词典、杂志、笔记本、护照、相册。\n- 范例：一本书、两本汉英词典、三本学术杂志、一本厚笔记本、一本新护照。\n\n2.「张 (zhāng)」—— 具有平整展开面、薄片状或平坦表面的器物：\n- 搭配范畴：纸张、票据、照片、画作、床铺、桌子、脸面、嘴巴。\n- 范例：一张白纸、两张飞机票、三张全家福照片、一张大办公桌、一张双人床、一张中国地图。\n\n3.「条 (tiáo)」—— 细长、狭窄、柔韧或蜿蜒曲折的线状物体：\n- 搭配范畴：鱼类、裤子、裙子、领带、毛巾、绳索、道路、河流、短信、新闻。\n- 范例：一条金鱼、两条牛仔裤、一条丝绸领带、一条毛巾、一条柏油马路、一条大河、一条重要新闻。\n\n4.「支 (zhī)」—— 细长、笔直、硬质的杆状或笔类用具：\n- 搭配范畴：笔类、箭支、枪支、香烟、蜡烛。\n- 范例：一支铅笔、两支毛笔、三支圆珠笔、一支红色钢笔、一支白色蜡烛。\n\n5.「把 (bǎ)」—— 带有柄把、手柄或便于单手抓握操控的工具与器物：\n- 搭配范畴：椅子（有靠背把手）、雨伞、刀具、剪刀、钥匙、扇子、茶壶。\n- 范例：一把木头椅子、两把雨伞、一把锋利的小刀、一把剪刀、一把大门钥匙、一把折扇。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「量词系统与名词修饰 (Classifiers & Noun Modification)」的核心语法法则与应用范例 (4.2.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '量词系统与名词修饰 (Classifiers & Noun Modification)' in simple terms to students at the academic seminar."
+          "target": "他在书店买了两本很有价值的汉语语法书和三张中国地图。(Tā zài shūdiàn mǎi le liǎng běn hěn yǒu jiàzhí de Hànyǔ yǔfǎ shū hé sān zhāng Zhōngguó dìtú.)",
+          "reading": "[tʰa˥ t͡saɪ̯˥˩ ʂu˥.tjɛn˥˩ maɪ̯˨˩˦ lɤ ljaŋ˨˩ pən˨˩ xən˨˩ joʊ̯˨˩˦ t͡ɕja˥˩.ʈ͡ʂɨ˧˥ tɤ xan˥˩.y˨˩˦ y˨˩.fa˨˩˦ ʂu˥ xɤ˧˥ san˥ ʈ͡ʂɑŋ˥ ʈ͡ʂʊŋ˥.kwɔ˧˥ ti˥˩.tʰu˧˥] (Tā zài shū-diàn mǎi le liǎng běn hěn yǒu jià-zhí de Hàn-yǔ yǔ-fǎ shū hé sān zhāng Zhōng-guó dì-tú.)",
+          "translation": "He bought two very valuable Chinese grammar books and three maps of China at the bookstore."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (4.2.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "外面正在下大雨，请带上一把雨伞。(Wàimiàn zhèngzài xià dàyǔ, qǐng dàishang yì bǎ yǔsǎn.)",
+          "reading": "[waɪ̯˥˩.mjɛn˥˩ ʈ͡ʂɤŋ˥˩.t͡saɪ̯˥˩ ɕja˥˩ ta˥˩.y˨˩˦, t͡ɕʰiŋ˨˩ taɪ̯˥˩.ʂɑŋ i˧˥ pa˨˩˦ y˨˩.san˨˩˦] (Wài-miàn zhèng-zài xià dà-yǔ, qǐng dài-shang yì bǎ yǔ-sǎn.)",
+          "translation": "It is raining heavily outside; please take an umbrella with you."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (4.2.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "小王借给我一支黑色的圆珠笔和一条新毛巾。(Xiǎo Wáng jiè gěi wǒ yì zhī hēisè de yuánzhūbǐ hé yì tiáo xīn máojīn.)",
+          "reading": "[ɕjaʊ̯˨˩ wɑŋ˧˥ t͡ɕjɛ˥˩ keɪ̯˨˩ wɔ˨˩ i˥ ʈ͡ʂɨ˥ xeɪ̯˥.sɤ˥˩ tɤ ɥɛn˧˥.ʈ͡ʂu˥.pi˨˩˦ xɤ˧˥ i˥ tʰjaʊ̯˧˥ ɕin˥ maʊ̯˧˥.t͡ɕin˥] (Xiǎo Wáng jiè gěi wǒ yì zhī hēi-sè de yuán-zhū-bǐ hé yì tiáo xīn máo-jīn.)",
+          "translation": "Xiao Wang lent me a black ballpoint pen and a new towel."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (4.2.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "我们沿着这条风景优美的小路散步。(Wǒmen yánzhe zhè tiáo fēngjǐng yōuměi de xiǎolù sànbù.)",
+          "reading": "[wɔ˨˩.mən jɛn˧˥.ʈ͡ʂɤ ʈ͡ʂɤ˥˩ tʰjaʊ̯˧˥ fɤŋ˥.t͡ɕiŋ˨˩ joʊ̯˥.meɪ̯˨˩˦ tɤ ɕjaʊ̯˨˩.lu˥˩ san˥˩.pu˥˩] (Wǒ-men yán-zhe zhè tiáo fēng-jǐng yōu-měi de xiǎo-lù sàn-bù.)",
+          "translation": "We take a walk along this path with beautiful scenery."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "书册用「本」纸面「张」，细长蜿蜒用「条」量；直挺笔类用「支」点，手握器物全用「把」！"
+      ],
+      "culturalNotes": [
+        "汉字量词的字形往往直接反映了其原始实词词义，例如「本」字源自树木之根柢与册本，「张」字源于开弓张弦之展开平铺，「把」字从手表示抓握，体现了汉字字形与语法功能的历史同构性。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「量词系统与名词修饰 (Classifiers & Noun Modification)」（第2讲）的标准汉语规范？",
+          "prompt": "在下列名词中，应该搭配个体量词「张 (zhāng)」的是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「量词系统与名词修饰 (Classifiers & Noun Modification)」的核心语法法则与应用范例 (4.2.1)。",
-            "存在语序混乱且虚词误用的病句选项 (4.2.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (4.2.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (4.2.w3)"
+            "桌子、机票、床、照片 (Desks, flight tickets, beds, photos - flat surfaces)",
+            "汉语书、词典、笔记本",
+            "铅笔、毛笔、钢笔",
+            "雨伞、椅子、钥匙"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "量词「张」专用于平展、薄片或平坦表面的物品，如桌子、机票、床、照片。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "修饰细长、柔软的衣物「裤子」时，正确的量词搭配是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "一条裤子 (yì tiáo kùzi) (tiáo for long, slender, flexible items)",
+            "一本裤子",
+            "一张裤子",
+            "一把裤子"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "「裤子」属于细长形态的服饰，在汉语中一律使用量词「条」。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「量词系统与名词修饰 (Classifiers & Noun Modification)」的正式语境下，最准确得体的表达是哪一项？（第4.2题）",
+          "prompt": "下列哪一组名词与量词的搭配完全正确无误？",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (4.2.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (4.2.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (4.2.x2)",
-            "量词与名词修饰搭配错误的病句选项 (4.2.x3)"
+            "两本词典、三支铅笔、一把雨伞 (Two dictionaries, three pencils, an umbrella)",
+            "两张词典、三条铅笔、一本雨伞",
+            "两支词典、三把铅笔、一张雨伞",
+            "两条词典、三张铅笔、一支雨伞"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "词典用「本」，铅笔用「支」，雨伞用「把」，各项搭配完全精准符合规范。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u4-l2）所要求的高阶语言表达？",
+          "prompt": "修饰用于开门进入房间的工具「钥匙」时，应选用的量词是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (4.2.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (4.2.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (4.2.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (4.2.y3)"
+            "把 (一把钥匙) (bǎ for handheld tools with grip)",
+            "本",
+            "张",
+            "条"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "钥匙属于手持操控的器具，使用量词「把（一把钥匙）」。"
         }
       ]
     },
@@ -2442,25 +2448,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「量词系统与名词修饰 (Classifiers & Noun Modification)」的掌握程度，请选出表述完全正确的标准范句（测试 4-2）：",
+          "prompt": "请选出下列句子中量词使用全部准确得体的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (4.2.4)。",
-            "被动句式与处置句式混用导致的严重病句 (4.2.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (4.2.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (4.2.z3)"
+            "房间里有一张大桌子、两把木头椅子和三本书。(There is a large desk, two wooden chairs, and three books in the room.)",
+            "房间里有一本大桌子、两张木头椅子和三把书。",
+            "房间里有一条大桌子、两支木头椅子和三张书。",
+            "房间里有一把大桌子、两条木头椅子和三支书。"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "桌子用「张」，椅子用「把」，书用「本」，搭配完全精确无误。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u4-l2）的核心关键词（例如「量词系统」）：",
+          "prompt": "请输入修饰书籍、刊物、词典的专用单字量词汉字（拼音为 běn）：",
           "acceptedAnswers": [
-            "量词系统",
-            "量词系统与名",
-            "量词系统与名词修饰"
+            "本"
           ],
-          "explanation": "正确的核心关键词为「量词系统」。"
+          "explanation": "汉字「本」是现代汉语中专门用于装订成册之书册刊物的个体量词。"
         }
       ],
       "passThreshold": 0.8
@@ -2471,85 +2475,89 @@
     "subject": "mandarin",
     "unit": 4,
     "lessonNumber": 3,
-    "title": "量词系统与名词修饰 (Classifiers & Noun Modification) (第3讲)",
+    "title": "容器量词与度量衡量词：杯、瓶、碗、公斤、块、斤 (Container & Measurement Classifiers)",
     "level": "A1",
-    "objective": "全面掌握与熟练运用本课核心内容：现代汉语核心名量词（个/本/张/条/支/位）、数量短语修饰名词及助词「的」。 (第3部分)。",
+    "objective": "熟练掌握汉语常用容器量词（杯/瓶/碗/盘）与度量衡及货币单位（公斤/斤/块/毛/分），能够在餐饮点餐、购物与日常交易中精准运用。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在现代汉语中，除了事物固有的个体量词外，以盛装容器为计量单位的「容器量词」以及标准的「度量衡与货币量词」在日常生活与商业贸易中扮演着至关重要的角色。\n\n一、高频常用容器量词体系：\n1.「杯 (bēi)」—— 用于杯装饮品与液体：\n- 一杯热绿茶、两杯黑咖啡、三杯鲜橙汁、一杯温水、一杯红葡萄酒。\n2.「瓶 (píng)」—— 用于瓶装液体或颗粒物：\n- 一瓶矿泉水、两瓶青岛啤酒、一瓶红酒、一瓶可乐、一瓶牛奶。\n3.「碗 (wǎn)」—— 用于碗装主食与汤羹：\n- 一碗热白米饭、两碗牛肉面、一碗馄饨、一碗酸辣汤。\n4.「盘 (pán)」—— 用于盘装菜肴与点心：\n- 一盘中国特色菜、两盘水饺、一盘炒青菜、一盘新鲜水果。\n\n二、度量衡量词体系（重量、长度、容量）：\n1. 重量单位：\n- 公斤 (gōngjīn，国际千克 1kg = 2市斤)：两公斤苹果、五公斤面粉。\n- 斤 (jīn，市斤 500g，中国农贸超市极高频传统重量单位)：一斤香蕉、三斤猪肉。\n2. 长度与容量：米 (mǐ，公尺)、公里 (gōnglǐ，千米)、升 (shēng，公升)。\n\n三、人民币货币计量单位体系：\n现代人民币采用十进制货币计数单位体系：\n1. 主币单位：块 / 元 (kuài / yuán，1元 = 10角/毛)\n- 口语常用「块」（如：十块钱、一百块钱）\n- 书面语专用「元」（如：售价：50元）\n2. 辅币单位：毛 / 角 (máo / jiǎo，1角 = 10分)\n- 口语常用「毛」（如：五毛钱、八毛五）\n- 书面语用「角」（如：5角）\n3. 最小辅币：分 (fēn)（如：两分钱）。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「量词系统与名词修饰 (Classifiers & Noun Modification)」的核心语法法则与应用范例 (4.3.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '量词系统与名词修饰 (Classifiers & Noun Modification)' in simple terms to students at the academic seminar."
+          "target": "服务员，请给我们来两杯热茶、三碗米饭和一盘水饺。(Fúwùyuán, qǐng gěi wǒmen lái liǎng bēi rèchá, sān wǎn mǐfàn hé yì pán shuǐjiǎo.)",
+          "reading": "[fu˧˥.u˥˩.ɥɛn˧˥, t͡ɕʰiŋ˨˩ keɪ̯˨˩ wɔ˨˩.mən laɪ̯˧˥ ljaŋ˨˩ peɪ̯˥ ʐɤ˥˩.ʈ͡ʂʰa˧˥, san˥ wan˨˩˦ mi˨˩.fan˥˩ xɤ˧˥ i˥ pʰan˧˥ ʂweɪ̯˨˩.t͡ɕjaʊ̯˨˩˦] (Fú-wù-yuán, qǐng gěi wǒ-men lái liǎng bēi rè-chá, sān wǎn mǐ-fàn hé yì pán shuǐ-jiǎo.)",
+          "translation": "Waiter, please bring us two cups of hot tea, three bowls of rice, and a plate of dumplings."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (4.3.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "这瓶矿泉水两块五毛钱，那两斤苹果一共十五块。(Zhè píng kuàngquánshuǐ liǎng kuài wǔ máo qián, nà liǎng jīn píngguǒ yígòng shíwǔ kuài.)",
+          "reading": "[ʈ͡ʂɤ˥˩ pʰiŋ˧˥ kʰwaŋ˥˩.t͡ɕʰɥɛn˧˥.ʂweɪ̯˨˩˦ ljaŋ˨˩ kʰwaɪ̯˥˩ u˨˩˦ maʊ̯˧˥ t͡ɕʰjɛn˧˥, na˥˩ ljaŋ˨˩ t͡ɕin˥ pʰiŋ˧˥.kwɔ˨˩˦ i˧˥.kʊŋ˥˩ ʂɨ˧˥.u˨˩˦ kʰwaɪ̯˥˩] (Zhè píng kuàng-quán-shuǐ liǎng kuài wǔ máo qián, nà liǎng jīn píng-guǒ yí-gòng shí-wǔ kuài.)",
+          "translation": "This bottle of mineral water is 2.50 yuan, and those two catties of apples are 15 yuan in total."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (4.3.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "我每天早晨都要喝一杯新鲜的热牛奶。(Wǒ měitiān zǎochén dōu yào hē yì bēi xīnxiān de rè niúnǎi.)",
+          "reading": "[wɔ˨˩ meɪ̯˨˩.tʰjɛn˥ t͡saʊ˨˩.ʈ͡ʂʰən˧˥ toʊ̯˥ jaʊ̯˥˩ xɤ˥ i˥ peɪ̯˥ ɕin˥.ɕjɛn˥ tɤ ʐɤ˥˩ njoʊ̯˧˥.naɪ̯˨˩˦] (Wǒ měi-tiān zǎo-chén dōu yào hē yì bēi xīn-xiān de rè niú-nǎi.)",
+          "translation": "I drink a cup of fresh hot milk every morning."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (4.3.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "请给我称两公斤新鲜的牛肉。(Qǐng gěi wǒ chēng liǎng gōngjīn xīnxiān de niúròu.)",
+          "reading": "[t͡ɕʰiŋ˨˩ keɪ̯˨˩ wɔ˨˩ ʈ͡ʂʰɤŋ˥ ljaŋ˨˩ kʊŋ˥.t͡ɕin˥ ɕin˥.ɕjɛn˥ tɤ njoʊ̯˧˥.ʐoʊ̯˥˩] (Qǐng gěi wǒ chēng liǎng gōng-jīn xīn-xiān de niú-ròu.)",
+          "translation": "Please weigh two kilograms of fresh beef for me."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "杯装茶水瓶装酒，碗盛米饭盘盛菜；公斤市斤称重量，块毛分里算钱粮！"
+      ],
+      "culturalNotes": [
+        "中国传统市斤（1斤 = 500克）在民间菜市场、果蔬摊位依然是最深入人心的交易计量标准。现代中国年轻人在线上线下购物时，普遍使用移动支付（微信支付与支付宝），口语中仍习惯称「元」为「块」。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「量词系统与名词修饰 (Classifiers & Noun Modification)」（第3讲）的标准汉语规范？",
+          "prompt": "在餐馆点餐时，表达「两碗面条」和「两杯热茶」的量词搭配应选用：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「量词系统与名词修饰 (Classifiers & Noun Modification)」的核心语法法则与应用范例 (4.3.1)。",
-            "存在语序混乱且虚词误用的病句选项 (4.3.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (4.3.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (4.3.w3)"
+            "碗 (wǎn) 与 杯 (bēi) (Bowls of noodles & Cups of tea)",
+            "本 与 张",
+            "条 与 支",
+            "把 与 个"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "面条用碗盛装故用「碗」，茶水用杯盛装故用「杯」，属于标准容器量词。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "在中国菜市场买水果，标价「8元一斤」，这里的「一斤」重量相当于公制：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "500克（0.5公斤） (500 grams / half a kilogram)",
+            "1000克（1公斤）",
+            "250克",
+            "100克"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "中国大陆法定市斤标准中，1 斤严格等于 500 克（即半公斤）。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「量词系统与名词修饰 (Classifiers & Noun Modification)」的正式语境下，最准确得体的表达是哪一项？（第4.3题）",
+          "prompt": "口语中表达商品价格「15.50元」时，最自然地道的中文说法是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (4.3.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (4.3.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (4.3.x2)",
-            "量词与名词修饰搭配错误的病句选项 (4.3.x3)"
+            "十五块五毛钱 / 十五块五 (shíwǔ kuài wǔ máo qián / shíwǔ kuài wǔ) (15 kuài 5 máo)",
+            "十五元五角钱零分",
+            "五毛十五块",
+            "十五点五十块钱"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "中文口语中货币主币读「块」，辅币读「毛」，15.50元常说作「十五块五毛」或简作「十五块五」。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u4-l3）所要求的高阶语言表达？",
+          "prompt": "修饰装在玻璃瓶或塑料瓶中的矿泉水时，应使用的量词是：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (4.3.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (4.3.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (4.3.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (4.3.y3)"
+            "瓶 (一瓶矿泉水) (píng - bottle)",
+            "本",
+            "把",
+            "张"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "瓶装液体使用容器量词「瓶 (píng)」。"
         }
       ]
     },
@@ -2557,25 +2565,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「量词系统与名词修饰 (Classifiers & Noun Modification)」的掌握程度，请选出表述完全正确的标准范句（测试 4-3）：",
+          "prompt": "请选出下列购物结账对话中量词与货币表达完全正确的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (4.3.4)。",
-            "被动句式与处置句式混用导致的严重病句 (4.3.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (4.3.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (4.3.z3)"
+            "甲：两瓶水和三斤苹果一共多少钱？ 乙：一共二十二块五毛钱。",
+            "甲：两张水和三把苹果一共多少钱？ 乙：一共二十二本五毛钱。",
+            "甲：两个水和三支苹果一共多少钱？ 乙：一共二十二元钱五分条。",
+            "甲：两杯水和三条苹果一共多少钱？ 乙：一共二十二毛五块钱。"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "水用「瓶」，苹果称重用「斤」，价格「二十二块五毛钱」，语法与生活语用完全准确。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u4-l3）的核心关键词（例如「量词系统」）：",
+          "prompt": "请输入表示杯装饮料的常用容器量词单字汉字（例如「一杯茶」的「杯」）：",
           "acceptedAnswers": [
-            "量词系统",
-            "量词系统与名",
-            "量词系统与名词修饰"
+            "杯"
           ],
-          "explanation": "正确的核心关键词为「量词系统」。"
+          "explanation": "汉字「杯」是表示杯装液体饮品（如茶、咖啡、水）的标准容器量词。"
         }
       ],
       "passThreshold": 0.8
@@ -2586,85 +2592,89 @@
     "subject": "mandarin",
     "unit": 4,
     "lessonNumber": 4,
-    "title": "量词系统与名词修饰 (Classifiers & Noun Modification) (第4讲)",
+    "title": "不定量词与集合量词：些、点儿、双、对、群 (Indefinite & Collective Classifiers)",
     "level": "A1",
-    "objective": "全面掌握与熟练运用本课核心内容：现代汉语核心名量词（个/本/张/条/支/位）、数量短语修饰名词及助词「的」。 (第4部分)。",
+    "objective": "掌握表示模糊数量的不定量词（一些、一点儿）以及成双与群体聚合量词（双、对、群）的语义范畴与修饰规则。",
     "presentation": {
-      "explanation": "",
+      "explanation": "当所修饰事物的数量处于不确定状态、或者事物呈现成双成对、群体聚集的存在形态时，现代汉语使用专门的「不定量词」与「集合量词」：\n\n一、不定量词体系（表示模糊不确定数量）：\n1.「些 (xiē)」—— 常与「一」、「这」、「那」、「哪」连用，表示复数多个事物（相当于 some / several / these / those）：\n- 一些书、一些苹果、一些外国留学生（一些 + 可数复数名词）\n- 这些人（these people）、那些事情（those things）、哪些汉字（which characters）\n2.「点儿 (diǎnr) / 一点儿」—— 用于修饰少量不可数名词或少量抽象事物（相当于 a little bit of）：\n- 一点儿水（a little water）、一点儿时间（a little time）、一点儿钱（a little money）\n- 我会说一点儿汉语。（表示掌握少量语言能力）\n\n二、成双与配对集合量词体系：\n1.「双 (shuāng)」—— 专用于两个完全对称、必须配合使用、或人体对称器官相关的物品：\n- 一双鞋子、两双袜子、三双竹筷子、一双皮手套、一双明亮的眼睛、一双勤劳的手。\n2.「对 (duì)」—— 用于成双成对、具有对应配合或夫妻伴侣关系的事物或人：\n- 一对恩爱夫妻、一对年轻情侣、一对金耳环、一对漂亮的石狮子、一对双胞胎兄弟。\n\n三、群体聚合量词体系：\n「群 (qún)」—— 专用于人或动物的大量聚集群体：\n- 一群大学生、一群外国游客、一群可爱的孩子、一群绵羊、一群飞翔的鸟儿。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「量词系统与名词修饰 (Classifiers & Noun Modification)」的核心语法法则与应用范例 (4.4.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '量词系统与名词修饰 (Classifiers & Noun Modification)' in simple terms to students at the academic seminar."
+          "target": "我在书店买了一些很有趣的中国历史小说。(Wǒ zài shūdiàn mǎi le yìxiē hěn yǒuqù de Zhōngguó lìshǐ xiǎoshuō.)",
+          "reading": "[wɔ˨˩ t͡saɪ̯˥˩ ʂu˥.tjɛn˥˩ maɪ̯˨˩˦ lɤ i˥.ɕjɛ xən˨˩ joʊ̯˨˩.t͡ɕʰy˥˩ tɤ ʈ͡ʂʊŋ˥.kwɔ˧˥ li˥˩.ʂɨ˨˩˦ ɕjaʊ̯˨˩.ʂwɔ˥] (Wǒ zài shū-diàn mǎi le yì-xiē hěn yǒu-qù de Zhōng-guó lì-shǐ xiǎo-shuō.)",
+          "translation": "I bought some very interesting Chinese history novels at the bookstore."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (4.4.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "请给我一点儿时间，我马上就准备好。(Qǐng gěi wǒ yìdiǎnr shíjiān, wǒ mǎshàng jiù zhǔnbèi hǎo.)",
+          "reading": "[t͡ɕʰiŋ˨˩ keɪ̯˨˩ wɔ˨˩ i˥.tjɛɻ˨˩˦ ʂɨ˧˥.t͡ɕjɛn˥, wɔ˨˩ ma˨˩.ʂɑŋ˥˩ t͡ɕjoʊ̯˥˩ ʈ͡ʂwən˨˩.peɪ̯˥˩ xaʊ˨˩˦] (Qǐng gěi wǒ yì-diǎnr shí-jiān, wǒ mǎ-shàng jiù zhǔn-bèi hǎo.)",
+          "translation": "Please give me a little time; I will be ready immediately."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (4.4.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "服务员，请再给我们拿两双干净的筷子。(Fúwùyuán, qǐng zài gěi wǒmen ná liǎng shuāng gānjìng de kuàizi.)",
+          "reading": "[fu˧˥.u˥˩.ɥɛn˧˥, t͡ɕʰiŋ˨˩ t͡saɪ̯˥˩ keɪ̯˨˩ wɔ˨˩.mən na˧˥ ljaŋ˨˩ ʂwɑŋ˥ kan˥.t͡ɕiŋ˥˩ tɤ kʰwaɪ̯˥˩.t͡sɨ] (Fú-wù-yuán, qǐng zài gěi wǒ-men ná liǎng shuāng gān-jìng de kuài-zi.)",
+          "translation": "Waiter, please bring us two more pairs of clean chopsticks."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (4.4.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "操场上有一群外国留学生正在踢足球。(Cāochǎng shang yǒu yì qún wàiguó liúxuéshēng zhèngzài tī zúqiú.)",
+          "reading": "[t͡sʰaʊ̯˥.ʈ͡ʂʰɑŋ˨˩˦ ʂɑŋ joʊ̯˨˩˦ i˥ t͡ɕʰyn˧˥ waɪ̯˥˩.kwɔ˧˥ ljoʊ̯˧˥.ɕɥɛ˧˥.ʂəŋ ʈ͡ʂɤŋ˥˩.t͡saɪ̯˥˩ tʰi˥ t͡swu˧˥.t͡ɕʰjoʊ̯˧˥] (Cāo-chǎng shang yǒu yì qún wài-guó liú-xué-shēng zhèng-zài tī zú-qiú.)",
+          "translation": "There is a crowd of international students playing football on the sports field."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "一些复数点儿少（一些书、一点儿水），筷子鞋袜成「双」配；夫妻情侣成「对」对，人多聚集成「群」飞！"
+      ],
+      "culturalNotes": [
+        "在传统中华礼俗中，「双」与「对」代表着吉祥圆满的「好事成双」文化寓意。民间婚庆喜事最讲究送礼送双数、贴「双喜」字、成双配对，忌讳单数单只。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「量词系统与名词修饰 (Classifiers & Noun Modification)」（第4讲）的标准汉语规范？",
+          "prompt": "在餐厅就餐时，修饰吃饭用的「筷子」应选用的标准量词是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「量词系统与名词修饰 (Classifiers & Noun Modification)」的核心语法法则与应用范例 (4.4.1)。",
-            "存在语序混乱且虚词误用的病句选项 (4.4.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (4.4.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (4.4.w3)"
+            "双 (一双筷子) (shuāng - a pair of chopsticks)",
+            "把",
+            "张",
+            "本"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "筷子是两支成套配合使用的对称餐具，必须使用量词「双（一双筷子）」。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "要表达「我会说少量的汉语」，最地道的中文表达是：",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "我会说一点儿汉语。(Wǒ huì shuō yìdiǎnr Hànyǔ.) (yìdiǎnr for a little bit of)",
+            "我会说一些汉语。(xiē 多用于复数可数对象)",
+            "我会说一只汉语。",
+            "我会说一本汉语。"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "修饰不可数抽象的语言能力「少量」，固定搭配使用不定量词「一点儿」。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「量词系统与名词修饰 (Classifiers & Noun Modification)」的正式语境下，最准确得体的表达是哪一项？（第4.4题）",
+          "prompt": "修饰公园里聚集成堆的很多游客时，应选用的集合量词是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (4.4.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (4.4.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (4.4.x2)",
-            "量词与名词修饰搭配错误的病句选项 (4.4.x3)"
+            "群 (一群游客) (qún - crowd / flock)",
+            "双",
+            "对",
+            "本"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "多人聚集而成的群体在汉语中使用集合量词「群（一群游客）」。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u4-l4）所要求的高阶语言表达？",
+          "prompt": "请选出下列句子中不定量词使用完全正确的一项：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (4.4.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (4.4.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (4.4.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (4.4.y3)"
+            "这些苹果很新鲜，请给我称两斤。(These apples are very fresh, please weigh two catties for me.)",
+            "这群苹果很新鲜，请给我称两斤。",
+            "这双苹果很新鲜，请给我称两斤。",
+            "这对苹果很新鲜，请给我称两斤。"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "指示代词「这」与不定量词「些」组合构成「这些苹果（these apples）」，完全符合规范。"
         }
       ]
     },
@@ -2672,25 +2682,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「量词系统与名词修饰 (Classifiers & Noun Modification)」的掌握程度，请选出表述完全正确的标准范句（测试 4-4）：",
+          "prompt": "请选出下列句子中量词与名词搭配全部正确的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (4.4.4)。",
-            "被动句式与处置句式混用导致的严重病句 (4.4.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (4.4.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (4.4.z3)"
+            "王先生买了一双皮鞋、一对耳环和一些茶叶。(Mr. Wang bought a pair of leather shoes, a pair of earrings, and some tea.)",
+            "王先生买了一群皮鞋、一双耳环和一点儿茶叶们。",
+            "王先生买了一对皮鞋、一群耳环和一双茶叶。",
+            "王先生买了一把皮鞋、一本耳环和一张茶叶。"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "皮鞋用「双」，耳环用「对」，茶叶用「一些」，完全契合各项量词语法规范。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u4-l4）的核心关键词（例如「量词系统」）：",
+          "prompt": "请输入修饰鞋袜、手套、筷子等成双成套物品的专用单字量词汉字（拼音为 shuāng）：",
           "acceptedAnswers": [
-            "量词系统",
-            "量词系统与名",
-            "量词系统与名词修饰"
+            "双"
           ],
-          "explanation": "正确的核心关键词为「量词系统」。"
+          "explanation": "汉字「双」专用于修饰两个对称配合使用的物品（如一双鞋、一双筷子）。"
         }
       ],
       "passThreshold": 0.8
@@ -2701,85 +2709,89 @@
     "subject": "mandarin",
     "unit": 4,
     "lessonNumber": 5,
-    "title": "量词系统与名词修饰 (Classifiers & Noun Modification) (第5讲)",
+    "title": "结构助词「的」作定语标记与名词修饰结构 (Structural Particle '的' & Attributive Modification)",
     "level": "A1",
-    "objective": "全面掌握与熟练运用本课核心内容：现代汉语核心名量词（个/本/张/条/支/位）、数量短语修饰名词及助词「的」。 (第5部分)。",
+    "objective": "系统掌握结构助词「的」作为定语标记的核心功能，熟练掌握「定语 + 的 + 中心语」修饰模型，并掌握「的」字在亲属称谓与单音节形容词中的省略规则。",
     "presentation": {
-      "explanation": "",
+      "explanation": "结构助词「的 (de)」是现代标准汉语中使用频率最高的虚词之一，主要充当「定语标记」，用于连接修饰限制成分（定语）与被修饰的核心名词（中心语）。\n\n一、汉语修饰语的核心语序铁律：\n汉语中所有修饰语（定语、状语）**永远严格置于被修饰中心成分之前**：\n- 定语（修饰限制成分） + 的 + 中心语（核心名词）\n\n二、「的」字定语的三大核心语义功能：\n1. 表示领属所有关系（Possession）：\n- 我的书包、张老师的电脑、北京大学的图书馆、中国的传统文化。\n2. 表示性质、状态与属性修饰（Description）：\n- 漂亮的衣服、新鲜的水果、昂贵的汽车、安宁的环境、热烈友好的气氛。\n3. 动词短语或小句充当定语（相当于关系从句 Relative Clause）：\n- 我昨天买的书（the book that I bought yesterday）\n- 教我们汉语的王老师（Teacher Wang who teaches us Chinese）\n- 正在前面跑步的那个人（the person who is running in front）\n\n三、结构助词「的」的省略规则（地道汉语关键精髓）：\n1. 直系亲属与极亲密人际关系时，代词后常省略「的」：\n- 我爸爸（较少说成 *我的爸爸*）、我妈妈、我哥哥、我朋友、我们班。\n2. 指称所属的工作单位或集体组织时常省略「的」：\n- 我们学校、我们公司、我单位、我国政府。\n3. 单音节形容词直接修饰名词时通常不用「的」：\n- 白纸（不作 *白的纸*）、黑板、好人、大树、热茶、新书。\n4. 双音节形容词修饰名词时一般必须带「的」：\n- 干净的房间、漂亮的衣服、热情的同胞。",
       "examples": [
         {
-          "target": "教授在学术研讨会上向学生们深入浅出地讲解了「量词系统与名词修饰 (Classifiers & Noun Modification)」的核心语法法则与应用范例 (4.5.1)。",
-          "reading": "Jiaoshou zai xueshu yantaohui shang xiang xueshengmen shenruqianchu de jiangjie le hexin yufa faze.",
-          "translation": "The professor explained the core grammatical rules and application examples of '量词系统与名词修饰 (Classifiers & Noun Modification)' in simple terms to students at the academic seminar."
+          "target": "这是我昨天在书店买的那本汉语语法书。(Zhè shì wǒ zuótiān zài shūdiàn mǎi de nà běn Hànyǔ yǔfǎ shū.)",
+          "reading": "[ʈ͡ʂɤ˥˩ ʂɨ˥˩ wɔ˨˩ t͡swɔ˧˥.tʰjɛn˥ t͡saɪ̯˥˩ ʂu˥.tjɛn˥˩ maɪ̯˨˩˦ tɤ na˥˩ pən˨˩ xan˥˩.y˨˩˦ y˨˩.fa˨˩˦ ʂu˥] (Zhè shì wǒ zuó-tiān zài shū-diàn mǎi de nà běn Hàn-yǔ yǔ-fǎ shū.)",
+          "translation": "This is that Chinese grammar book that I bought at the bookstore yesterday."
         },
         {
-          "target": "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (4.5.2)。",
-          "reading": "Xuezhemen zai tushuguan renzhen yandu jingdian wenxian, bing zhendui xueshu wenti zhankai le taolun.",
-          "translation": "Scholars earnestly studied classic literature in the library and launched lively and in-depth discussions on specialized academic issues."
+          "target": "李老师是一位非常热情、和蔼的好老师。(Lǐ lǎoshī shì yí wèi fēicháng rèqíng, hé'ǎi de hǎo lǎoshī.)",
+          "reading": "[li˨˩˦ laʊ˨˩.ʂɨ˥ ʂɨ˥˩ i˧˥ weɪ̯˥˩ feɪ̯˥.ʈ͡ʂʰɑŋ˧˥ ʐɤ˥˩.t͡ɕʰiŋ˧˥, xɤ˧˥.aɪ̯˨˩˦ tɤ xaʊ˨˩˦ laʊ˨˩.ʂɨ˥] (Lǐ lǎo-shī shì yí wèi fēi-cháng rè-qíng, hé-'ǎi de hǎo lǎo-shī.)",
+          "translation": "Teacher Li is a very warm and amiable good teacher."
         },
         {
-          "target": "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (4.5.3)。",
-          "reading": "Zai guoji xueshu dahui shang, geguo daibiao weirao yuyanxue lilun zhankai le jiaoliu.",
-          "translation": "At the international academic conference, delegates from various countries conducted extensive academic exchanges on linguistic theory and intercultural communication."
+          "target": "我爸爸每天早晨都在公园里打太极拳。(Wǒ bàba měitiān zǎochén dōu zài gōngyuán li dǎ tàijíquán.)",
+          "reading": "[wɔ˨˩ ˈpa˥˩.pa meɪ̯˨˩.tʰjɛn˥ t͡saʊ˨˩.ʈ͡ʂʰən˧˥ toʊ̯˥ t͡saɪ̯˥˩ kʊŋ˥.ɥɛn˧˥ li ta˨˩˦ tʰaɪ̯˥˩.t͡ɕi˧˥.t͡ɕʰɥɛn˧˥] (Wǒ bà-ba měi-tiān zǎo-chén dōu zài gōng-yuán li dǎ tài-jí-quán.)",
+          "translation": "My dad practices Tai Chi in the park every morning."
         },
         {
-          "target": "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (4.5.4)。",
-          "reading": "Xueshengmen tongguo xitong de xunlian, wanquan zhangwo le gaoji juxing jiegou yu cihui yongfa.",
-          "translation": "Through systematic grammatical training and practical drills, students completely mastered the advanced syntactic structures and vocabulary usage of this unit."
+          "target": "中国是一个拥有五千年悠久历史的文明古国。(Zhōngguó shì yí gè yōngyǒu wǔqiān nián yōujiǔ lìshǐ de wénmíng gǔguó.)",
+          "reading": "[ʈ͡ʂʊŋ˥.kwɔ˧˥ ʂɨ˥˩ i˧˥ kɤ jʊŋ˥.joʊ̯˨˩˦ u˨˩˦.t͡ɕʰjɛn˥ njɛn˧˥ joʊ̯˥.t͡ɕjoʊ̯˨˩˦ li˥˩.ʂɨ˨˩˦ tɤ wən˧˥.miŋ˧˥ ku˨˩.kwɔ˧˥] (Zhōng-guó shì yí gè yōng-yǒu wǔ-qiān nián yōu-jiǔ lì-shǐ de wén-míng gǔ-guó.)",
+          "translation": "China is an ancient civilization with a long history of 5,000 years."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "修饰成分在前面，定语后头加个「的」；领属关系性状貌，亲属亲近「的」可抛！"
+      ],
+      "culturalNotes": [
+        "在汉字「的三兄弟」（的、地、得）中，「的」是修饰名词的定语标记（白色的花），「地」是修饰动词的状语标记（认真地学习），「得」是连接动词与补语的标记（跑得很快），三者分工明确，是现代汉语书面语规范的基石。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【语法判断】下列哪一项完全符合「量词系统与名词修饰 (Classifiers & Noun Modification)」（第5讲）的标准汉语规范？",
+          "prompt": "在句子「这是教我们汉语______王老师」中，定语与中心语之间应填入的结构助词是：",
           "options": [
-            "教授在学术研讨会上向学生们深入浅出地讲解了「量词系统与名词修饰 (Classifiers & Noun Modification)」的核心语法法则与应用范例 (4.5.1)。",
-            "存在语序混乱且虚词误用的病句选项 (4.5.w1)",
-            "主谓搭配不当且句式杂糅的不合规范句子 (4.5.w2)",
-            "用词不当且逻辑关系存在缺陷的干扰项 (4.5.w3)"
+            "的 (de) —— 动词短语作定语修饰名词中心语 (Attributive marker de)",
+            "地 (de)",
+            "得 (de)",
+            "了 (le)"
           ],
           "answerIndex": 0,
-          "explanation": "首选选项句式严谨规范，语法结构完整，完全符合现代汉语书面语标准。"
+          "explanation": "「教我们汉语」充当定语修饰中心语名词「王老师」，必须使用定语结构助词「的」。"
         },
         {
-          "prompt": "【语义辨析】关于本课所讲解的语法规则与词汇用法，下列说明正确的是哪一项？",
+          "prompt": "下列短语中，哪一个由于属于亲属或单音节形容词而最自然省略「的」？",
           "options": [
-            "该句语法结构完整严密，虚词使用精准，符合现代汉语语用规范。",
-            "句子中缺少必要的宾语成分，导致结构残缺。",
-            "关联词语搭配错误，前后分句之间逻辑关系颠倒。",
-            "动词与补语之间缺少必要的结构助词，属于语法误用。"
+            "我妈妈 (My mom - omission of de for immediate family)",
+            "漂亮衣服 (双音节形容词应加「的」)",
+            "中国历史 (特定专有名词)",
+            "我昨天买书 (动词从句定语不可省「的」)"
           ],
           "answerIndex": 0,
-          "explanation": "该项准确概括了本课语法规则的正确应用要点。"
+          "explanation": "指称直系亲属称谓时代词后通常省略「的」，直称「我妈妈」、「我爸爸」最为自然地道。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【实践应用】在涉及「量词系统与名词修饰 (Classifiers & Noun Modification)」的正式语境下，最准确得体的表达是哪一项？（第4.5题）",
+          "prompt": "将句子「这本书是李华的」中「的」字结构还原为其省略的中心语，其完整含义是：",
           "options": [
-            "学者们在图书馆认真研读经典文献，并针对专业学术问题展开了热烈而深入的探讨 (4.5.2)。",
-            "语体风格不协调且带有口语粗俗词汇的句子 (4.5.x1)",
-            "分句之间缺乏必要连词导致表意不明的表述 (4.5.x2)",
-            "量词与名词修饰搭配错误的病句选项 (4.5.x3)"
+            "这本书是李华的书 (This book is Li Hua's book)",
+            "这本书是李华的老师",
+            "这本书是李华的电脑",
+            "这本书是李华的朋友"
           ],
           "answerIndex": 0,
-          "explanation": "该句用词典雅，语法规范，完全适合正式学术与交际场合。"
+          "explanation": "「名词 + 的」构成「的字短语」，在此处省略了与主语相同的中心语「书」。"
         },
         {
-          "prompt": "【语境选择】哪一个句子最能够准确传达本讲（zh-u4-l5）所要求的高阶语言表达？",
+          "prompt": "请选出下列句子中修饰语语序完全符合汉语规范的一项：",
           "options": [
-            "在国际学术大会上，各国代表围绕现代语言学理论与跨文化交际展开了广泛的学术交流 (4.5.3)。",
-            "句意含糊且存在成分赘余缺陷的句子 (4.5.y1)",
-            "时态助词使用不当导致时间线混乱的表达 (4.5.y2)",
-            "滥用修辞导致逻辑关系混乱的干扰项 (4.5.y3)"
+            "北京大学的图书馆很安静。(Peking University's library is very quiet.)",
+            "图书馆北京大学的很大。(语序错乱)",
+            "安静很北京大学图书馆。(语序颠倒)",
+            "北京大学图书馆很安静的。(句末杂糅)"
           ],
           "answerIndex": 0,
-          "explanation": "该选项准确体现了本讲的核心概念与严密的逻辑脉络。"
+          "explanation": "「定语（北京大学的）+ 中心语（图书馆）+ 谓语（很安静）」结构完全标准规范。"
         }
       ]
     },
@@ -2787,25 +2799,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【综合评估】为检验学习者对「量词系统与名词修饰 (Classifiers & Noun Modification)」的掌握程度，请选出表述完全正确的标准范句（测试 4-5）：",
+          "prompt": "请选出下列句子中定语标记「的」使用与语序完全正确的一项：",
           "options": [
-            "学生们通过系统的语法训练与实践演练，完全掌握了本单元的高级句型结构与词汇用法 (4.5.4)。",
-            "被动句式与处置句式混用导致的严重病句 (4.5.z1)",
-            "补语位置颠倒且否定副词位置错误的句子 (4.5.z2)",
-            "成语误用且字面意思与文脉不合的错误选项 (4.5.z3)"
+            "我昨天买的那本汉语词典非常实用。(The Chinese dictionary that I bought yesterday is very practical.)",
+            "我买的那本汉语词典昨天非常实用。(时间状语位置颠倒)",
+            "昨天买的那本汉语词典我的非常实用。(领属定语位置倒置)",
+            "汉语词典我昨天买的那本非常实用的。(中心语前置错误)"
           ],
           "answerIndex": 0,
-          "explanation": "该范句在词汇、句法及语用层面均达到了高级汉语的最高标准。"
+          "explanation": "「领属代词（我）+ 时间与动词定语（昨天买的）+ 数量短语（那本）+ 中心语（汉语词典）」语序完全严密。"
         },
         {
           "type": "typed-recall",
-          "prompt": "请输入本课（zh-u4-l5）的核心关键词（例如「量词系统」）：",
+          "prompt": "请输入充当定语修饰名词标记的结构助词单字汉字（拼音为 de）：",
           "acceptedAnswers": [
-            "量词系统",
-            "量词系统与名",
-            "量词系统与名词修饰"
+            "的"
           ],
-          "explanation": "正确的核心关键词为「量词系统」。"
+          "explanation": "汉字「的」是现代汉语中最核心的定语结构助词标记。"
         }
       ],
       "passThreshold": 0.8
