@@ -6635,53 +6635,62 @@
     "subject": "cantonese",
     "unit": 16,
     "lessonNumber": 1,
-    "title": "將字句同處置式 (The ZOENG Disposal Construction) (第1課)",
+    "title": "粵語書面與口語處置式概論：「將」字處置結構本質 (The 'zoeng1' Disposal Construction)",
     "level": "B1",
-    "objective": "Master Cantonese linguistics for 粵語單元16第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語「將」字處置句之核心句式結構「主語 + 將 + 受事賓語 + 動詞謂語 + 結果/趨向補語」與商務公文規範表達。",
     "presentation": {
-      "explanation": "",
+      "explanation": "處置式係漢語語法中極具表現力之特殊句型，其核心功能在於凸顯主語對某特定受事對象之主動處置、位置轉移或使之產生某種結果狀態：\n\n一、「將」字處置句核心語法公式：\n１．標準句式結構：【主語 ＋ 「將」 ＋ 受事賓語 ＋ 動詞謂語 ＋ 結果/趨向補語】。\n２．語法必備約束條件：\n- 受事賓語必須為已知、確定之特定人或物（通常帶有指示詞或特指領屬）。\n- 動詞謂語後方絕不可單獨空置，必須攜帶結果補語、趨向補語或體貌助詞（如「好、完、妥、走、埋」）。\n\n二、「將」字句在粵語中之語體分工：\n１．正式公文與禮貌指示語體：在香港政府公告、銀行合約、職場指引與商務交流中，廣泛使用「將」字句表達嚴謹、莊重之公務操作要求。\n- 例如：「請將已簽署之合約交返畀人事部」（請將簽署好的合同交回給人事部）。\n- 例如：「請將個人隨身物品妥善保管」（請將個人隨身物品妥善保管）。\n２．口語對比提示：粵語日常市井口語中，除了「將」字句外，更常使用後置複指詞「佢」進行口語處置（於後續課堂深入剖析）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第16課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 16 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 16 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 16 in communication."
+          "target": "請大家將填妥嘅報名表格同身份證副本一齊交畀秘書處。",
+          "reading": "cing2 daai6 gaa1 zoeng1 tin4 to5 ge3 bou3 meng4 biu2 gaak3 tung4 san1 fan2 zing3 fu3 bun2 jat1 cai4 gaau1 bei2 bei3 syu1 cyu3. [tsʰɪŋ˧˥ taːi˨ kaː˥ tsœːŋ˥ tʰiːn˨˩ tʰɔː˩˧ kɛː˧ pou˧ mɪŋ˨˩ piːu˧˥ kaːk̚˧ tʰʊŋ˨˩ sɐn˥ fɐn˧˥ tsɪŋ˧ fuː˧ puːn˧˥ jɐt̚˥ tsʰɐi˨˩ kaːu˥ pei˨ pei˧ syː˥ tsʰyː˧] (CHING DY-GAH JEUNG TEEN-TOH GEH BOU-MING BEW-GARK TOONG SUN-FUN-JING FOO-BOON YUT-CHY GAU-BAY BAY-SYU-CHYU)",
+          "translation": "Please hand in the completed application form together with a copy of your identity card to the secretariat."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元16-1）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "出發之前，導遊再三提醒大家要將所有重要證件同貴重物品放好。",
+          "reading": "ceot1 faat3 zi1 cin4, dou6 jau4 zoi3 saam1 tai4 seng2 daai6 gaa1 jiu3 zoeng1 so2 jau5 zung6 jiu3 zing3 gin62 tung4 gwai3 zung6 mat6 ban2 fong3 hou2. [tsʰɵt̚˥ faːt̚˧ tsiː˥ tsʰiːn˨˩, tou˨˩ jɐu˨˩ tsɔːi˧ saːm˥ tʰɐi˨˩ sɛːŋ˧˥ taːi˨ kaː˥ jiu˧ tsœːŋ˥ sɔː˧˥ jɐu˩˧ tsʊŋ˨ jiu˧ tsɪŋ˧ kiːn˧˥ tʰʊŋ˨˩ kʷɐi˧ tsʊŋ˨ mɐt̚˨ pʰɐn˧˥ fɔːŋ˧ hou˧˥] (CHUT-FAHT JEE-CHEEN, DOH-YAU JOY-SAHM TY-SENG DY-GAH YEW JEUNG SOH-YAU JOONG-YEW JING-GEEN TOONG GWY-JOONG MUT-BUN FONG-HOH)",
+          "translation": "Before setting off, the tour guide repeatedly reminded everyone to put away all important documents and valuables properly."
+        },
+        {
+          "target": "義工團隊好快就將幾十箱物資整整齊齊咁搬咗上貨車。",
+          "reading": "ji6 gung1 tyun4 deoi6 hou2 faai3 zau6 zoeng1 gei2 sap6 soeng1 mat6 zi1 zing2 zing2 cai4 cai4 gam2 bun1 zo2 soeng5 fo3 ce1. [jiː˨ kʊŋ˥ tʰyːn˨˩ tɵy˨ hou˧˥ faːi˧ tsɐu˨ tsœːŋ˥ kei˧˥ sɐp̚˨ sœːŋ˥ mɐt̚˨ tsiː˥ tsɪŋ˧˥ tsɪŋ˧˥ tsʰɐi˨˩ tsʰɐi˨˩ kɐm˧˥ puːn˥ tsɔː˧˥ sœːŋ˩˧ fɔː˧ tsʰɛː˥] (YEE-GONG TUEN-DEOY HOH-FY JAU JEUNG GAY-SUP SEUNG MUT-JEE JING-JING-CHY-CHY GUM BOON-JOR SEUNG FOH-CHEH)",
+          "translation": "The volunteer team quickly moved dozens of boxes of supplies neatly onto the lorry."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【將字處置訣】處置動作先用「將」，賓語置前莫慌張；動詞後面補語跟，「好完妥埋」全妥當！"
+      ],
+      "culturalNotes": [
+        "「將」字處置句在粵語正式商務公文、廣播公告與法定通告中被奉為最高標準書面句式。在香港港鐵車廂廣播中（如「請將座位讓畀有需要人士」），「將」字句展現了現代公務粵語之嚴謹與優雅。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"好熱\":",
+          "prompt": "【公文句式】在正式商務或公務場合表達「請把這份文件交給陳經理」，最得體之粵語處置句係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第16課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：好凍錯置）",
-            "混雜生硬詞彙之不規範語句（例項：潮濕未適配）",
-            "聲調助詞搭配欠妥之表達（例項：乾燥誤用）"
+            "請將呢份文件交畀陳經理。 (cing2 zoeng1 ni1 fan6 man4 gin62 gaau1 bei2 can4 ging1 lei5.)",
+            "請交呢份文件畀陳經理。",
+            "請將陳經理交畀呢份文件。",
+            "請呢份文件將交畀陳經理。"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "標準處置句公式為「主語＋將＋賓語＋動詞補語」（請將呢份文件交畀……）。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"好熱\":",
+          "prompt": "【語法結構】在粵語「將」字句中，動詞謂語後方必須具備之語法要素係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第16課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：潮濕未適配）",
-            "聲調助詞搭配欠妥之表達（例項：乾燥誤用）",
-            "語序顛倒嘅非標準句式（例項：好凍錯置）"
+            "結果補語、趨向補語或體貌助詞 (Resultative/Directional Complements)",
+            "形容詞最高級標記",
+            "疑問代名詞",
+            "否定副詞「唔」"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "處置句要求動詞後方必須帶有結果、趨向補語或體態助詞，以交代處置之終結狀態。"
         }
       ]
     },
@@ -6689,15 +6698,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"好熱\": Which sentence is completely correct?",
+          "prompt": "【句意解析】港鐵廣播詞「請將座位讓畀有需要嘅乘客」，其句法結構屬於：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第16課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：乾燥誤用）",
-            "語序顛倒嘅非標準句式（例項：好凍錯置）",
-            "混雜生硬詞彙之不規範語句（例項：潮濕未適配）"
+            "「將」字受事處置祈使句 (Disposal Imperative Sentence)",
+            "否定比較句",
+            "被動被字句",
+            "可能態疑問句"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "此句通過「將＋受事（座位）＋動詞（讓畀）＋對象」構成標準處置祈使句。"
         }
       ],
       "passThreshold": 0.8
@@ -6708,53 +6717,62 @@
     "subject": "cantonese",
     "unit": 16,
     "lessonNumber": 2,
-    "title": "將字句同處置式 (The ZOENG Disposal Construction) (第2課)",
+    "title": "粵語口語特有代名詞複指處置句：「V + 賓語 + 佢」與「抌/執/擺 + 佢」 (Resumptive 'keoi5' Disposal)",
     "level": "B1",
-    "objective": "Master Cantonese linguistics for 粵語單元16第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語市井口語最核心之處置句式「動詞 + 賓語 + 佢」與虛指代詞「佢」作為處置終結標記之語法特徵（食咗佢、抌咗佢、搞掂佢）。",
     "presentation": {
-      "explanation": "",
+      "explanation": "現代標準漢語日常高頻使用「把」字句，而粵語在市井日常口語交流中，極少使用「把」，而係創造出一套獨特之「後置代詞『佢』複指處置式」：\n\n一、口語複指處置式核心公式：\n１．公式一（帶實質名詞賓語）：【動詞 ＋ 體貌/結果補語 ＋ 實質名詞 ＋ 「佢」】。\n- 例如：「食咗個蘋果佢啦！」（把那個蘋果吃了它吧！）。\n- 例如：「洗乾淨對鞋佢」（把那雙鞋洗乾淨！）。\n- 其中末尾之「佢」並非代表具體某個人，而係作為「後置複指虛詞」，強化處置、了結、解決之語法語氣。\n\n２．公式二（賓語省略/直接處置代詞）：【動詞 ＋ 補語 ＋ 「佢」】。\n- 「抌咗佢」（dam2 zo2 keoi5）：把它扔掉、丟棄掉。\n- 「飲咗佢」（jam2 zo2 keoi5）：把它喝掉。\n- 「執掂佢」（zap1 dim6 keoi5）：把它收拾整齊、處理妥當。\n- 「搞掂佢」（gaau2 dim6 keoi5）：把它順利辦妥解決。\n\n二、語氣與語用特徵：\n１．帶有強烈之「決斷、了結、痛快處置」之口氣色彩，在祈使句、催促句與承諾句中極為常見。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第16課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 16 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 16 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 16 in communication."
+          "target": "呢杯熱奶茶就快凍喇，你趁熱快啲飲咗佢啦！",
+          "reading": "ni1 bui1 jit6 naai5 caa4 zau6 faai3 dung3 laa3, nei5 can3 jit6 faai3 di1 jam2 zo2 keoi5 laa1! [niː˥ puːi˥ jiːt̚˨ naːi˩˧ tsʰaː˨˩ tsɐu˨ faːi˧ tʊŋ˧ laː˧, nei˩˧ tsʰɐn˧ jiːt̚˨ faːi˧ tiː˥ jɐm˧˥ tsɔː˧˥ kʰɵy˩˧ laː˥!] (NEE-BOOY YEET NY-CHAH JAU-FY DOONG LAH, NEI CHUN-YEET FY-DEE YUM-JOR KUY LAH!)",
+          "translation": "This cup of hot milk tea is about to get cold; drink it up quickly while it's hot!"
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元16-2）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "呢張舊梳化已經坐爛咗，聽日叫搬運工人嚟抌咗佢啦。",
+          "reading": "ni1 zoeng1 gau6 so1 faa1*2 ji5 ging1 co5 laan6 zo2, ting1 jat6 giu3 bun1 wan6 gung1 jan4 lai4 dam2 zo2 keoi5 laa1. [niː˥ tsœːŋ˥ kɐu˨ sɔː˥ faː˧˥ jiː˩˧ kɪŋ˥ tsʰɔː˩˧ laːn˨ tsɔː˧˥, tʰɪŋ˥ jɐt˨ kiːu˧ puːn˥ wɐn˨ kʊŋ˥ jɐn˨˩ lɐi˨˩ tɐm˧˥ tsɔː˧˥ kʰɵy˩˧ laː˥] (NEE-JEUNG GAU SOH-FAH YEE-GING CHOH-LAHN-JOR, TING-YUT GEW BOON-WUN GONG-YUN LY DUM-JOR KUY LAH)",
+          "translation": "This old sofa is already broken from sitting; call the movers to throw it away tomorrow."
+        },
+        {
+          "target": "老細交代落嚟嘅呢單緊急公事，我哋今晚一定要合力搞掂佢！",
+          "reading": "lou5 sai3 gaau1 doi6 lok6 lai4 ge3 ni1 daan1 gan2 gap1 gung1 si6, ngo5 dei6 gam1 maan5 jat1 ding6 jiu3 hap6 lik6 gaau2 dim6 keoi5! [lou˧˥ sɐi˧ kaːu˥ tɔːi˨ lɔːk̚˨ lɐi˨˩ kɛː˧ niː˥ taːn˥ kɐn˧˥ kɐp̚˥ kʊŋ˥ siː˨, ŋɔː˩˧ tei˨ kɐm˥ maːn˩˧ jɐt̚˥ tɪŋ˨ jiu˧ hɐp̚˨ lɪk̚˨ kaːu˧˥ tiːm˨ kʰɵy˩˧!] (LOU-SY GAU-DOY LOK-LY GEH NEE-DAHN GUN-GUP GONG-SEE, NGOH-DAY GUM-MAHN YUT-DING YEW HUP-LIK GAU-DEEM-KUY!)",
+          "translation": "This urgent task assigned by the boss, we must definitely cooperate to get it done tonight!"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【口語複指佢】日常廣東唔用把，動詞後尾加個「佢」；飲咗佢來抌咗佢，搞掂佢字最俐落！"
+      ],
+      "culturalNotes": [
+        "「動詞＋賓語＋佢」係廣州話最神妙之語法構詞之一。語言學家指出，代詞「佢」在句末虛化為處置標記，展現出嶺南人乾脆俐落、辦事講求速戰速決之務實性格。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"好凍\":",
+          "prompt": "【口語處置】在粵語日常生活中欲催促對方「把這碗湯喝了它」，最地道之口語說法係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第16課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：潮濕錯置）",
-            "混雜生硬詞彙之不規範語句（例項：乾燥未適配）",
-            "聲調助詞搭配欠妥之表達（例項：溫度誤用）"
+            "快啲飲咗碗湯佢！ (faai3 di1 jam2 zo2 wun2 tong1 keoi5!)",
+            "快啲把碗湯喝！",
+            "快啲飲碗湯把！",
+            "快啲將碗湯喝！"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "粵語口語處置句典型結構為「動詞＋賓語＋佢」（飲咗碗湯佢）。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"好凍\":",
+          "prompt": "【動作識別】當看見桌上有過期壞掉之食物，媽媽吩咐孩子「把它扔掉」，口語常講：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第16課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：乾燥未適配）",
-            "聲調助詞搭配欠妥之表達（例項：溫度誤用）",
-            "語序顛倒嘅非標準句式（例項：潮濕錯置）"
+            "抌咗佢！ (dam2 zo2 keoi5!)",
+            "食咗佢！",
+            "買咗佢！",
+            "睇咗佢！"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「抌」（dam2）在粵語中表示扔掉、丟棄。「抌咗佢」即把它扔掉。"
         }
       ]
     },
@@ -6762,15 +6780,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"好凍\": Which sentence is completely correct?",
+          "prompt": "【語法功能】在粵語短語「搞掂佢」（gaau2 dim6 keoi5）中，字尾「佢」之主要語法功能係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第16課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：溫度誤用）",
-            "語序顛倒嘅非標準句式（例項：潮濕錯置）",
-            "混雜生硬詞彙之不規範語句（例項：乾燥未適配）"
+            "作為後置虛指處置代詞，強化完成處置之語氣 (Resumptive Disposal Marker)",
+            "專門特指某一位男性長輩",
+            "表示疑問語氣助詞",
+            "表示否定副詞"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「佢」在處置短語中虛化為處置了結之代詞標記。"
         }
       ],
       "passThreshold": 0.8
@@ -6781,53 +6799,62 @@
     "subject": "cantonese",
     "unit": 16,
     "lessonNumber": 3,
-    "title": "將字句同處置式 (The ZOENG Disposal Construction) (第3課)",
+    "title": "處置式之後接結果補語與趨向動詞：「將……擺喺/放喺/交畀/帶返」 (Resultative & Directional Disposals)",
     "level": "B1",
-    "objective": "Master Cantonese linguistics for 粵語單元16第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語處置句中空間位移（擺喺/放喺）、受事轉移（交畀/遞畀）與原位回歸（帶返/攞返）之複合補語搭配規則。",
     "presentation": {
-      "explanation": "",
+      "explanation": "處置式之核心在於改變物體之物理位置、領屬關係或空間歸屬，粵語中通過豐富之結果與趨向介詞補語體系予以精確表達：\n\n一、三大核心空間與歸屬處置補語矩陣：\n１．空間位置轉移補語：【「將」 ＋ 賓語 ＋ 「擺喺 / 放喺」 ＋ 處所名詞】。\n- 「擺喺」（baai2 hai2）與「放喺」（fong3 hai2）：將物品安放於某處。\n- 例如：「將啲書本擺喺書架上面」（把書本放在書架上）。\n２．領屬對象轉移補語：【「將」 ＋ 賓語 ＋ 「交畀 / 遞畀 / 送畀」 ＋ 接受人】。\n- 「交畀」（gaau1 bei2）：將物件交付給某人。\n- 「遞畀」（dai6 bei2）：將物件親手遞傳給某人。\n- 「送畀」（sung3 bei2）：將物件餽贈給某人。\n３．原位回歸與帶回補語：【「將」 ＋ 賓語 ＋ 「帶返 / 攞返 / 寄返」 ＋ 處所/原主】。\n- 「帶返」（daai3 faan1）：將物品順利帶回原地。\n- 「攞返」（lo2 faan1）：將物品重新取回。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第16課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 16 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 16 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 16 in communication."
+          "target": "秘書將印好嘅十幾份會議議程整齊咁擺喺會議室張大長枱上面。",
+          "reading": "bei3 syu1 zoeng1 jan3 hou2 ge3 sap6 gei2 fan6 wui6 ji5 ji5 cing4 zing2 cai4 gam2 baai2 hai2 wui6 ji5 sat1 zoeng1 daai6 coeng4 toi4*2 soeng6 min6. [pei˧ syː˥ tsœːŋ˥ jɐn˧ hou˧˥ kɛː˧ sɐp̚˨ kei˧˥ fɐn˨ wuːi˨ jiː˩˧ jiː˩˧ tsʰɪŋ˨˩ tsɪŋ˧˥ tsʰɐi˨˩ kɐm˧˥ paːi˧˥ hɐi˩˧ wuːi˨ jiː˩˧ sɐt̚˥ tsœːŋ˥ taːi˨ tsʰœːŋ˨˩ tʰɔːi˧˥ sœːŋ˨ miːn˨] (BAY-SYU JEUNG YUN-HOH GEH SUP-GAY FUN WUI-YEE YEE-CHING JING-CHY GUM BAAI HY WUI-YEE-SUT JEUNG DY-CHEUNG-TOY SEUNG-MEEN)",
+          "translation": "The secretary neatly placed the ten-plus printed copies of the meeting agenda onto the large conference table in the meeting room."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元16-3）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "請你離開辦公室之前，記得將部手提電腦同工作證帶返屋企。",
+          "reading": "cing2 nei5 lei4 hoi1 baan6 gung1 sat1 zi1 cin4, gei3 dak1 zoeng1 bou6 sau2 tai4 din6 nou5 tung4 gung1 zok3 zing3 daai3 faan1 uk1 kei2. [tsʰɪŋ˧˥ nei˩˧ lei˨˩ hɔːi˥ paːn˨ kʊŋ˥ sɐt̚˥ tsiː˥ tsʰiːn˨˩, kei˧ tɐk̚˥ tsœːŋ˥ pou˨ sɐu˧˥ tʰɐi˨˩ tiːn˨ nou˩˧ tʰʊŋ˨˩ kʊŋ˥ tsɔːk̚˧ tsɪŋ˧ taːi˧ faːn˥ ʊk̚˥ kʰei˧˥] (CHING NEI LY-HOI BAHN-GONG-SUT JEE-CHEEN, GAY-DUK JEUNG BOU SAU-TY DEEN-NOU TOONG GONG-JOK-JING DY-FAHN OOK-KAY)",
+          "translation": "Before you leave the office, please remember to take the laptop and staff ID card back home."
+        },
+        {
+          "target": "快遞員已經將個包裹親手遞畀陳太，仲叫佢簽收咗添。",
+          "reading": "faai3 dai6 jyun4 ji5 ging1 zoeng1 go3 baau1 gwo2 can1 sau2 dai6 bei2 can4 taai3*2, zung6 giu3 keoi5 cim1 sau1 zo2 tim1. [faːi˧ tɐi˨ jyːn˨˩ jiː˩˧ kɪŋ˥ tsœːŋ˥ kɔː˧ paːu˥ kʷɔː˧˥ tsʰɐn˥ sɐu˧˥ tɐi˨ pei˨ tsʰɐn˨˩ tʰaːi˧˥, tsʊŋ˨ kiːu˧ kʰɵy˩˧ tsʰiːm˥ sɐu˥ tsɔː˧˥ tʰiːm˥] (FY-DY-YUEN YEE-GING JEUNG GOH BAU-GWOR CHUN-SAU DY-BAY CHUN-TY, JOONG GEW KUY CHEEM-SAU-JOR TEEM)",
+          "translation": "The courier has already personally handed the parcel over to Mrs. Chan and asked her to sign for it."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【空間歸屬訣】物品放置「擺喺度」，交付他人「交畀」好；物品歸位「帶返去」，方位趨向分分曉！"
+      ],
+      "culturalNotes": [
+        "粵語中「擺」（baai2）比「放」（fong3）使用頻率更高，極具視覺造型感。而趨向補語「返」（faan1）帶有強烈之「回歸原位、恢復常態」之文化心理，廣泛用於各類生活指令中。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"潮濕\":",
+          "prompt": "【位置轉移】欲表達「請把這份文件放在我的辦公桌上」，標準粵語處置句係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第16課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：乾燥錯置）",
-            "混雜生硬詞彙之不規範語句（例項：溫度未適配）",
-            "聲調助詞搭配欠妥之表達（例項：醫生誤用）"
+            "請將呢份文件擺喺我張寫字枱上面。 (cing2 zoeng1 ni1 fan6 man4 gin62 baai2 hai2 ngo5 zoeng1 se2 zi6 toi4*2 soeng6 min6.)",
+            "請將我張寫字枱擺喺呢份文件。",
+            "請擺喺呢份文件我張寫字枱。",
+            "請呢份文件擺喺將我張寫字枱。"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「將＋賓語（呢份文件）＋動詞補語（擺喺……）」為正確結構。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"潮濕\":",
+          "prompt": "【對象轉移】快遞員將物品親手送達並轉移給接收者，動詞短語應選用：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第16課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：溫度未適配）",
-            "聲調助詞搭配欠妥之表達（例項：醫生誤用）",
-            "語序顛倒嘅非標準句式（例項：乾燥錯置）"
+            "遞畀 (dai6 bei2 / Hand over to)",
+            "食畀",
+            "行畀",
+            "睇畀"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「遞畀」（dai6 bei2）表示親手遞交、傳遞給某人。"
         }
       ]
     },
@@ -6835,15 +6862,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"潮濕\": Which sentence is completely correct?",
+          "prompt": "【趨向理解】句子「記得將部手提電腦帶返屋企」中，「帶返」之核心語義為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第16課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：醫生誤用）",
-            "語序顛倒嘅非標準句式（例項：乾燥錯置）",
-            "混雜生硬詞彙之不規範語句（例項：溫度未適配）"
+            "把筆記本電腦帶回到家中原處 (Take it back home)",
+            "把筆記本電腦丟棄在家中",
+            "在家中購買一台新電腦",
+            "在家中修理筆記本電腦"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "補語「返」表示回歸原處，「帶返屋企」即帶回家中。"
         }
       ],
       "passThreshold": 0.8
@@ -6854,53 +6881,62 @@
     "subject": "cantonese",
     "unit": 16,
     "lessonNumber": 4,
-    "title": "將字句同處置式 (The ZOENG Disposal Construction) (第4課)",
+    "title": "處置動詞之體貌助詞與處置標記連用：「將……整/整爛/整唔見/抌咗」 (Causative & Telic Disposals)",
     "level": "B1",
-    "objective": "Master Cantonese linguistics for 粵語單元16第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語使役致使動詞「整」在處置句中之獨特用法（整爛、整唔見、整污糟）與體貌標記「埋/走/咗」之極致語義整合。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在粵語處置句中，致使動詞「整」與各類終結體貌補語（埋、走、咗）構成了極為靈活且表現力強大之使成處置體系：\n\n一、致使動詞「整」之致損與使成處置：\n１．「整」在粵語中作為致使動詞，相當於「弄、搞、使之變成」。\n２．高頻使成/損壞處置矩陣：\n- 「將……整爛」：把某物弄壞、破損。例如「將部電話整爛咗」（把手機弄壞了）。\n- 「將……整唔見」：把某物弄丟、遺失。例如「將條鎖匙整唔見咗」（把鑰匙搞丟了）。\n- 「將……整污糟」：把某物弄髒。例如「將件新衫整污糟」（把新衣服弄髒了）。\n- 「將……整返好」：把損壞之物品修復完好。\n\n二、終結性體貌助詞之語義擴展：\n１．「埋」（包容/完結）：表示將剩餘部分徹底處理完畢或收藏起來。\n- 「將啲剩菜食埋佢」：把剩菜全部吃完。\n- 「將啲機密文件收埋」：把機密文件收藏隱蔽起來。\n２．「走」（移除/離去）：表示通過處置將某對象移除清空。\n- 「將堆垃圾抌走」：把那堆垃圾扔掉運走。\n- 「將架私家車揸走」：把私家車開離現場。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第16課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 16 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 16 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 16 in communication."
+          "target": "細佬唔小心將爸爸部新相機整爛咗，依家好驚畀爸爸鬧。",
+          "reading": "sai3 lou2 m4 siu2 sam1 zoeng1 baa4 baa1 bou6 san1 soeng2 gei1 zing2 laan6 zo2, ji1 gaa1 hou2 geng1 bei2 baa4 baa1 naau6. [sɐi˧ lou˩˧ m̩˨˩ siu˧˥ sɐm˥ tsœːŋ˥ paː˨˩ paː˥ pou˨ sɐn˥ sœːŋ˧˥ kei˥ tsɪŋ˧˥ laːn˨ tsɔː˧˥, jiː˥ kaː˥ hou˧˥ kɛːŋ˥ pei˨ paː˨˩ paː˥ naːu˨] (SY-LOU M-SIU-SUM JEUNG BAH-BAH BOU SUN-SEUNG-GAY JING-LAHN-JOR, YEE-GAH HOH-GANG BAY BAH-BAH NAU)",
+          "translation": "Little brother accidentally broke Dad's new camera; now he is very afraid of being scolded by Dad."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元16-4）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "我頭先唔知將條門匙整咗去邊，搵咗半個鐘都搵唔到。",
+          "reading": "ngo5 tau4 sin1 m4 zi1 zoeng1 tiu4 mun4 si4 zing2 zo2 heoi3 bin1, wan2 zo2 bun3 go3 zung1 dou1 wan2 m4 dou2. [ŋɔː˩˧ tʰɐu˨˩ siːn˥ m̩˨˩ tsiː˥ tsœːŋ˥ tʰiːu˨˩ muːn˨˩ siː˨˩ tsɪŋ˧˥ tsɔː˧˥ hɵy˧ piːn˥, wɐn˧˥ tsɔː˧˥ pun˧ kɔː˧ tsʊŋ˥ tou˥ wɐn˧˥ m̩˨˩ tou˧˥] (NGOH TAU-SEEN M-JEE JEUNG TEW-MOON-SEE JING-JOR HOEY BEEN, WUN-JOR BOON-GOH-JOONG DOH WUN-M-DOU)",
+          "translation": "Just now I didn't know where I misplaced the door key; I searched for half an hour and still couldn't find it."
+        },
+        {
+          "target": "今晚啲餸煮得咁好食，大家快啲合力將啲飯菜食埋佢啦！",
+          "reading": "gam1 maan5 di1 sung3 zyu2 dak1 gam3 hou2 sik6, daai6 gaa1 faai3 di1 hap6 lik6 zoeng1 di1 faan6 coi3 sik6 maai4 keoi5 laa1! [kɐm˥ maːn˩˧ tiː˥ sʊŋ˧ tsyː˧˥ tɐk̚˥ kɐm˧ hou˧˥ sɪk̚˨, taːi˨ kaː˥ faːi˧ tiː˥ hɐp̚˨ lɪk̚˨ tsœːŋ˥ tiː˥ faːn˨ tsʰɔːi˧ sɪk̚˨ maːi˨˩ kʰɵy˩˧ laː˥!] (GUM-MAHN DEE SOONG JYUE-DUK GUM HOH-SIK, DY-GAH FY-DEE HUP-LIK JEUNG DEE FAHN-CHOY SIK-MY-KUY LAH!)",
+          "translation": "Tonight's dishes are cooked so deliciously; everyone quickly cooperate to finish up all the food!"
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【致使體貌訣】弄損搞壞用「整爛」，遺失物件「整唔見」；吃盡收拾用個「埋」，移除垃圾「抌走」掂！"
+      ],
+      "culturalNotes": [
+        "在粵語日常會話中，「整」字係萬能致使動詞（如整飯、整車、整爛、整污糟），搭配體貌補語「埋」（吃光用盡）與「走」（消除離開），展現出極為生動之語言節奏。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"乾燥\":",
+          "prompt": "【使成動詞】在粵語中描述不小心把鑰匙「弄丟、搞丟了」，最標準之動詞搭配係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第16課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：溫度錯置）",
-            "混雜生硬詞彙之不規範語句（例項：醫生未適配）",
-            "聲調助詞搭配欠妥之表達（例項：睇醫生誤用）"
+            "整唔見咗 (zing2 m4 gin3 zo2)",
+            "行唔見咗",
+            "睇唔見咗",
+            "聽唔見咗"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「整唔見」（zing2 m4 gin3）係粵語中表達把物品搞丟、遺失之標準說法。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"乾燥\":",
+          "prompt": "【體貌補語】欲表達「把桌上剩餘之飯菜全部吃完」，動詞短語應使用助詞：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第16課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：醫生未適配）",
-            "聲調助詞搭配欠妥之表達（例項：睇醫生誤用）",
-            "語序顛倒嘅非標準句式（例項：溫度錯置）"
+            "食埋佢 (sik6 maai4 keoi5)",
+            "食起佢",
+            "食落佢",
+            "食過佢"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "補語「埋」（maai4）表示將剩餘部分徹底做完、了結。"
         }
       ]
     },
@@ -6908,15 +6944,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"乾燥\": Which sentence is completely correct?",
+          "prompt": "【語意理解】句子「將架私家車揸走」中，「揸走」之確切含義為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第16課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：睇醫生誤用）",
-            "語序顛倒嘅非標準句式（例項：溫度錯置）",
-            "混雜生硬詞彙之不規範語句（例項：醫生未適配）"
+            "開車離開現場 (Drive the car away)",
+            "把車停放在原地",
+            "在車裡休息睡覺",
+            "把車輛徹底拆解"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「揸」（zaa1）為開車，「揸走」即開車離開移走。"
         }
       ],
       "passThreshold": 0.8
@@ -6927,53 +6963,62 @@
     "subject": "cantonese",
     "unit": 16,
     "lessonNumber": 5,
-    "title": "將字句同處置式 (The ZOENG Disposal Construction) (第5課)",
+    "title": "處置句、受事主題化與被動句之三維語義轉換實戰 (Disposal, Topic-Comment, & Passives)",
     "level": "B1",
-    "objective": "Master Cantonese linguistics for 粵語單元16第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握粵語主動句（SVO）、處置句（將/佢）、受事主題化（Topic-Comment）與被動句（畀字句）之三維靈活轉換與實戰語用技巧。",
     "presentation": {
-      "explanation": "",
+      "explanation": "在粵語高階語法中，同一個核心事件可以根據說話者之焦點、情感色彩與語境需求，在四種經典句式之間自如轉換：\n\n一、四維核心句式語法矩陣與轉換實例：\n１．基礎主動句（主謂賓 SVO）：陳述客觀動作事實。\n- 例句：「阿強整爛咗部電腦。」\n２．「將」字處置句 / 口語複指處置句：強調主語之主動處置與結果。\n- 例句：「阿強將部電腦整爛咗。」 / 「阿強整爛咗部電腦佢。」\n３．受事主題化句（Topic-Comment）：將受事焦點前置為全句話題。\n- 例句：「部電腦，阿強整爛咗。」（焦點在於交代『電腦』之遭遇現狀）。\n４．「畀」字被動句：強調受害者視角或遭受意外之無奈感。\n- 例句：「部電腦畀阿強整爛咗。」（電腦遭受了損壞）。\n\n二、職場與生活語用語境決策：\n１．強調責任歸屬或操作指示：使用「將」字處置句。\n２．客氣催促或口語交代：使用「動詞 ＋ 賓語 ＋ 佢」。\n３．回報事故結果：使用受事主題化或被動句。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第16課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 16 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 16 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 16 in communication."
+          "target": "呢份緊急文件我已經將佢交畀總經理，你唔使再擔心喇。",
+          "reading": "ni1 fan6 gan2 gap1 man4 gin62 ngo5 ji5 ging1 zoeng1 keoi5 gaau1 bei2 zung2 ging1 lei5, nei5 m4 sai2 zoi3 daam1 sam1 laa3. [niː˥ fɐn˨ kɐn˧˥ kɐp̚˥ mɐn˨˩ kiːn˧˥ ŋɔː˩˧ jiː˩˧ kɪŋ˥ tsœːŋ˥ kʰɵy˩˧ kaːu˥ pei˨ tsʊŋ˧˥ kɪŋ˥ lei˩˧, nei˩˧ m̩˨˩ sɐi˧˥ tsɔːi˧ taːm˥ sɐm˥ laː˧] (NEE-FUN GUN-GUP MUN-GEEN NGOH YEE-GING JEUNG-KUY GAU-BAY JOONG-GING-LY, NEI M-SY JOY DAHM-SUM LAH)",
+          "translation": "As for this urgent document, I have already handed it to the general manager; you don't need to worry anymore."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元16-5）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "我部全新手機琴日畀細佬整爛咗個螢幕，真係好心痛！",
+          "reading": "ngo5 bou6 cyun4 san1 sau2 gei1 kam4 jat6 bei2 sai3 lou2 zing2 laan6 zo2 go3 jing4 mok6, zan1 hai6 hou2 sam1 tung3! [ŋɔː˩˧ pou˨ tsʰyːn˨˩ sɐn˥ sɐu˧˥ kei˥ kʰɐm˨˩ jɐt˨ pei˨ sɐi˧ lou˩˧ tsɪŋ˧˥ laːn˨ tsɔː˧˥ kɔː˧ jɪŋ˨˩ mɔːk̚˨, tsɐn˥ hɐi˨ hou˧˥ sɐm˥ tʰʊŋ˧!] (NGOH BOU CHUEN-SUN SAU-GAY KUM-YUT BAY SY-LOU JING-LAHN-JOR GOH YING-MOK, JUN-HY HOH-SUM-TOONG!)",
+          "translation": "The screen of my brand-new mobile phone was broken by my little brother yesterday; it really breaks my heart!"
+        },
+        {
+          "target": "嗰堆過期文件，我哋頭先已經全部抌晒佢喇。",
+          "reading": "go2 deoi1 gwo3 kei4 man4 gin62, ngo5 dei6 tau4 sin1 ji5 ging1 cyun4 bou6 dam2 saai3 keoi5 laa3. [kɔː˧˥ tɵy˥ kʷɔː˧ kʰei˨˩ mɐn˨˩ kiːn˧˥, ŋɔː˩˧ tei˨ tʰɐu˨˩ siːn˥ jiː˩˧ kɪŋ˥ tsʰyːn˨˩ pou˨ tɐm˧˥ saːi˧ kʰɵy˩˧ laː˧] (GOH-DEOY GWOR-KEY MUN-GEEN, NGOH-DAY TAU-SEEN YEE-GING CHUEN-BOU DUM-SY-KUY LAH)",
+          "translation": "As for that pile of expired documents, we already threw all of them away just now."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【句式轉換歌】主動SVO陳述事，處置「將」字立焦點；受事放前做話題，遭受不幸「畀」字言！"
+      ],
+      "culturalNotes": [
+        "在粵語人際溝通中，靈活切換處置句與被動句係高情商之體現。例如交代損壞時講「部機畀人整爛咗」（被動）能弱化主觀過錯，而指示操作時用「將份表格填妥」（處置）則彰顯專業高效。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"溫度\":",
+          "prompt": "【句式轉換】將主動句「同事借咗我部相機」轉換為強調「我部相機」之受事主題化句，應為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第16課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：醫生錯置）",
-            "混雜生硬詞彙之不規範語句（例項：睇醫生未適配）",
-            "聲調助詞搭配欠妥之表達（例項：食藥誤用）"
+            "我部相機，同事借咗。 (ngo5 bou6 soeng2 gei1, tung4 si6 ze3 zo2.)",
+            "我部相機借咗同事。",
+            "同事我部相機借咗。",
+            "借咗我部相機同事。"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "受事主題化將受事焦點「我部相機」提至句首作為話題。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"溫度\":",
+          "prompt": "【被動結構】在粵語中表達「杯子被弟弟打破了」，正確之「畀」字被動句係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第16課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：睇醫生未適配）",
-            "聲調助詞搭配欠妥之表達（例項：食藥誤用）",
-            "語序顛倒嘅非標準句式（例項：醫生錯置）"
+            "隻杯畀細佬整爛咗。 (zek3 bui1 bei2 sai3 lou2 zing2 laan6 zo2.)",
+            "隻杯將細佬整爛咗。",
+            "細佬畀隻杯整爛咗。",
+            "隻杯過細佬整爛咗。"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "粵語被動句結構為「受事＋畀＋施事＋動詞補語」（隻杯畀細佬整爛咗）。"
         }
       ]
     },
@@ -6981,15 +7026,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"溫度\": Which sentence is completely correct?",
+          "prompt": "【語用選擇】在向客戶交代工作完成進度時，欲展現最高之專業度與責任感，最推薦之句式係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第16課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：食藥誤用）",
-            "語序顛倒嘅非標準句式（例項：醫生錯置）",
-            "混雜生硬詞彙之不規範語句（例項：睇醫生未適配）"
+            "我已經將所有資料核對好並寄出咗。 (I have verified and dispatched all data.)",
+            "資料畀我寄出咗。",
+            "資料寄出咗佢。",
+            "唔知邊個寄咗資料。"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「將」字處置句在商務交流中展現出最高之主動性與嚴謹規範性。"
         }
       ],
       "passThreshold": 0.8
