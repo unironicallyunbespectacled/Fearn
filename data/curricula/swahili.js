@@ -13605,53 +13605,62 @@
     "subject": "swahili",
     "unit": 33,
     "lessonNumber": 1,
-    "title": "Diplomasia ya Kimataifa na Mikataba ya Nchi (Diplomacy) (Part 1)",
+    "title": "Falsafa ya Utu, Ubuntu na Maadili ya Kijamii (African Philosophy of Utu)",
     "level": "C2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 33.1) with authentic precision.",
+    "objective": "Kuelewa na kutumia msamiati wa falsafa ya Kiafrika ya Utu (Ubuntu), mshikamano wa kijamii, uwajibikaji wa kimaadili, heshima ya utu wa binadamu, na tofauti kati ya mtazamo wa kijamii wa Kiafrika na ubinafsi wa kibepari.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Falsafa ya Utu, Ubuntu na Maadili ya Jamii (African Humanism & Ethics of Utu):\n\nKatika kiwango cha C2, mwanafunzi anapaswa kumudu msamiati wa kifalsafa wa maadili na mtazamo wa ulimwengu wa Kiafrika (*African Worldview*):\n\n1. **Dhana Kuu ya Utu na Ubuntu**:\n   - **Utu (Human Dignity & Humaneness)**: Sifa kuu inayomfanya binadamu awe na heshima, wema, ukarimu, na huruma.\n   - **Ubuntu (*Umuntu ngumuntu ngabantu*)**: 'Mtu ni mtu kwa sababu ya watu wengine'. Falsafa inayosisitiza kuwa uhai na thamani ya mtu binafsi vinategemea uhusiano wake na jamii nzima.\n\n2. **Tofauti ya Mtazamo wa Kifikra (Philosophical Paradigms)**:\n   - **Mshikamano wa Kijamii (Communal Solidarity)**: Jamii inashirikiana katika furaha, huzuni, uzalishaji mali, na ulinzi wa wanyonge.\n   - **Kupinga Ubinafsi (Anti-Individualism)**: Kukataa fikra za kibepari zinazomweka mtu binafsi na faida ya kifedha juu ya utu na ustawi wa binadamu.\n\n3. **Hekima za Baraza na Usuluhishi wa Kiasili**:\n   - Wazee wa mabaraza ya kiasili walitumia falsafa ya utu kusuluhisha migogoro bila kutafuta mshindi na mshindwa bali kurejesha upendo na amani.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 33.1.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 33."
+          "target": "Falsafa ya Utu inatufundisha kuwa utu wa mwanadamu unakamilika pale anapowajibika kwa ustawi, heshima na utu wa jamii inayomzunguka.",
+          "reading": "Fa-lsa-fa ya U-tu ina-tu-fu-ndi-sha ku-wa u-tu wa mwa-na-da-mu una-ka-mi-li-ka pa-le ana-po-wa-ji-bi-ka kwa usta-wi, he-shi-ma na u-tu wa ja-mi-i ina-yo-mzu-ngu-ka. [fɑˈlsɑfɑ jɑ ˈutu inɑtufundiˈʃɑ ˈkuwɑ ˈutu wɑ mwɑnɑˈdɑmu unɑkɑmiˈlikɑ ˈpɑlɛ ɑnɑpɔwɑʤiˈbikɑ kwɑ uˈstɑwi hɛˈʃimɑ nɑ ˈutu wɑ ʤɑˈmiː inɑjɔmzuˈŋɡukɑ] (fahl-SAH-fah yah OO-too ee-nah-too-foon-DEE-shah KOO-wah OO-too wah mwah-nah-DAH-moo oo-nah-kah-mee-LEE-kah PAH-lay ah-nah-poh-wah-jee-BEE-kah kwah oo-STAH-wee, hay-SHEE-mah nah OO-too wah jah-MEE-ee ee-nah-yohm-zoon-GOO-kah)",
+          "translation": "The Philosophy of Utu teaches that human dignity achieves fulfillment when an individual assumes active responsibility for the welfare, honor, and humanity of the surrounding community."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 33-1).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Misingi ya hekima ya Kiafrika inatilia mkazo mshikamano wa kijamii na huruma badala ya ubinafsi unaotawala mifumo ya kisasa ya kibepari.",
+          "reading": "Mi-si-ngi ya he-ki-ma ya Kia-fri-ka ina-ti-lia mka-zo mshi-ka-ma-no wa ki-ja-mi-i na hu-ru-ma ba-da-la ya ubi-na-fsi una-o-ta-wa-la mi-fu-mo ya ki-sa-sa ya ki-be-pa-ri. [miˈsiŋɡi jɑ hɛˈkimɑ jɑ kiɑˈfrikɑ inɑtiˈliɑ ˈmkɑzɔ mʃikɑˈmɑnɔ wɑ kiʤɑˈmiː nɑ huˈrumɑ bɑˈdɑlɑ jɑ ubinɑˈfsi unɑɔtɑˈwɑlɑ miˈfumɔ jɑ kiˈsɑsɑ jɑ kibɛˈpɑri] (mee-SEEN-gee yah hay-KEE-mah yah kee-ah-FREE-kah ee-nah-tee-LEE-ah M-KAH-zoh m-shee-kah-MAH-noh wah kee-jah-MEE-ee nah hoo-ROO-mah bah-DAH-lah yah oo-bee-NAH-fsee oo-nah-oh-tah-WAH-lah mee-FOO-moh yah kee-SAH-sah yah kee-bay-PAH-ree)",
+          "translation": "Foundations of African wisdom accentuate communal solidarity and compassion rather than the ruthless individualism dominating contemporary capitalist structures."
+        },
+        {
+          "target": "Katika jamii za asili za Waswahili, wazee wa baraza walitumia falsafa ya utu kusuluhisha migogoro ya kifamilia bila kuharibu mshikamano wa ukoo.",
+          "reading": "Ka-ti-ka ja-mi-i za a-si-li za Wa-swa-hi-li, wa-ze-e wa ba-ra-za wa-li-tu-mia fa-lsa-fa ya u-tu ku-su-lu-hi-sha mi-go-go-ro ya ki-fa-mi-lia bi-la ku-ha-ri-bu mshi-ka-ma-no wa u-ko-o. [ˈkɑtikɑ ʤɑˈmiː zɑ ɑˈsili zɑ wɑswɑˈhili wɑˈzɛː wɑ bɑˈrɑzɑ wɑlituˈmiɑ fɑˈlsɑfɑ jɑ ˈutu kusuluˈhiʃɑ miɡɔˈɡɔrɔ jɑ kifɑˈmiliɑ ˈbilɑ kuhɑˈribu mʃikɑˈmɑnɔ wɑ uˈkɔː] (KAH-tee-kah jah-MEE-ee zah ah-SEE-lee zah wah-swah-HEE-lee, wah-ZAY-ay wah bah-RAH-zah wah-lee-TOO-mee-ah fahl-SAH-fah yah OO-too koo-soo-loo-HEE-shah mee-goh-GOH-roh yah kee-fah-MEE-lee-ah BEE-lah koo-hah-REE-boo m-shee-kah-MAH-noh wah oo-KOH-oh)",
+          "translation": "In indigenous Swahili communities, council elders utilized the humanistic philosophy of utu to mediate domestic disputes without shattering clan cohesion."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Falsafa ya Utu: Utu (humanity & dignity), Ubuntu (mtu ni watu), Mshikamano wa kijamii (communal solidarity), Kupinga ubinafsi!"
+      ],
+      "culturalNotes": [
+        "Dhana ya 'Utu' ndiyo msingi mkuu wa lugha na utamaduni wa Waswahili, ambapo mtu asiye na heshima au huruma kwa wenzake huambiwa 'hana utu'."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Mahakama\":",
+          "prompt": "Falsafa ya asili ya Kiafrika inayofundisha kuwa mtu anakuwa mtu kamili kupitia uhusiano na ushirikiano wake na watu wengine inaitwaje?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 33.1.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Jaji»",
-            "Mpangilio usio sahihi wa viambishi katika «Wakili»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Haki»"
+            "Falsafa ya Utu / Ubuntu (African humanism - Correct philosophical concept)",
+            "Uchumi wa masoko ya hisa",
+            "Mkataba wa mkopo wa benki",
+            "Mfumo wa ushuru wa forodha"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Falsafa ya Utu» au «Ubuntu» ndiyo nguzo kuu ya maadili ya Kiafrika inayomweka binadamu na mshikamano wa jamii mbele."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Mahakama\":",
+          "prompt": "Katika utamaduni wa Kiswahili, maneno gani hutumiwa kueleza tabia ya mtu anayejali wenzake na kuheshimu utu wa kila binadamu?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 33.1.",
-            "Mpangilio usio sahihi wa viambishi katika «Wakili»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Haki»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Jaji»"
+            "Mwenye utu na ukarimu (Person of high moral dignity and compassion)",
+            "Mwenye ubadhirifu na choyo",
+            "Mwenye kiburi na majivuno",
+            "Mwenye kukaidi sheria"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Mwenye utu na ukarimu» ndiye anayeakisi misingi ya juu ya maadili ya jamii ya Waswahili."
         }
       ]
     },
@@ -13659,17 +13668,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Mahakama\": Which sentence is completely correct?",
+          "prompt": "Chagua maelezo yaliyo sahihi kuhusu falsafa ya Utu na Ubuntu:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 33.1.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Haki»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Jaji»",
-            "Mpangilio usio sahihi wa viambishi katika «Wakili»"
+            "Falsafa ya Utu inasisitiza kuwa heshima, huruma na thamani ya mwanadamu inakamilika kupitia mshikamano wa kijamii na uwajibikaji kwa wengine badala ya ubinafsi.",
+            "Falsafa ya Utu inahimiza watu wote kuwa na choyo na kuishi peke yao msituni.",
+            "Ubuntu ni aina ya chombo cha anga za juu kisichotumia mafuta.",
+            "Utu unamaanisha kuuza vitu vya dukani kwa bei ghali pekee."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Utu na Ubuntu vinasisitiza heshima, huruma, mshikamano wa jamii na uwajibikaji kwa wengine."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u33-l2": {
@@ -13677,53 +13687,62 @@
     "subject": "swahili",
     "unit": 33,
     "lessonNumber": 2,
-    "title": "Diplomasia ya Kimataifa na Mikataba ya Nchi (Diplomacy) (Part 2)",
+    "title": "Falsafa ya Ujamaa na Kujitegemea: Fikra za Mwalimu Julius Nyerere (Ujamaa Philosophy)",
     "level": "C2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 33.2) with authentic precision.",
+    "objective": "Kuelewa na kutumia msamiati wa falsafa ya Ujamaa na Kujitegemea iliyoasisiwa na Mwalimu Julius Nyerere (Azimio la Arusha, usawa wa binadamu, kazi kama kipimo cha utu, miiko ya uongozi) na mchango wake wa kutafsiri kazi za Shakespeare kwa Kiswahili.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Falsafa ya Ujamaa na Kujitegemea: Fikra za Mwalimu Nyerere (Ujamaa & Self-Reliance):\n\nMwalimu Julius Kambarage Nyerere (1922–1999) alikuwa mwanafalsafa mkuu wa siasa na ukombozi wa Kiafrika:\n\n1. **Misingi ya Falsafa ya Ujamaa (Tenets of Ujamaa)**:\n   - **Ujamaa (African Socialism)**: Falsafa ya kisiasa na kijamii inayojengwa juu ya misingi ya asili ya Kiafrika ya familia moja, usawa, na kushirikiana.\n   - **Azimio la Arusha (1967)**: Hati ya kihistoria iliyotangaza rasmi siasa ya Ujamaa na Kujitegemea, kutaifisha njia kuu za uchumi, na kuweka miiko ya uongozi.\n   - **Kazi ni Kipimo cha Utu (Work as the Measure of Dignity)**: Kanuni inayotaka kila mtu kufanya kazi na kupiga vita unyonyaji (*ubepari*) na uvivu (*kula vya bure*).\n\n2. **Kujitegemea (Self-Reliance)**:\n   - Nchi inapaswa kutegemea nguvu kazi ya wananchi wake na ardhi yenye rutuba badala ya kutegemea misaada na mikopo yenye masharti magumu kutoka nchi za kigeni.\n\n3. **Mwalimu Nyerere kama Mfasiri na Mwanaisimu**:\n   - Alitafsiri tamthilia za Kiingereza za William Shakespeare kwa Kiswahili chenye usanifu mkubwa wa kiarudhi na kishairi: *Juliasi Kaizari* (*Julius Caesar*) na *Mabepari wa Venisi* (*The Merchant of Venice*).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 33.2.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 33."
+          "target": "Mwalimu Julius Nyerere alifafanua Ujamaa kama mtazamo wa kifikra unaomweka mwanadamu katikati ya maendeleo yote na kupiga vita unyonyaji wa kitabaka.",
+          "reading": "Mwa-li-mu Ju-liu-s Nye-re-re ali-fa-fa-nua Uja-ma-a ka-ma mta-za-mo wa ki-fi-kra una-o-mwe-ka mwa-na-da-mu ka-ti-ka-ti ya ma-e-nde-le-o yo-te na ku-pi-ga vi-ta unyo-nya-ji wa ki-ta-ba-ka. [mwɑˈlimu ˈʤulius ɲɛˈrɛrɛ ɑlifɑfɑˈnuɑ uʤɑˈmɑː ˈkɑmɑ mtɑˈzɑmɔ wɑ kiˈfikrɑ unɑɔmwɛˈkɑ mwɑnɑˈdɑmu kɑtikɑˈti jɑ mɑɛndɛˈlɛɔ ˈjɔtɛ nɑ kuˈpiɡɑ ˈvitɑ uɲɔˈɲɑʤi wɑ kitɑˈbɑkɑ] (mwah-LEE-moo JOO-lee-oos nyeh-RAY-ray ah-lee-fah-fah-NOO-ah oo-jah-MAH-ah KAH-mah m-tah-ZAH-moh wah kee-FEEK-rah oo-nah-ohm-WAY-kah mwah-nah-DAH-moo kah-tee-KAH-tee yah mah-ayn-day-LAY-oh YOH-tay nah koo-PEE-gah VEE-tah oo-nyoh-NYAH-jee wah kee-tah-BAH-kah)",
+          "translation": "Mwalimu Julius Nyerere defined Ujamaa as an intellectual worldview placing the human being at the center of all development while aggressively combating class exploitation."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 33-2).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Azimio la Arusha la mwaka 1967 liliweka miiko mikali ya uongozi ili kuhakikisha kuwa viongozi wa umma hawajihusishi na ubepari wala ukabaila.",
+          "reading": "Azi-mi-o la Aru-sha la mwa-ka 1967 lili-we-ka mi-i-ko mi-ka-li ya uo-ngo-zi i-li ku-ha-ki-ki-sha ku-wa vio-ngo-zi wa u-mma ha-wa-ji-hu-si-shi na ube-pa-ri wa-la uka-ba-i-la. [ɑziˈmiɔ lɑ ɑˈruʃɑ lɑ ˈmwɑkɑ ˈɛlfu ˈmɔʤɑ ˈmiɑ ˈtisɑ ˈsitini nɑ ˈsɑbɑ liliˈwɛkɑ miˈikɔ miˈkɑli jɑ uɔˈŋɡɔzi ˈili kuhɑkiˈkiʃɑ ˈkuwɑ viɔˈŋɡɔzi wɑ ˈummɑ hɑwɑʤihuˈsiʃi nɑ ubɛˈpɑri ˈwɑlɑ ukɑbɑˈilɑ] (ah-zee-mee-OH lah ah-ROO-shah lah MWAH-kah el-foo MOH-jah MEE-ah TEE-sah see-TEE-nee nah SAH-bah lee-lee-WAY-kah mee-EE-koh mee-KAH-lee yah oo-ohn-GOH-zee EE-lee koo-hah-kee-KEE-shah KOO-wah vee-ohn-GOH-zee wah OOM-mah hah-wah-jee-hoo-SEE-shee nah oo-bay-PAH-ree WAH-lah oo-kah-bah-EE-lah)",
+          "translation": "The 1967 Arusha Declaration instituted stringent leadership ethical codes guaranteeing that public officials refrained from capitalist accumulation and feudal rentierism."
+        },
+        {
+          "target": "Mwalimu Nyerere alithibitisha uwezo mkubwa wa lugha ya Kiswahili kifalsafa kwa kutafsiri tamthilia za Kiingereza za Shakespeare kwa ustadi mkubwa.",
+          "reading": "Mwa-li-mu Nye-re-re ali-thi-bi-ti-sha uwe-zo mku-u wa lu-gha ya Ki-swa-hi-li ki-fa-lsa-fa kwa ku-ta-fsi-ri ta-mthi-lia za Kii-nge-re-za za Sha-ke-spe-a-re kwa usta-di mku-u. [mwɑˈlimu ɲɛˈrɛrɛ ɑliθibiˈtiʃɑ uˈwɛzɔ ˈmkuː wɑ ˈluɣɑ jɑ kiswɑˈhili kifɑˈlsɑfɑ kwɑ kutɑˈfsiri tɑmˈθiliɑ zɑ kiiŋɡɛˈrɛzɑ zɑ ʃɛkˈspir kwɑ uˈstɑdi ˈmkuː] (mwah-LEE-moo nyeh-RAY-ray ah-lee-thee-bee-TEE-shah oo-WAY-zoh M-KOO-oo wah LOO-gah yah kee-swah-HEE-lee kee-fahl-SAH-fah kwah koo-tahf-SEE-ree tahm-THEE-lee-ah zah kee-een-gay-RAY-zah zah shayk-SPEER kwah oo-STAH-dee M-KOO-oo)",
+          "translation": "Mwalimu Nyerere substantiated the profound philosophical capacity of Swahili by translating Shakespeare's English classical plays with consummate literary skill."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Fikra za Nyerere: Ujamaa & Kujitegemea (Azimio la Arusha 1967), Kazi ni kipimo cha utu, Miiko ya uongozi, Tafsiri za Shakespeare!"
+      ],
+      "culturalNotes": [
+        "Mwalimu Nyerere anajulikana kama 'Baba wa Taifa' nchini Tanzania na fikra zake za falsafa ya elimu ya kujitegemea na siasa ya Ujamaa zimechambuliwa katika vyuo vikuu kote duniani."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Jaji\":",
+          "prompt": "Hati ya kihistoria ya mwaka 1967 iliyotangaza rasmi misingi ya falsafa ya Ujamaa na Kujitegemea na miiko ya uongozi nchini Tanzania inaitwaje?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 33.2.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Wakili»",
-            "Mpangilio usio sahihi wa viambishi katika «Haki»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Usawa»"
+            "Azimio la Arusha (The Arusha Declaration of 1967 - Correct historical charter)",
+            "Mkataba wa biashara ya kimataifa",
+            "Sheria ya ushuru wa bidhaa",
+            "Leseni ya uvuvi wa baharini"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Azimio la Arusha» (1967) ndiyo hati kuu ya kifalsafa iliyoongoza sera ya Ujamaa na Kujitegemea."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Jaji\":",
+          "prompt": "Tamthilia gani za Kiingereza za William Shakespeare zilizotafsiriwa kwa Kiswahili na Mwalimu Julius Nyerere?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 33.2.",
-            "Mpangilio usio sahihi wa viambishi katika «Haki»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Usawa»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Wakili»"
+            "Juliasi Kaizari (Julius Caesar) na Mabepari wa Venisi (The Merchant of Venice)",
+            "Kamusi Kuu na Mwongozo wa Sarufi",
+            "Hadithi za Sungura na Fisi",
+            "Majarida ya Biashara ya Kimataifa"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Nyerere alitafsiri «Juliasi Kaizari» na «Mabepari wa Venisi» kwa ufasaha wa hali ya juu wa lugha ya Kiswahili."
         }
       ]
     },
@@ -13731,17 +13750,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Jaji\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha iliyo sahihi ya misingi ya falsafa ya Ujamaa na mchango wa Mwalimu Nyerere:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 33.2.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Usawa»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Wakili»",
-            "Mpangilio usio sahihi wa viambishi katika «Haki»"
+            "Ujamaa na Kujitegemea (Azimio la Arusha 1967), usawa wa binadamu, kazi ni kipimo cha utu, miiko ya uongozi, na tafsiri za kifasihi za Juliasi Kaizari na Mabepari wa Venisi.",
+            "Nyerere alikataza watu wote kufanya kazi na kuamuru wakae bila shughuli yoyote.",
+            "Azimio la Arusha lilihusu kuagiza magari ya kifahari kutoka Ulaya pekee.",
+            "Shakespeare alikuwa mwanafunzi wa shule ya msingi Butiama."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Misingi ya Ujamaa na Nyerere: Azimio la Arusha 1967, usawa, kazi ni kipimo cha utu, miiko ya uongozi, na tafsiri za Shakespeare."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u33-l3": {
@@ -13749,53 +13769,62 @@
     "subject": "swahili",
     "unit": 33,
     "lessonNumber": 3,
-    "title": "Diplomasia ya Kimataifa na Mikataba ya Nchi (Diplomacy) (Part 3)",
+    "title": "Methali Ngumu za Kiswahili, Misemo Iliyofichika na Fumbo za Pwani (Cryptic Coastal Proverbs)",
     "level": "C2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 33.3) with authentic precision.",
+    "objective": "Kuelewa na kutumia methali ngumu na za kina za Kiswahili (methali za pwani), mafumbo ya hekima, na misemo iliyofichika inayoeleza falsafa ya maisha, subira, hadhari, na mahusiano ya kibinadamu.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Methali Ngumu, Mafumbo ya Pwani na Hekima Zilizofichika (Cryptic Swahili Proverbs & Coastal Axioms):\n\nMethali za Kiswahili ni kilele cha hekima na usanifu wa lugha. Katika kiwango cha C2, mwanafunzi anapaswa kuelewa maana ya ndani (*esoteric meaning*) ya methali nzito:\n\n1. **Methali za Subira, Juhudi na Matumaini**:\n   - *Mtaka cha mvunguni sharti ainame*: Mafanikio ya kweli yanahitaji unyenyekevu, jasho na uvumilivu.\n   - *Kawia ufike*: Bora kuchelewa lakini ufikie lengo salama kuliko kuharakisha na kuharibika njiani.\n   - *Mvumilivu hula mbivu*: Subira huzaa matunda bora.\n\n2. **Methali za Hadhari, Maadili na Tabia**:\n   - *Nazi mbovu harabu ya nzima*: Tabia mbaya ya mtu mmoja inaweza kuharibu kundi au jamii nzima.\n   - *Mpiga ngumi ukutani huumiza mkonowe*: Kupambana na ukweli usiopingika au mfumo usioshindika huleta maumivu kwako mwenyewe.\n   - *Konzi ya maji haifumbiki*: Jambo lililo wazi na dhahiri haliwezi kufichwa wala kukanushwa.\n   - *Mchimba kisima humwingia mwenyewe*: Mtu anayewapangia wenzake mitego au hila mara nyingi hunaswa na hila zake mwenyewe.\n\n3. **Mafumbo na Sitiari za Jamii ya Pwani**:\n   - *Sikio halipiti kichwa*: Mtoto au mwanafunzi hawezi kuwa juu ya wazazi au walimu wake kimaadili na kiheshima.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 33.3.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 33."
+          "target": "Methali ya kwamba 'mtaka cha mvunguni sharti ainame' inatufundisha kuwa mafanikio ya kweli na maarifa ya kina yanahitaji subira, jasho na unyenyekevu.",
+          "reading": "Me-tha-li ya kwa-mba 'mta-ka cha mvu-ngu-ni sha-rti ai-na-me' ina-tu-fu-ndi-sha ku-wa ma-fa-ni-kio ya kwe-li na ma-a-ri-fa ya ki-na ya-na-hi-ji sub-i-ra, ja-sho na unye-nye-ke-vu. [mɛˈθɑli jɑ ˈkwɑmbɑ mtɑˈkɑ tʃɑ mvuˈŋɡuni ˈʃɑrti ɑiˈnɑmɛ inɑtufundiˈʃɑ ˈkuwɑ mɑfɑniˈkiɔ jɑ ˈkwɛli nɑ mɑɑˈrifɑ jɑ ˈkinɑ jɑnɑhiˈti suˈbirɑ ˈʤɑʃɔ nɑ uɲɛɲɛˈkɛvu] (may-THAH-lee yah KWAHM-bah m-TAH-kah chah m-voon-GOO-nee SHAHR-tee ah-ee-NAH-may ee-nah-too-foon-DEE-shah KOO-wah mah-fah-nee-KEE-oh yah KWAY-lee nah mah-ah-REE-fah yah KEE-nah yah-nah-HEE-tee SOOB-ee-rah, JAH-shoh nah oo-nyay-nyay-KAY-voo)",
+          "translation": "The axiom 'one who seeks that which is beneath the bed must bend down' instructs us that authentic accomplishment and profound wisdom demand patience, sweat, and humility."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 33-3).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Wazee wa pwani walitumia methali 'nazi mbovu harabu ya nzima' kuonya kuhusu athari mbaya za kulea tabia mbovu miongoni mwa vijana wa jamii.",
+          "reading": "Wa-ze-e wa pwa-ni wa-li-tu-mia me-tha-li 'na-zi mbo-vu ha-ra-bu ya nzi-ma' kuo-nya ku-hu-su a-tha-ri mbo-ya za ku-le-a ta-bia mbo-vu mio-ngo-ni mwa vi-ja-na wa ja-mi-i. [wɑˈzɛː wɑ ˈpwɑni wɑlituˈmiɑ mɛˈθɑli ˈnɑzi ˈmbɔvu hɑˈrɑbu jɑ ˈnzimɑ kuˈɔɲɑ kuˈhusu ɑˈθɑri ˈmbɔjɑ zɑ kuˈlɛɑ tɑˈbiɑ ˈmbɔvu miɔˈŋɡɔni mwɑ viˈʤɑnɑ wɑ ʤɑˈmiː] (wah-ZAY-ay wah PWAH-nee wah-lee-TOO-mee-ah may-THAH-lee NAH-zee M-BOH-voo hah-RAH-boo yah N-ZEE-mah koo-OHN-yah koo-HOO-soo ah-THAH-ree M-boh-yah zah koo-LAY-ah tah-BEE-ah M-BOH-voo mee-ohn-GOH-nee mwah vee-JAH-nah wah jah-MEE-ee)",
+          "translation": "Coastal elders deployed the proverb 'one rotten coconut ruins the whole basket' to warn against the contagion of harboring decadent conduct among community youth."
+        },
+        {
+          "target": "Fumbo na methali za Kiswahili zinaficha hekima ya karne nyingi ambayo inamtaka msikilizaji kufikiri kwa kina badala ya kumeza maneno kijuujuu.",
+          "reading": "Fu-mbo na me-tha-li za Ki-swa-hi-li zi-na-fi-cha he-ki-ma ya ka-rne nzi-ngi a-mba-yo ina-mta-ka msi-ki-li-za-ji ku-fi-ki-ri kwa ki-na ba-da-la ya ku-me-za ma-ne-no ki-juu-juu. [ˈfumbɔ nɑ mɛˈθɑli zɑ kiswɑˈhili zinɑˈfitʃɑ hɛˈkimɑ jɑ ˈkɑrnɛ ˈnziŋɡi ɑˈmbɑjɔ inɑˈmtɑkɑ msikiliˈzɑʤi kufiˈkiri kwɑ ˈkinɑ bɑˈdɑlɑ jɑ kuˈmɛzɑ mɑˈnɛnɔ kiʤuːˈʤuː] (FOOM-boh nah may-THAH-lee zah kee-swah-HEE-lee zee-nah-FEE-chah hay-KEE-mah yah KAHR-nay N-ZEEN-gee ahm-BAH-yoh ee-nahm-TAH-kah m-see-kee-lee-ZAH-jee koo-fee-KEE-ree kwah KEE-nah bah-DAH-lah yah koo-MAY-zah mah-NAY-noh kee-joo-oo-JOO-oo)",
+          "translation": "Swahili aphorisms and cryptic riddles conceal centuries of deep wisdom prompting the listener to reflect critically rather than swallow assertions superficially."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Methali Ngumu: Mtaka cha mvunguni (juhudi & subira), Nazi mbovu (uharibifu wa tabia), Konzi ya maji (ukweli usiofichika), Kawia ufike!"
+      ],
+      "culturalNotes": [
+        "Kwenye visiwa vya Lamu, Zanzibar na Mombasa, methali hutumika katika mazungumzo ya kila siku kama alama ya ufasaha, hekima na heshima ya msemaji."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Wakili\":",
+          "prompt": "Methali ya Kiswahili inayomaanisha kuwa ukweli ulio wazi kabisa hauwezi kufichika kwa hila zozote ni ipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 33.3.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Haki»",
-            "Mpangilio usio sahihi wa viambishi katika «Usawa»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Shahidi»"
+            "Konzi ya maji haifumbiki (Water in an open palm cannot be hidden - Correct cryptic axiom)",
+            "Chakula cha jioni kimeiva",
+            "Mvua inanyesha sana",
+            "Gari limenunuliwa leo"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Konzi ya maji haifumbiki» ina maana kuwa ukweli ulio dhahiri hauwezi kufichwa wala kubadilishwa."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Wakili\":",
+          "prompt": "Methali 'Mchimba kisima humwingia mwenyewe' inatoa fundisho gani kwa jamii?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 33.3.",
-            "Mpangilio usio sahihi wa viambishi katika «Usawa»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Shahidi»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Haki»"
+            "Mtu anayewapangia wenzake mitego na hila huishia kuangamia yeye mwenyewe (One who plots pitfalls for others falls into them himself)",
+            "Kila mchimba visima ni mhandisi wa maji",
+            "Kunywa maji mengi ni afya nzuri",
+            "Mchanga wa pwani unafaa kwa ujenzi"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Mchimba kisima humwingia mwenyewe» huonya kuwa hila au mitego unayomwekea mwenzako itakurudia wewe mwenyewe."
         }
       ]
     },
@@ -13803,17 +13832,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Wakili\": Which sentence is completely correct?",
+          "prompt": "Chagua maelezo yaliyo sahihi kuhusu methali na mafumbo ya lugha ya Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 33.3.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Shahidi»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Haki»",
-            "Mpangilio usio sahihi wa viambishi katika «Usawa»"
+            "Methali za Kiswahili (kama 'Mtaka cha mvunguni sharti ainame', 'Nazi mbovu harabu ya nzima', 'Konzi ya maji haifumbiki') zinabeba falsafa nzito ya maadili, hadhari, na hekima za asili za jamii ya Waswahili.",
+            "Methali zote za Kiswahili zilibuniwa na wageni kutoka Ulaya pekee.",
+            "Hakuna methali yoyote ya Kiswahili inayozungumzia subira wala kazi.",
+            "Konzi ya maji inamaanisha ndoo ya kuoshea vyombo."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Methali za Kiswahili hubeba falsafa nzito ya maadili, subira, hadhari, na hekima za asili."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u33-l4": {
@@ -13821,53 +13851,62 @@
     "subject": "swahili",
     "unit": 33,
     "lessonNumber": 4,
-    "title": "Diplomasia ya Kimataifa na Mikataba ya Nchi (Diplomacy) (Part 4)",
+    "title": "Fikra Tunduizi, Mantiki na Mijadala ya Kisomi (Critical Thinking & Logic)",
     "level": "C2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 33.4) with authentic precision.",
+    "objective": "Kuelewa na kutumia msamiati wa fikra tunduizi (critical thinking), uchambuzi wa kimantiki wa hoja (logical reasoning), upimaji wa ushahidi wa kisayansi (empirical verification), na utambuzi wa dosari za kimantiki (fallacies) katika mijadala ya kitaaluma.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Fikra Tunduizi, Mantiki ya Kitaaluma na Mijadala ya Kisomi (Critical Thinking & Formal Discourse):\n\nKiwango cha juu cha C2 kinahitaji uwezo wa kujenga na kubomoa hoja za kitaaluma kwa mantiki madhubuti ya Kiswahili:\n\n1. **Nguzo za Fikra Tunduizi (Pillars of Critical Thinking)**:\n   - **Fikra Tunduizi (Critical Thinking)**: Uwezo wa kupima taarifa, kuchunguza vyanzo, na kufikia hitimisho bila upendeleo au ushawishi wa propaganda.\n   - **Hoja Yenye Mashiko (Valid / Sound Argument)**: Hoja inayojengwa juu ya ukweli uliothibitika na kufuata kanuni za kimantiki.\n   - **Dosari ya Kimantiki (Logical Fallacy)**: Hitilafu katika muundo wa hoja (k.m. hoja ya kushambulia mtu binafsi badala ya wazo - *ad hominem*).\n\n2. **Msamiati wa Midahalo ya Kisomi (Academic Symposia & Dialectics)**:\n   - **Nadharia na Uthibitisho wa Kisayansi (Theories & Empirical Verification)**.\n   - **Kukanusha kwa Hoja (Refutation / Counter-argument)**.\n   - **Hitimisho la Kina (Synthesized Conclusion)**.\n   - **Upembuzi Yakinifu (Objective Evaluation / Critical Appraisal)**.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 33.4.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 33."
+          "target": "Fikra tunduizi inamwezesha msomi wa Kiswahili kutathmini hoja za kisiasa na kiuchumi bila kuathiriwa na upendeleo wa kiitikadi wala propaganda.",
+          "reading": "Fi-kra tu-ndui-zi ina-mwe-ze-sha mso-mi wa Ki-swa-hi-li ku-ta-thmi-ni ho-ja za ki-sia-sa na kiu-chu-mi bi-la kua-thi-ri-wa na upe-nde-le-o wa kii-ti-ka-di wa-la pro-pa-ga-nda. [ˈfikrɑ tunduiˈzi inɑmwɛzɛˈʃɑ ˈmsɔmi wɑ kiswɑˈhili kutɑˈθmini ˈhɔʤɑ zɑ kisiˈɑsɑ nɑ kiutʃuˈmi ˈbilɑ kuɑθiˈriwɑ nɑ upɛndɛˈlɛɔ wɑ kiitikɑˈdi ˈwɑlɑ prɔpɑˈɡɑndɑ] (FEEK-rah toon-doo-EE-zee ee-nah-mway-ZAY-shah M-SOH-mee wah kee-swah-HEE-lee koo-tahth-MEE-nee HOH-jah zah kee-see-AH-sah nah kee-oo-CHOO-mee BEE-lah koo-ah-thee-REE-wah nah oo-payn-day-LAY-oh wah kee-ee-tee-KAH-dee WAH-lah proh-pah-GAHN-dah)",
+          "translation": "Critical thinking empowers a Swahili scholar to evaluate political and macroeconomic propositions unswayed by ideological bias or partisan propaganda."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 33-4).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Katika mdahalo wa kitaaluma, mzungumzaji alijenga hoja yenye mashiko kwa kulinganisha data za takwimu na misingi ya kisayansi badala ya hisia binafsi.",
+          "reading": "Ka-ti-ka mda-ha-lo wa ki-ta-a-lu-ma, mzu-ngu-mza-ji ali-je-nga ho-ja ye-nye ma-shi-ko kwa ku-li-nga-ni-sha da-ta za ta-kwi-mu na mi-si-ngi ya ki-sa-ya-nsi ba-da-la ya hi-sia bi-na-fsi. [ˈkɑtikɑ mdɑˈhɑlɔ wɑ kitɑɑˈlumɑ mzuŋɡuˈmzɑʤi ɑliˈʤɛŋɡɑ ˈhɔʤɑ ˈjɛɲɛ mɑˈʃikɔ kwɑ kuliŋɡɑˈniʃɑ ˈdɑtɑ zɑ tɑˈkwimu nɑ miˈsiŋɡi jɑ kisɑˈjɑnsi bɑˈdɑlɑ jɑ hiˈsiɑ binɑˈfsi] (KAH-tee-kah m-dah-HAH-loh wah kee-tah-ah-LOO-mah, m-zoon-goom-ZAH-jee ah-lee-JAYN-gah HOH-jah YAY-nyay mah-SHEE-koh kwah koo-leen-gah-NEE-shah DAH-tah zah tah-KWEE-moo nah mee-SEEN-gee yah kee-sah-YAHN-see bah-DAH-lah yah hee-SEE-ah bee-NAH-fsee)",
+          "translation": "During the academic colloquium, the debater constructed a rigorous argument by synthesizing statistical empirical data with scientific tenets rather than subjective bias."
+        },
+        {
+          "target": "Kuhakiki uhalali wa nadharia za kijamii kunahitaji usomaji mpana na uwezo wa kutambua dosari za kimantiki katika maandishi ya kitafiti.",
+          "reading": "Ku-ha-ki-ki uha-la-li wa na-dha-ria za ki-ja-mi-i ku-na-hi-ti-ji uso-ma-ji mpa-na na uwe-zo wa ku-ta-mbua do-sa-ri za ki-ma-nti-ki ka-ti-ka ma-a-ndi-shi ya ki-ta-fi-ti. [kuhɑˈkiki uhɑˈlɑli wɑ nɑðɑˈriɑ zɑ kiʤɑˈmiː kunɑhiˈtiʤi usɔˈmɑʤi ˈmpɑnɑ nɑ uˈwɛzɔ wɑ kutɑˈmbuɑ dɔˈsɑri zɑ kimɑˈntiki ˈkɑtikɑ mɑɑˈndiʃi jɑ kitɑˈfiti] (koo-hah-KEE-kee oo-hah-LAH-lee wah nah-thah-REE-ah zah kee-jah-MEE-ee koo-nah-hee-TEE-jee oo-soh-MAH-jee M-PAH-nah nah oo-WAY-zoh wah koo-tahm-BOO-ah doh-SAH-ree zah kee-mahn-TEE-kee KAH-tee-kah mah-ahn-DEE-shee yah kee-tah-FEE-tee)",
+          "translation": "Interrogating the validity of sociological paradigms necessitates expansive erudition and the acute aptitude to detect logical fallacies within research manuscripts."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Fikra Tunduizi & Mantiki: Fikra tunduizi (critical thinking), Hoja yenye mashiko (sound argument), Dosari ya kimantiki (fallacy), Upembuzi yakinifu!"
+      ],
+      "culturalNotes": [
+        "Vyuo vikuu vya Afrika Mashariki (kama Chuo Kikuu cha Dar es Salaam na Chuo Kikuu cha Nairobi) huendesha midahalo ya kitaifa ya kisayansi na kijamii kwa Kiswahili fasaha."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Haki\":",
+          "prompt": "Uwezo wa kiakili wa kuchambua taarifa kwa kina, kupima ushahidi, na kufikia uamuzi bila kuathiriwa na ushabiki au hisia unaitwaje?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 33.4.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Usawa»",
-            "Mpangilio usio sahihi wa viambishi katika «Shahidi»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Uamuzi»"
+            "Fikra tunduizi / Fikra pevu (Critical thinking - Correct analytical faculty)",
+            "Urasimu wa ofisi",
+            "Mkataba wa bima",
+            "Leseni ya biashara"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Fikra tunduizi» ndiyo stadi ya kuchunguza na kupima hoja kwa kina na kwa ukweli."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Haki\":",
+          "prompt": "Hitilafu au kasoro katika ujenzi wa hoja inayofanya hitimisho liwe batili au lisilo na mashiko inaitwaje katika mantiki?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 33.4.",
-            "Mpangilio usio sahihi wa viambishi katika «Shahidi»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Uamuzi»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Usawa»"
+            "Dosari ya kimantiki (Logical fallacy - Correct philosophical term)",
+            "Cheti cha kuzaliwa",
+            "Kadi ya benki",
+            "Tiketi ya basi"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Dosari ya kimantiki» (logical fallacy) ndiyo kasoro inayoharibu uhalali wa hoja katika mjadala."
         }
       ]
     },
@@ -13875,17 +13914,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Haki\": Which sentence is completely correct?",
+          "prompt": "Chagua maelezo yaliyo sahihi kuhusu fikra tunduizi na mantiki ya kitaaluma:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 33.4.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Uamuzi»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Usawa»",
-            "Mpangilio usio sahihi wa viambishi katika «Shahidi»"
+            "Fikra tunduizi inajumuisha ujenzi wa hoja zenye mashiko, matumizi ya data na ushahidi wa kisayansi, upembuzi yakinifu wa nadharia, na utambuzi wa dosari za kimantiki.",
+            "Fikra tunduizi inamaanisha kukubali kila kitu unachosikia bila kuuliza swali lolote.",
+            "Mantiki ya kisomi inaruhusu kutumia matusi badala ya hoja katika mdahalo.",
+            "Dosari ya kimantiki ni jina la dawa ya kuua wadudu mashambani."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Fikra tunduizi inajumuisha hoja zenye mashiko, ushahidi wa kisayansi, upembuzi yakinifu, na utambuzi wa dosari za kimantiki."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u33-l5": {
@@ -13893,53 +13933,62 @@
     "subject": "swahili",
     "unit": 33,
     "lessonNumber": 5,
-    "title": "Diplomasia ya Kimataifa na Mikataba ya Nchi (Diplomacy) (Part 5)",
+    "title": "Muhtasari wa Falsafa ya Kiswahili, Methali Ngumu na Fikra Tunduizi (Philosophy, Cryptic Proverbs & Critical Thought Grand Synthesis)",
     "level": "C2",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 33.5) with authentic precision.",
+    "objective": "Kuunganisha mada zote za Unit 33: falsafa ya Utu na Ubuntu, nadharia ya Ujamaa na Kujitegemea ya Mwalimu Nyerere, methali ngumu na mafumbo ya pwani, na fikra tunduizi na mantiki ya kitaaluma kwa kiwango cha C2.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Muhtasari Mkuu wa Falsafa ya Kiafrika, Methali Ngumu na Mantiki (African Philosophy & Wisdom Master Matrix):\n\n1. **Ujumuishaji wa Taaluma Kuu za Kifalsafa na Kifikra za Kiwango cha C2**:\n   - **Falsafa ya Utu na Ubuntu**: Mshikamano wa kijamii, uwajibikaji wa kimaadili, heshima ya utu, na kupinga ubinafsi wa kibepari.\n   - **Ujamaa na Kujitegemea**: Fikra za Mwalimu Julius Nyerere, Azimio la Arusha (1967), kazi kama kipimo cha utu, na tafsiri za Shakespeare (*Juliasi Kaizari*, *Mabepari wa Venisi*).\n   - **Methali Ngumu & Hekima za Pwani**: *Mtaka cha mvunguni sharti ainame*, *Nazi mbovu harabu ya nzima*, *Konzi ya maji haifumbiki*, na *Mchimba kisima humwingia mwenyewe*.\n   - **Fikra Tunduizi na Mantiki**: Hoja zenye mashiko, upembuzi yakinifu, ushahidi wa kisayansi, na utambuzi wa dosari za kimantiki.\n\n2. **Umahiri wa Kifalsafa na Kimaadili**:\n   - Mhitimu anayeikamilisha moduli hii anao uwezo wa kutafakari kwa kina kuhusu uwepo wa binadamu, kuongoza mijadala migumu ya kimaadili, na kutumia hekima za asili za Waswahili kutatua changamoto za ulimwengu wa kisasa.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 33.5.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 33."
+          "target": "Kuanzia misingi mitukufu ya falsafa ya Utu na Ubuntu, nadharia ya Ujamaa na kujitegemea ya Mwalimu Nyerere, kina cha hekima katika methali na mafumbo ya pwani, hadi kanuni thabiti za fikra tunduizi na mantiki ya kisomi, lugha ya Kiswahili inathibitisha hadhi yake kama lugha kuu ya kifalsafa na kiakili duniani.",
+          "reading": "Ku-a-nzia mi-si-ngi mi-tu-ku-fu ya fa-lsa-fa ya U-tu na Ubuntu, na-dha-ria ya Uja-ma-a na ku-ji-te-ge-me-a ya Mwa-li-mu Nye-re-re, ki-na cha he-ki-ma ka-ti-ka me-tha-li na ma-fu-mbo ya pwa-ni, ha-di ka-nu-ni tha-bi-ti za fi-kra tu-ndui-zi na ma-nti-ki ya ki-so-mi, lu-gha ya Ki-swa-hi-li ina-thi-bi-ti-sha ha-dhi ya-ke ka-ma lu-gha ku-u ya ki-fa-lsa-fa na kia-ki-li du-nia-ni. [kuˈɑnziɑ miˈsiŋɡi mituˈkufu jɑ fɑˈlsɑfɑ jɑ ˈutu nɑ uˈbuntu nɑðɑˈriɑ jɑ uʤɑˈmɑː nɑ kuʤitɛɡɛˈmɛɑ jɑ mwɑˈlimu ɲɛˈrɛrɛ ˈkinɑ tʃɑ hɛˈkimɑ ˈkɑtikɑ mɛˈθɑli nɑ mɑˈfumbɔ jɑ ˈpwɑni ˈhɑdi kɑˈnuni θɑˈbiti zɑ ˈfikrɑ tunduiˈzi nɑ mɑˈntiki jɑ kiˈsɔmi ˈluɣɑ jɑ kiswɑˈhili inɑθibiˈtiʃɑ ˈhɑði ˈjɑkɛ ˈkɑmɑ ˈluɣɑ ˈkuː jɑ kifɑˈlsɑfɑ nɑ kiɑˈkili duniˈɑni] (koo-AHN-zee-ah mee-SEEN-gee mee-too-KOO-foo yah fahl-SAH-fah yah OO-too nah oo-BOON-too, nah-thah-REE-ah yah oo-jah-MAH-ah nah koo-jee-tay-gay-MAY-ah yah mwah-LEE-moo nyeh-RAY-ray, KEE-nah chah hay-KEE-mah KAH-tee-kah may-THAH-lee nah mah-FOOM-boh yah PWAH-nee, HAH-dee kah-NOO-nee thah-BEE-tee zah FEEK-rah toon-doo-EE-zee nah mahn-TEE-kee yah kee-SOH-mee, LOO-gah yah kee-swah-HEE-lee ee-nah-thee-bee-TEE-shah HAH-thee YAH-kay KAH-mah LOO-gah KOO-oo yah kee-fahl-SAH-fah nah kee-ah-KEE-lee doo-nee-AH-nee)",
+          "translation": "From the transcendent foundations of Utu and Ubuntu humanism, Mwalimu Nyerere's philosophy of Ujamaa and self-reliance, profound wisdom embedded in cryptic coastal proverbs, to robust cannons of critical thinking and academic logic, Swahili substantiates its stature as a preeminent global language of philosophy and intellect."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 33-5).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Uwezo wa kutumia methali ngumu, kufikiri kwa kina kifikra, na kuchanganua masuala mazito ya kimaadili unamwezesha mhitimu kuwasiliana kwa upeo wa juu kabisa wa ustaarabu na hekima.",
+          "reading": "Uwe-zo wa ku-tu-mia me-tha-li ngu-mu, ku-fi-ki-ri kwa ki-na ki-fi-kra, na ku-cha-nga-nua ma-su-a-la mzi-to ya ki-ma-a-di-li una-mwe-ze-sha mhi-ti-mu ku-wa-si-lia-na kwa upe-o wa ju-u ka-bi-sa wa usta-a-ra-bu na he-ki-ma. [uˈwɛzɔ wɑ kutuˈmiɑ mɛˈθɑli ˈŋɡumu kufiˈkiri kwɑ ˈkinɑ kiˈfikrɑ nɑ kutʃɑŋɡɑˈnuɑ mɑsuˈɑlɑ ˈnzitɔ jɑ kimɑɑˈdili unɑmwɛzɛˈʃɑ mhiˈtimu kuwɑsiliˈɑnɑ kwɑ uˈpɛɔ wɑ ˈʤuː kɑˈbisɑ wɑ ustɑɑˈrɑbu nɑ hɛˈkimɑ] (oo-WAY-zoh wah koo-too-MEE-ah may-THAH-lee N-GOO-moo, koo-fee-KEE-ree kwah KEE-nah kee-FEEK-rah, nah koo-chahn-gah-NOO-ah mah-soo-AH-lah N-ZEE-toh yah kee-mah-ah-DEE-lee oo-nah-mway-ZAY-shah m-hee-TEE-moo koo-wah-see-lee-AH-nah kwah oo-PAY-oh wah JOO-oo kah-BEE-sah wah oo-stah-ah-RAH-boo nah hay-KEE-mah)",
+          "translation": "The proficiency to deploy cryptic proverbs, reason critically, and deconstruct complex ethical conundrums enables a scholar to converse at the absolute zenith of human refinement and wisdom."
+        },
+        {
+          "target": "Hekima ya Kiswahili na fikra za Kiafrika zinatoa mwongozo madhubuti wa kuleta amani, maelewano na usawa katika dunia inayokabiliwa na migogoro ya kimaadili na kifikra.",
+          "reading": "He-ki-ma ya Ki-swa-hi-li na fi-kra za Kia-fri-ka zi-na-to-a mwo-ngo-zo ma-dhu-bu-ti wa ku-le-ta a-ma-ni, ma-e-le-wa-no na usa-wa ka-ti-ka du-nia ina-yo-ka-bi-li-wa na mi-go-go-ro ya ki-ma-a-di-li na ki-fi-kra. [hɛˈkimɑ jɑ kiswɑˈhili nɑ ˈfikrɑ zɑ kiɑˈfrikɑ zinɑˈtɔɑ mwɔˈŋɡɔzɔ mɑðuˈbuti wɑ kuˈlɛtɑ ɑˈmɑni mɑɛlɛˈwɑnɔ nɑ uˈsɑwɑ ˈkɑtikɑ duniˈɑ inɑjɔkɑbiliˈwɑ nɑ miɡɔˈɡɔrɔ jɑ kimɑɑˈdili nɑ kiˈfikrɑ] (hay-KEE-mah yah kee-swah-HEE-lee nah FEEK-rah zah kee-ah-FREE-kah zee-nah-TOH-ah mwohn-GOH-zoh mah-thoo-BOO-tee wah koo-LAY-tah ah-MAH-nee, mah-ay-lay-WAH-noh nah oo-SAH-wah KAH-tee-kah doo-nee-AH ee-nah-yoh-kah-bee-LEE-wah nah mee-goh-GOH-roh yah kee-mah-ah-DEE-lee nah kee-FEEK-rah)",
+          "translation": "Swahili wisdom and African philosophy supply an authoritative compass for establishing peace, concord, and egalitarian equity in a contemporary world beleaguered by moral and existential crises."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Falsafa & Methali Grand Synthesis: Utu & Ubuntu (mtu ni watu); Ujamaa & Nyerere (Azimio la Arusha); Methali Ngumu za Pwani; Fikra Tunduizi & Mantiki!"
+      ],
+      "culturalNotes": [
+        "Kazi za falsafa ya Kiafrika katika lugha ya Kiswahili zinasomwa na kutafitiwa na wanazuoni wa kimataifa kama mchango mkubwa wa bara la Afrika katika hazina ya hekima ya ubinadamu."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Usawa\":",
+          "prompt": "Mchanganyiko upi unawakilisha nguzo kuu za falsafa, hekima na fikra za kimantiki katika lugha ya Kiswahili?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 33.5.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Shahidi»",
-            "Mpangilio usio sahihi wa viambishi katika «Uamuzi»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Katiba»"
+            "Falsafa ya Utu na Ubuntu, Ujamaa na Kujitegemea wa Nyerere, methali nzito za pwani, na fikra tunduizi na mantiki ya kisomi (Comprehensive Swahili philosophy & wisdom pillars)",
+            "Kukataa kujadili masuala ya kimaadili wala kufikiri kwa kina",
+            "Kufuta methali zote za jadi za pwani",
+            "Kupiga marufuku midahalo yote ya kitaaluma vyuoni"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Falsafa ya Kiswahili inajumuisha Utu, Ujamaa, methali za pwani, na fikra tunduizi za kisomi."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Usawa\":",
+          "prompt": "Sentensi ipi inachanganya msamiati wa falsafa ya Utu, Ujamaa na fikra tunduizi kwa ufasaha wa kiwango cha C2?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 33.5.",
-            "Mpangilio usio sahihi wa viambishi katika «Uamuzi»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Katiba»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Shahidi»"
+            "Kuanzia falsafa ya Utu na misingi ya Ujamaa wa Mwalimu Nyerere hadi matumizi ya fikra tunduizi na methali za pwani, Kiswahili kinadhihirisha utajiri wa hali ya juu wa kifikra na kimaadili. (From the philosophy of Utu and Nyerere's Ujamaa principles to critical thinking and coastal axioms, Swahili demonstrates profound intellectual and ethical wealth - Correct C2 philosophy synthesis)",
+            "Kiswahili hakina dhana yoyote ya falsafa wala hoja za kimantiki.",
+            "Mwalimu Nyerere alikataza watu wote kutumia methali za Kiswahili.",
+            "Ubuntu ni neno linalomaanisha kununua samaki sokoni."
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Sentensi inajumuisha istilahi mahsusi za C2: «falsafa ya Utu», «misingi ya Ujamaa», «fikra tunduizi», «methali za pwani», na «utajiri wa kifikra na kimaadili»."
         }
       ]
     },
@@ -13947,17 +13996,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Usawa\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 33 ya Falsafa ya Kiswahili, Methali Ngumu na Misemo ya Kina:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 33.5.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Katiba»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Shahidi»",
-            "Mpangilio usio sahihi wa viambishi katika «Uamuzi»"
+            "Kuanzia misingi thabiti ya falsafa ya Utu na Ubuntu inayomweka mwanadamu na mshikamano wa jamii katikati ya ustaarabu, nadharia ya Ujamaa na Kujitegemea ya Mwalimu Julius Nyerere, kina kirefu cha hekima na maonyo katika methali na mafumbo ya pwani, hadi ujenzi makini wa hoja za kimantiki kupitia fikra tunduizi, lugha ya Kiswahili inathibitisha upeo wa juu kabisa wa uwezo wa kifikra, kimaadili na kistadi wa kimataifa. (Apex C2 synthesis of African humanism, Ujamaa socialist thought, cryptic coastal proverbs, and critical thinking logic.)",
+            "Falsafa ya Kiswahili ilianza na kuishia katika karne ya kumi na tisa.",
+            "Hakuna mwanazuoni yeyote aliyewahi kufundisha falsafa au mantiki kwa lugha ya Kiswahili.",
+            "Methali zote za Kiswahili hazina maana yoyote ya kimantiki wala kimaadili."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Kuanzia misingi thabiti ya falsafa ya Utu na Ubuntu inayomweka mwanadamu na mshikamano wa jamii katikati ya ustaarabu, nadharia ya Ujamaa na Kujitegemea ya Mwalimu Julius Nyerere, kina kirefu cha hekima na maonyo katika methali na mafumbo ya pwani, hadi ujenzi makini wa hoja za kimantiki kupitia fikra tunduizi, lugha ya Kiswahili inathibitisha upeo wa juu kabisa wa uwezo wa kifikra, kimaadili na kistadi wa kimataifa.» inajumuisha maarifa yote ya Unit 33 kwa ufasaha wa hali ya juu wa C2."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u34-l1": {
