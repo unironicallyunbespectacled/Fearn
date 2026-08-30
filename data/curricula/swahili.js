@@ -10325,53 +10325,62 @@
     "subject": "swahili",
     "unit": 25,
     "lessonNumber": 1,
-    "title": "Biashara, Uchumi na Fedha za Kidijitali (Commerce & M-Pesa) (Part 1)",
+    "title": "Uchumi Mkuu, Ujasiriamali na Masoko ya Afrika Mashariki (Macroeconomics & Regional Markets)",
     "level": "C1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 25.1) with authentic precision.",
+    "objective": "Kuelewa na kutumia msamiati wa kina wa uchumi mkuu, patolitaifa (GDP), mfumuko wa bei, ujasiriamali, masoko ya hisa, na biashara ya Jumuiya ya Afrika Mashariki (EAC).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Msamiati na Miundo ya Kisarufi ya Uchumi Mkuu na Masoko ya Kikanda (Macroeconomics & EAC Markets):\n\nKatika kiwango cha C1, mwanafunzi anapaswa kumudu msamiati rasmi wa kiuchumi, sera za fedha, na biashara ya kikanda:\n\n1. **Msamiati Mahsusi wa Kiuchumi**:\n   - **Uchumi mkuu**: Mfumo mpana wa kiuchumi wa nchi au ukanda mzima (Macroeconomics).\n   - **Patolitaifa (Gross Domestic Product - GDP)**: Thamani ya jumla ya bidhaa na huduma zote zinazozalishwa nchini kwa mwaka mmoja.\n   - **Mfumuko wa bei (Inflation)**: Kupanda kwa jumla kwa bei za bidhaa na huduma, na kushuka kwa thamani ya fedha.\n   - **Nakisi ya bajeti (Budget Deficit)**: Hali ambapo matumizi ya serikali yanazidi mapato yake ya kikodi.\n   - **Ujasiriamali**: Ubunifu na uendeshaji wa biashara kwa lengo la kuzalisha faida na kutatua changamoto za kijamii.\n   - **Soko la Hisa (Stock Exchange)**: Soko rasmi la kununua na kuuza hisa za makampuni (k.m., *DSE ya Dar es Salaam, NSE ya Nairobi*).\n   - **Ushuru wa forodha (Customs Tariff)**: Kodi inayotozwa kwa bidhaa zinazoingia au kutoka nchini kupitia mipakani.\n\n2. **Upatanisho wa Ngeli na Mnyambuliko wa Maneno ya Kiuchumi**:\n   - Vitenzi vya kiuchumi na nomino zake: *wekeza* (invest) -> *uwekezaji* (investment) -> *mwekezaji* (investor); *zalisha* (produce) -> *uzalishaji* (production) -> *mzalishaji* (producer); *binafsisha* (privatize) -> *ubinafsishaji* (privatization).",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 25.1.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 25."
+          "target": "Kupungua kwa mfumuko wa bei na ongezeko la patolitaifa kumechochea wawekezaji wengi wa kigeni kuwekeza mitaji yao katika soko la hisa la Dar es Salaam na Nairobi.",
+          "reading": "Kupu-ngua kwa mfu-mu-ko wa be-i na o-nge-ze-ko la pa-to-li-ta-i-fa ku-me-cho-che-a wa-we-ke-za-ji we-ngi wa ki-ge-ni ku-we-ke-za mi-ta-ji ya-o ka-ti-ka so-ko la hi-sa la Dar es Sa-laam na Na-i-ro-bi. [kupuˈŋɡuɑ kwɑ mfuˈmukɔ wɑ ˈbɛi nɑ ɔŋɡɛˈzɛkɔ lɑ pɑtɔlitɑˈifɑ kumɛtʃɔˈtʃɛɑ wɑwɛkɛˈzɑʤi ˈwɛŋɡi wɑ kiˈɡɛni kuwɛˈkɛzɑ miˈtɑʤi ˈjɑɔ ˈkɑtikɑ ˈsɔkɔ lɑ ˈhisɑ lɑ dɑr ɛs sɑˈlɑːm nɑ nɑiˈrɔbi] (koo-poon-GOO-ah kwah m-foo-MOO-koh wah BAY-ee nah ohn-gay-ZAY-koh lah pah-toh-lee-tah-EE-fah koo-may-choh-CHAY-ah wah-way-kay-ZAH-jee WAYN-gee wah kee-GAY-nee koo-way-KAY-zah mee-TAH-jee YAH-oh KAH-tee-kah SOH-koh lah HEE-sah lah dahr ays sah-LAHM nah nah-ee-ROH-bee)",
+          "translation": "The reduction in inflation [kupungua kwa mfumuko wa bei] and expansion in gross domestic product [patolitaifa] have spurred numerous foreign investors to inject their capital into the Dar es Salaam and Nairobi stock exchanges."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 25-1).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Mkataba wa Soko la Pamoja la Jumuiya ya Afrika Mashariki umeondoa vikwazo vya ushuru wa forodha na kurahisisha usafirishaji wa bidhaa mipakani.",
+          "reading": "Mka-ta-ba wa So-ko la Pa-mo-ja la Ju-mu-i-ya ya Afri-ka Ma-sha-ri-ki ume-o-ndoa vi-kwa-zo vya ushu-ru wa fo-ro-dha na ku-ra-hi-si-sha usa-fi-ri-sha-ji wa bi-dha-a mi-pa-ka-ni. [mkɑˈtɑbɑ wɑ ˈsɔkɔ lɑ pɑˈmɔʤɑ lɑ ʤumuˈijɑ jɑ ˈɑfrikɑ mɑʃɑˈriki umɛɔˈndɔɑ viˈkwɑzɔ vjɑ uˈʃuru wɑ fɔˈrɔðɑ nɑ kurɑhiˈsiʃɑ usɑfiriˈʃɑʤi wɑ biˈðɑː mipɑkɑˈni] (m-kah-TAH-bah wah SOH-koh lah pah-MOH-jah lah joo-moo-EE-yah yah AHF-ree-kah mah-shah-REE-kee oo-may-ohn-DOH-ah vee-KWAH-zoh vyah oo-SHOO-roo wah foh-ROH-thah nah koo-rah-hee-SEE-shah oo-sah-fee-ree-SHAH-jee wah bee-THAH-ah mee-pah-kah-NEE)",
+          "translation": "The East African Community Common Market Protocol has dismantled customs tariff barriers and streamlined cross-border commodity transport."
+        },
+        {
+          "target": "Wajasiriamali wadogo na wa kati wanachangia pakubwa katika kukuza uchumi na kubuni nafasi mpya za ajira kwa vijana nchini.",
+          "reading": "Wa-ja-si-ria-ma-li wdo-go na wa ka-ti wa-na-cha-ngia pa-kbu-bwa ka-ti-ka ku-ku-za uchu-mi na ku-bu-ni na-fa-si mpy-a za aji-ra kwa vi-ja-na nchi-ni. [wɑʤɑsiriɑˈmɑli ˈwdɔɡɔ nɑ wɑ ˈkɑti wɑnɑtʃɑˈŋɡiɑ pɑˈkubwɑ ˈkɑtikɑ kuˈkuzɑ uˈtʃumi nɑ kuˈbuni nɑˈfɑsi ˈmpjɑ zɑ ɑˈʤirɑ kwɑ viˈʤɑnɑ ɲtʃiˈni] (wah-jah-see-ree-ah-MAH-lee W-DOH-goh nah wah KAH-tee wah-nah-chahn-GEE-ah pah-KOO-bwah KAH-tee-kah koo-KOO-zah oo-CHOO-mee nah koo-BOO-nee nah-FAH-see M-PYAH zah ah-JEE-rah kwah vee-JAH-nah n-chee-NEE)",
+          "translation": "Small and medium-sized entrepreneurs contribute substantially to expanding the economy and generating new employment opportunities for youth nationwide."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Msamiati wa Uchumi Mkuu: Patolitaifa (GDP), Mfumuko wa bei (Inflation), Soko la Hisa (Stock Exchange), Ushuru wa forodha (Tariffs), Wajasiriamali (Entrepreneurs)!"
+      ],
+      "culturalNotes": [
+        "Jumuiya ya Afrika Mashariki (EAC) inayojumuisha nchi nane hutumia Kiswahili kama lugha rasmi ya kikazi katika mikutano ya kibiashara, forodha, na uwekezaji."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Kubwa\":",
+          "prompt": "Katika sarufi ya kiuchumi ya Kiswahili, neno linalomaanisha 'Gross Domestic Product' (thamani ya jumla ya uzalishaji wa taifa kwa mwaka) ni lipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 25.1.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Ndogo»",
-            "Mpangilio usio sahihi wa viambishi katika «Ndefu»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Fupi»"
+            "Patolitaifa (GDP / Gross Domestic Product - Correct economic term)",
+            "Mfumuko wa bei (Inflation)",
+            "Nakisi ya bajeti (Budget deficit)",
+            "Riba ya benki"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Patolitaifa» ndilo neno sanifu la kitaaluma la Kiswahili linalosimamia 'Gross Domestic Product' (GDP)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Kubwa\":",
+          "prompt": "Sentensi ipi inatumia msamiati wa masoko ya mitaji na uwekezaji kwa usahihi wa kiwango cha C1?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 25.1.",
-            "Mpangilio usio sahihi wa viambishi katika «Ndefu»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Fupi»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Ndogo»"
+            "Wawekezaji walinunua hisa nyingi kwenye Soko la Hisa la Dar es Salaam kufuatia ongezeko la faida ya makampuni. (Investors purchased numerous shares on the Dar es Salaam Stock Exchange following corporate profit increases - Correct C1 economic phrasing)",
+            "Watu walikwenda sokoni kununua mboga za majani pekee.",
+            "Soko la hisa ni mahali pa kuuzia ng'ombe na mbuzi.",
+            "Benki zote zimefunga akaunti za wateja bila sababu."
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Sentensi inatumia maneno fasaha ya kiuchumi: «wawekezaji», «hisa», «Soko la Hisa», na «ongezeko la faida»."
         }
       ]
     },
@@ -10379,17 +10388,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Kubwa\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha iliyo sahihi ya istilahi za Uchumi Mkuu na Masoko ya Afrika Mashariki:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 25.1.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Fupi»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Ndogo»",
-            "Mpangilio usio sahihi wa viambishi katika «Ndefu»"
+            "Patolitaifa (GDP), Mfumuko wa bei (inflation), Nakisi ya bajeti, Wajasiriamali, Soko la hisa, Ushuru wa forodha, Jumuiya ya Afrika Mashariki.",
+            "Patolitaifa (chakula cha mchana), Mfumuko wa bei (kupiga mayowe), Hisa (mbao za moto).",
+            "Uchumi mkuu unahusu uvuvi wa mikono pekee bila fedha.",
+            "Hakuna masoko ya hisa katika ukanda wote wa Afrika Mashariki."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Istilahi sahihi za uchumi: Patolitaifa, Mfumuko wa bei, Nakisi ya bajeti, Wajasiriamali, Soko la hisa, Ushuru wa forodha."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u25-l2": {
@@ -10397,53 +10407,62 @@
     "subject": "swahili",
     "unit": 25,
     "lessonNumber": 2,
-    "title": "Biashara, Uchumi na Fedha za Kidijitali (Commerce & M-Pesa) (Part 2)",
+    "title": "Mapinduzi ya Fedha za Kidijitali na M-Pesa (Mobile Money Revolution & Fintech)",
     "level": "C1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 25.2) with authentic precision.",
+    "objective": "Kuelewa msamiati wa fedha za simu (M-Pesa, Airtel Money, Tigo Pesa), miamala ya kidijitali, usalama wa namba ya siri (PIN), mikopo ya simu, na uchumi usiotumia noti taslimu (Cashless Economy).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Mapinduzi ya Fedha za Kidijitali na M-Pesa katika Afrika Mashariki:\n\nAfrika Mashariki ndicho kitovu kikuu cha mapinduzi ya huduma za fedha kwa njia ya simu duniani kote:\n\n1. **Msamiati Muhimu wa Fedha za Simu (Mobile Money / Fintech)**:\n   - **Muamala / Miamala**: Shughuli ya kifedha inayofanyika kwa njia ya simu au mtandao (Transaction/s).\n   - **Wakala wa M-Pesa (Agent)**: Mtu au duka lililoidhinishwa kutoa na kuweka fedha kwenye akaunti ya simu.\n   - **Kuweka fedha (Deposit)** na **Kutoa fedha (Withdraw)**.\n   - **Namba ya Siri (PIN)**: Nambari nne au tano za siri zinazothibitisha utambulisho wa mwenye akaunti.\n   - **Salio (Account Balance)**: Kiasi cha fedha kilichobaki kwenye akaunti ya mteja.\n   - **Lipa kwa Simu / Namba ya Kampuni (Till Number / Paybill)**: Mfumo wa kufanya malipo ya bidhaa na huduma bila pesa taslimu.\n   - **Mikopo midogo ya simu (Micro-loans)**: Huduma za kukopa mtandaoni papo hapo (k.m., *M-Shwari, Fuliza, Songesha*).\n\n2. **Miundo ya Kisarufi na Masharti ya Kiutendaji**:\n   - *Ukithibitisha namba ya siri, fedha zitatumwa mara moja.* (If you verify the PIN, funds will be sent immediately.)\n   - *Muamala ulikataliwa kwa sababu ya salio kutotosha.* (The transaction was declined due to insufficient funds.)",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 25.2.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 25."
+          "target": "Mfumo wa fedha za simu kama M-Pesa umeleta mapinduzi makubwa ya kiuchumi kwa kuwawezesha wananchi vijijini kutuma na kupokea fedha kwa sekunde chache.",
+          "reading": "Mfu-mo wa fe-dha za si-mu ka-ma M-Pe-sa ume-le-ta ma-pi-ndu-zi ma-ku-bwa ya kiu-chu-mi kwa ku-wa-we-ze-sha wa-na-nchi vi-ji-ji-ni ku-tu-ma na ku-po-ke-a fe-dha kwa se-ku-nde cha-che. [mfuˈmɔ wɑ ˈfɛðɑ zɑ ˈsimu ˈkɑmɑ ɛmˈpɛsɑ umɛˈlɛtɑ mɑpinduˈzi mɑˈkubwɑ jɑ kiutʃuˈmi kwɑ kuwɑwɛzɛˈʃɑ wɑnɑˈɲtʃi viʤiˈʤini kuˈtumɑ nɑ kupɔˈkɛɑ ˈfɛðɑ kwɑ sɛˈkundɛ ˈtʃɑtʃɛ] (m-FOO-moh wah FAY-thah zah SEE-moo KAH-mah aym-PAY-sah oo-may-LAY-tah mah-peen-DOO-zee mah-KOO-bwah yah kee-oo-CHOO-mee kwah koo-wah-way-zay-SHAH wah-nahn-CHEE vee-jee-JEE-nee koo-TOO-mah nah koo-poh-KAY-ah FAY-thah kwah say-KOON-day CHAH-chay)",
+          "translation": "Mobile money infrastructure such as M-Pesa has catalyzed an immense economic transformation by empowering rural citizens to transmit and receive funds in seconds."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 25-2).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Kabla ya kukamilisha muamala wa kidijitali, hakikisha umeingiza namba ya siri kwa usiri na uangalifu mkubwa ili kulinda usalama wa salio lako.",
+          "reading": "Ka-bla ya ku-ka-mi-li-sha mu-a-ma-la wa ki-di-ji-ta-li, ha-ki-ki-sha ume-i-ngi-za na-mba ya si-ri kwa u-si-ri na ua-nga-li-fu mku-bwa i-li ku-li-nda usa-la-ma wa sa-lio la-ko. [ˈkɑblɑ jɑ kukɑmiˈliʃɑ muɑˈmɑlɑ wɑ kidiʤiˈtɑli hɑkiˈkiʃɑ umɛiˈŋɡizɑ ˈnɑmbɑ jɑ ˈsiri kwɑ uˈsiri nɑ uɑŋɡɑˈlifu ˈmkubwɑ ˈili kuˈlindɑ usɑˈlɑmɑ wɑ sɑˈliɔ ˈlɑkɔ] (KAH-blah yah koo-kah-mee-LEE-shah moo-ah-MAH-lah wah kee-dee-jee-TAH-lee, hah-kee-KEE-shah oo-may-een-GEE-zah NAHM-bah yah SEE-ree kwah oo-SEE-ree nah oo-ahn-gah-LEE-foo M-KOO-bwah EE-lee koo-LEEN-dah oo-sah-LAH-mah wah sah-LEE-oh LAH-koh)",
+          "translation": "Prior to concluding a digital transaction, verify that you entered your confidential PIN with great vigilance to safeguard your account balance."
+        },
+        {
+          "target": "Huduma za mikopo ya dharura kupitia simu za mkononi zimewasaidia wafanyabiashara wadogo kupata mitaji ya kukuza biashara zao.",
+          "reading": "Hu-du-ma za mi-ko-po ya dha-ru-ra ku-pi-tia si-mu za mko-no-ni zi-me-wa-sa-i-dia wa-fa-nya-bia-sha-ra wdo-go ku-pa-ta mi-ta-ji ya ku-ku-za bia-sha-ra za-o. [huduˈmɑ zɑ miˈkɔpɔ jɑ ðɑˈrurɑ kupiˈtiɑ ˈsimu zɑ mkɔˈnɔni zimɛwɑsɑˈidiɑ wɑfɑɲɑbiɑˈʃɑrɑ ˈwdɔɡɔ kuˈpɑtɑ miˈtɑʤi jɑ kuˈkuzɑ biɑˈʃɑrɑ ˈzɑɔ] (hoo-DOO-mah zah mee-KOH-poh yah thah-ROO-rah koo-pee-TEE-ah SEE-moo zah m-koh-NOH-nee zee-may-wah-sah-EE-dee-ah wah-fah-nyah-bee-ah-SHAH-rah W-DOH-goh koo-PAH-tah mee-TAH-jee yah koo-KOO-zah bee-ah-SHAH-rah ZAH-oh)",
+          "translation": "Instant mobile credit facilities have assisted small-scale entrepreneurs in securing liquidity to expand their commercial enterprises."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Msamiati wa Fedha za Simu: Muamala (transaction), Wakala (agent), Namba ya siri (PIN), Salio (balance), Lipa kwa simu (till payment)!"
+      ],
+      "culturalNotes": [
+        "Mfumo wa M-Pesa uliozinduliwa nchini Kenya na kupanuka Tanzania umebadilisha kabisa uchumi wa Afrika Mashariki na kuwa mfano wa kimataifa wa ushirikishwaji wa kifedha (financial inclusion)."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Ndogo\":",
+          "prompt": "Neno la Kiswahili linalomaanisha kitendo cha shughuli ya kifedha (transaction) kama vile kutuma, kupokea, au kulipia huduma kupitia simu ni lipi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 25.2.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Ndefu»",
-            "Mpangilio usio sahihi wa viambishi katika «Fupi»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Haraka»"
+            "Muamala (Financial transaction - Correct terminology)",
+            "Mkataba wa ndoa",
+            "Mhadhara wa chuo kikuu",
+            "Mkutano wa siasa"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Muamala» (wingi: miamala) ndilo neno sanifu linalomaanisha shughuli ya kifedha au kibiashara."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Ndogo\":",
+          "prompt": "Sentensi ipi inaeleza kanuni ya usalama wa fedha za simu kwa ufasaha?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 25.2.",
-            "Mpangilio usio sahihi wa viambishi katika «Fupi»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Haraka»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Ndefu»"
+            "Kamwe usimwambie mtu yeyote namba yako ya siri ya M-Pesa ili kuzuia wizi wa fedha kutoka kwenye salio lako. (Never disclose your secret M-Pesa PIN to anyone to prevent theft from your account balance - Correct security advice)",
+            "Tuma namba yako ya siri kwa watu wote waliopo sokoni.",
+            "Weka fedha zako zote chini ya kitanda badala ya benki.",
+            "Miamala ya simu inafanyika kwa kutumia barua za posta pekee."
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Ushauri fasaha wa kiusalama unasisitiza kulinda «namba ya siri» ili kulinda «salio» la akaunti."
         }
       ]
     },
@@ -10451,17 +10470,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Ndogo\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha iliyo sahihi ya maneno ya teknolojia ya kifedha (Fintech) na M-Pesa katika Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 25.2.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Haraka»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Ndefu»",
-            "Mpangilio usio sahihi wa viambishi katika «Fupi»"
+            "Muamala, Wakala, Namba ya siri (PIN), Salio, Lipa kwa simu, Kutoa na kuweka fedha, Mikopo ya simu.",
+            "Muamala (kupika chakula), Wakala (mwanamuziki wa taarab), Salio (sahani ya udongo).",
+            "Fedha za simu hutumika kwa ajili ya kupiga picha pekee.",
+            "M-Pesa ilivumbuliwa katika karne ya kumi na sita."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Msamiati sahihi wa fintech: Muamala, Wakala, Namba ya siri, Salio, Lipa kwa simu, Kutoa na kuweka fedha."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u25-l3": {
@@ -10469,53 +10489,62 @@
     "subject": "swahili",
     "unit": 25,
     "lessonNumber": 3,
-    "title": "Biashara, Uchumi na Fedha za Kidijitali (Commerce & M-Pesa) (Part 3)",
+    "title": "Benki, Bima, Akiba na Uwekezaji wa Muda Mrefu (Banking, Insurance & Investments)",
     "level": "C1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 25.3) with authentic precision.",
+    "objective": "Kuelewa na kutumia msamiati wa kibenki (akaunti ya hundi/akiba, viwango vya riba, dhamana ya mkopo), sekta ya bima (fidia, sera ya bima), na ukaguzi wa fedha na uwajibikaji.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Sekta ya Kibenki, Bima na Uwekezaji (Banking, Insurance, & Corporate Finance):\n\n1. **Msamiati wa Huduma za Kibenki (Banking)**:\n   - **Akaunti ya akiba (Savings Account)**: Akaunti ya kuhifadhi fedha inayozalisha riba kidogo.\n   - **Akaunti ya hundi / amana (Current Account)**: Akaunti inayotumiwa na wafanyabiashara kuandika hundi na kufanya miamala ya kila siku.\n   - **Kiwango cha riba (Interest Rate)**: Asilimia ya ziada inayotozwa kwenye mkopo au inayolipwa kwa mwenye akiba.\n   - **Dhamana ya mkopo (Collateral / Guarantee)**: Mali au hati inayowekwa rehani benki ili kupata mkopo.\n   - **Mkopaji (Borrower)** na **Mkopeshaji (Lender)**.\n\n2. **Msamiati wa Sekta ya Bima (Insurance)**:\n   - **Bima (Insurance)**: Mkataba wa kulinda mtu au biashara dhidi ya hasara za dharura.\n   - **Bima ya afya (Health Insurance)**, **Bima ya mali (Property Insurance)**, **Bima ya vyombo vya moto (Motor Insurance)**.\n   - **Fidia (Compensation / Payout)**: Malipo yanayotolewa na kampuni ya bima kurekebisha au kulipa hasara iliyotokea.\n\n3. **Ukaguzi wa Fedha na Uwazi (Audit & Transparency)**:\n   - **Ukaguzi wa hesabu (Financial Audit)**: Uchunguzi huru wa vitabu vya mapato na matumizi ya taasisi.\n   - **Faida halisi (Net Profit)** na **Hasara (Loss)**.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 25.3.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 25."
+          "target": "Benki Kuu inadhibiti viwango vya riba ili kulinda sarafu ya taifa na kuhimiza wananchi kuweka akiba kwenye akaunti za muda mrefu.",
+          "reading": "Be-nki Ku-u ina-dhi-bi-ti vi-wa-ngo vya ri-ba i-li ku-li-nda sa-ra-fu ya ta-i-fa na ku-hi-mi-za wa-na-nchi ku-we-ka a-ki-ba kwe-nye aka-u-nti za mu-da mre-fu. [ˈbɛŋki ˈkuː inɑðiˈbiti viˈwɑŋɡɔ vjɑ ˈribɑ ˈili kuˈlindɑ sɑˈrɑfu jɑ tɑˈifɑ nɑ kuhiˈmizɑ wɑnɑˈɲtʃi kuˈwɛkɑ ɑˈkibɑ ˈkwɛɲɛ ɑkɑˈunti zɑ ˈmudɑ ˈmrɛfu] (BAYN-kee KOO-oo ee-nah-thee-BEE-tee vee-WAHN-goh vyah REE-bah EE-lee koo-LEEN-dah sah-RAH-foo yah tah-EE-fah nah koo-hee-MEE-zah wah-nahn-CHEE koo-WAY-kah ah-KEE-bah KWAY-nyay ah-kah-OON-tee zah MOO-dah m-RAY-foo)",
+          "translation": "The Central Bank regulates interest rate benchmarks to stabilize the sovereign currency and encourage citizens to deposit savings into long-term accounts."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 25-3).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Kampuni ya bima ililipa fidia kamili kwa wafanyabiashara waliopata hasara kubwa baada ya duka lao kuteketea kwa moto usiku.",
+          "reading": "Ka-mpu-ni ya bi-ma ili-li-pa fi-dia ka-mi-li kwa wa-fa-nya-bia-sha-ra wa-li-o-pa-ta ha-sa-ra kbu-bwa ba-a-da ya du-ka la-o ku-te-ke-te-a kwa mo-to usi-ku. [kɑmpuˈni jɑ ˈbimɑ ililiˈpɑ fiˈdiɑ kɑˈmili kwɑ wɑfɑɲɑbiɑˈʃɑrɑ wɑliɔˈpɑtɑ hɑˈsɑrɑ ˈkubwɑ bɑˈɑdɑ jɑ ˈdukɑ ˈlɑɔ kutɛkɛˈtɛɑ kwɑ ˈmɔtɔ uˈsiku] (kahm-POO-nee yah BEE-mah ee-lee-LEE-pah fee-DEE-ah kah-MEE-lee kwah wah-fah-nyah-bee-ah-SHAH-rah wah-lee-oh-PAH-tah hah-SAH-rah KOO-bwah bah-AH-dah yah DOO-kah LAH-oh koo-tay-kay-TAY-ah kwah MOH-toh oo-SEE-koo)",
+          "translation": "The underwriting firm disbursed comprehensive indemnity compensation [fidia kamili] to merchants who suffered severe losses after their shop was incinerated by nocturnal fire."
+        },
+        {
+          "target": "Ukaguzi wa kina wa hesabu za fedha ulithibitisha kwamba taasisi hiyo inazingatia kanuni za uwazi, uadilifu, na uwajibikaji wa kiwango cha juu.",
+          "reading": "Uka-gu-zi wa ki-na wa he-sa-bu za fe-dha uli-thi-bi-ti-sha kwa-mba ta-a-si-si hi-yo ina-zi-nga-tia ka-nu-ni za uwa-zi, ua-di-li-fu, na uwa-ji-bi-ka-ji wa ki-wa-ngo cha ju-u. [ukɑˈɡuzi wɑ ˈkinɑ wɑ hɛˈsɑbu zɑ ˈfɛðɑ uliθibiˈtiʃɑ ˈkwɑmbɑ tɑɑˈsisi ˈhijɔ inɑziŋɡɑˈtiɑ kɑˈnuni zɑ uˈwɑzi uɑdiˈlifu nɑ uwɑʤibiˈkɑʤi wɑ kiˈwɑŋɡɔ tʃɑ ˈʤuː] (oo-kah-GOO-zee wah KEE-nah wah hay-SAH-boo zah FAY-thah oo-lee-thee-bee-TEE-shah KWAHM-bah tah-ah-SEE-see HEE-yoh ee-nah-zeen-gah-TEE-ah kah-NOO-nee zah oo-WAH-zee, oo-ah-dee-LEE-foo, nah oo-wah-jee-bee-KAH-jee wah kee-WAHN-goh chah JOO-oo)",
+          "translation": "An exhaustive financial audit confirmed that the institution complies rigorously with principles of transparency, integrity, and apex fiduciary accountability."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Benki na Bima: Akaunti ya akiba/hundi; Viwango vya riba; Dhamana ya mkopo; Bima na Fidia ya hasara; Ukaguzi wa hesabu!"
+      ],
+      "culturalNotes": [
+        "Mifumo ya bima ya kijamii na vikundi vya akiba vya kiasili (Upatu / Vikoba / Chamas) vinachangia pakubwa katika kusaidia kaya masikini kukabili dharura za kifedha."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Ndefu\":",
+          "prompt": "Malipo ya kifedha yanayotolewa na kampuni ya bima kufidia hasara au madhara yaliyotokea kwa mujibu wa mkataba yanaitwaje?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 25.3.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Fupi»",
-            "Mpangilio usio sahihi wa viambishi katika «Haraka»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Polepole»"
+            "Fidia (Insurance compensation / indemnity payout - Correct legal-financial term)",
+            "Adhabu ya kodi",
+            "Mshahara wa ziada",
+            "Riba ya benki"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Fidia» ndilo neno sahihi linalotumika kuelezea malipo ya kufidia hasara au maafa."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Ndefu\":",
+          "prompt": "Mali au hati inayowekwa benki na mkopaji kama hakikisho la kurejesha mkopo inaitwaje katika istilahi za kibenki?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 25.3.",
-            "Mpangilio usio sahihi wa viambishi katika «Haraka»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Polepole»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Fupi»"
+            "Dhamana (Collateral / security guarantee - Correct banking term)",
+            "Faida halisi",
+            "Mfumuko wa bei",
+            "Ushuru wa forodha"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«Dhamana» ndiyo mali inayowekwa rehani ili kuthibitisha ahadi ya kurejesha mkopo."
         }
       ]
     },
@@ -10523,17 +10552,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Ndefu\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha iliyo sahihi ya maneno ya kibenki, bima na usimamizi wa fedha katika Kiswahili sanifu:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 25.3.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Polepole»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Fupi»",
-            "Mpangilio usio sahihi wa viambishi katika «Haraka»"
+            "Akaunti ya akiba, Akaunti ya hundi, Kiwango cha riba, Dhamana ya mkopo, Bima ya afya, Fidia ya hasara, Ukaguzi wa hesabu.",
+            "Benki zote zinatoa fedha bure bila mikopo wala riba.",
+            "Bima ni mkataba wa kugawa zawadi kwa wageni.",
+            "Ukaguzi wa hesabu hufanywa na wanafunzi wa shule ya msingi pekee."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Msamiati sahihi wa kibenki na bima: Akaunti ya akiba, Akaunti ya hundi, Kiwango cha riba, Dhamana, Bima, Fidia, Ukaguzi wa hesabu."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u25-l4": {
@@ -10541,53 +10571,62 @@
     "subject": "swahili",
     "unit": 25,
     "lessonNumber": 4,
-    "title": "Biashara, Uchumi na Fedha za Kidijitali (Commerce & M-Pesa) (Part 4)",
+    "title": "Biashara ya Kimataifa, Bandari na Minyororo ya Ugavi (International Trade & Supply Chains)",
     "level": "C1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 25.4) with authentic precision.",
+    "objective": "Kuelewa na kutumia msamiati wa usafirishaji wa mizigo, bandari kuu za Afrika Mashariki (Dar es Salaam na Mombasa), reli ya kisasa (SGR), minyororo ya ugavi, na urari wa biashara.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Biashara ya Kimataifa, Bandari na Minyororo ya Ugavi (Supply Chains & Logistics):\n\nUchumi wa ukanda wa Afrika Mashariki unategemea minyororo imara ya ugavi na bandari kuu za kimkakati:\n\n1. **Msamiati Mahsusi wa Uchukuzi na Ugavi**:\n   - **Mnyororo wa ugavi (Supply Chain)**: Mfumo mzima wa uzalishaji, usindikaji, na usambazaji wa bidhaa kutoka shambani/kiwandani hadi kwa mlaji.\n   - **Bandari ya Dar es Salaam na Bandari ya Mombasa**: Malango makuu ya baharini yanayohudumia nchi zisizo na pwani (k.m., *Uganda, Rwanda, Burundi, Jamhuri ya Kidemokrasia ya Kongo*).\n   - **Reli ya Kisasa (SGR - Standard Gauge Railway)**: Reli yenye kasi inayounganisha bandari na maeneo ya ndani ya nchi.\n   - **Shehena ya mizigo (Cargo / Freight)**: Wingi wa mizigo inayosafirishwa kwenye meli, treni au malori.\n   - **Bidhaa ghafi (Raw Materials)** na **Bidhaa zilizosindikwa (Processed/Manufactured Goods)**.\n   - **Urari wa biashara (Balance of Trade)**: Tofauti ya thamani kati ya bidhaa zinazosafirishwa nje (exports) na zinazoagizwa kutoka nje (imports).\n\n2. **Miundo ya Kisarufi ya C1**:\n   - *Kwa kuwa miundombinu ya reli imeboreshwa, gharama za usafirishaji zimepungua kwa kiwango kikubwa.* (Since rail infrastructure was upgraded, freight expenses have drastically diminished.)",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 25.4.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 25."
+          "target": "Bandari ya Dar es Salaam na reli ya kisasa ya SGR zinahudumia shehena kubwa za mizigo zinazoelekea nchi jirani zisizo na bandari kama Rwanda, Burundi, na Kongo.",
+          "reading": "Ba-nda-ri ya Dar es Sa-laam na re-li ya ki-sa-sa ya SGR zi-na-hu-du-mia she-he-na kbu-bwa za mi-zi-go zi-na-zo-e-le-ke-a nchi ji-ra-ni si-zo na ba-nda-ri ka-ma Rwa-nda, Bu-ru-ndi, na Ko-ngo. [bɑˈndɑri jɑ dɑr ɛs sɑˈlɑːm nɑ ˈrɛli jɑ kiˈsɑsɑ jɑ ɛsʤiˈɑr zinɑhuduˈmiɑ ʃɛˈhɛnɑ ˈkubwɑ zɑ miˈziɡɔ zinɑzɔɛlɛˈkɛɑ ɲtʃi ʤiˈrɑni ˈsizɔ nɑ bɑˈndɑri ˈkɑmɑ ˈrwɑndɑ buˈrundi nɑ ˈkɔŋɡɔ] (bahn-DAH-ree yah dahr ays sah-LAHM nah RAY-lee yah kee-SAH-sah yah ays-jee-AHR zee-nah-hoo-doo-MEE-ah shay-HAY-nah KOO-bwah zah mee-ZEE-goh zee-nah-zoh-ay-lay-KAY-ah n-CHEE jee-RAH-nee SEE-zoh nah bahn-DAH-ree KAH-mah RWAHN-dah, boo-ROON-dee, nah KOHN-goh)",
+          "translation": "The port of Dar es Salaam and the modern Standard Gauge Railway [SGR] handle voluminous cargo shipments bound for landlocked neighboring nations like Rwanda, Burundi, and the DRC."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 25-4).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Uboreshaji wa miundombinu ya uchukuzi umepunguza muda wa kusafirisha bidhaa ghafi kutoka mashambani hadi viwandani na kuimarisha urari wa biashara.",
+          "reading": "Ubo-re-sha-ji wa miu-ndo-mbi-nu ya uchu-ku-zi ume-pu-ngu-za mu-da wa ku-sa-fi-ri-sha bi-dha-a gha-fi ku-to-ka ma-sha-mba-ni ha-di vi-wa-nda-ni na kui-ma-ri-sha ura-ri wa bia-sha-ra. [ubɔrɛˈʃɑʤi wɑ miundɔˈmbinu jɑ utʃuˈkuzi umɛpuˈŋɡuzɑ ˈmudɑ wɑ kusɑfiriˈʃɑ biˈðɑː ˈɣɑfi kuˈtɔkɑ mɑʃɑmbɑˈni ˈhɑdi viwɑndɑˈni nɑ kuimɑˈriʃɑ uˈrɑri wɑ biɑˈʃɑrɑ] (oo-boh-ray-SHAH-jee wah mee-oon-dohm-BEE-noo yah oo-choo-KOO-zee oo-may-poon-GOO-zah MOO-dah wah koo-sah-fee-ree-SHAH bee-THAH-ah GAH-fee koo-TOH-kah mah-shahm-bah-NEE HAH-dee vee-wahn-dah-NEE nah koo-ee-mah-REE-shah oo-RAH-ree wah bee-ah-SHAH-rah)",
+          "translation": "Enhancement of transit infrastructure has compressed the haulage time for raw commodities from agrarian farms to processing plants, strengthening the international balance of trade."
+        },
+        {
+          "target": "Ushindani wa soko la kimataifa unazitaka kampuni za ndani kuzalisha bidhaa zenye viwango vya juu vya ubora na usalama wa walaji.",
+          "reading": "Ushi-nda-ni wa so-ko la ki-ma-ta-i-fa una-zi-ta-ka ka-mpu-ni za nda-ni ku-za-li-sha bi-dha-a ze-nye vi-wa-ngo vya ju-u vya ubo-ra na usa-la-ma wa wla-ji. [uʃindɑˈni wɑ ˈsɔkɔ lɑ kimɑtɑˈifɑ unɑziˈtɑkɑ kɑmpuˈni zɑ ˈndɑni kuzɑˈliʃɑ biˈðɑː ˈzɛɲɛ viˈwɑŋɡɔ vjɑ ˈʤuː vjɑ uˈbɔrɑ nɑ usɑˈlɑmɑ wɑ ˈwlɑʤi] (oo-sheen-DAH-nee wah SOH-koh lah kee-mah-tah-EE-fah oo-nah-zee-TAH-kah kahm-POO-nee zah N-DAH-nee koo-zah-LEE-shah bee-THAH-ah ZAY-nyay vee-WAHN-goh vyah JOO-oo vyah oo-BOH-rah nah oo-sah-LAH-mah wah W-LAH-jee)",
+          "translation": "Global market competition obliges domestic industrial corporations to manufacture commodities that fulfill premium quality standards and consumer safety regulations."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Usafirishaji na Minyororo ya Ugavi: Bandari (ports), SGR (Standard Gauge Railway), Mnyororo wa ugavi (supply chain), Shehena ya mizigo (freight cargo), Urari wa biashara (trade balance)!"
+      ],
+      "culturalNotes": [
+        "Ukanda wa Kaskazini (Mombasa hadi Uganda/Rwanda) na Ukanda wa Kati (Dar es Salaam hadi Burundi/DRC) ni mishipa mikuu ya kiuchumi ya Afrika Mashariki."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Fupi\":",
+          "prompt": "Tofauti ya thamani kati ya bidhaa ambazo nchi inauza nje (exports) na zile inazoagiza kutoka nje (imports) inaitwaje katika Kiswahili sanifu cha kiuchumi?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 25.4.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Haraka»",
-            "Mpangilio usio sahihi wa viambishi katika «Polepole»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mpya»"
+            "Urari wa biashara (Balance of trade - Correct economic term)",
+            "Mfumuko wa bei",
+            "Nakisi ya chakula",
+            "Mkataba wa amani"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«Urari wa biashara» (balance of trade) ndilo neno sanifu la kulinganisha mauzo ya nje na maagizo ya nje."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Fupi\":",
+          "prompt": "Reli ya kisasa ya usafirishaji wa mizigo na abiria inayounganisha bandari za Afrika Mashariki na miji ya bara inaitwa kwa kifupi gani?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 25.4.",
-            "Mpangilio usio sahihi wa viambishi katika «Polepole»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mpya»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Haraka»"
+            "SGR (Standard Gauge Railway - Reli ya Kisasa)",
+            "ATM",
+            "GDP",
+            "PIN"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«SGR» inasimamia Standard Gauge Railway (Reli ya Kisasa ya Kiwango Sanifu)."
         }
       ]
     },
@@ -10595,17 +10634,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Fupi\": Which sentence is completely correct?",
+          "prompt": "Chagua orodha iliyo sahihi ya maneno ya biashara ya kimataifa, bandari na ugavi katika Kiswahili:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 25.4.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Mpya»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Haraka»",
-            "Mpangilio usio sahihi wa viambishi katika «Polepole»"
+            "Bandari kuu, Reli ya SGR, Mnyororo wa ugavi, Shehena ya mizigo, Bidhaa ghafi, Urari wa biashara, Viwango vya ubora.",
+            "Bandari zote ziko milimani ambako hakuna maji.",
+            "Usafirishaji wa kimataifa hauhitaji meli wala reli.",
+            "Mnyororo wa ugavi ni kamba ya kufungia mifugo pekee."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Msamiati sahihi wa biashara ya kimataifa: Bandari kuu, Reli ya SGR, Mnyororo wa ugavi, Shehena ya mizigo, Bidhaa ghafi, Urari wa biashara."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u25-l5": {
@@ -10613,53 +10653,62 @@
     "subject": "swahili",
     "unit": 25,
     "lessonNumber": 5,
-    "title": "Biashara, Uchumi na Fedha za Kidijitali (Commerce & M-Pesa) (Part 5)",
+    "title": "Muhtasari wa Uchumi, Biashara na Fedha za Kidijitali (Economics, Commerce & Fintech Grand Synthesis)",
     "level": "C1",
-    "objective": "Master Swahili grammar and Bantu noun-class concord for Sarufi ya Kiswahili na Muundo wa Ngeli (Somo 25.5) with authentic precision.",
+    "objective": "Kuunganisha mada zote za Unit 25: uchumi mkuu na patolitaifa, fedha za simu (M-Pesa na mifumo ya kidijitali), benki na bima, pamoja na biashara ya kimataifa na minyororo ya ugavi katika lugha sanifu ya kitaalamu ya C1.",
     "presentation": {
-      "explanation": "",
+      "explanation": "Muhtasari Mkuu wa Uchumi, Biashara na Teknolojia ya Kifedha (Economics & Fintech Master Matrix):\n\n1. **Ujumuishaji wa Nyanja Kuu za Kiuchumi za Kiwango cha C1**:\n   - **Uchumi Mkuu**: Patolitaifa (GDP), udhibiti wa mfumuko wa bei, sera za kikodi, na utangamano wa Soko la Pamoja la Afrika Mashariki (EAC).\n   - **Fedha za Kidijitali (Fintech)**: Miamala ya M-Pesa, usalama wa namba ya siri (PIN), mikopo ya simu, na uchumi usiotumia noti taslimu.\n   - **Benki na Bima**: Akaunti za hundi na akiba, viwango vya riba, dhamana, fidia ya hasara, na ukaguzi huru wa hesabu.\n   - **Minyororo ya Ugavi**: Ufanisi wa Bandari ya Dar es Salaam na Mombasa, reli ya SGR, usafirishaji wa shehena, na uboreshaji wa urari wa biashara.\n\n2. **Umahiri wa Kimawasiliano na Kazi za Kitaalamu**:\n   - Kumudu nyanja hizi kwa lugha ya Kiswahili kunamwezesha mtaalamu kuandika ripoti za kiuchumi, kuongoza majadiliano ya uwekezaji, na kuwasiliana katika viwango vya juu vya kiserikali na kibiashara.",
       "examples": [
         {
-          "target": "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 25.5.",
-          "reading": "[tunɑʤiˈfunzɑ sɑˈrufi sɑˈnifu jɑ kiswɑˈhili] (too-nah-jee-FOON-zah sah-ROO-fee)",
-          "translation": "We learn standard Swahili grammar and noun class agreement in Unit 25."
+          "target": "Mchanganyiko wa sera imara za uchumi mkuu, mapinduzi ya fedha za kidijitali kama M-Pesa, na uwekezaji katika miundombinu ya bandari na reli umeweka ukanda wa Afrika Mashariki katika ramani ya vitovu vinavyokua kwa kasi kiuchumi duniani.",
+          "reading": "Mcha-nga-nyi-ko wa se-ra i-ma-ra za uchu-mi mku-u, ma-pi-ndu-zi ya fe-dha za ki-di-ji-ta-li ka-ma M-Pe-sa, na uwe-ke-za-ji ka-ti-ka miu-ndo-mbi-nu ya ba-nda-ri na re-li ume-we-ka uka-nda wa Afri-ka Ma-sha-ri-ki ka-ti-ka ra-ma-ni ya vi-to-vu vi-na-vyo-kua kwa ka-si kiu-chu-mi du-nia-ni. [mtʃɑŋɡɑˈɲikɔ wɑ ˈsɛrɑ iˈmɑrɑ zɑ utʃuˈmi ˈmkuː mɑpinduˈzi jɑ ˈfɛðɑ zɑ kidiʤiˈtɑli ˈkɑmɑ ɛmˈpɛsɑ nɑ uwɛkɛˈzɑʤi ˈkɑtikɑ miundɔˈmbinu jɑ bɑˈndɑri nɑ ˈrɛli umɛˈwɛkɑ uˈkɑndɑ wɑ ˈɑfrikɑ mɑʃɑˈriki ˈkɑtikɑ rɑˈmɑni jɑ viˈtɔvu vinɑvjɔˈkuɑ kwɑ ˈkɑsi kiutʃuˈmi duniˈɑni] (m-chahn-gah-NYEE-koh wah SAY-rah ee-MAH-rah zah oo-CHOO-mee M-KOO-oo, mah-peen-DOO-zee yah FAY-thah zah kee-dee-jee-TAH-lee KAH-mah aym-PAY-sah, nah oo-way-kay-ZAH-jee KAH-tee-kah mee-oon-dohm-BEE-noo yah bahn-DAH-ree nah RAY-lee oo-may-WAY-kah oo-KAHN-dah wah AHF-ree-kah mah-shah-REE-kee KAH-tee-kah rah-MAH-nee yah vee-TOH-voo vee-nah-vyoh-KOO-ah kwah KAH-see kee-oo-CHOO-mee doo-nee-AH-nee)",
+          "translation": "The nexus of resilient macroeconomic frameworks, digital financial breakthroughs like M-Pesa, and capital expenditure into maritime port and rail networks has established the East African corridor as one of the world's most dynamic growth epicenters."
         },
         {
-          "target": "Tazama jinsi viambishi vinavyopatana vizuri katika sentensi hii (Somo 25-5).",
-          "reading": "[tɑˈzɑmɑ ˈjinsi viɑmˈbiʃi vinɑvjɔpɑˈtɑnɑ] (tah-ZAH-mah YEEN-see)",
-          "translation": "Observe how prefixes agree harmoniously in this sentence."
+          "target": "Kuanzia wachuuzi wa masokoni wanaopokea malipo kwa simu hadi mashirika ya kimataifa yanayowekeza kwenye soko la hisa, lugha ya Kiswahili inathibitisha uwezo wake mpana wa kubeba msamiati wote wa kiuchumi na kifedha wa kisasa.",
+          "reading": "Ku-a-nzia wa-chuu-zi wa ma-so-ko-ni wa-na-o-po-ke-a ma-li-po kwa si-mu ha-di ma-shi-ri-ka ya ki-ma-ta-i-fa ya-na-yo-we-ke-za kwe-nye so-ko la hi-sa, lu-gha ya Ki-swa-hi-li ina-thi-bi-ti-sha uwe-zo wa-ke mpa-na wa ku-be-ba msa-mia-ti wo-te wa kiu-chu-mi na ki-fe-dha wa ki-sa-sa. [kuˈɑnziɑ wɑtʃuːˈzi wɑ mɑsɔkɔˈni wɑnɑɔpɔˈkɛɑ mɑˈlipɔ kwɑ ˈsimu ˈhɑdi mɑʃiˈrikɑ jɑ kimɑtɑˈifɑ jɑnɑjɔwɛˈkɛzɑ ˈkwɛɲɛ ˈsɔkɔ lɑ ˈhisɑ ˈluɣɑ jɑ kiswɑˈhili inɑθibiˈtiʃɑ uˈwɛzɔ ˈwɑkɛ ˈmpɑnɑ wɑ kuˈbɛbɑ msɑmiˈɑti ˈwɔtɛ wɑ kiutʃuˈmi nɑ kiˈfɛðɑ wɑ kiˈsɑsɑ] (koo-AHN-zee-ah wah-choo-OO-zee wah mah-soh-koh-NEE wah-nah-oh-poh-KAY-ah mah-LEE-poh kwah SEE-moo HAH-dee mah-shee-REE-kah yah kee-mah-tah-EE-fah yah-nah-yoh-way-KAY-zah KWAY-nyay SOH-koh lah HEE-sah, LOO-gah yah kee-swah-HEE-lee ee-nah-thee-bee-TEE-shah oo-WAY-zoh WAH-kay M-PAH-nah wah koo-BAY-bah m-sah-mee-AH-tee WOH-tay wah kee-oo-CHOO-mee nah kee-FAY-thah wah kee-SAH-sah)",
+          "translation": "From marketplace micro-merchants accepting cashless mobile payments to multinational enterprises transacting on the stock exchange, the Swahili language proves its exhaustive capacity to articulate all modern economic and financial concepts."
+        },
+        {
+          "target": "Umahiri wa msamiati wa kibenki, bima, na usimamizi wa minyororo ya ugavi unamwezesha mtaalamu kushiriki kwa ujasiri mkubwa katika mikutano ya kimataifa ya kibiashara na kisheria.",
+          "reading": "Uma-hi-ri wa msa-mia-ti wa ki-be-nki, bi-ma, na usi-ma-mi-zi wa mi-nyo-ro-ro ya uga-vi una-mwe-ze-sha mta-a-lu-ma ku-shi-ri-ki kwa uja-si-ri mku-bwa ka-ti-ka mi-ku-ta-no ya ki-ma-ta-i-fa ya ki-bia-sha-ra na ki-she-ria. [umɑˈhiri wɑ msɑmiˈɑti wɑ kiˈbɛŋki ˈbimɑ nɑ usimɑˈmizi wɑ miɲɔˈrɔrɔ jɑ uˈɡɑvi unɑmwɛzɛˈʃɑ mtɑɑˈlumɑ kuʃiˈriki kwɑ uʤɑˈsiri ˈmkubwɑ ˈkɑtikɑ mikuˈtɑnɔ jɑ kimɑtɑˈifɑ jɑ kibiɑˈʃɑrɑ nɑ kiʃɛˈriɑ] (oo-mah-HEE-ree wah m-sah-mee-AH-tee wah kee-BAYN-kee, BEE-mah, nah oo-see-mah-MEE-zee wah mee-nyoh-ROH-roh yah oo-GAH-vee oo-nah-mway-zay-SHAH m-tah-ah-LOO-mah koo-shee-REE-kee kwah oo-jah-SEE-ree M-KOO-bwah KAH-tee-kah mee-koo-TAH-noh yah kee-mah-tah-EE-fah yah kee-bee-ah-SHAH-rah nah kee-shay-REE-ah)",
+          "translation": "Fluency with advanced banking, insurance, and supply chain management terminology empowers a professional to participate with absolute confidence in international statutory and commercial summits."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Uchumi na Fedha Grand Synthesis: Uchumi mkuu & Patolitaifa (GDP); M-Pesa & Fintech; Benki & Bima; Bandari & SGR ugavi!"
+      ],
+      "culturalNotes": [
+        "Ujumuishaji wa masuala ya uchumi katika Kiswahili unathibitisha kwamba Kiswahili ni lugha kamili ya sayansi, fedha, na biashara ya kimataifa ya karne ya 21."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Haraka\":",
+          "prompt": "Ni nguzo zipi zinazounda mfumo jumuishi wa uchumi wa kisasa na teknolojia ya fedha katika ukanda wa Afrika Mashariki?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 25.5.",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Polepole»",
-            "Mpangilio usio sahihi wa viambishi katika «Mpya»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Nzee»"
+            "Uchumi mkuu na patolitaifa, mifumo ya fedha za simu (M-Pesa), huduma za kibenki na bima, na minyororo ya ugavi wa bandari na reli ya SGR (Comprehensive modern economic pillars)",
+            "Ubadilishanaji wa bidhaa kwa mbuzi pekee bila fedha wala simu",
+            "Kufunga mipaka yote ya kibiashara na kuzuia uwekezaji",
+            "Kutumia noti za karatasi zilizochakaa bila benki"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Uchumi wa sasa unajengwa kwa uchumi mkuu, M-Pesa fintech, benki/bima, na miundombinu ya usafirishaji wa SGR na bandari."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Haraka\":",
+          "prompt": "Sentensi ipi inachanganya msamiati wa fedha za simu, benki na biashara ya kimataifa kwa ufasaha wa kiwango cha C1?",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 25.5.",
-            "Mpangilio usio sahihi wa viambishi katika «Mpya»",
-            "Matumizi yasiyo sanifu ya muktadha wa «Nzee»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Polepole»"
+            "Kupitia mfumo wa kidijitali wa benki na M-Pesa, wajasiriamali wanalipia ushuru wa forodha na shehena za mizigo bandarini kwa dakika chache. (Through digital banking and M-Pesa, entrepreneurs pay customs tariffs and port cargo freight within minutes - Correct C1 synthesis)",
+            "Wafanyabiashara wanatembea kwa miguu wiki nzima kupeleka sarafu mipakani.",
+            "Teknolojia ya simu haina nafasi katika biashara ya kimataifa.",
+            "Benki zote zimekataa kufanya kazi na mitandao ya simu za mkononi."
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«mfumo wa kidijitali wa benki na M-Pesa», «wajasiriamali», «ushuru wa forodha», na «shehena za mizigo bandarini» zimeunganishwa kwa muktadha sahihi wa C1."
         }
       ]
     },
@@ -10667,17 +10716,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Haraka\": Which sentence is completely correct?",
+          "prompt": "Chagua sentensi ya kilele inayowakilisha umahiri kamili wa Unit 25 ya Biashara, Uchumi, Masoko na Fedha za Kidijitali:",
           "options": [
-            "Tunajifunza sarufi sanifu ya Kiswahili na upatanisho wa ngeli katika somo la 25.5.",
-            "Matumizi yasiyo sanifu ya muktadha wa «Nzee»",
-            "Dosari ya upatanisho wa ngeli kuhusu neno «Polepole»",
-            "Mpangilio usio sahihi wa viambishi katika «Mpya»"
+            "Kupitia ukuaji wa patolitaifa, mapinduzi ya miamala ya M-Pesa, uimara wa sekta ya benki na bima, na ufanisi wa bandari na reli ya SGR katika usafirishaji wa shehena za kikanda, ukanda wa Afrika Mashariki unaendelea kuongoza katika uchumi wa kidijitali. (Apex C1 synthesis of macroeconomics, fintech, banking, and supply chain logistics.)",
+            "Uchumi wa Afrika Mashariki ulikoma kabisa karne iliyopita.",
+            "M-Pesa na benki hazitambuliwi katika sheria za nchi.",
+            "Lugha ya Kiswahili haiwezi kutumika kuelezea dhana za kisasa za kiuchumi na kibiashara."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Kupitia ukuaji wa patolitaifa, mapinduzi ya miamala ya M-Pesa, uimara wa sekta ya benki na bima, na ufanisi wa bandari na reli ya SGR katika usafirishaji wa shehena za kikanda, ukanda wa Afrika Mashariki unaendelea kuongoza katika uchumi wa kidijitali.» inajumuisha maarifa yote ya Unit 25 kwa ufasaha wa hali ya juu wa C1."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "sw-u26-l1": {
