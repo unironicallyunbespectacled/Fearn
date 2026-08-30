@@ -3765,53 +3765,62 @@
     "subject": "ukrainian",
     "unit": 9,
     "lessonNumber": 1,
-    "title": "Давальний відмінок: непрямий додаток (Dative Case) (Part 1)",
+    "title": "Давальний відмінок: непрямий додаток, адресат дії та специфіка дієслівного керування (Dative Indirect Object)",
     "level": "A2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 9.1) with authentic linguistic precision.",
+    "objective": "Опанувати вживання давального відмінка (кому? чому?) на позначення адресата дії та специфічне керування українських дієслів (дякувати, допомагати, радити, бажати).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Давальний відмінок (Dative Case / кому? чому?) позначає особу, істоту чи предмет, на користь або на адресу яких спрямована дія:\n\n1. Адресат дії (кому?):\n- «Дарувати квіти мамі та сестрі»\n- «Писати важливого листа шановному викладачеві»\n- «Телефонувати найкращому другові щовечора»\n- «Пояснювати нову граматичну тему іноземним студентам»\n\n2. Специфічне дієслівне керування в українській мові (вимагає ДАВАЛЬНОГО відмінка):\n- «Дякувати (кому?) захисникам та захисницям України» (в українській мові дієслово «дякувати» керує ВИКЛЮЧНО давальним відмінком, на відміну від англійського або інших конструкцій!)\n- «Допомагати (кому?) літнім людям та сусідам»\n- «Бажати (кому? чого?) другові міцного здоров'я та успіху»\n- «Радити (кому?) колезі цікаву наукову книгу»\n- «Пробачати (кому?) другові прикрі помилки».",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 9.1.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Ми щиро дякуємо мужнім захисникам за мирне небо та свободу рідної України.",
+          "reading": "[mɪ ˈʃtʃirɔ dʲɑˈkujɛmɔ ˈmuʒnʲim zɐxɪsnɪˈkɑm zɑ ˈmɪrnɛ ˈnɛbɔ tɑ swɔˈbɔdu ˈrʲidnɔjɪ ukrɐˈjinɪ] (my SHCHEE-roh dyah-KOO-yeh-moh MOOZH-neem zah-khys-ny-KAHM zah MYR-neh NEH-boh tah svoh-BOH-doo REED-noh-yee oo-krah-YEE-ny)",
+          "translation": "We sincerely thank the brave defenders for the peaceful sky and the freedom of native Ukraine."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 9-1).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Студентка щодня допомагає своїй молодшій сестрі вивчати складні уроки.",
+          "reading": "[stuˈdɛntkɐ ʃtʃɔdʲˈnʲɑ dɔpɔmɐˈɦɑjɛ swɔˈjij mɔˈlɔdʃij sɛsˈtrʲi wɪwˈtʃɑtɪ sklɐdˈnʲi uˈrɔkɪ] (stoo-DENT-kah shchohd-NYAH doh-poh-mah-HAH-yeh svoh-YEEY moh-LOHD-sheey ses-TREE vyv-CHAH-ty sklahd-NEE oo-ROH-ky)",
+          "translation": "The student helps her younger sister study difficult lessons every day."
+        },
+        {
+          "target": "Професор терпляче пояснює новий матеріал кожному старанному студентові.",
+          "reading": "[prɔˈfɛsɔr tɛrpˈlʲɑtʃɛ pɔjɐsʲˈnʲujɛ nɔˈwɪj mɐtɛrʲiˈɑl ˈkɔʒnɔmu stɐˈrɑnnɔmu stuˈdɛntɔwʲi] (proh-FEH-sohr terp-LYAH-cheh poh-yahs-NYOO-yeh noh-VYI mah-teh-ree-AHL KOZH-noh-moo stah-RAHN-noh-moo stoo-DEN-toh-vee)",
+          "translation": "The professor patiently explains the new material to every diligent student."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "«Кому?» і «Чому?» даруй тепло — другові допоможи, захиснику подякуй щиро й від душі!"
+      ],
+      "culturalNotes": [
+        "Норма «дякую (кому?) другові / батькам» є найважливішим маркером автентичної української мовної самобутності, де калькування зі знахідним відмінком суворо неприпустиме."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Будинок\":",
+          "prompt": "Оберіть речення з правильним граматичним керуванням дієслова «дякувати»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 9.1.",
-            "Неправильне відмінкове узгодження зі словом «Квартира»",
-            "Порушення законів евфонії та словотворення для «Кімната»",
-            "Стилістично некоректна синтаксична конструкція з «Кухня»"
+            "Ми від щирого серця дякуємо шановному викладачеві за мудрі поради. (Dative after дякувати)",
+            "Ми від щирого серця дякуємо шановного викладача за мудрі поради.",
+            "Ми від щирого серця дякуємо шановним викладачем за мудрі поради.",
+            "Ми від щирого серця дякуємо для шановного викладача за мудрі поради."
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Дієслово «дякувати» в українській мові вимагає давального відмінка: «дякуємо (кому?) викладачеві»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Будинок\":",
+          "prompt": "Поставте слово «друг» у форму давального відмінка однини в реченні «Я телефоную ...»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 9.1.",
-            "Порушення законів евфонії та словотворення для «Кімната»",
-            "Стилістично некоректна синтаксична конструкція з «Кухня»",
-            "Неправильне відмінкове узгодження зі словом «Квартира»"
+            "Другові (Preferred masculine Dative ending -ovi)",
+            "Друга",
+            "Другом",
+            "Друзі"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Іменник чоловічого роду «друг» у давальному відмінку має нормативне закінчення «-ові»: «другові»."
         }
       ]
     },
@@ -3819,17 +3828,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Будинок\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому ВСІ іменники у ролі адресата дії стоять у правильній формі давального відмінка:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 9.1.",
-            "Стилістично некоректна синтаксична конструкція з «Кухня»",
-            "Неправильне відмінкове узгодження зі словом «Квартира»",
-            "Порушення законів евфонії та словотворення для «Кімната»"
+            "Оксана подарувала цікаву книгу братові, а квіти — улюбленій мамі.",
+            "Оксана подарувала цікаву книгу брата, а квіти — улюблену маму.",
+            "Оксана подарувала цікаву книгу братом, а квіти — улюбленою мамою.",
+            "Оксана подарувала цікаву книгу на браті, а квіти — на улюбленій мамі."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Братові» (чол. рід, -ові) та «мамі» (жін. рід, -і) — бездоганні форми адресата дії в давальному відмінку."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u9-l2": {
@@ -3837,53 +3847,62 @@
     "subject": "ukrainian",
     "unit": 9,
     "lessonNumber": 2,
-    "title": "Давальний відмінок: непрямий додаток (Dative Case) (Part 2)",
+    "title": "Безособові конструкції суб'єкта стану: вік, самопочуття, модальність та дієслова на -ся (Impersonal Dative)",
     "level": "A2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 9.2) with authentic linguistic precision.",
+    "objective": "Опанувати вживання давального відмінка для позначення логічного суб'єкта у безособових реченнях (вік, психофізичний стан, модальні слова та предикативи).",
     "presentation": {
-      "explanation": "",
+      "explanation": "В українській мові особа, яка відчуває стан або якій належить модальна дія, виражається формою ДАВАЛЬНОГО відмінка:\n\n1. Позначення віку (кому? скільки років?):\n- «Мені двадцять років»\n- «Моєму старшому братові виповнилося тридцять років»\n- «Скільки років вашій доньці?»\n\n2. Психофізичний стан та почуття (предикативи на «-о»):\n- «Мені дуже холодно / тепло / затишно в цій кімнаті»\n- «Студентам радісно та цікаво на уроці»\n- «Йому стало сумно від цих спогадів»\n\n3. Модальні предикативні слова (треба, потрібно, можна, варто, слід, личить):\n- «Нам треба старанно вчитися»\n- «Студентові слід вчасно здавати завдання»\n- «Тобі варто відвідати старовинний Львів»\n- «Вам можна зайти до кабінету»\n\n4. Безособові зворотні дієслова (здається, сниться, хочеться, подобається):\n- «Мені здається, що ми все зробили правильно»\n- «Їй дуже подобається вивчати українську культуру».",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 9.2.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Мені дуже подобається читати класичні поезії Тараса Шевченка вечорами.",
+          "reading": "[mɛˈnʲi ˈduʒɛ pɔˈdɔbɐjɛtʲsʲɑ tʃɪˈtɑtɪ klɐˈsɪtʃnʲi pɔˈɛzʲijɪ tɐˈrɑsɑ ʃɛwˈtʃɛnkɑ wɛtʃɔˈrɑmɪ] (meh-NEE DOO-zheh poh-DOH-bah-yet'-syah chy-TAH-ty klah-SYCH-nee poh-EH-zee-yee tah-RAH-sah shev-CHEN-kah veh-choh-RAH-my)",
+          "translation": "I like reading the classic poems of Taras Shevchenko in the evenings very much."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 9-2).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Моєму молодшому братові нещодавно виповнилося двадцять років.",
+          "reading": "[mɔˈjɛmu mɔˈlɔdʃɔmu ˈbrɑtɔwʲi nɛʃtʃɔˈdɑwnɔ wɪˈpɔwnɪlɔsʲɑ ˈdwɑdt͡sʲɑtʲ ˈrɔkʲiw] (moh-YEH-moo moh-LOHD-shoh-moo BRAH-toh-vee neh-shchoh-DAHV-noh vy-POHV-ny-lohs'-yah DVAHD-tsyaht' roh-KEEV)",
+          "translation": "My younger brother recently turned twenty years old."
+        },
+        {
+          "target": "Усім студентам варто уважно слухати цінні поради досвідченого викладача.",
+          "reading": "[uˈsʲim stuˈdɛntɐm ˈwɑrtɔ uˈwɑʒnɔ ˈsluxɑtɪ ˈt͡sʲinːʲi pɔˈrɑdɪ dɔsʲˈwʲidtʃɛnɔɦɔ wɪklɐdɐˈtʃɑ] (oo-SEEM stoo-DEN-tahm VAHR-toh oo-VAHZH-noh SLOO-khah-ty TSEEN-nee poh-RAH-dy dos-VEED-cheh-noh-hoh vy-klah-dah-CHAH)",
+          "translation": "All students should attentively listen to the valuable advice of the experienced teacher."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Мені холодно, мені двадцять, мені треба знати — давальний суб'єкт стану вміє відчувати!"
+      ],
+      "culturalNotes": [
+        "Безособові конструкції з давальним суб'єктом («мені хочеться», «йому вдалося») надають українському мовленню особливої м'якості, витонченості та щирої емоційності."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Квартира\":",
+          "prompt": "Оберіть речення, в якому вік людини виражено граматично правильно:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 9.2.",
-            "Неправильне відмінкове узгодження зі словом «Кімната»",
-            "Порушення законів евфонії та словотворення для «Кухня»",
-            "Стилістично некоректна синтаксична конструкція з «Вікно»"
+            "Моїй сестрі виповнилося вісімнадцять років. (Dative for age: моїй сестрі)",
+            "Моя сестра виповнилося вісімнадцять років.",
+            "Мою сестру виповнилося вісімнадцять років.",
+            "Моєю сестрою виповнилося вісімнадцять років."
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Суб'єкт віку в українській мові завжди вживається у давальному відмінку: «моїй сестрі»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Квартира\":",
+          "prompt": "Поставте особовий займенник «ми» у давальний відмінок у модальному реченні «... треба поспішати»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 9.2.",
-            "Порушення законів евфонії та словотворення для «Кухня»",
-            "Стилістично некоректна синтаксична конструкція з «Вікно»",
-            "Неправильне відмінкове узгодження зі словом «Кімната»"
+            "Нам (Dative of ми)",
+            "Ми",
+            "Нас",
+            "Нами"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Займенник «ми» у давальному відмінку має форму «нам»: «нам треба»."
         }
       ]
     },
@@ -3891,17 +3910,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Квартира\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, де суб'єкт стану або модальності оформлено з помилкою:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 9.2.",
-            "Стилістично некоректна синтаксична конструкція з «Вікно»",
-            "Неправильне відмінкове узгодження зі словом «Кімната»",
-            "Порушення законів евфонії та словотворення для «Кухня»"
+            "Я дуже холодно в цій просторій кімнаті.",
+            "Мені дуже холодно в цій просторій кімнаті.",
+            "Студентам цікаво слухати нову лекцію.",
+            "Тобі варто більше відпочивати на свіжому повітрі."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "Речення «Я дуже холодно» містить грубу помилку. Правильно вжити давальний відмінок: «Мені дуже холодно»."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u9-l3": {
@@ -3909,53 +3929,62 @@
     "subject": "ukrainian",
     "unit": 9,
     "lessonNumber": 3,
-    "title": "Давальний відмінок: непрямий додаток (Dative Case) (Part 3)",
+    "title": "Морфологія давального відмінка чоловічого роду: першість питомих закінчень -ові / -еві / -єві (Dative Endings -ovi/-evi)",
     "level": "A2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 9.3) with authentic linguistic precision.",
+    "objective": "Опанувати домінантні питомі закінчення давального відмінка чоловічого роду (-ові, -еві, -єві), запобігання одноманітності закінчень при сполученні кількох іменників.",
     "presentation": {
-      "explanation": "",
+      "explanation": "В українській мові іменники чоловічого роду II відміни у давальному відмінку мають паралельні закінчення «-ові / -еві / -єві» та «-у / -ю»:\n\n1. Закінчення «-ові / -еві / -єві» є ПРІОРИТЕТНИМИ та стилістично виразними:\n- Тверда основа -> «-ові»:\n  • «Брат -> братові», «батько -> батькові», «студент -> студентові», «директор -> директорові».\n- М'яка та мішана групи -> «-еві»:\n  • «Вчитель -> вчителеві», «лікар -> лікареві», «товариш -> товаришеві», «хлопець -> хлопцеві».\n- Основи на [й] -> «-єві»:\n  • «Герой -> героєві», «Сергій -> Сергієві», «край -> краєві».\n\n2. Закінчення «-у / -ю»:\n- Є вторинним варіантом для чоловічого роду: «брату», «вчителю», «герою».\n\n3. Правило чергування при збігу двох іменників поруч (уникнення тавтології):\n- Якщо поруч стоять два іменники чоловічого роду в давальному відмінку, їхні закінчення варіюють:\n  • «Панові директору» (або «пану директорові»)\n  • «Нашому другові Тарасу» (або «нашому другу Тарасові»)\n  • «Професорові Івану Іваненку».",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 9.3.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Ми щиро бажаємо шановному панові ректору міцного здоров'я та нових звершень.",
+          "reading": "[mɪ ˈʃtʃirɔ bɐˈʒɑjɛmɔ ʃɐˈnɔwnɔmu ˈpɑnɔwʲi ˈrɛktɔru mʲit͡sˈnɔɦɔ zdɔˈrɔwjɑ tɑ nɔˈwɪx zwɛrˈʃɛnʲ] (my SHCHEE-roh bah-ZHAH-yeh-moh shah-NOHV-noh-moo PAH-noh-vee REK-toh-roo meets-NOH-hoh zdoh-ROHV-yah tah noh-VYKH zver-SHEN')",
+          "translation": "We sincerely wish the esteemed mister rector strong health and new accomplishments."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 9-3).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Він передав важливий науковий звіт провідному лікареві нашої лікарні.",
+          "reading": "[wʲin pɛrɛˈdɑw wɑʒˈlɪwɪj nɐuˈkɔwɪj zwʲit prɔwʲidˈnɔmu ˈlʲikɐrɛwʲi ˈnɑʃɔjɪ lʲiˈkɑrnʲi] (VEEN peh-reh-DAHV vahzh-LY-vyi nah-oo-KOH-vyi ZVEET proh-veed-NOH-moo LEE-kah-reh-vee NAH-shoh-yee lee-KAHR-nee)",
+          "translation": "He handed over the important scientific report to the leading physician of our hospital."
+        },
+        {
+          "target": "Усі щиро аплодують молодому героєві за його мужній та сміливий вчинок.",
+          "reading": "[uˈsʲi ˈʃtʃirɔ ɐplɔˈdujutʲ mɔlɔˈdɔmu ɦɛˈrɔjɛwʲi zɑ jɔˈɦɔ ˈmuʒnʲij tɑ sʲmʲiˈlɪwɪj ˈwtʃɪnɔk] (oo-SEE SHCHEE-roh ah-ploh-DOO-yoot' moh-loh-DOH-moo heh-ROH-yeh-vee zah yoh-HOH MOOZH-neey tah smee-LY-vyi VCHY-nohk)",
+          "translation": "Everyone sincerely applauds the young hero for his brave and courageous deed."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Братові, лікареві, героєві пиши — солов'їне «-ові / -еві» у серці збережи!"
+      ],
+      "culturalNotes": [
+        "Форми на «-ові/-еві» є однією з головних граматичних відмінностей української мови серед слов'янських мов, яка зберігає живу давньоруську традицію."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Кімната\":",
+          "prompt": "Оберіть пару слів із правильним чергуванням закінчень для виразу «пан професор» у давальному відмінку:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 9.3.",
-            "Неправильне відмінкове узгодження зі словом «Кухня»",
-            "Порушення законів евфонії та словотворення для «Вікно»",
-            "Стилістично некоректна синтаксична конструкція з «Двері»"
+            "Панові професору (Alternating -ovi and -u endings)",
+            "Панові професорові",
+            "Пану професору",
+            "Паном професором"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Щоб уникнути одноманітності закінчень (-ові...-ові або -у...-у), перше слово ставлять на «-ові», а друге — на «-у»: «панові професору»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Кімната\":",
+          "prompt": "Яке нормативне закінчення матиме м'який іменник «лікар» у давальному відмінку однини?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 9.3.",
-            "Порушення законів евфонії та словотворення для «Вікно»",
-            "Стилістично некоректна синтаксична конструкція з «Двері»",
-            "Неправильне відмінкове узгодження зі словом «Кухня»"
+            "Закінчення -еві: лікареві (Soft stem masculine Dative takes -evi)",
+            "Закінчення -ові: лікарові",
+            "Закінчення -ом: лікарем",
+            "Закінчення -і: лікарі"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Іменники м'якої групи чоловічого роду у давальному відмінку приймають закінчення «-еві»: «лікареві»."
         }
       ]
     },
@@ -3963,17 +3992,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Кімната\": Which sentence is completely correct?",
+          "prompt": "Оберіть рядок, у якому ВСІ іменники чоловічого роду мають бездоганні закінчення давального відмінка:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 9.3.",
-            "Стилістично некоректна синтаксична конструкція з «Двері»",
-            "Неправильне відмінкове узгодження зі словом «Кухня»",
-            "Порушення законів евфонії та словотворення для «Вікно»"
+            "Братові, вчителеві, героєві, панові, деканові",
+            "Братом, учителем, героєм, паном, деканом",
+            "Браті, вчителі, герої, пані, декані",
+            "Брата, вчителя, героя, пана, декана"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Братові» (-ові), «вчителеві» (-еві), «героєві» (-єві), «панові» (-ові), «деканові» (-ові) — еталонні давальні закінчення."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u9-l4": {
@@ -3981,53 +4011,62 @@
     "subject": "ukrainian",
     "unit": 9,
     "lessonNumber": 4,
-    "title": "Давальний відмінок: непрямий додаток (Dative Case) (Part 4)",
+    "title": "Давальний відмінок іменників жіночого та середнього роду: закінчення -і (з чергуванням г/з, к/ц, х/с) та -у/-ю (Dative Feminine & Neuter)",
     "level": "A2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 9.4) with authentic linguistic precision.",
+    "objective": "Опанувати творення давального відмінка жіночого роду (закінчення -і з обов'язковими чергуваннями приголосних) та середнього роду (закінчення -у/-ю).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Іменники жіночого та середнього роду у давальному відмінку однини мають такі чіткі правила творення:\n\n1. Жіночий рід (I та III відміни):\n- Закінчення «-і»:\n  • «Мама -> мамі», «сестра -> сестрі», «пісня -> пісні», «земля -> землі», «мрія -> мрії».\n- ОБОВ'ЯЗКОВІ чергування приголосних перед «-і»:\n  • [г] -> [з']: «Ольга -> Ользі», «книга -> книзі», «дорога -> дорозі».\n  • [к] -> [ц']: «дочка -> дочці», «сестричка -> сестричці», «рука -> руці», «аптека -> аптеці».\n  • [х] -> [с']: «муха -> мусі», «невістка -> невістці».\n- Іменники III відміни на приголосний: закінчення «-і» («ночі», «радості», «матері»).\n\n2. Середній рід (II та IV відміни):\n- Закінчення «-у / -ю»:\n  • «Місто -> місту», «село -> селу», «вікно -> вікну».\n  • «Море -> морю», «поле -> полю», «життя -> життю», «серце -> серцю».\n  • (Рідше для персоніфікованих істот середнього роду: «дитяті / дитяткові»).",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 9.4.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Батько ніжно посміхнувся своїй малій дочці та подарував їй яскраву іграшку.",
+          "reading": "[ˈbɑtʲkɔ ˈnʲiʒnɔ pɔsʲmʲixˈnuwsʲɑ swɔˈjij mɐˈlʲij dɔtʃˈt͡sʲi tɑ pɔdɐruˈwɑw jij jɐsˈkrɑwu iɦˈrɑʃku] (BAHT'-koh NEEZH-noh pohs-meekh-NOOV-syah svoh-YEEY mah-LEEY dohch-TSEE tah poh-dah-roo-VAHV yeey yahs-KRAH-voo eeh-RAHSH-koo)",
+          "translation": "The father smiled tenderly at his little daughter and gave her a bright toy."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 9-4).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Ми завдячуємо рідному місту за незабутні роки щасливого студентського життя.",
+          "reading": "[mɪ zɐwˈdʲɑtʃujɛmɔ ˈrʲidnɔmu ˈmʲistu zɑ nɛzɐˈbutnʲi ˈrɔkɪ ʃtʃɐsˈlɪwɔɦɔ stuˈdɛnt͡sʲkɔɦɔ ʒɪtʲˈtʲɑ] (my zahv-DYAH-choo-yeh-moh REED-noh-moo MEES-too zah neh-zah-BOOT-nee ROH-ky shchahs-LY-voh-hoh stoo-DENT-s'koh-hoh zhyt-TYAH)",
+          "translation": "We are obliged to our native city for unforgettable years of happy student life."
+        },
+        {
+          "target": "Студенти передали щирі вітання викладачці Ользі з нагоди ювілею.",
+          "reading": "[stuˈdɛntɪ pɛrɛdɐˈlɪ ˈʃtʃirʲi wʲiˈtɑnʲːɑ wɪklɐˈdɑt͡ʃt͡sʲi ˈɔlʲzʲi z nɐˈɦɔdɪ juwʲiˈlɛju] (stoo-DEN-ty peh-reh-dah-LY SHCHEE-ree vee-TAHN-nyah vy-klah-DAHCH-tsee OHL'-zee z nah-HOH-dy yoo-vee-LEH-yoo)",
+          "translation": "The students passed sincere congratulations to teacher Olha on the occasion of the anniversary."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Дочка — дочці, Ольга — Ользі, рука — руці: чергуй приголосні в давальнім жіночім вінці!"
+      ],
+      "culturalNotes": [
+        "Чергування в іменах на -га та -ка («Ольга -> Ользі», «Оксана -> Оксанці») є строгою граматичною нормою чемного звертання та присвяти."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Кухня\":",
+          "prompt": "Поставте жіноче ім'я «Ольга» у правильну форму давального відмінка:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 9.4.",
-            "Неправильне відмінкове узгодження зі словом «Вікно»",
-            "Порушення законів евфонії та словотворення для «Двері»",
-            "Стилістично некоректна синтаксична конструкція з «Стіл»"
+            "Ользі (g -> z consonant mutation before -i)",
+            "Ольгі",
+            "Ольгу",
+            "Ольгою"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Перед закінченням «-і» кінцевий приголосний основи [г] чергується з [з']: «Ользі»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Кухня\":",
+          "prompt": "Яке закінчення матиме іменник середнього роду «сонце» у давальному відмінку однини?",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 9.4.",
-            "Порушення законів евфонії та словотворення для «Двері»",
-            "Стилістично некоректна синтаксична конструкція з «Стіл»",
-            "Неправильне відмінкове узгодження зі словом «Вікно»"
+            "Закінчення -ю: сонцю (Neuter soft stem Dative takes -yu)",
+            "Закінчення -і: сонці",
+            "Закінчення -ем: сонцем",
+            "Закінчення -а: сонця"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Іменники середнього роду з м'якою основою у давальному відмінку набувають закінчення «-ю»: «сонцю»."
         }
       ]
     },
@@ -4035,17 +4074,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Кухня\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому правильно реалізовано всі чергування та закінчення давального відмінка:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 9.4.",
-            "Стилістично некоректна синтаксична конструкція з «Стіл»",
-            "Неправильне відмінкове узгодження зі словом «Вікно»",
-            "Порушення законів евфонії та словотворення для «Двері»"
+            "Брат допоміг малій сестричці та написав листа подрузі Ользі.",
+            "Брат допоміг малій сестричкі та написав листа подругі Ольгі.",
+            "Брат допоміг малій сестричку та написав листа подругу Ольгу.",
+            "Брат допоміг малій сестричкою та написав листа подругою Ольгою."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Сестричці» (к->ц) та «подрузі Ользі» (г->з) — абсолютно точні нормативні форми."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u9-l5": {
@@ -4053,53 +4093,62 @@
     "subject": "ukrainian",
     "unit": 9,
     "lessonNumber": 5,
-    "title": "Давальний відмінок: непрямий додаток (Dative Case) (Part 5)",
+    "title": "Давальний відмінок із питомими прийменниками: «завдяки», «всупереч», «назустріч», «наперекір» (Dative Prepositions)",
     "level": "A2",
-    "objective": "Master Ukrainian grammar and syntax for Граматична система та стилістика (Тема 9.5) with authentic linguistic precision.",
+    "objective": "Опанувати прийменникове керування давального відмінка з прийменниками причини, протидії та зустрічного напрямку (завдяки, всупереч, назустріч, наперекір).",
     "presentation": {
-      "explanation": "",
+      "explanation": "Давальний відмінок поєднується з особливою групою похідних прийменників:\n\n1. Прийменник «завдяки» (Thanks to / Due to — позитивна причина чи сприяння):\n- «Завдяки наполегливій праці студент досяг успіху»\n- «Завдяки допомозі вірних друзів ми подолали всі труднощі»\n- «Завдяки сучасним технологіям навчання стало доступнішим»\n\n2. Прийменники протидії «всупереч» та «наперекір» (In spite of / Despite / Contrary to):\n- «Всупереч складним погодним умовам літак приземлився вчасно»\n- «Всупереч усім сумнівам ми віримо в нашу спільну перемогу»\n- «Наперекір штормовому вітру корабель впевнено йшов уперед»\n\n3. Прийменник зустрічного руху «назустріч» (Towards):\n- «Йти назустріч сонцю та вітру»\n- «Маленька дитина радісно біжить назустріч мамі»\n- «Ми впевнено крокуємо назустріч світлому майбутньому».",
       "examples": [
         {
-          "target": "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 9.5.",
-          "reading": "[mɪ wɪwˈtʃɑjɛmɔ ɦrɐmɐˈtɪtʃnʲi ˈnɔrmɪ] (my vyv-CHAH-ye-mo)",
-          "translation": "We study the grammatical norms and rules of Ukrainian speech."
+          "target": "Завдяки щоденній наполегливій праці студенти блискуче склали всі іспити.",
+          "reading": "[zɐwˈdʲɑkɪ ʃtʃɔˈdɛnnʲij nɐpɔˈlɛɦlɪwʲij ˈprɑt͡sʲi stuˈdɛntɪ ˈblɪsʲkutʃɛ sklɑˈlɪ wsʲi isˈpɪtɪ] (zahv-DYAH-ky shchoh-DEN-neey nah-poh-LEH-hly-veey PRAH-tsee stoo-DEN-ty BLYS'-koo-cheh sklah-LY VSEE ees-PY-ty)",
+          "translation": "Thanks to daily diligent work the students passed all exams brilliantly."
         },
         {
-          "target": "Зверніть увагу на правильну інтонацію та наголос у цьому прикладі (Урок 9-5).",
-          "reading": "[zwɛrˈnʲitʲ uˈwɑɦu nɑ ˈprɑwɪlʲnu intɔˈnɑtsʲiju] (zver-NEET oo-VAH-hoo)",
-          "translation": "Pay attention to correct intonation and stress in this example."
+          "target": "Всупереч усім суворим перешкодам український народ відстояв свою незалежність.",
+          "reading": "[wsuˈpɛrɛtʃ uˈsʲim suˈwɔrɪm pɛrɛʃˈkɔdɐm ukrɐˈjinʲsʲkɪj nɐˈrɔd wʲidstɔˈjɑw swɔˈju nɛzɐˈlɛʒnʲisʲtʲ] (vsoo-PEH-rech oo-SEEM soo-VOH-rym peh-rehsh-KOH-dahm oo-krah-YEEN-s'kyi nah-ROHD veed-stoh-YAHV svoh-YOO neh-zah-LEHZH-neest')",
+          "translation": "Despite all severe obstacles the Ukrainian people defended their independence."
+        },
+        {
+          "target": "Маленька дівчинка з радісною посмішкою біжить назустріч рідному батькові.",
+          "reading": "[mɐˈlɛnʲkɐ ˈdʲiwtʃɪnkɐ z ˈrɑdʲisnɔju pɔsʲˈmʲiʃkɔju bʲiˈʒɪtʲ nɐˈzustrʲitʃ ˈrʲidnɔmu ˈbɑtʲkɔwʲi] (mah-LEN'-kah DEEV-chyn-kah z RAH-dees-noh-yoo pohs-MEESH-koh-yoo bee-ZHYT' nah-ZOOST-reech REED-noh-moo BAHT'-koh-vee)",
+          "translation": "The little girl runs towards her dear father with a joyful smile."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Завдяки й назустріч, всупереч й наперекір — давальний відмінок руйнує бар'єр з давніх пір!"
+      ],
+      "culturalNotes": [
+        "Прийменник «завдяки» вживається лише тоді, коли причина сприяла позитивному наслідку (не можна казати *завдяки хворобі, слід: «через хворобу»)."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"Вікно\":",
+          "prompt": "Оберіть речення, в якому прийменник «завдяки» правильно вжито з давальним відмінком:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 9.5.",
-            "Неправильне відмінкове узгодження зі словом «Двері»",
-            "Порушення законів евфонії та словотворення для «Стіл»",
-            "Стилістично некоректна синтаксична конструкція з «Стілець»"
+            "Завдяки підтримці друзів ми завершили цей великий проєкт. (Thanks to support - Dative after завдяки)",
+            "Завдяки підтримку друзів ми завершили цей великий проєкт.",
+            "Завдяки підтримкою друзів ми завершили цей великий проєкт.",
+            "Завдяки підтримки друзів ми завершили цей великий проєкт."
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "Прийменник «завдяки» вимагає виключно давального відмінка: «завдяки підтримці»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"Вікно\":",
+          "prompt": "Поставте слово «вітер» у форму давального відмінка після прийменника напрямку «йти назустріч ...»:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 9.5.",
-            "Порушення законів евфонії та словотворення для «Стіл»",
-            "Стилістично некоректна синтаксична конструкція з «Стілець»",
-            "Неправильне відмінкове узгодження зі словом «Двері»"
+            "Вітрові (Towards the wind - Dative after назустріч)",
+            "Вітру",
+            "Вітром",
+            "Вітра"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "Після прийменника «назустріч» іменник чоловічого роду приймає давальне закінчення «-ові»: «назустріч вітрові»."
         }
       ]
     },
@@ -4107,17 +4156,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"Вікно\": Which sentence is completely correct?",
+          "prompt": "Оберіть речення, в якому ВСІ іменники після давальних прийменників стоять у правильній формі:",
           "options": [
-            "Ми вивчаємо граматичні норми та правила українського мовлення на уроці 9.5.",
-            "Стилістично некоректна синтаксична конструкція з «Стілець»",
-            "Неправильне відмінкове узгодження зі словом «Двері»",
-            "Порушення законів евфонії та словотворення для «Стіл»"
+            "Всупереч труднощам і завдяки мудрому керівникові команда здобула блискучу перемогу.",
+            "Всупереч труднощами і завдяки мудрим керівником команда здобула блискучу перемогу.",
+            "Всупереч труднощів і завдяки мудрого керівника команда здобула блискучу перемогу.",
+            "Всупереч труднощі і завдяки мудрий керівник команда здобула блискучу перемогу."
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«Всупереч труднощам» та «завдяки керівникові» стоять у формі давального відмінка (множини та однини)."
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "uk-u10-l1": {
