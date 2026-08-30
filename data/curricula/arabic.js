@@ -4021,85 +4021,89 @@
     "subject": "arabic",
     "unit": 7,
     "lessonNumber": 1,
-    "title": "الفعل الماضي والتعبير عن التجارب (Past Tense & Experience) (الدرس 1)",
+    "title": "تصريف الفعل الماضي المجرد للضمائر المفردة (Past Tense Conjugation: Singular Pronouns)",
     "level": "A2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: تصريف الفعل الماضي، علامات البناء، والتعبير عن الأحداث السابقة والتجارب المكتملة. (الجزء 1).",
+    "objective": "إتقان تصريف الفعل الماضي الصحيح المجرد مع ضمائر المفرد (أنا، أنتَ، أنتِ، هو، هي)، ومعرفة علامات بنائه على الفتح أو السكون عند اتصاله بتاء الفاعل وتاء التأنيث.",
     "presentation": {
-      "explanation": "",
+      "explanation": "الفعل الماضي في اللغة العربية يدل على حدث وقع في الزمن الماضي واكتمل قبل زمن التكلم، وهو فعل مبني دائمًا:\n\nأولاً: تصريف الماضي مع ضمائر المفرد (Singular Pronouns):\n1.【أَنَا (1st Person Sing.)】: يتصل بتاء الفاعل المضمومة (تُ) -> «أَنَا كَتَبْتُ» [katabtu]، «أَنَا دَرَسْتُ» [darastu]، «أَنَا سَافَرْتُ» [sāfartu] (مبني على السكون).\n2.【أَنْتَ (2nd Person Masc. Sing.)】: يتصل بتاء الفاعل المفتوحة (تَ) -> «أَنْتَ كَتَبْتَ» [katabta]، «أَنْتَ دَرَسْتَ» [darasta] (مبني على السكون).\n3.【أَنْتِ (2nd Person Fem. Sing.)】: يتصل بتاء الفاعل المكسورة (تِ) -> «أَنْتِ كَتَبْتِ» [katabti]، «أَنْتِ دَرَسْتِ» [darasti] (مبني على السكون - تاء مكسورة بلا ياء).\n4.【هُوَ (3rd Person Masc. Sing.)】: الصيغة الأصلية المجردة -> «هُوَ كَتَبَ» [kataba]، «هُوَ دَرَسَ» [darasa] (مبني على الفتح الظاهر).\n5.【هِيَ (3rd Person Fem. Sing.)】: تتصل به تاء التأنيث الساكنة (تْ) -> «هِيَ كَتَبَتْ» [katabat]، «هِيَ دَرَسَتْ» [darasat] (مبني على الفتح).\n\nثانياً: أحكام البناء الإعرابية:\n- يُبنى الفعل الماضي على **السُّكُونِ** إذا اتصلت به ضمائر الرفع المتحركة (تاء الفاعل: كَتَبْتُ، كَتَبْتَ، كَتَبْتِ).\n- يُبنى الفعل الماضي على **الفَتْحِ** إذا لم يتصل به شيء أو اتصلت به تاء التأنيث الساكنة (كَتَبَ، كَتَبَتْ).",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الفعل الماضي والتعبير عن التجارب (Past Tense & Experience)» بأسلوب أكاديمي دقيق (7.1.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الفعل الماضي والتعبير عن التجارب (Past Tense & Experience)' to students in an accurate academic style."
+          "target": "سَافَرْتُ أَمْسِ إِلَى مَدِينَةِ فَاسَ التَّارِيخِيَّةِ، وَزُرْتُ جَامِعَ القَرَوِيِّينَ العَرِيقَ.(Sāfartu amsi ilā madīnati Fāsa at-tārīkhiyyah, wa-zurtu jāmiʿa al-Qarawiyyīna al-ʿarīq.)",
+          "reading": "[saː.far.tu ʔam.si ʔi.laː ma.diː.na.ti faː.sa‿t.taː.riː.xij.jah, wa.zur.tu ʒaː.mi.ʕa‿l.qa.ra.wij.jiː.na‿l.ʕa.riːq] (Sā-far-tu am-si i-lā ma-dī-na-ti Fā-sa at-tā-rī-khiy-yah, wa-zur-tu jā-mi-ʿa al-Qa-ra-wiy-yī-na al-ʿa-rīq.)",
+          "translation": "I traveled yesterday to the historical city of Fez, and visited the ancient al-Qarawiyyin Mosque."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (7.1.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "هَلْ قَرَأْتَ هٰذَا الكِتَابَ القَيِّمَ يَا خَالِدُ؟ — نَعَمْ، قَرَأْتُهُ وَاسْتَفَدْتُ مِنْهُ كَثِيرًا.(Hal qaraʾta hādhā al-kitāba al-qayyima yā Khālid? — Naʿam, qaraʾtuhu wa-stafadtu minhu kathīrā.)",
+          "reading": "[hal qa.raʔ.ta haː.ðaː‿l.ki.taː.ba‿l.qaj.ji.ma jaː xaː.lid? — na.ʕam, qa.raʔ.tu.hu was.ta.fad.tu min.hu ka.θiː.raː] (Hal qa-raʾ-ta hā-dhā al-ki-tā-ba al-qay-yi-ma yā Khā-lid? — Na-ʿam, qa-raʾ-tu-hu wa-sta-fad-tu min-hu ka-thī-rā.)",
+          "translation": "Did you read this valuable book, Khalid? — Yes, I read it and benefited from it greatly."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (7.1.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "دَرَسَتْ مَرْيَمُ فِي كُلِّيَّةِ الطِّبِّ وَتَخَرَّجَتْ بِتَفَوُّقٍ بَاهِرٍ فِي العَامِ المَاضِي.(Darasat Maryamu fī kulliyyati aṭ-ṭibbi wa-takharrajat bi-tafawwuqin bāhirin fī al-ʿāmi al-māḍī.)",
+          "reading": "[da.ra.sat mar.ja.mu fiː kul.lij.ja.ti‿tˤ.tˤib.bi wa.ta.xar.ra.ʒat bi.ta.faw.wu.qin baː.hi.rin fiː‿l.ʕaː.mi‿l.maː.dˤiː] (Da-ra-sat Mar-ya-mu fī kul-liy-ya-ti aṭ-ṭib-bi wa-ta-khar-ra-jat bi-ta-faw-wu-qin bā-hi-rin fī al-ʿā-mi al-mā-ḍī.)",
+          "translation": "Maryam studied at the faculty of medicine and graduated with dazzling excellence last year."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (7.1.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "يُبْنَى الفِعْلُ المَاضِي عَلَى السُّكُونِ عِنْدَ اتِّصَالِهِ بِتَاءِ الفَاعِلِ، وَعَلَى الفَتْحِ فِي أَصْلِهِ.(Yubnā al-fiʿlu al-māḍī ʿalā as-sukūni ʿinda ittiṣālihi bi-tāʾi al-fāʿil, wa-ʿalā al-fatḥi fī aṣlih.)",
+          "reading": "[jub.naː‿l.fiʕ.lu‿l.maː.dˤiː ʕa.laː‿s.su.kuː.ni ʕin.da‿it.ti.sˤaː.li.hi bi.taː.ʔi‿l.faː.ʕil, wa.ʕa.laː‿l.fat.ħi fiː ʔasˤ.lih] (Yub-nā al-fiʿ-lu al-mā-ḍī ʿa-lā as-su-kū-ni ʿin-da it-ti-ṣā-li-hi bi-tā-ʾi al-fā-ʿil, wa-ʿa-lā al-fat-ḥi fī aṣ-lih.)",
+          "translation": "The past tense verb is built on sukun when attached to the subject pronoun ta, and on fath in its original state."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "كَتَبْتُ وَكَتَبْتَ وَكَتَبْتِ لِلْمُخَاطَبِ انْتَظَمْ، وَهُوَ كَتَبَ وَهِيَ كَتَبَتْ بِالفَتْحِ اكْتَمَلَ النَّغَمْ!"
+      ],
+      "culturalNotes": [
+        "جامع وجامعة القرويين في مدينة فاس المغربية أسستها فاطمة الفهرية عام 859م، وتُعد أقدم جامعة عاملة بانتظام في العالم بلا انقطاع."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الفعل الماضي والتعبير عن التجارب (Past Tense & Experience)» (الدرس 1)؟",
+          "prompt": "ما هو التصريف الصحيح للفعل الماضي «ذَهَبَ» مع ضمير المخاطبة المؤنثة «أَنْتِ»؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الفعل الماضي والتعبير عن التجارب (Past Tense & Experience)» بأسلوب أكاديمي دقيق (7.1.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (7.1.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (7.1.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (7.1.w3)"
+            "أَنْتِ ذَهَبْتِ (Anti dhahabti - with kasrah)",
+            "أنتِ ذهبتي (خطأ إملائي بزيادة الياء)",
+            "أنتِ ذهبتَ (للمذكر)",
+            "أنتِ ذهبتُ (للمتكلم)"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "مع «أنتِ» يتصل الفعل بتاء الفاعل المكسورة: «ذَهَبْتِ» ولا تكتب الياء مطلقًا في الفصحى."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "على ماذا يُبنى الفعل الماضي عند اتصاله بتاء التأنيث الساكنة (مثل: كَتَبَتْ / دَرَسَتْ)؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "عَلَى الفَتْحِ الظَّاهِرِ (Fatḥah)",
+            "على السكون",
+            "على الضم",
+            "على حذف النون"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "الفعل الماضي المتصل بتاء التأنيث الساكنة يبنى على الفتح الظاهر على آخره: «كَتَبَتْ»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u7-l1):",
+          "prompt": "اختر الجملة التي تصف حدثًا منقضيًا للمتكلم والمخاطب بدقة صرفية وإعرابية تامة:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (7.1.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (7.1.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (7.1.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (7.1.x3)"
+            "أَنَا كَتَبْتُ الرِّسَالَةَ أَمْسِ، وَأَنْتَ قَرَأْتَهَا بِإِعْجَابٍ. (I wrote the letter yesterday, and you read it with admiration.)",
+            "انا يكتب الرسالة امس وانت تقرأها غدا",
+            "انا كتبتَ وانت كتبتُ بالتبديل",
+            "كتبتُ كتبتَ كتبتِ بدون ضمائر ولا سياق"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الجملة توظف «كتبتُ» للمتكلم و«قرأتَ» للمخاطب مع ظرف الزمان «أمس» بضبط تام."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الفعل الماضي والتعبير عن التجارب (Past Tense & Experience)»؟",
+          "prompt": "ما هو الفرق النحوي بين تاء الفاعل المتحركة (كَتَبْتُ) وتاء التأنيث الساكنة (كَتَبَتْ)؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (7.1.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (7.1.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (7.1.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (7.1.y3)"
+            "تَاءُ الفَاعِلِ ضَمِيرٌ لَهُ مَحَلٌّ مِنَ الإِعْرَابِ، وَتَاءُ التَّأْنِيثِ حَرْفٌ لَا مَحَلَّ لَهُ (Tāʾ of subject is a pronoun; tāʾ of fem. is a letter)",
+            "كلاهما حرف لا محل له",
+            "كلاهما مفعول به",
+            "تاء التأنيث اسم مجرور"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "تاء الفاعل المتحركة ضمير متصل في محل رفع فاعل، أما تاء التأنيث الساكنة فحرف تأنيث مبني لا محل له من الإعراب."
         }
       ]
     },
@@ -4107,24 +4111,25 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 7-1)؟",
+          "prompt": "اختر الفقرة التي تقدم سردًا تاريخيًا وسيرة شخصية موجزة بأفعال ماضية مفردة معربة بدقة:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (7.1.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (7.1.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (7.1.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (7.1.z3)"
+            "سَافَرَ عُمَرُ إِلَى مِصْرَ فِي الصَّيْفِ المَاضِي، حَيْثُ زَارَ الأَهْرَامَاتِ، وَجَلَسَ عَلَى ضِفَافِ النِّيلِ، ثُمَّ اشْتَرَى كُتُبًا نَادِرَةً مِنْ مَعْرِضِ القَاهِرَةِ الدَّوْلِيِّ. (Omar traveled to Egypt last summer, where he visited the pyramids, sat on the banks of the Nile, then bought rare books from the Cairo International Book Fair.)",
+            "يسافر عمر الى مصر الصيف القادم وسيزور وسيجلس.",
+            "سافروا عمر وزارت وجلسوا واشترين بدون مطابقة.",
+            "افعال ماضية فاعل مفعول به سكون فتحة مصر نيل."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "الفقرة توظف أفعال الغائب المفرد المبنية على الفتح «سافرَ، زارَ، جلسَ، اشترى» في تسلسل سردي بليغ ومحكم."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u7-l1) باللغة العربية (مثال: «الفعل»):",
+          "prompt": "اكتب باللغة العربية الفصحى تصريف الفعل (د-ر-س) في الماضي مع ضمير المتكلم المفرد «أنا» (مثال: «درست»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الفعل",
-            "الفعل"
+            "درست",
+            "دَرَسْتُ",
+            "دَرَسْت"
           ],
-          "explanation": "المصطلح الصحيح هو «الفعل»."
+          "explanation": "مع أنا يُصرف الفعل الماضي باتصاله بتاء الفاعل المضمومة: «درست»."
         }
       ],
       "passThreshold": 0.8
@@ -4135,85 +4140,89 @@
     "subject": "arabic",
     "unit": 7,
     "lessonNumber": 2,
-    "title": "الفعل الماضي والتعبير عن التجارب (Past Tense & Experience) (الدرس 2)",
+    "title": "تصريف الفعل الماضي للجمع والتثنية وألف التفريق (Past Tense: Plural, Dual & Alif of Protection)",
     "level": "A2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: تصريف الفعل الماضي، علامات البناء، والتعبير عن الأحداث السابقة والتجارب المكتملة. (الجزء 2).",
+    "objective": "إتقان تصريف الفعل الماضي مع ضمائر الجمع والتثنية (نحن، أنتم، أنتن، هم، هن، هما)، وضبط البناء على الضم أو السكون، وكتابة ألف التفريق الإملائية بعد واو الجماعة.",
     "presentation": {
-      "explanation": "",
+      "explanation": "يتوسع تصريف الفعل الماضي ليشمل صيغ التثنية والجمع وأحكامها الصرفية والإملائية:\n\nأولاً: تصريف الماضي لضمائر الجمع (Plural Pronouns):\n1.【نَحْنُ (1st Person Plur.)】: يتصل بنا الفاعلين -> «نَحْنُ كَتَبْنَا» [katabnā]، «نَحْنُ سَافَرْنَا» [sāfarnā] (مبني على السكون).\n2.【أَنْتُمْ (2nd Person Masc. Plur.)】: يتصل بتاء الفاعل مع علامة الجمع -> «أَنْتُمْ كَتَبْتُمْ» [katabtum] (مبني على السكون).\n3.【أَنْتُنَّ (2nd Person Fem. Plur.)】: «أَنْتُنَّ كَتَبْتُنَّ» [katabtunna] (مبني على السكون).\n4.【هُمْ (3rd Person Masc. Plur.)】: يتصل بواو الجماعة -> «هُمْ كَتَبُوا» [katabū]، «هُمْ سَافَرُوا» [sāfarū] (مبني على الضم).\n5.【هُنَّ (3rd Person Fem. Plur.)】: يتصل بنون النسوة -> «هُنَّ كَتَبْنَ» [katabna] (مبني على السكون).\n\nثانياً: تصريف الماضي للتثنية (Dual Pronouns):\n- هُمَا (مذكر): «هُمَا كَتَبَا» (مبني على الفتح لاتصاله بألف الاثنين).\n- هُمَا (مؤنث): «هُمَا كَتَبَتَا» (مبني على الفتح).\n\nثالثاً: قاعدة ألف التفريق الإملائية (Alif of Protection):\n- تُكتب ألف زائدة لا تُنطق بعد واو الجماعة في الأفعال الماضية: «كَتَبُوا»، «دَرَسُوا»، «سَافَرُوا».\n- الغرض منها: التفريق بين واو الجماعة الفاعلة، وبين واو جمع المذكر السالم المضاف (مُهَنْدِسُو المَشْرُوعِ)، والواو الأصلية في الأفعال المعتلة (يَدْعُو، يَرْجُو).",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الفعل الماضي والتعبير عن التجارب (Past Tense & Experience)» بأسلوب أكاديمي دقيق (7.2.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الفعل الماضي والتعبير عن التجارب (Past Tense & Experience)' to students in an accurate academic style."
+          "target": "نَحْنُ قَضَيْنَا عُطْلَةَ نِهَايَةِ الأُسْبُوعِ فِي الرِّيفِ الجَمِيلِ بَيْنَ الأَشْجَارِ وَالأَنْهَارِ.(Naḥnu qaḍaynā ʿuṭlata nihāyati al-usbūʿi fī ar-rīfi al-jamīli bayna al-ashjāri wa-al-anhār.)",
+          "reading": "[naħ.nu qa.dˤaj.naː ʕutˤ.la.ta ni.haː.ja.ti‿l.ʔus.buː.ʕi fiː‿r.riː.fi‿l.ʒa.miː.li baj.na‿l.ʔaʃ.ʒaː.ri wal.ʔan.haːr] (Naḥ-nu qa-ḍay-nā ʿuṭ-la-ta ni-hā-ya-ti al-us-bū-ʿi fī ar-rī-fi al-ja-mī-li bay-na al-ash-jā-ri wa-al-an-hār.)",
+          "translation": "We spent the weekend in the beautiful countryside between trees and rivers."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (7.2.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "الطُّلَّابُ حَضَرُوا النَّدْوَةَ الفِكْرِيَّةَ، وَنَاقَشُوا الأُسْتَاذَ فِي مَسَائِلِ اللِّسَانِيَّاتِ.(Aṭ-ṭullābu ḥaḍarū an-nadwata al-fikriyyah, wa-nāqashū al-ustādha fī masāʾili al-lisāniyyāt.)",
+          "reading": "[atˤ.tˤul.laː.bu ħa.dˤa.ruː‿n.nad.wa.ta‿l.fik.rij.jah, wa.naː.qa.ʃuː‿l.ʔus.taː.ða fiː ma.saː.ʔi.li‿l.li.saː.nij.jaːt] (Aṭ-ṭul-lā-bu ḥa-ḍa-rū an-nad-wa-ta al-fik-riy-yah, wa-nā-qa-shū al-us-tā-dha fī ma-sā-ʾi-li al-li-sā-niy-yāt.)",
+          "translation": "The students attended the intellectual seminar and discussed issues of linguistics with the professor."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (7.2.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "أَنْتُمْ أَنْجَزْتُمْ مَشْرُوعَكُمْ بِإِتْقَانٍ كَبِيرٍ وَحَصَلْتُمْ عَلَى أَعْلَى الدَّرَجَاتِ.(Antum anjaztum mashrūʿakum bi-itqānin kabīrin wa-ḥaṣaltum ʿalā aʿlā ad-darajāt.)",
+          "reading": "[ʔan.tum ʔan.ʒaz.tum maʃ.ruː.ʕa.kum bi.ʔit.qaː.nin ka.biː.rin wa.ħa.sˤal.tum ʕa.laː ʔaʕ.laː‿d.da.ra.ʒaːt] (An-tum an-jaz-tum mash-rū-ʿa-kum bi-it-qā-nin ka-bī-rin wa-ḥa-ṣal-tum ʿa-lā aʿ-lā ad-da-ra-jāt.)",
+          "translation": "You completed your project with great precision and obtained the highest grades."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (7.2.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "تُوضَعُ أَلِفُ التَّفْرِيقِ بَعْدَ وَاوِ الجَمَاعَةِ فِي الفِعْلِ المَاضِي تَمْيِيزًا لَهَا عَنْ غَيْرِهَا.(Tūḍaʿu alifu at-tafrīqi baʿda wāwi al-jamāʿati fī al-fiʿli al-māḍī tamyīzan lahā ʿan ghayrihā.)",
+          "reading": "[tuː.dˤa.ʕu ʔa.li.fu‿t.taf.riː.qi baʕ.da waː.wi‿l.ʒa.maː.ʕa.ti fiː‿l.fiʕ.li‿l.maː.dˤiː tam.jiː.zan la.haː ʕan ɣaj.ri.haː] (Tū-ḍa-ʿu a-li-fu at-taf-rī-qi baʿ-da wā-wi al-ja-mā-ʿa-ti fī al-fiʿ-li al-mā-ḍī tam-yī-zan la-hā ʿan ghay-ri-hā.)",
+          "translation": "The alif of protection is placed after the waw of the plural in the past tense verb to distinguish it from others."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "نَا لِلْجَمِيعِ وَوَاوُ الجَمَاعَةِ ضَمَّتْ صُفُوفًا، وَأَلِفُ التَّفْرِيقِ تَحْمِي الحُرُوفَا!"
+      ],
+      "culturalNotes": [
+        "الرحلات الجماعية والمناظرات العلمية بين الطلاب في أروقة الجامعات العربية العريقة شكلت عبر القرون بيئة حاضنة لازدهار الفكر والإبداع."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الفعل الماضي والتعبير عن التجارب (Past Tense & Experience)» (الدرس 2)؟",
+          "prompt": "ما هي حركة بناء الفعل الماضي عند اتصاله بواو الجماعة مثل «كَتَبُوا»؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الفعل الماضي والتعبير عن التجارب (Past Tense & Experience)» بأسلوب أكاديمي دقيق (7.2.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (7.2.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (7.2.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (7.2.w3)"
+            "مَبْنِيٌّ عَلَى الضَّمِّ (Built on ḍammah)",
+            "مبني على الفتح",
+            "مبني على السكون",
+            "معرب بالواو"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "الفعل الماضي يبنى على الضم عند اتصاله بواو الجماعة: «كَتَبُوا»."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما اسم الألف الزائدة التي تُكتب بعد واو الجماعة في الفعل الماضي مثل: «ذَهَبُوا»؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "أَلِفُ التَّفْرِيقِ (Alif of Protection / Distinction)",
+            "همزة القطع",
+            "ألف المد",
+            "ألف التنوين"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "تسمى «ألف التفريق» لأنها تميز واو الجماعة في الأفعال عن الواوات الأخرى."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u7-l2):",
+          "prompt": "اختر الجملة التي تصرف الفعل الماضي لضمير جمع المتكلمين «نحن» ضبطًا وإملاءً سليمًا:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (7.2.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (7.2.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (7.2.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (7.2.x3)"
+            "نَحْنُ زُرْنَا مَتْحَفَ العَاصِمَةِ، وَشَاهَدْنَا الآثَارَ التَّارِيخِيَّةَ القَدِيمَةَ. (We visited the capital museum, and saw ancient historical monuments.)",
+            "نحن زروا متحف العاصمة وشاهدوا الاثار",
+            "نحن زرتم وشاهدتم في المتحف",
+            "نحن نزور متحف العاصمة في الماضي خطأ"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الجملة توظف نا الفاعلين مع الفعل الماضي «زُرْنَا» و«شَاهَدْنَا» المبنيين على السكون بنسق لغوي فصيح."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الفعل الماضي والتعبير عن التجارب (Past Tense & Experience)»؟",
+          "prompt": "أي من الكلمات التالية كُتبت فيها واو الجماعة متبوعة بألف التفريق بطريقة صحيحة؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (7.2.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (7.2.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (7.2.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (7.2.y3)"
+            "سَافَرُوا (They traveled)",
+            "سافرو (خطأ بحذف ألف التفريق)",
+            "مهندسو (اسم مضاف لا تلحقه ألف)",
+            "يدعو (واو أصلية لا تلحقها ألف)"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "الفعل الماضي «سَافَرُوا» تلحقه ألف التفريق وجوبًا بعد واو الجماعة."
         }
       ]
     },
@@ -4221,24 +4230,25 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 7-2)؟",
+          "prompt": "اختر الفقرة التي تقدم سردًا جماعيًا لأمسية دراسية ورحلة جامعية بأفعال ماضية مضبوطة بدقة:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (7.2.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (7.2.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (7.2.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (7.2.z3)"
+            "اجْتَمَعَ الطُّلَّابُ فِي المَكْتَبَةِ، فَقَرَؤُوا المَرَاجِعَ المَطْلُوبَةَ، وَكَتَبُوا تَقَارِيرَهُمْ بِعِنَايَةٍ، ثُمَّ خَرَجُوا مَعًا لِتَنَاوُلِ العَشَاءِ بَعْدَ يَوْمٍ حَافِلٍ بِالجِدِّ. (The students gathered in the library, read the required references, wrote their reports carefully, then went out together to have dinner after a day full of diligence.)",
+            "اجتمعوا الطلاب وقرأ تقاريرهم وخرجوا بدون واو الجماعة.",
+            "افعال ماضية جمع تكسير الف تفريق سكون فتحة ضمة.",
+            "الطلاب لم يفعلوا شيئا ولم يقرؤوا الكتب."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "الفقرة توظف أفعال الجماعة الماضية «قرؤوا، كتبوا، خرجوا» المبنية على الضم والمكتوبة بألف التفريق بتناسق بياني باهر."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u7-l2) باللغة العربية (مثال: «الفعل»):",
+          "prompt": "اكتب باللغة العربية الفصحى تصريف الفعل (ذ-ه-ب) في الماضي مع ضمير الغائبين الذكور «هم» (مثال: «ذهبوا»؛ مع ألف التفريق وبدون تشكيل):",
           "acceptedAnswers": [
-            "الفعل",
-            "الفعل"
+            "ذهبوا",
+            "ذَهَبُوا",
+            "ذَهَبُو"
           ],
-          "explanation": "المصطلح الصحيح هو «الفعل»."
+          "explanation": "مع هم يُصرف الفعل بالواو وألف التفريق: «ذهبوا»."
         }
       ],
       "passThreshold": 0.8
@@ -4249,85 +4259,89 @@
     "subject": "arabic",
     "unit": 7,
     "lessonNumber": 3,
-    "title": "الفعل الماضي والتعبير عن التجارب (Past Tense & Experience) (الدرس 3)",
+    "title": "ظروف الزمان للماضي والتعبير عن التاريخ الشخصي (Past Time Expressions & Personal History)",
     "level": "A2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: تصريف الفعل الماضي، علامات البناء، والتعبير عن الأحداث السابقة والتجارب المكتملة. (الجزء 3).",
+    "objective": "إتقان ظروف وتراكيب الزمان للماضي (أمس، البارحة، الأسبوع الماضي، قبل، منذ)، واستخدامها في سرد الأحداث التاريخية وكتابة السيرة الذاتية والذكريات.",
     "presentation": {
-      "explanation": "",
+      "explanation": "تأطير الأحداث في الزمن المنقضي يتطلب استخدام ظروف الزمان المعبرة عن الماضي:\n\nأولاً: ظروف الزمان الدالة على الماضي (Past Time Expressions):\n1.【أَمْسِ (Yesterday)】: اسم ظرفي مبني على الكسر دائمًا: «وَصَلْتُ أَمْسِ».\n2.【البَارِحَةَ (Last night / Yesterday evening)】: ظرف زمان منصوب بالفتحة.\n3.【الأُسْبُوعَ المَاضِيَ / الشَّهْرَ المَاضِيَ / العَامَ المَاضِيَ (Last week / month / year)】: تراكيب ظرفية موصوفة منصوبة.\n4.【قَبْلَ (Before / Ago)】: ظرف زمان مضاف: «قَبْلَ يَوْمَيْنِ» (Two days ago) | «قَبْلَ سَنَةٍ» (A year ago).\n5.【مُنْذُ (Since / Ago)】: ظرف زمان: «مُنْذُ شَهْرٍ» (A month ago) | «مُنْذُ طُفُولَتِي» (Since my childhood).\n6.【فِي المَاضِي / قَدِيمًا (In the past / Anciently)】.\n\nثانياً: عبارات السرد والتاريخ الشخصي (Personal History & Autobiography):\n- «وُلِدْتُ فِي... عَامَ...» (I was born in... in the year...).\n- «نَشَأْتُ فِي مَدِينَةِ...» (I grew up in the city of...).\n- «تَعَلَّمْتُ القِرَاءَةَ مُنْذُ الصِّغَرِ» (I learned reading since childhood).\n- «تَخَرَّجْتُ فِي الجَامِعَةِ عَامَ...» (I graduated from university in the year...).\n- «عِشْتُ هُنَاكَ لِمُدَّةِ خَمْسِ سَنَوَاتٍ» (I lived there for five years).",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الفعل الماضي والتعبير عن التجارب (Past Tense & Experience)» بأسلوب أكاديمي دقيق (7.3.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الفعل الماضي والتعبير عن التجارب (Past Tense & Experience)' to students in an accurate academic style."
+          "target": "وُلِدْتُ فِي مَدِينَةِ دِمَشْقَ العَرِيقَةِ، وَعِشْتُ طُفُولَتِي بَيْنَ حَارَاتِهَا القَدِيمَةِ.(Wulidtu fī madīnati Dimashqa al-ʿarīqah, wa-ʿishtu ṭufūlatī bayna ḥārātihā al-qadīmah.)",
+          "reading": "[wu.lid.tu fiː ma.diː.na.ti di.maʃ.qa‿l.ʕa.riː.qah, wa.ʕiʃ.tu tˤu.fuː.la.tiː baj.na ħaː.raː.ti.haː‿l.qa.diː.mah] (Wu-lid-tu fī ma-dī-na-ti Di-mash-qa al-ʿa-rī-qah, wa-ʿish-tu ṭu-fū-la-tī bay-na ḥā-rā-ti-hā al-qa-dī-mah.)",
+          "translation": "I was born in the ancient city of Damascus, and lived my childhood among its old alleyways."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (7.3.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "قَبْلَ ثَلَاثِ سَنَوَاتٍ، سَافَرْتُ إِلَى القَاهِرَةِ لِدِرَاسَةِ اللُّغَةِ العَرَبِيَّةِ وَآدَابِهَا.(Qabla thalāthi sanawāt, sāfartu ilā al-Qāhirati li-dirāsati al-lughati al-ʿarabiyyati wa-ādābihā.)",
+          "reading": "[qab.la θa.laː.θi sa.na.waːt, saː.far.tu ʔi.laː‿l.qaː.hi.ra.ti li.di.raː.sa.ti‿l.lu.ɣa.ti‿l.ʕa.ra.bij.ja.ti wa.ʔaː.daː.bi.haː] (Qab-la tha-lā-thi sa-na-wāt, sā-far-tu i-lā al-Qā-hi-ra-ti li-di-rā-sa-ti al-lu-gha-ti al-ʿa-ra-biy-ya-ti wa-ā-dā-bi-hā.)",
+          "translation": "Three years ago, I traveled to Cairo to study the Arabic language and its literature."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (7.3.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "زَارَ الوَفْدُ الأَكَادِيمِيُّ مَكْتَبَةَ الإِسْكَنْدَرِيَّةِ الأُسْبُوعَ المَاضِيَ وَاطَّلَعُوا عَلَى مَخْطُوطَاتِهَا.(Zāra al-wafdu al-akādīmiyyu maktabata al-Iskandariyyati al-usbūʿa al-māḍiya wa-ṭṭalaʿū ʿalā makhṭūṭātihā.)",
+          "reading": "[zaː.ra‿l.waf.du‿l.ʔa.kaː.diː.mij.ju mak.ta.ba.ta‿l.ʔis.kan.da.rij.ja.ti‿l.ʔus.buː.ʕa‿l.maː.dˤi.ja watˤ.tˤa.la.ʕuː ʕa.laː max.tˤuː.tˤaː.ti.haː] (Zā-ra al-waf-du al-a-kā-dī-miy-yu mak-ta-ba-ta al-Is-kan-da-riy-ya-ti al-us-bū-ʿa al-mā-ḍi-ya wa-ṭ-ṭa-la-ʿū ʿa-lā makh-ṭū-ṭā-ti-hā.)",
+          "translation": "The academic delegation visited the Library of Alexandria last week and examined its manuscripts."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (7.3.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "نَسْتَخْدِمُ «أَمْسِ» وَ«المَاضِيَ» وَ«مُنْذُ» لِتَحْدِيدِ الأَزْمِنَةِ المُنْقَضِيَةِ فِي السَّرْدِ التَّارِيخِيِّ.(Nastakhdimu «amsi» wa-«al-māḍiya» wa-«mundhu» li-taḥdīdi al-azminati al-munqaḍiyati fī as-sardi at-tārīkhiyy.)",
+          "reading": "[nas.tax.di.mu «ʔam.si» wa.«al.maː.dˤi.ja» wa.«mun.ðu» li.taħ.diː.di‿l.ʔaz.mi.na.ti‿l.mun.qa.dˤi.ja.ti fiː‿s.sar.di‿t.taː.riː.xijj] (Nas-takh-di-mu «am-si» wa-«al-mā-ḍi-ya» wa-«mun-dhu» li-taḥ-dī-di al-az-mi-na-ti al-mun-qa-ḍi-ya-ti fī as-sar-di at-tā-rī-khiyy.)",
+          "translation": "We use 'amsi', 'al-madiya', and 'mundhu' to designate elapsed times in historical narrative."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "أَمْسِ وَمُنْذُ وَالشَّهْرُ المَاضِي زَمَانٌ مَضَى، نَسْرُدُ فِيهِ الذِّكْرَيَاتِ بِكُلِّ الرِّضَا!"
+      ],
+      "culturalNotes": [
+        "دمشق والقاهرة من أقدم العواصم المأهولة بالسكان باستمرار في التاريخ الإنساني، وتضم كل منهما تراثًا إنسانيًا ومعماريًا فريدًا."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الفعل الماضي والتعبير عن التجارب (Past Tense & Experience)» (الدرس 3)؟",
+          "prompt": "ما هو البناء الإعرابي الصحيح لظرف الزمان «أَمْسِ» في اللغة العربية الفصحى؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الفعل الماضي والتعبير عن التجارب (Past Tense & Experience)» بأسلوب أكاديمي دقيق (7.3.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (7.3.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (7.3.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (7.3.w3)"
+            "مَبْنِيٌّ عَلَى الكَسْرِ (Built on kasrah)",
+            "مبني على الفتح",
+            "مبني على الضم",
+            "معرب بالفتحة"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "«أَمْسِ» اسم زمان مبني على الكسر دائمًا في لغة الحجاز الفصيحة."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو التركيب الفصيح لقول «Two days ago» في اللغة العربية؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "قَبْلَ يَوْمَيْنِ (Qabla yawmayn)",
+            "بعد يومين (للمستقبل)",
+            "في يومين غدا",
+            "يومين بعد الان"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "«قَبْلَ يَوْمَيْنِ» يفيد انقضاء يومين في الماضي (قبل + مثنى مجرور بالياء)."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u7-l3):",
+          "prompt": "اختر الجملة التي تسرد محطة في السيرة الشخصية باستخدام ظروف الزمان الماضية بدقة وبلاغة:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (7.3.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (7.3.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (7.3.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (7.3.x3)"
+            "تَخَرَّجْتُ فِي الجَامِعَةِ العَامَ المَاضِيَ، وَعَمِلْتُ مُنْذُ ذٰلِكَ الحِينِ فِي التَّرْجَمَةِ. (I graduated from the university last year, and have worked since then in translation.)",
+            "تخرجت في الجامعة غدا وساعمل امس",
+            "انا يتخرج العام الماضي قبل مئة سنة اليوم",
+            "جامعة عام ماضي سكون فتحة تخرج"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الجملة تربط بين حدث التخرج في «العام الماضي» واستمرار العمل «منذ ذلك الحين» بتناسق زماني تام."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الفعل الماضي والتعبير عن التجارب (Past Tense & Experience)»؟",
+          "prompt": "ما معنى كلمة «البَارِحَة» في المعجم العربي؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (7.3.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (7.3.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (7.3.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (7.3.y3)"
+            "أَقْرَبُ لَيْلَةٍ مَضَتْ (Last night / Yesterday evening)",
+            "الليلة القادمة غدا",
+            "السنة القادمة",
+            "الصباح الباكر اليوم"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«البارحة» هي أقرب ليلة مضت قبل يومك الحالي."
         }
       ]
     },
@@ -4335,24 +4349,26 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 7-3)؟",
+          "prompt": "اختر النص السردي الذي يقدم نبذة عن السيرة العلمية والذكريات بتوظيف ظروف الزمان الماضية بدقة تامة:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (7.3.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (7.3.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (7.3.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (7.3.z3)"
+            "عِشْتُ فِي مَدِينَةِ بَيْرُوتَ خَمْسَ سَنَوَاتٍ؛ حَيْثُ دَرَسْتُ الأَدَبَ العَرَبِيَّ، وَفِي الشَّهْرِ المَاضِي عُدْتُ إِلَى وَطَنِي لِأَبْدَأَ مَرْحَلَةً جَدِيدَةً مِنَ العَمَلِ الأَكَادِيمِيِّ. (I lived in Beirut for five years where I studied Arabic literature, and last month I returned to my homeland to begin a new stage of academic work.)",
+            "عشت في بيروت غدا وسادرس الادب امس.",
+            "بيروت ادب عربي سكون فتحة شهر ماضي سنوات.",
+            "لم ادرس ولم اعش في اي مدينة في العالم."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يمثل نموذجًا بيانيًا فصيحًا للسيرة الذاتية بتوظيف الأفعال الماضية وظروف الزمان «خمس سنوات، الشهر الماضي» بإتقان تام."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u7-l3) باللغة العربية (مثال: «الفعل»):",
+          "prompt": "اكتب باللغة العربية الفصحى ظرف الزمان المبني على الكسر الذي يعني «Yesterday» (مثال: «أمس»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الفعل",
-            "الفعل"
+            "أمس",
+            "امس",
+            "أَمْسِ",
+            "أَمْس"
           ],
-          "explanation": "المصطلح الصحيح هو «الفعل»."
+          "explanation": "ظرف الزمان هو «أمس»."
         }
       ],
       "passThreshold": 0.8
@@ -4363,85 +4379,89 @@
     "subject": "arabic",
     "unit": 7,
     "lessonNumber": 4,
-    "title": "الفعل الماضي والتعبير عن التجارب (Past Tense & Experience) (الدرس 4)",
+    "title": "نفي الفعل في الماضي بما ولم الجازمة (Past Tense Negation: Mā & Lam)",
     "level": "A2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: تصريف الفعل الماضي، علامات البناء، والتعبير عن الأحداث السابقة والتجارب المكتملة. (الجزء 4).",
+    "objective": "إتقان أساليب نفي الفعل في الزمن الماضي باستخدام حرف النفي (مَا) مع الفعل الماضي، وحرف الجزم (لَمْ) مع الفعل المضارع المجزوم بالسكون أو حذف النون.",
     "presentation": {
-      "explanation": "",
+      "explanation": "لنفي وقوع الحدث في الزمن الماضي في اللغة العربية أسلوبان قياسيان فصيحان:\n\nأولاً: النفي بـ «مَا» النافية مع الفعل الماضي (Mā + Past Verb):\n- تدخل «مَا» النافية على الفعل الماضي فتنفي حدوثه دون أن تغير حركته الإعرابية (يبقى مبنيًا):\n  - «مَا كَتَبَ الطَّالِبُ الدَّرْسَ» (The student did not write the lesson).\n  - «مَا سَافَرْتُ أَمْسِ» (I did not travel yesterday).\n  - «مَا حَضَرُوا الِاجْتِمَاعَ» (They did not attend the meeting).\n\nثانياً: النفي بـ «لَمْ» الجازمة مع الفعل المضارع (Lam + Jussive Present):\n- «لَمْ» حرف نفي وجزم وقلب؛ تنفي الفعل وتجزمه وتقلب زمنه إلى الماضي المحض:\n  - علامة جزم المضارع الصحيح: **السُّكُونُ**: «لَمْ يَكْتُبْ» (He did not write) | «لَمْ أَسَافِرْ» (I did not travel).\n  - علامة جزم الأفعال الخمسة: **حَذْفُ النُّونِ**: «لَمْ يَكْتُبُوا» (أصلها: يكتبون) | «لَمْ تَكْتُبِي» (أصلها: تكتبين).\n  - علامة جزم المعتل الآخر: **حَذْفُ حَرْفِ العِلَّةِ**: «لَمْ يَنْسَ» (أصلها: ينسى).\n\nثالثاً: المقارنة الأسلوبية البلاغية:\n- «مَا فَعَلْتُ» و«لَمْ أَفْعَلْ» كلاهما صحيح وفصيح لنفي الماضي، و«لَمْ + المضارع المجزوم» أكثر شيوعًا في الأسلوب الأدبي والصحفي والقرآني الرصين.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الفعل الماضي والتعبير عن التجارب (Past Tense & Experience)» بأسلوب أكاديمي دقيق (7.4.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الفعل الماضي والتعبير عن التجارب (Past Tense & Experience)' to students in an accurate academic style."
+          "target": "مَا شَعَرْتُ بِالتَّعَبِ خِلَالَ الرِّحْلَةِ؛ لِأَنَّ القِطَارَ كَانَ مُرِيحًا وَسَرِيعًا جِدًّا.(Mā shaʿartu bi-t-taʿabi khilāla ar-riḥlah; li-anna al-qiṭāra kāna murīḥan wa-sarīʿan jiddā.)",
+          "reading": "[maː ʃa.ʕar.tu bit.ta.ʕa.bi xi.laː.la‿r.riħ.lah; li.ʔan.na‿l.qi.tˤaː.ra kaː.na mu.riː.ħan wa.sa.riː.ʕan ʒid.daː] (Mā sha-ʿar-tu bi-t-ta-ʿa-bi khi-lā-la ar-riḥ-lah; li-an-na al-qi-ṭā-ra kā-na mu-rī-ḥan wa-sa-rī-ʿan jid-dā.)",
+          "translation": "I did not feel tired during the trip; because the train was very comfortable and fast."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (7.4.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "لَمْ يَحْضُرْ سَلِيمٌ اجْتِمَاعَ الأَمْسِ؛ بِسَبَبِ انْشِغَالِهِ بِإِعْدَادِ البَحْثِ الجَامِعِيِّ.(Lam yaḥḍur Salīmun ijtimāʿa al-amsi; bi-sababi inshighālihi bi-iʿdādi al-baḥthi al-jāmiʿiyy.)",
+          "reading": "[lam jaħ.dˤur sa.liː.mun‿iʒ.ti.maː.ʕa‿l.ʔam.si; bi.sa.ba.bi‿in.ʃi.ɣaː.li.hi bi.ʔiʕ.daː.di‿l.baħ.θi‿l.ʒaː.mi.ʕijj] (Lam yaḥ-ḍur Sa-lī-mun ij-ti-mā-ʿa al-am-si; bi-sa-ba-bi in-shi-ghā-li-hi bi-iʿ-dā-di al-baḥ-thi al-jā-mi-ʿiyy.)",
+          "translation": "Salim did not attend yesterday's meeting; due to being busy preparing his university research."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (7.4.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "«مَا» تَنْفِي المَاضِيَ مَعَ بَقَائِهِ مَبْنِيًّا، وَ«لَمْ» تَنْفِيهِ مَعَ جَزْمِ الفِعْلِ المُضَارِعِ.(«Mā» tanfī al-māḍiya maʿa baqāʾihi mabniyyan, wa-«lam» tanfīhi maʿa jazmi al-fiʿli al-muḍāriʿ.)",
+          "reading": "[«maː» tan.fiː‿l.maː.dˤi.ja ma.ʕa ba.qaː.ʔi.hi mab.nij.jan, wa.«lam» tan.fiː.hi ma.ʕa ʒaz.mi‿l.fiʕ.li‿l.mu.dˤaː.riʕ] («Mā» tan-fī al-mā-ḍi-ya ma-ʿa ba-qā-ʾi-hi mab-niy-yan, wa-«lam» tan-fī-hi ma-ʿa jaz-mi al-fiʿ-li al-mu-ḍā-riʿ.)",
+          "translation": "'Ma' negates the past while it remains indeclinable, and 'lam' negates it with the jussive of the present verb."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (7.4.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "لَمْ يَنْسَ الطُّلَّابُ نَصَائِحَ أُسْتَاذِهِمُ الفَاضِلِ طَوَالَ مَسِيرَتِهِمُ العِلْمِيَّةِ.(Lam yansa aṭ-ṭullābu naṣāʾiḥa ustādhihimu al-fāḍili ṭawāla masīratihimu al-ʿilmiyyah.)",
+          "reading": "[lam jan.sa‿tˤ.tˤul.laː.bu na.sˤaː.ʔi.ħa ʔus.taː.ði.hi.mu‿l.faː.dˤi.li tˤa.waː.la ma.siː.ra.ti.hi.mu‿l.ʕil.mij.jah] (Lam yan-sa aṭ-ṭul-lā-bu na-ṣā-ʾi-ḥa us-tā-dhi-hi-mu al-fā-ḍi-li ṭa-wā-la ma-sī-ra-ti-hi-mu al-ʿil-miy-yah.)",
+          "translation": "The students did not forget the advice of their virtuous professor throughout their scholarly journey."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "مَا تَنْفِي المَاضِي بِلَا جَزْمٍ وَلَا تَغْيِيرْ، وَلَمْ تَجْزِمِ المُضَارِعَ لِلْمَاضِي بِأَبْدَعِ تَعْبِيرْ!"
+      ],
+      "culturalNotes": [
+        "دقة أدوات النفي في العربية (ما، لا، لم، لن، ليس، إن، لات) تُعد من أخصب مباحث البلاغة والإعراب في تراث النحاة العرب."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الفعل الماضي والتعبير عن التجارب (Past Tense & Experience)» (الدرس 4)؟",
+          "prompt": "ما هو عمل حرف النفي والجزم «لَمْ» عند دخوله على الفعل المضارع الصحيح الآخر؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الفعل الماضي والتعبير عن التجارب (Past Tense & Experience)» بأسلوب أكاديمي دقيق (7.4.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (7.4.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (7.4.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (7.4.w3)"
+            "يَجْزِمُهُ بِالسُّكُونِ وَيَقْلِبُ زَمَنَهُ إِلَى المَاضِي (Jussive with sukun & turns to past)",
+            "ينصبه بالفتحة",
+            "يرفعه بالضمة",
+            "يبنيه على الكسر"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "«لَمْ» حرف نفي وجزم وقلب، تجزم المضارع بالسكون وتقلب معناه إلى الماضي."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "كيف ننفي الجملة الفعلية «سَافَرَ زَيْدٌ أَمْسِ» باستخدام أداة النفي «مَا»؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "مَا سَافَرَ زَيْدٌ أَمْسِ (Mā sāfara Zaydun amsi)",
+            "لا يسافر زيد غدا",
+            "لم سافر زيد (خطأ بدخول لم على الماضي)",
+            "لن يسافر زيد"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "«مَا» تدخل مباشرة على الفعل الماضي لنفيه: «مَا سَافَرَ زَيْدٌ أَمْسِ»."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u7-l4):",
+          "prompt": "اختر الجملة المنفية بـ «لَمْ» الجازمة المعربة إعرابًا سليمًا تمامًا مع واو الجماعة:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (7.4.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (7.4.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (7.4.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (7.4.x3)"
+            "الطُّلَّابُ لَمْ يَتَأَخَّرُوا عَنِ المُحَاضَرَةِ البَارِحَةَ. (The students were not late for the lecture last night.)",
+            "الطلاب لم يتأخرون بحفظ النون خطأ",
+            "الطلاب ما يتأخروا بدون جزم",
+            "لم تأخروا الطلاب بتقديم لم على الماضي"
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "مع الأفعال الخمسة تجزم «لَمْ» بحذف النون: «لَمْ يَتَأَخَّرُوا» مع كتابة ألف التفريق."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الفعل الماضي والتعبير عن التجارب (Past Tense & Experience)»؟",
+          "prompt": "ما هي علامة جزم الفعل المضارع المعتل الآخر عند دخوله تحت تأثير «لَمْ» مثل: «لَمْ يَنْسَ»؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (7.4.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (7.4.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (7.4.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (7.4.y3)"
+            "حَذْفُ حَرْفِ العِلَّةِ (Omission of weak letter)",
+            "السكون الظاهر",
+            "ثبوت النون",
+            "الكسرة"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "الفعل المعتل الآخر يجزم بحذف حرف العلة والتعويض عنه بحركة مناسبة: «لَمْ يَنْسَ»."
         }
       ]
     },
@@ -4449,24 +4469,24 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 7-4)؟",
+          "prompt": "اختر الفقرة التي توظف أداتي نفي الماضي «مَا» و«لَمْ» في سياق سردي متقن ومضبوط إعرابيًا:",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (7.4.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (7.4.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (7.4.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (7.4.z3)"
+            "بَحَثْنَا عَنِ الكِتَابِ فِي المَكْتَبَةِ فَمَا وَجَدْنَاهُ، وَلَمْ نَيْأَسْ بَلْ سَأَلْنَا أَمِينَ المَكْتَبَةِ الَّذِي أَرْشَدَنَا إِلَيْهِ فِي قِسْمِ المَخْطُوطَاتِ. (We searched for the book in the library and did not find it, and we did not despair but asked the librarian who guided us to it in the manuscripts section.)",
+            "بحثنا عن الكتاب فما وجدناه ولم نيأسون بالنون خطأ.",
+            "ما يجد ولم ييأسوا في الماضي بدون ترتيب.",
+            "ادوات نفي ما لم سكون حذف حرف العلة فتحة."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "الفقرة تجمع بين «مَا وَجَدْنَاهُ» (ما + ماضٍ) و«لَمْ نَيْأَسْ» (لم + مضارع مجزوم بالسكون) في أسلوب سردي متماسك وفصيح."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u7-l4) باللغة العربية (مثال: «الفعل»):",
+          "prompt": "اكتب باللغة العربية الفصحى حرف النفي والجزم الذي يقلب معنى الفعل المضارع إلى الماضي (مثال: «لم»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الفعل",
-            "الفعل"
+            "لم",
+            "لَمْ"
           ],
-          "explanation": "المصطلح الصحيح هو «الفعل»."
+          "explanation": "حرف النفي والجزم والقلب هو «لم»."
         }
       ],
       "passThreshold": 0.8
@@ -4477,85 +4497,89 @@
     "subject": "arabic",
     "unit": 7,
     "lessonNumber": 5,
-    "title": "الفعل الماضي والتعبير عن التجارب (Past Tense & Experience) (الدرس 5)",
+    "title": "حوار الذكريات وعطلة نهاية الأسبوع والتجارب السابقة (Comprehensive Past Experiences Dialogue)",
     "level": "A2",
-    "objective": "الإتقان الشامل والتطبيقي لمحور: تصريف الفعل الماضي، علامات البناء، والتعبير عن الأحداث السابقة والتجارب المكتملة. (الجزء 5).",
+    "objective": "الدمج الشامل لكافة مخرجات الوحدة السابعة: تصريف الفعل الماضي للمفرد والجمع، ظروف الزمان الماضية، أساليب النفي بما ولم، في حوار سردي متكامل عن عطلة سابقة وتجارب مشتركة.",
     "presentation": {
-      "explanation": "",
+      "explanation": "مرحبًا بك في الدرس التتويجي للوحدة السابعة من منهاج اللغة العربية الفصحى!\n\nفي هذا الدرس ندمج جميع المهارات الصرفية والزمانية في حوار شيق بين صديقين (محمود وياسر) يلتقيان بعد انقضاء عطلة نهاية الأسبوع ويستعرضان تفاصيل رحلتهما وذكرياتهما الجامعية الماضية:\n\nعناصر النص الحواري الشامل:\n1.【السؤال عن أحداث العطلة الماضية】: «كَيْفَ قَضَيْتَ عُطْلَةَ نِهَايَةِ الأُسْبُوعِ المَاضِيَةِ؟».\n2.【تصريف الأفعال الماضية للمتكلم والمجموع】: «سَافَرْتُ»، «زُرْنَا»، «تَنَاوَلْنَا»، «شَاهَدُوا»، «اسْتَمْتَعْنَا».\n3.【توظيف ظروف الزمان للماضي】: «أَمْسِ»، «البَارِحَةَ»، «الأُسْبُوعَ المَاضِيَ»، «قَبْلَ يَوْمَيْنِ».\n4.【استخدام أسلوبي نفي الماضي】: «مَا شَعَرْنَا بِالمَلَلِ»، «لَمْ نَزُرِ المَتْحَفَ لِضِيقِ الوَقْتِ».\n5.【استحضار الذكريات والمشاعر】: ختام الحديث بالتعبير عن بهجة الذكريات وقيم الصداقة الراسخة.",
       "examples": [
         {
-          "target": "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الفعل الماضي والتعبير عن التجارب (Past Tense & Experience)» بأسلوب أكاديمي دقيق (7.5.1).",
-          "reading": "Yashrahu al-ustadhu li-tullabihi al-qawa'ida al-asasiyyata bi-uslubin akadimin daqiq.",
-          "translation": "The professor explains the fundamental rules of 'الفعل الماضي والتعبير عن التجارب (Past Tense & Experience)' to students in an accurate academic style."
+          "target": "كَيْفَ قَضَيْتَ عُطْلَةَ نِهَايَةِ الأُسْبُوعِ المَاضِيَةِ يَا مَحْمُودُ؟ — سَافَرْتُ مَعَ أُسْرَتِي إِلَى الإِسْكَنْدَرِيَّةِ.(Kayfa qaḍayta ʿuṭlata nihāyati al-usbūʿi al-māḍiyata yā Maḥmūd? — Sāfartu maʿa usratī ilā al-Iskandariyyah.)",
+          "reading": "[kaj.fa qa.dˤaj.ta ʕutˤ.la.ta ni.haː.ja.ti‿l.ʔus.buː.ʕi‿l.maː.dˤi.ja.ta jaː maħ.muːd? — saː.far.tu ma.ʕa ʔus.ra.tiː ʔi.laː‿l.ʔis.kan.da.rij.jah] (Kay-fa qa-ḍay-ta ʿuṭ-la-ta ni-hā-ya-ti al-us-bū-ʿi al-mā-ḍi-ya-ta yā Maḥ-mūd? — Sā-far-tu ma-ʿa us-ra-tī i-lā al-Is-kan-da-riy-yah.)",
+          "translation": "How did you spend last weekend, Mahmoud? — I traveled with my family to Alexandria."
         },
         {
-          "target": "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (7.5.2).",
-          "reading": "Yahrisu al-bahithuna fi qa'ati al-muhadarati 'ala tadwini al-mulahezati wa-muraja'ati al-masadir.",
-          "translation": "Researchers in the lecture hall ensure they take critical notes and review scholarly sources."
+          "target": "زُرْنَا قَلْعَةَ قَايِتْبَاي التَّارِيخِيَّةَ، وَتَنَاوَلْنَا السَّمَكَ الطَّازَجَ عَلَى شَاطِئِ البَحْرِ، ثُمَّ قَرَأْنَا فِي المَكْتَبَةِ.(Zurnā qalʿata Qāyitbāy at-tārīkhiyyah, wa-tanāwalnā as-samaka aṭ-ṭāzaja ʿalā shāṭiʾi al-baḥr, thumma qaraʾnā fī al-maktabah.)",
+          "reading": "[zur.naː qal.ʕa.ta qaː.jit.baːj‿at.taː.riː.xij.jah, wa.ta.naː.wal.naː‿s.sa.ma.ka‿tˤ.tˤaː.za.ʒa ʕa.laː ʃaː.tˤi.ʔi‿l.baħr, θum.ma qa.raʔ.naː fiː‿l.mak.ta.bah] (Zur-nā qal-ʿa-ta Qā-yit-bāy at-tā-rī-khiy-yah, wa-ta-nā-wal-nā as-sa-ma-ka aṭ-ṭā-za-ja ʿa-lā shā-ṭi-ʾi al-baḥr, thum-ma qa-raʾ-nā fī al-mak-ta-bah.)",
+          "translation": "We visited the historical Citadel of Qaitbay, ate fresh fish on the seashore, then read in the library."
         },
         {
-          "target": "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (7.5.3).",
-          "reading": "Shahida al-mu'tamaru al-akadimiyyu al-dawliyyu hiwaratin fikriyyatan mu'ammaqatan hawla al-lisaniyyat.",
-          "translation": "The international academic conference witnessed in-depth intellectual dialogues on modern linguistics and translation."
+          "target": "هَلْ زُرْتُمْ مَتْحَفَ الآثَارِ أَيْضًا؟ — لَا، لَمْ نَزُرْهُ لِضِيقِ الوَقْتِ، لٰكِنَّنَا اسْتَمْتَعْنَا كَثِيرًا بِالجَوْلَةِ.(Hal zurtum matḥafa al-āthāri ayḍan? — Lā, lam nazurhu li-ḍīqi al-waqt, lākinnanā istamtaʿnā kathīran bi-l-jawlah.)",
+          "reading": "[hal zur.tum mat.ħa.fa‿l.ʔaː.θaː.ri ʔaj.dˤan? — laː, lam na.zur.hu li.dˤiː.qi‿l.waqt, laː.kin.na.naː‿is.tam.taʕ.naː ka.θiː.ran bil.ʒaw.lah] (Hal zur-tum mat-ḥa-fa al-ā-thā-ri ay-ḍan? — Lā, lam na-zur-hu li-ḍī-qi al-waqt, lā-kin-na-nā is-tam-taʿ-nā ka-thī-ran bi-l-jaw-lah.)",
+          "translation": "Did you visit the antiquities museum too? — No, we did not visit it due to lack of time, but we enjoyed the tour immensely."
         },
         {
-          "target": "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (7.5.4).",
-          "reading": "Azhara al-tullabu tamakkunan tamman min isti'abi al-ma'arifi al-takhasusiyyati wa-al-i'rab.",
-          "translation": "Students demonstrated complete mastery in assimilating specialized knowledge and advanced parsing applications."
+          "target": "كَانَتْ رِحْلَةً رَائِعَةً مَلِيئَةً بِالذِّكْرَيَاتِ الجَمِيلَةِ الَّتِي لَنْ نَنْسَاهَا أَبَدًا.(Kānat riḥlatan rāʾiʿatan malīʾatan bi-dh-dhikrayāti al-jamīlati allatī lan nansāhā abadā.)",
+          "reading": "[kaː.nat riħ.la.tan raː.ʔi.ʕa.tan ma.liː.ʔa.tan bið.ðik.ra.jaː.ti‿l.ʒa.miː.la.ti‿l.la.tiː lan nan.saː.haː ʔa.ba.daː] (Kā-nat riḥ-la-tan rā-ʾi-ʿa-tan ma-lī-ʾa-tan bi-dh-dhik-ra-yā-ti al-ja-mī-la-ti al-la-tī lan nan-sā-hā a-ba-dā.)",
+          "translation": "It was a wonderful trip filled with beautiful memories that we will never forget."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "سَرَدْنَا المَاضِيَ بِعَذْبِ الكَلَامْ: أَفْعَالٌ وَأَزْمِنَةٌ وَذِكْرَيَاتُ أَعْوَامْ، فَصَاحَةٌ تَزْدَانُ بِالإِتْقَانِ وَالإِلْهَامْ!"
+      ],
+      "culturalNotes": [
+        "الإسكندرية مدينة البحر والفكر أسسها الإسكندر الأكبر، واشتهرت تاريخيًا بمنارتها العظيمة ومكتبتها القديمة التي كانت أعظم منارات العلم في العالم القديم."
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【التحليل النحوي】أي الجمل التالية تمثل التطبيق الإعرابي السليم لموضوع «الفعل الماضي والتعبير عن التجارب (Past Tense & Experience)» (الدرس 5)؟",
+          "prompt": "في حوار الذكريات، كيف تسأل صديقك عما فعله في عطلة نهاية الأسبوع الماضية؟",
           "options": [
-            "يشرح الأستاذ لطلابه القواعد الأساسية لموضوع «الفعل الماضي والتعبير عن التجارب (Past Tense & Experience)» بأسلوب أكاديمي دقيق (7.5.1).",
-            "تركيب لغوي معيب يحتوي على خطأ في ضبط الفاعل والمفعول به (7.5.w1)",
-            "جملة غير صحيحة نحويًا بسبب الإخلال بقواعد المطابقة الصرفية (7.5.w2)",
-            "صياغة ركيكة لا تتفق مع معايير الفصاحة والأسلوب العربي الأصيل (7.5.w3)"
+            "كَيْفَ قَضَيْتَ عُطْلَةَ نِهَايَةِ الأُسْبُوعِ المَاضِيَةِ؟ (How did you spend last weekend?)",
+            "ماذا ستفعل العام القادم؟",
+            "أين تضع قلمك الآن؟",
+            "لماذا لم تشرب الشاي اليوم؟"
           ],
           "answerIndex": 0,
-          "explanation": "الخيار الأول يلتزم التزامًا تامًا بقواعد النحو والصرف والضبط الإعرابي في اللغة العربية الفصحى."
+          "explanation": "السؤال يجمع بين الفعل الماضي «قَضَيْتَ» والتركيب الزماني «عُطْلَةَ نِهَايَةِ الأُسْبُوعِ المَاضِيَةِ» بدقة فصيحة."
         },
         {
-          "prompt": "【التحليل الدلالي】حدد العبارة الصحيحة التي تعبر بدقة عن القاعدة اللغوية في هذا الدرس.",
+          "prompt": "ما هو التعبير المنفي الصحيح للقول بأننا لم نشعر بالتعب في الرحلة؟",
           "options": [
-            "العبارة مضبوطة إعرابيًا وسليمة التركيب وتتوافق تمامًا مع المعايير اللغوية المعتمدة.",
-            "تتضمن الجملة خطأً فادحًا في استخدام حروف الجر والإضافة.",
-            "يوجد تناقض دلالي واضح بين المبتدأ والخبر في السياق المطروح.",
-            "تم استخدام صيغة عامية غير مقبولة في الخطاب الفصيح."
+            "مَا شَعَرْنَا بِالتَّعَبِ / لَمْ نَشْعُرْ بِالتَّعَبِ (We did not feel tired)",
+            "لا نشعر بالتعب غدا",
+            "لن نشعر بالتعب في الماضي",
+            "ليس نشعر بالتعب"
           ],
           "answerIndex": 0,
-          "explanation": "العبارة توافق تمامًا القواعد المعيارية للغة العربية الفصحى."
+          "explanation": "كلا التعبيرين «مَا شَعَرْنَا» و«لَمْ نَشْعُرْ» صحيحان لنفي الماضي."
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【التطبيق العملي】اختر التعبير الأكثر بلاغة ودقة لتمثيل المفهوم اللغوي في هذا الدرس (ar-u7-l5):",
+          "prompt": "اختر الفقرة الحوارية التي تصف تفاصيل رحلة سابقة ونفي زيارة أحد الأماكن لضيق الوقت:",
           "options": [
-            "يحرص الباحثون في قاعة المحاضرات على تدوين الملاحظات النقدية ومراجعة المصادر العلمية (7.5.2).",
-            "تركيب غير سليم يشتمل على خطأ في بناء الفعل المعلوم والمجهول (7.5.x1)",
-            "عبارة تفقد الترابط المنطقي بين أجزاء الجملة المركبة (7.5.x2)",
-            "استعمال غير دقيق للمفردات التخصصية في غير موضعها الصحيح (7.5.x3)"
+            "— هَلْ زُرْتُمُ القَلْعَةَ؟ — نَعَمْ، زُرْنَا القَلْعَةَ، لٰكِنَّنَا لَمْ نَزُرِ المَتْحَفَ لِأَنَّ الوَقْتَ كَانَ قَصِيرًا. (Did you visit the citadel? — Yes, we visited the citadel, but we did not visit the museum because time was short.)",
+            "— هل زرتم القلعة؟ — القلعة تزورنا كل يوم في البيت.",
+            "— اين الرحلة؟ — الرحلة كانت غدا صباحا في القطار.",
+            "— زرنا زرتم لم زاروا بدون معنى."
           ],
           "answerIndex": 0,
-          "explanation": "يمتاز هذا الخيار بالفصاحة والترابط البنيوي التام."
+          "explanation": "الفقرة توظف الإثبات بالماضي «زُرْنَا» والنفي بـ «لَمْ نَزُرْ» مع بيان السبب بأسلوب عربي فصيح."
         },
         {
-          "prompt": "【السياق والتداول】ما هي الصيغة المثالية التي تجسد المقصد التواصلي في موضوع «الفعل الماضي والتعبير عن التجارب (Past Tense & Experience)»؟",
+          "prompt": "ما هي القلعة التاريخية الشهيرة المطلة على البحر المتوسط في مدينة الإسكندرية؟",
           "options": [
-            "شهد المؤتمر الأكاديمي الدولي حوارات فكرية معمقة حول قضايا اللسانيات والترجمة الحديثة (7.5.3).",
-            "صياغة تعاني من حشو لغوي وضعف في الدلالة التركيبية (7.5.y1)",
-            "جملة ينقصها الركن الإسنادي الأساسي لاكتمال المعنى (7.5.y2)",
-            "تعبير يخالف الضوابط المعجمية المعتمدة في المعاجم العربية (7.5.y3)"
+            "قَلْعَةُ قَايِتْبَاي (Citadel of Qaitbay)",
+            "قلعة صلاح الدين في القاهرة",
+            "قلعة حلب",
+            "قلعة دمشق"
           ],
           "answerIndex": 0,
-          "explanation": "هذه الصياغة تعبر بوضوح وأصالة عن المضمون المستهدف."
+          "explanation": "«قلعة قايتباي» هي الحصن الدفاعي التاريخي المشهور على ساحل الإسكندرية."
         }
       ]
     },
@@ -4563,24 +4587,27 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【التقييم الشامل】أي النصوص التالية يمثل النموذج المعياري لاختبار الكفاءة في هذا الموضوع (اختبار 7-5)؟",
+          "prompt": "اختر النص الحواري السردي الشامل الذي يدمج مخرجات الوحدة السابعة بأكملها (الماضي للمفرد والجمع، ظروف الزمان، نفي الماضي، والذكريات):",
           "options": [
-            "أظهر الطلاب تمكنا تاما من استيعاب المعارف التخصصية والتطبيقات الإعرابية المتقدمة (7.5.4).",
-            "خيار يحتوي على لحن إعرابي في علامات الجزم والنصب (7.5.z1)",
-            "فقرة تفتقر إلى الضبط الصرفي الدقيق للأوزان المزيدة (7.5.z2)",
-            "تركيب يتضمن تنافرًا صوتيًا وركاكة في الأسلوب (7.5.z3)"
+            "تَحَدَّثَ يَاسِرٌ عَنْ عُطْلَتِهِ قَائِلًا: «سَافَرْتُ أَنَا وَأَصْدِقَائِي إِلَى الإِسْكَنْدَرِيَّةِ الأُسْبُوعَ المَاضِيَ؛ فَزُرْنَا المَعَالِمَ التَّارِيخِيَّةَ وَتَنَاوَلْنَا أَطْيَبَ المَأْكُولَاتِ، وَمَا شَعَرْنَا بِمُرُورِ الوَقْتِ، لٰكِنَّنَا لَمْ نَزُرِ المَتْحَفَ لِانْشِغَالِنَا بِالجَوْلَةِ البَحْرِيَّةِ، فَكَانَتْ أَيَّامًا لَا تُنْسَى». (Yasser spoke about his vacation: 'My friends and I traveled to Alexandria last week; we visited historical landmarks and had delicious food, and did not feel the passage of time, but we did not visit the museum due to being busy with the boat tour, so they were unforgettable days.')",
+            "تحدث ياسر بالافعال المضارعة والمستقبلية فقط بدون ماض.",
+            "سافرنا سافروا ما لم سكون فتحة ضمة اسكندرية اصدقاء.",
+            "لم يسافر احد ولم ير احد البحر في العطلة."
           ],
           "answerIndex": 0,
-          "explanation": "يمثل النص المختار قمة الفصاحة والدقة النحوية."
+          "explanation": "النص يمثل قمة الفصاحة والتكامل البياني في دمج كافة الكفايات الصرفية والزمانية والأسلوبية للوحدة السابعة بتناغم إعرابي ساحر."
         },
         {
           "type": "typed-recall",
-          "prompt": "اكتب المصطلح المحوري لموضوع الدرس (ar-u7-l5) باللغة العربية (مثال: «الفعل»):",
+          "prompt": "اكتب باللغة العربية الفصحى اسم المدينة الساحلية المصرية الشهيرة التي زارها الأصدقاء في الحوار (مثال: «الإسكندرية»؛ بدون تشكيل):",
           "acceptedAnswers": [
-            "الفعل",
-            "الفعل"
+            "الإسكندرية",
+            "الاسكندرية",
+            "الإسكندريه",
+            "الاسكندريه",
+            "الإِسْكَنْدَرِيَّةُ"
           ],
-          "explanation": "المصطلح الصحيح هو «الفعل»."
+          "explanation": "المدينة الساحلية هي «الإسكندرية»."
         }
       ],
       "passThreshold": 0.8
