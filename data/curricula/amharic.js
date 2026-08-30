@@ -4987,85 +4987,62 @@
     "subject": "amharic",
     "unit": 11,
     "lessonNumber": 1,
-    "title": "የወደፊት ጊዜ እና ዕቅዶች (Future Tense & Intentions) (ክፍል 1)",
+    "title": "ቀላል የወደፊት ጊዜ ግሶች መዋቅር (Simple Future Tense Conjugation)",
     "level": "A2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የወደፊት ጊዜ እርባታ (እ...አለሁ)، ዕቅድ እና ዓላማን በግልጽ መግለጽ። (ክፍል 1)።",
+    "objective": "ቀላል የወደፊት ጊዜ ግሶችን በሁሉም መደቦች (እ...አለሁ፣ ት...አለህ፣ ት...አለሽ፣ ይ...አል፣ ት...አለች፣ እን...አለን፣ ት...አላችሁ፣ ይ...አሉ) በትክክል ማርባትና መጠቀም።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የቀላል የወደፊት ጊዜ ግስ መዋቅር እና እርባታ:\n\n፩. የወደፊት ጊዜ ቅጥያዎች (ከ«መሄድ» ግስ ጋር):\n- እኔ: እሄዳለሁ (ወደፊት እጓዛለሁ)\n- አንተ: ትሄዳለህ (ወደፊት ትጓዛለህ)\n- አንቺ: ትሄጃለሽ (ወደፊት ትጓዢያለሽ)\n- እሱ: ይሄዳል (ወደፊት ይጓዛል)\n- እሷ: ትሄዳለች (ወደፊት ትጓዛለች)\n- እኛ: እንሄዳለን (ወደፊት እንጓዛለን)\n- እናንተ: ትሄዳላችሁ (ወደፊት ትጓዛላችሁ)\n- እነሱ / እርሶ: ይሄዳሉ (ወደፊት ይጓዛሉ)።\n\n፪. የሌሎች ግሶች ምሳሌዎች:\n- መብላት: እበላለሁ፣ ትበላለህ፣ ይበላል፣ እንበላለን\n- መሥራት: እሠራለሁ፣ ትሠራለህ፣ ይሠራል፣ እንሠራለን\n- መማር: እማራለሁ፣ ትማራለህ፣ ይማራል፣ እንማራለን።\n\n፫. የሰዋሰው መርህ:\nበአማርኛ የወደፊት ጊዜ ያልተጠናቀቀ ድርጊትን (የአሁንና የወደፊት ግንድ) ከረዳት ግሱ «አለ» ጋር በማጣመር ይመሰረታል።",
       "examples": [
         {
-          "target": "መምህሩ የ«የወደፊት ጊዜ እና ዕቅዶች (Future Tense & Intentions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (11.1.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የወደፊት ጊዜ እና ዕቅዶች (Future Tense & Intentions)' to the students."
+          "target": "ነገ ጠዋት አዲስ ልብስ ለብሼ ወደ ዩኒቨርሲቲ እሄዳለሁ።",
+          "reading": "Nägä t’əwat addis ləbs läbəšše wädä yunivärsiti əhedallähu. [nɛɡɛ tʼɨwat ʔadːis lɨbs lɛbɨʃːe wɛdɛ junivɛrsiˈti ʔɨheˈdalːɛhu] (neh-GEH t'uh-WAHT ahd-DEES lubs leh-bush-SHAY weh-DEH yoo-nee-ver-see-TEE uh-hay-DAHL-leh-hoo)",
+          "translation": "Tomorrow morning, having worn new clothes, I will go to the university."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (11.1.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ተማሪዎቹ በትምህርታቸው ጠንክረው በመማር ጥሩ ውጤት ያስመዘግባሉ።",
+          "reading": "Tämariwočču bätəmhərtəččäw t’änkərraw bämämar t’əru wət’et yasmäzäggəballu. [tɛmariˈwotʃːu bɛtɨmhɨrtɨtʃːɛw tʼɛnkɨˈrɛw bɛmɛˈmar tʼɨru wɨˈtʼet jasmɛzɛɡːɨˈbalːu] (teh-mah-ree-wohch-CHOO beh-tum-hur-tuhch-CHEW t'en-kuh-ROW beh-meh-MAHR t'uh-ROO wut'-AYT yahs-mez-ehg-guh-BAHL-loo)",
+          "translation": "The students, by studying hard in their education, will register good results."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (11.1.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (11.1.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "እኛ በሚቀጥለው ወር አዲስ የመኖሪያ ቤት እንገዛለን።",
+          "reading": "Ənnya bämmiqät’t’əläw wär addis yämänoriya bet ənnəgäzallän. [ʔɨɲːa bɛmːikʼɛtʼːɨlɛw wɛr ʔadːis jɛmɛnoˈrija bet ʔɨnːɨɡɛˈzalːɛn] (un-NYAH bem-mee-k'et'-t'uh-LEW wer ahd-DEES yeh-meh-noh-REE-yah bayt un-nuh-geh-ZAHL-len)",
+          "translation": "We will buy a new residential house next month."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Future Tense Formula: እ- (I) + Stem + -አለሁ | እን- (We) + Stem + -አለን!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ባህል ውስጥ ስለ ወደፊት ዕቅድ ሲነገር 'እግዚአብሔር ከፈቀደ' (God willing) ማለት የተለመደና የተከበረ ጨዋነት ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የወደፊት ጊዜ እና ዕቅዶች (Future Tense & Intentions)» (ክፍል 1) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«I will study Amharic» የሚለውን ትክክለኛ የወደፊት ጊዜ የግስ እርባታ የያዘው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«የወደፊት ጊዜ እና ዕቅዶች (Future Tense & Intentions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (11.1.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (11.1.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (11.1.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (11.1.w3)"
+            "አማርኛ እማራለሁ። (I will study Amharic - Correct 1st person singular future conjugation)",
+            "አማርኛ ተማርኩ",
+            "አማርኛ አልማርም",
+            "አማርኛ ተማር"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«እማራለሁ» ለእኔ (1st person singular) የወደፊት ጊዜን በትክክል ያመለክታል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u11-l1) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'They will work in the office' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (11.1.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (11.1.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (11.1.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (11.1.x3)"
+            "እነሱ ቢሮ ውስጥ ይሠራሉ። (They will work in the office - Correct 3rd person plural future)",
+            "እነሱ ቢሮ አልገቡም።",
+            "እኔ ቢሮ እሠራለሁ።",
+            "እሱ ትላንት ሠራ።"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የወደፊት ጊዜ እና ዕቅዶች (Future Tense & Intentions)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (11.1.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (11.1.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (11.1.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (11.1.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«ይሠራሉ» ለሦስተኛ መደብ ብዙ (እነሱ) የወደፊት ጊዜን በትክክል ያሳያል።"
         }
       ]
     },
@@ -5073,24 +5050,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 11-1):",
+          "prompt": "የወደፊት ጊዜ የግስ እርባታዎችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (11.1.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (11.1.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (11.1.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (11.1.z3)"
+            "እሄዳለሁ፣ ትሄዳለህ፣ ትሄጃለሽ፣ ይሄዳል፣ ትሄዳለች እና እንሄዳለን።",
+            "ትላንት ሄድኩ እና በላሁ።",
+            "አልሄድኩም እና አልበላሁም።",
+            "በአማርኛ የወደፊት ጊዜ አይረባም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የወደፊት ጊዜ የግስ እርባታዎችን በትክክል ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u11-l1) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የወደፊት»):",
+          "prompt": "'እሄዳለሁ / I will go' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የወደፊት",
-            "የወደፊት"
+            "እሄዳለሁ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የወደፊት» ነው።"
+          "explanation": "ትክክለኛው ቃል «እሄዳለሁ» (Əhedallähu) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -5101,85 +5077,62 @@
     "subject": "amharic",
     "unit": 11,
     "lessonNumber": 2,
-    "title": "የወደፊት ጊዜ እና ዕቅዶች (Future Tense & Intentions) (ክፍል 2)",
+    "title": "የወደፊት ጊዜ የጊዜ አመልካቾች (Future Time Markers)",
     "level": "A2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የወደፊት ጊዜ እርባታ (እ...አለሁ)، ዕቅድ እና ዓላማን በግልጽ መግለጽ። (ክፍል 2)።",
+    "objective": "የወደፊት ጊዜ አመልካቾችን (ነገ፣ ከነገ ወዲያ፣ በሚቀጥለው ሳምንት/ወር/ዓመት፣ ወደፊት) በትክክል መጠቀም።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የወደፊት ጊዜ አመልካች ቃላት እና አጠቃቀማቸው:\n\n፩. የቀናት አመልካቾች:\n- ነገ: ከዛሬ ቀጥሎ የሚመጣው ቀን\n- ከነገ ወዲያ: ከነገ ቀጥሎ የሚመጣው ሁለተኛው ቀን።\n\n፪. የሳምንታት፣ የወራትና የዓመታት አመልካቾች:\n- በሚቀጥለው ሳምንት: የሚመጣው አዲስ ሳምንት\n- በሚመጣው ወር: የሚቀጥለው አዲስ ወር\n- በሚቀጥለው ዓመት: አዲሱ ዓመት ሲመጣ።\n\n፫. ረጅም ጊዜና የወደፊት ዕጣ:\n- ወደፊት: በቀጣይ ህይወት ወይም በሩቅ ጊዜ የሚፈጸም\n- በቅርቡ: በጥቂት ቀናት ወይም ሳምንታት ውስጥ።\n\n፬. የአረፍተ ነገር አወቃቀር:\nየጊዜ አመልካቹ ብዙውን ጊዜ በአረፍተ ነገሩ መጀመሪያ ወይም ከመሪው ቃል ቀጥሎ ይቀመጣል፤ ለምሳሌ: «ነገ እንገናኛለን»።",
       "examples": [
         {
-          "target": "መምህሩ የ«የወደፊት ጊዜ እና ዕቅዶች (Future Tense & Intentions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (11.2.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የወደፊት ጊዜ እና ዕቅዶች (Future Tense & Intentions)' to the students."
+          "target": "ከነገ ወዲያ በዓል ስለሆነ መላው ቤተሰብ በጋራ ምሳ እንበላለን።",
+          "reading": "Känägä wädiya bä'al səlähonä mällaw betäsäb bägara məsa ənnəbälallän. [kɛnɛɡɛ wɛdiˈja bɛʔal sɨlɛˈhonɛ mɨlːaw betɛˈsɛb bɛɡaˈra mɨsa ʔɨnːɨbɛˈlalːɛn] (keh-neh-GEH weh-dee-YAH beh-AHL suh-leh-HOH-neh mul-LOW bay-tuh-SEB beh-gah-RAH muh-SAH un-nuh-beh-LAHL-len)",
+          "translation": "Because the day after tomorrow is a holiday, the entire family will eat lunch together."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (11.2.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "በሚቀጥለው ዓመት ትምህርቴን ጨርሼ ዲግሪዬን እቀበላለሁ።",
+          "reading": "Bämmiqät’t’əläw amät təməhərten č’ärrəše digriyenn əqqäbbälallähu. [bɛmːikʼɛtʼːɨlɛw ʔaˈmɛt tɨmɨhɨrˈten tʃʼɛrːɨˈʃe diɡriˈjen ʔɨkʼːɛbːɛˈlalːɛhu] (bem-mee-k'et'-t'uh-LEW ah-MET tum-hur-TAYN ch'er-ruh-SHAY deeg-ree-YAYN uhk'-k'eb-beh-LAHL-leh-hoo)",
+          "translation": "Next year, having finished my studies, I will receive my degree."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (11.2.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (11.2.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ወደፊት ታዋቂ የህክምና ዶክተር ለመሆን በብርቱ ጥረት እያጠናሁ ነው።",
+          "reading": "Wädäfit tawwaqi yähəkəmna doktär lämähon bäbərtu t’ərät əyyat’ännahu näw. [wɛdɛˈfit tawːaˈkʼi jɛhɨkɨmˈna dokˈtɛr lɛmɛˈhon bɛbɨrˈtu tʼɨrɛt ʔɨjːatʼɛnːaˈhu nɛw] (weh-deh-FEET tahw-wah-K'EE yeh-huh-kum-NAH dohk-TER leh-meh-HOHN beh-bur-TOO t'uh-RET uhy-yah-t'en-NAH-hoo now)",
+          "translation": "I am studying with vigorous effort to become a famous medical doctor in the future."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Future Horizon: ነገ (Tomorrow) -> ከነገ ወዲያ (Day after tomorrow) -> በሚቀጥለው ሳምንት (Next week) -> ወደፊት (In the future)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ የቀን አቆጣጠር መስከረም ፩ ቀን አዲሱ ዓመት ሲሆን፣ ሰዎች 'እንኳን ለአዲሱ ዓመት በሰላም አደረሳችሁ' በማለት ለወደፊቱ መልካም ምኞት ይለዋወጣሉ።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የወደፊት ጊዜ እና ዕቅዶች (Future Tense & Intentions)» (ክፍል 2) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«Day after tomorrow» የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«የወደፊት ጊዜ እና ዕቅዶች (Future Tense & Intentions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (11.2.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (11.2.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (11.2.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (11.2.w3)"
+            "ከነገ ወዲያ (Day after tomorrow - Correct future time phrase)",
+            "ከትላንት ወዲያ",
+            "ባለፈው ሳምንት",
+            "አሁን"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ከነገ ወዲያ» ከነገ ቀጥሎ ያለውን ቀን ያመለክታል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u11-l2) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'Next week we will travel to Bahir Dar' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (11.2.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (11.2.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (11.2.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (11.2.x3)"
+            "በሚቀጥለው ሳምንት ወደ ባሕር ዳር እንጓዛለን። (Next week we will travel to Bahir Dar - Accurate future sentence)",
+            "ትላንት ወደ ባሕር ዳር ሄድን።",
+            "ባሕር ዳር አንሄድም።",
+            "ባሕር ዳር ቆንጆ ከተማ ናት።"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የወደፊት ጊዜ እና ዕቅዶች (Future Tense & Intentions)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (11.2.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (11.2.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (11.2.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (11.2.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«በሚቀጥለው ሳምንት... እንጓዛለን» የወደፊት ጊዜ አመልካችንና ግስን በትክክል ያዛምዳል።"
         }
       ]
     },
@@ -5187,24 +5140,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 11-2):",
+          "prompt": "የወደፊት ጊዜ አመልካቾችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (11.2.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (11.2.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (11.2.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (11.2.z3)"
+            "ነገ፣ ከነገ ወዲያ፣ በሚቀጥለው ሳምንት፣ በሚመጣው ወር እና ወደፊት።",
+            "ትላንትና፣ ከትላንት ወዲያ እና ባለፈው ዓመት።",
+            "ጠዋት፣ ከሰዓት እና ማታ።",
+            "በአማርኛ የወደፊት ጊዜ ቃላት የሉም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የወደፊት ጊዜ አመልካቾችን ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u11-l2) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የወደፊት»):",
+          "prompt": "'ነገ / Tomorrow' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የወደፊት",
-            "የወደፊት"
+            "ነገ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የወደፊት» ነው።"
+          "explanation": "ትክክለኛው ቃል «ነገ» (Nägä) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -5215,85 +5167,62 @@
     "subject": "amharic",
     "unit": 11,
     "lessonNumber": 3,
-    "title": "የወደፊት ጊዜ እና ዕቅዶች (Future Tense & Intentions) (ክፍል 3)",
+    "title": "የወደፊት ጊዜ አሉታዊ ቅርጽ (Negative Future Tense Conjugation)",
     "level": "A2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የወደፊት ጊዜ እርባታ (እ...አለሁ)، ዕቅድ እና ዓላማን በግልጽ መግለጽ። (ክፍል 3)።",
+    "objective": "የወደፊት ጊዜ አሉታዊ ግሶችን (አል...ም: አልሄድም፣ አትሄድም፣ አትሄጂም፣ አይሄድም፣ አትሄድም፣ አንሄድም፣ አትሄዱም፣ አይሄዱም) ማርባትና መጠቀም።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የወደፊት ጊዜ አሉታዊ ግሶች መዋቅር እና እርባታ:\n\n፩. የአሉታዊነት ቅጥያዎች (ከ«መሄድ» ግስ ጋር):\n- እኔ: አልሄድም (አልጓዝም)\n- አንተ: አትሄድም (አትጓዝም)\n- አንቺ: አትሄጂም (አትጓዢም)\n- እሱ: አይሄድም (አይጓዝም)\n- እሷ: አትሄድም (አትጓዝም)\n- እኛ: አንሄድም (አንጓዝም)\n- እናንተ: አትሄዱም (አትጓዙም)\n- እነሱ / እርሶ: አይሄዱም (አይጓዙም)።\n\n፪. የሌሎች ግሶች አሉታዊ እርባታ:\n- መብላት: አልበላም፣ አትበላም፣ አይበላም፣ አንበላም\n- መሥራት: አልሠራም፣ አትሠራም፣ አይሠራም፣ አንሠራም\n- መግዛት: አልገዛም፣ አትገዛም፣ አይገዛም፣ አንገዛም።\n\n፫. የሰዋሰው መርህ:\nበአዎንታዊ የወደፊት ጊዜ የነበረው «አለሁ/አለህ/አለ» ረዳት ግስ በአሉታዊው ቅርጽ ውስጥ ይሰረዝ እና «አል- ... -ም» ማዕቀፍ ይተካል።",
       "examples": [
         {
-          "target": "መምህሩ የ«የወደፊት ጊዜ እና ዕቅዶች (Future Tense & Intentions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (11.3.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የወደፊት ጊዜ እና ዕቅዶች (Future Tense & Intentions)' to the students."
+          "target": "ነገ ዝናብ ስለሚዘንብ ወደ ሜዳ ወጥተን እግር ኳስ አንጫወትም።",
+          "reading": "Nägä zənab səlähəmmizänəb wädä meda wät’t’än əgər kwas annəč’awwätəm. [nɛɡɛ zɨˈnab sɨlɛmːiˈzɛnɨb wɛdɛ meˈda wɛtʼːɛn ʔɨɡr kʷas ʔanːɨtʃʼawːɛˈtɨm] (neh-GEH zuh-NAHB suh-leh-mee-ZEH-nub weh-DEH may-DAH wet'-TEN ug-GUR kwas ahn-nuh-ch'ow-WEH-tum)",
+          "translation": "Because it will rain tomorrow, we will not go out to the field and play football."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (11.3.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "እሱ ገንዘብ ስለሌለው ይህን ውድ ሞባይል ስልክ አይገዛም።",
+          "reading": "Əssu gänzäb səlalleleläw yəhən wəd mobil səlk aygäzam. [ʔɨsːu ɡɛnˈzɛb sɨlɛleˈlɛw jɨˈhɨn wɨd moˈbajl sɨlk ʔajɡɛˈzam] (us-SOO gen-ZEB suh-leh-lay-LEW yuh-HIN wud moh-BYE-l sulk eye-geh-ZAHM)",
+          "translation": "Because he has no money, he will not buy this expensive mobile phone."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (11.3.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (11.3.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "እኔ ዛሬ ማታ ቡና አልጠጣም፤ ምክንያቱም እንቅልፍ ይከለክለኛል።",
+          "reading": "Əne zare mata bunna alt’ät’t’am; məkənyatum ənqəlff yəkäläkələnyall. [ʔɨne zaˈre maˈta bunːa ʔaltʼɛtʼːam mɨkɨnˈjatum ʔɨnkʼɨlf jɨkɛlɛkɨlɛˈɲal] (uh-NAY zah-RAY mah-TAH boon-NAH ahl-t'et'-T'AHM; muh-kun-YAH-toom un-k'ulf yuh-keh-leh-kuh-len-YAHL)",
+          "translation": "I will not drink coffee tonight, because it deprives me of sleep."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Negative Future Frame: አል- + Verb Root + -ም (e.g. አልሄድም, አይመጣም, አንበላም)!"
+      ],
+      "culturalNotes": [
+        "አንድን ግብዣ በአክብሮት ውድቅ ለማድረግ 'አይመቸኝም' (It is not convenient for me) ወይም 'አልችልም፣ ይቅርታ' ማለት የተለመደ ጨዋነት ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የወደፊት ጊዜ እና ዕቅዶች (Future Tense & Intentions)» (ክፍል 3) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«I will not eat» የሚለውን በአማርኛ ትክክለኛ የወደፊት አሉታዊ ቅርጽ የገለጸው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«የወደፊት ጊዜ እና ዕቅዶች (Future Tense & Intentions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (11.3.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (11.3.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (11.3.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (11.3.w3)"
+            "አልበላም (I will not eat - Correct 1st person singular negative future)",
+            "አልበላሁም",
+            "እበላለሁ",
+            "ብላ"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«አልበላም» የወደፊት ወይም የአሁን ያልተጠናቀቀ አሉታዊ ድርጊትን ያመለክታል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u11-l3) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'They will not come tomorrow' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (11.3.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (11.3.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (11.3.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (11.3.x3)"
+            "ነገ አይመጡም። (They will not come tomorrow - Correct 3rd person plural negative future)",
+            "ትላንት መጡ።",
+            "ነገ ይመጣሉ።",
+            "እኔ አልመጣም።"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የወደፊት ጊዜ እና ዕቅዶች (Future Tense & Intentions)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (11.3.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (11.3.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (11.3.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (11.3.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«አይመጡም» ለሦስተኛ መደብ ብዙ የወደፊት አሉታዊ ቅርጽ ነው።"
         }
       ]
     },
@@ -5301,24 +5230,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 11-3):",
+          "prompt": "የወደፊት ጊዜ አሉታዊ ግሶችን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (11.3.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (11.3.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (11.3.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (11.3.z3)"
+            "አልሄድም፣ አትሄድም፣ አትሄጂም፣ አይሄድም፣ አትሄድም እና አንሄድም።",
+            "ሄድኩ፣ ሄደ እና ሄድን።",
+            "እሄዳለሁ እና ትሄዳለህ።",
+            "በአማርኛ አሉታዊ ግስ የለም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የወደፊት አሉታዊ ግሶችን ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u11-l3) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የወደፊት»):",
+          "prompt": "'አልሄድም / I will not go' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የወደፊት",
-            "የወደፊት"
+            "አልሄድም"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የወደፊት» ነው።"
+          "explanation": "ትክክለኛው ቃል «አልሄድም» (Alhedəm) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -5329,85 +5257,62 @@
     "subject": "amharic",
     "unit": 11,
     "lessonNumber": 4,
-    "title": "የወደፊት ጊዜ እና ዕቅዶች (Future Tense & Intentions) (ክፍል 4)",
+    "title": "ዕቅዶችን፣ ዓላማዎችን እና ምኞቶችን መግለጽ (Expressing Intentions, Plans & Desires)",
     "level": "A2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የወደፊት ጊዜ እርባታ (እ...አለሁ)، ዕቅድ እና ዓላማን በግልጽ መግለጽ። (ክፍል 4)።",
+    "objective": "ዕቅዶችን (አቅጃለሁ፣ አስባለሁ፣ እፈልጋለሁ፣ ... ለማድረግ) በውይይት ውስጥ መግለጽ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የዕቅድ፣ የዓላማ እና የምኞት መግለጫ ሰዋሰዋዊ መዋቅሮች:\n\n፩. ዋና ዋና የዕቅድ ግሶች:\n- ማቀድ: አቅጃለሁ (ዕቅድ አለኝ)\n- ማሰብ: አስባለሁ (ሐሳብ አለኝ)\n- መፈለግ: እፈልጋለሁ (ምኞትና ፍላጎት አለኝ)።\n\n፪. የመስተዋድድና የዘርፍ አወቃቀር:\nየማስረጃ ግስ (መ-) + ለማድረግ / ለመሆን:\n- ለመማር እፈልጋለሁ (መማር እሻለሁ)\n- ለመጓዝ አቅጃለሁ (ጉዞ አቅጃለሁ)\n- ለመሥራት አስባለሁ (ሥራ የመጀመር ሐሳብ አለኝ)።\n\n፫. ምኞትን መግለጽ:\n«ትልቅ ድርጅት የማቋቋም ዓላማ አለኝ»፣ «ሀገሬን የማገልገል ህልም አለኝ» እያልን የወደፊት ራዕያችንን እንገልጻለን።",
       "examples": [
         {
-          "target": "መምህሩ የ«የወደፊት ጊዜ እና ዕቅዶች (Future Tense & Intentions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (11.4.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የወደፊት ጊዜ እና ዕቅዶች (Future Tense & Intentions)' to the students."
+          "target": "በክረምት ዕረፍት ጊዜ ወደ ላሊበላ ታሪካዊ ቦታዎች ለመጓዝ አቅጃለሁ።",
+          "reading": "Bäkərämt ərəft gize wädä Lalibäla tarikawi botawočč lämägwaz aqəğğallähu. [bɛkɨˈrɛmt ʔɨrɨft ɡiˈze wɛdɛ laliˈbɛla tariˈkawi botaˈwotʃː lɛmɛɡʷaz ʔakʼɨdʒːaˈlːɛhu] (beh-kuh-REMT uh-RUFT gee-ZAY weh-DEH lah-lee-beh-LAH tah-ree-KAH-wee boh-tah-wohch-CH leh-meh-GWAHZ ah-k'uhj-JAHL-leh-hoo)",
+          "translation": "During the rainy season vacation time, I have planned to travel to Lalibela historical sites."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (11.4.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "እህቴ የኮምፒውተር ሳይንስ ትምህርቷን በከፍተኛ ማዕረግ ለመጨረስ ትፈልጋለች።",
+          "reading": "Əhəte yäkompiyutär sayəns təməhərtwan bäkäffətänya ma'əräg lämät’ärräs təfälləgalläčč. [ʔɨhɨˈte jɛkompjuˈtɛr saˈjɨns tɨmɨhɨrˈtwan bɛkɛfːɨˈtɛɲa maʔɨˈrɛɡ lɛmɛtʃʼɛrːɛs tɨfɛlːɨˈɡalːɛtʃː] (uh-huh-TAY yeh-kohm-pyoo-TER sah-YUNS tum-hur-TWAHN beh-kef-fuh-TEN-yah mah-uh-REG leh-meh-ch'er-RES tuh-fel-luh-GAHL-lehch)",
+          "translation": "My sister wants to finish her computer science education with high distinction."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (11.4.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (11.4.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ወጣቶቹ በጋራ በመሆን አዲስ የቴክኖሎጂ የፈጠራ ድርጅት ለማቋቋም አስበዋል።",
+          "reading": "Wät’t’atočču bägara bämähon addis yätäknoloği yäfät’t’ära dərəğğət lämaqqwaqwam asbäwall. [wɛtʼːaˈtotʃːu bɛɡaˈra bɛmɛˈhon ʔadːis jɛtɛknoˈlodʒi jɛfɛtʼːɛˈra dɨrɨdʒːɨt lɛmakʷːakʷam ʔasbɛˈwalː] (wet'-t'ah-tohch-CHOO beh-gah-RAH beh-meh-HOHN ahd-DEES yeh-tek-noh-LOH-jee yeh-fet'-t'eh-RAH duh-ruh-JUHT leh-mahk-kwah-KWAHM ahs-beh-WAHL)",
+          "translation": "The youth, by being together, have intended to establish a new technological startup company."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Intent Trio: አቅጃለሁ (I planned) + እፈልጋለሁ (I want) + አስባለሁ (I intend)!"
+      ],
+      "culturalNotes": [
+        "በኢትዮጵያ ወጣቶች መካከል 'አዲስ ጅምር ይሁንልህ' (May it be a new beginning for you) በማለት አዲስ ሥራ ለጀመረ ሰው ምርቃት መስጠት የተለመደ ነው።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የወደፊት ጊዜ እና ዕቅዶች (Future Tense & Intentions)» (ክፍል 4) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "«I want to travel» የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«የወደፊት ጊዜ እና ዕቅዶች (Future Tense & Intentions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (11.4.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (11.4.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (11.4.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (11.4.w3)"
+            "ለመጓዝ እፈልጋለሁ። (I want to travel - Correct infinitive + desiderative verb)",
+            "መጓዝ አልፈልግም",
+            "ትላንት ተጓዝኩ",
+            "አትጓዝ"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "«ለመጓዝ እፈልጋለሁ» የመጓዝ ፍላጎትንና ምኞትን በትክክል ያሳያል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u11-l4) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "'He has planned to buy a car' የሚለውን በአማርኛ በትክክል የገለጸው የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (11.4.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (11.4.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (11.4.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (11.4.x3)"
+            "መኪና ለመግዛት አቅዷል። (He has planned to buy a car - Correct intention structure)",
+            "መኪና ሸጠ።",
+            "መኪና የለውም።",
+            "መኪና አይገዛም።"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የወደፊት ጊዜ እና ዕቅዶች (Future Tense & Intentions)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (11.4.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (11.4.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (11.4.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (11.4.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "«መኪና ለመግዛት አቅዷል» የግዢ ዕቅድን በትክክል ይገልጻል።"
         }
       ]
     },
@@ -5415,24 +5320,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 11-4):",
+          "prompt": "የዕቅድ እና የዓላማ መግለጫ ቃላትን በትክክል ያጣመረው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (11.4.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (11.4.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (11.4.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (11.4.z3)"
+            "አቅጃለሁ፣ አስባለሁ፣ እፈልጋለሁ፣ ለመማር እና ለማቋቋም።",
+            "ትላንት በላሁ እና ጠጣሁ።",
+            "ምንም ዕቅድ የለም።",
+            "በአማርኛ የዕቅድ ቃል አይነገርም።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ ዋና ዋና የዕቅድና የምኞት መግለጫዎችን ይዟል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u11-l4) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የወደፊት»):",
+          "prompt": "'አቅጃለሁ / I have planned' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የወደፊት",
-            "የወደፊት"
+            "አቅጃለሁ"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የወደፊት» ነው።"
+          "explanation": "ትክክለኛው ቃል «አቅጃለሁ» (Aqəğğallähu) ነው።"
         }
       ],
       "passThreshold": 0.8
@@ -5443,85 +5347,62 @@
     "subject": "amharic",
     "unit": 11,
     "lessonNumber": 5,
-    "title": "የወደፊት ጊዜ እና ዕቅዶች (Future Tense & Intentions) (ክፍል 5)",
+    "title": "የክፍል 11 አጠቃላይ ማጠቃለያ (Unit 11 Grand Synthesis & Future Aspirations Discourse)",
     "level": "A2",
-    "objective": "የተሟላ ዕውቀትና ተግባራዊ ክህሎት ማዳበር በ: የወደፊት ጊዜ እርባታ (እ...አለሁ)، ዕቅድ እና ዓላማን በግልጽ መግለጽ። (ክፍል 5)።",
+    "objective": "የወደፊት ጊዜ ግሶችን፣ የጊዜ አመልካቾችን፣ አሉታዊ ቅርጾችንና ዕቅዶችን ያቀናጀ የተሟላ ንግግር ማካሄድ።",
     "presentation": {
-      "explanation": "",
+      "explanation": "የክፍል ፲፩ አጠቃላይ ሰዋሰዋዊ ውህደት እና የወደፊት ተግባቦት ማጠቃለያ:\n\n፩. የወደፊት ጊዜ አዎንታዊ እርባታ:\n- እሄዳለሁ፣ ትሄዳለህ፣ ትሄጃለሽ፣ ይሄዳል፣ ትሄዳለች፣ እንሄዳለን፣ ትሄዳላችሁ፣ ይሄዳሉ።\n\n፪. የወደፊት ጊዜ አመልካቾች:\n- ነገ፣ ከነገ ወዲያ፣ በሚቀጥለው ሳምንት፣ በሚመጣው ወር፣ በሚቀጥለው ዓመት፣ ወደፊት።\n\n፫. የወደፊት አሉታዊ ቅርጽ:\n- አልሄድም፣ አትሄድም፣ አትሄጂም፣ አይሄድም፣ አትሄድም፣ አንሄድም፣ አትሄዱም፣ አይሄዱም።\n\n፬. የዕቅድና የዓላማ መግለጫ:\n- ለመማር እፈልጋለሁ፣ ለመጓዝ አቅጃለሁ፣ አዲስ ሥራ ለመጀመር አስባለሁ።",
       "examples": [
         {
-          "target": "መምህሩ የ«የወደፊት ጊዜ እና ዕቅዶች (Future Tense & Intentions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (11.5.1)።",
-          "reading": "Memhiru ye-timihirtun wana wana sewasewawi higoch le-temariwochu be-gilts yasredalu.",
-          "translation": "The teacher clearly and thoroughly explains the key grammatical rules of 'የወደፊት ጊዜ እና ዕቅዶች (Future Tense & Intentions)' to the students."
+          "target": "በሚቀጥለው ዓመት ዩኒቨርሲቲ ገብቼ የህክምና ሳይንስ እማራለሁ፤ ጠንክሬም አጠናለሁ።",
+          "reading": "Bämmiqät’t’əläw amät yunivärsiti gäbbəčče yähəkəmna sayəns əmmarallähu; t’änkərem ət’änallähu. [bɛmːikʼɛtʼːɨlɛw ʔaˈmɛt junivɛrsiˈti ɡɛbːɨtʃːe jɛhɨkɨmˈna saˈjɨns ʔɨmːaˈralːɛhu tʼɛnkɨˈrem ʔɨtʼɛˈnalːɛhu] (bem-mee-k'et'-t'uh-LEW ah-MET yoo-nee-ver-see-TEE geb-buhch-CHAY yeh-huh-kum-NAH sah-YUNS um-mah-RAHL-leh-hoo; t'en-kuh-RAY-m uh-t'eh-NAHL-leh-hoo)",
+          "translation": "Next year, having entered university, I will study medical science; and I will study hard."
         },
         {
-          "target": "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (11.5.2)።",
-          "reading": "Temariwochu be-akadamik adarash wist honew timihirtun betimona yiketatelalu.",
-          "translation": "The students follow the lesson attentively in the academic hall and perform practical exercises."
+          "target": "ነገ ዝናብ ስለሚዘንብ ወደ ገበያ አንሄድም፤ ይልቁንም ቤት ውስጥ እናርፋለን።",
+          "reading": "Nägä zənab səlähəmmizänəb wädä gäbäya annəhedəm; yələqunəm bet wəst’ ənnarrəfallän. [nɛɡɛ zɨˈnab sɨlɛmːiˈzɛnɨb wɛdɛ ɡɛbɛˈja ʔanːɨheˈdɨm jɨlɨkʼuˈnɨm bet wɨstʼ ʔɨnːarːɨˈfalːɛn] (neh-GEH zuh-NAHB suh-leh-mee-ZEH-nub weh-DEH geh-beh-YAH ahn-nuh-HAY-dum; yuh-luh-k'oo-NUM bayt woos-T' un-nahr-ruh-FAHL-len)"
+          ,"translation": "Because it will rain tomorrow, we will not go to the market; rather we will rest at home."
         },
         {
-          "target": "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (11.5.3)።",
-          "reading": "Be-Addis Ababa Yuniversiti alem aqef mihuhran yetesatefubet tilq sayinsawi wiyiyit tekahede.",
-          "translation": "A profound scientific and cultural discussion involving international scholars was held at Addis Ababa University."
-        },
-        {
-          "target": "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (11.5.4)።",
-          "reading": "Temariwoch ye-timihirtun yizet bemigeba bemerdat ye-fetena tiyaqewochin betikikil melesu.",
-          "translation": "Students accurately answered the exam questions without any error by properly understanding the lesson content."
+          "target": "ወደፊት የተሻለና የበለጸገ ህይወት ለመገንባት ዛሬ ጠንክረን መሥራት አለብን።",
+          "reading": "Wädäfit yätäšalänna yäbäläs’s’ägä həywät lämägänbat zare t’änkərän mäsrat alläbbən. [wɛdɛˈfit jɛtɛʃaˈlɛnːa jɛbɛlɛsˤːɛˈɡɛ hɨjˈwɛt lɛmɛɡɛnˈbat zaˈre tʼɛnkɨˈrɛn mɛsˈrat ʔalːɛbːɨn] (weh-deh-FEET yeh-teh-shah-LEN-nah yeh-beh-lets'-ts'eh-GEH huy-WET leh-meh-gen-BAHT zah-RAY t'en-kuh-REN mes-RAHT ahl-leb-BUN)",
+          "translation": "To build a better and more prosperous life in the future, we must work hard today."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "Future Blueprint: Action (እሰራለሁ) + Time (ነገ) + Negation (አልተውም) + Vision (አቅጃለሁ)!"
+      ],
+      "culturalNotes": [
+        "ኢትዮጵያውያን ለወደፊት ህይወት ምርቃት ሲሰጡ 'ያሰብከው/ያሰብሽው ይሳካልህ/ይሳካልሽ' (May what you intended succeed for you) ይላሉ።"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "【የሰዋሰው ትንተና】ለ«የወደፊት ጊዜ እና ዕቅዶች (Future Tense & Intentions)» (ክፍል 5) ትክክለኛውን ሰዋሰዋዊ አጠቃቀም የሚያሳየው የትኛው አረፍተ ነገር ነው?",
+          "prompt": "ከሚከተሉት ውስጥ የወደፊት ዕቅድንና ተግባርን በትክክል ያቀናጀው የትኛው ነው?",
           "options": [
-            "መምህሩ የ«የወደፊት ጊዜ እና ዕቅዶች (Future Tense & Intentions)» ዋና ዋና ሰዋሰዋዊ ህጎችን ለተማሪዎቹ በግልጽ እና በጥልቀት ያስረዳሉ (11.5.1)።",
-            "የሰዋሰው ስህተት እና የባለቤትና ማሰሪያ አንቀጽ አለመጣጣም ያለበት አረፍተ ነገር (11.5.w1)",
-            "የመስተዋድድ አጠቃቀም ስህተት ያለበት የተዛባ ዓረፍተ ነገር (11.5.w2)",
-            "የቃላት አሰካክ ጉድለት ያለበት እና ትርጉሙ ያልተሟላ ሐረግ (11.5.w3)"
+            "በሚቀጥለው ወር አዲስ ሥራ ለመጀመር አቅጃለሁ፤ ጠንክሬም እሠራለሁ። (Complete future intention and action sequence)",
+            "ትላንት ሥራ ጨረስኩ",
+            "ምንም ዕቅድ የለኝም",
+            "ሥራ አልፈልግም"
           ],
           "answerIndex": 0,
-          "explanation": "የመጀመሪያው አማራጭ ትክክለኛውን የአማርኛ ሰዋሰዋዊ እና መዋቅራዊ ስርዓት ሙሉ በሙሉ ጠብቆ የተዋቀረ ነው።"
-        },
-        {
-          "prompt": "【የትርጉም እና የአገባብ ትንተና】በዚህ ትምህርት ውስጥ የተብራራውን የቋንቋ ህግ በትክክል የሚገልጸው የቱ ነው?",
-          "options": [
-            "ይህ አረፍተ ነገር በመደበኛ የአማርኛ ሰዋሰው ህግ መሰረት በትክክል የተዋቀረ ነው።",
-            "በአረፍተ ነገሩ ውስጥ የጾታ እና የቁጥር አለመጣጣም ስህተት ተፈጽሟል።",
-            "ተገቢ ያልሆነ እና በመደበኛ ቋንቋ የማይፈቀድ የቃላት አጠቃቀም ይታያል።",
-            "የአረፍተ ነገሩ ማሰሪያ አንቀጽ ባለመኖሩ ምክንያት ትርጉሙ አልተሟላም።"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ትክክለኛውን የሰዋሰው መርህ የሚያረጋግጥ ነው።"
+          "explanation": "ይህ አማራጭ የጊዜ አመልካችን፣ ዕቅድንና የወደፊት ግስን በአንድነት ያጠቃልላል።"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "【ተግባራዊ ልምምድ】በዚህ ትምህርት (am-u11-l5) የተማሩትን ጽንሰ-ሀሳብ በትክክል የሚተገብረውን አረፍተ ነገር ይምረጡ:",
+          "prompt": "የወደፊት አዎንታዊና አሉታዊ መግለጫዎችን ያጣመረው ትክክለኛ ዓረፍተ ነገር የትኛው ነው?",
           "options": [
-            "ተማሪዎቹ በአካዳሚክ አዳራሽ ውስጥ ሆነው ትምህርቱን በጥሞና ይከታተላሉ እንዲሁም ተግባራዊ ልምምዶችን ያከናውናሉ (11.5.2)።",
-            "የግስ እርባታ ስህተት ያለበት ያልተሟላ አረፍተ ነገር (11.5.x1)",
-            "የአያያዥ ቃላት አጠቃቀም የተዛባበት መዋቅር (11.5.x2)",
-            "ተገቢ ያልሆነ የቃላት ቅደም ተከተል የተከተለ አረፍተ ነገር (11.5.x3)"
+            "ነገ ወደ ከተማ አልሄድም፤ ይልቁንም ቤት ውስጥ አጠናለሁ። (Tomorrow I will not go to town; rather I will study at home - Contrastive future)",
+            "ትላንት ወደ ከተማ አልሄድኩም።",
+            "ምንም አላጠናሁም።",
+            "ከተማ ሩቅ ነው።"
           ],
           "answerIndex": 0,
-          "explanation": "ይህ አረፍተ ነገር ትክክለኛውን ሰዋሰዋዊ ግንኙነት ያሳያል።"
-        },
-        {
-          "prompt": "【የአውድ ምርጫ】ለ«የወደፊት ጊዜ እና ዕቅዶች (Future Tense & Intentions)» ትክክለኛውን ተግባቦታዊ መልእክት የሚያስተላልፈው የትኛው ነው?",
-          "options": [
-            "በአዲስ አበባ ዩኒቨርሲቲ ዓለም አቀፍ ምሁራን የተሳተፉበት ጥልቅ ሳይንሳዊ እና ባህላዊ ውይይት ተካሄደ (11.5.3)።",
-            "ትርጉሙ ግልጽ ያልሆነ እና የተዛባ አገላለጽ (11.5.y1)",
-            "የፊደል አጻጻፍ እና የድምፅ ስህተት ያለበት ዓረፍተ ነገር (11.5.y2)",
-            "የማህበራዊ ጨዋነትን ያላሟላ የተሳሳተ አነጋገር (11.5.y3)"
-          ],
-          "answerIndex": 0,
-          "explanation": "ይህ ምርጫ ግልጽ እና ደረጃውን የጠበቀ መልእክት ያስተላልፋል።"
+          "explanation": "ይህ ዓረፍተ ነገር የወደፊት አሉታዊን (አልሄድም) እና የወደፊት አዎንታዊን (አጠናለሁ) በትክክል ያዛምዳል።"
         }
       ]
     },
@@ -5529,24 +5410,23 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "【የብቃት ማረጋገጫ】የዚህን ትምህርት ዕውቀት ለመገምገም ትክክለኛ ምሳሌ የሚሆነውን ይምረጡ (ፈተና 11-5):",
+          "prompt": "የክፍል 11 ዋና ዋና ርዕሰ ጉዳዮችን በትክክል ያጠቃለለው የትኛው ነው?",
           "options": [
-            "ተማሪዎች የትምህርቱን ይዘት በሚገባ በመረዳት የፈተና ጥያቄዎችን ያለ ምንም ስህተት በትክክል መለሱ (11.5.4)።",
-            "የጊዜ እና የተግባር አለመጣጣም ስህተት ያለበት አረፍተ ነገር (11.5.z1)",
-            "የተሳሳተ የተውላጠ ስም ቅጥያ የተጨመረበት ቃል (11.5.z2)",
-            "የሰዋሰው ህግን ያልጠበቀ የተዛባ ጽሑፍ (11.5.z3)"
+            "ቀላል የወደፊት ጊዜ ግሶች፣ የጊዜ አመልካቾች (ነገ፣ በሚቀጥለው ሳምንት)፣ የወደፊት አሉታዊ ቅርጾች እና የዕቅድ መግለጫዎች ተካተዋል።",
+            "ይህ ክፍል ስለ ያለፈ ታሪክ ብቻ ነው።",
+            "በአማርኛ የወደፊት ጊዜ የለም።",
+            "ሁሉም ግሶች አንድ ዓይነት እርባታ አላቸው።"
           ],
           "answerIndex": 0,
-          "explanation": "የተመረጠው አረፍተ ነገር ሙሉ እና እንከን የለሽ ነው።"
+          "explanation": "የመጀመሪያው አማራጭ የክፍል 11ን አጠቃላይ የወደፊት ጊዜ ይዘት በሙሉ ይሸፍናል።"
         },
         {
           "type": "typed-recall",
-          "prompt": "የዚህን ትምህርት (am-u11-l5) ቁልፍ ቃል በግዕዝ ፊደላት ያስገቡ (ለምሳሌ: «የወደፊት»):",
+          "prompt": "'የወደፊት / Future' የሚለውን ቃል በግዕዝ ፊደላት በትክክል ጻፉ:",
           "acceptedAnswers": [
-            "የወደፊት",
             "የወደፊት"
           ],
-          "explanation": "ትክክለኛው ቁልፍ ቃል «የወደፊት» ነው።"
+          "explanation": "ትክክለኛው ቃል «የወደፊት» (Yäwädäfit) ነው።"
         }
       ],
       "passThreshold": 0.8
