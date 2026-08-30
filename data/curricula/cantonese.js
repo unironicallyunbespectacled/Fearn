@@ -11965,53 +11965,62 @@
     "subject": "cantonese",
     "unit": 29,
     "lessonNumber": 1,
-    "title": "科技創新與學術話語 (Science, Tech & Academic Discourse) (第1課)",
+    "title": "人工智能、機器學習與大數據分析：「算法演進」、「深度學習」、「訓練模型」 (AI & Big Data Analytics)",
     "level": "C1",
-    "objective": "Master Cantonese linguistics for 粵語單元29第1課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握人工智能（AI）、大語言模型（LLM）、機器學習、深度神經網絡及大數據分析之專業前沿粵語科技詞彙與高階科技論述。",
     "presentation": {
-      "explanation": "",
+      "explanation": "人工智能與大數據技術之飛速發展，催生了高度專業化之現代科技粵語話語體系：\n\n一、人工智能與大數據核心術語矩陣：\n１．核心架構與模型（Core Architecture）：\n- 「大語言模型」（daai6 jyu5 jin4 mou4 jing4 / LLM）：以巨量參數進行自然語言處理之深度學習模型。\n- 「機器學習與深度學習」（gei1 hei3 hok6 zaap6 jyu5 sam1 dou6 hok6 zaap6）：透過多層神經網絡自主提取特徵。\n- 「算法演進與迭代」（syun3 faat3 jin2 zeon3 jyu5 dip6 doi6）：不斷優化計算路徑以提升預測準確率。\n\n２．工程落地與數據治理（Engineering & Data）：\n- 「數據清洗與標註」（sou3 geoi3 cing1 sai2 jyu5 biu1 zyu3）：剔除噪聲數據，確保訓練質量。\n- 「微調與參數對齊」（mei4 tiu4 jyu5 caam1 sou3 deoi3 cai4 / Fine-tuning & Alignment）：使模型輸出更符合人類價值觀與具體業務場景。\n- 「算力集群與雲端分佈式運算」（syun3 lik6 zaap6 kwan4）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第29課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 29 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 29 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 29 in communication."
+          "target": "科研團隊利用海量語料庫對大語言模型進行深度訓練同參數微調，顯著提升咗機器翻譯同邏輯推理能力。",
+          "reading": "fo1 jin4 tyun4 deoi6*2 lei6 jung6 hoi2 loeng6 jyu5 liu6*2 fu3 deoi3 daai6 jyu5 jin4 mou4 jing4 zeon3 hang4 sam1 dou6 fan3 lin6 tung4 caam1 sou3 mei4 tiu4, hin2 zoek3 tai4 sing1 zo2 gei1 hei3 faan1 jik6 tung4 lo4 cap1 teoi1 lei5 nang4 lik6. [fɔː˥ jiːn˨˩ tʰyːn˨˩ tɵy˧˥ lei˨ jʊŋ˨ hɔːi˩˧ lœːŋ˨ jyuː˩˧ liu˨ fu˧ tɵy˧ taːi˨ jyuː˩˧ jiːn˨˩ mouou˨˩ jɪŋ˨˩ tsɵn˧ hɐŋ˨˩ sɐm˥ tou˨ fɐn˧ liːn˨ tʰʊŋ˨˩ tsʰaːm˥ sou˧ mei˨˩ tʰiːu˨˩, hin˧˥ tsœːk̚˧ tʰɐi˨˩ sɪŋ˥ tsɔː˧˥ kei˥ hei˧ faːn˥ jɪk̚˨ tʰʊŋ˨˩ lɔː˨˩ tsʰɐp̚˥ tʰɵy˥ lei˩˧ nɐŋ˨˩ lɪk̚˨] (FOH-YEEN TUEN-DEOY LEY-YOONG HOI-LEUNG YUE-LEW-FOO DEOY DY YUE-YEEN MOU-YING JEON-HAHNG SUM-DOU FUN-LEEN TOONG CHAAM-SOU MAY-TEW, HEEN-JERK TY-SING-JOR GAY-HEY FAHN-YIK TOONG LOH-CHUP TOEY-LEY NUNG-LIK)",
+          "translation": "The scientific research team utilized a massive corpus to conduct deep training and parameter fine-tuning on the large language model, significantly enhancing its machine translation and logical reasoning capabilities."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元29-1）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "大數據分析唔單止能夠精準預測市場趨勢，仲可以為公共衛生防控提供實時算力支援。",
+          "reading": "daai6 sou3 geoi3 fan1 sik1 m4 daan1 zi2 nang4 gau3 zing1 zeon2 jyu6 cak1 si5 coeng4 ceoi1 sai3, zung6 ho2 ji5 wai4 gung1 gung6 wai6 sang1 fong4 hung3 tai4 gung1 sat6 si4 syun3 lik6 zi1 jyun4. [taːi˨ sou˧ kɵy˧ fɐn˥ sɪk̚˥ m̩˨˩ taːn˥ tsiː˧˥ nɐŋ˨˩ kɐu˧ tsɪŋ˥ tsɵn˧˥ jyu˨ tsʰak̚˥ siː˩˧ tsʰœːŋ˨˩ tsʰɵy˥ sɐi˧, tsʊŋ˨ hɔː˧˥ jiː˩˧ wɐi˨˩ kʊŋ˥ kʊŋ˨ wɐi˨ sɐŋ˥ fɔːŋ˨˩ hʊŋ˧ tʰɐi˨˩ kʊŋ˥ sɐt̚˨ siː˨˩ syun˧ lɪk̚˨ tsiː˥ jyːn˨˩] (DY SOU-GOEY FUN-SIK M-DAHN-JEE NUNG-GAU JING-JEON YUE-CHUK SEE-CHEUNG CHOEY-SY, JOONG HOH-YEE WAI GONG-GONG WAI-SUNG FONG-HOONG TY-GONG SUT-SEE SUEN-LIK JEE-YUEN)",
+          "translation": "Big data analytics not only accurately predicts market trends, but also provides real-time computing support for public health epidemic prevention and control."
+        },
+        {
+          "target": "深度學習算法之突破性演進，徹底顛覆咗傳統圖像識別同自然語言處理之技術邊界。",
+          "reading": "sam1 dou6 hok6 zaap6 syun3 faat3 zi1 tat6 po3 sing3 jin2 zeon3, cit3 dai2 din1 fuk1 zo2 cyun4 tung4 tou4 zoeng6 sik1 bit6 tung4 zi6 jin4 jyu5 jin4 cyu2 lei5 zi1 gei6 seot6 bin1 gaai3. [sɐm˥ tou˨ hɔːk̚˨ tsaːp̚˨ syun˧ faːt̚˧ tsiː˥ tʰɐt̚˨ pʰɔː˧ sɪŋ˧ jiːn˧˥ tsɵn˧, tsʰiːt̚˧ tɐi˧˥ tiːn˥ fʊk̚˥ tsɔː˧˥ tsʰyːn˨˩ tʰʊŋ˨˩ tʰou˨˩ tsœːŋ˨ sɪk̚˥ piːt̚˨ tʰʊŋ˨˩ tsiː˨ jiːn˨˩ jyuː˩˧ jiːn˨˩ tsʰyː˧˥ lei˩˧ tsiː˥ kei˨ sɵt̚˨ piːn˥ kaːi˧] (SUM-DOU HOK-JAHP SUEN-FAHT JEE TUT-POH-SING YEEN-JEON, CHEET-DY DEEN-FUK-JOR CHUEN-TOONG TOU-JEUNG SIK-BEET TOONG JEE-YEEN YUE-YEEN CHUE-LEY JEE GAY-SUT BEEN-GY)",
+          "translation": "The breakthrough evolution of deep learning algorithms has completely overturned the technical boundaries of traditional image recognition and natural language processing."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【人工智能訣】大模型訓語料庫，參數微調算法精；機器深度學神經，算力奔湧智慧生！"
+      ],
+      "culturalNotes": [
+        "香港科技大學與香港中文大學在計算機視覺、自然語言處理與大數據領域位居世界頂尖行列。大灣區已建成以香港為科研核心、深圳與廣州為產業轉化基地之全球級AI算力集群。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"學校\":",
+          "prompt": "【前沿科技】以海量數據為基礎、能夠進行複雜語言生成與邏輯推理之核心AI技術架構稱為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第29課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：老師錯置）",
-            "混雜生硬詞彙之不規範語句（例項：學生未適配）",
-            "聲調助詞搭配欠妥之表達（例項：功課誤用）"
+            "大語言模型 (Large Language Model / LLM)",
+            "算盤珠心算",
+            "打字機打字",
+            "機械發條鐘"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「大語言模型（LLM）」為當代生成式人工智能之核心技術基石。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"學校\":",
+          "prompt": "【技術工程】為使預訓練AI模型更貼合特定領域專業知識或具體應用場景所進行之針對性參數調整過程係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第29課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：學生未適配）",
-            "聲調助詞搭配欠妥之表達（例項：功課誤用）",
-            "語序顛倒嘅非標準句式（例項：老師錯置）"
+            "微調 (Fine-tuning / Mei4 tiu4)",
+            "格式化全盤清空",
+            "拔掉電源關機",
+            "隨機猜測"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「微調（Fine-tuning）」係在大模型基礎上調整權重參數以適配專屬垂直領域之核心工藝。"
         }
       ]
     },
@@ -12019,15 +12028,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"學校\": Which sentence is completely correct?",
+          "prompt": "【深度學習】深度學習（Deep Learning）之所以具備強大表徵學習能力，主要歸功於其採用咗邊種核心架構：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第29課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：功課誤用）",
-            "語序顛倒嘅非標準句式（例項：老師錯置）",
-            "混雜生硬詞彙之不規範語句（例項：學生未適配）"
+            "多層人工神經網絡 (Multilayer Artificial Neural Networks)",
+            "單純手工規則枚舉",
+            "隨機亂數生成器",
+            "機械指針齒輪"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "深度學習依托多層人工神經網絡實現對高維非線性特徵之自主提取與擬合。"
         }
       ],
       "passThreshold": 0.8
@@ -12038,53 +12047,62 @@
     "subject": "cantonese",
     "unit": 29,
     "lessonNumber": 2,
-    "title": "科技創新與學術話語 (Science, Tech & Academic Discourse) (第2課)",
+    "title": "金融科技（FinTech）、區塊鏈與虛擬資產監管：「智能合約」、「去中心化」、「反洗黑錢」 (FinTech & Blockchain)",
     "level": "C1",
-    "objective": "Master Cantonese linguistics for 粵語單元29第2課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握金融科技（FinTech）、Web3區塊鏈底層邏輯（去中心化、智能合約）及香港虛擬資產合規監管（監管沙盒、AML反洗黑錢）之專業金融法律術語。",
     "presentation": {
-      "explanation": "",
+      "explanation": "香港作為國際金融中心，在金融科技創新與虛擬資產監管體系建設上處於全球領先地位：\n\n一、Web3與區塊鏈核心技術詞彙：\n１．「去中心化分佈式賬本」（heoi3 zung1 sam1 faa3 fan1 bou3 sik1 zoeng3 bun2）：\n- 透過共識機制（Consensus Mechanism）確保數據不可篡改與高度透明。\n２．「智能合約」（zi3 nang4 hap6 joek3 / Smart Contracts）：\n- 在區塊鏈上部署、條件滿足時自動執行的確定性程序代碼。\n\n二、虛擬資產合規與金融監管矩陣：\n１．「監管沙盒」（gaam1 gun2 saa1 haap6 / Regulatory Sandbox）：\n- 允許金融機構在受控環境下測試創新金融產品。\n２．「反洗黑錢（AML）與打擊恐怖主義融資（CFT）」（faan2 sai2 hak1 cin4*2）：\n- 金融機構必須嚴格落實「認識你的客戶（KYC）」與資金溯源審查。\n３．「虛擬資產交易平台發牌制度」（heoi1 ji5 zi1 caan2 gaau1 jik6 ping4 toi4 faat3 paai4 zai3 dou6 / VASP Licensing）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第29課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 29 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 29 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 29 in communication."
+          "target": "香港證監會正式實施虛擬資產交易平台發牌制度，在推動金融創新嘅同時嚴密防範金融風險。",
+          "reading": "hoeng1 gong2 zing3 gaam1 wui6*2 zing3 sik1 sat6 si1 heoi1 ji5 zi1 caan2 gaau1 jik6 ping4 toi4 faat3 paai4 zai3 dou6, zoi6 teoi1 dung6 gam1 jung4 cong3 san1 ge3 tung4 si4 jim4 mat6 fong4 faan6 gam1 jung4 fung1 him2. [hœːŋ˥ kʷɔːŋ˧˥ tsɪŋ˧ kaːm˥ wuːi˨˩ tsɪŋ˧ sɪk̚˥ sɐt̚˨ siː˥ hɵy˥ jiː˩˧ tsiː˥ tsʰaːn˨˩ kaːu˥ jɪk̚˨ pʰɪŋ˨˩ tʰɔːi˨˩ faːt̚˧ pʰaːi˨˩ tsai˧ tou˨, tsɔːi˨ tʰɵy˥ tʊŋ˨ kɐm˥ jʊŋ˨˩ tsʰɔːŋ˧ sɐn˥ kɛː˧ tʰʊŋ˨˩ siː˨˩ jiːm˨˩ mɐt̚˨ fɔːŋ˨˩ faːn˨ kɐm˥ jʊŋ˨˩ fʊŋ˥ hiːm˧˥] (HEUNG-GONG JING-GAHM-WUI JING-SIK SUT-SEE HOEY-YEE JEE-CHAAN GAU-YIK PING-TOY FAHT-PY JAI-DOU, JOY TOEY-DOONG GUM-YOONG CHONG-SUN GEH TOONG-SEE YEEM-MUT FONG-FAHN GUM-YOONG FOONG-HEEM)",
+          "translation": "The Hong Kong Securities and Futures Commission officially implemented the licensing regime for virtual asset trading platforms, strictly preventing financial risks while promoting financial innovation."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元29-2）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "區塊鏈技術透過智能合約實現自動清算結算，大幅降低跨境貿易之信任成本同履約風險。",
+          "reading": "keoi1 faai3 lin2 gei6 seot6 tau3 gwo3 zi3 nang4 hap6 joek3 sat6 jin6 zi6 dung6 cing1 syun3 git3 syun3, daai6 fuk1 gong3 dai1 kwaa1 ging3 mau6 jik6 zi1 seon3 jam6 sing4 bun2 tung4 leoi5 joek3 fung1 him2. [kʰɵy˥ faːi˧ liːn˧˥ kei˨ sɵt̚˨ tʰɐu˧ kʷɔː˧ tsiː˧ nɐŋ˨˩ hɐp̚˨ jœːk̚˧ sɐt̚˨ jiːn˨ tsiː˨ tʊŋ˨ tsʰɪŋ˥ syun˧ kiːt̚˧ syun˧, taːi˨ fʊk̚˥ kɔːŋ˧ tɐi˥ kʷʰaː˥ kɪŋ˧ mɐu˨ jɪk̚˨ tsiː˥ sɵn˧ jɐm˨ sɪŋ˨˩ puːn˧˥ tʰʊŋ˨˩ lɵy˩˧ jœːk̚˧ fʊŋ˥ hiːm˧˥] (KOEY-FAI-LEEN GAY-SUT TAU-GWOR JEE-NUNG HUP-YERK SUT-YEEN JEE-DOONG CHING-SUEN GEET-SUEN, DY-FUK GONG-DY KWAH-GING MAU-YIK JEE SEON-YUM SING-BOON TOONG LOEY-YERK FOONG-HEEM)",
+          "translation": "Blockchain technology realizes automatic clearing and settlement through smart contracts, substantially reducing trust costs and performance risks in cross-border trade."
+        },
+        {
+          "target": "所有獲批牌照之金融機構都必須嚴格遵守反洗黑錢條例，切實做好客戶身分認證同資金來源穿透審查。",
+          "reading": "so2 jau5 wok6 pai1 paai4 ziu3 zi1 gam1 jung4 gei1 gau3 dou1 bit1 seoi1 jim4 gaak3 zeon1 sau2 faan2 sai2 hak1 cin4*2 tiu4 lai6, cai3 sat6 zou6 hou2 haak3 wu6 san1 fan6*2 jing6 zing3 tung4 zi1 gam1 loi4 jyun4 cyun1 tau3 sam2 caa4. [sɔː˧˥ jɐu˩˧ wɔːk̚˨ pʰɐi˥ pʰaːi˨˩ tsiːu˧ tsiː˥ kɐm˥ jʊŋ˨˩ kei˥ kɐu˧ tou˥ piːt̚˥ sɵy˥ jiːm˨˩ kaːk̚˧ tsɵn˥ sɐu˧˥ faːn˧˥ sɐi˧˥ hɐk̚˥ tsʰiːn˨˩ tʰiːu˨˩ lɐi˨, tsʰɐi˧ sɐt̚˨ tsou˨ hou˧˥ haːk̚˧ wuː˨ sɐn˥ fɐn˨ jɪŋ˨ tsɪŋ˧ tʰʊŋ˨˩ tsiː˥ kɐm˥ lɔːi˨˩ jyːn˨˩ tsʰyːn˥ tʰɐu˧ sɐm˧˥ tsʰaː˨˩] (SOH-YAU WOK-PY PY-JEW JEE GUM-YOONG GAY-GAU DOH BEET-SOEY YEEM-GAAK JEON-SAU FAHN-SY HUK-CHEEN TEW-LY, CHY-SUT JOU-HOH HAAK-WOO SUN-FUN YING-JING TOONG JEE-GUM LOY-YUEN CHUEN-TAU SUM-CHAH)",
+          "translation": "All licensed financial institutions must strictly adhere to Anti-Money Laundering regulations, earnestly performing customer identity verification and look-through examination of fund sources."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【金科監管訣】去中心化合約靈，區塊鏈上結算清；監管沙盒控風險，合規發牌四海名！"
+      ],
+      "culturalNotes": [
+        "香港特區政府發布的《有關香港虛擬資產發展的政策宣言》，確立了香港建設全球Web3與虛擬資產創新中心的戰略地位。數碼港（Cyberport）與香港金融管理局（HKMA）推出了多項支持FinTech初創企業的孵化政策。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"老師\":",
+          "prompt": "【區塊鏈應用】在區塊鏈上部署、當預設條件被觸發時自動無偏差執行之程序代碼稱為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第29課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：學生錯置）",
-            "混雜生硬詞彙之不規範語句（例項：功課未適配）",
-            "聲調助詞搭配欠妥之表達（例項：考試誤用）"
+            "智能合約 (Smart Contracts / Zi3 nang4 hap6 joek3)",
+            "口頭協議",
+            "手寫收據",
+            "傳真文件"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「智能合約（Smart Contracts）」為去中心化應用中自動執行條款之核心技術。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"老師\":",
+          "prompt": "【金融監管】允許金融科技初創企業在真實市場環境但受限範圍內測試創新產品之監管機制稱為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第29課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：功課未適配）",
-            "聲調助詞搭配欠妥之表達（例項：考試誤用）",
-            "語序顛倒嘅非標準句式（例項：學生錯置）"
+            "監管沙盒 (Regulatory Sandbox / Gaam1 gun2 saa1 haap6)",
+            "全面禁止創新",
+            "放任自流不予監管",
+            "強制關閉業務"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「監管沙盒（Regulatory Sandbox）」為平衡金融創新與風險防控之標誌性監管制度。"
         }
       ]
     },
@@ -12092,15 +12110,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"老師\": Which sentence is completely correct?",
+          "prompt": "【合規義務】金融機構為防止不法資金透過金融體系合法化，必須強制嚴格落實之合規審查條例係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第29課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：考試誤用）",
-            "語序顛倒嘅非標準句式（例項：學生錯置）",
-            "混雜生硬詞彙之不規範語句（例項：功課未適配）"
+            "反洗黑錢條例（AML）與認識你的客戶（KYC） (Anti-Money Laundering & KYC)",
+            "單純登記用戶暱稱",
+            "免除一切身分核實",
+            "允許匿名大額跨境轉賬"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "AML（反洗黑錢）與KYC（客戶身分識別）為全球金融機構營運之法定底線。"
         }
       ],
       "passThreshold": 0.8
@@ -12111,53 +12129,62 @@
     "subject": "cantonese",
     "unit": 29,
     "lessonNumber": 3,
-    "title": "科技創新與學術話語 (Science, Tech & Academic Discourse) (第3課)",
+    "title": "生物醫藥、基因工程與醫療科技前沿：「臨床試驗」、「標靶治療」、「基因編輯」 (Biomedicine & MedTech)",
     "level": "C1",
-    "objective": "Master Cantonese linguistics for 粵語單元29第3課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握現代生物醫藥、精準醫療、基因編輯技術及嚴謹科學臨床試驗（雙盲測試、對照組、安慰劑效應）之高階粵語學術詞彙。",
     "presentation": {
-      "explanation": "",
+      "explanation": "現代生命科學與精準醫學（Precision Medicine）之突破，依託嚴密之科學研究方法與實驗驗證體系：\n\n一、生物醫學與前沿療法核心詞彙：\n１．「標靶治療與免疫療法」（biu1 baa3 zi6 liu4 jyu5 min5 jik6 liu4 faat3）：\n- 精準識別癌細胞特異分子靶點，大幅降低對正常人體細胞之毒副作用。\n２．「基因編輯技術」（gei1 jan1 pin1 cap1 / CRISPR-Cas9）：\n- 對生物體特定DNA序列進行精確剪切、替換或修復。\n\n二、臨床試驗與實證科研方法論：\n１．「隨機雙盲對照試驗」（ceoi4 gei1 soeng1 mong4 deoi3 ziu3 si3 jim6 / Randomized Double-Blind Trial）：\n- 受試者與研究人員均不知曉分組情況，以徹底消除主觀偏見。\n２．「安慰劑效應」（on1 wai3 zai1 haau6 jing3 / Placebo Effect）：\n- 對照組服用無活性成分製劑，用以衡量藥物之真實生物化學療效。\n３．「統計學顯著差異」（tung2 gai3 hok6 hin2 zoek3 caa1 ji6 / p < 0.05）。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第29課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 29 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 29 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 29 in communication."
+          "target": "新研發之抗癌標靶藥物在第三期臨床試驗中表現優異，顯著延長咗晚期患者之無進展生存期。",
+          "reading": "san1 jin4 faat3 zi1 kong3 ngaam4 biu1 baa3 joek6 mat6 zoi6 dai6 saam1 kei4 lam4 cong4 si3 jim6 zung1 biu2 jin6 jau1 ji3, hin2 zoek3 jin4 coeng4 zo2 maan5 kei4 waan6 ze2 zi1 mou4 zeon3 zin2 sang1 cyun4 kei4. [sɐn˥ jiːn˨˩ faːt̚˧ tsiː˥ kʰɔːŋ˧ ŋaːm˨˩ biːu˥ paː˧ jœːk̚˨ mɐt̚˨ tsɔːi˨ tɐi˨ saːm˥ kʰei˨˩ lɐm˨˩ tsʰɔːŋ˨˩ siː˧ jiːm˨ tsʊŋ˥ piːu˧˥ jiːn˨ jɐu˥ jiː˧, hin˧˥ tsœːk̚˧ jiːn˨˩ tsʰœːŋ˨˩ tsɔː˧˥ maːn˩˧ kʰei˨˩ waːn˨ tsɛː˧˥ tsiː˥ mouou˨˩ tsɵn˧ tsiːn˧˥ sɐŋ˥ tsʰyːn˨˩ kʰei˨˩] (SUN YEEN-FAHT JEE KONG-NGAHM BEW-BAH YERK-MUT JOY DY-SAHM-KEY LUM-CHONG SEE-YEEM JOONG BEW-YEEN YAU-YEE, HEEN-JERK YEEN-CHEUNG-JOR MAHN-KEY WAHN-JEH JEE MOU-JEON-JEEN SUNG-CHUEN-KEY)",
+          "translation": "The newly developed anti-cancer targeted drug performed outstandingly in Phase III clinical trials, significantly extending the progression-free survival of advanced patients."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元29-3）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "為確保研究結論之客觀公正，實驗必須嚴格執行雙盲測試，徹底排除安慰劑效應之干擾。",
+          "reading": "wai4 kok3 biu2 jin4 gau3 git3 leon6 zi1 haak3 gun1 gung1 zing3, sat6 jim6 bit1 seoi1 jim4 gaak3 zap1 hang4 soeng1 mong4 cak1 si3, cit3 dai2 paai4 ceoi4 on1 wai3 zai1 haau6 jing3 zi1 gon1 jiu2. [wɐi˨˩ kʰɔːk̚˧ piːu˧˥ jiːn˨˩ kɐu˧ kiːt̚˧ lɵn˨ tsiː˥ haːk̚˧ kuːn˥ kʊŋ˥ tsɪŋ˧, sɐt̚˨ jiːm˨ piːt̚˥ sɵy˥ jiːm˨˩ kaːk̚˧ tsɐp̚˥ hɐŋ˨˩ sœːŋ˥ mɔːŋ˨˩ tsʰak̚˥ siː˧, tsʰiːt̚˧ tɐi˧˥ pʰaːi˨˩ tsʰɵy˨˩ ɔːn˥ wɐi˧ tsɐi˥ haːu˨ jɪŋ˧ tsiː˥ kɔːn˥ jiːu˩˧] (WAI KOK-BEW YEEN-GAU GEET-LEON JEE HAAK-GOON GONG-JING, SUT-YEEM BEET-SOEY YEEM-GAAK JUP-HAHNG SEUNG-MONG CHUK-SEE, CHEET-DY PY-CHOEY ON-WAI-JAI HAU-YING JEE GOHN-YIU)",
+          "translation": "To ensure the objectivity and impartiality of the research conclusions, the experiment must strictly implement double-blind testing to thoroughly eliminate the interference of the placebo effect."
+        },
+        {
+          "target": "基因編輯技術為遺傳性罕見病之根治帶來咗全新希望，但同時亦必須接受嚴格之生命倫理審查。",
+          "reading": "gei1 jan1 pin1 cap1 gei6 seot6 wai4 wai4 cyun4 sing3 hon2 gin3 beng6 zi1 gan1 zi6 daai3 lai4 zo2 cyun4 san1 hei1 mong6, daan6 tung4 si4 jik6 bit1 seoi1 zip3 sau6 jim4 gaak3 zi1 sang1 ming6 leon4 lei5 sam2 caa4. [kei˥ jɐn˥ pʰiːn˥ tsʰɐp̚˥ kei˨ sɵt̚˨ wɐi˨˩ wɐi˨˩ tsʰyːn˨˩ sɪŋ˧ hɔːn˧˥ kiːn˧ pɪŋ˨ tsiː˥ kɐn˥ tsiː˨ taːi˧ lɐi˨˩ tsɔː˧˥ tsʰyːn˨˩ sɐn˥ hei˥ mɔːŋ˨, taːn˨ tʰʊŋ˨˩ siː˨˩ jik̚˨ piːt̚˥ sɵy˥ tsiːp̚˧ sɐu˨ jiːm˨˩ kaːk̚˧ tsiː˥ sɐŋ˥ mɪŋ˨ lœːn˨˩ lei˩˧ sɐm˧˥ tsʰaː˨˩] (GAY-YUN PEEN-CHUP GAY-SUT WAI WAI-CHUEN-SING HOHN-GEEN-BENG JEE GUN-JEE DY-LY-JOR CHUEN-SUN HEY-MONG, DAHN TOONG-SEE YIK BEET-SOEY JEEP-SAU YEEM-GAAK JEE SUNG-MING LEON-LEY SUM-CHAH)",
+          "translation": "Gene editing technology has brought brand new hope for the radical cure of rare hereditary diseases, but at the same time it must undergo rigorous bioethical scrutiny."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【生物醫藥訣】標靶精準攻病灶，雙盲對照驗真效；基因編輯除罕疾，實證醫學規矩高！"
+      ],
+      "culturalNotes": [
+        "香港大學李嘉誠醫學院與香港中文大學醫學院在鼻咽癌早篩（盧煜明院士無創產前診斷及液體活檢技術）、傳染病控制（管軼、袁國勇教授團隊）等領域引領全球醫學突破，享有崇高國際聲譽。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"學生\":",
+          "prompt": "【臨床試驗】在醫學實驗中，為徹底消除受試患者同醫生雙方之主觀心理暗示所採用之標準科研方法係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第29課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：功課錯置）",
-            "混雜生硬詞彙之不規範語句（例項：考試未適配）",
-            "聲調助詞搭配欠妥之表達（例項：成績誤用）"
+            "雙盲測試 (Double-blind test / Soeng1 mong4 cak1 si3)",
+            "隨意公開測試",
+            "單純問卷調查",
+            "口頭訪問"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「雙盲測試（Double-blind trial）」為國際醫學臨床試驗最高標準之黃金準則。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"學生\":",
+          "prompt": "【精準醫療】針對癌細胞特定突變基因或受體分子進行精準打擊、對正常組織損傷極小之現代療法係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第29課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：考試未適配）",
-            "聲調助詞搭配欠妥之表達（例項：成績誤用）",
-            "語序顛倒嘅非標準句式（例項：功課錯置）"
+            "標靶治療 (Targeted therapy / Biu1 baa3 zi6 liu4)",
+            "大劑量普通化療",
+            "傳統放血療法",
+            "單純休息靜養"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「標靶治療（Targeted Therapy）」為現代精準腫瘤醫學之重大突破。"
         }
       ]
     },
@@ -12165,15 +12192,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"學生\": Which sentence is completely correct?",
+          "prompt": "【前沿生物】利用CRISPR分子剪刀對生物基因組特定序列進行精確修改之尖端生物技術係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第29課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：成績誤用）",
-            "語序顛倒嘅非標準句式（例項：功課錯置）",
-            "混雜生硬詞彙之不規範語句（例項：考試未適配）"
+            "基因編輯 (Gene editing / CRISPR-Cas9)",
+            "普通血液透析",
+            "X光骨骼透視",
+            "心電圖檢查"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「基因編輯（Gene Editing）」為當代分子生物學中革命性之基因操作工具。"
         }
       ],
       "passThreshold": 0.8
@@ -12184,53 +12211,62 @@
     "subject": "cantonese",
     "unit": 29,
     "lessonNumber": 4,
-    "title": "科技創新與學術話語 (Science, Tech & Academic Discourse) (第4課)",
+    "title": "高教科研、學術論文寫作與研究方法論：「文獻探討」、「實證分析」、「統計顯著性」 (Academic Methodology)",
     "level": "C1",
-    "objective": "Master Cantonese linguistics for 粵語單元29第4課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握高階學術論文寫作架構（文獻探討、假說提出、實證分析、結論建言）、定量與定性研究方法論及統計學顯著性驗證之專業話語。",
     "presentation": {
-      "explanation": "",
+      "explanation": "撰寫高水平學術論文與參與國際學術研討，要求極為嚴謹之研究方法論與規範性學術語體：\n\n一、學術論文標準結構與寫作話語體系：\n１．「文獻探討 / 文獻綜述」（man4 hin3 taam3 tou2）：\n- 「縱觀過往文獻，既有研究多聚焦於……然而對於……仍缺乏深入探討」（梳理學術脈絡，確立研究缺口）。\n２．「研究假說提出」（tai4 ceot1 jin4 gau3 gaa2 syut3）：\n- 「基於上述理論推導，本研究提出以下核心假說：假說一（H1）……」。\n３．「實證分析與數據檢驗」（sat6 zing3 fan1 sik1）：\n- 運用回歸模型、結構方程模型（SEM）進行因果推斷。\n\n二、研究方法與統計學術語：\n- 「定量研究與定性研究」（ding6 loeng6 jyu5 ding6 sing3）：量化統計 vs. 質性訪談個案。\n- 「統計顯著性」（tung2 gai3 hin2 zoek3 sing3 / Statistical Significance）：p < 0.01 或 p < 0.05，拒絕零假設。\n- 「同行評審」（tung4 hong4 ping4 sam2 / Peer Review）：國際學術期刊嚴格匿名審稿機制。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第29課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 29 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 29 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 29 in communication."
+          "target": "文獻探討部分系統梳理咗近十年相關領域之研究成果，為本篇論文奠定咗扎實之理論基礎。",
+          "reading": "man4 hin3 taam3 tou2 bou6 fan6 hai6 tung2 so1 lei5 zo2 gan6 sap6 nin4 soeng1 gwaan1 ling5 wik6 zi1 jin4 gau3 sing4 gwo2, wai4 bun2 pin1 leon6 man4*2 din6 ding6 zo2 zaat3 sat6 zi1 lei5 leon6 gei1 sek6. [mɐn˨˩ hin˧ tʰaːm˧ tʰou˧˥ pou˨ fɐn˨ hɐi˨ tʰʊŋ˧˥ sɔː˥ lei˩˧ tsɔː˧˥ kɐn˨ sɐp̚˨ niːn˨˩ sœːŋ˥ kʷaːn˥ lɪŋ˩˧ wɪk̚˨ tsiː˥ jiːn˨˩ kɐu˧ sɪŋ˨˩ kʷɔː˧˥, wɐi˨˩ puːn˧˥ pʰiːn˥ lœːn˨ mɐn˨˩ tiːn˨ tɪŋ˨ tsɔː˧˥ tsaːt̚˧ sɐt̚˨ tsiː˥ lei˩˧ lœːn˨ kei˥ sɪk̚˨] (MUN-HEEN TAHM-TOU BOU-FUN HY-TOONG SOH-LEY-JOR GUN SUP-NEEN SEUNG-GWAHN LING-WIK JEE YEEN-GAU SING-GWOR, WAI BOON-PEEN LEON-MUN DEEN-DING-JOR JAAT-SUT JEE LEY-LEON GAY-SEK)",
+          "translation": "The literature review section systematically combed through research achievements in related fields over the past decade, laying a solid theoretical foundation for this thesis."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元29-4）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "實證分析結果顯示，自變量對因變量產生顯著之正向影響，統計顯著性達到百分之一之極高水平。",
+          "reading": "sat6 zing3 fan1 sik1 git3 gwo2 hin2 si6, zi6 bin3 loeng6 deoi3 jan1 bin3 loeng6 caang1 sang1 hin2 zoek3 zi1 zing3 hoeng3 jing2 hoeng2, tung2 gai3 hin2 zoek3 sing3 daat6 dou3 baak3 fan1 zi1 jat1 zi1 gik6 gou1 seoi2 zeon2. [sɐt̚˨ tsɪŋ˧ fɐn˥ sɪk̚˥ kiːt̚˧ kʷɔː˧˥ hin˧˥ siː˨, tsiː˨ piːn˧ lœːŋ˨ tɵy˧ jɐn˥ piːn˧ lœːŋ˨ tsʰaːŋ˥ sɐŋ˥ hin˧˥ tsœːk̚˧ tsiː˥ tsɪŋ˧ hœːŋ˧ jɪŋ˧˥ hœːŋ˧˥, tʰʊŋ˧˥ kɐi˧ hin˧˥ tsœːk̚˧ sɪŋ˧ taːt̚˨ tou˧ paːk̚˧ fɐn˥ tsiː˥ jɐt̚˥ tsiː˥ kɪk̚˨ kou˥ sɵy˧˥ tsɵn˧˥] (SUT-JING FUN-SIK GEET-GWOR HEEN-SEE, JEE-BEEN-LEUNG DEOY YUN-BEEN-LEUNG CHAANG-SUNG HEEN-JERK JEE JING-HEUNG YING-HEUNG, TOONG-GY HEEN-JERK-SING DAHT-DOU BAAK-FUN-JEE-YUT JEE GIK-GOU SOEY-JEON)",
+          "translation": "The empirical analysis results show that the independent variable exerts a significant positive impact on the dependent variable, with statistical significance reaching an extremely high level of one percent."
+        },
+        {
+          "target": "論文必須經過嚴格之雙向匿名同行評審，唯有方法嚴謹、論據充分且具備原創貢獻者方能獲准發表。",
+          "reading": "leon6 man4*2 bit1 seoi1 ging1 gwo3 jim4 gaak3 zi1 soeng1 hoeng3 nik1 ming4 tung4 hong4 ping4 sam2, wai4 jau5 fong1 faat3 jim4 gan2, leon6 geui3 cung1 fan1 ce2 geoi6 bei6 jyun4 cong3 gung3 hin3 ze2 fong1 nang4 wok6 zeon2 faat3 biu2. [lœːn˨ mɐn˨˩ piːt̚˥ sɵy˥ kɪŋ˥ kʷɔː˧ jiːm˨˩ kaːk̚˧ tsiː˥ sœːŋ˥ hœːŋ˧ nɪk̚˥ mɪŋ˨˩ tʰʊŋ˨˩ hɔːŋ˨˩ pʰɪŋ˨˩ sɐm˥, wɐi˨˩ jɐu˩˧ fɔːŋ˥ faːt̚˧ jiːm˨˩ kɐn˧˥, lœːn˨ kɵy˧ tsʰʊŋ˥ fɐn˥ tsʰɛː˧˥ kɵy˨ pei˨ jyːn˨˩ tsʰɔːŋ˧ kʊŋ˧ hin˧ tsɛː˧˥ fɔːŋ˥ nɐŋ˨˩ wɔːk̚˨ tsɵn˧˥ faːt̚˧ piːu˧˥] (LEON-MUN BEET-SOEY GING-GWOR YEEM-GAAK JEE SEUNG-HEUNG NIK-MING TOONG-HOHNG PING-SUM, WAI-YAU FONG-FAHT YEEM-GUN, LEON-GOEY CHOONG-FUN CHEH GOEY-BAY YUEN-CHONG GONG-HEEN-JEH FONG-NUNG WOK-JEON FAHT-BEW)",
+          "translation": "The manuscript must undergo rigorous double-blind peer review; only those with rigorous methodology, sufficient evidence, and original contributions can be approved for publication."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【學術論文訣】文獻綜述探源流，提出假說論據修；實證分析統計顯，同行評審志在求！"
+      ],
+      "culturalNotes": [
+        "香港擁有五所全球排名前一百位之頂尖研究型大學（港大、中大、科大、城大、理大）。香港的大學採用全英語教學與國際化學術規範，其教授與研究團隊在頂級期刊（如《Nature》、《Science》、《Cell》）發表的學術論文數量長期名列亞洲前茅。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"功課\":",
+          "prompt": "【學術寫作】在論文開篇部分，系統梳理前人研究成果並精確指出既有研究不足之章節稱為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第29課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：考試錯置）",
-            "混雜生硬詞彙之不規範語句（例項：成績未適配）",
-            "聲調助詞搭配欠妥之表達（例項：畢業誤用）"
+            "文獻探討 / 文獻綜述 (Literature Review / Man4 hin3 taam3 tou2)",
+            "隨手日記",
+            "純個人抒情",
+            "小說創作"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「文獻探討（Literature Review）」為確立研究價值與理論起點之必備核心章節。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"功課\":",
+          "prompt": "【統計分析】在定量實證研究中，用以表明研究結果並非出於隨機偶然、具備科學可靠性之核心概念係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第29課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：成績未適配）",
-            "聲調助詞搭配欠妥之表達（例項：畢業誤用）",
-            "語序顛倒嘅非標準句式（例項：考試錯置）"
+            "統計顯著性 (Statistical Significance / Tung2 gai3 hin2 zoek3 sing3)",
+            "主觀直覺感應",
+            "個人偏好猜測",
+            "拋硬幣決定"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「統計顯著性（Statistical Significance）」為實證定量分析中驗證假說之標準科學判據。"
         }
       ]
     },
@@ -12238,15 +12274,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"功課\": Which sentence is completely correct?",
+          "prompt": "【審稿機制】國際權威學術期刊為確保論文學術質量與客觀公正所普遍採用的審稿機制係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第29課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：畢業誤用）",
-            "語序顛倒嘅非標準句式（例項：考試錯置）",
-            "混雜生硬詞彙之不規範語句（例項：成績未適配）"
+            "雙向匿名同行評審 (Double-blind Peer Review)",
+            "作者自審自發",
+            "商業廣告競價排名",
+            "社交媒體投票"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「同行評審（Peer Review）」為現代國際學術出版與科學共同體驗證學術成果之基石。"
         }
       ],
       "passThreshold": 0.8
@@ -12257,53 +12293,62 @@
     "subject": "cantonese",
     "unit": 29,
     "lessonNumber": 5,
-    "title": "科技創新與學術話語 (Science, Tech & Academic Discourse) (第5課)",
+    "title": "科技倫理、數據私隱與智慧城市可持續治理：「算法偏見」、「倫理界限」、「可持續發展」 (Tech Ethics & Smart Governance)",
     "level": "C1",
-    "objective": "Master Cantonese linguistics for 粵語單元29第5課深度語言學結構 with authentic syntax, phonology, and idiomatic precision.",
+    "objective": "掌握科技倫理爭議（算法偏見、數據私隱、深度偽造）、智慧城市可持續發展及高階公共政策科技治理之專業批判思辨術語。",
     "presentation": {
-      "explanation": "",
+      "explanation": "科技之迅猛發展在帶來極大便利之同時，亦引發了深刻之倫理挑戰與治理難題：\n\n一、科技倫理與數字人權核心議題：\n１．「算法偏見與歧視」（syun3 faat3 pin1 gin3 jyu5 kei4 sik1 / Algorithmic Bias）：\n- 訓練數據中隱含之歷史偏見被AI算法放大，導致招聘、信貸審批中之系統性不公。\n２．「數據私隱侵犯與監控資本主義」（sou3 geoi3 jan2 si1 cam1 faan6）：\n- 個人生物特徵與行為軌跡被過度採集與濫用。\n３．「深度偽造（Deepfake）與信息操縱」：\n- 偽造音視頻引發之社會信任危機。\n\n二、智慧城市與可持續科技治理：\n１．「智慧城市可持續發展」（zi3 wai3 sing4 si5 ho2 ci4 zuk6 faat3 zin2）：\n- 智慧交通、綠色低碳能源電網與數字政務平台。\n２．「以人為本之科技治理綱領」（ji5 jan4 wai4 bun2 zi1 fo1 gei6 zi6 lei5）：\n- 「科技向善」（Tech for Good），確立清晰之倫理紅線與法律法規約束。",
       "examples": [
         {
-          "target": "我哋喺日常同專業交流入面靈活運用第29課嘅語法要點。",
-          "reading": "ngo5 dei6 hai2 yat6 seung4 zung1 wan6 jung6 dai6 29 fo3 [ŋɔː˩˧ tei˨ hɐi˩˧ jɐt˨ sœːŋ˨˩ tsʊŋ˥ wɐn˨ jʊŋ˨ tɐi˨ 29 fɔː˧] (NGOH-DAY HY YUT-SEUNG JOONG WUN-YOONG)",
-          "translation": "We flexibly deploy the grammar points of Unit 29 in communication."
+          "target": "科技研發必須堅守「以人為本、科技向善」之倫理底線，嚴防算法偏見加劇社會不平等現象。",
+          "reading": "fo1 gei6 jin4 faat3 bit1 seoi1 gin1 sau2 \"ji5 jan4 wai4 bun2, fo1 gei6 hoeng3 sin6\" zi1 leon4 lei5 dai2 sin3, jim4 fong4 syun3 faat3 pin1 gin3 gaa1 kek6 se5 wui6*2 bat1 ping4 dang2 jin6 zoeng6. [fɔː˥ kei˨ jiːn˨˩ faːt̚˧ piːt̚˥ sɵy˥ kiːn˥ sɐu˧˥ \"jiː˩˧ jɐn˨˩ wɐi˨˩ puːn˧˥, fɔː˥ kei˨ hœːŋ˧ siːn˨\" tsiː˥ lœːn˨˩ lei˩˧ tɐi˧˥ siːn˧, jiːm˨˩ fɔːŋ˨˩ syun˧ faːt̚˧ pʰiːn˥ kiːn˧ kaː˥ kʰɪk̚˨ sɛː˩˧ wuːi˨˩ pɐt̚˥ pʰɪŋ˨˩ tɐŋ˧˥ jiːn˨ tsœːŋ˨] (FOH-GAY YEEN-FAHT BEET-SOEY GEEN-SAU \"YEE-YUN WAI-BOON, FOH-GAY HEUNG-SEEN\" JEE LEON-LEY DY-SEEN, YEEM-FONG SUEN-FAHT PEEN-GEEN GAH-KEK SHEH-WUI BUT-PING-DUNG YEEN-JEUNG)",
+          "translation": "Technology R&D must uphold the ethical baseline of 'human-centered and technology for good', strictly preventing algorithmic bias from exacerbating social inequalities."
         },
         {
-          "target": "請大家留心呢句例句嘅聲調高低與字詞搭配（單元29-5）。",
-          "reading": "cing2 daai6 gaa1 lau4 sam1 ni1 geui3 lai6 geui3 ge3 seng1 diu6 [tsʰɪŋ˧˥ taːi˨ kaː˥ lɐu˨˩ sɐm˥ niː˥ kɵy˧ lɐi˨ kɵy˧ kɛː˧ sɛːŋ˥ tiːu˨] (CHING DY-GAH LAU-SUM NEE-GOEY LY-GOEY GEH SENG-DEW)",
-          "translation": "Please pay attention to the pitch contours and word collocations of this example."
+          "target": "智慧城市建設應當在提升公共服務效率同嚴格保護公民數據私隱之間取得動態平衡。",
+          "reading": "zi3 wai3 sing4 si5 gin3 cit3 jing1 dong1 zoi6 tai4 sing1 gung1 gung6 fuk6 mou6 haau6 leot6 tung4 jim4 gaak3 bou2 wu6 gung1 man4 sou3 geoi3 jan2 si1 zi1 gaan1 cak1 dak1 dung6 taai3 ping4 hang4. [tsiː˧ wɐi˧ sɪŋ˨˩ siː˨ kiːn˧ tsʰiːt̚˧ jɪŋ˥ tɔːŋ˥ tsɔːi˨ tʰɐi˨˩ sɪŋ˥ kʊŋ˥ kʊŋ˨ fʊk̚˨ mouou˨ haːu˨ lɵt̚˨ tʰʊŋ˨˩ jiːm˨˩ kaːk̚˧ pou˧˥ wuː˨ kʊŋ˥ mɐn˨˩ sou˧ kɵy˧ jɐn˩˧ siː˥ tsiː˥ kaːn˥ tsʰak̚˥ tɐk̚˥ tʊŋ˨ tʰaːi˧ pʰɪŋ˨˩ hɐŋ˨˩] (JEE-WAI SING-SEE GEEN-CHEET YING-DONG JOY TY-SING GONG-GONG FOOK-MOU HAU-LEUT TOONG YEEM-GAAK BOU-WOO GONG-MUN SOU-GOEY YUN-SEE JEE-GAHN CHUK-DUK DOONG-TY PING-HAHNG)",
+          "translation": "Smart city development should strike a dynamic balance between improving public service efficiency and strictly protecting citizens' data privacy."
+        },
+        {
+          "target": "面對深度偽造技術引發之新型網絡詐騙，監管部門應當未雨綢繆，制定嚴格之法律法規進行溯源治理。",
+          "reading": "min6 deoi3 sam1 dou6 ngai6 zou6 gei6 seot6 jan5 faat3 zi1 san1 jing4 mong5 lok3 zaa3 pin3, gaam1 gun2 bou6 mun4 jing1 dong1 mei6 jyu5 cau4 mau4, zai3 ding6 jim4 gaak3 zi1 faat3 leot6 faat3 kwai1 zeon3 hang4 sou3 jyun4 zi6 lei5. [miːn˨ tɵy˧ sɐm˥ tou˨ ŋɐi˨ tsou˨ kei˨ sɵt̚˨ jɐn˩˧ faːt̚˧ tsiː˥ sɐn˥ jɪŋ˨˩ mɔːŋ˩˧ lɔːk̚˧ tsaː˧ pʰiːn˧, kaːm˥ kʷuːn˧˥ pou˨ muːn˨˩ jɪŋ˥ tɔːŋ˥ mei˨ jyu˩˧ tsʰɐu˨˩ mɐu˨˩, tsai˧ tɪŋ˨ jiːm˨˩ kaːk̚˧ tsiː˥ faːt̚˧ lɵt̚˨ faːt̚˧ kʷɐi˥ tsɵn˧ hɐŋ˨˩ sou˧ jyːn˨˩ tsiː˨ lei˩˧] (MEEN-DEOY SUM-DOU NGY-JOU GAY-SUT YUN-FAHT JEE SUN-YING MONG-LOK JAH-PEEN, GAHM-GOON BOU-MOON YING-DONG MAY-YUE-CHAU-MAU, JAI-DING YEEM-GAAK JEE FAHT-LEUT FAHT-KWAI JEON-HAHNG SOU-YUEN JEE-LEY)",
+          "translation": "Faced with new cyber frauds triggered by deepfake technology, regulatory authorities should prepare in advance, formulating strict laws and regulations to conduct trace-and-source governance."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "【科技倫理訣】科技向善人為本，算法偏見須辨真；數據私隱守防線，智慧城市福祉深！"
+      ],
+      "culturalNotes": [
+        "香港《個人資料（私隱）條例》（PDPO）是亞洲最早出台的個人數據保護法律之一。香港個人資料私隱專員公署（PCPD）發布了《人工智能道德發展指引》，為企業合規部署AI技術提供了全方位的倫理指引。"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"考試\":",
+          "prompt": "【科技倫理】因訓練數據存在偏頗而導致AI決策系統對特定群體產生不公評判之現象稱為：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第29課嘅語法要點。",
-            "語序顛倒嘅非標準句式（例項：成績錯置）",
-            "混雜生硬詞彙之不規範語句（例項：畢業未適配）",
-            "聲調助詞搭配欠妥之表達（例項：圖書館誤用）"
+            "算法偏見 (Algorithmic Bias / Syun3 faat3 pin1 gin3)",
+            "完全客觀公正",
+            "絕對完美無瑕",
+            "硬件電路故障"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "「算法偏見（Algorithmic Bias）」為當前人工智能倫理治理中最關鍵之核心議題。"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"考試\":",
+          "prompt": "【公共政策】在重大科技風險或危機發生前預先制定防範對策與監管法規之成語係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第29課嘅語法要點。",
-            "混雜生硬詞彙之不規範語句（例項：畢業未適配）",
-            "聲調助詞搭配欠妥之表達（例項：圖書館誤用）",
-            "語序顛倒嘅非標準句式（例項：成績錯置）"
+            "未雨綢繆 (Preparing in advance / Mei6 jyu5 cau4 mau4)",
+            "臨渴掘井",
+            "亡羊補牢",
+            "坐以待斃"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "「未雨綢繆」常用於科技政策前瞻性制定與前沿風險防範語境。"
         }
       ]
     },
@@ -12311,15 +12356,15 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"考試\": Which sentence is completely correct?",
+          "prompt": "【科技治理】現代科技創新與數字化轉型必須恪守之核心倫理指導原則係：",
           "options": [
-            "我哋喺日常同專業交流入面靈活運用第29課嘅語法要點。",
-            "聲調助詞搭配欠妥之表達（例項：圖書館誤用）",
-            "語序顛倒嘅非標準句式（例項：成績錯置）",
-            "混雜生硬詞彙之不規範語句（例項：畢業未適配）"
+            "以人為本、科技向善 (Human-centered & Technology for Good)",
+            "利潤至上不顧後果",
+            "肆意侵犯個人私隱",
+            "全面推行算法壟斷"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "「以人為本、科技向善」為全球公認之科技治理與可持續發展最高準則。"
         }
       ],
       "passThreshold": 0.8
