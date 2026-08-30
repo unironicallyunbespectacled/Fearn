@@ -7455,53 +7455,62 @@
     "subject": "urdu",
     "unit": 18,
     "lessonNumber": 1,
-    "title": "شرطیہ اور امتناعی جملے (Conditional & Counterfactuals) (Part 1)",
+    "title": "حقیقی و امکانی شرط: 'اگر...تو' (Real & Open Conditionals)",
     "level": "B2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 18.1) with authentic precision.",
+    "objective": "حقیقی اور امکانی شرط (Real & Open Conditionals: اگر + مضارع/ماضی + تو + مستقبل) کی نحوی ساخت اور فصیح ترکیب پر مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں حقیقی اور امکانی شرط کے جملے (Real & Open Conditionals):\n\n1. **امکانی شرط کا بنیادی سانچہ (Basic Template)**:\n   - **اگر + فعل مضارع / حال + تو + فعل مستقبل**:\n     - «**اگر** تم محنت **کرو**، **تو** امتحان میں اول پوزیشن **حاصل کرو گے**»؛\n     - «**اگر** بارش **ہو**، **تو** موسم خوشگوار **ہو جائے گا**»۔\n\n2. **ماضی مطلق بطورِ شرط (Past as Condition for Immediate Future Result)**:\n   - «**اگر** اس نے سچ **کہا**، **تو** اس کی عزت **بڑھ جائے گی**»۔\n\n3. **نحوی ربط**:\n   - 'اگر' کے بعد آنے والے جملے کو **شرط** اور 'تو' کے بعد آنے والے جملے کو **جزا (جوابِ شرط)** کہتے ہیں۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "اگر ہم سچے دل سے علم اور سائنسی تحقیق کو اپنا مقصد بنا لیں، تو انشاء اللہ ہمارا ملک ترقی کی نئی بلندیوں کو چھو لے گا۔",
+          "reading": "Agar hum sachchay dil se ilm aur sainsi tehqeeq ko apna maqsad bana lein, to InshaAllah hamaara mulk taraqqi ki nayi bulandiyon ko chhoo lay ga. [əɡər həm sətʃːeː d̪ɪl seː ɪlm ɔːr saːɪnsiː t̪əɦqiːq koː əpnaː məqsəd̪ bənaː lẽː t̪oː ɪnʃaːʔəlːaːh həm-aːraː mʊlk t̪ərəqːiː kiː nəjiː bʊlənd̪ɪjõː koː tʃʰuː leː ɡaː] (UH-guhr HOOM suhch-CHAY DEEL say EELM owr sah-EEN-see tuhh-QEEQ koh uhp-NAH muhq-SUHD buh-NAH LEYN, TOH een-shah-UHL-LAH huh-mah-RAH MOOLK tuh-ruhq-QEE kee NY-ee boo-luhn-dee-YOHN koh CHHOO LAY gah)",
+          "translation": "If we make knowledge and scientific research our goal with a sincere heart [subjunctive condition: bana lein], then God willing our country will touch new heights of progress [future result: chhoo lay ga]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 18-1)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "اگر انسان صبر اور استقامت کا دامن مضبوطی سے تھامے رکھے، تو وقت کی بڑی سے بڑی رکاوٹ بھی اس کا راستہ نہیں روک سکتی۔",
+          "reading": "Agar insaan sabr aur istiqaamat ka daaman mazbooti se thaamay rakhay, to waqt ki bari se bari rukaawat bhi us ka raasta nahin rok sakti. [əɡər ɪnsaːn səbr ɔːr ɪst̪ɪqaːmət̪ kaː d̪aːmən məzbuːt̪iː seː t̪ʰaːmeː rəkʰeː t̪oː ʋəqt̪ kiː bəɽiː seː bəɽiː rʊkaːʋəʈ bʱiː ʊs kaː raːst̪aː nəhĩː roːk səkt̪iː] (UH-guhr een-SAHN SUH-bruhr owr ees-tuh-QAH-muht kah DAH-muhn muhz-boo-TEE say THAH-may RUH-khay, TOH VUHKT kee buh-DEE say buh-DEE roo-KAH-vuht BHEE OOS kah RAHS-tah nuh-HEEN ROHK suhk-TEE)",
+          "translation": "If a human holds fast to patience and steadfastness [subjunctive condition: thaamay rakhay], then even the biggest obstacle of time cannot block his path [potential: nahin rok sakti]."
+        },
+        {
+          "target": "اگر حکومت کسانوں کو جدید زرعی سہولیات اور بروقت قرضے فراہم کرے، تو ملک کی زرعی پیداوار میں خاطر خواہ اضافہ ہوگا۔",
+          "reading": "Agar hukoomat kisaanon ko jadeed zar'ee sahooliyaat aur bar-waqt qarzay faraaham karay, to mulk ki zar'ee paidaawaar mein khaatir-khwaah izaafa hoga. [əɡər hʊkuːmət̪ kɪsaːnõː koː dʒəd̪iːd̪ zərʔiː səhuːlɪjaːt̪ ɔːr bər-ʋəqt̪ qərzeː fəraːhəm kəreː t̪oː mʊlk kiː zərʔiː pɛːd̪aːʋaːr mẽː xaːt̪ɪr-xʋaːh ɪzaːfaː hoːɡaː] (UH-guhr hoo-KOO-muht kee-sah-NOHN koh juh-DEED zuhr-EE suh-hoo-lee-YAHT owr buhr-VUHKT quhr-ZAY fuh-rah-HUHM kuh-RAY, TOH MOOLK kee zuhr-EE py-dah-VAHR mayn khah-teer-KHVAH ee-ZAH-fah hoh-GAH)",
+          "translation": "If the government provides modern agricultural facilities and timely loans to farmers [subjunctive condition: faraaham karay], then substantial increase in agricultural output will occur [future: izaafa hoga]."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "شرط و جزا فارمولا: اگر (شرط) + کرو گے -> تو (جزا) + پاؤ گے!"
+      ],
+      "culturalNotes": [
+        "اردو کی حکمت اور اخلاقیات میں 'اگر نیک نیت رکھو گے تو برکت پاؤ گے' جیسے جملے فکر و فلسفہ کی بنیاد ہیں۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"بخار\":",
+          "prompt": "حقیقی امکانی شرط «اگر تم سچ بولو...» کا درست جوابِ شرط منتخب کیجیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («سر درد» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («آنکھیں» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («ہاتھ» کی خرابی)"
+            "تو سب تمہارا احترام کریں گے (To sab tumhaara ehtiraam karein gay - Correct future consequence)",
+            "تو سب نے کھانا کھایا تھا (بے ربط ماضی)",
+            "تو سب روتے تھے (ماضی استمراری کی بے جوڑ ساخت)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "امکانی شرط کے جواب میں مستقبل کا فصیح صیغہ «تو سب تمہارا احترام کریں گے» آتا ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"بخار\":",
+          "prompt": "شرط اور جزا کے ربط کا بنیادی لفظی جوڑا کیا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («آنکھیں» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («ہاتھ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («سر درد» کا غیر درست استعمال)"
+            "اگر... تو (Agar... to - Standard conditional-consequential pair)",
+            "چونکہ... اس لیے (علت و معلول)",
+            "حالانکہ... مگر (استدراک)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "شرط اور جزا کے لیے «اگر... تو» مستعمل ہے۔"
         }
       ]
     },
@@ -7509,17 +7518,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"بخار\": Which sentence is completely correct?",
+          "prompt": "حقیقی و امکانی شرط (Real & Open Conditionals) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («ہاتھ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («سر درد» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («آنکھیں» سے متعلق)"
+            "اگر ہم انصاف کے تقاضوں کو پورا کریں اور قانون کی بالادستی قائم کریں، تو ہمارا معاشرہ امن کا گہوارہ بن جائے گا۔ (If we fulfill the requirements of justice [poora karein] and establish supremacy of law, our society will become a cradle of peace [ban jaaye ga].)",
+            "اگر انصاف ہوا تھا تو گاڑی روتی تھی۔",
+            "اگر کے بعد ہمیشہ ماضی بعید آنا لازمی ہے۔",
+            "تو کا استعمال شرطیہ جملوں میں منع ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«اگر ہم انصاف کے تقاضوں کو پورا کریں اور قانون کی بالادستی قائم کریں، تو ہمارا معاشرہ امن کا گہوارہ بن جائے گا۔» حقیقی امکانی شرط کا مکمل اور شستہ جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u18-l2": {
@@ -7527,53 +7537,62 @@
     "subject": "urdu",
     "unit": 18,
     "lessonNumber": 2,
-    "title": "شرطیہ اور امتناعی جملے (Conditional & Counterfactuals) (Part 2)",
+    "title": "ماضی شرطی و امتناعی حسرت: 'اگر...تو' (Past Counterfactuals & Regret)",
     "level": "B2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 18.2) with authentic precision.",
+    "objective": "ماضی شرطی اور امتناعی جملوں (Past Counterfactuals: اگر وہ آتا تو ایسا ہوتا، کاش کہ...) کی ساخت اور غیر واقع شدہ حسرت کے اظہار پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں ماضی شرطی و امتناعی حسرت کے جملے (Past Counterfactuals & Regret):\n\n1. **ماضی امتناعی کی تشکیل (Counterfactual Formation)**:\n   - **اگر + فاعل + اسمِ فاعل (تا/تی/تے) + تو + فاعل + اسمِ فاعل (تا/تی/تے)**:\n     - «**اگر** تم محنت **کرتے**، **تو** ضرور کامیاب **ہوتے**» (Had you worked hard, you would have succeeded)؛\n     - «**اگر** وہ سچ **بولتا**، **تو** رسوا نہ **ہوتا**»۔\n\n2. **ماضی بعید امتناعی (Past Perfect Counterfactual)**:\n   - «**اگر** ہم نے سچ **کہا ہوتا**، **تو** یہ مصیبت نہ **آتی**»۔\n\n3. **حرفِ تمنا 'کاش' کا استعمال**:\n   - «**کاش** کہ ہم نے اپنے اسلاف کی نصیحت مانی **ہوتی**!»*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "اگر قوم نے بروقت اپنے اتحاد اور یکجہتی کا مظاہرہ کیا ہوتا، تو دشمن کو ہمارے خلاف سازش کرنے کی جرات کبھی نہ ہوتی۔",
+          "reading": "Agar qawm ne bar-waqt apne ittehaad aur yakjehti ka muzaahara kiya hota, to dushman ko hamaare khilaaf saazish karnay ki jur'at kabhi na hoti. [əɡər qɔːm neː bər-ʋəqt̪ əpneː ɪt̪ːɪhaːd̪ ɔːr jəkdʒɛɦtiː kaː mʊzaːhəraː kɪjaː hoːt̪aː t̪oː d̪ʊʃmən koː həm-aːreː xɪlaːf saːzɪʃ kərneː kiː dʒʊrʔət̪ kəbʱiː nə hoːt̪iː] (UH-guhr QOWM nay buhr-VUHKT uhp-NAY eet-tuh-HAHD owr yuhk-jyh-TEE kah moo-zah-huh-RAH kee-YAH hoh-TAH, TOH doosh-MUHN koh huh-mah-RAY khee-LAHF sah-ZEESH kuhr-NAY kee joor-UHT KUH-bhee nuh hoh-TEE)",
+          "translation": "Had the nation demonstrated its unity and solidarity in time [past counterfactual: kiya hota], the enemy would never have had the courage to conspire against us [counterfactual consequence: na hoti]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 18-2)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "اگر ہم نے اپنی زرخیز زمینوں اور قدرتی وسائل کا درست استعمال کیا ہوتا، تو آج ملک کو غیر ملکی امداد کا محتاج نہ ہونا پڑتا۔",
+          "reading": "Agar hum ne apni zarkhez zameenon aur qudrati wasaa'il ka durust istemaal kiya hota, to aaj mulk ko ghair-mulki imdaad ka mohtaaj na hona parta. [əɡər həm neː əpniː zərxeːz zəmiːnõː ɔːr qʊd̪rət̪iː ʋəsaːʔɪl kaː d̪ʊrʊst̪ ɪst̪ɪmaːl kɪjaː hoːt̪aː t̪oː aːdʒ mʊlk koː ɣɛːr-mʊlkiː ɪmdaːd̪ kaː mʊhtaːdʒ nə hoːnaː pəɽt̪aː] (UH-guhr HOOM nay uhp-NEE zuhr-KHAYZ zuh-mee-NOHN owr qood-ruh-TEE vuh-SAH-eel kah doo-ROOST ees-tay-MAHL kee-YAH hoh-TAH, TOH AHJ MOOLK koh ghyr-mool-KEE eem-DAHD kah mooh-TAHJ nuh hoh-NAH puhr-TAH)",
+          "translation": "Had we utilized our fertile lands and natural resources properly [kiya hota], the country would not have had to be dependent on foreign aid today [na hona parta]."
+        },
+        {
+          "target": "کاش کہ وہ دور اندیش رہنما اس تاریخی موڑ پر قوم کی رہنمائی کے لیے موجود ہوتا، تو تاریخ کا دھارا ہی بدل جاتا۔",
+          "reading": "Kaash ke woh door-andesh rehnuma is taareekhi mor par qawm ki rehnumaai ke liye maujood hota, to taareekh ka dhaara hi badal jaata. [kaːʃ keː ʋoːh d̪uːr-ənd̪eːʃ rɛɦnʊmaː ɪs t̪aːriːxiː moːɽ pər qɔːm kiː rɛɦnʊmaːʔiː keː lɪjeː mɔːdʒuːd̪ hoːt̪aː t̪oː t̪aːriːx kaː d̪ʱaːraː hiː bəd̪əl dʒaːt̪aː] (KAHSH kay VOH door-uhn-DAYSH ryh-noo-MAH EES tah-REE-khee MOHR puhr QOWM kee ryh-noo-mah-EE kay lee-AY mow-JOOD hoh-TAH, TOH tah-REEKH kah DHAH-rah HEE buh-DUHL jah-TAH)",
+          "translation": "Would that that farsighted leader had been present at this historical juncture for the guidance of the nation [regret: kaash ke maujood hota], the very course of history would have changed [badal jaata]."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "ماضی امتناعی فارمولا: اگر آتے (کرتے) تو دیکھتے (پاتے) + کاش ایسا ہوتا = حسرت و امتناع کا صیغہ!"
+      ],
+      "culturalNotes": [
+        "اردو مرثیے اور المیہ نثر میں 'کاش' اور ماضی امتناعی کے ذریعے تاریخی سانحات کے درد کو انتہائی شدت کے ساتھ بیان کیا جاتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"سر درد\":",
+          "prompt": "ماضی امتناعی و حسرت کا درست جملہ منتخب کیجیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («آنکھیں» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («ہاتھ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («دل» کی خرابی)"
+            "اگر تم وقت پر آتے تو گاڑی نہ چھوٹتی (Agar tum waqt par aatay to gaari na chhoot-ti - Correct past counterfactual with imperfective participles)",
+            "اگر تم وقت پر آؤ گے تو گاڑی چھوٹی تھی (بے ربط ملاپ)",
+            "اگر تم آئے تھے تو گاڑی جاتی ہے (غلط زمانہ)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«اگر تم وقت پر آتے تو گاڑی نہ چھوٹتی» ماضی امتناعی کا مستند ترین صیغہ ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"سر درد\":",
+          "prompt": "حسرت اور دلی تمنا کے لیے کون سا کلمہ مستعمل ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («ہاتھ» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («دل» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («آنکھیں» کا غیر درست استعمال)"
+            "کاش کہ ایسا ہوتا (Kaash ke aisa hota - Optative particle of past longing)",
+            "شاید کہ ایسا ہوگا (شک)",
+            "کیونکہ ایسا تھا (سبب)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "ماضی کی حسرت کے لیے «کاش کہ» استعمال کیا جاتا ہے۔"
         }
       ]
     },
@@ -7581,17 +7600,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"سر درد\": Which sentence is completely correct?",
+          "prompt": "ماضی شرطی و امتناعی حسرت (Past Counterfactuals & Regret) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («دل» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («آنکھیں» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («ہاتھ» سے متعلق)"
+            "اگر اس باصلاحیت طالب علم کو مناسب وسائل اور رہنمائی میسر آتی، تو وہ دنیا میں اپنی قوم کا نام روشن کرتا۔ (Had this talented student received proper resources and guidance [muyassar aati], he would have illuminated his nation's name [raushan karta].)",
+            "طالب علم کو وسائل آیا تھا اور رویا تھا۔",
+            "کاش کا استعمال صرف شاعری میں جائز ہے۔",
+            "ماضی امتناعی میں ہمیشہ مستقبل کا صیغہ آتا ہے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«اگر اس باصلاحیت طالب علم کو مناسب وسائل اور رہنمائی میسر آتی، تو وہ دنیا میں اپنی قوم کا نام روشن کرتا۔» ماضی امتناعی کا شاہکار نمونہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u18-l3": {
@@ -7599,53 +7619,62 @@
     "subject": "urdu",
     "unit": 18,
     "lessonNumber": 3,
-    "title": "شرطیہ اور امتناعی جملے (Conditional & Counterfactuals) (Part 3)",
+    "title": "استثنائی اور حاصرہ شرائط: 'بشرطیکہ' اور 'ورنہ' (Restricted Conditionals)",
     "level": "B2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 18.3) with authentic precision.",
+    "objective": "شروطِ حاصرہ و استثنائیہ (بشرطیکہ، اس شرط پر کہ، ورنہ / بصورتِ دیگر) کے نحوی اوزان اور قانونی و رسمی زبان پر عبور حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں حاصرہ اور استثنائی شرائط کے جملے (Restricted & Disjunctive Conditionals):\n\n1. **'بشرطیکہ' اور 'اس شرط پر کہ' (Provided that / On condition that)**:\n   - کسی عمل کے لیے قطعی اور حتمی شرط مقرر کرنا:\n     - «ہم تعاون کریں گے **بشرطیکہ** آپ سچائی کا ساتھ دیں»؛\n     - «معاہدہ طے پائے گا **اس شرط پر کہ** تمام فریقین متفق ہوں»۔\n\n2. **'ورنہ' اور 'بصورتِ دیگر' (Otherwise / Or else)**:\n   - شرط کے پورا نہ ہونے پر پیدا ہونے والے منفی نتیجے کا انتباہ:\n     - «محنت کرو **ورنہ** پچھتاؤ گے»؛\n     - «بروقت قدم اٹھاؤ **بصورتِ دیگر** موقع ہاتھ سے نکل جائے گا»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "ہم اس تجارتی اور تعلیمی معاہدے پر دستخط کرنے کے لیے تیار ہیں بشرطیکہ دونوں فریقین تمام شقوں پر دیانت داری سے عمل کریں۔",
+          "reading": "Hum is tijaarti aur ta'leemi muaahidat par dastkhat karnay ke liye tayyaar hain bashartay-keh dono fareeqain tamaam shiqqon par diyaanat-daari se amal karein. [həm ɪs t̪ɪdʒaːrt̪iː ɔːr t̪əʔliːmiː mʊʔaːhɪd̪eː pər d̪əst̪xət̪ kərneː keː lɪjeː t̪əjːaːr hɛ̃ː bə-ʃərt̪eː-kɛh d̪oːnõː fəriːqɛːn t̪əmaːm ʃɪqːõː pər d̪ɪjaːnət̪-d̪aːriː seː əməl kərẽː] (HOOM nay EES tee-JAHR-tee owr tuh-lee-MEE moo-AH-hee-day puhr duhs-tuh-KHUHT kuhr-NAY kay lee-AY ty-YAHR HYN buh-shahr-tay-KYH DOH-nohn fuh-ree-QAYN tuh-MAHM sheeq-QOHN puhr dee-yah-nuht-dah-REE say UH-muhl kuh-REYN)",
+          "translation": "We are ready to sign this commercial and educational agreement, provided that both parties honestly implement all clauses [restrictive: bashartay-keh]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 18-3)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "نوجوان نسل کو علم و ہنر کے زیور سے آراستہ کرنا از بس ضروری ہے ورنہ ہم جدید دنیا کی تیز رفتار دوڑ میں بہت پیچھے رہ جائیں گے۔",
+          "reading": "Naujawaan nasal ko ilm-o-hunar ke zewar se aaraasta karna az-bas zaroori hai warna hum jadeed duniya ki taiz-raftaar daur mein bohat peechhay reh jaayein gay. [nɔːdʒəʋaːn nəsl koː ɪlm-oː-hʊnər keː zeːʋər seː aːraːst̪aː kərnaː əz-bəs zəruːriː hɛː ʋərnəh həm dʒəd̪iːd̪ d̪ʊnɪjaː kiː t̪eːz-rəftaːr d̪ɔːɽ mẽː bəhət̪ piːtʃʰeː rəh dʒaːʔẽː ɡeː] (now-juh-VAHN NUH-suhl koh EEL-moh-HOO-nuhr kay ZAY-vuhr say ah-RAHS-tah kuhr-NAH uhz-BUHS zuh-ROO-ree HY VUHR-nuh HOOM juh-DEED doon-YAH kee tyz-ruhf-TAHR DOWR mayn BOH-huht PEE-chhay ruh jah-AYN gay)",
+          "translation": "It is absolutely essential to equip the youth with knowledge and skill, otherwise we will be left far behind in the modern world's fast-paced race [warning: warna]."
+        },
+        {
+          "target": "مظلوم کو بروقت اور شفاف انصاف فراہم کیا جانا چاہیے بصورتِ دیگر معاشرے کا امن و امان تباہ و برباد ہو جائے گا۔",
+          "reading": "Mazloom ko bar-waqt aur shaffaaf insaaf faraaham kiya jaana chaahiye ba-soorat-e-deegar muaashray ka amn-o-amaan tabaah-o-barbaad ho jaaye ga. [məzluːm koː bər-ʋəqt̪ ɔːr ʃəfːaːf ɪnsaːf fəraːhəm kɪjaː dʒaːnaː tʃaːhɪjeː bə-suːrət̪-eː-d̪iːɡər mʊʔaːʃreː kaː əmn-oː-əmaːn t̪əbaːh-oː-bərbaːd̪ hoː dʒaːjeː ɡaː] (muhz-LOOM koh buhr-VUHKT owr shuhf-FAHF een-SAHF fuh-rah-HUHM kee-YAH jah-NAH chah-hee-AY buh-SOO-ruh-tay-dee-GUHR moo-AHSH-ray kah UHM-noh-uh-MAHN tuh-BAHH-oh-buhr-BAHD hoh jah-YAY gah)",
+          "translation": "Timely and transparent justice must be provided to the oppressed, otherwise the peace and order of society will be destroyed [formal: ba-soorat-e-deegar]."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "حاصرہ شرائط: بشرطیکہ (لازمی شرط) + ورنہ/بصورتِ دیگر (منفی انتباہ)!"
+      ],
+      "culturalNotes": [
+        "اردو قانونی دستاویزات، عدالتی بیانات اور معاہدوں میں 'بشرطیکہ' اور 'بصورتِ دیگر' کو ناگزیر قانونی اصطلاحات کا درجہ حاصل ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"آنکھیں\":",
+          "prompt": "کسی لازمی شرط کے لیے فصیح ترین لفظ کیا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («ہاتھ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («دل» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («خاندان» کی خرابی)"
+            "بشرطیکہ (Bashartay-keh - Provided that / On condition that)",
+            "شاید کہ (احتمال)",
+            "حالانکہ (استدراک)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "لازمی اور حاصرہ شرط کے لیے «بشرطیکہ» بولا جاتا ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"آنکھیں\":",
+          "prompt": "انتباہ ظاہر کرنے والے لفظ «ورنہ» کا رسمی اور دفتری متبادل کیا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («دل» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («خاندان» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («ہاتھ» کا غیر درست استعمال)"
+            "بصورتِ دیگر (Ba-soorat-e-deegar - Formal / legal equivalent of otherwise)",
+            "اگر نہیں تو (غیر رسمی)",
+            "پھر بھی (تسلیمی)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "دفتری و قانونی اردو میں 'ورنہ' کے لیے «بصورتِ دیگر» لکھا جاتا ہے۔"
         }
       ]
     },
@@ -7653,17 +7682,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"آنکھیں\": Which sentence is completely correct?",
+          "prompt": "حاصرہ و استثنائی شرائط (Restricted Conditionals) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («خاندان» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («ہاتھ» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («دل» سے متعلق)"
+            "ہم نئی نسل کی فکری تربیت کے تمام اخراجات برداشت کریں گے بشرطیکہ وہ دیانت داری اور خلوص سے علم حاصل کریں ورنہ قوم کا سرمایہ ضائع ہو جائے گا۔ (We will bear all training expenses provided that they seek knowledge sincerely [bashartay-keh], otherwise national capital will be wasted [warna].)",
+            "ہم نے خرچ کیا تھا اور رویا تھا۔",
+            "بشرطیکہ صرف بازار کے سودوں میں لکھا جاتا ہے۔",
+            "ورنہ کو ہمیشہ جملے کے پہلے لفظ کے طور پر لکھنا چاہیے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«ہم نئی نسل کی فکری تربیت کے تمام اخراجات برداشت کریں گے بشرطیکہ وہ دیانت داری اور خلوص سے علم حاصل کریں ورنہ قوم کا سرمایہ ضائع ہو جائے گا۔» بشرطیکہ اور ورنہ کا شاہکار مربوط جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u18-l4": {
@@ -7671,53 +7701,62 @@
     "subject": "urdu",
     "unit": 18,
     "lessonNumber": 4,
-    "title": "شرطیہ اور امتناعی جملے (Conditional & Counterfactuals) (Part 4)",
+    "title": "رعایتی اور تسلیمی جملے: 'اگرچہ...تاہم' اور 'خواہ...یا' (Concessive Conditionals)",
     "level": "B2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 18.4) with authentic precision.",
+    "objective": "تسلیمی و رعایتی شرائط (Concessive Clauses: اگرچہ...تاہم/پھر بھی، خواہ...یا، چاہے...مگر) کی تشکیل اور ادبی فلسفے پر مہارت حاصل کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "اردو زبان میں رعایتی اور تسلیمی شرائط کے جملے (Concessive Conditionals):\n\n1. **'اگرچہ...تاہم / پھر بھی' (Although...even then / nevertheless)**:\n   - کسی رکاوٹ یا مخالفت کے باوجود نتیجہ نکلنے کا بیان:\n     - «**اگرچہ** راستہ کٹھن تھا، **تاہم** مسافر نے ہمت نہ ہاری»؛\n     - «**اگرچہ** وہ غریب ہے، **پھر بھی** غیرت مند ہے»۔\n\n2. **'خواہ...یا' اور 'چاہے...مگر' (Whether...or / No matter what)**:\n   - حالات کے تنوع کے باوجود قطعی عزم کا اظہار:\n     - «**خواہ** حالات اچھے ہوں **یا** برے، سچ بولنا چاہیے»؛\n     - «**چاہے** طوفان آئے **مگر** حق کا چراغ جلتا رہے گا»۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "اگرچہ حالات انتہائی ناسازگار اور کٹھن تھے، تاہم باہمت مجاہدین نے میدانِ عمل میں ثابت قدمی کی لازوال مثال قائم کی۔",
+          "reading": "Agarchay haalaat intihaai naasaazgaar aur kathan thay, taaham baa-himmat mujaahideen ne maidaan-e-amal mein saabit-qadmi ki laa-zawaal misaai qaa'im ki. [əɡərtʃeː haːlaːt̪ ɪnt̪ɪhaːʔiː naːsaːzɡaːr ɔːr kətʰən t̪ʰeː t̪aːhəm baː-hɪmːət̪ mʊdʒaːhɪdiːn neː mɛːd̪aːn-eː-əməl mẽː saːbɪt̪-qəd̪miː kiː laː-zəʋaːl mɪsaːl qaːʔɪm kiː] (UH-guhr-chay hah-LAHT een-tuh-HAH-ee nah-sahz-GAHR owr kuh-THUHN thay, TAH-huhm bah-HEEM-muht moo-jah-hee-DEEN nay my-DAH-nay-UH-muhl mayn sah-beet-quhd-MEE kee lah-zuh-VAHL mee-SAHL QAH-eem KEE)",
+          "translation": "Although conditions were extremely unfavorable and tough [concessive: agarchay], yet the courageous fighters established an immortal example of steadfastness [taaham]."
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 18-4)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "خواہ راستہ کتنا ہی پرخطر ہو یا منزل کتنی ہی دور ہو، سچے مسافر کبھی بھی اپنے مقدس سفر سے پیچھے نہیں ہٹتے۔",
+          "reading": "Khwaah raasta kitna hi pur-khatar ho ya manzil kitni hi door ho, sachchay musaafir kabhi bhi apne muqaddas safar se peechhay nahin hatt-tay. [xʋaːh raːst̪aː kɪt̪naː hiː pʊr-xət̪ər hoː jaː mənzɪl kɪt̪niː hiː d̪uːr hoː sətʃːeː mʊsaːfɪr kəbʱiː bʱiː əpneː mʊqəd̪ːəs səfər seː piːtʃʰeː nəhĩː həʈʈeː] (KHVAH RAHS-tah KEET-nah HEE poor-khuh-TUHR hoh YAH muhn-ZEEL KEET-nee HEE DOOR hoh, suhch-CHAY moo-sah-FEER KUH-bhee BHEE uhp-NAY moo-quhd-DUHS suh-FUHR say PEE-chhay nuh-HEEN huht-TAY)",
+          "translation": "Whether the path be ever so perilous [khwaah] or the destination ever so distant [ya], true travelers never retreat from their sacred journey."
+        },
+        {
+          "target": "چاہے دنیا کتنی ہی مخالفت کرے مگر حق اور سچائی کا پرچم ایک دن پوری آب و تاب کے ساتھ ضرور لہرائے گا۔",
+          "reading": "Chaahe duniya kitni hi mukhaalifat karay magar haqq aur sachchaai ka parcham ek din poori aab-o-taab ke saath zaroor lehraaye ga. [tʃaːheː d̪ʊnɪjaː kɪt̪niː hiː mʊxaːlɪfət̪ kəreː məɡər hʌqː ɔːr sətʃːaːʔiː kaː pərtʃəm eːk d̪ɪn puːriː aːb-oː-t̪aːb keː saːt̪ʰ zəruːr lɛɦraːjeː ɡaː] (CHAH-hay doon-YAH KEET-nee HEE moo-khah-lee-FUHT kuh-RAY muh-GUHR HUHQQ owr suhch-chah-EE kah puhr-CHUHM AYK DEEN POO-ree AHB-oh-TAHB kay SAHTH zuh-ROOR lyh-RAH-yay gah)",
+          "translation": "No matter how much the world opposes [chaahe], yet the flag of truth and righteousness will certainly wave one day with full splendor [magar]."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "تسلیمی جوڑے: اگرچہ (رکاوٹ) + تاہم (استقامت)، خواہ (چاہے یہ ہو) + یا (چاہے وہ ہو)!"
+      ],
+      "culturalNotes": [
+        "اردو کی انقلابی شاعری (جیسے فیض، حبیب جالب اور اقبال) میں جبر کے مقابلے میں 'اگرچہ...تاہم' کا اسلوب امید کی شمع جلائے رکھتا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"ہاتھ\":",
+          "prompt": "تسلیمی شرط «اگرچہ» کے بعد آنے والا فصیح جوابِ شرط کون سا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («دل» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («خاندان» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («والد» کی خرابی)"
+            "تاہم (Taaham - Correct correlative answering agarchay)",
+            "ورنہ (انتباہ)",
+            "بشرطیکہ (حصر)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«اگرچہ» کے جواب میں «تاہم» یا «پھر بھی» آتا ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"ہاتھ\":",
+          "prompt": "ہر صورت میں ثابت قدم رہنے کا فصیح جملہ کیا ہوگا؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («خاندان» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («والد» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («دل» کا غیر درست استعمال)"
+            "خواہ کچھ بھی ہو، ہم سچ کہیں گے (Whether come what may, we will speak truth - Concessive khwaah)",
+            "اگرچہ ہم سچ کہیں گے ورنہ (بے جوڑ ساخت)",
+            "بشرطیکہ سچ کہیں گے روئیں گے (بے معنی)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "«خواہ کچھ بھی ہو، ہم سچ کہیں گے» تسلیمی عزم کا فصیح جملہ ہے۔"
         }
       ]
     },
@@ -7725,17 +7764,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"ہاتھ\": Which sentence is completely correct?",
+          "prompt": "رعایتی اور تسلیمی جملوں (Concessive Conditionals: اگرچہ...تاہم) کا فصیح جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («والد» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («دل» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («خاندان» سے متعلق)"
+            "اگرچہ مشکلات کے پہاڑ کھڑے ہیں، تاہم قوم کے عزم اور حوصلے میں کوئی کمی نہیں آئی اور وہ منزل کی طرف رواں دواں ہے۔ (Although mountains of difficulties stand [agarchay], yet no decline has occurred in the resolve of the nation [taaham].)",
+            "اگرچہ مشکلات تھا گاڑی روتی تھی۔",
+            "خواہ کا استعمال صرف فارسی میں جائز ہے۔",
+            "تاہم کو ہمیشہ جملے کے بالکل آخر میں لکھنا چاہیے۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«اگرچہ مشکلات کے پہاڑ کھڑے ہیں، تاہم قوم کے عزم اور حوصلے میں کوئی کمی نہیں آئی اور وہ منزل کی طرف رواں دواں ہے۔» رعایتی اور تسلیمی شرط کا مکمل فصیح جملہ ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u18-l5": {
@@ -7743,53 +7783,62 @@
     "subject": "urdu",
     "unit": 18,
     "lessonNumber": 5,
-    "title": "شرطیہ اور امتناعی جملے (Conditional & Counterfactuals) (Part 5)",
+    "title": "شرطیہ اور امتناعی جملوں کا جامع سمیکن (Conditionals Grand Synthesis)",
     "level": "B2",
-    "objective": "Master Urdu linguistics and Nastaliq syntax for اردو قواعد و فصاحت و بلاغت (سبق 18.5) with authentic precision.",
+    "objective": "امکانی شرط (اگر...تو)، امتناعی حسرت (کاش...ہوتا)، حاصرہ (بشرطیکہ/ورنہ) اور تسلیمی (اگرچہ/خواہ) کو ایک عظیم الشان خطیبانہ شاہکار میں یکجا کرنا۔",
     "presentation": {
-      "explanation": "",
+      "explanation": "شرطیہ اور امتناعی جملوں کا عظیم الشان سمیکن (Grand Synthesis):\n\n1. **فلسفیانہ اور خطیبانہ کمال**:\n   - جب شرط کی تمام جہتیں ایک ہی فکری پیرا گراف میں یکجا ہو جائیں تو تحریر میں تاریخی وزن پیدا ہو جاتا ہے:\n     - **تسلیمی**: «**اگرچہ** راستہ کٹھن ہے»؛\n     - **امکانی**: «**اگر** ہم محنت کریں **تو** کامیاب ہوں گے»؛\n     - **حاصرہ**: «**بشرطیکہ** ہم مخلص رہیں، **ورنہ** پچھتاوا ہوگا»؛\n     - **امتناعی حسرت**: «آنے والی نسلیں کہیں گی کہ **کاش ہم نے ایسا کیا ہوتا**»۔\n\n2. **قومی و ادبی بیانیہ**:\n   - یہ متوازن اور شستہ اسلوب اردو کے عظیم خطباء اور فلسفیوں کی لازوال تحریروں کی جان ہے۔*",
       "examples": [
         {
-          "target": "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-          "reading": "[həm ɪs səbəq mẽː ʊrd̪uː zəbaːn kiː nʌhwiː saːxt kaː mʊt̪aːlɪʔaː kərteː hɛ̃ː] (hum is suh-buq mayn)",
-          "translation": "We study the polite syntactic structure and literary style of Urdu in this lesson."
+          "target": "اگرچہ منزل دور اور راستہ کٹھن ہے، اگر ہم سچے دل سے محنت کریں تو کامیابی ہمارا مقدر بنے گی، بشرطیکہ ہم باہمی اتحاد اور خلوص کا دامن نہ چھوڑیں، ورنہ تاریخ ہمیں کبھی معاف نہیں کرے گی اور آنے والی نسلیں حسرت سے کہیں گی کہ کاش ہمارے اسلاف نے بروقت فیصلہ کیا ہوتا۔",
+          "reading": "Agarchay manzil door aur raasta kathan hai, agar hum sachchay dil se mehnat karein to kaamyaabi hamaara muqaddar banay gi, bashartay-keh hum baahami ittehaad aur khuloos ka daaman na chhorein, warna taareekh hamein kabhi maaf nahin karay gi aur aanay waali naslein hasrat se kahein gi keh kaash hamaare aslaaf ne bar-waqt faisla kiya hota. [əɡərtʃeː mənzɪl d̪uːr ɔːr raːst̪aː kətʰən hɛː əɡər həm sətʃːeː d̪ɪl seː mɛɦnət̪ kərẽː t̪oː kaːmjaːbiː həm-aːraː mʊqəd̪ːər bəneː ɡiː bə-ʃərt̪eː-kɛh həm baːhəmiː ɪt̪ːɪhaːd̪ ɔːr xʊluːs kaː d̪aːmən nə tʃʰoːɽẽː ʋərnəh t̪aːriːx həmẽː kəbʱiː maːf nəhĩː kəreː ɡiː ɔːr aːneː ʋaːliː nəslẽː həsrt̪ seː kəhẽː ɡiː kɛh kaːʃ həm-aːreː əslaːf neː bər-ʋəqt̪ fɛːslaː kɪjaː hoːt̪aː] (UH-guhr-chay muhn-ZEEL DOOR owr RAHS-tah kuh-THUHN HY, UH-guhr HOOM suhch-CHAY DEEL say MYH-nuht kuh-REYN TOH kahm-yah-BEE huh-mah-RAH moo-quhd-DUHR buh-NAY gee, buh-shahr-tay-KYH HOOM bah-huh-MEE eet-tuh-HAHD owr khoo-LOOS kah DAH-muhn nuh CHHOH-reyn, VUHR-nuh tah-REEKH huh-MAYN KUH-bhee MAHF nuh-HEEN kuh-RAY gee owr ah-NAY vah-LEE nuhs-LAYN huhs-RUHT say kuh-HEYN gee KYH KAHSH huh-mah-RAY uhs-LAHF nay buhr-VUHKT FYS-lah kee-YAH hoh-TAH)",
+          "translation": "Although destination is far [agarchay], if we work hard then success will be our destiny [agar...to], provided that we do not abandon unity [bashartay-keh], otherwise history will not forgive us [warna] and future generations will say with regret: would that our ancestors had decided in time [kaash...kiya hota]!"
         },
         {
-          "target": "برائے مہربانی اس جملے میں الفاظ کی باہمی نشست اور اضافت پر غور فرمائیے (سبق 18-5)۔",
-          "reading": "[bəraːjeː mɛːɦrbaːniː ɪs dʒʊmleː mẽː ɣɔːr fərmaːiːjeː] (buh-rah-yay MAY-huhr-bah-nee)",
-          "translation": "Please observe the word arrangement and izafat in this sentence."
+          "target": "اگر ہم اپنے علمی سرمائے کی حفاظت کریں تو روشن مستقبل کی ضمانت مل سکتی ہے، بشرطیکہ تحقیق کا معیار بلند رکھا جائے ورنہ ہم دنیا سے پیچھے رہ جائیں گے۔",
+          "reading": "Agar hum apne ilmi sarmaaye ki hifaazat karein to raushan mustaqbil ki zamaanat mil sakti hai, bashartay-keh tehqeeq ka me'yaar buland rakha jaaye warna hum duniya se peechhay reh jaayein gay. [əɡər həm əpneː ɪlmiː s ərmaːjeː kiː hɪfaːzət̪ kərẽː t̪oː roːʃən mʊst̪əqbɪl kiː zəmaːnət̪ mɪl səkt̪iː hɛː bə-ʃərt̪eː-kɛh t̪əɦqiːq kaː mɪʔjaːr bʊlənd̪ rəkʰaː dʒaːjeː ʋərnəh həm d̪ʊnɪjaː seː piːtʃʰeː rəh dʒaːʔẽː ɡeː] (UH-guhr HOOM uhp-NAY EEL-mee suhr-mah-YAY kee hee-fah-ZUHT kuh-REYN TOH roh-SHUHN moos-tuhq-BEEL kee zuh-mah-NUHT meel suhk-TEE HY, buh-shahr-tay-KYH tuhh-QEEQ kah may-YAHR boo-LUHND RUHKH-ah jah-YAY VUHR-nuh HOOM doon-YAH say PEE-chhay ruh jah-AYN gay)",
+          "translation": "If we protect our intellectual capital then guarantee of a bright future can be found [agar...to], provided that standard of research is kept high [bashartay-keh], otherwise we will be left behind [warna]."
+        },
+        {
+          "target": "خواہ دشمن کتنی ہی چالیں چلے، اگر قوم سیسہ پلائی دیوار بن جائے تو کوئی طاقت ہماری آزادی چھین نہیں سکتی۔",
+          "reading": "Khwaah dushman kitni hi chaalein chalay, agar qawm seesa pilaayi deewaar ban jaaye to koi taaqat hamaari aazaadi chheen nahin sakti. [xʋaːh d̪ʊʃmən kɪt̪niː hiː tʃaːlẽː tʃəleː əɡər qɔːm siːsaː pɪlaːjiː d̪iːʋaːr bən dʒaːjeː t̪oː koːiː t̪aːqət̪ həm-aːriː aːzaːd̪iː tʃʰiːn nəhĩː səkt̪iː] (KHVAH doosh-MUHN KEET-nee HEE chah-LAYN chuh-LAY, UH-guhr QOWM SEE-sah pee-LAH-yee dee-VAHR buhn jah-YAY TOH koh-EE TAH-quht huh-mah-REE ah-zah-DEE chheen nuh-HEEN suhk-TEE)",
+          "translation": "No matter how many tricks the enemy plays [khwaah], if the nation becomes a lead-poured wall then no power can snatch our freedom [agar...to]."
         }
       ],
-      "mnemonics": [],
-      "culturalNotes": []
+      "mnemonics": [
+        "جامع شرطیہ سمیکن: اگرچہ (تسلیم) + اگر...تو (امکان) + بشرطیکہ/ورنہ (حصر) + کاش...ہوتا (حسرت) = خطابت کی معراج!"
+      ],
+      "culturalNotes": [
+        "اردو کی عظیم تاریخی تقاریر (جیسے قائداعظم، سر سید اور اقبال کے خطبات) میں قوم کے مستقبل کا نقشہ کھینچنے کے لیے شرطیہ جملوں کا یہ جامع سمیکن کثرت سے استعمال ہوا ہے۔"
+      ]
     },
     "guidedPractice": {
       "items": [
         {
-          "prompt": "Select the authentic standard sentence practicing \"دل\":",
+          "prompt": "شرطیہ اور امتناعی صورتوں کے جامع امتزاج کا فصیح جملہ منتخب کیجیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "قواعد اور تذکیر و تانیث کی غلطی («خاندان» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («والد» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («والدہ» کی خرابی)"
+            "اگرچہ چیلنجز ہیں، اگر ہم متحد ہوں تو کامیاب ہوں گے، بشرطیکہ سچ پر قائم رہیں ورنہ کاش کہتے رہ جائیں گے (Masterful synthesis of agarchay, agar...to, bashartay-keh, warna, and kaash)",
+            "اگرچہ تھا اگر رویا تھا تو سو گیا تھا (بے ربط الفاظ)",
+            "وہ اگر سے ورنہ کرتا رہتا ہے (غیر معیاری)",
+            "کوئی نہیں"
           ],
           "answerIndex": 0,
-          "explanation": "The selected sentence represents authentic standard grammar."
+          "explanation": "«اگرچہ چیلنجز ہیں، اگر ہم متحد ہوں تو کامیاب ہوں گے، بشرطیکہ سچ پر قائم رہیں ورنہ کاش کہتے رہ جائیں گے» شرطیہ تمام اصناف کا کامل سمیکن ہے۔"
         }
       ]
     },
     "independentPractice": {
       "items": [
         {
-          "prompt": "Identify the linguistically natural exemplar featuring \"دل\":",
+          "prompt": "شرطیہ اور امتناعی جملوں کا جامع سمیکن اردو نثر کو کیا فکری حسن عطا کرتا ہے؟",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («والد» سے متعلق)",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («والدہ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («خاندان» کا غیر درست استعمال)"
+            "امکانات، شرائط، رکاوٹوں، انتباہات اور تاریخی حسرتوں کو ایک ہی شاندار اور پرشکوہ بیانیے میں سمو دینا (Integrating possibilities, conditions, obstacles, warnings, and regrets in grand eloquent prose)",
+            "صرف جملے کو لمبا بنانا",
+            "صرف لغت کو دہرانا",
+            "بے معنی بحث پیدا کرنا"
           ],
           "answerIndex": 0,
-          "explanation": "This choice demonstrates natural syntax and correct grammatical coordination."
+          "explanation": "یہ امکانات، شرائط، رکاوٹوں اور تاریخی حسرتوں کو پرشکوہ بیانیے میں سمو دیتا ہے۔"
         }
       ]
     },
@@ -7797,17 +7846,18 @@
       "items": [
         {
           "type": "multiple-choice",
-          "prompt": "Checkpoint verification for lesson focus \"دل\": Which sentence is completely correct?",
+          "prompt": "شرطیہ اور امتناعی جملوں کے جامع سمیکن (Conditionals Grand Synthesis) کا شاہکار جملہ پہچانیے:",
           "options": [
-            "ہم اس سبق میں اردو زبان کی شائستہ نحوی ساخت اور ادبی اسلوب کا مطالعہ کرتے ہیں۔",
-            "غیر فصیح اور غیر معیاری اندازِ بیان («والدہ» کی خرابی)",
-            "قواعد اور تذکیر و تانیث کی غلطی («خاندان» کا غیر درست استعمال)",
-            "نامناسب نشستِ الفاظ اور لاحقے کی خامی («والد» سے متعلق)"
+            "اگرچہ کڑا وقت ہے، اگر ہم متحد رہیں تو فتح پائیں گے، بشرطیکہ خلوص قائم رہے ورنہ تاریخ ہمیں معاف نہیں کرے گی اور دنیا کہے گی کہ کاش انہوں نے قدر کی ہوتی۔ (Although tough times exist [agarchay], if we stay united we will win [agar...to], provided sincerity remains [bashartay-keh], otherwise history will not forgive [warna] and world will say: would that they had valued [kaash]!)",
+            "اگرچہ کڑا وقت تھا کھانا کھایا تھا رویا تھا۔",
+            "جامع سمیکن صرف عدالت میں بولا جاتا ہے۔",
+            "شرطیہ جملے صرف پرانی کتابوں میں ہوتے ہیں۔"
           ],
           "answerIndex": 0,
-          "explanation": "The sentence accurately implements all grammatical constraints."
+          "explanation": "«اگرچہ کڑا وقت ہے، اگر ہم متحد رہیں تو فتح پائیں گے، بشرطیکہ خلوص قائم رہے ورنہ تاریخ ہمیں معاف نہیں کرے گی اور دنیا کہے گی کہ کاش انہوں نے قدر کی ہوتی۔» شرطیہ اور امتناعی جملوں کے جامع سمیکن کا کامل ترین شاہکار ہے۔"
         }
-      ]
+      ],
+      "passThreshold": 0.8
     }
   },
   "ur-u19-l1": {
